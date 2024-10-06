@@ -31,6 +31,499 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+(Video) Leonardo Campana marcó un golazo y festejó junto a Lionel Messi
+=======================================================================
+
+Leonardo Campana anotó un golazo agónico para darle la victoria al Inter de Miami.
+----------------------------------------------------------------------------------
+
+![Leonardo Campana celebrando con Lionel Messi luego de anotar un golazo en la MLS.](https://www.elcomercio.com/wp-content/uploads/2024/10/messi-campana.png)
+
+El **Inter Miami** continúa su racha de victorias gracias a la decisiva actuación del delantero ecuatoriano **Leonardo Campana**, quien selló el triunfo por 0-1 sobre Toronto FC en la MLS este 5 de octubre.
+
+### Más noticias
+
+* [Leonardo Campana y otras sorpresas de la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-leonardo-campana-sorpresas.html "Leonardo Campana y otras sorpresas de la Selección de Ecuador")
+* [Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/lionel-messi-mundial-clubes-inter-miami.html "Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025")
+
+El partido, disputado en condición de visitante, parecía destinado a un empate hasta que, en tiempo de descuento, **Campana anotó el único gol del encuentro**. Esta victoria mantiene vivas las esperanzas del equipo de alcanzar un **récord histórico de puntos en la liga estadounidense**.
+
+Campana, quien ha sido convocado recientemente por la selección ecuatoriana para los próximos enfrentamientos de eliminatorias mundialistas, demostró una vez más su **capacidad goleadora**.
+
+En el minuto 93, tras recibir un centro preciso del **uruguayo Luis Suárez**, controló el balón con gran técnica antes de enviar un potente disparo que terminó en la red. Su anotación **fue celebrada por su compañero Lionel Messi**, quien había ingresado en la segunda mitad del encuentro.
+
+> Se juntaron los goleadores ✨ Increíble volea de Campana para darnos la ventaja 💥 [pic.twitter.com/avXxs2pbWH](https://t.co/avXxs2pbWH)
+> 
+> — Inter Miami CF (@InterMiamiCF) [October 5, 2024](https://twitter.com/InterMiamiCF/status/1842686753599025493?ref_src=twsrc%5Etfw)
+
+Leonardo Campana sigue goleador por encima de Lionel Messi
+----------------------------------------------------------
+
+Con este gol, Campana eleva su registro a **32 tantos con la camiseta del Inter Miami**, consolidándose como el máximo goleador en la historia del club.
+
+A pesar de que **Messi, Suárez, Sergio Busquets y Jordi Alba** comenzaron en el banquillo, su influencia fue palpable en la segunda parte del partido, en la que el equipo local, Toronto FC, luchó por conseguir la victoria que les mantuviera en la pelea por los **playoff**s.
+
+Sin embargo, las intervenciones del portero argentino **Óscar Ustari**, quien debutó recientemente en la MLS, frustraron los intentos del equipo canadiense.
+
+El Inter Miami, con **71 puntos en 33 jornadas**, está a solo una victoria de superar el récord de 73 unidades. Para lograrlo, deberá vencer al propio New England en su próximo y decisivo partido, que se jugará el 19 de octubre en su estadio.
+
+Israel ataca centro de mando de Hamás
+=====================================
+
+A pocos días de cumplirse un año del conflicto entre Israel y Gaza, los ataques a puntos considerados como estratégicos continúan.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Este lunes 7 de octubre se cumple un año del inicio del conflicto entre Israel y Gaza. FOTO: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/israel-ataca-centro-de-mando-hamas-agencia-onu-refugiados.png)
+
+**Agencia EFE**  
+  
+Las Fuerzas de Defensa de Israel (IDF) anunciaron este sábado que realizaron un **ataque en la zona de Jabaliya, en el norte de la Franja de Gaza**, contra el grupo Hamás. Esta noticia la dieron en una comunicación a través de su canal de Telegram.
+
+Más noticias
+------------
+
+* [Edmundo González fijó fecha para tomar posesión como presidente de Venezuela](https://www.elcomercio.com/actualidad/mundo/edmundo-gonzalez-fecha-posesion-presidente-venezuela.html)
+* [Madrid flexibiliza la contratación de médicos de Cuba y de Venezuela](https://www.elcomercio.com/actualidad/mundo/madrid-flexibiliza-contratacion-medicos-cuba-venezuela.html)
+
+La institución aseguró que “el **centro de mando y control estaba integrado en un complejo** que anteriormente sirvió como **centro de la Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente Próximo** (UNRWA)”.
+
+Según el comunicado, ahora **el lugar era “utilizado por los terroristas de Hamás para planificar** y ejecutar ataques terroristas contra las tropas de las IDF y el Estado de Israel”.
+
+Acusaciones de Israel a la Agencia UNWRA
+----------------------------------------
+
+Desde el recrudecimiento del conflicto, **Israel ha acusado a esta Agencia de Naciones Unidas de colaborar con Hamás.** Esto provocó que 118 países, incluido Estados Unidos, decidieran congelar su financiamiento.
+
+Sin embargo, en el mes de julio pasado, **más de un centenar de países consideraron** otorgar nuevamente fondos a la UNRWA. Aunque, **Estados Unidos no podrá hacerlo hasta 2025**, por expresa prohibición del Congreso.
+
+Respuesta de la Agencia de Naciones Unidas para Refugiados
+----------------------------------------------------------
+
+La semana pasada, el jefe de la Agencia de Naciones Unidas para los Refugiados Palestinos (UNWRA), Philippe Lazzarini, **volvió a rechazar la campaña contra la imagen de esta institución** que está haciendo Israel.
+
+  
+El **próximo 7 de octubre se cumplirá un año desde el ataque de Hamás a Israel** en el que murieron 1.200 israelíes y fueron secuestrados otros 251 -de los cuales 97 continúan en manos del grupo armado-.
+
+El ataque desencadenó una intensa ofensiva de Israel contra Gaza en la que **han muerto cerca de 42 000 personas**, la mayoría mujeres y niños. EFE  
+
+Rugrats tendrá su primera película en acción real
+=================================================
+
+La icónica serie de los años 90 volverá a la pantalla grande con una mezcla de CGI y actores reales.
+----------------------------------------------------------------------------------------------------
+
+![Tommy Pickles es uno de los bebés de la serie 'Rugrats'. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/rugrats-El-comercio.jpg)
+
+La nostalgia de los 90 sigue viva y Paramount Pictures ha decidido aprovecharla al máximo.
+
+La querida serie animada **‘Rugrats: Aventuras en Pañales**‘ tendrá su primera adaptación en formato de acción real, pero con una vuelta de tuerca: los adorables bebés protagonistas serán creados con **CGI** (animación por computadora).
+
+### Más noticias
+
+* **[Beyoncé perdió millones de seguidores por su conexión con ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html "https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html")**
+* **[Pink Floyd vende su música y sus derechos por 400 millones de dólares](https://www.elcomercio.com/afull/pink-floyd-vende-musica-derechos-400-millones-dolares.html "https://www.elcomercio.com/afull/pink-floyd-vende-musica-derechos-400-millones-dolares.html")**
+
+Esta será la cuarta película de la franquicia y promete conquistar a viejos y nuevos fanáticos.
+
+¿Cómo será la nueva película de Rugrats?
+----------------------------------------
+
+![Carlitos es el mejor amigo de Tommy. Foto: Pintest](https://www.elcomercio.com/wp-content/uploads/2024/10/rugrats-El-comercio-2-1024x683.jpg)
+
+Carlitos es el mejor amigo de Tommy. Foto: Pintest
+
+La nueva película de Rugrats mezclará actores reales con personajes generados digitalmente. Mientras que los adultos serán interpretados por actores de carne y hueso, los bebés protagonistas, como **Tommy Pickles**, **Carlitos Finster** y **Angélica Pickle**s, serán creados digitalmente.
+
+Esta técnica busca recrear la magia de la serie original, pero adaptada al lenguaje visual moderno del cine. Jason Moore, conocido por su trabajo en comedias como ‘Dando la Nota’ y ‘Una boda explosiva’ , será el encargado de dirigir esta esperada película.
+
+El guion ha sido escrito por Mikey Day y Streeter Seidell, ambos humoristas reconocidos por su trabajo en Saturday Night Live . Además, los creadores originales de la serie, Arlene Klasky y Gábor Csupó, estarán involucrados en la producción, lo que garantiza que la esencia de Rugrats se mantendrá intacta.
+
+Rugrats, un clásico que regresa a lo grande
+-------------------------------------------
+
+![Angélica es la prima de Tommy. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/rugrats-El-comercio-1-1024x683.jpg)
+
+Angélica es la prima de Tommy. Foto: Pinterest
+
+‘Rugrats: Aventuras en Pañales’ fue una de las series animadas más exitosas de **Nickelodeon**. Emitida por primera vez en 1991, siguió las aventuras de un grupo de bebés y niños pequeños que, gracias a su imaginación, convertían situaciones cotidianas en emocionantes travesías.
+
+Con nueve temporadas y tres películas previas, la serie se convirtió en un fenómeno cultural para toda una generación. El regreso de Rugrats en formato de acción real y CGI es una apuesta arriesgada, pero Paramount confía en replicar el éxito que tuvo con otras producciones similares, como **‘Sonic, la película’**.
+
+Si bien el uso de CGI en películas ha generado críticas en el pasado, los fanáticos de Rugrats esperan que esta adaptación mantenga el espíritu original de la serie y atraiga tanto a quienes crecieron con ella como a las nuevas generaciones.
+
+![Cintya es la muñeca favorita de Angélica. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/rugrats-El-comercio-4-1024x683.jpg)
+
+Cintya es la muñeca favorita de Angélica. Foto: Pinterest
+
+Aunque aún no hay una fecha confirmada de estreno ni un elenco revelado, el proyecto ya genera expectativas entre quienes crecieron con las travesuras de Tommy, Carlitos y compañía.
+
+Una serie adelantada a su época
+-------------------------------
+
+‘Rugrats: Aventuras en Pañales’ destacaba por presentar una amplia gama de modelos familiares. Cada hogar reflejaba una estructura y dinámica distinta, desde el padre soltero Carlos Finster hasta los Pickles, donde la mamá de Tommy, Didi, mantenía una carrera profesional mientras su esposo Hugo era un inventor soñador.
+
+Estas diferencias en la crianza no solo aportaban humor a la serie, sino que normalizaban la idea de que no hay una única manera correcta de ser familia.
+
+La familia de Fili y Lili
+-------------------------
+
+![Betty DeVille es la mamá de los gemelos Fili y Lili. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/rugrats-El-comercio-6-1024x683.jpg)
+
+Betty DeVille es la mamá de los gemelos Fili y Lili. Foto: Pinterest
+
+La mamá de los mellizos Fili y Lili, Betty DeVille, rompía con los estereotipos de la época, mostrando a una mujer fuerte, atlética y feminista, mientras su esposo Ulises asumía un rol más tranquilo.
+
+Esta dinámica invertía las ideas tradicionales de género, destacando la importancia de compartir las responsabilidades parentales y mostrando que tanto hombres como mujeres pueden adoptar diferentes roles dentro del hogar sin ser cuestionados.
+
+Los papás de Angélica
+---------------------
+
+![Carlota es la mamá de Angélica. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/rugrats-El-comercio-5-1024x683.jpg)
+
+Carlota es la mamá de Angélica. Foto: Pinterest
+
+Los padres de Angélica, Julio y Charlotte Pickles, ofrecían una perspectiva distinta. Carlota era una mujer de negocios ambiciosa, siempre al teléfono, mientras que Drew, aunque también trabajador, adoptaba una postura más relajada.
+
+Esta familia reflejaba las tensiones de padres que buscan equilibrar el éxito profesional con la crianza de una hija, lo que influía en la actitud dominante y demandante de Angélica. La serie nos recordaba que, detrás de cada niño, hay un contexto familiar que moldea su comportamiento.
+
+Cerrará nueva parada de la Ecovía, en Quito
+===========================================
+
+Los trabajos en el carril exclusivo de la Ecovía se desarrollarán en 9km y tendrán una duración de 105 días.
+------------------------------------------------------------------------------------------------------------
+
+![La parada Jipijapa de la Ecovía retomó la atención después de la intervención en la zona. FOTO: Empresa de Transporte de Pasajeros.](https://www.elcomercio.com/wp-content/uploads/2024/10/trabajos-ecovia-6-de-diciembre-cierres-paradas.png)
+
+Los trabajos de hormigonado en la avenida 6 de Diciembre, en el norte Quito, provocan **cierres de las paradas en el carril exclusivo de la Ecovía.**
+
+Más noticias
+------------
+
+* [Cierre de tramo de la Autopista Rumiñahui para este domingo 6 de octubre](https://www.elcomercio.com/actualidad/cierre-de-tramo-de-la-autopista-ruminahui-para-este-domingo-6-de-octubre.html)
+* [Habilitan cinco desvíos por el cierre temporal de la Autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/habilitan-cinco-desvios-por-cierre-temporal-autopista-general-ruminahui.html)
+
+Después de 20 años de funcionamiento del carril exclusivo de la Ecovía, el **Municipio anunció una intervención.**
+
+Las empresas de Movilidad y Obras Públicas y la de Transporte de Pasajeros **intervienen 9km de esta vía**. **Las obras durarán 105 días**, según lo anunciado. Estas incluirán colocación de hormigón y, además, la readecuación de las paradas **en el norte y sur de Quito.**
+
+A pesar de los trabajos, el servicio de transporte de la **Ecovía continúa en funcionamiento.** Para los usuarios en algunos puntos se habilitaron paradas cercanas con estructuras provisionales.
+
+Nuevo cierre de parada
+----------------------
+
+Como parte de estos trabajos, la Empresa de Pasajeros anunció el **cierre de la parada Eloy Alfaro**, en el norte de **Quito**.
+
+**Primer cierre de un carril:** Desde el domingo, **6 de octubre de 2024**, se cerrará la parada en el sentido sur-norte. Y se habilitará una estructura provisional sobre este mismo carril.
+
+**Cierre total:** A partir del miércoles, **9 de octubre de 2024**, la parada se suspenderá totalmente. Según el comunicado de la empresa municipal, “se brindará el servicio con paradas provisionales”.
+
+> 🚎[#MuéveteInformado](https://twitter.com/hashtag/Mu%C3%A9veteInformado?src=hash&ref_src=twsrc%5Etfw) | A partir del domingo 6 de octubre, cerraremos la parada Eloy Alfaro de la [#Ecovía](https://twitter.com/hashtag/Ecov%C3%ADa?src=hash&ref_src=twsrc%5Etfw) sentido sur – norte.  
+>   
+> 👉Instalaremos una parada provisional para atender a nuestros usuarios.[#TrabajamosPorQuito](https://twitter.com/hashtag/TrabajamosPorQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tNHA93LR0Q](https://t.co/tNHA93LR0Q)
+> 
+> — Empresa de Pasajeros Quito (@TransporteQuito) [October 5, 2024](https://twitter.com/TransporteQuito/status/1842647356279304444?ref_src=twsrc%5Etfw)
+
+Paradas cercanas
+----------------
+
+Al norte de la parada Eloy Alfaro que cerrará se ubica la **parada Benalcázar**, cercana al colegio que lleva el mismo nombre. Mientras que al sur se ubica la **parada Bellavista**, cercana a la Iglesia de La Paz.
+
+El Nacional goleó a Barcelona SC, en Quito
+==========================================
+
+El Nacional ganó a Barcelona SC y terminó una semana perfecta luego de eliminar a Liga de Quito de la Copa Ecuador.
+-------------------------------------------------------------------------------------------------------------------
+
+![Celebración de uno de los goles de El Nacional frente a Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/10/nacional.png)
+
+Este 5 de octubre de 2024, **El Nacional** derrotó a **Barcelona SC** 3-0 en el estadio Olímpico Atahualpa, en el partido correspondiente a la novena fecha de la segunda etapa de la **LigaPro**.
+
+### Más noticias
+
+* [(Video) Hinchas de Barcelona SC lanzan huevos a sus jugadores](https://www.elcomercio.com/deportes/futbol/hinchas-barcelona-sc-lanzan-huevos-a-jugadores.html "(Video) Hinchas de Barcelona SC lanzan huevos a sus jugadores")
+* [El Nacional, a tres partidos de cortar 18 años sin títulos](https://www.elcomercio.com/deportes/futbol/el-nacional-copa-ecuador-titulos.html "El Nacional, a tres partidos de cortar 18 años sin títulos")
+
+El equipo local abrió el marcador de manera temprana, cuando Alejandro Cabezas anotó a los 3 minutos tras una asistencia de Gabriel Cortéz.
+
+Durante la primera mitad, **El Nacional** siguió generando peligro por los extremos, mientras que Barcelona SC intentaba responder con ataques por las bandas, pero sin eficacia.
+
+Los centros del equipo torero fueron en su mayoría neutralizados por la defensa local, y las jugadas de balón parado no generaron mayores oportunidades de gol para los dirigidos por **Ariel Holan**.
+
+El segundo gol llegó a los 32 minutos, tras un desborde por la banda de El Nacional. Un remate de **Gabriel Cortéz** no fue controlado por el arquero Víctor Mendoza, quien terminó cometiendo un error que envió el balón al fondo de las redes, ampliando la ventaja para los locales.
+
+> Final del partido en Quito.[#NACvsBSC](https://twitter.com/hashtag/NACvsBSC?src=hash&ref_src=twsrc%5Etfw) 3-0
+> 
+> — BARCELONA S.C. (@BarcelonaSC) [October 5, 2024](https://twitter.com/BarcelonaSC/status/1842699709372412305?ref_src=twsrc%5Etfw)
+
+El Nacional sentenció el partido en el segundo tiempo
+-----------------------------------------------------
+
+En el segundo tiempo, El Nacional optó por replegarse y defender su ventaja, mientras que Barcelona SC trataba de encontrar espacios para descontar, aunque sin éxito.
+
+A los 61 minutos, **Fernando Mora** fue expulsado, dejando a El Nacional con un jugador menos. Barcelona SC aprovechó la superioridad numérica para adelantar sus líneas, pero su defensa quedó expuesta.
+
+Finalmente, en el minuto 88, un contragolpe liderado por **Fidel Martínez** desde casi media cancha culminó en un potente remate que selló el 3-0. Con este resultado, Barcelona SC no logró sumar en Quito, mientras que El Nacional obtuvo una victoria crucial para sus aspiraciones en la segunda etapa de la LigaPro.
+
+> Fidel Francisco Martínez Tenorio[pic.twitter.com/f22RMRNOyA](https://t.co/f22RMRNOyA)
+> 
+> — Club Deportivo El Nacional (@elnacionalec) [October 5, 2024](https://twitter.com/elnacionalec/status/1842700685529186415?ref_src=twsrc%5Etfw)
+
+Incidentes en la concentración de Barcelona SC
+----------------------------------------------
+
+El encuentro, que se desarrolla en Quito, se vio marcado por la presión que la hinchada torera ha ejercido sobre el equipo. Exigieron mejores resultados tras una serie de partidos que no han cumplido con las expectativas de los seguidores.
+
+La tarde previa al partido, los jugadores de **Barcelona SC** fueron protagonistas de un incómodo momento a las afueras del hotel de concentración.
+
+> Los jugadores de Barcelona fueron despedidos del hotel con lanzamiento de huevos. La hinchada no está feliz  
+>   
+> 📹 [@idoloTV](https://twitter.com/idoloTV?ref_src=twsrc%5Etfw) [pic.twitter.com/kcNYsbw94E](https://t.co/kcNYsbw94E)
+> 
+> — MrOFF (@MrOFFSIDER) [October 5, 2024](https://twitter.com/MrOFFSIDER/status/1842649669630845152?ref_src=twsrc%5Etfw)
+
+En lugar de recibir el habitual apoyo de la hinchada, los miembros del equipo, liderado por el argentino Ariel Holan, enfrentaron duras críticas. Entre cánticos y reclamos, los hinchas arremetieron contra los jugadores, lanzándoles huevos y exigiendo mayor compromiso dentro de la cancha.
+
+En videos que circulan en redes sociales, se puede escuchar a los seguidores coreando frases como “suden la camiseta”.
+
+La vitamina que ayuda a prevenir la calvicie
+============================================
+
+Este es un nutriente muy beneficioso para la salud y también ayuda al sistema inmunológico.
+-------------------------------------------------------------------------------------------
+
+![Hay múltiples razones por las que se puede caer el cabello. Foto referencial: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/calvicie-El-comercio.jpg)
+
+Hoy en día las personas se preocupan por tener un cabello fuerte, brillante y con volumen, y a veces la caída puede generar preocupación, es ahí en el que las vitaminas juegan un papel fundamental, para la salud capilar. 
+
+El cuidado del pelo no solo depende de tratamientos externos como champús o lociones, sino también de la correcta nutrición, ya que una dieta equilibrada es fundamental para el crecimiento de este.
+
+### Más noticias
+
+* **[Comer un plátano antes de dormir puede mejorar el sueño de forma natural](https://www.elcomercio.com/tendencias/salud/platano-sueno-salud-nutricion.html "https://www.elcomercio.com/tendencias/salud/platano-sueno-salud-nutricion.html")** 
+* **[Lo que un neurólogo recomienda ponerle al café para cuidar el cerebro y la memoria](https://www.elcomercio.com/afull/lo-que-un-neurologo-recomienda-ponerle-al-cafe-para-cuidar-el-cerebro-y-la-memoria.html "https://www.elcomercio.com/afull/lo-que-un-neurologo-recomienda-ponerle-al-cafe-para-cuidar-el-cerebro-y-la-memoria.html")**
+
+Los nutrientes que actúan como catalizadores de todos los procesos f**isiológicos de forma directa o indirecta, y sufrir un déficit vitamínic**o, puede dar lugar a diversas patologías, entre ellas la pérdida o debilitamiento del cabello.
+
+Hay una vitamina en particular que se destaca por su capacidad de prevenir la alopecia y fomentar el crecimiento del pelo, y **se trata de la vitamina B7, más conocida como biotina,** así lo dice la Biblioteca Nacional de Medicina.
+
+La doctora Arantxa Arana, dermatóloga y experta en tricología en la Clínica Dra. Pérez Sevilla, explica en qué consiste esta vitamina y que también produce energía.
+
+Beneficios para el cabello y el sistema inmune
+----------------------------------------------
+
+“La biotina, también conocida como vitamina B7 o vitamina H, es una vitamina soluble en agua que forma parte del complejo de vitaminas B de vitamina. **Entre sus funciones clave están la de participar en reacciones químicas que ayudan al cuerpo** a convertir los alimentos en energía, contribuye a la síntesis de ácidos grasos, esenciales para la salud celular y la función del sistema nervioso, y contribuye a la regulación de los niveles de azúcar en sangre”, dijo Arana.
+
+Este elemento tiene un rol crucial en la salud capilar, ya que interviene directamente en la formación de la queratina, una proteína que constituye el principal componente del cabello y ayuda a fortalecer y promover su crecimiento. La biotina es esencial para prevenir la caída prematura del pelo, un problema al que se le conoce como alopecia.
+
+La biotina también tiene otros beneficios como **fortalecer el sistema inmunológico y favorece el crecimiento y la recuperación muscular,** y su producción de queratina la hace importante para el mantenimiento de las uñas.
+
+Alimentos que aportan biotina
+-----------------------------
+
+“Es importante señalar que la biotina es un ingrediente común en muchos suplementos para la salud de la piel, el cabello y las uñas”, agregó la dermatóloga. Una de las maneras en la que puede asegurar la ingesta de la biotina es a través de una dieta sana, hay muchos alimentos que son ricos en **vitaminas que la incluyen como son las yemas de huevos, plátanos, legumbres, nueces y chocolate**.
+
+“Huevos, carnes, lácteos, verduras de hoja verde no muy cocidas, legumbres como lentejas, guisantes y soja, frutas como aguacate, frambuesas, fresas y plátanos, y frutos secos como pistacho, nueces, almendras y cacahuetes. Entre los pescados destaca el salmón, es una buena fuente de biotina”, comentó Arana.
+
+La doctora explica que la mayoría de personas obtienen suficiente botina a través de una dieta equilibrada.
+
+Recuerde que antes de iniciar cualquier suplemento, es aconsejable hablar con un profesional de la salud, para que él le recomiende cuál es el mejor para usted, ya que en algunas personas, el tratamiento es diferente.
+
+(Video) Hinchas de Barcelona SC lanzan huevos a sus jugadores
+=============================================================
+
+Este sábado, 5 de octubre, Barcelona SC se enfrenta a El Nacional en el Estadio Olímpico Atahualpa, en un partido correspondiente a la novena fecha de la segunda etapa de la Liga Pro. Más noticias El encuentro, que se desarrolla en Quito, se ve marcado por la presión que la hinchada torera ha ejercido sobre \[…\]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Hinchas de Barcelona SC lanzaron huevos a sus jugadores antes del partido.](https://www.elcomercio.com/wp-content/uploads/2024/10/huevos.png)
+
+Este sábado, 5 de octubre, Barcelona SC se enfrenta a El Nacional en el Estadio Olímpico Atahualpa, en un partido correspondiente a la novena fecha de la segunda etapa de la Liga Pro.
+
+### Más noticias
+
+* [Álex Aguinaga apunta a Ariel Holan por presente de Barcelona SC](https://www.elcomercio.com/deportes/alex-aguinaga-ariel-holan-barcelona-sc.html "Álex Aguinaga apunta a Ariel Holan por presente de Barcelona SC")
+* [Barcelona SC pierde a Javier Burrai por tiempo indefinido](https://www.elcomercio.com/deportes/futbol/barcelona-sporting-club-pierde-javier-burrai-por-tiempo-indefinido.html "Barcelona SC pierde a Javier Burrai por tiempo indefinido")
+
+El encuentro, que se desarrolla en Quito, se ve marcado por la presión que la hinchada torera ha ejercido sobre el equipo, exigiendo mejores resultados tras una serie de partidos que no han cumplido con las expectativas de los seguidores.
+
+Incidentes en la concentración
+------------------------------
+
+La tarde previa al partido, los jugadores de Barcelona SC fueron protagonistas de un incómodo momento a las afueras del hotel de concentración, cuando un grupo de aficionados se presentó para mostrar su descontento.
+
+En lugar de recibir el habitual apoyo de la hinchada, los miembros del equipo, liderado por el argentino Ariel Holan, enfrentaron duras críticas. Entre cánticos y reclamos, los hinchas arremetieron contra los jugadores, lanzándoles huevos y exigiendo mayor compromiso dentro de la cancha.
+
+En videos que circulan en redes sociales, se puede escuchar a los seguidores coreando frases como “suden la camiseta”, mientras se observa a los jugadores apresurándose para subir al bus que los trasladaría al estadio.
+
+> Los jugadores de Barcelona fueron despedidos del hotel con lanzamiento de huevos. La hinchada no está feliz  
+>   
+> 📹 [@idoloTV](https://twitter.com/idoloTV?ref_src=twsrc%5Etfw) [pic.twitter.com/kcNYsbw94E](https://t.co/kcNYsbw94E)
+> 
+> — MrOFF (@MrOFFSIDER) [October 5, 2024](https://twitter.com/MrOFFSIDER/status/1842649669630845152?ref_src=twsrc%5Etfw)
+
+El ambiente tenso reflejaba la decepción de la afición, que esperaba más del equipo en las últimas jornadas, donde los resultados no han sido los esperados.
+
+El objetivo de Barcelona SC por sumar en Quito
+----------------------------------------------
+
+A pesar de los incidentes, **Barcelona SC** mantuvo su plan de traslado y arribó al Estadio Olímpico Atahualpa con la meta de obtener una victoria ante **El Nacional**. El equipo sabe que debe sumar para mejorar su posición en la tabla y para calmar los ánimos entre sus seguidores. Sin embargo, el clima de tensión no terminó con la salida del hotel.
+
+Ya en el estadio, durante el calentamiento previo al partido, los jugadores volvieron a ser blanco de los fanáticos, quienes, además de continuar con los insultos, **repitieron el lanzamiento de huevos**, obligando a algunos futbolistas a retirarse momentáneamente a los camerinos.
+
+> Hinchas de Barcelona demostraron su inconformidad con el rendimiento del equipo amarillo. 🟡⚫️  
+>   
+> Los aficionados toreros lanzaron huevos al gramado del Estadio Olímpico Atahualpa. 🥚☂️[pic.twitter.com/5cL2poynOn](https://t.co/5cL2poynOn)
+> 
+> — Fanboleros (@Fanboleros1) [October 5, 2024](https://twitter.com/Fanboleros1/status/1842685593320341944?ref_src=twsrc%5Etfw)
+
+El cuerpo técnico, liderado por Holan, no ha emitido declaraciones al respecto, pero es evidente que el equipo llega al partido en un ambiente hostil.
+
+Cierre de tramo de la Autopista Rumiñahui para este domingo 6 de octubre
+========================================================================
+
+La construcción de un paso elevado para mejorar la circulación implicará cierres viales en la Autopista Rumiñahui.
+------------------------------------------------------------------------------------------------------------------
+
+![El cierre es parte de una obra para la construcción de un paso elevado. FOTO: captura video.](https://www.elcomercio.com/wp-content/uploads/2024/10/cierre-vial-autopista-general-ruminahui.png)
+
+La Prefectura de Pichincha realiza trabajos en la Autopista General Rumiñahui. Las obras buscan mejorar la viabilidad entre el Valle de los Chillos y Quito.
+
+Más noticias
+------------
+
+* [Habilitan cinco desvíos por el cierre temporal de la Autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/habilitan-cinco-desvios-por-cierre-temporal-autopista-general-ruminahui.html)
+* [Incendio en una vivienda dejó dos adultos mayores heridos en Quito](https://www.elcomercio.com/actualidad/quito/incendio-vivienda-sur-quito-adultos-mayores.html)
+* [¿Cómo será el clima de Quito este fin de semana?](https://www.elcomercio.com/actualidad/clima-quito-fin-semana-lluvias.html)
+
+Zona de cierre
+--------------
+
+El **cierre de la Autopista General Rumiñahui** se realizará en el sector del **Puente 8**. Alrededor del ingreso y de la salida de Conocoto, según el mapa compartido en un video en las redes sociales de la Prefectura.
+
+Fechas y horarios
+-----------------
+
+El cierre se iniciará desde las 16:00 del domingo, **6 de octubre de 2024**. Este se extenderá hasta las 05:00 del lunes, **7 de octubre de 2024**.
+
+Vías alternas
+-------------
+
+Durante el cierre, se recomienda utilizar las siguientes alternas para evitar el área afectada y llegar al Valle de los Chillos, como la **Av. de los Granados o la Av. Interoceánica y la Av. Intervalles.**
+
+Este cierre es parte de las **obras para la construcción de un paso elevado** planificado por la Prefectura. Según el ente, esta infraestructura aliviará la circulación en la zona.
+
+(Video) Dani Carvajal sufre una posible lesión grave de rodilla
+===============================================================
+
+Dani Carvajal, lateral derecho del Real Madrid y de la selección española, salió en camilla del terreno de juego del Santiago Bernabéu.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Dani Carvajal rodeado de sus compañeros del Real Madrid luego de lesionarse ante el Villareal.](https://www.elcomercio.com/wp-content/uploads/2024/10/carvajal.png)
+
+**Dani Carvajal**, lateral derecho del **Real Madrid** y de la selección española, salió en camilla del terreno de juego del **Santiago Bernabéu** en los últimos minutos del partido que su equipo ganó al Villarreal 2-0.
+
+### Más noticias
+
+* [Sorpresa en la Champions, el Real Madrid de Kylian Mb](https://www.elcomercio.com/deportes/sorpresa-champions-el-real-madrid-de-kylian-mbappe-perdio.html "Sorpresa en la Champions, el Real Madrid de Kylian Mbappé perdió")[appé perdió](https://www.elcomercio.com/deportes/sorpresa-champions-el-real-madrid-de-kylian-mbappe-perdio.html "Sorpresa en la Champions, el Real Madrid de Kylian Mbappé perdió")
+* [Real Madrid empata en un controvertido derbi ante el Atlético](https://www.elcomercio.com/deportes/futbol/real-madrid-empata-en-un-controvertido-derbi-ante-el-atletico.html "Real Madrid empata en un controvertido derbi ante el Atlético")
+* [Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó](https://www.elcomercio.com/deportes/futbol/real-madrid-gano-debut-champions-league-kylian-mbappe-gol.html "Real Madrid ganó en su debut en Champions y Kylian Mbappé anotó")
+
+Entre lágrimas y con evidentes signos de dolor, dejó el campo tras una acción que indica una posible grave lesión en su rodilla derecha.
+
+Carvajal intentó golpear el balón en un duelo con **Yeremy Pino**, pero no logró impactarlo y, al caer al suelo, inmediatamente se **llevó las manos a la rodilla derecha**.
+
+> Esto da escalofríos de solo verlo  
+>   
+> Ojalá no sea grave lo de Carvajal, que tenga una pronta recuperación 🙏🏻 [pic.twitter.com/8r0IpS38jO](https://t.co/8r0IpS38jO)
+> 
+> — Culé GT (@Cule\_GT) [October 5, 2024](https://twitter.com/Cule_GT/status/1842676512707039702?ref_src=twsrc%5Etfw)
+
+Sus compañeros, preocupados por la posible gravedad de la lesión, pidieron de inmediato asistencia médica. Carvajal abandonó el campo en camilla durante el tiempo añadido de la segunda mitad, llorando y cubriéndose el rostro con la camiseta.
+
+Real Madrid ganó al Villareal
+-----------------------------
+
+Vinícius Jr. brilló **en el mejor partido de su temporada**, liderando al Real Madrid en una victoria clave ante el Villarreal. Con un gol espectacular, el brasileño mostró su calidad, reviviendo al equipo tras una racha irregular. El primer tanto llegó de un disparo desde fuera del área de Fede Valverde, que encaminó el partido para los blancos.
+
+El Villarreal, a pesar de las bajas de **Gerard Moreno y Ayoze Pérez**, mantuvo el nivel competitivo, pero no pudo aprovechar sus oportunidades. Un cabezazo de Pépé al poste y un remate fallido frente a la portería reflejaron la falta de acierto del equipo visitante.
+
+> Dani Carvajal está lesionado. Gritando fuertisimo. Tiene pinta de MUY GRAVE.  
+>   
+> Que sea lo menor posible… 💔[pic.twitter.com/Y8auI2UQum](https://t.co/Y8auI2UQum)
+> 
+> — MT2 (@madrid\_total2) [October 5, 2024](https://twitter.com/madrid_total2/status/1842670215135420623?ref_src=twsrc%5Etfw)
+
+La segunda mitad fue más tranquila, con un **Real Madrid** controlando el juego y esperando una ocasión para sentenciar el encuentro. Vinícius encontró el momento, anotando un golazo desde el centro del campo antes de salir lesionado por molestias en el hombro.
+
+La celebración en el Bernabéu se apagó con la lesión de rodilla de **Dani Carvajal**, quien salió entre lágrimas, dejando preocupación en el **equipo de Ancelotti**.
+
+Autoridades desmienten tiroteo y heridos en Naranjito
+=====================================================
+
+La mañana de este sábado, 5 de octubre de 2024, un incidente causó caos y terror en el desfile de aniversario de cantonización de Naranjito.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![El incidente generó confusión y caos entre los asistentes al desfile de Naranjito. FOTO: captura de video redes sociales.](https://www.elcomercio.com/wp-content/uploads/2024/10/tiroteo-disparos-naranjito-d.png)
+
+La mañana de este sábado, 5 de octubre de 2024, un **incidente causó caos y terror en el cantón Naranjito**.
+
+Más noticias
+------------
+
+* [Banda dedicada al robo de vehículos y autopartes fue desarticulada en Quito](https://www.elcomercio.com/actualidad/quito/banda-robo-vehiculos-autopartes-quito.html)
+* [Incendio en una vivienda dejó dos adultos mayores heridos en Quito](https://www.elcomercio.com/actualidad/quito/incendio-vivienda-sur-quito-adultos-mayores.html)
+* [Tres presuntos involucrados en la desaparición y asesinato de Hernán Mendoza, a juicio](https://www.elcomercio.com/actualidad/quito/hernan-mendoza-juicio-desaparicion-muerte.html)
+
+El hecho ocurrió en el marco del **desfile de las fiestas de cantonización**. En varios videos publicados en redes sociales se ve que un **grupo de personas empieza a correr** en una de las calles que atravesaba el desfile cívico militar. Los asistentes al desfile y los integrantes de las bandas estudiantiles se asustan al ver la estampida e intentan huir, mientras se escuchaban sirenas.
+
+Autoridades desmienten “acciones violentas”
+-------------------------------------------
+
+Después de la confusión por el incidente, la **Alcaldía de Naranjito emitió una rueda de prensa** en vivo, en redes sociales, para aclarar los hechos.
+
+El **alcalde Cristian Suárez** pidió tranquilidad y calma porque no se registro un “algún hecho violento de sangre”.
+
+En esta rueda de prensa, además, el **coronel William Granda, jefe del distrito de policía del cantón,** indicó que en “Naranjito no se ha suscitado **ninguna acción violenta** en contra de algún tipo de ciudadano o acción que quiera dañar el tema de las fiestas.
+
+Granda aclaró que en la ciudad se habían registrado acciones violentas con anterioridad en temas relacionados a **extorsión, secuestro, tráfico de sustancias sujetas a fiscalización en mínima y máxima escala.**
+
+En el marco del control de este tipo de actividades afirmó, que este sábado, 5 de octubre de 2024, personal de inteligencia, de investigación y de FF.AA. **realizaron acciones operativas** para neutralizar este tipo de actividades, que puedan dañar las fiestas del cantón.
+
+A las 15:09 emitieron un comunicado oficial en el que reiteraban que **hubo una intervención policial** y que “no se registraron heridos ni hubo enfrentamientos armados. La situación estuvo bajo control, gracias a la oportuna intervención de nuestras fuerzas de seguridad”.
+
+Para finalizar confirmaron que los **actos de conmemoración por el 52 aniversario de cantonización** de Naranjito continuarán.
+
+La ciencia revela las causas de la infidelidad
+==============================================
+
+Hay una gran sorpresa y un mito derrumbado al respecto. Te contamos
+-------------------------------------------------------------------
+
+![Hay nuevas investigaciones sobre las motivaciones de la infidelidad. Foto referencial: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/infidelidad-El-comercio.jpg)
+
+Las **relaciones de pareja** suelen ser complejas para algunas personas, ya que no solo importan los sentimientos que se le tengan al otro, sino también que exista una comprensión entre sus pensamientos, creencias e incluso el manejo del dinero y, cuando no hay acuerdos mutuos pueden aparecer algunos problemas.
+
+Entre los cuales está la **infidelidad** que, según un estudio del [Centro Nacional de Investigación de Opinión de la Universidad de Chicago](http://chrome-extension//efaidnbmnnnibpcajpcglclefindmkaj/https://www.norc.org/content/dam/norc-org/pdfs/Household%20FAQ%20Spanish.pdf "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.norc.org/content/dam/norc-org/pdfs/Household%20FAQ%20Spanish.pdf"), **entre el 13% y el 16% de las personas entre los 18 y los 30 años han mantenido relaciones sexuales fuera de su unión sentimental o matrimonial.**
+
+### Más noticias
+
+* **[El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios](https://www.elcomercio.com/tendencias/salud/ecuador-tambien-afronta-el-aumento-de-pacientes-con-sobrepeso-y-obesidad.html "https://www.elcomercio.com/tendencias/salud/ecuador-tambien-afronta-el-aumento-de-pacientes-con-sobrepeso-y-obesidad.html")**
+* **[Una dieta de colores tiene claves para una alimentación saludable](https://www.elcomercio.com/tendencias/salud/dieta-colores-salud-nutricionista-podcast.html "https://www.elcomercio.com/tendencias/salud/dieta-colores-salud-nutricionista-podcast.html")**
+
+En diversas ocasiones se ha discutido sobre la razón por la que los hombres y las mujeres tienden a ser infieles, ya que algunos consideran que el género masculino tiende a hacerlo por el deseo, mientras que las mujeres lo hacen por el abandono, el rechazo o venganza.
+
+¿Cuáles podrían ser los motivos de la infidelidad?
+--------------------------------------------------
+
+Una publicación de [‘**Elsevier**](https://www.elsevier.com/es-es "https://www.elsevier.com/es-es")**‘, editorial académica holandesa** especializada en contenidos científicos, técnicos y médicos, dice que las mujeres jóvenes que cuentan con una alta escolaridad y se encuentran en un medio urbano competitivo tienden a ser más propensas a cometer una infidelidad porque tienen **“una personalidad sexual más abierta”**.
+
+Lo cual se debe a que **tienen interés en estar con un mayor número de parejas**, desean experimentar una mayor diversidad en la práctica sexual o muestran una actitud positiva ante la infidelidad, lo que indica que **el género femenino no solo la comete por venganza, sino por una decisión personal.**
+
+Debido a esto, se ha reportado que existe un notable incremento en las **relaciones extramaritales** por parte de las mujeres, mientras que en el caso de los hombres, se ha supuesto que la razón por la que tienen relaciones sexuales con otras personas fuera de sus uniones sentimentales está ligada a lo biológico.
+
+Pese a este estereotipo, recientes investigaciones basadas en las experiencias extramatrimoniales que algunas personas han experimentado, se encargan de revelar que **“la motivación inicial de la infidelidad para el hombre es la validación emocional”,** de acuerdo con ‘La Vanguardia’.
+
+Adicional a esto, un estudio de la [**Universidad de Florida**](https://www.ufl.edu/ "https://www.ufl.edu/") explicó que las personas que tienden a ser infieles suelen desarrollar una forma de apego denominada “apego inseguro”, que se desarrolla a partir de las relaciones establecidas con los padres o cuidadores durante la infancia. 
+
 Entregan incentivos a deportistas paralímpicos por su participación en París 2024
 =================================================================================
 
@@ -482,609 +975,3 @@ Un penal a favor de los visitantes fue ejecutado con éxito, lo que permitió a 
 > — Bayer 04 Leverkusen (@bayer04fussball) [October 5, 2024](https://twitter.com/bayer04fussball/status/1842581269156360435?ref_src=twsrc%5Etfw)
 
 Pese a los intentos en los **últimos minutos del Bayer**, no pudo ganar el encuentro frente a uno de los últimos de la Bundesliga.
-
-Tres presuntos involucrados en la desaparición y asesinato de Hernán Mendoza, a juicio
-======================================================================================
-
-Hernán Mendoza desapareció el 26 de enero tras subirse a un taxi en el norte de Quito; luego de 32 días fue encontrado sin vida.
---------------------------------------------------------------------------------------------------------------------------------
-
-![El quiteño Hernán Mendoza desapareció cuando tenía 30 años](https://www.elcomercio.com/wp-content/uploads/2024/10/mendoza.jpg)
-
-Un juez decidió llamar a **juicio** a los tres presuntos implicados en la desaparición y muerte de **Hernán Mendoza**.
-
-La decisión se tomó este viernes 4 de octubre de 2024, tras conocer el dictamen acusatorio por parte del fiscal de la Unidad de Personas Desaparecidas que lleva el caso; y luego de rechazar una petición de la defensa de **anular el proceso** por falta de documentación.
-
-### Más noticias
-
-* [Menor de edad fue rescatada de un centro de tolerancia en Quito](https://www.elcomercio.com/actualidad/quito/menor-edad-rescate-policia-centro-tolerancia.html "Menor de edad fue rescatada de un centro de tolerancia en Quito")
-* [Acuerdo Quito 2034 busca erradicar la pobreza y mejorar la seguridad](https://www.elcomercio.com/actualidad/quito/acuerdo-quito-2034-busca-erradicar-la-pobreza-y-mejorar-la-seguridad.html "Acuerdo Quito 2034 busca erradicar la pobreza y mejorar la seguridad")
-* [Ministro de Gobierno, Félix Wong, aclaró límites del estado de excepción en Quito](https://www.elcomercio.com/actualidad/politica/ministro-gobierno-felix-wong-hablo-estado-excepcion-quito.html "Ministro de Gobierno, Félix Wong, aclaró límites del estado de excepción en Quito")
-
-Desaparición de Hernán Mendoza
-------------------------------
-
-El caso de Hernán Mendoza **conmocionó a la capital** a inicios de este año. El ciudadano de **30 años** tomó un taxi, junto a un amigo, en la intersección de las avenidas República y Pradera, en el norte de Quito, la noche del 26 de enero de 2024.
-
-Esa fue la **última vez** que se lo vio con vida.
-
-Según las investigaciones y testimonios, dos hombres, **Félix Rolando F. S.** y **Stalin René A. C.**, habrían pagado al conductor del vehículo, **Franklin Geovanny Á. Q.**, para que este trasladara a las víctimas a otros lugares.
-
-De acuerdo con la versión del taxista, a los pocos minutos que se subieron al automotor, Mendoza habría ingerido una **bebida preparada** que le hizo perder el conocimiento.
-
-Luego los abandonó a ambos en el sector del **puente de Guápulo**, asegura el involucrado.
-
-De Hernán no se supo más, hasta 32 días después de su búsqueda. El joven fue encontrado **sin vida** en Mandariacu, a orillas del río **Guayllabamba**, en el límite entre Pichincha e Imbabura, la tarde del 27 de febrero.
-
-Las cámaras de seguridad fueron claves para la investigación. En ellas se observó a los presuntos responsables llevando a Mendoza a un cajero para retirar **260 dólares**. En las imágenes aparecería el rostro de uno de los sospechosos.
-
-Procesados podrían enfrentar hasta 26 años de prisión
------------------------------------------------------
-
-El dictamen acusatorio del Fiscal estableció que existieron suficientes elementos para señalar a los tres procesados como presuntos autores y que deben ser juzgados por un Tribunal de Garantías Penales.
-
-Félix Rolando F. S. y Stalin René A. C. fueron vinculados a la causa en marzo de 2024. Ellos actuaron presuntamente como los **acompañantes** del taxista.
-
-En los próximos días se conocerá el día y la hora para el juzgamiento de Félix Rolando F. S. y Franklin Geovanny Á. Q.
-
-Esto debido a que Stalin René A. C., el otro presunto involucrado, mantiene suspendido el proceso en su contra por estar **prófugo**.
-
-Félix Ronaldo F. también lo estaba. pero fue capturado por la Interpol en **México** y trasladado a Quito el 9 de abril.
-
-El Código Orgánico Integral Penal (**COIP**) sanciona este el delito de desaparición involuntaria con resultado de muerte con el artículo 163.
-
-El apartado establece una pena privativa de libertad de **22 a 26 años**.
-
-La familia y los cercanos de Hernán Mendoza esperan que su desaparición no quede en la impunidad; ellos claman **justicia**.
-
-Sebastián Beccacece invitó cinco jugadores a la Selección de Ecuador
-====================================================================
-
-Sebastián Beccacece fue anunciado como nuevo entrenador de la Selección de Ecuador el 1 de agosto.
---------------------------------------------------------------------------------------------------
-
-![Jugadores de la Selección de Ecuador en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/invitados_becca_1.jpg)
-
-Sebastián Beccacece presentó este viernes 4 de octubre de 2024 la **lista de 25 convocados de la Selección de Ecuador** para afrontar la nueva doble fecha de eliminatorias al Mundial 2026.
-
-Para Sebastián Beccacece ante **Paraguay (10 de octubre) y Uruguay (15 de octubre)** sumará dos nuevos partidos como entrenador, luego de su debut con derrota ante Brasil en Curitiba y la victoria en Quito ante Paraguay.
-
-### Más noticias:
-
-* [Chelsea vuelve a la carga en Conference League](https://www.elcomercio.com/deportes/futbol/chelsea-conference-league-moises-caicedo-cuando-juega.html "Chelsea vuelve a la carga en Conference League")
-* [Liga de Quito sumó su cuarto fracaso en el 2024](https://www.elcomercio.com/deportes/futbol/liga-quito-fracasos-temporada2024-eliminacion.html "Liga de Quito sumó su cuarto fracaso en el 2024")
-* [El primer gol olímpico en Ecuador cerca del centenario](https://www.elcomercio.com/deportes/futbol/goles-olimpicos-ecuador-historia-centenario.html "El primer gol olímpico en Ecuador cerca del centenario")
-
-Tal como lo hizo en su primera convocatoria de septiembre, Beccacece incluyó en su lista de convocados a **cinco jugadores jóvenes que tienen la categoría de ‘invitados’** que estarán concentrados en la Casa de la Selección en Quito.
-
-“**Vamos a tener cinco invitados**” confirmó el entrenador en rueda del prensa realizada el jueves 3, en donde detalló el plan de trabajo que tendrán los seleccionados para afrontar este nueva doble fecha de eliminatorias.
-
-Los cuatro primeros ‘invitados’ fueron el portero de Independiente Juniors, Alexis Villa; **el lateral izquierdo de Independiente del Valle, Yaimar Medina**; el mediocampista del Macará, Mateo Viera; y al delantero del Barcelona Sporting Club, Allen Obando.
-
-Mateo Viera no se integró con el equipo por una lesión, al igual que **Cristian Ramírez del Ferencváros de Hungría** y Alan Minda del Círculo de Brujas de Bélgica, que se quedaron al margen por dolencias físicas.
-
-Beccacece habló de Alfaro
--------------------------
-
-El seleccionador de Ecuador, el argentino Sebastián Beccacece, manifestó este jueves respeto y admiración por su compatriota **Gustavo Alfaro, exseleccionador de la Tri y actual técnico de Paraguay**, próximo rival en las eliminatorias sudamericanas del Mundial de 2026.
-
-Beccacece expuso la cercana relación que tiene con Alfaro, que es su vecino en Buenos Aires e incluso su esposa ha sido maestra de una de las hijas del entrenador de la selección ecuatoriana.
-
-“Ha tenido un recorrido muy grande en el fútbol y ha empezado muy de abajo como yo. Ha tenido que hacerse el espacio y el **camino para llegar a estos lugares de privilegio**“, recordó Beccacece, que reiteró “el respeto y admiración a su trayectoria”.
-
-Sobre la Albirroja, Beccacece dijo que “es un rival que ha encontrado en su entrenador la posibilidad de tener cuatro puntos de seis, **no le han convertido goles, viene en alza y a lo largo de la historia** el jugador paraguayo ha sido muy aguerrido y agresivo, muy determinante en balones parados”.
-
-“Esto es un camino largo y ojalá en marzo veamos que esta semilla sea un fruto ya contundente. **Seguimos en esa línea de mantener muchos futbolistas** de los que han venido jugando”, indicó Beccacece.
-
-Reconoció que la conformación de esta nómina ha sido más sencilla que la anterior, pues ya iniciaron **todas las ligas de los clubes donde hay ecuatorianos militando en el extranjero**, por lo que fue más sencillo evaluar su nivel competitivo. EFE
-
-![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/invitados_becca_2-1024x683.jpg)
-
-Foto: Diego Pallero / EL COMERCIO.
-
-Los invitados de Beccacece
---------------------------
-
-Invitados:
-----------
-
-Yaimar Medina – Independiente del Valle.  
-Keny Arroyo – Independiente del Valle  
-Denil Castillo – Midtjylland (DEN)  
-Allen Obando – Barcelona SC.  
-Alexis Villa – Independiente del Valle
-
-Sparrings:
-----------
-
-Darwin Guagua – Independiente del Valle  
-Gipson Preciado – Independiente Juniors  
-Maykel Caicedo – Liga de Quito
-
-No te pierdas – El Confesionario
---------------------------------
-
-¿Cómo será el clima de Quito este fin de semana?
-================================================
-
-Para el fin de semana en Quito, el Instituto Nacional de Meteorología e Hidrología dio sus pronósticos sobre cómo será el clima.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Las lluvias del 2 de octubre afectaron a varias zonas del sur de Quito. ¿Pasará lo mismo el fin de semana?](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-3-2.jpg)
-
-LLegó el **fin de semana** y siempre es bueno armar planes. Pero para ello, al menos en estos días de **lluvias**, vale la pena preguntarse **¿cómo será el clima de Quito para esete fin de semana del 5 y 6 de octubre del 2024?**
-
-### Más noticias
-
-* [Un tronco conservado miles de años aporta claves de solución climática](https://www.elcomercio.com/tendencias/ambiente/tronco-conservado-miles-anos-aporta-claves-solucion-climatica.html "Un tronco conservado miles de años aporta claves de solución climática")
-* [Fuertes lluvias con granizo cayeron en Quito y sus alrededores](https://www.elcomercio.com/actualidad/quito/lluvias-granizo-valle-quito-octubre.html "Fuertes lluvias con granizo cayeron en Quito y sus alrededores")
-* [¿Ecuador puede crecer económicamente y reducir la pobreza con políticas climáticas?](https://www.elcomercio.com/actualidad/negocios/ecuador-crecimiento-economico-pobreza-politicas-cambio-climatico.html "¿Ecuador puede crecer económicamente y reducir la pobreza con políticas climáticas?")
-
-El fin de semana según el Inamhi
---------------------------------
-
-El **Instituto Nacional de Meteorología e Hidrología** (**Inhami**) indicó que las **lluvias** se presentarán en toda la ciudad sobre todo por las tardes de este **fin de semana**. Por las **mañanas**, en cambio habrá sol, que, incluso, se lo podría calificar como **“sol de aguas”**, como se dice en Quito.
-
-“Eso es exactamente lo que vamos a tener”, dice **Madelyn Enríquez**, analista de pronósticos del **Inamhi**.
-
-Las **precipitaciones** vespertinas serán en **toda la ciudad**, según los pronósticos de Enríquez.
-
-¿Y si todo se complica?
------------------------
-
-No habría razones para **preocuparse** en principio, pero todo dependerá del **calentamiento** atmosférico que se tenga y se podrían generar **tormentas** o **granizo**.
-
-Para ello, es necesario tomar las **precauciones** necesarias, como, por ejemplo, no escampar bajo árboles y postes, preferentemente detener el automóvil si están manejando o, por lo menos, manejar con el cuidado necesario ante la poca visibilidad que se podría tener.
-
-Sin embargo, para **Enríquez**, en principio **no serán tan fuertes** como las recientes lluvias que causaron inundaciones en los **barrios del sur de Quito[.](https://es.wikipedia.org/wiki/INAMHI "https://es.wikipedia.org/wiki/INAMHI")**
-
-Enríquez añade que es posible que el clima de Quito para este fin de semana las lluvias en el **norte de Quito** no sean tan intensas como en el sur. Tampoco, afirma, se puede pronosticar las horas en que caerán las **aguas** porque, “**dependiendo del comportamiento puede adelantarse o atrasarse”**.
-
-Así que, al menos por la mañana, en Quito podrá disfrutar de la mañana soleada y resguardarse de la lluvia por las tardes. Pero, como dicen por ahí, con el clima de Quito nunca se sabe.
-
-Condiciones del clima en Ecuador para este sábado 5 de octubre
-==============================================================
-
-El Inamhi dio las previsiones del clima en todas las regiones del país. ¿En qué sectores se prevén lluvias? Te lo contamos.
----------------------------------------------------------------------------------------------------------------------------
-
-![En algunos sectores de la Sierra y Amazonía se seperan lluvias con tormentas](https://www.elcomercio.com/wp-content/uploads/2024/10/inamhi.jpg)
-
-El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) dio las previsiones del **clima** para la mañana, tarde y noche de este sábado 5 de octubre de 2024.
-
-De forma general, se esperan mañanas con **sol** y cielos pocos nublados; mientras que para la tarde y noche, **lluvias y tormentas** en algunas provincias de la Sierra y Amazonía.
-
-### Más noticias
-
-* [Otra tarde de fuertes lluvias en varios sectores de Quito](https://www.elcomercio.com/actualidad/quito/lluvias-quito-fuertes-tarde.html "Otra tarde de fuertes lluvias en varios sectores de Quito")
-* [Cortes de luz en Quito este sábado 5 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-5-octubre.html "Cortes de luz en Quito este sábado 5 de octubre")
-* [Cortes de luz en Guayaquil este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-5-octubre.html "Cortes de luz en Guayaquil este sábado 5 de octubre")
-
-En la región **Interandina**, las temperaturas oscilarán entre una mínima de **9 °C** y una máxima de **22 °C**. Las lluvias en horas de la tarde acompañadas de tormentas son probables, especialmente en Imbabura, **Pichincha**, Tungurahua, Cañar y Azuay.
-
-En la **Amazonía** la situación será similar. En la mañana se esperan cielos nublados, mientras que en la tarde y noche, la llegada de **fuertes lluvias** con tormentas.
-
-En esta región las temperaturas variarán entre los **16 °C** y **30 grados °C**.
-
-Según el Inamhi, en la **Costa**, si bien habrá la presencia de nubes, **no se prevé la presencia de lluvias**.
-
-Por su ubicación, la temperatura será considerablemente más elevada, con mínimos de **20 °C** y máximos **32 °C**.
-
-**Guayaquil** será la ciudad más calurosa este sábado.
-
-¿Cómo estará el clima en Quito?
--------------------------------
-
-Según el reporte del clima del Instituto, los cielos serán poco nubosos en la mañana en **Quito**, lo que generará una radiación entre ‘muy alta’ y ‘extremadamente alta’ en algunos sectores.
-
-Conforme avance la tarde, las nubes cubrirán la capital provocando **lluvias débiles**.
-
-Desde las **07:00** hasta las **19:00** la temperatura máxima que tendrá la capital es de **21 °C a 24 °C**.
-
-Para la noche y madrugada la situación cambiará. Se prevé que las lluvias aumenten a fuertes, y que en algunos sectores haya **tormentas** dispersas.
-
-Entre las 19:00 del sábado hasta las 07:00 del domingo se registrará una temperatura mínima **8 °C** a 11 °C.
-
-> [#PronosticoPichinchaEc](https://twitter.com/hashtag/PronosticoPichinchaEc?src=hash&ref_src=twsrc%5Etfw) l Sábado, 05 de octubre: Cielo poco nuboso a nublado, lluvias con tormentas en horas de la tarde y parte de la noche en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw). 🌧️⛈️☔️  
->   
-> Radiación [#UV](https://twitter.com/hashtag/UV?src=hash&ref_src=twsrc%5Etfw) entre Muy Alta y Extremadamente Alta. [#soldeaguas](https://twitter.com/hashtag/soldeaguas?src=hash&ref_src=twsrc%5Etfw). 🌤️🌡️ [pic.twitter.com/7SDnS0rBTW](https://t.co/7SDnS0rBTW)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 5, 2024](https://twitter.com/inamhi_ec/status/1842542946505166851?ref_src=twsrc%5Etfw)
-
-Radiación ultravioleta
-----------------------
-
-Los niveles más altos de radiación este sábado se registrarán en el Litoral, la Amazonía y Loja, con niveles ‘**muy altos**‘ (8).
-
-En el centro del país, los rayos ultravioleta (UV) serán menores, con índices entre **6 y 7**, considerados como ‘altos’.
-
-Mientras que en el interior del Litoral y el occidente de la Sierra, la radiación será **moderada**.
-
-En aquellas provincias donde la radiación tenga niveles ‘altos’ o superiores, se recomienda no exponerse prolongadamente al sol, entre las **10:00 y 15:00**.
-
-> [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el sábado, 05 de octubre de 2024. [pic.twitter.com/S3pJtjhYs6](https://t.co/S3pJtjhYs6)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 4, 2024](https://twitter.com/inamhi_ec/status/1842344728743793115?ref_src=twsrc%5Etfw)
-
-Ecuador en zona de descenso en la liga junior de la Inteligencia Artificial
-===========================================================================
-
-En Ecuador necesitamos una mejora significativa en infraestructura energética, tecnológica y humana.
-----------------------------------------------------------------------------------------------------
-
-![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
-
-El 24 de septiembre de 2024, el **Centro Nacional** de **Inteligencia Artificial** (CENIA) de Chile y la **Comisión Económica** para **América Latina** y el Caribe (CEPAL) dieron a conocer los **resultados** de la segunda edición del [Índice Latinoamericano de Inteligencia Artificial (ILIA 2024)](https://indicelatam.cl/). En este índice, usando una escala de 0 a 100, se evaluó la preparación en **Inteligencia Artificial** (IA) de 19 países de **Latinoamérica** y el Caribe. Por cada país se analizaron 3 dimensiones: **(1) factores habilitantes**, con un peso de 40%, **(2)** **investigación, desarrollo y adopción**, con un peso de 35%, y **(3) gobernanza**, con un peso de 25%. Con base en el índice obtenido, de mayor a menor, los países fueron categorizados entre **pioneros**, **adoptantes** o **exploradores** de IA.
-
-Según la documentación del índice ILIA, los países **pioneros** en Latinoamérica y el Caribe en IA se caracterizan por tener una “fuerte infraestructura tecnológica, desarrollo de talento e innovación en IA, y han integrado la misma en sus **estrategias nacionales** para consolidar y expandir su uso en los **diversos sectores**.” Los países **adoptantes** “están comenzando a integrar la IA en sectores productivos y públicos de manera incipiente, con **avances moderados** en **investigación** y **políticas emergentes** de fomento.” Los países **exploradores** están “en etapas iniciales de IA, con capacidades básicas y políticas públicas preliminares, dando los primeros pasos hacia la **integración** de esta **tecnología**.” Es importante señalar que, a pesar de que la primera categoría de países analizados en el índice ILIA se llama “pioneros”, todos los países de **Latinoamérica** y el **Caribe** están muy lejos del [desarrollo en IA que se ha alcanzado en el Norte Global](https://aiindex.stanford.edu/report/). Por ejemplo, ningún país de nuestra región ha participado, ni participa, en el **desarrollo** de **conocimiento** o **tecnología** que haya aportado al reciente boom de la [inteligencia artificial generativa](https://www.elcomercio.com/opinion/inteligencia-artificial-puede-razonar-marco-benalcazar-columnista.html "Enlace de inteligencia artificial generativa"). Por lo tanto, el índice ILIA, aunque es muy importante, ofrece un **análisis** únicamente de países que jugamos en la liga junior de la IA.
-
-Según el índice ILIA 2024, los países categorizados como **pioneros** en IA en Latinoamérica y el Caribe son **Chile (73.07)**, **Brasil (69.30)** y **Uruguay (64.98)**. Por su parte, la lista de países **adoptantes** la encabeza **Argentina (55.77)**, que ocupa la cuarta posición en el ranking general del ILIA, y la cierra **Ecuador (34.59)** que ocupa el puesto 11. Finalmente, **Jamaica (32.38)**, que en el tablero general ocupa el puesto 12, encabeza la lista de países **exploradores**, la misma que cierra con **Honduras (23.73)**, que ocupa el último puesto (puesto 19) en el ranking general. Nuestros vecinos, **Colombia (52.64)** y **Perú (45.52)**, al igual que Ecuador, también han sido categorizados como **países adoptantes** y ocupan las posiciones 5 y 8, respectivamente. En el año 2023, [Ecuador ocupó el puesto 10 de un total de 12 países analizados](https://www.cenia.cl/2023/08/16/latinoamerica-que-tan-preparados-estamos-para-la-inteligencia-artificial-estudio-liderado-por-cenia-revela-importantes-hallazgos/), donde nuevamente Chile estuvo a la cabeza. Hablando en términos futbolísticos, según el índice ILIA, Ecuador está muy cerca de la zona de descenso en la liga junior de la **Inteligencia Artificial**.
-
-La primera dimensión sobre **factores habilitantes** evalúa el nivel de desarrollo de **infraestructura**, datos, y talento humano. En esta **dimensión Chile** tiene el mayor índice, con 64.60, Ecuador tiene un índice de 34.63, y el promedio de la región es 40.26. Como se puede notar, en esta **dimensión Ecuador** está por debajo del promedio regional, lo cual demanda realizar mejoras considerables de forma urgente. Por ejemplo, en el **indicador infraestructura**, necesitamos mejorar nuestra **conectividad** a **internet**, aumentar la **capacidad** y número de grandes **centros** de **cómputo**, tanto físicos como en la nube, y aumentar la **penetración** de **dispositivos** de **cómputo** en los **hogares ecuatorianos**. A nivel de datos, en **Ecuador** necesitamos mejorar la **disponibilidad** y el acceso a datos abiertos y fiables, resguardando la **privacidad** de datos personales. En talento humano necesitamos desarrollar [programas de alfabetización en IA para el público general](https://www.elcomercio.com/opinion/no-tenga-miedo-inteligencia-artificial-marco-benalcazar-columnista.html "Enlace programa de alfabetización"). En **talento humano profesional** y avanzado necesitamos mejorar nuestra **formación** en Ciencia, Tecnología, Ingeniería, y Matemáticas (STEM), y aumentar significativamente el nivel y número de **programas** de **maestría** y doctorado en IA, logrando su **acreditación** por **organismos internacionales** de prestigio y que las **universidades ecuatorianas** que los oferten estén, al menos, dentro de las 1000 [universidades top según el ranking QS](https://www.elcomercio.com/actualidad/universidades-de-ecuador-suben-posiciones-en-ranking-qs-2025.html "Enlace ranking universidades").
-
-En la segunda dimensión **investigación, innovación, desarrollo y adopción (I+i+D+A)** se analiza el estado de estos **factores** en los **sectores público**, **privado** y académico, así como el grado de **integración** de los **sistemas** de IA en cada uno de estos sectores. En esta dimensión, Brasil está a la cabeza con un índice de 79.17, mientras que **Ecuador** tiene un índice de 47.10, y el **promedio** regional es de 47.46. En esta **dimensión**, el factor más crítico donde **Ecuador** debe realizar un **avance significativo** es en **innovación** y **desarrollo** (i+D). En este indicador, **Ecuador** tiene un índice de 24.48, el cual es menor que el promedio regional de 31.57. Aquí necesitamos crear las **condiciones necesarias** para lograr que **empresas** **nacionales**, y sobre todo **empresas internacionales**, pongan **capital** de **riesgo** para desarrollar y llevar al **mercado productos** y servicios basados en IA.
-
-En **investigación**, necesitamos ampliar el número, la calidad e **impacto** de nuestro trabajo, de tal forma que nuestra **producción científica** compita en las grandes ligas del **conocimiento** de la IA. Para alcanzar este **objetivo**, Ecuador debe invertir para potenciar y desarrollar nuestros **laboratorios** de **investigación** y centros de **innovación** y **desarrollo** en **IA**, por ejemplo, el [Laboratorio de Investigación en Inteligencia y Visión Artificial “Alan Turing”](https://laboratorio-ia.epn.edu.ec/es/ "Enlace de Laboratorio de Investigación en Inteligencia y Visión Artificial").  En cuanto a la **adopción** de **sistemas** de IA, en **Ecuador** hay una importante oportunidad para que estos sistemas ayuden para agregar más valor a nuestros productos y servicios.
-
-En la tercera dimensión **gobernanza** se analiza el grado de madurez del **entorno institucional** encargado de impulsar **políticas públicas**, regulaciones y una **ética sostenible** respecto de la IA. El país que lidera esta dimensión es **Chile**, con un índice de 83.62. Por su parte, Ecuador tiene un índice de 17.00, que está muy por debajo del promedio regional que es de 37.46. Esto se debe a que, según el informe de ILIA, Ecuador tiene una escasa **visión** e **institucionalidad** para gestionar una **estrategia**, instrumentos y políticas necesarias para [no quedarse al margen de la cuarta revolución industrial](https://www.elcomercio.com/opinion/no-dejemos-ecuador-quede-cuarta-revolucion-industrial-marco-benalcazar-columnista.html "Enla cuarta revolución industrial"). Otro punto crítico es el bajo índice de **ciberseguridad** del Ecuador, que es de 27.23, frente a un promedio regional de 49.85. Adicionalmente, **Ecuador** debe mejorar su gestión en **materia** de **protección** de **datos personales**, pues aquí tenemos un índice de 13.39, frente a un **promedio regional** de 30.72. También necesitamos mejorar nuestro **marco regulatorio**, que según el índice ILIA es incipiente, para reducir los **riesgos** de **impactos** **negativos**, y promover la **legitimidad**, los **derechos humanos**, **ética**, y la **sustentabilidad** en el desarrollo de IA. Adicionalmente, nuestra **regulación** debe incluir aspectos sobre **seguridad**, **precisión** y confiabilidad, donde tenemos un índice de 0 con respecto a un promedio regional de 20.20.
-
-En conclusión, el índice ILIA 2024 ofrece un **análisis** amplio, detallado y **actual** sobre el desarrollo de IA en Latinoamérica y el Caribe. Sin embargo, es importante mencionar que los países de esta región competimos en la liga junior de la IA, mientras que, por ejemplo, Estados Unidos de América, China, Reino Unido, Emiratos Árabes Unidos y Canadá juegan en la liga mayor. En la liga junior de la IA**,** Ecuador está muy cerca de la zona de descenso. Para avanzar a **posiciones** estelares en el **desarrollo** de **IA** dentro de nuestra región, en **Ecuador** necesitamos una **mejora significativa** en **infraestructura energética**, **tecnológica** y **humana**, **alfabetización** y **educación básica** y avanzada en IA, **inversión** en I+D+i, y **desarrollo** de una **gobernanza estable** y **segura**.
-
-Caldo de patas ecuatoriano, un sabor y tradición en cada cucharada
-==================================================================
-
-Deliciosa receta reconfortante y llena de sabor, perfecto para compartir en buena compañía. ¡Comparte esta receta con tus amigos!
----------------------------------------------------------------------------------------------------------------------------------
-
-![La receta del caldo de patas, fácil de preparar, llena de sabor y tradición.](https://www.elcomercio.com/wp-content/uploads/2024/10/image-5.png)
-
-El **caldo de patas ecuatoriano** es un **platillo** emblemático de la **gastronomía** de la **Sierra**, conocido por su sabor reconfortante y nutritivo. Este **delicioso caldo** se prepara a base de patas de res, que aportan un sabor y una textura únicos, convirtiéndolo en un favorito en muchas mesas ecuatorianas. Tradicionalmente, se cocina a fuego lento, permitiendo que los **ingredientes** se integren y desarrollen sus sabores, creando un caldo sustancioso y lleno de **nutrientes**. Ideal para compartir en familia o disfrutar en días fríos. Con su rica **herencia cultural** y su carácter sustancioso, este plato no solo alimenta el cuerpo, sino que también evoca la calidez y el espíritu de la **cocina ecuatoriana**. ¡Atrévete a disfrutarlo y descubrir todo lo que puede ofrecer!
-
-Ingredientes
-------------
-
-1 pata de res bien lavada
-
-3 tazas Mote cocido
-
-2 litros agua
-
-1 cucharada achiote en pasta
-
-1 cucharada ajo en pasta
-
-1 cebolla blanca picada finamente
-
-1 cebolla blanca partida en dos pedazos
-
-2 cucharadas de pasta de maní
-
-1/2 cucharada orégano seco
-
-1/2 taza culantro picado
-
-1 rama perejil
-
-1 taza leche
-
-1 cubo caldo de costilla o de carne (opcional)
-
-Al gusto sal, comino y pimienta negra
-
-* * *
-
-> La pata de res, mote y papas se combinan en un caldo reconfortante que te hará sentir en casa. 
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-2-1.png)
-
-El caldo de patas, ideal para un almuerzo completo que revive las raíces de nuestra cocina ecuatoriana.
-
-Preparación de la receta de caldo de patas
-------------------------------------------
-
-* **Lavar** bien las patas de res. Si prefieres, puedes hervirlas en agua durante unos minutos y luego escurrir para eliminar impurezas.
-* **Colocar** en una olla grande las patas junto con los dos pedazos de cebolla blanca, la rama de perejil, 1/2 cucharada de pasta de ajo, sal, pimienta y comino. Tapar y dejar cocinar hasta que se ablande, esto tarda aproximadamente 3 horas, si cocinas en olla de presión durará unos 45 minutos aproximadamente.
-* **Preparar** en otra olla un refrito. **Colocar** un poco de aceite y cuando esté bien caliente **agregar** el achiote en pasta, **mezclar** bien hasta que diluya, luego añadir la cebolla blanca, el culantro finamente picados y el orégano en hojas secas triturando las mismas con las palmas de la mano, 1/2 cucharadita de pasta de ajo, sal, comino y pimienta al gusto, revolver bien hasta que la cebolla cristalice.
-* En la misma preparación **colocar** la taza de leche y la pasta de maní, revolver bien hasta y añadir el mote cocido. **Mezclar** bien los ingredientes.
-* Una vez que la pata ya esté cocida, **retirar** del fuego, cernir el caldo que queda de la cocción y agregar al refrito. **Añadir** el cubo de caldo de costilla para que dé más sabor.
-* **Cortar** las patas en trocitos y **añadir** a la preparación.
-* **Tapar** la olla y dejar que se cocine por unos 10 minutos más, **retirar** del fuego y servir con un poquito de culantro y cebolla blanca finamente picados, esto le dará un toque especial al momento de probarla. ¡Buen provecho!
-
-Consejo para preparar la receta del caldo de patas
---------------------------------------------------
-
-* Selecciona bien las patas y asegúrate que estén frescas y de buena calidad.
-* Enjuagar bien bajo agua fría. Algunas recetas sugieren hervirlas brevemente en agua con un poco de sal para quitar impurezas antes de cocinarlas a fuego lento.
-* Durante la cocción, es normal que se forme espuma en la superficie. Retírala con una cuchara para obtener un caldo más claro y limpio.
-* A medida que se cocina, prueba el caldo y ajusta la sal y las especias según tu gusto.
-
-¡Disfruta de tu caldo de patas! Es un platillo reconfortante y nutritivo, ideal para compartir.
-
-### Más recetas
-
-* [![Caldo de patas ecuatoriano, un sabor y tradición en cada cucharada](https://www.elcomercio.com/wp-content/uploads/2024/10/image-5.png)](https://www.elcomercio.com/sabores/caldo-patas-ecuatoriano-sabor-tradicion-cucharada.html)
-    
-    [Caldo de patas ecuatoriano, un sabor y tradición en cada cucharada](https://www.elcomercio.com/sabores/caldo-patas-ecuatoriano-sabor-tradicion-cucharada.html)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    Deliciosa receta reconfortante y llena de sabor, perfecto para compartir en buena compañía. ¡Comparte esta receta con tus amigos!
-    
-* [![Arroz con camarones, un plato sabroso y rápido para disfrutar en casa](https://www.elcomercio.com/wp-content/uploads/2024/09/1.jpg)](https://www.elcomercio.com/sabores/arroz-camarones-plato-sabroso.html)
-    
-    [Arroz con camarones, un plato sabroso y rápido para disfrutar en casa](https://www.elcomercio.com/sabores/arroz-camarones-plato-sabroso.html)
-    ----------------------------------------------------------------------------------------------------------------------------------------------
-    
-    El sabor del mar en tu mesa con este plato lleno de tradición y frescura. ¡Comparte esta receta con tus amigos!
-    
-* [![Bolones rellenos de queso y chicharrón, una delicia ecuatoriana en cada mordida](https://www.elcomercio.com/wp-content/uploads/2024/09/image-1-1.png)](https://www.elcomercio.com/sabores/bolones-rellenos-queso-chicharron-delicia-ecuatoriana-cada-mordida-sabores.html)
-    
-    [Bolones rellenos de queso y chicharrón, una delicia ecuatoriana en cada mordida](https://www.elcomercio.com/sabores/bolones-rellenos-queso-chicharron-delicia-ecuatoriana-cada-mordida-sabores.html)
-    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    Haz que tus comidas sean inolvidables con estos bolones crujientes y llenos de sabor. ¡Comparte esta receta con tus amigos!
-    
-
-Binomios presidenciales entran a un escrutinio múltiple
-=======================================================
-
-El calendario para las elecciones 2025 se agota, con evaluaciones, dudas y expectativas.
-----------------------------------------------------------------------------------------
-
-![Imagen creada en Ideogram con el prompt: candidatos a la Presidencia de Ecuador, hombres y mujeres bajo una lupa.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-editorial.jpg)
-
-Las inscripciones para las **elecciones 2025** en **Ecuador** culminaron. 16 binomios fueron el resultado de un proceso definido entre primarias realizadas por cumplir un requisito, con candidatos predispuestos, y apenas una sola alianza entre organizaciones políticas.
-
-Ahora, viene una nueva fase: la evaluación para definir candidaturas en firme. Esta es una lupa desde lo oficial, el **Consejo Nacional Electoral (CNE)**, y la sociedad. En el primer frente, el análisis corresponde a los requisitos, que incluyen una radiografía a la historia legal.
-
-La paridad es una de las bases fundamentales. Aunque la normativa de un equipo conformado por **mujer-hombre o, a su vez, hombre-mujer** se cumple en todos los casos, hay una deuda visible: apenas hay dos féminas encabezando las duplas.
-
-Sin duda, la participación política de las **mujeres** en **Ecuador** aún es insuficiente. Queda claro que la paridad no se logrará exclusivamente con cuotas de **género**. Se requiere una cultura política que deje de ponerlas en segundo plano.
-
-> Las listas tienen que estar encabezadas con un **50 % de mujeres** y, en el caso del binomio presidencial, tener paridad de género: hombre-mujer o mujer-hombre.
-
-Las impugnaciones pueden llegar de cualquier actor político. Claro que, los candidatos tienen la opción de responder y defender su postulación. El 30 de diciembre de 2024, finalmente, se conocerán los contendientes que disputarán la **Presidencia y Vicepresidencia**.
-
-Pero, sin duda, el mayor escrutinio es la mirada ciudadana, la incertidumbre y la búsqueda de respuestas ante la **inseguridad**, el **desempleo** y **emergencias** que agravan el panorama.
-
-El filtro final está conformado por **13 736 314 electores**. De estos, 456 485 se encuentran en el exterior. Así que, si bien diciembre es una fecha clave, será el 9 de febrero de 2025, cuando se desarrollen las elecciones generales. De haber segunda vuela, será el 13 de abril.
-
-Los ecuatorianos elegirán entre la continuidad de **Daniel Noboa**, no así Verónica Abad, la dupla con la que llegó al Palacio de Carondelet en 2023, y 15 opciones que apuntalan el discurso de la salvación del país. Sin contar que, además, se elegirán a 151 cabezas del poder legislativo.
-
-Cartas a Quito / 5 de octubre de 2024
-=====================================
-
-Estas son las cartas a Quito de este sábado 5 de octubre de 2024
-----------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Lección que nos deja Venezuela 
--------------------------------
-
-A la pregunta que nos hacemos la gran mayoría de ecuatorianos de por qué existen todavía simpatizantes del correísmo, las respuestas surgen invariables: son los beneficiarios del atraco y despilfarro de los fondos públicos, son los cientos de miles de “pipones” que fueron ingresados al aparato burocrático, son los fanáticos que aspiran a tener igual suerte, o son sencillamente los incautos irresponsables vencidos por la ignorancia, que no alcanzan a reconocer y tampoco les importa la gravísima situación que vive el Ecuador.  
-
-Cómo es posible que los fanáticos de la narco dictadura de las “mentes lúcidas”, no hayan podido registrar en su memoria todas las atrocidades cometidas, más las de última data que se  van sumando, perpetradas por sus operadores: la escasez de energía eléctrica con todos sus daños colaterales, a causa de hidroeléctricas mal construidas y con sobreprecio, y por el saqueo feroz de los fondos públicos que impide construir nuevas; las aproximadamente cincuenta mil muertes que recién se descubre que constan en las estadísticas del Estado con una explicación nada creíble, producto de la barbarie de la narco política y terrorismo durante la década perdida; la inseguridad que deviene de la narco delincuencia que se inicia con la salida de la Base de Manta; los recientes incendios evidentemente provocados por sectores interesados en el caos, etcétera.  
-
-Cambiar a tiempo el panorama político y elegir un presidente que responda a la realidad actual está en manos de los ecuatorianos honestos, y evitar así el retorno de los enemigos del país, cuyo único afán es reeditar las mismas circunstancias que vive Venezuela, desde hace más o menos tres décadas, para que luego, las víctimas, tengamos que huir masivamente a otros países en calidad de mendigos y ser humillados y abusados. Entonces, luego de sufrir el desprecio humano, retornar casi vencidos a intentar renacer, robustecidos por la razón y el deseo de justicia, a emprender el derrocamiento de la sinrazón y la barbarie que encarnan los candidatos que se deben al Socialismo del siglo XXI.  
-
-La presión a través de las redes sociales y los medios de comunicación, debería ser la que conmine a los candidatos especialmente presidenciales, a exponer sus planes de gobierno con su respectivo financiamiento, que sería el filtro para el descarte de la mayoría de ellos, sumisos “prestanombres”, que hacen el juego a sus mentores. 
-
-Leonardo Cueva Piedra 
-
-Agricultura con cultura 
-------------------------
-
-La combinación de agricultura y cultura es una sinergia poderosa que puede revitalizar comunidades, preservar tradiciones y promover la sostenibilidad. Es una forma de entender y practicar la agricultura que reconoce y celebra la riqueza cultural asociada a las prácticas agrícolas tradicionales. Dentro de sus elementos clave constan el uso de variedades locales, con el fin de preservar y promover el uso de cultivos adaptadas a las condiciones agroecológicas y culturales de cada región. Conocimientos tradicionales sobre agricultura, manejo de plagas, conservación del suelo y otros aspectos relacionados. Prácticas agroecológicas, que respeten el medio ambiente y promuevan la salud de los suelos, como la rotación de cultivos, el uso de abonos orgánicos y el control biológico de plagas. Gastronomía local, promover productos agrícolas frescos y de temporada, fortaleciendo la identidad cultural y generando valor agregado a la producción agrícola. Fomentar el ecoturismo como una forma de dar a conocer las buenas prácticas ambientales como la creación de miradores ecoturísticos y puntos verdes que puedan generar ingresos adicionales para los agricultores y promover la conservación del patrimonio cultural. 
-
-Con lo antes expuesto se data con un ejemplo inspirador el proyecto en mente “Biocorredor Ruta del Choclo” en el cual se pretende realizar la siembra de más de 400 árboles nativos de la zona con la excusa perfecta de adquirir compromiso socioambiental con las comunidades aledañas que practican agricultura tradicional. 
-
-También fortalecer la identidad cultural: vinculando el choclo con tradiciones, festividades y platos típicos de la región. Impulsar el desarrollo local, generando oportunidades de empleo en la producción, procesamiento y comercialización del choclo, así como en el ecoturismo local. Conservar la biodiversidad, creando corredores biológicos que conecten diferentes ecosistemas y protejan la fauna local. 
-
-Para lograr el éxito planteado en el proyecto “Biocorredor Ruta del Choclo” se plantean 2 aristas importantes. Crear rutas gastronómicas ecoturísticas que permitan a los visitantes degustar platos tradicionales a base de choclo y conocer a los productores locales que son parte de la recuperación de la zona y así mismo fomentar el apadrinaje de árboles, mediante el uso de la tecnología Blockchain. Así mismo, la creación de puntos verdes, la cual es una iniciativa cada vez más popular en todo el mundo, ya que representa un paso fundamental hacia la sostenibilidad y el cuidado del medio ambiente. 
-
-El proyecto Biocorredor Ruta del Choclo se presenta como una oportunidad única para impulsar el desarrollo sostenible en las comunidades, preservando la biodiversidad y fortaleciendo la economía local. A través de la participación activa de las comunidades, el proyecto no solo contribuye al desarrollo económico, sino que también fortalece el tejido social y promueve la conservación del medio ambiente. La implementación de tecnologías innovadoras y la capacitación de los productores son elementos clave para garantizar la sostenibilidad a largo plazo del proyecto. El Biocorredor Ruta del Choclo será un modelo de inspiración para otras regiones. 
-
-Anthony Jordán Macías Sornoza 
-
-Campaña farandulera
-===================
-
-¿Quién será el candidato que nos cante las verdades, que nos asuste, que nos despierte y nos libere de los mercachifles de la política?
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-Los **ciudadanos** interesados en la suerte del **país** sostienen que ninguno de los **candidatos** ha expuesto un **proyecto** de **país**, un diagnóstico de los **problemas** y las **soluciones** que implementaría en caso de ser elegido **presidente**. El mensaje electoral es frívolo, la campaña tiene un **carácter farandulero**.
-
-Andy Borowitz, en su libro _Profiles in Ignorance,_ sostiene que los últimos presidentes de Estados Unidos han pasado por tres etapas: en la primera, **políticos** tontos pretendían que eran **inteligentes**; en la segunda, **políticos** tontos se sentían autorizados a parecer tontos; en la tercera, **políticos inteligentes** fingían que eran tontos.
-
-En nuestra **campaña electoral** tenemos **candidatos** pertenecientes a las tres etapas. Todos ocultan la verdad, no saben o no quieren reconocer la **gravedad** de los **problemas**, y prefieren parecer tontos o nos toman por tontos y pretenden hacernos creer que son **taumaturgos**, magos, sabios o tocados por la suerte. Los **candidatos** se mienten y nos mienten.
-
-El país no necesita falsos **optimistas** que nos ofrezcan la pócima para todos los males como vendedores de feria; necesita **líderes** que nos digan que avanzamos como mula ciega hacia el **abismo**, alguien que nos asuste, para que dejemos de ver la **campaña** como **programa** de **entretenimiento**.
-
-Los **presidentes** empujan la **crisis** al que viene. Estamos acumulando **problemas** y tornándolos insolubles: **inseguridad**, **desempleo**, **migración**, deuda, **crisis energética**, **seguridad social**, corrupción; todo dejamos que vaya a peor para entregarlo al que viene, pero lo que viene es la **tragedia nacional** si continuamos por el mismo camino.
-
-Dos **personajes tenebrosos** de la era correísta se presentaron en la **comisión** de **fiscalización**, uno para atacar y otro para defender a la ministra de gobierno; como si fuera un país abandonado que carece de líderes, condenado a repetir lo peor de nuestro pasado. ¿Quién será el **candidato** que nos cante las verdades, que nos asuste, que nos despierte y nos libere de los **mercachifles** de la **política**?
-
-El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios
-====================================================================================
-
-En Ecuador, la mala educación nutricional, el sedentarismo y los alimentos procesados agravan el sobrepeso y obesidad.
-----------------------------------------------------------------------------------------------------------------------
-
-![La expresentadora de TV, Dayana Morán, optó por la manga gástrica para reducir su peso y mejorar su salud y calidad de vida.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dayana-vale.jpg)
-
-El aumento descontrolado de pacientes con **sobrepeso y obesidad** presiona cada día más al sistema sanitario ecuatoriano. **Seis de cada diez personas** lidian con la acumulación anormal de grasa o un Índice de Masa Corporal (**IMC**) **mayor a 25**. Este problema comienza en la niñez y es más prevalente en adultos de **40 a 50 años**, en **mujeres** y se ha convertido en un desafío por las **enfermedades asociadas**.
-
-Más noticias
-------------
-
-* [Una dieta de colores tiene claves para una alimentación saludable](https://www.elcomercio.com/tendencias/salud/dieta-colores-salud-nutricionista-podcast.html "Una dieta de colores tiene claves para una alimentación saludable")
-* [Cuida tu alimentación, ejercicios y emociones para preservar tu corazón](https://www.elcomercio.com/empresariales/cuida-alimentacion-ejercicios-emociones-preservar-corazon.html "Cuida tu alimentación, ejercicios y emociones para preservar tu corazón")
-
-El **Programa Mundial de Alimentos (PMA)** alertó que los pacientes con sobrepeso y obesidad aumentaron en todas las provincias. El impacto económico para el Estado es equivalente al 2,08% del PIB, al 2023, según el **Ministerio de Salud**. Esto se debe al alto consumo de alimentos procesados, azúcares y grasas, además de un estilo de vida sedentario. **La falta de ejercicio** se ve agravada por el tiempo que se dedica a actividades en redes sociales y videojuegos.
-
-**Miguel Lamota,** cirujano **bariátrico y metabólico** con 12 años de experiencia, señala que este fenómeno se debe a la mala educación nutricional que se recibe desde niños. Los pacientes asocian la comida con recompensa desde pequeños. “Te portaste bien toma un chupete, un caramelo, un chocolate…”, explica Lamota, quien resalta que esto se extiende a la adultez.
-
-“Los pacientes con sobrepeso y obesidad que llegan a mi consulta me dicen: doctor yo no como en todo el día, solo me como tres panes y dos o tres coca-colas”.
-
-Los niños varones aumentan más de peso
---------------------------------------
-
-Un estudio de la [Universidad Católica de Quito](https://www.medrxiv.org/content/10.1101/2023.12.16.23300087v1 "https://www.medrxiv.org/content/10.1101/2023.12.16.23300087v1") reveló que el **36%** de los niños ecuatorianos de **5 a 11** años sufren de sobrepeso u obesidad, siendo los **varones** un **26%** más propensos que las niñas. El riesgo de sobrepeso u obesidad aumenta un **10%** **por cada año adicional de edad.**
-
-La última encuesta nacional del INEC reveló también que el **5%** de los menores de cinco años afrontan sobrepeso y obesidad. En Imbabura y Loja, supera el **7%**.
-
-El estudio de la PUCE señala que el **etiquetado nutricional tipo semáforo** ha perdido efectividad, ya que las familias con más niños con sobrepeso u obesidad tienden a consumir más productos procesados y ultraprocesados. Adicionalmente, el consumo de comidas escolares no tuvo un impacto significativo.
-
-La actividad física regular se identificó como un factor protector, reduciendo las probabilidades de sobrepeso u obesidad en aproximadamente un 21%.
-
-Las mujeres son más proclives a subir de peso
----------------------------------------------
-
-Las mujeres, después de los 35 o 40 años, tienden a ganar más peso, pues su metabolismo empieza a disminuir, hay factores hormonales, menopausia, mayor retención de líquidos, hipotiroidismo. Y si a esto se añade una vida poco saludable y sin actividad física, la situación empeora.
-
-Pero las mujeres también son las que más buscan ayuda para mejorar su salud y calidad de vida. En la consulta del doctor Lamota, el 65% son féminas. Un dato curioso: “Cuando la mujer quiere operarse, el marido no puede decir que no. Si el hombre desea operarse y la mujer no quiere, no se opera”.
-
-Estrategias de tratamiento para obesidad
-----------------------------------------
-
-Para pacientes con un IMC de entre 30 y 35, Lamota recomienda la **manga gástrica**, que implica resecar entre 75% y el 80% del estómago. Aquellos con un IMC de 35 o más, especialmente si son diabéticos o hipertensos, pueden optar por un **bypass gástrico**. Esto reduce la capacidad del estómago a 100-120 cm3 y excluye hasta dos metros y medio del intestino delgado para limitar la absorción de alimentos.
-
-El **balón gástrico** es adecuado para quienes necesitan perder hasta 30 libras y se retira después de cuatro, seis o doce meses. Lamota sugiere cuatro meses para evitar complicaciones como gastritis y reflujo.
-
-Minimizar los riesgos con especialistas en cirugía bariátrica
--------------------------------------------------------------
-
-Si los pacientes con sobrepeso y obesidad se deciden por una cirugía deben ser evaluados por cardiólogo, gastroenterólogo, realizarse una endoscopia digestiva alta, seguir dieta preoperatoria y someterse a diversas valoraciones médicas y, aún más si tienen otras enfermedades asociadas.
-
-Es crucial que las operaciones sean realizadas por un especialista en cirugía bariátrica con equipo multidisciplinario para minimizar riesgos. Una manga gástrica puede costar seis mil dólares; un bypass gástrico, entre siete mil y siete mil quinientos. Los balones gástricos varían de 2 500 a 4 000 dólares.
-
-Las soluciones inyectables como ozempic (semaglutida) o saxenda (liraglutida) deben ser administradas por un médico y el acompañamiento de un nutricionista. Antes de su colocación es esencial evaluar la función pancreática y tiroidea. Se deben ajustar las dosis para evitar [efectos adversos](https://www.elcomercio.com/actualidad/la-ute-y-arcsa-alertan-sobre-efectos-adversos-del-uso-de-farmacos-para-perder-peso-en-ecuador.html "https://www.elcomercio.com/actualidad/la-ute-y-arcsa-alertan-sobre-efectos-adversos-del-uso-de-farmacos-para-perder-peso-en-ecuador.html") como diarrea o gastroparesia. Se recomienda en tratamientos cortos de seis semanas a dos meses.
-
-Tres testimonios
-----------------
-
-### Dayana Morán: ‘Me siento sana y con energía’
-
-_La expresentadora de TV cuenta qué le llevó a decidirse por una manga gástrica para mejorar su salud._
-
-![Luego de un año de su cirugía, Dayana mejoró sus hábitos alimenticios, prioriza la proteína y toma suplementos. Foto: Diego Pallero](https://www.elcomercio.com/wp-content/uploads/2024/10/Dayana2-1024x683.jpg)
-
-Luego de un año de su cirugía, Dayana tiene más energía para estar con sus niños, mejoró sus hábitos alimenticios, prioriza la proteína y toma suplementos. Foto: Diego Pallero
-
-“Nunca he estado inconforme con mi peso hasta cuando me empecé a sentir mal. Gracias a Dios tener un carácter y una personalidad fuerte me sirvió. Lo que me animo a bajar de peso es mi salud. Ser ama de casa y mamá 24/7 requiere de energía y el exceso de peso me complicaba. Después de mi segundo embarazo pesaba 195 libras y bajé a 188. Con 1,72 m de estatura tenía 18 kilos de sobrepeso.
-
-En redes sociales recibía un montón insultos: Estás ballena, obesa, mofe…y ahora que estoy delgada me dicen cadavérica, escuálida…, que también me dan lo mismo. Sin embargo, veo que la salud mental de otras mujeres que no tienen esa fortaleza sí les perjudica. Esto lleva a hombres y mujeres a tomar decisiones equivocadas. También me equivoqué tomando pastillas, medicamentos y dietas rigurosas de piña y agua por tres días seguidos. Pero, cuando uno es mamá y pasa de los 30, el cuerpo no responde igual. Y, al tener a cargo vidas que dependen de ti uno piensa muchísimo.
-
-### ‘Las inyecciones para diabéticos no me convencieron’
-
-Me dieron opciones como las inyecciones para personas con diabetes, pero no me convencieron. Si es una [medicina para un diabético](https://www.elcomercio.com/tendencias/uso-ozempic-obesidad-diabetes.html "https://www.elcomercio.com/tendencias/uso-ozempic-obesidad-diabetes.html") y no tengo esa enfermedad ¿por qué voy a enfermar o intoxicar a mi cuerpo con una medicina que no necesita?
-
-> **El 80% de personas hacen dietas, toman pastillas, toman tés, que también lo hice, pero solo es por vanidad y sin pensar en el daño**.
-
-Yo tuve problemas de vesícula, hígado graso, colesterol y triglicéridos altos y una hernia. Con estos antecedentes decidí hacerme la **manga gástrica** hace un año y ha sido una de las mejores decisiones. Ya no me alimento como antes, tomo suplementos alimenticios y priorizo la proteína.
-
-Me siento sana y con energía. Me mantengo activa con mis niños todo el día. Creo que cualquier tratamiento debe ser por salud, de la mano de un médico y con conciencia. Lo más factible es aprender buenos hábitos alimenticios, porque no todas las personas están aptas para una cirugía bariátrica y los suplementos son costosos”.
-
-### José Luis Fuentes: ‘No puedo estar ni cerca del glaucoma y la diabetes’
-
-_El docente universitario cambió su estilo de vida y alimentación para vencer la obesidad._
-
-![El docente de relaciones internacionales de la UDLA no se ha dejado vencer ni por el albinismo ocular ni por la obesidad. Foto: Diego Pallero](https://www.elcomercio.com/wp-content/uploads/2024/10/Jose-Luis-Fuentes.jpg)
-
-José Luis, de 46 años, no se dejó vencer ni por la obesidad ni por el albinismo ocular. Foto: Diego Pallero
-
-“Siempre fui gordito y nunca tuve problemas de bullying. Durante mis estudios universitarios bajé un poco de peso, pero no le di importancia. Al comenzar a trabajar empecé a ganar peso, pero caminaba bastante. Fue entonces cuando me diagnosticaron vitiligo y obviamente evitaba la exposición al sol. Para 2002 llevaba una vida sedentaria; me sumergí en mi maestría y luego en un doctorado.
-
-Alcancé 100 kilos con una altura de 1,765 metros, que representaba obesidad leve. Mi disminución visual complicaba las cosas; al concentrarme más en la lectura y caminar poco. Además, mi alimentación era de pizzas, alitas, hamburguesas y pastas. Una forma de cubrir el estrés es con carbohidratos y azúcar.
-
-Era un gordito feliz y no me hice exámenes de 2012 a 2018, que sufrí una contractura en la espalda, por el peso. La fisioterapeuta dijo: aquí la gente maldice cuando pongo las agujas (20), y yo como si nada.
-
-> **No tenía conciencia, quizás porque había vivido un proceso complicado y estresante del doctorado y la manera de expresarlo fue con la insensibilidad al dolor.** 
-
-### ‘No tenía opción: tenía que cambiar mi estilo de vida’
-
-Empecé a caminar a diario tres o cuatro km durante seis meses. Aunque seguía comiendo como antes logré perder entre 10 y 15 kilos. Sin embargo, en los primeros controles médicos, los niveles de colesterol y triglicéridos estaban altos. El médico me advirtió sobre los riesgos asociados a mi discapacidad visual del 80%. No podía acercarme ni a la diabetes ni al glaucoma. Me mandó a un médico internista. Él fue directo conmigo: tenía que cambiar mi estilo de vida.
-
-Mi visión es limitada; no conduzco y tengo una adaptación excelente a mi condición: albinismo ocular. No existen medicamentos ni cirugías para ello; solo control permanente.
-
-Decidí cambiar mis hábitos alimenticios con una nutricionista. Al principio fue extraño, pero hoy peso 69 kilos y tengo 15% de grasa corporal. Es crucial prestar atención a no perder músculo en lugar de grasa.
-
-El mayor desafío ha sido lidiar con el entorno social: familia y amigos se sienten incómodos porque no me alimento como ellos. Comprendí que los ecuatorianos consumimos demasiados carbohidratos.
-
-### Sofía Molina: ‘Mis ganas de vivir son más profundas’
-
-_A sus 40 años se ha reconciliado consigo misma y su proceso de bajar de peso está dando resultado._
-
-![Sofía está dejando atrás las crisis de ansiedad y depresión.  Foto: Diego Pallero](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-38-1024x683.jpg)
-
-Sofía está dejando atrás las crisis de ansiedad y depresión. Ahora se ejercita a diario. Foto: Diego Pallero
-
-“Desde que tenía 13 años he lidiado con el sobrepeso. Crecí en una familia numerosa, con 26 primos, todos delgados, guapos y altos. Yo también era simpática, pero el sobrepeso me jugaba en contra. He pasado por etapas en las que he perdido peso rápidamente. Intenté todo lo que el mercado ofrece: pastillas que suprimen el apetito, pero que uno de sus componentes es el racumín y eso te seca hasta dietas extremas, como la de diabéticos. Pero el rebote es mucho más grave. 
-
-El sobrepeso me generaba ansiedad y depresión. Me sentía sola y que no encajaba en el estándar de belleza y eso alimentaba mi inseguridad, haciéndome perder la ilusión de vivir. Con esto aprendí sobre el uso y abuso del maquillaje para esconderse y tener el cabello largo para que no se me vea la cara.  En 2020 sentí un descontrol por completo y no tenía ganas de vivir, a raíz de mi primer contagio de covid. Tenía fatiga, no podía respirar, dormir y podía pasar tres días sin comer, pero luego sucumbía a atracones de comida. Sin una rutina alimenticia saludable, mi cuerpo parecía asimilar comida para tres o cuatro.
-
-En mis cuadros de ansiedad y depresión me calmaba con la comida chatarra: Coca-Cola, hamburguesas, papas fritas, pizzas y barras de chocolate. Después venía la culpa. 
-
-> **El problema principal del sobrepeso era que no me aceptaba y me sentía sola. Era muy dura conmigo misma, y nada parecía suficiente.** 
-
-Con 1,61 m de estatura llegué a pesar 210 libras. Cuatro meses después de haber estado hospitalizada por covid y, en medio de la depresión, intenté hacerme daño. Aunque tomaba antidepresivos, eso solo aumentaba mi peso y mi dependencia de la medicación.
-
-### ‘Me reconcilié conmigo y con la comida’
-
-La psiquiatra me insistía en poner de parte, pero seguía atrapada en el ciclo del sobrepeso. No me gustaba mirarme en el espejo; solo me tomaba fotos de mi rostro. Usaba ropa de hombre. Finalmente, la terapia psicológica y la medicina ancestral andina me han ayudado. Creo que todo en la vida es un acto de fe. No quería seguir siendo farmacodependiente, aunque mi psiquiatra me dijo que tendría que tomar medicación de por vida y me diagnosticó bipolaridad tipo 2.
-
-Tras muchos intentos con médicos, nutricionistas y psicólogos, desde diciembre ya no tomo pastillas y he dejado atrás las crisis de ansiedad y depresión. He logrado reconciliarme conmigo mismo y con la comida. 
-
-Trabajo en mis emociones, permitiendo sentir sin culpa. Ahora tengo horarios para mis comidas y agradezco cada bocado. Pongo alarmas que me recuerdan cuándo es momento de comer. A medida que voy sanando mi cuerpo está sanando. 
-
-Hoy peso 180 libras y he comenzado a amar el deporte. Cada mañana a las 6:00 me levanto con ganas de hacer ejercicio. Estoy dejando atrás el desorden alimenticio, creciendo paso a paso. Nunca más me haré daño porque mis ganas de vivir son más profundas” 
-
-Edmundo González fijó fecha para tomar posesión como presidente de Venezuela
-============================================================================
-
-Edmundo González dijo que volverá a Venezuela y dio la fecha para tomar posesión como presidente.
--------------------------------------------------------------------------------------------------
-
-![Edmundo González dio una fecha para tomar posesión del cargo de presidente en Venezuela.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-17.jpg)
-
-**Edmundo González** fijó **fecha** para tomar **posesión** como presidente de **Venezuela**.
-
-El líder de la oposición venezolana hizo estas declaraciones en **España**, país al que llegó en septiembre para pedir asilo.
-
-### Más noticias:
-
-* [Nicolás Maduro extiende la Navidad por más de tres meses en Venezuela](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-extiende-navidad-mas-tres-meses.html "Nicolás Maduro extiende la Navidad por más de tres meses en Venezuela")
-* [Venezolanos pidieron en Madrid la investidura de Edmundo González](https://www.elcomercio.com/actualidad/mundo/venezolanos-pidieron-madrid-investidura-edmundo-gonzalez.html "Venezolanos pidieron en Madrid la investidura de Edmundo González")
-* [Edmundo González dice que firmó un documento bajo ‘coacción’ y que por tanto es nulo](https://www.elcomercio.com/actualidad/mundo/edmundo-gonzalez-firmo-documento-bajo-coaccion-tanto-nulo.html "Edmundo González dice que firmó un documento bajo ‘coacción’ y que por tanto es nulo")
-
-Fecha de Edmundo González para tomar posesión como Presidente de Venezuela
---------------------------------------------------------------------------
-
-El líder opositor venezolano, Edmundo González, afirmó este viernes que el próximo 10 de enero estará de regreso en su país para tomar posesión como presidente.  
-  
-González manifestó esa intención en rueda de prensa tras participar en el **Foro La Toja-Vínculo Atlántico**, donde se reivindicó como presidente electo y dijo que su estancia en España es temporal.  
-  
-Al preguntarle cuándo prevé regresar a su país señaló que lo más pronto posible, cuando se pueda recuperar la democracia.  
-  
-Poco después, recordó que el 10 de enero es la fecha constituyente prevista para la toma de posesión del presidente tras las elecciones del 28 de julio y espera que ese día él pueda asumir la voluntad popular expresada en las urnas por ocho millones de venezolanos.  
-  
-“Yo voy a ir el 10 de enero a tomar posesión de mi cargo como presidente electo de Venezuela”, recalcó.
-
-Respecto al futuro que puede tener Nicolás Maduro, comentó que “él que él desee”.  
-  
-“Yo ahí no me meto”, agregó para apuntar posteriormente, ante la hipótesis de que Maduro pueda permanecer libremente en Venezuela, que “lo que él desee si acepta las condiciones y respeta la Constitución”.
-
-Comparaciones con el candidato Juan Guaidó
-------------------------------------------
-
-Ante las comparaciones con lo vivido en su día por el candidato presidencial Juan Guaidó, González señaló que las situaciones son distintas, ya que este fue elegido por la Asamblea y él tiene el respaldo de las urnas.  
-  
-El líder opositor pidió a la comunidad internacional que tome la decisión de reconocer el resultado de las elecciones presidenciales después de que también se hayan hecho públicas las actas de esos comicios por parte del Centro Carter.
-
-“Lo que hace falta es la voluntad política para respetar los resultados y reconocer la voluntad de ocho millones de venezolanos que votaron por mi candidatura”, ha añadido.
-
-No obstante, recalcó que “para nada” se siente abandonado por la comunidad internacional.
-
-Explicó que más de 30 países, entre ellos España, firmaron la pasada semana una declaración tras una reunión auspiciada por Estados Unidos y Argentina “reconociéndome -ha explicado- como presidente electo”.
