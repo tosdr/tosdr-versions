@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/muz-u-parizu/husband-paris/090.jpg?itok=2e2_P9jU)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/muz-u-parizu-husband-paris)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/dijalektika/krst-kavez-krevetac-rados-antonijevic.jpg?itok=XZ91o_56)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/dijalektika)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/jean-michel-pilc-trio4.jpg?itok=SQu_-QAI)](http://seecult.org/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kikinda-short-001.jpg?itok=RyuHq5oq)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
