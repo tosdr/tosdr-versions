@@ -1,4 +1,6 @@
-[![MyCase logo](https://www.mycase.com/wp-content/themes/mycase/library/img/mycase-logo.svg)](https://www.mycase.com/)
+[![MyCase logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20173%2039'%3E%3C/svg%3E)
+
+![MyCase logo](https://www.mycase.com/wp-content/themes/mycase/library/img/mycase-logo.svg)](https://www.mycase.com/)
 
 * [Product](https://www.mycase.com/terms)
     
@@ -6,7 +8,9 @@
     
     Featured
     
-    [![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
+    
+    ![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
     
     ### 2024 Legal Industry Report
     
@@ -14,13 +18,19 @@
     
     ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20756%20570'%3E%3C/svg%3E)
     
-    ![](https://www.mycase.com/wp-content/uploads/2024/05/asset-image-2024_legal_industry_report.webp)](https://www.mycase.com/reports/2024-legal-industry-report/)[![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
+    ![](https://www.mycase.com/wp-content/uploads/2024/05/asset-image-2024_legal_industry_report.webp)](https://www.mycase.com/reports/2024-legal-industry-report/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
+    
+    ![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
     
     ### Time Savings Calculator
     
     Discover how much time your firm can save with MyCase using our Time Savings Calculator.](https://www.mycase.com/resources/time-savings-calculator/)
     
-    ![Client Intake & Lead Management](https://www.mycase.com/wp-content/uploads/2024/05/user-plus-sharp-light.svg) [Client Intake & Lead Management](https://www.mycase.com/products/client-intake-lead-management/)
+    ![Client Intake & Lead Management](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%2096'%3E%3C/svg%3E)
+    
+    ![Client Intake & Lead Management](https://www.mycase.com/wp-content/uploads/2024/05/user-plus-sharp-light.svg)
+    
+    [Client Intake & Lead Management](https://www.mycase.com/products/client-intake-lead-management/)
     
     [Client Intake Forms](https://www.mycase.com/features/client-intake-forms/)
     
@@ -30,7 +40,11 @@
     
     [Law Firm Websites](https://www.mycase.com/features/law-firm-website-design/)
     
-    ![Case Management](https://www.mycase.com/wp-content/uploads/2024/05/folders-sharp-light.svg) [Case Management](https://www.mycase.com/products/case-management/)
+    ![Case Management](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20108%2096'%3E%3C/svg%3E)
+    
+    ![Case Management](https://www.mycase.com/wp-content/uploads/2024/05/folders-sharp-light.svg)
+    
+    [Case Management](https://www.mycase.com/products/case-management/)
     
     [Calendaring](https://www.mycase.com/features/calendaring/)
     
@@ -42,7 +56,11 @@
     
     [Advanced Document Automation](https://www.mycase.com/features/advanced-document-automation/)
     
-    ![Billing & Payments](https://www.mycase.com/wp-content/uploads/2024/05/calendar-clock-sharp-light.svg) [Billing & Payments](https://www.mycase.com/products/legal-billing-software/)
+    ![Billing & Payments](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20108%2096'%3E%3C/svg%3E)
+    
+    ![Billing & Payments](https://www.mycase.com/wp-content/uploads/2024/05/calendar-clock-sharp-light.svg)
+    
+    [Billing & Payments](https://www.mycase.com/products/legal-billing-software/)
     
     [Billing & Invoicing](https://www.mycase.com/features/legal-invoicing-software/)
     
@@ -52,17 +70,29 @@
     
     [LawPay Payments](https://www.mycase.com/features/legal-payments-software/)
     
-    ![Client Communications](https://www.mycase.com/wp-content/uploads/2024/05/messages-sharp-light.svg) [Client Communications](https://www.mycase.com/products/client-communications/)
+    ![Client Communications](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%2096'%3E%3C/svg%3E)
+    
+    ![Client Communications](https://www.mycase.com/wp-content/uploads/2024/05/messages-sharp-light.svg)
+    
+    [Client Communications](https://www.mycase.com/products/client-communications/)
     
     [Client Portal](https://www.mycase.com/features/client-portal/)
     
     [Built-In Text Messaging](https://www.mycase.com/features/centralized-text-messaging/)
     
-    ![Legal AI Software](https://www.mycase.com/wp-content/uploads/2024/05/sparkles-sharp-light.svg) [Legal AI](https://www.mycase.com/products/legal-ai-software/)
+    ![Legal AI Software](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
+    
+    ![Legal AI Software](https://www.mycase.com/wp-content/uploads/2024/05/sparkles-sharp-light.svg)
+    
+    [Legal AI](https://www.mycase.com/products/legal-ai-software/)
     
     [AI Writing Assistant](https://www.mycase.com/features/ai-legal-writing-assistant/)
     
-    ![Financial Management](https://www.mycase.com/wp-content/uploads/2024/05/chart-pie-simple-sharp-light.svg) [Financial Management](https://www.mycase.com/products/law-firm-financial-management/)
+    ![Financial Management](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
+    
+    ![Financial Management](https://www.mycase.com/wp-content/uploads/2024/05/chart-pie-simple-sharp-light.svg)
+    
+    [Financial Management](https://www.mycase.com/products/law-firm-financial-management/)
     
     [Spend Management](https://www.mycase.com/features/legal-spend-management-software/)
     
@@ -70,7 +100,11 @@
     
     [Legal Accounting](https://www.mycase.com/features/legal-accounting-software/)
     
-    ![Powerful Integrations](https://www.mycase.com/wp-content/uploads/2024/05/arrows-rotate-sharp-light.svg) [Powerful Integrations](https://mycase.com/integrations/)
+    ![Powerful Integrations](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
+    
+    ![Powerful Integrations](https://www.mycase.com/wp-content/uploads/2024/05/arrows-rotate-sharp-light.svg)
+    
+    [Powerful Integrations](https://mycase.com/integrations/)
     
     [Zapier](https://mycase.com/integrations/zapier/)
     
@@ -92,7 +126,9 @@
     
     Featured
     
-    [![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
+    
+    ![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
     
     ### 2024 Legal Industry Report
     
@@ -100,7 +136,9 @@
     
     ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20756%20570'%3E%3C/svg%3E)
     
-    ![](https://www.mycase.com/wp-content/uploads/2024/05/asset-image-2024_legal_industry_report.webp)](https://www.mycase.com/reports/2024-legal-industry-report/)[![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
+    ![](https://www.mycase.com/wp-content/uploads/2024/05/asset-image-2024_legal_industry_report.webp)](https://www.mycase.com/reports/2024-legal-industry-report/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E)
+    
+    ![](https://www.mycase.com/wp-content/uploads/2024/05/arrow-right-long-sharp-light.svg)
     
     ### Time Savings Calculator
     
@@ -166,11 +204,15 @@
     
     Resources by Topic
     
+    ![Blog](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2020%2020'%3E%3C/svg%3E)
+    
     ![Blog](https://www.mycase.com/wp-content/uploads/2022/02/icon-blog.svg)
     
     [Blog](https://www.mycase.com/blog/)
     
     Explore tips for running your law firm efficiently.
+    
+    ![Guides](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2023%2022'%3E%3C/svg%3E)
     
     ![Guides](https://www.mycase.com/wp-content/uploads/2022/02/icon-guides.svg)
     
@@ -178,11 +220,15 @@
     
     Elevate your practice with detailed handbooks.
     
+    ![Case Studies](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2023%2023'%3E%3C/svg%3E)
+    
     ![Case Studies](https://www.mycase.com/wp-content/uploads/2022/02/icon-cs.svg)
     
     [Case Studies](https://www.mycase.com/case-studies/)
     
     Apply competitive strategies used by successful lawyers.
+    
+    ![Time Savings Calculator](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2025%2023'%3E%3C/svg%3E)
     
     ![Time Savings Calculator](https://www.mycase.com/wp-content/uploads/2024/03/icon-billing.svg)
     
@@ -190,17 +236,23 @@
     
     See how much your firm can save by using MyCase.
     
+    ![Videos](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2014'%3E%3C/svg%3E)
+    
     ![Videos](https://www.mycase.com/wp-content/uploads/2022/02/icon-videos.svg)
     
     [Videos](https://www.mycase.com/videos/)
     
     Watch educational content crafted specifically for attorneys.
     
+    ![Webinars](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2025%2017'%3E%3C/svg%3E)
+    
     ![Webinars](https://www.mycase.com/wp-content/uploads/2022/02/icon-webinars.svg)
     
     [Webinars](https://www.mycase.com/webinars/)
     
     Get essential insider insights from legal experts.
+    
+    ![Reports](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2023%2022'%3E%3C/svg%3E)
     
     ![Reports](https://www.mycase.com/wp-content/uploads/2022/11/Report-01.svg)
     
