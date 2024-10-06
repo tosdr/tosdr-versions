@@ -118,59 +118,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Shaun Gartshore
+Kobus Venter
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=163067249)  
-Wiselink Broadband Dundee
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=78423223)  
+McKaynine Mobility
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=122780355)  
-Brilliant Roof Products
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=181472900)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=78504207)  
-VerdanTech Pty Ltd
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=18321466)  
+Tantra Sound and Lightz
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=173120149)  
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=98042029)  
+CLEVER STUDENTS
+
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=54545317)  
+Imhoff Equestrian Centre
+
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=162630171)  
+Cooper Power Cape Town (Pty) Ltd
+
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=188017733)  
 Network Grey (Pty) Ltd
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=209000076)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=152311724)  
+NGB HOLDINGS PTY LTD
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=120809761)  
-Bloem Rugby Academy PTY (Ltd)
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=32012978)  
-Digifax (Pty) Ltd trading as Digirent
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=137872103)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=190440033)  
-Oak Tree Immigration
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=189814168)  
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=73679322)  
 Entidee Enterprise PTY (ltd)
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=12090249)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=34974694)  
+Tiny Cuddles Photography
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=198019197)  
-Enhle Oarabile Kea
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=1827221)  
+KTEN PARTS
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=39704241)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=43227105)  
+Lemba Truck Stop
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=16986945)  
-Cpower Projects t/a Pro Pure Water
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=126110844)  
+LEONARD
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=0c3197375eeb17a836e70f5e918393746540f361ae2bec5cda77ed242fcb7f46&c=36943526)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=133439286)  
+Repairs In Motion
+
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=188569008)  
+Electro-Heat
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
