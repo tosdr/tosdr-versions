@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Edward-Coronel-b-326x245.jpg)](https://cwbchicago.com/2024/10/recent-parolee-fired-shot-while-robbing-man-in-humboldt-park-prosecutors-say.html "Recent parolee fired shot while robbing man in Humboldt Park, prosecutors say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Keshaun-Davenport-and-Emmanuel-Daniels-326x245.jpg)](https://cwbchicago.com/2024/10/man-drove-a-16-year-old-boy-to-englewood-ordered-him-to-murder-another-man-in-a-drive-by-prosecutors-say.html "Man drove a 16-year-old boy to Englewood, ordered him to murder another man in a drive-by, prosecutors say")
 
-Humboldt Park
+Englewood
 
-### [Recent parolee fired shot while robbing man in Humboldt Park, prosecutors say](https://cwbchicago.com/2024/10/recent-parolee-fired-shot-while-robbing-man-in-humboldt-park-prosecutors-say.html "Recent parolee fired shot while robbing man in Humboldt Park, prosecutors say")
+### [Man drove a 16-year-old boy to Englewood, ordered him to murder another man in a drive-by, prosecutors say](https://cwbchicago.com/2024/10/man-drove-a-16-year-old-boy-to-englewood-ordered-him-to-murder-another-man-in-a-drive-by-prosecutors-say.html "Man drove a 16-year-old boy to Englewood, ordered him to murder another man in a drive-by, prosecutors say")
 
-[October 4, 2024 7:43 AM](https://cwbchicago.com/2024/10)
+[October 4, 2024 3:30 PM](https://cwbchicago.com/2024/10)
 
-A man recently released from prison is back behind bars after prosecutors said he fired a gun while robbing a man in Humboldt Park.[](https://cwbchicago.com/2024/10/recent-parolee-fired-shot-while-robbing-man-in-humboldt-park-prosecutors-say.html "Recent parolee fired shot while robbing man in Humboldt Park, prosecutors say")
+Prosecutors say a suburban man drove a 16-year-old into the city and ordered the boy to shoot and kill another man in a drive-by this summer. They are both facing murder charges, while a third man is accused of destroying evidence in the case.[](https://cwbchicago.com/2024/10/man-drove-a-16-year-old-boy-to-englewood-ordered-him-to-murder-another-man-in-a-drive-by-prosecutors-say.html "Man drove a 16-year-old boy to Englewood, ordered him to murder another man in a drive-by, prosecutors say")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Monique-Scott-David-Moore-326x245.jpg)](https://cwbchicago.com/2024/10/aldermen-priest-call-for-reinstatement-of-shotspotter-after-murder-victims-are-found-on-city-streets-how-many-more-will-there-be.html "Aldermen, priest call for reinstatement of ShotSpotter after murder victims are found on city streets; ‘How many more will there be?’")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Stevenson-Pulaski-326x245.jpg)](https://cwbchicago.com/2024/10/railroad-burglars-dive-into-canal-after-swiping-at-least-200-apple-watches.html "Railroad burglars dive into canal after swiping at least 200 Apple Watches")
 
-Citywide
+Archer Heights
 
-### [Aldermen, priest call for reinstatement of ShotSpotter after murder victims are found on city streets; ‘How many more will there be?’](https://cwbchicago.com/2024/10/aldermen-priest-call-for-reinstatement-of-shotspotter-after-murder-victims-are-found-on-city-streets-how-many-more-will-there-be.html "Aldermen, priest call for reinstatement of ShotSpotter after murder victims are found on city streets; ‘How many more will there be?’")
+### [Railroad burglars dive into canal after swiping at least 200 Apple Watches](https://cwbchicago.com/2024/10/railroad-burglars-dive-into-canal-after-swiping-at-least-200-apple-watches.html "Railroad burglars dive into canal after swiping at least 200 Apple Watches")
 
-[October 4, 2024 6:22 AM](https://cwbchicago.com/2024/10)
+[October 4, 2024 9:11 AM](https://cwbchicago.com/2024/10)
 
-Two Chicago aldermen are publicly calling for Mayor Brandon Johnson to reactivate the city’s ShotSpotter network after gunshot victims, including a 14-year-old boy, were found murdered in their wards.[](https://cwbchicago.com/2024/10/aldermen-priest-call-for-reinstatement-of-shotspotter-after-murder-victims-are-found-on-city-streets-how-many-more-will-there-be.html "Aldermen, priest call for reinstatement of ShotSpotter after murder victims are found on city streets; ‘How many more will there be?’")
+A railroad burglary crew nearly got away with 200 boxes of Apple Watches, but most of them wound up in police custody after cops tracked them down along the Chicago Sanitary and Ship Canal in Archer Heights.[](https://cwbchicago.com/2024/10/railroad-burglars-dive-into-canal-after-swiping-at-least-200-apple-watches.html "Railroad burglars dive into canal after swiping at least 200 Apple Watches")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Leotis-Carter-326x245.jpg)](https://cwbchicago.com/2024/10/drunk-driver-in-fatal-wrong-way-crash-had-alcohol-level-nearly-3x-legal-limit-prosecutors-say.html "Drunk driver in fatal wrong-way crash had alcohol level nearly 3x legal limit, prosecutors say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/GABRIEL-GARCIA-VIZCAINO--326x245.jpg)](https://cwbchicago.com/2024/10/migrant-2-others-stole-fragrances-with-nearly-19k-during-ulta-smash-and-grab-prosecutors.html "Migrant, 2 others stole fragrances with nearly $19K during Ulta smash-and-grab: prosecutors")
 
-Douglas
+Archer Heights
 
-### [Drunk driver in fatal wrong-way crash had alcohol level nearly 3x legal limit, prosecutors say](https://cwbchicago.com/2024/10/drunk-driver-in-fatal-wrong-way-crash-had-alcohol-level-nearly-3x-legal-limit-prosecutors-say.html "Drunk driver in fatal wrong-way crash had alcohol level nearly 3x legal limit, prosecutors say")
+### [Migrant, 2 others stole fragrances with nearly $19K during Ulta smash-and-grab: prosecutors](https://cwbchicago.com/2024/10/migrant-2-others-stole-fragrances-with-nearly-19k-during-ulta-smash-and-grab-prosecutors.html "Migrant, 2 others stole fragrances with nearly $19K during Ulta smash-and-grab: prosecutors")
 
-[October 3, 2024 8:08 PM](https://cwbchicago.com/2024/10)
+[October 4, 2024 8:31 AM](https://cwbchicago.com/2024/10)
 
-The motorist responsible for a fatal wrong-way crash on Lake Shore Drive was driving on a revoked license with a blood alcohol level about three times the legal limit, prosecutors said in court filings.[](https://cwbchicago.com/2024/10/drunk-driver-in-fatal-wrong-way-crash-had-alcohol-level-nearly-3x-legal-limit-prosecutors-say.html "Drunk driver in fatal wrong-way crash had alcohol level nearly 3x legal limit, prosecutors say")
+Prosecutors say a migrant joined two accomplices to steal fragrances worth more than $18,000 from an Ulta Beauty store.[](https://cwbchicago.com/2024/10/migrant-2-others-stole-fragrances-with-nearly-19k-during-ulta-smash-and-grab-prosecutors.html "Migrant, 2 others stole fragrances with nearly $19K during Ulta smash-and-grab: prosecutors")
 
 Search
 
