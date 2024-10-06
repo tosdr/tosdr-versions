@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![MineConomy](plugins/MineCraft/icons/25x25xMineConomy_1719812585.png.pagespeed.ic.xQziuCrLtk.png)
+[![TerminaMC](plugins/MineCraft/icons/25x25xTerminaMC_1728182614.png.pagespeed.ic.EElmLxq5K5.jpg)
 
-MineConomy](https://minecraft-server.net/details/MineConomy/ "MineConomy")[![NovaAnarchy](plugins/MineCraft/icons/25x25xNovaAnarchy_1727505642.png.pagespeed.ic.bKePTc9CBi.png)
+Termina - Towny Wartime (Raiding) (SMP) \[Crossplay\]](https://minecraft-server.net/details/TerminaMC/ "Termina - Towny Wartime (Raiding) (SMP) [Crossplay]")[![LapsNetwork](plugins/MineCraft/icons/25x25xLapsNetwork_1727040362.png.pagespeed.ic.oC2A8nHtDV.png)
 
-Nova Anarchy](https://minecraft-server.net/details/NovaAnarchy/ "Nova Anarchy")[![hcraid](plugins/MineCraft/icons/25x25xhcraid_1728017316.png.pagespeed.ic.DvVjC3dGRz.png)
+Laps Network - Factory Builder](https://minecraft-server.net/details/LapsNetwork/ "Laps Network - Factory Builder")[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
 
-HcRaid⚔️Network](https://minecraft-server.net/details/hcraid/ "HcRaid⚔️Network")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
+Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
 
-CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
+KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![troete](plugins/MineCraft/icons/25x25xtroete_1725906453.png.pagespeed.ic.inCJFl11BP.png)
 
-Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")
+RuinSpirit](https://minecraft-server.net/details/troete/ "RuinSpirit")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06791 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05916 - Created by [Debaucus](https://debauc.us/)
