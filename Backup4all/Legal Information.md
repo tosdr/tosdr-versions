@@ -1,3 +1,9 @@
+ ![Limited time promo](https://www.backup4all.com/images/promo/pack/promo-save.png?ek79cy)
+
+#### Limited time sale: Backup4all PRO Family Pack - Pay for 2 Licenses & Get 3 (Save US$ 46.68)
+
+Buy (US$ 93.33)
+
 [![Backup4all Logo](https://www.backup4all.com/images/backup4all-logo.svg)![Backup4all Logo by Softland](https://www.backup4all.com/images/backup4all-by-softland.svg)](https://www.backup4all.com/)
 
 [Search our website](# "Search our website")
@@ -136,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Why the mirror files are not deleted from des ...](https://www.backup4all.com/why-the-mirror-files-are-not-deleted-from-destination-kb.html)  
+* [How to backup your data to Dunkel](https://www.backup4all.com/how-to-backup-your-data-to-dunkel-kb.html)  
     
-* [Backup4all appears to be open in taskbar but ...](https://www.backup4all.com/backup4all-appears-to-be-open-in-taskbar-but-you-cannot-see-kb.html)  
+* [Using Backup4all - FAQ 10](https://www.backup4all.com/using-backup4all-faq-10-kb.html)  
     
-* [Rotating backup scheme using external drives](https://www.backup4all.com/rotating-backup-scheme-using-external-drives-kb.html)  
+* [Google Drive cannot be used as backup source ...](https://www.backup4all.com/google-drive-cannot-be-used-as-backup-source-anymore-kb.html)  
     
-* [How to deactivate Backup4all](https://www.backup4all.com/how-to-deactivate-backup4all-kb.html)  
+* [Using Backup4all - FAQ 6](https://www.backup4all.com/using-backup4all-faq-6-kb.html)  
     
-* [How to backup your data to ThinkOn](https://www.backup4all.com/how-to-backup-your-data-to-thinkon-kb.html)  
+* [How to backup your data to QNAP](https://www.backup4all.com/how-to-backup-your-data-to-qnap-kb.html)  
     
 
 Choose language:
