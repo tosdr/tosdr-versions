@@ -34,9 +34,9 @@ Navigation
         
         #### [For the first time since spring, endangered Southern Resident orcas return to Puget Sound](https://www.king5.com/article/news/local/endangered-southern-resident-orcas-spotted-puget-sound/281-741d5494-cb43-4f1e-9a02-75f09414af21)
         
-    *  [![](https://media.king5.com/assets/KING/images/c298ce6e-dc5d-4d8c-9165-ff6fa3baa08c/20241004T160807/c298ce6e-dc5d-4d8c-9165-ff6fa3baa08c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c298ce6e-dc5d-4d8c-9165-ff6fa3baa08c/20241004T160807/c298ce6e-dc5d-4d8c-9165-ff6fa3baa08c_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaab/huskies/how-to-watch-washington-michigan-king-5/281-73301cca-8dfd-41b0-bcb0-744b48da1a02)
+    *  [![](https://media.king5.com/assets/KING/images/c5b4316f-6ddb-44f1-b4a4-8284fdcc19ff/20241006T031014/c5b4316f-6ddb-44f1-b4a4-8284fdcc19ff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c5b4316f-6ddb-44f1-b4a4-8284fdcc19ff/20241006T031014/c5b4316f-6ddb-44f1-b4a4-8284fdcc19ff_360x203.jpg)](https://www.king5.com/article/news/local/washington-pulls-away-4th-quarter-beat-michigan-27-17/281-55b9b3cf-6703-438a-b71e-9ec7f997420e)
         
-        #### [How to watch the Washington vs. Michigan game on KING 5](https://www.king5.com/article/sports/ncaa/ncaab/huskies/how-to-watch-washington-michigan-king-5/281-73301cca-8dfd-41b0-bcb0-744b48da1a02)
+        #### [Washington pulls away in 4th quarter to beat No. 10 Michigan 27-17](https://www.king5.com/article/news/local/washington-pulls-away-4th-quarter-beat-michigan-27-17/281-55b9b3cf-6703-438a-b71e-9ec7f997420e)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a6b7f467-bcf7-44b0-a00d-063901189a47/20241006T052002/a6b7f467-bcf7-44b0-a00d-063901189a47_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a6b7f467-bcf7-44b0-a00d-063901189a47/20241006T052002/a6b7f467-bcf7-44b0-a00d-063901189a47_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/CCT/images/ed09a3b5-59c7-4886-9d16-632455e340de/20241005T175057/ed09a3b5-59c7-4886-9d16-632455e340de_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/ed09a3b5-59c7-4886-9d16-632455e340de/20241005T175057/ed09a3b5-59c7-4886-9d16-632455e340de_360x203.jpg)](https://www.king5.com/article/news/nation-world/tropical-depression-14-could-intensify-into-hurricane-threatening-florida/507-eb787c98-da1d-42c9-a486-b23f45d99a96)
         
         #### [Florida on alert as Tropical Storm Milton forms in the Gulf](https://www.king5.com/article/news/nation-world/tropical-depression-14-could-intensify-into-hurricane-threatening-florida/507-eb787c98-da1d-42c9-a486-b23f45d99a96)
-        
-    *  [![](https://media.king5.com/assets/KING/images/ba51c1ef-4d22-45fa-be1e-f4c9a61c3cba/20241005T184833/ba51c1ef-4d22-45fa-be1e-f4c9a61c3cba_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ba51c1ef-4d22-45fa-be1e-f4c9a61c3cba/20241005T184833/ba51c1ef-4d22-45fa-be1e-f4c9a61c3cba_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-57°
+54°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
