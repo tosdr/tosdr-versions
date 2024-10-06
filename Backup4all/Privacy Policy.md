@@ -295,15 +295,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore a backup from Azure](https://www.backup4all.com/how-to-restore-a-backup-from-azure-kb.html)  
+* [How to install Google Drive application](https://www.backup4all.com/how-to-install-google-drive-application-kb.html)  
     
-* [How to erase a CD/DVD/Blu-ray with Backup4all](https://www.backup4all.com/how-to-erase-a-cd-dvd-blu-ray-with-backup4all-kb.html)  
+* [How to back up data files from Cloudian using ...](https://www.backup4all.com/how-to-back-up-data-files-from-cloudian-using-backup4all-kb.html)  
     
-* [Backup demo](https://www.backup4all.com/backup-demo-kb.html)  
+* [FTP backup using proxy server](https://www.backup4all.com/ftp-backup-using-proxy-server-kb.html)  
     
-* [How to customize email notifications](https://www.backup4all.com/how-to-customize-email-notifications-kb.html)  
+* [USB backup](https://www.backup4all.com/usb-backup-kb.html)  
     
-* [How to back up files from Google Cloud Storag ...](https://www.backup4all.com/how-to-back-up-files-from-google-cloud-storage-with-backup4all-kb.html)  
+* [How to enable on Linux the ciphers supported ...](https://www.backup4all.com/how-to-enable-on-linux-the-ciphers-supported-by-backup4all-kb.html)  
     
 
 Choose language:
