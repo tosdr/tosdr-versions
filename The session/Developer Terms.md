@@ -7,7 +7,9 @@
 API
 ===
 
-The Session has a read-only API. Information that is available through the website as HTML is also available in other formats. To request a URL in another format, add `?format=` to the URL with one of the these formats specified:
+The Session has a read-only API. This is useful for one-off queries. If you need access to all of the data on the site, you can download CSV and JSON files of [data from The Session on Github](https://github.com/adactio/TheSession-data) ([.zip](https://github.com/adactio/TheSession-data/archive/master.zip)). These are updated about once a week.
+
+Information that is available through the website as HTML is also available in other formats. To request a URL in another format, add `?format=` to the URL with one of the these formats specified:
 
 Formats
 -------
@@ -149,12 +151,21 @@ There are also individual activity streams for member notifications:
 Data dumps
 ----------
 
-You can download CSV and JSON files of [data from The Session on Github](https://github.com/adactio/TheSession-data) ([.zip](https://github.com/adactio/TheSession-data/archive/master.zip)). These are updated about once a week.
+You can download CSV and JSON files of [data from The Session on Github](https://github.com/adactio/TheSession-data) ([.zip](https://github.com/adactio/TheSession-data/archive/main.zip)). These are updated about once a week.
+
+Archive
+-------
+
+You can get [an archive of everything from The Session on Github](https://github.com/adactio/TheSession-archive) ([.zip](https://github.com/adactio/TheSession-archive/archive/main.zip)). These are static HTML files that are also updated about once a week.
 
 Example apps
 ------------
 
 Here are some things people have made using The Session’s API or data dumps:
+
+[Tin Whistle Hero](https://www.tinwhistlehero.io/)
+
+A web app that’s like Guitar Hero for the tin whistle.
 
 [Tunetable](https://anton-bregolas.github.io/Tunetable/)
 
