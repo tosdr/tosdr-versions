@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 06, 2024](https://www.japantimes.co.jp/archive/2024/10/06/ "archive page")
+[October 07, 2024](https://www.japantimes.co.jp/archive/2024/10/07/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,25 +463,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[High temperatures to continue in Japan throughout October](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![The city of Kumamoto on Sept. 18, when the temperature climbed to 37.5 degrees Celsius](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425981.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The city of Kumamoto on Sept. 18, when the temperature climbed to 37.5 degrees Celsius")](https://www.japantimes.co.jp/news/2024/10/04/japan/hot-september-october/ "High temperatures to continue in Japan throughout October")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![Masamitsu Yoshioka in 2023, when he was 105](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425861.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Masamitsu Yoshioka in 2023, when he was 105")](https://www.japantimes.co.jp/news/2024/10/04/japan/last-pearl-harbor-bombardier-obituary/ "Masamitsu Yoshioka, last Pearl Harbor bombardier, dies at 106")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[LDP to endorse 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426033.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425964.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ")](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-[Japanese baseball fans flock to LA to see playoff-bound Ohtani](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
+[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
-  [![ A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426043.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 " A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles")](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
+  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
 [The furry performance-enhancers that are sweeping the world of sports](https://www.japantimes.co.jp/sports/2024/10/06/more-sports/athletes-therapy-dogs/ "The furry performance-enhancers that are sweeping the world of sports")
 
@@ -522,9 +522,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Japan and South Korea to expand initiative to cut methane emissions](https://www.japantimes.co.jp/news/2024/10/06/japan/japan-south-korea-cut-methane-emissions/ "Japan and South Korea to expand initiative to cut methane emissions")
+
+5 hours ago
+
 [Florida faces new storm threat as region reels from Helene](https://www.japantimes.co.jp/news/2024/10/06/world/florida-new-storm/ "Florida faces new storm threat as region reels from Helene")
 
-1 hours ago
+7 hours ago
 
 [Intense Israeli bombing rocks Beirut ahead of war anniversary](https://www.japantimes.co.jp/news/2024/10/06/world/intense-israel-bombing/ "Intense Israeli bombing rocks Beirut ahead of war anniversary")
 
-1 hours ago
+7 hours ago
 
 [Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/06/japan/politics/ldp-not-endorse-slush-fund-lawmakers/ "Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election")
 
-2 hours ago
+8 hours ago
 
 [Rise of 'spot work' schemes leading to scams in Japan](https://www.japantimes.co.jp/news/2024/10/06/japan/crime-legal/spot-work-scams/ "Rise of 'spot work' schemes leading to scams in Japan")
 
-4 hours ago
-
-[Italy's Eni in talks with Japan on supplying LNG, executive says](https://www.japantimes.co.jp/business/2024/10/06/companies/italy-eni-japan-lng-deal/ "Italy's Eni in talks with Japan on supplying LNG, executive says")
-
-5 hours ago
+11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
