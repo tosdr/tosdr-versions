@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![joao_tl1](https://www.clubedohardware.com.br/uploads/members/monthly_2022_11/imported-photo-1208947.thumb.jpeg.3e171e24915298327d4d0561164f96a5.jpeg)](https://www.clubedohardware.com.br/profile/1208947-joao_tl1/ "Ir ao perfil de joao_tl1")
+    * [![Cai0ba](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/SatoruGojoicon.thumb.jpeg.20d0ac0b503740173cb845e9e7fd20cf.jpeg)](https://www.clubedohardware.com.br/profile/1242134-cai0ba/ "Ir ao perfil de Cai0ba")
         
         0
         
-        [Frequência da Memória não estabiliza em 3600mhz](https://www.clubedohardware.com.br/forums/topic/1699028-frequ%C3%AAncia-da-mem%C3%B3ria-n%C3%A3o-estabiliza-em-3600mhz/?do=getNewComment "Frequência da Memória não estabiliza em 3600mhz")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [joao\_tl1](https://www.clubedohardware.com.br/profile/1208947-joao_tl1/ "Ir ao perfil de joao_tl1")  
-        1 hora atrás
-        
-    * [![Hiatus moon](https://www.clubedohardware.com.br/uploads/members/monthly_2022_06/imported-photo-1195991.thumb.png.ca4d19cfa82254f96c6599a9214ab755.png)](https://www.clubedohardware.com.br/profile/1195991-hiatus-moon/ "Ir ao perfil de Hiatus moon")
-        
-        2
-        
-        [SSD Kingston NV2 não aparece no explorador de arquivos](https://www.clubedohardware.com.br/forums/topic/1699027-ssd-kingston-nv2-n%C3%A3o-aparece-no-explorador-de-arquivos/?do=getNewComment "SSD Kingston NV2 não aparece no explorador de arquivos")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Hiatus moon](https://www.clubedohardware.com.br/profile/1195991-hiatus-moon/ "Ir ao perfil de Hiatus moon")  
-        2 horas atrás
-        
-    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
-        
-        2
-        
-        [Vida util dos HDs 2.5"](https://www.clubedohardware.com.br/forums/topic/1699026-vida-util-dos-hds-25/?do=getNewComment "Vida util dos HDs 2.5"")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
-        3 horas atrás
-        
-    * [![Neestyy](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b0c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EN%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254094-neestyy/ "Ir ao perfil de Neestyy")
-        
-        0
-        
-        [Linhas pretas em jogos](https://www.clubedohardware.com.br/forums/topic/1699024-linhas-pretas-em-jogos/?do=getNewComment "Linhas pretas em jogos")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Neestyy](https://www.clubedohardware.com.br/profile/1254094-neestyy/ "Ir ao perfil de Neestyy")  
-        6 horas atrás
-        
-    * [![bebetos](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46264%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1252582-bebetos/ "Ir ao perfil de bebetos")
-        
-        0
-        
-        [RTX 4070 + Ryzen 7 5700X3D](https://www.clubedohardware.com.br/forums/topic/1699023-rtx-4070-ryzen-7-5700x3d/?do=getNewComment "RTX 4070 + Ryzen 7 5700X3D")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [bebetos](https://www.clubedohardware.com.br/profile/1252582-bebetos/ "Ir ao perfil de bebetos")  
-        8 horas atrás
-        
-    * [![JoaoKleberFidelidade100](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/nogooning.thumb.jpg.9649384c0584eb1affefd8e9b6bc5638.jpg)](https://www.clubedohardware.com.br/profile/1254091-joaokleberfidelidade100/ "Ir ao perfil de JoaoKleberFidelidade100")
-        
-        0
-        
-        [Quanto vale essa fonte de alimentação - Fonte XPG Pylon, 650w](https://www.clubedohardware.com.br/forums/topic/1699022-quanto-vale-essa-fonte-de-alimenta%C3%A7%C3%A3o-fonte-xpg-pylon-650w/?do=getNewComment "Quanto vale essa fonte de alimentação -  Fonte XPG Pylon, 650w")
-        
-        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
-        Por [JoaoKleberFidelidade100](https://www.clubedohardware.com.br/profile/1254091-joaokleberfidelidade100/ "Ir ao perfil de JoaoKleberFidelidade100")  
-        8 horas atrás
-        
-    * [![JoaoKleberFidelidade100](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/nogooning.thumb.jpg.9649384c0584eb1affefd8e9b6bc5638.jpg)](https://www.clubedohardware.com.br/profile/1254091-joaokleberfidelidade100/ "Ir ao perfil de JoaoKleberFidelidade100")
-        
-        1
-        
-        [Recomendação de fontes custo beneficio - De preferência semi ou full modular](https://www.clubedohardware.com.br/forums/topic/1699021-recomenda%C3%A7%C3%A3o-de-fontes-custo-beneficio-de-prefer%C3%AAncia-semi-ou-full-modular/?do=getNewComment "Recomendação de fontes custo beneficio -  De preferência semi ou full modular")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [JoaoKleberFidelidade100](https://www.clubedohardware.com.br/profile/1254091-joaokleberfidelidade100/ "Ir ao perfil de JoaoKleberFidelidade100")  
-        9 horas atrás
-        
-    * [![Márcio Andrade](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254068.thumb.jpeg.78935bda0ec1a49dda7a57bbf054cbfe.jpeg)](https://www.clubedohardware.com.br/profile/1254068-m%C3%A1rcio-andrade/ "Ir ao perfil de Márcio Andrade")
-        
-        1
-        
-        [Soundbar chinês desliga sozinho no meio da música.](https://www.clubedohardware.com.br/forums/topic/1699019-soundbar-chin%C3%AAs-desliga-sozinho-no-meio-da-m%C3%BAsica/?do=getNewComment "Soundbar chinês desliga sozinho no meio da música.")
-        
-        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [Márcio Andrade](https://www.clubedohardware.com.br/profile/1254068-m%C3%A1rcio-andrade/ "Ir ao perfil de Márcio Andrade")  
-        13 horas atrás
-        
-    * [![Rusman](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1252443.thumb.jpeg.793c796a673982cf683d12e04a86050e.jpeg)](https://www.clubedohardware.com.br/profile/1252443-rusman/ "Ir ao perfil de Rusman")
-        
-        4
-        
-        [Troca de processador para um novo](https://www.clubedohardware.com.br/forums/topic/1699017-troca-de-processador-para-um-novo/?do=getNewComment "Troca de processador para um novo")
+        [Melhor Processador XEON para plataforma LGA 1155.](https://www.clubedohardware.com.br/forums/topic/1699047-melhor-processador-xeon-para-plataforma-lga-1155/?do=getNewComment "Melhor Processador XEON para plataforma LGA 1155.")
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Rusman](https://www.clubedohardware.com.br/profile/1252443-rusman/ "Ir ao perfil de Rusman")  
-        14 horas atrás
+        Por [Cai0ba](https://www.clubedohardware.com.br/profile/1242134-cai0ba/ "Ir ao perfil de Cai0ba")  
+        1 minuto atrás
         
-    * [![Tiago.g2](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4627a%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1222751-tiagog2/ "Ir ao perfil de Tiago.g2")
+    * [![Gabriel Barbosa J.](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23628cc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EGB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254114-gabriel-barbosa-j/ "Ir ao perfil de Gabriel Barbosa J.")
+        
+        1
+        
+        [Fonte de 500W suporta RTX 4060 + Water Cooler 240mm (futuro upgrade)](https://www.clubedohardware.com.br/forums/topic/1699046-fonte-de-500w-suporta-rtx-4060-water-cooler-240mm-futuro-upgrade/?do=getNewComment "Fonte de 500W suporta RTX 4060 + Water Cooler 240mm (futuro upgrade)")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Gabriel Barbosa J.](https://www.clubedohardware.com.br/profile/1254114-gabriel-barbosa-j/ "Ir ao perfil de Gabriel Barbosa J.")  
+        32 minutos atrás
+        
+    * [![guilherme23](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254112.thumb.png.bb52c4bbe498139a397b6ab7fc226b67.png)](https://www.clubedohardware.com.br/profile/1254112-guilherme23/ "Ir ao perfil de guilherme23")
+        
+        0
+        
+        Portugol [Impressão de resultado em display LCD Assembly](https://www.clubedohardware.com.br/forums/topic/1699045-impress%C3%A3o-de-resultado-em-display-lcd-assembly/?do=getNewComment "Impressão de resultado em display LCD Assembly")
+        
+        [Programação - iniciantes](https://www.clubedohardware.com.br/forums/forum/181-programa%C3%A7%C3%A3o-iniciantes/ "Programação - iniciantes")  
+        Por [guilherme23](https://www.clubedohardware.com.br/profile/1254112-guilherme23/ "Ir ao perfil de guilherme23")  
+        38 minutos atrás
+        
+    * [![Pincipi](https://www.clubedohardware.com.br/uploads/members/monthly_2018_08/fotomenor.thumb.jpg.9b1050f4d485ee4e568147530b248874.jpg)](https://www.clubedohardware.com.br/profile/437891-pincipi/ "Ir ao perfil de Pincipi")
+        
+        0
+        
+        [Dicas básicas no uso da MPTool Yeestor YS9082HC para ressuscitar SSD morto](https://www.clubedohardware.com.br/forums/topic/1699044-dicas-b%C3%A1sicas-no-uso-da-mptool-yeestor-ys9082hc-para-ressuscitar-ssd-morto/?do=getNewComment "Dicas básicas no uso da MPTool Yeestor YS9082HC para ressuscitar SSD morto")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Pincipi](https://www.clubedohardware.com.br/profile/437891-pincipi/ "Ir ao perfil de Pincipi")  
+        41 minutos atrás
+        
+    * [![Jean Colucci](https://www.clubedohardware.com.br/uploads/members/monthly_2021_06/imported-photo-1161338.thumb.png.2acba3a5894067130ffac5399df29268.png)](https://www.clubedohardware.com.br/profile/1161338-jean-colucci/ "Ir ao perfil de Jean Colucci")
+        
+        1
+        
+        [Fonte ATX de 220v para 110v.](https://www.clubedohardware.com.br/forums/topic/1699043-fonte-atx-de-220v-para-110v/?do=getNewComment "Fonte ATX de 220v para 110v.")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [Jean Colucci](https://www.clubedohardware.com.br/profile/1161338-jean-colucci/ "Ir ao perfil de Jean Colucci")  
+        42 minutos atrás
+        
+    * [![dohko.BR](https://www.clubedohardware.com.br/uploads/members/monthly_2020_07/dean.thumb.jpg.c53e31387a1b54a7dba0011a5e42ef24.jpg)](https://www.clubedohardware.com.br/profile/390666-dohkobr/ "Ir ao perfil de dohko.BR")
+        
+        0
+        
+        [PC completo, inclusive monitor, 12k.](https://www.clubedohardware.com.br/forums/topic/1699042-pc-completo-inclusive-monitor-12k/?do=getNewComment "PC completo, inclusive monitor, 12k.")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [dohko.BR](https://www.clubedohardware.com.br/profile/390666-dohkobr/ "Ir ao perfil de dohko.BR")  
+        52 minutos atrás
+        
+    * [![Valentin Eduardo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1212000.thumb.png.089dc0a81a8c97e1671386cafb520ed9.png)](https://www.clubedohardware.com.br/profile/1212000-valentin-eduardo/ "Ir ao perfil de Valentin Eduardo")
+        
+        0
+        
+        [Meu computador não liga](https://www.clubedohardware.com.br/forums/topic/1699041-meu-computador-n%C3%A3o-liga/?do=getNewComment "Meu computador não liga")
+        
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [Valentin Eduardo](https://www.clubedohardware.com.br/profile/1212000-valentin-eduardo/ "Ir ao perfil de Valentin Eduardo")  
+        55 minutos atrás
+        
+    * [![Ludson Pereira](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/324117_1.thumb.jpg.3bc8b3de5ac14ca6f77ccd26d5293b4c.jpg)](https://www.clubedohardware.com.br/profile/955018-ludson-pereira/ "Ir ao perfil de Ludson Pereira")
         
         2
         
-        [ASRock A620M PRO RS seria a melhor opção na faixa de 800 reais?](https://www.clubedohardware.com.br/forums/topic/1699016-asrock-a620m-pro-rs-seria-a-melhor-op%C3%A7%C3%A3o-na-faixa-de-800-reais/?do=getNewComment "ASRock A620M PRO RS seria a melhor opção na faixa de 800 reais?")
+        [Qual gabinete devo escolher, superframe ou redragon?](https://www.clubedohardware.com.br/forums/topic/1699040-qual-gabinete-devo-escolher-superframe-ou-redragon/?do=getNewComment "Qual gabinete devo escolher, superframe ou redragon?")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [Ludson Pereira](https://www.clubedohardware.com.br/profile/955018-ludson-pereira/ "Ir ao perfil de Ludson Pereira")  
+        1 hora atrás
+        
+    * [![rickierhcp](https://lh6.googleusercontent.com/-hpKM2X4YGUw/AAAAAAAAAAI/AAAAAAAAAOQ/GUcBMt-mEZY/photo.jpg)](https://www.clubedohardware.com.br/profile/914193-rickierhcp/ "Ir ao perfil de rickierhcp")
+        
+        1
+        
+        [Devo me preocupar com esses erros?](https://www.clubedohardware.com.br/forums/topic/1699039-devo-me-preocupar-com-esses-erros/?do=getNewComment "Devo me preocupar com esses erros?")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [rickierhcp](https://www.clubedohardware.com.br/profile/914193-rickierhcp/ "Ir ao perfil de rickierhcp")  
+        2 horas atrás
+        
+    * [![MatheusNicoletti](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1240697.thumb.png.15bb37595d8683508fcfed4e954ca704.png)](https://www.clubedohardware.com.br/profile/1240697-matheusnicoletti/ "Ir ao perfil de MatheusNicoletti")
+        
+        0
+        
+        [Suporte do usb 3.0 saiu da placa](https://www.clubedohardware.com.br/forums/topic/1699038-suporte-do-usb-30-saiu-da-placa/?do=getNewComment "Suporte do usb 3.0 saiu da placa")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Tiago.g2](https://www.clubedohardware.com.br/profile/1222751-tiagog2/ "Ir ao perfil de Tiago.g2")  
-        14 horas atrás
+        Por [MatheusNicoletti](https://www.clubedohardware.com.br/profile/1240697-matheusnicoletti/ "Ir ao perfil de MatheusNicoletti")  
+        2 horas atrás
         
     
 
