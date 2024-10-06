@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6/20241006T140833/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6/20241006T140833/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6_360x203.jpg)](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
+    *  [![](https://media.king5.com/assets/KING/images/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab/20240908T170729/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab/20240908T170729/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-festival-de-cine-latino-de-seattle-nueva-presidenta-de-mxico-y-ms/281-1226f995-2604-479f-82f8-ca2f16754667)
         
-        #### [Thurston County Sheriff Derek Sanders struck by impaired driver in Lacey](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797) [![](https://media.king5.com/assets/KING/images/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6/20241006T140833/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6/20241006T140833/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6_360x203.jpg)](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
+        #### [Cinco Cosas: Festival de Cine Latino de Seattle, nueva presidenta de México y más](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-festival-de-cine-latino-de-seattle-nueva-presidenta-de-mxico-y-ms/281-1226f995-2604-479f-82f8-ca2f16754667)
         
-        #### [Suspected impaired driver hits Thurston County sheriff in Lacey](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
-    *  [![](https://media.king5.com/assets/KING/images/a99b81f2-2036-4da3-912c-3e42609edb29/20241005T185905/a99b81f2-2036-4da3-912c-3e42609edb29_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a99b81f2-2036-4da3-912c-3e42609edb29/20241005T185905/a99b81f2-2036-4da3-912c-3e42609edb29_360x203.jpg)](https://www.king5.com/article/entertainment/16th-annual-seattle-latino-film-festival-highlights-cinema-art-culture/281-2def03e4-5120-46af-877e-40ff7a0bccf3)
+    *  [![](https://media.king5.com/assets/KING/images/cf51dffb-ddee-4ef4-94ae-44dc741f408a/20241006T033948/cf51dffb-ddee-4ef4-94ae-44dc741f408a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf51dffb-ddee-4ef4-94ae-44dc741f408a/20241006T033948/cf51dffb-ddee-4ef4-94ae-44dc741f408a_360x203.jpg)](https://www.king5.com/article/news/local/uw-football-beats-michigan-in-national-championship-rematch/281-f8f6b04a-5022-4354-9914-f555f30eb4a1)
         
-        #### [16th annual Seattle Latino Film Festival highlights cinema, art and culture](https://www.king5.com/article/entertainment/16th-annual-seattle-latino-film-festival-highlights-cinema-art-culture/281-2def03e4-5120-46af-877e-40ff7a0bccf3)
+        #### [UW football beats Michigan in national championship rematch](https://www.king5.com/article/news/local/uw-football-beats-michigan-in-national-championship-rematch/281-f8f6b04a-5022-4354-9914-f555f30eb4a1)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a6b7f467-bcf7-44b0-a00d-063901189a47/20241006T052002/a6b7f467-bcf7-44b0-a00d-063901189a47_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a6b7f467-bcf7-44b0-a00d-063901189a47/20241006T052002/a6b7f467-bcf7-44b0-a00d-063901189a47_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/CCT/images/a3b1d1d0-7537-4a75-9789-43256d2f56de/20241006T152617/a3b1d1d0-7537-4a75-9789-43256d2f56de_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/a3b1d1d0-7537-4a75-9789-43256d2f56de/20241006T152617/a3b1d1d0-7537-4a75-9789-43256d2f56de_360x203.jpg)](https://www.king5.com/article/news/nation-world/tropical-storm-milton-path/507-e932ea8e-2328-4f50-b3ba-7186c4038422)
+        
+        #### [Hurricane Milton has formed and could grow stronger before hitting Florida midweek](https://www.king5.com/article/news/nation-world/tropical-storm-milton-path/507-e932ea8e-2328-4f50-b3ba-7186c4038422)
+        
+    *  [![](https://media.king5.com/assets/KING/images/7b1d3400-5cca-4126-801f-7721d215c9bb/20241006T151818/7b1d3400-5cca-4126-801f-7721d215c9bb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7b1d3400-5cca-4126-801f-7721d215c9bb/20241006T151818/7b1d3400-5cca-4126-801f-7721d215c9bb_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/CCT/images/ed09a3b5-59c7-4886-9d16-632455e340de/20241005T175057/ed09a3b5-59c7-4886-9d16-632455e340de_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/ed09a3b5-59c7-4886-9d16-632455e340de/20241005T175057/ed09a3b5-59c7-4886-9d16-632455e340de_360x203.jpg)](https://www.king5.com/article/news/nation-world/tropical-depression-14-could-intensify-into-hurricane-threatening-florida/507-eb787c98-da1d-42c9-a486-b23f45d99a96)
-        
-        #### [Florida on alert as Tropical Storm Milton forms in the Gulf](https://www.king5.com/article/news/nation-world/tropical-depression-14-could-intensify-into-hurricane-threatening-florida/507-eb787c98-da1d-42c9-a486-b23f45d99a96)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+64°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
