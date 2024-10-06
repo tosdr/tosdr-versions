@@ -1,4 +1,4 @@
-                          
+                         
 
 * [View Digital Editions](https://issuu.com/communitymattersmedia)
 * [Newsletter Sign Up](https://southwarknews.co.uk/newsletter/)
