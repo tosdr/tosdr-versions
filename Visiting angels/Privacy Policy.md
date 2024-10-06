@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Select Your Caregiver® by Visiting Angels](https://www.visitingangels.com/knowledge-center/selecting-care/select-your-caregiver-by-visiting-angels/266)
+[Find Comfort for Seniors with Palliative Care Services](https://www.visitingangels.com/knowledge-center/care-options/find-comfort-for-seniors-with-palliative-care-services/515)
 
-[How to Communicate with a Senior Who Can’t Speak](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-communicate-with-a-senior-who-cant-speak/487)
+[The Best Senior Care: Treat Them with Respect](https://www.visitingangels.com/knowledge-center/why-in-home-care/the-best-senior-care-treat-them-with-respect/476)
 
-[Gentleness Is Important to Personal Care](https://www.visitingangels.com/knowledge-center/care-options/gentleness-is-important-to-personal-care/471)
-
-[Why Caring for a Parent Who Has Dementia is the Ultimate Challenge](https://www.visitingangels.com/knowledge-center/selecting-care/why-caring-for-a-parent-who-has-dementia-is-the-ultimate-challenge/322)
+[Things Change: What to Do When Your Senior Loved One Stops Doing Things They Love](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/things-change-what-to-do-when-your-senior-loved-one-stops-doing-things-they-love/371)
 
 [What You Need to Know About End-of-Life Home Care](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/what-you-need-to-know-about-end-of-life-home-care/323)
+
+[Understanding the Different Kinds of Senior Care Available](https://www.visitingangels.com/knowledge-center/care-options/understanding-the-different-kinds-of-senior-care-available/282)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
