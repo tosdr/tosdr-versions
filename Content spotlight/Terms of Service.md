@@ -27,7 +27,19 @@ A KEYWORD RESEARCH SEO COMPANY
     * [Content Writing company in Kolkata | Best writing agency](https://contentspotlight.org/content-writing-company-in-kolkata-best-writing-agency/)
     * [Content Writing Services in India | Trustworthy Editorial services](https://contentspotlight.org/content-writing-services-in-india-trustworthy-editorial-services/)
     * [Content Writing Services in Kolkata | Best Copywriting Agency](https://contentspotlight.org/content-writing-services-in-kolkata-best-copywriting-agency/)
-* [Why Work with Us](https://contentspotlight.org/why-work-with-us/)
+* [SEO content](https://contentspotlight.org/seo-content/)
+    * [Best SEO services in India | Enterprise SEO agency](https://contentspotlight.org/best-seo-services-in-india-enterprise-seo-agency/)
+    * [Best SEO agency in India | Premium SEO services](https://contentspotlight.org/best-seo-agency-in-india-premium-seo-services/)
+    * [Best SEO Company in India | Top SEO agency](https://contentspotlight.org/best-seo-company-in-india-top-seo-agency/)
+    * [Best SEO Agency in Kolkata | Top SEO Agency](https://contentspotlight.org/best-seo-agency-in-kolkata-top-seo-agency/)
+    * [Best SEO Company in Kolkata| Reliable SEO Services](https://contentspotlight.org/best-seo-company-in-kolkata-reliable-seo-services/)
+    * [Best SEO services in Kolkata | Leading SEO service provider](https://contentspotlight.org/best-seo-services-in-kolkata-leading-seo-service-provider/)
+    * [CRO focused SEO Services in Kolkata | SEO Company in Kolkata](https://contentspotlight.org/cro-focused-seo-services-in-kolkata-seo-company-in-kolkata/)
+    * [SEO Agency in India | CRO focused SEO Company](https://contentspotlight.org/seo-agency-in-india-cro-focused-seo-company/)
+    * [SEO Agency in Kolkata in 2023 | ROI focused SEO Company](https://contentspotlight.org/seo-agency-in-kolkata-in-2023-roi-focused-seo-company/)
+    * [SEO Services in India | Trustworthy SEO](https://contentspotlight.org/seo-services-in-india-trustworthy-seo/)
+    * [Top SEO Company in India | Best SEO Services](https://contentspotlight.org/top-seo-company-in-india-best-seo-services/)
+    * [Top SEO Company in Kolkata | Best SEO agency](https://contentspotlight.org/top-seo-company-in-kolkata-best-seo-agency/)
 
 TERMS OF USE
 ------------
@@ -81,57 +93,6 @@ Address: 563 Jessore Road, Kolkata - 700074, West Bengal, India
 Email: info@contentspotlight.org
 
 Phone: +91-9831405832
-
-SEO Cornerstone
----------------
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2022/11/Blue-Timeline-Cycle-Presentation-1.jpg?resize=200%2C200&ssl=1)](https://contentspotlight.org/top-seo-company-in-india-best-seo-services/ "Top SEO Company in India | Bes… on CONTENT SPOTLIGHT")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2022/11/Green-and-Black-Geometric-Techno-Technology-YouTube-Thumbnail-2.png?resize=200%2C200&ssl=1)](https://contentspotlight.org/cro-focused-seo-services-in-kolkata-seo-company-in-kolkata/ "CRO focused SEO Services in Ko… on CONTENT SPOTLIGHT")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/03/Black-and-Cyan-Modern-Science-Fair-Event-Poster.png?resize=200%2C200&ssl=1)](https://contentspotlight.org/best-seo-company-in-kolkata-reliable-seo-services/ "Best SEO Company in Kolkata| R… on CONTENT SPOTLIGHT")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/03/Darjeeling-tour-packages-Call-or-Whatsapp-at-9971078216.jpg?resize=200%2C200&ssl=1)](https://contentspotlight.org/seo-agency-in-kolkata-in-2023-roi-focused-seo-company/ "SEO Agency in Kolkata in 2023… on CONTENT SPOTLIGHT")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/03/Salmon-and-Gray-Classroom-Jobs-Poster.png?resize=200%2C200&ssl=1)](https://contentspotlight.org/seo-agency-in-india-cro-focused-seo-company/ "SEO Agency in India | CRO focu… on CONTENT SPOTLIGHT")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/06/Blue-Green-Gradient-Quote-Instagram-Story-1.png?resize=200%2C200&ssl=1)](https://contentspotlight.org/seo-services-in-india-trustworthy-seo/ "SEO Services in India | Trustw… on CONTENT SPOTLIGHT")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/08/Purple-and-Red-Typographic-Pet-Care-Coronavirus-Instagram-Post.jpg?resize=200%2C200&ssl=1)](https://contentspotlight.org/best-seo-agency-in-kolkata-top-seo-agency/ "Best SEO Agency in Kolkata | T… on CONTENT SPOTLIGHT")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/08/DARJEELING.png?resize=200%2C200&ssl=1)](https://contentspotlight.org/best-seo-services-in-kolkata-leading-seo-service-provider/ "Best SEO services in Kolkata |… on CONTENT SPOTLIGHT")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/08/Blue-and-Brown-Job-Post-Vacancy-Announcement-Facebook-Post.png?resize=200%2C200&ssl=1)](https://contentspotlight.org/top-seo-company-in-kolkata-best-seo-agency/ "Top SEO Company in Kolkata | B… on CONTENT SPOTLIGHT")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/08/Green-and-White-Griddy-Big-Type-Environment-Individuals-SDG-Facebook-Post.png?resize=200%2C200&ssl=1)](https://contentspotlight.org/best-seo-company-in-india-top-seo-agency/ "Best SEO Company in India | To… on CONTENT SPOTLIGHT")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/08/Content-Writing-Services-in-Kolkata-4.png?resize=200%2C200&ssl=1)](https://contentspotlight.org/best-seo-agency-in-india-premium-seo-services/ "Best SEO agency in India | Pre… on CONTENT SPOTLIGHT")
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://i0.wp.com/contentspotlight.org/wp-content/uploads/2023/08/Content-Writing-Services-in-Kolkata-5.png?resize=200%2C200&ssl=1)](https://contentspotlight.org/best-seo-services-in-india-enterprise-seo-agency/ "Best SEO services in India | E… on CONTENT SPOTLIGHT")
 
 Important Links
 ---------------
