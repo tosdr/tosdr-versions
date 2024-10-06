@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How to keep track of my parents in a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-how-to-keep-track-of-my-parents-in-a-nursing-home-300x200-1.jpg "How to Keep Track of My Parents in a Nursing Home?")](https://www.pintas.com/faq/how-to-keep-track-of-my-parents-in-a-nursing-home/ "How to Keep Track of My Parents in a Nursing Home?")
+[![Can you have lung cancer with no symptoms?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancercan-you-have-lung-cancer-with-no-symptoms-scaled.jpg "Can You Have Lung Cancer With No Symptoms?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/ "Can You Have Lung Cancer With No Symptoms?")
 
-[#### How to Keep Track of My Parents in a Nursing Home?](https://www.pintas.com/faq/how-to-keep-track-of-my-parents-in-a-nursing-home/)
+[#### Can You Have Lung Cancer With No Symptoms?](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/)
 
-[![What types of cancer are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-types-of-cancer-are-caused-by-asbestos.jpg "What Types of Cancer Are Caused by Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/types-of-cancer-caused-by-asbestos "What Types of Cancer Are Caused by Asbestos?")
+[![What is talc used for?](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-what-is-talc-used-for.jpg "What Is Talc Used For?")](https://www.pintas.com/talcum-powder/what-is-talc-used-for/ "What Is Talc Used For?")
 
-[#### What Types of Cancer Are Caused by Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/types-of-cancer-caused-by-asbestos)
+[#### What Is Talc Used For?](https://www.pintas.com/talcum-powder/what-is-talc-used-for/)
 
-[![How do doctors check for mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-how-do-doctors-check-for-mesothelioma-lung-cancer-scaled.jpg "How Do Doctors Check for Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-doctors-check-for-mesothelioma-lung-cancer/ "How Do Doctors Check for Mesothelioma Lung Cancer?")
+[![Who are the sexual abusers in the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-4-300x200.jpg "Who Are the Sexual Abusers in the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-are-the-sexual-abusers-in-the-mormon-church/ "Who Are the Sexual Abusers in the Mormon Church?")
 
-[#### How Do Doctors Check for Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-doctors-check-for-mesothelioma-lung-cancer/)
+[#### Who Are the Sexual Abusers in the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-are-the-sexual-abusers-in-the-mormon-church/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
