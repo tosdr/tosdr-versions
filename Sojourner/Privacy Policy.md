@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e9fb56e342a3b71d8a1f1cb56bd67893
+588c507a36458fe60cd4cbe4055d2edd
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Jais scarabe clasp](https://www.sojourner.biz/images/cache/SKU0519front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/jais-scarabe-clasp.html "Jais scarabe clasp")
+[![14 mm double black hexagon beads](https://www.sojourner.biz/images/cache/glass/GL0324.200.jpg)](https://www.sojourner.biz/beads/glass/14-mm-double-black-hexagon-beads.html "14 mm double black hexagon beads")
 
-#### [Jais scarabe clasp](https://www.sojourner.biz/clasps/swarovski/jais-scarabe-clasp.html "Jais scarabe clasp")
+#### [14 mm double black hexagon beads](https://www.sojourner.biz/beads/glass/14-mm-double-black-hexagon-beads.html "14 mm double black hexagon beads")
 
-$19.00
+$10.00
 
 ### Best Sellers
 
