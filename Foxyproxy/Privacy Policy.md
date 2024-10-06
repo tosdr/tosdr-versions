@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-This service worked perfectly for me and filled my need right away. It was simple to do and easy to set up. If ever I need it again I will be sure to visit FoxyProxy in first place.
+i love your proxies,they are fast and reliable. Keep it up....nice service.
 
-David Bouchard
+Emma Hamilton
