@@ -20,16 +20,16 @@ Sunday, October 6 2024
 
 Latest
 
-* [Big Tech has cozied up to nuclear energy](https://digitpatrox.com/big-tech-has-cozied-up-to-nuclear-energy/)
-* [The Penguin Episode 3 Release Time and Date (Countdown Timer)](https://digitpatrox.com/the-penguin-episode-3-release-time-and-date-countdown-timer/)
-* [The Best Movies to Stream This Week](https://digitpatrox.com/the-best-movies-to-stream-this-week/)
-* [2025 Ford Expedition Preview – Consumer Reports](https://digitpatrox.com/2025-ford-expedition-preview-consumer-reports/)
-* [8 Reasons Why the Internet Is Slower on Your Phone Than Your Computer](https://digitpatrox.com/8-reasons-why-the-internet-is-slower-on-your-phone-than-your-computer/)
-* [Is Fax Broadcast Legal? Yes, But There Are Restrictions](https://digitpatrox.com/is-fax-broadcast-legal-yes-but-there-are-restrictions/)
-* [How to watch Ravens vs Bengals live stream online 2024](https://digitpatrox.com/how-to-watch-ravens-vs-bengals-live-stream-online-2024/)
-* [Cloudflare blocks largest recorded DDoS attack peaking at 3.8Tbps](https://digitpatrox.com/cloudflare-blocks-largest-recorded-ddos-attack-peaking-at-3-8tbps/)
-* [Jeff Bezos’ Blue Origin plans to launch a new crew capsule on Monday](https://digitpatrox.com/jeff-bezos-blue-origin-plans-to-launch-a-new-crew-capsule-on-monday/)
-* [NYT Connections Today: Hints and Answers for October 6, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-6-2024/)
+* [Pricing, Features, Pros, & Cons](https://digitpatrox.com/pricing-features-pros-cons/)
+* [Google Pixel 9a rumors — everything we know so far](https://digitpatrox.com/google-pixel-9a-rumors-everything-we-know-so-far/)
+* [The Pebblebee Clip is a cross-platform take on an AirTag tracker](https://digitpatrox.com/the-pebblebee-clip-is-a-cross-platform-take-on-an-airtag-tracker/)
+* [Lost Souls Codes (October 2024)](https://digitpatrox.com/lost-souls-codes-october-2024/)
+* [There’s Now an NYT Connections Game for Sports](https://digitpatrox.com/theres-now-an-nyt-connections-game-for-sports/)
+* [These SUVs, Cars, and Minivans Are the Easiest to Get Into and Out Of](https://digitpatrox.com/these-suvs-cars-and-minivans-are-the-easiest-to-get-into-and-out-of/)
+* [Today’s NYT Connections Hints and Answer for October 6 (#483)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-october-6-483/)
+* [You Can Still Use a Fax Modem, But There Is a Better Way](https://digitpatrox.com/you-can-still-use-a-fax-modem-but-there-is-a-better-way/)
+* [Buying a used phone? We asked the experts for 5 things you should do first](https://digitpatrox.com/buying-a-used-phone-we-asked-the-experts-for-5-things-you-should-do-first/)
+* [Linux malware “perfctl” behind years-long cryptomining campaign](https://digitpatrox.com/linux-malware-perfctl-behind-years-long-cryptomining-campaign/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/hQVxYz_6JgKuoraWjesoFomzcd0=/0x0:4744x3078/1200x628/filters:focal(2372x1539:2373x1540)/cdn.vox-cdn.com/uploads/chorus_asset/file/25658467/1133148647.jpg)](https://digitpatrox.com/big-tech-has-cozied-up-to-nuclear-energy/)
+* [![](https://assets.techrepublic.com/uploads/2023/08/81823-expressvpn-her.png)](https://digitpatrox.com/pricing-features-pros-cons/)
     
-    [Big Tech has cozied up to nuclear energy](https://digitpatrox.com/big-tech-has-cozied-up-to-nuclear-energy/)
+    [Pricing, Features, Pros, & Cons](https://digitpatrox.com/pricing-features-pros-cons/)
     
     3 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/The-Penguin-Episode-3-release-time-and-date.jpg?w=1250&quality=75)](https://digitpatrox.com/the-penguin-episode-3-release-time-and-date-countdown-timer/)
+* [![](https://cdn.mos.cms.futurecdn.net/trLT5rppyR26YEKrHVTpkh-1200-80.jpg)](https://digitpatrox.com/google-pixel-9a-rumors-everything-we-know-so-far/)
     
-    [The Penguin Episode 3 Release Time and Date (Countdown Timer)](https://digitpatrox.com/the-penguin-episode-3-release-time-and-date-countdown-timer/)
+    [Google Pixel 9a rumors — everything we know so far](https://digitpatrox.com/google-pixel-9a-rumors-everything-we-know-so-far/)
     
-    18 mins ago
+    19 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01HKZXVZXBD69NB9CMM70E6Q3P/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-movies-to-stream-this-week/)
+* [![](https://cdn.vox-cdn.com/thumbor/Ogr_JrAsNIZvBW3TxtabsnhoIBY=/0x0:2502x1668/1200x628/filters:focal(1251x834:1252x835)/cdn.vox-cdn.com/uploads/chorus_asset/file/25658443/Installer_55.png)](https://digitpatrox.com/the-pebblebee-clip-is-a-cross-platform-take-on-an-airtag-tracker/)
     
-    [The Best Movies to Stream This Week](https://digitpatrox.com/the-best-movies-to-stream-this-week/)
+    [The Pebblebee Clip is a cross-platform take on an AirTag tracker](https://digitpatrox.com/the-pebblebee-clip-is-a-cross-platform-take-on-an-airtag-tracker/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1728046379/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2025-Ford-Expedition-Tremor-f-static-10-24)](https://digitpatrox.com/2025-ford-expedition-preview-consumer-reports/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/Lost-Souls-codes-in-Roblox.jpg)](https://digitpatrox.com/lost-souls-codes-october-2024/)
     
-    [2025 Ford Expedition Preview – Consumer Reports](https://digitpatrox.com/2025-ford-expedition-preview-consumer-reports/)
+    [Lost Souls Codes (October 2024)](https://digitpatrox.com/lost-souls-codes-october-2024/)
     
-    3 hours ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/09/a-laptop-with-a-strong-wi-fi-signal-a-phone-with-a-low-wi-fi-signal-and-a-router-beside-them.jpg)](https://digitpatrox.com/8-reasons-why-the-internet-is-slower-on-your-phone-than-your-computer/)
+* [![](https://lifehacker.com/imagery/articles/01J9C8CYPT6GB6W130B25AX780/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/theres-now-an-nyt-connections-game-for-sports/)
     
-    [8 Reasons Why the Internet Is Slower on Your Phone Than Your Computer](https://digitpatrox.com/8-reasons-why-the-internet-is-slower-on-your-phone-than-your-computer/)
+    [There’s Now an NYT Connections Game for Sports](https://digitpatrox.com/theres-now-an-nyt-connections-game-for-sports/)
     
-    3 hours ago
+    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -210,49 +210,49 @@ Recent Topics
 
 * [3 mins ago
     
-    ### Big Tech has cozied up to nuclear energy](https://digitpatrox.com/big-tech-has-cozied-up-to-nuclear-energy/)
-* [18 mins ago
+    ### Pricing, Features, Pros, & Cons](https://digitpatrox.com/pricing-features-pros-cons/)
+* [19 mins ago
     
-    ### The Penguin Episode 3 Release Time and Date (Countdown Timer)](https://digitpatrox.com/the-penguin-episode-3-release-time-and-date-countdown-timer/)
-* [2 hours ago
+    ### Google Pixel 9a rumors — everything we know so far](https://digitpatrox.com/google-pixel-9a-rumors-everything-we-know-so-far/)
+* [1 hour ago
     
-    ### The Best Movies to Stream This Week](https://digitpatrox.com/the-best-movies-to-stream-this-week/)
+    ### The Pebblebee Clip is a cross-platform take on an AirTag tracker](https://digitpatrox.com/the-pebblebee-clip-is-a-cross-platform-take-on-an-airtag-tracker/)
 
 Most Popular Topics
 
-* [August 22, 2024
+* [2 days ago
     
-    ### The Best Ways to Use Canned Mushrooms](https://digitpatrox.com/the-best-ways-to-use-canned-mushrooms/)
+    ### Paradox Codes (October 2024) | Beebom](https://digitpatrox.com/paradox-codes-october-2024-beebom/)
+* [August 19, 2024
+    
+    ### HPE eyes ‘major leap’ for GreenLake with Morpheus Data acquisition](https://digitpatrox.com/hpe-eyes-major-leap-for-greenlake-with-morpheus-data-acquisition/)
 * [2 weeks ago
     
-    ### I tried the Asus ROG NUC 970 and it’s the mini gaming PC I’ve always wanted](https://digitpatrox.com/i-tried-the-asus-rog-nuc-970-and-its-the-mini-gaming-pc-ive-always-wanted/)
-* [September 5, 2024
-    
-    ### Generative AI Projects Fail Amid High Costs and Risks](https://digitpatrox.com/generative-ai-projects-fail-amid-high-costs-and-risks/)
+    ### Red Flags to Look For When Buying a Used Car](https://digitpatrox.com/red-flags-to-look-for-when-buying-a-used-car/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### How to watch Ravens vs Bengals live stream online 2024](https://digitpatrox.com/how-to-watch-ravens-vs-bengals-live-stream-online-2024/)
+    ### Today’s NYT Connections Hints and Answer for October 6 (#483)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-october-6-483/)
 * [5 hours ago
     
-    ### Cloudflare blocks largest recorded DDoS attack peaking at 3.8Tbps](https://digitpatrox.com/cloudflare-blocks-largest-recorded-ddos-attack-peaking-at-3-8tbps/)
+    ### You Can Still Use a Fax Modem, But There Is a Better Way](https://digitpatrox.com/you-can-still-use-a-fax-modem-but-there-is-a-better-way/)
 * [5 hours ago
     
-    ### Jeff Bezos’ Blue Origin plans to launch a new crew capsule on Monday](https://digitpatrox.com/jeff-bezos-blue-origin-plans-to-launch-a-new-crew-capsule-on-monday/)
+    ### Buying a used phone? We asked the experts for 5 things you should do first](https://digitpatrox.com/buying-a-used-phone-we-asked-the-experts-for-5-things-you-should-do-first/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
