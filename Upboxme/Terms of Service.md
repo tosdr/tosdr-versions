@@ -104,7 +104,7 @@ Warranty and Liability Limitation
 
 The UpBox.me service is provided as-is and as-available. While the UpBox.me team consists of professionals, it needs to be understood and accepted that there are risks of software defects, infrastructure failures, security breaches, attacks or human errors that might result in undesirable results.
 
-You agree to assess and mitigate your own risks that might result in damage or any losses from using The App. The UpBox.me [Support](mailto:axel@upbox.me) can consult you to identify and manage your risks.
+You agree to assess and mitigate your own risks that might result in damage or any losses from using The App. The UpBox.me [\[email protected\]](https://upbox.me/cdn-cgi/l/email-protection) can consult you to identify and manage your risks.
 
 In any circumstance, you release the UpBox.me, its legal company "Axel Hardy" and its Subcontractors and Partners from any liabilities or losses that were caused as a result of using any of the UpBox.me services.
 
@@ -141,7 +141,7 @@ Jurisdiction
 UpBox.me is the product of the company "Axel Hardy" which is registered in France with registration number 79233972300035.
 
 * Legal address: Route de la magne, 74410 Saint Jorioz, FRANCE
-* Contact e-mail: [hardy.axel@gmail.com](mailto:hardy.axel@gmail.com).
+* Contact e-mail: [\[email protected\]](https://upbox.me/cdn-cgi/l/email-protection).
 
 The governing law is the legislation of France.
 
