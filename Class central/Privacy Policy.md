@@ -414,9 +414,9 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. harvard
+1. data science
     
-2. graphic design
+2. trading
     
 3. flutter
     
@@ -424,28 +424,28 @@ Most common
 Popular subjects
 ----------------
 
-1. [Cybersecurity
+1. [Computer Science
     
-    15,413 courses](https://www.classcentral.com/subject/cybersecurity)
-2. [Computer Science
+    34,124 courses](https://www.classcentral.com/subject/cs)
+2. [Software Development
     
-    34,026 courses](https://www.classcentral.com/subject/cs)
-3. [Artificial Intelligence
+    8,260 courses](https://www.classcentral.com/subject/software-development)
+3. [Computer Networking
     
-    10,242 courses](https://www.classcentral.com/subject/ai)
+    1,431 courses](https://www.classcentral.com/subject/computer-networking)
 
 Popular courses
 ---------------
 
-1. [Cybersecurity Fundamentals
+1. [Marketing Digital: Content & Community Manager
     
-    Rochester Institute of Technology](https://www.classcentral.com/course/cybersecurity-rochester-institute-of-technology-c-7844)
-2. [Molecular Biology - Part 1: DNA Replication and Repair
+    Galileo University](https://www.classcentral.com/course/digital-marketing-universidad-galileo-marketing-d-10386)
+2. [Introduction to Marketing
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/molecular-biology-massachusetts-institute-of-tech-2907)
-3. [Excel: Fundamentos y herramientas
+    University of Pennsylvania](https://www.classcentral.com/course/whartonmarketing-1137)
+3. [Fundamentals of Reinforcement Learning
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/excel-universitat-politecnica-de-valencia-excel-f-2962)
+    University of Alberta](https://www.classcentral.com/course/fundamentals-of-reinforcement-learning-14497)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
