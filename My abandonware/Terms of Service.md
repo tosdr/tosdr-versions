@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [The Gigglebone Gang: AlphaBonk Farm](https://www.myabandonware.com/game/the-gigglebone-gang-alphabonk-farm-fl9)
-* [The Gigglebone Gang: Infinity City](https://www.myabandonware.com/game/the-gigglebone-gang-infinity-city-s56)
-* [The Gigglebone Gang: Pantsylvania](https://www.myabandonware.com/game/the-gigglebone-gang-pantsylvania-s55)
-* [The Gigglebone Gang: World Tour](https://www.myabandonware.com/game/the-gigglebone-gang-world-tour-s54)
-* [Microsoft Train Simulator: Canadian Pacific Steam Locomotive Heritage Collection](https://www.myabandonware.com/game/microsoft-train-simulator-canadian-pacific-steam-locomotive-heritage-collection-s53)
+* [Mario Roulette](https://www.myabandonware.com/game/mario-roulette-sov)
+* [NeoGeo Battle Coliseum](https://www.myabandonware.com/game/neogeo-battle-coliseum-sou)
+* [NASCAR Arcade](https://www.myabandonware.com/game/nascar-arcade-sot)
+* [Mushihimesama](https://www.myabandonware.com/game/mushihimesama-sos)
+* [Mr. Driller G](https://www.myabandonware.com/game/mr-driller-g-sor)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Sonic & Garfield Pack](https://www.myabandonware.com/game/sonic-garfield-pack-eyf)
-* [Yosaku](https://www.myabandonware.com/game/yosaku-sl0)
-* [Invader's Revenge](https://www.myabandonware.com/game/invader-s-revenge-sfw)
+* [Larkspur Waldorf is Trapped!](https://www.myabandonware.com/game/larkspur-waldorf-is-trapped-omm)
+* [Classix 1](https://www.myabandonware.com/game/classix-1-kma)
+* [Rocky Mountain Trophy Hunter 3: Trophies of the West](https://www.myabandonware.com/game/rocky-mountain-trophy-hunter-3-trophies-of-the-west-bvz)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
