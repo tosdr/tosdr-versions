@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Energy War](/wp-content/thumbnails/6154-100x70.jpg?x53432)
+* [![Hepatitis Country](/wp-content/thumbnails/12742-100x70.png?x53432)
     
-    Energy War
+    Hepatitis Country
     
-    In a world in which the U.S. and Europe are addicted to oil and gas, and those increasingly scarce resources are controlled by authoritarian regimes in Saudi Arabia, Iran, Venezuela, Nigeria and Russi](https://documentaryheaven.com/energy-war/ "Energy War")
-* [![Outfoxed: Rupert Murdoch’s War on Journalism](/wp-content/thumbnails/616-100x70.png?x53432)
+    Hepatitis C is a liver disease which tends to be very contagious, being spread primarily through contact with the blood of someone who is infected. It's severity can range from a mild illness lasting](https://documentaryheaven.com/hepatitis-country/ "Hepatitis Country")
+* [![The Inner Planets: Mercury & Venus](/wp-content/thumbnails/66-100x70.png?x53432)
     
-    Outfoxed: Rupert Murdoch’s War on Journalism
+    The Inner Planets: Mercury & Venus
     
-    "Outfoxed" examines how media empires, led by Rupert Murdoch's Fox News, have been running a "race to the bottom" in television news. This documentary provides an in-depth look at Fox News and the dan](https://documentaryheaven.com/outfoxed-rupert-murdochs-war-on-journalism/ "Outfoxed: Rupert Murdoch’s War on Journalism")
-* [![Inside the Taliban](/wp-content/thumbnails/9278-100x70.jpg?x53432)
+    This documentary takes a fascinating new look at a very old universe. Fifty years after man first ventured into outer space, we examine the greatest secrets of the heavens. Each episode outlines how h](https://documentaryheaven.com/the-inner-planets-mercury-venus/ "The Inner Planets: Mercury & Venus")
+* [![The Secrets of Quantum Physics](/wp-content/thumbnails/9467-100x70.jpg?x53432)
     
-    Inside the Taliban
+    The Secrets of Quantum Physics
     
-    In just a few months most American, British and other Nato forces will have left Afghanistan after 13 years of bitter conflict. Kabul today is nervous place with frequent attacks taking place all](https://documentaryheaven.com/inside-taliban/ "Inside the Taliban")
-* [![The Brit Who Tried to Kill Trump](/wp-content/thumbnails/12924-100x70.jpg?x53432)
+    Beneath the complexities of everyday life the rules of our universe seem reassuringly simple, but as science further developed and those involved began to peer deeper into the tiny building blocks of](https://documentaryheaven.com/secrets-of-quantum-physics/ "The Secrets of Quantum Physics") 
+* [![Buck](/wp-content/thumbnails/6155-100x70.jpg?x53432)
     
-    The Brit Who Tried to Kill Trump
+    Buck
     
-    In May 2016, parents of a 20 year old named Michael Sandford had reported that their son had gone missing in America. Twenty three days later Michael turned up at a Donald Trump campaign rally in Las](https://documentaryheaven.com/brit-who-tried-to-kill-trump/ "The Brit Who Tried to Kill Trump")
-* [![Trump’s Trade War](/wp-content/thumbnails/14563-100x70.jpg?x53432)
+    Buck, reveals the life story of real-life horse whisperer, Buck Brannaman.A living legend in the horse world, Buck Brannaman was the inspiration for The Horse Whisperer. For this true cowboy, horses](https://documentaryheaven.com/buck/ "Buck")
+* [![The Fundamentalists](/wp-content/thumbnails/2083-100x70.jpg?x53432)
     
-    Trump’s Trade War
+    The Fundamentalists
     
-    With President Trump upping the pressure for a trade deal with China by stating he will introduce higher tariffs on Chinese goods, this FRONTLINE and NPR special sees correspondent Laura Sullivan inve](https://documentaryheaven.com/trumps-trade-war/ "Trump’s Trade War")
+    In this documentary, Mark Dowd travels across the world to trace the origins of fundamentalism and find out how it developed into the global phenomenon it is today. He discovers fundamentalists of all](https://documentaryheaven.com/the-fundamentalists/ "The Fundamentalists")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
