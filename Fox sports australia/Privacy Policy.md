@@ -60,20 +60,32 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250107)
 * [Women's T20 WC
     
-    7/10 1:00 AEST
+    WI won by 6 wkts
     
     |     |     |
     | --- | --- |
-    | WI  | –   |
-    | SCO | –   |
+    | WI  | 4 /101 |
+    | SCO | 8 /99 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250108)
-* [Men's T20I
+* [Men's Test
+    
+    7/10 16:00 AEST
     
     |     |     |
     | --- | --- |
-    | IND |     |
-    | BAN | 2 /33 |
+    | PAK | –   |
+    | ENG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250201)
+* [Men's T20I
+    
+    IND won by 7 wkts
+    
+    |     |     |
+    | --- | --- |
+    | IND | 3 /132 |
+    | BAN | 127 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250101)
 * [WNCL
@@ -116,26 +128,6 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | GCS | 4.3.27 |
-    | ESS | 5.6.36 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240610)
-* [AFL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | SYD | 6.5.41 |
-    | GEE | 5.14.44 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240611)
-* [AFL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
     | FRE | 3.7.25 |
     | HAW | 5.4.34 |
     
@@ -144,74 +136,74 @@ FOX SCORES
     
 * [NFL
     
-    1st Qtr
+    4th Qtr
     
     |     |     |
     | --- | --- |
-    | MIN | 3   |
-    | NYJ | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250510)
-* [NFL
-    
-    7/10 4:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | HOU | –   |
-    | BUF | –   |
+    | HOU | 20  |
+    | BUF | 20  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250516)
 * [NFL
     
-    7/10 4:00 AEST
+    4th Qtr
     
     |     |     |
     | --- | --- |
-    | JAX | –   |
-    | IND | –   |
+    | JAX | 34  |
+    | IND | 34  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250515)
 * [NFL
     
-    7/10 4:00 AEST
+    4th Qtr
     
     |     |     |
     | --- | --- |
-    | WAS | –   |
-    | CLE | –   |
+    | WAS | 34  |
+    | CLE | 6   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250514)
 * [NFL
     
-    7/10 4:00 AEST
+    4th Qtr
     
     |     |     |
     | --- | --- |
-    | NE  | –   |
-    | MIA | –   |
+    | NE  | 10  |
+    | MIA | 15  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250513)
 * [NFL
     
-    7/10 4:00 AEST
+    4th Qtr
     
     |     |     |
     | --- | --- |
-    | CIN | –   |
-    | BAL | –   |
+    | CIN | 38  |
+    | BAL | 35  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250512)
 * [NFL
     
-    7/10 4:00 AEST
+    4th Qtr
     
     |     |     |
     | --- | --- |
-    | CHI | –   |
-    | CAR | –   |
+    | CHI | 36  |
+    | CAR | 10  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250511)
+* [NFL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | MIN | 23  |
+    | NYJ | 17  |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250510)
 * [NFL
     
     7/10 7:05 AEST
@@ -252,6 +244,16 @@ FOX SCORES
     | GB  | –   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250519)
+* [NFL
+    
+    7/10 11:20 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PIT | –   |
+    | DAL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250521)
 * Motorsport
     
 * [Supercars
@@ -300,7 +302,7 @@ FOX SCORES
     
 * [Premier League
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
@@ -310,56 +312,26 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250710)
 * [Premier League
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CHE | 0   |
-    | NOT | 0   |
+    | CHE | 1   |
+    | NOT | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250702)
 * [Premier League
     
-    7/10 2:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BHA | –   |
-    | TOT | –   |
+    | BHA | 3   |
+    | TOT | 2   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-250708)
 * Baseball
     
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | PHI | 2   |
-    | NYM | 6   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002A459C)
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | NYY | 6   |
-    | KC  | 5   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240040021E495)
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | LAD | 7   |
-    | SD  | 5   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400400274869)
 * [MLB
     
     7/10 7:08 AEST
