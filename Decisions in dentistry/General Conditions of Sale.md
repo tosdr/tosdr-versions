@@ -138,6 +138,17 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[It’s no secret that dentistry has faced a drasti ![It’s no secret that dentistry has faced a drastic staffing shortage since the onset of the COVID-19 pandemic. The American Dental Association reported in 2022 that vacant positions in dental assisting and hygiene have reduced dental practice capacity by an estimated 10% nationally.⁠
+⁠
+In this episode of The Art of Dental Finance and Management,” Art is joined by Holli Perez for a conversation about dental staffing. From crafting a successful job advertisement to building an effective onboarding process, Holli shares advice for attracting, hiring, and retaining new employees at every level — as well as some of the most common recruiting mistakes she sees in dental practices.⁠
+⁠
+Listen via the link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAvrnBhthqf/) 
+
 [A recent study demonstrates that dental implants p ![A recent study demonstrates that dental implants provide a safe and effective option for women with primary Sjögren disease, improving their oral health and quality of life over 5 years. Link in bio.⁠
 ⁠
 ⁠
@@ -172,17 +183,6 @@ Provider ID# 317924
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAi6hvyPsvY/) 
-
-[EARN 2 CEUS: Harness the Benefits of Fluoride⁠ E ![EARN 2 CEUS: Harness the Benefits of Fluoride⁠
-Extensive research underscores fluoride’s vital role in preventing dental caries and promoting oral health across diverse populations.⁠
-By Vilma Cordero, MHSc, BAS, RDH⁠
-⁠
-Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAgVtqXNagX/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
