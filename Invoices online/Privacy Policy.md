@@ -118,63 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Kobus Venter
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=78423223)  
-McKaynine Mobility
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=94936487)  
+Fox Alarms & Security CC
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=181472900)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=159161241)  
+Eruca (PTY)Ltd
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=18321466)  
-Tantra Sound and Lightz
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=29136944)  
+MOSELA GROUP Pty(ltd)
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=98042029)  
-CLEVER STUDENTS
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=88249159)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=54545317)  
-Imhoff Equestrian Centre
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=138021702)  
+van Schaik rentals
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=162630171)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=48546722)  
+Mountain Lion Properties
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=188017733)  
-Network Grey (Pty) Ltd
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=43753156)  
+TIGERDSL
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=152311724)  
-NGB HOLDINGS PTY LTD
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=99558611)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=73679322)  
-Entidee Enterprise PTY (ltd)
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=73745229)  
+Secunda Signs T/A Local Print and Signs
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=34974694)  
-Tiny Cuddles Photography
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=174275043)  
+Karino Merinos ( PTY ) LTD
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=1827221)  
-KTEN PARTS
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=149090863)  
+National Elite Security Services (PTY) LTD
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=43227105)  
-Lemba Truck Stop
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=129130740)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=126110844)  
-LEONARD
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=7088058)  
+Sarabi
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=133439286)  
-Repairs In Motion
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=150318147)  
+Chiron Medical Solutions
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=7a98cf26757f053627d51fae7c82bb5b9a34bdb91510a54d916c314d7693f632&c=188569008)  
-Electro-Heat
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=52053869)  
+Bloem Rugby Academy PTY (Ltd)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
