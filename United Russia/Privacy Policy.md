@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия», МГЕР и Всероссийская федерация самбо дали старт серии турниров по самбо по всей стране](https://cdn.er.ru/media/news/October2024/j0MZlfz8j568ce9OaXRH-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-mger-i-vserossijskaya-federaciya-sambo-dali-start-serii-turnirov-po-sambo-po-vsej-strane)
+[![«Молодая Гвардия Единой России» доставила гуманитарную помощь участникам СВО на Курском направлении](https://cdn.er.ru/media/news/October2024/5IVKnKzLmM4PmKFtctvU-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-gumanitarnuyu-pomosh-uchastnikam-svo-na-kurskom-napravlenii)
 
-[«Единая Россия», МГЕР и Всероссийская федерация самбо дали старт серии турниров по самбо по всей стране](https://er.ru/activity/news/edinaya-rossiya-mger-i-vserossijskaya-federaciya-sambo-dali-start-serii-turnirov-po-sambo-po-vsej-strane)
+[«Молодая Гвардия Единой России» доставила гуманитарную помощь участникам СВО на Курском направлении](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-gumanitarnuyu-pomosh-uchastnikam-svo-na-kurskom-napravlenii)
 
-[#турниры](https://er.ru/activity/news?tags%5B0%5D=77047) [#самбо](https://er.ru/activity/news?tags%5B0%5D=15274) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#Zасамбо](https://er.ru/activity/news?tags%5B0%5D=1093194) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ДНР](https://er.ru/activity/news?tags%5B0%5D=65526)
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672)
 
-05.10.24
+Сегодня 11:45
 
-[![Депутаты «Единой России»: Педагоги – опора для государства, их труд — фундамент будущего, вклад в процветание страны](https://cdn.er.ru/media/news/October2024/7Os8w2kkf0Id9KvjDEfM-small.JPG)](https://er.ru/activity/news/deputaty-edinoj-rossii-pedagogi-opora-dlya-gosudarstva-ih-trud-fundament-budushego-vklad-v-procvetanie-strany)
+[![«Единая Россия»: Выставка «Сила V Правде — гордость и победа» 9 октября начнёт работать на Ямале](https://cdn.er.ru/media/news/October2024/Ypv9LslD3NEhR9v6Lnrq-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-9-oktyabrya-nachnyot-rabotat-na-yamale)
 
-[Депутаты «Единой России»: Педагоги – опора для государства, их труд — фундамент будущего, вклад в процветание страны](https://er.ru/activity/news/deputaty-edinoj-rossii-pedagogi-opora-dlya-gosudarstva-ih-trud-fundament-budushego-vklad-v-procvetanie-strany)
+[«Единая Россия»: Выставка «Сила V Правде — гордость и победа» 9 октября начнёт работать на Ямале](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-9-oktyabrya-nachnyot-rabotat-na-yamale)
 
-[#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [​​​​​​​Аршинова](https://er.ru/activity/news?tags%5B0%5D=153259) [#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Макаров](https://er.ru/activity/news?tags%5B0%5D=2183) [#Тимофеева](https://er.ru/activity/news?tags%5B0%5D=126214) [#Морозов](https://er.ru/activity/news?tags%5B0%5D=992) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#ДеньУчителя](https://er.ru/activity/news?tags%5B0%5D=123527)
+[#Ямало-Ненецкий автономный округ](https://er.ru/activity/news?tags%5B0%5D=36079) [#НовыйУренгой](https://er.ru/activity/news?tags%5B0%5D=109057) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [Ханты-Манскийский автономный округ](https://er.ru/activity/news?tags%5B0%5D=153622)
 
-05.10.24
+Сегодня 10:35
 
-[![Дарья Лантратова: Быть учителем — настоящее искусство, в которое нужно вкладывать всю душу](https://cdn.er.ru/media/news/October2024/NVWkLBO5y5RkOTeMA2Ji-small.jpg)](https://er.ru/activity/news/darya-lantratova-byt-uchitelem-nastoyashee-iskusstvo-v-kotoroe-nuzhno-vkladyvat-vsyu-dushu)
+[![Галина Данильченко: Более 6 тысяч человек стали членами и сторонниками «Единой России» в Запорожской области](https://cdn.er.ru/media/news/October2024/OQuVzrGf5FKKObQ8MrKr-small.jpg)](https://er.ru/activity/news/galina-danilchenko-bolee-6-tysyach-chelovek-stali-chlenami-i-storonnikami-edinoj-rossii-v-zaporozhskoj-oblasti)
 
-[Дарья Лантратова: Быть учителем — настоящее искусство, в которое нужно вкладывать всю душу](https://er.ru/activity/news/darya-lantratova-byt-uchitelem-nastoyashee-iskusstvo-v-kotoroe-nuzhno-vkladyvat-vsyu-dushu)
+[Галина Данильченко: Более 6 тысяч человек стали членами и сторонниками «Единой России» в Запорожской области](https://er.ru/activity/news/galina-danilchenko-bolee-6-tysyach-chelovek-stali-chlenami-i-storonnikami-edinoj-rossii-v-zaporozhskoj-oblasti)
 
-[#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Деньучителя](https://er.ru/activity/news?tags%5B0%5D=110570) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
+[#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#Данильченко](https://er.ru/activity/news?tags%5B0%5D=1093187) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-05.10.24
+Сегодня 10:03
 
-[![Дмитрий Медведев: Педагоги – наставники, которые вкладывают в свой труд знания, талант, душу](https://cdn.er.ru/media/news/October2024/Ff57hveGrigjIfaqwtPl-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-pedagogi-nastavniki-kotorye-vkladyvayut-v-svoj-trud-znaniya-talant-dushu)
+[![Игорь Кастюкевич: «Единая Россия» создала в Херсонской области более 190 первичек — они работают во всех 14 муниципальных округах, включая прифронтовые](https://cdn.er.ru/media/news/October2024/gjKVRfBLae1AIc5YAF87-small.jpg)](https://er.ru/activity/news/igor-kastyukevich-edinaya-rossiya-sozdala-v-hersonskoj-oblasti-bolee-190-pervichek-oni-rabotayut-vo-vseh-14-municipalnyh-okrugah-vklyuchaya-prifrontovye)
 
-[Дмитрий Медведев: Педагоги – наставники, которые вкладывают в свой труд знания, талант, душу](https://er.ru/activity/news/dmitrij-medvedev-pedagogi-nastavniki-kotorye-vkladyvayut-v-svoj-trud-znaniya-talant-dushu)
+[Игорь Кастюкевич: «Единая Россия» создала в Херсонской области более 190 первичек — они работают во всех 14 муниципальных округах, включая прифронтовые](https://er.ru/activity/news/igor-kastyukevich-edinaya-rossiya-sozdala-v-hersonskoj-oblasti-bolee-190-pervichek-oni-rabotayut-vo-vseh-14-municipalnyh-okrugah-vklyuchaya-prifrontovye)
 
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#ДеньУчителя](https://er.ru/activity/news?tags%5B0%5D=123527)
+[#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Кастюкевич](https://er.ru/activity/news?tags%5B0%5D=1092567) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477)
 
-05.10.24
+Сегодня 09:47
 
-[![«Молодая Гвардия Единой России» поздравила учителей по всей стране с профессиональным праздником](https://cdn.er.ru/media/news/October2024/gFRjJG9ndMBdIl9E7mZr-small.jpeg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pozdravila-uchitelej-po-vsej-strane-s-professionalnym-prazdnikom)
+[![Денис Мирошниченко: Сегодня команда «Единой России» в ЛНР — это больше 34 тысяч человек, которые помогают людям и фронту](https://cdn.er.ru/media/news/October2024/vAEowqpbCIkiNh0QgtmK-small.png)](https://er.ru/activity/news/denis-miroshnichenko-segodnya-komanda-edinoj-rossii-v-lnr-eto-bolshe-34-tysyach-chelovek-kotorye-pomogayut-lyudyam-i-frontu)
 
-[«Молодая Гвардия Единой России» поздравила учителей по всей стране с профессиональным праздником](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-pozdravila-uchitelej-po-vsej-strane-s-professionalnym-prazdnikom)
+[Денис Мирошниченко: Сегодня команда «Единой России» в ЛНР — это больше 34 тысяч человек, которые помогают людям и фронту](https://er.ru/activity/news/denis-miroshnichenko-segodnya-komanda-edinoj-rossii-v-lnr-eto-bolshe-34-tysyach-chelovek-kotorye-pomogayut-lyudyam-i-frontu)
 
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ДеньУчителя](https://er.ru/activity/news?tags%5B0%5D=123527) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#праздники](https://er.ru/activity/news?tags%5B0%5D=5064) [#подарки](https://er.ru/activity/news?tags%5B0%5D=3902)
+[#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Мирошниченко](https://er.ru/activity/news?tags%5B0%5D=42613) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-04.10.24
+Сегодня 09:30
 
-[![«Единая Россия» передала гуманитарную помощь жителям ДНР](https://cdn.er.ru/media/news/October2024/UNHbkpHDOR3GY9tRhpoW-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-zhitelyam-dnr)
+[![Денис Пушилин: За два года «Единая Россия» приросла почти 142 тысячами активистов из ДНР](https://cdn.er.ru/media/news/October2024/ONvOcrxjpBKfgofVB1Uj-small.jpg)](https://er.ru/activity/news/denis-pushilin-za-dva-goda-edinaya-rossiya-prirosla-pochti-142-tysyachami-aktivistov-iz-dnr)
 
-[«Единая Россия» передала гуманитарную помощь жителям ДНР](https://er.ru/activity/news/edinaya-rossiya-peredala-gumanitarnuyu-pomosh-zhitelyam-dnr)
+[Денис Пушилин: За два года «Единая Россия» приросла почти 142 тысячами активистов из ДНР](https://er.ru/activity/news/denis-pushilin-za-dva-goda-edinaya-rossiya-prirosla-pochti-142-tysyachami-aktivistov-iz-dnr)
 
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285) [#гуманитарнаяпомощь](https://er.ru/activity/news?tags%5B0%5D=109132) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47)
+[#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-04.10.24
+Сегодня 09:14
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
