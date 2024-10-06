@@ -244,22 +244,6 @@ MuggleNet Archive Select Month October 2024  (3) September 2024  (30) August 2
 
 ### October 2024
 
-#### Fri, Oct 4 – Sat, Oct 5
-
-MuggleNet Live! 2019: Into the Pensieve
-
-Recurs yearly
-
-2019
-
-#### Sat, Oct 5
-
-Dumbledore's Army forms at the Hog's Head
-
-Recurs yearly
-
-1995
-
 #### Sun, Oct 6
 
 Harry Potter and the Philosopher's/Sorcerer's Stone Illustrated Edition
@@ -322,6 +306,20 @@ Recurs yearly
 
 The Fat Lady (PoA)
 
+#### Sat, Oct 12
+
+Harry performs Levicorpus on a sleeping Ron
+
+Recurs yearly
+
+1996
+
+Katie Bell Imperiused by Madam Rosmerta
+
+Recurs yearly
+
+1996
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -332,15 +330,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Albus Dumbledore sees his family in the Mirror of Erised, just as Harry Potter does.
+So many fans visit King’s Cross Station to take pictures of Platforms 9 and 10 that the station management erected a sign that says “Platform 9 3/4,” which, in the Harry Potter books, is invisible to Muggles but acts as a gateway for witches and wizards.
 
 ### Potter History
 
-July 21, 2007 – Harry Potter and the Deathly Hallows is released to the world.
+June 21, 2005 – MuggleNet’s Harry Potter encyclopedia opens, detailing every aspect there is to know about the Harry Potter series.
 
 ### Potter Quote
 
-“Wangoballwime?”
+“Who blacked your eye, Granger? I want to send them flowers.”
 
 [](#)
 
