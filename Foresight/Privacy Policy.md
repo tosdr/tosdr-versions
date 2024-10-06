@@ -20,7 +20,7 @@ Popular products
     * [New Rolling Funds Model](https://foresight.is/changelog/#2024-10-04-new-rolling-fund)
     * [New live preview option](https://foresight.is/changelog/#2024-09-24-preview)
     * [Blog](https://foresight.is/blog/)
-    * [Modeling Revenue Models](https://foresight.is/revenue-models-types/)
+    * [Mastering Revenue Models](https://foresight.is/revenue-models-types/)
     
 * [Docs](https://foresight.is/docs/)
 
@@ -125,7 +125,7 @@ Footer
 
 ### Latest
 
-[Blog](https://foresight.is/blog/) [Modeling Revenue Models](https://foresight.is/revenue-models-types/)
+[Blog](https://foresight.is/blog/) [Mastering Revenue Models](https://foresight.is/revenue-models-types/)
 
 ### Foresight
 
