@@ -259,6 +259,13 @@ Advertise with Us
 
 Most Popular
 
+[![MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)")](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Police investigating after red paint daubed on Derry business](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating after red paint daubed on Derry business")](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
 
 The damage caused to the premises. PHOTO: Shannon Moore
@@ -268,20 +275,6 @@ The damage caused to the premises. PHOTO: Shannon Moore
 [Police investigating after red paint daubed on Derry business](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)")](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, October 5 2024](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Stormont Executive reaffirms commitment to Derry and North West](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stormont Executive reaffirms commitment to Derry and North West")](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
 
 Darragh McCarthy, CEO, FinTrU (event sponsor); First Minister Michelle O'Neill MLA; Greg McCann, President, Derry Chamber; Anna Doherty, Chief Executive, Derry Chamber
@@ -290,6 +283,22 @@ Darragh McCarthy, CEO, FinTrU (event sponsor); First Minister Michelle O'Neill M
 
 [Stormont Executive reaffirms commitment to Derry and North West](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, October 6 2024](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Aircoach announced as official travel partner for Derry Halloween 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Aircoach announced as official travel partner for Derry Halloween 2024")](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
+
+Aeidin McCarter, Head of Culture, Derry City and Strabane District Council (R) and Kim Swan, Managing Director, Aircoach (L) along with the Derry Halloween’s Walter DeBurgh
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Aircoach announced as official travel partner for Derry Halloween 2024](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![New book by local author to be launched in Naas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New book by local author to be launched in Naas")](https://www.derrynow.com/news/local-news/1621255/new-book-by-county-derry-author-to-be-launched-in-naas.html)
 
@@ -309,15 +318,6 @@ Roe Valley Integrated Primary School
 [Minister hails new beginning for Roe Valley Integrated Primary School](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Aircoach announced as official travel partner for Derry Halloween 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Aircoach announced as official travel partner for Derry Halloween 2024")](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
-
-Aeidin McCarter, Head of Culture, Derry City and Strabane District Council (R) and Kim Swan, Managing Director, Aircoach (L) along with the Derry Halloween’s Walter DeBurgh
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Aircoach announced as official travel partner for Derry Halloween 2024](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Sinn Fein challenged to provide ‘full transparency’ over handling of McMonagle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein challenged to provide ‘full transparency’ over handling of McMonagle")](https://www.derrynow.com/news/northern-ireland/1622618/oneill-apologises-over-party-press-officer-references-for-mcmonagle.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
@@ -332,12 +332,12 @@ Aeidin McCarter, Head of Culture, Derry City and Strabane District Council (R) a
 [Memorial service to be held to mark 50th anniversary of Guildford pub bombings](https://www.derrynow.com/news/northern-ireland/1622493/memorial-service-to-be-held-to-mark-50th-anniversary-of-guildford-pub-bombings.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![‘Important to tackle homelessness narrative’, says William in documentary clip](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Important to tackle homelessness narrative’, says William in documentary clip")](https://www.derrynow.com/news/northern-ireland/1622558/important-to-tackle-homelessness-narrative-says-william-in-documentary-clip.html)
+[![Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future")](https://www.derrynow.com/news/northern-ireland/1622186/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[‘Important to tackle homelessness narrative’, says William in documentary clip](https://www.derrynow.com/news/northern-ireland/1622558/important-to-tackle-homelessness-narrative-says-william-in-documentary-clip.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](https://www.derrynow.com/news/northern-ireland/1622186/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +515,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, October 6 2024](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Aircoach announced as official travel partner for Derry Halloween 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Aircoach announced as official travel partner for Derry Halloween 2024")](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
 
 Aeidin McCarter, Head of Culture, Derry City and Strabane District Council (R) and Kim Swan, Managing Director, Aircoach (L) along with the Derry Halloween’s Walter DeBurgh
@@ -524,7 +531,7 @@ Aeidin McCarter, Head of Culture, Derry City and Strabane District Council (R) a
 [Aircoach announced as official travel partner for Derry Halloween 2024](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Roe Valley Integrated Primary School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Valley Integrated Primary School")](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
+[![Roe Valley Integrated Primary School](https://www.derrynow.com/resizer/165/93/true/2024_10_05/roe_valley_press_release-1728133477052.JPG--.JPG?1728133477752 "Roe Valley Integrated Primary School")](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
 
 Roe Valley Integrated Primary School
 
@@ -559,13 +566,6 @@ The damage caused to the premises. PHOTO: Shannon Moore
 
 [Police investigating after red paint daubed on Derry business](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, October 5 2024](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
