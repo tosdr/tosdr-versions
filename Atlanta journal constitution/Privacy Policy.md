@@ -14,12 +14,12 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
-* [Braves](https://www.ajc.com/sports/atlanta-braves/)
 
 ![Search icon](/pf/resources/icons/search-burger.svg?d=1707)
 
