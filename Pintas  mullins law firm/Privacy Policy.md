@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can you have lung cancer with no symptoms?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancercan-you-have-lung-cancer-with-no-symptoms-scaled.jpg "Can You Have Lung Cancer With No Symptoms?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/ "Can You Have Lung Cancer With No Symptoms?")
+[![What are the odds of beating lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-the-odds-of-beating-lung-cancer.jpg "What Are the Odds of Beating Lung Cancer?")](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/ "What Are the Odds of Beating Lung Cancer?")
 
-[#### Can You Have Lung Cancer With No Symptoms?](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/)
+[#### What Are the Odds of Beating Lung Cancer?](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/)
 
-[![What is talc used for?](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-what-is-talc-used-for.jpg "What Is Talc Used For?")](https://www.pintas.com/talcum-powder/what-is-talc-used-for/ "What Is Talc Used For?")
+[![What is a healthy alternative to baby powder?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-a-healthy-alternative-to-baby-powder.jpg "What Is a Healthy Alternative to Baby Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives "What Is a Healthy Alternative to Baby Powder?")
 
-[#### What Is Talc Used For?](https://www.pintas.com/talcum-powder/what-is-talc-used-for/)
+[#### What Is a Healthy Alternative to Baby Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives)
 
-[![Who are the sexual abusers in the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-4-300x200.jpg "Who Are the Sexual Abusers in the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-are-the-sexual-abusers-in-the-mormon-church/ "Who Are the Sexual Abusers in the Mormon Church?")
+[![What happens in the final stages of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-happens-in-the-final-stages-of-mesothelioma-scaled.jpg "What Happens in the Final Stages of Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/final-stages "What Happens in the Final Stages of Mesothelioma?")
 
-[#### Who Are the Sexual Abusers in the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-are-the-sexual-abusers-in-the-mormon-church/)
+[#### What Happens in the Final Stages of Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/final-stages)
 
 ### Injured?  
 Tell Us What Happened.
