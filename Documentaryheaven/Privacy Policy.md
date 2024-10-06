@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Secrets of World War II: Confusion Was Their Business](/wp-content/thumbnails/6765-100x70.jpg?x53432)
+* [![Brian Cox: Life of a Universe](/wp-content/thumbnails/16284-100x70.jpg?x53432)
     
-    Secrets of World War II: Confusion Was Their Business
+    Brian Cox: Life of a Universe
     
-    During the chaos and destruction of WWII, ordinary men and women from all walks of life were thrown into fearsome, real-life situations worthy of any Hollywood movie — the only difference is that this](https://documentaryheaven.com/secrets-of-world-war-ii-confusion-was-their-business/ "Secrets of World War II: Confusion Was Their Business")
-* [![638 Ways to Kill Castro](/wp-content/thumbnails/724-100x70.png?x53432)
+    Live of a Universe is a two-part documentary series by physicist Brian Cox. Cox filmed this special whilst on tour in Australia speaking to audiences and scientists about two fundamental questions ho](https://documentaryheaven.com/brian-cox-life-of-universe/ "Brian Cox: Life of a Universe")
+* [![Feltham Sings](/wp-content/thumbnails/5858-100x70.gif?x53432)
     
-    638 Ways to Kill Castro
+    Feltham Sings
     
-    638 Ways to Kill Castro is a Channel 4 documentary film, broadcast in the United Kingdom on 28 November 2006, which tells the story of some of the numerous attempts to kill Cuba's leader Fidel Castro.](https://documentaryheaven.com/638-ways-to-kill-castro/ "638 Ways to Kill Castro")
-* [![After The Last Round](/wp-content/thumbnails/10460-100x70.png?x53432)
+    This documentary is – without a shadow of a doubt – one of the most innovative and engrossing documentaries ever aired on British television. Set in Feltham Young Offenders Institution in the United K](https://documentaryheaven.com/feltham-sings/ "Feltham Sings")
+* [![Britain’s Nuclear Secrets: Inside Sellafield](/wp-content/thumbnails/10044-100x70.jpg?x53432)
     
-    After The Last Round
+    Britain’s Nuclear Secrets: Inside Sellafield
     
-    There aren't too many other sports out there that encompass the theatrical displays of human struggle, strength and violence quite like boxing does and in this film we are taken on a journey through t](https://documentaryheaven.com/after-the-last-round/ "After The Last Round")
-* [![Miley Cyrus: The Movement](/wp-content/thumbnails/8062-100x70.jpg?x53432)
+    Lying on the remote north west coast of England is one of the most secret places in the country. 65 years ago it helped make Britain a world superpower and within it's is material that could devastate](https://documentaryheaven.com/britains-nuclear-secrets-inside-sellafield/ "Britain’s Nuclear Secrets: Inside Sellafield")
+* [![Into The Universe With Stephen Hawking](/wp-content/thumbnails/3433-100x70.jpg?x53432)
     
-    Miley Cyrus: The Movement
+    Into The Universe With Stephen Hawking
     
-    In this one-hour documentary, superstar Miley Cyrus allows unprecedented access into her extraordinary life as she rises to the challenge of presenting a new and sometimes controversial persona to the](https://documentaryheaven.com/miley-cyrus-movement/ "Miley Cyrus: The Movement")
-* [![The Player: Secrets of a Vegas Whale](/wp-content/thumbnails/10778-100x70.png?x53432)
+    Stephen Hawking hosts an epic brand new kind of cosmology series, a Planet Earth of the heavens. It takes the world’s most famous scientific mind and sets it free, powered by the limitless possibiliti](https://documentaryheaven.com/into-the-universe-with-stephen-hawking/ "Into The Universe With Stephen Hawking")
+* [![Blood, Smack Tears Afghanistan’s Heroin Hell](/wp-content/thumbnails/9034-100x70.jpg?x53432)
     
-    The Player: Secrets of a Vegas Whale
+    Blood, Smack Tears Afghanistan’s Heroin Hell
     
-    In the middle of the Mohombi Desert lies one of the most well known cities in the world, Las Vegas and every year 40 million people flock to the Vegas strip but most only ever get a peak at the specta](https://documentaryheaven.com/player-secrets-of-vegas-whale/ "The Player: Secrets of a Vegas Whale")
+    Afghanistan, this country is the worlds biggest heroin producer, 90% of all opiate based drugs come from here, but now it is also one of the worst consumers of narcotics anywhere. The nations drug hab](https://documentaryheaven.com/afghanistans-heroin-hell/ "Blood, Smack Tears Afghanistan’s Heroin Hell")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
