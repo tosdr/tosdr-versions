@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Beautiful Young Minds](/wp-content/thumbnails/5797-100x70.jpg?x53432)
+* [![Energy War](/wp-content/thumbnails/6154-100x70.jpg?x53432)
     
-    Beautiful Young Minds
+    Energy War
     
-    This documentary tells the story of some of the brightest mathematical brains of a generation. Each year, exceptionally gifted teenagers from over 90 countries compete for medals at the International](https://documentaryheaven.com/beautiful-young-minds/ "Beautiful Young Minds")
-* [![The Truth According To Wikipedia](/wp-content/thumbnails/1571-100x70.jpg?x53432)
+    In a world in which the U.S. and Europe are addicted to oil and gas, and those increasingly scarce resources are controlled by authoritarian regimes in Saudi Arabia, Iran, Venezuela, Nigeria and Russi](https://documentaryheaven.com/energy-war/ "Energy War")
+* [![Outfoxed: Rupert Murdoch’s War on Journalism](/wp-content/thumbnails/616-100x70.png?x53432)
     
-    The Truth According To Wikipedia
+    Outfoxed: Rupert Murdoch’s War on Journalism
     
-    Google or Wikipedia? Those of us who search online - and who doesn't? - are getting referred more and more to Wikipedia. For the past two years, this free online "encyclopedia of the people" has been](https://documentaryheaven.com/the-truth-according-to-wikipedia/ "The Truth According To Wikipedia")
-* [![Secrets of the Tang Treasure Ship](/wp-content/thumbnails/4977-100x70.jpg?x53432)
+    "Outfoxed" examines how media empires, led by Rupert Murdoch's Fox News, have been running a "race to the bottom" in television news. This documentary provides an in-depth look at Fox News and the dan](https://documentaryheaven.com/outfoxed-rupert-murdochs-war-on-journalism/ "Outfoxed: Rupert Murdoch’s War on Journalism")
+* [![Inside the Taliban](/wp-content/thumbnails/9278-100x70.jpg?x53432)
     
-    Secrets of the Tang Treasure Ship
+    Inside the Taliban
     
-    Historians have long speculated that thousands of wooden ships plied a Maritime Silk Route from the Middle East to China, braving long distances on white-capped seas, but time and the deep ocean have](https://documentaryheaven.com/secrets-of-the-tang-treasure-ship/ "Secrets of the Tang Treasure Ship")
-* [![The Indigenous Island Tribe Of Anuta](/wp-content/thumbnails/15999-100x70.jpg?x53432)
+    In just a few months most American, British and other Nato forces will have left Afghanistan after 13 years of bitter conflict. Kabul today is nervous place with frequent attacks taking place all](https://documentaryheaven.com/inside-taliban/ "Inside the Taliban")
+* [![The Brit Who Tried to Kill Trump](/wp-content/thumbnails/12924-100x70.jpg?x53432)
     
-    The Indigenous Island Tribe Of Anuta
+    The Brit Who Tried to Kill Trump
     
-    Located deep in the South Pacific is a little known island, once so remote that the islanders are entirely self-sufficient. The island is known as Anuta and after months of preparation the producers](https://documentaryheaven.com/the-indigenous-island-tribe-of-anuta/ "The Indigenous Island Tribe Of Anuta")
-* [![Can We Make a Star on Earth?](/wp-content/thumbnails/286-100x70.png?x53432)
+    In May 2016, parents of a 20 year old named Michael Sandford had reported that their son had gone missing in America. Twenty three days later Michael turned up at a Donald Trump campaign rally in Las](https://documentaryheaven.com/brit-who-tried-to-kill-trump/ "The Brit Who Tried to Kill Trump")
+* [![Trump’s Trade War](/wp-content/thumbnails/14563-100x70.jpg?x53432)
     
-    Can We Make a Star on Earth?
+    Trump’s Trade War
     
-    Professor Brian Cox takes a global journey in search of the energy source of the future. Called nuclear fusion, it is the process that fuels the sun and every other star in the universe. Yet despite o](https://documentaryheaven.com/can-we-make-a-star-on-earth/ "Can We Make a Star on Earth?")
+    With President Trump upping the pressure for a trade deal with China by stating he will introduce higher tariffs on Chinese goods, this FRONTLINE and NPR special sees correspondent Laura Sullivan inve](https://documentaryheaven.com/trumps-trade-war/ "Trump’s Trade War")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
