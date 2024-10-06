@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Jokers Wild. Ray Martine. Credit: ITV](https://cdn.comedy.co.uk/images/library/comedies/300x200/j/jokers_wild_ray_martine.jpg "Jokers Wild. Ray Martine. Credit: ITV")](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/) Features
+
+[Comedy Chronicles: A Hackney diamond: The much-misunderstood Ray Martine](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/)
+
 [![Alma's Not Normal. Alma Nuthall (Sophie Willan)](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/almas_not_normal_series2.jpg "Alma's Not Normal. Alma Nuthall (Sophie Willan)")](https://www.comedy.co.uk/tv/almas_not_normal/interview/sophie-willan-series2/) TV
 
 [Sophie Willan talks about Alma's Not Normal Series 2](https://www.comedy.co.uk/tv/almas_not_normal/interview/sophie-willan-series2/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Red Dwarf. Rimmer (Chris Barrie). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200_eps/r/red_dwarf_0504.jpg "Red Dwarf. Rimmer (Chris Barrie). Credit: BBC")](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-series-5-retrospective/) TV
 
 [Red Dwarf V retrospective: Back to reality](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-series-5-retrospective/)
-
-[![Andrew White](https://cdn.comedy.co.uk/images/library/people/300x200/a/andrew_white_2024.jpg "Andrew White")](https://www.comedy.co.uk/live/fgwg/andrew-white/) Live
-
-[First Gig, Worst Gig: Andrew White](https://www.comedy.co.uk/live/fgwg/andrew-white/)
 
 #### Subscribe to our newsletters
 
