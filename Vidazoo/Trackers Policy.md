@@ -62,6 +62,29 @@ Cookies on our Site - You can at any time change or withdraw your consent from t
 
 Cookies on our Platform - If you are an end-user interacting with our Platform (i.e., our media player implemented in our Clients’ digital assets) - we place our own cookies when you interact with such media player. Our Platform cookies shall expire following the lapse of 7 to 30 days from the date such cookie was placed on your browser. The list of cookies and their purpose are listed in the table below:
 
+|     |     |     |
+| --- | --- | --- |
+| Source | Name | Purpose |
+| Vidazoo (First Party) | vdzwc\_{wid} | Used to access cache server widget data |
+| Vidazoo (First Party) | vidSid | Session ID |
+| Vidazoo (First Party) | vdzwll\_{wid} | Last widget load time |
+| Vidazoo (First Party) | vdzUqh# | Counts the instances of players on the page |
+| Vidazoo (First Party) | artms.cbss | Marks last close click |
+| Vidazoo (First Party) | artms.cutas | Stores the current URL |
+| Vidazoo (First Party) | vidpc | Counts the number of widget loads on the page |
+| Vidazoo (First Party) | vdzVer | Vidazoo player version |
+| Vidazoo (First Party) | vdzh# | Server cache |
+| Vidazoo (First Party) | vdzwf\_{wid} | Stores the widget ID associated with the current session |
+| Vidazoo (First Party) | vdzwcms\_{WIDGET\_ID} | Consistent playlist for user |
+| Vidazoo (First Party) | artms.{widgetId}.cums | Stores current playlist item state |
+| Vidazoo (First Party) | artms.cutcs | Stores url float trigger counter |
+| Vidazoo (First Party) | vdzHum | Stores ivt signal |
+| Vidazoo (First Party) | vdzwocid\_{CREATIVE\_ID} | Stores creative id |
+| Vidazoo (First Party) | vdzj1\_{id} | cookie sync metadata |
+| Vidazoo (First Party) | vdzh5\_{id} | cookie sync partner id |
+| Vidazoo (First Party) | bah383vlj1 | cookie sync metadata |
+| Vidazoo (First Party) | ck48wz12sqj7 | cookie sync partner id |
+
 Note that third parties (such as advertising networks, content providers that deliver ads on our Services) may also use various cookies to uniquely distinguish your web browser and keep track of information relating to your interaction with the Services, to report usage statistics, and to deliver advertisements on and through the Services.
 
 Some of these third parties may combine information they collect from our Services with other information they have independently collected relating to your browser’s activities across other online services. These third parties collect and use this information under their own privacy policies.
@@ -115,146 +138,3 @@ Last updated 11 months ago
 On this page
 
 Was this helpful?
-
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-
-Source
-
-Name
-
-Purpose
-
-Vidazoo (First Party)
-
-vdzwc\_{wid}
-
-Used to access cache server widget data
-
-Vidazoo (First Party)
-
-vidSid
-
-Session ID
-
-Vidazoo (First Party)
-
-vdzwll\_{wid}
-
-Last widget load time
-
-Vidazoo (First Party)
-
-vdzUqh#
-
-Counts the instances of players on the page
-
-Vidazoo (First Party)
-
-artms.cbss
-
-Marks last close click
-
-Vidazoo (First Party)
-
-artms.cutas
-
-Stores the current URL
-
-Vidazoo (First Party)
-
-vidpc
-
-Counts the number of widget loads on the page
-
-Vidazoo (First Party)
-
-vdzVer
-
-Vidazoo player version
-
-Vidazoo (First Party)
-
-vdzh#
-
-Server cache
-
-Vidazoo (First Party)
-
-vdzwf\_{wid}
-
-Stores the widget ID associated with the current session
-
-Vidazoo (First Party)
-
-vdzwcms\_{WIDGET\_ID}
-
-Consistent playlist for user
-
-Vidazoo (First Party)
-
-artms.{widgetId}.cums
-
-Stores current playlist item state
-
-Vidazoo (First Party)
-
-artms.cutcs
-
-Stores url float trigger counter
-
-Vidazoo (First Party)
-
-vdzHum
-
-Stores ivt signal
-
-Vidazoo (First Party)
-
-vdzwocid\_{CREATIVE\_ID}
-
-Stores creative id
-
-Vidazoo (First Party)
-
-vdzj1\_{id}
-
-cookie sync metadata
-
-Vidazoo (First Party)
-
-vdzh5\_{id}
-
-cookie sync partner id
-
-Vidazoo (First Party)
-
-bah383vlj1
-
-cookie sync metadata
-
-Vidazoo (First Party)
-
-ck48wz12sqj7
-
-cookie sync partner id
