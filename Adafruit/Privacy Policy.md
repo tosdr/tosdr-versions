@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ In the beginner’s mind there are many possibilities, in the expert’s mind there are few”
+“ The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time”
 
-[Shunryu Suzuki](http://en.wikipedia.org/wiki/Shunryu_Suzuki)
+[Tom Cargill](http://en.wikipedia.org/wiki/Ninety-ninety_rule)
 
 [](https://www.adafruit.com/about)
 
