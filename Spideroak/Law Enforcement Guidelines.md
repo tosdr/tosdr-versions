@@ -1,4 +1,4 @@
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=MjkyOjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=MjkyOjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
+[![SpiderOak](https://spideroak.com/wp-content/uploads/2022/10/spider-oak-logo-COLOR-VECTOR.png)![SpiderOak](https://spideroak.com/wp-content/uploads/2022/10/spider-oak-logo-COLOR-VECTOR.png)](https://spideroak.com/)
 
 * [Home](https://spideroak.com/ "Space Cybersecurity")
 * [About](https://spideroak.com/about/)
@@ -21,9 +21,9 @@
     
 * [In The News](https://spideroak.com/news)
 
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=MzgxOjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)![SpiderOak](data:image/svg+xml;nitro-empty-id=MzgxOjY4NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
+[![SpiderOak](https://spideroak.com/wp-content/uploads/2022/10/spider-oak-logo-COLOR-VECTOR.png)![SpiderOak](https://spideroak.com/wp-content/uploads/2022/10/spider-oak-logo-COLOR-VECTOR.png)](https://spideroak.com/)
 
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=NDEwOjMzOA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDE4NSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIxODUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://spideroak.com/)
+[![SpiderOak](https://spideroak.com/wp-content/uploads/2022/10/spider-oak-logo-COLOR-VECTOR.png)](https://spideroak.com/)
 
 * [Home](https://spideroak.com/ "Space Cybersecurity")
 * [About](https://spideroak.com/about/)
@@ -86,42 +86,6 @@ Contact Our Team to Learn How SpiderOak Can Eliminate the Risk from Your Next Mi
 -------------------------------------------------------------------------------------
 
 [Request a Demo](https://spideroak.com/request-a-demo/)
-
-[![SpiderOak](data:image/svg+xml;nitro-empty-id=NTk2Ojc3Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzAwIDY5IiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjY5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://spideroak.com/)
-
-#### About
-
-[Who Are We](https://spideroak.com/about)  
-[Team](https://spideroak.com/about#team)  
-[Advisory Board](https://spideroak.com/about#advisoryboard)  
-[News](https://spideroak.com/news)  
-[Careers](https://boards.greenhouse.io/spideroak)
-
-#### Support
-
-[Product Release Notes](https://spideroak.com/release-notes/)  
-[Help Center](https://spideroak.support/hc/en-us)  
-[Contact](https://spideroak.support/hc/en-us/requests/new)  
-[Security Response](https://spideroak.com/security-response/)  
-[Transparency Report](https://spideroak.com/transparency/)  
-[Download ONE](https://crossclave.com/opendownload/)
-
-#### Compliance
-
-[HIPAA Compliance](https://spideroak.com/hipaa/)  
-[Service Agreement](https://spideroak.com/service-agreement/)  
-[Privacy Policy](https://spideroak.com/privacy-policy/)  
-[Terms of Service](https://spideroak.com/terms-of-service/)  
-[Law Enforcement](https://spideroak.com/law-enforcement/)  
-[DMCA Notice Submission](https://spideroak.com/dmca-takedown-notice-submission/)
-
-#### SpiderOak Online
-
-  
-[LinkedIn](https://www.linkedin.com/company/spideroak-mission-systems/)  
-[Twitter](https://twitter.com/spideroak)  
-[Facebook](https://www.facebook.com/SpiderOak/)  
-[Vimeo](https://vimeo.com/spideroak)
 
 Get in Touch to Request a Demo
 ------------------------------
