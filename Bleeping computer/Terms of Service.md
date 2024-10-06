@@ -352,12 +352,12 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Cyberattack ddos network cybersecurity](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Cloudflare blocks largest recorded DDoS attack peaking at 3.8Tbps](https://www.bleepingcomputer.com/news/security/cloudflare-blocks-largest-recorded-ddos-attack-peaking-at-38tbps/)
 * [![Kaspersky](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Google removes Kaspersky's antivirus software from Play Store](https://www.bleepingcomputer.com/news/security/google-removes-kasperskys-antivirus-software-from-play-store-disables-developer-accounts/)
+* [![Cyberattack ddos network cybersecurity](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Cloudflare blocks largest recorded DDoS attack peaking at 3.8Tbps](https://www.bleepingcomputer.com/news/security/cloudflare-blocks-largest-recorded-ddos-attack-peaking-at-38tbps/)
 * [![AI Girl Deepfake](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     FIN7 hackers launch deepfake nude “generator” sites to spread malware](https://www.bleepingcomputer.com/news/security/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/)
