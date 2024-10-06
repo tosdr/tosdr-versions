@@ -205,27 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Classic Comics III](https://www.somethingawful.com/photoshop-phriday/classic-comics-iii/1/)
-* [Who Is Homer Simpson?](https://www.somethingawful.com/comedy-goldmine/homer-simpson-drawings/1/)
-* [Ill-Conceived Toys](https://www.somethingawful.com/photoshop-phriday/illconceived-toys/1/)
-* [Lamentations of the Flame Princess: Grindhouse Edition (2011)](https://www.somethingawful.com/dungeons-and-dragons/lamentations-flame-princess/1/)
-* [Everything is Pumpkin Spice!](https://www.somethingawful.com/comedy-goldmine/pumpkin-spice-products/1/)
+* [Nerd-Movies!](https://www.somethingawful.com/comedy-goldmine/nerdmovies/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [CAT](https://www.somethingawful.com/comedy-goldmine/wake-cat-gifs/1/)
+* [Y?WIFYW!](https://www.somethingawful.com/photoshop-phriday/fucked-your-wife/)
+* [has anyone noticed strange things happening since cheerios + ancient grains was released?](https://www.somethingawful.com/comedy-goldmine/ancient-grains-cheerios/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [Earths New Moon: Isn't this how horror movies start](http://forums.somethingawful.com/showthread.php?threadid=4071981 "Earths New Moon: Isn't this how horror movies start")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [what's in your cargo pants?](http://forums.somethingawful.com/showthread.php?threadid=4071979 "what's in your cargo pants?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/audio.png) [How the hell do you avoid being scammed from buying concert tickets?](http://forums.somethingawful.com/showthread.php?threadid=4071963 "How the hell do you avoid being scammed from buying concert tickets?")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [I'm watching Nosferatu (1922) tonight.](http://forums.somethingawful.com/showthread.php?threadid=4072007 "I'm watching Nosferatu (1922) tonight.")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Jumpy Elon with the lumpy felon](http://forums.somethingawful.com/showthread.php?threadid=4072021 "Jumpy Elon with the lumpy felon")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [Earths New Moon: Isn't this how horror movies start](http://forums.somethingawful.com/showthread.php?threadid=4071981 "Earths New Moon: Isn't this how horror movies start")
 
 ### Random Articles
 
-* [Dadapop Magazine](https://www.somethingawful.com/awful-links/awful-link-524/)
-* [Know Your Dragon Age: Inquisition Skills](https://www.somethingawful.com/news/dragon-inquisition-skills/)
-* [Monstergeddon Forums > Politics & Religion > Feminism](https://www.somethingawful.com/news/monstergeddon-feminism/1/)
-* [I Hate You Page 222](https://www.somethingawful.com/cliff-yablonski/i-hate-you-222/)
-* [Numbers You'd Rather Not Know](https://www.somethingawful.com/news/numbers-rather-not/)
+* [Glenn Beck Has Lost His Voice](https://www.somethingawful.com/everdraed-showcase/glenn-beck-voice/)
+* [Retail Nightmare Investigation Squad Files: Spider Lake, WI](https://www.somethingawful.com/news/retail-nightmare-squad/)
+* [The Adventures of Satan](https://www.somethingawful.com/comedy-goldmine/satan-adventures-cyoa/1/)
+* [Contrails (Chemtrails)](https://www.somethingawful.com/awful-links/awful-link-3690/)
+* [ADRENALIN: Internal Thermoelectricity really can save your life](https://www.somethingawful.com/awful-links/awful-link-1220/)
 
 [Random!](https://www.somethingawful.com/random/)
 
