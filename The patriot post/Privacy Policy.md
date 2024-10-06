@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110798-sounds-like-reasons-2024-10-04)
+     [](https://patriotpost.us/memes/110839-psalm-40-2-2024-10-06)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -143,7 +143,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
