@@ -113,11 +113,6 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
-    
-    The Beginning and the End of the Universe
-    
-    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 * [![Amy Winehouse: What Really Happened](/wp-content/thumbnails/6033-100x70.jpg?x53432)
     
     Amy Winehouse: What Really Happened
@@ -133,34 +128,39 @@ Advertisement
     Very Young Girls
     
     Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited yo...](https://documentaryheaven.com/very-young-girls/ "Very Young Girls")
+* [![The Perfect Vagina](/wp-content/thumbnails/2910-100x70.jpg?x53432)
+    
+    The Perfect Vagina
+    
+    After having watched Penis Size Insecurity By Men, it's now time to move on to lesson two and have a look at womens insecurities: The Perfect Vagina.Fronted by Lisa Rogers, this documentary focuse...](https://documentaryheaven.com/the-perfect-vagina/ "The Perfect Vagina")
 
 ###### Throwback Documentaries
 
-* [![Brian Cox: Life of a Universe](/wp-content/thumbnails/16284-100x70.jpg?x53432)
+* [![Beautiful Young Minds](/wp-content/thumbnails/5797-100x70.jpg?x53432)
     
-    Brian Cox: Life of a Universe
+    Beautiful Young Minds
     
-    Live of a Universe is a two-part documentary series by physicist Brian Cox. Cox filmed this special whilst on tour in Australia speaking to audiences and scientists about two fundamental questions ho](https://documentaryheaven.com/brian-cox-life-of-universe/ "Brian Cox: Life of a Universe")
-* [![Feltham Sings](/wp-content/thumbnails/5858-100x70.gif?x53432)
+    This documentary tells the story of some of the brightest mathematical brains of a generation. Each year, exceptionally gifted teenagers from over 90 countries compete for medals at the International](https://documentaryheaven.com/beautiful-young-minds/ "Beautiful Young Minds")
+* [![The Truth According To Wikipedia](/wp-content/thumbnails/1571-100x70.jpg?x53432)
     
-    Feltham Sings
+    The Truth According To Wikipedia
     
-    This documentary is – without a shadow of a doubt – one of the most innovative and engrossing documentaries ever aired on British television. Set in Feltham Young Offenders Institution in the United K](https://documentaryheaven.com/feltham-sings/ "Feltham Sings")
-* [![Britain’s Nuclear Secrets: Inside Sellafield](/wp-content/thumbnails/10044-100x70.jpg?x53432)
+    Google or Wikipedia? Those of us who search online - and who doesn't? - are getting referred more and more to Wikipedia. For the past two years, this free online "encyclopedia of the people" has been](https://documentaryheaven.com/the-truth-according-to-wikipedia/ "The Truth According To Wikipedia")
+* [![Secrets of the Tang Treasure Ship](/wp-content/thumbnails/4977-100x70.jpg?x53432)
     
-    Britain’s Nuclear Secrets: Inside Sellafield
+    Secrets of the Tang Treasure Ship
     
-    Lying on the remote north west coast of England is one of the most secret places in the country. 65 years ago it helped make Britain a world superpower and within it's is material that could devastate](https://documentaryheaven.com/britains-nuclear-secrets-inside-sellafield/ "Britain’s Nuclear Secrets: Inside Sellafield")
-* [![Into The Universe With Stephen Hawking](/wp-content/thumbnails/3433-100x70.jpg?x53432)
+    Historians have long speculated that thousands of wooden ships plied a Maritime Silk Route from the Middle East to China, braving long distances on white-capped seas, but time and the deep ocean have](https://documentaryheaven.com/secrets-of-the-tang-treasure-ship/ "Secrets of the Tang Treasure Ship")
+* [![The Indigenous Island Tribe Of Anuta](/wp-content/thumbnails/15999-100x70.jpg?x53432)
     
-    Into The Universe With Stephen Hawking
+    The Indigenous Island Tribe Of Anuta
     
-    Stephen Hawking hosts an epic brand new kind of cosmology series, a Planet Earth of the heavens. It takes the world’s most famous scientific mind and sets it free, powered by the limitless possibiliti](https://documentaryheaven.com/into-the-universe-with-stephen-hawking/ "Into The Universe With Stephen Hawking")
-* [![Blood, Smack Tears Afghanistan’s Heroin Hell](/wp-content/thumbnails/9034-100x70.jpg?x53432)
+    Located deep in the South Pacific is a little known island, once so remote that the islanders are entirely self-sufficient. The island is known as Anuta and after months of preparation the producers](https://documentaryheaven.com/the-indigenous-island-tribe-of-anuta/ "The Indigenous Island Tribe Of Anuta")
+* [![Can We Make a Star on Earth?](/wp-content/thumbnails/286-100x70.png?x53432)
     
-    Blood, Smack Tears Afghanistan’s Heroin Hell
+    Can We Make a Star on Earth?
     
-    Afghanistan, this country is the worlds biggest heroin producer, 90% of all opiate based drugs come from here, but now it is also one of the worst consumers of narcotics anywhere. The nations drug hab](https://documentaryheaven.com/afghanistans-heroin-hell/ "Blood, Smack Tears Afghanistan’s Heroin Hell")
+    Professor Brian Cox takes a global journey in search of the energy source of the future. Called nuclear fusion, it is the process that fuels the sun and every other star in the universe. Yet despite o](https://documentaryheaven.com/can-we-make-a-star-on-earth/ "Can We Make a Star on Earth?")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
