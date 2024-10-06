@@ -15,7 +15,7 @@
 * [Instagram](https://www.instagram.com/bucketlistjourney/)
 * [Pinterest](https://www.pinterest.com/bucketlistjrny/)
 
-[![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2023/02/cropped-cropped-Logo-Design-copy.png)](https://bucketlistjourney.net/)
+[![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2024/10/cropped-Logo-Design.png)](https://bucketlistjourney.net/)
 
 [](#)
 
