@@ -10,19 +10,19 @@ Education, Parenting, Internet Safety for All
 
    
 
-Enhanced by Google SafeSearch
+Enhanced by Google
 
    
 
-Enhanced by Google SafeSearch
+Enhanced by Google
 
    
 
-Enhanced by Google SafeSearch
+Enhanced by Google
 
    
 
-Enhanced by Google SafeSearch
+Enhanced by Google
 
 Terms of Service
 ================
