@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZwKUTgoAAVAAAABbJdg)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZwLo9woAAVAAAABbkqM)
 
 Es noticia
 
@@ -7,7 +7,7 @@ Es noticia
 * [Pedro Sánchez](https://www.elmundo.es/espana/2024/10/04/66ffca5e21efa05f678b4576.html)
 * [Page](https://www.elmundo.es/espana/2024/10/04/66ffe5a3fc6c837f4a8b456e.html)
 * [Felipe VI](https://www.elmundo.es/espana/2024/10/04/66ffc805e4d4d8bd7f8b4586.html)
-* [Atlético de Madrid](https://www.elmundo.es/deportes/futbol/primera-division/2024/10/04/67002bf5e4d4d891158b4598.html)
+* [Roca Rey](https://www.elmundo.es/cultura/toros/2024/10/06/6702c86fe9cf4ad8548b4583.html)
 * [La Revuelta](https://www.elmundo.es/television/momentvs/2024/10/04/66ff7f3be9cf4a75508b457d.html)
 * [Baja laboral flexible](https://www.elmundo.es/economia/2024/10/04/66fedc3cfc6c8322398b458d.html)
 * [Edmundo González](https://www.elmundo.es/espana/2024/10/04/67001912e9cf4a847c8b45a1.html)
