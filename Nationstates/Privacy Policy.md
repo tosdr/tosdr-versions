@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What would the AN get if trading card… (161)](https://forum.nationstates.net/viewtopic.php?t=555137&f=25&view=unread#unread ""What would the AN get if trading cards came now?" (161 posts)")
-* [\[Ω\] Invade AN, Nuke BN, or Dissolve YN? (21)](https://forum.nationstates.net/viewtopic.php?t=556396&f=25&view=unread#unread ""[Ω] Invade AN, Nuke BN, or Dissolve YN?" (21 posts)")
-* [F7 Clickbait (67)](https://forum.nationstates.net/viewtopic.php?t=556479&f=25&view=unread#unread ""F7 Clickbait" (67 posts)")
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (8,838)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (8,838 posts)")
-* [The Solitary Throne \[OOC | Closed\] (619)](https://forum.nationstates.net/viewtopic.php?t=555477&f=31&view=unread#unread ""The Solitary Throne [OOC | Closed]" (619 posts)")
+* [Why Are Proposal Titles Capitalised L… (15)](https://forum.nationstates.net/viewtopic.php?t=522256&f=15&view=unread#unread ""Why Are Proposal Titles Capitalised Like This?" (15 posts)")
+* [Commend or Condemn AN II (1,084)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (1,084 posts)")
+* [What is unique abt AN? (1,122)](https://forum.nationstates.net/viewtopic.php?t=551158&f=25&view=unread#unread ""What is unique abt AN?" (1,122 posts)")
+* [World Bowl XLIX \[49\] Everything Thread (137)](https://forum.nationstates.net/viewtopic.php?t=555385&f=7&view=unread#unread ""World Bowl XLIX [49] Everything Thread" (137 posts)")
+* [Revenge of Rate the Song above you (6,991)](https://forum.nationstates.net/viewtopic.php?t=486492&f=25&view=unread#unread ""Revenge of Rate the Song above you" (6,991 posts)")
 
 Advertisement
 
