@@ -247,23 +247,35 @@ Past Week
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood) [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett) [Amanda Gefter](https://www.quantamagazine.org/authors/amanda-gefter) [Emily Buder](https://www.quantamagazine.org/authors/ebuder) [Mark Belan](https://www.quantamagazine.org/authors/markbelan) [Natalie Wolchover](https://www.quantamagazine.org/authors/natalie)
 
-[![An astronaut becoming or emerging from a hologram](https://www.quantamagazine.org/wp-content/uploads/2024/09/Holography-crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/)
-
-[#### If the Universe Is a Hologram, This Long-Forgotten Math Could Decode It](https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/)
-
-_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
-
 [![Illustration of a man’s face covered with shadows against a background of wormhole and black hole drawings.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Wheeler-crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/)
 
 [#### John Wheeler Saw the Tear in Reality](https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/)
 
 _By_ [Amanda Gefter](https://www.quantamagazine.org/authors/amanda-gefter)
 
+[![An astronaut becoming or emerging from a hologram](https://www.quantamagazine.org/wp-content/uploads/2024/09/Holography-crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/)
+
+[#### If the Universe Is a Hologram, This Long-Forgotten Math Could Decode It](https://www.quantamagazine.org/if-the-universe-is-a-hologram-this-long-forgotten-math-could-decode-it-20240925/)
+
+_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
+
 [![A woman sitting on a rocky shore looks up at the cosmos and sees a handful of solid shapes floating in the sky.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Geometry-crSenor-Salme-AppleTileThumbnail.webp)](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
 
 [#### Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/09/ThoughtExperiments_ThoughtExperiments-crMarkBelan-Thumbnail.webp)](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
+
+[#### The Thought Experiments That Fray the Fabric of Space-Time](https://www.quantamagazine.org/the-thought-experiments-that-fray-the-fabric-of-space-time-20240925/)
+
+_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood) [Mark Belan](https://www.quantamagazine.org/authors/markbelan)
+
+[![People on ladders looking through holes in a wall at obscured numbers](https://www.quantamagazine.org/wp-content/uploads/2024/10/ZeroKnowledgePCPs-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
+
+[#### Computer Scientists Combine Two ‘Beautiful’ Proof Methods](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
+
+_By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
 
 The Quanta Newsletter
 
