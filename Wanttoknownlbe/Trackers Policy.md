@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/we-want-to-know-en-jij/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/obama-wir-haben-nichts-gewust/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -134,15 +134,15 @@ Posted in [Boeken](https://www.wanttoknow.nl/dossiers/boeken/) Tagged [Corona](h
 
 #### Meelezen, meeleven
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/weten-dat-het-goed-komt-love-heals-banner.jpg?fit=697%2C440&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/orde-chaos-banner.jpg?fit=696%2C440&ssl=1)
 
-### [Weten dat het goed komt…](https://www.wanttoknow.nl/overige/weten-dat-het-goed-komt/)
+### [Verwar nooit een opleiding met intelligentie..!](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/)
 
-by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [20 augustus 2024](https://www.wanttoknow.nl/overige/weten-dat-het-goed-komt/)
+by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [6 oktober 2024](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/)
 
-[Een van de mensen die dagelijks bezig is, het onderscheid te maken in de wereld en zijn medemensen te informeren over essentiële zaken die wereldburgers manipuleren, onderdrukken en hun vrijheid proberen te ontnemen, is de uitgever van ‘De Andere Krant’, Sander Compagner. Hier in deze column een reflectie van zijn hand, over de heftige tijd waarin we leven en de absolute noodzaak -hoe moeilijk dit ook is- de liefde in je hart te manifesteren. Een krachtig ‘vitamine-pilletje’ voor iedereen -en wie is dat niet- die in deze chaotische tijden een hart onder de riem wil voelen…!!! …](https://www.wanttoknow.nl/overige/weten-dat-het-goed-komt/)
+[Een nieuwe bijdrage van Philo Hippus, de wijze schapenfokker, waarvan we al eerder ingezonden stukken gepubliceerd hebben. Een belezen man, die met zijn eenvoudige status en in eenvoudige bewoordingen, de wijsheid van een gedegen analist vertegenwoordigt. Vaak geleid door een frustrerende irritatie, komt Philo tot het schrijven van een column, die recht uit het hart komt. Zo ook weer deze keer. Met dank aan onze wijze schapenfokker uit Noord-Nederland. …](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/)
 
-Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/), [Overige](https://www.wanttoknow.nl/dossiers/overige/) Tagged [Economie](https://www.wanttoknow.nl/trefwoorden/economie/), [God](https://www.wanttoknow.nl/trefwoorden/god/), [Inspiratie](https://www.wanttoknow.nl/trefwoorden/inspiratie/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Mensen](https://www.wanttoknow.nl/trefwoorden/mensen/), [Politiek](https://www.wanttoknow.nl/trefwoorden/politiek/), [scheppingskracht](https://www.wanttoknow.nl/trefwoorden/scheppingskracht/) [1 reactie](https://www.wanttoknow.nl/overige/weten-dat-het-goed-komt/#comments)
+Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/), [Overige](https://www.wanttoknow.nl/dossiers/overige/) Tagged [Corona](https://www.wanttoknow.nl/trefwoorden/corona/), [Energie](https://www.wanttoknow.nl/trefwoorden/energie/), [Gezondheid](https://www.wanttoknow.nl/trefwoorden/gezondheid/), [Machtselite](https://www.wanttoknow.nl/trefwoorden/machtselite/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Mensen](https://www.wanttoknow.nl/trefwoorden/mensen/), [scheppingskracht](https://www.wanttoknow.nl/trefwoorden/scheppingskracht/), [Vaccinaties](https://www.wanttoknow.nl/trefwoorden/vaccinaties/) [Laat een reactie achter](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/#respond)
 
 [![Banner Bookshop WantToKnow](https://www.wanttoknow.nl/wp-content/uploads/banner-bookshop-WantToKnow.png)](https://bookshop.wanttoknow.nl/)
 
