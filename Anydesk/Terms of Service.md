@@ -4,7 +4,7 @@
 
   Light Mode
 
- [![](/_static/icons/red/bold/phone-circle-186093.svg)](tel: "Call Us")[Customer Portal](https://my.anydesk.com/ "my.anydesk.com") ![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
+ [![](/_static/icons/red/bold/phone-circle-186093.svg)](tel: "Call Us")[Customer Portal](https://my.anydesk.com/ "my.anydesk.com") ![](/_static/icons/red/bold/arrow-down-1-fd2e56.svg)
 
  [![](/_static/img/logos/anydesk-logo-white-red-ec4e3a.png "AnyDesk logo") ![](/_static/img/logos/anydesk-logo-c0861c.png "AnyDesk logo")](https://anydesk.com/en)
 
