@@ -2,13 +2,13 @@
 
 [](https://tbtc.bitaps.com/)[](https://tltc.bitaps.com/)
 
-###### **864 364**
+###### **864 399**
 
-169 433
+181 007
 
-###### $ **61 899. 87**
+###### $ **61 954. 33**
 
-\- 0.46 %
+\- 0.45 %
 
 * [Blocks](https://bitaps.com/blocks)
 * [Tools](https://bitaps.com/tools)
@@ -17,22 +17,22 @@
 
 Last block
 
-864 364
+864 399
 =======
 
 Time from last block
 
 **00** hours
 
-**06** minutes
+**11** minutes
 
-**48** seconds
+**54** seconds
 
-##### 169 433
+##### 181 007
 
 Pool transactions
 
-9.10
+8.92
 
 ś**/vByte**
 
@@ -40,12 +40,12 @@ Best fee
 
 BTC/USD Last 24 hours
 
-$ **61 899. 87**
+$ **61 954. 33**
 ----------------
 
 O
 
-62 189. 77
+62 235. 55
 
 H
 
@@ -53,31 +53,31 @@ H
 
 L
 
-61 727. 77
+61 733. 94
 
 V
 
-922. 41
+840. 59
 
-\- 289. 89
+\- 281. 20
 
-\- 0. 46 %
+\- 0. 45 %
 
 [Bitfinex
 
-61 940 . 00](https://bitfinex.com/)[CoinEx
+61 987 . 00](https://bitfinex.com/)[CoinEx
 
-61 909 . 13](https://coinex.com/)[Huobi
+61 955 . 30](https://coinex.com/)[Huobi
 
-61 921 . 23](https://htx.com/)
+61 955 . 41](https://htx.com/)
 
 [Binance
 
-61 925 . 91](https://binance.com/)[Kraken
+61 961 . 98](https://binance.com/)[Kraken
 
-61 878 . 90](https://kraken.com/)[HitBTC
+61 935 . 69](https://kraken.com/)[HitBTC
 
-61 922 . 76](https://hitbtc.com/)
+61 962 . 16](https://hitbtc.com/)
 
 [##### Crypto News
 
