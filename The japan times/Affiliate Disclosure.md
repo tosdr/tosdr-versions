@@ -130,68 +130,66 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Sure, Tokyo’s trains are amazing. But are they ruining your trip?](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/422148.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.")](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425964.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ")](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[Japanese baseball fans flock to LA to see playoff-bound Ohtani](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![ A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426043.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 " A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles")](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
 
-[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+[LDP to endorse 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
 
-  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426033.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[Sure, Tokyo’s trains are amazing. But are they ruining your trip?](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
 
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
+By [Justin Randall](https://www.japantimes.co.jp/author/4986/justin-randall/ "Justin Randall")  
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/422148.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.")](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
-
-[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
-
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
-
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
-
-By F.D. Flam  
-
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425964.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ")](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
-  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
+
+[Japanese baseball fans flock to LA to see playoff-bound Ohtani](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
+
+By [Rory Carroll](https://www.japantimes.co.jp/author/1769/rory-carroll/ "Rory Carroll")  
+
+  [![ A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426043.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 " A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles")](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[LDP to endorse 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
+
+  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426033.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
 
 Podcast
 -------
@@ -212,9 +210,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -256,23 +254,15 @@ Latest News
 
 [Japan and South Korea to expand initiative to cut methane emissions](https://www.japantimes.co.jp/news/2024/10/06/japan/japan-south-korea-cut-methane-emissions/ "Japan and South Korea to expand initiative to cut methane emissions")
 
-5 hours ago
+11 hours ago
 
 [Florida faces new storm threat as region reels from Helene](https://www.japantimes.co.jp/news/2024/10/06/world/florida-new-storm/ "Florida faces new storm threat as region reels from Helene")
 
-7 hours ago
-
 [Intense Israeli bombing rocks Beirut ahead of war anniversary](https://www.japantimes.co.jp/news/2024/10/06/world/intense-israel-bombing/ "Intense Israeli bombing rocks Beirut ahead of war anniversary")
-
-7 hours ago
 
 [Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/06/japan/politics/ldp-not-endorse-slush-fund-lawmakers/ "Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election")
 
-8 hours ago
-
 [Rise of 'spot work' schemes leading to scams in Japan](https://www.japantimes.co.jp/news/2024/10/06/japan/crime-legal/spot-work-scams/ "Rise of 'spot work' schemes leading to scams in Japan")
-
-11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
