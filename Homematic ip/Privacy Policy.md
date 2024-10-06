@@ -327,14 +327,6 @@ Feedback geben und gewinnen! Füllen Sie die Umfrage aus und sichern Sie sich to
 
 Event](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-10-bauhaus-berlin-schoeneberg)
 
-[Okt.
-
-04-05
-
-Event
-
-BAUHAUS Hannover: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-04-bauhaus-hannover)
-
 *  [![DE](/modules/contrib/languageicons/flags/de.png "DE") DE](https://homematic-ip.com/de/datenschutz-app)
 *  [![EN](/modules/contrib/languageicons/flags/en.png "EN") EN](https://homematic-ip.com/en/data-protection-app)
 *  [![FR](/modules/contrib/languageicons/flags/fr.png "FR") FR](https://homematic-ip.com/fr/protection-des-donnees-application)
