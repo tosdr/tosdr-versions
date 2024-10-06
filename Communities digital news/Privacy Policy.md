@@ -52,9 +52,9 @@ Search for:
 
 [Axelrod says quiet part out loud, storm-ravaged NC boosts Kamala’s chances](https://americanwirenews.com/axelrod-says-quiet-part-out-loud-storm-ravaged-nc-boosts-kamalas-chances/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-fox-news-anchor-1-1200x630.jpg)](https://americanwirenews.com/fox-anchor-breaks-down-on-air-as-faith-filled-nc-mother-recounts-her-devastating-story/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sapd-1200-x-628-1200x630.jpg)](https://americanwirenews.com/tren-de-aragua-gang-members-among-20-arrested-in-san-antonio-after-taking-over-apartment-complex/)
 
-[Fox anchor breaks down on air as faith-filled NC mother recounts her devastating story](https://americanwirenews.com/fox-anchor-breaks-down-on-air-as-faith-filled-nc-mother-recounts-her-devastating-story/)
+[Tren de Aragua gang members among 20 arrested in San Antonio after taking over apartment complex](https://americanwirenews.com/tren-de-aragua-gang-members-among-20-arrested-in-san-antonio-after-taking-over-apartment-complex/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-SG-Joe-Biden-Student-Loan-Protesters-split-1200x630.jpg)](https://americanwirenews.com/biden-student-loan-forgiveness-plan-reinstated-just-in-time-for-nov-election/)
 
@@ -79,6 +79,38 @@ Search for:
 ### [Despite two assassination attempts, Joy Reid still calling for violence against Trump](https://americanwirenews.com/despite-two-assassination-attempts-joy-reid-still-calling-for-violence-against-trump/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bream-walz-220x180.jpg)](https://americanwirenews.com/tim-walz-walks-into-shannon-bream-buzz-saw-on-fox-news-sunday/)
+
+[Tim Walz walks into Shannon Bream buzz saw on ‘Fox News Sunday’](https://americanwirenews.com/tim-walz-walks-into-shannon-bream-buzz-saw-on-fox-news-sunday/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-220x180.png)](https://americanwirenews.com/kamala-kod-over-tone-deaf-message-about-157m-for-suffering-citizens-in-lebanon/)
+
+[Kamala KO’d over tone-deaf message about $157M for suffering citizens in Lebanon](https://americanwirenews.com/kamala-kod-over-tone-deaf-message-about-157m-for-suffering-citizens-in-lebanon/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-trumpsign-1200-x-628-220x180.jpg)](https://americanwirenews.com/dem-mayor-sues-ny-company-over-100-foot-vote-for-trump-sign-perched-atop-building/)
+
+[Dem mayor sues NY company over massive 100-foot ‘Vote for Trump’ sign](https://americanwirenews.com/dem-mayor-sues-ny-company-over-100-foot-vote-for-trump-sign-perched-atop-building/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cotton-220x180.jpg)](https://americanwirenews.com/cotton-has-receipts-on-kamala-harris-lying-about-banning-gas-cars-shell-say-anything-to-get-elected/)
+
+[Cotton has receipts on Kamala Harris ‘lying’ about banning gas cars: ‘She’ll say anything to get elected’](https://americanwirenews.com/cotton-has-receipts-on-kamala-harris-lying-about-banning-gas-cars-shell-say-anything-to-get-elected/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-yt-pager-470x260-1200-x-628-220x180.jpg)](https://americanwirenews.com/diabolical-details-emerge-on-mossads-james-bond-level-pager-attacks/)
+
+[Diabolical details emerge on Mossad’s ‘James Bond-level’ pager attacks](https://americanwirenews.com/diabolical-details-emerge-on-mossads-james-bond-level-pager-attacks/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-voight-220x180.png)](https://americanwirenews.com/jon-voight-appeals-to-americans-to-vote-for-trump-details-whats-at-stake/)
+
+[Jon Voight appeals to Americans to vote for Trump, details what’s at stake](https://americanwirenews.com/jon-voight-appeals-to-americans-to-vote-for-trump-details-whats-at-stake/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jeanpierre-220x180.jpg)](https://americanwirenews.com/kjp-disputes-her-own-claim-fema-funds-not-diverted-to-illegal-immigrants/)
+
+[KJP disputes her own claim FEMA funds not diverted to illegal immigrants](https://americanwirenews.com/kjp-disputes-her-own-claim-fema-funds-not-diverted-to-illegal-immigrants/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-colbert-220x180.jpg)](https://americanwirenews.com/kamala-to-embark-on-friendly-media-blitz-with-the-view-stephen-colbert-and-howard-stern/)
+
+[Kamala to embark on friendly media blitz with ‘The View,’ Stephen Colbert and Howard Stern](https://americanwirenews.com/kamala-to-embark-on-friendly-media-blitz-with-the-view-stephen-colbert-and-howard-stern/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gutfeld-hostin-220x180.jpg)](https://americanwirenews.com/gutfeld-hits-sunny-hostin-for-projecting-her-own-misery-on-melania-trump-with-bizarre-hubby-hating-theory/)
 
@@ -143,38 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-dwight-220x180.jpg)](https://americanwirenews.com/vietnam-vet-gives-trump-his-purple-heart-you-got-guts/)
 
 [Vietnam vet gives Trump his purple heart: ‘You got guts!’](https://americanwirenews.com/vietnam-vet-gives-trump-his-purple-heart-you-got-guts/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-whistleblower-220x180.jpg)](https://americanwirenews.com/fema-whistleblowers-stepping-forward-in-wake-of-deadly-failures/)
-
-[FEMA whistleblowers stepping forward in wake of deadly failures](https://americanwirenews.com/fema-whistleblowers-stepping-forward-in-wake-of-deadly-failures/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-desantis-2-220x180.jpg)](https://americanwirenews.com/desantis-is-getting-credit-for-ending-port-strike-with-brilliant-move/)
-
-[DeSantis is getting credit for ending port strike with brilliant move](https://americanwirenews.com/desantis-is-getting-credit-for-ending-port-strike-with-brilliant-move/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-1-220x180.jpg)](https://americanwirenews.com/kamalas-teleprompter-malfunctions-and-then-she-follows-suit/)
-
-[Kamala’s teleprompter malfunctions — she quickly follows suit](https://americanwirenews.com/kamalas-teleprompter-malfunctions-and-then-she-follows-suit/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-buttigieg-musk-220x180.jpg)](https://americanwirenews.com/musk-exposes-fema-for-blocking-hurricane-aid-my-blood-is-boiling/)
-
-[Musk exposes FEMA for blocking hurricane aid: My blood is boiling’](https://americanwirenews.com/musk-exposes-fema-for-blocking-hurricane-aid-my-blood-is-boiling/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kayleigh-trumpbutler-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/kayleigh-trumps-return-to-site-of-assassination-attempt-to-be-a-powerful-historic-moment/)
-
-[Kayleigh: Trump’s return to site of assassination attempt to be a ‘powerful, historic’ moment](https://americanwirenews.com/kayleigh-trumps-return-to-site-of-assassination-attempt-to-be-a-powerful-historic-moment/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ncrondfox-1200-x-628-220x180.jpg)](https://americanwirenews.com/desantis-talks-about-nc-rescue-mission-and-lesson-learned-about-waiting-for-feds/)
-
-[DeSantis talks about NC rescue mission and lesson learned about waiting for feds](https://americanwirenews.com/desantis-talks-about-nc-rescue-mission-and-lesson-learned-about-waiting-for-feds/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sampower-1200-x-628-220x180.jpg)](https://americanwirenews.com/samantha-power-boasts-about-lighting-up-ukraine-as-hurricane-victims-suffer-without-power/)
-
-[Samantha Power boasts about lighting up Ukraine as hurricane victims suffer without power](https://americanwirenews.com/samantha-power-boasts-about-lighting-up-ukraine-as-hurricane-victims-suffer-without-power/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-garth-brooks-220x180.jpg)](https://americanwirenews.com/garth-brooks-responds-after-lawsuit-by-fmr-makeup-artist-claims-he-raped-and-sexually-abused-her/)
-
-[Garth Brooks responds after bombshell lawsuit by fmr. makeup artist claims he raped and sexually assaulted her](https://americanwirenews.com/garth-brooks-responds-after-lawsuit-by-fmr-makeup-artist-claims-he-raped-and-sexually-abused-her/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
