@@ -1,6 +1,6 @@
 ![](https://px.ads.linkedin.com/collect/?pid=6239532&fmt=gif)  
 
-             Terms & Conditions | Arbiter Sports                       [Skip to main content](#main-content)
+             Terms & Conditions | Arbiter Sports                        [Skip to main content](#main-content)
 
 [![Home](/themes/custom/arbiter/logo.svg)](https://www.arbitersports.com/)
 
