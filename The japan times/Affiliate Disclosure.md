@@ -212,9 +212,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -254,21 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Emails show early U.S. concerns over Gaza offensive and risk of Israeli war crimes](https://www.japantimes.co.jp/news/2024/10/05/world/gaza-israel-early-emails-us/ "Emails show early U.S. concerns over Gaza offensive and risk of Israeli war crimes")
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-9 hours ago
+1 hours ago
 
-[Torrential rain in Noto Peninsula to be designated a severe disaster, Ishiba says](https://www.japantimes.co.jp/news/2024/10/05/japan/ishiba-noto-peninsula-severe-disaster/ "Torrential rain in Noto Peninsula to be designated a severe disaster, Ishiba says")
+[Ishiba's U-turn on interest rates surprises market](https://www.japantimes.co.jp/business/2024/10/06/markets/ishiba-interest-rate-remark-surprise/ "Ishiba's U-turn on interest rates surprises market")
 
-11 hours ago
+1 hours ago
 
-[Hunted yet unrepentant: Hamas leader Yahya Sinwar remains committed to Israel's destruction](https://www.japantimes.co.jp/news/2024/10/05/world/yahya-sinwar-committed/ "Hunted yet unrepentant: Hamas leader Yahya Sinwar remains committed to Israel's destruction")
+[Ministry reports issues facing bookstores](https://www.japantimes.co.jp/business/2024/10/06/japan-ministry-bookstores/ "Ministry reports issues facing bookstores")
 
-11 hours ago
+1 hours ago
 
-[Saudi Arabia's PIF mulls larger stake in Nintendo: report](https://www.japantimes.co.jp/business/2024/10/05/saudi-arabia-pif-nintendo/ "Saudi Arabia's PIF mulls larger stake in Nintendo: report")
+[Japanese government to survey stockpiles at designated shelters](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-government-stockpile-shelters/ "Japanese government to survey stockpiles at designated shelters")
 
-[Young language carer hopes to support others facing hardships in Japan](https://www.japantimes.co.jp/news/2024/10/05/japan/society/pakistan-japan-language-carer-npo/ "Young language carer hopes to support others facing hardships in Japan")
+1 hours ago
+
+['Iron Chef' star Yukio Hattori dies at 78](https://www.japantimes.co.jp/news/2024/10/06/japan/society/food-critic-yukio-hattori-dies/ "'Iron Chef' star Yukio Hattori dies at 78")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
