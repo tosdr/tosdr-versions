@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Cancer survivor gets special graduation ceremony at Medical City Children's Hospital](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100524-lb-tyler-vinh-graduation-pkg-jb_kdfw8ae0_18_00.02.14.04.jpg?ve=1&tl=1)
+
+ ![Cancer survivor gets special graduation ceremony at Medical City Children's Hospital](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100524-lb-tyler-vinh-graduation-pkg-jb_kdfw8ae0_18_00.02.14.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/medical-city-childrens-hospital-tyler-vinh-graduation)
+
+### [Cancer survivor gets special graduation ceremony at Medical City Children's Hospital](https://www.fox4news.com/news/medical-city-childrens-hospital-tyler-vinh-graduation)
+
+ [![Milton expected to become a major hurricane before slamming into Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/ssss.jpg?ve=1&tl=1)
+
+ ![Milton expected to become a major hurricane before slamming into Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/ssss.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/milton-gulf-florida)
+
+### [Milton expected to become a major hurricane before slamming into Florida](https://www.fox4news.com/news/milton-gulf-florida)
+
  [![Father dead, son still missing after being swept underwater in Dallas creek](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1)
 
  ![Father dead, son still missing after being swept underwater in Dallas creek](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/592/333/78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mountain-creek-parkway-dallas)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Cowboys WR Brandin Cooks will miss at least 4 games because of infection in knee](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2170869220.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/cowboys-wr-brandin-cooks-will-miss-least-4-games-because-infection-knee)
 
 ### [Cowboys WR Brandin Cooks will miss at least 4 games because of infection in knee](https://www.fox4news.com/sports/cowboys-wr-brandin-cooks-will-miss-least-4-games-because-infection-knee)
-
- [![Man arrested after second police chase in two weeks, White Settlement Police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/white-settlement-chase.jpg?ve=1&tl=1)
-
- ![Man arrested after second police chase in two weeks, White Settlement Police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/white-settlement-chase.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-chase-white-settlement-adam-soras)
-
-### [Man arrested after second police chase in two weeks, White Settlement Police say](https://www.fox4news.com/news/fort-worth-police-chase-white-settlement-adam-soras)
-
- [![Dallas shooting: 1 dead in apartment near Love Field](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1)
-
- ![Dallas shooting: 1 dead in apartment near Love Field](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-1-dead-apartment-near-love-field)
-
-### [Dallas shooting: 1 dead in apartment near Love Field](https://www.fox4news.com/news/dallas-shooting-1-dead-apartment-near-love-field)
 
 ###### [News](https://www.fox4news.com/news)
 
