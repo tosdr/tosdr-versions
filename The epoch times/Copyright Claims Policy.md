@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [California Faces Wave of Lawsuits Over Gender Identity Notification in Schools](https://www.theepochtimes.com/article/california-faces-wave-of-lawsuits-over-gender-identity-notification-in-schools-5732366)
+    
+    NEW By [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
+    
+    [![California Faces Wave of Lawsuits Over Gender Identity Notification in Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![California Faces Wave of Lawsuits Over Gender Identity Notification in Schools](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5736163-Gender-California-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/california-faces-wave-of-lawsuits-over-gender-identity-notification-in-schools-5732366)
+* [Taiwan Says Ready for Communist Invasion, Report Warns of Economic Warfare](https://www.theepochtimes.com/china/taiwan-says-ready-for-communist-invasion-report-warns-of-economic-warfare-5735904)
+    
+    2hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
+    
+    [![Taiwan Says Ready for Communist Invasion, Report Warns of Economic Warfare](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Taiwan Says Ready for Communist Invasion, Report Warns of Economic Warfare](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736273-GettyImages-2157161854KO-205x123.jpg.webp)](https://www.theepochtimes.com/china/taiwan-says-ready-for-communist-invasion-report-warns-of-economic-warfare-5735904)
+* [Supreme Court Takes Up Dispute Over Nuclear Waste Storage in Texas](https://www.theepochtimes.com/us/supreme-court-takes-up-dispute-over-nuclear-waste-storage-in-texas-5736121)
+    
+    3hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Supreme Court Takes Up Dispute Over Nuclear Waste Storage in Texas](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court Takes Up Dispute Over Nuclear Waste Storage in Texas](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727522-AP24264488152821-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-takes-up-dispute-over-nuclear-waste-storage-in-texas-5736121)
+* [Opinion: CCP Targets US Shipping Infrastructure](https://www.theepochtimes.com/opinion/ccp-targets-us-shipping-infrastructure-5731335)
+    
+    4hr By [Antonio Graceffo](https://www.theepochtimes.com/author/antonio-graceffo)
+    
+    [![Opinion: CCP Targets US Shipping Infrastructure](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Opinion: CCP Targets US Shipping Infrastructure](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731339-GettyImages-2069157461-205x123.jpeg.webp)](https://www.theepochtimes.com/opinion/ccp-targets-us-shipping-infrastructure-5731335)
+* [Supreme Court to Hear Oklahoma Death Row Inmate’s Case](https://www.theepochtimes.com/us/supreme-court-to-hear-oklahoma-death-row-inmates-case-5727264)
+    
+    5hr By [Michael Clements](https://www.theepochtimes.com/author/michael-clements)
+    
+    [![Supreme Court to Hear Oklahoma Death Row Inmate’s Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court to Hear Oklahoma Death Row Inmate’s Case](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736253-5.9.2023Lea-and-Dr-Phil.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-to-hear-oklahoma-death-row-inmates-case-5727264)
+* [Texas Ghost Gun Machine Manufacturer to Face Lawsuit in California After Case Transfer Denied](https://www.theepochtimes.com/us/texas-ghost-gun-machine-manufacturer-to-face-lawsuit-in-california-after-case-transfer-denied-5736096)
+    
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Texas Ghost Gun Machine Manufacturer to Face Lawsuit in California After Case Transfer Denied](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Texas Ghost Gun Machine Manufacturer to Face Lawsuit in California After Case Transfer Denied](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736254-GettyImages-1009221006.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/texas-ghost-gun-machine-manufacturer-to-face-lawsuit-in-california-after-case-transfer-denied-5736096)
 * [Harris, Trump Campaigns Lean Into Final 30 Days of Election](https://www.theepochtimes.com/us/harris-trump-campaigns-lean-into-final-30-days-of-election-5735524)
     
-    NEW By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    7hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Harris, Trump Campaigns Lean Into Final 30 Days of Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris, Trump Campaigns Lean Into Final 30 Days of Election](https://img.theepochtimes.com/assets/uploads/2024/09/26/id5730439-Trump-Harris--205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-trump-campaigns-lean-into-final-30-days-of-election-5735524)
+    ![Harris, Trump Campaigns Lean Into Final 30 Days of Election](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734079-Trump-Harris-LS-205x123.webp)](https://www.theepochtimes.com/us/harris-trump-campaigns-lean-into-final-30-days-of-election-5735524)
 * [Musk Launches PAC to Back Candidates Focused on Secure Borders, Free Speech, Sensible Spending](https://www.theepochtimes.com/us/musk-launches-pac-to-back-candidates-focused-on-secure-borders-free-speech-sensible-spending-5736050)
     
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    16hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Musk Launches PAC to Back Candidates Focused on Secure Borders, Free Speech, Sensible Spending](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Musk Launches PAC to Back Candidates Focused on Secure Borders, Free Speech, Sensible Spending](https://img.theepochtimes.com/assets/uploads/2024/09/04/id5718256-GettyImages-2147789842KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/musk-launches-pac-to-back-candidates-focused-on-secure-borders-free-speech-sensible-spending-5736050)
-* [Day in Photos: Butler Rally, Detained Activist, and a Human Tower](https://www.theepochtimes.com/article/day-in-photos-butler-rally-detained-activist-and-human-tower-5735846)
-    
-    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Butler Rally, Detained Activist, and a Human Tower](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Butler Rally, Detained Activist, and a Human Tower](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5736094-GettyImages-2176947987-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-butler-rally-detained-activist-and-human-tower-5735846)
 * [New Mexico’s Nuclear Town Has Big Housing Problem](https://www.theepochtimes.com/article/new-mexicos-nuclear-town-has-big-housing-problem-5730461)
     
-    12hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
+    18hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
     
     [![New Mexico’s Nuclear Town Has Big Housing Problem](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![New Mexico’s Nuclear Town Has Big Housing Problem](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5736035-Nuclear-Los-Alamos-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/new-mexicos-nuclear-town-has-big-housing-problem-5730461)
 * [Keanu Reeves Spins Out During Professional Auto-Racing Debut at Indianapolis Speedway](https://www.theepochtimes.com/entertainment/keanu-reeves-spins-out-during-professional-auto-racing-debut-at-indianapolis-speedway-5735960)
     
-    12hr By [Haika Mrema](https://www.theepochtimes.com/author/haika-mrema)
+    18hr By [Haika Mrema](https://www.theepochtimes.com/author/haika-mrema)
     
     [![Keanu Reeves Spins Out During Professional Auto-Racing Debut at Indianapolis Speedway](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Keanu Reeves Spins Out During Professional Auto-Racing Debut at Indianapolis Speedway](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5735964-AP24279547206707-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/keanu-reeves-spins-out-during-professional-auto-racing-debut-at-indianapolis-speedway-5735960)
-* [Pennsylvania Supreme Court Takes Up GOP Challenge to Defective Mail-In Ballot Curing](https://www.theepochtimes.com/us/pennsylvania-supreme-court-takes-up-gop-challenge-to-defective-mail-in-ballot-curing-5735961)
-    
-    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Pennsylvania Supreme Court Takes Up GOP Challenge to Defective Mail-In Ballot Curing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Pennsylvania Supreme Court Takes Up GOP Challenge to Defective Mail-In Ballot Curing](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732881-GettyImages-2175000294-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-supreme-court-takes-up-gop-challenge-to-defective-mail-in-ballot-curing-5735961)
-* [Mortgage Rates Undergo One of the Biggest Single-Day Jumps: Report](https://www.theepochtimes.com/us/mortgage-rates-undergo-one-of-the-biggest-single-day-jumps-report-5735974)
-    
-    14hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Mortgage Rates Undergo One of the Biggest Single-Day Jumps: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Mortgage Rates Undergo One of the Biggest Single-Day Jumps: Report](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684554-New-York-home-for-sale-GettyImages-1310155972-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/mortgage-rates-undergo-one-of-the-biggest-single-day-jumps-report-5735974)
-* [Amazon Hiring 250,000 Workers Ahead of Holiday Season](https://www.theepochtimes.com/business/amazon-hiring-250000-workers-ahead-of-holiday-season-5735972)
-    
-    14hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Amazon Hiring 250,000 Workers Ahead of Holiday Season](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Amazon Hiring 250,000 Workers Ahead of Holiday Season](https://img.theepochtimes.com/assets/uploads/2024/05/19/id5653135-Amazon-logo-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/amazon-hiring-250000-workers-ahead-of-holiday-season-5735972)
-* [Trump, Harris Promise Auto Jobs for Michigan in Back-to-Back Rallies](https://www.theepochtimes.com/us/trump-harris-promise-auto-jobs-for-michigan-in-back-to-back-rallies-5735858)
-    
-    15hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
-    
-    [![Trump, Harris Promise Auto Jobs for Michigan in Back-to-Back Rallies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump, Harris Promise Auto Jobs for Michigan in Back-to-Back Rallies](https://img.theepochtimes.com/assets/uploads/2019/12/19/installs-the-front-doors-on-a-2018-Ford-F-150-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-promise-auto-jobs-for-michigan-in-back-to-back-rallies-5735858)
-* [Supreme Court to Hear Texas Death Row Challenge to DNA Testing Rules](https://www.theepochtimes.com/us/supreme-court-to-hear-texas-death-row-challenge-to-dna-testing-rules-5735627)
-    
-    15hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Supreme Court to Hear Texas Death Row Challenge to DNA Testing Rules](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court to Hear Texas Death Row Challenge to DNA Testing Rules](https://img.theepochtimes.com/assets/uploads/2024/07/17/id5688266-Ruben-Gutierrez-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-to-hear-texas-death-row-challenge-to-dna-testing-rules-5735627)
+    ![Keanu Reeves Spins Out During Professional Auto-Racing Debut at Indianapolis Speedway](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736255-AP24279547206707.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/keanu-reeves-spins-out-during-professional-auto-racing-debut-at-indianapolis-speedway-5735960)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
