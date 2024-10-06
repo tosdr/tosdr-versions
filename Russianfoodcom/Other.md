@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Рис с мясом (в микроволновке)](https://www.russianfood.com/recipes/recipe.php?rid=169273)
+* [Кабачки с морковью, по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=174363)
+* [Помидоры, запечённые с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174387)
 * [Салат с нежным сыром буррата и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174416)
 * [Томатная самса с фаршем и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174281)
-* [Закуска "Глаз дракона" из колбасы с сыром и оливками](https://www.russianfood.com/recipes/recipe.php?rid=172153)
 * [Сосиски на хлебных подушках с сырной корочкой](https://www.russianfood.com/recipes/recipe.php?rid=172578)
 * [Щавелевый суп с охотничьими колбасками](https://www.russianfood.com/recipes/recipe.php?rid=173379)
 * [Окрошка на белом квасе с хреном](https://www.russianfood.com/recipes/recipe.php?rid=173835)
 * [Хлеб домашний](https://www.russianfood.com/recipes/recipe.php?rid=24081)
 * [Хлеб домашний](https://www.russianfood.com/recipes/recipe.php?rid=36375)
-* [Хлеб картофельный](https://www.russianfood.com/recipes/recipe.php?rid=42200)
+* [Пирог по-фински (камкукко)](https://www.russianfood.com/recipes/recipe.php?rid=46002)
 
 |     |
 | --- |
@@ -179,6 +179,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Яркий вид, отменный вкус! Время СВЁКЛЫ (23)](https://www.russianfood.com/reading/?post_id=22692) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/641/sm_640597.jpg)](https://www.russianfood.com/reading/?post_id=22692)
+
+Свекольная закуска с беконом. Свёкла с фасолью и сливками. Салат со свёклой, нутом и фетой. Свекольные котлеты с черносливом. Борщ с квашеной капустой, фасолью и грибами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22692)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22692#comments) | 06.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Мясные новшества. ОТБИВНЫЕ по-необычному (9)](https://www.russianfood.com/reading/?post_id=22691) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/600/sm_599829.jpg)](https://www.russianfood.com/reading/?post_id=22691)
+
+Куриные отбивные в майонезном кляре и панировочных сухарях. Куриные отбивные под яично-овощной шубкой и сыром. Отбивные из свинины в картофельной шубке. Свиные отбивные в кляре на минеральной воде.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22691)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22691#comments) | 06.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Каждый рецепт – вдохновение! Лучшие СЛАДОСТИ №24-40](https://www.russianfood.com/reading/?post_id=22690) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/739/sm_738325.jpg)](https://www.russianfood.com/reading/?post_id=22690)
+
+Насыпной пирог с творогом и сливами. Десерт с печеньем и сливочно-сырным кремом. Пирог с маком, изюмом и орехами. Пряный кекс на йогурте, с виноградом и овсяными хлопьями. Слоёные палочки с пряностями. Творожное печенье с тыквой и яблоками. Яблочный зефир на агар-агаре.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22690)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22690#comments) | 06.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -348,48 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174341#comments) | 03.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Сливочный суп с цветной капустой и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174332) |     |
-
-[![Фото к рецепту: Сливочный суп с цветной капустой и брокколи](//img1.russianfood.com/dycontent/images_upl/742/sm_741455.jpg "Фото к рецепту: Сливочный суп с цветной капустой и брокколи")](https://www.russianfood.com/recipes/recipe.php?rid=174332)
-
-Простейший суп из овощей со сливками, который можно приготовить менее чем за полчаса. В кастрюле с водой сперва варятся картофель и морковь, а затем добавляются два вида капусты. В конце приготовления в суп вливаются сливки.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174332)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174332#comments) | 03.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Крем-суп из батата с сельдереем и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174330) |     |
-
-[![Фото к рецепту: Крем-суп из батата с сельдереем и имбирём](//img1.russianfood.com/dycontent/images_upl/742/sm_741456.jpg "Фото к рецепту: Крем-суп из батата с сельдереем и имбирём")](https://www.russianfood.com/recipes/recipe.php?rid=174330)
-
-Суп-пюре из сладкого батата и корня сельдерея. Разнообразие специй, свежая мята, чеснок, корень имбиря придают блюду яркий вкус. Сливки смягчают его и делают суп нежным.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174330)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174330#comments) | 03.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Суп элеш с говядиной](https://www.russianfood.com/recipes/recipe.php?rid=173410) |     |
-
-[![Фото к рецепту: Суп элеш с говядиной](//img1.russianfood.com/dycontent/images_upl/737/sm_736685.jpg "Фото к рецепту: Суп элеш с говядиной")](https://www.russianfood.com/recipes/recipe.php?rid=173410)
-
-Башкирский элеш может быть и супом, и вторым блюдом. Наваристый говяжий бульон, овощи и обилие зелени. Маринованный лук отлично всё это дополняет. Подавать мясо и овощи можно сразу с бульоном, как обычный суп, а можно бульон подать отдельно.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173410)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173410#comments) | 03.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -461,8 +461,8 @@
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741403.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174363) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741389.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741127.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174409) |
-| [Кабачки с морковью, по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=174363) | [Сочные котлеты из фарша с кабачком, морковью и луком](https://www.russianfood.com/recipes/recipe.php?rid=174349) | [Крем-суп из батата с сельдереем и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [Шоколадный торт на кефире, с кремом из сгущёнки и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174409) |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741403.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174363) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741127.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741456.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741389.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174349) |
+| [Кабачки с морковью, по-корейски](https://www.russianfood.com/recipes/recipe.php?rid=174363) | [Шоколадный торт на кефире, с кремом из сгущёнки и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174409) | [Крем-суп из батата с сельдереем и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174330) | [Сочные котлеты из фарша с кабачком, морковью и луком](https://www.russianfood.com/recipes/recipe.php?rid=174349) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -478,3 +478,5 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
+
+(139)
