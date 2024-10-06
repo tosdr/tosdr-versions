@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-075c301cbdc8cc32845cc32d5999275f
+546df27b77c353d047e65a643208edc0
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm silver oval pearls](https://sojourner.biz/images/cache/pearls/PE0144.200.jpg)](https://sojourner.biz/beads/pearls/8-mm-silver-oval-pearls.html "8 mm silver oval pearls")
+[![6 mm side-drilled oval pink pearls](https://sojourner.biz/images/cache/pearls/PE0038.200.jpg)](https://sojourner.biz/beads/pearls/6-mm-side-drilled-oval-pink-pearls.html "6 mm side-drilled oval pink pearls")
 
-#### [8 mm silver oval pearls](https://sojourner.biz/beads/pearls/8-mm-silver-oval-pearls.html "8 mm silver oval pearls")
+#### [6 mm side-drilled oval pink pearls](https://sojourner.biz/beads/pearls/6-mm-side-drilled-oval-pink-pearls.html "6 mm side-drilled oval pink pearls")
 
-$19.00
+$9.00
 
 ### Best Sellers
 
