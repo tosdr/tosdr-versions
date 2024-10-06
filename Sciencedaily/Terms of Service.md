@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 5, 2024**
+**October 6, 2024**
 
 * * *
 
@@ -229,9 +229,9 @@ this hour
 
 * * *
 
+* [How Pterosaurs Became Terrestrial Titans](https://www.sciencedaily.com/releases/2024/10/241004121701.htm)
 * [Rare Monkey Fossils](https://www.sciencedaily.com/releases/2024/10/241002135241.htm)
 * [Neuroscientists Reactivate Memory Circuit ...](https://www.sciencedaily.com/releases/2024/10/241001124654.htm)
-* [How Pterosaurs Became Towering Terrestrial ...](https://www.sciencedaily.com/releases/2024/10/241004121701.htm)
 * [Auditory 'Sixth Sense' in Geckos](https://www.sciencedaily.com/releases/2024/10/241004121658.htm)
 * [Kids: Half Calories from Ultra-Processed Foods](https://www.sciencedaily.com/releases/2024/10/241003221629.htm)
 * [Living Microbes Inside 2-Billion-Year-Old Rock](https://www.sciencedaily.com/releases/2024/10/241003123543.htm)
