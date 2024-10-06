@@ -64,13 +64,13 @@ Offers
     
     [LEARN MORE](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer)
     
-* [Halloween Deals Near You! image link ![Halloween Deals Near You!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/d34c20c0-7f8e-11ef-a07e-5b03d6159fe4--fan-globalofferunit-halloweenoffers-week1-292x118.png)](https://fandan.co/HalloweenTheaterDeals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer) 
+* [Save $5 on Smile & Smile 2 Pre-Order Bundle image link ![Save $5 on Smile & Smile 2 Pre-Order Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a9d76f40-7d3d-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-smile2-292x118.png)](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer) 
     
-    ### Halloween Deals Near You!
+    ### Save $5 on Smile & Smile 2 Pre-Order Bundle
     
-    Your favorite Halloween classics at spooky good prices are just a click away.
+    Buy a Ticket, Save $5 on Smile & Smile 2 Pre-Order Bundle to watch at home.
     
-    [GET TICKETS](https://fandan.co/HalloweenTheaterDeals?cmp=TARS~FANDANGO~Halloween_Theater_Deals_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer)
     
 * [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
     
