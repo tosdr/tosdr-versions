@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Calculation and reasoning, like weaving and ploughing, are work, not for human souls, but for clever combinations of iron and wood”
+“ The mind is not a vessel that needs filling, but wood that needs igniting”
 
-[Mary Boole](http://books.google.com/books?oe=UTF-8&id=k7s0AAAAMAAJ&q=calculation#v=onepage&q=calculation&f=false)
+[Plutarch](https://en.wikipedia.org/wiki/Plutarch)
 
 [](https://www.adafruit.com/about)
 
