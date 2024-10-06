@@ -206,7 +206,15 @@ Brasil
 
 Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados
 
-Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados](https://www.tnh1.com.br/noticia/nid/cid-moreira-deserdou-filhos-e-patrimonio-seria-de-r-60-milhoes-dizem-advogados/ "Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados")[![Casal é preso com arsenal de armas de diferentes países em carro com criança](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/e/csm_casal-preso-arsenal-armas-reproducao-PRF_ebb20fd5a8.jpg)
+Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados](https://www.tnh1.com.br/noticia/nid/cid-moreira-deserdou-filhos-e-patrimonio-seria-de-r-60-milhoes-dizem-advogados/ "Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados")[![Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/6/csm_filhos-harry-meghan-foto-divulgacao_c8f56bcc27.jpg)
+
+Crise?
+
+Crise?
+
+Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal
+
+Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal](https://www.tnh1.com.br/noticia/nid/harry-passou-a-noite-de-seu-aniversario-de-40-anos-longe-de-meghan-markle-caminhando-com-amigos-revela-jornal/ "Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal")[![Casal é preso com arsenal de armas de diferentes países em carro com criança](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/e/csm_casal-preso-arsenal-armas-reproducao-PRF_ebb20fd5a8.jpg)
 
 No Paraná
 
@@ -214,15 +222,7 @@ No Paraná
 
 Casal é preso com arsenal de armas de diferentes países em carro com criança
 
-Casal é preso com arsenal de armas de diferentes países em carro com criança](https://www.tnh1.com.br/noticia/nid/casal-e-preso-com-arsenal-de-armas-de-diferentes-paises-em-carro-com-crianca/ "Casal é preso com arsenal de armas de diferentes países em carro com criança")[![Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/3/csm_crianca-sequestrada-japaratinga_153d50ef13.jpg)
-
-Com ajuda de dois
-
-Com ajuda de dois
-
-Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas
-
-Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas](https://www.tnh1.com.br/noticia/nid/pai-invade-casa-armado-sequestra-filho-de-3-anos-e-e-preso-em-hotel-em-alagoas/ "Pai invade casa armado, sequestra filho de 3 anos e é preso em hotel em Alagoas")[![Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/e/csm_seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-em-parceria-com-a-liberty-education_c4d80ccbf2.jpg)
+Casal é preso com arsenal de armas de diferentes países em carro com criança](https://www.tnh1.com.br/noticia/nid/casal-e-preso-com-arsenal-de-armas-de-diferentes-paises-em-carro-com-crianca/ "Casal é preso com arsenal de armas de diferentes países em carro com criança")[![Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/e/csm_seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-em-parceria-com-a-liberty-education_c4d80ccbf2.jpg)
 
 processo seletivo
 
@@ -232,7 +232,31 @@ Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscr
 
 Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever](https://www.tnh1.com.br/noticia/nid/seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-veja-como-se-inscrever/ "Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ")
 
-[![Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/6/csm_Marcal_boulos_51679e1997.png)
+[![Concurso dos Correios destina 30% das vagas para negros e indígenas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/d/csm_correios_agencia_81349ea69f.png)
+
+Concursos
+
+Concursos
+
+Concurso dos Correios destina 30% das vagas para negros e indígenas
+
+Concurso dos Correios destina 30% das vagas para negros e indígenas](https://www.tnh1.com.br/noticia/nid/concurso-dos-correios-destina-30-das-vagas-para-negros-e-indigenas/ "Concurso dos Correios destina 30% das vagas para negros e indígenas")[![Homem é preso após fingir ser João Guilherme para obter cartão de crédito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/6/csm_Joao_Guilherme_ef23bd1a16.png)
+
+Brasil
+
+Brasil
+
+Homem é preso após fingir ser João Guilherme para obter cartão de crédito
+
+Homem é preso após fingir ser João Guilherme para obter cartão de crédito](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-fingir-ser-joao-guilherme-para-obter-cartao-de-credito/ "Homem é preso após fingir ser João Guilherme para obter cartão de crédito")[![Após falso laudo médico, Justiça determina suspensão do perfil de Pablo Marçal no Instagram](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/2/csm_TRE_SP_28e65202a1.png)
+
+Eleições
+
+Eleições
+
+Após falso laudo médico, Justiça determina suspensão do perfil de Pablo Marçal no Instagram
+
+Após falso laudo médico, Justiça determina suspensão do perfil de Pablo Marçal no Instagram](https://www.tnh1.com.br/noticia/nid/apos-falso-laudo-medico-justica-determina-suspensao-do-perfil-de-pablo-marcal-no-instagram/ "Após falso laudo médico, Justiça determina suspensão do perfil de Pablo Marçal no Instagram")[![Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/6/csm_Marcal_boulos_51679e1997.png)
 
 Política
 
@@ -240,31 +264,7 @@ Política
 
 Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição
 
-Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição](https://www.tnh1.com.br/noticia/nid/marcal-pode-sofrer-condenacoes-e-ficar-inelegivel-por-laudo-falso-mas-seguira-nesta-eleicao/ "Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição")[![Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados](https://tnh1-cdn1.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/03/1_cid_moreira-reproducao_redes_sociais.jpg)
-
-Brasil
-
-Brasil
-
-Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados
-
-Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados](https://www.tnh1.com.br/noticia/nid/cid-moreira-deserdou-filhos-e-patrimonio-seria-de-r-60-milhoes-dizem-advogados/ "Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados")[![Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/4/csm_acidente_feitosa_336e85f8da.png)
-
-Trânsito
-
-Trânsito
-
-Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário
-
-Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário](https://www.tnh1.com.br/noticia/nid/onibus-desgovernado-sobra-na-pista-e-derruba-poste-proximo-ao-terminal-rodoviario/ "Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ")[![Alisson sofre lesão em jogo do Liverpool e pode desfalcar seleção](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/b/csm_alisson_CBF_bfc2f933d1.png)
-
-Futebol
-
-Futebol
-
-Alisson sofre lesão em jogo do Liverpool e pode desfalcar seleção
-
-Alisson sofre lesão em jogo do Liverpool e pode desfalcar seleção](https://www.tnh1.com.br/noticia/nid/alisson-sofre-lesao-em-jogo-do-liverpool-e-pode-desfalcar-selecao/ "Alisson sofre lesão em jogo do Liverpool e pode desfalcar seleção")
+Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição](https://www.tnh1.com.br/noticia/nid/marcal-pode-sofrer-condenacoes-e-ficar-inelegivel-por-laudo-falso-mas-seguira-nesta-eleicao/ "Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
