@@ -262,21 +262,21 @@ Top of Today
     
     ### [Mom left paralyzed daughter stuck between bed and wall for a week because she wanted her to 'get up on her own' as maggots crawled in wounds: Cops](https://lawandcrime.com/crime/mom-left-paralyzed-daughter-stuck-between-bed-and-wall-for-a-week-because-she-wanted-her-to-get-up-on-her-own-as-maggots-crawled-in-wounds-cops/)
     
-2. [![Michael Oliveras](https://am21.mediaite.com/lc/cnt/uploads/2024/10/j6-432x243.jpg)](https://lawandcrime.com/crime/id-do-it-again-trump-supporter-who-thought-the-insurrection-act-was-in-motion-and-said-jan-6-was-precisely-what-we-want-just-learned-his-punishment/)
+2. [![Hoyt Webb (KXLY).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/spokaneshoot-432x243.jpg)](https://lawandcrime.com/crime/i-still-dont-believe-what-he-got-was-fair-man-who-livestreamed-himself-shooting-a-homeless-man-gets-3-years-in-jail/)
+    
+    ### ['I still don't believe what he got was fair': Man who livestreamed himself shooting a homeless man gets 3 years in jail](https://lawandcrime.com/crime/i-still-dont-believe-what-he-got-was-fair-man-who-livestreamed-himself-shooting-a-homeless-man-gets-3-years-in-jail/)
+    
+3. [![A day care worker at Zionsville Presbyterian Church is accused of breaking a 2-year-old boy's leg (WTHR).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/daycare-1-432x243.jpg)](https://lawandcrime.com/crime/day-care-worker-said-boy-whose-leg-snapped-while-she-was-playing-with-him-was-a-crybaby-and-not-really-a-nice-kid-cops/)
+    
+    ### [Day care worker said boy whose leg 'snapped' while she was 'playing' with him was a 'crybaby' and 'not really a nice kid': Cops](https://lawandcrime.com/crime/day-care-worker-said-boy-whose-leg-snapped-while-she-was-playing-with-him-was-a-crybaby-and-not-really-a-nice-kid-cops/)
+    
+4. [![Background: The aftermath of a tanker-truck crash that killed five people in Springfield, Ill. Inset: Footage of a car believed to have been connected to the crash (WCIA/YouTube).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Illinois-tanker-crash-432x243.jpg)](https://lawandcrime.com/high-profile/totally-my-bad-wow-holy-s-teen-driver-says-fatal-tanker-crash-toxic-chemical-spill-may-have-been-her-fault-after-watching-dashcam-video/)
+    
+    ### ['Totally my bad. Wow. Holy s---': Teen driver says fatal tanker crash, toxic chemical spill may have been her fault after watching dashcam video](https://lawandcrime.com/high-profile/totally-my-bad-wow-holy-s-teen-driver-says-fatal-tanker-crash-toxic-chemical-spill-may-have-been-her-fault-after-watching-dashcam-video/)
+    
+5. [![Michael Oliveras](https://am21.mediaite.com/lc/cnt/uploads/2024/10/j6-432x243.jpg)](https://lawandcrime.com/crime/id-do-it-again-trump-supporter-who-thought-the-insurrection-act-was-in-motion-and-said-jan-6-was-precisely-what-we-want-just-learned-his-punishment/)
     
     ### ['I'd do it again': Trump supporter who thought the Insurrection Act was 'in motion' and said Jan. 6 was 'precisely what we want' just learned his punishment](https://lawandcrime.com/crime/id-do-it-again-trump-supporter-who-thought-the-insurrection-act-was-in-motion-and-said-jan-6-was-precisely-what-we-want-just-learned-his-punishment/)
-    
-3. [![Mark Meadows, on the left; Fani Willis, on the right.](https://am24.mediaite.com/lc/cnt/uploads/2023/09/Mark-Meadows-Fani-Willis-1-432x243.jpg)](https://lawandcrime.com/high-profile/entirely-omits-relevant-precedent-fani-willis-tells-supreme-court-to-keep-mark-meadows-rico-case-in-state-court/)
-    
-    ### ['Entirely omits relevant precedent': Fani Willis tells Supreme Court to keep Mark Meadows RICO case in state court](https://lawandcrime.com/high-profile/entirely-omits-relevant-precedent-fani-willis-tells-supreme-court-to-keep-mark-meadows-rico-case-in-state-court/)
-    
-4. [![Christopher Luis Gonzalez (Miami-Dade County Corrections and Rehabilitation).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/miamiattack-432x243.jpg)](https://lawandcrime.com/crime/who-are-you-f-ing-man-tells-ex-girlfriend-your-life-will-end-tonight-beats-her-in-terrifying-attack-after-accusing-her-of-cheating-police-say/)
-    
-    ### ['Who are you f---ing?': Man tells ex-girlfriend 'your life will end tonight,' beats her in terrifying attack after accusing her of cheating, police say](https://lawandcrime.com/crime/who-are-you-f-ing-man-tells-ex-girlfriend-your-life-will-end-tonight-beats-her-in-terrifying-attack-after-accusing-her-of-cheating-police-say/)
-    
-5. [![Background: FILE - Violent rioters loyal to President Donald Trump storm the Capitol in Washington on Jan. 6, 2021 (AP Photo/John Minchillo, File). Insets, top to bottom: James Link Behymer, Donald Lee Moss (Dept. of Justice court filing).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/James-Behymer-Donald-Lee-Moss-Jan.-6-432x243.jpg)](https://lawandcrime.com/high-profile/go-back-to-the-gestapo-training-camp-man-threw-punches-used-chair-to-stop-door-from-closing-as-jan-6-mob-closed-in-on-capitol/)
-    
-    ### ['Go back to the Gestapo training camp!': Man threw punches, used chair to stop door from closing as Jan. 6 mob closed in on Capitol](https://lawandcrime.com/high-profile/go-back-to-the-gestapo-training-camp-man-threw-punches-used-chair-to-stop-door-from-closing-as-jan-6-mob-closed-in-on-capitol/)
     
 
 [](http://eepurl.com/c89Jdb)
