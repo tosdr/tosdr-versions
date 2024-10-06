@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,561
+* 8,571
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,930
+* 7,931
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 16,918
+* 16,927
 * 10
 
 Announcing the end of life of Waterfall​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,108
+* 14,114
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,804
+* 23,816
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,325
+* 8,331
 * 1
 
 ### The 1.20.4 Update​
@@ -641,7 +641,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,851
+* 14,852
 * 1
 
 ### The 1.20.2 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,437
+* 13,440
 * 9
 
 ### The 1.20(.1) Update​
@@ -954,7 +954,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,591
+* 13,592
 * 1
 
 ### The 1.19.3 Update​
@@ -1051,7 +1051,7 @@ Jul **30**
 * [Jul 30, 2022](https://papermc.io/threads/paper-1-19-1.394/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,894
+* 14,897
 * 1
 
 ### The 1.19.1 Update​
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,191
+* 37,193
 * 18
 
 ### The 1.19 Update​
@@ -1217,7 +1217,7 @@ Jan **04**
 * [Jan 4, 2022](https://papermc.io/threads/paper-1-18-and-more.6/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,942
+* 23,943
 * 17
 
 ### The 1.18 update​
@@ -1295,7 +1295,7 @@ Dec **14**
 * [Dec 14, 2021](https://papermc.io/threads/welcome-to-papermc.1/)
 * [kashike](https://papermc.io/home/authors/kashike.1/)
 
-* 8,691
+* 8,693
 * 2
 
 [![kashike](https://secure.gravatar.com/avatar/c50766d24721f3cdd0ff9e8ead43134b?s=48)](https://papermc.io/members/kashike.1/)
@@ -1316,9 +1316,9 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 ### [Members online](https://papermc.io/online/)
 
-* [bopontop](https://papermc.io/members/bopontop.11562/)
+No members online now.
 
-Total: 37 (members: 1, guests: 36)
+Total: 19 (members: 0, guests: 19)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
@@ -1329,7 +1329,7 @@ Total: 37 (members: 1, guests: 36)
 Question [Paper doesn't seem to be following generator-settings](https://papermc.io/threads/paper-doesnt-seem-to-be-following-generator-settings.1399/)
 
 * [bopontop](https://papermc.io/members/bopontop.11562/)
-* [Today at 6:46 PM](https://papermc.io/threads/paper-doesnt-seem-to-be-following-generator-settings.1399/)
+* [Yesterday at 6:46 PM](https://papermc.io/threads/paper-doesnt-seem-to-be-following-generator-settings.1399/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
@@ -1338,9 +1338,9 @@ Replies
 
 Views
 
-15
+24
 
-[Help](https://papermc.io/forums/paper-help/) [Today at 6:46 PM](https://papermc.io/threads/paper-doesnt-seem-to-be-following-generator-settings.1399/latest)
+[Help](https://papermc.io/forums/paper-help/) [Yesterday at 6:46 PM](https://papermc.io/threads/paper-doesnt-seem-to-be-following-generator-settings.1399/latest)
 
 [bopontop](https://papermc.io/members/bopontop.11562/)
 
@@ -1353,7 +1353,7 @@ Views
 Question [Error while setting up server](https://papermc.io/threads/error-while-setting-up-server.1398/)
 
 * [ThatBananaGuy](https://papermc.io/members/thatbananaguy.11560/)
-* [Today at 3:32 PM](https://papermc.io/threads/error-while-setting-up-server.1398/)
+* [Yesterday at 3:32 PM](https://papermc.io/threads/error-while-setting-up-server.1398/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
@@ -1364,7 +1364,7 @@ Views
 
 26
 
-[Help](https://papermc.io/forums/paper-help/) [Today at 3:52 PM](https://papermc.io/threads/error-while-setting-up-server.1398/latest)
+[Help](https://papermc.io/forums/paper-help/) [Yesterday at 3:52 PM](https://papermc.io/threads/error-while-setting-up-server.1398/latest)
 
 [mbaxter](https://papermc.io/members/mbaxter.18/)
 
@@ -1388,7 +1388,7 @@ Views
 
 1K
 
-[Plugin Development](https://papermc.io/forums/velocity-plugin-development/) [Today at 2:54 AM](https://papermc.io/threads/mysql-jdbc-driver-not-found-using-mysql-driver-dependency.1058/latest)
+[Plugin Development](https://papermc.io/forums/velocity-plugin-development/) [Yesterday at 2:54 AM](https://papermc.io/threads/mysql-jdbc-driver-not-found-using-mysql-driver-dependency.1058/latest)
 
 [getsmod0](https://papermc.io/members/getsmod0.11549/)
 
@@ -1401,7 +1401,7 @@ Views
 Question [Where did this error come from and how to fix it?](https://papermc.io/threads/where-did-this-error-come-from-and-how-to-fix-it.1397/)
 
 * [Reizi](https://papermc.io/members/reizi.9279/)
-* [Yesterday at 3:44 PM](https://papermc.io/threads/where-did-this-error-come-from-and-how-to-fix-it.1397/)
+* [Friday at 3:44 PM](https://papermc.io/threads/where-did-this-error-come-from-and-how-to-fix-it.1397/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
@@ -1410,9 +1410,9 @@ Replies
 
 Views
 
-35
+42
 
-[Help](https://papermc.io/forums/paper-help/) [Yesterday at 3:44 PM](https://papermc.io/threads/where-did-this-error-come-from-and-how-to-fix-it.1397/latest)
+[Help](https://papermc.io/forums/paper-help/) [Friday at 3:44 PM](https://papermc.io/threads/where-did-this-error-come-from-and-how-to-fix-it.1397/latest)
 
 [Reizi](https://papermc.io/members/reizi.9279/)
 
@@ -1434,7 +1434,7 @@ Replies
 
 Views
 
-75
+80
 
 [Help](https://papermc.io/forums/paper-help/) [Thursday at 8:43 PM](https://papermc.io/threads/server-crashes-every-day.1396/latest)
 
@@ -1458,7 +1458,7 @@ Replies
 
 Views
 
-190
+191
 
 [Plugin Releases](https://papermc.io/forums/velocity-plugin-releases/) [Tuesday at 1:58 AM](https://papermc.io/threads/velocitybroadcast-version-0-8.1370/latest)
 
@@ -1482,7 +1482,7 @@ Replies
 
 Views
 
-161
+162
 
 [Help](https://papermc.io/forums/velocity-help/) [Sep 16, 2024](https://papermc.io/threads/server-switch-sign.1348/latest)
 
@@ -1506,7 +1506,7 @@ Replies
 
 Views
 
-263
+267
 
 [Help](https://papermc.io/forums/velocity-help/) [Sep 15, 2024](https://papermc.io/threads/getting-error-java-lang-illegalstateexception-backend-server-is-online-mode-no-matter-what-i-do.1342/latest)
 
@@ -1528,7 +1528,7 @@ Replies
 
 Views
 
-214
+215
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Sep 14, 2024](https://papermc.io/threads/making-an-entity-lie-down.1341/latest)
 
