@@ -190,15 +190,6 @@
 
 Subscribe
 
-[#### Heart Health](https://www.healthline.com/heart-health)
-
-* [Basics](https://www.healthline.com/heart-health/basics)
-* [Cholesterol](https://www.healthline.com/heart-health/cholesterol)
-* [High Blood Pressure](https://www.healthline.com/heart-health/hypertension)
-* [What to Eat](https://www.healthline.com/heart-health/diet)
-* [Prevention and Lifestyle](https://www.healthline.com/heart-health/prevention)
-* [Afib](https://www.healthline.com/heart-health/afib)
-
 Ad & Sponsorship Policy
 =======================
 
