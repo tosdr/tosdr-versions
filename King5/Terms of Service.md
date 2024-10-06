@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d2532814-32f8-4235-bed9-629cfd6709cc/20241006T000118/d2532814-32f8-4235-bed9-629cfd6709cc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d2532814-32f8-4235-bed9-629cfd6709cc/20241006T000118/d2532814-32f8-4235-bed9-629cfd6709cc_360x203.jpg)](https://www.king5.com/article/news/local/endangered-southern-resident-orcas-spotted-puget-sound/281-741d5494-cb43-4f1e-9a02-75f09414af21)
+    *  [![](https://media.king5.com/assets/KING/images/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6/20241006T140833/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6/20241006T140833/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6_360x203.jpg)](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
         
-        #### [For the first time since spring, endangered Southern Resident orcas return to Puget Sound](https://www.king5.com/article/news/local/endangered-southern-resident-orcas-spotted-puget-sound/281-741d5494-cb43-4f1e-9a02-75f09414af21)
+        #### [Thurston County Sheriff Derek Sanders struck by impaired driver in Lacey](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797) [![](https://media.king5.com/assets/KING/images/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6/20241006T140833/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6/20241006T140833/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6_360x203.jpg)](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
         
-    *  [![](https://media.king5.com/assets/KING/images/c5b4316f-6ddb-44f1-b4a4-8284fdcc19ff/20241006T031014/c5b4316f-6ddb-44f1-b4a4-8284fdcc19ff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c5b4316f-6ddb-44f1-b4a4-8284fdcc19ff/20241006T031014/c5b4316f-6ddb-44f1-b4a4-8284fdcc19ff_360x203.jpg)](https://www.king5.com/article/news/local/washington-pulls-away-4th-quarter-beat-michigan-27-17/281-55b9b3cf-6703-438a-b71e-9ec7f997420e)
+        #### [Suspected impaired driver hits Thurston County sheriff in Lacey](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
+    *  [![](https://media.king5.com/assets/KING/images/a99b81f2-2036-4da3-912c-3e42609edb29/20241005T185905/a99b81f2-2036-4da3-912c-3e42609edb29_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a99b81f2-2036-4da3-912c-3e42609edb29/20241005T185905/a99b81f2-2036-4da3-912c-3e42609edb29_360x203.jpg)](https://www.king5.com/article/entertainment/16th-annual-seattle-latino-film-festival-highlights-cinema-art-culture/281-2def03e4-5120-46af-877e-40ff7a0bccf3)
         
-        #### [Washington pulls away in 4th quarter to beat No. 10 Michigan 27-17](https://www.king5.com/article/news/local/washington-pulls-away-4th-quarter-beat-michigan-27-17/281-55b9b3cf-6703-438a-b71e-9ec7f997420e)
+        #### [16th annual Seattle Latino Film Festival highlights cinema, art and culture](https://www.king5.com/article/entertainment/16th-annual-seattle-latino-film-festival-highlights-cinema-art-culture/281-2def03e4-5120-46af-877e-40ff7a0bccf3)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+49°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
