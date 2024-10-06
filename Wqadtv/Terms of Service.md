@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a4efe6fb-2d9f-4149-8511-b5c80966ee4c/20241005T025727/a4efe6fb-2d9f-4149-8511-b5c80966ee4c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a4efe6fb-2d9f-4149-8511-b5c80966ee4c/20241005T025727/a4efe6fb-2d9f-4149-8511-b5c80966ee4c_360x203.jpg)](https://www.wqad.com/article/news/education/monmouth-college-inaugurates-its-15th-president/526-79677d17-be07-494d-a18f-150fd0fa3ee1)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/09efface-925a-4d74-b127-e7b43948f7fd/20241005T220858/09efface-925a-4d74-b127-e7b43948f7fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/09efface-925a-4d74-b127-e7b43948f7fd/20241005T220858/09efface-925a-4d74-b127-e7b43948f7fd_360x203.jpg)](https://www.wqad.com/article/news/politics/elections/1-month-to-election-day-iowa-illinois-congressional-races/526-f6975eea-8f8e-4bcf-ad75-24116f7391f0)
         
-        #### [Monmouth College welcomes 15th president](https://www.wqad.com/article/news/education/monmouth-college-inaugurates-its-15th-president/526-79677d17-be07-494d-a18f-150fd0fa3ee1)
+        #### [1 month to Election Day: Iowa, Illinois congressional races shaping up to be competitive once again](https://www.wqad.com/article/news/politics/elections/1-month-to-election-day-iowa-illinois-congressional-races/526-f6975eea-8f8e-4bcf-ad75-24116f7391f0)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c1133124-54bf-434c-847e-a13f3d6f203b/20241004T234442/c1133124-54bf-434c-847e-a13f3d6f203b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c1133124-54bf-434c-847e-a13f3d6f203b/20241004T234442/c1133124-54bf-434c-847e-a13f3d6f203b_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-junior-theatre-new-home/526-7d60acf7-f7b2-479a-8d43-fda01591d4ff)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/07d2cef4-e07d-4ba5-9767-6981c90cdb89/20240918T102047/07d2cef4-e07d-4ba5-9767-6981c90cdb89_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/07d2cef4-e07d-4ba5-9767-6981c90cdb89/20240918T102047/07d2cef4-e07d-4ba5-9767-6981c90cdb89_360x203.jpg)](https://www.wqad.com/article/news/politics/elections/1-month-to-election-day-university-of-iowa-students-young-voters-issues/526-06286b44-28eb-4853-9f0b-98d062300056)
         
-        #### [City staff searching for Davenport Junior Theatre's new home](https://www.wqad.com/article/news/local/davenport-junior-theatre-new-home/526-7d60acf7-f7b2-479a-8d43-fda01591d4ff)
+        #### [1 month to Election Day: University of Iowa students share what issues are most important to them](https://www.wqad.com/article/news/politics/elections/1-month-to-election-day-university-of-iowa-students-young-voters-issues/526-06286b44-28eb-4853-9f0b-98d062300056)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/CCT/images/a3b1d1d0-7537-4a75-9789-43256d2f56de/20241006T152617/a3b1d1d0-7537-4a75-9789-43256d2f56de_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/a3b1d1d0-7537-4a75-9789-43256d2f56de/20241006T152617/a3b1d1d0-7537-4a75-9789-43256d2f56de_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-storm-milton-path/507-e932ea8e-2328-4f50-b3ba-7186c4038422)
+        
+        #### [Hurricane Milton has formed and could grow stronger before hitting Florida midweek](https://www.wqad.com/article/news/nation-world/tropical-storm-milton-path/507-e932ea8e-2328-4f50-b3ba-7186c4038422)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b789bdce-a6c4-4ca0-a335-993e5cc76f55/20241006T120705/b789bdce-a6c4-4ca0-a335-993e5cc76f55_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b789bdce-a6c4-4ca0-a335-993e5cc76f55/20241006T120705/b789bdce-a6c4-4ca0-a335-993e5cc76f55_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Much cooler to end the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-    *  [![](https://media.tegna-media.com/assets/CCT/images/ed09a3b5-59c7-4886-9d16-632455e340de/20241005T175057/ed09a3b5-59c7-4886-9d16-632455e340de_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ed09a3b5-59c7-4886-9d16-632455e340de/20241005T175057/ed09a3b5-59c7-4886-9d16-632455e340de_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-depression-14-could-intensify-into-hurricane-threatening-florida/507-eb787c98-da1d-42c9-a486-b23f45d99a96)
-        
-        #### [Florida on alert as Tropical Storm Milton forms in the Gulf](https://www.wqad.com/article/news/nation-world/tropical-depression-14-could-intensify-into-hurricane-threatening-florida/507-eb787c98-da1d-42c9-a486-b23f45d99a96)
         
     
 * [Sports](https://www.wqad.com/sports)
