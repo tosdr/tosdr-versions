@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I'm really enjoying the service so far.
+I am very pleased with your continued support and obvious keenness to keep up with the competition. I also run my own business and I take a lot of care and time in my product. I looked around for a while. In my opinion nothing's as good as yours!! I consequently subscribed to you again for one year rather than just one month.
 
-Gareth Wynn
+Lee Osborne
