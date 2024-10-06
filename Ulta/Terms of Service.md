@@ -154,13 +154,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=makeup)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/featured/nyx_face_glue_launch)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/it-brushes-ulta-x-wicked-limited-edition-blush-foundation-makeup-brush-set-pimprod2048162)
         
-        NYX Professional Makeup
+        IT Brushes For ULTA x Wicked
         
-        New & exclusive! The Face Glue Setting Spray & The Face Glue Gripping Primer
+        New & exclusive! Blush & Foundation Brush Duo
         
-        [Shop now](https://www.ulta.com/featured/nyx_face_glue_launch)
+        [Shop now](https://www.ulta.com/p/it-brushes-ulta-x-wicked-limited-edition-blush-foundation-makeup-brush-set-pimprod2048162)
         
     * Skin Care
         
@@ -273,13 +273,13 @@ Free standard shipping on any $35 purchase
         * [Skinfatuation](https://www.ulta.com/discover/skin/trending-skincare)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/blurring-moisturizing-filter-primer-pimprod2024916?sku=2580280)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/holiday-hydration-set-pimprod2047300?sku=2630224)
         
-        TULA
+        DIME
         
-        Exclusive! Blurring & Moisturizing Filter Primer
+        New & exclusive! The Holiday Hydration Set
         
-        [Shop now](https://www.ulta.com/p/blurring-moisturizing-filter-primer-pimprod2024916?sku=2580280)
+        [Shop now](https://www.ulta.com/p/holiday-hydration-set-pimprod2047300?sku=2630224)
         
     * Hair Care
         
@@ -394,13 +394,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=hair)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/bond-shaper-curl-defining-gel-pimprod2047423?sku=2629122)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/brand/donnas-recipe?sort=new_arrivals)
         
-        OLAPLEX
+        DONNA'S RECIPE
         
-        New & exclusive! No.10 Bond Shaper Curl Defining Gel
+        New! Whipped Vanilla Cream Curl Defining Mousse
         
-        [Shop now](https://www.ulta.com/p/bond-shaper-curl-defining-gel-pimprod2047423?sku=2629122)
+        [Shop now](https://www.ulta.com/brand/donnas-recipe?sort=new_arrivals)
         
     * Fragrance
         
@@ -561,13 +561,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=body-care)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/undaria-algae-body-wash-pimprod2046057?sku=2626617)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/twelve-days-of-hydration-best-of-hempz-advent-calendar-pimprod2047997?sku=2631216)
         
-        OSEA
+        Hempz
         
-        New! Undaria Algae Body Wash
+        New! Twelve Days of Hydration Advent Calendar
         
-        [Shop now](https://www.ulta.com/p/undaria-algae-body-wash-pimprod2046057?sku=2626617)
+        [Shop now](https://www.ulta.com/p/twelve-days-of-hydration-best-of-hempz-advent-calendar-pimprod2047997?sku=2631216)
         
     * Tools & Brushes
         
@@ -1118,8 +1118,6 @@ Free standard shipping on any $35 purchase
         
     * [Ear Piercing](https://www.ulta.com/beautyservices/ear-piercing)
         
-    
-* [Fall Haul Sale](https://www.ulta.com/promotion/fall-haul)
     
 
 * [](https://www.ulta.com/bag)
