@@ -36,18 +36,18 @@
         
         Microsoft Office 2024 now available for Windows and macOS users](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/)
     
+    * [![Comcast and Truist Bank customers caught up in FBCS data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Comcast and Truist Bank customers caught up in FBCS data breach](https://www.bleepingcomputer.com/news/security/comcast-and-truist-bank-customers-caught-up-in-fbcs-data-breach/)
+    * [![Man pleads guilty to stealing $37 million in crypto from 571 victims](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Man pleads guilty to stealing $37 million in crypto from 571 victims](https://www.bleepingcomputer.com/news/legal/man-pleads-guilty-to-stealing-37-million-in-crypto-from-571-victims/)
     * [![Google Pay alarms users with accidental ‘new card’ added emails](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Google Pay alarms users with accidental ‘new card’ added emails](https://www.bleepingcomputer.com/news/security/google-pay-alarms-users-with-accidental-new-card-added-emails/)
     * [![EaseUS Disk Copy is only $24.97 in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         EaseUS Disk Copy is only $24.97 in this deal](https://www.bleepingcomputer.com/offer/deals/easeus-disk-copy-is-only-2497-in-this-deal/)
-    * [![MoneyGram: No evidence ransomware is behind recent cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        MoneyGram: No evidence ransomware is behind recent cyberattack](https://www.bleepingcomputer.com/news/security/moneygram-no-evidence-ransomware-is-behind-recent-cyberattack/)
-    * [![Prepare for your CompTIA exams with this $30 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Prepare for your CompTIA exams with this $30 course bundle deal](https://www.bleepingcomputer.com/offer/deals/prepare-for-your-comptia-exams-with-this-30-course-bundle-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
