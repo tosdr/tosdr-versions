@@ -86,11 +86,11 @@ service@carpetcleaningnyc.com
 
 #### Recent Posts
 
+* [Tabiz Rug Cleaning Service](https://carpetcleaningnyc.com/tabiz-rug-cleaning-service-2/)
 * [Cowskin Area Rug Cleaning Services in NYC](https://carpetcleaningnyc.com/cowskin-area-rug-cleaning-services-in-nyc/)
 * [The Clean Sweep: Unveiling the Most Maintenance-Friendly Carpet](https://carpetcleaningnyc.com/the-clean-sweep-unveiling-the-most-maintenance-friendly-carpet/)
 * [Outdoor Furniture Cleaning Service](https://carpetcleaningnyc.com/outdoor-furniture-cleaning-service/)
 * [Rug Shearing Service Brooklyn](https://carpetcleaningnyc.com/rug-shearing)
-* [Berber Rug Cleaning New York City](https://carpetcleaningnyc.com/berber-rug-cleaning/)
 
 #### Our Locations
 
@@ -138,11 +138,11 @@ Phone:(212) 658-0618
 
 #### Recent Posts
 
+* [Tabiz Rug Cleaning Service](https://carpetcleaningnyc.com/tabiz-rug-cleaning-service-2/)
 * [Cowskin Area Rug Cleaning Services in NYC](https://carpetcleaningnyc.com/cowskin-area-rug-cleaning-services-in-nyc/)
 * [The Clean Sweep: Unveiling the Most Maintenance-Friendly Carpet](https://carpetcleaningnyc.com/the-clean-sweep-unveiling-the-most-maintenance-friendly-carpet/)
 * [Outdoor Furniture Cleaning Service](https://carpetcleaningnyc.com/outdoor-furniture-cleaning-service/)
 * [Rug Shearing Service Brooklyn](https://carpetcleaningnyc.com/rug-shearing)
-* [Berber Rug Cleaning New York City](https://carpetcleaningnyc.com/berber-rug-cleaning/)
 
 #### BUSINESS HOURS
 
