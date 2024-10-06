@@ -2,7 +2,7 @@
 
 [![Logo](https://www.impresscms.org/themes/icms-unify/assets/img/logo.svg)](https://www.impresscms.org/)
 
-* [Login](https://www.impresscms.org/user.php?xoops_redirect=/modules/iforum/reply.php?forum=55&topic_id=5733&viewmode=flat&order=ASC&start=0&post_id=49954 "Login")
+* [Login](https://www.impresscms.org/user.php?xoops_redirect=/modules/iforum/reply.php?forum=43&topic_id=711&viewmode=flat&order=ASC&start=0&quotedac=1&post_id=8767&lang=en "Login")
 
 * [Register](https://www.impresscms.org/register.php "Register")
 
@@ -22,7 +22,11 @@ Toggle navigation
 *   Search
     
 
+Privacy Policy
+==============
+
 * [Home](https://www.impresscms.org/)
+* [Privacy Policy](https://www.impresscms.org/modules/content/content.php?content_id=2&page=/about/privacy-policy)
 
 Last update : 11 June 2018
 
