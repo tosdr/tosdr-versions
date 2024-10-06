@@ -277,4 +277,6 @@ Terms of service  |   Privacy Policy  |   Licenses
 
 All prices are final and include all required taxes. No other hidden charges!
 
+[Online - Live Chat](https://www.cloudns.net/livechat/)
+
 Cookies help us deliver our services. By using our services, you agree to our use of cookies. [Learn more](https://www.cloudns.net/privacy-policy/) Okay
