@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [50 years ago, satellites threatened astronomers’ view of the cosmos](https://www.sciencenews.org/article/satellites-cosmos-view-50-years-ago)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")11 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")16 hours ago
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
