@@ -54,14 +54,14 @@
 * [The Wooly Team](https://www.senorwooly.com/team)
 * [FAQ](https://www.senorwooly.com/faq)
 
-![Sr. Wooly Poster Collection](https://assets.senorwooly.com/uploads/636e4911-70ee-4a5d-bd34-2e36e8eb8931.png)
+![The Billy & Gorro Winter Set: Scarf & Hat Combo](https://assets.senorwooly.com/uploads/210d807a-5b90-4370-bfd2-b7f1a54179b7.png)
 
 On Sale
 =======
 
-25% off
+15% off
 
-Sr. Wooly Poster Collection ~$50.00~ $37.50 [Go to store](https://www.senorwooly.com/store/product/poster-collection)
+The Billy & Gorro Winter Set: Scarf & Hat Combo ~$39.70~ $33.74 [Go to store](https://www.senorwooly.com/store/product/billy-y-gorro)
 
 ![](https://assets.senorwooly.com/static/images/marketing/doctor.png)
 
