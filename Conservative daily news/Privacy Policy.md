@@ -2,14 +2,14 @@ Sunday, October 6 2024
 
 Breaking News
 
+* [We’re Singing From The Same Song Sheet](https://www.conservativedailynews.com/2024/10/were-singing-from-the-same-song-sheet/)
+* [Potential Hurricane Slated To Hit Florida Just Weeks After Helene Decimated Rural South, Forecasters Say](https://www.conservativedailynews.com/2024/10/potential-hurricane-slated-to-hit-florida-just-weeks-after-helene-decimated-rural-south-forecasters-say/)
+* [America’s Cutting Edge Weaponry Is Dependent On Chinese Tech, Experts Warn](https://www.conservativedailynews.com/2024/10/americas-cutting-edge-weaponry-is-dependent-on-chinese-tech-experts-warn/)
+* [Biden-Harris Admin Threw Over $40 Billion At An Internet Buildout — Three Years Later Not A Single Project Is Underway](https://www.conservativedailynews.com/2024/10/biden-harris-admin-threw-over-40-billion-at-an-internet-buildout-three-years-later-not-a-single-project-is-underway/)
+* [The Democrat-News Media’s “Justification” for Cheating](https://www.conservativedailynews.com/2024/10/the-democrat-news-medias-justification-for-cheating/)
+* [Kamala’s Tax-Gouging Frightens Me More Than Corporate Price-Gouging](https://www.conservativedailynews.com/2024/10/kamalas-tax-gouging-frightens-me-more-than-corporate-price-gouging/)
 * [Don’t Tell Helene Victims About We The People](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/)
 * [Biden Admin To End Parole Program For Hundreds Of Thousands Of Migrants](https://www.conservativedailynews.com/2024/10/biden-admin-to-end-parole-program-for-hundreds-of-thousands-of-migrants/)
-* [College Volleyball Player Claims School Deceived Her Into Living With Transgender Roommate](https://www.conservativedailynews.com/2024/10/college-volleyball-player-claims-school-deceived-her-into-living-with-transgender-roommate/)
-* [Victor Davis Hanson Predicts Harris’ ‘Hemorrhaging’ Will Push Dems To Drop More October Surprises](https://www.conservativedailynews.com/2024/10/victor-davis-hanson-predicts-harris-hemorrhaging-will-push-dems-to-drop-more-october-surprises/)
-* [Supreme Court To Hear Case On If US Gun Manufacturer, Distributor Can Be Held Liable For Cartel Crime](https://www.conservativedailynews.com/2024/10/supreme-court-to-hear-case-on-if-us-gun-manufacturer-distributor-can-be-held-liable-for-cartel-crime/)
-* [Helene Victims Would Be Better Off As Ukrainians Or Illegals](https://www.conservativedailynews.com/2024/10/helene-victims-would-be-better-off-as-ukrainians-or-illegals/)
-* [President Joe Biden’s Schedule for Saturday, October 5, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-saturday-october-5-2024/)
-* [Whatever Happened To Politicians Running For Office And Promising A Chicken In Every Pot?](https://www.conservativedailynews.com/2024/10/whatever-happened-to-politicians-running-for-office-and-promising-a-chicken-in-every-pot/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,53 +126,53 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5633-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5635-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/were-singing-from-the-same-song-sheet/)
     
-    [Don’t Tell Helene Victims About We The People](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/)
+    [We’re Singing From The Same Song Sheet](https://www.conservativedailynews.com/2024/10/were-singing-from-the-same-song-sheet/)
     
-    October 5, 2024
+    October 6, 2024
     
-* [![Illegal immigration democrats voter registration](https://www.conservativedailynews.com/wp-content/uploads/2024/09/stg090624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/biden-admin-to-end-parole-program-for-hundreds-of-thousands-of-migrants/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Milton-track-220x150.png)](https://www.conservativedailynews.com/2024/10/potential-hurricane-slated-to-hit-florida-just-weeks-after-helene-decimated-rural-south-forecasters-say/)
     
-    [Biden Admin To End Parole Program For Hundreds Of Thousands Of Migrants](https://www.conservativedailynews.com/2024/10/biden-admin-to-end-parole-program-for-hundreds-of-thousands-of-migrants/)
+    [Potential Hurricane Slated To Hit Florida Just Weeks After Helene Decimated Rural South, Forecasters Say](https://www.conservativedailynews.com/2024/10/potential-hurricane-slated-to-hit-florida-just-weeks-after-helene-decimated-rural-south-forecasters-say/)
     
-    October 5, 2024
+    October 6, 2024
     
-* [![Transgender Athlete](https://www.conservativedailynews.com/wp-content/uploads/2022/03/05-War-Womxn-CDN-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/college-volleyball-player-claims-school-deceived-her-into-living-with-transgender-roommate/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/01-walz-melt-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/meltdown/)
     
-    [College Volleyball Player Claims School Deceived Her Into Living With Transgender Roommate](https://www.conservativedailynews.com/2024/10/college-volleyball-player-claims-school-deceived-her-into-living-with-transgender-roommate/)
+    [Meltdown](https://www.conservativedailynews.com/2024/10/meltdown/)
     
-    October 5, 2024
+    October 6, 2024
     
-* [![Bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2024/08/gv081024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/over-800000-fewer-native-born-americans-are-employed-than-last-year/)
+* [![Made in China](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/americas-cutting-edge-weaponry-is-dependent-on-chinese-tech-experts-warn/)
     
-    [Over 800,000 Fewer Native-Born Americans Are Employed Than Last Year](https://www.conservativedailynews.com/2024/10/over-800000-fewer-native-born-americans-are-employed-than-last-year/)
+    [America’s Cutting Edge Weaponry Is Dependent On Chinese Tech, Experts Warn](https://www.conservativedailynews.com/2024/10/americas-cutting-edge-weaponry-is-dependent-on-chinese-tech-experts-warn/)
     
-    October 5, 2024
+    October 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/classroom_dodgertonskillhause.jpg)](https://www.conservativedailynews.com/2024/10/every-member-of-major-blue-city-school-board-to-resign-amid-tension-with-mayor/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Joe-Biden-Kamala-Harris-3.jpg)](https://www.conservativedailynews.com/2024/10/biden-harris-admin-threw-over-40-billion-at-an-internet-buildout-three-years-later-not-a-single-project-is-underway/)
     
-    [Every Member Of Major Blue City School Board To Resign Amid Tension With Mayor](https://www.conservativedailynews.com/2024/10/every-member-of-major-blue-city-school-board-to-resign-amid-tension-with-mayor/)
+    [Biden-Harris Admin Threw Over $40 Billion At An Internet Buildout — Three Years Later Not A Single Project Is Underway](https://www.conservativedailynews.com/2024/10/biden-harris-admin-threw-over-40-billion-at-an-internet-buildout-three-years-later-not-a-single-project-is-underway/)
     
-    October 5, 2024
+    October 6, 2024
     
-* [![Kamala Harris Donald Trump 2024 election platforms](https://www.conservativedailynews.com/wp-content/uploads/2024/09/04-platforms-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/victor-davis-hanson-predicts-harris-hemorrhaging-will-push-dems-to-drop-more-october-surprises/)
+* [![Howard Stern](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg100624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/what-show/)
     
-    [Victor Davis Hanson Predicts Harris’ ‘Hemorrhaging’ Will Push Dems To Drop More October Surprises](https://www.conservativedailynews.com/2024/10/victor-davis-hanson-predicts-harris-hemorrhaging-will-push-dems-to-drop-more-october-surprises/)
+    [What Show?](https://www.conservativedailynews.com/2024/10/what-show/)
     
-    October 5, 2024
+    October 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/10/supreme-court-to-hear-case-on-if-us-gun-manufacturer-distributor-can-be-held-liable-for-cartel-crime/)
+* [![Mainstream Media Joe Biden bias](https://www.conservativedailynews.com/wp-content/uploads/2024/02/stg020724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-democrat-news-medias-justification-for-cheating/)
     
-    [Supreme Court To Hear Case On If US Gun Manufacturer, Distributor Can Be Held Liable For Cartel Crime](https://www.conservativedailynews.com/2024/10/supreme-court-to-hear-case-on-if-us-gun-manufacturer-distributor-can-be-held-liable-for-cartel-crime/)
+    [The Democrat-News Media’s “Justification” for Cheating](https://www.conservativedailynews.com/2024/10/the-democrat-news-medias-justification-for-cheating/)
     
-    October 5, 2024
+    October 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/1004-1-220x150.jpg)](https://www.conservativedailynews.com/2024/10/helene-victims-would-be-better-off-as-ukrainians-or-illegals/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/1002-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamalas-tax-gouging-frightens-me-more-than-corporate-price-gouging/)
     
-    [Helene Victims Would Be Better Off As Ukrainians Or Illegals](https://www.conservativedailynews.com/2024/10/helene-victims-would-be-better-off-as-ukrainians-or-illegals/)
+    [Kamala’s Tax-Gouging Frightens Me More Than Corporate Price-Gouging](https://www.conservativedailynews.com/2024/10/kamalas-tax-gouging-frightens-me-more-than-corporate-price-gouging/)
     
-    October 5, 2024
+    October 6, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Biden Admin To End Parole Program For Hundreds Of Thousands Of Migrants](https://www.conservativedailynews.com/2024/10/biden-admin-to-end-parole-program-for-hundreds-of-thousands-of-migrants/#comment-782524)
 * KayCee on [Don’t Tell Helene Victims About We The People](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/#comment-782499)
 * Stanley Warner on [The Left’s Word Games Can’t Conceal ‘Third World’ Impact of Open Borders](https://www.conservativedailynews.com/2024/10/the-lefts-word-games-cant-conceal-third-world-impact-of-open-borders/#comment-782491)
 * Stanley Warner on [Hurricane Survivor Blasts Biden, Feels Betrayed Admin Put Migrants Before Americans](https://www.conservativedailynews.com/2024/10/hurricane-survivor-blasts-biden-feels-betrayed-admin-put-migrants-before-americans/#comment-782490)
@@ -236,7 +237,6 @@ Recent Comments
 * KayCee on [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/#comment-782455)
 * KayCee on [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/#comment-782454)
 * KayCee on [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/#comment-782447)
-* KayCee on [JD Vance’s Mic Cut As He Tries To Counter Moderator’s Fact Check On Springfield Migrants](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/#comment-782446)
 
 [Close](#)
 
