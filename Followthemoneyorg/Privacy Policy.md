@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2014 Candidate Elections Overview](/assets/Images/teasers/full/Average-Leg-by-WinLose.png)](http://www.followthemoney.org/research/institute-reports/2014-candidate-elections-overview/)
+[![Contested Races by State, 2014](/assets/Images/teasers/small/Contested-Races.png)](https://www.followthemoney.org/research/blog/no-contest-36-percent-of-2014-state-legislative-races-offer-no-choice-blog/)
+
+36% of races were uncontested in 2014.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
