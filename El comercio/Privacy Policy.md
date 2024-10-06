@@ -31,6 +31,169 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Un juicio político de cabeza
+============================
+
+El juicio político contra la ministra Mónica Palencia, motivado por intereses políticos y falta de seriedad en el proceso.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+Los **juicios políticos** en una **democracia** seria y madura, dentro del campo de una sensata, necesaria y sana **fiscalización**, en la que se pretende el **equilibrio** de los **poderes** del **Estado**, buscan la verdad objetiva, ajena a las **simpatías**, **antipatías** y/o **conveniencias**, en los que prevalece la **razón** y no el **cálculo**, ni el **protagonismo** acompañado de la vanidad. Si bien, como su nombre lo indica, el **juicio** es **político** y no judicial, no por ello sus **procedimientos** deben dejar de enmarcarse en el **cumplimiento** de las **normas** jurídicas que le competen y regulan.
+
+Lo que el país está viviendo, con el pretendido **juicio político** en contra de la ministra del Interior **Mónica Palencia**, y de manera particular lo dado al inicio de esta semana en la **Comisión** de **Fiscalización** de la **Asamblea**, más allá del estridente y provocador **comportamiento** de la **asambleísta** Cabezas, impropio en cualquier situación, lugar y **ocasión**, la misma que, parecería estar acostumbrada a perder la cabeza y a provocar para que pierdan la cabeza los interpelados, está el fondo del asunto, esto es, la esencia de las **intenciones**. Me explico, se le acusa a la **ministra**, la misma que tiene a cargo principalmente la **seguridad**, de “**incumplimiento** de **funciones**”, cuando irónicamente resulta que, la **bancada** que impulsa dicho juicio se ha caracterizado justamente por solapar y/o avalar el cobijo y **protección** de **delincuentes** y de **sentenciados** por **corrupción**, lo cual evidentemente contribuye de manera contundente en favor de la **inseguridad** de la **sociedad**; todo lo cual, enmarcado y motivado muy probablemente en una suerte de **retaliación política** por el apresamiento de Glas.  Adicionalmente, y como si eso fuera poco, que en realidad es más que suficiente para restar **credibilidad** y **fortaleza** moral a dicho **juicio**, resulta que, la mencionada **asambleísta** (protegida de la inmunidad) se permitió realizar **acusaciones verbales** de orden personal en contra de la **ministra**, fuera de tono en todo sentido.
+
+Y, adicionalmente y para mayor **abundamiento**, con el intento de incorporar como “**prueba testimonial**” la **comparecencia** telemática de un cuestionado **personaje** del gobierno de Correa, pretendiendo lo cual de una manera extemporánea, cuando en principio, las **pruebas testimoniales** deben ser anunciadas al inicio y no en el camino, ya que fuera de ser potencialmente forzado legalmente, podría poner en una **situación** de **indefensión** a la **ministra**. Así, lo mencionado, sonaría a emboscada, por cierto, muy típico de los **revolucionarios**, valiéndose de “testigos” no idóneos, justamente por estar cuestionados por sus **conductas** del pasado.
+
+Poco antes de la pretendida **intervención**, al parecer por una **maniobra política** del **oficialismo**, quedó sin quórum la **comisión**, razón por la cual la ministra optó por retirarse, no sin antes y haciendo bien Palencia, el aclararle  a la **interpelante** de manera determinante sus **razones** en **defensa** de su honor, quizás en forma de una manera que pudo evitarse – que podría interpretarse como haber caído  en la **provocación** – pero comprensible, no por ello justificable, desde el punto de vista de la **indignación**.
+
+Cabe indicar que, llama la atención, no es que la **ministra** vaya acompañada de un abogado o por un cuerpo **técnico** – **jurídico** de apoyo, sino por un también **cuestionado abogado** en particular (con rol principal), cercano al correismo en su momento y que con su gestión habría influido en la **injerencia política** en la **justicia** de la **época**.              
+
+En conclusión, lo que se estaría dando es el descabezado intento de un disparatado **juicio político**, sin pies ni cabeza, en el que prima la **insensatez**, el **agravio** y el **cinismo**, a efectos de alzarse – en **época** prácticamente **electoral** – con la cabeza en señal de **triunfo**, mediante la pretendida **destitución** de una ministra, la misma que, viene realizando una intensa labor, no perfecta ni suficiente, pero que en esencia, ha diferencia de sus **interpelantes**, es y ha sido  enfrentar la **delincuencia** y la **corrupción**.
+
+Turismo encantador
+==================
+
+La recepción de un candidato, generalmente indiferente, con la de un ministro, recibido con privilegios y recursos públicos.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+Si una persona llega a una **ciudad** en calidad de **candidato**, viene a pedir un favor: que le den el voto. ¿La actitud de los **residentes** que se tomen en **trabajo** de ir a verlo, tendrá un aire de **superioridad**: a ver qué nos ofrece? Otros serán **indiferentes** a su **presencia**, unos querrán insultarlo, una **minoría** radical buscará agredirlo y unos pocos le harán honores por ser coidearios o simpatizar con sus **propuestas**.
+
+Para su **visita** al sitio deberá pagarse su **transporte**, la **pernoctación**, a menos que algunos **simpatizantes** decidan correr con esos gastos y la **alimentación**. Están conscientes que, de ganar, estos favores serán retribuidos con rentables **cargos públicos** y la cuota de “poder” **político** que es la segunda **adicción** de los **ecuatorianos**. Conseguir **entrevistas** en los medios locales costará favores o dinero en efectivo sin factura.
+
+En cambio, si un ministro en funciones visita una ciudad, toda la **infraestructura estatal**, **local** y provincial, se pone a su servicio. Un ejército de **funcionarios** de menor rango coordinarán y suplirán todas las necesidades de él, de su equipo de avanzada y del personal de **compañía**, incluidos **guardaespaldas** y la parvada de tiktokeros.
+
+Los **hoteleros** se pelearán entre ellos por el honor de que verifique la calidad de sus **habitaciones**. Los restaurantes enviarán **invitaciones** desesperadas suplicando que les visite y todos querrán tomarse fotos con el **ministro** en funciones, del cual están seguros de que pueden beneficiarse de alguna manera.
+
+Obviamente, la **prensa** local hará una **cobertura** **maratónica** del funcionario: radios y televisiones locales exigirán **entrevistas**.
+
+Ser ministro de turismo y no hacerse popular es **imposible**, todos los últimos **ministros** lo han logrado -incluso Elhers- a pesar de sus **pésimas gestiones**, luego de las cuales han desaparecido de la vida pública.
+
+Pero es la primera vez que un **ministro**, con una gestión con los peores **resultados** de la última década, aprovecha su **popularidad** para convertirse en **candidato** y delata su **gestión** como una campaña de tres años con **dineros públicos** y asegura su **pasaporte** a la próxima **asamblea**.
+
+No nos pongamos **moralistas**, su actual **jefe** ha hecho lo mismo y también los demás partidos **candidatizan** a personas muy populares y ganan, independientemente de su **coeficiente moral** o **intelectual**. Con **candidatos** así de **encantadores**, a los izquierdistas no les va a ser suficiente las chicas de Onlyfans.
+
+Cartas a Quito / 6 de octubre de 2024
+=====================================
+
+Estas son las cartas a Quito de este domingo 6 de octubre de 2024
+-----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Qué está mal en el Ecuador? 
+----------------------------
+
+La educación, la falta de empleo, la pobreza, la delincuencia, las extorsiones, el consumo y distribución de la droga, la justicia, los  partidos y movimientos políticos, el contrabando, las extorsiones, la contaminación ambiental, el asentamiento carcelario, la tala de los bosques, del manglar, la falta de servicios básicos en muchos sectores, la poca tecnificación en la producción de productos tradicionales, la falta de control en la producción del principal producto de exportación como es el banano. La falta de asesoramiento para el pequeño agricultor, las malas obras en vialidad, educación, la desnutrición infantil, la calidad de la educación, de los maestros, la contaminación ambiental, el control de la policía en las vías no para el verdadero objetivo sino para la coima y el abuso por el mal uso de la ley. La obligación anual de renovar la matrícula dea los vehículos, de la licencia. Con la finalidad sacarle recursos.  El deterioro de los vehículos detenidos por diferentes motivos que deberían ser devueltos a sus dueños y ser registrados mediante un sistema informático que permita al juez, determinar la condición del mismo. Ya que la causa es otra cosa y si es robado pueda su dueño con las pruebas necesarias poder retirar el vehículo. O pasado tres meses hacer una subasta y ese dinero ingresa a la misma policía, pero para el mejoramiento de sus Puestos de Vigilancia Permanentes. La demasiada complacencia que actualmente se le da al estudiante, al punto que este ahora exige que nota debe tener. Aquí se debería separar los casos excepcionales que justifican su capacidad intelectual. Los derechos humanos se han tergiversado, ahora los tiene el agresor porque el estado no le dio la educación, el bienestar social, etc. Contra el que logra defenderse de ser asesinado. Él pierde todos sus derechos humanos de haber sido agredido y haber podido repeler el ataque contra su vida. Jueces que hacen de la ley de acuerdo al monto que recibe y hace que todos reciban su parte aunque se le haya encontrado infraganti o con el producto de su fechoría. Gente que de la noche a la mañana son grandes potentados y lo peor de todo hacen ostentación de su poder económico y avasallan al empleado o a las personas. El Ecuador donde no hay respeto y en donde el sapo es el que no respeta una columna y gil el que espera que le toque con tranquilidad su turno. Aquel que tiene padrinos se bautiza y el que no le toca hacer uno vía cruces, hasta alcanzar algunas veces una simple firma o  sello.
+
+Este es el Ecuador profundo que cada día se levanta al despertar el alba en la esperanza de que algún día las cosas cambien, pero no pierde la fe y su sonrisa para agradecer al Dios el darle la oportunidad de un día más de vida. Y así forman a sus hijos con sacrificio, y otros toman otros rumbos, sabiendo lo duro de la travesía, cruzar otras tierras en búsqueda de un mejor futuro. ¿Y se preguntan porque emigran? A lo mejor he puesto mucho dolor, pero con todo ello mi Ecuador es el mejor país para vivir porque los ecuatorianos somos la gran mayoría, gente buena. 
+
+Lionel Efraín Romero Reyes  
+
+La reforestación tras los incendios en Quito será paso a paso
+=============================================================
+
+Municipio y Ministerio de Ambiente contemplan reforestación luego de incendios forestales.
+------------------------------------------------------------------------------------------
+
+![Incendios forestales consumieron áreas verdes en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/reforestacion.jpg)
+
+Los **incendios en Quito** consumieron, **1 964,04 hectáreas**. El plan de reforestación es el siguiente paso para recuperar las áreas afectadas.
+
+El cronograma para la intervención debe ser aprobado por el alcalde de la capital, **Pabel Muñoz**. Aunque, ya anunció que impulsará un plan “agresivo”.
+
+En otro frente, el **Ministerio de Ambiente** aseguró que impulsará un proceso de restauración ecológico, dinámico, educativo, incluyente y participativo a escala nacional. Se empezará con el **Distrito Metropolitano** **de Quito**.
+
+### Más noticias
+
+* [Quito soportó 12 incendios forestales en una sola semana](https://www.elcomercio.com/actualidad/quito/incendio-forestal-quito-guapulo-bomberos-emergencias.html "Quito soportó 12 incendios forestales en una sola semana")
+* [Incendio forestal de Guápulo se mantiene en este estado](https://www.elcomercio.com/actualidad/quito/incendio-forestal-guapulo-puntos-calientes-quito.html "Incendio forestal de Guápulo se mantiene en este estado")
+* [¿Qué pruebas tiene Fiscalía contra otro implicado en incendio forestal en Quito?](https://www.elcomercio.com/actualidad/quito/fiscalia-procesa-otro-implicado-incendio-forestal-quito.html "¿Qué pruebas tiene Fiscalía contra otro implicado en incendio forestal en Quito?")
+
+Incendios forestales en Quito y la reforestación
+------------------------------------------------
+
+En los incendios que se extendieron del 24 al 26 de septiembre, la afectación correspondió a un aproximado de **2 250 canchas de fútbol profesional**.
+
+Desde la **Secretaría de Ambiente de Quito** detallaron que los sitios afectados pueden llegar a restaurarse naturalmente en un período de hasta 100 años.  
+
+No obstante, la meta es acelerar ese proceso. El primer paso es, en los primeros años, fortalecer el **suelo** para su reactivación.
+
+Proceso de plantación y dispersión de **semillas** en el suelo están entre las acciones que se vienen.
+
+> 🔄 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Trabajamos toda la noche y madrugada en varios focos activos del incendio de Guápulo que se extendió hacia el parque Metropolitano y el cerro Auqui.  
+>   
+> 🛰️ Desde las 06h00 realizamos vuelos con nuestras aeronaves no tripuladas (drones) para determinar puntos… [pic.twitter.com/QUNk02gV2i](https://t.co/QUNk02gV2i)
+> 
+> — Bomberos Quito (@BomberosQuito) [September 25, 2024](https://twitter.com/BomberosQuito/status/1838910448491450652?ref_src=twsrc%5Etfw)
+
+Los detalles de las afectaciones
+--------------------------------
+
+El **Ministerio de Ambiente** indicó que, entre enero y septiembre de 2024, los **incendios forestales** registrados en varios puntos de Ecuador, asociados a un marcado déficit de lluvias, en comparación con los valores de años anteriores, afectaron a más de 39 700 hectáreas de cobertura vegetal.
+
+En ese periodo, en todo el país, se contabilizaron 3 497 incendios forestales. En Quito, entre julio y septiembre, fueron 314 incendios forestales y 1 823 quemas de desechos.
+
+Del 23 al 27 de septiembre, el **Cuerpo de Bomberos** atendió 12 eventos y 91 quemas de desechos.
+
+> 🌳 [#QuitoMásVerdeQueNunca](https://twitter.com/hashtag/QuitoM%C3%A1sVerdeQueNunca?src=hash&ref_src=twsrc%5Etfw) | El alcalde Pabel Muñoz anunció un plan de reforestación para Quito, señaló que esta es una oportunidad para emprender un agresivo plan de reforestación y que «Quito quede más verde que nunca».  
+>   
+> Más detalles 👉 [https://t.co/NkbjbsRHZH](https://t.co/NkbjbsRHZH)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/VMBIb2t1qK](https://t.co/VMBIb2t1qK)
+> 
+> — Quito Informa (@QuitoInforma) [October 1, 2024](https://twitter.com/QuitoInforma/status/1841111070464692503?ref_src=twsrc%5Etfw)
+
+**Sebastián Pillajo**, jefe de la Unidad de Patrimonio Natural de la Secretaría de Ambiente, recordó que las zonas afectadas estaban cubiertas por eucaliptos y especies resistentes. El primero incidió en que existiera un alta combustión.
+
+Sin embargo, en el plan no está quitar el eucalipto, pero se potenciarán las especies como laurel, aguacatillo, algarrobo, arrayán y molle. El agave, en cambio, servirá para fajas corta fuegos.
+
+Especies de fauna
+-----------------
+
+La **Secretaría de Ambiente**, además, recordó que las áreas de los flagelos, como el cerro Auqui y Guápulo, son hogar de fauna.
+
+En un barrido, el personal de la institución levantó el registro de especies de **reptiles, aves y mamíferos** con daños.
+
+En ese grupo están, entre otras, **la falsa coral, culebra boba verde, búho estigio, mirlo grande, gallinazo de cabeza negra, raposa, ratón andino y puerco espín**. 
+
+Elementos técnicos
+------------------
+
+**Cecilia Puertas**, docente de Gestión Ambiental, remarcó que para que la vegetación o el bosque pueda regenerarse deben quedar semillas o plantas vivas en la zona o en sus proximidades; es decir, bosques cercanos que aporten.
+
+Se trata de una sucesión ecológica que realiza un ecosistema después de una gran afectación. En una primera etapa de sucesión están las **especies pioneras**. Estas son más resistentes y tienen un rápido crecimiento.  
+
+En lo que se refiere a las técnicas humanas están las bolas de arcilla, conocidas como **supersemillas**, que se colocan con especies locales y nutrientes.
+
+Eso sí, Puertas dejó claro que no es solamente **reforestar por reforestar**, sino una acción planificada, pensando en el uso sostenible de la tierra, incluir a las comunidades.  
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/incendios-reforestacion-1024x683.jpg)
+
+Los incendios que generaron la emergencia en Quito empezaron el 24 de septiembre. Foto: Diego Pallero/El Comercio
+
+Tiempos de recuperación
+-----------------------
+
+De acuerdo con el **Ministerio de Ambiente**, el cambio climático ha generado consecuencias para Ecuador y otros países de la región.
+
+Las acciones de **restauración** deben arrancar cuando el fuego es sofocado totalmente y una vez que el suelo se haya enfriado, esto en un lapso no menor a **30 días**.
+
+En las próximas tres semanas, será necesario levantar un **diagnóstico** y cuantificación del área afectada, para, en los tres meses posteriores, empezar el proceso de **restauración**.
+
+Eso contempla labores de preparación del suelo, estabilización de taludes, selección de especies nativas, logística y la coordinación de **equipos de trabajo**.
+
+Luego de esas etapas, van las jornadas de **restauración** con el despliegue de brigadas. La meta: labores de limpieza de escombros y retiro de especies invasoras, para continuar con la reforestación de especies nativas en espacios cerrados que faciliten su desarrollo.
+
+Tras un mes de haber plantado las **especies**, caben las tareas de monitoreo y mantenimiento constantes para asegurar la sobrevivencia de las **plántulas o arbustos**.
+
+El seguimiento
+--------------
+
+Cada dos meses, se debe evaluar el crecimiento de la **zona reforestada** y confirmar la erradicación de especies invasoras.
+
+Finalmente, indicó el **Ministerio de Ambiente**, seis meses después de la reforestación, se constatará el crecimiento de las plantas en la zona condicionada.
+
 (Video) Leonardo Campana marcó un golazo y festejó junto a Lionel Messi
 =======================================================================
 
@@ -743,235 +906,3 @@ Los tres ciudadanos fueron puestos a órdenes de los jueces, para que resuelvan 
 > ▪︎ Un ciudadano aprehendido por porte de arma de fuego.[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LeUijWbCe8](https://t.co/LeUijWbCe8)
 > 
 > — Policía DMQ Zona 9 (@PoliciaDMQZona9) [October 5, 2024](https://twitter.com/PoliciaDMQZona9/status/1842407577369378967?ref_src=twsrc%5Etfw)
-
-Segunda vuelta electoral para las elecciones de 2025, ¿en qué casos se realiza?
-===============================================================================
-
-La segunda vuelta electoral será el 13 de abril de 2025 si ningún binomio alcanza mayoría en primera votación.
---------------------------------------------------------------------------------------------------------------
-
-![Una persona ejerciendo su derecho al voto en las elecciones anticipadas de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/09/elcciones.png)
-
-En las **elecciones generales de 2025** el proceso electoral contempla la posibilidad de una **segunda vuelta presidencial**, que se llevará a cabo si ningún binomio logra obtener la mayoría requerida en la primera votación.
-
-### Más noticias
-
-* [Más binomios se inscribieron en el CNE para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/tres-binomios-se-inscribieron-cne-elecciones-2025.html "Más binomios se inscribieron en el CNE para las elecciones 2025")
-* [Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025](https://www.elcomercio.com/actualidad/politica/impacto-publicidad-electoral-fondo-promocion-elecciones-2025.html "Impacto de la publicidad electoral y el fondo de promoción en elecciones 2025")
-* [Multas por realizar campaña anticipada a las elecciones de 2025](https://www.elcomercio.com/actualidad/politica/multas-realizar-campana-anticipada-elecciones-2025.html "Multas por realizar campaña anticipada a las elecciones de 2025")
-
-El **Consejo Nacional Electoral (CNE)** establece un cronograma detallado para esta eventual fase, con fechas y procedimientos que aseguran la correcta **transición entre una vuelta y otra**.
-
-¿Cuándo se realiza la segunda vuelta electoral?
------------------------------------------------
-
-De acuerdo con el **Código de la Democracia**, la segunda vuelta será necesaria si ninguno de los binomios presidenciales obtiene una mayoría absoluta en la primera votación, o al menos el **40% de los votos válidos con una diferencia de 10 puntos porcentuales sobre el segundo lugar**.
-
-Si se cumple este escenario, la **segunda vuelta presidencial** se celebrará el **13 de abril de 2025**. Esta fecha ha sido definida por el CNE en el **calendario electoral 2025**, aprobado y actualizado en las **sesiones plenarias del organismo**.
-
-Fechas clave antes de la segunda vuelta
----------------------------------------
-
-El proceso electoral de segunda vuelta incluye varias actividades esenciales para garantizar la transparencia y legalidad de la votación. Entre las fechas más importantes destacan:
-
-1. **Campaña electoral**: La campaña oficial para la segunda vuelta comenzará el **24 de marzo de 2025** y se extenderá hasta el **10 de abril de 2025**. Durante este periodo, los binomios presidenciales que compitan en esta fase podrán realizar actos de promoción y difusión de sus propuestas en medios autorizados.
-2. **Debate presidencial**: Uno de los momentos clave de esta campaña será el **debate presidencial**, que se llevará a cabo el **23 de marzo de 2025**. Este evento será una oportunidad para que los candidatos expongan sus propuestas y contrasten sus posturas ante la ciudadanía.
-3. **Silencio electoral**: El silencio electoral, que prohíbe la difusión de propaganda política en medios, comenzará el **11 de abril de 2025** y se extenderá hasta el día de la votación, el **13 de abril de 2025**. Este periodo tiene como objetivo permitir que los ciudadanos reflexionen sobre su voto sin influencias externas.
-
-Proceso de votación y escrutinio
---------------------------------
-
-El día de la votación, el **13 de abril de 2025**, los ecuatorianos acudirán a las urnas para elegir al presidente y vicepresidente de la República entre los dos binomios más votados en la primera vuelta.
-
-El CNE ha previsto mecanismos de votación especiales para garantizar la participación de todos los ciudadanos, incluidos los beneficiarios del **voto en casa** (personas con discapacidad) y **personas privadas de libertad** sin sentencia condenatoria ejecutoriada.
-
-> [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) 🟡🔵🔴  
->   
-> En cumplimiento del calendario electoral, hoy, lunes 30 de septiembre, inicia la etapa de Registro y Calificación de [#ProveedoresPromociónElectoral](https://twitter.com/hashtag/ProveedoresPromoci%C3%B3nElectoral?src=hash&ref_src=twsrc%5Etfw). 🗞️📻📺💻  
->   
-> Escanea el código QR o accede a través del enlace ⬇️[https://t.co/RiGcrSitqZ](https://t.co/RiGcrSitqZ) [pic.twitter.com/VnzIQ9DuOA](https://t.co/VnzIQ9DuOA)
-> 
-> — cnegobec (@cnegobec) [September 30, 2024](https://twitter.com/cnegobec/status/1840816226005893445?ref_src=twsrc%5Etfw)
-
-Tras la votación, el proceso de escrutinio se llevará a cabo de manera similar al de la primera vuelta. Las **Juntas Provinciales Electorales** y la **Junta Especial del Exterior** iniciarán el conteo de votos y la transmisión de resultados. El CNE prevé que el proceso de escrutinio y objeciones de resultados numéricos se desarrolle entre el **14 y el 23 de abril de 2025**, garantizando así un conteo transparente.
-
-Resolución de objeciones e impugnaciones
-----------------------------------------
-
-Durante el proceso de escrutinio, las organizaciones políticas tienen la posibilidad de presentar objeciones sobre los resultados numéricos. En caso de presentarse, estas objeciones deberán resolverse antes del **6 de mayo de 2025**.
-
-Si se plantean impugnaciones adicionales, el Tribunal Contencioso Electoral (TCE) tiene un plazo hasta el **20 de mayo de 2025** para dictar sentencia definitiva.
-
-Una vez que se proclamen los resultados oficiales de la segunda vuelta y se resuelvan todas las impugnaciones, el CNE procederá con la entrega de credenciales a las nuevas autoridades. La **posesión del presidente y vicepresidente electos** está prevista para el **24 de mayo de 2025**.
-
-Importancia de la segunda vuelta en el sistema democrático
-----------------------------------------------------------
-
-La posibilidad de una segunda vuelta en el sistema electoral ecuatoriano **garantiza que el binomio presidencial electo cuente con un amplio respaldo ciudadano**. Este proceso permite que los votantes decidan entre las dos opciones más populares, otorgando **mayor legitimidad** al gobierno que resulte electo.
-
-La segunda vuelta de las **elecciones de 2025** sigue un cronograma detallado por el CNE, con el objetivo de asegurar un **proceso justo y transparente**. Las actividades clave como la campaña electoral, el debate presidencial y los mecanismos de votación garantizarán que la ciudadanía tenga una **participación informada y decisiva** en la elección de sus nuevas autoridades.
-
-Incendio en una vivienda dejó dos adultos mayores heridos en Quito
-==================================================================
-
-El Cuerpo de Bomberos atendió dos incendios estructurales la noche de este viernes 4 de octubre.
-------------------------------------------------------------------------------------------------
-
-![Los afectados recibieron atención prehospitalaria tras ser puestos a buen recaudo](https://www.elcomercio.com/wp-content/uploads/2024/10/incendio-sur.jpg)
-
-Dos **incendios estructurales** se registraron en Quito, la noche de este viernes 4 de octubre de 2024.
-
-El **Cuerpo de Bomberos** de la ciudad atendió las emergencias, una en el norte y otra en el sur de la capital.
-
-### Más noticias
-
-* [¿Cómo será el clima de Quito este fin de semana?](https://www.elcomercio.com/actualidad/clima-quito-fin-semana-lluvias.html "¿Cómo será el clima de Quito este fin de semana?")
-* [Menor de edad fue rescatada de un centro de tolerancia en Quito](https://www.elcomercio.com/actualidad/quito/menor-edad-rescate-policia-centro-tolerancia.html "Menor de edad fue rescatada de un centro de tolerancia en Quito")
-* [Tres presuntos involucrados en la desaparición y asesinato de Hernán Mendoza, a juicio](https://www.elcomercio.com/actualidad/quito/hernan-mendoza-juicio-desaparicion-muerte.html "Tres presuntos involucrados en la desaparición y asesinato de Hernán Mendoza, a juicio")
-
-Deflagración en el sur de Quito
--------------------------------
-
-**Dos adultos mayores** resultaron heridos por una deflagración.
-
-La emergencia se registró en el barrio **Lucha de los Pobres**, en el sur de Quito.
-
-Una **fuga de gas** doméstico provocó el incidente en una vivienda del sector.
-
-Debido a la fuerza del incendio fue necesaria la colaboración de **11 bomberos** y cuatro vehículos de emergencia.
-
-Los afectados fueron puestos a buen recaudo y atendidos por **paramédicos** de la ‘Casaca Roja’.
-
-La deflagración es una **combustión muy rápida** que se da por una fuga y acumulación de gas en un lugar cerrado y que se enciende brevemente si hay una chispa o calor, informó la entidad.
-
-> 💥👩🏻‍🚒 [#EmergenciasUIO](https://twitter.com/hashtag/EmergenciasUIO?src=hash&ref_src=twsrc%5Etfw) | Dos personas de la tercera edad resultaron heridas por una deflagración en La Lucha de los Pobres, al sur de [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 💨 Una fuga de gas doméstico provocó el incidente en una vivienda del sector.  
->   
-> 🚑 11 efectivos de nuestro equipo y cuatro vehículos de… [pic.twitter.com/7cyDDS5Q1z](https://t.co/7cyDDS5Q1z)
-> 
-> — Bomberos Quito (@BomberosQuito) [October 5, 2024](https://twitter.com/BomberosQuito/status/1842542632951505257?ref_src=twsrc%5Etfw)
-
-Fábrica se incendió en Carcelén
--------------------------------
-
-En otra alerta registrada este viernes, los Bomberos sofocaron un incendio estructural que se produjo en una **fábrica de zapatos**.
-
-La emergencia se registró en el sector de **Carcelén Industrial**, en norte de Quito.
-
-Al lugar llegaron miembros de la entidad con trajes y equipos especializados para sofocar las **llamas** y realizar trabajos de enfriamiento.
-
-No se reportaron personas afectadas en el siniestro.
-
-> 🔥🏭 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | En el sector de Carcelén Industrial, al norte de Quito, nuestro equipo controló y sofocó un incendio estructural en una fábrica de calzado.  
->   
-> 👨‍🚒 Por fortuna, no se registró heridos.  
->   
-> 💧🚒 Al momento realizamos labores de enfriamiento.  
->   
-> 📞 Recuerda en caso de… [pic.twitter.com/N2s7s6LE1C](https://t.co/N2s7s6LE1C)
-> 
-> — Bomberos Quito (@BomberosQuito) [October 5, 2024](https://twitter.com/BomberosQuito/status/1842537462414913943?ref_src=twsrc%5Etfw)
-
-Habilitan cinco desvíos por el cierre temporal de la Autopista General Rumiñahui
-================================================================================
-
-La Prefectura de Pichincha anunció el pasado 2 de octubre el cierre temporal de la Autopista General Rumiñahui.
----------------------------------------------------------------------------------------------------------------
-
-![El paso elevado que se construye sobre la av. General Rumiñahui facilitará la movilidad de la zona.](https://www.elcomercio.com/wp-content/uploads/2024/10/Autopista-General-Ruminahui.jpg)
-
-La **Prefectura de Pichincha** anunció el pasado 2 de octubre el **cierre temporal de la Autopista General Rumiñahui a la altura del puente 8**, como parte de los trabajos para la **construcción de un paso elevado**. Esta obra tiene como objetivo mejorar la **conexión entre el Valle de Los Chillos y la ciudad de Quito**.
-
-### Más noticias
-
-* [Autopista General Rumiñahui tendrá cierre total este fin de semana](https://www.elcomercio.com/actualidad/quito/autopista-general-ruminahui-cierre-total-fin-de-semana-octubre.html "Autopista General Rumiñahui tendrá cierre total este fin de semana")
-* [Cierre parcial de la autopista General Rumiñahui, este martes 1 de octubre de 2024](https://www.elcomercio.com/actualidad/quito/cierre-parcial-de-la-autopista-general-ruminahui-este-martes-1-de-octubre-de-2024.html "Cierre parcial de la autopista General Rumiñahui, este martes 1 de octubre de 2024")
-* [Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-choque-heridos-quito-ruminahui-monjas.html "Av. Simón Bolívar está cerrada por nuevo choque múltiple, en Quito")
-
-El cierre vehicular se realizará desde las 16:00 del domingo **6 de octubre hasta las 05:00 del lunes 7 de octubre del presente año**.
-
-Desvíos por el cierre de la Autopista General Rumiñahui
--------------------------------------------------------
-
-Con el fin de **minimizar el impacto en el tráfico vehicular** durante este periodo, se ha coordinado con la **Agencia Metropolitana de Tránsito (AMT)** y la **Policía Nacional** para habilitar **cinco desvíos**.
-
-> [#Comunicado](https://twitter.com/hashtag/Comunicado?src=hash&ref_src=twsrc%5Etfw) | Cierre de la Autopista General Rumiñahui, en el sector del Puente 8 ⛔  
->   
-> 🚧 Desde las 16h00 del domingo 6 de octubre hasta las 5h00 del lunes 7 de octubre se cerrarán los 6 carriles de la Autopista General Rumiñahui, en este tramo.  
->   
-> Este cierre permitirá avanzar con… [pic.twitter.com/naVrNCWIkD](https://t.co/naVrNCWIkD)
-> 
-> — Prefectura de Pichincha (@PichinchaGob) [October 4, 2024](https://twitter.com/PichinchaGob/status/1842287462879469680?ref_src=twsrc%5Etfw)
-
-Estos permitirán a los usuarios circular en ambos sentidos**: Quito – Valle de Los Chillos y Valle de Los Chillos – Quito**. Las autoridades locales han difundido los detalles sobre los desvíos en cada dirección.
-
-Sentido Quito – Valle de Los Chillos:
--------------------------------------
-
-* **Desvío 1**: Antes de llegar al puente 8, los conductores deberán girar a la derecha con dirección a la Avenida Lola Quintana, dirigiéndose hacia el parque central de Conocoto.
-
-* **Desvío 2**: Para quienes se dirigen hacia el sector de la Armenia, deberán girar a la izquierda en el semáforo de la Avenida Lola Quintana, en el inicio del puente elevado.
-
-Sentido Valle de Los Chillos – Quito:
--------------------------------------
-
-* **Desvío 5**: Otra opción desde la Armenia consiste en continuar hasta el inicio del puente nuevo y girar en dirección a la calle Charles Darwin, desde donde podrán seguir el mismo recorrido indicado en los desvíos anteriores.
-
-* **Desvío 3**: Desde la Armenia, los vehículos deben tomar la calle Charles Darwin, girar a la derecha en la calle Estadio y luego continuar por la calle Manuela Cañizares. Posteriormente, deberán girar a la izquierda en la calle Andrés de Santa Cruz para salir a la Autopista General Rumiñahui.
-
-* **Desvío 4**: Usando el desvío del puente 8, los conductores podrán llegar a la calle Alfredo Gangotena, girar a la derecha para tomar la calle Charles Darwin, continuar hasta la calle Estadio y seguir el mismo recorrido hasta salir a la Autopista General Rumiñahui.
-
-Según el comunicado oficial, la construcción de este nuevo paso elevado **beneficiará a unos 4 500 usuarios diarios** de la vía directa y **aproximadamente 100 000 usuarios indirectos**. Estos corresponden a los ciudadanos que circulan por la **Autopista General Rumiñahui a diario**.
-
-Bayer Leverkusen de Piero Hincapié tropezó en la Bundesliga
-===========================================================
-
-El Bayer Leverkusen no pudo sumar tres puntos ante uno de los coleros de la Bundesliga.
----------------------------------------------------------------------------------------
-
-![El Bayer Leverkusen no pudo ante uno de los últimos de la Bundesliga.](https://www.elcomercio.com/wp-content/uploads/2024/10/bayer.png)
-
-Este sábado 5 de octubre de 2024, **Bayer Leverkusen empató 2-2 ante Holstein Kiel** en un partido que parecía controlado desde el inicio.
-
-### Más noticias
-
-* [Bayer Leverkusen, con Piero Hincapié, ganó en Champions League](https://www.elcomercio.com/deportes/futbol/piero-hincapie-champions-league-milan.html "Bayer Leverkusen, con Piero Hincapié, ganó en Champions League")
-* [Bayer Leverkusen, con Piero Hincapié, igualó con el Bayern Múnich](https://www.elcomercio.com/deportes/futbol/bayer-leverkusen-piero-hincapie-igualo-bayern-munich.html "Bayer Leverkusen, con Piero Hincapié, igualó con el Bayern Múnich")
-* [Bayer Leverkusen y Piero Hincapié golean en estreno de Champions](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-champions-feyenoord.html "Bayer Leverkusen y Piero Hincapié golean en estreno de Champions")
-
-El encuentro, correspondiente a la Bundesliga, se jugó en e**l BayArena**, y los dirigidos por Xabi Alonso dominaron gran parte del juego, aunque **no lograron mantener la ventaja en la segunda mitad**.
-
-Inicio fulminante del Bayer Leverkusen
---------------------------------------
-
-En los primeros 10 minutos del partido, **Bayer Leverkusen** ya se imponía con autoridad. Victor Boniface abrió el marcador al minuto 6, tras una **gran jugada colectiva**, mientras que Jonas Hofmann amplió la ventaja al minuto 10, capitalizando un **error defensivo del Holstein Kiel**.
-
-La superioridad del Leverkusen fue evidente en los **primeros 45 minuto**s, con un control casi absoluto del balón y numerosas llegadas al área rival.
-
-Sin embargo, el equipo visitante encontró una oportunidad antes de irse al descanso. Max Geschwill descontó en el marcador al minuto 43, **poniendo el 2-1 momentáneo** en una jugada de contraataque que sorprendió a la defensa local.
-
-> Direkt im Anschluss an den Ausgleich erfolgen drei Wechsel beim Bayer:  
->   
-> Es kommen rein:[#Hincapie](https://twitter.com/hashtag/Hincapie?src=hash&ref_src=twsrc%5Etfw), [#Schick](https://twitter.com/hashtag/Schick?src=hash&ref_src=twsrc%5Etfw) & [@97\_aleix](https://twitter.com/97_aleix?ref_src=twsrc%5Etfw)  
-> Es gehen raus:[#Andrich](https://twitter.com/hashtag/Andrich?src=hash&ref_src=twsrc%5Etfw), [@boniface\_jrn](https://twitter.com/boniface_jrn?ref_src=twsrc%5Etfw) & [#Palacios](https://twitter.com/hashtag/Palacios?src=hash&ref_src=twsrc%5Etfw).[#B04KSV](https://twitter.com/hashtag/B04KSV?src=hash&ref_src=twsrc%5Etfw) 2:2 [pic.twitter.com/UvWdJsVWh9](https://t.co/UvWdJsVWh9)
-> 
-> — Bayer 04 Leverkusen (@bayer04fussball) [October 5, 2024](https://twitter.com/bayer04fussball/status/1842581269156360435?ref_src=twsrc%5Etfw)
-
-El defensor ecuatoriano Piero Hincapié no fue titular en este encuentro, una decisión habitual de Xabi Alonso, quien ha implementado un sistema de rotación en la defensa para dar descanso y alternabilidad a sus jugadores.
-
-Holstein Kiel remonta en la segunda mitad
------------------------------------------
-
-A pesar de que el Leverkusen mantuvo el dominio durante el segundo tiempo, no fue capaz de aumentar su ventaja. **Holstein Kiel**, que había mostrado pocas opciones ofensivas hasta ese momento, se encontró con una oportunidad dorada al **minuto 70**.
-
-Un penal a favor de los visitantes fue ejecutado con éxito, lo que permitió a Holstein Kiel igualar el marcador 2-2. Este gol cambió la dinámica del partido, y Xabi Alonso decidió entonces dar ingreso a **Piero Hincapié en los últimos 20 minutos**, buscando reorganizar su defensa para evitar una posible remontada.
-
-> Direkt im Anschluss an den Ausgleich erfolgen drei Wechsel beim Bayer:  
->   
-> Es kommen rein:[#Hincapie](https://twitter.com/hashtag/Hincapie?src=hash&ref_src=twsrc%5Etfw), [#Schick](https://twitter.com/hashtag/Schick?src=hash&ref_src=twsrc%5Etfw) & [@97\_aleix](https://twitter.com/97_aleix?ref_src=twsrc%5Etfw)  
-> Es gehen raus:[#Andrich](https://twitter.com/hashtag/Andrich?src=hash&ref_src=twsrc%5Etfw), [@boniface\_jrn](https://twitter.com/boniface_jrn?ref_src=twsrc%5Etfw) & [#Palacios](https://twitter.com/hashtag/Palacios?src=hash&ref_src=twsrc%5Etfw).[#B04KSV](https://twitter.com/hashtag/B04KSV?src=hash&ref_src=twsrc%5Etfw) 2:2 [pic.twitter.com/UvWdJsVWh9](https://t.co/UvWdJsVWh9)
-> 
-> — Bayer 04 Leverkusen (@bayer04fussball) [October 5, 2024](https://twitter.com/bayer04fussball/status/1842581269156360435?ref_src=twsrc%5Etfw)
-
-Pese a los intentos en los **últimos minutos del Bayer**, no pudo ganar el encuentro frente a uno de los últimos de la Bundesliga.
