@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Nerd-Movies!](https://www.somethingawful.com/comedy-goldmine/nerdmovies/1/)
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [CAT](https://www.somethingawful.com/comedy-goldmine/wake-cat-gifs/1/)
-* [Y?WIFYW!](https://www.somethingawful.com/photoshop-phriday/fucked-your-wife/)
-* [has anyone noticed strange things happening since cheerios + ancient grains was released?](https://www.somethingawful.com/comedy-goldmine/ancient-grains-cheerios/)
+* [Teen Forums](https://www.somethingawful.com/weekend-web/teen-forums/1/)
+* [Metal](https://www.somethingawful.com/your-band-sucks/metal/)
+* [When in Rome; Edge of Darkness](https://www.somethingawful.com/current-movie-reviews/future-rome-darkness/1/)
+* [My Future's So Dark, I Gotta Wear Spikes](https://www.somethingawful.com/news/dark-future-80s/)
+* [The Clavo Times Christmas Pageant 2007 Review](https://www.somethingawful.com/news/clavo-pageant-conex/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [what's in your cargo pants?](http://forums.somethingawful.com/showthread.php?threadid=4071979 "what's in your cargo pants?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [I'm watching Nosferatu (1922) tonight.](http://forums.somethingawful.com/showthread.php?threadid=4072007 "I'm watching Nosferatu (1922) tonight.")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [What is the correct music Hz ?](http://forums.somethingawful.com/showthread.php?threadid=4072045 "What is the correct music Hz ?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Jumpy Elon with the lumpy felon](http://forums.somethingawful.com/showthread.php?threadid=4072021 "Jumpy Elon with the lumpy felon")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [Earths New Moon: Isn't this how horror movies start](http://forums.somethingawful.com/showthread.php?threadid=4071981 "Earths New Moon: Isn't this how horror movies start")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [New Zealand Navy VERSUS Samoan Reef: Battle of the Century](http://forums.somethingawful.com/showthread.php?threadid=4072043 "New Zealand Navy VERSUS Samoan Reef: Battle of the Century")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [I'm watching Nosferatu (1922) tonight.](http://forums.somethingawful.com/showthread.php?threadid=4072007 "I'm watching Nosferatu (1922) tonight.")
 
 ### Random Articles
 
-* [Glenn Beck Has Lost His Voice](https://www.somethingawful.com/everdraed-showcase/glenn-beck-voice/)
-* [Retail Nightmare Investigation Squad Files: Spider Lake, WI](https://www.somethingawful.com/news/retail-nightmare-squad/)
-* [The Adventures of Satan](https://www.somethingawful.com/comedy-goldmine/satan-adventures-cyoa/1/)
-* [Contrails (Chemtrails)](https://www.somethingawful.com/awful-links/awful-link-3690/)
-* [ADRENALIN: Internal Thermoelectricity really can save your life](https://www.somethingawful.com/awful-links/awful-link-1220/)
+* [We Can All Agree This Is Spider-Man's Best Costume](https://www.somethingawful.com/news/spider-costume-outfit/)
+* [News You Can Use: Life In The Sick Lane](https://www.somethingawful.com/news/news-you-can/)
+* [A Complete and Thorough Listing of Every Anime Movie I've Ever Seen](https://www.somethingawful.com/mooflogs/complete-thorough-listing/)
+* [Definitive Proof That Coldplay Stole "Viva la Vida"](https://www.somethingawful.com/news/coldplay-stole-video/)
+* [I'm On To You, Lady In This 15-Year-Old Episode Of Antiques Roadshow](https://www.somethingawful.com/news/antiques-roadshow-lady/)
 
 [Random!](https://www.somethingawful.com/random/)
 
