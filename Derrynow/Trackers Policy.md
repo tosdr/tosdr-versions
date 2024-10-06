@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-05 Oct 2024
+06 Oct 2024
 
 * [Home
     
@@ -268,35 +268,19 @@ The damage caused to the premises. PHOTO: Shannon Moore
 [Police investigating after red paint daubed on Derry business](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)")](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Saturday, October 5 2024](https://www.derrynow.com/news/deaths/1622197/derry-death-notices-saturday-october-5-2024.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
-
-Derry City players celebrate with Gareth McGlynn at Dalymount Park. Pic by Ben McShane/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Cancel your November plans! Derry City are heading to the FAI Cup Final again!](https://www.derrynow.com/news/derry-sport/1622395/cancel-your-november-plans-derry-city-are-heading-to-the-fai-cup-final-again.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Sinn Fein failed to return security pass of child sex offender Michael McMonagle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein failed to return security pass of child sex offender Michael McMonagle")](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Sinn Fein failed to return security pass of child sex offender Michael McMonagle](https://www.derrynow.com/news/local-news/1622378/sinn-fein-failed-to-return-security-pass-of-derry-child-sex-offender-michael-mcmonagle.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Sinn Fein failed to return security pass of child sex offender Michael McMonagle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein failed to return security pass of child sex offender Michael McMonagle")](https://www.derrynow.com/news/national-news/1622373/sinn-fein-failed-to-return-security-pass-of-child-sex-offender-michael-mcmonagle.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Sinn Fein failed to return security pass of child sex offender Michael McMonagle](https://www.derrynow.com/news/national-news/1622373/sinn-fein-failed-to-return-security-pass-of-child-sex-offender-michael-mcmonagle.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Stormont Executive reaffirms commitment to Derry and North West](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stormont Executive reaffirms commitment to Derry and North West")](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
 
@@ -316,20 +300,6 @@ The book will be launched in Naas on October 17
 [New book by County Derry author to be launched in Naas](https://www.derrynow.com/news/local-news/1621255/new-book-by-county-derry-author-to-be-launched-in-naas.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future")](https://www.derrynow.com/news/local-news/1622278/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](https://www.derrynow.com/news/local-news/1622278/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)")](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Roe Valley Integrated Primary School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Valley Integrated Primary School")](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
 
 Roe Valley Integrated Primary School
@@ -338,6 +308,36 @@ Roe Valley Integrated Primary School
 
 [Minister hails new beginning for Roe Valley Integrated Primary School](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Aircoach announced as official travel partner for Derry Halloween 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Aircoach announced as official travel partner for Derry Halloween 2024")](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
+
+Aeidin McCarter, Head of Culture, Derry City and Strabane District Council (R) and Kim Swan, Managing Director, Aircoach (L) along with the Derry Halloween’s Walter DeBurgh
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Aircoach announced as official travel partner for Derry Halloween 2024](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sinn Fein challenged to provide ‘full transparency’ over handling of McMonagle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein challenged to provide ‘full transparency’ over handling of McMonagle")](https://www.derrynow.com/news/northern-ireland/1622618/oneill-apologises-over-party-press-officer-references-for-mcmonagle.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[O’Neill apologises over party press officer references for McMonagle](https://www.derrynow.com/news/northern-ireland/1622618/oneill-apologises-over-party-press-officer-references-for-mcmonagle.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Memorial service to be held to mark 50th anniversary of Guildford pub bombings](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Memorial service to be held to mark 50th anniversary of Guildford pub bombings")](https://www.derrynow.com/news/northern-ireland/1622493/memorial-service-to-be-held-to-mark-50th-anniversary-of-guildford-pub-bombings.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Memorial service to be held to mark 50th anniversary of Guildford pub bombings](https://www.derrynow.com/news/northern-ireland/1622493/memorial-service-to-be-held-to-mark-50th-anniversary-of-guildford-pub-bombings.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![‘Important to tackle homelessness narrative’, says William in documentary clip](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Important to tackle homelessness narrative’, says William in documentary clip")](https://www.derrynow.com/news/northern-ireland/1622558/important-to-tackle-homelessness-narrative-says-william-in-documentary-clip.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[‘Important to tackle homelessness narrative’, says William in documentary clip](https://www.derrynow.com/news/northern-ireland/1622558/important-to-tackle-homelessness-narrative-says-william-in-documentary-clip.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
