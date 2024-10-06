@@ -83,7 +83,7 @@ Random Pages
 
 * * *
 
-[Quantum Time](https://www.exactlywhatistime.com/physics-of-time/quantum-time/) [Periodization](https://www.exactlywhatistime.com/measurement-of-time/periodization/) [Ageing](https://www.exactlywhatistime.com/other-aspects-of-time/ageing/) [Glossary of Terms](https://www.exactlywhatistime.com/glossary-of-terms/) [Units of Measurement](https://www.exactlywhatistime.com/measurement-of-time/units-of-measurement/) [Definition of Time](https://www.exactlywhatistime.com/definition-of-time/) [Early Modern Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/early-modern-philosophy/) [Physics of Time](https://www.exactlywhatistime.com/physics-of-time/) [24H Ampm Converter](https://www.exactlywhatistime.com/24h-ampm-converter) [Calendars](https://www.exactlywhatistime.com/measurement-of-time/calendars/)
+[Time In Literature](https://www.exactlywhatistime.com/other-aspects-of-time/time-in-literature/) [Measurement of Time](https://www.exactlywhatistime.com/measurement-of-time/) [Calendars](https://www.exactlywhatistime.com/measurement-of-time/calendars/) [Periodization](https://www.exactlywhatistime.com/measurement-of-time/periodization/) [Psychology of Time](https://www.exactlywhatistime.com/psychology-of-time/) [Quantum Time](https://www.exactlywhatistime.com/physics-of-time/quantum-time/) [Glossary of Terms](https://www.exactlywhatistime.com/glossary-of-terms/) [Time Percenption](https://www.exactlywhatistime.com/psychology-of-time/time-percenption/) [Physics of Time](https://www.exactlywhatistime.com/physics-of-time/) [Absolute Time](https://www.exactlywhatistime.com/physics-of-time/absolute-time/)
 
 © 2024 ExactlyWhatIsTime.com - Exactly What Is Time?
 
