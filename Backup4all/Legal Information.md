@@ -136,15 +136,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to create a smart backup](https://www.backup4all.com/how-to-create-a-smart-backup-kb.html)  
+* [Why the mirror files are not deleted from des ...](https://www.backup4all.com/why-the-mirror-files-are-not-deleted-from-destination-kb.html)  
     
-* [How to backup your data to dinCloud](https://www.backup4all.com/how-to-backup-your-data-to-dincloud-kb.html)  
+* [Backup4all appears to be open in taskbar but ...](https://www.backup4all.com/backup4all-appears-to-be-open-in-taskbar-but-you-cannot-see-kb.html)  
     
-* [How to back up data files from Connectria usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-connectria-using-backup4all-kb.html)  
+* [Rotating backup scheme using external drives](https://www.backup4all.com/rotating-backup-scheme-using-external-drives-kb.html)  
     
-* [Backup to Amazon S3 using Backup4all 6 or old ...](https://www.backup4all.com/backup-to-amazon-s3-kb.html)  
+* [How to deactivate Backup4all](https://www.backup4all.com/how-to-deactivate-backup4all-kb.html)  
     
-* [How to override the application folders](https://www.backup4all.com/how-to-override-the-application-folders-kb.html)  
+* [How to backup your data to ThinkOn](https://www.backup4all.com/how-to-backup-your-data-to-thinkon-kb.html)  
     
 
 Choose language:
