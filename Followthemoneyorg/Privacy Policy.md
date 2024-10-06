@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Contested Races by State, 2014](/assets/Images/teasers/small/Contested-Races.png)](https://www.followthemoney.org/research/blog/no-contest-36-percent-of-2014-state-legislative-races-offer-no-choice-blog/)
+[![Lobbyists](/assets/Images/teasers/small/company-lobbyists-pie-chart-new3.png)](https://www.followthemoney.org/research/institute-research/buying-broadband-a-boost)
 
-36% of races were uncontested in 2014.
+Telecom companies hire 1,000s of state lobbyists.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
