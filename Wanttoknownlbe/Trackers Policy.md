@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/klimaatverandering-in-een-paar-plaatjes/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/we-want-to-know-en-jij/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
