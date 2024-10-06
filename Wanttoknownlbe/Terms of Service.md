@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/sungazing-een-nieuwe-trend-in-2011/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/lelystad-foutjes-sorry-of-pure-manipulatie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
