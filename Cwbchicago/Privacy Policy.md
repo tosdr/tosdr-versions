@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Indya-Smith-326x245.jpg)](https://cwbchicago.com/2024/10/woman-charged-with-shooting-man-on-red-line-train.html "Woman charged with shooting man on Red Line train")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Edward-Coronel-b-326x245.jpg)](https://cwbchicago.com/2024/10/recent-parolee-fired-shot-while-robbing-man-in-humboldt-park-prosecutors-say.html "Recent parolee fired shot while robbing man in Humboldt Park, prosecutors say")
 
-CTA
+Humboldt Park
 
-### [Woman charged with shooting man on Red Line train](https://cwbchicago.com/2024/10/woman-charged-with-shooting-man-on-red-line-train.html "Woman charged with shooting man on Red Line train")
+### [Recent parolee fired shot while robbing man in Humboldt Park, prosecutors say](https://cwbchicago.com/2024/10/recent-parolee-fired-shot-while-robbing-man-in-humboldt-park-prosecutors-say.html "Recent parolee fired shot while robbing man in Humboldt Park, prosecutors say")
 
-[October 3, 2024 5:41 PM](https://cwbchicago.com/2024/10)
+[October 4, 2024 7:43 AM](https://cwbchicago.com/2024/10)
 
-Prosecutors have charged an Uptown woman with shooting a man as they rode a Red Line train on the North Side yesterday morning.[](https://cwbchicago.com/2024/10/woman-charged-with-shooting-man-on-red-line-train.html "Woman charged with shooting man on Red Line train")
+A man recently released from prison is back behind bars after prosecutors said he fired a gun while robbing a man in Humboldt Park.[](https://cwbchicago.com/2024/10/recent-parolee-fired-shot-while-robbing-man-in-humboldt-park-prosecutors-say.html "Recent parolee fired shot while robbing man in Humboldt Park, prosecutors say")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/FBI-Barechested-bandit-326x245.jpg)](https://cwbchicago.com/2024/10/fbi-dubs-serial-bank-robber-the-bare-chested-bandit.html "FBI dubs serial bank robber the ‘Bare Chested Bandit’")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Monique-Scott-David-Moore-326x245.jpg)](https://cwbchicago.com/2024/10/aldermen-priest-call-for-reinstatement-of-shotspotter-after-murder-victims-are-found-on-city-streets-how-many-more-will-there-be.html "Aldermen, priest call for reinstatement of ShotSpotter after murder victims are found on city streets; ‘How many more will there be?’")
 
-Loop
+Citywide
 
-### [FBI dubs serial bank robber the ‘Bare Chested Bandit’](https://cwbchicago.com/2024/10/fbi-dubs-serial-bank-robber-the-bare-chested-bandit.html "FBI dubs serial bank robber the ‘Bare Chested Bandit’")
+### [Aldermen, priest call for reinstatement of ShotSpotter after murder victims are found on city streets; ‘How many more will there be?’](https://cwbchicago.com/2024/10/aldermen-priest-call-for-reinstatement-of-shotspotter-after-murder-victims-are-found-on-city-streets-how-many-more-will-there-be.html "Aldermen, priest call for reinstatement of ShotSpotter after murder victims are found on city streets; ‘How many more will there be?’")
 
-[October 2, 2024 7:41 PM](https://cwbchicago.com/2024/10)
+[October 4, 2024 6:22 AM](https://cwbchicago.com/2024/10)
 
-When you’re a bank robber, you know you’ve made it when the FBI starts referring to you by a catchy nickname. Say “hello” to the “Bare-Chested Bandit.”[](https://cwbchicago.com/2024/10/fbi-dubs-serial-bank-robber-the-bare-chested-bandit.html "FBI dubs serial bank robber the ‘Bare Chested Bandit’")
+Two Chicago aldermen are publicly calling for Mayor Brandon Johnson to reactivate the city’s ShotSpotter network after gunshot victims, including a 14-year-old boy, were found murdered in their wards.[](https://cwbchicago.com/2024/10/aldermen-priest-call-for-reinstatement-of-shotspotter-after-murder-victims-are-found-on-city-streets-how-many-more-will-there-be.html "Aldermen, priest call for reinstatement of ShotSpotter after murder victims are found on city streets; ‘How many more will there be?’")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/5400-block-n-winthrop-chicago-map-326x245.jpg)](https://cwbchicago.com/2024/10/woman-shot-while-exiting-car-in-edgewater-where-shootings-are-up-260-this-year.html "Woman shot while exiting car in Edgewater, where shootings are up 260% this year")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Leotis-Carter-326x245.jpg)](https://cwbchicago.com/2024/10/drunk-driver-in-fatal-wrong-way-crash-had-alcohol-level-nearly-3x-legal-limit-prosecutors-say.html "Drunk driver in fatal wrong-way crash had alcohol level nearly 3x legal limit, prosecutors say")
 
-Edgewater
+Douglas
 
-### [Woman shot while exiting car in Edgewater, where shootings are up 260% this year](https://cwbchicago.com/2024/10/woman-shot-while-exiting-car-in-edgewater-where-shootings-are-up-260-this-year.html "Woman shot while exiting car in Edgewater, where shootings are up 260% this year")
+### [Drunk driver in fatal wrong-way crash had alcohol level nearly 3x legal limit, prosecutors say](https://cwbchicago.com/2024/10/drunk-driver-in-fatal-wrong-way-crash-had-alcohol-level-nearly-3x-legal-limit-prosecutors-say.html "Drunk driver in fatal wrong-way crash had alcohol level nearly 3x legal limit, prosecutors say")
 
-[October 2, 2024 7:21 PM](https://cwbchicago.com/2024/10)
+[October 3, 2024 8:08 PM](https://cwbchicago.com/2024/10)
 
-A 30-year-old woman was shot while getting out of a car in the Edgewater neighborhood on Wednesday morning.[](https://cwbchicago.com/2024/10/woman-shot-while-exiting-car-in-edgewater-where-shootings-are-up-260-this-year.html "Woman shot while exiting car in Edgewater, where shootings are up 260% this year")
+The motorist responsible for a fatal wrong-way crash on Lake Shore Drive was driving on a revoked license with a blood alcohol level about three times the legal limit, prosecutors said in court filings.[](https://cwbchicago.com/2024/10/drunk-driver-in-fatal-wrong-way-crash-had-alcohol-level-nearly-3x-legal-limit-prosecutors-say.html "Drunk driver in fatal wrong-way crash had alcohol level nearly 3x legal limit, prosecutors say")
 
 Search
 
@@ -360,6 +360,7 @@ Thank you.
 * [Portage Park](https://cwbchicago.com/category/portage-park-2)
 * [Ravenswood](https://cwbchicago.com/category/ravenswood)
 * [River North](https://cwbchicago.com/category/near-north/river-north)
+* [Riverdale](https://cwbchicago.com/category/riverdale)
 * [Rogers Park](https://cwbchicago.com/category/rogers-park)
 * [Roscoe Village](https://cwbchicago.com/category/roscoe-village)
 * [Roseland](https://cwbchicago.com/category/roseland)
