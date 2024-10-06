@@ -205,28 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Freeballing Forums and Low Hanging Support Group](https://www.somethingawful.com/weekend-web/balls-forums/1/)
-* [Da-Blocc and Boylove Online Community](https://www.somethingawful.com/weekend-web/weekend-web-gang/1/)
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Mark of the Beast is MONEY](https://www.somethingawful.com/awful-links/awful-link-2562/)
-* [Gulf War II: The Reckoning!](https://www.somethingawful.com/comedy-goldmine/gulf-war-ii/1/)
+* [Classic Comics III](https://www.somethingawful.com/photoshop-phriday/classic-comics-iii/1/)
+* [Who Is Homer Simpson?](https://www.somethingawful.com/comedy-goldmine/homer-simpson-drawings/1/)
+* [Ill-Conceived Toys](https://www.somethingawful.com/photoshop-phriday/illconceived-toys/1/)
+* [Lamentations of the Flame Princess: Grindhouse Edition (2011)](https://www.somethingawful.com/dungeons-and-dragons/lamentations-flame-princess/1/)
+* [Everything is Pumpkin Spice!](https://www.somethingawful.com/comedy-goldmine/pumpkin-spice-products/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [I'm watching Nosferatu (1922) tonight.](http://forums.somethingawful.com/showthread.php?threadid=4072007 "I'm watching Nosferatu (1922) tonight.")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [Earths New Moon: Isn't this how horror movies start](http://forums.somethingawful.com/showthread.php?threadid=4071981 "Earths New Moon: Isn't this how horror movies start")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/audio.png) [How the hell do you avoid being scammed from buying concert tickets?](http://forums.somethingawful.com/showthread.php?threadid=4071963 "How the hell do you avoid being scammed from buying concert tickets?")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [what's in your cargo pants?](http://forums.somethingawful.com/showthread.php?threadid=4071979 "what's in your cargo pants?")
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Rented meet Joe bblack](http://forums.somethingawful.com/showthread.php?threadid=4071951 "Rented meet Joe bblack")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [ALL OPERATORS ARE BUSY HELPING OTHER POSTERS, PLEASE HOLD](http://forums.somethingawful.com/showthread.php?threadid=4071947 "ALL OPERATORS ARE BUSY HELPING OTHER POSTERS, PLEASE HOLD")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/audio.png) [How the hell do you avoid being scammed from buying concert tickets?](http://forums.somethingawful.com/showthread.php?threadid=4071963 "How the hell do you avoid being scammed from buying concert tickets?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [I'm watching Nosferatu (1922) tonight.](http://forums.somethingawful.com/showthread.php?threadid=4072007 "I'm watching Nosferatu (1922) tonight.")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Jumpy Elon with the lumpy felon](http://forums.somethingawful.com/showthread.php?threadid=4072021 "Jumpy Elon with the lumpy felon")
 
 ### Random Articles
 
-* [Careers After Politics!](https://www.somethingawful.com/comedy-goldmine/careers-after-politics/1/)
-* [McMurder](https://www.somethingawful.com/awful-links/awful-link-3822/)
-* [IncrediDolls (Thanks, Testikles!) (NWS!)](https://www.somethingawful.com/awful-links/incredidoll-photography/)
-* [Memos from Bear Cave: The '79 Houston Soup & Broth Expo](https://www.somethingawful.com/news/bear-cave-expo/)
-* [The Ultimate Christmas Site](https://www.somethingawful.com/awful-links/awful-link-1195/)
+* [Dadapop Magazine](https://www.somethingawful.com/awful-links/awful-link-524/)
+* [Know Your Dragon Age: Inquisition Skills](https://www.somethingawful.com/news/dragon-inquisition-skills/)
+* [Monstergeddon Forums > Politics & Religion > Feminism](https://www.somethingawful.com/news/monstergeddon-feminism/1/)
+* [I Hate You Page 222](https://www.somethingawful.com/cliff-yablonski/i-hate-you-222/)
+* [Numbers You'd Rather Not Know](https://www.somethingawful.com/news/numbers-rather-not/)
 
 [Random!](https://www.somethingawful.com/random/)
 
