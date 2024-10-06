@@ -214,45 +214,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> UnionPay focuses on Fintech innovation and is committed to building an open platform that provides integrated payment services with global influence. Under the frame of legal and regulatory compliance, we are pleased to provide service and conduct active cooperation. We look forward to working with OIN and community members to protect our global business and the open source projects that encourage innovation.  
+> At the time of OIN’s founding, open source was nascent, and most software was built in silos. During the past 15 years, we have been pleased to watch the OIN community grow from 6 members to more than 3,300. The OIN community’s powerful cross license has enabled businesses to safely develop and sell innovative new systems and platforms that have revolutionized the way the world conducts business.  
 
-UnionPayIntellectual Property ManagerUnionPay
+Peter TotoSenior VP, IP CounselSony Corporation of America
 
-> China Mobile is committed to becoming a world-class information services and sci-tech innovation enterprise, and understands that Linux System and open source technology is a cornerstone to drive technological innovation and accelerate service innovation. After joining OIN, China Mobile will not only continue to support the innovative practice of open source projects, but also work closely with OIN and its members to promote the high-level implementation of the Linux System and open source techn… [Read more](https://openinventionnetwork.com/testimonial/china-mobile/ "Complete testimonial by Jia Liu")
+> Tencent is committed to offering high-quality, Internet-based services from social, games and digital content to mobile payment, cloud services, Internet financial services and smart retail solutions, among many others. Linux and open source are critical elements in the technologies that we are developing to provide these services. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
 
-Jia LiuDeputy GM, Science & Technology Innovation, China Mobile
+Xu YanSenior Account ManagerTencent Holdings Limited
 
-> Linux is the largest undertaking of shared innovation in our planet’s history. The OSS community has written and shared billions of lines of code that have transformed the way businesses operate and consumers live. We congratulate OIN for its 15 years, during which it has provided a protective shield against patent aggression. We encourage all open source contributors and users to join OIN and demonstrate their commitment to a safe environment for continued growth in Linux and other OSS proje… [Read more](https://openinventionnetwork.com/testimonial/jim-zemlin-the-linux-foundation/ "Complete testimonial by Jim Zemlin")
+> The OpenChain Project is part of a broad global community engaging with all aspects of intellectual property around open source.  
 
-Jim ZemlinExecutive DirectorThe Linux Foundation
+Shane CoughlanProgram ManagerOpenChain Project
 
-> _We continuously look for ways to integrate the best technologies in our payment solutions, which helps to deliver capabilities and services that our merchant and bank customers value and trust. We provide our customers safer and faster digital transaction services, and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting Open Source software._
+> We view OIN as one of the key methods through which open source leaders and innovators can deter patent aggression. We are committed to freedom of action in open source, and have noted OIN’s efforts to actively defend and enable the Linux ecosystem.  
 
-Christophe DuquenneGroup Chief Technology & Operations Officer, Worldline
+Jane SilberCEOCanonical
 
-> Freedom to participate in open source projects and adopt Linux and other open source code has been enabled through broad based participation in the OIN cross-license, which has become a litmus test for authenticity in the open source community. Joining the OIN community demonstrates an explicit recognition among signatories of a commitment to open source technologies and the set of norms required around the appropriate use of patents in an increasingly open source-centric world. Companies that … [Read more](https://openinventionnetwork.com/testimonial/keith-bergelt-open-invention-network/ "Complete testimonial by Keith Bergelt")
+> With the Industrial Internet of Things (IIOT) reshaping what is possible in industrial settings — improving productivity, enhancing operational efficiency and increasing customer choice — we view Linux and other open source projects as key enablers in the IIOT. The success of the IIOT is predicated on the ability to connect and manage widely distributed sensors and devices across numerous vertical industries and compute the data effectively on an industrial scale.  
 
-Keith BergeltCEOOpen Invention Network
+Peter KohlschmidtCTOMoxa
 
-> The OIN membership supports Kontron on many levels. With our focus on building out our IoT framework, it makes perfect sense to be a part of an open source community that protects the rights of all members within the community, especially to reduce our patent risk around Linux related technology.  
+> At Shopify, we’ve built our platform on Ruby on Rails. We view open source software as a key foundation for our business. By joining the Open Invention Network, we have committed to patent non-aggression in core Linux and adjacent open source software. We believe that this commitment will promote innovation and help enable entrepreneurs and developers to build on open source foundations without focusing on the threat of litigation. We strongly encourage all forward-looking ecommerce platforms,… [Read more](https://openinventionnetwork.com/testimonial/shopify/ "Complete testimonial by Robert Guay")
 
-Jens WiegandCTO / EVP Software & ElectronicsKontron
+Robert GuaySenior Counsel, Intellectual PropertyShopify
 
-> Companies building products using open source technologies must help protect open source communities from threats posed by abusers of low quality patents.We applaud the innovative approach taken by the OS Zone and call on other companies to support solutions that protect open source innovation from targeted threats.
+> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
 
-MicrosoftJustin Colannino, Associate General Counsel for Open Source at Microsoft
+Roberto Di CosmoFounder & CEOSoftware Heritage
 
-> At Rakuten, our businesses continue to evolve as we address new market opportunities. Because of this, we are a user and strong advocate of open source software. We are building the first 100% fully virtualized mobile network, enabling us to scale rapidly and offer the best Quality-of-Service (QoS) available. By joining OIN, we are demonstrating our commitment to Open Source Software (OSS) and supporting it with a pledge of patent non-aggression.  
+> At JD.com, we have employed open source technologies such as Kubernetes and Open Stack, along with Linux, to improve the speed, functionality and stability of our infrastructure while lowering operating costs.  
 
-Tareq AminCAO, Group Executive Vice PresidentRakuten, Inc.
+Rain LongChief Human Resource Officer & General CounselJD.com
 
-> OIN is an organization which helps protect the Linux ecosystem by building a variety of defenses against patent attacks. By joining, Mozilla receives cross-licenses from other OIN licensees, but more importantly, for the long term, it affords us a chance to work with OIN in reducing IP threats to open source development and innovation.  
+> Openness and sharing are the sources of innovation. Alibaba is excited to join Open Invention Network and share our cutting edge innovations with industry leaders.  
 
-Harvey AndersonVP & General CounselMozilla
+Jiangwei JiangAlgorithm EngineerAlibaba Cloud Computing
 
-> More than 70% of D-Link’s networking and communication solutions have implemented open source software since the beginning phase of research and development. We have and will continue to advocate for OSS and patent non-aggression, and we look forward to making our contributions to the OIN community to encourage innovation.  
+> For some time, Groupe Renault has invested in developing the innovations and technologies that will enable sustainable transportation that excels in urban and rural environments and brings connected services in the vehicle. With our rapid pace of development coupled with our passion for precision, quality and interoperability, we see leveraging open source software as an important part of our strategy.  
 
-Mark ChenPresidentD-Link
+Groupe Renault
 
 [![Open Invention Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201373%20172'%3E%3C/svg%3E)
 
@@ -268,7 +268,7 @@ Your Name\*
 
 Email\*
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
