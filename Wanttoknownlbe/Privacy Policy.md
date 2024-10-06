@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/omg-is-dit-jouw-volkskrant-hoofdredacteur/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-juiste-%e2%80%98instelling%e2%80%99-voor-2012-lezersbrief/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
