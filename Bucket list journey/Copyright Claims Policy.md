@@ -150,9 +150,7 @@ Name Email Website
 
 Δ
 
-[![Bucket List Boss Annette White](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='900'%20height='1200'%20viewBox='0%200%20900%201200'%3E%3C/svg%3E)
-
-![Bucket List Boss Annette White](https://bucketlistjourney.net/wp-content/uploads/2020/07/IMG_5199-3-Boss-Headshot-copy.jpg)](https://bucketlistjourney.net/about/)
+[![Bucket List Boss Annette White](https://bucketlistjourney.net/wp-content/uploads/2020/07/IMG_5199-3-Boss-Headshot-copy.jpg)](https://bucketlistjourney.net/about/)
 
 Hey! I'm Annette.
 -----------------
@@ -167,11 +165,7 @@ Are you ready to start facing your fear and living your bucket list?
 **JOIN US TO GET 2,000 BUCKET LIST IDEAS FREE**
 -----------------------------------------------
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
 ![](https://forms.aweber.com/form/displays.htm?id=TKwMHOxMTGxM)
-
-![Annette White the Owner of Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='240'%20height='300'%20viewBox='0%200%20240%20300'%3E%3C/svg%3E "Bucket List Template Annette")
 
 ![Annette White the Owner of Bucket List Journey](https://bucketlistjourney.net/wp-content/smush-webp/2023/02/Bucket-List-Template-Annette-240x300.jpg.webp "Bucket List Template Annette")
 
@@ -200,8 +194,6 @@ Jump right in and you will get your printable ideas by email:
   
   
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
 [Share you BUCKET LIST WINS for the month of Septem ![Share you BUCKET LIST WINS for the month of September! What have you added to your #bucketlist, what goals have you made progress towards or checked off? Or what new thing have you tried?
@@ -216,28 +208,9 @@ Here’s my September “bucket list wins” recap 👇
 ✧ Checked “Make a Free Throw” off my bucket list
 Made Some Progress on:
 ✧ ��Completed 5 recipes from one cookbook (it’s my goal to complete every recipe. I chose the @halfbakedharvest Everyday cookbook and have done 43 out of 124!) 😋 
-#bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistboss  #bucketlistcheck #bucketlistchecked #bucketlisters #bucketlistgoals #bucketlistideas #bucketlists #dreambig #dreambigger #dreamitdoit](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Share you BUCKET LIST WINS for the month of September! What have you added to your #bucketlist, what goals have you made progress towards or checked off? Or what new thing have you tried?
-Here’s my September “bucket list wins” recap 👇
-✧ Flew a kit at a Bodega Bay, California beach 🪁 
-✧ Went wine tasting @sonomacoastvineyards 🍷 
-✧ Played pinball @therewindarcade 
-✧ Tried a new restaurant @rockeroysterfellerslucaswharf
-✧ Walked a new beach (Doran Beach)
-✧ Modeled hats @glamourie_hats
-✧ Had the first dinner party on my new patio ♥️ 
-✧ Checked “Make a Free Throw” off my bucket list
-Made Some Progress on:
-✧ ��Completed 5 recipes from one cookbook (it’s my goal to complete every recipe. I chose the @halfbakedharvest Everyday cookbook and have done 43 out of 124!) 😋 
 #bucketlist #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlistboss  #bucketlistcheck #bucketlistchecked #bucketlisters #bucketlistgoals #bucketlistideas #bucketlists #dreambig #dreambigger #dreamitdoit](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAtGygLv_wV/) 
 
 [I made a list of my FAVORITE 100 travel experience ![I made a list of my FAVORITE 100 travel experiences around the world (things I’ve actually done!) and these 5 that are at the top of that list 🤩 
-👉 Want the full list of 100? 
-Drop the word ⚡️TRAVEL⚡️ in the comments to get the link.
-#bucketlist #bucketlisttravel #bucketlistadventures #travel #travelbucketlist #borntotravel  #exploretheglobe #wanderlust #travelmore #travellover](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![I made a list of my FAVORITE 100 travel experiences around the world (things I’ve actually done!) and these 5 that are at the top of that list 🤩 
 👉 Want the full list of 100? 
 Drop the word ⚡️TRAVEL⚡️ in the comments to get the link.
 #bucketlist #bucketlisttravel #bucketlistadventures #travel #travelbucketlist #borntotravel  #exploretheglobe #wanderlust #travelmore #travellover](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAlc-pdPKM9/) 
@@ -259,33 +232,9 @@ Here’s some of my favorite shops:
 8️⃣ Get a pre-dinner cocktail at the super trendy @fernbar.sebastopol. I got the creamy Thai Iced Tea, and it was almost too pretty to drink! PS: their food there is great too!
 9️⃣ Have dinner @ramengaijin— a yummy ramen shop and izakaya. The best seats are at the ramen counter! 🍜 
 1️⃣0️⃣ And no day is complete without dessert, so hit up @screaminmimisicecream for some ice cream🍦 I loved the cherry chocolate almond flavor!
-@sonomacounty @visitcalifornia #sebastopol #sebastopolcalifornia #sonomacounty #thebarlow #visitcalifornia #California #northerncalifornia #travelbucketlist #bucketlist #bucketlistadventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![🚗✨ Here’s my one-day bucket list itinerary for SEBASTOPOL, CALIFORNIA
-(💫 SAVE for planning your trip to Northern #California💫)
-1️⃣ Start the morning with coffee & pastries  @brewtaylorlane ☕️ 
-2️⃣ Go to @boringfarm to pick some raspberries. It’s a do-it-yourself place, so grab your box and load up. Plus, don’t skip the raspberry popsicle!  PS: this is the last weekend of the season, so make sure to grab your spot online.
-3️⃣ Stroll down Florence Avenue to check out the quirky junk art—seriously, every few houses has its own little masterpiece. 
-4️⃣ Grab lunch @handline.sebastopol—it’s a casual coastal-centric restaurant that has great tacos and soft serve ice cream 🌮
-5️⃣ Wine lovers, @drinkregion is a MUST. They have over 50 self-serve wines—you can taste or go all in for a full glass! 🍷
-6️⃣ Explore and shopping @thebarlow707—a 12-acre open-air market district.
-Here’s some of my favorite shops: 
-@acorn.shop: cute home goods and gifts
-@rustboutique: women’s clothes & jewelry
-@jgswitzer: Fiber art & felted fabrics for the home
-@indigenousdesigns: : Beautiful organic and fair trade fashion
-7️⃣ Play some pinball at @therewindarcade. Load up your playing card and go wild with so many retro games!
-8️⃣ Get a pre-dinner cocktail at the super trendy @fernbar.sebastopol. I got the creamy Thai Iced Tea, and it was almost too pretty to drink! PS: their food there is great too!
-9️⃣ Have dinner @ramengaijin— a yummy ramen shop and izakaya. The best seats are at the ramen counter! 🍜 
-1️⃣0️⃣ And no day is complete without dessert, so hit up @screaminmimisicecream for some ice cream🍦 I loved the cherry chocolate almond flavor!
 @sonomacounty @visitcalifornia #sebastopol #sebastopolcalifornia #sonomacounty #thebarlow #visitcalifornia #California #northerncalifornia #travelbucketlist #bucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAYyXDyP3js/) 
 
 [Did you know the average person has only been to 5 ![Did you know the average person has only been to 5 of these iconic places? 🌍
-Here are 30 of the most popular places to visit in the world (Eiffel Tower, Machu Picchu, Great Wall of China... you know, the big ones!)—how many have you checked off?! 
-Drop your number in the comments! 👇 I’m sitting at 17, and there’s still SO much more of this beautiful world to see. Where to next? 🌟 
-#bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories  #traveltheworld #worldtraveler #travelmore #travellover](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Did you know the average person has only been to 5 of these iconic places? 🌍
 Here are 30 of the most popular places to visit in the world (Eiffel Tower, Machu Picchu, Great Wall of China... you know, the big ones!)—how many have you checked off?! 
 Drop your number in the comments! 👇 I’m sitting at 17, and there’s still SO much more of this beautiful world to see. Where to next? 🌟 
 #bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories  #traveltheworld #worldtraveler #travelmore #travellover](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAQ3j4qv_9e/) 
