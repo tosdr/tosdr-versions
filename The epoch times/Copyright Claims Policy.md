@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Study Finds Dental Health Benefits of Fluoride in Drinking Water May Have Declined](https://www.theepochtimes.com/health/study-finds-dental-health-benefits-of-fluoride-in-drinking-water-may-have-declined-5736084)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Study Finds Dental Health Benefits of Fluoride in Drinking Water May Have Declined](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Study Finds Dental Health Benefits of Fluoride in Drinking Water May Have Declined](https://img.theepochtimes.com/assets/uploads/2024/07/08/id5682044-California-Water-Tap-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/study-finds-dental-health-benefits-of-fluoride-in-drinking-water-may-have-declined-5736084)
+* [Gallstones: Most Often 'Silent,' but Watch for 5 Signs](https://www.theepochtimes.com/health/gallstones-symptoms-causes-treatments-and-natural-approaches-5733284)
+    
+    2hr By [Terri Ward](https://www.theepochtimes.com/author/terri-ward)
+    
+    [![Gallstones: Most Often 'Silent,' but Watch for 5 Signs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Gallstones: Most Often 'Silent,' but Watch for 5 Signs](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735562-gallstone_feature-205x123.jpg.webp)](https://www.theepochtimes.com/health/gallstones-symptoms-causes-treatments-and-natural-approaches-5733284)
+* [FEMA Director Rejects Claims About Response to Helene: ‘Not Helpful’](https://www.theepochtimes.com/us/fema-director-rejects-claims-about-response-to-helene-not-helpful-5736351)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![FEMA Director Rejects Claims About Response to Helene: ‘Not Helpful’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FEMA Director Rejects Claims About Response to Helene: ‘Not Helpful’](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736456-Helene-Damage-NC-3_JF_10052024-LS-205x123.webp)](https://www.theepochtimes.com/us/fema-director-rejects-claims-about-response-to-helene-not-helpful-5736351)
+* [Uphill Legal Battle for Those Censored on Social Media](https://www.theepochtimes.com/us/uphill-legal-battle-for-those-censored-on-social-media-5730013)
+    
+    3hr By [Katie Spence](https://www.theepochtimes.com/author/katie-spence)
+    
+    [![Uphill Legal Battle for Those Censored on Social Media](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Uphill Legal Battle for Those Censored on Social Media](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736376-Supreme-Court-GettyImages-2087317637KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/uphill-legal-battle-for-those-censored-on-social-media-5730013)
+* [‘It’s Our Hurricane Katrina’: Asheville Residents Describe Death, Destruction, Danger After Hurricane Helene](https://www.theepochtimes.com/article/its-our-hurricane-katrina-asheville-residents-describe-death-destruction-danger-after-hurricane-helene-5735900)
+    
+    4hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    
+    [![‘It’s Our Hurricane Katrina’: Asheville Residents Describe Death, Destruction, Danger After Hurricane Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![‘It’s Our Hurricane Katrina’: Asheville Residents Describe Death, Destruction, Danger After Hurricane Helene](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736337-3000-tunnel8-studio-205x123.jpg.webp)](https://www.theepochtimes.com/article/its-our-hurricane-katrina-asheville-residents-describe-death-destruction-danger-after-hurricane-helene-5735900)
+* [After Ending Presidential Bid, RFK Jr. Focused on America’s Chronic Disease Problem](https://www.theepochtimes.com/us/after-ending-presidential-bid-rfk-jr-focused-on-americas-chronic-disease-problems-5735413)
+    
+    4hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    
+    [![After Ending Presidential Bid, RFK Jr. Focused on America’s Chronic Disease Problem](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![After Ending Presidential Bid, RFK Jr. Focused on America’s Chronic Disease Problem](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736457-EpochImages-9874500900-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/after-ending-presidential-bid-rfk-jr-focused-on-americas-chronic-disease-problems-5735413)
+* [Everything We Know About Milton: Major Hurricane Forecast to Hit Florida This Week](https://www.theepochtimes.com/us/everything-we-know-about-milton-major-hurricane-forecast-to-hit-florida-this-week-5736305)
+    
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Everything We Know About Milton: Major Hurricane Forecast to Hit Florida This Week](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Everything We Know About Milton: Major Hurricane Forecast to Hit Florida This Week](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736312-19191919191202020-205x123.jpg.webp)](https://www.theepochtimes.com/us/everything-we-know-about-milton-major-hurricane-forecast-to-hit-florida-this-week-5736305)
+* [Milton Strengthens to Hurricane as DeSantis Preps Gulf Coast for Category 3 Storm](https://www.theepochtimes.com/us/all-hands-on-deck-desantis-preps-gulf-coast-for-category-3-hurricane-5736267)
+    
+    5hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Milton Strengthens to Hurricane as DeSantis Preps Gulf Coast for Category 3 Storm](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Milton Strengthens to Hurricane as DeSantis Preps Gulf Coast for Category 3 Storm](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736306-tsmilton3-205x123.jpeg.webp)](https://www.theepochtimes.com/us/all-hands-on-deck-desantis-preps-gulf-coast-for-category-3-hurricane-5736267)
+* [US Passport Processing Times Reduced by 2 Weeks: State Department](https://www.theepochtimes.com/us/us-passport-processing-times-reduced-by-2-weeks-state-department-5736240)
+    
+    6hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![US Passport Processing Times Reduced by 2 Weeks: State Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Passport Processing Times Reduced by 2 Weeks: State Department](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671603-passport.jpg-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-passport-processing-times-reduced-by-2-weeks-state-department-5736240)
 * [California Faces Wave of Lawsuits Over Gender Identity Notification in Schools](https://www.theepochtimes.com/article/california-faces-wave-of-lawsuits-over-gender-identity-notification-in-schools-5732366)
     
-    NEW By [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
+    7hr By [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
     
     [![California Faces Wave of Lawsuits Over Gender Identity Notification in Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![California Faces Wave of Lawsuits Over Gender Identity Notification in Schools](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5736163-Gender-California-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/california-faces-wave-of-lawsuits-over-gender-identity-notification-in-schools-5732366)
-* [Taiwan Says Ready for Communist Invasion, Report Warns of Economic Warfare](https://www.theepochtimes.com/china/taiwan-says-ready-for-communist-invasion-report-warns-of-economic-warfare-5735904)
-    
-    2hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
-    
-    [![Taiwan Says Ready for Communist Invasion, Report Warns of Economic Warfare](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Taiwan Says Ready for Communist Invasion, Report Warns of Economic Warfare](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736273-GettyImages-2157161854KO-205x123.jpg.webp)](https://www.theepochtimes.com/china/taiwan-says-ready-for-communist-invasion-report-warns-of-economic-warfare-5735904)
-* [Supreme Court Takes Up Dispute Over Nuclear Waste Storage in Texas](https://www.theepochtimes.com/us/supreme-court-takes-up-dispute-over-nuclear-waste-storage-in-texas-5736121)
-    
-    3hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Supreme Court Takes Up Dispute Over Nuclear Waste Storage in Texas](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court Takes Up Dispute Over Nuclear Waste Storage in Texas](https://img.theepochtimes.com/assets/uploads/2024/09/20/id5727522-AP24264488152821-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-takes-up-dispute-over-nuclear-waste-storage-in-texas-5736121)
-* [Opinion: CCP Targets US Shipping Infrastructure](https://www.theepochtimes.com/opinion/ccp-targets-us-shipping-infrastructure-5731335)
-    
-    4hr By [Antonio Graceffo](https://www.theepochtimes.com/author/antonio-graceffo)
-    
-    [![Opinion: CCP Targets US Shipping Infrastructure](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Opinion: CCP Targets US Shipping Infrastructure](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731339-GettyImages-2069157461-205x123.jpeg.webp)](https://www.theepochtimes.com/opinion/ccp-targets-us-shipping-infrastructure-5731335)
-* [Supreme Court to Hear Oklahoma Death Row Inmate’s Case](https://www.theepochtimes.com/us/supreme-court-to-hear-oklahoma-death-row-inmates-case-5727264)
-    
-    5hr By [Michael Clements](https://www.theepochtimes.com/author/michael-clements)
-    
-    [![Supreme Court to Hear Oklahoma Death Row Inmate’s Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court to Hear Oklahoma Death Row Inmate’s Case](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736253-5.9.2023Lea-and-Dr-Phil.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-to-hear-oklahoma-death-row-inmates-case-5727264)
-* [Texas Ghost Gun Machine Manufacturer to Face Lawsuit in California After Case Transfer Denied](https://www.theepochtimes.com/us/texas-ghost-gun-machine-manufacturer-to-face-lawsuit-in-california-after-case-transfer-denied-5736096)
-    
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Texas Ghost Gun Machine Manufacturer to Face Lawsuit in California After Case Transfer Denied](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Texas Ghost Gun Machine Manufacturer to Face Lawsuit in California After Case Transfer Denied](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736254-GettyImages-1009221006.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/texas-ghost-gun-machine-manufacturer-to-face-lawsuit-in-california-after-case-transfer-denied-5736096)
-* [Harris, Trump Campaigns Lean Into Final 30 Days of Election](https://www.theepochtimes.com/us/harris-trump-campaigns-lean-into-final-30-days-of-election-5735524)
-    
-    7hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Harris, Trump Campaigns Lean Into Final 30 Days of Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris, Trump Campaigns Lean Into Final 30 Days of Election](https://img.theepochtimes.com/assets/uploads/2024/10/02/id5734079-Trump-Harris-LS-205x123.webp)](https://www.theepochtimes.com/us/harris-trump-campaigns-lean-into-final-30-days-of-election-5735524)
-* [Musk Launches PAC to Back Candidates Focused on Secure Borders, Free Speech, Sensible Spending](https://www.theepochtimes.com/us/musk-launches-pac-to-back-candidates-focused-on-secure-borders-free-speech-sensible-spending-5736050)
-    
-    16hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Musk Launches PAC to Back Candidates Focused on Secure Borders, Free Speech, Sensible Spending](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Musk Launches PAC to Back Candidates Focused on Secure Borders, Free Speech, Sensible Spending](https://img.theepochtimes.com/assets/uploads/2024/09/04/id5718256-GettyImages-2147789842KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/musk-launches-pac-to-back-candidates-focused-on-secure-borders-free-speech-sensible-spending-5736050)
-* [New Mexico’s Nuclear Town Has Big Housing Problem](https://www.theepochtimes.com/article/new-mexicos-nuclear-town-has-big-housing-problem-5730461)
-    
-    18hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
-    
-    [![New Mexico’s Nuclear Town Has Big Housing Problem](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New Mexico’s Nuclear Town Has Big Housing Problem](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5736035-Nuclear-Los-Alamos-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/new-mexicos-nuclear-town-has-big-housing-problem-5730461)
-* [Keanu Reeves Spins Out During Professional Auto-Racing Debut at Indianapolis Speedway](https://www.theepochtimes.com/entertainment/keanu-reeves-spins-out-during-professional-auto-racing-debut-at-indianapolis-speedway-5735960)
-    
-    18hr By [Haika Mrema](https://www.theepochtimes.com/author/haika-mrema)
-    
-    [![Keanu Reeves Spins Out During Professional Auto-Racing Debut at Indianapolis Speedway](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Keanu Reeves Spins Out During Professional Auto-Racing Debut at Indianapolis Speedway](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736255-AP24279547206707.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/entertainment/keanu-reeves-spins-out-during-professional-auto-racing-debut-at-indianapolis-speedway-5735960)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
