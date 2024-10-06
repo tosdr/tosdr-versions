@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)")](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
 
 Derry City fans celebrate at Dalymount Park. Pics by Stephen McCarthy/ Sportsfile
@@ -282,22 +275,6 @@ Derry City fans celebrate at Dalymount Park. Pics by Stephen McCarthy/ Sportsfil
 [Derry Death Notices - Sunday, October 6 2024](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-[![WATCH: Children In Crossfire (1974)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Children In Crossfire (1974)")](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[WATCH: 'Children In Crossfire' documentary from Derry's Creggan Eestate (1974)](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Aircoach announced as official travel partner for Derry Halloween 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Aircoach announced as official travel partner for Derry Halloween 2024")](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
-
-Aeidin McCarter, Head of Culture, Derry City and Strabane District Council (R) and Kim Swan, Managing Director, Aircoach (L) along with the Derry Halloween’s Walter DeBurgh
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Aircoach announced as official travel partner for Derry Halloween 2024](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Faughanvale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
 
 The Faughanvale team line up before the game. Pic by Tom Heaney, nwpresspics
@@ -307,21 +284,30 @@ The Faughanvale team line up before the game. Pic by Tom Heaney, nwpresspics
 [Faughanvale pay tribute to club legend Joe Cassidy with victory over Castledawson](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Roe Valley Integrated Primary School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Valley Integrated Primary School")](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
+[![WATCH: Children In Crossfire (1974)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Children In Crossfire (1974)")](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
 
-Roe Valley Integrated Primary School
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+[WATCH: 'Children In Crossfire' documentary from Derry's Creggan Eestate (1974)](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Minister hails new beginning for Roe Valley Integrated Primary School](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Glen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glen")](https://www.derrynow.com/news/derry-sport/1623137/stoppage-time-point-edges-champions-glen-into-the-last-four.html)
 
-[![More than 70m euro funding awarded to projects targeting health inequality](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "More than 70m euro funding awarded to projects targeting health inequality")](https://www.derrynow.com/news/northern-ireland/1623037/more-than-70m-euro-funding-awarded-to-projects-targeting-health-inequality.html)
+Glen's Ethan Doherty celebrates his goal against Lavey Derry Senior Football Championship quarter final at Owenbeg. (Photo - Tom Heaney, nwpresspics)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[More than 70m euro funding awarded to projects targeting health inequality](https://www.derrynow.com/news/northern-ireland/1623037/more-than-70m-euro-funding-awarded-to-projects-targeting-health-inequality.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Stoppage time point edges champions Glen into the last four](https://www.derrynow.com/news/derry-sport/1623137/stoppage-time-point-edges-champions-glen-into-the-last-four.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Banagher](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Banagher")](https://www.derrynow.com/news/derry-sport/1623140/banagher-hold-off-eoghan-rua-fightback-to-make-intermediate-championship-semi-finals.html)
+
+Eoghan Rua’s Ciaran McGoldrick and Banagher’s Tiernan Moore. Photo: George Sweeney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Banagher hold off Eoghan Rua fightback to make Intermediate Championship semi-finals](https://www.derrynow.com/news/derry-sport/1623140/banagher-hold-off-eoghan-rua-fightback-to-make-intermediate-championship-semi-finals.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1623010/300-up-for-patrick-mceleney-as-you-get-older-it-gets-even-more-special.html)
 
@@ -338,6 +324,20 @@ Patrick McEleney celebrates Derry City's second goal against Bohemians. Pic by B
 
 [More than a third of people in Ireland stressed in daily lives](https://www.derrynow.com/news/northern-ireland/1623054/more-than-a-third-of-people-in-ireland-stressed-in-daily-lives.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![More than 70m euro funding awarded to projects targeting health inequality](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "More than 70m euro funding awarded to projects targeting health inequality")](https://www.derrynow.com/news/northern-ireland/1623037/more-than-70m-euro-funding-awarded-to-projects-targeting-health-inequality.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[More than 70m euro funding awarded to projects targeting health inequality](https://www.derrynow.com/news/northern-ireland/1623037/more-than-70m-euro-funding-awarded-to-projects-targeting-health-inequality.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future")](https://www.derrynow.com/news/northern-ireland/1622186/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](https://www.derrynow.com/news/northern-ireland/1622186/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,7 +515,43 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Faughanvale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
+[![Planting projects encourages Derry community groups to apply for trees](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Planting projects encourages Derry community groups to apply for trees")](https://www.derrynow.com/news/local-news/1621968/planting-project-encourages-derry-community-groups-to-apply-for-trees.html)
+
+SuperValu and Centra Brand Communications Manager Carol Marshall visits Declan McCann, who planted 275 trees and hedgerows in a nearby smallholding, to provide a haven and shelter for wildlife
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Planting project encourages Derry community groups to apply for trees](https://www.derrynow.com/news/local-news/1621968/planting-project-encourages-derry-community-groups-to-apply-for-trees.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![MacD on Music: H-Y-P Hypnotized](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: H-Y-P Hypnotized")](https://www.derrynow.com/news/what-s-on/1622096/macd-on-music-h-y-p-hypnotized.html)
+
+Wally/Hypnotic Jerk
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[MacD on Music: H-Y-P Hypnotized](https://www.derrynow.com/news/what-s-on/1622096/macd-on-music-h-y-p-hypnotized.html)
+----------------------------------------------------------------------------------------------------------------------
+
+[![Banagher](https://www.derrynow.com/resizer/165/93/true/2024_10_06/Banagher_v_Eoghan_Rua_5_-1728223545860.jpg--.jpg?1728223546009 "Banagher")](https://www.derrynow.com/news/derry-sport/1623140/banagher-hold-off-eoghan-rua-fightback-to-make-intermediate-championship-semi-finals.html)
+
+Eoghan Rua’s Ciaran McGoldrick and Banagher’s Tiernan Moore. Photo: George Sweeney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Banagher hold off Eoghan Rua fightback to make Intermediate Championship semi-finals](https://www.derrynow.com/news/derry-sport/1623140/banagher-hold-off-eoghan-rua-fightback-to-make-intermediate-championship-semi-finals.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Glen](https://www.derrynow.com/resizer/165/93/true/2024_10_06/GAA_Glen_v_Lavey_quarter_final_8-1728223167182.jpg--.jpg?1728223168818 "Glen")](https://www.derrynow.com/news/derry-sport/1623137/stoppage-time-point-edges-champions-glen-into-the-last-four.html)
+
+Glen's Ethan Doherty celebrates his goal against Lavey Derry Senior Football Championship quarter final at Owenbeg. (Photo - Tom Heaney, nwpresspics)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Stoppage time point edges champions Glen into the last four](https://www.derrynow.com/news/derry-sport/1623137/stoppage-time-point-edges-champions-glen-into-the-last-four.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Faughanvale](https://www.derrynow.com/resizer/165/93/true/2024_10_06/Castledawson_v._Faughanvale_1-1728207227208.jpg--.jpg?1728207228821 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
 
 The Faughanvale team line up before the game. Pic by Tom Heaney, nwpresspics
 
@@ -524,7 +560,7 @@ The Faughanvale team line up before the game. Pic by Tom Heaney, nwpresspics
 [Faughanvale pay tribute to club legend Joe Cassidy with victory over Castledawson](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1623010/300-up-for-patrick-mceleney-as-you-get-older-it-gets-even-more-special.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_06/IDNM_7-10-24_Fats_1-1728205696484.jpg--.jpg?1728205698966 "Derry City")](https://www.derrynow.com/news/derry-sport/1623010/300-up-for-patrick-mceleney-as-you-get-older-it-gets-even-more-special.html)
 
 Patrick McEleney celebrates Derry City's second goal against Bohemians. Pic by Ben McShane/ Sportsfile
 
@@ -532,40 +568,6 @@ Patrick McEleney celebrates Derry City's second goal against Bohemians. Pic by B
 
 [300 up for Patrick McEleney! - 'As you get older, it gets even more special'](https://www.derrynow.com/news/derry-sport/1623010/300-up-for-patrick-mceleney-as-you-get-older-it-gets-even-more-special.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_06/2_%282%29-1728201754393.jpg--.jpg?1728201755982 "Derry City")](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
-
-Derry City fans celebrate at Dalymount Park. Pics by Stephen McCarthy/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[IN PICTURES: Derry City celebrations at Dalymount Park](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, October 6 2024](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Aircoach announced as official travel partner for Derry Halloween 2024](https://www.derrynow.com/resizer/165/93/true/2024_10_04/Aircoach_Scarecoach_LScape_2_PRESS-1728045624840.jpg--.jpg?1728045625441 "Aircoach announced as official travel partner for Derry Halloween 2024")](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
-
-Aeidin McCarter, Head of Culture, Derry City and Strabane District Council (R) and Kim Swan, Managing Director, Aircoach (L) along with the Derry Halloween’s Walter DeBurgh
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Aircoach announced as official travel partner for Derry Halloween 2024](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Roe Valley Integrated Primary School](https://www.derrynow.com/resizer/165/93/true/2024_10_05/roe_valley_press_release-1728133477052.JPG--.JPG?1728133477752 "Roe Valley Integrated Primary School")](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
-
-Roe Valley Integrated Primary School
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Minister hails new beginning for Roe Valley Integrated Primary School](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
