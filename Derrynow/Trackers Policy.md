@@ -266,23 +266,14 @@ Most Popular
 [MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police investigating after red paint daubed on Derry business](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating after red paint daubed on Derry business")](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
 
-The damage caused to the premises. PHOTO: Shannon Moore
+Derry City fans celebrate at Dalymount Park. Pics by Stephen McCarthy/ Sportsfile
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Police investigating after red paint daubed on Derry business](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Stormont Executive reaffirms commitment to Derry and North West](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stormont Executive reaffirms commitment to Derry and North West")](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
-
-Darragh McCarthy, CEO, FinTrU (event sponsor); First Minister Michelle O'Neill MLA; Greg McCann, President, Derry Chamber; Anna Doherty, Chief Executive, Derry Chamber
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Stormont Executive reaffirms commitment to Derry and North West](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Derry City celebrations at Dalymount Park](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
 
@@ -290,6 +281,13 @@ Darragh McCarthy, CEO, FinTrU (event sponsor); First Minister Michelle O'Neill M
 
 [Derry Death Notices - Sunday, October 6 2024](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------
+
+[![WATCH: Children In Crossfire (1974)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Children In Crossfire (1974)")](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[WATCH: 'Children In Crossfire' documentary from Derry's Creggan Eestate (1974)](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Aircoach announced as official travel partner for Derry Halloween 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Aircoach announced as official travel partner for Derry Halloween 2024")](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
 
@@ -300,14 +298,14 @@ Aeidin McCarter, Head of Culture, Derry City and Strabane District Council (R) a
 [Aircoach announced as official travel partner for Derry Halloween 2024](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New book by local author to be launched in Naas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New book by local author to be launched in Naas")](https://www.derrynow.com/news/local-news/1621255/new-book-by-county-derry-author-to-be-launched-in-naas.html)
+[![Faughanvale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
 
-The book will be launched in Naas on October 17
+The Faughanvale team line up before the game. Pic by Tom Heaney, nwpresspics
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[New book by County Derry author to be launched in Naas](https://www.derrynow.com/news/local-news/1621255/new-book-by-county-derry-author-to-be-launched-in-naas.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Faughanvale pay tribute to club legend Joe Cassidy with victory over Castledawson](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Roe Valley Integrated Primary School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Valley Integrated Primary School")](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
 
@@ -318,32 +316,41 @@ Roe Valley Integrated Primary School
 [Minister hails new beginning for Roe Valley Integrated Primary School](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sinn Fein challenged to provide ‘full transparency’ over handling of McMonagle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sinn Fein challenged to provide ‘full transparency’ over handling of McMonagle")](https://www.derrynow.com/news/northern-ireland/1622618/oneill-apologises-over-party-press-officer-references-for-mcmonagle.html)
+[![More than 70m euro funding awarded to projects targeting health inequality](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "More than 70m euro funding awarded to projects targeting health inequality")](https://www.derrynow.com/news/northern-ireland/1623037/more-than-70m-euro-funding-awarded-to-projects-targeting-health-inequality.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[O’Neill apologises over party press officer references for McMonagle](https://www.derrynow.com/news/northern-ireland/1622618/oneill-apologises-over-party-press-officer-references-for-mcmonagle.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[More than 70m euro funding awarded to projects targeting health inequality](https://www.derrynow.com/news/northern-ireland/1623037/more-than-70m-euro-funding-awarded-to-projects-targeting-health-inequality.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Memorial service to be held to mark 50th anniversary of Guildford pub bombings](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Memorial service to be held to mark 50th anniversary of Guildford pub bombings")](https://www.derrynow.com/news/northern-ireland/1622493/memorial-service-to-be-held-to-mark-50th-anniversary-of-guildford-pub-bombings.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1623010/300-up-for-patrick-mceleney-as-you-get-older-it-gets-even-more-special.html)
+
+Patrick McEleney celebrates Derry City's second goal against Bohemians. Pic by Ben McShane/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[300 up for Patrick McEleney! - 'As you get older, it gets even more special'](https://www.derrynow.com/news/derry-sport/1623010/300-up-for-patrick-mceleney-as-you-get-older-it-gets-even-more-special.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![More than a third of people in Ireland stressed in daily lives](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "More than a third of people in Ireland stressed in daily lives")](https://www.derrynow.com/news/northern-ireland/1623054/more-than-a-third-of-people-in-ireland-stressed-in-daily-lives.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[Memorial service to be held to mark 50th anniversary of Guildford pub bombings](https://www.derrynow.com/news/northern-ireland/1622493/memorial-service-to-be-held-to-mark-50th-anniversary-of-guildford-pub-bombings.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future")](https://www.derrynow.com/news/northern-ireland/1622186/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](https://www.derrynow.com/news/northern-ireland/1622186/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[More than a third of people in Ireland stressed in daily lives](https://www.derrynow.com/news/northern-ireland/1623054/more-than-a-third-of-people-in-ireland-stressed-in-daily-lives.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![WATCH: Children In Crossfire (1974)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Children In Crossfire (1974)")](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[WATCH: 'Children In Crossfire' documentary from Derry's Creggan Eestate (1974)](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)")](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
 
@@ -407,13 +414,6 @@ Multimedia
 
 [IN PICTURES: Tommy McGuigan Memorial Camogie Blitz](https://www.derrynow.com/story-telling/pictures---videos/1618846/in-pictures-tommy-mcguigan-memorial-camogie-blitz.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Limavady Grammar School annual prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Limavady Grammar School annual prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1618438/in-pictures-limavady-grammar-school-annual-prizegiving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Limavady Grammar School annual prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1618438/in-pictures-limavady-grammar-school-annual-prizegiving.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,14 +515,41 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
+[![Faughanvale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
+
+The Faughanvale team line up before the game. Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Faughanvale pay tribute to club legend Joe Cassidy with victory over Castledawson](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1623010/300-up-for-patrick-mceleney-as-you-get-older-it-gets-even-more-special.html)
+
+Patrick McEleney celebrates Derry City's second goal against Bohemians. Pic by Ben McShane/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[300 up for Patrick McEleney! - 'As you get older, it gets even more special'](https://www.derrynow.com/news/derry-sport/1623010/300-up-for-patrick-mceleney-as-you-get-older-it-gets-even-more-special.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_06/2_%282%29-1728201754393.jpg--.jpg?1728201755982 "Derry City")](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
+
+Derry City fans celebrate at Dalymount Park. Pics by Stephen McCarthy/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[IN PICTURES: Derry City celebrations at Dalymount Park](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Sunday, October 6 2024](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Aircoach announced as official travel partner for Derry Halloween 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Aircoach announced as official travel partner for Derry Halloween 2024")](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
+[![Aircoach announced as official travel partner for Derry Halloween 2024](https://www.derrynow.com/resizer/165/93/true/2024_10_04/Aircoach_Scarecoach_LScape_2_PRESS-1728045624840.jpg--.jpg?1728045625441 "Aircoach announced as official travel partner for Derry Halloween 2024")](https://www.derrynow.com/news/local-news/1621935/aircoach-announced-as-official-travel-partner-for-derry-halloween-2024.html)
 
 Aeidin McCarter, Head of Culture, Derry City and Strabane District Council (R) and Kim Swan, Managing Director, Aircoach (L) along with the Derry Halloween’s Walter DeBurgh
 
@@ -539,33 +566,6 @@ Roe Valley Integrated Primary School
 
 [Minister hails new beginning for Roe Valley Integrated Primary School](https://www.derrynow.com/news/county-derry-post/1622582/minister-hails-new-beginning-for-roe-valley-integrated-primary-school.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Stormont Executive reaffirms commitment to Derry and North West](https://www.derrynow.com/resizer/165/93/true/2024_10_05/1-min-1728133951405.jpg--.jpg?1728133957024 "Stormont Executive reaffirms commitment to Derry and North West")](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
-
-Darragh McCarthy, CEO, FinTrU (event sponsor); First Minister Michelle O'Neill MLA; Greg McCann, President, Derry Chamber; Anna Doherty, Chief Executive, Derry Chamber
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Stormont Executive reaffirms commitment to Derry and North West](https://www.derrynow.com/news/local-news/1622583/stormont-executive-reaffirms-commitment-to-derry-and-north-west.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![New book by local author to be launched in Naas](https://www.derrynow.com/resizer/165/93/true/2024_10_03/PatMullan2-1727968273081.jpg--.jpg?1727968273106 "New book by local author to be launched in Naas")](https://www.derrynow.com/news/local-news/1621255/new-book-by-county-derry-author-to-be-launched-in-naas.html)
-
-The book will be launched in Naas on October 17
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[New book by County Derry author to be launched in Naas](https://www.derrynow.com/news/local-news/1621255/new-book-by-county-derry-author-to-be-launched-in-naas.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police investigating after red paint daubed on Derry business](https://www.derrynow.com/resizer/165/93/true/2024_10_05/461188243_524209156896479_2399959903294797423_n-1728122014085.jpg--.jpg?1728122014642 "Police investigating after red paint daubed on Derry business")](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
-
-The damage caused to the premises. PHOTO: Shannon Moore
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police investigating after red paint daubed on Derry business](https://www.derrynow.com/news/local-news/1622513/police-investigating-after-red-paint-daubed-on-derry-business.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
