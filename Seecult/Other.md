@@ -320,11 +320,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-razno/papic-strip-2deo.gif?itok=UBZ4d_Ha)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-razno)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/muz-u-parizu/husband-paris/090.jpg?itok=2e2_P9jU)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/muz-u-parizu-husband-paris)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/muja-free-your-mind-1.jpg?itok=KFPZvPRZ)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/jean-michel-pilc-trio4.jpg?itok=SQu_-QAI)](http://seecult.org/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
