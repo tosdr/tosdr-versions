@@ -307,7 +307,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDcwd0ZrMjhFMG50ZktIdW94QzFxcHc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljL39IU)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGY3WXhOb3I2V2thV0Uyb0paRFMvbHc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljJ1bBE)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/uU38cxbeMKLKDXQYopB9r1ybCFO-2vdfTKtV-mXp-zZ7Mcv_AW6MzSSCWkR_ybvgRA=s64)
 
@@ -316,6 +316,14 @@ Hushed: US Second Phone Number
 AffinityClick Inc.
 
 3.8_star_](https://play.google.com/store/apps/details?id=com.hushed.release)
+
+[![Thumbnail image](https://play-lh.googleusercontent.com/Z2ypCEz60SmQu-qBLS-vsV4lnCTKkU93YQHP5n73smITdU4AhoIZRrOS3ZtMHYHs-D4=s64)
+
+Wize SMS: Message & Messenger
+
+Browser by Fulldive Co.
+
+4.4_star_](https://play.google.com/store/apps/details?id=com.fulldive.extension.divesms)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/H-gvp6FzVPkEjwqnh2z6ks6PiKoC2AjsPMnZeHlOdDTB58jJn7kxDbh7VLsHdndfB2s=s64)
 
