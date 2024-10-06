@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
-* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
-* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
-* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
-* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
 
 Service Stiftung Warentest
 
