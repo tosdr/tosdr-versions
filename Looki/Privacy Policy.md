@@ -29,8 +29,8 @@ Login](https://www.looki.com/auth/register/login)
 * [](https://www.looki.com/game/index)
 * [](https://www.looki.com/)
 
-Privacy Policy
---------------
+Data protection declaration
+---------------------------
 
 **Data protection declaration**
 
@@ -76,19 +76,15 @@ In the event of the terms of use and gaming rules being violated, gamigo shall r
 
 5\. Consent
 
-If the customer's consent is required for a specific purpose for using the personal data, then this shall be saved along with the date and time, for demonstrative purpose, in the event of it being granted. Any consent granted can be revoked [here](https://support.gamigo.com/index.php?/english) and [here](mailto:dataprotection@gamigo.com) at any time, free of charge. Any customers under 16 years of age require the consent of their parent or legal guardian.
+If the customer's consent is required for a specific purpose for using the personal data, then this shall be saved along with the date and time, for demonstrative purpose, in the event of it being granted. Any consent granted can be revoked [here](https://support.gamigo.com/index.php?/english) and [here](mailto:dataprotection@gamigo.com) at any time, free of charge. Any customers under 16 years of age require the consent of their parent or legal guardian.
 
-6. Recipient of Personal Data
+6\. Forwarding data to third parties
 
-To achieve the processing purposes described above, we pass on personal data to various categories of recipients. The concrete passing on of personal data about you depends largely on which of our services you use.
-
-We share personal data with the following categories of service providers as processors: service providers in the context of fraud and manipulation prevention, to service providers to conduct surveys, to service providers for analysis services, to payment service providers, to service providers for sending newsletter, to service providers for advertising services, data centers, as well as to subsidiaries and affiliated companies within the meaning of Sec. 15 AktG (German Stock Corporation Act). The transfer of the personal data to the respective recipient as processor is lawful under Art. 28 GDPR.
-
-We pass on personal data to the following categories of service providers as independent controllers: Lawyers, authorities, the police, payment service providers, and providers of “social logins.
+gamigo will only forward data to third parties if there is a legal obligation or authorisation for doing so or if there is explicit agreement for forwarding the data subject's pages.
 
 7\. Forwarding the data outside the European Union and European Economic Area (third countries)
 
-Service providers in third countries are also accessed for providing gamigo's services, although data will only be forwarded to recipients in third countries which offer an appropriate level of data protection, such as by means of self-certification for a non-European service provider in accordance with the [EU US Privacy Shield](https://www.privacyshield.gov/welcome) or the agreement of so-called EU standard contract clauses for the European Union with the recipient. Furthermore, the customer's consent can be included when forwarding the data to third countries. An overview of service providers outside the European Union, the European Economic Area and a copy of the agreed-upon regulations for ensuring an appropriate level of data protection can be queried via the “Contact and Rights” section (12.) for the contact details that have been provided.
+Service providers in third countries are also accessed for providing gamigo's services, although data will only be forwarded to recipients in third countries which offer an appropriate level of data protection, such as by means of self-certification for a non-European service provider in accordance with the [EU US Privacy Shield](https://www.privacyshield.gov/welcome) or the agreement of so-called EU standard contract clauses for the European Union with the recipient. Furthermore, the customer's consent can be included when forwarding the data to third countries. An overview of service providers outside the European Union, the European Economic Area and a copy of the agreed-upon regulations for ensuring an appropriate level of data protection can be queried via the “Contact and Rights” section (12.) for the contact details that have been provided.
 
 8\. Duration of data storage
 
@@ -104,17 +100,17 @@ Gamigo uses a variety of different web analysis services from Google Inc., 1600 
 
 10.1. Google Universal Analytics
 
-Google Universal Analytics is a widely used Google web analysis service. The methods provided by Google Universal Analytics allow a cross-device analysis of website usage by means of cookies. The information on website usage generated in this way is, as a rule, transferred to a Google server in the United States and also saved there. Google uses the information collected to analyse website usage, to create reports and to make services available for market research and website optimisation purposes on gamigo's behalf. The IP address automatically sent to Google is not merged with other Google data and only used by gamigo for statistical assessments. Google's processing of the data can be prevented by means of a browser add-on. In the event of a mobile end device being used, there is the option of deactivating  [Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=de) over the following link. The opt-out cookie that this places on the end customer's device prevents data collection on the corresponding device as long as the cookies are made available to the browser being used. This does not, however, prevent data being collected by Google. You can find further information on Google Universal Analytics under [Google's data protection information](https://www.google.de/intl/de/policies/privacy/).
+Google Universal Analytics is a widely used Google web analysis service. The methods provided by Google Universal Analytics allow a cross-device analysis of website usage by means of cookies. The information on website usage generated in this way is, as a rule, transferred to a Google server in the United States and also saved there. Google uses the information collected to analyse website usage, to create reports and to make services available for market research and website optimisation purposes on gamigo's behalf. The IP address automatically sent to Google is not merged with other Google data and only used by gamigo for statistical assessments. Google's processing of the data can be prevented by means of a browser add-on. In the event of a mobile end device being used, there is the option of deactivating  [Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=de) over the following link. The opt-out cookie that this places on the end customer's device prevents data collection on the corresponding device as long as the cookies are made available to the browser being used. This does not, however, prevent data being collected by Google. You can find further information on Google Universal Analytics under [Google's data protection information](https://www.google.de/intl/de/policies/privacy/).
 
 10.2. Google “remarketing and similar target group function”
 
-Gamigo uses Google's remarketing function, which is a function that allows a website's visitors to be addressed with personalised and interest-based advertising as soon as they visit another Google Display Network website. To this end, Google cookies are used for carrying out the analysis of website usage, which is used as the basis for settings for the online interest-based advertising. To carry out the process, Google deposits a small file with a code number on the customer's end device by means of which visits to websites and anonymised data for using said websites can be collected. As soon as visitors have agreed to linking their Google web and app processes with their Google account and as soon as information from their Google account is used for displayed notices, Google shall use the data from these registered users together with Google Analytics data to create and define target groups for cross-device remarketing. In this way, website visitors are also targeted across their devices with personalised interest-based adverts. If any other websites are subsequently accesses on the Google Display network, then the adverts will be displayed, which, in all likelihood, will take the products and information into account that were previously visited by the user. If the customer does not want Google's remarketing function then this can, in principle, be deactivated by adjusting the relevant settings under [http://www.google.com/settings/ads](http://www.google.com/settings/ads). Google's cookie usage can also be permanently deactivated under the following links for managing Google cookies.
+Gamigo uses Google's remarketing function, which is a function that allows a website's visitors to be addressed with personalised and interest-based advertising as soon as they visit another Google Display Network website. To this end, Google cookies are used for carrying out the analysis of website usage, which is used as the basis for settings for the online interest-based advertising. To carry out the process, Google deposits a small file with a code number on the customer's end device by means of which visits to websites and anonymised data for using said websites can be collected. As soon as visitors have agreed to linking their Google web and app processes with their Google account and as soon as information from their Google account is used for displayed notices, Google shall use the data from these registered users together with Google Analytics data to create and define target groups for cross-device remarketing. In this way, website visitors are also targeted across their devices with personalised interest-based adverts. If any other websites are subsequently accesses on the Google Display network, then the adverts will be displayed, which, in all likelihood, will take the products and information into account that were previously visited by the user. If the customer does not want Google's remarketing function then this can, in principle, be deactivated by adjusting the relevant settings under [http://www.google.com/settings/ads](http://www.google.com/settings/ads). Google's cookie usage can also be permanently deactivated under the following links for managing Google cookies.
 
 [http://www.google.com/policies/technologies/managing/](http://www.google.com/policies/technologies/managing/)
 
 [http://www.google.com/policies/technologies/ads/](http://www.google.com/policies/technologies/ads/)
 
-You can find more information on Google Remarketing under [Google's data protection information](https://www.google.de/intl/de/policies/privacy/).
+You can find more information on Google Remarketing under [Google's data protection information](https://www.google.de/intl/de/policies/privacy/).
 
 10.3 Additional Google Analytics functions for displaying adverts
 
@@ -126,13 +122,13 @@ The following Google Analytics functions are used on gamigo's websites to displa
 
 •             Google Analytics Reports for services depending on demographic characteristics and interests.
 
-The report functions mentioned are for assessing and using the data collected by Google in the context of interest-based advertising as well as visitor data from third-party service providers in Google Universal Analytics, such as age, gender and interests. This makes it possible for the end customer to deactivate Google Analytics for display advertising at any time, and to modify the notices in the Google Display network using the settings at [https://www.google.de/settings/ads](https://www.google.de/settings/ads).
+The report functions mentioned are for assessing and using the data collected by Google in the context of interest-based advertising as well as visitor data from third-party service providers in Google Universal Analytics, such as age, gender and interests. This makes it possible for the end customer to deactivate Google Analytics for display advertising at any time, and to modify the notices in the Google Display network using the settings at [https://www.google.de/settings/ads](https://www.google.de/settings/ads).
 
-You can find more information on the Google Analytics functions for display adverts under [Google's data protection information](https://www.google.de/intl/de/policies/privacy/).
+You can find more information on the Google Analytics functions for display adverts under [Google's data protection information](https://www.google.de/intl/de/policies/privacy/).
 
 11\. Social network plugins
 
-Social network plugins, so-called “social plugins”, such as Facebook, twitter or google+ are used on gamigo's websites. After activating these social plugins, it is possible for the customer to directly share our websites' content on social networks. Personal data is not processed by using the socials plugins just as a result of their placement on gamigo's websites. To prevent data being transferred to the United States without the customer's knowledge, gamigo employs the so-called [Shariff solution](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html). This means that no personal data is sent to the provider of the social plugins and saved when visiting the websites, unless the social plugins have been actively clicked on by the customer.
+Social network plugins, so-called “social plugins”, such as Facebook, twitter or google+ are used on gamigo's websites. After activating these social plugins, it is possible for the customer to directly share our websites' content on social networks. Personal data is not processed by using the socials plugins just as a result of their placement on gamigo's websites. To prevent data being transferred to the United States without the customer's knowledge, gamigo employs the so-called [Shariff solution](https://www.heise.de/ct/artikel/Shariff-Social-Media-Buttons-mit-Datenschutz-2467514.html). This means that no personal data is sent to the provider of the social plugins and saved when visiting the websites, unless the social plugins have been actively clicked on by the customer.
 
 If one of gamigo's websites is accessed, then a direct connection can be established via the browser with the corresponding social network's servers if the corresponding social plugin is clicked on. This will result in the contents of the social network's plugin being forwarded directly to the customer's browser and, by means of this, being integrated into the relevant website. If the customer is registered on the social network in question, then the social network will be able to associate the visit with the customer's corresponding account. If the customer does not want his / her account to be associated, then the customer must log out of the social network account and delete the relevant cookies before visiting gamigo's websites. If the customer does not have an account with the social network that has the clicked upon social plugins, then the social network in question may, despite this, process the IP address. gamigo does not have any influence on the extent of the data which the social network in question collects with the help of its plugins and is only providing information on the basis of its current knowledge. The extent and purpose of data collection, as well as how the data is processed and used by social networks, and information on rights and possible settings for protecting privacy, can be found in the corresponding social network's data protection information.
 
@@ -160,22 +156,22 @@ Customers have the right to submit a complaint to the data protection authority.
 
 **Der Hamburgische Datenschutzbeauftragte für Datenschutz und Informationsfreiheit**
 
-**Thomas Fuchs**
+**Herr Thomas Fuchs**
 
 **Ludwig-Erhard-Str. 22, 7. OG**
 
-**20459 Hamburg**
+20459 Hamburg
 
-**Germany**
+Germany
 
   
 Phone: 040/428 54-40 40
 
 Fax: 040/428 54-40 00
 
-Email: [mailbox@datenschutz.hamburg.de](mailto:mailbox@datenschutz.hamburg.de "E-Mail an: mailbox@datenschutz.hamburg.de")
+Email: [mailbox@datenschutz.hamburg.de](mailto:mailbox@datenschutz.hamburg.de "E-Mail an: mailbox@datenschutz.hamburg.de")
 
-Homepage: [https://www.datenschutz-hamburg.de](http://www.datenschutz-hamburg.de/ "Externer Link LfD-Hamburg (Öffnet neues Fenster)")
+Homepage: [http://www.datenschutz-hamburg.de](http://www.datenschutz-hamburg.de/ "Externer Link LfD-Hamburg (Öffnet neues Fenster)")
 
 13\. Data protection
 
@@ -183,9 +179,9 @@ Gamigo implements up-to-date measures to guarantee data protection and to protec
 
 14\. State of the data protection declaration and scope of application
 
-This data protection shall apply to the online offer under [gamigo.com](https://gamigo.com/). The data protection application can be accessed [here](https://assets.cdn.gamigo.com/frontend/agb/gamigo-privacy-policy-en.pdf) as a PDF document.
+This data protection shall apply to the online offer under [gamigo.com](https://gamigo.com/). The data protection application can be accessed [here](https://assets.cdn.gamigo.com/frontend/agb/gamigo-privacy-policy-en.pdf) as a PDF document.
 
-As of December 2022
+As of August 2022
 
 ⇧
 
