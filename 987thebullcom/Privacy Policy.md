@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| You Should Probably LeaveChris Stapleton<br><br>6:56pm |
-| Bigger HousesDan Shay<br><br>6:53pm |
-| Last NightMorgan Wallen<br><br>6:50pm |
-| AustinDasha<br><br>6:47pm |
-| Live Like You Were DyingTim Mcgraw<br><br>6:39pm |
+| All-American GirlCarrie Underwood<br><br>4:59am |
+| She'S Somebody'S DaughterDrew Baldridge<br><br>4:56am |
+| I Ain'T Sayin'Jordan Davis<br><br>4:53am |
+| Last NightMorgan Wallen<br><br>4:50am |
+| Whatcha See Is Whatcha GetChris Janson<br><br>4:48am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Spanish • Western
+Sports • Midwest
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Top 40 • Pacific NW
+Top 40 • Eastern
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Top 40 • Eastern
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
