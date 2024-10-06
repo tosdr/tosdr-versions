@@ -26,29 +26,31 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Illigal-Immigrants-1200x630.jpg)](https://americanwirenews.com/its-happening-before-your-very-eyes-illegal-immigration-surges-in-swing-states-under-biden-harris/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg_-_djt-harris_-_split_1200_x_628-1200x630.jpg)](https://americanwirenews.com/dems-jittery-about-kamalas-avoidance-of-unscripted-events-trump-is-everywhere/)
 
-[‘It’s happening before your very eyes’: Illegal immigration SURGES in swing states under Biden-Harris](https://americanwirenews.com/its-happening-before-your-very-eyes-illegal-immigration-surges-in-swing-states-under-biden-harris/)
+[Dems jittery about Kamala’s avoidance of unscripted events: ‘Trump is everywhere’](https://americanwirenews.com/dems-jittery-about-kamalas-avoidance-of-unscripted-events-trump-is-everywhere/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/10/SG-ZeglerSnowWhite-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/snow-white-actress-plays-victim-suggests-critics-of-troubled-disney-remake-are-sexist/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-trump-butler-1200x630.jpg)](https://americanwirenews.com/trump-honors-folk-hero-corey-comperatore-in-iconic-return-to-butler-recounts-16-harrowing-seconds/)
 
-[‘Snow White’ actress plays victim, suggests critics of troubled Disney remake are sexist](https://americanwirenews.com/snow-white-actress-plays-victim-suggests-critics-of-troubled-disney-remake-are-sexist/)
+(Photo by Kevin Dietsch/Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kahn-1200x630.png)](https://americanwirenews.com/singer-who-wrote-popular-pro-trump-song-fighter-shares-inspiration/)
+[Trump honors ‘folk hero’ Corey Comperatore in iconic return to Butler, recounts ’16 harrowing seconds’](https://americanwirenews.com/trump-honors-folk-hero-corey-comperatore-in-iconic-return-to-butler-recounts-16-harrowing-seconds/)
 
-[Singer who wrote popular pro-Trump song ‘Fighter’ shares inspiration](https://americanwirenews.com/singer-who-wrote-popular-pro-trump-song-fighter-shares-inspiration/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-eric-trump-1200x630.jpg)](https://americanwirenews.com/absolute-love-eric-trump-gives-stirring-speech-at-trumps-historic-return-to-butler-pa/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-megyn-kelly-1200x630.jpg)](https://americanwirenews.com/harris-may-have-path-to-victory-with-newly-naturalized-citizens-playing-a-role-in-swing-states-report/)
+[‘Absolute love’: Eric Trump gives stirring speech at Trump’s historic return to Butler, PA](https://americanwirenews.com/absolute-love-eric-trump-gives-stirring-speech-at-trumps-historic-return-to-butler-pa/)
 
-[Harris may have path to victory with newly naturalized citizens playing a role in swing states: report](https://americanwirenews.com/harris-may-have-path-to-victory-with-newly-naturalized-citizens-playing-a-role-in-swing-states-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jdbutler-1200-x-628-1200x630.jpg)](https://americanwirenews.com/jd-vance-on-dems-inflammatory-rhetoric-only-a-matter-of-time-before-somebody-tried-to-kill-him/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-ga-1200x630.png)](https://americanwirenews.com/trump-campaign-kamala-loves-two-things-herself-and-illegal-immigrants/)
+[JD Vance on Dems’ ‘inflammatory’ rhetoric: ‘Only a matter of time before somebody tried to kill him’](https://americanwirenews.com/jd-vance-on-dems-inflammatory-rhetoric-only-a-matter-of-time-before-somebody-tried-to-kill-him/)
 
-[Trump campaign: ‘Kamala loves two things… herself and illegal immigrants’](https://americanwirenews.com/trump-campaign-kamala-loves-two-things-herself-and-illegal-immigrants/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumpkellyanne-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-admits-he-doesnt-feel-safe-campaigning-its-a-dangerous-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-biden-1-1200x630.png)](https://americanwirenews.com/biden-bewildered-about-people-in-storm-zone-blurts-out-theyre-very-happy/)
+[Trump admits he doesn’t feel ‘safe’ campaigning: ‘It’s a dangerous business’](https://americanwirenews.com/trump-admits-he-doesnt-feel-safe-campaigning-its-a-dangerous-business/)
 
-[Biden bewildered about people in storm zone, blurts out ‘they’re very happy’](https://americanwirenews.com/biden-bewildered-about-people-in-storm-zone-blurts-out-theyre-very-happy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-axelrod-1200x630.jpg)](https://americanwirenews.com/axelrod-says-quiet-part-out-loud-storm-ravaged-nc-boosts-kamalas-chances/)
+
+[Axelrod says quiet part out loud, storm-ravaged NC boosts Kamala’s chances](https://americanwirenews.com/axelrod-says-quiet-part-out-loud-storm-ravaged-nc-boosts-kamalas-chances/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-fox-news-anchor-1-1200x630.jpg)](https://americanwirenews.com/fox-anchor-breaks-down-on-air-as-faith-filled-nc-mother-recounts-her-devastating-story/)
 
@@ -58,23 +60,23 @@ Search for:
 
 [Biden student loan forgiveness plan reinstated just in time for Nov election](https://americanwirenews.com/biden-student-loan-forgiveness-plan-reinstated-just-in-time-for-nov-election/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-jacksmith-cnnlegal-split-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-darkmaga-1200-x-628-1200x630.jpg)
 
-### CNN legal analyst torches Jack Smith’s last-ditch filling against Trump as unscrupulous political ploy](https://americanwirenews.com/cnn-legal-analyst-torches-jack-smiths-last-ditch-filling-against-trump-as-unscrupulous-political-ploy/)
+### ‘I’m dark MAGA!’ Elon Musk fires up crowd during Trump return to Butler, issues dire warning](https://americanwirenews.com/im-dark-maga-elon-musk-fires-up-crowd-during-trump-return-to-butler-issues-dire-warning/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
+### [Biden bewildered about people in storm zone, blurts out ‘they’re very happy’](https://americanwirenews.com/biden-bewildered-about-people-in-storm-zone-blurts-out-theyre-very-happy/)
+
+### [Trump campaign: ‘Kamala loves two things… herself and illegal immigrants’](https://americanwirenews.com/trump-campaign-kamala-loves-two-things-herself-and-illegal-immigrants/)
+
+### [Harris may have path to victory with newly naturalized citizens playing a role in swing states: report](https://americanwirenews.com/harris-may-have-path-to-victory-with-newly-naturalized-citizens-playing-a-role-in-swing-states-report/)
+
+### [Singer who wrote popular pro-Trump song ‘Fighter’ shares inspiration](https://americanwirenews.com/singer-who-wrote-popular-pro-trump-song-fighter-shares-inspiration/)
+
+### [‘Snow White’ actress plays victim, suggests critics of troubled Disney remake are sexist](https://americanwirenews.com/snow-white-actress-plays-victim-suggests-critics-of-troubled-disney-remake-are-sexist/)
+
 ### [Despite two assassination attempts, Joy Reid still calling for violence against Trump](https://americanwirenews.com/despite-two-assassination-attempts-joy-reid-still-calling-for-violence-against-trump/)
-
-### [Trump slams DOJ for violating own ‘election interference’ rule](https://americanwirenews.com/trump-slams-doj-for-violating-own-election-interference-rule/)
-
-### [‘Too late, grandpa!’ Biden, who removed Trump’s sanctions on Iran, now wants sanctions on Iran](https://americanwirenews.com/too-late-grandpa-biden-who-removed-trumps-sanctions-on-iran-now-wants-sanctions-on-iran/)
-
-### [Kamala tells devastated hurricane victims they might get a whole $750 from FEMA](https://americanwirenews.com/kamala-tells-devastated-hurricane-victims-they-might-get-a-whole-750-from-fema/)
-
-### [Kamala’s comments on domestic violence resurface amid hubby’s slapping scandal](https://americanwirenews.com/kamalas-comments-on-domestic-violence-resurface-amid-hubbys-slapping-scandal/)
-
-### [GOP lawmakers unveil bill to cut off funding to NGOs and non-profits that help import illegals](https://americanwirenews.com/gop-lawmakers-unveil-bill-to-cut-off-funding-to-ngos-and-non-profits-that-help-import-illegals/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
@@ -260,9 +262,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-routhvid-1200-x-628-1200x630.jpg)](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-jacksmith-cnnlegal-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/cnn-legal-analyst-torches-jack-smiths-last-ditch-filling-against-trump-as-unscrupulous-political-ploy/)
 
-[Federal prosecutors seek indefinite delay for would-be Trump assassin’s trial](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
+[CNN legal analyst torches Jack Smith’s last-ditch filling against Trump as unscrupulous political ploy](https://americanwirenews.com/cnn-legal-analyst-torches-jack-smiths-last-ditch-filling-against-trump-as-unscrupulous-political-ploy/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-jacksmith-cnnlegal-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnn-legal-analyst-torches-jack-smiths-last-ditch-filling-against-trump-as-unscrupulous-political-ploy/)
+
+[CNN legal analyst torches Jack Smith’s last-ditch filling against Trump as unscrupulous political ploy](https://americanwirenews.com/cnn-legal-analyst-torches-jack-smiths-last-ditch-filling-against-trump-as-unscrupulous-political-ploy/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-routhvid-1200-x-628-220x180.jpg)](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
 
@@ -281,10 +287,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [Kamala Harris’s husband accused of 2012 assault of ex-girlfriend
 
 (Official White House Photo by Adam Schultz)](https://americanwirenews.com/kamala-harriss-husband-accused-of-2012-assault-of-ex-girlfriend/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-harris-trump-220x180.jpg)](https://americanwirenews.com/trump-celebrates-jd-vance-after-veep-debate-rejects-2nd-debate-with-kamala-not-looking-to-do-it-again/)
-
-[Trump celebrates JD Vance after veep debate, rejects 2nd debate with Kamala: ‘Not looking to do it again’](https://americanwirenews.com/trump-celebrates-jd-vance-after-veep-debate-rejects-2nd-debate-with-kamala-not-looking-to-do-it-again/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -314,9 +316,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-storm-1200x630.jpg)](https://americanwirenews.com/so-helpful-nbc-claims-climate-change-contributed-to-hurricane-helene-destruction/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Illigal-Immigrants-1200x630.jpg)](https://americanwirenews.com/its-happening-before-your-very-eyes-illegal-immigration-surges-in-swing-states-under-biden-harris/)
 
-[So helpful! NBC claims climate change contributed to Hurricane Helene destruction](https://americanwirenews.com/so-helpful-nbc-claims-climate-change-contributed-to-hurricane-helene-destruction/)
+[‘It’s happening before your very eyes’: Illegal immigration SURGES in swing states under Biden-Harris](https://americanwirenews.com/its-happening-before-your-very-eyes-illegal-immigration-surges-in-swing-states-under-biden-harris/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Illigal-Immigrants-220x180.jpg)](https://americanwirenews.com/its-happening-before-your-very-eyes-illegal-immigration-surges-in-swing-states-under-biden-harris/)
+
+[‘It’s happening before your very eyes’: Illegal immigration SURGES in swing states under Biden-Harris](https://americanwirenews.com/its-happening-before-your-very-eyes-illegal-immigration-surges-in-swing-states-under-biden-harris/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-storm-220x180.jpg)](https://americanwirenews.com/so-helpful-nbc-claims-climate-change-contributed-to-hurricane-helene-destruction/)
 
@@ -333,9 +339,5 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gaines-220x180.jpg)](https://americanwirenews.com/major-win-in-culture-war-u-of-new-mexico-checked-in-ruling-over-hefty-fees-for-conservative-speaker/)
 
 [‘Major win’ in culture war: U of New Mexico checked in ruling over ‘hefty’ fees for conservative speaker](https://americanwirenews.com/major-win-in-culture-war-u-of-new-mexico-checked-in-ruling-over-hefty-fees-for-conservative-speaker/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-buzbee-combs-220x180.jpg)](https://americanwirenews.com/many-powerful-people-many-dirty-secrets-sean-diddy-combs-case-just-got-real/)
-
-[‘Many powerful people. Many dirty secrets’: Sean Diddy Combs case just got REAL](https://americanwirenews.com/many-powerful-people-many-dirty-secrets-sean-diddy-combs-case-just-got-real/)
 
 © 2024. All Rights Reserved. American Wire News
