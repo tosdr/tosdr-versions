@@ -332,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The first word spoken by Harry Potter is in the second chapter and is “Nearly”.
+Albus Dumbledore sees his family in the Mirror of Erised, just as Harry Potter does.
 
 ### Potter History
 
-June 4, 2004 – Harry Potter and the Prisoner of Azkaban is released in theaters.
+July 21, 2007 – Harry Potter and the Deathly Hallows is released to the world.
 
 ### Potter Quote
 
-“Dumbledore would have been happier than anybody to think that there was a little more love in the world.”
+“Wangoballwime?”
 
 [](#)
 
