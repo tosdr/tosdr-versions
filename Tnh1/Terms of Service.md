@@ -82,31 +82,31 @@ Linhas do transporte intermunicipal terão reforço para eleições em Alagoas](
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/f/csm_csm_csm_Estadio_Rei_Pele_2019_-_Foto_Aldo_Correia_9c436dd8fa_2fdc6e9850_b84c2dddea.jpg)
+   [![PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_ed79c6d1ab.jpg)
+
+SAIBA QUAIS
+
+PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-ja-registra-ocorrencias-de-crimes-eleitorais-neste-domingo-06-em-alagoas/ "PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas")   [![Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/0/csm_compra_de_votos_campo_alegre_vereador_b0058ec216.jpg)
+
+em flagrante
+
+Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://www.tnh1.com.br/noticia/nid/pai-de-candidato-a-vereador-e-preso-com-r3-mil-na-cueca-comprando-votos/ "Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos")   [![Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/f/csm_csm_csm_Estadio_Rei_Pele_2019_-_Foto_Aldo_Correia_9c436dd8fa_2fdc6e9850_b84c2dddea.jpg)
 
 Mandado em aberto
 
-Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial](https://www.tnh1.com.br/noticia/nid/foragido-e-preso-durante-jogo-no-rei-pele-apos-ser-identificado-pelo-sistema-de-reconhecimento-facial/ "Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ")   [![Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/c/csm_Latrocinio_Moacyr_Jr__Praia_da_Avenida_-_foto_Reproducao_e94af93fc5.jpg)
+Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial](https://www.tnh1.com.br/noticia/nid/foragido-e-preso-durante-jogo-no-rei-pele-apos-ser-identificado-pelo-sistema-de-reconhecimento-facial/ "Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ")   [![Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/c/csm_Latrocinio_Moacyr_Jr__Praia_da_Avenida_-_foto_Reproducao_e94af93fc5.jpg)
 
 latrocínio
 
-Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://www.tnh1.com.br/noticia/nid/apos-um-ano-suspeito-de-matar-fotografo-na-praia-da-avenida-segue-foragido/ "Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido")   [![Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/1/csm_sede_delegacia_geral_jacarecica_ascom_pc_2abbeb1832.jpg)
+Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://www.tnh1.com.br/noticia/nid/apos-um-ano-suspeito-de-matar-fotografo-na-praia-da-avenida-segue-foragido/ "Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido")   [![Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/1/csm_sede_delegacia_geral_jacarecica_ascom_pc_2abbeb1832.jpg)
 
 24 horas
 
-Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://www.tnh1.com.br/noticia/nid/eleicoes-2024-policia-civil-deflagra-plano-operacional-neste-sabado-5-em-alagoas/ "Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas")   [![Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/f/csm_material-apreendido-suspeitos-roubarem-caminhao_edcaa11bb1.jpg)
+Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://www.tnh1.com.br/noticia/nid/eleicoes-2024-policia-civil-deflagra-plano-operacional-neste-sabado-5-em-alagoas/ "Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas")   [![Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/f/csm_material-apreendido-suspeitos-roubarem-caminhao_edcaa11bb1.jpg)
 
 Em Inhapi
 
-Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://www.tnh1.com.br/noticia/nid/tres-homens-morrem-em-confronto-com-a-policia-apos-suspeita-de-tentativa-de-roubo-de-caminhao/ "Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão")   [![Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_atila_augusto_corpo_encontrado_-_foto_reproducao_123581a7a9.jpg)
-
-No Benedito Bentes
-
-Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal](https://www.tnh1.com.br/noticia/nid/corpo-de-jovem-que-estava-desaparecido-ha-quatro-dias-e-encontrado-em-matagal/ "Corpo de jovem que estava desaparecido há quatro dias é encontrado em matagal ")   [![Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/3/csm_viatura_pm_2024_f4d54124ab.jpg)
-
-Sacola nas mãos
-
-Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada](https://www.tnh1.com.br/noticia/nid/traficantes-deixam-25-kg-de-drogas-para-tras-ao-fugir-de-pms-na-levada/ "Traficantes deixam 25 kg de drogas para trás ao fugir de PMs, na Levada")
+Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://www.tnh1.com.br/noticia/nid/tres-homens-morrem-em-confronto-com-a-policia-apos-suspeita-de-tentativa-de-roubo-de-caminhao/ "Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -214,15 +214,7 @@ Crise?
 
 Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal
 
-Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal](https://www.tnh1.com.br/noticia/nid/harry-passou-a-noite-de-seu-aniversario-de-40-anos-longe-de-meghan-markle-caminhando-com-amigos-revela-jornal/ "Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal")[![Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/6/csm_rodrigo-faro-reproducao-redes-sociais_b1c6b2b011.png)
-
-Veja vídeo
-
-Veja vídeo
-
-Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações
-
-Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações](https://www.tnh1.com.br/noticia/nid/mulher-de-rodrigo-faro-e-internada-apos-encontrar-nodulo-e-pede-oracoes/ "Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações ")[![Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/4/csm_acidente_feitosa_336e85f8da.png)
+Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal](https://www.tnh1.com.br/noticia/nid/harry-passou-a-noite-de-seu-aniversario-de-40-anos-longe-de-meghan-markle-caminhando-com-amigos-revela-jornal/ "Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal")[![Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/4/csm_acidente_feitosa_336e85f8da.png)
 
 Trânsito
 
@@ -230,41 +222,49 @@ Trânsito
 
 Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário
 
-Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário](https://www.tnh1.com.br/noticia/nid/onibus-desgovernado-sobra-na-pista-e-derruba-poste-proximo-ao-terminal-rodoviario/ "Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ")
+Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário](https://www.tnh1.com.br/noticia/nid/onibus-desgovernado-sobra-na-pista-e-derruba-poste-proximo-ao-terminal-rodoviario/ "Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ")[![Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/6/csm_rodrigo-faro-reproducao-redes-sociais_b1c6b2b011.png)
 
-[![Concurso dos Correios destina 30% das vagas para negros e indígenas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/d/csm_correios_agencia_81349ea69f.png)
+Veja vídeo
 
-Concursos
+Veja vídeo
 
-Concursos
+Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações
 
-Concurso dos Correios destina 30% das vagas para negros e indígenas
+Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações](https://www.tnh1.com.br/noticia/nid/mulher-de-rodrigo-faro-e-internada-apos-encontrar-nodulo-e-pede-oracoes/ "Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações ")
 
-Concurso dos Correios destina 30% das vagas para negros e indígenas](https://www.tnh1.com.br/noticia/nid/concurso-dos-correios-destina-30-das-vagas-para-negros-e-indigenas/ "Concurso dos Correios destina 30% das vagas para negros e indígenas")[![Homem é preso após fingir ser João Guilherme para obter cartão de crédito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/6/csm_Joao_Guilherme_ef23bd1a16.png)
+[![Polícia Federal já prendeu 56 pessoas por crimes eleitorais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/a/csm_urna-foto-antonio-augusto-ascom-tse_05466f0149.jpeg)
 
-Brasil
+no país inteiro
 
-Brasil
+no país inteiro
 
-Homem é preso após fingir ser João Guilherme para obter cartão de crédito
+Polícia Federal já prendeu 56 pessoas por crimes eleitorais
 
-Homem é preso após fingir ser João Guilherme para obter cartão de crédito](https://www.tnh1.com.br/noticia/nid/homem-e-preso-apos-fingir-ser-joao-guilherme-para-obter-cartao-de-credito/ "Homem é preso após fingir ser João Guilherme para obter cartão de crédito")[![Após falso laudo médico, Justiça determina suspensão do perfil de Pablo Marçal no Instagram](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/2/csm_TRE_SP_28e65202a1.png)
+Polícia Federal já prendeu 56 pessoas por crimes eleitorais](https://www.tnh1.com.br/noticia/nid/policia-federal-ja-prendeu-56-pessoas-por-crimes-eleitorais/ "Polícia Federal já prendeu 56 pessoas por crimes eleitorais")[![Avião da FAB com mais de 200 brasileiros repatriados pousa em São Paulo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/4/csm_aviao_repatriados_foto_fab_1d8cdfb0bd.jpg)
 
-Eleições
+em Guarulhos
 
-Eleições
+em Guarulhos
 
-Após falso laudo médico, Justiça determina suspensão do perfil de Pablo Marçal no Instagram
+Avião da FAB com mais de 200 brasileiros repatriados pousa em São Paulo
 
-Após falso laudo médico, Justiça determina suspensão do perfil de Pablo Marçal no Instagram](https://www.tnh1.com.br/noticia/nid/apos-falso-laudo-medico-justica-determina-suspensao-do-perfil-de-pablo-marcal-no-instagram/ "Após falso laudo médico, Justiça determina suspensão do perfil de Pablo Marçal no Instagram")[![Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/6/csm_Marcal_boulos_51679e1997.png)
+Avião da FAB com mais de 200 brasileiros repatriados pousa em São Paulo](https://www.tnh1.com.br/noticia/nid/aviao-da-fab-com-mais-de-200-brasileiros-repatriados-pousa-em-sao-paulo/ "Avião da FAB com mais de 200 brasileiros repatriados pousa em São Paulo")[![Bolsonaro vota no Rio de Janeiro e projeta segundo turno na cidade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/1/csm_bolsonaro_reproducao_tv_globo_50fb90be2d.jpg)
 
-Política
+Ex-presidente
 
-Política
+Ex-presidente
 
-Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição
+Bolsonaro vota no Rio de Janeiro e projeta segundo turno na cidade
 
-Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição](https://www.tnh1.com.br/noticia/nid/marcal-pode-sofrer-condenacoes-e-ficar-inelegivel-por-laudo-falso-mas-seguira-nesta-eleicao/ "Marçal pode sofrer condenações e ficar inelegível por laudo falso, mas seguirá nesta eleição")
+Bolsonaro vota no Rio de Janeiro e projeta segundo turno na cidade](https://www.tnh1.com.br/noticia/nid/bolsonaro-vota-no-rio-de-janeiro-e-projeta-segundo-turno-na-cidade/ "Bolsonaro vota no Rio de Janeiro e projeta segundo turno na cidade")[![PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_f9bd48b31e.jpg)
+
+SAIBA QUAIS
+
+SAIBA QUAIS
+
+PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas
+
+PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-ja-registra-ocorrencias-de-crimes-eleitorais-neste-domingo-06-em-alagoas/ "PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
