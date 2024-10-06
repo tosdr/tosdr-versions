@@ -135,7 +135,7 @@ By using our Services, you signify your acceptance of this policy. If you do not
 Contacting us
 -------------
 
-If you have any questions about this Privacy Policy please contact us at [\[email protected\]](https://www.infobyip.com/cdn-cgi/l/email-protection).
+If you have any questions about this Privacy Policy please contact us at [support@infobyip.com](mailto:support@infobyip.com).
 
 This document was last updated on Dec 1, 2019.
 
