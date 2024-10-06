@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### On eve of Oct. 7 anniversary, pro-Israeli and pro-Palestinian crowds rally](https://www.csmonitor.com/World/Europe/2024/1006/october-7-attacks-israel-palestine-hamas-rallies-anniversary "On eve of Oct. 7 anniversary, pro-Israeli and pro-Palestinian crowds rally")
+
+[### Colorado judge receives threats after sentencing election denier official to prison](https://www.csmonitor.com/USA/Justice/2024/1006/Colorado-judge-receives-threats-after-sentencing-election-denier-official-to-prison "Colorado judge receives threats after sentencing election denier official to prison")
+
 [### ‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.](https://www.csmonitor.com/USA/Society/2024/1006/october-7-interfaith-groups-conflict-resolution "‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.")
-
-[### Misinformation from Trump, far-right hampers Helene recovery efforts](https://www.csmonitor.com/USA/2024/1005/hurricane-helene-north-carolina-trump-disinformation-government-conspiracy "Misinformation from Trump, far-right hampers Helene recovery efforts")
-
-[### Apology but no cash payments: California reparations for slavery start incrementally](https://www.csmonitor.com/USA/Society/2024/1004/apology-reparations-California-cash-payments "Apology but no cash payments: California reparations for slavery start incrementally")
 
 * * *
 
