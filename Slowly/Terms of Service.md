@@ -314,7 +314,7 @@ United Kingdom
 
 ![SLOWLY](https://slowly.app/wp-content/themes/slowly/assets/img/logo.svg)
 
-#### Find someone who reads you
+#### Start connecting with the world now!
 
 4.7   8M+
 
