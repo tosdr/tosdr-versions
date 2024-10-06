@@ -522,9 +522,9 @@ By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zo
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,21 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Emails show early U.S. concerns over Gaza offensive and risk of Israeli war crimes](https://www.japantimes.co.jp/news/2024/10/05/world/gaza-israel-early-emails-us/ "Emails show early U.S. concerns over Gaza offensive and risk of Israeli war crimes")
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-9 hours ago
+1 hours ago
 
-[Torrential rain in Noto Peninsula to be designated a severe disaster, Ishiba says](https://www.japantimes.co.jp/news/2024/10/05/japan/ishiba-noto-peninsula-severe-disaster/ "Torrential rain in Noto Peninsula to be designated a severe disaster, Ishiba says")
+[Ishiba's U-turn on interest rates surprises market](https://www.japantimes.co.jp/business/2024/10/06/markets/ishiba-interest-rate-remark-surprise/ "Ishiba's U-turn on interest rates surprises market")
 
-11 hours ago
+1 hours ago
 
-[Hunted yet unrepentant: Hamas leader Yahya Sinwar remains committed to Israel's destruction](https://www.japantimes.co.jp/news/2024/10/05/world/yahya-sinwar-committed/ "Hunted yet unrepentant: Hamas leader Yahya Sinwar remains committed to Israel's destruction")
+[Ministry reports issues facing bookstores](https://www.japantimes.co.jp/business/2024/10/06/japan-ministry-bookstores/ "Ministry reports issues facing bookstores")
 
-11 hours ago
+1 hours ago
 
-[Saudi Arabia's PIF mulls larger stake in Nintendo: report](https://www.japantimes.co.jp/business/2024/10/05/saudi-arabia-pif-nintendo/ "Saudi Arabia's PIF mulls larger stake in Nintendo: report")
+[Japanese government to survey stockpiles at designated shelters](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-government-stockpile-shelters/ "Japanese government to survey stockpiles at designated shelters")
 
-[Young language carer hopes to support others facing hardships in Japan](https://www.japantimes.co.jp/news/2024/10/05/japan/society/pakistan-japan-language-carer-npo/ "Young language carer hopes to support others facing hardships in Japan")
+1 hours ago
+
+['Iron Chef' star Yukio Hattori dies at 78](https://www.japantimes.co.jp/news/2024/10/06/japan/society/food-critic-yukio-hattori-dies/ "'Iron Chef' star Yukio Hattori dies at 78")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
