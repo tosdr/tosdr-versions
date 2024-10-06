@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Select Your Caregiver® by Visiting Angels](https://www.visitingangels.com/knowledge-center/selecting-care/select-your-caregiver-by-visiting-angels/266)
+[Isolation and Depression in the Elderly](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/isolation-and-depression-in-the-elderly/1)
 
-[Is it Time for Your Loved Ones to Leave Their Homes?](https://www.visitingangels.com/knowledge-center/care-options/is-it-time-for-your-loved-ones-to-leave-their-homes/6)
+[How to Avoid Senior Isolation and Loneliness](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-avoid-senior-isolation-and-loneliness/316)
 
-[Professional Home Care Can Help Older Adults Manage a Heart Condition](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/professional-home-care-can-help-older-adults-manage-a-heart-condition/479)
+[Loneliness in Seniors](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/loneliness-in-seniors/14)
 
-[How Palliative Care is Different Than Hospice](https://www.visitingangels.com/knowledge-center/care-options/how-palliative-care-is-different-than-hospice/301)
+[Uprooting an Aging Loved One: What to Know](https://www.visitingangels.com/knowledge-center/selecting-care/uprooting-an-aging-loved-one-what-to-know/337)
 
-[Everything You Should Know About Adult Care (Non-Senior Home Care)](https://www.visitingangels.com/knowledge-center/care-options/everything-you-should-know-about-adult-care-non-senior-home-care/40)
+[The Best Way to Avoid Elderly Hospital Readmission](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/the-best-way-to-avoid-elderly-hospital-readmission/333)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
