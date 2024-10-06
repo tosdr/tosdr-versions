@@ -50,31 +50,31 @@ Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); 
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/9/csm_VAGAS_SINE_2_MARIEL_MATHIAS_ASCOM_SETEQ__1__b46d6c7013.jpeg)
-
-Mercado de Trabalho
-
-Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-divulga-778-vagas-de-emprego-para-maceio-e-mais-tres-municipios-veja-cargos/ "Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos")   [![Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
-
-balneabilidade
-
-Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/vai-a-praia-veja-os-trechos-que-estao-proprios-para-banho-no-litoral-de-alagoas/ "Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas")   [![Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/a/csm_semarh-previsao-Alagoas_f758a332ff.png)
-
-Programe-se
-
-Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-nas-eleicoes-confira-a-previsao-do-tempo-em-alagoas/ "Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas")   [![Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/3/csm_sertao_museu_ufal_a45dc1cd2d.png)
+   [![Confira os resultados do Alagoas dá Sorte deste domingo (6)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
 
 Alagoas
 
-Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações](https://www.tnh1.com.br/noticia/nid/semarh-emite-aviso-de-baixa-umidade-para-o-sertao-de-alagoas-veja-orientacoes/ "Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ")   [![MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
+Confira os resultados do Alagoas dá Sorte deste domingo (6)](https://www.tnh1.com.br/noticia/nid/confira-os-resultados-do-alagoas-da-sorte-deste-domingo-6-2/ "Confira os resultados do Alagoas dá Sorte deste domingo (6)")   [![Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/9/csm_VAGAS_SINE_2_MARIEL_MATHIAS_ASCOM_SETEQ__1__b46d6c7013.jpeg)
+
+Mercado de Trabalho
+
+Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-divulga-778-vagas-de-emprego-para-maceio-e-mais-tres-municipios-veja-cargos/ "Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos")   [![Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
+
+balneabilidade
+
+Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/vai-a-praia-veja-os-trechos-que-estao-proprios-para-banho-no-litoral-de-alagoas/ "Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas")   [![Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/a/csm_semarh-previsao-Alagoas_f758a332ff.png)
+
+Programe-se
+
+Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-nas-eleicoes-confira-a-previsao-do-tempo-em-alagoas/ "Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas")   [![Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/3/csm_sertao_museu_ufal_a45dc1cd2d.png)
+
+Alagoas
+
+Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações](https://www.tnh1.com.br/noticia/nid/semarh-emite-aviso-de-baixa-umidade-para-o-sertao-de-alagoas-veja-orientacoes/ "Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ")   [![MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
 
 investigações
 
-MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió](https://www.tnh1.com.br/noticia/nid/mpe-acompanha-caso-de-criminosos-que-usaram-fardas-falsas-do-bope-durante-tentativa-de-assalto-em-maceio/ "MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ")   [![Linhas do transporte intermunicipal terão reforço para eleições em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/2/csm_arsal-autoriza-reforco-de-linhas-no-transporte-intermunicipal-para-eleicoes_1d56eee546.jpeg)
-
-ARSAL AUTORIZOU
-
-Linhas do transporte intermunicipal terão reforço para eleições em Alagoas](https://www.tnh1.com.br/noticia/nid/linhas-do-transporte-intermunicipal-terao-reforco-para-eleicoes-em-alagoas/ "Linhas do transporte intermunicipal terão reforço para eleições em Alagoas")
+MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió](https://www.tnh1.com.br/noticia/nid/mpe-acompanha-caso-de-criminosos-que-usaram-fardas-falsas-do-bope-durante-tentativa-de-assalto-em-maceio/ "MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Linhas do transporte intermunicipal terão reforço para eleições em Alagoas](
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_ed79c6d1ab.jpg)
+   [![Dinheiro apreendido pela PF já é quatro vezes maior que da última eleição ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_policia-federal-dinheiro-vivo-eleicoes-PF_19e9c067f5.jpeg)
+
+R$21 milhões
+
+Dinheiro apreendido pela PF já é quatro vezes maior que da última eleição](https://www.tnh1.com.br/noticia/nid/dinheiro-apreendido-pela-pf-ja-e-quatro-vezes-maior-que-da-ultima-eleicao/ "Dinheiro apreendido pela PF já é quatro vezes maior que da última eleição ")   [![PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_ed79c6d1ab.jpg)
 
 SAIBA QUAIS
 
-PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-ja-registra-ocorrencias-de-crimes-eleitorais-neste-domingo-06-em-alagoas/ "PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas")   [![Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/0/csm_compra_de_votos_campo_alegre_vereador_b0058ec216.jpg)
+PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-ja-registra-ocorrencias-de-crimes-eleitorais-neste-domingo-06-em-alagoas/ "PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas")   [![Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/0/csm_compra_de_votos_campo_alegre_vereador_b0058ec216.jpg)
 
 em flagrante
 
-Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://www.tnh1.com.br/noticia/nid/pai-de-candidato-a-vereador-e-preso-com-r3-mil-na-cueca-comprando-votos/ "Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos")   [![Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/f/csm_csm_csm_Estadio_Rei_Pele_2019_-_Foto_Aldo_Correia_9c436dd8fa_2fdc6e9850_b84c2dddea.jpg)
+Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://www.tnh1.com.br/noticia/nid/pai-de-candidato-a-vereador-e-preso-com-r3-mil-na-cueca-comprando-votos/ "Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos")   [![Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/f/csm_csm_csm_Estadio_Rei_Pele_2019_-_Foto_Aldo_Correia_9c436dd8fa_2fdc6e9850_b84c2dddea.jpg)
 
 Mandado em aberto
 
-Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial](https://www.tnh1.com.br/noticia/nid/foragido-e-preso-durante-jogo-no-rei-pele-apos-ser-identificado-pelo-sistema-de-reconhecimento-facial/ "Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ")   [![Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/c/csm_Latrocinio_Moacyr_Jr__Praia_da_Avenida_-_foto_Reproducao_e94af93fc5.jpg)
+Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial](https://www.tnh1.com.br/noticia/nid/foragido-e-preso-durante-jogo-no-rei-pele-apos-ser-identificado-pelo-sistema-de-reconhecimento-facial/ "Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ")   [![Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/c/csm_Latrocinio_Moacyr_Jr__Praia_da_Avenida_-_foto_Reproducao_e94af93fc5.jpg)
 
 latrocínio
 
-Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://www.tnh1.com.br/noticia/nid/apos-um-ano-suspeito-de-matar-fotografo-na-praia-da-avenida-segue-foragido/ "Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido")   [![Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/1/csm_sede_delegacia_geral_jacarecica_ascom_pc_2abbeb1832.jpg)
+Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://www.tnh1.com.br/noticia/nid/apos-um-ano-suspeito-de-matar-fotografo-na-praia-da-avenida-segue-foragido/ "Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido")   [![Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/1/csm_sede_delegacia_geral_jacarecica_ascom_pc_2abbeb1832.jpg)
 
 24 horas
 
-Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://www.tnh1.com.br/noticia/nid/eleicoes-2024-policia-civil-deflagra-plano-operacional-neste-sabado-5-em-alagoas/ "Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas")   [![Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/f/csm_material-apreendido-suspeitos-roubarem-caminhao_edcaa11bb1.jpg)
-
-Em Inhapi
-
-Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão](https://www.tnh1.com.br/noticia/nid/tres-homens-morrem-em-confronto-com-a-policia-apos-suspeita-de-tentativa-de-roubo-de-caminhao/ "Três homens morrem em confronto com a polícia após suspeita de tentativa de roubo de caminhão")
+Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://www.tnh1.com.br/noticia/nid/eleicoes-2024-policia-civil-deflagra-plano-operacional-neste-sabado-5-em-alagoas/ "Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -222,49 +222,49 @@ Trânsito
 
 Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário
 
-Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário](https://www.tnh1.com.br/noticia/nid/onibus-desgovernado-sobra-na-pista-e-derruba-poste-proximo-ao-terminal-rodoviario/ "Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ")[![Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/6/csm_rodrigo-faro-reproducao-redes-sociais_b1c6b2b011.png)
+Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário](https://www.tnh1.com.br/noticia/nid/onibus-desgovernado-sobra-na-pista-e-derruba-poste-proximo-ao-terminal-rodoviario/ "Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ")[![Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/7/csm_craibas-vista-cima_02398f973c.jpg)
 
-Veja vídeo
+interior de AL
 
-Veja vídeo
+interior de AL
 
-Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações
+Homem passa mal em fila na porta de local de votação e morre após ser socorrido
 
-Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações](https://www.tnh1.com.br/noticia/nid/mulher-de-rodrigo-faro-e-internada-apos-encontrar-nodulo-e-pede-oracoes/ "Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações ")
+Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://www.tnh1.com.br/noticia/nid/homem-passa-mal-em-fila-na-porta-de-local-de-votacao-e-morre-apos-ser-socorrido/ "Homem passa mal em fila na porta de local de votação e morre após ser socorrido")
 
-[![Polícia Federal já prendeu 56 pessoas por crimes eleitorais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/a/csm_urna-foto-antonio-augusto-ascom-tse_05466f0149.jpeg)
+[![Avião decola rumo ao Líbano para nova repatriação de brasileiros](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_Aviao_FAB_-_foto_Paulo_Pinto_-_Agencia_Brasil_147ca510c8.jpg)
 
-no país inteiro
+Força Aérea
 
-no país inteiro
+Força Aérea
 
-Polícia Federal já prendeu 56 pessoas por crimes eleitorais
+Avião decola rumo ao Líbano para nova repatriação de brasileiros
 
-Polícia Federal já prendeu 56 pessoas por crimes eleitorais](https://www.tnh1.com.br/noticia/nid/policia-federal-ja-prendeu-56-pessoas-por-crimes-eleitorais/ "Polícia Federal já prendeu 56 pessoas por crimes eleitorais")[![Avião da FAB com mais de 200 brasileiros repatriados pousa em São Paulo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/4/csm_aviao_repatriados_foto_fab_1d8cdfb0bd.jpg)
+Avião decola rumo ao Líbano para nova repatriação de brasileiros](https://www.tnh1.com.br/noticia/nid/aviao-decola-rumo-ao-libano-para-nova-repatriacao-de-brasileiros/ "Avião decola rumo ao Líbano para nova repatriação de brasileiros")[![Filha de médico citado em laudo falso pede inelegibilidade de Marçal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_pablo-marcal-_96657ba434.jpg)
 
-em Guarulhos
+'ato incrédulo'
 
-em Guarulhos
+'ato incrédulo'
 
-Avião da FAB com mais de 200 brasileiros repatriados pousa em São Paulo
+Filha de médico citado em laudo falso pede inelegibilidade de Marçal
 
-Avião da FAB com mais de 200 brasileiros repatriados pousa em São Paulo](https://www.tnh1.com.br/noticia/nid/aviao-da-fab-com-mais-de-200-brasileiros-repatriados-pousa-em-sao-paulo/ "Avião da FAB com mais de 200 brasileiros repatriados pousa em São Paulo")[![Bolsonaro vota no Rio de Janeiro e projeta segundo turno na cidade](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/1/csm_bolsonaro_reproducao_tv_globo_50fb90be2d.jpg)
+Filha de médico citado em laudo falso pede inelegibilidade de Marçal](https://www.tnh1.com.br/noticia/nid/filha-de-medico-citado-em-laudo-falso-pede-inelegibilidade-de-marcal/ "Filha de médico citado em laudo falso pede inelegibilidade de Marçal")[![Bebê de 19 dias se engasga em seção eleitoral de SP e é salvo por PMs](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/4/csm_PM_SP_-_foto_Divulgacao_6e8c6fb5f9.jpeg)
 
-Ex-presidente
+Capão Redondo
 
-Ex-presidente
+Capão Redondo
 
-Bolsonaro vota no Rio de Janeiro e projeta segundo turno na cidade
+Bebê de 19 dias se engasga em seção eleitoral de SP e é salvo por PMs
 
-Bolsonaro vota no Rio de Janeiro e projeta segundo turno na cidade](https://www.tnh1.com.br/noticia/nid/bolsonaro-vota-no-rio-de-janeiro-e-projeta-segundo-turno-na-cidade/ "Bolsonaro vota no Rio de Janeiro e projeta segundo turno na cidade")[![PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_f9bd48b31e.jpg)
+Bebê de 19 dias se engasga em seção eleitoral de SP e é salvo por PMs](https://www.tnh1.com.br/noticia/nid/bebe-de-19-dias-se-engasga-em-secao-eleitoral-de-sp-e-e-salvo-por-pms/ "Bebê de 19 dias se engasga em seção eleitoral de SP e é salvo por PMs")[![Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/0/csm_Logotipo_de_Vale_Tudo_69fa42c568.png)
 
-SAIBA QUAIS
+Televisão
 
-SAIBA QUAIS
+Televisão
 
-PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas
+Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo
 
-PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-ja-registra-ocorrencias-de-crimes-eleitorais-neste-domingo-06-em-alagoas/ "PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas")
+Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-atriz-que-rejeitou-participacao-especial-no-remake-de-vale-tudo/ "Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
