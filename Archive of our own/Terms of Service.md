@@ -45,7 +45,7 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: buffy gen teen AND "no archive warnings apply" 
+* Work Search  tip: "uchiha sasuke/uzumaki naruto" angst kudos>10 
     
 
 Terms of Service
@@ -600,6 +600,6 @@ Approved: 23 May 2018
     * [Technical Support & Feedback](https://archiveofourown.org/support)
 * #### Development
     
-    * [otwarchive v0.9.378.2](https://github.com/otwcode/otwarchive/commits/v0.9.378.2)
+    * [otwarchive v0.9.379.1](https://github.com/otwcode/otwarchive/commits/v0.9.379.1)
     * [Known Issues](https://archiveofourown.org/known_issues)
     * [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html "View License") by the [OTW](https://transformativeworks.org/ "The Organization for Transformative Works")
