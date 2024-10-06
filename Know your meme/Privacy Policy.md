@@ -99,30 +99,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [!['Maitake Guru Guru' Challenges 'Shikanoko Days' For Earworm Supremacy On Social Media](https://i.kym-cdn.com/featured_items/icons/wide/000/026/144/maitake_guru_guru.jpg "'Maitake Guru Guru' Challenges 'Shikanoko Days' For Earworm Supremacy On Social Media")
+* [!['Why Should I Throw This Plastic Ring Into The River' Is Another WTMMP Meme Classic](https://i.kym-cdn.com/featured_items/icons/wide/000/026/157/cover9.jpg "'Why Should I Throw This Plastic Ring Into The River' Is Another WTMMP Meme Classic")
     
-    'Maitake Guru Guru' Challenges 'Shikanoko Days' For Earworm Supremacy On Social Media](https://knowyourmeme.com/memes/maitake-guru-guru)
+    'Why Should I Throw This Plastic Ring Into The River' Is Another WTMMP Meme Classic](https://knowyourmeme.com/memes/why-i-should-throw-this-plastic-six-pack-ring-into-the-river)
     
-* [![fake 'brat' billboard meme example](https://i.kym-cdn.com/featured_items/icons/wide/000/026/143/brat_billoard_memes_cover.jpg "Charli XCX's 'Brat' Remix Album Promotion Sparks Fake Billboards Memes On Social Media")
+* [![Weird Twitter Slang Term 'Goblin Mode' Makes Its Way Into Kanye West and Julia Fox Meme, Confusing World](https://i.kym-cdn.com/featured_items/icons/wide/000/026/156/nazedo-a-goblin-1-575cd112-oohc.jpeg "Happy Anniversary To Former Word Of The Year 'Goblin Mode'")
     
-    Charli XCX's 'Brat' Remix Album Promotion Sparks Fake Billboards Memes On Social Media](https://knowyourmeme.com/memes/brat-billboard-parodies)
+    Happy Anniversary To Former Word Of The Year 'Goblin Mode'](https://knowyourmeme.com/memes/goblin-mode)
     
-* [![Latest 'Tropes In Media' Discourse Concerns Bait Post Owning Fans Of The Hero's Journey](https://i.kym-cdn.com/featured_items/icons/wide/000/026/142/Screenshot_2024-10-03_at_2.22.08_PM.jpg "Latest 'Tropes In Media' Discourse Concerns Bait Post Owning Fans Of The Hero's Journey")
+* [![Reminder: Bait Used To Be Believable](https://i.kym-cdn.com/featured_items/icons/wide/000/026/155/cover8.jpg "Reminder: Bait Used To Be Believable")
     
-    Latest 'Tropes In Media' Discourse Concerns Bait Post Owning Fans Of The Hero's Journey](https://knowyourmeme.com/memes/if-you-actually-like-when-movies-do-this)
+    Reminder: Bait Used To Be Believable](https://knowyourmeme.com/memes/bait-used-to-be-believable)
     
-* [![What You Imagine vs. What I Imagine is an art trend that grew popular on TikTok in September 2024. The trend shows two characters each with their own thought bubbles, with the person wearing glasses visualizing a wholesome scene while the person with a less excited expression visualizes something more explicit. The original comic inspired several redraws where people inserted fanart of their favourite ships](https://i.kym-cdn.com/featured_items/icons/wide/000/026/141/what_I_think.jpg "This Ship Dynamic Redraw Trend Is Pitting The Romantic One Against The Lewd One")
+* [![Dramatic Fan Dub Of Spider-Man Comic Becomes Backing Track For Locking In On TikTok](https://i.kym-cdn.com/featured_items/icons/wide/000/026/154/Screenshot_2024-10-04_at_4.14.18_PM.jpg "Dramatic Fan Dub Of Spider-Man Comic Becomes Backing Track For Locking In On TikTok")
     
-    This Ship Dynamic Redraw Trend Is Pitting The Romantic One Against The Lewd One](https://knowyourmeme.com/memes/what-you-imagine-vs-what-i-imagine)
+    Dramatic Fan Dub Of Spider-Man Comic Becomes Backing Track For Locking In On TikTok](https://knowyourmeme.com/memes/but-peter-youre-going-to-die-doing-this)
     
-* [![A 2021 Comic About Aztecs And Conquistadors Has Been Repurposed For Memes And Reactions](https://i.kym-cdn.com/featured_items/icons/wide/000/026/140/cover4.jpg "A 2021 Comic About Aztecs And Conquistadors Has Been Repurposed For Memes And Reactions")
+* [![Winter Arc refers to a fitness challenge where people spend their winters bulking and gaining muscle and then cutting the fat to look fit and shredded by summer. The challenge can be traced back to the year 2022. However, the phrase "winter arc" only received meme attention in 2024, with internet users mocking those who treat the challenge like a "double xp event."](https://i.kym-cdn.com/featured_items/icons/wide/000/026/153/winter_arc.jpg "The 'Winter Arc' Fitness Challenge Has Been Overrun With Posers Who Treat It Like A Double XP Event")
     
-    A 2021 Comic About Aztecs And Conquistadors Has Been Repurposed For Memes And Reactions](https://knowyourmeme.com/memes/oh-look-here-comes-the-far-right)
+    The 'Winter Arc' Fitness Challenge Has Been Overrun With Posers Who Treat It Like A Double XP Event](https://knowyourmeme.com/memes/winter-arc)
     
 
 ##### Also Trending:
 
-[Bait Used to Be Believable](https://knowyourmeme.com/memes/bait-used-to-be-believable "Bait Used to Be Believable")
+[The Amazing Digital Circus](https://knowyourmeme.com/memes/subcultures/the-amazing-digital-circus "The Amazing Digital Circus") [Elon Musk Jumping](https://knowyourmeme.com/memes/elon-musk-jumping "Elon Musk Jumping") [Oh, Look! Here Comes the Far Right](https://knowyourmeme.com/memes/oh-look-here-comes-the-far-right "Oh, Look! Here Comes the Far Right") [Bait Used to Be Believable](https://knowyourmeme.com/memes/bait-used-to-be-believable "Bait Used to Be Believable") [#Wokot](https://knowyourmeme.com/memes/events/godot-engine-user-blocking-controversy-wokot "#Wokot") [What You Imagine vs. What I Imagine](https://knowyourmeme.com/memes/what-you-imagine-vs-what-i-imagine "What You Imagine vs. What I Imagine")
 
 Privacy Policy
 ==============
@@ -318,7 +318,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### 'lo! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
