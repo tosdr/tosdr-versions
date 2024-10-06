@@ -166,7 +166,7 @@ Asia
         
     * Trousers
         
-        * [Show all](https://www.fjallraven.com/us/en-us/women/trousers/)
+        * [Show all](https://www.fjallraven.com/us/en-us/our-story/materials/soles/)
         * [Trekking Trousers](https://www.fjallraven.com/us/en-us/women/trousers/trekking-trousers/)
         * [Trekking Tights](https://www.fjallraven.com/us/en-us/women/trousers/trekking-tights/)
         * [Outdoor Trousers](https://www.fjallraven.com/us/en-us/women/trousers/outdoor-trousers/)
@@ -271,7 +271,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=1ef145b0-ddc1-4532-b400-4feb2c252526)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=56e77210-54c2-49d2-bcd9-15d1218b8a71)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -352,7 +352,7 @@ Asia
             
         * Trousers
             
-            * [Show all Trousers](https://www.fjallraven.com/us/en-us/women/trousers/)
+            * [Show all Trousers](https://www.fjallraven.com/us/en-us/our-story/materials/soles/)
             * [Trekking Trousers](https://www.fjallraven.com/us/en-us/women/trousers/trekking-trousers/)
             * [Trekking Tights](https://www.fjallraven.com/us/en-us/women/trousers/trekking-tights/)
             * [Outdoor Trousers](https://www.fjallraven.com/us/en-us/women/trousers/outdoor-trousers/)
@@ -430,7 +430,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=1ef145b0-ddc1-4532-b400-4feb2c252526)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=56e77210-54c2-49d2-bcd9-15d1218b8a71)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -800,7 +800,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=1ef145b0-ddc1-4532-b400-4feb2c252526)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=56e77210-54c2-49d2-bcd9-15d1218b8a71)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
