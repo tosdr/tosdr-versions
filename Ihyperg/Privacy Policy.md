@@ -11,6 +11,7 @@
     * [Crypto](https://www.skyversed.com/search/label/Crypto%20News)
 * [ ]  Photo Editor Pages
     * [Filters & Overlays Guide](https://www.ihyperg.com/p/how-to-use-filters-and-overlays-for.html)
+    * [Adjust & HSL Guide](https://www.ihyperg.com/p/how-to-use-adjust-and-hsl-tools-for-pro.html)
 * [ ]  Launcher Pages
     * [Bridge Milky Launcher](https://www.ihyperg.com/p/how-to-use-launcher-bridge-milky.html)
     * [Bridge Star Launcher](https://www.ihyperg.com/p/how-to-use-launcher-bridge-star-launcher.html)
