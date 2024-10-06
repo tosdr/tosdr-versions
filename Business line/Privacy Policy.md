@@ -1,5 +1,49 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=123456&cs_ucfr=1&cv=2.0&cj=1)
 
+##### SENSEX   81,688.45
+
+ -808.65
+
+##### NIFTY   25,014.60
+
+ -235.50
+
+##### CRUDEOIL   6,350.00
+
++ 189.00
+
+##### GOLD   76,190.00
+
++ 47.00
+
+##### SILVER   93,500.00
+
++ 151.00
+
+##### SENSEX   81,688.45
+
+ -808.65
+
+##### NIFTY   25,014.60
+
+ -235.50
+
+##### NIFTY   25,014.60
+
+ -235.50
+
+##### CRUDEOIL   6,350.00
+
++ 189.00
+
+##### CRUDEOIL   6,350.00
+
++ 189.00
+
+##### GOLD   76,190.00
+
++ 47.00
+
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
 * [Companies](https://www.thehindubusinessline.com/companies/) 
@@ -34,7 +78,7 @@ MENU ![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images
 * [Top gainers today](https://www.thehindubusinessline.com/markets/top-gainers-today/)
 * [Top losers today](https://www.thehindubusinessline.com/markets/top-losers-today/)
 * [Nifty 50](https://www.thehindubusinessline.com/markets/nifty-50/)
-* [Sensex](https://www.thehindubusinessline.com/markets/bse-sensex/)
+* [BSE Sensex](https://www.thehindubusinessline.com/markets/bse-sensex/)
 
 ##### [Portfolio](https://www.thehindubusinessline.com/portfolio/)
 
@@ -146,7 +190,7 @@ TO ENJOY ADDITIONAL BENEFITS
     * [Top gainers today](https://www.thehindubusinessline.com/markets/top-gainers-today/) 
     * [Top losers today](https://www.thehindubusinessline.com/markets/top-losers-today/) 
     * [Nifty 50](https://www.thehindubusinessline.com/markets/nifty-50/) 
-    * [Sensex](https://www.thehindubusinessline.com/markets/bse-sensex/) 
+    * [BSE Sensex](https://www.thehindubusinessline.com/markets/bse-sensex/) 
 * #####  [Companies](https://www.thehindubusinessline.com/companies/)
     
     * [MSME](https://www.thehindubusinessline.com/companies/msme/) 
