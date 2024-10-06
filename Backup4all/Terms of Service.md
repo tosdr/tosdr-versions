@@ -133,15 +133,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup to DVD](https://www.backup4all.com/backup-to-dvd-kb.html)  
+* [Rotating backup scheme using external drives](https://www.backup4all.com/rotating-backup-scheme-using-external-drives-kb.html)  
+    
+* [How to backup on two external drives using th ...](https://www.backup4all.com/how-to-backup-on-two-external-drives-using-the-daily-rotation-scheme-kb.html)  
+    
+* [How to create a private-public key pair](https://www.backup4all.com/how-to-create-a-private-public-key-pair-kb.html)  
+    
+* [How to deactivate Backup4all Monitor](https://www.backup4all.com/how-to-deactivate-backup4all-monitor-kb.html)  
     
 * [How to configure a new backup?](https://www.backup4all.com/how-to-configure-a-new-backup-kb.html)  
-    
-* [How to back up data files from Zettagrid usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-zettagrid-using-backup4all-kb.html)  
-    
-* [How to password protect a backup?](https://www.backup4all.com/how-to-password-protect-a-backup-kb.html)  
-    
-* [How to back up data files from HiDrive using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hidrive-using-backup4all-kb.html)  
     
 
 Choose language:
