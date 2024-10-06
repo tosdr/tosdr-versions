@@ -19,6 +19,32 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Murderers: Maria Manning and Frederick Manning](https://southwarknews.co.uk/wp-content/uploads/2024/10/Murderers-Maria-Manning-and-Frederick-Manning-360x180.png)](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
+    
+    ### [The Rise of Scotland Yard: How the Manning case shaped detective history, new book reveals](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
+    
+    [![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+    
+    ### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+    
+    [![The family launched Joshy Boy Legacy last month. Credit: Joshy Boy Legacy](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_5449_Original-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
+    
+    ### [Disabled boy’s housing struggles inspires Rotherhithe family’s push for accessible homes](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
+    
+    [![(Archdiocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-18.07-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
+    
+    ### [Watch the angelic schoolkids of Southwark sing their hearts out at St George’s Cathedral](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
+    
+    [![Sir Keir Starmer and Sadiq Khan pose for pictures. 
+    Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sir-Keir-Starmer-and-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-is-still-lobbying-sir-keir-starmer-to-create-a-youth-mobility-scheme-with-the-eu/)
+    
+    ### [Sadiq Khan is still lobbying Sir Keir Starmer to create a youth mobility scheme with the EU](https://southwarknews.co.uk/area/london/sadiq-khan-is-still-lobbying-sir-keir-starmer-to-create-a-youth-mobility-scheme-with-the-eu/) 
+    
+    [![Amy Lamé, London's Night Czar. 
+    Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/10/Amy-lame-360x180.jpg)](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
+    
+    ### [London’s night czar, Amy Lamé, has announced she will stand down](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
+    
     [![Im](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-1-1-1-360x180.png)](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
     
     ### [Comment on phone-snatching: Londoners are doomed if police can’t get the basics right](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
@@ -30,33 +56,6 @@
     [![James Allen's Girls' School. Credit: JAGS](https://southwarknews.co.uk/wp-content/uploads/2024/08/James-Allens-Girls-School-360x180.png)](https://southwarknews.co.uk/area/dulwich/dulwich-girls-school-praised-for-supporting-social-mobility/)
     
     ### [Dulwich girls’ school praised for ‘supporting social mobility’](https://southwarknews.co.uk/area/dulwich/dulwich-girls-school-praised-for-supporting-social-mobility/)
-    
-    [![Clapham Common tube platform
-    Photo from  Wikimedia Commons](https://southwarknews.co.uk/wp-content/uploads/2024/10/Clapham_Common_Tube_Station_Platforms_-_Oct_2007-360x180.jpg)](https://southwarknews.co.uk/area/south-london/no-plans-to-widen-narrow-platforms-at-two-of-claphams-tube-stations/)
-    
-    ### [No plans to widen narrow platforms at two of Clapham’s tube stations](https://southwarknews.co.uk/area/south-london/no-plans-to-widen-narrow-platforms-at-two-of-claphams-tube-stations/)
-    
-    [![Sadiq Khan, the Mayor of London. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sadiq-Khan-the-Mayor-of-London.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/the-impacts-of-a-cyber-attack-on-tfl-could-soon-be-resolved-sadiq-khan-has-suggested/)
-    
-    ### [The impacts of a cyber-attack on TfL could soon be resolved, Sadiq Khan has suggested](https://southwarknews.co.uk/area/london/the-impacts-of-a-cyber-attack-on-tfl-could-soon-be-resolved-sadiq-khan-has-suggested/)
-    
-    [![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
-    
-    ### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
-    
-    [![John Tullett said the planned controlled parking zone would put his garage on Rossendale Road, West Dulwich out of business on day one. 
-    CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/garage-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
-    
-    ### [Dulwich business say parking plans will put them out of business](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
-    
-    [![Aldgate to Blackfriars cycleway.
-    Credit: City of London Corporation.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aldgate-to-Blackfriars-cycleway-360x180.jpg)](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
-    
-    ### [Plans for cycleway linking Blackfriars to Aldgate](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
-    
-    [![CGI of planned park at Canada Water with flats surrounding it. From Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-planned-park-at-Canada-Water-with-flats-surrounding-it.-From-Southwark-Council-planning-documents-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
-    
-    ### [Private security will patrol Canada Water, British Land confirms](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -102,6 +101,32 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Murderers: Maria Manning and Frederick Manning](https://southwarknews.co.uk/wp-content/uploads/2024/10/Murderers-Maria-Manning-and-Frederick-Manning-360x180.png)](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
+    
+    ### [The Rise of Scotland Yard: How the Manning case shaped detective history, new book reveals](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
+    
+    [![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+    
+    ### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+    
+    [![The family launched Joshy Boy Legacy last month. Credit: Joshy Boy Legacy](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_5449_Original-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
+    
+    ### [Disabled boy’s housing struggles inspires Rotherhithe family’s push for accessible homes](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
+    
+    [![(Archdiocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-18.07-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
+    
+    ### [Watch the angelic schoolkids of Southwark sing their hearts out at St George’s Cathedral](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
+    
+    [![Sir Keir Starmer and Sadiq Khan pose for pictures. 
+    Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sir-Keir-Starmer-and-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-is-still-lobbying-sir-keir-starmer-to-create-a-youth-mobility-scheme-with-the-eu/)
+    
+    ### [Sadiq Khan is still lobbying Sir Keir Starmer to create a youth mobility scheme with the EU](https://southwarknews.co.uk/area/london/sadiq-khan-is-still-lobbying-sir-keir-starmer-to-create-a-youth-mobility-scheme-with-the-eu/) 
+    
+    [![Amy Lamé, London's Night Czar. 
+    Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/10/Amy-lame-360x180.jpg)](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
+    
+    ### [London’s night czar, Amy Lamé, has announced she will stand down](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
+    
     [![Im](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-1-1-1-360x180.png)](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
     
     ### [Comment on phone-snatching: Londoners are doomed if police can’t get the basics right](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
@@ -113,33 +138,6 @@ View All Result
     [![James Allen's Girls' School. Credit: JAGS](https://southwarknews.co.uk/wp-content/uploads/2024/08/James-Allens-Girls-School-360x180.png)](https://southwarknews.co.uk/area/dulwich/dulwich-girls-school-praised-for-supporting-social-mobility/)
     
     ### [Dulwich girls’ school praised for ‘supporting social mobility’](https://southwarknews.co.uk/area/dulwich/dulwich-girls-school-praised-for-supporting-social-mobility/)
-    
-    [![Clapham Common tube platform
-    Photo from  Wikimedia Commons](https://southwarknews.co.uk/wp-content/uploads/2024/10/Clapham_Common_Tube_Station_Platforms_-_Oct_2007-360x180.jpg)](https://southwarknews.co.uk/area/south-london/no-plans-to-widen-narrow-platforms-at-two-of-claphams-tube-stations/)
-    
-    ### [No plans to widen narrow platforms at two of Clapham’s tube stations](https://southwarknews.co.uk/area/south-london/no-plans-to-widen-narrow-platforms-at-two-of-claphams-tube-stations/)
-    
-    [![Sadiq Khan, the Mayor of London. Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/Sadiq-Khan-the-Mayor-of-London.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/the-impacts-of-a-cyber-attack-on-tfl-could-soon-be-resolved-sadiq-khan-has-suggested/)
-    
-    ### [The impacts of a cyber-attack on TfL could soon be resolved, Sadiq Khan has suggested](https://southwarknews.co.uk/area/london/the-impacts-of-a-cyber-attack-on-tfl-could-soon-be-resolved-sadiq-khan-has-suggested/)
-    
-    [![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
-    
-    ### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
-    
-    [![John Tullett said the planned controlled parking zone would put his garage on Rossendale Road, West Dulwich out of business on day one. 
-    CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/garage-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
-    
-    ### [Dulwich business say parking plans will put them out of business](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
-    
-    [![Aldgate to Blackfriars cycleway.
-    Credit: City of London Corporation.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aldgate-to-Blackfriars-cycleway-360x180.jpg)](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
-    
-    ### [Plans for cycleway linking Blackfriars to Aldgate](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
-    
-    [![CGI of planned park at Canada Water with flats surrounding it. From Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-planned-park-at-Canada-Water-with-flats-surrounding-it.-From-Southwark-Council-planning-documents-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
-    
-    ### [Private security will patrol Canada Water, British Land confirms](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -240,43 +238,42 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 ### Featured Articles
 
+[![Murderers: Maria Manning and Frederick Manning](https://southwarknews.co.uk/wp-content/uploads/2024/10/Murderers-Maria-Manning-and-Frederick-Manning-120x86.png)](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
+
+### [The Rise of Scotland Yard: How the Manning case shaped detective history, new book reveals](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
+
+[6th October 2024](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
+
+[![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+
+### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+
+[6th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+
+[![The family launched Joshy Boy Legacy last month. Credit: Joshy Boy Legacy](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_5449_Original-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
+
+### [Disabled boy’s housing struggles inspires Rotherhithe family’s push for accessible homes](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
+
+[6th October 2024](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
+
+[![(Archdiocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-18.07-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
+
+### [Watch the angelic schoolkids of Southwark sing their hearts out at St George’s Cathedral](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
+
+[6th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
+
+[![Amy Lamé, London's Night Czar. 
+Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/10/Amy-lame-120x86.jpg)](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
+
+### [London’s night czar, Amy Lamé, has announced she will stand down](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
+
+[6th October 2024](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
+
 [![Im](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-1-1-1-e1727863506265-120x86.png)](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
 
 ### [Comment on phone-snatching: Londoners are doomed if police can’t get the basics right](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
 
 [5th October 2024](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
-
-[![Erene Goodsir](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-03-10-2024-at-14.54-120x86.jpg)](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
-
-### [Woman quits smoking in time for her 80th birthday](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
-
-[5th October 2024](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
-
-[![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
-
-### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
-
-[4th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
-
-[![John Tullett said the planned controlled parking zone would put his garage on Rossendale Road, West Dulwich out of business on day one. 
-CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/garage-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
-
-### [Dulwich business say parking plans will put them out of business](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
-
-[4th October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
-
-[![Aldgate to Blackfriars cycleway.
-Credit: City of London Corporation.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aldgate-to-Blackfriars-cycleway-120x86.jpg)](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
-
-### [Plans for cycleway linking Blackfriars to Aldgate](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
-
-[4th October 2024](https://southwarknews.co.uk/area/borough/plans-for-cycleway-linking-blackfriars-to-aldgate/)
-
-[![CGI of planned park at Canada Water with flats surrounding it. From Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-planned-park-at-Canada-Water-with-flats-surrounding-it.-From-Southwark-Council-planning-documents-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
-
-### [Private security will patrol Canada Water, British Land confirms](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
-
-[4th October 2024](https://southwarknews.co.uk/area/rotherhithe/private-security-will-patrol-canada-water-british-land-confirms/)
 
 ### USEFUL PAGES
 
