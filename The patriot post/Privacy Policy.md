@@ -143,7 +143,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
