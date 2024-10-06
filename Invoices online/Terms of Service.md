@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Anri van der Linde
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=4844387)  
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=162571685)  
+Wiselink Broadband Vryheid
+
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=203013468)  
+van Schaik rentals
+
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=34232256)  
+Adele Jordaan T/A Joyful Noise Music Room
+
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=28108577)  
+Eruca (PTY)Ltd
+
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=195775416)  
+Hydroworld T/A Milliqua
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=22107420)  
+Dr V Naik Consult
+
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=85083851)  
+Wiselink Broadband Pty Ltd
+
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=152191122)  
+Enhle Oarabile Kea
+
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=137073322)  
 Chiron Medical Solutions
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=70656118)  
-VerdanTech Pty Ltd
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=198406595)  
+TurboFibre
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=159676026)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=114950209)  
+Imhoff Equestrian Centre
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=65664110)  
-SMART GUY PCS (PTY) LTD
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=164623462)  
+Blue Sky Solar Services
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=33280832)  
-Oukraal Merino's
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=29980427)  
+OrgChart Hosting Pty Ltd
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=138196203)  
-Alliance Energy
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=151711284)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=160526620)  
-Gemini-IT Group
-
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=170797628)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=140095062)  
-Qothiphango Mining
-
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=45009112)  
-NJR ICT Services (Pty) Ltd
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=98216504)  
-Creative Characters
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=128755982)  
-Sarabi
-
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=53358865)  
-McKaynine Mobility
-
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=165151323)  
-Forgotten Goods (Pty) Ltd
-
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=81b990f6c2c0cc56b7f2390a710f7214d4d2d359c88f615d527fc1e03d1dc2ce&c=188279936)  
-van Schaik rentals
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=1741424)  
+Safe-Train Consulting (PTY) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
