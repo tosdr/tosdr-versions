@@ -191,9 +191,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Fred Matteson](https://cdn.returningveterans.org/images/honor/Fred_Matteson.jpg)  
+![BG Gilbert Kirby](https://cdn.returningveterans.org/images/honor/BG_Kirby.jpg)  
 
-**In Honor of Fred Matteson**  
+**In Honor of BG Gilbert Kirby**  
+United States Army  
 United States Marine Corps  
 Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
@@ -240,5 +241,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/05/24 - 2:25:37  
+Printed 10/05/24 - 8:26:00  
 © 2024 Returning Veterans Project
