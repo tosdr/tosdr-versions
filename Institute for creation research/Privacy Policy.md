@@ -96,59 +96,37 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Fossil Record
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/Soft_Dinosaur_Eggs_1400x1050.jpg)](https://www.icr.org/article/soft-dinosaur-eggs-deflate-bird-dinosaur-evolution)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/garments-salvation)
 
-[Soft Dinosaur Eggs Deflate Bird-Dinosaur Evolution](https://www.icr.org/article/soft-dinosaur-eggs-deflate-bird-dinosaur-evolution/)
+[Garments of Salvation](https://www.icr.org/article/garments-salvation/)
 
-A pair of new studies found that some dinosaurs, and possibly some marine reptiles, laid squishy eggs. One study discovered that many dinosaurs, like turtles...
+“I will greatly rejoice in the LORD, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/Human_Evolution_Confusion_1400x1050.jpg)](https://www.icr.org/article/two-excuses-for-human-evolution-confusion)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/second-remnant)
 
-[Two Excuses for Human Evolution Confusion](https://www.icr.org/article/two-excuses-for-human-evolution-confusion/)
+[The Second Remnant](https://www.icr.org/article/second-remnant/)
 
-Public school textbooks assert that apes and humans emerged from an ape-like animal, whereas Genesis 1 says that God created humans and the different animal...
+“And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/First_Land_Bug_1400x1050.jpg)](https://www.icr.org/article/first-land-bug-buried-in-the-flood)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/disciples-and-servants)
 
-[First Land Bug Buried in the Flood](https://www.icr.org/article/first-land-bug-buried-in-the-flood/)
+[Disciples and Servants](https://www.icr.org/article/disciples-and-servants/)
 
-The Scottish island of Kerrera has produced the earliest known bug in the fossil record, a millipede.1 It was found in Silurian System rocks...
+“The disciple is not above his master, nor the servant above his lord.” (Matthew 10:24) Note the twofold relation of the believer...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
-
-More Creation Q&A
-
-[![](/i/articles/af/q%26a_is_earth_round_wide.jpg)](https://www.icr.org/article/earth-round)
-
-[Is the Earth Round?](https://www.icr.org/article/earth-round/)
-
-Some readers might think the answer to this question is so obvious that maybe we’re offering it as a kind of joke—but it’s no joke....
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/does_universe_look_old.jpg)](https://www.icr.org/article/does-the-universe-look-old)
-
-[Does the Universe Look Old?](https://www.icr.org/article/does-the-universe-look-old/)
-
-Since distant galaxies are billions of light-years away, some understandably assume that distant starlight must have taken billions of years to reach...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/did_someone_find_na.jpg)](https://www.icr.org/article/did-someone-really-find-noahs-ark)
-
-[Did Someone Really Find Noah's Ark?](https://www.icr.org/article/did-someone-really-find-noahs-ark/)
-
-I recall a tough conversation with a skeptical student after speaking on creation and the Flood at a Christian school. This young man insisted he would...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
+
+[](https://store.icr.org/.html)
+
+$
 
 [![](https://cdn.shoplightspeed.com/shops/601440/files/5202651/file.jpg)
 
@@ -156,25 +134,23 @@ The Fossil Record](https://store.icr.org/dr-john-morris-the-fossil-record.html)
 
 $19.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
 
-The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
+Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
+
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
+
+The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
+
+$14.99
 
 $19.99
 
 [](https://store.icr.org/.html)
 
 $
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
-
-Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
-
-$29.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
