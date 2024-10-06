@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-588c507a36458fe60cd4cbe4055d2edd
+174375d90f1e9237e2809e3cfc8742ef
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![14 mm double black hexagon beads](https://www.sojourner.biz/images/cache/glass/GL0324.200.jpg)](https://www.sojourner.biz/beads/glass/14-mm-double-black-hexagon-beads.html "14 mm double black hexagon beads")
+[![20 mm by 12 mm gray green jasper oval beads](https://www.sojourner.biz/images/cache/stone/STN066.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/20-mm-by-12-mm-gray-green-jasper-oval-beads.html "20 mm by 12 mm gray green jasper oval beads")
 
-#### [14 mm double black hexagon beads](https://www.sojourner.biz/beads/glass/14-mm-double-black-hexagon-beads.html "14 mm double black hexagon beads")
+#### [20 mm by 12 mm gray green jasper oval beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/20-mm-by-12-mm-gray-green-jasper-oval-beads.html "20 mm by 12 mm gray green jasper oval beads")
 
-$10.00
+$13.00
 
 ### Best Sellers
 
