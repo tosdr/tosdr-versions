@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4ed6f54f72ad6f1ebff06f478dccd461
+53a3254305610e1f7e3f8c676aa38ad7
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Moss Pearl necklace and earrings](https://sojourner.biz/images/cache/N0063.200.jpg)](https://sojourner.biz/jewelry/necklaces/moss-pearl-necklace-and-earrings.html "Moss Pearl necklace and earrings")
+[![10 mm light green squash blossom round beads](https://sojourner.biz/images/cache/glass/GL0027.200.jpg)](https://sojourner.biz/beads/glass/10-mm-light-green-squash-blossom-round-beads.html "10 mm light green squash blossom round beads")
 
-#### [Moss Pearl necklace and earrings](https://sojourner.biz/jewelry/necklaces/moss-pearl-necklace-and-earrings.html "Moss Pearl necklace and earrings")
+#### [10 mm light green squash blossom round beads](https://sojourner.biz/beads/glass/10-mm-light-green-squash-blossom-round-beads.html "10 mm light green squash blossom round beads")
 
-$80.00
+$8.00
 
 ### Best Sellers
 
