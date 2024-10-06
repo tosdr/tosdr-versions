@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Milton latest: Tropical storm intensifies as it barrels toward Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/al14_cone-1@1x_1-1.jpg?ve=1&tl=1)
+ [![Air Force cadet's cause of death blamed on rare bacterial infection](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/fnc-air-force-getty.jpg?ve=1&tl=1)
 
- ![Milton latest: Tropical storm intensifies as it barrels toward Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/al14_cone-1@1x_1-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
+ ![Air Force cadet's cause of death blamed on rare bacterial infection](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/fnc-air-force-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/air-force-cadets-cause-death-blamed-rare-bacterial-infection)
 
-### [Milton latest: Tropical storm intensifies as it barrels toward Florida](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
+### [Air Force cadet's cause of death blamed on rare bacterial infection](https://www.fox4news.com/news/air-force-cadets-cause-death-blamed-rare-bacterial-infection)
+
+ [![Milton latest: Hurricane expected to bring life-threatening storm surge, winds to Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/al14_cone-1@1x_1-1.jpg?ve=1&tl=1)
+
+ ![Milton latest: Hurricane expected to bring life-threatening storm surge, winds to Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/al14_cone-1@1x_1-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
+
+### [Milton latest: Hurricane expected to bring life-threatening storm surge, winds to Florida](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
+
+ [![Consumers in US could face cold-cut crisis as virus ravages pig farms in Italy](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/food-pro.jpg?ve=1&tl=1)
+
+ ![Consumers in US could face cold-cut crisis as virus ravages pig farms in Italy](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/food-pro.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pork-shortage-italy-african-swine-fever)
+
+### [Consumers in US could face cold-cut crisis as virus ravages pig farms in Italy](https://www.fox4news.com/news/pork-shortage-italy-african-swine-fever)
+
+ [![Dallas Cowboys vs. Pittsburgh Steelers: How to watch, stream, things to look for in Week 5](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2173809978.jpg?ve=1&tl=1)
+
+ ![Dallas Cowboys vs. Pittsburgh Steelers: How to watch, stream, things to look for in Week 5](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2173809978.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-vs-pittsburgh-steelers-week-5)
+
+### [Dallas Cowboys vs. Pittsburgh Steelers: How to watch, stream, things to look for in Week 5](https://www.fox4news.com/sports/dallas-cowboys-vs-pittsburgh-steelers-week-5)
 
  [![Fort Worth shooting: 1 dead, 3 injured near Stockyards](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100624-sh-ftw-pd-shooting-nw-24th-st_kdfw8b39_186__00.00.44.14.jpg?ve=1&tl=1)
 
  ![Fort Worth shooting: 1 dead, 3 injured near Stockyards](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100624-sh-ftw-pd-shooting-nw-24th-st_kdfw8b39_186__00.00.44.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-stockyards-shooting-oct-6)
 
 ### [Fort Worth shooting: 1 dead, 3 injured near Stockyards](https://www.fox4news.com/news/fort-worth-stockyards-shooting-oct-6)
-
- [![Cancer survivor gets special graduation ceremony at Medical City Children's Hospital](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100524-lb-tyler-vinh-graduation-pkg-jb_kdfw8ae0_18_00.02.14.04.jpg?ve=1&tl=1)
-
- ![Cancer survivor gets special graduation ceremony at Medical City Children's Hospital](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100524-lb-tyler-vinh-graduation-pkg-jb_kdfw8ae0_18_00.02.14.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/medical-city-childrens-hospital-tyler-vinh-graduation)
-
-### [Cancer survivor gets special graduation ceremony at Medical City Children's Hospital](https://www.fox4news.com/news/medical-city-childrens-hospital-tyler-vinh-graduation)
-
- [![Milton expected to become a major hurricane before slamming into Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/ssss.jpg?ve=1&tl=1)
-
- ![Milton expected to become a major hurricane before slamming into Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/ssss.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/milton-gulf-florida)
-
-### [Milton expected to become a major hurricane before slamming into Florida](https://www.fox4news.com/news/milton-gulf-florida)
-
- [![Father dead, son still missing after being swept underwater in Dallas creek](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1)
-
- ![Father dead, son still missing after being swept underwater in Dallas creek](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/592/333/78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mountain-creek-parkway-dallas)
-
-### [Father dead, son still missing after being swept underwater in Dallas creek](https://www.fox4news.com/news/mountain-creek-parkway-dallas)
 
 ###### [News](https://www.fox4news.com/news)
 
