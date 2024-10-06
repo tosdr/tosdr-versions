@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Angelina Jolie](https://www.women.com/img/gallery/the-ultimate-guide-to-angelina-jolies-many-tattoos/intro-1727977665.jpg)](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
+*  [![Tiffany Trump on the red carpet](https://www.women.com/img/gallery/tiffany-trump-outfits-that-just-didnt-work/intro-1727980253.jpg)](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [The Ultimate Guide To Angelina Jolie's Many Tattoos](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
-    ===========================================================================================================================
+    [Tiffany Trump Outfits That Just Didn't Work](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
+    ===================================================================================================================
     
-    While some of Angelina Jolie's tattoos are obvious, some are far more nuanced, and others are completely private.
+    The former First Daughter isn't exactly a fashion mogul, so we can forgive the occasional style mishap. However, some of her outfits left a lot to be desired.
     
-    By Amanda Chatel [Read More](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
+    By Emily Hutchinson [Read More](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
     
-* *  [![florence pugh](https://www.women.com/img/gallery/florence-pughs-edgiest-hair-looks-from-blond-to-buzzed/intro-1727809894.jpg)](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
+* *  [![Two women in bed](https://www.women.com/img/gallery/a-beginners-guide-to-sapphic-sex-for-if-youre-dating-women-for-the-first-time/intro-1727463730.jpg)](https://www.women.com/1675459/beginners-guide-sapphic-sex-dating-women-first-time/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Politics](https://www.women.com/category/politics/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+        [Politics](https://www.women.com/category/politics/) By Emily Hutchinson
         
-        ### [Florence Pugh's Edgiest Hair Looks From Blond To Buzzed](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
+        ### [A Beginner's Guide To Sapphic Sex (For If You're Dating Women For The First Time)](https://www.women.com/1675459/beginners-guide-sapphic-sex-dating-women-first-time/)
         
-        Florence Pugh's edgy hair looks have set more than one trend. Over the years, she's rocked unconventional colors, short crops, and even a full buzz cut.
+        If you're dating a woman for the first time, the idea of sapphic sex could be nerve-wracking or intimidating. Try these tips for a better experience.
         
-        By Amanda Chatel [Read More](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
+        By Emily Hutchinson [Read More](https://www.women.com/1675459/beginners-guide-sapphic-sex-dating-women-first-time/)
         
-    *  [![Jennifer Lopez](https://www.women.com/img/gallery/5-relationship-red-flags-weve-learned-to-avoid-thanks-to-jennifer-lopez/intro-1727973168.jpg)](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
+    *  [![Angelina Jolie](https://www.women.com/img/gallery/the-ultimate-guide-to-angelina-jolies-many-tattoos/intro-1727977665.jpg)](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
         
-        [Relationships](https://www.women.com/category/relationships/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Relationships](https://www.women.com/category/relationships/) By Amanda Chatel
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
         
-        ### [5 Relationship Red Flags We've Learned To Avoid Thanks To Jennifer Lopez](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
+        ### [The Ultimate Guide To Angelina Jolie's Many Tattoos](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
         
-        After consecutive failed relationships, one has to wonder why Jennifer Lopez got involved with men who were surrounded by red flags.
+        While some of Angelina Jolie's tattoos are obvious, some are far more nuanced, and others are completely private.
         
-        By Amanda Chatel [Read More](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
+        By Amanda Chatel [Read More](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
         
 
 More Stories
 ------------
 
+*  [![florence pugh](https://www.women.com/img/gallery/florence-pughs-edgiest-hair-looks-from-blond-to-buzzed/intro-1727809894.jpg)](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    
+    ### [Florence Pugh's Edgiest Hair Looks From Blond To Buzzed](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
+    
+    Florence Pugh's edgy hair looks have set more than one trend. Over the years, she's rocked unconventional colors, short crops, and even a full buzz cut.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
+    
+*  [![Jennifer Lopez](https://www.women.com/img/gallery/5-relationship-red-flags-weve-learned-to-avoid-thanks-to-jennifer-lopez/intro-1727973168.jpg)](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Amanda Chatel
+    
+    ### [5 Relationship Red Flags We've Learned To Avoid Thanks To Jennifer Lopez](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
+    
+    After consecutive failed relationships, one has to wonder why Jennifer Lopez got involved with men who were surrounded by red flags.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1679525/relationship-red-flags-learned-avoid-thanks-jennifer-lopez/)
+    
 *  [![Brittany Mahomes on the red carpet](https://www.women.com/img/gallery/5-brittany-mahomes-outfits-that-totally-missed-the-mark/intro-1727737133.jpg)](https://www.women.com/1677067/brittany-mahomes-outfits-missed-the-mark/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -381,30 +405,6 @@ More Stories
     "The Secret Lives of Mormon Wives" has made many curious about "soft swinging." Experts explained the pros and cons of engaging in non-monogamous sex.
     
     By Emily Hutchinson [Read More](https://www.women.com/1669700/pros-cons-soft-swinging/)
-    
-*  [![Gwen Stefani on stage](https://www.women.com/img/gallery/the-libra-celebrities-who-perfectly-embody-their-zodiac-sign/intro-1726692736.jpg)](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [The Libra Celebrities Who Perfectly Embody Their Zodiac Sign](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
-    
-    There are a handful of celebrities who show us what it means to be a Libra, perfectly embodying this diplomatic, romantic, and idealistic zodiac sign.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1668174/libra-celebrities-perfectly-embody-zodiac-sign/)
-    
-*  [![Sydney Sweeney on the red carpet](https://www.women.com/img/gallery/sydney-sweeney-outfits-that-totally-missed-the-mark/intro-1726589829.jpg)](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Sydney Sweeney Outfits That Totally Missed The Mark](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
-    
-    Sydney Sweeney has won over countless fans with her acting skills, but when it comes to fashion, let's just say it isn't her strong suit.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1666623/sydney-sweeney-outfits-totally-missed-the-mark/)
     
 
 Back
