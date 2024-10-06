@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/t-corona-virus-patent-is-van-bill-gates/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/mag-iemand-%e2%80%98anders%e2%80%99-zijn/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
