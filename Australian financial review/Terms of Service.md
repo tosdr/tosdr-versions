@@ -317,15 +317,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Ganni creative director Ditte Reffstrup walks the runway with models at Paris Fashion Week in September.](https://static.ffx.io/images/$zoom_0.3788%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_446%2C$y_16/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b71eae7e135118aacb8f2c22db9728241032d91d)](https://www.afr.com/life-and-luxury/fashion-and-style/all-the-fabulous-looks-and-fantasy-of-paris-fashion-week-20240925-p5kdj4)
+[![Kolonne/Null wines](https://static.ffx.io/images/$zoom_0.7358%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_457/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e88b0447219484662e645b7eaf91c82ad4ef92ef)](https://www.afr.com/life-and-luxury/food-and-wine/hands-down-the-best-non-alcoholic-wine-i-ve-tried-20241002-p5kfcl)
 
-### [All the fabulous looks and fantasy of Paris Fashion Week](https://www.afr.com/life-and-luxury/fashion-and-style/all-the-fabulous-looks-and-fantasy-of-paris-fashion-week-20240925-p5kdj4)
+### [Hands down the best non-alcoholic wine I’ve tried](https://www.afr.com/life-and-luxury/food-and-wine/hands-down-the-best-non-alcoholic-wine-i-ve-tried-20241002-p5kfcl)
 
-* Lauren Sams
+* 56 mins ago
+* Max Allen
 
-* ### [This summer’s most versatile accessory? A silk scarf](https://www.afr.com/life-and-luxury/fashion-and-style/this-summer-s-most-versatile-accessory-a-silk-scarf-20240910-p5k9hh)
+* ### [Move over pubs, socialising has moved to the steam room](https://www.afr.com/life-and-luxury/health-and-wellness/move-over-pubs-socialising-has-moved-to-the-steam-room-20240919-p5kbvv)
     
-* ### [How the parents of Baby Boomers were enticed to cruise](https://www.afr.com/life-and-luxury/arts-and-culture/how-the-parents-of-baby-boomers-were-enticed-to-cruise-20240906-p5k8lf)
+* ### [All the fabulous looks and fantasy of Paris Fashion Week](https://www.afr.com/life-and-luxury/fashion-and-style/all-the-fabulous-looks-and-fantasy-of-paris-fashion-week-20240925-p5kdj4)
     
 
 [Rich List](https://www.afr.com/rich-list)
