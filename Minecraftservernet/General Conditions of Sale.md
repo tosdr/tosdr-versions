@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+[![OblivionPrison](plugins/MineCraft/icons/25x25xOblivionPrison_1716869247.png.pagespeed.ic.FbvFd6IVCa.jpg)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+Oblivion Prison](https://minecraft-server.net/details/OblivionPrison/ "Oblivion Prison")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
+KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames]")[![projectsurvival](plugins/MineCraft/icons/25x25xprojectsurvival_1720953261.png.pagespeed.ic.hQETp6pFjB.png)
+BEST SURVIVAL • CrackexNet](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexNet ")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
 
-MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4](https://minecraft-server.net/details/projectsurvival/ "MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4")[![HearthCraft](plugins/MineCraft/icons/25x25xHearthCraft_1726669577.png.pagespeed.ic.HiP4ZJr9ct.jpg)
+Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")[![Phoenix-Network](plugins/MineCraft/icons/25x25xPhoenix-Network_1727981381.png.pagespeed.ic.Repj3BU9ZK.png)
 
-HearthCraft SMP \[1.20.x\] - A no-griefing, no-resets economy experience](https://minecraft-server.net/details/HearthCraft/ "HearthCraft SMP [1.20.x] - A no-griefing, no-resets economy experience")
+Phoenix Network](https://minecraft-server.net/details/Phoenix-Network/ "Phoenix Network")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0606 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06042 - Created by [Debaucus](https://debauc.us/)
