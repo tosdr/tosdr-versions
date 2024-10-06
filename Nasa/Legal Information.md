@@ -247,7 +247,7 @@ Back
 
 ### Hubble Observes a Peculiar Galaxy Shape
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)[![stellar orbit comparison graphic](https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)[![stellar orbit comparison graphic](https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg?w=1024)
 
 6 min read
 
@@ -275,7 +275,7 @@ article 2 days ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-s
 
 ### Gateway Stands Tall for Stress Test
 
-article 2 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA astronaut Kate Rubins takes Apollo 17 Lunar Module Pilot Harrison “Jack” Schmitt on a ride on NASA’s rover prototype at Johnson Space Center in Houston.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e061243.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA astronaut Kate Rubins takes Apollo 17 Lunar Module Pilot Harrison “Jack” Schmitt on a ride on NASA’s rover prototype at Johnson Space Center in Houston.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e061243.jpg?w=1024)
 
 3 min read
 
@@ -291,7 +291,7 @@ article 3 days ago](https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar
 
 ### NASA Efforts on Hurricane Helene
 
-article 2 days ago](https://www.nasa.gov/hurricane-helene/)[![Via NASA Plane, Scientists Find New Gamma-ray Emission in Storm Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/tropical-thunderstorm.jpeg)
+article 3 days ago](https://www.nasa.gov/hurricane-helene/)[![Via NASA Plane, Scientists Find New Gamma-ray Emission in Storm Clouds](https://science.nasa.gov/wp-content/uploads/2024/10/tropical-thunderstorm.jpeg)
 
 4 min read
 
@@ -303,7 +303,7 @@ article 3 days ago](https://science.nasa.gov/earth/via-nasa-plane-scientists-fin
 
 ### NASA’s Instruments Capture Sharpest Image of Earth’s Radiation Belt
 
-article 4 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)
+article 5 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-capture-sharpest-image-of-earths-radiation-belt/)
 
 ### Highlights
 
@@ -313,13 +313,13 @@ article 4 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-ca
 
 ### Gateway Stands Tall for Stress Test
 
-article 2 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA’s LRO: Lunar Ice Deposits are Widespread](https://science.nasa.gov/wp-content/uploads/2024/06/psrs-n-topo3.png)
+article 3 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA’s LRO: Lunar Ice Deposits are Widespread](https://science.nasa.gov/wp-content/uploads/2024/06/psrs-n-topo3.png)
 
 5 min read
 
 ### NASA’s LRO: Lunar Ice Deposits are Widespread
 
-article 2 days ago](https://science.nasa.gov/solar-system/moon/nasas-lro-lunar-ice-deposits-are-widespread/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article 3 days ago](https://science.nasa.gov/solar-system/moon/nasas-lro-lunar-ice-deposits-are-widespread/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -335,7 +335,7 @@ article 3 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-o
 
 ### Hubble Observes a Peculiar Galaxy Shape
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)[![stellar orbit comparison graphic](https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-peculiar-galaxy-shape/)[![stellar orbit comparison graphic](https://www.nasa.gov/wp-content/uploads/2024/10/tess-system-beauty-mkiv-2.jpg?w=1024)
 
 6 min read
 
@@ -357,7 +357,7 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-ste
 
 ### Priorities
 
-article 24 hours ago](https://science.nasa.gov/lunar-science/priorities/)[![Science Activation’s PLACES Team Facilitates Third Professional Learning Institute](https://science.nasa.gov/wp-content/uploads/2024/10/gmri-cover-image-sara-salisbury.jpeg)
+article 1 day ago](https://science.nasa.gov/lunar-science/priorities/)[![Science Activation’s PLACES Team Facilitates Third Professional Learning Institute](https://science.nasa.gov/wp-content/uploads/2024/10/gmri-cover-image-sara-salisbury.jpeg)
 
 5 min read
 
