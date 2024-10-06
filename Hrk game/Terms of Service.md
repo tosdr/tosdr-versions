@@ -2,7 +2,7 @@ You automatically agree to our [privacy policy](https://www.hrkgame.com/en/pages
 
 Allow Cookies
 
-    
+     
 
 [Home](https://www.hrkgame.com/en/)
 
