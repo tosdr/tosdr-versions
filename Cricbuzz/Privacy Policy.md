@@ -94,12 +94,6 @@ AllLive NowToday
     
     12th Match
     
-* Canada Tri-Series 2024
-    
-    [Oman vs Canada](https://www.cricbuzz.com/live-cricket-scores/107731/oman-vs-can-6th-match-canada-tri-series-2024 "Oman v Canada, 6th Match - CAN Won")
-    
-    6th Match
-    
 * Namibia Tri-Series 2024
     
     [United Arab Emirates vs United States](https://www.cricbuzz.com/live-cricket-scores/107689/uae-vs-usa-5th-match-namibia-tri-series-2024 "United Arab Emirates v United States, 5th Match - UAE Won")
@@ -128,6 +122,10 @@ AllLive NowToday
     
     5th Match
     
+* [Boland vs Knights](https://www.cricbuzz.com/live-cricket-scores/103413/bol-vs-kng-6th-match-csa-t20-challenge "Boland v Knights, 6th Match - BOL Won")
+    
+    6th Match
+    
 * [Western Province vs North West](https://www.cricbuzz.com/live-cricket-scores/103440/wpr-vs-nwest-8th-match-csa-t20-challenge "Western Province v North West, 8th Match - NWEST Won")
     
     8th Match
@@ -135,14 +133,6 @@ AllLive NowToday
 * [Lions vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103431/lions-vs-war-7th-match-csa-t20-challenge "Lions v Warriors, 7th Match - LIONS Won")
     
     7th Match
-    
-* [Boland vs Knights](https://www.cricbuzz.com/live-cricket-scores/103413/bol-vs-kng-6th-match-csa-t20-challenge "Boland v Knights, 6th Match - BOL Won")
-    
-    6th Match
-    
-* [Warriors vs Knights](https://www.cricbuzz.com/live-cricket-scores/103447/war-vs-kng-9th-match-csa-t20-challenge "Warriors v Knights, 9th Match - Upcoming")
-    
-    9th Match
     
 * [North West vs Boland](https://www.cricbuzz.com/live-cricket-scores/103467/nwest-vs-bol-12th-match-csa-t20-challenge "North West v Boland, 12th Match - Upcoming")
     
@@ -155,6 +145,10 @@ AllLive NowToday
 * [Lions vs Dolphins](https://www.cricbuzz.com/live-cricket-scores/103456/lions-vs-dol-10th-match-csa-t20-challenge "Lions v Dolphins, 10th Match - Upcoming")
     
     10th Match
+    
+* [Warriors vs Knights](https://www.cricbuzz.com/live-cricket-scores/103447/war-vs-kng-9th-match-csa-t20-challenge "Warriors v Knights, 9th Match - Upcoming")
+    
+    9th Match
     
 * CSA T20 Knock Out Competition
     
@@ -205,6 +199,16 @@ AllLive NowToday
     [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106452/indu19-vs-ausu19-2nd-youth-test-australia-under-19-tour-of-india "India U19 v Australia U19, 2nd Youth Test - Upcoming")
     
     2nd Youth Test
+    
+* Sheffield Shield 2024-25
+    
+    [New South Wales vs South Australia](https://www.cricbuzz.com/live-cricket-scores/102837/nsw-vs-saus-1st-match-sheffield-shield-2024-25 "New South Wales v South Australia, 1st Match - Upcoming")
+    
+    1st Match
+    
+* [Victoria vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/102846/vic-vs-tas-2nd-match-sheffield-shield-2024-25 "Victoria v Tasmania, 2nd Match - Upcoming")
+    
+    2nd Match
     
 * ICC CWC Challenge League A, 2024-26
     
@@ -269,6 +273,12 @@ AllLive NowToday
 * [Japan Women vs Singapore Women](https://www.cricbuzz.com/live-cricket-scores/107761/jpnw-vs-sinw-5th-t20i-japan-women-v-singapore-women "Japan Women v Singapore Women, 5th T20I - Upcoming")
     
     5th T20I
+    
+* Womens East Asia Cup 2024
+    
+    [Hong Kong Women vs Japan Women](https://www.cricbuzz.com/live-cricket-scores/108353/hkw-vs-jpnw-1st-match-womens-east-asia-cup-2024 "Hong Kong Women v Japan Women, 1st Match - Upcoming")
+    
+    1st Match
     
 
 Privacy Policy
@@ -577,41 +587,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131886/will-hridoy-become-the-superstar-of-bangladeshs-new-t20i-era "Will Hridoy become the superstar of Bangladesh's new T20I era?")
+
+[Will Hridoy become the superstar of Bangladesh's new T20I era?](https://www.cricbuzz.com/cricket-news/131886/will-hridoy-become-the-superstar-of-bangladeshs-new-t20i-era "Will Hridoy become the superstar of Bangladesh's new T20I era?")
+
+3m ago
+
   [](https://www.cricbuzz.com/cricket-news/131885/vulnerable-india-look-to-halt-pakistans-progress "Vulnerable India look to halt Pakistan's progress ")
 
 [Vulnerable India look to halt Pakistan's progress](https://www.cricbuzz.com/cricket-news/131885/vulnerable-india-look-to-halt-pakistans-progress "Vulnerable India look to halt Pakistan's progress ")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131884/england-get-off-the-mark-with-comfortable-win "Linsey Smith, Charlotte Dean inspire England to winning start")
 
 [Linsey Smith, Charlotte Dean inspire England to winning start](https://www.cricbuzz.com/cricket-news/131884/england-get-off-the-mark-with-comfortable-win "Linsey Smith, Charlotte Dean inspire England to winning start")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131883/acc-sets-170-million-base-price-for-four-asia-cup-rights "ACC sets USD 170 million base price for four Asia Cup rights")
 
 [ACC sets USD 170 million base price for four Asia Cup rights](https://www.cricbuzz.com/cricket-news/131883/acc-sets-170-million-base-price-for-four-asia-cup-rights "ACC sets USD 170 million base price for four Asia Cup rights")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131882/spotlight-on-indias-young-guns-in-gwaliors-newest-territory "Spotlight on India's young guns in Gwalior's newest territory")
 
 [Spotlight on India's young guns in Gwalior's newest territory](https://www.cricbuzz.com/cricket-news/131882/spotlight-on-indias-young-guns-in-gwaliors-newest-territory "Spotlight on India's young guns in Gwalior's newest territory")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/131881/the-anatomy-of-the-multan-pitch "The anatomy of the Multan pitch")
 
 [The anatomy of the Multan pitch](https://www.cricbuzz.com/cricket-news/131881/the-anatomy-of-the-multan-pitch "The anatomy of the Multan pitch")
 
-3h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131880/bcci-looking-at-saudi-cities-for-2-day-mega-ipl-auction "BCCI looking at Saudi cities for two-day mega IPL auction")
-
-[BCCI looking at Saudi cities for two-day mega IPL auction](https://www.cricbuzz.com/cricket-news/131880/bcci-looking-at-saudi-cities-for-2-day-mega-ipl-auction "BCCI looking at Saudi cities for two-day mega IPL auction")
-
-5h ago
+9h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
