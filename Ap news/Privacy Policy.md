@@ -56,6 +56,7 @@ Menu
     
     * [World](https://apnews.com/world-news)
         
+        * [Mideast Wars](https://apnews.com/hub/mideast-wars)
         * [Israel-Hamas War](https://apnews.com/hub/israel-hamas-war)
         * [Russia-Ukraine War](https://apnews.com/hub/russia-ukraine)
         * [Global Elections](https://apnews.com/hub/global-elections/)
@@ -181,6 +182,7 @@ Submit Search
 
 * [World](https://apnews.com/world-news)
     
+    * [Mideast Wars](https://apnews.com/hub/mideast-wars)
     * [Israel-Hamas War](https://apnews.com/hub/israel-hamas-war)
     * [Russia-Ukraine War](https://apnews.com/hub/russia-ukraine)
     * [Global Elections](https://apnews.com/hub/global-elections/)
@@ -195,7 +197,7 @@ Submit Search
     
     SECTIONS
     
-    [Israel-Hamas War](https://apnews.com/hub/israel-hamas-war) [Russia-Ukraine War](https://apnews.com/hub/russia-ukraine) [Global Elections](https://apnews.com/hub/global-elections/) [ESPAÑOL](https://apnews.com/hub/noticias)[China](https://apnews.com/hub/china) [Asia Pacific](https://apnews.com/hub/asia-pacific) [Latin America](https://apnews.com/hub/latin-america) [Europe](https://apnews.com/hub/europe)
+    [Mideast Wars](https://apnews.com/hub/mideast-wars) [Israel-Hamas War](https://apnews.com/hub/israel-hamas-war) [Russia-Ukraine War](https://apnews.com/hub/russia-ukraine) [Global Elections](https://apnews.com/hub/global-elections/) [ESPAÑOL](https://apnews.com/hub/noticias)[China](https://apnews.com/hub/china) [Asia Pacific](https://apnews.com/hub/asia-pacific) [Latin America](https://apnews.com/hub/latin-america)
     
 * [U.S.](https://apnews.com/us-news)
     
