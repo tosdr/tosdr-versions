@@ -138,6 +138,7 @@ Tools
 
 * [AI Shuffle Song New](https://melobytes.com/en/app/ai_shuffle_song)
 * [Extract BPM from Audio/Video New](https://melobytes.com/en/app/get_bpm)
+* [Tap Tempo New](https://melobytes.com/en/app/tap_tempo)
 
 Language
 
