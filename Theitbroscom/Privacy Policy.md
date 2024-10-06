@@ -3,9 +3,9 @@
 
 [](https://www.facebook.com/theitbros/)[](https://twitter.com/theitbros)[](https://www.reddit.com/user/TheITBrosCom/)
 
-[![TheITBros](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20430%2097'%3E%3C/svg%3E)
+[![TheITBros Shop](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20430%2097'%3E%3C/svg%3E)
 
-![TheITBros](https://theitbros.com/wp-content/uploads/2023/04/logo_header.jpg)](https://theitbros.com/)
+![TheITBros Shop](https://theitbros.com/wp-content/uploads/2023/04/logo_header.jpg)](https://theitbros.com/)
 
 * [Microsoft](https://theitbros.com/category/windows/)
     * [Windows](https://theitbros.com/category/miscellaneous/windows-10/)
@@ -32,12 +32,15 @@
     * [SQL](https://theitbros.com/category/windows/sql/)
     * [Android](https://theitbros.com/category/android/)
     * [iPhone](https://theitbros.com/category/apple/iphone/)
+* [Merch Shop](https://theitbros.com/shop/)
 
 [](#)
 
  Search
 
 [](#)
+
+* [0](https://theitbros.com/cart/ "View your shopping cart")
 
 [Home](https://theitbros.com/) Privacy Policy
 
@@ -135,7 +138,7 @@ Share [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://theitbros.
 
 [](#)
 
-[![TheITBros](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20180%20180'%3E%3C/svg%3E)](https://theitbros.com/)
+[![TheITBros Shop](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20180%20180'%3E%3C/svg%3E)](https://theitbros.com/)
 
 [](https://www.facebook.com/theitbros/)[](https://twitter.com/theitbros)[](https://www.reddit.com/user/TheITBrosCom/)
 
@@ -164,3 +167,12 @@ Share [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://theitbros.
     * [SQL](https://theitbros.com/category/windows/sql/)
     * [Android](https://theitbros.com/category/android/)
     * [iPhone](https://theitbros.com/category/apple/iphone/)
+* [Merch Shop](https://theitbros.com/shop/)
+
+### Shopping Cart
+
+Close
+
+No products in the cart.
+
+Close
