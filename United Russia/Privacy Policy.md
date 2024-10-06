@@ -305,7 +305,7 @@
 
 [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672)
 
-Сегодня 11:45
+06.10.24
 
 [![«Единая Россия»: Выставка «Сила V Правде — гордость и победа» 9 октября начнёт работать на Ямале](https://cdn.er.ru/media/news/October2024/Ypv9LslD3NEhR9v6Lnrq-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-9-oktyabrya-nachnyot-rabotat-na-yamale)
 
@@ -313,7 +313,7 @@
 
 [#Ямало-Ненецкий автономный округ](https://er.ru/activity/news?tags%5B0%5D=36079) [#НовыйУренгой](https://er.ru/activity/news?tags%5B0%5D=109057) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [Ханты-Манскийский автономный округ](https://er.ru/activity/news?tags%5B0%5D=153622)
 
-Сегодня 10:35
+06.10.24
 
 [![Галина Данильченко: Более 6 тысяч человек стали членами и сторонниками «Единой России» в Запорожской области](https://cdn.er.ru/media/news/October2024/OQuVzrGf5FKKObQ8MrKr-small.jpg)](https://er.ru/activity/news/galina-danilchenko-bolee-6-tysyach-chelovek-stali-chlenami-i-storonnikami-edinoj-rossii-v-zaporozhskoj-oblasti)
 
@@ -321,7 +321,7 @@
 
 [#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#Данильченко](https://er.ru/activity/news?tags%5B0%5D=1093187) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 10:03
+06.10.24
 
 [![Игорь Кастюкевич: «Единая Россия» создала в Херсонской области более 190 первичек — они работают во всех 14 муниципальных округах, включая прифронтовые](https://cdn.er.ru/media/news/October2024/gjKVRfBLae1AIc5YAF87-small.jpg)](https://er.ru/activity/news/igor-kastyukevich-edinaya-rossiya-sozdala-v-hersonskoj-oblasti-bolee-190-pervichek-oni-rabotayut-vo-vseh-14-municipalnyh-okrugah-vklyuchaya-prifrontovye)
 
@@ -329,7 +329,7 @@
 
 [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Кастюкевич](https://er.ru/activity/news?tags%5B0%5D=1092567) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477)
 
-Сегодня 09:47
+06.10.24
 
 [![Денис Мирошниченко: Сегодня команда «Единой России» в ЛНР — это больше 34 тысяч человек, которые помогают людям и фронту](https://cdn.er.ru/media/news/October2024/vAEowqpbCIkiNh0QgtmK-small.png)](https://er.ru/activity/news/denis-miroshnichenko-segodnya-komanda-edinoj-rossii-v-lnr-eto-bolshe-34-tysyach-chelovek-kotorye-pomogayut-lyudyam-i-frontu)
 
@@ -337,7 +337,7 @@
 
 [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Мирошниченко](https://er.ru/activity/news?tags%5B0%5D=42613) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 09:30
+06.10.24
 
 [![Денис Пушилин: За два года «Единая Россия» приросла почти 142 тысячами активистов из ДНР](https://cdn.er.ru/media/news/October2024/ONvOcrxjpBKfgofVB1Uj-small.jpg)](https://er.ru/activity/news/denis-pushilin-za-dva-goda-edinaya-rossiya-prirosla-pochti-142-tysyachami-aktivistov-iz-dnr)
 
@@ -345,7 +345,7 @@
 
 [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 09:14
+06.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
