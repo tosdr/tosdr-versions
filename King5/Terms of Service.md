@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a99b81f2-2036-4da3-912c-3e42609edb29/20241005T185905/a99b81f2-2036-4da3-912c-3e42609edb29_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a99b81f2-2036-4da3-912c-3e42609edb29/20241005T185905/a99b81f2-2036-4da3-912c-3e42609edb29_360x203.jpg)](https://www.king5.com/article/entertainment/16th-annual-seattle-latino-film-festival-highlights-cinema-art-culture/281-2def03e4-5120-46af-877e-40ff7a0bccf3)
+    *  [![](https://media.king5.com/assets/KING/images/d2532814-32f8-4235-bed9-629cfd6709cc/20241006T000118/d2532814-32f8-4235-bed9-629cfd6709cc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d2532814-32f8-4235-bed9-629cfd6709cc/20241006T000118/d2532814-32f8-4235-bed9-629cfd6709cc_360x203.jpg)](https://www.king5.com/article/news/local/endangered-southern-resident-orcas-spotted-puget-sound/281-741d5494-cb43-4f1e-9a02-75f09414af21)
         
-        #### [16th annual Seattle Latino Film Festival highlights cinema, art and culture](https://www.king5.com/article/entertainment/16th-annual-seattle-latino-film-festival-highlights-cinema-art-culture/281-2def03e4-5120-46af-877e-40ff7a0bccf3)
+        #### [For the first time since spring, endangered Southern Resident orcas return to Puget Sound](https://www.king5.com/article/news/local/endangered-southern-resident-orcas-spotted-puget-sound/281-741d5494-cb43-4f1e-9a02-75f09414af21)
         
-    *  [![](https://media.king5.com/assets/KING/images/ed57d7a5-c571-46c5-b2f6-57ee9fff2edd/20241001T205606/ed57d7a5-c571-46c5-b2f6-57ee9fff2edd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ed57d7a5-c571-46c5-b2f6-57ee9fff2edd/20241001T205606/ed57d7a5-c571-46c5-b2f6-57ee9fff2edd_360x203.jpg)](https://www.king5.com/article/news/community/facing-race/man-sues-swedish-united-network-organ-sharing-racially-biased-kidney-equation/281-82912ca5-13cf-4402-9cb2-9400aa3fcabc)
+    *  [![](https://media.king5.com/assets/KING/images/c298ce6e-dc5d-4d8c-9165-ff6fa3baa08c/20241004T160807/c298ce6e-dc5d-4d8c-9165-ff6fa3baa08c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c298ce6e-dc5d-4d8c-9165-ff6fa3baa08c/20241004T160807/c298ce6e-dc5d-4d8c-9165-ff6fa3baa08c_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaab/huskies/how-to-watch-washington-michigan-king-5/281-73301cca-8dfd-41b0-bcb0-744b48da1a02)
         
-        #### [Man's kidney transplant at Swedish was delayed due to racially biased equation, lawsuit alleges](https://www.king5.com/article/news/community/facing-race/man-sues-swedish-united-network-organ-sharing-racially-biased-kidney-equation/281-82912ca5-13cf-4402-9cb2-9400aa3fcabc)
+        #### [How to watch the Washington vs. Michigan game on KING 5](https://www.king5.com/article/sports/ncaa/ncaab/huskies/how-to-watch-washington-michigan-king-5/281-73301cca-8dfd-41b0-bcb0-744b48da1a02)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/68ff69d1-c6d9-4d3e-b947-76e482c78825/20241005T003117/68ff69d1-c6d9-4d3e-b947-76e482c78825_16x9.jpg) ![](https://media.king5.com/assets/KING/images/68ff69d1-c6d9-4d3e-b947-76e482c78825/20241005T003117/68ff69d1-c6d9-4d3e-b947-76e482c78825_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/CCT/images/ed09a3b5-59c7-4886-9d16-632455e340de/20241005T175057/ed09a3b5-59c7-4886-9d16-632455e340de_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/ed09a3b5-59c7-4886-9d16-632455e340de/20241005T175057/ed09a3b5-59c7-4886-9d16-632455e340de_360x203.jpg)](https://www.king5.com/article/news/nation-world/tropical-depression-14-could-intensify-into-hurricane-threatening-florida/507-eb787c98-da1d-42c9-a486-b23f45d99a96)
+        
+        #### [Florida on alert as Tropical Storm Milton forms in the Gulf](https://www.king5.com/article/news/nation-world/tropical-depression-14-could-intensify-into-hurricane-threatening-florida/507-eb787c98-da1d-42c9-a486-b23f45d99a96)
+        
+    *  [![](https://media.king5.com/assets/KING/images/ba51c1ef-4d22-45fa-be1e-f4c9a61c3cba/20241005T184833/ba51c1ef-4d22-45fa-be1e-f4c9a61c3cba_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ba51c1ef-4d22-45fa-be1e-f4c9a61c3cba/20241005T184833/ba51c1ef-4d22-45fa-be1e-f4c9a61c3cba_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_360x203.jpg)](https://www.king5.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
-        
-        #### [Hurricane Helene nearly wiped this North Carolina mountain town off the map](https://www.king5.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-61°
+57°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
