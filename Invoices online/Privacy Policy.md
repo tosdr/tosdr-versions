@@ -118,59 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Hugo van Sittert
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=94936487)  
-Fox Alarms & Security CC
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=108128382)  
+Tantra Sound and Lightz
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=159161241)  
-Eruca (PTY)Ltd
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=84897923)  
+KTEN PARTS
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=29136944)  
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=108012070)  
+Printo
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=164594568)  
+Highlands Auto Engineering
+
+![valued client Sportspro Management (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=138306747)  
+Sportspro Management (Pty) Ltd
+
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=53812048)  
+CLEVER STUDENTS
+
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=21410797)  
+Van Der Merwe Olieverspreiders
+
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=176229521)  
+Know Informatics
+
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=86938647)  
+Bchange Online CC
+
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=192645549)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=13359967)  
+Testpro Laboratory (Pty) Ltd
+
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=171222669)  
+VIR Electrical (PTY) LTD
+
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=26953504)  
 MOSELA GROUP Pty(ltd)
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=88249159)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=167636212)  
+Tracknetics
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=138021702)  
-van Schaik rentals
-
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=48546722)  
-Mountain Lion Properties
-
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=43753156)  
-TIGERDSL
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=99558611)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=73745229)  
-Secunda Signs T/A Local Print and Signs
-
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=174275043)  
-Karino Merinos ( PTY ) LTD
-
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=149090863)  
-National Elite Security Services (PTY) LTD
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=129130740)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=7088058)  
-Sarabi
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=150318147)  
-Chiron Medical Solutions
-
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=f24ce2a29e41b840711026bd524766a16518367f77a1018c605bcc321fc7a5ff&c=52053869)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=39629b5a4442bf136b53012b18f1a06cd7f18f72077ee31a904a828a004ee2b5&c=30801702)  
+AMS Ambu Medical Supplies
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
