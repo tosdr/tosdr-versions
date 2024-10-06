@@ -20,7 +20,7 @@ Sitemap1
 * [**Shopping Guide**](https://new.shopandship.com/shopping-directory)
 * [**The S&S Blog**](https://new.shopandship.com/snsblog.aramex.com)
 
-[![Shop and Ship Logo](http://www.shopandship.com/images/default-source/default-album/sns-logoe1a5cdd13d894692bd4b9a8ee0a4ac46e91da0e291e34a409036586c04af8899.png?Status=Master&sfvrsn=bacc6393_16)](https://new.shopandship.com/ "Shop & Ship")
+[![Shop and Ship Logo](https://www.shopandship.com/images/default-source/default-album/sns-logoe1a5cdd13d894692bd4b9a8ee0a4ac46e91da0e291e34a409036586c04af8899.png?Status=Master&sfvrsn=bacc6393_16)](https://new.shopandship.com/ "Shop & Ship")
 
 [__](#)
 
