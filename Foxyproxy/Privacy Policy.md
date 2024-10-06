@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You have one of the best support teams I have ever communicated with!
+Yes is was very good. I plan on using it again.
 
-Petar Yankov
+Brian Johnston
