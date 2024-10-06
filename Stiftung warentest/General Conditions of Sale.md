@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
-* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
-* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
-* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schlank­heits­spritze: Behörde warnt vor Lemon Bottle](https://www.test.de/Schlankheitsspritze-Behoerde-warnt-vor-Lemon-Bottle-6147488-0/ "Schlankheitsspritze - Behörde warnt vor Lemon Bottle")
-* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
-* [Ratgeber Reifen: Was Sie bei Reifen beachten sollten](https://www.test.de/Ratgeber-Reifen-Was-Sie-bei-Reifen-beachten-sollten-6045123-0/ "Ratgeber Reifen - Was Sie bei Reifen beachten sollten")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
+* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
 
 Service Stiftung Warentest
 
