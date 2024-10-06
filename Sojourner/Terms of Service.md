@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-53a3254305610e1f7e3f8c676aa38ad7
+e3e0fff941f4bd2bf63b9a48d77158f0
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![10 mm light green squash blossom round beads](https://sojourner.biz/images/cache/glass/GL0027.200.jpg)](https://sojourner.biz/beads/glass/10-mm-light-green-squash-blossom-round-beads.html "10 mm light green squash blossom round beads")
+[![Green swirl button clasp](https://sojourner.biz/images/cache/SKU0279front.200.jpg)](https://sojourner.biz/clasps/glass/green-swirl-button-clasp.html "Green swirl button clasp")
 
-#### [10 mm light green squash blossom round beads](https://sojourner.biz/beads/glass/10-mm-light-green-squash-blossom-round-beads.html "10 mm light green squash blossom round beads")
+#### [Green swirl button clasp](https://sojourner.biz/clasps/glass/green-swirl-button-clasp.html "Green swirl button clasp")
 
-$8.00
+$17.00
 
 ### Best Sellers
 
@@ -164,10 +164,10 @@ $8.00
     $28.00
 7. [Neon blue Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
-8. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
-    $17.00
-9. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
+8. [Citrine clasp](https://sojourner.biz/clasps/faux-stone/citrine-clasp.html "Citrine clasp")  
     $26.00
+9. [Mother-of-pearl box clasp](https://sojourner.biz/clasps/pearl/mother-of-pearl-box-clasp.html "Mother-of-pearl box clasp")  
+    $17.00
 10. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
     $23.00
 
