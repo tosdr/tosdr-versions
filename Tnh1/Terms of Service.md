@@ -214,23 +214,23 @@ Crise?
 
 Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal
 
-Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal](https://www.tnh1.com.br/noticia/nid/harry-passou-a-noite-de-seu-aniversario-de-40-anos-longe-de-meghan-markle-caminhando-com-amigos-revela-jornal/ "Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal")[![Casal é preso com arsenal de armas de diferentes países em carro com criança](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/2/e/csm_casal-preso-arsenal-armas-reproducao-PRF_ebb20fd5a8.jpg)
+Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal](https://www.tnh1.com.br/noticia/nid/harry-passou-a-noite-de-seu-aniversario-de-40-anos-longe-de-meghan-markle-caminhando-com-amigos-revela-jornal/ "Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal")[![Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/6/csm_rodrigo-faro-reproducao-redes-sociais_b1c6b2b011.png)
 
-No Paraná
+Veja vídeo
 
-No Paraná
+Veja vídeo
 
-Casal é preso com arsenal de armas de diferentes países em carro com criança
+Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações
 
-Casal é preso com arsenal de armas de diferentes países em carro com criança](https://www.tnh1.com.br/noticia/nid/casal-e-preso-com-arsenal-de-armas-de-diferentes-paises-em-carro-com-crianca/ "Casal é preso com arsenal de armas de diferentes países em carro com criança")[![Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/e/csm_seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-em-parceria-com-a-liberty-education_c4d80ccbf2.jpg)
+Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações](https://www.tnh1.com.br/noticia/nid/mulher-de-rodrigo-faro-e-internada-apos-encontrar-nodulo-e-pede-oracoes/ "Mulher de Rodrigo Faro é internada após encontrar nódulo e pede orações ")[![Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/4/csm_acidente_feitosa_336e85f8da.png)
 
-processo seletivo
+Trânsito
 
-processo seletivo
+Trânsito
 
-Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever
+Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário
 
-Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever](https://www.tnh1.com.br/noticia/nid/seduc-alagoas-oferece-400-vagas-para-curso-de-ingles-online-veja-como-se-inscrever/ "Seduc Alagoas oferece 400 vagas para curso de inglês online; veja como se inscrever ")
+Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário](https://www.tnh1.com.br/noticia/nid/onibus-desgovernado-sobra-na-pista-e-derruba-poste-proximo-ao-terminal-rodoviario/ "Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ")
 
 [![Concurso dos Correios destina 30% das vagas para negros e indígenas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/d/csm_correios_agencia_81349ea69f.png)
 
