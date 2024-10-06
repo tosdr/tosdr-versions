@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/ziekten-en-vaccins-nader-bekeken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/sungazing-een-nieuwe-trend-in-2011/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
