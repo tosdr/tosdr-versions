@@ -166,31 +166,29 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Features
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/garments-salvation)
+[![](/i/Main%20Stage%20-%201400x1050/creation_kids_0922_sharks.jpg)](https://www.icr.org/article/creation-kids-sharks)
 
-[Garments of Salvation](https://www.icr.org/article/garments-salvation/)
+[Creation Kids: Sharks](https://www.icr.org/article/creation-kids-sharks/)
 
-“I will greatly rejoice in the LORD, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered...
+by Michael Stamp and Susan Windsor\* You’re never too young to be a creation scientist! Kids, discover fun facts about God’s creation...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/second-remnant)
+[![](/i/Main%20Stage%20-%201400x1050/creation_kids_1223_poodles-pups.jpg)](https://www.icr.org/article/kids-edition-2023-poodles-pups)
 
-[The Second Remnant](https://www.icr.org/article/second-remnant/)
+[Kids Edition 2023: Poodles & Pups](https://www.icr.org/article/kids-edition-2023-poodles-pups/)
 
-“And it shall come to pass in that day, that the Lord shall set his hand again the second time to recover the remnant of his people, which...
+Hi, kids! We created a special Acts & Facts just for you! Have fun doing the activities while learning about the wonderful world God...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/debunkingiceage_1400x1050.jpg)](https://www.icr.org/article/debunking-iconic-uniformitarian-ice)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/disciples-and-servants)
+[Debunking an Iconic Uniformitarian Ice Age Theory](https://www.icr.org/article/debunking-iconic-uniformitarian-ice/)
 
-[Disciples and Servants](https://www.icr.org/article/disciples-and-servants/)
+Purpose The Milankovitch, or astronomical, theory holds that the timing of Ice Ages is controlled by slow changes in Earth’s orbital and...
 
-“The disciple is not above his master, nor the servant above his lord.” (Matthew 10:24) Note the twofold relation of the believer...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
 Shop Related Products
 
@@ -198,29 +196,33 @@ Shop Related Products
 
 $
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/5202651/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32548/file.jpg)
 
-The Fossil Record](https://store.icr.org/dr-john-morris-the-fossil-record.html)
+Exploring the Evidence for Creation](https://store.icr.org/dr-henry-morris-iii-exploring-the-evidence-for-cre.html)
 
-$19.99
+$13.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/11926199/file.jpg)
 
-Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
-
-$29.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
-
-The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
+The Book of Beginnings - eBook](https://store.icr.org/the-book-of-beginnings-ebook.html)
 
 $14.99
 
-$19.99
+$49.99
 
-[](https://store.icr.org/.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216743/file.jpg)
 
-$
+Your Origins Matter - eBook](https://store.icr.org/your-origins-matter-ebook.html)
+
+$2.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13217016/file.jpg)
+
+Geology and the Great Flood - Download](https://store.icr.org/dr-henry-morris-iii-geology-and-the-great-flood-do.html)
+
+$4.99
+
+$9.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
