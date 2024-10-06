@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[](https://www.kaseya.com/ "IT Management Software")
+[IT Management Software](https://www.kaseya.com/ "IT Management Software")
 
 [Get My Demo](https://www.kaseya.com/request-my-demo/)
 
