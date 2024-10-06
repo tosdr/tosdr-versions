@@ -177,6 +177,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [(00)7 James Bond Guns You Didn’t Know About](https://www.thegunpage.com/007-james-bond-guns-you-didnt-know-about/10611024)
 * [Silencer Saturday #349: Angstadt Arms Prophet Integral Silencer](https://www.thegunpage.com/silencer-saturday-349-angstadt-arms-prophet-integral-silencer/10611023)
 * [Best New Deer Loads for Fall](https://www.thegunpage.com/best-new-deer-loads-for-fall/10611018)
 * [Supreme Court To Hear Case On If US Gun Manufacturer, Distributor Can Be Held Liable For Cartel Crime](https://www.thegunpage.com/supreme-court-to-hear-case-on-if-us-gun-manufacturer-distributor-can-be-held-liable-for-cartel-crime/10611017)
@@ -186,7 +187,6 @@ Recent Posts
 * [POTD: The Sako TRG M10](https://www.thegunpage.com/potd-the-sako-trg-m10/10611009)
 * [TFB Podcast Roundup 149: The October 4th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-149-the-october-4th-roundup/10611010)
 * [The New Monolith Bufferless DI Rifle From Global Ordnance](https://www.thegunpage.com/the-new-monolith-bufferless-di-rifle-from-global-ordnance/10611011)
-* [8 Best Range Bags to Keep Your Gear Organized and Ready](https://www.thegunpage.com/8-best-range-bags-to-keep-your-gear-organized-and-ready/10611004)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [Don’t Tell Helene Victims About We The People](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/#comment-782499)
 * Stanley Warner on [The Left’s Word Games Can’t Conceal ‘Third World’ Impact of Open Borders](https://www.conservativedailynews.com/2024/10/the-lefts-word-games-cant-conceal-third-world-impact-of-open-borders/#comment-782491)
 * Stanley Warner on [Hurricane Survivor Blasts Biden, Feels Betrayed Admin Put Migrants Before Americans](https://www.conservativedailynews.com/2024/10/hurricane-survivor-blasts-biden-feels-betrayed-admin-put-migrants-before-americans/#comment-782490)
 * charles wilkins on [Proportionate Response…](https://www.conservativedailynews.com/2024/10/proportionate-response/#comment-782489)
@@ -236,7 +237,6 @@ Recent Comments
 * KayCee on [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/#comment-782454)
 * KayCee on [Pollster Warns Of Concerning Data For Dems In Nearly All Swing States](https://www.conservativedailynews.com/2024/10/pollster-warns-of-concerning-data-for-dems-in-nearly-all-swing-states/#comment-782447)
 * KayCee on [JD Vance’s Mic Cut As He Tries To Counter Moderator’s Fact Check On Springfield Migrants](https://www.conservativedailynews.com/2024/10/jd-vances-mic-cut-as-he-tries-to-counter-moderators-fact-check-on-springfield-migrants/#comment-782446)
-* charles wilkins on [Iran Calls Emergency Meeting After Israel Hits Hezbollah Leader’s HQ With Massive Airstrikes](https://www.conservativedailynews.com/2024/09/iran-calls-emergency-meeting-after-israel-hits-hezbollah-leaders-hq-with-massive-airstrikes/#comment-782444)
 
 [Close](#)
 
