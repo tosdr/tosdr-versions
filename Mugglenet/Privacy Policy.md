@@ -330,15 +330,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The first review of Harry Potter and the Philosopher’s Stone was given by Alice Newton, the daughter of the founder of Bloomsbury, at age 8: “The excitement in this book made me feel warm inside. I think it is possibly one of the best books an 8/9 year old could read.”
+Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
 
 ### Potter History
 
-February 4, 2005 – The first rumors of Elizabeth Hurley being cast as Bellatrix Lestrange appeared, and cropped up several more times throughout the year, but were still debunked each time by Warner Bros.
+January 17, 2005 – Rumors surfaced of a Harry Potter-themed restaurant, but they were quickly denied.
 
 ### Potter Quote
 
-“What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally, the whole school knows.”
+“His eyes are as green as a fresh pickled toad, His hair is as dark as a blackboard. I wish he was mine, he’s really divine, The hero who conquered the Dark Lord.”
 
 [](#)
 
