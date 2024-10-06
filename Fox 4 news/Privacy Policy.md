@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Milton latest: Tropical storm intensifies as it barrels toward Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/al14_cone-1@1x_1-1.jpg?ve=1&tl=1)
+
+ ![Milton latest: Tropical storm intensifies as it barrels toward Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/al14_cone-1@1x_1-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
+
+### [Milton latest: Tropical storm intensifies as it barrels toward Florida](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
+
+ [![Fort Worth shooting: 1 dead, 3 injured near Stockyards](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100624-sh-ftw-pd-shooting-nw-24th-st_kdfw8b39_186__00.00.44.14.jpg?ve=1&tl=1)
+
+ ![Fort Worth shooting: 1 dead, 3 injured near Stockyards](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100624-sh-ftw-pd-shooting-nw-24th-st_kdfw8b39_186__00.00.44.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-stockyards-shooting-oct-6)
+
+### [Fort Worth shooting: 1 dead, 3 injured near Stockyards](https://www.fox4news.com/news/fort-worth-stockyards-shooting-oct-6)
+
  [![Cancer survivor gets special graduation ceremony at Medical City Children's Hospital](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100524-lb-tyler-vinh-graduation-pkg-jb_kdfw8ae0_18_00.02.14.04.jpg?ve=1&tl=1)
 
  ![Cancer survivor gets special graduation ceremony at Medical City Children's Hospital](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100524-lb-tyler-vinh-graduation-pkg-jb_kdfw8ae0_18_00.02.14.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/medical-city-childrens-hospital-tyler-vinh-graduation)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Father dead, son still missing after being swept underwater in Dallas creek](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/592/333/78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mountain-creek-parkway-dallas)
 
 ### [Father dead, son still missing after being swept underwater in Dallas creek](https://www.fox4news.com/news/mountain-creek-parkway-dallas)
-
- [![Trump returns to Butler, Pennsylvania, after assassination attempt for rally with Musk, Vance](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-05-18h19m15s371.jpg?ve=1&tl=1)
-
- ![Trump returns to Butler, Pennsylvania, after assassination attempt for rally with Musk, Vance](https://images.foxtv.com/images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-05-18h19m15s371.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-returning-butler-pa-saturday-rally-elon-musk)
-
-### [Trump returns to Butler, Pennsylvania, after assassination attempt for rally with Musk, Vance](https://www.fox4news.com/news/trump-returning-butler-pa-saturday-rally-elon-musk)
-
- [![Cowboys WR Brandin Cooks will miss at least 4 games because of infection in knee](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2170869220.jpg?ve=1&tl=1)
-
- ![Cowboys WR Brandin Cooks will miss at least 4 games because of infection in knee](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2170869220.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/cowboys-wr-brandin-cooks-will-miss-least-4-games-because-infection-knee)
-
-### [Cowboys WR Brandin Cooks will miss at least 4 games because of infection in knee](https://www.fox4news.com/sports/cowboys-wr-brandin-cooks-will-miss-least-4-games-because-infection-knee)
 
 ###### [News](https://www.fox4news.com/news)
 
