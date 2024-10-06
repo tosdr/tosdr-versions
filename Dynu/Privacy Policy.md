@@ -240,12 +240,24 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Ready to get started?
+### DNSSEC
 
   
-Sign up for a free dynamic DNS account, no credit card needed  
+
+#### Our redundant DNS solution is fully supported with DNSSEC
+
   
-[Sign Up for Free](https://www.dynu.com/ControlPanel/CreateAccount)  
+
+  
+
+[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
+  
+
+  
+
+[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
+  
+
   
 
 ### News
