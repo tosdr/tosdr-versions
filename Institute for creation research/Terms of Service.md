@@ -166,64 +166,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Features
-
-[![](/i/Main%20Stage%20-%201400x1050/creation_kids_0922_sharks.jpg)](https://www.icr.org/article/creation-kids-sharks)
-
-[Creation Kids: Sharks](https://www.icr.org/article/creation-kids-sharks/)
-
-by Michael Stamp and Susan Windsor\* You’re never too young to be a creation scientist! Kids, discover fun facts about God’s creation...
-
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
-
-[![](/i/Main%20Stage%20-%201400x1050/creation_kids_1223_poodles-pups.jpg)](https://www.icr.org/article/kids-edition-2023-poodles-pups)
-
-[Kids Edition 2023: Poodles & Pups](https://www.icr.org/article/kids-edition-2023-poodles-pups/)
-
-Hi, kids! We created a special Acts & Facts just for you! Have fun doing the activities while learning about the wonderful world God...
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/debunkingiceage_1400x1050.jpg)](https://www.icr.org/article/debunking-iconic-uniformitarian-ice)
-
-[Debunking an Iconic Uniformitarian Ice Age Theory](https://www.icr.org/article/debunking-iconic-uniformitarian-ice/)
-
-Purpose The Milankovitch, or astronomical, theory holds that the timing of Ice Ages is controlled by slow changes in Earth’s orbital and...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-Shop Related Products
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32548/file.jpg)
-
-Exploring the Evidence for Creation](https://store.icr.org/dr-henry-morris-iii-exploring-the-evidence-for-cre.html)
-
-$13.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/11926199/file.jpg)
-
-The Book of Beginnings - eBook](https://store.icr.org/the-book-of-beginnings-ebook.html)
-
-$14.99
-
-$49.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216743/file.jpg)
-
-Your Origins Matter - eBook](https://store.icr.org/your-origins-matter-ebook.html)
-
-$2.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13217016/file.jpg)
-
-Geology and the Great Flood - Download](https://store.icr.org/dr-henry-morris-iii-geology-and-the-great-flood-do.html)
-
-$4.99
-
-$9.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
