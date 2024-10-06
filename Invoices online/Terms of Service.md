@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Jannie Schutte - myFinance-Online.co.za
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=162571685)  
-Wiselink Broadband Vryheid
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=85269523)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=203013468)  
-van Schaik rentals
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=11190856)  
+SafeTclip
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=34232256)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=62367243)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=28108577)  
-Eruca (PTY)Ltd
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=192367080)  
+TIGERDSL
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=195775416)  
-Hydroworld T/A Milliqua
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=150598539)  
+Konsortium Operations (PTY) LTD
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=22107420)  
-Dr V Naik Consult
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=198645181)  
+Van Der Merwe Olieverspreiders
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=85083851)  
-Wiselink Broadband Pty Ltd
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=187857227)  
+VA AND M DEBT-AID (PTY) LTD
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=152191122)  
-Enhle Oarabile Kea
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=186221237)  
+African Roots
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=137073322)  
-Chiron Medical Solutions
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=29683752)  
+ELLIE'S CLEANING CHICKS
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=198406595)  
-TurboFibre
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=153718201)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=114950209)  
-Imhoff Equestrian Centre
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=27301829)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=164623462)  
-Blue Sky Solar Services
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=2710667)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=29980427)  
-OrgChart Hosting Pty Ltd
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=35637966)  
+Goju Ryu Karate Centre
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=151711284)  
-Roamfree Boerdery (PTY) LTD
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=179616240)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=48630f622b60111b1331e46ba0789e8fb3bd53993487ea4bb1f41250c4b24f4c&c=1741424)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=63784214)  
+Druce Digital
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
