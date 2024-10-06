@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Fort Worth MORE THAN PINK walk raises $400K for breast cancer research](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100524-komen-complete-kdfweme002_08_57_20_1_mpg_00.13.41.26.jpg?ve=1&tl=1)
+ [![Father dead, son still missing after being swept underwater in Dallas creek](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1)
 
- ![Fort Worth MORE THAN PINK walk raises $400K for breast cancer research](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100524-komen-complete-kdfweme002_08_57_20_1_mpg_00.13.41.26.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-more-than-pink-sunday-2024)
+ ![Father dead, son still missing after being swept underwater in Dallas creek](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/592/333/78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mountain-creek-parkway-dallas)
 
-### [Fort Worth MORE THAN PINK walk raises $400K for breast cancer research](https://www.fox4news.com/news/fort-worth-more-than-pink-sunday-2024)
+### [Father dead, son still missing after being swept underwater in Dallas creek](https://www.fox4news.com/news/mountain-creek-parkway-dallas)
 
- [![AMBER Alert Update: Hurst teen returns home safe](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/amber-alert-found-1.jpg?ve=1&tl=1)
+ [![Trump returns to Butler, Pennsylvania, after assassination attempt for rally with Musk, Vance](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-05-18h19m15s371.jpg?ve=1&tl=1)
 
- ![AMBER Alert Update: Hurst teen returns home safe](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/592/333/amber-alert-found-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-hurst-safe-oct-5)
+ ![Trump returns to Butler, Pennsylvania, after assassination attempt for rally with Musk, Vance](https://images.foxtv.com/images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-05-18h19m15s371.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-returning-butler-pa-saturday-rally-elon-musk)
 
-### [AMBER Alert Update: Hurst teen returns home safe](https://www.fox4news.com/news/amber-alert-hurst-safe-oct-5)
+### [Trump returns to Butler, Pennsylvania, after assassination attempt for rally with Musk, Vance](https://www.fox4news.com/news/trump-returning-butler-pa-saturday-rally-elon-musk)
 
- [![Tropical Storm Milton forms in Gulf, eyes Florida ahead of rapidly intensifying into hurricane](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/ssss.jpg?ve=1&tl=1)
+ [![Cowboys WR Brandin Cooks will miss at least 4 games because of infection in knee](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2170869220.jpg?ve=1&tl=1)
 
- ![Tropical Storm Milton forms in Gulf, eyes Florida ahead of rapidly intensifying into hurricane](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/ssss.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/milton-gulf-florida)
+ ![Cowboys WR Brandin Cooks will miss at least 4 games because of infection in knee](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2170869220.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/cowboys-wr-brandin-cooks-will-miss-least-4-games-because-infection-knee)
 
-### [Tropical Storm Milton forms in Gulf, eyes Florida ahead of rapidly intensifying into hurricane](https://www.fox4news.com/news/milton-gulf-florida)
+### [Cowboys WR Brandin Cooks will miss at least 4 games because of infection in knee](https://www.fox4news.com/sports/cowboys-wr-brandin-cooks-will-miss-least-4-games-because-infection-knee)
 
- [![Keanu Reeves makes professional car racing debut](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2160428934-scaled.jpg?ve=1&tl=1)
+ [![Man arrested after second police chase in two weeks, White Settlement Police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/white-settlement-chase.jpg?ve=1&tl=1)
 
- ![Keanu Reeves makes professional car racing debut](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2160428934-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/keanu-reeves-race-indianapolis-motor-speedway)
+ ![Man arrested after second police chase in two weeks, White Settlement Police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/white-settlement-chase.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-chase-white-settlement-adam-soras)
 
-### [Keanu Reeves makes professional car racing debut](https://www.fox4news.com/news/keanu-reeves-race-indianapolis-motor-speedway)
+### [Man arrested after second police chase in two weeks, White Settlement Police say](https://www.fox4news.com/news/fort-worth-police-chase-white-settlement-adam-soras)
 
- [![Yellow jackets swarm in Helene-ravaged towns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1242669207-scaled.jpg?ve=1&tl=1)
+ [![Dallas shooting: 1 dead in apartment near Love Field](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1)
 
- ![Yellow jackets swarm in Helene-ravaged towns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1242669207-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/helene-yellow-jackets-north-carolina)
+ ![Dallas shooting: 1 dead in apartment near Love Field](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-1-dead-apartment-near-love-field)
 
-### [Yellow jackets swarm in Helene-ravaged towns](https://www.fox4news.com/news/helene-yellow-jackets-north-carolina)
+### [Dallas shooting: 1 dead in apartment near Love Field](https://www.fox4news.com/news/dallas-shooting-1-dead-apartment-near-love-field)
 
 ###### [News](https://www.fox4news.com/news)
 
