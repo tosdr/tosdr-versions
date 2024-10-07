@@ -322,6 +322,12 @@ October 1, 2024
 Related Content
 ---------------
 
+### [Letter from Secretary Cardona Regarding COVID Test Distribution](https://www2.ed.gov/node/7122)
+
+LEAs, including public school districts and public charter school districts, may request over-the-counter rapid antigen COVID-19 self-tests free of charge for their students, families, staff, and school communities.
+
+October 7, 2024
+
 ### [Letter to Chief State School Officers on Arts Education](https://www2.ed.gov/node/7113)
 
 The Department continues to support equitable access to the Arts, the Humanities, and Museum and Library Services.
@@ -333,12 +339,6 @@ October 3, 2024
 Find information on the Department's implementation of the Higher Education Opportunity Act of 2008.
 
 October 3, 2024
-
-### [Secretary’s Cover Letter: A Focus on Improving the FAFSA® Experience](https://www2.ed.gov/node/7030)
-
-From the very beginning, the drive to build a Better FAFSA was about one thing: bringing higher education within reach for more students across our nation.
-
-September 23, 2024
 
 [Return to top](#)
 
