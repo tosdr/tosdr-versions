@@ -305,7 +305,7 @@
 
 [#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#биоэкономика](https://er.ru/activity/news?tags%5B0%5D=60346) [#круглыйстол](https://er.ru/activity/news?tags%5B0%5D=108586) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#цифровыетехнологии](https://er.ru/activity/news?tags%5B0%5D=114340)
 
-Сегодня 19:12
+07.10.24
 
 [![Владимир Якушев: Проект федерального бюджета сбалансирован и отвечает поставленным Президентом задачам](https://cdn.er.ru/media/news/October2024/pE5E7sK0nxufpwZ7M78M-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-proekt-federalnogo-byudzheta-sbalansirovan-i-otvechaet-postavlennym-prezidentom-zadacham)
 
@@ -313,7 +313,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СоветФедерации](https://er.ru/activity/news?tags%5B0%5D=67479) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#парламентскиеслушания](https://er.ru/activity/news?tags%5B0%5D=113161)
 
-Сегодня 16:08
+07.10.24
 
 [![Тысячи активистов МГЕР и «Волонтерской Роты» провели в Москве и Санкт-Петербурге флешмобы в честь Дня рождения Владимира Путина](https://cdn.er.ru/media/news/October2024/G3BatyUHSJdf3lfHRgUI-small.jpg)](https://er.ru/activity/news/tysyachi-aktivistov-mger-i-volonterskoj-roty-proveli-v-moskve-i-sankt-peterburge-fleshmoby-v-chest-dnya-rozhdeniya-vladimira-putina)
 
@@ -321,7 +321,7 @@
 
 [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=132412) [#флэшмобы](https://er.ru/activity/news?tags%5B0%5D=84285) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#ПрезидентРФ](https://er.ru/activity/news?tags%5B0%5D=128518)
 
-Сегодня 09:00
+07.10.24
 
 [![«Молодая Гвардия Единой России» доставила гуманитарную помощь участникам СВО на Курском направлении](https://cdn.er.ru/media/news/October2024/5IVKnKzLmM4PmKFtctvU-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-gumanitarnuyu-pomosh-uchastnikam-svo-na-kurskom-napravlenii)
 
