@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/moet-de-jeugd-opdraaien-voor-dit-virus/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/dr-andrew-moulden-elk-vaccin-veroorzaakt-trauma/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
