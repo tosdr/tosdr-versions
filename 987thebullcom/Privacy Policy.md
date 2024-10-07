@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| All The Pretty GirlsKenny Chesney<br><br>11:37am |
-| A Bar Song (Tipsy)Shaboozey<br><br>11:34am |
-| Lies, Lies, LiesMorgan Wallen<br><br>11:31am |
-| Gone CountryAlan Jackson<br><br>11:27am |
-| Save MeJelly Roll Ft Lainey Wilson<br><br>11:23am |
+| I Love This BarToby Keith<br><br>5:40pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>5:37pm |
+| Bigger HousesDan Shay<br><br>5:34pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:31pm |
+| Need A FavorJelly Roll<br><br>5:28pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
 
 [](https://www.alphamediausa.com/)
 
