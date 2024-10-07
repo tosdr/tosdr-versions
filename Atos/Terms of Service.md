@@ -214,10 +214,10 @@ Homepage](https://atos.net/en)
         * [Media Resources](https://atos.net/en/newsroom/media-resources)
         * [Media Contacts](https://atos.net/en/newsroom#contacts)
         
-        27 September 2024
+        7 October 2024
         
-        Very strong support of Atos SE’ shareholders and financial creditors meeting as classes of affected parties vote on the draft accelerated safeguard plan
-        --------------------------------------------------------------------------------------------------------------------------------------------------------
+        Update on ongoing discussions with the French state concerning BDS's Advanced Computing, Mission-Critical Systems and Cybersecurity Products businesses
+        -------------------------------------------------------------------------------------------------------------------------------------------------------
         
     * [Awards](https://atos.net/en/newsroom/awards)˅
         
