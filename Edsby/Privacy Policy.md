@@ -2,7 +2,9 @@
 
 [](#!)
 
-[![](https://www.edsby.com/wp-content/uploads/2023/09/logo.png)](https://www.edsby.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20137%2048'%3E%3C/svg%3E)
+
+![](https://www.edsby.com/wp-content/uploads/2023/09/logo.png)](https://www.edsby.com/)
 
 * [Solutions](#!)
     
@@ -60,7 +62,9 @@
 * [Help](https://www.edsby.com/support/)
 *  
     
-    [![](https://www.edsby.com/wp-content/uploads/2023/09/search.png)](#exampleModalToggle)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E)
+    
+    ![](https://www.edsby.com/wp-content/uploads/2023/09/search.png)](#exampleModalToggle)
 * [Contact Sales](https://forms.edsby.com/contact-sales)
 
 Services Privacy Policy
@@ -386,7 +390,9 @@ We will not discriminate against you for exercising your CCPA rights.
 * [Privacy Policy February 18th, 2016 – deprecated](https://www.edsby.com/privacy-policy-february-18-2016-deprecated/)
 * [Privacy Policy December 6th, 2015 – deprecated](https://www.edsby.com/privacy-policy-december-6-2015-deprecated/)
 
-[![](https://www.edsby.com/wp-content/uploads/2023/09/logo.png)](https://www.edsby.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20137%2048'%3E%3C/svg%3E)
+
+![](https://www.edsby.com/wp-content/uploads/2023/09/logo.png)](https://www.edsby.com/)
 
 ###### Company
 
