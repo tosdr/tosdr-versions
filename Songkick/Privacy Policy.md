@@ -5,10 +5,6 @@
         
         *  [![Cage the Elephant Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Cage the Elephant  
             MetLife Stadium](https://www.songkick.com/concerts/42201059-cage-the-elephant-at-metlife-stadium)
-        *  [![Primus Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Primus  
-            PNC Bank Arts Center](https://www.songkick.com/concerts/42175406-primus-at-pnc-bank-arts-center)
-        *  [![Thomas Rhett Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Thomas Rhett  
-            PNC Bank Arts Center](https://www.songkick.com/concerts/42175592-thomas-rhett-at-pnc-bank-arts-center)
         *  [![Hindsight Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Hindsight  
             The Log Cabin](https://www.songkick.com/concerts/42181087-hindsight-at-log-cabin)
         
