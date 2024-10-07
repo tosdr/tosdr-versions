@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I really appreciate your prompt help.
+The proxy is working very well. I can also view British Netflix which was not the case previously.
 
-Mark Hallerberg
+Paul Kerr
