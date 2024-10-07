@@ -65,7 +65,9 @@ Search
     * [Suomi](https://unric.org/fi)
     * [Svenska](https://unric.org/sv)
 
-  [![UNRIC.ORG](https://unric.org/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)UNRIC - Regional Information CentreUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
+  [![UNRIC.ORG](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2092'%3E%3C/svg%3E)
+
+ ![UNRIC.ORG](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)UNRIC - Regional Information CentreUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
 
 SearchSearch
 
@@ -85,7 +87,9 @@ SearchSearch
     * [Suomi](https://unric.org/fi)
     * [Svenska](https://unric.org/sv)
 
-  [![UNRIC.ORG](https://unric.org/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)Regional Information Centre for Western EuropeUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
+  [![UNRIC.ORG](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2092'%3E%3C/svg%3E)
+
+ ![UNRIC.ORG](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)Regional Information Centre for Western EuropeUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
 
 [Live now](# "Live now")
 
@@ -143,7 +147,9 @@ A-Z Site Index
 Privacy Notice
 ==============
 
-[![privacy](https://unric.org/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://unric.org/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
+[![privacy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20696%20464'%3E%3C/svg%3E "privacy")
+
+![privacy](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
 
 ### UNITED NATIONS’ PRIVACY NOTICE
 
@@ -159,31 +165,41 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
- [![Latest UNRIC Library Newsletter](https://unric.org/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
+  [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
 
 ### [UNRIC Info Point & Library Newsletter – September 2024](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
 
 10/09/2024
 
- [![UNRIC Library Backgrounder: Sea Level Rise](https://unric.org/en/wp-content/uploads/sites/15/2024/08/sea-level-rise-backgrounder-100x70.png)](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
+  [![UNRIC Library Backgrounder: Sea Level Rise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![UNRIC Library Backgrounder: Sea Level Rise](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/sea-level-rise-backgrounder-100x70.png)](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
 
 ### [UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
 
 29/08/2024
 
- [![UNRIC Library Backgrounder: Mpox](https://unric.org/en/wp-content/uploads/sites/15/2024/08/backgrounder-MPOX-100x70.png)](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
+  [![UNRIC Library Backgrounder: Mpox](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![UNRIC Library Backgrounder: Mpox](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/backgrounder-MPOX-100x70.png)](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
 
 ### [UNRIC Library Backgrounder: Mpox](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
 
 20/08/2024
 
- [![Latest UNRIC Library Newsletter](https://unric.org/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-august-2024/ "UNRIC Info Point & Library Newsletter: August 2024")
+  [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-august-2024/ "UNRIC Info Point & Library Newsletter: August 2024")
 
 ### [UNRIC Info Point & Library Newsletter: August 2024](https://unric.org/en/unric-info-point-library-newsletter-august-2024/ "UNRIC Info Point & Library Newsletter: August 2024")
 
 12/08/2024
 
- [![Representatives from NGOs Sürya, PAG-ASA, and Payoke, alongside Belgian Justice Minister, Paul Van Tigchelt and UNODC and IOM representatives,](https://unric.org/en/wp-content/uploads/sites/15/2024/07/blue-heart-small-100x70.jpg)](https://unric.org/en/child-trafficking-in-belgium-a-challenge-to-tackle/ "Child trafficking in Belgium claims around hundred victims per year")
+  [![Representatives from NGOs Sürya, PAG-ASA, and Payoke, alongside Belgian Justice Minister, Paul Van Tigchelt and UNODC and IOM representatives,](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+ ![Representatives from NGOs Sürya, PAG-ASA, and Payoke, alongside Belgian Justice Minister, Paul Van Tigchelt and UNODC and IOM representatives,](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/07/blue-heart-small-100x70.jpg)](https://unric.org/en/child-trafficking-in-belgium-a-challenge-to-tackle/ "Child trafficking in Belgium claims around hundred victims per year")
 
 ### [Child trafficking in Belgium claims around hundred victims per year](https://unric.org/en/child-trafficking-in-belgium-a-challenge-to-tackle/ "Child trafficking in Belgium claims around hundred victims per year")
 
@@ -193,7 +209,7 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Publications
 
-* [October 2024](https://unric.org/en/2024/10/) (9)
+* [October 2024](https://unric.org/en/2024/10/) (10)
 * [September 2024](https://unric.org/en/2024/09/) (34)
 * [August 2024](https://unric.org/en/2024/08/) (13)
 * [July 2024](https://unric.org/en/2024/07/) (24)
