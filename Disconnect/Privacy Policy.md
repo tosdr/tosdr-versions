@@ -75,7 +75,7 @@ You can contact us at [support@disconnect.me](mailto:support@disconnect.me) if y
 * [Pro](https://itunes.apple.com/us/app/disconnect-privacy-pro-entire/id1057771839?ls=1&mt=8)
 * [Basic](https://disconnect.me/disconnect)
 * [Enterprise](https://disconnect.me/enterprise)
-* [Privacy DNS](https://disconnect.me/evnts/r/privacy-dns)
+* [Tracker Protection](https://disconnect.me/evnts/r/privacy-dns)
 * [DNT](https://disconnect.me/dnt)
 
 #### Product
@@ -84,7 +84,7 @@ You can contact us at [support@disconnect.me](mailto:support@disconnect.me) if y
 * [Pro](https://itunes.apple.com/us/app/disconnect-privacy-pro-entire/id1057771839?ls=1&mt=8)
 * [Basic](https://disconnect.me/basic)
 * [Enterprise](https://disconnect.me/enterprise)
-* [Privacy DNS](https://disconnect.me/evnts/r/privacy-dns)
+* [Tracker Protection](https://disconnect.me/evnts/r/privacy-dns)
 * [DNT](https://disconnect.me/dnt)
 
 #### Company
