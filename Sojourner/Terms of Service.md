@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-792a50169782d86d0a288bd9f159c021
+13b28faa980862fa7d5b6de184a2ab51
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![2 mm micro-faceted rose quartz beads](https://sojourner.biz/images/cache/rose_quartz/RQ0016one.200.jpg)](https://sojourner.biz/beads/stone-m-z/rose-quartz/2-mm-micro-faceted-rose-quartz-beads.html "2 mm micro-faceted rose quartz beads")
+[![12 mm by 16 mm midnight blue faceted rondelles](https://sojourner.biz/images/cache/glass/GL0183.200.jpg)](https://sojourner.biz/beads/glass/12-mm-by-16-mm-midnight-blue-faceted-rondelles.html "12 mm by 16 mm midnight blue faceted rondelles")
 
-#### [2 mm micro-faceted rose quartz beads](https://sojourner.biz/beads/stone-m-z/rose-quartz/2-mm-micro-faceted-rose-quartz-beads.html "2 mm micro-faceted rose quartz beads")
+#### [12 mm by 16 mm midnight blue faceted rondelles](https://sojourner.biz/beads/glass/12-mm-by-16-mm-midnight-blue-faceted-rondelles.html "12 mm by 16 mm midnight blue faceted rondelles")
 
-$14.00
+$10.00
 
 ### Best Sellers
 
