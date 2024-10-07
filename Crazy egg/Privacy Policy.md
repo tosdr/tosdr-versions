@@ -2,18 +2,32 @@
 
 * Product
     
-    * [Heatmaps](https://www.crazyegg.com/snapshots)
-    * [Recordings](https://www.crazyegg.com/recordings)
-    * [A/B Testing](https://www.crazyegg.com/ab-testing)
+    #### 
+    
+    Analytics
+    
+    * [Website Heatmaps](https://www.crazyegg.com/snapshots)
+    * [Session Recordings](https://www.crazyegg.com/recordings)
     * [Traffic Analysis](https://www.crazyegg.com/traffic-analysis)
     * [Errors Tracking](https://www.crazyegg.com/errors-tracking)
+    
+    #### 
+    
+    Optimization
+    
+    * [A/B Testing](https://www.crazyegg.com/ab-testing)
+    * [Popup Offers](https://www.crazyegg.com/ctas)
+    
+    #### 
+    
+    Capabilities
+    
+    * [Conversion Tracking](https://www.crazyegg.com/goals)
     * [Surveys](https://www.crazyegg.com/surveys)
-    * [Goals](https://www.crazyegg.com/goals)
-    * [CTAs](https://www.crazyegg.com/ctas)
     
-* [Customers](https://www.crazyegg.com/case-studies)
-* Solutions
+* Customers
     
+    * [Case Studies](https://www.crazyegg.com/case-studies)
     * [Agencies](https://www.crazyegg.com/agencies)
     * [E-Commerce](https://www.crazyegg.com/ecommerce)
     * [Lead Gen](https://www.crazyegg.com/lead-gen)
@@ -21,7 +35,19 @@
     * [Shopify](https://www.crazyegg.com/shopify)
     * [Enterprise](https://www.crazyegg.com/enterprise)
     
-* Request Enterprise Demo
+* Resources
+    
+    * [Blog](https://www.crazyegg.com/blog)
+    * [Pricing](https://www.crazyegg.com/pricing)
+    * [FAQ](https://www.crazyegg.com/faq)
+    
+* Company
+    
+    * [Careers](https://www.crazyegg.com/careers)
+    * [Terms of Use](https://www.crazyegg.com/terms)
+    * [Privacy](https://www.crazyegg.com/privacy)
+    
+* [Sign Up](https://www.crazyegg.com/signup)
 * [Log In](https://auth.app.crazyegg.com/login) 
 
 Close modal
@@ -44,23 +70,50 @@ Close menu
 
 * Product
     
-    * [Heatmaps](https://www.crazyegg.com/snapshots)
-    * [Recordings](https://www.crazyegg.com/recordings)
-    * [A/B Testing](https://www.crazyegg.com/ab-testing)
+    #### 
+    
+    Analytics
+    
+    * [Website Heatmaps](https://www.crazyegg.com/snapshots)
+    * [Session Recordings](https://www.crazyegg.com/recordings)
     * [Traffic Analysis](https://www.crazyegg.com/traffic-analysis)
     * [Errors Tracking](https://www.crazyegg.com/errors-tracking)
-    * [Surveys](https://www.crazyegg.com/surveys)
-* [Customers](https://www.crazyegg.com/case-studies)
-* Solutions
     
+    #### 
+    
+    Optimization
+    
+    * [A/B Testing](https://www.crazyegg.com/ab-testing)
+    * [Popup Offers](https://www.crazyegg.com/ctas)
+    
+    #### 
+    
+    Capabilities
+    
+    * [Conversion Tracking](https://www.crazyegg.com/goals)
+    * [Surveys](https://www.crazyegg.com/surveys)
+    
+* Customers
+    
+    * [Case Studies](https://www.crazyegg.com/case-studies)
     * [Agencies](https://www.crazyegg.com/agencies)
     * [E-Commerce](https://www.crazyegg.com/ecommerce)
     * [Lead Gen](https://www.crazyegg.com/lead-gen)
     * [Education](https://www.crazyegg.com/education)
     * [Shopify](https://www.crazyegg.com/shopify)
     * [Enterprise](https://www.crazyegg.com/enterprise)
-* Request Enterprise Demo
-* [Log In](https://auth.app.crazyegg.com/login)
+* Resources
+    
+    * [Blog](https://www.crazyegg.com/blog)
+    * [Pricing](https://www.crazyegg.com/pricing)
+    * [FAQ](https://www.crazyegg.com/faq)
+* Company
+    
+    * [Careers](https://www.crazyegg.com/careers)
+    * [Terms of Use](https://www.crazyegg.com/terms)
+    * [Privacy](https://www.crazyegg.com/privacy)
+* [Sign Up](https://www.crazyegg.com/signup)
+* [Log In](https://auth.app.crazyegg.com/login) 
 
 * [Terms of Use](https://www.crazyegg.com/terms)
 * [Privacy Policy](https://www.crazyegg.com/privacy)
