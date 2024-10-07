@@ -288,7 +288,7 @@ From time to time, MPP may work with third-party consultants or other service pr
 Recent news
 -----------
 
-[![Both Major-Party Presidential Candidates Signal Support for Cannabis Policy Reform: Where Trump and Harris Stand on Legalization](/assets/components/phpthumbof/cache/Presidential%20Blog%20Post.be935d8f50a0438fce152e84b230e724.png)](https://blog.mpp.org/general/both-major-party-presidential-candidates-signal-support-for-cannabis-policy-reform-where-trump-and-harris-stand-on-legalization/)
+[![Both Major-Party Presidential Candidates Signal Support for Cannabis Policy Reform: Where Trump and Harris Stand on Legalization](/assets/components/phpthumbof/cache/Presidential%20Blog%20Post%20-2.be935d8f50a0438fce152e84b230e724.png)](https://blog.mpp.org/general/both-major-party-presidential-candidates-signal-support-for-cannabis-policy-reform-where-trump-and-harris-stand-on-legalization/)
 
 [Both Major-Party Presidential Candidates Signal Support for Cannabis Policy Reform: Where Trump and Harris Stand on Legalization ...](https://blog.mpp.org/general/both-major-party-presidential-candidates-signal-support-for-cannabis-policy-reform-where-trump-and-harris-stand-on-legalization/)
 
