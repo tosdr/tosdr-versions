@@ -4,7 +4,7 @@
 
 Open main menu [Fly App performance optimization](https://fly.io/) [Docs](https://fly.io/docs/)
 
-[Pricing](https://fly.io/docs/about/pricing/) [Support](https://fly.io/docs/about/support/)
+[Pricing](https://fly.io/pricing/) [Support](https://fly.io/docs/about/support/)
 
 [Sign In](https://fly.io/app/sign-in/) [Sign Up](https://fly.io/app/sign-up/)
 
