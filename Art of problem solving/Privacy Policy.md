@@ -61,8 +61,6 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
-[Enroll now for AMC 10 or 12 training classes](https://artofproblemsolving.com/school/schedule#contest-preparation) that finish before the competitions!  Classes start soon!
-
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
 
 Art of Problem Solving Privacy Policy
