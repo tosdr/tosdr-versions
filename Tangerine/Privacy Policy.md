@@ -923,7 +923,7 @@ ATS : **[(819) 994-6591](tel:18199946591)**
 
 [![Tangerine on TikTok, opens in a new tab](/content/experience-fragments/tangerine/ca/en/footer/master/_jcr_content/root/container/container_1741627176/container_1851780169/container_1385568956/image_copy_copy_1371551471.coreimg.svg/1706952713591/tiktok.svg)](https://www.tiktok.com/@tangerinebank)
 
-Tangerine Bank is a wholly-owned subsidiary of The Bank of Nova Scotia and a [CDIC member in its own right](https://www.tangerine.ca/en/about-us/cdic).
+Tangerine is a trade name of Tangerine Bank, a wholly-owned subsidiary of The Bank of Nova Scotia and a [CDIC member in its own right](https://www.tangerine.ca/en/about-us/cdic).
 
 [![C, D, I, C, opens in a new tab](/content/experience-fragments/tangerine/ca/en/footer/master/_jcr_content/root/container/container_1741627176/container_1394683010/image.coreimg.svg/1705966754887/cdic-logo.svg)](https://www.cdic.ca/your-coverage/protecting-your-deposit/)
 
