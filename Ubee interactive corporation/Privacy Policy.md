@@ -37,7 +37,7 @@ DOCSIS
 
 Ubee has been working closely with cable service providers worldwide for decades, designing and delivering DOCSIS solutions to meet their stringent requirements.](http://www.ubeeinteractive.com/solutions/2)
 
-[![](/storage/upload/product/image/2024-09-13/O23qnKt5MznCOVEgz2OowMY8NgSnDLUD25WS61DZ.png)
+[![](/storage/upload/product/image/2024-10-07/doffaXpepUwHD4p7WTTCjlWbLuF4N8rejIboJqV5.png)
 
 Fiber
 
