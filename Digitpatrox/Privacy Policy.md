@@ -20,16 +20,16 @@ Monday, October 7 2024
 
 Latest
 
-* [How to Use Voice Isolation Mode During Calls on iPhone?](https://digitpatrox.com/how-to-use-voice-isolation-mode-during-calls-on-iphone/)
-* [7 Best SMTP Servers of 2024](https://digitpatrox.com/7-best-smtp-servers-of-2024/)
-* [Dell XPS 13 9340 review](https://digitpatrox.com/dell-xps-13-9340-review/)
-* [Why evolving cyber threats mean small businesses are ransomware targets – Computerworld](https://digitpatrox.com/why-evolving-cyber-threats-mean-small-businesses-are-ransomware-targets-computerworld/)
-* [This Levoit Air Purifier Is an Early Prime Day Deal](https://digitpatrox.com/this-levoit-air-purifier-is-an-early-prime-day-deal/)
-* [The Legend of Lara Croft From Anywhere](https://digitpatrox.com/the-legend-of-lara-croft-from-anywhere/)
-* [Best Portable Generators of 2024](https://digitpatrox.com/best-portable-generators-of-2024/)
-* [Come for the ANC, Stay for the Killer App](https://digitpatrox.com/come-for-the-anc-stay-for-the-killer-app/)
-* [Microsoft just announced its biggest ever investment in Italy](https://digitpatrox.com/microsoft-just-announced-its-biggest-ever-investment-in-italy/)
-* [The Google Pixel Watch 2 just hit its lowest ever price on Amazon with this Prime Day deal](https://digitpatrox.com/the-google-pixel-watch-2-just-hit-its-lowest-ever-price-on-amazon-with-this-prime-day-deal/)
+* [‘Submerged’ is Apple’s first Immersive Vision Pro movie experience — and you can watch the trailer now](https://digitpatrox.com/submerged-is-apples-first-immersive-vision-pro-movie-experience-and-you-can-watch-the-trailer-now/)
+* [Qualcomm patches high-severity zero-day exploited in attacks](https://digitpatrox.com/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/)
+* [Ubisoft responds to rumors about Tencent’s potential buyout](https://digitpatrox.com/ubisoft-responds-to-rumors-about-tencents-potential-buyout/)
+* [Anime Strike Simulator Codes (October 2024)](https://digitpatrox.com/anime-strike-simulator-codes-october-2024/)
+* [Ransomware gang Medusa claims cyber attack on Albany College of Pharmacy and Health Sciences – $150K ransom](https://digitpatrox.com/ransomware-gang-medusa-claims-cyber-attack-on-albany-college-of-pharmacy-and-health-sciences-150k-ransom/)
+* [Cybersecurity is the fastest growing tech occupation in the UK – but it’s still not enough to dent the growing industry skills shortage](https://digitpatrox.com/cybersecurity-is-the-fastest-growing-tech-occupation-in-the-uk-but-its-still-not-enough-to-dent-the-growing-industry-skills-shortage/)
+* [Digital whiteboard software – Computerworld](https://digitpatrox.com/digital-whiteboard-software-computerworld/)
+* [These Hisense TVs Are up to 67% Off for October Prime Day](https://digitpatrox.com/these-hisense-tvs-are-up-to-67-off-for-october-prime-day/)
+* [Fortive Corporation subsidiaries notify thousands of data breach that compromised SSNs, payment info](https://digitpatrox.com/fortive-corporation-subsidiaries-notify-thousands-of-data-breach-that-compromised-ssns-payment-info/)
+* [Windows 11: Complete list of features removed (2024)](https://digitpatrox.com/windows-11-complete-list-of-features-removed-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/09/Voice-isolation-mode-iPhone.jpg)](https://digitpatrox.com/how-to-use-voice-isolation-mode-during-calls-on-iphone/)
+* [![](https://cdn.mos.cms.futurecdn.net/25CbN8tcAcNQUeUZ56xSCF-1200-80.jpg)](https://digitpatrox.com/submerged-is-apples-first-immersive-vision-pro-movie-experience-and-you-can-watch-the-trailer-now/)
     
-    [How to Use Voice Isolation Mode During Calls on iPhone?](https://digitpatrox.com/how-to-use-voice-isolation-mode-during-calls-on-iphone/)
+    [‘Submerged’ is Apple’s first Immersive Vision Pro movie experience — and you can watch the trailer now](https://digitpatrox.com/submerged-is-apples-first-immersive-vision-pro-movie-experience-and-you-can-watch-the-trailer-now/)
     
     15 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/The-Best-SMTP-Servers.jpeg)](https://digitpatrox.com/7-best-smtp-servers-of-2024/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/07/Qualcomm.jpg)](https://digitpatrox.com/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/)
     
-    [7 Best SMTP Servers of 2024](https://digitpatrox.com/7-best-smtp-servers-of-2024/)
+    [Qualcomm patches high-severity zero-day exploited in attacks](https://digitpatrox.com/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/)
+    
+    42 mins ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/VcsjlHuMYBUo8lXUvqNCpFg0V38=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25596189/SWO_UbiFW_Reactor_Grapple_NoLogo.png)](https://digitpatrox.com/ubisoft-responds-to-rumors-about-tencents-potential-buyout/)
+    
+    [Ubisoft responds to rumors about Tencent’s potential buyout](https://digitpatrox.com/ubisoft-responds-to-rumors-about-tencents-potential-buyout/)
+    
+    60 mins ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/10/Anime-Strike-Simulator-codes-on-Roblox.jpg)](https://digitpatrox.com/anime-strike-simulator-codes-october-2024/)
+    
+    [Anime Strike Simulator Codes (October 2024)](https://digitpatrox.com/anime-strike-simulator-codes-october-2024/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/Cewv9ASD53XAxcMwBR3Ur4-1200-80.jpg)](https://digitpatrox.com/dell-xps-13-9340-review/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Ransomware-gang-Medusa-claims-recent-cyber-attack-on-Albany-College-of-Pharmacy-and-Health-Sciences-150K-ransom.jpg)](https://digitpatrox.com/ransomware-gang-medusa-claims-cyber-attack-on-albany-college-of-pharmacy-and-health-sciences-150k-ransom/)
     
-    [Dell XPS 13 9340 review](https://digitpatrox.com/dell-xps-13-9340-review/)
-    
-    2 hours ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3543230-0-35308800-1728300688-BUTTERFLY-PIC_3.png?w=1024)](https://digitpatrox.com/why-evolving-cyber-threats-mean-small-businesses-are-ransomware-targets-computerworld/)
-    
-    [Why evolving cyber threats mean small businesses are ransomware targets – Computerworld](https://digitpatrox.com/why-evolving-cyber-threats-mean-small-businesses-are-ransomware-targets-computerworld/)
-    
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01J9C4N5AQTXMEBWVWR7SQN2VB/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-levoit-air-purifier-is-an-early-prime-day-deal/)
-    
-    [This Levoit Air Purifier Is an Early Prime Day Deal](https://digitpatrox.com/this-levoit-air-purifier-is-an-early-prime-day-deal/)
+    [Ransomware gang Medusa claims cyber attack on Albany College of Pharmacy and Health Sciences – $150K ransom](https://digitpatrox.com/ransomware-gang-medusa-claims-cyber-attack-on-albany-college-of-pharmacy-and-health-sciences-150k-ransom/)
     
     2 hours ago
     
@@ -210,49 +210,49 @@ Recent Topics
 
 * [15 mins ago
     
-    ### How to Use Voice Isolation Mode During Calls on iPhone?](https://digitpatrox.com/how-to-use-voice-isolation-mode-during-calls-on-iphone/)
-* [1 hour ago
+    ### ‘Submerged’ is Apple’s first Immersive Vision Pro movie experience — and you can watch the trailer now](https://digitpatrox.com/submerged-is-apples-first-immersive-vision-pro-movie-experience-and-you-can-watch-the-trailer-now/)
+* [42 mins ago
     
-    ### 7 Best SMTP Servers of 2024](https://digitpatrox.com/7-best-smtp-servers-of-2024/)
-* [2 hours ago
+    ### Qualcomm patches high-severity zero-day exploited in attacks](https://digitpatrox.com/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/)
+* [60 mins ago
     
-    ### Dell XPS 13 9340 review](https://digitpatrox.com/dell-xps-13-9340-review/)
+    ### Ubisoft responds to rumors about Tencent’s potential buyout](https://digitpatrox.com/ubisoft-responds-to-rumors-about-tencents-potential-buyout/)
 
 Most Popular Topics
 
-* [August 11, 2024
+* [August 31, 2024
     
-    ### Chinese hacking groups target Russian government, IT firms](https://digitpatrox.com/chinese-hacking-groups-target-russian-government-it-firms/)
-* [August 21, 2024
+    ### NYT Connections today hints and answers — Sunday, September 1 (#448)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-sunday-september-1-448/)
+* [September 1, 2024
     
-    ### How to freeze your credit after a data breach](https://digitpatrox.com/how-to-freeze-your-credit-after-a-data-breach/)
-* [2 days ago
+    ### Using ExpressVPN for torrenting: Does it deliver?](https://digitpatrox.com/using-expressvpn-for-torrenting-does-it-deliver/)
+* [September 6, 2024
     
-    ### How to Find the Best Home Charger for Your Electric Vehicle](https://digitpatrox.com/how-to-find-the-best-home-charger-for-your-electric-vehicle/)
+    ### Copilot+ PCs that use Intel and AMD chips coming in November – Computerworld](https://digitpatrox.com/copilot-pcs-that-use-intel-and-amd-chips-coming-in-november-computerworld/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Best Portable Generators of 2024](https://digitpatrox.com/best-portable-generators-of-2024/)
+    ### Digital whiteboard software – Computerworld](https://digitpatrox.com/digital-whiteboard-software-computerworld/)
 * [3 hours ago
     
-    ### Come for the ANC, Stay for the Killer App](https://digitpatrox.com/come-for-the-anc-stay-for-the-killer-app/)
+    ### These Hisense TVs Are up to 67% Off for October Prime Day](https://digitpatrox.com/these-hisense-tvs-are-up-to-67-off-for-october-prime-day/)
 * [4 hours ago
     
-    ### Microsoft just announced its biggest ever investment in Italy](https://digitpatrox.com/microsoft-just-announced-its-biggest-ever-investment-in-italy/)
+    ### Fortive Corporation subsidiaries notify thousands of data breach that compromised SSNs, payment info](https://digitpatrox.com/fortive-corporation-subsidiaries-notify-thousands-of-data-breach-that-compromised-ssns-payment-info/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 13, 2024
+* [August 12, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 21, 2024
+    
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
