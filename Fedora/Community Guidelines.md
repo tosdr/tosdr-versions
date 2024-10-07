@@ -90,7 +90,7 @@ Fedora Project
 * [Fedora/CentOS bootc](https://docs.fedoraproject.org/en-US/bootc/)
 * [FESCo](https://docs.fedoraproject.org/en-US/fesco/)
 * [Flatpak](https://docs.fedoraproject.org/en-US/flatpak/)
-* [Java Packaging HOWTO](https://docs.fedoraproject.org/en-US/howto/)
+* [Java Packaging HOWTO](https://docs.fedoraproject.org/en-US/java-packaging-howto/)
 * [Localization help and stats](https://docs.fedoraproject.org/en-US/docs-l10n/)
 * [Mindshare Teams](https://docs.fedoraproject.org/en-US/mindshare/)
 * [Minimization](https://docs.fedoraproject.org/en-US/minimization/)
@@ -268,7 +268,7 @@ All Fedora Documentation content available under [CC BY-SA 4.0](http://creativec
 * [Code of Conduct](https://docs.fedoraproject.org/en-US/project/code-of-conduct/)
 * [Sponsors](https://getfedora.org/en/sponsors/)
 
-Last build: 2024-10-07 06:50:11 UTC | Last content update: 2024-09-26
+Last build: 2024-10-07 12:50:18 UTC | Last content update: 2024-09-26
 
 ![Sponsored by Red Hat Logo](../../_/img/logo-sponsored-by-red-hat.png)
 
