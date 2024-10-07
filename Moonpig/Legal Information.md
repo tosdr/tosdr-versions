@@ -97,8 +97,6 @@ Menu
     
     * [Birthday](https://www.moonpig.com/uk/personalised-cards/birthday/)
     * [Anniversary](https://www.moonpig.com/uk/personalised-cards/anniversary/)
-    * [Grandparents Day](https://www.moonpig.com/uk/personalised-cards/grandparents-day/)
-    * [Rosh Hashanah](https://www.moonpig.com/uk/personalised-cards/rosh-hashanah/)
     * [Engagement](https://www.moonpig.com/uk/personalised-cards/engagement/)
     * [Wedding](https://www.moonpig.com/uk/personalised-cards/weddings/)
     * [New Job](https://www.moonpig.com/uk/personalised-cards/new-job/)
@@ -167,7 +165,6 @@ Menu
     
     * [Birthday](https://www.moonpig.com/uk/flowers-and-plants/birthday/)
     * [Anniversary](https://www.moonpig.com/uk/flowers-and-plants/anniversary/)
-    * [Grandparents Day](https://www.moonpig.com/uk/flowers-and-plants/grandparents-day/)
     * [Congratulations](https://www.moonpig.com/uk/flowers-and-plants/congratulations/)
     * [Sympathy](https://www.moonpig.com/uk/flowers-and-plants/sympathy/)
     * [Thank You](https://www.moonpig.com/uk/flowers-and-plants/thank-you/)
