@@ -574,7 +574,8 @@ Contact Us
 
 * [Sales  
     1-888-308-9616](tel:18883089616)
-* [Service](https://my.ifit.com/MC/s/)
+* [Customer Service  
+    1-833-680-4348](tel:18336804348)
 * [Order Tracking](https://www.nordictrack.com/order/status)
 * [More Contact Options](https://www.nordictrack.com/contact-us)
 * [Sign up for Special Deals](https://www.nordictrack.com/subscribe)
@@ -618,7 +619,8 @@ Contact Us
 
 * [Sales  
     1-888-308-9616](tel:18883089616)
-* [Service](https://my.ifit.com/MC/s/)
+* [Customer Service  
+    1-833-680-4348](tel:18336804348)
 * [Order Tracking](https://www.nordictrack.com/order/status)
 * [More Contact Options](https://www.nordictrack.com/contact-us)
 * [Sign up for Special Deals](https://www.nordictrack.com/subscribe)
