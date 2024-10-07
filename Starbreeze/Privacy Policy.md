@@ -4,6 +4,7 @@
 
 * [Support](https://www.paydaythegame.com/support/)
 * [Nebula](https://nebula.starbreeze.com/)
+* [Steam](https://store.steampowered.com/publisher/starbreeze)
 * [Investor Relations](https://corporate.starbreeze.com/)
 
 * [Home](https://www.starbreeze.com/)
@@ -30,6 +31,7 @@
 
 * [Support](https://www.paydaythegame.com/support/)
 * [Nebula](https://nebula.starbreeze.com/)
+* [Steam](https://store.steampowered.com/publisher/starbreeze)
 * [Investor Relations](https://corporate.starbreeze.com/)
 
 * [](https://www.facebook.com/StarbreezeStudios/)
