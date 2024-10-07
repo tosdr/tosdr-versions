@@ -45,6 +45,4 @@ Por lo contrario, si eras cliente de Orange Bank, pero no formaste parte de ese 
 * [Canal del informante](https://orangebank.es/politica-cookies/canal-de-denuncias.html "Canal del informante")
 * [SAC](https://orangebank.es/politica-cookies/SAC.html "SAC")
 
-[![Sellos de Confianza Online](dam/jcr_03f0ae12-8cbd-4f09-8c1d-afe46d26f4fe/sello-confianza-online.webp)](https://www.confianzaonline.es/empresas/orangebank.htm "Sellos de Confianza Online")
-
 Orange Bank, S.A., Sucursal en España. Sede social en P.E. La Finca, Pº del Club Deportivo, 1, Pozuelo de Alarcón, 28223 Madrid. Inscrita en el Reg. Mercantil de Madrid Hoja M-684416, Tomo 38478, Folio 200, Sección 8. CIF: W2503011E. Inscrita en el Banco de España nº 1568
