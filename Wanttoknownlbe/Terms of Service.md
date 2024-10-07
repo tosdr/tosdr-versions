@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/de-ik-wou-dat-het-waar-was-wasmasjien-is-echt-waar/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/we-zijn-eruit-mind-over-matter/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
