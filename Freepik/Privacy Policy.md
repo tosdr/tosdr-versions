@@ -538,8 +538,6 @@ If you, the User, do not agree with the way Freepik Company processes your perso
 
 Content
 
-* [New assets](https://www.freepikcompany.com/new)
-* [The most popular content](https://www.freepikcompany.com/popular)
 * [Search trends](https://www.freepikcompany.com/tags)
 * [Blog](https://www.freepik.com/blog/)
 
