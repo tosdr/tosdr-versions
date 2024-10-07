@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Teen Forums](https://www.somethingawful.com/weekend-web/teen-forums/1/)
-* [Metal](https://www.somethingawful.com/your-band-sucks/metal/)
-* [When in Rome; Edge of Darkness](https://www.somethingawful.com/current-movie-reviews/future-rome-darkness/1/)
-* [My Future's So Dark, I Gotta Wear Spikes](https://www.somethingawful.com/news/dark-future-80s/)
-* [The Clavo Times Christmas Pageant 2007 Review](https://www.somethingawful.com/news/clavo-pageant-conex/1/)
+* [Awful Vision: "Teh" Russian Muscle!](https://www.somethingawful.com/awfulvision/teh-sheik-balloon/1/)
+* [STRUT THAT ASS STRUT THAT ASS STRU](https://www.somethingawful.com/awfulvision/strut-that-ass/1/)
+* [Burgin'](https://www.somethingawful.com/news/burgin/1/)
+* [Girls on Girls on Pre-Schoolers](https://www.somethingawful.com/icq-pranks/icq-transcript-girls/1/)
+* [WTF Ministries](https://www.somethingawful.com/awful-links/awful-link-1045/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [What is the correct music Hz ?](http://forums.somethingawful.com/showthread.php?threadid=4072045 "What is the correct music Hz ?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Jumpy Elon with the lumpy felon](http://forums.somethingawful.com/showthread.php?threadid=4072021 "Jumpy Elon with the lumpy felon")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [New Zealand Navy VERSUS Samoan Reef: Battle of the Century](http://forums.somethingawful.com/showthread.php?threadid=4072043 "New Zealand Navy VERSUS Samoan Reef: Battle of the Century")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [I'm watching Nosferatu (1922) tonight.](http://forums.somethingawful.com/showthread.php?threadid=4072007 "I'm watching Nosferatu (1922) tonight.")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Awesome stuff we did as kids](http://forums.somethingawful.com/showthread.php?threadid=4072081 "Awesome stuff we did as kids")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Jumpy Elon with the lumpy felon](http://forums.somethingawful.com/showthread.php?threadid=4072021 "Jumpy Elon with the lumpy felon")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [What is the correct music Hz ?](http://forums.somethingawful.com/showthread.php?threadid=4072045 "What is the correct music Hz ?")
 
 ### Random Articles
 
-* [We Can All Agree This Is Spider-Man's Best Costume](https://www.somethingawful.com/news/spider-costume-outfit/)
-* [News You Can Use: Life In The Sick Lane](https://www.somethingawful.com/news/news-you-can/)
-* [A Complete and Thorough Listing of Every Anime Movie I've Ever Seen](https://www.somethingawful.com/mooflogs/complete-thorough-listing/)
-* [Definitive Proof That Coldplay Stole "Viva la Vida"](https://www.somethingawful.com/news/coldplay-stole-video/)
-* [I'm On To You, Lady In This 15-Year-Old Episode Of Antiques Roadshow](https://www.somethingawful.com/news/antiques-roadshow-lady/)
+* [Stuff You Will Hate: Best of '09 Exchange!](https://www.somethingawful.com/garbage-day/stuff-hate-converge/1/)
+* [dodemus.nl](https://www.somethingawful.com/awful-links/awful-link-3423/)
+* [End of Year Awards + The Most Anticipated Games of 2019](https://www.somethingawful.com/video-game-article/anticipated-award-2019/)
+* [Lack of Sex Parties, College Life](https://www.somethingawful.com/news/lack-sex-parties/)
+* [I want my hotel bed to glow.](https://www.somethingawful.com/news/glow-hotel-light/)
 
 [Random!](https://www.somethingawful.com/random/)
 
