@@ -137,67 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![All Promete](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1515012-1705665402.jpg)](https://lyricstranslate.com/en/translator/all-promete "All Promete")
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
 
 New translation
 
-[Boris Slutsky - Мои товарищи (Moi tovarishchi)](https://lyricstranslate.com/en/boris-slutsky-moi-tovarishchi-persian)
+[Kayah (Poland) - Podatek Od Miłości](https://lyricstranslate.com/en/kayah-poland-podatek-od-milosci-russian)
 
-Russian → Persian
+Polish → Russian
 
-[![SelmanYasirGenc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399718-1623516693.jpg)](https://lyricstranslate.com/en/translator/selmanyasirgenc "SelmanYasirGenc")
-
-New request
-
-[Peggy Lee - Alright, Okay, You Win](https://lyricstranslate.com/en/request/alright-okay-you-win)
-
-English → Turkish
-
-[![Genniviv Mendoza](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632107-1728106233.png)](https://lyricstranslate.com/en/translator/genniviv-mendoza "Genniviv Mendoza")
-
-New request
-
-[Hinder - Lips of an Angel](https://lyricstranslate.com/en/request/lips-angel-5)
-
-English → Filipino/Tagalog
-
-[![לילך הולדמן](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601674-1706213897.jpg)](https://lyricstranslate.com/en/translator/%D7%9C%D7%99%D7%9C%D7%9A-%D7%94%D7%95%D7%9C%D7%93 "לילך הולדמן")
+[![Jacob Yakup De Camillis](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632266-1728246055.png)](https://lyricstranslate.com/en/translator/jacob-yakup-de-camillis "Jacob Yakup De Camillis")
 
 New translation
 
-[Synergia - זהות אחרת (Zehut Akheret)](https://lyricstranslate.com/en/synergia-zehut-akheret-transliteration)
+[Can Yücel - Bi Koşu](https://lyricstranslate.com/en/can-yucel-bi-kosu-english)
 
-Hebrew → Transliteration
+Turkish → English
 
-[![HiiJin](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/hiijin "HiiJin")
+[![ftetranslator](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/ftetranslator "ftetranslator")
 
-New song
+New request
 
-[Kaeru Moku - ラーメン日和](https://lyricstranslate.com/en/kaeru-moku-ra-men-hiyori-lyrics)
+[Atelier ladybird - バルーン (Balloon)](https://lyricstranslate.com/en/request/%E3%83%90%E3%83%AB%E3%83%BC%E3%83%B3)
 
-Japanese
+Japanese → English
 
-[![蟻食](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1552355-1706257042.jpg)](https://lyricstranslate.com/en/translator/%E8%9F%BB%E9%A3%9F "蟻食")
+[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1728278937.jpg)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
+
+New request
+
+[Dr\_Igor - Маринада 01 - Рас-стояние: версты, мили... (Marinada 01 - Ras - stoyaniye, versty, mili)](https://lyricstranslate.com/en/request/%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%D0%B4%D0%B0-01-%D1%80%D0%B0%D1%81-%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D1%82%D1%8B-%D0%BC%D0%B8%D0%BB%D0%B8)
+
+Russian → Spanish
+
+[![sandalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1607618-1707125848.jpg)](https://lyricstranslate.com/en/translator/sandalia "sandalia")
+
+New translation
+
+[Frédéric Zeitoun - Vendredi soir](https://lyricstranslate.com/en/frederic-zeitoun-vendredi-soir-italian)
+
+French → Italian
+
+[![AJlik3sTranslations](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1381717-1529040257.jpg)](https://lyricstranslate.com/en/translator/ajlik3stranslations "AJlik3sTranslations")
+
+New translation
+
+[Bee Gees - Don't Say Goodbye](https://lyricstranslate.com/en/bee-gees-dont-say-goodbye-spanish)
+
+English → Spanish
+
+[![Renel Gonzales](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632296-1728278026.png)](https://lyricstranslate.com/en/translator/renel-gonzales "Renel Gonzales")
 
 New comment
 
-Dear Anton, since you requested proofreading...  [more](https://lyricstranslate.com/en/comment/1168467#comment-1168467)
+What is the Theme Song of Inquirer TV 2004-2005  [more](https://lyricstranslate.com/en/comment/1168769#comment-1168769)
 
-[![לילך הולדמן](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601674-1706213897.jpg)](https://lyricstranslate.com/en/translator/%D7%9C%D7%99%D7%9C%D7%9A-%D7%94%D7%95%D7%9C%D7%93 "לילך הולדמן")
+[![nikalikas](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1171388-1517876861.jpg)](https://lyricstranslate.com/en/translator/nikalikas "nikalikas")
 
 New translation
 
-[Synergia - מתי את חוזרת (Matay At Khozeret)](https://lyricstranslate.com/en/synergia-matay-khozeret-transliteration)
+[Gianna Nannini - Bello e impossibile](https://lyricstranslate.com/en/gianna-nannini-bello-e-impossibile-greek)
 
-Hebrew → Transliteration
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New song
-
-[Johnny Cash - To The Shining Mountains](https://lyricstranslate.com/en/johnny-cash-shining-mountains-lyrics)
-
-English
+Italian → Greek
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
