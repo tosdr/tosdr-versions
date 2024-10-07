@@ -148,7 +148,7 @@ Contact Information
 
 If you have any questions or concerns about this Agreement, please contact us at 2440 Willamette Street, Suite 101-C, Eugene, Oregon, 97405 or by phone at 541-705-4666.
 
-_“Before starting therapy, our relationship felt toxic and hopeless. It seemed like no matter what I tried, nothing changed, and the fate of our marriage was out of my control. Dave saw the love we still had for each other and believed that with the right skills and tools, we could turn things around. During our sessions, I noticed my partner putting in genuine effort, even if consistently applying what we learned outside of therapy was a challenge. I better identified some things I did (and could try to stop doing) that contributed to our couple challenges and learned some strategies of how to create more space for my partner to process and share. As a result, we rediscovered moments of humor and lightness, which helped put our issues into perspective. I realized that my partner deeply wanted to improve our relationship and had a rich inner world of thoughts and feelings, even if expressing them out loud was difficult. This realization alone was a significant step forward.”_
+_“A lot of times I didn’t let myself be happy. After working with Dave, I’ve learned to change my focus. I’m not lying to myself anymore, I’m just allowing myself to just let it happen.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
