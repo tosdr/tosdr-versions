@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-We are extremely happy with FoxyProxy, it allows us to use US based streaming services from France without any issue. We will for sure re-subscribe as soon as we have internet access again. Thanks, and congratulations for the great service!
+your service, both technically as well as support service has been exceptional the entire time of subscription.
 
-Jean Moniatte
+Todd Kopecki
