@@ -32,7 +32,7 @@
     
     Ofcom is committed to a thriving telecoms sector, where companies can compete fairly and customers benefit from a broad range of services.
     
-    [Post](https://www.ofcom.org.uk/post/?language=en)
+    [Post](https://www.ofcom.org.uk/post/)
     
     Ofcom's job is to make sure there is a universal postal service.
     
@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![App design for media literacy](/siteassets/resources/images/-news-centre/thumbnail-images/internet/ml-pledge-web.jpg?width=1920&height=1085&quality=80)
+
+### Online services pledge to prioritise media literacy
+
+7 October 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-literacy/Online-services-pledge-to-prioritise-media-literacy/)
+
 [![Three people in a meeting room in conversation](/siteassets/resources/images/-news-centre/thumbnail-images/access-and-inclusion/three-people-in-a-meeting-room-in-conversation.jpg?width=1920&height=1085&quality=80)
 
 ### Building our capabilities: Ofcom's first in-house online trial
@@ -150,12 +156,6 @@
 ### Top listening trends for International Podcast Day
 
 30 September 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/top-listening-trends-for-international-podcast-day/)
-
-[![Telegraph pole HERO (1336 × 560px)](/siteassets/resources/images/-news-centre/body-images/2024/ofcom-investigates-broadband-network-brsks-installation-of-telegraph-poles/telegraph-pole-hero-1336--560px.jpg?width=1920&height=1085&quality=80)
-
-### Ofcom investigates broadband network BRSK’s installation of telegraph poles
-
-30 September 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/ofcom-investigates-broadband-network-brsks-installation-of-telegraph-poles/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy "Switch to Welsh")
 
@@ -207,7 +207,7 @@ See also...
 
 Published: 4 March 2024
 
-Last updated: 23 September 2024
+Last updated: 7 October 2024
 
 The Broadcast and On Demand Bulletin reports on investigations into potential breaches of Ofcom’s codes and rules for TV, radio and video-on-demand programmes.](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/broadcast-bulletins/)
 
