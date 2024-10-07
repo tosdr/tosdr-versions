@@ -8,10 +8,10 @@
 
 *  
     
-* [Hurricane Helene](https://www.motherjones.com/politics/2024/10/spruce-pine-quartz-silicon-mine-flooding-north-carolina-helene/)
-* [Christian Nationalism](https://www.motherjones.com/politics/2024/10/new-apostolic-reformation-christian-nationalism/)
-* [Steve Bannon](https://www.motherjones.com/politics/2024/10/bannon-guo-nunberg/)
-* [Trump’s Deportation Plan](https://www.motherjones.com/politics/2024/10/jd-vance-debate-border-migrant-family-separation/)
+* [Trump](https://www.motherjones.com/politics/2024/10/mike-johnson-lara-trump-election-denial-voting/)
+* [Elon Musk](https://www.motherjones.com/politics/2024/10/elon-musk-trump-rally-butler-voting-disinformation/)
+* [Georgia](https://www.motherjones.com/politics/2024/10/georgia-gov-brian-kemp-keeps-trying-to-help-trump-win-in-november/)
+* [Voter Suppression](https://www.motherjones.com/politics/2024/10/false-claims-of-voter-fraud-lead-to-real-instances-of-voter-suppression/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Hurricane Helene](https://www.motherjones.com/politics/2024/10/spruce-pine-quartz-silicon-mine-flooding-north-carolina-helene/)
-* [Christian Nationalism](https://www.motherjones.com/politics/2024/10/new-apostolic-reformation-christian-nationalism/)
-* [Steve Bannon](https://www.motherjones.com/politics/2024/10/bannon-guo-nunberg/)
-* [Trump’s Deportation Plan](https://www.motherjones.com/politics/2024/10/jd-vance-debate-border-migrant-family-separation/)
+* [Trump](https://www.motherjones.com/politics/2024/10/mike-johnson-lara-trump-election-denial-voting/)
+* [Elon Musk](https://www.motherjones.com/politics/2024/10/elon-musk-trump-rally-butler-voting-disinformation/)
+* [Georgia](https://www.motherjones.com/politics/2024/10/georgia-gov-brian-kemp-keeps-trying-to-help-trump-win-in-november/)
+* [Voter Suppression](https://www.motherjones.com/politics/2024/10/false-claims-of-voter-fraud-lead-to-real-instances-of-voter-suppression/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
