@@ -149,18 +149,26 @@ About Us
     [Overview](https://www.unibocconi.eu/en/about-us/organization)
     
     * [University Board](https://www.unibocconi.eu/en/about-us/organization/university-board)
-    * [International Advisory Council](https://www.unibocconi.eu/en/about-us/organization/international-advisory-council-0)
+    * [International Advisory Council](https://www.unibocconi.eu/en/about-us/organization/international-advisory-council)
     * Statute, Regulations and Rules
         
         [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-documents)
         
+        * Rules
+            
+            [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules)
+            
+            * [Rules for Students](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/rules-students)
+            * [Department Regulations](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/department-regulations)
+            * [Alias Regulation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/regulations-activation-and-management-alias-identities)
+            * Model 231
+                
+                [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/model-231)
+                
+                * [Regulatory Body](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/model-231/regulatory-body)
+                
+            
         * [Strategic Plan](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/vision-2030-and-strategic-plan-2021-2025)
-        * Model 231
-            
-            [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/model-231)
-            
-            * [Regulatory Body](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/model-231/regulatory-body)
-            
         * Data Protection Regulation GDPR
             
         * Honor Code
@@ -172,10 +180,7 @@ About Us
             * [The Ombudsman and Protection](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/ombudsman-and-protection)
             * [FAQs](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/questions-and-answers-about-honor-code-and-more)
             
-        * [Rules for Students](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules-students)
-        * [Department Regulations](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/department-regulations)
         * [Balance Sheet and Economic Documentation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/balance-sheet-and-economic-documentation)
-        * [Alias Regulation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/regulations-activation-and-management-alias-identities)
         * [Whistleblowing](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/whistleblowing)
         
     * [Rectorate](https://www.unibocconi.eu/en/about-us/organization/rectorate)
@@ -235,18 +240,26 @@ Organization
 [Overview](https://www.unibocconi.eu/en/about-us/organization)
 
 * [University Board](https://www.unibocconi.eu/en/about-us/organization/university-board)
-* [International Advisory Council](https://www.unibocconi.eu/en/about-us/organization/international-advisory-council-0)
+* [International Advisory Council](https://www.unibocconi.eu/en/about-us/organization/international-advisory-council)
 * Statute, Regulations and Rules
     
     [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-documents)
     
+    * Rules
+        
+        [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules)
+        
+        * [Rules for Students](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/rules-students)
+        * [Department Regulations](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/department-regulations)
+        * [Alias Regulation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/regulations-activation-and-management-alias-identities)
+        * Model 231
+            
+            [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/model-231)
+            
+            * [Regulatory Body](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/model-231/regulatory-body)
+            
+        
     * [Strategic Plan](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/vision-2030-and-strategic-plan-2021-2025)
-    * Model 231
-        
-        [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/model-231)
-        
-        * [Regulatory Body](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/model-231/regulatory-body)
-        
     * Data Protection Regulation GDPR
         
     * Honor Code
@@ -258,10 +271,7 @@ Organization
         * [The Ombudsman and Protection](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/ombudsman-and-protection)
         * [FAQs](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/honor-code/questions-and-answers-about-honor-code-and-more)
         
-    * [Rules for Students](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules-students)
-    * [Department Regulations](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/department-regulations)
     * [Balance Sheet and Economic Documentation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/balance-sheet-and-economic-documentation)
-    * [Alias Regulation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/regulations-activation-and-management-alias-identities)
     * [Whistleblowing](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/whistleblowing)
     
 * [Rectorate](https://www.unibocconi.eu/en/about-us/organization/rectorate)
