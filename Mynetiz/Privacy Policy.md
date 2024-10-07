@@ -1,3 +1,5 @@
+    [](https://pixelfed.social/mynetiz)[](https://x.com/mynetiz)[](https://rumble.com/c/c-3429590)[](https://vimeo.com/mynetiz)[](https://www.youtube.com/c/mynetiz)[](https://soundcloud.com/mynetiz)[](https://github.com/mynetiz)[](https://mastodon.social/@myusnetiz)[](https://pixelfed.social/myusnetiz)[](https://bsky.app/profile/myusnetiz.bsky.social "Bluesky")[](https://gitlab.com/@myusnetiz)[](https://github.com/myusnetiz)[](https://orcid.org/0009-0005-8727-741X)[](https://gravatar.com/myusnetiz)Privacy Policy – MyNetiz                                                             
+
 * [Anasayfa](https://mynetiz.com/ "Anasayfa")
 * [Künye](https://mynetiz.com/kunye "Künye")
 * [İletişim](https://mynetiz.com/ileti "İletişim")
@@ -31,7 +33,7 @@
 
 [Pixelfed](https://pixelfed.social/mynetiz) • [Telegram](https://t.me/mynetiz) • [𝕏](https://twitter.com/mynetiz) • [Rumble](https://rumble.com/c/c-3429590) • [Vimeo](https://vimeo.com/mynetiz) • [Youtube](https://www.youtube.com/c/mynetiz) • [Soundcloud](https://soundcloud.com/mynetiz) • [Gitlab](https://gitlab.com/mynetiz) • [Github](https://github.com/mynetiz)
 
-October 7, 2024
+October 8, 2024
 
 * [Anasayfa](https://mynetiz.com/)
 * [İletişim](https://mynetiz.com/ileti)
