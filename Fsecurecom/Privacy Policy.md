@@ -224,7 +224,7 @@ F‑Secure makes every digital moment more secure, for everyone.
 
 Subscribe to newsletter
 
-[](https://www.facebook.com/FSecure)[](https://twitter.com/FSecure)[](https://www.linkedin.com/company/f-secure-corporation)[](https://www.youtube.com/@F-Secure)[](https://www.instagram.com/fsecureglobal/)
+[](https://www.facebook.com/FSecure)[](https://twitter.com/FSecure)[](https://www.linkedin.com/company/f-secure-corporation)[](https://www.youtube.com/@f-secure)[](https://www.instagram.com/fsecureglobal/)
 
 Global
 
