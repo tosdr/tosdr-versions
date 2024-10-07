@@ -1,4 +1,4 @@
-SITEWIDE SAVINGS: 15% off orders $250+ | 20% off orders $350+ | 25% off orders $450+
+[Build your own bundle](https://www.arlo.com/en-us/build-your-system-main.html "Bundle Builder") and save up to 25% on best-sellers!
 
 [](# "Menu")
 
