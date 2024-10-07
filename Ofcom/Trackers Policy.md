@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![App design for media literacy](/siteassets/resources/images/-news-centre/thumbnail-images/internet/ml-pledge-web.jpg?width=1920&height=1085&quality=80)
+
+### Online services pledge to prioritise media literacy
+
+7 October 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-literacy/Online-services-pledge-to-prioritise-media-literacy/)
+
 [![Three people in a meeting room in conversation](/siteassets/resources/images/-news-centre/thumbnail-images/access-and-inclusion/three-people-in-a-meeting-room-in-conversation.jpg?width=1920&height=1085&quality=80)
 
 ### Building our capabilities: Ofcom's first in-house online trial
@@ -151,13 +157,7 @@
 
 30 September 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/top-listening-trends-for-international-podcast-day/)
 
-[![Telegraph pole HERO (1336 × 560px)](/siteassets/resources/images/-news-centre/body-images/2024/ofcom-investigates-broadband-network-brsks-installation-of-telegraph-poles/telegraph-pole-hero-1336--560px.jpg?width=1920&height=1085&quality=80)
-
-### Ofcom investigates broadband network BRSK’s installation of telegraph poles
-
-30 September 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/ofcom-investigates-broadband-network-brsks-installation-of-telegraph-poles/)
-
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/ "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
