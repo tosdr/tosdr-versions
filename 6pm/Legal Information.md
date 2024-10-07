@@ -119,7 +119,7 @@ Live Chat](https://www.6pm.com/tng/chat.zml)
     * [Tommy Hilfiger](https://www.6pm.com/filters/clothing/CKvXAVoEpwfxJOICAgEL.zso?s=isNew/desc/goLiveDate/desc/recentSalesStyle/desc/)
     * [U.S. POLO ASSN.](https://www.6pm.com/u-s-polo-assn/UgLAF-ICAQo.zso?s=isNew/desc/goLiveDate/desc/recentSalesStyle/desc/)
     
-    [![Shop Dresses](data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://www.6pm.com/filters/women-dresses/CKvXARDE1wE6BJsNyRXAAQHiAgQBAhgH.zso?s=recentSalesStyle/desc/ "Clothing-dropdown")
+    [![Shop Women's Sneakers](data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://www.6pm.com/women-sneakers-athletic-shoes/CK_XARC81wHAAQHiAgMBGAI.zso?s=isNew/desc/goLiveDate/desc/recentSalesStyle/desc/ "Clothing-dropdown")
     
 * [Bags](https://www.6pm.com/c/bags)
     
@@ -443,14 +443,6 @@ If you choose to visit 6pm.com, your visit and any dispute over privacy is subje
 * [About](https://www.6pm.com/about-us)
 * [Site Map](https://www.6pm.com/site-map)
 * [Coupons](https://www.6pm.com/coupons)
-
-Find us on:
-
-* [Instagram](https://www.instagram.com/shop6pm/)
-* [Facebook](https://www.facebook.com/shop6pm)
-* [Twitter](https://twitter.com/shop6pm)
-* [Pinterest](https://www.pinterest.com/6pm)
-* [YouTube](https://www.youtube.com/channel/UCuZbMkoq82SUzBQMkBKrf0Q)
 
 [**How Do You Like Our Website?**
 
