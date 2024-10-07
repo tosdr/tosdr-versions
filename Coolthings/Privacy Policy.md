@@ -43,20 +43,20 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/brio-kitchen-box-standalone-campsite-kitchen-aluminum-storage/)
+    
+    [Brio Kitchen Box Transforms into a Standalone Campsite Kitchen](https://www.coolthings.com/brio-kitchen-box-standalone-campsite-kitchen-aluminum-storage/)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/kobalt-led-flashlight-charging-holster-2500-lumens/)
+    
+    [The Kobalt LED Flashlight & Charging Holster Automatically Charges Your Flashlight When It’s Docked](https://www.coolthings.com/kobalt-led-flashlight-charging-holster-2500-lumens/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/bose-soundlink-home-portable-speaker-bluetooth-stereo-pairing/)
     
     [Bose SoundLink Home May Be the Most Stylish Portable Speaker We’ve Seen](https://www.coolthings.com/bose-soundlink-home-portable-speaker-bluetooth-stereo-pairing/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-insulated-lunch-boxes-for-packing-your-meals-at-work/)
-    
-    [The Best Insulated Lunch Boxes for Packing Your Meals at Work](https://www.coolthings.com/the-best-insulated-lunch-boxes-for-packing-your-meals-at-work/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-key-organizers-to-help-tidy-up-your-edc/)
-    
-    [The Best Key Organizers to Help Tidy Up Your EDC](https://www.coolthings.com/the-best-key-organizers-to-help-tidy-up-your-edc/)
-    --------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
