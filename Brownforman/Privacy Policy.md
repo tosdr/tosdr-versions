@@ -292,7 +292,7 @@ You may also lodge a complaint with a data protection authority for your country
 
 Choose a country
 
-[Australia](#australia) [Austria](#austria) [Belgium](#belgium) [Belgium - French](#belgium-french) [Brazil](#brazil) [Bulgaria](#bulgaria) [China](#china) [Croatia-Hrvatska](#croatia) [Cyprus](#cyprus) [Czech Republic](#czech-republic) [Deutschland](#deutschland) [Finland](#finland) [France](#france) [Greece](#greece) [Hungary - Magyarorszag](#hungary-magyarorszag) [India](#india) [Ireland](#ireland) [Japan](#japan) [Mexico](#mexico) [Netherlands](#netherlands) [New Zealand](#new-zealand) [Poland](#poland) [Portugal](#portugal) [Singapore](#singapore) [Slovakia](#slovakia) [Thailand](#thailand) [United Kingdom](#united-kingdom) [United States](#united-states)
+[Australia](#australia) [Austria](#austria) [Belgium](#belgium) [Brazil](#brazil) [Bulgaria](#bulgaria) [China](#china) [Cyprus](#cyprus) [Czech Republic](#czech-republic) [Deutschland](#deutschland) [Finland](#finland) [France](#france) [Greece](#greece) [Hungary - Magyarorszag](#hungary-magyarorszag) [India](#india) [Ireland](#ireland) [Japan](#japan) [Mexico](#mexico) [Netherlands](#netherlands) [New Zealand](#new-zealand) [Poland](#poland) [Portugal](#portugal) [Romania](#romania) [Singapore](#singapore) [Slovakia](#slovakia) [Slovenia](#slovenia) [Spain](#spain) [Thailand](#thailand) [United Kingdom](#united-kingdom) [United States](#united-states)
 
 Australia
 
@@ -320,29 +320,13 @@ Eingetragener Firmensitz: Dammtorwall 5-7, 20354 Hamburg
 
 Belgium
 
-Brown-Forman Beverages, Europe, Ltd.  
+Brown-Forman Belgium BV
 
-Registered in the United Kingdom; Register Number 4129810
+Registered Office: Avenue Louise 283, 1050 Bruxelles, Belgium  
 
-Registered Office: Part Fourth Floor (west)
+Registered in Belgium
 
-45 Mortimer Street
-
-London W1W 8HJ
-
-©2024 Brown-Forman Corporation. All Rights Reserved.
-
-Belgium - French
-
-Brown-Forman Beverages, Europe, Ltd.  
-
-Registered in the United Kingdom; Register Number 4129810
-
-Registered Office: Part Fourth Floor (west)
-
-45 Mortimer Street
-
-London W1W 8HJ
+Register Number 0765363751  
 
 ©2024 Brown-Forman Corporation. All Rights Reserved.
 
@@ -379,14 +363,6 @@ Units 1206-1207, 12th Floor, Real Tower
 Xuhui District, Shanghai, China 200031
 
 ©2024 Brown-Forman Corporation. All rights reserved.
-
-Croatia-Hrvatska
-
-Brown-Forman Arrow Continental Europe, L.L.C.  
-
-850 Dixie Highway, Louisville, KY 40210 USA
-
-©2024 Brown-Forman Arrow Continental Europe, L.L.C. Sva prava pridržana.
 
 Cyprus
 
@@ -528,6 +504,16 @@ Rua do Esmeraldo, 47 - 3o andar, 9000-051, Funchal, Madeira, Portugal.
 
 ©2024 Brown-Forman Corporation. All rights reserved.  
 
+Romania
+
+Brown-Forman Ro S.r.l.
+
+Registered Office: 57 Louis Paster St., District 5, Bucharest, 050534, Romania
+
+Register Number: 33915972
+
+©2024 Brown-Forman Corporation.
+
 Singapore
 
 Brown-Forman complies with Singapore’s Personal Data Protection Act 2012 (the “**PDPA**”). We will collect your personal information in accordance with the PDPA. We will notify you of the purposes for which your personal information may be collected, used, disclosed and/or processed, as well as obtain your consent for the collection, use, disclosure and/or processing of your personal information for the intended purposes, unless an exception under the law permits us to collect and process your personal information without your consent.
@@ -547,6 +533,26 @@ Bratislava III, Section: Sro, file No.: 161360/B, company registration No. 54 65
 Registered office: Tallerova 4, 811 02 Bratislava – mestská časť Staré Mesto, Slovak Republic.
 
 ©2024 Brown-Forman Corporation. All rights reserved.
+
+Slovenia
+
+Brown-Forman Ljubljana Marketing d.o.o.
+
+Registered Office: Tehnološki park 19, Ljubljana, 1000, Slovenia
+
+Register number: 675934000
+
+©2024 Brown-Forman Corporation.
+
+Spain
+
+Brown-Forman Spain, S.L.U.
+
+Registered Address: Plaza Catalunya 5, 08002, Barcelona, Spain
+
+Register Number: B66430308
+
+©2024 Brown-Forman Corporation.  
 
 Thailand
 
