@@ -1,3 +1,23 @@
+Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions of Hurricane Milton and the latest updates.
+
+[](https://www.fairwinds.org/storm)
+
+Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions of Hurricane Milton and the latest updates.
+
+[](https://www.fairwinds.org/storm)
+
+Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions of Hurricane Milton and the latest updates.
+
+[](https://www.fairwinds.org/storm)
+
+Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions of Hurricane Milton and the latest updates.
+
+[](https://www.fairwinds.org/storm)
+
+Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions of Hurricane Milton and the latest updates.
+
+[](https://www.fairwinds.org/storm)
+
 [![FAIRWINDS Credit Union logo](/images/logoFAIRWINDS.svg)](https://www.fairwinds.org/)[![FAIRWINDS Credit Union logo](/images/logoFAIRWINDS_sailboat.svg)](https://www.fairwinds.org/)
 
 [Personal](https://www.fairwinds.org/personal)[Business](https://www.fairwinds.org/business)[Investing](https://www.fairwinds.org/investment)[Insurance](https://www.fairwinds.org/insurance)[Learn](https://www.fairwinds.org/learn)[Member Support](https://www.fairwinds.org/support)
