@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Air Force cadet's cause of death blamed on rare bacterial infection](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/fnc-air-force-getty.jpg?ve=1&tl=1)
+ [![Former Texas Rangers pitcher Matt Bush charged with DWI after Arlington crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/matthew-bush-mug.jpg?ve=1&tl=1)
 
- ![Air Force cadet's cause of death blamed on rare bacterial infection](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/fnc-air-force-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/air-force-cadets-cause-death-blamed-rare-bacterial-infection)
+ ![Former Texas Rangers pitcher Matt Bush charged with DWI after Arlington crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/matthew-bush-mug.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/matt-bush-dwi-crash-arlington-2024)
 
-### [Air Force cadet's cause of death blamed on rare bacterial infection](https://www.fox4news.com/news/air-force-cadets-cause-death-blamed-rare-bacterial-infection)
+### [Former Texas Rangers pitcher Matt Bush charged with DWI after Arlington crash](https://www.fox4news.com/news/matt-bush-dwi-crash-arlington-2024)
 
- [![Milton latest: Hurricane expected to bring life-threatening storm surge, winds to Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/al14_cone-1@1x_1-1.jpg?ve=1&tl=1)
+ [![6-year-old's body recovered after being swept underwater while fishing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/snapshot-2024-10-06t170829.542.jpg?ve=1&tl=1)
 
- ![Milton latest: Hurricane expected to bring life-threatening storm surge, winds to Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/al14_cone-1@1x_1-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
+ ![6-year-old's body recovered after being swept underwater while fishing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/snapshot-2024-10-06t170829.542.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mountain-creek-parkway-fishing-body-recovery)
 
-### [Milton latest: Hurricane expected to bring life-threatening storm surge, winds to Florida](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
+### [6-year-old's body recovered after being swept underwater while fishing](https://www.fox4news.com/news/dallas-mountain-creek-parkway-fishing-body-recovery)
 
- [![Consumers in US could face cold-cut crisis as virus ravages pig farms in Italy](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/food-pro.jpg?ve=1&tl=1)
+ [![Milton latest: Hurricane expected to intensify to Category 4 before Florida landfall](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/al14_cone-1@1x_1-1.jpg?ve=1&tl=1)
 
- ![Consumers in US could face cold-cut crisis as virus ravages pig farms in Italy](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/food-pro.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pork-shortage-italy-african-swine-fever)
+ ![Milton latest: Hurricane expected to intensify to Category 4 before Florida landfall](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/al14_cone-1@1x_1-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
 
-### [Consumers in US could face cold-cut crisis as virus ravages pig farms in Italy](https://www.fox4news.com/news/pork-shortage-italy-african-swine-fever)
+### [Milton latest: Hurricane expected to intensify to Category 4 before Florida landfall](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
 
- [![Dallas Cowboys vs. Pittsburgh Steelers: How to watch, stream, things to look for in Week 5](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2173809978.jpg?ve=1&tl=1)
+ [![Yellowstone cast and crew hold wrap party at Fort Worth's Joe T. Garcia's](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/yellowstone-cast-wrap-party-at-joe-t-garcia-pic-3.jpg?ve=1&tl=1)
 
- ![Dallas Cowboys vs. Pittsburgh Steelers: How to watch, stream, things to look for in Week 5](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2173809978.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-vs-pittsburgh-steelers-week-5)
+ ![Yellowstone cast and crew hold wrap party at Fort Worth's Joe T. Garcia's](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/yellowstone-cast-wrap-party-at-joe-t-garcia-pic-3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/yellowstone-cast-crew-hold-wrap-party-fort-worths-joe-t-garcias)
 
-### [Dallas Cowboys vs. Pittsburgh Steelers: How to watch, stream, things to look for in Week 5](https://www.fox4news.com/sports/dallas-cowboys-vs-pittsburgh-steelers-week-5)
+### [Yellowstone cast and crew hold wrap party at Fort Worth's Joe T. Garcia's](https://www.fox4news.com/news/yellowstone-cast-crew-hold-wrap-party-fort-worths-joe-t-garcias)
 
- [![Fort Worth shooting: 1 dead, 3 injured near Stockyards](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100624-sh-ftw-pd-shooting-nw-24th-st_kdfw8b39_186__00.00.44.14.jpg?ve=1&tl=1)
+ [![New Supreme Court session starts Monday: Here's what's on the docket](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2175584244-scaled.jpg?ve=1&tl=1)
 
- ![Fort Worth shooting: 1 dead, 3 injured near Stockyards](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100624-sh-ftw-pd-shooting-nw-24th-st_kdfw8b39_186__00.00.44.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-stockyards-shooting-oct-6)
+ ![New Supreme Court session starts Monday: Here's what's on the docket](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2175584244-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/supreme-court-docket-october-2024)
 
-### [Fort Worth shooting: 1 dead, 3 injured near Stockyards](https://www.fox4news.com/news/fort-worth-stockyards-shooting-oct-6)
+### [New Supreme Court session starts Monday: Here's what's on the docket](https://www.fox4news.com/news/supreme-court-docket-october-2024)
 
 ###### [News](https://www.fox4news.com/news)
 
