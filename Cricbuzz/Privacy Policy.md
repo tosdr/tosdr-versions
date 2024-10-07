@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[PAK vs ENG - Lunch](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Lunch")[GAW vs SLK - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92964/gaw-vs-slk-final-caribbean-premier-league-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Final - SLK Won")[BAN vs IND - IND Won](https://www.cricbuzz.com/live-cricket-scores/100238/ban-vs-ind-1st-t20i-bangladesh-tour-of-india-2024 "Bangladesh v India, 1st T20I - IND Won")[PAKW vs INDW - INDW Won](https://www.cricbuzz.com/live-cricket-scores/94586/pakw-vs-indw-7th-match-group-a-icc-womens-t20-world-cup-2024 "Pakistan Women v India Women, 7th Match, Group A - INDW Won")[IRE vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 3rd ODI - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ENGW vs RSAW - Preview](https://www.cricbuzz.com/live-cricket-scores/94604/engw-vs-rsaw-9th-match-group-b-icc-womens-t20-world-cup-2024 "England Women v South Africa Women, 9th Match, Group B - Preview")[IRE vs RSA - Live](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 3rd ODI - Live")[PAK vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Stumps")[GAW vs SLK - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92964/gaw-vs-slk-final-caribbean-premier-league-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Final - SLK Won")[BAN vs IND - IND Won](https://www.cricbuzz.com/live-cricket-scores/100238/ban-vs-ind-1st-t20i-bangladesh-tour-of-india-2024 "Bangladesh v India, 1st T20I - IND Won")
 
 AllLive NowToday
 
@@ -62,21 +62,15 @@ AllLive NowToday
     
 * South Africa vs Ireland, 2024
     
-    [Ireland vs South Africa](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-south-africa-vs-ireland-2024 "Ireland v South Africa, 3rd ODI - Preview")
+    [Ireland vs South Africa  LIVE](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-south-africa-vs-ireland-2024 "Ireland v South Africa, 3rd ODI - Live")
     
     3rd ODI
     
 * Pakistan v England, 2024
     
-    [Pakistan vs England](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-pakistan-v-england-2024 "Pakistan v England, 1st Test - Lunch")
+    [Pakistan vs England](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-pakistan-v-england-2024 "Pakistan v England, 1st Test - Stumps")
     
     1st Test
-    
-* ICC Mens East Asia-Pacific T20WCQB
-    
-    [Japan vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/102817/jpn-vs-idn-12th-match-icc-mens-east-asia-pacific-t20wcqb "Japan v Indonesia, 12th Match - JPN Won")
-    
-    12th Match
     
 * Namibia Tri-Series 2024
     
@@ -94,17 +88,17 @@ AllLive NowToday
     
 * CSA T20 Challenge
     
-    [Lions vs Dolphins](https://www.cricbuzz.com/live-cricket-scores/103456/lions-vs-dol-10th-match-csa-t20-challenge "Lions v Dolphins, 10th Match - LIONS Won")
+    [North West vs Boland](https://www.cricbuzz.com/live-cricket-scores/103467/nwest-vs-bol-12th-match-csa-t20-challenge "North West v Boland, 12th Match - NWEST Won")
+    
+    12th Match
+    
+* [Lions vs Dolphins](https://www.cricbuzz.com/live-cricket-scores/103456/lions-vs-dol-10th-match-csa-t20-challenge "Lions v Dolphins, 10th Match - LIONS Won")
     
     10th Match
     
 * [Knights vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103447/kng-vs-war-9th-match-csa-t20-challenge "Knights v Warriors, 9th Match - KNG Won")
     
     9th Match
-    
-* [North West vs Boland](https://www.cricbuzz.com/live-cricket-scores/103467/nwest-vs-bol-12th-match-csa-t20-challenge "North West v Boland, 12th Match - NWEST Won")
-    
-    12th Match
     
 * [Titans vs Western Province](https://www.cricbuzz.com/live-cricket-scores/103458/tit-vs-wpr-11th-match-csa-t20-challenge "Titans v Western Province, 11th Match - WPR Won")
     
@@ -124,6 +118,18 @@ AllLive NowToday
     
     15th Match
     
+* [Tuskers vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/105242/tusks-vs-mpr-18th-match-csa-t20-knock-out-competition "Tuskers v Mpumalanga Rhinos, 18th Match - Upcoming")
+    
+    18th Match
+    
+* [Eastern Cape vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/105236/ecape-vs-estorm-17th-match-csa-t20-knock-out-competition "Eastern Cape v Eastern Storm, 17th Match - Upcoming")
+    
+    17th Match
+    
+* [South Western Districts vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/105234/swd-vs-ncape-16th-match-csa-t20-knock-out-competition "South Western Districts v Northern Cape, 16th Match - Upcoming")
+    
+    16th Match
+    
 * LLC 2024
     
     [Gujarat Greats vs Manipal Tigers](https://www.cricbuzz.com/live-cricket-scores/107148/gugs-vs-mt-15th-match-llc-2024 "Gujarat Greats v Manipal Tigers, 15th Match - MT Won")
@@ -142,17 +148,15 @@ AllLive NowToday
     
     18th Match
     
+* [Toyam Hyderabad vs Southern Super Stars](https://www.cricbuzz.com/live-cricket-scores/107169/tyh-vs-snss-19th-match-llc-2024 "Toyam Hyderabad v Southern Super Stars, 19th Match - Upcoming")
+    
+    19th Match
+    
 * DOMESTIC
     
-    Irani Cup 2024
+    Australia Under 19 tour of India
     
-    [Mumbai vs Rest of India](https://www.cricbuzz.com/live-cricket-scores/99111/mum-vs-roi-irani-cup-irani-cup-2024 "Mumbai v Rest of India, Irani Cup - Match drawn")
-    
-    Irani Cup
-    
-* Australia Under 19 tour of India
-    
-    [India U19 vs Australia U19  LIVE](https://www.cricbuzz.com/live-cricket-scores/106452/indu19-vs-ausu19-2nd-youth-test-australia-under-19-tour-of-india "India U19 v Australia U19, 2nd Youth Test - Live")
+    [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106452/indu19-vs-ausu19-2nd-youth-test-australia-under-19-tour-of-india "India U19 v Australia U19, 2nd Youth Test - Stumps")
     
     2nd Youth Test
     
@@ -207,6 +211,10 @@ AllLive NowToday
 * [Australia Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/94613/ausw-vs-nzw-10th-match-group-a-icc-womens-t20-world-cup "Australia Women v New Zealand Women, 10th Match, Group A - Upcoming")
     
     10th Match, Group A
+    
+* [South Africa Women vs Scotland Women](https://www.cricbuzz.com/live-cricket-scores/94622/rsaw-vs-scow-11th-match-group-b-icc-womens-t20-world-cup "South Africa Women v Scotland Women, 11th Match, Group B - Upcoming")
+    
+    11th Match, Group B
     
 * Japan Women v Singapore Women
     
@@ -539,41 +547,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/131901/post-railways-arundhati-reddy-on-a-new-track-for-a-longer-return-journey "Reddy on a new track for a longer return journey")
+  [](https://www.cricbuzz.com/cricket-news/131907/masood-shafiques-attack-puts-england-on-the-backfoot "Masood, Shafique's attack puts England on the backfoot")
 
-[Reddy on a new track for a longer return journey](https://www.cricbuzz.com/cricket-news/131901/post-railways-arundhati-reddy-on-a-new-track-for-a-longer-return-journey "Reddy on a new track for a longer return journey")
+[Masood, Shafique's attack puts England on the backfoot](https://www.cricbuzz.com/cricket-news/131907/masood-shafiques-attack-puts-england-on-the-backfoot "Masood, Shafique's attack puts England on the backfoot")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131906/australia-seek-points-and-perfection-against-confident-new-zealand "Australia seek points and perfection against confident New Zealand ")
+
+[Australia seek points and perfection against confident New Zealand](https://www.cricbuzz.com/cricket-news/131906/australia-seek-points-and-perfection-against-confident-new-zealand "Australia seek points and perfection against confident New Zealand ")
 
 3h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131900/jones-chase-power-kings-to-maiden-cpl-title "Jones, Chase power Kings to maiden CPL title")
+  [](https://www.cricbuzz.com/cricket-news/131905/pakistan-release-zahid-mahmood-noman-ali-from-squad "Pakistan release Zahid Mahmood, Noman Ali from squad")
 
-[Jones, Chase power Kings to maiden CPL title](https://www.cricbuzz.com/cricket-news/131900/jones-chase-power-kings-to-maiden-cpl-title "Jones, Chase power Kings to maiden CPL title")
+[Pakistan release Zahid Mahmood, Noman Ali from squad](https://www.cricbuzz.com/cricket-news/131905/pakistan-release-zahid-mahmood-noman-ali-from-squad "Pakistan release Zahid Mahmood, Noman Ali from squad")
 
-3h ago
+4h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131899/our-batters-dont-know-how-to-score-180-runs-najmul-hossain-shanto "Our batters don't know how to score 180 runs - Najmul Hossain Shanto")
+  [](https://www.cricbuzz.com/cricket-news/131904/new-zealand-womens-team-to-tour-india-for-3-odis-after-world-cup "New Zealand women's team to tour India for 3 ODIs after World Cup")
 
-[Our batters don't know how to score 180 runs - Najmul Hossain Shanto](https://www.cricbuzz.com/cricket-news/131899/our-batters-dont-know-how-to-score-180-runs-najmul-hossain-shanto "Our batters don't know how to score 180 runs - Najmul Hossain Shanto")
+[New Zealand women's team to tour India for 3 ODIs after World Cup](https://www.cricbuzz.com/cricket-news/131904/new-zealand-womens-team-to-tour-india-for-3-odis-after-world-cup "New Zealand women's team to tour India for 3 ODIs after World Cup")
 
 5h ago
 
-  [](https://www.cricbuzz.com/cricket-news/131898/overspin-and-opportunity-varun-chakaravarthys-road-to-redemption "Overspin and opportunity: Varun Chakaravarthy's road to redemption")
+  [](https://www.cricbuzz.com/cricket-news/131903/masood-shafique-lead-pakistans-attacking-start "Masood, Shafique lead Pakistan's attacking start")
 
-[Overspin and opportunity: Varun Chakaravarthy's road to redemption](https://www.cricbuzz.com/cricket-news/131898/overspin-and-opportunity-varun-chakaravarthys-road-to-redemption "Overspin and opportunity: Varun Chakaravarthy's road to redemption")
+[Masood, Shafique lead Pakistan's attacking start](https://www.cricbuzz.com/cricket-news/131903/masood-shafique-lead-pakistans-attacking-start "Masood, Shafique lead Pakistan's attacking start")
+
+5h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131902/jayasuriya-appointed-full-time-head-coach-of-sri-lanka "Jayasuriya appointed full-time head coach of Sri Lanka")
+
+[Jayasuriya appointed full-time head coach of Sri Lanka](https://www.cricbuzz.com/cricket-news/131902/jayasuriya-appointed-full-time-head-coach-of-sri-lanka "Jayasuriya appointed full-time head coach of Sri Lanka")
 
 6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131897/west-indies-decimate-scotland-to-open-world-cup-account "West Indies decimate Scotland to open World Cup account")
-
-[West Indies decimate Scotland to open World Cup account](https://www.cricbuzz.com/cricket-news/131897/west-indies-decimate-scotland-to-open-world-cup-account "West Indies decimate Scotland to open World Cup account")
-
-13h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131896/india-school-bangladesh-to-go-up-1-0 "India school Bangladesh to go up 1-0")
-
-[India school Bangladesh to go up 1-0](https://www.cricbuzz.com/cricket-news/131896/india-school-bangladesh-to-go-up-1-0 "India school Bangladesh to go up 1-0")
-
-14h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
