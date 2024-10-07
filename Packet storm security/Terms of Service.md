@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-exploit the possibilities
+what you don't know can hurt you
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -54,20 +54,44 @@ Top Authors In Last 30 Days
 ---------------------------
 
 * [Red Hat](https://packetstormsecurity.com/files/authors/4676) 204 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 173 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 92 files
+* [indoushka](https://packetstormsecurity.com/files/authors/7697) 178 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 93 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 32 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 18 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 20 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 10 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 9 files
 * [malvuln](https://packetstormsecurity.com/files/authors/15382) 8 files
 * [Rubén López Herrera](https://packetstormsecurity.com/files/authors/17526) 5 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 5 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 5 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[About A Quarter Million Comcast Subscribers Had Their Data Stolen From Debt Collector](https://packetstormsecurity.com/news/view/36440/About-A-Quarter-Million-Comcast-Subscribers-Had-Their-Data-Stolen-From-Debt-Collector.html)
+
+Posted [Oct 7, 2024](https://packetstormsecurity.com/news/date/2024-10-07/ "13:32:31 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36440/) | [View](https://www.theregister.com/2024/10/04/comcast_fcbs_ransomware_theft/)
+
+[Apple Couldn't Tell Fake iPhones From Real Ones, Lost $2.5M In Scam](https://packetstormsecurity.com/news/view/36439/Apple-Couldnt-Tell-Fake-iPhones-From-Real-Ones-Lost-2.5M-In-Scam.html)
+
+Posted [Oct 7, 2024](https://packetstormsecurity.com/news/date/2024-10-07/ "13:32:27 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [phone](https://packetstormsecurity.com/news/tags/phone), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [apple](https://packetstormsecurity.com/news/tags/apple)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36439/) | [View](https://arstechnica.com/tech-policy/2024/10/fraudsters-faked-out-apple-with-bogus-iphones-in-2-5m-repair-scam/)
+
+[Antimatter Could Be The Key To Solving The Universe's Biggest Mysteries](https://packetstormsecurity.com/news/view/36435/Antimatter-Could-Be-The-Key-To-Solving-The-Universes-Biggest-Mysteries.html)
+
+Posted [Oct 7, 2024](https://packetstormsecurity.com/news/date/2024-10-07/ "13:31:56 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [space](https://packetstormsecurity.com/news/tags/space)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36435/) | [View](https://gizmodo.com/scientists-are-using-antimatter-to-unlock-the-universes-biggest-secrets-2000506504)
 
 [LLM Hijacking Of Cloud Infrastructure Uncovered By Researchers](https://packetstormsecurity.com/news/view/36433/LLM-Hijacking-Of-Cloud-Infrastructure-Uncovered-By-Researchers.html)
 
@@ -76,6 +100,38 @@ Posted [Oct 4, 2024](https://packetstormsecurity.com/news/date/2024-10-04/ "18:0
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36433/) | [View](https://www.scworld.com/news/llm-hijacking-of-cloud-infrastructure-uncovered-by-researchers)
+
+[Ransomware Hits Critical Infrastructure Hard, Costs Adding Up](https://packetstormsecurity.com/news/view/36432/Ransomware-Hits-Critical-Infrastructure-Hard-Costs-Adding-Up.html)
+
+Posted [Oct 4, 2024](https://packetstormsecurity.com/news/date/2024-10-04/ "18:08:33 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [russia](https://packetstormsecurity.com/news/tags/russia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [scada](https://packetstormsecurity.com/news/tags/scada), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36432/) | [View](https://www.securityweek.com/ransomware-hits-critical-infrastructure-hard-costs-adding-up/)
+
+[Thousands Of Linux Systems Infected By Malware Since 2021](https://packetstormsecurity.com/news/view/36431/Thousands-Of-Linux-Systems-Infected-By-Malware-Since-2021.html)
+
+Posted [Oct 4, 2024](https://packetstormsecurity.com/news/date/2024-10-04/ "18:08:28 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [linux](https://packetstormsecurity.com/news/tags/linux), [backdoor](https://packetstormsecurity.com/news/tags/backdoor), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36431/) | [View](https://arstechnica.com/security/2024/10/persistent-stealthy-linux-malware-has-infected-thousands-since-2021/)
+
+[DOJ, Microsoft Take Down 107 Russian-Backed Star Blizzards Domains](https://packetstormsecurity.com/news/view/36430/DOJ-Microsoft-Take-Down-107-Russian-Backed-Star-Blizzards-Domains.html)
+
+Posted [Oct 4, 2024](https://packetstormsecurity.com/news/date/2024-10-04/ "18:08:22 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [usa](https://packetstormsecurity.com/news/tags/usa), [russia](https://packetstormsecurity.com/news/tags/russia), [dns](https://packetstormsecurity.com/news/tags/dns)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36430/) | [View](https://www.scworld.com/news/doj-microsoft-take-down-107-russian-backed-star-blizzard-domains)
+
+[Harvard Duo Hacks Meta Ray-Bans To Dox Strangers On Site In Seconds](https://packetstormsecurity.com/news/view/36429/Harvard-Duo-Hacks-Meta-Ray-Bans-To-Dox-Strangers-On-Site-In-Seconds.html)
+
+Posted [Oct 4, 2024](https://packetstormsecurity.com/news/date/2024-10-04/ "18:08:17 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [spyware](https://packetstormsecurity.com/news/tags/spyware), [facebook](https://packetstormsecurity.com/news/tags/facebook)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36429/) | [View](https://www.theregister.com/2024/10/04/harvard_engineer_meta_smart_glasses/)
 
 [Ransowmare Crew Infects 100+ Orgs Monthly With New MedusaLocker Variant](https://packetstormsecurity.com/news/view/36428/Ransowmare-Crew-Infects-100-Orgs-Monthly-With-New-MedusaLocker-Variant.html)
 
@@ -92,62 +148,6 @@ Posted [Oct 3, 2024](https://packetstormsecurity.com/news/date/2024-10-03/ "13:2
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [iran](https://packetstormsecurity.com/news/tags/iran), [cia](https://packetstormsecurity.com/news/tags/cia), [north korea](https://packetstormsecurity.com/news/tags/north_korea)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36427/) | [View](https://www.bbc.com/news/articles/cwyvng0jw78o)
-
-[Ivanti EPM Vulnerability Exploited In The Wild](https://packetstormsecurity.com/news/view/36426/Ivanti-EPM-Vulnerability-Exploited-In-The-Wild.html)
-
-Posted [Oct 3, 2024](https://packetstormsecurity.com/news/date/2024-10-03/ "13:23:06 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36426/) | [View](https://www.securityweek.com/ivanti-epm-vulnerability-exploited-in-the-wild/)
-
-[Zero-Day Breach At Rackspace Sparks Vendor Blame Game](https://packetstormsecurity.com/news/view/36425/Zero-Day-Breach-At-Rackspace-Sparks-Vendor-Blame-Game.html)
-
-Posted [Oct 3, 2024](https://packetstormsecurity.com/news/date/2024-10-03/ "13:23:00 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36425/) | [View](https://www.securityweek.com/zero-day-breach-at-rackspace-sparks-vendor-blame-game/)
-
-[14 DrayTek Vulns Patched, Including RCE Flaw](https://packetstormsecurity.com/news/view/36424/14-DrayTek-Vulns-Patched-Including-RCE-Flaw.html)
-
-Posted [Oct 3, 2024](https://packetstormsecurity.com/news/date/2024-10-03/ "13:22:48 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36424/) | [View](https://www.scworld.com/news/14-draytek-vulnerabilities-patched-including-max-severity-rce-flaw)
-
-[Evil Corp/REvil Malware Crime Group Outed As Family Affair](https://packetstormsecurity.com/news/view/36423/Evil-Corp-REvil-Malware-Crime-Group-Outed-As-Family-Affair.html)
-
-Posted [Oct 2, 2024](https://packetstormsecurity.com/news/date/2024-10-02/ "13:42:21 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [russia](https://packetstormsecurity.com/news/tags/russia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36423/) | [View](https://www.scworld.com/news/evil-corprevil-malware-crime-group-outed-as-a-family-affair)
-
-[The Fix For BGP's Weaknesses Has Issues Of Its Own](https://packetstormsecurity.com/news/view/36422/The-Fix-For-BGPs-Weaknesses-Has-Issues-Of-Its-Own.html)
-
-Posted [Oct 2, 2024](https://packetstormsecurity.com/news/date/2024-10-02/ "13:42:18 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36422/) | [View](https://www.theregister.com/2024/10/02/rpki_immaturity_study/)
-
-[NIST's Security Flaw Database Still Backlogged With 17k+ Unprocessed Bugs. Not Great](https://packetstormsecurity.com/news/view/36421/NISTs-Security-Flaw-Database-Still-Backlogged-With-17k-Unprocessed-Bugs.-Not-Great.html)
-
-Posted [Oct 2, 2024](https://packetstormsecurity.com/news/date/2024-10-02/ "13:42:01 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36421/) | [View](https://www.theregister.com/2024/10/02/cve_pileup_nvd_missed_deadline/)
-
-[Record Breaking DDoS Attack Peaked At 3.8 Tbps, 2.14 Billion Pps](https://packetstormsecurity.com/news/view/36420/Record-Breaking-DDoS-Attack-Peaked-At-3.8-Tbps-2.14-Billion-Pps.html)
-
-Posted [Oct 2, 2024](https://packetstormsecurity.com/news/date/2024-10-02/ "13:41:58 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36420/) | [View](https://www.securityweek.com/record-breaking-ddos-attack-peaked-at-3-8-tbps-2-14-billion-pps/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2609814817&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2609814817.1728291930.1728291930.1728291930.1%3B%2B__utmz%3D32867617.1728291930.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2424513290&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2424513290.1728314365.1728314365.1728314365.1%3B%2B__utmz%3D32867617.1728314365.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
