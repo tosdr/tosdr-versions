@@ -177,6 +177,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [KCI's NEW 100-Round 5.56 AK Drum](https://www.thegunpage.com/kcis-new-100-round-5-56-ak-drum/10611037)
 * [The Whitetail Forge Knife Goes to Africa](https://www.thegunpage.com/the-whitetail-forge-knife-goes-to-africa/10611034)
 * [15 Great Photos From The 2024 NRA National High Power Rifle Championships](https://www.thegunpage.com/15-great-photos-from-the-2024-nra-national-high-power-rifle-championships/10611032)
 * [(00)7 James Bond Guns You Didn’t Know About](https://www.thegunpage.com/007-james-bond-guns-you-didnt-know-about/10611024)
@@ -186,7 +187,6 @@ Recent Posts
 * [Classic SSUSA: Volunteers At The NRA National Matches](https://www.thegunpage.com/classic-ssusa-volunteers-at-the-nra-national-matches/10611016)
 * [SCOTUS Takes Case Concerning Mexico’s Lawsuit Against U.S. Gunmakers](https://www.thegunpage.com/scotus-takes-case-concerning-mexicos-lawsuit-against-u-s-gunmakers/10611012)
 * [The History of PKM, the Most Common Machine Gun In the World. Part 3](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-3/10611015)
-* [POTD: The Sako TRG M10](https://www.thegunpage.com/potd-the-sako-trg-m10/10611009)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
