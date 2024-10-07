@@ -66,17 +66,17 @@ Search for:
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Biden bewildered about people in storm zone, blurts out ‘they’re very happy’](https://americanwirenews.com/biden-bewildered-about-people-in-storm-zone-blurts-out-theyre-very-happy/)
+### [FEMA whistleblowers stepping forward in wake of deadly failures](https://americanwirenews.com/fema-whistleblowers-stepping-forward-in-wake-of-deadly-failures/)
 
-### [Trump campaign: ‘Kamala loves two things… herself and illegal immigrants’](https://americanwirenews.com/trump-campaign-kamala-loves-two-things-herself-and-illegal-immigrants/)
+### [DeSantis is getting credit for ending port strike with brilliant move](https://americanwirenews.com/desantis-is-getting-credit-for-ending-port-strike-with-brilliant-move/)
 
-### [Harris may have path to victory with newly naturalized citizens playing a role in swing states: report](https://americanwirenews.com/harris-may-have-path-to-victory-with-newly-naturalized-citizens-playing-a-role-in-swing-states-report/)
+### [Kamala’s teleprompter malfunctions — she quickly follows suit](https://americanwirenews.com/kamalas-teleprompter-malfunctions-and-then-she-follows-suit/)
 
-### [Singer who wrote popular pro-Trump song ‘Fighter’ shares inspiration](https://americanwirenews.com/singer-who-wrote-popular-pro-trump-song-fighter-shares-inspiration/)
+### [Musk exposes FEMA for blocking hurricane aid: My blood is boiling’](https://americanwirenews.com/musk-exposes-fema-for-blocking-hurricane-aid-my-blood-is-boiling/)
 
-### [‘Snow White’ actress plays victim, suggests critics of troubled Disney remake are sexist](https://americanwirenews.com/snow-white-actress-plays-victim-suggests-critics-of-troubled-disney-remake-are-sexist/)
+### [Kayleigh: Trump’s return to site of assassination attempt to be a ‘powerful, historic’ moment](https://americanwirenews.com/kayleigh-trumps-return-to-site-of-assassination-attempt-to-be-a-powerful-historic-moment/)
 
-### [Despite two assassination attempts, Joy Reid still calling for violence against Trump](https://americanwirenews.com/despite-two-assassination-attempts-joy-reid-still-calling-for-violence-against-trump/)
+### [DeSantis talks about NC rescue mission and lesson learned about waiting for feds](https://americanwirenews.com/desantis-talks-about-nc-rescue-mission-and-lesson-learned-about-waiting-for-feds/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
@@ -262,9 +262,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-jacksmith-cnnlegal-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/cnn-legal-analyst-torches-jack-smiths-last-ditch-filling-against-trump-as-unscrupulous-political-ploy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sampower-1200-x-628-1200x630.jpg)](https://americanwirenews.com/samantha-power-boasts-about-lighting-up-ukraine-as-hurricane-victims-suffer-without-power/)
 
-[CNN legal analyst torches Jack Smith’s last-ditch filling against Trump as unscrupulous political ploy](https://americanwirenews.com/cnn-legal-analyst-torches-jack-smiths-last-ditch-filling-against-trump-as-unscrupulous-political-ploy/)
+[Samantha Power boasts about lighting up Ukraine as hurricane victims suffer without power](https://americanwirenews.com/samantha-power-boasts-about-lighting-up-ukraine-as-hurricane-victims-suffer-without-power/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sampower-1200-x-628-220x180.jpg)](https://americanwirenews.com/samantha-power-boasts-about-lighting-up-ukraine-as-hurricane-victims-suffer-without-power/)
+
+[Samantha Power boasts about lighting up Ukraine as hurricane victims suffer without power](https://americanwirenews.com/samantha-power-boasts-about-lighting-up-ukraine-as-hurricane-victims-suffer-without-power/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-jacksmith-cnnlegal-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnn-legal-analyst-torches-jack-smiths-last-ditch-filling-against-trump-as-unscrupulous-political-ploy/)
 
@@ -281,12 +285,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-acosta-lewandowski-220x180.jpg)](https://americanwirenews.com/cnns-jim-acosta-snaps-over-how-trump-adviser-lewandowski-keeps-pronouncing-kamala/)
 
 [CNN’s Jim Acosta snaps over how Trump adviser Lewandowski keeps pronouncing ‘Kamala’](https://americanwirenews.com/cnns-jim-acosta-snaps-over-how-trump-adviser-lewandowski-keeps-pronouncing-kamala/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-emhoff-220x180.jpg)](https://americanwirenews.com/kamala-harriss-husband-accused-of-2012-assault-of-ex-girlfriend/)
-
-[Kamala Harris’s husband accused of 2012 assault of ex-girlfriend
-
-(Official White House Photo by Adam Schultz)](https://americanwirenews.com/kamala-harriss-husband-accused-of-2012-assault-of-ex-girlfriend/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
