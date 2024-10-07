@@ -25,7 +25,7 @@ Open menu
     * Back to menu
     * [Documentation](https://help.ovhcloud.com/csm/en-ie-documentation?id=kb_home)
     * [Tutorials](https://www.ovhcloud.com/en-ie/community/tutorials/)
-    * [Use cases](https://www.ovhcloud.com/en-ie/use-cases/)
+    * [Use cases](https://www.ovhcloud.com/en-ie/solutions/use-cases/)
     * [Developer Centre](https://www.ovhcloud.com/en-ie/developer-center/)
     * [Learning Centre](https://www.ovhcloud.com/en-ie/learn/)
     * [Compliance](https://www.ovhcloud.com/en-ie/compliance/)
@@ -325,6 +325,7 @@ Log in to order, manage your products and services, and track your orders.
             
             * Ecosystem of services Accelerate your business, automate your infrastructure
             * [Pricing](https://www.ovhcloud.com/en-ie/public-cloud/prices/) View our simple, accessible pricing
+            * [Savings Plan New](https://www.ovhcloud.com/en-ie/public-cloud/savings-plan/) Sign up for commitments that get you better deals on your resources.
             * [Public Cloud free trial](https://www.ovhcloud.com/en-ie/public-cloud/free-trial/) Test our solutions at no cost
             * [The advantages of the Public Cloud solution](https://www.ovhcloud.com/en-ie/public-cloud/why-ovh-public-cloud/) Explore cloud computing solutions to fit your needs
             * [Cloud computing](https://www.ovhcloud.com/en-ie/public-cloud/cloud-computing/) Find out more about this growing practice
