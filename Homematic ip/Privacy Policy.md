@@ -315,17 +315,13 @@ News
 
 Sicherheits-Champion: Homematic IP zum achten Mal in Folge vom VDE zertifiziert](https://homematic-ip.com/de/news/sicherheits-champion-homematic-ip-zum-achten-mal-folge-vom-vde-zertifiziert)
 
- [![](/sites/default/files/styles/thumbnail/public/images/website_grafik_kundenumfrage_vivika.jpg.webp?itok=u6jG2RY8)
-
-Umfrage
-
-Feedback geben und gewinnen! Füllen Sie die Umfrage aus und sichern Sie sich tolle Preise.](https://homematic-ip.com/de/umfrage)
-
 [Okt.
 
 10-12
 
-Event](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-10-bauhaus-berlin-schoeneberg)
+Event
+
+BAUHAUS Berlin-Schöneberg: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-10-10-bauhaus-berlin-schoeneberg)
 
 *  [![DE](/modules/contrib/languageicons/flags/de.png "DE") DE](https://homematic-ip.com/de/datenschutz-app)
 *  [![EN](/modules/contrib/languageicons/flags/en.png "EN") EN](https://homematic-ip.com/en/data-protection-app)
