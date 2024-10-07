@@ -118,57 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Anri van der Linde
+Johan Botha - Brand Xplosion
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=72017035)  
-SR Travel Services
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=95919136)  
+MOSELA GROUP Pty(ltd)
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=163825345)  
-kidoscabbie
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=52234635)  
+Wiselink Broadband Vryheid
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=51665439)  
-Salvage Genie
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=55970843)  
+NEW BEGINNINGS DESIGNS
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=190900878)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=149918762)  
+Iurus Inc
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=98698838)  
-TIGERDSL
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=65231766)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=54306405)  
-Qothiphango Mining
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=47792744)  
+Firstweb Hosting & Design
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=68593839)  
-Vplay Grafix
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=21806344)  
+ELLIE'S CLEANING CHICKS
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=68373500)  
-MONSTER CONNECT (PTY) LTD
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=213411813)  
-Entidee Enterprise PTY (ltd)
-
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=124580225)  
-Konsortium Operations (PTY) LTD
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=72923173)  
-Desygn
-
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=68773041)  
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=52354573)  
 Stories (Pty) Ltd t/a Storietyd
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=58614558)  
-Mountain Lion Properties
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=136981335)  
+Multi CNC Solutions CC
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=161762429)  
-Henry's Home Renovations
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=126128608)  
+PROGRAPHIX PTY LTD
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=209408558)  
-VIR Electrical (PTY) LTD
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=105515592)  
+Lion Software Develepment
+
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=132579898)  
+Druce Digital
+
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=110366730)  
+Three Moons Emporium
+
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=166131934)  
+Goju-Ryu Pretoria East
+
+![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=53508df0522fb4814bc0352742bcc2e68564c34c6bb300a52150ae9d895a91be&c=156439296)  
+PHESA TECHNOLOGY(PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
