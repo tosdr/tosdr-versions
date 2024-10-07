@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
-* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
+* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
+* [Legalisierung von Cannabis: Neuer THC-Grenz­wert im Straßenverkehr](https://www.test.de/Cannabis-im-Strassenverkehr-6134438-0/ "Legalisierung von Cannabis - Neuer THC-Grenzwert im Straßenverkehr")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
+* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
-* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
+* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
+* [Legalisierung von Cannabis: Neuer THC-Grenz­wert im Straßenverkehr](https://www.test.de/Cannabis-im-Strassenverkehr-6134438-0/ "Legalisierung von Cannabis - Neuer THC-Grenzwert im Straßenverkehr")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
+* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
-* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
+* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
+* [Legalisierung von Cannabis: Neuer THC-Grenz­wert im Straßenverkehr](https://www.test.de/Cannabis-im-Strassenverkehr-6134438-0/ "Legalisierung von Cannabis - Neuer THC-Grenzwert im Straßenverkehr")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
+* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dubioses Portal: Zweifelhafte Kredite](https://www.test.de/Dubioses-Portal-Zweifelhafte-Kredite-6026868-0/ "Dubioses Portal - Zweifelhafte Kredite")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
-* [Tier­patenschaften im Vergleich: Spenden für Tiere – auf Trans­parenz achten](https://www.test.de/Tierpatenschaften-im-Vergleich-Spenden-fuer-Tiere-auf-Transparenz-achten-6070823-0/ "Tierpatenschaften im Vergleich - Spenden für Tiere – auf Transparenz achten")
+* [Long Covid: Von Corona ausgebremst – Wo Sie Hilfe finden](https://www.test.de/Long-Covid-Ploetzlich-ausgebremst-5933790-0/ "Long Covid - Von Corona ausgebremst – Wo Sie Hilfe finden")
+* [Legalisierung von Cannabis: Neuer THC-Grenz­wert im Straßenverkehr](https://www.test.de/Cannabis-im-Strassenverkehr-6134438-0/ "Legalisierung von Cannabis - Neuer THC-Grenzwert im Straßenverkehr")
+* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
+* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
 
 Service Stiftung Warentest
 
