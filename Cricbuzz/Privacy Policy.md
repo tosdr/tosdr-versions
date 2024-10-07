@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BAN vs IND - IND Won](https://www.cricbuzz.com/live-cricket-scores/100238/ban-vs-ind-1st-t20i-bangladesh-tour-of-india-2024 "Bangladesh v India, 1st T20I - IND Won")[SCOW vs WIW - WIW Won](https://www.cricbuzz.com/live-cricket-scores/94595/scow-vs-wiw-8th-match-group-b-icc-womens-t20-world-cup-2024 "Scotland Women v West Indies Women, 8th Match, Group B - WIW Won")[PAKW vs INDW - INDW Won](https://www.cricbuzz.com/live-cricket-scores/94586/pakw-vs-indw-7th-match-group-a-icc-womens-t20-world-cup-2024 "Pakistan Women v India Women, 7th Match, Group A - INDW Won")[SLK vs GAW - Preview](https://www.cricbuzz.com/live-cricket-scores/92964/slk-vs-gaw-final-caribbean-premier-league-2024 "Saint Lucia Kings v Guyana Amazon Warriors, Final - Preview")[PAK vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[GAW vs SLK - Ings Break](https://www.cricbuzz.com/live-cricket-scores/92964/gaw-vs-slk-final-caribbean-premier-league-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Final - Ings Break")[BAN vs IND - IND Won](https://www.cricbuzz.com/live-cricket-scores/100238/ban-vs-ind-1st-t20i-bangladesh-tour-of-india-2024 "Bangladesh v India, 1st T20I - IND Won")[SCOW vs WIW - WIW Won](https://www.cricbuzz.com/live-cricket-scores/94595/scow-vs-wiw-8th-match-group-b-icc-womens-t20-world-cup-2024 "Scotland Women v West Indies Women, 8th Match, Group B - WIW Won")[PAKW vs INDW - INDW Won](https://www.cricbuzz.com/live-cricket-scores/94586/pakw-vs-indw-7th-match-group-a-icc-womens-t20-world-cup-2024 "Pakistan Women v India Women, 7th Match, Group A - INDW Won")[PAK vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Preview")
 
 AllLive NowToday
 
@@ -62,11 +62,7 @@ AllLive NowToday
     
 * South Africa vs Ireland, 2024
     
-    [South Africa vs Ireland](https://www.cricbuzz.com/live-cricket-scores/93659/rsa-vs-ire-2nd-odi-south-africa-vs-ireland-2024 "South Africa v Ireland, 2nd ODI - RSA Won")
-    
-    2nd ODI
-    
-* [Ireland vs South Africa](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-south-africa-vs-ireland-2024 "Ireland v South Africa, 3rd ODI - Preview")
+    [Ireland vs South Africa](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-south-africa-vs-ireland-2024 "Ireland v South Africa, 3rd ODI - Preview")
     
     3rd ODI
     
@@ -100,25 +96,13 @@ AllLive NowToday
     
     Qualifier 2
     
-* [Saint Lucia Kings vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92964/slk-vs-gaw-final-cpl-2024 "Saint Lucia Kings v Guyana Amazon Warriors, Final - Preview")
+* [Guyana Amazon Warriors vs Saint Lucia Kings](https://www.cricbuzz.com/live-cricket-scores/92964/gaw-vs-slk-final-cpl-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Final - Ings Break")
     
     Final
     
 * CSA T20 Challenge
     
-    [Western Province vs North West](https://www.cricbuzz.com/live-cricket-scores/103440/wpr-vs-nwest-8th-match-csa-t20-challenge "Western Province v North West, 8th Match - NWEST Won")
-    
-    8th Match
-    
-* [Lions vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103431/lions-vs-war-7th-match-csa-t20-challenge "Lions v Warriors, 7th Match - LIONS Won")
-    
-    7th Match
-    
-* [Boland vs Knights](https://www.cricbuzz.com/live-cricket-scores/103413/bol-vs-kng-6th-match-csa-t20-challenge "Boland v Knights, 6th Match - BOL Won")
-    
-    6th Match
-    
-* [North West vs Boland](https://www.cricbuzz.com/live-cricket-scores/103467/nwest-vs-bol-12th-match-csa-t20-challenge "North West v Boland, 12th Match - NWEST Won")
+    [North West vs Boland](https://www.cricbuzz.com/live-cricket-scores/103467/nwest-vs-bol-12th-match-csa-t20-challenge "North West v Boland, 12th Match - NWEST Won")
     
     12th Match
     
@@ -251,6 +235,10 @@ AllLive NowToday
 * [China Women vs Mongolia Women](https://www.cricbuzz.com/live-cricket-scores/108361/chnw-vs-mglw-2nd-match-womens-east-asia-cup-2024 "China Women v Mongolia Women, 2nd Match - Upcoming")
     
     2nd Match
+    
+* [South Korea Women vs Mongolia Women](https://www.cricbuzz.com/live-cricket-scores/108363/skrw-vs-mglw-3rd-match-womens-east-asia-cup-2024 "South Korea Women v Mongolia Women, 3rd Match - Upcoming")
+    
+    3rd Match
     
 
 Privacy Policy
@@ -559,41 +547,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131899/our-batters-dont-know-how-to-score-180-runs-najmul-hossain-shanto "Our batters don't know how to score 180 runs - Najmul Hossain Shanto")
+
+[Our batters don't know how to score 180 runs - Najmul Hossain Shanto](https://www.cricbuzz.com/cricket-news/131899/our-batters-dont-know-how-to-score-180-runs-najmul-hossain-shanto "Our batters don't know how to score 180 runs - Najmul Hossain Shanto")
+
+1m ago
+
+  [](https://www.cricbuzz.com/cricket-news/131898/overspin-and-opportunity-varun-chakaravarthys-road-to-redemption "Overspin and opportunity: Varun Chakaravarthy's road to redemption")
+
+[Overspin and opportunity: Varun Chakaravarthy's road to redemption](https://www.cricbuzz.com/cricket-news/131898/overspin-and-opportunity-varun-chakaravarthys-road-to-redemption "Overspin and opportunity: Varun Chakaravarthy's road to redemption")
+
+36m ago
+
   [](https://www.cricbuzz.com/cricket-news/131897/west-indies-decimate-scotland-to-open-world-cup-account "West Indies decimate Scotland to open World Cup account")
 
 [West Indies decimate Scotland to open World Cup account](https://www.cricbuzz.com/cricket-news/131897/west-indies-decimate-scotland-to-open-world-cup-account "West Indies decimate Scotland to open World Cup account")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/131896/india-school-bangladesh-to-go-up-1-0 "India school Bangladesh to go up 1-0")
 
 [India school Bangladesh to go up 1-0](https://www.cricbuzz.com/cricket-news/131896/india-school-bangladesh-to-go-up-1-0 "India school Bangladesh to go up 1-0")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/131895/arundhati-reddy-shreyanka-patil-star-as-india-get-off-the-mark "Arundhati Reddy, Shreyanka Patil star as India get off the mark")
 
 [Arundhati Reddy, Shreyanka Patil star as India get off the mark](https://www.cricbuzz.com/cricket-news/131895/arundhati-reddy-shreyanka-patil-star-as-india-get-off-the-mark "Arundhati Reddy, Shreyanka Patil star as India get off the mark")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/131894/shan-masood-wants-pakistan-to-draw-inspiration-from-2022-england-series "Shan Masood wants Pakistan to draw inspiration from 2022 England series")
 
 [Shan Masood wants Pakistan to draw inspiration from 2022 England series](https://www.cricbuzz.com/cricket-news/131894/shan-masood-wants-pakistan-to-draw-inspiration-from-2022-england-series "Shan Masood wants Pakistan to draw inspiration from 2022 England series")
 
-7h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131893/temba-bavuma-out-of-final-ireland-odi "Temba Bavuma out of final Ireland ODI")
-
-[Temba Bavuma out of final Ireland ODI](https://www.cricbuzz.com/cricket-news/131893/temba-bavuma-out-of-final-ireland-odi "Temba Bavuma out of final Ireland ODI")
-
-8h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131892/england-south-africa-set-for-key-showdown-in-tough-sharjah-conditions "England, South Africa set for key showdown in tough Sharjah conditions")
-
-[England, South Africa set for key showdown in tough Sharjah conditions](https://www.cricbuzz.com/cricket-news/131892/england-south-africa-set-for-key-showdown-in-tough-sharjah-conditions "England, South Africa set for key showdown in tough Sharjah conditions")
-
-10h ago
+13h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
