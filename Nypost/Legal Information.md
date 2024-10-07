@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Sledgehammer-wielding men smash window of Upper East Side Chanel store](https://nypost.com/2024/10/07/us-news/sledgehammer-wielding-men-smash-window-of-nyc-chanel-store/)
+
 Privacy Notice Highlights
 =========================
 
