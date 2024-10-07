@@ -137,10 +137,10 @@ MSX Music player
 
 Latest reactions
 
+* [Tiny Magic update, new batch and soundtrack CD](https://www.msx.org/news/software/en/tiny-magic-update "Tiny Magic update, new batch and soundtrack CD")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
-* [Tiny Magic update, new batch and soundtrack CD](https://www.msx.org/news/software/en/tiny-magic-update "Tiny Magic update, new batch and soundtrack CD")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
 * [Tiny Magic](https://www.msx.org/news/software/en/tiny-magic "Tiny Magic")
@@ -150,10 +150,10 @@ Latest reactions
 
 Latest forum posts
 
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=65 "WonderTANG! Who wants to juice up your MSX?")
-* [\[Nifty\] Tearless Flickerfree Screen Updating](https://www.msx.org/forum/msx-talk/development/nifty-tearless-screen-updating "[Nifty] Tearless Flickerfree Screen Updating")
-* [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
 * [Aleste 2 manual automated translation](https://www.msx.org/forum/msx-talk/general-discussion/aleste-2-manual-automated-translation "Aleste 2 manual automated translation")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=66 "WonderTANG! Who wants to juice up your MSX?")
+* [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
+* [\[Nifty\] Tearless Flickerfree Screen Updating](https://www.msx.org/forum/msx-talk/development/nifty-tearless-screen-updating "[Nifty] Tearless Flickerfree Screen Updating")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 * [Firebird T-shirt](https://www.msx.org/forum/msx-talk/off-topic/firebird-t-shirt "Firebird T-shirt")
 * [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic?page=3 "HB-F1XD reboots/freezes in basic")
@@ -178,7 +178,7 @@ News headlines
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl "Hype OPL3")
+* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 
