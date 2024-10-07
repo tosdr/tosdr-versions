@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Manic Panic Ghosts](https://www.myabandonware.com/game/manic-panic-ghosts-spf)
-* [Mamoru-kun wa Norowarete Shimatta!](https://www.myabandonware.com/game/mamoru-kun-wa-norowarete-shimatta-spe)
-* [Magical Truck Adventure](https://www.myabandonware.com/game/magical-truck-adventure-spb)
-* [Magical Tetris Challenge](https://www.myabandonware.com/game/magical-tetris-challenge-spa)
-* [Magical Speed](https://www.myabandonware.com/game/magical-speed-sp9)
+* [Downtown Challenge](https://www.myabandonware.com/game/downtown-challenge-s5q)
+* [Landing Gear](https://www.myabandonware.com/game/landing-gear-spp)
+* [L.A. Machineguns: Rage of the Machines](https://www.myabandonware.com/game/l-a-machineguns-rage-of-the-machines-spo)
+* [Knights of Valour: The Seven Spirits](https://www.myabandonware.com/game/knights-of-valour-the-seven-spirits-spn)
+* [Jurassic Park III](https://www.myabandonware.com/game/jurassic-park-iii-spm)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
