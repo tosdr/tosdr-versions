@@ -109,6 +109,7 @@ Search
         * [ePlus Lifecycle Services Support](https://www.eplus.com/services/managed-services/eplus-lifecycle-services-support)
         * [Enhanced Maintenance Support](https://www.eplus.com/services/managed-services/enhanced-maintenance-support)
         * [Collaboration as a Service](https://www.eplus.com/services/managed-services/collaboration-as-a-service)
+        * [Managed Network Services](https://www.eplus.com/services/managed-services/managed-network-services)
         * [ePlus Service Desk](https://www.eplus.com/services/managed-services/eplus-service-desk)
         * [Asset Management Service](https://www.eplus.com/services/managed-services/asset-management-service)
     * [Customer Experience (CX)](https://www.eplus.com/services/customer-Experience)
