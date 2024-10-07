@@ -108,8 +108,8 @@ Public Notices
 
 [![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/custom/image/95cd45de-f056-11ee-9067-1fb0199d8361.png?resize=200%2C34)](https://www.thesheridanpress.com/)
 
-[👉 Take Our Community Survey Today!](https://thesheridanpress.secondstreetapp.com/The-Sheridan-Press-Community-Survey-2024/)
------------------------------------------------------------------------------------------------------------------------------
+**Your Community, Your News, Your Way!**
+----------------------------------------
 
 [Contact Us!](https://www.thesheridanpress.com/site/forms/)
 
