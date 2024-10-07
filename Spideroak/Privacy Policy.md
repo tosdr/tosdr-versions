@@ -135,6 +135,42 @@ Contact Our Team to Learn How SpiderOak Can Eliminate the Risk from Your Next Mi
 
 [Request a Demo](https://spideroak.com/request-a-demo/)
 
+[![SpiderOak](https://spideroak.com/wp-content/uploads/2022/10/spider-oak-logo-COLOR-VECTOR-300x69.png)](https://spideroak.com/)
+
+#### About
+
+[Who Are We](https://spideroak.com/about)  
+[Team](https://spideroak.com/about#team)  
+[Advisory Board](https://spideroak.com/about#advisoryboard)  
+[News](https://spideroak.com/news)  
+[Careers](https://boards.greenhouse.io/spideroak)
+
+#### Support
+
+[Product Release Notes](https://spideroak.com/release-notes/)  
+[Help Center](https://spideroak.support/hc/en-us)  
+[Contact](https://spideroak.support/hc/en-us/requests/new)  
+[Security Response](https://spideroak.com/security-response/)  
+[Transparency Report](https://spideroak.com/transparency/)  
+[Download ONE](https://crossclave.com/opendownload/)
+
+#### Compliance
+
+[HIPAA Compliance](https://spideroak.com/hipaa/)  
+[Service Agreement](https://spideroak.com/service-agreement/)  
+[Privacy Policy](https://spideroak.com/privacy-policy/)  
+[Terms of Service](https://spideroak.com/terms-of-service/)  
+[Law Enforcement](https://spideroak.com/law-enforcement/)  
+[DMCA Notice Submission](https://spideroak.com/dmca-takedown-notice-submission/)
+
+#### SpiderOak Online
+
+  
+[LinkedIn](https://www.linkedin.com/company/spideroak-mission-systems/)  
+[Twitter](https://twitter.com/spideroak)  
+[Facebook](https://www.facebook.com/SpiderOak/)  
+[Vimeo](https://vimeo.com/spideroak)
+
 Get in Touch to Request a Demo
 ------------------------------
 
