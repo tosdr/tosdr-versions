@@ -387,7 +387,7 @@ Updated: April 26, 2021.
 
 Atlanta, GA
 
-67° Arthritis Index Neutral
+88° Arthritis Index Neutral
 
 [See More Details](https://www.arthritis.org/weather)
 
