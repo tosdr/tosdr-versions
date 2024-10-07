@@ -915,8 +915,6 @@ In any case, Freepik will notify or announce the new content and the dates on wh
 
 Content
 
-* [New assets](https://www.freepikcompany.com/new)
-* [The most popular content](https://www.freepikcompany.com/popular)
 * [Search trends](https://www.freepikcompany.com/tags)
 * [Blog](https://www.freepik.com/blog/)
 
