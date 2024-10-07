@@ -73,4 +73,4 @@ Please choose your prefered video player and we’ll save your selection:
 [Check Out Our Latest Book!
 ==========================
 
-![](https://storylineonline.net/wp-content/uploads/2024/05/RodeoRedSOWebsiteThumbnail.png)](https://storylineonline.net/books/rodeo-red)
+![](https://storylineonline.net/wp-content/uploads/2024/06/TheMagiciansHat_SOWebsiteBookThumbnailImage.png)](https://storylineonline.net/books/the-magicians-hat)
