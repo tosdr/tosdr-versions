@@ -780,7 +780,7 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![](//static.rakuten.ca/img/campaign_entity/258100/en_stickyfooter-1170x60_new_stores_.png)](https://www.rakuten.ca/new-stores)
+[![](//static.rakuten.ca/img/campaign_entity/258100/en_stickyfooter-1170x60_new_stores.png)](https://www.rakuten.ca/new-stores)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
