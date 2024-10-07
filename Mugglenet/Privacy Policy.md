@@ -316,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Minerva McGonagall played Quidditch while attending Hogwarts. In her seventh year, she received a concussion and several broken ribs during the Quidditch Cup against Slytherin.
+Despite Natalia Tena’s first audition being described as “a disaster,” she still landed the role of Nymphadora Tonks.
 
 ### Potter History
 
-June 15, 2011 – Pottermore’s teaser website is launched with a countdown to the reveal. No further information is given.
+May 21-24, 2009 – The first LeakyCon is held in Boston, Massachusetts.
 
 ### Potter Quote
 
-“So you’re the guy with the case full of monsters, huh? That can get you killed, Mr. Scamander.”
+“What is it about my presence in your home that displeases you, Lucius?”
 
 [](#)
 
