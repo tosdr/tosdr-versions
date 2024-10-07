@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/kijk-de-covid-volksmanipulatie-door-hugo-de-jonge-cs/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/robert-kennedy-vermoord-via-mind-control-actie/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -217,6 +217,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![cvhvk](https://secure.gravatar.com/avatar/5a94b6722c7850b67340d4c209a777a3?s=50&d=identicon&r=g)
+
+##### **cvhvk** reacts on:
+
+##### De sluiers worden opgelicht..!
+
+[Fantastisch geschreven stuk Harriet !…](https://www.wanttoknow.nl/inspiratie/de-sluiers-worden-opgelicht/comment-page-1/#comment-626333)
 
 ![AntiSoof](https://secure.gravatar.com/avatar/55ae105e9f793e127288fc6586c6467a?s=50&d=identicon&r=g)
 
@@ -465,14 +473,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### 10.000 jaar oud: de ‘Black Knight’-satelliet..!!
 
 [Om dit artikel als geloofwaardig te beschouwen moet je de vo…](https://www.wanttoknow.nl/hoofdartikelen/10-000-jaar-oud-de-black-knight-satelliet/comment-page-1/#comment-626300)
-
-![El](https://secure.gravatar.com/avatar/7fbad5c4c90866e3a51ba5c36ceac8d1?s=50&d=identicon&r=g)
-
-##### **El** reacts on:
-
-##### Alex Jones moet kennelijk kapot gemaakt worden..!
-
-[AJ is CIA. Sandy Hook is een Hoax. Stel AJ als voorbeeld en…](https://www.wanttoknow.nl/overige/alex-jones-moet-kennelijk-kapot-gemaakt-worden/comment-page-1/#comment-626298)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
