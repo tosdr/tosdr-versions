@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Milton Now a Category 5 Hurricane](https://www.theepochtimes.com/us/milton-expected-to-become-category-5-hurricane-5736830)
+    
+    NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Milton Now a Category 5 Hurricane](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Milton Now a Category 5 Hurricane](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736863-hurricanemilton2-205x123.png.webp)](https://www.theepochtimes.com/us/milton-expected-to-become-category-5-hurricane-5736830)
+* [FEMA Warns Americans of Scams After Hurricane Helene’s Devastation](https://www.theepochtimes.com/us/fema-warns-americans-of-scams-after-hurricane-helenes-devastation-5736766)
+    
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![FEMA Warns Americans of Scams After Hurricane Helene’s Devastation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FEMA Warns Americans of Scams After Hurricane Helene’s Devastation](https://img.theepochtimes.com/assets/uploads/2023/06/26/id5357595-North-Carolina-National-Guard-GettyImages-1033187726-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-warns-americans-of-scams-after-hurricane-helenes-devastation-5736766)
+* [Supreme Court Won’t Hear Challenge to Biden’s Order on Voter Registration](https://www.theepochtimes.com/us/supreme-court-wont-hear-challenge-to-bidens-order-on-voter-registration-5736790)
+    
+    2hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![Supreme Court Won’t Hear Challenge to Biden’s Order on Voter Registration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court Won’t Hear Challenge to Biden’s Order on Voter Registration](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706009-08142024-DSC06974-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-wont-hear-challenge-to-bidens-order-on-voter-registration-5736790)
+* [Milton Strengthens to Category 4 Hurricane, on Track to Hit Florida](https://www.theepochtimes.com/us/milton-strengthens-to-category-3-hurricane-on-track-to-hit-florida-5736718)
+    
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Milton Strengthens to Category 4 Hurricane, on Track to Hit Florida](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Milton Strengthens to Category 4 Hurricane, on Track to Hit Florida](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736828-GettyImages-2176250164-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/milton-strengthens-to-category-3-hurricane-on-track-to-hit-florida-5736718)
+* [New Zealand Navy Vessel Sinks After Running Aground on Samoan Reef](https://www.theepochtimes.com/world/new-zealand-navy-vessel-sinks-after-running-aground-on-samoan-reef-5736664)
+    
+    5hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![New Zealand Navy Vessel Sinks After Running Aground on Samoan Reef](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New Zealand Navy Vessel Sinks After Running Aground on Samoan Reef](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736753-1rG.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/new-zealand-navy-vessel-sinks-after-running-aground-on-samoan-reef-5736664)
+* [Israel Marks 1 Year Since Hamas Oct. 7 Attack, Continues Airstrikes](https://www.theepochtimes.com/world/israel-marks-one-year-since-hamas-attack-continues-airstrikes-5736663)
+    
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Israel Marks 1 Year Since Hamas Oct. 7 Attack, Continues Airstrikes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israel Marks 1 Year Since Hamas Oct. 7 Attack, Continues Airstrikes](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736748-Oct.-7-anniversary-GettyImages-2177182270-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-marks-one-year-since-hamas-attack-continues-airstrikes-5736663)
 * [The Long Year: How Oct. 7 Changed the Middle East](https://www.theepochtimes.com/world/how-the-middle-east-has-changed-in-the-year-since-oct-7-2023-post-5735981)
     
-    NEW By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke) and [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    7hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke) and [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
     [![The Long Year: How Oct. 7 Changed the Middle East](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![The Long Year: How Oct. 7 Changed the Middle East](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736657-Hostage-oct-7-3-205x123.jpg.webp)](https://www.theepochtimes.com/world/how-the-middle-east-has-changed-in-the-year-since-oct-7-2023-post-5735981)
-* [Supreme Court to Consider Whether States Have to Pay Attorney Fees](https://www.theepochtimes.com/us/supreme-court-to-consider-whether-states-have-to-pay-attorney-fees-5734927)
-    
-    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Supreme Court to Consider Whether States Have to Pay Attorney Fees](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court to Consider Whether States Have to Pay Attorney Fees](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720764-09092024-DSC07969-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-to-consider-whether-states-have-to-pay-attorney-fees-5734927)
+    ![The Long Year: How Oct. 7 Changed the Middle East](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736746-Hostage-oct-7-3.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/how-the-middle-east-has-changed-in-the-year-since-oct-7-2023-post-5735981)
 * [Nuclear Power Likely to Grow by Getting Smaller](https://www.theepochtimes.com/business/nuclear-power-likely-to-grow-by-getting-smaller-5735622)
     
-    NEW By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
+    7hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
     
     [![Nuclear Power Likely to Grow by Getting Smaller](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Nuclear Power Likely to Grow by Getting Smaller](https://img.theepochtimes.com/assets/uploads/2022/06/2.download-94-205x123.jpg.webp)](https://www.theepochtimes.com/business/nuclear-power-likely-to-grow-by-getting-smaller-5735622)
-* [Trump Rally at Shooting Site Honored Victim, ‘Transcended Politics’: Attendees](https://www.theepochtimes.com/us/trump-rally-at-shooting-site-honored-victim-transcended-politics-attendees-5736258)
+    ![Nuclear Power Likely to Grow by Getting Smaller](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736755-2.download-94.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/nuclear-power-likely-to-grow-by-getting-smaller-5735622)
+* [Trump Rally at Shooting Site Honored Victim, ‘Transcended Politics’, Attendees Say](https://www.theepochtimes.com/us/trump-rally-at-shooting-site-honored-victim-transcended-politics-attendees-5736258)
     
-    8hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    14hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Trump Rally at Shooting Site Honored Victim, ‘Transcended Politics’: Attendees](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Rally at Shooting Site Honored Victim, ‘Transcended Politics’, Attendees Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Rally at Shooting Site Honored Victim, ‘Transcended Politics’: Attendees](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736279-DSC07999-butler-trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-rally-at-shooting-site-honored-victim-transcended-politics-attendees-5736258)
+    ![Trump Rally at Shooting Site Honored Victim, ‘Transcended Politics’, Attendees Say](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736751-DSC07999-butler-trump.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-rally-at-shooting-site-honored-victim-transcended-politics-attendees-5736258)
 * [Four Top 11-Ranked Teams Tumbled With Alabama on ‘Upset Saturday’](https://www.theepochtimes.com/sports/four-top-11-ranked-teams-tumbled-with-alabama-on-upset-saturday-5736307)
     
-    10hr By [Matthew Davis](https://www.theepochtimes.com/author/matthew-davis)
+    16hr By [Matthew Davis](https://www.theepochtimes.com/author/matthew-davis)
     
     [![Four Top 11-Ranked Teams Tumbled With Alabama on ‘Upset Saturday’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Four Top 11-Ranked Teams Tumbled With Alabama on ‘Upset Saturday’](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736308-GettyImages-2176100622-205x123.jpg.webp)](https://www.theepochtimes.com/sports/four-top-11-ranked-teams-tumbled-with-alabama-on-upset-saturday-5736307)
-* [Northern India’s Ancient Trade Routes Show Promise for Economic Resurgence](https://www.theepochtimes.com/world/northern-indias-ancient-trade-routes-show-promise-for-economic-resurgence-5728969)
-    
-    10hr By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
-    
-    [![Northern India’s Ancient Trade Routes Show Promise for Economic Resurgence](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Northern India’s Ancient Trade Routes Show Promise for Economic Resurgence](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732104-Panyalak-205x123.jpg.webp)](https://www.theepochtimes.com/world/northern-indias-ancient-trade-routes-show-promise-for-economic-resurgence-5728969)
-* [US Hospitals Face IV Fluid Shortages After Closure of Factory Damaged by Helene](https://www.theepochtimes.com/us/us-hospitals-face-iv-fluid-shortages-after-closure-of-factory-damaged-by-helene-5736346)
-    
-    11hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![US Hospitals Face IV Fluid Shortages After Closure of Factory Damaged by Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Hospitals Face IV Fluid Shortages After Closure of Factory Damaged by Helene](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736497-ivfluidKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-hospitals-face-iv-fluid-shortages-after-closure-of-factory-damaged-by-helene-5736346)
-* [Study Finds Dental Health Benefits of Fluoride in Drinking Water May Have Declined](https://www.theepochtimes.com/health/study-finds-dental-health-benefits-of-fluoride-in-drinking-water-may-have-declined-5736084)
-    
-    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Study Finds Dental Health Benefits of Fluoride in Drinking Water May Have Declined](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Study Finds Dental Health Benefits of Fluoride in Drinking Water May Have Declined](https://img.theepochtimes.com/assets/uploads/2024/07/08/id5682044-California-Water-Tap-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/study-finds-dental-health-benefits-of-fluoride-in-drinking-water-may-have-declined-5736084)
-* [Gallstones: Most Often 'Silent,' but Watch for 5 Signs](https://www.theepochtimes.com/health/gallstones-symptoms-causes-treatments-and-natural-approaches-5733284)
-    
-    14hr By [Terri Ward](https://www.theepochtimes.com/author/terri-ward)
-    
-    [![Gallstones: Most Often 'Silent,' but Watch for 5 Signs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Gallstones: Most Often 'Silent,' but Watch for 5 Signs](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735562-gallstone_feature-205x123.jpg.webp)](https://www.theepochtimes.com/health/gallstones-symptoms-causes-treatments-and-natural-approaches-5733284)
-* [FEMA Director Rejects Claims About Response to Helene: ‘Not Helpful’](https://www.theepochtimes.com/us/fema-director-rejects-claims-about-response-to-helene-not-helpful-5736351)
-    
-    14hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![FEMA Director Rejects Claims About Response to Helene: ‘Not Helpful’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FEMA Director Rejects Claims About Response to Helene: ‘Not Helpful’](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736456-Helene-Damage-NC-3_JF_10052024-LS-205x123.webp)](https://www.theepochtimes.com/us/fema-director-rejects-claims-about-response-to-helene-not-helpful-5736351)
+    ![Four Top 11-Ranked Teams Tumbled With Alabama on ‘Upset Saturday’](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736756-GettyImages-2176100622.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/sports/four-top-11-ranked-teams-tumbled-with-alabama-on-upset-saturday-5736307)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
