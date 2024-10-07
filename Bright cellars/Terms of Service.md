@@ -305,6 +305,6 @@ Copyright © Winc 2024
 
 [Instagram](https://www.instagram.com/winc "Winc on Instagram") [Facebook](https://www.facebook.com/winc "Winc on Facebook") [Twitter](https://twitter.com/winc "Winc on Twitter")
 
-Payment methods accepted American Express American express Apple Pay Apple pay Diners Club Diners club Discover Discover JCB Jcb Mastercard Master PayPal Paypal Venmo Venmo Visa Visa
+Payment methods accepted American Express American express Apple Pay Apple pay Diners Club Diners club Discover Discover JCB Jcb Mastercard Master PayPal Paypal Shop Pay Shopify pay Venmo Venmo Visa Visa
 
 Search  Clear
