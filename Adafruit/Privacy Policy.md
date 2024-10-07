@@ -75,6 +75,14 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Two piece adjustable soldering iron with blobby temperature adjustable body and separate fancy holder](https://cdn-shop.adafruit.com/230x173/1204-03.jpg)[Digital Genuine Hakko FX888DX-010SV (936 upgrade)
+    
+    $129.95](https://www.adafruit.com/product/1204)
+    
+    ![Angled Shot of the Adafruit I2S Stereo Decoder - UDA1334A Breakout.](https://cdn-shop.adafruit.com/230x173/3678-05.jpg)[Adafruit I2S Stereo Decoder - UDA1334A Breakout
+    
+    $6.95](https://www.adafruit.com/product/3678)
+    
     ![Angled shot of black, rectangular hall sensor breakout board.](https://cdn-shop.adafruit.com/230x173/6051-00.jpg)[ScoutMakes DRV5032 Digital Magnetic Hall Effect Sensor
     
     $4.95](https://www.adafruit.com/product/6051)
@@ -82,14 +90,6 @@ Search
     ![Demo Shot of the Prop Maker Feather Lego.](https://cdn-shop.adafruit.com/230x173/6054-00.jpg)[Adafruit Feather Mount for LEGO-Compatible Brick Systems
     
     $1.50](https://www.adafruit.com/product/6054)
-    
-    ![black, square-shaped breakout board with DVI and 22-pin FPC connectors connected to a black, rectangular microcontroller.](https://cdn-shop.adafruit.com/230x173/6055-01.jpg)[Adafruit RP2350 22-pin FPC HSTX to DVI Adapter for HDMI Displays
-    
-    $4.50](https://www.adafruit.com/product/6055)
-    
-    ![Demo Shot of the Lego Slide Switch.](https://cdn-shop.adafruit.com/230x173/6053-00.jpg)[Slide Switch Mount for LEGO-Compatible Brick Systems
-    
-    $0.95](https://www.adafruit.com/product/6053)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road”
+“ Only through an inner spiritual transformation do we gain the strength to fight vigorously the evils of the world in a humble and loving spirit”
 
-[Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand)
+[Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 [](https://www.adafruit.com/about)
 
