@@ -31,47 +31,212 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Improvisaciones imperdonables
-=============================
+Lo que se sabe del choque en la autopista General Rumiñahui
+===========================================================
 
-El cambio climático afecta a nuestro país con deshielos, lluvias intensas y sequías severas, provocando inundaciones y deslaves que destruyen viviendas y cultivos.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+El Cuerpo de Bomberos realizó rescató a los ocupantes del auto que quedaron atrapados. Ellos serían jugadores de un equipo de fútbol de Quito.
+----------------------------------------------------------------------------------------------------------------------------------------------
 
-![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+![El vehículo se impactó contra el cierre provisional de la vía para la construcción del puente.](https://www.elcomercio.com/wp-content/uploads/2024/10/General-Ruminahui.jpg)
 
-El **cambio climático** que afecta al **planeta** obedece a **causas naturales** como **actividad volcánica**, alteraciones de la **órbita terrestre**, cambios de la **radiación solar** y a causas antropogénicas (originadas por la **actividad humana**): la emisión de gases con efecto invernadero, por parte de **fábricas** e **industrias** repartidas en todas **latitudes**, la imparable **deforestación** por **incendios masivos** y por la incesante **tala**  de **árboles**, para utilizar la madera, la **quema** de **combustibles** fósiles como gas, carbón, petróleo, las pruebas y **ensayos nucleares**, la **producción** y **desecho** de residuos como los **materiales plásticos**, convertidos en una **amenaza** creciente para todos los **ecosistemas**, pues los contaminan desde su origen hasta llegar al mar,  donde, ingeridos  por aves y fauna marina, tienen **efectos mortales**; abundan tanto que forman verdaderas **islas artificiales**, con extensiones kilométricas. Hay un **calentamiento global**, los polos y los **nevados** se derriten a un **ritmo alarmante** y se extinguen especies que viven en ese **hábitat**. Se multiplican las **tormentas**, los **huracanes**, las **inundaciones** y los **incendios** a nivel mundial.
+Un **siniestro de tránsito** se registró en la **autopista General Rumiñahui,** a la altura del puente 8, a las 04:20 aproximadamente. En el sector se realiza el montaje de un puente elevado.
 
-Nuestro país, parte del **concierto planetario**, sufre los **severos** efectos del **cambio climático**, fundamentalmente del **deshielo** de sus altas **nieves** eternas, de **lluvias** abundantes y de severas **sequías**. Cuando las lluvias arrecian, se multiplican las **inundaciones**, especialmente en la costa, y arrasan con **viviendas**, cultivos, **ganado** y animales domésticos; en la **sierra** se producen frecuentes  **deslaves**, pues existen **urbanizaciones** y **construcciones** levantadas inconscientemente junto a **quebradas**, vías naturales de  desfogue, y en las faldas de **laderas** que, con la fuerza de la tempestad, se desmoronan para mezclarse con el torrente y descender por calles y veredas en una **avalancha** que arrastra todo objeto o persona que encuentra a su paso. Estos sucesos no deben producirse y las **autoridades municipales**, junto a sus **alcaldes**, deben prevenirlos mediante **estudios** y acciones correctivas con antelación.
+### Más noticias
 
-Las **inundaciones** alternan con **períodos** de **estiajes extremos**, los ríos se secan y no transportan el **agua** que necesitan acumular las **represas** de los **complejos hidroeléctricos** para generar **energía** **eléctrica** y se producen obligatoriamente **suspensiones** y **apagones** en las **ciudades** y en los **hogares ecuatorianos**.  El suceso no es nuevo, se ha repetido, con mayor o menor intensidad, durante varios años; se podía haber dado **solución**, si en lugar de lucrar y actuar deshonestamente, los **gobernantes** hubieran cambiado la **matriz energética** y encontrado oportunamente otras **fuentes** de **energía renovable**, como la **eólica** (fuerza de los vientos), la fotovoltaica (la luz y el calor solar) o la energía volcánica como sugirió una comisión japonesa. Es evidente que este cambio necesita de un **capital** que no posee el **gobierno**, pero que es indispensable conseguirlo, para terminar, a futuro, con estas **escenas** de **tinieblas**, ¿Cómo obtenerlo?… Con la indispensable **participación privada**, mediante la **modificación** de la **Constitución** del 2008, que dispone que “los **sectores estratégicos**” (**energía**, **petróleo**, **minas**, **comunicaciones**), cruciales para el país, no sean delegados al **sector privado**. Es hora de abandonar **cálculos** e **improvisaciones** imperdonables, que únicamente buscan **beneficios** **grupales** y no nacionales, y de actuar convencidos de **salvar** a la **patria**, de estas taras que la sumergen en el **subdesarrollo** y en épocas que deben ser superadas y olvidadas.
+* [Quito registra choques y vías cerradas este lunes 7 de octubre; hay un fallecido](https://www.elcomercio.com/actualidad/quito/quito-choques-vias-cerradas-este-lunes-7-de-octubre-hay-un-fallecido.html "Quito registra choques y vías cerradas este lunes 7 de octubre; hay un fallecido")
+* [Así funciona el Pico y placa en Quito este lunes 7 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-7-de-octubre.html "Así funciona el Pico y placa en Quito este lunes 7 de octubre")
+* [Cortes de luz en Quito para este lunes 7 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-lunes-7-octubre-quito.html "Cortes de luz en Quito para este lunes 7 de octubre")
 
-La reforestación de Quito es un desafío urgente
-===============================================
+La vía estaba cerrada por construcción de puente
+------------------------------------------------
 
-Los recientes incendios forestales que devastaron Quito, entre el 24 y el 26 de septiembre, y dejaron 1 964,04 hectáreas consumidas, plantean una situación crítica. El impacto se sintió de manera particular en sectores como el cerro Auqui y Guápulo, donde miles de hectáreas de vegetación, equivalentes a 2 250 canchas de fútbol, quedaron reducidas \[…\]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Debido a los **trabajos de construcción del puente**, la circulación vehicular se interrumpió desde la noche del domingo y estaba previsto habilitarla esta madrugada.
 
-![Imagen creada con inteligencia artificial con el prompt: después de los incendios en los bosques viene la reforestación.](https://www.elcomercio.com/wp-content/uploads/2024/10/Untitled-design-21.jpg)
+Sin embargo, en la madrugada, **un choque se registró en este cierre.** La Agencia Metropolitana de Tránsito informó que la autopista permanecerá cerrada mientras la Policía Nacional realiza un procedimiento.
 
-Los recientes **incendios forestales que devastaron Quito**, entre el 24 y el 26 de septiembre, y dejaron 1 964,04 hectáreas consumidas, plantean una **situación crítica**. El impacto se sintió de manera particular en sectores como el cerro Auqui y Guápulo, donde miles de hectáreas de vegetación, equivalentes a 2 250 canchas de fútbol, quedaron reducidas a **cenizas**[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+Según información del ECU911, en el choque registrado**, una persona falleció**. El Cuerpo de Bomberos Quito acudió en ayuda de las personas afectadas.
 
-La magnitud de este desastre no solo revela la **fragilidad de nuestro entorno** frente al cambio climático, sino también la urgente necesidad de tomar acciones concretas para revertir los daños causados.
+Los ‘casaca roja’ tuvieron que ejecutar **tareas de liberación** para sacar a los ocupantes del auto que quedaron atrapados en el interior.
 
-> Las próximas generaciones dependerán de las decisiones que tomemos hoy. La reforestación no solo es una acción necesaria para contrarrestar los incendios, sino una oportunidad para rediseñar nuestro compromiso con el medio ambiente.
+Bomberos confirmó qu**e cuatro personas resultaron heridas** y, lamentablemente, una persona falleció.
 
-La **reforestación** se ha convertido en el paso inminente para mitigar los efectos de estos incendios. Tanto el Municipio de Quito como el Ministerio de Ambiente han mostrado su compromiso con este proceso.
+Uno de los ocupantes del vehículo es jugador del **equipo Liga Deportiva Universitaria**. El vehículo estaría sin placas. El conductor fallecido no era miembro del equipo.
 
-El alcalde Pabel Muñoz ya ha anunciado que liderará un **plan “agresivo” de reforestación**, y el Ministerio de Ambiente ha asegurado que la restauración ecológica será un proceso dinámico, educativo, y, lo más importante, participativo. Es vital que se incluya a las **comunidades locales** para garantizar el éxito a largo plazo de este ambicioso proyecto.
+El jugador afectado en este choque es **Marco Angulo. Los otros pasajeros del auto son Luis Estupiñán, Andrés Castillo Erazo y Víctor Charcopa**. El equipo **LDU** aún no ha confirmado el estado de salud del jugador pero, según FB Radio, Angulo estaría hospitalizado con pronóstico reservado.
 
-Sin embargo, la reforestación no es un proceso inmediato. Las estimaciones de la Secretaría de Ambiente de Quito indican que los **terrenos [afectados](https://www.elcomercio.com/actualidad/ecuador/reforestacion-incendios-forestales-quito.html "https://www.elcomercio.com/actualidad/ecuador/reforestacion-incendios-forestales-quito.html")** podrían tardar hasta 100 años en restaurarse de manera natural. Esta cifra es alarmante, pero también subraya la importancia de tomar medidas proactivas para acelerar la regeneración del **suelo y la vegetación**. La primera fase de este plan incluye fortalecer el suelo, con la dispersión de semillas y la plantación de especies nativas que puedan resistir las duras condiciones de estas áreas.
+El vehículo se incendió luego del impacto. Bomberos tuvieron que **apagar el fuego**.
 
-Uno de los grandes desafíos es la presencia de especies como el eucalipto, cuya alta combustión fue un factor clave en la **propagación de los incendios**. En su lugar, se deben potenciar árboles autóctonos como el laurel, aguacatillo, algarrobo y molle, que ofrecen un equilibrio mejorado para los ecosistemas locales. Además, el agave jugará un rol importante como **barrera natural** contra futuros incendios.
+No se conoce aún la velocidad a la que iba el vehículo; sin embargo, las estructuras que se construían del puente fueron empujadas 5 metros [por el auto](https://es.wikipedia.org/wiki/Conocoto "https://es.wikipedia.org/wiki/Conocoto"). Estas estructuras pesan 50 toneladas.
 
-La restauración ecológica es un proceso complejo que va más allá de simplemente **plantar árboles**. Es fundamental que las comunidades comprendan y participen activamente en el proceso. La reforestación debe ser un esfuerzo planificado, donde se considere el **uso sostenible de la tierra** y se fomente una educación ambiental que empodere a las personas para proteger su entorno.
+La Agencia Metropolitana de Tránsito (AMT) informó que, luego de que la Policía Nacional realizara los procedimientos de ley, **la vía está habilitada en sentido Quito-valle.**
 
-Por ello, el Ministerio de Ambiente ha planteado un **enfoque participativo** en el que todos los actores involucrados —desde el gobierno local hasta las comunidades— tengan un rol activo. Se espera que este proceso comience con un diagnóstico profundo del **área afectad**a, seguido de un plan de acción que contemple la preparación del suelo, la estabilización de taludes y la selección de **especies nativas** para garantizar la efectividad de la reforestación.
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DA0tHJTsfrk/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de TVC Ecuador (@tvcecuador)](https://www.instagram.com/reel/DA0tHJTsfrk/?utm_source=ig_embed&utm_campaign=loading)
 
-Si bien la tarea es monumental, lo que está en juego es el **futuro ecológico de Quito**. Las próximas generaciones dependerán de las decisiones que tomemos hoy. La **reforestación** no solo es una acción necesaria para contrarrestar los incendios, sino una oportunidad para rediseñar nuestro compromiso con el medio ambiente, fomentando ecosistemas más resilientes y una mayor conciencia ambiental.
+Construcción del puente se retrasarán
+-------------------------------------
+
+El siniestro de tránsito registrado este 7 de octubre **retrasará la construcción del puente.** Las vigas se colocaron el fin de semana; sin embargo, **una estructura se tuvo que retirar** debido a los procedimientos de ley.
+
+La **Prefectura de Pichincha** confirmó que este siniestro obliga a demorar los trabajos que se ejecutan en la zona.
+
+La vía debía ser habilitada a las 05:00 de este lunes. El cierre comenzó a las **16:00 del domingo** 6 de octubre.
+
+> [#Atención](https://twitter.com/hashtag/Atenci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Informamos a la ciudadanía que mientras se ejecutaban los trabajos para la colocación de las estructuras del paso elevado en el puente 8, a las 4h00 aproximadamente de la mañana un vehículo se impactó contra las vigas. Lamentablemente hay un fallecido y cuatro… [pic.twitter.com/G2T7AdG5jn](https://t.co/G2T7AdG5jn)
+> 
+> — Prefectura de Pichincha (@PichinchaGob) [October 7, 2024](https://twitter.com/PichinchaGob/status/1843259624364900704?ref_src=twsrc%5Etfw)
+
+Quito registra choques y vías cerradas este lunes 7 de octubre; hay un fallecido
+================================================================================
+
+La autopista General Rumiñahui continúa cerrada mientras se realizan los procedimientos.
+----------------------------------------------------------------------------------------
+
+![Un siniestro se registró este lunes 7 de septiembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/autopista-ruminahui.jpg)
+
+Este 7 de octubre de 2024, los organismos de control informaron sobre **dos choques** que ocurrieron en dos de las **vías más transitadas de Quito**.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este lunes 7 de octubre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-lunes-7-de-octubre.html "Así funciona el Pico y placa en Quito este lunes 7 de octubre")
+* [Cortes de luz en Quito para este lunes 7 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-lunes-7-octubre-quito.html "Cortes de luz en Quito para este lunes 7 de octubre")
+* [Autopista General Rumiñahui tendrá cierre total este fin de semana](https://www.elcomercio.com/actualidad/quito/autopista-general-ruminahui-cierre-total-fin-de-semana-octubre.html "Autopista General Rumiñahui tendrá cierre total este fin de semana")
+
+Siniestro en el túnel Guayasamín
+--------------------------------
+
+La **Agencia Metropolitana de Tránsito** (AMT) informó esta mañana sobre un siniestro que se registró en las primeras horas a la altura del túnel Guayasamín, en el sector de Guápulo.
+
+A causa de este choque **se cerraron dos carriles en ambos sentidos de la vía**. Esto ocasionó congestión vehicular en la zona, mientras se realizaban los protocolos correspondientes.
+
+Agentes de la AMT gestionaron **el flujo vehicular** mientras duró el cierre y, posteriormente, habilitaron la circulación por el túnel.
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 📍 Sector: Túnel de Guayasamín  
+> 🚧 Cierre: av. Oswaldo Guayasamín  
+> 🛣️ Carriles cerrados: dos carriles en ambos sentidos de la vía.  
+>   
+> 👆🏼 Con precaución y atención en las vías  
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/JhW4nMOG27](https://t.co/JhW4nMOG27)
+> 
+> — AMTQuito (@AMT\_Quito) [October 7, 2024](https://twitter.com/AMT_Quito/status/1843230590138806533?ref_src=twsrc%5Etfw)
+
+Choque en la autopista General Rumiñahui deja un fallecido
+----------------------------------------------------------
+
+Un siniestro de tránsito se registró también en la **autopista General Rumiñahui,** a la altura del puente 8. En el sector se realiza el montaje de un puente elevado.
+
+Debido a los **trabajos de construcción del puente**, la circulación vehicular se interrumpió desde la noche del domingo y estaba previsto habilitarla esta madrugada.
+
+Sin embargo, en la madrugada, **un choque se registró en este cierre.** La Agencia Metropolitana de Tránsito informó que la autopista permanecerá cerrada mientras la Policía Nacional realiza un procedimiento.
+
+Según información del ECU911, en el choque registrado**, una persona falleció**. El Cuerpo de Bomberos Quito acudió en ayuda de las personas afectadas.
+
+Los ‘casacas roja’ tuvieron que ejecutar **tareas de liberación** para sacar a los ocupantes del auto que quedaron atrapados en el interior.
+
+Bomberos confirmó qu**e cuatro personas resultaron heridas** y, lamentablemente, una persona falleció.
+
+La vía continúa cerrada. El [siniestro de tránsito](https://es.wikipedia.org/wiki/Conocoto "https://es.wikipedia.org/wiki/Conocoto") ocurrió a las 04:20.
+
+> 💥🚗 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Siniestro de tránsito en la Autopista General Rumiñahui, a la altura del puente ocho.  
+>   
+> 👩‍🚒 Nuestro equipo realizó tareas para liberar a los ocupantes atrapados al interior del vehículo.  
+>   
+> 🤕 Cuatro personas resultaron heridas y, lamentablemente, una falleció.  
+>   
+> 🚑… [pic.twitter.com/byTYdKQzas](https://t.co/byTYdKQzas)
+> 
+> — Bomberos Quito (@BomberosQuito) [October 7, 2024](https://twitter.com/BomberosQuito/status/1843249682262200764?ref_src=twsrc%5Etfw)
+
+Te traemos la historia del Día Mundial de la Arquitectura 
+==========================================================
+
+El Día Mundial de la Arquitectura se enfoca en la importancia de esta área en el desarrollo urbano sostenible.
+--------------------------------------------------------------------------------------------------------------
+
+![El Día Mundial de la Arquitectura, celebrado desde 1986, conmemora la fundación de la UIA. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-Arquitectura.jpg)
+
+El **Día Mundial de la Arquitectura** es una celebración que **resalta la importancia de la arquitectura en la sociedad.** Esta efeméride fue establecida por la **Unión Internacional de Arquitectos (UIA)** en 1985, con el objetivo de resaltar el valor de la arquitectura en la construcción de un mundo mejor, según recoge [Structuralia](https://blog.structuralia.com/dia-mundial-de-la-arquitectura "https://blog.structuralia.com/dia-mundial-de-la-arquitectura"). 
+
+### Más noticias
+
+* [Así se verán ocho sitios de Quito en 100 años](https://www.elcomercio.com/actualidad/quito/asi-se-veran-ocho-sitios-de-quito-en-100-anos.html "https://www.elcomercio.com/actualidad/quito/asi-se-veran-ocho-sitios-de-quito-en-100-anos.html")
+* [Investigadora Alexandra Moncayo, entre las mejores arquitectas de Iberoamérica](https://www.elcomercio.com/sociedad/investigadora-alexandra-moncayo-arquitectas-iberoamerica.html "https://www.elcomercio.com/sociedad/investigadora-alexandra-moncayo-arquitectas-iberoamerica.html")
+
+**Origen del Día Mundial de la Arquitectura** 
+----------------------------------------------
+
+El primer **Día Mundial de la Arquitectura** se celebró en 1986. La fecha fue elegida para **conmemorar la fundación de la UIA en 1948**. Esta organización internacional sin fines de lucro representa a más de 1,3 millones de arquitectos en todo el mundo, de acuerdo con [Yarquitectura](https://www.yarquitectura.com/dia-mundial-de-la-arquitectura/#google_vignette "https://www.yarquitectura.com/dia-mundial-de-la-arquitectura/#google_vignette"). Desde su inicio, la celebración ha crecido en popularidad, convirtiéndose en un **evento global que reúne a profesionales y entusiastas de la arquitectura**. 
+
+**Conexión con el Día Mundial del Hábitat** 
+--------------------------------------------
+
+En 2005, la **UIA** decidió que el **Día Mundial de la Arquitectura** coincidiera con el **Día Mundial del Hábitat** de la ONU, **celebrado el primer lunes de octubre**. Esta decisión subraya la responsabilidad colectiva de los arquitectos en el futuro de nuestro hábitat, a decir de [Archdaily](https://www.archdaily.mx/mx/969503/dia-mundial-de-la-arquitectura-2021-acciones-urbanas-para-un-mundo-libre-de-carbono "https://www.archdaily.mx/mx/969503/dia-mundial-de-la-arquitectura-2021-acciones-urbanas-para-un-mundo-libre-de-carbono"). La sincronización de ambas fechas destaca la **importancia de un enfoque holístico que integra la arquitectura en el desarrollo urbano sostenible**. 
+
+**Impacto global** 
+-------------------
+
+El **Día Mundial de la Arquitectura** es una oportunidad para **reconocer y apreciar el arte de diseñar y construir espacios** que no solo son funcionales, sino también estéticamente agradables. La arquitectura tiene un impacto significativo en nuestras vidas y en el mundo que nos rodea. Este día especial también sirve como un **recordatorio de cómo los edificios y estructuras están intrínsecamente ligados** a nuestra calidad de vida y bienestar, de acuerdo con [Día Internacional](https://diainternacional.org/de-la-arquitectura/ "https://diainternacional.org/de-la-arquitectura/"). 
+
+**Temas relevantes** 
+---------------------
+
+Cada año, el **Día Mundial de la Arquitectura** aborda temas relevantes para la comunidad arquitectónica y la sociedad en general. Estos temas suelen estar relacionados con la **mejora de la calidad de vida a través de la arquitectura**, la sostenibilidad y la innovación en el diseño urbano. La celebración de este día es una **plataforma para discutir y promover soluciones arquitectónicas** que aborden los desafíos contemporáneos, como el **cambio climático** y el **crecimiento urbano descontrolado**. 
+
+Así funciona el Pico y placa en Quito este lunes 7 de octubre
+=============================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes de tránsito se ubican en las intersecciones para gestionar el flujo vehicular.](https://www.elcomercio.com/wp-content/uploads/2024/10/pico-placa.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [Caso de los hermanos Menéndez toma nuevo giro. ¿Saldrán libres?](https://www.elcomercio.com/actualidad/mundo/caso-de-los-hermanos-menendez-toma-nuevo-giro-saldran-libres.html "Caso de los hermanos Menéndez toma nuevo giro. ¿Saldrán libres?")
+* [¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia](https://www.elcomercio.com/actualidad/quito/razones-trafico-en-quito-amt-se-pronuncia.html "¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia")
+* [Policía rescata a bebé que intentaba ser vendida por Internet](https://www.elcomercio.com/actualidad/seguridad/policia-rescata-bebe-que-intentaba-ser-vendida-por-internet.html "Policía rescata a bebé que intentaba ser vendida por Internet")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
 
 Cartas a Quito / 7 de octubre de 2024
 =====================================
@@ -114,6 +279,48 @@ Como nunca, es tiempo de poner a los agricultores de América Latina y el Caribe
 
 _**Manuel Otero**, **Médico veterinario, Director General del Instituto Interamericano de Cooperación para la Agricultura (IICA)**_  
 
+Improvisaciones imperdonables
+=============================
+
+El cambio climático afecta a nuestro país con deshielos, lluvias intensas y sequías severas, provocando inundaciones y deslaves que destruyen viviendas y cultivos.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+El **cambio climático** que afecta al **planeta** obedece a **causas naturales** como **actividad volcánica**, alteraciones de la **órbita terrestre**, cambios de la **radiación solar** y a causas antropogénicas (originadas por la **actividad humana**): la emisión de gases con efecto invernadero, por parte de **fábricas** e **industrias** repartidas en todas **latitudes**, la imparable **deforestación** por **incendios masivos** y por la incesante **tala**  de **árboles**, para utilizar la madera, la **quema** de **combustibles** fósiles como gas, carbón, petróleo, las pruebas y **ensayos nucleares**, la **producción** y **desecho** de residuos como los **materiales plásticos**, convertidos en una **amenaza** creciente para todos los **ecosistemas**, pues los contaminan desde su origen hasta llegar al mar,  donde, ingeridos  por aves y fauna marina, tienen **efectos mortales**; abundan tanto que forman verdaderas **islas artificiales**, con extensiones kilométricas. Hay un **calentamiento global**, los polos y los **nevados** se derriten a un **ritmo alarmante** y se extinguen especies que viven en ese **hábitat**. Se multiplican las **tormentas**, los **huracanes**, las **inundaciones** y los **incendios** a nivel mundial.
+
+Nuestro país, parte del **concierto planetario**, sufre los **severos** efectos del **cambio climático**, fundamentalmente del **deshielo** de sus altas **nieves** eternas, de **lluvias** abundantes y de severas **sequías**. Cuando las lluvias arrecian, se multiplican las **inundaciones**, especialmente en la costa, y arrasan con **viviendas**, cultivos, **ganado** y animales domésticos; en la **sierra** se producen frecuentes  **deslaves**, pues existen **urbanizaciones** y **construcciones** levantadas inconscientemente junto a **quebradas**, vías naturales de  desfogue, y en las faldas de **laderas** que, con la fuerza de la tempestad, se desmoronan para mezclarse con el torrente y descender por calles y veredas en una **avalancha** que arrastra todo objeto o persona que encuentra a su paso. Estos sucesos no deben producirse y las **autoridades municipales**, junto a sus **alcaldes**, deben prevenirlos mediante **estudios** y acciones correctivas con antelación.
+
+Las **inundaciones** alternan con **períodos** de **estiajes extremos**, los ríos se secan y no transportan el **agua** que necesitan acumular las **represas** de los **complejos hidroeléctricos** para generar **energía** **eléctrica** y se producen obligatoriamente **suspensiones** y **apagones** en las **ciudades** y en los **hogares ecuatorianos**.  El suceso no es nuevo, se ha repetido, con mayor o menor intensidad, durante varios años; se podía haber dado **solución**, si en lugar de lucrar y actuar deshonestamente, los **gobernantes** hubieran cambiado la **matriz energética** y encontrado oportunamente otras **fuentes** de **energía renovable**, como la **eólica** (fuerza de los vientos), la fotovoltaica (la luz y el calor solar) o la energía volcánica como sugirió una comisión japonesa. Es evidente que este cambio necesita de un **capital** que no posee el **gobierno**, pero que es indispensable conseguirlo, para terminar, a futuro, con estas **escenas** de **tinieblas**, ¿Cómo obtenerlo?… Con la indispensable **participación privada**, mediante la **modificación** de la **Constitución** del 2008, que dispone que “los **sectores estratégicos**” (**energía**, **petróleo**, **minas**, **comunicaciones**), cruciales para el país, no sean delegados al **sector privado**. Es hora de abandonar **cálculos** e **improvisaciones** imperdonables, que únicamente buscan **beneficios** **grupales** y no nacionales, y de actuar convencidos de **salvar** a la **patria**, de estas taras que la sumergen en el **subdesarrollo** y en épocas que deben ser superadas y olvidadas.
+
+La reforestación de Quito es un desafío urgente
+===============================================
+
+Los recientes incendios forestales que devastaron Quito, entre el 24 y el 26 de septiembre, y dejaron 1 964,04 hectáreas consumidas, plantean una situación crítica. El impacto se sintió de manera particular en sectores como el cerro Auqui y Guápulo, donde miles de hectáreas de vegetación, equivalentes a 2 250 canchas de fútbol, quedaron reducidas \[…\]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada con inteligencia artificial con el prompt: después de los incendios en los bosques viene la reforestación.](https://www.elcomercio.com/wp-content/uploads/2024/10/Untitled-design-21.jpg)
+
+Los recientes **incendios forestales que devastaron Quito**, entre el 24 y el 26 de septiembre, y dejaron 1 964,04 hectáreas consumidas, plantean una **situación crítica**. El impacto se sintió de manera particular en sectores como el cerro Auqui y Guápulo, donde miles de hectáreas de vegetación, equivalentes a 2 250 canchas de fútbol, quedaron reducidas a **cenizas**[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+La magnitud de este desastre no solo revela la **fragilidad de nuestro entorno** frente al cambio climático, sino también la urgente necesidad de tomar acciones concretas para revertir los daños causados.
+
+> Las próximas generaciones dependerán de las decisiones que tomemos hoy. La reforestación no solo es una acción necesaria para contrarrestar los incendios, sino una oportunidad para rediseñar nuestro compromiso con el medio ambiente.
+
+La **reforestación** se ha convertido en el paso inminente para mitigar los efectos de estos incendios. Tanto el Municipio de Quito como el Ministerio de Ambiente han mostrado su compromiso con este proceso.
+
+El alcalde Pabel Muñoz ya ha anunciado que liderará un **plan “agresivo” de reforestación**, y el Ministerio de Ambiente ha asegurado que la restauración ecológica será un proceso dinámico, educativo, y, lo más importante, participativo. Es vital que se incluya a las **comunidades locales** para garantizar el éxito a largo plazo de este ambicioso proyecto.
+
+Sin embargo, la reforestación no es un proceso inmediato. Las estimaciones de la Secretaría de Ambiente de Quito indican que los **terrenos [afectados](https://www.elcomercio.com/actualidad/ecuador/reforestacion-incendios-forestales-quito.html "https://www.elcomercio.com/actualidad/ecuador/reforestacion-incendios-forestales-quito.html")** podrían tardar hasta 100 años en restaurarse de manera natural. Esta cifra es alarmante, pero también subraya la importancia de tomar medidas proactivas para acelerar la regeneración del **suelo y la vegetación**. La primera fase de este plan incluye fortalecer el suelo, con la dispersión de semillas y la plantación de especies nativas que puedan resistir las duras condiciones de estas áreas.
+
+Uno de los grandes desafíos es la presencia de especies como el eucalipto, cuya alta combustión fue un factor clave en la **propagación de los incendios**. En su lugar, se deben potenciar árboles autóctonos como el laurel, aguacatillo, algarrobo y molle, que ofrecen un equilibrio mejorado para los ecosistemas locales. Además, el agave jugará un rol importante como **barrera natural** contra futuros incendios.
+
+La restauración ecológica es un proceso complejo que va más allá de simplemente **plantar árboles**. Es fundamental que las comunidades comprendan y participen activamente en el proceso. La reforestación debe ser un esfuerzo planificado, donde se considere el **uso sostenible de la tierra** y se fomente una educación ambiental que empodere a las personas para proteger su entorno.
+
+Por ello, el Ministerio de Ambiente ha planteado un **enfoque participativo** en el que todos los actores involucrados —desde el gobierno local hasta las comunidades— tengan un rol activo. Se espera que este proceso comience con un diagnóstico profundo del **área afectad**a, seguido de un plan de acción que contemple la preparación del suelo, la estabilización de taludes y la selección de **especies nativas** para garantizar la efectividad de la reforestación.
+
+Si bien la tarea es monumental, lo que está en juego es el **futuro ecológico de Quito**. Las próximas generaciones dependerán de las decisiones que tomemos hoy. La **reforestación** no solo es una acción necesaria para contrarrestar los incendios, sino una oportunidad para rediseñar nuestro compromiso con el medio ambiente, fomentando ecosistemas más resilientes y una mayor conciencia ambiental.
+
 En Ecuador, la crisis del pasto afectó la producción de leche de pequeños ganaderos
 ===================================================================================
 
@@ -132,7 +339,7 @@ Más noticias
 
 La época seca, que normalmente dura dos meses, se extendió de junio a septiembre, combinándose con fuertes vientos y alta radiación solar. Como resultado, la cobertura vegetal se volvió marrón y pajiza.
 
-La disminución en la producción de pasto es más evidente en áreas sin acceso a canales de riego, especialmente en colinas y montañas hasta 3 500 metros de altura. En contraste, en los valles, donde se concentra el 20% del riego del país, la situación es menos severa, según Gabriela Espinosa, presidenta de la Asociación Ganadera de la Sierra y el Oriente (AGSO).
+La disminución en la producción de pasto es más evidente en áreas sin acceso a canales de riego, especialmente en colinas y montañas hasta 3 500 metros de altura. En contraste, en los valles, donde se concentra el 20% del riego del país, la situación es menos severa, según Gabriel Espinosa, presidente de la Asociación Ganadera de la Sierra y el Oriente (AGSO).
 
 Normalmente, una vaca consume el 10% de su peso corporal en forrajes verdes, que contienen un 80% de agua. En épocas de producción, esta demanda aumenta en un 10% adicional.
 
@@ -904,219 +1111,3 @@ Lo que pasaba después de las 5 a.m.
 -----------------------------------
 
 A pesar de las negaciones de algunas estrellas, fuentes cercanas aseguran que lo verdaderamente impactante sucedía al amanecer. “Lo que sucedió antes de las 2 a.m. palidece en comparación con lo que ocurrió a las 5 a.m.”, señaló una fuente a **Us Weekly**, sugiriendo que las celebridades sabían cuándo retirarse antes de que comenzaran los comportamientos más extremos.
-
-Yailin La Más Viral cambió el color de sus ojos con una cirugía
-===============================================================
-
-¿Cuánto le costó la operación a la cantante?
---------------------------------------------
-
-![Yailin La Más Viral se sometió a un procedimiento estético en los ojos. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/yailin-El-comercio.jpg)
-
-La influencer y rapera dominicana **Yailin La Más Viral** sorprendió a sus seguidores con un nuevo y radical cambio estético. Esta vez, decidió modificar el **color de sus ojos**, sometiéndose a una cirugía en una exclusiva clínica de Florida, EE. UU.
-
-El color elegido fue Miami Gris, un tono gris bastante claro y el procedimiento duró una hora. Así lo señaló la revista People en español.
-
-Detalles de la cirugía para cambiar el color de los ojos
---------------------------------------------------------
-
-La **cirugía que Yailin La Más Viral** se realizó es conocida como queratopigmentación.
-
-Consiste en la inyección de pigmento en la córnea, un procedimiento delicado que conlleva riesgos como infecciones oculares y posibles efectos a largo plazo.
-
-A pesar de las críticas que recibió en redes sociales por su decisión, Yailin ha mostrado satisfacción con el resultado, exhibiendo orgullosa su nueva mirada.
-
-¿Cuánto cuesta una cirugía para cambiar el color de los ojos?
--------------------------------------------------------------
-
-Dice la revista People que la cirugía para cambiar el color de los ojos a la que Yailin se sometió tiene un costo de 12 mil dólares. La cantante aprovechó su estancia en **Estados Unidos** para realizarse el procedimiento estético.
-
-Reacciones y críticas en redes sociales
----------------------------------------
-
-Como es habitual, las reacciones no se hicieron esperar. Muchos internautas cuestionaron el cambio y dejaron comentarios irónicos.
-
-“¿Y para cuándo la cirugía en las cuerdas vocales?” o “Mejor que se cambie la voz”, escribieron en redes. A pesar de las críticas, Yailin parece no dejar que los comentarios afecten su determinación de continuar modificando su apariencia.
-
-A sus 22 años, la madre de Cattleya sigue siendo tendencia por cada cambio estético que realiza, manteniendo a sus seguidores y detractores atentos a cada uno de sus movimientos.
-
-Este cambio, al igual que otros que ha realizado en el pasado, genera tanto admiración como controversia en el mundo de las redes sociales.
-
-Riesgos de la queratopigmentación
----------------------------------
-
-La **queratopigmentación** es un procedimiento estético que consiste en modificar el color del iris mediante la inyección de pigmentos en la córnea. La cirugía dura aproximadamente entre 30 minutos y una hora, y es relativamente rápida.
-
-Los resultados de la queratopigmentación son permanentes, aunque algunos pacientes pueden necesitar retoques a lo largo del tiempo para mantener la intensidad del color. Sin embargo, el procedimiento no está exento de riesgos, ya que aumenta la probabilidad de **infecciones oculares**, cicatrices en la córnea y, en algunos casos, puede afectar la visión.
-
-Otros efectos secundarios incluyen sequedad ocular, sensibilidad a la luz y, en casos más graves, problemas de visión a largo plazo. Por ello, es importante que el procedimiento sea realizado por un especialista cualificado para minimizar riesgos.
-
-Elecciones de 2025, impugnaciones y ajustes finales antes de la campaña electoral
-=================================================================================
-
-Después de la inscripción de candidaturas y la resolución de objeciones, el proceso electoral entra en una nueva fase.
-----------------------------------------------------------------------------------------------------------------------
-
-![Las próximas elecciones generales se desarrollarán el 9 de febrero de 2025](https://www.elcomercio.com/wp-content/uploads/2024/08/candidatos-presidencia.jpg)
-
-Después de la **inscripción de candidaturas y la resolución de objeciones**, el proceso electoral entra en una fase para garantizar la transparencia y el respeto a los **derechos políticos**.
-
-### Más noticias
-
-* [Candidaturas en firme, pasos clave para la validación en las elecciones de 2025](https://www.elcomercio.com/actualidad/politica/candidaturas-firme-pasos-validacion-elecciones-2025.html "Candidaturas en firme, pasos clave para la validación en las elecciones de 2025")
-* [Multas por realizar campaña anticipada a las elecciones de 2025](https://www.elcomercio.com/actualidad/politica/multas-realizar-campana-anticipada-elecciones-2025.html "Multas por realizar campaña anticipada a las elecciones de 2025")
-* [Plazo para pagar multas electorales en el CNE termina](https://www.elcomercio.com/actualidad/politica/plazo-pagar-multas-electorales-cne.html "Plazo para pagar multas electorales en el CNE termina")
-
-Desde el 1 de octubre hasta el 20 de octubre de 2024, las **organizaciones políticas** o los candidatos tienen la posibilidad de presentar **recursos subjetivos** contenciosos ante el **Tribunal Contencioso Electoral (TCE)**. Este recurso busca garantizar que cualquier discrepancia sobre las candidaturas inscritas sea resuelta en última instancia por el **órgano competente**.
-
-> AHORA 🟡🔵🔴 | Se reinstala la Sesión Ordinaria No. 83 del [#PlenoCNE](https://twitter.com/hashtag/PlenoCNE?src=hash&ref_src=twsrc%5Etfw), a través de medios telemáticos.💻[https://t.co/IhgNQiUs2l](https://t.co/IhgNQiUs2l)
-> 
-> — cnegobec (@cnegobec) [October 4, 2024](https://twitter.com/cnegobec/status/1842250224087253491?ref_src=twsrc%5Etfw)
-
-El **T**CE deberá sustanciar estos recursos entre el 19 de octubre y el 10 de noviembre de 2024.
-
-Durante este tiempo, el tribunal analizará los **argumentos presentados y emitirá sus fallos**, asegurando la integridad del proceso de calificación de candidaturas​.
-
-**Paúl Desamblanc**, parlamentario andino por la Izquierda Democrática (ID), lista 12, objetó la candidatura presidencial de **Carlos Rabascall**, inscrita por su propia agrupación política.
-
-Desamblanc sostuvo ante el **Consejo Nacional Electoral (CNE)** que la directiva del partido alteró los reglamentos internos para permitir dicha postulación.
-
-Promoción electoral y campaña
------------------------------
-
-Con las candidaturas ya definidas, la siguiente etapa clave es la **promoción electoral**. A partir del 31 de diciembre de 2024, se **aprobará la determinación del fondo para la promoción electoral**.
-
-Este fondo tiene como propósito garantizar que todas las candidaturas cuenten con recursos para difundir sus **propuestas de manera equitativa** Con la finalidad para que el financiamiento sea un factor de desigualdad.
-
-La campaña electoral para la **primera vuelta** está programada para comenzar el 5 de enero de 2025 y culminará el 6 de febrero de 2025. Durante este tiempo, los candidatos podrán **desplegar sus estrategias de comunicación** y dirigirse a los votantes para explicar sus **planes y proyectos**.
-
-La campaña debe cumplir con las normas del **Código de la Democracia** y respetar los tiempos establecidos para evitar **sanciones o irregularidades**​.
-
-Debate presidencial y simulacros
---------------------------------
-
-El debate presidencial está programado para el 19 de enero de 2025, donde los principales candidatos tendrán la oportunidad de **confrontar ideas y mostrar sus capacidades** ante la opinión pública.
-
-Este evento será uno de los hitos más relevantes de la campaña, ya que permitirá a los ciudadanos comparar las propuestas de los **aspirantes a la presidencia**.
-
-> [#EcuadorDecide2025](https://twitter.com/hashtag/EcuadorDecide2025?src=hash&ref_src=twsrc%5Etfw) 📍  
->   
-> Los medios de comunicación 📺📻📰 y empresas de vallas publicitarias 🪧 que quieran participar como proveedores de promoción electoral en las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) 🗳️🇪🇨 deben registrarse hasta el 1⃣3⃣ de octubre en el siguiente enlace. ⤵️… [pic.twitter.com/aH9KUboprC](https://t.co/aH9KUboprC)
-> 
-> — cnegobec (@cnegobec) [October 3, 2024](https://twitter.com/cnegobec/status/1841926845169582250?ref_src=twsrc%5Etfw)
-
-Por otro lado, el CNE realizará simulacros técnicos y pruebas del sistema electoral. Esta fase sirve para garantizar que los **procesos de votación, transmisión de resultados y escrutinio** se desarrollen sin inconvenientes. Estos simulacros tendrán lugar entre el 16 y el 26 de enero de 2025, asegurando que el sistema esté preparado para las elecciones​.
-
-Primera vuelta electoral y resultados
--------------------------------------
-
-El 9 de febrero de 2025, se llevará a cabo la primera vuelta electoral. En esta fecha, los ciudadanos acudirán a las urnas para elegir al **Presidente, Vicepresidente, asambleístas y parlamentarios andinos**.
-
-Los primeros resultados oficiales se **conocerán ese mismo día**. Posterior, el escrutinio oficial se prolongará hasta el **19 de febrero de 2025**, fecha límite para la proclamación de resultados.
-
-En caso de que ningún binomio presidencial alcance la mayoría absoluta o el **40% de votos con una diferencia de al menos 10 puntos** porcentuales sobre el segundo lugar, se convocará a una segunda vuelta, que se llevaría a cabo el 13 de abril de 2025.
-
-Paneles solares están en auge en Ecuador
-========================================
-
-El interés por la energía solar en hogares ecuatorianos crece debido a su impacto positivo en el ahorro energético y la sostenibilidad.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Instalación de paneles solares para casas en Ecuador se incrementa. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2024/10/paneles.jpeg)
-
-En los últimos años, el uso de **energía solar** ha ganado terreno en **Ecuador**, principalmente en las familias o empresas interesadas en reducir los costos de la planilla de energía eléctrica. Además, son una alternativa para afrontar la **crisis energética** por la que atraviesa el país[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?](https://www.elcomercio.com/actualidad/negocios/produccion-central-coca-codo-sinclair-cortes-luz-crisis-energetica.html "Cortes de luz se reducen por Coca Codo Sinclair, ¿por qué?")
-* [Ecuador busca cambiar la matriz energética para evitar cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-busca-cambiar-matriz-energetica-evitar-cortes-luz.html "Ecuador busca cambiar la matriz energética para evitar cortes de luz")
-* [Ecuador y Japón acuerdan préstamo para proyecto geotérmico en Chachimbiro](https://www.elcomercio.com/actualidad/negocios/ecuador-y-japon-acuerdan-prestamo-para-proyecto-geotermico-en-chachimbiro.html "Ecuador y Japón acuerdan préstamo para proyecto geotérmico en Chachimbiro")
-
-Los costos de los paneles solares disminuyen, lo que hace posible su uso tanto en pequeños proyectos como en grandes instalaciones.
-
-Sistemas de paneles solares en Ecuador
---------------------------------------
-
-En Ecuador, estos sistemas están en pleno crecimiento. Hay una alta demanda tanto de **sistemas conectados a la red** **eléctrica** (on grid), como de **sistemas independientes de la red** (off grid).
-
-En los sistemas **on grid**, los paneles solares están conectados a la red eléctrica, mediante **inversores**. Esto permite que los usuarios puedan autogenerar energía y, en caso de generar excedentes, inyectarlos a la red para recibir un crédito.
-
-Por razones de seguridad, estos sistemas se desconectan automáticamente si hay una falla en la red, aunque los paneles sigan produciendo energía.
-
-Una alternativa ante la crisis por los cortes de luz
-----------------------------------------------------
-
-**Paúl Coral**, docente en energías renovables, explicó que estos sistemas buscan reducir los costos de la **factura eléctrica**. Estos están bajo la regulación 008/23 de la Agencia de Regulación y Control de Energía, que permite a los **consumidores aprovechar excedentes** de energía hasta por 24 meses.
-
-Mientras que, los sistemas **off grid** son totalmente independientes de la red pública. Utilizan **baterías** para almacenar la **energía producida durante el día**. Esto los convierte en una solución ideal para zonas aisladas, donde no existe acceso a la electricidad. Sin embargo, este sistema es más costoso.
-
-Pero, ante la crisis energética por la que atraviesa el Ecuador, debido a la sequía que dificulta el normal funcionamiento de las hidroeléctricas, los **paneles solares** con **baterías** se convierten en una alternativa para garantizar el suministro. Además, en zonas rurales o sin acceso a la red pública, estos sistemas aislados ofrecen independencia y seguridad energética, dijo Coral.
-
-Se estima que la demanda de paneles solares creció cerca del 30% en el último año. Solo la empresa **Energy Control** incrementó el 71,5% en sus ventas entre 2022 y 2023, en soluciones de eficiencia energética y energías renovables. Asimismo, ha instalado paneles solares en más de 200 hogares en Ecuador.
-
-Por ejemplo: un sistema de paneles solares con una capacidad de 10 kilovatios de potencia, que sirve para una familia de cuatro personas que consumen 250 KWh al mes, con cocina de inducción y calentador de agua eléctrico, tiene un costo promedio de inversión de 10 000 dólares.
-
-Proceso de instalación de paneles solares
------------------------------------------
-
-Para la instalación de un sistema de paneles solares, es esencial realizar un estudio de **viabilidad técnica**. Esto permite determinar el potencial de aprovechamiento solar del lugar. A continuación, se realiza el montaje de las estructuras que soportarán los paneles y se los instalan.
-
-Posteriormente, se coloca los **inversores solares** que convertirán la energía generada en corriente utilizable, y se conectan los cables fotovoltaicos que garantizarán la eficiencia del sistema.
-
-Este proceso culmina con la **legalización del proyecto ante la empresa eléctrica** y la puesta en marcha del sistema, permitiendo que el propietario comience a disfrutar de los beneficios de la energía solar, tanto en términos de ahorro como de reducción de emisiones de CO2.
-
-(Video) YouTuber choca su vehículo McLaren mientras transmitía en vivo
-======================================================================
-
-La cuenta del 'streamer' Jack Doherty en la plataforma Kick fue bloqueada por la transmisión en vivo del siniestro.
--------------------------------------------------------------------------------------------------------------------
-
-![En los videos se ve cómo quedaron pedazos del auto McLaren botados en diferentes lugares de la carretera. FOTO: capturas de videos](https://www.elcomercio.com/wp-content/uploads/2024/10/youtuber-jack-doherty-siniestro-miami-mclaren.png)
-
-En redes sociales se ha hecho viral el caso del **YouTuber Jack Doherty por el siniestro** que tuvo con su vehículo McLaren.
-
-El incidente ha provocado toda clase de **reacciones entre sus seguidores y la comunidad** en general por el detalle de los hechos.
-
-Más noticias
-------------
-
-* [Beyoncé perdió millones de seguidores por su conexión con ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html)
-* [Pink Floyd vende su música y sus derechos por 400 millones de dólares](https://www.elcomercio.com/afull/pink-floyd-vende-musica-derechos-400-millones-dolares.html)
-
-Este sábado, 5 de octubre de 2024, el denominado YouTuber Jack Doherty **ocasionó un siniestro en una carretera de Miami, Florida.**
-
-El ambiente en esta zona de **la ciudad tenía condiciones húmedas, con lluvia y carretera resbaladiza**. En videos de redes sociales, se ve al joven de 20 años manejar el vehículo deportivo con el celular en la mano, **mientras salía en una transmisión en vivo.**
-
-En el asiento del copiloto iba su compañero de grabaciones, al que llamó Michael. En medio de la transmisión Doherty **pierde el control de su auto y termina deslizándose en la vía** hasta colisionar con una barrera de seguridad.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAyh2cnO9Op/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de ABC (@abc\_diario)](https://www.instagram.com/reel/DAyh2cnO9Op/?utm_source=ig_embed&utm_campaign=loading)
-
-El propio ‘influencer’ publicó los videos en sus canales. **En otro video se ve** como piden a gritos ayuda desde adentro del auto. Mientras algunos testigos intentan abrir la ventana y logran sacarlo del vehículo, **el joven permaneció filmando con su celular.**
-
-**Mientras al copiloto seguían sin sacarlo de su asiento, al YouTuber se lo puede ver grabándose** en lamentos por cómo quedó el auto. Minutos después de se percata de la situación de su compañero y acude a verlo y lo graba. En la toma se lo puede ver **aturdido, agarrándose la muñeca del brazo izquierdo y con una mancha de sangre en un lado de su rostro**. Ambos fueron trasladados a una casa de salud cercana.
-
-> [@elcomerciocom](https://www.tiktok.com/@elcomerciocom?refer=embed "@elcomerciocom")
-> 
-> El youtuber de 20 años Jack Doherty estaba emitiendo en directo desde la plataforma de streaming Kick mientras conducía su McLaren.
-> 
-> [♬ sonido original – elcomerciocom](https://www.tiktok.com/music/sonido-original-7422730702432865030?refer=embed "♬ sonido original - elcomerciocom")
-
-Detalles del vehículo
----------------------
-
-El auto siniestrado en la carretera **es un modelo McLaren 570S.** Según las especificaciones de la marca, el auto **alcanza una velocidad máxima de 328 km/h** y puede llegar de 0 a 100 km/h en 3,2 segundos.
-
-El **modelo 570S 2024 puede llegar a costar USD 395 000**, según el portal Cars Guide. Cuando el YouTuber compartió en sus canales que compró el McLaren a fines del año pasado contó que **lo adquirió por USD 202 855,10.**
-
-Este vehículo inauguró una nueva gama de la casa automotriz inglesa con el nombre Sports Series. Los **rivales directos de este modelo en otras marcas** son el Porsche 911 Turbo, Audi R8 V10 o el Mercedes AMG GT-S, a decir del portal Auto Bild.
-
-Las reacciones en redes sociales
---------------------------------
-
-El joven ‘streamer’ era popular entre su **comunidad en YouTube y en la plataforma Kick**. En está última su **cuenta fue bloqueada** por el siniestro causado.
-
-Los usuarios en redes han dejado ver su molestia en los comentarios por su **impericia e irresponsabilidad al momento de conducir.** Algunos han pedido que se le **levanten cargos criminales** por manejar de esa manera y poner en riesgo su vida, la de su copiloto y demás personas que usan esta carretera.
-
-Además, el siniestro ha generado debates sobre **a quiénes los propios seguidores convierten en ‘YouTubers’ o ‘influencers’.**
