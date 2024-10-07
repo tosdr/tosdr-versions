@@ -436,22 +436,6 @@ Regular price $129.99
 
 Unit price /  per](https://www.atari.com/products/atari-7800) 
 
-[![Super Pocket Atari Edition](files/Image2-DualShotcopy.jpg)
-
-![Super Pocket Atari Edition](files/Image4-Lifestyle.png)
-
-Pre-Order
-
-PRE-ORDER
-
-##### Super Pocket Atari Edition
-
-Regular price Sale price $59.99
-
-Regular price $59.99
-
-Unit price /  per](https://www.atari.com/products/super-pocket-atari-edition) 
-
 [![Distressed Fuji Tee](files/unisex-garment-dyed-heavyweight-t-shirt-red-front-66fab44f48ccacopy.jpg)
 
 ![Distressed Fuji Tee](files/unisex-garment-dyed-heavyweight-t-shirt-black-front-66fab44f45c0ccopy.jpg)
@@ -480,6 +464,34 @@ Regular price $30
 
 Unit price /  per](https://www.atari.com/products/distressed-fuji-tee)     
 
+[![Atari 2600+ Controller Mega Bundle](files/2600__Bundle.webp)
+
+![Atari 2600+ Controller Mega Bundle](files/2600-console-1.webp)
+
+Add to cart
+
+##### Atari 2600+ Controller Mega Bundle
+
+Regular price $199.95 Sale price $169.95
+
+Regular price $169.95
+
+Unit price /  per](https://www.atari.com/products/atari-2600-controller-mega-bundle) 
+
+[![Atari 2600+](files/ProductImage-AV2.jpg)
+
+![Atari 2600+](files/ProductImage-B_0f8f2edb-45f7-40a3-8a45-abb110968be5.jpg)
+
+Add to cart
+
+##### Atari 2600+
+
+Regular price $129.99 Sale price $129.99
+
+Regular price $129.99
+
+Unit price /  per](https://www.atari.com/products/atari-2600-plus) 
+
 [![Atari 7800+ Controller Mega Bundle](files/7800_BundleProduct1.jpg)
 
 ![Atari 7800+ Controller Mega Bundle](files/7800_BundleProduct3.jpg)
@@ -496,19 +508,21 @@ Regular price $169.95
 
 Unit price /  per](https://www.atari.com/products/atari-7800-mega-bundle) 
 
-[![Atari 2600+](files/ProductImage-AV2.jpg)
+[![Super Pocket Atari Edition](files/Image2-DualShotcopy.jpg)
 
-![Atari 2600+](files/ProductImage-B_0f8f2edb-45f7-40a3-8a45-abb110968be5.jpg)
+![Super Pocket Atari Edition](files/Image4-Lifestyle.png)
 
-Add to cart
+Pre-Order
 
-##### Atari 2600+
+PRE-ORDER
 
-Regular price $129.99 Sale price $129.99
+##### Super Pocket Atari Edition
 
-Regular price $129.99
+Regular price Sale price $59.99
 
-Unit price /  per](https://www.atari.com/products/atari-2600-plus) 
+Regular price $59.99
+
+Unit price /  per](https://www.atari.com/products/super-pocket-atari-edition) 
 
 [![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Group.jpg)
 
