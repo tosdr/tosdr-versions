@@ -332,14 +332,14 @@ Accepted Web-Rings.
 Recent Comments
 ---------------
 
+* [S-Config](https://www.s-config.com/) on [Sleeper E-Server PC](https://www.s-config.com/sleeper-e-server-pc/comment-page-1/#comment-89927)
+* WinDVD on [Sleeper E-Server PC](https://www.s-config.com/sleeper-e-server-pc/comment-page-1/#comment-89926)
 * xu on [Default WordPress video test.](https://www.s-config.com/wordpress-video/comment-page-1/#comment-89835)
 * [S-Config](https://www.s-config.com/) on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-89700)
 * mantle on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-89680)
 * Ongion on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-89276)
 * [S-Config](https://www.s-config.com/) on [Taking a step back – PI Vs. Thin Client.](https://www.s-config.com/taking-a-step-back-pi-vs-thin-client/comment-page-1/#comment-89234)
 * Andre on [Taking a step back – PI Vs. Thin Client.](https://www.s-config.com/taking-a-step-back-pi-vs-thin-client/comment-page-1/#comment-89137)
-* Big T Jiggly on [I am the post apocalyptic girl](https://www.s-config.com/i-am-the-post-apocalyptic-girl/comment-page-1/#comment-89059)
-* [S-Config](https://www.s-config.com/) on [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/comment-page-1/#comment-88580)
 
 The only advertisement banner you will see.
 -------------------------------------------
