@@ -307,24 +307,26 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzo...](https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzorju)
     
-    [12:00 Marko Požlep, BG](javascript:void(0);)
+    [12:00 Vesna Pavlović, BG](javascript:void(0);)
     
-    **06.06.2024 | 12:00**
+    **16.06.2024 | 12:00**
     
-    Galerija Hestia, Toličin venac 14/9, Beograd
+    **[CZKD, Beograd](http://seecult.org/institucija/czkd-beograd)**
     
-    **MARKO POŽLEP** (Slovenija): **TRAJNI ODMOR / PERMANENT VACATION** - izložba crteža Jadranske magistrale (Trst-Ada Bojana) (5.6.-6.10.2024.)
+    **VESNA PAVLOVIĆ: EMOTIVNE MAPE** - izložba fotografija (15.6.-15.10.2024.)
     
-    [https://hestiabelgrade.com](https://hestiabelgrade.com/)
+    kustoskinje: dr Jelena Vesić i dr Ana Miljanić
+    
+    [http://www.czkd.org](http://www.czkd.org/)
     
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/marica-radojcic-presic/five-eggs/voz.jpg?itok=Y9JOfjMz)](http://seecult.org/galerija/galerija-umetnika/marica-radojcic-presic/five-eggs)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-colakovic-silja/skulptura/silja3.jpg?itok=tEaJZ1Kf)](http://seecult.org/galerija/galerija-umetnika/dragan-colakovic-silja/skulptura)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/art-music-001.jpg?itok=YVv_lL7k)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/nagradjeni-filmovi-4-animateke/lost-snow.jpg?itok=qAPtqDQd)](http://seecult.org/galerija/foto-galerija/foto-arhiva/nagradjeni-filmovi-4-animateke)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
