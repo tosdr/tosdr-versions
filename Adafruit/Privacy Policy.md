@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time”
+“ A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering”
 
-[Tom Cargill](http://en.wikipedia.org/wiki/Ninety-ninety_rule)
+[Freeman Dyson](http://en.wikipedia.org/wiki/Freeman_Dyson)
 
 [](https://www.adafruit.com/about)
 
