@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6/20241006T140833/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6/20241006T140833/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6_360x203.jpg)](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
+    *  [![](https://media.king5.com/assets/KING/images/8dc1f37d-9891-43f1-8dd4-fb8a6d8022de/20241001T013516/8dc1f37d-9891-43f1-8dd4-fb8a6d8022de_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8dc1f37d-9891-43f1-8dd4-fb8a6d8022de/20241001T013516/8dc1f37d-9891-43f1-8dd4-fb8a6d8022de_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-striking-machinists-negotiation-set-monday/281-b1dfaca6-8be4-4997-8a3d-ad00e0511372)
+        
+        #### [Boeing, union of striking machinists to resume negotiations Monday](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-striking-machinists-negotiation-set-monday/281-b1dfaca6-8be4-4997-8a3d-ad00e0511372)
+        
+    *  [![](https://media.king5.com/assets/KING/images/608077b0-17f3-41e9-ae4c-e96177400de2/20241007T124632/608077b0-17f3-41e9-ae4c-e96177400de2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/608077b0-17f3-41e9-ae4c-e96177400de2/20241007T124632/608077b0-17f3-41e9-ae4c-e96177400de2_360x203.jpg)](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
         
         #### [Thurston County Sheriff Derek Sanders struck by suspected impaired driver in Olympia](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
-        
-    *  [![](https://media.king5.com/assets/KING/images/bd9a08f0-7200-4953-9149-6f1224286480/20241007T013101/bd9a08f0-7200-4953-9149-6f1224286480_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bd9a08f0-7200-4953-9149-6f1224286480/20241007T013101/bd9a08f0-7200-4953-9149-6f1224286480_360x203.jpg)](https://www.king5.com/article/news/crime/easy-street-records-dealing-two-incidents-damaging-store-over-weekend/281-5b666182-0593-4291-8128-98337c612f77)
-        
-        #### ['Easy Street Records' dealing with two incidents damaging store over weekend](https://www.king5.com/article/news/crime/easy-street-records-dealing-two-incidents-damaging-store-over-weekend/281-5b666182-0593-4291-8128-98337c612f77)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/7b1d3400-5cca-4126-801f-7721d215c9bb/20241006T151818/7b1d3400-5cca-4126-801f-7721d215c9bb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7b1d3400-5cca-4126-801f-7721d215c9bb/20241006T151818/7b1d3400-5cca-4126-801f-7721d215c9bb_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/5faa70c2-1d37-4a25-a7ba-05c26b12790b/20241007T122212/5faa70c2-1d37-4a25-a7ba-05c26b12790b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5faa70c2-1d37-4a25-a7ba-05c26b12790b/20241007T122212/5faa70c2-1d37-4a25-a7ba-05c26b12790b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-53°
+49°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
