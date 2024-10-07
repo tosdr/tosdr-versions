@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Free And EasyDierks Bentley<br><br>4:57am |
-| Beatles And EaglesThe Frontman<br><br>4:53am |
-| Need You NowLady A<br><br>4:49am |
-| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>4:46am |
-| Lights Come OnJason Aldean<br><br>4:38am |
+| Wind Up Missing YouTucker Wetmore<br><br>11:39am |
+| Cowboys Cry TooKelsea Ballerini Ft Noah Kahan<br><br>11:34am |
+| I Go BackKenny Chesney<br><br>11:30am |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>11:25am |
+| I Am Not OkayJelly Roll<br><br>11:22am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,6 +495,10 @@ State
 Featured Brands
 ---------------
 
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
@@ -503,13 +507,9 @@ Spanish • Western
 
 Top 40 • Pacific NW
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-News Talk • Eastern
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
