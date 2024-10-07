@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| All Summer LongKid Rock<br><br>11:40pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>11:37pm |
-| Hometown HomeLocash<br><br>11:33pm |
-| Lies, Lies, LiesMorgan Wallen<br><br>11:30pm |
-| What My World Spins AroundJordan Davis<br><br>11:27pm |
+| Free And EasyDierks Bentley<br><br>4:57am |
+| Beatles And EaglesThe Frontman<br><br>4:53am |
+| Need You NowLady A<br><br>4:49am |
+| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>4:46am |
+| Lights Come OnJason Aldean<br><br>4:38am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -366,13 +366,13 @@ Country • Western
 
 Sports • Midwest
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Top 40 • Eastern
+Top 40 • Pacific NW
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
