@@ -6,9 +6,7 @@
 
 [text.skipToContent](#skip-to-content) [text.skipToNavigation](#skiptonavigation) 
 
-[![Free Shipping to Your Home](https://dam.generac.com/ImConvServlet/imconv/07cd0ef0e6c2104bb79511a74a2395e1177e9f83/original)](https://www.drpower.com/pages/content/customer-support/shopping-resources/shipping)
-
-[Some Limitations Apply](https://www.drpower.com/pages/content/customer-support/shopping-resources/shipping)
+![Free Shipping to Your Home](https://dam.generac.com/ImConvServlet/imconv/ffa820944c9922377f72daa25d90e9271e7a5f48/original)
 
 * [Contact Us](https://www.drpower.com/pages/content/customer-support/contact-us)
 * [live chat](#)
