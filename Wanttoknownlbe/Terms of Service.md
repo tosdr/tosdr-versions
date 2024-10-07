@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/wef-schwab/het-landverraad-van-rutte-wef-rules/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/de-ik-wou-dat-het-waar-was-wasmasjien-is-echt-waar/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
