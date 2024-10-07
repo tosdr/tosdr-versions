@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Sticker Mule Trump sign](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Sticker-Mule-Trump-sign-432x243.jpg)](https://lawandcrime.com/lawsuit/business-owner-forced-to-cover-large-vote-for-trump-sign-atop-building-after-city-obtains-restraining-order-over-traffic-concerns/)
+1. [![Justin Mohn, Michael Mohn](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Justin-Mohn-432x243.jpg)](https://lawandcrime.com/crime/son-who-murdered-u-s-army-corps-of-engineers-dad-showed-off-head-on-youtube-and-rambled-about-trying-to-perform-a-citizens-arrest-may-face-death-penalty-da/)
     
-    ### [Business owner forced to cover large 'Vote for Trump' sign atop building after city obtains restraining order over traffic concerns](https://lawandcrime.com/lawsuit/business-owner-forced-to-cover-large-vote-for-trump-sign-atop-building-after-city-obtains-restraining-order-over-traffic-concerns/)
+    ### [Son who murdered U.S. Army Corps of Engineers dad, showed off head on YouTube, and rambled about 'trying to perform a citizen's arrest' may face death penalty: DA](https://lawandcrime.com/crime/son-who-murdered-u-s-army-corps-of-engineers-dad-showed-off-head-on-youtube-and-rambled-about-trying-to-perform-a-citizens-arrest-may-face-death-penalty-da/)
     
-2. [![Michael Cook Sr. (Sex Offender Registry Board).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Michael-Cook-Sr-432x243.png)](https://lawandcrime.com/crime/man-broke-into-wifes-home-and-fatally-beat-her-in-head-with-hammer-as-she-lay-in-bed/)
+2. [![Romeoville quadruple murder](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Romeoville-quadruple-murder-with-family-photo-432x243.jpg)](https://lawandcrime.com/crime/hit-the-two-adults-first-woman-learned-her-fiance-was-having-an-affair-so-she-manipulated-him-into-murdering-lover-her-family-cops-say/)
     
-    ### [Man broke into wife's home and fatally beat her in head with hammer as she lay in bed](https://lawandcrime.com/crime/man-broke-into-wifes-home-and-fatally-beat-her-in-head-with-hammer-as-she-lay-in-bed/)
+    ### ['Hit the two adults first': Woman learned her fiancé was having an affair so she manipulated him into murdering lover, her family, cops say](https://lawandcrime.com/crime/hit-the-two-adults-first-woman-learned-her-fiance-was-having-an-affair-so-she-manipulated-him-into-murdering-lover-her-family-cops-say/)
     
-3. [![Background: Villanova University (YouTube). Inset: Mirvan Dinler (Delaware County (Penn.) District Attorney's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Mirvan-Dinler-Uber-assault-432x243.jpg)](https://lawandcrime.com/crime/uber-driver-followed-college-student-into-dorm-room-sexually-assaulted-her-demanded-money-police/)
+3. [![Jennifer Massey mug shot](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Jennifer-Massey-432x243.jpg)](https://lawandcrime.com/crime/art-teacher-caught-engaged-in-sexual-contact-with-minor-student-at-under-construction-home-just-minutes-away-from-high-school-sheriff/)
     
-    ### [Uber driver followed college student into dorm room, sexually assaulted her, demanded money: Police](https://lawandcrime.com/crime/uber-driver-followed-college-student-into-dorm-room-sexually-assaulted-her-demanded-money-police/)
+    ### [Art teacher caught 'engaged in sexual contact' with minor student at 'under construction home' just minutes away from high school during 'Crime Prevention Month': Sheriff](https://lawandcrime.com/crime/art-teacher-caught-engaged-in-sexual-contact-with-minor-student-at-under-construction-home-just-minutes-away-from-high-school-sheriff/)
     
-4. [![A stolen vehicle is driven through a playground at a school in Minneapolis, Minn. (Minneapolis Police Department).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Stolen-car-Minneapolis-playground-432x243.jpg)](https://lawandcrime.com/crime/stolen-car-seen-circling-playground-full-of-children-was-driven-by-10-year-old-boy-police/)
+4. [![Nancy Pelosi, Donald Trump](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Pelosi-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/cannot-ignore-or-hide-from-this-binding-precedent-trump-blames-nancy-pelosi-as-he-cites-another-supreme-court-decision-to-dismiss-jan-6-charges/)
     
-    ### [Stolen car seen circling playground full of children was driven by 10-year-old boy: Police](https://lawandcrime.com/crime/stolen-car-seen-circling-playground-full-of-children-was-driven-by-10-year-old-boy-police/)
+    ### ['Cannot ignore or hide from' this 'binding precedent': Trump blames Nancy Pelosi as he cites another Supreme Court decision to dismiss Jan. 6 charges](https://lawandcrime.com/high-profile/cannot-ignore-or-hide-from-this-binding-precedent-trump-blames-nancy-pelosi-as-he-cites-another-supreme-court-decision-to-dismiss-jan-6-charges/)
     
-5. [![Background: The aftermath of a tanker-truck crash that killed five people in Springfield, Ill. Inset: Footage of a car believed to have been connected to the crash (WCIA/YouTube).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Illinois-tanker-crash-432x243.jpg)](https://lawandcrime.com/high-profile/totally-my-bad-wow-holy-s-teen-driver-says-fatal-tanker-crash-toxic-chemical-spill-may-have-been-her-fault-after-watching-dashcam-video/)
+5. [![Aubree Horton (WAGA).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Aubree-Horton-432x243.png)](https://lawandcrime.com/crime/investigator-of-the-year-broke-into-a-home-where-resident-shot-and-killed-him-authorities/)
     
-    ### ['Totally my bad. Wow. Holy s---': Teen driver says fatal tanker crash, toxic chemical spill may have been her fault after watching dashcam video](https://lawandcrime.com/high-profile/totally-my-bad-wow-holy-s-teen-driver-says-fatal-tanker-crash-toxic-chemical-spill-may-have-been-her-fault-after-watching-dashcam-video/)
+    ### ['Investigator of the Year' broke into a home, where resident shot and killed him: Authorities](https://lawandcrime.com/crime/investigator-of-the-year-broke-into-a-home-where-resident-shot-and-killed-him-authorities/)
     
 
 [](http://eepurl.com/c89Jdb)
