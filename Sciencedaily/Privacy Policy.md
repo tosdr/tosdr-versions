@@ -248,7 +248,7 @@ this week
 
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
-[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
+[Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
 
   
 
