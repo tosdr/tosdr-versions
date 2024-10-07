@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Milton Now a Category 5 Hurricane](https://www.theepochtimes.com/us/milton-expected-to-become-category-5-hurricane-5736830)
+* [Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://www.theepochtimes.com/business/major-wall-street-bank-lowers-chance-of-recession-citing-robust-jobs-data-5736936)
     
-    NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Milton Now a Category 5 Hurricane](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Milton Now a Category 5 Hurricane](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736863-hurricanemilton2-205x123.png.webp)](https://www.theepochtimes.com/us/milton-expected-to-become-category-5-hurricane-5736830)
+    ![Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://img.theepochtimes.com/assets/uploads/2024/08/06/id5700292-GettyImages-2165431872-205x123.jpg.webp)](https://www.theepochtimes.com/business/major-wall-street-bank-lowers-chance-of-recession-citing-robust-jobs-data-5736936)
+* [Supreme Court Tosses Biden Admin’s Appeal in Texas Emergency Abortion Case](https://www.theepochtimes.com/us/supreme-court-tosses-biden-admins-appeal-in-texas-emergency-abortion-case-5736939)
+    
+    1hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    
+    [![Supreme Court Tosses Biden Admin’s Appeal in Texas Emergency Abortion Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court Tosses Biden Admin’s Appeal in Texas Emergency Abortion Case](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737020-10072024-L1160069-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-tosses-biden-admins-appeal-in-texas-emergency-abortion-case-5736939)
+* [A Year Later, Israel Commemorates the Oct. 7 Attack by Hamas](https://www.theepochtimes.com/world/a-year-later-israel-commemorates-the-oct-7-attack-by-hamas-5736965)
+    
+    2hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    
+    [![A Year Later, Israel Commemorates the Oct. 7 Attack by Hamas](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![A Year Later, Israel Commemorates the Oct. 7 Attack by Hamas](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736980-oct-7-memorial-205x123.jpg.webp)](https://www.theepochtimes.com/world/a-year-later-israel-commemorates-the-oct-7-attack-by-hamas-5736965)
+* [House Intel Chairman Calls on FBI to Investigate Whether Would-Be Trump Assassins Linked to Iran](https://www.theepochtimes.com/us/house-intel-chairman-calls-on-fbi-to-investigate-whether-would-be-trump-assassins-linked-to-iran-5736836)
+    
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![House Intel Chairman Calls on FBI to Investigate Whether Would-Be Trump Assassins Linked to Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![House Intel Chairman Calls on FBI to Investigate Whether Would-Be Trump Assassins Linked to Iran](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737109-Mike-Turner-GettyImages-1449159997-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-intel-chairman-calls-on-fbi-to-investigate-whether-would-be-trump-assassins-linked-to-iran-5736836)
+* [Georgia Supreme Court Reinstates State’s Abortion Law](https://www.theepochtimes.com/us/georgia-supreme-court-reinstates-states-abortion-law-5736977)
+    
+    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Georgia Supreme Court Reinstates State’s Abortion Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Georgia Supreme Court Reinstates State’s Abortion Law](https://img.theepochtimes.com/assets/uploads/2024/06/27/id5676682-apapsapdasudasudausdu-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-supreme-court-reinstates-states-abortion-law-5736977)
+* [Elon Musk PAC Says It Will Give Referrers $47 for Every Swing-State Voter Who Signs Petition](https://www.theepochtimes.com/us/elon-musk-pac-says-it-will-give-referrers-47-for-every-swing-state-voter-who-signs-petition-5736882)
+    
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Elon Musk PAC Says It Will Give Referrers $47 for Every Swing-State Voter Who Signs Petition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Elon Musk PAC Says It Will Give Referrers $47 for Every Swing-State Voter Who Signs Petition](https://img.theepochtimes.com/assets/uploads/2024/03/19/id5610754-trump-musk-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/elon-musk-pac-says-it-will-give-referrers-47-for-every-swing-state-voter-who-signs-petition-5736882)
+* [Category 5 Hurricane Milton Boast 180 MPH Winds, Set to Hit Florida as Category 3](https://www.theepochtimes.com/us/milton-expected-to-become-category-5-hurricane-5736830)
+    
+    7hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    
+    [![Category 5 Hurricane Milton Boast 180 MPH Winds, Set to Hit Florida as Category 3](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Category 5 Hurricane Milton Boast 180 MPH Winds, Set to Hit Florida as Category 3](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737150-hurricanemilton5-205x123.png.webp)](https://www.theepochtimes.com/us/milton-expected-to-become-category-5-hurricane-5736830)
 * [FEMA Warns Americans of Scams After Hurricane Helene’s Devastation](https://www.theepochtimes.com/us/fema-warns-americans-of-scams-after-hurricane-helenes-devastation-5736766)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![FEMA Warns Americans of Scams After Hurricane Helene’s Devastation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FEMA Warns Americans of Scams After Hurricane Helene’s Devastation](https://img.theepochtimes.com/assets/uploads/2023/06/26/id5357595-North-Carolina-National-Guard-GettyImages-1033187726-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-warns-americans-of-scams-after-hurricane-helenes-devastation-5736766)
+    ![FEMA Warns Americans of Scams After Hurricane Helene’s Devastation](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736927-North-Carolina-National-Guard-GettyImages-1033187726KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-warns-americans-of-scams-after-hurricane-helenes-devastation-5736766)
 * [Supreme Court Won’t Hear Challenge to Biden’s Order on Voter Registration](https://www.theepochtimes.com/us/supreme-court-wont-hear-challenge-to-bidens-order-on-voter-registration-5736790)
     
-    2hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    8hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Supreme Court Won’t Hear Challenge to Biden’s Order on Voter Registration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Won’t Hear Challenge to Biden’s Order on Voter Registration](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706009-08142024-DSC06974-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-wont-hear-challenge-to-bidens-order-on-voter-registration-5736790)
-* [Milton Strengthens to Category 4 Hurricane, on Track to Hit Florida](https://www.theepochtimes.com/us/milton-strengthens-to-category-3-hurricane-on-track-to-hit-florida-5736718)
-    
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Milton Strengthens to Category 4 Hurricane, on Track to Hit Florida](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Milton Strengthens to Category 4 Hurricane, on Track to Hit Florida](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736828-GettyImages-2176250164-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/milton-strengthens-to-category-3-hurricane-on-track-to-hit-florida-5736718)
+    ![Supreme Court Won’t Hear Challenge to Biden’s Order on Voter Registration](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736930-08142024-DSC06974-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-wont-hear-challenge-to-bidens-order-on-voter-registration-5736790)
 * [New Zealand Navy Vessel Sinks After Running Aground on Samoan Reef](https://www.theepochtimes.com/world/new-zealand-navy-vessel-sinks-after-running-aground-on-samoan-reef-5736664)
     
-    5hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    11hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
     
     [![New Zealand Navy Vessel Sinks After Running Aground on Samoan Reef](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![New Zealand Navy Vessel Sinks After Running Aground on Samoan Reef](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736753-1rG.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/new-zealand-navy-vessel-sinks-after-running-aground-on-samoan-reef-5736664)
-* [Israel Marks 1 Year Since Hamas Oct. 7 Attack, Continues Airstrikes](https://www.theepochtimes.com/world/israel-marks-one-year-since-hamas-attack-continues-airstrikes-5736663)
-    
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Israel Marks 1 Year Since Hamas Oct. 7 Attack, Continues Airstrikes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Israel Marks 1 Year Since Hamas Oct. 7 Attack, Continues Airstrikes](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736748-Oct.-7-anniversary-GettyImages-2177182270-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-marks-one-year-since-hamas-attack-continues-airstrikes-5736663)
-* [The Long Year: How Oct. 7 Changed the Middle East](https://www.theepochtimes.com/world/how-the-middle-east-has-changed-in-the-year-since-oct-7-2023-post-5735981)
-    
-    7hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke) and [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![The Long Year: How Oct. 7 Changed the Middle East](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![The Long Year: How Oct. 7 Changed the Middle East](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736746-Hostage-oct-7-3.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/how-the-middle-east-has-changed-in-the-year-since-oct-7-2023-post-5735981)
-* [Nuclear Power Likely to Grow by Getting Smaller](https://www.theepochtimes.com/business/nuclear-power-likely-to-grow-by-getting-smaller-5735622)
-    
-    7hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
-    
-    [![Nuclear Power Likely to Grow by Getting Smaller](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Nuclear Power Likely to Grow by Getting Smaller](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736755-2.download-94.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/nuclear-power-likely-to-grow-by-getting-smaller-5735622)
-* [Trump Rally at Shooting Site Honored Victim, ‘Transcended Politics’, Attendees Say](https://www.theepochtimes.com/us/trump-rally-at-shooting-site-honored-victim-transcended-politics-attendees-5736258)
-    
-    14hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Trump Rally at Shooting Site Honored Victim, ‘Transcended Politics’, Attendees Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Rally at Shooting Site Honored Victim, ‘Transcended Politics’, Attendees Say](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736751-DSC07999-butler-trump.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-rally-at-shooting-site-honored-victim-transcended-politics-attendees-5736258)
-* [Four Top 11-Ranked Teams Tumbled With Alabama on ‘Upset Saturday’](https://www.theepochtimes.com/sports/four-top-11-ranked-teams-tumbled-with-alabama-on-upset-saturday-5736307)
-    
-    16hr By [Matthew Davis](https://www.theepochtimes.com/author/matthew-davis)
-    
-    [![Four Top 11-Ranked Teams Tumbled With Alabama on ‘Upset Saturday’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Four Top 11-Ranked Teams Tumbled With Alabama on ‘Upset Saturday’](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736756-GettyImages-2176100622.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/sports/four-top-11-ranked-teams-tumbled-with-alabama-on-upset-saturday-5736307)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
