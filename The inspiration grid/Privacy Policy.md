@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/illustration-cabin-studio-feature.jpg)
+
+[](https://theinspirationgrid.com/sometimes-silence-is-love-illustrations-by-cabin-studio/)
+
+### Sometimes Silence is Love: Illustrations by Cabin Studio
+
+![](https://inspgr.id/app/uploads/2024/10/car-mclaren-kevin-andersson-feature.jpg)
+
+[](https://theinspirationgrid.com/mclaren-f1-reimagined-concept-by-kevin-andersson/)
+
+### McLaren F1 Reimagined: Concept by Kevin Andersson
+
 ![](https://inspgr.id/app/uploads/2024/10/branding-dutchscot-sucre-feature.jpg)
 
 [](https://theinspirationgrid.com/sucre-restaurant-branding-by-dutchscot/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/the-new-game-boy-an-ingenious-modular-concept/)
 
 ### The New Game Boy: An Ingenious Modular Concept
-
-![](https://inspgr.id/app/uploads/2024/10/photography-calvin-freeman-feature.jpg)
-
-[](https://theinspirationgrid.com/bleed-atmospheric-photo-series-by-calvin-freeman/)
-
-### Bleed: Atmospheric Photo Series by Calvin Freeman
-
-![](https://inspgr.id/app/uploads/2024/10/illustration-william-dalebout-feature.jpg)
-
-[](https://theinspirationgrid.com/illustrations-by-william-dalebout/)
-
-### Cool Illustrations by William Dalebout
 
 Awesome products for creatives
 ------------------------------
