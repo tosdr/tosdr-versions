@@ -419,11 +419,11 @@ Missing Letter A daily crossword with a twist
 
 Play](https://www.merriam-webster.com/games/missing-letter)
 
-[![spelunker-silhouette ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![petit-fours](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-People of Interest Quiz Can you tell the "sommeliers" from the "spelunkers"?
+Name That Dessert! Hope you’ve saved room for some sweet vocabulary.
 
-Take the quiz](https://www.merriam-webster.com/games/people-interest-quiz)
+Take the quiz](https://www.merriam-webster.com/games/name-that-dessert)
 
 [Merriam Webster](https://www.merriam-webster.com/)
 
