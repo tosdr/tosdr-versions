@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![Fark25 Party](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want the rest of the Farking story? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+All the submissions, none of the calories.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop this bakery service counter](https://www.fark.com/goto/13415904) ( [contemporist.com](https://www.fark.com/goto/13415904) ) » [(8 comments)](https://www.fark.com/comments/13415904/Photoshop-this-bakery-service-counter) |
-| [Discussion](https://www.fark.com/discussion/) | [It's your Fark Monday Movie/TV Rewind, a thread to discuss what you've been watching. 409 movies in IMDb claim to be "psychological horror"; LGT the highest-rated one you've heard of. Post your favorites to the right](https://www.fark.com/goto/13418718) ( [en.wikipedia.org](https://www.fark.com/goto/13418718) ) » [(1 comment)](https://www.fark.com/comments/13418718/Its-your-Fark-Monday-MovieTV-Rewind-a-thread-to-discuss-what-youve-been-watching-409-movies-in-IMDb-claim-to-be-psychological-horror-LGT-highest-rated-one-youve-heard-of-Post-your-favorites-to-right) |
-| [Sports](https://www.fark.com/sports/) | [NASCAR has its biggest crash in history](https://www.fark.com/goto/13418832) ( [roadandtrack.com](https://www.fark.com/goto/13418832) ) » [(7 comments)](https://www.fark.com/comments/13418832/NASCAR-has-its-biggest-crash-in-history) |
-| [Business](https://www.fark.com/business/) | [American Water Works admits to unauthorized data flow](https://www.fark.com/goto/13418930) ( [msn.com](https://www.fark.com/goto/13418930) ) » [(0 comments)](https://www.fark.com/comments/13418930/American-Water-Works-admits-to-unauthorized-data-flow) |
-| [STEM](https://www.fark.com/stem/) | [New jet reaches 3,600 mph, can still be delayed because someone packed too much shampoo](https://www.fark.com/goto/13418898) ( [metro.co.uk](https://www.fark.com/goto/13418898) ) » [(1 comment)](https://www.fark.com/comments/13418898/New-jet-reaches-3600-mph-can-still-be-delayed-because-someone-packed-too-much-shampoo) |
-| [Entertainment](https://www.fark.com/entertainment/) | ['I can't do gore and I'm not a gamer': Ella Purnell on the fallout from being an unlikely scream queen](https://www.fark.com/goto/13418944) ( [theguardian.com](https://www.fark.com/goto/13418944) ) » [(5 comments)](https://www.fark.com/comments/13418944/I-cant-do-gore-Im-not-a-gamer-Ella-Purnell-on-fallout-from-being-an-unlikely-scream-queen) |
-| [Fandom](https://www.fark.com/fandom/) | ['I can't do gore and I'm not a gamer': Ella Purnell on the fallout from being an unlikely scream queen](https://www.fark.com/goto/13418944) ( [theguardian.com](https://www.fark.com/goto/13418944) ) » [(5 comments)](https://www.fark.com/comments/13418944/I-cant-do-gore-Im-not-a-gamer-Ella-Purnell-on-fallout-from-being-an-unlikely-scream-queen) |
-| [D'awww](https://www.fark.com/dawww/) | [Nobody likes being out in the rain](https://www.fark.com/goto/13418548) ( [nextshark.com](https://www.fark.com/goto/13418548) ) » [(6 comments)](https://www.fark.com/comments/13418548/Nobody-likes-being-out-in-rain) |
-| [Food](https://www.fark.com/food/) | [If you're ever looking for an article that perfectly encapsulates what's meant by the term "First World Problems," here you go](https://www.fark.com/goto/13418932) ( [cnn.com](https://www.fark.com/goto/13418932) ) » [(1 comment)](https://www.fark.com/comments/13418932/If-youre-ever-looking-for-an-article-that-perfectly-encapsulates-whats-meant-by-term-First-World-Problems-here-you-go) |
-| [Politics](https://www.fark.com/politics/) | [The picture memes alone are worth the read. You will be saving them to your computer](https://www.fark.com/goto/13418812) ( [yahoo.com](https://www.fark.com/goto/13418812) ) » [(10 comments)](https://www.fark.com/comments/13418812/The-picture-memes-alone-are-worth-read-You-will-be-saving-them-to-your-computer) |
+| [Main](https://www.fark.com/) | [How to rebuild a 36-inch pressurized water main in land that's no longer there? Construction experts to the right](https://www.fark.com/goto/13419228) ( [wlos.com](https://www.fark.com/goto/13419228) ) » [(4 comments)](https://www.fark.com/comments/13419228/How-to-rebuild-a-36-inch-pressurized-water-main-in-land-thats-no-longer-there-Construction-experts-to-right) |
+| [Discussion](https://www.fark.com/discussion/) | [Can the Guardians go up 2-0 against the Tigers? Can the Yankees do the same against the Royals? The ALDS is Monday Night and the action starts at 4:08 PM ET on TBS/truTV/Max](https://www.fark.com/goto/13418724) ( [espn.com](https://www.fark.com/goto/13418724) ) » [(2 comments)](https://www.fark.com/comments/13418724/Can-Guardians-go-up-2-0-against-Tigers-Can-Yankees-do-same-against-Royals-The-ALDS-is-Monday-Night-the-action-starts-at-408-PM-ET-on-TBStruTVMax) |
+| [Sports](https://www.fark.com/sports/) | [Can the Guardians go up 2-0 against the Tigers? Can the Yankees do the same against the Royals? The ALDS is Monday Night and the action starts at 4:08 PM ET on TBS/truTV/Max](https://www.fark.com/goto/13418724) ( [espn.com](https://www.fark.com/goto/13418724) ) » [(2 comments)](https://www.fark.com/comments/13418724/Can-Guardians-go-up-2-0-against-Tigers-Can-Yankees-do-same-against-Royals-The-ALDS-is-Monday-Night-the-action-starts-at-408-PM-ET-on-TBStruTVMax) |
+| [Business](https://www.fark.com/business/) | [Never underestimate the appeal of $1.50 hot dogs and big-ass pizzas](https://www.fark.com/goto/13419026) ( [finance.yahoo.com](https://www.fark.com/goto/13419026) ) » [(3 comments)](https://www.fark.com/comments/13419026/Never-underestimate-appeal-of-$150-hot-dogs-big-ass-pizzas) |
+| [STEM](https://www.fark.com/stem/) | [Astronomers spotted a rotating galaxy with a prominent disk just 700 million years after the Big Bang. This galaxy, REBELS-25, is the earliest Milky Way-like galaxy ever, raising some serious questions](https://www.fark.com/goto/13419222) ( [bigthink.com](https://www.fark.com/goto/13419222) ) » [(0 comments)](https://www.fark.com/comments/13419222/Astronomers-spotted-a-rotating-galaxy-with-a-prominent-disk-just-700-million-years-after-Big-Bang-This-galaxy-REBELS-25-is-earliest-Milky-Way-like-galaxy-ever-raising-some-serious-questions) |
+| [Entertainment](https://www.fark.com/entertainment/) | [SCROTUS refuses to hear R. Kelly's appeal. What a pisser for him](https://www.fark.com/goto/13419194) ( [cnn.com](https://www.fark.com/goto/13419194) ) » [(2 comments)](https://www.fark.com/comments/13419194/SCROTUS-refuses-to-hear-R-Kellys-appeal-What-a-pisser-for-him) |
+| [Fandom](https://www.fark.com/fandom/) | [Switch modder refuses to shut down, decides to represent himself in court. Nintendo lawyers apparently stumbled upon the coin ship level of SMB3 and look forward to getting all the money](https://www.fark.com/goto/13419310) ( [ign.com](https://www.fark.com/goto/13419310) ) » [(10 comments)](https://www.fark.com/comments/13419310/Switch-modder-refuses-to-shut-down-decides-to-represent-himself-in-court-Nintendo-lawyers-apparently-stumbled-upon-coin-ship-level-of-SMB3-look-forward-to-getting-all-money) |
+| [D'awww](https://www.fark.com/dawww/) | ["Many owners do not realise that terrapins grow into very large adults." Many](https://www.fark.com/goto/13419002) ( [bbc.com](https://www.fark.com/goto/13419002) ) » [(2 comments)](https://www.fark.com/comments/13419002/Many-owners-do-not-realise-that-terrapins-grow-into-very-large-adults-Many) |
+| [Food](https://www.fark.com/food/) | [Don't snicker, butterfingers. Making 3 Musketeers-inspired candy is a piece of cake. Sweet](https://www.fark.com/goto/13419150) ( [thetakeout.com](https://www.fark.com/goto/13419150) ) » [(0 comments)](https://www.fark.com/comments/13419150/Dont-snicker-butterfingers-Making-3-Musketeers-inspired-candy-is-a-piece-of-cake-Sweet) |
+| [Politics](https://www.fark.com/politics/) | [Wild Mood Swings, a great album from The Cure as well as Trump's fundraising emails](https://www.fark.com/goto/13419046) ( [rawstory.com](https://www.fark.com/goto/13419046) ) » [(4 comments)](https://www.fark.com/comments/13419046/Wild-Mood-Swings-a-great-album-from-The-Cure-as-well-as-Trumps-fundraising-emails) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 07 2024 09:42:51  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 07 2024 15:42:43  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
