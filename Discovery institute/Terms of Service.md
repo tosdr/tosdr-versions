@@ -190,7 +190,7 @@ Shortcuts
 Select Topics
 -------------
 
-[Artificial Intelligence](https://www.discovery.org/books/artificial-intelligence/)
+[Artificial Intelligence](https://www.discovery.org/books/intelligence/)
 
 [Economics](https://www.discovery.org/books/economics/)
 
