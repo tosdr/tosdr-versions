@@ -1099,8 +1099,6 @@ If any court or competent authority finds that any provision of this EULA (or pa
 
 Content
 
-* [New assets](https://www.freepikcompany.com/new)
-* [The most popular content](https://www.freepikcompany.com/popular)
 * [Search trends](https://www.freepikcompany.com/tags)
 * [Blog](https://www.freepik.com/blog/)
 
