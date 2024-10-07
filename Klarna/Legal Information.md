@@ -4,12 +4,14 @@
 * [](https://www.klarna.com/us/)
 
 * [Shopping categories](https://www.klarna.com/us/)
+* [Klarna Card](https://www.klarna.com/us/klarna-card/)
 * How Klarna works
     
 * Help
     
 
 * [Shopping categories](https://www.klarna.com/us/)
+* [Klarna Card](https://www.klarna.com/us/klarna-card/)
 * How Klarna works
     
 * Help
@@ -40,7 +42,6 @@ Shopping categories
 How Klarna works
 
 * [What is Klarna](https://www.klarna.com/us/what-is-klarna/)
-* [Klarna Card](https://www.klarna.com/us/klarna-card/)
 * [Explore stores](https://www.klarna.com/us/store/?refPos=store_directory&origin=header)
 * [Shopping app](https://www.klarna.com/us/klarna-app/)
 * [Browser extension](https://www.klarna.com/us/browser-extension/)
