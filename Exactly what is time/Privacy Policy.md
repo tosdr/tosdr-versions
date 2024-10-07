@@ -83,7 +83,7 @@ Random Pages
 
 * * *
 
-[Time Percenption](https://www.exactlywhatistime.com/psychology-of-time/time-percenption/) [24H Ampm Converter](https://www.exactlywhatistime.com/24h-ampm-converter) [Ancient Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/ancient-philosophy/) [Physics of Time](https://www.exactlywhatistime.com/physics-of-time/) [Biological Clock](https://www.exactlywhatistime.com/psychology-of-time/biological-clock/) [Units of Measurement](https://www.exactlywhatistime.com/measurement-of-time/units-of-measurement/) [Time Standards](https://www.exactlywhatistime.com/measurement-of-time/time-standards/) [Absolute Time](https://www.exactlywhatistime.com/physics-of-time/absolute-time/) [Time In Literature](https://www.exactlywhatistime.com/other-aspects-of-time/time-in-literature/) [Psychology of Time](https://www.exactlywhatistime.com/psychology-of-time/)
+[Physics of Time](https://www.exactlywhatistime.com/physics-of-time/) [Psychology of Time](https://www.exactlywhatistime.com/psychology-of-time/) [Chronophobia](https://www.exactlywhatistime.com/psychology-of-time/chronophobia/) [Time Travel](https://www.exactlywhatistime.com/physics-of-time/time-travel/) [Early Modern Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/early-modern-philosophy/) [The Arrow of Time](https://www.exactlywhatistime.com/physics-of-time/the-arrow-of-time/) [Sources And References](https://www.exactlywhatistime.com/sources-and-references/) [Clocks](https://www.exactlywhatistime.com/measurement-of-time/clocks/) [Periodization](https://www.exactlywhatistime.com/measurement-of-time/periodization/) [Other Aspects of Time](https://www.exactlywhatistime.com/other-aspects-of-time/)
 
 © 2024 ExactlyWhatIsTime.com - Exactly What Is Time?
 
