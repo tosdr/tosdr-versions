@@ -118,59 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Anri van der Linde
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=38524454)  
-Lily Fern & Co
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=72017035)  
+SR Travel Services
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=6411882)  
-All Trucking Solutions
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=163825345)  
+kidoscabbie
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=96335721)  
-PROGRAPHIX PTY LTD
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=51665439)  
+Salvage Genie
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=96290793)  
-#DiGi3 Marketing & Design
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=190900878)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=69006613)  
-Tracknetics
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=98698838)  
+TIGERDSL
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=42893762)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=54306405)  
+Qothiphango Mining
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=207763057)  
-Lizzy Pop PTY(Ltd)
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=68593839)  
+Vplay Grafix
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=41259274)  
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=68373500)  
+MONSTER CONNECT (PTY) LTD
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=213411813)  
+Entidee Enterprise PTY (ltd)
+
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=124580225)  
+Konsortium Operations (PTY) LTD
+
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=72923173)  
+Desygn
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=68773041)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=58614558)  
+Mountain Lion Properties
+
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=161762429)  
 Henry's Home Renovations
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=122118008)  
-M's Frozen Delights
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=152952514)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
-
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=100461365)  
-Imvubu General Trading
-
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=168407045)  
-Oak Tree Immigration
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=184129788)  
-Prosper Park
-
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=150143695)  
-Repairs In Motion
-
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=b8c6aec4aa67260479dcd044f19fbaf73f587758db000eb90035083d3352611b&c=11588864)  
-Mountain Lion Properties
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=a03b0e284b3428291bd8baea6c70b1be9eb3524f3860046b3cb4005002c1e1eb&c=209408558)  
+VIR Electrical (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
