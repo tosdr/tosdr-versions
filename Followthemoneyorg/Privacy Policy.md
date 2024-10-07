@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![scorecard2013](/assets/logos/bestpracticescorecardmap2012.png)](http://www.followthemoney.org/research/institute-research/scorecard-essential-disclosure-requirements-for-independent-spending-2013)
-
-2013: Who got an F on essential disclosure requirements?
+[![National Rifle Association’s Political Spending, 2009-2016](/assets/Images/teasers/small/NRA.JPG)](https://www.followthemoney.org/research/blog/the-nra-fiercely-independent-spending)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
