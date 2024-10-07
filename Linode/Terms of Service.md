@@ -20,7 +20,7 @@ English
 * [中文 (简体)](https://www.linode.com/zh/legal/ "Language switcher : Simplified Chinese")
 * [Português Brasileiro](https://www.linode.com/pt-br/legal/ "Language switcher : Brazilian Portuguese")
 
-[![Akamai Logo](https://assets.linode.com/akamai-logo.svg)](https://www.linode.com/)
+ [![Akamai Logo](https://assets.linode.com/p2/akamai-logo.svg)](https://www.akamai.com/)[![Akamai Connected Cloud](https://assets.linode.com/p2/akamai-connected-cloud.svg)](https://www.linode.com/)
 
 * Explore
 * Products
@@ -292,7 +292,7 @@ Submit a Trust & Safety Request
 
 [EU Digital Services Act (DSA)](https://www.linode.com/eu-digital-services-act/)
 
-[![Akamai Logo](https://assets.linode.com/akamai-logo.svg)](https://www.linode.com/)
+[![Akamai Logo](https://assets.linode.com/p2/akamai-logo.svg)](https://www.linode.com/)
 
 © 2003-2024 Linode LLC.  
 All rights reserved.
