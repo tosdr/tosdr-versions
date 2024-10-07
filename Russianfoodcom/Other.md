@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Пицца из сырного теста, с колбасой, маринованными огурцами и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174233)
+* [Скумбрия, запечённая под шубкой из грибов и овощей](https://www.russianfood.com/recipes/recipe.php?rid=173324)
 * [Хлеб домашний](https://www.russianfood.com/recipes/recipe.php?rid=36375)
 * [Копчёная свинина способ 16](https://www.russianfood.com/recipes/recipe.php?rid=85361)
-* [Капуста квашеная](https://www.russianfood.com/recipes/recipe.php?rid=87459)
-* [Хлебная закваска](https://www.russianfood.com/recipes/recipe.php?rid=100343)
 * [Хлеб белый бездрожжевой, на закваске](https://www.russianfood.com/recipes/recipe.php?rid=123371)
-* [Домашнее ржаное печенье](https://www.russianfood.com/recipes/recipe.php?rid=147773)
-* [Пшенично-ржаной хлеб с мёдом](https://www.russianfood.com/recipes/recipe.php?rid=157372)
-* [Пшенично-ржаные галеты со сливами и грецкими орехами](https://www.russianfood.com/recipes/recipe.php?rid=158028)
-* [Открытый дрожжевой пирог с капустным "суфле"](https://www.russianfood.com/recipes/recipe.php?rid=161117)
+* [Бульон с потрохами](https://www.russianfood.com/recipes/recipe.php?rid=446)
+* [Клецки для бульона](https://www.russianfood.com/recipes/recipe.php?rid=938)
+* [Бульон с клецками из кур](https://www.russianfood.com/recipes/recipe.php?rid=939)
+* [Бульон с куриными фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=940)
+* [Куриный бульон с лапшой и зеленым горошком](https://www.russianfood.com/recipes/recipe.php?rid=945)
+* [Консоме с профитролями по-милански](https://www.russianfood.com/recipes/recipe.php?rid=950)
 
 |     |
 | --- |
@@ -192,7 +192,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22697#comments) | 07.10.24 |     |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22697#comments) | 07.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(222)
+(119)
