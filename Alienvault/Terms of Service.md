@@ -1,4 +1,4 @@
-be\_ixf;ym\_202410 d\_06; ct\_50
+be\_ixf;ym\_202410 d\_07; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://cybersecurity.att.com/terms/website
@@ -171,9 +171,9 @@ be\_ixf;ym\_202410 d\_06; ct\_50
             
             Blog: Security Essentials
             
-            ##### LevelBlue: Driving Cyber Resilience in October (and Beyond)
+            ##### Reducing Alert Fatigue by Streamlining SOC Processes
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/levelblue-driving-cyber-resilience-in-october-and-beyond)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/reducing-alert-fatigue-by-streamlining-soc-processes)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -511,13 +511,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Katrina Thompson](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Theresa Lanowitz
+#### Katrina Thompson
 
-Oct 3, 2024
+Oct 7, 2024
 
-### [LevelBlue: Driving Cyber Resilience in October (and Beyond)](https://cybersecurity.att.com/blogs/security-essentials/levelblue-driving-cyber-resilience-in-october-and-beyond)
+### [Reducing Alert Fatigue by Streamlining SOC Processes](https://cybersecurity.att.com/blogs/security-essentials/reducing-alert-fatigue-by-streamlining-soc-processes)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
