@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/dr-andrew-moulden-elk-vaccin-veroorzaakt-trauma/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/kijk-de-covid-volksmanipulatie-door-hugo-de-jonge-cs/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
