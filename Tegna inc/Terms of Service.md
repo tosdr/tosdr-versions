@@ -17,15 +17,28 @@
 * [Investors](https://investors.tegna.com/)
 * [Press](https://www.tegna.com/press/)
 * [Advertise >>](https://www.tegna.com/advertise/)
-    * [Attribution](https://www.tegna.com/advertise/solutions/attribution-data/)
-    * [Broadcast](https://www.tegna.com/advertise/solutions/broadcast/)
-    * [Custom Solutions](https://www.tegna.com/advertise/solutions/custom-solutions/)
-    * [Digital](https://www.tegna.com/advertise/solutions/digital/)
-    * [Live Sports](https://www.tegna.com/advertise/sports/)
-    * [Streaming TV Advertising](https://www.tegna.com/advertise/solutions/streaming/)
-    * [Podcasts](https://www.tegna.com/advertise/solutions/podcasts/)
-    * [Blog](https://www.tegna.com/advertise/blog/)
-    * [Success Stories](https://www.tegna.com/advertise/marketing-success-stories/)
+    * [Streaming TV AdvertisingAdvertisers are offered a brand-safe, fraud-free environment to reach valuable TEGNA audiences at home and across the country.
+        
+        Learn More](https://www.tegna.com/advertise/solutions/streaming/)
+    * [Live SportsProviding a dynamic platform for fans and brands alike to connect with the energy and excitement of live sports.
+        
+        Learn More](https://www.tegna.com/advertise/sports/)
+    * [DigitalOur native content solutions amplify your message across a wide network of brand-safe publishing partners to achieve maximum reach and buzz.
+        
+        Learn More](https://www.tegna.com/advertise/solutions/digital/)
+    * [BroadcastBeing in good company means being aligned with TEGNA’s 64 local news brands in 51 markets.
+        
+        Learn More](https://www.tegna.com/advertise/solutions/broadcast/)
+    * [AttributionProviding deep insights to prove the value of linear and streaming campaigns by collecting real-time data for TV and streaming shows and their accompanying advertisements.
+        
+        Learn More](https://www.tegna.com/advertise/solutions/attribution-data/)
+    * [PodcastsFrom Pre-Roll to episode and series sponsorships, we can create a solution that works for you and reaches your target audience.
+        
+        Learn More](https://www.tegna.com/advertise/solutions/podcasts/)
+    * [Resources](#)
+        * [Blog](https://www.tegna.com/advertise/blog/)
+        * [Custom Solutions](https://www.tegna.com/advertise/solutions/custom-solutions/)
+        * [Success Stories](https://www.tegna.com/advertise/marketing-success-stories/)
     * [Industries](#)
         * [Automotive](https://www.tegna.com/advertise/automotive-dealership-marketing-platform)
         * [Healthcare](https://www.tegna.com/advertise/advertising-strategy-healthcare/)
