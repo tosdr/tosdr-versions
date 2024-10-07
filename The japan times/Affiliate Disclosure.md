@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 07, 2024](https://www.japantimes.co.jp/archive/2024/10/07/ "archive page")
+[October 08, 2024](https://www.japantimes.co.jp/archive/2024/10/08/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -130,6 +130,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
 [Sure, Tokyo’s trains are amazing. But are they ruining your trip?](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
 
   [![Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/422148.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.")](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
@@ -142,16 +146,20 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day")](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
 
-[Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
+[Ishiba's U-turn on interest rates surprises market](https://www.japantimes.co.jp/business/2024/10/06/markets/ishiba-interest-rate-remark-surprise/ "Ishiba's U-turn on interest rates surprises market")
 
-  [![Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425964.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ")](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
-
-[Ohtani magic powers Dodgers over Padres in MLB playoff thriller](https://www.japantimes.co.jp/sports/2024/10/06/baseball/mlb/ohtani-dodgers-game-1-win/ "Ohtani magic powers Dodgers over Padres in MLB playoff thriller")
-
-  [![Dodgers designated hitter Shohei Ohtani celebrates after blasting a homer to right field in the second inning of Los Angeles' Game 1 victory over the Padres on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426191.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers designated hitter Shohei Ohtani celebrates after blasting a homer to right field in the second inning of Los Angeles' Game 1 victory over the Padres on Saturday.")](https://www.japantimes.co.jp/sports/2024/10/06/baseball/mlb/ohtani-dodgers-game-1-win/ "Ohtani magic powers Dodgers over Padres in MLB playoff thriller")
+  [![Prime Minister Shigeru Ishiba and Bank of Japan Gov. Kazuo Ueda ahead of their meeting on Wednesday. Ishiba's comment after the meeting that he doesn't believe Japan needs an additional interest rate hike has surprised the financial market.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426149.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba and Bank of Japan Gov. Kazuo Ueda ahead of their meeting on Wednesday. Ishiba's comment after the meeting that he doesn't believe Japan needs an additional interest rate hike has surprised the financial market.")](https://www.japantimes.co.jp/business/2024/10/06/markets/ishiba-interest-rate-remark-surprise/ "Ishiba's U-turn on interest rates surprises market")
 
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
 [LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
@@ -175,21 +183,11 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 
   [![A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day")](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
+[Ishiba's U-turn on interest rates surprises market](https://www.japantimes.co.jp/business/2024/10/06/markets/ishiba-interest-rate-remark-surprise/ "Ishiba's U-turn on interest rates surprises market")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425964.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ")](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
-
-[BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
-
-[Ohtani magic powers Dodgers over Padres in MLB playoff thriller](https://www.japantimes.co.jp/sports/2024/10/06/baseball/mlb/ohtani-dodgers-game-1-win/ "Ohtani magic powers Dodgers over Padres in MLB playoff thriller")
-
-By [Rob Woollard](https://www.japantimes.co.jp/author/4084/rob-woollard/ "Rob Woollard")  
-
-  [![Dodgers designated hitter Shohei Ohtani celebrates after blasting a homer to right field in the second inning of Los Angeles' Game 1 victory over the Padres on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426191.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers designated hitter Shohei Ohtani celebrates after blasting a homer to right field in the second inning of Los Angeles' Game 1 victory over the Padres on Saturday.")](https://www.japantimes.co.jp/sports/2024/10/06/baseball/mlb/ohtani-dodgers-game-1-win/ "Ohtani magic powers Dodgers over Padres in MLB playoff thriller")
+  [![Prime Minister Shigeru Ishiba and Bank of Japan Gov. Kazuo Ueda ahead of their meeting on Wednesday. Ishiba's comment after the meeting that he doesn't believe Japan needs an additional interest rate hike has surprised the financial market.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426149.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba and Bank of Japan Gov. Kazuo Ueda ahead of their meeting on Wednesday. Ishiba's comment after the meeting that he doesn't believe Japan needs an additional interest rate hike has surprised the financial market.")](https://www.japantimes.co.jp/business/2024/10/06/markets/ishiba-interest-rate-remark-surprise/ "Ishiba's U-turn on interest rates surprises market")
 
 Podcast
 -------
@@ -210,9 +208,9 @@ By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ 
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,25 +250,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Japan's new internal affairs minister looks to boost regional revitalization](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/internal-affairs-minister-interview/ "Japan's new internal affairs minister looks to boost regional revitalization")
+
+4 hours ago
+
+[Japan's party leaders' debate to be extended to 80 minutes](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/party-leaders-debate-extension/ "Japan's party leaders' debate to be extended to 80 minutes")
+
+5 hours ago
+
 [U.S. pair wins Nobel in medicine for discovery of microRNA](https://www.japantimes.co.jp/news/2024/10/07/world/science-health/nobel-prize-medicine-2024/ "U.S. pair wins Nobel in medicine for discovery of microRNA")
 
-17 mins ago
+6 hours ago
 
 [Ishiba fends off questions on endorsement of scandal-tainted LDP members](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/ishiba-parliament-questions/ "Ishiba fends off questions on endorsement of scandal-tainted LDP members")
 
-44 mins ago
+7 hours ago
 
 [Japan's new finance minister vows to finish the job as deflation czar](https://www.japantimes.co.jp/business/2024/10/07/economy/new-finance-minister-kato/ "Japan's new finance minister vows to finish the job as deflation czar")
 
-55 mins ago
-
-[New Cabinet photo on government website had minor edits, Hayashi admits](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
-
-55 mins ago
-
-[Hezbollah strikes Israel on Gaza anniversary as fears of wider war grow](https://www.japantimes.co.jp/news/2024/10/07/world/hezbollah-israel-gaza-war-anniversary/ "Hezbollah strikes Israel on Gaza anniversary as fears of wider war grow")
-
-1 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
