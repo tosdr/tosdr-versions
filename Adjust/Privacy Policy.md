@@ -1,4 +1,4 @@
-[The shopping app insights report is out now! Download your copy here.](https://www.adjust.com/resources/ebooks/shopping-app-insights/) [The shopping app insights report: Get your copy today!](https://www.adjust.com/resources/ebooks/shopping-app-insights/)
+[Boost app engagement and conversions with seamless deep linking. Get started now!](https://www.adjust.com/solutions/deep-linking/) [Boost engagement with seamless deep linking. Start now!](https://www.adjust.com/solutions/deep-linking/)
 
 [![Adjust](https://a.storyblok.com/f/47007/x/187cc6c31c/adjust-logo.svg)
 
@@ -156,7 +156,7 @@ Mobile app trends: 2024 edition](https://www.adjust.com/resources/ebooks/mobile-
 **Privacy policy**
 ==================
 
-Last modified: January 2024
+Last modified: October 2024
 
 Adjust GmbH including all of its affiliates (collectively, "Adjust" or "We") respects your privacy and is committed to protecting it through our compliance with this policy. With this privacy policy, we would like to inform you how we process your personal data.
 
@@ -580,7 +580,31 @@ We are jointly responsible with the LinkedIn Ireland Unlimited Company for the c
 
 You can find further information on the Page-Insights as well as instructions on how to assert your data subject rights in the privacy policy of LinkedIn ([https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)). The terms of the agreement concluded with LinkedIn can be viewed here ([https://legal.linkedin.com/pages-joint-controller-addendum](https://legal.linkedin.com/pages-joint-controller-addendum)).
 
-### **4\. Changes to Our Privacy Policy**
+### **4\. Processing of data through the Adjust technology**
+
+We provide mobile analytics and attribution services to mobile app providers (our "Customers"). In connection with these services, we may process certain data from the users of these mobile apps (collectively the "End User" or "You"), as further described hereafter. We process the data upon instructions from our Customers and do not have any kind of direct relationship with the You as the End User.  
+Our SDK and APIs (collectively the "Adjust Technology") may process some of the following data from You as the End User:
+
+●        IP address
+
+●        Mobile identifiers such as the ID for Advertising for iOS (IDFA), Google Advertising ID or similar mobile identifiers
+
+●        User Agent
+
+●        Installation and first opening of an app on Your mobile device
+
+●        Your interactions within an app (e.g. in-app purchases, registration)
+
+●        Information regarding which advertisements You have seen or clicked on
+
+●        For the Fraud product additionally: sensory data including touch events, counting text changes, accelerometer, gyroscope, battery, light sensor, device hardware specifications and operating system version
+
+We use the aforementioned data for providing mobile analytics and attribution services to our Customers, and thereby allow our customers to measure their marketing performance, to match You to their campaigns and to understand how You engage with our Customers’ apps. Furthermore, we enable our Customers to measure Your interactions in their apps in real time in order to see how You engage over their full lifetime. The aforementioned data is therefore processed in order to analyze the performance of marketing campaigns and to provide performance reports to our Customers. We do not combine the data with any other data that would enable us to personally identify You. Any information processed via the Adjust Technology is owned and controlled by our Customer who has implemented the Adjust Technology into their mobile app.  
+We do not share or disclose the user data with anyone else except with our server providers and in response to lawful requests by public authorities, including national security or law enforcement requirements. We store the data as long as our Customers are using the Adjust Technology because we need it to provide our services to our Customers, if not requested otherwise by our Customers. In some cases, there is a transfer of data to third countries outside the European Union. This is done on the basis of statutory provisions that are intended to ensure an adequate level of protection for Your personal data. For more information, please contact us.
+
+Customers who have [child-directed apps](https://help.adjust.com/en/article/coppa-compliance?src=search_page) must choose the appropriate product settings and must not share any personal data with Partners or any third parties. Customers must agree to the section in our [Terms and Conditions](https://www.adjust.com/terms/general-terms-and-conditions/) accordingly.
+
+### **5\. Changes to Our Privacy Policy**
 
 It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our website and this privacy policy to check for any changes.
 
