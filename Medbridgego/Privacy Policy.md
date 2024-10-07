@@ -1,3 +1,5 @@
+Medbridge is experiencing service disruption in the HEP product. We are working to resolve immediately.
+
 ### Session about to expire
 
 Due to inactivity, you will be signed out in **15 minutes**. Do you want to stay signed in?
