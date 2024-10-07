@@ -332,7 +332,7 @@ Certain requests may have been denied if we were unable to verify the requestor�
 
 For more information about your privacy rights, contact us at [privacy@stackadapt.com](mailto:privacy@stackadapt.com).
 
-### Residents of the European Economic Area “EEA”
+### Residents of the European Economic Area "EEA"
 
 Under the General Data Protection Regulations “GDPR”, if you reside in the European Union “EU” or in the EEA, you have the following specific individual rights.
 
