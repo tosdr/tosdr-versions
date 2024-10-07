@@ -374,7 +374,7 @@ Subject to certain limitations, the CCPA provides California consumers the right
 
 Products
 
-* [Contracts Library](https://www.openzeppelin.com/solidity-contracts)
+* [Contracts Library](https://openzeppelin.com/contracts)
 * [Contracts Wizard](https://wizard.openzeppelin.com/)
 * [Upgrade Plugins](https://docs.openzeppelin.com/upgrades-plugins/1.x/)
 * [Defender Cloud Services](https://www.openzeppelin.com/defender)
