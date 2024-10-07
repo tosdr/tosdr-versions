@@ -31,6 +31,159 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Improvisaciones imperdonables
+=============================
+
+El cambio climático afecta a nuestro país con deshielos, lluvias intensas y sequías severas, provocando inundaciones y deslaves que destruyen viviendas y cultivos.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+El **cambio climático** que afecta al **planeta** obedece a **causas naturales** como **actividad volcánica**, alteraciones de la **órbita terrestre**, cambios de la **radiación solar** y a causas antropogénicas (originadas por la **actividad humana**): la emisión de gases con efecto invernadero, por parte de **fábricas** e **industrias** repartidas en todas **latitudes**, la imparable **deforestación** por **incendios masivos** y por la incesante **tala**  de **árboles**, para utilizar la madera, la **quema** de **combustibles** fósiles como gas, carbón, petróleo, las pruebas y **ensayos nucleares**, la **producción** y **desecho** de residuos como los **materiales plásticos**, convertidos en una **amenaza** creciente para todos los **ecosistemas**, pues los contaminan desde su origen hasta llegar al mar,  donde, ingeridos  por aves y fauna marina, tienen **efectos mortales**; abundan tanto que forman verdaderas **islas artificiales**, con extensiones kilométricas. Hay un **calentamiento global**, los polos y los **nevados** se derriten a un **ritmo alarmante** y se extinguen especies que viven en ese **hábitat**. Se multiplican las **tormentas**, los **huracanes**, las **inundaciones** y los **incendios** a nivel mundial.
+
+Nuestro país, parte del **concierto planetario**, sufre los **severos** efectos del **cambio climático**, fundamentalmente del **deshielo** de sus altas **nieves** eternas, de **lluvias** abundantes y de severas **sequías**. Cuando las lluvias arrecian, se multiplican las **inundaciones**, especialmente en la costa, y arrasan con **viviendas**, cultivos, **ganado** y animales domésticos; en la **sierra** se producen frecuentes  **deslaves**, pues existen **urbanizaciones** y **construcciones** levantadas inconscientemente junto a **quebradas**, vías naturales de  desfogue, y en las faldas de **laderas** que, con la fuerza de la tempestad, se desmoronan para mezclarse con el torrente y descender por calles y veredas en una **avalancha** que arrastra todo objeto o persona que encuentra a su paso. Estos sucesos no deben producirse y las **autoridades municipales**, junto a sus **alcaldes**, deben prevenirlos mediante **estudios** y acciones correctivas con antelación.
+
+Las **inundaciones** alternan con **períodos** de **estiajes extremos**, los ríos se secan y no transportan el **agua** que necesitan acumular las **represas** de los **complejos hidroeléctricos** para generar **energía** **eléctrica** y se producen obligatoriamente **suspensiones** y **apagones** en las **ciudades** y en los **hogares ecuatorianos**.  El suceso no es nuevo, se ha repetido, con mayor o menor intensidad, durante varios años; se podía haber dado **solución**, si en lugar de lucrar y actuar deshonestamente, los **gobernantes** hubieran cambiado la **matriz energética** y encontrado oportunamente otras **fuentes** de **energía renovable**, como la **eólica** (fuerza de los vientos), la fotovoltaica (la luz y el calor solar) o la energía volcánica como sugirió una comisión japonesa. Es evidente que este cambio necesita de un **capital** que no posee el **gobierno**, pero que es indispensable conseguirlo, para terminar, a futuro, con estas **escenas** de **tinieblas**, ¿Cómo obtenerlo?… Con la indispensable **participación privada**, mediante la **modificación** de la **Constitución** del 2008, que dispone que “los **sectores estratégicos**” (**energía**, **petróleo**, **minas**, **comunicaciones**), cruciales para el país, no sean delegados al **sector privado**. Es hora de abandonar **cálculos** e **improvisaciones** imperdonables, que únicamente buscan **beneficios** **grupales** y no nacionales, y de actuar convencidos de **salvar** a la **patria**, de estas taras que la sumergen en el **subdesarrollo** y en épocas que deben ser superadas y olvidadas.
+
+La reforestación de Quito es un desafío urgente
+===============================================
+
+Los recientes incendios forestales que devastaron Quito, entre el 24 y el 26 de septiembre, y dejaron 1 964,04 hectáreas consumidas, plantean una situación crítica. El impacto se sintió de manera particular en sectores como el cerro Auqui y Guápulo, donde miles de hectáreas de vegetación, equivalentes a 2 250 canchas de fútbol, quedaron reducidas \[…\]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada con inteligencia artificial con el prompt: después de los incendios en los bosques viene la reforestación.](https://www.elcomercio.com/wp-content/uploads/2024/10/Untitled-design-21.jpg)
+
+Los recientes **incendios forestales que devastaron Quito**, entre el 24 y el 26 de septiembre, y dejaron 1 964,04 hectáreas consumidas, plantean una **situación crítica**. El impacto se sintió de manera particular en sectores como el cerro Auqui y Guápulo, donde miles de hectáreas de vegetación, equivalentes a 2 250 canchas de fútbol, quedaron reducidas a **cenizas**[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+La magnitud de este desastre no solo revela la **fragilidad de nuestro entorno** frente al cambio climático, sino también la urgente necesidad de tomar acciones concretas para revertir los daños causados.
+
+> Las próximas generaciones dependerán de las decisiones que tomemos hoy. La reforestación no solo es una acción necesaria para contrarrestar los incendios, sino una oportunidad para rediseñar nuestro compromiso con el medio ambiente.
+
+La **reforestación** se ha convertido en el paso inminente para mitigar los efectos de estos incendios. Tanto el Municipio de Quito como el Ministerio de Ambiente han mostrado su compromiso con este proceso.
+
+El alcalde Pabel Muñoz ya ha anunciado que liderará un **plan “agresivo” de reforestación**, y el Ministerio de Ambiente ha asegurado que la restauración ecológica será un proceso dinámico, educativo, y, lo más importante, participativo. Es vital que se incluya a las **comunidades locales** para garantizar el éxito a largo plazo de este ambicioso proyecto.
+
+Sin embargo, la reforestación no es un proceso inmediato. Las estimaciones de la Secretaría de Ambiente de Quito indican que los **terrenos [afectados](https://www.elcomercio.com/actualidad/ecuador/reforestacion-incendios-forestales-quito.html "https://www.elcomercio.com/actualidad/ecuador/reforestacion-incendios-forestales-quito.html")** podrían tardar hasta 100 años en restaurarse de manera natural. Esta cifra es alarmante, pero también subraya la importancia de tomar medidas proactivas para acelerar la regeneración del **suelo y la vegetación**. La primera fase de este plan incluye fortalecer el suelo, con la dispersión de semillas y la plantación de especies nativas que puedan resistir las duras condiciones de estas áreas.
+
+Uno de los grandes desafíos es la presencia de especies como el eucalipto, cuya alta combustión fue un factor clave en la **propagación de los incendios**. En su lugar, se deben potenciar árboles autóctonos como el laurel, aguacatillo, algarrobo y molle, que ofrecen un equilibrio mejorado para los ecosistemas locales. Además, el agave jugará un rol importante como **barrera natural** contra futuros incendios.
+
+La restauración ecológica es un proceso complejo que va más allá de simplemente **plantar árboles**. Es fundamental que las comunidades comprendan y participen activamente en el proceso. La reforestación debe ser un esfuerzo planificado, donde se considere el **uso sostenible de la tierra** y se fomente una educación ambiental que empodere a las personas para proteger su entorno.
+
+Por ello, el Ministerio de Ambiente ha planteado un **enfoque participativo** en el que todos los actores involucrados —desde el gobierno local hasta las comunidades— tengan un rol activo. Se espera que este proceso comience con un diagnóstico profundo del **área afectad**a, seguido de un plan de acción que contemple la preparación del suelo, la estabilización de taludes y la selección de **especies nativas** para garantizar la efectividad de la reforestación.
+
+Si bien la tarea es monumental, lo que está en juego es el **futuro ecológico de Quito**. Las próximas generaciones dependerán de las decisiones que tomemos hoy. La **reforestación** no solo es una acción necesaria para contrarrestar los incendios, sino una oportunidad para rediseñar nuestro compromiso con el medio ambiente, fomentando ecosistemas más resilientes y una mayor conciencia ambiental.
+
+Cartas a Quito / 7 de octubre de 2024
+=====================================
+
+Estas son las cartas a Quito de este lunes 7 de octubre de 2024
+---------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Ambiente y agricultura pavimentan el camino para el desarrollo y la proyección global de América Latina y el Caribe 
+--------------------------------------------------------------------------------------------------------------------
+
+La innovación tecnológica y la agenda climática modelan al siglo XXI, mostrando el camino por el que el planeta busca y encuentra soluciones hacia un desarrollo armónico, asociado a la recuperación de la naturaleza y el bienestar.  
+
+Esa senda exige seguridad alimentaria, hídrica, energética y climática, pilares y punto de partida para atacar el hambre, la pobreza y la exclusión, y abordar cuestiones esenciales para la paz y el desarrollo, como la salud, la educación, el empleo y la convivencia social. 
+
+América Latina y el Caribe alberga el 46% del agua dulce y el 50% de la biodiversidad del planeta. Su vibrante sector agropecuario la constituye como la región exportadora de alimentos más importante del mundo y, por lo tanto, garante de la seguridad alimentaria global, que además provee 14% de los empleos totales y representa el 5% de su Producto Interno Bruto (PIB), con una interacción cada vez más profunda con la ciencia, la tecnología y innovación. 
+
+Esta nueva agenda ofrece a América Latina y el Caribe un papel insustituible: el de ser, al mismo tiempo que una gran potencia agroalimentaria y energética, un protagonista estratégico y principal en el combate, la mitigación y la adaptación al cambio climático, la conservación y el manejo sostenible de la biodiversidad y la naturaleza. 
+
+En ese marco, la agricultura sostenible y resiliente se presenta como el sector más relevante para que nuestra región, una zona del mundo sin conflictos armados, construya una visión estratégica común y ejerza un verdadero liderazgo capaz de proveer soluciones climáticas, entendiendo que el aumento de la temperatura del planeta y los eventos meteorológicos extremos dejaron de ser un asunto estrictamente ambiental, que hoy deben ser tratados como inherentes al desarrollo socioeconómico, la innovación y la geopolítica regional y global.   
+
+Por eso, la geopolítica de los alimentos y la del clima hacen de América Latina y el Caribe un territorio esencial para ofrecer las seguridades que el mundo demanda, incluida la bioenergética, de la mano de energías limpias que vienen de la biomasa, ofreciendo un catalizador al desarrollo y una nueva agenda de integración que consolide nuestra densidad como región. 
+
+Esa visión común exige estrategias ambiciosas y una organización destinada a proveer soluciones utilizando ventajas comparativas innegables –sol, tierra, suelo, clima, agua, recursos naturales, biodiversidad y fotosíntesis- para, desde esa base, agregar valor a nuestra producción e iniciar el camino hacia una industrialización verde, inteligente, inclusiva y sustentable. 
+
+La diversidad de la región, que presenta al mismo tiempo vulnerabilidades, impronta innovadora, capacidad empresarial (el sector corresponsable para el éxito de esta travesía) y una sociedad civil organizada y atenta, configura un mosaico para encarar exitosamente estos retos y aprovechar la oportunidad de construir una relación simbiótica entre agricultura y ambiente, dejando de lado estrategias basadas en modelos tradicionales. El sector agropecuario debe seguir trabajando para participar de forma organizada en todos los foros de negociación ambiental y climática, en los que su posicionamiento es necesario y vital. 
+
+Eso significa promover un sector agropecuario sostenible, resiliente al clima y bajo en carbono, utilizando de forma intensiva y circular los recursos biológicos, reduciendo y reutilizando los desperdicios de los ciclos y cadenas productivas, hoy considerados valiosos bioinsumos, de modo de convertir a nuestros territorios rurales en grandes fábricas verdes, de alimentos sanos y nutritivos, de bioenergías, de biomateriales y de probióticos, ofreciendo oportunidades de desarrollo inclusivo en los territorios rurales. 
+
+Significa también actuar sin complejos, asumiendo con decisión que la nueva agenda otorga carácter estratégico y peso específico a las naciones latinoamericanas en el tablero global. Será necesario que la región, en la búsqueda de resiliencia y una reducción de su vulnerabilidad al cambio climático, acuerde una visión sobre las trayectorias de la adaptación.  
+
+Puertas adentro, la promoción de ese modelo de agricultura requiere nuevos y mejores entornos de políticas públicas, investigación sistemática, innovación, emprendedores y capital, para encaminarnos a una eco-intensificación que permita producir más con menos uso de tierra, disponer de más alimentos con menos agua, menos fertilizantes, menos pesticidas y menos energía, disminuyendo las emisiones de gases de efecto invernadero e incluso secuestrando carbono para convertir a la agricultura en una herramienta para la mitigación. 
+
+Estas concepciones y estrategias, que incentivan la modernización del sector agropecuario, la innovación de la gestión pública y el comercio, alimentan y convergen con la agenda de la descarbonización de la economía global, y ayudan a crear y ampliar capacidades locales mediante la incorporación a la faz productiva de las dimensiones social, ambiental, tecnológica y científica.  
+
+Como nunca, es tiempo de poner a los agricultores de América Latina y el Caribe en el centro de las políticas climáticas y de la protección a la naturaleza. Ellos son las piezas medulares para este nuevo desarrollo, anclado en la gestión del conocimiento, la facilitación del comercio, la bioeconomía, la acción climática y el desarrollo territorial, aportando soluciones concretas a un planeta en crisis que grita y reclama por nuevos y comprometidos liderazgos. 
+
+**_Izabella Teixeira, (\*) Bióloga y exministra de Medio Ambiente de Brasil_**
+
+_**Manuel Otero**, **Médico veterinario, Director General del Instituto Interamericano de Cooperación para la Agricultura (IICA)**_  
+
+En Ecuador, la crisis del pasto afectó la producción de leche de pequeños ganaderos
+===================================================================================
+
+La sequía impactó al sector ganadero, reduciendo el peso de sus vacas y la producción lechera. Hay soluciones limitadas.
+------------------------------------------------------------------------------------------------------------------------
+
+![A las vacas de Pujilí (Cotopaxi) les falta pasto, por lo que su producción de leche decayó. Foto tomada el martes 1 de octubre del 2024](https://www.elcomercio.com/wp-content/uploads/2024/10/Vaca-vale.jpg)
+
+Ecuador cuenta con **pasto** durante todo el año, pero la **sequía** de 2024 ha dejado a los pequeños ganaderos sin suficiente alimento para sus vacas. Esto ha provocado la pérdida de peso en los animales y una caída en la producción de leche.
+
+Más noticias
+------------
+
+* [Sequía e incendios en Ecuador impactan al sector agropecuario ¿Cuánto suman las pérdidas?](https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html "Sequía e incendios en Ecuador impactan al sector agropecuario ¿Cuánto suman las pérdidas?")
+* [La sequía impide el brote normal de las frutas en Ecuador](https://www.elcomercio.com/actualidad/negocios/la-sequia-impide-el-brote-normal-de-las-frutas.html "La sequía impide el brote normal de las frutas en Ecuador")
+
+La época seca, que normalmente dura dos meses, se extendió de junio a septiembre, combinándose con fuertes vientos y alta radiación solar. Como resultado, la cobertura vegetal se volvió marrón y pajiza.
+
+La disminución en la producción de pasto es más evidente en áreas sin acceso a canales de riego, especialmente en colinas y montañas hasta 3 500 metros de altura. En contraste, en los valles, donde se concentra el 20% del riego del país, la situación es menos severa, según Gabriela Espinosa, presidenta de la Asociación Ganadera de la Sierra y el Oriente (AGSO).
+
+Normalmente, una vaca consume el 10% de su peso corporal en forrajes verdes, que contienen un 80% de agua. En épocas de producción, esta demanda aumenta en un 10% adicional.
+
+Las vacas lecheras en los valles tendrán que esperar unos 45 días para que el pasto crezca nuevamente tras las lluvias. En las montañas, el proceso es más lento y puede tomar al menos dos meses. Algunos ganaderos creen que para recuperar el peso óptimo de sus animales se necesitarán hasta tres meses.
+
+**Más de 20 mil animales afectados, la producción de leche cayó 20%** 
+----------------------------------------------------------------------
+
+Las provincias más afectadas por la pérdida de pasto son **Azuay** (27 247 hectáreas), **Bolívar, Cotopaxi** y **Tungurahua.** Pichincha no aparece en el reporte del **Ministerio de Agricultura y Ganadería (MAG)** proporcionado a **EL COMERCIO.**
+
+Hasta el 27 de septiembre de 2024, se han registrado **16** muertes de animales y **23 218** afectados por la sequía, de los cuales **17 380** son de Cotopaxi. En total, **4 576** ganaderos han visto afectada su producción, con pérdidas económicas superiores a los **365 mil dólares.**
+
+De acuerdo con la AGSO, la producción lechera bajó un **20%.** Un ganadero con dos a cuatro vacas, que antes generaba ingresos de unos 600 dólares mensuales, ahora enfrenta una reducción de 120 dólares. En algunos casos, la caída puede ser del **50%.**
+
+Hasta 2023, la [producción diaria de leche](https://www.elcomercio.com/actualidad/negocios/56-millones-de-litros-de-leche-se-producen-cada-dia-en-ecuador.html "https://www.elcomercio.com/actualidad/negocios/56-millones-de-litros-de-leche-se-producen-cada-dia-en-ecuador.html") alcanzaba los **5,6 millones de litros**, mayoritariamente en las provincias de la Sierra y Amazonía. Una vaca que consume pasto normalmente produce cerca de **15 litros** al día, pero esa producción ha disminuido un 20%, según la Asociación.
+
+![Miles de hectáreas del barrio Alpamalag, en Pujilí (Cotopaxi) se ven completamente secas. Foto tomada el 1 de octubre del 2024. ](https://www.elcomercio.com/wp-content/uploads/2024/10/pasto_vale_720.jpg)
+
+Miles de hectáreas del barrio Alpamalag, en Pujilí (Cotopaxi) se ven secas. Foto del 1 de octubre del 2024.
+
+**Estrategias de los ganaderos frente a la crisis**
+---------------------------------------------------
+
+Frente a la crisis del pasto, los pequeños ganaderos están comprando forraje, plátano, brócoli y granos como suplementos, lo que representa costos adicionales. Algunos ganaderos medianos cuentan con silos para almacenar ensilaje, lo que les permite conservar forrajes durante la sequía.
+
+Otra estrategia es colocar a las vacas en un periodo seco de producción. Según Espinosa, esta opción puede extenderse hasta tres meses, pero después de ese tiempo, las pérdidas se vuelven significativas.
+
+La producción de leche de Pablo Rodríguez, ganadero de Pujilí (Cotopaxi), cayó 50% por la falta de pastos para sus vacas y, pese a que contaba con reservas. 
+
+“En mi caso producía 250 litros diarios de leche pero con la sequía bajé a un promedio de 150. Si hay mucho sol las vacas se estresan y como no hay suficiente hierba no producen”. 
+
+Otros desafíos que afrontan los ganaderos
+-----------------------------------------
+
+La caída en los precios de la leche durante las vacaciones escolares continúa tras el regreso a clases. Además, los ganaderos enfrentan el problema del ingreso de leche de mala calidad por las fronteras y la falta de control, lo que agrava sus pérdidas. En Ecuador, el consumo promedio de leche es bajo:114 litros anuales por persona, según la [Federación Panamericana de Lechería.](https://fepale.org/site/) 
+
+Los ganaderos también se enfrentan a la presión de contar con pastos de calidad, lo cual depende de un adecuado sistema de riego. En Pujilí, Rodríguez utiliza bombas de diésel y electricidad para riego, pero los cortes de luz dificultan el mantenimiento de sus pastos y del resto de ganaderos.
+
+**La ayuda estatal resulta insuficiente**
+-----------------------------------------
+
+La asistencia estatal para los ganaderos es insuficiente. Esta actividad requiere reinversión constante y muchos productores necesitan capital fresco. Sin embargo, la banca privada ofrece créditos con tasas de interés que oscilan entre el 14% y el 16%, que los ganaderos consideran demasiado elevadas.
+
+La banca estatal también ha fallado en satisfacer la demanda. Según el MAG, entre enero y agosto de 2024, se otorgaron créditos públicos a **29 646** beneficiarios, sumando **179,4 millones de dólares**. De este total, el **30,8%** fue para cultivos agrícolas, **29,5%** para mejoras territoriales, **16,6%** para ganadería porcina y **11,6%** para pastos.
+
+Por otro lado, la **Reserva Estratégica Forrajera Nacional** entregó 236 295 kilogramos de forraje a 1 270 pequeños y medianos productores. En Cotopaxi, se distribuyeron siete toneladas de ensilaje y se brindaron desparasitaciones y vitaminización a 1 000 animales.
+
+En **Bolívar y Cotopaxi** se implementan **sistemas de riego parcelario** en 162 ha. También se diseñan proyectos de riego para organizaciones, con servicios gratuitos disponibles a través de las Direcciones Distritales del MAG. Además, se desarrollan reservorios y albarradas para ser usados por los GAD.
+
+En **Bolívar** se entregaron 15 toneladas de alimento y se prevé continuar con la distribución de ensilaje en las próximas semanas. En **Azuay**, 220 productores han sido capacitados en conservación de suelos y uso eficiente del agua, además de recibir formación sobre la elaboración de suplementos nutricionales, produciendo 8 000 kilogramos y estableciendo silotanques para mejorar la alimentación animal.
+
 Cierre de la Autopista General Rumiñahui genera congestión vehicular
 ====================================================================
 
@@ -967,225 +1120,3 @@ El joven ‘streamer’ era popular entre su **comunidad en YouTube y en la plat
 Los usuarios en redes han dejado ver su molestia en los comentarios por su **impericia e irresponsabilidad al momento de conducir.** Algunos han pedido que se le **levanten cargos criminales** por manejar de esa manera y poner en riesgo su vida, la de su copiloto y demás personas que usan esta carretera.
 
 Además, el siniestro ha generado debates sobre **a quiénes los propios seguidores convierten en ‘YouTubers’ o ‘influencers’.**
-
-Deportivo Quito clasificó a una nueva fase del Ascenso Nacional
-===============================================================
-
-Deportivo Quito clasificó a los dieciseisavos de final frente a Santa Elena, en Samborondón.
---------------------------------------------------------------------------------------------
-
-![Jugada del Deportivo Quito ante el Santa Elena, en Samborondón.](https://www.elcomercio.com/wp-content/uploads/2024/10/dquito.png)
-
-**Deportivo Quito** se encuentra en plena lucha por regresar a la primera división del fútbol ecuatoriano, aspiración que busca concretar para la temporada 2025.
-
-El equipo capitalino ha transitado un largo y complicado camino en e**l Ascenso Nacional,** una competencia que exige esfuerzo tanto en la cancha como fuera de ella.
-
-### Más noticias
-
-* [El partido de Deportivo Quito vuelve a cambiar de sede](https://www.elcomercio.com/deportes/futbol/deportivo-quito-santa-elena-cambio-sede-samborondon.html "El partido de Deportivo Quito vuelve a cambiar de sede")
-* [Iker Morante, la nueva estrella del Deportivo Quito](https://www.elcomercio.com/deportes/deportivo-quito-segunda-categoria-iker-moran.html "Iker Morante, la nueva estrella del Deportivo Quito")
-* [José Pardo, de hincha a presidente de Deportivo Quito](https://www.elcomercio.com/deportes/futbol/deportivo-quito-jose-pardo-presidente-dirigentes.html "José Pardo, de hincha a presidente de Deportivo Quito")
-
-La ilusión de sus hinchas se mantiene viva gracias al contundente triunfo de 3-0 obtenido en el partido de ida de los **playoffs ante Santa Elena**, un equipo de la península.
-
-Partido de vuelta en Samborondón
---------------------------------
-
-**Santa Elena** no podrá jugar como local en su ciudad de origen. En su lugar, recibirá al cuadro chulla en el Samborondón Arena, ubicado en la **provincia de Guayas**.
-
-El cambio de sede no ha desanimado a los seguidores del **Deportivo Quito**, quienes han comenzado a organizar viajes por tierra y por medios propios, con la expectativa de contar con al menos 500 aficionados presentes en el estadio.
-
-El precio de las entradas para este partido ha sido establecido en 10 dólares. La **Mafia Azul Grana**, barra oficial del club quiteño, **confirmó su presencia** para alentar a su equipo y contribuir al ambiente que siempre generan en cada encuentro.
-
-Deportivo Quito busca asegurar su pase
---------------------------------------
-
-El encuentro de revancha se juega este domingo 6 de octubre a las 11:30. Deportivo Quito llega a este compromiso con una clara ventaja de tres goles, lo que le permitiría clasificar a los **dieciseisavos de final con solo un empate**.
-
-En esta fase, el torneo ofrece dos cupos **para ascender a la Serie B de la Liga Pro**, objetivo que Deportivo Quito tiene entre ceja y ceja mientras avanza en el campeonato.
-
-Alineación del Deportivo Quito
-------------------------------
-
-El equipo de Sociedad Deportiva Quito está listo para enfrentar a Santa Elena este 6 de octubre en el estadio Arena Samborondón, en un partido que promete emociones desde las 11h30.
-
-Bajo la dirección técnica de Carlos Castro, el equipo capitalino saltará al campo con Darío Lajones en el arco, acompañado por Kennet Andrade, Jair Velaña, Washington Jaramillo y Stalin Vivero en la defensa.
-
-> ‼️Los elegidos por el profe‼️[#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) inspiración 💙❤️  
-> 🎶 Dale Quito, dale Quito; orgullo nacional 🎶 [pic.twitter.com/BMJCeQX6vX](https://t.co/BMJCeQX6vX)
-> 
-> — SD Quito Oficial (@SDQuito\_Oficial) [October 6, 2024](https://twitter.com/SDQuito_Oficial/status/1842958292114649263?ref_src=twsrc%5Etfw)
-
-En el mediocampo estarán Marvin Cortez, Josue Chicaiza, Jostin Chichande y Iker Morante, mientras que la ofensiva estará a cargo de José Luis Rivera y Luis Celi.
-
-En el banquillo esperan listos para aportar al equipo Santiago Castro, Walter Mina, Jhonatan Shuguli, Andrés del Castillo, Miguel Castro, Sebastián Loya, Ronald Solórzano, Ricardo Ochoa y Hernán Murillo.
-
-Primer tiempo entre Deportivo Quito y Santa Elena
--------------------------------------------------
-
-### Primeros 15 minutos, Deportivo Quito 0-0 Santa Elena
-
-**Deportivo Quito** mantuvo un control sólido en el mediocampo, mientras que Santa Elena intentó atacar por las bandas en busca de vulnerar la **defensa de los chullas**.
-
-> INICIO DEL PARTIDO [#AscensoNacional](https://twitter.com/hashtag/AscensoNacional?src=hash&ref_src=twsrc%5Etfw) 🇪🇨.  
->   
-> Santa Elena SC 0 – 0 [#SDQuito](https://twitter.com/hashtag/SDQuito?src=hash&ref_src=twsrc%5Etfw)  
->   
-> 🎶 Va a volver, va a volver 🎶[#ElQuitoEs](https://twitter.com/hashtag/ElQuitoEs?src=hash&ref_src=twsrc%5Etfw) 💙❤️ [pic.twitter.com/1Xanl9m5Jy](https://t.co/1Xanl9m5Jy)
-> 
-> — SD Quito Oficial (@SDQuito\_Oficial) [October 6, 2024](https://twitter.com/SDQuito_Oficial/status/1842966525818651004?ref_src=twsrc%5Etfw)
-
-Sin embargo, alrededor del minuto 15, un cabezazo logró abrir el **marcador a favor del Quito**, pero el gol **fue anulado por un fuera de juego**. Así, al minuto 16, el marcador seguía sin alterarse, manteniéndose **0-0.**
-
-### 30 minutos, Deportivo Quito 0-0 Santa Elena
-
-Deportivo Quito controló la posesión durante los primeros 30 minutos del encuentro, en los que ninguno de los equipos logró generar **peligro significativo**. Las aproximaciones de ambas escuadras fueron contenidas sin complicaciones, aunque un tiro libre estuvo cerca de inquietar a la defensa del cuadro chulla.
-
-A los 28 minutos, el árbitro decidió detener el juego para un minuto de hidratación, debido al intenso calor, buscando prevenir posibles malestares en los jugadores. Los futbolistas del Quito aprovecharon el receso para colocarse **compresas frías en el cuello y así combatir la fatiga**.
-
-Al minuto 30, el marcador seguía sin cambios, 0-0, pero en el global Deportivo Quito mantenía una ventaja de 3-0.
-
-### Final del primer tiempo, Deportivo Quito 0-0 Santa Elena
-
-En los últimos minutos de la primera mitad, tanto **Santa Elena como Deportivo Quito** carecieron de oportunidades claras para anotar. Aunque los **chullas** intentaron acercarse al arco contrario, no lograron generar jugadas decisivas para abrir el marcador. El primer tiempo concluyó con un empate 0-0.
-
-Este empate beneficia a **Deportivo Quito**, que sigue manteniendo una ventaja de tres goles en el marcador global.
-
-Segundo tiempo clave para la clasificación del Deportivo Quito
---------------------------------------------------------------
-
-### Deportivo Quito 2-1 Santa Elena
-
-Deportivo Quito marcó la primera a los 56 minutos tras un remate de **Jostin Chichande** puso el 1-0 luego de una jugada de **Iker Morante** para darle tranquilidad al equipo chulla. Posterior al gol, Deportivo Quito se salvó de que lo igualen en el marcador.
-
-A través de un tiro de esquina, un autogol de **Jair Velaña** puso el 1-1 de Santa Elena a los 63 minutos para poner un marcado global de 4-1 a favor del **Deportivo Quito**.
-
-A los 78 minutos, el **Deportivo Quito** marcó el segundo gol a través de una jugada de Iker Morante que centró al recién ingresado S. Loya para darle una ventaja clara para clasificar a los dieciseisavos del **Ascenso Nacional**.
-
-Terror en Puerto Bolívar por atentado con explosivos
-====================================================
-
-Todo sobre el ataque ocurrido en Puerto Bolívar.
-------------------------------------------------
-
-![Así quedó la zona de la explosión en Puerto Bolívar. Foto: X @Richarzamb](https://www.elcomercio.com/wp-content/uploads/2024/10/puerto-bolivar-El-comercio.jpg)
-
-Una explosión devastadora sacudió el barrio Blanca García, conocido como **La Barraca**, en **Puerto Bolívar,** Machala, el sábado 5 de octubre de 2024. Se trató de un atentado que ocurrió alrededor de las 15:00.
-
-El ataque dejó dos personas fallecidas, siete heridos y seis casas gravemente afectadas.
-
-La detonación, que estremeció a todo el sector, generó una onda expansiva que no solo destruyó viviendas, sino también sembró el pánico en toda la comunidad.
-
-Las víctimas del atentado
--------------------------
-
-Las autoridades confirmaron que las víctimas fatales fueron **María Ermencia Rivera Castillo**, de 74 años, y **José Baltazar Valencia Mero**, de 67 años. María Rivera fue encontrada entre los escombros de su hogar por su hija, quien, al descubrir el cuerpo sin vida de su madre, quedó en estado de desesperación.
-
-La mujer falleció debido al impacto de la explosión, mientras que José Baltazar presentaba heridas de bala previas a la detonación, lo que incrementa la gravedad de los hechos.
-
-La onda expansiva no solo afectó las casas cercanas, sino que los ecos de la explosión se escucharon en barrios aledaños al sur de Machala. La conmoción por el atentado ha sido tal que las autoridades han intensificado los operativos en la zona, en busca de más responsables y pistas que esclarezcan el caso.
-
-Investigación en curso
-----------------------
-
-La **Policía Nacional** informó que una persona ha sido detenida para investigaciones. El **sospechoso**, capturado gracias a las cámaras de vigilancia, fue visto ingresando por la zona del **Estero Huaylá**, área cercana al lugar de los hechos.
-
-Las autoridades aún no han confirmado su participación en el atentado, pero fue llevado al lugar de la explosión para que viera el alcance de los daños causados por su posible acción.
-
-El jefe de la Policía Nacional de Machala, Álvaro Rocha, confirmó que las investigaciones preliminares sugieren que el ataque iba dirigido a la propiedad de un individuo identificado como alias **Sayayín**, presunto líder del grupo criminal **Los Choneros** en El Oro.
-
-La carga explosiva fue tan potente que no solo afectó su vivienda, sino que destruyó otras tres casas y dañó gravemente otras seis.
-
-Equipos tácticos, incluidos el **Grupo de Intervención y Rescate (GIR)** y la **Infantería de Marina**, acudieron rápidamente para acordonar la zona y brindar seguridad, mientras que las ambulancias trasladaron a los heridos a distintos centros de salud para recibir atención médica urgente.
-
-Pervis Estupiñán clave en la remontada del Brighton ante el Tottenham
-=====================================================================
-
-El Brighton de Pervis Estupiñán logró remontar un marcador de 0-2 frente al Tottenham.
---------------------------------------------------------------------------------------
-
-![Pervis Estupiñán en un partido con el Brighton por la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/10/pes.png)
-
-El **Tottenham Hotspur**, que tenía el partido controlado con un 0-2 al descanso, vio cómo e**l Brighton & Hove Albion** le remontó en solo dieciséis minutos, lo que significó un paso atrás en sus aspiraciones. **Pervis Estupiñán** fue clave en la remontada.
-
-Más noticias
-
-* [¿Cuándo juega el Chelsea ante Brighton?](https://www.elcomercio.com/deportes/futbol/cuando-juega-chelsea-brighton-moises-caicedo.html "¿Cuándo juega el Chelsea ante Brighton?")
-* [Pervis Estupiñán recupera la titularidad en Brighton](https://www.elcomercio.com/deportes/pervis-estupinan-brighton-titularidad-recuperacion.html "Pervis Estupiñán recupera la titularidad en Brighton")
-* [Brighton, con Pervis Estupiñán de titular, no pudo con el Nottingham Forest](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-nottingham-forest.html "Brighton, con Pervis Estupiñán de titular, no pudo con el Nottingham Forest")
-
-Después de siete jornadas, los **‘Spurs’ ocupan la novena posición** con apenas diez puntos de veintiuno posibles, lo que los deja a la misma distancia del descenso que de la **clasificación a la Champions League**. Este último debería ser su objetivo, considerando que llevan dos años consecutivos sin clasificar.
-
-Un inicio prometedor y una primera mitad dominada
--------------------------------------------------
-
-Tras una victoria sin brillo en la Europa League frente al **Ferencvaros**, el equipo dirigido por Ange Postecoglou arrancó de manera dominante en el Amex Stadium.
-
-**Brennan Johnson abrió el marcador** luego de un excelente pase en profundidad de Dominic Solanke, y anotó su sexto gol consecutivo, algo que no lograba un jugador del Tottenham desde Harry Kane en enero de 2019.
-
-El segundo gol llegó gracias a una gran jugada colectiva que culminó con un disparo de **James Maddison**, cuyo remate fue mal blocado por el portero Verbruggen. Con el 0-2 y el control del partido, todo apuntaba a que el Tottenham tenía la victoria asegurada.
-
-La remontada en dieciséis minutos luego de la entrada de Pervis Estupiñán
--------------------------------------------------------------------------
-
-Para el segundo tiempo, el ecuatoriano **Pervis Estupiñán** ingresó para darle otra cara al equipo.
-
-Sin embargo, el equipo londinense se autoinfligió el daño. A los 48 minutos, **Karou Mitoma**, clave en la **remontada con dos asistencias**, ganó la espalda de Pedro Porro y lanzó un centro que terminó en los pies de Minteh tras errores defensivos d**e Van de Ven y Udogie**. Minteh no dudó y acortó distancias.
-
-> FT: WHAT A WIN FOR THE ALBION! 😍  
->   
-> \[3-2\] 📲 [#BHAFC](https://twitter.com/hashtag/BHAFC?src=hash&ref_src=twsrc%5Etfw) // [#BHATOT](https://twitter.com/hashtag/BHATOT?src=hash&ref_src=twsrc%5Etfw) 🔵⚪️ [pic.twitter.com/CFNTQNFOiX](https://t.co/CFNTQNFOiX)
-> 
-> — Brighton & Hove Albion (@OfficialBHAFC) [October 6, 2024](https://twitter.com/OfficialBHAFC/status/1842979524793041099?ref_src=twsrc%5Etfw)
-
-Diez minutos después, otra asistencia de **Mitoma permitió a Georginio Rutter** igualar el marcador tras una gran maniobra en el área. Finalmente, con el Amex encendido, el Brighton completó la remontada con un gol de **Danny Welbeck**, quien solo tuvo que empujar el balón a la red después de una jugada forzada por Rutter.
-
-Lejos de responder, el **Tottenham** se vio completamente desbordado por el vendaval de juego del Brighton. El equipo londinense, que había ganado cinco encuentros consecutivos contra este rival, dejó escapar una **ventaja cómoda** y se marcha al parón internacional en novena posición, mientras que el Brighton se coloca sexto, a dos puntos de los puestos de Champions League.
-
-Así será el clima en Quito este domingo 6 de octubre de 2024
-============================================================
-
-Quito tendrá clima variable entre sol y lluvia para este domingo, 6 de octubre de 2024.
----------------------------------------------------------------------------------------
-
-![Quito tendrá clima variable entre sol y lluvia para este domingo. FOTO: EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/clima-quito-lluvias-radiacion-quito.png)
-
-El Instituto Nacional de Meteorología e Hidrología (INAMHI) anunció las **previsiones del clima para este domingo, 6 de octubre de 2024.**
-
-Para la ciudad de Quito, esta institución **emitió una alerta con precauciones** para sus habitantes.
-
-Más noticias
-------------
-
-* [Condiciones del clima en Ecuador para este sábado 5 de octubre](https://www.elcomercio.com/actualidad/ecuador/condiciones-clima-lluvias-ecuador-octubre.html)
-* [Cortes de luz en Quito para este domingo 6 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-este-domingo-6-de-octubre.html)
-
-Las lluvias en Quito
---------------------
-
-Para este domingo, 6 de octubre, la ciudad presentará **cielo poco nuboso a nublado.**
-
-Además, para la tarde este día el Inamhi **prevé lluvias con tormentas dispersas** que se podrán extender hasta las 19:00. Los sectores que tendrás. La temperatura mínima será de 22 grados.
-
-En la noche y horas de la madrugada del lunes 7 de octubre se presentarán **lloviznas ocasionales y niebla.** La temperatura mínima en estas horas será de 9 grados.
-
-> [#PronosticoPichinchaEc](https://twitter.com/hashtag/PronosticoPichinchaEc?src=hash&ref_src=twsrc%5Etfw) l Domingo, 06 de octubre: Cielo poco nuboso a nublado, lluvias con tormentas en horas de la tarde [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw). 🌧️⛈️☔️  
->   
-> Radiación [#UV](https://twitter.com/hashtag/UV?src=hash&ref_src=twsrc%5Etfw) entre Muy Alta y Extremadamente Alta. [pic.twitter.com/x1udcJN8qj](https://t.co/x1udcJN8qj)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 6, 2024](https://twitter.com/inamhi_ec/status/1842912823107580371?ref_src=twsrc%5Etfw)
-
-La alerta de radiación en Quito
--------------------------------
-
-A la par de la presencia de lluvias en la capital, el Inamhi también emitió **una alerta por radiación alta**.
-
-La provincia de Pichincha estará en la escala de medición en un nivel de 8. Es decir, **en el rango Muy alto.**
-
-Según sus previsiones, otras provincias de Ecuador también tienen **alerta de radiación Muy alta:** Imbabura, Esmeraldas, Sucumbíos, Orellana, Pastaza, Napo, Loja, Zamora Chinchipe, Guayas y parte de las Islas Galápagos.
-
-Ante esta situación, es importante **evitar la exposición prolongada al sol hasta las 15:00**. Además del uso de bloqueador solar o fotoprotector, gafas, gorra, sombrilla y prendas con mangas.
-
-> [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el domingo, 06 de octubre de 2024🌤️ [pic.twitter.com/os7o9Cuv10](https://t.co/os7o9Cuv10)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 5, 2024](https://twitter.com/inamhi_ec/status/1842708529326526901?ref_src=twsrc%5Etfw)
