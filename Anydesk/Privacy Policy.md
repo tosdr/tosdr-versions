@@ -29,7 +29,7 @@
     [Education](https://anydesk.com/en/solutions/education) [Government](https://anydesk.com/en/solutions/government) [Corporations](https://anydesk.com/en/solutions/corporations) [Media Creatives](https://anydesk.com/en/solutions/media-creatives) [Information Technology  
     & Services](https://anydesk.com/en/solutions/information-technology-services)
     
-* [Company![](/_static/icons/white/bold/arrow-down-1-f6e0a2.svg) ![](/_static/icons/black/medium/arrow-down-1-c4827e.svg)](#) 
+* [Company![](/_static/icons/white/bold/arrow-down-1-ec7f5c.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
     
     Company
     
@@ -41,17 +41,17 @@
     
     Resources
     
-    [Case Studies](https://anydesk.com/en/case-studies) [AnyDesk Stories](https://anydesk.com/en/stories) [Resources Hub](https://anydesk.com/en/resources) [Tutorials![](/_static/icons/black/bold/keyboard-arrow-top-right-ef6f7a.svg)](https://www.youtube.com/playlist?list=PLlEnzX2FLqbs_GC8rUUn4I5rwMJFwki8n) [Help Center![](/_static/icons/black/bold/keyboard-arrow-top-right-b2a1f5.svg)](https://support.anydesk.com/knowledge)
+    [Case Studies](https://anydesk.com/en/case-studies) [AnyDesk Stories](https://anydesk.com/en/stories) [Resources Hub](https://anydesk.com/en/resources) [Tutorials![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://www.youtube.com/playlist?list=PLlEnzX2FLqbs_GC8rUUn4I5rwMJFwki8n) [Help Center![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://support.anydesk.com/knowledge)
     
-* [Support![](/_static/icons/white/bold/arrow-down-1-86c16a.svg) ![](/_static/icons/black/medium/arrow-down-1-3a28d3.svg)](#) 
+* [Support![](/_static/icons/white/bold/arrow-down-1-ec7f5c.svg) ![](/_static/icons/black/medium/arrow-down-1-38c71c.svg)](#) 
     
     Support
     
-    [Customer Portal![](/_static/icons/black/bold/keyboard-arrow-top-right-96f2bb.svg)](https://my.anydesk.com/) [Help Center![](/_static/icons/black/bold/keyboard-arrow-top-right-e4fb32.svg)](https://support.anydesk.com/knowledge) [Contact Us](https://anydesk.com/en/contact-anydesk)
+    [Customer Portal![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://my.anydesk.com/) [Help Center![](/_static/icons/black/bold/keyboard-arrow-top-right-7aaa41.svg)](https://support.anydesk.com/knowledge) [Contact Us](https://anydesk.com/en/contact-anydesk)
     
 * [Buy Now](https://anydesk.com/en/pricing)
 
-[Contact Us](https://anydesk.com/en/contact-anydesk)[![](/_static/icons/red/bold/headphones-customer-support-human-37b7c1.svg "Contact Us")](https://anydesk.com/en/contact-anydesk)[Downloads](https://anydesk.com/en/downloads)[![](/_static/icons/red/bold/download-bottom-43dda0.svg "Downloads")](https://anydesk.com/en/downloads)
+[Contact Us](https://anydesk.com/en/contact-anydesk)[![](/_static/icons/red/bold/headphones-customer-support-human-6e41ee.svg "Contact Us")](https://anydesk.com/en/contact-anydesk)[Downloads](https://anydesk.com/en/downloads)[![](/_static/icons/red/bold/download-bottom-278e26.svg "Downloads")](https://anydesk.com/en/downloads)
 
 Data Processing Agreement
 =========================
@@ -278,7 +278,7 @@ The remuneration is conclusively regulated in the main contract. There is no sep
 
 ##### Contact sales
 
- [![](/_static/icons/white/bold/phone-9eb6b6.svg) +1 833 269 3375![](/_static/icons/red/bold/arrow-button-right-1-eb0098.svg) ![](/_static/icons/white/bold/arrow-button-right-1-186a22.svg)](tel:+18332693375) 
+ [![](/_static/icons/white/bold/phone-9be7e0.svg) +1 833 269 3375![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-d8f1ad.svg)](tel:+18332693375) 
 
 At AnyDesk, we want to provide the best experience and most innovative technology to all our users and customers. Our team will be operating on reduced holiday hours during this time.
 
@@ -290,7 +290,7 @@ At AnyDesk, we want to provide the best experience and most innovative technolog
 
 ##### Contact sales
 
- [![](/_static/icons/white/bold/phone-350dbf.svg) +1 833 269 3375![](/_static/icons/red/bold/arrow-button-right-1-81bcf0.svg) ![](/_static/icons/white/bold/arrow-button-right-1-529acb.svg)](tel:+18332693375) 
+ [![](/_static/icons/white/bold/phone-9be7e0.svg) +1 833 269 3375![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-d8f1ad.svg)](tel:+18332693375) 
 
 ### Sign up for news, tips and more
 
@@ -306,7 +306,7 @@ Subscribe Now
 
 ![](/_static/img/logos/based-in-florida-white-ecce6b.svg "AnyDesk logo")
 
-![](/_static/icons/red/bold/arrow-down-1-fee6a6.svg)
+![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
 
  [![](/_static/img/badges/google-play-badge-1338ed.svg)](https://play.google.com/store/apps/details?id=com.anydesk.anydeskandroid)[![](/_static/img/badges/app-store-badge-2f2fe1.svg)](https://itunes.apple.com/us/app/anydesk/id1176131273)
 
@@ -320,17 +320,17 @@ Subscribe Now
 
 [Support](#card-accordion-footer-menu3)
 
-[AnyDesk Services](https://anydesk.com/en/services) [Customer Success](https://anydesk.com/en/services/customer-success) [Help Center![](/_static/icons/white/bold/keyboard-arrow-top-right-74aff5.svg)](https://support.anydesk.com/knowledge) [my.anydesk.com![](/_static/icons/white/bold/keyboard-arrow-top-right-fe7d0d.svg)](https://my.anydesk.com/) [go.anydesk.com![](/_static/icons/white/bold/keyboard-arrow-top-right-27e4c1.svg)](https://go.anydesk.com/) [Abuse Prevention](https://anydesk.com/en/abuse-prevention) [System Status![](/_static/icons/white/bold/keyboard-arrow-top-right-16702d.svg)](https://status.anydesk.com/) [Changelog](https://anydesk.com/en/changelog)
+[AnyDesk Services](https://anydesk.com/en/services) [Customer Success](https://anydesk.com/en/services/customer-success) [Help Center![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://support.anydesk.com/knowledge) [my.anydesk.com![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://my.anydesk.com/) [go.anydesk.com![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://go.anydesk.com/) [Abuse Prevention](https://anydesk.com/en/abuse-prevention) [System Status![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://status.anydesk.com/) [Changelog](https://anydesk.com/en/changelog)
 
 [Company](#card-accordion-footer-menu4)
 
-[AnyDesk Team](https://anydesk.com/en/leadership-team) [Contact Us](https://anydesk.com/en/support/contact-us) [Open Positions](https://anydesk.com/en/career) [Partners](https://anydesk.com/en/partners) [Blog](https://blog.anydesk.com/) [Press](https://anydesk.com/en/press) [Events](https://anydesk.com/en/events) [Fanshop![](/_static/icons/white/bold/keyboard-arrow-top-right-040bdd.svg)](https://anydesk-shop.myspreadshop.com/)
+[AnyDesk Team](https://anydesk.com/en/leadership-team) [Contact Us](https://anydesk.com/en/support/contact-us) [Open Positions](https://anydesk.com/en/career) [Partners](https://anydesk.com/en/partners) [Blog](https://blog.anydesk.com/) [Press](https://anydesk.com/en/press) [Events](https://anydesk.com/en/events) [Fanshop![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://anydesk-shop.myspreadshop.com/)
 
 ![](/_static/img/logos/anydesk-logo-white-red-ec4e3a.png "AnyDesk logo")
 
 ![](/_static/img/logos/based-in-florida-white-ecce6b.svg "AnyDesk logo")
 
-![](/_static/icons/red/bold/arrow-down-1-49a1da.svg)
+![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
 
  [![](/_static/img/badges/google-play-badge-1338ed.svg)](https://play.google.com/store/apps/details?id=com.anydesk.anydeskandroid)[![](/_static/img/badges/app-store-badge-2f2fe1.svg)](https://itunes.apple.com/us/app/anydesk/id1176131273)
 
@@ -374,15 +374,15 @@ Support
 
 [Customer Success](https://anydesk.com/en/services/customer-success)
 
-[Help Center![](/_static/icons/white/bold/keyboard-arrow-top-right-040bdd.svg)](https://support.anydesk.com/knowledge)
+[Help Center![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://support.anydesk.com/knowledge)
 
-[my.anydesk.com![](/_static/icons/white/bold/keyboard-arrow-top-right-5d407e.svg)](https://my.anydesk.com/)
+[my.anydesk.com![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://my.anydesk.com/)
 
-[go.anydesk.com![](/_static/icons/white/bold/keyboard-arrow-top-right-4b2db6.svg)](https://go.anydesk.com/)
+[go.anydesk.com![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://go.anydesk.com/)
 
 [Abuse Prevention](https://anydesk.com/en/abuse-prevention)
 
-[System Status![](/_static/icons/white/bold/keyboard-arrow-top-right-789f89.svg)](https://status.anydesk.com/)
+[System Status![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://status.anydesk.com/)
 
 [Changelog](https://anydesk.com/en/changelog)
 
@@ -402,7 +402,7 @@ Company
 
 [Events](https://anydesk.com/en/events)
 
-[Fanshop![](/_static/icons/white/bold/keyboard-arrow-top-right-a7c48c.svg)](https://anydesk-shop.myspreadshop.com/)
+[Fanshop![](/_static/icons/white/bold/keyboard-arrow-top-right-5f4184.svg)](https://anydesk-shop.myspreadshop.com/)
 
 © 2024 AnyDesk Software GmbH • [Terms & Conditions](https://anydesk.com/en/terms) • [Privacy Policy](https://anydesk.com/en/privacy) • [Legal Notice](https://anydesk.com/en/imprint)
 
