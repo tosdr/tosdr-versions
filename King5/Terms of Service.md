@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab/20240908T170729/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab/20240908T170729/d5a6b6c1-a7c0-4b58-bab7-bc85b65deaab_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-festival-de-cine-latino-de-seattle-nueva-presidenta-de-mxico-y-ms/281-1226f995-2604-479f-82f8-ca2f16754667)
+    *  [![](https://media.king5.com/assets/KING/images/bd9a08f0-7200-4953-9149-6f1224286480/20241007T013101/bd9a08f0-7200-4953-9149-6f1224286480_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bd9a08f0-7200-4953-9149-6f1224286480/20241007T013101/bd9a08f0-7200-4953-9149-6f1224286480_360x203.jpg)](https://www.king5.com/article/news/crime/easy-street-records-dealing-two-incidents-damaging-store-over-weekend/281-5b666182-0593-4291-8128-98337c612f77)
         
-        #### [Cinco Cosas: Festival de Cine Latino de Seattle, nueva presidenta de México y más](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-festival-de-cine-latino-de-seattle-nueva-presidenta-de-mxico-y-ms/281-1226f995-2604-479f-82f8-ca2f16754667)
+        #### [West Seattle store dealing with flood, break-in attempt over weekend](https://www.king5.com/article/news/crime/easy-street-records-dealing-two-incidents-damaging-store-over-weekend/281-5b666182-0593-4291-8128-98337c612f77)
         
-    *  [![](https://media.king5.com/assets/KING/images/cf51dffb-ddee-4ef4-94ae-44dc741f408a/20241006T033948/cf51dffb-ddee-4ef4-94ae-44dc741f408a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf51dffb-ddee-4ef4-94ae-44dc741f408a/20241006T033948/cf51dffb-ddee-4ef4-94ae-44dc741f408a_360x203.jpg)](https://www.king5.com/article/news/local/uw-football-beats-michigan-in-national-championship-rematch/281-f8f6b04a-5022-4354-9914-f555f30eb4a1)
+    *  [![](https://media.king5.com/assets/KGW/images/a4cfcd65-ac07-4de6-963b-4e1d31f2913f/20241004T200156/a4cfcd65-ac07-4de6-963b-4e1d31f2913f_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/a4cfcd65-ac07-4de6-963b-4e1d31f2913f/20241004T200156/a4cfcd65-ac07-4de6-963b-4e1d31f2913f_360x203.jpg)](https://www.king5.com/article/news/local/search-portland-mom-child-fentanyl-suspected-death/283-dcb6f3f8-ff74-4083-b009-6134abed2e2c)
         
-        #### [UW football beats Michigan in national championship rematch](https://www.king5.com/article/news/local/uw-football-beats-michigan-in-national-championship-rematch/281-f8f6b04a-5022-4354-9914-f555f30eb4a1)
+        #### [Police seek 'armed and dangerous' mom of 2-year-old who died from suspected fentanyl exposure](https://www.king5.com/article/news/local/search-portland-mom-child-fentanyl-suspected-death/283-dcb6f3f8-ff74-4083-b009-6134abed2e2c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-64°
+61°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
