@@ -54,9 +54,9 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [Trump Butler Rally](https://www.breitbart.com/tag/butler-county/)
-* [Helene Devastation](https://www.breitbart.com/tag/hurricane/)
-* [Israel Vs. Hezbollah](https://www.breitbart.com/tag/israel/)
+* [2024 Election](https://www.breitbart.com/tag/2024-presidential-election/)
+* [Oct 7. Anniversary](https://www.breitbart.com/tag/israel/)
+* [Hurricane Milton](https://www.breitbart.com/tag/hurricane/)
 * [Illegal Alien Crime](https://www.breitbart.com/tag/illegal-immigration/)
 * [Diddy](https://www.breitbart.com/tag/diddy/)
 
