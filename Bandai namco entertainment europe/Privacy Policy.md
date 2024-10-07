@@ -24,7 +24,7 @@ Popular Games
 Latest game news
 
 * [Discover BLEACH Rebirth of Souls opening movie!](https://en.bandainamcoent.eu/bleach/news/discover-bleach-rebirth-of-souls-opening-movie)
-* [THE GRINCH: CHRISTMAS ADVENTURES Upgraded Holiday Edition launches today on consoles and PC](https://en.bandainamcoent.eu/the-grinch/news/the-grinch-christmas-adventures-upgraded-holiday-edition-launches-today-consoles)
+* [DRAGON BALL: Sparking! ZERO – Discover the Opening Movie and get to play today!](https://en.bandainamcoent.eu/dragon-ball/news/dragon-ball-sparking-zero-discover-the-opening-movie-and-get-play-today)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
