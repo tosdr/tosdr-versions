@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
+* [![Winged Seduction: Birds Of Paradise](/wp-content/thumbnails/8617-100x70.jpg?x53432)
+    
+    Winged Seduction: Birds Of Paradise
+    
+    Tim Laman a photographer for National Geographic and ornithologist Ed Scholes have been traveling to some of the most remote jungles the world has to offer in search of observing and photographing all](https://documentaryheaven.com/winged-seduction-birds-of-paradise/ "Winged Seduction: Birds Of Paradise")
+* [![RFK Must Die: Assassination of Bobby Kennedy](/wp-content/thumbnails/1237-100x70.jpg?x53432)
+    
+    RFK Must Die: Assassination of Bobby Kennedy
+    
+    Why was RFK rerouted from his original destination in the hotel straight into the path of an assassin s bullet? Who was the girl in the polka dot dress seen fleeing the hotel screaming We shot him, w](https://documentaryheaven.com/rfk-must-die-assassination-of-bobby-kennedy/ "RFK Must Die: Assassination of Bobby Kennedy")
+* [![Titanic’s Final Moments: Missing Pieces](/wp-content/thumbnails/5817-100x70.jpg?x53432)
+    
+    Titanic’s Final Moments: Missing Pieces
+    
+    In August 2005, a History Channel expedition team made a shocking discovery more than two miles beneath the Atlantic Ocean: large missing pieces of Titanic’s bottom, more than 1,500 feet from the rest](https://documentaryheaven.com/titanics-final-moments-missing-pieces/ "Titanic’s Final Moments: Missing Pieces")
 * [![The Truth 365](/wp-content/thumbnails/7428-100x70.jpg?x53432)
     
     The Truth 365
     
     The Truth 365 is a grass-roots documentary film and social media campaign that gives a voice to all children fighting all forms of cancer. Hosted by 18 year-old Melinda Marchiano, who is a cancer surv](https://documentaryheaven.com/truth-365/ "The Truth 365")
-* [![A Survivor’s Guide To Plane Crashes](/wp-content/thumbnails/3285-100x70.jpg?x53432)
+* [![Steve O Demise and Rise](/wp-content/thumbnails/6393-100x70.jpg?x53432)
     
-    A Survivor’s Guide To Plane Crashes
+    Steve O Demise and Rise
     
-    Every day across the world, more than 3 million people catch a plane.Yet despite it being the safest form of travel, many of us are terrified of flying and what we fear most is crashing and dying](https://documentaryheaven.com/a-survivors-guide-to-plane-crashes/ "A Survivor’s Guide To Plane Crashes")
-* [![The Smash Brothers](/wp-content/thumbnails/8406-100x70.png?x53432)
-    
-    The Smash Brothers
-    
-    The Smash Brothers is a 9 episode documentary web series created by East Point Pictures, it explores the in depth competitive gaming world of Super Smash Bros Melee, interviewing some of the scenes to](https://documentaryheaven.com/smash-brothers/ "The Smash Brothers")
-* [![Reddit: How It All Began](/wp-content/thumbnails/6823-100x70.jpg?x53432)
-    
-    Reddit: How It All Began
-    
-    Social news website Reddit received 47 million visitors last month. In our latest video, founders Steve Huffman and Alexis Ohanian discuss how Reddit became the "front page of the Internet."](https://documentaryheaven.com/reddit-how-it-all-began/ "Reddit: How It All Began") 
-* [![I Am A Motherfucker](/wp-content/thumbnails/4600-100x70.jpg?x53432)
-    
-    I Am A Motherfucker
-    
-    A brilliant short documentary on Thomas Bruso (infamously known across the internet as Epic Beard Man) and the days surrounding the release of an internet video showcasing a fight on an Oakland public](https://documentaryheaven.com/i-am-a-motherfucker/ "I Am A Motherfucker")
+    Over one year sober now and fresh off a comeback stint on ABC's 'Dancing With the Stars', Steve-O is set to bare his soul and everything else in 'Steve-O: Demise and Rise', a brutally honest one-hour](https://documentaryheaven.com/steve-o-demise-and-rise/ "Steve O Demise and Rise")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
