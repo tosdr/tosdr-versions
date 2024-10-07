@@ -171,8 +171,8 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Bill S-211: Will you be ready by May 31?](https://www.onetrust.com/resources/bill-s211-will-you-be-ready-by-may-31-webinar/)
 * [OneTrust third-party management demo video](https://www.onetrust.com/resources/onetrust-third-party-management-demo-video/)
-* [Bill S-211: Will you be ready by May 31?”](https://www.onetrust.com/resources/bill-s211-will-you-be-ready-by-may-31-webinar/)
 * [Compliance Automation product demonstration](https://www.onetrust.com/resources/compliance-automation-product-demonstration-webinar/)
 
 ### Platform
