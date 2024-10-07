@@ -263,7 +263,13 @@ article 5 days ago](https://science.nasa.gov/missions/webb/nasas-webb-reveals-un
 
 ### Highlights
 
-[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
+[![A professional headshot of a man wearing glasses, a dark suit, and a striped tie, standing in front of the American flag and a NASA emblem.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2019e019245.jpg?w=819)
+
+2 min read
+
+### Mark Sonoda: Leading NASA’s Path to the Commercialization of Space
+
+article 2 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/mark-sonoda-leading-nasas-path-to-the-commercialization-of-space/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
 
 3 min read
 
@@ -275,13 +281,7 @@ article 4 days ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-s
 
 ### Gateway Stands Tall for Stress Test
 
-article 4 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA astronaut Kate Rubins takes Apollo 17 Lunar Module Pilot Harrison “Jack” Schmitt on a ride on NASA’s rover prototype at Johnson Space Center in Houston.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e061243.jpg?w=1024)
-
-3 min read
-
-### NASA Prepares for Lunar Terrain Vehicle Testing
-
-article 5 days ago](https://www.nasa.gov/humans-in-space/nasa-prepares-for-lunar-terrain-vehicle-testing/)
+article 4 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)
 
 ### Highlights
 
@@ -357,7 +357,7 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-ste
 
 ### Priorities
 
-article 2 days ago](https://science.nasa.gov/lunar-science/priorities/)[![Science Activation’s PLACES Team Facilitates Third Professional Learning Institute](https://science.nasa.gov/wp-content/uploads/2024/10/gmri-cover-image-sara-salisbury.jpeg)
+article 3 days ago](https://science.nasa.gov/lunar-science/priorities/)[![Science Activation’s PLACES Team Facilitates Third Professional Learning Institute](https://science.nasa.gov/wp-content/uploads/2024/10/gmri-cover-image-sara-salisbury.jpeg)
 
 5 min read
 
@@ -401,7 +401,7 @@ article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### Meghan Daley: Shaping the Future of NASA’s Robotic Simulations 
 
-article 3 days ago](https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
 
 3 min read
 
