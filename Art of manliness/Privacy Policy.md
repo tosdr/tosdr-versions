@@ -272,6 +272,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [How to Plan, Organize, and Execute a Convoy](https://www.artofmanliness.com/skills/manly-know-how/how-to-plan-execute-convoy/)
 
+[![An illustration of a tent at the perfect campsite.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-pick-the-perfect-campsite/)
+
+[Skill of the Week: Pick the Perfect Campsite](https://www.artofmanliness.com/skills/outdoor-survival/how-to-pick-the-perfect-campsite/)
+
 [![A green car driving down a hill, seemingly on the verge of plunging off a cliff.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-escape-a-car-hanging-off-a-cliff/)
 
 [Skill of the Week: Escape a Car Hanging Off a Cliff](https://www.artofmanliness.com/skills/outdoor-survival/how-to-escape-a-car-hanging-off-a-cliff/)
@@ -283,10 +287,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Person standing with hands on hips, facing tall pine trees in a foggy forest, contemplating survival tips.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/what-to-do-if-you-get-lost-in-the-wild/)
 
 [What to Do If You Get Lost in the Wild](https://www.artofmanliness.com/skills/outdoor-survival/what-to-do-if-you-get-lost-in-the-wild/)
-
-[![A man is digging a hole in the ground to make a fighting hole.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-make-a-marine-corps-fighting-hole/)
-
-[Skill of the Week: Make a Marine Corps Fighting Hole](https://www.artofmanliness.com/skills/outdoor-survival/how-to-make-a-marine-corps-fighting-hole/)
 
 [Browse all Get Skilled](https://www.artofmanliness.com/skills/)
 
