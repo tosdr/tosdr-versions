@@ -223,7 +223,7 @@ VAT registration No. 875 8101 05
 
 Manage Consent
 
-We always strive to minimise our use of cookies and never knowingly set any tracking or marketing cookies. All cookies deployed by this website are essential to its functioning or essential to the security of the forms on the site. Our Privacy Notice contains more information about the cookies we use any why we use them. We are actively working to reduce to zero the use of 3rd party cookies
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behaviour or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
 
 Functional  Functional Always active
 
@@ -239,7 +239,7 @@ The technical storage or access that is used exclusively for statistical purpose
 
 Marketing  Marketing
 
-We do not intentionally set cookies for targeting marketing. If you find any set from our site please let us know.
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
 
 [Manage options](#) [Manage services](#) [Manage {vendor\_count} vendors](#) [Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
 
