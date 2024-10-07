@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» предлагает изменить подход к подготовке специалистов для биоэкономики](https://cdn.er.ru/media/news/October2024/KqvwGgMNxZrM0BDUwgL3-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predlagaet-izmenit-podhod-k-podgotovke-specialistov-dlya-bioekonomiki)
+
+[«Единая Россия» предлагает изменить подход к подготовке специалистов для биоэкономики](https://er.ru/activity/news/edinaya-rossiya-predlagaet-izmenit-podhod-k-podgotovke-specialistov-dlya-bioekonomiki)
+
+[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#биоэкономика](https://er.ru/activity/news?tags%5B0%5D=60346) [#круглыйстол](https://er.ru/activity/news?tags%5B0%5D=108586) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#цифровыетехнологии](https://er.ru/activity/news?tags%5B0%5D=114340)
+
+Сегодня 19:12
+
+[![Владимир Якушев: Проект федерального бюджета сбалансирован и отвечает поставленным Президентом задачам](https://cdn.er.ru/media/news/October2024/pE5E7sK0nxufpwZ7M78M-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-proekt-federalnogo-byudzheta-sbalansirovan-i-otvechaet-postavlennym-prezidentom-zadacham)
+
+[Владимир Якушев: Проект федерального бюджета сбалансирован и отвечает поставленным Президентом задачам](https://er.ru/activity/news/vladimir-yakushev-proekt-federalnogo-byudzheta-sbalansirovan-i-otvechaet-postavlennym-prezidentom-zadacham)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СоветФедерации](https://er.ru/activity/news?tags%5B0%5D=67479) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#парламентскиеслушания](https://er.ru/activity/news?tags%5B0%5D=113161)
+
+Сегодня 16:08
+
 [![Тысячи активистов МГЕР и «Волонтерской Роты» провели в Москве и Санкт-Петербурге флешмобы в честь Дня рождения Владимира Путина](https://cdn.er.ru/media/news/October2024/G3BatyUHSJdf3lfHRgUI-small.jpg)](https://er.ru/activity/news/tysyachi-aktivistov-mger-i-volonterskoj-roty-proveli-v-moskve-i-sankt-peterburge-fleshmoby-v-chest-dnya-rozhdeniya-vladimira-putina)
 
 [Тысячи активистов МГЕР и «Волонтерской Роты» провели в Москве и Санкт-Петербурге флешмобы в честь Дня рождения Владимира Путина](https://er.ru/activity/news/tysyachi-aktivistov-mger-i-volonterskoj-roty-proveli-v-moskve-i-sankt-peterburge-fleshmoby-v-chest-dnya-rozhdeniya-vladimira-putina)
@@ -328,22 +344,6 @@
 [Галина Данильченко: Более 6 тысяч человек стали членами и сторонниками «Единой России» в Запорожской области](https://er.ru/activity/news/galina-danilchenko-bolee-6-tysyach-chelovek-stali-chlenami-i-storonnikami-edinoj-rossii-v-zaporozhskoj-oblasti)
 
 [#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#Данильченко](https://er.ru/activity/news?tags%5B0%5D=1093187) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-06.10.24
-
-[![Игорь Кастюкевич: «Единая Россия» создала в Херсонской области более 190 первичек — они работают во всех 14 муниципальных округах, включая прифронтовые](https://cdn.er.ru/media/news/October2024/gjKVRfBLae1AIc5YAF87-small.jpg)](https://er.ru/activity/news/igor-kastyukevich-edinaya-rossiya-sozdala-v-hersonskoj-oblasti-bolee-190-pervichek-oni-rabotayut-vo-vseh-14-municipalnyh-okrugah-vklyuchaya-prifrontovye)
-
-[Игорь Кастюкевич: «Единая Россия» создала в Херсонской области более 190 первичек — они работают во всех 14 муниципальных округах, включая прифронтовые](https://er.ru/activity/news/igor-kastyukevich-edinaya-rossiya-sozdala-v-hersonskoj-oblasti-bolee-190-pervichek-oni-rabotayut-vo-vseh-14-municipalnyh-okrugah-vklyuchaya-prifrontovye)
-
-[#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Кастюкевич](https://er.ru/activity/news?tags%5B0%5D=1092567) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477)
-
-06.10.24
-
-[![Денис Мирошниченко: Сегодня команда «Единой России» в ЛНР — это больше 34 тысяч человек, которые помогают людям и фронту](https://cdn.er.ru/media/news/October2024/vAEowqpbCIkiNh0QgtmK-small.png)](https://er.ru/activity/news/denis-miroshnichenko-segodnya-komanda-edinoj-rossii-v-lnr-eto-bolshe-34-tysyach-chelovek-kotorye-pomogayut-lyudyam-i-frontu)
-
-[Денис Мирошниченко: Сегодня команда «Единой России» в ЛНР — это больше 34 тысяч человек, которые помогают людям и фронту](https://er.ru/activity/news/denis-miroshnichenko-segodnya-komanda-edinoj-rossii-v-lnr-eto-bolshe-34-tysyach-chelovek-kotorye-pomogayut-lyudyam-i-frontu)
-
-[#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Мирошниченко](https://er.ru/activity/news?tags%5B0%5D=42613) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 06.10.24
 
