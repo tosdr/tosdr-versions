@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-06 Oct 2024
+07 Oct 2024
 
 * [Home
     
@@ -332,12 +332,14 @@ Patrick McEleney celebrates Derry City's second goal against Bohemians. Pic by B
 [More than 70m euro funding awarded to projects targeting health inequality](https://www.derrynow.com/news/northern-ireland/1623037/more-than-70m-euro-funding-awarded-to-projects-targeting-health-inequality.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future")](https://www.derrynow.com/news/northern-ireland/1622186/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
+[![Planting projects encourages Derry community groups to apply for trees](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Planting projects encourages Derry community groups to apply for trees")](https://www.derrynow.com/news/local-news/1621968/planting-project-encourages-derry-community-groups-to-apply-for-trees.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+SuperValu and Centra Brand Communications Manager Carol Marshall visits Declan McCann, who planted 275 trees and hedgerows in a nearby smallholding, to provide a haven and shelter for wildlife
 
-[Hanna to tell SDLP faithful ‘nostalgia’ is not a political strategy for future](https://www.derrynow.com/news/northern-ireland/1622186/hanna-to-tell-sdlp-faithful-nostalgia-is-not-a-political-strategy-for-future.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Planting project encourages Derry community groups to apply for trees](https://www.derrynow.com/news/local-news/1621968/planting-project-encourages-derry-community-groups-to-apply-for-trees.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
