@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/10/ILI2.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/species-spotlight-the-mizarian/)
+
+### [Species Spotlight – The Mizarian](https://www.starbase118.net/2024/species-spotlight-the-mizarian/)
+
+skhuss October 7, 2024
+
+Focusing on the IDIC and basic Vulcan philosophy, which celebrates the vast array of variables within the Star Trek universe, join us for a brand
+
+[Read More »](https://www.starbase118.net/2024/species-spotlight-the-mizarian/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-robin-hopper-amity-outpost-northern-star/)
 
 ### [Award winner – Robin Hopper, Amity Outpost (Northern Star)](https://www.starbase118.net/2024/award-winner-robin-hopper-amity-outpost-northern-star/)
@@ -377,18 +389,6 @@ amackenzie October 4, 2024
 With our Fleet Blockbuster now complete, we saw a large increase in overall sim numbers this month 2,634 total posts – averaging 239 per ship.
 
 [Read More »](https://www.starbase118.net/2024/september-2024-post-counts/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/04/pic_s03_sp_hero_landscape-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/poll-of-the-month-starfleets-greatest-villains/)
-
-### [Poll of the Month:  Starfleet’s Greatest Villains](https://www.starbase118.net/2024/poll-of-the-month-starfleets-greatest-villains/)
-
-Genkos Adea October 3, 2024
-
-Now we’re on the other side of the Frontier Day blockbuster (well done to everyone who participated, it was a nail-biter!) we thought we’d throw
-
-[Read More »](https://www.starbase118.net/2024/poll-of-the-month-starfleets-greatest-villains/)
 
 Ready to get started?
 ---------------------
