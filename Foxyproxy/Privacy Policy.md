@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You guys are awesome - that’s why I've been a customer for 8 years!
+Great and prompt service. I'm extremely happy.
 
-Rick Turner
+Dan Rosendorf
