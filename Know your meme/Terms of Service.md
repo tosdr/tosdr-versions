@@ -122,7 +122,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Elon Musk Jumping](https://knowyourmeme.com/memes/elon-musk-jumping "Elon Musk Jumping") [Mojo Jojo Beat Up](https://knowyourmeme.com/memes/mojo-jojo-beat-up-mojo-jojo-jumped "Mojo Jojo Beat Up")
+[Jack Doherty McLaren Crash](https://knowyourmeme.com/memes/events/jack-doherty-mclaren-crash "Jack Doherty McLaren Crash") [Elon Musk Jumping](https://knowyourmeme.com/memes/elon-musk-jumping "Elon Musk Jumping") [Oh, Look! Here Comes the Far Right](https://knowyourmeme.com/memes/oh-look-here-comes-the-far-right "Oh, Look! Here Comes the Far Right") [Elon Musk Kubrick Stare](https://knowyourmeme.com/memes/elon-musk-kubrick-stare "Elon Musk Kubrick Stare") [Mojo Jojo Beat Up](https://knowyourmeme.com/memes/mojo-jojo-beat-up-mojo-jojo-jumped "Mojo Jojo Beat Up")
 
 Terms of Service and Use
 ========================
@@ -263,7 +263,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Word Up! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
