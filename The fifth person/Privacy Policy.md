@@ -1,4 +1,4 @@
-Monday, October 7 2024
+Tuesday, October 8 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
