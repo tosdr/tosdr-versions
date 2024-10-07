@@ -2,7 +2,7 @@
 
 [Save $400 on a 2-Way Audio 12 Ch NVR System with 2TB HD and 8 Wired 4K Cams - $599.99](https://nightowlsp.com/products/8-channel-4k-bluetooth-nvr-with-2tb-hard-drive-and-8-wired-ip-4k-spotlight-cameras-with-2-way-audio-and-audio-alerts-and-sirens)
 
-[Save $70 on a 8+4 Channel 2K Wired DVR with 1TB HD & 4 Spotlight Wired Cams with 2-Way Audio - $279.99](https://nightowlsp.com/products/8-channel-4mp-bluetooth-dvr-with-1tb-hard-drive-and-4-wired-4mp-spotlight-cameras-with-2-way-audio-voice-alerts-and-sirens)
+[Save $130 on a Refurb 8+4 Channel 4K Wired DVR with 1TB HD & 8 Spotlight Wired Cams and 2-Way Audio - $399.99](https://nightowlsp.com/products/refurbished-8-channel-4k-bluetooth-dvr-with-2tb-hard-drive-and-8-wired-4k-spotlight-cameras-with-audio-alerts-and-sirens)
 
      
 
