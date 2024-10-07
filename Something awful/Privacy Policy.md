@@ -205,26 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Awful Vision: "Teh" Russian Muscle!](https://www.somethingawful.com/awfulvision/teh-sheik-balloon/1/)
-* [STRUT THAT ASS STRUT THAT ASS STRU](https://www.somethingawful.com/awfulvision/strut-that-ass/1/)
-* [Burgin'](https://www.somethingawful.com/news/burgin/1/)
-* [Girls on Girls on Pre-Schoolers](https://www.somethingawful.com/icq-pranks/icq-transcript-girls/1/)
-* [WTF Ministries](https://www.somethingawful.com/awful-links/awful-link-1045/)
+* [Tales from the Zoo](https://www.somethingawful.com/comedy-goldmine/tales-from-zoo/1/)
+* [Tarot Card Tango](https://www.somethingawful.com/comedy-goldmine/tarot-card-tango/1/)
+* [NES Knockoffs!](https://www.somethingawful.com/photoshop-phriday/bootleg-nes-knockoff/1/)
+* [Spooky Skeleton GIFs!](https://www.somethingawful.com/comedy-goldmine/spooky-skeleton-gifs/)
+* [Breaking and exiting](https://www.somethingawful.com/news/breaking-and-exiting/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [New Zealand Navy VERSUS Samoan Reef: Battle of the Century](http://forums.somethingawful.com/showthread.php?threadid=4072043 "New Zealand Navy VERSUS Samoan Reef: Battle of the Century")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Awesome stuff we did as kids](http://forums.somethingawful.com/showthread.php?threadid=4072081 "Awesome stuff we did as kids")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Jumpy Elon with the lumpy felon](http://forums.somethingawful.com/showthread.php?threadid=4072021 "Jumpy Elon with the lumpy felon")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [What is the correct music Hz ?](http://forums.somethingawful.com/showthread.php?threadid=4072045 "What is the correct music Hz ?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Awesome stuff we did as kids](http://forums.somethingawful.com/showthread.php?threadid=4072081 "Awesome stuff we did as kids")
 
 ### Random Articles
 
-* [Stuff You Will Hate: Best of '09 Exchange!](https://www.somethingawful.com/garbage-day/stuff-hate-converge/1/)
-* [dodemus.nl](https://www.somethingawful.com/awful-links/awful-link-3423/)
-* [End of Year Awards + The Most Anticipated Games of 2019](https://www.somethingawful.com/video-game-article/anticipated-award-2019/)
-* [Lack of Sex Parties, College Life](https://www.somethingawful.com/news/lack-sex-parties/)
-* [I want my hotel bed to glow.](https://www.somethingawful.com/news/glow-hotel-light/)
+* [My Entire Life Is Structured Upon Arcade Flyer Text](https://www.somethingawful.com/news/arcade-flyer-tenet/)
+* [Things You Should Already Know By Now: Opening a Checking Account](https://www.somethingawful.com/guides/checking-account/1/)
+* [Dog of the Month Club](https://www.somethingawful.com/news/dog-month-club/)
+* [Unreal 2: The Awakening](https://www.somethingawful.com/game-reviews/unreal-awakening/1/)
+* [Neck Brace Art Appreciation Klub](https://www.somethingawful.com/awful-links/awful-link-1565/)
 
 [Random!](https://www.somethingawful.com/random/)
 
