@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/8dc1f37d-9891-43f1-8dd4-fb8a6d8022de/20241001T013516/8dc1f37d-9891-43f1-8dd4-fb8a6d8022de_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8dc1f37d-9891-43f1-8dd4-fb8a6d8022de/20241001T013516/8dc1f37d-9891-43f1-8dd4-fb8a6d8022de_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-striking-machinists-negotiation-set-monday/281-b1dfaca6-8be4-4997-8a3d-ad00e0511372)
+    *  [![](https://media.king5.com/assets/KING/images/1a793b16-2653-446d-b44a-39ea57f52de3/20241007T190513/1a793b16-2653-446d-b44a-39ea57f52de3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1a793b16-2653-446d-b44a-39ea57f52de3/20241007T190513/1a793b16-2653-446d-b44a-39ea57f52de3_360x203.jpg)](https://www.king5.com/article/news/crime/dispute-tacoma-gas-station-shooting/281-097636e9-3c04-476c-baab-98ccf75dfa22)
         
-        #### [Boeing, union of striking machinists to resume negotiations Monday](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-striking-machinists-negotiation-set-monday/281-b1dfaca6-8be4-4997-8a3d-ad00e0511372)
+        #### [Dispute at Tacoma gas station leads to shooting, police say](https://www.king5.com/article/news/crime/dispute-tacoma-gas-station-shooting/281-097636e9-3c04-476c-baab-98ccf75dfa22)
         
-    *  [![](https://media.king5.com/assets/KING/images/608077b0-17f3-41e9-ae4c-e96177400de2/20241007T124632/608077b0-17f3-41e9-ae4c-e96177400de2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/608077b0-17f3-41e9-ae4c-e96177400de2/20241007T124632/608077b0-17f3-41e9-ae4c-e96177400de2_360x203.jpg)](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
+    *  [![](https://media.king5.com/assets/KING/images/fdea1374-aa9b-43d9-aadc-c6bc42d49df1/20240618T165818/fdea1374-aa9b-43d9-aadc-c6bc42d49df1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fdea1374-aa9b-43d9-aadc-c6bc42d49df1/20240618T165818/fdea1374-aa9b-43d9-aadc-c6bc42d49df1_360x203.jpg)](https://www.king5.com/article/life/animals/woodland-park-zoo-expecting-first-orangutan-birth-35-years/281-36e292bb-0c00-42bc-922e-20796c3e867b)
         
-        #### [Thurston County Sheriff Derek Sanders struck by suspected impaired driver in Olympia](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
+        #### [Woodland Park Zoo says first orangutan birth in over three decades will be coming soon](https://www.king5.com/article/life/animals/woodland-park-zoo-expecting-first-orangutan-birth-35-years/281-36e292bb-0c00-42bc-922e-20796c3e867b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5faa70c2-1d37-4a25-a7ba-05c26b12790b/20241007T122212/5faa70c2-1d37-4a25-a7ba-05c26b12790b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5faa70c2-1d37-4a25-a7ba-05c26b12790b/20241007T122212/5faa70c2-1d37-4a25-a7ba-05c26b12790b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/914265e0-db2a-489c-9b30-ef812c8ecfdf/20241007T193105/914265e0-db2a-489c-9b30-ef812c8ecfdf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/914265e0-db2a-489c-9b30-ef812c8ecfdf/20241007T193105/914265e0-db2a-489c-9b30-ef812c8ecfdf_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/CCT/images/a3b1d1d0-7537-4a75-9789-43256d2f56de/20241006T152617/a3b1d1d0-7537-4a75-9789-43256d2f56de_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/a3b1d1d0-7537-4a75-9789-43256d2f56de/20241006T152617/a3b1d1d0-7537-4a75-9789-43256d2f56de_360x203.jpg)](https://www.king5.com/article/news/nation-world/tropical-storm-milton-path/507-e932ea8e-2328-4f50-b3ba-7186c4038422)
+    *  [![](https://media.king5.com/assets/WTSP/images/d17ae064-f447-4441-88e9-e5e4bd6b0965/20241007T174735/d17ae064-f447-4441-88e9-e5e4bd6b0965_16x9.jpg) ![](https://media.king5.com/assets/WTSP/images/d17ae064-f447-4441-88e9-e5e4bd6b0965/20241007T174735/d17ae064-f447-4441-88e9-e5e4bd6b0965_360x203.jpg)](https://www.king5.com/article/weather/hurricane/hurricane-milton-track-forecast-florida-tampa-bay/67-3a12dd26-da3c-4810-992c-cf44d57237f4)
         
-        #### [Hurricane Milton has formed and could grow stronger before hitting Florida midweek](https://www.king5.com/article/news/nation-world/tropical-storm-milton-path/507-e932ea8e-2328-4f50-b3ba-7186c4038422)
+        #### [NHC: Hurricane Milton 'explosively intensifies' as Cat 5 with 175 mph winds](https://www.king5.com/article/weather/hurricane/hurricane-milton-track-forecast-florida-tampa-bay/67-3a12dd26-da3c-4810-992c-cf44d57237f4)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-49°
+69°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
