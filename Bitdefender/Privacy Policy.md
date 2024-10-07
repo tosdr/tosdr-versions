@@ -2,7 +2,7 @@
 
    
 
-[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?quality=85&preferwebp=true)](https://www.bitdefender.com/en-us/)
+[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?preferwebp=true&quality=85)](https://www.bitdefender.com/en-us/)
 
 * [For Consumer](https://www.bitdefender.com/en-us/consumer/)
     
@@ -506,6 +506,7 @@ Choose Your Country
 * [Chile - English](https://www.bitdefender.com/en-cl/)
 * [Chile - Español](https://www.bitdefender.com/es-cl/)
 * [Colombia - Español](https://www.bitdefender.com/es-co/)
+* [Czechia - English](https://www.bitdefender.com/content/bitdefender/cz/en-CZ/)
 * [Denmark - English](https://www.bitdefender.com/en-dk/)
 * [Deutschland - Deutsch](https://www.bitdefender.com/de-de/)
 * [España - Español](https://www.bitdefender.com/es-es/)
@@ -533,6 +534,7 @@ Choose Your Country
 * [Saudi Arabia - English](https://www.bitdefender.com/en-sa/)
 * [Schweiz - Deutsch](https://www.bitdefender.com/de-ch/)
 * [Singapore - English](https://www.bitdefender.com/en-sg/)
+* [Slovakia - English](https://www.bitdefender.com/content/bitdefender/sk/en-SK/)
 * [South Africa - English](https://www.bitdefender.com/en-za/)
 * [South Korea - English](https://www.bitdefender.com/en-kr/)
 * [Sudan - English](https://www.bitdefender.com/en-sd/)
