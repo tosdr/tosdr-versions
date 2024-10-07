@@ -14,99 +14,9 @@
 
 [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
 
-Últimas de Maceió
-
-[Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
-
-   [![Futuros delegados de Alagoas iniciam preparação física com corrida na orla](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/c/csm_futuros-delegados-da-policia-civil-iniciam-preparacao-fisica-com-corrida-na-orla_ce2d110ac5.jpeg)
-
-Maceió
-
-Futuros delegados de Alagoas iniciam preparação física com corrida na orla](https://www.tnh1.com.br/noticia/nid/futuros-delegados-de-alagoas-iniciam-preparacao-fisica-com-corrida-na-orla/ "Futuros delegados de Alagoas iniciam preparação física com corrida na orla")   [![Parque Municipal de Maceió será fechado neste domingo por conta das eleições](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/c/csm_Parque_Municipal_Maceio_a2e9cd5468.png)
-
-Maceió
-
-Parque Municipal de Maceió será fechado neste domingo por conta das eleições](https://www.tnh1.com.br/noticia/nid/parque-municipal-de-maceio-sera-fechado-neste-domingo-por-conta-das-eleicoes/ "Parque Municipal de Maceió será fechado neste domingo por conta das eleições")   [![Domingo de eleição: confira como será o funcionamento dos shoppings de Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/0/csm_maceio_shopping_ascom_b3cf15d39c.png)
-
-programe-se
-
-Domingo de eleição: confira como será o funcionamento dos shoppings de Maceió](https://www.tnh1.com.br/noticia/nid/domingo-de-eleicao-confira-como-sera-o-funcionamento-dos-shoppings-de-maceio/ "Domingo de eleição: confira como será o funcionamento dos shoppings de Maceió ")   [![Vídeo: homem é flagrado arranhando veículos no bairro do Farol](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/1/csm_homem_flagra_arranhao_442bb12863.jpg)
-
-em maceió
-
-Vídeo: homem é flagrado arranhando veículos no bairro do Farol](https://www.tnh1.com.br/noticia/nid/video-homem-e-flagrado-arranhando-veiculos-no-bairro-do-farol/ "Vídeo: homem é flagrado arranhando veículos no bairro do Farol")   [![Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/5/csm_csm_pesquisa_procon_maceio_criancas_assessoria_3f642018ef_0000e70537.jpg)
-
-12 de outubro
-
-Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços](https://www.tnh1.com.br/noticia/nid/procon-maceio-divulga-pesquisa-para-o-dia-das-criancas-confira-os-precos/ "Procon Maceió divulga pesquisa para o Dia das Crianças; confira os preços")   [![Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/4/csm_orla_ponta_verde_dmtt_desvios_-_foto_dmtt_bc67125df3.jpeg)
-
-A partir das 19h
-
-Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios](https://www.tnh1.com.br/noticia/nid/servico-de-recapeamento-fecha-avenida-na-orla-de-ponta-verde-nesta-sexta-04-veja-desvios/ "Serviço de recapeamento fecha avenida na orla de Ponta Verde nesta sexta (04); veja desvios")
-
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
-Últimas de Alagoas
-
-[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
-
-   [![Confira os resultados do Alagoas dá Sorte deste domingo (6)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
-
-Alagoas
-
-Confira os resultados do Alagoas dá Sorte deste domingo (6)](https://www.tnh1.com.br/noticia/nid/confira-os-resultados-do-alagoas-da-sorte-deste-domingo-6-2/ "Confira os resultados do Alagoas dá Sorte deste domingo (6)")   [![Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/9/csm_VAGAS_SINE_2_MARIEL_MATHIAS_ASCOM_SETEQ__1__b46d6c7013.jpeg)
-
-Mercado de Trabalho
-
-Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-divulga-778-vagas-de-emprego-para-maceio-e-mais-tres-municipios-veja-cargos/ "Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos")   [![Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
-
-balneabilidade
-
-Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/vai-a-praia-veja-os-trechos-que-estao-proprios-para-banho-no-litoral-de-alagoas/ "Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas")   [![Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/a/csm_semarh-previsao-Alagoas_f758a332ff.png)
-
-Programe-se
-
-Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas](https://www.tnh1.com.br/noticia/nid/sol-ou-chuva-nas-eleicoes-confira-a-previsao-do-tempo-em-alagoas/ "Sol ou chuva nas eleições? Confira a previsão do tempo em Alagoas")   [![Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/3/csm_sertao_museu_ufal_a45dc1cd2d.png)
-
-Alagoas
-
-Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações](https://www.tnh1.com.br/noticia/nid/semarh-emite-aviso-de-baixa-umidade-para-o-sertao-de-alagoas-veja-orientacoes/ "Semarh emite aviso de baixa umidade para o Sertão de Alagoas; veja orientações ")   [![MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/3/csm_csm_Suspeitos_farda_Bope_tentatica_de_assalto_empresarial_Farol_-_foto_Reproducao_4_b134dc68b3_393dcfe611.jpeg)
-
-investigações
-
-MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió](https://www.tnh1.com.br/noticia/nid/mpe-acompanha-caso-de-criminosos-que-usaram-fardas-falsas-do-bope-durante-tentativa-de-assalto-em-maceio/ "MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentativa de assalto em Maceió ")
-
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-
-Últimas de Polícia
-
-[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
-
-   [![PF divulga balanço das ações realizadas nas eleições municipais em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_sede_da_pf_2cf6c0a899.jpg)
-
-ELEIÇÕES 2024
-
-PF divulga balanço das ações realizadas nas eleições municipais em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-divulga-balanco-das-acoes-realizadas-nas-eleicoes-municipais-em-alagoas/ "PF divulga balanço das ações realizadas nas eleições municipais em Alagoas")   [![Dinheiro apreendido pela PF já é quatro vezes maior que da última eleição ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_policia-federal-dinheiro-vivo-eleicoes-PF_19e9c067f5.jpeg)
-
-R$21 milhões
-
-Dinheiro apreendido pela PF já é quatro vezes maior que da última eleição](https://www.tnh1.com.br/noticia/nid/dinheiro-apreendido-pela-pf-ja-e-quatro-vezes-maior-que-da-ultima-eleicao/ "Dinheiro apreendido pela PF já é quatro vezes maior que da última eleição ")   [![PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_ed79c6d1ab.jpg)
-
-SAIBA QUAIS
-
-PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-ja-registra-ocorrencias-de-crimes-eleitorais-neste-domingo-06-em-alagoas/ "PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas")   [![Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/0/csm_compra_de_votos_campo_alegre_vereador_b0058ec216.jpg)
-
-em flagrante
-
-Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://www.tnh1.com.br/noticia/nid/pai-de-candidato-a-vereador-e-preso-com-r3-mil-na-cueca-comprando-votos/ "Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos")   [![Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/f/csm_csm_csm_Estadio_Rei_Pele_2019_-_Foto_Aldo_Correia_9c436dd8fa_2fdc6e9850_b84c2dddea.jpg)
-
-Mandado em aberto
-
-Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial](https://www.tnh1.com.br/noticia/nid/foragido-e-preso-durante-jogo-no-rei-pele-apos-ser-identificado-pelo-sistema-de-reconhecimento-facial/ "Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ")   [![Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_Latrocinio_Moacyr_Jr__Praia_da_Avenida_-_foto_Reproducao_e94af93fc5.jpg)
-
-latrocínio
-
-Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://www.tnh1.com.br/noticia/nid/apos-um-ano-suspeito-de-matar-fotografo-na-praia-da-avenida-segue-foragido/ "Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,16 +25,6 @@ Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](h
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Reitor do Cesmac recebe título de Doutor Honoris Causa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/e/csm_Reitor_Joao_Sampaio_927cea6c2e.png)
-
-Pessoas & Negócios
-
-Reitor do Cesmac recebe título de Doutor Honoris Causa](https://www.tnh1.com.br/noticia/nid/reitor-do-cesmac-recebe-titulo-de-doutor-honoris-causa/ "Reitor do Cesmac recebe título de Doutor Honoris Causa")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -198,7 +98,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/7/csm_craibas-vista-cima_02398f973c.jpg)
+[![Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_craibas-vista-cima_02398f973c.jpg)
 
 interior de AL
 
@@ -206,7 +106,7 @@ interior de AL
 
 Homem passa mal em fila na porta de local de votação e morre após ser socorrido
 
-Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://www.tnh1.com.br/noticia/nid/homem-passa-mal-em-fila-na-porta-de-local-de-votacao-e-morre-apos-ser-socorrido/ "Homem passa mal em fila na porta de local de votação e morre após ser socorrido")[![Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/0/csm_compra_de_votos_campo_alegre_vereador_5eb4084741.jpg)
+Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://www.tnh1.com.br/noticia/nid/homem-passa-mal-em-fila-na-porta-de-local-de-votacao-e-morre-apos-ser-socorrido/ "Homem passa mal em fila na porta de local de votação e morre após ser socorrido")[![Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/0/csm_compra_de_votos_campo_alegre_vereador_5eb4084741.jpg)
 
 em flagrante
 
@@ -214,15 +114,7 @@ em flagrante
 
 Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos
 
-Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://www.tnh1.com.br/noticia/nid/pai-de-candidato-a-vereador-e-preso-com-r3-mil-na-cueca-comprando-votos/ "Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos")[![PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_f9bd48b31e.jpg)
-
-SAIBA QUAIS
-
-SAIBA QUAIS
-
-PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas
-
-PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-ja-registra-ocorrencias-de-crimes-eleitorais-neste-domingo-06-em-alagoas/ "PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas")[![Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/0/csm_Logotipo_de_Vale_Tudo_69fa42c568.png)
+Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://www.tnh1.com.br/noticia/nid/pai-de-candidato-a-vereador-e-preso-com-r3-mil-na-cueca-comprando-votos/ "Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos")[![Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/0/csm_Logotipo_de_Vale_Tudo_69fa42c568.png)
 
 Televisão
 
@@ -230,41 +122,49 @@ Televisão
 
 Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo
 
-Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-atriz-que-rejeitou-participacao-especial-no-remake-de-vale-tudo/ "Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo")
+Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-atriz-que-rejeitou-participacao-especial-no-remake-de-vale-tudo/ "Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo")[![PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_f9bd48b31e.jpg)
 
-[![Primeiro turno teve 515 prisões por crimes eleitorais, aponta ministério](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/0/csm_crime_eleitoral_foto_Paulo_Pinto-Agencia_Brasil_43b858f286.jpg)
+SAIBA QUAIS
 
-eleições 2024
+SAIBA QUAIS
 
-eleições 2024
+PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas
 
-Primeiro turno teve 515 prisões por crimes eleitorais, aponta ministério
+PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-ja-registra-ocorrencias-de-crimes-eleitorais-neste-domingo-06-em-alagoas/ "PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas")
 
-Primeiro turno teve 515 prisões por crimes eleitorais, aponta ministério](https://www.tnh1.com.br/noticia/nid/primeiro-turno-teve-515-prisoes-por-crimes-eleitorais-aponta-ministerio/ "Primeiro turno teve 515 prisões por crimes eleitorais, aponta ministério")[![PF divulga balanço das ações realizadas nas eleições municipais em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_sede_da_pf_d6bede6b1d.jpg)
+[![Vídeo: motorista perde controle, van sobe no canteiro e bate em árvore na Durval de Góes Monteiro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/2/csm_acidente_van_fbc5514678.jpeg)
 
-ELEIÇÕES 2024
+acidente
 
-ELEIÇÕES 2024
+acidente
 
-PF divulga balanço das ações realizadas nas eleições municipais em Alagoas
+Vídeo: motorista perde controle, van sobe no canteiro e bate em árvore na Durval de Góes Monteiro
 
-PF divulga balanço das ações realizadas nas eleições municipais em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-divulga-balanco-das-acoes-realizadas-nas-eleicoes-municipais-em-alagoas/ "PF divulga balanço das ações realizadas nas eleições municipais em Alagoas")[![Avião decola rumo ao Líbano para nova repatriação de brasileiros](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/c/csm_Aviao_FAB_-_foto_Paulo_Pinto_-_Agencia_Brasil_147ca510c8.jpg)
+Vídeo: motorista perde controle, van sobe no canteiro e bate em árvore na Durval de Góes Monteiro](https://www.tnh1.com.br/noticia/nid/video-motorista-perde-controle-van-sobe-no-canteiro-e-bate-em-arvore-na-durval-de-goes-monteiro/ "Vídeo: motorista perde controle, van sobe no canteiro e bate em árvore na Durval de Góes Monteiro")[![Empresária alagoana que mora na Suíça desembarca em Maceió para lançar livro](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/b/csm_maquiadora_livro_47dddbaa5d.jpeg)
 
-Força Aérea
+maquiadora
 
-Força Aérea
+maquiadora
 
-Avião decola rumo ao Líbano para nova repatriação de brasileiros
+Empresária alagoana que mora na Suíça desembarca em Maceió para lançar livro
 
-Avião decola rumo ao Líbano para nova repatriação de brasileiros](https://www.tnh1.com.br/noticia/nid/aviao-decola-rumo-ao-libano-para-nova-repatriacao-de-brasileiros/ "Avião decola rumo ao Líbano para nova repatriação de brasileiros")[![Filha de médico citado em laudo falso pede inelegibilidade de Marçal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/1/csm_pablo-marcal-_96657ba434.jpg)
+Empresária alagoana que mora na Suíça desembarca em Maceió para lançar livro](https://www.tnh1.com.br/noticia/nid/empresaria-alagoana-que-mora-na-suica-desembarca-em-maceio-para-lancar-livro/ "Empresária alagoana que mora na Suíça desembarca em Maceió para lançar livro")[![Susto: fio da rede elétrica se rompe e cai energizado sobre carro em rua de Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/1/csm_Rua_Dr_Jorge_de_Lima_-_Foto_google_maps_b2b4ac5de2.jpg)
 
-'ato incrédulo'
+No Trapiche
 
-'ato incrédulo'
+No Trapiche
 
-Filha de médico citado em laudo falso pede inelegibilidade de Marçal
+Susto: fio da rede elétrica se rompe e cai energizado sobre carro em rua de Maceió
 
-Filha de médico citado em laudo falso pede inelegibilidade de Marçal](https://www.tnh1.com.br/noticia/nid/filha-de-medico-citado-em-laudo-falso-pede-inelegibilidade-de-marcal/ "Filha de médico citado em laudo falso pede inelegibilidade de Marçal")
+Susto: fio da rede elétrica se rompe e cai energizado sobre carro em rua de Maceió](https://www.tnh1.com.br/noticia/nid/susto-fio-da-rede-eletrica-se-rompe-e-cai-energizado-sobre-carro-em-rua-de-maceio/ "Susto: fio da rede elétrica se rompe e cai energizado sobre carro em rua de Maceió")[![Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/0/csm_ronda_no_bairro_maceio_assessoria_65c35f81ff.jpg)
+
+orla de maceió
+
+orla de maceió
+
+Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante
+
+Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante](https://www.tnh1.com.br/noticia/nid/dois-menores-sao-apreendidos-por-roubo-de-correntes-brincos-e-iphone-perto-da-cadeira-gigante/ "Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
