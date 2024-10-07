@@ -41,11 +41,11 @@ We do not keep your data for any longer than necessary to fulfil the purposes fo
 
 You may ask us whether we process data relating to you, and if so, which data this concerns. In that case, we can provide you with access to the data processed by us that relates to you. If you believe your personal data has been processed incorrectly or incompletely, you may request that we change or supplement the data (rectification).
 
-You can contact us via [info@rightsstatements.org](mailto:info@rightsstatements.org).
+You can contact us via [\[email protected\]](https://rightsstatements.org/cdn-cgi/l/email-protection).
 
 If you have a complaint concerning the processing of your personal data by the RightsStatements.org Consortium or Europeana Foundation, please
 
-1. contact us via [info@rightsstatements.org](mailto:info@rightsstatements.org);
+1. contact us via [\[email protected\]](https://rightsstatements.org/cdn-cgi/l/email-protection);
 2. contact your local Data Protection Authority (DPA).
 
 Using your data
@@ -67,7 +67,7 @@ This privacy policy applies to the use of services provided by the RightsStateme
 Updates
 -------
 
-This page was last updated 4 June 2019. If you have any questions for us or suggestions on how to improve the information on this page, please contact us via [info@rightsstatements.org](mailto:info@rightsstatements.org).
+This page was last updated 4 June 2019. If you have any questions for us or suggestions on how to improve the information on this page, please contact us via [\[email protected\]](https://rightsstatements.org/cdn-cgi/l/email-protection).
 
 RightsStatements.org is an international member based consortium, supported by public funding.
 
