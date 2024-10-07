@@ -62,7 +62,9 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/Awards-2024-global-green-beauty-silver.png?crop=center&height=85&v=1725096491&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-[![multi-vitamin-+-antioxidants-potent-pm-serum](https://www.100percentpure.com/cdn/shop/files/1FMVPPMS_Multi-Vitamin_And_Antioxidants_Potent_PM_Serum_Primary_239x254.jpg?v=1713543184)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
+[25% off
+
+![multi-vitamin-+-antioxidants-potent-pm-serum](https://www.100percentpure.com/cdn/shop/files/1FMVPPMS_Multi-Vitamin_And_Antioxidants_Potent_PM_Serum_Primary_239x254.jpg?v=1713543184)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
 ![ 1FMVPPMS_Primary](//www.100percentpure.com/cdn/shop/files/1FMVPPMS_Multi-Vitamin_And_Antioxidants_Potent_PM_Serum_Primary_220x.jpg?v=1713543184)
 
@@ -70,9 +72,9 @@ ADD TO TOTE
 
 95 reviews (95)
 
-$72.00
+$54.00 $72.00
 
-1 oz - $72
+1 oz - $54
 
 ADD TO TOTE
 
@@ -118,7 +120,9 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[![collagen-boost-sheet-mask](https://www.100percentpure.com/cdn/shop/files/1FSMDDCBB5_Collagen_Boost_Sheet_Mask_Five_Pack_Primary_239x254.jpg?v=1709747336)](https://www.100percentpure.com/products/sheet-mask-collagen-boost-masks)
+[20% off
+
+![collagen-boost-sheet-mask](https://www.100percentpure.com/cdn/shop/files/1FSMDDCBB5_Collagen_Boost_Sheet_Mask_Five_Pack_Primary_239x254.jpg?v=1709747336)](https://www.100percentpure.com/products/sheet-mask-collagen-boost-masks)
 
 ![ Collagen Boost Sheet Mask](//www.100percentpure.com/cdn/shop/files/1FSMDDCBB5_Collagen_Boost_Sheet_Mask_Five_Pack_Primary_220x.jpg?v=1709747336)
 
@@ -126,9 +130,11 @@ CHOOSE Size
 
 39 reviews (39)
 
-$7.00 $28.00
+$5.60 $28.00
 
-Single - $7 5 Pack - $28
+Single - $5.60 5 Pack - $28
+
+Sale
 
 Single
 
@@ -138,7 +144,9 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[![deep-hydration-sheet-mask](https://www.100percentpure.com/cdn/shop/products/1FSMDDHB5_Deep_Hydration_Sheet_Mask_5_Pack_Primary_fab1681c-0b2b-4c15-b55e-e15b73e95821_239x254.jpg?v=1695863950)](https://www.100percentpure.com/products/sheet-mask-deep-hydration-masks)
+[20% off
+
+![deep-hydration-sheet-mask](https://www.100percentpure.com/cdn/shop/products/1FSMDDHB5_Deep_Hydration_Sheet_Mask_5_Pack_Primary_fab1681c-0b2b-4c15-b55e-e15b73e95821_239x254.jpg?v=1695863950)](https://www.100percentpure.com/products/sheet-mask-deep-hydration-masks)
 
 ![ 1FSMDDHB5_primary](//www.100percentpure.com/cdn/shop/products/1FSMDDHB5_Deep_Hydration_Sheet_Mask_5_Pack_Primary_fab1681c-0b2b-4c15-b55e-e15b73e95821_220x.jpg?v=1695863950)
 
@@ -146,9 +154,9 @@ CHOOSE Size
 
 374 reviews (374)
 
-$7.00
+$5.60 $7.00
 
-Single - $7
+Single - $5.60
 
 ADD TO TOTE
 
@@ -188,7 +196,9 @@ Default Title - $25
 
 ADD TO TOTE
 
-[![does-it-all-sheet-mask](https://www.100percentpure.com/cdn/shop/products/1FSMDIAMB5_Sheet_Does_It_All_Sheet_Mask_5_Pack_Primary_d66833ce-2cfa-4856-b51c-ffec085b5001_239x254.jpg?v=1695863929)](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
+[20% off
+
+![does-it-all-sheet-mask](https://www.100percentpure.com/cdn/shop/products/1FSMDIAMB5_Sheet_Does_It_All_Sheet_Mask_5_Pack_Primary_d66833ce-2cfa-4856-b51c-ffec085b5001_239x254.jpg?v=1695863929)](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
 
 ![ 1FSMDIAMB5_Primary](//www.100percentpure.com/cdn/shop/products/1FSMDIAMB5_Sheet_Does_It_All_Sheet_Mask_5_Pack_Primary_d66833ce-2cfa-4856-b51c-ffec085b5001_220x.jpg?v=1695863929)
 
@@ -196,11 +206,13 @@ ADD TO TOTE
 
 366 reviews (366)
 
-$7.00 $32.00
+$5.60 $32.00
 
-Single - $7 5 Pack - $32
+Single - $5.60 5 Pack - $32
 
 5 Pack
+
+Sale
 
 Single
 
@@ -208,7 +220,9 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[![acai-pulp-facial-scrub](https://www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_239x254.jpg?v=1655916708)](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
+[20% off
+
+![acai-pulp-facial-scrub](https://www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_239x254.jpg?v=1655916708)](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
 ![ parent_primary](//www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_220x.jpg?v=1655916708)
 
@@ -216,15 +230,17 @@ CHOOSE Size
 
 842 reviews (842)
 
-$38.00
+$30.40 $38.00
 
-Default Title - $38
+Default Title - $30.40
 
 ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-[![multi-vitamin-+-antioxidants-pm-facial-oil](https://www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_239x254.jpg?v=1696527574)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
+[25% off
+
+![multi-vitamin-+-antioxidants-pm-facial-oil](https://www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_239x254.jpg?v=1696527574)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
 ![ parent_primary](//www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_220x.jpg?v=1696527574)
 
@@ -232,9 +248,9 @@ ADD TO TOTE
 
 196 reviews (196)
 
-$58.00
+$43.50 $58.00
 
-Default Title - $58
+Default Title - $43.50
 
 ADD TO TOTE
 
@@ -348,7 +364,9 @@ ADD TO TOTE
 
 CHOOSE Color
 
-[![mattifying-primer](https://www.100percentpure.com/cdn/shop/products/1CMP_Mattifying_Primer_Primary_299c45bd-cfb0-4691-b4bf-78b7d7e1434c_239x254.jpg?v=1627034480)](https://www.100percentpure.com/products/mattifying-primer)
+[25% off
+
+![mattifying-primer](https://www.100percentpure.com/cdn/shop/products/1CMP_Mattifying_Primer_Primary_299c45bd-cfb0-4691-b4bf-78b7d7e1434c_239x254.jpg?v=1627034480)](https://www.100percentpure.com/products/mattifying-primer)
 
 ![ Mattifying Primer](//www.100percentpure.com/cdn/shop/products/1CMP_Mattifying_Primer_Primary_299c45bd-cfb0-4691-b4bf-78b7d7e1434c_220x.jpg?v=1627034480)
 
@@ -356,13 +374,15 @@ CHOOSE Color
 
 1127 reviews (1127)
 
-$45.00
+$33.75 $45.00
 
-Default Title - $45
+Default Title - $33.75
 
 ADD TO TOTE
 
-[![green-tea-egcg-concentrate-cream](https://www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_239x254.webp?v=1725380733)](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
+[25% off
+
+![green-tea-egcg-concentrate-cream](https://www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_239x254.webp?v=1725380733)](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
 
 ![ Green Tea EGCG Concentrate Cream](//www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_220x.webp?v=1725380733)
 
@@ -370,9 +390,9 @@ ADD TO TOTE
 
 637 reviews (637)
 
-$48.00
+$36.00 $48.00
 
-Default Title - $48
+Default Title - $36
 
 ADD TO TOTE
 
@@ -422,7 +442,9 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/vitamin-c-serum)
 
-[![vitamin-c-serum](https://www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_239x254.jpg?v=1695399627)](https://www.100percentpure.com/products/vitamin-c-serum)
+[25% off
+
+![vitamin-c-serum](https://www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_239x254.jpg?v=1695399627)](https://www.100percentpure.com/products/vitamin-c-serum)
 
 ![ 1FMVCS_Primary](//www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_220x.jpg?v=1695399627)
 
@@ -430,9 +452,9 @@ ADD TO TOTE
 
 1419 reviews (1419)
 
-$58.00
+$43.50 $58.00
 
-Default Title - $58
+Default Title - $43.50
 
 ADD TO TOTE
 
@@ -490,7 +512,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[LASTDAY! TRIPLE POINTS WEEKEND 3X The Points On All Orders](https://www.100percentpure.com/collections/shop-all "https://www.100percentpure.com/collections/shop-all")
+[Fall Into Savings! Up to 50% OFF Selected Items](https://www.100percentpure.com/collections/fall-into-savings "Fall Into Savings! Up to 50% OFF Selected Items")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
