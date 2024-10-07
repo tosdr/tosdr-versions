@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![Fark25 Party](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want to see behind the curtain? Try
+Want the rest of the Farking story? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Atlanta Police Investigator of the Year will not win the award again this year](https://www.fark.com/goto/13418690) ( [lawandcrime.com](https://www.fark.com/goto/13418690) ) » [(2 comments)](https://www.fark.com/comments/13418690/Atlanta-Police-Investigator-of-Year-will-not-win-award-again-this-year) |
-| [Discussion](https://www.fark.com/discussion/) | [These teachers have taught three different generations and can tell you the difference between each of them. Now pay attention](https://www.fark.com/goto/13418558) ( [msn.com](https://www.fark.com/goto/13418558) ) » [(9 comments)](https://www.fark.com/comments/13418558/These-teachers-have-taught-three-different-generations-can-tell-you-difference-between-each-of-them-Now-pay-attention) |
-| [Sports](https://www.fark.com/sports/) | [Sunday Night Football brings us two of the most popular NFL teams, the Cowboys and the Steelers in Pittsburgh. Can Dak and Dallas have a big day in the air? Or will the Steelers have the big night? Kickoff at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13417982) ( [espn.com](https://www.fark.com/goto/13417982) ) » [(937 comments)](https://www.fark.com/comments/13417982/Sunday-Night-Football-brings-us-two-of-most-popular-NFL-teams-Cowboys-the-Steelers-in-Pittsburgh-Can-Dak-Dallas-have-a-big-day-in-air-Or-will-Steelers-have-big-night-Kickoff-at-820-PM-ET-on-NBCPeacock) |
-| [Business](https://www.fark.com/business/) | [Socialists won't take the piss out of his bumper bonus, says Wizz Air boss](https://www.fark.com/goto/13418618) ( [cityam.com](https://www.fark.com/goto/13418618) ) » [(1 comment)](https://www.fark.com/comments/13418618/Socialists-wont-take-piss-out-of-his-bumper-bonus-says-Wizz-Air-boss) |
-| [STEM](https://www.fark.com/stem/) | [Ancient telepaths? More likely than you think according to a University of Netflix archeologist. Walter Koenig and Patricia Tallman surrender](https://www.fark.com/goto/13418556) ( [theguardian.com](https://www.fark.com/goto/13418556) ) » [(8 comments)](https://www.fark.com/comments/13418556/Ancient-telepaths-More-likely-than-you-think-according-to-a-University-of-Netflix-archeologist-Walter-Koenig-Patricia-Tallman-surrender) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Want to see a solar eclipse? here's your plan for the next 10 years](https://www.fark.com/goto/13418474) ( [space.com](https://www.fark.com/goto/13418474) ) » [(22 comments)](https://www.fark.com/comments/13418474/Want-to-see-a-solar-eclipse-heres-your-plan-for-next-10-years) |
-| [Fandom](https://www.fark.com/fandom/) | [It'll never be in your garage, but boy is it beautiful](https://www.fark.com/goto/13418448) ( [jalopnik.com](https://www.fark.com/goto/13418448) ) » [(46 comments)](https://www.fark.com/comments/13418448/Itll-never-be-in-your-garage-but-boy-is-it-beautiful) |
-| [D'awww](https://www.fark.com/dawww/) | [Nobody likes being out in the rain](https://www.fark.com/goto/13418548) ( [nextshark.com](https://www.fark.com/goto/13418548) ) » [(3 comments)](https://www.fark.com/comments/13418548/Nobody-likes-being-out-in-rain) |
-| [Food](https://www.fark.com/food/) | [The martini, oft maligned as an overly boozy relic of a vanished America, either too rotgut or too sophisticated for proper consumption, made cartoonish by James Bond, and more cartoonish by prefixes such as apple- and chocolat-, is still number one](https://www.fark.com/goto/13418518) ( [esquire.com](https://www.fark.com/goto/13418518) ) » [(33 comments)](https://www.fark.com/comments/13418518/The-martini-oft-maligned-as-an-overly-boozy-relic-of-a-vanished-America-either-too-rotgut-too-sophisticated-for-proper-consumption-made-cartoonish-by-James-Bond-more-cartoonish-by-prefixes-such-as-apple-chocolat-is-still-number-one) |
-| [Politics](https://www.fark.com/politics/) | [On a good day, TCG speaks at a 4th grade level, whereas the usual politician aims for 8th grades. At least he's not talking down to his supporters](https://www.fark.com/goto/13418608) ( [mediaite.com](https://www.fark.com/goto/13418608) ) » [(11 comments)](https://www.fark.com/comments/13418608/On-a-good-day-TCG-speaks-at-a-4th-grade-level-whereas-usual-politician-aims-for-8th-grades-At-least-hes-not-talking-down-to-his-supporters) |
+| [Main](https://www.fark.com/) | [Photoshop this bakery service counter](https://www.fark.com/goto/13415904) ( [contemporist.com](https://www.fark.com/goto/13415904) ) » [(8 comments)](https://www.fark.com/comments/13415904/Photoshop-this-bakery-service-counter) |
+| [Discussion](https://www.fark.com/discussion/) | [It's your Fark Monday Movie/TV Rewind, a thread to discuss what you've been watching. 409 movies in IMDb claim to be "psychological horror"; LGT the highest-rated one you've heard of. Post your favorites to the right](https://www.fark.com/goto/13418718) ( [en.wikipedia.org](https://www.fark.com/goto/13418718) ) » [(1 comment)](https://www.fark.com/comments/13418718/Its-your-Fark-Monday-MovieTV-Rewind-a-thread-to-discuss-what-youve-been-watching-409-movies-in-IMDb-claim-to-be-psychological-horror-LGT-highest-rated-one-youve-heard-of-Post-your-favorites-to-right) |
+| [Sports](https://www.fark.com/sports/) | [NASCAR has its biggest crash in history](https://www.fark.com/goto/13418832) ( [roadandtrack.com](https://www.fark.com/goto/13418832) ) » [(7 comments)](https://www.fark.com/comments/13418832/NASCAR-has-its-biggest-crash-in-history) |
+| [Business](https://www.fark.com/business/) | [American Water Works admits to unauthorized data flow](https://www.fark.com/goto/13418930) ( [msn.com](https://www.fark.com/goto/13418930) ) » [(0 comments)](https://www.fark.com/comments/13418930/American-Water-Works-admits-to-unauthorized-data-flow) |
+| [STEM](https://www.fark.com/stem/) | [New jet reaches 3,600 mph, can still be delayed because someone packed too much shampoo](https://www.fark.com/goto/13418898) ( [metro.co.uk](https://www.fark.com/goto/13418898) ) » [(1 comment)](https://www.fark.com/comments/13418898/New-jet-reaches-3600-mph-can-still-be-delayed-because-someone-packed-too-much-shampoo) |
+| [Entertainment](https://www.fark.com/entertainment/) | ['I can't do gore and I'm not a gamer': Ella Purnell on the fallout from being an unlikely scream queen](https://www.fark.com/goto/13418944) ( [theguardian.com](https://www.fark.com/goto/13418944) ) » [(5 comments)](https://www.fark.com/comments/13418944/I-cant-do-gore-Im-not-a-gamer-Ella-Purnell-on-fallout-from-being-an-unlikely-scream-queen) |
+| [Fandom](https://www.fark.com/fandom/) | ['I can't do gore and I'm not a gamer': Ella Purnell on the fallout from being an unlikely scream queen](https://www.fark.com/goto/13418944) ( [theguardian.com](https://www.fark.com/goto/13418944) ) » [(5 comments)](https://www.fark.com/comments/13418944/I-cant-do-gore-Im-not-a-gamer-Ella-Purnell-on-fallout-from-being-an-unlikely-scream-queen) |
+| [D'awww](https://www.fark.com/dawww/) | [Nobody likes being out in the rain](https://www.fark.com/goto/13418548) ( [nextshark.com](https://www.fark.com/goto/13418548) ) » [(6 comments)](https://www.fark.com/comments/13418548/Nobody-likes-being-out-in-rain) |
+| [Food](https://www.fark.com/food/) | [If you're ever looking for an article that perfectly encapsulates what's meant by the term "First World Problems," here you go](https://www.fark.com/goto/13418932) ( [cnn.com](https://www.fark.com/goto/13418932) ) » [(1 comment)](https://www.fark.com/comments/13418932/If-youre-ever-looking-for-an-article-that-perfectly-encapsulates-whats-meant-by-term-First-World-Problems-here-you-go) |
+| [Politics](https://www.fark.com/politics/) | [The picture memes alone are worth the read. You will be saving them to your computer](https://www.fark.com/goto/13418812) ( [yahoo.com](https://www.fark.com/goto/13418812) ) » [(10 comments)](https://www.fark.com/comments/13418812/The-picture-memes-alone-are-worth-read-You-will-be-saving-them-to-your-computer) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 07 2024 03:43:26  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 07 2024 09:42:51  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
