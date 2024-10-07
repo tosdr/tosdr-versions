@@ -131,6 +131,8 @@ If you wish to use the service, you must agree to these terms. If you do not agr
 
 [Bug Bounty](https://www.teamup.com/bug-bounty/)
 
+TABLE OF CONTENTS
+
 * [Terms of Service](#terms-of-service "Terms of Service")
     * * [1\. Provision of the Service by Teamup](#1-provision-of-the-service-by-teamup "1. Provision of the Service by Teamup")
         * [2\. Your Use of the Service](#2-your-use-of-the-service "2. Your Use of the Service")
