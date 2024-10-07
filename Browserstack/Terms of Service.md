@@ -22,6 +22,10 @@ Manual Testing
 
 Cross-browser testing](https://www.browserstack.com/live "Live")
 
+[Bug Capture
+
+Report & resolve bugs faster](https://www.browserstack.com/bug-capture "Bug Capture")
+
 [Accessibility Testing
 
 Test WCAG compliance](https://www.browserstack.com/accessibility-testing "Accessibility Testing")
@@ -443,6 +447,7 @@ Products
 * [Accessibility Automation](https://www.browserstack.com/accessibility-testing/features/automated-tests)
 * [App Accessibility Testing](https://www.browserstack.com/app-accessibility-testing)
 * [Low Code Automation](https://www.browserstack.com/low-code-automation)
+* [Bug Capture](https://www.browserstack.com/bug-capture)
 * [Nightwatch.js](https://nightwatchjs.org/)
 * [Enterprise](https://www.browserstack.com/enterprise?ref=footer)
 
