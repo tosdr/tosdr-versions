@@ -55,29 +55,7 @@ Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlaso
 
 Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-santa-cruz)
 
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
-
-   [![](https://img.atlasobscura.com/jGO8Z95CkZ9t3s36qFAdlIjIUSmyJNkUSPAdEjCs-x0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yYjcx/MjhhNS01ZWNkLTQ5/OGEtOWU5Zi1hZmEx/OGMxNzA2N2VhMWE0/YjNhNjZkODQ0NTYz/YjlfYmV0aC1qbnIt/YmdGSjhfUUJzMGst/dW5zcGxhc2guanBn.jpg)
-
-Mindful Foraging: Ethical Wildcrafting & Nature Journaling With Vanessa Chakour](https://www.atlasobscura.com/experiences/ethical-foraging-wildcrafting-course)
-
-   [![](https://img.atlasobscura.com/PphIsMY6kFPUrMlyHCOlsqf35AYxwM6NF5sLKhzKWY0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kZWM3/OWU0NS1mZGIxLTQ3/YjMtYjZhMS1hNGIy/ZDMxODRkOTE2ZWI3/ZTc3ZTBkN2I0ZmFm/MmZfY2hhbmRyYW1v/dWxpLWJha3VsYXBh/bGx5LTk4ZFlvS1BK/ZWF3LXVuc3BsYXNo/LmpwZw.jpg)
-
-How The Living See The Dead: Comparative Thanatology With Dânia Rodrigues](https://www.atlasobscura.com/experiences/thanatology-course)
-
-   [![](https://img.atlasobscura.com/zDVZQG8l3TPgxxxU1HykxpTYS64XJ57JFnQOIwF0EJ8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8xNWUw/Y2U3Zi0zZDVlLTQ2/MWMtODZmNS0yYzQz/Y2QxMDdkNmMyMTlh/OWIwMjdkYzdlYzk3/ZTRfNTEyODQzNzE4/ODRfN2UwNDVmYzM4/OF9oLmpwZw.jpg)
-
-Spirits, Saints, and Souls: The Secret History of Halloween With Lisa Morton](https://www.atlasobscura.com/experiences/history-halloween-course)
-
-   [![](https://img.atlasobscura.com/OwIn0KnazjTJtGnYMAnBrTLm0NBj64M9cqc-B3GU8n4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy84MDc4/MDk2NC1hMTFiLTRl/MDUtYWJhYS00ZThh/OTliMDQ5ODczY2U4/YWUwNTFkNDQ5OWU4/ZWVfbWljaGFsLWIt/YnZTd0Z4eXJmd2ct/dW5zcGxhc2guanBn.jpg)
-
-Seas The Day: Life Lessons from Cephalopods With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/cephalopods-online-course)
-
-   [![](https://img.atlasobscura.com/Gl1jaOr-Woxnan5jPvCu8YzPs-W8beVKxg-SEihHjpc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81MDQx/ZmQ2YS00OGUwLTQ3/YWUtOTMwOS1jOTdh/ZDg1YjdmYTg2NzY4/YWU1ZjVkZTg1MzEz/YWJfSW5zaWRlIGEg/cGhhcmFvaOKAmXMg/dG9tYi5qcGc.jpg)
-
-Decoding the Afterlife: Ancient Egyptian Tombstones With Dr. Nicky Nielsen](https://www.atlasobscura.com/experiences/ancient-egyptian-tombstones-course)
+Loading...
 
 Top Destinations
 
@@ -147,7 +125,29 @@ Kalkugnarna](https://www.atlasobscura.com/places/kalkugnarna)
 
 Tuinplaas - Tiny Town](https://www.atlasobscura.com/places/tuinplaas-tiny-town)
 
-Loading...
+Latest Places to Eat & Drink
+
+[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
+
+   [![Mill machinery is on display.](https://img.atlasobscura.com/cp4n4FsDbzv4W8MOFYF520tNHzuxyO3nL28KuKaFAIo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hZTI3/MDNkOC1lMjNlLTRh/ZDMtYTM0MS0xMGJm/OTM1NTk1YmVjZWUy/ZDhlNGQ3NDljYjE1/Y2JfSU1HXzA5NDEu/anBn.jpg)
+
+Mühlerama Museum](https://www.atlasobscura.com/places/muhlerama-museum)
+
+   [![Adam Campbell taps into his 20 years of experience to harvest the popular oysters at North Haven Oyster Co.](https://img.atlasobscura.com/PRXENq_mf9OUYkCwMmchTaaq1FPfB1wipzqbomKvg3M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iMDBm/ZDJiZTQ0MjhiMzYz/MmJfMTE4MTcwNjFf/ODYzOTg0NTQwMzAz/MzY3XzMxNDExMzY3/NjAzODY3NjA3NDdf/bi5qcGc.jpg)
+
+North Haven Oyster Co.](https://www.atlasobscura.com/places/north-haven-oyster-co)
+
+   [![Raye’s Mustard is a mainstay in the easternmost city in the U.S.](https://img.atlasobscura.com/TOCEo4x9JZ7ICilG_E-eGgnTahSBMG0SFpTiVxFj8K8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80MzBi/OGJmYWE2MmNiYjU3/YmNfSEFEMUhQLmpw/Zw.jpg)
+
+Raye’s Mustard Mill Museum](https://www.atlasobscura.com/places/rayes-mustard-mill-museum)
+
+   [![A sign welcomes diners to the restaurant.](https://img.atlasobscura.com/GJHRPT_vX3OVP8tGAR-vApRqruwzg574km-YrRKOHJU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81OWRi/ZDdlNC1mMmE1LTQ5/OGQtOWNmOC03ODg0/NWY2OGUyYTNjNTM1/YzQ4ZjlmYmEwY2Iy/NDRfaW1hZ2UgKDEw/KS5qcGc.jpg)
+
+Guluf Airline Restaurant & Hotel](https://www.atlasobscura.com/places/guluf-airline-restaurant-hotel)
+
+   [![The sushi memorial at Namiyoke Shrine remembers the spirits of the seafood that made your lunch.](https://img.atlasobscura.com/jxfRj0Wnbf3GhWM-MbKK33Gs6g35RUXZ5adSLKuInXk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mOTcx/YTU4Mi1iMjdlLTRh/OTUtOGE5Mi01YjIy/ZmJlODM1Njg3NjM0/NjliMThmMjI3ZWFm/MTdfRFNDXzAxNTcu/anBlZw.jpg)
+
+Sushi Memorials at Namiyoke Shrine](https://www.atlasobscura.com/places/sushi-memorials-at-namiyoke-shrine)
 
 Recent Stories
 
