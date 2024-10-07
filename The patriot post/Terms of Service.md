@@ -191,7 +191,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110839-psalm-40-2-2024-10-06)
+     [](https://patriotpost.us/memes/110838-policies-over-feelings-2024-10-07)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -224,7 +224,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
