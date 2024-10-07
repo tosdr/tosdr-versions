@@ -118,7 +118,6 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
-* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -450,29 +449,29 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![The Sims 4: Lovestruck Expansion Pack PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_sims_4_lovestruck.jpg)   No 1. \-41%
+1.    [![DRAGON BALL: Sparking! ZERO Ultimate Edition PC (North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/z/e/zero_ultimate_edition_2.jpg)   No 1. \-21%
     
-    DLC](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app)
+    Pre-order](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-ultimate-edition-pc-steam-na)
     
-    **[The Sims 4: Lovestruck Expansion Pack PC/Mac](https://www.cdkeys.com/pc/the-sims-4-lovestruck-pack-pc-dlc-ea-app "The Sims 4: Lovestruck Expansion Pack PC/Mac")**
+    **[DRAGON BALL: Sparking! ZERO Ultimate Edition PC (North America)](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-ultimate-edition-pc-steam-na "DRAGON BALL: Sparking! ZERO Ultimate Edition PC (North America)")**
     
-    Special Price $26.59 RRP $45.19
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![No Man's Sky PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoftteams-image_27_.jpg)   No 2. \-65%](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key)
-    
-    **[No Man's Sky PC](https://www.cdkeys.com/pc/no-mans-sky-pc-steam-cd-key "No Man's Sky PC")**
-    
-    Special Price $18.59 RRP $53.19
+    Special Price $99.69 RRP $126.29
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![The Forever Winter PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_forever_winter.png)   No 3. \-40%](https://www.cdkeys.com/pc/the-forever-winter-pc-steam)
+2.    [![Remnant II - Ultimate Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-12t144722.601_1_1_1_1.jpg)   No 2. \-58%](https://www.cdkeys.com/pc/remnant-ii-ultimate-edition-pc-steam)
+    
+    **[Remnant II - Ultimate Edition PC](https://www.cdkeys.com/pc/remnant-ii-ultimate-edition-pc-steam "Remnant II - Ultimate Edition PC")**
+    
+    Special Price $25.29 RRP $59.79
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+3.    [![The Forever Winter PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_forever_winter.png)   No 3. \-36%](https://www.cdkeys.com/pc/the-forever-winter-pc-steam)
     
     **[The Forever Winter PC](https://www.cdkeys.com/pc/the-forever-winter-pc-steam "The Forever Winter PC")**
     
@@ -482,33 +481,57 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-4.    [![The Sims 4 Life and Death PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims_4_life_and_death.jpg)   No 4. \-30%
+4.    [![Diablo IV: Vessel of Hatred - Standard Edition + Pre-Order Bonus Xbox (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/d/i/diablo_iv_vessel_of_hatred_-_standard_edition_1_1.jpg)   No 4. \-23%
+    
+    Pre-order DLC](https://www.cdkeys.com/xbox-live/diablo-iv-vessel-of-hatred-standard-edition-xbox-eu)
+    
+    **[Diablo IV: Vessel of Hatred - Standard Edition + Pre-Order Bonus Xbox (Europe & UK)](https://www.cdkeys.com/xbox-live/diablo-iv-vessel-of-hatred-standard-edition-xbox-eu "Diablo IV: Vessel of Hatred - Standard Edition + Pre-Order Bonus Xbox (Europe & UK)")**
+    
+    Special Price $35.19 RRP $45.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![Homeworld 3 + Pre-Order Bonus PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-12-06t124039.262.jpg)   No 5. \-60%](https://www.cdkeys.com/pc/homeworld-3-pc-steam)
+    
+    **[Homeworld 3 + Pre-Order Bonus PC](https://www.cdkeys.com/pc/homeworld-3-pc-steam "Homeworld 3 + Pre-Order Bonus PC")**
+    
+    Special Price $26.59 RRP $66.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![Destiny 2: The Final Shape PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/4/14161265.jpg)   No 6. \-50%
+    
+    DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam)
+    
+    **[Destiny 2: The Final Shape PC - DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam "Destiny 2: The Final Shape PC - DLC")**
+    
+    Special Price $27.89 RRP $55.89
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![Destiny 2 - Legacy Collection PC (2024)](https://cdn.cdkeys.com/245x340/media/catalog/product/d/e/destiny_2_legacy_collection_2024_.jpg)   No 7. \-74%](https://www.cdkeys.com/pc/destiny-2-legacy-collection-pc-2024-steam)
+    
+    **[Destiny 2 - Legacy Collection PC (2024)](https://www.cdkeys.com/pc/destiny-2-legacy-collection-pc-2024-steam "Destiny 2 - Legacy Collection PC (2024)")**
+    
+    Special Price $17.29 RRP $66.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![The Sims 4 Life and Death PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims_4_life_and_death.jpg)   No 8. \-30%
     
     Pre-order DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app)
     
     **[The Sims 4 Life and Death PC - DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app "The Sims 4 Life and Death PC - DLC")**
     
     Special Price $30.59 RRP $43.89
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-5.    [![Warhammer 40,000: Space Marine 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/6/9/69654.jpg)   No 5. \-30%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam)
-    
-    **[Warhammer 40,000: Space Marine 2 PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-pc-steam "Warhammer 40,000: Space Marine 2 PC")**
-    
-    Special Price $50.99 RRP $73.09
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![Borderlands 3 (Steam) (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/b/o/borderlands-3-pc-buy-now-cd-key_2_1.jpg)   No 6. \-92%](https://www.cdkeys.com/pc/borderlands-3-pc-ww-steam)
-    
-    **[Borderlands 3 (Steam) (WW)](https://www.cdkeys.com/pc/borderlands-3-pc-ww-steam "Borderlands 3 (Steam) (WW)")**
-    
-    Special Price $5.19 RRP $66.49
     
     [Add to Wish List](# "Add to Wish List")
     
