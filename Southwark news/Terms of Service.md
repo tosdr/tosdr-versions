@@ -1,4 +1,4 @@
-                         
+                          
 
 * [View Digital Editions](https://issuu.com/communitymattersmedia)
 * [Newsletter Sign Up](https://southwarknews.co.uk/newsletter/)
@@ -18,6 +18,10 @@
     * [Opinion](https://southwarknews.co.uk/category/news/opinion/)
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
+    
+    [![Women featured in a video released by King's College Hospital urging women to attend screenings. Credit: KCH](https://southwarknews.co.uk/wp-content/uploads/2024/10/Women-featured-in-a-video-released-by-Kings-College-Hospital-urging-women-to-attend-screenings.-Credit-KCH-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
+    
+    ### [South London women urged to get breast screenings](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
     
     [![Murderers: Maria Manning and Frederick Manning](https://southwarknews.co.uk/wp-content/uploads/2024/10/Murderers-Maria-Manning-and-Frederick-Manning-360x180.png)](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
     
@@ -52,10 +56,6 @@
     [![Erene Goodsir](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-03-10-2024-at-14.54-360x180.jpg)](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
     
     ### [Woman quits smoking in time for her 80th birthday](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
-    
-    [![James Allen's Girls' School. Credit: JAGS](https://southwarknews.co.uk/wp-content/uploads/2024/08/James-Allens-Girls-School-360x180.png)](https://southwarknews.co.uk/area/dulwich/dulwich-girls-school-praised-for-supporting-social-mobility/)
-    
-    ### [Dulwich girls’ school praised for ‘supporting social mobility’](https://southwarknews.co.uk/area/dulwich/dulwich-girls-school-praised-for-supporting-social-mobility/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -101,6 +101,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Women featured in a video released by King's College Hospital urging women to attend screenings. Credit: KCH](https://southwarknews.co.uk/wp-content/uploads/2024/10/Women-featured-in-a-video-released-by-Kings-College-Hospital-urging-women-to-attend-screenings.-Credit-KCH-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
+    
+    ### [South London women urged to get breast screenings](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
+    
     [![Murderers: Maria Manning and Frederick Manning](https://southwarknews.co.uk/wp-content/uploads/2024/10/Murderers-Maria-Manning-and-Frederick-Manning-360x180.png)](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
     
     ### [The Rise of Scotland Yard: How the Manning case shaped detective history, new book reveals](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
@@ -134,10 +138,6 @@ View All Result
     [![Erene Goodsir](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-03-10-2024-at-14.54-360x180.jpg)](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
     
     ### [Woman quits smoking in time for her 80th birthday](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
-    
-    [![James Allen's Girls' School. Credit: JAGS](https://southwarknews.co.uk/wp-content/uploads/2024/08/James-Allens-Girls-School-360x180.png)](https://southwarknews.co.uk/area/dulwich/dulwich-girls-school-praised-for-supporting-social-mobility/)
-    
-    ### [Dulwich girls’ school praised for ‘supporting social mobility’](https://southwarknews.co.uk/area/dulwich/dulwich-girls-school-praised-for-supporting-social-mobility/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -230,11 +230,11 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [1st October 2024](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
 
-[![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+[![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
 
-### [Printworks nightclub comeback a ‘fantastic boost’ for South London](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
 
-[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+[4th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
 
 ### Featured Articles
 
