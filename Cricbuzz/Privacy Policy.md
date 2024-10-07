@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[GAW vs SLK - Ings Break](https://www.cricbuzz.com/live-cricket-scores/92964/gaw-vs-slk-final-caribbean-premier-league-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Final - Ings Break")[BAN vs IND - IND Won](https://www.cricbuzz.com/live-cricket-scores/100238/ban-vs-ind-1st-t20i-bangladesh-tour-of-india-2024 "Bangladesh v India, 1st T20I - IND Won")[SCOW vs WIW - WIW Won](https://www.cricbuzz.com/live-cricket-scores/94595/scow-vs-wiw-8th-match-group-b-icc-womens-t20-world-cup-2024 "Scotland Women v West Indies Women, 8th Match, Group B - WIW Won")[PAKW vs INDW - INDW Won](https://www.cricbuzz.com/live-cricket-scores/94586/pakw-vs-indw-7th-match-group-a-icc-womens-t20-world-cup-2024 "Pakistan Women v India Women, 7th Match, Group A - INDW Won")[PAK vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[PAK vs ENG - Lunch](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Lunch")[GAW vs SLK - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92964/gaw-vs-slk-final-caribbean-premier-league-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Final - SLK Won")[BAN vs IND - IND Won](https://www.cricbuzz.com/live-cricket-scores/100238/ban-vs-ind-1st-t20i-bangladesh-tour-of-india-2024 "Bangladesh v India, 1st T20I - IND Won")[PAKW vs INDW - INDW Won](https://www.cricbuzz.com/live-cricket-scores/94586/pakw-vs-indw-7th-match-group-a-icc-womens-t20-world-cup-2024 "Pakistan Women v India Women, 7th Match, Group A - INDW Won")[IRE vs RSA - Preview](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 3rd ODI - Preview")
 
 AllLive NowToday
 
@@ -68,17 +68,13 @@ AllLive NowToday
     
 * Pakistan v England, 2024
     
-    [Pakistan vs England](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-pakistan-v-england-2024 "Pakistan v England, 1st Test - Preview")
+    [Pakistan vs England](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-pakistan-v-england-2024 "Pakistan v England, 1st Test - Lunch")
     
     1st Test
     
 * ICC Mens East Asia-Pacific T20WCQB
     
-    [Philippines vs South Korea](https://www.cricbuzz.com/live-cricket-scores/102826/phi-vs-skr-11th-match-icc-mens-east-asia-pacific-t20wcqb "Philippines v South Korea, 11th Match - PHI Won")
-    
-    11th Match
-    
-* [Japan vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/102817/jpn-vs-idn-12th-match-icc-mens-east-asia-pacific-t20wcqb "Japan v Indonesia, 12th Match - JPN Won")
+    [Japan vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/102817/jpn-vs-idn-12th-match-icc-mens-east-asia-pacific-t20wcqb "Japan v Indonesia, 12th Match - JPN Won")
     
     12th Match
     
@@ -92,27 +88,23 @@ AllLive NowToday
     
     CPL 2024
     
-    [Barbados Royals vs Guyana Amazon Warriors](https://www.cricbuzz.com/live-cricket-scores/92959/br-vs-gaw-qualifier-2-cpl-2024 "Barbados Royals v Guyana Amazon Warriors, Qualifier 2 - GAW Won")
-    
-    Qualifier 2
-    
-* [Guyana Amazon Warriors vs Saint Lucia Kings](https://www.cricbuzz.com/live-cricket-scores/92964/gaw-vs-slk-final-cpl-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Final - Ings Break")
+    [Guyana Amazon Warriors vs Saint Lucia Kings](https://www.cricbuzz.com/live-cricket-scores/92964/gaw-vs-slk-final-cpl-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Final - SLK Won")
     
     Final
     
 * CSA T20 Challenge
     
-    [North West vs Boland](https://www.cricbuzz.com/live-cricket-scores/103467/nwest-vs-bol-12th-match-csa-t20-challenge "North West v Boland, 12th Match - NWEST Won")
-    
-    12th Match
-    
-* [Lions vs Dolphins](https://www.cricbuzz.com/live-cricket-scores/103456/lions-vs-dol-10th-match-csa-t20-challenge "Lions v Dolphins, 10th Match - LIONS Won")
+    [Lions vs Dolphins](https://www.cricbuzz.com/live-cricket-scores/103456/lions-vs-dol-10th-match-csa-t20-challenge "Lions v Dolphins, 10th Match - LIONS Won")
     
     10th Match
     
 * [Knights vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103447/kng-vs-war-9th-match-csa-t20-challenge "Knights v Warriors, 9th Match - KNG Won")
     
     9th Match
+    
+* [North West vs Boland](https://www.cricbuzz.com/live-cricket-scores/103467/nwest-vs-bol-12th-match-csa-t20-challenge "North West v Boland, 12th Match - NWEST Won")
+    
+    12th Match
     
 * [Titans vs Western Province](https://www.cricbuzz.com/live-cricket-scores/103458/tit-vs-wpr-11th-match-csa-t20-challenge "Titans v Western Province, 11th Match - WPR Won")
     
@@ -160,7 +152,7 @@ AllLive NowToday
     
 * Australia Under 19 tour of India
     
-    [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106452/indu19-vs-ausu19-2nd-youth-test-australia-under-19-tour-of-india "India U19 v Australia U19, 2nd Youth Test - Preview")
+    [India U19 vs Australia U19  LIVE](https://www.cricbuzz.com/live-cricket-scores/106452/indu19-vs-ausu19-2nd-youth-test-australia-under-19-tour-of-india "India U19 v Australia U19, 2nd Youth Test - Live")
     
     2nd Youth Test
     
@@ -218,11 +210,7 @@ AllLive NowToday
     
 * Japan Women v Singapore Women
     
-    [Japan Women vs Singapore Women](https://www.cricbuzz.com/live-cricket-scores/107755/jpnw-vs-sinw-4th-t20i-japan-women-v-singapore-women "Japan Women v Singapore Women, 4th T20I - JPNW Won")
-    
-    4th T20I
-    
-* [Japan Women vs Singapore Women](https://www.cricbuzz.com/live-cricket-scores/107761/jpnw-vs-sinw-5th-t20i-japan-women-v-singapore-women "Japan Women v Singapore Women, 5th T20I - JPNW Won")
+    [Japan Women vs Singapore Women](https://www.cricbuzz.com/live-cricket-scores/107761/jpnw-vs-sinw-5th-t20i-japan-women-v-singapore-women "Japan Women v Singapore Women, 5th T20I - JPNW Won")
     
     5th T20I
     
@@ -239,6 +227,10 @@ AllLive NowToday
 * [South Korea Women vs Mongolia Women](https://www.cricbuzz.com/live-cricket-scores/108363/skrw-vs-mglw-3rd-match-womens-east-asia-cup-2024 "South Korea Women v Mongolia Women, 3rd Match - Upcoming")
     
     3rd Match
+    
+* [China Women vs Hong Kong Women](https://www.cricbuzz.com/live-cricket-scores/108371/chnw-vs-hkw-4th-match-womens-east-asia-cup-2024 "China Women v Hong Kong Women, 4th Match - Upcoming")
+    
+    4th Match
     
 
 Privacy Policy
@@ -547,41 +539,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131901/post-railways-arundhati-reddy-on-a-new-track-for-a-longer-return-journey "Reddy on a new track for a longer return journey")
+
+[Reddy on a new track for a longer return journey](https://www.cricbuzz.com/cricket-news/131901/post-railways-arundhati-reddy-on-a-new-track-for-a-longer-return-journey "Reddy on a new track for a longer return journey")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131900/jones-chase-power-kings-to-maiden-cpl-title "Jones, Chase power Kings to maiden CPL title")
+
+[Jones, Chase power Kings to maiden CPL title](https://www.cricbuzz.com/cricket-news/131900/jones-chase-power-kings-to-maiden-cpl-title "Jones, Chase power Kings to maiden CPL title")
+
+3h ago
+
   [](https://www.cricbuzz.com/cricket-news/131899/our-batters-dont-know-how-to-score-180-runs-najmul-hossain-shanto "Our batters don't know how to score 180 runs - Najmul Hossain Shanto")
 
 [Our batters don't know how to score 180 runs - Najmul Hossain Shanto](https://www.cricbuzz.com/cricket-news/131899/our-batters-dont-know-how-to-score-180-runs-najmul-hossain-shanto "Our batters don't know how to score 180 runs - Najmul Hossain Shanto")
 
-1m ago
+5h ago
 
   [](https://www.cricbuzz.com/cricket-news/131898/overspin-and-opportunity-varun-chakaravarthys-road-to-redemption "Overspin and opportunity: Varun Chakaravarthy's road to redemption")
 
 [Overspin and opportunity: Varun Chakaravarthy's road to redemption](https://www.cricbuzz.com/cricket-news/131898/overspin-and-opportunity-varun-chakaravarthys-road-to-redemption "Overspin and opportunity: Varun Chakaravarthy's road to redemption")
 
-36m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/131897/west-indies-decimate-scotland-to-open-world-cup-account "West Indies decimate Scotland to open World Cup account")
 
 [West Indies decimate Scotland to open World Cup account](https://www.cricbuzz.com/cricket-news/131897/west-indies-decimate-scotland-to-open-world-cup-account "West Indies decimate Scotland to open World Cup account")
 
-7h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/131896/india-school-bangladesh-to-go-up-1-0 "India school Bangladesh to go up 1-0")
 
 [India school Bangladesh to go up 1-0](https://www.cricbuzz.com/cricket-news/131896/india-school-bangladesh-to-go-up-1-0 "India school Bangladesh to go up 1-0")
 
-8h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131895/arundhati-reddy-shreyanka-patil-star-as-india-get-off-the-mark "Arundhati Reddy, Shreyanka Patil star as India get off the mark")
-
-[Arundhati Reddy, Shreyanka Patil star as India get off the mark](https://www.cricbuzz.com/cricket-news/131895/arundhati-reddy-shreyanka-patil-star-as-india-get-off-the-mark "Arundhati Reddy, Shreyanka Patil star as India get off the mark")
-
-11h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131894/shan-masood-wants-pakistan-to-draw-inspiration-from-2022-england-series "Shan Masood wants Pakistan to draw inspiration from 2022 England series")
-
-[Shan Masood wants Pakistan to draw inspiration from 2022 England series](https://www.cricbuzz.com/cricket-news/131894/shan-masood-wants-pakistan-to-draw-inspiration-from-2022-england-series "Shan Masood wants Pakistan to draw inspiration from 2022 England series")
-
-13h ago
+14h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
