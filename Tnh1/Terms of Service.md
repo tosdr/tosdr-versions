@@ -82,31 +82,31 @@ MPE acompanha caso de criminosos que usaram fardas falsas do Bope durante tentat
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Dinheiro apreendido pela PF já é quatro vezes maior que da última eleição ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/6/csm_policia-federal-dinheiro-vivo-eleicoes-PF_19e9c067f5.jpeg)
+   [![PF divulga balanço das ações realizadas nas eleições municipais em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_sede_da_pf_2cf6c0a899.jpg)
+
+ELEIÇÕES 2024
+
+PF divulga balanço das ações realizadas nas eleições municipais em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-divulga-balanco-das-acoes-realizadas-nas-eleicoes-municipais-em-alagoas/ "PF divulga balanço das ações realizadas nas eleições municipais em Alagoas")   [![Dinheiro apreendido pela PF já é quatro vezes maior que da última eleição ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_policia-federal-dinheiro-vivo-eleicoes-PF_19e9c067f5.jpeg)
 
 R$21 milhões
 
-Dinheiro apreendido pela PF já é quatro vezes maior que da última eleição](https://www.tnh1.com.br/noticia/nid/dinheiro-apreendido-pela-pf-ja-e-quatro-vezes-maior-que-da-ultima-eleicao/ "Dinheiro apreendido pela PF já é quatro vezes maior que da última eleição ")   [![PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_ed79c6d1ab.jpg)
+Dinheiro apreendido pela PF já é quatro vezes maior que da última eleição](https://www.tnh1.com.br/noticia/nid/dinheiro-apreendido-pela-pf-ja-e-quatro-vezes-maior-que-da-ultima-eleicao/ "Dinheiro apreendido pela PF já é quatro vezes maior que da última eleição ")   [![PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_ed79c6d1ab.jpg)
 
 SAIBA QUAIS
 
-PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-ja-registra-ocorrencias-de-crimes-eleitorais-neste-domingo-06-em-alagoas/ "PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas")   [![Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/0/csm_compra_de_votos_campo_alegre_vereador_b0058ec216.jpg)
+PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-ja-registra-ocorrencias-de-crimes-eleitorais-neste-domingo-06-em-alagoas/ "PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas")   [![Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/0/csm_compra_de_votos_campo_alegre_vereador_b0058ec216.jpg)
 
 em flagrante
 
-Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://www.tnh1.com.br/noticia/nid/pai-de-candidato-a-vereador-e-preso-com-r3-mil-na-cueca-comprando-votos/ "Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos")   [![Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/f/csm_csm_csm_Estadio_Rei_Pele_2019_-_Foto_Aldo_Correia_9c436dd8fa_2fdc6e9850_b84c2dddea.jpg)
+Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://www.tnh1.com.br/noticia/nid/pai-de-candidato-a-vereador-e-preso-com-r3-mil-na-cueca-comprando-votos/ "Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos")   [![Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/f/csm_csm_csm_Estadio_Rei_Pele_2019_-_Foto_Aldo_Correia_9c436dd8fa_2fdc6e9850_b84c2dddea.jpg)
 
 Mandado em aberto
 
-Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial](https://www.tnh1.com.br/noticia/nid/foragido-e-preso-durante-jogo-no-rei-pele-apos-ser-identificado-pelo-sistema-de-reconhecimento-facial/ "Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ")   [![Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/c/csm_Latrocinio_Moacyr_Jr__Praia_da_Avenida_-_foto_Reproducao_e94af93fc5.jpg)
+Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial](https://www.tnh1.com.br/noticia/nid/foragido-e-preso-durante-jogo-no-rei-pele-apos-ser-identificado-pelo-sistema-de-reconhecimento-facial/ "Foragido é preso durante jogo no Rei Pelé após ser identificado pelo sistema de reconhecimento facial  ")   [![Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_Latrocinio_Moacyr_Jr__Praia_da_Avenida_-_foto_Reproducao_e94af93fc5.jpg)
 
 latrocínio
 
-Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://www.tnh1.com.br/noticia/nid/apos-um-ano-suspeito-de-matar-fotografo-na-praia-da-avenida-segue-foragido/ "Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido")   [![Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/1/csm_sede_delegacia_geral_jacarecica_ascom_pc_2abbeb1832.jpg)
-
-24 horas
-
-Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas](https://www.tnh1.com.br/noticia/nid/eleicoes-2024-policia-civil-deflagra-plano-operacional-neste-sabado-5-em-alagoas/ "Eleições 2024: Polícia Civil deflagra plano operacional neste sábado (5) em Alagoas")
+Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido](https://www.tnh1.com.br/noticia/nid/apos-um-ano-suspeito-de-matar-fotografo-na-praia-da-avenida-segue-foragido/ "Após um ano, suspeito de matar fotógrafo na Praia da Avenida segue foragido")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -206,15 +206,7 @@ Brasil
 
 Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados
 
-Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados](https://www.tnh1.com.br/noticia/nid/cid-moreira-deserdou-filhos-e-patrimonio-seria-de-r-60-milhoes-dizem-advogados/ "Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados")[![Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/6/csm_filhos-harry-meghan-foto-divulgacao_c8f56bcc27.jpg)
-
-Crise?
-
-Crise?
-
-Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal
-
-Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal](https://www.tnh1.com.br/noticia/nid/harry-passou-a-noite-de-seu-aniversario-de-40-anos-longe-de-meghan-markle-caminhando-com-amigos-revela-jornal/ "Harry passou a noite de seu aniversário de 40 anos longe de Meghan Markle caminhando com amigos, revela jornal")[![Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/4/csm_acidente_feitosa_336e85f8da.png)
+Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados](https://www.tnh1.com.br/noticia/nid/cid-moreira-deserdou-filhos-e-patrimonio-seria-de-r-60-milhoes-dizem-advogados/ "Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados")[![Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/4/csm_acidente_feitosa_336e85f8da.png)
 
 Trânsito
 
@@ -222,7 +214,7 @@ Trânsito
 
 Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário
 
-Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário](https://www.tnh1.com.br/noticia/nid/onibus-desgovernado-sobra-na-pista-e-derruba-poste-proximo-ao-terminal-rodoviario/ "Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ")[![Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/7/csm_craibas-vista-cima_02398f973c.jpg)
+Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário](https://www.tnh1.com.br/noticia/nid/onibus-desgovernado-sobra-na-pista-e-derruba-poste-proximo-ao-terminal-rodoviario/ "Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ")[![Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_craibas-vista-cima_02398f973c.jpg)
 
 interior de AL
 
@@ -230,9 +222,33 @@ interior de AL
 
 Homem passa mal em fila na porta de local de votação e morre após ser socorrido
 
-Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://www.tnh1.com.br/noticia/nid/homem-passa-mal-em-fila-na-porta-de-local-de-votacao-e-morre-apos-ser-socorrido/ "Homem passa mal em fila na porta de local de votação e morre após ser socorrido")
+Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://www.tnh1.com.br/noticia/nid/homem-passa-mal-em-fila-na-porta-de-local-de-votacao-e-morre-apos-ser-socorrido/ "Homem passa mal em fila na porta de local de votação e morre após ser socorrido")[![Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/0/csm_compra_de_votos_campo_alegre_vereador_5eb4084741.jpg)
 
-[![Avião decola rumo ao Líbano para nova repatriação de brasileiros](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_Aviao_FAB_-_foto_Paulo_Pinto_-_Agencia_Brasil_147ca510c8.jpg)
+em flagrante
+
+em flagrante
+
+Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos
+
+Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://www.tnh1.com.br/noticia/nid/pai-de-candidato-a-vereador-e-preso-com-r3-mil-na-cueca-comprando-votos/ "Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos")
+
+[![Primeiro turno teve 515 prisões por crimes eleitorais, aponta ministério](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/0/csm_crime_eleitoral_foto_Paulo_Pinto-Agencia_Brasil_43b858f286.jpg)
+
+eleições 2024
+
+eleições 2024
+
+Primeiro turno teve 515 prisões por crimes eleitorais, aponta ministério
+
+Primeiro turno teve 515 prisões por crimes eleitorais, aponta ministério](https://www.tnh1.com.br/noticia/nid/primeiro-turno-teve-515-prisoes-por-crimes-eleitorais-aponta-ministerio/ "Primeiro turno teve 515 prisões por crimes eleitorais, aponta ministério")[![PF divulga balanço das ações realizadas nas eleições municipais em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/4/csm_sede_da_pf_d6bede6b1d.jpg)
+
+ELEIÇÕES 2024
+
+ELEIÇÕES 2024
+
+PF divulga balanço das ações realizadas nas eleições municipais em Alagoas
+
+PF divulga balanço das ações realizadas nas eleições municipais em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-divulga-balanco-das-acoes-realizadas-nas-eleicoes-municipais-em-alagoas/ "PF divulga balanço das ações realizadas nas eleições municipais em Alagoas")[![Avião decola rumo ao Líbano para nova repatriação de brasileiros](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/c/csm_Aviao_FAB_-_foto_Paulo_Pinto_-_Agencia_Brasil_147ca510c8.jpg)
 
 Força Aérea
 
@@ -240,7 +256,7 @@ Força Aérea
 
 Avião decola rumo ao Líbano para nova repatriação de brasileiros
 
-Avião decola rumo ao Líbano para nova repatriação de brasileiros](https://www.tnh1.com.br/noticia/nid/aviao-decola-rumo-ao-libano-para-nova-repatriacao-de-brasileiros/ "Avião decola rumo ao Líbano para nova repatriação de brasileiros")[![Filha de médico citado em laudo falso pede inelegibilidade de Marçal](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/1/csm_pablo-marcal-_96657ba434.jpg)
+Avião decola rumo ao Líbano para nova repatriação de brasileiros](https://www.tnh1.com.br/noticia/nid/aviao-decola-rumo-ao-libano-para-nova-repatriacao-de-brasileiros/ "Avião decola rumo ao Líbano para nova repatriação de brasileiros")[![Filha de médico citado em laudo falso pede inelegibilidade de Marçal](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/1/csm_pablo-marcal-_96657ba434.jpg)
 
 'ato incrédulo'
 
@@ -248,23 +264,7 @@ Avião decola rumo ao Líbano para nova repatriação de brasileiros](https://ww
 
 Filha de médico citado em laudo falso pede inelegibilidade de Marçal
 
-Filha de médico citado em laudo falso pede inelegibilidade de Marçal](https://www.tnh1.com.br/noticia/nid/filha-de-medico-citado-em-laudo-falso-pede-inelegibilidade-de-marcal/ "Filha de médico citado em laudo falso pede inelegibilidade de Marçal")[![Bebê de 19 dias se engasga em seção eleitoral de SP e é salvo por PMs](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/4/csm_PM_SP_-_foto_Divulgacao_6e8c6fb5f9.jpeg)
-
-Capão Redondo
-
-Capão Redondo
-
-Bebê de 19 dias se engasga em seção eleitoral de SP e é salvo por PMs
-
-Bebê de 19 dias se engasga em seção eleitoral de SP e é salvo por PMs](https://www.tnh1.com.br/noticia/nid/bebe-de-19-dias-se-engasga-em-secao-eleitoral-de-sp-e-e-salvo-por-pms/ "Bebê de 19 dias se engasga em seção eleitoral de SP e é salvo por PMs")[![Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/0/csm_Logotipo_de_Vale_Tudo_69fa42c568.png)
-
-Televisão
-
-Televisão
-
-Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo
-
-Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-atriz-que-rejeitou-participacao-especial-no-remake-de-vale-tudo/ "Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo")
+Filha de médico citado em laudo falso pede inelegibilidade de Marçal](https://www.tnh1.com.br/noticia/nid/filha-de-medico-citado-em-laudo-falso-pede-inelegibilidade-de-marcal/ "Filha de médico citado em laudo falso pede inelegibilidade de Marçal")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
