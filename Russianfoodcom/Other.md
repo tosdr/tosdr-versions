@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_8.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
+* [Пицца из сырного теста, с колбасой, маринованными огурцами и оливками](https://www.russianfood.com/recipes/recipe.php?rid=174233)
 * [Хлеб домашний](https://www.russianfood.com/recipes/recipe.php?rid=36375)
 * [Копчёная свинина способ 16](https://www.russianfood.com/recipes/recipe.php?rid=85361)
 * [Капуста квашеная](https://www.russianfood.com/recipes/recipe.php?rid=87459)
-* [Пасхальный барашек](https://www.russianfood.com/recipes/recipe.php?rid=98912)
-* [Пасхальные кролики](https://www.russianfood.com/recipes/recipe.php?rid=98915)
 * [Хлебная закваска](https://www.russianfood.com/recipes/recipe.php?rid=100343)
-* [Ржаной хлеб в капустном листе](https://www.russianfood.com/recipes/recipe.php?rid=100354)
-* [Деревенский каравай](https://www.russianfood.com/recipes/recipe.php?rid=100371)
-* [Квас " Мятный "](https://www.russianfood.com/recipes/recipe.php?rid=101125)
-* [Квас белый](https://www.russianfood.com/recipes/recipe.php?rid=101209)
+* [Хлеб белый бездрожжевой, на закваске](https://www.russianfood.com/recipes/recipe.php?rid=123371)
+* [Домашнее ржаное печенье](https://www.russianfood.com/recipes/recipe.php?rid=147773)
+* [Пшенично-ржаной хлеб с мёдом](https://www.russianfood.com/recipes/recipe.php?rid=157372)
+* [Пшенично-ржаные галеты со сливами и грецкими орехами](https://www.russianfood.com/recipes/recipe.php?rid=158028)
+* [Открытый дрожжевой пирог с капустным "суфле"](https://www.russianfood.com/recipes/recipe.php?rid=161117)
 
 |     |
 | --- |
@@ -179,6 +179,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Подзарядись с аппетитом! Лучшие рецепты ЗАКУСОК (37)](https://www.russianfood.com/reading/?post_id=22697) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/515/sm_514741.jpg)](https://www.russianfood.com/reading/?post_id=22697)
+
+Домашний чизбургер. Цаца. Сырно-творожные гриссини. Салат с грибами и перцем по-корейски. Куриные кармашки с ананасами и перцем.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22697)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22697#comments) | 07.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -376,20 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173271#comments) | 03.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Рисуем обед яркими красками.) Лучшие СУПЫ №24-40](https://www.russianfood.com/reading/?post_id=22679) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/736/sm_735139.jpg)](https://www.russianfood.com/reading/?post_id=22679)
-
-Постный суп с перловкой, фасолью и грибами. Куриный суп с брокколи и яичной паутинкой. Суп c беконом, капустой и горошком. Сливочный суп с цветной капустой и брокколи. Крем-суп из батата с имбирём. Элеш с говядиной. Тыквенный суп с цветной капустой и плавленым сыром.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22679)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22679#comments) | 03.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(112)
+(222)
