@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/4f4982c0-482c-44f3-a041-ccd2066098c8/20241006T233013/4f4982c0-482c-44f3-a041-ccd2066098c8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4f4982c0-482c-44f3-a041-ccd2066098c8/20241006T233013/4f4982c0-482c-44f3-a041-ccd2066098c8_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b6bfe842-b8d9-4a81-aff5-d9b0acf13159/20241007T121713/b6bfe842-b8d9-4a81-aff5-d9b0acf13159_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b6bfe842-b8d9-4a81-aff5-d9b0acf13159/20241007T121713/b6bfe842-b8d9-4a81-aff5-d9b0acf13159_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Seasonal fall weather to start the week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Cooler start to the week as dry stretch continues](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/a3b1d1d0-7537-4a75-9789-43256d2f56de/20241006T152617/a3b1d1d0-7537-4a75-9789-43256d2f56de_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/a3b1d1d0-7537-4a75-9789-43256d2f56de/20241006T152617/a3b1d1d0-7537-4a75-9789-43256d2f56de_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-storm-milton-path/507-e932ea8e-2328-4f50-b3ba-7186c4038422)
+    *  [![](https://media.tegna-media.com/assets/WOI/images/e3d7f77d-54cb-4932-b64f-e4b89927a732/20241006T180510/e3d7f77d-54cb-4932-b64f-e4b89927a732_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/e3d7f77d-54cb-4932-b64f-e4b89927a732/20241006T180510/e3d7f77d-54cb-4932-b64f-e4b89927a732_360x203.jpg)](https://www.wqad.com/article/news/regional/hurricane-helene-donations-supplies-victims-iowa-high-schooler-flying-delivers-pilot-waukee-northwest-high-school-plane-donations/524-e336e5d4-80ec-408b-a5c5-03ef7a584f30)
         
-        #### [Hurricane Milton has formed and could grow stronger before hitting Florida midweek](https://www.wqad.com/article/news/nation-world/tropical-storm-milton-path/507-e932ea8e-2328-4f50-b3ba-7186c4038422)
+        #### [18-year-old Iowan collects donations to fly to Hurricane Helene victims](https://www.wqad.com/article/news/regional/hurricane-helene-donations-supplies-victims-iowa-high-schooler-flying-delivers-pilot-waukee-northwest-high-school-plane-donations/524-e336e5d4-80ec-408b-a5c5-03ef7a584f30)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-42°
+62°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
