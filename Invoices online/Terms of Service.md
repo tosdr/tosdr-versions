@@ -204,50 +204,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=85269523)  
-Konsortium Operations ( Roamfree Meats )
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=172654871)  
+SMART GUY PCS (PTY) LTD
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=11190856)  
-SafeTclip
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=212926391)  
+CBR Verwe/Paints
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=62367243)  
-Abandoned Vehicle and Truck Solutions
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=154906438)  
+WIP Digital Solutions
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=192367080)  
-TIGERDSL
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=11791108)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=150598539)  
-Konsortium Operations (PTY) LTD
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=151873971)  
+Westside Car Audio CC
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=198645181)  
-Van Der Merwe Olieverspreiders
+![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=61680825)  
+NILBET (PTY) LTD - Once Off's
 
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=187857227)  
-VA AND M DEBT-AID (PTY) LTD
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=82371241)  
+Little Nutty Professors
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=186221237)  
-African Roots
-
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=29683752)  
-ELLIE'S CLEANING CHICKS
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=153718201)  
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=148968067)  
 Digifax (Pty) Ltd trading as Digirent
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=27301829)  
-Camp 4 Africa (Pty) Ltd
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=3415989)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=2710667)  
-Testpro Laboratory (Pty) Ltd
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=198074498)  
+BD Maintenance
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=35637966)  
-Goju Ryu Karate Centre
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=100040804)  
+Lizzy Pop PTY(Ltd)
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=179616240)  
-High Point Marketing CC t/a Leads For Africa
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=84392239)  
+SafeTclip
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=9b23fe77c176f3da21168a6d70634dbdec710fd7c78e9152a945760fb079ff18&c=63784214)  
-Druce Digital
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=204528009)  
+BEE SURE CONSULTING (PTY) LTD
+
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=194571436)  
+Kaylas Creations
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=3cc83ef6cff883a068c5f608eba64b9c22931edce534a2e011cc853ce7f30b40&c=11801912)  
+OptaServ
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
