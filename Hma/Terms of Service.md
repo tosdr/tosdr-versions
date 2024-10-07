@@ -101,7 +101,7 @@ This page (together with the documents referred to on it) tells you the terms of
 
 #### Information about us
 
-**hidemyass.com** is a site operated by Privax Limited. Privax is a limited company registered in England under company number 07207304 and its registered office is located at 110 High Holborn, London, WC1V 6JS, UK.
+**hidemyass.com** is a site operated by NortonLifeLock Ireland Ltd. NortonLifeLock Ireland is a limited company registered in Ireland under company number 9493315 and its registered office is located at 100 New Bridge Street, London EC4V 6JA.
 
 #### Accessing our site
 
@@ -220,11 +220,11 @@ Europe (English) [Sign in to my account](https://my.hidemyass.com/)
 
 ### Download our mobile apps
 
-[![Google Play Badge](https://static2.hidemyass.com/10003944/web/i/badge/google-play/google-play-en.png)](https://play.google.com/store/apps/details?id=com.hidemyass.hidemyassprovpn&referrer=utm_source%3Dhma_com%26utm_medium%3Dweb-footer%26utm_campaign%3Dhma_web-footer) [![Apple Store Badge](https://static2.hidemyass.com/10003944/web/i/badge/app-store/app-store-badge-en.svg)](https://apps.apple.com/app/apple-store/id675102189?pt=1835281&ct=HMA_com%20Web_Footer&mt=8)
+[![Google Play Badge](https://static2.hidemyass.com/10003945/web/i/badge/google-play/google-play-en.png)](https://play.google.com/store/apps/details?id=com.hidemyass.hidemyassprovpn&referrer=utm_source%3Dhma_com%26utm_medium%3Dweb-footer%26utm_campaign%3Dhma_web-footer) [![Apple Store Badge](https://static2.hidemyass.com/10003945/web/i/badge/app-store/app-store-badge-en.svg)](https://apps.apple.com/app/apple-store/id675102189?pt=1835281&ct=HMA_com%20Web_Footer&mt=8)
 
 * * *
 
-[Modern Slavery Statement](https://static2.hidemyass.com/10003944/web/o/docs/legal/Avast-Modern-Slavery-Statement-2022.pdf) | [Accessibility Policy](https://www.hidemyass.com/legal/accessibility-policy) | [Do not sell my info](https://www.hidemyass.com/do-not-sell) | | Copyright © 2005—2024 HMA. All Rights Reserved
+[Modern Slavery Statement](https://static2.hidemyass.com/10003945/web/o/docs/legal/Avast-Modern-Slavery-Statement-2022.pdf) | [Accessibility Policy](https://www.hidemyass.com/legal/accessibility-policy) | [Do not sell my info](https://www.hidemyass.com/do-not-sell) | | Copyright © 2005—2024 HMA. All Rights Reserved
 
 [](https://www.facebook.com/HideMyAssCom)[](https://twitter.com/HideMyAss)[](https://www.youtube.com/c/hidemyass)
 
