@@ -27,7 +27,7 @@ Search
         * [Legal](https://www.floridadisaster.org/dem/directors-office/legal/)
             * [Emergency Orders](https://www.floridadisaster.org/dem/directors-office/legal/emergency-orders/)
             * [Open Government](https://www.floridadisaster.org/dem/directors-office/legal/open-government/)
-            * [2023-2024 FDEM Regulatory Plan](https://www.floridadisaster.org/dem/directors-office/legal/2023-2024-fdem-regulatory-plan/)
+            * [2024-2025 FDEM Regulatory Plan](https://www.floridadisaster.org/dem/directors-office/legal/2023-2024-fdem-regulatory-plan/)
             * [Florida Disaster Legal Aid Helpline](https://www.floridadisaster.org/dem/directors-office/legal/florida-disaster-legal-aid-helpline/)
         * [Military Liaison](https://www.floridadisaster.org/dem/directors-office/military-liaison/)
         * [Regional Coordinators](https://www.floridadisaster.org/dem/directors-office/regions/)
