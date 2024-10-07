@@ -107,65 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Albert Braam](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1315727.jpg)](https://lyricstranslate.com/en/translator/albert-braam "Albert Braam")
+[![Parelmoer](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1483002-1611507450.jpg)](https://lyricstranslate.com/en/translator/parelmoer "Parelmoer")
 
 New translation
 
-[Coldplay - Jupiter](https://lyricstranslate.com/en/coldplay-jupiter-dutch)
+[Ákos Fodor - Ifjúság](https://lyricstranslate.com/en/akos-fodor-ifjusag-dutch)
 
-English → Dutch
+Hungarian → Dutch
 
-[![tn1gm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1539455-1653774677.png)](https://lyricstranslate.com/en/translator/tn1gm "tn1gm")
-
-New song
-
-[My Little Pony: A New Generation (OST) - 밝게 빛나 \[Glowin' Up\]](https://lyricstranslate.com/en/my-little-pony-new-gen-balg-ge-bichna-lyrics)
-
-Korean
-
-[![ежиквтумане](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1174292-1685294567.jpg)](https://lyricstranslate.com/en/translator/%D0%B5%D0%B6%D0%B8%D0%BA%D0%B2%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%B5 "ежиквтумане")
-
-New comment
-
-поэтический, не дословный; rhythmische ...  [more](https://lyricstranslate.com/en/comment/1168319#comment-1168319)
-
-[![tn1gm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1539455-1653774677.png)](https://lyricstranslate.com/en/translator/tn1gm "tn1gm")
-
-New song
-
-[My Little Pony: A New Generation (OST) - 널 보호 해줄게 \[I'm Looking Out For You\]](https://lyricstranslate.com/en/my-little-pony-new-gen-neol-boho-haejulge-lyrics)
-
-Korean
-
-[![Natalia Arlovskaya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1392475-1706287626.jpg)](https://lyricstranslate.com/en/translator/natalia-arlovskaya "Natalia Arlovskaya")
+[![Torioririo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1566885-1723748355.jpg)](https://lyricstranslate.com/en/translator/torioririo "Torioririo")
 
 New translation
 
-[Perman (OST) - パーマンはそこにいる (Perman wa soko ni iru)](https://lyricstranslate.com/en/perman-ost-perman-wa-soko-ni-iru-transliteration)
-
-Japanese → Transliteration
-
-[![ежиквтумане](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1174292-1685294567.jpg)](https://lyricstranslate.com/en/translator/%D0%B5%D0%B6%D0%B8%D0%BA%D0%B2%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%B5 "ежиквтумане")
-
-New comment
-
-поэтический, не дословный; rhythmische ...  [more](https://lyricstranslate.com/en/comment/1168318#comment-1168318)
-
-[![BeckoningCat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601382-1702141765.jpg)](https://lyricstranslate.com/en/translator/beckoningcat "BeckoningCat")
-
-New translation
-
-[LMNT - Hey Juliet](https://lyricstranslate.com/en/lmnt-hey-juliet-french)
-
-English → French
-
-[![BeckoningCat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601382-1702141765.jpg)](https://lyricstranslate.com/en/translator/beckoningcat "BeckoningCat")
-
-New translation
-
-[LMNT - Hey Juliet](https://lyricstranslate.com/en/lmnt-hey-juliet-spanish)
+[ARTMS - 조난 (Distress) (jonan)](https://lyricstranslate.com/en/artms-jonan-spanish)
 
 English → Spanish
+
+[![maluca](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1206376-1574120991.gif)](https://lyricstranslate.com/en/translator/maluca "maluca")
+
+New transcription request
+
+[Rich Quick - Searching for Tupac Shakur](https://lyricstranslate.com/en/rich-quick-searching-tupac-shakur)
+
+English
+
+[![Bania88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1627662-1725209008.jpg)](https://lyricstranslate.com/en/translator/bania88 "Bania88")
+
+New song
+
+[Memorybank - Treadmill of Time](https://lyricstranslate.com/en/memorybank-treadmill-time-lyrics)
+
+English
+
+[![sehnsucht05](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628086-1727623003.jpg)](https://lyricstranslate.com/en/translator/sehnsucht05 "sehnsucht05")
+
+New translation
+
+[Rammstein - Das alte Leid](https://lyricstranslate.com/en/rammstein-das-alte-leid-romanian)
+
+German → Romanian
+
+[![Icey](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1172336-1552661453.png)](https://lyricstranslate.com/en/translator/icey "Icey")
+
+New comment
+
+The source lyrics have been updated. Please review...  [more](https://lyricstranslate.com/en/comment/1168832#comment-1168832)
+
+[![Boludo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1581590-1698779761.jpg)](https://lyricstranslate.com/en/translator/boludo "Boludo")
+
+New request
+
+[Lara Fabian - Je T'ai Cherché](https://lyricstranslate.com/en/request/je-tai-cherch%C3%A9)
+
+French → Russian
+
+[![himmeloghelvede](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/himmeloghelvede "himmeloghelvede")
+
+New song
+
+[The Grenadines - For You I Would Die Again](https://lyricstranslate.com/en/grenadines-you-i-would-die-again-lyrics)
+
+English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
