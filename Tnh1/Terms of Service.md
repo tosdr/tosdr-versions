@@ -198,23 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados](https://tnh1-cdn2.cworks.cloud/fileadmin/user_upload/tnh1/2024/10/03/1_cid_moreira-reproducao_redes_sociais.jpg)
-
-Brasil
-
-Brasil
-
-Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados
-
-Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados](https://www.tnh1.com.br/noticia/nid/cid-moreira-deserdou-filhos-e-patrimonio-seria-de-r-60-milhoes-dizem-advogados/ "Cid Moreira deserdou filhos e patrimônio seria de R$ 60 milhões, dizem advogados")[![Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/4/csm_acidente_feitosa_336e85f8da.png)
-
-Trânsito
-
-Trânsito
-
-Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário
-
-Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário](https://www.tnh1.com.br/noticia/nid/onibus-desgovernado-sobra-na-pista-e-derruba-poste-proximo-ao-terminal-rodoviario/ "Ônibus desgovernado sobra na pista e derruba poste próximo ao terminal rodoviário ")[![Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/7/csm_craibas-vista-cima_02398f973c.jpg)
+[![Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/7/csm_craibas-vista-cima_02398f973c.jpg)
 
 interior de AL
 
@@ -222,7 +206,7 @@ interior de AL
 
 Homem passa mal em fila na porta de local de votação e morre após ser socorrido
 
-Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://www.tnh1.com.br/noticia/nid/homem-passa-mal-em-fila-na-porta-de-local-de-votacao-e-morre-apos-ser-socorrido/ "Homem passa mal em fila na porta de local de votação e morre após ser socorrido")[![Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/0/csm_compra_de_votos_campo_alegre_vereador_5eb4084741.jpg)
+Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://www.tnh1.com.br/noticia/nid/homem-passa-mal-em-fila-na-porta-de-local-de-votacao-e-morre-apos-ser-socorrido/ "Homem passa mal em fila na porta de local de votação e morre após ser socorrido")[![Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/0/csm_compra_de_votos_campo_alegre_vereador_5eb4084741.jpg)
 
 em flagrante
 
@@ -230,7 +214,23 @@ em flagrante
 
 Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos
 
-Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://www.tnh1.com.br/noticia/nid/pai-de-candidato-a-vereador-e-preso-com-r3-mil-na-cueca-comprando-votos/ "Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos")
+Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://www.tnh1.com.br/noticia/nid/pai-de-candidato-a-vereador-e-preso-com-r3-mil-na-cueca-comprando-votos/ "Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos")[![PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/1/csm_Policia_Federal_-_foto_Divulgacao_PF_f9bd48b31e.jpg)
+
+SAIBA QUAIS
+
+SAIBA QUAIS
+
+PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas
+
+PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-ja-registra-ocorrencias-de-crimes-eleitorais-neste-domingo-06-em-alagoas/ "PF já registra ocorrências de crimes eleitorais neste domingo (06), em Alagoas")[![Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/0/csm_Logotipo_de_Vale_Tudo_69fa42c568.png)
+
+Televisão
+
+Televisão
+
+Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo
+
+Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-atriz-que-rejeitou-participacao-especial-no-remake-de-vale-tudo/ "Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo")
 
 [![Primeiro turno teve 515 prisões por crimes eleitorais, aponta ministério](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/0/csm_crime_eleitoral_foto_Paulo_Pinto-Agencia_Brasil_43b858f286.jpg)
 
