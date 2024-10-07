@@ -2,8 +2,8 @@
 
 [Home](https://ytmp3.cc/en-DrWL/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)
 
-Terms of Use
-============
+YTMP3: Terms of Use
+===================
 
 Please review these terms and conditions of use carefully before using our websites, including, without limitation, the following websites: [ytmp3.cc](https://ytmp3.cc/en-DrWL/).
 
