@@ -149,6 +149,16 @@ Shifting the conversation around the impacts of digital technologies
 
 [See our latest news](https://tacticaltech.org/news/latest/)
 
+* ![](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/200928_Youth_Medium_illustration_-07.jpg)
+    
+    * Open calls
+    
+    [### \[Open Call\] Get Free Training on Critical Digital Literacy for Youth](https://tacticaltech.org/news/open-calls/free-training-digital-literacy-berlin/)
+    
+    Are you a social worker, community leader, youth advocate, or educator working with teens? Tactical Tech is seeking partners in Berlin for their digital literacy project, What the Future Wants (WTFW) – Comes to Berlin. Organisations and individuals will gain new skills through training sessions on digital literacy topics such as AI, misinformation, and digital privacy, access educational resources, and receive financial support to host workshops or exhibitions in their communities.
+    
+    [Read more →](https://tacticaltech.org/news/open-calls/free-training-digital-literacy-berlin/)
+    
 * ![White background with the text In The Loop newsletter](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/intheloop/TT-Newsletter-cards-september.jpg)
     
     * In-The-Loop newsletters
@@ -178,16 +188,6 @@ Shifting the conversation around the impacts of digital technologies
     We need to rethink how we deal with information in the context of crises. All of us, really. We, the digital users of the digitised information world, need to get a grip on things. How we explore the world, what and who we trust, and why, in the context of crises, has gotten too far out of our hands and needs to change. We need a place to come together. We need to reinvent how we talk about and solve difficult things while respecting any fundamental differences we might come to the table or screen with.
     
     [Read more →](https://tacticaltech.org/news/insights/the-quest-to-understand-influencing-machines/)
-    
-* ![](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/200928_Youth_Medium_illustration_-07.jpg)
-    
-    * Open calls
-    
-    [### \[Open Call for Partnerships\] Organisations in Berlin Working with Youth](https://tacticaltech.org/news/open-calls/open-call-OWY-berlin-wtfw-2024/)
-    
-    We are looking to partner with formal or non-formal youth-focused organisations and institutions based in Berlin, especially those working with young people (ages 13-18 years old) from traditionally marginalized identities or backgrounds, on a digital literacy project called What the Future Wants (WTFW) - Comes to Berlin, co-funded by Deutsche Postcode Lotterie.
-    
-    [Read more →](https://tacticaltech.org/news/open-calls/open-call-OWY-berlin-wtfw-2024/)
     
 
 Impact stories
