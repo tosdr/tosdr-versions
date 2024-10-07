@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| All Summer LongKid Rock<br><br>11:40pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>11:37pm |
-| Hometown HomeLocash<br><br>11:33pm |
-| Lies, Lies, LiesMorgan Wallen<br><br>11:30pm |
-| What My World Spins AroundJordan Davis<br><br>11:27pm |
+| Free And EasyDierks Bentley<br><br>4:57am |
+| Beatles And EaglesThe Frontman<br><br>4:53am |
+| Need You NowLady A<br><br>4:49am |
+| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>4:46am |
+| Lights Come OnJason Aldean<br><br>4:38am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Eastern
+Spanish • Western
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Sports • Midwest
+News Talk • Eastern
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Country • Western
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
