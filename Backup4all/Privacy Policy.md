@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
+* [What is Copy backup](https://www.backup4all.com/what-is-copy-backup-kb.html)  
     
-* [Using Backup4all - FAQ 7](https://www.backup4all.com/using-backup4all-faq-7-kb.html)  
+* [Restore demo](https://www.backup4all.com/restore-demo-kb.html)  
     
-* [How to do a selective restore](https://www.backup4all.com/how-to-do-a-selective-restore-kb.html)  
+* [How to schedule multiple backup jobs at once](https://www.backup4all.com/how-to-schedule-multiple-backup-jobs-at-once-kb.html)  
     
-* [How to enable on Linux the ciphers supported ...](https://www.backup4all.com/how-to-enable-on-linux-the-ciphers-supported-by-backup4all-kb.html)  
+* [Using Backup4all - FAQ 6](https://www.backup4all.com/using-backup4all-faq-6-kb.html)  
     
-* [What to check when application does not start](https://www.backup4all.com/what-to-check-when-application-does-not-start-kb.html)  
+* [How to restore a backup to Dropbox](https://www.backup4all.com/how-to-restore-a-backup-to-dropbox-kb.html)  
     
 
 Choose language:
