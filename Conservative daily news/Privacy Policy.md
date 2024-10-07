@@ -2,14 +2,14 @@ Monday, October 7 2024
 
 Breaking News
 
+* [Russian ‘Merchant Of Death’ Back In Arms Game, Selling To Terrorists After Being Freed Under Biden Admin](https://www.conservativedailynews.com/2024/10/russian-merchant-of-death-back-in-arms-game-selling-to-terrorists-after-being-freed-under-biden-admin/)
+* [CNN’s Harry Enten Says Harris Performing ‘Ridiculously Well’ Among ‘White College Grads’](https://www.conservativedailynews.com/2024/10/cnns-harry-enten-says-harris-performing-ridiculously-well-among-white-college-grads/)
+* [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/)
+* [White House Press Briefing with Karine Jean-Pierre – 10/7/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-7-24/)
+* [Medal of Honor Monday: Marine Corps Staff Sgt. Lewis G. Watkins](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-marine-corps-staff-sgt-lewis-g-watkins/)
 * [On The One-Year Anniversary Of October 7 — Let Israel Win](https://www.conservativedailynews.com/2024/10/on-the-one-year-anniversary-of-october-7-let-israel-win/)
 * [President Joe Biden’s Schedule for Monday, October 7, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-7-2024/)
 * [Kamala Has A Long Record Of Squashing Free Speech](https://www.conservativedailynews.com/2024/10/kamala-has-a-long-record-of-squashing-free-speech/)
-* [The Butler Did It](https://www.conservativedailynews.com/2024/10/the-butler-did-it/)
-* [Trump’s Momentum Is Building — Just Look At The Polls](https://www.conservativedailynews.com/2024/10/trumps-momentum-is-building-just-look-at-the-polls/)
-* [Biden-Harris Admin Might Just Be Buying Votes With New Medicare Changes, Experts Say](https://www.conservativedailynews.com/2024/10/biden-harris-admin-might-just-be-buying-votes-with-new-medicare-changes-experts-say/)
-* [Let Israel Win The War |](https://www.conservativedailynews.com/2024/10/let-israel-win-the-war/)
-* [We’re Singing From The Same Song Sheet](https://www.conservativedailynews.com/2024/10/were-singing-from-the-same-song-sheet/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,67 +126,67 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Joe-Biden-sad-upset-220x150.jpg)](https://www.conservativedailynews.com/2024/10/russian-merchant-of-death-back-in-arms-game-selling-to-terrorists-after-being-freed-under-biden-admin/)
+    
+    [Russian ‘Merchant Of Death’ Back In Arms Game, Selling To Terrorists After Being Freed Under Biden Admin](https://www.conservativedailynews.com/2024/10/russian-merchant-of-death-back-in-arms-game-selling-to-terrorists-after-being-freed-under-biden-admin/)
+    
+    October 7, 2024
+    
+* [![college student evolution](https://www.conservativedailynews.com/wp-content/uploads/2024/05/gv050724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/cnns-harry-enten-says-harris-performing-ridiculously-well-among-white-college-grads/)
+    
+    [CNN’s Harry Enten Says Harris Performing ‘Ridiculously Well’ Among ‘White College Grads’](https://www.conservativedailynews.com/2024/10/cnns-harry-enten-says-harris-performing-ridiculously-well-among-white-college-grads/)
+    
+    October 7, 2024
+    
+* [![Kamala Harris communist socialist](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/)
+    
+    [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/)
+    
+    October 7, 2024
+    
+* [![Voting Voter Turnout Election](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv100724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/consequences/)
+    
+    [Consequences](https://www.conservativedailynews.com/2024/10/consequences/)
+    
+    October 7, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/1662070130_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-7-24/)
+    
+    [White House Press Briefing with Karine Jean-Pierre – 10/7/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-7-24/)
+    
+    October 7, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/02-enjoychec-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/joy-to-the-recue/)
+    
+    [Joy To The Recue](https://www.conservativedailynews.com/2024/10/joy-to-the-recue/)
+    
+    October 7, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/241001-M-D0439-073A-220x150.jpg)](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-marine-corps-staff-sgt-lewis-g-watkins/)
+    
+    [Medal of Honor Monday: Marine Corps Staff Sgt. Lewis G. Watkins](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-marine-corps-staff-sgt-lewis-g-watkins/)
+    
+    October 7, 2024
+    
 * [![JD Vance media bias Tim Walz](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg100724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/perspective-3/)
     
     [Perspective…](https://www.conservativedailynews.com/2024/10/perspective-3/)
     
     October 7, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Saving-piggy-bank-money-220x150.png)](https://www.conservativedailynews.com/2024/10/popular-money-advice-you-shouldnt-take/)
-    
-    [Popular Money Advice You Shouldn’t Take](https://www.conservativedailynews.com/2024/10/popular-money-advice-you-shouldnt-take/)
-    
-    October 7, 2024
-    
-* [![Israel Hamas Hezbollah Joe Biden](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv100424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/on-the-one-year-anniversary-of-october-7-let-israel-win/)
-    
-    [On The One-Year Anniversary Of October 7 — Let Israel Win](https://www.conservativedailynews.com/2024/10/on-the-one-year-anniversary-of-october-7-let-israel-win/)
-    
-    October 7, 2024
-    
-* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-7-2024/)
-    
-    [President Joe Biden’s Schedule for Monday, October 7, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-7-2024/)
-    
-    October 7, 2024
-    
-* [![Kamala Harris constitution](https://www.conservativedailynews.com/wp-content/uploads/2024/08/02-unburdened-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-has-a-long-record-of-squashing-free-speech/)
-    
-    [Kamala Has A Long Record Of Squashing Free Speech](https://www.conservativedailynews.com/2024/10/kamala-has-a-long-record-of-squashing-free-speech/)
-    
-    October 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5636-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/the-butler-did-it/)
-    
-    [The Butler Did It](https://www.conservativedailynews.com/2024/10/the-butler-did-it/)
-    
-    October 6, 2024
-    
-* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/10/trumps-momentum-is-building-just-look-at-the-polls/)
-    
-    [Trump’s Momentum Is Building — Just Look At The Polls](https://www.conservativedailynews.com/2024/10/trumps-momentum-is-building-just-look-at-the-polls/)
-    
-    October 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Joe-Biden-Kamala-Harris-2.jpg)](https://www.conservativedailynews.com/2024/10/biden-harris-admin-might-just-be-buying-votes-with-new-medicare-changes-experts-say/)
-    
-    [Biden-Harris Admin Might Just Be Buying Votes With New Medicare Changes, Experts Say](https://www.conservativedailynews.com/2024/10/biden-harris-admin-might-just-be-buying-votes-with-new-medicare-changes-experts-say/)
-    
-    October 6, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [MEAN Arms ExoMag 9mm Conversion Mag](https://www.thegunpage.com/mean-arms-exomag-9mm-conversion-mag/10611052)
+* [Gun Cases Among Key Issues Supreme Court Will Tackle in New Term](https://www.thegunpage.com/gun-cases-among-key-issues-supreme-court-will-tackle-in-new-term/10611050)
+* [Streamlight Adds New TLR-1 HL-X USB Model](https://www.thegunpage.com/streamlight-adds-new-tlr-1-hl-x-usb-model/10611051)
+* [Pennsylvania Teen With Toy Gun Shot During Attempted Robbery](https://www.thegunpage.com/pennsylvania-teen-with-toy-gun-shot-during-attempted-robbery/10611046)
+* [Washington Court Says AR-Style Rifles Not Protected Under Second Amendment](https://www.thegunpage.com/washington-court-says-ar-style-rifles-not-protected-under-second-amendment/10611043)
+* [TFB Weekly Web Deals 108: Deals for October 7th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-108-deals-for-october-7th-2024/10611045)
 * [The Ultimate Suppressed SBS: The Genesis Arms PDS](https://www.thegunpage.com/the-ultimate-suppressed-sbs-the-genesis-arms-pds/10611041)
+* [Collegiate Rifle: Akron Home Opener Yields Big Win](https://www.thegunpage.com/collegiate-rifle-akron-home-opener-yields-big-win/10611042)
 * [KCI's NEW 100-Round 5.56 AK Drum](https://www.thegunpage.com/kcis-new-100-round-5-56-ak-drum/10611037)
 * [The Whitetail Forge Knife Goes to Africa](https://www.thegunpage.com/the-whitetail-forge-knife-goes-to-africa/10611034)
-* [15 Great Photos From The 2024 NRA National High Power Rifle Championships](https://www.thegunpage.com/15-great-photos-from-the-2024-nra-national-high-power-rifle-championships/10611032)
-* [(00)7 James Bond Guns You Didn’t Know About](https://www.thegunpage.com/007-james-bond-guns-you-didnt-know-about/10611024)
-* [Silencer Saturday #349: Angstadt Arms Prophet Integral Silencer](https://www.thegunpage.com/silencer-saturday-349-angstadt-arms-prophet-integral-silencer/10611023)
-* [Best New Deer Loads for Fall](https://www.thegunpage.com/best-new-deer-loads-for-fall/10611018)
-* [Supreme Court To Hear Case On If US Gun Manufacturer, Distributor Can Be Held Liable For Cartel Crime](https://www.thegunpage.com/supreme-court-to-hear-case-on-if-us-gun-manufacturer-distributor-can-be-held-liable-for-cartel-crime/10611017)
-* [Classic SSUSA: Volunteers At The NRA National Matches](https://www.thegunpage.com/classic-ssusa-volunteers-at-the-nra-national-matches/10611016)
-* [SCOTUS Takes Case Concerning Mexico’s Lawsuit Against U.S. Gunmakers](https://www.thegunpage.com/scotus-takes-case-concerning-mexicos-lawsuit-against-u-s-gunmakers/10611012)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,15 +228,15 @@ Contact Us
 
 Recent Comments
 
+* Jeff L on [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/#comment-782546)
+* Stanley Warner on [Biden-Harris Admin Threw Over $40 Billion At An Internet Buildout — Three Years Later Not A Single Project Is Underway](https://www.conservativedailynews.com/2024/10/biden-harris-admin-threw-over-40-billion-at-an-internet-buildout-three-years-later-not-a-single-project-is-underway/#comment-782544)
+* Stanley Warner on [Kamala’s Tax-Gouging Frightens Me More Than Corporate Price-Gouging](https://www.conservativedailynews.com/2024/10/kamalas-tax-gouging-frightens-me-more-than-corporate-price-gouging/#comment-782543)
+* Stanley Warner on [On The One-Year Anniversary Of October 7 — Let Israel Win](https://www.conservativedailynews.com/2024/10/on-the-one-year-anniversary-of-october-7-let-israel-win/#comment-782542)
 * TennesseeConservative on [Popular Money Advice You Shouldn’t Take](https://www.conservativedailynews.com/2024/10/popular-money-advice-you-shouldnt-take/#comment-782538)
 * Stanley Warner on [Biden Admin To End Parole Program For Hundreds Of Thousands Of Migrants](https://www.conservativedailynews.com/2024/10/biden-admin-to-end-parole-program-for-hundreds-of-thousands-of-migrants/#comment-782524)
 * KayCee on [Don’t Tell Helene Victims About We The People](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/#comment-782499)
 * Stanley Warner on [The Left’s Word Games Can’t Conceal ‘Third World’ Impact of Open Borders](https://www.conservativedailynews.com/2024/10/the-lefts-word-games-cant-conceal-third-world-impact-of-open-borders/#comment-782491)
 * Stanley Warner on [Hurricane Survivor Blasts Biden, Feels Betrayed Admin Put Migrants Before Americans](https://www.conservativedailynews.com/2024/10/hurricane-survivor-blasts-biden-feels-betrayed-admin-put-migrants-before-americans/#comment-782490)
-* charles wilkins on [Proportionate Response…](https://www.conservativedailynews.com/2024/10/proportionate-response/#comment-782489)
-* charles wilkins on [Biden-Harris Admin Accused Of Deceiving America On Its Way To Freezing Gas Exports](https://www.conservativedailynews.com/2024/10/biden-harris-admin-accused-of-deceiving-america-on-its-way-to-freezing-gas-exports/#comment-782488)
-* KayCee on [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/#comment-782455)
-* KayCee on [Hurricane Helene’s North Carolina October Surprise](https://www.conservativedailynews.com/2024/10/hurricane-helenes-north-carolina-october-surprise/#comment-782454)
 
 [Close](#)
 
