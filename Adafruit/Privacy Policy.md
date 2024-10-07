@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ It's only "work" if you'd rather be doing something else”
+“ Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road”
 
-[Dean Kamen](https://en.wikipedia.org/wiki/Dean_Kamen)
+[Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand)
 
 [](https://www.adafruit.com/about)
 
