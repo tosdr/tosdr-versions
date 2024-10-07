@@ -191,8 +191,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Civics Education** | The State We're In](https://video.nhpbs.org/video/civics-education-t6ujnc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Countdown** | Velvet](https://video.nhpbs.org/video/countdown-3spqlr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Exploring Bipartisanship: Conversations with Western Governors' Leadership Institute Part 6** | PBS Books](https://video.nhpbs.org/video/exploring-bipartisanship-conversations-with-western-governors-leadership-institute-part-6-y1uphd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Vintage Denver 2024, Hour 1** | Antiques Roadshow](https://video.nhpbs.org/video/vintage-denver-2024-hour-1-juh42y?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"A Year of War: Israelis and Palestinians" - Preview** | FRONTLINE](https://video.nhpbs.org/video/a-year-of-war-israelis-and-palestinians-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Clues in Maria Anna Mozart's Childhood Notebook** | Secrets of the Dead](https://video.nhpbs.org/video/clues-in-maria-anna-mozarts-childhood-notebook-17aobe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
