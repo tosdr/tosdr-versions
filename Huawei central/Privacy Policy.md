@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch D2 Philippines October 14](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-D2-400x240.jpg)
+        
+        Huawei to launch Watch D2 in Philippines on October 14](https://www.huaweicentral.com/huawei-to-launch-watch-d2-in-philippines-on-october-14/)
     * [![Huawei Watch GT 4 September 2024 expanding](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-GT-4-400x240.jpg)
         
         Huawei Watch GT 4 September 2024 update expanding to more global users](https://www.huaweicentral.com/huawei-watch-gt-4-september-2024-update-expanding-to-more-global-users/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch GT 5 China](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-China-400x240.jpg)
         
         Huawei launches Watch GT 5 series in China with TruSense system](https://www.huaweicentral.com/huawei-launches-watch-gt-5-series-in-china-with-trusense-system/)
-    * [![Huawei Malaysia Watch September 26](https://www.huaweicentral.com/wp-content/uploads/2024/09/Malaysia-event-400x240.jpg)
-        
-        Huawei to launch Watch GT 5, Watch D2, and more in Malaysia on September 26](https://www.huaweicentral.com/huawei-to-launch-watch-gt-5-watch-d2-and-more-in-malaysia-on-september-26/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
