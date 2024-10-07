@@ -421,15 +421,15 @@ Create an account with us to view your order status online. Your details can als
 
 ### Let customers speak for us
 
-[4549 reviews](https://www.livpure.com/pages/reviews)
+[4809 reviews](https://www.livpure.com/pages/reviews)
 
 [Write a review](#)
 
-87%
+83%
 
 (3979)
 
-10%
+9%
 
 (443)
 
