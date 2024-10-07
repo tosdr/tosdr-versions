@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 712 utilisateurs actifs
+##### 823 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Windows 11 : avec Rufus, contournez toutes les exigences de Microsoft (TPM, CPU, RAM, Secure Boot, compte Microsoft...)](https://lecrabeinfo.net/installer-windows-11-sans-toutes-les-exigences-tpm-cpu-ram-secure-boot-compte-microsoft.html)
 * [Suite Affinity : essayez gratuitement l’alternative à Adobe !](https://lecrabeinfo.net/suite-affinity-essayez-gratuitement-lalternative-a-adobe.html)
 * [Télécharger les ISO de Windows 11 LTSC (Entreprise et IoT Entreprise)](https://lecrabeinfo.net/telecharger-les-iso-de-windows-11-ltsc-entreprise-et-iot-entreprise.html)
-* [Windows 11 : forcer la mise à jour 24H2 sur un PC non compatible](https://lecrabeinfo.net/windows-11-forcer-la-mise-a-jour-24h2-sur-un-pc-non-compatible.html)
 
 ### Tendance
 
@@ -152,9 +152,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 555 membres
-* 913 articles
-* 26 652 commentaires
+* 68 556 membres
+* 914 articles
+* 26 654 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
