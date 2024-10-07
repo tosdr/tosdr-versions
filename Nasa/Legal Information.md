@@ -269,7 +269,7 @@ article 5 days ago](https://science.nasa.gov/missions/webb/nasas-webb-reveals-un
 
 ### Mark Sonoda: Leading NASA’s Path to the Commercialization of Space
 
-article 2 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/mark-sonoda-leading-nasas-path-to-the-commercialization-of-space/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
+article 6 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/mark-sonoda-leading-nasas-path-to-the-commercialization-of-space/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
 
 3 min read
 
@@ -307,25 +307,25 @@ article 6 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-ca
 
 ### Highlights
 
-[![Gateway’s Habitation and Logistics Outpost (HALO) is seen standing vertically inside a Thales Alenia Space facility in Turin, Italy. The cylindrical metallic module is surrounded by a red steel frame. Thales Alenia Space is the subcontractor for Northrop Grumman, NASA's commercial partner developing HALO. Photo Credit: Thales Alenia Space.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e055348.jpg?w=1024)
+[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
+
+3 min read
+
+### GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration
+
+article 46 mins ago](https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+
+1 min read
+
+### F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update
+
+article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)[![Gateway’s Habitation and Logistics Outpost (HALO) is seen standing vertically inside a Thales Alenia Space facility in Turin, Italy. The cylindrical metallic module is surrounded by a red steel frame. Thales Alenia Space is the subcontractor for Northrop Grumman, NASA's commercial partner developing HALO. Photo Credit: Thales Alenia Space.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e055348.jpg?w=1024)
 
 1 min read
 
 ### Gateway Stands Tall for Stress Test
 
-article 4 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)[![NASA’s LRO: Lunar Ice Deposits are Widespread](https://science.nasa.gov/wp-content/uploads/2024/06/psrs-n-topo3.png)
-
-5 min read
-
-### NASA’s LRO: Lunar Ice Deposits are Widespread
-
-article 4 days ago](https://science.nasa.gov/solar-system/moon/nasas-lro-lunar-ice-deposits-are-widespread/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
-
-6 min read
-
-### What’s Up: October 2024 Skywatching Tips from NASA
-
-article 5 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2024-skywatching-tips-from-nasa/)
+article 4 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)
 
 ### Featured
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-ste
 
 ### Highlights
 
-[![Priorities](https://science.nasa.gov/wp-content/uploads/2022/08/lunar-surface-large.jpg)
+[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
+
+3 min read
+
+### GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration
+
+article 46 mins ago](https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+
+1 min read
+
+### F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update
+
+article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)[![Priorities](https://science.nasa.gov/wp-content/uploads/2022/08/lunar-surface-large.jpg)
 
 1 min read
 
 ### Priorities
 
-article 3 days ago](https://science.nasa.gov/lunar-science/priorities/)[![Science Activation’s PLACES Team Facilitates Third Professional Learning Institute](https://science.nasa.gov/wp-content/uploads/2024/10/gmri-cover-image-sara-salisbury.jpeg)
-
-5 min read
-
-### Science Activation’s PLACES Team Facilitates Third Professional Learning Institute
-
-article 3 days ago](https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-third-professional-learning-institute/)[![Planetary Science Technology Symposium](https://science.nasa.gov/wp-content/uploads/2023/07/pesto-symposium.png)
-
-1 min read
-
-### Planetary Science Technology Symposium
-
-article 3 days ago](https://science.nasa.gov/technology/planetary-science-technology-symposium/)
+article 3 days ago](https://science.nasa.gov/lunar-science/priorities/)
 
 ### Highlights
 
@@ -395,7 +395,13 @@ article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### Highlights
 
-[![A woman sits in front of a large NASA spacecraft component. She is wearing a red cardigan over a black top and jeans.](https://www.nasa.gov/wp-content/uploads/2024/10/25353901-10115939623039544-5490675857966379566-n.jpg?w=720)
+[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+
+1 min read
+
+### F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update
+
+article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)[![A woman sits in front of a large NASA spacecraft component. She is wearing a red cardigan over a black top and jeans.](https://www.nasa.gov/wp-content/uploads/2024/10/25353901-10115939623039544-5490675857966379566-n.jpg?w=720)
 
 3 min read
 
@@ -407,13 +413,7 @@ article 4 days ago](https://www.nasa.gov/centers-and-facilities/johnson/meghan-d
 
 ### How NASA Astronauts Vote from Space Aboard International Space Station 
 
-article 4 days ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)[![A selection of red and black Burnout coffee mugs.](https://www.nasa.gov/wp-content/uploads/2024/09/termavant2a-web-0.jpg?w=600)
-
-2 min read
-
-### The Science of the Perfect Cup for Coffee 
-
-article 1 week ago](https://www.nasa.gov/directorates/stmd/tech-transfer/spinoffs/the-science-of-the-perfect-cup-for-coffee/)
+article 4 days ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)
 
 ### Featured
 
