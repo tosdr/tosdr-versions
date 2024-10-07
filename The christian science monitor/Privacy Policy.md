@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Resilience
+
+### After year of war in Gaza, Hamas is mostly unseen. But it’s surviving.](https://www.csmonitor.com/World/Middle-East/2024/1007/israel-gaza-war-anniversary-hamas-survival "After year of war in Gaza, Hamas is mostly unseen. But it’s surviving.")
+
+[Humility
+
+### The force of contrition this Oct. 7](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1007/The-force-of-contrition-this-Oct.-7 "The force of contrition this Oct. 7")
+
 [Hope
 
 ### After October 7, where do Israel and Gaza look for hope? History shows a way forward.](https://www.csmonitor.com/Commentary/From-the-Editors/2024/1007/october-7-israel-gaza-hope "After October 7, where do Israel and Gaza look for hope? History shows a way forward.")
-
-[Hope
-
-### ‘This is what the war has done’: How October 7 forever changed Israel and Gaza](https://www.csmonitor.com/World/Middle-East/2024/1007/october-7-israel-gaza-one-year-later "‘This is what the war has done’: How October 7 forever changed Israel and Gaza")
-
-[Peace
-
-### ‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.](https://www.csmonitor.com/USA/Society/2024/1006/october-7-interfaith-groups-conflict-resolution "‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 04, 2024
+October 07, 2024
 
-Your passport to adventure, without a visa
+One year after October 7
 
-As a child, my great love was National Geographic. On long car trips I’d sit, crammed amid the luggage, but really exploring the Amazon rainforests or the steppes of Asia through the remarkable photography.Today, Melanie Stetson Freeman takes us to the streets of Old Dhaka. It’s a place I didn’t visit even during my three years as a reporter in South Asia. (Bangladesh refused my visa request.) But thanks to Mel, we all get to visit, no visa required.
+So often, the Middle East seems a textbook lesson in how divisions divide, often violently. The reminders since Oct. 7, 2023, have been stark. Today, all our stories look at the fallout from the past year. But Ned Temko makes an important point in his column: When leaders have prioritized peace, thought shifts. Before last Oct. 7, historic enemies were considering the once-unthinkable: recognizing Israel’s statehood. Progress is not impossible. The Middle East is not without hope. But a different future means thinking differently, starting with understanding and humanity. Today, we lay down our marker that the arc of the past year need not be the direction of the next.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### After year of war in Gaza, Hamas is mostly unseen. But it’s surviving.](https://www.csmonitor.com/World/Middle-East/2024/1007/israel-gaza-war-anniversary-hamas-survival "After year of war in Gaza, Hamas is mostly unseen. But it’s surviving.")
+
 [### ‘This is what the war has done’: How October 7 forever changed Israel and Gaza](https://www.csmonitor.com/World/Middle-East/2024/1007/october-7-israel-gaza-one-year-later "‘This is what the war has done’: How October 7 forever changed Israel and Gaza")
 
 [### On eve of Oct. 7 anniversary, pro-Israeli and pro-Palestinian crowds rally](https://www.csmonitor.com/World/Europe/2024/1006/october-7-attacks-israel-palestine-hamas-rallies-anniversary "On eve of Oct. 7 anniversary, pro-Israeli and pro-Palestinian crowds rally")
-
-[### Colorado judge receives threats after sentencing election denier official to prison](https://www.csmonitor.com/USA/Justice/2024/1006/Colorado-judge-receives-threats-after-sentencing-election-denier-official-to-prison "Colorado judge receives threats after sentencing election denier official to prison")
 
 * * *
 
