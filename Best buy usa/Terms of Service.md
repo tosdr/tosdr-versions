@@ -37,49 +37,49 @@ Main Content
 Terms and Conditions
 ====================
 
-\[Last Updated June 21, 2024\]
+\[Last Updated October 7, 2024\]
 
-Welcome to Best Buy. The BestBuy.com website, the mobile Best Buy site, and any Best Buy app (Android and iOS) are collectively the “Best Buy Properties” and each individually is a “Best Buy Property.” By using any Best Buy Property and its related services, products, and software to (i) purchase services, products, and software, or (ii) apply for available financing options to be used to purchase services, product and software, you agree to be bound by these terms and conditions (“Terms”). You also accept the Terms when you create an account, make a purchase as a guest, or log in to any Best Buy Property. Additional or separate terms may apply to your interactions with other Best Buy websites, Best Buy or Geek Squad® locations, and to your use of individual services or features available on a Best Buy Property, such as reviews. To the extent that the provisions of any additional terms conflict with these Terms, the provisions of the additional terms will govern. References to “Best Buy,” “Geek Squad,” “Magnolia,” “Magnolia Home Theater,” “Magnolia Design Center,” “Pacific Sales,” “our,” “we,” or “us” may refer to Best Buy Co., Inc., BestBuy.com, LLC, Best Buy Stores, L.P., BBY Solutions, Inc., Best Buy Enterprise Services, Inc., Magnolia Hi-Fi, LLC, Pacific Sales Kitchen and Bath Centers, LLC, and their affiliates, subsidiaries, and designees. We may make changes to any Best Buy Property and the Terms. It is your responsibility to review the Terms for updates or changes. If you do not agree with the Terms, you should not use the Best Buy Properties.
+Welcome to Best Buy. The BestBuy.com website, the mobile Best Buy site, Best Buy customer support lines and email addresses, and any Best Buy app (Android and iOS) are collectively the “Best Buy Properties” and each individually is a “Best Buy Property.” By using any Best Buy Property and its related services, products, and software (“Products”) in any way, including to (i) purchase Products, (ii) apply for available financing options to be used to purchase Products, or (iii) contact Best Buy for customer support, you agree to be bound by these terms and conditions (“Terms”). You also accept the Terms when you create an account, make a purchase as a guest, or log in to any Best Buy Property. Additional or separate terms may apply to your interactions with other Best Buy websites, Best Buy or Geek Squad® locations, and to your use of individual services or features available on a Best Buy Property, such as reviews. To the extent that the provisions of any additional terms conflict with these Terms, the provisions of the additional terms will govern. References to “Best Buy”, “Geek Squad”, “Magnolia”, “Magnolia Home Theater”, “Magnolia Design Center”, “Premium”, “Premium Home Theater”, “Premium Design Center”, “Premium Audio & Video”, “Pacific Sales”, “our”, “we”, or “us” may refer to Best Buy Co., Inc., BestBuy.com, LLC, Best Buy Stores, L.P., BBY Solutions, Inc., Best Buy Enterprise Services, Inc., Magnolia Hi-Fi, LLC, Pacific Sales Kitchen and Bath Centers, LLC, and their affiliates, subsidiaries, and designees. We may make changes to any Best Buy Property and the Terms at any time and without notice to you. It is your responsibility to review the Terms for updates or changes. If any provision of or change to these Terms is found invalid, void, or for any reason unenforceable, that change is severable and does not affect the validity and enforceability of any other changes or conditions. If you do not agree with the Terms, you should not use the Best Buy Properties.
 
-THESE TERMS INCLUDE A BINDING ARBITRATION AGREEMENT, CLASS ACTION WAIVER, AND JURY TRIAL WAIVER THAT AFFECT YOUR RIGHTS. IN ARBITRATION, THERE IS NO JUDGE OR JURY AND LESS DISCOVERY AND APPELLATE REVIEW THAN IN COURT.  PLEASE CAREFULLY REVIEW THE DISPUTE RESOLUTION SECTION BELOW.
+THESE TERMS INCLUDE A BINDING ARBITRATION AGREEMENT, CLASS ACTION WAIVER, AND JURY TRIAL WAIVER THAT AFFECT YOUR RIGHTS. IN ARBITRATION, THERE IS NO JUDGE OR JURY AND LESS DISCOVERY AND APPELLATE REVIEW THAN IN COURT. PLEASE CAREFULLY REVIEW THE DISPUTE RESOLUTION SECTION BELOW.
 
-Privacy.
---------
+Privacy
+-------
 
 Your use of the Best Buy Properties is subject to our [Privacy Policy](https://www.bestbuy.com/site/help-topics/privacy-policy/pcmcat204400050062.c?id=pcmcat204400050062). Please review the policy for more on how we collect and use information.
 
-See Disclosure Information on our site.
----------------------------------------
+See Disclosure Information on the Best Buy Properties
+-----------------------------------------------------
 
-We try to be as accurate as possible with the information we present on the Best Buy Properties. We will make reasonable efforts to accurately display the attributes of the products we sell. We do not warrant that product descriptions or other content is accurate, complete, or error free. Prices and promotions are subject to change, and may vary from those offered in our stores. We cannot confirm the availability or price of an item until you place your order. Despite our best efforts, sometimes an item in our catalog may not be available, the offer may have been misstated, or an item may be mispriced. For any of these reasons, we may cancel your order or we may contact you for instructions on the order.
+We try to be as accurate as possible with the information we present on the Best Buy Properties. We will make reasonable efforts to accurately display or communicate the attributes of the Products we sell. The information displayed on the Best Buy Properties, or shared with you as part of your interactions with the Best Buy Properties, such as through the use of chat, may be created or provided to you by artificial intelligence software (“AI”). AI used on or in connection with the Best Buy Properties to provide you with ideas, inspiration, summary information, or other contextual information, including those in response to topics or questions you input, is provided solely for your convenience and may not always be accurate. We do not warrant that Product descriptions or other content, whether generated by AI or not, is accurate, complete, or error free. Any use of AI or other technologies on or in connection with the Best Buy Properties, including chat-based or conversation-based technologies, regarding any of our terms and conditions (including these Terms), policies, or practices is provided solely for your convenience, and any deviation, contradiction, additional, or different term provided shall be void and non-binding and instead the applicable terms and conditions, policy, or practice shall control. Prices and promotions are subject to change and may vary from those offered in our stores. We cannot confirm the availability or price of an item until you place your order. Despite our best efforts, sometimes an item in our catalog may not be available, the offer may have been misstated, or an item may be mispriced. For any of these reasons, we may cancel your order or we may contact you for instructions on the order.
 
-Paying for your order.
-----------------------
-
-Generally, we’ll charge your payment method for an item when we ship the item to you or confirm its availability in store. For digital items, we’ll charge your payment method when you initiate the download of the product or the product is placed in your account and available for use. For special-delivery items, we’ll charge your payment method when you confirm a delivery time. However, we will preauthorize your order amount (including for pre-orders) with your payment method at the time you place the order, which may have an effect on your available credit line. If a preauthorization of a pre-order expires before fulfillment, the preauthorization will be reversed and another preauthorization will be made closer to the confirmed availability date.
-
-Order confirmation.
--------------------
-
-Our order confirmation to you does not signify our acceptance of your order, nor does it constitute confirmation of our offer to sell. At any time after receipt of your order, we may accept, decline, or place quantity or other limits on your order for any reason. We may impose these limits on a per-person, per-household, per-order, or any other basis. If we reject, limit, or otherwise modify your order, we will attempt to notify you using the email address you provide to us. If we cancel an order or part of an order that we’ve already charged you for, we’ll refund you the full amount of the canceled portion of the order.
-
-My Best Buy® Program.
+Paying for your order
 ---------------------
+
+Generally, we’ll charge your payment method for an item when we ship the item to you or confirm its availability in store. For digital items, we’ll charge your payment method when you initiate the download of the item or when the item is placed in your account and available for use. For special-delivery items, we’ll charge your payment method when you confirm a delivery time. However, we will preauthorize your order amount (including for pre-orders) with your payment method at the time you place the order, which may have an effect on your available credit line. If a preauthorization of a pre-order expires before fulfillment, the preauthorization will be reversed and another preauthorization will be made closer to the confirmed availability date.
+
+Order confirmation
+------------------
+
+Our order confirmation to you does not signify our acceptance of your order, nor does it constitute confirmation of our offer to sell. At any time after receipt of your order, we may accept, decline, or place quantity or other limits on your order for any reason. We may impose these limits on a per-person, per-household, per-order, or any other basis. If we reject, limit, or otherwise modify your order, we will attempt to notify you using the email address you provide to us. If we cancel all or part of an order that we’ve already charged you for, we’ll refund you the full amount of the canceled portion of the order.
+
+My Best Buy® Program
+--------------------
 
 When you create an account on a Best Buy Property, we will automatically enroll you in the My Best Buy program. The My Best Buy program is a free program through which you may receive membership benefits. If you are also a My Best Buy Credit Cardmember you will also be eligible to earn points toward reward certificates, which are coupons for discounts on future purchases at Best Buy. [See My Best Buy Program Terms](https://www.bestbuy.com/site/my-best-buy/my-best-buy-program-rules/pcmcat311100050001.c?id=pcmcat311100050001).
 
-Proprietary rights.
--------------------
+Proprietary rights
+------------------
 
 All content included on or comprising the Best Buy Properties, including information, data, software, photographs, graphs, videos, typefaces, graphics, music, sounds and other material (collectively “Content”) is protected by copyright, trademark, patent or other proprietary rights, and these rights are valid and protected in all forms, media and technologies existing now or developed in the future. All Content is protected as a collective work under U.S. and international copyright laws, and Best Buy owns, to the fullest extent allowed by such laws, the copyright in the selection, coordination, arrangement, and enhancement of all Content. You may not remove or modify any copyright, trademark or other proprietary notice contained in any Content you use, and you may not modify or alter the Content, copy or post the Content on any network computer, or broadcast the Content in any media. You may not copy, scrape, frame, modify, remove, delete, augment, add to, publish, transmit, participate in the transfer or sale, lease or rental of, create derivative works from or in any way exploit any of the Content, in whole or in part. The Best Buy and Geek Squad logos and other trademarks on the Best Buy Properties are the property of their respective owners and are owned by, licensed to, or, where required, used with permission by Best Buy and may not be reproduced, copied, or manipulated in any manner without the express, written approval of the trademark owner.
 
-User generated content: reviews, comments, communications and other content.
-----------------------------------------------------------------------------
+User generated content: reviews, comments, communications and other content
+---------------------------------------------------------------------------
 
-You may interact with the Best Buy Properties in numerous ways, including Reviews and Ratings, videos, Questions and Answers, Community Forums, testimonials, and email communication. You hereby grant Best Buy a perpetual, irrevocable, royalty-free, transferable right and license to use, copy, modify, adapt, translate, reproduce, transmit, publish, display, delete, create derivative works from, and distribute any information (except order information sent via email or phone) or materials you share with us throughout the world in any media, including when you allow Best Buy to feature text, images and videos shared through social media (e.g., Facebook™, Twitter™, Instagram™, Pinterest™) or submitted through our Reviews and Ratings. You also grant us the right to use the name and social media handle that you use when you share content with us in connection with that content. For this reason, do not send us any content that you do not wish to license to us, including any confidential information or any original creative materials such as stories, product ideas, computer code or original artwork, You represent and warrant that you have all rights necessary for you to grant the licenses granted in this section, including but not limited to permission from or on behalf of any individuals that appear in the information to use, and grant to third parties such as Best Buy the right to use, their name, image, voice and/or likeness without compensation to you or any other person or entity. You further irrevocably waive any "moral rights" or other rights with respect to attribution of authorship or integrity of materials regarding information that you may have under any applicable law under any legal theory. When you share content to us, you will disclose any affiliation you have and you will not share anything that contains harmful computer code, references other websites, or is false, misleading, illegal, defamatory, libelous, hateful, racist, biased, threatening, or harassing.
+You may interact with the Best Buy Properties in numerous ways, including Reviews and Ratings, videos, Questions and Answers, Community Forums, testimonials, and email communication. You hereby grant Best Buy a perpetual, irrevocable, royalty-free, transferable right and license to use, copy, modify, adapt, translate, reproduce, transmit, publish, display, delete, create derivative works from, and distribute any information (except order information sent via email or phone) or materials you share with us throughout the world in any media, including when you allow Best Buy to feature text, images and videos shared through social media (e.g., Facebook™, X, Instagram™, Pinterest™) or submitted through our Reviews and Ratings. You also grant us the right to use the name and social media handle that you use when you share content with us in connection with that content. For this reason, do not send us any content that you do not wish to license to us, including any confidential information or any original creative materials such as stories, product ideas, computer code or original artwork. You represent and warrant that you have all rights necessary for you to grant the licenses granted in this section, including but not limited to permission from or on behalf of any individuals that appear in the information to use, and grant to third parties such as Best Buy the right to use, their name, image, voice and/or likeness without compensation to you or any other person or entity. You further irrevocably waive any "moral rights" or other rights with respect to attribution of authorship or integrity of materials regarding information that you may have under any applicable law under any legal theory. When you share content to us, you will disclose any affiliation you have and you will not share anything that contains harmful computer code, references other websites, or is false, misleading, illegal, defamatory, libelous, hateful, racist, biased, threatening, or harassing.
 
-Notification of copyright infringement under the Digital Millennium Copyright Act (DMCA).
------------------------------------------------------------------------------------------
+Notification of copyright infringement under the Digital Millennium Copyright Act (DMCA)
+----------------------------------------------------------------------------------------
 
 If you believe that your copyrighted material may have been infringed, please provide the Best Buy Copyright Agent with the following information in writing:
 
@@ -110,41 +110,41 @@ Richfield, MN 55423
 **Fax:**  
 612-292-2323
 
-For additional information regarding this procedure, please reference 17 USC 512.
+For additional information regarding this procedure, please reference 17 U.S.C. § 512.
 
-Disclaimers and limitation of liability.
-----------------------------------------
+Disclaimers and limitation of liability
+---------------------------------------
 
 BEST BUY PROVIDES THE BEST BUY PROPERTIES AND ALL INFORMATION, CONTENT, AND OTHER MATERIAL MADE AVAILABLE THROUGH THE BEST BUY PROPERTIES ON AN “AS IS” AND “AS AVAILABLE” BASIS. WE MAKE NO REPRESENTATION OR WARRANTY THAT ANY BEST BUY PROPERTY WILL MEET YOUR REQUIREMENTS, OR THAT IT WILL BE UNINTERRUPTED, SECURE, OR ERROR FREE.
 
-ANY WARRANTY ON ANY PRODUCT SOLD THROUGH A BEST BUY PROPERTY IS PROVIDED BY THE MANUFACTURER OF THAT PRODUCT. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, BEST BUY WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ATTRIBUTABLE TO YOUR USE OF ANY BEST BUY PROPERTY OR ANY PRODUCT OR SERVICE PURCHASED THROUGH A BEST BUY PROPERTY. THE LIMITATIONS SET FORTH IN THIS SECTION WILL NOT LIMIT OR EXCLUDE LIABILITY FOR PERSONAL INJURY OR PROPERTY DAMAGE CAUSED BY PRODUCTS YOU PURCHASE THROUGH A BEST BUY PROPERTY OR BEST BUY GROSS NEGLIGENCE, INTENTIONAL, WILLFUL, RECKLESS OR MALICIOUS MISCONDUCT, OR FRAUD.
+ANY WARRANTY ON ANY PRODUCT SOLD THROUGH A BEST BUY PROPERTY IS PROVIDED BY THE MANUFACTURER OF THAT PRODUCT. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, BEST BUY WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ATTRIBUTABLE TO YOUR USE OF ANY BEST BUY PROPERTY, ANY PRODUCT OR SERVICE PURCHASED THROUGH A BEST BUY PROPERTY, OR FOR ANY INACCURATE INFORMATION GENERATED BY AI AND DISPLAYED ON THE BEST BUY PROPERTIES OR SHARED WITH YOU AS PART OF YOUR INTERACTIONS WITH THE BEST BUY PROPERTIES. THE LIMITATIONS SET FORTH IN THIS SECTION WILL NOT LIMIT OR EXCLUDE LIABILITY FOR PERSONAL INJURY OR PROPERTY DAMAGE CAUSED BY PRODUCTS YOU PURCHASE THROUGH A BEST BUY PROPERTY OR BEST BUY GROSS NEGLIGENCE, INTENTIONAL, WILLFUL, RECKLESS OR MALICIOUS MISCONDUCT, OR FRAUD.
 
-Links to third-party websites.
-------------------------------
+Links to third-party websites
+-----------------------------
 
 The Best Buy Properties contain links to other sites operated by third parties (“Third-Party Site(s)”). These links are available for your convenience and are intended only to enable access to these Third-Party Sites and for no other purpose. Best Buy does not warrant or make any representation about the substance, quality, functionality, accuracy, fitness for a particular purpose, merchantability or any other representation about any Third-Party Site or its content, products, or services. A link to a Third-Party Site on a Best Buy Property does not constitute sponsorship, endorsement, approval or responsibility for any Third-Party Site. The conditions of use and privacy policy of any Third-Party Site may differ substantially from these Terms. Please review the conditions of use for all Third-Party Sites for more information about the terms and conditions that apply to your use of Third-Party Sites.
 
-Export.
--------
+Export
+------
 
 Certain software or other materials (“Software”) that you may obtain through the Best Buy Properties may be further subject to export controls. You will comply with all applicable export and re-export restrictions, laws, and regulations, and you will not transfer, or encourage, assist, or authorize the transfer of any Software to a prohibited country or otherwise in violation of any restriction, law, or regulation.
 
-Security.
----------
+Security
+--------
 
 You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer or device. You agree to not share your account credentials with others. You may use the Best Buy Properties only for lawful purposes. Activities including, but not limited to, tampering with any Best Buy Property, misrepresenting the identity of a user, and using buying agents or conducting fraudulent activities, on the Best Buy Properties are prohibited.
 
-You may not violate or attempt to violate the security of the Best Buy Properties, including by, without limitation, (a) accessing data not intended for you or logging on to a server or an account which you are not authorized to access; (b) using any Best Buy Property for unintended purposes or trying to change the behavior of any Best Buy Property; (c) attempting to probe, scan or test the vulnerability of a system or network or breach security or authentication measures without proper authorization; (d) attempting to interfere with service to any user, host or network, including without limitation via means of submitting a virus to any Best Buy Property, overloading, “flooding,” “spamming,” “mailbombing” or “crashing”; (e) forging any TCP/IP packet header or any part of the header information in any email or newsgroup posting; or (f) forging communications on behalf of Best Buy (impersonating Best Buy) or to any Best Buy Property (impersonating as a legitimate user). You may not send unsolicited or unauthorized email on behalf of Best Buy, including promotions and/or advertising of products or services. We may prosecute you to the full extent of the law for any violation of these Terms. You may not use any device, software or routine or data to interfere or attempt to interfere with the proper working of any Best Buy Property or any activity being conducted on any Best Buy Property. You may not use or attempt to use any engine, software, tool, agent, data or other device or mechanism (including without limitation browsers, spiders, robots, avatars or intelligent agents) to navigate or search any Best Buy Property other than the search engine and search agents we provide and generally publicly available browsers.
+You may not violate or attempt to violate the security of the Best Buy Properties, including by, without limitation, (a) accessing data not intended for you or logging on to a server or an account which you are not authorized to access; (b) using any Best Buy Property for unintended purposes or trying to change the behavior of any Best Buy Property; (c) attempting to probe, scan or test the vulnerability of a system or network or breach security or authentication measures without proper authorization; (d) attempting to interfere with service to any user, host or network, including without limitation via means of submitting a virus to any Best Buy Property, overloading, “flooding,” “spamming,” “mailbombing” or “crashing”; (e) forging any TCP/IP packet header or any part of the header information in any email or newsgroup posting; or (f) forging communications on behalf of Best Buy (impersonating Best Buy) or to any Best Buy Property (impersonating as a legitimate user). You may not send unsolicited or unauthorized email on behalf of Best Buy, including promotions and/or advertising of Products. We may prosecute you to the full extent of the law for any violation of these Terms. You may not use any device, software or routine or data to interfere or attempt to interfere with the proper working of any Best Buy Property or any activity being conducted on any Best Buy Property. You may not use or attempt to use any engine, software, tool, agent, data or other device or mechanism (including without limitation browsers, spiders, robots, avatars or intelligent agents) to navigate or search any Best Buy Property other than the search engine and search agents we provide and generally publicly available browsers.
 
-Dispute resolution by binding individual arbitration.
------------------------------------------------------
+Dispute resolution by binding individual arbitration
+----------------------------------------------------
 
 ANY DISPUTE INVOLVING YOU AND BEST BUY OR ANY OF ITS AGENTS MUST BE RESOLVED THROUGH INDIVIDUAL ARBITRATION, EXCEPT AS FOLLOWS:
 
 * ANY DISPUTE FALLING WITHIN THE JURISDICTIONAL SCOPE AND AMOUNT OF AN APPROPRIATE SMALL CLAIMS COURT MUST BE BROUGHT IN SMALL CLAIMS COURT ON AN INDIVIDUAL BASIS; AND
 * ANY DISPUTE TO SEEK TO ENJOIN INFRINGEMENT OR OTHER MISUSE OF INTELLECTUAL PROPERTY RIGHTS MAY BE BROUGHT IN ANY COURT OF COMPETENT JURISDICTION.
 
-“Dispute” shall be interpreted broadly and cover any claim or controversy arising out of or relating in any way whatsoever to your relationship or interaction with Best Buy, its agents, and its present and future subsidiaries, affiliates, and designees – including, but not limited to, GreatCall, Lively™, Geek Squad®, Magnolia®, and Pacific Sales® – whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory. Examples of relationships or interactions giving rise to a covered claim include, without limitation: (1) your use of Best Buy’s websites; (2) your membership in any Best Buy loyalty or rewards program (e.g., My Best Buy®) or subscription-based services (e.g., Best Buy Totaltech™); (3) your receipt of delivery, repair or installation services or consultation services provided by Best Buy or its agents; (4) any communications between you and Best Buy; (5) application for financing; and/or (6) your purchase of products or services offered, sold, or distributed by Best Buy including, but not limited to, any Dispute arising from the advertising of, or the sales practices related to, such products and services. If you are a My Best Buy® member, Dispute shall also include all disputes that arose before your enrollment in, and after the cancellation or termination of, the My Best Buy® program, including any claims that are the subject of a purported class action litigation.
+“Dispute” shall be interpreted broadly and cover any claim or controversy arising out of or relating in any way whatsoever to your relationship or interaction with Best Buy, its agents, and its present and future subsidiaries, affiliates, and designees – including, but not limited to, GreatCall, Lively™, Geek Squad®, Magnolia®, and Pacific Sales® – whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory. Examples of relationships or interactions giving rise to a covered claim include, without limitation: (1) your use of Best Buy’s websites; (2) your membership in any Best Buy loyalty or rewards program (e.g., My Best Buy®) or subscription-based services (e.g., My Best Buy Plus™ or My Best Buy Total™); (3) your receipt of delivery, repair or installation services or consultation services provided by Best Buy or its agents; (4) any communications between you and Best Buy; (5) application for financing; and/or (6) your purchase of Products offered, sold, or distributed by Best Buy including, but not limited to, any Dispute arising from the advertising of, or the sales practices related to, such Products. If you are a My Best Buy® member, Dispute shall also include all disputes that arose before your enrollment in, and after the cancellation or termination of, the My Best Buy® program, including any claims that are the subject of a purported class action litigation.
 
 BY AGREEING TO ARBITRATION, YOU UNDERSTAND AND AGREE THAT YOU ARE WAIVING YOUR RIGHT TO MAINTAIN OTHER AVAILABLE RESOLUTION PROCESSES, SUCH AS A COURT ACTION OR ADMINISTRATIVE PROCEEDING, TO SETTLE DISPUTES. THE RULES IN ARBITRATION ARE DIFFERENT. THERE IS NO JUDGE OR JURY, LESS DISCOVERY, AND LIMITED APPELLATE REVIEW. ARBITRATORS CAN AWARD THE SAME DAMAGES AND RELIEF THAT A COURT CAN AWARD.
 
@@ -166,13 +166,13 @@ If for any reason a claim may proceed in court rather than in arbitration, WE EA
 
 This dispute resolution provision shall be governed by the Federal Arbitration Act. It shall survive any termination or cancellation of, or your participation in, any membership programs or subscription services and your relationship with Best Buy. Any amendments to this dispute resolution provision shall not affect any then active or pending arbitration proceeding.
 
-Applicable law.
----------------
+Applicable law
+--------------
 
 THE FEDERAL ARBITRATION ACT AND APPLICABLE FEDERAL LAW (OR IN THE ABSENCE OF APPLICABLE FEDERAL LAW, THEN THE LAWS OF THE STATE OF MINNESOTA), WITHOUT REGARD TO PRINCIPLES OF CONFLICT OF LAWS, WILL GOVERN THESE TERMS AND APPLY TO ANY DISPUTES AGAINST BEST BUY.
 
-Additional policies.
---------------------
+Additional policies
+-------------------
 
 The following policies also govern your use of the Best Buy Properties and are incorporated by reference into the Terms:
 
@@ -184,13 +184,13 @@ The following policies also govern your use of the Best Buy Properties and are i
 * [Services, Plans & Subscriptions](https://www.bestbuy.com/services/plans/termsconditions.html)
 * [Special Offers & Digital Coupons](https://www.bestbuy.com/site/Help-Topics/Special-Offers-and-Digital-Coupons/pcmcat204400050009.c?id=pcmcat204400050009)
 
-Termination of use.
--------------------
+Termination of use
+------------------
 
 We may, in our sole discretion, terminate your account or your use of the Best Buy Properties at any time. You are personally liable for any orders that you place or charges that you incur prior to termination. We may change, suspend or discontinue all or any aspects of any Best Buy Property at any time without prior notice.
 
-Use of the Best Buy Properties.
--------------------------------
+Use of the Best Buy Properties
+------------------------------
 
 You may use the Best Buy Properties for your personal, noncommercial use only. You may not use any Best Buy Property if you are under the age of 13. If you are between the ages of 13 and 18, you may use the Best Buy Properties only with involvement of a parent or guardian.
 
