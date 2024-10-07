@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/robert-kennedy-vermoord-via-mind-control-actie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/ik-ben-gek-maar-dat-zijn-we-toch-allemaal/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
