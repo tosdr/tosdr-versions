@@ -2,13 +2,13 @@
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-20% off Filet Mignon [save](https://porterroad.com/products/filet-mignon)
+20% off Tri-tip [save](https://porterroad.com/products/tri-tip)
 
 Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-20% off Filet Mignon [save](https://porterroad.com/products/filet-mignon)
+20% off Tri-tip [save](https://porterroad.com/products/tri-tip)
 
 Invest in Porter Road [Learn more](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=tippy&utm_campaign=launch)
 
@@ -413,6 +413,6 @@ Details
 
 Orders $125+ are eligible for Flat Rate Shipping, see map below for your state’s rate.
 
-![](//porterroad.com/cdn/shop/files/SHIPPING_MAP_V6.png?v=1684496730)
+![](//porterroad.com/cdn/shop/files/SHIPPING_MAP_V8.png?v=1728301348)
 
 [Let's Eat!](#)
