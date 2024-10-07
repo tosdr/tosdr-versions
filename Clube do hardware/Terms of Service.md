@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_367069491_menu)
+ [Compartilhar](#elShareItem_1450103505_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_2058951267_menu)
+ [Compartilhar](#elShareItem_1375071031_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Toyzin12](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b662c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1104781-toyzin12/ "Ir ao perfil de Toyzin12")
+    * [![thzinn](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1238734.thumb.jpeg.684c6f52f3446fb8b14d1ff8c0bedeba.jpeg)](https://www.clubedohardware.com.br/profile/1238734-thzinn/ "Ir ao perfil de thzinn")
         
         0
+        
+        [Quero sugestões para upgrade do meu pc](https://www.clubedohardware.com.br/forums/topic/1699078-quero-sugest%C3%B5es-para-upgrade-do-meu-pc/?do=getNewComment "Quero sugestões para upgrade do meu pc")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [thzinn](https://www.clubedohardware.com.br/profile/1238734-thzinn/ "Ir ao perfil de thzinn")  
+        2 horas atrás
+        
+    * [![samuraisemcoque](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254131.thumb.png.35512cbc49ec01df8fe8221fcfb5c050.png)](https://www.clubedohardware.com.br/profile/1254131-samuraisemcoque/ "Ir ao perfil de samuraisemcoque")
+        
+        0
+        
+        [Upgrade de GPU Nova](https://www.clubedohardware.com.br/forums/topic/1699077-upgrade-de-gpu-nova/?do=getNewComment "Upgrade de GPU Nova")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [samuraisemcoque](https://www.clubedohardware.com.br/profile/1254131-samuraisemcoque/ "Ir ao perfil de samuraisemcoque")  
+        3 horas atrás
+        
+    * [![Mathias do Nascimento](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1246501.thumb.jpeg.d5784ca0aa154446df457f628152c2e5.jpeg)](https://www.clubedohardware.com.br/profile/1246501-mathias-do-nascimento/ "Ir ao perfil de Mathias do Nascimento")
+        
+        0
+        
+        [Ryzen 5 4500 empurra até qual placa de vídeo sem sofrer?](https://www.clubedohardware.com.br/forums/topic/1699076-ryzen-5-4500-empurra-at%C3%A9-qual-placa-de-v%C3%ADdeo-sem-sofrer/?do=getNewComment "Ryzen 5 4500 empurra até qual placa de vídeo sem sofrer?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Mathias do Nascimento](https://www.clubedohardware.com.br/profile/1246501-mathias-do-nascimento/ "Ir ao perfil de Mathias do Nascimento")  
+        3 horas atrás
+        
+    * [![DonCorleone](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/wp12091224-bills-dbz-wallpapers.thumb.jpg.2ccd1da8fdf7283a5d11f9a32f811d46.jpg)](https://www.clubedohardware.com.br/profile/1241368-doncorleone/ "Ir ao perfil de DonCorleone")
+        
+        0
+        
+        [Essa configuração da pra fazer live /jogos](https://www.clubedohardware.com.br/forums/topic/1699075-essa-configura%C3%A7%C3%A3o-da-pra-fazer-live-jogos/?do=getNewComment "Essa configuração da pra fazer live /jogos")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [DonCorleone](https://www.clubedohardware.com.br/profile/1241368-doncorleone/ "Ir ao perfil de DonCorleone")  
+        3 horas atrás
+        
+    * [![yJpbrr](https://www.clubedohardware.com.br/uploads/members/monthly_2024_04/images(2)(18).thumb.jpeg.07124b4b6655ce105844b9e834d330f8.jpeg)](https://www.clubedohardware.com.br/profile/1209004-yjpbrr/ "Ir ao perfil de yJpbrr")
+        
+        1
+        
+        [Qual dessas 3 placas de vídeo é melhor?](https://www.clubedohardware.com.br/forums/topic/1699074-qual-dessas-3-placas-de-v%C3%ADdeo-%C3%A9-melhor/?do=getNewComment "Qual dessas 3 placas de vídeo é melhor?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [yJpbrr](https://www.clubedohardware.com.br/profile/1209004-yjpbrr/ "Ir ao perfil de yJpbrr")  
+        3 horas atrás
+        
+    * [![RonanPizzato](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254129.thumb.png.46a49180c5ca986f96339d259ced1ff7.png)](https://www.clubedohardware.com.br/profile/1254129-ronanpizzato/ "Ir ao perfil de RonanPizzato")
+        
+        0
+        
+        [não CONSIGO SAIR DA BIOS](https://www.clubedohardware.com.br/forums/topic/1699073-n%C3%A3o-consigo-sair-da-bios/?do=getNewComment "não CONSIGO SAIR DA BIOS")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [RonanPizzato](https://www.clubedohardware.com.br/profile/1254129-ronanpizzato/ "Ir ao perfil de RonanPizzato")  
+        4 horas atrás
+        
+    * [![behelipe](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254128.thumb.png.b494b2fa6de26d39c2dee73ac8af0b58.png)](https://www.clubedohardware.com.br/profile/1254128-behelipe/ "Ir ao perfil de behelipe")
+        
+        4
+        
+        [SSD NVMe com gravação e leitura baixa](https://www.clubedohardware.com.br/forums/topic/1699072-ssd-nvme-com-grava%C3%A7%C3%A3o-e-leitura-baixa/?do=getNewComment "SSD NVMe com gravação e leitura baixa")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [behelipe](https://www.clubedohardware.com.br/profile/1254128-behelipe/ "Ir ao perfil de behelipe")  
+        4 horas atrás
+        
+    * [![Sun.](https://www.clubedohardware.com.br/uploads/members/monthly_2019_09/41fcC37cUWL._SX466_.thumb.jpg.8fa37a2c03bbb592ab9792f71babc797.jpg)](https://www.clubedohardware.com.br/profile/1029311-sun/ "Ir ao perfil de Sun.")
+        
+        0
+        
+        [Recomendação de Processador para b450](https://www.clubedohardware.com.br/forums/topic/1699071-recomenda%C3%A7%C3%A3o-de-processador-para-b450/?do=getNewComment "Recomendação de Processador para b450")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Sun.](https://www.clubedohardware.com.br/profile/1029311-sun/ "Ir ao perfil de Sun.")  
+        4 horas atrás
+        
+    * [![Toyzin12](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b662c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1104781-toyzin12/ "Ir ao perfil de Toyzin12")
+        
+        3
         
         [Windows não inicia nem no HD, nem instala no SSD](https://www.clubedohardware.com.br/forums/topic/1699069-windows-n%C3%A3o-inicia-nem-no-hd-nem-instala-no-ssd/?do=getNewComment "Windows não inicia nem no HD, nem instala no SSD")
         
         [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
         Por [Toyzin12](https://www.clubedohardware.com.br/profile/1104781-toyzin12/ "Ir ao perfil de Toyzin12")  
-        56 minutos atrás
+        6 horas atrás
         
     * [![JoaoKleberFidelidade100](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/nogooning.thumb.jpg.9649384c0584eb1affefd8e9b6bc5638.jpg)](https://www.clubedohardware.com.br/profile/1254091-joaokleberfidelidade100/ "Ir ao perfil de JoaoKleberFidelidade100")
         
-        0
+        1
         
         [Vale a pena comprar esse tipo de peças no paraguai?](https://www.clubedohardware.com.br/forums/topic/1699068-vale-a-pena-comprar-esse-tipo-de-pe%C3%A7as-no-paraguai/?do=getNewComment "Vale a pena comprar esse tipo de peças no paraguai?")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
         Por [JoaoKleberFidelidade100](https://www.clubedohardware.com.br/profile/1254091-joaokleberfidelidade100/ "Ir ao perfil de JoaoKleberFidelidade100")  
-        1 hora atrás
-        
-    * [![BHSl255](https://www.clubedohardware.com.br/uploads/members/monthly_2023_01/imported-photo-1194528.thumb.png.fb1daea09b799a164e3761eeee8deb61.png)](https://www.clubedohardware.com.br/profile/1194528-bhsl255/ "Ir ao perfil de BHSl255")
-        
-        0
-        
-        [Resetar nível de tinta sem o botão cancelar da Epson L355.](https://www.clubedohardware.com.br/forums/topic/1699067-resetar-n%C3%ADvel-de-tinta-sem-o-bot%C3%A3o-cancelar-da-epson-l355/?do=getNewComment "Resetar nível de tinta sem o botão cancelar da Epson L355.")
-        
-        [Impressoras, scanners e multifuncionais](https://www.clubedohardware.com.br/forums/forum/27-impressoras-scanners-e-multifuncionais/ "Impressoras, scanners e multifuncionais")  
-        Por [BHSl255](https://www.clubedohardware.com.br/profile/1194528-bhsl255/ "Ir ao perfil de BHSl255")  
-        1 hora atrás
-        
-    * [![Vitor Ventura](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1243200.thumb.jpeg.3e20bd78eb017bed557ec60ef1376b6e.jpeg)](https://www.clubedohardware.com.br/profile/1243200-vitor-ventura/ "Ir ao perfil de Vitor Ventura")
-        
-        1
-        
-        [placa de Vídeo para combinar com Ryzen 5 4650G PRO](https://www.clubedohardware.com.br/forums/topic/1699065-placa-de-v%C3%ADdeo-para-combinar-com-ryzen-5-4650g-pro/?do=getNewComment "placa de Vídeo para combinar com Ryzen 5 4650G PRO")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Vitor Ventura](https://www.clubedohardware.com.br/profile/1243200-vitor-ventura/ "Ir ao perfil de Vitor Ventura")  
-        1 hora atrás
-        
-    * [![Vitor Ventura](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1243200.thumb.jpeg.3e20bd78eb017bed557ec60ef1376b6e.jpeg)](https://www.clubedohardware.com.br/profile/1243200-vitor-ventura/ "Ir ao perfil de Vitor Ventura")
-        
-        1
-        
-        [Memória DDR4 Hikvision U10, 8GB 3200MHz é boa?](https://www.clubedohardware.com.br/forums/topic/1699063-mem%C3%B3ria-ddr4-hikvision-u10-8gb-3200mhz-%C3%A9-boa/?do=getNewComment "Memória DDR4 Hikvision U10, 8GB 3200MHz é boa?")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Vitor Ventura](https://www.clubedohardware.com.br/profile/1243200-vitor-ventura/ "Ir ao perfil de Vitor Ventura")  
-        1 hora atrás
-        
-    * [![EDU.ALVEZ](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254118.thumb.png.cffa50a75006dd0803bd41c508653088.png)](https://www.clubedohardware.com.br/profile/1254118-edualvez/ "Ir ao perfil de EDU.ALVEZ")
-        
-        3
-        
-        [Placa-mãe ASUS B450M Gaming/BR suporta o AMD Ryzen 7 5700X?](https://www.clubedohardware.com.br/forums/topic/1699061-placa-m%C3%A3e-asus-b450m-gamingbr-suporta-o-amd-ryzen-7-5700x/?do=getNewComment "Placa-mãe ASUS B450M Gaming/BR suporta o AMD Ryzen 7 5700X?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [EDU.ALVEZ](https://www.clubedohardware.com.br/profile/1254118-edualvez/ "Ir ao perfil de EDU.ALVEZ")  
-        2 horas atrás
-        
-    * [![DaniloR](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/imported-photo-1169355.thumb.png.d3b484a8131fe513f315a360f2defb3a.png)](https://www.clubedohardware.com.br/profile/1169355-danilor/ "Ir ao perfil de DaniloR")
-        
-        6
-        
-        [Vale R$5.000,00?: Danuri B550M-PX, Ryzen 5 5600X, 16GB e RTX 4060Ti](https://www.clubedohardware.com.br/forums/topic/1699060-vale-r500000-danuri-b550m-px-ryzen-5-5600x-16gb-e-rtx-4060ti/?do=getNewComment "Vale R$5.000,00?: Danuri B550M-PX, Ryzen 5 5600X, 16GB e RTX 4060Ti")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [DaniloR](https://www.clubedohardware.com.br/profile/1169355-danilor/ "Ir ao perfil de DaniloR")  
-        3 horas atrás
-        
-    * [![Gustavo_575.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254121.thumb.png.83fb8e948c3f4204bbe7a5f720a58387.png)](https://www.clubedohardware.com.br/profile/1254121-gustavo_575/ "Ir ao perfil de Gustavo_575.")
-        
-        4
-        
-        [Upgrade para TUF B550, Ryzen 7 5700X/5800X e 32GB vale à pena?](https://www.clubedohardware.com.br/forums/topic/1699059-upgrade-para-tuf-b550-ryzen-7-5700x5800x-e-32gb-vale-%C3%A0-pena/?do=getNewComment "Upgrade para TUF B550, Ryzen 7 5700X/5800X e 32GB vale à pena?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Gustavo\_575.](https://www.clubedohardware.com.br/profile/1254121-gustavo_575/ "Ir ao perfil de Gustavo_575.")  
-        4 horas atrás
-        
-    * [![D4RK_S0RC3R3R](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/imported-photo-1236653.thumb.png.bf8a93188d211647d8c87c43b0886840.png)](https://www.clubedohardware.com.br/profile/1236653-d4rk_s0rc3r3r/ "Ir ao perfil de D4RK_S0RC3R3R")
-        
-        1
-        
-        [Como funciona os Intel desbloqueado (k)](https://www.clubedohardware.com.br/forums/topic/1699058-como-funciona-os-intel-desbloqueado-k/?do=getNewComment "Como funciona os Intel desbloqueado (k)")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [D4RK\_S0RC3R3R](https://www.clubedohardware.com.br/profile/1236653-d4rk_s0rc3r3r/ "Ir ao perfil de D4RK_S0RC3R3R")  
-        4 horas atrás
-        
-    * [![FelipeGalveira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1241519.thumb.jpeg.1ec93ab79003443705abb1ac9650b820.jpeg)](https://www.clubedohardware.com.br/profile/1241519-felipegalveira/ "Ir ao perfil de FelipeGalveira")
-        
-        1
-        
-        [O sensor RFID ativa a minha trava eletrônica uma vez, e depois para de ativá-la](https://www.clubedohardware.com.br/forums/topic/1699057-o-sensor-rfid-ativa-a-minha-trava-eletr%C3%B4nica-uma-vez-e-depois-para-de-ativ%C3%A1-la/?do=getNewComment "O sensor RFID ativa a minha trava eletrônica uma vez, e depois para de ativá-la")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [FelipeGalveira](https://www.clubedohardware.com.br/profile/1241519-felipegalveira/ "Ir ao perfil de FelipeGalveira")  
-        4 horas atrás
+        7 horas atrás
         
     
 
@@ -623,5 +623,11 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 [×](#)
 
 * Criar novo...
+
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+
+**EBOOK GRÁTIS!**
+
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
