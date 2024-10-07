@@ -26,14 +26,6 @@ Learn more about the newly finalized regulations and how to prepare
     
     [Contact Sales](https://www.taxbit.com/schedule-a-demo)
     
-    ![Tax Help Center​](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    [Tax Help Center​](https://taxbitsupport.zendesk.com/hc/en-us/categories/25452765315085-Enterprise-Tax)
-    
-    ![Accounting Help Center](https://www.taxbit.com/wp-content/uploads/2024/05/Group-1.png)
-    
-    [Accounting Help Center](https://taxbitsupport.zendesk.com/hc/en-us/categories/25452573764109-TaxBit-Accounting-Suite)
-    
     [Developer Docs](https://apidocs.taxbit.com/docs/getting-started)
     
     [Integrations](https://taxbit.com/products/integrations/)
@@ -375,8 +367,6 @@ Products
 
 * [Enterprise Tax](https://www.taxbit.com/products/enterprise-tax/)
 * [Enterprise Accounting](https://www.taxbit.com/products/enterprise-accounting/)
-* [Tax Help Center](https://taxbitsupport.zendesk.com/hc/en-us/categories/25452765315085-Enterprise-Tax)
-* [Accounting Help Center](https://taxbitsupport.zendesk.com/hc/en-us/categories/25452573764109-TaxBit-Accounting-Suite)
 * [Developer Docs](https://apidocs.taxbit.com/docs/getting-started)
 * [Integrations](https://www.taxbit.com/products/integrations/)
 * [API Reference](https://apidocs.taxbit.com/reference/auth-token)
