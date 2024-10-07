@@ -112,7 +112,6 @@ Full Menu Menu
     
     * General
         * [Academic and Career Plans](https://www.fcps.edu/academics/graduation-requirements-and-course-planning/academic-career-plan)
-        * [College & Career Planning](https://www.fcps.edu/family-resources/college-and-career-planning)
         * [Course Catalogs](https://www.fcps.edu/academics/coursecatalogs)
         * [Grading & Reporting](https://www.fcps.edu/academics/grading-reporting)
         * [Graduation Requirements](https://www.fcps.edu/academics/graduation-requirements-0)
@@ -120,17 +119,19 @@ Full Menu Menu
         * [Student Tests & Assessments](https://www.fcps.edu/academics/student-tests-assessments)
         * [Summer Learning](https://www.fcps.edu/academics/summer-learning-0)
     * [Curriculum](https://www.fcps.edu/academics/curriculum)
-        * [Subject Areas](https://www.fcps.edu/curriculum-subject-areas)
         * [Early Childhood Education](https://www.fcps.edu/academics/curriculum/early-childhood-education-0)
         * [Elementary School (K-6)](https://www.fcps.edu/academics/elementary)
         * [Secondary (7-12)](https://www.fcps.edu/academics/curriculum/middle-and-high-school-grades-7-12)
-    * Academic Programs
-        * [Advanced Academic Programs (AAP)](https://www.fcps.edu/academics/academic-overview/advanced-academic-programs)
-        * [Multilingual Learners (previously ESOL)](https://www.fcps.edu/academics/academic-overview/english-speakers-other-languages-esol)
-        * [Alternative and Nontraditional Schools](https://www.fcps.edu/academics/alternative-and-nontraditional-schools)
-        * [Adult and Community Education (ACE)](https://www.fcps.edu/academics/adult-and-community-education-ace-overview)
-        * [Multi-tiered Systems of Support/Responsive Instruction](https://www.fcps.edu/academics/multi-tiered-systems-supportresponsive-instruction)
         * [Special Education](https://www.fcps.edu/special-education-instruction)
+        * [Subject Areas](https://www.fcps.edu/curriculum-subject-areas)
+    * Academic Programs
+        * [Academies and Specialized Programs](https://www.fcps.edu/academics/high/career-and-technical-education/academies-and-specialized-programs)
+        * [Adult and Community Education (ACE)](https://www.fcps.edu/academics/adult-and-community-education-ace-overview)
+        * [Advanced Academic Programs (AAP)](https://www.fcps.edu/academics/academic-overview/advanced-academic-programs)
+        * [Alternative and Nontraditional Schools](https://www.fcps.edu/academics/alternative-and-nontraditional-schools)
+        * [Career and Technical Education (CTE)](https://www.fcps.edu/academics/career-and-technical-education-cte)
+        * [Multilingual Learners (previously ESOL)](https://www.fcps.edu/academics/academic-overview/english-speakers-other-languages-esol)
+        * [Multi-tiered Systems of Support/Responsive Instruction](https://www.fcps.edu/academics/multi-tiered-systems-supportresponsive-instruction)
     
 * Get Involved
     
@@ -187,11 +188,10 @@ Full Menu Menu
         * [The FCPS Brand](https://www.fcps.edu/brand)
         * [Web Privacy Policy](https://www.fcps.edu/about-fcps/policies-regulations-and-notices/web-privacy-policy)
     * FCPS News
-        * [News You Choose](https://www.fcps.edu/family-resources/family-communication-resources/news-you-choose)
         * [News](https://www.fcps.edu/news "News")
-        * [Livestreams and TV Guide](https://www.fcps.edu/livestreams-and-tv-guide)
         * [Newsletters](https://www.fcps.edu/newsletters)
-        * [Science How? Webcasts](https://www.fcps.edu/node/31482)
+        * [News You Choose](https://www.fcps.edu/family-resources/family-communication-resources/news-you-choose)
+        * [Livestreams and TV Guide](https://www.fcps.edu/livestreams-and-tv-guide)
     
 
 Breadcrumb
