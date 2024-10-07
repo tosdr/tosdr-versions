@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[The State of Illinois has launched a public safety ![The State of Illinois has launched a public safety campaign, “Fake Dentist, Real Risk,” following a shocking report on unlicensed dental practitioners. The campaign aims to raise awareness about the serious risks posed by fake oral health professionals and prevent further harm to unsuspecting patients. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAyXRV0NL7g/) 
+
 [It’s no secret that dentistry has faced a drasti ![It’s no secret that dentistry has faced a drastic staffing shortage since the onset of the COVID-19 pandemic. The American Dental Association reported in 2022 that vacant positions in dental assisting and hygiene have reduced dental practice capacity by an estimated 10% nationally.⁠
 ⁠
 In this episode of The Art of Dental Finance and Management,” Art is joined by Holli Perez for a conversation about dental staffing. From crafting a successful job advertisement to building an effective onboarding process, Holli shares advice for attracting, hiring, and retaining new employees at every level — as well as some of the most common recruiting mistakes she sees in dental practices.⁠
@@ -220,13 +227,6 @@ Listen via the link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAlfUHaNLvF/) 
-
-[The Dentist and Dental Hygienist Compact Commissio ![The Dentist and Dental Hygienist Compact Commission held its inaugural meeting on August 28, setting the stage for interstate license portability. While no final decisions were made, the groundwork was laid for future rulemaking, officer elections, and the implementation of a shared data system expected to streamline multi-state practice by fall 2025. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAi6hvyPsvY/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
