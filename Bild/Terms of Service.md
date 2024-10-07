@@ -205,28 +205,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-SPD-Beben: Generalsekretär Kevin Kühnert (35) tritt zurück
-
-SPD-Beben: Generalsekretär Kevin Kühnert (35) tritt zurück
-
-SPD-Beben: Generalsekretär Kevin Kühnert (35) tritt zurück
-
-SPD-Beben: Generalsekretär Kevin Kühnert (35) tritt zurück
-
-SPD-Beben: Generalsekretär Kevin Kühnert (35) tritt zurück
-
-SPD-Beben: Generalsekretär Kevin Kühnert (35) tritt zurück
-
-SPD-Beben: Generalsekretär Kevin Kühnert (35) tritt zurück
-
-SPD-Beben: Generalsekretär Kevin Kühnert (35) tritt zurück
-
-SPD-Beben: Generalsekretär Kevin Kühnert (35) tritt zurück
-
-SPD-Beben: Generalsekretär Kevin Kühnert (35) tritt zurück](https://www.bild.de/politik/spd-beben-kevin-kuehnert-tritt-zurueck-6703c8bb5a2a233671d00973)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
