@@ -1,3 +1,7 @@
+New Mailvelope for Nextcloud! [Learn more](https://mailvelope.com/nextcloud)
+
+×
+
 [![Mailvelope Logo](/img/Mailvelope/logo.svg)](https://www.mailvelope.com/)
 
 * [Home](https://mailvelope.com/en/)
