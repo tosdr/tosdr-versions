@@ -1,4 +1,4 @@
-[![UK Safer Internet Centre](https://saferinternet.org.uk/wp-content/themes/safer-internet/public/logo.svg "UK Safer Internet Centre")](https://saferinternet.org.uk/)
+[![UK Safer Internet Centre](/wp-content/themes/safer-internet/public/logo.svg "UK Safer Internet Centre")](https://saferinternet.org.uk/)
 
 * [Online issues](https://saferinternet.org.uk/online-issues)
     * [Coerced online child sexual abuse](https://saferinternet.org.uk/online-issue/coerced-online-child-sexualabuse)
