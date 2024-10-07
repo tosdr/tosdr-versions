@@ -259,30 +259,33 @@ Advertise with Us
 
 Most Popular
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
 
-Derry City fans celebrate at Dalymount Park. Pics by Stephen McCarthy/ Sportsfile
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Derry Death Notices - Monday, October 7 2024](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-[IN PICTURES: Derry City celebrations at Dalymount Park](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![A5 road closure: Murder investigation launched following death of man in Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A5 road closure: Murder investigation launched following death of man in Strabane")](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
 
-[![Faughanvale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
+[Local News](https://www.derrynow.com/section/975/news)
 
-The Faughanvale team line up before the game. Pic by Tom Heaney, nwpresspics
+[A5 road closure: Murder investigation launched following death of man in Strabane](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[![A5 Road between Ballymagorry and Strabane remains closed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A5 Road between Ballymagorry and Strabane remains closed")](https://www.derrynow.com/news/local-news/1623582/a5-road-between-ballymagorry-and-strabane-remains-closed.html)
 
-[Faughanvale pay tribute to club legend Joe Cassidy with victory over Castledawson](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![WATCH: Children In Crossfire (1974)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Children In Crossfire (1974)")](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
+[A5 Road between Ballymagorry and Strabane remains closed](https://www.derrynow.com/news/local-news/1623582/a5-road-between-ballymagorry-and-strabane-remains-closed.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[![High levels of air pollution found at three Derry locations in a new report](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "High levels of air pollution found at three Derry locations in a new report")](https://www.derrynow.com/news/derry-news/1623521/high-levels-of-air-pollution-found-at-three-derry-locations-in-a-new-report.html)
 
-[WATCH: 'Children In Crossfire' documentary from Derry's Creggan Eestate (1974)](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[High levels of air pollution found at three Derry locations in a new report](https://www.derrynow.com/news/derry-news/1623521/high-levels-of-air-pollution-found-at-three-derry-locations-in-a-new-report.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Glen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glen")](https://www.derrynow.com/news/derry-sport/1623137/stoppage-time-point-edges-champions-glen-into-the-last-four.html)
 
@@ -293,12 +296,35 @@ Glen's Ethan Doherty celebrates his goal against Lavey Derry Senior Football Cha
 [Stoppage time point edges champions Glen into the last four](https://www.derrynow.com/news/derry-sport/1623137/stoppage-time-point-edges-champions-glen-into-the-last-four.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
+[![Leading Derry republican facing two charges linked to dissident republican parade returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Leading Derry republican facing two charges linked to dissident republican parade returned for trial")](https://www.derrynow.com/news/local-news/1623610/leading-derry-republican-facing-two-charges-linked-to-dissident-republican-parade-returned-for-trial.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Death Notices - Monday, October 7 2024](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------
+[Leading Derry republican facing two charges linked to dissident republican parade returned for trial](https://www.derrynow.com/news/local-news/1623610/leading-derry-republican-facing-two-charges-linked-to-dissident-republican-parade-returned-for-trial.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged with number of domestic offences appears at Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with number of domestic offences appears at Derry court")](https://www.derrynow.com/news/local-news/1623664/man-charged-with-number-of-domestic-offences-appears-at-derry-court.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged with number of domestic offences appears at Derry court](https://www.derrynow.com/news/local-news/1623664/man-charged-with-number-of-domestic-offences-appears-at-derry-court.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man who man sexually assaulted a female in Altnagelvin Hospital to be sentenced in December](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who man sexually assaulted a female in Altnagelvin Hospital to be sentenced in December")](https://www.derrynow.com/news/local-news/1623722/derry-man-who-sexually-assaulted-a-female-in-altnagelvin-hospital-to-be-sentenced-in-december.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man who sexually assaulted a female in Altnagelvin Hospital to be sentenced in December](https://www.derrynow.com/news/local-news/1623722/derry-man-who-sexually-assaulted-a-female-in-altnagelvin-hospital-to-be-sentenced-in-december.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner")](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Banagher](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Banagher")](https://www.derrynow.com/news/derry-sport/1623140/banagher-hold-off-eoghan-rua-fightback-to-make-intermediate-championship-semi-finals.html)
 
@@ -309,43 +335,34 @@ Eoghan Rua’s Ciaran McGoldrick and Banagher’s Tiernan Moore. Photo: George S
 [Banagher hold off Eoghan Rua fightback to make Intermediate Championship semi-finals](https://www.derrynow.com/news/derry-sport/1623140/banagher-hold-off-eoghan-rua-fightback-to-make-intermediate-championship-semi-finals.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1623010/300-up-for-patrick-mceleney-as-you-get-older-it-gets-even-more-special.html)
-
-Patrick McEleney celebrates Derry City's second goal against Bohemians. Pic by Ben McShane/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[300 up for Patrick McEleney! - 'As you get older, it gets even more special'](https://www.derrynow.com/news/derry-sport/1623010/300-up-for-patrick-mceleney-as-you-get-older-it-gets-even-more-special.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![More than a third of people in Ireland stressed in daily lives](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "More than a third of people in Ireland stressed in daily lives")](https://www.derrynow.com/news/northern-ireland/1623054/more-than-a-third-of-people-in-ireland-stressed-in-daily-lives.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[More than a third of people in Ireland stressed in daily lives](https://www.derrynow.com/news/northern-ireland/1623054/more-than-a-third-of-people-in-ireland-stressed-in-daily-lives.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![More than 70m euro funding awarded to projects targeting health inequality](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "More than 70m euro funding awarded to projects targeting health inequality")](https://www.derrynow.com/news/northern-ireland/1623037/more-than-70m-euro-funding-awarded-to-projects-targeting-health-inequality.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[More than 70m euro funding awarded to projects targeting health inequality](https://www.derrynow.com/news/northern-ireland/1623037/more-than-70m-euro-funding-awarded-to-projects-targeting-health-inequality.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Planting projects encourages Derry community groups to apply for trees](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Planting projects encourages Derry community groups to apply for trees")](https://www.derrynow.com/news/local-news/1621968/planting-project-encourages-derry-community-groups-to-apply-for-trees.html)
-
-SuperValu and Centra Brand Communications Manager Carol Marshall visits Declan McCann, who planted 275 trees and hedgerows in a nearby smallholding, to provide a haven and shelter for wildlife
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Planting project encourages Derry community groups to apply for trees](https://www.derrynow.com/news/local-news/1621968/planting-project-encourages-derry-community-groups-to-apply-for-trees.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal")](https://www.derrynow.com/news/pictures---videos/1623812/pictures-all-smiles-as-st-joseph-s-boys-school-celebrate-annual-formal.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal](https://www.derrynow.com/news/pictures---videos/1623812/pictures-all-smiles-as-st-joseph-s-boys-school-celebrate-annual-formal.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner")](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
+
+Derry City fans celebrate at Dalymount Park. Pics by Stephen McCarthy/ Sportsfile
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[IN PICTURES: Derry City celebrations at Dalymount Park](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![WATCH: Children In Crossfire (1974)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Children In Crossfire (1974)")](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
 
@@ -395,27 +412,6 @@ Multimedia
 
 [IN PICTURES: St. Joseph’s awarded ‘Enterprising School 2023-24’ Award!](https://www.derrynow.com/story-telling/pictures---videos/1618959/in-pictures-st-josephs-awarded-enterprising-school-2023-24-award.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Oakgrove Integrated College senior prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Oakgrove Integrated College senior prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1618958/in-pictures-oakgrove-integrated-college-senior-prizegiving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Oakgrove Integrated College senior prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1618958/in-pictures-oakgrove-integrated-college-senior-prizegiving.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Prizegiving at St Colm's High School, Draperstown](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Prizegiving at St Colm's High School, Draperstown")](https://www.derrynow.com/story-telling/pictures---videos/1618439/in-pictures-prizegiving-at-st-colm-s-high-school-draperstown.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Prizegiving at St Colm's High School, Draperstown](https://www.derrynow.com/story-telling/pictures---videos/1618439/in-pictures-prizegiving-at-st-colm-s-high-school-draperstown.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Tommy McGuigan Memorial Camogie Blitz](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Tommy McGuigan Memorial Camogie Blitz")](https://www.derrynow.com/story-telling/pictures---videos/1618846/in-pictures-tommy-mcguigan-memorial-camogie-blitz.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Tommy McGuigan Memorial Camogie Blitz](https://www.derrynow.com/story-telling/pictures---videos/1618846/in-pictures-tommy-mcguigan-memorial-camogie-blitz.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,57 +513,47 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, October 7 2024](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Planting projects encourages Derry community groups to apply for trees](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Planting projects encourages Derry community groups to apply for trees")](https://www.derrynow.com/news/local-news/1621968/planting-project-encourages-derry-community-groups-to-apply-for-trees.html)
-
-SuperValu and Centra Brand Communications Manager Carol Marshall visits Declan McCann, who planted 275 trees and hedgerows in a nearby smallholding, to provide a haven and shelter for wildlife
+[![Derry man charged with possessing a AKM rifle granted bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing a AKM rifle granted bail")](https://www.derrynow.com/news/local-news/1623705/derry-man-charged-with-possessing-a-akm-rifle-granted-bail.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Planting project encourages Derry community groups to apply for trees](https://www.derrynow.com/news/local-news/1621968/planting-project-encourages-derry-community-groups-to-apply-for-trees.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man charged with possessing a AKM rifle granted bail](https://www.derrynow.com/news/local-news/1623705/derry-man-charged-with-possessing-a-akm-rifle-granted-bail.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![MacD on Music: H-Y-P Hypnotized](https://www.derrynow.com/resizer/165/93/true/2024_10_04/WhatsApp_Image_20240927_at_16_29728962-1728053484615.jpg--.jpg?1728053484826 "MacD on Music: H-Y-P Hypnotized")](https://www.derrynow.com/news/what-s-on/1622096/macd-on-music-h-y-p-hypnotized.html)
+[![Failure to return McMonagle’s Stormont security pass ‘concerning’, says Speaker](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Failure to return McMonagle’s Stormont security pass ‘concerning’, says Speaker")](https://www.derrynow.com/news/local-news/1623837/failure-to-return-mcmonagles-stormont-security-pass-concerning-says-speaker.html)
 
-Wally/Hypnotic Jerk
+[Local News](https://www.derrynow.com/section/975/news)
 
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
+[Failure to return McMonagle’s Stormont security pass ‘concerning’, says Speaker](https://www.derrynow.com/news/local-news/1623837/failure-to-return-mcmonagles-stormont-security-pass-concerning-says-speaker.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[MacD on Music: H-Y-P Hypnotized](https://www.derrynow.com/news/what-s-on/1622096/macd-on-music-h-y-p-hypnotized.html)
-----------------------------------------------------------------------------------------------------------------------
+[![Charity has suffered ‘huge reputational damage’ over McMonagle – McKinney](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_07/1728299105157_0.jpg--.jpg?1728299105258 "Charity has suffered ‘huge reputational damage’ over McMonagle – McKinney")](https://www.derrynow.com/news/local-news/1623723/charity-has-suffered-huge-reputational-damage-over-mcmonagle-mckinney.html)
 
-[![Banagher](https://www.derrynow.com/resizer/165/93/true/2024_10_06/Banagher_v_Eoghan_Rua_5_-1728223545860.jpg--.jpg?1728223546009 "Banagher")](https://www.derrynow.com/news/derry-sport/1623140/banagher-hold-off-eoghan-rua-fightback-to-make-intermediate-championship-semi-finals.html)
+[Local News](https://www.derrynow.com/section/975/news)
 
-Eoghan Rua’s Ciaran McGoldrick and Banagher’s Tiernan Moore. Photo: George Sweeney, nwpresspics
+[Charity has suffered ‘huge reputational damage’ over McMonagle – McKinney](https://www.derrynow.com/news/local-news/1623723/charity-has-suffered-huge-reputational-damage-over-mcmonagle-mckinney.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[![First Minister to face questions in Assembly over sex offender former employee](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_07/1728302704890_0.jpg--.jpg?1728302705014 "First Minister to face questions in Assembly over sex offender former employee")](https://www.derrynow.com/news/local-news/1623772/first-minister-to-face-questions-in-assembly-over-sex-offender-former-employee.html)
 
-[Banagher hold off Eoghan Rua fightback to make Intermediate Championship semi-finals](https://www.derrynow.com/news/derry-sport/1623140/banagher-hold-off-eoghan-rua-fightback-to-make-intermediate-championship-semi-finals.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Glen](https://www.derrynow.com/resizer/165/93/true/2024_10_06/GAA_Glen_v_Lavey_quarter_final_8-1728223167182.jpg--.jpg?1728223168818 "Glen")](https://www.derrynow.com/news/derry-sport/1623137/stoppage-time-point-edges-champions-glen-into-the-last-four.html)
+[First Minister to face questions in Assembly over sex offender former employee](https://www.derrynow.com/news/local-news/1623772/first-minister-to-face-questions-in-assembly-over-sex-offender-former-employee.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Glen's Ethan Doherty celebrates his goal against Lavey Derry Senior Football Championship quarter final at Owenbeg. (Photo - Tom Heaney, nwpresspics)
+[![Derry man facing series of drugs charges returned for trial](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man facing series of drugs charges returned for trial")](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Stoppage time point edges champions Glen into the last four](https://www.derrynow.com/news/derry-sport/1623137/stoppage-time-point-edges-champions-glen-into-the-last-four.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man facing series of drugs charges returned for trial](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Faughanvale](https://www.derrynow.com/resizer/165/93/true/2024_10_06/Castledawson_v._Faughanvale_1-1728207227208.jpg--.jpg?1728207228821 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
+[![A5 road closure: Murder investigation launched following death of man in Strabane](https://www.derrynow.com/resizer/165/93/true/2024_10_07/PSNI_Derry3-1728302690615.jpg--.jpg?1728302690630 "A5 road closure: Murder investigation launched following death of man in Strabane")](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
 
-The Faughanvale team line up before the game. Pic by Tom Heaney, nwpresspics
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Faughanvale pay tribute to club legend Joe Cassidy with victory over Castledawson](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[A5 road closure: Murder investigation launched following death of man in Strabane](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
