@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Ichthyosaur Fossil ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/35-facts-about-ichthyosaur-fossil/)
+[![35 Facts About Pengate ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/35-facts-about-pengate/)
 
-History
+Society & Social Sciences
 
-06 Oct 2024
+07 Oct 2024
 
-[35 Facts About Ichthyosaur Fossil](https://facts.net/history/35-facts-about-ichthyosaur-fossil/)
+[35 Facts About Pengate](https://facts.net/society-and-social-sciences/35-facts-about-pengate/)
 
-[![34 Facts About Biggest Fish Ever Caught ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/animals/34-facts-about-biggest-fish-ever-caught/)
+[![25 Facts About Onychonychia Hypoplastic Distal Phalanges ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2280%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-onychonychia-hypoplastic-distal-phalanges/)
 
-Animals
+Health Science
 
-06 Oct 2024
+07 Oct 2024
 
-[34 Facts About Biggest Fish Ever Caught](https://facts.net/nature/animals/34-facts-about-biggest-fish-ever-caught/)
+[25 Facts About Onychonychia Hypoplastic Distal Phalanges](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-onychonychia-hypoplastic-distal-phalanges/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
