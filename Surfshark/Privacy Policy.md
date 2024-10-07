@@ -1,4 +1,4 @@
-[](https://surfshark.com/ "Surfshark")
+[Skip to content](#main)[](https://surfshark.com/ "Surfshark")
 
 Products
 
