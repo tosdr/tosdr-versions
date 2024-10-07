@@ -439,47 +439,47 @@ Discover why thousands of the world’s
 leading enterprises trust Flexera
 -------------------------------------------------------------------------
 
-### 7 of the 10  
+### 6 of the 10  
 largest global companies
 
-![Walmart logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-walmart.svg) ![Amazon logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-amazon.svg) ![Exxon Mobil logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-exxon-mobil.svg) ![Shell logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-shell.svg)
+![Walmart logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-walmart.svg) ![Shell logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-shell.svg) ![Saudi Aramco logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-saudi-aramco.svg)
 
-![CVS Health logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-cvs-health.svg) ![Volkswagen logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-volkswagen.svg) ![UnitedHealth Group logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-united-health-group.svg)
+![BP logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-bp.svg) ![Volkswagen logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-volkswagen.svg) ![Toyota logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-toyota.svg)
 
 ### 10 of the top  
 global banks
 
 ![Chase logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-chase.svg) ![Bank of America logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-bank-of-america.svg) ![Wells Fargo logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-wells-fargo.svg) ![Citigroup logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-citigroup.svg) ![Santander Banco logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-santander-banco.svg)
 
-![Crédit Agricole logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-credit-agricole.svg) ![HSBC logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-hsbc.svg) ![BNP Paribas logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-bnp-paribas.svg) ![Software AG logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-software-ag.svg) ![PNC logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-pnc.svg)
+![Crédit Agricole logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-credit-agricole.svg) ![HSBC logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-hsbc.svg) ![BNP Paribas logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-bnp-paribas.svg) ![Software AG logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-software-ag.svg) ![Itaú logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-itau.svg)
 
-### 9 of the top 10  
+### 8 of the top 10  
 U.S. insurance companies
 
-![American Family Insurance logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-american-family-insurance.svg) ![USAA Logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-usaa-insurance.svg) ![Progressive Insurance logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-progressive-insurance.svg) ![Nationwide logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-nationwide.svg)
+![MetLife logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-metlife.svg) ![Prudential logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-prudential.svg) ![New York Life logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-new-york-life.svg)
 
-![Farmers Insurance logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-farmers-insurance.svg) ![Travelers Insurance logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-travelers-insurance.svg) ![Liberty Mutual logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-liberty-mutual.svg)
+![Nationwide logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-nationwide.svg) ![Liberty Mutual logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-liberty-mutual.svg) ![TIAA logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-tiaa.svg)
 
-### 6 of the top  
+### The 6 largest  
 U.S. transportation companies
 
 ![UPS logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-ups.svg) ![FedEx logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-fedex.svg) ![Delta logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-delta.svg)
 
-![American Airlines logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-american-airlines.svg) ![United Airlines logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-united-airlines.svg) ![Landstar logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-landstar.svg)
+![American Airlines logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-american-airlines.svg) ![United Airlines logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-united-airlines.svg) ![Southwest Airlines logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-southwest-airlines.svg)
 
-### 8 of the top 10  
+### 7 of the top 10  
 U.S. manufacturers
 
-![General Motors logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-general-motors.svg) ![HP logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-hp.svg) ![IBM logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-ibm.svg) ![Boeing logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-boeing.svg)
+![Caterpillar logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-caterpillar.svg) ![John Deere logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-john-deere.svg) ![Honeywell logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-honeywell.svg) ![PACCAR logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-paccar.svg)
 
-![Honeywell logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-honeywell.svg) ![Johnson & Johnson logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-johnson-and-johnson.svg) ![Rockwell Automation logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-rockwell-automation.svg) ![Lancaster Colony logo](https://www.flexera.com/sites/default/files/2023-11/logo-customer-lancaster-colony.svg)
+![Cummins logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-cummins.svg) ![Emerson Electric logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-emerson-electric.svg) ![Parker Hannifin logo](https://www.flexera.com/sites/default/files/2023-05/logo-customer-parker-hannifin.svg)
 
 Industry endorsement
 
 Don’t just take our word for it
 -------------------------------
 
-\[Flexera\] is the best tool I’ve ever used. I look at Flexera data and 95% time it’s right and that’s way better than anyone else out there. It’s doing as good as I could ever want. Overall, it’s hands down the best tool in the market \[for asset managment\].
+\[Flexera\] is the best tool I’ve ever used. I look at Flexera data and 95% time it’s right and that’s way better than anyone else out there. It’s doing as good as I could ever want. Overall, it’s hands down the best tool in the market \[for asset management\].
 
 Director, ITAM Global insurance company
 
@@ -495,7 +495,7 @@ We have driven a significant amount of value in the company, both in green dolla
 
 VP, Global Asset Management Global insurance company
 
-My data is right. My data comes out of Flexera. Anybody that looks elsewhere, they’re getting the wrong numbers.
+My data is right. My data comes out of Flexera. Anybody that looks elsewhere, they're getting the wrong numbers.
 
 Senior Director of Cloud Large Food and Beverage Manufacturer
 
