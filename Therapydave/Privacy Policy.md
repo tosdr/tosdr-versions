@@ -114,7 +114,7 @@ Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-_“I’ve had a lot of therapists over the last 17 years and I’ve never had a counselor bring me through this much progress... ever. Not even close.”_
+_“Dave Lechnyr is a very compassionate and empathetic couples therapist who has been able to work with me and my husband in very constructive and practical ways.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
