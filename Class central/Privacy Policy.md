@@ -414,11 +414,11 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. excel
+1. digital marketing
     
-2. psychology
+2. c
     
-3. project management
+3. flutter
     
 
 Popular subjects
@@ -427,25 +427,25 @@ Popular subjects
 1. [Computer Science
     
     34,124 courses](https://www.classcentral.com/subject/cs)
-2. [Software Development
+2. [Data Analysis
     
-    8,260 courses](https://www.classcentral.com/subject/software-development)
-3. [Computer Networking
+    7,846 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Python
     
-    1,431 courses](https://www.classcentral.com/subject/computer-networking)
+    8,760 courses](https://www.classcentral.com/subject/python)
 
 Popular courses
 ---------------
 
-1. [Marketing Digital: Content & Community Manager
+1. [Academic Writing Made Easy
     
-    Galileo University](https://www.classcentral.com/course/digital-marketing-universidad-galileo-marketing-d-10386)
-2. [Introduction to Marketing
+    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/writing-technische-universitat-munchen-academic-w-13157)
+2. [Psychology of Personal Growth
     
-    University of Pennsylvania](https://www.classcentral.com/course/whartonmarketing-1137)
-3. [Fundamentals of Reinforcement Learning
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
+3. [The Bible's Prehistory, Purpose, and Political Future
     
-    University of Alberta](https://www.classcentral.com/course/fundamentals-of-reinforcement-learning-14497)
+    Emory University](https://www.classcentral.com/course/biblefuture-1406)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
