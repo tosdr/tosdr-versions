@@ -135,6 +135,9 @@
     * [**Verification & identity**
         
         Add user verification to protect against fraud.](https://segment.com/en-us/use-cases/user-verification-identity)
+        
+        [Fraud prevention](https://segment.com/en-us/use-cases/fraud-prevention)
+        
     * [**Alerts & notifications**
         
         Deliver notifications across text, email, voice.](https://segment.com/en-us/use-cases/alerts-and-notifications)
@@ -486,6 +489,9 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
     * [**Verification & identity**
         
         Add user verification to protect against fraud.](https://segment.com/en-us/use-cases/user-verification-identity)
+        
+        [Fraud prevention](https://segment.com/en-us/use-cases/fraud-prevention)
+        
     * [**Alerts & notifications**
         
         Deliver notifications across text, email, voice.](https://segment.com/en-us/use-cases/alerts-and-notifications)
