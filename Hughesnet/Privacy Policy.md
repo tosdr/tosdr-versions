@@ -99,7 +99,7 @@ Privacy Policy
 [Privacy Policy](https://legal.hughesnet.com/PrivacyPolicy.cfm)
 ---------------------------------------------------------------
 
-Effective Date: July 1, 2024
+Effective Date: October 1, 2024
 
 This Privacy Notice (“Privacy Notice”) explains how Hughes Network Systems, LLC and its affiliates (collectively ”Hughes”), collect, use and share information about Hughes subscribers and others who visit Hughes’ websites (such as www.hughesnet.com, [www.hughes.com](http://www.hughes.com/), or any other site or customer-facing portal maintained or operated by Hughes (“Websites”)), or when using the Hughesnet® services, including on our web portal or mobile app (collectively, the "Services").  The term “you” refers to you as a subscriber or user of our Services.
 
@@ -255,9 +255,9 @@ You may also choose, when available, to connect your account with third-party ac
 8. State Privacy Rights
 =======================
 
-**California, Colorado, Connecticut, Oregon, Texas, Utah and Virginia**
+**California, Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia**
 
-California, Colorado, Connecticut, Oregon, Texas, Utah and Virginia give residents the right to know what categories of personal information are collected about them and how it will be used, disclosed, and sold or shared. The purpose of this section of the Notice is to provide residents of these states with a description of our practices regarding the collection, use, disclosure of personal information and how they can exercise their rights in relation to their personal information.
+California, Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia give residents the right to know what categories of personal information are collected about them and how it will be used, disclosed, and sold or shared. The purpose of this section of the Notice is to provide residents of these states with a description of our practices regarding the collection, use, disclosure of personal information and how they can exercise their rights in relation to their personal information.
 
 **Categories of personal information collected:**
 
@@ -290,6 +290,7 @@ We collect the personal information identified in the chart above from the follo
 * From our affiliates
 * From others, including consumer reporting agencies and third parties that provide us with demographic and other information
 * From publicly available sources
+    
 
 **Personal information we disclose for a business purpose:**
 
@@ -297,7 +298,7 @@ There are a number of circumstances where we disclose personal information to co
 
 **Your Data Rights:**
 
-Residents of California, Colorado, Connecticut, Oregon, Texas, Utah, and Virginia have the right to request certain actions with respect to their personal information. Residents of these states may:
+Residents of California, Colorado, Connecticut, Montana Oregon, Texas, Utah, and Virginia have the right to request certain actions with respect to their personal information. Residents of these states may:
 
 * Request that we disclose what categories and specific pieces of personal information we collected about you in the preceding 12 months, as well as details regarding: the business purposes for our collection and disclosure of your personal information; the categories of sources from which we collected the information, the categories of personal information we sold, shared, or disclosed for a business purpose; and the categories of recipients of such information
 * Request deletion of any personal information that we have collected from you subject to certain legal exceptions 
