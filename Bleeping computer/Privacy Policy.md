@@ -36,6 +36,9 @@
         
         Microsoft Office 2024 now available for Windows and macOS users](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/)
     
+    * [![This course bundle helps you train for CISSP certification exam concepts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This course bundle helps you train for CISSP certification exam concepts](https://www.bleepingcomputer.com/offer/deals/this-course-bundle-helps-you-train-for-cissp-certification-exam-concepts/)
     * [![Comcast and Truist Bank customers caught up in FBCS data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Comcast and Truist Bank customers caught up in FBCS data breach](https://www.bleepingcomputer.com/news/security/comcast-and-truist-bank-customers-caught-up-in-fbcs-data-breach/)
@@ -45,9 +48,6 @@
     * [![Google Pay alarms users with accidental ‘new card’ added emails](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Google Pay alarms users with accidental ‘new card’ added emails](https://www.bleepingcomputer.com/news/security/google-pay-alarms-users-with-accidental-new-card-added-emails/)
-    * [![EaseUS Disk Copy is only $24.97 in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        EaseUS Disk Copy is only $24.97 in this deal](https://www.bleepingcomputer.com/offer/deals/easeus-disk-copy-is-only-2497-in-this-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
