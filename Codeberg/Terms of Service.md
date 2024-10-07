@@ -20,9 +20,9 @@ Fork
 
 You've already forked org
 
-[28](https://codeberg.org/Codeberg/org/forks)
+[29](https://codeberg.org/Codeberg/org/forks)
 
-[Code](https://codeberg.org/Codeberg/org) [Issues 10](https://codeberg.org/Codeberg/org/issues) [Pull requests 13](https://codeberg.org/Codeberg/org/pulls) [Activity](https://codeberg.org/Codeberg/org/activity)
+[Code](https://codeberg.org/Codeberg/org) [Issues 10](https://codeberg.org/Codeberg/org/issues) [Pull requests 14](https://codeberg.org/Codeberg/org/pulls) [Activity](https://codeberg.org/Codeberg/org/activity)
 
 **main**
 
@@ -136,13 +136,13 @@ This text is free to be adapted and remixed under the [CC-BY-SA (Attribution-Sha
 
 Thank you for being an awesome member of the Codeberg Community!
 
-**Make software projects available in your native language!**
+**Help improving Forgejo, the software that powers Codeberg!**
 
-**Join the Codeberg Translathon on October 12 + 13!**
+The Forgejo contributors are very excited about the upcoming version of Forgejo, scheduled for release around October 16. If you can, consider offering your help to make Forgejo v9 a great release.
 
-Localized free/libre software becomes accessible to a wide range of users, who would otherwise not be able to work with it due to reduced proficiency in written English. If you speak a language other than English, consider helping out. We count on you!
+Forgejo is the community project that makes independent and libre software development possible on Codeberg. Thanks to the team!
 
-[Participate and translate software](https://codeberg.org/Codeberg/translathon-2024#for-translators) [Register your project](https://codeberg.org/Codeberg/translathon-2024#for-project-maintainers-and-developers) [Explore projects](https://codeberg.org/explore/repos?only_show_relevant=0&q=translathon&topic=1)
+[Help with testing, translation or development](https://forgejo.org/2024-09-preparing-v9/) [Donate to the project](https://liberapay.com/forgejo/)
 
 ![](https://design.codeberg.org/logo-kit/icon_inverted.svg)
 
