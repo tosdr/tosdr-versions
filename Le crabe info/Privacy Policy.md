@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 149 utilisateurs actifs
+##### 712 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Suite Affinity : essayez gratuitement l’alternative à Adobe !](https://lecrabeinfo.net/suite-affinity-essayez-gratuitement-lalternative-a-adobe.html)
 * [Télécharger les ISO de Windows 11 LTSC (Entreprise et IoT Entreprise)](https://lecrabeinfo.net/telecharger-les-iso-de-windows-11-ltsc-entreprise-et-iot-entreprise.html)
 * [Windows 11 : forcer la mise à jour 24H2 sur un PC non compatible](https://lecrabeinfo.net/windows-11-forcer-la-mise-a-jour-24h2-sur-un-pc-non-compatible.html)
-* [Microsoft Surface Copilot PC : tout ce qu'il faut savoir sur les nouveaux modèles disponibles](https://lecrabeinfo.net/microsoft-surface-copilot-pc-tout-ce-quil-faut-savoir-sur-les-nouveaux-modeles-disponibles.html)
 
 ### Tendance
 
@@ -153,7 +153,7 @@ Chargement en cours
 ### Statistiques
 
 * 68 555 membres
-* 912 articles
+* 913 articles
 * 26 652 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
