@@ -8,6 +8,8 @@ Safe & Secure 100% secure and 24h support
 
 Super Fast instant digital download
 
+[Marvel vs. DC Sale! 🔥 Use ASSEMBLE for Marvel or JUSTICE for DC games to get 10% off Shop Now](https://www.cdkeys.com/flash-sale)
+
 Toggle Nav[](https://www.cdkeys.com/)
 
 ![Super Fast](https://cdn.omn-it.net/media/icons/fast_2x.png)
