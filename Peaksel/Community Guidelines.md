@@ -15,7 +15,7 @@
     
 
 * [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
-* [Casual Games](http://peaksel.com/category/casual-games/)
+* [Casual Games](https://peaksel.com/category/casual-games/)
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
 * [Coloring Pages](https://peaksel.com/category/coloring-pages/)
 * [Math Games](https://peaksel.com/category/math-games/)
@@ -39,7 +39,7 @@
 * [Contact Us](https://peaksel.com/contact/)
 
 * [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
-* [Casual Games](http://peaksel.com/category/casual-games/)
+* [Casual Games](https://peaksel.com/category/casual-games/)
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
 * [Coloring Pages](https://peaksel.com/category/coloring-pages/)
 * [Math Games](https://peaksel.com/category/math-games/)
@@ -94,7 +94,7 @@ We reserve the right to modify this policy at any time. When using Peaksel Asset
 #### Our portfolio
 
 * [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
-* [Casual Games](http://peaksel.com/category/casual-games/)
+* [Casual Games](https://peaksel.com/category/casual-games/)
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
 * [Coloring Pages](https://peaksel.com/category/coloring-pages/)
 * [Math Games](https://peaksel.com/category/math-games/)
