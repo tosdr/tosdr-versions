@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**October 6, 2024 - PBS News Weekend full episode** | PBS News Hour](https://video.nhpbs.org/video/october-6-2024-pbs-news-weekend-full-episode-1728229646?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Episode 5 Preview** | Van der Valk](https://video.nhpbs.org/video/episode-5-preview-iqmbr9?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Episode 5 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-5-preview-g5hazs?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Diary of Afong Moy The History of White People in America, Episode 4** | Independent Lens](https://video.nhpbs.org/video/the-history-of-white-people-in-america-episode-4-amuhqc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**News Wrap: Israel strikes Gaza on eve of Oct. 7 anniversary** | PBS News Hour](https://video.nhpbs.org/video/news-wrap-1728243169?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2024 GMC Canyon AT4X AEV Edition & 2024 Hyundai Elantra N** | MotorWeek](https://video.nhpbs.org/video/2024-gmc-canyon-at4x-aev-edition-2024-hyundai-elantra-n-suswrt?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Exploring Bipartisanship: Conversations with Western Governors Part 5 Former Nevada Governors Sandoval & Miller** | PBS Books](https://video.nhpbs.org/video/exploring-bipartisanship-conversations-with-western-governors-part-5-former-nevada-governors-sandoval-miller-9ffy5q?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**October 4, 2024** | Amanpour and Company](https://video.nhpbs.org/video/october-4-2024-p7dj3x?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**full episode, 10/4/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-10424-gxajjd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Countdown** | Velvet](https://video.nhpbs.org/video/countdown-3spqlr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Civics Education** | The State We're In](https://video.nhpbs.org/video/civics-education-t6ujnc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Vintage Denver 2024, Hour 1** | Antiques Roadshow](https://video.nhpbs.org/video/vintage-denver-2024-hour-1-juh42y?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Clues in Maria Anna Mozart's Childhood Notebook** | Secrets of the Dead](https://video.nhpbs.org/video/clues-in-maria-anna-mozarts-childhood-notebook-17aobe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
