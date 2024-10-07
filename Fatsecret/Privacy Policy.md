@@ -2,13 +2,13 @@
 
 [Register](https://www.fatsecret.com/Auth.aspx?pa=r&ReturnUrl=https%3a%2f%2fwww.fatsecret.com%2fDefault.aspx%3fpa%3dpriv%26l%3den)  |  [Sign In](https://www.fatsecret.com/Auth.aspx?pa=s&ReturnUrl=https%3a%2f%2fwww.fatsecret.com%2fDefault.aspx%3fpa%3dpriv%26l%3den)
 
-[![FatSecret](https://m.ftscrt.com/static/images/def20/Fatsecret_logo.png)](https://www.fatsecret.com/Default.aspx)
+[![fatsecret](https://m.ftscrt.com/static/images/def20/Fatsecret_logo.png)](https://www.fatsecret.com/Default.aspx)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | * ![](https://m.ftscrt.com/static/images/def20/quicksearch/search_foods.png) <br>    * Search in:<br>        <br>    *  [Foods](#)<br>    *  [Recipes](#)<br>    *  [Meals](#)<br>    *  [Exercises](#)<br>    *  [Members](#) |     |     | ![](https://m.ftscrt.com/static/images/def20/But_Search_Grey_default.png) |
 
-* [My FatSecret](https://www.fatsecret.com/Default.aspx?pa=m "My FatSecret")
+* [My fatsecret](https://www.fatsecret.com/Default.aspx?pa=m "My fatsecret")
 * [Foods](https://www.fatsecret.com/calories-nutrition/ "Foods")
 * [Recipes](https://www.fatsecret.com/Default.aspx?pa=recsh "Recipes")
 * [Challenges](https://www.fatsecret.com/challenges/ "Challenges")
@@ -29,12 +29,12 @@ Get the app
 
  [![](https://m.ftscrt.com/static/images/mobi/ios/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://itunes.apple.com/us/app/calorie-counter-by-fatsecret/id347184248?mt=8)     [![](https://m.ftscrt.com/static/images/mobi/android/en_get_2.svg)](https://play.google.com/store/apps/details?id=com.fatsecret.android)
 
- [![](https://m.ftscrt.com/static/images/social/but_social_facebook.svg)](https://www.facebook.com/FatSecret)[![](https://m.ftscrt.com/static/images/social/but_social_instagram.svg)](https://www.instagram.com/fatsecret_app/)[![](https://m.ftscrt.com/static/images/social/but_social_twitter.svg)](https://www.twitter.com/FatSecret)
+ [![](https://m.ftscrt.com/static/images/social/but_social_facebook.svg)](https://www.facebook.com/fatsecret)[![](https://m.ftscrt.com/static/images/social/but_social_instagram.svg)](https://www.instagram.com/fatsecret_app/)[![](https://m.ftscrt.com/static/images/social/but_social_twitter.svg)](https://www.twitter.com/fatsecret)
 
 [food list](https://www.fatsecret.com/Default.aspx?pa=toc) [brand list](https://www.fatsecret.com/Default.aspx?pa=brands) [platform](https://platform.fatsecret.com/) [professional](https://professional.fatsecret.com/) [contact](https://www.fatsecret.com/Default.aspx?pa=cu)
 
 [find people](https://www.fatsecret.com/Default.aspx?pa=tyf) | [faq](https://www.fatsecret.com/Default.aspx?pa=faq) | [blog](http://blog.fatsecret.com/) | [terms](https://www.fatsecret.com/Default.aspx?pa=tnc) | [privacy](https://www.fatsecret.com/Default.aspx?pa=priv) | [report abuse](https://www.fatsecret.com/Default.aspx?pa=ra)
 
-© 2024 FatSecret. All rights reserved.
+© 2024 fatsecret. All rights reserved.
 
 [United States ![](https://m.ftscrt.com/static/images/markets/smallFlags/US.png)](https://www.fatsecret.com/Default.aspx?pa=sites)
