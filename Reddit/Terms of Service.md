@@ -395,6 +395,18 @@ Reddit User Agreement
         * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
+* [Bengali (BN)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+    * * [All](https://redditinc.com/policies?hsLang=en)
+        * [Reddit ইউজার এগ্রিমেন্ট](https://redditinc.com/bn/policies/user-agreement?hsLang=en)
+        * [Reddit-এর গোপনীয়তা নীতি](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+        * [Reddit-এর কনটেন্ট নীতি](https://redditinc.com/bn/policies/content-policy?hsLang=en)
+
+* [Hindi (HI)](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+    * * [All](https://redditinc.com/policies?hsLang=en)
+        * [Reddit यूज़र एग्रीमेंट](https://redditinc.com/hi-in/policies/user-agreement?hsLang=en)
+        * [Reddit प्राइवेसी पॉलिसी](https://www.redditinc.com/policies/user-agreement?hsLang=en)
+        * [Reddit कॉन्टेंट पॉलिसी](https://redditinc.com/hi-in/policies/content-policy?hsLang=en)
+
 * [English](https://redditinc.com/policies/user-agreement)
 * [Deutsch – Deutschland](https://redditinc.com/de-de/policies/user-agreement)
 * [Español - España](https://redditinc.com/es-es/policies/user-agreement)
@@ -405,6 +417,8 @@ Reddit User Agreement
 * [Português - Brasil](https://redditinc.com/pt-br/policies/user-agreement)
 * [Português - Portugal](https://redditinc.com/pt-pt/policies/user-agreement)
 * [Svenska – Sverige](https://redditinc.com/sv-se/policies/user-agreement)
+* [हिंदी भारत](https://redditinc.com/hi-in/policies/user-agreement)
+* [বাংলা](https://redditinc.com/bn/policies/user-agreement)
 
 * [Reddit User Agreement if you live in the United States or outside the EEA, United Kingdom, and Switzerland](#text-content1)
 * [Reddit User Agreement if you live in the EEA, United Kingdom, or Switzerland](#text-content2)
@@ -422,6 +436,8 @@ Reddit User Agreement
 * [Português - Brasil](https://redditinc.com/pt-br/policies/user-agreement)
 * [Português - Portugal](https://redditinc.com/pt-pt/policies/user-agreement)
 * [Svenska – Sverige](https://redditinc.com/sv-se/policies/user-agreement)
+* [हिंदी भारत](https://redditinc.com/hi-in/policies/user-agreement)
+* [বাংলা](https://redditinc.com/bn/policies/user-agreement)
 
 Effective September 24, 2024. Last Revised September 24, 2024
 
