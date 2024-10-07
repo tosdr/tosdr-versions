@@ -298,9 +298,16 @@ Hãy truy cập trang trực tiếp bóng đá Saoke tv để xem bóng đá tr
 
 [![Saoke](/themes/colatv/assets/image/Logo_white_cola.png?r=1)](http://www.scamcallfighters.com/ "Saoke")
 
-Giới thiệu trang phunucodon.me - Saoke(\*\*\*.0.57). Saoke TV - Trang web xem bóng đá trực tiếp Saoke tốc độ cao mang đến cảm giác thoải mái cho anh em. Tại sao ke tv cung cấp link trực tiếp bóng đá chất lượng cao. An tâm tận hưởng thể thao hoàn toàn miễn phí saoke tv.
+Giới thiệu trang phunucodon.me - Saoke(\*\*\*.175.168). Saoke TV - Trang web xem bóng đá trực tiếp Saoke tốc độ cao mang đến cảm giác thoải mái cho anh em. Tại sao ke tv cung cấp link trực tiếp bóng đá chất lượng cao. An tâm tận hưởng thể thao hoàn toàn miễn phí saoke tv.
 
 .
+
+**Đối tác:**  
+[nhà cái uy tín](https://nhacaiuytin77.com/) nhacaiuytin77.com  
+[nha cai uy tin](https://nhacaiaz.net/) nhacaiaz.com  
+[nhà cái uy tín](https://nhacaiuytin.cash/) nhacaiuytin.cash  
+[jun88](https://jun8868.info/)  
+[nha cai uy tin](https://nhacaiuytin1.me/)  
 
 [![Fb](/themes/colatv/assets/image/Fb_cola.png)](#) [![yt](/themes/colatv/assets/image/youtube.png)](#) [![in](/themes/colatv/assets/image/instagram.png)](#) [![x](/themes/colatv/assets/image/twitter.png)](#)
 
