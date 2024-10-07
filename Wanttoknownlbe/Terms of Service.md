@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-ongrijpbare-akasha/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/medicijngebruik-meer-doden-dan-heroine-en-cocaine-samen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
