@@ -16,21 +16,21 @@
 Terms and conditions
 ====================
 
-Last updated: 14 May 2024
--------------------------
+Last updated: 7 October 2024
+----------------------------
 
 [](#1-Introduction "1. Introduction")1\. Introduction
 -----------------------------------------------------
 
-Flourish is an online service (the “**Service**“), made available via our channels and tools including but not limited to a website at flourish.studio (the “**Site**“), a Software Developer Kit (“**Flourish SDK**“), an API and a Canva app. The Service allows users (“**Users**“) to produce data visualizations and other content (“**Projects**“) based on digital templates (“**Templates**“) created with the Flourish SDK and uploaded to the Site by themselves or other Users.
+Flourish is an online service (the **“Service”**), made available via our channels and tools including but not limited to a website at flourish.studio (the **“Site”**), a Software Developer Kit (**“Flourish SDK”**), an API and a Canva app. The Service allows users (**“Users”**) to produce data visualizations and other content (**“Projects”**) based on digital templates (**“Templates”**) created with the Flourish SDK and uploaded to the Site by themselves or other Users.
 
-The Service is operated by or on behalf of Canva UK Operations Ltd (**Flourish**, **we**, **us**). We are a limited company, registered in England. Our registered company number is 08825531, and our registered office is at 33-35 Hoxton Square, London N1 6NN. Our VAT registration number is 182 0988 84. The company was previously known as Kiln Enterprises Ltd.
+The Service is operated by or on behalf of Canva UK Operations Ltd (**“Flourish”**, **“we”**, or **“us”**). We are a limited company, registered in England. Our registered company number is 08825531, and our registered office is at 33-35 Hoxton Square, London N1 6NN. Our VAT registration number is 182 0988 84. The company was previously known as Kiln Enterprises Ltd.
 
-These terms and conditions (“**Terms**“) govern the relationship between Flourish and Users (referred to herein as “**you**“). It does not govern any relationship which may be formed between one User and another User. If a User wishes to engage another User to create a bespoke Template or Project, we recommend that a separate agreement is entered into in respect of that engagement. Flourish shall have no liability to any User in respect of such an agreement.
+These terms and conditions (**“Terms”**) govern the relationship between Flourish and Users (referred to herein as **“you”**). It does not govern any relationship which may be formed between one User and another User. If a User wishes to engage another User to create a bespoke Template or Project, we recommend that a separate agreement is entered into in respect of that engagement. Flourish shall have no liability to any User in respect of such an agreement.
 
 Your use of the Service is subject to these Terms and by using the Service you agree to be bound by them. You should print a copy of these Terms for future reference. Use of your personal information submitted to or via the Service is governed by our Privacy Policy found at [flourish.studio/privacy](https://flourish.studio/privacy) and our Cookies Policy found at [flourish.studio/cookies](https://flourish.studio/cookies), and by using the Service you acknowledge and agree to these. These Terms shall take effect the first time you access the Service and shall continue in full force and effect until i) if you are a paid subscriber, the expiration or termination of your subscription; or ii) if you are using Flourish’s free offering, when your account is deleted or terminated.
 
-We reserve the right to change these Terms from time to time by changing them on the Site. By continuing to use the Service after any revised Terms become effective, you agree to be bound by the new Terms. These Terms were last updated on 14 March 2024.
+We reserve the right to change these Terms from time to time by changing them on the Site. By continuing to use the Service after any revised Terms become effective, you agree to be bound by the new Terms.
 
 [](#2-Account-types "2. Account types")2\. Account types
 --------------------------------------------------------
@@ -72,7 +72,7 @@ Anyone with view access to your Projects (e.g. you and any colleagues in the sam
 
 To create and upload Templates to the Service you will need to install the Flourish SDK (available via [https://www.npmjs.com/package/@flourish/sdk](https://www.npmjs.com/package/@flourish/sdk)) and register for an account as explained in the above section “Creating an account”.
 
-Templates uploaded to the Service by Free or Personal Users will be publicly available to all Users. Templates uploaded by Business Users will be publicly available only if explicitly made public by You or a Company Admin. By uploading a Template that will be publicly available, you understand that you are granting Flourish the right to distribute the Template to all other Users of the Service and that subsequently all Users will have the right to create and publish content based on your Template, including after you delete the Template in accordance with these Terms. Flourish is not responsible for public sharing by Users of Projects or Templates. Enabling such sharing or performing actions to share them as per User instructions does not breach Flourish's obligations in this Agreement.
+Templates uploaded to the Service by Free or Personal Users will be publicly available to all Users. Templates uploaded by Business Users will be publicly available only if explicitly made public by You or a Company Admin. By uploading a Template that will be publicly available, you understand that you are granting Flourish the right to distribute the Template to all other Users of the Service and that subsequently all Users will have the right to create and publish content based on your Template, including after you delete the Template in accordance with these Terms. Flourish is not responsible for public sharing by Users of Projects or Templates. Enabling such sharing or performing actions to share them as per User instructions does not breach Flourish's obligations in these Terms.
 
 We encourage Users to update and modify their Templates to fix bugs, etc. While we do not wish Users to delete Templates from the Service, we understand that you may wish to do so in certain circumstances. If you delete a Template, it will no longer appear on your Profile or in any lists of available Templates, but we reserve the right to keep it available to Users already making use of it.
 
@@ -86,7 +86,7 @@ Users can optionally publish their Projects on the Site. This creates a new publ
 
 Personal and Business Users can also download Projects to publish them on their own servers. Downloaded Projects can be embedded on other websites using the code provided as part of the download.
 
-Except in the case of Business Users embedding Projects created by Users associated with the same Business account, when embedding a Project you must include the Flourish credit and link (“Credit”) that is inserted into the embedding page by the provided embed code. You must not remove or obscure the Credit, or restyle it to make it smaller or less visible.
+Except in the case of Business Users embedding Projects created by Users associated with the same Business account, when embedding a Project you must include the Flourish credit and link (**“Credit”**) that is inserted into the embedding page by the provided embed code. You must not remove or obscure the Credit, or restyle it to make it smaller or less visible.
 
 If you are a Free User or a Personal User and you create any images, videos or gifs that include content created in Flourish, it is strictly required to credit Flourish accordingly. This must always include visible text (“Created with flourish.studio” or equivalent). In the case of the content being shared on any website or social media platform, the credit must also include a hyperlink to [https://flourish.studio](https://flourish.studio/). For clarity, the foregoing credit requirement does not apply to Business Users.
 
@@ -137,9 +137,9 @@ Flourish respects the rights of creatives. If you believe that your intellectual
     
 * Your contact information, such as your email address.
     
-* A statement that you have a good faith belief that use of the Project or Template in the manner complained of is not authorised by the intellectual property rights owner, its agent, or the law.
+* A statement that you have a good faith belief that use of the Project or Template in the manner complained of is not authorized by the intellectual property rights owner, its agent, or the law.
     
-* A declaration that the above information is accurate and that you are (or are authorised to act on behalf of) the intellectual property rights owner.
+* A declaration that the above information is accurate and that you are (or are authorized to act on behalf of) the intellectual property rights owner.
     
 
 If you believe that any Template or Project made available on the Service contains a violation of the law, please report by emailing us at _[DSA-illegal-content@flourish.studio](mailto:DSA-illegal-content@flourish.studio)_.
@@ -161,7 +161,7 @@ Once you have registered and set up an account with us, you may begin using our 
 
 Use of a Personal or Business account requires an up-to-date subscription payment, as set out on the Site or provided in writing in a quotation from us. Payment for a subscription is due upfront, is non-refundable (subject to the Consumer Cancellation Rights, if applicable) and can be made by credit card via the Site (if available for the required account type) or by bank transfer on receipt of our invoice.
 
-The subscription gives you access to the Personal or Business account for a period of a year unless specified otherwise (“Subscription Period”). At the end of this Subscription Period, your subscription will automatically renew (unless we are no longer offering the Service, in which case we will notify you) for an equivalent period (and continue to do so), unless you have already canceled your subscription.
+The subscription gives you access to the Personal or Business account for a period of a year unless specified otherwise (**“Subscription Period”**). At the end of this Subscription Period, your subscription will automatically renew (unless we are no longer offering the Service, in which case we will notify you) for an equivalent period (and continue to do so), unless you have already canceled your subscription.
 
 If your subscription to a Service renews, charges for each renewal period (at the same level as the preceding subscription period, unless the charges have increased, in which case we will notify you within a reasonable time beforehand) will automatically be charged to your account, in advance, on the renewal date (or shortly before or after), unless you have already canceled your subscription.
 
@@ -177,12 +177,12 @@ Where you are a consumer and have purchased a Personal Account subscription (whe
 
 ### [](#d-Missed-payments "d. Missed payments")d. Missed payments
 
-All invoices will be due and payable within thirty (30) days of the invoice date. Except as otherwise provided for in these Terms, all fees are non-refundable. Any fees remaining unpaid for more than thirty (30) days past their due date shall accrue interest at a rate of the lesser of 1.5% percent per month or the highest rate allowed by law. Flourish may, at its discretion and in addition to other remedies it may have, suspend access to the Service if any invoice remains unpaid for more than thirty (30) days after its due date. If we are unable to collect payment – for example because of rejected card transactions or unpaid invoices, and your invoice remains unpaid for more than 30 days after its due date – the account or accounts in question may be made unavailable (“Frozen”) until the required payment is received. If your account is Frozen, published or downloaded Projects will continue to work, but you will no longer be able to edit them. Instead of making a new payment, Personal Users with a Frozen account will be given the alternative option of converting to a Free account.
+All invoices will be due and payable within thirty (30) days of the invoice date. Except as otherwise provided for in these Terms, all fees are non-refundable. Any fees remaining unpaid for more than thirty (30) days past their due date shall accrue interest at a rate of the lesser of 1.5% percent per month or the highest rate allowed by law. Flourish may, at its discretion and in addition to other remedies it may have, suspend access to the Service if any invoice remains unpaid for more than thirty (30) days after its due date. If we are unable to collect payment – for example because of rejected card transactions or unpaid invoices, and your invoice remains unpaid for more than 30 days after its due date – the account or accounts in question may be made unavailable (**“Frozen”**) until the required payment is received. If your account is Frozen, published or downloaded Projects will continue to work, but you will no longer be able to edit them. Instead of making a new payment, Personal Users with a Frozen account will be given the alternative option of converting to a Free account.
 
 [](#8-Seats "8. Seats")8\. Seats
 --------------------------------
 
-Business accounts include a specified number of Users (“Seats”). An individual can use a Seat across multiple devices, but must not share their username or password with other people – even if they use it at different times. Seats are allocated to individuals on the creation of the accounts; they can be transferred between staff members by contacting us or by using any controls available to Company Admins on the Site. If you already have an account, a Company Admin may invite you to join their Business account.
+Business accounts include a specified number of Users (**“Seats”**). An individual can use a Seat across multiple devices, but must not share their username or password with other people – even if they use it at different times. Seats are allocated to individuals on the creation of the accounts; they can be transferred between staff members by contacting us or by using any controls available to Company Admins on the Site. If you already have an account, a Company Admin may invite you to join their Business account.
 
 Additional Seats can be purchased by a Company if required. Prices are available on request from us by email. When adding additional Seats for a Company, they will be charged pro-rata.
 
@@ -191,13 +191,13 @@ If you are a Business User, your Company Admin may manage access, delete or chan
 [](#9-Intellectual-property "9. Intellectual property")9\. Intellectual property
 --------------------------------------------------------------------------------
 
-All intellectual property rights belonging to you that you upload to the Service (e.g. data, text, template code created by you) (“User Content”) remains your intellectual property. You grant Flourish a royalty-free and sublicensable license to display, host, copy, store and use (i) your User Content, only to the extent necessary to provide the Service to you; and (ii) any User Content you have included in a Project or Template shared with others, to the extent necessary to continue to make your Project or Template available. You will indemnify us and our affiliates (and each of our and our affiliates’ employees, officers, and directors) against any loss, damage or expense (including reasonable legal costs) which may be incurred or become liable as a result of any claim by a third party that the use or possession of any User Content, or anything you upload to the Service infringes the intellectual property rights or any other rights of any third party. This includes any fonts or other materials which you provide to us to upload on your behalf. You assign to us any suggestions, ideas, enhancement requests or other feedback you provide to us relating to the Service or our products.
+All intellectual property rights belonging to you that you upload to the Service (e.g. data, text, template code created by you) (**“User Content”**) remains your intellectual property. You grant Flourish a royalty-free and sublicensable license to display, host, copy, store and use (i) your User Content, only to the extent necessary to provide the Service to you; and (ii) any User Content you have included in a Project or Template shared with others, to the extent necessary to continue to make your Project or Template available. You will indemnify us and our affiliates (and each of our and our affiliates’ employees, officers, and directors) against any loss, damage or expense (including reasonable legal costs) which may be incurred or become liable as a result of any claim by a third party that the use or possession of any User Content, or anything you upload to the Service infringes the intellectual property rights or any other rights of any third party. This includes any fonts or other materials which you provide to us to upload on your behalf. You assign to us any suggestions, ideas, enhancement requests or other feedback you provide to us relating to the Service or our products.
 
-All intellectual property rights in the Service (including text, graphics, software, photographs and other images, videos, sound, trademarks and logos) are owned by us or our licensors. We also own the intellectual property rights for all templates created by us, except for bespoke private templates commissioned by and created for specific Users, which are subject to their own intellectual property terms. Except as expressly set out here, nothing in these Terms gives you any rights in respect of any intellectual property owned by us or our licensors and you acknowledge that you do not acquire any ownership rights by accessing the Site or using the Service.
+All intellectual property rights in the Service (including text, graphics, software, photographs and other images, videos, sound, trademarks and logos) are owned by us or our licensors. We also own the intellectual property rights for all Templates created by us, except for bespoke private Templates commissioned by and created for specific Users, which are subject to their own intellectual property terms. Except as expressly set out here, nothing in these Terms gives you any rights in respect of any intellectual property owned by us or our licensors and you acknowledge that you do not acquire any ownership rights by accessing the Site or using the Service.
 
 We grant you a non-exclusive, non-transferable worldwide license to use the Service and its contents (including any Templates created by us and available on your account) for the duration of your subscription, or (if a Free User) whilst you have an active Flourish account. We grant you an irrevocable, non-exclusive license to publish downloaded Projects in unmodified form – even if you no longer have an active Flourish account. We reserve the right to edit, change or remove any Templates created by us from time to time for any reason.
 
-Use of any Flourish templates created by third parties (e.g. commissioned by you from an agency or contractor) are subject to whatever arrangements you agree with the template creator.
+Use of any Flourish Templates created by third parties (e.g. commissioned by you from an agency or contractor) are subject to whatever arrangements you agree with the Template creator.
 
 [](#10-Confidentiality "10. Confidentiality")10\. Confidentiality
 -----------------------------------------------------------------
@@ -271,9 +271,9 @@ If you have breached these Terms, we may take such action as we deem appropriate
 
 The responses described above are not limited, and we may take any other action we deem appropriate.
 
-Wemay add, change or remove features or functionality of the Service, modify or introduce limitations to storage or other features, or discontinue the Service altogether at any time. If you are on a paid subscription and we discontinue the Service or any feature you are using during your subscription, we will provide you advance notice, work closely with you to transition to new features or functionality and if we are unable to do so, we will provide you a pro-rata refund of fees prepaid for the remaining period of your subscription.
+We may add, change or remove features or functionality of the Service, modify or introduce limitations to storage or other features, or discontinue the Service altogether at any time. If you are on a paid subscription and we discontinue the Service or any feature you are using during your subscription, we will provide you advance notice, work closely with you to transition to new features or functionality and if we are unable to do so, we will provide you a pro-rata refund of fees prepaid for the remaining period of your subscription.
 
-You can close your account at any time by notifying us in writing (see Contacting Us), though subject to the Consumer Cancellation Rights (above) if applicable, we do not give refunds for unused time. On closure of your account, your User Content, Projects and Profile information, plus any Templates created by you that are not being used by other Users, will be deleted. However, Templates created by you that are already being used by other Users may continue to be available to those Users. Unless your account was terminated by us due to a breach of these terms, you can download or export your User Content and Projects using the functionality of the Service prior to the expiration or termination of your subscription. If your account has been terminated due to a breach of these terms, you may not create a new account on the Service unless you receive our written permission.
+You can close your account at any time via your account or by contacting us at [hello@flourish.studio](mailto:hello@flourish.studio). Subject to the Consumer Cancellation Rights (above) if applicable, we do not give refunds for unused time. On closure of your account, your User Content, Projects and Profile information, plus any Templates created by you that are not being used by other Users, will be deleted. Templates created by you that are already being used by other Users may continue to be available to those Users. Unless your account was terminated by us due to a breach of these terms, you can download or export your User Content and Projects prior to termination. If your account has been terminated due to a breach of these terms, you may not create a new account on the Service unless you receive our written permission.
 
 In the case of Frozen accounts, we will continue to store your Projects, Templates and Profile information for a minimum period of 2 (two) years after the account was Frozen. We reserve the right to close the account and delete your Projects, Templates and Profile information at the end of this period.
 
@@ -325,7 +325,7 @@ If any provision of these Terms is found to be unenforceable, all other provisio
 
 Any provisions of these Terms which, by their nature, should survive termination or expiration will do so, including provisions regarding ownership, intellectual property, outstanding payment, warranty disclaimers, indemnity and limitations of liability.
 
-These Terms may not be varied except with our express written consent.
+These Terms may not be varied by you except with our express written consent.
 
 Apart from any separate agreement entered into between us and a Company or Company Admin concerning the provision of Business accounts, these Terms, your order form and any documents expressly referred to in them represent the entire agreement between you and us in relation to the Service. These Terms supersede any prior representations, agreements, or understandings between you and us, whether written or oral, with respect to the Service including previous versions of the terms. We are required by law to advise you that contracts may be concluded in the English language only and that no public filing requirements apply.
 
@@ -333,13 +333,9 @@ These Terms shall be governed by English law, except that (if you are a consumer
 
 You agree that any claim, dispute or controversy between you and us regarding these Terms and/or your use of the Service will only be dealt with by the English courts, except that (if you are a consumer and not a business user) and if you live in a country of the European Union, you can choose to bring legal proceedings either in your country or in England, but if we bring legal proceedings, we may only do so in your country.
 
-### [](#a-Export-Restrictions "a. Export Restrictions.")a. Export Restrictions.
+### [](#a-Export-Restrictions "a. Export Restrictions")a. Export Restrictions
 
 The Service is subject to trade sanctions and laws and regulations that govern the import, export, and use of the Service. These laws or regulations may prohibit usfrom providing you the Service or require that we discontinue making it available to you without notice. By using the Service you agree to comply with all trade sanctions, export and import laws, and regulations and warrant that (i) you are not prohibited from accessing the Service, and (ii) you will not make available the Service to anyone who is prohibited from accessing it under the laws or regulations of any jurisdiction.
-
-### [](#b-EU-Monthly-Active-Users "b. EU Monthly Active Users")b. EU Monthly Active Users
-
-In accordance with requirements under the EU Digital Services Act, the average number of EU monthly active users of the Service between July 2023 and December 2023 was 29,272. For more information about Flourish and the Digital Services Act see [here](https://flourish.studio/security/dsa/).
 
 [](#19-Contacting-us "19. Contacting us")19\. Contacting us
 -----------------------------------------------------------
