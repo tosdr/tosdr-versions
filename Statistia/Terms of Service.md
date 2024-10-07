@@ -25,13 +25,13 @@
     * [Economy & Politics](https://www.statista.com/markets/2535/economy-politics/)
     * [Energy & Environment](https://www.statista.com/markets/408/energy-environment/)
     * [Internet](https://www.statista.com/markets/424/internet/)
-    * [Technology & Telecommunications](https://www.statista.com/markets/418/technology-telecommunications/)
+    * [Technology & Telecommunications](https://www.statista.com/markets/418/technology-telecommunications)
     * [Transportation & Logistics](https://www.statista.com/markets/419/transportation-logistics/)
     * [Travel, Tourism & Hospitality](https://www.statista.com/markets/420/travel-tourism-hospitality/)
     
-    Most-viewed Statistics
+    Most viewed Statistics
     
-    [Recent Statistics](https://www.statista.com/statistics/recent/) [Popular Statistics](https://www.statista.com/statistics/popular/)
+    [Recent Statistics](https://www.statista.com/statistics/recent/)[Popular Statistics](https://www.statista.com/statistics/popular/)
     
     * [Most used social networks 2024, by number of users](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/)
     * [Big Mac index worldwide 2024](https://www.statista.com/statistics/274326/big-mac-index-global-prices-for-a-big-mac/)
@@ -41,20 +41,188 @@
     
     Topics
     
-    [Topic Overview](https://www.statista.com/topics/)
+    [More Topics](https://www.statista.com/topics/)
     
     * [E-commerce worldwide - statistics & facts](https://www.statista.com/topics/871/online-shopping/)
-    * [Social media - statistics & facts](https://www.statista.com/topics/1164/social-networks/)
+    * [Social media - Statistics & Facts](https://www.statista.com/topics/1164/social-networks/)
     
     Top Report
     
-    [![Consumer trends 2024](https://cdn.statcdn.com/Study/160000/162257-standard.png)View Report](https://www.statista.com/study/162257/consumer-trends-2024/)
+    [![Consumer trends 2024 Statista Dossier](https://cdn.statcdn.com/Study/160000/162257-standard.png)View Report](https://www.statista.com/study/162257/consumer-trends-2024/ "Top Report")
     
     [Industry Overview](https://www.statista.com/markets/)
     
-* [Reports](https://www.statista.com/studies-and-reports/)
+    Most viewed statistics
     
-    [Report Shop](https://www.statista.com/studies-and-reports/)
+    [Recent Statistics](https://www.statista.com/statistics/recent/)[Popular Statistics](https://www.statista.com/statistics/popular/)
+    
+    * [Global sales of the top performance apparel, accessories, and footwear companies 2023](https://www.statista.com/statistics/900271/leading-sportswear-and-performance-wear-companies-by-sales-worldwide/)
+    * [Nike's global revenue 2005-2024](https://www.statista.com/statistics/241683/nikes-sales-worldwide-since-2004/)
+    * [Value of the secondhand apparel market worldwide from 2021 to 2028](https://www.statista.com/statistics/826162/apparel-resale-market-value-worldwide/)
+    * [Brand value of the most valuable soft drink brands worldwide 2023](https://www.statista.com/statistics/273063/leading-15-most-valuable-global-soft-drink-brands-based-on-brand-value/)
+    * [Revenue of the leading 10 beauty manufacturers worldwide 2023](https://www.statista.com/statistics/243871/revenue-of-the-leading-10-beauty-manufacturers-worldwide/)
+    
+    Topics
+    
+    [Topic overview](https://www.statista.com/markets/415/consumer-goods-fmcg/)
+    
+    * [Global apparel market - statistics & facts](https://www.statista.com/topics/5091/apparel-market-worldwide/)
+    * [Cosmetics industry - statistics & facts](https://www.statista.com/topics/3137/cosmetics-industry/)
+    
+    Top Report
+    
+    [![Coffee market worldwide Statista Dossier](https://cdn.statcdn.com/Study/70000/70519-standard.png)View Report](https://www.statista.com/study/70519/coffee-market-worldwide/ "Top Report")
+    
+    Most viewed statistics
+    
+    [Recent Statistics](https://www.statista.com/statistics/recent/)[Popular Statistics](https://www.statista.com/statistics/popular/)
+    
+    * [E-commerce as share of total retail sales worldwide 2021-2027](https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/)
+    * [Biggest online retailers in the U.S. 2023, by market share](https://www.statista.com/statistics/274255/market-share-of-the-leading-retailers-in-us-e-commerce/)
+    * [Revenue of the e-commerce industry in the U.S. 2019-2029](https://www.statista.com/statistics/272391/us-retail-e-commerce-sales-forecast/)
+    * [Fastest-growing retail e-commerce countries 2023](https://www.statista.com/statistics/266064/revenue-growth-in-e-commerce-for-selected-countries/)
+    * [Retail e-commerce sales growth worldwide 2017-2027](https://www.statista.com/statistics/288487/forecast-of-global-b2c-e-commerce-growth/)
+    
+    Topics
+    
+    [Topic overview](https://www.statista.com/markets/413/e-commerce/)
+    
+    * [Amazon - statistics & facts](https://www.statista.com/topics/846/amazon/)
+    * [E-commerce in the United Kingdom (UK) - statistics & facts](https://www.statista.com/topics/2333/e-commerce-in-the-united-kingdom/)
+    
+    Top Report
+    
+    [![Shein Statista Dossier](https://cdn.statcdn.com/Study/130000/132229-retina.png)View Report](https://www.statista.com/study/132229/shein/ "Top Report")
+    
+    Most viewed statistics
+    
+    [Recent Statistics](https://www.statista.com/statistics/recent/)[Popular Statistics](https://www.statista.com/statistics/popular/)
+    
+    * [Biggest companies in the world by market value 2023](https://www.statista.com/statistics/263264/top-companies-in-the-world-by-market-capitalization/)
+    * [Largest armies in the world by active military personnel 2024](https://www.statista.com/statistics/264443/the-worlds-largest-armies-based-on-active-force-level/)
+    * [U.S. border patrol apprehensions and expulsions FY 1990-2023](https://www.statista.com/statistics/329256/alien-apprehensions-registered-by-the-us-border-patrol/)
+    * [Gross domestic product (GDP) in India 2029](https://www.statista.com/statistics/263771/gross-domestic-product-gdp-in-india/)
+    * [Countries with the highest military spending 2023](https://www.statista.com/statistics/262742/countries-with-the-highest-military-spending/)
+    
+    Topics
+    
+    [Topic overview](https://www.statista.com/markets/2535/economy-politics/)
+    
+    * [Inflation worldwide - statistics & facts](https://www.statista.com/topics/8378/inflation-worldwide/)
+    * [Global GDP - statistics & facts](https://www.statista.com/topics/7747/gross-domestic-product-gdp-worldwide/)
+    
+    Top Report
+    
+    [![Indonesia Statista Dossier](https://cdn.statcdn.com/Study/20000/23933-retina.png)View Report](https://www.statista.com/study/23933/indonesia-statista-dossier/ "Top Report")
+    
+    Most viewed statistics
+    
+    [Recent Statistics](https://www.statista.com/statistics/recent/)[Popular Statistics](https://www.statista.com/statistics/popular/)
+    
+    * [Global household electricity prices 2023, by select country](https://www.statista.com/statistics/263492/electricity-prices-in-selected-countries/)
+    * [Annual global emissions of carbon dioxide 1940-2023](https://www.statista.com/statistics/276629/global-co2-emissions/)
+    * [Monthly electricity prices in selected EU countries 2020-2024](https://www.statista.com/statistics/1267500/eu-monthly-wholesale-electricity-price-country/)
+    * [EU-ETS allowance prices in the European Union 2022-2024](https://www.statista.com/statistics/1322214/carbon-prices-european-union-emission-trading-scheme/)
+    * [Renewable energy capacity 2023 by country](https://www.statista.com/statistics/267233/renewable-energy-capacity-worldwide-by-country/)
+    
+    Topics
+    
+    [Topic overview](https://www.statista.com/markets/408/energy-environment/)
+    
+    * [Global waste generation - statistics & facts](https://www.statista.com/topics/4983/waste-generation-worldwide/)
+    * [Global climate change - statistics & facts](https://www.statista.com/topics/1148/global-climate-change/)
+    
+    Top Report
+    
+    [![Water industry worldwide Statista Dossier](https://cdn.statcdn.com/Study/15000/15684-retina.png)View Report](https://www.statista.com/study/15684/water-statista-dossier/ "Top Report")
+    
+    Most viewed statistics
+    
+    [Recent Statistics](https://www.statista.com/statistics/recent/)[Popular Statistics](https://www.statista.com/statistics/popular/)
+    
+    * [Worldwide digital population 2024](https://www.statista.com/statistics/617136/digital-population-worldwide/)
+    * [Average daily time spent on social media worldwide 2012-2024](https://www.statista.com/statistics/433871/daily-social-media-usage-worldwide/)
+    * [Facebook: quarterly number of MAU (monthly active users) worldwide 2008-2023](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/)
+    * [Social media: global penetration rate 2024, by region](https://www.statista.com/statistics/269615/social-network-penetration-by-region/)
+    * [Instagram accounts with the most followers worldwide 2024](https://www.statista.com/statistics/421169/most-followers-instagram/)
+    
+    Topics
+    
+    [Topic overview](https://www.statista.com/markets/424/internet/)
+    
+    * [TikTok - statistics & facts](https://www.statista.com/topics/6077/tiktok/)
+    * [Social media usage in the United Kingdom (UK) - statistics & facts](https://www.statista.com/topics/3236/social-media-usage-in-the-uk/)
+    
+    Top Report
+    
+    [![Reddit Business Deep Dive Statista Dossier](https://cdn.statcdn.com/Study/115000/115214-retina.png)View Report](https://www.statista.com/study/115214/reddit-business-teardown/ "Top Report")
+    
+    Most viewed statistics
+    
+    [Recent Statistics](https://www.statista.com/statistics/recent/)[Popular Statistics](https://www.statista.com/statistics/popular/)
+    
+    * [Quarterly smartphone market share worldwide by vendor 2009-2023](https://www.statista.com/statistics/271496/global-market-share-held-by-smartphone-vendors-since-4th-quarter-2009/)
+    * [Apple's revenue worldwide 2004-2023](https://www.statista.com/statistics/265125/total-net-sales-of-apple-since-2004/)
+    * [Global IT spending forecast 2012-2024, by segment](https://www.statista.com/statistics/268938/global-it-spending-by-segment/)
+    * [Semiconductor market revenue worldwide 1987-2025](https://www.statista.com/statistics/266973/global-semiconductor-sales-since-1988/)
+    * [Digital transformation spending worldwide 2017-2027](https://www.statista.com/statistics/870924/worldwide-digital-transformation-market-size/)
+    
+    Topics
+    
+    [Topic overview](https://www.statista.com/markets/418/technology-telecommunications)
+    
+    * [Artificial intelligence (AI) worldwide - statistics & facts](https://www.statista.com/topics/3104/artificial-intelligence-ai-worldwide/)
+    * [Smartphones - statistics & facts](https://www.statista.com/topics/840/smartphones/)
+    
+    Top Report
+    
+    [![Tech trends 2024 Statista Dossier](https://cdn.statcdn.com/Study/160000/163605-retina.png)View Report](https://www.statista.com/study/163605/tech-trends-2024/ "Top Report")
+    
+    Most viewed statistics
+    
+    [Recent Statistics](https://www.statista.com/statistics/recent/)[Popular Statistics](https://www.statista.com/statistics/popular/)
+    
+    * [Annual car sales worldwide 2010-2023, with a forecast for 2024](https://www.statista.com/statistics/200002/international-car-sales-since-1990/)
+    * [Monthly container freight rate index worldwide 2023-2024](https://www.statista.com/statistics/1440707/global-container-freight-index/)
+    * [Automotive manufacturers' estimated market share in the U.S. 2023](https://www.statista.com/statistics/249375/us-market-share-of-selected-automobile-manufacturers/)
+    * [Global air traffic - number of flights 2004-2024](https://www.statista.com/statistics/564769/airline-industry-number-of-flights/)
+    * [Electric vehicle sales globally by model 2023](https://www.statista.com/statistics/960121/sales-of-all-electric-vehicles-worldwide-by-model/)
+    
+    Topics
+    
+    [Topic overview](https://www.statista.com/markets/419/transportation-logistics/)
+    
+    * [Automotive industry worldwide - statistics & facts](https://www.statista.com/topics/1487/automotive-industry/)
+    * [Tesla - statistics & facts](https://www.statista.com/topics/2086/tesla/)
+    
+    Top Report
+    
+    [![E-bikes in Europe Statista Dossier](https://cdn.statcdn.com/Study/135000/135681-retina.png)View Report](https://www.statista.com/study/135681/e-bikes-in-europe/ "Top Report")
+    
+    Most viewed statistics
+    
+    [Recent Statistics](https://www.statista.com/statistics/recent/)[Popular Statistics](https://www.statista.com/statistics/popular/)
+    
+    * [Global revenue of Starbucks 2003-2023](https://www.statista.com/statistics/266466/net-revenue-of-the-starbucks-corporation-worldwide/)
+    * [Number of international tourist arrivals worldwide 1950-2023](https://www.statista.com/statistics/209334/total-number-of-international-tourist-arrivals/)
+    * [McDonald's global revenue 2005-2023](https://www.statista.com/statistics/208917/revenue-of-the-mcdonalds-corporation-since-2005/)
+    * [Online travel market size worldwide 2017-2028](https://www.statista.com/statistics/1179020/online-travel-agent-market-size-worldwide/)
+    * [Brand value of leading global QSR brands 2024](https://www.statista.com/statistics/273057/value-of-the-most-valuable-fast-food-brands-worldwide/)
+    
+    Topics
+    
+    [Topic overview](https://www.statista.com/markets/420/travel-tourism-hospitality/)
+    
+    * [Global tourism industry - statistics & facts](https://www.statista.com/topics/962/global-tourism/)
+    * [Hotel industry worldwide - statistics & facts](https://www.statista.com/topics/1102/hotels/)
+    
+    Top Report
+    
+    [![Digitalization of the travel industry Statista Dossier](https://cdn.statcdn.com/Study/85000/87036-retina.png)View Report](https://www.statista.com/study/87036/digitalization-of-the-travel-industry/ "Top Report")
+    
+* [Reports](https://www.statista.com/studies-and-reports)
+    
+    [Report Shop](https://www.statista.com/studies-and-reports)
     
     [Search our report database](https://www.statista.com/studies-and-reports/all-reports)
     
@@ -89,7 +257,7 @@
         
         All key figures about countries and regions](https://www.statista.com/studies-and-reports/countries-and-regions)
     
-    [Find your information in our database containing over 20,000 reports](https://www.statista.com/studies-and-reports/)
+    [Find your information in our database containing over 20,000 reports](https://www.statista.com/studies-and-reports)
     
 * Insights
     
@@ -97,10 +265,11 @@
     
     Market forecast and expert KPIs for 1000+ markets in 190+ countries & territories
     
-    * [Explore Market Insights](https://www.statista.com/outlook/)
-    * [Consumer](https://www.statista.com/outlook/consumer-markets)
-    * [Digital](https://www.statista.com/outlook/digital-markets)
-    * [Mobility](https://www.statista.com/outlook/mobility-markets)
+    * Consumer
+    * Digital
+    * Mobility
+    
+    [Explore Market Insights](https://www.statista.com/outlook/)
     
     Consumer Insights
     
@@ -109,11 +278,11 @@
     * 2,000,000+ interviews
     * 15,000+ brands
     
-    [Explore Consumer Insights](https://www.statista.com/insights/consumer)
+    [Explore Consumer Insights](https://www.statista.com/global-consumer-survey/surveys)
     
     Company Insights
     
-    Business information on 100m+ public and private companies
+    Business information on 70m+ public and private companies
     
     * 100+ industries
     * 200+ countries and territories
@@ -133,16 +302,16 @@
 * [Daily Data](https://www.statista.com/chartoftheday/)
 * [Services](https://www.statista.com/aboutus/)
     
-    The Statistics Portal
+    The statistics portal
     
     [Statista Logo](https://www.statista.com/)
     
-    Directly accessible data for 170 industries from 150+ countries and over 1 Mio. facts.
+    Directly accessible data for 170 industries from 150+ countries and over 1 Mio. facts.
     
     More about Statista
     
     * [About Statista](https://www.statista.com/aboutus/)
-    * [Why trust Statista](https://www.statista.com/aboutus/trust)
+    * [Why trust Statista](https://www.statista.com/aboutus/trust/)
     * [Success stories](https://www.statista.com/site/success-stories)
     * [First steps and help center](https://www.statista.com/getting-started/welcome-to-statista)
     * [Live webinars & recordings](https://www.statista.com/webinar)
@@ -175,7 +344,7 @@
     * Create data value
     * Realize business opportunities
     
-    [nxt statista](https://www.nxt.statista.com/)
+    [nxt Statista](https://www.nxt.statista.com/)
     
     Design
     
@@ -187,9 +356,9 @@
     
     [Statista Content & Design](https://statista.design/en/)
     
-    [](https://r.statista.com/)
+    [](https://r.statista.com/en)
     
-    Statista R identifies and awards industry leaders, top providers, and exceptional brands through exclusive rankings and top lists in collaboration with renowned media brands worldwide. [For more details, visit our website.](https://r.statista.com/)
+    Statista R identifies and awards industry leaders, top providers, and exceptional brands through exclusive rankings and top lists in collaboration with renowned media brands worldwide. [For more details, visit our website.](https://r.statista.com/en)
     
 
 * Prices & Access
@@ -203,9 +372,9 @@
 * [Topics](https://www.statista.com/topics/)
 * [Markets](https://www.statista.com/markets/)
 
-* [Reports](https://www.statista.com/studies-and-reports/)
-* [Market Insights](https://www.statista.com/outlook/)
-* [Consumer Insights](https://www.statista.com/insights/consumer)
+* [Reports](https://www.statista.com/studies-and-reports)
+* [Market Insights](https://www.statista.com/outlook)
+* [Consumer Insights](https://www.statista.com/global-consumer-survey)
 * [Company Insights](https://www.statista.com/companies/about)
 * [eCommerce Insights](https://ecommercedb.com/)
 * [Daily Data](https://www.statista.com/chartoftheday/)
@@ -214,10 +383,17 @@
 * [About Statista](https://www.statista.com/aboutus/)
 * [Statista+](https://statistaplus.com/en)
 * [Statista Q](https://q.statista.com/?utm_source=statista-com&utm_medium=website-link&utm_campaign=statista-platform-referrals)
-* [askStatista](https://ask.statista.com/)
-* [nxt statista](https://www.nxt.statista.com/)
+* [ask Statista](https://ask.statista.com/)
+* [nxt Statista](https://www.nxt.statista.com/)
 * [Content & Design](https://statista.design/en/)
 * [Statista R](https://r.statista.com/)
+
+* Platform Switcher
+
+* [statista.com](https://www.statista.com/)
+* [statista.de](https://www.statista.com/)
+* [statista.es](https://www.statista.com/)
+* [statista.fr](https://www.statista.com/)
 
 * [DE](https://de.statista.com/)
 * [ES](https://es.statista.com/)
@@ -459,20 +635,6 @@ Cookies
 * [Contact](https://www.statista.com/contact/)
 * [Help & FAQ](https://www.statista.com/help/)
 * [Report Bug](https://www.statista.com/bugreport/)
-* [Privacy](https://www.statista.com/imprint/#privacy)
+* [Privacy](https://www.statista.com/imprint/#privacy/)
 * Cookie settings
-* [Imprint](https://www.statista.com/imprint/)
-
-Menu
-
-* [Prices & Access](https://www.statista.com/accounts/pa)
-* [Popular Statistics](https://www.statista.com/statistics/popular/)
-* [Industries](https://www.statista.com/markets/)
-* [Daily Data](https://www.statista.com/chartoftheday/)
-* [Content & Design projects](https://statista.design/en/)
-* [Research projects](https://www.statista-research.com/en/)
-* [AskStatista](https://ask.statista.com/)
-
-* [statista.de](https://de.statista.com/)
-* [statista.es](https://es.statista.com/)
-* [statista.fr](https://fr.statista.com/)
+* [Imprint](https://www.statista.com/imprint)
