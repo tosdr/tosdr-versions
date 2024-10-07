@@ -2,6 +2,8 @@
 
 [Skip to content](#main)
 
+[10% OFF Raspberry Pi 5 Starter Kits until midnight on Wednesday!10% OFF Raspberry Pi 5 Starter Kits until midnight on Wednesday!](https://thepihut.com/products/raspberry-pi-5-starter-kit)
+
 Navigation
 
 [The Pi Hut ![the pi hut logo](//thepihut.com/cdn/shop/files/the-pi-hut-logo-standard_360x.jpg?v=1672762468)](https://thepihut.com/) 
