@@ -94,15 +94,15 @@ Recent Stories
 
 [Hope
 
+### After October 7, where do Israel and Gaza look for hope? History shows a way forward.](https://www.csmonitor.com/Commentary/From-the-Editors/2024/1007/october-7-israel-gaza-hope "After October 7, where do Israel and Gaza look for hope? History shows a way forward.")
+
+[Hope
+
 ### ‘This is what the war has done’: How October 7 forever changed Israel and Gaza](https://www.csmonitor.com/World/Middle-East/2024/1007/october-7-israel-gaza-one-year-later "‘This is what the war has done’: How October 7 forever changed Israel and Gaza")
 
 [Peace
 
 ### ‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.](https://www.csmonitor.com/USA/Society/2024/1006/october-7-interfaith-groups-conflict-resolution "‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.")
-
-[Joy
-
-### Vibrant times for children’s rhymes](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1004/Vibrant-times-for-children-s-rhymes "Vibrant times for children’s rhymes")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
