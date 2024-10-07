@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-13b28faa980862fa7d5b6de184a2ab51
+d484838cf5ea389cdd6b1e1407d7fd1c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![12 mm by 16 mm midnight blue faceted rondelles](https://sojourner.biz/images/cache/glass/GL0183.200.jpg)](https://sojourner.biz/beads/glass/12-mm-by-16-mm-midnight-blue-faceted-rondelles.html "12 mm by 16 mm midnight blue faceted rondelles")
+[![13 by 8 mm Ercole Moretti millefiori beads](https://sojourner.biz/images/cache/glass/MF002.200.webp)](https://sojourner.biz/13-by-8-mm-ercole-moretti-millefiori-beads.html "13 by 8 mm Ercole Moretti millefiori beads")
 
-#### [12 mm by 16 mm midnight blue faceted rondelles](https://sojourner.biz/beads/glass/12-mm-by-16-mm-midnight-blue-faceted-rondelles.html "12 mm by 16 mm midnight blue faceted rondelles")
+#### [13 by 8 mm Ercole Moretti millefiori beads](https://sojourner.biz/13-by-8-mm-ercole-moretti-millefiori-beads.html "13 by 8 mm Ercole Moretti millefiori beads")
 
-$10.00
+$3.25
 
 ### Best Sellers
 
