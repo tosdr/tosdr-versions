@@ -126,11 +126,11 @@ Red.es aumenta un 400% su ejecución económica en los últimos tres años
 
 Noticia
 
-Internacionalización
+Emprendimiento
 
-Desafía Nórdicos lanza su segunda edición para potenciar el talento de las startups españolas del sector de la salud digital
+La incubadora IRIA impulsa la innovación tecnológica en Extremadura a través de las tecnologías inmersivas
 
-[Desafía Nórdicos lanza su segunda edición para potenciar el talento de las startups españolas del sector de la salud digital](http://red.es/es/actualidad/noticias/desafia-nordicos-segunda-edicion-startups-salud-digital "Ir al contenido de: Desafía Nórdicos lanza su segunda edición para potenciar el talento de las startups españolas del sector de la salud digital")
+[La incubadora IRIA impulsa la innovación tecnológica en Extremadura a través de las tecnologías inmersivas](http://red.es/es/actualidad/noticias/redes-iria-incubadora-empresas-tecnologias-inmersivas "Ir al contenido de: La incubadora IRIA impulsa la innovación tecnológica en Extremadura a través de las tecnologías inmersivas")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
