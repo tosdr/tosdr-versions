@@ -12,7 +12,7 @@ Jours
 
 Heures
 
-Jusqu'à -100€ sur les packs permis ! Du 07 au 10/10 inclus. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+Jusqu'à -100€\* sur les packs permis ! Du 07 au 10/10 inclus. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
@@ -1681,4 +1681,4 @@ n° 20005380
 
 [Gérer mes cookies](javascript:openAxeptioCookies())
 
-[\*Détail des conditions de l'offre packs permis](https://www.ornikar.com/a-propos/promo-back-to-school-septembre-2024)
+[\*Détail des conditions de l'offre packs permis](https://www.ornikar.com/articles/a-propos-rr-promo-flash-octobre-2024)
