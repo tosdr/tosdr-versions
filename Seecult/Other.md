@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-performansiperformances/zoran-popovic-definition-axioms/grafika.jpg?itok=AINOoR3C)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-performansiperformances/zoran)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/quaternio-terminorum/sunce.jpg?itok=CiQBc1fR)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/quaternio-terminorum)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/agi-i-ema.jpg?itok=yB_Tzf4f)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/solaris-6.jpg?itok=MW-xaF2A)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [19\. Joakimfest - (O) čemu (priča) pozorište?](http://seecult.org/vest/19-joakimfest-o-cemu-prica-pozoriste)
+* [Era Milivojević – Umetnost jeste život](http://seecult.org/vest/era-milivojevic-umetnost-jeste-zivot)
 * [Gran pri 58. Bitefa Jasni Žmak](http://seecult.org/vest/gran-pri-58-bitefa-jasni-zmak)
 * [Podrška Palestini na početku 64. MESS-a](http://seecult.org/vest/podrska-palestini-na-pocetku-64-mess)
 * [Skopske ovacije za Na vukovom tragu](http://seecult.org/vest/skopske-ovacije-za-na-vukovom-tragu)
@@ -350,8 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Podsvesni pokušaj suicida u Kručama](http://seecult.org/vest/podsvesni-pokusaj-suicida-u-krucama)
 * [Sećanje - Zapisi iz prirode](http://seecult.org/vest/secanje-zapisi-iz-prirode)
 * [Filharmonijski Živeti sa neprijateljem](http://seecult.org/vest/filharmonijski-ziveti-sa-neprijateljem)
-* [Snažna završnica 58. Bitefa](http://seecult.org/vest/snazna-zavrsnica-58-bitefa)
-* [Prepisivanje života - kada država ne radi svoj posao](http://seecult.org/vest/prepisivanje-zivota-kada-drzava-ne-radi-svoj-posao)
 
 * [Konkursi](#tab1_1)
 
