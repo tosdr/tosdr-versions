@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ Top Contributing Sectors to OR govs Kitzhaber and Brown](/assets/Images/teasers/small/KitzhabervBrownPercentbyIndustry.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-john-kitzhaber-and-kate-brown/)
+[![incumbency](/assets/logos/SuccessRateContestedGeneral2005-2010.png)](http://www.followthemoney.org/research/institute-research/the-role-of-money-and-incumbency-in-2009-2010-state-elections)
 
-Sector giving to OR govs Kitzhaber and Brown.
+The power of incumbency and money.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
