@@ -160,8 +160,8 @@ Search    Submit
 
  [Home](https://www.floridahealth.gov/)
 
-[(new 10-5-24) For information about the State of Emergency declared because of Hurricane Milton (on 10-5-24).](https://www.floridahealth.gov/about/emergency.html)
-===================================================================================================================================================================
+[(new 10-5-24) For information about the State of Emergency declared because of Hurricane Milton.](https://www.floridahealth.gov/about/emergency.html)
+======================================================================================================================================================
 
 [![Florida Health](/_new/_files/images/DOH_logo.png)](https://www.floridahealth.gov/index.html)
 
