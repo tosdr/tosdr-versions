@@ -395,6 +395,18 @@ Reddit Content Policy
         * [Machine Readable Files](https://redditinc.com/policies/machine-readable-files?hsLang=en)
         * [Impressum](https://redditinc.com/policies/impressum?hsLang=en)
 
+* [Bengali (BN)](https://www.redditinc.com/policies/content-policy?hsLang=en)
+    * * [All](https://redditinc.com/policies?hsLang=en)
+        * [Reddit ইউজার এগ্রিমেন্ট](https://redditinc.com/bn/policies/user-agreement?hsLang=en)
+        * [Reddit-এর গোপনীয়তা নীতি](https://www.redditinc.com/policies/content-policy?hsLang=en)
+        * [Reddit-এর কনটেন্ট নীতি](https://redditinc.com/bn/policies/content-policy?hsLang=en)
+
+* [Hindi (HI)](https://www.redditinc.com/policies/content-policy?hsLang=en)
+    * * [All](https://redditinc.com/policies?hsLang=en)
+        * [Reddit यूज़र एग्रीमेंट](https://redditinc.com/hi-in/policies/user-agreement?hsLang=en)
+        * [Reddit प्राइवेसी पॉलिसी](https://www.redditinc.com/policies/content-policy?hsLang=en)
+        * [Reddit कॉन्टेंट पॉलिसी](https://redditinc.com/hi-in/policies/content-policy?hsLang=en)
+
 * [English](https://redditinc.com/policies/content-policy)
 * [Deutsch – Deutschland](https://redditinc.com/de-de/policies/content-policy)
 * [Español - España](https://redditinc.com/es-es/policies/content-policy)
@@ -405,6 +417,8 @@ Reddit Content Policy
 * [Português - Brasil](https://redditinc.com/pt-br/policies/content-policy)
 * [Português - Portugal](https://redditinc.com/pt-pt/policies/content-policy)
 * [Svenska – Sverige](https://redditinc.com/sv-se/policies/content-policy)
+* [हिंदी भारत](https://redditinc.com/hi-in/policies/content-policy)
+* [বাংলা](https://redditinc.com/bn/policies/content-policy)
 
 * [Rules](#text-content1)
 * [Enforcement](#text-content2)
@@ -422,6 +436,8 @@ Reddit Content Policy
 * [Português - Brasil](https://redditinc.com/pt-br/policies/content-policy)
 * [Português - Portugal](https://redditinc.com/pt-pt/policies/content-policy)
 * [Svenska – Sverige](https://redditinc.com/sv-se/policies/content-policy)
+* [हिंदी भारत](https://redditinc.com/hi-in/policies/content-policy)
+* [বাংলা](https://redditinc.com/bn/policies/content-policy)
 
 Reddit is a vast network of communities that are created, run, and populated by you, the Reddit users.
 
