@@ -34,9 +34,9 @@ AI](https://namegenerator.com/business/brand)[Clan Names
 
 AI](https://namegenerator.com/people/clan)[Generative Names](https://namegenerator.com/people/generative)[Demon Names
 
-AI](https://namegenerator.com/fiction/demon)[YouTube Channel Names
+AI](https://namegenerator.com/fiction/demon)[Company Names
 
-AI](https://namegenerator.com/media/youtube-channel)
+AI](https://namegenerator.com/business/company)
 
 Terms and Privacy Policy
 ========================
