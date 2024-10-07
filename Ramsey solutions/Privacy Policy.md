@@ -6,7 +6,7 @@ Search Ramsey Solutions Search Ramsey Solutions
 
 [Sign In](https://products.ramseysolutions.com/) [Get Started](https://www.ramseysolutions.com/get-started/gs/app/assessment?int_fmt=button&int_lctn=homepage-bottom_cta&int_dscpn=rs_mast_getstarted_button&int_cmpgn=rs_mast_getstarted_button_2024&int_dept=rscom_bu)
 
-* [Topics](https://www.ramseysolutions.com/articles?snid=topics#feed-content) Toggle Topics Submenu
+* [Topics](https://www.ramseysolutions.com/topics?snid=topics) Toggle Topics Submenu
     
     Topics
     
@@ -20,7 +20,7 @@ Search Ramsey Solutions Search Ramsey Solutions
         * [Personal Growth](https://www.ramseysolutions.com/personal-growth?snid=topics.topics.personal-growth)
         * [Career](https://www.ramseysolutions.com/career-advice?snid=topics.topics.career)
     
-    * [See All Topics](https://www.ramseysolutions.com/articles?snid=topics#feed-content)
+    * [See All Topics](https://www.ramseysolutions.com/topics?snid=topics)
     
 * [Products](https://www.ramseysolutions.com/guided-plans?snid=products) Toggle Products Submenu
     
