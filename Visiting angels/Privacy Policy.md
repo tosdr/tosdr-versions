@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[How a Home Care Agency Can Help Prevent Falls](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-home-care-agency-can-help-prevent-falls/483)
+[4 Benefits of Aging in Place](https://www.visitingangels.com/knowledge-center/care-options/4-benefits-of-aging-in-place/348)
 
-[Gentleness Is Important to Personal Care](https://www.visitingangels.com/knowledge-center/care-options/gentleness-is-important-to-personal-care/471)
+[Is it Time for Your Loved Ones to Leave Their Homes?](https://www.visitingangels.com/knowledge-center/care-options/is-it-time-for-your-loved-ones-to-leave-their-homes/6)
 
-[Preparing for Mid-Stage & Late-Stage Alzheimer’s Care](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/preparing-for-mid-stage-late-stage-alzheimers-care/454)
+[Preparing for the Progression of Alzheimer's](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/preparing-for-the-progression-of-alzheimers/389)
 
-[Is it Too Early to Start In-Home Senior Care?](https://www.visitingangels.com/knowledge-center/why-in-home-care/is-it-too-early-to-start-in-home-senior-care/289)
+[Uprooting an Aging Loved One: What to Know](https://www.visitingangels.com/knowledge-center/selecting-care/uprooting-an-aging-loved-one-what-to-know/337)
 
-[Everything You Should Know About Adult Care (Non-Senior Home Care)](https://www.visitingangels.com/knowledge-center/care-options/everything-you-should-know-about-adult-care-non-senior-home-care/40)
+[Why Caring for a Parent Who Has Dementia is the Ultimate Challenge](https://www.visitingangels.com/knowledge-center/selecting-care/why-caring-for-a-parent-who-has-dementia-is-the-ultimate-challenge/322)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
