@@ -566,23 +566,17 @@ Latest News
 
 [Japan's new internal affairs minister looks to boost regional revitalization](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/internal-affairs-minister-interview/ "Japan's new internal affairs minister looks to boost regional revitalization")
 
-4 hours ago
+10 hours ago
 
 [Japan's party leaders' debate to be extended to 80 minutes](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/party-leaders-debate-extension/ "Japan's party leaders' debate to be extended to 80 minutes")
 
-5 hours ago
+11 hours ago
 
 [U.S. pair wins Nobel in medicine for discovery of microRNA](https://www.japantimes.co.jp/news/2024/10/07/world/science-health/nobel-prize-medicine-2024/ "U.S. pair wins Nobel in medicine for discovery of microRNA")
 
-6 hours ago
-
 [Ishiba fends off questions on endorsement of scandal-tainted LDP members](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/ishiba-parliament-questions/ "Ishiba fends off questions on endorsement of scandal-tainted LDP members")
 
-7 hours ago
-
 [Japan's new finance minister vows to finish the job as deflation czar](https://www.japantimes.co.jp/business/2024/10/07/economy/new-finance-minister-kato/ "Japan's new finance minister vows to finish the job as deflation czar")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
