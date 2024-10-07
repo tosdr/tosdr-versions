@@ -150,10 +150,10 @@ Latest reactions
 
 Latest forum posts
 
-* [Aleste 2 manual automated translation](https://www.msx.org/forum/msx-talk/general-discussion/aleste-2-manual-automated-translation "Aleste 2 manual automated translation")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=66 "WonderTANG! Who wants to juice up your MSX?")
+* [Aleste 2 manual automated translation](https://www.msx.org/forum/msx-talk/general-discussion/aleste-2-manual-automated-translation?page=1 "Aleste 2 manual automated translation")
+* [\[Nifty\] Tearless Flickerfree Screen Updating](https://www.msx.org/forum/msx-talk/development/nifty-tearless-screen-updating?page=1 "[Nifty] Tearless Flickerfree Screen Updating")
 * [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
-* [\[Nifty\] Tearless Flickerfree Screen Updating](https://www.msx.org/forum/msx-talk/development/nifty-tearless-screen-updating "[Nifty] Tearless Flickerfree Screen Updating")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 * [Firebird T-shirt](https://www.msx.org/forum/msx-talk/off-topic/firebird-t-shirt "Firebird T-shirt")
 * [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic?page=3 "HB-F1XD reboots/freezes in basic")
@@ -178,7 +178,7 @@ News headlines
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
+* [Hype OPL3](https://www.msx.org/news/en/hypeopl "Hype OPL3")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 
