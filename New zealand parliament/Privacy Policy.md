@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/QWA_09769_2013/9769-2013-hon-trevor-mallard-to-the-minister-of-justice/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20170608_061425000/kuriger-barbara/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/QWA_09769_2013/9769-2013-hon-trevor-mallard-to-the-minister-of-justice/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/HansS_20170608_061425000/kuriger-barbara/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
