@@ -19,6 +19,26 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(photo: The estate of Charlotte Johnson Wahl)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-07-10-2024-at-13.21-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
+    
+    ### [Boris Johnson’s artist mum was a patient at the Maudsley – and now her paintings are being displayed](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
+    
+    [![The Southwark Sea Cadets pose for a photo. Credit: SSC](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-07-12-27-15-360x180.jpg)](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
+    
+    ### [Walworth Sea Cadets fighting for survival as headquarters ‘fall apart’](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
+    
+    [![Aaron Bailey, described as Black, 5ft 10, with short black hair and a black beard, is wanted in connection with a robbery in Epsom. Image: Surrey Police](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aaron-Bailey-described-as-Black-5ft-10-with-short-black-hair-and-a-black-beard-is-wanted-in-connection-with-a-robbery-in-Epsom.-Image-Surrey-Police-360x180.png)](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
+    
+    ### [Wanted: £5,000 reward for man with links to Southwark](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/07/Police-5-stock-e1534507967176-360x180.jpeg)](https://southwarknews.co.uk/area/london/data-reveals-only-one-in-seven-acid-attacks-in-london-lead-to-criminal-charges/)
+    
+    ### [Data reveals only one in seven acid attacks in London lead to criminal charges](https://southwarknews.co.uk/area/london/data-reveals-only-one-in-seven-acid-attacks-in-london-lead-to-criminal-charges/)
+    
+    [![London mayor Sadiq Khan. Photo from Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan.-Photo-from-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-optimistic-about-the-prospect-of-the-high-speed-2-rail-line/)
+    
+    ### [Sadiq Khan optimistic about the prospect of the High Speed 2 rail line](https://southwarknews.co.uk/area/london/sadiq-khan-optimistic-about-the-prospect-of-the-high-speed-2-rail-line/)
+    
     [![Women featured in a video released by King's College Hospital urging women to attend screenings. Credit: KCH](https://southwarknews.co.uk/wp-content/uploads/2024/10/Women-featured-in-a-video-released-by-Kings-College-Hospital-urging-women-to-attend-screenings.-Credit-KCH-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
     
     ### [South London women urged to get breast screenings](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
@@ -34,28 +54,6 @@
     [![The family launched Joshy Boy Legacy last month. Credit: Joshy Boy Legacy](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_5449_Original-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
     
     ### [Disabled boy’s housing struggles inspires Rotherhithe family’s push for accessible homes](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
-    
-    [![(Archdiocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-18.07-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
-    
-    ### [Watch the angelic schoolkids of Southwark sing their hearts out at St George’s Cathedral](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
-    
-    [![Sir Keir Starmer and Sadiq Khan pose for pictures. 
-    Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sir-Keir-Starmer-and-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-is-still-lobbying-sir-keir-starmer-to-create-a-youth-mobility-scheme-with-the-eu/)
-    
-    ### [Sadiq Khan is still lobbying Sir Keir Starmer to create a youth mobility scheme with the EU](https://southwarknews.co.uk/area/london/sadiq-khan-is-still-lobbying-sir-keir-starmer-to-create-a-youth-mobility-scheme-with-the-eu/) 
-    
-    [![Amy Lamé, London's Night Czar. 
-    Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/10/Amy-lame-360x180.jpg)](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
-    
-    ### [London’s night czar, Amy Lamé, has announced she will stand down](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
-    
-    [![Im](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-1-1-1-360x180.png)](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
-    
-    ### [Comment on phone-snatching: Londoners are doomed if police can’t get the basics right](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
-    
-    [![Erene Goodsir](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-03-10-2024-at-14.54-360x180.jpg)](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
-    
-    ### [Woman quits smoking in time for her 80th birthday](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -101,6 +99,26 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(photo: The estate of Charlotte Johnson Wahl)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-07-10-2024-at-13.21-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
+    
+    ### [Boris Johnson’s artist mum was a patient at the Maudsley – and now her paintings are being displayed](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
+    
+    [![The Southwark Sea Cadets pose for a photo. Credit: SSC](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-07-12-27-15-360x180.jpg)](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
+    
+    ### [Walworth Sea Cadets fighting for survival as headquarters ‘fall apart’](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
+    
+    [![Aaron Bailey, described as Black, 5ft 10, with short black hair and a black beard, is wanted in connection with a robbery in Epsom. Image: Surrey Police](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aaron-Bailey-described-as-Black-5ft-10-with-short-black-hair-and-a-black-beard-is-wanted-in-connection-with-a-robbery-in-Epsom.-Image-Surrey-Police-360x180.png)](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
+    
+    ### [Wanted: £5,000 reward for man with links to Southwark](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/07/Police-5-stock-e1534507967176-360x180.jpeg)](https://southwarknews.co.uk/area/london/data-reveals-only-one-in-seven-acid-attacks-in-london-lead-to-criminal-charges/)
+    
+    ### [Data reveals only one in seven acid attacks in London lead to criminal charges](https://southwarknews.co.uk/area/london/data-reveals-only-one-in-seven-acid-attacks-in-london-lead-to-criminal-charges/)
+    
+    [![London mayor Sadiq Khan. Photo from Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan.-Photo-from-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-optimistic-about-the-prospect-of-the-high-speed-2-rail-line/)
+    
+    ### [Sadiq Khan optimistic about the prospect of the High Speed 2 rail line](https://southwarknews.co.uk/area/london/sadiq-khan-optimistic-about-the-prospect-of-the-high-speed-2-rail-line/)
+    
     [![Women featured in a video released by King's College Hospital urging women to attend screenings. Credit: KCH](https://southwarknews.co.uk/wp-content/uploads/2024/10/Women-featured-in-a-video-released-by-Kings-College-Hospital-urging-women-to-attend-screenings.-Credit-KCH-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
     
     ### [South London women urged to get breast screenings](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
@@ -116,28 +134,6 @@ View All Result
     [![The family launched Joshy Boy Legacy last month. Credit: Joshy Boy Legacy](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_5449_Original-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
     
     ### [Disabled boy’s housing struggles inspires Rotherhithe family’s push for accessible homes](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
-    
-    [![(Archdiocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-18.07-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
-    
-    ### [Watch the angelic schoolkids of Southwark sing their hearts out at St George’s Cathedral](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
-    
-    [![Sir Keir Starmer and Sadiq Khan pose for pictures. 
-    Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sir-Keir-Starmer-and-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-is-still-lobbying-sir-keir-starmer-to-create-a-youth-mobility-scheme-with-the-eu/)
-    
-    ### [Sadiq Khan is still lobbying Sir Keir Starmer to create a youth mobility scheme with the EU](https://southwarknews.co.uk/area/london/sadiq-khan-is-still-lobbying-sir-keir-starmer-to-create-a-youth-mobility-scheme-with-the-eu/) 
-    
-    [![Amy Lamé, London's Night Czar. 
-    Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/10/Amy-lame-360x180.jpg)](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
-    
-    ### [London’s night czar, Amy Lamé, has announced she will stand down](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
-    
-    [![Im](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-1-1-1-360x180.png)](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
-    
-    ### [Comment on phone-snatching: Londoners are doomed if police can’t get the basics right](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
-    
-    [![Erene Goodsir](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-03-10-2024-at-14.54-360x180.jpg)](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
-    
-    ### [Woman quits smoking in time for her 80th birthday](https://southwarknews.co.uk/news/community/woman-quits-smoking-in-time-for-her-80th-birthday/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -378,6 +374,24 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 ### Featured Articles
 
+[![(photo: The estate of Charlotte Johnson Wahl)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-07-10-2024-at-13.21-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
+
+### [Boris Johnson’s artist mum was a patient at the Maudsley – and now her paintings are being displayed](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
+
+[7th October 2024](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
+
+[![The Southwark Sea Cadets pose for a photo. Credit: SSC](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-07-12-27-15-120x86.jpg)](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
+
+### [Walworth Sea Cadets fighting for survival as headquarters ‘fall apart’](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
+
+[7th October 2024](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
+
+[![Aaron Bailey, described as Black, 5ft 10, with short black hair and a black beard, is wanted in connection with a robbery in Epsom. Image: Surrey Police](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aaron-Bailey-described-as-Black-5ft-10-with-short-black-hair-and-a-black-beard-is-wanted-in-connection-with-a-robbery-in-Epsom.-Image-Surrey-Police-120x86.png)](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
+
+### [Wanted: £5,000 reward for man with links to Southwark](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
+
+[7th October 2024](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
+
 [![Murderers: Maria Manning and Frederick Manning](https://southwarknews.co.uk/wp-content/uploads/2024/10/Murderers-Maria-Manning-and-Frederick-Manning-120x86.png)](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
 
 ### [The Rise of Scotland Yard: How the Manning case shaped detective history, new book reveals](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
@@ -395,25 +409,6 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 ### [Disabled boy’s housing struggles inspires Rotherhithe family’s push for accessible homes](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
 
 [6th October 2024](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
-
-[![(Archdiocese of Southwark)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-18.07-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
-
-### [Watch the angelic schoolkids of Southwark sing their hearts out at St George’s Cathedral](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
-
-[6th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/watch-the-angelic-schoolkids-of-southwark-sing-their-hearts-out-at-st-georges-cathedral/)
-
-[![Amy Lamé, London's Night Czar. 
-Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/10/Amy-lame-120x86.jpg)](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
-
-### [London’s night czar, Amy Lamé, has announced she will stand down](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
-
-[6th October 2024](https://southwarknews.co.uk/area/london/londons-night-czar-amy-lame-has-announced-she-will-stand-down/)
-
-[![Im](https://southwarknews.co.uk/wp-content/uploads/2024/09/image-1-1-1-e1727863506265-120x86.png)](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
-
-### [Comment on phone-snatching: Londoners are doomed if police can’t get the basics right](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
-
-[5th October 2024](https://southwarknews.co.uk/featured/comment-on-phone-snatching-londoners-are-doomed-if-police-cant-get-the-basics-right/)
 
 ### USEFUL PAGES
 
