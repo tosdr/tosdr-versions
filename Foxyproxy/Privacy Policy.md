@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great and prompt service. I'm extremely happy.
+Great service!
 
-Dan Rosendorf
+Guy Cracknell
