@@ -173,7 +173,9 @@ Our organization is subject to the investigatory and enforcement powers of the F
 
 We are required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may be liable in cases of onward transfer to third parties.
 
-We began following the Privacy Policy rules on April 1, 2018. 
+We began following the Privacy Policy rules on April 1, 2018.
+
+**To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit** **[https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)**  
 
 ### Anonymous data collection and use
 
