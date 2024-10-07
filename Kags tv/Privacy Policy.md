@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/d2ec8335-f4fe-4762-8941-8d1ff0a596f9/20241007T154247/d2ec8335-f4fe-4762-8941-8d1ff0a596f9_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/d2ec8335-f4fe-4762-8941-8d1ff0a596f9/20241007T154247/d2ec8335-f4fe-4762-8941-8d1ff0a596f9_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-16-year-old-last-seen-in-navasota-area-on-oct-5-2024/500-f1dc6498-7c6e-4b54-ab14-f03d0da00a3f)
+        
+        #### [Authorities seeking help finding missing 16-year-old last seen in Navasota area](https://www.kagstv.com/article/news/local/missing-16-year-old-last-seen-in-navasota-area-on-oct-5-2024/500-f1dc6498-7c6e-4b54-ab14-f03d0da00a3f)
+        
     *  [![](https://media.kagstv.com/assets/WFAA/images/cbb3bc21-26e1-441a-89ba-7474c3edd5a2/20241005T202324/cbb3bc21-26e1-441a-89ba-7474c3edd5a2_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/cbb3bc21-26e1-441a-89ba-7474c3edd5a2/20241005T202324/cbb3bc21-26e1-441a-89ba-7474c3edd5a2_360x203.jpg)](https://www.kagstv.com/article/news/politics/inside-politics/texas-politics/prominent-texas-republican-endorses-democrats-kamala-harris-colin-allred/287-1a3450ff-8796-49bc-9363-e8e4d726c7b8)
         
         #### [Prominent Texas Republican endorses Democrats Kamala Harris and Colin Allred](https://www.kagstv.com/article/news/politics/inside-politics/texas-politics/prominent-texas-republican-endorses-democrats-kamala-harris-colin-allred/287-1a3450ff-8796-49bc-9363-e8e4d726c7b8)
-        
-    *  [![](https://media.kagstv.com/assets/KSDK/images/b6dc79a3-729d-4ac6-9616-bff4ff9958cd/20240912T075230/b6dc79a3-729d-4ac6-9616-bff4ff9958cd_16x9.jpg) ![](https://media.kagstv.com/assets/KSDK/images/b6dc79a3-729d-4ac6-9616-bff4ff9958cd/20240912T075230/b6dc79a3-729d-4ac6-9616-bff4ff9958cd_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-blue-alert-hall-county-what-is-it-suspect-seth-altman/287-bbb3c4a8-14be-4993-9c5c-94b5c3128587)
-        
-        #### [Here's why cellphones across Texas (including yours) lit up early Friday morning](https://www.kagstv.com/article/news/local/texas-blue-alert-hall-county-what-is-it-suspect-seth-altman/287-bbb3c4a8-14be-4993-9c5c-94b5c3128587)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-79°
+94°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
