@@ -60,7 +60,7 @@ Need A Suggestion? We got You...
     * [Relationships](https://xtramagazine.com/love-sex/relationships)
     * [Ask Kai](https://xtramagazine.com/series/ask-kai-advice-for-the-apocalypse)
     * [Love Like Mine Essays](https://xtramagazine.com/series/love-like-mine)
-* [Health](https://xtramagazine.com/power/politics)
+* [Health](https://xtramagazine.com/health)
     * [Sexual Health](https://xtramagazine.com/health/sexual-health)
     * [Mental Health](https://xtramagazine.com/health/mental-health)
     * [Trans Health](https://xtramagazine.com/health/trans-health)
