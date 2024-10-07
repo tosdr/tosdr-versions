@@ -35,7 +35,7 @@ Terms and Policies
 
 **Terms and Policies**
 
-Last Updated: March 12, 2024
+Last Updated: October 06, 2024
 
 When we say “our”, “us”, “we” or “Fandango” in the Fandango Terms and Policies, we mean Fandango Media, LLC or its subsidiaries. The Fandango Terms and Policies apply to websites and applications operating under the Fandango, Fandango at Home, Vudu, Rotten Tomatoes, Flixster, Movieclips, Movies.com, Activaterewards.com, MovieTickets.com or M-GO brands or other brands that we own, as well as to our websites, applications, emails or other communications that link to or reference any terms or policies that are a part of the Fandango Terms and Policies (each, a “Fandango Policy”), or the other services provided through any of these means (all of the foregoing collectively, the “Services”).
 
@@ -51,6 +51,7 @@ The Fandango Terms and Policies (the “Fandango Terms and Policies”) consist 
 * [Promo Code Policy](https://www.fandango.com/policies/promo-code-policy)
 * [Gift Card Terms](https://www.fandango.com/policies/gift-card-terms)
 * [FanRewards Program Terms](https://www.fandango.com/policies/fanrewards-terms)
+* [FanClub Program Terms](https://www.fandango.com/policies/fanclub-terms)
 
 Offers
 ------
@@ -111,10 +112,10 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235827/SNE_Tsr1Sheet5_Comp93_RGB_2.jpg)
     
     Speak No Evil (2024)](https://www.fandango.com/speak-no-evil-2024-235827/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237333/FND_poster_MyHeroAcademiaYoureNext-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237333/myheroacademia-yourenext-posterart.jpg)
     
     My Hero Academia: You're Next (2024)](https://www.fandango.com/my-hero-academia-youre-next-2024-237333/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237168/FND_poster_Terrifier3-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237168/TERRIFIER-3-Hero-Theatrical-SM.jpg)
     
     Terrifier 3 (2024)](https://www.fandango.com/terrifier-3-2024-237168/movie-overview)
 
