@@ -190,14 +190,12 @@
 
 Subscribe
 
-[#### Sexual Health](https://www.healthline.com/sexual-health)
+[#### Migraine](https://www.healthline.com/migraine)
 
-* [Birth control](https://www.healthline.com/sexual-health/birth-control)
-* [STIs](https://www.healthline.com/sexual-health/sexually-transmitted-infections)
-* [HIV](https://www.healthline.com/sexual-health/hiv-aids)
-* [HSV](https://www.healthline.com/sexual-health/oral-genital-herpes)
-* [Activity](https://www.healthline.com/sexual-health/sexual-activity)
-* [Relationships](https://www.healthline.com/sexual-health/relationships-intimacy)
+* [Basics](https://www.healthline.com/migraine/basics)
+* [Treatments](https://www.healthline.com/migraine/medication-treatments)
+* [Alternative Therapies](https://www.healthline.com/migraine/alternative-therapy)
+* [Prevention](https://www.healthline.com/migraine/prevention-and-self-care)
 
 Privacy Policy
 ==============
