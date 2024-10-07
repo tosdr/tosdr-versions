@@ -213,6 +213,7 @@ To learn more about cookies, and find more information about blocking certain ty
 | MLB | These cookies are set by MLB, and may be used for displaying embedded content. |
 | MRCTV | These cookies are set by MRCTV, and may be used for displaying embedded content. |
 | MSNBC | These cookies are set by MSNBC, and may be used for displaying embedded content. |
+| Trending Views | These cookies are set by Trending Views, and may be used for displaying embedded content. |
 | National Geographic Channel | These cookies are set by National Geographic Channel, and may be used for displaying embedded content. |
 | National Geographic Video | These cookies are set by National Geographic Video, and may be used for displaying embedded content. |
 | NBC News | These cookies are set by NBC News, and may be used for displaying embedded content. |
@@ -291,25 +292,25 @@ To learn more about cookies, and find more information about blocking certain ty
 
 ### Share this page
 
-[WhatsApp](#_xfUid-1-1728249567) [Email](#_xfUid-1-1728249567) [Share](#_xfUid-1-1728249567) [Link](#_xfUid-1-1728249567)
+[WhatsApp](#_xfUid-1-1728271128) [Email](#_xfUid-1-1728271128) [Share](#_xfUid-1-1728271128) [Link](#_xfUid-1-1728271128)
 
 ### Forum statistics
 
 Threads
 
-66,122
+66,124
 
 Messages
 
-2,834,957
+2,835,607
 
 Members
 
-4,535,277
+4,536,191
 
 Latest member
 
-[raulo1985](https://platinmods.com/members/raulo1985.4863979/)
+[kavishy](https://platinmods.com/members/kavishy.4864895/)
 
 * [Platinmods.com - Futuristic S-Dark](https://platinmods.com/misc/style "Style chooser")
 
