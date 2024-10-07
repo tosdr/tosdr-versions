@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/obama-wir-haben-nichts-gewust/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/dit-al-gelezen-remote-viewing-ingo-swann/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
