@@ -259,9 +259,9 @@ Table of Contents Table of Contents Toggle navigation
         * [Synced knowledge base](https://www.knowledgeowl.com/help/synced-knowledge-base)
     * [Import content](https://www.knowledgeowl.com/help/import-content)
         
-        * [Import from Confluence](https://www.knowledgeowl.com/help/import-from-confluence)New
-        * [Import from Zendesk](https://www.knowledgeowl.com/help/import-from-zendesk)Updated
-        * [Import from Freshdesk](https://www.knowledgeowl.com/help/import-from-freshdesk)Updated
+        * [Import from Confluence](https://www.knowledgeowl.com/help/import-from-confluence)
+        * [Import from Zendesk](https://www.knowledgeowl.com/help/import-from-zendesk)
+        * [Import from Freshdesk](https://www.knowledgeowl.com/help/import-from-freshdesk)
         * [Import with the API](https://www.knowledgeowl.com/help/api-import)
         * [Testing imports](https://www.knowledgeowl.com/help/test-imports)
         * [Import best practices](https://www.knowledgeowl.com/help/import-best-practices)
