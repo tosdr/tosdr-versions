@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 6, 2024**
+**October 7, 2024**
 
 * * *
 
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
-
 [Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
-[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
+[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+
+[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
 
-[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
-
 [Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
+
+[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
-[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
+[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
-[Endangered Plants](https://www.sciencedaily.com/news/plants_animals/endangered_plants/)
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
 
   
 
