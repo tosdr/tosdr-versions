@@ -21,7 +21,7 @@
 * [About](https://www.women.com/about/)
 * [Editorial Policies](https://www.women.com/policies/)
 * [Our Experts](https://www.women.com/our-experts/)
-* [Privacy Policy](https://www.static.com/privacy-policy)
+* [Privacy Policy](https://www.static.com/privacy-policy/)
 * [Terms of Use](https://www.static.com/terms)
 
 © 2024 [Static Media](https://www.static.com/). All Rights Reserved
@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Tiffany Trump on the red carpet](https://www.women.com/img/gallery/tiffany-trump-outfits-that-just-didnt-work/intro-1727980253.jpg)](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
+*  [![Christina Funke Tegbe on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-54-thrones-african-skincare-beauty-products-after-shark-tank/intro-1728063581.jpg)](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Living](https://www.women.com/category/living/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
     
-    [Tiffany Trump Outfits That Just Didn't Work](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
-    ===================================================================================================================
+    [Here's What Went Down With 54 Thrones African Skincare & Beauty Products After Shark Tank](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
+    =======================================================================================================================================================================================================
     
-    The former First Daughter isn't exactly a fashion mogul, so we can forgive the occasional style mishap. However, some of her outfits left a lot to be desired.
+    54 Thrones, a mission-driven beauty brand, thrived after netting an investment on "Shark Tank." Eight years after founding, the company is expanding.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
+    By Emily Hutchinson [Read More](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
     
-* *  [![Two women in bed](https://www.women.com/img/gallery/a-beginners-guide-to-sapphic-sex-for-if-youre-dating-women-for-the-first-time/intro-1727463730.jpg)](https://www.women.com/1675459/beginners-guide-sapphic-sex-dating-women-first-time/)
+* *  [![Tiffany Trump on the red carpet](https://www.women.com/img/gallery/tiffany-trump-outfits-that-just-didnt-work/intro-1727980253.jpg)](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        
+        ### [Tiffany Trump Outfits That Just Didn't Work](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
+        
+        The former First Daughter isn't exactly a fashion mogul, so we can forgive the occasional style mishap. However, some of her outfits left a lot to be desired.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
+        
+    *  [![Two women in bed](https://www.women.com/img/gallery/a-beginners-guide-to-sapphic-sex-for-if-youre-dating-women-for-the-first-time/intro-1727463730.jpg)](https://www.women.com/1675459/beginners-guide-sapphic-sex-dating-women-first-time/)
         
         [Politics](https://www.women.com/category/politics/)
         
@@ -66,22 +78,22 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1675459/beginners-guide-sapphic-sex-dating-women-first-time/)
         
-    *  [![Angelina Jolie](https://www.women.com/img/gallery/the-ultimate-guide-to-angelina-jolies-many-tattoos/intro-1727977665.jpg)](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-        
-        ### [The Ultimate Guide To Angelina Jolie's Many Tattoos](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
-        
-        While some of Angelina Jolie's tattoos are obvious, some are far more nuanced, and others are completely private.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
-        
 
 More Stories
 ------------
 
+*  [![Angelina Jolie](https://www.women.com/img/gallery/the-ultimate-guide-to-angelina-jolies-many-tattoos/intro-1727977665.jpg)](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+    
+    ### [The Ultimate Guide To Angelina Jolie's Many Tattoos](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
+    
+    While some of Angelina Jolie's tattoos are obvious, some are far more nuanced, and others are completely private.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
+    
 *  [![florence pugh](https://www.women.com/img/gallery/florence-pughs-edgiest-hair-looks-from-blond-to-buzzed/intro-1727809894.jpg)](https://www.women.com/1677803/florence-pugh-edgiest-hair-looks-blond-buzzed/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -394,24 +406,12 @@ More Stories
     
     By Emily Hutchinson [Read More](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
     
-*  [![Two women embracing](https://www.women.com/img/gallery/the-pros-and-cons-to-soft-swinging-because-its-on-everyones-lips/intro-1726848271.jpg)](https://www.women.com/1669700/pros-cons-soft-swinging/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
-    
-    ### [The Pros And Cons To 'Soft Swinging' (Because It's On Everyone's Lips)](https://www.women.com/1669700/pros-cons-soft-swinging/)
-    
-    "The Secret Lives of Mormon Wives" has made many curious about "soft swinging." Experts explained the pros and cons of engaging in non-monogamous sex.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1669700/pros-cons-soft-swinging/)
-    
 
 Back
 
 [Next](https://www.women.com/page/2/ "Ahead")
 
-[About](https://www.women.com/about/) [Privacy Policy](https://www.static.com/privacy-policy)
+[About](https://www.women.com/about/) [Privacy Policy](https://www.static.com/privacy-policy/)
 
 © 2024 [Static Media](https://www.static.com/)® Women.com All Rights Reserved
 
