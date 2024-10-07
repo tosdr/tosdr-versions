@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/storms/hurricane/video/hurricane-milton-major-florida-flood-surge)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/storms/hurricane/video/hurricane-milton-major-florida-flood-surge)
+[Top Weather Stories](https://weather.com/storms/hurricane/video/milton-hurricane-gulf-florida-track-update)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/storms/hurricane/video/milton-hurricane-gulf-florida-track-update)
 
 Products
 --------
