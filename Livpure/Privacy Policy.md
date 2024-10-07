@@ -493,29 +493,19 @@ Plot No 39, Sector 4, IMT Manesar, Gurgaon, Haryana, 122050, India
 * Paytm
 * RuPay
 
-New to Livpure ?
-
-Create an account with us to view your order status online. Your details can also be saved for faster checkout.
-
-[SIGN UP TODAY](javascript:void(0))
-
-[ALREADY REGISTERED? SIGN IN](javascript:void(0))
-
-[CustomerHub](https://apps.shopify.com/customerhub?ref=minihub)
-
 ★ Judge.me Reviews
 
 ### Let customers speak for us
 
-[4549 reviews](https://www.livpure.com/pages/reviews)
+[4809 reviews](https://www.livpure.com/pages/reviews)
 
 [Write a review](#)
 
-87%
+83%
 
 (3979)
 
-10%
+9%
 
 (443)
 
@@ -590,6 +580,16 @@ Overall recommended product.
 Thank you for your valuable review. We are glad that you are loving our products. We would love to serve you again!
 
 123
+
+New to Livpure ?
+
+Create an account with us to view your order status online. Your details can also be saved for faster checkout.
+
+[SIGN UP TODAY](javascript:void(0))
+
+[ALREADY REGISTERED? SIGN IN](javascript:void(0))
+
+[CustomerHub](https://apps.shopify.com/customerhub?ref=minihub)
 
 * Choosing a selection results in a full page refresh.
 * Opens in a new window.
