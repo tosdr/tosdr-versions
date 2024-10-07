@@ -14,7 +14,7 @@ Index Éducation est certifiée ISO 9001 depuis juillet 2020. Cette certificatio
 
 [Consulter notre politique de Qualité](https://www.index-education.com/contenu/telechargement/doc/ISO_9001-Politique-Qualite-Index-Education.pdf)
 
-[](javascript:;)
+[](javascript:; "haut de la page")
 
 ![INDEX EDUCATION - Espace client](https://www.index-education.com/contenu/img/commun/logo-index-education.png) Vous êtes inscrit à l'Espace Client : identifiez-vous
 
@@ -198,4 +198,4 @@ Légal produits
 * [Conditions générales d'utilisation et de vente de nos logiciels](https://www.index-education.com/fr/conditions-generales-de-vente.php)
 * [Politique de protection des données personnelles](https://www.index-education.com/fr/politique-de-protection-des-donnees.php)
 
-INDEX ÉDUCATION | © 2024 \- B
+INDEX ÉDUCATION | © 2024 \- D
