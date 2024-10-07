@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Guess how old the user behind AN is (973)](https://forum.nationstates.net/viewtopic.php?t=551620&f=25&view=unread#unread ""Guess how old the user behind AN is" (973 posts)")
-* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (8,930)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (8,930 posts)")
-* [Australians protesting in favour of H… (218)](https://forum.nationstates.net/viewtopic.php?t=556236&f=20&view=unread#unread ""Australians protesting in favour of Hezbollah and Hamas" (218 posts)")
-* [The Western Isles News (8,394)](https://forum.nationstates.net/viewtopic.php?t=337003&f=4&view=unread#unread ""The Western Isles News" (8,394 posts)")
-* [What triggers you about the AN? (8,908)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (8,908 posts)")
+* [What would the AN get if trading card… (190)](https://forum.nationstates.net/viewtopic.php?t=555137&f=25&view=unread#unread ""What would the AN get if trading cards came now?" (190 posts)")
+* [The LGBT+ Thread: Rainbow Connections (2,820)](https://forum.nationstates.net/viewtopic.php?t=538581&f=20&view=unread#unread ""The LGBT+ Thread: Rainbow Connections" (2,820 posts)")
+* [AL hugs YL (21)](https://forum.nationstates.net/viewtopic.php?t=556020&f=25&view=unread#unread ""AL hugs YL" (21 posts)")
+* [Internal and International Incidents… (2,648)](https://forum.nationstates.net/viewtopic.php?t=525793&f=5&view=unread#unread ""Internal and International Incidents [IC • OPEN]" (2,648 posts)")
+* [What do you think of when you see the… (9,030)](https://forum.nationstates.net/viewtopic.php?t=527620&f=25&view=unread#unread ""What do you think of when you see the AN's flag? V" (9,030 posts)")
 
 Advertisement
 
