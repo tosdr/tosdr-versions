@@ -20,6 +20,7 @@ EN
 * [Kids](https://www.vinted.com/catalog/1193-kids)
 * [Home](https://www.vinted.com/catalog/1918-home)
 * [Electronics](https://www.vinted.com/catalog/2994-electronics)
+    
 * [Entertainment](https://www.vinted.com/catalog/2309-entertainment)
 * [Pet care](https://www.vinted.com/catalog/2093-pet-care)
 * [About](https://www.vinted.com/about)
