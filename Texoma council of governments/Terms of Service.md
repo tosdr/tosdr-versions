@@ -142,14 +142,6 @@ Sherman, TX 75090
 Upcoming Events
 ---------------
 
-Oct 5
-
-8:00 am - 12:00 pm
-
-### [Household Hazardous Waste Collection Event](https://tcog.com/event/household-hazardous-waste-collection-event-4/ "Household Hazardous Waste Collection Event")
-
-Bonham
-
 Oct 10
 
 4:00 pm - 5:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
