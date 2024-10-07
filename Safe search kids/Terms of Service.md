@@ -35,13 +35,15 @@ Safe Search Kids is not directly endorsed by Google, nor is it directly affiliat
 
 Search results are provided by the _default search results_ as determined by Google SafeSearch filtering. Within the guidelines of Google Custom Search, additional urls (full websites including sub domains, or individual pages therein) have been removed as we deem them inappropriate for our users.
 
-We welcome suggestions from our users in order to add to the filtering effectiveness of Safe Search Kids. All requests submitted through our contact page by users for removal of additional urls (websites, whether in whole or in part) from our search results are reviewed by us within 48 hours. Implementation of these removal requests, or the decision to not comply with these suggested exclusions, are subject to our discretion as to whether the information on said urls (websites or pages therein) are indeeded inappropriate for our users. Safe Search Kids makes every effort to reply to individuals who contact us with suggestions on our search results.
+**Learn about Intellectual Property, Patents, and Trademarks**  
+
+We welcome suggestions from our users in order to add to the filtering effectiveness of Safe Search Kids. All requests submitted through our contact page by users for removal of additional urls (websites, whether in whole or in part) from our search results are reviewed by us within 48 hours. Implementation of these removal requests, or the decision to not comply with these suggested exclusions, are subject to our discretion as to whether the information on said urls (websites or pages therein) are in deeded inappropriate for our users. Safe Search Kids makes every effort to reply to individuals who contact us with suggestions on our search results.
 
 **Copyright Notice Regarding Our Content  
 **
 ---------------------------------------------
 
-You may view, download and print pages from our website for your own personal use, subject to the following restrictions. You may not republish material from this website in whole or in part online. _(This will result in duplicate content and hurts our website listing in Google search results. As stated previously, links to the content on our website is permissible)_. You may not reproduce, duplicate, copy or otherwise exploit material on our website for commercial purposes.
+You may view, download and print pages from our website [for your own personal use](https://www.safesearchkids.com/copyright-vs-creative-commons-rights-and-flexibility-for-creators/), subject to the following restrictions. You may not republish material from this website in whole or in part online. _(This will result in duplicate content and hurts our website listing in Google search results. As stated previously, links to the content on our website is permissible)_. You may not reproduce, duplicate, copy or otherwise exploit material on our website for commercial purposes.
 
 Printing content from our website for personal use or for educational purposes, such as in a classroom, is permitted as long as credit is given to Safe Search Kids with full stated url _www.SafeSearchKids.com_.
 
@@ -91,11 +93,11 @@ We strongly advise You to read the terms and conditions and privacy policies of 
 
 If you are browsing our website from the European Union or California in the United States, you will benefit from any mandatory provisions of the law of the country or state in which you are resident in.
 
-* **GDPR** refers to EU General Data Protection Regulation.
-
-* **CCPA** refers to the California Consumer Privacy Act (the “CCPA”) as amended by the California Privacy Rights Act of 2020 (the “CPRA”).
-
-* **CalOPPA** is the “Do Not Track” policy as required by California Online Privacy Protection Act.
+> **GDPR** refers to EU General Data Protection Regulation.
+> 
+> **CCPA** refers to the California Consumer Privacy Act (the “CCPA”) as amended by the California Privacy Rights Act of 2020 (the “CPRA”).
+> 
+> **CalOPPA** is the “Do Not Track” policy as required by California Online Privacy Protection Act.
 
 **Protection for Children** is how we protect the privacy of children under the age of 13 by not collecting their personal data.  We also abide by the California Privacy Rights for Minor Users under the age 18.
 
@@ -114,16 +116,19 @@ You may be held accountable for damages (including costs and attorneys’ fees) 
 
 You may submit a notification pursuant to the Digital Millennium Copyright Act (DMCA) by providing our Copyright Agent with the following information in writing (see 17 U.S.C 512(c)(3) for further detail).  Initial contact with us can be simple note via our contact page, at which point we will respond to you via our company email for further correspondence.
 
-* An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright’s interest.
-* A description of the copyrighted work that You claim has been infringed, including the URL (i.e., web page address) of the location where the copyrighted work exists or a copy of the copyrighted work.
-* Identification of the URL or other specific location on the Service where the material that You claim is infringing is located.
-* Your address, telephone number, and email address.
-* A statement by You that You have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
-* A statement by You, made under penalty of perjury, that the above information in Your notice is accurate and that You are the copyright owner or authorized to act on the copyright owner’s behalf.
+> An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright’s interest.
+> 
+> A description of the copyrighted work that You claim has been infringed, including the URL (i.e., web page address) of the location where the copyrighted work exists or a copy of the copyrighted work.
+> 
+> Identification of the URL or other specific location on the Service where the material that You claim is infringing is located.
+> 
+> Your address, telephone number, and email address.
+> 
+> A statement by You that You have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
+> 
+> A statement by You, made under penalty of perjury, that the above information in Your notice is accurate and that You are the copyright owner or authorized to act on the copyright owner’s behalf.
 
 Upon receipt of a notification, we will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged content from the Service.
-
-**Learn about Intellectual Property, Patents, and Trademarks**  
 
 Contact Us
 ----------
