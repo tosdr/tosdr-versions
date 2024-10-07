@@ -94,13 +94,13 @@ Senior Leaders & Teams
 
 Spotlight
 
-Generating the Future: Exploring AI in Higher Education
+Higher Education Builds America
 
-In the latest episode: our hosts are joined by the chief information officer of Arizona State University, and ACE's Derrick Anderson, to discuss AI's role in higher education.
+​The key to unlocking America’s potential is strengthening our world-leading colleges and universities because higher education builds America.
 
-[Read more](https://www.acenet.edu/Pages/dotedu/110-Generating-the-Future.aspx)
+[Read more](https://www.acenet.edu/pages/higher-education-builds-america.aspx)
 
-![A green graphic with a column and the words "dotEDU" in white.](/PublishingImages/branding/dotEDU_Spotlight.png?RenditionID=12)
+![College students work on electronics](/PublishingImages/Interior-Page-Heroes/build-america.jpg?RenditionID=12)
 
 [Budget and Appropriations](https://www.acenet.edu/Policy-Advocacy/Pages/Budget-Appropriations/Budget-Appropriations.aspx)
 
