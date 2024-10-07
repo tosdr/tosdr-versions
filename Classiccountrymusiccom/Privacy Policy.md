@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Miranda Lambert & Lukas Nelson Sing...](https://classiccountrymusic.com/miranda-lambert-lukas-nelson-sing-silver-wings-in-thoughtful-tribute-to-kris-kristofferson/)
 * [Brad Paisley Pays Tribute To Charley...](https://classiccountrymusic.com/brad-paisley-pays-tribute-to-charley-pride-with-emotional-amas-performance/)
 * [Trisha Yearwood Sells Stunning Nashville Estate...](https://classiccountrymusic.com/trisha-yearwood-sells-stunning-nashville-estate-one-day-before-garth-brooks-lawsuit/)
-* [Lukas Nelson Sings “Loving Her Was...](https://classiccountrymusic.com/lukas-nelson-sings-loving-her-was-easier-in-captivating-tribute-to-kris-kristofferson/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -120,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [Miranda Lambert & Lukas Nelson Sing...](https://classiccountrymusic.com/miranda-lambert-lukas-nelson-sing-silver-wings-in-thoughtful-tribute-to-kris-kristofferson/)
 * [Josh Turner Honors Kris Kristofferson With...](https://classiccountrymusic.com/josh-turner-honors-kris-kristofferson-with-heartfelt-cover-of-a-moment-of-forever/)
 * [‘CMT’ To Air Special Tribute To...](https://classiccountrymusic.com/cmt-to-air-special-tribute-to-kris-kristofferson/)
-* [Video Resurfaces Of The Highwaymen Sharing...](https://classiccountrymusic.com/video-resurfaces-of-the-highwaymen-sharing-their-favorite-country-songs/)
 
 Privacy Policy
 ==============
