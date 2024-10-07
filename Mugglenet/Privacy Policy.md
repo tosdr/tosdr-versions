@@ -316,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Forty versions of Salazar Slytherin’s infamous locket had to be created to accommodate Harry Potter and Ron Weasley’s failed attempts to destroy it during filming.
+Minerva McGonagall played Quidditch while attending Hogwarts. In her seventh year, she received a concussion and several broken ribs during the Quidditch Cup against Slytherin.
 
 ### Potter History
 
-May 10, 2006 – The Harry Potter and the Goblet of Fire DVD sets a world record.
+June 15, 2011 – Pottermore’s teaser website is launched with a countdown to the reveal. No further information is given.
 
 ### Potter Quote
 
-“Hey! Mr. English guy! I think your egg is hatching!”
+“So you’re the guy with the case full of monsters, huh? That can get you killed, Mr. Scamander.”
 
 [](#)
 
