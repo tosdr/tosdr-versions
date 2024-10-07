@@ -17,6 +17,7 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Flowers + Movies = Perfect Halloween** Get $40 off spooky flowers with ticket purchase.
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 50% off on Terrifier 2!** When you buy a ticket to Terrifier 3
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Gift, Give or Receive a ticket to The Forge** With The Kingdom Builders Gifted Ticket Program
@@ -56,21 +57,13 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [Flowers + Movies = Perfect Halloween image link ![Flowers + Movies = Perfect Halloween](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ef14aa80-7f8d-11ef-8321-2b978811c524--fan-globalofferunit-homepage-bouqshalloween-292x118-v2b.png)](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer) 
+* [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/1b374770-82af-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-applepay-week14-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce) 
     
-    ### Flowers + Movies = Perfect Halloween
+    ### APPLE PAY WEDNESDAY
     
-    Get $40 off Spooky Flowers\* with your ticket purchase from 10/1 - 10/31. Don't miss out on this limited time offer!
+    Get $5 off ticket orders made on Wednesday, 10/9 using Apple Pay, for any movie playing on any day! Limited quantity. Terms Apply.
     
-    [LEARN MORE](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer)
-    
-* [Save $5 on Smile & Smile 2 Pre-Order Bundle image link ![Save $5 on Smile & Smile 2 Pre-Order Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a9d76f40-7d3d-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-smile2-292x118.png)](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer) 
-    
-    ### Save $5 on Smile & Smile 2 Pre-Order Bundle
-    
-    Buy a Ticket, Save $5 on Smile & Smile 2 Pre-Order Bundle to watch at home.
-    
-    [BUY TICKETS](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer)
+    [LEARN MORE](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce)
     
 * [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
     
@@ -79,6 +72,14 @@ Offers
     Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more!
     
     [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer)
+    
+* [Save $5 on Smile & Smile 2 Pre-Order Bundle image link ![Save $5 on Smile & Smile 2 Pre-Order Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a9d76f40-7d3d-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-smile2-292x118.png)](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer) 
+    
+    ### Save $5 on Smile & Smile 2 Pre-Order Bundle
+    
+    Buy a Ticket, Save $5 on Smile & Smile 2 Pre-Order Bundle to watch at home.
+    
+    [BUY TICKETS](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer)
     
 * [Save 50% off on Terrifier 2 image link ![Save 50% off on Terrifier 2](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b90e0070-77a0-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-terrifier3-292x118.png)](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_Footer) 
     
@@ -184,6 +185,16 @@ New & Coming soon
 [Advertise With Us](https://together.nbcuni.com/advertise/?utm_source=fandango&utm_medium=referral&utm_campaign=property_ad_pages)
 
 © 2024 Fandango
+
+### LIMITED TIME OFFER
+
+Close
+
+![Flowers + Movies = Perfect Halloween](https://images.fandango.com/cms/assets/05d80380-82bc-11ef-a07e-5b03d6159fe4--fan-globalnavbar-bouqshalloween-343x362-v2b.jpg)
+
+#### Get $40 OFF from The Bouqs Co. when you purchase a ticket between 10/1 and 10/31.
+
+Limited time offer. While supplies last. Rent or purchase any movie or TV show on Fandango at Home or purchase at least (1) movie ticket on Fandango between 12:00am PT on October 1, 2024 and 11:59pm PT on October 31, 2024 and get a Bouqs promo code (“code”) for $40 off one (1) qualifying merchandise product (before taxes) from a list of eligible flowers at https://bouqs.com/offers/fandangohalloween2024 plus receive $7.00 off shipping on weekday delivery. Code expires at 11:59 PT on November 18, 2024. Delivery not available in Puerto Rico, American Samoa, Guam, the Northern Marina Islands, the USVI, or APO/FPO addresses. Certain FedEx limitations exist in some areas of Hawaii and Alaska. Not combinable or stackable with any other offers. Code is not valid on vases, sale items, prior purchases, in-store pick-up orders or purchase made on The Bouqs Company iPhone, iPad or Android apps. One code per person per transaction. Code cannot be redeemed for cash and is not valid for resale. [LEARN MORE](https://www.fandangomovietickets.com/bouqshalloween2024?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_promomodule)
 
 ### SPECIAL OFFER
 
