@@ -167,7 +167,7 @@ Search
 * [News & Media](https://www.floridadisaster.org/news-media/)
     * [News Archive](https://www.floridadisaster.org/news-media/news/)
 * [Disaster Updates](https://www.floridadisaster.org/disaster-updates/)
-    * [Tropical Storm Milton](https://www.floridadisaster.org/disaster-updates/tropical-storm-milton/)
+    * [Hurricane Milton](https://www.floridadisaster.org/disaster-updates/Hurricanemilton/)
     * [Hurricane Helene](https://www.floridadisaster.org/disaster-updates/storm-updates/)
     * [Hurricane Debby Updates](https://www.floridadisaster.org/disaster-updates/hurricane-debby-updates/)
     * [June South Florida Flash Flooding Updates](https://www.floridadisaster.org/disaster-updates/june-south-florida-flash-flooding/)
@@ -190,7 +190,7 @@ Search
 
  ![](/Content/images/icon-menu.png) MENU
 
-Tropical Storm Milton [Updates](https://www.floridadisaster.org/disaster-updates/tropical-storm-milton/)
+Hurricane Milton [Updates](https://www.floridadisaster.org/disaster-updates/Hurricanemilton/)
 
 Hurricane Helene [Updates](https://www.floridadisaster.org/disaster-updates/storm-updates/)
 
@@ -223,11 +223,11 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Sunday, October 6, 2024**
+**Monday, October 7, 2024**
 
-_**Tropical Storm Milton (Updated 0924 EDT): About 345 Miles West-Northwest of Progreso, Mexico; About 860 Miles West-Southwest of Tampa, Florida...Maximum Sustained Winds of 60 MPH With Higher Gusts...On Forecast Track to Move Across Gulf of Mexico and Approach West Coast of Florida Peninsula Midweek...Steady to Rapid Strengthening Forecast During Next Few Days; Forecast to Become a Hurricane Later Today and Could Become Major Hurricane While it Moves Across Central and Eastern Gulf...Widespread Rainfall Totals of 5-8" Acoss Peninsula, With Locally Higher Totals  Upwards of 12"...Deteriorating Conditions To Begin Tuesday Evening Then Spread Eastward...Life-Threatening Storm Surge and Wind Impacts for Florida West Coast...**_
+_**Major Hurricane Milton (Updated 0924 EDT): About 750 Miles West-Southwest of Tampa and Moving East-Southeast at 8 MPH...Eastward to East-Southeastward Motion to Continue Through Tonight; Turn Toward East and Northeast Tuesday and Wednesday; Milton to move Near or Just North of Yucatan Peninsula Today and Tuesday Then Cross Eastern Gulf of Mexico and Approach West Coast Wednesday...Maximum Sustained Winds Near 120 MPH - Category 3 Hurricane...Forecast to Be Major Hurricane When Reaches West Coast Midweek...Hurricane and Tropical Storm Watches Issued Along Western Peninsula, Forgotten Coast & Keys; Storm Surge Watches for West Coast...**_
 
-**...Widespread Showers this Morning Throughout Most of the State...Additional Scattered to Numerous Showers With Embedded Thunderstorms Statewide...Tropical Moisture to Allow for Heavy and Intense Widespread Downpours...Flood Watches Begin Today Across the Florida Peninsula Ahead of Rainfall Associated with Tropcial Storm Milton...Moderate Risk (level 3 of 4) for Flash Flooding Across Southeast Metro...Locally Strong Thunderstorms Possible During Peak Heating Hours of Day...Near Triple Digit Heat Index Values Across Portions of South Florida and Keys...Drier Conditions Return Overnight Along Panhandle; Scattered to Numerous Showers to Continue Overnight Mainly South of I-4 Corridor...Moderate to High Risk for Rip Currents to Continue for Panhandle and East Coast...Minor Riverine Flooding Along Suwannee Valley and West-Central Florida...NHC Monitoring Three (3) Named System and One (1) Disturbance Within Atlantic Basin...**
+**...Drier Conditions Return Across Panhandle and Big Bend...Upper-Level Disturbance Along Eastern Gulf of Mexico, Separate From Milton, Continuing Active Weather Pattern Across Peninsula...Scattered to Numerous Showers With Embedded Thunderstorms to Develop...Flood Watches Continue Across Peninsula; Additional Flood Watches Possible For Northeast Florida in Next Day or Two...Moderate Risk for Flash Flooding Across Southeast Metro; Slight Risk Extending Along Space Coast Through Southwest Florida...Breezy Winds Developing Statewide; Strongest Wind Gusts Along West-Central Florida...Scattered Activity to Continue Overnight South of I-4 Corridor...Moderate to High Risk for Rip Currents Statewide...Minor to Moderate Riverine Flooding Ongoing or Forecast for Suwannee Valley and West-Central Florida...NHC Monitoring Three (3) Named System and One (1) Disturbance Within Atlantic Basin...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
