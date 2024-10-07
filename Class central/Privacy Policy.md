@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [7 Best Microsoft Power BI Courses for 2024](https://www.classcentral.com/report/best-microsoft-power-bi-courses/)
-2. [5 Best Free Human Physiology Courses for 2024](https://www.classcentral.com/report/best-human-physiology-courses/)
-3. [9 Best Google Ads (Adwords) Courses for 2024](https://www.classcentral.com/report/best-google-ads-courses/)
-4. [6 Best SEO Courses for 2024: Rank Higher on Google](https://www.classcentral.com/report/best-seo-courses/)
-5. [8 Best ZBrush Courses for 2024: Sculpting in 3D](https://www.classcentral.com/report/best-zbrush-courses/)
+1. [7 Best Microsoft PowerPoint Courses for 2024](https://www.classcentral.com/report/best-microsoft-powerpoint-courses/)
+2. [7 Best Microsoft Power BI Courses for 2024](https://www.classcentral.com/report/best-microsoft-power-bi-courses/)
+3. [5 Best Free Human Physiology Courses for 2024](https://www.classcentral.com/report/best-human-physiology-courses/)
+4. [9 Best Google Ads (Adwords) Courses for 2024](https://www.classcentral.com/report/best-google-ads-courses/)
+5. [6 Best SEO Courses for 2024: Rank Higher on Google](https://www.classcentral.com/report/best-seo-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. digital marketing
+1. English
     
-2. c
+2. computer science
     
-3. flutter
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Web Development
     
-    34,124 courses](https://www.classcentral.com/subject/cs)
-2. [Data Analysis
+    12,627 courses](https://www.classcentral.com/subject/web-development)
+2. [Computer Networking
     
-    7,846 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Python
+    1,431 courses](https://www.classcentral.com/subject/computer-networking)
+3. [Web Design
     
-    8,760 courses](https://www.classcentral.com/subject/python)
+    2,287 courses](https://www.classcentral.com/subject/web-design)
 
 Popular courses
 ---------------
 
-1. [Academic Writing Made Easy
+1. [Greening the Economy: Sustainable Cities
     
-    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/writing-technische-universitat-munchen-academic-w-13157)
-2. [Psychology of Personal Growth
+    Lund University](https://www.classcentral.com/course/gte-sustainable-cities-4851)
+2. [Introduction to Cyber Security
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
-3. [The Bible's Prehistory, Purpose, and Political Future
+    Uttarakhand Open University, Haldwani](https://www.classcentral.com/course/swayam-introduction-to-cyber-security-14116)
+3. [Happier Employees and Return-On-Investment Course
     
-    Emory University](https://www.classcentral.com/course/biblefuture-1406)
+    The University of Texas at Austin](https://www.classcentral.com/course/workplace-wellness-the-university-of-texas-at-aus-17121)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
