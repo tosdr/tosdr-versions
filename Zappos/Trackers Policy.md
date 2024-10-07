@@ -2,6 +2,8 @@
 
 10% off $100!+\* [Download & Open App to Get Code](https://www.zappos.com/c/apps)
 
+Top Boots & Sneakers for Fall 2024. [Shop Our Favorites](https://www.zappos.com/c/fall-footwear-picks-for-2024)
+
 The Big October Sale—Up to 80% Off! [Shop the Sale](https://www.zappos.com/null/4AEB4gICMByCAwOE8AE.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F&si=6223027%2C5805812%2C6175968%2C6010777%2C5856035%2C6084966%2C6043639%2C6023001%2C5141134%2C6239298%2C5868036%2C6221000%2C5313217%2C6194651%2C5433182%2C6219663%2C5690919%2C6030684%2C5796516%2C6265988%2C5370567%2C6279515%2C6042169%2C6227470%2C6302112%2C6099154%2C6064983%2C6099962%2C6168861%2C5564626%2C6056212%2C5863571%2C6320324%2C6373430%2C6268639%2C6219638&sy=1)
 
 Step into endless energy with this new style! [Shop Brooks Glycerin Max](https://www.zappos.com/c/brooks-glycerin)
