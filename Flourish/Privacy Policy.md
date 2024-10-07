@@ -16,15 +16,15 @@
 Flourish Privacy Policy
 =======================
 
-Last updated: 14 May 2024
--------------------------
+Last updated: 7 October 2024
+----------------------------
 
 [](#1-Introduction "1. Introduction")1\. Introduction
 -----------------------------------------------------
 
 At Flourish, we’re committed to protecting and respecting your privacy. We try to collect the minimum amount of personal information we need to run our services.
 
-This privacy policy (“**Privacy Policy**“) applies to our “**Service**“ (which includes, but is not limited to our website at flourish.studio, our Software Developer Kit (“SDK”), our Flourish API and our Flourish app within the Canva platform and any other format or method through which Users can access or use our Flourish platform from time to time). It explains when and why we collect personal information about people who visit our website, how we use it, the conditions under which we may disclose it to others, and how we keep it secure. Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms and Conditions](https://flourish.studio/terms/).
+This privacy policy (**“Privacy Policy”**) applies to our **“Service”** (which includes, but is not limited to our website at flourish.studio, our Software Developer Kit (“SDK”), our Flourish API and our Flourish app within the Canva platform and any other format or method through which Users can access or use our Flourish platform from time to time). It explains when and why we collect personal information about people who visit our website, how we use it, the conditions under which we may disclose it to others, and how we keep it secure. Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in our [Terms and Conditions](https://flourish.studio/terms/).
 
 By using our Service, you confirm that you have read and understand this Privacy Policy.
 
@@ -42,7 +42,7 @@ The data controller responsible for your personal information is Canva UK Operat
 [](#3-How-do-we-collect-information-from-you "3. How do we collect information from you?")3\. How do we collect information from you?
 -------------------------------------------------------------------------------------------------------------------------------------
 
-We obtain information about you when you sign up for access to Flourish, when you use Flourish, and when you sign up for our email newsletter. We also collect any personal information that is in data and code that you choose to upload to our website. We may also collect certain information from you automatically through cookies and other tracking technologies, as described below.
+We obtain information about you when you sign up for access to Flourish, when you use Flourish, when you contact us, and when you sign up for our email newsletter. We also collect any personal information that is in data and code that you choose to upload to our website. We may also collect certain information from you automatically through cookies and other tracking technologies, as described below.
 
 [](#4-Why-do-we-collect-information-from-you "4. Why do we collect information from you?")4\. Why do we collect information from you?
 -------------------------------------------------------------------------------------------------------------------------------------
@@ -61,7 +61,7 @@ If you are an individual and have questions or concerns about how your personal 
 
 ### [](#a-Information-you-give-us-directly "a. Information you give us directly")a. Information you give us directly
 
-When you sign up for our email newsletter, we collect your email address and company details (if applicable).
+When you sign up for our email newsletter, we collect your email address and company details (if applicable). When you contact us, we collect your email address, company details and phone number (if applicable).
 
 When you sign up to Flourish, we collect your Flourish username, display name and email address, plus optional additional information about your company, job role and your intended use of Flourish.
 
@@ -167,15 +167,15 @@ We may share your information, including personal data, with third-party service
 
 ### [](#c-Third-party-services-and-third-parties-with-whom-you-are-collaborating-or-with-whom-you-consent "c. Third-party services and third parties (with whom you are collaborating or with whom you consent):")c. Third-party services and third parties (with whom you are collaborating or with whom you consent):
 
-#### [](#i-Links-to-other-websites "i. Links to other websites.")i. Links to other websites.
+#### [](#i-Links-to-other-websites "i. Links to other websites")i. Links to other websites
 
 Flourish may contain links to other websites run by other organizations. This Privacy Policy applies only to our website and Service, so we encourage you to read the privacy statements on the other websites you visit. We are not responsible for how they process your personal information.
 
-#### [](#ii-Profile-Project-and-Template-visibility "ii. Profile, Project and Template visibility.")ii. Profile, Project and Template visibility.
+#### [](#ii-Profile-Project-and-Template-visibility "ii. Profile, Project and Template visibility")ii. Profile, Project and Template visibility
 
-Anyone with view access to your projects (e.g. you and any colleagues in the same Company account) will see your Projects or Templates listed on your profile page (“Profile”), along with your name, username and any additional information that you decided to add to your profile. You can also optionally enable your profile page to be publicly visible. If you do this, anyone on the internet will be able to view your published projects and profile information (but not any unpublished projects).
+Anyone with view access to your Projects (e.g. you and any colleagues in the same Company account) will see your Projects or Templates listed on your Profile page, along with your name, username and any additional information that you decided to add to your Profile. You can also optionally enable your Profile page to be publicly visible. If you do this, anyone on the internet will be able to view your published Projects and Profile information (but not any unpublished Projects).
 
-#### [](#iii-Business-transactions "iii. Business transactions.")iii. Business transactions.
+#### [](#iii-Business-transactions "iii. Business transactions")iii. Business transactions
 
 We may transfer your personal information to a third party as part of a sale of some or all of our business and assets to any third party or as part of any business restructuring or reorganization, or if we’re under a duty to disclose or share your personal information in order to comply with any legal obligation (such as a court order, subpoena or other legal obligation) or to enforce or apply our terms of use or to protect the rights, property or safety of our supporters and Users. However, we will take steps to ensure that your privacy rights continue to be protected in accordance with the terms of this Privacy Policy.
 
@@ -183,7 +183,7 @@ We will not sell or rent your information to third parties. We will also not sha
 
 We may disclose aggregate statistics about visitors to business partners, suppliers, sub-contractors for performance of the contract with you, and prospective purchasers of Flourish, but these statistics will not include any personally identifiable information about you.
 
-#### [](#iv-Law-enforcement "iv. Law enforcement.")iv. Law enforcement.
+#### [](#iv-Law-enforcement "iv. Law enforcement")iv. Law enforcement
 
 For matters that we are required to use your information by law: Flourish will use or disclose your information where we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms and Conditions](https://flourish.studio/terms/) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Flourish, our Users or others.
 
@@ -210,9 +210,13 @@ By using Flourish, you understand that your personal information may be transfer
 [](#13-How-long-do-we-keep-your-information "13. How long do we keep your information?")13\. How long do we keep your information?
 ----------------------------------------------------------------------------------------------------------------------------------
 
-If you ask us to delete your account, any project or profile information, plus any templates created by you that are not being used by other Users, will be deleted immediately. However, templates created by you that are already being used by other Users may continue to be available to those Users.
+If you decide to close your account, your User Content, Projects and Profile information, and any Templates created by you that are not being used by other Users, will be deleted. Please note, Templates created by you that are already being used by other Users may continue to be available to those Users after deletion of your account.
 
-If we delete your account for other reasons - such as a missed payment on a paid account - we will continue to store all projects, profile information and templates for a minimum period of 2 years after closure of an account, in order to allow the account to be reactivated without any data loss. We reserve the right to delete all templates, profile information and projects at the end of this period, or sooner on request from the company administrator who controls the account. We may also be required to retain your information to comply with our legal, financial and audit obligations, and for backup and archival purposes
+For Frozen accounts, we will continue to store all Projects, Profile information and Templates for a minimum period of 2 years after closure of an account, in order to allow the account to be reactivated without any data loss. We reserve the right to delete all Templates, Profile information and Projects at the end of this period, or sooner on request from the company administrator who controls the account.
+
+If we delete your account for other reasons – for example, for breach of our Terms and Conditions, we reserve the right to delete all Projects, Profile information and Templates without notice.
+
+In any case, we may also be required to retain your information to comply with our legal, financial and audit obligations, and for backup and archival purposes.
 
 [](#14-Your-rights-and-choices "14. Your rights and choices")14\. Your rights and choices
 -----------------------------------------------------------------------------------------
