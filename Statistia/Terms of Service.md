@@ -265,11 +265,11 @@
     
     Market forecast and expert KPIs for 1000+ markets in 190+ countries & territories
     
-    * Consumer
-    * Digital
-    * Mobility
-    
     [Explore Market Insights](https://www.statista.com/outlook/)
+    
+    * [Consumer](https://www.statista.com/outlook/consumer-markets)
+    * [Digital](https://www.statista.com/outlook/digital-markets)
+    * [Mobility](https://www.statista.com/outlook/mobility-markets)
     
     Consumer Insights
     
@@ -278,11 +278,11 @@
     * 2,000,000+ interviews
     * 15,000+ brands
     
-    [Explore Consumer Insights](https://www.statista.com/global-consumer-survey/surveys)
+    [Explore Consumer Insights](https://www.statista.com/insights/consumer)
     
     Company Insights
     
-    Business information on 70m+ public and private companies
+    Business information on 100m+ public and private companies
     
     * 100+ industries
     * 200+ countries and territories
