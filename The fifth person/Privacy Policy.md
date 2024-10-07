@@ -170,57 +170,59 @@ Quick Guides
 
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](https://fifthperson.com/wp-content/uploads/2016/12/SGX.jpg)](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/)
     
-    ![](https://fifthperson.com/wp-content/uploads/2023/09/ringgit-220x150.jpg)](https://fifthperson.com/malaysian-ringgit-strength-2024/)
+    [How to open a brokerage account in Singapore and choose the right broker (updated 2024)](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/)
     
-    [What’s behind the Malaysian ringgit’s strength in 2024?](https://fifthperson.com/malaysian-ringgit-strength-2024/)
-    
-    1 week ago
+    January 2, 2024
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2022/11/USD-220x150.jpg)](https://fifthperson.com/best-places-to-stash-us-dollars/)
+    ![](https://fifthperson.com/wp-content/uploads/2018/01/kuala-lumpur-1-220x150.jpg)](https://fifthperson.com/buy-shares-malaysia-open-malaysian-brokerage-account/)
     
-    [4 best places to stash your U.S. dollars](https://fifthperson.com/best-places-to-stash-us-dollars/)
+    [How to buy shares in Malaysia and open a Malaysian brokerage account (Updated 2024)](https://fifthperson.com/buy-shares-malaysia-open-malaysian-brokerage-account/)
     
-    4 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/2024-hartalega-agm/)
-    
-    [10 things I learned from the 2024 Hartalega AGM](https://fifthperson.com/2024-hartalega-agm/)
-    
-    3 weeks ago
+    February 2, 2024
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2024/09/us-dollar-220x150.jpg)](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
+    ![](https://fifthperson.com/wp-content/uploads/2019/10/usa.jpg)](https://fifthperson.com/how-to-buy-us-shares-in-singapore/)
     
-    [Put options explained: How to earn income while waiting for the right stock price](https://fifthperson.com/put-options-income-waiting-right-stock-price/)
+    [How to buy U.S. shares in Singapore and open a U.S. brokerage account (updated 2024)](https://fifthperson.com/how-to-buy-us-shares-in-singapore/)
     
-    2 weeks ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2023/09/ringgit-220x150.jpg)](https://fifthperson.com/%e6%8f%ad%e7%a7%982024%e5%b9%b4%e4%bb%a4%e5%90%89%e5%8d%87%e5%80%bc%e7%9a%84%e5%8e%9f%e5%9b%a0/)
-    
-    [揭秘2024年令吉升值的原因](https://fifthperson.com/%e6%8f%ad%e7%a7%982024%e5%b9%b4%e4%bb%a4%e5%90%89%e5%8d%87%e5%80%bc%e7%9a%84%e5%8e%9f%e5%9b%a0/)
-    
-    6 days ago
+    January 8, 2024
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2024/09/chart-220x150.jpg)](https://fifthperson.com/net-profit-vs-free-cash-flow/)
+    ![](https://fifthperson.com/wp-content/uploads/2017/06/save.jpg)](https://fifthperson.com/saving-just-11-day-can-make-millionaire/)
     
-    [Net profit vs. free cash flow: Which metric matters most?](https://fifthperson.com/net-profit-vs-free-cash-flow/)
+    [How saving just $11 a day can make you a millionaire](https://fifthperson.com/saving-just-11-day-can-make-millionaire/)
     
-    3 weeks ago
+    June 23, 2017
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2020/04/bull-bear.jpg)](https://fifthperson.com/invest-10000-covid-19-crash/)
+    
+    [Here’s how I’d invest $10,000 during this COVID-19 crash](https://fifthperson.com/invest-10000-covid-19-crash/)
+    
+    April 9, 2020
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2017/09/singapore.jpg)](https://fifthperson.com/how-to-start-investing-in-singapore-a-practical-guide-for-beginners/)
+    
+    [How to start investing in Singapore: A practical guide for beginners (updated 2024)](https://fifthperson.com/how-to-start-investing-in-singapore-a-practical-guide-for-beginners/)
+    
+    January 14, 2024
+    
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://fifthperson.com/wp-content/uploads/2022/04/cimb-clicks-220x150.jpg)](https://fifthperson.com/open-singapore-bank-account-malaysians/)
+    
+    [How to open a Singapore bank account for Malaysians](https://fifthperson.com/open-singapore-bank-account-malaysians/)
+    
+    April 8, 2022
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
@@ -232,29 +234,19 @@ Quick Guides
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2024/10/bonds-220x150.jpg)](https://fifthperson.com/bonds-vs-bond-etfs/)
+    ![](https://fifthperson.com/wp-content/uploads/2017/04/meeting.jpg)](https://fifthperson.com/5-reasons-why-you-should-attend-annual-general-meetings/)
     
-    [Bonds vs. bond ETFs: Which is the better investment?](https://fifthperson.com/bonds-vs-bond-etfs/)
+    [5 reasons why you should attend annual general meetings if you’re an investor](https://fifthperson.com/5-reasons-why-you-should-attend-annual-general-meetings/)
     
-    6 days ago
-    
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2020/09/gloves-220x150.jpg)](https://fifthperson.com/hartalega-2024-%e8%82%a1%e4%b8%9c%e5%a4%a7%e4%bc%9a%e7%9a%8410%e4%b8%aa%e9%87%8d%e8%a6%81%e5%90%af%e7%a4%ba/)
-    
-    [Hartalega 2024 股东大会的10个重要启示](https://fifthperson.com/hartalega-2024-%e8%82%a1%e4%b8%9c%e5%a4%a7%e4%bc%9a%e7%9a%8410%e4%b8%aa%e9%87%8d%e8%a6%81%e5%90%af%e7%a4%ba/)
-    
-    2 weeks ago
+    April 23, 2019
     
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://fifthperson.com/wp-content/uploads/2022/09/starbucks-220x150.jpg)](https://fifthperson.com/starbucks-operates-like-a-bank/)
+    ![](https://fifthperson.com/wp-content/uploads/2019/02/Singapore-1.jpg)](https://fifthperson.com/top-10-singapore-reits-that-made-you-money-if-you-invested-from-their-ipo/)
     
-    [How Starbucks secretly operates like a bank](https://fifthperson.com/starbucks-operates-like-a-bank/)
+    [Top 10 Singapore REITs that made you money if you invested from their IPOs (updated 2020)](https://fifthperson.com/top-10-singapore-reits-that-made-you-money-if-you-invested-from-their-ipo/)
     
-    September 13, 2022
+    February 18, 2020
     
 
 * [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
