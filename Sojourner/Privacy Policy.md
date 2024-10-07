@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-39358f53643c724c94f81017fa5816a5
+522c41304b1b86850d5d4541a216966d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Peridot stone chips](https://www.sojourner.biz/images/cache/peridot_strand.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/chips/peridot-stone-chips.html "Peridot stone chips")
+[![Rectangular carnelian clasp](https://www.sojourner.biz/images/cache/SKU0003variations.200.jpg)](https://www.sojourner.biz/clasps/glass/rectangular-carnelian-clasp.html "Rectangular carnelian clasp")
 
-#### [Peridot stone chips](https://www.sojourner.biz/beads/stone-a-l/chips/peridot-stone-chips.html "Peridot stone chips")
+#### [Rectangular carnelian clasp](https://www.sojourner.biz/clasps/glass/rectangular-carnelian-clasp.html "Rectangular carnelian clasp")
 
-$10.00
+$41.00
 
 ### Best Sellers
 
