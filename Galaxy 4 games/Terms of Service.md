@@ -5,41 +5,41 @@
 
 * [Services](#)
     * [Game development](https://galaxy4games.com/services/galaxy4games-game-development/)
-    * [Game Production](https://galaxy4games.com/services/game-production/)
     * [Telegram games development](https://galaxy4games.com/services/telegram-games-development/)
-    * [Metaverse](https://galaxy4games.com/services/metaverse/)
-    * [Brands Gamification](https://galaxy4games.com/services/brands-gamification/)
-    * [Blockchain](https://galaxy4games.com/services/blockchain/)
-    * [Tokenomics](https://galaxy4games.com/services/tokenomics/)
-    * [NFT Creation and Mint](https://galaxy4games.com/services/nft-marketing/)
+    * [Game production](https://galaxy4games.com/services/galaxy4games-game-production/)
+    * [Metaverse development](https://galaxy4games.com/services/galaxy4games-metaverse-development/)
+    * [Brands gamification](https://galaxy4games.com/services/galaxy4games-brands-gamification-and-web3/)
     * [2D Art](https://galaxy4games.com/services/2d-art/)
     * [3D Art](https://galaxy4games.com/services/3d-art/)
+    * [Blockchain games development](https://galaxy4games.com/services/galaxy4games-blockchain-games-development/)
+    * [Tokenomics](https://galaxy4games.com/services/galaxy4games-tokenomics/)
+    * [NFT Creation](https://galaxy4games.com/services/galaxy4games-nft-creation-and-mint/)
 * [Portfolio](#)
     * [Projects](https://galaxy4games.com/our-work/projects/)
     * [Gallery](https://galaxy4games.com/our-work/gallery/)
 * [Use Cases](#)
     * [Our Game Solutions](https://galaxy4games.com/knowledgebase/game-solutions/)
-    * [Modular Solutions](https://galaxy4games.com/knowledgebase/modular-solutions/)
+    * [Modular Solutions](https://galaxy4games.com/knowledgebase/game-modular-solutions/)
 * [About us](https://galaxy4games.com/about-us/)
 * [Contact](https://galaxy4games.com/contact/)
 
 * [Services](#)
     * [Game development](https://galaxy4games.com/services/galaxy4games-game-development/)
-    * [Game Production](https://galaxy4games.com/services/game-production/)
     * [Telegram games development](https://galaxy4games.com/services/telegram-games-development/)
-    * [Metaverse](https://galaxy4games.com/services/metaverse/)
-    * [Brands Gamification](https://galaxy4games.com/services/brands-gamification/)
-    * [Blockchain](https://galaxy4games.com/services/blockchain/)
-    * [Tokenomics](https://galaxy4games.com/services/tokenomics/)
-    * [NFT Creation and Mint](https://galaxy4games.com/services/nft-marketing/)
+    * [Game production](https://galaxy4games.com/services/galaxy4games-game-production/)
+    * [Metaverse development](https://galaxy4games.com/services/galaxy4games-metaverse-development/)
+    * [Brands gamification](https://galaxy4games.com/services/galaxy4games-brands-gamification-and-web3/)
     * [2D Art](https://galaxy4games.com/services/2d-art/)
     * [3D Art](https://galaxy4games.com/services/3d-art/)
+    * [Blockchain games development](https://galaxy4games.com/services/galaxy4games-blockchain-games-development/)
+    * [Tokenomics](https://galaxy4games.com/services/galaxy4games-tokenomics/)
+    * [NFT Creation](https://galaxy4games.com/services/galaxy4games-nft-creation-and-mint/)
 * [Portfolio](#)
     * [Projects](https://galaxy4games.com/our-work/projects/)
     * [Gallery](https://galaxy4games.com/our-work/gallery/)
 * [Use Cases](#)
     * [Our Game Solutions](https://galaxy4games.com/knowledgebase/game-solutions/)
-    * [Modular Solutions](https://galaxy4games.com/knowledgebase/modular-solutions/)
+    * [Modular Solutions](https://galaxy4games.com/knowledgebase/game-modular-solutions/)
 * [About us](https://galaxy4games.com/about-us/)
 * [Contact](https://galaxy4games.com/contact/)
 
@@ -211,7 +211,7 @@ Get in touch
 
 Budget Expectations50,00050,000 - 100,000100,000 - 200,000200,000+
 
-Please prove you are human by selecting the Plane. 
+Please prove you are human by selecting the Heart. 
 
 [![footer logo](https://galaxy4games.com/wp-content/themes/galaxy/img/logo_28_08.png)](https://galaxy4games.com/)
 
@@ -237,4 +237,4 @@ Get In Touch
 
 Budget Expectations50,00050,000 - 100,000100,000 - 200,000200,000+
 
-Please prove you are human by selecting the Tree.
+Please prove you are human by selecting the Heart.
