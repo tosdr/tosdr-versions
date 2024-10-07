@@ -26,59 +26,61 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg_-_djt-harris_-_split_1200_x_628-1200x630.jpg)](https://americanwirenews.com/dems-jittery-about-kamalas-avoidance-of-unscripted-events-trump-is-everywhere/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-batcave-roadclosed-1200x630.jpg)](https://americanwirenews.com/fema-abandons-bat-cave-nc-residents-over-road-closed-sign/)
 
-[Dems jittery about Kamala’s avoidance of unscripted events: ‘Trump is everywhere’](https://americanwirenews.com/dems-jittery-about-kamalas-avoidance-of-unscripted-events-trump-is-everywhere/)
+[FEMA abandons Bat Cave, NC residents over ‘Road Closed’ sign](https://americanwirenews.com/fema-abandons-bat-cave-nc-residents-over-road-closed-sign/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-trump-butler-1200x630.jpg)](https://americanwirenews.com/trump-honors-folk-hero-corey-comperatore-in-iconic-return-to-butler-recounts-16-harrowing-seconds/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-fema1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fema-boss-defends-agency-incompetence-says-criticism-is-dangerous/)
 
-(Photo by Kevin Dietsch/Getty Images)
+[FEMA boss defends agency incompetence, says criticism is ‘dangerous’](https://americanwirenews.com/fema-boss-defends-agency-incompetence-says-criticism-is-dangerous/)
 
-[Trump honors ‘folk hero’ Corey Comperatore in iconic return to Butler, recounts ’16 harrowing seconds’](https://americanwirenews.com/trump-honors-folk-hero-corey-comperatore-in-iconic-return-to-butler-recounts-16-harrowing-seconds/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jennifer-aniston-1200x630.png)](https://americanwirenews.com/jennifer-aniston-addresses-report-of-romance-with-obama/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-eric-trump-1200x630.jpg)](https://americanwirenews.com/absolute-love-eric-trump-gives-stirring-speech-at-trumps-historic-return-to-butler-pa/)
+[Jennifer Aniston addresses report of romance with Obama](https://americanwirenews.com/jennifer-aniston-addresses-report-of-romance-with-obama/)
 
-[‘Absolute love’: Eric Trump gives stirring speech at Trump’s historic return to Butler, PA](https://americanwirenews.com/absolute-love-eric-trump-gives-stirring-speech-at-trumps-historic-return-to-butler-pa/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-wokekamala-1200-x-628-1200x630.jpg)](https://americanwirenews.com/james-woods-slams-kamala-for-wearing-770-belt-to-tell-storm-victims-shell-toss-them-750-in-crumbs/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jdbutler-1200-x-628-1200x630.jpg)](https://americanwirenews.com/jd-vance-on-dems-inflammatory-rhetoric-only-a-matter-of-time-before-somebody-tried-to-kill-him/)
+[James Woods slams Kamala for wearing $770 belt to tell storm victims she’ll toss them $750 in crumbs](https://americanwirenews.com/james-woods-slams-kamala-for-wearing-770-belt-to-tell-storm-victims-shell-toss-them-750-in-crumbs/)
 
-[JD Vance on Dems’ ‘inflammatory’ rhetoric: ‘Only a matter of time before somebody tried to kill him’](https://americanwirenews.com/jd-vance-on-dems-inflammatory-rhetoric-only-a-matter-of-time-before-somebody-tried-to-kill-him/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamlacallmedaddy-1200-x-628-1200x630.jpg)](https://americanwirenews.com/call-her-daddy-host-asks-kamala-why-she-wanted-to-do-raunchy-podcast/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumpkellyanne-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-admits-he-doesnt-feel-safe-campaigning-its-a-dangerous-business/)
+[‘Call Her Daddy’ host asks Kamala why she wanted to do raunchy podcast](https://americanwirenews.com/call-her-daddy-host-asks-kamala-why-she-wanted-to-do-raunchy-podcast/)
 
-[Trump admits he doesn’t feel ‘safe’ campaigning: ‘It’s a dangerous business’](https://americanwirenews.com/trump-admits-he-doesnt-feel-safe-campaigning-its-a-dangerous-business/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-fema-pride-1200x630.jpg)](https://americanwirenews.com/disaster-equity-in-fema-meeting-resurfaces-we-should-focus-efforts-on-lgbtqia-victims/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-axelrod-1200x630.jpg)](https://americanwirenews.com/axelrod-says-quiet-part-out-loud-storm-ravaged-nc-boosts-kamalas-chances/)
+[‘Disaster equity’ in FEMA meeting resurfaces: ‘We should focus efforts on LGBTQIA’ victims](https://americanwirenews.com/disaster-equity-in-fema-meeting-resurfaces-we-should-focus-efforts-on-lgbtqia-victims/)
 
-[Axelrod says quiet part out loud, storm-ravaged NC boosts Kamala’s chances](https://americanwirenews.com/axelrod-says-quiet-part-out-loud-storm-ravaged-nc-boosts-kamalas-chances/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cohenmsnbc-1200-x-628-1200x630.jpg)](https://americanwirenews.com/michael-cohen-desperately-claims-trump-who-didnt-punish-hillary-will-use-seal-team-six-to-round-up-critics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sapd-1200-x-628-1200x630.jpg)](https://americanwirenews.com/tren-de-aragua-gang-members-among-20-arrested-in-san-antonio-after-taking-over-apartment-complex/)
+[Michael Cohen desperately claims Trump – who didn’t punish Hillary – will use SEAL Team Six to ’round up’ critics](https://americanwirenews.com/michael-cohen-desperately-claims-trump-who-didnt-punish-hillary-will-use-seal-team-six-to-round-up-critics/)
 
-[Tren de Aragua gang members among 20 arrested in San Antonio after taking over apartment complex](https://americanwirenews.com/tren-de-aragua-gang-members-among-20-arrested-in-san-antonio-after-taking-over-apartment-complex/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musks-1200x630.jpg)](https://americanwirenews.com/elon-musks-mom-becomes-target-after-describing-10-fake-names-democrat-voting-scheme/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-SG-Joe-Biden-Student-Loan-Protesters-split-1200x630.jpg)](https://americanwirenews.com/biden-student-loan-forgiveness-plan-reinstated-just-in-time-for-nov-election/)
+[Elon Musk’s mom becomes target after describing ’10 fake names’ Democrat voting scheme](https://americanwirenews.com/elon-musks-mom-becomes-target-after-describing-10-fake-names-democrat-voting-scheme/)
 
-[Biden student loan forgiveness plan reinstated just in time for Nov election](https://americanwirenews.com/biden-student-loan-forgiveness-plan-reinstated-just-in-time-for-nov-election/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mitchell-1200-x-628-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-darkmaga-1200-x-628-1200x630.jpg)
-
-### ‘I’m dark MAGA!’ Elon Musk fires up crowd during Trump return to Butler, issues dire warning](https://americanwirenews.com/im-dark-maga-elon-musk-fires-up-crowd-during-trump-return-to-butler-issues-dire-warning/)
+### NBC News talking head blames ‘misogynation’ for Kamala’s poor showing with men](https://americanwirenews.com/nbc-news-talking-head-blames-misogynation-for-kamalas-poor-showing-with-men/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [FEMA whistleblowers stepping forward in wake of deadly failures](https://americanwirenews.com/fema-whistleblowers-stepping-forward-in-wake-of-deadly-failures/)
+### [Reporter who broke Kamala’s woman-slapping hubby story reveals more details](https://americanwirenews.com/reporter-who-broke-kamalas-woman-slapping-hubby-story-reveals-more-details/)
 
-### [DeSantis is getting credit for ending port strike with brilliant move](https://americanwirenews.com/desantis-is-getting-credit-for-ending-port-strike-with-brilliant-move/)
+### [Trump pledges to give Fort Bragg its name back and the response is wild](https://americanwirenews.com/trump-pledges-to-give-fort-bragg-its-name-back-and-the-response-is-wild/)
 
-### [Kamala’s teleprompter malfunctions — she quickly follows suit](https://americanwirenews.com/kamalas-teleprompter-malfunctions-and-then-she-follows-suit/)
+### [Glenn Beck exposes FEMA’s shocking incompetence, chaos in real-time visit to N. Carolina](https://americanwirenews.com/glenn-beck-exposes-femas-shocking-incompetence-chaos-in-real-time-visit-to-n-carolina/)
 
-### [Musk exposes FEMA for blocking hurricane aid: My blood is boiling’](https://americanwirenews.com/musk-exposes-fema-for-blocking-hurricane-aid-my-blood-is-boiling/)
+### [Trump shares how he really feels about Sen. Lindsey Graham: ‘He’s a progressive’](https://americanwirenews.com/trump-shares-how-he-really-feels-about-sen-lindsey-graham-hes-a-progressive/)
 
-### [Kayleigh: Trump’s return to site of assassination attempt to be a ‘powerful, historic’ moment](https://americanwirenews.com/kayleigh-trumps-return-to-site-of-assassination-attempt-to-be-a-powerful-historic-moment/)
+### [Joe’s ‘never been so proud’ of Liz Cheney after Kamala endorsement](https://americanwirenews.com/joes-never-been-so-proud-of-liz-cheney-after-kamala-endorsement/)
 
-### [DeSantis talks about NC rescue mission and lesson learned about waiting for feds](https://americanwirenews.com/desantis-talks-about-nc-rescue-mission-and-lesson-learned-about-waiting-for-feds/)
+### [Trump’s advice to Israel over where to strike Iran sounds VERY different than Biden’s or Harris’](https://americanwirenews.com/trumps-advice-to-israel-over-where-to-strike-iran-sounds-very-different-than-bidens-or-harris/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/03/SG-Presler-220x180.jpg)](https://americanwirenews.com/coincidence-voter-registration-website-goes-dark-the-day-trump-returns-to-butler/)
+
+[‘Coincidence?’ Voter registration website goes dark the day Trump returns to Butler](https://americanwirenews.com/coincidence-voter-registration-website-goes-dark-the-day-trump-returns-to-butler/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bream-walz-220x180.jpg)](https://americanwirenews.com/tim-walz-walks-into-shannon-bream-buzz-saw-on-fox-news-sunday/)
 
@@ -112,6 +114,40 @@ Search for:
 
 [Kamala to embark on friendly media blitz with ‘The View,’ Stephen Colbert and Howard Stern](https://americanwirenews.com/kamala-to-embark-on-friendly-media-blitz-with-the-view-stephen-colbert-and-howard-stern/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sapd-1200-x-628-220x180.jpg)](https://americanwirenews.com/tren-de-aragua-gang-members-among-20-arrested-in-san-antonio-after-taking-over-apartment-complex/)
+
+[Tren de Aragua gang members among 20 arrested in San Antonio after taking over apartment complex](https://americanwirenews.com/tren-de-aragua-gang-members-among-20-arrested-in-san-antonio-after-taking-over-apartment-complex/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumpkellyanne-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-admits-he-doesnt-feel-safe-campaigning-its-a-dangerous-business/)
+
+[Trump admits he doesn’t feel ‘safe’ campaigning: ‘It’s a dangerous business’](https://americanwirenews.com/trump-admits-he-doesnt-feel-safe-campaigning-its-a-dangerous-business/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-axelrod-220x180.jpg)](https://americanwirenews.com/axelrod-says-quiet-part-out-loud-storm-ravaged-nc-boosts-kamalas-chances/)
+
+[Axelrod says quiet part out loud, storm-ravaged NC boosts Kamala’s chances](https://americanwirenews.com/axelrod-says-quiet-part-out-loud-storm-ravaged-nc-boosts-kamalas-chances/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jdbutler-1200-x-628-220x180.jpg)](https://americanwirenews.com/jd-vance-on-dems-inflammatory-rhetoric-only-a-matter-of-time-before-somebody-tried-to-kill-him/)
+
+[JD Vance on Dems’ ‘inflammatory’ rhetoric: ‘Only a matter of time before somebody tried to kill him’](https://americanwirenews.com/jd-vance-on-dems-inflammatory-rhetoric-only-a-matter-of-time-before-somebody-tried-to-kill-him/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-eric-trump-220x180.jpg)](https://americanwirenews.com/absolute-love-eric-trump-gives-stirring-speech-at-trumps-historic-return-to-butler-pa/)
+
+[‘Absolute love’: Eric Trump gives stirring speech at Trump’s historic return to Butler, PA](https://americanwirenews.com/absolute-love-eric-trump-gives-stirring-speech-at-trumps-historic-return-to-butler-pa/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-trump-butler-220x180.jpg)](https://americanwirenews.com/trump-honors-folk-hero-corey-comperatore-in-iconic-return-to-butler-recounts-16-harrowing-seconds/)
+
+[Trump honors ‘folk hero’ Corey Comperatore in iconic return to Butler, recounts ’16 harrowing seconds’](https://americanwirenews.com/trump-honors-folk-hero-corey-comperatore-in-iconic-return-to-butler-recounts-16-harrowing-seconds/)
+
+(Photo by Kevin Dietsch/Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-darkmaga-1200-x-628-220x180.jpg)](https://americanwirenews.com/im-dark-maga-elon-musk-fires-up-crowd-during-trump-return-to-butler-issues-dire-warning/)
+
+[‘I’m dark MAGA!’ Elon Musk fires up crowd during Trump return to Butler, issues dire warning](https://americanwirenews.com/im-dark-maga-elon-musk-fires-up-crowd-during-trump-return-to-butler-issues-dire-warning/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg_-_djt-harris_-_split_1200_x_628-220x180.jpg)](https://americanwirenews.com/dems-jittery-about-kamalas-avoidance-of-unscripted-events-trump-is-everywhere/)
+
+[Dems jittery about Kamala’s avoidance of unscripted events: ‘Trump is everywhere’](https://americanwirenews.com/dems-jittery-about-kamalas-avoidance-of-unscripted-events-trump-is-everywhere/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gutfeld-hostin-220x180.jpg)](https://americanwirenews.com/gutfeld-hits-sunny-hostin-for-projecting-her-own-misery-on-melania-trump-with-bizarre-hubby-hating-theory/)
 
 [Gutfeld hits Sunny Hostin for projecting her own misery on Melania Trump with bizarre hubby-hating theory](https://americanwirenews.com/gutfeld-hits-sunny-hostin-for-projecting-her-own-misery-on-melania-trump-with-bizarre-hubby-hating-theory/)
@@ -139,42 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cooper-harris-220x180.jpg)](https://americanwirenews.com/kamala-makes-time-to-do-raunchy-call-her-daddy-podcast-as-death-toll-rises-in-storm-ravaged-states/)
 
 [Kamala makes time to do raunchy ‘Call Her Daddy’ podcast as death toll rises in storm-ravaged states](https://americanwirenews.com/kamala-makes-time-to-do-raunchy-call-her-daddy-podcast-as-death-toll-rises-in-storm-ravaged-states/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-boswell-harris-emhoff-220x180.jpg)](https://americanwirenews.com/reporter-who-broke-kamalas-woman-slapping-hubby-story-reveals-more-details/)
-
-[Reporter who broke Kamala’s woman-slapping hubby story reveals more details](https://americanwirenews.com/reporter-who-broke-kamalas-woman-slapping-hubby-story-reveals-more-details/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-townhall-220x180.jpg)](https://americanwirenews.com/trump-pledges-to-give-fort-bragg-its-name-back-and-the-response-is-wild/)
-
-[Trump pledges to give Fort Bragg its name back and the response is wild](https://americanwirenews.com/trump-pledges-to-give-fort-bragg-its-name-back-and-the-response-is-wild/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-glenn-beck-in-n.c-220x180.jpg)](https://americanwirenews.com/glenn-beck-exposes-femas-shocking-incompetence-chaos-in-real-time-visit-to-n-carolina/)
-
-[Glenn Beck exposes FEMA’s shocking incompetence, chaos in real-time visit to N. Carolina](https://americanwirenews.com/glenn-beck-exposes-femas-shocking-incompetence-chaos-in-real-time-visit-to-n-carolina/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-graham-220x180.jpg)](https://americanwirenews.com/trump-shares-how-he-really-feels-about-sen-lindsey-graham-hes-a-progressive/)
-
-[Trump shares how he really feels about Sen. Lindsey Graham: ‘He’s a progressive’](https://americanwirenews.com/trump-shares-how-he-really-feels-about-sen-lindsey-graham-hes-a-progressive/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-joe-liz-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/joes-never-been-so-proud-of-liz-cheney-after-kamala-endorsement/)
-
-[Joe’s ‘never been so proud’ of Liz Cheney after Kamala endorsement](https://americanwirenews.com/joes-never-been-so-proud-of-liz-cheney-after-kamala-endorsement/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-1-220x180.jpg)](https://americanwirenews.com/trumps-advice-to-israel-over-where-to-strike-iran-sounds-very-different-than-bidens-or-harris/)
-
-[Trump’s advice to Israel over where to strike Iran sounds VERY different than Biden’s or Harris’](https://americanwirenews.com/trumps-advice-to-israel-over-where-to-strike-iran-sounds-very-different-than-bidens-or-harris/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scott-jennings-2-220x180.jpg)](https://americanwirenews.com/joe-biden-sounds-like-he-is-trying-to-secretly-sabotage-harris-with-comment/)
-
-[Joe Biden sounds like he is trying to secretly sabotage Harris with comment](https://americanwirenews.com/joe-biden-sounds-like-he-is-trying-to-secretly-sabotage-harris-with-comment/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cwallace-1200-x-628-220x180.jpg)](https://americanwirenews.com/chris-wallace-bemoans-crazy-supreme-court-for-making-jack-smiths-life-difficult/)
-
-[Chris Wallace bemoans ‘crazy’ Supreme Court for making Jack Smith’s life difficult](https://americanwirenews.com/chris-wallace-bemoans-crazy-supreme-court-for-making-jack-smiths-life-difficult/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-dwight-220x180.jpg)](https://americanwirenews.com/vietnam-vet-gives-trump-his-purple-heart-you-got-guts/)
-
-[Vietnam vet gives Trump his purple heart: ‘You got guts!’](https://americanwirenews.com/vietnam-vet-gives-trump-his-purple-heart-you-got-guts/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -262,29 +262,29 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sampower-1200-x-628-1200x630.jpg)](https://americanwirenews.com/samantha-power-boasts-about-lighting-up-ukraine-as-hurricane-victims-suffer-without-power/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scott-jennings-2-1200x630.jpg)](https://americanwirenews.com/joe-biden-sounds-like-he-is-trying-to-secretly-sabotage-harris-with-comment/)
 
-[Samantha Power boasts about lighting up Ukraine as hurricane victims suffer without power](https://americanwirenews.com/samantha-power-boasts-about-lighting-up-ukraine-as-hurricane-victims-suffer-without-power/)
+[Joe Biden sounds like he is trying to secretly sabotage Harris with comment](https://americanwirenews.com/joe-biden-sounds-like-he-is-trying-to-secretly-sabotage-harris-with-comment/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sampower-1200-x-628-220x180.jpg)](https://americanwirenews.com/samantha-power-boasts-about-lighting-up-ukraine-as-hurricane-victims-suffer-without-power/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scott-jennings-2-220x180.jpg)](https://americanwirenews.com/joe-biden-sounds-like-he-is-trying-to-secretly-sabotage-harris-with-comment/)
 
-[Samantha Power boasts about lighting up Ukraine as hurricane victims suffer without power](https://americanwirenews.com/samantha-power-boasts-about-lighting-up-ukraine-as-hurricane-victims-suffer-without-power/)
+[Joe Biden sounds like he is trying to secretly sabotage Harris with comment](https://americanwirenews.com/joe-biden-sounds-like-he-is-trying-to-secretly-sabotage-harris-with-comment/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-jacksmith-cnnlegal-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnn-legal-analyst-torches-jack-smiths-last-ditch-filling-against-trump-as-unscrupulous-political-ploy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cwallace-1200-x-628-220x180.jpg)](https://americanwirenews.com/chris-wallace-bemoans-crazy-supreme-court-for-making-jack-smiths-life-difficult/)
 
-[CNN legal analyst torches Jack Smith’s last-ditch filling against Trump as unscrupulous political ploy](https://americanwirenews.com/cnn-legal-analyst-torches-jack-smiths-last-ditch-filling-against-trump-as-unscrupulous-political-ploy/)
+[Chris Wallace bemoans ‘crazy’ Supreme Court for making Jack Smith’s life difficult](https://americanwirenews.com/chris-wallace-bemoans-crazy-supreme-court-for-making-jack-smiths-life-difficult/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-routhvid-1200-x-628-220x180.jpg)](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-dwight-220x180.jpg)](https://americanwirenews.com/vietnam-vet-gives-trump-his-purple-heart-you-got-guts/)
 
-[Federal prosecutors seek indefinite delay for would-be Trump assassin’s trial](https://americanwirenews.com/federal-prosecutors-seek-indefinite-delay-for-would-be-trump-assassins-trial/)
+[Vietnam vet gives Trump his purple heart: ‘You got guts!’](https://americanwirenews.com/vietnam-vet-gives-trump-his-purple-heart-you-got-guts/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-walzcbs-1200-x-628-220x180.jpg)](https://americanwirenews.com/some-dems-lament-walzs-dismal-debate-showing-liken-him-to-biden-moon-for-shapiro/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-whistleblower-220x180.jpg)](https://americanwirenews.com/fema-whistleblowers-stepping-forward-in-wake-of-deadly-failures/)
 
-[Some Dems lament Walz’s dismal debate showing, liken him to Biden, moon for Shapiro](https://americanwirenews.com/some-dems-lament-walzs-dismal-debate-showing-liken-him-to-biden-moon-for-shapiro/)
+[FEMA whistleblowers stepping forward in wake of deadly failures](https://americanwirenews.com/fema-whistleblowers-stepping-forward-in-wake-of-deadly-failures/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-acosta-lewandowski-220x180.jpg)](https://americanwirenews.com/cnns-jim-acosta-snaps-over-how-trump-adviser-lewandowski-keeps-pronouncing-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-desantis-2-220x180.jpg)](https://americanwirenews.com/desantis-is-getting-credit-for-ending-port-strike-with-brilliant-move/)
 
-[CNN’s Jim Acosta snaps over how Trump adviser Lewandowski keeps pronouncing ‘Kamala’](https://americanwirenews.com/cnns-jim-acosta-snaps-over-how-trump-adviser-lewandowski-keeps-pronouncing-kamala/)
+[DeSantis is getting credit for ending port strike with brilliant move](https://americanwirenews.com/desantis-is-getting-credit-for-ending-port-strike-with-brilliant-move/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -322,20 +322,20 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [‘It’s happening before your very eyes’: Illegal immigration SURGES in swing states under Biden-Harris](https://americanwirenews.com/its-happening-before-your-very-eyes-illegal-immigration-surges-in-swing-states-under-biden-harris/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-storm-220x180.jpg)](https://americanwirenews.com/so-helpful-nbc-claims-climate-change-contributed-to-hurricane-helene-destruction/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-fox-news-anchor-1-220x180.jpg)](https://americanwirenews.com/fox-anchor-breaks-down-on-air-as-faith-filled-nc-mother-recounts-her-devastating-story/)
 
-[So helpful! NBC claims climate change contributed to Hurricane Helene destruction](https://americanwirenews.com/so-helpful-nbc-claims-climate-change-contributed-to-hurricane-helene-destruction/)
+[Fox anchor breaks down on air as faith-filled NC mother recounts her devastating story](https://americanwirenews.com/fox-anchor-breaks-down-on-air-as-faith-filled-nc-mother-recounts-her-devastating-story/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-ahmadinejad-220x180.jpg)](https://americanwirenews.com/crazier-than-fiction-head-of-iranian-spy-group-was-an-israeli-double-agent/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/10/SG-ZeglerSnowWhite-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/snow-white-actress-plays-victim-suggests-critics-of-troubled-disney-remake-are-sexist/)
 
-[Crazier than fiction! Head of Iranian spy group was an Israeli double agent](https://americanwirenews.com/crazier-than-fiction-head-of-iranian-spy-group-was-an-israeli-double-agent/)
+[‘Snow White’ actress plays victim, suggests critics of troubled Disney remake are sexist](https://americanwirenews.com/snow-white-actress-plays-victim-suggests-critics-of-troubled-disney-remake-are-sexist/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mike-wolfe-frank-fritz-220x180.jpg)](https://americanwirenews.com/rumors-of-a-feud-put-to-rest-after-death-of-american-pickers-star-frank-fritz/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-garth-brooks-220x180.jpg)](https://americanwirenews.com/garth-brooks-responds-after-lawsuit-by-fmr-makeup-artist-claims-he-raped-and-sexually-abused-her/)
 
-[Rumors of a feud put to rest after death of ‘American Pickers’ star Frank Fritz](https://americanwirenews.com/rumors-of-a-feud-put-to-rest-after-death-of-american-pickers-star-frank-fritz/)
+[Garth Brooks responds after bombshell lawsuit by fmr. makeup artist claims he raped and sexually assaulted her](https://americanwirenews.com/garth-brooks-responds-after-lawsuit-by-fmr-makeup-artist-claims-he-raped-and-sexually-abused-her/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gaines-220x180.jpg)](https://americanwirenews.com/major-win-in-culture-war-u-of-new-mexico-checked-in-ruling-over-hefty-fees-for-conservative-speaker/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/maricopa-county-jail-kaci-sloan-220x180.jpg)](https://americanwirenews.com/arizona-student-who-stabbed-easy-target-on-campus-has-attempted-murder-charges-dismissed/)
 
-[‘Major win’ in culture war: U of New Mexico checked in ruling over ‘hefty’ fees for conservative speaker](https://americanwirenews.com/major-win-in-culture-war-u-of-new-mexico-checked-in-ruling-over-hefty-fees-for-conservative-speaker/)
+[Arizona student who stabbed ‘easy target’ on campus has attempted murder charges dismissed](https://americanwirenews.com/arizona-student-who-stabbed-easy-target-on-campus-has-attempted-murder-charges-dismissed/)
 
 © 2024. All Rights Reserved. American Wire News
