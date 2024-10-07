@@ -2,7 +2,7 @@
 
    
 
-[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?preferwebp=true&quality=85)](https://www.bitdefender.com/en-us/)
+[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?quality=85&preferwebp=true)](https://www.bitdefender.com/en-us/)
 
 * [For Consumer](https://www.bitdefender.com/en-us/consumer/)
     
@@ -340,7 +340,7 @@
     * [MDR Portal](https://auth.mdr.bitdefender.com/login)
     
 
-![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?preferwebp=true&quality=85)
+![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?quality=85&preferwebp=true)
 
   [Home](https://www.bitdefender.com/en-us/) [Site](https://www.bitdefender.com/en-us/site) [View](https://www.bitdefender.com/en-us/site/view) [Legal Intellectual Property](https://www.bitdefender.com/en-us/site/view/legal-intellectual-property)
 
@@ -1012,6 +1012,7 @@ Choose Your Country
 * [Chile - English](https://www.bitdefender.com/en-cl/)
 * [Chile - Español](https://www.bitdefender.com/es-cl/)
 * [Colombia - Español](https://www.bitdefender.com/es-co/)
+* [Czechia - English](https://www.bitdefender.com/content/bitdefender/cz/en-CZ/)
 * [Denmark - English](https://www.bitdefender.com/en-dk/)
 * [Deutschland - Deutsch](https://www.bitdefender.com/de-de/)
 * [España - Español](https://www.bitdefender.com/es-es/)
@@ -1039,6 +1040,7 @@ Choose Your Country
 * [Saudi Arabia - English](https://www.bitdefender.com/en-sa/)
 * [Schweiz - Deutsch](https://www.bitdefender.com/de-ch/)
 * [Singapore - English](https://www.bitdefender.com/en-sg/)
+* [Slovakia - English](https://www.bitdefender.com/content/bitdefender/sk/en-SK/)
 * [South Africa - English](https://www.bitdefender.com/en-za/)
 * [South Korea - English](https://www.bitdefender.com/en-kr/)
 * [Sudan - English](https://www.bitdefender.com/en-sd/)
