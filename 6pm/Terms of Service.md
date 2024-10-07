@@ -484,14 +484,6 @@ OUR ADDRESS
 * [Site Map](https://www.6pm.com/site-map)
 * [Coupons](https://www.6pm.com/coupons)
 
-Find us on:
-
-* [Instagram](https://www.instagram.com/shop6pm/)
-* [Facebook](https://www.facebook.com/shop6pm)
-* [Twitter](https://twitter.com/shop6pm)
-* [Pinterest](https://www.pinterest.com/6pm)
-* [YouTube](https://www.youtube.com/channel/UCuZbMkoq82SUzBQMkBKrf0Q)
-
 [**How Do You Like Our Website?**
 
 We'd like to get your feedback.](https://www.6pm.com/survey/take/6pm-voc?source=footer)
