@@ -16,7 +16,6 @@ EN
 
 * [Women](https://www.vinted.com/catalog/1904-women)
 * [Men](https://www.vinted.com/catalog/5-men)
-* [Designer](https://www.vinted.com/catalog/2993-designer)
 * [Kids](https://www.vinted.com/catalog/1193-kids)
 * [Home](https://www.vinted.com/catalog/1918-home)
 * [Electronics](https://www.vinted.com/catalog/2994-electronics)
