@@ -42,6 +42,7 @@ GLOBAL
     * [Daikin World Air Survey](https://www.daikin.com/air/daikin_techknowledge/air_survey)
 * [DAIKIN ACHIEVEMENTS](https://www.daikin.com/air/daikin_achievements)
     * [Energy Efficient AC Subscription Service](https://www.daikin.com/air/daikin_achievements/subscription)
+    * [EXPO 2025 Special Daikin Site](https://www.daikin.com/air/daikin_achievements/expo2025)
     * [History of Daikin Innovation](https://www.daikin.com/air/daikin_achievements/innovation)
     * [Daikin Global Case Study](https://www.daikin.com/air/daikin_achievements/case_study)
     * [VRV, Opening the New Era](https://www.daikin.com/air/daikin_achievements/vrv)
@@ -474,6 +475,7 @@ Find out more in your region.
 
 * [Daikin Achievements](https://www.daikin.com/air/daikin_achievements)
 * [Energy Efficient AC Subscription Service](https://www.daikin.com/air/daikin_achievements/subscription)
+* [EXPO 2025 Special Daikin Site](https://www.daikin.com/air/daikin_achievements/expo2025)
 * [History of Daikin Innovation](https://www.daikin.com/air/daikin_achievements/innovation)
 * [Daikin Global Case Study](https://www.daikin.com/air/daikin_achievements/case_study)
 * [VRV, Opening the New Era](https://www.daikin.com/air/daikin_achievements/vrv)
