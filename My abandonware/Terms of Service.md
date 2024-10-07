@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Cloud Master](https://www.myabandonware.com/game/cloud-master-aqa)
+* [Circus Charlie](https://www.myabandonware.com/game/circus-charlie-4pb)
+* [Choplifter!](https://www.myabandonware.com/game/choplifter-4fy)
 * [Chinese Hero](https://www.myabandonware.com/game/chinese-hero-9ta)
 * [Chiller](https://www.myabandonware.com/game/chiller-9t9)
-* [Chiki Chiki Boys](https://www.myabandonware.com/game/chiki-chiki-boys-787)
-* [Moto-Cross](https://www.myabandonware.com/game/moto-cross-sp5)
-* [Monaco GP](https://www.myabandonware.com/game/monaco-gp-sp4)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
