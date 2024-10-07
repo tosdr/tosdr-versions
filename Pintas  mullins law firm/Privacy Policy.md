@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the odds of beating lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-the-odds-of-beating-lung-cancer.jpg "What Are the Odds of Beating Lung Cancer?")](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/ "What Are the Odds of Beating Lung Cancer?")
+[![How are infections spread in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-are-infections-spread-in-nursing-homes.jpg "How Are Infections Spread in Nursing Homes?")](https://www.pintas.com/faq/how-are-infections-spread-in-nursing-homes/ "How Are Infections Spread in Nursing Homes?")
 
-[#### What Are the Odds of Beating Lung Cancer?](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/)
+[#### How Are Infections Spread in Nursing Homes?](https://www.pintas.com/faq/how-are-infections-spread-in-nursing-homes/)
 
-[![What is a healthy alternative to baby powder?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-a-healthy-alternative-to-baby-powder.jpg "What Is a Healthy Alternative to Baby Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives "What Is a Healthy Alternative to Baby Powder?")
+[![Suing for talcum powder ovarian cancer death](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-i-sue-for-a-loved-one-that-died-of-ovarian-cancer-from-talcum-powder-use.jpg "Suing for Talcum Powder Ovarian Cancer Death")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/can-i-sue-for-a-loved-one-that-died-from-talcum-powder/ "Suing for Talcum Powder Ovarian Cancer Death")
 
-[#### What Is a Healthy Alternative to Baby Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives)
+[#### Suing for Talcum Powder Ovarian Cancer Death](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/can-i-sue-for-a-loved-one-that-died-from-talcum-powder/)
 
-[![What happens in the final stages of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-happens-in-the-final-stages-of-mesothelioma-scaled.jpg "What Happens in the Final Stages of Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/final-stages "What Happens in the Final Stages of Mesothelioma?")
+[![What is the mormon church saying about sex abuse allegations?](https://www.pintas.com/wp-content/uploads/2023/04/general-law-image-300x169.jpg "What Is the Mormon Church Saying About Sex Abuse Allegations?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-the-mormon-church-saying-about-sexual-abuse-claims/ "What Is the Mormon Church Saying About Sex Abuse Allegations?")
 
-[#### What Happens in the Final Stages of Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/final-stages)
+[#### What Is the Mormon Church Saying About Sex Abuse Allegations?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-the-mormon-church-saying-about-sexual-abuse-claims/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
