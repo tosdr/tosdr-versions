@@ -10,11 +10,11 @@ where the imageboards live
 * [![](images/menu_top_boorus.png)Top Boorus](https://booru.org/top "List of most popular boorus")
 * [![](images/menu_faq.png)FAQ](https://booru.org/faq)
 
-  ![adventuretime](http://adventuretime.booru.org/favicon.ico)  Booru of the day: |**[adventuretime](http://adventuretime.booru.org/)**|
+  ![aeromorph](http://aeromorph.booru.org/favicon.ico)  Booru of the day: |**[aeromorph](http://aeromorph.booru.org/)**|
 
 * NSFW
-* 23663 ![images](images/booru_totalimages.gif)
-* 146 ![members](images/booru_totalusers.gif)
+* 3902 ![images](images/booru_totalimages.gif)
+* 69 ![members](images/booru_totalusers.gif)
 
 * [![](images/menu_login.gif)Log into your Booru](https://booru.org/login)
 
