@@ -17,14 +17,12 @@ We Champion Freedom & Self-Reliance
     
     Best Sellers
     
-    * ["Supercharge" Solar Generator Bundle](https://4patriots.com/products/super-charged-solar-generator-bundle)
+    * [4-Week Emergency Survival Food Kit](https://4patriots.com/products/4-week-survival-food-kit)
+    * [3-Month Emergency Survival Food Kit](https://4patriots.com/products/3-month-survival-food-kit)
+    * ["Ultracharge" Generator Bundle](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
     * [Patriot Power Generator 2000X](https://4patriots.com/products/patriot-power-generator-2000x)
-    * [3-Month Survival Food Kit](https://4patriots.com/products/3-month-survival-food-kit)
-    * [1-Year Survival Food Kit](https://4patriots.com/products/1-year-survival-food-kit-1)
     * [Ultimate Water Filtration System](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
     * [Patriot Power Cell-CX](https://4patriots.com/products/patriot-power-cell)
-    * [Patriot Power Generator 1800](https://4patriots.com/products/patriot-power-generator-1800)
-    * [Patriot Power Sidekick](https://4patriots.com/products/patriot-power-sidekick)
     * [Shop All Best-Sellers](https://4patriots.com/collections/best-sellers)
     
     * [![ Portable solar generator set with foldable panels and power station, branded 4Patriots.](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
@@ -50,12 +48,12 @@ We Champion Freedom & Self-Reliance
     
     New Arrivals
     
-    * ["Ultracharge" Solar Generator Package](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
-    * [3-Month Survival Food Kit PlatinumXL](https://4patriots.com/products/3-month-platinum-survival-food-kit)
-    * [Real Meat Kits](https://4patriots.com/collections/jumbo-meat-kits)
+    * ["Ultracharge" Generator Package](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
     * [Patriot Power Generator 2000X](https://4patriots.com/products/patriot-power-generator-2000x)
-    * [Patriot Pure Nanomesh™ Water Filter](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
+    * [3-Month Survival Food Kit PlatinumXL](https://4patriots.com/products/3-month-platinum-survival-food-kit)
     * [Patriot Pure Air Purification System](https://4patriots.com/products/patriot-pure-air-advanced-purification-system)
+    * [100% Real Meat Kits](https://4patriots.com/collections/jumbo-meat-kits)
+    * [Patriot Pure Nanomesh™ Water Filter](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
     * [Shop All New Arrivals](https://4patriots.com/collections/newly-added)
     
     * [![ Two portable solar power stations with foldable solar panels, branded 4Patriots.](//4patriots.com/cdn/shop/files/PPGS-X-ARRAY-NO-BURST-647x647_6c517dba-f51a-4f15-a627-c6b3d3cbaa85_360x.jpg?v=1722271680)
@@ -81,15 +79,13 @@ We Champion Freedom & Self-Reliance
     
     Survival Food
     
-    * [Survival Food Kit Best Sellers](https://4patriots.com/collections/survival-food-best-sellers)
-    * [Long-Term Survival Food Kits](https://4patriots.com/collections/long-term-survival-food)
-    * [Short-Term Survival Food Kits](https://4patriots.com/collections/short-term-survival-food-kits)
-    * [Specialty Survival Food Kits](https://4patriots.com/collections/specialty-survival-food)
-    * [Meat & Protein Survival Food Kits](https://4patriots.com/collections/meats-protein)
-    * [Fruit & Veggies Survival Food Kits](https://4patriots.com/collections/fruits-veggies-survival-food)
+    * [Best Sellers](https://4patriots.com/collections/survival-food-best-sellers)
+    * [Long-Term Survival Food](https://4patriots.com/collections/long-term-survival-food)
+    * [Short-Term Survival Food](https://4patriots.com/collections/short-term-survival-food-kits)
+    * [Specialty Survival Food](https://4patriots.com/collections/specialty-survival-food)
     * [#10 Cans](https://4patriots.com/collections/10-cans-pack)
-    * [Survival Food Kit Bundles](https://4patriots.com/collections/emergency-survival-food-bundles-deals)
-    * [Shop All Survival Food Kits](https://4patriots.com/collections/food)
+    * [Survival Food Packages](https://4patriots.com/collections/emergency-survival-food-bundles-deals)
+    * [Shop All Survival Food](https://4patriots.com/collections/food)
     
     * [![ Gold Medallion All-Meat Emergency Survival Kit](//4patriots.com/cdn/shop/files/ARRAY-2407-MEA1-STOREFRONT-WITHOUT-BONUS-1024x1024_360x.jpg?v=1722629948)
         
@@ -114,12 +110,13 @@ We Champion Freedom & Self-Reliance
     
     Power & Solar
     
+    * [Best Sellers](https://4patriots.com/collections/solar-power-best-sellers)
     * [Solar Generators](https://4patriots.com/collections/solar-generators)
     * [Solar Panels](https://4patriots.com/collections/solar-panels)
-    * [Solar Tools & Gear](https://4patriots.com/collections/solar-gadgets)
     * [EMP Bag Kits](https://4patriots.com/collections/emp-bag-kits)
-    * [Power Bundles](https://4patriots.com/collections/power-packages)
-    * [Solar Generator Upgrade Packs](https://4patriots.com/collections/solar-generator-upgrade-packs)
+    * [Power Packages](https://4patriots.com/collections/power-packages)
+    * [Solar Generator Upgrades](https://4patriots.com/collections/solar-generator-upgrade-packs)
+    * [Power & Solar Survival Gear](https://4patriots.com/collections/solar-gadgets)
     * [Shop All Power & Solar](https://4patriots.com/collections/power-solar)
     
     * [![ Portable solar generator with a digital display, multiple outlets, and a foldable solar panel. The generator is charging and has a battery level of 100%. The image includes the text "As Seen on Fox & Friends.](//4patriots.com/cdn/shop/files/PPG-2KX-2406-PDP-ARRAY-1024X1024_360x.jpg?v=1720536148)
@@ -146,8 +143,8 @@ We Champion Freedom & Self-Reliance
     Water
     
     * [Water Filtration Systems](https://4patriots.com/collections/water-filtration-systems)
+    * [Long-Term Water Storage](https://4patriots.com/collections/water-storage)
     * [Replacement Water Filters](https://4patriots.com/collections/water-filters)
-    * [Water Storage](https://4patriots.com/collections/water-storage)
     * [Emergency Drinking Water Case](https://4patriots.com/products/4patriots-emergency-drinking-water)
     * [Shop All Water](https://4patriots.com/collections/water)
     
@@ -174,11 +171,11 @@ We Champion Freedom & Self-Reliance
     
     RV & Camping
     
-    * [Coolers](https://4patriots.com/collections/camp-coolers)
+    * [Best Sellers](https://4patriots.com/collections/camping-outdoor)
+    * [Solar Electric Cooler/Warmers](https://4patriots.com/collections/camp-coolers)
     * [Solar Lanterns](https://4patriots.com/collections/solar-lanterns)
-    * [Hydration](https://4patriots.com/collections/water)
+    * [Water Filtration & Storage](https://4patriots.com/collections/water)
     * [Food & Snacks](https://4patriots.com/collections/camp-food)
-    * [Survival Guides](https://4patriots.com/collections/survival-books)
     * [Camping & Outdoor Gear](https://4patriots.com/collections/camping-outdoor-gear)
     * [Shop All RV & Camping](https://4patriots.com/collections/camping-outdoor)
     
@@ -198,15 +195,16 @@ We Champion Freedom & Self-Reliance
         
         ###### BugOUT 2-in-1 Solar Lantern & Bug Zapper
         
-        155 reviews](https://4patriots.com/products/bugout-solar-lantern)
+        156 reviews](https://4patriots.com/products/bugout-solar-lantern)
         
     
 * [Home & Health](https://4patriots.com/collections/home-garden)
     
     Home & Health
     
-    * [Air Filtration & Cooling](https://4patriots.com/collections/air-filtration)
+    * [Travel Safety](https://4patriots.com/collections/car-emergency-supplies)
     * [Vitamins & Supplements](https://4patriots.com/collections/vitamins-supplements)
+    * [Air Filtration & Cooling](https://4patriots.com/collections/air-filtration)
     * [Lighting & Batteries](https://4patriots.com/collections/lighting-batteries)
     * [Tools & Storage](https://4patriots.com/collections/tools-storage)
     * [Survival Seeds & Gardening](https://4patriots.com/collections/survival-seeds-1)
@@ -216,7 +214,7 @@ We Champion Freedom & Self-Reliance
         
         ###### Patriot Pure Air Advanced Filtration System
         
-        1 review](https://4patriots.com/products/patriot-pure-air-advanced-purification-system)
+        2 reviews](https://4patriots.com/products/patriot-pure-air-advanced-purification-system)
         
         [![ The brand-NEW 4Patriots Emergency Go-Tote array](//4patriots.com/cdn/shop/files/SHOPIFY-GOT-ARRAY-1024x1024_1_360x.png?v=1695653044)
         
@@ -235,10 +233,11 @@ We Champion Freedom & Self-Reliance
     
     Deals
     
-    * ["Supercharge" Package - Bundle & Save](https://4patriots.com/products/super-charged-solar-generator-bundle)
-    * [Buy 5, Get 1 Free Customizable Kits](https://4patriots.com/collections/custom-case-pack-builder)
+    * ["Hero" Food & Power Package](https://4patriots.com/products/hero-bundle-best-selling-solar-generator-and-survival-food)
+    * ["Ultracharge" Generator Package](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
+    * [Power & Food Package Deals](https://4patriots.com/collections/survival-kits-and-sets)
+    * [Case Packs: By 5, Get 1 Free](https://4patriots.com/collections/custom-case-pack-builder)
     * [$20.00 Off - VIP Text Club](https://4patriots.com/pages/4pclub-subscribe-page)
-    * [Subscribe & Save](https://4patriots.com/collections/subscriptions)
     * [Last Chance](https://4patriots.com/collections/last-chance)
     * [Shop All Deals](https://4patriots.com/collections/deal-of-the-week)
     
@@ -265,14 +264,12 @@ We Champion Freedom & Self-Reliance
     
     Learn
     
-    * [Hurricane Preparedness Guide](https://4patriots.com/blogs/news/when-mother-nature-strikes-will-you-be-ready)
+    * [\[Read\] Hurricane Guide](https://4patriots.com/blogs/news/when-mother-nature-strikes-will-you-be-ready)
+    * [Blackout Tips](https://4patriots.com/blogs/news/your-how-to-guide-for-handling-a-power-outage)
+    * [FREE Checklist](https://cdn.shopify.com/s/files/1/0065/7270/3829/files/4P_DISASTER_PREPAREDNESS_CHECKLIST.pdf?v=1693344336)
     * [Preparedness Blog](https://4patriots.com/blogs/news)
-    * [Online Classes](https://4patriots.com/pages/webinars)
-    * [Emergency Survival Guides](https://4patriots.com/collections/survival-books)
     * [4Patriots Reviews](https://4patriots.com/pages/reviews)
-    * [Charitable Donations](https://4patriots.com/pages/charitable-donations)
-    * [About Us](https://4patriots.com/pages/about-us)
-    * [Returns & Exchanges](https://4patriots.com/pages/refund-policy)
+    * [Online Classes](https://4patriots.com/pages/webinars)
     
 * [Account](https://4patriots.com/account/login)
 * [FAQs](https://4patriots.com/pages/frequently-asked-questions)
