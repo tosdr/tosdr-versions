@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: Today is the last day to register to vote in Georgia. Have you signed up?](https://www.ajc.com/politics/the-voter-registration-deadline-in-georgia-is-monday-oct-7/KWEPQ5KVUJBVDNYUE2NHLSQUZ4/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1707)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1707)](https://www.ajc.com/)
 
 Log In
@@ -16,6 +18,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-are-you-ready-to-vote/XRSEELP2FZFB3GD5S5C3YZI34U/)
 * [Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
