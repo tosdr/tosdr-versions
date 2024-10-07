@@ -6,11 +6,11 @@
 
 [Home](https://www.librarything.com/) [Groups](https://www.librarything.com/ngroups) [Talk](https://www.librarything.com/talk) [More](https://www.librarything.com/more) [Zeitgeist](https://www.librarything.com/zeitgeist)
 
-Sign in / Join [English](#)[Help](https://wiki.librarything.com/index.php/HelpThing:Privacy)
+[Sign in / Join](https://www.librarything.com/) [English](#)[Help](https://wiki.librarything.com/index.php/HelpThing:Privacy)
 
   ![Search Site](https://image.librarything.com/pics/sbar_4.png "Search Site")
 
-* Sign in / Join
+* [Sign in / Join](https://www.librarything.com/)
 * [English](#)
 * [Help](https://wiki.librarything.com/index.php/HelpThing:Privacy)
 
