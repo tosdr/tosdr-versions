@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Assisted Living Care Can Be Made Easy](https://www.visitingangels.com/knowledge-center/care-options/assisted-living-care-can-be-made-easy/48)
+[How to Make Thanksgiving Easier for Elderly Care Recipients](https://www.visitingangels.com/knowledge-center/care-options/how-to-make-thanksgiving-easier-for-elderly-care-recipients/36)
 
-[The Importance of Choice in Elder Care Services](https://www.visitingangels.com/knowledge-center/selecting-care/the-importance-of-choice-in-elder-care-services/383)
+[Select Your Caregiver® by Visiting Angels](https://www.visitingangels.com/knowledge-center/selecting-care/select-your-caregiver-by-visiting-angels/266)
 
-[Part 2: Expert Advice When Caring for a Loved One with Alzheimer’s](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/part-2-expert-advice-when-caring-for-a-loved-one-with-alzheimers/368)
+[Elder Care during Holiday Times](https://www.visitingangels.com/knowledge-center/care-options/elder-care-during-holiday-times/50)
 
-[Understanding “Veterans’ Culture” When Caring for an Aging Vet](https://www.visitingangels.com/knowledge-center/why-in-home-care/understanding-veterans-culture-when-caring-for-an-aging-vet/338)
+[Loneliness in Seniors](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/loneliness-in-seniors/14)
 
-[Important Resources Your Veteran Loved One Can Use, Including Home Care](https://www.visitingangels.com/knowledge-center/selecting-care/important-resources-your-veteran-loved-one-can-use-including-home-care/334)
+[Why Caring for a Parent Who Has Dementia is the Ultimate Challenge](https://www.visitingangels.com/knowledge-center/selecting-care/why-caring-for-a-parent-who-has-dementia-is-the-ultimate-challenge/322)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
