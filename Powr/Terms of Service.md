@@ -1,6 +1,55 @@
 [![POWR logo](https://www.powrcdn.com/tutorial_pages_new_design/powr-logo.svg)](https://www.powr.io/)
 
-* [Apps](https://www.powr.io/plugins)
+* Apps
+    
+    Form
+    
+    [Booking Form](https://www.powr.io/booking-form-website-app?utm_source=app-dropdown)[Contact Form](https://www.powr.io/contact-form-website-app?utm_source=app-dropdown)[Custom Order Form](https://www.powr.io/custom-order-form-website-app?utm_source=app-dropdown)[Donation Form](https://www.powr.io/donation-form-website-app?utm_source=app-dropdown)[Ebook Download Form](https://www.powr.io/ebook-download-form-website-app?utm_source=app-dropdown)[Event Registration Form](https://www.powr.io/event-registration-form-website-app?utm_source=app-dropdown)[File Download Form](https://www.powr.io/file-download-form-website-app?utm_source=app-dropdown)[Form Builder](https://www.powr.io/form-builder-website-app?utm_source=app-dropdown)[Fundraising Form](https://www.powr.io/fundraising-form-website-app?utm_source=app-dropdown)[Invoice Form](https://www.powr.io/invoice-form-website-app?utm_source=app-dropdown)[Membership Form](https://www.powr.io/membership-form-website-app?utm_source=app-dropdown)[Order Form](https://www.powr.io/order-form-website-app?utm_source=app-dropdown)[Sponsorship Form](https://www.powr.io/sponsorship-form-website-app?utm_source=app-dropdown)[Subscription Signup Form](https://www.powr.io/subscription-signup-form-website-app?utm_source=app-dropdown)[Feedback Survey](https://www.powr.io/survey-website-app?utm_source=app-dropdown)[Wholesale Form](https://www.powr.io/wholesale-form-website-app?utm_source=app-dropdown)
+    
+    Popup
+    
+    [Abandoned Cart Popup](https://www.powr.io/abandoned-cart-popup-website-app?utm_source=app-dropdown)[Age Consent Popup](https://www.powr.io/age-validation-popup-website-app?utm_source=app-dropdown)[Coupon Popup](https://www.powr.io/coupon-popup-website-app?utm_source=app-dropdown)[Discount Popup](https://www.powr.io/discount-popup-website-app?utm_source=app-dropdown)[Donation Popup](https://www.powr.io/donation-popup-website-app?utm_source=app-dropdown)[Email Signup Popup](https://www.powr.io/email-popup-website-app?utm_source=app-dropdown)[Event Registration Popup](https://www.powr.io/event-registration-popup-website-app?utm_source=app-dropdown)[Exit Intent Popup](https://www.powr.io/exit-intent-popup-website-app?utm_source=app-dropdown)[Newsletter Signup Popup](https://www.powr.io/newsletter-sign-up-popup-website-app?utm_source=app-dropdown)[Nudge Popup](https://www.powr.io/nudge-website-app?utm_source=app-dropdown)[Popup](https://www.powr.io/popup-website-app?utm_source=app-dropdown)[Popup Maker](https://www.powr.io/popup-maker-website-app?utm_source=app-dropdown)[Promotion Popup](https://www.powr.io/promotion-popup-website-app?utm_source=app-dropdown)[Sale Promotion Bar](https://www.powr.io/sale-promotion-bar-website-app?utm_source=app-dropdown)[Subscription Signup Popup](https://www.powr.io/subscription-signup-popup-website-app?utm_source=app-dropdown)[Survey Popup](https://www.powr.io/survey-popup-website-app?utm_source=app-dropdown)
+    
+    Galleries
+    
+    [Event Gallery](https://www.powr.io/event-gallery-website-app?utm_source=app-dropdown)[Flickr Gallery](https://www.powr.io/flickr-gallery-website-app?utm_source=app-dropdown)[Media Gallery](https://www.powr.io/media-gallery-website-app?utm_source=app-dropdown)[Photo Gallery](https://www.powr.io/photo-gallery-website-app?utm_source=app-dropdown)[Video Gallery](https://www.powr.io/video-gallery-website-app?utm_source=app-dropdown)[Vimeo Gallery](https://www.powr.io/vimeo-gallery-website-app?utm_source=app-dropdown)[YouTube Gallery](https://www.powr.io/youtube-gallery-website-app?utm_source=app-dropdown)[X (Twitter) Feed](https://www.powr.io/twitter-feed-website-app?utm_source=app-dropdown)
+    
+    Support
+    
+    [Live Chat](https://www.powr.io/chat-website-app?utm_source=app-dropdown)[FAQ](https://www.powr.io/faq-website-app?utm_source=app-dropdown)
+    
+    Payments
+    
+    [PayPal Button](https://www.powr.io/paypal-button-website-app?utm_source=app-dropdown)[Stripe Button](https://www.powr.io/stripe-button-website-app?utm_source=app-dropdown)
+    
+    Timers
+    
+    [Count Up Timer](https://www.powr.io/count-up-timer-website-app?utm_source=app-dropdown)[Countdown Timer](https://www.powr.io/countdown-timer-website-app?utm_source=app-dropdown)[Email Countdown](https://www.powr.io/email-countdown-website-app?utm_source=app-dropdown)[Holiday Countdown](https://www.powr.io/holiday-countdown-website-app?utm_source=app-dropdown)[Sales Countdown](https://www.powr.io/sales-countdown-website-app?utm_source=app-dropdown)
+    
+    Reviews
+    
+    [Product Reviews](https://www.powr.io/product-reviews-website-app?utm_source=app-dropdown)[Flickr Gallery](https://www.powr.io/flickr-gallery-website-app?utm_source=app-dropdown)[Star Ratings](https://www.powr.io/star-ratings-website-app?utm_source=app-dropdown)[Comments](https://www.powr.io/comments-website-app?utm_source=app-dropdown)[Testimonials](https://www.powr.io/testimonials-website-app?utm_source=app-dropdown)[Vimeo Gallery](https://www.powr.io/vimeo-gallery-website-app?utm_source=app-dropdown)[YouTube Gallery](https://www.powr.io/youtube-gallery-website-app?utm_source=app-dropdown)
+    
+    Social
+    
+    [Facebook Feed](https://www.powr.io/facebook-feed-website-app?utm_source=app-dropdown)[Instagram Feed](https://www.powr.io/instagram-feed-website-app?utm_source=app-dropdown)[Pinterest Feed](https://www.powr.io/pinterest-feed-website-app?utm_source=app-dropdown)[RSS Feed](https://www.powr.io/rss-feed-website-app?utm_source=app-dropdown)[Social Feed](https://www.powr.io/social-feed-website-app?utm_source=app-dropdown)[X (Twitter) Feed](https://www.powr.io/twitter-feed-website-app?utm_source=app-dropdown)
+    
+    Sliders
+    
+    [Banner Slider](https://www.powr.io/banner-slider-website-app?utm_source=app-dropdown)[Event Slider](https://www.powr.io/event-slider-website-app?utm_source=app-dropdown)[Image Slider](https://www.powr.io/image-slider-website-app?utm_source=app-dropdown)[Multi Slider](https://www.powr.io/multi-slider-website-app?utm_source=app-dropdown)[Testimonial Slider](https://www.powr.io/testimonial-slider-website-app?utm_source=app-dropdown)[Video Slider](https://www.powr.io/video-slider-website-app?utm_source=app-dropdown)
+    
+    Tools
+    
+    [About Us](https://www.powr.io/about-us-website-app?utm_source=app-dropdown)[Image Resizer](https://www.powr.io/image-resizer-website-app?utm_source=app-dropdown)[Graph](https://www.powr.io/graph-website-app?utm_source=app-dropdown)[Map](https://www.powr.io/map-website-app?utm_source=app-dropdown)[Restaurant Menu](https://www.powr.io/menu-website-app?utm_source=app-dropdown)[Photo Editor](https://www.powr.io/photo-editor-website-app?utm_source=app-dropdown)[Resume](https://www.powr.io/resume-website-app?utm_source=app-dropdown)[Size Chart](https://www.powr.io/size-chart-website-app?utm_source=app-dropdown)[Tabs](https://www.powr.io/tabs-website-app?utm_source=app-dropdown)[Weather](https://www.powr.io/weather-website-app?utm_source=app-dropdown)
+    
+    Take your website to the next level and get all apps with unlimited features.
+    
+    [Learn more](https://powr.io/business?utm_source=app-dropdown)
+    
+    [![best-powr-apps](https://www.powrcdn.com/navbar/apps-dropdown-skyscraper.svg)](https://powr.io/business?utm_source=app-dropdown)
+    
+    [See all](https://www.powr.io/plugins?utm_source=app-dropdown)
+    
 * [Plans & Pricing](https://www.powr.io/pricing)
 * [About](https://www.powr.io/about)
 * Resources
@@ -540,7 +589,7 @@ Featured Blog post
 
 Online commerce is an integral part of the overall retail business.Read More
 
-Posted by on 2024-10-04](https://blog.powr.io/converting-cross-border-shoppers-during-black-friday-cyber-monday)
+Posted by on 2024-10-07](https://blog.powr.io/converting-cross-border-shoppers-during-black-friday-cyber-monday)
 
 [![POWR One: Website Plugins Suite - 60+ plugins all-in-one to personalize your website. No code. | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=415884&theme=light)](https://www.producthunt.com/posts/powr-one-website-plugins-suite?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-powr-one-website-plugins-suite)
 
