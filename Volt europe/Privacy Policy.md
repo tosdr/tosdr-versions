@@ -58,19 +58,17 @@ Regional and local delegates](https://www.volteuropa.org/people/regional-local-d
 
 [All people](https://volteuropa.org/people)
 
-Back[![](/img/containers/assets/img_4989.jpg/b56057dc4b728c266eb5a442e07af171.jpg)
+Back[![](/img/containers/assets/pexels-artempodrez-7048044.jpg/f1891059f701283875ac340abfc836bc.jpg)
+
+One year after the terrorist attacks on Israel: choosing the side of human rights 7 Oct 2024](https://volteuropa.org/news/one-year-after-the-terrorist-attacks-on-israel-choosing-the-side-of-human-rights)[![](/img/containers/assets/pexels-kubrakuzu-17185764.jpg/571811345740252218ad61fabd6fba71.jpg)
+
+War is spreading in the Middle East. We call for a comprehensive ceasefire and international accountability. 4 Oct 2024](https://volteuropa.org/news/war-is-spreading-in-the-middle-east-we-call-for-a-comprehensive-ceasefire-and-international-accountability)[Statement on escalation of war in Libanon: Reinier van Lanschot 30 Sep 2024](https://volteuropa.org/news/statement-on-escalation-of-war-in-libanon-reinier-van-lanschot)[![](/img/containers/assets/img_4989.jpg/b56057dc4b728c266eb5a442e07af171.jpg)
 
 Russian Attacks in Poltava: Volt Europa Calls for Stronger Military and Humanitarian Support for Ukraine 4 Sep 2024](https://volteuropa.org/news/russian-attacks-in-poltava-volt-europa-calls-for-stronger-military-and-humanitarian-support-for-ukraine)[![](/img/containers/assets/img_1168.webp/e2169cbae213394c0d537550a3289ece.webp)
 
 A Travel Itinerary Fit for the Future 14 Aug 2024](https://volteuropa.org/news/a-travel-itinerary-fit-for-the-future)[![](/img/containers/assets/pexels-zuzia-kulikowska-330692174-14318569.jpg/00a08aa7c86b28ff3da435fc91bff8cc.jpg)
 
-The Anniversary of the Second Phase of the Turkish Invasion of Cyprus 14 Aug 2024](https://volteuropa.org/news/the-anniversary-of-the-second-phase-of-the-turkish-invasion-of-cyprus)[![](/img/containers/assets/pexels-ivan-drazic-20457695-25315874.jpg/5a21473e3389f6fb2310ff6541e99396.jpg)
-
-Volt Cyprus: A Call for Diplomacy in a Time of Escalating Tensions 12 Aug 2024](https://volteuropa.org/news/volt-cyprus-a-call-for-diplomacy-in-a-time-of-escalating-tensions)[![](/img/containers/assets/pexels-ahmed-akacha-3313934-19264032.jpg/b2638afba2391e6f13cb74a83f8adc81.jpg)
-
-The EU can no longer stand aloof when it comes to Israeli occupation policies 11 Aug 2024](https://volteuropa.org/news/the-eu-can-no-longer-stand-aloof-when-it-comes-to-israeli-occupation-policies)[![](/img/containers/assets/pexels-lara-jameson-8828624.jpg/0c171cab006bb38a87566fe4f82a0a1f.jpg)
-
-Volt Europa on the current escalation in the Middle East 8 Aug 2024](https://volteuropa.org/news/volt-europa-on-the-current-escalation-in-the-middle-east)
+The Anniversary of the Second Phase of the Turkish Invasion of Cyprus 14 Aug 2024](https://volteuropa.org/news/the-anniversary-of-the-second-phase-of-the-turkish-invasion-of-cyprus)
 
 [View more news](https://volteuropa.org/news)
 
