@@ -171,9 +171,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [OneTrust third-party management demo video](https://www.onetrust.com/resources/onetrust-third-party-management-demo-video/)
+* [Bill S-211: Will you be ready by May 31?”](https://www.onetrust.com/resources/bill-s211-will-you-be-ready-by-may-31-webinar/)
 * [Compliance Automation product demonstration](https://www.onetrust.com/resources/compliance-automation-product-demonstration-webinar/)
-* [4 top-of-mind challenges for CISOs](https://www.onetrust.com/resources/4-top-of-mind-challenges-for-cisos-infographic/)
-* [Establishing a scalable AI governance framework: Key steps and tech for success](https://www.onetrust.com/resources/establishing-a-scalable-ai-governance-framework-key-steps-and-tech-for-success-ebook/)
 
 ### Platform
 
