@@ -431,11 +431,10 @@ Registered office: Club Chambers, Museum Street, York, YO1 7DN United Kingdom
 Information Commissioner's Office (ICO) Reg. No. ZA004886  
 14/06/23
 
-"I ran the trial with a small group of students over three weeks before the summer holidays," she says. "I quickly saw the benefits, and signed up."
+"Spellzone fits in beautifully with our Scope and Sequence of Phonological Awareness and Spelling. It also aligns perfectly with the four areas of spelling knowledge and uses the Brain, Ears, Eyes approach to learning spelling."  
+Thank you!
 
-**King's Leadership Academy, Warrington**
-
-[read more...](https://www.spellzone.com/pages/case-studies/kings-leadership-academy.cfm)
+**Teacher, Australia**
 
 ### Curriculum...
 
