@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Rose Chavis](https://am23.mediaite.com/lc/cnt/uploads/2024/10/arrest--432x243.jpg)](https://lawandcrime.com/crime/mom-left-paralyzed-daughter-stuck-between-bed-and-wall-for-a-week-because-she-wanted-her-to-get-up-on-her-own-as-maggots-crawled-in-wounds-cops/)
+1. [![Sticker Mule Trump sign](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Sticker-Mule-Trump-sign-432x243.jpg)](https://lawandcrime.com/lawsuit/business-owner-forced-to-cover-large-vote-for-trump-sign-atop-building-after-city-obtains-restraining-order-over-traffic-concerns/)
     
-    ### [Mom left paralyzed daughter stuck between bed and wall for a week because she wanted her to 'get up on her own' as maggots crawled in wounds: Cops](https://lawandcrime.com/crime/mom-left-paralyzed-daughter-stuck-between-bed-and-wall-for-a-week-because-she-wanted-her-to-get-up-on-her-own-as-maggots-crawled-in-wounds-cops/)
+    ### [Business owner forced to cover large 'Vote for Trump' sign atop building after city obtains restraining order over traffic concerns](https://lawandcrime.com/lawsuit/business-owner-forced-to-cover-large-vote-for-trump-sign-atop-building-after-city-obtains-restraining-order-over-traffic-concerns/)
     
-2. [![Hoyt Webb (KXLY).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/spokaneshoot-432x243.jpg)](https://lawandcrime.com/crime/i-still-dont-believe-what-he-got-was-fair-man-who-livestreamed-himself-shooting-a-homeless-man-gets-3-years-in-jail/)
+2. [![Michael Cook Sr. (Sex Offender Registry Board).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Michael-Cook-Sr-432x243.png)](https://lawandcrime.com/crime/man-broke-into-wifes-home-and-fatally-beat-her-in-head-with-hammer-as-she-lay-in-bed/)
     
-    ### ['I still don't believe what he got was fair': Man who livestreamed himself shooting a homeless man gets 3 years in jail](https://lawandcrime.com/crime/i-still-dont-believe-what-he-got-was-fair-man-who-livestreamed-himself-shooting-a-homeless-man-gets-3-years-in-jail/)
+    ### [Man broke into wife's home and fatally beat her in head with hammer as she lay in bed](https://lawandcrime.com/crime/man-broke-into-wifes-home-and-fatally-beat-her-in-head-with-hammer-as-she-lay-in-bed/)
     
-3. [![A day care worker at Zionsville Presbyterian Church is accused of breaking a 2-year-old boy's leg (WTHR).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/daycare-1-432x243.jpg)](https://lawandcrime.com/crime/day-care-worker-said-boy-whose-leg-snapped-while-she-was-playing-with-him-was-a-crybaby-and-not-really-a-nice-kid-cops/)
+3. [![Background: Villanova University (YouTube). Inset: Mirvan Dinler (Delaware County (Penn.) District Attorney's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Mirvan-Dinler-Uber-assault-432x243.jpg)](https://lawandcrime.com/crime/uber-driver-followed-college-student-into-dorm-room-sexually-assaulted-her-demanded-money-police/)
     
-    ### [Day care worker said boy whose leg 'snapped' while she was 'playing' with him was a 'crybaby' and 'not really a nice kid': Cops](https://lawandcrime.com/crime/day-care-worker-said-boy-whose-leg-snapped-while-she-was-playing-with-him-was-a-crybaby-and-not-really-a-nice-kid-cops/)
+    ### [Uber driver followed college student into dorm room, sexually assaulted her, demanded money: Police](https://lawandcrime.com/crime/uber-driver-followed-college-student-into-dorm-room-sexually-assaulted-her-demanded-money-police/)
     
-4. [![Background: The aftermath of a tanker-truck crash that killed five people in Springfield, Ill. Inset: Footage of a car believed to have been connected to the crash (WCIA/YouTube).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Illinois-tanker-crash-432x243.jpg)](https://lawandcrime.com/high-profile/totally-my-bad-wow-holy-s-teen-driver-says-fatal-tanker-crash-toxic-chemical-spill-may-have-been-her-fault-after-watching-dashcam-video/)
+4. [![A stolen vehicle is driven through a playground at a school in Minneapolis, Minn. (Minneapolis Police Department).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Stolen-car-Minneapolis-playground-432x243.jpg)](https://lawandcrime.com/crime/stolen-car-seen-circling-playground-full-of-children-was-driven-by-10-year-old-boy-police/)
+    
+    ### [Stolen car seen circling playground full of children was driven by 10-year-old boy: Police](https://lawandcrime.com/crime/stolen-car-seen-circling-playground-full-of-children-was-driven-by-10-year-old-boy-police/)
+    
+5. [![Background: The aftermath of a tanker-truck crash that killed five people in Springfield, Ill. Inset: Footage of a car believed to have been connected to the crash (WCIA/YouTube).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Illinois-tanker-crash-432x243.jpg)](https://lawandcrime.com/high-profile/totally-my-bad-wow-holy-s-teen-driver-says-fatal-tanker-crash-toxic-chemical-spill-may-have-been-her-fault-after-watching-dashcam-video/)
     
     ### ['Totally my bad. Wow. Holy s---': Teen driver says fatal tanker crash, toxic chemical spill may have been her fault after watching dashcam video](https://lawandcrime.com/high-profile/totally-my-bad-wow-holy-s-teen-driver-says-fatal-tanker-crash-toxic-chemical-spill-may-have-been-her-fault-after-watching-dashcam-video/)
-    
-5. [![Michael Oliveras](https://am21.mediaite.com/lc/cnt/uploads/2024/10/j6-432x243.jpg)](https://lawandcrime.com/crime/id-do-it-again-trump-supporter-who-thought-the-insurrection-act-was-in-motion-and-said-jan-6-was-precisely-what-we-want-just-learned-his-punishment/)
-    
-    ### ['I'd do it again': Trump supporter who thought the Insurrection Act was 'in motion' and said Jan. 6 was 'precisely what we want' just learned his punishment](https://lawandcrime.com/crime/id-do-it-again-trump-supporter-who-thought-the-insurrection-act-was-in-motion-and-said-jan-6-was-precisely-what-we-want-just-learned-his-punishment/)
     
 
 [](http://eepurl.com/c89Jdb)
