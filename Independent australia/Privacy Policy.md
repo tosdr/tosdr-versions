@@ -90,11 +90,11 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
-[Katy kicks off Grand Final amid 'Roar' of controversy](https://independentaustralia.net/article-display/politics-display/katy-kicks-off-grand-final-amid-roar-of-controversy,19033)
+[Despite Murdoch media bashing, Steven Miles got the job done](https://independentaustralia.net/article-display/politics-display/despite-murdoch-media-bashing-steven-miles-got-the-job-done,19050)
 
-[President Prabowo faces new nemesis: Press accountability](https://independentaustralia.net/article-display/president-prabowo-faces-new-nemesis-press-accountability,19031)
+['Pursuit of truth will live on': Assange speaks to the world](https://independentaustralia.net/article-display/pursuit-of-truth-will-live-on-assange-speaks-to-the-world,19049)
 
-[Historic strike remembered as Victorian police dispute escalates](https://independentaustralia.net/article-display/historic-strike-remembered-as-victorian-police-dispute-escalates-,19030)
+[Economic outcomes destroy pro-Coalition media falsehoods — one by one](https://independentaustralia.net/article-display/economic-outcomes-destroy-pro-coalition-media-falsehoods--one-by-one,19048)
 
 Privacy Policy
 
@@ -180,12 +180,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Economic outcomes destroy pro-Coalition media falsehoods — one by one](https://independentaustralia.net/article-display/economic-outcomes-destroy-pro-coalition-media-falsehoods-one-by-one,19048 "Permanent Link : Economic outcomes destroy pro-Coalition media falsehoods — one by one")
+* [The Dom Pérignon buyers' scheme](https://independentaustralia.net/article-display/the-dom-prignon-buyers-scheme,19053 "Permanent Link : The Dom Pérignon buyers' scheme")
 * [Despite Murdoch media bashing, Steven Miles got the job done](https://independentaustralia.net/article-display/despite-murdoch-media-bashing-steven-miles-got-the-job-done,19050 "Permanent Link : Despite Murdoch media bashing, Steven Miles got the job done")
 * ['Pursuit of truth will live on': Assange speaks to the world](https://independentaustralia.net/article-display/pursuit-of-truth-will-live-on-assange-speaks-to-the-world,19049 "Permanent Link : 'Pursuit of truth will live on': Assange speaks to the world")
 * [POEM: A Nation of Apologies](https://independentaustralia.net/article-display/poem-a-nation-of-apologies,19047 "Permanent Link : POEM: A Nation of Apologies")
 * [Grand Final fever — the secret to a Panthers win](https://independentaustralia.net/article-display/grand-final-fever-the-secret-to-a-panthers-win,19042 "Permanent Link : Grand Final fever — the secret to a Panthers win")
 * [Great apes monkey around at Taronga Zoo](https://independentaustralia.net/article-display/great-apes-monkey-around-at-taronga-zoo,18946 "Permanent Link : Great apes monkey around at Taronga Zoo")
-* [Vale Chimpy, the anti-fascist feline hero](https://independentaustralia.net/article-display/vale-chimpy-the-anti-fascist-feline-hero,19045 "Permanent Link : Vale Chimpy, the anti-fascist feline hero")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
