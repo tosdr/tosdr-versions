@@ -2,9 +2,9 @@
 
 Pause slideshow Play slideshow
 
-[**FREE Trio of Treats sampler bag with purchases $50+**](https://www.serovital.com/collections/all-products "All Products")
+[**FREE Trio of Treats sampler bag with purchases $50+**](https://www.serovital.com/pages/trio-of-treats "Trio of Treats")
 
-[**FREE Trio of Treats sampler bag with purchases $50+**](https://www.serovital.com/collections/all-products "All Products")
+[**FREE Trio of Treats sampler bag with purchases $50+**](https://www.serovital.com/pages/trio-of-treats "Trio of Treats")
 
 SeroVital [![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_4ac60aec-5425-4f66-844c-8b0076be5bc4_150x.svg?v=1718043766) ![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_4ac60aec-5425-4f66-844c-8b0076be5bc4_150x.svg?v=1718043766)](https://www.serovital.com/)[![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_cce037ef-1b37-4d58-9923-d86e61f3c2bc_150x.svg?v=1718043786) ![SeroVital](//www.serovital.com/cdn/shop/files/SeroVital_Logo_White_400x96_cce037ef-1b37-4d58-9923-d86e61f3c2bc_150x.svg?v=1718043786)](https://www.serovital.com/)
 
