@@ -1,14 +1,14 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZwLo@AoAAVAAAABb3ag)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZwM9HgoAAVAAAABbM3Y)
 
 Es noticia
 
-* [Israel](https://www.elmundo.es/internacional/2024/10/06/67022a3441c601002425aeea-directo.html)
-* [Bildu](https://www.elmundo.es/espana/2024/10/04/66ffbfaf21efa0067d8b457e.html)
-* [Pedro Sánchez](https://www.elmundo.es/espana/2024/10/04/66ffca5e21efa05f678b4576.html)
-* [Page](https://www.elmundo.es/espana/2024/10/04/66ffe5a3fc6c837f4a8b456e.html)
-* [Felipe VI](https://www.elmundo.es/espana/2024/10/04/66ffc805e4d4d8bd7f8b4586.html)
+* [Israel](https://lab.elmundo.es/aniversario-guerra-israel-palestina/index.html)
+* [Caso Begoña](https://www.elmundo.es/espana/2024/10/07/6702aa8dfdddff65518b4589.html)
+* [Dani Carvajal](https://www.elmundo.es/deportes/futbol/2024/10/06/6702c328e4d4d8fd1b8b458b.html)
+* [Tragedia Guillena](https://www.elmundo.es/andalucia/2024/10/06/67024aa8e9cf4a00538b4578.html)
+* [Álvaro Martín](https://www.elmundo.es/deportes/mas-deporte/2024/10/06/670157a021efa0e4138b45ad.html)
 * [Roca Rey](https://www.elmundo.es/cultura/toros/2024/10/06/6702c86fe9cf4ad8548b4583.html)
-* [La Revuelta](https://www.elmundo.es/television/momentvs/2024/10/04/66ff7f3be9cf4a75508b457d.html)
+* [Sonia Martínez](https://www.elmundo.es/loc/famosos/2024/10/06/66ffd688e85ece56458b4576.html)
 * [Baja laboral flexible](https://www.elmundo.es/economia/2024/10/04/66fedc3cfc6c8322398b458d.html)
 * [Edmundo González](https://www.elmundo.es/espana/2024/10/04/67001912e9cf4a847c8b45a1.html)
 * [Caza F18](https://www.elmundo.es/aragon/2024/10/04/66ffd29b21efa097148b4580.html)
