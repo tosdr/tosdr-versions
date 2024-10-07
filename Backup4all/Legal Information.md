@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Dunkel](https://www.backup4all.com/how-to-backup-your-data-to-dunkel-kb.html)  
+* [Backup to SFTP](https://www.backup4all.com/backup-to-sftp-kb.html)  
     
-* [Using Backup4all - FAQ 10](https://www.backup4all.com/using-backup4all-faq-10-kb.html)  
+* [How to create a mirror with zip backup](https://www.backup4all.com/how-to-create-a-mirror-with-zip-backup-kb.html)  
     
-* [Google Drive cannot be used as backup source ...](https://www.backup4all.com/google-drive-cannot-be-used-as-backup-source-anymore-kb.html)  
+* [How to create an exact copy of the source dri ...](https://www.backup4all.com/how-to-create-an-exact-copy-of-the-source-drive-on-another-driv-kb.html)  
     
-* [Using Backup4all - FAQ 6](https://www.backup4all.com/using-backup4all-faq-6-kb.html)  
+* [Access denied error when trying to create a s ...](https://www.backup4all.com/access-denied-error-when-trying-to-create-a-scheduled-task-kb.html)  
     
-* [How to backup your data to QNAP](https://www.backup4all.com/how-to-backup-your-data-to-qnap-kb.html)  
+* [How to back up data files from Hubic using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-hubic-using-backup4all-kb.html)  
     
 
 Choose language:
