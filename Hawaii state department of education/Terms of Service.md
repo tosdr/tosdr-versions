@@ -2,7 +2,7 @@
 
 ![](/_layouts/15/images/spcommon.png?rev=23)
 
-                        
+                         
 
 [![logo](/PublishingImages/masterpage/hidoe-logo.png)](https://www.hawaiipublicschools.org/)
 
@@ -206,13 +206,11 @@ Second Article Callout
 
 Information about the Department's public website and Staff Intranet, which were built to fulfill communications goals of the Strategic Plan.​
 
-### Ho‘oha‘aheo
+### How do I...?
 
-![Ho‘oha‘aheo newsletter cover](https://www.hawaiipublicschools.org/PublishingImages/1-VISION/4-NEWSLETTERS/0719HoohaaheoThumb.jpg)
+Enroll my child in kindergarten? Apply for a job? Get information about moving to Hawaii? Get a student bus pass? Access resources as a member of a military family? Learn more about the Common Core State Standards? Find information about the Department's budget? Access graduation requirements? Find the latest Hawaii State Assessment results? Find out the meaning of an acronym? [Go](javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$PlaceHolderMain$RightRail$ctl02$GoLinkButton", "", true, "", "", false, true)))
 
-The Department's primary publication featuring successes across our public schools.
-
-[View all Ho‘oha‘aheo Newsletters](https://www.hawaiipublicschools.org/VisionForSuccess/Newsletters/Hoohaaheo)
+[View all FAQ's](https://www.hawaiipublicschools.org/ConnectWithUs/FAQ/pages/home.aspx)
 
 ### Latest Articles
 
@@ -228,6 +226,8 @@ It looks like your browser does not have JavaScript enabled. Please turn on Java
 | [Determination leads Pauoa Elementary all-girl robotics team to advance in competition](https://www.hawaiipublicschools.org/VisionForSuccess/SuccessStories/Students/Pages/PauoaRoboticsGirls.aspx) | Determination leads Pauoa Elementary all-girl robotics team to advance in competition |     |     |     |     |
 
 [More Articles](https://www.hawaiipublicschools.org/Pages/SearchAllRelatedArticles.aspx?HIDOEKeywords=48aaf4ed-2030-46c3-a84d-f0b0f88b46ce;5c04a885-724f-4540-8fb1-f05a8286964c;&News=True)
+
+### Tweets
 
 Hawaiʻi State Department of Education Offices
 
