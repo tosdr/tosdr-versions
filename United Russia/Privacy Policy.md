@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Тысячи активистов МГЕР и «Волонтерской Роты» провели в Москве и Санкт-Петербурге флешмобы в честь Дня рождения Владимира Путина](https://cdn.er.ru/media/news/October2024/G3BatyUHSJdf3lfHRgUI-small.jpg)](https://er.ru/activity/news/tysyachi-aktivistov-mger-i-volonterskoj-roty-proveli-v-moskve-i-sankt-peterburge-fleshmoby-v-chest-dnya-rozhdeniya-vladimira-putina)
+
+[Тысячи активистов МГЕР и «Волонтерской Роты» провели в Москве и Санкт-Петербурге флешмобы в честь Дня рождения Владимира Путина](https://er.ru/activity/news/tysyachi-aktivistov-mger-i-volonterskoj-roty-proveli-v-moskve-i-sankt-peterburge-fleshmoby-v-chest-dnya-rozhdeniya-vladimira-putina)
+
+[#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=132412) [#флэшмобы](https://er.ru/activity/news?tags%5B0%5D=84285) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#ПрезидентРФ](https://er.ru/activity/news?tags%5B0%5D=128518)
+
+Сегодня 09:00
+
 [![«Молодая Гвардия Единой России» доставила гуманитарную помощь участникам СВО на Курском направлении](https://cdn.er.ru/media/news/October2024/5IVKnKzLmM4PmKFtctvU-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-gumanitarnuyu-pomosh-uchastnikam-svo-na-kurskom-napravlenii)
 
 [«Молодая Гвардия Единой России» доставила гуманитарную помощь участникам СВО на Курском направлении](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-gumanitarnuyu-pomosh-uchastnikam-svo-na-kurskom-napravlenii)
@@ -336,14 +344,6 @@
 [Денис Мирошниченко: Сегодня команда «Единой России» в ЛНР — это больше 34 тысяч человек, которые помогают людям и фронту](https://er.ru/activity/news/denis-miroshnichenko-segodnya-komanda-edinoj-rossii-v-lnr-eto-bolshe-34-tysyach-chelovek-kotorye-pomogayut-lyudyam-i-frontu)
 
 [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Мирошниченко](https://er.ru/activity/news?tags%5B0%5D=42613) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-06.10.24
-
-[![Денис Пушилин: За два года «Единая Россия» приросла почти 142 тысячами активистов из ДНР](https://cdn.er.ru/media/news/October2024/ONvOcrxjpBKfgofVB1Uj-small.jpg)](https://er.ru/activity/news/denis-pushilin-za-dva-goda-edinaya-rossiya-prirosla-pochti-142-tysyachami-aktivistov-iz-dnr)
-
-[Денис Пушилин: За два года «Единая Россия» приросла почти 142 тысячами активистов из ДНР](https://er.ru/activity/news/denis-pushilin-za-dva-goda-edinaya-rossiya-prirosla-pochti-142-tysyachami-aktivistov-iz-dnr)
-
-[#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 06.10.24
 
