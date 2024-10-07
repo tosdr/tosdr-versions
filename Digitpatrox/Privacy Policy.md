@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Sunday, October 6 2024
+Monday, October 7 2024
 
 Latest
 
+* [These Are the Best Early Prime Day Sales on Vitamix Blenders](https://digitpatrox.com/these-are-the-best-early-prime-day-sales-on-vitamix-blenders/)
+* [Best French-Door Refrigerators of 2024](https://digitpatrox.com/best-french-door-refrigerators-of-2024/)
+* [The 10 Greatest Nokia Symbian Phones in History](https://digitpatrox.com/the-10-greatest-nokia-symbian-phones-in-history/)
+* [NYT Connections today hints and answers — Monday, October 7 (#484)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-october-7-484/)
+* [Man pleads guilty to stealing $37 million in crypto from 571 victims](https://digitpatrox.com/man-pleads-guilty-to-stealing-37-million-in-crypto-from-571-victims/)
+* [Starlink’s direct-to-cell satellite service approved for areas hit by Hurricane Helene](https://digitpatrox.com/starlinks-direct-to-cell-satellite-service-approved-for-areas-hit-by-hurricane-helene/)
+* [Today’s Wordle Answer and Hints (October 7, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-7-2024/)
+* [Four DIY Fixes for Slow Hot Water (and When to Call a Pro)](https://digitpatrox.com/four-diy-fixes-for-slow-hot-water-and-when-to-call-a-pro/)
 * [Best Space Heaters of 2024](https://digitpatrox.com/best-space-heaters-of-2024/)
 * [8 Outlook Search Tips to Find Emails Instantly](https://digitpatrox.com/8-outlook-search-tips-to-find-emails-instantly/)
-* [Apple insider reveals when iOS 18.1 will bring Apple intelligence features to iPhones](https://digitpatrox.com/apple-insider-reveals-when-ios-18-1-will-bring-apple-intelligence-features-to-iphones/)
-* [Comcast and Truist Bank customers caught up in FBCS data breach](https://digitpatrox.com/comcast-and-truist-bank-customers-caught-up-in-fbcs-data-breach/)
-* [Trailers of the week: Nosferatu, The Franchise, and Squid Game 2](https://digitpatrox.com/trailers-of-the-week-nosferatu-the-franchise-and-squid-game-2/)
-* [Here’s When iOS 18.1 with Apple Intelligence Will Be Released](https://digitpatrox.com/heres-when-ios-18-1-with-apple-intelligence-will-be-released/)
-* [What’s New in iOS 18.0.1](https://digitpatrox.com/whats-new-in-ios-18-0-1/)
-* [Best Battery-Powered Snow Blowers of 2024](https://digitpatrox.com/best-battery-powered-snow-blowers-of-2024/)
-* [The Best Nintendo Switch Headsets of 2024](https://digitpatrox.com/the-best-nintendo-switch-headsets-of-2024/)
-* [Pricing, Features, Pros, & Cons](https://digitpatrox.com/pricing-features-pros-cons/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1670337618/prod/content/dam/CRO-Images-2022/Electronics/12December/CR-Appliances-InlineHero-Best-Space-Heaters-of-2022)](https://digitpatrox.com/best-space-heaters-of-2024/)
+* [![](https://lifehacker.com/imagery/articles/01J9BZ63JXJ6YFSJJACK77XT5S/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/these-are-the-best-early-prime-day-sales-on-vitamix-blenders/)
     
-    [Best Space Heaters of 2024](https://digitpatrox.com/best-space-heaters-of-2024/)
+    [These Are the Best Early Prime Day Sales on Vitamix Blenders](https://digitpatrox.com/these-are-the-best-early-prime-day-sales-on-vitamix-blenders/)
     
-    1 min ago
+    10 mins ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/a-laptop-with-outlook-open-and-the-new-outlook-logo-on-the-right.jpg)](https://digitpatrox.com/8-outlook-search-tips-to-find-emails-instantly/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1684774300/prod/content/dam/CRO-Images-2023/05May/Appliances/CR-Appliances-InlineHero-Best-French-Door-Refrigators-0523)](https://digitpatrox.com/best-french-door-refrigerators-of-2024/)
     
-    [8 Outlook Search Tips to Find Emails Instantly](https://digitpatrox.com/8-outlook-search-tips-to-find-emails-instantly/)
+    [Best French-Door Refrigerators of 2024](https://digitpatrox.com/best-french-door-refrigerators-of-2024/)
     
-    4 mins ago
+    42 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/FXKaTyYRYrjqxsMy8CvJ7N-1200-80.jpg)](https://digitpatrox.com/apple-insider-reveals-when-ios-18-1-will-bring-apple-intelligence-features-to-iphones/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/some-nokia-devices-with-the-symbian-logo-in-the-background.jpg)](https://digitpatrox.com/the-10-greatest-nokia-symbian-phones-in-history/)
     
-    [Apple insider reveals when iOS 18.1 will bring Apple intelligence features to iPhones](https://digitpatrox.com/apple-insider-reveals-when-ios-18-1-will-bring-apple-intelligence-features-to-iphones/)
+    [The 10 Greatest Nokia Symbian Phones in History](https://digitpatrox.com/the-10-greatest-nokia-symbian-phones-in-history/)
     
-    1 hour ago
+    44 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/04/Comcast-headpic.jpg)](https://digitpatrox.com/comcast-and-truist-bank-customers-caught-up-in-fbcs-data-breach/)
+* [![](https://cdn.mos.cms.futurecdn.net/cF6f5PcRoahYxLFA4Pi6TW-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-october-7-484/)
     
-    [Comcast and Truist Bank customers caught up in FBCS data breach](https://digitpatrox.com/comcast-and-truist-bank-customers-caught-up-in-fbcs-data-breach/)
+    [NYT Connections today hints and answers — Monday, October 7 (#484)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-october-7-484/)
     
     2 hours ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/UqKcHXo25uT6UMPcKFw6HOZJhW4=/0x0:2302x1218/1200x628/filters:focal(1151x609:1152x610)/cdn.vox-cdn.com/uploads/chorus_asset/file/25661290/Screenshot_2024_10_06_at_10.48.36_AM.png)](https://digitpatrox.com/trailers-of-the-week-nosferatu-the-franchise-and-squid-game-2/)
+* [![](https://www.bleepstatic.com/content/hl-images/2022/06/10/cryptocurrency-header.jpg)](https://digitpatrox.com/man-pleads-guilty-to-stealing-37-million-in-crypto-from-571-victims/)
     
-    [Trailers of the week: Nosferatu, The Franchise, and Squid Game 2](https://digitpatrox.com/trailers-of-the-week-nosferatu-the-franchise-and-squid-game-2/)
+    [Man pleads guilty to stealing $37 million in crypto from 571 victims](https://digitpatrox.com/man-pleads-guilty-to-stealing-37-million-in-crypto-from-571-victims/)
     
     2 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [1 min ago
+* [10 mins ago
     
-    ### Best Space Heaters of 2024](https://digitpatrox.com/best-space-heaters-of-2024/)
-* [4 mins ago
+    ### These Are the Best Early Prime Day Sales on Vitamix Blenders](https://digitpatrox.com/these-are-the-best-early-prime-day-sales-on-vitamix-blenders/)
+* [42 mins ago
     
-    ### 8 Outlook Search Tips to Find Emails Instantly](https://digitpatrox.com/8-outlook-search-tips-to-find-emails-instantly/)
-* [1 hour ago
+    ### Best French-Door Refrigerators of 2024](https://digitpatrox.com/best-french-door-refrigerators-of-2024/)
+* [44 mins ago
     
-    ### Apple insider reveals when iOS 18.1 will bring Apple intelligence features to iPhones](https://digitpatrox.com/apple-insider-reveals-when-ios-18-1-will-bring-apple-intelligence-features-to-iphones/)
+    ### The 10 Greatest Nokia Symbian Phones in History](https://digitpatrox.com/the-10-greatest-nokia-symbian-phones-in-history/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [5 days ago
     
-    ### Which VPNs accept payment by gift card?](https://digitpatrox.com/which-vpns-accept-payment-by-gift-card-2/)
+    ### WhatsApp Adds Filters and Backgrounds to Spice up Your Video Calls!](https://digitpatrox.com/whatsapp-adds-filters-and-backgrounds-to-spice-up-your-video-calls/)
+* [August 28, 2024
+    
+    ### US Marshals Service disputes ransomware gang’s breach claims](https://digitpatrox.com/us-marshals-service-disputes-ransomware-gangs-breach-claims/)
 * [August 23, 2024
     
     ### Windows legacy Control Panel is finally being deprecated but won’t be removed anytime soon](https://digitpatrox.com/windows-legacy-control-panel-is-finally-being-deprecated-but-wont-be-removed-anytime-soon/)
-* [2 weeks ago
-    
-    ### iPhone 16 teardown shows off a new way to attach a phone battery](https://digitpatrox.com/iphone-16-teardown-shows-off-a-new-way-to-attach-a-phone-battery/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### Today’s Wordle Answer and Hints (October 7, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-7-2024/)
 * [5 hours ago
     
-    ### What’s New in iOS 18.0.1](https://digitpatrox.com/whats-new-in-ios-18-0-1/)
-* [5 hours ago
+    ### Four DIY Fixes for Slow Hot Water (and When to Call a Pro)](https://digitpatrox.com/four-diy-fixes-for-slow-hot-water-and-when-to-call-a-pro/)
+* [6 hours ago
     
-    ### Best Battery-Powered Snow Blowers of 2024](https://digitpatrox.com/best-battery-powered-snow-blowers-of-2024/)
-* [5 hours ago
-    
-    ### The Best Nintendo Switch Headsets of 2024](https://digitpatrox.com/the-best-nintendo-switch-headsets-of-2024/)
+    ### Best Space Heaters of 2024](https://digitpatrox.com/best-space-heaters-of-2024/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 28, 2024
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
