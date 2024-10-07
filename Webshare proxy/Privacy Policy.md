@@ -217,7 +217,7 @@ No credit card required.
 
 [Get 10 Free Proxies](https://proxy2.webshare.io/register)
 
-[Talk To Sales](#)[Log In](https://proxy2.webshare.io/login/?source=nav_login)[Sign Up](https://proxy2.webshare.io/register/?source=nav_register)
+[Talk To Sales](#)[Log In](https://dashboard.webshare.io/login/?source=nav_login)[Sign Up](https://dashboard.webshare.io/register/?source=nav_register)
 
 Privacy Policy
 --------------
