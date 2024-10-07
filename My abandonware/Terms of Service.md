@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Chack'n Pop](https://www.myabandonware.com/game/chack-n-pop-7y9)
+* [Centipede](https://www.myabandonware.com/game/centipede-4od)
 * [Downtown Challenge](https://www.myabandonware.com/game/downtown-challenge-s5q)
 * [Landing Gear](https://www.myabandonware.com/game/landing-gear-spp)
 * [L.A. Machineguns: Rage of the Machines](https://www.myabandonware.com/game/l-a-machineguns-rage-of-the-machines-spo)
-* [Knights of Valour: The Seven Spirits](https://www.myabandonware.com/game/knights-of-valour-the-seven-spirits-spn)
-* [Jurassic Park III](https://www.myabandonware.com/game/jurassic-park-iii-spm)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
