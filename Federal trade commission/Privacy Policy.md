@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Oct18
+    Oct08
     
-    ### [Second Federal Trade Commission Conference on Marketing and Public Policy](https://www.ftc.gov/news-events/events/2024/10/second-federal-trade-commission-conference-marketing-public-policy)
+    ### [Chair Lina M. Khan speaker at the AMVA Veterinary Business and Economic Forum](https://www.ftc.gov/news-events/events/2024/10/chair-lina-m-khan-speaker-amva-veterinary-business-economic-forum)
     
-    Friday, October 18, 2024 | 8:00AM - 6:00PM
+    Tuesday, October 8, 2024 | 1:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
