@@ -557,15 +557,15 @@ MENU MENU
     
     October 7, 2024
     
+    [U.S. Department of the Treasury Awards $10 Million to California to Help Small Businesses Grow and Hire](https://home.treasury.gov/news/press-releases/jy2634)
+    
+    October 7, 2024
+    
+    [U.S. Department of the Treasury Issues Proposed Guidance to Clarify Wholly-Owned Tribally Chartered Entities Are Not Subject to Income Tax and Expand Tribal Access to Clean Energy Tax Credits](https://home.treasury.gov/news/press-releases/jy2633)
+    
+    October 7, 2024
+    
     [Treasury Targets Significant International Hamas Fundraising Network](https://home.treasury.gov/news/press-releases/jy2632)
-    
-    October 3, 2024
-    
-    [U.S. Department of the Treasury, IRS Announce 30 Million Americans in 24 States Eligible For Direct File in Filing Season 2025](https://home.treasury.gov/news/press-releases/jy2629)
-    
-    October 2, 2024
-    
-    [U.S. Department of the Treasury Awards Over $9 Million to New York to Support Small Business Growth in Semiconductor and Microelectronic Industries](https://home.treasury.gov/news/press-releases/jy2628)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
