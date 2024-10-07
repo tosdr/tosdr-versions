@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66fab29e3c22d7d50b55e8bc_clearco-inaugural-ecommerce-awards.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6704332faf6fa7c47adcfe7c_top-10-spooky-ecommerce-challenges-october.jpg)
 
-###### Calling All Top Ecommerce Merchants and Stores: Apply for Clearco’s Inaugural Ecommerce Awards
+###### 10 Spooky Challenges Haunting Ecommerce Brands This October
 
-[Read now >](https://clear.co/blog/clearco-inaugural-ecommerce-awards)
+[Read now >](https://clear.co/blog/top-10-spooky-ecommerce-challenges-october)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
