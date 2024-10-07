@@ -18,7 +18,7 @@ everything PLAY Exclusives Games Gaming Peripherals Digital Toys Lifestyle Movie
 
 Help](https://www.play-asia.com/help/)
 
-[![](//s.pacn.ws/1/gallery/large/GA.07871.0186.svg?1708694989&v=PX-404)  
+[![](//s.pacn.ws/1/gallery/large/GA.07871.0186.svg?1708666189&v=PX-404)  
 EN | USD](#)
 
 ✖ theme
@@ -39,7 +39,7 @@ theme beta
 
 We accept
 
-![Payment Reach_hosted](https://s.pacn.ws/1/gallery/640/GA.03963.0184.png?1716211371&v=PX-404)  ![Payment Paypal](https://s.pacn.ws/1/gallery/640/GA.03963.0193.jpg?1727424039&v=PX-404)  ![Payment Worldpay](https://s.pacn.ws/1/gallery/640/GA.03963.0127.png?1716182638&v=PX-404)  ![Payment Bitcoin](https://s.pacn.ws/1/gallery/large/GA.03963.0189.svg?1716182570&v=PX-404)  ![Payment Binancepay](https://s.pacn.ws/1/gallery/640/GA.03963.0174.png?1716182582&v=PX-404)  ![Payment Bitpay](https://s.pacn.ws/1/gallery/640/GA.03963.0178.png?1716182579&v=PX-404)  ![Payment Worldpay2](https://s.pacn.ws/1/gallery/640/GA.03963.0126.png?1716182640&v=PX-404)  ![Payment Manual](https://s.pacn.ws/1/gallery/640/GA.03963.0190.jpg?1716226622&v=PX-404) 
+![Payment Reach_hosted](https://s.pacn.ws/1/gallery/640/GA.03963.0184.png?1716211371&v=PX-404)  ![Payment Paypal](https://s.pacn.ws/1/gallery/640/GA.03963.0193.jpg?1727452839&v=PX-404)  ![Payment Worldpay](https://s.pacn.ws/1/gallery/640/GA.03963.0127.png?1716211438&v=PX-404)  ![Payment Bitcoin](https://s.pacn.ws/1/gallery/large/GA.03963.0189.svg?1716211370&v=PX-404)  ![Payment Binancepay](https://s.pacn.ws/1/gallery/640/GA.03963.0174.png?1716211382&v=PX-404)  ![Payment Bitpay](https://s.pacn.ws/1/gallery/640/GA.03963.0178.png?1716211379&v=PX-404)  ![Payment Worldpay2](https://s.pacn.ws/1/gallery/640/GA.03963.0126.png?1716211440&v=PX-404)  ![Payment Manual](https://s.pacn.ws/1/gallery/640/GA.03963.0190.jpg?1716197822&v=PX-404) 
 
 |     |     |     |     |
 | --- | --- | --- | --- |
