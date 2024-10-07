@@ -134,21 +134,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/422148.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.")](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
 
+[Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/06/japan/politics/ldp-not-endorse-slush-fund-lawmakers/ "Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election")
+
+  [![Prime Minister Shigeru Ishiba speaks to reporters in Tokyo on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks to reporters in Tokyo on Saturday.")](https://www.japantimes.co.jp/news/2024/10/06/japan/politics/ldp-not-endorse-slush-fund-lawmakers/ "Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election")
+
+[Important tool or alarmism? Japan experts split on megaquake advisories.](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
+
+  [![A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day")](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
+
 [Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
   [![Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425964.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ")](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+[Ohtani magic powers Dodgers over Padres in MLB playoff thriller](https://www.japantimes.co.jp/sports/2024/10/06/baseball/mlb/ohtani-dodgers-game-1-win/ "Ohtani magic powers Dodgers over Padres in MLB playoff thriller")
 
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-[Japanese baseball fans flock to LA to see playoff-bound Ohtani](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
-
-  [![ A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426043.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 " A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles")](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
-
-[LDP to endorse 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
-
-  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426033.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
+  [![Dodgers designated hitter Shohei Ohtani celebrates after blasting a homer to right field in the second inning of Los Angeles' Game 1 victory over the Padres on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426191.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers designated hitter Shohei Ohtani celebrates after blasting a homer to right field in the second inning of Los Angeles' Game 1 victory over the Padres on Saturday.")](https://www.japantimes.co.jp/sports/2024/10/06/baseball/mlb/ohtani-dodgers-game-1-win/ "Ohtani magic powers Dodgers over Padres in MLB playoff thriller")
 
 Editors' Picks
 --------------
@@ -163,33 +163,33 @@ By [Justin Randall](https://www.japantimes.co.jp/author/4986/justin-randall/ "Ju
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/06/japan/politics/ldp-not-endorse-slush-fund-lawmakers/ "Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election")
+
+  [![Prime Minister Shigeru Ishiba speaks to reporters in Tokyo on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks to reporters in Tokyo on Saturday.")](https://www.japantimes.co.jp/news/2024/10/06/japan/politics/ldp-not-endorse-slush-fund-lawmakers/ "Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election")
+
+[ENVIRONMENT](https://www.japantimes.co.jp/environment/ "ENVIRONMENT")
+
+[Important tool or alarmism? Japan experts split on megaquake advisories.](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day")](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Tokyo passes nation's first customer harassment ordinance](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
   [![Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425964.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Tokyo Gov. Yuriko Koike speaks to a reporter on Sept. 27. Aggressive acts toward front-line workers, dubbed "customer harassment," have become a growing problem. ")](https://www.japantimes.co.jp/news/2024/10/04/japan/crime-legal/customer-harassment-ordinance/ "Tokyo passes nation's first customer harassment ordinance")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
-
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
 [BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
 
-[Japanese baseball fans flock to LA to see playoff-bound Ohtani](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
+[Ohtani magic powers Dodgers over Padres in MLB playoff thriller](https://www.japantimes.co.jp/sports/2024/10/06/baseball/mlb/ohtani-dodgers-game-1-win/ "Ohtani magic powers Dodgers over Padres in MLB playoff thriller")
 
-By [Rory Carroll](https://www.japantimes.co.jp/author/1769/rory-carroll/ "Rory Carroll")  
+By [Rob Woollard](https://www.japantimes.co.jp/author/4084/rob-woollard/ "Rob Woollard")  
 
-  [![ A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426043.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 " A giant mural of Shohei Ohtani on the side of a hotel in Little Tokyo in Los Angeles")](https://www.japantimes.co.jp/sports/2024/10/05/baseball/mlb/japan-fans-ohtani/ "Japanese baseball fans flock to LA to see playoff-bound Ohtani")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[LDP to endorse 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
-
-  [![Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/05/426033.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba delivers his inaugural policy address to parliament in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/10/05/japan/politics/ldp-slush-fund-members-election-endorse/ "LDP to endorse 'slush fund' lawmakers in general election")
+  [![Dodgers designated hitter Shohei Ohtani celebrates after blasting a homer to right field in the second inning of Los Angeles' Game 1 victory over the Padres on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426191.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers designated hitter Shohei Ohtani celebrates after blasting a homer to right field in the second inning of Los Angeles' Game 1 victory over the Padres on Saturday.")](https://www.japantimes.co.jp/sports/2024/10/06/baseball/mlb/ohtani-dodgers-game-1-win/ "Ohtani magic powers Dodgers over Padres in MLB playoff thriller")
 
 Podcast
 -------
@@ -252,23 +252,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Vietnam's young coffee entrepreneurs brew up a revolution](https://www.japantimes.co.jp/business/2024/10/07/vietnam-young-coffee-entrepreneurs/ "Vietnam's young coffee entrepreneurs brew up a revolution")
+[U.S. pair wins Nobel in medicine for discovery of microRNA](https://www.japantimes.co.jp/news/2024/10/07/world/science-health/nobel-prize-medicine-2024/ "U.S. pair wins Nobel in medicine for discovery of microRNA")
 
-23 mins ago
+17 mins ago
 
-[Asia rises as study destination for Japanese students and teachers](https://www.japantimes.co.jp/news/2024/10/07/japan/society/study-abroad-philippines/ "Asia rises as study destination for Japanese students and teachers")
+[Ishiba fends off questions on endorsement of scandal-tainted LDP members](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/ishiba-parliament-questions/ "Ishiba fends off questions on endorsement of scandal-tainted LDP members")
 
-23 mins ago
+44 mins ago
 
-[After a year of war, Israel's borrowing costs reflect burden of conflict](https://www.japantimes.co.jp/business/2024/10/07/markets/war-israel-borrowing-strength/ "After a year of war, Israel's borrowing costs reflect burden of conflict")
+[Japan's new finance minister vows to finish the job as deflation czar](https://www.japantimes.co.jp/business/2024/10/07/economy/new-finance-minister-kato/ "Japan's new finance minister vows to finish the job as deflation czar")
 
-37 mins ago
+55 mins ago
 
-[China stock skepticism gets louder as world-beating run extends](https://www.japantimes.co.jp/business/2024/10/07/markets/china-stock-skepticism/ "China stock skepticism gets louder as world-beating run extends")
+[New Cabinet photo on government website had minor edits, Hayashi admits](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
 
-56 mins ago
+55 mins ago
 
-[Chinese Embassy says citizens killed in Pakistan 'terrorist attack'](https://www.japantimes.co.jp/news/2024/10/07/asia-pacific/chinese-embassy-terrorist-attack-pakistan/ "Chinese Embassy says citizens killed in Pakistan 'terrorist attack'")
+[Hezbollah strikes Israel on Gaza anniversary as fears of wider war grow](https://www.japantimes.co.jp/news/2024/10/07/world/hezbollah-israel-gaza-war-anniversary/ "Hezbollah strikes Israel on Gaza anniversary as fears of wider war grow")
 
 1 hours ago
 
