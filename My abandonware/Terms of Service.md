@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Cloud Master](https://www.myabandonware.com/game/cloud-master-aqa)
-* [Circus Charlie](https://www.myabandonware.com/game/circus-charlie-4pb)
-* [Choplifter!](https://www.myabandonware.com/game/choplifter-4fy)
-* [Chinese Hero](https://www.myabandonware.com/game/chinese-hero-9ta)
-* [Chiller](https://www.myabandonware.com/game/chiller-9t9)
+* [Manic Panic Ghosts](https://www.myabandonware.com/game/manic-panic-ghosts-spf)
+* [Mamoru-kun wa Norowarete Shimatta!](https://www.myabandonware.com/game/mamoru-kun-wa-norowarete-shimatta-spe)
+* [Magical Truck Adventure](https://www.myabandonware.com/game/magical-truck-adventure-spb)
+* [Magical Tetris Challenge](https://www.myabandonware.com/game/magical-tetris-challenge-spa)
+* [Magical Speed](https://www.myabandonware.com/game/magical-speed-sp9)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Larkspur Waldorf is Trapped!](https://www.myabandonware.com/game/larkspur-waldorf-is-trapped-omm)
-* [Classix 1](https://www.myabandonware.com/game/classix-1-kma)
-* [Rocky Mountain Trophy Hunter 3: Trophies of the West](https://www.myabandonware.com/game/rocky-mountain-trophy-hunter-3-trophies-of-the-west-bvz)
+* [Avery Cardoza's 500 Slots & Video Poker](https://www.myabandonware.com/game/avery-cardoza-s-500-slots-video-poker-f1g)
+* [Sonic & Garfield Pack](https://www.myabandonware.com/game/sonic-garfield-pack-eyf)
+* [Interstellar Flames .2](https://www.myabandonware.com/game/interstellar-flames-2-mtt)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
