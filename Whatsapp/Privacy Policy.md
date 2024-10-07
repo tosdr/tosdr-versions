@@ -18,7 +18,7 @@
 
 [Terms & Privacy Policy](https://www.whatsapp.com/legal/)2024 © WhatsApp LLC
 
-Englishالعربيةঅসমীয়াবাংলাDeutschEspañolFrançaisગુજરાતીעבריתहिन्दीBahasa IndonesiaItaliano日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو简体中文繁體中文（香港）Englishالعربيةঅসমীয়াবাংলাDeutschespañolfrançaisગુજરાતીעבריתहिन्दीBahasa Indonesiaitaliano日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو简体中文繁體中文（香港）
+Englishالعربيةঅসমীয়াবাংলাEspañolFrançaisગુજરાતીעבריתहिन्दीBahasa Indonesia日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو繁體中文（香港）Englishالعربيةঅসমীয়াবাংলাespañolfrançaisગુજરાતીעבריתहिन्दीBahasa Indonesia日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو繁體中文（香港）
 
 [![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/v3/yq/r/mdQNdcFMi0p.png)](https://www.whatsapp.com/)[![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg)](https://www.whatsapp.com/)
 
@@ -266,4 +266,4 @@ Need help?[Contact Us](https://www.whatsapp.com/contact)[Help Center](https://fa
 
 [](https://twitter.com/whatsapp)[](https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw)[](https://www.instagram.com/whatsapp/?hl=en)[](https://www.facebook.com/profile.php?id=100064758844406)
 
-Englishالعربيةঅসমীয়াবাংলাDeutschEspañolFrançaisગુજરાતીעבריתहिन्दीBahasa IndonesiaItaliano日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو简体中文繁體中文（香港）Englishالعربيةঅসমীয়াবাংলাDeutschespañolfrançaisગુજરાતીעבריתहिन्दीBahasa Indonesiaitaliano日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو简体中文繁體中文（香港）
+Englishالعربيةঅসমীয়াবাংলাEspañolFrançaisગુજરાતીעבריתहिन्दीBahasa Indonesia日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو繁體中文（香港）Englishالعربيةঅসমীয়াবাংলাespañolfrançaisગુજરાતીעבריתहिन्दीBahasa Indonesia日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو繁體中文（香港）
