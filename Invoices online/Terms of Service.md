@@ -197,57 +197,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Jannie Schutte - myFinance-Online.co.za
+Kobus Venter
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=161742698)  
-Cooper Power South Africa (Pty) LTD
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=200565247)  
+Brilliant Roof Products
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=44674709)  
-AquariumSmiths
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=91466982)  
+M's Frozen Delights
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=50415602)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=198524319)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=5752748)  
-Nogana Events and Decor
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=60302933)  
+kidoscabbie
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=106714540)  
-UMVIKELI PRIVATE SECURITY
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=27531647)  
+Import Maaw
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=117312792)  
-van Schaik rentals
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=163714216)  
+#DiGi3 Marketing & Design
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=142129177)  
-Konsortium Operations ( Roamfree Meats )
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=134857051)  
+Fox Alarms & Security
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=69660900)  
-Iurus Inc
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=36751482)  
+Lion Software Develepment
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=67622447)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=213717171)  
+FX ACCOUNTING
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=145484508)  
-SMART GUY PCS (PTY) LTD
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=172642078)  
+TRACKFORCE (Pty) Ltd
 
-![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=161267158)  
-PHESA TECHNOLOGY(PTY) LTD
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=100153676)  
+Wiselink Broadband Dundee
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=136029044)  
-Moremi Kitchens Rustenburg
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=133863371)  
+Vplay Grafix
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=7567347)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=82144021)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=53761661)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=29169046)  
+National Elite Security Services (PTY) LTD
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=2ab37d5126940519b0c4ab1fa0d34065e7455547bd540ecb756257565c7b50a2&c=186818489)  
-Glass and Allied Industries
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=160426191)  
+LEO DEVELOPMENT GROUP
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
