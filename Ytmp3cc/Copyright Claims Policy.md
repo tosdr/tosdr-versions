@@ -2,8 +2,8 @@
 
 [Home](https://ytmp3.cc/en-DrWL/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)
 
-Copyright Claims
-================
+YTMP3: Copyright Claims
+=======================
 
 * We respect the intellectual property rights of others. You may not infringe the copyright, trademark or other proprietary informational rights of any party. We may in our sole discretion remove any Content we have reason to believe violates any of the intellectual property rights of others and may terminate your use of the Website if you submit any such Content.
 * REPEAT INFRINGER POLICY. AS PART OF OUR REPEAT-INFRINGEMENT POLICY, ANY USER FOR WHOSE MATERIAL WE RECEIVE THREE GOOD-FAITH AND EFFECTIVE COMPLAINTS WITHIN ANY CONTIGUOUS SIX-MONTH PERIOD WILL HAVE HIS GRANT OF USE OF THE WEBSITE TERMINATED.
