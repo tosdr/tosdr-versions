@@ -144,6 +144,20 @@ out of 5 based on
 
 > Oct 4, 2024
 
+> Sara at safari.com
+
+> Sara very prompt, courteous, and knowledgeable about her product. Always a pleasure dealing with her on my numerous emails!
+
+Customer Brenda, Travel Leaders
+
+,
+
+us
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 4, 2024
+
 > Excellent service from Tanya!
 
 > Excellent service from Tanya!! She was very patient and remained friendly through all my problems/changes. I will definitely come back to her for my next bookings.
@@ -151,6 +165,8 @@ out of 5 based on
 Nico Weitsz
 
 ,
+
+za
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -164,6 +180,8 @@ Mouse
 
 ,
 
+au
+
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Oct 3, 2024
@@ -175,6 +193,8 @@ Mouse
 Yaso Nadesakumaran
 
 ,
+
+us
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -243,20 +263,6 @@ M. Stahl
 ,
 
 DE
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 1, 2024
-
-> Easy booking process and efficient
-
-> Easy booking process and efficient
-
-Colin
-
-,
-
-MG
 
 VIP service
 
