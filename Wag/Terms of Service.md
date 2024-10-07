@@ -297,7 +297,7 @@ Terms[](#)
 
 [Pet Parent Message Service Terms and Conditions](https://safety.wagwalking.com/terms-pet-parent-mobile)
 
-[Sweepstakes Official Rules](https://safety.wagwalking.com/sweepstakes)
+[Gift Cards](https://safety.wagwalking.com/terms-gift-card)
 
 [Privacy](https://safety.wagwalking.com/privacy)[](#)
 
