@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_8.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Салат с нежным сыром буррата и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174416)
-* [Томатная самса с фаршем и овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174281)
-* [Хлеб домашний](https://www.russianfood.com/recipes/recipe.php?rid=24081)
 * [Хлеб домашний](https://www.russianfood.com/recipes/recipe.php?rid=36375)
-* [Ржаные сдобные лепешечки с тмином](https://www.russianfood.com/recipes/recipe.php?rid=53924)
-* [Яблоки и патиссоны](https://www.russianfood.com/recipes/recipe.php?rid=79629)
-* [Кисель по-белорусски](https://www.russianfood.com/recipes/recipe.php?rid=81903)
-* [Клецки яичные с зеленым луком](https://www.russianfood.com/recipes/recipe.php?rid=82220)
-* [Ржаные лепешки](https://www.russianfood.com/recipes/recipe.php?rid=84565)
-* [Ржаные лепешечки с миндалем](https://www.russianfood.com/recipes/recipe.php?rid=84652)
+* [Копчёная свинина способ 16](https://www.russianfood.com/recipes/recipe.php?rid=85361)
+* [Капуста квашеная](https://www.russianfood.com/recipes/recipe.php?rid=87459)
+* [Пасхальный барашек](https://www.russianfood.com/recipes/recipe.php?rid=98912)
+* [Пасхальные кролики](https://www.russianfood.com/recipes/recipe.php?rid=98915)
+* [Хлебная закваска](https://www.russianfood.com/recipes/recipe.php?rid=100343)
+* [Ржаной хлеб в капустном листе](https://www.russianfood.com/recipes/recipe.php?rid=100354)
+* [Деревенский каравай](https://www.russianfood.com/recipes/recipe.php?rid=100371)
+* [Квас " Мятный "](https://www.russianfood.com/recipes/recipe.php?rid=101125)
+* [Квас белый](https://www.russianfood.com/recipes/recipe.php?rid=101209)
 
 |     |
 | --- |
@@ -179,6 +179,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[И быстро, и очень аппетитно! Лучшие рецепты БЫСТРЕЕ! №24-41](https://www.russianfood.com/reading/?post_id=22696) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/711/sm_710894.jpg)](https://www.russianfood.com/reading/?post_id=22696)
+
+Гречка с тефтелями в соусе. Салат с тунцом, фасолью и помидорами. Слоёные палочки с корицей. Омлет с творогом и помидорами. Брокколи с беконом и фасолью.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22696)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22696#comments) | 07.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Вкусно – это вот так! Лучшие САЛАТЫ №24-41](https://www.russianfood.com/reading/?post_id=22695) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/736/sm_735214.jpg)](https://www.russianfood.com/reading/?post_id=22695)
+
+Салат с копченой курицей, фасолью, морковью и сухариками. Салат с авокадо и нутом. Винегрет с тыквой. Салат с курицей и кабачками. Салат с чечевицей. Слоёный салат с тунцом. Салат с куриной печенью, картофелем и грибами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22695)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22695#comments) | 07.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -234,7 +262,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22689#comments) | 05.10.24 |     |
+|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22689#comments) | 05.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -362,34 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22679#comments) | 03.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Куриный суп с брокколи, вермишелью и яичной паутинкой](https://www.russianfood.com/recipes/recipe.php?rid=173226) |     |
-
-[![Фото к рецепту: Куриный суп с брокколи, вермишелью и яичной паутинкой](//img1.russianfood.com/dycontent/images_upl/735/sm_734627.jpg "Фото к рецепту: Куриный суп с брокколи, вермишелью и яичной паутинкой")](https://www.russianfood.com/recipes/recipe.php?rid=173226)
-
-Бульон варится из кусочков филе куриного бедра. Овощи в супе – лук, морковь и капуста брокколи, без картофеля. В конце приготовления в суп вливаются слегка взбитые яйца – яичная паутинка делает суп с вермишелью интереснее.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173226)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173226#comments) | 03.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Суп c пекинской капустой, горошком и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174341) |     |
-
-[![Фото к рецепту: Суп c пекинской капустой, горошком и беконом](//img1.russianfood.com/dycontent/images_upl/742/sm_741454.jpg "Фото к рецепту: Суп c пекинской капустой, горошком и беконом")](https://www.russianfood.com/recipes/recipe.php?rid=174341)
-
-Сперва кусочки бекона обжариваются с луком-пореем и чесноком, что придаёт супу аппетитный аромат. Пекинская капуста нежная, варится быстро. Яркий зелёный горошек хорошо дополняет и вид, и вкус супа.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174341)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174341#comments) | 03.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(86)
+(112)
