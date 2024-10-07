@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump Rally at Shooting Site Honored Victim, ‘Transcended Politics’: Attendees](https://www.theepochtimes.com/us/trump-rally-at-shooting-site-honored-victim-transcended-politics-attendees-5736258)
+    
+    2hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Trump Rally at Shooting Site Honored Victim, ‘Transcended Politics’: Attendees](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Rally at Shooting Site Honored Victim, ‘Transcended Politics’: Attendees](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736279-DSC07999-butler-trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-rally-at-shooting-site-honored-victim-transcended-politics-attendees-5736258)
+* [Four Top 11-Ranked Teams Tumbled With Alabama on ‘Upset Saturday’](https://www.theepochtimes.com/sports/four-top-11-ranked-teams-tumbled-with-alabama-on-upset-saturday-5736307)
+    
+    4hr By [Matthew Davis](https://www.theepochtimes.com/author/matthew-davis)
+    
+    [![Four Top 11-Ranked Teams Tumbled With Alabama on ‘Upset Saturday’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Four Top 11-Ranked Teams Tumbled With Alabama on ‘Upset Saturday’](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736308-GettyImages-2176100622-205x123.jpg.webp)](https://www.theepochtimes.com/sports/four-top-11-ranked-teams-tumbled-with-alabama-on-upset-saturday-5736307)
+* [Northern India’s Ancient Trade Routes Show Promise for Economic Resurgence](https://www.theepochtimes.com/world/northern-indias-ancient-trade-routes-show-promise-for-economic-resurgence-5728969)
+    
+    4hr By [Venus Upadhayaya](https://www.theepochtimes.com/author/venus-upadhayaya), Epoch Times
+    
+    [![Northern India’s Ancient Trade Routes Show Promise for Economic Resurgence](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Northern India’s Ancient Trade Routes Show Promise for Economic Resurgence](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732104-Panyalak-205x123.jpg.webp)](https://www.theepochtimes.com/world/northern-indias-ancient-trade-routes-show-promise-for-economic-resurgence-5728969)
+* [US Hospitals Face IV Fluid Shortages After Closure of Factory Damaged by Helene](https://www.theepochtimes.com/us/us-hospitals-face-iv-fluid-shortages-after-closure-of-factory-damaged-by-helene-5736346)
+    
+    5hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![US Hospitals Face IV Fluid Shortages After Closure of Factory Damaged by Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Hospitals Face IV Fluid Shortages After Closure of Factory Damaged by Helene](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736497-ivfluidKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-hospitals-face-iv-fluid-shortages-after-closure-of-factory-damaged-by-helene-5736346)
 * [Study Finds Dental Health Benefits of Fluoride in Drinking Water May Have Declined](https://www.theepochtimes.com/health/study-finds-dental-health-benefits-of-fluoride-in-drinking-water-may-have-declined-5736084)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Study Finds Dental Health Benefits of Fluoride in Drinking Water May Have Declined](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Study Finds Dental Health Benefits of Fluoride in Drinking Water May Have Declined](https://img.theepochtimes.com/assets/uploads/2024/07/08/id5682044-California-Water-Tap-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/study-finds-dental-health-benefits-of-fluoride-in-drinking-water-may-have-declined-5736084)
 * [Gallstones: Most Often 'Silent,' but Watch for 5 Signs](https://www.theepochtimes.com/health/gallstones-symptoms-causes-treatments-and-natural-approaches-5733284)
     
-    2hr By [Terri Ward](https://www.theepochtimes.com/author/terri-ward)
+    8hr By [Terri Ward](https://www.theepochtimes.com/author/terri-ward)
     
     [![Gallstones: Most Often 'Silent,' but Watch for 5 Signs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Gallstones: Most Often 'Silent,' but Watch for 5 Signs](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735562-gallstone_feature-205x123.jpg.webp)](https://www.theepochtimes.com/health/gallstones-symptoms-causes-treatments-and-natural-approaches-5733284)
 * [FEMA Director Rejects Claims About Response to Helene: ‘Not Helpful’](https://www.theepochtimes.com/us/fema-director-rejects-claims-about-response-to-helene-not-helpful-5736351)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![FEMA Director Rejects Claims About Response to Helene: ‘Not Helpful’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![FEMA Director Rejects Claims About Response to Helene: ‘Not Helpful’](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736456-Helene-Damage-NC-3_JF_10052024-LS-205x123.webp)](https://www.theepochtimes.com/us/fema-director-rejects-claims-about-response-to-helene-not-helpful-5736351)
 * [Uphill Legal Battle for Those Censored on Social Media](https://www.theepochtimes.com/us/uphill-legal-battle-for-those-censored-on-social-media-5730013)
     
-    3hr By [Katie Spence](https://www.theepochtimes.com/author/katie-spence)
+    9hr By [Katie Spence](https://www.theepochtimes.com/author/katie-spence)
     
     [![Uphill Legal Battle for Those Censored on Social Media](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Uphill Legal Battle for Those Censored on Social Media](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736376-Supreme-Court-GettyImages-2087317637KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/uphill-legal-battle-for-those-censored-on-social-media-5730013)
 * [‘It’s Our Hurricane Katrina’: Asheville Residents Describe Death, Destruction, Danger After Hurricane Helene](https://www.theepochtimes.com/article/its-our-hurricane-katrina-asheville-residents-describe-death-destruction-danger-after-hurricane-helene-5735900)
     
-    4hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    10hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
     [![‘It’s Our Hurricane Katrina’: Asheville Residents Describe Death, Destruction, Danger After Hurricane Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![‘It’s Our Hurricane Katrina’: Asheville Residents Describe Death, Destruction, Danger After Hurricane Helene](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736337-3000-tunnel8-studio-205x123.jpg.webp)](https://www.theepochtimes.com/article/its-our-hurricane-katrina-asheville-residents-describe-death-destruction-danger-after-hurricane-helene-5735900)
 * [After Ending Presidential Bid, RFK Jr. Focused on America’s Chronic Disease Problem](https://www.theepochtimes.com/us/after-ending-presidential-bid-rfk-jr-focused-on-americas-chronic-disease-problems-5735413)
     
-    4hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    10hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
     
     [![After Ending Presidential Bid, RFK Jr. Focused on America’s Chronic Disease Problem](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![After Ending Presidential Bid, RFK Jr. Focused on America’s Chronic Disease Problem](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736457-EpochImages-9874500900-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/after-ending-presidential-bid-rfk-jr-focused-on-americas-chronic-disease-problems-5735413)
-* [Everything We Know About Milton: Major Hurricane Forecast to Hit Florida This Week](https://www.theepochtimes.com/us/everything-we-know-about-milton-major-hurricane-forecast-to-hit-florida-this-week-5736305)
-    
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Everything We Know About Milton: Major Hurricane Forecast to Hit Florida This Week](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Everything We Know About Milton: Major Hurricane Forecast to Hit Florida This Week](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736312-19191919191202020-205x123.jpg.webp)](https://www.theepochtimes.com/us/everything-we-know-about-milton-major-hurricane-forecast-to-hit-florida-this-week-5736305)
-* [Milton Strengthens to Hurricane as DeSantis Preps Gulf Coast for Category 3 Storm](https://www.theepochtimes.com/us/all-hands-on-deck-desantis-preps-gulf-coast-for-category-3-hurricane-5736267)
-    
-    5hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Milton Strengthens to Hurricane as DeSantis Preps Gulf Coast for Category 3 Storm](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Milton Strengthens to Hurricane as DeSantis Preps Gulf Coast for Category 3 Storm](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736306-tsmilton3-205x123.jpeg.webp)](https://www.theepochtimes.com/us/all-hands-on-deck-desantis-preps-gulf-coast-for-category-3-hurricane-5736267)
-* [US Passport Processing Times Reduced by 2 Weeks: State Department](https://www.theepochtimes.com/us/us-passport-processing-times-reduced-by-2-weeks-state-department-5736240)
-    
-    6hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![US Passport Processing Times Reduced by 2 Weeks: State Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Passport Processing Times Reduced by 2 Weeks: State Department](https://img.theepochtimes.com/assets/uploads/2024/06/19/id5671603-passport.jpg-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-passport-processing-times-reduced-by-2-weeks-state-department-5736240)
-* [California Faces Wave of Lawsuits Over Gender Identity Notification in Schools](https://www.theepochtimes.com/article/california-faces-wave-of-lawsuits-over-gender-identity-notification-in-schools-5732366)
-    
-    7hr By [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
-    
-    [![California Faces Wave of Lawsuits Over Gender Identity Notification in Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![California Faces Wave of Lawsuits Over Gender Identity Notification in Schools](https://img.theepochtimes.com/assets/uploads/2024/10/05/id5736163-Gender-California-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/california-faces-wave-of-lawsuits-over-gender-identity-notification-in-schools-5732366)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
