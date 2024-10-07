@@ -259,6 +259,13 @@ Advertise with Us
 
 Most Popular
 
+[![PICTURES: All smiles at Appreciation Night for Peter 'Duck' McDonald](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles at Appreciation Night for Peter 'Duck' McDonald")](https://www.derrynow.com/news/pictures---videos/1623845/pictures-appreciation-night-held-for-well-known-derry-community-worker-peter-duck-mcdonald.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Appreciation Night held for well-known Derry community worker Peter ‘Duck’ McDonald](https://www.derrynow.com/news/pictures---videos/1623845/pictures-appreciation-night-held-for-well-known-derry-community-worker-peter-duck-mcdonald.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -273,12 +280,12 @@ Most Popular
 [A5 road closure: Murder investigation launched following death of man in Strabane](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![A5 Road between Ballymagorry and Strabane remains closed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A5 Road between Ballymagorry and Strabane remains closed")](https://www.derrynow.com/news/local-news/1623582/a5-road-between-ballymagorry-and-strabane-remains-closed.html)
+[![PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal")](https://www.derrynow.com/news/pictures---videos/1623812/pictures-all-smiles-as-st-joseph-s-boys-school-celebrate-annual-formal.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[A5 Road between Ballymagorry and Strabane remains closed](https://www.derrynow.com/news/local-news/1623582/a5-road-between-ballymagorry-and-strabane-remains-closed.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal](https://www.derrynow.com/news/pictures---videos/1623812/pictures-all-smiles-as-st-joseph-s-boys-school-celebrate-annual-formal.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![High levels of air pollution found at three Derry locations in a new report](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "High levels of air pollution found at three Derry locations in a new report")](https://www.derrynow.com/news/derry-news/1623521/high-levels-of-air-pollution-found-at-three-derry-locations-in-a-new-report.html)
 
@@ -287,37 +294,26 @@ Most Popular
 [High levels of air pollution found at three Derry locations in a new report](https://www.derrynow.com/news/derry-news/1623521/high-levels-of-air-pollution-found-at-three-derry-locations-in-a-new-report.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Glen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glen")](https://www.derrynow.com/news/derry-sport/1623137/stoppage-time-point-edges-champions-glen-into-the-last-four.html)
-
-Glen's Ethan Doherty celebrates his goal against Lavey Derry Senior Football Championship quarter final at Owenbeg. (Photo - Tom Heaney, nwpresspics)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Stoppage time point edges champions Glen into the last four](https://www.derrynow.com/news/derry-sport/1623137/stoppage-time-point-edges-champions-glen-into-the-last-four.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Leading Derry republican facing two charges linked to dissident republican parade returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Leading Derry republican facing two charges linked to dissident republican parade returned for trial")](https://www.derrynow.com/news/local-news/1623610/leading-derry-republican-facing-two-charges-linked-to-dissident-republican-parade-returned-for-trial.html)
+[![Woman jailed for her part in an incident were a dog killed another dog has sentence reduced](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman jailed for her part in an incident were a dog killed another dog has sentence reduced")](https://www.derrynow.com/news/local-news/1623775/woman-jailed-for-her-part-in-an-incident-were-a-dog-killed-another-dog-has-sentence-reduced.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Leading Derry republican facing two charges linked to dissident republican parade returned for trial](https://www.derrynow.com/news/local-news/1623610/leading-derry-republican-facing-two-charges-linked-to-dissident-republican-parade-returned-for-trial.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Woman jailed for her part in an incident were a dog killed another dog has sentence reduced](https://www.derrynow.com/news/local-news/1623775/woman-jailed-for-her-part-in-an-incident-were-a-dog-killed-another-dog-has-sentence-reduced.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man charged with number of domestic offences appears at Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged with number of domestic offences appears at Derry court")](https://www.derrynow.com/news/local-news/1623664/man-charged-with-number-of-domestic-offences-appears-at-derry-court.html)
-
-Derry Magistrate's Court
+[![Derry man facing series of drugs charges returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man facing series of drugs charges returned for trial")](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man charged with number of domestic offences appears at Derry court](https://www.derrynow.com/news/local-news/1623664/man-charged-with-number-of-domestic-offences-appears-at-derry-court.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man facing series of drugs charges returned for trial](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man who man sexually assaulted a female in Altnagelvin Hospital to be sentenced in December](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who man sexually assaulted a female in Altnagelvin Hospital to be sentenced in December")](https://www.derrynow.com/news/local-news/1623722/derry-man-who-sexually-assaulted-a-female-in-altnagelvin-hospital-to-be-sentenced-in-december.html)
+[![A5 Road between Ballymagorry and Strabane remains closed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A5 Road between Ballymagorry and Strabane remains closed")](https://www.derrynow.com/news/local-news/1623582/a5-road-between-ballymagorry-and-strabane-remains-closed.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man who sexually assaulted a female in Altnagelvin Hospital to be sentenced in December](https://www.derrynow.com/news/local-news/1623722/derry-man-who-sexually-assaulted-a-female-in-altnagelvin-hospital-to-be-sentenced-in-december.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[A5 Road between Ballymagorry and Strabane remains closed](https://www.derrynow.com/news/local-news/1623582/a5-road-between-ballymagorry-and-strabane-remains-closed.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner")](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
 
@@ -326,20 +322,46 @@ Derry Magistrate's Court
 [IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Banagher](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Banagher")](https://www.derrynow.com/news/derry-sport/1623140/banagher-hold-off-eoghan-rua-fightback-to-make-intermediate-championship-semi-finals.html)
+[![Derry man charged with possessing a AKM rifle granted bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing a AKM rifle granted bail")](https://www.derrynow.com/news/local-news/1623705/derry-man-charged-with-possessing-a-akm-rifle-granted-bail.html)
 
-Eoghan Rua’s Ciaran McGoldrick and Banagher’s Tiernan Moore. Photo: George Sweeney, nwpresspics
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Banagher hold off Eoghan Rua fightback to make Intermediate Championship semi-finals](https://www.derrynow.com/news/derry-sport/1623140/banagher-hold-off-eoghan-rua-fightback-to-make-intermediate-championship-semi-finals.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man charged with possessing a AKM rifle granted bail](https://www.derrynow.com/news/local-news/1623705/derry-man-charged-with-possessing-a-akm-rifle-granted-bail.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Official launch of Derry Youth and Community Workshop Youth (SKY) Project](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Official launch of Derry Youth and Community Workshop Youth (SKY) Project")](https://www.derrynow.com/story-telling/pictures---videos/1624100/in-pictures-official-launch-of-derry-youth-and-community-workshop-youth-sky-project.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Official launch of Derry Youth and Community Workshop Youth (SKY) Project](https://www.derrynow.com/story-telling/pictures---videos/1624100/in-pictures-official-launch-of-derry-youth-and-community-workshop-youth-sky-project.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Local students stunned by sea life at Derry's 'Marine Machine'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Local students stunned by sea life at Derry's 'Marine Machine'")](https://www.derrynow.com/news/pictures---videos/1624061/pictures-local-students-stunned-by-sea-life-at-derry-s-marine-machine.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Local students stunned by sea life at Derry's 'Marine Machine'](https://www.derrynow.com/news/pictures---videos/1624061/pictures-local-students-stunned-by-sea-life-at-derry-s-marine-machine.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: All smiles at Appreciation Night for Peter 'Duck' McDonald](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles at Appreciation Night for Peter 'Duck' McDonald")](https://www.derrynow.com/news/pictures---videos/1623845/pictures-appreciation-night-held-for-well-known-derry-community-worker-peter-duck-mcdonald.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Appreciation Night held for well-known Derry community worker Peter ‘Duck’ McDonald](https://www.derrynow.com/news/pictures---videos/1623845/pictures-appreciation-night-held-for-well-known-derry-community-worker-peter-duck-mcdonald.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES:](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES:")](https://www.derrynow.com/news/derry-sport/1623863/pictures-boxing-stars-of-the-future-compete-in-oakleaf-boxing-club-junior-tournament.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[PICTURES: Boxing stars of the future compete in Oakleaf Boxing Club Junior Tournament](https://www.derrynow.com/news/derry-sport/1623863/pictures-boxing-stars-of-the-future-compete-in-oakleaf-boxing-club-junior-tournament.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal")](https://www.derrynow.com/news/pictures---videos/1623812/pictures-all-smiles-as-st-joseph-s-boys-school-celebrate-annual-formal.html)
 
@@ -384,34 +406,6 @@ Derry City fans celebrate at Dalymount Park. Pics by Stephen McCarthy/ Sportsfil
 
 [PICTURES: Stylish family Derry home hits the market](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Thursday: Out and about pubs and clubs in Derry (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Out and about pubs and clubs in Derry (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1620139/throwback-thursday-out-and-about-pubs-and-clubs-in-derry-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Out and about pubs and clubs in Derry (2009)](https://www.derrynow.com/story-telling/pictures---videos/1620139/throwback-thursday-out-and-about-pubs-and-clubs-in-derry-2009.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Spacious Derry four-bed hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Spacious Derry four-bed hits the market")](https://www.derrynow.com/news/property/1620147/pictures-spacious-derry-four-bed-hits-the-market.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PICTURES: Spacious Derry four-bed hits the market](https://www.derrynow.com/news/property/1620147/pictures-spacious-derry-four-bed-hits-the-market.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: The University Roadshow comes to County Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: The University Roadshow comes to County Derry")](https://www.derrynow.com/story-telling/local-news/1619167/in-pictures-the-university-roadshow-comes-to-county-derry.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[IN PICTURES: The University Roadshow comes to County Derry](https://www.derrynow.com/story-telling/local-news/1619167/in-pictures-the-university-roadshow-comes-to-county-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: St. Joseph’s awarded ‘Enterprising School 2023-24’ Award!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Joseph’s awarded ‘Enterprising School 2023-24’ Award!")](https://www.derrynow.com/story-telling/pictures---videos/1618959/in-pictures-st-josephs-awarded-enterprising-school-2023-24-award.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: St. Joseph’s awarded ‘Enterprising School 2023-24’ Award!](https://www.derrynow.com/story-telling/pictures---videos/1618959/in-pictures-st-josephs-awarded-enterprising-school-2023-24-award.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,47 +507,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry man charged with possessing a AKM rifle granted bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing a AKM rifle granted bail")](https://www.derrynow.com/news/local-news/1623705/derry-man-charged-with-possessing-a-akm-rifle-granted-bail.html)
+[![Oktoberfest Pennyburn launches this Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Oktoberfest Pennyburn launches this Friday")](https://www.derrynow.com/news/local-news/1623618/oktoberfest-pennyburn-launches-this-friday.html)
+
+Paddy 'the Dagger' Mc Donnell will perform his standup at our comedy lab on October 19
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man charged with possessing a AKM rifle granted bail](https://www.derrynow.com/news/local-news/1623705/derry-man-charged-with-possessing-a-akm-rifle-granted-bail.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Oktoberfest Pennyburn launches this Friday](https://www.derrynow.com/news/local-news/1623618/oktoberfest-pennyburn-launches-this-friday.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Failure to return McMonagle’s Stormont security pass ‘concerning’, says Speaker](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Failure to return McMonagle’s Stormont security pass ‘concerning’, says Speaker")](https://www.derrynow.com/news/local-news/1623837/failure-to-return-mcmonagles-stormont-security-pass-concerning-says-speaker.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Failure to return McMonagle’s Stormont security pass ‘concerning’, says Speaker](https://www.derrynow.com/news/local-news/1623837/failure-to-return-mcmonagles-stormont-security-pass-concerning-says-speaker.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Charity has suffered ‘huge reputational damage’ over McMonagle – McKinney](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_07/1728299105157_0.jpg--.jpg?1728299105258 "Charity has suffered ‘huge reputational damage’ over McMonagle – McKinney")](https://www.derrynow.com/news/local-news/1623723/charity-has-suffered-huge-reputational-damage-over-mcmonagle-mckinney.html)
+[!['We're here for everyone' - Derry Meet Ups celebrates six months of building community connections](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'We're here for everyone' - Derry Meet Ups celebrates six months of building community connections")](https://www.derrynow.com/news/local-news/1623634/we-re-here-for-everyone-derry-meet-ups-celebrates-six-months-of-community-events.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Charity has suffered ‘huge reputational damage’ over McMonagle – McKinney](https://www.derrynow.com/news/local-news/1623723/charity-has-suffered-huge-reputational-damage-over-mcmonagle-mckinney.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+['We're here for everyone' - Derry Meet Ups celebrates six months of building community connections](https://www.derrynow.com/news/local-news/1623634/we-re-here-for-everyone-derry-meet-ups-celebrates-six-months-of-community-events.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![First Minister to face questions in Assembly over sex offender former employee](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_07/1728302704890_0.jpg--.jpg?1728302705014 "First Minister to face questions in Assembly over sex offender former employee")](https://www.derrynow.com/news/local-news/1623772/first-minister-to-face-questions-in-assembly-over-sex-offender-former-employee.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[First Minister to face questions in Assembly over sex offender former employee](https://www.derrynow.com/news/local-news/1623772/first-minister-to-face-questions-in-assembly-over-sex-offender-former-employee.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man facing series of drugs charges returned for trial](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man facing series of drugs charges returned for trial")](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
+[![Deputy First Minister ‘has confidence’ in ICRIR chief Sir Declan Morgan](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_07/1728311124118_0.jpg--.jpg?1728311124346 "Deputy First Minister ‘has confidence’ in ICRIR chief Sir Declan Morgan")](https://www.derrynow.com/news/local-news/1623951/deputy-first-minister-has-confidence-in-icrir-chief-sir-declan-morgan.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man facing series of drugs charges returned for trial](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Deputy First Minister ‘has confidence’ in ICRIR chief Sir Declan Morgan](https://www.derrynow.com/news/local-news/1623951/deputy-first-minister-has-confidence-in-icrir-chief-sir-declan-morgan.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![A5 road closure: Murder investigation launched following death of man in Strabane](https://www.derrynow.com/resizer/165/93/true/2024_10_07/PSNI_Derry3-1728302690615.jpg--.jpg?1728302690630 "A5 road closure: Murder investigation launched following death of man in Strabane")](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
+[![Derry students visit local 'Marine Machine' on waterways tour](https://www.derrynow.com/resizer/165/93/true/2024_10_07/Thornhill_3-1728313502306.JPG--.JPG?1728313504360 "Derry students visit local 'Marine Machine' on waterways tour")](https://www.derrynow.com/news/local-news/1624023/derry-students-visit-local-marine-machine-on-waterways-tour.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[A5 road closure: Murder investigation launched following death of man in Strabane](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry students visit local 'Marine Machine' on waterways tour](https://www.derrynow.com/news/local-news/1624023/derry-students-visit-local-marine-machine-on-waterways-tour.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry construction projects shine at annual CEF Awards](https://www.derrynow.com/resizer/165/93/true/2024_10_07/Derry_Pennyburn_Bridge-1728308374856.jpg--.jpg?1728308375501 "Derry construction projects shine at annual CEF Awards")](https://www.derrynow.com/news/local-news/1623892/derry-construction-projects-shine-at-annual-cef-awards.html)
+
+The recently opened Pennyburn Bridge
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry construction projects shine at annual CEF Awards](https://www.derrynow.com/news/local-news/1623892/derry-construction-projects-shine-at-annual-cef-awards.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman jailed for her part in an incident were a dog killed another dog has sentence reduced](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Woman jailed for her part in an incident were a dog killed another dog has sentence reduced")](https://www.derrynow.com/news/local-news/1623775/woman-jailed-for-her-part-in-an-incident-were-a-dog-killed-another-dog-has-sentence-reduced.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman jailed for her part in an incident were a dog killed another dog has sentence reduced](https://www.derrynow.com/news/local-news/1623775/woman-jailed-for-her-part-in-an-incident-were-a-dog-killed-another-dog-has-sentence-reduced.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
