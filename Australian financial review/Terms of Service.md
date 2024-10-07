@@ -317,15 +317,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Kolonne/Null wines](https://static.ffx.io/images/$zoom_0.7358%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_457/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e88b0447219484662e645b7eaf91c82ad4ef92ef)](https://www.afr.com/life-and-luxury/food-and-wine/hands-down-the-best-non-alcoholic-wine-i-ve-tried-20241002-p5kfcl)
+[![ ](https://static.ffx.io/images/$zoom_0.4113%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_107%2C$y_128/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/aa92c169cd48ae4d50ab93a87f25d45054e82149)](https://www.afr.com/technology/the-vitruvian-trainer-is-a-lot-like-the-peloton-but-for-weights-20241003-p5kfjg)
 
-### [Hands down the best non-alcoholic wine I’ve tried](https://www.afr.com/life-and-luxury/food-and-wine/hands-down-the-best-non-alcoholic-wine-i-ve-tried-20241002-p5kfcl)
+### [The Vitruvian Trainer+ is a lot like the Peloton – but for weights](https://www.afr.com/technology/the-vitruvian-trainer-is-a-lot-like-the-peloton-but-for-weights-20241003-p5kfjg)
 
-* Max Allen
+* 56 mins ago
+* John Davidson
 
-* ### [Move over pubs, socialising has moved to the steam room](https://www.afr.com/life-and-luxury/health-and-wellness/move-over-pubs-socialising-has-moved-to-the-steam-room-20240919-p5kbvv)
+* ### [On cloud nine for a sky-high price: the $1m mattress](https://www.afr.com/life-and-luxury/health-and-wellness/on-cloud-nine-for-a-sky-high-price-the-1m-mattress-20240924-p5kd4d)
     
-* ### [All the fabulous looks and fantasy of Paris Fashion Week](https://www.afr.com/life-and-luxury/fashion-and-style/all-the-fabulous-looks-and-fantasy-of-paris-fashion-week-20240925-p5kdj4)
+* ### [How this CEO stays on the fast track](https://www.afr.com/life-and-luxury/health-and-wellness/how-this-ceo-stays-on-the-fast-track-20240918-p5kbi4)
     
 
 [Rich List](https://www.afr.com/rich-list)
