@@ -210,50 +210,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Kobus Venter
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=200565247)  
-Brilliant Roof Products
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=114812396)  
+Norton Medical & Consult - Namibia
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=91466982)  
-M's Frozen Delights
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=17606243)  
+Redlum Group (Pty) Ltd
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=198524319)  
-SAUL ATHOL ACRES RENTAL
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=66620622)  
+Alliance Energy
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=60302933)  
-kidoscabbie
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=189247286)  
+Meyer Towing & Recovery
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=27531647)  
-Import Maaw
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=134655415)  
+NJR ICT Services (Pty) Ltd
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=163714216)  
-#DiGi3 Marketing & Design
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=7182186)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=134857051)  
-Fox Alarms & Security
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=105428973)  
+Little Nutty Professors
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=36751482)  
-Lion Software Develepment
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=81802482)  
+NEW BEGINNINGS DESIGNS
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=213717171)  
-FX ACCOUNTING
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=48174387)  
+SafeTclip
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=172642078)  
-TRACKFORCE (Pty) Ltd
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=22556292)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=100153676)  
-Wiselink Broadband Dundee
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=126924001)  
+Enhle Oarabile Kea
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=133863371)  
-Vplay Grafix
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=197328497)  
+Blue Sky Solar Services
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=82144021)  
-MOSELA GROUP Pty(ltd)
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=94078323)  
+Printo
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=29169046)  
-National Elite Security Services (PTY) LTD
+![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=21600559)  
+NILBET (PTY) LTD - Once Off's
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=53e90ea40cd426e24f49cf32bb39665beaaafed8288f361b3cd15d96d3f7ac8b&c=160426191)  
-LEO DEVELOPMENT GROUP
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=73515344)  
+One2b
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
