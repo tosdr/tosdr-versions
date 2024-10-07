@@ -268,13 +268,6 @@ Derry City fans celebrate at Dalymount Park. Pics by Stephen McCarthy/ Sportsfil
 [IN PICTURES: Derry City celebrations at Dalymount Park](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, October 6 2024](https://www.derrynow.com/news/deaths/1622198/derry-death-notices-sunday-october-6-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Faughanvale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Faughanvale")](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
 
 The Faughanvale team line up before the game. Pic by Tom Heaney, nwpresspics
@@ -299,6 +292,13 @@ Glen's Ethan Doherty celebrates his goal against Lavey Derry Senior Football Cha
 
 [Stoppage time point edges champions Glen into the last four](https://www.derrynow.com/news/derry-sport/1623137/stoppage-time-point-edges-champions-glen-into-the-last-four.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, October 7 2024](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Banagher](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Banagher")](https://www.derrynow.com/news/derry-sport/1623140/banagher-hold-off-eoghan-rua-fightback-to-make-intermediate-championship-semi-finals.html)
 
@@ -517,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, October 7 2024](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Planting projects encourages Derry community groups to apply for trees](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Planting projects encourages Derry community groups to apply for trees")](https://www.derrynow.com/news/local-news/1621968/planting-project-encourages-derry-community-groups-to-apply-for-trees.html)
 
 SuperValu and Centra Brand Communications Manager Carol Marshall visits Declan McCann, who planted 275 trees and hedgerows in a nearby smallholding, to provide a haven and shelter for wildlife
@@ -526,7 +533,7 @@ SuperValu and Centra Brand Communications Manager Carol Marshall visits Declan M
 [Planting project encourages Derry community groups to apply for trees](https://www.derrynow.com/news/local-news/1621968/planting-project-encourages-derry-community-groups-to-apply-for-trees.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![MacD on Music: H-Y-P Hypnotized](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: H-Y-P Hypnotized")](https://www.derrynow.com/news/what-s-on/1622096/macd-on-music-h-y-p-hypnotized.html)
+[![MacD on Music: H-Y-P Hypnotized](https://www.derrynow.com/resizer/165/93/true/2024_10_04/WhatsApp_Image_20240927_at_16_29728962-1728053484615.jpg--.jpg?1728053484826 "MacD on Music: H-Y-P Hypnotized")](https://www.derrynow.com/news/what-s-on/1622096/macd-on-music-h-y-p-hypnotized.html)
 
 Wally/Hypnotic Jerk
 
@@ -561,15 +568,6 @@ The Faughanvale team line up before the game. Pic by Tom Heaney, nwpresspics
 
 [Faughanvale pay tribute to club legend Joe Cassidy with victory over Castledawson](https://www.derrynow.com/news/derry-sport/1623029/faughanvale-pay-tribute-to-club-legend-joe-cassidy-with-victory-over-castledawson.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_06/IDNM_7-10-24_Fats_1-1728205696484.jpg--.jpg?1728205698966 "Derry City")](https://www.derrynow.com/news/derry-sport/1623010/300-up-for-patrick-mceleney-as-you-get-older-it-gets-even-more-special.html)
-
-Patrick McEleney celebrates Derry City's second goal against Bohemians. Pic by Ben McShane/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[300 up for Patrick McEleney! - 'As you get older, it gets even more special'](https://www.derrynow.com/news/derry-sport/1623010/300-up-for-patrick-mceleney-as-you-get-older-it-gets-even-more-special.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
