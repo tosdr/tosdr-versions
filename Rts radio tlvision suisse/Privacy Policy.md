@@ -163,7 +163,7 @@ MENU
 * [Offre](https://www.rts.ch/entreprise/l-offre-rts/)
 * [Coulisses](https://www.rts.ch/entreprise/coulisses-rts/)
 * [Nous rejoindre](https://jobs.rts.ch/fr/emplois-carriere/)
-* [Espace Pro](https://www.rts.ch/entreprise/espace-pro/)
+* [Espace professionnel](https://www.rts.ch/entreprise/espace-pro/)
 * [Contact](https://www.rts.ch/entreprise/contact/)
 * [Accueil](https://www.rts.ch/entreprise/)
     
@@ -175,7 +175,7 @@ MENU
     
     [Nous rejoindre](https://jobs.rts.ch/fr/emplois-carriere/)
     
-    [Espace Pro](https://www.rts.ch/entreprise/espace-pro/)
+    [Espace professionnel](https://www.rts.ch/entreprise/espace-pro/)
     
     [Contact](https://www.rts.ch/entreprise/contact/)
     
