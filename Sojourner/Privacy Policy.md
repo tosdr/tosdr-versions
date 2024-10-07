@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-50f8b9f5c2da1a1854f42b81b5b6e6b8
+19a18a4c71261aaae13b284234137af2
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![4 mm faceted round poppy jasper beads](https://www.sojourner.biz/images/cache/stone/PJ0001.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/poppy-jasper/4-mm-faceted-round-poppy-jasper-beads.html "4 mm faceted round poppy jasper beads")
+[![12 mm to 14 mm cream white Baroque pearls](https://www.sojourner.biz/images/cache/pearls/PE0181.200.jpg)](https://www.sojourner.biz/beads/pearls/12-mm-to-14-mm-cream-white-baroque-pearls.html "12 mm to 14 mm cream white Baroque pearls")
 
-#### [4 mm faceted round poppy jasper beads](https://www.sojourner.biz/beads/stone-m-z/poppy-jasper/4-mm-faceted-round-poppy-jasper-beads.html "4 mm faceted round poppy jasper beads")
+#### [12 mm to 14 mm cream white Baroque pearls](https://www.sojourner.biz/beads/pearls/12-mm-to-14-mm-cream-white-baroque-pearls.html "12 mm to 14 mm cream white Baroque pearls")
 
-$16.00
+$56.00
 
 ### Best Sellers
 
