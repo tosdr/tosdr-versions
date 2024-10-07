@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [This method is now public](https://pastebin.com/0tWxc9Xn)
+* [G2A Glitch](https://pastebin.com/ZR2LbBGS)
+    
+    JavaScript | 1 sec ago | 0.17 KB
+    
+* [This method is now public](https://pastebin.com/8eH46p6L)
     
     JavaScript | 1 sec ago | 0.20 KB
     
-* [⭐Make $2500 ⭐ Day on your PC (Easy)](https://pastebin.com/4F79X2JQ)
+* [⭐Free 5000$ Giftcards Method ⭐️ September 202...](https://pastebin.com/sCR8w8cX)
     
-    JavaScript | 1 sec ago | 0.18 KB
+    JavaScript | 1 sec ago | 0.13 KB
     
-* [✨ Make $3000 in 24 hours❤️](https://pastebin.com/CKi34mnZ)
-    
-    JavaScript | 1 sec ago | 0.18 KB
-    
-* [New 0-day exploit (online marketplace)](https://pastebin.com/jm70bmgd)
-    
-    JavaScript | 2 sec ago | 0.13 KB
-    
-* [❤️ MAKE $5000 IN 20 MINUTES ❤](https://pastebin.com/uLw8C8Px)
+* [❤️ MAKE $5000 IN 20 MINUTES ❤](https://pastebin.com/sPRuQdHQ)
     
     JavaScript | 3 sec ago | 0.18 KB
     
-* [New free giftcards 0-day exploit](https://pastebin.com/MSbLmDzB)
+* [This method is now public](https://pastebin.com/KU2B38gm)
     
-    Python | 3 sec ago | 0.31 KB
+    JavaScript | 3 sec ago | 0.20 KB
     
-* [❤️ MAKE $500 IN 15 MINUTES ❤](https://pastebin.com/CSnKrE01)
+* [❤️MAKE 3000$ IN 1 DAY WITH ONLINE STORE❤️](https://pastebin.com/L59Ydykq)
     
-    JavaScript | 3 sec ago | 0.17 KB
+    JavaScript | 3 sec ago | 0.18 KB
     
-* [1000$ Amazon Giftcards](https://pastebin.com/sNjGCJ91)
+* [New 0-day exploit (online marketplace)](https://pastebin.com/FiSw0NR6)
     
-    JavaScript | 3 sec ago | 0.17 KB
+    JavaScript | 3 sec ago | 0.13 KB
+    
+* [Amazon Giftcards Method](https://pastebin.com/1WGq0zxB)
+    
+    JavaScript | 4 sec ago | 0.17 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
