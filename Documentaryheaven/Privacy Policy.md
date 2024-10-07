@@ -113,6 +113,11 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
+* [![Britains Broken Families](/wp-content/thumbnails/8555-100x70.jpg?x53432)
+    
+    Britains Broken Families
+    
+    A recent documentary by the BBC has set about following the work of Newcastle's Family Intervention Project or FIP, the project aims to try and help some of the more disruptive families in the area. ...](https://documentaryheaven.com/britains-broken-families/ "Britains Broken Families")
 * [![Amy Winehouse: What Really Happened](/wp-content/thumbnails/6033-100x70.jpg?x53432)
     
     Amy Winehouse: What Really Happened
@@ -128,39 +133,34 @@ Advertisement
     Very Young Girls
     
     Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited yo...](https://documentaryheaven.com/very-young-girls/ "Very Young Girls")
-* [![The Perfect Vagina](/wp-content/thumbnails/2910-100x70.jpg?x53432)
-    
-    The Perfect Vagina
-    
-    After having watched Penis Size Insecurity By Men, it's now time to move on to lesson two and have a look at womens insecurities: The Perfect Vagina.Fronted by Lisa Rogers, this documentary focuse...](https://documentaryheaven.com/the-perfect-vagina/ "The Perfect Vagina")
 
 ###### Throwback Documentaries
 
-* [![Hepatitis Country](/wp-content/thumbnails/12742-100x70.png?x53432)
+* [![The Truth 365](/wp-content/thumbnails/7428-100x70.jpg?x53432)
     
-    Hepatitis Country
+    The Truth 365
     
-    Hepatitis C is a liver disease which tends to be very contagious, being spread primarily through contact with the blood of someone who is infected. It's severity can range from a mild illness lasting](https://documentaryheaven.com/hepatitis-country/ "Hepatitis Country")
-* [![The Inner Planets: Mercury & Venus](/wp-content/thumbnails/66-100x70.png?x53432)
+    The Truth 365 is a grass-roots documentary film and social media campaign that gives a voice to all children fighting all forms of cancer. Hosted by 18 year-old Melinda Marchiano, who is a cancer surv](https://documentaryheaven.com/truth-365/ "The Truth 365")
+* [![A Survivor’s Guide To Plane Crashes](/wp-content/thumbnails/3285-100x70.jpg?x53432)
     
-    The Inner Planets: Mercury & Venus
+    A Survivor’s Guide To Plane Crashes
     
-    This documentary takes a fascinating new look at a very old universe. Fifty years after man first ventured into outer space, we examine the greatest secrets of the heavens. Each episode outlines how h](https://documentaryheaven.com/the-inner-planets-mercury-venus/ "The Inner Planets: Mercury & Venus")
-* [![The Secrets of Quantum Physics](/wp-content/thumbnails/9467-100x70.jpg?x53432)
+    Every day across the world, more than 3 million people catch a plane.Yet despite it being the safest form of travel, many of us are terrified of flying and what we fear most is crashing and dying](https://documentaryheaven.com/a-survivors-guide-to-plane-crashes/ "A Survivor’s Guide To Plane Crashes")
+* [![The Smash Brothers](/wp-content/thumbnails/8406-100x70.png?x53432)
     
-    The Secrets of Quantum Physics
+    The Smash Brothers
     
-    Beneath the complexities of everyday life the rules of our universe seem reassuringly simple, but as science further developed and those involved began to peer deeper into the tiny building blocks of](https://documentaryheaven.com/secrets-of-quantum-physics/ "The Secrets of Quantum Physics") 
-* [![Buck](/wp-content/thumbnails/6155-100x70.jpg?x53432)
+    The Smash Brothers is a 9 episode documentary web series created by East Point Pictures, it explores the in depth competitive gaming world of Super Smash Bros Melee, interviewing some of the scenes to](https://documentaryheaven.com/smash-brothers/ "The Smash Brothers")
+* [![Reddit: How It All Began](/wp-content/thumbnails/6823-100x70.jpg?x53432)
     
-    Buck
+    Reddit: How It All Began
     
-    Buck, reveals the life story of real-life horse whisperer, Buck Brannaman.A living legend in the horse world, Buck Brannaman was the inspiration for The Horse Whisperer. For this true cowboy, horses](https://documentaryheaven.com/buck/ "Buck")
-* [![The Fundamentalists](/wp-content/thumbnails/2083-100x70.jpg?x53432)
+    Social news website Reddit received 47 million visitors last month. In our latest video, founders Steve Huffman and Alexis Ohanian discuss how Reddit became the "front page of the Internet."](https://documentaryheaven.com/reddit-how-it-all-began/ "Reddit: How It All Began") 
+* [![I Am A Motherfucker](/wp-content/thumbnails/4600-100x70.jpg?x53432)
     
-    The Fundamentalists
+    I Am A Motherfucker
     
-    In this documentary, Mark Dowd travels across the world to trace the origins of fundamentalism and find out how it developed into the global phenomenon it is today. He discovers fundamentalists of all](https://documentaryheaven.com/the-fundamentalists/ "The Fundamentalists")
+    A brilliant short documentary on Thomas Bruso (infamously known across the internet as Epic Beard Man) and the days surrounding the release of an internet video showcasing a fight on an Oakland public](https://documentaryheaven.com/i-am-a-motherfucker/ "I Am A Motherfucker")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
