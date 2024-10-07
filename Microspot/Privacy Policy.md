@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/5482.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/4934.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -99,6 +99,35 @@ ACTIONDe nettoyage d'automne](https://www.microspot.ch/fr/cms/actions-nettoyage-
 Autres actions ici
 
 [Profiter](https://www.microspot.ch/fr/promotions)
+
+Nos univers thématiques
+-----------------------
+
+[![80x80_Icon_AI-chip.png](/medias/80x80-Icon-AI-chip.png?context=bWFzdGVyfGNtc3w2NTZ8aW1hZ2UvcG5nfGFHTTJMMmd5T1M4NE1IZzRNRjlKWTI5dVgwRkpMV05vYVhBdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBsamIyNWZRVWt0WTJocGNDNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXxhOTQwNjVjY2VmNWFjMDkwYzFhM2MyODc3MDEzMjM2NTYxYzQ0ZTZjZDgxMDA4MzMzZjMyNWY3ZDZkYzViMzQ0)
+
+NPU explique : Le moteur de l'IA](https://www.microspot.ch/fr/cms/npu-explique)
+
+[![80x80_Icon_Gaming.png](/medias/80x80-Icon-Gaming.png?context=bWFzdGVyfGNtc3w0OTB8aW1hZ2UvcG5nfGFEbGpMMmhtTWk4NE1IZzRNRjlKWTI5dVgwZGhiV2x1Wnk1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EQjRPREJmU1dOdmJsOUhZVzFwYm1jdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa3w4M2UyNjM4ZjE5NjgzYjI2MDA0MTJhY2NhNDRkN2YwNWQ2YjM0M2Q3MTYwYzVkNzU2NzhjNWRhNjE2Y2YzYjMz)
+
+Gaming](https://www.microspot.ch/fr/cms/gaming)
+
+[![80x80_I24_Icons_009_CM1_Icons_New5.png](/medias/80x80-I24-Icons-009-CM1-Icons-New5.png?context=bWFzdGVyfGNtc3w0ODV8aW1hZ2UvcG5nfGFHUXlMMmd3Wmk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURBNVgwTk5NVjlKWTI5dWMxOU9aWGMxTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURBNVgwTk5NVjlKWTI5dWMxOU9aWGMxTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkF8NWUwYzg2ZWE1ZmFmY2RlODM0ZGIxZjIwNjE1NmZlYWZlNzZiMDAwZmY3NGQxOTY3YTQ5ZTk2NmVjYTg5YzJiNA)
+
+Trade-In Service](https://www.microspot.ch/fr/cms/trade-in)
+
+[![300x150_I24_Icons_005_CM2_divers4.png](/medias/300x150-I24-Icons-005-CM2-divers4.png?context=bWFzdGVyfGNtc3w5NDV8aW1hZ2UvcG5nfGFEYzNMMmd6TVM4ek1EQjRNVFV3WDBreU5GOUpZMjl1YzE4d01EVmZRMDB5WDJScGRtVnljelF1Y0c1blUzUmhaMlZrYjNCMGFXMXBlbVZrTHpNd01IZ3hOVEJmU1RJMFgwbGpiMjV6WHpBd05WOURUVEpmWkdsMlpYSnpOQzV3Ym1kVGRHRm5aV1J2Y0hScGJXbDZaV1F8YjliZGUyZTNmZTJlOTBjNzgzY2Q2ZDRjNGFjYjFhMmQxNjRkNGY3MjMzMDBhNjhhZDE5YTFiZjA0NTg1ZmQ0Nw)
+
+Nouveautés](https://www.microspot.ch/fr/cms/nouveautes)
+
+[![80x80_Icon_Gadgets.png](/medias/80x80-Icon-Gadgets.png?context=bWFzdGVyfGNtc3w0Mjd8aW1hZ2UvcG5nfGFEZGxMMmhoWWk4NE1IZzRNRjlKWTI5dVgwZGhaR2RsZEhNdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBsamIyNWZSMkZrWjJWMGN5NXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXw5ZGY3Y2EyNmFkOTZhZDdiODJjYzc5NzVjOGJkNTY5ZjMwOTdkNWIwNWM1MjEyMWE5NzE1YjI4ZWRiZTJlNGI1)
+
+Gadgets](https://www.microspot.ch/fr/cms/gadget)
+
+[![80x80_I24_Icons_016_Baby.png](/medias/80x80-I24-Icons-016-Baby.png?context=bWFzdGVyfGNtc3wxMTYyfGltYWdlL3BuZ3xhRGN4TDJnMFlpODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERTJYMEpoWW5rdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBreU5GOUpZMjl1YzE4d01UWmZRbUZpZVM1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRfDRkY2YxMjIzZDE2ZmQ0OWI2ZDA5Zjk1YzIyNjU2ODAwNTkwMjUxYTAzM2M4Njk4ZWExYzkwMGNlMWMzMDA3ZTY)
+
+Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
+
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-10-P10-Glu-cksrad-Herbst2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4OTQ3NnxpbWFnZS9qcGVnfGFEQTNMMmhrWXk4eE1UZ3dlRE0xTUY5Sk1qUmZNVEJmVURFd1gwZHNkY3lJWTJ0emNtRmtYMGhsY21KemRESXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMGt5TkY4eE1GOVFNVEJmUjJ4MXpJaGphM055WVdSZlNHVnlZbk4wTWk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfDZjY2U2YWFlNTc4ZWExNjJjYTZhMjNkNDEzMTcwZjBlMDRhYjhkNzVlYzA3MmNlMzVlMmU0YjU0ZTdlM2ZjMjc&w=2360&q=75)](https://gagner.interdiscount.ch/?ref=online_homepage)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0688-CM2-PS5-Pro-DE-CTA.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNTQ0Njh8aW1hZ2UvanBlZ3xhR1E1TDJnelpDODVOekUxTmprek1qSXpPVFkyTHpFeE9EQjRNelV3WDBreU5GOHdOamc0WDBOTk1sOVFVelZmVUhKdlgwUkZYME5VUVM1cWNHY3w1MjA0YzgwMzA5MGYwZDU2NDRlMjk1Nzk5OWIzMGMzNmQwZWM5NWJhOWIyZTE4YzcyZGFkMGNkMDJiZTVhMzJl&w=2360&q=75)](https://www.microspot.ch/fr/product/sony-playstation-5-pro-2000-gb-0014196596)
 
@@ -186,13 +215,13 @@ Achetez comme vous aimez
 
 à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Retrait gratuit
-
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
