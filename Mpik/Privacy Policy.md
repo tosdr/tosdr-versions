@@ -551,6 +551,7 @@ Als betroffene Person, deren personenbezogene Daten im Rahmen der oben genannten
     * [Reports and Information Material](https://www.mpi-hd.mpg.de/mpi/en/public/reports-and-information-material "Reports and Information Material")
     * [Guided Tours](https://www.mpi-hd.mpg.de/mpi/en/public/guided-tours "Guided Tours")
     * [Information for School Students](https://www.mpi-hd.mpg.de/mpi/en/public-relations/information-for "Information for School Students")
+        * [Wolke 7](https://www.mpi-hd.mpg.de/mpi/en/oeffentlichkeit/informationen-fuer-schueler/wolke-7-1 "Wolke 7")
         * [Explore Science 2022](https://www.mpi-hd.mpg.de/mpi/en/oeffentlichkeit/informationen-fuer-schueler/explore-science-2022 "Explore Science 2022")
     * [Open Day 2024](https://www.mpi-hd.mpg.de/mpi/en/public/translate-to-english-tag-der-offenen-tuer-2024 "Open Day 2024")
     * [2024-programm](https://www.mpi-hd.mpg.de/mpi/en/oeffentlichkeit/tdot2024-programm "TdoT2024 Programm")
