@@ -330,15 +330,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
+A picture of Gandalf the Grey (from The Lord of the Rings) can be seen in the collection of great wizards in Albus Dumbledore’s study in the Harry Potter and the Chamber of Secrets film.
 
 ### Potter History
 
-January 17, 2005 – Rumors surfaced of a Harry Potter-themed restaurant, but they were quickly denied.
+July 10, 2007 – Daniel Radcliffe, Rupert Grint, and Emma Watson are honored at the “Hand, Foot, and Wand” ceremony at Grauman’s Chinese Theatre in Hollywood.
 
 ### Potter Quote
 
-“His eyes are as green as a fresh pickled toad, His hair is as dark as a blackboard. I wish he was mine, he’s really divine, The hero who conquered the Dark Lord.”
+“We’d better get to bed before Snape comes along and tries to frame us for something else.”
 
 [](#)
 
