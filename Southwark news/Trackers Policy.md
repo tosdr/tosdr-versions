@@ -195,6 +195,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Popular Articles
 
+[![Brenda Dacres (centre right) and Cllr Kieron Williams (far right) hold aloft a Bakerloo Line Extension sign. Credit: Lewisham Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Brenda-Dacres-centre-right-and-Cllr-Kieron-Williams-far-right-hold-aloft-a-Bakerloo-Line-Extension-sign.-Credit-Lewisham-Council-e1727779764327-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
+
+### [Bakerloo Line extension: Lewisham Mayor tells TfL and business leaders why south London needs the rail project](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
+
+[1st October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
+
 [![Paul Campbell was diagnosed with prostate cancer in 2018 after getting a test. 
 Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Paul-Campbell-120x86.jpg)](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
 
@@ -202,11 +208,11 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [28th September 2024](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
 
-[![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-120x86.jpg)](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+[![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
 
-### [Boy who had life support switched off has ‘confounded all medical expectations’](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
 
-[29th September 2024](https://southwarknews.co.uk/area/south-london/boy-who-had-life-support-switched-off-has-confounded-all-medical-expectations/)
+[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
 
 [![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
 
@@ -214,23 +220,17 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [30th September 2024](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
 
-[![Brenda Dacres (centre right) and Cllr Kieron Williams (far right) hold aloft a Bakerloo Line Extension sign. Credit: Lewisham Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Brenda-Dacres-centre-right-and-Cllr-Kieron-Williams-far-right-hold-aloft-a-Bakerloo-Line-Extension-sign.-Credit-Lewisham-Council-e1727779764327-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
-
-### [Bakerloo Line extension: Lewisham Mayor tells TfL and business leaders why south London needs the rail project](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
-
-[1st October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
-
-[![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-
-### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-
-[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-
 [![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-120x86.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
 
 ### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
 
 [1st October 2024](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
+
+[![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+
+### [Printworks nightclub comeback a ‘fantastic boost’ for South London](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+
+[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
 
 ### Featured Articles
 
