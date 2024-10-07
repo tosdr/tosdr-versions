@@ -117,8 +117,6 @@ We acknowledge that UBC’s two main campuses are situated within the ancestral 
 
 Vancouver, BC Canada V6T 1Z4
 
-Tel (Directory Assistance) [604 822 2211](tel:+16048222211)
-
 [Contact the Vancouver campus](https://www.ubc.ca/about/contact.html)
 
 **Okanagan Campus**
@@ -126,8 +124,6 @@ Tel (Directory Assistance) [604 822 2211](tel:+16048222211)
 3333 University Way
 
 Kelowna, BC Canada V1V 1V7
-
-Tel [250 807 8000](tel:+12508078000)
 
 [Contact the Okanagan campus](https://www.ubc.ca/about/contact-okanagan.html)
 
