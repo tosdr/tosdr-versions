@@ -1,18 +1,22 @@
 [Skip to main content](#main-content)
 
-BOGO Free Best Sellers! DETAILS
+Sale on Sale! Extra 10% off Markdowns DETAILS
 
-BUY 1 GET 1 FREE
+Save up to $75 on Infrared Therapy DETAILS
+
+SALE ON SALE
 
 Close the Modal
 
-#### Mix & match or double up. The Best Sellers are buy one get one FREE!
+#### EXTRA 10% OFF MARKDOWNS!
 
-[SHOP NOW](https://www.tommiecopper.com/special/best-sellers)
+**Use Code: BONUS10**
 
-Offer valid 10/4/2024 8AM ET - 10/7/2024 6AM ET.
+[SHOP MEN](https://www.tommiecopper.com/men/featured/mens-markdowns/)    [SHOP WOMEN](https://www.tommiecopper.com/women/featured/womens-markdowns/)
 
-To receive Buy 1 Get 1 Free discount on Best Sellers, must add two (2) eligible products to cart. Discount automatically applied on lowest priced item. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Offer valid 10/7/2024 6AM ET - 10/8/2024 6AM ET.
+
+To receive extra 10% off Markdowns, must enter code BONUS10 at checkout. Offer only valid on Markdowns products. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 INFRARED & RED LIGHT THERAPY
 
@@ -22,7 +26,7 @@ Close the Modal
 
 [SHOP NOW](https://www.tommiecopper.com/featured/infrared-red-light-devices/)
 
-Offer valid 9/18/2024 8AM ET - 9/20/2024 6AM ET.
+Offer valid 10/7/2024 6AM ET - 10/8/2024 6AM ET.
 
 Infrared & Red Light Therapy Device discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
