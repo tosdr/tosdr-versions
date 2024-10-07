@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [MacDill AFB evacuates planes and people as Hurricane Milton approaches](https://www.defensenews.com/air/2024/10/07/macdill-evacuates-planes-personnel-as-hurricane-milton-approaches/)  
+    10/07/24 01:03pm  
+    
+    Hurricane Helene left MacDill Air Force Base in Florida with some temporary flooding, and the base is now bracing for a hit from Hurricane Milton, now a Category 5 storm. (U.S. Air Force)
+    
 * [Can the Air Force make its next-gen fighter jet cheaper than the F-35?](https://www.defensenews.com/air/2024/10/04/can-the-air-force-make-its-next-gen-fighter-jet-cheaper-than-the-f-35/)  
     10/04/24 08:02am  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     10/01/24 01:55pm  
     
     Smoke rises following Israeli bombardment in southern Lebanon as seen from northern Israel on Tuesday. The Israeli military says Iran has fired missiles at Israel and is warning Israelis to shelter in place. (Leo Correa/AP)
-    
-* [Here’s what caused an Air Force F-16 jet crash off South Korea](https://www.defensenews.com/news/your-air-force/2024/10/01/heres-what-caused-an-air-force-f-16-jet-crash-off-south-korea/)  
-    10/01/24 08:02am  
-    
-    An F-16 from the 8th Fighter Wing at Kunsan Air Base crashed in December after a GPS unit in a key instrument failed. (Senior Airman Karla Parra/U.S. Air Force)
     
 
 Recent parts by keyword  
