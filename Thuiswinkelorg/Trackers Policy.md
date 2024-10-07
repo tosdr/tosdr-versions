@@ -51,7 +51,7 @@ Taal Nederlands dansk Deutsch English español français italiano norsk svenska
     * [Quickscan](https://www.thuiswinkel.org/duurzaamheid/quickscan/)
     * [Acceleratieprogramma Duurzaamheidscertificering](https://www.thuiswinkel.org/duurzaamheid/acceleratieprogramma-duurzaamheidscertificering/)
     * [Feiten en fabels](https://www.thuiswinkel.org/duurzaamheid/feiten-en-fabels/)
-    * [Duurzaamheidswetgeving](https://www.thuiswinkel.org/duurzaamheid/duurzaamheidswetgeving/)
+    * [Wetgeving over duurzaam online ondernemen](https://www.thuiswinkel.org/duurzaamheid/wetgeving-over-duurzaam-online-ondernemen/)
 
 Trefwoord
 
