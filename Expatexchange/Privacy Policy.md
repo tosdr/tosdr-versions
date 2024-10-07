@@ -18,7 +18,7 @@ Send Login Link
 
 Interested in our Partner Program for businesses or our Local Guide Program for experienced expats and digital nomads? [Click here to learn more](https://www.expatexchange.com/partnering).
 
-       Privacy Policy | Expat Exchange                                  
+       Privacy Policy | Expat Exchange                                     
 
  
 
@@ -96,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![Cigna Global Health](https://www.expatexchange.com/banner/Cigna_Global_Happy_728_90.png)](https://cignaglobal.7eer.net/em76Z?sharedid=2899-DESKTOP-leader-leaderad-vrs-B-Global-leader)
+[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-ldr1.jpg)](https://www.expatexchange.com/partnerdirect/182/60617-DESKTOP-leader-leaderad-vrs-A-Global-leader)
 
-[![Cigna Global Health](https://www.expatexchange.com/banner/Cigna_Global_Chapter_300_250.jpg)](https://cignaglobal.7eer.net/em76Z?sharedid=2899-MOBILE-leader-leaderad-vrs-B-Global-leader)
+[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-mpu-1.jpg)](https://www.expatexchange.com/partnerdirect/182/60617-MOBILE-leader-leaderad-vrs-A-Global-leader)
 
 Privacy Policy
 ==============
@@ -439,17 +439,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![Cigna Global Health](https://www.expatexchange.com/images/living_in_london_fb.jpg)](https://cignaglobal.7eer.net/em76Z?sharedid=99848-DESKTOP-cbar-vrs-B-hicontent-Global-62)
+[![Allianz Care](https://www.expatexchange.com/images/baby_abruzzo_italy_fb.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=82414-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-[Cigna Global Health](https://cignaglobal.7eer.net/em76Z?sharedid=99848-DESKTOP-cbar-vrs-B-hicontent-Global-62)
+[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=82414-DESKTOP-cbar-vrs-A-hicontent-Global-62)
 
-Get a quote in 2 minutes from our partner, Cigna Global Health.  
-[Get Quote](https://cignaglobal.7eer.net/em76Z?sharedid=99848-DESKTOP-cbar-vrs-B-hicontent-Global-62 "Get Quote")
+Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
+[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=82414-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Get Quote")
 
-[![Cigna Global Health](https://www.expatexchange.com/images/living_in_london_fb.jpg)](https://cignaglobal.7eer.net/em76Z?sharedid=99848-MOBILE-cbar-vrs-B-hicontent-Global-62)[Cigna Global Health](https://cignaglobal.7eer.net/em76Z?sharedid=99848-MOBILE-cbar-vrs-B-hicontent-Global-62)
+[![Allianz Care](https://www.expatexchange.com/images/baby_abruzzo_italy_fb.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=82414-MOBILE-cbar-vrs-A-hicontent-Global-62)[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=82414-MOBILE-cbar-vrs-A-hicontent-Global-62)
 
-Get a quote in 2 minutes from our partner, Cigna Global Health.  
-[Get Quote](https://cignaglobal.7eer.net/em76Z?sharedid=99848-MOBILE-cbar-vrs-B-hicontent-Global-62 "Get Quote")
+Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
+[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=82414-MOBILE-cbar-vrs-A-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
