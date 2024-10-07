@@ -509,9 +509,9 @@ Das Recht auf Widerspruch beinhaltet die Möglichkeit für Betroffene, in einer 
 7. Notwendigkeit der Datenverarbeitung
 --------------------------------------
 
-Die Verarbeitung von personenbezogenen Daten durch die BfDI steht im unmittelbaren Zusammenhang mit der Wahrnehmung seiner öffentlichen Aufgaben.
+Die Verarbeitung von personenbezogenen Daten durch die BfDI steht im unmittelbaren Zusammenhang mit der Wahrnehmung ihrer öffentlichen Aufgaben.
 
-Insbesondere bei der Überwachung und Durchsetzung der DSGVO bei Verantwortlichen, die der Aufsicht durch die BfDI unterliegen, kann die Bereitstellung von personenbezogenen Daten aufgrund des Artikel 58 Absatz 1 Buchstabe. a) DSGVO gesetzlich notwendig sein. Im Falle der Nichtbereitstellung verfügt der BfDI über Abhilfebefugnisse gemäß Artikel 58 Absatz 2 DSGVO.
+Insbesondere bei der Überwachung und Durchsetzung der DSGVO bei Verantwortlichen, die der Aufsicht durch die BfDI unterliegen, kann die Bereitstellung von personenbezogenen Daten aufgrund des Artikel 58 Absatz 1 Buchstabe. a) DSGVO gesetzlich notwendig sein. Im Falle der Nichtbereitstellung verfügt die BfDI über Abhilfebefugnisse gemäß Artikel 58 Absatz 2 DSGVO.
 
 Bei der Kontrolle der Informationsfreiheit bei Verantwortlichen, die der Aufsicht durch die BfDI unterliegen, kann die Bereitstellung von personenbezogenen Daten aufgrund von § 12 Absatz 3 IFG in Verbindung mit § 24 Absatz 4 BDSG (alte Fassung) gesetzlich notwendig sein. Im Falle der Nichtbereitstellung verfügt die BfDI über ein Beanstandungsrecht gemäß § 25 BDSG (alte Fassung).
 
@@ -559,7 +559,7 @@ Der Einsatz dieser Cookies ist nach § 25 Absatz 2 TDDDG technisch notwendig.
 
 Techniken, wie zum Beispiel Java-Applets oder Active-X\-Controls, die es ermöglichen, das Zugriffsverhalten der Nutzer nachzuvollziehen, werden nicht eingesetzt.
 
-Bei den Verarbeitungen im Rahmen der technischen Bereitstellung des Internet-Angebots wird durch den Dienstleister Informationstechnikzentrum Bund (ITZBund) unterstützt.
+Bei den Verarbeitungen im Rahmen der technischen Bereitstellung des Internet-Angebots werden wir durch den Dienstleister Informationstechnikzentrum Bund (ITZBund) unterstützt.
 
 ### 9.2 Kontaktformular
 
