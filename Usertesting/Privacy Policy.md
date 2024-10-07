@@ -561,7 +561,7 @@ We may collect the following types of data from you: 
 
 **Third parties**
 
-We may receive some information from you from Study Creators, as a processor for that Study Creator. In all cases, such sharing is related to your participation in their Test, such as sharing a video recording of your participation in a Test. Please note, we do not control how Study Creators use and share your information once they receive it. You will need to contact such Study Creators directly for information about their privacy practices or to exercise rights you may have (including if you would like to opt-out of receiving future emails from a Study Creator). We maintain an up-to-date list of sub-processors at [https://www.usertesting.com/privacy-center/](https://www.usertesting.com/privacy-center/). These lists were last updated in February 2024. 
+We may receive some information from you from Study Creators, as a processor for that Study Creator. In all cases, such sharing is related to your participation in their Test, such as sharing a video recording of your participation in a Test. Please note, we do not control how Study Creators use and share your information once they receive it. You will need to contact such Study Creators directly for information about their privacy practices or to exercise rights you may have (including if you would like to opt-out of receiving future emails from a Study Creator). We maintain an up-to-date list of sub-processors at [https://www.usertesting.com/privacy-center](https://www.usertesting.com/privacy-center). These lists were last updated in February 2024. 
 
 We treat your Test questions, responses and data as information that is private to you. We do not sell your survey data to third parties.
 
