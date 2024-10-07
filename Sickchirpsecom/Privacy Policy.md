@@ -131,6 +131,18 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/jack-doherty-mclaren.webp)](https://www.sickchirpse.com/streamer-jack-doherty-speaks-out-after-crashing-150k-mclaren-while-being-on-his-phone-when-driving/)
+
+### [Streamer Jack Doherty Speaks Out After Crashing £150k McLaren While Being On His Phone When Driving](https://www.sickchirpse.com/streamer-jack-doherty-speaks-out-after-crashing-150k-mclaren-while-being-on-his-phone-when-driving/)
+
+[Read More »](https://www.sickchirpse.com/streamer-jack-doherty-speaks-out-after-crashing-150k-mclaren-while-being-on-his-phone-when-driving/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/joker-2.jpg)](https://www.sickchirpse.com/joker-2-receives-31-on-rotten-tomatoes-1-2-star-on-posttrack-d-on-cinemascore/)
+
+### [Joker 2 Receives 31% On Rotten Tomatoes, 1/2 Star On PostTrack, ‘D’ On CinemaScore](https://www.sickchirpse.com/joker-2-receives-31-on-rotten-tomatoes-1-2-star-on-posttrack-d-on-cinemascore/)
+
+[Read More »](https://www.sickchirpse.com/joker-2-receives-31-on-rotten-tomatoes-1-2-star-on-posttrack-d-on-cinemascore/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/10/daniel-kaluuya-statue-london.jpg)](https://www.sickchirpse.com/daniel-kaluuya-get-out-character-will-be-memorialised-as-a-statue-in-london/)
 
 ### [Daniel Kaluuya’s ‘Get Out’ Character Will Be Memorialised As A Statue In London](https://www.sickchirpse.com/daniel-kaluuya-get-out-character-will-be-memorialised-as-a-statue-in-london/)
@@ -148,18 +160,6 @@ SEND
 ### [Piers Morgan Got Absolutely Rattled When Lowkey Asked Him To Condemn Rupert Murdoch](https://www.sickchirpse.com/piers-morgan-got-absolutely-rattled-when-lowkey-asked-him-to-condemn-rupert-murdoch/)
 
 [Read More »](https://www.sickchirpse.com/piers-morgan-got-absolutely-rattled-when-lowkey-asked-him-to-condemn-rupert-murdoch/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/diddy.jpg)](https://www.sickchirpse.com/diddy-accused-of-abusing-9-year-old-boy-and-spiking-drinks-with-horse-tranquilizer-as-120-victims-come-forward/)
-
-### [Diddy Accused Of Abusing 9-Year-Old Boy And Spiking Drinks With Horse Tranquilizer As 120 Victims Come Forward](https://www.sickchirpse.com/diddy-accused-of-abusing-9-year-old-boy-and-spiking-drinks-with-horse-tranquilizer-as-120-victims-come-forward/)
-
-[Read More »](https://www.sickchirpse.com/diddy-accused-of-abusing-9-year-old-boy-and-spiking-drinks-with-horse-tranquilizer-as-120-victims-come-forward/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/phillip-schofield.webp)](https://www.sickchirpse.com/viewers-furious-phillip-schofield-makes-wild-claim-about-why-he-was-punished-age-gap-relationship/)
-
-### [Viewers Furious As Phillip Schofield Makes Wild Claim About Why He Was Punished For Age-Gap Relationship](https://www.sickchirpse.com/viewers-furious-phillip-schofield-makes-wild-claim-about-why-he-was-punished-age-gap-relationship/)
-
-[Read More »](https://www.sickchirpse.com/viewers-furious-phillip-schofield-makes-wild-claim-about-why-he-was-punished-age-gap-relationship/)
 
 #### trending post
 
