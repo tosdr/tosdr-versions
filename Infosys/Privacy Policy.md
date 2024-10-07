@@ -23,7 +23,6 @@ search cross
 * [Industries](javascript:void(0); "Industries")
 * [Services](javascript:void(0); "Services")
 * [Platforms](javascript:void(0); "Platforms")
-* [Infosys Living Labs](https://living-labs.infosys.com/ "Infosys Living Labs")
 * [Infosys Knowledge Institute](javascript:void(0); "Infosys Knowledge Institute")
 * [About Us](javascript:void(0); "About Us")
 * [Investors](https://www.infosys.com/investors.html "Investors")
