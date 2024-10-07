@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Keshaun-Davenport-and-Emmanuel-Daniels-326x245.jpg)](https://cwbchicago.com/2024/10/man-drove-a-16-year-old-boy-to-englewood-ordered-him-to-murder-another-man-in-a-drive-by-prosecutors-say.html "Man drove a 16-year-old boy to Englewood, ordered him to murder another man in a drive-by, prosecutors say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Ali-Ibrahim-326x245.jpg)](https://cwbchicago.com/2024/10/charges-filed-in-boystown-robbery-battery-cases.html "Charges filed in Boystown robbery, battery cases")
 
-Englewood
+Boystown
 
-### [Man drove a 16-year-old boy to Englewood, ordered him to murder another man in a drive-by, prosecutors say](https://cwbchicago.com/2024/10/man-drove-a-16-year-old-boy-to-englewood-ordered-him-to-murder-another-man-in-a-drive-by-prosecutors-say.html "Man drove a 16-year-old boy to Englewood, ordered him to murder another man in a drive-by, prosecutors say")
+### [Charges filed in Boystown robbery, battery cases](https://cwbchicago.com/2024/10/charges-filed-in-boystown-robbery-battery-cases.html "Charges filed in Boystown robbery, battery cases")
 
-[October 4, 2024 3:30 PM](https://cwbchicago.com/2024/10)
+[October 5, 2024 7:32 AM](https://cwbchicago.com/2024/10)
 
-Prosecutors say a suburban man drove a 16-year-old into the city and ordered the boy to shoot and kill another man in a drive-by this summer. They are both facing murder charges, while a third man is accused of destroying evidence in the case.[](https://cwbchicago.com/2024/10/man-drove-a-16-year-old-boy-to-englewood-ordered-him-to-murder-another-man-in-a-drive-by-prosecutors-say.html "Man drove a 16-year-old boy to Englewood, ordered him to murder another man in a drive-by, prosecutors say")
+Charges have been filed in connection with a violent robbery and a separate battery incident on the Halsted Street nightlife strip in Boystown.[](https://cwbchicago.com/2024/10/charges-filed-in-boystown-robbery-battery-cases.html "Charges filed in Boystown robbery, battery cases")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Stevenson-Pulaski-326x245.jpg)](https://cwbchicago.com/2024/10/railroad-burglars-dive-into-canal-after-swiping-at-least-200-apple-watches.html "Railroad burglars dive into canal after swiping at least 200 Apple Watches")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/25-w-hubbard-chicago-0110-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-dead-in-hubbard-street-nightlife-district-2-detained.html "Man shot dead in Hubbard Street nightlife district, 2 detained")
 
-Archer Heights
+River North
 
-### [Railroad burglars dive into canal after swiping at least 200 Apple Watches](https://cwbchicago.com/2024/10/railroad-burglars-dive-into-canal-after-swiping-at-least-200-apple-watches.html "Railroad burglars dive into canal after swiping at least 200 Apple Watches")
+### [Man shot dead in Hubbard Street nightlife district, 2 detained](https://cwbchicago.com/2024/10/man-shot-dead-in-hubbard-street-nightlife-district-2-detained.html "Man shot dead in Hubbard Street nightlife district, 2 detained")
 
-[October 4, 2024 9:11 AM](https://cwbchicago.com/2024/10)
+[October 5, 2024 6:02 AM](https://cwbchicago.com/2024/10)
 
-A railroad burglary crew nearly got away with 200 boxes of Apple Watches, but most of them wound up in police custody after cops tracked them down along the Chicago Sanitary and Ship Canal in Archer Heights.[](https://cwbchicago.com/2024/10/railroad-burglars-dive-into-canal-after-swiping-at-least-200-apple-watches.html "Railroad burglars dive into canal after swiping at least 200 Apple Watches")
+Police have detained two people for questioning after a man was murdered in the Hubbard Street nightlife district in River North early Saturday morning.[](https://cwbchicago.com/2024/10/man-shot-dead-in-hubbard-street-nightlife-district-2-detained.html "Man shot dead in Hubbard Street nightlife district, 2 detained")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/GABRIEL-GARCIA-VIZCAINO--326x245.jpg)](https://cwbchicago.com/2024/10/migrant-2-others-stole-fragrances-with-nearly-19k-during-ulta-smash-and-grab-prosecutors.html "Migrant, 2 others stole fragrances with nearly $19K during Ulta smash-and-grab: prosecutors")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Hamlin-Park-BB-court-326x245.jpg)](https://cwbchicago.com/2024/10/15-year-old-shot-near-hamlin-park-basketball-courts-on-friday-afternoon.html "15-year-old shot near Hamlin Park basketball courts on Friday afternoon")
 
-Archer Heights
+Lakeview
 
-### [Migrant, 2 others stole fragrances with nearly $19K during Ulta smash-and-grab: prosecutors](https://cwbchicago.com/2024/10/migrant-2-others-stole-fragrances-with-nearly-19k-during-ulta-smash-and-grab-prosecutors.html "Migrant, 2 others stole fragrances with nearly $19K during Ulta smash-and-grab: prosecutors")
+### [15-year-old shot near Hamlin Park basketball courts on Friday afternoon](https://cwbchicago.com/2024/10/15-year-old-shot-near-hamlin-park-basketball-courts-on-friday-afternoon.html "15-year-old shot near Hamlin Park basketball courts on Friday afternoon")
 
-[October 4, 2024 8:31 AM](https://cwbchicago.com/2024/10)
+[October 4, 2024 5:46 PM](https://cwbchicago.com/2024/10)
 
-Prosecutors say a migrant joined two accomplices to steal fragrances worth more than $18,000 from an Ulta Beauty store.[](https://cwbchicago.com/2024/10/migrant-2-others-stole-fragrances-with-nearly-19k-during-ulta-smash-and-grab-prosecutors.html "Migrant, 2 others stole fragrances with nearly $19K during Ulta smash-and-grab: prosecutors")
+A 15-year-old boy was shot inside Hamlin Park on the city’s North Side on Friday afternoon, according to Chicago police. Two armed men, at least one of whom fired shots, remain on the loose.[](https://cwbchicago.com/2024/10/15-year-old-shot-near-hamlin-park-basketball-courts-on-friday-afternoon.html "15-year-old shot near Hamlin Park basketball courts on Friday afternoon")
 
 Search
 
