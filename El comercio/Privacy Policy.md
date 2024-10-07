@@ -31,6 +31,773 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cierre de la Autopista General Rumiñahui genera congestión vehicular
+====================================================================
+
+Además del cierre programado, la lluvia, neblina y siniestros de tránsito complican la movilidad en Quito y sus alrededores.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Congestión vehicular en el puente 8 de la Autopista General Rumiñahui, esta noche](https://www.elcomercio.com/wp-content/uploads/2024/10/autoista.jpg)
+
+El **cierre programado** de un tramo de la **Autopista General Rumiñahui** dificultó la movilidad, la tarde y noche de este domingo 6 de octubre de 2024.
+
+Las cámaras del servicio integrado del **ECU 911** mostraron una larga fila de carros y buses de transporte público en el puente 8, en el ingreso a La Armenia.
+
+### Más noticias
+
+* [Cortes de luz en Quito para este lunes 7 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-lunes-7-octubre-quito.html "Cortes de luz en Quito para este lunes 7 de octubre")
+* [La reforestación tras los incendios en Quito será paso a paso](https://www.elcomercio.com/actualidad/ecuador/reforestacion-incendios-forestales-quito.html "La reforestación tras los incendios en Quito será paso a paso")
+* [Banda dedicada al robo de vehículos y autopartes fue desarticulada en Quito](https://www.elcomercio.com/actualidad/quito/banda-robo-vehiculos-autopartes-quito.html "Banda dedicada al robo de vehículos y autopartes fue desarticulada en Quito")
+
+Usuarios en redes sociales afirmaron que el caos vehicular en este sitio “es imposible”.
+
+Esta vía que une al valle de **Los Chillos** con Quito permanece cerrada desde las **16:00** de este domingo, por la colocación de vigas en el paso elevado.
+
+El cierre vehicular en las intersecciones Av. General Rumiñahui y Loja Quintana; y Gangotena y av. General Rumiñahui se extenderá hasta las **05:00** de este lunes 7 de octubre.
+
+Las principales vías alternas que puedes tomar si te movilizas en este sector son la **av. Princesa Toa**, la Intervalles, Ilaló y la vía antigua a Conocoto.
+
+Otras **calles alternas** son:
+
+* 29 de Mayo
+* Oriente
+* Simón Bolívar
+* Alfredo Gangotena
+* Estadio
+* Manuela Cañizares
+* Andrés de Santa Cruz
+* Camilo Ponce Enríquez
+
+> [#Atención](https://twitter.com/hashtag/Atenci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Cierre de la Autopista General Rumiñahui, en el sector del Puente 8 🛣️  
+>   
+> 📆Desde las 16h00 del domingo 6 de octubre  
+> ⏰Hasta las 5h00 del lunes 7 de octubre  
+>   
+> 🤓Conoce los desvíos habilitados en el sentido Quito – Valle de Los Chillos y viceversa, mientras trabajamos en… [pic.twitter.com/WYdRJsLOie](https://t.co/WYdRJsLOie)
+> 
+> — Prefectura de Pichincha (@PichinchaGob) [October 5, 2024](https://twitter.com/PichinchaGob/status/1842672566751629343?ref_src=twsrc%5Etfw)
+
+Lluvia y neblina en Quito
+-------------------------
+
+En Quito se registra la presencia de **lluvias y neblina** en varios sectores, la noche de este domingo.
+
+Por ello, la Agencia Metropolitana de Tránsito (**AMT**) recomendó tomar mayores precauciones al conducir.
+
+En este tipo de condiciones climáticas, los **siniestros de tránsito** son más propensos, como el registrado pasadas las 19:00 en el sur de la ciudad, en las avenidas Pedro Vicente Maldonado y Guayanay Ñan.
+
+En este sector la movilidad se complicó por el cierre de **dos carriles** en el sentido norte-sur.
+
+Recuerda que el piso mojado dificulta la tracción y el frenado de los neumáticos. Te recomendamos **disminuir la velocidad**, mantener una distancia más larga entre los vehículos y encender las luces.
+
+¿Qué es una ‘folie á deux’?
+===========================
+
+'Joker: Folie a Deux' se estrenó el 3 de septiembre en Ecuador.
+---------------------------------------------------------------
+
+![Joker es interpretado por el actor Joaquin Phoenix y Harley Quinn por Lady Gaga. Foto: instagram @joker.folieadeux](https://www.elcomercio.com/wp-content/uploads/2024/10/folie-a-deux-El-comercio.jpg)
+
+La **_folie à deux_** es un fenómeno real. Aunque se ha popularizado a través del cine, puede manifestarse en la vida cotidiana.
+
+Una vez más el cine nos ofrece una oportunidad única para reflexionar sobre realidades intrigantes, como la compleja relación entre el **Joker y Harley Quinn**.
+
+### Más noticias
+
+* **[Jóvenes se autodiagnostican trastornos mentales basados en información en línea](https://www.elcomercio.com/tendencias/autoetiqueta-salud-mental-redes-sociales-jovenes-ecuador.html "https://www.elcomercio.com/tendencias/autoetiqueta-salud-mental-redes-sociales-jovenes-ecuador.html")**
+* **[Políticas de prevención del suicidio son imperativas](https://www.elcomercio.com/opinion/editorial/politicas-de-prevencion-del-suicidio-son-imperativas.html "https://www.elcomercio.com/opinion/editorial/politicas-de-prevencion-del-suicidio-son-imperativas.html")**
+
+En la **película ‘[Joker: Folie à Deux](joker: Folie %C3%A0 Deux "https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-joaquin-phoenix-lady-gaga.html")**‘, los protagonistas experimentan este fenómeno, cuyo nombre proviene del francés y se traduce literalmente como “**locura de dos**“.
+
+La pareja del momento ilustra cómo dos mentes pueden entrelazarse en un torbellino de locura. Pero, ¿qué factores subyacen a esta perturbadora conexión?
+
+¿Qué es la _folie à deux_?
+--------------------------
+
+![Foto: Instagram @joker.folieadeux](https://www.elcomercio.com/wp-content/uploads/2024/10/folie-a-deux-El-comercio-2-1024x683.jpg)
+
+Foto: Instagram @joker.folieadeux
+
+La _folie à deux_ es un término cada vez menos utilizado en la psiquiatría moderna, pero que sigue captando la atención por la complejidad de su dinámica. Según el psicólogo ecuatoriano Alfonso Bravo, esta condición se manifiesta en dos personas que comparten síntomas delirantes y psicóticos, como alucinaciones o creencias desorganizadas.
+
+Aunque relacionado con patologías como la esquizofrenia y los trastornos delirantes, lo que distingue a _la folie à deux_ es la relación de poder entre los individuos, donde uno suele influir en el otro. En la mayoría de los casos, existe una figura dominante que induce o refuerza los síntomas en la otra persona.
+
+Diagnóstico
+-----------
+
+![Foto: Instagram @joker.folieadeux](https://www.elcomercio.com/wp-content/uploads/2024/10/folie-a-deux-El-comercio-1-1024x683.jpg)
+
+Foto: Instagram @joker.folieadeux
+
+Detectar una _folie à deux_ no es sencillo. Debido a la naturaleza del trastorno, los afectados no buscan ayuda médica, ya que sus delirios compartidos refuerzan sus creencias.
+
+El diagnóstico requiere un equipo de médicos, psiquiatras y psicólogos, quienes analizan la historia clínica de ambos individuos, sus antecedentes personales y familiares, así como su entorno social y psicológico.
+
+Teorías sobre el origen de la _folie a deux_
+--------------------------------------------
+
+![Escena de la cinta 'Joker: Folie a Deux'. Foto: Instagram @joker.folieadeux](https://www.elcomercio.com/wp-content/uploads/2024/10/folie-a-deux-El-comercio-4-1024x683.jpg)
+
+Escena de la cinta ‘Joker: Folie a Deux’. Foto: Instagram @joker.folieadeux
+
+Estudios plantean tres teorías principales para explicar la _folie à deux_. La primera es la teoría del contagio, aunque cada vez menos aceptada. Esta sugiere que el fenómeno es una especie de “enfermedad” que se contagia de una persona a otra, similar a una patología orgánica.
+
+La segunda teoría es la de la patología simultánea, en la que dos personas desarrollan síntomas al mismo tiempo, usualmente dentro de una misma familia. Sin embargo, esta teoría no siempre se ajusta a todos los casos.
+
+### Más del tema
+
+* **[El beso de Lady Gaga y Joaquín Phoenix en el segundo tráiler del Joker](https://www.elcomercio.com/tendencias/beso-lady-gaga-joaquin-phoenix-trailer-joker2.html "https://www.elcomercio.com/tendencias/beso-lady-gaga-joaquin-phoenix-trailer-joker2.html")**
+* **[Lady Gaga lanza nuevo disco inspirado en el ‘Joker’](https://www.elcomercio.com/tendencias/musica/lady-gaga-joker-disco-musica.html "https://www.elcomercio.com/tendencias/musica/lady-gaga-joker-disco-musica.html")** 
+
+La tercera, y quizás más aceptada, es la teoría de la locura inducida, donde una **persona con rasgos psicóticos** influye en otra, quien se deja llevar por la patología del primero debido a sus propias vulnerabilidades.
+
+Según algunos estudios, la persona pasiva podría curarse separándose de la figura dominante, pero esto no es aplicable a todos los casos.
+
+Tratamiento y perspectivas
+--------------------------
+
+![Escena de la cinta 'Joker: Folie a Deux'. Foto: Instagram @joker.folieadeux](https://www.elcomercio.com/wp-content/uploads/2024/10/folie-a-deux-El-comercio-3-1024x683.jpg)
+
+Escena de la cinta ‘Joker: Folie a Deux’. Foto: Instagram @joker.folieadeux
+
+El **tratamiento de la _folie à deux_** no se limita a una simple “cura”. Bravo resalta que no se trata solo de corregir los síntomas, sino de acompañar a los individuos en un proceso de aprendizaje de nuevas habilidades conductuales.
+
+Se requiere una intervención multidisciplinaria que incluya sesiones médicas, terapias psicológicas individuales y grupales, apoyo social y generación ocupacional.
+
+Peligros potenciales y síntomas
+-------------------------------
+
+![Joaquin Phoenix y Lady Gaga protagonizan la secuela del Joker. Fotos: IMDB](https://www.elcomercio.com/wp-content/uploads/2024/08/joker-el-comercio-1024x683.jpg)
+
+Joaquin Phoenix y Lady Gaga protagonizan la secuela del Joker. Fotos: IMDB
+
+Todo depende de los síntomas asociados. Estudios señalan que los síntomas pueden ser similares a los de la psicosis: delirios, alucinaciones, comportamientos extraños o atípicos, pero no siempre incluyen agresividad.
+
+Un ejemplo de una locura compartida son los casos los de sectas, en los que un líder puede influenciar a un grupo, llevándolos a compartir comportamientos delirantes y antisociales, como en los suicidios masivos. La _folie à deux_ es un fenómeno raro, pero complejo.
+
+Cortes de luz en Quito para este lunes 7 de octubre
+===================================================
+
+La Empresa Eléctrica Quito informó que los apagones programados se reducirán a dos y cuatro horas, dependiendo de los sectores.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Los apagones se realizarán de acuerdo a cinco franjas horarias](https://www.elcomercio.com/wp-content/uploads/2024/10/quito-oc.jpg)
+
+La Empresa Eléctrica Quito (**EEQ**) detalló el cronograma de **cortes de luz** que tendrá la ciudad hasta este jueves 10 de octubre.
+
+La capital mantendrá **apagones programados** que durarán entre dos y **cuatro horas**, dependiendo de cada sector.
+
+### Más noticias
+
+* [Horarios de cortes de luz en Ecuador hasta el jueves 10 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-ecuador-octubre-10.html "Horarios de cortes de luz en Ecuador hasta el jueves 10 de octubre")
+* [13 perros en condición de maltrato, rescatados en Quito](https://www.elcomercio.com/actualidad/13-perros-en-condicion-de-maltrato-rescatados-en-quito-puengasi.html "13 perros en condición de maltrato, rescatados en Quito")
+* [La reforestación tras los incendios en Quito será paso a paso](https://www.elcomercio.com/actualidad/ecuador/reforestacion-incendios-forestales-quito.html "La reforestación tras los incendios en Quito será paso a paso")
+
+Estos cortes se distribuirán en **cinco franjas horarias**: en la madrugada y mañana, con suspensiones de hasta tres horas seguidas; y en la noche, de dos horas.
+
+Cortes de luz en Quito
+----------------------
+
+### De 00:00 a 03:00 y 19:00 a 20:00
+
+* Olímpico
+* Barrio Nuevo
+* El Bosque
+* San Antonio
+* Alangasí
+* San Rafael
+* Iñaquito
+* Santa Rosa
+* Sangolquí
+* Pomasqui
+* El Quinche
+* Eugenio Espejo
+
+### Desde 02:00 hasta 04:00 y de 20:00 a 22:00
+
+* Chimbacalle
+* Belisario Quevedo
+* Granda Centeno
+* Gualo
+* Andalucía
+* Cotocollao
+* Inga Bajo
+
+### De 03:00 a 05:00
+
+* Luluncoto
+* Chilibulo
+* San Roque
+* Río Coca
+* Andalucía
+* Cotocollao
+* Conocoto
+* Alangasí
+* Santa Rosa
+* Inga Bajo
+
+### De 03:00 a 06:00 y 18:00 a 19:00
+
+* La Carolina
+* Nueva Cumbayá
+* Mirador Alto
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+### Desde 05:00 hasta 08:00 y de 20:00 a 21:00
+
+* Luluncoto
+* Chilibulo
+* Miraflores
+* La Floresta
+* Río Coca
+* Cristianía
+* Epiclachima
+* Conocoto
+* Tumbaco
+
+Este es el cronograma de cortes de luz completo por **barrios** para los días: lunes 7, martes 8, miércoles 9 y jueves 10 de octubre.
+
+Además, la EEQ puso a disposición de la ciudadanía una [página web](https://arcgis.eeq.com.ec/portal/apps/instant/minimalist/index.html?appid=f3c3f3b184ab44debc4978b9c380bc1d "https://arcgis.eeq.com.ec/portal/apps/instant/minimalist/index.html?appid=f3c3f3b184ab44debc4978b9c380bc1d") con un **mapa interactivo**.
+
+En este sitio web, los quiteños pueden observar los cortes en su sector con **mayor facilidad**
+
+Estos horarios podrían reducirse dependiendo de las condiciones de las centrales hidroeléctricas en el país.
+
+Hasta el domingo 6 de octubre, el embalse de la hidroeléctrica **Mazar**, uno de los más importantes del Ecuador, perdió dos metros desde el jueves 3 de octubre.
+
+Su estado se ubica en los **2 117,8 metros** sobre el nivel de mar.
+
+Este descenso se debe a la falta de lluvias considerables en el Austro. El caudal se mantiene bajo en los ríos Tomebamba, Yanuncay, Machángara y Tarqui.  
+
+Hermano menor de Madonna falleció a los 63 años
+===============================================
+
+El diseñador y artista falleció rodeado de sus seres queridos tras luchar contra el cáncer.
+-------------------------------------------------------------------------------------------
+
+![Christopher Ciccone junto a Madonna. Foto: X](https://www.elcomercio.com/wp-content/uploads/2024/10/madonna-El-comercio-1.jpg)
+
+**Christopher Ciccone**, **hermano menor de Madonna**, falleció el 4 de octubre a los 63 años. Así lo dieron a conocer medios internacionales.
+
+El deceso se produjo tras una dura batalla contra el cáncer. Según informó The Hollywood Reporter, el artista estuvo acompañado por su esposo, Ray Thacker, y otros familiares cercanos en sus últimos momentos.
+
+### Más noticias
+
+* **[‘Tengo mucho que no puedo contar’, dijo Ashton Kutcher de las fiestas de P. Diddy](https://www.elcomercio.com/tendencias/trending/fiestas-de-p-diddy.html "https://www.elcomercio.com/tendencias/trending/fiestas-de-p-diddy.html")**
+* **[Shakira inspira una serie de streaming llamada ‘Celeste’](https://www.elcomercio.com/afull/shakira-serie-celeste-streaming-movistar.html "https://www.elcomercio.com/afull/shakira-serie-celeste-streaming-movistar.html")**
+
+Ciccone tuvo un papel destacado en la carrera de su hermana, Madonna, actuando como su asesor creativo y colaborando en la dirección artística de giras como Blond Ambition (1990) y The Girlie Show (1993).
+
+![Christopher Ciccone.  Foto: X](https://www.elcomercio.com/wp-content/uploads/2024/10/madonna-El-comercio-3-1024x683.jpg)
+
+**[Christopher Ciccone](https://www.instagram.com/cgciccone/?hl=es "https://www.instagram.com/cgciccone/?hl=es")**. Foto: X
+
+Además de su influencia en el mundo del espectáculo, Christopher también dejó su marca en el diseño de interiores, muebles y calzado, desarrollando proyectos en ciudades como Nueva York, Miami y Los Ángeles.
+
+Una relación de altibajos con la Reina del Pop
+----------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/madonna-El-comercio-2-1024x683.jpg)
+
+En 2008, Ciccone publicó ‘Life With My Sister Madonna’, un libro en el que expresó su descontento por ciertos eventos, como cuando Madonna lo identificó como gay en una entrevista de 1991.
+
+Esta publicación generó rumores de un distanciamiento entre los hermanos, aunque en entrevistas posteriores, como en 2012, Christopher aseguró que la relación con Madonna había mejorado. “Estamos de nuevo como hermanos”, comentó en esa ocasión.
+
+Nació el 20 de noviembre de 1960 en Michigan y fue el quinto hijo de **Madonna Louise** y **Silvio Patrick Ciccone**.
+
+En sus últimos años, Ciccone se instaló en Michigan, cerca de su familia, que gestiona la vinícola Ciccone Vineyards. Además de su esposo, le sobreviven su padre, sus hermanos y sobrinos.
+
+La familia ya había enfrentado la muerte de su madrastra Joan y su hermano Anthony a principios de 2024.
+
+Historia de madre que quiso entrar con su hijo a una entrevista de trabajo se viralizó
+======================================================================================
+
+Una insólita historia le ocurrió a una reclutadora española y se ha vuelto viral en las redes sociales.
+-------------------------------------------------------------------------------------------------------
+
+![Madre e hijo posan juntos. Fotos referencial: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/entrevista-trabajo-El-comercio-1.jpg)
+
+Hace unos días se volvió **viral una historia en TikTok**, donde una reclutadora española llamada Alba Vilches compartió una experiencia que tuvo con un joven en busca de trabajo.
+
+“Una de las peores cosas que me ha pasado en una entrevista: que una madre quiera entrar con su hijo. Me ha pasado, y no solo una o dos veces, sino muchas”, comentó Vilches.
+
+### Más noticias
+
+* **[La búsqueda de empleo se transforma con el ‘reverse recruiting’](https://www.elcomercio.com/tendencias/reverse-recruiting-ecuador-empleos-trabajo.html "https://www.elcomercio.com/tendencias/reverse-recruiting-ecuador-empleos-trabajo.html")**
+* **[¿Cuáles son los trabajos más infelices, según Harvard](https://www.elcomercio.com/afull/trabajos-infelices-harvard.html "https://www.elcomercio.com/afull/trabajos-infelices-harvard.html")**?
+
+Según ella, todo ocurrió cuando llamó al candidato para una entrevista y, para su sorpresa, la madre no lo dejó entrar solo. Fue la primera vez que presenciaba algo así.
+
+“La primera vez, estaba buscando a mi candidato, salí a una sala donde varias personas esperaban para diferentes procesos de selección. Había una señora mayor al lado de un chico, el mismo que aparecía en el currículum, así que lo llamé”, relató.
+
+La sorprendente insistencia de la madre
+---------------------------------------
+
+Al llamar al joven, jamás pensó que la madre también se levantaría junto con él para entrar a la entrevista, algo que sorprendió a Alba, ya que nunca le había pasado antes.
+
+“Llamé a ‘Fulanito’, y me dijo ‘sí, soy yo’. Se levantó, y la señora a su lado también, diciendo ‘soy la madre de ‘Fulanito’ y vengo a entrar a la entrevista’. Imagínense ese momento. Obviamente, le dije: ‘Mire señora, la entrevista es para su hijo, le agradecería que usted espere aquí’”, explicó Alba.
+
+Alba trató de ser lo más amable posible, ya que la madre insistía en entrar con su hijo, argumentando que necesitaba saber qué le dirían y qué tipo de empresa era, debido a las estafas de hoy en día.
+
+¿Entró o no entró?
+------------------
+
+“Yo soy su madre y él es mi hijo, tengo que saber dónde se mete y qué le están diciendo, porque hoy en día hay muchas estafas”, comentó la mujer, según la ‘influencer’.
+
+Alba no podía creer lo que estaba ocurriendo, pues era una buena oportunidad para el joven, y la estaba perdiendo. Finalmente, la reclutadora le dijo amablemente: “Lo siento mucho, pero la entrevista es solo para su hijo; entra él, o no entra nadie”. Al final, nadie entró.
+
+Las redes sociales no tardaron en reaccionar, criticando la actitud de la madre que hizo perder una gran oportunidad a su hijo.
+
+“No falta la que llegue con el marido”, “Es increíble que alguien no pueda ir solo”, “Una amiga quería entrar con el novio”, “A las entrevistas se entra solo”, “No me imagino a un padre queriendo entrar con su hijo”, fueron algunos de los comentarios.
+
+Horarios de cortes de luz en Ecuador hasta el jueves 10 de octubre
+==================================================================
+
+El Ministerio de Energía informó los cronogramas de apagones programados para las nueve empresas eléctricas del país.
+---------------------------------------------------------------------------------------------------------------------
+
+![Ecuador tiene cortes de luz programados debido al desabastecimiento de las centrales hidroeléctricas](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-ecuador.jpg)
+
+El Ministerio de Energía informó los cronogramas de **cortes de luz** que tendrá Ecuador para los cuatro primeros días de la próxima semana, entre el **lunes 7** al **jueves 10** de octubre de 2024.
+
+Los apagones programados durarán hasta **cuatro horas seguidas**, dependiendo de cada sector.
+
+### Más noticias
+
+* [Empresas privadas se muestran ‘preocupadas’ por racionamiento industrial](https://www.elcomercio.com/actualidad/negocios/empresas-privadas-racionamiento-industria-cortes-luz.html "Empresas privadas se muestran ‘preocupadas’ por racionamiento industrial")
+* [Cortes de luz en Quito para este domingo 6 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-este-domingo-6-de-octubre.html "Cortes de luz en Quito para este domingo 6 de octubre")
+* [Los embalses de las centrales Mazar y Paute bajaron](https://www.elcomercio.com/actualidad/negocios/embalses-centrales-mazar-paute-bajaron.html "Los embalses de las centrales Mazar y Paute bajaron")
+
+Este **anuncio tardío**, difundido a las 17:30 de este domingo 6 de octubre, causó la **molestia** de la ciudadanía, debido a la incertidumbre que provocó el no conocer con tiempo la programación.
+
+Programación de cortes de luz
+-----------------------------
+
+La cartera de Estado detalló la programación de cortes de luz que tendrán las **nueve empresas eléctricas** que operan en el país.
+
+La suspensión del servicio eléctrico se ejecutará durante cuatro horas seguidas en la mañana, entre las **00:00 y 08:00**.
+
+Mientras que en los horarios nocturnos, los cortes serán de **dos horas**, entre las 18:00 a 22:00.
+
+Empresas eléctricas en Ecuador
+------------------------------
+
+Para conocer la información detallada de los horarios y sectores con cortes de luz deberás ingresar a la **página web** de cada empresa eléctrica.
+
+O a su vez, ingresar al [portal digital](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2 "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2") que dispuso el Ministerio de Energía, donde se concentran todos los cronogramas.
+
+Estas son las empresas eléctricas que brindan servicio en cada provincia:
+
+* **CNEL**: Bolívar, El Oro, Esmeraldas, Guayas, Los Ríos, Manabí, Santa Elena, Orellana, Santo Domingo de los Tsáchilas y Sucumbíos.
+* **Empresa Eléctrica Quito**: Quito
+* **Emel Norte**: Carchi, Imbabura y Pichincha
+* **Elepcosa**: Cotopaxi
+* **Eeasa**: Tungurahua, Pastaza, Morona Santiago, Napo
+* **Eersa**: Chimborazo
+* E**mpresa Eléctrica Azogues**: Cañar
+* **Centro Sur**: Azuay
+* **Regional del Sur**: Loja, Zamora Chinchipe
+
+> 📍IMPORTANTE  
+>   
+> Conoce los horarios de suspensión del servicio de energía eléctrica, a escala nacional, desde el 07 hasta el 10 de octubre.  
+>   
+> Conoce la programación en▶️ [https://t.co/4YfPN33PnD](https://t.co/4YfPN33PnD) [pic.twitter.com/3BEssv90vD](https://t.co/3BEssv90vD)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 6, 2024](https://twitter.com/RecNaturalesEC/status/1843056133617090727?ref_src=twsrc%5Etfw)
+
+Mazar redujo sus niveles
+------------------------
+
+El embalse de la **hidroeléctrica Mazar** perdió dos metros en los últimos cuatro días.
+
+De acuerdo con el Ministerio de Energía, desde el jueves 3 hasta este domingo 6 de octubre, la central se ubica en los **2 117,8 metros** sobre el nivel de mar.
+
+El descenso se debe a dos factores. El primero es que las lluvias de intensidad en el Austro se ausentaron otra vez. Eso ocasionó que el caudal de los ríos **Tomebamba, Yanuncay, Machángara y Tarqui** regresen a niveles considerados como bajos.
+
+Los ríos **Santa Barbará, San Francisco, Burgay y Paute** no tienen grandes cantidades de caudal. 
+
+En los últimos tres días, el caudal promedio, que recibe el embalse de Mazar, se redujo de 26,26 a 14,79 en los últimos tres días. Cuando se registraron las lluvias de intensidad en Cuenca (fin de semana anterior) promedió los 43,08, según datos de **Celec Sur.**
+
+Este embalse puede almacenar hasta 410 millones de metros cúbicos de agua.
+
+Activa el Modo Harry Potter en WhatsApp
+=======================================
+
+La aplicación de mensajería está en constante actualización de funciones.
+-------------------------------------------------------------------------
+
+![Protagonistas de la saga de Harry Potter. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/whatsapp-harry-potter-El-comercio.jpg)
+
+Si te encanta Harry Potter y quieres llevarlo a todas partes, **WhatsApp** te ayuda.
+
+Los fans del **universo de Harry Potter** pueden disfrutar de una experiencia mágica dentro de la aplicación con el Modo Harry Potter.
+
+Esta función añade un toque de fantasía a la plataforma de mensajería.
+
+¿Qué es el modo Harry Potter en WhatsApp?
+-----------------------------------------
+
+El Modo Harry Potter es una función temática inspirada en la popular **saga de J.K. Rowling**. Con este modo, los usuarios pueden transformar su experiencia de chat con elementos mágicos que evocan el mundo de Hogwarts.
+
+No solo cambia la estética de la aplicación, sino que también introduce efectos visuales y sonoros que harán que tus conversaciones se sientan como si estuvieras dentro de la historia.
+
+Este modo permite personalizar el fondo de pantalla de los chats, añadir efectos especiales y utilizar stickers y emojis temáticos, transportando a los usuarios al mágico universo de Harry Potter con cada mensaje enviado.
+
+¿Para qué sirve el modo Harry Potter?
+-------------------------------------
+
+El objetivo principal del Modo Harry Potter es hacer que la mensajería sea más divertida y creativa. Los usuarios pueden disfrutar de características especiales como:
+
+* **Personalización de chats**: Los colores y fondos de los mensajes pueden adaptarse al estilo de Hogwarts o a otras ubicaciones icónicas de la saga.
+* **Efectos especiales**: Se pueden añadir efectos visuales y sonoros que hacen que los mensajes se muestren de manera mágica, como las “apariciones” de emojis.
+* **Stickers y GIFs temáticos**: Interactuar de forma creativa con otros fanáticos de la saga a través de stickers y gifs de Harry Potter.
+
+¿Cómo activar el modo Harry Potter en WhatsApp?
+-----------------------------------------------
+
+Activar el Modo Harry Potter es sencillo y puede hacerse en pocos pasos. A continuación, te mostramos cómo lograrlo:
+
+1. **Actualizar la aplicación**: Asegúrate de tener la última versión de WhatsApp instalada en tu dispositivo. Ve a la tienda de aplicaciones (Google Play Store o Apple App Store) y verifica si hay actualizaciones disponibles.
+2. **Acceder a la configuración**: Abre WhatsApp, dirígete a la sección de “Configuración”. En Android, toca los tres puntos en la esquina superior derecha, y en iOS, desliza hasta la parte inferior de la pantalla.
+3. **Seleccionar ‘Temas’**: Dentro de la configuración, busca la opción ‘Chats’ y luego selecciona ‘Temas’.
+4. **Activar el modo Harry Potter**: Busca el tema Modo Harry Potter y actívalo. La aplicación se transformará automáticamente.
+5. **Explorar las nuevas funciones**: Una vez activado, explora las nuevas opciones como stickers, efectos visuales y fondos personalizados.
+
+Una experiencia mágica en tus conversaciones
+--------------------------------------------
+
+El Modo Harry Potter de WhatsApp es una adición creativa que combina la tecnología con la magia, ofreciendo una manera diferente de comunicarse. Ya sea para sorprender a un amigo o para hacer que tus chats diarios sean más especiales, esta función está diseñada para quienes desean un toque de fantasía en sus conversaciones.
+
+Empresas privadas se muestran ‘preocupadas’ por racionamiento industrial
+========================================================================
+
+El Ministerio de Energía anunció el racionamiento de 10 horas diarias de forma temporal.
+----------------------------------------------------------------------------------------
+
+![Los cortes en la industria se extenderán durante 15 días](https://www.elcomercio.com/wp-content/uploads/2024/10/cenace.jpg)
+
+El ministro de Energía, **Antonio Goncalves**, dispuso el racionamiento del **100 % de la energía eléctrica** en el sector industrial, durante **10 horas** al día, de forma temporal.
+
+Según detalló el funcionario a través de un comunicado oficial, la medida se aplicará durante **15 días**, a partir del 4 de octubre de 2024, “hasta recuperar las reservas energéticas de la Central de Mazar”.
+
+### Más noticias
+
+* [Cortes de luz en Quito para este domingo 6 de octubre](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-este-domingo-6-de-octubre.html "Cortes de luz en Quito para este domingo 6 de octubre")
+* [Los embalses de las centrales Mazar y Paute bajaron](https://www.elcomercio.com/actualidad/negocios/embalses-centrales-mazar-paute-bajaron.html "Los embalses de las centrales Mazar y Paute bajaron")
+* [Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas](https://www.elcomercio.com/actualidad/negocios/nivel-de-mazar-se-recupera-tras-las-lluvias-pero-tres-hidroelectricas-siguen-apagadas.html "Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas")
+
+La decisión se aplica, de acuerdo con la cartera de Estado, entre las **08:00 y las 18:00**, “para salvaguardar el sistema eléctrico a nivel nacional y las reservas energéticas de los embalses”.
+
+El racionamiento estará a cargo del Operador Nacional de Electricidad (**Cenace**) y de la Agencia de Regulación y Control de las Telecomunicaciones (**Arcotel**), señala el oficio.
+
+Cámaras de Comercio y empresas privadas reaccionaron a la media
+---------------------------------------------------------------
+
+Cámaras de Comercio y **empresas privadas** reaccionaron ante la decisión del Ministerio de Energía.
+
+La Cámara de Comercio de Quito (**CCQ**), por ejemplo, mostró “**su profunda preocupación**” ante la decisión de racionar el sector industrial.
+
+“Entendemos la gravedad de la crisis energética y la necesidad de tomar medidas urgentes. Sin embargo, estas acciones no deben ser implementadas sin considerar el impacto devastador de la producción, el empleo y la economía”, detalló la entidad.
+
+La Cámara instó a las autoridades a “revisar esta medida y buscar **soluciones alternativas**“.
+
+Ante ello, propuso conformar mesas técnicas de trabajo con “representantes de cada gremio (…) para encontrar medidas menos drásticas como un uso más eficiente de la energía”.
+
+Según la organización, “las empresas de comercio e industrias no podrán sostener empleos en estas condiciones”.
+
+**Mónica Heller**, presidenta de la CCQ, detalló que la ministra de Producción, **Sonsoles García**, aseguró a los empresarios que la situación es **grave**.
+
+“Es una medida dura de tomar, pero que dada la emergencia en el sector eléctrico, no hay alternativa”, habría dicho Sonsoles, según Heller.
+
+> 🚨Pronunciamiento de la CCQ frente a la desconexión del sector industrial 🏭 [pic.twitter.com/h6e48RWkr4](https://t.co/h6e48RWkr4)
+> 
+> — Cámara de Comercio de Quito (@lacamaradequito) [October 5, 2024](https://twitter.com/lacamaradequito/status/1842682019848839168?ref_src=twsrc%5Etfw)
+
+Algo similar refirió **Andrés Robalino**, director ejecutivo de la Cámara de Industrias, Producción y Empleo (Cipem), quien aseguró que varias empresas de Ecuador vieron paralizado su trabajo este sábado 5 y domingo 6 de octubre de 2024.
+
+Empresas privadas cierran sus operaciones temporalmente
+-------------------------------------------------------
+
+Empresas privadas como Continental tomaron la decisión de cerrar sus operaciones durante varios días.
+
+La empresa difundió un comunicado en el que señaló que tras la decisión del Cenece, de desconectar de servicio eléctrico al sector industrial, “se ha ocasionado la **paralización** de la planta hasta el lunes 7 de octubre en todos los turnos”.
+
+“Esta parada obedece a un evento de **fuera mayor**, ya que no es viable prender y apagar las máquinas continuamente”, afirmó.
+
+El **Comité Empresarial Ecuatoriano**, días atrás, aseguró que la industria pierde **96 millones de dólares** a nivel nacional a consecuencia de los cortes de luz.
+
+Estas pérdidas están calculadas por cada ocho horas de **apagones programados**.
+
+Liga de Quito se reencontró con la victoria ante Orense
+=======================================================
+
+Liga de Quito volvió a ganar en la LigaPro frente a Orense y mantiene la punta del campeonato nacional.
+-------------------------------------------------------------------------------------------------------
+
+![Fernando Cornejo luego de marcar el primer gol de Liga de Quito ante Orense.](https://www.elcomercio.com/wp-content/uploads/2024/10/cornejo.png)
+
+Este domingo 6 de octubre de 2024, Liga Deportiva Universitaria de Quito venció a Orense en el marco de la segunda fase de la LigaPro. Los albos llegaron al encuentro tras una racha negativa, marcada por su reciente eliminación en la Copa Ecuador a manos de El Nacional en penales.
+
+Más noticias
+------------
+
+* [Partido de Liga de Quito casi suspendido por dos detonaciones en la barra](https://www.elcomercio.com/deportes/futbol/partido-liga-de-quito-casi-suspendido-por-detonaciones.html "Partido de Liga de Quito casi suspendido por dos detonaciones en la barra")
+* [Gonzalo Valle, del banco de Liga de Quito a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/gonzao-valle-seleccion-ecuador-convocado.html "Gonzalo Valle, del banco de Liga de Quito a la Selección de Ecuador")
+* [Liga de Quito sumó su cuarto fracaso en el 2024](https://www.elcomercio.com/deportes/futbol/liga-quito-fracasos-temporada2024-eliminacion.html "Liga de Quito sumó su cuarto fracaso en el 2024")
+
+El partido, disputado en el estadio **Rodrigo Paz Delgado**, se vio afectado por incidentes en las gradas que provocaron la **suspensión temporal del juego**.
+
+Desde el arranque del encuentro, Liga de Quito tomó la iniciativa. Los dirigidos por **‘Vitamina’ Sánchez** lograron mantener el control del balón durante los primeros minutos. Entre los jugadores más destacados se encontraban Alex Arce y Fernando Cornejo, quienes contribuyeron al ataque.
+
+A los 18 minutos, un gol de **Alzugaray** fue anulado por fuera de juego. Sin embargo, dos minutos después, **Fernando Cornejo** abrió el marcador con un potente remate desde fuera del área, que dejó sin reacción al arquero de Orense, Rolando Silva.
+
+> ⏸️ Al descanso ¡VAMOS LIGA!  
+>   
+> 🆚 [#LIGAOrense](https://twitter.com/hashtag/LIGAOrense?src=hash&ref_src=twsrc%5Etfw) 1×0  
+> 🏆 [#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/h0fW7T9xlE](https://t.co/h0fW7T9xlE)
+> 
+> — LDU Oficial (@LDU\_Oficial) [October 6, 2024](https://twitter.com/LDU_Oficial/status/1843027083779522782?ref_src=twsrc%5Etfw)
+
+Interrupciones por incidentes en la hinchada
+--------------------------------------------
+
+El dominio de Liga continuó tras el primer gol, aunque Orense tuvo una oportunidad clara de empatar a los 30 minutos con un cabezazo de **Nicolás Servetto** que pasó cerca del arco defendido por Dida Domínguez.
+
+Sin embargo, el partido tuvo que ser suspendido en dos ocasiones debido a la detonación de explosivos en la barra de Liga de Quito.
+
+La primera interrupción se solucionó después de que los parlantes del estadio advirtieran que el partido no continuaría si los incidentes persistían. Jugadores de Liga, incluidos algunos de los más experimentados, se acercaron **a dialogar con la hinchada**, que manifestaba su descontento por el desempeño del equipo en los últimos partidos.
+
+> Se escucharon detonaciones en el general sur baja. Dos veces se escucharon estruendos. Se paralizó el partido. Los jugadores de [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw) fueron a hablar con la hinchada. Lograron captar a uno de ellos. Increíble lo que pasó en el estadio 🏟️ [pic.twitter.com/zEjJC7Bqqx](https://t.co/zEjJC7Bqqx)
+> 
+> — Maité Montalvo (@maitemontalvog) [October 6, 2024](https://twitter.com/maitemontalvog/status/1843023648313233735?ref_src=twsrc%5Etfw)
+
+Este diálogo se extendió por varios minutos, hasta que el juego fue reanudado con la advertencia de una suspensión definitiva en caso de un tercer incidente.
+
+Liga de Quito sentenció el partido en el segundo tiempo
+-------------------------------------------------------
+
+El segundo tiempo inició con Liga de Quito buscando ampliar la ventaja. Aunque los albos generaron varias oportunidades, el arquero de Orense, **Rolando Silva**, se mostró imbatible en los primeros minutos de la etapa complementaria. Sin embargo, Orense no logró generar peligro y se mantuvo replegado.
+
+Finalmente, a los 78 minutos, un **remate de Ramírez dentro del área sentenció el partido con el 2-0** definitivo. Con esta victoria, Liga de Quito sumó tres puntos y alcanzó la cima de la tabla de posiciones en la LigaPro.
+
+Partido de Liga de Quito casi suspendido por dos detonaciones en la barra
+=========================================================================
+
+Debido a dos detonaciones en la barra de Liga, el partido casi se suspende en el primer tiempo frente a Orense.
+---------------------------------------------------------------------------------------------------------------
+
+![Jugadores de Liga de Quito festejando el primer gol frente a Orense.](https://www.elcomercio.com/wp-content/uploads/2024/10/liga.png)
+
+Este domingo 6 de octubre de 2024, **Liga de Quito se enfrentó a Orense** en el estadio Rodrigo Paz Delgado, en un encuentro correspondiente a la segunda fase de la **LigaPro**. Sin embargo, el partido estuvo cerca de ser **suspendido debido a incidentes** con la barra de Liga, que detonó explosivos en dos ocasiones.
+
+### Más noticias
+
+* [Gonzalo Valle, del banco de Liga de Quito a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/gonzao-valle-seleccion-ecuador-convocado.html "Gonzalo Valle, del banco de Liga de Quito a la Selección de Ecuador")
+* [El Nacional se ‘burla’ de Liga de Quito en redes sociales](https://www.elcomercio.com/deportes/futbol/el-nacional-community-manager-liga.html "El Nacional se ‘burla’ de Liga de Quito en redes sociales")
+* [Mario Pineida asume error, pero envía nuevo dardo a Liga de Quito](https://www.elcomercio.com/deportes/mario-pineida-disculpas-liga-quito.html "Mario Pineida asume error, pero envía nuevo dardo a Liga de Quito")
+
+El ambiente en el estadio estuvo tenso desde el inicio, ya que los aficionados mostraron su malestar por el rendimiento del equipo, que venía de una **eliminación en la Copa Ecuador** a manos de El Nacional, tras una **definición por penales**.
+
+Los albos no han conseguido victorias en los últimos encuentros, lo que ha incrementado la frustración de los seguidores.
+
+Detonaciones casi suspenden el partido de Liga de Quito
+-------------------------------------------------------
+
+El partido fue detenido por primera vez tras una detonación en la **general sur baja**, sector donde se encontraba la barra de Liga. Las autoridades del estadio advirtieron por los altavoces que, de continuar las detonaciones, el encuentro sería suspendido de manera definitiva.
+
+Ante esto, varios jugadores del equipo, entre ellos **Alexander Domínguez y Ezequiel Piovi,** se acercaron a dialogar con los hinchas para calmar los ánimos.
+
+> Se escucharon detonaciones en el general sur baja. Dos veces se escucharon estruendos. Se paralizó el partido. Los jugadores de [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw) fueron a hablar con la hinchada. Lograron captar a uno de ellos. Increíble lo que pasó en el estadio 🏟️ [pic.twitter.com/zEjJC7Bqqx](https://t.co/zEjJC7Bqqx)
+> 
+> — Maité Montalvo (@maitemontalvog) [October 6, 2024](https://twitter.com/maitemontalvog/status/1843023648313233735?ref_src=twsrc%5Etfw)
+
+Tras aproximadamente siete minutos de conversación, el partido pudo reanudarse, aunque bajo la advertencia de que una tercera interrupción implicaría la suspensión total del encuentro.
+
+En lo futbolístico, los primeros minutos estuvieron dominados por Liga, que mostró mayor control del balón bajo la dirección de su entrenador, **‘Vitamina’ Sánchez**.
+
+Liga de Quito gana el partido
+-----------------------------
+
+A los 18 minutos, Ignacio Alzugaray marcó un gol para los albos, pero fue anulado por fuera de juego. No obstante, pocos minutos después, **Fernando Cornejo** abrió el marcador con un impresionante remate desde fuera del área, poniendo e**l 1-0 a favor de los locales**.
+
+El gol le dio confianza a Liga, que empezó a generar más ocasiones de peligro. Alex Arce estuvo cerca de ampliar la ventaja, pero su disparo pasó rozando el poste. Orense, por su parte, tuvo pocas llegadas claras al arco defendido por **Dida Domínguez**, destacándose una ocasión al minuto 30 con un cabezazo de Nicolás Servetto que pasó cerca.
+
+> 77’ | GOOOOOOOOL ALBOOOOOOOOOO ¡RAMÍREEEEEEZ!  
+>   
+> ⚽️ Bryan Ramírez  
+>   
+> 🆚 [#LIGAOrense](https://twitter.com/hashtag/LIGAOrense?src=hash&ref_src=twsrc%5Etfw) 2×0  
+> 🏆 [#LigaProEcuabet](https://twitter.com/hashtag/LigaProEcuabet?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/DZbTcEJM9I](https://t.co/DZbTcEJM9I)
+> 
+> — LDU Oficial (@LDU\_Oficial) [October 6, 2024](https://twitter.com/LDU_Oficial/status/1843038082674942295?ref_src=twsrc%5Etfw)
+
+En el segundo tiempo, Liga continuó buscando el arco rival con insistencia, pero se encontró con un inspirado Rolando Silva, arquero de Orense, quien detuvo varias oportunidades claras de gol. Orense intentó reaccionar, pero tuvo dificultades para generar peligro en los primeros 15 minutos del complemento.
+
+A los 78 minutos, Ramírez tras un remate dentro del área marcó el 2-0 a favor del cuadro albo.
+
+Investigadores describen nueva especie de rana de la Amazonía
+=============================================================
+
+La nueva rana que los científicos describieron se encuentra en la Cordillera del Cóndor y rinden homenaje al pueblo Shuar.
+--------------------------------------------------------------------------------------------------------------------------
+
+![La nueva especie de rana encontrada en la Amazonía: Noblella arutam.](https://www.elcomercio.com/wp-content/uploads/2024/10/rana-sabia.jpg)
+
+Con el nombre de Noblella arutam, **investigadores** de la **Universidad San Francisco de Quito (USFQ)** y del **Instituto Nacional de Biodiversidad (Inabio)** describieron una nueva **especie** de **rana**, en la Amazonía de Ecuador. Es una nueva especie de rana de hojarasca del género _Noblella_.
+
+### Más noticias
+
+* [¿Tu gato te quiere? La ciencia revela el lenguaje de los felinos](https://www.elcomercio.com/narices-frias/gatos-lenguaje-ciencia-mascotas.html "¿Tu gato te quiere? La ciencia revela el lenguaje de los felinos  ")
+* [¿Qué nos enseñan la ciencia y las películas sobre el alzhéimer?](https://www.elcomercio.com/tendencias/salud/dia-mundial-alzheimer-efemeride.html "¿Qué nos enseñan la ciencia y las películas sobre el alzhéimer? ")
+* [Protege tu cuenta de WhatsApp del peligroso ‘spoofing’](https://www.elcomercio.com/tecnologia/whatsapp-spoofing-hackers-ataque-cibernetico.html "Protege tu cuenta de WhatsApp del peligroso ‘spoofing’ ")
+
+Una nueva especie de rana y homenaje al pueblo Shuar
+----------------------------------------------------
+
+El nombre que los investigadores asignaron a la nueva especie de rana en la Amazonía es Noblella arutam, “un homenaje al pueblo Shuar, a sus tierras ancestrales, su cultura y sus incansables esfuerzos y compromiso con la protección de la naturaleza”, afirma el Instituto Nacional de Biodiversidad (Inabio).
+
+Haber elegido el nombre de arutam hace referencia a Arútam “la entidad espiritual que simboliza el poder divino en el mundo de los Shuar”, sostienen. Esta nueva especie reside en la Cordillera del Cóndor, en Zamora Chinchipe. En esa zona habitan varias comunidades shuar, en Ecuador y Perú.
+
+La descripción de la rana
+-------------------------
+
+Los investigadores de la Universidad San Francisco y de Inabio describen esta nueva especie de rana a partir de un diagnóstico de todos sus congéneres. En ese sentido, presenta “uno o dos tubérculos en los párpados superiores y falanges distales marcadamente en forma de T”[.](https://es.wikipedia.org/wiki/Universidad_San_Francisco_de_Quito "https://es.wikipedia.org/wiki/Universidad_San_Francisco_de_Quito")
+
+Según los investigadores, la nueva rana tiene una fórmula falángica 2-2-3-3 en la manos, pero en los pies es 2-2-3-4-3. “El talón tiene un pequeño tubérculo subcónico y un disco en todos los dedos con papilas. El dorso marrón o marrón con gris tiene marcas irregulares más oscuras dispersas o invertidas en forma de V”.
+
+¿En dónde se encuentra esta nueva especie?
+------------------------------------------
+
+Esta **nueva especie de rana de la Amazonía** es muy conocida en la comunidad de Río Blanco y en las zonas aledañas. Esta queda en el cantón **Paquisha**, provincia de **Zamora Chinchipe**. Vive entre los 1720 y los 1890 metros sobre el nivel del Mar.
+
+Su ecosistema es el **Bosque Siempreverde Montano** de las **Cordilleras del Cóndor** y **Kutukú**. La región tiene una alta humedad y abundancia de epífitas, briofitas y hojarasca.
+
+La **Cordillera del Cóndor** es una cadena montañosa subandina ubicada en el límite geopolítico entre el sureste de Ecuador y el norte de Perú. El terreno es accidentado y se conforma por areniscas y calizas mesozoicas y cenozoicas tempranas y que se depositaron antes del surgimiento de los Andes.
+
+Para leer la investigación completa, **[haga click aquí](https://peerj.com/articles/17939/?fbclid=IwY2xjawFqgEVleHRuA2FlbQIxMAABHZb2A5AqwsDtc026O49eXUAa2g173TGxlzPLTTu7I0paoPZtVNqsv7dmCw_aem_DRjqFU7_agliqY8SkKTnlw# "https://peerj.com/articles/17939/?fbclid=IwY2xjawFqgEVleHRuA2FlbQIxMAABHZb2A5AqwsDtc026O49eXUAa2g173TGxlzPLTTu7I0paoPZtVNqsv7dmCw_aem_DRjqFU7_agliqY8SkKTnlw#")**.
+
+‘Tengo mucho que no puedo contar’, dijo Ashton Kutcher de las fiestas de P. Diddy
+=================================================================================
+
+¿Qué decían los famosos sobre las escandalosas fiestas de Sean ‘Diddy’ Combs?
+-----------------------------------------------------------------------------
+
+![En redes sociales circulan fotos como esta que supuestamente serían de las fiestas de P. Diddy. Foto: X](https://www.elcomercio.com/wp-content/uploads/2024/10/P.DIDDY-El-comercio.jpg)
+
+Durante décadas, las **fiestas de P. Diddy** fueron sinónimo de lujo, excesos y misterio.
+
+Desde la icónica **Fiesta Blanca en los Hamptons** hasta celebraciones de cumpleaños exuberantes, las estrellas de **Hollywood** acudían en masa para ser parte de estas reuniones exclusivas.
+
+### Más noticias
+
+* **[Beyoncé perdió millones de seguidores por su conexión con ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html "https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html")**
+* **[10 claves sobre el escándalo de P. Diddy](https://www.elcomercio.com/afull/p-diddy-trafico-sexual.html "https://www.elcomercio.com/afull/p-diddy-trafico-sexual.html")**
+
+Sin embargo, tras las recientes **[acusaciones legales contra el rapero](http://Suben a 120 las acusaciones de abuso sexual contra P. Diddy  Este contenido ha sido publicado originalmente por EL COMERCIO. Si vas a hacer uso del mismo, por favor, cita la fuente y haz un enlace hacia la nota original en la dirección: https://www.elcomercio.com/tendencias/trending/sean-combs-p-diddy-trafico-sexual.html)**, las especulaciones sobre lo que realmente sucedía detrás de las puertas cerradas se han intensificado.
+
+Khloé Kardashian: “La mitad de las personas estaban desnudas”
+-------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/P.DIDDY-El-comercio-1-1-1024x683.jpg)
+
+Según un artículo de Us Weekley, en un episodio de **Keeping Up With the Kardashians** de 2014, **Khloé Kardashian** recordó haber asistido a una de las **fiestas de P. Diddy en Las Vegas**. “En esta fiesta, creo que la mitad de las personas estaban desnudas”, comentó la estrella de televisión.
+
+Las fiestas de P. Diddy siempre fueron conocidas por romper los límites, y la confesión de Kardashian no hizo más que avivar los rumores sobre el ambiente desinhibido que predominaba.
+
+Ashton Kutcher: “Tengo mucho que no puedo contar”
+-------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/P.DIDDY-El-comercio-4-1024x683.jpg)
+
+El **actor Ashton Kutcher**, durante una aparición en el programa **Hot Ones** en 2019, también fue cuestionado sobre las famosas reuniones de Diddy. Su respuesta fue enigmática: “Tengo mucho que no puedo contar”, dijo entre risas.
+
+“Ese tampoco lo puedo contar”, añadió, creando aún más misterio sobre lo que ocurría en estos eventos hasta altas horas de la madrugada, recoge Us Weekley.
+
+Usher: “¡De ninguna manera!”
+----------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/P.DIDDY-El-comercio-2-1-1024x683.jpg)
+
+**Usher**, quien vivió con **[Diddy](http://¿Quién es P. Diddy?  Este contenido ha sido publicado originalmente por EL COMERCIO. Si vas a hacer uso del mismo, por favor, cita la fuente y haz un enlace hacia la nota original en la dirección: https://www.elcomercio.com/tendencias/trending/p-diddy-tiroteo-crimen-tupac.html)** durante un año cuando era adolescente en los 90, no dudó en alejarse de estas fiestas en una entrevista con **Howard Stern** en 2016. Al ser preguntado si dejaría que sus hijos asistieran a una de las fiestas de Diddy, Usher fue contundente: “¡De ninguna manera!”.
+
+Aunque Usher no dio detalles explícitos, su respuesta dejó entrever que estas fiestas no eran un lugar adecuado para los más jóvenes.
+
+50 Cent: “Una energía incómoda”
+-------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/P.DIDDY-El-comercio-3-1024x683.jpg)
+
+El **eterno rival de Diddy**, el rapero **50 Cent**, también se distanció de estas reuniones. “He sido muy explícito sobre no ir a las fiestas de Puffy y hacer cosas como esa”, declaró en una entrevista en julio, asegurando que había una “energía incómoda” en torno al ambiente de las fiestas de Diddy.
+
+Ray J: “Nunca vi nada de lo que se habla”
+-----------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/P.DIDDY-El-comercio-5-1024x683.jpg)
+
+Por otro lado, el amigo cercano de Diddy, **Ray J**, ha defendido al rapero, afirmando que jamás fue testigo de los excesos que se rumorean.
+
+### Más del tema
+
+* **[P. Diddy, entre mujeres, música y demandas](https://www.elcomercio.com/tendencias/p-diddy-parejas-hijos-arresto-demandas.html "https://www.elcomercio.com/tendencias/p-diddy-parejas-hijos-arresto-demandas.html")**
+* **[P. Diddy y su controversial vínculo con Justin Bieber se debate en las redes](https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html "https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html")**
+* **[P. Diddy quiere contar su lado de la historia](https://www.elcomercio.com/tendencias/p-diddy-quiere-contar-su-historia.html "https://www.elcomercio.com/tendencias/p-diddy-quiere-contar-su-historia.html")**
+
+“Nunca estuve en las habitaciones de las que la gente habla, y nunca supe que existían”, dijo el 21 de septiembre, desestimando las acusaciones que han salido a la luz recientemente.
+
+Lo que pasaba después de las 5 a.m.
+-----------------------------------
+
+A pesar de las negaciones de algunas estrellas, fuentes cercanas aseguran que lo verdaderamente impactante sucedía al amanecer. “Lo que sucedió antes de las 2 a.m. palidece en comparación con lo que ocurrió a las 5 a.m.”, señaló una fuente a **Us Weekly**, sugiriendo que las celebridades sabían cuándo retirarse antes de que comenzaran los comportamientos más extremos.
+
+Yailin La Más Viral cambió el color de sus ojos con una cirugía
+===============================================================
+
+¿Cuánto le costó la operación a la cantante?
+--------------------------------------------
+
+![Yailin La Más Viral se sometió a un procedimiento estético en los ojos. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/yailin-El-comercio.jpg)
+
+La influencer y rapera dominicana **Yailin La Más Viral** sorprendió a sus seguidores con un nuevo y radical cambio estético. Esta vez, decidió modificar el **color de sus ojos**, sometiéndose a una cirugía en una exclusiva clínica de Florida, EE. UU.
+
+El color elegido fue Miami Gris, un tono gris bastante claro y el procedimiento duró una hora. Así lo señaló la revista People en español.
+
+Detalles de la cirugía para cambiar el color de los ojos
+--------------------------------------------------------
+
+La **cirugía que Yailin La Más Viral** se realizó es conocida como queratopigmentación.
+
+Consiste en la inyección de pigmento en la córnea, un procedimiento delicado que conlleva riesgos como infecciones oculares y posibles efectos a largo plazo.
+
+A pesar de las críticas que recibió en redes sociales por su decisión, Yailin ha mostrado satisfacción con el resultado, exhibiendo orgullosa su nueva mirada.
+
+¿Cuánto cuesta una cirugía para cambiar el color de los ojos?
+-------------------------------------------------------------
+
+Dice la revista People que la cirugía para cambiar el color de los ojos a la que Yailin se sometió tiene un costo de 12 mil dólares. La cantante aprovechó su estancia en **Estados Unidos** para realizarse el procedimiento estético.
+
+Reacciones y críticas en redes sociales
+---------------------------------------
+
+Como es habitual, las reacciones no se hicieron esperar. Muchos internautas cuestionaron el cambio y dejaron comentarios irónicos.
+
+“¿Y para cuándo la cirugía en las cuerdas vocales?” o “Mejor que se cambie la voz”, escribieron en redes. A pesar de las críticas, Yailin parece no dejar que los comentarios afecten su determinación de continuar modificando su apariencia.
+
+A sus 22 años, la madre de Cattleya sigue siendo tendencia por cada cambio estético que realiza, manteniendo a sus seguidores y detractores atentos a cada uno de sus movimientos.
+
+Este cambio, al igual que otros que ha realizado en el pasado, genera tanto admiración como controversia en el mundo de las redes sociales.
+
+Riesgos de la queratopigmentación
+---------------------------------
+
+La **queratopigmentación** es un procedimiento estético que consiste en modificar el color del iris mediante la inyección de pigmentos en la córnea. La cirugía dura aproximadamente entre 30 minutos y una hora, y es relativamente rápida.
+
+Los resultados de la queratopigmentación son permanentes, aunque algunos pacientes pueden necesitar retoques a lo largo del tiempo para mantener la intensidad del color. Sin embargo, el procedimiento no está exento de riesgos, ya que aumenta la probabilidad de **infecciones oculares**, cicatrices en la córnea y, en algunos casos, puede afectar la visión.
+
+Otros efectos secundarios incluyen sequedad ocular, sensibilidad a la luz y, en casos más graves, problemas de visión a largo plazo. Por ello, es importante que el procedimiento sea realizado por un especialista cualificado para minimizar riesgos.
+
 Elecciones de 2025, impugnaciones y ajustes finales antes de la campaña electoral
 =================================================================================
 
@@ -56,6 +823,10 @@ Desde el 1 de octubre hasta el 20 de octubre de 2024, las **organizaciones polí
 El **T**CE deberá sustanciar estos recursos entre el 19 de octubre y el 10 de noviembre de 2024.
 
 Durante este tiempo, el tribunal analizará los **argumentos presentados y emitirá sus fallos**, asegurando la integridad del proceso de calificación de candidaturas​.
+
+**Paúl Desamblanc**, parlamentario andino por la Izquierda Democrática (ID), lista 12, objetó la candidatura presidencial de **Carlos Rabascall**, inscrita por su propia agrupación política.
+
+Desamblanc sostuvo ante el **Consejo Nacional Electoral (CNE)** que la directiva del partido alteró los reglamentos internos para permitir dicha postulación.
 
 Promoción electoral y campaña
 -----------------------------
@@ -418,621 +1189,3 @@ Ante esta situación, es importante **evitar la exposición prolongada al sol ha
 > [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el domingo, 06 de octubre de 2024🌤️ [pic.twitter.com/os7o9Cuv10](https://t.co/os7o9Cuv10)
 > 
 > — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 5, 2024](https://twitter.com/inamhi_ec/status/1842708529326526901?ref_src=twsrc%5Etfw)
-
-Brasil busca que sus empresas incorporen la sostenibilidad 
-===========================================================
-
-Para incentivar y estimular ese cambio, ApexBrasil da preferencia en sus acciones a las empresas que incorporan esta filosofía.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial sobre personas trabajando en una empresa.](https://www.elcomercio.com/wp-content/uploads/2024/10/empresas-brasil-pexels.jpg)
-
-[Brasil](https://www.elcomercio.com/actualidad/mundo/incendios-forestales-brasil-provocan-mayor-nivel-de-emisiones-carbono.html "https://www.elcomercio.com/actualidad/mundo/incendios-forestales-brasil-provocan-mayor-nivel-de-emisiones-carbono.html") incentiva a que las empresas incorporen los **principios de la sostenibilidad** dentro de todas sus actividades, a fin de facilitar su **expansión internacional**, según la agencia oficial ApexBrasil.
-
-### Más noticias
-
-* [Incendios forestales en Brasil provocan mayor nivel de emisiones de carbono](https://www.elcomercio.com/actualidad/mundo/incendios-forestales-brasil-provocan-mayor-nivel-de-emisiones-carbono.html "Incendios forestales en Brasil provocan mayor nivel de emisiones de carbono")
-* [Lula busca reanudar conversación con Venezuela](https://www.elcomercio.com/actualidad/mundo/lula-busca-reanudar-conversacion-con-venezuela-vuelva-normalidad-democratica.html "Lula busca reanudar conversación con Venezuela")
-* [Brasil se perfila como el gran abastecedor de carnes del mundo](https://www.elcomercio.com/actualidad/mundo/brasil-gran-abastecedor-carne-mundo-pollo-cerdo-huevos.html "https://www.elcomercio.com/actualidad/mundo/brasil-gran-abastecedor-carne-mundo-pollo-cerdo-huevos.html")
-
-Así lo expresó en declaraciones **Gustavo Sperandio, representante de la Agencia Brasileña de Promoción de Exportaciones e Inversiones** (ApexBrasil) en la región sureste, la más poblada e industrializada del país.
-
-Uno de los objetivos que se marca la entidad es **“aproximar” a las compañías** a las diversas iniciativas verdes disponibles y promover “esa preocupación” por el medioambiente en el ecosistema empresarial nacional.
-
-“La idea es que tengan iniciativas de **sostenibilidad dentro de sus acciones** de producción, de comercio, en (todas) sus actividades”, explicó.
-
-Para incentivar y estimular ese cambio, **ApexBrasil da preferencia** en sus acciones a las empresas que incorporan esta filosofía.
-
-Esto se une a otra serie de **convenios firmados en septiembre pasado** con el Gobierno del presidente Luiz Inácio Lula da Silva para promocionar las empresas brasileñas en el mercado internacional y atraer inversiones.
-
-Acuerdos con beneficios a empresas
-----------------------------------
-
-Esos acuerdos suponen una contribución de **537 millones de reales** (casi 100 millones de dólares o 90 millones de euros), que beneficiarán en principio a cerca de 19 000 empresas en los próximos dos años.
-
-La expectativa es generar **256 500 millones de reales** (cerca de **47 000 millones de dólares**) en exportaciones y **24 500 millones de reales** (4 500 millones de dólares, aproximadamente) en inversiones extranjeras destinadas a proyectos estratégicos, según datos del Gobierno.
-
-En este sentido, Sperandio considera que el **inversor extranjero tiene “mucho interés”** en Brasil.
-
-No obstante, admite que algunos estados y municipios adolecen de **“falta de preparación”** a la hora de presentar las oportunidades de negocio, lo que “les aleja un poco” a los inversores.
-
-Preparar proyectos
-------------------
-
-“Y ahí intentamos entrar nosotros para ayudarlos a **preparar esos proyectos” y “capacitarlos”,** para que así “los presenten a los inversores” de forma exitosa, añadió.
-
-ApexBrasil también se está centrando en atraer inversiones verdes al país, sobre todo en el sector de energía por medio de proyectos de hidrógeno y biomasa, entre otros.
-
-“Tenemos un área que trabaja específicamente en **inversiones verdes** y que consigue resultados significativos en los últimos años”, apuntó.
-
-Según datos del informe ‘Tendencias de Inversión en Transición Energética 2024’, Brasil fue el tercer país del mundo que más **inversiones atrajo en energías renovables** el año pasado: más de 25 000 millones de dólares.
-
-En la última edición del Foro de Inversiones Brasil (BIF), organizado por ApexBrasil, las empresas del sector energético anunciaron casi 40 000 millones de reales en inversiones.
-
-Entre estas, se incluyen 20 000 millones de reales (**7 300 millones de dólares) en etanol** de segunda generación, 750 millones de reales (135 millones de dólares) en energía limpia, 12 000 millones de reales (2.190 millones de dólares) en nuevas plantas de biocombustibles y **4 500 millones de reales** (820 millones de dólares) para descarbonizar la industria de fertilizantes. 
-
-Cortes de luz en Quito para este domingo 6 de octubre
-=====================================================
-
-El cronograma de la EEQ rige desde el pasado viernes hasta este 6 de octubre. Hasta las 11:45 de este domingo, la empresa no ha publicado de manera oficial el nuevo horario.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El cronograma de la EEQ rige desde el pasado viernes hasta este domingo, 6 de octubre. FOTO: referencial Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-quito-domingo-6-de-octubre-2024.png)
-
-Quito, hoy, también contará con **un cronograma de cortes de luz** como parte de los racionamientos a nivel nacional programados por el Gobierno Nacional.
-
-La Empresa Eléctrica de Quito (EEQ) definió el **cronograma de cortes para la capital para este domingo, 6 de octubre de 2024.**
-
-Más noticias
-------------
-
-* [Daniel Noboa dio una disposición para la comercialización de generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html?source=Internal&ref=Single+Content+Link)
-* [13 perros en condición de maltrato, rescatados en Quito](https://www.elcomercio.com/actualidad/13-perros-en-condicion-de-maltrato-rescatados-en-quito-puengasi.html)
-
-En los cronogramas se dividen los apagones en dos bloques, uno durante la mañana y otro en la tarde.
-
-Estos continúan según la planificación definida por el Gobierno hace cuatro días y con el ofrecimiento de reducir su duración paulatinamente.
-
-Al inicio de los racionamientos, los lapsos se extendían hasta por 12 horas. La reducción se ha dado porque las lluvias de los últimos días han permitido una mayor generación hidroeléctrica, según el Gobierno.  
-
-Horarios de cortes de luz en Quito para este domingo 6 de octubre
------------------------------------------------------------------
-
-Este domingo será el último día de cortes de luz en el que se establecen cinco horas de duración del último cronograma planificado:
-
-[04 al 06 oct cortes de luz quito domingo eeq](https://www.elcomercio.com/wp-content/uploads/2024/10/04-al-06-oct-cortes-de-luz-quito-domingo-eeq.pdf)[Descarga](https://www.elcomercio.com/wp-content/uploads/2024/10/04-al-06-oct-cortes-de-luz-quito-domingo-eeq.pdf)
-
-**Hasta las 11:45** de este domingo, 6 de octubre de 2024, la Empresa Eléctrica de Quito **aún no difundía el cronograma de cortes de luz** con el que se manejará la ciudad para la siguiente semana.
-
-Chelsea, con Moisés Caicedo de titular, empató ante el Nottingham Forest
-========================================================================
-
-Chelsea empató 1-1 con Nottingham Forest tras un gol de Madueke, pese a dominar tras la expulsión de Ward-Prowse.
------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo en una jugada con Gibbs-White, jugador del Nottingham Forest.](https://www.elcomercio.com/wp-content/uploads/2024/10/chelsea.png)
-
-Este domingo 6 de octubre, el **Chelsea**, con **Moisés Caicedo** en el mediocampo, enfrentó al **Nottingham Forest** en la séptima jornada de la **Premier League**.
-
-Más noticias
-
-* [Moisés Caicedo y el Chelsea pelearán por clasificar a la Champions League](https://www.elcomercio.com/deportes/futbol/moises-caicedo-chelsea-pelearan-clasificar-champions-league.html "Moisés Caicedo y el Chelsea pelearán por clasificar a la Champions League")
-* [Chelsea inicia con contundente victoria en Conference sin Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-inicia-con-contundente-victoria-en-conference-sin-moises-caicedo.html "Chelsea inicia con contundente victoria en Conference sin Moisés Caicedo")
-* [Chelsea vuelve a la carga en Conference League](https://www.elcomercio.com/deportes/futbol/chelsea-conference-league-moises-caicedo-cuando-juega.html "Chelsea vuelve a la carga en Conference League")
-
-Los blues llegaban al encuentro con un**a racha de seis partidos sin conocer la derrota** y con una notable capacidad ofensiva, habiendo marcado más de tres goles en sus últimos encuentros.
-
-> Today's Blues.👇💙[#CFC](https://twitter.com/hashtag/CFC?src=hash&ref_src=twsrc%5Etfw) | [#CHENFO](https://twitter.com/hashtag/CHENFO?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/n8GQr75hoS](https://t.co/n8GQr75hoS)
-> 
-> — Chelsea FC (@ChelseaFC) [October 6, 2024](https://twitter.com/ChelseaFC/status/1842894118176862211?ref_src=twsrc%5Etfw)
-
-Primer tiempo sin goles y oportunidades desperdiciadas
-------------------------------------------------------
-
-El partido comenzó con un juego equilibrado durante los primeros 15 minutos. **Moisés Caicedo**, junto a **Enzo Fernández**, manejó la distribución del balón desde el mediocampo, tratando de conectar con los extremos.
-
-Sin embargo, Cole Palmer, una de las figuras del [Chelsea,](https://es.wikipedia.org/wiki/Chelsea_Football_Club "https://es.wikipedia.org/wiki/Chelsea_Football_Club") no tuvo mayor protagonismo en los primeros compases del encuentro.
-
-A los 30 minutos, una jugada por la banda izquierda terminó con un disparo de **Palme**r, pero el remate salió desviado y no logró abrir el marcador.
-
-Al cierre de la primera mitad, un potente disparo de **Nicolas Jackson** impactó en el poste, dejando al Chelsea cerca de inaugurar el marcador, pero sin éxito.
-
-Reacción rápida y empate del Chelsea
-------------------------------------
-
-Apenas iniciado el segundo tiempo, el **Nottingham Forest** sorprendió al ponerse adelante en el marcador. Un centro preciso de **Nikola Milenkovic** encontró a **Chris Wood**, quien remató de cabeza para anotar el 1-0 a favor del visitante.
-
-Sin embargo, la reacción del **Chelsea** no se hizo esperar, y a los 56 minutos, Noni Madueke, tras una jugada por la banda izquierda, lanzó un potente disparo que terminó en el fondo del arco, igualando el marcador 1-1.
-
-> Back in it. C'mon Chelsea! 😤[#CFC](https://twitter.com/hashtag/CFC?src=hash&ref_src=twsrc%5Etfw) | [#CHENFO](https://twitter.com/hashtag/CHENFO?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zNxsUCLM97](https://t.co/zNxsUCLM97)
-> 
-> — Chelsea FC (@ChelseaFC) [October 6, 2024](https://twitter.com/ChelseaFC/status/1842933581590806889?ref_src=twsrc%5Etfw)
-
-El **Chelsea** intensificó su juego ofensivo tras el empate, utilizando sus extremos para buscar el gol de la victoria. Madueke tuvo dos oportunidades claras de cabeza, pero no logró concretar ninguna. A partir de los 70 minutos, el equipo local tomó el control del balón, mientras que el **Nottingham Forest** optó por el contraataque.
-
-Expulsión de Ward-Prowse y defensa férrea del Forest
-----------------------------------------------------
-
-A los 77 minutos, **James Ward-Prowse** fue expulsado, dejando al Forest con diez jugadores en el campo. El Chelsea aprovechó la ventaja numérica para buscar el tanto de la victoria, pero el Nottingham Forest se replegó con una sólida línea defensiva de cinco jugadores.
-
-A pesar de los 13 minutos adicionales, **los blues no lograron romper la muralla defensiva del Forest**, que resistió para mantener el empate 1-1.
-
-13 perros en condición de maltrato, rescatados en Quito
-=======================================================
-
-Los perros fueron rescatados de un presunto criadero ilegal en condiciones inadecuadas de tenencia y salud.
------------------------------------------------------------------------------------------------------------
-
-![Los perros fueron encontrados enjaulados y con cadenas. FOTO: UBA Quito](https://www.elcomercio.com/wp-content/uploads/2024/10/13-perros-en-condicion-de-maltrato-rescatados-en-Quito.png)
-
-Seis instituciones realizaron el rescate de los **13 perros este sábado, 5 de octubre de 2024, en un presunto criadero** ilegal, en Quito.
-
-Más noticias
-------------
-
-* [La reforestación tras los incendios en Quito será paso a paso](https://www.elcomercio.com/actualidad/ecuador/reforestacion-incendios-forestales-quito.html)
-* [Cerrará nueva parada de la Ecovía, en Quito](https://www.elcomercio.com/actualidad/cerrara-nueva-parada-de-la-ecovia-en-quito.html)
-
-El lugar del rescate fue en **una propiedad en el barrio La Loma de Puengasí,** en la zona cercana al antiguo peaje de la Autopista General Rumiñahui.
-
-El operativo estuvo **a cargo de la Unidad de Bienestar Animal (UBA)**, en colaboración con Protección Animal Ecuador, la Agencia Metropolitana de Control, la Policía Nacional, el Cuerpo de Agentes Metropolitanos y la Administración Zonal Manuela Sáenz.
-
-Situación de los animales rescatados
-------------------------------------
-
-Los animales de compañía fueron encontrados **encadenados y en jaulas**. Algunos de ellos, además, presentaban **lesiones y cuadros de desnutrición severa**.
-
-Los perros de “raza tipo pitbull” eran “presuntamente utilizados para **reproducción y peleas**“, según la Unidad de Bienestar Animal.
-
-Después del rescate y de la clausura del lugar, los animales fueron trasladados para una **evaluación de su estado de salud** a uno de los Centros de Atención Veterinaria, Rescate y Acogida Temporal (CAVRAT) de la UBA.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/PHOTO-2024-10-06-10-04-00-1024x768.jpg)
-
-Imagen aérea del lugar donde se encontraban los perros. FOTO: Cortesía.
-
-Sanciones al tutor por maltrato animal
---------------------------------------
-
-El **presunto criadero fue clausurado** por personal de la Agencia Metropolitana de Control, que participaron en el operativo de rescate.
-
-Asimismo, las entidades **iniciaron el procedimiento de sanción en flagrancia** contra el tutor de los animales. La persona enfrenta tres infracciones muy graves.
-
-La multa acumulada por las actividades cometidas contra los perros sería **de USD 15 260** por: **encadenamiento, enjaulamiento y causar de manera intencional daños** a un animal de compañía. 
-
-¿Cómo denunciar?
-----------------
-
-La **ciudadanía puede denunciar el maltrato animal o mala tenencia** de animales a través de un formulario. En este documento debe incluir:
-
-* Datos del denunciante
-* Datos del denunciado o infractor
-* Medios o elementos que prueben la denuncia (fotos, videos, audios, documentos y otros).
-* Un relato de los hechos que podrían ser una infracción
-* Croquis y ubicación
-
-El documento se encuentra disponible en la página web de la [Unidad de Bienestar Animal (UBA).](https://bienestaranimal.quito.gob.ec/index.php/formulario-denuncias)
-
-Cabe recalcar que **la denuncia no podrá ser de carácter anónimo** y entrará a un proceso de validación.
-
-¿Cuáles son las protecciones para los animales de compañía?
------------------------------------------------------------
-
-Según la información de la UBA, las protecciones a los animales de compañía se basa en las Cinco Libertades de la Fauna Urbana’. Estas buscan garantizar que sea:
-
-* **Libre de hambre y sed:** Que tenga acceso a agua fresca y una dieta que mantenga su salud.
-* **Libre de incomodidades:** Que tenga un entorno adecuado que incluya refugio y un área cómoda para descansar.
-* **Libre de dolor, lesiones y enfermedades:** Que tenga cuidados de prevención y tratamiento adecuado.
-* **Libre de miedo y angustia:** Condiciones y tratamiento que eviten el sufrimiento mental.
-* **Libre para expresar su comportamiento natural:** Que exista el espacio suficiente, instalaciones adecuadas y la compañía de otros animales de su especie.
-
-> Algunos presentaban lesiones, otros tenían problemas de desnutrición. Eran presuntamente utilizados para reproducción y peleas de perros 🚫. [pic.twitter.com/Zu6M02w51l](https://t.co/Zu6M02w51l)
-> 
-> — Unidad de Bienestar Animal Quito (@UBAQuito) [October 5, 2024](https://twitter.com/UBAQuito/status/1842632114707083615?ref_src=twsrc%5Etfw)
-
-Los embalses de las centrales Mazar y Paute bajaron
-===================================================
-
-Las dos hidroeléctricas aumentaron su producción para cubrir la demanda de energía en Ecuador.
-----------------------------------------------------------------------------------------------
-
-![El embalse de Mazar tiene una capacidad para 410 millones de metros cúbicos. Archivo/ EFE](https://www.elcomercio.com/wp-content/uploads/2024/04/mazar-electricidad-Ecuador-.jpg)
-
-El embalse de la **hidroeléctrica Mazar** perdió dos metros desde el jueves 3 de octubre. Este domingo 6 de octubre de 2024 se ubica en los 2 117,8 metros sobre el nivel de mar.
-
-El descenso se debe a dos factores. El primero es que las lluvias de intensidad en el Austro se ausentaron otra vez. Eso ocasionó que el caudal de los ríos **Tomebamba, Yanuncay, Machángara y Tarqui** regresen a niveles considerados como bajos.
-
-Los ríos **Santa Barbará, San Francisco, Burgay y Paute** no tienen grandes cantidades de caudal. 
-
-En los últimos tres días, el caudal promedio, que recibe el embalse de Mazar, se redujo de 26,26 a 14,79 en los últimos tres días. Cuando se registraron las lluvias de intensidad en Cuenca (fin de semana anterior) promedió los 43,08, según datos de **Celec Sur.**
-
-Este embalse puede almacenar hasta 410 millones de metros cúbicos de agua.
-
-### Más noticias
-
-* [Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas](https://www.elcomercio.com/actualidad/negocios/nivel-de-mazar-se-recupera-tras-las-lluvias-pero-tres-hidroelectricas-siguen-apagadas.html "Nivel de Mazar se recupera tras las lluvias, pero tres hidroeléctricas siguen apagadas")
-* [Este fue el aporte de las lluvias en Cuenca para Mazar](https://www.elcomercio.com/actualidad/negocios/este-aporte-lluvias-cuenca-mazar.html "Este fue el aporte de las lluvias en Cuenca para Mazar")
-
-Mazar reanudó sus operaciones
------------------------------
-
-El segundo factor para la reducción del **embalse de Mazar** fue la reanudación de las operaciones en la casa de máquinas. El 28 y 29 de septiembre, las dos turbinas estuvieron apagadas. El lunes 30, la producción fue mínima y dejó de generar hasta el 4 de octubre.
-
-Desde entonces genera entre 1 754,68 a 1 922,92 megavatios/hora. Además, el embalse de Mazar es la principal fuente de alimentación de agua para la represa de **Amaluza** de la **central Paute**, que está ubicada aguas abajo.
-
-Las condiciones en el central Paute
------------------------------------
-
-La cota de la presa de **Amaluza** también se redujo de los 1 985,82 a 1 983,79, entre el 1 de octubre y este domingo 6. El nivel mínimo es de 1 975 y el máximo de 1 991. Este embalse es más pequeño que el de **Mazar** porque solo tiene capacidad para almacenar 120 millones de metros cúbicos de agua.
-
-Pero es importante mantener esta reserva porque **Paute** tiene instalada la segunda mayor capacidad de generación de **Ecuador**, luego de **Coca Codo Sinclair**.
-
-**Paute** subió su producción para cubrir la demanda nacional. El 4 y 5 de octubre generó 16 489 y 12 786 megavatios/hora. En los días previos aportaba entre 2 729 y 3 346.
-
-La generación prevista en Ecuador 
-----------------------------------
-
-**Coca Codo Sinclair** aportará con el 29% de la generación hidroeléctrica que demandará **Ecuador** este domingo 6 de octubre.
-
-**Paute** entregará con el 17%, **Sopladora** con el 11% y **Mazar** con el 4% de la producción hidroeléctrica, según el informe publicado por el **Operador Nacional de Electricidad (Cenace).** 
-
-Este ente programó que el 61% de la demanda de energía sea cubierta por hidroeléctrica y el porcentaje restante por las térmicas, eólicas, a gas, entre otras.
-
-Un juicio político de cabeza
-============================
-
-El juicio político contra la ministra Mónica Palencia, motivado por intereses políticos y falta de seriedad en el proceso.
---------------------------------------------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-Los **juicios políticos** en una **democracia** seria y madura, dentro del campo de una sensata, necesaria y sana **fiscalización**, en la que se pretende el **equilibrio** de los **poderes** del **Estado**, buscan la verdad objetiva, ajena a las **simpatías**, **antipatías** y/o **conveniencias**, en los que prevalece la **razón** y no el **cálculo**, ni el **protagonismo** acompañado de la vanidad. Si bien, como su nombre lo indica, el **juicio** es **político** y no judicial, no por ello sus **procedimientos** deben dejar de enmarcarse en el **cumplimiento** de las **normas** jurídicas que le competen y regulan.
-
-Lo que el país está viviendo, con el pretendido **juicio político** en contra de la ministra del Interior **Mónica Palencia**, y de manera particular lo dado al inicio de esta semana en la **Comisión** de **Fiscalización** de la **Asamblea**, más allá del estridente y provocador **comportamiento** de la **asambleísta** Cabezas, impropio en cualquier situación, lugar y **ocasión**, la misma que, parecería estar acostumbrada a perder la cabeza y a provocar para que pierdan la cabeza los interpelados, está el fondo del asunto, esto es, la esencia de las **intenciones**. Me explico, se le acusa a la **ministra**, la misma que tiene a cargo principalmente la **seguridad**, de “**incumplimiento** de **funciones**”, cuando irónicamente resulta que, la **bancada** que impulsa dicho juicio se ha caracterizado justamente por solapar y/o avalar el cobijo y **protección** de **delincuentes** y de **sentenciados** por **corrupción**, lo cual evidentemente contribuye de manera contundente en favor de la **inseguridad** de la **sociedad**; todo lo cual, enmarcado y motivado muy probablemente en una suerte de **retaliación política** por el apresamiento de Glas.  Adicionalmente, y como si eso fuera poco, que en realidad es más que suficiente para restar **credibilidad** y **fortaleza** moral a dicho **juicio**, resulta que, la mencionada **asambleísta** (protegida de la inmunidad) se permitió realizar **acusaciones verbales** de orden personal en contra de la **ministra**, fuera de tono en todo sentido.
-
-Y, adicionalmente y para mayor **abundamiento**, con el intento de incorporar como “**prueba testimonial**” la **comparecencia** telemática de un cuestionado **personaje** del gobierno de Correa, pretendiendo lo cual de una manera extemporánea, cuando en principio, las **pruebas testimoniales** deben ser anunciadas al inicio y no en el camino, ya que fuera de ser potencialmente forzado legalmente, podría poner en una **situación** de **indefensión** a la **ministra**. Así, lo mencionado, sonaría a emboscada, por cierto, muy típico de los **revolucionarios**, valiéndose de “testigos” no idóneos, justamente por estar cuestionados por sus **conductas** del pasado.
-
-Poco antes de la pretendida **intervención**, al parecer por una **maniobra política** del **oficialismo**, quedó sin quórum la **comisión**, razón por la cual la ministra optó por retirarse, no sin antes y haciendo bien Palencia, el aclararle  a la **interpelante** de manera determinante sus **razones** en **defensa** de su honor, quizás en forma de una manera que pudo evitarse – que podría interpretarse como haber caído  en la **provocación** – pero comprensible, no por ello justificable, desde el punto de vista de la **indignación**.
-
-Cabe indicar que, llama la atención, no es que la **ministra** vaya acompañada de un abogado o por un cuerpo **técnico** – **jurídico** de apoyo, sino por un también **cuestionado abogado** en particular (con rol principal), cercano al correismo en su momento y que con su gestión habría influido en la **injerencia política** en la **justicia** de la **época**.              
-
-En conclusión, lo que se estaría dando es el descabezado intento de un disparatado **juicio político**, sin pies ni cabeza, en el que prima la **insensatez**, el **agravio** y el **cinismo**, a efectos de alzarse – en **época** prácticamente **electoral** – con la cabeza en señal de **triunfo**, mediante la pretendida **destitución** de una ministra, la misma que, viene realizando una intensa labor, no perfecta ni suficiente, pero que en esencia, ha diferencia de sus **interpelantes**, es y ha sido  enfrentar la **delincuencia** y la **corrupción**.
-
-Cartas a Quito / 6 de octubre de 2024
-=====================================
-
-Estas son las cartas a Quito de este domingo 6 de octubre de 2024
------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Qué está mal en el Ecuador? 
-----------------------------
-
-La educación, la falta de empleo, la pobreza, la delincuencia, las extorsiones, el consumo y distribución de la droga, la justicia, los  partidos y movimientos políticos, el contrabando, las extorsiones, la contaminación ambiental, el asentamiento carcelario, la tala de los bosques, del manglar, la falta de servicios básicos en muchos sectores, la poca tecnificación en la producción de productos tradicionales, la falta de control en la producción del principal producto de exportación como es el banano. La falta de asesoramiento para el pequeño agricultor, las malas obras en vialidad, educación, la desnutrición infantil, la calidad de la educación, de los maestros, la contaminación ambiental, el control de la policía en las vías no para el verdadero objetivo sino para la coima y el abuso por el mal uso de la ley. La obligación anual de renovar la matrícula dea los vehículos, de la licencia. Con la finalidad sacarle recursos.  El deterioro de los vehículos detenidos por diferentes motivos que deberían ser devueltos a sus dueños y ser registrados mediante un sistema informático que permita al juez, determinar la condición del mismo. Ya que la causa es otra cosa y si es robado pueda su dueño con las pruebas necesarias poder retirar el vehículo. O pasado tres meses hacer una subasta y ese dinero ingresa a la misma policía, pero para el mejoramiento de sus Puestos de Vigilancia Permanentes. La demasiada complacencia que actualmente se le da al estudiante, al punto que este ahora exige que nota debe tener. Aquí se debería separar los casos excepcionales que justifican su capacidad intelectual. Los derechos humanos se han tergiversado, ahora los tiene el agresor porque el estado no le dio la educación, el bienestar social, etc. Contra el que logra defenderse de ser asesinado. Él pierde todos sus derechos humanos de haber sido agredido y haber podido repeler el ataque contra su vida. Jueces que hacen de la ley de acuerdo al monto que recibe y hace que todos reciban su parte aunque se le haya encontrado infraganti o con el producto de su fechoría. Gente que de la noche a la mañana son grandes potentados y lo peor de todo hacen ostentación de su poder económico y avasallan al empleado o a las personas. El Ecuador donde no hay respeto y en donde el sapo es el que no respeta una columna y gil el que espera que le toque con tranquilidad su turno. Aquel que tiene padrinos se bautiza y el que no le toca hacer uno vía cruces, hasta alcanzar algunas veces una simple firma o  sello.
-
-Este es el Ecuador profundo que cada día se levanta al despertar el alba en la esperanza de que algún día las cosas cambien, pero no pierde la fe y su sonrisa para agradecer al Dios el darle la oportunidad de un día más de vida. Y así forman a sus hijos con sacrificio, y otros toman otros rumbos, sabiendo lo duro de la travesía, cruzar otras tierras en búsqueda de un mejor futuro. ¿Y se preguntan porque emigran? A lo mejor he puesto mucho dolor, pero con todo ello mi Ecuador es el mejor país para vivir porque los ecuatorianos somos la gran mayoría, gente buena. 
-
-Lionel Efraín Romero Reyes  
-
-Turismo encantador
-==================
-
-La recepción de un candidato, generalmente indiferente, con la de un ministro, recibido con privilegios y recursos públicos.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-Si una persona llega a una **ciudad** en calidad de **candidato**, viene a pedir un favor: que le den el voto. ¿La actitud de los **residentes** que se tomen en **trabajo** de ir a verlo, tendrá un aire de **superioridad**: a ver qué nos ofrece? Otros serán **indiferentes** a su **presencia**, unos querrán insultarlo, una **minoría** radical buscará agredirlo y unos pocos le harán honores por ser coidearios o simpatizar con sus **propuestas**.
-
-Para su **visita** al sitio deberá pagarse su **transporte**, la **pernoctación**, a menos que algunos **simpatizantes** decidan correr con esos gastos y la **alimentación**. Están conscientes que, de ganar, estos favores serán retribuidos con rentables **cargos públicos** y la cuota de “poder” **político** que es la segunda **adicción** de los **ecuatorianos**. Conseguir **entrevistas** en los medios locales costará favores o dinero en efectivo sin factura.
-
-En cambio, si un ministro en funciones visita una ciudad, toda la **infraestructura estatal**, **local** y provincial, se pone a su servicio. Un ejército de **funcionarios** de menor rango coordinarán y suplirán todas las necesidades de él, de su equipo de avanzada y del personal de **compañía**, incluidos **guardaespaldas** y la parvada de tiktokeros.
-
-Los **hoteleros** se pelearán entre ellos por el honor de que verifique la calidad de sus **habitaciones**. Los restaurantes enviarán **invitaciones** desesperadas suplicando que les visite y todos querrán tomarse fotos con el **ministro** en funciones, del cual están seguros de que pueden beneficiarse de alguna manera.
-
-Obviamente, la **prensa** local hará una **cobertura** **maratónica** del funcionario: radios y televisiones locales exigirán **entrevistas**.
-
-Ser ministro de turismo y no hacerse popular es **imposible**, todos los últimos **ministros** lo han logrado -incluso Elhers- a pesar de sus **pésimas gestiones**, luego de las cuales han desaparecido de la vida pública.
-
-Pero es la primera vez que un **ministro**, con una gestión con los peores **resultados** de la última década, aprovecha su **popularidad** para convertirse en **candidato** y delata su **gestión** como una campaña de tres años con **dineros públicos** y asegura su **pasaporte** a la próxima **asamblea**.
-
-No nos pongamos **moralistas**, su actual **jefe** ha hecho lo mismo y también los demás partidos **candidatizan** a personas muy populares y ganan, independientemente de su **coeficiente moral** o **intelectual**. Con **candidatos** así de **encantadores**, a los izquierdistas no les va a ser suficiente las chicas de Onlyfans.
-
-La reforestación tras los incendios en Quito será paso a paso
-=============================================================
-
-Municipio y Ministerio de Ambiente contemplan reforestación luego de incendios forestales.
-------------------------------------------------------------------------------------------
-
-![Incendios forestales consumieron áreas verdes en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/reforestacion.jpg)
-
-Los **incendios en Quito** consumieron, **1 964,04 hectáreas**. El plan de reforestación es el siguiente paso para recuperar las áreas afectadas.
-
-El cronograma para la intervención debe ser aprobado por el alcalde de la capital, **Pabel Muñoz**. Aunque, ya anunció que impulsará un plan “agresivo”.
-
-En otro frente, el **Ministerio de Ambiente** aseguró que impulsará un proceso de restauración ecológico, dinámico, educativo, incluyente y participativo a escala nacional. Se empezará con el **Distrito Metropolitano** **de Quito**.
-
-### Más noticias
-
-* [Quito soportó 12 incendios forestales en una sola semana](https://www.elcomercio.com/actualidad/quito/incendio-forestal-quito-guapulo-bomberos-emergencias.html "Quito soportó 12 incendios forestales en una sola semana")
-* [Incendio forestal de Guápulo se mantiene en este estado](https://www.elcomercio.com/actualidad/quito/incendio-forestal-guapulo-puntos-calientes-quito.html "Incendio forestal de Guápulo se mantiene en este estado")
-* [¿Qué pruebas tiene Fiscalía contra otro implicado en incendio forestal en Quito?](https://www.elcomercio.com/actualidad/quito/fiscalia-procesa-otro-implicado-incendio-forestal-quito.html "¿Qué pruebas tiene Fiscalía contra otro implicado en incendio forestal en Quito?")
-
-Incendios forestales en Quito y la reforestación
-------------------------------------------------
-
-En los incendios que se extendieron del 24 al 26 de septiembre, la afectación correspondió a un aproximado de **2 250 canchas de fútbol profesional**.
-
-Desde la **Secretaría de Ambiente de Quito** detallaron que los sitios afectados pueden llegar a restaurarse naturalmente en un período de hasta 100 años.  
-
-No obstante, la meta es acelerar ese proceso. El primer paso es, en los primeros años, fortalecer el **suelo** para su reactivación.
-
-Proceso de plantación y dispersión de **semillas** en el suelo están entre las acciones que se vienen.
-
-> 🔄 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Trabajamos toda la noche y madrugada en varios focos activos del incendio de Guápulo que se extendió hacia el parque Metropolitano y el cerro Auqui.  
->   
-> 🛰️ Desde las 06h00 realizamos vuelos con nuestras aeronaves no tripuladas (drones) para determinar puntos… [pic.twitter.com/QUNk02gV2i](https://t.co/QUNk02gV2i)
-> 
-> — Bomberos Quito (@BomberosQuito) [September 25, 2024](https://twitter.com/BomberosQuito/status/1838910448491450652?ref_src=twsrc%5Etfw)
-
-Los detalles de las afectaciones
---------------------------------
-
-El **Ministerio de Ambiente** indicó que, entre enero y septiembre de 2024, los **incendios forestales** registrados en varios puntos de Ecuador, asociados a un marcado déficit de lluvias, en comparación con los valores de años anteriores, afectaron a más de 39 700 hectáreas de cobertura vegetal.
-
-En ese periodo, en todo el país, se contabilizaron 3 497 incendios forestales. En Quito, entre julio y septiembre, fueron 314 incendios forestales y 1 823 quemas de desechos.
-
-Del 23 al 27 de septiembre, el **Cuerpo de Bomberos** atendió 12 eventos y 91 quemas de desechos.
-
-> 🌳 [#QuitoMásVerdeQueNunca](https://twitter.com/hashtag/QuitoM%C3%A1sVerdeQueNunca?src=hash&ref_src=twsrc%5Etfw) | El alcalde Pabel Muñoz anunció un plan de reforestación para Quito, señaló que esta es una oportunidad para emprender un agresivo plan de reforestación y que «Quito quede más verde que nunca».  
->   
-> Más detalles 👉 [https://t.co/NkbjbsRHZH](https://t.co/NkbjbsRHZH)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/VMBIb2t1qK](https://t.co/VMBIb2t1qK)
-> 
-> — Quito Informa (@QuitoInforma) [October 1, 2024](https://twitter.com/QuitoInforma/status/1841111070464692503?ref_src=twsrc%5Etfw)
-
-**Sebastián Pillajo**, jefe de la Unidad de Patrimonio Natural de la Secretaría de Ambiente, recordó que las zonas afectadas estaban cubiertas por eucaliptos y especies resistentes. El primero incidió en que existiera un alta combustión.
-
-Sin embargo, en el plan no está quitar el eucalipto, pero se potenciarán las especies como laurel, aguacatillo, algarrobo, arrayán y molle. El agave, en cambio, servirá para fajas corta fuegos.
-
-Especies de fauna
------------------
-
-La **Secretaría de Ambiente**, además, recordó que las áreas de los flagelos, como el cerro Auqui y Guápulo, son hogar de fauna.
-
-En un barrido, el personal de la institución levantó el registro de especies de **reptiles, aves y mamíferos** con daños.
-
-En ese grupo están, entre otras, **la falsa coral, culebra boba verde, búho estigio, mirlo grande, gallinazo de cabeza negra, raposa, ratón andino y puerco espín**. 
-
-Elementos técnicos
-------------------
-
-**Cecilia Puertas**, docente de Gestión Ambiental, remarcó que para que la vegetación o el bosque pueda regenerarse deben quedar semillas o plantas vivas en la zona o en sus proximidades; es decir, bosques cercanos que aporten.
-
-Se trata de una sucesión ecológica que realiza un ecosistema después de una gran afectación. En una primera etapa de sucesión están las **especies pioneras**. Estas son más resistentes y tienen un rápido crecimiento.  
-
-En lo que se refiere a las técnicas humanas están las bolas de arcilla, conocidas como **supersemillas**, que se colocan con especies locales y nutrientes.
-
-Eso sí, Puertas dejó claro que no es solamente **reforestar por reforestar**, sino una acción planificada, pensando en el uso sostenible de la tierra, incluir a las comunidades.  
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/incendios-reforestacion-1024x683.jpg)
-
-Los incendios que generaron la emergencia en Quito empezaron el 24 de septiembre. Foto: Diego Pallero/El Comercio
-
-Tiempos de recuperación
------------------------
-
-De acuerdo con el **Ministerio de Ambiente**, el cambio climático ha generado consecuencias para Ecuador y otros países de la región.
-
-Las acciones de **restauración** deben arrancar cuando el fuego es sofocado totalmente y una vez que el suelo se haya enfriado, esto en un lapso no menor a **30 días**.
-
-En las próximas tres semanas, será necesario levantar un **diagnóstico** y cuantificación del área afectada, para, en los tres meses posteriores, empezar el proceso de **restauración**.
-
-Eso contempla labores de preparación del suelo, estabilización de taludes, selección de especies nativas, logística y la coordinación de **equipos de trabajo**.
-
-Luego de esas etapas, van las jornadas de **restauración** con el despliegue de brigadas. La meta: labores de limpieza de escombros y retiro de especies invasoras, para continuar con la reforestación de especies nativas en espacios cerrados que faciliten su desarrollo.
-
-Tras un mes de haber plantado las **especies**, caben las tareas de monitoreo y mantenimiento constantes para asegurar la sobrevivencia de las **plántulas o arbustos**.
-
-El seguimiento
---------------
-
-Cada dos meses, se debe evaluar el crecimiento de la **zona reforestada** y confirmar la erradicación de especies invasoras.
-
-Finalmente, indicó el **Ministerio de Ambiente**, seis meses después de la reforestación, se constatará el crecimiento de las plantas en la zona condicionada.
-
-(Video) Leonardo Campana marcó un golazo y festejó junto a Lionel Messi
-=======================================================================
-
-Leonardo Campana anotó un golazo agónico para darle la victoria al Inter de Miami.
-----------------------------------------------------------------------------------
-
-![Leonardo Campana celebrando con Lionel Messi luego de anotar un golazo en la MLS.](https://www.elcomercio.com/wp-content/uploads/2024/10/messi-campana.png)
-
-El **Inter Miami** continúa su racha de victorias gracias a la decisiva actuación del delantero ecuatoriano **Leonardo Campana**, quien selló el triunfo por 0-1 sobre Toronto FC en la MLS este 5 de octubre.
-
-### Más noticias
-
-* [Leonardo Campana y otras sorpresas de la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-leonardo-campana-sorpresas.html "Leonardo Campana y otras sorpresas de la Selección de Ecuador")
-* [Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/lionel-messi-mundial-clubes-inter-miami.html "Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025")
-
-El partido, disputado en condición de visitante, parecía destinado a un empate hasta que, en tiempo de descuento, **Campana anotó el único gol del encuentro**. Esta victoria mantiene vivas las esperanzas del equipo de alcanzar un **récord histórico de puntos en la liga estadounidense**.
-
-Campana, quien ha sido convocado recientemente por la selección ecuatoriana para los próximos enfrentamientos de eliminatorias mundialistas, demostró una vez más su **capacidad goleadora**.
-
-En el minuto 93, tras recibir un centro preciso del **uruguayo Luis Suárez**, controló el balón con gran técnica antes de enviar un potente disparo que terminó en la red. Su anotación **fue celebrada por su compañero Lionel Messi**, quien había ingresado en la segunda mitad del encuentro.
-
-> Se juntaron los goleadores ✨ Increíble volea de Campana para darnos la ventaja 💥 [pic.twitter.com/avXxs2pbWH](https://t.co/avXxs2pbWH)
-> 
-> — Inter Miami CF (@InterMiamiCF) [October 5, 2024](https://twitter.com/InterMiamiCF/status/1842686753599025493?ref_src=twsrc%5Etfw)
-
-Leonardo Campana sigue goleador por encima de Lionel Messi
-----------------------------------------------------------
-
-Con este gol, Campana eleva su registro a **32 tantos con la camiseta del Inter Miami**, consolidándose como el máximo goleador en la historia del club.
-
-A pesar de que **Messi, Suárez, Sergio Busquets y Jordi Alba** comenzaron en el banquillo, su influencia fue palpable en la segunda parte del partido, en la que el equipo local, Toronto FC, luchó por conseguir la victoria que les mantuviera en la pelea por los **playoff**s.
-
-Sin embargo, las intervenciones del portero argentino **Óscar Ustari**, quien debutó recientemente en la MLS, frustraron los intentos del equipo canadiense.
-
-El Inter Miami, con **71 puntos en 33 jornadas**, está a solo una victoria de superar el récord de 73 unidades. Para lograrlo, deberá vencer al propio New England en su próximo y decisivo partido, que se jugará el 19 de octubre en su estadio.
-
-Israel ataca centro de mando de Hamás
-=====================================
-
-A pocos días de cumplirse un año del conflicto entre Israel y Gaza, los ataques a puntos considerados como estratégicos continúan.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Este lunes 7 de octubre se cumple un año del inicio del conflicto entre Israel y Gaza. FOTO: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/israel-ataca-centro-de-mando-hamas-agencia-onu-refugiados.png)
-
-**Agencia EFE**  
-  
-Las Fuerzas de Defensa de Israel (IDF) anunciaron este sábado que realizaron un **ataque en la zona de Jabaliya, en el norte de la Franja de Gaza**, contra el grupo Hamás. Esta noticia la dieron en una comunicación a través de su canal de Telegram.
-
-Más noticias
-------------
-
-* [Edmundo González fijó fecha para tomar posesión como presidente de Venezuela](https://www.elcomercio.com/actualidad/mundo/edmundo-gonzalez-fecha-posesion-presidente-venezuela.html)
-* [Madrid flexibiliza la contratación de médicos de Cuba y de Venezuela](https://www.elcomercio.com/actualidad/mundo/madrid-flexibiliza-contratacion-medicos-cuba-venezuela.html)
-
-La institución aseguró que “el **centro de mando y control estaba integrado en un complejo** que anteriormente sirvió como **centro de la Agencia de Naciones Unidas para los Refugiados de Palestina en Oriente Próximo** (UNRWA)”.
-
-Según el comunicado, ahora **el lugar era “utilizado por los terroristas de Hamás para planificar** y ejecutar ataques terroristas contra las tropas de las IDF y el Estado de Israel”.
-
-Acusaciones de Israel a la Agencia UNWRA
-----------------------------------------
-
-Desde el recrudecimiento del conflicto, **Israel ha acusado a esta Agencia de Naciones Unidas de colaborar con Hamás.** Esto provocó que 118 países, incluido Estados Unidos, decidieran congelar su financiamiento.
-
-Sin embargo, en el mes de julio pasado, **más de un centenar de países consideraron** otorgar nuevamente fondos a la UNRWA. Aunque, **Estados Unidos no podrá hacerlo hasta 2025**, por expresa prohibición del Congreso.
-
-Respuesta de la Agencia de Naciones Unidas para Refugiados
-----------------------------------------------------------
-
-La semana pasada, el jefe de la Agencia de Naciones Unidas para los Refugiados Palestinos (UNWRA), Philippe Lazzarini, **volvió a rechazar la campaña contra la imagen de esta institución** que está haciendo Israel.
-
-  
-El **próximo 7 de octubre se cumplirá un año desde el ataque de Hamás a Israel** en el que murieron 1.200 israelíes y fueron secuestrados otros 251 -de los cuales 97 continúan en manos del grupo armado-.
-
-El ataque desencadenó una intensa ofensiva de Israel contra Gaza en la que **han muerto cerca de 42 000 personas**, la mayoría mujeres y niños. EFE  
-
-Rugrats tendrá su primera película en acción real
-=================================================
-
-La icónica serie de los años 90 volverá a la pantalla grande con una mezcla de CGI y actores reales.
-----------------------------------------------------------------------------------------------------
-
-![Tommy Pickles es uno de los bebés de la serie 'Rugrats'. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/rugrats-El-comercio.jpg)
-
-La nostalgia de los 90 sigue viva y Paramount Pictures ha decidido aprovecharla al máximo.
-
-La querida serie animada **‘Rugrats: Aventuras en Pañales**‘ tendrá su primera adaptación en formato de acción real, pero con una vuelta de tuerca: los adorables bebés protagonistas serán creados con **CGI** (animación por computadora).
-
-### Más noticias
-
-* **[Beyoncé perdió millones de seguidores por su conexión con ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html "https://www.elcomercio.com/tendencias/entretenimiento/beyonce-perdio-millones-de-seguidores-por-su-conexion-con-diddy.html")**
-* **[Pink Floyd vende su música y sus derechos por 400 millones de dólares](https://www.elcomercio.com/afull/pink-floyd-vende-musica-derechos-400-millones-dolares.html "https://www.elcomercio.com/afull/pink-floyd-vende-musica-derechos-400-millones-dolares.html")**
-
-Esta será la cuarta película de la franquicia y promete conquistar a viejos y nuevos fanáticos.
-
-¿Cómo será la nueva película de Rugrats?
-----------------------------------------
-
-![Carlitos es el mejor amigo de Tommy. Foto: Pintest](https://www.elcomercio.com/wp-content/uploads/2024/10/rugrats-El-comercio-2-1024x683.jpg)
-
-Carlitos es el mejor amigo de Tommy. Foto: Pintest
-
-La nueva película de Rugrats mezclará actores reales con personajes generados digitalmente. Mientras que los adultos serán interpretados por actores de carne y hueso, los bebés protagonistas, como **Tommy Pickles**, **Carlitos Finster** y **Angélica Pickle**s, serán creados digitalmente.
-
-Esta técnica busca recrear la magia de la serie original, pero adaptada al lenguaje visual moderno del cine. Jason Moore, conocido por su trabajo en comedias como ‘Dando la Nota’ y ‘Una boda explosiva’ , será el encargado de dirigir esta esperada película.
-
-El guion ha sido escrito por Mikey Day y Streeter Seidell, ambos humoristas reconocidos por su trabajo en Saturday Night Live . Además, los creadores originales de la serie, Arlene Klasky y Gábor Csupó, estarán involucrados en la producción, lo que garantiza que la esencia de Rugrats se mantendrá intacta.
-
-Rugrats, un clásico que regresa a lo grande
--------------------------------------------
-
-![Angélica es la prima de Tommy. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/rugrats-El-comercio-1-1024x683.jpg)
-
-Angélica es la prima de Tommy. Foto: Pinterest
-
-‘Rugrats: Aventuras en Pañales’ fue una de las series animadas más exitosas de **Nickelodeon**. Emitida por primera vez en 1991, siguió las aventuras de un grupo de bebés y niños pequeños que, gracias a su imaginación, convertían situaciones cotidianas en emocionantes travesías.
-
-Con nueve temporadas y tres películas previas, la serie se convirtió en un fenómeno cultural para toda una generación. El regreso de Rugrats en formato de acción real y CGI es una apuesta arriesgada, pero Paramount confía en replicar el éxito que tuvo con otras producciones similares, como **‘Sonic, la película’**.
-
-Si bien el uso de CGI en películas ha generado críticas en el pasado, los fanáticos de Rugrats esperan que esta adaptación mantenga el espíritu original de la serie y atraiga tanto a quienes crecieron con ella como a las nuevas generaciones.
-
-![Cintya es la muñeca favorita de Angélica. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/rugrats-El-comercio-4-1024x683.jpg)
-
-Cintya es la muñeca favorita de Angélica. Foto: Pinterest
-
-Aunque aún no hay una fecha confirmada de estreno ni un elenco revelado, el proyecto ya genera expectativas entre quienes crecieron con las travesuras de Tommy, Carlitos y compañía.
-
-Una serie adelantada a su época
--------------------------------
-
-‘Rugrats: Aventuras en Pañales’ destacaba por presentar una amplia gama de modelos familiares. Cada hogar reflejaba una estructura y dinámica distinta, desde el padre soltero Carlos Finster hasta los Pickles, donde la mamá de Tommy, Didi, mantenía una carrera profesional mientras su esposo Hugo era un inventor soñador.
-
-Estas diferencias en la crianza no solo aportaban humor a la serie, sino que normalizaban la idea de que no hay una única manera correcta de ser familia.
-
-La familia de Fili y Lili
--------------------------
-
-![Betty DeVille es la mamá de los gemelos Fili y Lili. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/rugrats-El-comercio-6-1024x683.jpg)
-
-Betty DeVille es la mamá de los gemelos Fili y Lili. Foto: Pinterest
-
-La mamá de los mellizos Fili y Lili, Betty DeVille, rompía con los estereotipos de la época, mostrando a una mujer fuerte, atlética y feminista, mientras su esposo Ulises asumía un rol más tranquilo.
-
-Esta dinámica invertía las ideas tradicionales de género, destacando la importancia de compartir las responsabilidades parentales y mostrando que tanto hombres como mujeres pueden adoptar diferentes roles dentro del hogar sin ser cuestionados.
-
-Los papás de Angélica
----------------------
-
-![Carlota es la mamá de Angélica. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/rugrats-El-comercio-5-1024x683.jpg)
-
-Carlota es la mamá de Angélica. Foto: Pinterest
-
-Los padres de Angélica, Julio y Charlotte Pickles, ofrecían una perspectiva distinta. Carlota era una mujer de negocios ambiciosa, siempre al teléfono, mientras que Drew, aunque también trabajador, adoptaba una postura más relajada.
-
-Esta familia reflejaba las tensiones de padres que buscan equilibrar el éxito profesional con la crianza de una hija, lo que influía en la actitud dominante y demandante de Angélica. La serie nos recordaba que, detrás de cada niño, hay un contexto familiar que moldea su comportamiento.
-
-Cerrará nueva parada de la Ecovía, en Quito
-===========================================
-
-Los trabajos en el carril exclusivo de la Ecovía se desarrollarán en 9km y tendrán una duración de 105 días.
-------------------------------------------------------------------------------------------------------------
-
-![La parada Jipijapa de la Ecovía retomó la atención después de la intervención en la zona. FOTO: Empresa de Transporte de Pasajeros.](https://www.elcomercio.com/wp-content/uploads/2024/10/trabajos-ecovia-6-de-diciembre-cierres-paradas.png)
-
-Los trabajos de hormigonado en la avenida 6 de Diciembre, en el norte Quito, provocan **cierres de las paradas en el carril exclusivo de la Ecovía.**
-
-Más noticias
-------------
-
-* [Cierre de tramo de la Autopista Rumiñahui para este domingo 6 de octubre](https://www.elcomercio.com/actualidad/cierre-de-tramo-de-la-autopista-ruminahui-para-este-domingo-6-de-octubre.html)
-* [Habilitan cinco desvíos por el cierre temporal de la Autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/habilitan-cinco-desvios-por-cierre-temporal-autopista-general-ruminahui.html)
-
-Después de 20 años de funcionamiento del carril exclusivo de la Ecovía, el **Municipio anunció una intervención.**
-
-Las empresas de Movilidad y Obras Públicas y la de Transporte de Pasajeros **intervienen 9km de esta vía**. **Las obras durarán 105 días**, según lo anunciado. Estas incluirán colocación de hormigón y, además, la readecuación de las paradas **en el norte y sur de Quito.**
-
-A pesar de los trabajos, el servicio de transporte de la **Ecovía continúa en funcionamiento.** Para los usuarios en algunos puntos se habilitaron paradas cercanas con estructuras provisionales.
-
-Nuevo cierre de parada
-----------------------
-
-Como parte de estos trabajos, la Empresa de Pasajeros anunció el **cierre de la parada Eloy Alfaro**, en el norte de **Quito**.
-
-**Primer cierre de un carril:** Desde el domingo, **6 de octubre de 2024**, se cerrará la parada en el sentido sur-norte. Y se habilitará una estructura provisional sobre este mismo carril.
-
-**Cierre total:** A partir del miércoles, **9 de octubre de 2024**, la parada se suspenderá totalmente. Según el comunicado de la empresa municipal, “se brindará el servicio con paradas provisionales”.
-
-> 🚎[#MuéveteInformado](https://twitter.com/hashtag/Mu%C3%A9veteInformado?src=hash&ref_src=twsrc%5Etfw) | A partir del domingo 6 de octubre, cerraremos la parada Eloy Alfaro de la [#Ecovía](https://twitter.com/hashtag/Ecov%C3%ADa?src=hash&ref_src=twsrc%5Etfw) sentido sur – norte.  
->   
-> 👉Instalaremos una parada provisional para atender a nuestros usuarios.[#TrabajamosPorQuito](https://twitter.com/hashtag/TrabajamosPorQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tNHA93LR0Q](https://t.co/tNHA93LR0Q)
-> 
-> — Empresa de Pasajeros Quito (@TransporteQuito) [October 5, 2024](https://twitter.com/TransporteQuito/status/1842647356279304444?ref_src=twsrc%5Etfw)
-
-Paradas cercanas
-----------------
-
-Al norte de la parada Eloy Alfaro que cerrará se ubica la **parada Benalcázar**, cercana al colegio que lleva el mismo nombre. Mientras que al sur se ubica la **parada Bellavista**, cercana a la Iglesia de La Paz.
