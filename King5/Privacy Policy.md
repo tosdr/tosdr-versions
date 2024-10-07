@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6/20241006T140833/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6/20241006T140833/bf2c2b5d-5b7b-4fb5-8fe5-6aefd5aae6b6_360x203.jpg)](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
+        
+        #### [Thurston County Sheriff Derek Sanders struck by suspected impaired driver in Olympia](https://www.king5.com/article/news/local/thurston-county-sheriff-derek-sanders-struck-by-impaired-driver-lacey/281-2c8321c9-3d15-4495-9933-8417da177797)
+        
     *  [![](https://media.king5.com/assets/KING/images/bd9a08f0-7200-4953-9149-6f1224286480/20241007T013101/bd9a08f0-7200-4953-9149-6f1224286480_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bd9a08f0-7200-4953-9149-6f1224286480/20241007T013101/bd9a08f0-7200-4953-9149-6f1224286480_360x203.jpg)](https://www.king5.com/article/news/crime/easy-street-records-dealing-two-incidents-damaging-store-over-weekend/281-5b666182-0593-4291-8128-98337c612f77)
         
-        #### [West Seattle store dealing with flood, break-in attempt over weekend](https://www.king5.com/article/news/crime/easy-street-records-dealing-two-incidents-damaging-store-over-weekend/281-5b666182-0593-4291-8128-98337c612f77)
-        
-    *  [![](https://media.king5.com/assets/KGW/images/a4cfcd65-ac07-4de6-963b-4e1d31f2913f/20241004T200156/a4cfcd65-ac07-4de6-963b-4e1d31f2913f_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/a4cfcd65-ac07-4de6-963b-4e1d31f2913f/20241004T200156/a4cfcd65-ac07-4de6-963b-4e1d31f2913f_360x203.jpg)](https://www.king5.com/article/news/local/search-portland-mom-child-fentanyl-suspected-death/283-dcb6f3f8-ff74-4083-b009-6134abed2e2c)
-        
-        #### [Police seek 'armed and dangerous' mom of 2-year-old who died from suspected fentanyl exposure](https://www.king5.com/article/news/local/search-portland-mom-child-fentanyl-suspected-death/283-dcb6f3f8-ff74-4083-b009-6134abed2e2c)
+        #### ['Easy Street Records' dealing with two incidents damaging store over weekend](https://www.king5.com/article/news/crime/easy-street-records-dealing-two-incidents-damaging-store-over-weekend/281-5b666182-0593-4291-8128-98337c612f77)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/CCT/images/a3b1d1d0-7537-4a75-9789-43256d2f56de/20241006T152617/a3b1d1d0-7537-4a75-9789-43256d2f56de_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/a3b1d1d0-7537-4a75-9789-43256d2f56de/20241006T152617/a3b1d1d0-7537-4a75-9789-43256d2f56de_360x203.jpg)](https://www.king5.com/article/news/nation-world/tropical-storm-milton-path/507-e932ea8e-2328-4f50-b3ba-7186c4038422)
-        
-        #### [Hurricane Milton has formed and could grow stronger before hitting Florida midweek](https://www.king5.com/article/news/nation-world/tropical-storm-milton-path/507-e932ea8e-2328-4f50-b3ba-7186c4038422)
-        
     *  [![](https://media.king5.com/assets/KING/images/7b1d3400-5cca-4126-801f-7721d215c9bb/20241006T151818/7b1d3400-5cca-4126-801f-7721d215c9bb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7b1d3400-5cca-4126-801f-7721d215c9bb/20241006T151818/7b1d3400-5cca-4126-801f-7721d215c9bb_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/CCT/images/a3b1d1d0-7537-4a75-9789-43256d2f56de/20241006T152617/a3b1d1d0-7537-4a75-9789-43256d2f56de_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/a3b1d1d0-7537-4a75-9789-43256d2f56de/20241006T152617/a3b1d1d0-7537-4a75-9789-43256d2f56de_360x203.jpg)](https://www.king5.com/article/news/nation-world/tropical-storm-milton-path/507-e932ea8e-2328-4f50-b3ba-7186c4038422)
+        
+        #### [Hurricane Milton has formed and could grow stronger before hitting Florida midweek](https://www.king5.com/article/news/nation-world/tropical-storm-milton-path/507-e932ea8e-2328-4f50-b3ba-7186c4038422)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-61°
+53°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
