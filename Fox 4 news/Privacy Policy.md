@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Prescott throws TD pass to Tolbert with 20 seconds left to lift Cowboys past Steelers, 20-17](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2177177449-scaled.jpg?ve=1&tl=1)
+
+ ![Prescott throws TD pass to Tolbert with 20 seconds left to lift Cowboys past Steelers, 20-17](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177177449-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/cowboys-steelers-oct-7-2024)
+
+### [Prescott throws TD pass to Tolbert with 20 seconds left to lift Cowboys past Steelers, 20-17](https://www.fox4news.com/sports/cowboys-steelers-oct-7-2024)
+
+ [![Texas swaggers into SEC and midseason break undefeated and in best shape in more than a decade](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2175520409.jpg?ve=1&tl=1)
+
+ ![Texas swaggers into SEC and midseason break undefeated and in best shape in more than a decade](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2175520409.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-poll-sec-oct-6)
+
+### [Texas swaggers into SEC and midseason break undefeated and in best shape in more than a decade](https://www.fox4news.com/sports/texas-poll-sec-oct-6)
+
  [![Former Texas Rangers pitcher Matt Bush charged with DWI after Arlington crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/matthew-bush-mug.jpg?ve=1&tl=1)
 
  ![Former Texas Rangers pitcher Matt Bush charged with DWI after Arlington crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/matthew-bush-mug.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/matt-bush-dwi-crash-arlington-2024)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Milton latest: Hurricane expected to intensify to Category 4 before Florida landfall](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/al14_cone-1@1x_1-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
 
 ### [Milton latest: Hurricane expected to intensify to Category 4 before Florida landfall](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
-
- [![Yellowstone cast and crew hold wrap party at Fort Worth's Joe T. Garcia's](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/yellowstone-cast-wrap-party-at-joe-t-garcia-pic-3.jpg?ve=1&tl=1)
-
- ![Yellowstone cast and crew hold wrap party at Fort Worth's Joe T. Garcia's](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/yellowstone-cast-wrap-party-at-joe-t-garcia-pic-3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/yellowstone-cast-crew-hold-wrap-party-fort-worths-joe-t-garcias)
-
-### [Yellowstone cast and crew hold wrap party at Fort Worth's Joe T. Garcia's](https://www.fox4news.com/news/yellowstone-cast-crew-hold-wrap-party-fort-worths-joe-t-garcias)
-
- [![New Supreme Court session starts Monday: Here's what's on the docket](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2175584244-scaled.jpg?ve=1&tl=1)
-
- ![New Supreme Court session starts Monday: Here's what's on the docket](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2175584244-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/supreme-court-docket-october-2024)
-
-### [New Supreme Court session starts Monday: Here's what's on the docket](https://www.fox4news.com/news/supreme-court-docket-october-2024)
 
 ###### [News](https://www.fox4news.com/news)
 
