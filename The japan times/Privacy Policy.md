@@ -513,11 +513,11 @@ Podcast
 Longform
 --------
 
-  [![Wozme, founded by dancer and choreographer Wakaba Kohei, is composed of Kana Kitty, Ami Ishii, Akane Watanabe and Natsuki. Its aim is to inject elegance and beauty, traits traditionally associated with femininity, into the sometimes grotesque art form of butoh dance.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/09/30/423690.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Wozme, founded by dancer and choreographer Wakaba Kohei, is composed of Kana Kitty, Ami Ishii, Akane Watanabe and Natsuki. Its aim is to inject elegance and beauty, traits traditionally associated with femininity, into the sometimes grotesque art form of butoh dance.")](https://www.japantimes.co.jp/culture/2024/09/29/stage/butoh-dance-wozme-japan/ "Wozme, an all-women dance troupe, wants to move the needle in butoh")
+  [![Dul Saroth (left) and Soeum Samrach, deminers with the Cambodian Mine Action and Victim Assistance Authority, practice using the Advanced Landmine Imaging System in Cambodia’s Siem Reap province in August.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425242.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dul Saroth (left) and Soeum Samrach, deminers with the Cambodian Mine Action and Victim Assistance Authority, practice using the Advanced Landmine Imaging System in Cambodia’s Siem Reap province in August.")](https://www.japantimes.co.jp/news/2024/10/07/japan/japan-cambodia-laos-demining-tech/ "The Japanese tech that could one day make Southeast Asia landmine-free")
 
-[Wozme, an all-women dance troupe, wants to move the needle in butoh](https://www.japantimes.co.jp/culture/2024/09/29/stage/butoh-dance-wozme-japan/ "Wozme, an all-women dance troupe, wants to move the needle in butoh")
+[The Japanese tech that could one day make Southeast Asia landmine-free](https://www.japantimes.co.jp/news/2024/10/07/japan/japan-cambodia-laos-demining-tech/ "The Japanese tech that could one day make Southeast Asia landmine-free")
 
-By [Zoria Petkoska](https://www.japantimes.co.jp/author/6018/zoria-petkoska/ "Zoria Petkoska")  
+By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ "Anton L. Delgado")  
 
 SUSTAINABLE JAPAN
 -----------------
@@ -564,17 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan and South Korea to expand initiative to cut methane emissions](https://www.japantimes.co.jp/news/2024/10/06/japan/japan-south-korea-cut-methane-emissions/ "Japan and South Korea to expand initiative to cut methane emissions")
+[Vietnam's young coffee entrepreneurs brew up a revolution](https://www.japantimes.co.jp/business/2024/10/07/vietnam-young-coffee-entrepreneurs/ "Vietnam's young coffee entrepreneurs brew up a revolution")
 
-11 hours ago
+23 mins ago
 
-[Florida faces new storm threat as region reels from Helene](https://www.japantimes.co.jp/news/2024/10/06/world/florida-new-storm/ "Florida faces new storm threat as region reels from Helene")
+[Asia rises as study destination for Japanese students and teachers](https://www.japantimes.co.jp/news/2024/10/07/japan/society/study-abroad-philippines/ "Asia rises as study destination for Japanese students and teachers")
 
-[Intense Israeli bombing rocks Beirut ahead of war anniversary](https://www.japantimes.co.jp/news/2024/10/06/world/intense-israel-bombing/ "Intense Israeli bombing rocks Beirut ahead of war anniversary")
+23 mins ago
 
-[Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/06/japan/politics/ldp-not-endorse-slush-fund-lawmakers/ "Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election")
+[After a year of war, Israel's borrowing costs reflect burden of conflict](https://www.japantimes.co.jp/business/2024/10/07/markets/war-israel-borrowing-strength/ "After a year of war, Israel's borrowing costs reflect burden of conflict")
 
-[Rise of 'spot work' schemes leading to scams in Japan](https://www.japantimes.co.jp/news/2024/10/06/japan/crime-legal/spot-work-scams/ "Rise of 'spot work' schemes leading to scams in Japan")
+37 mins ago
+
+[China stock skepticism gets louder as world-beating run extends](https://www.japantimes.co.jp/business/2024/10/07/markets/china-stock-skepticism/ "China stock skepticism gets louder as world-beating run extends")
+
+56 mins ago
+
+[Chinese Embassy says citizens killed in Pakistan 'terrorist attack'](https://www.japantimes.co.jp/news/2024/10/07/asia-pacific/chinese-embassy-terrorist-attack-pakistan/ "Chinese Embassy says citizens killed in Pakistan 'terrorist attack'")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
