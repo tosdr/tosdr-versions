@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-e3e0fff941f4bd2bf63b9a48d77158f0
+792a50169782d86d0a288bd9f159c021
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Green swirl button clasp](https://sojourner.biz/images/cache/SKU0279front.200.jpg)](https://sojourner.biz/clasps/glass/green-swirl-button-clasp.html "Green swirl button clasp")
+[![2 mm micro-faceted rose quartz beads](https://sojourner.biz/images/cache/rose_quartz/RQ0016one.200.jpg)](https://sojourner.biz/beads/stone-m-z/rose-quartz/2-mm-micro-faceted-rose-quartz-beads.html "2 mm micro-faceted rose quartz beads")
 
-#### [Green swirl button clasp](https://sojourner.biz/clasps/glass/green-swirl-button-clasp.html "Green swirl button clasp")
+#### [2 mm micro-faceted rose quartz beads](https://sojourner.biz/beads/stone-m-z/rose-quartz/2-mm-micro-faceted-rose-quartz-beads.html "2 mm micro-faceted rose quartz beads")
 
-$17.00
+$14.00
 
 ### Best Sellers
 
