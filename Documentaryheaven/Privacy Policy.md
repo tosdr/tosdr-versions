@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Winged Seduction: Birds Of Paradise](/wp-content/thumbnails/8617-100x70.jpg?x53432)
+* [![David Guetta: Nothing But the Beat](/wp-content/thumbnails/6593-100x70.jpg?x53432)
     
-    Winged Seduction: Birds Of Paradise
+    David Guetta: Nothing But the Beat
     
-    Tim Laman a photographer for National Geographic and ornithologist Ed Scholes have been traveling to some of the most remote jungles the world has to offer in search of observing and photographing all](https://documentaryheaven.com/winged-seduction-birds-of-paradise/ "Winged Seduction: Birds Of Paradise")
-* [![RFK Must Die: Assassination of Bobby Kennedy](/wp-content/thumbnails/1237-100x70.jpg?x53432)
+    David Guetta, popular French house music producer and DJ, tells the story of himself and the electronic music.“I cannot look at myself in the mirror if I do not give 100 percent. My ambition is ne](https://documentaryheaven.com/david-guetta-nothing-but-the-beat/ "David Guetta: Nothing But the Beat")
+* [![Shouting Fire: Stories From The Edge of Free Speech](/wp-content/thumbnails/5855-100x70.jpg?x53432)
     
-    RFK Must Die: Assassination of Bobby Kennedy
+    Shouting Fire: Stories From The Edge of Free Speech
     
-    Why was RFK rerouted from his original destination in the hotel straight into the path of an assassin s bullet? Who was the girl in the polka dot dress seen fleeing the hotel screaming We shot him, w](https://documentaryheaven.com/rfk-must-die-assassination-of-bobby-kennedy/ "RFK Must Die: Assassination of Bobby Kennedy")
-* [![Titanic’s Final Moments: Missing Pieces](/wp-content/thumbnails/5817-100x70.jpg?x53432)
+    This documentary film look at the changing interpretations of the first amendment of the U.S. Constitution – laws and court cases that have alternatively broadened and narrowed the amendment’s protect](https://documentaryheaven.com/shouting-fire-stories-from-the-edge-of-free-speech/ "Shouting Fire: Stories From The Edge of Free Speech")
+* [![DPRK: The Land of Whispers](/wp-content/thumbnails/7061-100x70.jpg?x53432)
     
-    Titanic’s Final Moments: Missing Pieces
+    DPRK: The Land of Whispers
     
-    In August 2005, a History Channel expedition team made a shocking discovery more than two miles beneath the Atlantic Ocean: large missing pieces of Titanic’s bottom, more than 1,500 feet from the rest](https://documentaryheaven.com/titanics-final-moments-missing-pieces/ "Titanic’s Final Moments: Missing Pieces")
-* [![The Truth 365](/wp-content/thumbnails/7428-100x70.jpg?x53432)
+    North Korea lies somewhere between a 1930′s Soviet Union frozen in time and a dark, futuristic vision of society… as imagined back in the 70′s.Land of Whispers invites you to visit arguably the mo](https://documentaryheaven.com/dprk-the-land-of-whispers/ "DPRK: The Land of Whispers")
+* [![I Want My Sex Back!](/wp-content/thumbnails/14264-100x70.jpg?x53432)
     
-    The Truth 365
+    I Want My Sex Back!
     
-    The Truth 365 is a grass-roots documentary film and social media campaign that gives a voice to all children fighting all forms of cancer. Hosted by 18 year-old Melinda Marchiano, who is a cancer surv](https://documentaryheaven.com/truth-365/ "The Truth 365")
-* [![Steve O Demise and Rise](/wp-content/thumbnails/6393-100x70.jpg?x53432)
+    I Want My Sex Back! is the personal tale of three men who went under the knife in order to change their sex but who now years latter regret the permanent procedure. Through a number of interviews we h](https://documentaryheaven.com/want-sex-back/ "I Want My Sex Back!")
+* [![The James Holmes Conspiracy](/wp-content/thumbnails/6695-100x70.jpg?x53432)
     
-    Steve O Demise and Rise
+    The James Holmes Conspiracy
     
-    Over one year sober now and fresh off a comeback stint on ABC's 'Dancing With the Stars', Steve-O is set to bare his soul and everything else in 'Steve-O: Demise and Rise', a brutally honest one-hour](https://documentaryheaven.com/steve-o-demise-and-rise/ "Steve O Demise and Rise")
+    The James Holmes Conspiracy is for those who do not believe the story being told by the government and media.James Eagan Holmes is the suspected perpetrator of a mass shooting that occurred on July](https://documentaryheaven.com/the-james-holmes-conspiracy/ "The James Holmes Conspiracy")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
