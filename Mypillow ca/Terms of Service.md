@@ -35,7 +35,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Multi-Use MyPillows](https://www.mypillow.com/multi-use-mypillow)
     * [Body Pillow](https://www.mypillow.com/mybody-pillow-special)
     * [Bolster Pillow](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
-    * [Bible Story MyPillows](https://www.mypillow.com/2-pack-childrens-bible-pillows-extravaganza)
+    * [Bible Story MyPillows](https://www.mypillow.com/catalog/product/view/id/14439/s/2-pack-childrens-bible-pillows-extravaganza/)
     * [Couch and Recliner Pillows](https://www.mypillow.com/couch-and-recliner-pillows)
 * [Bedding](https://www.mypillow.com/bedding)
     * [Sheets](https://www.mypillow.com/bedding)
@@ -93,8 +93,6 @@ Apply
  ![](https://www.mypillow.com/media/wysiwyg/promotions/free-shipping-75-exclude.jpg)
 
 [](https://www.mypillow.com/the-classic-collection)
-
-[](https://www.mypillow.ca/25-extravaganza-new)
 
 [](https://www.mypillow.com/mycoffee-options)
 
@@ -178,7 +176,7 @@ SHOP NOW](https://www.mypillow.com/hannity-new)
 
    [](https://www.mypillow.com/mikes-products)
 
-   [](https://www.mypillow.com/2-pack-childrens-bible-pillows-extravaganza)
+   
 
    [](https://www.mypillow.com/open-box)
 
