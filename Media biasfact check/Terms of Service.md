@@ -73,11 +73,11 @@
 
 MBFC News
 
-* [September 28, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Sep 22nd – Sep 28th](https://mediabiasfactcheck.com/2024/09/28/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-sep-22nd-sep-28th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Sep 22nd – Sep 28th")
-* [September 28, 2024 | MBFC’s Daily Vetted Fact Checks for 09/28/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/09/28/mbfcs-daily-vetted-fact-checks-for-09-28-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 09/28/2024 (Weekend Edition)")
-* [September 27, 2024 | Smartmatic and Newsmax Settle Defamation Lawsuit](https://mediabiasfactcheck.com/2024/09/27/smartmatic-and-newsmax-settle-defamation-lawsuit/ "Smartmatic and Newsmax Settle Defamation Lawsuit")
-* [September 27, 2024 | MBFC’s Daily Vetted Fact Checks for 09/27/2024](https://mediabiasfactcheck.com/2024/09/27/mbfcs-daily-vetted-fact-checks-for-09-27-2024/ "MBFC’s Daily Vetted Fact Checks for 09/27/2024")
-* [September 26, 2024 | MBFC’s Daily Vetted Fact Checks for 09/26/2024](https://mediabiasfactcheck.com/2024/09/26/mbfcs-daily-vetted-fact-checks-for-09-26-2024/ "MBFC’s Daily Vetted Fact Checks for 09/26/2024")
+* [October 6, 2024 | MBFC’s Daily Vetted Fact Checks for 10/06/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/10/06/mbfcs-daily-vetted-fact-checks-for-10-06-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 10/06/2024 (Weekend Edition)")
+* [October 5, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Sep 29th – Oct 5th](https://mediabiasfactcheck.com/2024/10/05/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-sep-29th-oct-5th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Sep 29th – Oct 5th")
+* [October 5, 2024 | MBFC’s Daily Vetted Fact Checks for 10/05/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/10/05/mbfcs-daily-vetted-fact-checks-for-10-05-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 10/05/2024 (Weekend Edition)")
+* [October 4, 2024 | MBFC’s Daily Vetted Fact Checks for 10/04/2024](https://mediabiasfactcheck.com/2024/10/04/mbfcs-daily-vetted-fact-checks-for-10-04-2024/ "MBFC’s Daily Vetted Fact Checks for 10/04/2024")
+* [October 3, 2024 | MBFC’s Daily Vetted Fact Checks for 10/03/2024](https://mediabiasfactcheck.com/2024/10/03/mbfcs-daily-vetted-fact-checks-for-10-03-2024/ "MBFC’s Daily Vetted Fact Checks for 10/03/2024")
 
 Search for:  
 
@@ -153,74 +153,74 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
-* [Annual Review of Medicine – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-medicine-bias/)
+* [BMC Biomedical Engineering – Bias and Credibility](https://mediabiasfactcheck.com/bmc-biomedical-engineering-bias/)
     
-    September 28, 2024
+    October 6, 2024
     
-* [Illawarra Mercury – Bias and Credibility](https://mediabiasfactcheck.com/illawarra-mercury-bias/)
+* [America PAC – Bias and Credibility](https://mediabiasfactcheck.com/america-pac-bias-and-credibility/)
     
-    September 27, 2024
+    October 6, 2024
     
-* [Energy, Sustainability and Society Journal – Bias and Credibility](https://mediabiasfactcheck.com/energy-sustainability-and-society-journal-bias/)
+* [Mr. Badly Productions – Bias and Credibility](https://mediabiasfactcheck.com/mr-badly-productions-bias-and-credibility/)
     
-    September 27, 2024
+    October 6, 2024
     
-* [Plymouth Pilot-News – Bias and Credibility](https://mediabiasfactcheck.com/plymouth-pilot-news-bias/)
+* [Starkville Daily News – Bias and Credibility](https://mediabiasfactcheck.com/starkville-daily-news-bias/)
     
-    September 27, 2024
+    October 6, 2024
     
-* [WSAU – 550 AM – Wausau – Bias and Credibility](https://mediabiasfactcheck.com/wsau-550-am-wausau-bias/)
+* [Lebanon PA News – Bias and Credibility](https://mediabiasfactcheck.com/lebanon-pa-news-bias/)
     
-    September 26, 2024
+    October 5, 2024
     
-* [Keystone Today – Bias and Credibility](https://mediabiasfactcheck.com/keystone-today-bias/)
+* [WAIC – NPR – Springfield – Bias and Credibility](https://mediabiasfactcheck.com/waic-npr-springfield-bias/)
     
-    September 26, 2024
+    October 5, 2024
     
-* [Sightline Institute – Bias and Credibility](https://mediabiasfactcheck.com/sightline-institute-bias-and-credibility/)
+* [St Helens Star – Bias and Credibility](https://mediabiasfactcheck.com/st-helens-star-bias/)
     
-    September 26, 2024
+    October 5, 2024
     
-* [WCAI – NPR – Woods Hole – Bias and Credibility](https://mediabiasfactcheck.com/wcai-npr-woods-hole-bias/)
+* [Impact Research – Bias and Credibility](https://mediabiasfactcheck.com/impact-research-bias-and-credibility/)
     
-    September 26, 2024
+    October 5, 2024
     
 
 #### Recently Updated Pages
 
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - September 28, 2024
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - October 6, 2024
     
-* [Annual Review of Medicine – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-medicine-bias/ "View Annual Review of Medicine – Bias and Credibility") - September 28, 2024
+* [BMC Biomedical Engineering – Bias and Credibility](https://mediabiasfactcheck.com/bmc-biomedical-engineering-bias/ "View BMC Biomedical Engineering – Bias and Credibility") - October 6, 2024
     
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - September 27, 2024
+* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - October 6, 2024
     
-* [Illawarra Mercury – Bias and Credibility](https://mediabiasfactcheck.com/illawarra-mercury-bias/ "View Illawarra Mercury – Bias and Credibility") - September 27, 2024
+* [America PAC – Bias and Credibility](https://mediabiasfactcheck.com/america-pac-bias-and-credibility/ "View America PAC – Bias and Credibility") - October 6, 2024
     
-* [Energy, Sustainability and Society Journal – Bias and Credibility](https://mediabiasfactcheck.com/energy-sustainability-and-society-journal-bias/ "View Energy, Sustainability and Society Journal – Bias and Credibility") - September 27, 2024
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - October 6, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - September 27, 2024
+* [Mr. Badly Productions – Bias and Credibility](https://mediabiasfactcheck.com/mr-badly-productions-bias-and-credibility/ "View Mr. Badly Productions – Bias and Credibility") - October 6, 2024
     
-* [Plymouth Pilot-News – Bias and Credibility](https://mediabiasfactcheck.com/plymouth-pilot-news-bias/ "View Plymouth Pilot-News – Bias and Credibility") - September 27, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - October 6, 2024
     
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - September 27, 2024
+* [Starkville Daily News – Bias and Credibility](https://mediabiasfactcheck.com/starkville-daily-news-bias/ "View Starkville Daily News – Bias and Credibility") - October 6, 2024
     
-* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - September 26, 2024
+* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - October 6, 2024
     
-* [WSAU – 550 AM – Wausau – Bias and Credibility](https://mediabiasfactcheck.com/wsau-550-am-wausau-bias/ "View WSAU – 550 AM – Wausau – Bias and Credibility") - September 26, 2024
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - October 5, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Morning Consult - Bias and Credibility](https://mediabiasfactcheck.com/morning-consult/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [MBFC's Daily Vetted Fact Checks for 09/27/2024](https://mediabiasfactcheck.com/2024/09/27/mbfcs-daily-vetted-fact-checks-for-09-27-2024/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [MBFC's Daily Vetted Fact Checks for 10/05/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/10/05/mbfcs-daily-vetted-fact-checks-for-10-05-2024-weekend-edition/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [MBFC's Daily Vetted Fact Checks for 09/28/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/09/28/mbfcs-daily-vetted-fact-checks-for-09-28-2024-weekend-edition/)
-* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
+* [New York Post - Bias and Credibility](https://mediabiasfactcheck.com/new-york-post/)
+* [Daily Mail - Bias and Credibility](https://mediabiasfactcheck.com/daily-mail/)
+* [MBFC's Daily Vetted Fact Checks for 10/06/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/10/06/mbfcs-daily-vetted-fact-checks-for-10-06-2024-weekend-edition/)
+* [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
 
 #### Subscribe via Email
 
