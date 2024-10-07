@@ -14,46 +14,9 @@ Force Open Search
 
 Open main menu
 
-![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+Loading...
 
-Take your next trip with Atlas Obscura!
----------------------------------------
-
-Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
-
-[Visit Adventures](https://www.atlasobscura.com/adventures/)
-
-Trips Highlight
-
-   [![Oaxaca Mexico tamales](https://img.atlasobscura.com/BaDERNykwdpWGsX04_iG0FTckM-RiYp8I4MeL2Z-xW0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zNzM2/MmEwZC04NTcyLTRk/NzEtOTA0YS1jZDVl/YjgyYmI5YWY1MDE5/MjZkZDQ5ZTVhOGVi/ZDBfT2F4YWNhIE1l/eGljbyB0YW1hbGVz/IC0gQWRvYmVTdG9j/a180Nzk1MzAwODgu/anBlZw.jpg)](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
-
-Mexico • 7 days, 6 nights
-
-[Flavors of Oaxaca: Markets, Mezcal & Home-Cooked Meals](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
-
-from
-
-   [![New Zealand, South Island, Wanaka](https://img.atlasobscura.com/knTC-fD-tJhZigIK456j_esuV2jEb8sBH855Yw3DJmA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8yYThk/NTNkOS0wZTQyLTQ1/MjAtOWFkNC02Yzlj/NGFjNDUwMWUxYWJm/ZThmZTc2OGViYzNh/Y2RfR2V0dHlJbWFn/ZXMtMTA5MDcwNTUx/Ni5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/new-zealand)
-
-New Zealand • 12 days, 11 nights
-
-[Wild New Zealand: Exploring the North & South Islands](https://www.atlasobscura.com/adventures/trips/new-zealand)
-
-from
-
-[View all trips](https://www.atlasobscura.com/adventures/trips)
-
-Upcoming Experiences
-
-[View All Experiences »](https://www.atlasobscura.com/events)
-
-   [![](https://img.atlasobscura.com/4lnSORRHftHNFSJnX2vgq7vz1D7DNAxzjzZx6pwH6rI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy84NDE4/NmExYi1hZjc1LTQ5/ODUtYWNkNy0xNWRi/NmVkYjUyZmVkMzEw/YzZmODMzMjg5YmYx/ZGRfeXJxWlM4VkEu/anBn.jpg)
-
-Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-san-francisco)
-
-   [![](https://img.atlasobscura.com/XI6KeU7ZYS2Ec45uq9gM7aA-D7uMh3GbDxv0u4lDl8c/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yM2Qy/YjBiYy0yN2E2LTQ4/YTctYTNmOC0wYzgx/Yzk5NWE5NzdjNzY2/YzAxNmJhZDE0OWZj/YzFfdWMzeGtqa1Eu/anBn.jpg)
-
-Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-santa-cruz)
+Loading...
 
 Upcoming Courses
 
@@ -79,73 +42,7 @@ Seas The Day: Life Lessons from Cephalopods With Dr. Sarah McAnulty](https://www
 
 Decoding the Afterlife: Ancient Egyptian Tombstones With Dr. Nicky Nielsen](https://www.atlasobscura.com/experiences/ancient-egyptian-tombstones-course)
 
-Top Destinations
-
-Latest Places
-
-[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
-
-Top Destinations
-
-[View All Destinations »](https://www.atlasobscura.com/destinations)
-
-### Countries
-
-* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
-* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
-* [China](https://www.atlasobscura.com/things-to-do/china "China")
-* [France](https://www.atlasobscura.com/things-to-do/france "France")
-* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
-* [India](https://www.atlasobscura.com/things-to-do/india "India")
-* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
-* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
-
-### Cities
-
-* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
-* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
-* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
-* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
-* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
-* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
-* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
-* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
-* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
-* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
-* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
-* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
-* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
-* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
-* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
-* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
-* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
-* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
-* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
-* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
-* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
-* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
-* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
-* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
-
-Latest Places
-
-[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
-
-   [![The Holborn Viaduct as seen from Farringdon Street.](https://img.atlasobscura.com/B4Pt6thVY9EHIr46GwffNGH13BQF9NnrkJxMcMz9_Lc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zMWY1/Y2MxNy1lY2Q4LTRk/NjYtOTcxNC1iZTQz/ZDE1MjU1MzQ0OTc1/ODc5MDU5MWIzMDEw/MDBfdmlhZHVjdDMu/anBn.jpg)
-
-Holborn Viaduct](https://www.atlasobscura.com/places/holborn-viaduct)
-
-   [![](https://img.atlasobscura.com/GQIwqxommTe9GOI4QHLl82_nD9Hl74uHJxvKCvlQdvA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84MTFj/MzkwNy1mMmQ2LTQz/NjMtOTY5NC1hNjI4/MTBjNmQ3NGU1ZmQ5/MTY1Y2I3MDNkNDc5/OTBfMjAyNDA0MTRf/MTI1NTExLmpwZw.jpg)
-
-Deutsches Stuhlbaumuseum](https://www.atlasobscura.com/places/deutsches-stuhlbaumuseum)
-
-   [![](https://img.atlasobscura.com/-vLlDn5OCq5R4mc7G5jXH4QTR3ZbQiw28PvPWMv5GAY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iMmJj/M2M0MS1jODk1LTRk/MzktOTIxYy1mMGFm/ZDQxY2VmYWNiMDhh/ODU5MmZlMTY5Zjc4/ZDFfSU1HXzUwODAu/anBlZw.jpg)
-
-Kalkugnarna](https://www.atlasobscura.com/places/kalkugnarna)
-
-   [![](https://img.atlasobscura.com/izKXDx4k_bJnkX1Q56ZuCDD2OSb4MaY2qyhFpPPjG4Y/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kZGVl/MzIwNy0yMjNiLTRj/NGItYjgzZi1jNWZj/OGI1MzY5MWI2ZWE0/Y2I4NDU3OGE3ODI1/Y2FfMTAwMDA4MTk4/My5qcGc.jpg)
-
-Tuinplaas - Tiny Town](https://www.atlasobscura.com/places/tuinplaas-tiny-town)
+Loading...
 
 Latest Places to Eat & Drink
 
