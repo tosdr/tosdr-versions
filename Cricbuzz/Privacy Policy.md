@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ENGW vs RSAW - Preview](https://www.cricbuzz.com/live-cricket-scores/94604/engw-vs-rsaw-9th-match-group-b-icc-womens-t20-world-cup-2024 "England Women v South Africa Women, 9th Match, Group B - Preview")[IRE vs RSA - Live](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 3rd ODI - Live")[PAK vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Stumps")[GAW vs SLK - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92964/gaw-vs-slk-final-caribbean-premier-league-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Final - SLK Won")[BAN vs IND - IND Won](https://www.cricbuzz.com/live-cricket-scores/100238/ban-vs-ind-1st-t20i-bangladesh-tour-of-india-2024 "Bangladesh v India, 1st T20I - IND Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[IRE vs RSA - Live](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 3rd ODI - Live")[RSAW vs ENGW - ENGW Won](https://www.cricbuzz.com/live-cricket-scores/94604/rsaw-vs-engw-9th-match-group-b-icc-womens-t20-world-cup-2024 "South Africa Women v England Women, 9th Match, Group B - ENGW Won")[PAK vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Stumps")[GAW vs SLK - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92964/gaw-vs-slk-final-caribbean-premier-league-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Final - SLK Won")[BAN vs IND - IND Won](https://www.cricbuzz.com/live-cricket-scores/100238/ban-vs-ind-1st-t20i-bangladesh-tour-of-india-2024 "Bangladesh v India, 1st T20I - IND Won")
 
 AllLive NowToday
 
@@ -59,6 +59,10 @@ AllLive NowToday
     [Bangladesh vs India](https://www.cricbuzz.com/live-cricket-scores/100238/ban-vs-ind-1st-t20i-bangladesh-v-india-2024 "Bangladesh v India, 1st T20I - IND Won")
     
     1st T20I
+    
+* [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100247/ind-vs-ban-2nd-t20i-bangladesh-v-india-2024 "India v Bangladesh, 2nd T20I - Upcoming")
+    
+    2nd T20I
     
 * South Africa vs Ireland, 2024
     
@@ -71,12 +75,6 @@ AllLive NowToday
     [Pakistan vs England](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-pakistan-v-england-2024 "Pakistan v England, 1st Test - Stumps")
     
     1st Test
-    
-* Namibia Tri-Series 2024
-    
-    [Namibia vs United States](https://www.cricbuzz.com/live-cricket-scores/107697/nam-vs-usa-6th-match-namibia-tri-series-2024 "Namibia v United States, 6th Match - USA Won")
-    
-    6th Match
     
 * T20 LEAGUE
     
@@ -104,17 +102,25 @@ AllLive NowToday
     
     11th Match
     
-* CSA T20 Knock Out Competition
+* [Titans vs Boland](https://www.cricbuzz.com/live-cricket-scores/103492/tit-vs-bol-16th-match-csa-t20-challenge "Titans v Boland, 16th Match - Upcoming")
     
-    [Tuskers vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/105220/tusks-vs-ncape-14th-match-csa-t20-knock-out-competition "Tuskers v Northern Cape, 14th Match - TUSKS Won")
+    16th Match
+    
+* [Knights vs Lions](https://www.cricbuzz.com/live-cricket-scores/103485/kng-vs-lions-15th-match-csa-t20-challenge "Knights v Lions, 15th Match - Upcoming")
+    
+    15th Match
+    
+* [Dolphins vs North West](https://www.cricbuzz.com/live-cricket-scores/103476/dol-vs-nwest-14th-match-csa-t20-challenge "Dolphins v North West, 14th Match - Upcoming")
     
     14th Match
     
-* [Eastern Cape vs South Western Districts](https://www.cricbuzz.com/live-cricket-scores/105218/ecape-vs-swd-13th-match-csa-t20-knock-out-competition "Eastern Cape v South Western Districts, 13th Match - SWD Won")
+* [Western Province vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103474/wpr-vs-war-13th-match-csa-t20-challenge "Western Province v Warriors, 13th Match - Upcoming")
     
     13th Match
     
-* [Limpopo vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/105226/limpo-vs-mpr-15th-match-csa-t20-knock-out-competition "Limpopo v Mpumalanga Rhinos, 15th Match - LIMPO Won")
+* CSA T20 Knock Out Competition
+    
+    [Limpopo vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/105226/limpo-vs-mpr-15th-match-csa-t20-knock-out-competition "Limpopo v Mpumalanga Rhinos, 15th Match - LIMPO Won")
     
     15th Match
     
@@ -132,19 +138,11 @@ AllLive NowToday
     
 * LLC 2024
     
-    [Gujarat Greats vs Manipal Tigers](https://www.cricbuzz.com/live-cricket-scores/107148/gugs-vs-mt-15th-match-llc-2024 "Gujarat Greats v Manipal Tigers, 15th Match - MT Won")
-    
-    15th Match
-    
-* [Toyam Hyderabad vs Southern Super Stars](https://www.cricbuzz.com/live-cricket-scores/107156/tyh-vs-snss-16th-match-llc-2024 "Toyam Hyderabad v Southern Super Stars, 16th Match - TYH Won")
-    
-    16th Match
-    
-* [Konark Suryas Odisha vs Toyam Hyderabad](https://www.cricbuzz.com/live-cricket-scores/107161/knso-vs-tyh-17th-match-llc-2024 "Konark Suryas Odisha v Toyam Hyderabad, 17th Match - TYH Won")
+    [Konark Suryas Odisha vs Toyam Hyderabad](https://www.cricbuzz.com/live-cricket-scores/107161/knso-vs-tyh-17th-match-llc-2024 "Konark Suryas Odisha v Toyam Hyderabad, 17th Match - TYH Won")
     
     17th Match
     
-* [India Capitals vs Gujarat Greats](https://www.cricbuzz.com/live-cricket-scores/107164/indcap-vs-gugs-18th-match-llc-2024 "India Capitals v Gujarat Greats, 18th Match - Preview")
+* [Gujarat Greats vs India Capitals](https://www.cricbuzz.com/live-cricket-scores/107164/gugs-vs-indcap-18th-match-llc-2024 "Gujarat Greats v India Capitals, 18th Match - INDCAP Won")
     
     18th Match
     
@@ -162,41 +160,23 @@ AllLive NowToday
     
 * Sheffield Shield 2024-25
     
-    [Victoria vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/102846/vic-vs-tas-2nd-match-sheffield-shield-2024-25 "Victoria v Tasmania, 2nd Match - Upcoming")
+    [Victoria vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/102846/vic-vs-tas-2nd-match-sheffield-shield-2024-25 "Victoria v Tasmania, 2nd Match - Preview")
     
     2nd Match
     
-* [New South Wales vs South Australia](https://www.cricbuzz.com/live-cricket-scores/102837/nsw-vs-saus-1st-match-sheffield-shield-2024-25 "New South Wales v South Australia, 1st Match - Upcoming")
+* [New South Wales vs South Australia](https://www.cricbuzz.com/live-cricket-scores/102837/nsw-vs-saus-1st-match-sheffield-shield-2024-25 "New South Wales v South Australia, 1st Match - Preview")
     
     1st Match
     
-* [Western Australia vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102853/wa-vs-ql-3rd-match-sheffield-shield-2024-25 "Western Australia v Queensland, 3rd Match - Upcoming")
+* [Western Australia vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102853/wa-vs-ql-3rd-match-sheffield-shield-2024-25 "Western Australia v Queensland, 3rd Match - Preview")
     
     3rd Match
-    
-* ICC CWC Challenge League A, 2024-26
-    
-    [Jersey vs Denmark](https://www.cricbuzz.com/live-cricket-scores/108145/jer-vs-den-15th-match-icc-cwc-challenge-league-a-2024-26 "Jersey v Denmark, 15th Match - JER Won")
-    
-    15th Match
-    
-* [Kenya vs Papua New Guinea](https://www.cricbuzz.com/live-cricket-scores/108139/ken-vs-png-14th-match-icc-cwc-challenge-league-a-2024-26 "Kenya v Papua New Guinea, 14th Match - PNG Won")
-    
-    14th Match
     
 * WOMEN
     
     ICC Womens T20 World Cup
     
-    [Sri Lanka Women vs Australia Women](https://www.cricbuzz.com/live-cricket-scores/94577/slw-vs-ausw-5th-match-group-a-icc-womens-t20-world-cup "Sri Lanka Women v Australia Women, 5th Match, Group A - AUSW Won")
-    
-    5th Match, Group A
-    
-* [England Women vs Bangladesh Women](https://www.cricbuzz.com/live-cricket-scores/94568/engw-vs-banw-6th-match-group-b-icc-womens-t20-world-cup "England Women v Bangladesh Women, 6th Match, Group B - ENGW Won")
-    
-    6th Match, Group B
-    
-* [Pakistan Women vs India Women](https://www.cricbuzz.com/live-cricket-scores/94586/pakw-vs-indw-7th-match-group-a-icc-womens-t20-world-cup "Pakistan Women v India Women, 7th Match, Group A - INDW Won")
+    [Pakistan Women vs India Women](https://www.cricbuzz.com/live-cricket-scores/94586/pakw-vs-indw-7th-match-group-a-icc-womens-t20-world-cup "Pakistan Women v India Women, 7th Match, Group A - INDW Won")
     
     7th Match, Group A
     
@@ -204,17 +184,21 @@ AllLive NowToday
     
     8th Match, Group B
     
-* [England Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94604/engw-vs-rsaw-9th-match-group-b-icc-womens-t20-world-cup "England Women v South Africa Women, 9th Match, Group B - Preview")
+* [South Africa Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94604/rsaw-vs-engw-9th-match-group-b-icc-womens-t20-world-cup "South Africa Women v England Women, 9th Match, Group B - ENGW Won")
     
     9th Match, Group B
     
-* [Australia Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/94613/ausw-vs-nzw-10th-match-group-a-icc-womens-t20-world-cup "Australia Women v New Zealand Women, 10th Match, Group A - Upcoming")
+* [Australia Women vs New Zealand Women](https://www.cricbuzz.com/live-cricket-scores/94613/ausw-vs-nzw-10th-match-group-a-icc-womens-t20-world-cup "Australia Women v New Zealand Women, 10th Match, Group A - Preview")
     
     10th Match, Group A
     
 * [South Africa Women vs Scotland Women](https://www.cricbuzz.com/live-cricket-scores/94622/rsaw-vs-scow-11th-match-group-b-icc-womens-t20-world-cup "South Africa Women v Scotland Women, 11th Match, Group B - Upcoming")
     
     11th Match, Group B
+    
+* [India Women vs Sri Lanka Women](https://www.cricbuzz.com/live-cricket-scores/94631/indw-vs-slw-12th-match-group-a-icc-womens-t20-world-cup "India Women v Sri Lanka Women, 12th Match, Group A - Upcoming")
+    
+    12th Match, Group A
     
 * Japan Women v Singapore Women
     
@@ -547,41 +531,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131912/spinners-sciver-brunt-take-pioneer-england-to-second-win "Spinners, Sciver-Brunt pioneer England to second win")
+
+[Spinners, Sciver-Brunt pioneer England to second win](https://www.cricbuzz.com/cricket-news/131912/spinners-sciver-brunt-take-pioneer-england-to-second-win "Spinners, Sciver-Brunt pioneer England to second win")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131911/shakibs-farewell-test-in-bangladesh-could-be-more-than-a-dream "Shakib's farewell Test in Bangladesh could be more than a dream")
+
+[Shakib's farewell Test in Bangladesh could be more than a dream](https://www.cricbuzz.com/cricket-news/131911/shakibs-farewell-test-in-bangladesh-could-be-more-than-a-dream "Shakib's farewell Test in Bangladesh could be more than a dream")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131910/pakistan-take-first-steps-towards-redemption "Pakistan take first steps towards redemption")
+
+[Pakistan take first steps towards redemption](https://www.cricbuzz.com/cricket-news/131910/pakistan-take-first-steps-towards-redemption "Pakistan take first steps towards redemption")
+
+5h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131909/arundhati-reddy-gets-reprimanded-for-send-off "Arundhati Reddy reprimanded for send-off")
+
+[Arundhati Reddy reprimanded for send-off](https://www.cricbuzz.com/cricket-news/131909/arundhati-reddy-gets-reprimanded-for-send-off "Arundhati Reddy reprimanded for send-off")
+
+5h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131908/masood-shafique-pile-on-the-runs-on-day-1-in-multan "Masood, Shafique pile on the runs on Day 1 in Multan")
+
+[Masood, Shafique pile on the runs on Day 1 in Multan](https://www.cricbuzz.com/cricket-news/131908/masood-shafique-pile-on-the-runs-on-day-1-in-multan "Masood, Shafique pile on the runs on Day 1 in Multan")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/131907/masood-shafiques-attack-puts-england-on-the-backfoot "Masood, Shafique's attack puts England on the backfoot")
 
 [Masood, Shafique's attack puts England on the backfoot](https://www.cricbuzz.com/cricket-news/131907/masood-shafiques-attack-puts-england-on-the-backfoot "Masood, Shafique's attack puts England on the backfoot")
 
-2h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131906/australia-seek-points-and-perfection-against-confident-new-zealand "Australia seek points and perfection against confident New Zealand ")
-
-[Australia seek points and perfection against confident New Zealand](https://www.cricbuzz.com/cricket-news/131906/australia-seek-points-and-perfection-against-confident-new-zealand "Australia seek points and perfection against confident New Zealand ")
-
-3h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131905/pakistan-release-zahid-mahmood-noman-ali-from-squad "Pakistan release Zahid Mahmood, Noman Ali from squad")
-
-[Pakistan release Zahid Mahmood, Noman Ali from squad](https://www.cricbuzz.com/cricket-news/131905/pakistan-release-zahid-mahmood-noman-ali-from-squad "Pakistan release Zahid Mahmood, Noman Ali from squad")
-
-4h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131904/new-zealand-womens-team-to-tour-india-for-3-odis-after-world-cup "New Zealand women's team to tour India for 3 ODIs after World Cup")
-
-[New Zealand women's team to tour India for 3 ODIs after World Cup](https://www.cricbuzz.com/cricket-news/131904/new-zealand-womens-team-to-tour-india-for-3-odis-after-world-cup "New Zealand women's team to tour India for 3 ODIs after World Cup")
-
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131903/masood-shafique-lead-pakistans-attacking-start "Masood, Shafique lead Pakistan's attacking start")
-
-[Masood, Shafique lead Pakistan's attacking start](https://www.cricbuzz.com/cricket-news/131903/masood-shafique-lead-pakistans-attacking-start "Masood, Shafique lead Pakistan's attacking start")
-
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131902/jayasuriya-appointed-full-time-head-coach-of-sri-lanka "Jayasuriya appointed full-time head coach of Sri Lanka")
-
-[Jayasuriya appointed full-time head coach of Sri Lanka](https://www.cricbuzz.com/cricket-news/131902/jayasuriya-appointed-full-time-head-coach-of-sri-lanka "Jayasuriya appointed full-time head coach of Sri Lanka")
-
-6h ago
+8h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
