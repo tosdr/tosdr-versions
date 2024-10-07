@@ -1284,21 +1284,27 @@ Choose plan
 
 ![Surveillance right](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fcyber-awareness%2Fcyber-awareness-2024%2Fsurveillance_right.webp&w=384&q=75)
 
-Available now!
+Save 80%
 
-S3 compatible object storage
+Secure your digital world!
 
-Up to 80% cheaper than AWS
+Choose plan
 
-Secure, scalable, S3-compatible
+30-day money-back guarantee
 
-Native Rclone support
+\*Offer is for free accounts or new customers
 
-Get 1TB for free
+Save big on all Internxt plans
 
-\*Offer only for the first month
+Safe and secure cloud storage
 
-![cloud object storage](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fcloud-object-storage%2Fs3_internxt.webp&w=750&q=75)
+Open source and transparent
+
+End-to-end encrypted transfers
+
+No unauthorized access
+
+Offer ends October 31
 
 Get 75% OFF all our Premium Plans
 ---------------------------------
