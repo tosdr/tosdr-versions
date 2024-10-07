@@ -11,7 +11,6 @@ It’s Breast Cancer Awareness Month. Early interventions lead to better outcome
     * [Consultants](https://www.color.com/consultants)
     * [Health Plans](https://www.color.com/health-plans)
     * [Unions](https://www.color.com/unions)
-    * [Clinicians](https://www.color.com/clinicians-tests)
     * [Individuals](https://www.color.com/individuals-genomics)
 * [Products](#)
     * [Cancer](https://www.color.com/cancer)
@@ -192,7 +191,6 @@ Email: [support@color.com](mailto:support@color.com)
 * [Consultants](https://www.color.com/consultants)
 * [Health Plans](https://www.color.com/health-plans)
 * [Unions](https://www.color.com/unions)
-* [Clinicians](https://www.color.com/clinicians-tests)
 * [Individuals](https://www.color.com/individuals-genomics)
 
 ### Products
