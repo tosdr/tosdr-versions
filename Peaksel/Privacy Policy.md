@@ -11,7 +11,7 @@
     
 
 * [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
-* [Casual Games](http://peaksel.com/category/casual-games/)
+* [Casual Games](https://peaksel.com/category/casual-games/)
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
 * [Coloring Pages](https://peaksel.com/category/coloring-pages/)
 * [Math Games](https://peaksel.com/category/math-games/)
@@ -31,7 +31,7 @@
 * [Contact Us](https://peaksel.com/contact/)
 
 * [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
-* [Casual Games](http://peaksel.com/category/casual-games/)
+* [Casual Games](https://peaksel.com/category/casual-games/)
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
 * [Coloring Pages](https://peaksel.com/category/coloring-pages/)
 * [Math Games](https://peaksel.com/category/math-games/)
@@ -360,7 +360,7 @@ If a parent or guardian of a child under the age of 13 becomes aware that his/he
 #### Our portfolio
 
 * [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
-* [Casual Games](http://peaksel.com/category/casual-games/)
+* [Casual Games](https://peaksel.com/category/casual-games/)
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
 * [Coloring Pages](https://peaksel.com/category/coloring-pages/)
 * [Math Games](https://peaksel.com/category/math-games/)
