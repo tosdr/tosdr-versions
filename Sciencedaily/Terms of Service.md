@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Antarctic 'Greening' at Dramatic Rate](https://www.sciencedaily.com/releases/2024/10/241007115554.htm)
+* [Blood Pressure Readings Vary With Arm Positions](https://www.sciencedaily.com/releases/2024/10/241007114922.htm)
+* [Elusive Details in Young Star Systems](https://www.sciencedaily.com/releases/2024/10/241007115547.htm)
+* [Most Distant Rotating Disc Galaxy Found](https://www.sciencedaily.com/releases/2024/10/241007115056.htm)
+* [Two Comb Jellies Can Fuse to Become One](https://www.sciencedaily.com/releases/2024/10/241007114928.htm)
 * [How Pterosaurs Became Terrestrial Titans](https://www.sciencedaily.com/releases/2024/10/241004121701.htm)
 * [Rare Monkey Fossils](https://www.sciencedaily.com/releases/2024/10/241002135241.htm)
 * [Neuroscientists Reactivate Memory Circuit ...](https://www.sciencedaily.com/releases/2024/10/241001124654.htm)
 * [Auditory 'Sixth Sense' in Geckos](https://www.sciencedaily.com/releases/2024/10/241004121658.htm)
 * [Kids: Half Calories from Ultra-Processed Foods](https://www.sciencedaily.com/releases/2024/10/241003221629.htm)
-* [Living Microbes Inside 2-Billion-Year-Old Rock](https://www.sciencedaily.com/releases/2024/10/241003123543.htm)
-* [Climate and Iron Nuggets in the Pinnacles](https://www.sciencedaily.com/releases/2024/10/241002154040.htm)
-* [Missing Link to First Stars in Odd Galaxy](https://www.sciencedaily.com/releases/2024/10/241003152018.htm)
-* [Green Subsidies May Have Hidden Costs](https://www.sciencedaily.com/releases/2024/10/241003145456.htm)
-* [Turning Brain Cells On Using Light-Power](https://www.sciencedaily.com/releases/2024/10/241003145454.htm)
 
 Trending Topics
 ---------------
@@ -249,11 +249,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
-
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
+[Colon Cancer](https://www.sciencedaily.com/news/health_medicine/colon_cancer/)
+
+[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,15 +261,15 @@ this week
 
 [Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
 
-[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
+[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
-[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
+[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
 
-[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
+[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
   
 
