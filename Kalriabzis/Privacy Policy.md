@@ -483,7 +483,7 @@ Az adatkezelő a hatóságok részére – amennyiben a hatóság a pontos célt
   
   
 
-2024.10.06
+2024.10.07
 
 [KALÓRIATÁBLÁZAT](https://kaloriabazis.hu/kaloriatablazat)
 
