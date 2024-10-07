@@ -168,11 +168,11 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Very Positive (61) \- 86% of the 61 user reviews in the last 30 days are positive.
+Very Positive (63) \- 87% of the 63 user reviews in the last 30 days are positive.
 
 All Reviews:
 
-Very Positive (18,120) \- 86% of the 18,120 user reviews for this game are positive.    
+Very Positive (18,122) \- 86% of the 18,122 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,11 +198,11 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,120) All Time
+Very Positive (86% of 18,122) All Time
 
 Recent Reviews:
 
-Very Positive (86% of 61) Recent
+Very Positive (87% of 63) Recent
 
 ![](https://store.akamai.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -449,7 +449,7 @@ System Requirements
 What Curators Say
 -----------------
 
-104 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
+99 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
 
 Customer reviews for Skater XL - The Ultimate Skateboarding Game
 ----------------------------------------------------------------
@@ -458,27 +458,27 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,120 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,122 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
-Very Positive (61 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (63 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
- All (19,254)  
- Positive (16,569)  
+ All (19,256)  
+ Positive (16,571)  
  Negative (2,685)
 
 Purchase Type
 
- All (19,254)  
- Steam Purchasers (18,120) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All (19,256)  
+ Steam Purchasers (18,122) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
  Other (1,134) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,254)  
+ All Languages (19,256)  
  Your Languages (13,308) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
