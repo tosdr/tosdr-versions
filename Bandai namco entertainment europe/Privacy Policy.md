@@ -18,13 +18,13 @@ Search
 
 Popular Games
 
-* [TEKKEN 8](https://en.bandainamcoent.eu/tekken/tekken-8)
+* [DRAGON BALL: Sparking! ZERO](https://en.bandainamcoent.eu/dragon-ball/dragon-ball-sparking-zero)
 * [ELDEN RING](https://en.bandainamcoent.eu/elden-ring/elden-ring)
 
 Latest game news
 
+* [Discover BLEACH Rebirth of Souls opening movie!](https://en.bandainamcoent.eu/bleach/news/discover-bleach-rebirth-of-souls-opening-movie)
 * [THE GRINCH: CHRISTMAS ADVENTURES Upgraded Holiday Edition launches today on consoles and PC](https://en.bandainamcoent.eu/the-grinch/news/the-grinch-christmas-adventures-upgraded-holiday-edition-launches-today-consoles)
-* [Heihachi Mishima, the King of Iron First is back in TEKKEN 8 and available now along with new free content](https://en.bandainamcoent.eu/tekken/news/heihachi-mishima-the-king-of-iron-first-back-tekken-8-and-available-now-along-new-free)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
@@ -51,7 +51,7 @@ Sign me up!
 
 Privacy Policy
 
-In accordance with Regulation 2016/679 of 27 April 2016, your first name, surname and email address are used by Bandai Namco Europe in order to send you a newsletter and information about Bandai Namco Europe's activities. This processing is based on your consent. This data is kept until you withdraw your consent and is intended for use by Bandai Namco Europe departments responsible for managing relations with users. You have a right to access and delete it on legitimate grounds and a right of portability over all data, as well as the right to formulate specific and general instructions on the communication of your data after your death. These rights can be exercised using the unsubscribe link in newsletters or by email. In the event of a dispute, you can refer the matter to the Commission Nationale de l'Informatique et des Libertés \[French National Data Protection Commission\]. Mandatory information is marked with an asterisk. If you do not provide this information, it will not be possible to send you newsletters. [\[Personal data processing policy\]](https://en.bandainamcoent.eu/privacy-policy)
+In accordance with Regulation 2016/679 of 27 April 2016, your first name, surname and email address are used by Bandai Namco Entertainement Europe in order to send you a newsletter and information about Bandai Namco Entertainement Europe's activities. This processing is based on your consent. This data is kept until you withdraw your consent and is intended for use by Bandai Namco Entertainement Europe departments responsible for managing relations with users. You have a right to access and delete it on legitimate grounds and a right of portability over all data, as well as the right to formulate specific and general instructions on the communication of your data after your death. These rights can be exercised using the unsubscribe link in newsletters or by email. In the event of a dispute, you can refer the matter to the Commission Nationale de l'Informatique et des Libertés \[French National Data Protection Commission\]. Mandatory information is marked with an asterisk. If you do not provide this information, it will not be possible to send you newsletters. [\[Personal data processing policy\]](https://en.bandainamcoent.eu/privacy-policy)
 
 Privacy Policy
 ==============
