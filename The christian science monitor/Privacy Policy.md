@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Hope
+
+### ‘This is what the war has done’: How October 7 forever changed Israel and Gaza](https://www.csmonitor.com/World/Middle-East/2024/1007/october-7-israel-gaza-one-year-later "‘This is what the war has done’: How October 7 forever changed Israel and Gaza")
+
 [Peace
 
 ### ‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.](https://www.csmonitor.com/USA/Society/2024/1006/october-7-interfaith-groups-conflict-resolution "‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.")
@@ -99,10 +103,6 @@ Recent Stories
 [Joy
 
 ### Vibrant times for children’s rhymes](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1004/Vibrant-times-for-children-s-rhymes "Vibrant times for children’s rhymes")
-
-[Prosperity
-
-### Harris and Trump spar over economic impact of taxes and tariffs](https://www.csmonitor.com/Business/2024/1004/harris-trump-taxes-tariffs-economy "Harris and Trump spar over economic impact of taxes and tariffs")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### ‘This is what the war has done’: How October 7 forever changed Israel and Gaza](https://www.csmonitor.com/World/Middle-East/2024/1007/october-7-israel-gaza-one-year-later "‘This is what the war has done’: How October 7 forever changed Israel and Gaza")
+
 [### On eve of Oct. 7 anniversary, pro-Israeli and pro-Palestinian crowds rally](https://www.csmonitor.com/World/Europe/2024/1006/october-7-attacks-israel-palestine-hamas-rallies-anniversary "On eve of Oct. 7 anniversary, pro-Israeli and pro-Palestinian crowds rally")
 
 [### Colorado judge receives threats after sentencing election denier official to prison](https://www.csmonitor.com/USA/Justice/2024/1006/Colorado-judge-receives-threats-after-sentencing-election-denier-official-to-prison "Colorado judge receives threats after sentencing election denier official to prison")
-
-[### ‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.](https://www.csmonitor.com/USA/Society/2024/1006/october-7-interfaith-groups-conflict-resolution "‘Salaam. Shalom. Peace.’ How US interfaith groups work for peace in a time of war.")
 
 * * *
 
