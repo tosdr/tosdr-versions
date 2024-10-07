@@ -36,16 +36,6 @@ FOX SCORES
     | CRO | 28  |
     
     Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241101)
-* [National SC
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | NWT | 18  |
-    | NTD | 20  |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/state-championships/match-centre/NSC20240101)
 * Cricket
     
 * [Men's Test
@@ -60,12 +50,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250201)
 * [Women's T20 WC
     
-    8/10 1:00 AEST
+    ENG won by 7 wkts
     
     |     |     |
     | --- | --- |
-    | ENG | –   |
-    | RSA | –   |
+    | ENG | 3 /125 |
+    | RSA | 6 /124 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250109)
 * [Sheffield Shield
@@ -106,50 +96,20 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | SF  | 23  |
-    | ARI | 24  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250518)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DEN | 34  |
-    | LV  | 18  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250517)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SEA | 20  |
-    | NYG | 29  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250520)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LAR | 19  |
-    | GB  | 24  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250519)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
     | PIT | 17  |
     | DAL | 20  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250521)
+* [NFL
+    
+    8/10 11:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | KC  | –   |
+    | NO  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250522)
 * Motorsport
     
 * [Supercars
@@ -164,26 +124,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=744)
 * Baseball
     
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | PHI | 7   |
-    | NYM | 6   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002E4EAD)
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | LAD | 2   |
-    | SD  | 10  |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002E688B)
 * [MLB
     
     8/10 7:08 AEST
