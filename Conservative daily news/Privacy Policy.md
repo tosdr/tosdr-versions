@@ -1,15 +1,15 @@
-Sunday, October 6 2024
+Monday, October 7 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Monday, October 7, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-7-2024/)
+* [Kamala Has A Long Record Of Squashing Free Speech](https://www.conservativedailynews.com/2024/10/kamala-has-a-long-record-of-squashing-free-speech/)
+* [The Butler Did It](https://www.conservativedailynews.com/2024/10/the-butler-did-it/)
+* [Trump’s Momentum Is Building — Just Look At The Polls](https://www.conservativedailynews.com/2024/10/trumps-momentum-is-building-just-look-at-the-polls/)
+* [Biden-Harris Admin Might Just Be Buying Votes With New Medicare Changes, Experts Say](https://www.conservativedailynews.com/2024/10/biden-harris-admin-might-just-be-buying-votes-with-new-medicare-changes-experts-say/)
+* [Let Israel Win The War |](https://www.conservativedailynews.com/2024/10/let-israel-win-the-war/)
 * [We’re Singing From The Same Song Sheet](https://www.conservativedailynews.com/2024/10/were-singing-from-the-same-song-sheet/)
 * [Potential Hurricane Slated To Hit Florida Just Weeks After Helene Decimated Rural South, Forecasters Say](https://www.conservativedailynews.com/2024/10/potential-hurricane-slated-to-hit-florida-just-weeks-after-helene-decimated-rural-south-forecasters-say/)
-* [America’s Cutting Edge Weaponry Is Dependent On Chinese Tech, Experts Warn](https://www.conservativedailynews.com/2024/10/americas-cutting-edge-weaponry-is-dependent-on-chinese-tech-experts-warn/)
-* [Biden-Harris Admin Threw Over $40 Billion At An Internet Buildout — Three Years Later Not A Single Project Is Underway](https://www.conservativedailynews.com/2024/10/biden-harris-admin-threw-over-40-billion-at-an-internet-buildout-three-years-later-not-a-single-project-is-underway/)
-* [The Democrat-News Media’s “Justification” for Cheating](https://www.conservativedailynews.com/2024/10/the-democrat-news-medias-justification-for-cheating/)
-* [Kamala’s Tax-Gouging Frightens Me More Than Corporate Price-Gouging](https://www.conservativedailynews.com/2024/10/kamalas-tax-gouging-frightens-me-more-than-corporate-price-gouging/)
-* [Don’t Tell Helene Victims About We The People](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/)
-* [Biden Admin To End Parole Program For Hundreds Of Thousands Of Migrants](https://www.conservativedailynews.com/2024/10/biden-admin-to-end-parole-program-for-hundreds-of-thousands-of-migrants/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,21 +111,55 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.73%
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5633-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5636-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/the-butler-did-it/)
     
-    [Don’t Tell Helene Victims About We The People](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/)
+    [The Butler Did It](https://www.conservativedailynews.com/2024/10/the-butler-did-it/)
     
-    October 5, 2024
+    October 6, 2024
     
-* [![Biden family corruption media news](https://www.conservativedailynews.com/wp-content/uploads/2023/06/04-chest-game-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/biden-harris-admin-accused-of-deceiving-america-on-its-way-to-freezing-gas-exports/)
+* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/10/trumps-momentum-is-building-just-look-at-the-polls/)
     
-    [Biden-Harris Admin Accused Of Deceiving America On Its Way To Freezing Gas Exports](https://www.conservativedailynews.com/2024/10/biden-harris-admin-accused-of-deceiving-america-on-its-way-to-freezing-gas-exports/)
+    [Trump’s Momentum Is Building — Just Look At The Polls](https://www.conservativedailynews.com/2024/10/trumps-momentum-is-building-just-look-at-the-polls/)
     
-    October 3, 2024
+    October 6, 2024
     
 
 Recent Posts
 
+* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-7-2024/)
+    
+    [President Joe Biden’s Schedule for Monday, October 7, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-7-2024/)
+    
+    October 7, 2024
+    
+* [![Kamala Harris constitution](https://www.conservativedailynews.com/wp-content/uploads/2024/08/02-unburdened-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamala-has-a-long-record-of-squashing-free-speech/)
+    
+    [Kamala Has A Long Record Of Squashing Free Speech](https://www.conservativedailynews.com/2024/10/kamala-has-a-long-record-of-squashing-free-speech/)
+    
+    October 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5636-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/the-butler-did-it/)
+    
+    [The Butler Did It](https://www.conservativedailynews.com/2024/10/the-butler-did-it/)
+    
+    October 6, 2024
+    
+* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/10/trumps-momentum-is-building-just-look-at-the-polls/)
+    
+    [Trump’s Momentum Is Building — Just Look At The Polls](https://www.conservativedailynews.com/2024/10/trumps-momentum-is-building-just-look-at-the-polls/)
+    
+    October 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Joe-Biden-Kamala-Harris-2.jpg)](https://www.conservativedailynews.com/2024/10/biden-harris-admin-might-just-be-buying-votes-with-new-medicare-changes-experts-say/)
+    
+    [Biden-Harris Admin Might Just Be Buying Votes With New Medicare Changes, Experts Say](https://www.conservativedailynews.com/2024/10/biden-harris-admin-might-just-be-buying-votes-with-new-medicare-changes-experts-say/)
+    
+    October 6, 2024
+    
+* [Let Israel Win The War |](https://www.conservativedailynews.com/2024/10/let-israel-win-the-war/)
+    
+    October 6, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5635-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/were-singing-from-the-same-song-sheet/)
     
     [We’re Singing From The Same Song Sheet](https://www.conservativedailynews.com/2024/10/were-singing-from-the-same-song-sheet/)
@@ -135,42 +169,6 @@ Recent Posts
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Milton-track-220x150.png)](https://www.conservativedailynews.com/2024/10/potential-hurricane-slated-to-hit-florida-just-weeks-after-helene-decimated-rural-south-forecasters-say/)
     
     [Potential Hurricane Slated To Hit Florida Just Weeks After Helene Decimated Rural South, Forecasters Say](https://www.conservativedailynews.com/2024/10/potential-hurricane-slated-to-hit-florida-just-weeks-after-helene-decimated-rural-south-forecasters-say/)
-    
-    October 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/01-walz-melt-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/meltdown/)
-    
-    [Meltdown](https://www.conservativedailynews.com/2024/10/meltdown/)
-    
-    October 6, 2024
-    
-* [![Made in China](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/americas-cutting-edge-weaponry-is-dependent-on-chinese-tech-experts-warn/)
-    
-    [America’s Cutting Edge Weaponry Is Dependent On Chinese Tech, Experts Warn](https://www.conservativedailynews.com/2024/10/americas-cutting-edge-weaponry-is-dependent-on-chinese-tech-experts-warn/)
-    
-    October 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Joe-Biden-Kamala-Harris-3.jpg)](https://www.conservativedailynews.com/2024/10/biden-harris-admin-threw-over-40-billion-at-an-internet-buildout-three-years-later-not-a-single-project-is-underway/)
-    
-    [Biden-Harris Admin Threw Over $40 Billion At An Internet Buildout — Three Years Later Not A Single Project Is Underway](https://www.conservativedailynews.com/2024/10/biden-harris-admin-threw-over-40-billion-at-an-internet-buildout-three-years-later-not-a-single-project-is-underway/)
-    
-    October 6, 2024
-    
-* [![Howard Stern](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg100624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/what-show/)
-    
-    [What Show?](https://www.conservativedailynews.com/2024/10/what-show/)
-    
-    October 6, 2024
-    
-* [![Mainstream Media Joe Biden bias](https://www.conservativedailynews.com/wp-content/uploads/2024/02/stg020724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-democrat-news-medias-justification-for-cheating/)
-    
-    [The Democrat-News Media’s “Justification” for Cheating](https://www.conservativedailynews.com/2024/10/the-democrat-news-medias-justification-for-cheating/)
-    
-    October 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/1002-220x150.jpg)](https://www.conservativedailynews.com/2024/10/kamalas-tax-gouging-frightens-me-more-than-corporate-price-gouging/)
-    
-    [Kamala’s Tax-Gouging Frightens Me More Than Corporate Price-Gouging](https://www.conservativedailynews.com/2024/10/kamalas-tax-gouging-frightens-me-more-than-corporate-price-gouging/)
     
     October 6, 2024
     
