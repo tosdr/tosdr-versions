@@ -109,6 +109,7 @@ Search Ramsey Solutions Search Ramsey Solutions
     Events
     
     * Events and Conferences
+        * [Money & Relationships Tour](https://www.ramseysolutions.com/events/the-money-and-relationships-tour?snid=events.events-and-conferences.the-money-and-relationships-tour)
         * [Money and Marriage Getaway](https://www.ramseysolutions.com/events/money-and-marriage-getaway-valentines?snid=events.events-and-conferences.money-and-marriage-getaway-valentines)
         * [Live Like No One Else Cruise](https://www.ramseysolutions.com/events/live-like-no-one-else-cruise?snid=events.events-and-conferences.live-like-no-one-else-cruise)
         * [EntreLeadership Summit](https://www.ramseysolutions.com/shows/summit?snid=events.events-and-conferences.entreleadership-summit)
