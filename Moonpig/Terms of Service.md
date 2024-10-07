@@ -134,7 +134,6 @@ Menu
     * [Rude](https://www.moonpig.com/uk/personalised-cards/naughty/)
     * [Cute](https://www.moonpig.com/uk/personalised-cards/cute/)
     * [New Designs](https://www.moonpig.com/uk/personalised-cards/new/all/)
-    * [Gala Bingo](https://www.moonpig.com/uk/personalised-cards/gala-bingo/)
     
     ### Invitations
     
