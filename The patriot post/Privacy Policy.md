@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110827-mid-day-digest-2024-10-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110881-mid-day-digest-2024-10-07?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -104,32 +104,32 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110827-mid-day-digest-2024-10-04?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110881-mid-day-digest-2024-10-07?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110838-policies-over-feelings-2024-10-07)
+     [](https://patriotpost.us/memes/110852-what-storm-2024-10-07)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34323)
+     [](https://patriotpost.us/cartoons/34325)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Mark Alexander Is FEMA FUBAR?](https://patriotpost.us/alexander/110850-is-fema-fubar-2024-10-07)
+*      [Gary Bauer Baffled Biden](https://patriotpost.us/opinion/110846-baffled-biden-2024-10-07)
+*      [Rich Lowry Dockworkers for Economic Stagnation](https://patriotpost.us/opinion/110844-dockworkers-for-economic-stagnation-2024-10-07)
+*      [The Washington Stand Tim Walz Misuses Matthew 25 to Justify Open Borders](https://patriotpost.us/opinion/110842-tim-walz-misuses-matthew-25-to-justify-open-borders-2024-10-07)
+*      [The Babylon Bee Thousands of Migrant Farmworkers Head North in Preparation for the Democrat Ballot Harvest](https://patriotpost.us/opinion/110851-thousands-of-migrant-farmworkers-head-north-in-preparation-for-the-democrat-ballot-harvest-2024-10-07)
 *      [Matthew Continetti Harris Hits a Walz](https://patriotpost.us/opinion/110825-harris-hits-a-walz-2024-10-05)
 *      [Hans von Spakovsky Naval Academy’s Choice of Speaker Runs Afoul of Pentagon Edict](https://patriotpost.us/opinion/110826-naval-academys-choice-of-speaker-runs-afoul-of-pentagon-edict-2024-10-05)
 *      [Hans von Spakovsky Unrigging Our Elections](https://patriotpost.us/opinion/110810-unrigging-our-elections-2024-10-04)
-*      [Michael Reagan Vance Sends Walz Back to the Minors](https://patriotpost.us/opinion/110809-vance-sends-walz-back-to-the-minors-2024-10-04)
-*      [Erick Erickson Caveat Emptor](https://patriotpost.us/opinion/110808-caveat-emptor-2024-10-04)
-*      [Tim Graham Network ‘News Judgment’ Depends on Who Benefits](https://patriotpost.us/opinion/110807-network-news-judgment-depends-on-who-benefits-2024-10-04)
-*      [Victor Davis Hanson How to Blow Up the Middle East War in Five Easy Steps](https://patriotpost.us/opinion/110806-how-to-blow-up-the-middle-east-war-in-five-easy-steps-2024-10-04)
-*      [Gary Bauer The Deep State Strikes Back](https://patriotpost.us/opinion/110805-the-deep-state-strikes-back-2024-10-04)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -143,15 +143,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“If we can prevent the government from wasting the labors of the people, under the pretence of taking care of them, they must become happy.” —Thomas Jefferson (1802)
+“Stability in government is essential to national character and to the advantages annexed to it, as well as to that repose and confidence in the minds of the people, which are among the chief blessings of civil society.” —James Madison (1788)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
