@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Prescott throws TD pass to Tolbert with 20 seconds left to lift Cowboys past Steelers, 20-17](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2177177449-scaled.jpg?ve=1&tl=1)
+ [![Verizon phone outage reported in US, according to DownDetector](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2170890935.jpg?ve=1&tl=1)
 
- ![Prescott throws TD pass to Tolbert with 20 seconds left to lift Cowboys past Steelers, 20-17](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177177449-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/cowboys-steelers-oct-7-2024)
+ ![Verizon phone outage reported in US, according to DownDetector](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2170890935.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/verizon-outage-downdetector-october-7-2024)
 
-### [Prescott throws TD pass to Tolbert with 20 seconds left to lift Cowboys past Steelers, 20-17](https://www.fox4news.com/sports/cowboys-steelers-oct-7-2024)
+### [Verizon phone outage reported in US, according to DownDetector](https://www.fox4news.com/news/verizon-outage-downdetector-october-7-2024)
 
- [![Texas swaggers into SEC and midseason break undefeated and in best shape in more than a decade](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-2175520409.jpg?ve=1&tl=1)
+ [![WalletHub releases their list of safest cities in America for 2024](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/gettyimages-1241574557.jpg?ve=1&tl=1)
 
- ![Texas swaggers into SEC and midseason break undefeated and in best shape in more than a decade](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2175520409.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-poll-sec-oct-6)
+ ![WalletHub releases their list of safest cities in America for 2024](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/gettyimages-1241574557.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wallethub-releases-list-safest-cities-america-2024)
 
-### [Texas swaggers into SEC and midseason break undefeated and in best shape in more than a decade](https://www.fox4news.com/sports/texas-poll-sec-oct-6)
+### [WalletHub releases their list of safest cities in America for 2024](https://www.fox4news.com/news/wallethub-releases-list-safest-cities-america-2024)
 
- [![Former Texas Rangers pitcher Matt Bush charged with DWI after Arlington crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/matthew-bush-mug.jpg?ve=1&tl=1)
+ [![Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/hurricane-milton.jpg?ve=1&tl=1)
 
- ![Former Texas Rangers pitcher Matt Bush charged with DWI after Arlington crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/matthew-bush-mug.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/matt-bush-dwi-crash-arlington-2024)
+ ![Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/hurricane-milton.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-milton-mandatory-evacuations-begin-tampa-bay-area)
 
-### [Former Texas Rangers pitcher Matt Bush charged with DWI after Arlington crash](https://www.fox4news.com/news/matt-bush-dwi-crash-arlington-2024)
+### [Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://www.fox4news.com/news/tropical-storm-milton-mandatory-evacuations-begin-tampa-bay-area)
 
- [![6-year-old's body recovered after being swept underwater while fishing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/snapshot-2024-10-06t170829.542.jpg?ve=1&tl=1)
+ [![Hurricane watch: Milton strengthens to Category 4 as it moves toward Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/al14_stats-1-1.gif?ve=1&tl=1)
 
- ![6-year-old's body recovered after being swept underwater while fishing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/snapshot-2024-10-06t170829.542.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mountain-creek-parkway-fishing-body-recovery)
+ ![Hurricane watch: Milton strengthens to Category 4 as it moves toward Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/al14_stats-1-1.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-watch-milton-category-3-projected-path-florida-october-7)
 
-### [6-year-old's body recovered after being swept underwater while fishing](https://www.fox4news.com/news/dallas-mountain-creek-parkway-fishing-body-recovery)
+### [Hurricane watch: Milton strengthens to Category 4 as it moves toward Florida](https://www.fox4news.com/news/hurricane-watch-milton-category-3-projected-path-florida-october-7)
 
- [![Milton latest: Hurricane expected to intensify to Category 4 before Florida landfall](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/al14_cone-1@1x_1-1.jpg?ve=1&tl=1)
+ [![Egg recall linked to salmonella upgraded to highest possible risk by FDA](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/GettyImages-1712145459.jpg?ve=1&tl=1)
 
- ![Milton latest: Hurricane expected to intensify to Category 4 before Florida landfall](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/al14_cone-1@1x_1-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
+ ![Egg recall linked to salmonella upgraded to highest possible risk by FDA](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/GettyImages-1712145459.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/eggs-recalled-salmonella-upgraded-highest-possible-risk-fda)
 
-### [Milton latest: Hurricane expected to intensify to Category 4 before Florida landfall](https://www.fox4news.com/news/tropical-storm-milton-florida-sunday)
+### [Egg recall linked to salmonella upgraded to highest possible risk by FDA](https://www.fox4news.com/news/eggs-recalled-salmonella-upgraded-highest-possible-risk-fda)
 
 ###### [News](https://www.fox4news.com/news)
 
