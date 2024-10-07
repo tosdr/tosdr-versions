@@ -5,7 +5,7 @@ Toggle Menu
 * [Docs](https://developer.stackblitz.com/)
 * [Pricing](https://stackblitz.com/pricing)
 * [Enterprise](https://stackblitz.com/enterprise)
-* [WebContainer API](https://webcontainers.io/)
+* [WebContainers](https://webcontainers.io/)
 * [Blog](https://blog.stackblitz.com/)
 * [NEWTry Bolt.new](https://bolt.new/)
 
