@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Genetics](https://www.sciencenews.org/topic/genetics)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [Blood pressure may read falsely high if the arm isn’t positioned properly](https://www.sciencenews.org/article/blood-pressure-reading-arm-position)
+            
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")6 hours ago
+            
+        * [Genetics](https://www.sciencenews.org/topic/genetics)
             
             ### [The discovery of microRNA wins the 2024 physiology Nobel Prize](https://www.sciencenews.org/article/microrna-2023-nobel-physiology-medicine)
             
-            By [Science News Staff](https://www.sciencenews.org/author/science-news-staff "Posts by Science News Staff")3 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")11 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [An mRNA vaccine protected mice against deadly intestinal _C. difficile_ bacteria](https://www.sciencenews.org/article/mrna-vaccine-c-diff-bacteria-mice)
             
             By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")October 3, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Brain-controlled bionic limbs are inching closer to reality](https://www.sciencenews.org/article/brain-controlled-bionic-limbs-anatomics)
-            
-            By [Simon Makin](https://www.sciencenews.org/author/simon-makin "Posts by Simon Makin")October 3, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Genetics](https://www.sciencenews.org/topic/genetics)
+    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
-            ### [The discovery of microRNA wins the 2024 physiology Nobel Prize](https://www.sciencenews.org/article/microrna-2023-nobel-physiology-medicine)
+            ### [Semaglutide saps mice’s motivation to run](https://www.sciencenews.org/article/semaglutide-saps-mices-motivation-run)
             
-            By [Science News Staff](https://www.sciencenews.org/author/science-news-staff "Posts by Science News Staff")3 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")2 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
-            ### [Some tadpoles don’t poop for weeks. That keeps their pools clean](https://www.sciencenews.org/article/tree-frogs-tadpoles-poop)
+            ### [These sea creatures can fuse their bodies](https://www.sciencenews.org/article/sea-walnut-comb-jelly-fuse-bodies)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 4, 2024
+            By [Jude Coleman](https://www.sciencenews.org/author/jude-coleman "Posts by Jude Coleman")6 hours ago
             
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+        * [Genetics](https://www.sciencenews.org/topic/genetics)
             
-            ### [An mRNA vaccine protected mice against deadly intestinal _C. difficile_ bacteria](https://www.sciencenews.org/article/mrna-vaccine-c-diff-bacteria-mice)
+            ### [The discovery of microRNA wins the 2024 physiology Nobel Prize](https://www.sciencenews.org/article/microrna-2023-nobel-physiology-medicine)
             
-            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")October 3, 2024
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")11 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
