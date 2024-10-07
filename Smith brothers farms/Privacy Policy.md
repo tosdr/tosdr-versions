@@ -228,10 +228,10 @@ Hi
         * [Traditional Yogurt (20)](https://www.smithbrothersfarms.com/traditional)
             
         
-    * [Eggs & Butter (11)](https://www.smithbrothersfarms.com/eggs-butter)
+    * [Eggs & Butter (10)](https://www.smithbrothersfarms.com/eggs-butter)
         
         * BACK
-        * [Butter (4)](https://www.smithbrothersfarms.com/butter)
+        * [Butter (3)](https://www.smithbrothersfarms.com/butter)
             
         * [Eggs (7)](https://www.smithbrothersfarms.com/eggs)
             
@@ -284,7 +284,7 @@ Hi
         * [Treats (4)](https://www.smithbrothersfarms.com/desserts)
             
         
-    * [Meat (45)](https://www.smithbrothersfarms.com/meat-poultry)
+    * [Meat (43)](https://www.smithbrothersfarms.com/meat-poultry)
         
         * BACK
         * [Beef, Pork, & Poultry (15)](https://www.smithbrothersfarms.com/poultry)
@@ -293,7 +293,7 @@ Hi
             
         * [Sausage, Dogs & Brats (4)](https://www.smithbrothersfarms.com/bacon-and-sausage)
             
-        * [Deli & Charcuterie (13)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
+        * [Deli & Charcuterie (11)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
     * [Meals & Sides (73)](https://www.smithbrothersfarms.com/prepared-foods)
