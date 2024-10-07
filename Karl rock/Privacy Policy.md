@@ -406,21 +406,21 @@ Top
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![Best Videos for Learning the Urdu Alphabet](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/05/20210531_143932-01_copy_1280x960.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
-    
-    [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
-    
 * [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
     [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-* [![How I Learnt Urdu Script (and How You Can Too!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/06/karl-rock-day-1-studying-Urdu-at-earth-diverse.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
+* [![Best Videos for Learning the Urdu Alphabet](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/05/20210531_143932-01_copy_1280x960.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
-    [How I Learnt Urdu Script (and How You Can Too!)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
+    [Best Videos for Learning the Urdu Alphabet](https://blog.karlrock.com/best-videos-for-learning-the-urdu-alphabet/ "Best Videos for Learning the Urdu Alphabet")
     
 * [![What Do Lawyers in India Charge? My Personal Experience Revealed](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2024/06/Walkthrough-of-a-court-complex-in-India.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
     
     [What Do Lawyers in India Charge? My Personal Experience Revealed](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
+    
+* [![Nankana Sahib Travel Super Guide](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/03/Karl-Rock-at-Nankana-Sahib-e1719486743489.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/nankana-sahib-travel-super-guide/ "Nankana Sahib Travel Super Guide")
+    
+    [Nankana Sahib Travel Super Guide](https://blog.karlrock.com/nankana-sahib-travel-super-guide/ "Nankana Sahib Travel Super Guide")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
