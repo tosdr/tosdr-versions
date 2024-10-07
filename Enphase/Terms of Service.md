@@ -42,7 +42,7 @@
     
     EXPLORE
     
-    [Microinverters](https://enphase.com/installers/microinverters) [Batteries](https://enphase.com/installers/storage) [Communication](https://enphase.com/installers/communication) [EV chargers](https://enphase.com/installers/ev-chargers) [Commercial](https://enphase.com/installers/commercial) [Accessories](https://enphase.com/installers/accessories) [Apps](https://enphase.com/installers/apps)
+    [Enphase for installers](https://enphase.com/installers) [Microinverters](https://enphase.com/installers/microinverters) [Batteries](https://enphase.com/installers/storage) [Communication](https://enphase.com/installers/communication) [EV chargers](https://enphase.com/installers/ev-chargers) [Commercial](https://enphase.com/installers/commercial) [Accessories](https://enphase.com/installers/accessories) [Apps](https://enphase.com/installers/apps)
     
     SERVICES
     
@@ -56,7 +56,7 @@
     
     EXPLORE
     
-    [Microinverters](https://enphase.com/store/microinverters) [Batteries](https://enphase.com/store/storage) [Communication](https://enphase.com/store/communication) [Accessories](https://enphase.com/store/accessories) [EV chargers](https://enphase.com/store/ev-chargers) [AC Modules](https://enphase.com/store/modules-ac) [Services](https://enphase.com/store/services) [Lifestyle](https://enphase.com/store/lifestyle-products)
+    [Explore store](https://enphase.com/store) [Microinverters](https://enphase.com/store/microinverters) [Batteries](https://enphase.com/store/storage) [Communication](https://enphase.com/store/communication) [Accessories](https://enphase.com/store/accessories) [EV chargers](https://enphase.com/store/ev-chargers) [AC Modules](https://enphase.com/store/modules-ac) [Services](https://enphase.com/store/services) [Lifestyle](https://enphase.com/store/lifestyle-products)
     
     ACCOUNT
     
@@ -70,7 +70,7 @@
     
     EXPLORE
     
-    [Homeowners](https://enphase.com/support/homeowners) [Installers](https://enphase.com/support/installers) [Sunpower](https://enphase.com/support/sunpower)
+    [Explore support](https://enphase.com/support) [Homeowners](https://enphase.com/support/homeowners) [Installers](https://enphase.com/support/installers) [Sunpower](https://enphase.com/support/sunpower)
     
     RESOURCES
     
