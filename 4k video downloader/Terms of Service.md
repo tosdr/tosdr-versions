@@ -239,6 +239,22 @@ Open Media reserves the right to dissolve this agreement with the user of the pr
 * As used in these Terms, the term “including” is illustrative and not limitative.
 * If this agreement is translated and executed in any language other than English and there is any conflict as between the translation and the English version, the English version shall control.
 
+### 15\. General Terms
+
+* License Types  
+    4K Download offers several license types for purchase, including Lite, Personal, and Pro licenses. Each license type may vary in terms of features and allowed activations.
+* Activation Limits  
+    The number of computers on which a license can be activated depends on the license type:
+
+* Lite License: Can be activated on 1 computer.
+* Personal License: Can be activated on up to 3 computers.
+* Professional License: Can be activated on up to 3 computers.
+
+* User Responsibility  
+    Users are strongly encouraged to carefully read all information regarding the specific license type before making a purchase.
+* Post-Purchase Complaints  
+    After completing a purchase, no complaints regarding the number of activations will be considered. Users are responsible for understanding the limitations associated with their chosen license type prior to purchase.
+
 Cookies
 -------
 
