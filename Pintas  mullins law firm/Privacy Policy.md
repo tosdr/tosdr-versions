@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How are infections spread in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-are-infections-spread-in-nursing-homes.jpg "How Are Infections Spread in Nursing Homes?")](https://www.pintas.com/faq/how-are-infections-spread-in-nursing-homes/ "How Are Infections Spread in Nursing Homes?")
+[![What qualifies as pain and suffering?](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-what-qualifies-as-pain-and-suffering.jpg "What Qualifies As Pain and Suffering?")](https://www.pintas.com/practice-areas/personal-injury/what-qualifies-as-pain-and-suffering/ "What Qualifies As Pain and Suffering?")
 
-[#### How Are Infections Spread in Nursing Homes?](https://www.pintas.com/faq/how-are-infections-spread-in-nursing-homes/)
+[#### What Qualifies As Pain and Suffering?](https://www.pintas.com/practice-areas/personal-injury/what-qualifies-as-pain-and-suffering/)
 
-[![Suing for talcum powder ovarian cancer death](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-i-sue-for-a-loved-one-that-died-of-ovarian-cancer-from-talcum-powder-use.jpg "Suing for Talcum Powder Ovarian Cancer Death")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/can-i-sue-for-a-loved-one-that-died-from-talcum-powder/ "Suing for Talcum Powder Ovarian Cancer Death")
+[![How can you help prevent nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-can-you-help-prevent-nursing-home-abuse-scaled.jpg "How Can You Help Prevent Nursing Home Abuse?")](https://www.pintas.com/faq/how-can-you-help-prevent-nursing-home-abuse/ "How Can You Help Prevent Nursing Home Abuse?")
 
-[#### Suing for Talcum Powder Ovarian Cancer Death](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/can-i-sue-for-a-loved-one-that-died-from-talcum-powder/)
+[#### How Can You Help Prevent Nursing Home Abuse?](https://www.pintas.com/faq/how-can-you-help-prevent-nursing-home-abuse/)
 
-[![What is the mormon church saying about sex abuse allegations?](https://www.pintas.com/wp-content/uploads/2023/04/general-law-image-300x169.jpg "What Is the Mormon Church Saying About Sex Abuse Allegations?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-the-mormon-church-saying-about-sexual-abuse-claims/ "What Is the Mormon Church Saying About Sex Abuse Allegations?")
+[![What is the average compensation for asbestosis?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-the-average-compensation-for-asbestosis.jpg "What Is the Average Compensation for Asbestosis?")](https://www.pintas.com/practice-areas/lung-cancer/average-asbestosis-settlement "What Is the Average Compensation for Asbestosis?")
 
-[#### What Is the Mormon Church Saying About Sex Abuse Allegations?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-the-mormon-church-saying-about-sexual-abuse-claims/)
+[#### What Is the Average Compensation for Asbestosis?](https://www.pintas.com/practice-areas/lung-cancer/average-asbestosis-settlement)
 
 ### Injured?  
 Tell Us What Happened.
