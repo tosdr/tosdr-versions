@@ -220,5 +220,3 @@ About Weblate](https://docs.weblate.org/en/latest/contributing/about.html)
 Copyright © Michal Čihař
 
 Made with [Sphinx](https://www.sphinx-doc.org/) and [@pradyunsg](https://pradyunsg.me/)'s [Furo](https://github.com/pradyunsg/furo)
-
-[](https://readthedocs.org/projects/weblate)[](https://github.com/WeblateOrg/weblate)
