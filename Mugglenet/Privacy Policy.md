@@ -244,20 +244,6 @@ MuggleNet Archive Select Month October 2024  (4) September 2024  (30) August 2
 
 ### October 2024
 
-#### Sun, Oct 6
-
-Harry Potter and the Philosopher's/Sorcerer's Stone Illustrated Edition
-
-Recurs yearly
-
-2015
-
-Scarlett Byrne's birthday
-
-Recurs yearly
-
-Pansy Parkinson (HBP, DH1, DH2)
-
 #### Mon, Oct 7
 
 Educational Decree No. 24 is passed
@@ -330,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-A picture of Gandalf the Grey (from The Lord of the Rings) can be seen in the collection of great wizards in Albus Dumbledore’s study in the Harry Potter and the Chamber of Secrets film.
+Forty versions of Salazar Slytherin’s infamous locket had to be created to accommodate Harry Potter and Ron Weasley’s failed attempts to destroy it during filming.
 
 ### Potter History
 
-July 10, 2007 – Daniel Radcliffe, Rupert Grint, and Emma Watson are honored at the “Hand, Foot, and Wand” ceremony at Grauman’s Chinese Theatre in Hollywood.
+May 10, 2006 – The Harry Potter and the Goblet of Fire DVD sets a world record.
 
 ### Potter Quote
 
-“We’d better get to bed before Snape comes along and tries to frame us for something else.”
+“Hey! Mr. English guy! I think your egg is hatching!”
 
 [](#)
 
