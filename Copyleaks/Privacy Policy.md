@@ -16,63 +16,62 @@
 ![close](https://copyleaks.com/wp-content/uploads/2024/05/ic-baseline-close.svg)
 
 * [](https://copyleaks.com/)
-* Products
-    * * * #### Products
+* Solutions
+    * * * #### Solutions
                 
-    * * * [AI DetectorThe only enterprise solution designed to verify whether content was written by a person or AI.](https://copyleaks.com/ai-content-detector)
-        * * [Plagiarism DetectorInstantly detect direct plagiarism, paraphrased content, similar text, and verify originality.](https://copyleaks.com/plagiarism-detector)
-        * * [CodeleaksThe only solution that detects AI-generated code, plagiarized and modified source code, and provides essential licensing details.](https://copyleaks.com/codeleaks)
         * * [AI Adoption and Perspectives in Education, 2024
+                
+                ![polygon-blue](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
                 
                 ![polygon-blue](https://copyleaks.com/wp-content/uploads/2024/04/polygon-blue.svg)
                 
                 This analysis explores the opinions of 1,000 students & 250 teachers on adopting artificial intelligence within education.](https://copyleaks.com/blog/bridging-the-gap-ai-adoption-and-perspectives-in-education-2024)
                 
-    * * * [Gen AI GovernanceEnforce enterprise-wide policies, ensure responsible generative AI adoption, and proactively mitigate all potential risks.](https://copyleaks.com/governance-risk-and-compliance)
-        * * [Writing AssistantEmpower error-free writing with suggestions on sentence structure, mechanics, word choice, and more.](https://copyleaks.com/writing-assistant)
-        * * [AI GraderA revolutionary solution for efficiently grading thousands of standardized tests at every level.](https://copyleaks.com/ai-grader)
-* Solutions
-    * * * #### Integrations
+    * * * [Governance & ComplianceGuarantee ethical AI use and regulatory compliance with a robust and fully scalable governance framework.](https://copyleaks.com/governance-risk-and-compliance)
+        * * [Academic IntegrityThe only solution that detects AI-generated code, plagiarized and modified source code, and provides essential licensing details.](https://copyleaks.com/academic-integrity)
+        * * [AI Model TrainingEnsure your AI model is trained solely on human-created datasets to enhance accuracy and avoid potential collapse.](https://copyleaks.com/ai-model-training-data)
+        
+    * * * [IP & CopyrightPreserve your intellectual property from unauthorized use and exploitation within AI model outputs and applications.](https://copyleaks.com/ip-and-copyright)
+        * * [Code Governance & ComplianceProtect your proprietary code with comprehensive source detection and licensing compliance alerts.](https://copyleaks.com/code-governance-and-compliance)
+        
+* Products
+    * * * #### Products
                 
-        * * #### Use Cases
+        * * #### Integrations
                 
-    * * * [AI Detector API](https://copyleaks.com/ai-content-detector-api)
-            * [Plagiarism Checker API](https://copyleaks.com/plagiarism-checker-api)
-            * [Writing Assistant](https://copyleaks.com/writing-assistant)
-            * [LMS Integration](https://copyleaks.com/learning-management-systems)
-            * [Browser Extension](https://copyleaks.com/ai-content-detector/extension)
-        * * [AI Model Training](https://copyleaks.com/ai-model-training-data)
-            * [HR](https://copyleaks.com/use-case-hr)
-            * [Legal Services](https://copyleaks.com/use-case-legal-services)
-            * [Customer Support](https://copyleaks.com/use-case-customer-support)
-            * [Marketing](https://copyleaks.com/use-case-marketing)
-            * [Publishing & Media](https://copyleaks.com/use-case-publishing-and-media)
-            * [Enterprise Security](https://copyleaks.com/use-case-enterprise-security)
+    * * * [AI DetectorThe only enterprise solution designed to verify whether content was written by a person or AI.](https://copyleaks.com/ai-content-detector)
+            * [Plagiarism DetectorInstantly detect direct plagiarism, paraphrased content, similar text, and verify originality.](https://copyleaks.com/plagiarism-detector)
+            * [Writing AssistantEmpower error-free writing with suggestions on sentence structure, mechanics, word choice, and more.](https://copyleaks.com/writing-assistant)
+        * * [API IntegrationAward-winning AI & Plagiarism Detection and Writing Assistance to ensure complete content integrity and transparency.](https://copyleaks.com/api)
+            * [LMS IntegrationThoroughly scan for multiple forms of plagiarism, AI-generated content, and more from your educational organization’s LMS.](https://copyleaks.com/learning-management-systems)
+            * [Browser ExtensionVerify what a human wrote and what is AI-generated with the AI Detector Browser Extension.](https://copyleaks.com/ai-content-detector/extension)
 * [Pricing](https://copyleaks.com/pricing)
 * Resources
     * * * #### Resources
                 
-        * * #### Latest Blogs
+        * * [Latest Blogs](https://copyleaks.com/blog)
                 
-                [See All](https://copyleaks.com/blog)
+    * * * [About usMeet the Copyleaks leadership team and learn about our mission and values.](https://copyleaks.com/about-us)
+        * * [News & MediaYour hub for the latest Copyleaks announcements, updates, news, and media features.](https://copyleaks.com/about-us/media)
+        * * [AI Testing MethodologiesExplore the various testing methodologies used to assess the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
+        * * [Help CenterGet the support you need for integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
+        * * [![Chat GPT and AI Detector](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%201463'%3E%3C/svg%3E)
                 
-    * * * [About usMeet the Copyleaks leadership team and learn about who we are, our mission and history.](https://copyleaks.com/about-us)
-        * * [News & MediaThe go-to spot for recent Copyleaks announcements, updates, news, and other media features.](https://copyleaks.com/about-us/media)
-        * * [AI Testing MethodologiesLearn the different testing methodologies used to gauge the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
-        * * [Help CenterGet the support you need regarding integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![Lines of code](https://copyleaks.com/wp-content/uploads/2024/08/CodeleaksHeader.webp)](https://copyleaks.com/blog/why-we-launched-codeleaks)
+                ![Chat GPT and AI Detector](https://copyleaks.com/wp-content/uploads/2023/02/ChatGPT-AI-Detector_FeaturedImage-1-scaled.webp)](https://copyleaks.com/blog/chatgpt-and-ai-detection)
                 
-                [Why We Launched Codeleaks](https://copyleaks.com/blog/why-we-launched-codeleaks)
+                [ChatGPT and AI Detection: What You Need to Know](https://copyleaks.com/blog/chatgpt-and-ai-detection)
                 
-                [![Hand touching a digital space](https://copyleaks.com/wp-content/uploads/2024/08/What-Is-AI-ExploringArtificial-Intelligenceand-ItsApplications.webp)](https://copyleaks.com/blog/what-is-ai-exploring-artificial-intelligence)
+                [![Lines of code](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20419'%3E%3C/svg%3E)
                 
-                [What Is AI? Exploring Artificial Intelligence and Its Applications](https://copyleaks.com/blog/what-is-ai-exploring-artificial-intelligence)
+                ![Lines of code](https://copyleaks.com/wp-content/uploads/2024/08/CodeleaksHeader.webp)](https://copyleaks.com/blog/why-we-need-governance-and-compliance-in-source-code)
+                
+                [Why We Need Governance and Compliance in Source Code](https://copyleaks.com/blog/why-we-need-governance-and-compliance-in-source-code)
                 
     * * * #### Learn
                 
-    * * * [Success StoriesLearn how Copyleaks has helped clients successfully safeguard content, ensure originality, and adopt AI in a responsible manner.](https://copyleaks.com/case-studies)
-        * * [TestimonialsEach day, some of the world’s largest businesses, educational institutes, and millions of individuals trust Copyleaks.](https://copyleaks.com/testimonials)
-        * * [The Original Source PodcastCopyleaks COO, Shouvik Paul, speaks with leading industry experts on the latest in AI, EdTech, plagiarism, and more.](https://copyleaks.com/the-original-source-podcast)
+    * * * [Success StoriesExplore how Copyleaks has empowered clients to protect content, ensure originality, and adopt AI responsibly.](https://copyleaks.com/case-studies)
+        * * [TestimonialsDiscover why some of the world’s largest businesses, educational institutions, and millions of individuals trust Copyleaks.](https://copyleaks.com/testimonials)
+        * * [The Original Source PodcastJoin Copyleaks COO, Shouvik Paul, as he engages with leading industry experts on the latest trends in AI, EdTech, plagiarism, and more.](https://copyleaks.com/the-original-source-podcast)
         * * [BlogYour resource for learning about the best plagiarism practices, latest findings, and more.](https://copyleaks.com/blog)
 * [Get a Demo](https://copyleaks.com/book-a-demo)
 * [Try it Now](https://app.copyleaks.com/dashboard/v1?isGuest=true)
@@ -224,17 +223,9 @@ Email: [\[email protected\]](https://copyleaks.com/cdn-cgi/l/email-protection)
 
 Table of Contents
 
-![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
+![Copyleaks logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![logo](https://copyleaks.com/wp-content/uploads/2023/01/logo.svg)
-
-[![SOC II and SOC III compliant badge](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
-
-![SOC II and SOC III compliant badge](https://copyleaks.com/wp-content/uploads/2023/04/SOC_Badge-300x300.webp)](https://copyleaks.com/compliance-certifications#soc2)
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20181%20181'%3E%3C/svg%3E)
-
-![](https://copyleaks.com/wp-content/uploads/2023/04/PCI-Logo.webp)](https://copyleaks.com/compliance-certifications#pci)
+![Copyleaks logo](https://copyleaks.com/wp-content/uploads/2023/07/logo_white.svg)
 
 700 Canal St.
 
@@ -242,31 +233,41 @@ Stamford, CT 06902 USA
 
 [Contact Us](https://copyleaks.com/contact-us)
 
+[![SOC II and SOC III compliant badge](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
+
+![SOC II and SOC III compliant badge](https://copyleaks.com/wp-content/uploads/2023/04/SOC_Badge-300x300.webp)](https://copyleaks.com/compliance-certifications#soc2)
+
+[![pci dss compliant](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20652%20301'%3E%3C/svg%3E)
+
+![pci dss compliant](https://copyleaks.com/wp-content/uploads/2023/04/pci-dss-compliant-logo-vector-e1601910146456.png)](https://copyleaks.com/compliance-certifications#pci)
+
+Solutions
+
+[Governance & Compliance](https://copyleaks.com/governance-risk-and-compliance)
+
+[Academic Integrity](https://copyleaks.com/academic-integrity)
+
+[AI Model Training](https://copyleaks.com/ai-model-training-data)
+
+[IP & Copyright](https://copyleaks.com/ip-and-copyright)
+
+[Code Governance & Compliance](https://copyleaks.com/code-governance-and-compliance)
+
 Products
 
 [AI Detector](https://copyleaks.com/ai-content-detector)
 
 [Plagiarism Detector](https://copyleaks.com/plagiarism-detector)
 
-[Codeleaks](https://copyleaks.com/codeleaks)
-
-[Writing Assistant](https://copyleaks.com/grammar-checker-api)
-
-[Gen AI Governance](https://copyleaks.com/governance-risk-and-compliance)
-
-[AI Grader](https://copyleaks.com/ai-grader)
+[Writing Assistant](https://copyleaks.com/writing-assistant)
 
 Integrations
 
+[API Integration](https://copyleaks.com/api)
+
 [LMS Integration](https://copyleaks.com/learning-management-systems)
 
-[AI Detector API](https://copyleaks.com/ai-content-detector-api)
-
-[AI Detector Extension](https://copyleaks.com/ai-content-detector/extension)
-
-[Plagiarism Detector API](https://copyleaks.com/plagiarism-checker-api)
-
-[Writing Assistant API](https://copyleaks.com/writing-assistant)
+[Browser Extension](https://copyleaks.com/ai-content-detector/extension)
 
 Company
 
@@ -278,7 +279,7 @@ Company
 
 [Resellers](https://copyleaks.com/resellers)
 
-[Affiliates](https://copyleaks.com/affiliate) 
+[Affiliates](https://copyleaks.com/affiliate)
 
 [Biden Executive Order on AI](https://copyleaks.com/biden-executive-order-ai-compliance)
 
@@ -286,15 +287,13 @@ Resources
 
 [Plagiarism Checker](https://copyleaks.com/plagiarism-checker)
 
-[Help Center](https://help.copyleaks.com/?_gl=1*9t9z1*_ga*MTgwODQzODI2NC4xNjYzMDc5OTYw*_ga_MBTGG7KX5Y*MTY2Mzk2MjM2OC40MC4xLjE2NjM5NjQ3MzguMC4wLjA.)
+[Help Center](https://help.copyleaks.com/)
 
 [Blog](https://copyleaks.com/blog)
 
 [Success Stories](https://copyleaks.com/case-studies)
 
-[Plagiarism Resources](https://copyleaks.com/plagiarism-resources)
-
-[AI Detector Testing Methodology](https://copyleaks.com/ai-content-detector/testing-methodology)
+[AI Detector Testing Methodologies](https://copyleaks.com/ai-content-detector/testing-methodology)
 
 [Linkedin-in](https://www.linkedin.com/company/copyleaks/) [Instagram](https://www.instagram.com/copyleaksai/) [Threads Logo](https://www.threads.net/@copyleaksai) [X-twitter](https://x.com/Copyleaks) [Rss](https://feeds.buzzsprout.com/2310947.rss)
 
@@ -311,8 +310,6 @@ Resources
 [Manage Cookies](javascript:void(0))
 
 [System Status](https://status.copyleaks.com/)
-
-All rights reserved. Use of this website signifies your agreement to the [Terms of Use](https://copyleaks.com/legal/termsofuse).
 
 [![en_US](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2018%2012'%3E%3C/svg%3E "English")
 
@@ -369,3 +366,7 @@ Turkish](https://copyleaks.com/tr/privacy-policy/ "Turkish") [![pt_PT](data:imag
 ![pt_PT](https://copyleaks.com/wp-content/plugins/translatepress-multilingual/assets/images/flags/pt_PT.png "Portuguese")
 
 Portuguese](https://copyleaks.com/pt/privacy-policy/ "Portuguese")
+
+[Linkedin-in](https://www.linkedin.com/company/copyleaks/) [Instagram](https://www.instagram.com/copyleaksai/) [Threads Logo](https://www.threads.net/@copyleaksai) [X-twitter](https://x.com/Copyleaks) [Rss](https://feeds.buzzsprout.com/2310947.rss)
+
+All rights reserved. Use of this website signifies your agreement to the [Terms of Use](https://copyleaks.com/legal/termsofuse).
