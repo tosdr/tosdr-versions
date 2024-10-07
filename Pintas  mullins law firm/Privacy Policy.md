@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is a healthy alternative to baby powder?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-a-healthy-alternative-to-baby-powder.jpg "What Is a Healthy Alternative to Baby Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives "What Is a Healthy Alternative to Baby Powder?")
+[![When do you know malnutrition is a sign of nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-when-do-you-know-malnutrition-is-a-sign-of-nursing-home-abuse-lawyer-scaled.jpg "When Do You Know Malnutrition Is a Sign of Nursing Home Abuse?")](https://www.pintas.com/faq/when-do-you-know-malnutrition-is-a-sign-of-nursing-home-abuse-lawyer/ "When Do You Know Malnutrition Is a Sign of Nursing Home Abuse?")
 
-[#### What Is a Healthy Alternative to Baby Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives)
+[#### When Do You Know Malnutrition Is a Sign of Nursing Home Abuse?](https://www.pintas.com/faq/when-do-you-know-malnutrition-is-a-sign-of-nursing-home-abuse-lawyer/)
 
-[![Can you request a second opinion for an autopsy?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-request-a-second-opinion-for-an-autopsy.jpg "Can You Request a Second Opinion For an Autopsy?")](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/ "Can You Request a Second Opinion For an Autopsy?")
+[![Can you sue a nursing home for wrongful death?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-a-nursing-home-for-wrongful-death-scaled.jpg "Can You Sue a Nursing Home for Wrongful Death?")](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/ "Can You Sue a Nursing Home for Wrongful Death?")
 
-[#### Can You Request a Second Opinion For an Autopsy?](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/)
+[#### Can You Sue a Nursing Home for Wrongful Death?](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/)
 
-[![Can blood tests show lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-can-blood-tests-show-lung-cancer.jpg "Can Blood Tests Show Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-blood-tests-show-lung-cancer/ "Can Blood Tests Show Lung Cancer?")
+[![Have there been any successful talcum powder settlements or verdicts?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-have-there-been-any-successful-talcum-powder-settlements-or-verdicts-scaled.jpg "Have There Been Any Successful Talcum Powder Settlements or Verdicts?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/successful-talcum-settlements "Have There Been Any Successful Talcum Powder Settlements or Verdicts?")
 
-[#### Can Blood Tests Show Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-blood-tests-show-lung-cancer/)
+[#### Have There Been Any Successful Talcum Powder Settlements or Verdicts?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/successful-talcum-settlements)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
