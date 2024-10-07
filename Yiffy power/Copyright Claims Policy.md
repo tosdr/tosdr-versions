@@ -75,31 +75,31 @@ Latest commented posts
 
 [created by rabbitbrush](https://yiff-party.com/yiff/created-by-rabbitbrush/)
 
-0 952 1
+0 963 1
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/rauru-tears-of-the-kingdom-and-etc-created-by-oriont/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-ferr0nutella-director/)
 
-[rauru (tears of the kingdom and etc) created by oriont](https://yiff-party.com/yiff/rauru-tears-of-the-kingdom-and-etc-created-by-oriont/)
+[directed by ferr0nutella (director)](https://yiff-party.com/yiff-ai-premium/directed-by-ferr0nutella-director/)
 
-0 2 0
+0 1 0
 
 October 7, 2024
 
-[](https://yiff-party.com/yiff/loona-directed-by-ponsho15/)
+[](https://yiff-party.com/yiff-ai-premium/duchess/)
 
-[loona directed by ponsho15](https://yiff-party.com/yiff/loona-directed-by-ponsho15/)
+[duchess](https://yiff-party.com/yiff-ai-premium/duchess/)
 
-0 174 0
+0 76 0
 
 September 7, 2024
 
-[](https://yiff-party.com/yiff/edgar-vladilisitsa-and-sophie-vulpina-nore-created-by-tatujapa/)
+[](https://yiff-party.com/yiff/leeah-kitsune-created-by-shirsha/)
 
-[edgar vladilisitsa and sophie vulpina nore created by tatujapa](https://yiff-party.com/yiff/edgar-vladilisitsa-and-sophie-vulpina-nore-created-by-tatujapa/)
+[leeah kitsune created by shirsha](https://yiff-party.com/yiff/leeah-kitsune-created-by-shirsha/)
 
-0 162 0
+0 65 0
 
 September 7, 2024
 
