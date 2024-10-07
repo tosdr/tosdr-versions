@@ -16,7 +16,6 @@ top of page
     
     * [Blog](https://www.glui.io/blog)
     * [Case Studies](https://www.glui.io/case-studies)
-* [Demos](https://www.glui.io/demos)
 * More
     
 
