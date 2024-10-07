@@ -153,18 +153,18 @@ Latest reactions
 
 Latest forum posts
 
-* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=65 "WonderTANG! Who wants to juice up your MSX?")
 * [\[Nifty\] Tearless Flickerfree Screen Updating](https://www.msx.org/forum/msx-talk/development/nifty-tearless-screen-updating "[Nifty] Tearless Flickerfree Screen Updating")
+* [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
 * [Aleste 2 manual automated translation](https://www.msx.org/forum/msx-talk/general-discussion/aleste-2-manual-automated-translation "Aleste 2 manual automated translation")
+* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 * [Firebird T-shirt](https://www.msx.org/forum/msx-talk/off-topic/firebird-t-shirt "Firebird T-shirt")
 * [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic?page=3 "HB-F1XD reboots/freezes in basic")
-* [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
 * [Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)](https://www.msx.org/forum/msx-talk/hardware/possible-vdp-issue-with-sanyo-wavy-35-sanyo-phc-35j?page=1 "Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=121 "Please help testing upcoming openMSX release!")
 * [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=2 "Sony HB-75AS not displaying")
 * [Philips VG8235 dead and wonder tang that resurrects it](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-dead-and-wonder-tang-that-resurrects-it "Philips VG8235 dead and wonder tang that resurrects it")
 * [MSX2 disk menu, oasis?](https://www.msx.org/forum/msx-talk/software/msx2-disk-menu-oasis "MSX2 disk menu, oasis?")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=65 "WonderTANG! Who wants to juice up your MSX?")
 * [PISA event on 16 novembrer 2024](https://www.msx.org/forum/msx-talk/general-discussion/pisa-event-on-16-novembrer-2024 " PISA event on 16 novembrer 2024")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
@@ -181,7 +181,7 @@ News headlines
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
+* [Hype OPL3](https://www.msx.org/news/en/hypeopl "Hype OPL3")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
 * [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 
