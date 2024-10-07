@@ -497,7 +497,7 @@ FR
         up to 1% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/hotwire?sourceName=nav-menu)
         
     * [See All Stores](https://www.rakuten.ca/stores "See All Stores at Rakuten.ca")
-* [2X Cash Back](https://www.rakuten.ca/big-stack "Double Cash Back Promo Codes and Coupons at Rakuten.ca")
+* [Up to 12% Cash Back](https://www.rakuten.ca/big-stack "Increased Cash Back Promo Codes and Coupons at Rakuten.ca")
 * [🍁 Fall Essentials](https://www.rakuten.ca/fall-essentials-2024 " at Rakuten.ca")
 * [Hot Deals](https://www.rakuten.ca/hot-deals "Hot Deals")
 * [Travel](https://www.rakuten.ca/stores/travel-vacations "Travel")
