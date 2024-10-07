@@ -180,11 +180,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [OpenAI’s Dev Day](https://techcrunch.com/2024/10/01/openais-devday-brings-realtime-api-and-other-treats-for-ai-app-developers/)
-* [Microsoft Copilot](https://techcrunch.com/2024/10/01/microsoft-copilot-can-now-read-your-screen-think-deeper-and-speak-aloud-to-you/)
+* [Comcast Data](https://techcrunch.com/2024/10/07/comcast-says-customer-data-stolen-in-ransomware-attack-on-debt-collection-agency/)
+* [Fisker](https://techcrunch.com/2024/10/05/fiskers-hq-abandoned-in-complete-disarray-with-apparent-hazardous-waste-clay-models-left-behind/)
 * [iOS 18](https://techcrunch.com/2024/09/30/18-apps-that-add-useful-actions-to-the-ios-18-control-center/)
-* [Sonos](https://techcrunch.com/2024/10/01/sonos-outlines-turnaround-plan-following-app-disaster/)
-* [Ford BlueCruise](https://techcrunch.com/2024/10/01/ford-cuts-price-bluecruise-hands-free-driving/)
+* [Flutterwave](https://techcrunch.com/2024/10/07/flutterwaves-ceo-agboola-on-hires-product-focus-and-future-plans/)
+* [Tesla Robotaxi](https://techcrunch.com/2024/10/07/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/)
 * [Tech Layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/)
 * ChatGPT
 
