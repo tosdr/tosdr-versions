@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Tales from the Zoo](https://www.somethingawful.com/comedy-goldmine/tales-from-zoo/1/)
-* [Tarot Card Tango](https://www.somethingawful.com/comedy-goldmine/tarot-card-tango/1/)
-* [NES Knockoffs!](https://www.somethingawful.com/photoshop-phriday/bootleg-nes-knockoff/1/)
-* [Spooky Skeleton GIFs!](https://www.somethingawful.com/comedy-goldmine/spooky-skeleton-gifs/)
-* [Breaking and exiting](https://www.somethingawful.com/news/breaking-and-exiting/)
+* [Cereal Boxes](https://www.somethingawful.com/photoshop-phriday/cereal-boxes/1/)
+* [Valentines + Dinosaurs = Valendinos](https://www.somethingawful.com/comedy-goldmine/valentines-day-dinosaurs/1/)
+* [Turn that frown upside down!](https://www.somethingawful.com/comedy-goldmine/unsmith-happy-endings/1/)
+* [Advertise on Something Awful!](https://www.somethingawful.com/feature-articles/something-awful-advertising/)
+* [The Most Badass Rifts Cover Art According to Steve](https://www.somethingawful.com/dungeons-and-dragons/rifts-cover-art/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Awesome stuff we did as kids](http://forums.somethingawful.com/showthread.php?threadid=4072081 "Awesome stuff we did as kids")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [New Zealand Navy VERSUS Samoan Reef: Battle of the Century](http://forums.somethingawful.com/showthread.php?threadid=4072043 "New Zealand Navy VERSUS Samoan Reef: Battle of the Century")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [What is the correct music Hz ?](http://forums.somethingawful.com/showthread.php?threadid=4072045 "What is the correct music Hz ?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Awesome stuff we did as kids](http://forums.somethingawful.com/showthread.php?threadid=4072081 "Awesome stuff we did as kids")
+* ![](https://fi.somethingawful.com/forums/posticons/tg-scrunt.gif) [ex smoker goons, does it ever get better?](http://forums.somethingawful.com/showthread.php?threadid=4072114 "ex smoker goons, does it ever get better?")
 
 ### Random Articles
 
-* [My Entire Life Is Structured Upon Arcade Flyer Text](https://www.somethingawful.com/news/arcade-flyer-tenet/)
-* [Things You Should Already Know By Now: Opening a Checking Account](https://www.somethingawful.com/guides/checking-account/1/)
-* [Dog of the Month Club](https://www.somethingawful.com/news/dog-month-club/)
-* [Unreal 2: The Awakening](https://www.somethingawful.com/game-reviews/unreal-awakening/1/)
-* [Neck Brace Art Appreciation Klub](https://www.somethingawful.com/awful-links/awful-link-1565/)
+* [Dog Crimes](https://www.somethingawful.com/flash-tub/dog-crimes-cartoon/)
+* [Family Auto Mart](https://www.somethingawful.com/awful-links/awful-link-650/)
+* [Reviews of Chastity Belts & Devices](https://www.somethingawful.com/awful-links/awful-link-2500/)
+* [Snow Drop](https://www.somethingawful.com/hentai-game-reviews/snow-drop/)
+* [Diaper Station](https://www.somethingawful.com/awful-links/awful-link-2096/)
 
 [Random!](https://www.somethingawful.com/random/)
 
