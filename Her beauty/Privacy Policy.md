@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
+[Cardi B Gets Real About Her Plastic Surgery Regrets and Lessons Learned ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/10/7-1.jpg)](https://herbeauty.co/entertainment/cardi-b-gets-real-about-her-plastic-surgery-regrets-and-lessons-learned/) 
+
 [Carrie Bradshaw’s Top 10 Sex And The City Boyfriends, Ranked ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/10/coverr.jpg)](https://herbeauty.co/entertainment/carrie-bradshaw-s-top-10-sex-and-the-city-boyfriends-ranked/) 
 
 [15 Best Celebrity Revenge Dresses: The Ultimate Clapback in Couture ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/10/cover-1.jpg)](https://herbeauty.co/entertainment/15-best-celebrity-revenge-dresses-the-ultimate-clapback-in-couture/) 
-
-[Who Is Hunter McGrady: 20 Must-Know Facts About This Plus Size Model ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/09/cover-9.jpg)](https://herbeauty.co/entertainment/who-is-hunter-mcgrady-20-must-know-facts-about-this-plus-size-model/) 
 
 Advertisements
 
