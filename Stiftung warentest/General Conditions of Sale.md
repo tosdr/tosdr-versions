@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
+* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
+* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
+* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
+* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
+* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
+* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
-* [Mutmacher: Volle Solar­kraft voraus!](https://www.test.de/Mutmacher-Volle-Solarkraft-voraus-6070925-0/ "Mutmacher - Volle Solarkraft voraus!")
-* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
-* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
+* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
+* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
 
 Service Stiftung Warentest
 
