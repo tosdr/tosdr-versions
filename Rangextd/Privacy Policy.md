@@ -27,14 +27,14 @@ Search results
 *  [![Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=60&v=1727247156&width=60)Family Essentials](https://www.rangextd.com/collections/family-essentials) _(2)_
 *  [![Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=60&v=1724829778&width=60)Travel](https://www.rangextd.com/collections/travel-mobility) _(3)_
 *  [![Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1728032127&width=60)Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) _(4)_
-*  [![Savvy Techs](//savvysmartdeals.com/cdn/shop/collections/OIG2.Y4nMQUz_PXYmvNghDCQv.jpg?crop=center&height=60&v=1728031546&width=60)Top-Notch Techs](https://www.rangextd.com/collections/top-notch-techs) _(5)_
+*  [![Savvy Techs](//savvysmartdeals.com/cdn/shop/collections/OIG2.Y4nMQUz_PXYmvNghDCQv.jpg?crop=center&height=60&v=1728031546&width=60)Top Savvy Techs](https://www.rangextd.com/collections/top-notch-techs) _(5)_
 * [More](https://www.rangextd.com/)
 
 *  [![Personal Essentials](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=60&v=1727247097&width=60)Personal Essentials](https://www.rangextd.com/collections/personal-essentials) _(1)_
 *  [![Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=60&v=1727247156&width=60)Family Essentials](https://www.rangextd.com/collections/family-essentials) _(2)_
 *  [![Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=60&v=1724829778&width=60)Travel](https://www.rangextd.com/collections/travel-mobility) _(3)_
 *  [![Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1728032127&width=60)Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) _(4)_
-*  [![Savvy Techs](//savvysmartdeals.com/cdn/shop/collections/OIG2.Y4nMQUz_PXYmvNghDCQv.jpg?crop=center&height=60&v=1728031546&width=60)Top-Notch Techs](https://www.rangextd.com/collections/top-notch-techs) _(5)_
+*  [![Savvy Techs](//savvysmartdeals.com/cdn/shop/collections/OIG2.Y4nMQUz_PXYmvNghDCQv.jpg?crop=center&height=60&v=1728031546&width=60)Top Savvy Techs](https://www.rangextd.com/collections/top-notch-techs) _(5)_
 
 *  ![Banner image for: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/files/bidet-g2-mb.png?v=1720604500&width=620) ![Banner image for: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/files/bidet-g2-1.png?v=1720429783&width=620)
     
@@ -344,6 +344,14 @@ Our latest blog posts
 
 [View all](https://www.rangextd.com/blogs/news) 
 
+* ![Laundry Masher Pineapple: The Ultimate Hack to Save BIG on Laundry Costs](//savvysmartdeals.com/cdn/shop/articles/Laundry_Masher.jpg?v=1728296302)
+    
+    ### Laundry Masher Pineapple: The Ultimate Hack to Save BIG on Laundry Costs
+    
+    Let’s face it—everything is getting more expensive, the cost of living is getting higher all the time and I'm constantly on the lookout for ways...
+    
+    [Read more](https://www.rangextd.com/blogs/news/laundry-masher-pineapple-the-ultimate-hack-to-save-big-on-laundry-costs) 
+    
 * ![The Best Way to Stay Clean Anywhere: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/articles/Blaux-bidet-in-action.gif?v=1727855234)
     
     ### The Best Way to Stay Clean Anywhere: Blaux Portable Bidet
@@ -351,14 +359,6 @@ Our latest blog posts
     Have you ever found yourself in a less-than-ideal bathroom situation? Maybe the toilet paper ran out, or the restroom looked like it hadn't been cleaned...
     
     [Read more](https://www.rangextd.com/blogs/news/the-best-way-to-stay-clean-anywhere-blaux-portable-bidet) 
-    
-* ![Stay Fresh and Clean Anywhere with the Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/articles/Blaux_Bidet_df6e2139-ec83-4df3-9ddd-3bcc25082a25.gif?v=1727433822)
-    
-    ### Stay Fresh and Clean Anywhere with the Blaux Portable Bidet
-    
-    Colin S. - Health-Conscious Dad Let’s talk about something you might not think about until it’s too late—staying fresh and clean when you have to...
-    
-    [Read more](https://www.rangextd.com/blogs/news/stay-fresh-and-clean-anywhere-with-the-blaux-portable-bidet) 
     
 * ![Why the Starscope Monocular is Perfect for Outdoor Sightseeing?](//savvysmartdeals.com/cdn/shop/articles/sec04.jpg?v=1727431468)
     
