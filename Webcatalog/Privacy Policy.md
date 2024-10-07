@@ -1,4 +1,4 @@
-[WebCatalog![WebCatalog](/_next/static/media/logo-white.c6166ac6.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://webcatalog.io/en/apps/)
+[WebCatalog![WebCatalog](/_next/static/media/logo-white.48337c03.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://webcatalog.io/en/apps/)
 
 [Apps](https://webcatalog.io/en/apps/)[Games](https://webcatalog.io/en/games/)[Spaces](https://webcatalog.io/en/spaces/)[Download](https://webcatalog.io/en/desktop/)[Pricing](https://webcatalog.io/en/pricing/)[Help](https://webcatalog.io/en/help/)
 
@@ -221,7 +221,7 @@ Support
 
 [Docs](https://docs.webcatalog.io/)
 
-[Account](https://webcatalog.io/account/)
+[Account](https://webcatalog.io/en/account/)
 
 [License Key Recovery](https://webcatalog.io/en/license-recovery/)
 
@@ -234,8 +234,6 @@ Company
 [Careers](https://careers.webcatalog.io/)
 
 [Media Kit](https://drive.google.com/drive/folders/1arApHk6u-YYsY_HBbty0ANlrfq8WHQMw?usp=sharing)
-
-[Affiliate Program](https://webcatalog.io/en/affiliates/)
 
 Legal
 
