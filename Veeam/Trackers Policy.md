@@ -1,4 +1,4 @@
-[#1 Global Leader in Data Resilience](https://www.veeam.com/global-leader-data-protection-ransomware-recovery.html?ad=top-of-header-link)
+[#1 Global Leader in Data Resilience](https://www.veeam.com/global-leader-data-resilience.html?ad=top-of-header-link)
 
 * [Downloads](https://www.veeam.com/products/downloads.html?ad=top-sub-menu)
 * Contact us
@@ -23,7 +23,7 @@
 
 [Veeam logo](https://www.veeam.com/)
 
-[#1 Global Leader in Data Resilience](https://www.veeam.com/global-leader-data-protection-ransomware-recovery.html?ad=top-of-header-link)
+[#1 Global Leader in Data Resilience](https://www.veeam.com/global-leader-data-resilience.html?ad=top-of-header-link)
 
 Menu
 
@@ -266,6 +266,10 @@ Menu
     Blog
     
     * [Veeam Blog](https://www.veeam.com/blog/?ad=menu-resources)
+    
+    Glossary
+    
+    * [Veeam Glossary](https://www.veeam.com/glossary.html?ad=menu-resources)
     
     Events & Webinars
     
