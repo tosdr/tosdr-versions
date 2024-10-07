@@ -2,8 +2,8 @@
 
 [Home](https://ytmp3.cc/en-DrWL/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)
 
-Privacy Policy
-==============
+YTMP3: Privacy Policy
+=====================
 
 Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of this website and the services offered on and through it (the „Service”), including information you provide when using it.
 
