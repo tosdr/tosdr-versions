@@ -61,7 +61,7 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Ars Technica has been separating the signal from the noise for over 25 years. With our unique combination of technical savvy and wide-ranging interest in the technological arts and sciences, Ars is the trusted source in a sea of information. After all, you don’t need to know everything, only what’s important.
 
-[](https://twitter.com/arstechnica)[](https://mastodon.social/arstechnica)[](https://www.facebook.com/arstechnica)[](https://www.youtube.com/@arstechnica)[](https://www.instagram.com/arstechnica/)
+[](https://twitter.com/arstechnica)[](https://mastodon.social/@arstechnica)[](https://www.facebook.com/arstechnica)[](https://www.youtube.com/@arstechnica)[](https://www.instagram.com/arstechnica/)
 
 More from Ars
 
