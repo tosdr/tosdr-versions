@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![David Guetta: Nothing But the Beat](/wp-content/thumbnails/6593-100x70.jpg?x53432)
+* [![Reality and the Extended Mind](/wp-content/thumbnails/6397-100x70.jpg?x53432)
     
-    David Guetta: Nothing But the Beat
+    Reality and the Extended Mind
     
-    David Guetta, popular French house music producer and DJ, tells the story of himself and the electronic music.“I cannot look at myself in the mirror if I do not give 100 percent. My ambition is ne](https://documentaryheaven.com/david-guetta-nothing-but-the-beat/ "David Guetta: Nothing But the Beat")
-* [![Shouting Fire: Stories From The Edge of Free Speech](/wp-content/thumbnails/5855-100x70.jpg?x53432)
+    This documentary focuses on experiments exploring what is known by researchers as psi phenomena. These are anomalous extended properties of consciousness that have been measured under experimental con](https://documentaryheaven.com/reality-and-the-extended-mind/ "Reality and the Extended Mind")
+* [![Naked Science: Deadliest Planets](/wp-content/thumbnails/14713-100x70.jpg?x53432)
     
-    Shouting Fire: Stories From The Edge of Free Speech
+    Naked Science: Deadliest Planets
     
-    This documentary film look at the changing interpretations of the first amendment of the U.S. Constitution – laws and court cases that have alternatively broadened and narrowed the amendment’s protect](https://documentaryheaven.com/shouting-fire-stories-from-the-edge-of-free-speech/ "Shouting Fire: Stories From The Edge of Free Speech")
-* [![DPRK: The Land of Whispers](/wp-content/thumbnails/7061-100x70.jpg?x53432)
+    In the future humanity may leave the Earth behind and search for a new home in space, but where exactly? Our solar system is a dangerous place. There are fiery volcanic worlds, planets with 1400 mile](https://documentaryheaven.com/naked-science-deadliest-planets/ "Naked Science: Deadliest Planets")
+* [![Real Life Hannibal Lecters](/wp-content/thumbnails/3431-100x70.jpg?x53432)
     
-    DPRK: The Land of Whispers
+    Real Life Hannibal Lecters
     
-    North Korea lies somewhere between a 1930′s Soviet Union frozen in time and a dark, futuristic vision of society… as imagined back in the 70′s.Land of Whispers invites you to visit arguably the mo](https://documentaryheaven.com/dprk-the-land-of-whispers/ "DPRK: The Land of Whispers")
-* [![I Want My Sex Back!](/wp-content/thumbnails/14264-100x70.jpg?x53432)
+    Before the fictional Hannibal Lecter there was a select group of real life monsters that terrorized our neighborhoods.Albert Fish, Andrei Chickatilo, Jeffrey Dahmer, Ted Bundy and John Wayne Gacy. B](https://documentaryheaven.com/real-life-hannibal-lecters/ "Real Life Hannibal Lecters")
+* [![Bad Boy Boxer: The Last Chance](/wp-content/thumbnails/10159-100x70.jpg?x53432)
     
-    I Want My Sex Back!
+    Bad Boy Boxer: The Last Chance
     
-    I Want My Sex Back! is the personal tale of three men who went under the knife in order to change their sex but who now years latter regret the permanent procedure. Through a number of interviews we h](https://documentaryheaven.com/want-sex-back/ "I Want My Sex Back!")
-* [![The James Holmes Conspiracy](/wp-content/thumbnails/6695-100x70.jpg?x53432)
+    Lee Selby's life has been a rocky one, he has fought his way up from a small town in South Wales to boxing world stage but being a family man now, he isn't just fighting for himself anymore and it has](https://documentaryheaven.com/bad-boy-boxer-last-chance/ "Bad Boy Boxer: The Last Chance")
+* [![How Violent Are You?](/wp-content/thumbnails/3141-100x70.jpg?x53432)
     
-    The James Holmes Conspiracy
+    How Violent Are You?
     
-    The James Holmes Conspiracy is for those who do not believe the story being told by the government and media.James Eagan Holmes is the suspected perpetrator of a mass shooting that occurred on July](https://documentaryheaven.com/the-james-holmes-conspiracy/ "The James Holmes Conspiracy")
+    What makes ordinary people commit extreme acts of violence? In a thought-provoking and disturbing journey, Michael Portillo investigates one of the darker sides of human nature. He discovers what it i](https://documentaryheaven.com/how-violent-are-you/ "How Violent Are You?")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
