@@ -366,11 +366,11 @@ Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/
 
 [1st October 2024](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
 
-[![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+[![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
 
-### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
 
-[4th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+[6th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
 
 ### Featured Articles
 
