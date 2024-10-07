@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Brad Paisley Pays Tribute To Charley...](https://classiccountrymusic.com/brad-paisley-pays-tribute-to-charley-pride-with-emotional-amas-performance/)
 * [Trisha Yearwood Sells Stunning Nashville Estate...](https://classiccountrymusic.com/trisha-yearwood-sells-stunning-nashville-estate-one-day-before-garth-brooks-lawsuit/)
 * [Lukas Nelson Sings “Loving Her Was...](https://classiccountrymusic.com/lukas-nelson-sings-loving-her-was-easier-in-captivating-tribute-to-kris-kristofferson/)
-* [Jamey Johnson Is Releasing His First...](https://classiccountrymusic.com/jamey-johnson-is-releasing-his-first-solo-studio-album-in-14-years-midnight-gasoline/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
