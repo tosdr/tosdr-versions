@@ -401,35 +401,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Verizon phone outage reported in US, according to DownDetector](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/GettyImages-2170890935.jpg?ve=1&tl=1)
+ [![Grammy winner Cissy Houston, Whitney Houston's mother, dies at 91](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-805752718-a.jpg?ve=1&tl=1)
 
- ![Verizon phone outage reported in US, according to DownDetector](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/09/32/18/592/333/GettyImages-2170890935.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/verizon-outage-downdetector-october-7-2024)
+ ![Grammy winner Cissy Houston, Whitney Houston's mother, dies at 91](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-805752718-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cissy-houston-dead)
 
-### [Verizon phone outage reported in US, according to DownDetector](https://www.fox4news.com/news/verizon-outage-downdetector-october-7-2024)
+Developing
 
- [![WalletHub releases their list of safest cities in America for 2024](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/gettyimages-1241574557.jpg?ve=1&tl=1)
+### [Grammy winner Cissy Houston, Whitney Houston's mother, dies at 91](https://www.fox4news.com/news/cissy-houston-dead)
 
- ![WalletHub releases their list of safest cities in America for 2024](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/gettyimages-1241574557.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wallethub-releases-list-safest-cities-america-2024)
+ [![Plane crashes into Eagle Mountain Lake](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1)
 
-### [WalletHub releases their list of safest cities in America for 2024](https://www.fox4news.com/news/wallethub-releases-list-safest-cities-america-2024)
+ ![Plane crashes into Eagle Mountain Lake](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
+
+### [Plane crashes into Eagle Mountain Lake](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
+
+ [![Former world champion runner Kipyegon Bett dies at 26](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/kipyegeon-bett.jpg?ve=1&tl=1)
+
+ ![Former world champion runner Kipyegon Bett dies at 26](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/kipyegeon-bett.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/kipyegon-bett-dies-former-champion-runner)
+
+### [Former world champion runner Kipyegon Bett dies at 26](https://www.fox4news.com/sports/kipyegon-bett-dies-former-champion-runner)
+
+ [![Former Dallas Star Mike Ribeiro pleads guilty to indecent assault](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/GettyImages-131213413.jpg?ve=1&tl=1)
+
+ ![Former Dallas Star Mike Ribeiro pleads guilty to indecent assault](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/592/333/GettyImages-131213413.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-stars-mike-ribeiro-guilty-indecent-assault)
+
+### [Former Dallas Star Mike Ribeiro pleads guilty to indecent assault](https://www.fox4news.com/sports/dallas-stars-mike-ribeiro-guilty-indecent-assault)
 
  [![Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/hurricane-milton.jpg?ve=1&tl=1)
 
  ![Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/hurricane-milton.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-milton-mandatory-evacuations-begin-tampa-bay-area)
 
 ### [Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://www.fox4news.com/news/tropical-storm-milton-mandatory-evacuations-begin-tampa-bay-area)
-
- [![Hurricane watch: Milton strengthens to Category 4 as it moves toward Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/al14_stats-1-1.gif?ve=1&tl=1)
-
- ![Hurricane watch: Milton strengthens to Category 4 as it moves toward Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/al14_stats-1-1.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-watch-milton-category-3-projected-path-florida-october-7)
-
-### [Hurricane watch: Milton strengthens to Category 4 as it moves toward Florida](https://www.fox4news.com/news/hurricane-watch-milton-category-3-projected-path-florida-october-7)
-
- [![Egg recall linked to salmonella upgraded to highest possible risk by FDA](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/GettyImages-1712145459.jpg?ve=1&tl=1)
-
- ![Egg recall linked to salmonella upgraded to highest possible risk by FDA](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/GettyImages-1712145459.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/eggs-recalled-salmonella-upgraded-highest-possible-risk-fda)
-
-### [Egg recall linked to salmonella upgraded to highest possible risk by FDA](https://www.fox4news.com/news/eggs-recalled-salmonella-upgraded-highest-possible-risk-fda)
 
 ###### [News](https://www.fox4news.com/news)
 
