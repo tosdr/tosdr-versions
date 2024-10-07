@@ -1,4 +1,4 @@
-Uploadcare File Uploader is live on Product Hunt! 🚀 [Support our launch](https://www.producthunt.com/posts/uploadcare-file-uploader?utm_source=website&utm_medium=top-banner&utm_campaign=ph-launch)
+Live demo, 10 October: What’s new in Uploadcare File Uploader 💡 [Claim my seat now](https://uploadcare.com/uploader1/#livedemo)
 
 [](https://uploadcare.com/)
 
