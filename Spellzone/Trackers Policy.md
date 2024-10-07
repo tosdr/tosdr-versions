@@ -162,9 +162,11 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"This is a fantastic opportunity for our students!  I'm sure Spellzone will be invaluable in helping them to improve their spellings and therefore improve the quality of their writing in all subject areas!"
+"I ran the trial with a small group of students over three weeks before the summer holidays," she says. "I quickly saw the benefits, and signed up."
 
-**Teacher, High School, UK**
+**King's Leadership Academy, Warrington**
+
+[read more...](https://www.spellzone.com/pages/case-studies/kings-leadership-academy.cfm)
 
 ### Curriculum...
 
