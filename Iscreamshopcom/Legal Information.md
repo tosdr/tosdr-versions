@@ -135,24 +135,24 @@ To install this Web App in your iPhone/iPad press ![](/emipro_theme_base/static/
 
 Account
 
-* [My Account](https://www.iscream-shop.com/my/home)
-* [Order Status](https://www.iscream-shop.com/my/orders)
-* [View Cart](https://www.iscream-shop.com/shop/cart)
+* ﻿﻿[My Account](https://www.iscream-shop.com/my/home)﻿﻿
+* ﻿﻿[Order Status](https://www.iscream-shop.com/my/orders)﻿﻿
+* ﻿﻿[View Cart](https://www.iscream-shop.com/shop/cart)﻿﻿
 *   
     
 
 About
 
-* [About Us](https://www.iscream-shop.com/aboutus)
-* [Shipping & Returns](https://www.iscream-shop.com/shipping-returns)
-* [Privacy Policy](https://www.iscream-shop.com/privacy-notice)
-* [Contact Us](https://www.iscream-shop.com/contactus)
-* [Become a Wholesaler](https://www.iscream-shop.com/become-a-wholesaler)
+* ﻿﻿[About Us](https://www.iscream-shop.com/aboutus)﻿﻿
+* ﻿﻿[Shipping & Returns](https://www.iscream-shop.com/shipping-returns)﻿﻿
+* ﻿﻿[Privacy Policy](https://www.iscream-shop.com/privacy-notice)﻿﻿
+* ﻿﻿[Contact Us](https://www.iscream-shop.com/contactus)﻿﻿
+* ﻿﻿[Become a Wholesaler](https://www.iscream-shop.com/become-a-wholesaler)﻿﻿
 
 Follow us
 
-* [Instagram](https://www.iscream-shop.com/website/social/instagram)
-* [Facebook](https://www.iscream-shop.com/website/social/facebook)
+* _​_ ﻿﻿[Instagram](https://www.iscream-shop.com/website/social/instagram)﻿﻿
+* _​_ ﻿﻿[Facebook](https://www.iscream-shop.com/website/social/facebook)﻿﻿
 *   
     
 *   
