@@ -21,7 +21,7 @@
     
     * [* moto g stylus 5g - $170 off](https://www.motorola.com/us/smartphones-moto-g-stylus-5g-gen-3/p?skuId=935 "moto g stylus 5g - $170 off")
     * [* razr 2023 - $300 off](https://www.motorola.com/us/smartphones-razr-gen-3/p?skuId=984 "razr 2023 - $300 off")
-    * [* ANNIVERSARY SALE](https://www.motorola.com/us/specials "ANNIVERSARY SALE")
+    * [* SWEATER WEATHER SALE](https://www.motorola.com/us/specials "SWEATER WEATHER SALE")
     * [* Compare phones](https://www.motorola.com/us/compare-smartphones "Compare phones")
     * [* Tablet](https://www.motorola.com/us/lenovo-tab-p11/p "Tablet")
     * [](#)
