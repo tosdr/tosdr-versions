@@ -123,6 +123,8 @@ Please note that this Privacy Policy may change anytime. Your continued use of t
 
 [Bug Bounty](https://www.teamup.com/bug-bounty/)
 
+TABLE OF CONTENTS
+
 * [Privacy Policy](#privacy-policy "Privacy Policy")
     * * [1\. Personal Information](#1-personal-information "1. Personal Information")
         * [2\. Calendar Data](#2-calendar-data "2. Calendar Data")
