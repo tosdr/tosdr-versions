@@ -74,11 +74,11 @@
 Terms and Conditions
 ====================
 
-Last Updated 30 September 2024 © CitizenCard Limited
+Last Updated 07 October 2024 © CitizenCard Limited
 
 The Terms and Conditions set out below are important and affect your rights as a customer of CitizenCard Limited. They apply to anyone applying for a CitizenCard.
 
-[Download a PDF version of these Terms & Conditions](https://www.citizencard.com/files/citizencard-terms-and-conditions-30-september-2024.pdf "Download CitizenCard T&Cs")
+[Download a PDF version of these Terms & Conditions](https://www.citizencard.com/files/citizencard-terms-and-conditions-07-october-2024.pdf "Download CitizenCard T&Cs")
 
 We draw your attention in particular to the fact that your purchase and payment is of our Application Processing and Validation Service. If you complete the Application process successfully we will issue you with a CitizenCard, subject to conditions of use, which remains at all times Our legal property.
 
@@ -218,27 +218,31 @@ CitizenCard, 7 Prescott Place, London SW4 6BS
 * Personal Data supplied by the Referee such as name, signature, occupation, work address and other contact details;
 * Personal Data supplied by the Applicant's parent or legal guardian such as name and signature.
 
-4.3 We provide Yoti, a digital identity company, 1Account, an online identity verification company, and Arissian, through their Luciditi digital identity platform, with the ability to confirm electronically the validity of a cardholder provided that the cardholder has given Yoti, 1Account or Arissian their consent to do this check.
+4.3 We provide Yoti, a digital identity company, 1Account, an online identity verification company, and Arissian, via their Luciditi digital identity platform, with the ability to confirm electronically the validity of a cardholder through our secure API, provided that the cardholder has given Yoti, 1Account or Arissian their consent to do this check.
 
 4.4 When using the e-IDVT process, the Applicant has to agree to their data (photo ID document, liveness check and selfies) being assessed by Yoti Identity Verification ([www.yoti.com/business/identity-verification](https://www.yoti.com/business/identity-verification/ "Yoti Identity Verification")) for the purpose of document and identity validation. Yoti Identity Verification can submit the ID documents and selfies of suspected fraudsters to law enforcement bodies to help authorities in detection and prevention of fraud.
 
-4.5 We provide retailers and other organisations with the ability to confirm that you are a legitimate cardholder at [verify.citizencard.com](https://verify.citizencard.com/) or by using the PASS Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and the [Apple App Store](https://apps.apple.com/gb/app/pass-card-verify/id1586349026), provided that you have given them your consent either by sharing your card details with them, letting them scan the QR code on your card reverse or take a photo of the front of your card.
+4.5 We provide retailers and other organisations with the ability to confirm that you are a legitimate cardholder at [verify.citizencard.com](https://verify.citizencard.com/) or by using the PASS Card Verify app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.citizencard.verify&hl=en_GB&gl=US&pli=1) and [Apple App Store](https://apps.apple.com/gb/app/pass-card-verify/id1586349026), provided that you have given them your consent either by sharing your card details with them, allowing them to scan the QR code on the reverse of your card, or by permitting them to take a photo of the front of your card.
 
 4.6 We use Google Cloud Vision API together with our own machine learning technology to make sure a photo you upload to support your online application complies with passport quality standards; Google does not use an anonymous photo it receives for any other purpose nor share it with third-parties and the photo is deleted right after the processing is done.
 
 4.7 We use Google Cloud Vision API to extract full card details from photos taken by the PASS Card Verify app to verify whether the card is genuine or not; Google does not use a photo of a card it receives for any other purpose nor share it with third-parties and the photo is deleted right after the processing is done.
 
-4.8 We share your full name and address with our delivery provider, Royal Mail, who deliver your card to you.
+4.8 We provide your full name and address to our delivery provider, Royal Mail, who handles the delivery of your card.
 
-4.9 We may disclose your personal information to law enforcement agencies to the extent that we are required to do so by law.
+4.9 We share anonymised analytics data with Google Analytics to better understand website usage, gather insights into user behaviour, and improve website performance. Additionally, we might track registered users across devices and sessions using Google Analytics' User-ID feature on [online.citizencard.com](https://online.citizencard.com/), which provides a more accurate analysis of customer interactions. Both features of Google Analytics are contingent upon your consent to the use of 'Analytics' cookies, as managed through the cookie banner on our website.
 
-4.10 Communications Preferences
+4.10 We may utilise SurveyMonkey to conduct surveys as part of our email campaigns, which you might receive if you have opted in to marketing communications.
+
+4.11 We may disclose your personal information to law enforcement agencies to the extent that we are required to do so by law.
+
+4.12 Communications Preferences
 
 We offer those who provide personal contact information a means to choose how we use the information provided (for instance to enable us to communicate via email, letter and/or SMS). You may manage your receipt of communications by clicking on the "unsubscribe" link located on the bottom of our emails.
 
 Users of our services registered at [online.citizencard.com](https://online.citizencard.com/) can manage their communication preferences in the 'Update Communication Preferences' section of their online account.
 
-4.11 The purposes for which Data may be Processed by Us include:
+4.13 The purposes for which Data may be Processed by Us include:
 
 * Validating Your personal details;
 * If applicable, validating the Referee's personal details;
@@ -253,7 +257,7 @@ Users of our services registered at [online.citizencard.com](https://online.citi
 * Conducting market research; and
 * Any other purpose which is obvious or is communicated to You.
 
-4.12 If You wish to have your Data removed permanently from Our records, please email [\[email protected\]](https://www.citizencard.com/cdn-cgi/l/email-protection) or write to: CitizenCard 7 Prescott Place, London SW4 6BS. If we have issued you with a CitizenCard (which remains our property) you will need to return it to us or provide evidence of its destruction before we will delete your Data from Our records. If the card we issued you has been lost or stolen you will need to sign (and have witnessed) a Sworn Statement that the card issued was lost or stolen. We will then delete your Data from Our records but will retain a hard copy of the Sworn Statement solely for the purpose of assisting police or law enforcement agencies in connection with any investigation involving the card issued.
+4.14 If You wish to have your Data removed permanently from Our records, please email [\[email protected\]](https://www.citizencard.com/cdn-cgi/l/email-protection) or write to: CitizenCard 7 Prescott Place, London SW4 6BS. If we have issued you with a CitizenCard (which remains our property) you will need to return it to us or provide evidence of its destruction before we will delete your Data from Our records. If the card we issued you has been lost or stolen you will need to sign (and have witnessed) a Sworn Statement that the card issued was lost or stolen. We will then delete your Data from Our records but will retain a hard copy of the Sworn Statement solely for the purpose of assisting police or law enforcement agencies in connection with any investigation involving the card issued.
 
 * * *
 
@@ -488,7 +492,7 @@ However, no guarantee can be given that a particular premise, or individual work
 12\. VARIATION OF THESE TERMS AND CONDITIONS
 --------------------------------------------
 
-12.1 We reserve the right at all times to make changes to these Terms and Conditions from time to time. Applicants, Referees, Parents/Legal Guardians or Lawful Holders who do not accept the amendments may return the Card to us, if issued, and/or request that data applicable to them is removed from Our records as advised in 4.12.
+12.1 We reserve the right at all times to make changes to these Terms and Conditions from time to time. Applicants, Referees, Parents/Legal Guardians or Lawful Holders who do not accept the amendments may return the Card to us, if issued, and/or request that data applicable to them is removed from Our records as advised in 4.14.
 
 * * *
 
