@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/vaccinatie-als-heilig-huisje/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/ex-directeur-pfizer-doet-boekje-open-wake-up/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
