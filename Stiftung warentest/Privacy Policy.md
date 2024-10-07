@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
-* [Fonds­gebundene Renten­versicherungen im Vergleich: Finger weg von Policen mit Beitrags­garantie](https://www.test.de/Fondsgebundene-Rentenversicherung-mit-Beitragsgarantie-Vergleich-6062027-0/ "Fondsgebundene Rentenversicherungen im Vergleich - Finger weg von Policen mit Beitragsgarantie")
-* [Auskunfteien: Mehr Trans­parenz beim Schufa-Score](https://www.test.de/Auskunfteien-Mehr-Transparenz-beim-Schufa-Score-5931152-0/ "Auskunfteien - Mehr Transparenz beim Schufa-Score")
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Psycho­therapie für Kinder und Jugend­liche: Hilfe für die junge Psyche](https://www.test.de/Psychotherapie-fuer-Kinder-und-Jugendliche-6131397-0/ "Psychotherapie für Kinder und Jugendliche - Hilfe für die junge Psyche")
+* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
+* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
 
 Fußbereich
 
@@ -3859,12 +3859,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
-* [Fonds­gebundene Renten­versicherungen im Vergleich: Finger weg von Policen mit Beitrags­garantie](https://www.test.de/Fondsgebundene-Rentenversicherung-mit-Beitragsgarantie-Vergleich-6062027-0/ "Fondsgebundene Rentenversicherungen im Vergleich - Finger weg von Policen mit Beitragsgarantie")
-* [Auskunfteien: Mehr Trans­parenz beim Schufa-Score](https://www.test.de/Auskunfteien-Mehr-Transparenz-beim-Schufa-Score-5931152-0/ "Auskunfteien - Mehr Transparenz beim Schufa-Score")
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Psycho­therapie für Kinder und Jugend­liche: Hilfe für die junge Psyche](https://www.test.de/Psychotherapie-fuer-Kinder-und-Jugendliche-6131397-0/ "Psychotherapie für Kinder und Jugendliche - Hilfe für die junge Psyche")
+* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
+* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
 
 Weitere spannende Themen
 
@@ -3879,12 +3879,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
-* [Fonds­gebundene Renten­versicherungen im Vergleich: Finger weg von Policen mit Beitrags­garantie](https://www.test.de/Fondsgebundene-Rentenversicherung-mit-Beitragsgarantie-Vergleich-6062027-0/ "Fondsgebundene Rentenversicherungen im Vergleich - Finger weg von Policen mit Beitragsgarantie")
-* [Auskunfteien: Mehr Trans­parenz beim Schufa-Score](https://www.test.de/Auskunfteien-Mehr-Transparenz-beim-Schufa-Score-5931152-0/ "Auskunfteien - Mehr Transparenz beim Schufa-Score")
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Psycho­therapie für Kinder und Jugend­liche: Hilfe für die junge Psyche](https://www.test.de/Psychotherapie-fuer-Kinder-und-Jugendliche-6131397-0/ "Psychotherapie für Kinder und Jugendliche - Hilfe für die junge Psyche")
+* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
+* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
 
 Neueste Tests
 
@@ -3897,12 +3897,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
-* [Sommerreifen im Test: Die besten Sommerreifen aus den ADAC-Tests](https://www.test.de/Test-Sommerreifen-Die-besten-Sommerreifen-aus-den-ADAC-Tests-6045628-0/ "Sommerreifen im Test - Die besten Sommerreifen aus den ADAC-Tests")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
-* [Fonds­gebundene Renten­versicherungen im Vergleich: Finger weg von Policen mit Beitrags­garantie](https://www.test.de/Fondsgebundene-Rentenversicherung-mit-Beitragsgarantie-Vergleich-6062027-0/ "Fondsgebundene Rentenversicherungen im Vergleich - Finger weg von Policen mit Beitragsgarantie")
-* [Auskunfteien: Mehr Trans­parenz beim Schufa-Score](https://www.test.de/Auskunfteien-Mehr-Transparenz-beim-Schufa-Score-5931152-0/ "Auskunfteien - Mehr Transparenz beim Schufa-Score")
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Psycho­therapie für Kinder und Jugend­liche: Hilfe für die junge Psyche](https://www.test.de/Psychotherapie-fuer-Kinder-und-Jugendliche-6131397-0/ "Psychotherapie für Kinder und Jugendliche - Hilfe für die junge Psyche")
+* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
+* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
 
 Service Stiftung Warentest
 
