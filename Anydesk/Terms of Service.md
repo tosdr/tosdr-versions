@@ -37,7 +37,7 @@
     
     Partners
     
-    [Partner Community](https://anydesk.com/en/partners) [Become a Partner](https://anydesk.com/en/become-a-partner) [Integration Partners](https://anydesk.com/en/partners/integration)
+    [Partner Community](https://anydesk.com/en/partners) [Become a Partner](https://anydesk.com/en/become-a-partner) [Partner Locator](https://anydesk.com/en/partners/partner-locator) [Integration Partners](https://anydesk.com/en/partners/integration)
     
     Resources
     
