@@ -9,7 +9,8 @@ Toggle navigation
 * Awards
     
     * [Influencers](https://www.lexology.com/influencers)
-    * [WWL Awards 2024](https://events.whoswholegal.com/lnGyzr?RefId=lexawardstab)
+    * [Lexology Index Awards 2024](https://events.lexology.com/59K93D?RefId=LexAwardsTab)
+    * [Lexology European Awards 2025](https://events.lexology.com/gDGnQ9?RefId=LexAwardsTab)
     
     **Introducing Instruct Counsel**
     
