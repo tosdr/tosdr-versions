@@ -1,6 +1,6 @@
-5.38.15
+5.38.17
 
-1728247486841
+1728268283090
 
                                           
 
@@ -10,19 +10,19 @@ GB
 
 en
 
-3.15.0
+3.15.1
 
-1728246863674
+1728269954128
 
      Next Cookies & Privacy Policy | Next Official Site                                  
 
                   [Click here to use our accessible website](https://accessible.next.co.uk/)
 
-5.38.15
+5.38.17
 
 cutaway22
 
-1728248060754
+1728269841295
 
 You need to enable JavaScript to run this app.
 
@@ -527,9 +527,9 @@ Oops' Something's gone wrong! [Please try again](#)
 
 You need to enable JavaScript to run this app.
 
-3.15.0
+3.15.1
 
-1728246651514
+1728269797127
 
 ### Our Social Networks
 
