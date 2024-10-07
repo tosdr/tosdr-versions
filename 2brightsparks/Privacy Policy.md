@@ -30,7 +30,6 @@
     * [List of Affiliates](https://www.2brightsparks.com/store/affiliates.php)
 * [Support](https://help.2brightsparks.com/)
     * [Request Support](https://help.2brightsparks.com/support/solutions/articles/43000335587)
-    * [Support via A.I.](https://www.2brightsparks.com/support/ai.html)
     * [Knowledge Base](https://help.2brightsparks.com/support/solutions)
     * [Articles](https://www.2brightsparks.com/resources/articles/)
     * [Tutorials](https://www.2brightsparks.com/support/xplain/)
