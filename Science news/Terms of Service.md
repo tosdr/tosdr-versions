@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Blood pressure may read falsely high if the arm isn’t positioned properly](https://www.sciencenews.org/article/blood-pressure-reading-arm-position)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")6 hours ago
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")12 hours ago
             
         * [Genetics](https://www.sciencenews.org/topic/genetics)
             
             ### [The discovery of microRNA wins the 2024 physiology Nobel Prize](https://www.sciencenews.org/article/microrna-2023-nobel-physiology-medicine)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")11 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")16 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -118,19 +118,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Semaglutide saps mice’s motivation to run](https://www.sciencenews.org/article/semaglutide-saps-mices-motivation-run)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")2 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")7 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [These sea creatures can fuse their bodies](https://www.sciencenews.org/article/sea-walnut-comb-jelly-fuse-bodies)
             
-            By [Jude Coleman](https://www.sciencenews.org/author/jude-coleman "Posts by Jude Coleman")6 hours ago
+            By [Jude Coleman](https://www.sciencenews.org/author/jude-coleman "Posts by Jude Coleman")12 hours ago
             
         * [Genetics](https://www.sciencenews.org/topic/genetics)
             
             ### [The discovery of microRNA wins the 2024 physiology Nobel Prize](https://www.sciencenews.org/article/microrna-2023-nobel-physiology-medicine)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")11 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")16 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
