@@ -1,9 +1,10 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZwRKEAoAAhQAAABiCp0)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZwScGgoAAhQAAABiV1Q)
 
 * Es noticia:
 * [Carvajal](https://www.marca.com/futbol/real-madrid/2024/10/07/6703ccfb268e3efd4f8b45a6.html)
-* [Dani Carvajal](https://www.marca.com/futbol/real-madrid/2024/10/07/670409fde2704e8fb78b4593.html)
 * [Peter Lim](https://www.marca.com/futbol/valencia/2024/10/07/67042e9dca4741bf578b45cc.html)
+* [Colapinto](https://www.marca.com/tiramillas/television/2024/10/07/67041c08268e3e60168b4588.html)
+* [Lesión Carvajal](https://www.marca.com/futbol/real-madrid/2024/10/07/67043c5de2704e7f228b457c.html)
 * [Muere Johan Neeskens](https://www.marca.com/futbol/futbol-internacional/2024/10/07/6703ea0ae2704e346a8b45a0.html)
 * [Sancet](https://www.marca.com/futbol/athletic/2024/10/07/6703fa6b46163f074a8b457a.html)
 * [Badosa](https://www.marca.com/tenis/2024/10/07/67040497e2704e09298b45d6.html)
