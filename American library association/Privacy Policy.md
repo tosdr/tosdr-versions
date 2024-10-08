@@ -311,8 +311,10 @@ Chicago, IL 60601
 * [Committees](https://www.ala.org/aboutala/committees "Committees")
 
 * [facebook](https://www.facebook.com/AmericanLibraryAssociation)
-* [twitter](https://twitter.com/ALALibrary)
-* [youtube](https://www.youtube.com/americanlibraryassocaition)
+* [instagram](https://www.instagram.com/americanlibraryassociation/)
+* [twitter](https://x.com/ALALibrary)
+* [youtube](https://youtube.com/user/AmLibraryAssociation)
+* [threads](https://www.threads.net/@americanlibraryassociation)
 
 [Donate](https://www.ala.org/donate)
 
@@ -320,8 +322,10 @@ Footer Utility
 --------------
 
 * [facebook](https://www.facebook.com/AmericanLibraryAssociation)
-* [twitter](https://twitter.com/ALALibrary)
-* [youtube](https://www.youtube.com/americanlibraryassocaition)
+* [instagram](https://www.instagram.com/americanlibraryassociation/)
+* [twitter](https://x.com/ALALibrary)
+* [youtube](https://youtube.com/user/AmLibraryAssociation)
+* [threads](https://www.threads.net/@americanlibraryassociation)
 
 * [ALA Websites](https://www.ala.org/aboutala/sitesdirectory "ALA Websites")
 * [Privacy Policy](https://www.ala.org/privacypolicy "Privacy Policy")
