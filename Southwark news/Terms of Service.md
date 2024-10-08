@@ -201,36 +201,36 @@ Terms of Use
 
 [1st October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
 
-[![Paul Campbell was diagnosed with prostate cancer in 2018 after getting a test. 
-Photo supplied by Paul Campbell](https://southwarknews.co.uk/wp-content/uploads/2024/09/Paul-Campbell-120x86.jpg)](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
-
-### [‘I was denied a health check by a South London GP surgery and later found out I had prostate cancer’](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
-
-[28th September 2024](https://southwarknews.co.uk/area/south-london/i-was-denied-a-health-check-by-a-south-london-gp-surgery-and-later-found-out-i-had-prostate-cancer/)
-
 [![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
 
 ### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
 
 [2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
 
-[![Consort Estate leaseholders were shocked to receive major works bills of up to £50,000](https://southwarknews.co.uk/wp-content/uploads/2024/09/image00009-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
-
-### [Exclusive: Peckham homeowners fear ‘financial ruin’ over ‘wipe out’ £50,000 major works bills](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
-
-[30th September 2024](https://southwarknews.co.uk/area/peckham/exclusive-peckham-homeowners-fear-financial-ruin-over-wipe-out-50000-major-works-bills/)
-
-[![Lucy Gould in her flat on the Brandon estate in Walworth in September 2024. CREDIT: Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/10/FMA_02647-120x86.jpeg)](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
-
-### [Woman’s flat sale collapses as buyer bolts after seeing £2,900 service charge in Kennington](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
-
-[1st October 2024](https://southwarknews.co.uk/area/kennington/womans-flat-sale-collapses-as-buyer-bolts-after-seeing-2900-service-charge-in-kennington/)
-
 [![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
 
 ### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
 
 [6th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+
+[![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+
+### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+
+[4th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+
+[![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+
+### [Printworks nightclub comeback a ‘fantastic boost’ for South London](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+
+[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+
+[![John Tullett said the planned controlled parking zone would put his garage on Rossendale Road, West Dulwich out of business on day one. 
+CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/garage-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+
+### [Dulwich business say parking plans will put them out of business](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+
+[4th October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
 
 ### Featured Articles
 
