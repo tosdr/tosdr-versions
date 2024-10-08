@@ -74,7 +74,7 @@
     
     * ![](https://readtheory.org/wp-content/uploads/2024/10/head.svg)
         
-        [School & District Plan](https://readtheory.org/districts-and-schools/?_utm_campaign=menu&ref=menu)
+        [School & District Overview](https://readtheory.org/districts-and-schools/?_utm_campaign=menu&ref=menu)
     * ![](https://readtheory.org/wp-content/uploads/2024/10/star.svg)
         
         [Schedule a Demo](https://readtheory.org/schedule-a-demo/?_utm_campaign=menu&ref=menu)
@@ -82,9 +82,6 @@
         
         [Request a Quote](https://readtheory.org/app/sales/school-quote-request?_utm_campaign=menu&ref=menu)
     
-    * ![](https://readtheory.org/wp-content/uploads/2024/10/pen.svg)
-        
-        [Efficacy Studies](#)
     * ![](https://readtheory.org/wp-content/uploads/2024/10/pen.svg)
         
         [Case Studies](https://readtheory.org/case-study/?_utm_campaign=menu&ref=menu)
