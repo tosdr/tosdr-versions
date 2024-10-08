@@ -36,7 +36,9 @@ Institutions
 
 [Institutional Reports](https://www.amboss.com/us/institutions/usage-report)
 
-[Research & Insights](https://www.amboss.com/us/institutions/residents-survey)[Step 2 CK](https://www.amboss.com/us/usmle/scores)
+Research & Insights
+
+[Residents Survey](https://www.amboss.com/us/institutions/residents-survey)[Step 2 CK](https://www.amboss.com/us/usmle/scores)
 
 [Pricing](https://www.amboss.com/us/pricing)
 
