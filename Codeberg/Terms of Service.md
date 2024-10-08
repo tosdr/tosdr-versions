@@ -136,14 +136,6 @@ This text is free to be adapted and remixed under the [CC-BY-SA (Attribution-Sha
 
 Thank you for being an awesome member of the Codeberg Community!
 
-**Help improving Forgejo, the software that powers Codeberg!**
-
-The Forgejo contributors are very excited about the upcoming version of Forgejo, scheduled for release around October 16. If you can, consider offering your help to make Forgejo v9 a great release.
-
-Forgejo is the community project that makes independent and libre software development possible on Codeberg. Thanks to the team!
-
-[Help with testing, translation or development](https://forgejo.org/2024-09-preparing-v9/) [Donate to the project](https://liberapay.com/forgejo/)
-
 ![](https://design.codeberg.org/logo-kit/icon_inverted.svg)
 
 **Codeberg**
