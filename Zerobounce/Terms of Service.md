@@ -113,7 +113,7 @@ Trigger navigation
     * ![English](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=30,metadata=none/static/en-flag.png)**English**
     * [![Español](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=30,metadata=none/static/es-flag.png)Español](https://www.zerobounce.net/es/terms-of-use/ "Español")
     
-* [Log In](https://www.zerobounce.net/members/signin)
+* [Sign In](https://www.zerobounce.net/members/signin)
 * [Sign Up Free](https://www.zerobounce.net/members/signin/register)
 
 Terms & Conditions
