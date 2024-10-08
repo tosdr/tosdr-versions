@@ -42,7 +42,7 @@ Privacy Policy
 Privacy Policy
 --------------
 
-Last Updated: June 26, 2024
+Last Updated: October 7, 2024
 
 Welcome to Superhuman, a service provided by Superhuman Labs, Inc. ("**Superhuman**", "**we**", "**us**", or "**our**"). Superhuman provides the fastest email experience in the world, designed to make our users twice as productive.
 
@@ -57,7 +57,7 @@ This Privacy Policy explains how we collect, disclose, and otherwise process per
 
 **Information About Non-Users**. If you exchange emails with other individuals who are not using our Service (“Non-Users”), we will process information about such Non-Users to provide the Service to you as described in this Privacy Policy. We will not use Email Content Data (as defined below) or other information we receive about Non-Users from you to advertise or market to those Non-Users. We collect the email addresses of Non-Users only to provide the Service.
 
-Please [contact us](mailto:privacy@superhuman.com) if you have any questions about this Privacy Policy.
+Please [contact us](mailto:privacy@superhuman.com) if you have any questions about this Privacy Policy.
 
 **1\. PERSONAL DATA WE COLLECT**
 
@@ -67,20 +67,20 @@ When you contact us or interact with our Service, we may collect personal data a
 
 * **Your contact details**, when you register for our Service, sign up for our mailing list, or otherwise communicate with us; this information may include your name, email address, and phone number. We may also collect employment-related information if you are a representative of one of our business customers.
 * **Your payment information**, when you enroll in one of our plans or otherwise make a purchase on the Service. This information is processed by our payment service provider, Stripe, which may handle your payment information in accordance with its own privacy policy ([https://stripe.com/privacy](https://stripe.com/privacy)). We do not have access to your full payment card information.
-* **Communications** that we exchange with you, including when you participate in any interactive features of the Service, fill out a form, apply for a job, request customer support, or otherwise communicate with us or interact with the Service.
+* **Communications** that we exchange with you, including when you participate in any interactive features of the Service, fill out a form, apply for a job, request customer support, or otherwise communicate with us or interact with the Service.
 * **Marketing information**, such as your preferences for receiving our marketing communications and details about your engagement with them.
-* **Contents of emails** that you send and receive through the Service (“**Email Content Data**”), which we process on your behalf solely to provide the Service. Superhuman does not use that data for marketing or advertising purposes. The use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy ([https://developers.google.com/terms/api-services-user-data-policy](https://developers.google.com/terms/api-services-user-data-policy)) , including the Limited Use requirements.
-* **Other information** not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
+* **Contents of emails** that you send and receive through the Service (“**Email Content Data**”), which we process on your behalf solely to provide the Service. Superhuman does not use that data for marketing or advertising purposes. The use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy ([https://developers.google.com/terms/api-services-user-data-policy](https://developers.google.com/terms/api-services-user-data-policy)) , including the Limited Use requirements.
+* **Other information** not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
 
 **Personal Data Collected Automatically**
 
 When you access or use the Service, we, our service providers, and our advertising partners may automatically log and combine information about you, your computer or mobile device, and your interactions over time with the Service, online resources, and our communications, including:
 
 * **Superhuman content**. We collect information from Superhuman product features, including the content of drafts or snippets you create in the Service and read receipts. Please note that our advertising partners will not have access to such information.
-* **Authentication tokens.** When you sign in to the Service, we collect and store encrypted Google or Microsoft authentication tokens.
-* **Use of the Site and App.** When you visit, use, and interact with the Site or App, we may receive certain information about your visit, use or interactions. For example, we may monitor the number of people that visit our Site or App, peak hours of visits, which page(s) are visited on our Site, the domains our visitors come from (e.g., google.com, yahoo.com, etc.), which browsers people use to access and visit our Site (e.g., Firefox, Microsoft Internet Explorer, etc.), broad geographical information, and Site-navigation pattern. In particular, the following information is created and automatically logged in our systems:
+* **Authentication tokens.** When you sign in to the Service, we collect and store encrypted Google or Microsoft authentication tokens.
+* **Use of the Site and App.** When you visit, use, and interact with the Site or App, we may receive certain information about your visit, use or interactions. For example, we may monitor the number of people that visit our Site or App, peak hours of visits, which page(s) are visited on our Site, the domains our visitors come from (e.g., google.com, yahoo.com, etc.), which browsers people use to access and visit our Site (e.g., Firefox, Microsoft Internet Explorer, etc.), broad geographical information, and Site-navigation pattern. In particular, the following information is created and automatically logged in our systems:
     * **Log data**: Information that your browser automatically sends whenever you visit the Site (“**Log Data**”). Log data includes your Internet Protocol (“IP”) address (so we understand which country you are connecting from when you visit the Site), browser type and settings, the date and time of your request, and how you interacted with the Site.
-    * **Cookies:** Please see the Cookie Policy to learn more about how we use cookies on the Site.
+    * **Cookies:** Please see the Cookie Policy to learn more about how we use cookies on the Site.
     * **Device information**: Includes the operating system and browser you are using. Information collected may depend on the type of device you use and its settings.
     * **Usage information**: We collect information about how you use our Site and App, such as the types of content that you view or engage with, the features you use, the actions you take, and the time, frequency and duration of your activities.
     * **Email metadata**: We collect and store information about emails you send and receive through the Service. This includes numeric identifiers, email open and engagement data, and timestamps.
@@ -115,7 +115,7 @@ We use personal data for the following purposes or as otherwise described at the
 
 * For marketing and advertising purposes. We, our service providers, and our third-party advertising partners may collect and use personal data for the following marketing and advertising purposes:
     
-    * **Direct marketing**. We may send you direct marketing communications that we believe will be of interest to you, as permitted by law, including by email. For instance, if you elect to provide your email address, we may use that information to send you promotional information about our products and Service. You may opt out of our marketing communications as described in the [Opt out of marketing communications](https://superhuman.com/privacy#bookmark_id.3znysh7) section below.
+    * **Direct marketing**. We may send you direct marketing communications that we believe will be of interest to you, as permitted by law, including by email. For instance, if you elect to provide your email address, we may use that information to send you promotional information about our products and Service. You may opt out of our marketing communications as described in the [Opt out of marketing communications](#opt-out-marketing-communications) section below.
     * **Interest-based advertising**. We may engage third-party advertising companies, such as Google, to display our ads on their online services and around the web. We may also share information about our users with these companies to facilitate advertising for our Service to them or similar users on other online platforms.
     
     Except where consent is required, we undertake such marketing and advertising on the basis of our legitimate business interests. Where we seek your consent, you may withdraw your consent at any time.
@@ -125,36 +125,36 @@ We use personal data for the following purposes or as otherwise described at the
 
 In certain circumstances we may disclose personal data to third parties without further notice to you, unless required by the law, as set forth below:
 
-* **Vendors and Service Providers**. To assist us in meeting business operations needs and to perform certain services and functions, we may disclose personal data to service providers, including hosting, debugging services, email and productivity services, survey providers, database and sales/customer relationship management services, customer service providers, payment processors, web and app analytics services, and data brokers. We may also disclose personal information to AI service providers that provide AI-enabled features of the Service. Pursuant to our instructions, these parties will access, process, or store personal data in the course of performing their duties to us.
+* **Vendors and Service Providers**. To assist us in meeting business operations needs and to perform certain services and functions, we may disclose personal data to service providers, including hosting, debugging services, email and productivity services, survey providers, database and sales/customer relationship management services, customer service providers, payment processors, web and app analytics services, and data brokers. We may also disclose personal information to AI service providers that provide AI-enabled features of the Service. Pursuant to our instructions, these parties will access, process, or store personal data in the course of performing their duties to us.
 * **Professional advisors**. Professional advisors, such as lawyers, auditors, bankers, and insurers, where necessary in the course of the professional services that they render to us.
 * **Advertising partners**. Third-party advertising companies, including for the interest-based advertising purposes described above.
 * **Business transferees**. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of service to another provider, your personal data and other information may be disclosed in the diligence process with counterparties and others assisting with the transaction and transferred to a successor or affiliate as part of that transaction along with other assets.
 * **Authorities and others**. Law enforcement, government authorities and private parties, as we believe in good faith to be necessary or appropriate for the compliance and protection purposes described above, including to (i) comply with legal or regulatory obligations, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (v) protect against legal liability.
 
-**4. PRIVACY RIGHTS AND CHOICES**
+**4\. PRIVACY RIGHTS AND CHOICES**
 
-**Opt out of marketing communications**. You may opt out of marketing-related emails and other communications by following the opt out or unsubscribe instructions in the communications you receive from us or by contacting us as provided in the [Contact Us](https://superhuman.com/privacy#contact-us) section below. You may continue to receive Service-related and other non-marketing emails.
+**Opt out of marketing communications**. You may opt out of marketing-related emails and other communications by following the opt out or unsubscribe instructions in the communications you receive from us or by contacting us as provided in the [Contact Us](#contact-us) section below. You may continue to receive Service-related and other non-marketing emails.
 
 **Online tracking opt-out**. You can opt out of third-party cookies as described in our Cookie Policy.
 
 **Personal data requests**. We offer you choices that affect how we handle the personal data that we control. Depending on your location and the nature of your interactions with our Service, you may request the following in relation to your personal data:
 
-* **Information** about how we have collected and used personal data. We have made this information available to you without having to request it by including it in this Privacy Policy.
-* **Access** to a copy of the personal data that we have collected about you. Where applicable, we will provide the information in a portable, machine-readable, readily usable format.
-* **Correction** of personal data that is inaccurate or out of date.
-* **Deletion** of personal data that we no longer need to provide the Service or for other lawful purposes.
-* **Opt out of selling or sharing** your personal data for interest-based advertising**.** We share personal data with advertising partners that display targeted advertisements to users around the web. This may constitute “selling” or “sharing” personal information or “targeted advertising” under applicable laws. You can opt-out of our use or sharing of personal information for these purposes as described in our Cookie Policy, by enabling the Global Privacy Control setting within the browser that you use to access our Service. Learn more at the [Global Privacy Control](https://globalprivacycontrol.org/) website. Please note that your opt out will be specific to the device and browser you use when you opt out. We do not have actual knowledge that we have sold or shared the personal information of children under the age of 16.
-* **Additional rights**, such as to **object** to and request that we **restrict** our use of personal data.
+* **Information** about how we have collected and used personal data. We have made this information available to you without having to request it by including it in this Privacy Policy.
+* **Access** to a copy of the personal data that we have collected about you. Where applicable, we will provide the information in a portable, machine-readable, readily usable format.
+* **Correction** of personal data that is inaccurate or out of date.
+* **Deletion** of personal data that we no longer need to provide the Service or for other lawful purposes.
+* **Opt out of selling or sharing** your personal data for interest-based advertising. We share personal data with advertising partners that display targeted advertisements to users around the web. This may constitute “selling” or “sharing” personal information or “targeted advertising” under applicable laws. You can opt-out of our use or sharing of personal information for these purposes as described in our Cookie Policy, by enabling the Global Privacy Control setting within the browser that you use to access our Service. Learn more at the [Global Privacy Control](https://globalprivacycontrol.org/) website. Please note that your opt out will be specific to the device and browser you use when you opt out. We do not have actual knowledge that we have sold or shared the personal information of children under the age of 16.
+* **Additional rights**, such as to **object** to and request that we **restrict** our use of personal data.
 
-To exercise these privacy rights, or if you have any questions about we handle your personal data, please contact us as provided in the [Contact Us](https://superhuman.com/privacy#contact-us) section below. Depending on your jurisdiction, you may be entitled to empower an “authorized agent” to submit requests on your behalf. We will require authorized agents to confirm their identity and authority, in accordance with applicable laws. You are entitled to exercise the rights described above free from discrimination.
+To exercise these privacy rights, or if you have any questions about we handle your personal data, please contact us as provided in the [Contact Us](#contact-us) section below. Depending on your jurisdiction, you may be entitled to empower an “authorized agent” to submit requests on your behalf. We will require authorized agents to confirm their identity and authority, in accordance with applicable laws. You are entitled to exercise the rights described above free from discrimination.
 
-**Limits on your privacy rights and choices.** In some instances, your choices may be limited, such as where fulfilling your request would impair the rights of others, our ability to provide a service you have requested, or our ability to comply with our legal obligations and enforce our legal rights. If you are not satisfied with how we address your request, you may submit a complaint by contacting us as provided in the [Contact Us](https://superhuman.com/privacy#contact-us) section below. Depending on where you reside, such as if you reside in the European Economic Area or United Kingdom, you may have the right to complain to a data protection regulator where you live or work, or where you feel a violation has occurred. For example, in the UK, the Information Commissioner's Office, can be contacted at [https://ico.org.uk/concerns](https://ico.org.uk/concerns), and, in EU countries, you can contact the data protection authority of the country in which you are located.
+**Limits on your privacy rights and choices.** In some instances, your choices may be limited, such as where fulfilling your request would impair the rights of others, our ability to provide a service you have requested, or our ability to comply with our legal obligations and enforce our legal rights. If you are not satisfied with how we address your request, you may submit a complaint by contacting us as provided in the [Contact Us](https://superhuman.com/privacy#contact-us) section below. Depending on where you reside, such as if you reside in the European Economic Area or United Kingdom, you may have the right to complain to a data protection regulator where you live or work, or where you feel a violation has occurred. For example, in the UK, the Information Commissioner's Office, can be contacted at [https://ico.org.uk/concerns](https://ico.org.uk/concerns), and, in EU countries, you can contact the data protection authority of the country in which you are located.
 
 **5\. USE OF THIRD-PARTY AI TECHNOLOGY**
 
 We leverage third-party AI technology, offered by our service providers, to enable Superhuman's AI features. These features are designed to assist you in communicating through the Services, including by helping you search, draft, summarize, and edit emails. To enable these features, we will disclose some of your information to our AI service providers.
 
-We allow our AI service providers to use your information for the purpose of providing our Service – for example to generate email drafts for you – and we do not allow those providers to train their AI models using your data.
+We allow our AI service providers to use your information for the purpose of providing our Service - for example to generate email drafts for you - and we do not allow those providers to train their AI models using your data.
 
 **6\. DATA RETENTION**
 
@@ -164,7 +164,7 @@ To determine the appropriate retention period for your personal data, we will co
 
 **7\. CHILDREN'S PRIVACY**
 
-Our Service is not directed to children who are under the age of 16. Superhuman does not knowingly collect personal data from children under the age of 16. If you have reason to believe that a child under the age of 16 has provided personal data to Superhuman through the Service please [contact us](https://superhuman.com/privacy#contact-us) and we will endeavor to delete that information from our databases.
+Our Service is not directed to children who are under the age of 16. Superhuman does not knowingly collect personal data from children under the age of 16. If you have reason to believe that a child under the age of 16 has provided personal data to Superhuman through the Service please [contact us](https://superhuman.com/privacy#contact-us) and we will endeavor to delete that information from our databases.
 
 **8\. DATA TRANSFERS**
 
@@ -176,7 +176,7 @@ When we engage in cross-border data transfers, we will ensure that relevant safe
 
 Superhuman complies with EU-U.S. Data Privacy Framework and intends to comply with the forthcoming UK Extension of the EU-U.S. Data Privacy Framework and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce and the European Commission regarding the collection, use, and retention of personal data transferred from the European Union, United Kingdom, and Switzerland to Superhuman in the United States.
 
-Superhuman has certified that it adheres to the Data Privacy Framework Principles with respect to such information. If there is any conflict between the policies in this Privacy Policy and the Data Privacy Framework Principles, the Data Privacy Framework Principles shall govern. To learn more about the Data Privacy Framework program, and to view our certification, please visit [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/).
+Superhuman has certified that it adheres to the Data Privacy Framework Principles with respect to such information. If there is any conflict between the policies in this Privacy Policy and the Data Privacy Framework Principles, the Data Privacy Framework Principles shall govern. To learn more about the Data Privacy Framework program, and to view our certification, please visit [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/).
 
 Superhuman may be liable under the DPF Principles if its agent processes personal information on behalf of Superhuman in a manner inconsistent with the DPF Principles.
 
@@ -184,7 +184,7 @@ In compliance with the Data Privacy Framework Principles, Superhuman commits to 
 
 In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, Superhuman commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner's Office (ICO) with regard to unresolved complaints concerning our handling of human resources and non-human resources data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF in the context of the employment relationship.
 
-We have further committed to refer unresolved Data Privacy Framework complaints to an alternative dispute resolution provider. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider JAMS (free of charge) at [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework).
+We have further committed to refer unresolved Data Privacy Framework complaints to an alternative dispute resolution provider. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider JAMS (free of charge) at [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework).
 
 If your complaint is not resolved through these channels, under certain conditions a binding arbitration option may be available before a Data Privacy Framework Panel. For additional information, please visit: [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/).
 
@@ -212,17 +212,31 @@ The Service and our business may change from time to time. As a result, we reser
 
 **Responsible entity**. Superhuman is the entity responsible for the processing of personal data under this Privacy Policy (as a controller, where provided under applicable law).
 
-**Contact us.** If you have any questions about our Privacy Policy or the information practices of the Site, please feel free to contact us by email at [privacy@superhuman.com](mailto:privacy@superhuman.com).
+**Contact us.** If you have any questions about our Privacy Policy or the information practices of the Site, please feel free to contact us by email at [privacy@superhuman.com](mailto:privacy@superhuman.com).
+
+**UK General Data Protection Regulation (GDPR) - UK Representative**
+
+Pursuant to Article 27 of the UK GDPR, **Superhuman Labs, Inc.** has appointed EDPO UK Ltd as its UK GDPR representative in the UK. You can contact EDPO UK regarding matters pertaining to the UK GDPR:
+
+* by using EDPO's online request form: [https://edpo.com/**uk-gdpr-data-request**/](https://edpo.com/uk-gdpr-data-request/)
+* by writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom
+
+**General Data Protection Regulation (GDPR) - European Representative**
+
+Pursuant to Article 27 of the General Data Protection Regulation (GDPR), **Superhuman Labs, Inc.** has appointed European Data Protection Office (EDPO) as its GDPR Representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR:
+
+* by using EDPO's online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
+* by writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium
 
 **COOKIE POLICY**
 
 This Cookie Policy explains how Superhuman uses cookies and similar technologies in connection with our Service.
 
-If you have any questions or concerns about the Cookie Policy, please contact us at [privacy@superhuman.com](mailto:privacy@superhuman.com) or as otherwise described in our Privacy Policy.
+If you have any questions or concerns about the Cookie Policy, please contact us at [privacy@superhuman.com](mailto:privacy@superhuman.com) or as otherwise described in our Privacy Policy.
 
 **What are cookies and similar technologies?**
 
-* **Cookies** are text files that websites store on a visitor's device to uniquely identify the visitor's browser or to store information or settings in the browser for the purpose of helping you navigate between pages efficiently, remembering your preferences, enabling functionality, helping us understand activity, and patterns and facilitating online advertising.
+* **Cookies** are text files that websites store on a visitor's device to uniquely identify the visitor's browser or to store information or settings in the browser for the purpose of helping you navigate between pages efficiently, remembering your preferences, enabling functionality, helping us understand activity, and patterns and facilitating online advertising.
 * **Local storage technologies**, like HTML5, provide cookie-equivalent functionality but can store larger amounts of data, including on your device outside of your browser in connection with specific applications.
 * **Web beacons**, also known as pixel tags or clear GIFs, are used to demonstrate that a webpage or email was accessed or opened, or that certain content was viewed or clicked. There are various types of web beacons or pixels, including image pixels (which are small graphic images) and JavaScript pixels (which contains JavaScript code). When you access a service that contains a pixel, the pixel may permit us or a separate entity to drop or read cookies on your browser, or collect other information about your visit.
 
@@ -238,13 +252,13 @@ We also allow our advertising partners to collect this information through our S
 
 We use the following categories of cookies:
 
-* **Essential cookies.** These cookies are required to enable basic website functionality. They cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in, or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the Service may not work.
+* **Essential cookies.** These cookies are required to enable basic website functionality. They cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in, or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the Service may not work.
 * **Marketing cookies**. These cookies are used to deliver advertising that is more relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and measure the effectiveness of advertising campaigns. Advertising networks usually place them with the our permission.We work with agencies, advertisers, ad networks, and other technology services to place ads about our products and services on other websites and services. For example, we place ads through Google and Facebook that you may view on their platforms as well as on other websites and services.
     
     As part of this process, we may incorporate tracking technologies into our own Service as well as into our ads displayed on other websites and services. Some of these tracking technologies on our Website and within our emails and advertisements may track your activities across time and services for purposes of associating the different devices you use, and delivering relevant ads and/or other content to you.
     
 * **Personalization cookies**. These cookies allow the website to remember choices you make (such as your user name, language, or the region you are in) and provide enhanced, more personal features. For example, a website may provide you with local weather reports or traffic news by storing data about your current location.
-* **Analytics cookies.** We use analytics cookies that allow us to recognize and count the number of visitors and to see how visitors move around the Website when they are using it. This helps us to improve the way our Website works, for example by making sure users are finding what they need easily. The collected data provides us only with anonymous traffic statistics (like number of page views, number of visitors, and time spent on each page). Examples of the third-party analytics cookies we use include Google Analytics. Specifically, we use Google Analytics to collect information about how users use our services, which we then use to compile reports that disclose trends without identifying individual visitors and help us improve our services. For more information on Google Analytics, click [here](https://support.google.com/analytics/answer/12159447?hl=en). For more information about Google's privacy practices, click [here](https://policies.google.com/privacy?hl=en-US). You can opt out of Google Analytics by downloading and installing the browser plug-in available at: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+* **Analytics cookies.** We use analytics cookies that allow us to recognize and count the number of visitors and to see how visitors move around the Website when they are using it. This helps us to improve the way our Website works, for example by making sure users are finding what they need easily. The collected data provides us only with anonymous traffic statistics (like number of page views, number of visitors, and time spent on each page). Examples of the third-party analytics cookies we use include Google Analytics. Specifically, we use Google Analytics to collect information about how users use our services, which we then use to compile reports that disclose trends without identifying individual visitors and help us improve our services. For more information on Google Analytics, click [here](https://support.google.com/analytics/answer/12159447?hl=en). For more information about Google's privacy practices, click [here](https://policies.google.com/privacy?hl=en-US). You can opt out of Google Analytics by downloading and installing the browser plug-in available at: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
 **How can you control the use of cookies?**
 
@@ -252,13 +266,13 @@ Depending on the location from where you access the Service, you may be presente
 
 You can also limit online tracking by:
 
-* **Blocking cookies in your browser**. Most browsers let you remove or reject cookies, including cookies used for interest-based advertising. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](https://allaboutcookies.org/). Use the following links to learn more about how to control cookies and online tracking through your browser:
-    * [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer); [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform=Desktop&hl=en); [Microsoft Edge](https://support.microsoft.com/en-gb/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09); [Safari (Mac)](https://support.apple.com/en-gb/guide/safari/sfri11471/mac); [Safari (Mobile/iOS)](https://support.apple.com/en-gb/HT201265)
+* **Blocking cookies in your browser**. Most browsers let you remove or reject cookies, including cookies used for interest-based advertising. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](https://allaboutcookies.org/). Use the following links to learn more about how to control cookies and online tracking through your browser:
+    * [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer); [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform=Desktop&hl=en); [Microsoft Edge](https://support.microsoft.com/en-gb/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09); [Safari (Mac)](https://support.apple.com/en-gb/guide/safari/sfri11471/mac); [Safari (Mobile/iOS)](https://support.apple.com/en-gb/HT201265)
 * **Blocking advertising ID use in your mobile settings**. Your mobile device settings can provide functionality to limit use of the advertising ID associated with your mobile device for interest-based advertising purposes.
-* **Using privacy plug-ins or browsers**. You can block our websites from setting cookies used for interest-based ads by using a browser with privacy features, like [Brave](https://brave.com/),or installing browser plugins like [Privacy Badger](https://privacybadger.org/), [Ghostery](https://www.ghostery.com/), or [uBlock Origin](https://ublock.org/en),and configuring them to block third-party cookies/trackers.
+* **Using privacy plug-ins or browsers**. You can block our websites from setting cookies used for interest-based ads by using a browser with privacy features, like [Brave](https://brave.com/),or installing browser plugins like [Privacy Badger](https://privacybadger.org/), [Ghostery](https://www.ghostery.com/), or [uBlock Origin](https://ublock.org/en),and configuring them to block third-party cookies/trackers.
 * **Advertising industry opt out tools**. You can also use these opt out options to limit use of your information for interest-based advertising by participating companies:
-* Digital Advertising Alliance for Websites: [outout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN)
-* Network Advertising Initiative: [optout.networkadvertising.org](https://optout.networkadvertising.org/?c=1)
+* Digital Advertising Alliance for Websites: [outout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN)
+* Network Advertising Initiative: [optout.networkadvertising.org](https://optout.networkadvertising.org/?c=1)
 * **Platform opt-outs.** Some of our advertising partners offer opt-out features that let you opt out of use of your information for interest-based advertising, including:
     * [Google](https://myadcenter.google.com/?sasb=true)
     * [Facebook](https://www.facebook.com/about/ads)
@@ -267,7 +281,7 @@ Note that, because these opt out mechanisms are specific to the device or browse
 
 **Do Not Track**. Some Internet browsers can be configured to send “**Do Not Track**” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](https://www.allaboutdnt.com/).
 
-Last Updated: June 26, 2024
+Last Updated: October 7, 2024
 
 Welcome to Superhuman, a service provided by Superhuman Labs, Inc. ("**Superhuman**", "**we**", "**us**", or "**our**"). Superhuman provides the fastest email experience in the world, designed to make our users twice as productive.
 
@@ -282,7 +296,7 @@ This Privacy Policy explains how we collect, disclose, and otherwise process per
 
 **Information About Non-Users**. If you exchange emails with other individuals who are not using our Service (“Non-Users”), we will process information about such Non-Users to provide the Service to you as described in this Privacy Policy. We will not use Email Content Data (as defined below) or other information we receive about Non-Users from you to advertise or market to those Non-Users. We collect the email addresses of Non-Users only to provide the Service.
 
-Please [contact us](mailto:privacy@superhuman.com) if you have any questions about this Privacy Policy.
+Please [contact us](mailto:privacy@superhuman.com) if you have any questions about this Privacy Policy.
 
 **1\. PERSONAL DATA WE COLLECT**
 
@@ -292,20 +306,20 @@ When you contact us or interact with our Service, we may collect personal data a
 
 * **Your contact details**, when you register for our Service, sign up for our mailing list, or otherwise communicate with us; this information may include your name, email address, and phone number. We may also collect employment-related information if you are a representative of one of our business customers.
 * **Your payment information**, when you enroll in one of our plans or otherwise make a purchase on the Service. This information is processed by our payment service provider, Stripe, which may handle your payment information in accordance with its own privacy policy ([https://stripe.com/privacy](https://stripe.com/privacy)). We do not have access to your full payment card information.
-* **Communications** that we exchange with you, including when you participate in any interactive features of the Service, fill out a form, apply for a job, request customer support, or otherwise communicate with us or interact with the Service.
+* **Communications** that we exchange with you, including when you participate in any interactive features of the Service, fill out a form, apply for a job, request customer support, or otherwise communicate with us or interact with the Service.
 * **Marketing information**, such as your preferences for receiving our marketing communications and details about your engagement with them.
-* **Contents of emails** that you send and receive through the Service (“**Email Content Data**”), which we process on your behalf solely to provide the Service. Superhuman does not use that data for marketing or advertising purposes. The use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy ([https://developers.google.com/terms/api-services-user-data-policy](https://developers.google.com/terms/api-services-user-data-policy)) , including the Limited Use requirements.
-* **Other information** not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
+* **Contents of emails** that you send and receive through the Service (“**Email Content Data**”), which we process on your behalf solely to provide the Service. Superhuman does not use that data for marketing or advertising purposes. The use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy ([https://developers.google.com/terms/api-services-user-data-policy](https://developers.google.com/terms/api-services-user-data-policy)) , including the Limited Use requirements.
+* **Other information** not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
 
 **Personal Data Collected Automatically**
 
 When you access or use the Service, we, our service providers, and our advertising partners may automatically log and combine information about you, your computer or mobile device, and your interactions over time with the Service, online resources, and our communications, including:
 
 * **Superhuman content**. We collect information from Superhuman product features, including the content of drafts or snippets you create in the Service and read receipts. Please note that our advertising partners will not have access to such information.
-* **Authentication tokens.** When you sign in to the Service, we collect and store encrypted Google or Microsoft authentication tokens.
-* **Use of the Site and App.** When you visit, use, and interact with the Site or App, we may receive certain information about your visit, use or interactions. For example, we may monitor the number of people that visit our Site or App, peak hours of visits, which page(s) are visited on our Site, the domains our visitors come from (e.g., google.com, yahoo.com, etc.), which browsers people use to access and visit our Site (e.g., Firefox, Microsoft Internet Explorer, etc.), broad geographical information, and Site-navigation pattern. In particular, the following information is created and automatically logged in our systems:
+* **Authentication tokens.** When you sign in to the Service, we collect and store encrypted Google or Microsoft authentication tokens.
+* **Use of the Site and App.** When you visit, use, and interact with the Site or App, we may receive certain information about your visit, use or interactions. For example, we may monitor the number of people that visit our Site or App, peak hours of visits, which page(s) are visited on our Site, the domains our visitors come from (e.g., google.com, yahoo.com, etc.), which browsers people use to access and visit our Site (e.g., Firefox, Microsoft Internet Explorer, etc.), broad geographical information, and Site-navigation pattern. In particular, the following information is created and automatically logged in our systems:
     * **Log data**: Information that your browser automatically sends whenever you visit the Site (“**Log Data**”). Log data includes your Internet Protocol (“IP”) address (so we understand which country you are connecting from when you visit the Site), browser type and settings, the date and time of your request, and how you interacted with the Site.
-    * **Cookies:** Please see the Cookie Policy to learn more about how we use cookies on the Site.
+    * **Cookies:** Please see the Cookie Policy to learn more about how we use cookies on the Site.
     * **Device information**: Includes the operating system and browser you are using. Information collected may depend on the type of device you use and its settings.
     * **Usage information**: We collect information about how you use our Site and App, such as the types of content that you view or engage with, the features you use, the actions you take, and the time, frequency and duration of your activities.
     * **Email metadata**: We collect and store information about emails you send and receive through the Service. This includes numeric identifiers, email open and engagement data, and timestamps.
@@ -340,7 +354,7 @@ We use personal data for the following purposes or as otherwise described at the
 
 * For marketing and advertising purposes. We, our service providers, and our third-party advertising partners may collect and use personal data for the following marketing and advertising purposes:
     
-    * **Direct marketing**. We may send you direct marketing communications that we believe will be of interest to you, as permitted by law, including by email. For instance, if you elect to provide your email address, we may use that information to send you promotional information about our products and Service. You may opt out of our marketing communications as described in the [Opt out of marketing communications](https://superhuman.com/privacy#bookmark_id.3znysh7) section below.
+    * **Direct marketing**. We may send you direct marketing communications that we believe will be of interest to you, as permitted by law, including by email. For instance, if you elect to provide your email address, we may use that information to send you promotional information about our products and Service. You may opt out of our marketing communications as described in the [Opt out of marketing communications](#opt-out-marketing-communications) section below.
     * **Interest-based advertising**. We may engage third-party advertising companies, such as Google, to display our ads on their online services and around the web. We may also share information about our users with these companies to facilitate advertising for our Service to them or similar users on other online platforms.
     
     Except where consent is required, we undertake such marketing and advertising on the basis of our legitimate business interests. Where we seek your consent, you may withdraw your consent at any time.
@@ -350,36 +364,36 @@ We use personal data for the following purposes or as otherwise described at the
 
 In certain circumstances we may disclose personal data to third parties without further notice to you, unless required by the law, as set forth below:
 
-* **Vendors and Service Providers**. To assist us in meeting business operations needs and to perform certain services and functions, we may disclose personal data to service providers, including hosting, debugging services, email and productivity services, survey providers, database and sales/customer relationship management services, customer service providers, payment processors, web and app analytics services, and data brokers. We may also disclose personal information to AI service providers that provide AI-enabled features of the Service. Pursuant to our instructions, these parties will access, process, or store personal data in the course of performing their duties to us.
+* **Vendors and Service Providers**. To assist us in meeting business operations needs and to perform certain services and functions, we may disclose personal data to service providers, including hosting, debugging services, email and productivity services, survey providers, database and sales/customer relationship management services, customer service providers, payment processors, web and app analytics services, and data brokers. We may also disclose personal information to AI service providers that provide AI-enabled features of the Service. Pursuant to our instructions, these parties will access, process, or store personal data in the course of performing their duties to us.
 * **Professional advisors**. Professional advisors, such as lawyers, auditors, bankers, and insurers, where necessary in the course of the professional services that they render to us.
 * **Advertising partners**. Third-party advertising companies, including for the interest-based advertising purposes described above.
 * **Business transferees**. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of service to another provider, your personal data and other information may be disclosed in the diligence process with counterparties and others assisting with the transaction and transferred to a successor or affiliate as part of that transaction along with other assets.
 * **Authorities and others**. Law enforcement, government authorities and private parties, as we believe in good faith to be necessary or appropriate for the compliance and protection purposes described above, including to (i) comply with legal or regulatory obligations, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (v) protect against legal liability.
 
-**4. PRIVACY RIGHTS AND CHOICES**
+**4\. PRIVACY RIGHTS AND CHOICES**
 
-**Opt out of marketing communications**. You may opt out of marketing-related emails and other communications by following the opt out or unsubscribe instructions in the communications you receive from us or by contacting us as provided in the [Contact Us](https://superhuman.com/privacy#contact-us) section below. You may continue to receive Service-related and other non-marketing emails.
+**Opt out of marketing communications**. You may opt out of marketing-related emails and other communications by following the opt out or unsubscribe instructions in the communications you receive from us or by contacting us as provided in the [Contact Us](#contact-us) section below. You may continue to receive Service-related and other non-marketing emails.
 
 **Online tracking opt-out**. You can opt out of third-party cookies as described in our Cookie Policy.
 
 **Personal data requests**. We offer you choices that affect how we handle the personal data that we control. Depending on your location and the nature of your interactions with our Service, you may request the following in relation to your personal data:
 
-* **Information** about how we have collected and used personal data. We have made this information available to you without having to request it by including it in this Privacy Policy.
-* **Access** to a copy of the personal data that we have collected about you. Where applicable, we will provide the information in a portable, machine-readable, readily usable format.
-* **Correction** of personal data that is inaccurate or out of date.
-* **Deletion** of personal data that we no longer need to provide the Service or for other lawful purposes.
-* **Opt out of selling or sharing** your personal data for interest-based advertising**.** We share personal data with advertising partners that display targeted advertisements to users around the web. This may constitute “selling” or “sharing” personal information or “targeted advertising” under applicable laws. You can opt-out of our use or sharing of personal information for these purposes as described in our Cookie Policy, by enabling the Global Privacy Control setting within the browser that you use to access our Service. Learn more at the [Global Privacy Control](https://globalprivacycontrol.org/) website. Please note that your opt out will be specific to the device and browser you use when you opt out. We do not have actual knowledge that we have sold or shared the personal information of children under the age of 16.
-* **Additional rights**, such as to **object** to and request that we **restrict** our use of personal data.
+* **Information** about how we have collected and used personal data. We have made this information available to you without having to request it by including it in this Privacy Policy.
+* **Access** to a copy of the personal data that we have collected about you. Where applicable, we will provide the information in a portable, machine-readable, readily usable format.
+* **Correction** of personal data that is inaccurate or out of date.
+* **Deletion** of personal data that we no longer need to provide the Service or for other lawful purposes.
+* **Opt out of selling or sharing** your personal data for interest-based advertising. We share personal data with advertising partners that display targeted advertisements to users around the web. This may constitute “selling” or “sharing” personal information or “targeted advertising” under applicable laws. You can opt-out of our use or sharing of personal information for these purposes as described in our Cookie Policy, by enabling the Global Privacy Control setting within the browser that you use to access our Service. Learn more at the [Global Privacy Control](https://globalprivacycontrol.org/) website. Please note that your opt out will be specific to the device and browser you use when you opt out. We do not have actual knowledge that we have sold or shared the personal information of children under the age of 16.
+* **Additional rights**, such as to **object** to and request that we **restrict** our use of personal data.
 
-To exercise these privacy rights, or if you have any questions about we handle your personal data, please contact us as provided in the [Contact Us](https://superhuman.com/privacy#contact-us) section below. Depending on your jurisdiction, you may be entitled to empower an “authorized agent” to submit requests on your behalf. We will require authorized agents to confirm their identity and authority, in accordance with applicable laws. You are entitled to exercise the rights described above free from discrimination.
+To exercise these privacy rights, or if you have any questions about we handle your personal data, please contact us as provided in the [Contact Us](#contact-us) section below. Depending on your jurisdiction, you may be entitled to empower an “authorized agent” to submit requests on your behalf. We will require authorized agents to confirm their identity and authority, in accordance with applicable laws. You are entitled to exercise the rights described above free from discrimination.
 
-**Limits on your privacy rights and choices.** In some instances, your choices may be limited, such as where fulfilling your request would impair the rights of others, our ability to provide a service you have requested, or our ability to comply with our legal obligations and enforce our legal rights. If you are not satisfied with how we address your request, you may submit a complaint by contacting us as provided in the [Contact Us](https://superhuman.com/privacy#contact-us) section below. Depending on where you reside, such as if you reside in the European Economic Area or United Kingdom, you may have the right to complain to a data protection regulator where you live or work, or where you feel a violation has occurred. For example, in the UK, the Information Commissioner's Office, can be contacted at [https://ico.org.uk/concerns](https://ico.org.uk/concerns), and, in EU countries, you can contact the data protection authority of the country in which you are located.
+**Limits on your privacy rights and choices.** In some instances, your choices may be limited, such as where fulfilling your request would impair the rights of others, our ability to provide a service you have requested, or our ability to comply with our legal obligations and enforce our legal rights. If you are not satisfied with how we address your request, you may submit a complaint by contacting us as provided in the [Contact Us](https://superhuman.com/privacy#contact-us) section below. Depending on where you reside, such as if you reside in the European Economic Area or United Kingdom, you may have the right to complain to a data protection regulator where you live or work, or where you feel a violation has occurred. For example, in the UK, the Information Commissioner's Office, can be contacted at [https://ico.org.uk/concerns](https://ico.org.uk/concerns), and, in EU countries, you can contact the data protection authority of the country in which you are located.
 
 **5\. USE OF THIRD-PARTY AI TECHNOLOGY**
 
 We leverage third-party AI technology, offered by our service providers, to enable Superhuman's AI features. These features are designed to assist you in communicating through the Services, including by helping you search, draft, summarize, and edit emails. To enable these features, we will disclose some of your information to our AI service providers.
 
-We allow our AI service providers to use your information for the purpose of providing our Service – for example to generate email drafts for you – and we do not allow those providers to train their AI models using your data.
+We allow our AI service providers to use your information for the purpose of providing our Service - for example to generate email drafts for you - and we do not allow those providers to train their AI models using your data.
 
 **6\. DATA RETENTION**
 
@@ -389,7 +403,7 @@ To determine the appropriate retention period for your personal data, we will co
 
 **7\. CHILDREN'S PRIVACY**
 
-Our Service is not directed to children who are under the age of 16. Superhuman does not knowingly collect personal data from children under the age of 16. If you have reason to believe that a child under the age of 16 has provided personal data to Superhuman through the Service please [contact us](https://superhuman.com/privacy#contact-us) and we will endeavor to delete that information from our databases.
+Our Service is not directed to children who are under the age of 16. Superhuman does not knowingly collect personal data from children under the age of 16. If you have reason to believe that a child under the age of 16 has provided personal data to Superhuman through the Service please [contact us](https://superhuman.com/privacy#contact-us) and we will endeavor to delete that information from our databases.
 
 **8\. DATA TRANSFERS**
 
@@ -401,7 +415,7 @@ When we engage in cross-border data transfers, we will ensure that relevant safe
 
 Superhuman complies with EU-U.S. Data Privacy Framework and intends to comply with the forthcoming UK Extension of the EU-U.S. Data Privacy Framework and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce and the European Commission regarding the collection, use, and retention of personal data transferred from the European Union, United Kingdom, and Switzerland to Superhuman in the United States.
 
-Superhuman has certified that it adheres to the Data Privacy Framework Principles with respect to such information. If there is any conflict between the policies in this Privacy Policy and the Data Privacy Framework Principles, the Data Privacy Framework Principles shall govern. To learn more about the Data Privacy Framework program, and to view our certification, please visit [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/).
+Superhuman has certified that it adheres to the Data Privacy Framework Principles with respect to such information. If there is any conflict between the policies in this Privacy Policy and the Data Privacy Framework Principles, the Data Privacy Framework Principles shall govern. To learn more about the Data Privacy Framework program, and to view our certification, please visit [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/).
 
 Superhuman may be liable under the DPF Principles if its agent processes personal information on behalf of Superhuman in a manner inconsistent with the DPF Principles.
 
@@ -409,7 +423,7 @@ In compliance with the Data Privacy Framework Principles, Superhuman commits to 
 
 In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, Superhuman commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner's Office (ICO) with regard to unresolved complaints concerning our handling of human resources and non-human resources data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF in the context of the employment relationship.
 
-We have further committed to refer unresolved Data Privacy Framework complaints to an alternative dispute resolution provider. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider JAMS (free of charge) at [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework).
+We have further committed to refer unresolved Data Privacy Framework complaints to an alternative dispute resolution provider. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider JAMS (free of charge) at [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework).
 
 If your complaint is not resolved through these channels, under certain conditions a binding arbitration option may be available before a Data Privacy Framework Panel. For additional information, please visit: [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/).
 
@@ -437,17 +451,31 @@ The Service and our business may change from time to time. As a result, we reser
 
 **Responsible entity**. Superhuman is the entity responsible for the processing of personal data under this Privacy Policy (as a controller, where provided under applicable law).
 
-**Contact us.** If you have any questions about our Privacy Policy or the information practices of the Site, please feel free to contact us by email at [privacy@superhuman.com](mailto:privacy@superhuman.com).
+**Contact us.** If you have any questions about our Privacy Policy or the information practices of the Site, please feel free to contact us by email at [privacy@superhuman.com](mailto:privacy@superhuman.com).
+
+**UK General Data Protection Regulation (GDPR) - UK Representative**
+
+Pursuant to Article 27 of the UK GDPR, **Superhuman Labs, Inc.** has appointed EDPO UK Ltd as its UK GDPR representative in the UK. You can contact EDPO UK regarding matters pertaining to the UK GDPR:
+
+* by using EDPO's online request form: [https://edpo.com/**uk-gdpr-data-request**/](https://edpo.com/uk-gdpr-data-request/)
+* by writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom
+
+**General Data Protection Regulation (GDPR) - European Representative**
+
+Pursuant to Article 27 of the General Data Protection Regulation (GDPR), **Superhuman Labs, Inc.** has appointed European Data Protection Office (EDPO) as its GDPR Representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR:
+
+* by using EDPO's online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
+* by writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium
 
 **COOKIE POLICY**
 
 This Cookie Policy explains how Superhuman uses cookies and similar technologies in connection with our Service.
 
-If you have any questions or concerns about the Cookie Policy, please contact us at [privacy@superhuman.com](mailto:privacy@superhuman.com) or as otherwise described in our Privacy Policy.
+If you have any questions or concerns about the Cookie Policy, please contact us at [privacy@superhuman.com](mailto:privacy@superhuman.com) or as otherwise described in our Privacy Policy.
 
 **What are cookies and similar technologies?**
 
-* **Cookies** are text files that websites store on a visitor's device to uniquely identify the visitor's browser or to store information or settings in the browser for the purpose of helping you navigate between pages efficiently, remembering your preferences, enabling functionality, helping us understand activity, and patterns and facilitating online advertising.
+* **Cookies** are text files that websites store on a visitor's device to uniquely identify the visitor's browser or to store information or settings in the browser for the purpose of helping you navigate between pages efficiently, remembering your preferences, enabling functionality, helping us understand activity, and patterns and facilitating online advertising.
 * **Local storage technologies**, like HTML5, provide cookie-equivalent functionality but can store larger amounts of data, including on your device outside of your browser in connection with specific applications.
 * **Web beacons**, also known as pixel tags or clear GIFs, are used to demonstrate that a webpage or email was accessed or opened, or that certain content was viewed or clicked. There are various types of web beacons or pixels, including image pixels (which are small graphic images) and JavaScript pixels (which contains JavaScript code). When you access a service that contains a pixel, the pixel may permit us or a separate entity to drop or read cookies on your browser, or collect other information about your visit.
 
@@ -463,13 +491,13 @@ We also allow our advertising partners to collect this information through our S
 
 We use the following categories of cookies:
 
-* **Essential cookies.** These cookies are required to enable basic website functionality. They cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in, or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the Service may not work.
+* **Essential cookies.** These cookies are required to enable basic website functionality. They cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in, or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the Service may not work.
 * **Marketing cookies**. These cookies are used to deliver advertising that is more relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and measure the effectiveness of advertising campaigns. Advertising networks usually place them with the our permission.We work with agencies, advertisers, ad networks, and other technology services to place ads about our products and services on other websites and services. For example, we place ads through Google and Facebook that you may view on their platforms as well as on other websites and services.
     
     As part of this process, we may incorporate tracking technologies into our own Service as well as into our ads displayed on other websites and services. Some of these tracking technologies on our Website and within our emails and advertisements may track your activities across time and services for purposes of associating the different devices you use, and delivering relevant ads and/or other content to you.
     
 * **Personalization cookies**. These cookies allow the website to remember choices you make (such as your user name, language, or the region you are in) and provide enhanced, more personal features. For example, a website may provide you with local weather reports or traffic news by storing data about your current location.
-* **Analytics cookies.** We use analytics cookies that allow us to recognize and count the number of visitors and to see how visitors move around the Website when they are using it. This helps us to improve the way our Website works, for example by making sure users are finding what they need easily. The collected data provides us only with anonymous traffic statistics (like number of page views, number of visitors, and time spent on each page). Examples of the third-party analytics cookies we use include Google Analytics. Specifically, we use Google Analytics to collect information about how users use our services, which we then use to compile reports that disclose trends without identifying individual visitors and help us improve our services. For more information on Google Analytics, click [here](https://support.google.com/analytics/answer/12159447?hl=en). For more information about Google's privacy practices, click [here](https://policies.google.com/privacy?hl=en-US). You can opt out of Google Analytics by downloading and installing the browser plug-in available at: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+* **Analytics cookies.** We use analytics cookies that allow us to recognize and count the number of visitors and to see how visitors move around the Website when they are using it. This helps us to improve the way our Website works, for example by making sure users are finding what they need easily. The collected data provides us only with anonymous traffic statistics (like number of page views, number of visitors, and time spent on each page). Examples of the third-party analytics cookies we use include Google Analytics. Specifically, we use Google Analytics to collect information about how users use our services, which we then use to compile reports that disclose trends without identifying individual visitors and help us improve our services. For more information on Google Analytics, click [here](https://support.google.com/analytics/answer/12159447?hl=en). For more information about Google's privacy practices, click [here](https://policies.google.com/privacy?hl=en-US). You can opt out of Google Analytics by downloading and installing the browser plug-in available at: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
 **How can you control the use of cookies?**
 
@@ -477,13 +505,13 @@ Depending on the location from where you access the Service, you may be presente
 
 You can also limit online tracking by:
 
-* **Blocking cookies in your browser**. Most browsers let you remove or reject cookies, including cookies used for interest-based advertising. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](https://allaboutcookies.org/). Use the following links to learn more about how to control cookies and online tracking through your browser:
-    * [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer); [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform=Desktop&hl=en); [Microsoft Edge](https://support.microsoft.com/en-gb/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09); [Safari (Mac)](https://support.apple.com/en-gb/guide/safari/sfri11471/mac); [Safari (Mobile/iOS)](https://support.apple.com/en-gb/HT201265)
+* **Blocking cookies in your browser**. Most browsers let you remove or reject cookies, including cookies used for interest-based advertising. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](https://allaboutcookies.org/). Use the following links to learn more about how to control cookies and online tracking through your browser:
+    * [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer); [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform=Desktop&hl=en); [Microsoft Edge](https://support.microsoft.com/en-gb/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09); [Safari (Mac)](https://support.apple.com/en-gb/guide/safari/sfri11471/mac); [Safari (Mobile/iOS)](https://support.apple.com/en-gb/HT201265)
 * **Blocking advertising ID use in your mobile settings**. Your mobile device settings can provide functionality to limit use of the advertising ID associated with your mobile device for interest-based advertising purposes.
-* **Using privacy plug-ins or browsers**. You can block our websites from setting cookies used for interest-based ads by using a browser with privacy features, like [Brave](https://brave.com/),or installing browser plugins like [Privacy Badger](https://privacybadger.org/), [Ghostery](https://www.ghostery.com/), or [uBlock Origin](https://ublock.org/en),and configuring them to block third-party cookies/trackers.
+* **Using privacy plug-ins or browsers**. You can block our websites from setting cookies used for interest-based ads by using a browser with privacy features, like [Brave](https://brave.com/),or installing browser plugins like [Privacy Badger](https://privacybadger.org/), [Ghostery](https://www.ghostery.com/), or [uBlock Origin](https://ublock.org/en),and configuring them to block third-party cookies/trackers.
 * **Advertising industry opt out tools**. You can also use these opt out options to limit use of your information for interest-based advertising by participating companies:
-* Digital Advertising Alliance for Websites: [outout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN)
-* Network Advertising Initiative: [optout.networkadvertising.org](https://optout.networkadvertising.org/?c=1)
+* Digital Advertising Alliance for Websites: [outout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN)
+* Network Advertising Initiative: [optout.networkadvertising.org](https://optout.networkadvertising.org/?c=1)
 * **Platform opt-outs.** Some of our advertising partners offer opt-out features that let you opt out of use of your information for interest-based advertising, including:
     * [Google](https://myadcenter.google.com/?sasb=true)
     * [Facebook](https://www.facebook.com/about/ads)
@@ -492,7 +520,7 @@ Note that, because these opt out mechanisms are specific to the device or browse
 
 **Do Not Track**. Some Internet browsers can be configured to send “**Do Not Track**” signals to the online services that you visit. We currently do not respond to “Do Not Track” or similar signals. To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](https://www.allaboutdnt.com/).
 
-Last Updated: June 26, 2024
+Last Updated: October 7, 2024
 
 Welcome to Superhuman, a service provided by Superhuman Labs, Inc. ("**Superhuman**", "**we**", "**us**", or "**our**"). Superhuman provides the fastest email experience in the world, designed to make our users twice as productive.
 
@@ -507,7 +535,7 @@ This Privacy Policy explains how we collect, disclose, and otherwise process per
 
 **Information About Non-Users**. If you exchange emails with other individuals who are not using our Service (“Non-Users”), we will process information about such Non-Users to provide the Service to you as described in this Privacy Policy. We will not use Email Content Data (as defined below) or other information we receive about Non-Users from you to advertise or market to those Non-Users. We collect the email addresses of Non-Users only to provide the Service.
 
-Please [contact us](mailto:privacy@superhuman.com) if you have any questions about this Privacy Policy.
+Please [contact us](mailto:privacy@superhuman.com) if you have any questions about this Privacy Policy.
 
 **1\. PERSONAL DATA WE COLLECT**
 
@@ -517,20 +545,20 @@ When you contact us or interact with our Service, we may collect personal data a
 
 * **Your contact details**, when you register for our Service, sign up for our mailing list, or otherwise communicate with us; this information may include your name, email address, and phone number. We may also collect employment-related information if you are a representative of one of our business customers.
 * **Your payment information**, when you enroll in one of our plans or otherwise make a purchase on the Service. This information is processed by our payment service provider, Stripe, which may handle your payment information in accordance with its own privacy policy ([https://stripe.com/privacy](https://stripe.com/privacy)). We do not have access to your full payment card information.
-* **Communications** that we exchange with you, including when you participate in any interactive features of the Service, fill out a form, apply for a job, request customer support, or otherwise communicate with us or interact with the Service.
+* **Communications** that we exchange with you, including when you participate in any interactive features of the Service, fill out a form, apply for a job, request customer support, or otherwise communicate with us or interact with the Service.
 * **Marketing information**, such as your preferences for receiving our marketing communications and details about your engagement with them.
-* **Contents of emails** that you send and receive through the Service (“**Email Content Data**”), which we process on your behalf solely to provide the Service. Superhuman does not use that data for marketing or advertising purposes. The use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy ([https://developers.google.com/terms/api-services-user-data-policy](https://developers.google.com/terms/api-services-user-data-policy)) , including the Limited Use requirements.
-* **Other information** not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
+* **Contents of emails** that you send and receive through the Service (“**Email Content Data**”), which we process on your behalf solely to provide the Service. Superhuman does not use that data for marketing or advertising purposes. The use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy ([https://developers.google.com/terms/api-services-user-data-policy](https://developers.google.com/terms/api-services-user-data-policy)) , including the Limited Use requirements.
+* **Other information** not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
 
 **Personal Data Collected Automatically**
 
 When you access or use the Service, we, our service providers, and our advertising partners may automatically log and combine information about you, your computer or mobile device, and your interactions over time with the Service, online resources, and our communications, including:
 
 * **Superhuman content**. We collect information from Superhuman product features, including the content of drafts or snippets you create in the Service and read receipts. Please note that our advertising partners will not have access to such information.
-* **Authentication tokens.** When you sign in to the Service, we collect and store encrypted Google or Microsoft authentication tokens.
-* **Use of the Site and App.** When you visit, use, and interact with the Site or App, we may receive certain information about your visit, use or interactions. For example, we may monitor the number of people that visit our Site or App, peak hours of visits, which page(s) are visited on our Site, the domains our visitors come from (e.g., google.com, yahoo.com, etc.), which browsers people use to access and visit our Site (e.g., Firefox, Microsoft Internet Explorer, etc.), broad geographical information, and Site-navigation pattern. In particular, the following information is created and automatically logged in our systems:
+* **Authentication tokens.** When you sign in to the Service, we collect and store encrypted Google or Microsoft authentication tokens.
+* **Use of the Site and App.** When you visit, use, and interact with the Site or App, we may receive certain information about your visit, use or interactions. For example, we may monitor the number of people that visit our Site or App, peak hours of visits, which page(s) are visited on our Site, the domains our visitors come from (e.g., google.com, yahoo.com, etc.), which browsers people use to access and visit our Site (e.g., Firefox, Microsoft Internet Explorer, etc.), broad geographical information, and Site-navigation pattern. In particular, the following information is created and automatically logged in our systems:
     * **Log data**: Information that your browser automatically sends whenever you visit the Site (“**Log Data**”). Log data includes your Internet Protocol (“IP”) address (so we understand which country you are connecting from when you visit the Site), browser type and settings, the date and time of your request, and how you interacted with the Site.
-    * **Cookies:** Please see the Cookie Policy to learn more about how we use cookies on the Site.
+    * **Cookies:** Please see the Cookie Policy to learn more about how we use cookies on the Site.
     * **Device information**: Includes the operating system and browser you are using. Information collected may depend on the type of device you use and its settings.
     * **Usage information**: We collect information about how you use our Site and App, such as the types of content that you view or engage with, the features you use, the actions you take, and the time, frequency and duration of your activities.
     * **Email metadata**: We collect and store information about emails you send and receive through the Service. This includes numeric identifiers, email open and engagement data, and timestamps.
@@ -565,7 +593,7 @@ We use personal data for the following purposes or as otherwise described at the
 
 * For marketing and advertising purposes. We, our service providers, and our third-party advertising partners may collect and use personal data for the following marketing and advertising purposes:
     
-    * **Direct marketing**. We may send you direct marketing communications that we believe will be of interest to you, as permitted by law, including by email. For instance, if you elect to provide your email address, we may use that information to send you promotional information about our products and Service. You may opt out of our marketing communications as described in the [Opt out of marketing communications](https://superhuman.com/privacy#bookmark_id.3znysh7) section below.
+    * **Direct marketing**. We may send you direct marketing communications that we believe will be of interest to you, as permitted by law, including by email. For instance, if you elect to provide your email address, we may use that information to send you promotional information about our products and Service. You may opt out of our marketing communications as described in the [Opt out of marketing communications](#opt-out-marketing-communications) section below.
     * **Interest-based advertising**. We may engage third-party advertising companies, such as Google, to display our ads on their online services and around the web. We may also share information about our users with these companies to facilitate advertising for our Service to them or similar users on other online platforms.
     
     Except where consent is required, we undertake such marketing and advertising on the basis of our legitimate business interests. Where we seek your consent, you may withdraw your consent at any time.
@@ -575,36 +603,36 @@ We use personal data for the following purposes or as otherwise described at the
 
 In certain circumstances we may disclose personal data to third parties without further notice to you, unless required by the law, as set forth below:
 
-* **Vendors and Service Providers**. To assist us in meeting business operations needs and to perform certain services and functions, we may disclose personal data to service providers, including hosting, debugging services, email and productivity services, survey providers, database and sales/customer relationship management services, customer service providers, payment processors, web and app analytics services, and data brokers. We may also disclose personal information to AI service providers that provide AI-enabled features of the Service. Pursuant to our instructions, these parties will access, process, or store personal data in the course of performing their duties to us.
+* **Vendors and Service Providers**. To assist us in meeting business operations needs and to perform certain services and functions, we may disclose personal data to service providers, including hosting, debugging services, email and productivity services, survey providers, database and sales/customer relationship management services, customer service providers, payment processors, web and app analytics services, and data brokers. We may also disclose personal information to AI service providers that provide AI-enabled features of the Service. Pursuant to our instructions, these parties will access, process, or store personal data in the course of performing their duties to us.
 * **Professional advisors**. Professional advisors, such as lawyers, auditors, bankers, and insurers, where necessary in the course of the professional services that they render to us.
 * **Advertising partners**. Third-party advertising companies, including for the interest-based advertising purposes described above.
 * **Business transferees**. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of service to another provider, your personal data and other information may be disclosed in the diligence process with counterparties and others assisting with the transaction and transferred to a successor or affiliate as part of that transaction along with other assets.
 * **Authorities and others**. Law enforcement, government authorities and private parties, as we believe in good faith to be necessary or appropriate for the compliance and protection purposes described above, including to (i) comply with legal or regulatory obligations, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (v) protect against legal liability.
 
-**4. PRIVACY RIGHTS AND CHOICES**
+**4\. PRIVACY RIGHTS AND CHOICES**
 
-**Opt out of marketing communications**. You may opt out of marketing-related emails and other communications by following the opt out or unsubscribe instructions in the communications you receive from us or by contacting us as provided in the [Contact Us](https://superhuman.com/privacy#contact-us) section below. You may continue to receive Service-related and other non-marketing emails.
+**Opt out of marketing communications**. You may opt out of marketing-related emails and other communications by following the opt out or unsubscribe instructions in the communications you receive from us or by contacting us as provided in the [Contact Us](#contact-us) section below. You may continue to receive Service-related and other non-marketing emails.
 
 **Online tracking opt-out**. You can opt out of third-party cookies as described in our Cookie Policy.
 
 **Personal data requests**. We offer you choices that affect how we handle the personal data that we control. Depending on your location and the nature of your interactions with our Service, you may request the following in relation to your personal data:
 
-* **Information** about how we have collected and used personal data. We have made this information available to you without having to request it by including it in this Privacy Policy.
-* **Access** to a copy of the personal data that we have collected about you. Where applicable, we will provide the information in a portable, machine-readable, readily usable format.
-* **Correction** of personal data that is inaccurate or out of date.
-* **Deletion** of personal data that we no longer need to provide the Service or for other lawful purposes.
-* **Opt out of selling or sharing** your personal data for interest-based advertising**.** We share personal data with advertising partners that display targeted advertisements to users around the web. This may constitute “selling” or “sharing” personal information or “targeted advertising” under applicable laws. You can opt-out of our use or sharing of personal information for these purposes as described in our Cookie Policy, by enabling the Global Privacy Control setting within the browser that you use to access our Service. Learn more at the [Global Privacy Control](https://globalprivacycontrol.org/) website. Please note that your opt out will be specific to the device and browser you use when you opt out. We do not have actual knowledge that we have sold or shared the personal information of children under the age of 16.
-* **Additional rights**, such as to **object** to and request that we **restrict** our use of personal data.
+* **Information** about how we have collected and used personal data. We have made this information available to you without having to request it by including it in this Privacy Policy.
+* **Access** to a copy of the personal data that we have collected about you. Where applicable, we will provide the information in a portable, machine-readable, readily usable format.
+* **Correction** of personal data that is inaccurate or out of date.
+* **Deletion** of personal data that we no longer need to provide the Service or for other lawful purposes.
+* **Opt out of selling or sharing** your personal data for interest-based advertising. We share personal data with advertising partners that display targeted advertisements to users around the web. This may constitute “selling” or “sharing” personal information or “targeted advertising” under applicable laws. You can opt-out of our use or sharing of personal information for these purposes as described in our Cookie Policy, by enabling the Global Privacy Control setting within the browser that you use to access our Service. Learn more at the [Global Privacy Control](https://globalprivacycontrol.org/) website. Please note that your opt out will be specific to the device and browser you use when you opt out. We do not have actual knowledge that we have sold or shared the personal information of children under the age of 16.
+* **Additional rights**, such as to **object** to and request that we **restrict** our use of personal data.
 
-To exercise these privacy rights, or if you have any questions about we handle your personal data, please contact us as provided in the [Contact Us](https://superhuman.com/privacy#contact-us) section below. Depending on your jurisdiction, you may be entitled to empower an “authorized agent” to submit requests on your behalf. We will require authorized agents to confirm their identity and authority, in accordance with applicable laws. You are entitled to exercise the rights described above free from discrimination.
+To exercise these privacy rights, or if you have any questions about we handle your personal data, please contact us as provided in the [Contact Us](#contact-us) section below. Depending on your jurisdiction, you may be entitled to empower an “authorized agent” to submit requests on your behalf. We will require authorized agents to confirm their identity and authority, in accordance with applicable laws. You are entitled to exercise the rights described above free from discrimination.
 
-**Limits on your privacy rights and choices.** In some instances, your choices may be limited, such as where fulfilling your request would impair the rights of others, our ability to provide a service you have requested, or our ability to comply with our legal obligations and enforce our legal rights. If you are not satisfied with how we address your request, you may submit a complaint by contacting us as provided in the [Contact Us](https://superhuman.com/privacy#contact-us) section below. Depending on where you reside, such as if you reside in the European Economic Area or United Kingdom, you may have the right to complain to a data protection regulator where you live or work, or where you feel a violation has occurred. For example, in the UK, the Information Commissioner's Office, can be contacted at [https://ico.org.uk/concerns](https://ico.org.uk/concerns), and, in EU countries, you can contact the data protection authority of the country in which you are located.
+**Limits on your privacy rights and choices.** In some instances, your choices may be limited, such as where fulfilling your request would impair the rights of others, our ability to provide a service you have requested, or our ability to comply with our legal obligations and enforce our legal rights. If you are not satisfied with how we address your request, you may submit a complaint by contacting us as provided in the [Contact Us](https://superhuman.com/privacy#contact-us) section below. Depending on where you reside, such as if you reside in the European Economic Area or United Kingdom, you may have the right to complain to a data protection regulator where you live or work, or where you feel a violation has occurred. For example, in the UK, the Information Commissioner's Office, can be contacted at [https://ico.org.uk/concerns](https://ico.org.uk/concerns), and, in EU countries, you can contact the data protection authority of the country in which you are located.
 
 **5\. USE OF THIRD-PARTY AI TECHNOLOGY**
 
 We leverage third-party AI technology, offered by our service providers, to enable Superhuman's AI features. These features are designed to assist you in communicating through the Services, including by helping you search, draft, summarize, and edit emails. To enable these features, we will disclose some of your information to our AI service providers.
 
-We allow our AI service providers to use your information for the purpose of providing our Service – for example to generate email drafts for you – and we do not allow those providers to train their AI models using your data.
+We allow our AI service providers to use your information for the purpose of providing our Service - for example to generate email drafts for you - and we do not allow those providers to train their AI models using your data.
 
 **6\. DATA RETENTION**
 
@@ -614,7 +642,7 @@ To determine the appropriate retention period for your personal data, we will co
 
 **7\. CHILDREN'S PRIVACY**
 
-Our Service is not directed to children who are under the age of 16. Superhuman does not knowingly collect personal data from children under the age of 16. If you have reason to believe that a child under the age of 16 has provided personal data to Superhuman through the Service please [contact us](https://superhuman.com/privacy#contact-us) and we will endeavor to delete that information from our databases.
+Our Service is not directed to children who are under the age of 16. Superhuman does not knowingly collect personal data from children under the age of 16. If you have reason to believe that a child under the age of 16 has provided personal data to Superhuman through the Service please [contact us](https://superhuman.com/privacy#contact-us) and we will endeavor to delete that information from our databases.
 
 **8\. DATA TRANSFERS**
 
@@ -626,7 +654,7 @@ When we engage in cross-border data transfers, we will ensure that relevant safe
 
 Superhuman complies with EU-U.S. Data Privacy Framework and intends to comply with the forthcoming UK Extension of the EU-U.S. Data Privacy Framework and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce and the European Commission regarding the collection, use, and retention of personal data transferred from the European Union, United Kingdom, and Switzerland to Superhuman in the United States.
 
-Superhuman has certified that it adheres to the Data Privacy Framework Principles with respect to such information. If there is any conflict between the policies in this Privacy Policy and the Data Privacy Framework Principles, the Data Privacy Framework Principles shall govern. To learn more about the Data Privacy Framework program, and to view our certification, please visit [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/).
+Superhuman has certified that it adheres to the Data Privacy Framework Principles with respect to such information. If there is any conflict between the policies in this Privacy Policy and the Data Privacy Framework Principles, the Data Privacy Framework Principles shall govern. To learn more about the Data Privacy Framework program, and to view our certification, please visit [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/).
 
 Superhuman may be liable under the DPF Principles if its agent processes personal information on behalf of Superhuman in a manner inconsistent with the DPF Principles.
 
@@ -634,7 +662,7 @@ In compliance with the Data Privacy Framework Principles, Superhuman commits to 
 
 In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, Superhuman commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner's Office (ICO) with regard to unresolved complaints concerning our handling of human resources and non-human resources data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF in the context of the employment relationship.
 
-We have further committed to refer unresolved Data Privacy Framework complaints to an alternative dispute resolution provider. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider JAMS (free of charge) at [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework).
+We have further committed to refer unresolved Data Privacy Framework complaints to an alternative dispute resolution provider. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider JAMS (free of charge) at [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework).
 
 If your complaint is not resolved through these channels, under certain conditions a binding arbitration option may be available before a Data Privacy Framework Panel. For additional information, please visit: [https://www.dataprivacyframework.gov/s/](https://www.dataprivacyframework.gov/s/).
 
@@ -662,17 +690,31 @@ The Service and our business may change from time to time. As a result, we reser
 
 **Responsible entity**. Superhuman is the entity responsible for the processing of personal data under this Privacy Policy (as a controller, where provided under applicable law).
 
-**Contact us.** If you have any questions about our Privacy Policy or the information practices of the Site, please feel free to contact us by email at [privacy@superhuman.com](mailto:privacy@superhuman.com).
+**Contact us.** If you have any questions about our Privacy Policy or the information practices of the Site, please feel free to contact us by email at [privacy@superhuman.com](mailto:privacy@superhuman.com).
+
+**UK General Data Protection Regulation (GDPR) - UK Representative**
+
+Pursuant to Article 27 of the UK GDPR, **Superhuman Labs, Inc.** has appointed EDPO UK Ltd as its UK GDPR representative in the UK. You can contact EDPO UK regarding matters pertaining to the UK GDPR:
+
+* by using EDPO's online request form: [https://edpo.com/**uk-gdpr-data-request**/](https://edpo.com/uk-gdpr-data-request/)
+* by writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom
+
+**General Data Protection Regulation (GDPR) - European Representative**
+
+Pursuant to Article 27 of the General Data Protection Regulation (GDPR), **Superhuman Labs, Inc.** has appointed European Data Protection Office (EDPO) as its GDPR Representative in the EU. You can contact EDPO regarding matters pertaining to the GDPR:
+
+* by using EDPO's online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
+* by writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium
 
 **COOKIE POLICY**
 
 This Cookie Policy explains how Superhuman uses cookies and similar technologies in connection with our Service.
 
-If you have any questions or concerns about the Cookie Policy, please contact us at [privacy@superhuman.com](mailto:privacy@superhuman.com) or as otherwise described in our Privacy Policy.
+If you have any questions or concerns about the Cookie Policy, please contact us at [privacy@superhuman.com](mailto:privacy@superhuman.com) or as otherwise described in our Privacy Policy.
 
 **What are cookies and similar technologies?**
 
-* **Cookies** are text files that websites store on a visitor's device to uniquely identify the visitor's browser or to store information or settings in the browser for the purpose of helping you navigate between pages efficiently, remembering your preferences, enabling functionality, helping us understand activity, and patterns and facilitating online advertising.
+* **Cookies** are text files that websites store on a visitor's device to uniquely identify the visitor's browser or to store information or settings in the browser for the purpose of helping you navigate between pages efficiently, remembering your preferences, enabling functionality, helping us understand activity, and patterns and facilitating online advertising.
 * **Local storage technologies**, like HTML5, provide cookie-equivalent functionality but can store larger amounts of data, including on your device outside of your browser in connection with specific applications.
 * **Web beacons**, also known as pixel tags or clear GIFs, are used to demonstrate that a webpage or email was accessed or opened, or that certain content was viewed or clicked. There are various types of web beacons or pixels, including image pixels (which are small graphic images) and JavaScript pixels (which contains JavaScript code). When you access a service that contains a pixel, the pixel may permit us or a separate entity to drop or read cookies on your browser, or collect other information about your visit.
 
@@ -688,13 +730,13 @@ We also allow our advertising partners to collect this information through our S
 
 We use the following categories of cookies:
 
-* **Essential cookies.** These cookies are required to enable basic website functionality. They cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in, or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the Service may not work.
+* **Essential cookies.** These cookies are required to enable basic website functionality. They cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in, or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the Service may not work.
 * **Marketing cookies**. These cookies are used to deliver advertising that is more relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and measure the effectiveness of advertising campaigns. Advertising networks usually place them with the our permission.We work with agencies, advertisers, ad networks, and other technology services to place ads about our products and services on other websites and services. For example, we place ads through Google and Facebook that you may view on their platforms as well as on other websites and services.
     
     As part of this process, we may incorporate tracking technologies into our own Service as well as into our ads displayed on other websites and services. Some of these tracking technologies on our Website and within our emails and advertisements may track your activities across time and services for purposes of associating the different devices you use, and delivering relevant ads and/or other content to you.
     
 * **Personalization cookies**. These cookies allow the website to remember choices you make (such as your user name, language, or the region you are in) and provide enhanced, more personal features. For example, a website may provide you with local weather reports or traffic news by storing data about your current location.
-* **Analytics cookies.** We use analytics cookies that allow us to recognize and count the number of visitors and to see how visitors move around the Website when they are using it. This helps us to improve the way our Website works, for example by making sure users are finding what they need easily. The collected data provides us only with anonymous traffic statistics (like number of page views, number of visitors, and time spent on each page). Examples of the third-party analytics cookies we use include Google Analytics. Specifically, we use Google Analytics to collect information about how users use our services, which we then use to compile reports that disclose trends without identifying individual visitors and help us improve our services. For more information on Google Analytics, click [here](https://support.google.com/analytics/answer/12159447?hl=en). For more information about Google's privacy practices, click [here](https://policies.google.com/privacy?hl=en-US). You can opt out of Google Analytics by downloading and installing the browser plug-in available at: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+* **Analytics cookies.** We use analytics cookies that allow us to recognize and count the number of visitors and to see how visitors move around the Website when they are using it. This helps us to improve the way our Website works, for example by making sure users are finding what they need easily. The collected data provides us only with anonymous traffic statistics (like number of page views, number of visitors, and time spent on each page). Examples of the third-party analytics cookies we use include Google Analytics. Specifically, we use Google Analytics to collect information about how users use our services, which we then use to compile reports that disclose trends without identifying individual visitors and help us improve our services. For more information on Google Analytics, click [here](https://support.google.com/analytics/answer/12159447?hl=en). For more information about Google's privacy practices, click [here](https://policies.google.com/privacy?hl=en-US). You can opt out of Google Analytics by downloading and installing the browser plug-in available at: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
 **How can you control the use of cookies?**
 
@@ -702,13 +744,13 @@ Depending on the location from where you access the Service, you may be presente
 
 You can also limit online tracking by:
 
-* **Blocking cookies in your browser**. Most browsers let you remove or reject cookies, including cookies used for interest-based advertising. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](https://allaboutcookies.org/). Use the following links to learn more about how to control cookies and online tracking through your browser:
-    * [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer); [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform=Desktop&hl=en); [Microsoft Edge](https://support.microsoft.com/en-gb/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09); [Safari (Mac)](https://support.apple.com/en-gb/guide/safari/sfri11471/mac); [Safari (Mobile/iOS)](https://support.apple.com/en-gb/HT201265)
+* **Blocking cookies in your browser**. Most browsers let you remove or reject cookies, including cookies used for interest-based advertising. To do this, follow the instructions in your browser settings. Many browsers accept cookies by default until you change your settings. For more information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](https://allaboutcookies.org/). Use the following links to learn more about how to control cookies and online tracking through your browser:
+    * [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer); [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform=Desktop&hl=en); [Microsoft Edge](https://support.microsoft.com/en-gb/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09); [Safari (Mac)](https://support.apple.com/en-gb/guide/safari/sfri11471/mac); [Safari (Mobile/iOS)](https://support.apple.com/en-gb/HT201265)
 * **Blocking advertising ID use in your mobile settings**. Your mobile device settings can provide functionality to limit use of the advertising ID associated with your mobile device for interest-based advertising purposes.
-* **Using privacy plug-ins or browsers**. You can block our websites from setting cookies used for interest-based ads by using a browser with privacy features, like [Brave](https://brave.com/),or installing browser plugins like [Privacy Badger](https://privacybadger.org/), [Ghostery](https://www.ghostery.com/), or [uBlock Origin](https://ublock.org/en),and configuring them to block third-party cookies/trackers.
+* **Using privacy plug-ins or browsers**. You can block our websites from setting cookies used for interest-based ads by using a browser with privacy features, like [Brave](https://brave.com/),or installing browser plugins like [Privacy Badger](https://privacybadger.org/), [Ghostery](https://www.ghostery.com/), or [uBlock Origin](https://ublock.org/en),and configuring them to block third-party cookies/trackers.
 * **Advertising industry opt out tools**. You can also use these opt out options to limit use of your information for interest-based advertising by participating companies:
-* Digital Advertising Alliance for Websites: [outout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN)
-* Network Advertising Initiative: [optout.networkadvertising.org](https://optout.networkadvertising.org/?c=1)
+* Digital Advertising Alliance for Websites: [outout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN)
+* Network Advertising Initiative: [optout.networkadvertising.org](https://optout.networkadvertising.org/?c=1)
 * **Platform opt-outs.** Some of our advertising partners offer opt-out features that let you opt out of use of your information for interest-based advertising, including:
     * [Google](https://myadcenter.google.com/?sasb=true)
     * [Facebook](https://www.facebook.com/about/ads)
