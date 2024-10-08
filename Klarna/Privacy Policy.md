@@ -51,7 +51,7 @@ How Klarna works
 
 Help
 
-* [Customer support](https://www.klarna.com/us/customer-service/)
+* [Help](https://www.klarna.com/us/customer-service/)
 
 * Customer login
     
