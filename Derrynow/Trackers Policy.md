@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-07 Oct 2024
+08 Oct 2024
 
 * [Home
     
@@ -266,26 +266,26 @@ Most Popular
 [PICTURES: Appreciation Night held for well-known Derry community worker Peter ‘Duck’ McDonald](https://www.derrynow.com/news/pictures---videos/1623845/pictures-appreciation-night-held-for-well-known-derry-community-worker-peter-duck-mcdonald.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, October 7 2024](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-[![A5 road closure: Murder investigation launched following death of man in Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A5 road closure: Murder investigation launched following death of man in Strabane")](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[A5 road closure: Murder investigation launched following death of man in Strabane](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal")](https://www.derrynow.com/news/pictures---videos/1623812/pictures-all-smiles-as-st-joseph-s-boys-school-celebrate-annual-formal.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal](https://www.derrynow.com/news/pictures---videos/1623812/pictures-all-smiles-as-st-joseph-s-boys-school-celebrate-annual-formal.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner")](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, October 7 2024](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 [![High levels of air pollution found at three Derry locations in a new report](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "High levels of air pollution found at three Derry locations in a new report")](https://www.derrynow.com/news/derry-news/1623521/high-levels-of-air-pollution-found-at-three-derry-locations-in-a-new-report.html)
 
@@ -308,6 +308,13 @@ Most Popular
 [Derry man facing series of drugs charges returned for trial](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![A5 road closure: Murder investigation launched following death of man in Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A5 road closure: Murder investigation launched following death of man in Strabane")](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[A5 road closure: Murder investigation launched following death of man in Strabane](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![A5 Road between Ballymagorry and Strabane remains closed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A5 Road between Ballymagorry and Strabane remains closed")](https://www.derrynow.com/news/local-news/1623582/a5-road-between-ballymagorry-and-strabane-remains-closed.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -315,19 +322,12 @@ Most Popular
 [A5 Road between Ballymagorry and Strabane remains closed](https://www.derrynow.com/news/local-news/1623582/a5-road-between-ballymagorry-and-strabane-remains-closed.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner")](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with possessing a AKM rifle granted bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing a AKM rifle granted bail")](https://www.derrynow.com/news/local-news/1623705/derry-man-charged-with-possessing-a-akm-rifle-granted-bail.html)
+[![Woman who admitted possessing pregablin that resulted in the death of a man begins sentence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman who admitted possessing pregablin that resulted in the death of a man begins sentence")](https://www.derrynow.com/news/local-news/1623773/woman-who-admitted-possessing-pregablin-that-resulted-in-the-death-of-a-man-begins-sentence.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man charged with possessing a AKM rifle granted bail](https://www.derrynow.com/news/local-news/1623705/derry-man-charged-with-possessing-a-akm-rifle-granted-bail.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Woman who admitted possessing pregablin that resulted in the death of a man begins sentence](https://www.derrynow.com/news/local-news/1623773/woman-who-admitted-possessing-pregablin-that-resulted-in-the-death-of-a-man-begins-sentence.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -507,6 +507,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![March Against Genocide](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "March Against Genocide")](https://www.derrynow.com/news/county-derry-post/1624089/march-against-genocide-organised-for-bellaghy-on-oct-8.html)
+
+March Against Genocide
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[March Against Genocide organised for Bellaghy on Oct 8](https://www.derrynow.com/news/county-derry-post/1624089/march-against-genocide-organised-for-bellaghy-on-oct-8.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Oktoberfest Pennyburn launches this Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Oktoberfest Pennyburn launches this Friday")](https://www.derrynow.com/news/local-news/1623618/oktoberfest-pennyburn-launches-this-friday.html)
 
 Paddy 'the Dagger' Mc Donnell will perform his standup at our comedy lab on October 19
@@ -516,7 +525,7 @@ Paddy 'the Dagger' Mc Donnell will perform his standup at our comedy lab on Octo
 [Oktoberfest Pennyburn launches this Friday](https://www.derrynow.com/news/local-news/1623618/oktoberfest-pennyburn-launches-this-friday.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['We're here for everyone' - Derry Meet Ups celebrates six months of building community connections](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'We're here for everyone' - Derry Meet Ups celebrates six months of building community connections")](https://www.derrynow.com/news/local-news/1623634/we-re-here-for-everyone-derry-meet-ups-celebrates-six-months-of-community-events.html)
+[!['We're here for everyone' - Derry Meet Ups celebrates six months of building community connections](https://www.derrynow.com/resizer/165/93/true/2024_10_07/MixCollage-07-Oct-2024-11-23-AM-8205-1728296727905.jpg--.jpg?1728296727971 "'We're here for everyone' - Derry Meet Ups celebrates six months of building community connections")](https://www.derrynow.com/news/local-news/1623634/we-re-here-for-everyone-derry-meet-ups-celebrates-six-months-of-community-events.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -545,13 +554,6 @@ The recently opened Pennyburn Bridge
 
 [Derry construction projects shine at annual CEF Awards](https://www.derrynow.com/news/local-news/1623892/derry-construction-projects-shine-at-annual-cef-awards.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman jailed for her part in an incident were a dog killed another dog has sentence reduced](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Woman jailed for her part in an incident were a dog killed another dog has sentence reduced")](https://www.derrynow.com/news/local-news/1623775/woman-jailed-for-her-part-in-an-incident-were-a-dog-killed-another-dog-has-sentence-reduced.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman jailed for her part in an incident were a dog killed another dog has sentence reduced](https://www.derrynow.com/news/local-news/1623775/woman-jailed-for-her-part-in-an-incident-were-a-dog-killed-another-dog-has-sentence-reduced.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
