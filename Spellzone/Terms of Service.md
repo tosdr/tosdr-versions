@@ -31,7 +31,7 @@ Spellzone – Terms and Conditions
 
 [9\. Usernames and Passwords](#9)
 
-[10\. Children's Privacy Guidelines](#10)
+[10\. Children and Young Peoples' Privacy Guidelines](#10)
 
 [11\. Children and the risks of use of the Internet and the Website](#11)
 
@@ -64,12 +64,12 @@ Spellzone – Terms and Conditions
 [25\. Contacting Spellzone](#25)  
   
 
-Introduction
-------------
+1\. Introduction
+----------------
 
 This document outlines the Terms and Conditions for Spellzone. It is issued by Spellzone Limited and is effective from December 2020.
 
-These Terms and Conditions apply to the entire contents of the website under the domain name [www.spellzone.com](https://www.spellzone.com/) and other Spellzone domains ("Website") and to any correspondence by e-mail between us and you.
+These Terms and Conditions apply to the entire contents of the website under the domain name [www.spellzone.com](https://www.spellzone.com/) and other Spellzone domains ("Website") and to any correspondence by e-mail between us and you.
 
 Please read these Terms and Conditions carefully before using the Website. You may access some areas of the Website without registering your details with us. Using the Website indicates that you accept these Terms and Conditions regardless of whether you purchase a subscription from us.
 
@@ -87,12 +87,12 @@ In these Terms and Conditions, the following definitions shall apply:
 | “Data Controller” | has the meaning given in Art. 4 GDPR as amended or replaced from time-to-time; |
 | “Data Processor” | has the meaning given in Art. 4 GDPR as amended or replaced from time-to-time; |
 | “Fee” | means the subscription fee payable by you to us for accessing the Service; |
-| “GDPR” | means GDPR means General Data Protection Regulation ((EU) 2016/679) (GDPR) and any national implementing laws, regulations and secondary legislation, as amended or updated from time to time, in the UK; and then any successor legislation to the GDPR or the Data Protection Act 1998. |
+| “GDPR” | means GDPR means [General Data Protection Regulation ((EU) 2016/679) (GDPR)](https://gdpr-info.eu/) and any national implementing laws, regulations and secondary legislation, as amended or updated from time to time, in the UK; and then any successor legislation to the GDPR or the [Data Protection Act 1998](https://www.legislation.gov.uk/ukpga/1998/29/contents). |
 | “Personal Data” | has the meaning given in Art. 4 GDPR as amended or replaced from time-to-time; |
 | “Service” | means the Spellzone education resources, provided by us through the Website which you use, details of which are as provided by us from time to time; |
 | “Site” | means a single physical location where the provision of teaching for the Service takes place; |
 | “we, us, our, Spellzone” | means Spellzone Limited, a company registered in England under company number 6884807 whose principal place of business is located at:  <br>Holme Hill Cottage, Church Street, Whixley, York YO26 8AR United Kingdom<br><br>and whose registered office is at Club Chambers, Museum Street, York, YO1 7DN United Kingdom (Spellzone); |
-| “Website” | means the entire contents of the website under the domain name www.spellzone.com and other Spellzone domains. |
+| “Website” | means the entire contents of the website under the domain name [www.spellzone.com](https://www.spellzone.com/) and other Spellzone domains. |
 | “you, your” | means the person, school, college, private tutor, company or family (which (where the context requires, include its end users)) who uses the Service; |
 
   
@@ -144,17 +144,17 @@ In these Terms and Conditions, the following definitions shall apply:
 
 5.1. Access to the Service (except for those parts that we make freely available) is only provided on condition that a Fee has been paid.
 
-5.2. Payments can be made by any major credit or debit card. These are handled through WorldPay or PayPal, both are safe and secure payment systems. As soon as WorldPay or PayPal have accepted your card payment, (usually less than one minute) you will see a screen saying that you can now use the full Spellzone course. You will also receive an e-mail confirming your payment. All WorldPay transactions are subject to the WorldPay Privacy Policy and all PayPal transactions are subject to the PayPal Privacy Policy.
+5.2. Payments can be made by any major credit or debit card. These are handled through WorldPay or PayPal, both are safe and secure payment systems. As soon as WorldPay or PayPal have accepted your card payment, (usually less than one minute) you will see a screen saying that you can now use the full Spellzone course. You will also receive an e-mail confirming your payment. All WorldPay transactions are subject to the [WorldPay Privacy Policy](https://www.worldpay.com/en-gb/privacy) and all PayPal transactions are subject to the [PayPal Privacy Policy](https://www.paypal.com/uk/legalhub/privacy-full).
 
 **5.3. Site users (schools, colleges and other organisations)**
 
 5.3.1. Payments by invoice are only accepted for schools, colleges and other organisations.
 
-5.3.2. Unless otherwise agreed in writing by Spellzone, a Fee is payable by you for each Site where the Service is used.
+5.3.2. Unless otherwise agreed in writing by Spellzone, a Fee is payable by you for each Site where the Service is used.
 
 5.3.3. The simplest and quickest way is to subscribe through WorldPay using a credit or debit card. However, you may also pay by invoice by selecting the 'Payment by invoice' option. You will be emailed an invoice giving details of how to pay.
 
-5.3.4. Payments by invoice should be settled within 30 days from the date of the invoice date. If the invoice is not settled within this time we reserve the right to cancel access to the account.
+5.3.4. Payments by invoice should be settled within 30 days from the date of the invoice date. If the invoice is not settled within this time, we reserve the right to cancel access to the account.
 
 5.3.5. You are duly authorised to provide the Site usernames and passwords to teachers and students who are wholly connected to the Site for which a Fee has been made. This Fee will also enable teachers and students, who are wholly connected to the Site, to use the username and password at any other location if it is in connection with work set by the Site.
 
@@ -162,17 +162,17 @@ In these Terms and Conditions, the following definitions shall apply:
 
 5.4.1. A Fee is payable by you for single user access to the Service. This Fee will also enable you to use the username and password at home and in any other location.
 
-5.4.2. Single user accounts should not be used with more than one user. If we detect this is occurring we reserve the right to cancel access to the account.  
+5.4.2. Single user accounts should not be used with more than one user. If we detect this is occurring, we reserve the right to cancel access to the account.  
   
 **5.5. Family, home school and private tutor users**
 
-5.5.1. A Fee is payable for family and home school access to the Service. This entitles access for up to a total of ten users (including one administrator) per account. These Fees will also enable users to use their username and password at home and in any other location.
+5.5.1. A Fee is payable for family, home school and private tutors to access the Service. This entitles access for up to a total of 15 users and one administrator per account. These Fees will also enable users to use their username and password at home and in any other location.
 
 **5.6. VAT**
 
 5.6.1. The Fees are exclusive of VAT which will be payable by you, if applicable and at the prevailing rate of VAT, in addition to the Fees as follows.
 
-5.6.2. For the UK, the Fees will be payable plus VAT at the prevailing rate.
+5.6.2. For the UK and EU, the Fees will be payable plus VAT at the prevailing rate.
 
 5.6.3. For all other countries the Fees will be exclusive of VAT.
 
@@ -181,7 +181,7 @@ In these Terms and Conditions, the following definitions shall apply:
 
 6.1. You are entitled to cancel your agreement with us at any time during the period of fourteen (14) days from when we notify you that your subscription commences.
 
-6.2. If you are entitled to cancel your subscription with us as set out in Clause 6.1 and you wish to exercise that right you must send us your notice by [email](https://www.spellzone.com/pages/contact.cfm) or by first class post to the address given below. If you validly exercise a right to cancel we will refund the Fee paid within 30 days.
+6.2. If you are entitled to cancel your subscription with us as set out in Clause 6.1 and you wish to exercise that right you must send us your notice by [email](https://www.spellzone.com/pages/contact.cfm) or by first class post to the address given below. If you validly exercise a right to cancel, we will refund the Fee paid within 30 days.
 
 7\. Termination
 ---------------
@@ -196,7 +196,7 @@ In these Terms and Conditions, the following definitions shall apply:
 
 7.2.3. you fail to pay the Fee when due.
 
-7.3. We reserve the right to terminate the Service at any time without giving you any reasons. If we terminate the Service under this clause we will refund a proportion of the Fee relating to the remainder of the period for which you have paid (if any).
+7.3. We reserve the right to terminate the Service at any time without giving you any reasons. If we terminate the Service under this clause, we will refund a proportion of the Fee relating to the remainder of the period for which you have paid (if any).
 
 8\. Personal Data
 -----------------
@@ -209,7 +209,7 @@ In these Terms and Conditions, the following definitions shall apply:
 
 8.4. You must notify us immediately of any change in your Personal Data.
 
-8.5 Our use of Personal Data is set out in our [Privacy Policy](https://www.spellzone.com/pages/policies/privacy-policy.cfm) and our use of cookies is set out in our [Cookie Policy](https://www.spellzone.com/pages/policies/cookie-policy.cfm). By using the Website, you are agreeing to the provisions set out in our Privacy Policy and Cookie Policy.
+8.5 Our use of Personal Data is set out in our [Privacy Policy](https://www.spellzone.com/pages/policies/privacy-policy.cfm) and our use of cookies is set out in our [Cookie Policy](https://www.spellzone.com/pages/policies/cookie-policy.cfm). By using the Website, you are agreeing to the provisions set out in our Privacy Policy and Cookie Policy.
 
 9\. Usernames and Passwords
 ---------------------------
@@ -220,19 +220,21 @@ In these Terms and Conditions, the following definitions shall apply:
 
 9.3. If there has been a disclosure of your username and password, you agree to promptly notify us of such disclosure so that Spellzone can take appropriate security measures and instruct you how to create a new username and password.
 
-9.4. If we reasonably believe that a user name and password are being used in any way which is not permitted by us we reserve the right to suspend the Service and/or issue a new username and password.
+9.4. If we reasonably believe that a user name and password are being used in any way which is not permitted by us, we reserve the right to suspend the Service and/or issue a new username and password.
 
 9.5. Spellzone recommends that you change your password at least on an annual basis. See [password guidance](https://www.spellzone.com/pages/policies/password-guidance.cfm).
 
-10\. Children's Privacy Guidelines
-----------------------------------
+10\. Children and Young Peoples' Privacy Guidelines
+---------------------------------------------------
 
-10.1. Spellzone exists to serve educators, parents and students and strives to provide a safe, positive experience for children. We have audited our compliance with the Children’s Code and are pleased to say that Spellzone meets its requirements. To help ensure this, we adhere to the following policies:
+10.1. Spellzone exists to serve educators, parents and students and strives to provide a safe, positive experience for children. We have audited our compliance with the [Children’s Code](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/childrens-information/childrens-code-guidance-and-resources/introduction-to-the-childrens-code/) and are pleased to say that Spellzone meets its requirements. To help ensure this, we adhere to the following policies:
 
+* We have a dedicated [Children and Young Peoples' Privacy Policy](https://www.spellzone.com/pages/policies/child-friendly-privacy-policy.cfm) to support children’s awareness of the processing of their personal data.
 * We request confirmation that a user is over the age of 18 before they sign up for a Spellzone free trial or subscription or that they have parental or guardian consent to do so.
 * We do not distribute any personally identifiable information about children to third parties.
 * We do not allow students to publicly post or distribute personally identifiable contact information.
-* We try to avoid providing access links to any websites that request personal information, such as user email or physical addresses.
+* We try to avoid providing access links to any websites that request personal information, such as user email or physical addresses:
+    * We remove hyper-links from posted information, for example word list descriptions.
 * We do not use the prospect of a special game, prize or other activity, to entice children to divulge more information than is needed to participate in the activity.
 
 11\. Children and the risks of use of the Internet and the Website
@@ -303,7 +305,7 @@ Spellzone Limited will adopt physical, technical, and organisational measures to
 
 162\. Spellzone provides spelling practice on the website where registered users can post word lists. We do not accept any responsibility for the content or accuracy of such material. Where the material is based on or contains extracts owned by third parties, we do not make any representation or warranty that the material is provided without infringing the rights of the third party.
 
-16.3. To maximize privacy and security, we require users to set up accounts if they wish to post word lists or comments.   
+16.3. To maximize privacy and security, we require users to set up accounts if they wish to post word lists or comments.  
 
 16.4. Spellzone has no method for verifying whether someone who registers as a teacher at a particular school is truly that teacher or works at that school. It is therefore possible for a person to register and post while posing as a teacher or parent when they are not actually a teacher or parent. It is actually common on the internet for people to register using false information about themselves.
 
@@ -355,7 +357,7 @@ Spellzone Limited will adopt physical, technical, and organisational measures to
 20\. Links from Third Party Websites
 ------------------------------------
 
-20.1. If you would like to link to this Website, you may only do so on the basis that you link to, but do not replicate, the home page of this Website, and subject to the following conditions:
+20.1. If you would like to link to this Website, you may only do so on the basis that you link to, but do not replicate content from this Website, and subject to the following conditions:
 
 * you do not remove, distort or otherwise alter the size or appearance of the Spellzone logo;
 * you do not create a frame or any other browser or border environment around this Website;
@@ -405,12 +407,12 @@ Spellzone Limited will adopt physical, technical, and organisational measures to
 24\. Changes to these Terms and Conditions
 ------------------------------------------
 
-24.1. This Notice is effective from December 2020. From time to time we may make changes to these Terms and Conditions to reflect any changes to our practices in accordance with changes in legislation, best practice or website enhancements. We will notify you about material changes to these Terms and Conditions by placing a prominent notice on the Website.
+24.1. This Notice is effective from December 2020. From time to time, we may make changes to these Terms and Conditions to reflect any changes to our practices in accordance with changes in legislation, best practice or website enhancements. We will notify you about material changes to these Terms and Conditions by placing a prominent notice on the Website.
 
 25\. Contacting Spellzone
 -------------------------
 
-25.1. If you have any questions or concerns about the Website, please contact Spellzone:   
+25.1. If you have any questions or concerns about the Website, please contact Spellzone:  
 
 [Email](https://www.spellzone.com/pages/contact.cfm)
 
@@ -418,6 +420,7 @@ Telephone +44 (0)333 990 0132
 
 Or in writing to:
 
+Data Protection Officer  
 Spellzone Limited  
 Holme Hill Cottage  
 Church Street  
@@ -425,9 +428,10 @@ Whixley
 York YO26 8AR  
 United Kingdom
 
+**Other useful information**
+
 Spellzone Limited is registered in England and Wales. Company Reg. No. 6884807  
 Registered office: Club Chambers, Museum Street, York, YO1 7DN United Kingdom  
-  
 Information Commissioner's Office (ICO) Reg. No. ZA004886  
 14/06/23
 
