@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 174 utilisateurs actifs
+##### 785 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
-* [Windows 11 : avec Rufus, contournez toutes les exigences de Microsoft (TPM, CPU, RAM, Secure Boot, compte Microsoft...)](https://lecrabeinfo.net/installer-windows-11-sans-toutes-les-exigences-tpm-cpu-ram-secure-boot-compte-microsoft.html)
+* [Comment prendre le contrôle d'un PC à distance ? Le guide ultime](https://lecrabeinfo.net/comment-prendre-le-controle-dun-pc-a-distance-le-guide-ultime.html)
+* [Windows 11 : contourner toutes les exigences (TPM, CPU, compte Microsoft...) avec Rufus](https://lecrabeinfo.net/installer-windows-11-sans-toutes-les-exigences-tpm-cpu-ram-secure-boot-compte-microsoft.html)
 * [Suite Affinity : essayez gratuitement l’alternative à Adobe !](https://lecrabeinfo.net/suite-affinity-essayez-gratuitement-lalternative-a-adobe.html)
-* [Télécharger les ISO de Windows 11 LTSC (Entreprise et IoT Entreprise)](https://lecrabeinfo.net/telecharger-les-iso-de-windows-11-ltsc-entreprise-et-iot-entreprise.html)
 
 ### Tendance
 
@@ -153,8 +153,8 @@ Chargement en cours
 ### Statistiques
 
 * 68 560 membres
-* 914 articles
-* 26 656 commentaires
+* 915 articles
+* 26 657 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
