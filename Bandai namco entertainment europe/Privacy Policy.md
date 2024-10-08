@@ -45,7 +45,7 @@ CountryAfghanistanAlbaniaAlgeriaAndorraAngolaAntarcticaArmeniaAscension IslandAu
 
 Platform PC DigitalPS4PS5StadiaXbox Series X|SPCXbox OneSwitchAndroidiOSPS3Xbox 360Wii UPS VitaNintendo 3DSAlexa
 
-I would like to receive offers and services from Bandai Namco Europe. I can withdraw my consent at any time.
+I would like to receive offers and services from Bandai Namco Entertainement Europe. I can withdraw my consent at any time.
 
 Sign me up!
 
