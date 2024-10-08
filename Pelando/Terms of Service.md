@@ -52,7 +52,11 @@ Baixe o App
 
 [Google play](https://play.google.com/store/apps/details?id=com.tippingcanoe.pelando)[App store](https://apps.apple.com/br/app/pelando-promo%C3%A7%C3%B5es-e-cupons/id1045614200)
 
-Siga o Pelando[](https://www.instagram.com/pelandobr)[](https://www.facebook.com/tapelando)[](https://x.com/pelandobr)[](https://www.tiktok.com/@pelandobr)
+Siga o Pelando[](https://www.instagram.com/pelandobr)[](https://www.facebook.com/share/T7vQvrkCUa4hZWjd/?mibextid=qi2Omg)[](https://x.com/pelandobr)[](https://bsky.app/profile/pelando.com.br)[](https://www.tiktok.com/@pelandobr)
+
+Internacional
+
+[PromoNinja](https://www.promoninja.com/)
 
 Acesse descontos  
 exclusivos no App
