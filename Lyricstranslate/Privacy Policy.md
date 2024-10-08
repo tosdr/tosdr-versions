@@ -107,65 +107,57 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Parelmoer](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1483002-1611507450.jpg)](https://lyricstranslate.com/en/translator/parelmoer "Parelmoer")
-
-New translation
-
-[Ákos Fodor - Ifjúság](https://lyricstranslate.com/en/akos-fodor-ifjusag-dutch)
-
-Hungarian → Dutch
-
-[![Torioririo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1566885-1723748355.jpg)](https://lyricstranslate.com/en/translator/torioririo "Torioririo")
-
-New translation
-
-[ARTMS - 조난 (Distress) (jonan)](https://lyricstranslate.com/en/artms-jonan-spanish)
-
-English → Spanish
-
-[![maluca](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1206376-1574120991.gif)](https://lyricstranslate.com/en/translator/maluca "maluca")
-
-New transcription request
-
-[Rich Quick - Searching for Tupac Shakur](https://lyricstranslate.com/en/rich-quick-searching-tupac-shakur)
-
-English
-
-[![Bania88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1627662-1725209008.jpg)](https://lyricstranslate.com/en/translator/bania88 "Bania88")
-
-New song
-
-[Memorybank - Treadmill of Time](https://lyricstranslate.com/en/memorybank-treadmill-time-lyrics)
-
-English
-
-[![sehnsucht05](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628086-1727623003.jpg)](https://lyricstranslate.com/en/translator/sehnsucht05 "sehnsucht05")
-
-New translation
-
-[Rammstein - Das alte Leid](https://lyricstranslate.com/en/rammstein-das-alte-leid-romanian)
-
-German → Romanian
-
-[![Icey](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1172336-1552661453.png)](https://lyricstranslate.com/en/translator/icey "Icey")
-
-New comment
-
-The source lyrics have been updated. Please review...  [more](https://lyricstranslate.com/en/comment/1168832#comment-1168832)
-
-[![Boludo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1581590-1698779761.jpg)](https://lyricstranslate.com/en/translator/boludo "Boludo")
+[![Almatt](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/almatt "Almatt")
 
 New request
 
-[Lara Fabian - Je T'ai Cherché](https://lyricstranslate.com/en/request/je-tai-cherch%C3%A9)
+[Grupo Libra - Del Signo Libra](https://lyricstranslate.com/en/request/del-signo-libra)
 
-French → Russian
+Spanish → English
 
-[![himmeloghelvede](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/himmeloghelvede "himmeloghelvede")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168954#comment-1168954)
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168953#comment-1168953)
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168952#comment-1168952)
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168951#comment-1168951)
+
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1723670492.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
 
 New song
 
-[The Grenadines - For You I Would Die Again](https://lyricstranslate.com/en/grenadines-you-i-would-die-again-lyrics)
+[Coraline (Musical) - When We Were Young And Trod The Boards](https://lyricstranslate.com/en/coraline-musical-when-we-were-young-and-tr-lyrics)
+
+English
+
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168950#comment-1168950)
+
+[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1723670492.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+
+New song
+
+[Coraline (Musical) - The Song Of The Rats](https://lyricstranslate.com/en/coraline-musical-song-rats-lyrics)
 
 English
 
