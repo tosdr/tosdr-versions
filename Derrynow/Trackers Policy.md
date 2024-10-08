@@ -259,20 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![PICTURES: All smiles at Appreciation Night for Peter 'Duck' McDonald](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles at Appreciation Night for Peter 'Duck' McDonald")](https://www.derrynow.com/news/pictures---videos/1623845/pictures-appreciation-night-held-for-well-known-derry-community-worker-peter-duck-mcdonald.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Appreciation Night held for well-known Derry community worker Peter ‘Duck’ McDonald](https://www.derrynow.com/news/pictures---videos/1623845/pictures-appreciation-night-held-for-well-known-derry-community-worker-peter-duck-mcdonald.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman jailed for her part in an incident were a dog killed another dog has sentence reduced](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman jailed for her part in an incident were a dog killed another dog has sentence reduced")](https://www.derrynow.com/news/local-news/1623775/woman-jailed-for-her-part-in-an-incident-were-a-dog-killed-another-dog-has-sentence-reduced.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman jailed for her part in an incident were a dog killed another dog has sentence reduced](https://www.derrynow.com/news/local-news/1623775/woman-jailed-for-her-part-in-an-incident-were-a-dog-killed-another-dog-has-sentence-reduced.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Dublin-bound Aer Lingus flight makes dramatic emergency landing after engine failure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dublin-bound Aer Lingus flight makes dramatic emergency landing after engine failure")](https://www.derrynow.com/news/national-news/1624622/dublin-bound-aer-lingus-flight-makes-dramatic-emergency-landing-after-engine-failure.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
@@ -280,19 +266,12 @@ Most Popular
 [Dublin-bound Aer Lingus flight makes dramatic emergency landing after engine failure](https://www.derrynow.com/news/national-news/1624622/dublin-bound-aer-lingus-flight-makes-dramatic-emergency-landing-after-engine-failure.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Woman who admitted possessing pregablin that resulted in the death of a man begins sentence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman who admitted possessing pregablin that resulted in the death of a man begins sentence")](https://www.derrynow.com/news/local-news/1623773/woman-who-admitted-possessing-pregablin-that-resulted-in-the-death-of-a-man-begins-sentence.html)
+[![County Derry man founded in bed with woman remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man founded in bed with woman remanded")](https://www.derrynow.com/news/local-news/1624685/county-derry-man-found-in-bed-with-woman-remanded.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Woman who admitted possessing pregablin that resulted in the death of a man begins sentence](https://www.derrynow.com/news/local-news/1623773/woman-who-admitted-possessing-pregablin-that-resulted-in-the-death-of-a-man-begins-sentence.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![McMonagle employed directly by O’Neill when he worked at Assembly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McMonagle employed directly by O’Neill when he worked at Assembly")](https://www.derrynow.com/news/local-news/1623914/mcmonagle-employed-directly-by-oneill-when-he-worked-at-assembly.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[McMonagle employed directly by O’Neill when he worked at Assembly](https://www.derrynow.com/news/local-news/1623914/mcmonagle-employed-directly-by-oneill-when-he-worked-at-assembly.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry man found in bed with woman remanded](https://www.derrynow.com/news/local-news/1624685/county-derry-man-found-in-bed-with-woman-remanded.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Throwback Tuesday: Out and About @ Buzz Bar (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Buzz Bar (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1623666/throwback-tuesday-out-and-about-buzz-bar-2014.html)
 
@@ -301,19 +280,14 @@ Most Popular
 [Throwback Tuesday: Out and About @ Buzz Bar (2014)](https://www.derrynow.com/story-telling/pictures---videos/1623666/throwback-tuesday-out-and-about-buzz-bar-2014.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1623993/derry-death-notices-tuesday-october-8-2024.html)
+[![PSNI issue fresh appeal as 'brutal and callous' murder of Burt man condemned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI issue fresh appeal as 'brutal and callous' murder of Burt man condemned")](https://www.derrynow.com/news/local-news/1624916/psni-issue-fresh-appeal-as-brutal-and-callous-murder-of-burt-man-condemned.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+PSNI officers at the scene where Kyle McDermott (inset, bottom) was murdered and (inset, top) Councillor Jack Murray
 
-[Derry Death Notices - Tuesday, October 8 2024](https://www.derrynow.com/news/deaths/1623993/derry-death-notices-tuesday-october-8-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Derry legends to play for Palestine next Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry legends to play for Palestine next Sunday")](https://www.derrynow.com/news/derry-sport/1623918/derry-legends-to-play-for-palestine-next-sunday.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry legends to play for Palestine next Sunday](https://www.derrynow.com/news/derry-sport/1623918/derry-legends-to-play-for-palestine-next-sunday.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man (24) charged with manslaughter of Kyle McDermott](https://www.derrynow.com/news/local-news/1624916/psni-issue-fresh-appeal-as-brutal-and-callous-murder-of-burt-man-condemned.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man who threatened to burn mother and sister's home and cut their throats jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who threatened to burn mother and sister's home and cut their throats jailed")](https://www.derrynow.com/news/local-news/1624624/derry-man-who-threatened-to-burn-mother-and-sister-s-home-and-cut-their-throats-jailed.html)
 
@@ -321,6 +295,20 @@ Most Popular
 
 [Derry man who threatened to burn mother and sister's home and cut their throats jailed](https://www.derrynow.com/news/local-news/1624624/derry-man-who-threatened-to-burn-mother-and-sister-s-home-and-cut-their-throats-jailed.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1623993/derry-death-notices-tuesday-october-8-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, October 8 2024](https://www.derrynow.com/news/deaths/1623993/derry-death-notices-tuesday-october-8-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+[![March and rally held in Derry to mark first anniversary of Gaza conflict](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "March and rally held in Derry to mark first anniversary of Gaza conflict")](https://www.derrynow.com/news/pictures---videos/1624606/in-pictures-hundreds-march-through-derry-to-mark-first-anniversary-of-gaza-conflict.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[March and rally held in Derry to mark first anniversary of Gaza conflict](https://www.derrynow.com/news/pictures---videos/1624606/in-pictures-hundreds-march-through-derry-to-mark-first-anniversary-of-gaza-conflict.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry man charged with breaching his bail conditions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man charged with breaching his bail conditions")](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
 
@@ -330,6 +318,22 @@ Derry Magistrate's Court
 
 [County Derry man charged with breaching his bail conditions](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1624942/over-100-patients-waiting-for-treatment-at-derry-s-altnagelvin-hospital.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1624942/over-100-patients-waiting-for-treatment-at-derry-s-altnagelvin-hospital.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![270 new jobs announced for Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "270 new jobs announced for Derry")](https://www.derrynow.com/news/local-news/1624923/270-civil-service-jobs-announced-for-derry.html)
+
+Lisahally Service Centre
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[270 new jobs announced for Derry](https://www.derrynow.com/news/local-news/1624923/270-civil-service-jobs-announced-for-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -509,53 +513,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Cabinet ministers updated about safety of Irish peacekeepers in Lebanon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cabinet ministers updated about safety of Irish peacekeepers in Lebanon")](https://www.derrynow.com/news/local-news/1624643/cabinet-ministers-updated-about-safety-of-irish-peacekeepers-in-lebanon.html)
+[![Conor Murphy accepts chief constable correction over McMonagle comments](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Conor Murphy accepts chief constable correction over McMonagle comments")](https://www.derrynow.com/news/local-news/1625051/conor-murphy-accepts-chief-constable-correction-over-mcmonagle-comments.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Cabinet ministers updated about safety of Irish peacekeepers in Lebanon](https://www.derrynow.com/news/local-news/1624643/cabinet-ministers-updated-about-safety-of-irish-peacekeepers-in-lebanon.html)
+[Conor Murphy accepts chief constable correction over McMonagle comments](https://www.derrynow.com/news/local-news/1625051/conor-murphy-accepts-chief-constable-correction-over-mcmonagle-comments.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![£3.5 million water pumping station completed to enhance water quality in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£3.5 million water pumping station completed to enhance water quality in Derry")](https://www.derrynow.com/news/local-news/1624638/3-5-million-water-pumping-station-completed-to-enhance-water-quality-in-derry.html)
+[![Derry bookshop longlisted for the ‘An Post Bookshop of the Year’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry bookshop longlisted for the ‘An Post Bookshop of the Year’")](https://www.derrynow.com/news/local-news/1624802/derry-bookshop-longlisted-for-the-an-post-bookshop-of-the-year.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[£3.5 million water pumping station completed to enhance water quality in Derry](https://www.derrynow.com/news/local-news/1624638/3-5-million-water-pumping-station-completed-to-enhance-water-quality-in-derry.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry bookshop longlisted for the ‘An Post Bookshop of the Year’](https://www.derrynow.com/news/local-news/1624802/derry-bookshop-longlisted-for-the-an-post-bookshop-of-the-year.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Call for swift resolution to delays at new housing development on Derry's Buncrana Road](https://www.derrynow.com/resizer/165/93/true/2024_10_08/1000070414-1728386115411.jpg--.jpg?1728386115457 "Call for swift resolution to delays at new housing development on Derry's Buncrana Road")](https://www.derrynow.com/news/local-news/1624635/call-for-swift-resolution-to-delays-at-new-housing-development-on-derry-s-buncrana-road.html)
+[![PSNI issue fresh appeal as 'brutal and callous' murder of Burt man condemned](https://www.derrynow.com/resizer/165/93/true/2024_10_08/Donegal_Live_image-13-1728397314536.png--.png?1728397314597 "PSNI issue fresh appeal as 'brutal and callous' murder of Burt man condemned")](https://www.derrynow.com/news/local-news/1624916/psni-issue-fresh-appeal-as-brutal-and-callous-murder-of-burt-man-condemned.html)
 
-Templemore Crescent and Faustina Terrace
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Call for swift resolution to delays at new housing development on Derry's Buncrana Road](https://www.derrynow.com/news/local-news/1624635/call-for-swift-resolution-to-delays-at-new-housing-development-on-derry-s-buncrana-road.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man who threatened to burn mother and sister's home and cut their throats jailed](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man who threatened to burn mother and sister's home and cut their throats jailed")](https://www.derrynow.com/news/local-news/1624624/derry-man-who-threatened-to-burn-mother-and-sister-s-home-and-cut-their-throats-jailed.html)
+PSNI officers at the scene where Kyle McDermott (inset, bottom) was murdered and (inset, top) Councillor Jack Murray
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man who threatened to burn mother and sister's home and cut their throats jailed](https://www.derrynow.com/news/local-news/1624624/derry-man-who-threatened-to-burn-mother-and-sister-s-home-and-cut-their-throats-jailed.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man (24) charged with manslaughter of Kyle McDermott](https://www.derrynow.com/news/local-news/1624916/psni-issue-fresh-appeal-as-brutal-and-callous-murder-of-burt-man-condemned.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry man charged with breaching his bail conditions](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "County Derry man charged with breaching his bail conditions")](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
+[![270 new jobs announced for Derry](https://www.derrynow.com/resizer/165/93/true/2024_10_08/Lisahally_Service_Centre-1728398625974.JPG--.JPG?1728398625997 "270 new jobs announced for Derry")](https://www.derrynow.com/news/local-news/1624923/270-civil-service-jobs-announced-for-derry.html)
 
-Derry Magistrate's Court
+Lisahally Service Centre
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[County Derry man charged with breaching his bail conditions](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[270 new jobs announced for Derry](https://www.derrynow.com/news/local-news/1624923/270-civil-service-jobs-announced-for-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_08/IDNT_10-10-24_Eddie_2-1728381684214.jpg--.jpg?1728381684744 "Derry City")](https://www.derrynow.com/news/derry-sport/1624542/it-would-be-a-great-boost-to-the-town-derry-thrives-on-winning-trophies.html)
+[![McDonald: Providing references for shamed McMonagle was ‘unforgivable’](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_08/1728389110513_0.jpg--.jpg?1728389110764 "McDonald: Providing references for shamed McMonagle was ‘unforgivable’")](https://www.derrynow.com/news/local-news/1624729/mcdonald-providing-references-for-shamed-mcmonagle-was-unforgivable.html)
 
-Eddie McCallion made 537 appearances for Derry City.
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[McDonald: Providing references for shamed McMonagle was ‘unforgivable’](https://www.derrynow.com/news/local-news/1624729/mcdonald-providing-references-for-shamed-mcmonagle-was-unforgivable.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-["It would be a great boost to the town. Derry thrives on winning trophies."](https://www.derrynow.com/news/derry-sport/1624542/it-would-be-a-great-boost-to-the-town-derry-thrives-on-winning-trophies.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital](https://www.derrynow.com/resizer/165/93/true/1635524105854.jpg--.jpg?1635524105000 "Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1624942/over-100-patients-waiting-for-treatment-at-derry-s-altnagelvin-hospital.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1624942/over-100-patients-waiting-for-treatment-at-derry-s-altnagelvin-hospital.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
