@@ -177,7 +177,6 @@ Company Info
 * [Diversity, Equity, Inclusion & Belonging](https://www.mheducation.com/about/diversity-equity-inclusion-belonging.html)
 * [Social Responsibility](https://www.mheducation.com/about/social-responsibility-sustainability.html)
 * [Investor Relations](http://investors.mheducation.com/ "Investor Relations, opens in a new window")
-* [Social Media Directory](https://www.mheducation.com/social-media-directory.html)
 
 Get Help
 
