@@ -38,6 +38,6 @@ For more information about protecting your privacy, you may wish to visit http:/
 If you have questions about this Privacy Policy and your rights under this policy, please write to us at the address below.
 
 Becovi Media Limited  
-17 Corrig Road, Sandyford Dublin 18, Ireland
+5TH Floor, Nova Atria North, Blackthorn Road, Sandyford Business Park, Sandyford, Dublin D18F5X2, Ireland
 
 © 2024 - oscobo.com    [Download Oscobo Browser](https://www.oscobo.com/ctnt.php?c=download&a=&u=&t=) | [Terms of Service](https://www.oscobo.com/ctnt.php?c=terms&a=&u=&t=) | [Privacy Policy](https://www.oscobo.com/ctnt.php?c=privacy&a=&u=&t=) | [About](https://www.oscobo.com/ctnt.php?c=aboutus&a=&u=&t=) | [Press](https://www.oscobo.com/ctnt.php?c=press&a=&u=&t=) | [Contact](https://www.oscobo.com/ctnt.php?c=contactus&a=&u=&t=)
