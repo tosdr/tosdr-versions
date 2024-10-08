@@ -274,7 +274,7 @@ OpenSubtitles Copyrights 2006-2016 by OpenSubtitles Group Limited. All Rights Re
 
 [![](//static.opensubtitles.org/gfx/css/close.gif)](javascript:void(0))
 
-If you forgot your password, click on **forgotten password**
+If you want to be pernament logged-in, check in form **remember me**
 
 Log-In
 
