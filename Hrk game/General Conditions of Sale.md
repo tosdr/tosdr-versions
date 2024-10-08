@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/en/games/product/until-dawn)
+[](https://www.hrkgame.com/en/games/products/?search=Frostpunk+2)
 
 Refund Policy
 -------------
