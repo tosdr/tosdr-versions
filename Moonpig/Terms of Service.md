@@ -102,6 +102,7 @@ Menu
     * [New Job](https://www.moonpig.com/uk/personalised-cards/new-job/)
     * [New Home](https://www.moonpig.com/uk/personalised-cards/new-home/)
     * [New Baby](https://www.moonpig.com/uk/personalised-cards/new-baby/)
+    * [Halloween](https://www.moonpig.com/uk/personalised-cards/halloween/)
     
     ### Sentiment
     
