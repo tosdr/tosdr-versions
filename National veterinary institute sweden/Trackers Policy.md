@@ -874,7 +874,7 @@ Gå direkt till :
         * [Proliferativ enteropati hos gris](https://www.sva.se/amnesomraden/djursjukdomar-a-o/proliferativ-enteropati-hos-gris/)
         * [Proliferativ njurinflammation (PKD) hos fisk](https://www.sva.se/amnesomraden/djursjukdomar-a-o/proliferativ-njurinflammation-pkd-hos-fisk/)
         * [Pseudotuberkulos hos vilda djur](https://www.sva.se/amnesomraden/djursjukdomar-a-o/pseudotuberkulos-hos-vilda-djur/)
-        * [Psittakos (papegojsjuka) som zoonos](https://www.sva.se/amnesomraden/djursjukdomar-a-o/psittakos-papegojsjuka-som-zoonos/)
+        * [Psittakos](https://www.sva.se/amnesomraden/djursjukdomar-a-o/psittakos/)
         * [Psoroptesskabb hos alpacka och lama](https://www.sva.se/amnesomraden/djursjukdomar-a-o/psoroptesskabb-hos-alpacka-och-lama/)
         * [Psorospermium hos kräfta](https://www.sva.se/amnesomraden/djursjukdomar-a-o/psorospermium-hos-krafta/)
         * [Pullorumsjuka och hönstyfus hos fjäderfä](https://www.sva.se/amnesomraden/djursjukdomar-a-o/pullorumsjuka-och-honstyfus-hos-fjaderfa/)
