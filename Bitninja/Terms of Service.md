@@ -76,7 +76,7 @@ Accepting this GTC and the privacy policy of BitNinja (hereinafter: “Policy”
 
 Company name: BitNinja Technologies Zártkörűen Működő Részvénytársaság
 
-Registered seat: 4024 Debrecen, Kossuth utca 42. II. em. 5., Hungary
+Registered seat: 4024 Debrecen, Szent Anna utca 31, Hungary
 
 Tax number: 27114436-2-09
 
@@ -239,6 +239,8 @@ The amount of the Service Fee is a net amount, exclusive of any taxes or levies,
 
 In addition to any Taxes, the Client shall also be responsible for any other governmental charges, withholding taxes, or deductions imposed by relevant authorities or required by law, which may be levied on or deducted from the Service Fee. The Client agrees to pay the full amount of such Taxes and deductions in addition to the Service Fee.
 
+BitNinja issues so-called consolidated invoices for licenses purchased simultaneously or within a few days of each other. The consolidated invoice will cover all licenses purchased within a maximum period of 7 days. We use consolidated invoices to reduce the number of invoices sent to our customers and to make it easier to track billing, especially when multiple servers are being protected.
+
 _7.2 Payment conditions of Server Protection_
 
 _7.2.1 Payment constructions_
@@ -355,7 +357,7 @@ _Please accept this GTC only if you agree with the above._ 
 
 _If you have any further questions regarding this GTC, please contact us at info@bitninja.io_ 
 
-_This GTC is effective from 2024.05.06._
+_This GTC is effective from 2024.10.08._
 
 _BitNinja Technologies Zrt._
 
