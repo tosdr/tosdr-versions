@@ -21,7 +21,7 @@ A “Qualified Referral” is a Referee who must:
 1. Be a natural person (i.e., no businesses, legal entities or pets) residing in and located in the 50 United States, District of Columbia, or Canada;
 2. Be a new member to www.rakuten.com;
 3. Sign up to become a member using a Referrer’s custom referral link or other method supplied that allow for proper tracking of referrals;
-4. Make purchase(s) that earn Cash Back through [www.rakuten.com](https://www.rakuten.com/) (each a “Qualifying Purchase”) within thirty (30) days from sign-up according to the applicable bonus terms made available to you on the [Referral Site](https://www.rakuten.com/referral/default.do) or otherwise;
+4. Make purchase(s) that earn Cash Back through [www.rakuten.com](https://www.rakuten.com/) (each a “Qualifying Purchase”) within ninety (90) days from sign-up according to the applicable bonus terms made available to you on the [Referral Site](https://www.rakuten.com/referral/default.do) or otherwise;
 5. Consent to and comply with the [Terms and Conditions](https://www.rakuten.com/terms) and [Privacy Policy](https://www.rakuten.com/privacy); and
 6. Be the individual who pays for the Qualifying Purchase.
 
@@ -57,7 +57,7 @@ We reserve the right to withhold, deny or cancel any Refer-A-Friend Program Bonu
 
 We reserve the right to suspend or terminate the Refer-A-Friend Program or to change these Refer-A-Friend Program Terms at any time and for any reason in Our sole discretion, with or without notice to you. All interpretations of these Refer-A-Friend Program Terms will be at Our sole discretion and Our decisions will be final.
 
-Updated: \[02/28/2024\]
+Updated: \[10/8/2024\]
 
 Related Articles
 
