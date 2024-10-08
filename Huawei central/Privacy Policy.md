@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Luxshare Huawei smartwatch production](https://www.huaweicentral.com/wp-content/uploads/2024/10/Wearable-400x240.jpg)
+        
+        Luxshare to reportedly increase Huawei smartwatch production](https://www.huaweicentral.com/luxshare-to-reportedly-increase-huawei-smartwatch-production/)
     * [![Huawei Watch D2 Philippines October 14](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-D2-400x240.jpg)
         
         Huawei to launch Watch D2 in Philippines on October 14](https://www.huaweicentral.com/huawei-to-launch-watch-d2-in-philippines-on-october-14/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch GT 5 faces](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-2-400x240.jpg)
         
         Huawei Watch GT 5 series brings innovative customizable watch faces](https://www.huaweicentral.com/huawei-watch-gt-5-series-brings-innovative-customizable-watch-faces/)
-    * [![Huawei Watch GT 5 China](https://www.huaweicentral.com/wp-content/uploads/2024/09/Watch-GT-5-China-400x240.jpg)
-        
-        Huawei launches Watch GT 5 series in China with TruSense system](https://www.huaweicentral.com/huawei-launches-watch-gt-5-series-in-china-with-trusense-system/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
