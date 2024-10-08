@@ -118,6 +118,7 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
+* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -475,17 +476,17 @@ To view games that are valid in your region ‘%1’, click here
     
     **[The Forever Winter PC](https://www.cdkeys.com/pc/the-forever-winter-pc-steam "The Forever Winter PC")**
     
-    Special Price $19.89 RRP $33.19
+    Special Price $21.29 RRP $33.19
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-4.    [![Diablo IV: Vessel of Hatred - Standard Edition + Pre-Order Bonus Xbox (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/d/i/diablo_iv_vessel_of_hatred_-_standard_edition_1_1.jpg)   No 4. \-23%
+4.    [![Diablo IV: Vessel of Hatred - Standard Edition Xbox (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/d/i/diablo_iv_vessel_of_hatred_-_standard_edition_1_1.jpg)   No 4. \-23%
     
-    Pre-order DLC](https://www.cdkeys.com/xbox-live/diablo-iv-vessel-of-hatred-standard-edition-xbox-eu)
+    DLC](https://www.cdkeys.com/xbox-live/diablo-iv-vessel-of-hatred-standard-edition-xbox-eu)
     
-    **[Diablo IV: Vessel of Hatred - Standard Edition + Pre-Order Bonus Xbox (Europe & UK)](https://www.cdkeys.com/xbox-live/diablo-iv-vessel-of-hatred-standard-edition-xbox-eu "Diablo IV: Vessel of Hatred - Standard Edition + Pre-Order Bonus Xbox (Europe & UK)")**
+    **[Diablo IV: Vessel of Hatred - Standard Edition Xbox (Europe & UK)](https://www.cdkeys.com/xbox-live/diablo-iv-vessel-of-hatred-standard-edition-xbox-eu "Diablo IV: Vessel of Hatred - Standard Edition Xbox (Europe & UK)")**
     
     Special Price $35.19 RRP $45.49
     
