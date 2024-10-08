@@ -1,4 +1,4 @@
-[![](https://seekingcrush.com/logo/seekingcrush.svg?version=v1.3.25)](https://seekingcrush.com/)
+[![](https://seekingcrush.com/logo/seekingcrush.svg?version=v1.3.35)](https://seekingcrush.com/)
 
 [Subscribe](javascript:void(0)) [Log in](javascript:void(0))
 
@@ -31,7 +31,7 @@ Password
 
 Join Now!
 
-![](/images/45.gif?version=v1.3.25)
+![](/images/45.gif?version=v1.3.35)
 
 Please check your details and Confirm your Profile
 --------------------------------------------------
