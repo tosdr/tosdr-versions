@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Compassion
+
+### The kindly calm after a storm](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1008/The-kindly-calm-after-a-storm "The kindly calm after a storm")
+
+[Community
+
+### Dropping the ‘senior’ in senior center: Beyond bingo, there’s speed dating and travel](https://www.csmonitor.com/The-Culture/2024/1008/Dropping-the-senior-in-senior-center-Beyond-bingo-there-s-speed-dating-and-travel "Dropping the ‘senior’ in senior center: Beyond bingo, there’s speed dating and travel")
+
 [Resilience
 
 ### After year of war in Gaza, Hamas is mostly unseen. But it’s surviving.](https://www.csmonitor.com/World/Middle-East/2024/1007/israel-gaza-war-anniversary-hamas-survival "After year of war in Gaza, Hamas is mostly unseen. But it’s surviving.")
-
-[Humility
-
-### The force of contrition this Oct. 7](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1007/The-force-of-contrition-this-Oct.-7 "The force of contrition this Oct. 7")
-
-[Hope
-
-### After October 7, where do Israel and Gaza look for hope? History shows a way forward.](https://www.csmonitor.com/Commentary/From-the-Editors/2024/1007/october-7-israel-gaza-hope "After October 7, where do Israel and Gaza look for hope? History shows a way forward.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### A French rape victim goes public. She makes ‘shame change sides.’](https://www.csmonitor.com/World/Europe/2024/1008/rape-trial-victim-public "A French rape victim goes public. She makes ‘shame change sides.’")
+
+[### Florida residents brace for massive Hurricane Milton](https://www.csmonitor.com/USA/2024/1008/Florida-Hurricane-Milton-Tampa-Bay-Category-5 "Florida residents brace for massive Hurricane Milton")
+
 [### After year of war in Gaza, Hamas is mostly unseen. But it’s surviving.](https://www.csmonitor.com/World/Middle-East/2024/1007/israel-gaza-war-anniversary-hamas-survival "After year of war in Gaza, Hamas is mostly unseen. But it’s surviving.")
-
-[### ‘This is what the war has done’: How October 7 forever changed Israel and Gaza](https://www.csmonitor.com/World/Middle-East/2024/1007/october-7-israel-gaza-one-year-later "‘This is what the war has done’: How October 7 forever changed Israel and Gaza")
-
-[### On eve of Oct. 7 anniversary, pro-Israeli and pro-Palestinian crowds rally](https://www.csmonitor.com/World/Europe/2024/1006/october-7-attacks-israel-palestine-hamas-rallies-anniversary "On eve of Oct. 7 anniversary, pro-Israeli and pro-Palestinian crowds rally")
 
 * * *
 
