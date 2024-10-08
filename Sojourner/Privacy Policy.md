@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-063a71706d64c65a23fe6ea1dd217c63
+f6560b9c9d96e9f5ef69fb37abd6c040
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Oval lapis clasp](https://www.sojourner.biz/images/cache/SKU0041variations.200.jpg)](https://www.sojourner.biz/clasps/semi-precious/oval-lapis-clasp.html "Oval lapis clasp")
+[![Majestic black onyx necklace](https://www.sojourner.biz/images/cache/jewelry/N0078.200.jpg)](https://www.sojourner.biz/jewelry/necklaces/majestic-black-onyx-necklace.html "Majestic black onyx necklace")
 
-#### [Oval lapis clasp](https://www.sojourner.biz/clasps/semi-precious/oval-lapis-clasp.html "Oval lapis clasp")
+#### [Majestic black onyx necklace](https://www.sojourner.biz/jewelry/necklaces/majestic-black-onyx-necklace.html "Majestic black onyx necklace")
 
-$22.00
+$110.00
 
 ### Best Sellers
 
