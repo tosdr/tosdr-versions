@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Who can file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-who-can-file-a-talcum-powder-lawsuit.jpg "Who Can File A Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/who-can-file-a-talcum-powder-lawsuit/ "Who Can File A Talcum Powder Lawsuit?")
+[![How much roundup is dangerous?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-much-roundup-is-dangerous-scaled.jpg "How Much Roundup Is Dangerous?")](https://www.pintas.com/lawsuit/roundup-weed-killer/how-much-roundup-is-dangerous/ "How Much Roundup Is Dangerous?")
 
-[#### Who Can File A Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/who-can-file-a-talcum-powder-lawsuit/)
+[#### How Much Roundup Is Dangerous?](https://www.pintas.com/lawsuit/roundup-weed-killer/how-much-roundup-is-dangerous/)
 
-[![What is the best way to detect mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-chest-x-ray-show-mesothelioma.jpg "What is the Best Way to Detect Mesothelioma?")](https://www.pintas.com/lung-cancer/can-a-chest-x-ray-show-mesothelioma/ "What is the Best Way to Detect Mesothelioma?")
+[![Can a chest x-ray show asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-chest-xray-show-asbestos.jpg "Can a Chest X-ray Show Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-chest-xray-show-asbestos/ "Can a Chest X-ray Show Asbestos?")
 
-[#### What is the Best Way to Detect Mesothelioma?](https://www.pintas.com/lung-cancer/can-a-chest-x-ray-show-mesothelioma/)
+[#### Can a Chest X-ray Show Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-a-chest-xray-show-asbestos/)
 
-[![Who qualifies for a sexual abuse claim against the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-scaled-e1681853603360-300x230.jpg "Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-qualifies-for-a-sexual-abuse-claim-against-the-mormon-church/ "Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?")
+[![Can blood tests show lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-can-blood-tests-show-lung-cancer.jpg "Can Blood Tests Show Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-blood-tests-show-lung-cancer/ "Can Blood Tests Show Lung Cancer?")
 
-[#### Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-qualifies-for-a-sexual-abuse-claim-against-the-mormon-church/)
+[#### Can Blood Tests Show Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-blood-tests-show-lung-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
