@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» проводит неделю приёмов граждан по вопросам защиты прав в трудовой сфере](https://cdn.er.ru/media/news/October2024/vsm6kvCVr5ogxD10W7Lo-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zashity-prav-v-trudovoj-sfere)
+
+[«Единая Россия» проводит неделю приёмов граждан по вопросам защиты прав в трудовой сфере](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zashity-prav-v-trudovoj-sfere)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#неделяприемов](https://er.ru/activity/news?tags%5B0%5D=113281) [#трудовоезаконодательство](https://er.ru/activity/news?tags%5B0%5D=125198) [#защитаправ](https://er.ru/activity/news?tags%5B0%5D=127357) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
+
+Сегодня 09:00
+
 [![«Единая Россия» предлагает изменить подход к подготовке специалистов для биоэкономики](https://cdn.er.ru/media/news/October2024/KqvwGgMNxZrM0BDUwgL3-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predlagaet-izmenit-podhod-k-podgotovke-specialistov-dlya-bioekonomiki)
 
 [«Единая Россия» предлагает изменить подход к подготовке специалистов для биоэкономики](https://er.ru/activity/news/edinaya-rossiya-predlagaet-izmenit-podhod-k-podgotovke-specialistov-dlya-bioekonomiki)
@@ -336,14 +344,6 @@
 [«Единая Россия»: Выставка «Сила V Правде — гордость и победа» 9 октября начнёт работать на Ямале](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-9-oktyabrya-nachnyot-rabotat-na-yamale)
 
 [#Ямало-Ненецкий автономный округ](https://er.ru/activity/news?tags%5B0%5D=36079) [#НовыйУренгой](https://er.ru/activity/news?tags%5B0%5D=109057) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [Ханты-Манскийский автономный округ](https://er.ru/activity/news?tags%5B0%5D=153622)
-
-06.10.24
-
-[![Галина Данильченко: Более 6 тысяч человек стали членами и сторонниками «Единой России» в Запорожской области](https://cdn.er.ru/media/news/October2024/OQuVzrGf5FKKObQ8MrKr-small.jpg)](https://er.ru/activity/news/galina-danilchenko-bolee-6-tysyach-chelovek-stali-chlenami-i-storonnikami-edinoj-rossii-v-zaporozhskoj-oblasti)
-
-[Галина Данильченко: Более 6 тысяч человек стали членами и сторонниками «Единой России» в Запорожской области](https://er.ru/activity/news/galina-danilchenko-bolee-6-tysyach-chelovek-stali-chlenami-i-storonnikami-edinoj-rossii-v-zaporozhskoj-oblasti)
-
-[#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#Данильченко](https://er.ru/activity/news?tags%5B0%5D=1093187) [#региональноеотделение](https://er.ru/activity/news?tags%5B0%5D=125477) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 06.10.24
 
