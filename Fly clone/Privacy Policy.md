@@ -31,19 +31,19 @@ nothing clones like a Fly
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://flyclone.com/search.php?search_id=unanswered&sid=12bf30168f740757e00300ca5ce3d02d)
-    * [Active topics](https://flyclone.com/search.php?search_id=active_topics&sid=12bf30168f740757e00300ca5ce3d02d)
+    * [Unanswered topics](https://flyclone.com/search.php?search_id=unanswered&sid=32bfd3272e74d7a81e2a8cfe63c3a75e)
+    * [Active topics](https://flyclone.com/search.php?search_id=active_topics&sid=32bfd3272e74d7a81e2a8cfe63c3a75e)
     
-    * [Search](https://flyclone.com/search.php?sid=12bf30168f740757e00300ca5ce3d02d)
+    * [Search](https://flyclone.com/search.php?sid=32bfd3272e74d7a81e2a8cfe63c3a75e)
     
 * [FAQ](https://flyclone.com/viewtopic.php??f=6&t=186 "Frequently Asked Questions")
-* [Login](https://flyclone.com/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=12bf30168f740757e00300ca5ce3d02d "Login")
-* [Register](https://flyclone.com/ucp.php?mode=register&sid=12bf30168f740757e00300ca5ce3d02d)
+* [Login](https://flyclone.com/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=32bfd3272e74d7a81e2a8cfe63c3a75e "Login")
+* [Register](https://flyclone.com/ucp.php?mode=register&sid=32bfd3272e74d7a81e2a8cfe63c3a75e)
 
-* [○](https://flyclone.com/) [Home](https://flyclone.com/index.php?sid=12bf30168f740757e00300ca5ce3d02d)
-*  Search [Advanced search](https://flyclone.com/search.php?sid=12bf30168f740757e00300ca5ce3d02d "Advanced search")
+* [○](https://flyclone.com/) [Home](https://flyclone.com/index.php?sid=32bfd3272e74d7a81e2a8cfe63c3a75e)
+*  Search [Advanced search](https://flyclone.com/search.php?sid=32bfd3272e74d7a81e2a8cfe63c3a75e "Advanced search")
     
-* [Search](https://flyclone.com/search.php?sid=12bf30168f740757e00300ca5ce3d02d "View the advanced search options")
+* [Search](https://flyclone.com/search.php?sid=32bfd3272e74d7a81e2a8cfe63c3a75e "View the advanced search options")
 
 the Fly Clone Project - Privacy policy
 --------------------------------------
@@ -58,16 +58,16 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
   
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “the Fly Clone Project”, so please guard it carefully and under no circumstance will anyone affiliated with “the Fly Clone Project”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.
 
-* [○](https://flyclone.com/) [Home](https://flyclone.com/index.php?sid=12bf30168f740757e00300ca5ce3d02d)
+* [○](https://flyclone.com/) [Home](https://flyclone.com/index.php?sid=32bfd3272e74d7a81e2a8cfe63c3a75e)
 * All times are UTC-04:00
-* [Delete cookies](https://flyclone.com/ucp.php?mode=delete_cookies&sid=12bf30168f740757e00300ca5ce3d02d)
+* [Delete cookies](https://flyclone.com/ucp.php?mode=delete_cookies&sid=32bfd3272e74d7a81e2a8cfe63c3a75e)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://flyclone.com/ucp.php?mode=privacy&sid=12bf30168f740757e00300ca5ce3d02d "Privacy") | [Terms](https://flyclone.com/ucp.php?mode=terms&sid=12bf30168f740757e00300ca5ce3d02d "Terms")
+[Privacy](https://flyclone.com/ucp.php?mode=privacy&sid=32bfd3272e74d7a81e2a8cfe63c3a75e "Privacy") | [Terms](https://flyclone.com/ucp.php?mode=terms&sid=32bfd3272e74d7a81e2a8cfe63c3a75e "Terms")
 
 [](#)
 
 [](#)
 
-![](/app.php/cron/cron.task.text_reparser.poll_option?sid=12bf30168f740757e00300ca5ce3d02d)
+![](/app.php/cron/cron.task.text_reparser.poll_option?sid=32bfd3272e74d7a81e2a8cfe63c3a75e)
