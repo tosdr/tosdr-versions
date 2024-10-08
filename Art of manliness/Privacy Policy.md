@@ -218,6 +218,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [10 Ways to Be a Better Husband Today](https://www.artofmanliness.com/people/relationships/10-ways-to-be-a-better-husband-today/)
 
+[![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/dale-carnegie-s-damned-fool-things-i-have-done/)
+
+[Dale Carnegie’s “Damned Fool Things I Have Done”](https://www.artofmanliness.com/people/social-skills/dale-carnegie-s-damned-fool-things-i-have-done/)
+
 [![](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
 
 [Podcast #1,025: What’s Going on With Your Social Anxiety?](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
@@ -229,10 +233,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![The Science of Motivating Young Adults](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podast-1012-the-science-of-motivating-your-kids-and-any-young-adult/)
 
 [Podcast #1,012: The Science of Motivating Your Kids (And Any Young Adult)](https://www.artofmanliness.com/people/social-skills/podast-1012-the-science-of-motivating-your-kids-and-any-young-adult/)
-
-[![A hand stops falling wooden dominoes on a table, halting a chain reaction, much like how a differentiated self can manage group anxiety.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podcast-1010-how-to-resist-group-anxiety-and-become-a-differentiated-self/)
-
-[Podcast #1,010: How to Resist Group Anxiety and Become a Differentiated Self](https://www.artofmanliness.com/people/social-skills/podcast-1010-how-to-resist-group-anxiety-and-become-a-differentiated-self/)
 
 [Browse all Get Social](https://www.artofmanliness.com/people/)
 
@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/advice/podcast-1028-the-5-marks-of-a-man/)
+
+[Podcast #1,028
+
+###### The 5 Marks of a Man](https://www.artofmanliness.com/character/advice/podcast-1028-the-5-marks-of-a-man/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1027-the-imagination-muscle-where-good-ideas-come-from-and-how-to-have-more-of-them/)
 
 [Podcast #1,027
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,025
 
 ###### What’s Going on With Your Social Anxiety?](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/living/reading/podcast-1025-the-life-and-legacy-of-louis-lamour/)
-
-[Podcast #1,025
-
-###### The Life and Legacy of Louis L’Amour](https://www.artofmanliness.com/living/reading/podcast-1025-the-life-and-legacy-of-louis-lamour/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
