@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [New electrical stitches use muscle movement to speed up healing](https://www.sciencenews.org/article/electrical-stitches-muscle-healing)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")34 mins ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")6 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [Ancient Scythians had cultural roots in Siberia](https://www.sciencenews.org/article/scythians-cultural-roots-siberia)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")2 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")7 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Semaglutide saps mice’s motivation to run](https://www.sciencenews.org/article/semaglutide-saps-mices-motivation-run)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")20 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")October 7, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -165,13 +165,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [New electrical stitches use muscle movement to speed up healing](https://www.sciencenews.org/article/electrical-stitches-muscle-healing)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")34 mins ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")6 hours ago
             
         * [Artificial Intelligence](https://www.sciencenews.org/topic/artificial-intelligence)
             
             ### [The discovery of tools key to machine learning wins the 2024 physics Nobel](https://www.sciencenews.org/article/nobel-physics-2024-machine-learning)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")5 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")11 hours ago
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -184,7 +184,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Space](https://www.sciencenews.org/topic/space)
+    * * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
+            
+            ### [Europa Clipper is launching to solve an alien mystery](https://www.sciencenews.org/article/europa-clipper-find-aliens-jupiter-moon)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")4 hours ago
+            
+        * [Space](https://www.sciencenews.org/topic/space)
             
             ### [50 years ago, satellites threatened astronomers’ view of the cosmos](https://www.sciencenews.org/article/satellites-cosmos-view-50-years-ago)
             
@@ -195,12 +201,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Barnard’s star has at least one planet orbiting it after all](https://www.sciencenews.org/article/barnards-star-exoplanet-in-orbit)
             
             By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")October 4, 2024
-            
-        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
-            
-            ### [Betelgeuse has a tiny companion star hidden in plain sight](https://www.sciencenews.org/article/betelgeuse-hidden-companion-star)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")September 30, 2024
             
 
 Privacy Policy
