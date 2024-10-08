@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/1a793b16-2653-446d-b44a-39ea57f52de3/20241007T190513/1a793b16-2653-446d-b44a-39ea57f52de3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1a793b16-2653-446d-b44a-39ea57f52de3/20241007T190513/1a793b16-2653-446d-b44a-39ea57f52de3_360x203.jpg)](https://www.king5.com/article/news/crime/dispute-tacoma-gas-station-shooting/281-097636e9-3c04-476c-baab-98ccf75dfa22)
+    *  [![](https://media.king5.com/assets/KING/images/e24c4e6a-308f-4eeb-8411-602bd7f6a82f/20241008T010700/e24c4e6a-308f-4eeb-8411-602bd7f6a82f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e24c4e6a-308f-4eeb-8411-602bd7f6a82f/20241008T010700/e24c4e6a-308f-4eeb-8411-602bd7f6a82f_360x203.jpg)](https://www.king5.com/article/news/local/band-touring-seattle-trailer-van-stolen/281-b8e1e02b-31ea-49bd-8212-0cb0eb873780)
         
-        #### [Dispute at Tacoma gas station leads to shooting, police say](https://www.king5.com/article/news/crime/dispute-tacoma-gas-station-shooting/281-097636e9-3c04-476c-baab-98ccf75dfa22)
+        #### [Thieves steal 'pretty much everything' from indie rock band while on tour stop in Seattle](https://www.king5.com/article/news/local/band-touring-seattle-trailer-van-stolen/281-b8e1e02b-31ea-49bd-8212-0cb0eb873780)
         
-    *  [![](https://media.king5.com/assets/KING/images/fdea1374-aa9b-43d9-aadc-c6bc42d49df1/20240618T165818/fdea1374-aa9b-43d9-aadc-c6bc42d49df1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fdea1374-aa9b-43d9-aadc-c6bc42d49df1/20240618T165818/fdea1374-aa9b-43d9-aadc-c6bc42d49df1_360x203.jpg)](https://www.king5.com/article/life/animals/woodland-park-zoo-expecting-first-orangutan-birth-35-years/281-36e292bb-0c00-42bc-922e-20796c3e867b)
+    *  [![](https://media.king5.com/assets/KING/images/f655974b-09b4-4612-aa29-de120081df4c/20241008T010312/f655974b-09b4-4612-aa29-de120081df4c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f655974b-09b4-4612-aa29-de120081df4c/20241008T010312/f655974b-09b4-4612-aa29-de120081df4c_360x203.jpg)](https://www.king5.com/article/news/local/washington-team-help-hurricane-helene-response/281-4d15f832-abd1-4f6e-92d7-5e8dff71667f)
         
-        #### [Woodland Park Zoo says first orangutan birth in over three decades will be coming soon](https://www.king5.com/article/life/animals/woodland-park-zoo-expecting-first-orangutan-birth-35-years/281-36e292bb-0c00-42bc-922e-20796c3e867b)
+        #### [Washington team helping with Hurricane Helene response](https://www.king5.com/article/news/local/washington-team-help-hurricane-helene-response/281-4d15f832-abd1-4f6e-92d7-5e8dff71667f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/914265e0-db2a-489c-9b30-ef812c8ecfdf/20241007T193105/914265e0-db2a-489c-9b30-ef812c8ecfdf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/914265e0-db2a-489c-9b30-ef812c8ecfdf/20241007T193105/914265e0-db2a-489c-9b30-ef812c8ecfdf_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/0cc796c3-e406-4698-a803-c39bdbc46cca/20241007T235931/0cc796c3-e406-4698-a803-c39bdbc46cca_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0cc796c3-e406-4698-a803-c39bdbc46cca/20241007T235931/0cc796c3-e406-4698-a803-c39bdbc46cca_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/WTSP/images/d17ae064-f447-4441-88e9-e5e4bd6b0965/20241007T174735/d17ae064-f447-4441-88e9-e5e4bd6b0965_16x9.jpg) ![](https://media.king5.com/assets/WTSP/images/d17ae064-f447-4441-88e9-e5e4bd6b0965/20241007T174735/d17ae064-f447-4441-88e9-e5e4bd6b0965_360x203.jpg)](https://www.king5.com/article/weather/hurricane/hurricane-milton-track-forecast-florida-tampa-bay/67-3a12dd26-da3c-4810-992c-cf44d57237f4)
+    *  [![](https://media.king5.com/assets/WTSP/images/d1ceb32b-8f09-4e36-ba93-b01b4c25c641/20241008T000859/d1ceb32b-8f09-4e36-ba93-b01b4c25c641_16x9.jpg) ![](https://media.king5.com/assets/WTSP/images/d1ceb32b-8f09-4e36-ba93-b01b4c25c641/20241008T000859/d1ceb32b-8f09-4e36-ba93-b01b4c25c641_360x203.jpg)](https://www.king5.com/article/weather/hurricane/hurricane-milton-track-forecast-florida-tampa-bay/67-3a12dd26-da3c-4810-992c-cf44d57237f4)
         
-        #### [NHC: Hurricane Milton 'explosively intensifies' as Cat 5 with 175 mph winds](https://www.king5.com/article/weather/hurricane/hurricane-milton-track-forecast-florida-tampa-bay/67-3a12dd26-da3c-4810-992c-cf44d57237f4)
+        #### [NHC: Hurricane Milton 'explosively intensifies' as Cat 5 with 180 mph winds](https://www.king5.com/article/weather/hurricane/hurricane-milton-track-forecast-florida-tampa-bay/67-3a12dd26-da3c-4810-992c-cf44d57237f4)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-69°
+68°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
