@@ -250,7 +250,7 @@ Apparel & Collectibles
     
     [Bags](https://www.atari.com/collections/bags)
     
-    [Home Goods](https://www.atari.com/collections/home-goods)
+    [Home](https://www.atari.com/collections/home-goods)
     
     [Artwork](https://www.atari.com/collections/artovision-dimensional-artworks)
     
@@ -296,7 +296,7 @@ ACCESSORIES
     
     [Bags](https://www.atari.com/collections/bags)
     
-    [Home Goods](https://www.atari.com/collections/home-goods)
+    [Home](https://www.atari.com/collections/home-goods)
     
     [Artwork](https://www.atari.com/collections/artovision-dimensional-artworks)
     
