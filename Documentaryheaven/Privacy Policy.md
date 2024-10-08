@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Reality and the Extended Mind](/wp-content/thumbnails/6397-100x70.jpg?x53432)
+* [![Buenaventura: Dismemberment and Displacement](/wp-content/thumbnails/9457-100x70.jpg?x53432)
     
-    Reality and the Extended Mind
+    Buenaventura: Dismemberment and Displacement
     
-    This documentary focuses on experiments exploring what is known by researchers as psi phenomena. These are anomalous extended properties of consciousness that have been measured under experimental con](https://documentaryheaven.com/reality-and-the-extended-mind/ "Reality and the Extended Mind")
-* [![Naked Science: Deadliest Planets](/wp-content/thumbnails/14713-100x70.jpg?x53432)
+    The city of Buenaventura lies along the Pacific coast of Columbia, it is home to the most important port in the country which handles about 60% of the countries imports and exports, despite this for d](https://documentaryheaven.com/buenaventura-dismemberment-displacement/ "Buenaventura: Dismemberment and Displacement")
+* [![Fidel: The Untold Story](/wp-content/thumbnails/1801-100x70.jpg?x53432)
     
-    Naked Science: Deadliest Planets
+    Fidel: The Untold Story
     
-    In the future humanity may leave the Earth behind and search for a new home in space, but where exactly? Our solar system is a dangerous place. There are fiery volcanic worlds, planets with 1400 mile](https://documentaryheaven.com/naked-science-deadliest-planets/ "Naked Science: Deadliest Planets")
-* [![Real Life Hannibal Lecters](/wp-content/thumbnails/3431-100x70.jpg?x53432)
+    It is not clear that the great leader of the Cuban Revolution - Fidel Castro - is still alive. One this is certain...his time of influence on the world stage has drawn to an end. Having been the subje](https://documentaryheaven.com/fidel-the-untold-story/ "Fidel: The Untold Story")
+* [![Ross Kemp: Libya’s Migrant Hell](/wp-content/thumbnails/13689-100x70.jpg?x53432)
     
-    Real Life Hannibal Lecters
+    Ross Kemp: Libya’s Migrant Hell
     
-    Before the fictional Hannibal Lecter there was a select group of real life monsters that terrorized our neighborhoods.Albert Fish, Andrei Chickatilo, Jeffrey Dahmer, Ted Bundy and John Wayne Gacy. B](https://documentaryheaven.com/real-life-hannibal-lecters/ "Real Life Hannibal Lecters")
-* [![Bad Boy Boxer: The Last Chance](/wp-content/thumbnails/10159-100x70.jpg?x53432)
+    This is the most dangerous migrant journey in the world and this year it's here in Libya that has become the main departure point for migrants who are attempting to get to Europe. It is estimated that](https://documentaryheaven.com/ross-kemp-libyas-migrant-hell/ "Ross Kemp: Libya’s Migrant Hell")
+* [![Legend of the Crystal Skulls](/wp-content/thumbnails/1646-100x70.jpg?x53432)
     
-    Bad Boy Boxer: The Last Chance
+    Legend of the Crystal Skulls
     
-    Lee Selby's life has been a rocky one, he has fought his way up from a small town in South Wales to boxing world stage but being a family man now, he isn't just fighting for himself anymore and it has](https://documentaryheaven.com/bad-boy-boxer-last-chance/ "Bad Boy Boxer: The Last Chance")
-* [![How Violent Are You?](/wp-content/thumbnails/3141-100x70.jpg?x53432)
+    Skulls are humanity's foremost symbol of death, and a powerful icon in the visual vocabularies of cultures all over the globe. Thirteen crystal skulls of apparently ancient origin have been found in p](https://documentaryheaven.com/legend-of-the-crystal-skulls/ "Legend of the Crystal Skulls")
+* [![A Cry for Innocence](/wp-content/thumbnails/6970-100x70.jpg?x53432)
     
-    How Violent Are You?
+    A Cry for Innocence
     
-    What makes ordinary people commit extreme acts of violence? In a thought-provoking and disturbing journey, Michael Portillo investigates one of the darker sides of human nature. He discovers what it i](https://documentaryheaven.com/how-violent-are-you/ "How Violent Are You?")
+    Damien Echols, 35, has spent his entire adult life on Arkansas’ death row. Every day, he faces the possibility of execution. But there is a bright spot in his life.Lorri (his wife) is familiar wit](https://documentaryheaven.com/a-cry-for-innocence/ "A Cry for Innocence")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
