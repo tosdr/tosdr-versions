@@ -65,6 +65,37 @@
     
 * [Teacher’s Lounge](https://readtheory.org/teachers-lounge/)
 * [Schools & Districts](https://readtheory.org/districts-and-schools/)
+    
+    ![](https://readtheory.org/wp-content/uploads/2024/10/school_menu_icon.svg)
+    
+    [### Schools & Districts](https://readtheory.org/districts-and-schools/)
+    
+    #### Learn about the full instructional power of ReadTheory for your school or district.
+    
+    * ![](https://readtheory.org/wp-content/uploads/2024/10/head.svg)
+        
+        [School & District Plan](https://readtheory.org/districts-and-schools/?_utm_campaign=menu&ref=menu)
+    * ![](https://readtheory.org/wp-content/uploads/2024/10/star.svg)
+        
+        [Schedule a Demo](https://readtheory.org/schedule-a-demo/?_utm_campaign=menu&ref=menu)
+    * ![](https://readtheory.org/wp-content/uploads/2024/10/icon.svg)
+        
+        [Request a Quote](https://readtheory.org/app/sales/school-quote-request?_utm_campaign=menu&ref=menu)
+    
+    * ![](https://readtheory.org/wp-content/uploads/2024/10/pen.svg)
+        
+        [Efficacy Studies](#)
+    * ![](https://readtheory.org/wp-content/uploads/2024/10/pen.svg)
+        
+        [Case Studies](https://readtheory.org/case-study/?_utm_campaign=menu&ref=menu)
+    
+    * ![](https://readtheory.org/wp-content/uploads/2024/10/glass.svg)
+        
+        [Science of Reading](https://readtheory.org/science-of-reading/?_utm_campaign=menu&ref=menu)
+    * ![](https://readtheory.org/wp-content/uploads/2024/10/dashboard.svg)
+        
+        [Funding Guide](https://readtheory.org/wp-content/uploads/2023/03/Federal-Funding-ReadTheory-1.pdf?_utm_campaign=menu&ref=menu)
+    
 
 * [Login](https://readtheory.org/auth/login)
 * [Sign up](https://readtheory.org/app/sign-up/role)
