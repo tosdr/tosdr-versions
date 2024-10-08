@@ -352,15 +352,15 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Kaspersky](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Word](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Google removes Kaspersky's antivirus software from Play Store](https://www.bleepingcomputer.com/news/security/google-removes-kasperskys-antivirus-software-from-play-store-disables-developer-accounts/)
-* [![Highline Public Schools](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Microsoft: Word deletes some documents instead of saving them](https://www.bleepingcomputer.com/news/microsoft/microsoft-word-for-microsoft-365-deletes-some-documents-instead-of-saving-them/)
+* [![MoneyGram](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Highline Public Schools confirms ransomware behind shutdown](https://www.bleepingcomputer.com/news/security/highline-public-schools-confirms-ransomware-attack-was-behind-september-shut-down/)
-* [![Outlast](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    MoneyGram: No evidence ransomware is behind recent cyberattack](https://www.bleepingcomputer.com/news/security/moneygram-no-evidence-ransomware-is-behind-recent-cyberattack/)
+* [![Cryptocurrency](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Outlast game development delayed after Red Barrels cyberattack](https://www.bleepingcomputer.com/news/security/outlast-game-development-delayed-after-red-barrels-cyberattack/)
+    Man pleads guilty to stealing $37 million in crypto from 571 victims](https://www.bleepingcomputer.com/news/legal/man-pleads-guilty-to-stealing-37-million-in-crypto-from-571-victims/)
 
 ##### Follow us:
 
