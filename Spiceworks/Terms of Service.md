@@ -1,8 +1,8 @@
-  [Skip to main content](#main)
+  [Skip to main content](#content)
 
 [](https://www.spiceworks.com/)
 
-[**ZD $43.70** ▼\-1.28%](http://investor.ziffdavis.com/ "Minimum 20 minute delay.")
+[**ZD $43.77** ▼\-1.11%](http://investor.ziffdavis.com/ "Minimum 20 minute delay")
 
 Minimum 20 minute delay.
 
