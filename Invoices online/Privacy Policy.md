@@ -118,57 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Hugo van Sittert
+Terri Winfield
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=135598840)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=64198178)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=149882805)  
-Leef in Afrikaans
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=190697496)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=187756868)  
-NJR ICT Services (Pty) Ltd
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=89561191)  
+Blue Bulls Rugby Coaches Association
 
-![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=160321370)  
-PHESA TECHNOLOGY(PTY) LTD
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=31463712)  
+Kara Medical (Pty) Ltd
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=135658074)  
-One2b
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=20295892)  
+Creative Characters
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=6558101)  
-Frameless Fanatix (Pty) Ltd.
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=10958805)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=187207036)  
-VerdanTech Pty Ltd
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=42153189)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=55642496)  
-Quad Biking Cape Town
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=105769288)  
+Tagline Brands
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=190090273)  
-RADIO TYGERBERG 104FM NPC
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=37011019)  
+OXYAIDER (PTY) LTD
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=153951679)  
-Entidee Enterprise PTY (ltd)
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=8045086)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=118772379)  
-Network Grey (Pty) Ltd
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=74748120)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=126862662)  
-Eruca (PTY)Ltd
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=173382379)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=156623672)  
-Peter Salvage Pty Ltd
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=46054907)  
+Lizzy Pop PTY(Ltd)
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=162284696)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=196578113)  
+PROGRAPHIX PTY LTD
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=37240110)  
-TechnoDezi PTY(LTD)
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=56690461)  
+Forgotten Goods (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
