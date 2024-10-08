@@ -201,7 +201,6 @@ United Kingdom
         * [Student Research Community](https://www.pearson.com/en-gb/higher-education/students/get-involved.html)
         * [Sign Up For Offers](https://www.pearson.com/en-gb/higher-education/students/get-involved/sign-up.html)
         * [Business Book Club](https://www.pearson.com/en-gb/higher-education/students/careers/book-club.html)
-        * [Blog](https://www.pearson.com/en-gb/higher-education/insights-and-events/blog.html)
         * [Webinars](https://www.pearson.com/en-gb/higher-education/insights-and-events.html)
         
         [Cart](https://www.pearson.com/store/en-gb/cart "Cart")
@@ -260,7 +259,6 @@ United Kingdom
         ### Learn & Connect
         
         * [Insights and Events](https://www.pearson.com/en-gb/higher-education/insights-and-events.html)
-        * [Higher Education Blog](https://www.pearson.com/en-gb/higher-education/insights-and-events/blog.html)
         * [News & Policy](https://www.pearson.com/en-gb/news-and-policy.html)
         * [Business Book Club](https://www.pearson.com/en-gb/higher-education/students/careers/book-club.html)
         * [Webinars](https://www.pearson.com/en-gb/higher-education/insights-and-events.html)
@@ -821,7 +819,6 @@ United Kingdom
 ### Insights
 
 * [Schools Blog](https://www.pearson.com/en-gb/schools/insights-and-events/schools-blog.html)
-* [Higher Education Blog](https://www.pearson.com/en-gb/higher-education/insights-and-events/blog.html)
 * [VQ Bulletin Blog](https://www.pearson.com/en-gb/further-education/insights-and-events/vq-bulletin-blog.html)
 * [BTEC Blog](https://www.pearson.com/en-gb/further-education/insights-and-events/btec-blog.html)
 * [News & Policy](https://www.pearson.com/en-gb/news-and-policy.html)
