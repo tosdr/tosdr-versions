@@ -563,6 +563,7 @@ Product
 Connect
 
 * [Blog](https://blocksite.co/blog)
+* [Affiliate Program](https://blocksite.co/landing-page/partner-with-blocksite)
 
 Our Policies
 
