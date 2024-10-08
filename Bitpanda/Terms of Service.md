@@ -1,4 +1,4 @@
-[![](https://a.storyblok.com/f/176646/1360x400/20f5a75ec3/bitpanda-fcb-acm-logos-v2.gif)](https://www.bitpanda.com/en)
+[![](https://a.storyblok.com/f/176646/1360x400/77042cdab2/bitpanda-fcb-acm-nfl-logos.gif)](https://www.bitpanda.com/en)
 
 Invest
 
@@ -165,19 +165,21 @@ en
 * [Español](https://www.bitpanda.com/es/legal/)
 * [Polski](https://www.bitpanda.com/pl/legal/)
 
-[Login](https://account.bitpanda.com/login)
+[Log in](https://account.bitpanda.com/login)
 
 [Sign-up](https://account.bitpanda.com/en/register)
 
-[![](https://a.storyblok.com/f/176646/1360x400/20f5a75ec3/bitpanda-fcb-acm-logos-v2.gif)](https://www.bitpanda.com/en)
+[![](https://a.storyblok.com/f/176646/1360x400/77042cdab2/bitpanda-fcb-acm-nfl-logos.gif)](https://www.bitpanda.com/en)
 
-[Login](https://account.bitpanda.com/login)
+[Log in](https://account.bitpanda.com/login)
 
 [Sign-up](https://account.bitpanda.com/en/register)
 
 Search IconSearch Icon
 
 * Invest
+    
+* Prices
     
 * Features
     
@@ -190,7 +192,7 @@ Search IconSearch Icon
 * Help
     
 
-[Login](https://account.bitpanda.com/login)
+[Log in](https://account.bitpanda.com/login)
 
 [Sign-up](https://account.bitpanda.com/en/register)
 
