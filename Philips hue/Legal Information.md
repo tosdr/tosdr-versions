@@ -157,6 +157,8 @@
     Apps](https://www.philips-hue.com/en-us/explore-hue/apps)
     
 
+[Support](https://www.philips-hue.com/en-us/support/faq)
+
 [](https://www.philips-hue.com/en-us/cart "My cart")
 
  ![Privacy Notice](https://www.philips-hue.com/en-us/support/legal/privacy-policy/_jcr_content/root/responsivegrid/section_component/responsivegrid/story_banner_compone_1039004735.signifyimg.82.300.jpeg/1682089405074.jpeg)
