@@ -32,9 +32,9 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
     
 * [HVAC Services](https://www.702plumbair.com/hvac-services/)
     
-    * [AC Repair](https://www.702plumbair.com/hvac-services/ac-repair/)
-    * [AC Replacement & Installation](https://www.702plumbair.com/hvac-services/ac-replacement-installation/)
+    * [AC Repair](https://www.702plumbair.com/hvac-services/las-vegas-ac-repair/)
     * [AC Maintenance](https://www.702plumbair.com/hvac-services/ac-maintenance/)
+    * [AC Replacement & Installation](https://www.702plumbair.com/hvac-services/las-vegas-ac-replacement-installation/)
     * [Heating Repair](https://www.702plumbair.com/hvac-services/heating-repair/)
     * [Heating Replacement & Installation](https://www.702plumbair.com/hvac-services/heating-replacement-installation/)
     * [Ductless Mini Split Systems](https://www.702plumbair.com/hvac-services/ductless-mini-split-systems/)
@@ -84,9 +84,9 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
 * [HVAC Services](https://www.702plumbair.com/hvac-services/)
     
     * Main Menu
-    * [AC Repair](https://www.702plumbair.com/hvac-services/ac-repair/)
-    * [AC Replacement & Installation](https://www.702plumbair.com/hvac-services/ac-replacement-installation/)
+    * [AC Repair](https://www.702plumbair.com/hvac-services/las-vegas-ac-repair/)
     * [AC Maintenance](https://www.702plumbair.com/hvac-services/ac-maintenance/)
+    * [AC Replacement & Installation](https://www.702plumbair.com/hvac-services/las-vegas-ac-replacement-installation/)
     * [Heating Repair](https://www.702plumbair.com/hvac-services/heating-repair/)
     * [Heating Replacement & Installation](https://www.702plumbair.com/hvac-services/heating-replacement-installation/)
     * [Ductless Mini Split Systems](https://www.702plumbair.com/hvac-services/ductless-mini-split-systems/)
@@ -122,7 +122,7 @@ Call Us for Your Estimate! [702-447-0131](tel:7024470131)
 * [](https://www.google.com/maps/place/702+PlumbAIR/@36.0356663,-115.0244028,17z/data=!3m1!4b1!4m6!3m5!1s0x80c8d1631054b437:0xc855bc6ea43343be!8m2!3d36.0356663!4d-115.0244028!16s%2Fg%2F11j2z6cl3z "Google Business Profile")
 * [](https://www.yelp.com/biz/702-plumber-henderson-2 "Yelp")
 * [](https://www.facebook.com/702PlumbAIR/ "Facebook")
-* [](https://www.instagram.com/702.plumber?igshid=ss76hcznbt8x "Instagram")
+* [](https://www.instagram.com/702plumbair/ "Instagram")
 * [](https://www.bbb.org/us/nv/henderson/profile/plumber/702-plumber-llc-1086-90065495 "BBB.org")
 
 [Schedule Now!](https://www.702plumbair.com/scheduler/)
@@ -224,7 +224,7 @@ Henderson, NV 89014
 * [](https://www.google.com/maps/place/702+PlumbAIR/@36.0356663,-115.0244028,17z/data=!3m1!4b1!4m6!3m5!1s0x80c8d1631054b437:0xc855bc6ea43343be!8m2!3d36.0356663!4d-115.0244028!16s%2Fg%2F11j2z6cl3z "Google Business Profile")
 * [](https://www.yelp.com/biz/702-plumber-henderson-2 "Yelp")
 * [](https://www.facebook.com/702PlumbAIR/ "Facebook")
-* [](https://www.instagram.com/702.plumber?igshid=ss76hcznbt8x "Instagram")
+* [](https://www.instagram.com/702plumbair/ "Instagram")
 * [](https://www.bbb.org/us/nv/henderson/profile/plumber/702-plumber-llc-1086-90065495 "BBB.org")
 
   
