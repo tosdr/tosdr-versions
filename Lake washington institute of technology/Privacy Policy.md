@@ -1,6 +1,6 @@
 [Skip to Main Content](#mainContent)[Skip to Footer](#mainFooter)
 
-[Visit](https://www.lwtech.edu/admissions/campus-tour.aspx)[Give](https://www.lwtech.edu/foundation/give.aspx)[Get Started](https://www.lwtech.edu/admissions/get-started-at-lwtech.aspx)
+[Visit](https://www.lwtech.edu/admissions/campus-tour.aspx)[Give](https://www.lwtech.edu/foundation/bright-futures/index.aspx)[Get Started](https://www.lwtech.edu/admissions/get-started-at-lwtech.aspx)
 
 [logo![LWTech Logo Link to Home page](/_resources/img/header-logo.svg)](https://www.lwtech.edu/index.aspx)
 
