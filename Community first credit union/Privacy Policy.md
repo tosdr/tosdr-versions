@@ -1,4 +1,4 @@
-We are closely monitoring Hurricane Milton and will keep our members up to date with any changes. Our hurricane page also has helpful resources for both preparing and recovering from a storm. **[Click here](https://www.communityfirstfl.org/resources/hurricane-preparedness "Hurricane Preparedness")** to learn more.
+Due to Hurricane Milton, all Community First branches will close at 1:00 PM on Wednesday, October 9th, and will remain closed through Thursday, October 10th.  **[Click here](https://www.communityfirstfl.org/resources/hurricane-preparedness "Hurricane Preparedness")** for more information and helpful resources.
 
 ![Close Notification](/images/icon-close-white.svg)
 
