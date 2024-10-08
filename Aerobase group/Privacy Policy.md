@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Air Force picks seven new possible homes for KC-46A Pegasus](https://www.defensenews.com/news/your-air-force/2024/10/08/air-force-picks-seven-new-possible-homes-for-kc-46a-pegasus/)  
+    10/08/24 11:31am  
+    
+    A KC-46A Pegasus refuels a Navy F/A-18F Super Hornet off the coast of Maryland on July 1, 2020. (Lt. Zach Fisher/Navy)
+    
 * [Anduril lands $250 million Pentagon contract for drone defense system](https://www.defensenews.com/unmanned/2024/10/08/anduril-lands-250-million-pentagon-contract-for-drone-defense-system/)  
     10/08/24 05:44am  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     10/04/24 08:02am  
     
     The Air Forces wants to revamp its next-generation fighter jet plans to get costs below the price tag of an F-35 jet. But outside experts warn a cheapening of the program could lead to its demise. Air Force concept art for the next-gen jet is shown here. (U.S. Air Force Research Laboratory)
-    
-* [Pentagon taps commercial vendors for low-cost, throwaway drones](https://www.defensenews.com/unmanned/2024/10/02/pentagon-taps-commercial-vendors-for-low-cost-throwaway-drones/)  
-    10/02/24 11:21am  
-    
-    The Defense Innovation Unit is seeking low-cost commercial drones that can carry a range of payloads — from weapons to surveillance and communication systems. (Getty Images)
     
 
 Recent parts by keyword  
