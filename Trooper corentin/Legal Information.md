@@ -39,6 +39,7 @@
     * [Privacy Policy](https://troopercorentin.com/policies/privacy-policy)
     * [Legal Notice](https://troopercorentin.com/policies/legal-notice)
     
+* [Discord](https://discord.gg/troopercorentin)
 
 [Log in](https://troopercorentin.com/account/login)
 
@@ -76,6 +77,7 @@
     * [Privacy Policy](https://troopercorentin.com/policies/privacy-policy)
     * [Legal Notice](https://troopercorentin.com/policies/legal-notice)
     
+* [Discord](https://discord.gg/troopercorentin)
 
  Search our site  
 
