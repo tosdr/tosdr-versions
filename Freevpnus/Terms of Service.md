@@ -112,7 +112,7 @@ FreeVPN.us is dedicated to providing free and fast VPN services to users worldwi
 
 The following is our total achievement so far.
 
-49.095
+49.145
 
 User registered
 
@@ -120,11 +120,11 @@ User registered
 
 Premium User
 
-11.658
+11.521
 
 Active account
 
-1.877.303
+1.877.523
 
 Account created
 
@@ -180,4 +180,4 @@ All Transactions are 100% Safe and Secure!
 
 2016 - 2024 © [Roosterkid](https://roosterkid.com/) x FreeVPN.us made with in
 
-page loaded in 0.000 seconds
+page loaded in 0.010 seconds
