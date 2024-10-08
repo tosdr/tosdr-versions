@@ -526,8 +526,8 @@ If you have any questions, inquires, requests, or complaints concerning this Pri
 ### [More](https://myanimelist.net/topanime.php)Top Anime
 
 1. 1 [Sousou no Frieren](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
-2. 2 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
-3. 3 [Bleach: Sennen Kessen-hen - Soukoku-tan](https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan)
+2. 2 [Bleach: Sennen Kessen-hen - Soukoku-tan](https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan)
+3. 3 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
 4. 4 [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)
 5. 5 [Gintama°](https://myanimelist.net/anime/28977/Gintama%C2%B0)
 
