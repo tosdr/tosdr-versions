@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Adams' right-hand woman resigns in yet another City Hall exit](https://nypost.com/2024/10/08/us-news/nyc-deputy-mayor-sheena-wright-resigns/)
+
 Privacy Notice Highlights
 =========================
 
