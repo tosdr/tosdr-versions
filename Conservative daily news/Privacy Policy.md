@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFBTV vs. CLASSIC FIREARMS: Our Cameramen FIGHT!](https://www.thegunpage.com/tfbtv-vs-classic-firearms-our-cameramen-fight/10611057)
+* [More On Ghost Guns: Arguments Start Tomorrow in Supreme Court Case](https://www.thegunpage.com/more-on-ghost-guns-arguments-start-tomorrow-in-supreme-court-case/10611054)
+* [New: Magpul DAKA Soft Cases](https://www.thegunpage.com/new-magpul-daka-soft-cases/10611058)
+* [Taurus Releases The Compact 22TUC](https://www.thegunpage.com/taurus-releases-the-compact-22tuc/10611055)
 * [MEAN Arms ExoMag 9mm Conversion Mag](https://www.thegunpage.com/mean-arms-exomag-9mm-conversion-mag/10611052)
+* [MDT Releases Updated JAE-G5 Chassis System](https://www.thegunpage.com/mdt-releases-updated-jae-g5-chassis-system/10611056)
 * [Gun Cases Among Key Issues Supreme Court Will Tackle in New Term](https://www.thegunpage.com/gun-cases-among-key-issues-supreme-court-will-tackle-in-new-term/10611050)
 * [Streamlight Adds New TLR-1 HL-X USB Model](https://www.thegunpage.com/streamlight-adds-new-tlr-1-hl-x-usb-model/10611051)
 * [Pennsylvania Teen With Toy Gun Shot During Attempted Robbery](https://www.thegunpage.com/pennsylvania-teen-with-toy-gun-shot-during-attempted-robbery/10611046)
 * [Washington Court Says AR-Style Rifles Not Protected Under Second Amendment](https://www.thegunpage.com/washington-court-says-ar-style-rifles-not-protected-under-second-amendment/10611043)
-* [TFB Weekly Web Deals 108: Deals for October 7th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-108-deals-for-october-7th-2024/10611045)
-* [The Ultimate Suppressed SBS: The Genesis Arms PDS](https://www.thegunpage.com/the-ultimate-suppressed-sbs-the-genesis-arms-pds/10611041)
-* [Collegiate Rifle: Akron Home Opener Yields Big Win](https://www.thegunpage.com/collegiate-rifle-akron-home-opener-yields-big-win/10611042)
-* [KCI's NEW 100-Round 5.56 AK Drum](https://www.thegunpage.com/kcis-new-100-round-5-56-ak-drum/10611037)
-* [The Whitetail Forge Knife Goes to Africa](https://www.thegunpage.com/the-whitetail-forge-knife-goes-to-africa/10611034)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
