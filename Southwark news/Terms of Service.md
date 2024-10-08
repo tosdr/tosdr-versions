@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A shopper at a St Christopher's charity shop. Credit: Rachel Manns](https://southwarknews.co.uk/wp-content/uploads/2024/10/st_christophers_hospice_september_24_rachel_manns_58-360x180.jpg)](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
+    
+    ### [Hospices relying more on charity shops than government funding, warns South London hospice](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
+    
+    [![The Walworth Road looking west towards Elephant and Castle. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Walworth-Road-seen-leading-west-towards-Elephant-and-Castle-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
+    
+    ### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
+    
+    [![Liam Daniel/Netflix](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-07-10-2024-at-10.23-360x180.jpg)](https://southwarknews.co.uk/area/borough/bridgerton-themed-concerts-are-coming-to-southwark-cathedral/)
+    
+    ### [Bridgerton-themed concerts are coming to Southwark Cathedral](https://southwarknews.co.uk/area/borough/bridgerton-themed-concerts-are-coming-to-southwark-cathedral/)
+    
     [![(photo: The estate of Charlotte Johnson Wahl)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-07-10-2024-at-13.21-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
     
     ### [Boris Johnson’s artist mum was a patient at the Maudsley – and now her paintings are being displayed](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
@@ -42,18 +54,6 @@
     [![Women featured in a video released by King's College Hospital urging women to attend screenings. Credit: KCH](https://southwarknews.co.uk/wp-content/uploads/2024/10/Women-featured-in-a-video-released-by-Kings-College-Hospital-urging-women-to-attend-screenings.-Credit-KCH-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
     
     ### [South London women urged to get breast screenings](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
-    
-    [![Murderers: Maria Manning and Frederick Manning](https://southwarknews.co.uk/wp-content/uploads/2024/10/Murderers-Maria-Manning-and-Frederick-Manning-360x180.png)](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
-    
-    ### [The Rise of Scotland Yard: How the Manning case shaped detective history, new book reveals](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
-    
-    [![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
-    
-    ### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
-    
-    [![The family launched Joshy Boy Legacy last month. Credit: Joshy Boy Legacy](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_5449_Original-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
-    
-    ### [Disabled boy’s housing struggles inspires Rotherhithe family’s push for accessible homes](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A shopper at a St Christopher's charity shop. Credit: Rachel Manns](https://southwarknews.co.uk/wp-content/uploads/2024/10/st_christophers_hospice_september_24_rachel_manns_58-360x180.jpg)](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
+    
+    ### [Hospices relying more on charity shops than government funding, warns South London hospice](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
+    
+    [![The Walworth Road looking west towards Elephant and Castle. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Walworth-Road-seen-leading-west-towards-Elephant-and-Castle-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
+    
+    ### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
+    
+    [![Liam Daniel/Netflix](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-07-10-2024-at-10.23-360x180.jpg)](https://southwarknews.co.uk/area/borough/bridgerton-themed-concerts-are-coming-to-southwark-cathedral/)
+    
+    ### [Bridgerton-themed concerts are coming to Southwark Cathedral](https://southwarknews.co.uk/area/borough/bridgerton-themed-concerts-are-coming-to-southwark-cathedral/)
+    
     [![(photo: The estate of Charlotte Johnson Wahl)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-07-10-2024-at-13.21-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
     
     ### [Boris Johnson’s artist mum was a patient at the Maudsley – and now her paintings are being displayed](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
@@ -122,18 +134,6 @@ View All Result
     [![Women featured in a video released by King's College Hospital urging women to attend screenings. Credit: KCH](https://southwarknews.co.uk/wp-content/uploads/2024/10/Women-featured-in-a-video-released-by-Kings-College-Hospital-urging-women-to-attend-screenings.-Credit-KCH-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
     
     ### [South London women urged to get breast screenings](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
-    
-    [![Murderers: Maria Manning and Frederick Manning](https://southwarknews.co.uk/wp-content/uploads/2024/10/Murderers-Maria-Manning-and-Frederick-Manning-360x180.png)](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
-    
-    ### [The Rise of Scotland Yard: How the Manning case shaped detective history, new book reveals](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
-    
-    [![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-360x180.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
-    
-    ### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
-    
-    [![The family launched Joshy Boy Legacy last month. Credit: Joshy Boy Legacy](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_5449_Original-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
-    
-    ### [Disabled boy’s housing struggles inspires Rotherhithe family’s push for accessible homes](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -234,6 +234,18 @@ CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/gar
 
 ### Featured Articles
 
+[![A shopper at a St Christopher's charity shop. Credit: Rachel Manns](https://southwarknews.co.uk/wp-content/uploads/2024/10/st_christophers_hospice_september_24_rachel_manns_58-120x86.jpg)](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
+
+### [Hospices relying more on charity shops than government funding, warns South London hospice](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
+
+[8th October 2024](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
+
+[![The Walworth Road looking west towards Elephant and Castle. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Walworth-Road-seen-leading-west-towards-Elephant-and-Castle-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
+
+### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
+
+[8th October 2024](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
+
 [![(photo: The estate of Charlotte Johnson Wahl)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-07-10-2024-at-13.21-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
 
 ### [Boris Johnson’s artist mum was a patient at the Maudsley – and now her paintings are being displayed](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
@@ -257,18 +269,6 @@ CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/gar
 ### [The Rise of Scotland Yard: How the Manning case shaped detective history, new book reveals](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
 
 [6th October 2024](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
-
-[![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
-
-### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
-
-[6th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
-
-[![The family launched Joshy Boy Legacy last month. Credit: Joshy Boy Legacy](https://southwarknews.co.uk/wp-content/uploads/2024/10/DSC_5449_Original-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
-
-### [Disabled boy’s housing struggles inspires Rotherhithe family’s push for accessible homes](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
-
-[6th October 2024](https://southwarknews.co.uk/area/rotherhithe/disabled-boys-housing-struggles-inspires-rotherhithe-familys-push-for-accessible-homes/)
 
 ### USEFUL PAGES
 
