@@ -11,8 +11,6 @@ Go to... Terms of Service Spreaker Paid Products Community Rules Privacy Informa
 
 #### For Creators
 
-[Our Platform](https://www.spreaker.com/our-platform?ref=footer "Our Platform")
-
 [Plans & Pricing](https://www.spreaker.com/plans?sp_source=www%2Ffooter%2Fpremium "Spreaker")
 
 [Spreaker Support](https://help.spreaker.com/ "Spreaker Support")
