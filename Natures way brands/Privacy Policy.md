@@ -4,6 +4,8 @@ This is a carousel with auto-rotating slides. Use Next and Previous buttons to n
 
 [Sign up](#nw-newsletter-subscription-v2) for our mailing list for 20% off your first order. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
 
+[**Bundles**](https://naturesway.com/collections/bundle-save-1) have landed! Shop curated collections of your favorite products. 
+
      
 
      
