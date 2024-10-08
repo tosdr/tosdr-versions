@@ -120,7 +120,7 @@ Product
 
 Community
 
-[Facebook Group](https://www.facebook.com/groups/bambulabofficialusers)[Reddit](https://www.reddit.com/r/BambuLab/)[Forum](https://forum.bambulab.com/)[Discord](https://discord.gg/bambulab)
+[Facebook Group](https://www.facebook.com/groups/bambulabofficialusers)[Forum](https://forum.bambulab.com/)
 
 Support
 
@@ -132,7 +132,7 @@ Software
 
 Company
 
-[About Us](https://bambulab.com/en/about-us)[Blog](https://blog.bambulab.com/)[Contact Us](https://bambulab.com/en/contact-us)[Join Us](https://bambulab.com/en/join-us)
+[About Us](https://bambulab.com/en/about-us)[Contact Us](https://bambulab.com/en/contact-us)[Join Us](https://bambulab.com/en/join-us)
 
 Partners
 
