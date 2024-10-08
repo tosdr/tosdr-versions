@@ -324,7 +324,6 @@ Footer Utility
 * [youtube](https://www.youtube.com/americanlibraryassocaition)
 
 * [ALA Websites](https://www.ala.org/aboutala/sitesdirectory "ALA Websites")
-* [Accessibility](https://www.ala.org/accessibility "Accessibility")
 * [Privacy Policy](https://www.ala.org/privacypolicy "Privacy Policy")
 * [User Guidelines](https://www.ala.org/user-guidelines "User Guidelines")
 * [Site Index](https://www.ala.org/sitemap.xml "Site Index")
