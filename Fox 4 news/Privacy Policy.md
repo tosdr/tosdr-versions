@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Plane crashes into Eagle Mountain Lake, victim's body recovered](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1)
+ [![Arlington 2-year-old hit by truck after wandering outside](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/4b98e44c-3e9a7c8b-2f7b5b95-police-lights-kmsp-1.jpg?ve=1&tl=1)
 
- ![Plane crashes into Eagle Mountain Lake, victim's body recovered](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
+ ![Arlington 2-year-old hit by truck after wandering outside](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/592/333/4b98e44c-3e9a7c8b-2f7b5b95-police-lights-kmsp-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-2-year-old-hit-truck-after-wandering-outside)
 
-### [Plane crashes into Eagle Mountain Lake, victim's body recovered](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
+### [Arlington 2-year-old hit by truck after wandering outside](https://www.fox4news.com/news/arlington-2-year-old-hit-truck-after-wandering-outside)
 
- [![Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/hurricane-milton.jpg?ve=1&tl=1)
+ [![Visitor discovers 2.30-carat diamond at Arkansas’ Crater of Diamonds Park, 2nd-largest find of 2024](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/diamond.jpg?ve=1&tl=1)
 
- ![Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/hurricane-milton.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-milton-mandatory-evacuations-begin-tampa-bay-area)
+ ![Visitor discovers 2.30-carat diamond at Arkansas’ Crater of Diamonds Park, 2nd-largest find of 2024](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/diamond.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/visitor-diamond-arkansas)
 
-### [Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://www.fox4news.com/news/tropical-storm-milton-mandatory-evacuations-begin-tampa-bay-area)
+### [Visitor discovers 2.30-carat diamond at Arkansas’ Crater of Diamonds Park, 2nd-largest find of 2024](https://www.fox4news.com/news/visitor-diamond-arkansas)
 
- [![Hurricane Milton update: Storm poses ‘extremely serious threat’ to Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/al14_stats-2.gif?ve=1&tl=1)
+ [![Plano man gets 40 years for road rage shooting that left Uber driver in the hospital for months](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/06/32/18/062823-RR-PKG-PEYTON-PLANO-UBER-ROAD-RAGE-SHOOTING_00.01.06.40.jpg?ve=1&tl=1)
 
- ![Hurricane Milton update: Storm poses ‘extremely serious threat’ to Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/al14_stats-2.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-update-extremely-serious-threat-florida-october-8-2024)
+ ![Plano man gets 40 years for road rage shooting that left Uber driver in the hospital for months](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/06/32/18/592/333/062823-RR-PKG-PEYTON-PLANO-UBER-ROAD-RAGE-SHOOTING_00.01.06.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plano-uber-driver-road-rage-shooting-robert-crolley-guilty)
 
-### [Hurricane Milton update: Storm poses ‘extremely serious threat’ to Florida](https://www.fox4news.com/news/hurricane-milton-update-extremely-serious-threat-florida-october-8-2024)
+### [Plano man gets 40 years for road rage shooting that left Uber driver in the hospital for months](https://www.fox4news.com/news/plano-uber-driver-road-rage-shooting-robert-crolley-guilty)
 
- [![Taylor Swift is now the world's richest female musician: Here's who she surpassed](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1821549112.jpg?ve=1&tl=1)
+ [![Lisa Marie Presley had son Benjamin's body in her house for 2 months after he died](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/lisa-marie-ben3.jpg?ve=1&tl=1)
 
- ![Taylor Swift is now the world's richest female musician: Here's who she surpassed](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1821549112.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/taylor-swift-worlds-richest-female-musician-forbes-2024)
+ ![Lisa Marie Presley had son Benjamin's body in her house for 2 months after he died](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/lisa-marie-ben3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lisa-marie-presley-had-son-benjamins-body-her-house-2-months-after-he-died)
 
-### [Taylor Swift is now the world's richest female musician: Here's who she surpassed](https://www.fox4news.com/news/taylor-swift-worlds-richest-female-musician-forbes-2024)
+### [Lisa Marie Presley had son Benjamin's body in her house for 2 months after he died](https://www.fox4news.com/news/lisa-marie-presley-had-son-benjamins-body-her-house-2-months-after-he-died)
 
- [![Armed suspect shot by police after suspicious activity reports at Arlington apartment complex](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-arlington-e-lamar-blvd-shooting-4a_kdfw92cd_146__00.00.01.34.jpg?ve=1&tl=1)
+ [![North Carolina mom of 4 swept up by Hurricane Helene flooding in front of husband, 8-year-old son](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/helene-1.jpg?ve=1&tl=1)
 
- ![Armed suspect shot by police after suspicious activity reports at Arlington apartment complex](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-arlington-e-lamar-blvd-shooting-4a_kdfw92cd_146__00.00.01.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-officer-shooting-blakey-apartments)
+ ![North Carolina mom of 4 swept up by Hurricane Helene flooding in front of husband, 8-year-old son](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/helene-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-carolina-mom-swept-up-hurricane-helene-flooding-husband-son)
 
-### [Armed suspect shot by police after suspicious activity reports at Arlington apartment complex](https://www.fox4news.com/news/arlington-officer-shooting-blakey-apartments)
+### [North Carolina mom of 4 swept up by Hurricane Helene flooding in front of husband, 8-year-old son](https://www.fox4news.com/news/north-carolina-mom-swept-up-hurricane-helene-flooding-husband-son)
 
 ###### [News](https://www.fox4news.com/news)
 
