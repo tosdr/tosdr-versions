@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. English
+1. excel
     
-2. computer science
+2. c
     
-3. html
+3. sql
     
 
 Popular subjects
 ----------------
 
-1. [Web Development
+1. [Communication Skills
     
-    12,627 courses](https://www.classcentral.com/subject/web-development)
-2. [Computer Networking
+    3,920 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Data Analysis
     
-    1,431 courses](https://www.classcentral.com/subject/computer-networking)
-3. [Web Design
+    7,846 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Python
     
-    2,287 courses](https://www.classcentral.com/subject/web-design)
+    8,760 courses](https://www.classcentral.com/subject/python)
 
 Popular courses
 ---------------
 
-1. [Greening the Economy: Sustainable Cities
+1. [Improving Communication Skills
     
-    Lund University](https://www.classcentral.com/course/gte-sustainable-cities-4851)
-2. [Introduction to Cyber Security
+    University of Pennsylvania](https://www.classcentral.com/course/wharton-communication-skills-8235)
+2. [Academic Writing
     
-    Uttarakhand Open University, Haldwani](https://www.classcentral.com/course/swayam-introduction-to-cyber-security-14116)
-3. [Happier Employees and Return-On-Investment Course
+    H.N.B Garhwal University (A Central University) Srinagar Garhwal](https://www.classcentral.com/course/swayam-academic-writing-13881)
+3. [Comprendere la filosofia
     
-    The University of Texas at Austin](https://www.classcentral.com/course/workplace-wellness-the-university-of-texas-at-aus-17121)
+    University of Naples Federico II](https://www.classcentral.com/course/philosophy-universita-degli-studi-di-napoli-feder-9240)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
