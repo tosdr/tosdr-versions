@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/Tuvok_promoted-768x585.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/promotions-for-august-september-2024/)
+
+### [Promotions for August & September 2024](https://www.starbase118.net/2024/promotions-for-august-september-2024/)
+
+Alora DeVeau October 8, 2024
+
+We’d like to congratulate all who saw their hard work and dedication pay off the last couple of months with a promotion to a higher
+
+[Read More »](https://www.starbase118.net/2024/promotions-for-august-september-2024/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/10/ILI2.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/species-spotlight-the-mizarian/)
 
 ### [Species Spotlight – The Mizarian](https://www.starbase118.net/2024/species-spotlight-the-mizarian/)
@@ -377,18 +389,6 @@ srichardsciencenerd118 October 5, 2024
 Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-robin-hopper-amity-outpost-northern-star/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/fleet-768x306.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/september-2024-post-counts/)
-
-### [September 2024 Post Counts](https://www.starbase118.net/2024/september-2024-post-counts/)
-
-amackenzie October 4, 2024
-
-With our Fleet Blockbuster now complete, we saw a large increase in overall sim numbers this month 2,634 total posts – averaging 239 per ship.
-
-[Read More »](https://www.starbase118.net/2024/september-2024-post-counts/)
 
 Ready to get started?
 ---------------------
