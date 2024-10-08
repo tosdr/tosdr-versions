@@ -558,61 +558,7 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![DRAGON BALL: Sparking! ZERO Ultimate Edition PC (North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/z/e/zero_ultimate_edition_2.jpg)   No 1. \-21%
-    
-    Pre-order](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-ultimate-edition-pc-steam-na)
-    
-    **[DRAGON BALL: Sparking! ZERO Ultimate Edition PC (North America)](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-ultimate-edition-pc-steam-na "DRAGON BALL: Sparking! ZERO Ultimate Edition PC (North America)")**
-    
-    Special Price $99.69 RRP $126.29
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Remnant II - Ultimate Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-12t144722.601_1_1_1_1.jpg)   No 2. \-58%](https://www.cdkeys.com/pc/remnant-ii-ultimate-edition-pc-steam)
-    
-    **[Remnant II - Ultimate Edition PC](https://www.cdkeys.com/pc/remnant-ii-ultimate-edition-pc-steam "Remnant II - Ultimate Edition PC")**
-    
-    Special Price $25.29 RRP $59.79
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-3.    [![The Forever Winter PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/the_forever_winter.png)   No 3. \-36%](https://www.cdkeys.com/pc/the-forever-winter-pc-steam)
-    
-    **[The Forever Winter PC](https://www.cdkeys.com/pc/the-forever-winter-pc-steam "The Forever Winter PC")**
-    
-    Special Price $21.29 RRP $33.19
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Diablo IV: Vessel of Hatred - Standard Edition Xbox (Europe & UK)](https://cdn.cdkeys.com/245x340/media/catalog/product/d/i/diablo_iv_vessel_of_hatred_-_standard_edition_1_1.jpg)   No 4. \-23%
-    
-    DLC](https://www.cdkeys.com/xbox-live/diablo-iv-vessel-of-hatred-standard-edition-xbox-eu)
-    
-    **[Diablo IV: Vessel of Hatred - Standard Edition Xbox (Europe & UK)](https://www.cdkeys.com/xbox-live/diablo-iv-vessel-of-hatred-standard-edition-xbox-eu "Diablo IV: Vessel of Hatred - Standard Edition Xbox (Europe & UK)")**
-    
-    Special Price $35.19 RRP $45.49
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-5.    [![Homeworld 3 + Pre-Order Bonus PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-12-06t124039.262.jpg)   No 5. \-60%](https://www.cdkeys.com/pc/homeworld-3-pc-steam)
-    
-    **[Homeworld 3 + Pre-Order Bonus PC](https://www.cdkeys.com/pc/homeworld-3-pc-steam "Homeworld 3 + Pre-Order Bonus PC")**
-    
-    Special Price $26.59 RRP $66.49
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![Destiny 2: The Final Shape PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/4/14161265.jpg)   No 6. \-50%
+1.    [![Destiny 2: The Final Shape PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/4/14161265.jpg)   No 1. \-50%
     
     DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam)
     
@@ -624,23 +570,51 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-7.    [![Destiny 2 - Legacy Collection PC (2024)](https://cdn.cdkeys.com/245x340/media/catalog/product/d/e/destiny_2_legacy_collection_2024_.jpg)   No 7. \-74%](https://www.cdkeys.com/pc/destiny-2-legacy-collection-pc-2024-steam)
+2.    [![Golf With Your Friends PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/h/wheou95nw2szqy6h5ikge2bg_1_.jpg)   No 2. \-75%](https://www.cdkeys.com/pc/golf-with-your-friends-pc-steam-cd-key)
     
-    **[Destiny 2 - Legacy Collection PC (2024)](https://www.cdkeys.com/pc/destiny-2-legacy-collection-pc-2024-steam "Destiny 2 - Legacy Collection PC (2024)")**
+    **[Golf With Your Friends PC](https://www.cdkeys.com/pc/golf-with-your-friends-pc-steam-cd-key "Golf With Your Friends PC")**
     
-    Special Price $17.29 RRP $66.49
+    Special Price $3.69 RRP $14.59
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-8.    [![The Sims 4 Life and Death PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims_4_life_and_death.jpg)   No 8. \-30%
+3.    [![Cities: Skylines II PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-12t113837.967.jpg)   No 3. \-57%](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam)
     
-    Pre-order DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app)
+    **[Cities: Skylines II PC](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam "Cities: Skylines II PC")**
     
-    **[The Sims 4 Life and Death PC - DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app "The Sims 4 Life and Death PC - DLC")**
+    Special Price $23.89 RRP $55.89
     
-    Special Price $30.59 RRP $43.89
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![Test Drive Unlimited Solar Crown PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/e/test_drive_unlimited_solar_crown.jpg)   No 4. \-50%](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam)
+    
+    **[Test Drive Unlimited Solar Crown PC](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam "Test Drive Unlimited Solar Crown PC")**
+    
+    Special Price $26.59 RRP $53.19
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![DRAGON BALL: Sparking! ZERO Ultimate Edition PC (North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/z/e/zero_ultimate_edition_2.jpg)   No 5. \-21%](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-ultimate-edition-pc-steam-na)
+    
+    **[DRAGON BALL: Sparking! ZERO Ultimate Edition PC (North America)](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-ultimate-edition-pc-steam-na "DRAGON BALL: Sparking! ZERO Ultimate Edition PC (North America)")**
+    
+    Special Price $99.69 RRP $126.29
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![SILENT HILL 2 PC (North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/silent_hill_2_1.jpg)   No 6. \-28%](https://www.cdkeys.com/pc/silent-hill-2-pc-steam-na)
+    
+    **[SILENT HILL 2 PC (North America)](https://www.cdkeys.com/pc/silent-hill-2-pc-steam-na "SILENT HILL 2 PC (North America)")**
+    
+    Special Price $57.79 RRP $79.79
     
     [Add to Wish List](# "Add to Wish List")
     
