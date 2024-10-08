@@ -1,6 +1,6 @@
-[New: Introducing the world's first secure touchscreen hardware wallets
+[Until Oct 15th, get up to $50 of Bitcoin when purchasing a Ledger Wallet
 
-Shop Now](https://shop.ledger.com/pages/hardware-wallets-secure-touchscreen)
+See Offers](https://shop.ledger.com/pages/bitcoin-voucher-campaign)
 
 Our Website now exists in . Do you want to change languages?
 
@@ -11,6 +11,7 @@ You can revert to English at any time by clicking on the language menu on the to
   [![Ledger](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg)](https://www.ledger.com/ "Ledger")
 
 * [Products](# "Products")
+    * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
     * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
