@@ -289,4 +289,4 @@ Existence of automated decision-making
 
 As a responsible company, we do not use automatic decision-making or profiling.
 
-10/8/2024, 12:31:18 AM [Imprint](https://www.userscript.zone/imprint)   [Privacy](https://www.userscript.zone/privacy)
+10/8/2024, 6:20:11 AM [Imprint](https://www.userscript.zone/imprint)   [Privacy](https://www.userscript.zone/privacy)
