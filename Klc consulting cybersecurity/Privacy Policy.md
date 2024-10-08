@@ -202,6 +202,7 @@ Resources
 * [Blog](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-education/)
 * [Case Studies](https://klcconsulting.net/cmmc-and-nist-resources/case-studies/)
 * [CMMC Terms & Links](https://klcconsulting.net/cmmc-and-nist-resources/)
+* [CMMC Resource Tools](https://klcconsulting.net/cmmc-resource-tools/)
 * [Strategic Partners](https://klcconsulting.net/strategic-partners/)
 * [Videos](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-videos/)
 
