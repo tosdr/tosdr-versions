@@ -280,12 +280,12 @@ Most Popular
 [IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
+[![Derry man facing series of drugs charges returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man facing series of drugs charges returned for trial")](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Death Notices - Monday, October 7 2024](https://www.derrynow.com/news/deaths/1622199/derry-death-notices-monday-october-7-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man facing series of drugs charges returned for trial](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![High levels of air pollution found at three Derry locations in a new report](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "High levels of air pollution found at three Derry locations in a new report")](https://www.derrynow.com/news/derry-news/1623521/high-levels-of-air-pollution-found-at-three-derry-locations-in-a-new-report.html)
 
@@ -300,13 +300,6 @@ Most Popular
 
 [Woman jailed for her part in an incident were a dog killed another dog has sentence reduced](https://www.derrynow.com/news/local-news/1623775/woman-jailed-for-her-part-in-an-incident-were-a-dog-killed-another-dog-has-sentence-reduced.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man facing series of drugs charges returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man facing series of drugs charges returned for trial")](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man facing series of drugs charges returned for trial](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![A5 road closure: Murder investigation launched following death of man in Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A5 road closure: Murder investigation launched following death of man in Strabane")](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
 
@@ -328,6 +321,13 @@ Most Popular
 
 [Woman who admitted possessing pregablin that resulted in the death of a man begins sentence](https://www.derrynow.com/news/local-news/1623773/woman-who-admitted-possessing-pregablin-that-resulted-in-the-death-of-a-man-begins-sentence.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with possessing a AKM rifle granted bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing a AKM rifle granted bail")](https://www.derrynow.com/news/local-news/1623705/derry-man-charged-with-possessing-a-akm-rifle-granted-bail.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with possessing a AKM rifle granted bail](https://www.derrynow.com/news/local-news/1623705/derry-man-charged-with-possessing-a-akm-rifle-granted-bail.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -507,6 +507,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1623993/derry-death-notices-tuesday-october-8-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, October 8 2024](https://www.derrynow.com/news/deaths/1623993/derry-death-notices-tuesday-october-8-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [![March Against Genocide](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "March Against Genocide")](https://www.derrynow.com/news/county-derry-post/1624089/march-against-genocide-organised-for-bellaghy-on-oct-8.html)
 
 March Against Genocide
@@ -516,7 +523,7 @@ March Against Genocide
 [March Against Genocide organised for Bellaghy on Oct 8](https://www.derrynow.com/news/county-derry-post/1624089/march-against-genocide-organised-for-bellaghy-on-oct-8.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Oktoberfest Pennyburn launches this Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Oktoberfest Pennyburn launches this Friday")](https://www.derrynow.com/news/local-news/1623618/oktoberfest-pennyburn-launches-this-friday.html)
+[![Oktoberfest Pennyburn launches this Friday](https://www.derrynow.com/resizer/165/93/true/2024_10_07/Capture-1728296131590.JPG--.JPG?1728296131618 "Oktoberfest Pennyburn launches this Friday")](https://www.derrynow.com/news/local-news/1623618/oktoberfest-pennyburn-launches-this-friday.html)
 
 Paddy 'the Dagger' Mc Donnell will perform his standup at our comedy lab on October 19
 
@@ -545,15 +552,6 @@ Paddy 'the Dagger' Mc Donnell will perform his standup at our comedy lab on Octo
 
 [Derry students visit local 'Marine Machine' on waterways tour](https://www.derrynow.com/news/local-news/1624023/derry-students-visit-local-marine-machine-on-waterways-tour.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry construction projects shine at annual CEF Awards](https://www.derrynow.com/resizer/165/93/true/2024_10_07/Derry_Pennyburn_Bridge-1728308374856.jpg--.jpg?1728308375501 "Derry construction projects shine at annual CEF Awards")](https://www.derrynow.com/news/local-news/1623892/derry-construction-projects-shine-at-annual-cef-awards.html)
-
-The recently opened Pennyburn Bridge
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry construction projects shine at annual CEF Awards](https://www.derrynow.com/news/local-news/1623892/derry-construction-projects-shine-at-annual-cef-awards.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
