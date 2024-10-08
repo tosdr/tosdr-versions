@@ -48,11 +48,19 @@ Quick Links
 
 Quick Links
 
-* [SAP Developer Center](https://developers.sap.com/)
-* [SAP Community](https://community.sap.com/)
 * [SAP Learning Hub](https://www.sap.com/training-certification/learning-hub.html)
 * [SAP Training Shop](https://training.sap.com/)
+* [SAP Developer Center](https://developers.sap.com/)
+* [SAP Community](https://community.sap.com/)
 * [Newsletter](https://www.sap.com/cmp/nl/sap-learning-hub-news/index.html?source=glo-lh-dotcom)
+
+Learning Support
+
+Learning Support
+
+* [Frequently Asked Questions](https://learning.sap.com/frequently-asked-questions#general)
+* [Get Support](https://support.learning.sap.com/)
+* [Share Feedback](https://sapinsights.eu.qualtrics.com/jfe/form/SV_5Bc5MdKzdw8dc4m)
 
 About SAP
 
@@ -64,14 +72,6 @@ About SAP
 * [Worldwide Directory](https://www.sap.com/about/company/office-locations.html)
 * [Careers](https://www.sap.com/about/careers.html)
 * [News and Press](https://news.sap.com/)
-
-Support and Contact
-
-Support and Contact
-
-* [Share Feedback](https://sapinsights.eu.qualtrics.com/jfe/form/SV_5Bc5MdKzdw8dc4m)
-* [Get Support](https://support.learning.sap.com/)
-* [Frequently Asked Questions](https://learning.sap.com/frequently-asked-questions#general)
 
 [![SAP Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Visit home page")
 
