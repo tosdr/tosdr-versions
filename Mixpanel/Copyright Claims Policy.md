@@ -29,7 +29,7 @@
     
     * [Customers](https://mixpanel.com/customers)
     * [Startups](https://mixpanel.com/startups)
-    * [Events](https://eventhub.goldcast.io/?eventHubId=b183a53e-dd6e-4f0b-9a23-dd274f39d78d)
+    * [Events](https://events.mixpanel.com/)
     * [Slack](https://mixpanel.com/community-slack)
     * [Expert Directory](https://mixpanel.com/partners/experts)
     
@@ -68,7 +68,7 @@
     
     * [Customers](https://mixpanel.com/customers)
     * [Startups](https://mixpanel.com/startups)
-    * [Events](https://eventhub.goldcast.io/?eventHubId=b183a53e-dd6e-4f0b-9a23-dd274f39d78d)
+    * [Events](https://events.mixpanel.com/)
     * [Slack](https://mixpanel.com/community-slack)
     * [Expert Directory](https://mixpanel.com/partners/experts)
     * [👋 We’re Hiring](https://mixpanel.com/jobs)
