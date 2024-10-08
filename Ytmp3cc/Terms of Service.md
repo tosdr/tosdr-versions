@@ -1,11 +1,11 @@
-[![YTMP3](/img/logo.svg)](https://ytmp3.cc/en-DrWL/)
+[![YTMP3](/img/logo.svg)](https://ytmp3.cc/en-2g6Q/)
 
-[Home](https://ytmp3.cc/en-DrWL/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)
+[Home](https://ytmp3.cc/en-2g6Q/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)
 
-YTMP3: Terms of Use
-===================
+Terms of Use
+============
 
-Please review these terms and conditions of use carefully before using our websites, including, without limitation, the following websites: [ytmp3.cc](https://ytmp3.cc/en-DrWL/).
+Please review these terms and conditions of use carefully before using our websites, including, without limitation, the following websites: [ytmp3.cc](https://ytmp3.cc/en-2g6Q/).
 
 This document states the terms and conditions („Terms”) upon which ytmp3.cc („we” or „us”) will provide service to you on its websites, including, without limitation, the above listed websites (collectively, the „Website”). These Terms constitute a contractual agreement between you and us. By visiting, accessing, using, and/or joining (collectively „using”) the Website, you express your understanding and acceptance of these Terms. As used in this document, the terms „you” or „your” refers to you, any entity you represent, your or its representatives, successors, assigns and affiliates, and any of your or their devices. If you do not agree to be bound by these Terms, navigate away from the Website and cease using it.
 
