@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/eb8a32ac-97e2-4b5d-92af-bcb7a15f93ce/20241007T223316/eb8a32ac-97e2-4b5d-92af-bcb7a15f93ce_16x9.jpg) ![](https://media.king5.com/assets/KING/images/eb8a32ac-97e2-4b5d-92af-bcb7a15f93ce/20241007T223316/eb8a32ac-97e2-4b5d-92af-bcb7a15f93ce_360x203.jpg)](https://www.king5.com/article/life/animals/poulsbo-woman-startled-over-100-raccoons-outside-home-demanding-food/281-b775682f-be59-45ec-bbef-50ab0124d184)
+    *  [![](https://media.king5.com/assets/KING/images/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d/20241008T140414/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d/20241008T140414/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d_360x203.jpg)](https://www.king5.com/article/news/local/photos-northern-lights-washington/281-a05fb7f8-499f-4546-9875-b7607285c7dd)
         
-        #### [Poulsbo woman calls authorities after finding over 100 raccoons outside her home demanding food](https://www.king5.com/article/life/animals/poulsbo-woman-startled-over-100-raccoons-outside-home-demanding-food/281-b775682f-be59-45ec-bbef-50ab0124d184)
+        #### [Stunning photos of the northern lights over Washington](https://www.king5.com/article/news/local/photos-northern-lights-washington/281-a05fb7f8-499f-4546-9875-b7607285c7dd) [![](https://media.king5.com/assets/KING/images/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d/20241008T140414/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d/20241008T140414/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d_360x203.jpg)](https://www.king5.com/article/news/local/photos-northern-lights-washington/281-a05fb7f8-499f-4546-9875-b7607285c7dd)
         
-    *  [![](https://media.king5.com/assets/WKYC/images/bb7ce1db-2751-41e5-9248-b9a4a48b4d98/20241004T000623/bb7ce1db-2751-41e5-9248-b9a4a48b4d98_16x9.jpg) ![](https://media.king5.com/assets/WKYC/images/bb7ce1db-2751-41e5-9248-b9a4a48b4d98/20241004T000623/bb7ce1db-2751-41e5-9248-b9a4a48b4d98_360x203.jpg)](https://www.king5.com/article/news/politics/tim-walz-october-8-seattle-visit/281-9ef10337-c9f8-464c-b864-307e4431b521)
+        #### [Northern lights shine over Washington Tuesday night](https://www.king5.com/article/news/local/photos-northern-lights-washington/281-a05fb7f8-499f-4546-9875-b7607285c7dd)
+    *  [![](https://media.king5.com/assets/KING/images/e17f45bb-9a47-470a-b804-f31c59243e87/20241007T220423/e17f45bb-9a47-470a-b804-f31c59243e87_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e17f45bb-9a47-470a-b804-f31c59243e87/20241007T220423/e17f45bb-9a47-470a-b804-f31c59243e87_360x203.jpg)](https://www.king5.com/article/news/local/seattle/flaming-lips-band-member-daughter-missing-seattle/281-d30a9381-3073-4cd8-9bcf-9e505593d11f)
         
-        #### [Vice Presidential candidate Tim Walz arrives in Seattle](https://www.king5.com/article/news/politics/tim-walz-october-8-seattle-visit/281-9ef10337-c9f8-464c-b864-307e4431b521)
+        #### [Seattle police searching for missing teen daughter of Flaming Lips member](https://www.king5.com/article/news/local/seattle/flaming-lips-band-member-daughter-missing-seattle/281-d30a9381-3073-4cd8-9bcf-9e505593d11f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/0cc796c3-e406-4698-a803-c39bdbc46cca/20241007T235931/0cc796c3-e406-4698-a803-c39bdbc46cca_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0cc796c3-e406-4698-a803-c39bdbc46cca/20241007T235931/0cc796c3-e406-4698-a803-c39bdbc46cca_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/3c248599-1a24-4297-8c51-436a4ead277e/20241008T115900/3c248599-1a24-4297-8c51-436a4ead277e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3c248599-1a24-4297-8c51-436a4ead277e/20241008T115900/3c248599-1a24-4297-8c51-436a4ead277e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-64°
+56°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
