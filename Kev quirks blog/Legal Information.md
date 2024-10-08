@@ -3,9 +3,7 @@ Kev Quirk
 
 [](https://kevquirk.com/)
 
-Menu
-
-[Blog](https://kevquirk.com/) [Notes](https://kevquirk.com/notes) [About](https://kevquirk.com/about) [Contact](https://kevquirk.com/contact) [Search](https://kevquirk.com/search) [Subscribe](https://kevquirk.com/subscribe) More... [Blogroll](https://kevquirk.com/blogroll) [Guestbook](https://kevquirk.com/guestbook) [PenPals](https://kevquirk.com/penpals) [Projects](https://kevquirk.com/projects) [Watches](https://kevquirk.com/watches) [Watch Log](https://kevquirk.com/watch-log)
+[Menu](https://kevquirk.com/menu)
 
 Disclaimer
 ==========
@@ -28,14 +26,6 @@ All of my posts assume a certain level of technical ability. If you’re not com
 I cannot be held liable for any damage to your systems, data, or anything else as a result of the posts I create on this blog. The processes I describe within my posts are provided as-is with no warranty whatsoever.
 
 **This disclaimer is subject to change at any time without notification.**
-
-[Blog](https://kevquirk.com/) [Notes](https://kevquirk.com/notes) [About](https://kevquirk.com/about) [Contact](https://kevquirk.com/contact) [Search](https://kevquirk.com/search) [Subscribe](https://kevquirk.com/subscribe) More... [Blogroll](https://kevquirk.com/blogroll) [Guestbook](https://kevquirk.com/guestbook) [PenPals](https://kevquirk.com/penpals) [Projects](https://kevquirk.com/projects) [Watches](https://kevquirk.com/watches) [Watch Log](https://kevquirk.com/watch-log)
-
-[](https://fosstodon.org/@kev "Mastodon")[](https://signal.me/#eu/iBLb4wMVSnBCrHCHnyWf8Ef0ou9ednD1ALTbPMUSZwuaTk4xOzlACaSjI16V5eJk "Signal Messenger")[](mailto:72ja@qrk.one "Email")[](https://kevquirk.com/feed "RSS Feed")
-
-Enter your email below to subscribe to new posts by email. No spam, ever. Pinky-promise.
-
-Enter your email  
 
 [Back to top](#top)
 
