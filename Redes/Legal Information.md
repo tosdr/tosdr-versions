@@ -126,11 +126,11 @@ Red.es aumenta un 400% su ejecución económica en los últimos tres años
 
 Noticia
 
-Emprendimiento
+Internacionalización
 
-La incubadora IRIA impulsa la innovación tecnológica en Extremadura a través de las tecnologías inmersivas
+Siete startups lideradas por mujeres participarán en la segunda edición de Desafía San Francisco enfocada a emprendedoras
 
-[La incubadora IRIA impulsa la innovación tecnológica en Extremadura a través de las tecnologías inmersivas](http://red.es/es/actualidad/noticias/redes-iria-incubadora-empresas-tecnologias-inmersivas "Ir al contenido de: La incubadora IRIA impulsa la innovación tecnológica en Extremadura a través de las tecnologías inmersivas")
+[Siete startups lideradas por mujeres participarán en la segunda edición de Desafía San Francisco enfocada a emprendedoras](http://red.es/es/actualidad/noticias/siete-startups-mujeres-segunda-edicion-desafia-san-francisco "Ir al contenido de: Siete startups lideradas por mujeres participarán en la segunda edición de Desafía San Francisco enfocada a emprendedoras")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
