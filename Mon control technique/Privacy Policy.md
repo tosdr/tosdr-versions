@@ -67,7 +67,7 @@ Réservez votre contrôle technique dans un centre près de chez vous **au meil
 
 ![rendez-vous contrôle technique](https://www.moncontroletechnique.fr/sites/default/files/2020-06/men.png)
 
-(87)
+(88)
 
   
 
@@ -308,7 +308,7 @@ Consultez régulièrement cette page être au courant des dernières mises à jo
 
 Avez-vous trouvé cette information utile ?
 
-(87)
+(88)
 
     
 
@@ -318,7 +318,7 @@ Avez-vous trouvé cette information utile ?
 
 Merci pour votre note !
 
-(87)
+(88)
 
 N'hésitez pas à partager !
 
