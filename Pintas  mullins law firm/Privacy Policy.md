@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![When do you know malnutrition is a sign of nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-when-do-you-know-malnutrition-is-a-sign-of-nursing-home-abuse-lawyer-scaled.jpg "When Do You Know Malnutrition Is a Sign of Nursing Home Abuse?")](https://www.pintas.com/faq/when-do-you-know-malnutrition-is-a-sign-of-nursing-home-abuse-lawyer/ "When Do You Know Malnutrition Is a Sign of Nursing Home Abuse?")
+[![Is mesothelioma the same aa small cell lung cancer?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-is-mesothelioma-the-same-as-small-cell-lung-cancer.jpg "Is Mesothelioma the Same Aa Small Cell Lung Cancer?")](https://www.pintas.com/lung-cancer/is-mesothelioma-the-same-as-small-cell-lung-cancer/ "Is Mesothelioma the Same Aa Small Cell Lung Cancer?")
 
-[#### When Do You Know Malnutrition Is a Sign of Nursing Home Abuse?](https://www.pintas.com/faq/when-do-you-know-malnutrition-is-a-sign-of-nursing-home-abuse-lawyer/)
+[#### Is Mesothelioma the Same Aa Small Cell Lung Cancer?](https://www.pintas.com/lung-cancer/is-mesothelioma-the-same-as-small-cell-lung-cancer/)
 
-[![Can you sue a nursing home for wrongful death?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-a-nursing-home-for-wrongful-death-scaled.jpg "Can You Sue a Nursing Home for Wrongful Death?")](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/ "Can You Sue a Nursing Home for Wrongful Death?")
+[![Elderly hip fracture recovery time frames](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip-scaled.jpg "Elderly Hip Fracture Recovery Time Frames")](https://www.pintas.com/faq/how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip/ "Elderly Hip Fracture Recovery Time Frames")
 
-[#### Can You Sue a Nursing Home for Wrongful Death?](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/)
+[#### Elderly Hip Fracture Recovery Time Frames](https://www.pintas.com/faq/how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip/)
 
-[![Have there been any successful talcum powder settlements or verdicts?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-have-there-been-any-successful-talcum-powder-settlements-or-verdicts-scaled.jpg "Have There Been Any Successful Talcum Powder Settlements or Verdicts?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/successful-talcum-settlements "Have There Been Any Successful Talcum Powder Settlements or Verdicts?")
+[![What is the difference between lung cancer and mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-is-the-difference-between-lung-cancer-and-mesothelioma.jpg "What Is the Difference Between Lung Cancer and Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-the-difference-between-lung-cancer-and-mesothelioma "What Is the Difference Between Lung Cancer and Mesothelioma?")
 
-[#### Have There Been Any Successful Talcum Powder Settlements or Verdicts?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/successful-talcum-settlements)
+[#### What Is the Difference Between Lung Cancer and Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/what-is-the-difference-between-lung-cancer-and-mesothelioma)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
