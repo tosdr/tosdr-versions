@@ -1,5 +1,3 @@
-[🥇 See Who Won The KYM Poll For Meme Of The Month! 🥇](https://knowyourmeme.com/editorials/see-the-winner-of-september-2024s-meme-of-the-month/)
-
 [](https://knowyourmeme.com/ "Know Your Meme")
 
 [Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
@@ -122,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Elon Musk Jumping](https://knowyourmeme.com/memes/elon-musk-jumping "Elon Musk Jumping")
+[Elon Musk Jumping](https://knowyourmeme.com/memes/elon-musk-jumping "Elon Musk Jumping") [Elon Musk Kubrick Stare](https://knowyourmeme.com/memes/elon-musk-kubrick-stare "Elon Musk Kubrick Stare")
 
 Terms of Service and Use
 ========================
@@ -263,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo Yo! You must login or signup first!
+### O HAI! You must login or signup first!
 
 |     |     |
 | --- | --- |
