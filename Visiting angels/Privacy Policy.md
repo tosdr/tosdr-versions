@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[Home Care Services for the Elderly](https://www.visitingangels.com/knowledge-center/selecting-care/home-care-services-for-the-elderly/518)
-
-[How a Home Care Agency Can Help Prevent Falls](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-home-care-agency-can-help-prevent-falls/483)
+[6 Tips to Help Your Loved One Keep Track of Medication](https://www.visitingangels.com/knowledge-center/care-options/6-tips-to-help-your-loved-one-keep-track-of-medication/82)
 
 [A Generation in Denial: A Call for Faster Action](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/a-generation-in-denial-a-call-for-faster-action/356)
 
-[What to Look for at Your Parent’s House During the Holidays](https://www.visitingangels.com/knowledge-center/why-in-home-care/what-to-look-for-at-your-parents-house-during-the-holidays/331)
+[Dementia Care: Visiting Angels Provides Insight into Care and Symptoms](https://www.visitingangels.com/knowledge-center/care-options/dementia-care-visiting-angels-provides-insight-into-care-and-symptoms/326)
 
-[The Best Way to Avoid Elderly Hospital Readmission](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/the-best-way-to-avoid-elderly-hospital-readmission/333)
+[Help a Senior this Halloween with a Visiting Angels Greeter](https://www.visitingangels.com/knowledge-center/care-options/help-a-senior-this-halloween-with-a-visiting-angels-greeter/21)
+
+[Making the Most Out of Visits to Elderly Parents](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/making-the-most-out-of-visits-to-elderly-parents/121)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
