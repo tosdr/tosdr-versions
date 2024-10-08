@@ -26,9 +26,9 @@ My Tote
 
 5761 reviews (5761)
 
-$23.00 $41.00
+$16.00 $29.00
 
-1 oz - $41 0.3 oz - $23
+1 oz - $29 0.3 oz - $16
 
 1 oz
 
@@ -52,9 +52,9 @@ CHOOSE Size
 
 1044 reviews (1044)
 
-$89.00
+$64.00
 
-Default Title - $89
+Default Title - $64
 
 ADD TO TOTE
 
@@ -62,7 +62,7 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/Awards-2024-global-green-beauty-silver.png?crop=center&height=85&v=1725096491&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-[24% off
+[25% off
 
 ![multi-vitamin-+-antioxidants-potent-pm-serum](https://www.100percentpure.com/cdn/shop/files/1FMVPPMS_Multi-Vitamin_And_Antioxidants_Potent_PM_Serum_Primary_239x254.jpg?v=1713543184)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
@@ -72,9 +72,9 @@ ADD TO TOTE
 
 95 reviews (95)
 
-$76.00 $101.00
+$54.00 $72.00
 
-1 oz - $76
+1 oz - $54
 
 ADD TO TOTE
 
@@ -86,9 +86,9 @@ ADD TO TOTE
 
 2395 reviews (2395)
 
-$39.00 $39.00
+$28.00 $28.00
 
-Black Tea - $39 Dark Chocolate - $39 Blackberry - $39
+Black Tea - $28 Dark Chocolate - $28 Blackberry - $28
 
 Black Tea
 
@@ -108,9 +108,9 @@ CHOOSE Color
 
 762 reviews (762)
 
-$17.00 $37.00
+$12.00 $26.00
 
-1.7 oz - $17 8 oz - $37
+1.7 oz - $12 8 oz - $26
 
 8 oz
 
@@ -130,9 +130,9 @@ CHOOSE Size
 
 39 reviews (39)
 
-$8.00 $39.00
+$5.60 $28.00
 
-Single - $8 5 Pack - $39
+Single - $5.60 5 Pack - $28
 
 Sale
 
@@ -154,9 +154,9 @@ CHOOSE Size
 
 374 reviews (374)
 
-$8.00 $10.00
+$5.60 $7.00
 
-Single - $8
+Single - $5.60
 
 ADD TO TOTE
 
@@ -168,9 +168,9 @@ ADD TO TOTE
 
 2021 reviews (2021)
 
-$38.00 $38.00
+$27.00 $27.00
 
-Blackest - $38 Dark Cacao - $38 Gleaming Pewter - $38
+Blackest - $27 Dark Cacao - $27 Gleaming Pewter - $27
 
 Gleaming Pewter
 
@@ -190,9 +190,9 @@ CHOOSE Color
 
 45 reviews (45)
 
-$35.00
+$25.00
 
-Default Title - $35
+Default Title - $25
 
 ADD TO TOTE
 
@@ -206,9 +206,9 @@ ADD TO TOTE
 
 366 reviews (366)
 
-$8.00 $45.00
+$5.60 $32.00
 
-Single - $8 5 Pack - $45
+Single - $5.60 5 Pack - $32
 
 5 Pack
 
@@ -220,7 +220,7 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[18% off
+[20% off
 
 ![acai-pulp-facial-scrub](https://www.100percentpure.com/cdn/shop/products/1FAPFS_Acai_Pulp_Facial_Scrub_Primary_239x254.jpg?v=1655916708)](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
@@ -230,15 +230,15 @@ CHOOSE Size
 
 842 reviews (842)
 
-$43.00 $53.00
+$30.40 $38.00
 
-Default Title - $43
+Default Title - $30.40
 
 ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
-[24% off
+[25% off
 
 ![multi-vitamin-+-antioxidants-pm-facial-oil](https://www.100percentpure.com/cdn/shop/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_239x254.jpg?v=1696527574)](https://www.100percentpure.com/products/multi-vitamin-antioxidants-pm-facial-oil)
 
@@ -248,9 +248,9 @@ ADD TO TOTE
 
 196 reviews (196)
 
-$61.00 $81.00
+$43.50 $58.00
 
-Default Title - $61
+Default Title - $43.50
 
 ADD TO TOTE
 
@@ -262,9 +262,9 @@ ADD TO TOTE
 
 294 reviews (294)
 
-$37.00
+$26.00
 
-Default Title - $37
+Default Title - $26
 
 ADD TO TOTE
 
@@ -276,9 +276,9 @@ ADD TO TOTE
 
 349 reviews (349)
 
-$37.00
+$26.00
 
-Default Title - $37
+Default Title - $26
 
 ADD TO TOTE
 
@@ -290,9 +290,9 @@ ADD TO TOTE
 
 386 reviews (386)
 
-$37.00
+$26.00
 
-Default Title - $37
+Default Title - $26
 
 ADD TO TOTE
 
@@ -304,9 +304,9 @@ ADD TO TOTE
 
 120 reviews (120)
 
-$42.00
+$30.00
 
-Default Title - $42
+Default Title - $30
 
 ADD TO TOTE
 
@@ -318,9 +318,9 @@ ADD TO TOTE
 
 874 reviews (874)
 
-$53.00
+$38.00
 
-Default Title - $53
+Default Title - $38
 
 ADD TO TOTE
 
@@ -334,9 +334,9 @@ ADD TO TOTE
 
 77 reviews (77)
 
-$27.00
+$19.00
 
-Default Title - $27
+Default Title - $19
 
 ADD TO TOTE
 
@@ -350,9 +350,9 @@ ADD TO TOTE
 
 1565 reviews (1565)
 
-$42.00 $42.00
+$30.00 $30.00
 
-Blackberry - $42 Black Tea - $42 Dark Chocolate - $42
+Blackberry - $30 Black Tea - $30 Dark Chocolate - $30
 
 Black Tea
 
@@ -374,13 +374,13 @@ CHOOSE Color
 
 1127 reviews (1127)
 
-$47.00 $63.00
+$33.75 $45.00
 
-Default Title - $47
+Default Title - $33.75
 
 ADD TO TOTE
 
-[23% off
+[25% off
 
 ![green-tea-egcg-concentrate-cream](https://www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_239x254.webp?v=1725380733)](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
 
@@ -390,9 +390,9 @@ ADD TO TOTE
 
 637 reviews (637)
 
-$51.00 $67.00
+$36.00 $48.00
 
-Default Title - $51
+Default Title - $36
 
 ADD TO TOTE
 
@@ -406,9 +406,9 @@ ADD TO TOTE
 
 508 reviews (508)
 
-$67.00
+$48.00
 
-Default Title - $67
+Default Title - $48
 
 ADD TO TOTE
 
@@ -420,9 +420,9 @@ ADD TO TOTE
 
 543 reviews (543)
 
-$73.00
+$52.00
 
-Default Title - $73
+Default Title - $52
 
 ADD TO TOTE
 
@@ -434,15 +434,15 @@ ADD TO TOTE
 
 59 reviews (59)
 
-$67.00
+$48.00
 
-Default Title - $67
+Default Title - $48
 
 ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/VBA_SEAL_HQ_-_transparent_background_1.png?crop=center&height=85&v=1717163115&width=85)](https://www.100percentpure.com/products/vitamin-c-serum)
 
-[24% off
+[25% off
 
 ![vitamin-c-serum](https://www.100percentpure.com/cdn/shop/files/1FMVCS_Vitamin_C_Serum_Primary_239x254.jpg?v=1695399627)](https://www.100percentpure.com/products/vitamin-c-serum)
 
@@ -452,9 +452,9 @@ ADD TO TOTE
 
 1419 reviews (1419)
 
-$61.00 $81.00
+$43.50 $58.00
 
-Default Title - $61
+Default Title - $43.50
 
 ADD TO TOTE
 
@@ -466,9 +466,9 @@ ADD TO TOTE
 
 186 reviews (187)
 
-$81.00
+$58.00
 
-Default Title - $81
+Default Title - $58
 
 ADD TO TOTE
 
@@ -480,9 +480,9 @@ ADD TO TOTE
 
 5288 reviews (5288)
 
-$39.00 $39.00
+$28.00 $28.00
 
-Blackberry - $39 Blueberry - $39 Dark Chocolate - $39 Black Tea - $39
+Blackberry - $28 Blueberry - $28 Dark Chocolate - $28 Black Tea - $28
 
 Blueberry
 
@@ -956,7 +956,7 @@ Albania (ALL L) Andorra (EUR €) Austria (EUR €) Belgium (EUR €) Bosnia & H
 
 Update country/region
 
-(CAD $)
+(USD $)
 
 * [Albania (ALL L)](#)
 * [Andorra (EUR €)](#)
