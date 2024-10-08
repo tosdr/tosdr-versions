@@ -846,16 +846,6 @@ Sök Meny
             
         * [Påverkansarbete](https://www.svenskakyrkan.se/vart-stallningstagande)
             
-        * [En värld av grannar](https://www.svenskakyrkan.se/migration/envarldavgrannar)
-            
-            * [Om programmet](https://www.svenskakyrkan.se/migration/envarldavgrannar/om-programmet)
-                
-                * [Teologisk grund](https://www.svenskakyrkan.se/migration/envarldavgrannar/teologisk-grund)
-                    
-            * [Principer för samverkan](https://www.svenskakyrkan.se/principer-for-samverkan)
-                
-            * [Råg i ryggen – en utställning](https://www.svenskakyrkan.se/migration/envarldavgrannar/rag-i-ryggen)
-                
     * [Minoriteter](https://www.svenskakyrkan.se/minoritet)
         
         * [Finska](https://www.svenskakyrkan.se/finska)
@@ -1518,6 +1508,8 @@ Om du har frågor eller klagomål som gäller hur din eller någon annan försam
 Om du inte skulle vara nöjd med hur vi hanterat din begäran har du alltid rätt framföra klagomål till [Integritetsskyddsmyndigheten.](https://www.imy.se/)
 
 Tillbaka till toppen Tillbaka till innehållet
+
+Uppdaterad: 28 juni 2023
 
 Synpunkter eller frågor på sidans innehåll?
 -------------------------------------------
