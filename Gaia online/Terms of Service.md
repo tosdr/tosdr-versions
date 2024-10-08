@@ -13,13 +13,13 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-b9f5b53f6636cd4be251e708d6196bc3c45349c11e44b1343baae250a6f25bf4c45349c11e44b1343baae250a6f25bf4
+caa4a1a5c385a98f67d7ede96acdd24c7665840a52736ece4e396f9175e9b9f67665840a52736ece4e396f9175e9b9f6
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
 * [GCash](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpayments%2F%3F_gaia_t_%3D8608)
 
-* [Shops !](https://www.gaiaonline.com/market/)
+* [Shops](https://www.gaiaonline.com/market/)
 
 * [Forums](https://www.gaiaonline.com/forum/)
 
@@ -328,6 +328,10 @@ Get Items
     
     fabulous finds for the thrifty spender
     
+* [Seasonal Styles](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fsale)
+    
+    Direct Sale
+    
 * [Gaia Merchandise](https://www.redbubble.com/people/Gaia-online/shop)
     
     real life Gaia merchandise
@@ -335,9 +339,9 @@ Get Items
 
 More Items
 
-* [Deals & New Items](https://www.gaiaonline.com/deals)
+* [Deals & New Items](https://www.gaiaonline.com/deals/)
     
-    1 deal & 1 new item released!
+    Find new items, and discounts
     
 * [Premium Items](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fpremiumitems%2F)
     
@@ -531,4 +535,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/world/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1728331533)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1728352779)
