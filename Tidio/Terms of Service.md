@@ -66,7 +66,7 @@ Features
 
 Resources
 
-[Help Desk Checklist](https://www.tidio.com/playbooks/help-desk-checklist/)
+[Help Desk Checklist](https://www.tidio.com/resources/ebooks/help-desk-checklist/)
 
 [Best Practices](https://www.tidio.com/blog/help-desk-best-practices/)
 
@@ -78,13 +78,13 @@ Flows
 
 Playbooks
 
-[Replicate In-store Shopping Online](https://www.tidio.com/playbooks/in-store-experiences-online-ebook/)
+[Replicate In-store Shopping Online](https://www.tidio.com/resources/ebooks/in-store-experiences-online-ebook/)
 
-[Win Leads and Sales with Automation & AI](https://www.tidio.com/playbooks/sales-automation-ebook/)
+[Win Leads and Sales with Automation & AI](https://www.tidio.com/resources/ebooks/sales-automation-ebook/)
 
 Ecommerce hub
 
-[Flows ROI Calculator](https://www.tidio.com/calculators/tidio-roi/)
+[Flows ROI Calculator](https://www.tidio.com/resources/calculators/tidio-roi/)
 
 [Sales Tactics for Ecommerce Growth](https://www.tidio.com/blog/ecommerce-growth-strategy/)
 
@@ -168,7 +168,7 @@ Features
 
 Resources
 
-[Help Desk Checklist](https://www.tidio.com/playbooks/help-desk-checklist/)
+[Help Desk Checklist](https://www.tidio.com/resources/ebooks/help-desk-checklist/)
 
 [Best Practices](https://www.tidio.com/blog/help-desk-best-practices/)
 
@@ -182,13 +182,13 @@ Boost your lead gen and sales funnels with Flows - no-code automation paths that
 
 Playbooks
 
-[Replicate In-store Shopping Online](https://www.tidio.com/playbooks/in-store-experiences-online-ebook/)
+[Replicate In-store Shopping Online](https://www.tidio.com/resources/ebooks/in-store-experiences-online-ebook/)
 
-[Win Leads and Sales with Automation & AI](https://www.tidio.com/playbooks/sales-automation-ebook/)
+[Win Leads and Sales with Automation & AI](https://www.tidio.com/resources/ebooks/sales-automation-ebook/)
 
 Ecommerce hub
 
-[Flows ROI Calculator](https://www.tidio.com/calculators/tidio-roi/)
+[Flows ROI Calculator](https://www.tidio.com/resources/calculators/tidio-roi/)
 
 [Sales Tactics for Ecommerce Growth](https://www.tidio.com/blog/ecommerce-growth-strategy/)
 
@@ -318,15 +318,15 @@ Featured Guide
 
 ###### 2024 Holiday Customer Service Blueprint
 
-Prepare your business for the holiday season. Discover how to awe shoppers with stellar customer service during peak season.](https://www.tidio.com/playbooks/customer-service-automation-guide/)
+Prepare your business for the holiday season. Discover how to awe shoppers with stellar customer service during peak season.](https://www.tidio.com/resources/ebooks/customer-service-automation-guide/)
 
 Playbooks
 
-[Replicate In-store Shopping Online](https://www.tidio.com/playbooks/in-store-experiences-online-ebook/)
+[Replicate In-store Shopping Online](https://www.tidio.com/resources/ebooks/in-store-experiences-online-ebook/)
 
-[How to Leverage AI in Customer Service](https://www.tidio.com/playbooks/ai-assisted-customer-service-ebook/)
+[How to Leverage AI in Customer Service](https://www.tidio.com/resources/ebooks/ai-assisted-customer-service-ebook/)
 
-[Win Leads and Sales with Automation & AI](https://www.tidio.com/playbooks/sales-automation-ebook/)
+[Win Leads and Sales with Automation & AI](https://www.tidio.com/resources/ebooks/sales-automation-ebook/)
 
 [See all Playbooks](https://www.tidio.com/resources/ebooks/)
 
@@ -334,7 +334,7 @@ Guides
 
 [Sales Tactics for Ecommerce Growth](https://www.tidio.com/blog/ecommerce-growth-strategy/)
 
-[The Successful Help Desk Checklist](https://www.tidio.com/playbooks/help-desk-checklist/)
+[The Successful Help Desk Checklist](https://www.tidio.com/resources/ebooks/help-desk-checklist/)
 
 Resources
 
@@ -342,7 +342,7 @@ Resources
 
 [Podcasts](https://www.tidio.com/resources/podcasts/)
 
-[ROI Calculator](https://www.tidio.com/calculators/tidio-roi/)
+[ROI Calculator](https://www.tidio.com/resources/calculators/tidio-roi/)
 
 [Tidio Academy](https://academy.tidio.com/)
 
@@ -484,15 +484,15 @@ Featured Guide
 
 ###### 2024 Holiday Customer Service Blueprint
 
-Prepare your business for the holiday season. Discover how to awe shoppers with stellar customer service during peak season.](https://www.tidio.com/playbooks/customer-service-automation-guide/)
+Prepare your business for the holiday season. Discover how to awe shoppers with stellar customer service during peak season.](https://www.tidio.com/resources/ebooks/customer-service-automation-guide/)
 
 Playbooks
 
-[Replicate In-store Shopping Online](https://www.tidio.com/playbooks/in-store-experiences-online-ebook/)
+[Replicate In-store Shopping Online](https://www.tidio.com/resources/ebooks/in-store-experiences-online-ebook/)
 
-[How to Leverage AI in Customer Service](https://www.tidio.com/playbooks/ai-assisted-customer-service-ebook/)
+[How to Leverage AI in Customer Service](https://www.tidio.com/resources/ebooks/ai-assisted-customer-service-ebook/)
 
-[Win Leads and Sales with Automation & AI](https://www.tidio.com/playbooks/sales-automation-ebook/)
+[Win Leads and Sales with Automation & AI](https://www.tidio.com/resources/ebooks/sales-automation-ebook/)
 
 [See all Playbooks](https://www.tidio.com/resources/ebooks/)
 
@@ -500,7 +500,7 @@ Guides
 
 [Sales Tactics for Ecommerce Growth](https://www.tidio.com/blog/ecommerce-growth-strategy/)
 
-[The Successful Help Desk Checklist](https://www.tidio.com/playbooks/help-desk-checklist/)
+[The Successful Help Desk Checklist](https://www.tidio.com/resources/ebooks/help-desk-checklist/)
 
 Resources
 
@@ -508,7 +508,7 @@ Resources
 
 [Podcasts](https://www.tidio.com/resources/podcasts/)
 
-[ROI Calculator](https://www.tidio.com/calculators/tidio-roi/)
+[ROI Calculator](https://www.tidio.com/resources/calculators/tidio-roi/)
 
 [Tidio Academy](https://academy.tidio.com/)
 
