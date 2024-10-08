@@ -265,8 +265,8 @@ Don't Miss
 Don't Miss:
 -----------
 
-* [LATEST On Helene](https://www.gpb.org/emergency-preparedness)
-* [CELEBRATE Jimmy Carter's 100th](https://www.gpb.org/jimmycarter100)
+* [Hurricane Milton Latest](https://www.gpb.org/emergency-preparedness)
+* [WATCH: GPB - ALL ARTS LIVE](https://www.allarts.org/)
 * [TV Highlights This Week](https://www.gpb.org/blogs/topic/television)
 
  [![Listen Live](/themes/custom/ga_forest/assets/images/icons/interaction/listen/listen.svg) Listen Live](https://player.streamguys.com/gpb/sgplayer3/index.php)[![Watch Live](/themes/custom/ga_forest/assets/images/icons/interaction/play/play--white.svg) Watch Live](https://www.gpb.org/television/live)
