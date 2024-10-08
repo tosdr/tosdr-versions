@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Betrug beim Online-Banking: Fiese Fallen, aber fast immer muss die Bank zahlen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Betrug beim Online-Banking - Fiese Fallen, aber fast immer muss die Bank zahlen")
-* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
-* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Betrug beim Online-Banking: Fiese Fallen, aber fast immer muss die Bank zahlen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Betrug beim Online-Banking - Fiese Fallen, aber fast immer muss die Bank zahlen")
-* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
-* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Betrug beim Online-Banking: Fiese Fallen, aber fast immer muss die Bank zahlen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Betrug beim Online-Banking - Fiese Fallen, aber fast immer muss die Bank zahlen")
-* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
-* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wohn­gebäude­versicherung: Enorme Preis­sprünge für Haus­besitzer](https://www.test.de/Wohngebaeudeversicherung-Enorme-Preisspruenge-fuer-Hausbesitzer-5935351-0/ "Wohngebäudeversicherung - Enorme Preissprünge für Hausbesitzer")
-* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Betrug beim Online-Banking: Fiese Fallen, aber fast immer muss die Bank zahlen](https://www.test.de/Online-Banking-Wie-Sie-Betrueger-ausbremsen-6149442-0/ "Betrug beim Online-Banking - Fiese Fallen, aber fast immer muss die Bank zahlen")
-* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
-* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
+* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
+* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
 
 Service Stiftung Warentest
 
