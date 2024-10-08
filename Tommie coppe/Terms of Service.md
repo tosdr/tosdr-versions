@@ -1,34 +1,30 @@
 [Skip to main content](#main-content)
 
-Sale on Sale! Extra 10% off Markdowns DETAILS
+Up To 50% Savings! DETAILS
 
-Save up to $75 on Infrared Therapy DETAILS
-
-SALE ON SALE
+UP TO 50% SAVINGS!
 
 Close the Modal
 
-#### EXTRA 10% OFF MARKDOWNS!
+#### Get Ahead of the Holidays!
 
-**Use Code: BONUS10**
+[SHOP NOW](https://www.tommiecopper.com/special/holiday-shopping/)
 
-[SHOP MEN](https://www.tommiecopper.com/men/featured/mens-markdowns/)    [SHOP WOMEN](https://www.tommiecopper.com/women/featured/womens-markdowns/)
+Offer valid 10/8/2024 8AM ET - 10/11/2024 6AM ET.
 
-Offer valid 10/7/2024 6AM ET - 10/8/2024 6AM ET.
+Holiday Shopping discounts priced as marked. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
-To receive extra 10% off Markdowns, must enter code BONUS10 at checkout. Offer only valid on Markdowns products. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-INFRARED & RED LIGHT THERAPY
+FREE GIFT WITH PURCHASE
 
 Close the Modal
 
-#### Save Up To $75 on Infrared & Red Light Therapy Devices
+#### Free Baseball Hat on Orders $150+
 
-[SHOP NOW](https://www.tommiecopper.com/featured/infrared-red-light-devices/)
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 10/7/2024 6AM ET - 10/8/2024 6AM ET.
+Offer valid 5/6/2024 8AM EST - 5/7/2024 6AM ET.
 
-Infrared & Red Light Therapy Device discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Free Baseball Hat automatically applied on orders $100+. Order subtotal must reach $150 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
