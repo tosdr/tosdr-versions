@@ -191,11 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![USMA Class of 1975, Company A-4](https://cdn.returningveterans.org/images/honor/1975_A_4.jpg)  
+![Ed Castellani](https://cdn.returningveterans.org/images/honor/9_Ed_Castellani_AR.png)  
 
-**USMA Class of 1975, Company A-4**  
+**In Honor of Ed Castellani**  
 United States Army  
-Submitted by John Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/08/24 - 2:24:28  
+Printed 10/08/24 - 8:30:41  
 © 2024 Returning Veterans Project
