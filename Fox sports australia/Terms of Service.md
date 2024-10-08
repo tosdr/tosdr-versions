@@ -30,12 +30,12 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 2 Session 2
+    Day 2
     
     |     |     |
     | --- | --- |
-    | PAK | 6 /406 |
-    | ENG |     |
+    | PAK | 556 |
+    | ENG | 1 /96 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250201)
 * [Women's T20 WC
@@ -68,7 +68,7 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | WA  | 4 /164 |
+    | WA  | 7 /319 |
     | QLD |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250103)
@@ -98,12 +98,12 @@ FOX SCORES
     
 * [AFL Women's
     
-    8/10 19:15 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | STK | –   |
-    | GWS | –   |
+    | STK | 7.7.49 |
+    | GWS | 2.3.15 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240701)
 * NFL
@@ -126,16 +126,6 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | CLE | 0   |
-    | DET | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002A78C8)
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
     | NYY | 2   |
     | KC  | 4   |
     
@@ -150,6 +140,16 @@ FOX SCORES
     | PHI | –   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002C9540)
+* [MLB
+    
+    9/10 12:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SD  | –   |
+    | LAD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400400297268)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
