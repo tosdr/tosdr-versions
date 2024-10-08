@@ -310,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Michael Jackson wanted to make Harry Potter into a musical.
+The Sorting Hat took 5 and a half minutes to figure out whether to put Minerva McGonagall in Gryffindor or Ravenclaw.
 
 ### Potter History
 
-September 17, 2007 – Warner Bros. confirms various details for the Harry Potter and the Order of the Phoenix DVD, including its December 11 release in the United States.
+July 12, 2011 – The Harry Potter and the Deathly Hallows – Part 2 video game is released in North America.
 
 ### Potter Quote
 
-“Wangoballwime?”
+“Make way for the Heir of Slytherin, seriously evil wizard coming through. . . .”
 
 [](#)
 
