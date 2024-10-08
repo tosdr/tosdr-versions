@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [!['Why Should I Throw This Plastic Ring Into The River' Is Another WTMMP Meme Classic](https://i.kym-cdn.com/featured_items/icons/wide/000/026/157/cover9.jpg "'Why Should I Throw This Plastic Ring Into The River' Is Another WTMMP Meme Classic")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/166/Krista_Sudmalis_Interview_Banner_image_copy.jpg "'GigaChad' Creator And Fitness Photographer Krista Sudmalis On Making One Of The Most Viral Memes Of All Time")
     
-    'Why Should I Throw This Plastic Ring Into The River' Is Another WTMMP Meme Classic](https://knowyourmeme.com/memes/why-i-should-throw-this-plastic-six-pack-ring-into-the-river)
+    'GigaChad' Creator And Fitness Photographer Krista Sudmalis On Making One Of The Most Viral Memes Of All Time](https://knowyourmeme.com/editorials/interviews/gigachad-creator-and-fitness-photographer-krista-sudmalis-on-making-one-of-the-most-viral-memes-of-all-time)
     
-* [![Weird Twitter Slang Term 'Goblin Mode' Makes Its Way Into Kanye West and Julia Fox Meme, Confusing World](https://i.kym-cdn.com/featured_items/icons/wide/000/026/156/nazedo-a-goblin-1-575cd112-oohc.jpeg "Happy Anniversary To Former Word Of The Year 'Goblin Mode'")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/165/still_water.jpg "What Is 'Still Water' And Why Are People Posting TikToks About Being Scared Of It? The Brainrot Trend Explained")
     
-    Happy Anniversary To Former Word Of The Year 'Goblin Mode'](https://knowyourmeme.com/memes/goblin-mode)
+    What Is 'Still Water' And Why Are People Posting TikToks About Being Scared Of It? The Brainrot Trend Explained](https://knowyourmeme.com/editorials/guides/what-is-still-water-and-why-are-people-posting-tiktoks-about-being-scared-of-it-the-brainrot-trend-explained)
     
-* [![Reminder: Bait Used To Be Believable](https://i.kym-cdn.com/featured_items/icons/wide/000/026/155/cover8.jpg "Reminder: Bait Used To Be Believable")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/164/fp33.jpg "What Is The 'I Like My Cheese Drippy, Bruh' Meme? Logan Paul's Viral 'Lunchly vs. Lunchables' Memes Explained")
     
-    Reminder: Bait Used To Be Believable](https://knowyourmeme.com/memes/bait-used-to-be-believable)
+    What Is The 'I Like My Cheese Drippy, Bruh' Meme? Logan Paul's Viral 'Lunchly vs. Lunchables' Memes Explained](https://knowyourmeme.com/editorials/guides/what-is-the-i-like-my-cheese-drippy-bruh-meme-logan-pauls-viral-lunchly-vs-lunchables-memes-explained)
     
-* [![Dramatic Fan Dub Of Spider-Man Comic Becomes Backing Track For Locking In On TikTok](https://i.kym-cdn.com/featured_items/icons/wide/000/026/154/Screenshot_2024-10-04_at_4.14.18_PM.jpg "Dramatic Fan Dub Of Spider-Man Comic Becomes Backing Track For Locking In On TikTok")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/163/cover14.jpg "What Is A 'Cuckstoel' And Who Started Memes About Lonely Seats On Public Transport? The Dutch Meme Explained")
     
-    Dramatic Fan Dub Of Spider-Man Comic Becomes Backing Track For Locking In On TikTok](https://knowyourmeme.com/memes/but-peter-youre-going-to-die-doing-this)
+    What Is A 'Cuckstoel' And Who Started Memes About Lonely Seats On Public Transport? The Dutch Meme Explained](https://knowyourmeme.com/editorials/guides/what-is-a-cuckstoel-and-who-started-memes-about-lonely-seats-on-public-transport-the-dutch-meme-explained)
     
-* [![Winter Arc refers to a fitness challenge where people spend their winters bulking and gaining muscle and then cutting the fat to look fit and shredded by summer. The challenge can be traced back to the year 2022. However, the phrase "winter arc" only received meme attention in 2024, with internet users mocking those who treat the challenge like a "double xp event."](https://i.kym-cdn.com/featured_items/icons/wide/000/026/153/winter_arc.jpg "The 'Winter Arc' Fitness Challenge Has Been Overrun With Posers Who Treat It Like A Double XP Event")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/162/1b9f1-17282094418520-1920.jpeg "'Uzumaki' Anime Breaks Fans Hearts With 'Heavy Drop' In Animation Quality In Episode 2")
     
-    The 'Winter Arc' Fitness Challenge Has Been Overrun With Posers Who Treat It Like A Double XP Event](https://knowyourmeme.com/memes/winter-arc)
+    'Uzumaki' Anime Breaks Fans Hearts With 'Heavy Drop' In Animation Quality In Episode 2](https://knowyourmeme.com/news/uzumaki-anime-breaks-fans-hearts-with-heavy-drop-in-animation-quality-in-episode-2)
     
 
 ##### Also Trending:
 
-[Elon Musk Jumping](https://knowyourmeme.com/memes/elon-musk-jumping "Elon Musk Jumping") [Elon Musk Kubrick Stare](https://knowyourmeme.com/memes/elon-musk-kubrick-stare "Elon Musk Kubrick Stare")
+[Elon Musk Kubrick Stare](https://knowyourmeme.com/memes/elon-musk-kubrick-stare "Elon Musk Kubrick Stare") [Hurricane Milton](https://knowyourmeme.com/memes/events/hurricane-milton "Hurricane Milton") [Elon Musk Jumping](https://knowyourmeme.com/memes/elon-musk-jumping "Elon Musk Jumping")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Word Up! You must login or signup first!
+### Howdy! You must login or signup first!
 
 |     |     |
 | --- | --- |
