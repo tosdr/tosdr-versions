@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/bright-light-therapy-lamps-for-non-seasonal-depression-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/breast-cancer-rises-women-under-50-1440x810.png)
 
-Bright Light Therapy May Help Depression Year-Round](https://www.everydayhealth.com/mental-health-conditions/bright-light-therapy-may-help-depression-year-round/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Breast Cancer Diagnoses Continue to Rise for Women Under 50](https://www.everydayhealth.com/cancer/breast-cancer-diagnoses-continue-to-rise-for-women-under-fifty/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/an-egg-day-lower-dementia-risk-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/one-sugary-soda-day-raise-risk-diseases-1440x810.jpg)
 
-An Egg a Day Might Keep Dementia Away](https://www.everydayhealth.com/neurological-disorders/egg-a-day-might-keep-dementia-away/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Just One Soda a Day May Raise the Risk of Heart Disease, Cancer, and Diabetes](https://www.everydayhealth.com/diet-nutrition/one-soda-a-day-may-raise-risk-of-heart-disease-cancer-diabetes/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/dupixent-approval-treat-copd-pdufa-1440x810.jpg)
 
