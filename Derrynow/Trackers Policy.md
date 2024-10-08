@@ -266,34 +266,6 @@ Most Popular
 [PICTURES: Appreciation Night held for well-known Derry community worker Peter ‘Duck’ McDonald](https://www.derrynow.com/news/pictures---videos/1623845/pictures-appreciation-night-held-for-well-known-derry-community-worker-peter-duck-mcdonald.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal")](https://www.derrynow.com/news/pictures---videos/1623812/pictures-all-smiles-as-st-joseph-s-boys-school-celebrate-annual-formal.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal](https://www.derrynow.com/news/pictures---videos/1623812/pictures-all-smiles-as-st-joseph-s-boys-school-celebrate-annual-formal.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner")](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man facing series of drugs charges returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man facing series of drugs charges returned for trial")](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man facing series of drugs charges returned for trial](https://www.derrynow.com/news/local-news/1623667/derry-man-facing-series-of-drugs-charges-returned-for-trial.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![High levels of air pollution found at three Derry locations in a new report](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "High levels of air pollution found at three Derry locations in a new report")](https://www.derrynow.com/news/derry-news/1623521/high-levels-of-air-pollution-found-at-three-derry-locations-in-a-new-report.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[High levels of air pollution found at three Derry locations in a new report](https://www.derrynow.com/news/derry-news/1623521/high-levels-of-air-pollution-found-at-three-derry-locations-in-a-new-report.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Woman jailed for her part in an incident were a dog killed another dog has sentence reduced](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman jailed for her part in an incident were a dog killed another dog has sentence reduced")](https://www.derrynow.com/news/local-news/1623775/woman-jailed-for-her-part-in-an-incident-were-a-dog-killed-another-dog-has-sentence-reduced.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -301,19 +273,12 @@ Most Popular
 [Woman jailed for her part in an incident were a dog killed another dog has sentence reduced](https://www.derrynow.com/news/local-news/1623775/woman-jailed-for-her-part-in-an-incident-were-a-dog-killed-another-dog-has-sentence-reduced.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![A5 road closure: Murder investigation launched following death of man in Strabane](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A5 road closure: Murder investigation launched following death of man in Strabane")](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
+[![Dublin-bound Aer Lingus flight makes dramatic emergency landing after engine failure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dublin-bound Aer Lingus flight makes dramatic emergency landing after engine failure")](https://www.derrynow.com/news/national-news/1624622/dublin-bound-aer-lingus-flight-makes-dramatic-emergency-landing-after-engine-failure.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[A5 road closure: Murder investigation launched following death of man in Strabane](https://www.derrynow.com/news/local-news/1623770/a5-road-closure-murder-investigation-launched-following-death-of-man-in-strabane.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![A5 Road between Ballymagorry and Strabane remains closed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A5 Road between Ballymagorry and Strabane remains closed")](https://www.derrynow.com/news/local-news/1623582/a5-road-between-ballymagorry-and-strabane-remains-closed.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[A5 Road between Ballymagorry and Strabane remains closed](https://www.derrynow.com/news/local-news/1623582/a5-road-between-ballymagorry-and-strabane-remains-closed.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Dublin-bound Aer Lingus flight makes dramatic emergency landing after engine failure](https://www.derrynow.com/news/national-news/1624622/dublin-bound-aer-lingus-flight-makes-dramatic-emergency-landing-after-engine-failure.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Woman who admitted possessing pregablin that resulted in the death of a man begins sentence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman who admitted possessing pregablin that resulted in the death of a man begins sentence")](https://www.derrynow.com/news/local-news/1623773/woman-who-admitted-possessing-pregablin-that-resulted-in-the-death-of-a-man-begins-sentence.html)
 
@@ -322,18 +287,76 @@ Most Popular
 [Woman who admitted possessing pregablin that resulted in the death of a man begins sentence](https://www.derrynow.com/news/local-news/1623773/woman-who-admitted-possessing-pregablin-that-resulted-in-the-death-of-a-man-begins-sentence.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man charged with possessing a AKM rifle granted bail](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possessing a AKM rifle granted bail")](https://www.derrynow.com/news/local-news/1623705/derry-man-charged-with-possessing-a-akm-rifle-granted-bail.html)
+[![McMonagle employed directly by O’Neill when he worked at Assembly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "McMonagle employed directly by O’Neill when he worked at Assembly")](https://www.derrynow.com/news/local-news/1623914/mcmonagle-employed-directly-by-oneill-when-he-worked-at-assembly.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man charged with possessing a AKM rifle granted bail](https://www.derrynow.com/news/local-news/1623705/derry-man-charged-with-possessing-a-akm-rifle-granted-bail.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[McMonagle employed directly by O’Neill when he worked at Assembly](https://www.derrynow.com/news/local-news/1623914/mcmonagle-employed-directly-by-oneill-when-he-worked-at-assembly.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Throwback Tuesday: Out and About @ Buzz Bar (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Buzz Bar (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1623666/throwback-tuesday-out-and-about-buzz-bar-2014.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ Buzz Bar (2014)](https://www.derrynow.com/story-telling/pictures---videos/1623666/throwback-tuesday-out-and-about-buzz-bar-2014.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1623993/derry-death-notices-tuesday-october-8-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, October 8 2024](https://www.derrynow.com/news/deaths/1623993/derry-death-notices-tuesday-october-8-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry legends to play for Palestine next Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry legends to play for Palestine next Sunday")](https://www.derrynow.com/news/derry-sport/1623918/derry-legends-to-play-for-palestine-next-sunday.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry legends to play for Palestine next Sunday](https://www.derrynow.com/news/derry-sport/1623918/derry-legends-to-play-for-palestine-next-sunday.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man who threatened to burn mother and sister's home and cut their throats jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who threatened to burn mother and sister's home and cut their throats jailed")](https://www.derrynow.com/news/local-news/1624624/derry-man-who-threatened-to-burn-mother-and-sister-s-home-and-cut-their-throats-jailed.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man who threatened to burn mother and sister's home and cut their throats jailed](https://www.derrynow.com/news/local-news/1624624/derry-man-who-threatened-to-burn-mother-and-sister-s-home-and-cut-their-throats-jailed.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry man charged with breaching his bail conditions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man charged with breaching his bail conditions")](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry man charged with breaching his bail conditions](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Civic reception for long serving local Paramedic John McMenamin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Civic reception for long serving local Paramedic John McMenamin")](https://www.derrynow.com/news/pictures---videos/1624777/in-pictures-civic-reception-for-long-serving-local-paramedic-john-mcmenamin.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Civic reception for long serving local Paramedic John McMenamin](https://www.derrynow.com/news/pictures---videos/1624777/in-pictures-civic-reception-for-long-serving-local-paramedic-john-mcmenamin.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![March and rally held in Derry to mark first anniversary of Gaza conflict](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "March and rally held in Derry to mark first anniversary of Gaza conflict")](https://www.derrynow.com/news/pictures---videos/1624606/in-pictures-hundreds-march-through-derry-to-mark-first-anniversary-of-gaza-conflict.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[March and rally held in Derry to mark first anniversary of Gaza conflict](https://www.derrynow.com/news/pictures---videos/1624606/in-pictures-hundreds-march-through-derry-to-mark-first-anniversary-of-gaza-conflict.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Throwback Tuesday: Out and About @ Buzz Bar (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Buzz Bar (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1623666/throwback-tuesday-out-and-about-buzz-bar-2014.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ Buzz Bar (2014)](https://www.derrynow.com/story-telling/pictures---videos/1623666/throwback-tuesday-out-and-about-buzz-bar-2014.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Official launch of Derry Youth and Community Workshop Youth (SKY) Project](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Official launch of Derry Youth and Community Workshop Youth (SKY) Project")](https://www.derrynow.com/story-telling/pictures---videos/1624100/in-pictures-official-launch-of-derry-youth-and-community-workshop-youth-sky-project.html)
 
@@ -385,27 +408,6 @@ Derry City fans celebrate at Dalymount Park. Pics by Stephen McCarthy/ Sportsfil
 
 [IN PICTURES: Derry City celebrations at Dalymount Park](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![WATCH: Children In Crossfire (1974)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Children In Crossfire (1974)")](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[WATCH: 'Children In Crossfire' documentary from Derry's Creggan Eestate (1974)](https://www.derrynow.com/video/pictures---videos/1622227/watch-children-in-crossfire-documentary-from-derry-s-creggan-eestate-1974.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)")](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[MEMORY LANE: Making the news . . . from the Derry News archives (October 2008)](https://www.derrynow.com/story-telling/pictures---videos/1622280/memory-lane-making-the-news-from-the-derry-news-archives-october-2008.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: xxx template](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: xxx template")](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
-
-[Property](https://www.derrynow.com/section/1232/property)
-
-[PICTURES: Stylish family Derry home hits the market](https://www.derrynow.com/news/property/1621969/pictures-stylish-family-derry-home-hits-the-market.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -507,51 +509,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1623993/derry-death-notices-tuesday-october-8-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, October 8 2024](https://www.derrynow.com/news/deaths/1623993/derry-death-notices-tuesday-october-8-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![March Against Genocide](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "March Against Genocide")](https://www.derrynow.com/news/county-derry-post/1624089/march-against-genocide-organised-for-bellaghy-on-oct-8.html)
-
-March Against Genocide
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[March Against Genocide organised for Bellaghy on Oct 8](https://www.derrynow.com/news/county-derry-post/1624089/march-against-genocide-organised-for-bellaghy-on-oct-8.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Oktoberfest Pennyburn launches this Friday](https://www.derrynow.com/resizer/165/93/true/2024_10_07/Capture-1728296131590.JPG--.JPG?1728296131618 "Oktoberfest Pennyburn launches this Friday")](https://www.derrynow.com/news/local-news/1623618/oktoberfest-pennyburn-launches-this-friday.html)
-
-Paddy 'the Dagger' Mc Donnell will perform his standup at our comedy lab on October 19
+[![Cabinet ministers updated about safety of Irish peacekeepers in Lebanon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cabinet ministers updated about safety of Irish peacekeepers in Lebanon")](https://www.derrynow.com/news/local-news/1624643/cabinet-ministers-updated-about-safety-of-irish-peacekeepers-in-lebanon.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Oktoberfest Pennyburn launches this Friday](https://www.derrynow.com/news/local-news/1623618/oktoberfest-pennyburn-launches-this-friday.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
+[Cabinet ministers updated about safety of Irish peacekeepers in Lebanon](https://www.derrynow.com/news/local-news/1624643/cabinet-ministers-updated-about-safety-of-irish-peacekeepers-in-lebanon.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['We're here for everyone' - Derry Meet Ups celebrates six months of building community connections](https://www.derrynow.com/resizer/165/93/true/2024_10_07/MixCollage-07-Oct-2024-11-23-AM-8205-1728296727905.jpg--.jpg?1728296727971 "'We're here for everyone' - Derry Meet Ups celebrates six months of building community connections")](https://www.derrynow.com/news/local-news/1623634/we-re-here-for-everyone-derry-meet-ups-celebrates-six-months-of-community-events.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-['We're here for everyone' - Derry Meet Ups celebrates six months of building community connections](https://www.derrynow.com/news/local-news/1623634/we-re-here-for-everyone-derry-meet-ups-celebrates-six-months-of-community-events.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Deputy First Minister ‘has confidence’ in ICRIR chief Sir Declan Morgan](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_07/1728311124118_0.jpg--.jpg?1728311124346 "Deputy First Minister ‘has confidence’ in ICRIR chief Sir Declan Morgan")](https://www.derrynow.com/news/local-news/1623951/deputy-first-minister-has-confidence-in-icrir-chief-sir-declan-morgan.html)
+[![£3.5 million water pumping station completed to enhance water quality in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£3.5 million water pumping station completed to enhance water quality in Derry")](https://www.derrynow.com/news/local-news/1624638/3-5-million-water-pumping-station-completed-to-enhance-water-quality-in-derry.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Deputy First Minister ‘has confidence’ in ICRIR chief Sir Declan Morgan](https://www.derrynow.com/news/local-news/1623951/deputy-first-minister-has-confidence-in-icrir-chief-sir-declan-morgan.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[£3.5 million water pumping station completed to enhance water quality in Derry](https://www.derrynow.com/news/local-news/1624638/3-5-million-water-pumping-station-completed-to-enhance-water-quality-in-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry students visit local 'Marine Machine' on waterways tour](https://www.derrynow.com/resizer/165/93/true/2024_10_07/Thornhill_3-1728313502306.JPG--.JPG?1728313504360 "Derry students visit local 'Marine Machine' on waterways tour")](https://www.derrynow.com/news/local-news/1624023/derry-students-visit-local-marine-machine-on-waterways-tour.html)
+[![Call for swift resolution to delays at new housing development on Derry's Buncrana Road](https://www.derrynow.com/resizer/165/93/true/2024_10_08/1000070414-1728386115411.jpg--.jpg?1728386115457 "Call for swift resolution to delays at new housing development on Derry's Buncrana Road")](https://www.derrynow.com/news/local-news/1624635/call-for-swift-resolution-to-delays-at-new-housing-development-on-derry-s-buncrana-road.html)
+
+Templemore Crescent and Faustina Terrace
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry students visit local 'Marine Machine' on waterways tour](https://www.derrynow.com/news/local-news/1624023/derry-students-visit-local-marine-machine-on-waterways-tour.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Call for swift resolution to delays at new housing development on Derry's Buncrana Road](https://www.derrynow.com/news/local-news/1624635/call-for-swift-resolution-to-delays-at-new-housing-development-on-derry-s-buncrana-road.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man who threatened to burn mother and sister's home and cut their throats jailed](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man who threatened to burn mother and sister's home and cut their throats jailed")](https://www.derrynow.com/news/local-news/1624624/derry-man-who-threatened-to-burn-mother-and-sister-s-home-and-cut-their-throats-jailed.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man who threatened to burn mother and sister's home and cut their throats jailed](https://www.derrynow.com/news/local-news/1624624/derry-man-who-threatened-to-burn-mother-and-sister-s-home-and-cut-their-throats-jailed.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry man charged with breaching his bail conditions](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "County Derry man charged with breaching his bail conditions")](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry man charged with breaching his bail conditions](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_08/IDNT_10-10-24_Eddie_2-1728381684214.jpg--.jpg?1728381684744 "Derry City")](https://www.derrynow.com/news/derry-sport/1624542/it-would-be-a-great-boost-to-the-town-derry-thrives-on-winning-trophies.html)
+
+Eddie McCallion made 537 appearances for Derry City.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+["It would be a great boost to the town. Derry thrives on winning trophies."](https://www.derrynow.com/news/derry-sport/1624542/it-would-be-a-great-boost-to-the-town-derry-thrives-on-winning-trophies.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
