@@ -142,7 +142,7 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 [![Jokers Wild. Ray Martine. Credit: ITV](https://cdn.comedy.co.uk/images/library/comedies/300x200/j/jokers_wild_ray_martine.jpg "Jokers Wild. Ray Martine. Credit: ITV")](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/) Features
 
-[Comedy Chronicles: A Hackney diamond: The much-misunderstood Ray Martine](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/)
+[Comedy Chronicles: A Hackney diamond - The much-misunderstood Ray Martine](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/)
 
 [![Alma's Not Normal. Alma Nuthall (Sophie Willan)](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/almas_not_normal_series2.jpg "Alma's Not Normal. Alma Nuthall (Sophie Willan)")](https://www.comedy.co.uk/tv/almas_not_normal/interview/sophie-willan-series2/) TV
 
