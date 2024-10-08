@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Хлеб домашний](https://www.russianfood.com/recipes/recipe.php?rid=36375)
-* [Копчёная свинина способ 16](https://www.russianfood.com/recipes/recipe.php?rid=85361)
 * [Хлеб белый бездрожжевой, на закваске](https://www.russianfood.com/recipes/recipe.php?rid=123371)
 * [Бульон с потрохами](https://www.russianfood.com/recipes/recipe.php?rid=446)
 * [Бульон с клецками из кур](https://www.russianfood.com/recipes/recipe.php?rid=939)
 * [Фрикадельки из свинины с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=1337)
 * [Плов с курицей-2](https://www.russianfood.com/recipes/recipe.php?rid=1548)
-* [Фарш из мяса](https://www.russianfood.com/recipes/recipe.php?rid=3888)
-* [Голубцы по-молдавски](https://www.russianfood.com/recipes/recipe.php?rid=3950)
-* [Тхачэтщипс (бульон с птицей)](https://www.russianfood.com/recipes/recipe.php?rid=4232)
+* [Куриный суп с капустой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=4787)
+* [Куриный суп с омлетом](https://www.russianfood.com/recipes/recipe.php?rid=4804)
+* [Бульон из кур](https://www.russianfood.com/recipes/recipe.php?rid=4867)
+* [Печень куриная в кляре](https://www.russianfood.com/recipes/recipe.php?rid=4877)
+* [Суп из цыпленка по-африкански](https://www.russianfood.com/recipes/recipe.php?rid=4983)
 
 |     |
 | --- |
@@ -472,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(99)
+(165)
