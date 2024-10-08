@@ -276,7 +276,7 @@ Where to Buy
     
     The leading technology for delivering gigabit Internet services
     
-* [HOT DEALS](https://www.tp-link.com/us/promotion/)
+* [HOT DEALS](https://www.tp-link.com/us/promotion)
 * [Community](https://community.tp-link.com/)
     
     [For Home](https://community.tp-link.com/us/home)
@@ -560,7 +560,7 @@ Where to Buy
     * [Solution Partners](https://www.tp-link.com/us/where-to-buy/#Solution%20Partners)
         
     
-* [HOT DEALS](https://www.tp-link.com/us/promotion/)
+* [HOT DEALS](https://www.tp-link.com/us/promotion)
     
 * Community
     
