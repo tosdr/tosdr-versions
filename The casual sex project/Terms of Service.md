@@ -104,6 +104,16 @@ Oct 03 2024
 
 By **[Stephen Eide](https://admin.mi52siterestore.com/person/stephen-eide/)** Read time **20 mins** [Read More](https://admin.mi52siterestore.com/article/mental-health-courts-in-era-of-criminal-justice-reform/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/why-im-so-grateful-to-be-an-american.jpg)[](https://admin.mi52siterestore.com/article/why-im-so-grateful-to-be-an-american-on-this-rosh-hashana/ "Read More")
+
+Commentary Culture Culture & Society, Religion
+
+Oct 04 2024
+
+[Why I’m So Grateful to Be an American on This Rosh Hashana](https://admin.mi52siterestore.com/article/why-im-so-grateful-to-be-an-american-on-this-rosh-hashana/)
+
+By **[Tal Fortgang](https://admin.mi52siterestore.com/person/tal-fortgang/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/why-im-so-grateful-to-be-an-american-on-this-rosh-hashana/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/how_to_balance_the_budget.jpg)[](https://admin.mi52siterestore.com/article/how-to-balance-the-budget/ "Read More")
 
 Commentary Economics Tax & Budget
@@ -133,16 +143,6 @@ Oct 02 2024
 [The Four Forces That Have Shaped the System](https://admin.mi52siterestore.com/article/the-four-forces-that-have-shaped-the-system/)
 
 By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-four-forces-that-have-shaped-the-system/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/americas-disorder-problem.jpg)[](https://admin.mi52siterestore.com/article/americas-disorder-problem/ "Read More")
-
-Commentary Public Safety Crime Control
-
-Oct 01 2024
-
-[America’s Disorder Problem](https://admin.mi52siterestore.com/article/americas-disorder-problem/)
-
-By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/americas-disorder-problem/)
 
 Our Policy Areas
 ----------------
