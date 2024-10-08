@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![incumbency](/assets/logos/SuccessRateContestedGeneral2005-2010.png)](http://www.followthemoney.org/research/institute-research/the-role-of-money-and-incumbency-in-2009-2010-state-elections)
+[![Successful challengers vs. losing incumbents in the US House](/assets/Uploads/cfi1.png)](https://www.followthemoney.org/research/blog/massive-amounts-were-spent-by-the-candidates-and-independent-spenders-in-the-races-that-decided-the-2018-midterms)
 
-The power of incumbency and money.
+Successful challengers vs. losing incumbents in the US House of Representatives, 2006-2018.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
