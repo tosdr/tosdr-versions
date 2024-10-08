@@ -18,7 +18,7 @@
     
 * [News & Events](https://www.atlantafed.org/news)
     
-    [Conferences & Events](https://www.atlantafed.org/news/conferences-and-events) [Press Room](https://www.atlantafed.org/news/press-room) [Speeches](https://www.atlantafed.org/news/press-room)
+    [Conferences & Events](https://www.atlantafed.org/news/conferences-and-events) [Press Room](https://www.atlantafed.org/news/press-room) [Speeches](https://www.atlantafed.org/news/speeches)
     
 * [Education](https://www.atlantafed.org/education)
     
@@ -26,11 +26,11 @@
     
 * [Community Development](https://www.atlantafed.org/community-development)
     
-    [About Us](https://www.atlantafed.org/community-development/about-us) [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools) [Events](https://www.atlantafed.org/community-development/events) [Infographics](https://www.atlantafed.org/community-development/infographics) [Podcasts](https://www.atlantafed.org/community-development/infographics) [Publications](https://www.atlantafed.org/community-development/podcasts) [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
+    [About Us](https://www.atlantafed.org/community-development/about-us) [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools) [Events](https://www.atlantafed.org/community-development/events) [Infographics](https://www.atlantafed.org/community-development/infographics) [Podcasts](https://www.atlantafed.org/community-development/podcasts) [Publications](https://www.atlantafed.org/community-development/publications) [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
     
 * [About the Fed](https://www.atlantafed.org/about)
     
-    [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed) [Careers](https://www.atlantafed.org/about/careers) [FAQ](https://www.atlantafed.org/about/faq) [The Fed Explained](https://www.atlantafed.org/education/teach/infographic-posters/the-fed-explained) [Federal Reserve System](https://www.atlantafed.org/about/federal-reserve-system) [Holidays](https://www.atlantafed.org/about/holidays) [Diversity, Equity, & Inclusion](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion) [Transparency](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion) [Publications](https://www.atlantafed.org/about/publications) [Visit](https://www.atlantafed.org/about/visit)
+    [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed) [Careers](https://www.atlantafed.org/about/careers) [FAQ](https://www.atlantafed.org/about/faq) [The Fed Explained](https://www.atlantafed.org/education/teach/infographic-posters/the-fed-explained) [Federal Reserve System](https://www.atlantafed.org/about/federal-reserve-system) [Holidays](https://www.atlantafed.org/about/holidays) [Diversity, Equity, & Inclusion](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion) [Transparency](https://www.atlantafed.org/about/atlantafed/transparency) [Publications](https://www.atlantafed.org/about/publications) [Visit](https://www.atlantafed.org/about/visit)
     
 
         
@@ -51,7 +51,7 @@ Menutoggle menu
     * [Research REIN Atlanta Request Information](https://www.atlantafed.org/forms/research/rein-atlanta-information-request)
     * [Research REIN Birmingham Request Information](https://www.atlantafed.org/forms/research/rein-birmingham-information-request)
     * [Research REIN Request Information](https://www.atlantafed.org/forms/research/rein-information-request)
-    * [Research REIN Jacksonville Request Information](https://www.atlantafed.org/banking-and-payments/consumer-payments/research-data-reports)
+    * [Research REIN Jacksonville Request Information](https://www.atlantafed.org/forms/research/rein-jacksonville-information-request)
     * [Research REIN Miami Request Information](https://www.atlantafed.org/forms/research/rein-miami-information-request)
     * [Research REIN Nashville Request Information](https://www.atlantafed.org/forms/research/rein-nashville-information-request)
     * [Research REIN New Orleans Request Information](https://www.atlantafed.org/forms/research/rein-new-orleans-information-request)
@@ -74,7 +74,7 @@ Menutoggle menu
     * [Publications](https://www.atlantafed.org/research/publications)
         * [Working Papers](https://www.atlantafed.org/research/publications/wp)
         * [Policy Hub](https://www.atlantafed.org/research/publications/policy-hub)
-        * [_Economy Matters_](https://www.atlantafed.org/economic-mobility-and-resilience)
+        * [_Economy Matters_](https://www.atlantafed.org/economy-matters)
     * [Research Centers](https://www.atlantafed.org/research/centers)
         * [Americas Center®](https://www.atlantafed.org/americascenter)
         * [Atlanta Research Data Center](https://www.atlantafed.org/atlanta-research-data-center)
@@ -175,20 +175,20 @@ Menutoggle menu
         * [Opportunity Occupations Monitor](https://www.atlantafed.org/cweo/data-tools/opportunity-occupations-monitor)
     * [Events](https://www.atlantafed.org/community-development/events)
         * [Inclusive and Resilient Recovery](https://www.atlantafed.org/community-development/events/inclusive-and-resilient-recovery)
-    * [Infographics](https://www.atlantafed.org/news/press-room/media-faqs)
+    * [Infographics](https://www.atlantafed.org/community-development/infographics)
     * [Podcasts](https://www.atlantafed.org/community-development/podcasts)
     * [Publications](https://www.atlantafed.org/community-development/publications)
         * [Discussion Papers](https://www.atlantafed.org/community-development/publications/discussion-papers)
         * [Federal Reserve System Resources](https://www.atlantafed.org/community-development/publications/federal-reserve-system-resources)
-        * [_Partners Update_](https://www.atlantafed.org/education/visit/atlanta)
-        * [Special Publications](https://www.atlantafed.org/education/visit/jacksonville)
+        * [_Partners Update_](https://www.atlantafed.org/community-development/publications/partners-update)
+        * [Special Publications](https://www.atlantafed.org/community-development/publications/special)
     * [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
 * [About the Fed](https://www.atlantafed.org/about)
     * [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed)
         * [Advisory Groups](https://www.atlantafed.org/about/atlantafed/advisory-groups)
         * [Annual Reports](https://www.atlantafed.org/about/publications/annual-reports)
         * [Branches](https://www.atlantafed.org/about/atlantafed/branches)
-        * [Directors](https://www.atlantafed.org/community-development/data-and-tools/southeastern-rental-affordability-tracker)
+        * [Directors](https://www.atlantafed.org/about/atlantafed/directors)
         * [Executive Leadership Committee](https://www.atlantafed.org/about/atlantafed/executive-leadership-committee)
         * [Outreach](https://www.atlantafed.org/about/atlantafed/outreach)
         * [Procurement](https://www.atlantafed.org/about/atlantafed/procurement)
@@ -202,16 +202,16 @@ Menutoggle menu
         * [Community](https://www.atlantafed.org/about/careers/community-involvement)
         * [Internships](https://www.atlantafed.org/about/careers/internships)
         * [Federal Reserve System Opportunities](https://www.atlantafed.org/about/careers/frs)
-    * [FAQ](https://www.atlantafed.org/community-development/about-us)
+    * [FAQ](https://www.atlantafed.org/about/faq)
     * [The Fed Explained](https://www.atlantafed.org/education/teach/infographic-posters/the-fed-explained)
-    * [Federal Reserve System](https://www.atlantafed.org/community-development/events)
+    * [Federal Reserve System](https://www.atlantafed.org/about/federal-reserve-system)
     * [Holidays](https://www.atlantafed.org/about/holidays)
     * [Diversity, Equity, & Inclusion](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion)
         * [Who We Are](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion/who-we-are)
         * [Congressional Reports](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion/congressional-reports)
         * [Workforce Representation](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion/workforce-development)
     * [Transparency](https://www.atlantafed.org/about/atlantafed/transparency)
-    * [Publications](https://www.atlantafed.org/community-development/content-by-subject)
+    * [Publications](https://www.atlantafed.org/about/publications)
         * [Annual Reports](https://www.atlantafed.org/about/publications/annual-reports)
         * [Atlanta Fed History](https://www.atlantafed.org/about/publications/atlanta-fed-history)
         * [Federal Reserve Structure & Functions](https://www.atlantafed.org/about/publications/fed-structure-and-functions)
