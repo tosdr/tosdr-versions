@@ -1,18 +1,18 @@
-* [![Rights Statements](/files/images/logo.svg)](https://rightsstatements.org/en/)
-    ================================================================================
+* [![Rights Statements](https://rightsstatements.org/files/images/logo.svg)](https://rightsstatements.org/en/)
+    ============================================================================================================
     
 * [Menu](#)
 
 * [Statements](https://rightsstatements.org/en/statements/)
-* [About](https://rightsstatements.org/en/about)
+* [About](https://rightsstatements.org/en/about.html)
 * [Documentation](https://rightsstatements.org/en/documentation/)
     * [Documentation](https://rightsstatements.org/en/documentation/)
-    * [FAQ](https://rightsstatements.org/en/documentation/faq)
-    * [Buttons and other assets](https://rightsstatements.org/en/documentation/assets)
-    * [Usage guidelines](https://rightsstatements.org/en/documentation/usage_guidelines)
-    * [Translations](https://rightsstatements.org/en/documentation/translations)
-    * [Change log](https://rightsstatements.org/en/documentation/changelog)
-* [Get Involved](https://rightsstatements.org/en/get_involved)
+    * [FAQ](https://rightsstatements.org/en/documentation/faq.html)
+    * [Buttons and other assets](https://rightsstatements.org/en/documentation/assets.html)
+    * [Usage guidelines](https://rightsstatements.org/en/documentation/usage_guidelines.html)
+    * [Translations](https://rightsstatements.org/en/documentation/translations.html)
+    * [Change log](https://rightsstatements.org/en/documentation/changelog.html)
+* [Get Involved](https://rightsstatements.org/en/get_involved.html)
 * [Blog](https://rightsstatements.org/en/blog/)
 
 Privacy Policy
@@ -73,5 +73,5 @@ RightsStatements.org is an international member based consortium, supported by p
 
 Except where otherwise noted, content on this site is licensed under a [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
-* [Privacy](https://rightsstatements.org/en/privacy_policy)
-* [Contact](https://rightsstatements.org/en/get_involved)
+* [Privacy](https://rightsstatements.org/en/privacy_policy.html)
+* [Contact](https://rightsstatements.org/en/get_involved.html)
