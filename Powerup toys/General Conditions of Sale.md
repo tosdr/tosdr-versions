@@ -353,6 +353,12 @@ TORNADO UPDRAFT WITH POWERUP 4.0 AIRPLANE](https://www.poweruptoys.com/products/
 
 SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
 
+[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_26aa10ac-68d8-4dd2-9af5-c0362f94854d_50x.jpg?v=1728374460)
+
+![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_26aa10ac-68d8-4dd2-9af5-c0362f94854d_2000x.jpg?v=1728374460)
+
+FLASH SALE ENDS OCT 9](https://www.poweruptoys.com/collections/bundles)
+
 * [![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/5_50x.png?v=1710950017)
     
     ![POWERUP 4.0 AIRPLANE](//www.poweruptoys.com/cdn/shop/files/5_2000x.png?v=1710950017)
@@ -376,6 +382,12 @@ SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
     ![](//www.poweruptoys.com/cdn/shop/products/CompleteHangar_exl4.0_2000x.jpg?v=1653515257)
     
     SHOP ALL PLANES](https://www.poweruptoys.com/collections/planes)
+
+* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_26aa10ac-68d8-4dd2-9af5-c0362f94854d_50x.jpg?v=1728374460)
+    
+    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_26aa10ac-68d8-4dd2-9af5-c0362f94854d_2000x.jpg?v=1728374460)
+    
+    FLASH SALE ENDS OCT 9](https://www.poweruptoys.com/collections/bundles)
 
 BUNDLES
 
@@ -403,6 +415,12 @@ POWERUP 4.0 ULTIMATE BUNDLE](https://www.poweruptoys.com/products/powerup-4-0-ul
 
 SHOP ALL BUNDLES](https://www.poweruptoys.com/collections/bundles)
 
+[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_26aa10ac-68d8-4dd2-9af5-c0362f94854d_50x.jpg?v=1728374460)
+
+![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_26aa10ac-68d8-4dd2-9af5-c0362f94854d_2000x.jpg?v=1728374460)
+
+FLASH SALE ENDS OCT 9](https://www.poweruptoys.com/collections/powerup-best-sellers)
+
 * [![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_50x.png?v=1725203285)
     
     ![POWERUP 4.0 FLIGHT MANUAL BUNDLE](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_1_2000x.png?v=1725203285)
@@ -426,6 +444,12 @@ SHOP ALL BUNDLES](https://www.poweruptoys.com/collections/bundles)
     ![FLITETEST BUNDLE](//www.poweruptoys.com/cdn/shop/products/WhatsAppImage2021-11-28at11.01.37_2000x.jpg?v=1725203315)
     
     SHOP ALL BUNDLES](https://www.poweruptoys.com/collections/bundles)
+
+* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_26aa10ac-68d8-4dd2-9af5-c0362f94854d_50x.jpg?v=1728374460)
+    
+    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_26aa10ac-68d8-4dd2-9af5-c0362f94854d_2000x.jpg?v=1728374460)
+    
+    FLASH SALE ENDS OCT 9](https://www.poweruptoys.com/collections/powerup-best-sellers)
 
 ACCESSORIES
 
@@ -453,6 +477,12 @@ ADD-ON INSTALLATION + SPARE PARTS KIT FOR POWERUP 4.0](https://www.poweruptoys.c
 
 SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
 
+[![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_26aa10ac-68d8-4dd2-9af5-c0362f94854d_50x.jpg?v=1728374460)
+
+![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_26aa10ac-68d8-4dd2-9af5-c0362f94854d_2000x.jpg?v=1728374460)
+
+FLASH SALE ENDS OCT 9](https://www.poweruptoys.com/collections/powerup-best-sellers)
+
 * [![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_2_50x.png?v=1710951231)
     
     ![SPARE PARTS KIT FOR POWERUP 4.0](//www.poweruptoys.com/cdn/shop/files/POWERUP_ProductImage_2_2000x.png?v=1710951231)
@@ -476,6 +506,12 @@ SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
     ![NIGHT FLIGHT ADD-ON FOR POWERUP 4.0 ](//www.poweruptoys.com/cdn/shop/products/Nightflight1_2000x.jpg?v=1653512617)
     
     SHOP ALL ACCESSORIES](https://www.poweruptoys.com/collections/accessories)
+
+* [![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_26aa10ac-68d8-4dd2-9af5-c0362f94854d_50x.jpg?v=1728374460)
+    
+    ![](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_26aa10ac-68d8-4dd2-9af5-c0362f94854d_2000x.jpg?v=1728374460)
+    
+    FLASH SALE ENDS OCT 9](https://www.poweruptoys.com/collections/powerup-best-sellers)
 
 EDUCATORS
 
@@ -503,6 +539,12 @@ THE PAPER AIRPLANE BOOK (12 COUNT)](https://www.poweruptoys.com/products/powerup
 
 SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-educators)
 
+[![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_50x.png?v=1719785983)
+
+![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_2000x.png?v=1719785983)
+
+FLASH SALE ENDS OCT 9](https://www.poweruptoys.com/collections/powerup-best-sellers)
+
 * [![POWERUP 4.0 (4 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-050BBSTEM_1188f460-1f78-400e-9437-00df817a1485_50x.jpg?v=1653514145)
     
     ![POWERUP 4.0 (4 COUNT)](//www.poweruptoys.com/cdn/shop/products/500-050BBSTEM_1188f460-1f78-400e-9437-00df817a1485_2000x.jpg?v=1653514145)
@@ -526,6 +568,12 @@ SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-edu
     ![FAMILY SQUADRON BUNDLE](//www.poweruptoys.com/cdn/shop/products/Squareplayingondeck1000X1000copy_2000x.jpg?v=1725203156)
     
     SHOP MORE FOR EDUCATORS](https://www.poweruptoys.com/collections/powerup-for-educators)
+
+* [![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_50x.png?v=1719785983)
+    
+    ![Summer Sale | POWERUP](//www.poweruptoys.com/cdn/shop/files/Banner_Mobile_Collection_1024x1024_69fb7dc5-9ff5-4b92-b025-2301056895ca_2000x.png?v=1719785983)
+    
+    FLASH SALE ENDS OCT 9](https://www.poweruptoys.com/collections/powerup-best-sellers)
 
 Warranty and Return Policies
 ============================
