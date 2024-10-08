@@ -1,8 +1,8 @@
 [Skip to content](#site-main)
 
-FREE Shipping on all orders $35+
+PRIME DAY DEALS: SAVE 20% SITEWIDE!
 
-FREE Shipping on all orders $35+
+PRIME DAY DEALS: SAVE 20% SITEWIDE!
 
 Menu icon Menu
 
