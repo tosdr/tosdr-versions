@@ -98,11 +98,11 @@ SearchSubmit search
 
 NGI Zero is looking for a Regional Representative.](https://nlnet.nl/foundation/jobs/regionalrepresentative.html)
 
-[![fediverse logo, 5 nodes in pentagon shape with all diagonals, black](/image/ic_fediverse.svg)
+[![podcast logo, antenna with radio waves](/image/ic_antenna_white.svg)
 
-##### Come meet us in the Fediverse
+##### Listen to our podcast
 
-@nlnet@nlnet.nl](https://social.nlnet.nl/@nlnet)
+Converstations with people building the Next Generation Internet](https://podcast.nlnet.nl/@NGIZero)
 
 ### Events
 
@@ -158,12 +158,13 @@ Your donation can help grow the future!](https://nlnet.nl/donating/)
 * [NGI Zero Tour Schedule](https://nlnet.nl/tour-schedule/)
 * [Speaker bureau](https://nlnet.nl/speakerbureau/)
 
-**Find us**
+**Connect with us**
 
 * [Fediverse: NLnet](https://social.nlnet.nl/@nlnet)
 * [Fediverse: NGI Zero](https://mastodon.xyz/@NGIZero)
+* [Our podcast](https://podcast.nlnet.nl/@NGIZero/)
+* [Our webinars](https://vc.ngi-0.eu/rooms/ahq-y96-uhs-jka/public_recordings)
 * [RSS feed](https://nlnet.nl/feed.atom)
-* [Our BBB server](https://vc.ngi-0.eu/rooms/ahq-y96-uhs-jka/public_recordings)
 
 **Site search**
 
