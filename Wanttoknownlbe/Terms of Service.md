@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/ben-jij-geboren-voor-1978/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/elektro-magnetische-straling-ems/straling-even-vanuit-n-hoger-perspectief/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
