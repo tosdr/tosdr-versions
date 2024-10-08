@@ -260,4 +260,4 @@ Logo BNT
 
 [Sitemap](https://www.bows-n-ties.com/sitemap)
 
-[](https://www.bows-n-ties.com/contact)
+[![Contact us](/themes/ct_bnt/assets/img/contact-us.png)](https://www.bows-n-ties.com/contact-us)
