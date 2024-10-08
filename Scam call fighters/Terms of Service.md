@@ -7,7 +7,7 @@
 * [Bảng xếp hạng](http://www.scamcallfighters.com/bang-xep-hang/ "Bảng xếp hạng")
 * [Tin tức](http://www.scamcallfighters.com/tin-tuc/ "Tin tức")
 
-[Cược Ngay](https://6686v739.com/) [Cược 6686](https://6686v739.com/)
+[Cược Ngay](https://6686v930.com/) [Cược 6686](https://6686v930.com/)
 
 ![logo](/themes/colatv/assets/image/svg/icon-menu-mb.svg)
 
@@ -298,7 +298,7 @@ Hãy truy cập trang trực tiếp bóng đá Saoke tv để xem bóng đá tr
 
 [![Saoke](/themes/colatv/assets/image/Logo_white_cola.png?r=1)](http://www.scamcallfighters.com/ "Saoke")
 
-Giới thiệu trang phunucodon.me - Saoke(\*\*\*.175.168). Saoke TV - Trang web xem bóng đá trực tiếp Saoke tốc độ cao mang đến cảm giác thoải mái cho anh em. Tại sao ke tv cung cấp link trực tiếp bóng đá chất lượng cao. An tâm tận hưởng thể thao hoàn toàn miễn phí saoke tv.
+Giới thiệu trang phunucodon.me - Saoke(\*\*\*.0.57). Saoke TV - Trang web xem bóng đá trực tiếp Saoke tốc độ cao mang đến cảm giác thoải mái cho anh em. Tại sao ke tv cung cấp link trực tiếp bóng đá chất lượng cao. An tâm tận hưởng thể thao hoàn toàn miễn phí saoke tv.
 
 .
 
