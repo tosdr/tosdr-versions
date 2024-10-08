@@ -373,7 +373,7 @@ To find out more about the information we collect during our recruitment process
 
 [Follow us on LinkedIn](https://www.linkedin.com/company/nbcuniversal-inc-/) [Follow us on Twitter](https://twitter.com/nbcuniversal) [Like us on Facebook](https://www.facebook.com/nbcuniversal/) [instagram](https://www.instagram.com/nbcuniversal/)
 
-Footer menu [AD CHOICES](https://www.nbcuniversal.com/privacy/cookies#accordionheader2) [Privacy Policy](https://www.nbcuniversal.com/privacy "Privacy") [YOUR PRIVACY CHOICES](https://www.nbcuniversal.com/privacy/notrtoo) [CA Notice](https://www.nbcuniversal.com/privacy/california-consumer-privacy-act) [New Terms Of Service (Updated July 7, 2023)](https://www.nbcuniversal.com/terms "Terms Of Service")
+Footer menu [AD CHOICES](https://www.nbcuniversal.com/privacy/cookies#accordionheader2) [Privacy Policy](https://www.nbcuniversal.com/privacy "Privacy") [YOUR PRIVACY CHOICES](https://www.nbcuniversal.com/privacy/notrtoo) [CA Notice](https://www.nbcuniversal.com/privacy/california-consumer-privacy-act) [Terms Of Service (Updated July 7, 2023)](https://www.nbcuniversal.com/terms "Terms Of Service")
 
 Secondary Footer [Supply Chain Values](https://www.cmcsa.com/esg-reporting "Supply Chain Values") [Advertise With Us](https://together.nbcuni.com/advertise/?utm_source=nbcuniversal&utm_medium=referral&utm_campaign=property_ad_pages)
 
