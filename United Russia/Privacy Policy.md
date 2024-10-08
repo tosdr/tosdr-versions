@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» доставила 35 тонн гуманитарной помощи жителям Белгородской области](https://cdn.er.ru/media/news/October2024/TZS3OBfOFK0Hxopr60Mp-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dostavila-35-tonn-gumanitarnoj-pomoshi-zhitelyam-belgorodskoj-oblasti)
+
+[«Единая Россия» доставила 35 тонн гуманитарной помощи жителям Белгородской области](https://er.ru/activity/news/edinaya-rossiya-dostavila-35-tonn-gumanitarnoj-pomoshi-zhitelyam-belgorodskoj-oblasti)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#Владимирская область](https://er.ru/activity/news?tags%5B0%5D=1233) [#Смоленская область](https://er.ru/activity/news?tags%5B0%5D=285) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#гуманитарнаяпомощь](https://er.ru/activity/news?tags%5B0%5D=134793) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 15:54
+
+[![«Единая Россия» предложила расширить меры поддержки социальных предпринимателей](https://cdn.er.ru/media/news/October2024/WaLx8NrTuPmhBsMtITev-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predlozhila-rasshirit-mery-podderzhki-socialnyh-predprinimatelej)
+
+[«Единая Россия» предложила расширить меры поддержки социальных предпринимателей](https://er.ru/activity/news/edinaya-rossiya-predlozhila-rasshirit-mery-podderzhki-socialnyh-predprinimatelej)
+
+[#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#социальноепредпринимательство](https://er.ru/activity/news?tags%5B0%5D=124857) [#реклама](https://er.ru/activity/news?tags%5B0%5D=860) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#льготы](https://er.ru/activity/news?tags%5B0%5D=328)
+
+Сегодня 14:09
+
 [![«Единая Россия» проводит неделю приёмов граждан по вопросам защиты прав в трудовой сфере](https://cdn.er.ru/media/news/October2024/vsm6kvCVr5ogxD10W7Lo-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zashity-prav-v-trudovoj-sfere)
 
 [«Единая Россия» проводит неделю приёмов граждан по вопросам защиты прав в трудовой сфере](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zashity-prav-v-trudovoj-sfere)
@@ -330,22 +346,6 @@
 [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=132412) [#флэшмобы](https://er.ru/activity/news?tags%5B0%5D=84285) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#ПрезидентРФ](https://er.ru/activity/news?tags%5B0%5D=128518)
 
 07.10.24
-
-[![«Молодая Гвардия Единой России» доставила гуманитарную помощь участникам СВО на Курском направлении](https://cdn.er.ru/media/news/October2024/5IVKnKzLmM4PmKFtctvU-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-gumanitarnuyu-pomosh-uchastnikam-svo-na-kurskom-napravlenii)
-
-[«Молодая Гвардия Единой России» доставила гуманитарную помощь участникам СВО на Курском направлении](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-dostavila-gumanitarnuyu-pomosh-uchastnikam-svo-na-kurskom-napravlenii)
-
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672)
-
-06.10.24
-
-[![«Единая Россия»: Выставка «Сила V Правде — гордость и победа» 9 октября начнёт работать на Ямале](https://cdn.er.ru/media/news/October2024/Ypv9LslD3NEhR9v6Lnrq-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-9-oktyabrya-nachnyot-rabotat-na-yamale)
-
-[«Единая Россия»: Выставка «Сила V Правде — гордость и победа» 9 октября начнёт работать на Ямале](https://er.ru/activity/news/edinaya-rossiya-vystavka-sila-v-pravde-gordost-i-pobeda-9-oktyabrya-nachnyot-rabotat-na-yamale)
-
-[#Ямало-Ненецкий автономный округ](https://er.ru/activity/news?tags%5B0%5D=36079) [#НовыйУренгой](https://er.ru/activity/news?tags%5B0%5D=109057) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [Ханты-Манскийский автономный округ](https://er.ru/activity/news?tags%5B0%5D=153622)
-
-06.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
