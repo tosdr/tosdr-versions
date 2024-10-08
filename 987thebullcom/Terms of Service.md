@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Think I'M In Love With YouChris Stapleton<br><br>5:41pm |
-| Fancy LikeWalker Hayes<br><br>5:39pm |
-| Heart Like A TruckLainey Wilson<br><br>5:35pm |
-| Shes In Love With The BoyTrisha Yearwood<br><br>5:25pm |
-| Ain'T No Love In OklahomaLuke Combs<br><br>5:22pm |
+| Am I OkMegan Moroney<br><br>11:38pm |
+| World On FireNate Smith<br><br>11:35pm |
+| If I Didn'T Love YouJason Aldean And Carrie Underwood<br><br>11:31pm |
+| LosersPost Malone Ft Jelly Roll<br><br>11:28pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:24pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
+Spanish • Western
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-News Talk • Eastern
+Sports • Midwest
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Country • Western
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
