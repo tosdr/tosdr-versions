@@ -60,6 +60,6 @@ English Русский Azərbaycan Türk Tatarça Español Nederlands Hungarian 
 
 © 2024 Chatovod
 
-Online 2,342 of 1,582,674 users in 171,425 chats
+Online 2,650 of 1,582,694 users in 171,426 chats
 
 [Terms of use](https://chatovod.com/terms/) · [Privacy policy](https://chatovod.com/privacy/)
