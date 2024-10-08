@@ -11,7 +11,7 @@
     
 * [Help](#)
     
-    [Support](https://support.omnigroup.com/) [Stenciltown](https://stenciltown.omnigroup.com/) [Videos](https://www.omnigroup.com/video) [Inside OmniFocus](https://inside.omnifocus.com/) [Inside OmniGraffle](https://inside.omnigraffle.com/)
+    [Support](https://support.omnigroup.com/) [Stenciltown](https://stenciltown.omnigroup.com/) [Videos](https://www.omnigroup.com/video) [Inside OmniGraffle](https://inside.omnigraffle.com/)
     
 * [Sign In](https://accounts.omnigroup.com/)
 * [Store](https://store.omnigroup.com/)
