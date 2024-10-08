@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Anduril lands $250 million Pentagon contract for drone defense system](https://www.defensenews.com/unmanned/2024/10/08/anduril-lands-250-million-pentagon-contract-for-drone-defense-system/)  
+    10/08/24 05:44am  
+    
+    Anduril's Roadrunner reusable drone can intercept incoming drones or land back on the ground if none are engaged. (Anduril)
+    
 * [MacDill AFB evacuates planes and people as Hurricane Milton approaches](https://www.defensenews.com/air/2024/10/07/macdill-evacuates-planes-personnel-as-hurricane-milton-approaches/)  
     10/07/24 01:03pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     10/02/24 11:21am  
     
     The Defense Innovation Unit is seeking low-cost commercial drones that can carry a range of payloads — from weapons to surveillance and communication systems. (Getty Images)
-    
-* [Iran fires missiles at Israel](https://www.defensenews.com/global/mideast-africa/2024/10/01/iran-fires-missiles-at-israel/)  
-    10/01/24 01:55pm  
-    
-    Smoke rises following Israeli bombardment in southern Lebanon as seen from northern Israel on Tuesday. The Israeli military says Iran has fired missiles at Israel and is warning Israelis to shelter in place. (Leo Correa/AP)
     
 
 Recent parts by keyword  
