@@ -218,18 +218,18 @@ This site is protected by FingerprintJS and its [privacy policy](https://dev.fin
 
 ### Newest members
 
+* [![Hamburber](/data/avatars/s/106/106609.jpg?1728373022)](http://hackvshack.net/members/hamburber.106609/)
+* [![djnansr](/data/avatars/s/106/106608.jpg?1728371140)](http://hackvshack.net/members/djnansr.106608/)
+* [![ccevyy](/data/avatars/s/106/106607.jpg?1728370035)](http://hackvshack.net/members/ccevyy.106607/)
+* [](http://hackvshack.net/members/broski1.106606/)
+* [![aarraraare](/data/avatars/s/106/106605.jpg?1728364658)](http://hackvshack.net/members/aarraraare.106605/)
+* [![helis](/data/avatars/s/106/106604.jpg?1728362275)](http://hackvshack.net/members/helis.106604/)
+* [![v potoke3456](/data/avatars/s/106/106603.jpg?1728359893)](http://hackvshack.net/members/v-potoke3456.106603/)
+* [![Zyllince](/data/avatars/s/106/106602.jpg?1728354114)](http://hackvshack.net/members/zyllince.106602/)
 * [![ilovekenny](/data/avatars/s/106/106601.jpg?1728352595)](http://hackvshack.net/members/ilovekenny.106601/)
 * [![RAJICRAJIC](/data/avatars/s/106/106600.jpg?1728350152)](http://hackvshack.net/members/rajicrajic.106600/)
 * [![nicolasbasille](/data/avatars/s/106/106599.jpg?1728349148)](http://hackvshack.net/members/nicolasbasille.106599/)
 * [![firecs2](/data/avatars/s/106/106598.jpg?1728342776)](http://hackvshack.net/members/firecs2.106598/)
-* [![Killerwatt](/data/avatars/s/106/106597.jpg?1728342319)](http://hackvshack.net/members/killerwatt.106597/)
-* [![Aizy](/data/avatars/s/106/106596.jpg?1728342288)](http://hackvshack.net/members/aizy.106596/)
-* [](http://hackvshack.net/members/gfdggggerrrrger.106595/)
-* [![JeanZinn_062](/data/avatars/s/106/106594.jpg?1728340382)](http://hackvshack.net/members/jeanzinn_062.106594/)
-* [![Fasszopóóók](/data/avatars/s/106/106593.jpg?1728340105)](http://hackvshack.net/members/fasszop%C3%B3%C3%B3%C3%B3k.106593/)
-* [](http://hackvshack.net/members/domx.106592/)
-* [](http://hackvshack.net/members/naiveguy556.106591/)
-* [![hasop](/data/avatars/s/106/106590.jpg?1728335049)](http://hackvshack.net/members/hasop.106590/)
 
 ### Partners
 
@@ -245,19 +245,19 @@ HvH League [unmatched.gg](https://unmatched.gg/)
 
 Threads
 
-2,643
+2,644
 
 Messages
 
-22,521
+22,527
 
 Members
 
-106,600
+106,609
 
 Latest member
 
-[RAJICRAJIC](http://hackvshack.net/members/rajicrajic.106600/)
+[Hamburber](http://hackvshack.net/members/hamburber.106609/)
 
 Most visitors online was 3958 , on 5 Aug 2024
 
@@ -265,15 +265,15 @@ Most visitors online was 3958 , on 5 Aug 2024
 
 Members online
 
-27
+26
 
 Guests online
 
-158
+141
 
 Total visitors
 
-185
+167
 
 Totals may include hidden visitors.
 
