@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/WTLV/images/bf40e365-8bb4-4b45-910e-59d19288ec79/20241007T164752/bf40e365-8bb4-4b45-910e-59d19288ec79_16x9.jpg) ![](https://media.kagstv.com/assets/WTLV/images/bf40e365-8bb4-4b45-910e-59d19288ec79/20241007T164752/bf40e365-8bb4-4b45-910e-59d19288ec79_360x203.jpg)](https://www.kagstv.com/article/weather/hurricane/category-5-hurricane-milton-hit-texas/500-f6daea50-1e51-4aa5-840d-a7d267ec1c43)
+        
+        #### [Will Hurricane Milton hit Texas?](https://www.kagstv.com/article/weather/hurricane/category-5-hurricane-milton-hit-texas/500-f6daea50-1e51-4aa5-840d-a7d267ec1c43)
+        
     *  [![](https://media.kagstv.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
         
         #### [Hurricane Helene nearly wiped this North Carolina mountain town off the map](https://www.kagstv.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
-        
-    *  [![](https://media.kagstv.com/assets/CCT/images/d69cb400-0d38-4e5a-b384-6cee220999a8/20240929T205709/d69cb400-0d38-4e5a-b384-6cee220999a8_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/d69cb400-0d38-4e5a-b384-6cee220999a8/20240929T205709/d69cb400-0d38-4e5a-b384-6cee220999a8_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/helene-damage-supplies-emergency-workers-rushed-to-north-carolina-while-florida-digs-out/507-71048269-0275-4eab-a624-5f044d9597d6)
-        
-        #### [Death toll rises from Helene while supplies are rushed to North Carolina and Florida digs out](https://www.kagstv.com/article/news/nation-world/helene-damage-supplies-emergency-workers-rushed-to-north-carolina-while-florida-digs-out/507-71048269-0275-4eab-a624-5f044d9597d6)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-73°
+90°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
