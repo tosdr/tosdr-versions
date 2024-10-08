@@ -392,7 +392,7 @@ This policy was last updated February 7, 2023.
 
 [](https://www.homeruninnpizza.com/)
 
-Famous thin crust Chicago Pizza since 1947
+Chicago’s Famous Tavern-Style Thin Crust Pizza
 
 More
 ----
