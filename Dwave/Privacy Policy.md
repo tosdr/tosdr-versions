@@ -7,32 +7,51 @@
 *  
     
 
-* Solutions & Products
+* Products
     
-    ### Solutions & Products
+    ### Products
     
     Discover how you can use quantum computing today
     
+    * [Cloud Platform The Leap™ quantum cloud service provides real-time quantum access](https://www.dwavesys.com/solutions-and-products/cloud-platform/)
+    * [Product Overview The only full-stack, cross-platform quantum ecosystem built for business](https://www.dwavesys.com/solutions-and-products/product-overview/)
+    * [Professional Services The D-Wave Launch™ program on-boards your business to quantum computing](https://www.dwavesys.com/solutions-and-products/professional-services/)
+    * [Systems The Advantage™ quantum system is the first and only quantum computer built for business](https://www.dwavesys.com/solutions-and-products/systems/)
+    * [Learning Solutions Start your journey! Explore D-Wave applications, events, and resources](https://www.dwavesys.com/learn/training/)
+    * [Software & Tools The Ocean™ suite of open-source tools are accessible via the Ocean SDK for rapid quantum development](https://www.dwavesys.com/solutions-and-products/ocean/)
+    
+* Solutions
+    
+    ### Solutions
+    
+    Discover how you can use quantum computing today
+    
+    #### By Use Case
+    
+    * [Quantum Optimization Summary](https://www.dwavesys.com/solutions-and-products/quantum-optimization/quantum-optimization-landing-page/)
+    * [Workforce Scheduling](https://www.dwavesys.com/solutions-and-products/quantum-optimization/workforce-scheduling/)
+    * [Production Scheduling](https://www.dwavesys.com/solutions-and-products/quantum-optimization/production-scheduling/)
+    * [Vehicle Routing](https://www.dwavesys.com/solutions-and-products/quantum-optimization/vehicle-routing/)
+    * [Resource Optimization](https://www.dwavesys.com/solutions-and-products/quantum-optimization/resource-optimization/)
+    * [Cargo Loading](https://www.dwavesys.com/solutions-and-products/quantum-optimization/cargo-loading/)
+    * [Additional Use Cases](https://www.dwavesys.com/learn/featured-applications/)
+    
     #### By Role
     
-    * [Technology & Business Leaders Learn how quantum computing fits into your technology portfolio](https://www.dwavesys.com/solutions-and-products/technology-business-leader/)
     * [Developer Get started building real quantum applications](https://www.dwavesys.com/solutions-and-products/developer/)
+    * [Tech & Business Leaders Learn how quantum computing fits into your technology portfolio](https://www.dwavesys.com/solutions-and-products/technology-business-leader/)
     * [Researcher Explore the boundaries of quantum computing](https://www.dwavesys.com/solutions-and-products/researcher/)
     
-    #### By Vertical
+* Sectors
     
-    * [Manufacturing & Logistics Discover quantum computing for manufacturing, logistics, and beyond](https://www.dwavesys.com/solutions-and-products/manufacturing-logistics/)
-    * [Financial Services Discover quantum computing for financial institutions](https://www.dwavesys.com/solutions-and-products/financial-services/)
-    * [Life Sciences Discover quantum computing for pharma, biotech, and life sciences](https://www.dwavesys.com/solutions-and-products/life-sciences/)
-    * [Public Sector Discover quantum computing for the public sector](https://www.dwavesys.com/solutions-and-products/public-sector/)
+    ### Sectors
     
-    #### By Product
+    Discover how you can use quantum computing today
     
-    * [Product Overview The only full-stack, cross-platform quantum ecosystem built for business](https://www.dwavesys.com/solutions-and-products/product-overview/)
-    * [Cloud Platform The Leap™ quantum cloud service provides real-time quantum access](https://www.dwavesys.com/solutions-and-products/cloud-platform/)
-    * [Systems The Advantage™ quantum system is the first and only quantum computer built for business](https://www.dwavesys.com/solutions-and-products/systems/)
-    * [Professional Services The D-Wave Launch™ program on-boards your business to quantum computing](https://www.dwavesys.com/solutions-and-products/professional-services/)
-    * [Software & Tools The Ocean™ suite of open-source tools are accessible via the Ocean SDK for rapid quantum development](https://www.dwavesys.com/solutions-and-products/ocean/)
+    * [Quantum Research](https://www.dwavesys.com/solutions-and-products/quantum-optimization/quantum-research-landing-page/)
+    * [Manufacturing & Logistics](https://www.dwavesys.com/solutions-and-products/manufacturing-logistics/)
+    * [Quantum AI](https://www.dwavesys.com/solutions-and-products/quantum-optimization/quantum-ai-landing-page/)
+    * [Public Sector](https://www.dwavesys.com/solutions-and-products/public-sector/)
     
 * Learn
     
@@ -178,28 +197,30 @@ You have the right to lodge a complaint with the Supervisory Authority, Commissi
 
 Follow Us [Facebook](https://www.facebook.com/dwavequantum) [LinkedIn](https://www.linkedin.com/company/d-wave-systems-inc.) [YouTube](https://youtube.com/user/dwavesystems) [Twitter](https://twitter.com/dwavequantum)
 
-### Solutions & Products
-
-#### By Role
-
-* [Technology & Business Leaders](https://www.dwavesys.com/solutions-and-products/technology-business-leader/)
-* [Developer](https://www.dwavesys.com/solutions-and-products/developer/)
-* [Researcher](https://www.dwavesys.com/solutions-and-products/researcher/)
-
-#### By Vertical
-
-* [Manufacturing & Logistics](https://www.dwavesys.com/solutions-and-products/manufacturing-logistics/)
-* [Financial Services](https://www.dwavesys.com/solutions-and-products/financial-services/)
-* [Life Sciences](https://www.dwavesys.com/solutions-and-products/life-sciences/)
-* [Public Sector](https://www.dwavesys.com/solutions-and-products/public-sector/)
-
-#### By Product
+### Products
 
 * [Product Overview](https://www.dwavesys.com/solutions-and-products/product-overview/)
 * [Cloud Platform](https://www.dwavesys.com/solutions-and-products/cloud-platform/)
 * [Systems](https://www.dwavesys.com/solutions-and-products/systems/)
 * [Professional Services](https://www.dwavesys.com/solutions-and-products/professional-services/)
 * [Software & Tools](https://www.dwavesys.com/solutions-and-products/ocean/)
+* [Learning Solutions](https://www.dwavesys.com/learn/training/)
+
+### Solutions
+
+* [Quantum Optimization Summary](https://www.dwavesys.com/solutions-and-products/quantum-optimization/quantum-optimization-landing-page/)
+* [Workforce Scheduling](https://www.dwavesys.com/solutions-and-products/quantum-optimization/workforce-scheduling/)
+* [Production Scheduling](https://www.dwavesys.com/solutions-and-products/quantum-optimization/production-scheduling/)
+* [Vehicle Routing](https://www.dwavesys.com/solutions-and-products/quantum-optimization/vehicle-routing/)
+* [Resource Optimization](https://www.dwavesys.com/solutions-and-products/quantum-optimization/resource-optimization/)
+* [Cargo Loading](https://www.dwavesys.com/solutions-and-products/quantum-optimization/cargo-loading/)
+
+### Sectors
+
+* [Manufacturing & Logistics](https://www.dwavesys.com/solutions-and-products/manufacturing-logistics/)
+* [Public Sector](https://www.dwavesys.com/solutions-and-products/public-sector/)
+* [Quantum Research](https://www.dwavesys.com/solutions-and-products/quantum-optimization/quantum-research-landing-page/)
+* [Quantum AI](https://www.dwavesys.com/solutions-and-products/quantum-optimization/quantum-ai-landing-page/)
 
 ### Learn
 
