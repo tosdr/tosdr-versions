@@ -1,18 +1,20 @@
 [Jump to content](#main-content)
 
-#### US EditionChange
+US EditionChange
 
 [UK Edition](https://www.independent.co.uk/)[Asia Edition](https://www.independent.co.uk/asia)[Edición en Español](https://www.independentespanol.com/)
 
 [Sign up to our newsletters](https://www.independent.co.uk/newsletters)Support Now
 
-[](https://www.independent.co.uk/profile)[Log in / Register](https://www.independent.co.uk/login?regSourceMethod=login%20overlay)
+[Log in / Register](https://www.independent.co.uk/login?regSourceMethod=login%20overlay)
 
 [Independent](https://www.independent.co.uk/)
 
 [US election](https://www.independent.co.uk/topic/us-election-2024)
 
-Support NowMenu
+Support Now
+
+Menu
 
 * [News](https://www.independent.co.uk/us)
     * [News](https://www.independent.co.uk/us)
@@ -423,20 +425,6 @@ If we publish information that turns out to be inaccurate it is important that t
 
 [user policies](https://www.independent.co.uk/topic/user-policies)
 
-### 1/1Code of Conduct
-
-### Code of Conduct
-
-✕
-
-### Subscribe to Independent Premium to bookmark this article
-
-Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.
-
-[Subscribe](https://www.independent.co.uk/subscribe?regSourceMethod=bookmarks)
-
-Already subscribed? Log in
-
 * [](https://www.independent.co.uk/)[Get in touch](https://www.independent.co.uk/)
     
     * [Contact us](https://www.independent.co.uk/service/contact-us-759589.html)
@@ -481,54 +469,3 @@ Already subscribed? Log in
 ### Thank you for registering
 
 Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in
-
-Close
-
-#### US EditionChange
-
-[UK Edition](https://www.independent.co.uk/)[Asia Edition](https://www.independent.co.uk/asia)[Edición en Español](https://www.independentespanol.com/)
-
-[Support Now](https://www.independent.co.uk/donate)
-
-[](https://www.independent.co.uk/profile)[Log in / Register](https://www.independent.co.uk/login?regSourceMethod=login%20overlay)
-
-[US election](https://www.independent.co.uk/topic/us-election-2024)
-
-* [Indy100](https://www.indy100.com/)
-* [Crosswords & Puzzles](https://puzzles.independent.co.uk/?utm_campaign=navbar&utm_medium=nav&utm_source=navpuzzles)
-* [Most Commented](https://www.independent.co.uk/comments)
-* [Newsletters](https://www.independent.co.uk/newsletters?itm_channel=native&itm_campaign=burger_nav&itm_audience=prospecting&itm_content=newsletters)
-* [Ask Me Anything](https://www.independent.co.uk/ask-me-anything)
-* [Virtual Events](https://www.independent.co.uk/virtual-events)
-* [Vouchers](https://www.independent.co.uk/vouchercodes)
-
-[](https://www.indy100.com/)
-
-✕
-
-Log in
-
-Email address
-
-Password
-
-Email and password don't match
-
-Submit
-
-[Forgotten your password?](https://www.independent.co.uk/forgotten-password)
-
-New to The Independent?
-
-[Register](https://www.independent.co.uk/register)
-
-Or if you would prefer:
-
-![](/img/icons/google.svg)SIGN IN WITH GOOGLE
-
-This site is protected by reCAPTCHA and the Google [Privacy notice](https://policies.google.com/privacy?hl=en) and [Terms of service](https://policies.google.com/terms?hl=en) apply.
-
-* [My Independent Premium](https://www.independent.co.uk/independent-premium#events)
-* [Account details](https://www.independent.co.uk/profile)
-* [Help centre](https://help.independent.co.uk/hc/en-us)
-* [Logout](https://www.independent.co.uk/user/logout)
