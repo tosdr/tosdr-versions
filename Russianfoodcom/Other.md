@@ -148,16 +148,16 @@
 
 Сейчас читают
 
+* [Овощное рагу с курицей и баклажанами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174430)
+* [Котлеты из гречки с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=172584)
+* [Рыба, запечённая с брокколи в сливочно-сырном соусе](https://www.russianfood.com/recipes/recipe.php?rid=169640)
 * [Хлеб белый бездрожжевой, на закваске](https://www.russianfood.com/recipes/recipe.php?rid=123371)
 * [Бульон с потрохами](https://www.russianfood.com/recipes/recipe.php?rid=446)
 * [Бульон с клецками из кур](https://www.russianfood.com/recipes/recipe.php?rid=939)
 * [Фрикадельки из свинины с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=1337)
 * [Плов с курицей-2](https://www.russianfood.com/recipes/recipe.php?rid=1548)
 * [Куриный суп с капустой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=4787)
-* [Куриный суп с омлетом](https://www.russianfood.com/recipes/recipe.php?rid=4804)
 * [Бульон из кур](https://www.russianfood.com/recipes/recipe.php?rid=4867)
-* [Печень куриная в кляре](https://www.russianfood.com/recipes/recipe.php?rid=4877)
-* [Суп из цыпленка по-африкански](https://www.russianfood.com/recipes/recipe.php?rid=4983)
 
 |     |
 | --- |
@@ -179,6 +179,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[В коллекцию лучших рецептов из тыквы. Время ТЫКВЫ (40)](https://www.russianfood.com/reading/?post_id=22701) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/713/sm_712615.jpg)](https://www.russianfood.com/reading/?post_id=22701)
+
+Тыквенное печенье с цедрой. Творожная запеканка с тыквой. Булгур с мясом и тыквой. Куриный суп с тыквой и фасолью. Молочная каша из риса с тыквой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22701)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22701#comments) | 08.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Приветливое утро манит вкусностями. Лучшие ЗАВТРАКИ №24-41](https://www.russianfood.com/reading/?post_id=22700) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/637/sm_636854.jpg)](https://www.russianfood.com/reading/?post_id=22700)
+
+Панкейки со шпинатом, банананами. Молочная манка с мороженым. Яблочно-ананасовые оладьи. Сырные панкейки с маком и лимоном. Оладьи на рассоле. Кускус с яблоком и сухофруктами. Омлет с грибами и брынзой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22700)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие завтраки](https://www.russianfood.com/blogs/?id=325261) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22700#comments) | 08.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Простые решения, отличные вкусы. Лучшие рецепты ЗАПЕКАНОК (56)](https://www.russianfood.com/reading/?post_id=22699) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/716/sm_715305.jpg)](https://www.russianfood.com/reading/?post_id=22699)
+
+Капустная запеканка с фаршем и рисом. Запеканка из баклажанов и цветной капусты. Рыбная запеканка с картофелем и яблоками. Творожная запеканка с курицей. Запеканка из гречки с брынзой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22699)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22699#comments) | 08.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -348,48 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22682#comments) | 04.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Гречка с курицей и грибами, на молоке](https://www.russianfood.com/recipes/recipe.php?rid=173457) |     |
-
-[![Фото к рецепту: Гречка с курицей и грибами, на молоке](//img1.russianfood.com/dycontent/images_upl/737/sm_736900.jpg "Фото к рецепту: Гречка с курицей и грибами, на молоке")](https://www.russianfood.com/recipes/recipe.php?rid=173457)
-
-Этот вариант молочной гречневой каши сможет удивить. Гречневая крупа соединяется с обжаренной с луком и грибами курицей, потом добавляется молоко и вода, и всё доводится до готовности. Молоко придаёт курице и гречке нежность, приятное послевкусие с лёгкой сливочной ноткой.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173457)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173457#comments) | 03.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › ["Гость на пороге" - блюда за 10 минут](https://www.russianfood.com/themes/?theme_id=4)<br><br>[Морепродукты в сливочно-соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=173761) |     |
-
-[![Фото к рецепту: Морепродукты в сливочно-соевом соусе](//img1.russianfood.com/dycontent/images_upl/738/sm_737523.jpg "Фото к рецепту: Морепродукты в сливочно-соевом соусе")](https://www.russianfood.com/recipes/recipe.php?rid=173761)
-
-Мидии, кальмары, креветки, осьминоги и гребешки готовятся в шелковистом соусе из сливок и соевого соуса. Соус подчёркивает нежный вкус морепродуктов, сливки придают сливочный оттенок, который удачно оттеняет соевый соус. Ароматы обжаренного чеснока и репчатого лука завершают композицию.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173761)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173761#comments) | 03.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Куриные рулетики с фетой и укропом](https://www.russianfood.com/recipes/recipe.php?rid=173271) |     |
-
-[![Фото к рецепту: Куриные рулетики с фетой и укропом](//img1.russianfood.com/dycontent/images_upl/736/sm_735093.jpg "Фото к рецепту: Куриные рулетики с фетой и укропом")](https://www.russianfood.com/recipes/recipe.php?rid=173271)
-
-Куриные рулетики с фетой и укропом — интересная вариация популярных котлет по-киевски. Вкус получается интересным и узнаваемым одновременно, а в процессе приготовления обойдёмся без замораживания начинки.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173271)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173271#comments) | 03.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -472,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(165)
+(163)
