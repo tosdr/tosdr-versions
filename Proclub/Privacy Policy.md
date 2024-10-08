@@ -199,8 +199,6 @@ Saturday & Sunday
 
 [careers](https://www.proclub.com/careers)
 
-[contact us](https://www.proclub.com/contact-us)
-
 [](https://www.facebook.com/PRO.SC/)[](https://www.instagram.com/proclubwa/)[](https://www.youtube.com/user/ThePROSportsClub)[](https://www.linkedin.com/company/pro-sports-club/)
 
 © 2024 Professional Recreation Organization Inc. All Rights Reserved.
