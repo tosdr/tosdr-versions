@@ -65,8 +65,8 @@
                 * [Imagine MyPath](https://www.imaginelearning.com/research-partner/mypath/)
                 * [Imagine EdgeEX](https://www.imaginelearning.com/research-partner/edgeex/)
                 * [Twig Science](https://www.imaginelearning.com/research-partner/twig-science/)
-* [Resources](#)
-    * * * [Resources](https://www.edgenuity.com/resources)
+* Resources
+    * * * [ResourcesFind in-depth insight on emerging topics and technologies, tools for implementation, and extra resources to use in the classroom.](https://www.edgenuity.com/resources "menu-item-main")
         * * [AI ResourcesResources, webinars, and the latest research on generative AI in K–12 education](https://www.edgenuity.com/AI-resources)
             * [HQIM ResourcesSee how HQIM empower educators and students to reach their full potential](https://www.imaginelearning.com/why-choose-high-quality-instructional-materials/ "HQIM Resources ")
         * * [BlogInsights and strategies to inspire student success and empower educators](https://www.imaginelearning.com/blog/)
