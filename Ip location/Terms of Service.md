@@ -193,7 +193,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Smartphone (44)](https://www.iplocation.net/blog/category/smartphone)
 * [Social Media (64)](https://www.iplocation.net/blog/category/social-media)
 * [Social Media Marketing (38)](https://www.iplocation.net/blog/category/social-media-marketing)
-* [Software (157)](https://www.iplocation.net/blog/category/software)
+* [Software (158)](https://www.iplocation.net/blog/category/software)
 * [Software Development (134)](https://www.iplocation.net/blog/category/software-development)
 * [Software Testing (9)](https://www.iplocation.net/blog/category/software-testing)
 * [Mobile App Development (5)](https://www.iplocation.net/blog/category/mobile-app-development)
