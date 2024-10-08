@@ -1,8 +1,8 @@
-###### Join us at MAU Vegas (April 2 - 4, 2024). Discover exclusive events and connect with the Moloco team.
+###### Join us as Moloco takes the stage for Advertising Week NYC 2024, Oct 7-10  
 
-[![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](#)[Learn more
+[![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.moloco.com/event/advertising-week-nyc-2024)[Learn more
 
-![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.moloco.com/event/mau-vegas-2024)
+![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.moloco.com/event/advertising-week-nyc-2024)
 
 [![Moloco logo primary](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544ad7675a308ab53b4c354_Moloco_logo_Horiz_Primary%201.webp)](https://www.molocoads.com/?r=0)
 
@@ -342,9 +342,7 @@
 
 [Contact us](https://www.molocoads.com/contact-us)
 
-###### **On-Demand Webinar: Trends and tips for mobile app growth in India & South East Asia 2023**
-
-[![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.moloco.com/event/on-demand-webinar-trends-and-tips-for-mobile-app-growth-in-sea-2023)
+[Join us as Moloco takes the stage for Advertising Week NYC 2024, Oct 7-10](https://www.moloco.com/event/advertising-week-nyc-2024)[![White arrow to learn more about the subject ](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544c48db72afc64022178de_Arrow-white.webp)](https://www.moloco.com/event/advertising-week-nyc-2024)
 
 [![Moloco logo primary](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6544ad7675a308ab53b4c354_Moloco_logo_Horiz_Primary%201.webp)](https://www.molocoads.com/?r=0)
 
