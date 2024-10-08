@@ -1,1280 +1,1399 @@
+[![Leanpub Terms of Service](https://leanpub.com/assets/generic-book-cover-e79aac21fcafdb25fb27509beb68df70.png)](https://leanpub.com/tos)
+
 Leanpub Terms of Service
+
+Ruboss Technology Corporation
+
+[Buy on Leanpub](https://leanpub.com/tos)
+
+* * *
+
+Table of Contents
+-----------------
+
+* [Leanpub Terms of Service](#leanpub-terms-of-service)
+    * [Agreement Acceptance](#agreement-acceptance)
+        * [Your Ability to Accept Terms](#your-ability-to-accept-terms)
+        * [Minimum Age Requirements](#minimum-age-requirements)
+    * [Use of the Services](#use-of-the-services)
+        * [Description of Services](#description-of-services)
+        * [Service Availability](#service-availability)
+        * [Security](#security)
+        * [General User Details and Responsibilities](#general-user-details-and-responsibilities)
+            * [User Registration and Information](#user-registration-and-information)
+            * [User Profile Policy](#user-profile-policy)
+            * [User Responsibility](#user-responsibility)
+        * [Leanpub Accounts](#leanpub-accounts)
+            * [Account Types](#account-types)
+            * [Account States](#account-states)
+            * [Suspending Accounts](#suspending-accounts)
+            * [Terminating Membership and/or Removing Content](#terminating-membership-andor-removing-content)
+            * [Closing Your Account](#closing-your-account)
+                * [Requesting a Special Account Closure Addendum](#requesting-a-special-account-closure-addendum)
+            * [Abandoned Accounts](#abandoned-accounts)
+                * [Inactivity Fee with Abandoned Accounts](#inactivity-fee-with-abandoned-accounts)
+            * [Death of Account Owner](#death-of-account-owner)
+        * [Leanpub Products](#leanpub-products)
+            * [Product Types](#product-types)
+            * [Product Workflows](#product-workflows)
+                * [Changing a Product Workflow](#changing-a-product-workflow)
+            * [Product Availability](#product-availability)
+                * [Restrictions on Digital Files Uploaded to Leanpub](#restrictions-on-digital-files-uploaded-to-leanpub)
+                * [Leanpub Does Not Use Digital Rights Management (DRM)](#leanpub-does-not-use-digital-rights-management-drm)
+                * [Leanpub Does Not Accept Watermarked Content](#leanpub-does-not-accept-watermarked-content)
+                * [Leanpub Prohibits Headers, Footers, or Verso Pages Promoting Other Publishing Services](#leanpub-prohibits-headers-footers-or-verso-pages-promoting-other-publishing-services)
+                * [Leanpub Prohibits Sample Books Promoting the Full Version on Other Services](#leanpub-prohibits-sample-books-promoting-the-full-version-on-other-services)
+            * [Product States](#product-states)
+                * [Product Categories](#product-categories)
+                * [Product Completion](#product-completion)
+            * [Product Pricing](#product-pricing)
+                * [Purchasing Multiple Copies of a Product](#purchasing-multiple-copies-of-a-product)
+                * [Coupons](#coupons)
+            * [Providing Time-of-Purchase Product Content](#providing-time-of-purchase-product-content)
+            * [Restoring a Previous Version of a Product](#restoring-a-previous-version-of-a-product)
+            * [License Grant to Purchasers of Products](#license-grant-to-purchasers-of-products)
+                * [Special Terms for Organizational Purchasers](#special-terms-for-organizational-purchasers)
+                * [Special Terms for Library Purchasers](#special-terms-for-library-purchasers)
+                * [Reselling Prohibited](#reselling-prohibited)
+        * [Author Services](#author-services)
+        * [Leanpub Memberships](#leanpub-memberships)
+            * [Types of Memberships](#types-of-memberships)
+            * [Membership Charges](#membership-charges)
+            * [Country Restrictions on Recurring Payments](#country-restrictions-on-recurring-payments)
+            * [Membership Periods](#membership-periods)
+            * [Cancelling Paid Memberships](#cancelling-paid-memberships)
+            * [Membership Pricing and Refunds](#membership-pricing-and-refunds)
+            * [Reader Membership Revenue Pool](#reader-membership-revenue-pool)
+            * [Opting In for Reader Membership Revenue Pool](#opting-in-for-reader-membership-revenue-pool)
+        * [The Partner Program](#the-partner-program)
+            * [Opting Out of the Partner Program](#opting-out-of-the-partner-program)
+            * [Specific Terms for Each Partner](#specific-terms-for-each-partner)
+            * [General Terms for Partners](#general-terms-for-partners)
+            * [List of Partners](#list-of-partners)
+        * [Payments to Leanpub](#payments-to-leanpub)
+            * [Payments for Content and Services](#payments-for-content-and-services)
+            * [Contributions](#contributions)
+        * [Royalty Payments from Leanpub](#royalty-payments-from-leanpub)
+            * [Royalty Payments via PayPal](#royalty-payments-via-paypal)
+            * [Royalty Payments via Wise](#royalty-payments-via-wise)
+            * [Minimum Royalty Payout Amount](#minimum-royalty-payout-amount)
+            * [Reader Membership Revenue Pool Payments](#reader-membership-revenue-pool-payments)
+            * [Royalty Payments to Co-Authors](#royalty-payments-to-co-authors)
+            * [Royalty Hold Period](#royalty-hold-period)
+            * [Royalty Rates](#royalty-rates)
+            * [Reader Membership Revenue Pool Allocation](#reader-membership-revenue-pool-allocation)
+            * [Payment Attempt Failure](#payment-attempt-failure)
+            * [Withholding Royalties and Suspending Payments](#withholding-royalties-and-suspending-payments)
+            * [Deducting Platform Costs from Royalties](#deducting-platform-costs-from-royalties)
+            * [Chargebacks](#chargebacks)
+            * [Optional Royalty Payment via Wire Transfer Arrangement](#optional-royalty-payment-via-wire-transfer-arrangement)
+        * [Refund Policy](#refund-policy)
+    * [Types of Users](#types-of-users)
+        * [List of User Types](#list-of-user-types)
+        * [Primary Authors and Co-Authors](#primary-authors-and-co-authors)
+            * [Revocation of Co-Author Status](#revocation-of-co-author-status)
+            * [Unilateral Royalty Reallocation](#unilateral-royalty-reallocation)
+            * [Disputes Between Authors](#disputes-between-authors)
+        * [Organizations](#organizations)
+        * [Causes](#causes)
+        * [Partners](#partners)
+    * [Content and Copyright](#content-and-copyright)
+        * [Copyright Take Down Policy](#copyright-take-down-policy)
+            * [Types of User-Generated Content for Sale](#types-of-user-generated-content-for-sale)
+        * [Content Policy](#content-policy)
+        * [Copyright, Creative Commons, Public Domain, Disputed Content, and Related Policies](#copyright-creative-commons-public-domain-disputed-content-and-related-policies)
+            * [Copyright Holders Only](#copyright-holders-only)
+            * [Standard Copyright License](#standard-copyright-license)
+            * [Creative Commons Policy](#creative-commons-policy)
+            * [Public Domain Book Publishing Policy](#public-domain-book-publishing-policy)
+            * [Copyright Infringement is Strictly Prohibited](#copyright-infringement-is-strictly-prohibited)
+        * [Account Holders Authorize Ruboss to Send DMCA Takedown Notices on Your Behalf](#account-holders-authorize-ruboss-to-send-dmca-takedown-notices-on-your-behalf)
+            * [Use of Licensed Images from Third-Party Services](#use-of-licensed-images-from-third-party-services)
+            * [Death of Copyright Holder](#death-of-copyright-holder)
+        * [Disputed Content](#disputed-content)
+        * [Erotica](#erotica)
+            * [Identification and Age Verification](#identification-and-age-verification)
+            * [Packages Including Erotica](#packages-including-erotica)
+            * [Bundles Including Erotica](#bundles-including-erotica)
+            * [Images](#images)
+            * [Prohibited Content](#prohibited-content)
+            * [Exclusion of Erotica from AI Services](#exclusion-of-erotica-from-ai-services)
+        * [Fan Fiction](#fan-fiction)
+        * [Bad Products](#bad-products)
+        * [Joke Products](#joke-products)
+        * [SEO or Advertising of Non-Leanpub Products or Services is Prohibited](#seo-or-advertising-of-non-leanpub-products-or-services-is-prohibited)
+        * [Prohibition on Malware Development, Website Audits, and Security Vulnerability Disclosures](#prohibition-on-malware-development-website-audits-and-security-vulnerability-disclosures)
+        * [Rights to Content Posted on the Site](#rights-to-content-posted-on-the-site)
+            * [Ruboss Property](#ruboss-property)
+            * [License Grant to Ruboss](#license-grant-to-ruboss)
+            * [Permissions Agreement for Forum or Email Content](#permissions-agreement-for-forum-or-email-content)
+            * [Abusive Speech](#abusive-speech)
+            * [Code of Conduct and Personal Attacks](#code-of-conduct-and-personal-attacks)
+    * [Promotions and Third-Party Services](#promotions-and-third-party-services)
+        * [Advertisements](#advertisements)
+            * [Third-Party Advertisements](#third-party-advertisements)
+            * [Placements on The Shelf and in Leanpub Newsletters](#placements-on-the-shelf-and-in-leanpub-newsletters)
+        * [Marketing](#marketing)
+        * [Content Modification](#content-modification)
+        * [Review Copies and Desk Copies](#review-copies-and-desk-copies)
+        * [Distributing Your Leanpub-Generated Product Content Using Other Services](#distributing-your-leanpub-generated-product-content-using-other-services)
+    * [Privacy](#privacy)
+    * [Limitation of Liability](#limitation-of-liability)
+        * [Requesting a Special Limitation of Liability Addendum](#requesting-a-special-limitation-of-liability-addendum)
+    * [General Legal Provisions](#general-legal-provisions)
+        * [Chief Compliance Officer](#chief-compliance-officer)
+        * [The Services are Available “AS-IS”](#the-services-are-available-as-is)
+        * [Links](#links)
+        * [Third-Party Websites, Software, and Services](#third-party-websites-software-and-services)
+        * [Indemnification](#indemnification)
+            * [Requesting a Special Indemnification Addendum](#requesting-a-special-indemnification-addendum)
+        * [Exclusions](#exclusions)
+        * [Waiver and Severability](#waiver-and-severability)
+        * [Controlling Law and Jurisdiction](#controlling-law-and-jurisdiction)
+    * [Miscellaneous](#miscellaneous)
+        * [Artificial Inflation of Sales Counts](#artificial-inflation-of-sales-counts)
+        * [The Leanpub API](#the-leanpub-api)
+        * [Use of Your Content to Develop and Improve AI Services](#use-of-your-content-to-develop-and-improve-ai-services)
+        * [Restrictions on Account Names, Usernames, Product Names, and URL Slugs](#restrictions-on-account-names-usernames-product-names-and-url-slugs)
+        * [International Users](#international-users)
+        * [Promotion of Specific Cryptocurrencies is Prohibited](#promotion-of-specific-cryptocurrencies-is-prohibited)
+        * [Unsolicited Idea Submission Policy](#unsolicited-idea-submission-policy)
+    * [Entire Agreement](#entire-agreement)
+
+Leanpub Terms of Service
+========================
+
+_These Terms of Service (the “Terms of Service” or “Terms”) are effective as of April 21, 2010, and were last updated on October 7, 2024. These Terms of Service may be updated periodically, and we recommend that users check them regularly._
+
+Leanpub is owned and operated by Ruboss Technology Corporation (“Ruboss”), incorporated in British Columbia, Canada. These Terms govern your access to and use of Leanpub, including its website, applications, public APIs, and client software (collectively, the “Site”, “Services” or “Leanpub”). They also apply to any information or materials uploaded, downloaded, or otherwise made available via the Services, such as videos, code samples, Course materials, ebooks (in PDF, EPUB, or other formats), and all other forms of content (collectively referred to as “Content”).
+
+Any person accessing the Services (referred to as “User” or “Users”), including those creating or managing Content, must stay informed of updates to these Terms. Ruboss is not liable for notifying users of changes or for ensuring users have read the latest version.
+
+These Terms outline the rights we hold as the owner and operator of the Services and the rights you hold as a user. While legally formal, we strive to make the Terms clear and understandable.
+
+Agreement Acceptance
+====================
+
+BY ACCESSING OR USING THE SERVICES, YOU AGREE TO BE BOUND BY THESE TERMS. RUBOSS RESERVES THE RIGHT TO CHANGE THESE TERMS AT ANY TIME, AND YOUR CONTINUED USE OF LEANPUB OR ACCESS TO CONTENT CONSTITUTES ACCEPTANCE OF ANY CHANGES. YOUR USE OF LEANPUB IS CONDITIONAL UPON YOUR ACCEPTANCE AND COMPLIANCE WITH THESE TERMS.
+
+Your Ability to Accept Terms
+----------------------------
+
+By accepting these Terms, you represent and warrant that you have the legal capacity to enter into this agreement, and that doing so does not conflict with any other arrangements or agreements between you and any other entity or individual.
+
+You may use the Services only if you can form a binding contract with Ruboss and are not barred from receiving services under Canadian law or the laws of other applicable jurisdictions (including minimum age requirements). Your use of the Services must comply with these Terms and all local, provincial, state, national, and international laws, rules, and regulations. If you are unwilling or unable to be bound by these Terms, you are not permitted to use the Services and must stop immediately.
+
+Additionally, by accepting the Terms, you represent and warrant that your use of the Services does not _require_ Ruboss to perform any legal or administrative actions. This includes, but is not limited to, Ruboss being obligated to enter into a separate signed contract, complete or submit any forms (such as vendor information forms, tax-related forms, or similar documents), or provide you or others with any documents (such as a certificate of fiscal residence or similar records). However, Ruboss may, at its sole discretion, choose to engage in such actions on a case-by-case basis.
+
+Minimum Age Requirements
 ------------------------
 
-_These Terms of Service (the “Terms of Service” or “Terms”) are effective as of April 21, 2010, and were last updated on September 11, 2024. These Terms of Service may be updated from time to time, and we recommend users check them regularly._
+1. **Children Under 13**: Children under the age of 13 are prohibited from accessing or using the Site or Services for any reason. If we become aware that a child under 13 has created an account or provided personally identifiable information, we will take steps to delete such information from our records. Parents or guardians who discover that their child under 13 has breached this rule should contact us at **privacy@leanpub.com** to have the account and associated data deleted.
+    
+2. **Minors Aged 13 to 17**: Minors aged 13 to 17 are permitted to access the Site and Services but are restricted from accessing any NSFW (Not Safe For Work) content, including mature content such as Erotica. Leanpub implements content filters to prevent access to these areas. It is the responsibility of parents or guardians to monitor the online activities of minors and ensure they do not attempt to bypass these content filters.
+    
+3. **Responsibility for Minors**: Parents or legal guardians who provide access to Leanpub for Minors are responsible for monitoring the content accessed and ensuring that minors do not misrepresent their age or attempt to access mature or restricted content. Ruboss disclaims all responsibility and liability for Minors who violate these terms or for parents or guardians who fail to adequately monitor their child’s usage of the Site and Services.
+    
+4. **NSFW Content Restrictions**: Mature content, such as Erotica, is categorized and protected by content filters to prevent access by minors. Minors will not be able to access any area of the Site that contains NSFW content. Any attempt by a minor to bypass these filters is a violation of these Terms and may result in account suspension or termination.
+    
+5. **Reporting and Action**: If we become aware that a minor is accessing restricted content, we will take appropriate action, which may include notifying the Account Holder (parent or guardian) via email and suspending the account if necessary. Leanpub reserves the right to take further action at its sole discretion if these rules are violated.
+    
 
-Leanpub (“Leanpub”) is a service of Ruboss Technology Corporation (“Ruboss”), a corporation incorporated in British Columbia, Canada. These Terms of Service govern your access to and use of Leanpub, the Leanpub website, applications, public APIs and client software (collectively referred to as the “Site”, the “Service” or the “Services”), and any information, texts, graphics, or other materials uploaded, downloaded or appearing on the Services, including without limitation videos, code samples, Course material or any other content made available for download or streaming, as well as PDF files, EPUB files, MOBI files, LPUB files and other formats of ebooks, and any other forms of content added and/or made available for sale (free or otherwise) on the Site (all of which is collectively referred to in the Terms as “Content”).
+Use of the Services
+===================
 
-YOUR ACCESS TO AND USE OF LEANPUB IS CONDITIONAL UPON YOUR ACCEPTANCE OF, AND COMPLIANCE WITH, THE FOLLOWING TERMS AND CONDITIONS. BY ACCESSING OR USING THE SERVICES YOU AGREE TO BE BOUND BY THESE TERMS. RUBOSS RESERVES THE RIGHT TO CHANGE THESE TERMS AT ANY TIME, AND YOUR CONTINUED USE OF LEANPUB, OR ACCESS TO THE CONTENT, CONSTITUTES BINDING ACCEPTANCE OF ANY AND ALL CHANGES TO THESE TERMS.
+Description of Services
+-----------------------
 
-Any person who accesses the Site or Services (the “User” or “Users”), including those who purchase, manage, build and deliver Content to be made available to other Users, such as the author of a book made available for sale on Leanpub, must check the Terms of Service regularly for updates. Ruboss is not liable for any failure to notify users of a change in the Terms of Service, and is not responsible for ensuring users have read and understood the Terms of Service.
+Leanpub is a platform for creating and distributing works, including ebooks and courses (the “Product” or “Products”). It supports the “Lean Publishing” process, encouraging creators to publish and sell their work while it is still in development. This approach helps authors build a community of readers early, collect valuable feedback, and incentivize creative pricing strategies (e.g., offering lower prices to early adopters). It also provides encouragement to authors to complete works that might otherwise be abandoned.
 
-### 1\. Description of Services
+Service Availability
+--------------------
 
-Leanpub is a platform for the creation and dissemination of works including ebooks and courses (the “Product” or “Products”). Leanpub is built to encourage content creators to begin publishing and selling their work before it is complete, in a process called [Lean Publishing](https://leanpub.com/lean). The Lean Publishing process includes a number of potential improvements to the conventional publishing process. For example, it allows authors to begin building a community of readers earlier in the life cycle of a work such as an ebook; it allows readers to provide feedback to the author to improve the quality of their book; it allows for creative pricing incentives, such as offering a work for a lower price to early adopters; and it can provide encouragement to an author to complete a work they would otherwise have abandoned.
+Ruboss disclaims responsibility for the availability, timeliness, security, or reliability of the Services or any client software. Ruboss reserves the right to modify, suspend, or discontinue the Services at any time without notice or liability. This includes the right to impose limits on the use or storage of files within the Services, at Ruboss’s sole discretion.
 
-### 2\. Basic Terms
+Users are responsible for any data charges incurred through their mobile or internet service provider while using the Services (e.g., using the Send to Kindle feature). Ruboss will not be liable for these charges.
 
-#### 2.1 Services
+The basic use of Leanpub, excluding the purchase of paid Products and Product Creation Purchases, is free for all users. However, any costs related to mobile or internet service provider fees still apply, and Ruboss is not liable for those charges.
 
-Ruboss disclaims all responsibility and liability for the availability, timeliness, security or reliability of the Services or any other client software. Ruboss also reserves the right to modify, suspend or discontinue the Services without notice at any time and without any liability to you. This includes, but is not limited to, the right to create limits on the use of the Service, and storage of files on the Service, at the sole discretion of Ruboss.
+Security
+--------
 
-#### 2.2 User Responsibility
+We implement appropriate technical, organizational, and procedural measures to help protect Personal Information from loss, misuse, unauthorized access, disclosure, alteration, and destruction, considering the risks involved and the nature of the Personal Information. If you have any questions about the security of your Personal Information, you can contact us at dpo@leanpub.com.
 
-Each User is responsible for their use of the Services, for any Content they post to the Services, and for any consequences thereof. The Content you submit, post, or display may be viewable by other Users of the Service and through third party services and websites. You should only provide Content that you are comfortable sharing with others under these Terms.
+Leanpub accounts require a username or email address and a password to log in. Members are responsible for keeping their password secure and must not disclose it to third parties. Account passwords are hashed, meaning we cannot view a User’s password.
 
-Content made available via the Service is the sole responsibility of the User that makes the content available. This includes but is not limited to completed books and unfinished or in-progress books. Ruboss accepts no liability of any kind in relation to any and all Content posted to the Service (published, in-progress, or otherwise).
+General User Details and Responsibilities
+-----------------------------------------
 
-#### 2.3 Types of User-Generated Content for Sale
+### User Registration and Information
 
-There are various types of User-generated Content available for sale on Leanpub. These included but are not limited to:
+You are responsible for ensuring that the information you provide during registration on the Site (your “User Information”) is accurate and complete. If any part of your User Information changes, you must promptly update it on the Site. It is your responsibility to keep all User Information current.
 
-Books or Ebooks: Original works that may be presented in PDF, EPUB and HTML or other digital formats that may be read on computers and/or hand-held devices and may be comprised of any one or more of the following types of content, without excluding any other type of content: text, images, video, music, code samples, figures, and tables.
+As part of registration, you will select a username and password. You are solely responsible for: a) all activity on the Site using your username and password, including monitoring any Minor’s use of your account, and b) maintaining the confidentiality of your password. We recommend using a “strong” password (a combination of upper and lowercase letters, numbers, and symbols) for your account. Ruboss cannot be held liable for any loss or damage resulting from your failure to comply with these security responsibilities. Only one individual may access the Site at a time using the same username and password. You must notify Ruboss immediately of any unauthorized use of your email, username, or password, or any other security breaches you become aware of. Ruboss reserves the right, at its sole discretion and without the need to provide a reason, to refuse usernames or passwords that impersonate others, are protected by trademark or proprietary rights, are offensive, or for any other reason.
 
-Bundles: Groupings of two or more ebooks by one or more Account Holder(s), available for purchase as a single item.
+User registration and information are subject to Leanpub’s [Privacy Policy](https://leanpub.com/privacy).
 
-Courses: Content made available for viewing and/or sale as part of Leanpub’s Courses service. This includes, but is not limited to, Content such as multiple-choice questions with which Users may interact, and in relation to which Users may be assessed and assigned grades, automatically or manually. Users may also be given certificates in relation to what is deemed by the Course Author or another relevant Leanpub User to be successful completion of, for example, a set of questions, with the measure of success to be determined by a relevant Leanpub User.
+### User Profile Policy
 
-Tracks: Tracks are comprised of one or more Courses. Users may be given certificates in relation to what is deemed by the Track Author or another relevant Leanpub User to be successful completion of the Track, with the measure of success to be determined by a relevant Leanpub User.
+You are responsible for the accuracy and completeness of all information in your Leanpub Account, including your name, email address, photo, and other details. You may maintain only one account at a time. If your account is disabled or terminated by Ruboss, you may not create a new account without explicit permission.
 
-Extras: Digital files made available for distribution via Leanpub to Users in Packages. Extras are provided as secondary Content that is packaged with a principal Product, such as a Book or Course. Extras may include videos, digital photos, digital artwork, source files, code samples, apps, templates, worksheets, or similar forms of Content. Extras may not include offers of services (such as consulting services), software licenses, or anything other than a form of digital Content. Without notification, Ruboss may at any time, and at its sole discretion, remove any Extra, and also any principal Product to which the Extra has been added in a Package, from sale through the Services, if Ruboss deems an Extra to be in violation with these Terms.
+You are not permitted to use a profile photo of another person. If you are writing under a pseudonym and do not wish to display your identity, you may upload an image of an inanimate object or a disguised image, but not a photo of someone else.
 
-Packages: A group of items for sale as a single supply on Leanpub, consisting of a principal Product (such as a Book or a Course), and in addition, at least a single Extra.
+### User Responsibility
 
-#### 2.4 Leanpub Accounts
+You are responsible for your use of the Services, any Content you post, and any consequences that arise from it. The Content you submit, post, or display may be visible to other Users and through third-party services and websites. Only share Content that you are comfortable with being public under these Terms.
 
-Signing up on Leanpub involves an arrangement by which a user is given personalized access to a website or application by entering a username and password (an “Account”) and potentially other information.
+Ruboss accepts no liability for any Content posted to the Service, whether published, in-progress, or otherwise.
 
-People use Leanpub Accounts for a variety of purposes. Different features may be made available to Users based on how they use Leanpub. For the purposes of clarity in these Terms, on occasion Accounts may be referenced according to a specific use or function, as follows:
+Leanpub Accounts
+----------------
 
-* Author Account: An Account which includes editorial access to at least one Product.
-* Cause Account: A non-profit or charitable organization that has applied for and been accepted to the Leanpub for Causes program after having accepted the terms of the Leanpub for Causes program.
-* Organization Account: An Account which includes editorial access to at least one Product under the designation of “Organization.”
-* University Account: An Account which includes editorial access to at least one Product under the designation of “University.”
-* User Account: An account that does not include access to Author Account features or Organization Account features. A User Account Holder may purchase and read Leanpub books and otherwise interact with Authors, Organizations, and other Users on the Site, including reader discussion forums.
+### Account Types
 
-#### 2.4.1 Restrictions on Account Names, Usernames, Product Names, and URL Slugs
+When you sign up on Leanpub, you create a personalized account by providing a username, password, and potentially other information (an “Account”). Leanpub Accounts serve various purposes, with different features available depending on usage. For clarity, these Terms may reference Accounts according to specific functions:
 
-Users are not required to use their own names for their Account names or their usernames.
+* **Author Account**: Provides editorial access to at least one Product.
+    
+* **Cause Account**: For non-profit or charitable organizations accepted into the Leanpub for Causes program.
+    
+* **Organization Account**: Provides editorial access to at least one Product under the designation of “Organization.”
+    
+* **User Account**: Allows purchasing and reading Leanpub Products, as well as interacting with Authors, Organizations, and other Users on the Site (e.g., reader discussion forums).
+    
 
-However, there are restrictions on the Account names, Usernames, Product names (the “Name” or “Names”), and URL slugs that Users are permitted to use. (A URL slug is the part of the web address that comes after the domain, for example after “.com”.)
+### Account States
 
-Users are not permitted to use a trademarked word or the name of any non-fictional person or organization in the Name of their account or of one of their Products or in the slug part of the URL for an Account or Product, unless they have the demonstrable authority to do so. Since Leanpub sells books and courses, we do not permit the use of such names in parody Accounts or Products.
+Each Account can exist in one of the following states (“Account States”):
 
-For the avoidance of doubt, please note that this restriction includes the word “Leanpub”, which is a trademark of Ruboss. Users may not use the word “Leanpub” or any variations of capitalization (e.g. leanpub, LeanPub, leanPub) in their Account name, Username or any of their Product names, or in the slug part of the URL for an Account or Product. Besides protecting our trademark, we also enforce this restriction to reduce the possibility of confusion on the part of our users.
+* Closed
+    
+* Stealthed
+    
+* Suspended
+    
+* Unverified
+    
+* Verified
+    
 
-Furthermore, it is not permitted to use a Name or URL slug that, taken on its own, is associated with a disaster or pandemic or historical event, or any thing of a similar nature. We understand that many Users may do this for benevolent purposes (such as a giveaway), but all Names and URL slugs must be clearly differentiated from a named disaster or pandemic or historical event, in part to prevent confusion, or the perception of poor taste. For example, you may not use the word “coronavirus” or “COVID-19” as an entire Name (of an Account name, Username or Product name) or as the entire URL slug of a product. For guidance in this area, a Product with the title “COVID-19” and the URL slug of “covid19” would not be acceptable; however, a book with the title “A Guide to Self-Isolating”, the subtitle “How to Stay Home Alone”, and the URL slug “guide-to-self-isolating”, would be acceptable.
+Access to Account features and information is determined by its Account State.
 
-It is not permitted to create URL slugs that may be misleading (for example, a URL slug that is too similar to an existing Leanpub book URL slug or book title). It is also not permitted to create URL slugs for the purpose of “squatting” (for example, choosing the URL slug with no good faith intention of publishing a book with a title related to the URL slug).
+### Suspending Accounts
 
-Leanpub may also “reserve” URL slugs so they may not be used by any Users. Ruboss may retroactively reserve a URL slug, even if it was not reserved at the time the User created the Product with the URL slug, for example.
+**AT ITS SOLE DISCRETION, RUBOSS MAY TAKE ACTIONS AGAINST A USER WHO VIOLATES THESE TERMS OR ENGAGES IN UNACCEPTABLE BEHAVIOR, WITHOUT NOTIFYING THE USER. RUBOSS MAY DO ANY OF THE FOLLOWING, OR OTHER ACTIONS DEEMED APPROPRIATE BASED ON THE VIOLATION:**
 
-In accordance with these Terms, Ruboss may, at its sole discretion, and without any obligation to notify you, change any URL slug or slugs you have created, and change each one to another URL slug of our choosing.
+* **REMOVE ASSOCIATED PRODUCTS OR MATERIAL FROM THE SERVICES;**
+    
+* **DISABLE THE USER’S ACCESS TO THEIR ACCOUNT OR ACCOUNTS;**
+    
+* **REPORT THE USER TO LAW ENFORCEMENT AUTHORITIES;**
+    
+* **REFUND ALL REFUNDABLE PURCHASES OF ANY OF THE USER’S PRODUCTS; AND**
+    
+* **PERMANENTLY BAN THE USER FROM THE SERVICES, INCLUDING EXISTING AND FUTURE ACCOUNTS.**
+    
 
-If Ruboss, at its sole discretion, deems a Name or URL slug to be in violation of any one or more of these restrictions, Ruboss may rename or close any Account or Product associated with a violation, and refund any associated purchases.
+### Terminating Membership and/or Removing Content
 
-#### 2.4.2 Deleting Author Accounts
+Ruboss may, at its sole discretion and without notice, terminate or suspend any Account for any reason. This includes suspicious activities such as credit card fraud, unauthorized transactions, or suspected money laundering.
 
-If we receive a request from a User to delete the User’s Author Account, in the interest of expediency, we will refund all refundable purchases of Products of which the User is the Primary Author (see Section 2.5 “Types of Leanpub Users” below for details concerning Primary Author status).
+Upon termination, Ruboss has no obligation to refund any amounts paid to Ruboss, nor to make future payments (e.g., royalties).
 
-#### 2.4.3 Death of Account Owner
+### Closing Your Account
 
-If the owner of an Account dies, ownership of the Account passes to a new owner according to the specifical legal circumstances in each case. To be clear, upon the death of the owner of an Account, we do not “lock” the Account or unpublish any associated Product or Products (if any), unless we receive formal notice of a request to do so by a person authorized to make such a request.
+You can close your Account by using a feature on the Site or by contacting [hello@leanpub.com](mailto:hello@leanpub.com) with your request. Your request will be processed within 30 days after it is acknowledged by Ruboss. Certain provisions, such as those related to payment, service fees, limitations of liability, and proprietary rights (including license rights like the Permissions Agreement), will survive account closure or termination.
 
-#### 2.4.4 Abandoned Accounts
+After closing your Account, any Product you sold through Leanpub may still be accessible to Users who previously purchased it. Content that has been removed from sale but was previously purchased (including free purchases) may still appear elsewhere on Leanpub, such as in user libraries.
 
-If, for three consecutive years, there is no activity by the User, and there are no Product sales associated with the User, Ruboss may, at its sole discretion, and without notification to the associated User, classify the User’s Account as abandoned (the “Abandoned Account”).
+Ruboss retains no residual rights to remove your work beyond what is outlined here. If we receive a request to close an Author Account, we may refund all refundable purchases of Products where the User is the Primary Author, at our discretion.
 
-Actions that constitute activity by the User include ordinary User activity, such as purchasing a Product and adding it to the User’s Account.
+#### Requesting a Special Account Closure Addendum
 
-If an account is classified as an Abandoned Account, Ruboss may restrict access to the Account, close the Account, and apply other measures to the account, for example regarding any royalties owing the User, as set out in section 2.4.4.1 of these Terms.
+Some Users, such as publishing companies with Organization accounts or Authors planning significant advertising investments, may wish to negotiate special terms regarding Account closure, such as advance notice of termination or an agreed notice period.
 
-To reactivate an Abandoned Account, please send an email to hello@leanpub.com with a request to reactivate the Account.
+To request a special Account closure addendum, please email [hello@leanpub.com](mailto:hello@leanpub.com).
 
-#### 2.4.4.1 Abandoned Accounts with Royalties Owing and the Inactivity Fee
+### Abandoned Accounts
 
-If there are any royalties owing to a User when their Account becomes an Abandoned Account, royalty payments to the Abandoned Account will be suspended, and any royalties owing will be withheld.
+If there is no User activity or Product sales for three consecutive years, Ruboss may classify the Account as abandoned (“Abandoned Account”) without notification.
 
-It costs money, time, and resources to maintain Leanpub Accounts, particularly those with unpaid royalties. For this reason, for any Account that is an Abandoned Account with royalties owing, we will subtract the amount of $10 per year from the amount of unpaid royalties owing to the User (the “Inactivity Fee”). If there is less than $10 left in unpaid royalties on the Abandoned Account at the time an Inactivity Fee is applied, then we will subtract that amount from the amount of unpaid royalties to bring the amount of royalties owing to zero, and no further Inactivity Fee will be applied to the Account.
+User activity includes actions such as purchasing a Product or adding it to the User’s Account. If an Account is deemed abandoned, Ruboss may restrict or close the Account, and take other actions regarding any royalties owed.
 
-#### 2.5 Types of Leanpub Users
+To request reactivation of an Abandoned Account, please email hello@leanpub.com.
 
-For the purposes of clarity, in these Terms Leanpub Users may be referenced according to specific functions or responsibilities, as follows:
+#### Inactivity Fee with Abandoned Accounts
 
-* Account Holder: The individual person who created a Leanpub Account who is therefore the owner of the account (the “Original Account Holder”), or the person to whom ownership of the account has been transferred by the Original Account Holder. A Leanpub account may belong to an organization and be used by a representative of the organization on the organization’s behalf.
-* Author: A User who has created a Product they have made available on Leanpub, or who has played a role in the creation of such a Product.
-* Co-Author: One of the Authors of a Product with multiple Authors.
-* Minor: A person under the age of majority in the relevant jurisdiction or who is otherwise designated as a minor in the relevant jurisdiction.
-* Original Account Holder: The individual who creates a Leanpub account, or the organization on whose behalf an individual creates a Leanpub account.
-* Primary Author: The Author or owner of a Product granted unique authority over various aspects of a Product or an advertisement on Leanpub of an Author’s Product or Products (the “Placement” or “Placements”), including but not limited to the original division of royalties amongst co-authors, any subsequent change in the division of royalties, the granting or the revocation of co-authorship status to another Leanpub User or Users, and any other authority granted by Leanpub as defined in these Terms or otherwise granted by Leanpub, subject to alteration or revocation by Leanpub at any time and for any reason. An Organization or a University may be regarded as the Primary Author of a Product. Please note that the authority of a Primary Author to change settings like these on Leanpub is in no way related to any rights associated with any Content, including copyright ownership; in other words, a User having Primary Author status on Leanpub says nothing about their copyright ownership of any Content both in itself, and relative to any Co-Authors of the Content. If you are a Primary Author and you remove a Co-Author from a Product, when that Co-Owner has a valid copyright ownership claim to the content, you will be in violation of these Terms (see the Section 8 below, on copyright and related matters).
-* Organization: Any User who holds or has held an Organization Account.
-* Reader: A User who accesses a Leanpub Product. A Reader may or may not be an account holder.
-* University: Any User who holds or has held a University Account.
+If royalties are owed to a User with an Abandoned Account, royalty payments will be suspended, and the owed royalties will be withheld.
 
-#### 2.6 Responsibility For Completion
+Maintaining Accounts, particularly those with unpaid royalties, incurs costs. Therefore, an inactivity fee of $10 per year may be deducted from unpaid royalties on Abandoned Accounts. If less than $10 remains in unpaid royalties, the remaining amount will be deducted to bring the balance to zero, after which no further fees will apply.
 
-Responsibility for the completion of any Product that is initially published in-progress is exclusively the responsibility of the User or Users who manage the Product on Leanpub (the Product’s “Author” or “Authors”), as well as the Users who hold Organization or University Accounts under which a Product is managed. Ruboss is not obligated to offer a refund or refunds related to any purchase of an in-progress Product that is not later completed. The publication and sale of an in-progress Product does not represent a promise on the part of Ruboss or the User or Users responsible for the production of the Content.
+### Death of Account Owner
 
-#### 2.7 Minimum Age Requirements
+If the owner of an Account dies, ownership of the Account transfers according to applicable legal circumstances. Leanpub will not “lock” or unpublish any associated Products unless formally requested by someone authorized to make such a request.
 
-You must be at least eighteen (18) years of age, or the age of majority in the jurisdiction where you reside if that age is greater than 18, to be an Account Holder with related access to the Site and Services. If a parent or guardian becomes aware that their child has breached this condition and provided Ruboss with personally identifiable information without their consent, the parent or guardian should contact us at [privacy@leanpub.com](mailto:privacy@leanpub.com). If we become aware that someone who does not meet our Minimum Age Requirements is acting as an Account Holder, and has provided us with personally identifiable information, we will make reasonable efforts to delete such information from our files.
+Leanpub Products
+----------------
 
-Minors are prohibited from creating Leanpub accounts. A Minor may only access the Service through an Account held by their parent or legal guardian. All payments must only be made by/to persons who are not Minors. Ruboss disclaims all responsibility and liability for Users who are Minors. Any and all responsibility for the actions of a Minor, and the consequences thereof, are the responsibility of the parent or guardian.
+A Leanpub Product is a digital, User-created work available for sale or free through the Services.
 
-A parent or guardian of a Minor may create an Account and publish work on behalf of a Minor, as long as the parent or guardian manages the Account, and is responsible for all actions associated with the Account (this includes, but is not limited to, publishing, purchasing, updating, and downloading).
+### Product Types
 
-Children under the age of 13 are prohibited from accessing or using the Site or Services, regardless of parental approval.
+Leanpub supports the creation and purchase of the following Product types:
 
-Due to the presence or potential presence of mature content, Minors are prohibited from accessing the Fiction genre of Erotica. For the purposes of these Terms, “Erotica” is defined as literature or art or any Content intended to arouse sexual desire, containing mature content.
+* Ebooks (“Book” or “Books”)
+    
+* Ebook bundles (“Bundle” or “Bundles”)
+    
+* Online courses (“Course” or “Courses”)
+    
+* Sets of multiple courses (“Track” or “Tracks”)
+    
+* Packages of ebooks and additional digital content (“Package” or “Packages,” and the uploaded “Extra” or “Extras”)
+    
 
-Erotica Products are required to be categorized as such by the Primary Author, and Ruboss reserves the right to remove content or terminate memberships, as stated in Section 14 of these Terms, for any violation of this policy. Users are required to verify they are over 18 years of age before accessing the Erotica genre on the Site. Ruboss is not responsible or liable for any User who is a Minor who fraudulently accesses this genre. Parents and guardians who give Minors access to the Site and Services are responsible for ensuring the Content viewed is appropriate, and that the Minor does not misrepresent their age to access the Erotica genre. If we become aware that a Minor is accessing Erotica, the Account Holder will be notified via email, and further action may be taken at Ruboss’ sole discretion.
+### Product Workflows
 
-#### 2.8 Your Ability to Accept Terms
+Authors can create and publish Products using one of two workflows:
 
-By accepting the Terms, you represent and warrant that you have the legal capacity to enter into these Terms, and that entering into these Terms does not conflict with any arrangements or agreements between you and any other person or entity.
+* **Leanpub Workflow**: Content is written in plain text and generated using the Services.
+    
+* **Upload Workflow**: Authors produce Book files or Extras independently and upload them to Leanpub.
+    
 
-You may use the Services only if you can enter into a binding contract with Ruboss and are not a person barred from receiving services under Canadian law, or other applicable jurisdictions. You may use the Services only in compliance with these Terms and all applicable local, provincial, state, national, and international laws, rules and regulations. If you are unwilling or unable to be bound by these Terms, you are not permitted to use the Services, and must immediately stop using the Services.
+#### Changing a Product Workflow
 
-Furthermore, by accepting the Terms, you represent and warrant that your use of the Services does not require any actions, legal or otherwise, to be performed by Ruboss. These actions include, but are not limited to, Ruboss entering into a signed contract; Ruboss receiving and/or completing and/or sending any forms (such as a vendor information form, a tax-related form, or any similar document or process); or Ruboss providing you or anyone else with any forms (such as a certificate of fiscal residence, or any similar document).
+Product Workflows are subject to change. If a workflow is removed, Leanpub may, at its discretion, convert affected Products to a different workflow.
 
-#### 2.9 Product State
+### Product Availability
 
-A Leanpub Product is always in a definite product state (the “State” or “Product State”) that may affect how it is presented or not presented on Leanpub, whether or not it is currently published, etc. For example, a Product may be in the “Published” State or the “Unpublished” state, and this may affect how it is presented and accessed on Leanpub.
+Leanpub does not guarantee file compatibility with any specific applications, devices, or versions of the Site, Services, or applications.
 
-The meaning of Product States is determined by Leanpub and may change at any time for any reason. New States may be added and old States removed, with State reassignment carried out by Leanpub at its sole discretion and without warning. Product States include Published, Unpublished, Embargoed, Retired, Forcibly Retired, and Deleted, amongst others.
+Availability may depend on the workflow used. For instance, Books created via the Leanpub Workflow are available in PDF, EPUB, and browser-readable formats, while Upload Workflow Books may be limited to specific formats (e.g., just PDF or EPUB).
 
-##### 2.9.1 The Forcibly Retired State
+#### Restrictions on Digital Files Uploaded to Leanpub
 
-The Forcibly Retired Product State is designed to address situations in which Content is deemed by Ruboss, at its sole discretion, to be Content that we do not want to be available for sale or display on our Site. When a Product is set to the Forcibly Retired State, various restrictions apply, including but not limited to the following:
+Uploaded files must comply with strict rules:
 
-* Any Author associated with the Product will have their access to the Product on Leanpub revoked
-* Users will not be able to buy or view the Product on the public Leanpub Site (although Users who have purchased a Product that has been Forcibly Retired may retain access to the Product in their Leanpub Library)
-* At Ruboss’s discretion, the URL for the Product will be restricted from future use in association with another Product on Leanpub
+* You must own the copyright or have permission to upload and store the file on Leanpub. No third party may hold rights that prevent you from uploading the file, unless you have formal consent (e.g., a legally binding distribution agreement).
+    
+* Files must not violate these Terms, contain Digital Rights Management (DRM) software, watermarking, or promote other publishing services through headers, footers, or verso pages.
+    
+* Files must not contain viruses or malware, and for ebooks categorized as Erotica, no images beyond the cover page are allowed.
+    
 
-##### 2.9.2 Writing Modes
+Leanpub does not automatically inspect uploaded files for compliance but reserves the right to remove any file if it violates these Terms, at its discretion.
 
-Besides the Product States which apply to a Leanpub Product, there are currently eight different writing modes on Leanpub:
+#### Leanpub Does Not Use Digital Rights Management (DRM)
 
-1. Dropbox
-2. GitHub
-3. Bitbucket
-4. Browser
-5. Visual Editor
-6. Google Docs
-7. Upload
-8. Cold Storage
+Leanpub does not use DRM software or any form of copy-control systems. Authors are not permitted to upload Products that contain DRM protections, including password protection.
 
-The number and type of writing modes on Leanpub is subject to change.
+#### Leanpub Does Not Accept Watermarked Content
 
-If Leanpub removes a writing mode, it will, at its sole discretion, convert books into a different writing mode or grandfather the writing mode for existing authors.
+Content, including Books, with watermarks is not allowed on Leanpub.
 
-So, for example, if the Visual Editor was removed, Leanpub could do one of the following:
+#### Leanpub Prohibits Headers, Footers, or Verso Pages Promoting Other Publishing Services
 
-1. Automatically convert those books which used that mode into using the Browser mode (or a different mode)
-2. Require the author to convert their books which used that mode into the Browser mode (or a different mode) the next time they edited their book.
-3. Just keep the Visual Editor around for books which already used it.
+Content that contains promotional material for other publishing services in headers, footers, or verso pages is prohibited.
 
-This is not just a hypothetical example, by the way: the Visual Editor and the Google Docs writing modes are being removed in 2021.
+#### Leanpub Prohibits Sample Books Promoting the Full Version on Other Services
 
-##### 2.9.3 Output Folders
+Leanpub Users are not permitted to upload sample Books that direct customers to other services to purchase the complete Book.
 
-Separate from writing modes is the concept of an Output Folder. Leanpub currently offers the feature of automatically copying generated ebook files into an Output Folder. Currently an Output Folder is a folder on Dropbox, but this is subject to change.
+### Product States
 
-Leanpub may change the nature of Output Folders at any time, or remove the feature entirely.
+A Leanpub Product is always in a specific state (the “Product State” or “Product States”), which affects how it is presented or accessed on Leanpub. Examples of Product States include “Published” and “Unpublished.”
 
-##### 2.9.4 The Cold Storage Writing Mode
+The meaning of a Product State is defined by Leanpub and may change at any time. New Product States may be added, and old ones removed, at Leanpub’s sole discretion, without notice. Current Product States include Published, Unpublished, Embargoed, Retired, Forcibly Retired, and Deleted.
 
-There are a number of Writing Modes on Leanpub, including Dropbox Writing Mode. In Dropbox Writing Mode, the book manuscript folder is stored in a Dropbox folder which is shared between Leanpub and the author(s) of the book.
+The Product State affects access and availability and may be changed by Ruboss at any time. For example, if the copyright ownership of a Product is disputed, Ruboss may change the Product State from Published to Unpublished without notice.
 
-A book is considered Inactive if it has not been previewed or published in an extended period of time. This amount of time is currently six (6) months, but this may be increased or decreased at Leanpub’s sole discretion.
+#### Product Categories
 
-If a book in Dropbox Writing Mode is Inactive, Leanpub may change its Writing Mode into the Cold Storage Writing Mode.
+Leanpub Products can be associated with one or more categories (the “Category” or “Categories”) to help Users discover them.
 
-When we move a Product to the Cold Storage state, we attempt to create a new version of the Product’s manuscript folder using our Versions feature. We then remove ourselves from the Dropbox folder which is shared with Leanpub and the author(s).
+Ruboss may create, modify, or remove Categories at its discretion. Ruboss may also reassign Categories chosen by a User if they do not align with the perceived purpose or nature of the Product.
 
-There are two ways to restore a Product from Cold Storage:
+#### Product Completion
 
-1. Go to the Preview or Publish page for the Product, where you will find relevant instructions for sharing the Dropbox folder containing the manuscript with Leanpub. Doing this attempts to restore your manuscript to the version in the Dropbox folder which you share with Leanpub.
-2. Go to the Writing Mode page, where you can just change into any of the other Writing Modes. Doing this will start with a manuscript folder containing the most recent version of the files which we have. (This is the same as the most recent version on your manuscript versions page.) If you happen to have newer files than these files, you can just copy any newer manuscript files into this new folder.
+Leanpub Products can be published and sold while incomplete, especially if they are works in progress.
 
-#### 2.10 Abusive Speech
+Publishing or selling an in-progress Product does not guarantee that the Product will be completed by Leanpub or the Author.
 
-Any User or person who engages in abusive speech or other abusive actions in their use of the Services, or in their contact with Leanpub Users, or employees, officers, or contractors of Ruboss (an “Abusive Speaker”), may have their access to Leanpub suspended or blocked.
+### Product Pricing
 
-If a User or person is deemed by Ruboss to have engaged in abusive speech, Ruboss may suspend access to, or terminate, a User’s Leanpub account. Ruboss may also take measures to protect Users, or employees, officers, or contractors of Ruboss from being contacted by the Abusive Speaker. This may include blocking the Abusive Speaker’s email address from being able to send emails to any @leanpub.com email address, or blocking the email address from being used on “Email the Author(s)” forms, along with any other relevant action Ruboss deems appropriate.
+Authors set the following parameters for each Product:
 
-This policy means that, for example, if you send an email to hello@leanpub.com with abusive speech and/or other abusive content, without any requirement to respond to you or give you any warning, we may block hello@leanpub.com from receiving emails sent from your email address, and/or block your email address from being used to create a new Account, or access an existing Account.
+1. Whether the Product allows free purchases.
+    
+2. A Minimum Paid Price, which is the lowest amount a User can pay.
+    
+3. A Suggested Price, which is the default price (including $0) that the User is prompted to pay.
+    
 
-The purpose of this policy is not just to stop abusive speech carried out in association with the Services, but also to prevent such abusive speech from occurring in association with Ruboss. Therefore, this policy extends to the world outside direct use of the Services, and includes any contact with persons associated with Ruboss or any of its services. For example, if we discover abusive speech in your social media interactions, even if those interactions have nothing to do with Ruboss, we may invoke this policy and suspend access to an associated Leanpub account, and/or block any future use of the Services by the Abusive Speaker, to the extent we are able to do so.
+Leanpub applies the following Pricing Constraints:
 
-Ruboss reserves the right to determine, at its own discretion, what constitutes abusive speech, and to invoke this policy without warning or any communication whatsoever. For guidance on this matter, please read section 9 of these Terms, “Content Policy;” however, that section does not limit Ruboss’s right to determine whether an activity constitutes abusive speech.
+1. All Products (Books, Bundles, Courses, Tracks) currently support free purchases, though this may change in the future.
+    
+2. The lowest value of a Minimum Paid Price for a Book is $0.99. For Bundles, Courses, or Tracks, the Minimum Paid Price is $7.99.
+    
+3. Suggested Prices have default values but can be set to any amount starting from the Minimum Paid Price the Author has chosen and up. They can also be set to $0 if the Product allows free purchases.
+    
+4. The Maximum Price allowable for any Product is $25,000.
+    
 
-An example of abusive speech is racist speech. Another example is threatening an individual with death, or any form of physical violence. The threat does not have to be direct or take textual form in order to be determined by Ruboss to be abusive speech.
+#### Purchasing Multiple Copies of a Product
 
-The decision to invoke this policy and take action with respect to a User or person is entirely at the discretion of Ruboss.
+Users can purchase multiple copies of a Product in two ways:
 
-#### 2.11 Code of Conduct and Statements Involving Personally Identifying Information
+1. **Price Increase Method**: The User increases the price to the equivalent of multiple copies (e.g., five times the single copy price). Since Leanpub uses no Digital Rights Management, these copies can be shared directly.
+    
+2. **Shopping Cart Method**: The User purchases multiple copies using the shopping cart, which generates a purchase token (the “Purchase Token” or “Purchase Tokens”) for each copy. These tokens can be sent via email to recipients (“Purchase Token Recipients”) and redeemed once per recipient.
+    
 
-Leanpub books and any associated public repositories will not be used to make personal attacks or statements which are defamatory or potentially libellous toward any other person, regardless of whether they have an Account. This is especially true if there is enough Personally Identifying Information to identify the individual or individuals being mentioned.
+Additionally, Authors can create **Packages** that allow Users to purchase a defined number of copies of a Book at a discounted price. For example, an Author could offer a 100-copy package that costs less than buying 100 individual copies. This option allows Authors to provide bulk discounts for their Products.
 
-The determination that these Terms have been violated is at the sole discretion of Ruboss. Any such occurrence in a book or public repository may result in Ruboss deleting that Leanpub book, and potentially terminating any Account(s) we deem to be associated with the occurrence.
+#### Coupons
 
-Leanpub does not exist to be used as a weapon in interpersonal disputes. Using Leanpub is this way is a gross misuse of our platform, which we have zero tolerance for.
+Authors can issue Coupons to offer Products at prices different from the Minimum or Suggested Prices. Coupons can have constraints such as Start Dates, End Dates, and Maximum Uses and are redeemable only for the Product they were created for.
 
-#### 2.12 Artificial Inflation of Sales Counts
+Leanpub may issue Coupons to provide review copies, resolve customer complaints, or promote customer satisfaction, at its discretion.
 
-The artificial inflation of sales counts (“Artificial Sales Inflation”) for Products is prohibited. This constitutes a violation of these Terms and may result in Account suspension or termination, at the sole discretion of Ruboss. Examples of Artificial Sales Inflation include, but are not limited to, making free purchases of your own Book using fake or otherwise unused email accounts. Whether or not a case of Artificial Sales Inflation has taken place is a determination made solely at the discretion of Ruboss.
+### Providing Time-of-Purchase Product Content
 
-If we suspect Artificial Sales Inflation is taking place, or has taken place, in association with a Product, without any obligation to notify you, we may suspend the ability of customers to purchase the Product until we have completed our investigation of the matter. At its sole discretion, Ruboss may cancel any purchase we deem or suspect to be associated with a case of Artificial Sales Inflation.
+At our discretion, we may provide Users with the Content as it was at the time of their purchase (“Time-of-Purchase Content”), including free purchases. This is typically done when an Author replaces substantial content with trivial or unrelated material, such as switching a completed Book for a one-page PDF promoting another product.
 
-#### 2.13 Chief Compliance Officer
+This option is primarily used when an Author unintentionally removes their Product from Users’ Leanpub libraries by making such changes. Our goal in these cases is to restore Users’ access to the original Product.
 
-Ruboss has a Chief Compliance Officer (the “CCO”) who functions as a point of contact for the enforcement of these Terms, and for making reasonable efforts to ensure Ruboss’s compliance with all applicable laws and regulations generally. It is the responsibility of the Chief Compliance Officer to see that Ruboss responds in a timely manner to reasonable reports of potential violations of these Terms, and to resolve issues with Users relating to potential violations of these Terms, and any actions or determinations undertaken by Ruboss in response to potential violations of these Terms.
+This does not establish a right for Users to access Time-of-Purchase Content, but we may offer it upon request.
 
-The CCO is also the Agent of Notice and the Data Protection Officer for Ruboss.
+### Restoring a Previous Version of a Product
 
-To contact the Ruboss CCO via email, send an email to hello@leanpub.com with the subject: “Attention: Chief Compliance Officer.” To contact the CCO via post, you may send a letter to the address presented at the end of these Terms.
+We reserve the right to restore a previously published version of any Product. This could involve replacing the current version or publishing a new version based on an earlier one. We may also make changes such as altering a Product’s writing mode, setting up a new GitHub repository, or updating the description. Product States may be temporarily altered to facilitate this process (e.g., switching from Retired to Published and back).
 
-#### 2.14 The Leanpub API
+This is typically done when an Author has unintentionally removed significant content, and our goal is to restore Users’ access to the Product.
 
-The Leanpub API is for the personal, non-commercial use of Leanpub Users. Its use may be restricted to Users with a paid Membership. By “personal, non-commercial use”, we mean that a User can use the Leanpub API for their own Products (for example, to preview and publish them, viewing their sales, and generating coupons), but no one is permitted to use the Leanpub API as the basis for building and selling software.
+### License Grant to Purchasers of Products
 
-Access to the Leanpub API may be revoked for any User, at any time, for any reason.
+Leanpub Products, such as ebooks, are intangible digital goods. The rights you receive come directly from the Author or Organization and are granted as a license to use the Product, subject to these Terms. This includes all applicable copyright laws.
 
-#### 2.15 Suspending Accounts
+Upon purchasing a Product, you are granted the following rights:
 
-**AT ITS SOLE DISCRETION, IF RUBOSS DETERMINES THAT A USER MAY HAVE VIOLATED THESE TERMS OR OTHER RELEVANT POLICIES, OR OTHERWISE ENGAGED IN ANY BEHAVIOUR DEEMED UNACCEPTABLE BY RUBOSS, RUBOSS MAY, WITHOUT NOTIFYING THE USER, TAKE ONE OR MORE OF THE FOLLOWING ACTIONS, OR ANY OTHER ACTION DEEMED BY RUBOSS TO BE APPROPRIATE, BASED ON THE DETAILS OF THE VIOLATION:**
+* You may download and save the Product on any device for personal, non-commercial use.
+    
+* You may transfer the Product between your devices.
+    
+* You may not store the Product on publicly accessible servers (e.g., FTP or web servers).
+    
+* Your license is non-transferable.
+    
+* You may not sell the Product or transfer its associated rights.
+    
+* You may make a reasonable number of archival copies.
+    
+* If you made a “Multiple Copy Purchase,” you may distribute additional copies to intended recipients, who will also be bound by these Terms and the Privacy Policy.
+    
 
-* **REMOVAL FROM THE SERVICES OF ANY ASSOCIATED BOOK, BUNDLE, EXTRA, OR PACKAGE AND ASSOCIATED MATERIAL;**
-* **REMOVAL FROM THE SERVICES OF ANY OTHER BOOK, BUNDLE, EXTRA, OR PACKAGE AND ASSOCIATED MATERIAL THAT IS ASSOCIATED WITH THE USER OR THE UNACCEPTABLE ACTIVITY;**
-* **DISABLING OF THE USER’S ACCESS TO THEIR LEANPUB ACCOUNT OR ACCOUNTS;**
-* **REPORTING THE USER TO LAW ENFORCEMENT AUTHORITIES;**
-* **REFUNDING ALL REFUNDABLE PURCHASES OF ANY OR ALL OF THE USER’S PRODUCTS IN ALL OF THEIR ACCOUNTS; AND**
-    * **A PERMANENT BAN OF THE USER FROM USE OF THE SERVICES, INCLUDING ANY ACCOUNTS OWNED BY THE USER AT THE TIME THE BAN IS INITIATED, AND ANY FUTURE ACCOUNT OR ACCOUNTS CREATED BY THE BANNED USER.**
+Your rights to the Product remain valid as long as you comply with these Terms and retain a copy of the Product.
 
-#### 2.16 Product Categories
+Leanpub Products are made available via download links or URLs, which may be sent via email or provided in your Leanpub account. Ruboss is not responsible for unauthorized sharing or misuse of download links.
 
-Leanpub Products may be associated with a category or a number of categories (the “Category” or “Categories”). Categories help people discover Products based on their individual interests.
+#### Special Terms for Organizational Purchasers
 
-At its sole discretion, Ruboss may create, rename, or remove any Category, and Ruboss may choose to associate any Product with any Category or Categories. In addition, Ruboss may also remove or change any Category that a User has chosen to associate with a Product, if we believe the associated Category does not match our perception of the Product’s purpose or nature.
+If you are purchasing a Product on behalf of an organization for multiple readers:
 
-#### 2.17 AI Services and Other Author Services
+* Both your organization and individual users are subject to the same terms as individual purchasers.
+    
+* You must purchase enough copies to cover the maximum number of users expected to access the Product.
+    
 
-Ruboss offers special paid sets of services to authors (the “Author Services” and “AI Services”). The specific services offered for each set of Author Services and AI Services is set out here https://leanpub.com/translate\_ai/buy. The specific services that will be provided are those that are set out at the time of purchase, and are subject to change at any time, at Ruboss’s sole discretion.
+#### Special Terms for Library Purchasers
 
-The Author Services and AI Services are provided primarily for the purpose of saving authors time and effort using third-party services, such as OpenAI GPT-4 and Amazon KDP. Since the Author Services and AI Services involve dealing with third-party services, Ruboss is subject to the terms and availability of, and changes to, those third-party services. For example, the timing according to which we receive royalties from the third-party services is not under our control, and the third-party services may withhold royalties at their discretion, or otherwise reject or remove and Products for which AI Services are purchased.
+Due to Leanpub’s focus on in-progress Books, library purchases can present challenges. If you wish to buy a Product for a library, you must contact the Author or Organization directly to arrange the purchase. This can be done separately from Leanpub.
 
-While we will endeavour to deliver the Author Services and AI Services promptly, it is not permitted to submit numerous changes and demand frequent updates to the third-party services. For example, in typical cases, publishing a Book on Amazon will be a one-time effort, and we will not publish changes to the Book once it is set up properly.
+#### Reselling Prohibited
 
-Ruboss may cease support of a User’s purchased Author Services and AI Services at any time, at its sole discretion, particularly for violation of these Terms of Service, or violation of the Terms of Service of a third-party service. For example, if a User is discovered to have engaged in plagiarism, Ruboss may remove a Product published on Amazon, and cease all royalty payments to the User. Ruboss is under no obligation to provide a refund for withdrawn support of the AI Services.
+Users are not permitted to purchase Products for resale. For example, a bookstore cannot buy a Leanpub book to resell it to a customer.
 
-##### 2.17.1 Use of Your Content to Develop and Improve AI Services
+Author Services
+---------------
 
-AI Services may involve the use of third-party products and services, for example OpenAI services. While we are interacting with third parties and their products to provide AI Services, we will be constantly seeking to improve our own in-house “prompt engineering” and other skills and knowledge. By using AI Services, you consent to the development and improvement by Ruboss of proprietary in-house procedures that involve the use of your Content.
+Ruboss offers paid sets of services to authors (the “Author Services”). These services aim to save authors time in achieving specific goals, such as producing translations (TranslateAI service and GlobalAuthor bundles), creating courses (CourseAI service), or publishing print and ebook versions on Amazon KDP (Publish on Amazon service). The specific services provided are outlined at the time of purchase and may be modified at any time, at Ruboss’s sole discretion.
 
-##### 2.17.2 Exclusion of Erotica from AI Services
+Author Services often utilize one or more external services, such as the OpenAI API or Amazon KDP, which introduces dependencies and limitations on their delivery. Ruboss is subject to the terms, availability, and policies of these third-party services. For instance, third-party services may delay or withhold royalties, reject products, or remove them entirely at their discretion, and Ruboss has no control over these actions.
 
-Content classified as Erotica is not eligible for AI Services.
+While we strive to deliver Author Services promptly, repeated or frequent requests for changes or updates are not permitted. Typically, services such as publishing a Book on Amazon KDP involve a one-time effort, and ongoing changes after setup are not included.
 
-#### 2.18 The Annual Reader Membership Drive Email List
+Ruboss reserves the right to withdraw support for a purchased Author Service at any time, particularly if a User violates these Terms or the Terms of a third-party service. For example, if plagiarism is discovered, Ruboss may remove a Product from Amazon and halt royalty payments. There is no obligation to issue a refund in such cases.
 
-We do an annual “Reader Membership Drive” to notify some Users of the advantages they can get from buying a Reader Membership. If you purchase a Product for free, and you do not have a Reader Membership, you may be added to our Reader Membership Drive mailing list. If you receive an email regarding the annual Reader Membership Drive, you will see an option in the email to unsubscribe from the list.
+Additionally, if an author purchases an Author Service for a book that includes copyrighted material (such as images), Ruboss will evaluate the situation. If it determines, at its sole discretion, that the use of copyrighted material was an _Innocent Mistake_, Ruboss may offer the author the opportunity to resolve the issue by removing the material or providing a refund. However, if Ruboss determines the issue was caused by _Deliberate Deception_, the author forfeits the cost of the service, as Ruboss incurred costs related to the discovery and resolution of the issue.
 
-### 3\. Account Memberships
+Leanpub Memberships
+-------------------
 
-Account memberships give Users access to restricted features and privileges on Leanpub (the “Membership” or “Memberships”).
+Leanpub offers memberships (“Memberships”) that provide access to specific features and privileges.
 
-### 3.1 Types of Memberships and Associated Features and Privileges
-
-Ruboss offers the following Memberships:
+### Types of Memberships
 
 * Free Membership
+    
 * Reader Membership
+    
 * Standard Membership
+    
 * Pro Membership
+    
 
-The features and privileges associated with each Membership are set out on the Membership page here: [https://leanpub.com/membership](https://leanpub.com/membership).
+Details on the features for each Membership are listed on the [Membership page](https://leanpub.com/membership). These features may change at any time, including the addition or removal of privileges, without notice.
 
-The features and privileges associated with a Membership may be changed by Ruboss at any time. Typically, this will involve the addition of new features and privileges, but Membership-only features and privileges may also be removed changed or revoked at any time, and without notification.
+### Membership Charges
 
-#### 3.1 Membership Payments
+Payments for Memberships are processed online through Ruboss’s services.
 
-Memberships may be free, or they may require payment. Payments may only be made online via the services offered by Ruboss.
+### Country Restrictions on Recurring Payments
 
-##### 3.1.1 Country Restrictions on Recurring Membership Payment Terms
+Some countries may not allow recurring monthly billing. If this applies to your location, you cannot obtain a Membership requiring recurring payments.
 
-Some countries may not permit recurring monthly recurring billing. If your country does not permit monthly billing of this kind, then you are not permitted obtain a Membership that requires recurring payments from you.
+### Membership Periods
 
-#### 3.2 Membership Periods
+Memberships expire after a set period (“Membership Period”), such as 365 days for annual Memberships. Once expired, Users must make another payment to regain access to Membership features.
 
-A Membership may expire after a set period of time (the “Membership Period”). For example, an annual Membership will expire after 365 days. At the end of the Membership Period, a User must make another Membership payment to regain access to the Membership features and privileges.
+### Cancelling Paid Memberships
 
-##### 3.3 Paid Membership Cancellation
+You may cancel a paid Membership at any time, and your account will revert to Free Membership. For any concerns about the impact of cancellation, consult our [Help Center](http://help.leanpub.com/en) or contact hello@leanpub.com.
 
-A User may cancel a paid Membership at any time. When you cancel a paid Membership, your Account will be given a Free Membership.
+Ruboss reserves the right to cancel any free or paid Membership at any time for suspected violations of these Terms or other reasons at its discretion. If a scheduled payment is missed, the Membership may be canceled.
 
-If you are concerned about the impact that the cancellation of your Membership may have, please see our [Help Center](http://help.leanpub.com/en) or contact us at hello@leanpub.com.
+### Membership Pricing and Refunds
 
-Ruboss reserves the right to cancel any free or paid Membership at any time, at its sole discretion, for suspected violation of these Terms, or for any other reason.
+Membership prices are listed on our [Membership page](https://leanpub.com/membership). Refunds are processed according to our Refund Policy.
 
-If a scheduled recurring payment for a paid Membership is not received by Ruboss, your paid Membership will be cancelled.
+### Reader Membership Revenue Pool
 
-##### 3.4 Membership Price and Refund Policy
+Reader Memberships allow Users to purchase eligible Products for free. A portion of the Reader Membership payment is allocated to the Reader Membership Revenue Pool and distributed to eligible Authors based on purchases during the Membership Period.
 
-Membership prices are set out on the Membership page here: [https://leanpub.com/membership](https://leanpub.com/membership).
+### Opting In for Reader Membership Revenue Pool
 
-Membership purchases may be refunded in accordance with our Refund Policy as set out in section 12 of these terms (“Refunds”).
+Products can be opted in to receive revenue from the Reader Membership Revenue Pool. Ruboss may opt any Product out of this eligibility at its discretion, without notice.
 
-##### 3.5 Reader Membership Privileges Regarding the Reader Membership Revenue Pool
+The Partner Program
+-------------------
 
-A Reader Membership allows a User to purchase, for free, Products that are eligible to receive revenue allocations from the Reader Membership Revenue Pool. Based on the Free purchases they make during their Membership Period, a portion of a User’s Reader Membership payment or payments will be added to the Reader Membership Revenue Pool and shared with eligible Authors, as set out in section 11.2.7 of these Terms.
+Leanpub may partner with companies or organizations (“Partners”) to sell Leanpub Products via their own websites.
 
-##### 3.5.1 Eligilbity for Receiving Revenue from the Reader Membership Revenue Pool
+### Opting Out of the Partner Program
 
-Any Product may be included for eligiblity to receive revenue allocations from the Reader Membership Revenue Pool.
+All Leanpub Products are opted in to the Partner Program by default. However, the Primary Author can opt out of the Partner Program on the Pricing page for each Product.
 
-By default, the owner (or owners) of any Product with a Minimum Price set to Free are eligible to receive revenue allocations from the Reader Membership Revenue Pool for Free purchases of the Product.
+An Organization can choose for all its Products to be opted out of the Partner Program. Similarly, a User can choose for all Products where they are the Primary Author to be opted out of the Partner Program.
 
-However, any Product may be excluded from eligibility for receiving revenue from the Rader Membership Revenue Pool (the “Excluded Product” or “Excluded Products”), even if its Minimum Price is set to Free. A Product may be excluded from eligiblity when the owner of the Product (typically the Primary Author) opts the Product out of eligibility, or it may excluded at the discretion of Ruboss.
+### Specific Terms for Each Partner
 
-At any time, a Product may be opted out of, or opted in to, eligibilty for revenue allocations from the Reader Membership Revenue Pool.
+The terms of cooperation with each Partner are determined by individual contracts and are not publicly disclosed.
 
-All Free purchases of Products that are made using Free coupons, and all Free purchases of Products which are opted out of the Membership revenue Pool, are excluded from earning revenue from the Reader Membership Revenue Pool.
+### General Terms for Partners
 
-At its sole discretion, at any time and and without notification, Ruboss may opt any Product out of eligibilty for revenue allocations from the Reader Membership Revenue Pool.
+Partner websites may update Product details periodically, such as once a month (“Partner Updates”). This can result in a Partner selling a Leanpub Product with outdated details, such as an old Suggested Price, until the next update.
 
-### 4\. Advertisements
+If a Product has multiple Packages, the default Package will be selected by the Partner for sale. This selection is also subject to Partner Updates.
 
-#### 4.1 Third Party Advertisements
+Partners are permitted to display Product and Author information, such as the Author’s name, Leanpub profile, book title, cover image, etc., on their websites, apps, and social media.
 
-The Services may include advertisements, which may be targeted with respect to the Content or information on the Services, queries made through the Services, or other information. The types and extent of advertising by Ruboss on the Services are subject to change without notice. In consideration for Ruboss granting you access to and use of the Services, you agree that Ruboss and its third party providers and partners may place such advertising on the Services or in connection with the display of Content or information from the Services, whether that Content or information is submitted by you or others.
+Partner sales use free Coupon codes (multiple-use or single-use via API). Customers receive the Product on Leanpub via these coupons, ensuring they get updates like any other Leanpub customer.
 
-These advertisements may include, but are not limited to, advertisements for other Content uploaded by other users to Leanpub regardless of any negative impact this may have to you.
+Leanpub invoices Partners once per month based on the number of Coupons redeemed. If Coupon overuse occurs due to sharing, Partners are not held liable, and Authors will not receive compensation for overused Coupons.
 
-For example, if you write a book about cheese and publish it on the Site, Ruboss reserves the right to advertise other Leanpub books about cheese and also any cheese-related products or services on the pages of the Leanpub website used for your Product(s) and in the Services such as an online service facilitated by Leanpub where Users can interact with one another in a public format (the “Forum” or “Forums”) used for your book.
+The ordinary Royalty Rate applies to Partner Program purchases, just like with regular Leanpub sales.
 
-Ruboss disclaims all responsibility or liability for any losses or damages associated with or as a consequence of advertisements on the Site.
+### List of Partners
 
-#### 4.2 Free and Paid Placements and the Leanpub Advertising Program
+Currently, our only Partner is Learnerbly: https://www.learnerbly.com.
 
-Authors and Organizations may choose to advertise their Product or Products via free or paid Placements (including the “Free Placement,” “Free Placements,” “Paid Placement” and “Paid Placements”) that Leanpub may offer and arrange. This includes Placements purchased for display on The Shelf (the “Shelf Spot” or “Shelf Spots”) and/or any other such offering (such as bids for Google Ads placements), and placements made via the opt-in Leanpub Advertising Program.
+Payments to Leanpub
+-------------------
 
-Authors and Organizations may choose to opt in to the Leanpub Advertising Program to boost awareness of their work by being featured in special locations reserved for the Leanpub Advertising Program such as the Site, mailing list emails, social media, or other external channels. The percentage of each sale allocated to a User eligible to receive royalties associated with the sale of a Product or Products on Leanpub (the “Royalty Rate”) for sales made through the Leanpub Advertising Program may vary depending on the terms of the specific Placement. Ruboss does not guarantee that opting in to the Advertising program will increase sales or awareness of any Product or other Content. Ruboss reserves the right to modify the Leanpub Advertising Program, and the terms of any Placement, Free or Paid, at any time and at its sole discretion. As a courtesy, any changes to this program will typically be communicated to the Users participating in a Placement.
+### Payments for Content and Services
 
-The rules that govern the authority to make changes to a Placement, including its status, are the same as those that apply to the Primary Author of a Product. The Primary Author of a Placement may opt out of a Placement at any time. You must be the Primary Author of a Product in order to associate a Product with a Placement. For example, if you have purchased a spot on The Shelf, you must be the Primary Author of a Book in order associate the Book with your space on The Shelf.
+To purchase Products or Services through the Site, Users must pay using one of the third-party services we support (the “Purchase Payment Service” or “Purchase Payment Services”). Currently, Ruboss uses two Purchase Payment Services: PayPal and Stripe.
 
-To be clear, if you have purchased a space on The Shelf and have been using it to advertise a Book of which you are the Primary Author, and your status with respect to the Book is changed such that you are no longer the Primary Author of the Book, the Book will no longer be associated with your space on The Shelf.
+For their terms of service, please visit their respective websites:
 
-Paid Placements are non-refundable. Placements are non-transferrable; for example, the Primary Author of a Placement may not transfer their status as Primary Author of the Placement to any other User or person.
+* [PayPal](https://www.paypal.com/)
+    
+* [Stripe](https://stripe.com/)
+    
 
-A Product may only be displayed in association with a Placement if the Product is in a published Product State and is not under Embargo or any other restriction. If a Product that is involved in a Placement is not in a Published State, for example if a User or Leanpub changes the Product’s State to any State incompatible with participation in the Placement, then the Product will be removed from the Placement. Any payment received for the Placement will not be refunded.
+Ruboss is not responsible for any issues related to these Purchase Payment Services, including regional limitations or changes to service availability. Users in unsupported regions may not be able to make purchases.
 
-Leanpub reserves the right to remove a Product from a Placement at any time at its sole discretion. For example, if Leanpub determines that a Product or Author is in violation of these Terms or any law, Leanpub reserves the right to remove that Product or all of that Author’s Products from any Placement.
+It is the User’s responsibility to ensure their account information with the Purchase Payment Service is accurate and up to date. If issues arise, such as difficulty completing a purchase or receiving a refund, Users should contact the payment service’s customer support directly.
 
-#### 4.2.1 Shelf Spots
+### Contributions
 
-Shelf Spots may not be transferred to other Users. Each Shelf Spot is dedicated to the Product it is associated with at the time the Shelf Spot is purchased; a Shelf Spot may not be transferred to another Product. Like all Paid Placements, a purchase of a Shelf Spot is not refundable.
+Leanpub allows Users to make financial contributions to support the platform’s mission of sustaining and improving its publishing services for a global community of readers and authors.
 
-#### 4.3 Marketing
+Contributions are one-time payments and are not considered charitable donations. All contributions are processed through the available payment methods and are subject to our Refund Policy.
 
-Ruboss has sole discretion in determining all marketing and promotions within the Leanpub Site and Services and may, without limitation, market and promote any Content or Product, including Books, Bundles and Packages, by making portions of them available to prospective customers at no charge, or advertising a Product image (such as a Book cover image) in Leanpub advertisements throughout the Site or elsewhere, including for example in tweets on Twitter and in Facebooks posts.
+Ruboss reserves the right to refuse or return any contribution at its discretion.
 
-Ruboss reserves the right to promote at no cost to Ruboss any Product or Products for sale on the Site in locations other than the Site, including physical promotions in physical locations, and locations online. This includes, for example, the use of the names and representations of the appearances, avatars or logos of any Author or Organization, in addition to descriptions and representations of the Product or Products being marketed.
+Royalty Payments from Leanpub
+-----------------------------
 
-Ruboss has no obligation to market or promote any Content or Product, or to continue to market or promote any Product after it has begun doing so.
+To receive royalty payments, Users must use one of the third-party services supported by Ruboss (the “Royalty Payment Service” or “Royalty Payment Services”). Currently, Ruboss supports PayPal and Wise for royalty payments.
 
-#### 4.4 Review Copies and Desk Copies
+For terms of service, please visit their respective websites:
 
-At its sole discretion, Ruboss may distribute up to 100 copies per year of any Product available for sale on Leanpub for free to interested parties. There are three main use cases for this: (1) requests for a “desk copy” or “desk copies” of a Product from an academic or an academic institution, (2) free copies to customers for customer service reasons and (3) giveaways of a few copies of an ebook to meetup groups or user groups for promotional purposes.
+* [PayPal](https://www.paypal.com/)
+    
+* [Wise](https://wise.com/)
+    
 
-### 5\. Privacy
+By default, royalties are paid via Wise, though Users may opt to receive payments via PayPal.
 
-Any information that you provide on the Services is subject to our Privacy Policy (the “Privacy Policy”), which governs our collection and use of such information. You understand that through your use of the Services you expressly consent to the collection and use of this information as set forth in the Privacy Policy.
+It is the User’s responsibility to ensure that all payment information provided to the Royalty Payment Service is accurate. Ruboss is not liable for losses resulting from incorrect account details.
 
-As part of providing the Services, we may need to communicate to you certain information by email, such as service announcements and administrative messages. These communications are considered part of the Services and your Leanpub Account; therefore, you are not able to choose not to receive them. If you do not wish to receive such communications, you may need to initiate the termination of your Account, which you may do by notifying us via email at [hello@leanpub.com](mailto:hello@leanpub.com).
+### Royalty Payments via PayPal
 
-The Privacy Policy can be found [here](https://leanpub.com/privacy). Accepting these Terms constitutes acceptance of the Privacy Policy. We may update the Privacy Policy from time to time, without notice. The User is responsible for ensuring they are up to date on the Privacy Policy. We recommend that you check it regularly.
+If a specific PayPal email address has not been added to the User’s Leanpub account, Ruboss will attempt to send payments to the email address associated with the account. Payments are made in US Dollars.
 
-### 6\. Content Pricing Policy
+Ruboss typically covers PayPal transaction fees, though in some cases, the User may be responsible for these fees. Additionally, Users are responsible for any other charges such as service or currency conversion fees applied by PayPal or other financial institutions.
 
-The Leanpub purchasing model allows a User under some circumstances to choose the Purchase Price for a Product within the constraints set by Ruboss, an Author, Co-Author, or any other person with the authority to set the Product’s prices.
+Royalties via PayPal are processed in two ways:
 
-A Leanpub User who offers a Product for sale on Leanpub may choose two prices for each Product: a Suggested Price and a Minimum Price (“Variable Pricing”). The Minimum Price must be lower than or equal to the Suggested Price.
+1. **Mass Payment:** For payouts between $20 and $10,000.
+    
+2. **Individual Payment:** For special cases, with a minimum payout of $20.
+    
 
-When they are purchasing a Product, the User then chooses the purchase price they wish to pay (the “Purchase Price” or “Purchase Prices”), within the constraints of this Variable Pricing model and other constraints set by Ruboss, such as the lowest price which a User may set for Content that is not $0.00 (the “Lowest Permitted Not Free Minimum Price”) and the highest price which may set as the sale price for a Product (the “Maximum Price”).
+### Royalty Payments via Wise
 
-There are special rules for the sale of Bundles. For Bundles, only one price is set (the “Bundle Price”).
+If a specific Wise email address has not been added to the User’s Leanpub account, Ruboss will attempt to send payments to the email address associated with the account. Payments are made in US Dollars by default, but Users can choose for Wise to convert into a large number of currencies. As with PayPal, Users are responsible for any service or currency exchange fees applied by Wise or financial institutions.
 
-Authors, Co-Authors, Organizations and Universities all have the authority to set the price or prices of a Product. The price or prices may be changed by any Account Holder with the capability to do so at any time and for any reason by a User with the ability to do so within Leanpub.
+With Royalty Payments via Wise, the cost of sending the Wise payment is subtracted from your royalties. However, if you are converting from US Dollars into another currency, this is typically preferable to receiving the payment via PayPal.
 
-#### 6.1 Minimum Price Rules
+### Minimum Royalty Payout Amount
 
-The lowest price a Product may be set to is $0.00, or “Free”.
+The minimum royalty payment Ruboss will issue is $20 for PayPal and $100 for Wise. These thresholds may change at any time without notice.
 
-Currently, the Lowest Permitted Not Free Minimum Prices for Products are as follows:
+Users may also set a higher minimum payout amount for their account. If a User’s earnings are below the threshold, the balance will roll over to the next month until the minimum payout amount is met.
 
-* For a Book, the price is $7.99.
-* For a Bundle, the price is $9.99.
-* For a Course, the price is $19.00.
-* For a Track (formerly a “Course Set”), the price is $29.00.
+### Reader Membership Revenue Pool Payments
 
-Ruboss may raise or lower the Lowest Permitted Not Free Minimum Price for any Product at any time.
+Revenue from the Reader Membership Revenue Pool is paid separately from standard royalties. The minimum payout for this revenue is $100 (for both PayPal and Wise), though Users with a higher self-set minimum payout amount will follow that threshold.
 
-If the Lowest Permitted Not Free Minimum Price is changed, all Products where the Product’s non-Free Minimum Price is lower than the new Lowest Permitted Not Free Minimum Price, will automatically have their Minimum Price changed to the new Lowest Permitted Not Free Minimum Price.
+To be clear, Reader Membership Revenue Pool revenue is only earned by Products which are Free With Membership. A Product is Free With Membership if it allows free purchases (for $0) AND if it requires those Users making the purchase to have a Membership (such as a Reader Membership or Author Membership). This is described further in the Reader Membership Revenue Pool Allocation section.
 
-For example, if a Book is for sale at a Minimum Price of $4.99, and we raise the Lowest Permitted Not Free Minimum Price to $7.99, the Book will then have a Minimum Price of $7.99.
+If a User or Organization has no Free With Membership Products, then they do not receive any Reader Membership Revenue Pool Payments.
 
-#### 6.2 Maximum Price Rules
+### Royalty Payments to Co-Authors
 
-Currently, the Maximum Prices for Products are as follows:
+For Products with multiple Authors, each will receive their share of royalties as specified by the Primary Author through the royalty structure set in the administrative interface. Changes to this structure apply only going forward, not retroactively.
 
-* For a Book, the price is $1,000.00.
-* For a Bundle, the price is $3,000.00.
-* For a Course, the price is $5,000.00.
-* For a Track (formerly a “Course Set”), the price is $9,999.00.
+### Royalty Hold Period
 
-Ruboss may raise or lower the Maximum Price for any Product at any time.
+Leanpub offers a 60-day refund period for Products, and as such, royalties from purchases are held for at least 60 days before being paid out. This Royalty Hold Period allows for adjustments due to refunds, chargebacks or fraud.
 
-#### 6.3 Purchasing Multiple Copies of a Product
+Ruboss reserves the right to shorten or extend the Royalty Hold Period at its discretion without notice.
 
-Under some circumstances, Users may purchase multiple copies of a Product (the “Multiple Copy Purchase” or “Multiple Copy Purchases”). A Multiple Copy Purchase may be purchased in two ways:
+### Royalty Rates
 
-1) By increasing the price of the Product to be the equivalent to the number of copies being purchased times a price chosen for a single copy of the Product by the User (the “Chosen Price”). The Chosen Price must be equal to or greater than the Minimum Price of the Product, and must be equal to or less than the Maximum Price. The purchaser may then distribute copies of the Product purchased equal to the multiple of the price chosen to purchase the equivalent of a single copy of the Product. Since Leanpub has no Digital Rights Management, these copies can be shared directly by the purchaser.
+Royalty rates depend on the price of the Product.
 
-2) By using the shopping cart feature that permits the User to purchase a number of copies set by the User. In this case, after the purchase is completed, the User will be provided with the ability to distribute a purchase token (the “Purchase Token” or “Purchase Tokens”) for each copy purchased. Purchase Tokens may be sent via the purchaser’s Account to other people (the “Purchase Token Recipient” or “Purchase Token Recipients”) by using an email address for each Purchase Token Recipient. A Purchase Token may only be used once to redeem the purchase of a Product.
+* For purchases of $7.99 or more, the royalty rate is 80%.
+    
+* For purchases between $0.99 and $7.98, the royalty rate is 80%, minus a $0.50 flat fee.
+    
 
-#### 6.4 Packages and Extras
+If a User’s account is inactive or terminated and Ruboss cannot contact them, Ruboss may charge a termination fee equal to the unpaid royalties.
 
-Packages and Extras are prohibited for the genre of Erotica. For more information, see Section 9.1.
+### Reader Membership Revenue Pool Allocation
 
-Adding a Leanpub book as an Extra and selling it in a Package is not permitted. This practice is confusing to customers, who expect to buy a Bundle, if they are buying a number of books as a group on the Leanpub bookstore. If you want to sell a number of Leanpub books in a group on the Leanpub bookstore, you should create a Bundle of Leanpub books. If we discover that a User has violated this policy, we may remove the related Extra or Extras, and/or remove the associated Package or Packages, from sale in the Leanpub bookstore, without any requirement to inform the Primary Author or any User associated with the violation or violations.
+The Reader Membership Revenue Pool allocation is inherently quite complex. The simplest way to reduce the complexity is to simply not participate in any Reader Membership Revenue Pool allocation. If a User or Organization has no Free With Membership Products, then they do not receive any Reader Membership Revenue Pool Payments, and the complexity of the Reader Membership Revenue Pool allocation does not concern them.
 
-#### 6.5 Bundles
+50% of the revenue Ruboss receives from Reader Membership payments is allocated to a collective pool of revenue (the “Reader Membership Revenue Pool”), which is shared with eligible Leanpub Users, specifically the owners of Products opted in to this pool.
 
-Multiple Leanpub Products can be sold as Bundles. Bundles include two or more Products associated with one or more Account Holders. Royalties from the sale of the Bundles are split according to an agreed-upon formula by the Account Holders whose Products are included in the Bundle. Ruboss is not responsible for the any agreement between Users regarding Bundle pricing and royalty splits, or the process by which any agreement is reached or modified, and Ruboss is not liable for any real or perceived discrepancies, losses, or damages associated with the splitting of royalties between Account Holders.
+For monthly and annual Reader Memberships, the allocation from the Reader Membership Revenue Pool is based on the eligible Free purchases made by the User over a 365-day period (the “Reader Membership Allocation Period”), starting from the date of their first Reader Membership payment.
 
-The Bundle Price is equivalent to the Minimum Price set for the Bundle.
+If a Reader Membership term is extended as part of a promotion, the Reader Membership Allocation Period is extended accordingly. For instance, if a promotional offer extends a Reader Membership to 15 months, the Allocation Period will also cover 15 months.
 
-Bundles including work in the Erotica genre are subject to further terms and conditions. See Section 9.1 for details.
+For Lifetime Reader Memberships, allocations from the Reader Membership Revenue Pool are based on the User’s eligible Free purchases over a 5-year period (the “Lifetime Reader Membership Allocation Period”), beginning from their first payment. Lifetime Reader Memberships function as five consecutive annual memberships, with the total revenue contribution from the Membership divided into five equal portions, distributed once each year for five years. This approach ensures fairness to authors by avoiding payout concentration in the first year or excessive delay. For example, if a Lifetime Membership is purchased for $99, then $49.50 of that goes to the Revenue Pool, divided into five portions of $9.90, allocated annually for five years. If the Membership sells for $200, $100 is allocated, and if it sells for $80, $40 is allocated, etc.
 
-Any Account Holder with the ability to set the Bundle Price may change the Bundle Price at any time and for any reason.
+When a Reader Membership User makes a Free purchase of an eligible Product, a portion of their contribution to the Revenue Pool is assigned to the Product based on the Product’s Suggested Price at the time of purchase, and in relation to other Free purchases the User makes during their Allocation Period.
 
-If the State of one or more of the Products in a Bundle is Unpublished, Deleted, or a Product in a Bundle is otherwise not for sale on Leanpub, then the entire Bundle will be removed for sale from the Leanpub.
+The weighting of a Product’s Suggested Price has limits. The minimum weighting used for calculations is the Product’s minimum non-free price, while the maximum weighting is $50.00. For instance, a Book with a Suggested Price of $0.00 will be weighted as $7.99, and a Book with a Suggested Price of $100 will be capped at $50.00 for weighting purposes.
 
-#### 6.6 Courses and Tracks
+At the end of the Reader Membership Allocation Period, the revenue is calculated for each eligible Product, and the amount is added to the Product owner’s unpaid earnings according to the Royalty split in place when the relevant purchase occurred. These earnings will be included in the next Royalty payout.
 
-Ruboss is not responsible for any consequence to a User related to the use of a Course or Track. For example, if a User fails a Course or Track due to a mistake on the part of an Author with the ability to edit or create a Course or Track, Ruboss is not responsible for any consequence to the User. This includes, for example, failure to meet an employer’s requirement to successfully complete the Course or Track.
+No allocations under one cent will be made to any Product or its owners. If a User exhausts their allocation from the Revenue Pool by purchasing enough Products, any additional Free purchases they make during the Membership Period will not contribute to the Revenue Pool.
 
-See our Refund Policy, which can be found [here](https://leanpub.com/refunds), for more information.
+Only one Free purchase per User per Product counts toward the allocation of revenue from the Pool. Multiple Free purchases of the same Product by the same User during the same or any subsequent Membership Period will only count once.
 
-#### 6.7 Coupons
+Ruboss reserves the right to adjust the Suggested Price weighting at its sole discretion. If Ruboss determines that a Product’s Suggested Price has been unfairly inflated to manipulate the Revenue Pool allocation, it may adjust the Suggested Price weighting accordingly. For instance, if a Product is priced at $1,000 without justification, Ruboss may apply a more reasonable weighting.
 
-Authors may issue links or internet addresses for their Leanpub Products to offer them for sale at a different price from those displayed as the Minimum Price and the Suggested Price (the “Coupon” or “Coupons”). Coupons may be subject to various constraints, including but not limited to Start Dates, End Dates, and Maximum Uses. A Coupon is redeemable only for the Product for which it is created.
+### Payment Attempt Failure
 
-Account Holders with the appropriate level of access can create Coupons, for example, to offer a Book or Package for sale at a price lower than the Minimum Price. Coupons have no cash value. Coupons are non-transferable, and may not be sold.
+If a payment attempt fails, the amount will roll over to a future payout. Ruboss may suspend payments without notice after one or more failed payment attempts.
 
-When a coupon is made, a URL is created that any User may visit in order to purchase the Product for the price set by the Coupon. Ruboss is not responsible for the misuse of a Coupon or Coupons, for example, in the case where a User gives a Coupon link to another User to whom the Author did not intend to offer the Coupon.
+### Withholding Royalties and Suspending Payments
 
-Finally, Leanpub Customer Support may issue Coupons to readers for free or discounted purchases at our sole judgement, for things such as review copies (especially “desk copies” for instructors), to resolve customer complaints or just to ensure overall customer satisfaction. These Coupons will be created as normal book Coupons that you can see on the Coupon page, and they typically will have a note on them indicating they are Leanpub Customer Support coupons. Our goal is to provide excellent customer service to readers and authors, and that includes not bothering an author about small questions of coupons for individual customer issues. Issues such as these should just be resolved, instead of spawning multiple emails for the author and for Leanpub employees.
+Ruboss reserves the right to withhold royalties or suspend payments at its discretion, particularly in cases involving legal action or violations of these Terms.
 
-#### 6.8 Free Purchases
+### Deducting Platform Costs from Royalties
 
-Unless they have been exempted by Ruboss, Products may only be purchased for free if the User has an active Membership. For more details on Memberships and exempted Products, please see section 3.2 of these Terms.
+Users may opt in to have Platform Costs (such as purchases of Author Services or Marketing Services) deducted from their royalties. These deductions are non-reversible.
 
-### 7\. Supported Formats
+### Chargebacks
 
-#### 7.1 Books
+A chargeback is typically where a customer contacts their credit card company and disputes a charge made on their account.
 
-The Services may be used to create Content and Products, including but not limited to Books and Courses (the “Leanpub Workflow”). This activity is distinguished, for example, from using Leanpub to upload an ebook file created without the use of the Services.
+Leanpub almost never contests chargeback claims, since this is a battle we almost always lose. If a customer makes a chargeback, Ruboss will deduct the corresponding royalty payment(s) from the accounts of the relevant Author(s). If royalties have already been paid, Ruboss will deduct the amount from future royalty payments.
 
-A User may use the Leanpub Workflow to generate a Book in the PDF or EPUB formats, as well as an HTML version.
+Since Leanpub has a generous 60 day refund policy, Ruboss reserves the right to suspend or terminate the account of any User which uses one or more chargebacks.
 
-Leanpub books may be written using Leanpub-Flavoured Markdown, a custom specification on how to write documents (i.e. books) by using a plain text format, which is a variant of Markdown, and is intended for the creation of books.
+### Optional Royalty Payment via Wire Transfer Arrangement
 
-As part of the Leanpub Workflow, Users may also create Products, including Books and Courses, using Markua, a unique specification for creating documents and other forms of content using a plain text format.
+Requests for royalty payments via wire transfer (the “Wire Transfer Arrangement”) will be considered on a case-by-case basis.
 
-For a Book to be viewable in the in-browser reader and the Leanpub iOS App or Android App, the Book must be generated in the Leanpub Workflow.
+Leanpub reserves the right to approve or discontinue a User’s participation in a Wire Transfer Arrangement at any time. All arrangements must comply with applicable laws and regulations. Certain individuals or countries may be excluded from this service based on regulatory or other considerations. The Wire Transfer Arrangement cannot be used to circumvent legal, regulatory, or other obligations.
 
-Currently, the LPUB file format is a subset of EPUB. This is subject to change at any time at the sole discretion of Ruboss.
+The following conditions apply to any Wire Transfer Arrangement:
 
-Account Holders with the appropriate access may also upload a PDF and/or an EPUB and/or a MOBI file for sale on the Leanpub Bookstore. The available formats are clearly represented on each Book’s landing page. Users are responsible for ensuring the Book they buy is compatible with their programs and devices.
+* **Fees:** To cover transaction, administrative, and other associated costs, a fee of **5% plus $50** will be applied to each wire transfer. For example, if the pre-fee royalty payment is $1,000, a 5% fee of $50 plus a $50 flat fee will be deducted, resulting in a transfer of $900.
+    
+* **User-Responsibility for Additional Fees:** The User is responsible for any extra fees imposed by their financial institution, including currency conversion fees or any other fees that may be applied as a condition of receiving the wire transfer.
+    
+* **Payment Frequency:** Wire transfer payments will be made no more than once per quarter. The payment schedule is subject to change at Leanpub’s discretion.
+    
+* **Minimum Payment Amount:** The minimum pre-fee amount eligible for wire transfer is $1,000. Payments below this amount will not be processed via wire transfer.
+    
 
-In general, Leanpub does not guarantee that any file available for purchase on Leanpub will be compatible with any programs, devices, or versions of the Site, Services, or Applications.
+Refund Policy
+-------------
 
-Users may utilize the Leanpub 60-day Happiness Guarantee to refund any purchase they have made that is not compatible with their program, device, or version of the Site, Services, or Applications.
+Our Refund Policy is available [here](https://leanpub.com/refunds). By accepting these Terms, you also accept the Refund Policy. Ruboss may update this policy without notice, and it is the User’s responsibility to stay informed.
 
-#### 7.2 Leanpub iOS App Formats
+Types of Users
+==============
 
-The Leanpub iOS App supports LPUB files which have been generated via the Leanpub Workflow.
+List of User Types
+------------------
 
-The Leanpub iOS App does not support reading any files which have been uploaded to Leanpub, regardless of the file format. For clarity, this is true regardless of whether the format of a file that is uploaded to Leanpub is a PDF or EPUB file.
+In these Terms, Leanpub Users may be referenced according to their functions or responsibilities, as follows:
 
-#### 7.3 Leanpub Android App Formats
+* **Account Holder**: The individual or organization that owns a Leanpub Account. An organization can hold an account through a designated representative.
+    
+* **Author**: A person who has created a Product on Leanpub.
+    
+* **Cause**: A non-profit or charitable organization included in the Leanpub for Causes program.
+    
+* **Co-Author**: An additional Author of a Product, who is not the Primary Author.
+    
+* **Contributor**: A person credited for contributing to a Product but not receiving royalties (e.g., editors, reviewers).
+    
+* **Editor**: A User with editing access to Products associated with an Organization’s Leanpub account.
+    
+* **Minor**: A person under the legal age of majority in their jurisdiction.
+    
+* **Organization**: Any User holding or having held an Organization Account.
+    
+* **Original Account Holder**: The person or organization that initially created a Leanpub Account.
+    
+* **Partner**: An organization or individual in our Partner Program.
+    
+* **Primary Author**: The Author or Account Holder with administrative authority over a Product, responsible for tasks like setting royalties and managing Co-Authors.
+    
+* **Reader**: A User who accesses a Product on Leanpub. This includes Users without a registered account.
+    
+* **Visitor**: Any person interacting with the Services (e.g., browsing the website or forums).
+    
 
-The Leanpub Android App supports LPUB files which have been generated via the Leanpub Workflow.
+Primary Authors and Co-Authors
+------------------------------
 
-The Leanpub Android App does not support reading any files which have been uploaded to Leanpub, regardless of the file format. For clarity, this is true regardless of whether the format of a file that is uploaded to Leanpub is a PDF or EPUB file.
+When a Product is created by a User, the User who creates it is automatically designated as the Primary Author of that Product. The Primary Author can perform tasks such as managing royalties, adding or removing Co-Authors, and other administrative actions allowed by Leanpub.
 
-#### 7.4 Leanpub Web Viewing Formats
+The Primary Author has the most administrative authority over a Product on Leanpub, except for Leanpub platform administrators. However, when a Product is created by or transferred to an Organization, the Organization Account Holder holds more administrative authority than the Primary Author.
 
-The Leanpub Web Viewer (the “Web Viewer”), which allows Books to be read using desktop and mobile internet browsers, supports LPUB files which have been generated by and published on Leanpub only.
+The assignment of Primary Author status by Leanpub does not reflect any claim by Leanpub to ownership of copyright or other rights in the Product or Content. However, a User can only create a Product if they are the copyright holder or have the legal rights to do so. Therefore, when a User creates a Product and becomes its Primary Author, this implicitly represents a claim to ownership of the copyright or the necessary rights to the Product.
 
-The Web Viewer does not support reading any files which have been uploaded to Leanpub, regardless of the file format. The only way to make a file available for reading in the Web Viewer is to generate and publish it using the Leanpub Workflow. For clarity, this is true regardless of whether the format of the file being uploaded is a PDF or EPUB file.
+The Primary Author can transfer their status to another User. When this happens, the new User becomes the Primary Author with all its responsibilities, and the previous Primary Author becomes a Co-Author if they remain associated with the Product. Leanpub may also transfer Primary Author status at its discretion.
 
-#### 7.5 Restrictions on Digital Files Uploaded to Leanpub
+The Primary Author can assign Co-Author status to other Users, and Co-Authors must accept this role through Leanpub’s user interface. Assigning Co-Author status does not imply any statement about their copyright ownership or other rights in the Product.
 
-Leanpub authors can use Leanpub to generate digital files, like ebook files, and they can also upload arbitrary types of digital content as “Extras.” Furthermore, Leanpub authors can also use our Upload feature to upload ebook files to Leanpub. Finally, even in writing modes where Leanpub is generating ebook files, Leanpub authors can override these files by, for example, uploading their own PDF file to replace the one generated by Leanpub.
+If there is a dispute about authorship, Leanpub may investigate and take actions such as removing the Product or restricting access to it for both the Primary Author and any current or former Co-Authors.
 
-In all cases, including all of these cases and more, we have very strict rules about the files you may upload to Leanpub.
+### Revocation of Co-Author Status
 
-When you upload digital files to Leanpub, and for as long as they are stored on Leanpub through your action or actions, you must be the copyright owner of the contents of each digital file, or you must be authorized to upload and store the file or files using Leanpub. To be clear, no other service, person, or organization may have any ownership claim on the contents of any such digital file, such as copyright ownership, or distribution rights that would restrict you from uploading and storing the file or files using Leanpub, unless you have their formal consent to upload the associated digital files to Leanpub (for example, a legally binding agreement giving you distribution rights for the content, even if you do not own the copyright).
+The Primary Author can revoke Co-Author status at any time, and the Co-Author will no longer receive new royalties for the Product. This revocation does not affect previously earned royalties.
 
-A User may not upload digital files which violate these Terms of Service. Without excluding any other policy described in these Terms, no digital file uploaded to Leanpub may contain any of the following:
+### Unilateral Royalty Reallocation
 
-1. Digital Rights Management (DRM) software or any other anti-circumvention or other copy-control system (see section 7.5.1 below).
-2. Watermarking of any kind (see section 7.5.2 below).
-3. Headers, footers or verso page material promoting other publishing services (see section 7.5.3 below).
-4. Viruses or malware.
-5. Images other than the cover page, if the ebook is categorized as Erotica. On Leanpub, books categorized as Erotica cannot contain any images in the book content themselves.
+The Primary Author may unilaterally change the royalty allocation between themselves and any Co-Authors. These changes take effect going forward and do not affect royalties already earned.
 
-We do not automatically inspect digital files uploaded to Leanpub to determine their compliance with these Terms. The successful uploading of a digital file to Leanpub does not represent any commitment on our part that the digital file that has been uploaded to Leanpub is in compliance with these Terms. We reserve the right to remove and delete any uploaded digital file or files, at our sole discretion and at any time, should we determine, at our sole discretion, that the uploading and storing of the file or files using Leanpub may involve a violation of these Terms.
+### Disputes Between Authors
 
-#### 7.5.1 Leanpub Does Not Use Digital Rights Management (DRM) Software
+In case of disputes between Authors, Leanpub may investigate and take any necessary actions, such as retiring or removing the Product, or revoking access from one or more Authors, including the Primary Author and any Co-Authors.
 
-Leanpub does not use Digital Rights Management (DRM) software or any other anti-circumvention or copy-control system of any kind.
+Organizations
+-------------
 
-We find DRM to be objectionable for a number of reasons. One reason is the same reason that we do not permit watermarking: DRM is a process designed to treat every reader as a potential thief, instead of as a valued customer. We will not facilitate this type of approach, since it is against our values.
+Organizations may include all types of entities, including companies, publishers, and universities. There are no separate terms for different types of Organizations, but the type of the Organization may be asked, and may affect how the Organization information is displayed on Leanpub.
 
-#### 7.5.2 Leanpub Does Not Accept the Publication of Watermarked Content
+The terms in this Terms of Service and the Leanpub Privacy Policy also apply to Organizations.
 
-Leanpub Users are not permitted to use Leanpub to publish Content containing a watermark or watermarks, including Books. At our sole discretion, we may choose to Unpublish, Retire, or otherwise remove or delete any Book, or any other Content published on Leanpub, if we discover that it contains any watermarks.
+Organizations are responsible for managing any payments, including royalties or compensation, to authors, content creators, editors, and other individuals or entities they work with. Ruboss is not responsible for handling or mediating any financial or contractual disputes between an Organization and those it works with. Ruboss will only disburse royalties according to the royalty payment settings configured within the associated Leanpub Account. Any internal agreements or divisions of royalties among the Organization and its collaborators are the sole responsibility of the Organization and are outside of Ruboss’s control.
 
-If you publish Content (such as an ebook) on Leanpub that contains watermarks because you were unaware of our restriction on watermarks, this does not mean you are not permitted to publish the Book if you remove the watermarks. In this case, we recommend that you publish a new version of the Book, without the watermarks. If you are not permitted to publish the Content on Leanpub without watermarks, then the Content must not be published on Leanpub because that would involve a violation of these Terms.
+An Organization may have multiple addenda that specify additional terms, such as a non-sublicensable license, special account closure terms, indemnification terms or limitation of liability terms.
 
-We find watermarking to be objectionable for a number of reasons. One reason is that watermarking, like DRM, implies that every reader is a potential thief instead of a valued customer. We will not facilitate this type of approach, since it is against our values.
+Causes
+------
 
-#### 7.5.3 Leanpub Does Not Accept Headers, Footers or Verso Page Material Promoting Other Publishing Services
+Authors and Organizations are free to assign a royalty percentage from their royalties on a particular Product to any Cause that has been approved as part of the Leanpub for Causes program, which allows Authors and Organizations to share royalties with a Cause (“Leanpub for Causes”, or the “Leanpub for Causes Program”). However, this does not imply any endorsement on the part of the Cause of the Author and/or Organization or the associated Product, Content, actions, or statements made by any party associated with the Product or its promotion or dissemination on Leanpub or elsewhere.
 
-Just as we restrict watermarking, we also prohibit headers, footers or verso page material promoting other publishing services. (We also prohibit watermarking which does that, but since we prohibit all watermarking, this is included in that prohibition.)
-
-If we did permit books which marketed competing publishing services in their headers, footer or verso page, then some readers may perceive an implied endorsement, association or partnership between Leanpub and those services, where there in fact is none. So, our simple solution is to prohibit this.
-
-This restriction is not unique to Leanpub. For example, we have heard reports of Amazon KDP informing Leanpub Authors that they are not permitted to sell a Book on Amazon if it contains the Leanpub brand information on the Book’s verso page. So, to support authors who wish to sell their Leanpub books on KDP, we have an “Export Unbranded Ebook” feature in our platform. If you use another platform to produce your ebook which you then wish to sell on Leanpub using our Upload feature, hopefully they are as helpful and free of lock-in to you as we are to our authors.
-
-#### 7.5.4 Leanpub Does Not Accept Sample Books Promoting the Sale of the Complete Book on Other Services
-
-Users are not permitted to use Leanpub to provide customers with a sample Book that points to other services for the acquisition of a complete copy of the Book.
-
-#### 7.6 Distributing Your Leanpub-Generated Content Using Other Services
-
-Leanpub does not restrict you from distributing Content you create yourself and publish on Leanpub, or Content generated using our services (the “Leanpub-Generated Content”), on other services. For example, as far as Leanpub is concerned, you are permitted to publish a Book on Leanpub which has already been sold elsewhere, or that is currently being sold elsewhere, or that you may someday in the future sell elsewhere.
-
-To be clear, as far as Leanpub is concerned, you may publish, distribute or sell a Book on Leanpub that you may simultaneously publish, distribute, or sell on another service, at any price.
-
-Please note that if you are publishing, selling, or distributing Leanpub-Generated Content on another service or services, we do have some restrictions regarding that content, which are set out in section 7.6.1 below.
-
-Please note that other services may have restrictions that restrict you from using Leanpub to publish your Content, or that place pricing restrictions on you, when you simultaneously publish Content on their service, and on other services. It is your responsibility to be in compliance with the rules imposed by any other services you are using.
-
-If you use another service to create and distribute your Content, it is not against our policy for you to also publish your Content on Leanpub, provided you are in compliance with these Terms, including, for the sake of clarity, and not to the exclusion of any other policy set out in these Terms, the following specific points:
-
-1. You must own the copyright to the Content, or formally represent the owner of the copyright.
-2. You must have the rights to publish, distribute, or sell the Content using Leanpub, which is available to Users worldwide without restriction.
-3. You must not have entered into any agreement, including signing a contract or agreeing to other Terms of Service for another service, which would restrict you from using Leanpub to publish, distribute, or sell the Content using Leanpub.
-
-#### 7.6.1 Restrictions on Exporting Leanpub-Generated Content for Distribution Using Other Services
-
-As set out in the previous section, if you use Leanpub to create Leanpub-Generated Content, it is consistent with these Terms for you to use other services to distribute your Leanpub-Generated Content. However, the following restrictions do apply:
-
-1. You may not use another service to publish, distribute, or sell the ebook files you generate which include the Leanpub-branded verso page (the “Leanpub-Branded Ebook” or “Leanpub-Branded Ebooks”). You are only permitted to use other services to publish, distribute, or sell the unbranded ebook files generated using our “Export Unbranded Ebook” process (the “Unbranded Ebook” or “Unbranded Ebooks”).
-
-There are a number of reasons for this restriction. One reason is that we do not want to confuse customers who acquire a copy of copy of your Book or Books on another service, and expect Leanpub to provide them with customer support. With print books, this is not a big concern for us (since we do not sell print books), but with Ebooks, it is a valid concern for us. So, only Leanpub can sell Leanpub-Branded Ebooks.
-
-1. You are permitted to sell print books based on the print-ready PDF exports that Leanpub generates (the “Print-Ready PDF” or “Print-Ready PDFs”), or other print-targeted Leanpub-Generated Content we produce, such as the InDesign exports. The print-ready PDF exports that Leanpub generates may have Leanpub branding in them. (This is currently an option which authors may choose to include or exclude. You are permitted to sell print books based on the Print-Ready PDFs, including or excluding the Leanpub branding. We are currently not concerned about customers asking for support from Leanpub on the print books, since we do not sell print books and since we appreciate the marketing.
-
-### 8\. Copyright, Creative Commons, Public Domain, Disputed Content, and Related Policies
-
-To ensure that Leanpub remains focused on its mission, and does not degenerate into a sideshow, we have a number of harsh-sounding policies.
-
-VIOLATING ANY OF THE POLICIES IN THIS SECTION WILL RESULT IN ACCOUNT SUSPENSION OR DELETION (INCLUDING ALL OF THE ACCOUNT HOLDER’S PRODUCTS) AT OUR SOLE DISCRETION, WITHOUT ANY NOTICE REQUIRED.
-
-#### 8.1 Copyright Holders Only
-
-Only the holder of the associated copyright for any Content may use Leanpub to publish that Content.
-
-This restriction is not limited to the contents of a Product; it applies to any Content, including, for example, a User’s profile or a Product’s “About” section.
-
-#### 8.2 Standard Copyright License
-
-Leanpub Authors and/or Organizations and/or Universities own the copyright to their work. Leanpub does not own the copyright to Products or any other Content created and/or sold on Leanpub. By default, Leanpub books are published under a standard copyright license, belonging to the Author or Authors and/or Organization or Organizations and/or University or Universities.
-
-#### 8.3 Creative Commons Policy
-
-Leanpub also provides an easy mechanism for Users to choose to publish their copyrighted works under one of a number of Creative Commons Licenses as an alternative to the standard copyright license.
-
-However, you are ONLY allowed to publish a Creative Commons Product on Leanpub if YOU are the copyright owner(s) for that Product. You cannot publish Creative Commons Products that you do not own the copyright to, even if the Creative Commons license permits it elsewhere.
-
-Ironically, one reason we are doing this is actually to support the Creative Commons process for in-progress Products. If there is an explosion of identical or similar copies of in-progress or completed Creative Commons works on Leanpub, it potentially harms the ability of the original author(s) to both profit from their work and to get feedback, as the question of which is the canonical work is made more obscure.
-
-#### 8.4 Public Domain Book Publishing Policy
-
-Leanpub only allows the sale of Public Domain Products that are significantly differentiated from the original, or other versions of the Public Domain Product. For a Product to be considered significantly differentiated it must, for example, either be a unique translation of an original book, include relevant unique illustrations to which, for example, the Author or Organization owns the copyright, or contain annotations. Annotations must be unique contributions made by the User or Users wishing to sell the Product on Leanpub. Unique contributions include, but are not limited to, essay introductions, study guides, or literary or historical critiques. All annotations must be the original work of the User wishing to sell the Book on Leanpub.
-
-Leanpub reserves the right to refuse any Public Domain content that it does not deem to include significantly differentiated content.
-
-Public Domain Products must include an indication in the Product title to that effect, such as “Translated”, “Annotated” or “Illustrated”.
-
-#### 8.5 Copyright Infringement is STRICTLY FORBIDDEN
-
-If we determine that ANY of the content in a Product does or may infringe upon the copyright of others, we will remedy this by stopping the sale of the Product and possibly deleting the offending Book or Package. We may also suspend or delete any Leanpub account, including all Products associated with it, if, at Ruboss’s sole discretion, we feel that the perceived offence warrants it.
-
-Ruboss also reserves the right to withhold revenue and to refund all refundable purchases of all of a User’s products if Ruboss, at its sole discretion, determines there to have been a violation of these Terms associated with the User’s account.
-
-#### 8.6 Account Holders Authorize Ruboss to Send DMCA Takedown Notices on Your Behalf
-
-Leanpub Account Holders hereby appoint Ruboss as a DMCA copyright representative, and authorize us to send DMCA Takedown notices on their behalf, for as long as their Product is available for sale on the Leanpub Bookstore. This does not constitute a promise, commitment or requirement to send DMCA Takedown notices under any circumstances. Ruboss reserves the option to do so with the intention of addressing particularly egregious violations of copyright.
-
-#### 8.7 Notification of Copyright Infringement, Counter-Notification, and Disputed Content
-
-Ruboss is located in Canada and complies with Canadian regulations. On the matter of copyright, Canada has a “Notice and Notice” regime, under which we are obliged to forward a compliant notification of copyright infringement (a “Notification of Infringement”) to any party alleged in the Notification of Infringement to have added Content to Leanpub that violates the claimant’s copyright or intellectual property rights.
-
-##### 8.7.1 Submitting a Notification of Infringement
-
-By law, a compliant Notification of Infringement sent to Ruboss (by mail or email) must include the following (the “Positive Information”):
-
-* The name of and address of the claimant
-* A detailed specification of the infringement
-* Details concerning the timing of the infringement; for example, the date on which the alleged infringement was discovered, and/or an indication that the alleged infringement is current, at the date and time of notification
-* Identify the material that is subject to the claimant’s copyright and is allegedly infringed, and a statement of the claimant’s rights or interests in relation to the related Content
-* Identify the Internet address associated with the related content; for example, a Leanpub Book’s URL
-
-A legally compliant Notification of Infringement must not include the following (the “Negative Information”):
-
-* Any offer to settle the claim of infringement
-* Any request, demand, or offer regarding payment, or the release of personal information, in relation to the claim of infringement
-* Any reference, such as a hyperlink, to such a request, demand, or offer not included in the Notification of Infringement
-* Any other information that is proscribed by regulation
-
-To help establish the credibility of the claim, we may also ask for other information, such as an electronic signature.
-
-Upon receipt of a legally compliant Notification of Infringement, Ruboss is not required to take any other action, besides the requirement to forward the Notification of Infringement to the User or Users alleged to have violated the claimant’s copyright or intellectual property rights. In this circumstance, we may choose to remove the associated Product or Products from sale on the Leanpub bookstore, and we may choose to revoke Users’ access to any associated Product or Products (such as revoking the Author or Authors’ access to the Product on Leanpub, including placing the associated Product or Products in the “Forcibly Retired” Product State), or take any other action we deem appropriate, at our sole discretion, without any requirement to inform any associated Users of our action or actions. We may also choose to do nothing, at our sole discretion.
-
-##### 8.7.2 Submitting a Counter-Notification to Ruboss
-
-Upon receipt of a Notification of Infringement from Ruboss, a User may dispute the Notification of Infringement by sending to Ruboss (by mail or mail) a counter-notification (the “Counter-Notification”).
-
-The Counter-Notification process set out in these Terms is defined by Ruboss for the purpose of protecting Users from ostensibly frivolous claims of infringement, and to give Users a formal, transparently defined opportunity to establish their seriousness regarding the matter. This Counter-Notification process is not required or defined by Canadian regulation. This process does not subject Ruboss to any legal obligations in addition to those specifically required by regulation. We have established this process for the purposes of transparency and signalling how seriously we take issues concerning copyright.
-
-A Counter-Notification sent to Ruboss must contain the following:
-
-* The name of and address of the claimant
-* Identification of the Internet address associated with the related content; for example, a Leanpub Book’s URL
-* Identification of the material set out in the Notification of Infringement, and a declaration of the User’s rights or interests in relation to the related Content
-
-To help establish the credibility of the Counter-Notification, we may also ask for other information, such as an electronic signature.
-
-Unless we are ordered to do so through a legal process, the contents of the Counter-Notification will not be shared with the claimant.
-
-At its sole discretion, Ruboss may respond to the Counter-Notification by carrying out an action or actions it deems appropriate. For example, if we set a User’s Book to be Forcibly Retired after receiving a compliant Notification of Infringement, upon receipt of a Counter-Notification from an affected User, we may choose to return the Book to the State it was in when we changed its State to the Forcibly Retired state.
-
-At any point in the process, we may also choose to classify the associated Content as Disputed Content (see the “Disputed Content” section of these Terms.) We may also choose to do nothing. Receipt of a Counter-Notification does not bind Ruboss to any response; in particular, it does not bind us to setting a Product to a State of Published, in which it can be sold on the Site.
-
-##### 8.7.3 Disputed Content
-
-It is not Ruboss’s responsibility to mediate copyright disputes, nor should it be. That is a matter for people to work out either between themselves, or in court. If we become aware that any Content is or may be related to some disagreement or other conflict regarding ownership of copyright or intellectual property rights (i.e. that it is or may be “Disputed Content”), we may choose to respond, at our sole discretion, to limit our exposure to the Disputed Content.
-
-For example, we may set any Product associated with the Disputed Content to the Forcibly Retired state. We may also restrict the access to Leanpub for any Users associated with the Disputed Content, and we reserve the right to delete any other Content created by those Users. We may also delete the Users’ Leanpub Accounts entirely. To be clear, we may terminate any User’s access to Leanpub at any time and without notification to the affected Users, upon determination, at our sole discretion, that the User is associated with Disputed Content.
-
-Our response may also include withholding any royalties associated with the Disputed Content, and to refund all refundable purchases of the Content. We may also remove the Disputed Content from Users’ Leanpub libraries, at our sole discretion.
-
-Matters related to Disputed Content are often unresolvable from the perspective of Ruboss. Our decision to classify Content as Disputed Content is in no way a declaration or judgment regarding the ownership of the Disputed Content nor a declaration or judgment regarding any User’s participation in infringing activity. Instead, it is a means of limiting Ruboss’s exposure to matters of apparently genuine dispute, or those where the truth is, from our perspective, indeterminate.
-
-For this reason, unless Ruboss decides otherwise at its sole discretion, once a URL has become associated with Disputed Content, it is no longer available for use to sell any content on Leanpub. This includes new content not associated with the Disputed Content, and even content created by other Users.
-
-#### 8.8 Non-Author Copyright Owners
-
-It is permissible for copyright owners who are not the Author or Authors of any Content to publish and sell that Content on Leanpub. This includes, for example, an organization that owns the copyright to the Content, or someone who has inherited copyright ownership from a deceased person.
-
-##### 8.8.1 iStock Images and Images from Similar License-Granting Service Are Not Permitted
-
-Services like iStock will grant users licenses to use images they provide. We do not permit the use of images of this kind, in part because we do not want to engage in a confirmation process regarding the actual existence or terms of the license.
-
-##### 8.8.2 Death of Copyright Holder
-
-If the copyright owner of Content dies, the person to whom the copyright is passed becomes the Owner of any associated Content published on Leanpub. The new owner of the Content takes on the rights of the Primary Author and may leave the Content up for sale on Leanpub, retire the Content, or take any other action permitted to a Primary Author. To be clear, upon the death of a copyright owner for any Content, we do not “lock” the Account or unpublish any associated Product or Products.
-
-### 9\. Content Policy
-
-All Content, whether publicly posted in Forums, published in Books, Bundles, Extras and/or Packages or Course sold on Leanpub, or privately transmitted between Users of Leanpub, is the sole responsibility of the person or persons who originated such content.
-
-Leanpub may not monitor or control any or all of the Content posted via the Services and takes no responsibility for any such Content. Any use or reliance of any Content or materials posted via the Services, or obtained though the Services, is done at the User’s own risk.
-
-We do not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or Product or communication posted or sold via the Services. Nor do we endorse any opinions expressed via the Services.
-
-You understand that by using the Services, you may be exposed to Content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, postings that have been mislabeled or are otherwise deceptive.
-
-Under no circumstances will Ruboss be liable in any way for any Content, including but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of any Content posted, emailed, transmitted or otherwise made available via the Services or broadcasted elsewhere.
-
-By uploading Content to the Site, and by using the Services, you represent and warrant that the Content:
-
-* Is owned by you or, to the extent that it is owned by someone else, that you have permission from the owner to provide the Content to Leanpub for use as described above and, in either case, that the Content does not contain any personally identifiable information about any individual (“Personal Information”) other than yourself;
-* Does not violate any copyright, trademark, trade secret or other intellectual property right of any third party;
-* Does not invade any person’s right of privacy or publicity;
-* Does not include any false attribution, such as a fabricated testimonial from a celebrity, or any other person or organization;
-* Does not contain material that is unlawful, obscene, defamatory, extremely pornographic, hate speech, harassing, threatening, harmful, invasive of privacy or publicity rights, abusive, inflammatory, or otherwise objectionable;
-* Does not include malicious code, which includes, without limitation, viruses, Trojan horses, worms, time bombs, cancelbots, or any other computer programming routines that may damage, interfere with, surreptitiously intercept, or expropriate any system, program, data, or personal information (including but not limited to Personal Information);
-* Does not break the law, encourage or facilitate the breaking of the law, or violate any applicable regulation, rule or policy, of any applicable jurisdiction;
-* Does not offer to disseminate fraudulent goods, services, schemes, or promotions; and
-* To the best of your knowledge, all factual information in the Content you upload is true and accurate, and the use of any recipe, formula, or instruction in the Content will not result in personal injury to any person.
-
-The person who creates and/or uploads the Content, or to whom control of the Content is transferred in the case that the identity of the Account Holder is transferred from one person to another, is entirely responsible for the Content. Since computers and other equipment (both yours and ours) are subject to occasional malfunction, you agree that you will not hold Ruboss responsible for any damage to, corruption or destruction of the Content. In addition, Ruboss is not responsible for backing up or archiving the Content.
-
-While Leanpub does offer a Versions feature that is meant to provide Authors with a means to record changes to their work as they write, Authors should not rely on this feature as a backup. Ruboss reserves the right to discontinue this feature, or any other feature, at any time. If any Content transmitted to Leanpub is damaged, lost or corrupted in any way, Ruboss will have no obligation or liability to you.
-
-As a User of the Services, you agree:
-
-* Not to post any Content that would violate these Terms;
-* Not use the Services to harm anyone, including but not limited to Minors, in any way;
-* Not to use “spam,” “blast-faxes,” or recorded telephone messages to market or sell Content or any other product or service;
-* Not to interfere with the operation of the Site via the use of viruses, programs or technology designed to disrupt or damage software or hardware;
-* Not to employ a robot, spider or other process or device to harvest e-mail addresses or other user information or to monitor the activity on the Site;
-* Not to impersonate another person or entity or forge any e-mail communication or message; and
-* Not to use Leanpub to sell physical goods. This includes, but is not limited to, offering codes or coupons to customers that they may redeem for physical goods. To be clear, you may only use Leanpub to sell digital goods.
-
-As an Author and/or Organization owner of any Content that you contribute to and sell or promote via the Site, you agree that any Content made available for sale through the Site will only be provided to Users pursuant to the agreement contained in Section 10 (“Rights to Content Posted on the Site”).
-
-In addition to complying with all the above restrictions on conduct and Content, you are responsible for adhering to all local and national laws of the jurisdiction in which you are located.
-
-Ruboss, at its sole discretion, reserves the right to refuse publication on the Site of any Content or to remove any and all Content that Ruboss determines to be inappropriate, illegal, offensive, potentially or actually harmful in any respect, that negatively affects Site operations or the Leanpub brand, or that misrepresents the nature of the Content, its current state of completeness, its plan for development.
-
-Ruboss reserves the right to remove any Content or Product and suspend or delete any account that has apparently been abandoned in an incomplete state. This includes the right to appropriate a URL that a User has associated with a Product. For example, if you create a book and assign it a generic URL such as leanpub.com/computers, and you do not publish a Product, we may appropriate the URL and assign you a new one. This is to prevent Users from “squatting” on potentially valuable URLs.
-
-At our discretion, we may remove Content and/or ban Users deemed to be suspicious and Users we deem to have violated or probably violated our policies with respect to the Site or Services. We reserve the right to amend our policies from time to time at our sole discretion, without notice.
-
-If you believe any materials in the Site infringe your copyright, you should notify Ruboss of your copyright infringement claim and at our discretion Ruboss will take appropriate action in accordance with our Copyright Take Down Policy, which governs how we respond to claims of copyright infringement. The Copyright Take Down Policy can be found [here](https://leanpub.com/takedown). Accepting these Terms constitutes acceptance of the Copyright Take Down Policy.
-
-#### 9.1 Erotica
-
-There are additional rules and features for certain types of Content. In particular, special rules and restrictions apply to books categorized as Erotica.
-
-##### 9.1.1 Identification and Age Verification
-
-Books containing mature or erotic materials must be categorized as Erotica. Books categorized as Erotica will appear in their own Category lists and will not appear in the main Leanpub bestseller lists, or first published list. The Erotica Category will be kept behind an age verification form, in order to prevent access to Minors.
-
-##### 9.1.2 Packages Including Erotica
-
-Packages including Erotic materials are prohibited. Authors may not add Extras to Books in the Erotica genre. This includes, but is not limited to, a prohibition on video, audio, artwork, or other digital Extras. Any Packages that include Extras deemed to include Erotica or Content that is in any way inappropriate will be removed at Ruboss’ sole discretion, and further actions may be taken in accordance with Sections 8 and 13 of this Terms of Service. While Leanpub does not prohibit of the creation and distribution of fiction which is categorized as Erotica, Packages and Extras are prohibited in order to lessen the potential for other legal issues associated with Extras and Packages in these genres.
-
-##### 9.1.3 Bundles Including Erotica
-
-If any Product in a Bundle is categorized as Erotica, the entire Bundle will be categorized as Erotica. Non-Erotica books that are included in Erotica Bundles will only be subject to restrictions and Age Verifications in association with the Bundle; this will not impact the non-Erotica Book on a stand-alone basis. Bundles that include Products from the Erotica genre will only appear in the Erotica categories, and will be subject to Age Verification.
-
-##### 9.1.4 Images
-
-Books categorized as Erotica cannot contain any images in the book manuscripts themselves. Our book generator will ignore any image tags in the body of an Erotica manuscript. (This is to ensure that none of the images are copyrighted and not eligible for publication or are pornographic in nature.) If Authors or Organizations attempt to include images in the manuscript, the image will automatically be removed from the book being generated. The only image allowed in a book categorized as Erotica is the cover image (the “Book Cover”). As with all Leanpub Books, Erotica Authors and/or Organization owners must own the copyright to the image used as the Book Cover, and this image must be PG13, and must not be mature or erotic in nature.
-
-In order to prevent Authors and Organizations from including images in books they upload directly, books in the Categories of Erotica will only be accepted if they are generated via the Leanpub book generator.
-
-Ruboss reserves the right, but is not required to, remove any Content that violates these terms, and may take further action at its sole discretion.
-
-##### 9.1.5 Prohibited Content
-
-While Leanpub supports free speech and artistic expression, it in no way condones pornographic photographs or movies, hard-core material that depicts graphic sexual acts, or any erotic material about, or including, Minors in any way. Leanpub is strongly against child pornography and STRICTLY PROHIBITS any erotic stories that include characters who are Minors.
-
-Other offensive materials, including but not limited to, crime scene pictures or videos, pictures or videos depicting animal cruelty, or other disturbing materials are not to be uploaded or made available via the Site or Services, sold, or given away using the Site or Services.
-
-Furthermore, as discussed in section 9.1.2 above, Fan Fiction is prohibited on Leanpub, due to copyright ambiguity.
-
-Ruboss reserves the right, but is not required to, remove any content deemed inappropriate and take any further actions it deems appropriate against the Author(s) or Organization owner(s) of the relevant Content. Ruboss understands that what may be acceptable in one country or society may not be in another, and it implores its Users to consider the global community when publishing Content. However, Ruboss reserves the right to determine what Content is appropriate to be sold on the Leanpub Site.
-
-#### 9.2 Fan Fiction is Prohibited
-
-“Fan Fiction” is defined as fiction featuring characters or other recognizable content from a particular TV series, movie, book, or other media created by a person or persons other than the Author(s) of the Content.
-
-**Fan Fiction books, bundles, courses and tracks are prohibited on Leanpub.**
-
-The reason for this is that there is a grey area around copyright and Fan Fiction: since Fan Fiction can be considered a derivative work, it is not clear whether Ruboss has the right to publish and sell a particular work of Fan Fiction, even for a free minimum price.
-
-#### 9.3 Bad Products and Joke Products
-
-##### 9.3.1 Bad Products
-
-Excluding Users who have been blocked by Ruboss, or who are prevented from doing so by some other circumstance (such as their country’s government blocking access to Leanpub), in general, anyone can sign up to Leanpub at any time, and set up a landing page for a Product, a User page for their Account, and/or publish a Product at any time, or use Leanpub in some other way. This means that Leanpub is vulnerable to people doing bad things, including publishing a Product or Products with little or no original content, or even abusing Leanpub to publish a Product or Products that may potentially be harmful to the interests of Leanpub and its Users (a “Bad Product” or “Bad Products”).
-
-If Ruboss, at its sole discretion, determines a Product to be a Bad Product, it will undertake whatever action Ruboss deems necessary to resolve the situation. This may involve the use of automated processes. Ruboss is not required to give advance warning, or provide any notification of, or explanation for, any such action.
-
-For example (but without limitation), Ruboss may delete a Bad Product, or change a Bad Product’s Product State to any other Product State, such as changing the Product State from Published to Unpublished.
-
-In addition, Ruboss may take action with regard to any User that Ruboss deems to be associated with a Bad Product. For example, if a User publishes a Bad Product, or creates a landing page or User page that is Ruboss deems, at its sole discretion, to be unacceptable, Ruboss may suspend the User’s access to their Account, or delete their Account.
-
-#### 9.3.2 Jokes and Joke Products
-
-On occasion, a User may create a Product or User page, or undertake some other activity on Leanpub, that is intended as a joke (a “Joke” or “Joke Product”). If Ruboss, at its sole discretion, determines that an act is a Joke or a Product is a Joke Product, it reserves the right to take action to prevent the Joke or Joke Product from having a negative effect on Leanpub and/or Users. For example, Ruboss may unpublish or forcibly retire such a Product, or force such a Product to be for sale only for free, with no option for a User or Users to pay for the Product. Ruboss is not required to inform any User or Users of such an action.
-
-#### 9.4 SEO, Advertising, and Related Activity is Prohibited
-
-Leanpub is a platform used to create, publish, and promote Leanpub Products, and to promote Leanpub Authors. It is also a platform where people can discover Leanpub Authors and Products, and where they can buy and consume those Leanpub Products.
-
-It is not permitted to use Leanpub for any other primary purpose, including, without limitation, advertising a business or a non-Leanpub product, or for SEO, or for any similar purpose (collectively, the “Banned Promotional Activity”).
-
-If we determine, at our sole discretion, that a User may be engaged in Banned Promotional Activity, without any obligation to notify the User, we may suspend their account.
-
-#### 9.4.1 Promotion of Specific Cryptocurrencies is Prohibited
-
-While we welcome the publication of Products that discuss the subject of cryptocurrencies in general, it is not permitted to use Leanpub as a platform for promoting the use of any specific cryptocurrency. We would consider this to be a form of advertising, even if the Author or Authors of the product are not being directly compensated in any way for their work on the related Product or Products.
-
-This restriction is not limited to the contents of a Product; it applies to any Content, including, for example, a User’s profile or a Product’s “About” section.
-
-#### 9.5 Malware Development, Website Audits, and Security Vulnerability Disclosures are Prohibited
-
-While we welcome the publication of Products that discuss the subject of computer security in general, it is not permitted to use Leanpub as a platform for disclosing any specific vulnerability in a given website, or for covering the topic of malware development.
-
-(Such disclosures should be made privately to the appropriate parties, not published on Leanpub.)
-
-This restriction is not limited to the contents of a Product; it applies to any Content, including, for example, a User’s profile or a Product’s “About” section.
-
-This restriction is not limited to a published Product; it applies to a Product in any state, including unpublished or stealth mode Products.
-
-Any activity deemed by Ruboss, at its sole discretion, to be in violation of this restriction, may result in a Product being removed from the Site, and potentially to Account suspension, without notification to you.
-
-If you are concerned that your Content may violate these Terms, before publishing on Leanpub or creating a Leanpub Product, please contact us at hello@leanpub.com for guidance.
-
-#### 9.6 Providing Time-of-Purchase Content
-
-At our discretion, at any time after their purchase, we may provide Users who have purchased Content (including Free purchases of Content) with the Content as it was at the time they made their purchase (the “Time-of-Purchase Content”). This right is reserved without restriction, although it is primarily meant for circumstances where an author has replaced substantial content, such as a completed Book, with trivial content, such as a one-page PDF promoting another book, or with substantially different content from the Time-of-Purchase content. Typically, this is required if an Author has misunderstood the fact that a change they made to their Product has removed it from Users’ Leanpub libraries, and our intent is to restore Users’ access to the Product. To be clear, this does not establish a right for Users to access or to be provided with Time-of-Purchase content, but does establish our right to provide Time-of-Purchase Content to them upon their request, should we choose to do so.
-
-#### 9.7 Restoring a Previous Version of a Product
-
-At our discretion, we may restore a previously published version of any Product. This may involve replacing the current version of a Product, and publishing a new version the Product, based on a previously published version of the Product. It may also involve things like changing the book’s writing mode, setting up a new GitHub repository, and updating the book’s description, or anything else we deem necessary in this context. We may also change a book’s State as we deem necessary, for example, we may temporarily change a book’s state from Retired to Published, and then change it back to the Retired State. This right is reserved without restriction, although it is primarily meant for circumstances where an Author has replaced substantial content, such as a completed Book, with trivial content, such as a one-page PDF promoting another book, or with substantially different content from the Time-of-Purchase content. Typically, this is required if an Author has misunderstood the fact that a change they made to their Product has removed it from Users’ Leanpub libraries, and our intent is to restore Users’ access to the Product.
-
-### 10\. Rights to Content Posted on the Site
-
-#### 10.1 Ruboss Property
-
-Ruboss is the owner of all intellectual property rights, including but not limited to all copyrights, patents, and trademarks, associated with Leanpub, the Site and the Services, with all rights reserved. This is exclusive of Content provided by third parties, including but not limited to Content which is owned by the licensors of such Content. Ruboss owns the design, format and layout of the Site. Ruboss authorizes users of the Site to use the Site and to copy materials posted to the Site (unless otherwise available for purchase) strictly for their own personal, non-commercial use, provided they maintain all notices of rights on the Content. Any and all other uses of the materials posted on the Site are prohibited. Such authorization from Ruboss does not extend to use of the design, format, or layout of the Site, which may be further protected under applicable trade dress, trademarks, or copyright laws. All copyright, patent, trademark, and other intellectual property-related notices must remain affixed to any materials downloaded from the Site. Failure to maintain such notices voids the authorization granted above. In granting this authorization, Ruboss grants no other rights, title, ownership, license, or other property interest in the materials and subject matter posted on the Site, and in any intellectual property rights protecting such materials and subject matter.
-
-The Leanpub logo and the names of all Leanpub products and/or services as posted herein are either trademarks or service marks, or registered trademarks and/or service marks of Ruboss and all rights are reserved therein by Ruboss.
-
-It is not permitted to use the Leanpub logo on the cover or landing page image of any Leanpub Product, in part because we do not want to imply endorsement of any Product.
-
-#### 10.2 Unsolicited Idea Submission Policy
-
-While Leanpub loves feedback from Authors, Organizations and other Users on how to improve the Site and Services, it will not compensate those who submit solicited or unsolicited ideas to Leanpub or Ruboss. To prevent any confusion or misunderstanding when new ideas are implemented onto the Site or Services, any submissions of ideas, including but not limited to ideas for advertisements, promotions, or ways to improve the user experience of Leanpub will become the property of Ruboss. While Ruboss reserves the right to use any materials or ideas submitted, it is not obliged to do so.
-
-Payment for ideas or submissions to Ruboss will only be made if a private agreement was made between the parties in advance of the idea submission.
-
-Any feedback can be forwarded to [hello@leanpub.com](mailto:hello@leanpub.com).
-
-#### 10.3 License Grant to Leanpub
-
-You retain your rights to any Content you submit, post or display on or through the Site or Services. However, by submitting, posting or displaying Content on or through the site or Services you grant us certain rights. These rights differ based on the type of Content. For Content contained in a Product sold or given away on Leanpub, you grant us a fully transferable, fully sub-licensable, non-exclusive license to copy, reproduce, print, publish, distribute and otherwise use the Content in conjunction with the Services worldwide, for as long as that Product is sold or given away on Leanpub. For all other types of Content you post on Leanpub, such as comments posted on the Leanpub Forums, you grant us a fully transferable, fully sub-licensable, irrevocable, non-exclusive license to copy, reproduce, print, publish, create derivate works of, distribute, translate, and otherwise use the Content in conjunction with the Site and Services, and any works derived from the Licensee’s Work in all media, in perpetuity, worldwide.
-
-#### 10.4 Permissions Agreement (“Permissions Agreement”) for Content Posted in the Forums
-
-Posting on the Forums automatically invokes the following Permission Agreement:
-
-The User making the Forum post (the “Licensor”) and the Author or Authors, and/or Organization or Organizations, and/or University or Universities associated with a Product or Products (the “Licensee”) hereby enter into this Permissions Agreement regarding the use of selected materials from the Licensor’s Product or Products, if any (the “Licensor’s Work”):
-
-1. Licensed Materials: This Permissions Agreement applies to information posted in Forums for the Licensee’s Work, including but not limited to any text, source code or accompanying explanations (the “Licensed Materials”).
-2. License: The Licensor hereby grants the Licensee’s successors, assigns, and sublicenses, an irrevocable, non-exclusive license to copy, reproduce, print, publish, make derivate works of, distribute, translate, and otherwise use the Licensed Materials in the Licensee’s Work, and any works derived from the Licensee’s Work in all media, in perpetuity, and worldwide.
-3. Use of Licensed Materials: The Licensee may edit the Licensed Materials as the Licensee sees fit. The Licensee may, at the Licensee’s sole discretion, provide appropriate credit for the use of the Licensor’s Work, in the manner and style in which the Licensee generally conveys such information. The Licensee shall have no obligation to use the Licensed Materials in the Licensee’s Work.
-4. Compensation: The intangible benefit of having participated in the Forum constitutes full compensation for the use of the Licensor’s Work.
-5. Warranties and Indemnity: The Licensor warrants to the Licensee that the Licensor owns and controls the rights licensed in this Permissions Agreement, and agrees to indemnify and defend the Licensee from any claim, loss or liability arising from a breach of the foregoing warranty.
-
-#### 10.5 Licence Grant to a Purchaser of Products
-
-Since Leanpub Products, including ebooks, are typically PDFs or some other digital format, they are intangibles and you can’t own your own copy in the same way you can own a paper book. The rights you receive in and to a Leanpub Product and its content come directly from the Product’s Author or Authors, and/or Organization or Organizations, and/or University or Universities. For example, the ebook copy itself is provided to you in the form of a license only. All of the content of the Book is subject to copyright and other laws just like any print book. Without restricting the application of the Author’s and/or Organization’s rights available under copyright or other intellectual property or other property laws, or available at common law, the copyright owner(s) of each Product you purchase via Leanpub grants you, subject to your compliance with these Terms, the following license:
-
-* You may download and save the Product onto any device that supports the format of the Product for your personal, non-commercial use;
-* You may transfer the Product from device to device;
-* You may not store any copies of the Product on publicly accessible servers, including FTP or HTTP servers (“web servers”);
-* Your license to the Product is not transferable;
-* You may NOT sell the Product and transfer the Rights associated with the Product;
-* Furthermore, if this non-transferability clause is forbidden by the local or national laws of the jurisdiction in which you are located, you may not purchase a licence from Leanpub;
-* You may make a reasonable number of archival copies of your Product; and
-* If you made a “Multiple Copy Purchase” you may distribute the additional copies purchased to the intended recipients, who are then deemed to be bound by the Leanpub Terms and Privacy Policy.
-
-Otherwise, your use and enjoyment of the content of your Product will be as permitted by applicable law, including but not limited to copyright law. Your rights to the Product as set out in these Terms shall remain in force for so long as you comply with these Terms and for so long as your retain a copy of your Product.
-
-We take copyright issues extremely seriously. Since some of us are authors ourselves, we know how it feels to have Content you have spent countless evenings and weekends writing “shared” on torrent sites. Please do not do this. If you “share” a book that someone has self-published, you are not ripping off some mega-corporation, you are ripping of a real person and you are violating the legal rights of the copyright holder. (This is especially true of Leanpub books, where most of the revenue usually goes directly to the authors).
-
-Leanpub Products are made available to Users via clickable download links (the “Download Link” or “Download Links”) or accessible URLs that give the User the ability to download or view the associated digital file. Download Links are made available to Users in various ways, including in an email or emails sent to the email address associated with the related Product purchase, and in the User’s Leanpub Account. Ruboss is not responsible for any unauthorized sharing or display of the Download Links, and there are no special protections applied to Download Links.
-
-#### 10.6 Special Terms for Organizational Purchasers of Products
-
-If you are purchasing a Product on behalf of an organization through which you intend to make the Product available to multiple readers:
-
-* Your organization and each individual who is given access to, or a copy of, the Product, are subject to the same terms and conditions as individual purchasers of Leanpub Products; and
-* You should buy a copy of the Product for the maximum number of team members you expect to be using the Product at any given time.
-
-#### 10.7 Special Terms for Library Purchasers of Ebooks
-
-Since Leanpub’s focus is on the writing, publishing and selling of in-progress Books and Packages, library purchases represent a potential problem for Leanpub Authors and Organizations. Furthermore, both libraries and authors often have their own opinions about how Product sales to libraries should work.
-
-As such, if you wish to purchase a Product on behalf of a library, you must contact the User or Users to whom the Product belongs directly, in order to arrange the purchase. Since Authors and Organizations own their copyright, this can be arranged separately from Leanpub.
-
-#### 10.8 Organizational Reselling is Not Permitted
-
-Organizations and their representatives or associates are not permitted to buy a Product or Products and re-sell that Product or those Products to their clients. For example, if a bookstore receives an order for a Leanpub book from one of their customers, they are not permitted to buy that book on Leanpub and sell it to their customer. For information about our Partner Program, please see section 20 of these Terms.
-
-### 11\. Payment Terms
-
-#### 11.1 Payments to Leanpub for Content and Services
-
-In order to purchase Content, Services, Products or tools on or through the Site or Services, a User must be able to pay using at least one of the third-party payment services we use for purchases (the “Purchase Payment Service” or “Purchase Payment Services”).
-
-Ruboss uses Purchase Payment Services for all purchases, and Users who buy or sell Products or other materials using the Leanpub Site or Service are subject to the terms of service for each Purchase Payment Service they use.
-
-Currently, we use two Purchase Payment Services: PayPal and Stripe.
-
-For PayPal’s terms of service, please visit the [PayPal website](https://www.paypal.com/).
-
-For Stripe’s terms of service, please visit the [Stripe website](https://stripe.com/).
-
-Ruboss is not liable for any issues associated with any Purchase Payment Services, including, but not limited to, a Purchase Payment Service’s regional limitations (for example, not offering their services to customers in a particular country), or any change in those limitations.
-
-Since Ruboss uses Purchase Payment Services for all payments, Users residing in jurisdictions that are not supported by a Purchase Payment Service will be unable to use that service to pay for Content for sale by Leanpub.
-
-If a User has an account with a Purchase Payment Service, it is the User’s sole responsibility to ensure their Purchase Payment Service account is accurate and up to date, in order to complete purchases or do anything else involving the Purchase Payment Service, including, for example, receiving a refund.
-
-If you are having trouble completing a purchase or receiving a refund, for example if you are being blocked from completing a transaction by a Purchase Payment Service, you will need to contact their customer support for assistance.
-
-#### 11.1.2 Contributions
-
-Ruboss provides an opportunity for supporters of Leanpub to provide a financial contribution to Leanpub to help it in its mission to sustain and improve its publishing platform for a global community of readers and authors.
-
-Individual contributions are accepted in the form of a one-time payment to Leanpub. All contributions must be made through the specific contribution payment options available on our platform. A contribution is not a charitable donation; it is a payment to Leanpub to show support for its mission. As far as Ruboss is aware, a contribution payment does not entitle the contributor to any tax relief in respect of their contribution. Contributions are subject to our Refund Policy, as set out in Section 12 of these Terms.
-
-By paying for a contribution, the contributor accepts these Terms and Conditions. Contributors must be at or above the age of majority in the relevant jurisdiction.
-
-Ruboss reserves the right to refuse or return any contribution, at its sole discretion.
-
-#### 11.2 Payments from Leanpub for Author Royalties and Allocated Membership Pool Revenue
-
-In order to receive payment for royalties earned through their use of the Site or Services, a User must be able to receive payment using at least one of the third-party payment services we use for royalty payments (the “Royalty Payment Service” or “Royalty Payment Services”).
-
-Currently, we use two Royalty Payment Services: PayPal and Wise.
-
-For PayPal’s terms of service, please visit the [PayPal website](https://www.paypal.com/).
-
-For Wise’s terms of service, please visit the [Wise website](https://wise.com/).
-
-By default, royalties will be paid monthly via Wise, but Users may opt in to receive payments via PayPal.
-
-It is your responsibility to ensure that the information you have provided to the Royalty Payment Service is correct and up to date. We are not liable for losses or any other issues related to the information you have provided to the Royalty Payment Service (for example, if you have provided us with the wrong PayPal email address, or if you have provided Wise with the wrong bank account information).
-
-If you would like to arrange for payment via wire transfer, there are special conditions regarding wire transfer royalty payments, which we may consider on a case-by-case basis, particularly if large amounts of money are potentially involved. Please see section 11.6 “Optional Royalty Payment via Wire Transfer Arrangement” below for the details. We are under no obligation to arrange to make royalty payments to you via wire transfer, should you request that we do so.
-
-Besides the methods for making royalty payments set out in these Terms, we do not use any other means or services to pay royalties.
-
-If this section of these Terms seems complicated, please note that in the Royalties section of your Account, you can find a summary of royalties payable in the coming months and other information.
-
-#### 11.2.1 Royalty Payments via PayPal
-
-If no separate PayPal email account has been added to a User’s Account information on Leanpub, then Leanpub will attempt to send a payment via PayPal to the Leanpub User email address associated with the Leanpub Account.
-
-All PayPal payments are made in US Dollars.
-
-Leanpub will attempt to automatically pay the PayPal transaction fees for royalty payments made via PayPal. However, in some cases, this option may not be available. In such cases, the author must pay the transaction fee for the royalty payment. Unfortunately, we are unable to guarantee in advance that Leanpub will be able to automatically pay the PayPal transaction fee.
-
-You are responsible for paying any other charges, such as service fees or currency exchange fees, that may also be added by PayPal, or by any financial institution associated with the transaction (for example, your bank). To be clear, as the recipient of the payment, you are responsible for paying any such fees.
-
-Royalties which are paid by PayPal are paid in one of two ways:
-
-1. Mass Payment: This is a bulk payment process which lets Leanpub pay multiple Users at once. The payout range of $20 to $1,000.00 applies to Mass Payment only.
-2. Individual Payment: This is an individual payment process for Users who have special circumstances with their PayPal account and cannot be paid via the mass payment process. For an Individual Payment, the minimum monthly payout is at least $40.
-
-#### 11.2.2 Royalty Payments via Wise
-
-You are responsible for paying any charges, such as service fees or currency exchange fees, that may be added by Wise, or by any financial institution associated with the transaction (for example, your bank). To be clear, as the recipient of the payment, you are responsible for paying any such fees.
-
-#### 11.2.3 Minimum Royalty Payout Amount
-
-The minimum amount for a royalty payment that Ruboss will make (the “Minimum Royalty Payout Amount”) is $20.00 for royalty payments via PayPal, and $100.00 for royalty payments via Wise.
-
-The Minimum Royalty Payout Amount for any applicable Royalty Payment Service may be changed at any time, without any notification to you.
-
-As long as it is higher than the Minimum Royalty Payout Amount, you may also set your own minimum payout amount, for the amount that Leanpub will pay in your next royalty payment (the “User-Set Minimum Monthly Payout Amount”).
-
-At the time a royalty payment is scheduled to take place, if Ruboss owes a User less than the User-Set Minimum Monthly Payout Amount in royalties for purchases whose Royalty Hold Period has elapsed, it will roll the royalty amount forward to the following month, until an amount equalling or exceeding the User-Set Minimum Monthly Payout Amount is reached.
-
-Reader Membership Revenue Pool revenue is paid **separately** from normal royalty payments. The process of paying Reader Membership Revenue Pool revenue is currently a manual process, so the Minimum Reader Membership Revenue Pool Revenue Amount that must be earned before it is paid out is $100.00, for both PayPal and Wise. However, if a User has a higher User-Set Minimum Monthly Payout Amount, this value will be used as the minimum threshold instead.
-
-#### 11.2.4 Royalty Payments to Co-Authors
-
-Where multiple Users receive royalties from a single Product, Leanpub will make separate payments to each User, based on the percentages specified in the administrative interface by the Primary Author (the “Royalty Structure”), or as set by Leanpub at the Primary Author’s request.
-
-Any changes made to the Royalty Structure are not retroactive. All changes made to the Royalty Structure will take effect when the change is made.
-
-#### 11.2.5 Royalty Hold Period
-
-All Leanpub Products have a 60-day refund policy (see Section 12, Refunds). Note that special rules may apply to specific products given their unique nature, such as Courses.
-
-Since every Leanpub Product purchase (which does not include the purchase of an advertisement or advertisements) can be refunded in the first 60 days after the purchase is made, we hold the royalties owing from a purchase for a period of time (the “Royalty Hold Period”) before making the royalties from that purchase part of the next royalty payment attempt to the User.
-
-The Royalty Hold Period is equal to the number of days after each Paid Purchase during which the associated Royalties owed to the User are held by Leanpub and not released for payment to the User. The primary purposes for the Royalty Hold Period are to allow for the recalculation of Royalties owed due to refunds and fraud. The Royalty Hold Period is at least 60 days by default to match the length of our refunds policy.
-
-Royalties that have been allocated to a User will be subtracted if the purchase upon which the royalty allocation was based is later subject to a refund.
-
-Ruboss reserves the right, at its discretion, to shorten the Royalty Hold Period to fewer than 60 days for any Product or User. Shortening the Royalty Hold Period does not constitute a waiver, and Ruboss reserves the right to change the Royalty Hold Period back to the standard at any time without notice.
-
-Every month, we pay royalties on the outstanding purchases whose Royalty Hold Period has elapsed. We typically pay these royalties in the first few business days of the month. Our intention is that royalties will be paid no later than 25 days following the end of the calendar month, after the Royalty Hold Period of 60 days for a purchase has elapsed.
-
-#### 11.2.6 Royalty Rates
-
-The Royalty Rate applied at the time of the sale of a Product will be determined according to the Membership associated with the Product.
-
-The Royalty Rate for purchases of $7.99 or more is 80%.
-
-The Royalty Rate for purchases between $0.99 and $7.98 or more is 80% minus a 50 cent flat fee.
-
-If a User’s Account is inactive or is terminated and Ruboss is unable to contact a User by using the contact information provided in the User’s Account, it may also, at its discretion, charge a termination fee equal to the amount of the User’s unpaid royalties to cover administrative costs.
-
-#### 11.2.7 Reader Membership Revenue Pool Allocation
-
-50% of the revenue Ruboss receives from Reader Membership payments will be added to a collective pool of revenue to be shared with eligible Leanpub Users (the “Reader Membership Revenue Pool”), specifically the owners of Products, such as Books, Bundles, Courses, or Tracks, that are not excluded from the Reader Membership Revenue Pool (see section 3.2.3.1 of these Terms).
-
-For monthly and annual Reader Memberships, Revenue from the Reader Membership Revenue Pool will be allocated on the basis of the eligible Free purchases that the User makes during a 365 day period (the “Reader Membership Allocation Period”), starting on the day of their first Reader Membership Payment. This includes both monthly and annual Reader Membership payments.
-
-If the term of a Reader Membership is extended as part of a promotion, the Reader Membership Allocation Period for the Reader Membership payment will be extended in an equivalent manner. For example, as part of a promotion, we may offer Reader Memberships that last for 15 months. In that case, the Reader Membership Allocation Period for the Reader Membership payment will also be 15 months.
-
-For Lifetime Reader Memberships, Revenue from the Reader Membership Revenue Pool will be allocated on the basis of the eligible Free purchases that the User makes during a 5-year period (the “Lifetime Reader Membership Allocation Period”), starting on the day of their first Reader Membership Payment. For the purposes of Reader Membership Revenue Pool allocation, a Lifetime Reader Membership functions like 5 consecutive annual Reader Memberships. The Reader Membership Revenue Pool revenue is divided into 5 equal portions, and one portion is allocated to each of the 5 year periods, to maximize fairness between authors. (It would be inappropriate to pay out all the Reader Membership Revenue Pool during the first year, but it would also be inappropriate to spread it out over a decade or more.) For example: if a reader purchases a Lifetime Reader Membership for $99, then $49.50 of this revenue is allocated to the Reader Membership Revenue Pool. This $49.50 is divided into five portions of $9.90 each, and a $9.90 portion is allocated once per year for five years. (The first portion is allocated at the end of the first 1-year period, the second portion is allocated at the end of the second 1-year period, etc.) Regardless of what the price of the Lifetime Reader Membership is, 50% of that revenue amount is what is allocated. So, if a Lifetime Reader Membership sells for $200, then $100 is allocated; if a Lifetime Reader Membership sells for $80, then $40 is allocated, etc.
-
-When a User with a Reader Membership makes a free purchase of an eligible Product, part of their contribution to the Reader Membership Revenue Pool will be associated with the Product, based on a weighting of the Product’s Suggested Price at the time of Purchase, and all the other free Purchases of non-exempted Products the User makes during their Reader Membership Allocation Period.
-
-The Suggested Price weighting calculation has an upper limit and a lower limit. The lowest Suggested Price weighting price used for the weighting calculation will be the minimum non-free price for that Product. The highest Suggested Price weighting price used for the weighting calculation will be $50.00. For example, this means that a Book with a Suggested Price of $0.00 will have the $7.99 weighting price applied to it, and a book with a Suggested Price of $100.00 will have the $50.00 weighting price applied to it.
-
-When the Reader Membership Allocation Period ends, the allocated revenue will then be calculated for each eligible Product. That amount will then added to each eligible Product owner’s sum of unpaid earnings according the Royalty split for the Product at the time the relevant Product purchase was made. Those unpaid earnings will then be included in the next Royalty payout. Please see section 11.2.5 for more information on the timing of Royalty payouts.
-
-No amount under one cent will be allocated to an eligible Product and its owners. This means that if a User purchases enough eligible Products during their Reader Membership Period, they may exhaust their Reader Membership Revenue Pool allocations, and any further eligible Free purchases that they make, will not result in the allocation of revenue to the Reader Membership Revenue Pool.
-
-For the purposes of calculating the revenue allocation from the Reader Membership Revenue Pool, only one Free purchase per User counts towards the association of revenue with any Product. This means that even if a User purchases a Product for free more than once during a Reader Membership Period, or if they purchase the same eligible Product again during any subsequent Reader Membership Period, only their first purchase will count towards the allocation of revenue to the Product owner or owners.
-
-Ruboss, at its sole discretion and without notification to the User, may choose to adjust the weighting based on a Product’s Suggested Price. Separately, if Ruboss determines that a Product’s Suggested Price has been inflated in order to unfairly manipulate the Membership Revenue Pool calculation for the Product, Ruboss may adjust the Suggested Price weighting for that Product. For example, if an Author were to set a Suggested Price of $1,000 for a Book that would under any ordinary estimation not merit a Suggested Price of $1,000, Ruboss may adjust the Suggested Price weighting.
-
-#### 11.2.8 Payment Attempt Failure
-
-If our attempt to make a royalty attempt fails, the payment amount will be rolled-forward and applied to the next royalty payment.
-
-If multiple royalty payment attempts to a User fail, we may suspend payment attempts to the User, without notification.
-
-#### 11.2.9 Withholding Royalties and Suspending Payments
-
-At its sole discretion, Ruboss reserves the right to withhold royalties and suspend royalty payments to Users. Circumstances that warrant the withholding of royalties and/or the suspension of royalty payments to a User include legal action, matters related to law enforcement, and suspected violation of these Terms.
-
-#### 11.3 Deducting Platform Costs from Royalties
-
-Users can opt in to deductions from their royalties by authorizing Leanpub to incur a cost or costs (the “Platform Cost” or “Platform Costs”).
-
-Just as some publishing companies may subtract expenses (copy editing, indexing, typesetting, etc.) from an author’s royalties in advance, a User can choose to deduct Platform Costs (for example, one of our AI Services, or a Shelf Spot) from the calculation of their royalties.
-
-If Leanpub has incurred Platform Costs at the request of the User, the User’s royalties are calculated by subtracting the Platform Costs.
-
-The amount of Platform Costs that a User may request Leanpub to incur may be limited by the Royalty Hold Period or other constraints. For example, the amount of Platform Costs that a user may request Leanpub to incur, may exclude any associated revenue that is still subject to the Royalty Hold Period.
-
-Platform Cost subtractions for Paid Placements (such as a Shelf Spot or multiple Shelf Spots) can not be reversed.
-
-#### 11.4 Chargebacks
-
-Despite our generous refunds policy, sometimes customers use chargebacks. A chargeback is typically where a customer contacts their credit card company and disputes a charge made on their account.
-
-Leanpub almost never contests chargeback claims, since this is a battle we almost always lose.
-
-In the case that a purchase is later associated with a chargeback, the funds associated with the purchase are returned to the customer, and Leanpub deducts the related royalty payment from the calculation of royalties owing to the relevant User (the “Chargeback-Related Royalty Calculation Adjustment”).
-
-In the case that a User has received a royalty payment related to a purchase that is later subject to a chargeback claim (the “Chargeback-Related Royalty Payment”), Leanpub reserves the right to deduct an amount equivalent to the Chargeback-Related Royalty Payment from the User’s future royalty payments (the “Chargeback-Related Royalty Deduction”).
-
-Ruboss reserves the right to stop all further purchases from, and terminate, any Account associated with the abuse our Happiness Guarantee, including the use of chargebacks. See Section 14, “Terminating Membership and/or Removing Content”, for more details.
-
-#### 11.5 Payment For Services
-
-A User wishing to write or publish a Product or Products on Leanpub may subject to a payment of a fee in order to do so (the “Product Creation Purchase” or “Product Creation Purchase”). This fee may take the form of a one-time payment, or it may take the form of multiple periodic payments, including monthly payments, as set out in Section 3, “Account Memberships”.
-
-Each Product Creation Purchase is subject to our 60-day Happiness Guarantee.
-
-Use of the Site or Services in association with a mobile device or a limited internet service is subject to the service provider’s normal rates and fees, such as internet or telephone provider data charges. Ruboss will not be held liable for any associated charges incurred by using our Send to Kindle feature or any other Service.
-
-The basic use of the Leanpub Site and Services, excluding the purchase of non-free Products and Product Creation Purchases, is offered free of charge for all users. However, please note that use of the Site or Services in association with a mobile device or a limited internet service is subject to the service provider’s normal rates and fees, such as internet or telephone provider data charges. Ruboss will not be held liable for any associated charges incurred by using our Send to Kindle or any other Leanpub Service.
-
-#### 11.6 Optional Royalty Payment via Wire Transfer Arrangement
-
-We will consider requests to receive royalty payments via wire transfer (the “Wire Transfer Arrangement”) on a case-by-case basis.
-
-A User’s participation in a Wire Transfer Arrangement is at Leanpub’s discretion and may be discontinued at any time. We are bound to comply with all applicable regulations and some individuals may be excluded from entering into or continuing a Wire Transfer Arrangement. This may include the exclusion of Users from particular countries or in particular circumstances. This service may not be used to circumvent laws, regulations or obligations of any kind.
-
-The following special conditions will apply to a Wire Transfer Arrangement:
-
-* To cover transaction costs, administrative costs and any other costs to Ruboss associated with wire transfers, we will apply a fee of 5% plus $50 to each wire transfer. For example, if your pre-fee royalty payment is calculated to be $1,000, we will apply a 5% fee of $50 and the $50 fee, so the wire transfer amount will be $900.
-* The User is responsible for paying any extra fees that are applied to the transaction on their end (for example, any extra fees applied for currency conversion by the receiving financial institution) and any other fees that are applied to them as a condition of receiving each wire transfer.
-* We will make wire transfer payments to the User a maximum of once per quarter. These payments will be scheduled, and the schedule is subject to change at Leanpub’s sole discretion.
-* The minimum pre-fee amount eligible for a wire transfer payment is $1,000. We will not send wire transfers for royalties payments that are lower than this minimum amount.
-* To receive a royalty payment via wire transfer, the User’s Royalty Rate for all the User’s Leanpub Products (that is, all the Products from which they receive royalties) must be set to the 80% Royalty Rate. If a User’s Products are set to a different “grandfathered” Royalty Rate, the User must opt each Product in to the new 80% Royalty Rate.
-
-### 12\. Refunds
-
-The Refund Policy can be found [here](https://leanpub.com/refunds). Accepting these Terms constitutes acceptance of the Refund Policy. We may update the Refund Policy from time to time, without notice. The User is responsible for ensuring they are up to date on the Refund Policy. We recommend that you check it regularly.
-
-### 13\. User Registration and Information
-
-You must ensure that you have correctly completed the information in the user registration form on the Site (the “User Information”). In the event that any part of your User Information changes, please ensure to promptly update your User Information on the Site. It is your responsibility to keep all of your User Information on the Site current.
-
-You will have the opportunity to select a username and password on the user registration form. You are solely responsible in all respects for a) all use of the Site made using your username and password, including monitoring the use of Minors accessing your account, and b) maintaining the confidentiality of your password. We encourage you to use a “strong” password (passwords that use a combination of upper and lower case letters, numbers and symbols) for your account. Ruboss cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements. Only one individual may access the Site at the same time using the same username and password. You agree to notify Ruboss immediately of any unauthorized use of your email address, username or password, or of any other security breach regarding the Site or Services of which you are aware. Ruboss may refuse to grant you a username or password that impersonates someone else, is protected by trademark or other proprietary right law, is vulgar or otherwise offensive, or for any other reason.
-
-User registration and information is subject to the Leanpub Privacy Policy.
-
-#### 13.1 User Profile Policy
-
-You are responsible for all information provided to, or posted on the Services. You must ensure that all information you provide in connection with your Leanpub account, such as your name, email address, photo, and other information, is accurate and up-to-date. You may maintain only one account at a time. If for any reason your account is disabled, you may not create another account without our permission.
-
-Leanpub allows you to upload a photo of yourself to your profile to better identify yourself, find new friends and opportunities in the Leanpub system, and to help Authors create a brand around their work.
-
-Users are not to misrepresent themselves, imitate others, or post photos that include a Minor or Minors. A User is not permitted to use as a profile photo a photo of a person who is not the User. Authors writing under a pseudonym, who do not wish to display their identities, may not upload a photo of another person, but may, for example, upload an image of an inanimate object, or a disguised image to represent themselves.
-
-### 14\. Terminating Membership and/or Removing Content
-
-Ruboss, at its sole discretion and without notice, may terminate or suspend any Account, for any reason, without prior notice to any User. Typical reasons for terminating an Account include, but are not limited to, any potentially suspicious activity, such as money laundering, or credit card fraud, or carrying out any unauthorized transactions.
-
-Under these Terms, Ruboss may terminate your Account, block your ability to purchase, create, or publish any Products, remove any associated Content, and refund any or all refundable purchases of Products associated with your Account (including purchases of any Product or Products associated with the Account), and permanently ban you from using the Services. Upon termination of your account, Ruboss has no obligation to provide a refund of any amounts paid to Ruboss and its subsidiaries, or of monies owed to the User (royalties or otherwise).
-
-You may terminate your Account on the account information section of the Site, or by contacting [hello@leanpub.com](mailto:hello@leanpub.com) with a specific request to do so. Your request to terminate will become effective within 30 days after receipt of your request has been acknowledged by Ruboss. All provisions of this agreement relating to payment, commissions, service, fees, disclaimers, limitations of liability, indemnification, confidentiality, and proprietary rights (including without limitation license rights such as the Permissions Agreement) shall survive termination.
-
-After Content has been removed from Leanpub it will no longer be available for purchase or visible to Users who have not purchased it. It may still be available to Users who have purchased it. Furthermore, if any Content is removed from being for sale but has previously been sold (including free purchases), it may still be listed as Content having been produced by you in your Leanpub User profile or elsewhere on Leanpub.
-
-Ruboss does not retain any residual rights to remove work other than those outlined above.
-
-If you choose to terminate your account, the terms outlined above regarding the status of Content you have uploaded or created using Leanpub remain applicable.
-
-### 15\. Primary Authors and Co-Authors
-
-Terms regarding copyright holder status are stated in Section 8 of these terms, “Copyright, Creative Commons and Public Domain Policies”. This section regards the administrative status within Leanpub that may be assigned to Leanpub Users with respect to Products and Placements.
-
-When a User creates a Leanpub Product or Placement, that customer is granted Primary Author status in relation to the Product or Placement (the “Primary Author”). The Primary Author has administrative authority with respect to the Product associated with the feature set provided by Leanpub to the Primary Author (the “Feature Set”), and may undertake any action Primary Authors are permitted by Leanpub to undertake in relation to the Product or Placement.
-
-Exceptions to the rule that creating a Product makes a User a Primary Author may exist. For example, a University may assign an administrator to manage a Leanpub University account, under which teachers may be able to create Courses, but the status of Primary Author is granted to the administrator, not the teacher.
-
-The Feature Set and permissions available to all Leanpub Users, including the Primary Author of a book, are subject to change at any time and at Leanpub’s sole discretion. The assignment of Primary Author status in no way represents a statement by Leanpub regarding the ownership of or copyright in relation to any Product or Placement or uploaded Conte, including any Extras, and any other rights, material or goodwill associated with the Product and its associated Content at any time or in any circumstances.
-
-Primary Authorship can be transferred by Leanpub to another Leanpub User and/or to another Leanpub account at the request of the Primary Author. In this case, the Primary Author that requests the transfer becomes a Former Primary Author (a “Former Primary Author”) and Primary Author status will be revoked from the Former Primary Author. This does not exclude other reasons for Leanpub to transfer Primary Author status to another Leanpub User.
-
-The Primary Author of a Product or Placement may at any time assign Co-Author status with respect to a Product to another Leanpub User or Users (the “Co-Author” or “Co-Authors”), if such status is available. Any assigned Co-Author will be granted Co-Author status upon approving the assignation of that status by using the feature or features provided by Leanpub for that purpose, or otherwise communicating to Leanpub their acceptance of the assignation of Co-Author status. The assignment of Co-Author status does not represent a statement, on the part of either Leanpub or the Primary Author, of any Co-Author’s ownership of or copyright in relation to any Leanpub Product, and any other rights, material or goodwill associated with a Product at any time or in any circumstances. At any time and without requiring any approval, confirmation, or any other kind of communication to, from or with any Co-Author or Co-Authors, the Primary Author of Product may revoke Co-Author status from any or all of a Product’s Co-Authors, and the Co-Author or Co-Authors whose Co-Author status has been revoked become Former Co-Authors (the “Former Co-Author” and “Former Co-Authors”). If royalties from a Product’s sales were being allocated to a Co-Author, after Co-Author status has been revoked from a customer, the Former Co-Author will no longer be allocated any new royalties associated with the Product.
-
-The Primary Author may at their sole discretion, at any time or for any reason, request that Leanpub re-allocate the percentage of royalties from a Products sale owing to the Primary Author and any Co-Author or Co-Authors. This change is effective from the moment it is made, and does not apply to any royalties already owing the Primary Author, and any current or Former Co-Author or Co-Authors.
-
-In the case that Leanpub is informed that there is a dispute about Co-Authorship of a Product, we reserve the right to remove the Product from Leanpub, remove access to the Product via Leanpub from the Primary Author and/or any current or Former Co-Author and/or Co-Authors, and from any User who at the time or previously held Primary Author status.
-
-### 16\. Organizations
-
-The terms in this Terms of Service and the Leanpub Privacy Policy also all apply to Organizations.
-
-Organizations are responsible for paying the authors and/or content creators, editors and any other person or organization with which they are associated. Ruboss is not liable for any discrepancies between Organizations and those with which they are associated regarding expectations concerning royalties or any other matter. Ruboss will only pay royalties in accordance with the royalty payment settings associated with the Leanpub Account to which royalties are owed in relation to the sale of any Product. Any division of royalties is beyond Ruboss’ control and responsibility.
-
-Organizations are not eligible to receive pay discount rates for Product Creation Purchases.
-
-### 17\. Causes
-
-Authors and Organizations are free to assign a royalty percentage to any Cause that has been approved as part of the Leanpub for Causes program that allows Authors and Organizations to share royalties with a Cause (“Leanpub for Causes”, or the “Leanpub for Causes Program”). However, this does not imply any endorsement on the part of the Cause of the Author and/or Organization or the associated Content or an actions or statements made by any party associated with the Content or its promotion or dissemination on Leanpub or elsewhere.
-
-Royalties owed to Causes will be paid via PayPal using the PayPal email address associated with the Cause in the form used to register and maintain information about Causes (the “Cause Form”).
+Royalties owed to Causes will be paid via PayPal using the PayPal email address associated with the Cause in the form used to register and maintain information about Causes.
 
 Any User with the ability to change the royalty percentage owing to a Cause in association with the sale of a Product may change the royalty percentage owing to a Cause at any time and for any reason. Such changes have no effect on royalties owing prior to the change in the royalty percentage owing to the Cause.
 
-### 18\. Universities
+Partners
+--------
 
-Ruboss may enter into contracts with universities in order to satisfy their unique institutional requirements. In such cases, we will display to Users who attempt to purchase a university’s course (including free purchases), relevant information regarding the use of Users’ Personal Information in order to fulfill the contract will be displayed. The purchase of a course associated with any such contract will be contingent upon the User’s acceptance of these terms.
+Partners will have a signed contract with Ruboss regarding their participation in our Partner Program. A Partner is not required to have an Account.
 
-### 19\. International Users
+Content and Copyright
+=====================
 
-Ruboss makes no representation that material on the Site or Services is appropriate to or available at locations outside of Canada and the United States. You may not use the Site or export the Content in violation of United States export regulations. If you access the Site from a location outside the United States or Canada, you are responsible for compliance with all applicable local laws and any local taxes that may be required.
+Copyright Take Down Policy
+--------------------------
 
-### 20\. Partners and the Partner Program
+If you believe any materials on the Site infringe your copyright, you should notify Ruboss by submitting a copyright infringement claim. At its discretion, Ruboss will take appropriate action in accordance with our Copyright Take Down Policy, which governs how we respond to claims of copyright infringement.
 
-Leanpub may arrange for companies or organizations (the “Partner” or “Partners”) to sell Leanpub books, bundles, courses and tracks via their own websites as part of our Partner Program.
+The Copyright Take Down Policy can be found [here](https://leanpub.com/takedown). By accepting these Terms, you also accept the terms of the Copyright Take Down Policy.
 
-All Leanpub books, bundles, courses and tracks are opted in to our Partner Program by default. However, the Primary Author can opt out of the Partner Program on the Pricing page for each Product.
+To report an infringement, please follow the steps outlined in our Copyright Take Down Policy.
 
-The specific terms of our cooperation with any Partner will be determined by each individual Partner contract, and are not subject to public disclosure.
+### Types of User-Generated Content for Sale
 
-The Partner website may only update the Product details occasionally, for example once per month (the “Partner Update” or “Partner Updates”). This means there will be a period of time when the Partner website can sell a Leanpub Product with different details than those set on Leanpub itself. For example, the Partner may sell the Product at an outdated Suggested Price, if the Suggested Price for a Product has been changed on Leanpub since the latest Partner Update.
+Leanpub offers various types of User-generated Content for sale, including but not limited to:
 
-If a Product has multiple Packages for sale, the default Package will be the one selected for sale by the Partner. This selection is also subject to the timing of Partner Updates.
+* **Books**: Digital books (ebooks) provided in formats such as PDF, EPUB, and HTML. Content may include, but is not limited to, text, images, video, music, code samples, figures, and tables.
+    
+* **Bundles**: Collections of two or more Books, created by one or more Account Holders, sold as a single item.
+    
+* **Courses**: Content offered through Leanpub’s Courses service, which may include interactive elements like multiple-choice questions, assessments, and certificates of completion issued by the Course Author or other relevant User.
+    
+* **Tracks**: Curated sets of one or more Courses. Users may receive certificates upon completion, with success criteria determined by the Track Author or other relevant User.
+    
+* **Extras**: Supplementary digital files offered alongside a principal Product (currently only a Book, though this may include a Course in the future) as part of a Package. Extras may include videos, digital artwork, source files, code samples, apps, templates, worksheets, or similar content. They may not include services or software licenses. Ruboss may, at its discretion and in accordance with these Terms, remove any Extra or its associated principal Product from sale if deemed to violate these Terms.
+    
+* **Packages**: A combination of a principal Product (such as a Book or Course) and/or one or more Extras, and/or a specified number of copies of the Product, sold together as a single purchase. A Package can include additional digital resources (Extras), multiple copies at a discounted rate (e.g., a “Team Edition” for 5 copies), or both.
+    
 
-In order to sell Leanpub Products, Partners are permitted to display Product and Author information, such as the Author’s name, public Leanpub profile information, book title, cover image, profile image, avatar, etc. This use is not limited to their websites or apps; for example, Partneres are permitted to display Leanpub Products on their social media channels.
+Content Policy
+--------------
 
-Partner sales of Leanpub Products are arranged via multiple-use free Coupons created by Leanpub, or via single-use Coupons created by an API. This means that customers buy the Product on Leanpub (using a free coupon), so they get updates to Products just like any other Leanpub sale.
+All Content, whether publicly posted (in Forums, Books, Bundles, Extras, Packages, or Courses sold on Leanpub) or privately transmitted between Users, is the sole responsibility of the person who created or uploaded such Content.
 
-Once per month, Leanpub will invoice the Partner for the sales which were made via the free Coupons, checking the number of Coupons used against the purchase records of the Partner via their website, and using the records of the Partner in the case of a discrepancy. With multiple-use Coupon codes, there is always the possibility of Coupon code sharing, and the Partner is not liable if a Coupon is overused, nor will an Author receive any compensation for Coupon overuse.
+Leanpub does not monitor or control Content posted via the Services and takes no responsibility for any such Content. Any use or reliance on Content obtained through the Services is at the User’s own risk.
 
-The ordinary Royalty Rate will apply to Partner Program purchases, just like with any normal Leanpub purchase.
+Leanpub does not endorse or guarantee the completeness, truthfulness, accuracy, or reliability of any Content or Product shared via the Services, nor does it support any opinions expressed through the Services.
 
-### 21\. The Services are Available “AS-IS”
+By using the Services, you understand that you may encounter Content that could be offensive, harmful, inaccurate, or otherwise inappropriate. In some cases, postings may be deceptive or mislabeled.
 
-Your access to and use of the Services or any Content is at your own risk. You understand and agree that the Site and Services are provided to you on an “AS-IS” and “AS-AVAILABLE” basis. Without limiting the foregoing, RUBOSS AND ITS PARTNERS DISCLAIM ANY REPRESENTATIONS, WARRANTIES AND CONDITIONS, EXPRESSED OR IMPLIED, OR MERCHANTABILITY, MERCHANTABLE QUALITY, DURABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT. We make no warranty, and disclaim all responsibility and liability for the completeness, accuracy, availability, timeliness security or reliability of the Site or Service or any Content thereon. Ruboss will not be responsible or liable for any harm to your computer system, loss of data, or other harm that results from your access to or use of the Site or Services, or any Content. You also agree that Ruboss has no responsibility or liability for the deletion of, or the failure to store or transmit, any Content and other communications maintained by the Site or Services. We make no warranty that the Site or Services will meet your requirements or be available on an uninterrupted, secure, or error-free basis. No advice or information, whether oral or written, obtained from Ruboss or through the Site or Services, will create any warranty not expressly made herein. Ruboss may also in its discretion modify the features, availability, operation and/or look and feel of Leanpub from time to time without notice to Users.
+Ruboss is not liable for any Content-related issues, including but not limited to errors, omissions, or any loss or damage resulting from Content posted, emailed, or otherwise made available via the Services.
 
-### 22\. Links
+By uploading Content to Leanpub, you represent and warrant that:
 
-The Services may contain links to third-party websites or resources. You acknowledge and agree that we are not responsible or liable for: (i) the availability or accuracy of such websites or resources; or (ii) the content, products, or services on or available from such websites or resources. Links to such websites or resources do not imply any endorsement by Ruboss of such websites or resources or the content, products, or services available from such websites or resources. You acknowledge that you accept sole responsibility for, and assume all risk arising from, your use of any such websites or resources.
+* You own the Content or have permission from the rightful owner to upload it.
+    
+* The Content does not violate any copyright, trademark, trade secret, or other intellectual property rights.
+    
+* The Content does not infringe on privacy or publicity rights.
+    
+* The Content does not contain false attributions, misleading testimonials, or unauthorized endorsements.
+    
+* The Content is not unlawful, obscene, defamatory, pornographic, hate speech, harassing, or harmful.
+    
+* The Content is free from malicious code, including viruses or other harmful software.
+    
+* The Content complies with all applicable laws and regulations.
+    
+* The Content does not promote fraudulent goods, services, or schemes.
+    
+* To the best of your knowledge, all factual information in the Content is accurate, and its use will not cause harm.
+    
 
-### 23\. Third-Party Websites, Software and Sites
+You are entirely responsible for your Content. Ruboss is not responsible for backing up or archiving Content, and we will not be held liable for any damage, loss, or corruption of Content. Leanpub’s “Versions” feature is not intended as a backup tool, and Ruboss reserves the right to discontinue this or any other feature at any time.
 
-The Site and Services may use plug-ins or direct you to websites, software or services owned or operated by third parties (“Third Party Properties”). We have not reviewed all of the Third Party Properties to which you may be directed and we have no control over such Third Party Properties. We have no control over and are not responsible for (a) the content and operation of such Third Party Properties, or (b) the privacy or other practices of such Third Party Properties. The fact that the Site directs you to such Third Party Properties does not indicate any approval or endorsement of any Third Party Properties. We direct you to such Third Party Properties only as a convenience. You are responsible for the costs associated with such Third Party Properties, including any applicable license fees and service charges. Accordingly, we strongly encourage you to become familiar with the terms of use and practices of any such Third Party Properties.
+As a User, you agree:
 
-YOU AGREE THAT YOUR USE OF THIRD PARTY WEBSITES AND RESOURCES, INCLUDING WITHOUT LIMITATION, YOUR USE OF ANY CONTENT, INFORMATION, DATA, ADVERTISING, PRODUCTS, OR OTHER MATERIALS ON OR AVAILABLE THROUGH SUCH WEBSITES AND RESOURCES, IS AT YOUR OWN RISK AND IS SUBJECT TO THE TERMS AND CONDITIONS OF USE APPLICABLE TO SUCH SITES AND RESOURCES.
+* Not to post any Content that violates these Terms.
+    
+* Not to use the Services to harm anyone, including but not limited to Minors, in any way.
+    
+* Not to use “spam,” “blast-faxes,” or automated calls to market or sell Content or any other product or service.
+    
+* Not to interfere with the operation of the Site through the use of viruses, malicious software, or other disruptive technology.
+    
+* Not to employ a robot, spider, or other automated process to harvest email addresses or user information or to monitor activity on the Site.
+    
+* Not to impersonate another person or entity or forge any communication or message.
+    
+* Not to use Leanpub to sell physical goods, including offering codes or coupons redeemable for physical goods. Leanpub is for digital goods only.
+    
 
-### 24\. Security
+As an Author or Organization, you agree that any Content made available for sale on the Site will comply with these Terms. In addition to complying with these Terms, you are responsible for adhering to all local and national laws in your jurisdiction.
 
-We take appropriate and reasonable technical, organizational, and procedural measures to protect Personal Information from loss, misuse, unauthorized access, disclosure, alteration, and destruction, taking into account the risks involved in the processing and the nature of the Personal Information. If you have any questions about the security of your Personal Information, you may contact us at dpo@leanpub.com.
+Ruboss may, at its discretion, refuse or remove any Content it deems inappropriate, illegal, offensive, or harmful, or that misrepresents the Content’s nature or progress. We may also remove Content or Products and reassign URLs if we determine a project has been abandoned. For example, if you reserve a valuable URL like `leanpub.com/computers` but fail to publish, we may reclaim it.
 
-Leanpub accounts require a username or email and a password to log in. Members must keep their password secure, and never disclose it to a third party. Account passwords are hashed, which means we cannot see a User’s password. We do not send forgotten passwords. We will only provide Users with instructions on how to reset them.
+At our discretion, we may ban Users or remove Content that violates our policies or that we deem suspicious. Ruboss reserves the right to modify policies at any time without notice.
 
-### 25\. Limitation of Liability
+Copyright, Creative Commons, Public Domain, Disputed Content, and Related Policies
+----------------------------------------------------------------------------------
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, RUBOSS AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS (OTHER THAN CONTENT CONTRIBUTORS GRANTING LICENSES PURSUANT TO THESE TERMS) WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, OPPORTUNITY, DATA, USE, GOOD-WILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (I) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES; (II) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICES, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES; (III) ANY CONTENT OBTAINED FROM THE SERVICES; AND (IV) UNAUTHORIZED ACCESS, USE OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING WITHOUT LIMITATION NEGLIGENCE) OR ANY OTHER LEGAL THEORY, WHETHER OR NOT RUBOSS HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+Leanpub is committed to ensuring that Content published through the platform aligns with its mission. To maintain this focus, we have established strict policies that govern the use of Content on Leanpub.
+
+VIOLATING ANY OF THE POLICIES IN THIS SECTION MAY RESULT IN ACCOUNT SUSPENSION OR DELETION (INCLUDING ALL ASSOCIATED PRODUCTS), AT OUR SOLE DISCRETION, WITHOUT PRIOR NOTICE.
+
+### Copyright Holders Only
+
+Only the holder of the copyright for any Content may use Leanpub to publish that Content.
+
+This policy applies not only to the contents of a Product but to any other Content, such as a User’s profile or a Product’s “About” information.
+
+### Standard Copyright License
+
+Leanpub Authors or Organizations retain the copyright to their work. Leanpub does not claim ownership of the copyright for Products or any other Content created or sold on Leanpub. By default, Leanpub Books are published under a standard copyright license belonging to the Author(s) or Organization(s).
+
+### Creative Commons Policy
+
+Leanpub allows Authors and Organizations to choose a Creative Commons License for their work as an alternative to the default copyright license.
+
+However, you may only publish under a Creative Commons License if you own the copyright for the Content. Publishing Creative Commons works that you do not own, even if the license permits distribution elsewhere, is not allowed.
+
+This policy supports the Creative Commons process by ensuring that the original work remains identifiable, especially for in-progress Products. A flood of similar or identical copies of Creative Commons works could harm the ability of the original Author(s) to profit from their work and receive valuable feedback.
+
+### Public Domain Book Publishing Policy
+
+Leanpub allows the sale of Public Domain works only if they are significantly differentiated from the original or other versions. To be considered significantly differentiated, a Product must include unique contributions such as a new translation, original illustrations, or annotations.
+
+Annotations must be the original work of the User or Users publishing the Product and can include essay introductions, study guides, or literary critiques.
+
+Leanpub reserves the right to reject any Public Domain Product it does not deem sufficiently differentiated. Public Domain Products must also include a clear indication of their nature in the Product title (e.g., “Translated,” “Annotated,” “Illustrated”).
+
+### Copyright Infringement is Strictly Prohibited
+
+If Ruboss determines that any part of a Product infringes on the copyright of others, it may take immediate action, including halting the sale of the Product or deleting the offending Book or Package. Ruboss may also suspend or delete the account responsible for the infringement if warranted.
+
+Ruboss reserves the right to withhold revenue or refund all refundable purchases if it determines that a violation of these Terms has occurred. This action is taken at Ruboss’s sole discretion.
+
+Account Holders Authorize Ruboss to Send DMCA Takedown Notices on Your Behalf
+-----------------------------------------------------------------------------
+
+By using Leanpub, Account Holders authorize Ruboss to act as one of their DMCA copyright representatives. Ruboss is permitted, but not obligated, to send DMCA Takedown notices on behalf of Account Holders while their Product is available for sale in the Leanpub Bookstore. Ruboss reserves the right to send DMCA Takedown notices at its discretion, particularly in cases involving significant copyright violations.
+
+### Use of Licensed Images from Third-Party Services
+
+Leanpub permits the use of images sourced from Unsplash’s free image collection, provided that the use complies with Unsplash’s free image license. This license allows for both commercial and non-commercial use without the need for attribution (though attribution is appreciated).
+
+**Unsplash+ images, or images from similar paid licensing services such as iStock, are not permitted on Leanpub.** This restriction helps avoid any potential licensing issues that could arise from specific usage limitations imposed by paid services like Unsplash+. Authors are responsible for ensuring that all images used in their Products fully comply with the free usage license offered by Unsplash or other similar services.
+
+This policy removes the need for verifying the existence or terms of paid licenses, ensuring compliance with Leanpub’s content guidelines.
+
+To clarify:
+
+* **Unsplash Free images**: Allowed, provided they adhere to the free image license terms.
+    
+* **Unsplash+ images and similar paid services such as iStock**: Not permitted.
+    
+
+### Death of Copyright Holder
+
+If the copyright owner of Content published on Leanpub dies, ownership of the Content passes to their legal successor. The new copyright holder assumes all rights of the Primary Author, including the ability to keep the Content for sale, retire it, or take any other action permitted to a Primary Author. Leanpub will not lock the Account or unpublish any Products upon the death of a copyright owner.
+
+Disputed Content
+----------------
+
+Ruboss does not mediate copyright disputes. Such matters are for the involved parties to resolve themselves or in court. If Ruboss becomes aware that any Content is involved in a dispute over copyright or intellectual property rights (“Disputed Content”), we may take action to limit our exposure to the dispute.
+
+For example, Ruboss may change the Product’s status to “Forcibly Retired” or restrict access to Leanpub for Users associated with the Disputed Content. In some cases, we may delete the Content or the Users’ Accounts entirely. Ruboss may also withhold royalties associated with Disputed Content and refund any refundable purchases of the Content. At our discretion, we may also remove the Disputed Content from Users’ Leanpub libraries.
+
+Ruboss’s actions regarding Disputed Content are not judgments or declarations about the ownership of the Content or any User’s involvement in infringing activity. Instead, they are precautionary measures to limit Ruboss’s exposure to legal risk in cases where the ownership of Content is unclear.
+
+If a Product URL becomes associated with Disputed Content, it may no longer be available for use on Leanpub, even for unrelated new content or by other Users.
+
+Erotica
+-------
+
+Leanpub has specific rules and features that apply to Content categorized as Erotica, with additional restrictions to ensure compliance with legal standards and to prevent access by Minors.
+
+### Identification and Age Verification
+
+Products containing mature or erotic material must be categorized as Erotica. These Books will appear in their own Category lists and will not be included in the main Leanpub bestseller lists or first published lists. The Erotica Category is protected by an age verification process to prevent access by Minors.
+
+### Packages Including Erotica
+
+Packages containing Erotica are not permitted. Authors are prohibited from adding Extras to Books categorized under the Erotica genre. This includes, but is not limited to, restrictions on video, audio, artwork, or other digital Extras. If any Extra in a Package is deemed inappropriate or falls under the Erotica genre, the entire Package may be removed at Ruboss’ sole discretion. Violations could lead to further actions, including suspension of the Author’s Account.
+
+### Bundles Including Erotica
+
+If a Bundle includes a Product categorized as Erotica, the entire Bundle will be categorized as Erotica. Non-Erotica books included in such a Bundle will only be subject to restrictions and age verification when part of the Bundle. These restrictions do not affect the non-Erotica Book when sold independently. Erotica Bundles will only appear in the Erotica category and will be subject to age verification.
+
+### Images
+
+Books categorized as Erotica are not allowed to contain any images within their manuscripts. Leanpub’s book generator will automatically ignore image tags in Erotica manuscripts. This ensures that no inappropriate or copyrighted images are included. The only image allowed in an Erotica book is the cover image (“Book Cover”). The Book Cover must be appropriate for a PG-13 audience and cannot be erotic or mature in nature.
+
+To prevent the inclusion of images in directly uploaded books, all Erotica books must be generated through the Leanpub book generator.
+
+Ruboss reserves the right to remove any Content that violates these terms and may take additional actions as necessary.
+
+### Prohibited Content
+
+Leanpub supports free speech and artistic expression but strictly prohibits certain types of content. Pornographic images or videos, graphic depictions of sexual acts, or any erotic content involving minors are strictly forbidden. Leanpub is firmly against child pornography and prohibits any Content featuring minors in an erotic context.
+
+Other prohibited materials include, but are not limited to, crime scene imagery, depictions of animal cruelty, or similarly disturbing content. These materials cannot be uploaded, sold, or distributed via the Leanpub platform.
+
+Ruboss reserves the right to remove any inappropriate Content and take further action against the Authors or Organizations responsible for violations. While global standards of acceptability may differ, Ruboss retains the sole discretion to determine what Content is appropriate for sale on the Leanpub platform.
+
+### Exclusion of Erotica from AI Services
+
+Content categorized as Erotica is ineligible for AI Services.
+
+Fan Fiction
+-----------
+
+Fan Fiction refers to fiction that uses characters, settings, or other recognizable content from an existing work, such as a TV show, movie, book, or other media, created by someone other than the Author of the Fan Fiction.
+
+**Fan Fiction is not permitted on Leanpub.**
+
+This prohibition is due to the complex legal issues surrounding copyright and derivative works. Fan Fiction often constitutes a derivative work, which may infringe on the original copyright holder’s rights. As a result, Leanpub does not allow the sale or distribution of Fan Fiction to avoid potential copyright violations, even if no payment is involved.
+
+Bad Products
+------------
+
+Leanpub encourages creative expression but must maintain standards to protect its platform and its Users. Occasionally, a User may publish a Product with minimal original content or use the platform in a way that could harm Leanpub’s reputation or its Users. These are referred to as “Bad Products.”
+
+If Ruboss determines that a Product qualifies as a Bad Product, it reserves the right to take any necessary actions to resolve the situation. These actions may include deleting the Product, changing its status (e.g., from Published to Unpublished), or taking other corrective actions without prior notice to the User.
+
+In addition to addressing the Product, Ruboss may take action against any User deemed responsible for creating or distributing a Bad Product. This may include suspending or deleting the User’s account, depending on the severity of the violation.
+
+Examples of Bad Products may include, but are not limited to:
+
+* Products with little or no original content.
+    
+* Products created to mislead or deceive Users.
+    
+* Products intended to damage Leanpub’s platform or other Users’ experiences.
+    
+
+Joke Products
+-------------
+
+Leanpub recognizes that some Users may create Products or User pages intended as jokes or pranks (referred to as “Joke Products”). While humor and creativity are welcomed, Leanpub retains the right to prevent Joke Products from negatively impacting the platform or its Users.
+
+If Ruboss determines that a Product is a Joke Product or a related action is a joke, it may take action to mitigate any negative effects. This can include unpublishing or retiring the Product, restricting its sale to free-only, or taking other actions as deemed necessary.
+
+Leanpub reserves the right to address Joke Products without notifying the User in advance. The platform will prioritize maintaining the integrity and user experience on Leanpub over the continuation of any Joke Products.
+
+SEO or Advertising of Non-Leanpub Products or Services is Prohibited
+--------------------------------------------------------------------
+
+Leanpub is a platform dedicated to the creation, publication, and promotion of Leanpub Products and Authors. It is also a marketplace for discovering Leanpub Authors and purchasing their Products.
+
+It is prohibited to use Leanpub for any unrelated primary purpose, including but not limited to, conducting search engine optimization (SEO) or promoting non-Leanpub products or services (collectively referred to as “Banned Promotional Activity”).
+
+If Ruboss determines, at its sole discretion, that a User is engaged in Banned Promotional Activity, we reserve the right to suspend the User’s account without prior notification.
+
+Prohibition on Malware Development, Website Audits, and Security Vulnerability Disclosures
+------------------------------------------------------------------------------------------
+
+Leanpub welcomes Products that discuss computer security as a general topic. However, Leanpub cannot be used as a platform for disclosing specific security vulnerabilities, performing website audits, or teaching malware development.
+
+Disclosures of security vulnerabilities should be made privately to the relevant parties, rather than publicly on Leanpub.
+
+This restriction applies to all Content, including a User’s profile or a Product’s “About” information, and is in effect regardless of the Product’s state (e.g., unpublished, stealth mode, or published).
+
+Any activity deemed by Ruboss, at its sole discretion, to violate this policy may result in the removal of the Product and potential suspension of the User’s account, without prior notice.
+
+If you are unsure whether your Content complies with these Terms, please contact us at hello@leanpub.com for guidance before publishing.
+
+Rights to Content Posted on the Site
+------------------------------------
+
+### Ruboss Property
+
+Ruboss owns all intellectual property rights associated with Leanpub, including but not limited to copyrights, patents, and trademarks, as well as the design, format, and layout of the Site. This excludes Content owned by third parties. Users of the Site are authorized to use the Site and copy materials posted on the Site for personal, non-commercial use, provided that all copyright notices remain intact. Any other uses are prohibited. Ruboss retains all rights, title, and ownership to the materials posted on the Site.
+
+The Leanpub logo and the names of Leanpub products and services are trademarks of Ruboss. Users are prohibited from using the Leanpub logo on any Product, such as on the cover or landing page image, to avoid any implication of endorsement.
+
+### License Grant to Ruboss
+
+When you post Content on Leanpub, you retain your rights to that Content, but you grant Ruboss specific rights depending on the type of Content.
+
+For Content that is available for sale or distribution on Leanpub, you grant Ruboss a fully transferable, fully sublicensable, non-exclusive, worldwide license to copy, reproduce, print, publish, and distribute the Content solely in connection with the Services, as long as the Product is available on Leanpub. If desired, Organizations or Users may negotiate an addendum to make the license non-sublicensable.
+
+For other types of Content, such as comments on Forums, you grant Ruboss a fully transferable, fully sublicensable, non-exclusive, worldwide, perpetual license to use that Content to operate, promote, and improve the Services.
+
+If you wish to negotiate an agreement that restricts sublicensing rights, you can contact Ruboss to discuss and enter into a special addendum for a non-sublicensable arrangement.
+
+### Permissions Agreement for Forum or Email Content
+
+When you post on the Forums or use the “Email the Author(s)” form, the following Permissions Agreement applies:
+
+1. **Licensed Materials**: This applies to text, source code, or other materials posted in the Forum or via email.
+    
+2. **License**: You grant the recipient an irrevocable, non-exclusive license to use the materials in their work, including derivative works, in all media, worldwide, and in perpetuity.
+    
+3. **Use of Materials**: The recipient may edit and use the materials as they see fit, with or without attribution.
+    
+4. **Compensation**: No compensation is provided for the use of the materials.
+    
+5. **Warranties**: You warrant that you own the rights to the materials and indemnify the recipient from any claims related to the materials.
+    
+
+### Abusive Speech
+
+Any User engaging in abusive speech or actions through Leanpub, or contacting Leanpub Users or Ruboss staff abusively, may have their account suspended or blocked.
+
+If Ruboss determines that a User has engaged in abusive speech, we may suspend or terminate the User’s account. We may also take additional measures, such as blocking the User’s email from contacting Leanpub or its Authors.
+
+This policy applies to interactions outside the Site as well. If we discover abusive speech directed at Leanpub staff or Users on external platforms, we reserve the right to suspend or terminate the User’s Leanpub account.
+
+Ruboss has sole discretion in determining what constitutes abusive speech. Examples include racist remarks or threats of violence. We may enforce this policy without any warning or communication.
+
+### Code of Conduct and Personal Attacks
+
+Leanpub Products and public repositories must not be used to make defamatory statements or personal attacks. This is particularly true if Personally Identifying Information is included, allowing someone to be identified.
+
+If Ruboss determines that these Terms have been violated, we may delete the offending book or repository, and potentially terminate any associated accounts.
+
+Leanpub is not to be used as a platform for interpersonal disputes, and any misuse of the platform in this way will not be tolerated.
+
+Promotions and Third-Party Services
+===================================
+
+Advertisements
+--------------
+
+### Third-Party Advertisements
+
+The Services may include third-party advertisements, which can be targeted based on Content, queries, or other information related to the Services. The types and extent of advertising displayed by Ruboss on the Services may change without notice. By using the Services, you agree that Ruboss and its third-party providers may place such advertising on the Services or alongside the Content, whether submitted by you or others.
+
+These advertisements can include, but are not limited to, promotions for other Leanpub books or relevant products, even if they are related to your Content. For instance, if you publish a book about cheese, Ruboss reserves the right to display advertisements for other cheese-related books or products on the pages related to your book.
+
+Ruboss disclaims any liability for losses or damages resulting from the advertisements displayed on the Site.
+
+### Placements on The Shelf and in Leanpub Newsletters
+
+Primary Authors can choose to advertise their Products via a Placement on the Leanpub homepage (a “Shelf Spot”) or in Leanpub newsletters. Currently, purchasing a Shelf Spot includes a Placement in newsletters, though this may change, and they may be purchasable separately in the future.
+
+Placements are available for specific terms, such as one week or one month. Sometimes, Leanpub offers free Placements as part of other promotions.
+
+Ruboss reserves the right to change the terms of any Placement (whether free or paid) at its discretion. Placements are non-refundable and non-transferable.
+
+A Product can only be included in a Placement if it is in a published state and is not under embargo or other restrictions. If the Product’s state changes to an incompatible status (e.g., unpublished), it will be removed from the Placement without refund.
+
+Ruboss also reserves the right to remove a Product from a Placement at any time. For example, if a Product or its Author violates these Terms, the Product may be removed from the Placement.
+
+Marketing
+---------
+
+Ruboss has sole discretion over all marketing and promotions within the Leanpub Site and Services. This may include offering portions of Products for free to prospective customers, displaying Product images in Leanpub advertisements, or promoting Products on social media platforms like Facebook.
+
+Ruboss may also promote Products for sale on Leanpub in external locations, such as physical venues or online platforms, without charging the Author or Organization. Similarly, Ruboss will not be charged by the Author or Organization for this type of promotion. This includes the use of Author or Organization names, avatars, logos, or other representations in marketing materials.
+
+There is no obligation for Ruboss to market or promote any specific Content or Product, and Ruboss may stop promoting a Product at any time.
+
+Content Modification
+--------------------
+
+Ruboss engages in marketing activities that include social media posts, email newsletters, and similar channels. Each platform or service we use may present Content, such as book cover images, differently depending on their formats and settings. Additionally, these platforms may change how they present Content without notice. We summarize and display Content in a manner we believe is fair and accurate.
+
+For AI-generated translations, we currently modify the cover image by adding a banner indicating that the book is an AI translation.
+
+Outside of these specific activities, Ruboss does not significantly modify any Content provided by the Author or Organization.
+
+Review Copies and Desk Copies
+-----------------------------
+
+At its discretion, Ruboss may distribute up to 100 free copies of any Product for promotional purposes each year. Common use cases include:
+
+* Requests for “desk copies” from academics or educational institutions.
+    
+* Providing free access to customers as part of customer service.
+    
+* Giveaway promotions for meetup groups or user groups.
+    
+
+Distributing Your Leanpub-Generated Product Content Using Other Services
+------------------------------------------------------------------------
+
+Leanpub does not restrict Authors or Organizations from distributing the Content they create on Leanpub (the “Leanpub-Generated Content”) on other platforms. For example, you are free to sell a Book on Leanpub and simultaneously sell it elsewhere or distribute it through another platform, at any price.
+
+You are responsible for ensuring compliance with the terms of any other services you use for publishing or distributing your Content. Some platforms may have their own restrictions or pricing rules, so be sure to verify that your distribution is in accordance with their policies.
+
+However, to use Leanpub for distribution, you must ensure:
+
+* You own the copyright to the Content or have the legal rights to publish it.
+    
+* You are authorized to distribute the Content using Leanpub globally.
+    
+* You are not restricted by any agreements or terms from using Leanpub to publish, sell, or distribute your Content.
+    
+
+Privacy
+=======
+
+All information you provide on the Services is subject to our Privacy Policy, which governs how we collect, use, and protect your data. By using the Services, you expressly consent to the collection and use of your information as outlined in the Privacy Policy.
+
+As part of our commitment to providing the Services, we may need to send you certain important communications by email, such as service updates and administrative notifications. These emails are considered integral to your Leanpub Account and the Services, meaning you cannot opt out of receiving them. If you prefer not to receive such emails, you may need to terminate your Account.
+
+You can review our full Privacy Policy [here](https://leanpub.com/privacy). By accepting these Terms, you are also agreeing to the terms outlined in the Privacy Policy. Please note that we may update the Privacy Policy periodically, without prior notice. It is your responsibility to stay informed about any changes, and we recommend that you review the Privacy Policy regularly to stay up to date.
+
+Limitation of Liability
+=======================
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, RUBOSS AND ITS AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS, AND LICENSORS (OTHER THAN CONTENT CONTRIBUTORS GRANTING LICENSES PURSUANT TO THESE TERMS) WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, OPPORTUNITY, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (I) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE SERVICES; (II) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE SERVICES, INCLUDING WITHOUT LIMITATION, ANY DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD PARTIES; (III) ANY CONTENT OBTAINED FROM THE SERVICES; AND (IV) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING WITHOUT LIMITATION NEGLIGENCE), OR ANY OTHER LEGAL THEORY, WHETHER OR NOT RUBOSS HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
 You agree that the liability of Ruboss, its officials, employees, affiliates, and agents, if any, arising out of any kind of legal claim (whether in contract, tort, or otherwise) in any way connected with any transaction entered hereunder or the Site or Services shall not exceed the amount you paid to Ruboss in connection with the transaction giving rise to such claim.
 
 Any action under these Terms must be commenced within one (1) year of knowledge or discovery of the cause of action.
 
-The foregoing limitation applies to the acts, omissions, negligence, and gross negligence of Ruboss, its officers, employees, affiliates and agents which, but for this provision, would give rise to the cause of action against Ruboss in contract, tort, or any other legal doctrine. Your sole and exclusive remedies under these Terms are as expressly set out in these Terms.
+The foregoing limitation applies to the acts, omissions, negligence, and gross negligence of Ruboss, its officers, employees, affiliates, and agents which, but for this provision, would give rise to the cause of action against Ruboss in contract, tort, or any other legal doctrine. Your sole and exclusive remedies under these Terms are as expressly set out in these Terms.
 
-### 26\. Indemnification
+Requesting a Special Limitation of Liability Addendum
+-----------------------------------------------------
 
-You shall indemnify and hold Ruboss harmless against all third party claims, demands, suits, actions, judgements, losses, costs, damages (direct, indirect and consequential), lawyer’s fees and expenses that Ruboss may sustain or incur by reason of any breach or alleged breach of any representation, warranty, term or condition of these Terms, and for any act or omission by you which is in any way related thereto.
+Some Users, such as those with Organization Accounts, may require custom terms regarding limitation of liability. For example, a publishing company may wish to negotiate such terms.
 
-### 27\. Exclusions
+To request a special limitation of liability addendum, please send an email to [hello@leanpub.com](mailto:hello@leanpub.com). Any negotiated addendum will be incorporated into your agreement with Ruboss.
 
-Some jurisdictions do not allow the exclusion of certain warranties or the exclusion of limitation of liability for consequential or incidental damages. Therefore, if the jurisdiction you are in does not allow it, then the limitations above may not apply to you. The limitations above do not apply where they contravene local law.
+General Legal Provisions
+========================
 
-### 28\. Waiver and Severability
+Chief Compliance Officer
+------------------------
 
-The failure of Ruboss to enforce any rights or provisions of these Terms will not be deemed a waiver of such right or provision.
+Ruboss has a Chief Compliance Officer (the “CCO”) who serves as the point of contact for enforcing these Terms and ensuring Ruboss’s compliance with applicable laws and regulations. The CCO is responsible for responding to reasonable reports of potential violations of these Terms and addressing issues with Users regarding possible violations or actions taken by Ruboss in response to such violations.
 
-Every provision of these Terms is intended to be severable. If any section of these Terms is found to be void, invalid or unenforceable, then such section will be deemed amended and will be interpreted, if possible, in a way that renders it enforceable. If such an interpretation is not possible, then that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.
+The CCO also acts as Ruboss’s Agent of Notice and Data Protection Officer.
 
-### 29\. Controlling Law and Jurisdiction
+To contact the Ruboss CCO, send an email to [hello@leanpub.com](mailto:hello@leanpub.com) with the subject line: “Attention: Chief Compliance Officer.” For postal communication, use the address listed at the end of these Terms.
 
-These Terms and any action relating thereto will be governed by the laws of the Province of British Columbia, Canada, without regard to or application of the conflict of law provisions of your province, state, or country of residence. All claims, legal proceedings or litigation arising in connection with the Services will be brought solely in Vancouver, British Columbia, Canada, and you consent to the jurisdiction of such courts and waive any objection as to inconvenient forum. Notwithstanding the foregoing, Ruboss reserves the right to seek injunctive, specific performance or any other legal or equitable remedy from any court of competent jurisdiction.
+The Services are Available “AS-IS”
+----------------------------------
 
-### 30\. Entire Agreement
+Your access to and use of the Services or any Content is at your own risk. You agree that the Site and Services are provided on an “AS-IS” and “AS-AVAILABLE” basis. RUBOSS AND ITS PARTNERS DISCLAIM ANY EXPRESS OR IMPLIED REPRESENTATIONS, WARRANTIES, AND CONDITIONS, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
 
-These Terms, the Privacy Policy, and the Copyright Take Down Policy are the entire and exclusive agreement between Ruboss and yourself regarding the Services (excluding any service for which you have a separate agreement with Ruboss that is explicitly in addition to or in place of these Terms), and these Terms supersede and replace any prior agreements between Ruboss and yourself regarding the Services.
+Ruboss makes no warranty and disclaims liability for the completeness, accuracy, availability, security, or reliability of the Site or Services. Ruboss is not responsible for any harm to your computer system, data loss, or other damage from your use of the Site or Services. There is no warranty that the Site or Services will meet your expectations or be available uninterrupted, securely, or error-free. No advice or information from Ruboss, whether oral or written, creates any warranty not explicitly stated in these Terms. Ruboss may modify Leanpub features, availability, operation, and appearance without notice.
 
-Ruboss may revise these Terms from time to time. The most current version can be found here. If the revision, in Ruboss’ sole discretion, is material to the user, Ruboss will attempt to notify you via email, to the email address associated with your Account. By continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised terms.
+Links
+-----
 
-If at any time you do not wish to be bound by the Terms, you must terminate your membership by contacting [hello@leanpub.com](mailto:hello@leanpub.com) see Section 14, Terminating Membership and/or Removing Content.
+The Services may contain links to third-party websites or resources. You acknowledge and agree that Ruboss is not responsible for the availability, accuracy, or content of such websites or resources. Links to third-party sites do not imply endorsement by Ruboss. You assume all risk arising from your use of any linked websites or resources.
 
-These Terms are binding. The United Nations Convention on Contracts for the International Sale of Goods shall not apply to these Terms.
+Third-Party Websites, Software, and Services
+--------------------------------------------
 
-The Site and Services are operated and provided by Ruboss Technology Corporation.
+The Site and Services may use plug-ins or direct you to websites, software, or services owned or operated by third parties (“Third Party Properties”). Ruboss has no control over Third Party Properties, including their content, operation, privacy practices, and costs. The fact that the Site directs you to such properties does not indicate Ruboss’s approval or endorsement.
 
-Our address is:
+You assume all risks and costs associated with Third Party Properties, including applicable fees and service charges. We encourage you to review their terms of use and practices before engaging with them.
 
-Ruboss Technology Corporation  
+Indemnification
+---------------
+
+You agree to indemnify and hold Ruboss harmless against all third-party claims, losses, costs, damages (including direct, indirect, and consequential damages), legal fees, and expenses arising from any breach of these Terms or any act or omission by you related to your use of the Site or Services.
+
+### Requesting a Special Indemnification Addendum
+
+Certain Users, such as those with Organization Accounts, may require custom indemnification terms. To request a special indemnification addendum, please email [hello@leanpub.com](mailto:hello@leanpub.com). Any negotiated addendum will be incorporated into your agreement with Ruboss.
+
+Exclusions
+----------
+
+Some jurisdictions do not permit the exclusion of warranties or liability limitations for certain types of damages. If you are located in such a jurisdiction, these exclusions may not apply to you. The limitations only apply where allowed by law.
+
+Waiver and Severability
+-----------------------
+
+Ruboss’s failure to enforce any provision of these Terms does not constitute a waiver of that provision. If any part of these Terms is deemed invalid or unenforceable, the remaining provisions will remain in full force and effect.
+
+Controlling Law and Jurisdiction
+--------------------------------
+
+These Terms are governed by the laws of the Province of British Columbia, Canada, without regard to conflict of law provisions. All legal proceedings related to the Services will take place in Victoria, British Columbia, and you consent to the jurisdiction of such courts. However, Ruboss reserves the right to seek remedies from any court of competent jurisdiction.
+
+Miscellaneous
+=============
+
+Artificial Inflation of Sales Counts
+------------------------------------
+
+Artificially inflating sales counts (“Artificial Sales Inflation”) for Products is strictly prohibited. This violation of our Terms may result in Account suspension or termination at Ruboss’s sole discretion. Examples of Artificial Sales Inflation include, but are not limited to, making free purchases of your own Book using fake or unused email accounts. The determination of whether Artificial Sales Inflation has occurred will be made solely by Ruboss.
+
+If we suspect that Artificial Sales Inflation is associated with a Product, we may, without obligation to notify you, suspend that Product’s availability for purchase. Additionally, Ruboss reserves the right to cancel any purchase deemed or suspected to be linked to Artificial Sales Inflation.
+
+The Leanpub API
+---------------
+
+The Leanpub API is intended for the personal, non-commercial use of Leanpub Users. Its use may be restricted to Users with a paid Membership. “Personal, non-commercial use” means that a User may use the Leanpub API for their own Products (e.g., to preview and publish them, view sales, and generate coupons), but the API may not be used to build and sell software.
+
+Ruboss reserves the right to revoke access to the Leanpub API for any User, at any time, and for any reason.
+
+Use of Your Content to Develop and Improve AI Services
+------------------------------------------------------
+
+Ruboss may use third-party services, such as OpenAI, in providing AI Services. By using AI Services, you consent to Ruboss using your Content for the development and improvement of its proprietary in-house procedures, including prompt engineering and related technologies.
+
+Restrictions on Account Names, Usernames, Product Names, and URL Slugs
+----------------------------------------------------------------------
+
+Users are not required to use their legal names for their Account names or usernames. However, there are restrictions on Account names, Usernames, Product names, and URL slugs (the part of the web address after the domain) that Users are permitted to use.
+
+Users may not use trademarked words or the names of real people or organizations in Account or Product names, or in URL slugs, unless they can demonstrate the right to do so. Additionally, parody Accounts or Products using such names are not permitted on Leanpub.
+
+For clarity, this restriction includes the word “Leanpub,” which is a registered trademark of Ruboss. Users may not use “Leanpub” or any variation (e.g., leanpub, LeanPub, leanPub) in Account names, Usernames, Product names, or URL slugs. This restriction helps protect our trademark and reduce confusion among Users.
+
+Creating misleading URL slugs or engaging in “squatting” by reserving URL slugs without intending to publish a related Product is also prohibited.
+
+Ruboss reserves the right to “reserve” certain URL slugs and may retroactively reserve a URL slug even after a User has created a Product with it.
+
+Ruboss may, at its sole discretion and without notification, change any URL slugs that violate these restrictions. Additionally, if a Name or URL slug is found to be in violation, Ruboss may rename or close the associated Account or Product and refund any purchases linked to the violation.
+
+International Users
+-------------------
+
+Ruboss makes no representations about the appropriateness or availability of the Site or Services outside Canada and the United States. You may not use the Site or export Content in violation of U.S. export regulations. If you access the Site from outside Canada or the U.S., you are responsible for complying with all applicable local laws and paying any local taxes required.
+
+Promotion of Specific Cryptocurrencies is Prohibited
+----------------------------------------------------
+
+While Leanpub welcomes Products that discuss cryptocurrencies in general, promoting specific cryptocurrencies on Leanpub is prohibited. Such promotion would be considered a form of advertising, even if the Author or Authors are not being directly compensated for their work.
+
+This restriction applies not only to the contents of a Product but also to any Content, such as User profiles or Product “About” information.
+
+Unsolicited Idea Submission Policy
+----------------------------------
+
+While Leanpub values feedback from its Users, Ruboss will not compensate individuals for solicited or unsolicited ideas regarding improvements to the Site or Services. Any ideas submitted to Leanpub or Ruboss become the property of Ruboss. This policy helps prevent confusion when new ideas are implemented on the Site or Services. Ruboss is not obligated to use submitted materials or ideas.
+
+Entire Agreement
+================
+
+These Terms, including the Privacy Policy, Refund Policy, and Copyright Take Down Policy, constitute the entire and exclusive agreement between Ruboss and you regarding the Services. This agreement supersedes and replaces any prior agreements between you and Ruboss concerning the Services, unless a separate agreement explicitly states otherwise and is in addition to or replaces these Terms.
+
+If you decide at any time that you no longer wish to be bound by these Terms, you must terminate your Account.
+
+These Terms are binding, and the United Nations Convention on Contracts for the International Sale of Goods does not apply to them.
+
+The Site and Services are operated and provided by Ruboss Technology Corporation. Our contact information is:
+
+**Ruboss Technology Corporation**  
 1321 Blanshard Street  
 Suite 301  
-Victoria, British Columbia, Canada  
-V8W 0B6  
-604-265-0857
+Victoria, British Columbia  
+Canada V8W 0B6  
+Phone: +1 (604) 265-0857
 
-If you have any questions about these Terms, or the Privacy Policy, or the Copyright Take Down Policy, please contact us. The preferred method of contact is via email to [hello@leanpub.com](mailto:hello@leanpub.com).
+If you have any questions regarding these Terms, please reach out to us. The preferred method of contact is via email at [hello@leanpub.com](mailto:hello@leanpub.com).
 
 [![Logo white 96 67 2x](https://leanpub.com/assets/logos/logo-white-96-67-2x-cbf54f68046da93161c6375a4d74259d.png)](https://leanpub.com/)
 =========================================================================================================================================
@@ -1284,7 +1403,7 @@ If you have any questions about these Terms, or the Privacy Policy, or the Copyr
 * ##### Path
     
 * There are many paths, but the one you're on right now on Leanpub is:
-* Terms
+* Tos › Read
 
 * ##### READERS
     
