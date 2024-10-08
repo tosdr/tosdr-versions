@@ -45,19 +45,19 @@ Pay in Installments $641 _x 12 months_
 
 Clear and upfront pricing so that you can purchase the domains with confidence
 
-![](/html/html/static_images/home-icon1.png)
+![](/public/images/landing/home-icon1.svg)
 
 ### Transparent Pricing
 
 We initiate most domain transfers within same business day of the purchase
 
-![](/html/html/static_images/home-icon2.png)
+![](/public/images/landing/home-icon2.svg)
 
 ### Same Day Transfers
 
 100% Purchase Protection Guarantee. Receive full refund if we are unable to trans fer the domain for any reason
 
-![](/html/html/static_images/home-icon3.png)
+![](/public/images/landing/home-icon3.svg)
 
 ### Guaranteed Delivery
 
@@ -67,7 +67,7 @@ Domain name Patio.app is a tranquil oasis in the digital world, evoking images o
 
 ### Possible Uses
 
-[Entertainment & Arts](https://patio.app/premium-domains-for-sale/all/q/Entertainment%20&%20Arts) [Life Coach, Motivational](https://patio.app/premium-domains-for-sale/all/q/Life%20Coach,%20Motivational) [Food & Drink](https://patio.app/premium-domains-for-sale/all/q/Food%20&%20Drink) [Travel & Hotel](https://patio.app/premium-domains-for-sale/all/q/Travel%20&%20Hotel) [Tech, Internet, Software](https://patio.app/premium-domains-for-sale/all/q/Tech,%20Internet,%20Software) [Outdoor Furniture Rental](https://patio.app/premium-domains-for-sale/all/q/Outdoor%20Furniture%20Rental) [Patio Design Consultation](https://patio.app/premium-domains-for-sale/all/q/Patio%20Design%20Consultation) [Patio Event Planning](https://patio.app/premium-domains-for-sale/all/q/Patio%20Event%20Planning) [Patio Maintenance Services](https://patio.app/premium-domains-for-sale/all/q/Patio%20Maintenance%20Services) [Patio Cooking Classes](https://patio.app/premium-domains-for-sale/all/q/Patio%20Cooking%20Classes) [And Many More](https://patio.app/premium-domains-for-sale/all)
+[Entertainment & Arts](https://patio.app/search/q/Entertainment%20&%20Arts) [Life Coach, Motivational](https://patio.app/search/q/Life%20Coach,%20Motivational) [Food & Drink](https://patio.app/search/q/Food%20&%20Drink) [Travel & Hotel](https://patio.app/search/q/Travel%20&%20Hotel) [Tech, Internet, Software](https://patio.app/search/q/Tech,%20Internet,%20Software) [Outdoor Furniture Rental](https://patio.app/premium-domains-for-sale/all/q/Outdoor%20Furniture%20Rental) [Patio Design Consultation](https://patio.app/premium-domains-for-sale/all/q/Patio%20Design%20Consultation) [Patio Event Planning](https://patio.app/premium-domains-for-sale/all/q/Patio%20Event%20Planning) [Patio Maintenance Services](https://patio.app/premium-domains-for-sale/all/q/Patio%20Maintenance%20Services) [Patio Cooking Classes](https://patio.app/premium-domains-for-sale/all/q/Patio%20Cooking%20Classes) [And Many More](https://patio.app/premium-domains-for-sale/all)
 
 ### Root Words
 
@@ -77,7 +77,7 @@ Domain name Patio.app is a tranquil oasis in the digital world, evoking images o
 
 ### Related Keywords
 
-[Outdoor](https://patio.app/premium-domains-for-sale/all/q/Outdoor) [Furniture](https://patio.app/premium-domains-for-sale/all/q/Furniture) [Alfresco](https://patio.app/premium-domains-for-sale/all/q/Alfresco) [Garden](https://patio.app/premium-domains-for-sale/all/q/Garden) [Terrace](https://patio.app/premium-domains-for-sale/all/q/Terrace) [Deck](https://patio.app/premium-domains-for-sale/all/q/Deck) [Barbecue](https://patio.app/premium-domains-for-sale/all/q/Barbecue) [Lounge](https://patio.app/premium-domains-for-sale/all/q/Lounge) [Relaxation](https://patio.app/premium-domains-for-sale/all/q/Relaxation) [Entertainment](https://patio.app/premium-domains-for-sale/all/q/Entertainment)
+[Outdoor](https://patio.app/search/q/Outdoor) [Furniture](https://patio.app/search/q/Furniture) [Alfresco](https://patio.app/search/q/Alfresco) [Garden](https://patio.app/search/q/Garden) [Terrace](https://patio.app/search/q/Terrace) [Deck](https://patio.app/search/q/Deck) [Barbecue](https://patio.app/search/q/Barbecue) [Lounge](https://patio.app/search/q/Lounge) [Relaxation](https://patio.app/search/q/Relaxation) [Entertainment](https://patio.app/search/q/Entertainment)
 
 ### Purchase Domain
 
@@ -187,16 +187,16 @@ Purchase
 * [Real Estate](https://patio.app/search/categories/Real%20Estate)
 * [Sports](https://patio.app/search/categories/Sports)
 
-* [Payment](https://patio.app/search/categories/Payment)
 * [Music & Audio](https://patio.app/search/categories/Music%20%26%20Audio)
+* [Payment](https://patio.app/search/categories/Payment)
 
 * [Marketing & Advertising](https://patio.app/search/categories/Marketing%20%26%20Advertising)
 * [Recruitment & Staffing](https://patio.app/search/categories/Recruitment%20%26%20Staffing)
 
 * [Legal, Attorney, Law](https://patio.app/search/categories/Legal%2C%20Attorney%2C%20Law)
-* [Fintech (Finance Technology)](https://patio.app/search/categories/Fintech%20%28Finance%20Technology%29)
-
 * [News & Media](https://patio.app/search/categories/News%20%26%20Media)
+
+* [Fintech (Finance Technology)](https://patio.app/search/categories/Fintech%20%28Finance%20Technology%29)
 
 Powered by Atom.com
 
