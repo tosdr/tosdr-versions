@@ -10,7 +10,7 @@
     
     Products
     
-    * [Places Pro](http://location.foursquare.com/products/places/)
+    * [Places](http://location.foursquare.com/products/places/)
     * [Studio](https://location.foursquare.com/products/studio/)
     * [Audience](https://location.foursquare.com/products/audience/)
     * [Attribution](https://location.foursquare.com/products/attribution/)
@@ -500,7 +500,7 @@ Google has also developed a web browser plugin to allow you to opt-out of Google
 
 [Products](https://location.foursquare.com/products/)
 
-* [Places Pro](https://location.foursquare.com/products/places/)
+* [Places](https://location.foursquare.com/products/places/)
 * [Studio](https://location.foursquare.com/products/studio/)
 * [Movement SDK](https://location.foursquare.com/products/movement-sdk/)
 * [Places API](https://location.foursquare.com/products/places-api/)
