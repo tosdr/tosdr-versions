@@ -2,7 +2,7 @@
 
 * [Schools](https://cleanbrowsing.org/solutions/schools/)
     * [CIPA](https://cleanbrowsing.org/solutions/schools/cipa/)
-* [Partners](https://cleanbrowsing.org/solutions/wifi-serviceproviders/)
+* [Web Filtering](https://cleanbrowsing.org/solutions/web-filtering)
 * [Solutions](#)
     * [Wi-Fi Service Providers](https://cleanbrowsing.org/solutions/wifi-serviceproviders/)
     * [Transportation](https://cleanbrowsing.org/solutions/transportation/)
