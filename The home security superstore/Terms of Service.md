@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% Off SpyWfi™ Doorbell Camera | Code: DOOR15](https://www.thehomesecuritysuperstore.com/products/spywfi%E2%84%A2-night-vision-motion-detection-doorbell-security-camera-1080p-hd-wifi?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SpyWfi%E2%84%A2+Doorbell+Camera)
+[15% Off All Self-Defense Batons | Code: BATON15](https://www.thehomesecuritysuperstore.com/collections/batons?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+All+Self-Defense+Batons)
 
-Today’s offer: :: | 15% Off SpyWfi™ Doorbell Camera | Code: DOOR15
+Today’s offer: :: | 15% Off All Self-Defense Batons | Code: BATON15
 
 Today’s offer: : :
 
- 15% Off SpyWfi™ Doorbell Camera Code: DOOR15
+ 15% Off All Self-Defense Batons Code: BATON15
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
