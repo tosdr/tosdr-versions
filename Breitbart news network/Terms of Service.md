@@ -55,7 +55,7 @@
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
 * [2024 Election](https://www.breitbart.com/tag/2024-presidential-election/)
-* [Oct 7. Anniversary](https://www.breitbart.com/tag/israel/)
+* [October 7 Anniversary](https://www.breitbart.com/tag/israel/)
 * [Hurricane Milton](https://www.breitbart.com/tag/hurricane/)
 * [Illegal Alien Crime](https://www.breitbart.com/tag/illegal-immigration/)
 * [Diddy](https://www.breitbart.com/tag/diddy/)
