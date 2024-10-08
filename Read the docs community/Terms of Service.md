@@ -53,7 +53,8 @@ Reading documentation
 Maintaining projects
 
 * [Redirects](https://docs.readthedocs.io/en/stable/user-defined-redirects.html)
-* [Analytics for search and traffic](https://docs.readthedocs.io/en/stable/reference/analytics.html)
+* [Traffic analytics](https://docs.readthedocs.io/en/stable/traffic-analytics.html)
+* [Search analytics](https://docs.readthedocs.io/en/stable/search-analytics.html)
 * [Security logs](https://docs.readthedocs.io/en/stable/security-log.html)
 * [Status badges](https://docs.readthedocs.io/en/stable/badges.html)
 * [How to structure your documentation](https://docs.readthedocs.io/en/stable/explanation/documentation-structure.html)
@@ -62,7 +63,6 @@ Maintaining projects
 
 Business features
 
-* [Business hosting](https://docs.readthedocs.io/en/stable/commercial/index.html)
 * [Organizations](https://docs.readthedocs.io/en/stable/commercial/organizations.html)
 * [Single Sign-On (SSO)](https://docs.readthedocs.io/en/stable/commercial/single-sign-on.html)
 * [Sharing private documentation](https://docs.readthedocs.io/en/stable/commercial/sharing.html)
@@ -130,7 +130,7 @@ Reference
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Read the Docs Terms of Service
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/70cefc077b5b18ccf7e8a95933cce24663a9ca72/docs/user/terms-of-service.rst)
+* [View page source](https://docs.readthedocs.io/en/stable/_sources/terms-of-service.rst.txt)
 
 * * *
 
@@ -585,6 +585,6 @@ Questions about the Terms of Service? [Get in touch](mailto:support%40readthedoc
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `70cefc07`.
+© Copyright Read the Docs, Inc & contributors.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
