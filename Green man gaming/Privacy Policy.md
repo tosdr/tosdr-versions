@@ -99,6 +99,7 @@ You can search things like: Games, Franchises, DLC
     * [Bestsellers](https://www.greenmangaming.com/all-games/bestsellers/)
     * [All Games](https://www.greenmangaming.com/all-games/)
 * [Hot Deals](https://www.greenmangaming.com/hot-deals/)
+* [Sales](https://www.greenmangaming.com/sales/)
 * [Coming Soon](https://www.greenmangaming.com/top-upcoming-games/)
 * [New](https://www.greenmangaming.com/new-gmg/)
 * [XP Offers](https://www.greenmangaming.com/xp-offers/)
@@ -110,6 +111,7 @@ You can search things like: Games, Franchises, DLC
 * [All Games](https://www.greenmangaming.com/all-games/)
     
 * [Hot Deals](https://www.greenmangaming.com/hot-deals/)
+* [Sales](https://www.greenmangaming.com/sales/)
 * [Coming Soon](https://www.greenmangaming.com/top-upcoming-games/)
 * [New](https://www.greenmangaming.com/new-gmg/)
 * [XP Offers](https://www.greenmangaming.com/xp-offers/)
