@@ -57,13 +57,6 @@ Privacy Policy
 
 Here's an explanation of what happens to your information when you use this site.
 
-On this page
-
-1. [What information I collect](#what-information-i-collect)
-2. [Your rights to the data I collect about you](#your-rights-to-the-data-i-collect-about-you)
-3. [How this site collects and uses data](#how-this-site-collects-and-uses-data)
-4. [Services used to manage the site](#services-used-to-manage-the-site)
-
 Foresight - this website, [foresight.is](http://foresight.is/) - is a registered dba for Unstructured Ventures, LLC, a Delaware LLC ("Unstructured Ventures", "our," "us," "me," "I", or "we"). This Privacy Policy is to let you know what information we collect when you visit this site (the "website", "this site") and/or other services offered via our website (collectively, the "services"), why we collect it, and how it is used. The terms of use for this website is at [Terms](https://foresight.is/terms/).
 
 What information I collect [#](#what-information-i-collect)
