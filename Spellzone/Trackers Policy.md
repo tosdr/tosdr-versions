@@ -162,9 +162,10 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"I would like to thank you so much for this great website. I have always been ashamed of my spelling but after a few lessons I am already better. It is filling in all the gaps. Thanks."
+"Spellzone fits in beautifully with our Scope and Sequence of Phonological Awareness and Spelling. It also aligns perfectly with the four areas of spelling knowledge and uses the Brain, Ears, Eyes approach to learning spelling."  
+Thank you!
 
-**Student, France**
+**Teacher, Australia**
 
 ### Curriculum...
 
