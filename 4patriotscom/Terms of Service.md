@@ -20,9 +20,9 @@ We Champion Freedom & Self-Reliance
     * [4-Week Emergency Survival Food Kit](https://4patriots.com/products/4-week-survival-food-kit)
     * [3-Month Emergency Survival Food Kit](https://4patriots.com/products/3-month-survival-food-kit)
     * ["Ultracharge" Generator Bundle](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
+    * [Patriot Power Cell-CX Solar Power Bank](https://4patriots.com/products/patriot-power-cell)
     * [Patriot Power Generator 2000X](https://4patriots.com/products/patriot-power-generator-2000x)
     * [Ultimate Water Filtration System](https://4patriots.com/products/patriot-pure-ultimate-water-filtration-system)
-    * [Patriot Power Cell-CX](https://4patriots.com/products/patriot-power-cell)
     * [Shop All Best-Sellers](https://4patriots.com/collections/best-sellers)
     
     * [![ Portable solar generator set with foldable panels and power station, branded 4Patriots.](//4patriots.com/cdn/shop/files/BUNDLE-BLITZ-PPGS-WHITE-BACKGROUND-1024x1024_360x.png?v=1716578922)
@@ -126,11 +126,11 @@ We Champion Freedom & Self-Reliance
         
         65 reviews](https://4patriots.com/products/patriot-power-generator-2000x)
         
-        [![ Patriot Power Cell CX 1 pack. View of the front and back with the light on.](//4patriots.com/cdn/shop/files/STORE-ARRAY-PPC-CX-1PACK-WB-1024-one_1_360x.png?v=1688064568)
+        [![ Liberty Band® Emergency Solar Radio 1-Pack](//4patriots.com/cdn/shop/products/ARRAY-1PK-1024_360x.jpg?v=1706307508)
         
-        ###### Patriot Power Cell-CX Portable Solar Power Bank
+        ###### Liberty Band Emergency Solar Weather NOAA Radio
         
-        1735 reviews](https://4patriots.com/products/patriot-power-cell)
+        186 reviews](https://4patriots.com/products/liberty-band-emergency-solar-radios)
         
         [![ HaloXT Tactical Solar Flashlight 1 pack as featured on fox & friends](//4patriots.com/cdn/shop/products/HXT-1PACK-STOREFRONT-ARRAY_360x.jpg?v=1718629734)
         
