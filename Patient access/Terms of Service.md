@@ -29,7 +29,7 @@ Terms of use
 
 **Patient Access Operator**
 
-**PATIENT ACCESS** is provided by **Egton Medical Information Systems Limited**(“**we**”, “**us**”, “**our**” or “**EMIS**”), a company registered in England with company number 2117205 with registered offices at Fulford Grange, Micklefield Lane, Rawdon, Leeds, LS19 6BA.
+**PATIENT ACCESS** is provided by **Egton Medical Information Systems Limited** (“**we**”, “**us**”, “**our**” or “**EMIS**”), a company registered in England with company number 2117205 with registered offices at Fulford Grange, Micklefield Lane, Rawdon, Leeds, LS19 6BA.
 
 1. **Terms of use  
     **
@@ -40,11 +40,11 @@ Terms of use
 
 1.1.2. the PATIENT ACCESS mobile application software (the “**App**”) (available on a number of different App marketplaces (the “**App Sites**”), once you have downloaded or streamed a copy of the App onto your mobile telephone or handheld device (“**Device**”).
 
-1.2.**References in these Terms of Use to the Service, includes the Website and/or the App (as appropriate, depending on the method you are using to access the Service).** When you use the Service via the App you will also be subject to the terms, guidelines and conditions applicable to the applied by any relevant App Site from whose site you downloaded the App (the “**Appstore Rules**”). If these Terms of Use are inconsistent with the Appstore Rules, these Terms of Use will control.
+1.2. **References in these Terms of Use to the Service, includes the Website and/or the App (as appropriate, depending on the method you are using to access the Service).** When you use the Service via the App you will also be subject to the terms, guidelines and conditions applicable to the applied by any relevant App Site from whose site you downloaded the App (the “**Appstore Rules**”). If these Terms of Use are inconsistent with the Appstore Rules, these Terms of Use will control.
 
 1.3. We license use of the Service (including, the App and the Website) to you on the basis of these Terms of Use and subject to any other rules or policies we notify to you.
 
-1.4.**By using the Service (including, by downloading the App or registering to use the Service), you confirm that you accept these Terms of Use and that you agree to comply with them.**
+1.4. **By using the Service (including, by downloading the App or registering to use the Service), you confirm that you accept these Terms of Use and that you agree to comply with them.**
 
 1.5. If you do not agree to these Terms of Use, which govern the contract between us, then you must not use the Service (including, accessing the App and/or the Website).
 
@@ -61,6 +61,7 @@ Terms of use
 1.8. For the avoidance of doubt, use of (or of any other services accessible through it) our site at [info](http://www.patient.info/) is subject to a separate privacy policy and terms and conditions which are accessible through that site.
 
 2. **Grant and scope of licence** 
+    
 
 2.1. In consideration of you agreeing to comply with these Terms of Use, we grant you a non-transferable, non-exclusive, revocable licence to use the Service (including, as appropriate, the App and/or the Website), subject to these Terms of Use (and the Appstore Rules). We reserve all other rights.
 
@@ -222,6 +223,7 @@ Details of the various elements comprising the Patient Access Service are set ou
 8.3. We reserve the right to withdraw linking permission without notice.
 
 9. **Intellectual Property Rights**
+    
 
 9.1. We are the owner (or the licensee) of all intellectual property rights in the Service (including, our Website and our App). Those works are protected by copyright laws and treaties around the world. All such rights are reserved.
 
@@ -232,6 +234,7 @@ Details of the various elements comprising the Patient Access Service are set ou
 9.4. If you use any element of the Service (including, the Website or the App) in breach of these Terms of Use, your right to use the Service will cease immediately and we may suspend your access to the Service with immediate effect and without notice.
 
 10. **LIMITATIONS OF LIABILITY**
+    
 
 **Please read this section carefully as it sets out the limits of our liability to you in relation to your use of the Service.**
 
