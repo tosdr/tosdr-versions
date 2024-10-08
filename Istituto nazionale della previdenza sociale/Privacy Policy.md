@@ -990,6 +990,12 @@ it
             * [L'INPS verso i portatori di interesse esterni](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2007/l-inps-verso-i-portatori-di-interesse-esterni.html)
             * [L'INPS verso i portatori di interesse interni](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2007/l-inps-verso-i-portatori-di-interesse-interni.html)
             
+        * [](#)
+            
+            * [Esplora](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2023.html)
+            * [Rendiconti regionali 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2023/rendiconti-regionali-2023.html)
+            * [Rendiconti provinciali 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2023/rendiconti-provinciali-2023.html)
+            
         
     * [SIUSS (ex Casellario dell’assistenza)](#)
         
