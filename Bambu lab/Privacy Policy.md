@@ -424,7 +424,7 @@ Product
 
 Community
 
-[Facebook Group](https://www.facebook.com/groups/bambulabofficialusers)[Forum](https://forum.bambulab.com/)
+[Facebook Group](https://www.facebook.com/groups/bambulabofficialusers)[Reddit](https://www.reddit.com/r/BambuLab/)[Forum](https://forum.bambulab.com/)[Discord](https://discord.gg/bambulab)
 
 Support
 
