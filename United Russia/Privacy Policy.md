@@ -299,13 +299,21 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Более 4,5 тысяч человек стали участниками мероприятий «Единой России», приуроченных ко Дню беременных](https://cdn.er.ru/media/news/October2024/WSMa1IsiESVXnX7NuNVh-small.jpg)](https://er.ru/activity/news/bolee-4-5-tysyach-chelovek-stali-uchastnikami-meropriyatij-edinoj-rossii-priurochennyh-ko-dnyu-beremennyh)
+
+[Более 4,5 тысяч человек стали участниками мероприятий «Единой России», приуроченных ко Дню беременных](https://er.ru/activity/news/bolee-4-5-tysyach-chelovek-stali-uchastnikami-meropriyatij-edinoj-rossii-priurochennyh-ko-dnyu-beremennyh)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#беременные](https://er.ru/activity/news?tags%5B0%5D=122919) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101)
+
+08.10.24
+
 [![«Единая Россия» доставила 35 тонн гуманитарной помощи жителям Белгородской области](https://cdn.er.ru/media/news/October2024/TZS3OBfOFK0Hxopr60Mp-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dostavila-35-tonn-gumanitarnoj-pomoshi-zhitelyam-belgorodskoj-oblasti)
 
 [«Единая Россия» доставила 35 тонн гуманитарной помощи жителям Белгородской области](https://er.ru/activity/news/edinaya-rossiya-dostavila-35-tonn-gumanitarnoj-pomoshi-zhitelyam-belgorodskoj-oblasti)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#Владимирская область](https://er.ru/activity/news?tags%5B0%5D=1233) [#Смоленская область](https://er.ru/activity/news?tags%5B0%5D=285) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#гуманитарнаяпомощь](https://er.ru/activity/news?tags%5B0%5D=134793) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 15:54
+08.10.24
 
 [![«Единая Россия» предложила расширить меры поддержки социальных предпринимателей](https://cdn.er.ru/media/news/October2024/WaLx8NrTuPmhBsMtITev-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predlozhila-rasshirit-mery-podderzhki-socialnyh-predprinimatelej)
 
@@ -313,7 +321,7 @@
 
 [#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#социальноепредпринимательство](https://er.ru/activity/news?tags%5B0%5D=124857) [#реклама](https://er.ru/activity/news?tags%5B0%5D=860) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#льготы](https://er.ru/activity/news?tags%5B0%5D=328)
 
-Сегодня 14:09
+08.10.24
 
 [![«Единая Россия» проводит неделю приёмов граждан по вопросам защиты прав в трудовой сфере](https://cdn.er.ru/media/news/October2024/vsm6kvCVr5ogxD10W7Lo-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zashity-prav-v-trudovoj-sfere)
 
@@ -321,7 +329,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#неделяприемов](https://er.ru/activity/news?tags%5B0%5D=113281) [#трудовоезаконодательство](https://er.ru/activity/news?tags%5B0%5D=125198) [#защитаправ](https://er.ru/activity/news?tags%5B0%5D=127357) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
 
-Сегодня 09:00
+08.10.24
 
 [![«Единая Россия» предлагает изменить подход к подготовке специалистов для биоэкономики](https://cdn.er.ru/media/news/October2024/KqvwGgMNxZrM0BDUwgL3-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predlagaet-izmenit-podhod-k-podgotovke-specialistov-dlya-bioekonomiki)
 
@@ -336,14 +344,6 @@
 [Владимир Якушев: Проект федерального бюджета сбалансирован и отвечает поставленным Президентом задачам](https://er.ru/activity/news/vladimir-yakushev-proekt-federalnogo-byudzheta-sbalansirovan-i-otvechaet-postavlennym-prezidentom-zadacham)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СоветФедерации](https://er.ru/activity/news?tags%5B0%5D=67479) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#парламентскиеслушания](https://er.ru/activity/news?tags%5B0%5D=113161)
-
-07.10.24
-
-[![Тысячи активистов МГЕР и «Волонтерской Роты» провели в Москве и Санкт-Петербурге флешмобы в честь Дня рождения Владимира Путина](https://cdn.er.ru/media/news/October2024/G3BatyUHSJdf3lfHRgUI-small.jpg)](https://er.ru/activity/news/tysyachi-aktivistov-mger-i-volonterskoj-roty-proveli-v-moskve-i-sankt-peterburge-fleshmoby-v-chest-dnya-rozhdeniya-vladimira-putina)
-
-[Тысячи активистов МГЕР и «Волонтерской Роты» провели в Москве и Санкт-Петербурге флешмобы в честь Дня рождения Владимира Путина](https://er.ru/activity/news/tysyachi-aktivistov-mger-i-volonterskoj-roty-proveli-v-moskve-i-sankt-peterburge-fleshmoby-v-chest-dnya-rozhdeniya-vladimira-putina)
-
-[#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=132412) [#флэшмобы](https://er.ru/activity/news?tags%5B0%5D=84285) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646) [#ПрезидентРФ](https://er.ru/activity/news?tags%5B0%5D=128518)
 
 07.10.24
 
