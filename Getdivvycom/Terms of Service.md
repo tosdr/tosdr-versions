@@ -404,7 +404,7 @@ Spend & Expense:
 
 [Terms & Conditions](https://getdivvy.com/legal/spend-expense-terms-of-service)[Privacy Policy](https://getdivvy.com/privacy)
 
-[Legal](https://getdivvy.com/legal)[Licenses and Authorizations](https://getdivvy.com/legal/authorizations)[Acceptable Use Policy](https://getdivvy.com/acceptable-use-policy)[Cookie Policy](https://getdivvy.com/privacy#privacy-info-cookies)[BILL Network Rules](https://getdivvy.com/legal/network-rules)[Accessibility Statement](https://getdivvy.com/legal/accessibility-statement)[Do Not Sell My Personal Information](https://getdivvy.com/privacy/do-not-sell-my-personal-information)
+[Legal](https://getdivvy.com/legal)[Licenses and Authorizations](https://getdivvy.com/legal/authorizations)[Acceptable Use Policy](https://getdivvy.com/legal/acceptable-use-policy)[Cookie Policy](https://getdivvy.com/privacy#privacy-info-cookies)[BILL Network Rules](https://getdivvy.com/legal/network-rules)[Accessibility Statement](https://getdivvy.com/legal/accessibility-statement)[Do Not Sell My Personal Information](https://getdivvy.com/privacy/do-not-sell-my-personal-information)
 
 BILL AP/AR services are provided by Bill.com LLC; Spend & Expense services are provided by Divvy Pay LLC; BILL Divvy Corporate Card is issued by Cross River Bank, member FDIC. This is not a deposit product.  
 ©2024 BILL Operations, LLC. BILL, the BILL logo, and the “b” logo are trademarks of BILL Operations, LLC. All other company names and brands are the property of their respective owners.
