@@ -1,3 +1,7 @@
+[Quick Shipping](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+
+[Quick Shipping](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)|[Museum Grade Quality](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)|[Handcrafted in the U.S.A.](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+
 [](https://www.art.com/ "Art.com")
 
 Cancel
@@ -8,9 +12,9 @@ Cancel
 
 [Gift Guide](https://www.art.com/gift-guide/holiday "Gift Guide")
 
-[Style Guide 2024](https://www.art.com/lp/style-guide "Style Guide 2024")
-
 [Frame My Photos](https://www.art.com/lp/frame-my-photos "Frame My Photos")
+
+[Style Guide 2024](https://www.art.com/lp/style-guide "Style Guide 2024")
 
 [New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm "New Arrivals")
 
