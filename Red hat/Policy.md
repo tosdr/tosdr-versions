@@ -31,7 +31,6 @@ Featured links
         * [Hybrid cloud learning hub](https://cloud.redhat.com/learn)
         * [Interactive labs](https://www.redhat.com/en/interactive-labs)
         * [Learning community](https://learn.redhat.com/)
-        * [Red Hat TV](https://www.redhat.com/en/tv)
     * Open source communities
         * [Ansible](https://www.ansible.com/community)
         * [Global advocacy](https://access.redhat.com/accelerators)
@@ -234,7 +233,6 @@ Learning resources
 * [Hybrid cloud learning hub](https://cloud.redhat.com/learn)
 * [Interactive labs](https://www.redhat.com/en/interactive-labs)
 * [Learning community](https://learn.redhat.com/)
-* [Red Hat TV](https://www.redhat.com/en/tv)
 
 Open source communities
 
@@ -937,6 +935,8 @@ We’re the world’s leading provider of enterprise open source solutions—inc
 * [Diversity, equity, and inclusion](https://www.redhat.com/en/about/our-culture/diversity-equity-inclusion)
 * [Cool Stuff Store](https://coolstuff.redhat.com/)
 * [Red Hat Summit](https://www.redhat.com/en/summit)
+
+© 2024 Red Hat, Inc.
 
 ### Red Hat legal and privacy links
 
