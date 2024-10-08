@@ -14,6 +14,8 @@ Easy returns within 30 days
 * [Baby](https://eur.patpat.com/baby-clothes-c.html)
 * [Toddler](https://eur.patpat.com/toddler-clothes-c.html)
 * [Kids](https://eur.patpat.com/kids-clothing-c.html)
+* [Shoes](https://eur.patpat.com/shoes-c.html)
+* [Accessories](https://eur.patpat.com/accessories-c.html)
 * [About](https://eur.patpat.com/about)
 
 Search[](https://eur.patpat.com/account/login)
