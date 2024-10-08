@@ -29,9 +29,9 @@
 
 "100% GDPR Compliant"
 
-"Privacy-Compliant Captcha"
-
 "Top-Tier Support"
+
+"Privacy-Compliant Captcha"
 
 "Great reCaptcha Alternative"
 
