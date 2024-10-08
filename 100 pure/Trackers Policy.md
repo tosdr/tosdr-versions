@@ -316,7 +316,7 @@ ADD TO TOTE
 
 ### [Blood Orange Cleansing Balm](https://www.100percentpure.com/products/blood-orange-cleansing-balm)
 
-874 reviews (874)
+875 reviews (875)
 
 $38.00
 
@@ -458,9 +458,9 @@ Default Title - $43.50
 
 ADD TO TOTE
 
-[![bakuchiol-moisturizer](https://www.100percentpure.com/cdn/shop/files/Bakuchiol_Moisturizer_FRONT_f853c7dd-47c1-4a44-b3d6-9c87ef6c2423_239x254.jpg?v=1728076827)](https://www.100percentpure.com/products/bakuchiol-moisturizer)
+[![bakuchiol-moisturizer](https://www.100percentpure.com/cdn/shop/files/Bakuchiol_Moisturizer_FRONT_b16faf33-f814-40fb-8b44-4af0d6e8a9a1_239x254.jpg?v=1728393817)](https://www.100percentpure.com/products/bakuchiol-moisturizer)
 
-![ Bakuchiol Moisturizer](//www.100percentpure.com/cdn/shop/files/Bakuchiol_Moisturizer_FRONT_f853c7dd-47c1-4a44-b3d6-9c87ef6c2423_220x.jpg?v=1728076827)
+![ Bakuchiol Moisturizer](//www.100percentpure.com/cdn/shop/files/Bakuchiol_Moisturizer_FRONT_b16faf33-f814-40fb-8b44-4af0d6e8a9a1_220x.jpg?v=1728393817)
 
 ### [Bakuchiol Moisturizer](https://www.100percentpure.com/products/bakuchiol-moisturizer)
 
