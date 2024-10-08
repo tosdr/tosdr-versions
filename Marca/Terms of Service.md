@@ -1,10 +1,12 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZwTvzwoAAhUAAABhMV4)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZwVFqAoAAhQAAABiOEc)
 
 * Es noticia:
-* [Iniesta](https://www.marca.com/futbol/2024/10/08/6704e955c68ffb10b47888b7-directo.html)
+* [Retirada Iniesta](https://www.marca.com/futbol/2024/10/08/6704e955c68ffb10b47888b7-directo.html)
 * [Messi Iniesta](https://www.marca.com/futbol/2024/10/08/6704d4d922601da6558b4574.html)
 * [Kun Agüero](https://www.marca.com/tiramillas/actualidad/2024/10/07/67040ce5268e3ec30b8b4579.html)
+* [Aficionados Valencia CF](https://www.marca.com/futbol/valencia/2024/10/08/670525aae2704e21a88b456c.html)
 * [Colapinto](https://www.marca.com/tiramillas/television/2024/10/07/67041c08268e3e60168b4588.html)
+* [Yeremy Pino](https://www.marca.com/futbol/real-madrid/2024/10/08/67053532268e3e53028b4584.html)
 * [Brahim](https://www.marca.com/futbol/real-madrid/2024/10/08/67043fafca47419a418b457c.html)
 * [Dabone](https://www.marca.com/baloncesto/acb/2024/10/08/dudas-sobre-edad-coloso-barcelona-anos-dabone.html)
 * [Alpine](https://www.marca.com/motor/formula1/gp-eeuu/2024/10/08/6703ddcc268e3ecd588b45ba.html)
@@ -13,6 +15,7 @@
 * [MasterChef Celebrity](https://www.marca.com/tiramillas/television/2024/10/08/6704c950268e3e996b8b4571.html)
 * [Adrian Newey](https://www.marca.com/motor/formula1/gp-eeuu/2024/10/07/6703c986268e3ea57f8b45d3.html)
 * [España - Dinamarca cuándo es](https://www.marca.com/futbol/seleccion/2024/10/06/6702747b22601d86798b457b.html)
+* [Maldini](https://www.marca.com/futbol/liga-italiana/2024/10/08/670536f9ca47412d558b457f.html)
 * [Alexander-Arnold](https://www.marca.com/futbol/real-madrid/2024/10/07/6704093a46163f966b8b45a7.html)
 * [Restaurante Almería helicóptero](https://www.marca.com/tiramillas/actualidad/2024/10/07/6703b988268e3ef34a8b45b8.html)
 * [La Revuelta](https://www.marca.com/tiramillas/television/2024/10/08/6704c598e2704e65b18b45a7.html)
@@ -23,7 +26,8 @@
 * [Fútbol hoy](https://www.marca.com/tiramillas/actualidad/economia/2024/09/30/66faab18e2704ee99d8b45a5.html)
 * [Clasificación Liga](https://www.marca.com/futbol/primera-division/clasificacion.html)
 * [LaLiga EA Sports](https://www.marca.com/futbol/primera-division.html)
-* [Hurricane Milton Latest LIVE updates](https://www.marca.com/en/latest-news/2024/10/08/6704e6bdcf4b11615bbd1947-live.html)
+* [Hurricane Milton Latest LIVE updates](https://www.marca.com/en/lifestyle/us-news/2024/10/08/6704fdb1c68ffb10b479840d-live.html)
+* [Iniesta](https://www.marca.com/futbol/andres-iniesta.html)
 
 [Portada de Marca](https://www.marca.com/)
 
