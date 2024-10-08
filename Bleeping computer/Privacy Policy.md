@@ -36,18 +36,18 @@
         
         AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
     
-    * [![You can get a $40 lifetime license to Office 2021 Pro in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        You can get a $40 lifetime license to Office 2021 Pro in this deal](https://www.bleepingcomputer.com/offer/deals/you-can-get-a-40-lifetime-license-to-office-2021-pro-in-this-deal/)
-    * [![Microsoft Edge begins testing Copilot Vision](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/)
+    * [![Try a year of Norton VPN on one device for only $9](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft Edge begins testing Copilot Vision](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-begins-testing-copilot-vision/)
-    * [![MoneyGram confirms hackers stole customer data in cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Try a year of Norton VPN on one device for only $9](https://www.bleepingcomputer.com/offer/deals/try-a-year-of-norton-vpn-on-one-device-for-only-9/)
+    * [![Windows 11 KB5044284 and KB5044285 cumulative updates released](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        MoneyGram confirms hackers stole customer data in cyberattack](https://www.bleepingcomputer.com/news/security/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
-    * [![ADT discloses second breach in 2 months, hacked via stolen credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows 11 KB5044284 and KB5044285 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5044284-and-kb5044285-cumulative-updates-released/)
+    * [![Windows 10 KB5044273 update released with 9 fixes, security updates](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        ADT discloses second breach in 2 months, hacked via stolen credentials](https://www.bleepingcomputer.com/news/security/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/)
+        Windows 10 KB5044273 update released with 9 fixes, security updates](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5044273-update-released-with-9-fixes-security-updates/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -442,12 +442,12 @@ Popular Stories
 * [![Word](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Microsoft: Word deletes some documents instead of saving them](https://www.bleepingcomputer.com/news/microsoft/microsoft-word-for-microsoft-365-deletes-some-documents-instead-of-saving-them/)
-* [![MoneyGram](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![ADT](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    MoneyGram: No evidence ransomware is behind recent cyberattack](https://www.bleepingcomputer.com/news/security/moneygram-no-evidence-ransomware-is-behind-recent-cyberattack/)
-* [![Cryptocurrency](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ADT discloses second breach in 2 months, hacked via stolen credentials](https://www.bleepingcomputer.com/news/security/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/)
+* [![Moneygram](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Man pleads guilty to stealing $37 million in crypto from 571 victims](https://www.bleepingcomputer.com/news/legal/man-pleads-guilty-to-stealing-37-million-in-crypto-from-571-victims/)
+    MoneyGram confirms hackers stole customer data in cyberattack](https://www.bleepingcomputer.com/news/security/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
 
 ##### Follow us:
 
