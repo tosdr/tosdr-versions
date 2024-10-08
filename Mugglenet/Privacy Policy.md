@@ -316,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Despite Natalia Tena’s first audition being described as “a disaster,” she still landed the role of Nymphadora Tonks.
+Sybill Trelawney’s middle name is Patricia.
 
 ### Potter History
 
-May 21-24, 2009 – The first LeakyCon is held in Boston, Massachusetts.
+April 15, 2011 – Harry Potter and the Deathly Hallows – Part 1 is released on Blu-ray and DVD in the United States.
 
 ### Potter Quote
 
-“What is it about my presence in your home that displeases you, Lucius?”
+“Only here shall you know freedom, only here shall you know yourself.”
 
 [](#)
 
