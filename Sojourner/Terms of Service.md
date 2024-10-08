@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3175a6025e1e3a422801ca40009ce743
+ac4fc20db7d33d4107c505d42322c15f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Luminous pearl necklace](https://sojourner.biz/images/cache/N0047.200.jpg)](https://sojourner.biz/jewelry/necklaces/luminous-pearl-necklace.html "Luminous pearl necklace")
+[![Hand-made copper bell, 5.5 inch](https://sojourner.biz/images/cache/TT0008nmb8.200.jpg)](https://sojourner.biz/musical-instruments/hand-made-copper-bell-5.5-inch.html "Hand-made copper bell, 5.5 inch")
 
-#### [Luminous pearl necklace](https://sojourner.biz/jewelry/necklaces/luminous-pearl-necklace.html "Luminous pearl necklace")
+#### [Hand-made copper bell, 5.5 inch](https://sojourner.biz/musical-instruments/hand-made-copper-bell-5.5-inch.html "Hand-made copper bell, 5.5 inch")
 
-$140.00
+$21.00
 
 ### Best Sellers
 
