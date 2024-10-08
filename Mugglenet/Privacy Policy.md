@@ -310,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Minerva McGonagall’s mother kept her own magical heritage a secret from her Muggle husband for years, which made her life very sad and difficult.
+Michael Jackson wanted to make Harry Potter into a musical.
 
 ### Potter History
 
-June 10, 2013 – Sony unveils Wonderbook: Book of Potions at the Electronic Entertainment Expo in Los Angeles.
+September 17, 2007 – Warner Bros. confirms various details for the Harry Potter and the Order of the Phoenix DVD, including its December 11 release in the United States.
 
 ### Potter Quote
 
-“Don’t be silly. Of course I won’t be in three classes at once.”
+“Wangoballwime?”
 
 [](#)
 
