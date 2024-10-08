@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-desantis-1200x630.jpg)](https://americanwirenews.com/gov-desantis-bans-suspensions-limits-on-gun-sales-during-storm/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-desantis-harris-1200x630.jpg)](https://americanwirenews.com/kamala-harris-fumes-desantis-didnt-take-her-hurricane-related-call-his-response-is-priceless/)
 
-[Gov. DeSantis bans suspensions, limits on gun sales during storm](https://americanwirenews.com/gov-desantis-bans-suspensions-limits-on-gun-sales-during-storm/)
+[Kamala Harris fumes DeSantis didn’t take her hurricane-related call, his response is PRICELESS](https://americanwirenews.com/kamala-harris-fumes-desantis-didnt-take-her-hurricane-related-call-his-response-is-priceless/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-1200x630.jpg)](https://americanwirenews.com/vance-highlights-fundamental-point-being-missed-about-fema-and-illegals-under-biden-harris/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-teamsters-boss-1200x630.jpg)](https://americanwirenews.com/teamsters-president-eviscerates-democratic-party-they-have-f-ked-us-over-for-the-last-40-years/)
 
-[Vance highlights ‘fundamental point’ being missed about FEMA and illegals under Biden-Harris](https://americanwirenews.com/vance-highlights-fundamental-point-being-missed-about-fema-and-illegals-under-biden-harris/)
+[Teamsters’ president eviscerates Democratic Party: ‘they have f–ked us over for the last 40 years’](https://americanwirenews.com/teamsters-president-eviscerates-democratic-party-they-have-f-ked-us-over-for-the-last-40-years/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-evan-barker-1200x630.jpg)](https://americanwirenews.com/fed-up-fundraiser-blows-whistle-on-how-celebs-high-rollers-have-taken-over-democratic-party/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-elon-musk-tucker-1200x630.png)](https://americanwirenews.com/musk-tells-tucker-hes-fked-if-trump-loses-in-wild-interview/)
 
-[‘Fed up’ fundraiser blows whistle on how celebs, high rollers have taken over Democratic Party](https://americanwirenews.com/fed-up-fundraiser-blows-whistle-on-how-celebs-high-rollers-have-taken-over-democratic-party/)
+[Musk tells Tucker he’s ‘f\*\*ked’ if Trump loses in wild interview](https://americanwirenews.com/musk-tells-tucker-hes-fked-if-trump-loses-in-wild-interview/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-netanyahu-1200x630.jpg)](https://americanwirenews.com/new-jersy-high-school-allegedly-bans-yellow-ribbons-honoring-israeli-oct-7-hostages-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/11/RF-Getty-images-vote-voter-millenial-Gen-Z-election-e1668107873131-1200x630.jpg)](https://americanwirenews.com/non-citizen-workers-being-encouraged-to-vote-union-mailers-urge-support-for-harris-walz-report/)
 
-[New Jersy high school allegedly bans yellow ribbons honoring Israeli Oct. 7 hostages: report](https://americanwirenews.com/new-jersy-high-school-allegedly-bans-yellow-ribbons-honoring-israeli-oct-7-hostages-report/)
+Getty Images
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-landfill-gate-1200x630.jpg)](https://americanwirenews.com/youre-open-now-desantis-forcibly-rips-open-gates-to-landfill-site-ahead-of-hurricane-milton/)
+[Non-citizen workers being encouraged to vote, union mailers urge support for Harris-Walz: Report](https://americanwirenews.com/non-citizen-workers-being-encouraged-to-vote-union-mailers-urge-support-for-harris-walz-report/)
 
-[‘You’re open now’: DeSantis ‘forcibly’ rips open gates to landfill site ahead of Hurricane Milton](https://americanwirenews.com/youre-open-now-desantis-forcibly-rips-open-gates-to-landfill-site-ahead-of-hurricane-milton/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-brian-stelter-1200x630.jpg)](https://americanwirenews.com/brian-stelter-bemoans-ugly-misogyny-of-kamala-podcast-critics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-trump-1200x630.jpg)](https://americanwirenews.com/elon-musks-america-pac-offers-47-for-swing-state-voter-referrals/)
+[Brian Stelter bemoans ‘ugly misogyny’ of Kamala podcast critics](https://americanwirenews.com/brian-stelter-bemoans-ugly-misogyny-of-kamala-podcast-critics/)
 
-[Elon Musk’s ‘America’ PAC offers $47 for swing-state voter referrals](https://americanwirenews.com/elon-musks-america-pac-offers-47-for-swing-state-voter-referrals/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-elon-musk-sg-keith-olbermann-1200x630.jpg)](https://americanwirenews.com/crazed-keith-olbermann-calls-for-biden-to-kick-musk-out-of-our-country/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-whitaker-harris-1200x630.jpg)](https://americanwirenews.com/shock-kamala-gets-a-dose-of-the-real-world-during-60-minutes-sit-down/)
+[Crazed Keith Olbermann calls for Biden to kick Musk out of our country](https://americanwirenews.com/crazed-keith-olbermann-calls-for-biden-to-kick-musk-out-of-our-country/)
 
-[Shock! Kamala gets a dose of the ‘real world’ during 60 Minutes sit down](https://americanwirenews.com/shock-kamala-gets-a-dose-of-the-real-world-during-60-minutes-sit-down/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-springfield-sign-1200x630.jpg)](https://americanwirenews.com/court-answers-haitian-group-demanding-arrest-warrants-for-donald-trump-and-jd-vance/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bartiromo-trump-1200x630.jpg)](https://americanwirenews.com/melania-says-trump-knew-her-stance-on-abortion-shares-his-response-to-new-tell-all-memoir/)
+[Court answers Haitian group demanding arrest warrants for Donald Trump and JD Vance](https://americanwirenews.com/court-answers-haitian-group-demanding-arrest-warrants-for-donald-trump-and-jd-vance/)
 
-[Melania says Trump knew her stance on abortion, shares his response to new tell-all memoir](https://americanwirenews.com/melania-says-trump-knew-her-stance-on-abortion-shares-his-response-to-new-tell-all-memoir/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-watters-harris-1200x630.jpg)](https://americanwirenews.com/kamala-bombs-60-minutes-interview-like-a-slow-motion-car-wreck-and-about-that-glock/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-Jean-Pierre-1200x630.jpg)
+[Kamala bombs ’60 Minutes’ interview – like a slow-motion car wreck … and about that Glock](https://americanwirenews.com/kamala-bombs-60-minutes-interview-like-a-slow-motion-car-wreck-and-about-that-glock/)
 
-### ‘You. Must. Be. Kidding.’ Karine Jean-Pierre promoted to senior adviser to Biden](https://americanwirenews.com/you-must-be-kidding-karine-jean-pierre-promoted-to-senior-adviser-to-biden/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-pelley-1200-x-628-1200x630.jpg)
+
+### ’60 Minutes’ trashes Trump in absentia](https://americanwirenews.com/60-minutes-trashes-trump-in-absentia/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,13 +80,75 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-donald-trump-sg-scott-jennings-220x180.jpg)](https://americanwirenews.com/cnns-lone-conservative-says-donald-trump-is-right-to-call-out-jewish-voters/)
+
+[CNN’s lone conservative says ‘Donald Trump is RIGHT’ to call out Jewish voters](https://americanwirenews.com/cnns-lone-conservative-says-donald-trump-is-right-to-call-out-jewish-voters/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-walz-60-220x180.jpg)](https://americanwirenews.com/walz-asked-if-he-can-be-trusted-with-the-truth-on-60-minutes-his-answer-is-not-convincing/)
+
+[Walz asked if he can be ‘trusted with the truth’ on ’60 Minutes’ – his answer is not convincing](https://americanwirenews.com/walz-asked-if-he-can-be-trusted-with-the-truth-on-60-minutes-his-answer-is-not-convincing/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2176495437-1-220x180.jpg)](https://americanwirenews.com/youre-going-to-die-tampa-bay-mayor-has-bone-chilling-warning-as-floridians-scramble-to-evacuate/)
+
+[‘You’re going to die’: Tampa Bay mayor has bone-chilling warning as Floridians scramble to evacuate](https://americanwirenews.com/youre-going-to-die-tampa-bay-mayor-has-bone-chilling-warning-as-floridians-scramble-to-evacuate/)
+
+(Photo by BRYAN R. SMITH/AFP via Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg_tequila-220x180.png)](https://americanwirenews.com/kamala-campaign-tries-to-scare-young-voters-with-talk-of-trump-tequila-tax/)
+
+[Kamala campaign tries to scare young voters with talk of ‘Trump Tequila Tax’](https://americanwirenews.com/kamala-campaign-tries-to-scare-young-voters-with-talk-of-trump-tequila-tax/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-washington-alba-close-220x180.jpg)](https://americanwirenews.com/celebs-flock-to-kamalas-rescue-in-key-battleground-state/)
+
+[Celebs flock to Kamala’s rescue in key battleground state](https://americanwirenews.com/celebs-flock-to-kamalas-rescue-in-key-battleground-state/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scott-pelley-220x180.png)](https://americanwirenews.com/trump-campaign-disputes-60-minutes-on-air-claim-about-agreement-as-usual-they-are-lying/)
+
+[Trump campaign disputes ’60 Minutes’ on-air claim about agreement: ‘As usual, they are lying’](https://americanwirenews.com/trump-campaign-disputes-60-minutes-on-air-claim-about-agreement-as-usual-they-are-lying/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-desantis-220x180.jpg)](https://americanwirenews.com/gov-desantis-bans-suspensions-limits-on-gun-sales-during-storm/)
+
+[Gov. DeSantis bans suspensions, limits on gun sales during storm](https://americanwirenews.com/gov-desantis-bans-suspensions-limits-on-gun-sales-during-storm/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-vance-220x180.jpg)](https://americanwirenews.com/vance-highlights-fundamental-point-being-missed-about-fema-and-illegals-under-biden-harris/)
+
+[Vance highlights ‘fundamental point’ being missed about FEMA and illegals under Biden-Harris](https://americanwirenews.com/vance-highlights-fundamental-point-being-missed-about-fema-and-illegals-under-biden-harris/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-trump-butler-220x180.jpg)](https://americanwirenews.com/trump-talks-new-details-of-failed-assassination-how-barron-found-out-it-was-the-craziest-day/)
 
 [Trump talks new details of failed assassination, how Barron found out: ‘It was the craziest day’](https://americanwirenews.com/trump-talks-new-details-of-failed-assassination-how-barron-found-out-it-was-the-craziest-day/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-Jean-Pierre-220x180.jpg)](https://americanwirenews.com/you-must-be-kidding-karine-jean-pierre-promoted-to-senior-adviser-to-biden/)
+
+[‘You. Must. Be. Kidding.’ Karine Jean-Pierre promoted to senior adviser to Biden](https://americanwirenews.com/you-must-be-kidding-karine-jean-pierre-promoted-to-senior-adviser-to-biden/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-netanyahu-220x180.jpg)](https://americanwirenews.com/new-jersy-high-school-allegedly-bans-yellow-ribbons-honoring-israeli-oct-7-hostages-report/)
+
+[New Jersy high school allegedly bans yellow ribbons honoring Israeli Oct. 7 hostages: report](https://americanwirenews.com/new-jersy-high-school-allegedly-bans-yellow-ribbons-honoring-israeli-oct-7-hostages-report/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-trump-220x180.jpg)](https://americanwirenews.com/elon-musks-america-pac-offers-47-for-swing-state-voter-referrals/)
+
+[Elon Musk’s ‘America’ PAC offers $47 for swing-state voter referrals](https://americanwirenews.com/elon-musks-america-pac-offers-47-for-swing-state-voter-referrals/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-landfill-gate-220x180.jpg)](https://americanwirenews.com/youre-open-now-desantis-forcibly-rips-open-gates-to-landfill-site-ahead-of-hurricane-milton/)
+
+[‘You’re open now’: DeSantis ‘forcibly’ rips open gates to landfill site ahead of Hurricane Milton](https://americanwirenews.com/youre-open-now-desantis-forcibly-rips-open-gates-to-landfill-site-ahead-of-hurricane-milton/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-whitaker-harris-220x180.jpg)](https://americanwirenews.com/shock-kamala-gets-a-dose-of-the-real-world-during-60-minutes-sit-down/)
+
+[Shock! Kamala gets a dose of the ‘real world’ during 60 Minutes sit down](https://americanwirenews.com/shock-kamala-gets-a-dose-of-the-real-world-during-60-minutes-sit-down/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-evan-barker-220x180.jpg)](https://americanwirenews.com/fed-up-fundraiser-blows-whistle-on-how-celebs-high-rollers-have-taken-over-democratic-party/)
+
+[‘Fed up’ fundraiser blows whistle on how celebs, high rollers have taken over Democratic Party](https://americanwirenews.com/fed-up-fundraiser-blows-whistle-on-how-celebs-high-rollers-have-taken-over-democratic-party/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-2-220x180.jpg)](https://americanwirenews.com/media-outlet-says-storm-could-swing-election-given-impact-on-trump-strongholds/)
 
 [Media outlet says storm could swing election given impact on Trump ‘strongholds’](https://americanwirenews.com/media-outlet-says-storm-could-swing-election-given-impact-on-trump-strongholds/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bartiromo-trump-220x180.jpg)](https://americanwirenews.com/melania-says-trump-knew-her-stance-on-abortion-shares-his-response-to-new-tell-all-memoir/)
+
+[Melania says Trump knew her stance on abortion, shares his response to new tell-all memoir](https://americanwirenews.com/melania-says-trump-knew-her-stance-on-abortion-shares-his-response-to-new-tell-all-memoir/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/03/SG-Presler-220x180.jpg)](https://americanwirenews.com/coincidence-voter-registration-website-goes-dark-the-day-trump-returns-to-butler/)
 
@@ -113,66 +177,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jennifer-aniston-220x180.png)](https://americanwirenews.com/jennifer-aniston-addresses-report-of-romance-with-obama/)
 
 [Jennifer Aniston addresses report of romance with Obama](https://americanwirenews.com/jennifer-aniston-addresses-report-of-romance-with-obama/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-fema1-1200-x-628-220x180.jpg)](https://americanwirenews.com/fema-boss-defends-agency-incompetence-says-criticism-is-dangerous/)
-
-[FEMA boss defends agency incompetence, says criticism is ‘dangerous’](https://americanwirenews.com/fema-boss-defends-agency-incompetence-says-criticism-is-dangerous/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-batcave-roadclosed-220x180.jpg)](https://americanwirenews.com/fema-abandons-bat-cave-nc-residents-over-road-closed-sign/)
-
-[FEMA abandons Bat Cave, NC residents over ‘Road Closed’ sign](https://americanwirenews.com/fema-abandons-bat-cave-nc-residents-over-road-closed-sign/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mitchell-1200-x-628-220x180.jpg)](https://americanwirenews.com/nbc-news-talking-head-blames-misogynation-for-kamalas-poor-showing-with-men/)
-
-[NBC News talking head blames ‘misogynation’ for Kamala’s poor showing with men](https://americanwirenews.com/nbc-news-talking-head-blames-misogynation-for-kamalas-poor-showing-with-men/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bream-walz-220x180.jpg)](https://americanwirenews.com/tim-walz-walks-into-shannon-bream-buzz-saw-on-fox-news-sunday/)
-
-[Tim Walz walks into Shannon Bream buzz saw on ‘Fox News Sunday’](https://americanwirenews.com/tim-walz-walks-into-shannon-bream-buzz-saw-on-fox-news-sunday/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamala-220x180.png)](https://americanwirenews.com/kamala-kod-over-tone-deaf-message-about-157m-for-suffering-citizens-in-lebanon/)
-
-[Kamala KO’d over tone-deaf message about $157M for suffering citizens in Lebanon](https://americanwirenews.com/kamala-kod-over-tone-deaf-message-about-157m-for-suffering-citizens-in-lebanon/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/getty-trumpsign-1200-x-628-220x180.jpg)](https://americanwirenews.com/dem-mayor-sues-ny-company-over-100-foot-vote-for-trump-sign-perched-atop-building/)
-
-[Dem mayor sues NY company over massive 100-foot ‘Vote for Trump’ sign](https://americanwirenews.com/dem-mayor-sues-ny-company-over-100-foot-vote-for-trump-sign-perched-atop-building/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cotton-220x180.jpg)](https://americanwirenews.com/cotton-has-receipts-on-kamala-harris-lying-about-banning-gas-cars-shell-say-anything-to-get-elected/)
-
-[Cotton has receipts on Kamala Harris ‘lying’ about banning gas cars: ‘She’ll say anything to get elected’](https://americanwirenews.com/cotton-has-receipts-on-kamala-harris-lying-about-banning-gas-cars-shell-say-anything-to-get-elected/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-yt-pager-470x260-1200-x-628-220x180.jpg)](https://americanwirenews.com/diabolical-details-emerge-on-mossads-james-bond-level-pager-attacks/)
-
-[Diabolical details emerge on Mossad’s ‘James Bond-level’ pager attacks](https://americanwirenews.com/diabolical-details-emerge-on-mossads-james-bond-level-pager-attacks/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-voight-220x180.png)](https://americanwirenews.com/jon-voight-appeals-to-americans-to-vote-for-trump-details-whats-at-stake/)
-
-[Jon Voight appeals to Americans to vote for Trump, details what’s at stake](https://americanwirenews.com/jon-voight-appeals-to-americans-to-vote-for-trump-details-whats-at-stake/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jeanpierre-220x180.jpg)](https://americanwirenews.com/kjp-disputes-her-own-claim-fema-funds-not-diverted-to-illegal-immigrants/)
-
-[KJP disputes her own claim FEMA funds not diverted to illegal immigrants](https://americanwirenews.com/kjp-disputes-her-own-claim-fema-funds-not-diverted-to-illegal-immigrants/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-colbert-220x180.jpg)](https://americanwirenews.com/kamala-to-embark-on-friendly-media-blitz-with-the-view-stephen-colbert-and-howard-stern/)
-
-[Kamala to embark on friendly media blitz with ‘The View,’ Stephen Colbert and Howard Stern](https://americanwirenews.com/kamala-to-embark-on-friendly-media-blitz-with-the-view-stephen-colbert-and-howard-stern/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sapd-1200-x-628-220x180.jpg)](https://americanwirenews.com/tren-de-aragua-gang-members-among-20-arrested-in-san-antonio-after-taking-over-apartment-complex/)
-
-[Tren de Aragua gang members among 20 arrested in San Antonio after taking over apartment complex](https://americanwirenews.com/tren-de-aragua-gang-members-among-20-arrested-in-san-antonio-after-taking-over-apartment-complex/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumpkellyanne-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-admits-he-doesnt-feel-safe-campaigning-its-a-dangerous-business/)
-
-[Trump admits he doesn’t feel ‘safe’ campaigning: ‘It’s a dangerous business’](https://americanwirenews.com/trump-admits-he-doesnt-feel-safe-campaigning-its-a-dangerous-business/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-axelrod-220x180.jpg)](https://americanwirenews.com/axelrod-says-quiet-part-out-loud-storm-ravaged-nc-boosts-kamalas-chances/)
-
-[Axelrod says quiet part out loud, storm-ravaged NC boosts Kamala’s chances](https://americanwirenews.com/axelrod-says-quiet-part-out-loud-storm-ravaged-nc-boosts-kamalas-chances/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jdbutler-1200-x-628-220x180.jpg)](https://americanwirenews.com/jd-vance-on-dems-inflammatory-rhetoric-only-a-matter-of-time-before-somebody-tried-to-kill-him/)
-
-[JD Vance on Dems’ ‘inflammatory’ rhetoric: ‘Only a matter of time before somebody tried to kill him’](https://americanwirenews.com/jd-vance-on-dems-inflammatory-rhetoric-only-a-matter-of-time-before-somebody-tried-to-kill-him/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
