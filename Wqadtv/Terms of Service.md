@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WOI/images/bd6f4bd9-fc45-46eb-a194-6c68472a2748/20241008T011243/bd6f4bd9-fc45-46eb-a194-6c68472a2748_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/bd6f4bd9-fc45-46eb-a194-6c68472a2748/20241008T011243/bd6f4bd9-fc45-46eb-a194-6c68472a2748_360x203.jpg)](https://www.wqad.com/article/news/local/hurricane-helene-relief-efforts-iowans-helping-out-avery-county-airport-relief-site-the-james-clinic-spruce-pine-north-carolina-milton/524-5b2640a7-95a5-47f8-ab91-eba826abb5d6)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d85d4152-77bf-448c-9536-5e44378f1ef3/20240926T172558/d85d4152-77bf-448c-9536-5e44378f1ef3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d85d4152-77bf-448c-9536-5e44378f1ef3/20240926T172558/d85d4152-77bf-448c-9536-5e44378f1ef3_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/manhunt-underway-louisa-county-iowa-brian-calvin/526-960bca8f-0de6-44b3-90a7-d8e3016eb0ac)
         
-        #### [Central Iowa medical personnel provide care to Hurricane Helene victims](https://www.wqad.com/article/news/local/hurricane-helene-relief-efforts-iowans-helping-out-avery-county-airport-relief-site-the-james-clinic-spruce-pine-north-carolina-milton/524-5b2640a7-95a5-47f8-ab91-eba826abb5d6)
+        #### [Days-long manhunt ends in Louisa County, Iowa](https://www.wqad.com/article/news/local/public-safety/manhunt-underway-louisa-county-iowa-brian-calvin/526-960bca8f-0de6-44b3-90a7-d8e3016eb0ac)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/c392c701-bdbe-403f-8a32-b1ca872873ed/20241007T131500/c392c701-bdbe-403f-8a32-b1ca872873ed_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/c392c701-bdbe-403f-8a32-b1ca872873ed/20241007T131500/c392c701-bdbe-403f-8a32-b1ca872873ed_360x203.jpg)](https://www.wqad.com/article/news/nation-world/israel-hamas-conflict/israel-hamas-war-one-year-mark-quad-cities-reflect-protest/526-2c270778-6a3e-4ef2-9cd0-95fdefaff2ea)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c894eac3-f6ff-4e8c-bf3d-4201a3db72b0/c894eac3-f6ff-4e8c-bf3d-4201a3db72b0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c894eac3-f6ff-4e8c-bf3d-4201a3db72b0/c894eac3-f6ff-4e8c-bf3d-4201a3db72b0_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-fire-power-water-plant/526-cf8ea19c-d974-4d68-b512-41a29781a501)
         
-        #### [Quad Citizens on both sides of the conflict reflect on 1 year mark of Israel-Hamas War](https://www.wqad.com/article/news/nation-world/israel-hamas-conflict/israel-hamas-war-one-year-mark-quad-cities-reflect-protest/526-2c270778-6a3e-4ef2-9cd0-95fdefaff2ea)
+        #### [Muscatine Fire Department responds to fire at power plant](https://www.wqad.com/article/news/local/muscatine-fire-power-water-plant/526-cf8ea19c-d974-4d68-b512-41a29781a501)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WMAZ/images/f52a7301-bf23-49ea-82e1-772d394faa02/20241008T135619/f52a7301-bf23-49ea-82e1-772d394faa02_16x9.jpg) ![](https://media.tegna-media.com/assets/WMAZ/images/f52a7301-bf23-49ea-82e1-772d394faa02/20241008T135619/f52a7301-bf23-49ea-82e1-772d394faa02_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/can-scientists-control-the-weather-no/93-151b6797-0458-4804-8429-4fbfb74d21f6)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/d32bcf09-896b-4309-98d6-40a12962bf39/20241008T183839/d32bcf09-896b-4309-98d6-40a12962bf39_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d32bcf09-896b-4309-98d6-40a12962bf39/20241008T183839/d32bcf09-896b-4309-98d6-40a12962bf39_360x203.jpg)](https://www.wqad.com/article/news/nation-world/disney-world-universal-orlando-remain-open-milton/507-8c5cc895-d612-4a9d-a1ba-1621a3c77963)
         
-        #### [Control the path and power of hurricanes like Milton? Forget it, scientists say](https://www.wqad.com/article/weather/hurricane/can-scientists-control-the-weather-no/93-151b6797-0458-4804-8429-4fbfb74d21f6)
+        #### [Will Hurricane Milton force Disney World to close?](https://www.wqad.com/article/news/nation-world/disney-world-universal-orlando-remain-open-milton/507-8c5cc895-d612-4a9d-a1ba-1621a3c77963)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/fbd583a7-b8dc-4cd8-88db-cb1a882a6130/20241008T121812/fbd583a7-b8dc-4cd8-88db-cb1a882a6130_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fbd583a7-b8dc-4cd8-88db-cb1a882a6130/20241008T121812/fbd583a7-b8dc-4cd8-88db-cb1a882a6130_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/a7b0469d-0c4e-461b-af78-8816dff3fdd2/20241008T213707/a7b0469d-0c4e-461b-af78-8816dff3fdd2_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/a7b0469d-0c4e-461b-af78-8816dff3fdd2/20241008T213707/a7b0469d-0c4e-461b-af78-8816dff3fdd2_360x203.jpg)](https://www.wqad.com/article/news/nation-world/what-to-know-about-hurricane-milton/507-95375615-2486-4742-b6be-eb0a865f07aa)
         
-        #### [Sunny skies continue as we head back to the 80s](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [What to know about Hurricane Milton as it moves toward Florida's Gulf Coast](https://www.wqad.com/article/news/nation-world/what-to-know-about-hurricane-milton/507-95375615-2486-4742-b6be-eb0a865f07aa)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-68°
+70°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
