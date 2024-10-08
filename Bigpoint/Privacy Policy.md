@@ -3,8 +3,10 @@
 Data Privacy Information
 ========================
 
-Responsible body for this online offer
---------------------------------------
+Name and address of the data controller
+---------------------------------------
+
+As the data controller for data processing, we:
 
 Bigpoint GmbH
 
@@ -14,7 +16,9 @@ Sachsenstraße 20
 
 Germany
 
-[info@bigpoint.net](mailto:info@bigpoint.net) (no support)
+Email: [info@bigpoint.net](mailto:info@bigpoint.net) (no support)
+
+implement all the technical and organisational measures to ensure the protection of your data.
 
 Name and address of the data protection officer
 -----------------------------------------------
@@ -46,61 +50,106 @@ What is personal data?
 
 Personal data is any information relating to an identified or identifiable natural person (e.g. name, address, telephone number, date of birth or email address).
 
-Legal basis
------------
-
-We process personal data in accordance with the legal bases of the General Data Protection Regulation (GDPR). Please note that, in addition to the provisions of the GDPR, the national data protection requirements in your, or our country, of residence and domicile may also apply.
-
-Consent
-
-Insofar as we obtain your consent to process personal data, Article 6 para 1 (a) GDPR serves as the legal basis for the processing of such personal data.
-
-Contract fulfilment and pre-contractual enquiries
-
-Article 6 para (b) GDPR serves as the legal basis for processing personal data that is required to fulfil a contract to which the data subject is a party, or to carry out pre-contractual measures.
-
-Legal obligation
-
-Article 6 para 1 (c) GDPR serves as the legal basis insofar as the processing of personal data is necessary to fulfil a legal obligation to which our company is subject.
-
 Protection of vital interests
 
-Article 6 para 1 (d) GDPR serves as the legal basis should the vital interests of the data subject or another natural person require the processing of personal data.
+Art. 6, para 1 , lit. d GDPR serves as the legal basis should the vital interests of the data subject or another natural person require the processing of personal data.
 
-Legitimate interests
+What data do we collect?
+------------------------
 
-Article 6 para 1 (f) GDPR serves as the legal basis for processing should such processing be necessary to safeguard a legitimate interest of our company or a third party, and if the interests, fundamental rights and freedoms of the data subject do not outweigh the former interest. If the processing of personal data is based on our legitimate interest, this will be to enable us to conduct our business activities, in particular with respect to the well-being of our employees and the owners of the company.
+**Usage data that is automatically collected**
 
-Purposes of processing
-----------------------
+Usage data is automatically collected when you use our websites, forums and games; the information in these log files is automatically transmitted by your device.
 
-We collect personal data for various purposes as described in this Data Privacy Information; these include:
+The following data is collected when you visit a website:
 
-* To provide our Online Offer and to perform a contract in accordance with [our Terms of Use / General Terms and Conditions](https://legal.bigpoint.com/DE/terms-and-conditions/en-GB);
-* For contact requests and communication, in particular to provide help and support, and to send you relevant information regarding your contract;
-* For the use and payment of fee-based goods and services;
-* For our own and third-party advertising and market research to the extent permitted by law or based on your consent;
-* To send a newsletter subject to your consent;
-* To shape and improve our offer as required, partially in pseudonymised and/or anonymous form;
-* To prevent, investigate and report criminal offences, e.g. fraud, e.g. credit card misuse, identity fraud;
-* To assert legal claims, including debt collection and defence in legal disputes;
-* To fulfil legal obligations, and, in particular, to ensure compliance with retention obligations.
+* IP address of the computer from which the website was accessed
+* Date, time, duration and frequency of use
+* Name of the websites used
+* Volume of data transferred
+* Operating system and browser name and version
+* URL from which you were directed to our site (origin URL)
+* Access status (request successful, file not found, etc.)
 
-If you have used our games for an extended period of time, we would like to inform you that we also use data from our predecessor company, Bigpoint S.à.r.l. Co, SCS, 10A rue Henri M. Schnadt, L-2530 Luxembourg. This refers to master data that we require to continue offering games without interruption. This data refers in particular to game progress, game scores and information regarding the use of and payment for services.
+The following data is collected when you open an app:
 
-Cookies and the collection of log files
----------------------------------------
+* IP address of the device from which the app was accessed
+* Date, time, duration and frequency of use
+* Device type, screen resolution, screen size and pixel density
+* Store ID
+* Volume of data transferred
+* Operating system and app name and version
+* Access status (request successful, file not found, etc.)
 
-Bigpoint collects the following personal information within the context of the use of our websites, forums and games:
+**Contact requests**
 
-* IP addresses, including the time and date;
-* Statistical information including the browser type, operating system, redirecting URL, date, time, pages used, total time of use, frequency of use.
+You can send us a message using the contact form on our website, by email or via the support requests for our games. The name, postal address, email address, user ID, IP address (if using the contact form), date and time and the content of the message will be processed if such data is included in your message.
 
-This data is used for statistical analyses of anonymous data records only, and not for personal use.
+**Game forums**
 
-IP addresses and the corresponding Internet information are saved for a period of a maximum of six months within the scope of our legal obligations regarding data retention. Data may also be retained for data security purposes to ensure the stability and reliability of our system. In certain circumstances Bigpoint may also use your IP address and the corresponding Internet information to track and prevent the use of multiple accounts for fraudulent purposes.
+We provide forums for our games on which players can exchange ideas, find help with the games and ask questions. The following data is processed when you use a forum: the username, email address, password, date of registration, possibly a profile picture and the content of the forum posts.
 
-Cookies and similar technologies
+**Newsletters**
+
+We send newsletters to inform you about our games and game innovations. We process the email address, user ID and information regarding when and from which IP address the newsletter was opened from players who have consented to receive them.
+
+**Use of our game offers**
+
+When you use our games, the login data (username, user ID, password), game progress, game statistics and game usage, communication data (for in-game messages or use of the chat function) and, if paid services are used in the game or paid items are purchased, payment data (credit card information, bank details, PayPal data, etc.) are processed in addition to the usage data that is automatically collected (see above),
+
+If you have been a user of our games for a long time, please note that we also use data from our predecessor company, Bigpoint S.à.r.l. & Co, SCS, 10A rue Henri M. Schnadt, L-2530 Luxembourg. This is the inventory data we require to enable us to continue providing our games to you without interruption (this applies in particular to game progress, game scores and information about the purchase and billing of services).
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+For what purpose do we use your data and what is the legal basis for such use?
+------------------------------------------------------------------------------
+
+**Automatically collected usage data**
+
+We collect usage data to ensure the functionality of our websites, forums and games.
+
+Should any suspicion arise of a breach of the terms of use, we store the IP address and relevant Internet information to trace and clarify any misuse of player accounts.
+
+The legal basis for this data processing is a balancing of interests in accordance with Art. 6, para 1, lit. f GDPR. We have a legitimate interest with respect to the secure provision of our websites, forums and games and in the economic analysis and operation of this service.
+
+**Contact requests**
+
+Personal data is processed to enable us to respond to your request.
+
+The legal basis for this data processing is a legitimate interest in accordance with Art. 6, para 1, lit. f GDPR. We have a legitimate interest in responding to your request and in fulfilling your legitimate interest in receiving a response to your request.
+
+**Game forums**
+
+The data in the gaming forums is processed to make the forums available to you and to identify the users of the forum.
+
+The legal basis for processing forum registration data is the performance of the contract in accordance with Art. 6, para 1, lit. b GDPR. The legal basis for processing and storing forum posts is a legitimate interest in accordance with Art. 6, para 1, lit. f GDPR. We have a legitimate interest in retaining the information collected in the forums for the users of our games.
+
+**Newsletters**
+
+We send newsletters to inform you about our games. The data collected in addition to the email address is processed to analyse the sending of newsletters.
+
+The legal basis for sending the newsletter is your consent in accordance with Art. 6, para 1, lit. a GDPR. The legal basis for further processing is our legitimate interest in providing the optimal information about our games (Art. 6, para 1, lit. f GDPR). Should you unsubscribe from the newsletter, we will save this to ensure you do not receive it in future. The legal basis for this is our legitimate interest in ensuring that the processing complies with data protection regulations in accordance with Art. 6, para 1, lit. f GDPR.
+
+**Use of our game offers**
+
+When you use our games, we process data to ensure the functionality of the games, to manage game scores, correct any errors or malfunctions, prevent fraud and abuse and to improve the gaming experience. We also use the data to assert legal claims and to defend ourselves in legal disputes as well as for self-promotion and third-party advertising. In the event of late payments, we reserve the right to authorise a debt collection agency to enforce our claims.
+
+The legal basis for the processing of data to use our games and to assert claims is the performance of the contract in accordance with Art. 6, para 1, lit. b GDPR. The legal basis for data we process to improve our games or to prevent fraud is our legitimate interest in improving our games (Art. 6, para 1, lit. f GDPR). The legal basis for self-promotion and third-party advertising is your consent in accordance with Art. 6, para 1, lit. a GDPR or, to the extent permitted by law, our legitimate interest in providing information about our games (Art. 6, para 1, lit. f GDPR).
+
+**Protection of vital interests**
+
+Art. 6, para 1, lit. d GDPR serves as the legal basis should the vital interests of the data subject or another natural person require the processing of personal data.
+
+**Prevention of criminal activity**
+
+Data processing is carried out to prevent, investigate and report criminal offences, e.g. fraud, credit card misuse, or identity fraud on the legal basis of our legitimate interest in the secure provision of our games (Art. 6, para 1, lit. f GDPR).
+
+**Fulfilment of our legal obligations**
+
+In cases where we are under a legal obligation to disclose data, e.g. to law enforcement authorities, or where we have to fulfil statutory retention periods, data processing is carried out on the legal basis of Art. 6, para 1, lit. c GDPR.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Cookies
+-------
 
 We and our partners use cookies and similar technologies that fulfil the same functions as cookies (“Cookies”) in our Online Offer, among others to improve our Online Offer, to improve the user experience and to carry out personalised online advertising. Cookies are small text files that contain data from websites visited, e.g. the language settings on a website or the login status. Cookies are stored on your device by the browser you are using for their respective lifetime. Some Cookies are automatically deleted after the browser session has ended (“session” Cookies), while others are stored for a specified time or permanently in the user's browser and delete themselves automatically after the specified time has elapsed (“temporary” or “permanent” Cookies).
 
@@ -115,12 +164,18 @@ In addition, please note that objections to the use of Cookies are sometimes imp
 Data transfer and service providers
 -----------------------------------
 
-We will treat your data as strictly confidential and will not disclose it to third parties without your consent or unless we are legally permitted to do so. We may, in individual cases, be legally obliged to disclose your information, for example to investigating authorities, whereby disclosure will only take place to the extent required by law. We use the companies affiliated with the Bigpoint Group and/or third parties to provide services on our behalf. This is mainly for payment transactions by external service providers (PayPal, Global Collect, etc.) and, in the event of default, by a debt collection company. Moreover, we provide your data to affiliated companies of the Bigpoint Group for marketing purposes and to further develop and improve our games. These affiliated companies of the Bigpoint Group and external companies are under an obligation to handle your data confidentially and securely and may only use your data insofar as it is required for completing the task they have been assigned. Service providers are generally involved as processors who are only authorised to process the personal data of users of this Online Offer in accordance with our explicit instructions.
+We will treat your data as strictly confidential and will not disclose it to third parties without your consent or unless we are legally permitted to do so. We may, in individual cases, be legally obliged to disclose your information, for example to investigating authorities, whereby disclosure will only take place to the extent required by law. We use the companies affiliated with the Bigpoint Group and/or third parties to provide services on our behalf. This is mainly for payment transactions by external service providers (PayPal, Global Collect, etc.) and, in the event of default, by a debt collection company.
+
+We store your personal data in cloud systems to ensure the secure and efficient management of the data. We use the Alicloud cloud service operated by Alibaba Cloud. The servers on which your data is stored are located within the European Union, which ensures that your data is subject to the strict requirements of the GDPR and processed within the EU. The data collected from users of our game servers in North America is stored on a server in the United States of America.
+
+Moreover, we provide your data to affiliated companies of the Bigpoint Group for marketing purposes and to further develop and improve our games. These affiliated companies of the Bigpoint Group and external companies are under an obligation to handle your data confidentially and securely and may only use your data insofar as it is required for completing the task they have been assigned. Service providers are generally involved as processors who are only authorised to process the personal data of users of this Online Offer in accordance with our explicit instructions.
 
 Period of storage/retention periods
 -----------------------------------
 
 We store your data for as long as this is necessary for the provision of our Online Offer and the associated services, or if we have a legitimate interest in the further retention of such. In all other cases, we will delete your personal information except for data we may be required to retain in accordance with the contractual or statutory requirements (e.g. tax or commercial purposes, invoices, etc.). Contractual retention periods may also arise from contracts with third parties (e.g. owners of copyrights and ancillary copyrights). We will block any data that is subject to a retention period until the expiry of the relevant period.
+
+We generally store IP addresses and relevant Internet information for a period of up to six months. Should the stability and operational reliability of our system be compromised, or should a suspicion arise, for example, of a breach of the games rules through the use of bots, we will store the respective log files for as long as necessary to ensure the security of the system or to clarify any suspected fraud.
 
 Game information and partner offers
 -----------------------------------
@@ -130,7 +185,7 @@ When you check the box next to “Game information and partner offers”, you ar
 Surveys
 -------
 
-We carry out satisfaction surveys to improve our Online Offer. We therefore collect and process your data as stated in the declaration of consent or the surveys. The legal basis for the processing of this data is your consent in accordance with Article 6 para 1 (a) GDPR. You can withdraw your consent to the processing of your data at any time, e.g. via our contact form (www.bigpoint.net/support/). We use the services of LimeSurvey GmbH, Papenreye 63, 22453 Hamburg ("LimeSurvey") to conduct the surveys. We have concluded a data processing agreement with LimeSurvey in accordance with Article 28 GDPR. The data collected from the surveys is stored on LimeSurvey servers at Host Europe GmbH in Germany.
+We carry out satisfaction surveys to improve our Online Offer. We therefore collect and process your data as stated in the declaration of consent or the surveys. The legal basis for the processing of this data is your consent in accordance with Art. 6, para 1, lit. a GDPR. You can withdraw your consent to the processing of your data at any time, e.g. via our contact form (www.bigpoint.net/support/). We use the services of LimeSurvey GmbH, Papenreye 63, 22453 Hamburg ("LimeSurvey") to conduct the surveys. We have concluded a data processing agreement with LimeSurvey in accordance with Art. 28 GDPR. The data collected from the surveys is stored on LimeSurvey servers at Host Europe GmbH in Germany.
 
 Google Analytics
 ----------------
@@ -180,7 +235,7 @@ If you conclude a contract on our website that involves a fee, or if the conclus
 
 The risk evaluation is used, not exclusively, as a basis for deciding whether a contract for pecuniary interest can be concluded.
 
-Should we detect that a user is abusing, or has attempted to abuse, our services, we shall also transmit the data collected to the IT security provider. In this process, however, only device-specific data, and no personal data, shall be transmitted.
+Should we detect that a user is abusing, or has attempted to abuse, our services, we shall also transmit the data collected to the IT security provider.
 
 Right of revocation, deletion of data
 -------------------------------------
@@ -211,4 +266,4 @@ We would ask you to keep regularly informed regarding the content of this Data P
 
 If we provide addresses and contact information of companies and organisations in this Data Privacy Information, please note that the addresses may change over time, so please check the information before contacting us.
 
-Version date: 04/09/2024
+Version date: 30/09/2024
