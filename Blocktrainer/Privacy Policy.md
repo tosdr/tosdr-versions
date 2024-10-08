@@ -592,7 +592,7 @@ Kopieren
 
 [](#)
 
-[![Blocktrainer Prime Days](/fileadmin/_processed_/2/f/csm_Blocktrainer_Prime_Days_390x615px_ef90eee37d.jpg)](https://www.blocktrainer.de/shop)
+[![BitBox Swiss](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_7f33fe5e4a.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
 
 **Privatsphäre-Einstellungen**
 
