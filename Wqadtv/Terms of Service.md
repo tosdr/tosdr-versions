@@ -30,15 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/eb261f62-c0fe-459c-a9fe-d3912d8853af/20241007T192341/eb261f62-c0fe-459c-a9fe-d3912d8853af_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eb261f62-c0fe-459c-a9fe-d3912d8853af/20241007T192341/eb261f62-c0fe-459c-a9fe-d3912d8853af_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/women-in-history-tea-victorian-funeral-burial-mourning-event-tickets-buffalo-bill-musuem/526-3208db80-4327-4b99-b00c-9d6956ab2242)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/c392c701-bdbe-403f-8a32-b1ca872873ed/20241007T131500/c392c701-bdbe-403f-8a32-b1ca872873ed_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/c392c701-bdbe-403f-8a32-b1ca872873ed/20241007T131500/c392c701-bdbe-403f-8a32-b1ca872873ed_360x203.jpg)](https://www.wqad.com/article/news/nation-world/israel-hamas-conflict/israel-hamas-war-one-year-mark-quad-cities-reflect-protest/526-2c270778-6a3e-4ef2-9cd0-95fdefaff2ea)
         
-        #### ['Beyond the Veil' | Learn about Victorian-era funeral practices at this afternoon tea party](https://www.wqad.com/article/news/local/the-current/women-in-history-tea-victorian-funeral-burial-mourning-event-tickets-buffalo-bill-musuem/526-3208db80-4327-4b99-b00c-9d6956ab2242)
+        #### [Quad Citizens on both sides of the conflict reflect on 1 year mark of Israel-Hamas War](https://www.wqad.com/article/news/nation-world/israel-hamas-conflict/israel-hamas-war-one-year-mark-quad-cities-reflect-protest/526-2c270778-6a3e-4ef2-9cd0-95fdefaff2ea)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_360x203.jpg)](https://www.wqad.com/article/news/local/3-juveniles-killed-clinton-county-crash/526-ecd48f8f-7cf5-4064-b7dc-2dfe7a6f4f6e)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a9ea5fac-0b95-4fef-b347-54dfe794f672/20241007T180004/a9ea5fac-0b95-4fef-b347-54dfe794f672_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a9ea5fac-0b95-4fef-b347-54dfe794f672/20241007T180004/a9ea5fac-0b95-4fef-b347-54dfe794f672_360x203.jpg)](https://www.wqad.com/article/life/people/hard-work-determination/hennepin-hundred-ultramarathon-race-illinois-sterling-colona/526-8404d93a-2e43-4e34-8e4e-093afbeb02d0)
         
-        #### [3 children killed in Clinton County crash](https://www.wqad.com/article/news/local/3-juveniles-killed-clinton-county-crash/526-ecd48f8f-7cf5-4064-b7dc-2dfe7a6f4f6e) [![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d97e090b-67ae-476c-ba49-2f6c11107f16/d97e090b-67ae-476c-ba49-2f6c11107f16_360x203.jpg)](https://www.wqad.com/article/news/local/3-juveniles-killed-clinton-county-crash/526-ecd48f8f-7cf5-4064-b7dc-2dfe7a6f4f6e)
+        #### [Hundreds of runners compete in Illinois' only point-to-point, all-trail ultramarathon](https://www.wqad.com/article/life/people/hard-work-determination/hennepin-hundred-ultramarathon-race-illinois-sterling-colona/526-8404d93a-2e43-4e34-8e4e-093afbeb02d0)
         
-        #### [Clinton County crash kills 3 children](https://www.wqad.com/article/news/local/3-juveniles-killed-clinton-county-crash/526-ecd48f8f-7cf5-4064-b7dc-2dfe7a6f4f6e)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -57,13 +56,14 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WXIA/images/ddaf299d-9ed7-4bd5-86de-5957e4285741/20241007T100409/ddaf299d-9ed7-4bd5-86de-5957e4285741_16x9.jpg) ![](https://media.tegna-media.com/assets/WXIA/images/ddaf299d-9ed7-4bd5-86de-5957e4285741/20241007T100409/ddaf299d-9ed7-4bd5-86de-5957e4285741_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/florida-milton-evacuations-gema-recommends-atlanta-macon-columbus-albany/85-18f17455-0cbf-4629-87df-aa10689959dc)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/303001c4-8e37-4a1c-9701-a94080a6fba2/20241008T030259/303001c4-8e37-4a1c-9701-a94080a6fba2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/303001c4-8e37-4a1c-9701-a94080a6fba2/20241008T030259/303001c4-8e37-4a1c-9701-a94080a6fba2_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-milton/former-coal-valley-resident-preparing-hurricane-milton/526-cfc63e87-cf97-4cae-8b05-b9fafd219187)
         
-        #### [Florida evacuees advised to head to south Georgia still recovering from Helene](https://www.wqad.com/article/weather/hurricane/florida-milton-evacuations-gema-recommends-atlanta-macon-columbus-albany/85-18f17455-0cbf-4629-87df-aa10689959dc)
+        #### [Former Coal Valley resident preparing for Hurricane Milton](https://www.wqad.com/article/weather/hurricane/hurricane-milton/former-coal-valley-resident-preparing-hurricane-milton/526-cfc63e87-cf97-4cae-8b05-b9fafd219187) [![](https://media.tegna-media.com/assets/WQAD/images/303001c4-8e37-4a1c-9701-a94080a6fba2/20241008T030259/303001c4-8e37-4a1c-9701-a94080a6fba2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/303001c4-8e37-4a1c-9701-a94080a6fba2/20241008T030259/303001c4-8e37-4a1c-9701-a94080a6fba2_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-milton/former-coal-valley-resident-preparing-hurricane-milton/526-cfc63e87-cf97-4cae-8b05-b9fafd219187)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/dab5334e-ae98-4e6b-9f93-7f8bcfb00052/20241007T111339/dab5334e-ae98-4e6b-9f93-7f8bcfb00052_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/dab5334e-ae98-4e6b-9f93-7f8bcfb00052/20241007T111339/dab5334e-ae98-4e6b-9f93-7f8bcfb00052_360x203.jpg)](https://www.wqad.com/article/news/nation-world/milton-strengthens-into-a-category-3-hurricane/507-ce842603-5ed0-427b-b25e-8abe8f1b81bc)
+        #### [Hurricane Milton preparations from a former Coal Valley resident](https://www.wqad.com/article/weather/hurricane/hurricane-milton/former-coal-valley-resident-preparing-hurricane-milton/526-cfc63e87-cf97-4cae-8b05-b9fafd219187)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/6416c5b4-13a1-4472-8bf3-609f5962b2f3/20241007T230143/6416c5b4-13a1-4472-8bf3-609f5962b2f3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6416c5b4-13a1-4472-8bf3-609f5962b2f3/20241007T230143/6416c5b4-13a1-4472-8bf3-609f5962b2f3_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Hurricane Milton is a Category 5. Florida orders evacuations and scrambles to clear Helene's debris](https://www.wqad.com/article/news/nation-world/milton-strengthens-into-a-category-3-hurricane/507-ce842603-5ed0-427b-b25e-8abe8f1b81bc)
+        #### [Ample sunshine ahead with dry skies and warmer temperatures](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -87,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-66°
+47°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
