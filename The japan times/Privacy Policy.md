@@ -31,7 +31,7 @@ Subscribe
  ![Search](/theme_japantimes/images/search_icon.svg)
 
 * [Shigeru Ishiba](https://www.japantimes.co.jp/tag/shigeru-ishiba/ "Shigeru Ishiba")
-* [Yen](https://www.japantimes.co.jp/tag/yen/ "Yen")
+* [MLB Playoffs](https://www.japantimes.co.jp/tag/mlb/ "MLB Playoffs")
 * [Middle East conflict](https://www.japantimes.co.jp/tag/middle-east/ "Middle East conflict")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
@@ -522,9 +522,9 @@ By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ 
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,19 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan's new internal affairs minister looks to boost regional revitalization](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/internal-affairs-minister-interview/ "Japan's new internal affairs minister looks to boost regional revitalization")
+[U.S. investigating whether Chinese hackers breached its telecoms](https://www.japantimes.co.jp/news/2024/10/08/world/crime-legal/nsa-chinese-hackers-us-telecoms/ "U.S. investigating whether Chinese hackers breached its telecoms")
 
-10 hours ago
+24 mins ago
 
-[Japan's party leaders' debate to be extended to 80 minutes](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/party-leaders-debate-extension/ "Japan's party leaders' debate to be extended to 80 minutes")
+[LDP linchpin Moriyama has big influence over Ishiba](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-ldp-moriyama-influence/ "LDP linchpin Moriyama has big influence over Ishiba")
 
-11 hours ago
+46 mins ago
 
-[U.S. pair wins Nobel in medicine for discovery of microRNA](https://www.japantimes.co.jp/news/2024/10/07/world/science-health/nobel-prize-medicine-2024/ "U.S. pair wins Nobel in medicine for discovery of microRNA")
+[Six countries conduct naval drills off the Philippines amid China tensions](https://www.japantimes.co.jp/news/2024/10/08/asia-pacific/politics/philippines-naval-drills-regional-tensions/ "Six countries conduct naval drills off the Philippines amid China tensions")
 
-[Ishiba fends off questions on endorsement of scandal-tainted LDP members](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/ishiba-parliament-questions/ "Ishiba fends off questions on endorsement of scandal-tainted LDP members")
+47 mins ago
 
-[Japan's new finance minister vows to finish the job as deflation czar](https://www.japantimes.co.jp/business/2024/10/07/economy/new-finance-minister-kato/ "Japan's new finance minister vows to finish the job as deflation czar")
+[Southeast Asian crime networks thriving on Telegram, U.N. reports](https://www.japantimes.co.jp/news/2024/10/08/asia-pacific/crime-legal/southeast-asia-telegram-underground-un/ "Southeast Asian crime networks thriving on Telegram, U.N. reports")
+
+1 hours ago
+
+[Israel fights on multiple fronts one year into war with Hamas began](https://www.japantimes.co.jp/news/2024/10/08/world/israel-war-hamas-year/ "Israel fights on multiple fronts one year into war with Hamas began")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
