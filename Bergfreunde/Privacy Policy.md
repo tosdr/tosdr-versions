@@ -2,9 +2,9 @@
 
 ### Neu?
 
-![Bergfreund Hannes](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannes.png)
+![Bergfreund Max](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-max.png)
 
-Bergfreund Hannes
+Bergfreund Max
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -1005,7 +1005,7 @@ Rechtsgrundlage für den Einsatz der Marketing-Cookies und die Verarbeitung Ihre
 
 #### 4.2.5 Einsatz von Google Ads mit Remarketing und Conversion Tracking
 
-(1) Wir nutzen das Angebot Google Ads, um mit Hilfe von Werbeanzeigen auf unsere Angebote aufmerksam zu machen. Sofern Sie über eine Google-Anzeige auf unsere Website gelangen, wird von Google Ads ein Cookie in ihrem Endgerät gespeichert. Wenn sie uns ihre ausdrückliche Einwilligung erteilt haben, übermitteln wir ihre pseudonymisierte E-Mail-Adresse in einer Liste an Google, um Google Ads zu nutzen (“Customer Match”).
+(1) Wir nutzen das Angebot Google Ads, um mit Hilfe von Werbeanzeigen auf unsere Angebote aufmerksam zu machen. Sofern Sie über eine Google-Anzeige auf unsere Website gelangen, wird von Google Ads ein Cookie in ihrem Endgerät gespeichert. Wenn sie uns ihre ausdrückliche Einwilligung erteilt haben, übermitteln wir ihre pseudonymisierte E-Mail-Adresse in einer Liste an Google, um Google Ads zu nutzen (“Customer Match”) und um Ihre Interaktionen mit unserer Webseite sowie die Leistung unserer Angebote und Werbekampagnen zu messen und zu verbessern („Enhanced Conversions).
 
 (2) Die Werbemittel werden durch Google über sog. "Ad Server" ausgeliefert. Dazu nutzen wir und andere Webseiten sog. Ad Server-Cookies, durch die bestimmte Parameter zur Erfolgsmessung, wie Einblendung der Anzeigen oder Klicks durch die Nutzer, gemessen werden können. Über die auf unserer Website gespeicherten Google Ads-Cookies können wir Informationen über den Erfolg unserer Werbekampagnen erhalten. Diese Cookies sollen nicht dazu dienen, Sie persönlich zu identifizieren. Zu diesem Cookie werden in der Regel als Analyse-Werte die Unique Cookie-ID, Anzahl Ad Impressions pro Platzierung (Frequency), letzte Impression (relevant für Post-View-Conversions) sowie Opt-out-Informationen (Markierung, dass ein Nutzer nicht mehr angesprochen werden möchte) gespeichert.
 
@@ -1140,9 +1140,9 @@ Von Zeit zu Zeit ist es erforderlich, den Inhalt der vorliegenden Datenschutzhin
 
 Stand: Juli 2024
 
-![Bergfreundin Johanna - Nachhaltigkeitsmanagement](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johanna.png) Bergfreundin Johanna - Nachhaltigkeitsmanagement
+![Bergfreundin Lisa - Versand](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-lisa.png) Bergfreundin Lisa - Versand
 
-"Ich suche nach kleinen und großen Ideen, wie die Bergfreunde nachhaltiger werden können."
+"Wir geben alles, damit Dein Paket schnell bei Dir ankommt."
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -1150,11 +1150,11 @@ Stand: Juli 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43798 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43837 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.798 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.837 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
