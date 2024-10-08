@@ -1,4 +1,12 @@
-[SKIP TO MAIN CONTENT](#skipToMain)
+##### ONLINE PAYMENT CENTER
+
+×
+
+To make a loan payment, [**click here**](https://lafcu.messagepay.com/payment/accountlookup) then enter the requested information to make a one-time or recurring payment 24/7 from an account at another financial institution.
+
+Close
+
+                                                       [SKIP TO MAIN CONTENT](#skipToMain)
 
 We use cookies on our site to provide the optimum user experience. By using this website, you agree to the use of cookies on this site. [Read our privacy policy.](https://www.lafcu.org/privacypolicies)
 
