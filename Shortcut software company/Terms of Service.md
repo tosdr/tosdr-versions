@@ -108,11 +108,11 @@ Our Customer Stories
 
 [view all](https://shortcut.com/customer-stories)
 
-[![](https://cdn.prod.website-files.com/63733a0d32d0fd026c7b1ab1/63ce6a86a58b732562434839_62842706-0-ThirtyMadision-Short.png)
+[![](https://cdn.prod.website-files.com/63733a0d32d0fd026c7b1ab1/63ce6a86a58b732562434839_62842706-0-ThirtyMadision-Short.avif)
 
 How Thirty Madison scaled with Shortcut during explosive growth](https://shortcut.com/customer-stories/thirty-madison)
 
-[![](https://cdn.prod.website-files.com/63733a0d32d0fd026c7b1ab1/63d188f8130ea420378a3edc_dataiku.png)
+[![](https://cdn.prod.website-files.com/63733a0d32d0fd026c7b1ab1/63d188f8130ea420378a3edc_dataiku.avif)
 
 Dataiku uses Shortcut to greatly improve product prioritization and cross-team collaboration](https://shortcut.com/customer-stories/dataiku)
 
