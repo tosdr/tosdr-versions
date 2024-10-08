@@ -390,23 +390,23 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Express Your Feelings](https://www.wikihow.com/images/thumb/c/c8/Express-Your-Feelings-Step-17-Version-2.jpg/-crop-126-120-126px-Express-Your-Feelings-Step-17-Version-2.jpg)
+
+How to  
+Express Your Feelings](https://www.wikihow.com/Express-Your-Feelings)
+
+[![What Generation Am I Quiz](https://www.wikihow.com/images/thumb/1/17/What_generation_quiz_1.png/-crop-126-120-126px-What_generation_quiz_1.png)
+
+What Generation Do I Really Belong In Quiz](https://www.wikihow.com/What-Generation-Am-I-Quiz)
+
+[![Improve Your Life](https://www.wikihow.com/images/thumb/8/86/Improve-Your-Life-Step-21-Version-3.jpg/-crop-126-120-126px-Improve-Your-Life-Step-21-Version-3.jpg)
+
+21 Ways to Make Your Life Better Starting Today](https://www.wikihow.com/Improve-Your-Life)
+
 [![Save Money as a Kid](https://www.wikihow.com/images/thumb/e/ec/Save-Money-as-a-Kid-Step-17-Version-2.jpg/-crop-126-120-126px-Save-Money-as-a-Kid-Step-17-Version-2.jpg)
 
 How to  
 Save Money as a Kid](https://www.wikihow.com/Save-Money-as-a-Kid)
-
-[![Play 10000](https://www.wikihow.com/images/thumb/b/b3/Play-10000-Step-13-Version-4.jpg/-crop-126-120-126px-Play-10000-Step-13-Version-4.jpg)
-
-10,000: Complete Rules and Strategy Guide](https://www.wikihow.com/Play-10000)
-
-[![Make Chocolate](https://www.wikihow.com/images/thumb/b/b7/Make-Chocolate-Step-13-Version-6.jpg/-crop-126-120-126px-Make-Chocolate-Step-13-Version-6.jpg)
-
-Making Chocolate at Home: 2 Simple Recipes](https://www.wikihow.com/Make-Chocolate)
-
-[![Know if Your Friend Is Really a Friend](https://www.wikihow.com/images/thumb/8/88/Know-if-Your-Friend-Is-Really-a-Friend-Step-12.jpg/-crop-126-120-126px-Know-if-Your-Friend-Is-Really-a-Friend-Step-12.jpg)
-
-How to  
-Know if Your Friend Is Really a Friend](https://www.wikihow.com/Know-if-Your-Friend-Is-Really-a-Friend)
 
   
 
@@ -449,4 +449,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-215
+177
