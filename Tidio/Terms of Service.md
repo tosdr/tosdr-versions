@@ -274,7 +274,7 @@ Grow faster with done-for-you automation, tailored optimization strategies, and 
 
 [Contact Sales](https://www.tidio.com/contact-sales/?hs_track=navbar)
 
-[Pricing](https://www.tidio.com/pricing/customer-service/ "Pricing")
+[Pricing](https://www.tidio.com/pricing/ "Pricing")
 
 [Ecommerce](https://www.tidio.com/industry/ecommerce/ "Ecommerce")
 
@@ -1048,7 +1048,7 @@ Tidio
 
 Product
 
-* [Pricing](https://www.tidio.com/pricing/customer-service/ "Pricing")
+* [Pricing](https://www.tidio.com/pricing/ "Pricing")
 * [Lyro AI Chatbot](https://www.tidio.com/chatbot-ai/ "Lyro AI Chatbot")
 * [Live Chat](https://www.tidio.com/live-chat/ "Live Chat")
 * [Flows](https://www.tidio.com/flows/ "Flows")
@@ -1092,7 +1092,7 @@ Help Center
 
 [Contact sales](https://www.tidio.com/contact-sales/)
 
-[Pricing](https://www.tidio.com/pricing/customer-service/)
+[Pricing](https://www.tidio.com/pricing/)
 
 ★★★★★
 
