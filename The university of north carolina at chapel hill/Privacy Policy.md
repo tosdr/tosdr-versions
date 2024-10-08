@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/HeleneResponse-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/Latinx-Heritage-Month-Keynote-Speaker-250x141.png)
     
-    How to help communities affected by Hurricane Helene](https://www.unc.edu/posts/2024/10/06/how-to-help-communities-affected-by-hurricane-helene/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/JonasLaukoter_Hero_v1-250x141.png)
+    Acclaimed author to give Latinx Heritage Month keynote](https://www.unc.edu/posts/2024/10/07/acclaimed-author-to-give-latinx-heritage-month-keynote/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/UDayPreview-250x141.jpg)
     
-    Meet Jonas Laukoter, writer](https://www.unc.edu/posts/2024/10/04/meet-jonas-laukoter-writer/)
+    Traditions abound for University Day celebration](https://www.unc.edu/posts/2024/10/07/traditions-abound-for-university-day-celebration/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=b34da57957&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=b5626f7ced&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
