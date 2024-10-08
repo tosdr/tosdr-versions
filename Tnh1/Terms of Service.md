@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Vídeo: fiação de poste pega fogo e assusta população na Avenida Gustavo Paiva](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/0/csm_incendio_fiacao_gustavo_paiva_-_foto_reproducao_7a2a80b741.jpg)
+   [![Prefeitura faz alerta após homem pular em fonte e se estabanar no Parque Centenário](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/c/csm_Prefeitura_alerta_apos_homem_pular_e_se_estabanar_em_fonte_no_Parque_Centenario_-_foto_Reproducao_Redes_sociais_2a99f61efa.jpeg)
 
-Mangabeiras
+mau uso viralizou
 
-Vídeo: fiação de poste pega fogo e assusta população na Avenida Gustavo Paiva](https://www.tnh1.com.br/noticia/nid/video-fiacao-de-poste-pega-fogo-e-assusta-populacao-na-avenida-gustavo-paiva/ "Vídeo: fiação de poste pega fogo e assusta população na Avenida Gustavo Paiva")   [![Incêndio atinge casa desocupada no Pinheiro e mobiliza quase 20 bombeiros militares](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_incendio_pinheiro_-_foto_reproducao_f89348b948.jpg)
-
-Médias proporções
-
-Incêndio atinge casa desocupada no Pinheiro e mobiliza quase 20 bombeiros militares](https://www.tnh1.com.br/noticia/nid/incendio-atinge-casa-desocupada-no-pinheiro-e-mobiliza-quase-20-bombeiros-militares/ "Incêndio atinge casa desocupada no Pinheiro e mobiliza quase 20 bombeiros militares")   [![Vídeo: motorista tenta descer com carro em escadaria e veículo fica preso, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/f/csm_carro-fica-preso-escadaria_625820dc90.jpg)
-
-Durante madrugada
-
-Vídeo: motorista tenta descer com carro em escadaria e veículo fica preso, em Maceió](https://www.tnh1.com.br/noticia/nid/video-motorista-tenta-descer-com-carro-em-escadaria-e-veiculo-fica-preso-em-maceio/ "Vídeo: motorista tenta descer com carro em escadaria e veículo fica preso, em Maceió")   [![Prefeitura notifica Governo e interdita torres de videomonitoramento em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/a/csm_interdicao_totens_seguranca_publica_-_foto_prefeitura_maceio_6d8868b7cb.jpeg)
-
-Impasse
-
-Prefeitura notifica Governo e interdita torres de videomonitoramento em Maceió](https://www.tnh1.com.br/noticia/nid/prefeitura-notifica-governo-e-interdita-torres-de-videomonitoramento-em-maceio/ "Prefeitura notifica Governo e interdita torres de videomonitoramento em Maceió")   [![Profissionais elaboram dossiê sobre imóveis históricos do Bebedouro, Mutange e Bom Parto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_Profissionais_elaboram_dossie_sobre_imoveis_historicos_do_Bebedouro__Mutange_e_Bom_Parto_-_foto_-_Philipe_Medeiros_-_Braskem_f175702ff1.jpeg)
+Prefeitura faz alerta após homem pular em fonte e se estabanar no Parque Centenário](https://www.tnh1.com.br/noticia/nid/prefeitura-faz-alerta-apos-homem-pular-em-fonte-e-se-estabanar-no-parque-centenario/ "Prefeitura faz alerta após homem pular em fonte e se estabanar no Parque Centenário")   [![SMS descarta surto de meningite em supermercado no Trapiche](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/b/csm_reuniao_mix_saude_56bdb19f79.png)
 
 Maceió
 
-Profissionais elaboram dossiê sobre imóveis históricos do Bebedouro, Mutange e Bom Parto](https://www.tnh1.com.br/noticia/nid/profissionais-elaboram-dossie-sobre-imoveis-historicos-do-bebedouro-mutange-e-bom-parto/ "Profissionais elaboram dossiê sobre imóveis históricos do Bebedouro, Mutange e Bom Parto")   [![Manutenção deixa 20 bairros de Maceió sem água a partir desta terça (08); confira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/b/csm_falta_agua_agencia_4ec04de760.png)
+SMS descarta surto de meningite em supermercado no Trapiche](https://www.tnh1.com.br/noticia/nid/sms-descarta-surto-de-meningite-em-supermercado-no-trapiche/ "SMS descarta surto de meningite em supermercado no Trapiche")   [![Vídeo: fiação de poste pega fogo e assusta população na Avenida Gustavo Paiva](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/0/csm_incendio_fiacao_gustavo_paiva_-_foto_reproducao_7a2a80b741.jpg)
 
-temporariamente
+Mangabeiras
 
-Manutenção deixa 20 bairros de Maceió sem água a partir desta terça (08); confira](https://www.tnh1.com.br/noticia/nid/manutencao-deixa-20-bairros-de-maceio-sem-agua-a-partir-desta-terca-08-confira/ "Manutenção deixa 20 bairros de Maceió sem água a partir desta terça (08); confira")
+Vídeo: fiação de poste pega fogo e assusta população na Avenida Gustavo Paiva](https://www.tnh1.com.br/noticia/nid/video-fiacao-de-poste-pega-fogo-e-assusta-populacao-na-avenida-gustavo-paiva/ "Vídeo: fiação de poste pega fogo e assusta população na Avenida Gustavo Paiva")   [![Incêndio atinge casa desocupada no Pinheiro e mobiliza quase 20 bombeiros militares](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_incendio_pinheiro_-_foto_reproducao_f89348b948.jpg)
+
+Médias proporções
+
+Incêndio atinge casa desocupada no Pinheiro e mobiliza quase 20 bombeiros militares](https://www.tnh1.com.br/noticia/nid/incendio-atinge-casa-desocupada-no-pinheiro-e-mobiliza-quase-20-bombeiros-militares/ "Incêndio atinge casa desocupada no Pinheiro e mobiliza quase 20 bombeiros militares")   [![Vídeo: motorista tenta descer com carro em escadaria e veículo fica preso, em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/f/csm_carro-fica-preso-escadaria_625820dc90.jpg)
+
+Durante madrugada
+
+Vídeo: motorista tenta descer com carro em escadaria e veículo fica preso, em Maceió](https://www.tnh1.com.br/noticia/nid/video-motorista-tenta-descer-com-carro-em-escadaria-e-veiculo-fica-preso-em-maceio/ "Vídeo: motorista tenta descer com carro em escadaria e veículo fica preso, em Maceió")   [![Prefeitura notifica Governo e interdita torres de videomonitoramento em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/a/csm_interdicao_totens_seguranca_publica_-_foto_prefeitura_maceio_6d8868b7cb.jpeg)
+
+Impasse
+
+Prefeitura notifica Governo e interdita torres de videomonitoramento em Maceió](https://www.tnh1.com.br/noticia/nid/prefeitura-notifica-governo-e-interdita-torres-de-videomonitoramento-em-maceio/ "Prefeitura notifica Governo e interdita torres de videomonitoramento em Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,31 +82,31 @@ Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios;
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_corpo_homem_morto_craibas_d9cbafa8c1.jpg)
+   [![PM apreende adolescente suspeito de usar uniforme de gari para praticar roubos no Benedito Bentes](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/a/csm_viatura_forca_tarefa_arquivo_ecc0a38459.jpg)
+
+Polícia
+
+PM apreende adolescente suspeito de usar uniforme de gari para praticar roubos no Benedito Bentes](https://www.tnh1.com.br/noticia/nid/pm-apreende-adolescente-suspeito-de-usar-uniforme-de-gari-para-praticar-roubos-no-benedito-bentes/ "PM apreende adolescente suspeito de usar uniforme de gari para praticar roubos no Benedito Bentes")   [![Duplo homicídio em Rio Largo pode ter sido causado por vingança, diz delegada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/1/csm_delegada_Rosimeire_Vieira_reproducao_TV_Pajucara_4d6f40e0c7.jpg)
+
+investigações
+
+Duplo homicídio em Rio Largo pode ter sido causado por vingança, diz delegada](https://www.tnh1.com.br/noticia/nid/duplo-homicidio-em-rio-largo-pode-ter-sido-causado-por-vinganca-diz-delegada/ "Duplo homicídio em Rio Largo pode ter sido causado por vingança, diz delegada")   [![Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_corpo_homem_morto_craibas_d9cbafa8c1.jpg)
 
 no agreste
 
-Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://www.tnh1.com.br/noticia/nid/homem-e-raptado-por-grupo-encapuzado-morto-a-tiros-e-tem-corpo-abandonado-em-estrada/ "Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada")   [![Polícia Federal cumpre mandados contra esquema de compra de votos no interior de AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/1/csm_operacao-PF-lagoa-da-canoa_13049e4ec2.jpeg)
+Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://www.tnh1.com.br/noticia/nid/homem-e-raptado-por-grupo-encapuzado-morto-a-tiros-e-tem-corpo-abandonado-em-estrada/ "Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada")   [![Polícia Federal cumpre mandados contra esquema de compra de votos no interior de AL](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/1/csm_operacao-PF-lagoa-da-canoa_13049e4ec2.jpeg)
 
 "Lagoa em Perigo"
 
-Polícia Federal cumpre mandados contra esquema de compra de votos no interior de AL](https://www.tnh1.com.br/noticia/nid/policia-federal-cumpre-mandados-contra-esquema-de-compra-de-votos-no-interior-de-al/ "Polícia Federal cumpre mandados contra esquema de compra de votos no interior de AL")   [![Homem é apedrejado na rua e é socorrido ao buscar abrigo na casa da mãe, no Cidade Universitária](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_homem-apedrejado-cidade-universitaria_d40fe27369.jpg)
+Polícia Federal cumpre mandados contra esquema de compra de votos no interior de AL](https://www.tnh1.com.br/noticia/nid/policia-federal-cumpre-mandados-contra-esquema-de-compra-de-votos-no-interior-de-al/ "Polícia Federal cumpre mandados contra esquema de compra de votos no interior de AL")   [![Homem é apedrejado na rua e é socorrido ao buscar abrigo na casa da mãe, no Cidade Universitária](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/7/b/csm_homem-apedrejado-cidade-universitaria_d40fe27369.jpg)
 
 Ensanguentado
 
-Homem é apedrejado na rua e é socorrido ao buscar abrigo na casa da mãe, no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/homem-e-apedrejado-na-rua-e-e-socorrido-ao-buscar-abrigo-na-casa-da-mae-no-cidade-universitaria/ "Homem é apedrejado na rua e é socorrido ao buscar abrigo na casa da mãe, no Cidade Universitária")   [![Homem invade casa, mata dois a tiros e deixa criança baleada na perna, em Rio Largo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/a/csm_dois-mortos-tiros-rio-largo_6147faee94.jpg)
+Homem é apedrejado na rua e é socorrido ao buscar abrigo na casa da mãe, no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/homem-e-apedrejado-na-rua-e-e-socorrido-ao-buscar-abrigo-na-casa-da-mae-no-cidade-universitaria/ "Homem é apedrejado na rua e é socorrido ao buscar abrigo na casa da mãe, no Cidade Universitária")   [![Homem invade casa, mata dois a tiros e deixa criança baleada na perna, em Rio Largo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/a/csm_dois-mortos-tiros-rio-largo_6147faee94.jpg)
 
 Tabuleiro do Pinto
 
-Homem invade casa, mata dois a tiros e deixa criança baleada na perna, em Rio Largo](https://www.tnh1.com.br/noticia/nid/homem-invade-casa-mata-dois-a-tiros-e-deixa-crianca-baleada-na-perna-em-rio-largo/ "Homem invade casa, mata dois a tiros e deixa criança baleada na perna, em Rio Largo")   [![Jovem é encontrado ensanguentado após ser esfaqueado em suposto assalto em rodovia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/2/csm_homem_esfaqueado_al-105_60094f53f8.jpg)
-
-Benedito Bentes
-
-Jovem é encontrado ensanguentado após ser esfaqueado em suposto assalto em rodovia](https://www.tnh1.com.br/noticia/nid/jovem-e-encontrado-ensanguentado-apos-ser-esfaqueado-em-suposto-assalto-em-rodovia/ "Jovem é encontrado ensanguentado após ser esfaqueado em suposto assalto em rodovia")   [![Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/0/csm_ronda_no_bairro_maceio_assessoria_f7c8a23d42.jpg)
-
-orla de maceió
-
-Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante](https://www.tnh1.com.br/noticia/nid/dois-menores-sao-apreendidos-por-roubo-de-correntes-brincos-e-iphone-perto-da-cadeira-gigante/ "Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante")
+Homem invade casa, mata dois a tiros e deixa criança baleada na perna, em Rio Largo](https://www.tnh1.com.br/noticia/nid/homem-invade-casa-mata-dois-a-tiros-e-deixa-crianca-baleada-na-perna-em-rio-largo/ "Homem invade casa, mata dois a tiros e deixa criança baleada na perna, em Rio Largo")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -210,7 +210,15 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 
 Corpo de turista desaparecida é encontrado dentro de tubarão
 
-Corpo de turista desaparecida é encontrado dentro de tubarão](https://www.tnh1.com.br/noticia/nid/corpo-de-turista-desaparecida-e-encontrado-dentro-de-tubarao/ "Corpo de turista desaparecida é encontrado dentro de tubarão")[![Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/5/csm_csm_Ambulancia_Bombeiros_335e4cd072_c84d7335db.jpg)
+Corpo de turista desaparecida é encontrado dentro de tubarão](https://www.tnh1.com.br/noticia/nid/corpo-de-turista-desaparecida-e-encontrado-dentro-de-tubarao/ "Corpo de turista desaparecida é encontrado dentro de tubarão")[!['Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/9/csm_Cid_Moreira_-_foto_Divulgacao_Globo_519bdc74de.jpg)
+
+Roger Naumtchyk
+
+Roger Naumtchyk
+
+'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento
+
+'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento](https://www.tnh1.com.br/noticia/nid/foi-um-engano-te-adotar-escreveu-cid-moreira-a-filho-deserdado-em-testamento/ "'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento")[![Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_csm_Ambulancia_Bombeiros_335e4cd072_c84d7335db.jpg)
 
 Na Ponta Grossa
 
@@ -218,57 +226,49 @@ Na Ponta Grossa
 
 Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió
 
-Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://www.tnh1.com.br/noticia/nid/mulher-tem-membro-inferior-dilacerado-apos-colisao-entre-duas-motos-em-maceio/ "Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió")[![Engenheira morre aos 27 anos atropelada por rolo compressor de obra ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/3/csm_engenheira-atropelada-reproducao-redes-sociais_1a5cf57389.jpg)
+Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://www.tnh1.com.br/noticia/nid/mulher-tem-membro-inferior-dilacerado-apos-colisao-entre-duas-motos-em-maceio/ "Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió")[![Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_corpo_homem_morto_craibas_215590e3f7.jpg)
 
-Tragédia
+no agreste
 
-Tragédia
+no agreste
 
-Engenheira morre aos 27 anos atropelada por rolo compressor de obra
+Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada
 
-Engenheira morre aos 27 anos atropelada por rolo compressor de obra](https://www.tnh1.com.br/noticia/nid/engenheira-morre-aos-27-anos-atropelada-por-rolo-compressor-de-obra/ "Engenheira morre aos 27 anos atropelada por rolo compressor de obra ")[![Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-funcionar-em-maceio_64e65bd56c.jpg)
+Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://www.tnh1.com.br/noticia/nid/homem-e-raptado-por-grupo-encapuzado-morto-a-tiros-e-tem-corpo-abandonado-em-estrada/ "Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada")
 
-150 CÂMERAS
+[![Idosa é presa por dar tapa na bunda de funcionária em supermercado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/a/csm_1_idosa_presa_tapa_bunda-40533964_eb52b137ee.jpg)
 
-150 CÂMERAS
+80 anos
 
-Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona
+80 anos
 
-Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona](https://www.tnh1.com.br/noticia/nid/novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-operar-em-alagoas-veja-como-funciona/ "Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ")
+Idosa é presa por dar tapa na bunda de funcionária em supermercado
 
-[![ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/7/csm_ONG_Mundau_Dia_da_Crianca_Assessoria_50d0aaca94.jpeg)
+Idosa é presa por dar tapa na bunda de funcionária em supermercado](https://www.tnh1.com.br/noticia/nid/idosa-e-presa-por-dar-tapa-na-bunda-de-funcionaria-em-supermercado/ "Idosa é presa por dar tapa na bunda de funcionária em supermercado")[![CPI das Apostas convoca tio de Paquetá para explicar pix a Luiz Henrique](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/0/csm_paqueta-luiz-henrique-750x431_4a86412850.png)
 
-Até 15 de outubro
+Futebol Nacional
 
-Até 15 de outubro
+Futebol Nacional
 
-ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças
+CPI das Apostas convoca tio de Paquetá para explicar pix a Luiz Henrique
 
-ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças](https://www.tnh1.com.br/noticia/nid/ong-mundau-mundo-inicia-campanha-de-arrecadacao-de-brinquedos-para-o-dia-das-criancas/ "ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças")[![Homem embriagado sobe em caixa d'água, dorme e é picado por abelhas, no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/b/csm_abelhas_pixabay_ceea86a7c0.jpg)
+CPI das Apostas convoca tio de Paquetá para explicar pix a Luiz Henrique](https://www.tnh1.com.br/noticia/nid/cpi-das-apostas-convoca-tio-de-paqueta-para-explicar-pix-a-luiz-henrique/ "CPI das Apostas convoca tio de Paquetá para explicar pix a Luiz Henrique")[![CRB x Atlético-MG: clubes multados e Formiga punido por agressão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_Julgamento_CRB__Atletico_MG_e_Formiga_-_foto_Daniela_Lameira_Pinto_-_STJD_ee24ca6f0b.png)
 
-25 metros de altura
+STJD
 
-25 metros de altura
+STJD
 
-Homem embriagado sobe em caixa d'água, dorme e é picado por abelhas, no interior de Alagoas
+CRB x Atlético-MG: clubes multados e Formiga punido por agressão
 
-Homem embriagado sobe em caixa d'água, dorme e é picado por abelhas, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-embriagado-sobe-em-caixa-dagua-dorme-e-e-picado-por-abelhas-no-interior-de-alagoas/ "Homem embriagado sobe em caixa d'água, dorme e é picado por abelhas, no interior de Alagoas")[![Bob Esponja, o musical, chega a Maceió!](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/2/csm_bob_esponja_2_981a1bdb32.jpeg)
+CRB x Atlético-MG: clubes multados e Formiga punido por agressão](https://www.tnh1.com.br/noticia/nid/crb-x-atletico-mg-clubes-multados-e-formiga-punido-por-agressao/ "CRB x Atlético-MG: clubes multados e Formiga punido por agressão")[![Maceió registrou 11 óbitos por meningite em 2024, aponta relatório da SMS](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/4/csm_csm_csm_crianc-a-meningite-meningoco-cica_451f7fecd2_9f0f4314bc_0d911b45d7.jpg)
 
-Agenda Cultural
+Saúde
 
-Agenda Cultural
+Saúde
 
-Bob Esponja, o musical, chega a Maceió!
+Maceió registrou 11 óbitos por meningite em 2024, aponta relatório da SMS
 
-Bob Esponja, o musical, chega a Maceió!](https://www.tnh1.com.br/noticia/nid/bob-esponja-o-musical-chega-a-maceio/ "Bob Esponja, o musical, chega a Maceió!")[![Deslizamento de terra deixa criança desaparecida na região metropolitana de Manaus](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/d/csm_barreira_desaba_manaus_-_foto_reproducao_8eebbaab54.png)
-
-No Amazonas
-
-No Amazonas
-
-Deslizamento de terra deixa criança desaparecida na região metropolitana de Manaus
-
-Deslizamento de terra deixa criança desaparecida na região metropolitana de Manaus](https://www.tnh1.com.br/noticia/nid/deslizamento-de-terra-deixa-crianca-desaparecida-na-regiao-metropolitana-de-manaus/ "Deslizamento de terra deixa criança desaparecida na região metropolitana de Manaus")
+Maceió registrou 11 óbitos por meningite em 2024, aponta relatório da SMS](https://www.tnh1.com.br/noticia/nid/maceio-registrou-11-obitos-por-meningite-em-2024-aponta-relatorio-da-sms/ "Maceió registrou 11 óbitos por meningite em 2024, aponta relatório da SMS")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
