@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Buenaventura: Dismemberment and Displacement](/wp-content/thumbnails/9457-100x70.jpg?x53432)
+* [![The Invisible Machine: Electromagnetic Warfare](/wp-content/thumbnails/966-100x70.jpg?x53432)
     
-    Buenaventura: Dismemberment and Displacement
+    The Invisible Machine: Electromagnetic Warfare
     
-    The city of Buenaventura lies along the Pacific coast of Columbia, it is home to the most important port in the country which handles about 60% of the countries imports and exports, despite this for d](https://documentaryheaven.com/buenaventura-dismemberment-displacement/ "Buenaventura: Dismemberment and Displacement")
-* [![Fidel: The Untold Story](/wp-content/thumbnails/1801-100x70.jpg?x53432)
+    Imagine the future – a strange new weapon is detonated high over a large city. There is no explosion, no visible destruction, but everything electronic within the range of this weapon will go out … pe](https://documentaryheaven.com/the-invisible-machine-electromagnetic-warfare/ "The Invisible Machine: Electromagnetic Warfare")
+* [![The Bermuda Triangle](/wp-content/thumbnails/893-100x70.jpg?x53432)
     
-    Fidel: The Untold Story
+    The Bermuda Triangle
     
-    It is not clear that the great leader of the Cuban Revolution - Fidel Castro - is still alive. One this is certain...his time of influence on the world stage has drawn to an end. Having been the subje](https://documentaryheaven.com/fidel-the-untold-story/ "Fidel: The Untold Story")
-* [![Ross Kemp: Libya’s Migrant Hell](/wp-content/thumbnails/13689-100x70.jpg?x53432)
+    First part of the video talks about Flight 19, the American aircraft that went missing after flying over the Bermuda triangle. This was just slightly after the end of World War II. Few other cases wer](https://documentaryheaven.com/the-bermuda-triangle/ "The Bermuda Triangle")
+* [![Blind Spot](/wp-content/thumbnails/5024-100x70.jpg?x53432)
     
-    Ross Kemp: Libya’s Migrant Hell
+    Blind Spot
     
-    This is the most dangerous migrant journey in the world and this year it's here in Libya that has become the main departure point for migrants who are attempting to get to Europe. It is estimated that](https://documentaryheaven.com/ross-kemp-libyas-migrant-hell/ "Ross Kemp: Libya’s Migrant Hell")
-* [![Legend of the Crystal Skulls](/wp-content/thumbnails/1646-100x70.jpg?x53432)
+    Blind Spot is a documentary that establishes the inextricable link between the energy we use, the way we run our economy and the effect it has had on our environment.It takes as a starting point t](https://documentaryheaven.com/blind-spot/ "Blind Spot")
+* [![First Peoples: Europe](/wp-content/thumbnails/10204-100x70.jpg?x53432)
     
-    Legend of the Crystal Skulls
+    First Peoples: Europe
     
-    Skulls are humanity's foremost symbol of death, and a powerful icon in the visual vocabularies of cultures all over the globe. Thirteen crystal skulls of apparently ancient origin have been found in p](https://documentaryheaven.com/legend-of-the-crystal-skulls/ "Legend of the Crystal Skulls")
-* [![A Cry for Innocence](/wp-content/thumbnails/6970-100x70.jpg?x53432)
+    Today we have Europe to ourselves we are all modern humans but when we first arrived in this land it was already a home for our cousins, the Neanderthals. We used to think that we were so much more ad](https://documentaryheaven.com/first-peoples-europe/ "First Peoples: Europe")
+* [![The Truth About Your Medicine Cabinet](/wp-content/thumbnails/10032-100x70.jpg?x53432)
     
-    A Cry for Innocence
+    The Truth About Your Medicine Cabinet
     
-    Damien Echols, 35, has spent his entire adult life on Arkansas’ death row. Every day, he faces the possibility of execution. But there is a bright spot in his life.Lorri (his wife) is familiar wit](https://documentaryheaven.com/a-cry-for-innocence/ "A Cry for Innocence")
+    Walk into any chemist shop and you will be bombarded by an array of pills and potions in bright shinny packages that claim to be able to treat almost any imaginable ailment from runny noses to spots,](https://documentaryheaven.com/truth-about-your-medicine-cabinet/ "The Truth About Your Medicine Cabinet")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
