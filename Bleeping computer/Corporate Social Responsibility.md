@@ -36,18 +36,18 @@
         
         AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
     
+    * [![You can get a $40 lifetime license to Office 2021 Pro in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        You can get a $40 lifetime license to Office 2021 Pro in this deal](https://www.bleepingcomputer.com/offer/deals/you-can-get-a-40-lifetime-license-to-office-2021-pro-in-this-deal/)
+    * [![Microsoft Edge begins testing Copilot Vision](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft Edge begins testing Copilot Vision](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-begins-testing-copilot-vision/)
     * [![MoneyGram confirms hackers stole customer data in cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         MoneyGram confirms hackers stole customer data in cyberattack](https://www.bleepingcomputer.com/news/security/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
     * [![ADT discloses second breach in 2 months, hacked via stolen credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ADT discloses second breach in 2 months, hacked via stolen credentials](https://www.bleepingcomputer.com/news/security/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/)
-    * [![LEGO's website hacked to push cryptocurrency scam](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        LEGO's website hacked to push cryptocurrency scam](https://www.bleepingcomputer.com/news/security/legos-website-hacked-to-push-cryptocurrency-scam/)
-    * [![Ukrainian pleads guilty to operating Raccoon Stealer malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Ukrainian pleads guilty to operating Raccoon Stealer malware](https://www.bleepingcomputer.com/news/security/ukrainian-pleads-guilty-to-operating-raccoon-stealer-malware/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
