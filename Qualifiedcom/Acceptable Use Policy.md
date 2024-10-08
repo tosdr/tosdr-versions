@@ -78,7 +78,7 @@ Content
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/plus)
 
-Hear from from industry leaders on all things B2B marketing.
+Hear from industry leaders on all things B2B marketing.
 
 AI WOrkforce
 
