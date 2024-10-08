@@ -515,8 +515,6 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
-
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Werbung
@@ -817,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Psycho­therapie für Kinder und Jugend­liche: Hilfe für die junge Psyche](https://www.test.de/Psychotherapie-fuer-Kinder-und-Jugendliche-6131397-0/ "Psychotherapie für Kinder und Jugendliche - Hilfe für die junge Psyche")
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
 
 Fußbereich
 
@@ -2437,8 +2435,6 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
-
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Werbung
@@ -2849,8 +2845,6 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
-
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Werbung
@@ -3296,8 +3290,6 @@ Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
 
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
-
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
 Über unsere Internetseite können Sie einen kostenfreien Newsletter abonnieren.
@@ -3311,8 +3303,6 @@ Rechts­grund­lage für die Verarbeitung der im Zusammen­hang mit der Bestellu
 Sofern Sie bei der Anmeldung Ihr Geburts­datum angegeben haben, nutzen wir dies für Geburts­tags- und alters­gruppen­spezi­fische Newsletter.
 
 Wir nutzen Ihre Daten darüber hinaus, um Ihnen von Zeit zu Zeit Angebote der Stiftung Warentest per Post zu über­senden.
-
-Newsletter-Rabatt-Aktion: Personen, die sich das erste Mal zu unseren Newslettern anmelden, erhalten den Rabatt­code für die Jahres­flatrate inner­halb einer Stunde nach der Anmeldung als E-Mail. Der Rabatt ist nicht kombinier­bar mit anderen Aktionen und kann bis einschließ­lich 10.11.2024 auf test.de ausschließ­lich für den Abschluss einer Jahres­flatrate und nur von Flatrate-Neukundinnen und Flatrate-Neukunden einge­löst werden. Der Rabatt gilt für das erste Jahr, danach wird der reguläre test.de-Flatrate­preis von 70,80 Euro berechnet (für Abonnierende von test oder Finanztest 35,40 Euro). Die test.de-Jahres­flatrate verlängert sich nach Ablauf des ersten Jahres auf unbe­stimmte Zeit. Die Abrechnung erfolgt jähr­lich. Nach dem ersten Jahr können Sie die Flatrate jeder­zeit mit einer Frist von einem Monat kündigen. Nicht verbrauchte Beträge werden bei Kündigung zurück­erstattet.
 
 [Zurück zum Anfang](https://www.test.de/datenschutz/)
 
@@ -3859,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Psycho­therapie für Kinder und Jugend­liche: Hilfe für die junge Psyche](https://www.test.de/Psychotherapie-fuer-Kinder-und-Jugendliche-6131397-0/ "Psychotherapie für Kinder und Jugendliche - Hilfe für die junge Psyche")
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
 
 Weitere spannende Themen
 
@@ -3879,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Psycho­therapie für Kinder und Jugend­liche: Hilfe für die junge Psyche](https://www.test.de/Psychotherapie-fuer-Kinder-und-Jugendliche-6131397-0/ "Psychotherapie für Kinder und Jugendliche - Hilfe für die junge Psyche")
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
 
 Neueste Tests
 
@@ -3897,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Psycho­therapie für Kinder und Jugend­liche: Hilfe für die junge Psyche](https://www.test.de/Psychotherapie-fuer-Kinder-und-Jugendliche-6131397-0/ "Psychotherapie für Kinder und Jugendliche - Hilfe für die junge Psyche")
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
 
 Service Stiftung Warentest
 
