@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Daniel Fagundes](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-1030986.thumb.jpeg.98f564284b901cdc5beba9464c22c4fd.jpeg)](https://www.clubedohardware.com.br/profile/1030986-daniel-fagundes/ "Ir ao perfil de Daniel Fagundes")
+    * [![udanznh](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/1826418358f3c303665fdf11ff214f59.thumb.jpg.c97f7f0b5ed3d8faf3e68f19fa4f3736.jpg)](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")
         
         0
         
-        [Uma unica partiçao fragmentada em 8 subpartiçoes](https://www.clubedohardware.com.br/forums/topic/1699139-uma-unica-parti%C3%A7ao-fragmentada-em-8-subparti%C3%A7oes/?do=getNewComment "Uma unica partiçao fragmentada em 8 subpartiçoes")
+        [Por onde começar na área de informação?](https://www.clubedohardware.com.br/forums/topic/1699155-por-onde-come%C3%A7ar-na-%C3%A1rea-de-informa%C3%A7%C3%A3o/?do=getNewComment "Por onde começar na área de informação?")
         
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Daniel Fagundes](https://www.clubedohardware.com.br/profile/1030986-daniel-fagundes/ "Ir ao perfil de Daniel Fagundes")  
-        12 minutos atrás
+        [Estudos e mercado de trabalho](https://www.clubedohardware.com.br/forums/forum/59-estudos-e-mercado-de-trabalho/ "Estudos e mercado de trabalho")  
+        Por [udanznh](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")  
+        21 minutos atrás
         
-    * [![Sklep](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253727.thumb.png.acb7061fec986791ccb1dd40fec45158.png)](https://www.clubedohardware.com.br/profile/1253727-sklep/ "Ir ao perfil de Sklep")
-        
-        1
-        
-        [Headset sem fio custo-benefício](https://www.clubedohardware.com.br/forums/topic/1699137-headset-sem-fio-custo-benef%C3%ADcio/?do=getNewComment "Headset sem fio custo-benefício")
-        
-        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [Sklep](https://www.clubedohardware.com.br/profile/1253727-sklep/ "Ir ao perfil de Sklep")  
-        1 hora atrás
-        
-    * [![Spartan_br](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a0%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ESB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1245764-spartan_br/ "Ir ao perfil de Spartan_br")
+    * [![romerosilva](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254185.thumb.jpeg.4bfdfeec8e596859c89067e0f310fc21.jpeg)](https://www.clubedohardware.com.br/profile/1254185-romerosilva/ "Ir ao perfil de romerosilva")
         
         0
         
-        [Quanto vale PC com Core i5-4670k, 16GB de RAM e fonte Corsair TX750](https://www.clubedohardware.com.br/forums/topic/1699136-quanto-vale-pc-com-core-i5-4670k-16gb-de-ram-e-fonte-corsair-tx750/?do=getNewComment "Quanto vale PC com Core i5-4670k, 16GB de RAM e fonte Corsair TX750")
+        [Computador Reinicia quando abro jogos](https://www.clubedohardware.com.br/forums/topic/1699154-computador-reinicia-quando-abro-jogos/?do=getNewComment "Computador Reinicia quando abro jogos")
         
-        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
-        Por [Spartan\_br](https://www.clubedohardware.com.br/profile/1245764-spartan_br/ "Ir ao perfil de Spartan_br")  
+        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
+        Por [romerosilva](https://www.clubedohardware.com.br/profile/1254185-romerosilva/ "Ir ao perfil de romerosilva")  
         1 hora atrás
         
-    * [![vitoor_lcs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1209756.thumb.jpeg.7da5f485868476b48f5dfd7c61bda316.jpeg)](https://www.clubedohardware.com.br/profile/1209756-vitoor_lcs/ "Ir ao perfil de vitoor_lcs")
-        
-        1
-        
-        [Sugestão de teclado mecânico ABNT2 para trabalho e jogos entre R$170 ~ R$250](https://www.clubedohardware.com.br/forums/topic/1699135-sugest%C3%A3o-de-teclado-mec%C3%A2nico-abnt2-para-trabalho-e-jogos-entre-r170-~-r250/?do=getNewComment "Sugestão de teclado mecânico ABNT2 para trabalho e jogos entre R$170 ~ R$250")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [vitoor\_lcs](https://www.clubedohardware.com.br/profile/1209756-vitoor_lcs/ "Ir ao perfil de vitoor_lcs")  
-        1 hora atrás
-        
-    * [![Guilherme82_](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46e62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/977200-guilherme82_/ "Ir ao perfil de Guilherme82_")
-        
-        3
-        
-        [Identificar componentes SMD sem marcação](https://www.clubedohardware.com.br/forums/topic/1699134-identificar-componentes-smd-sem-marca%C3%A7%C3%A3o/?do=getNewComment "Identificar componentes SMD sem marcação")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [Guilherme82\_](https://www.clubedohardware.com.br/profile/977200-guilherme82_/ "Ir ao perfil de Guilherme82_")  
-        1 hora atrás
-        
-    * [![Thiago Oliveira Campos](https://www.clubedohardware.com.br/uploads/members/monthly_2019_05/28059034_2067204603294842_1542927679868294177_n.thumb.jpg.303a1054e060ed2a25085dc63216dcc7.jpg)](https://www.clubedohardware.com.br/profile/641812-thiago-oliveira-campos/ "Ir ao perfil de Thiago Oliveira Campos")
+    * [![Hendrick F.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/images(1).thumb.jpeg.535374ba337849399168bee05b918be1.jpeg)](https://www.clubedohardware.com.br/profile/1254183-hendrick-f/ "Ir ao perfil de Hendrick F.")
         
         0
         
-        [Microfone do headset não funciona no Windows](https://www.clubedohardware.com.br/forums/topic/1699133-microfone-do-headset-n%C3%A3o-funciona-no-windows/?do=getNewComment "Microfone do headset não funciona no Windows")
-        
-        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [Thiago Oliveira Campos](https://www.clubedohardware.com.br/profile/641812-thiago-oliveira-campos/ "Ir ao perfil de Thiago Oliveira Campos")  
-        1 hora atrás
-        
-    * [![AlexMmf2](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46762%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1096252-alexmmf2/ "Ir ao perfil de AlexMmf2")
-        
-        1
-        
-        [Posso fazer o upgrade abaixo, mantendo memórias 2400Mhz de 8GB?](https://www.clubedohardware.com.br/forums/topic/1699131-posso-fazer-o-upgrade-abaixo-mantendo-mem%C3%B3rias-2400mhz-de-8gb/?do=getNewComment "Posso fazer o upgrade abaixo, mantendo memórias 2400Mhz de 8GB?")
+        [Configuração Básica para o dia a dia](https://www.clubedohardware.com.br/forums/topic/1699153-configura%C3%A7%C3%A3o-b%C3%A1sica-para-o-dia-a-dia/?do=getNewComment "Configuração Básica para o dia a dia")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [AlexMmf2](https://www.clubedohardware.com.br/profile/1096252-alexmmf2/ "Ir ao perfil de AlexMmf2")  
-        2 horas atrás
+        Por [Hendrick F.](https://www.clubedohardware.com.br/profile/1254183-hendrick-f/ "Ir ao perfil de Hendrick F.")  
+        3 horas atrás
         
-    * [![Peluti](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239e62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1241665-peluti/ "Ir ao perfil de Peluti")
-        
-        0
-        
-        VENDO [Processador Ryzen 5 3600](https://www.clubedohardware.com.br/forums/topic/1699130-processador-ryzen-5-3600/?do=getNewComment "Processador Ryzen 5 3600")
-        
-        [Classificados](https://www.clubedohardware.com.br/forums/forum/50-classificados/ "Classificados")  
-        Por [Peluti](https://www.clubedohardware.com.br/profile/1241665-peluti/ "Ir ao perfil de Peluti")  
-        2 horas atrás
-        
-    * [![ivanbss](https://www.clubedohardware.com.br/uploads/members/profile/photo-thumb-371670.jpg)](https://www.clubedohardware.com.br/profile/371670-ivanbss/ "Ir ao perfil de ivanbss")
+    * [![danilo gilmar](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b3c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EDG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253877-danilo-gilmar/ "Ir ao perfil de danilo gilmar")
         
         0
         
-        [PC para Jogos e Trade até R$20.000,00](https://www.clubedohardware.com.br/forums/topic/1699127-pc-para-jogos-e-trade-at%C3%A9-r2000000/?do=getNewComment "PC para Jogos e Trade até R$20.000,00")
+        [revisão stv s2 pro](https://www.clubedohardware.com.br/forums/topic/1699152-revis%C3%A3o-stv-s2-pro/?do=getNewComment "revisão stv s2 pro")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [ivanbss](https://www.clubedohardware.com.br/profile/371670-ivanbss/ "Ir ao perfil de ivanbss")  
-        2 horas atrás
+        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
+        Por [danilo gilmar](https://www.clubedohardware.com.br/profile/1253877-danilo-gilmar/ "Ir ao perfil de danilo gilmar")  
+        3 horas atrás
         
-    * [![Ziro Hardware](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254172.thumb.jpeg.1239fe462e7a752241ded8cf946eb779.jpeg)](https://www.clubedohardware.com.br/profile/1254172-ziro-hardware/ "Ir ao perfil de Ziro Hardware")
+    * [![Marcio Mathias](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1245030.thumb.jpeg.2698f00eca815e4464ebbbee3143acbf.jpeg)](https://www.clubedohardware.com.br/profile/1245030-marcio-mathias/ "Ir ao perfil de Marcio Mathias")
         
-        1
+        0
         
-        [placa-mãe Terminator B550M 2.5G e compatível com qual fonte e SSD?](https://www.clubedohardware.com.br/forums/topic/1699125-placa-m%C3%A3e-terminator-b550m-25g-e-compat%C3%ADvel-com-qual-fonte-e-ssd/?do=getNewComment "placa-mãe Terminator B550M 2.5G e compatível com qual fonte e SSD?")
+        [Internet oscilando com cabo pc](https://www.clubedohardware.com.br/forums/topic/1699151-internet-oscilando-com-cabo-pc/?do=getNewComment "Internet oscilando com cabo pc")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Ziro Hardware](https://www.clubedohardware.com.br/profile/1254172-ziro-hardware/ "Ir ao perfil de Ziro Hardware")  
-        2 horas atrás
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Marcio Mathias](https://www.clubedohardware.com.br/profile/1245030-marcio-mathias/ "Ir ao perfil de Marcio Mathias")  
+        3 horas atrás
+        
+    * [![Halan Felipe Lazarotto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253689.thumb.jpeg.f948612fa5694eb11a925cdd4ea6b9e1.jpeg)](https://www.clubedohardware.com.br/profile/1253689-halan-felipe-lazarotto/ "Ir ao perfil de Halan Felipe Lazarotto")
+        
+        0
+        
+        [Loop de reparo automatico apos trocar processador](https://www.clubedohardware.com.br/forums/topic/1699150-loop-de-reparo-automatico-apos-trocar-processador/?do=getNewComment "Loop de reparo automatico apos trocar processador")
+        
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [Halan Felipe Lazarotto](https://www.clubedohardware.com.br/profile/1253689-halan-felipe-lazarotto/ "Ir ao perfil de Halan Felipe Lazarotto")  
+        4 horas atrás
+        
+    * [![Halan Felipe Lazarotto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253689.thumb.jpeg.f948612fa5694eb11a925cdd4ea6b9e1.jpeg)](https://www.clubedohardware.com.br/profile/1253689-halan-felipe-lazarotto/ "Ir ao perfil de Halan Felipe Lazarotto")
+        
+        0
+        
+        [Loop de reparo automatico após trocar processador](https://www.clubedohardware.com.br/forums/topic/1699149-loop-de-reparo-automatico-ap%C3%B3s-trocar-processador/?do=getNewComment "Loop de reparo automatico após trocar processador")
+        
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [Halan Felipe Lazarotto](https://www.clubedohardware.com.br/profile/1253689-halan-felipe-lazarotto/ "Ir ao perfil de Halan Felipe Lazarotto")  
+        4 horas atrás
+        
+    * [![FFSilva](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253121.thumb.png.bf568794a08768ef0ad3cb3393c85f2e.png)](https://www.clubedohardware.com.br/profile/1253121-ffsilva/ "Ir ao perfil de FFSilva")
+        
+        0
+        
+        [i5-11400f superaquecendo com Water Cooler Rise Mode, RGB, 360mm RM-WCB-03-RGB](https://www.clubedohardware.com.br/forums/topic/1699148-i5-11400f-superaquecendo-com-water-cooler-rise-mode-rgb-360mm-rm-wcb-03-rgb/?do=getNewComment "i5-11400f superaquecendo com Water Cooler Rise Mode, RGB, 360mm  RM-WCB-03-RGB")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [FFSilva](https://www.clubedohardware.com.br/profile/1253121-ffsilva/ "Ir ao perfil de FFSilva")  
+        4 horas atrás
+        
+    * [![Nicholas Daved](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3END%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254178-nicholas-daved/ "Ir ao perfil de Nicholas Daved")
+        
+        0
+        
+        [Pc para de dar vídeo mas continua ligado](https://www.clubedohardware.com.br/forums/topic/1699147-pc-para-de-dar-v%C3%ADdeo-mas-continua-ligado/?do=getNewComment "Pc para de dar vídeo mas continua ligado")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Nicholas Daved](https://www.clubedohardware.com.br/profile/1254178-nicholas-daved/ "Ir ao perfil de Nicholas Daved")  
+        5 horas atrás
+        
+    * [![JoãoVitorS](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/Screenshot_20230728-074258_Instagram.thumb.jpg.7121c60f2ae698e28fdf9a08d285e267.jpg)](https://www.clubedohardware.com.br/profile/1233826-jo%C3%A3ovitors/ "Ir ao perfil de JoãoVitorS")
+        
+        0
+        
+        [Luz Dram acendendo na placa-mãe](https://www.clubedohardware.com.br/forums/topic/1699146-luz-dram-acendendo-na-placa-m%C3%A3e/?do=getNewComment "Luz Dram acendendo na placa-mãe")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [JoãoVitorS](https://www.clubedohardware.com.br/profile/1233826-jo%C3%A3ovitors/ "Ir ao perfil de JoãoVitorS")  
+        5 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
