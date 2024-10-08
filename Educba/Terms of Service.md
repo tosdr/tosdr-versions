@@ -308,13 +308,13 @@ ISO 10004:2018 & ISO 9001:2015 Certified
 
 © 2024 - EDUCBA. ALL RIGHTS RESERVED. THE CERTIFICATION NAMES ARE THE TRADEMARKS OF THEIR RESPECTIVE OWNERS.
 
-X
-
 Let’s Get Started
 
 Email ID \*   
 
 By signing up, you agree to our [Terms of Use](https://www.educba.com/terms-and-conditions/) and [Privacy Policy](https://www.educba.com/privacy-policy/).
+
+X
 
 X
 
@@ -356,4 +356,4 @@ OK
 
      
 
-[Early-Bird Offer: ENROLL NOW](https://www.educba.com/educba-pro/)
+[🚀 Limited Time Offer! \- 🎁 ENROLL NOW](https://www.educba.com/all-in-one/)
