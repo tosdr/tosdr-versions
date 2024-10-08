@@ -18,11 +18,15 @@ Help
 
 [Claim on YouTube](https://www.bensound.com/youtube-copyright-notices)
 
-[Login](https://www.bensound.com/index.php?route=account/edit) [Sign Up](https://www.bensound.com/index.php?route=account/edit)
+Login
+
+Signup
 
 [0
 
-![shopping cart](catalog/view/theme/next/image/cart-white.svg)](https://www.bensound.com/checkout)[Sign In](https://www.bensound.com/index.php?route=account/edit)
+![shopping cart](catalog/view/theme/next/image/cart-white.svg)](https://www.bensound.com/checkout)
+
+Sign In
 
 ![youtube channel id](catalog/view/theme/next/image/megaphone.svg)
 
