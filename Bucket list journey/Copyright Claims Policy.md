@@ -15,7 +15,9 @@
 * [Instagram](https://www.instagram.com/bucketlistjourney/)
 * [Pinterest](https://www.pinterest.com/bucketlistjrny/)
 
-[![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2024/10/cropped-Logo-Design.png)](https://bucketlistjourney.net/)
+[![Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='360'%20height='56'%20viewBox='0%200%20360%2056'%3E%3C/svg%3E)
+
+![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2024/10/cropped-Logo-Design.png)](https://bucketlistjourney.net/)
 
 [](#)
 
@@ -42,7 +44,7 @@ Menu
     * [South America](https://bucketlistjourney.net/category/south-america/)
     * [MY TOP 100](https://bucketlistjourney.net/ultimate-travel-bucket-list/)
 * [CALIFORNIA](https://bucketlistjourney.net/category/california-travel/)
-* TIPS + TOOLS
+* [TIPS + TOOLS](#)
     * [TRAVEL TIPS](https://bucketlistjourney.net/category/travel-tips/)
     * [BUCKET LIST TIPS](https://bucketlistjourney.net/category/bucket-list-tips/)
     * [MOTIVATION](https://bucketlistjourney.net/category/motivation/)
@@ -50,7 +52,9 @@ Menu
 
 [](#)
 
-[![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2023/02/Logo-Design.png)](https://bucketlistjourney.net/ "Bucket List Journey")
+[![Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='529'%20height='80'%20viewBox='0%200%20529%2080'%3E%3C/svg%3E)
+
+![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2023/02/Logo-Design.png)](https://bucketlistjourney.net/ "Bucket List Journey")
 
 Menu
 
@@ -73,7 +77,7 @@ Menu
     * [South America](https://bucketlistjourney.net/category/south-america/)
     * [MY TOP 100](https://bucketlistjourney.net/ultimate-travel-bucket-list/)
 * [CALIFORNIA](https://bucketlistjourney.net/category/california-travel/)
-* TIPS + TOOLS
+* [TIPS + TOOLS](#)
     * [TRAVEL TIPS](https://bucketlistjourney.net/category/travel-tips/)
     * [BUCKET LIST TIPS](https://bucketlistjourney.net/category/bucket-list-tips/)
     * [MOTIVATION](https://bucketlistjourney.net/category/motivation/)
@@ -180,13 +184,13 @@ Are you ready to start facing your fear and living your bucket list?
 
 buck & co. has the tools, resources and inspirational products to help every dreamer start living their bucket list—one checkmark at a time.
 
-[**PRINTABLES**](https://buckandco.net/collections/printables)
+[PRINTABLES](https://buckandco.net/collections/printables)
 
-[**WORKSHEETS**](https://buckandco.net/collections/printables/Planners-and-Bundles)
+[WORKSHEETS](https://buckandco.net/collections/printables/Planners-and-Bundles)
 
-[**PACKING LISTS**](https://buckandco.net/collections/printables/Packing-Lists)
+[PACKING LISTS](https://buckandco.net/collections/printables/Packing-Lists)
 
-[**TEES & TANKS**](https://buckandco.net/collections/tees/Tees-and-Tanks)
+[TEES & TANKS](https://buckandco.net/collections/tees/Tees-and-Tanks)
 
 **GET 2,000 free bucket list ideas**
 ------------------------------------
