@@ -112,7 +112,7 @@ Join our Newsletter
 
 Be the first one to know about Free games and updates
 
-            
+             
 
 ![Green background](https://my-town.com/wp-content/themes/mytown/dist/images/footer_bottom.png)
 
