@@ -211,7 +211,6 @@
 ##### Courses
 
 * [Single Courses](https://www.wgu.edu/admissions/personalized-start/courses.html)
-* [Course Bundles](https://www.wgu.edu/admissions/personalized-start/bundles.html)
 
 ##### Apply for Admission
 
@@ -567,7 +566,6 @@ Online Degrees
     * Courses
         
         * [Single Courses](https://www.wgu.edu/admissions/personalized-start/courses.html)
-        * [Course Bundles](https://www.wgu.edu/admissions/personalized-start/bundles.html)
         
     
 
