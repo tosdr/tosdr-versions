@@ -39,7 +39,7 @@ Last Updated: June 4, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/93 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/node/9821?intake=CNBC "Printer Friendly, PDF & Email")
 
 Your Privacy Choices: Opt-out of sale of personal information and Opt-out of sharing or processing personal information for targeted ads.
 =========================================================================================================================================
@@ -84,7 +84,7 @@ Where you have opted in on a mobile device to provide specific geolocation, you 
 
 [Follow us on LinkedIn](https://www.linkedin.com/company/nbcuniversal-inc-/) [Follow us on Twitter](https://twitter.com/nbcuniversal) [Like us on Facebook](https://www.facebook.com/nbcuniversal/) [instagram](https://www.instagram.com/nbcuniversal/)
 
-Footer menu [AD CHOICES](https://www.nbcuniversal.com/privacy/cookies#accordionheader2) [Privacy Policy](https://www.nbcuniversal.com/privacy "Privacy") [YOUR PRIVACY CHOICES](https://www.nbcuniversal.com/privacy/notrtoo) [CA Notice](https://www.nbcuniversal.com/privacy/california-consumer-privacy-act) [New Terms Of Service (Updated July 7, 2023)](https://www.nbcuniversal.com/terms "Terms Of Service")
+Footer menu [AD CHOICES](https://www.nbcuniversal.com/privacy/cookies#accordionheader2) [Privacy Policy](https://www.nbcuniversal.com/privacy "Privacy") [YOUR PRIVACY CHOICES](https://www.nbcuniversal.com/privacy/notrtoo) [CA Notice](https://www.nbcuniversal.com/privacy/california-consumer-privacy-act) [Terms Of Service (Updated July 7, 2023)](https://www.nbcuniversal.com/terms "Terms Of Service")
 
 Secondary Footer [Supply Chain Values](https://www.cmcsa.com/esg-reporting "Supply Chain Values") [Advertise With Us](https://together.nbcuni.com/advertise/?utm_source=nbcuniversal&utm_medium=referral&utm_campaign=property_ad_pages)
 
