@@ -249,6 +249,24 @@ Quick Guides
     February 18, 2020
     
 
+* [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676596)
+    
+    [Adam Wong](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676596)
+    
+    Hi KK, 1. Singaporeans pay no dividend withholding tax on UK...
+    
+* [![Photo of KK Ho](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of KK Ho](https://secure.gravatar.com/avatar/04f5ed1b386dc78fd87626ed86e0770c?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676593)
+    
+    [KK Ho](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676593)
+    
+    Hi there, The information provided is very useful and thank...
+    
 * [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -318,24 +336,6 @@ Quick Guides
     [Edmund Ng](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/#comment-675833)
     
     Like your article " Trusts: A powerful financial planning to...
-    
-* [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675804)
-    
-    [Adam Wong](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675804)
-    
-    Good one. Thanks for sharing!...
-    
-* [![Photo of Foo kok jong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Foo kok jong](https://secure.gravatar.com/avatar/dad4c8e61d47d8012cb14ac645f1254c?s=70&d=mm&r=g)](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675799)
-    
-    [Foo kok jong](https://fifthperson.com/best-places-to-stash-us-dollars/#comment-675799)
-    
-    another alternative. Local stock brokers like IFast, Phillip...
     
 
 Advertisement
