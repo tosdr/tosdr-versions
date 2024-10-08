@@ -1,8 +1,9 @@
-[New: Introducing the world's first secure touchscreen hardware wallets](https://shop.ledger.com/en/pages/hardware-wallets-secure-touchscreen)[Shop Now](https://shop.ledger.com/en/pages/hardware-wallets-secure-touchscreen)
+[Until Oct 15th, get up to $50 of Bitcoin when purchasing a Ledger Wallet](https://shop.ledger.com/pages/bitcoin-voucher-campaign)[See Offers](https://shop.ledger.com/pages/bitcoin-voucher-campaign)
 
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
 * Products
+    * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
     * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
@@ -11,7 +12,6 @@
     * [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware wallet")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
-    * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
     * [See All Products](https://shop.ledger.com/ "See All Products")
     
     * [Download Ledger Live](https://www.ledger.com/ledger-live "Download Ledger Live")
@@ -50,6 +50,7 @@
     * العربية
 
 * Products
+    * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
     * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
@@ -58,7 +59,6 @@
     * [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware wallet")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
-    * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
     * [See All Products](https://shop.ledger.com/ "See All Products")
     * [Download Ledger Live](https://www.ledger.com/ledger-live "Download Ledger Live")
     * [Supported crypto](https://www.ledger.com/supported-crypto-assets "Supported crypto")
@@ -98,6 +98,7 @@
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
 * Products
+    * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
     * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
@@ -106,7 +107,6 @@
     * [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware wallet")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
-    * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
     * [See All Products](https://shop.ledger.com/ "See All Products")
     
     * [Download Ledger Live](https://www.ledger.com/ledger-live "Download Ledger Live")
@@ -145,6 +145,7 @@
     * العربية
 
 * Products
+    * [Limited Offer](https://shop.ledger.com/pages/bitcoin-voucher-campaign "Limited Offer")
     * [Ledger Stax](https://shop.ledger.com/pages/ledger-stax "Ledger Stax")
     * [Ledger Flex](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
     * [Ledger Nano X](https://shop.ledger.com/pages/ledger-nano-x "Ledger Nano X")
@@ -153,7 +154,6 @@
     * [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware wallet")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
-    * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
     * [See All Products](https://shop.ledger.com/ "See All Products")
     * [Download Ledger Live](https://www.ledger.com/ledger-live "Download Ledger Live")
     * [Supported crypto](https://www.ledger.com/supported-crypto-assets "Supported crypto")
