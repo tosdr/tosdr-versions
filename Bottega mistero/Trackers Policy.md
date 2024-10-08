@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/il-ku-klux-klan-cos-e-la-storia-il-credo-e-l-organizzazione/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/nascondino-da-soli-sopravviverai-a-questo-gioco/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
