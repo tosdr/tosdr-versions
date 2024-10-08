@@ -1,4 +1,4 @@
-[Storj is now Veeam Ready – Empowering Veeam users with the distributed cloud. C](https://www.prnewswire.com/news-releases/storj-achieves-veeam-ready-object-status-302211048.html?utm_campaign=FY24%20Backup%20and%20Recovery&utm_content=302335361&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3839986)[Learn more C](https://www.prnewswire.com/news-releases/storj-achieves-veeam-ready-object-status-302211048.html?utm_campaign=FY24%20Backup%20and%20Recovery&utm_content=302335361&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3839986)
+[Storj expands the distributed cloud with cunoFSC](https://www.prnewswire.com/news-releases/storj-achieves-veeam-ready-object-status-302211048.html?utm_campaign=FY24%20Backup%20and%20Recovery&utm_content=302335361&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3839986)[Learn more C](https://www.storj.io/blog/storj-excited-to-join-forces-with-petagene-cunofs)
 
 [Skip to main content](#)
 
