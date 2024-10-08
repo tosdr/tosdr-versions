@@ -31,41 +31,255 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Costa Rica es una puerta de ingreso para Ecuador en Centroamérica
-=================================================================
+Volcamiento de camión congestiona el tráfico en Tambillo
+========================================================
 
-El acuerdo comercial contempla temas como comercio electrónico, género, pueblos ancestrales... Además, beneficia a los productos industrializados.
---------------------------------------------------------------------------------------------------------------------------------------------------
+Según información preliminar, no existen personas heridas en el siniestro en la Panamericana Sur. Organismos de control asisten.
+--------------------------------------------------------------------------------------------------------------------------------
 
-![Imagen creada en Adobe Firefly con el prompt: Acuerdo comercial entre Costa Rica y Ecuador, que entró en vigencia en septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PHOTO-2024-10-07-17-27-23.jpg)
+![En el sector de Tambillo se registra congestión vehicular.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-1-1.jpg)
 
-El acuerdo comercial entre **Ecuador y Costa Rica**, que recientemente entró en vigencia, es novedoso y diferente. Lo es si se compara con los tratados alcanzados con la Unión Europea, China o la Comunidad Andina.
+El ECU911 informó este **martes 8 de octubre** de 2024 sobre una emergencia registrada en horas de la mañana en la **Panamericana Sur.**
 
-Este acuerdo no solo se centra en aspectos económicos, sino también incorpora disciplinas que fomentan el desarrollo sostenible. 
+### Más noticias
 
-Abarca temas sobre comercio, género y promueve la participación de pueblos indígenas y comunidades locales. 
+* [Policía confirma segundo fallecido en choque de la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/policia-confirma-segundo-fallecido-en-choque-autopista-general-ruminahui.html "Policía confirma segundo fallecido en choque de la autopista General Rumiñahui")
+* [Quito registra choques y vías cerradas este lunes 7 de octubre; hay un fallecido](https://www.elcomercio.com/actualidad/quito/quito-choques-vias-cerradas-este-lunes-7-de-octubre-hay-un-fallecido.html "Quito registra choques y vías cerradas este lunes 7 de octubre; hay un fallecido")
+* [Lo que se sabe del choque en la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/lo-que-se-sabe-del-choque-en-autopista-general-ruminahui.html "Lo que se sabe del choque en la autopista General Rumiñahui")
 
-Además, ratifica compromisos internacionales relacionados con el medio ambiente, como el **Protocolo de Kioto y el Acuerdo de París.**
+La emergencia en Tambillo
+-------------------------
 
-> Tiene un enfoque integral para garantizar que los beneficios del comercio no se limiten a aspectos económicos, sino que también aborden preocupaciones sociales y ambientales.
+El servicio de emergencias informó que recibió **la llamada de alerta** a las 05:10, en la que se avisaba de un siniestro de tránsito en la vía. Se trataba del **volcamiento** de un camión en el sector de El Murco.
 
-La inclusión de cláusulas sobre **derechos laborales y propiedad intelectual** es otro componente esencial que refuerza la importancia del acuerdo
+Desde la **Sala Operativa** se coordinó de inmediato la asistencia a las personas afectadas en este percance vial. Al sitio llegaron efectivos de la **Policía Nacional** en un patrullero para verificar el incidente.
 
-Es un acuerdo de nueva generación porque incluye al comercio electrónico. En ese ámbito plantea el fomento de las transacciones electrónicas, respeto de datos y protección del consumidor y la vinculación de las micro, pequeñas y medianas empresas.
+Según reportes de los **organismos de socorro,** no se registran personas heridas. Las unidades de auxilio se encuentran solventando la emergencia.
 
-En p**ropiedad intelectual** establece la protección para los derechos y procesos simplificados de reconocimiento.
+Debido a esta emergencia, se constata, a través de las **cámaras de videovigilancia** del ECU911, congestión [vehicular en la zona](https://es.wikipedia.org/wiki/Cant%C3%B3n_Mej%C3%ADa "https://es.wikipedia.org/wiki/Cant%C3%B3n_Mej%C3%ADa").
 
-En comercio exterior también tiene sus particularidades porque el principal beneficiado es el sector de manufactura.
+Luego de la limpieza de la vía y retiro del automotor efectado se retomará la normal circulación en la Panamericana Sur. Maneja con precaución.
 
-El sector industrial representa el 11% de las exportaciones no petroleras ni mineras de Ecuador. Esa cifra se eleva al 40% cuando se considera Centroamérica. 
+Segunda emergencia en menos de 24 horas en Tambillo
+---------------------------------------------------
 
-**Costa Rica**es un mercado clave, ya que las exportaciones ecuatorianas de manufactura a este país alcanzan el 54% de su total.
+El día de ayer, lunes 7 de octubre de 2024, **otra emergencia** se registró en la misma zona. La llamada de alerta ingresó a las 06:42 y reportaba un siniestro vial.
 
-La importancia del acuerdo no solo representa el aumento esperado de 43 millones de dólares en las exportaciones ecuatorianas, sino también en la diversificación de los mercados. 
+El Cuerpo de **Bomberos Mejía y la Policía Nacional** acudieron al sitio para atender la emergencia. Los organismos de control informaron que una persona se encontraba herida.
 
-Costa Rica, con el segundo ingreso per cápita más alto de Centroamérica, ofrece un mercado atractivo que recibe alrededor de 200 productos ecuatorianos.
+Los paramédicos le brindaron **atención prehospitalaria** en el sitio del siniestro. En la zona se registró gran congestión vehicular mientras se atendió el incidente.
 
-Las perspectivas son positivas para productos ecuatorianos como cocinas y neumáticos, refrigeradoras, muebles, entre otros.
+Según imágenes que circularon en redes sociales, una buseta y un taxi estuvieron involucrados en el siniesro.
+
+Leonardo Campana arrasa en las redes sociales de la Tri
+=======================================================
+
+Leonardo Campana fue convocado a la Selección de Ecuador por primera vez por Sebastián Beccacece.
+-------------------------------------------------------------------------------------------------
+
+![Leonardo Campana con la camiseta de la Selección de Ecuador en el 2023.](https://www.elcomercio.com/wp-content/uploads/2024/10/campana_redes_1.jpg)
+
+**Leonardo Campana** es uno de los 25 jugadores que Sebastián Beccacece, entrenador de la Selección de Ecuador, convocó para la doble fecha de las eliminatorias al Mundial 2026 que tendrá como sede principal a Estados Unidos, y subsedes a Canadá y México.
+
+Sebastián Beccacece, **que tomó el mando de Ecuador en lugar del español Félix Sánchez** en agosto, no consideró a Leonardo Campana para la doble fecha de septiembre en la que enfrentó a Brasil y Perú.
+
+### Más noticias:
+
+* [Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/equipos-de-ecuador-lamentan-el-fallecimiento-de-roberto-cabezas.html "Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas")
+* [¿Cuándo juega la Selección de Ecuador ante Paraguay?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-paraguay.html "¿Cuándo juega la Selección de Ecuador ante Paraguay?")
+* [El Nacional brindó un reconocimiento a los bomberos tras incendios](https://www.elcomercio.com/deportes/el-nacional-reconocimiento-bomberos-incendio.html "El Nacional brindó un reconocimiento a los bomberos tras incendios")
+
+La convocatoria de Campana se justificó después de esa doble fecha de eliminatorias, **puesto que superó al argentino Gonzalo Huguaín como goleador histórico** del Inter Miami con 30 tantos, un suceso poco común para un futbolista ecuatoriano en el exterior.
+
+Luego de ese tanto vinieron dos más, el último ante Toronto con un pirueta que hizo recordar a un tanto que **marcó en el 2019 ante Venezuela en el Campeonato Sudamericano sub-20**, en el que Ecuador se proclamó campeón con el guayaquileño como máximo anotador de la competencia con seis gritos sagrados.
+
+Su convocatoria era una de las más esperadas, más aún cuando jugadores como K**evin Rodríguez (Royale Union Saint-Gilloise)** y el propio Enner Valencia (Inter de Porto Alegre), no anotan con frecuencia en sus equipos, evidenciando que no pasan por el mejor de los momentos.
+
+El último partido de Campana con Ecuador
+----------------------------------------
+
+El último partido de Leonardo Campana con la Tri, fue el 21 de noviembre de 2023 en el triunfo ante Chile por 1-0 en la sexta fecha de las actuales eliminatorias.
+
+**Sumó 8 minutos al sustituir a Kevin Rodríguez**, bajo el mando del español Félix Sánchez.
+
+Sánchez no lo volvió a tomar en cuenta y lo marginó de los partidos amistoso de marzo y junio ante Guatemala, Italia, **Argentina, Bolivia y Honduras, todos en los Estados Unidos** en la previa a la Copa América.
+
+En la Copa América tampoco fue citado y vio desde casa los partidos que la Selección afrontó ante **Venezuela, Jamaica y México** en la fase de grupos; y los cuartos de final contra Argentina.
+
+Una vez que **Sebastián Beccacece tomó el mando del equipo nacional**, Campana tampoco fue tomado en cuenta y se perdió los juegos contra Brasil (derrota 1-0 en Curitiba) y Perú (victoria 1-0 en Quito).
+
+Tras 11 meses de ausencia y **11 partidos sin ser considerado por el combinado nacional**, el delantero guayaquileño es convocado y será una de las variantes para romper la resistencia de las duras defensas paraguayas y uruguayas.
+
+Campana arrasa en redes sociales
+--------------------------------
+
+Las publicaciones que la **Tri realiza en sus redes sociales oficiales con imágenes** de Leo Campana son todo un éxito.
+
+Una vez que se confirmó su presencia en la lista de convocados apareció una fotografía del delantero de 24 años en su último encuentro con la camiseta tricolor, sin texto, y solo con un emoticón de una campana.
+
+Desde el sábado 5 hasta las 21:45 de este lunes 7, el **posteo alcanzó los 40 415 corazones y 250 mensajes** en Instagram.
+
+“Un día marcas un golazo y otro llegas a la Casa de la Selección”, fue la publicación del domingo 6, con una fotografía del deportista llegando a Quito para empezar con los entrenamientos.
+
+**64 905 corazones y 977 mensajes** fueron la respuesta abrumadora de los seguidores de la Tri.
+
+Publicaciones similares de Enner Valencia (27 012 corazones y 723 mensajes); Moisés Caicedo (38 556 corazones y 248 mensajes) **Piero Hincapié (40 134 corazones y 187 mensaje)**; y de Félix Torres y Gonzalo Plata (59 289 corazones y 357 mensajes), son las que le siguen en número de reacciones.
+
+En X la dinámica se repite. Un solo posteo del **exBarcelona Sporting Club llegó a los 590 000 reproducciones**, muy por delante del resto en el que están involucrados sus compañeros.
+
+> 🔔 Un día marcas un golazo y otro llegas a la Casa de la Selección. [pic.twitter.com/kS2AfBhNST](https://t.co/kS2AfBhNST)
+> 
+> — La Tri 🇪🇨 (@LaTri) [October 6, 2024](https://twitter.com/LaTri/status/1843003774748823553?ref_src=twsrc%5Etfw)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Huracán Milton cambia de categoría y alerta a autoridades mexicanas
+===================================================================
+
+El potencialmente catastrófico huracán Milton experimentará fluctuaciones, pero seguirá siendo un huracán extremadamente peligroso
+----------------------------------------------------------------------------------------------------------------------------------
+
+![México descartó esta madrugada que Milton tocara tierra en las costas de la península de Yucatán, después de su desplazamiento hacia el este a 15 km/h, y rebajó a 4 la categoría del huracán en la escala Saffir-Simpson.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-5.jpg)
+
+México descartó esta madrugada que **Milton** tocara tierra en las costas de la **península de Yucatán**, después de su desplazamiento hacia el este a 15 km/h. Además **bajó a 4 la categoría** del huracán en la escala Saffir-Simpson.
+
+### Más noticias
+
+* [México alerta de un posible impacto del huracán Milton en la península de Yucatán](https://www.elcomercio.com/actualidad/mundo/mexico-alerta-posible-impacto-del-huracan-milton-peninsula-yucatan.html "México alerta de un posible impacto del huracán Milton en la península de Yucatán")
+* [Florida se prepara para gran evacuación por huracán Milton](https://www.elcomercio.com/actualidad/mundo/florida-prepara-gran-evacuacion-huracan-milton.html "Florida se prepara para gran evacuación por huracán Milton")
+* [Autoridades sobre el huracán Milton: ‘el tiempo se acaba’](https://www.elcomercio.com/actualidad/mundo/huracan-milton-florida-tiempo-se-acaba.html "Autoridades sobre el huracán Milton: ‘el tiempo se acaba’")
+
+Autoridades toman medidas de seguridad
+--------------------------------------
+
+Según la nota de la Comisión Nacional del Agua (Conagua), el **centro del huracán** está localizado a 85 km al nor-noroeste de Dzilam. Y a 118 km al oeste-noroeste de Río Lagartos, ambas localidades de Yucatán, con vientos máximos sostenidos de 250 km/h y rachas de 280 km/h.
+
+La amplia **circulación de Milton** mantendrá lluvias puntuales torrenciales en Campeche y Yucatán, e intensas en Quintana Roo, Tabasco y Veracruz.
+
+Desde hace días, las autoridades mexicanas han puesto en marcha **medidas de alerta** y prevención en distintas zonas del Caribe. Por ejemplo, ha evacuado la isla de Holbox, en el estado mexicano de Quintana Roo. También se ha implementado un esquema de ‘toque de queda’ (restricción de movilidad) y la ley seca (prohibida la venta de alcohol) en otras localidades.
+
+En la localidad turística de **Cancún s**e activaron refugios para los vecinos e, incluso, centro de recogidas de mascotas en espacios seguros. De igual forma, la gobernadora de Quintana Roo, Mara Lezama, anunció que nueve **hoteles en Cancún** ofrecerán tarifas especiales a turistas que estén en tránsito por culpa del huracán Milton.
+
+Milton es aún potente
+---------------------
+
+Pese a la rebaja de intensidad, **el desarrollo del huracán** sigue provocando alerta en todo el golfo de México. En el último parte del Centro Nacional de Huracanes (NHC, en inglés) de EE.UU., las autoridades advierten de que **Milton es extremadamente poderoso**.
+
+Se encuentra al norte de la **península de Yucatán**, y representa una “amenaza extremadamente grave” para Florida, instando a sus residentes a seguir las órdenes de los funcionarios locales.
+
+Se pronostica que el **centro de Milton** “se mueva cerca o justo al norte de la **península de Yucatán** el martes”, cruce el este del Golfo de México y “se acerque el miércoles a la costa oeste de la península de Florida”, indicaron los meteorólogos.
+
+“El potencialmente catastrófico” **huracán Milton** experimentará fluctuaciones, pero “seguirá siendo un huracán extremadamente peligroso hasta que toque tierra en Florida”, [advirtió el NHC](https://es.wikipedia.org/wiki/Florida "https://es.wikipedia.org/wiki/Florida").
+
+Hoy es el Día de la Dislexia y te contamos todo lo que necesitas saber 
+=======================================================================
+
+El Día Internacional de la Dislexia, se encarga de informar sobre este trastorno del aprendizaje.
+-------------------------------------------------------------------------------------------------
+
+![El Día Internacional de la Dislexia busca visibilizar este trastorno. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/dia-internacional-de-la-dislexia.jpg)
+
+Cada **8 de octubre**, el mundo se une para conmemorar el **Día Internacional de la Dislexia**, una fecha dedicada a **aumentar la conciencia sobre este trastorno del aprendizaje** que afecta a millones de personas en todo el mundo.  
+
+### Más noticias
+
+* [10% de la población mundial sufre dislexia](https://www.elcomercio.com/tendencias/salud/poblacion-mundial-sufre-dislexia.html "https://www.elcomercio.com/tendencias/salud/poblacion-mundial-sufre-dislexia.html")
+* [Una aplicación permite prediagnosticar la dislexia en niños](https://www.elcomercio.com/tendencias/salud/aplicacion-deslixate-dislexia-ninos-diagnostico.html "https://www.elcomercio.com/tendencias/salud/aplicacion-deslixate-dislexia-ninos-diagnostico.html")
+
+La dislexia es un **trastorno específico del aprendizaje de origen neurológico**, caracterizado por dificultades en el reconocimiento preciso de palabras, lectura lenta y problemas de ortografía, a decir de la página [NeuronUp](https://neuronup.com/estimulacion-y-rehabilitacion-cognitiva/trastornos-del-neurodesarrollo/dislexia-que-es-sintomas-tipos-y-ejercicios-para-dislexicos/ "https://neuronup.com/estimulacion-y-rehabilitacion-cognitiva/trastornos-del-neurodesarrollo/dislexia-que-es-sintomas-tipos-y-ejercicios-para-dislexicos/"). 
+
+**Origen y propósito del Día Internacional de la Dislexia** 
+------------------------------------------------------------
+
+El **Día Internacional de la Dislexia** fue reconocido oficialmente por la **Asociación Europea de Dislexia** y se celebra con el **objetivo de visibilizar este trastorno y promover la inclusión** de las personas que lo enfrentan. La fecha busca también advertir sobre las **señales que pueden indicar la presencia de dislexia** y enseñar mecanismos para ayudar e integrar a quienes la padecen, según [Excelsior](https://www.excelsior.com.mx/trending/que-es-la-dislexia-y-por-que-se-celebra-el-8-de-octubre/1612897 "https://www.excelsior.com.mx/trending/que-es-la-dislexia-y-por-que-se-celebra-el-8-de-octubre/1612897"). 
+
+**¿Qué es la dislexia?** 
+-------------------------
+
+**La dislexia es una discapacidad de aprendizaje** que interfiere con la adquisición de habilidades de lectura. Afecta aproximadamente al 10% de la población mundial, según la Organización Mundial de la Salud (OMS), citada por [Día Internacional De](https://www.diainternacionalde.com/ficha/dia-internacional-dislexia "https://www.diainternacionalde.com/ficha/dia-internacional-dislexia"). **Este trastorno no está relacionado con la inteligencia**, sino con la forma en que el cerebro procesa el lenguaje escrito. **Las personas con dislexia pueden tener dificultades para reconocer palabras, deletrear y comprender textos**, de acuerdo con [International Dyslexia](https://or.dyslexiaida.org/sobre-la-dislexia-about-dyslexia/ "https://or.dyslexiaida.org/sobre-la-dislexia-about-dyslexia/"). 
+
+**Tratamientos y apoyos disponibles** 
+--------------------------------------
+
+Aunque **la dislexia no tiene cura**, existen **diversas técnicas educativas y de intervención que pueden ser útiles**.  
+
+El tratamiento se centra principalmente en la **instrucción especializada en habilidades de reconocimiento de palabras y composición**. Programas como [DytectiveU](https://www.diainternacionalde.com/ficha/dia-internacional-dislexia "https://www.diainternacionalde.com/ficha/dia-internacional-dislexia") han demostrado ser efectivos en la mejora de las dificultades asociadas con la dislexia, según la [Cruz Roja de Córdoba](https://hospitalcruzrojacordoba.es/consejos-de-salud/dislexia-signos-dislexicos/ "https://hospitalcruzrojacordoba.es/consejos-de-salud/dislexia-signos-dislexicos/").  
+
+Además, la **intervención temprana y el apoyo continuo** son cruciales para ayudar a las personas con dislexia a desarrollar sus habilidades de lectura y escritura. 
+
+**Importancia de la concienciación** 
+-------------------------------------
+
+La **celebración del Día Internacional de la Dislexia** es fundamental para romper el estigma asociado a este trastorno y **promover un entorno educativo inclusivo**. La campaña “Unidos por la Dislexia” busca el reconocimiento global de esta fecha por parte de las **Naciones Unidas**, con el apoyo de diversos gobiernos y organizaciones, a decir de la organización [Disfam](https://disfam.org/8oct/ "https://disfam.org/8oct/"). 
+
+El **Día Internacional de la Dislexia** es una oportunidad para reflexionar sobre la importancia de la **inclusión y el apoyo a las personas con dislexia**. A través de la educación y la concienciación, podemos crear un mundo donde todos tengan la oportunidad de alcanzar su máximo potencial, independientemente de los desafíos que enfrenten. 
+
+Así funciona el Pico y placa en Quito este martes 8 de octubre
+==============================================================
+
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes de tránsito vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-Quito.jpg)
+
+La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
+
+### Más noticias
+
+* [Lo que se sabe del choque en la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/lo-que-se-sabe-del-choque-en-autopista-general-ruminahui.html "Lo que se sabe del choque en la autopista General Rumiñahui")
+* [Policía confirma segundo fallecido en choque de la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/policia-confirma-segundo-fallecido-en-choque-autopista-general-ruminahui.html "Policía confirma segundo fallecido en choque de la autopista General Rumiñahui")
+* [Cortes de agua en Quito afectarán a más de 80 barrios este lunes 7 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-en-quito-afectaran-a-mas-de-80-barrios-este-lunes-7-de-octubre.html "Cortes de agua en Quito afectarán a más de 80 barrios este lunes 7 de octubre")
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este martes, los vehículos con placas terminadas en **3 y 4 no podrán circular** dentro de Quito.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es **esencial tener la licencia** y la matrícula vigentes.
+
+Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
+
+Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/7VJfdIKvoX](https://t.co/7VJfdIKvoX)
+> 
+> — AMTQuito (@AMT\_Quito) [October 1, 2024](https://twitter.com/AMT_Quito/status/1841057518430126168?ref_src=twsrc%5Etfw)
 
 La pedagogía crítica, reto de la docencia
 =========================================
@@ -139,6 +353,42 @@ Lo anterior **reafirma la grave incidencia de la educación de corte conductist
 **Enseñar a pensar con criticidad es la clave para una transformación educativa integral.** Hay que insistir en el **desarrollo cognitivo** y en la **meta cognición** -unidos a la **educación emocional** y **valórica**– mediante el **pensamiento científico, artístico, lateral o divergente de todo el profesorado**. 
 
 **Si no hay cambios radicales en la formación inicial y continua de los docentes, seguirá la mediocridad y la retórica del cambio**, y el verdadero mejoramiento de la calidad con equidad será una quimera.
+
+Costa Rica es una puerta de ingreso para Ecuador en Centroamérica
+=================================================================
+
+El acuerdo comercial contempla temas como comercio electrónico, género, pueblos ancestrales... Además, beneficia a los productos industrializados.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada en Adobe Firefly con el prompt: Acuerdo comercial entre Costa Rica y Ecuador, que entró en vigencia en septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PHOTO-2024-10-07-17-27-23.jpg)
+
+El acuerdo comercial entre **Ecuador y Costa Rica**, que recientemente entró en vigencia, es novedoso y diferente. Lo es si se compara con los tratados alcanzados con la Unión Europea, China o la Comunidad Andina.
+
+Este acuerdo no solo se centra en aspectos económicos, sino también incorpora disciplinas que fomentan el desarrollo sostenible. 
+
+Abarca temas sobre comercio, género y promueve la participación de pueblos indígenas y comunidades locales. 
+
+Además, ratifica compromisos internacionales relacionados con el medio ambiente, como el **Protocolo de Kioto y el Acuerdo de París.**
+
+> Tiene un enfoque integral para garantizar que los beneficios del comercio no se limiten a aspectos económicos, sino que también aborden preocupaciones sociales y ambientales.
+
+La inclusión de cláusulas sobre **derechos laborales y propiedad intelectual** es otro componente esencial que refuerza la importancia del acuerdo
+
+Es un acuerdo de nueva generación porque incluye al comercio electrónico. En ese ámbito plantea el fomento de las transacciones electrónicas, respeto de datos y protección del consumidor y la vinculación de las micro, pequeñas y medianas empresas.
+
+En p**ropiedad intelectual** establece la protección para los derechos y procesos simplificados de reconocimiento.
+
+En comercio exterior también tiene sus particularidades porque el principal beneficiado es el sector de manufactura.
+
+El sector industrial representa el 11% de las exportaciones no petroleras ni mineras de Ecuador. Esa cifra se eleva al 40% cuando se considera Centroamérica. 
+
+**Costa Rica**es un mercado clave, ya que las exportaciones ecuatorianas de manufactura a este país alcanzan el 54% de su total.
+
+La importancia del acuerdo no solo representa el aumento esperado de 43 millones de dólares en las exportaciones ecuatorianas, sino también en la diversificación de los mercados. 
+
+Costa Rica, con el segundo ingreso per cápita más alto de Centroamérica, ofrece un mercado atractivo que recibe alrededor de 200 productos ecuatorianos.
+
+Las perspectivas son positivas para productos ecuatorianos como cocinas y neumáticos, refrigeradoras, muebles, entre otros.
 
 Carlos Manuel Arízaga, poeta
 ============================
@@ -797,248 +1047,3 @@ Además, precisó que en el interior del vehículo se encontraron “unas botell
 Este no es el primer siniestro con muertes en el que se ve involucrado Angulo.
 
 En noviembre de 2022, el jugador protagonizó un choque en la vía a la Costa. En aquella ocasión, Angulo resultó ileso. Su primo y conductor del automotor falleció.
-
-Este es el país más feliz del mundo
-===================================
-
-Finlandia ha sido clasificada como el país más feliz del mundo durante seis años consecutivos, desde 2018 hasta 2024.
----------------------------------------------------------------------------------------------------------------------
-
-![Decenas de personas disfrutan de un día soleado en la fábrica de trenes de Helsinki, en una imagen de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/finlandia-helsinki-efe.jpg)
-
-[Finlandia](https://www.elcomercio.com/actualidad/mundo/desplome-puente-heridos-finlandia-ninos.html "https://www.elcomercio.com/actualidad/mundo/desplome-puente-heridos-finlandia-ninos.html") mantiene su lugar como el **país más feliz del mundo** según el **Informe Mundial de la Felicidad** 2024 debido a **varios factores clave** que contribuyen al bienestar de su población.
-
-### Más noticias
-
-* [Este es el país más caro de América Latina para vivir](https://www.elcomercio.com/actualidad/mundo/pais-mas-caro-america-latina-vivir.html "Este es el país más caro de América Latina para vivir")
-* [Este es el país más económico de América Latina para vivir](https://www.elcomercio.com/actualidad/mundo/paraguay-pais-mas-economico-america-latina-para-vivir.html "https://www.elcomercio.com/actualidad/mundo/paraguay-pais-mas-economico-america-latina-para-vivir.html")
-* [Los 10 países más peligrosos para viajar en este 2024](https://www.elcomercio.com/actualidad/mundo/10-paises-mas-peligrosos-2024.html "https://www.elcomercio.com/actualidad/mundo/10-paises-mas-peligrosos-2024.html")
-
-Informe Mundial de la Felicidad
--------------------------------
-
-Este informe evalúa el **bienestar subjetivo** de las personas a nivel global, toma en cuenta varios indicadores como el apoyo social, la esperanza de vida, la libertad para tomar decisiones, la generosidad y la percepción de la corrupción.
-
-Es el país más feliz desde 2018
--------------------------------
-
-Finlandia ha sido clasificada como el país **más feliz del mundo durante seis años consecutivos**, desde 2018 hasta 2024, según el Informe Mundial de la Felicidad. Este reconocimiento se basa en una serie de indicadores que evalúan el **bienestar general de los ciudadanos,** como el apoyo social, la confianza en el gobierno, el nivel de **corrupción, la generosidad y el bienestar emocional.**
-
-Igualdad social
----------------
-
-Uno de los **factores más importantes** que contribuyen a la felicidad en Finlandia es la **igualdad social**. Los finlandeses disfrutan de un **sistema económico** que busca reducir las desigualdades, lo que permite que todos los ciudadanos **tengan acceso a recursos básicos** como la educación, la salud y los servicios sociales. La equidad en Finlandia garantiza que la calidad de vida no esté concentrada en una pequeña élite, sino que se distribuya de manera justa entre toda la población.
-
-Servicios públicos
-------------------
-
-Además, los servicios públicos son de alta calidad. El **acceso universal a una atención médica excelente** y a una **educación de primer nivel** son características fundamentales del modelo finlandés. Esto no solo alivia a las familias de preocupaciones financieras, sino que también asegura que las **generaciones futuras tengan una base sólida para prosperar**.
-
-Conexión con la naturaleza
---------------------------
-
-Otro aspecto clave es la **conexión profunda con la naturaleza.** Finlandia es un país conocido por sus extensos bosques, **lagos y paisajes tranquilos**, lo que permite a los ciudadanos disfrutar de un **entorno limpio y saludable**. Pasar tiempo al aire libre es una **parte integral del estilo de vida finlandés**, y esta conexión con la naturaleza tiene efectos positivos en la salud mental y el bienestar general.
-
-Bienestar mental
-----------------
-
-El bienestar mental también es una prioridad en Finlandia. El país cuenta con **programas de salud mental accesibles** y **libres de estigma**, lo que permite a las personas buscar ayuda cuando la necesitan. Este **enfoque proactivo hacia la salud mental** es un factor importante en la estabilidad emocional de sus habitantes.
-
-Baja corrupción
----------------
-
-La baja corrupción y la **alta confianza en las instituciones gubernamentales** también son aspectos fundamentales de la felicidad en Finlandia. Los ciudadanos confían en que sus líderes actúan en su mejor interés y que los **recursos del estado se manejan de manera transparente.** Esto crea un entorno donde las personas sienten que están siendo tratadas de manera justa.
-
-El equilibrio entre el **trabajo y la vida personal** también juega un papel crucial. A diferencia de otras culturas donde el trabajo puede **dominar la vida de una persona**, en Finlandia se valora mucho el tiempo para el ocio, la familia y el bienestar personal. Este equilibrio permite que las personas se sientan más satisfechas y menos estresadas.
-
-Seguridad
----------
-
-Finalmente, la seguridad es otro factor determinante. Finlandia tiene **tasas muy bajas de criminalidad,** lo que permite a los ciudadanos vivir sin temor. La seguridad tanto en el hogar como en los espacios públicos contribuye a una **sensación de bienestar constante.**
-
-La Selección de Ecuador trabaja a doble jornada para eliminatorias
-==================================================================
-
-Sebastián Beccacece, DT de la Selección de Ecuador, entrenó a puerta cerrada con sus dirigidos previo a enfrentar a Paraguay.
------------------------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece durante los entrenamientos de la Selección de Ecuador antes de eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000140713.jpg)
-
-La Selección de Ecuador trabajará este lunes a puerta cerrada y espera hacerlo con el equipo completo para ensayar la estrategia con la que intentará ganar a la selección de **Paraguay**. El partido será en la novena fecha de las eliminatorias sudamericanas del **Mundial 2026.**
-
-El proceso de llegada a la concentración de la **capital ecuatoriana** de los convocados por el argentino **Sebastián Beccacece**, comenzó el 5 de octubre y está por concluir. La mayoría ya se ha integrado a la espera del gran desafío ante Paraguay y después contra Uruguay.
-
-### Más noticias:
-
-* [Uruguay presentó sus convocados para jugar ante la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/uruguay-presento-sus-convocados-para-jugar-ante-la-seleccion-de-ecuador.html "Uruguay presentó sus convocados para jugar ante la Selección de Ecuador")
-* [¿Cuándo juega la Selección de Ecuador ante Paraguay?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-paraguay.html "¿Cuándo juega la Selección de Ecuador ante Paraguay?")
-* [Sebastián Beccacece invitó cinco jugadores a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-invitados-seleccion-ecuador.html "Sebastián Beccacece invitó cinco jugadores a la Selección de Ecuador")
-
-**Beccacece** y sus dirigidos saben del poderío que ha alcanzado Paraguay al mando del extécnico de Ecuador, el argentino **Gustavo Alfaro**. Este último saldrá al estadio ‘Rodrigo Paz Delgado’ de Quito, con cuatro de seis puntos conquistados recientemente ante Uruguay y Brasil[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-Ecuador trabajará cuidadosamente, pues **Alfaro** sabe cómo contrarrestar la presión cuando se juega en Quito, por su experiencia cuando dirigió a la Selección de Ecuador.
-
-Los exdirigidos por Alfaro en la Selección de Ecuador arribaron
----------------------------------------------------------------
-
-Entre los más experimentados dirigidos por Alfaro, y que actualmente ya están con Beccacece en Quito figuran el portero **Hernán Galíndez**, el atacante **Enner Valencia** y jóvenes con buen recorrido como **Piero Hincapíe, Alan Franco, Jeremy Sarmiento**, entre otros.
-
-También llegó a la convocatoria el atacante Gonzalo Plata para reintegrarse al combinado del que fue separado por indisciplina previo a la reciente **Copa América**. Aquello se extendió a las siguientes fechas de las eliminatorias posteriores a ese torneo americano.
-
-Plata puede ser una de las sorpresas en ataque que tendrá Ecuador para tratar de romper el cerrojo defensivo de Paraguay en la capital ecuatoriana. Allí, los **2.850 metros de altitud** sobre el nivel del mar en que se ubica Quito, ha incomodado a la ‘Albirroja’ en anteriores juegos en la ciudad.
-
-Leonardo Campana arriba en uno de sus mejores momentos
-------------------------------------------------------
-
-También ha llegado con gran ilusión **Leonardo Campana** que, con 24 años, es el goleador histórico del estadounidense Inter de Miami, con más de 30 goles; además de goleador, con 6 anotaciones, y campeón Sub-20 con Ecuador en el Sudamericano de 2019 en Chile.
-
-Ecuador saldrá el próximo jueves contra **Paraguay**, en el cuarto puesto de la tabla de posiciones de las eliminatorias, con 11 puntos, dos más que la ‘Albirroja’, que se ubica en el noveno lugar. 
-
-Delfín ganó, huye del descenso y frenó a Macará
-===============================================
-
-Delfín respira más aliviado en la tabla acumulada y dio un paso firme para escaparle al descenso en Ambato.
------------------------------------------------------------------------------------------------------------
-
-![Jugadores de Delfín en el estadio Bellavista de Ambato en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/delfin_tabla_1.jpg)
-
-**Delfín** dio la sorpresa en el cierre de la novena fecha de la segunda etapa de la Liga Pro, al ganarle por 0-2 al inestable Macará en su visita al estadio Bellavista de Ambato.
-
-El encuentro entre **Delfín y Macará se jugó la tarde de este lunes 7 de octubre de 2024**. Este partido dio paso a la pausa de 11 días de la Liga Pro por la doble fecha de eliminatorias al Mundial 2026.
-
-### Más noticias:
-
-* [¿Quién es Marco Angulo, jugador de Liga de Quito afectado en el siniestro de tránsito?](https://www.elcomercio.com/deportes/futbol/marco-angulo-siniestro-transito-jugador-liga-quito.html "¿Quién es Marco Angulo, jugador de Liga de Quito afectado en el siniestro de tránsito?")
-* [¿Cuál es el estado de salud de Marco Angulo, jugador de Liga de Quito?](https://www.elcomercio.com/deportes/futbol/estado-de-salud-de-marco-angulo-jugador-liga-de-quito-siniestro.html "¿Cuál es el estado de salud de Marco Angulo, jugador de Liga de Quito?")
-* [Liga de Quito se pronuncia sobre el estado de salud de Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-de-quito-se-pronuncia-sobre-el-estado-de-salud-de-marco-angulo.html "Liga de Quito se pronuncia sobre el estado de salud de Marco Angulo")
-
-Con los **goles del argentino Alan Miño y del ecuatoriano Michael Mieles**, Delfín logró zafarse de los dos últimos puestos de la tabla acumulada que castiga a los dos colistas con la pérdida de la categoría para 2025, aunque en esta segunda fase va en el sexto puesto y con opción de pelear el liderato.
-
-El último, en la acumulada, **sigue siendo Libertado con 16 puntos**; el penúltimo Cumbayá con 18; y el  
-antepenúltimo es Delfín que sumó 23, los mismos que Imbabura, y se ponen a buen recaudo, aunque aún  
-no pueden decir que están del todo salvados.
-
-El líder de la tabla de posiciones de esta etapa es Liga de Quito con 19 puntos, **luego de derrotar con claridad por 2-0 a Orense**, en un encuentro que estuvo a punto de ser suspendido por dos detonaciones que se produjeron en la general sur baja del Rodrigo Paz Delgado.
-
-Por su parte, el **Independiente del Valle se quedó en el segundo puesto con 17 unidades**, tras el empate 1-1 en su visita a Mushuc Runa en el complicado escenario de La Cocha de Latacunga.
-
-Católica completa el podio
---------------------------
-
-Universidad Católica derrotó 2-1 a Imbabura y saltó al tercer puesto de la clasificación de la segunda fase, con 16 enteros, **el mismo puntaje que Universidad Católica, Mushuc Runa y Orense**, un pelotón que pugna por derrocar a Liga de Quito hasta el término de la etapa, en la decimoquinta fecha.
-
-Por su parte, **El Nacional y Delfín encendieron una esperanza para pelear por el liderato de la etapa**, con los triunfos que alcanzaron en esta novena fecha.
-
-El Nacional venció 3-0 al Barcelona y Delfín 0-2 al Macará, con lo que ambos acumularon 14 puntos cada uno.
-
-Las derrotas más dolorosas de la jornada resultaron la goleada de Barcelona a manos de **El Nacional y la caída de local de Macará ante Delfín**, que le cortó la posibilidad para acercarse a los primeros puestos, pues los dos perdedores se quedaron con 13 unidades cada uno.
-
-El torneo se suspenderá desde este lunes y **se reanudará el próximo 20 de octubre**, para dar paso a los partidos por la novena y décima fecha de las eliminatorias del Mundial 2026 de la selección de Ecuador contra Paraguay y Uruguay. 
-
-Tabla de posiciones
--------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Copia-de-MAQUETA-POSICIONES-BF-PERSONAJE-5-819x1024.jpg)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Exvocal Xavier Muñoz salió de la cárcel tras cumplir condena reducida
-=====================================================================
-
-El exvocal del Consejo de la Judicatura cooperó con Fiscalía y aceptó su culpa en el delito de obstrucción a la justicia.
--------------------------------------------------------------------------------------------------------------------------
-
-![Xavier Muñoz cuando llegó a la cárcel 4 de Quito](https://www.elcomercio.com/wp-content/uploads/2024/10/xavier-m.jpg)
-
-**Xavier Muñoz**, exvocal del Consejo de la Judicatura, salió de prisión tras cumplir con su condena reducida.
-
-El exfuncionario se encontraba recluido en la **cárcel 4**, en el norte de Quito, tras ser sentenciado por **obstrucción a la justicia** dentro del caso Independencia Judicial.
-
-### Más noticias
-
-* [Wilman Terán niega vínculos con sobornos en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-niega-vinculos-con-sobornos-en-el-caso-metastasis.html "Wilman Terán niega vínculos con sobornos en el caso Metástasis")
-* [Fiscalía hizo un pedido sobre las amenazas de Colón Pico a Diana Salazar](https://www.elcomercio.com/actualidad/seguridad/fiscalia-hizo-pedido-sobre-amenazas-de-colon-pico-diana-salazar.html "Fiscalía hizo un pedido sobre las amenazas de Colón Pico a Diana Salazar")
-* [Wilman Terán presentó acciones de protección contra dos medios de comunicación](https://www.elcomercio.com/actualidad/politica/wilman-teran-acciones-proteccion-medios.html "Wilman Terán presentó acciones de protección contra dos medios de comunicación")
-
-Por este delito Muñoz debía recibir una pena superior a los **siete años**, sin embargo, el 20 de junio obtuvo una reducción del **90 %**, es decir, a nueve meses y seis días.
-
-El exvocal logró un acuerdo de **“cooperación eficaz”** con la Fiscalía, además, se declaró culpable del cargo que se le imputaba.
-
-La Fiscalía aseguró que la cooperación de Xavier Muñoz permitió que se abran **tres investigaciones** previas que están en reserva y ayudó a sustanciar otras dos causas que están en proceso.
-
-Destitución premeditada del juez Water Macías
----------------------------------------------
-
-Muñoz formó parte del Pleno del Consejo de la Judicatura, conformado por cinco jueces y que lo presidía **Wilman Terán**.
-
-El exvocal aceptó que participó de la votación mayoritaria para destituir al juez **Walter Macías**, quien estaba a cargo de un caso de presunto tráfico de influencias en contra de los vocales Maribel Barreno y Juan José Morillo.
-
-De acuerdo con Muñoz, esta votación, al igual que otras causas, se realizó bajo la presión de Terán.
-
-En abril, Xavier Muñoz dio su **testimonio anticipado**, allí involucró a Wilman Terán**, Byron G. y Luis R.**
-
-En ese testimonio dijo que el **30 de marzo de 2023** se reunió en Brasil con el **expresidente Rafael Correa**.
-
-El plan habría sido remover del cargo a la fiscal general **Diana Salazar** y plantear un recurso de revisión en el caso **Sobornos** para que, de esta forma, Rafael Correa pueda regresar al país.
-
-Xavier Muñoz fue detenido bajo la figura de prisión preventiva en enero de 2024. Cuando recibió la pena reducida, en junio, ya llevaba **cinco meses** sin libertad.
-
-Por ello, este viernes 4 de octubre, recibió la orden de excarcelación por parte de la jueza Melissa Muñoz tras cumplir los cuatro meses y seis días restantes. El exvocal salió de la cárcel la **tarde** de ese día.
-
-Multa y disculpas públicas
---------------------------
-
-La sentencia reducida también contempla el pago de **22 080 dólares**, la mitad como multa para la Función Judicial, y la otra parte como reparación integral para el afectado, Walter Macías.
-
-Muñoz deberá, además, ofrecer **disculpas públicas** al juez.
-
-Este martes se fijará la fecha de la audiencia en la que se tratará los detalles de la condena.
-
-Lo que se conoce de los cortes de luz en el sector industrial
-=============================================================
-
-Los empresarios están reunidos con las autoridades de Gobierno, a las cuales les hacen varios planteamientos sobre los cortes de luz.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Hasta el momento se han reportado más de 260 empresas de Cuenca y Ambato afectadas por los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/llantera-7.jpg)
-
-El Gobierno de **Daniel Noboa** anunció a última hora los **cortes de luz** prolongados de 10 horas para el **sector industrial,** por **dos semanas consecutivas.** Este 7 de octubre de 2024, el Comité Empresarial Ecuatoriano rechazó la medida, que denominó apagón industrial, y explicó las principales afectaciones para la industria[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Embalse de Mazar se acerca a la cota mínima, ¿aumentarán las horas de cortes de luz?](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-se-acerca-a-la-cota-minima-aumentaran-las-horas-de-cortes-de-luz.html "Embalse de Mazar se acerca a la cota mínima, ¿aumentarán las horas de cortes de luz?")
-* [Cortes de luz en Quito afectan controles de exceso de velocidad](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-afectan-controles-de-exceso-de-velocidad.html "Cortes de luz en Quito afectan controles de exceso de velocidad")
-* [Horarios de cortes de luz en Ecuador hasta el jueves 10 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-ecuador-octubre-10.html "Horarios de cortes de luz en Ecuador hasta el jueves 10 de octubre")
-
-¿Cuándo se anunció la medida?
------------------------------
-
-A las 11:00 del sábado 5 de octubre de 2024, la Corporación Nacional de Electricidad (CNEL) informó la disposición de reducir el consumo de hasta el 100% para el **sector industrial** en el período de 08:00 a 18:00 todos los días por un período de, al menos, 15 días. El anuncio fue imperativo y de cumplimiento obligatorio e inmediato.
-
-¿Cuándo empezaron los apagones para el sector industrial?
----------------------------------------------------------
-
-Los **cortes de luz** para el sector industrial empezaron a las 13:00 del sábado 5 de octubre, poco tiempo después de hacerse público el anuncio. **Francisco Jarrín**, presidente de la Cámara de Industrias de Guayaquil, señaló que el racionamiento se inició de forma ‘abrupta’, sin ningún aviso previo para que las empresas puedan tomar las debidas precauciones.
-
-¿Dónde empezaron los cortes de luz para el sector industrial?
--------------------------------------------------------------
-
-Los cortes de luz para el sector industrial empezaron en las ciudades de **Cuenca y Ambato**. En estas dos ciudades el parque industrial está más focalizado. Hasta el momento se han reportado más de 260 empresas afectadas por la medida. Una de ellas es Continental Tire Andina S.A., esta compañía decidió suspender las actividades hasta este lunes 7 de octubre en todos los turnos. “Esta parada obedece a un evento de Fuerza Mayor, ya que no es viable prender y apagar las máquinas continuamente”, señaló.
-
-El gremio calcula pérdidas de 12 millones de dólares por cada hora de corte de luz en el sector industrial.
-
-Consumo eléctrico del sector industrial
----------------------------------------
-
-El sector industrial consume el 26% de la energía del Ecuador, pero enfrenta el 100% de las restricciones, lo que consideran injusto y perjudicial para la **cadena productiva**, especialmente en sectores como el lácteo, que afecta a millones de personas, entre productores, industriales y consumidores.
-
-Autogeneración del sector industrial
-------------------------------------
-
-Según el catastro del sector, las empresas tienen una capacidad de autogeneración de 150 megavatios (MW), aunque el Gobierno menciona que es de 300 MW.
-
-Solicitud del gremio empresarial
---------------------------------
-
-Los empresarios pidieron al Gobierno Nacional suspender el apagón industrial y formar un **comité de crisis permanente** para abordar tanto la coyuntura actual como los problemas estructurales de la matriz energética del país y evitar crisis similares en el futuro. El Gobierno Nacional, por su parte, invitó al gremio a un diálogo la tarde de este lunes 7 de octubre, en el Palacio de Carondelet, en el Centro Histórico de Quito.
