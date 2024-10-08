@@ -5,7 +5,7 @@ TP-Link Privacy Policy
 
 Your browser does not support JavaScript. Please turn it on for the best experience.
 
-[](https://partner.tp-link.com/us/)
+[](https://www.tp-link.com/us/promotion/2024primeday/index1727591880085.html)
 
 [Support](https://www.tp-link.com/us/support/)
 
@@ -276,7 +276,7 @@ Where to Buy
     
     The leading technology for delivering gigabit Internet services
     
-* [HOT DEALS](https://www.tp-link.com/us/promotion)
+* [PRIME BIG DEAL DAYS](https://www.tp-link.com/us/promotion/2024primeday/index1727591880085.html)
 * [Community](https://community.tp-link.com/)
     
     [For Home](https://community.tp-link.com/us/home)
@@ -560,7 +560,7 @@ Where to Buy
     * [Solution Partners](https://www.tp-link.com/us/where-to-buy/#Solution%20Partners)
         
     
-* [HOT DEALS](https://www.tp-link.com/us/promotion)
+* [PRIME BIG DEAL DAYS](https://www.tp-link.com/us/promotion/2024primeday/index1727591880085.html)
     
 * Community
     
