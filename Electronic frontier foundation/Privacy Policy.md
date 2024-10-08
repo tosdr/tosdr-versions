@@ -132,7 +132,7 @@ PAGE
 Privacy Policy
 ==============
 
-* [Español](https://www.eff.org/es/pages/politicas-de-privacidad-de-la-eff)
+* [Español](https://www.eff.org/policy?language=es)
 
 (Note that EFF's Technology Projects, such as HTTPS Everywhere, Privacy Badger, and Certbot, have a different privacy policy, available [here](https://www.eff.org/code/privacy/policy))
 
