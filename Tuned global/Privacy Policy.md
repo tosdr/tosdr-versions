@@ -101,13 +101,13 @@
     
     #### [News & Press](https://blog.tunedglobal.com/news?hsLang=en)
     
+    [![](https://www.tunedglobal.com/hubfs/768x512-Adobe-stock-Generated-Firefly-TunedGlobal-Beatdapp.jpg)](https://blog.tunedglobal.com/news/tuned-global-and-beatdapp-technical-integration-to-fight-against-fraud-in-music-apps?hsLang=en)
+    
+    [Tuned Global and Beatdapp Team Up Against Streaming Fraud in Music Apps](https://blog.tunedglobal.com/news/tuned-global-and-beatdapp-technical-integration-to-fight-against-fraud-in-music-apps?hsLang=en)
+    
     [![](https://www.tunedglobal.com/hubfs/UniversalMusicGroup-TunedGlobal-2.jpg)](https://blog.tunedglobal.com/news/tuned-global-umg-catalogue-global-licensing-agreement?hsLang=en)
     
     [Universal Music Group expands partnership with Tuned Global in new licensing agreement](https://blog.tunedglobal.com/news/tuned-global-umg-catalogue-global-licensing-agreement?hsLang=en)
-    
-    [![](https://www.tunedglobal.com/hubfs/Wallifornia%20MediMusic%20win-1-1.jpeg)](https://blog.tunedglobal.com/news/tuned-globals-medtech-medimusic-music-backend-apis-award?hsLang=en)
-    
-    [Tuned Global’s partner, MediMusic, named start-up of the year by Music Tech experts and investors](https://blog.tunedglobal.com/news/tuned-globals-medtech-medimusic-music-backend-apis-award?hsLang=en)
     
     [More News](https://blog.tunedglobal.com/news?hsLang=en)
     
