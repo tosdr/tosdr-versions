@@ -1,5 +1,5 @@
   
-G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                       
+G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                  
 
 [Skip to content](#MainContent)  
 
@@ -115,21 +115,21 @@ Close menu
 
 ### SEE HOTTEST PICKS 🔥
 
- [![HYPE SAUCE](//gfuel.com/cdn/shop/files/hype-sauce-tub-g-fuel-gamer-drink-862064_medium.png?v=1705691117) HYPE SAUCE](https://gfuel.com/products/hype-sauce-tub)
+ [![Good Guys](//gfuel.com/cdn/shop/products/good-guys-tub-g-fuel-gamer-drink-634929_medium.png?v=1697137088) Good Guys](https://gfuel.com/products/chucky-good-guys)
 
- [![Watermelon](//gfuel.com/cdn/shop/files/watermelon-tub-g-fuel-gamer-drink-875896_medium.png?v=1719529787) Watermelon](https://gfuel.com/products/g-fuel-tub-watermelon)
+ [![GHOST FACE® Stab Stimulant Bundle](//gfuel.com/cdn/shop/files/g-fuel-x-ghost-facer-stab-stimulant-powered-energy-formula-bundle-bundle-tubs-tik-tok-shop-gamer-drink-996285_medium.png?v=1727501556) GHOST FACE® Stab Stimulant Bundle](https://gfuel.com/products/ghost-face-stab-stimulant-bundle)
 
- [![Snow Cone](//gfuel.com/cdn/shop/files/snow-cone-tub-g-fuel-gamer-drink-869835_medium.png?v=1723075654) Snow Cone](https://gfuel.com/products/snow-cone)
+ [![Dream Demon](//gfuel.com/cdn/shop/products/dream-demon-tub-g-fuel-gamer-drink-784188_medium.png?v=1695418540) Dream Demon](https://gfuel.com/products/dream-demon)
 
- [![Miami Nights](//gfuel.com/cdn/shop/files/miami-nights-tub-g-fuel-gamer-drink-183550_medium.png?v=1710297383) Miami Nights](https://gfuel.com/products/miami-nights-tub)
+ [![Hack 'N' Slash](//gfuel.com/cdn/shop/products/hack-n-slash-tub-g-fuel-gamer-drink-248565_medium.png?v=1695652739) Hack 'N' Slash](https://gfuel.com/products/hack-n-slash)
 
- [![Nuka Cola Quantum](//gfuel.com/cdn/shop/files/nuka-cola-quantum-tub-g-fuel-gamer-drink-655279_medium.png?v=1712710170) Nuka Cola Quantum](https://gfuel.com/products/fallout-25-anniversary-nuka-cola-quantum-energy-tub)
+ [![Goth GF](//gfuel.com/cdn/shop/files/goth-gf-tub-g-fuel-gamer-drink-999082_medium.png?v=1714691428) Goth GF](https://gfuel.com/products/goth-girlfriend)
 
- [![Sonic’s Peach Rings](//gfuel.com/cdn/shop/products/sonics-peach-rings-tub-g-fuel-gamer-drink-444648_medium.png?v=1660320704) Sonic’s Peach Rings](https://gfuel.com/products/sonics-peach-rings-tub)
+ [![Candy Corn](//gfuel.com/cdn/shop/products/candy-corn-tub-g-fuel-gamer-drink-518949_medium.png?v=1666020533) Candy Corn](https://gfuel.com/products/candy-corn)
 
- [![Mega Man™ Blue Bomber Slushee](//gfuel.com/cdn/shop/products/mega-man-blue-bomber-slushee-tub-g-fuel-gamer-drink-734945_medium.png?v=1660319983) Mega Man™ Blue Bomber Slushee](https://gfuel.com/products/mega-man-tub)
+ [![Gojo's Domain Expansion](//gfuel.com/cdn/shop/files/domain-expansion-tub-g-fuel-gamer-drink-846562_medium.png?v=1724276197) Gojo's Domain Expansion](https://gfuel.com/products/gojos-domain-expansion)
 
- [![Naruto's Sage Mode](//gfuel.com/cdn/shop/files/narutos-sage-mode-tub-g-fuel-gamer-drink-976746_medium.png?v=1712710139) Naruto's Sage Mode](https://gfuel.com/products/narutos-sage-mode-tub)
+ [![Yuji Itadori's Black Flash](//gfuel.com/cdn/shop/files/black-flash-tub-g-fuel-gamer-drink-257917_medium.png?v=1724276183) Yuji Itadori's Black Flash](https://gfuel.com/products/yuji-itadoris-black-flash)
 
 View more
 
@@ -398,7 +398,7 @@ Rated 4.9 out of 5 stars
 
 Rated 4.4 out of 5 stars
 
-1,784 Reviews
+1,785 Reviews
 
 4.7
 
@@ -447,5 +447,3 @@ Rated 4.6 out of 5 stars
 Rated 4.7 out of 5 stars
 
 623 Reviews
-
-![](https://cdn.shopify.com/s/files/1/0223/3113/files/bloood-2.png?v=1727209813)
