@@ -242,6 +242,8 @@ Join us and share the message of reuse
 * [Instagram](https://instagram.com/jococups)
 * [Facebook](https://facebook.com/jococups)
 
+[DESERT SAGE - Jocos first ever insulated vessel. P ![DESERT SAGE - Jocos first ever insulated vessel. Providing optimal drinking during any occasion, keeping your beverage at the temperature you like them, all wrapped up in the proven Joco DNA #coffee #tea #icelongblack #hotchocolate #cappuccino](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA2StWYyOxB/) 
+
 [Poolside Hydration 🏊‍♀️ #hydrate #active ![Poolside Hydration 🏊‍♀️ #hydrate #active #plasticfree #swim](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAkX5rMynWo/) 
 
 [Take your Zen wherever you go.. its simple, make t ![Take your Zen wherever you go.. its simple, make the change today #yoga #life #luxuries #17ozactiveflask #plasticfree](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAUd_B7yP4G/) 
@@ -251,8 +253,6 @@ Join us and share the message of reuse
 [Architecture for the perfect pour #luxglass #boros ![Architecture for the perfect pour #luxglass #borosilicateglass #6oz #whisky #Latte #tea](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DACoeweyFvP/) 
 
 [Coffee: the ultimate wingman ☕️ #vibe #coffee ![Coffee: the ultimate wingman ☕️ #vibe #coffee #friends #wingman](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAASd1hSI7E/) 
-
-[Fun Facts.. Did you know Leopard Spots Are Called ![Fun Facts.. Did you know Leopard Spots Are Called Rosettes #funfacts #velvertgripstraw #utilitycup #12oz #sandstone](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/C_cLYGbyC19/) 
 
 Keep informed on new releases and subscriber exclusives
 
