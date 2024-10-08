@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Only through an inner spiritual transformation do we gain the strength to fight vigorously the evils of the world in a humble and loving spirit”
+“ Everyone you will ever meet knows something you don't”
 
-[Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+[Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye)
 
 [](https://www.adafruit.com/about)
 
