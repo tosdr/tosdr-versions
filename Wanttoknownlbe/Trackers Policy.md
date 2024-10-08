@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/wat-een-temperatuurstijging-op-aarde-kan-veroorzaken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/wordt-maar-minister-als-u-het-er-niet-mee-eens-bent/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -151,6 +151,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![Arend Zeevat](https://secure.gravatar.com/avatar/54f43225736f1bab22ea8f9a12c4d3a3?s=50&d=identicon&r=g)
+
+##### **Arend Zeevat** reacts on:
+
+##### De sluiers worden opgelicht..!
+
+[Nou Harriët, wat Trump betreft mag onderhand toch wel duidel…](https://www.wanttoknow.nl/inspiratie/de-sluiers-worden-opgelicht/comment-page-1/#comment-626334)
 
 ![cvhvk](https://secure.gravatar.com/avatar/5a94b6722c7850b67340d4c209a777a3?s=50&d=identicon&r=g)
 
@@ -399,14 +407,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### En zo vond de US-verkiezingsfraude plaats..!!
 
 [Trump neergeschoten. https://www.youtube.com/watch?v=AC5TNz4…](https://www.wanttoknow.nl/politiek/verkiezingen/en-zo-vond-de-us-verkiezingsfraude-plaats/comment-page-1/#comment-626301)
-
-![El](https://secure.gravatar.com/avatar/7fbad5c4c90866e3a51ba5c36ceac8d1?s=50&d=identicon&r=g)
-
-##### **El** reacts on:
-
-##### 10.000 jaar oud: de ‘Black Knight’-satelliet..!!
-
-[Om dit artikel als geloofwaardig te beschouwen moet je de vo…](https://www.wanttoknow.nl/hoofdartikelen/10-000-jaar-oud-de-black-knight-satelliet/comment-page-1/#comment-626300)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
