@@ -250,13 +250,13 @@ Search
         
         [More on ACM Awards](http://awards.acm.org/)
         
-    * [![Image promoting the ACM Luiz André Barroso Award](/binaries/ctaimagelarge/content/gallery/acm/ctas/awards/acm-luiz-andre-barroso-award.jpg)](https://awards.acm.org/barroso)
+    * [![2024 Nobel Prize in Physics recipient Geoffrey Hinton](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/geoffrey-hinton.jpg)](https://www.nobelprize.org/prizes/physics/2024/press-release/)
+        
+        [Geoffrey Hinton Awarded the 2024 Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/2024/press-release/)
+        
+        [![Image promoting the ACM Luiz André Barroso Award](/binaries/ctaimagelarge/content/gallery/acm/ctas/awards/acm-luiz-andre-barroso-award.jpg)](https://awards.acm.org/barroso)
         
         [ACM Announces Luiz André Barroso Award](https://awards.acm.org/barroso)
-        
-        [![2023 ACM Prize recipient Amanda Randles](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/amanda-randles-prize.jpg)](https://awards.acm.org/about/2023-acm-prize)
-        
-        [Amanda Randles Receives 2023 ACM Prize in Computing](https://awards.acm.org/about/2023-acm-prize)
         
         [![acm-fellows-member-badge.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/awards/acm-fellows-member-badge.jpg)](https://www.acm.org/media-center/2024/january/fellows-2023)
         
