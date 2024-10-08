@@ -18,7 +18,7 @@ Some of the Samaritans branches are independent charities and are separate data 
 
 **Changes to this Privacy Statement**
 
-As the service we provide changes, we may change our privacy statement from time to time so please check back periodically. This Privacy Statement was last updated September 2023.
+As the service we provide changes, we may change our privacy statement from time to time so please check back periodically. This Privacy Statement was last updated October 2024.
 
 If you have any queries about this statement please contact the Legal & Governance team at Samaritans, The Upper Mill, Kingston Road, Ewell, Surrey, KT17 2AF or email [\[email protected\]](https://www.samaritans.org/cdn-cgi/l/email-protection)
 
