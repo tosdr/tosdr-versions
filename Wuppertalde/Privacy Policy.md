@@ -6,7 +6,7 @@ Sie befinden sich hier:
 1. [Startseite wuppertal.de](https://www.wuppertal.de/index.php)
 2. **Datenschutzerklärung DSGVO**
 
-[![Wuppertal](/WEB-IES/wuppertal-module/3.3.0/images/wuppertal-white.svg)](https://www.wuppertal.de/index.php "zurück zur Startseite")
+[![Wuppertal](/WEB-IES/wuppertal-module/3.5.0/images/wuppertal-white.svg)](https://www.wuppertal.de/index.php "zurück zur Startseite")
 
 [Wuppertal](https://www.wuppertal.de/index.php)[Wuppertal](https://www.wuppertal.de/index.php)
 ==============================================================================================
@@ -19,18 +19,18 @@ Datenschutzerklärung DSGVO
 Der Stadt Wuppertal ist der Schutz Ihrer personenbezogenen Daten ein besonderes Anliegen. Wir halten uns daher strikt an die geltenden datenschutzrechtlichen Bestimmungen.  
 Ihre Daten werden von uns weder veröffentlicht, noch unberechtigt an Dritte weitergegeben.
 
-1. [1\. Name und Anschrift des Verantwortlichen](#1-name-und-anschrift-des-verantwortlichen)
-2. [2\. Datenschutzbeauftragte](#2-datenschutzbeauftragte)
-3. [3\. Allgemeines zur Datenverarbeitung](#3-allgemeines-zur-datenverarbeitung)
-4. [4\. Bereitstellung der Website und Erstellung von Logfiles](#4-bereitstellung-der-website-und-erstellung-von-logfiles)
-5. [5\. Verwendung von Cookies](#5-verwendung-von-cookies)
-6. [6\. Newsletter](#6-newsletter)
-7. [7\. Online-Terminvergabe](#7-online-terminvergabe)
-8. [8\. Soziale Medien](#8-soziale-medien)
-9. [9\. Registrierung](#9-registrierung)
-10. [10\. Kontaktformular und E-Mail-Kontakt](#10-kontaktformular-und-e-mail-kontakt)
-11. [11\. Rechte der betroffenen Person](#11-rechte-der-betroffenen-person)
-12. [12\. Google-Translate](#12-google-translate)
+1. [1\. Name und Anschrift des Verantwortlichen](#b-name-und-anschrift-des-verantwortlichen)
+2. [2\. Datenschutzbeauftragte](#c-datenschutzbeauftragte)
+3. [3\. Allgemeines zur Datenverarbeitung](#d-allgemeines-zur-datenverarbeitung)
+4. [4\. Bereitstellung der Website und Erstellung von Logfiles](#e-bereitstellung-der-website-und-erstellung-von-logfiles)
+5. [5\. Verwendung von Cookies](#f-verwendung-von-cookies)
+6. [6\. Newsletter](#g-newsletter)
+7. [7\. Online-Terminvergabe](#h-online-terminvergabe)
+8. [8\. Soziale Medien](#i-soziale-medien)
+9. [9\. Registrierung](#j-registrierung)
+10. [10\. Kontaktformular und E-Mail-Kontakt](#b0-kontaktformular-und-e-mail-kontakt)
+11. [11\. Rechte der betroffenen Person](#b1-rechte-der-betroffenen-person)
+12. [12\. Google-Translate](#b2-google-translate)
 
 Im Folgenden erläutern wir, welche Daten während Ihres Besuches auf unseren Webseiten erfasst und wie genau diese verwendet werden.
 
@@ -614,7 +614,7 @@ Da Google LLC seinen Sitz in den USA hat, kann eine entsprechende Übermittlung 
 Erläuterungen und Hinweise
 --------------------------
 
-[![Logo](/WEB-IES/wuppertal-module/3.3.0/images/wuppertal-small.svg)](https://www.wuppertal.de/index.php)
+[![Logo](/WEB-IES/wuppertal-module/3.5.0/images/wuppertal-small.svg)](https://www.wuppertal.de/index.php)
 
 Schnellübersicht
 ================
@@ -695,8 +695,8 @@ Navigation
 
 Seite teilen schließen
 
-* [auf Facebook teilen (Öffnet in einem neuen Tab)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1728362213)
-* [auf Twitter teilen (Öffnet in einem neuen Tab)](https://twitter.com/share?url=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1728362213)
+* [auf Facebook teilen (Öffnet in einem neuen Tab)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1728383288)
+* [auf Twitter teilen (Öffnet in einem neuen Tab)](https://twitter.com/share?url=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1728383288)
 * [per E-Mail teilen](mailto:?subject=wuppertal.de%20-%20Seitenempfehlung&body=Hallo%2C%0A%0Aich%20m%C3%B6chte%20die%20folgende%20Seite%20empfehlen%3A%0Ahttps%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php%0A%0ABeste%20Gr%C3%BC%C3%9Fe)
 
 Suche
