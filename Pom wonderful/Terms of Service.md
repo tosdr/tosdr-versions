@@ -240,7 +240,7 @@ By clicking SUBMIT, you agree to our [Terms of Use](https://www.pomwonderful.com
 
 [![](https://cdn.prod.website-files.com/61340fb865a9298195fadb65/61c4caaf3f82eb15ff620823_POM%20Mono.svg)](https://www.pomwonderful.com/archived-home "Go to POM Wonderful")[![](https://cdn.prod.website-files.com/61340fb865a9298195fadb65/61c4caafc166ab041dda97a1_WP%20Mono.svg)](https://www.getcrackin.com/ "Go to Wonderful Pistachios")[![](https://cdn.prod.website-files.com/61340fb865a9298195fadb65/61c4caafff51f01715586596_Halos%20Mono.svg)](https://www.halosfun.com/ "Go to Wonderful Halos")[![](https://cdn.prod.website-files.com/61340fb865a9298195fadb65/61c4caaf8083e26cf00874e4_WSL%20Mono.svg)](https://www.wonderfulseedlesslemons.com/ "Go to Wonderful Seedless Lemons")
 
-© 2023 POM Wonderful LLC.  All Rights Reserved.
+© 2024 POM Wonderful LLC.  All Rights Reserved.
 
 [Sitemap](https://www.pomwonderful.com/sitemap)
 
