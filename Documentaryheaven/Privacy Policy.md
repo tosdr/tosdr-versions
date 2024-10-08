@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Chris Benoit: A Fight To The Death](/wp-content/thumbnails/10681-100x70.jpg?x53432)
+* [![Triumph of the Nerds: Great Artist Steal](/wp-content/thumbnails/6943-100x70.jpg?x53432)
     
-    Chris Benoit: A Fight To The Death
+    Triumph of the Nerds: Great Artist Steal
     
-    Before anyone had heard of Vince McMahon, WWE Raw or Friday Night Smackdown, a true wrestling tradition took place on Friday nights in the Stampede Grounds of Calgary and some of those who wrestl](https://documentaryheaven.com/chris-benoit-fight-to-death/ "Chris Benoit: A Fight To The Death")
-* [![Food Matters](/wp-content/thumbnails/4591-100x70.png?x53432)
+    The documentary chronicles the rise of the personal computer/home computer beginning in the 1970s with the Altair 8800, Apple I and Apple II and VisiCalc. It continues through the IBM PC and Appl](https://documentaryheaven.com/triumph-of-the-nerds-great-artist-steal/ "Triumph of the Nerds: Great Artist Steal")
+* [![The Roswell Incident](/wp-content/thumbnails/978-100x70.jpg?x53432)
     
-    Food Matters
+    The Roswell Incident
     
-    “Let thy Food be thy Medicine and thy Medicine be thy Food” – Hippocrates. That is the message from the founding father of modern medicine echoed in the controversial new documentary film Food Matters](https://documentaryheaven.com/food-matters/ "Food Matters")
-* [![Legend of the Crystal Skulls](/wp-content/thumbnails/1646-100x70.jpg?x53432)
+    Documentary from Channel 4 shown in 1994 about the infamous ‘UFO Crash’ at Roswell in 1947. In the summer of 1947, there were a number of UFO sightings in the United States. Sometime during the first](https://documentaryheaven.com/the-roswell-incident/ "The Roswell Incident")
+* [![Money, Banking, and The Federal Reserve System](/wp-content/thumbnails/2172-100x70.jpg?x53432)
     
-    Legend of the Crystal Skulls
+    Money, Banking, and The Federal Reserve System
     
-    Skulls are humanity's foremost symbol of death, and a powerful icon in the visual vocabularies of cultures all over the globe. Thirteen crystal skulls of apparently ancient origin have been found in p](https://documentaryheaven.com/legend-of-the-crystal-skulls/ "Legend of the Crystal Skulls")
-* [![Darwin’s Nightmare](/wp-content/thumbnails/819-100x70.png?x53432)
+    Thomas Jefferson and Andrew Jackson understood “The Monster”. But to most Americans today, Federal Reserve is just a name on the dollar bill. They have no idea of what the central bank does to the eco](https://documentaryheaven.com/money-banking-and-the-federal-reserve-system/ "Money, Banking, and The Federal Reserve System")
+* [![Kraftwerk: Pop Art](/wp-content/thumbnails/9568-100x70.jpg?x53432)
     
-    Darwin’s Nightmare
+    Kraftwerk: Pop Art
     
-    A harrowing, hard-hitting documentary which shows the devastating effects of the “globalized” economy on the residents of a fishing village in Tanzania. The story starts four decades ago when a specie](https://documentaryheaven.com/darwin%e2%80%99s-nightmare/ "Darwin’s Nightmare")
-* [![China’s Tortured Beauties](/wp-content/thumbnails/7200-100x70.jpg?x53432)
+    In the late 60's and early 70's when Kraftwerk were striving to find a new artistic voice in the pop culture vacuum of post war Germany, few would have predicted that these reclusive Rhineland ex](https://documentaryheaven.com/kraftwerk-pop-art/ "Kraftwerk: Pop Art")
+* [![Britain’s Child Beggars](/wp-content/thumbnails/7049-100x70.jpg?x53432)
     
-    China’s Tortured Beauties
+    Britain’s Child Beggars
     
-    This documentary takes a look at how modern China is working hard to give itself a new image. And now a frightening new craze for Western-style beauty is driving a nationwide boom in dangerous and dra](https://documentaryheaven.com/chinas-tortured-beauties/ "China’s Tortured Beauties")
+    Meet Alice. She is a four-year-old child out on London’s Oxford street begging hours on end, day in, day out. Alice is just one of Britain’s Gypsy child beggars, and she can earn hundreds of pounds a](https://documentaryheaven.com/britains-child-beggars/ "Britain’s Child Beggars")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
