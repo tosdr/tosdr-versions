@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Am I OkMegan Moroney<br><br>11:38pm |
-| World On FireNate Smith<br><br>11:35pm |
-| If I Didn'T Love YouJason Aldean And Carrie Underwood<br><br>11:31pm |
-| LosersPost Malone Ft Jelly Roll<br><br>11:28pm |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>11:24pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:59am |
+| Hard To LoveLee Brice<br><br>4:56am |
+| LosersPost Malone Ft Jelly Roll<br><br>4:53am |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>4:50am |
+| Coming HomeOld Dominion<br><br>4:47am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,13 +495,9 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-News Talk • Eastern
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
+Top 40 • Pacific NW
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
@@ -510,6 +506,10 @@ Sports • Midwest
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
