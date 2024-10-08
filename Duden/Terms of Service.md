@@ -4,14 +4,22 @@
 
 [Textprüfung](https://mentor.duden.de/?utm_source=duden_de&utm_medium=leadgen_int&utm_campaign=topnavi&utm_content=textpruefung)
 
-[Alle Angebote](https://www.duden.de/service)
+[Digitale Angebote](https://www.duden.de/service)
 
 * [Duden-Mentor-Textprüfung](https://mentor.duden.de/?utm_source=duden_de&utm_medium=premium_int&utm_campaign=topnavi_service&utm_content=duden-mentor-textpruefung "Duden-Mentor")
 * [Werbe- und Trackingfreiheit](https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbefreiheit_hauptnavi)
 * [Digitales Schulwörterbuch](https://www.duden.de/schulwoerterbuch)
 * [Digitale Abonnements](https://www.duden.de/service/abos)
-* [Sprachberatung](https://www.duden.de/Sprachberatung-0 "Duden-Sprachberatung")
 * [Newsletter](https://www.duden.de/newsletter)
+
+[Produkte](https://www.duden.de/unsere-produkte)
+
+* [Nachschlagen](https://www.duden.de/unsere-produkte/nachschlagen)
+* [Besser schreiben](https://www.duden.de/unsere-produkte/besser-schreiben)
+* [Sprache entdecken](https://www.duden.de/unsere-produkte/sprache-entdecken)
+* [Lernen und rätseln](https://www.duden.de/unsere-produkte/lernen-raetseln)
+* [Deutsch lernen](https://www.duden.de/unsere-produkte/deutsch-lernen)
+* [Neuheiten](https://www.duden.de/unsere-produkte/neuheiten)
 
 [Sprachwissen](https://www.duden.de/sprachwissen)
 
@@ -54,7 +62,9 @@
 
 [Textprüfung](https://mentor.duden.de/?utm_source=duden_de&utm_medium=leadgen_int&utm_campaign=topnavi&utm_content=textpruefung)
 
-[Alle Angebote ▻](#listview-alle-angebote)
+[Digitale Angebote ▻](#listview-digitale-angebote)
+
+[Produkte ▻](#listview-produkte)
 
 [Sprachwissen ▻](#listview-sprachwissen)
 
@@ -86,7 +96,7 @@
 
 [Synonyme](https://www.duden.de/synonyme)
 
-[◁ Alle Angebote](#listview-root)
+[◁ Digitale Angebote](#listview-root)
 
 [Duden-Mentor-Textprüfung ▻](#listview-duden-mentor-textprfung--3)
 
@@ -96,11 +106,9 @@
 
 [Digitale Abonnements](https://www.duden.de/service/abos)
 
-[Sprachberatung](https://www.duden.de/Sprachberatung-0)
-
 [Newsletter](https://www.duden.de/newsletter)
 
-[◁ Duden-Mentor-Textprüfung](#listview-alle-angebote)
+[◁ Duden-Mentor-Textprüfung](#listview-digitale-angebote)
 
 [Die eigene Rechtschreibung verbessern](https://www.duden.de/rechtschreibpruefung/rechtschreibung-verbessern)
 
@@ -119,6 +127,50 @@
 [Rechtschreibprüfung online](https://www.duden.de/rechtschreibpruefung-online)
 
 [Schreibstil verbessern](https://www.duden.de/rechtschreibpruefung/schreibstil-verbessern)
+
+[◁ Produkte](#listview-root)
+
+[Nachschlagen ▻](#listview-nachschlagen)
+
+[Besser schreiben ▻](#listview-besser-schreiben)
+
+[Sprache entdecken ▻](#listview-sprache-entdecken)
+
+[Lernen und rätseln ▻](#listview-lernen-und-rtseln)
+
+[Deutsch lernen ▻](#listview-deutsch-lernen)
+
+[Neuheiten](https://www.duden.de/unsere-produkte/neuheiten)
+
+[◁ Nachschlagen](#listview-produkte)
+
+[Nachschlagewerke für Erwachsene](https://www.duden.de/unsere-produkte/nachschlagen/erwachsene)
+
+[Nachschlagewerke für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/nachschlagen/kinder-jugendliche)
+
+[◁ Besser schreiben](#listview-produkte)
+
+[Besser schreiben für Erwachsene](https://www.duden.de/unsere-produkte/besser-schreiben/erwachsene)
+
+[Schreiben lernen leicht gemacht](https://www.duden.de/unsere-produkte/besser-schreiben/kinder-jugendliche)
+
+[◁ Sprache entdecken](#listview-produkte)
+
+[Sprachwelten entdecken](https://www.duden.de/unsere-produkte/sprache-entdecken/erwachsene)
+
+[Sprache entdecken für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/sprache-entdecken/kinder-jugendliche)
+
+[◁ Lernen und rätseln](#listview-produkte)
+
+[Rätselspaß für Erwachsene](https://www.duden.de/unsere-produkte/lernen-raetseln/erwachsene)
+
+[Lern- und Rätselspaß für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/lernen-raetseln/kinder-jugendliche)
+
+[◁ Deutsch lernen](#listview-produkte)
+
+[Deutsch lernen mit Duden](https://www.duden.de/unsere-produkte/deutsch-lernen/erwachsene)
+
+[Deutsch lernen für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/deutsch-lernen/kinder-jugendliche)
 
 [◁ Sprachwissen](#listview-root)
 
