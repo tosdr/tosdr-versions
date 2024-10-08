@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ac4fc20db7d33d4107c505d42322c15f
+61adfc2d8d88bab9df1291e17cc8c131
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,20 +142,20 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Hand-made copper bell, 5.5 inch](https://sojourner.biz/images/cache/TT0008nmb8.200.jpg)](https://sojourner.biz/musical-instruments/hand-made-copper-bell-5.5-inch.html "Hand-made copper bell, 5.5 inch")
+[![Crystal garnet clasp](https://sojourner.biz/images/cache/SKU0106front.200.jpg)](https://sojourner.biz/clasps/faux-stone/crystal-garnet-clasp.html "Crystal garnet clasp")
 
-#### [Hand-made copper bell, 5.5 inch](https://sojourner.biz/musical-instruments/hand-made-copper-bell-5.5-inch.html "Hand-made copper bell, 5.5 inch")
+#### [Crystal garnet clasp](https://sojourner.biz/clasps/faux-stone/crystal-garnet-clasp.html "Crystal garnet clasp")
 
-$21.00
+$18.00
 
 ### Best Sellers
 
 1. [Vintage Italian chevron beads](https://sojourner.biz/beads/glass/vintage-italian-chevron-beads.html "Vintage Italian chevron beads")  
     $6.00
-2. [Snowstorm clasp](https://sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
-    $16.00
-3. [Tiny crystal clasp](https://sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
+2. [Tiny crystal clasp](https://sojourner.biz/clasps/swarovski/tiny-crystal-clasp.html "Tiny crystal clasp")  
     $15.00
+3. [Snowstorm clasp](https://sojourner.biz/clasps/glass/snowstorm-clasp.html "Snowstorm clasp")  
+    $16.00
 4. [Swarovski crystal AB clasp](https://sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
 5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
