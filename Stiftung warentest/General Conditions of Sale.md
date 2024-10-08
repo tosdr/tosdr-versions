@@ -565,7 +565,9 @@ Nächste Seite
 
 [Mein Konto](https://www.test.de/Hilfe-5836822-5225600/)
 
-     ![](https://cdn.test.de/file/image/a3/62/6ef98313-cec2-4829-8549-d7d6bf9629e3-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
+
+     ![](https://cdn.test.de/file/image/e5/61/6779b92a-d6ce-4c4d-b513-5de339add36e-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -594,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
-* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
+* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
 
 Fußbereich
 
@@ -2700,7 +2702,9 @@ Nächste Seite
 
 Nächste Seite
 
-     ![](https://cdn.test.de/file/image/a3/62/6ef98313-cec2-4829-8549-d7d6bf9629e3-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
+
+     ![](https://cdn.test.de/file/image/e5/61/6779b92a-d6ce-4c4d-b513-5de339add36e-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2729,14 +2733,16 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
-* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
+* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
 
-     ![](https://cdn.test.de/file/image/a3/62/6ef98313-cec2-4829-8549-d7d6bf9629e3-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
+
+     ![](https://cdn.test.de/file/image/e5/61/6779b92a-d6ce-4c4d-b513-5de339add36e-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2752,7 +2758,7 @@ Mobilrufnummer 2  Eltern-Geburtstag  Untertitel 2
 
 Ja, ich möchte diesen und weitere Newsletter der Stiftung Warentest abonnieren und bin mit der Auswertung meiner Newsletternutzung einverstanden. [Informationen zu den Newslettern und zum Datenschutz.](https://www.test.de/datenschutz/#id5105473)
 
-     ![](https://cdn.test.de/file/image/a3/62/6ef98313-cec2-4829-8549-d7d6bf9629e3-mobile/cr-newsletter_02-mobil-1000px;w400.png)
+     ![](https://cdn.test.de/file/image/e5/61/6779b92a-d6ce-4c4d-b513-5de339add36e-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
 Isabella Eigner  
 Chefredakteurin testMatthias Thieme  
@@ -2785,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
-* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
+* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
 
 Neueste Tests
 
@@ -2803,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
-* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
+* [Vermögens­aufbau: 5 Börsen­weisheiten im Check](https://www.test.de/Vermoegensaufbau-5-Boersenweisheiten-im-Check-5930197-0/ "Vermögensaufbau - 5 Börsenweisheiten im Check")
+* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
 
 Service Stiftung Warentest
 
