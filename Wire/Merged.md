@@ -49,7 +49,7 @@ Legislation & Compliance 
 
 ### About Privacy
 
-* Your privacy is very important to us. [Find out more](https://start.wire.com/privacy-policy?hsLang=en).
+* Your privacy is very important to us. [Find out more](https://wire.com/en/privacy-policy).
     
 * Your conversations belong to you, not to Wire or to anyone else.
     
