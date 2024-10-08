@@ -34,10 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Things That Sound Better Than They Are (150)](https://forum.nationstates.net/viewtopic.php?t=555662&f=20&view=unread#unread ""Things That Sound Better Than They Are" (150 posts)")
-* [American Politics: The Last Month (10,682)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: The Last Month" (10,682 posts)")
-* [Ukrainian War VII: Everything has a p… (6,320)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (6,320 posts)")
-* [What book are you reading? (10,235)](https://forum.nationstates.net/viewtopic.php?t=92530&f=19&view=unread#unread ""What book are you reading?" (10,235 posts)")
+* [The LGBT+ Thread: Rainbow Connections (2,902)](https://forum.nationstates.net/viewtopic.php?t=538581&f=20&view=unread#unread ""The LGBT+ Thread: Rainbow Connections" (2,902 posts)")
+* [Guess AN's Favorite Song! (85)](https://forum.nationstates.net/viewtopic.php?t=555300&f=25&view=unread#unread ""Guess AN's Favorite Song!" (85 posts)")
+* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (22)](https://forum.nationstates.net/viewtopic.php?t=556127&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - IC" (22 posts)")
+* [The Weather Thread- The Hurricanes ar… (2,780)](https://forum.nationstates.net/viewtopic.php?t=515489&f=20&view=unread#unread ""The Weather Thread- The Hurricanes are Coming!" (2,780 posts)")
 
 Advertisement
 
