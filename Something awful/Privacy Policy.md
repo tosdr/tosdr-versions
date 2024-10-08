@@ -205,25 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Jesus vs. the Homosexuals](https://www.somethingawful.com/icq-pranks/icq-transcript-jesus2/)
-* [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
-* [Cuckold Place](https://www.somethingawful.com/weekend-web/cuckold-place/1/)
-* [The Lost Archive](https://www.somethingawful.com/icq-pranks/icq-transcript-lost/1/)
-* [The Adventures of Satan](https://www.somethingawful.com/comedy-goldmine/satan-adventures-cyoa/1/)
+* [DVD Piracy Posters](https://www.somethingawful.com/comedy-goldmine/dvd-piracy-posters/1/)
+* [What's in Clint's Chair?](https://www.somethingawful.com/comedy-goldmine/clint-eastwood-chair/1/)
+* [Drug3k](https://www.somethingawful.com/weekend-web/drug3k/1/)
+* [Ask Google Image Search!](https://www.somethingawful.com/comedy-goldmine/ask-google-images/1/)
+* [More Lost Treasures of the AD&D 2nd Edition Monstrous Compendium](https://www.somethingawful.com/dungeons-and-dragons/monstrous-noid-compendium/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Awesome stuff we did as kids](http://forums.somethingawful.com/showthread.php?threadid=4072081 "Awesome stuff we did as kids")
 * ![](https://fi.somethingawful.com/forums/posticons/tg-scrunt.gif) [ex smoker goons, does it ever get better?](http://forums.somethingawful.com/showthread.php?threadid=4072114 "ex smoker goons, does it ever get better?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/attention.png) [Unofficial Feedback Thread for the Next Official GBS Feedback Thread](http://forums.somethingawful.com/showthread.php?threadid=4072134 "Unofficial Feedback Thread for the Next Official GBS Feedback Thread")
+* ![](https://forumimages.somethingawful.com/forums/posticons/icon-30-attnmod.gif) [Unofficial Feedback Thread for the Next Official GBS Feedback Thread](http://forums.somethingawful.com/showthread.php?threadid=4072134 "Unofficial Feedback Thread for the Next Official GBS Feedback Thread")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [VR Chats 2024 = Web 1.0 2004?](http://forums.somethingawful.com/showthread.php?threadid=4072168 "VR Chats 2024 = Web 1.0 2004?")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [I'm watching night of the living dead. 1968 version](http://forums.somethingawful.com/showthread.php?threadid=4072156 "I'm watching night of the living dead. 1968 version")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/sports.png) [Is there a way to exit a sports team with honor?](http://forums.somethingawful.com/showthread.php?threadid=4072152 "Is there a way to exit a sports team with honor?")
 
 ### Random Articles
 
-* [Post Office Pandemonium!](https://www.somethingawful.com/news/post-office-pandemonium/)
-* [Supergirl](https://www.somethingawful.com/horrors-of-porn/supergirl/)
-* [Steven Seagal's Lightning Bolt Energy Drink](https://www.somethingawful.com/awful-links/awful-link-3272/)
-* [Lawless; The Possession; V/H/S; Cosmopolis](https://www.somethingawful.com/current-movie-reviews/lawless-possession/1/)
-* [Nerd Rage News: A Look Back On 3-19-07](https://www.somethingawful.com/news/sony-playstation-exclusives/1/)
+* [Cultural Calamities](https://www.somethingawful.com/great-goon-database/great-goon-culture/1/)
+* [Address to the Supreme Council of the Illuminati Concerning Youtube User HolkHogan420](https://www.somethingawful.com/feature-articles/false-flag-youtube/)
+* [Citizens for Global Solutions](https://www.somethingawful.com/awful-links/awful-link-3581/)
+* [The Female Pokemon and Anime Weight Clan](https://www.somethingawful.com/awful-links/awful-link-2373/)
+* [Hippie Personals](https://www.somethingawful.com/awful-links/awful-link-2587/)
 
 [Random!](https://www.somethingawful.com/random/)
 
