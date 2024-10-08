@@ -1,7 +1,7 @@
 [PreMiD
 ======](https://premid.app/)
 
-[Store](https://premid.app/store)[Downloads](https://premid.app/downloads)[Contributors](https://premid.app/contributors)
+[Store](https://premid.app/store)[Contributors](https://premid.app/contributors)[Get PreMiD](https://premid.app/downloads)
 
 Terms of Service
 ================
@@ -98,7 +98,7 @@ This Terms and conditions page was created with the help at [termsandconditionst
 
 Ready to use PreMiD?
 
-[Install](https://premid.app/downloads)
+[Get PreMiD](https://premid.app/downloads)
 
 Partners
 
