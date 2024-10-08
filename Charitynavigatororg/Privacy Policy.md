@@ -13,8 +13,9 @@
     * [Best Charities](https://www.charitynavigator.org/discover-charities/best-charities.html)
     * [Charities with Perfect Scores](https://www.charitynavigator.org/discover-charities/best-charities/highly-rated-charities.html)
     * [Charities Rated Highly by their Participants](https://www.charitynavigator.org/discover-charities/best-charities/feedback-excellence.html)
-    * [Mental Health](https://www.charitynavigator.org/discover-charities/best-charities/suicide-prevention-depression-awareness.html)
-    * [Protect the Environment](https://www.charitynavigator.org/discover-charities/best-charities/protect-environment.html)
+    * [Breast Cancer](https://www.charitynavigator.org/discover-charities/best-charities/breast-cancer.html)
+    * [Climate Change](https://www.charitynavigator.org/discover-charities/best-charities/climate-change.html)
+    * [Military and Veterans](https://www.charitynavigator.org/discover-charities/where-to-give/veteran-service-member-charities.html)
     
     * [Popular Charities](https://www.charitynavigator.org/discover-charities/popular-charities.html)
     * [2024 Community Choice Awards Winners](https://www.charitynavigator.org/discover-charities/popular-charities/community-choice-award-winners-2024.html)
@@ -118,8 +119,9 @@
     * [Best Charities](https://www.charitynavigator.org/discover-charities/best-charities.html)
     * [Charities with Perfect Scores](https://www.charitynavigator.org/discover-charities/best-charities/highly-rated-charities.html)
     * [Charities Rated Highly by their Participants](https://www.charitynavigator.org/discover-charities/best-charities/feedback-excellence.html)
-    * [Mental Health](https://www.charitynavigator.org/discover-charities/best-charities/suicide-prevention-depression-awareness.html)
-    * [Protect the Environment](https://www.charitynavigator.org/discover-charities/best-charities/protect-environment.html)
+    * [Breast Cancer](https://www.charitynavigator.org/discover-charities/best-charities/breast-cancer.html)
+    * [Climate Change](https://www.charitynavigator.org/discover-charities/best-charities/climate-change.html)
+    * [Military and Veterans](https://www.charitynavigator.org/discover-charities/where-to-give/veteran-service-member-charities.html)
     
     * [Popular Charities](https://www.charitynavigator.org/discover-charities/popular-charities.html)
     * [2024 Community Choice Awards Winners](https://www.charitynavigator.org/discover-charities/popular-charities/community-choice-award-winners-2024.html)
