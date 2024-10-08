@@ -151,6 +151,7 @@ Latest reactions
 Latest forum posts
 
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=66 "WonderTANG! Who wants to juice up your MSX?")
+* [programming eprom games 8k](https://www.msx.org/forum/msx-talk/hardware/programming-eprom-games-8k "programming eprom games 8k")
 * [Aleste 2 manual automated translation](https://www.msx.org/forum/msx-talk/general-discussion/aleste-2-manual-automated-translation?page=1 "Aleste 2 manual automated translation")
 * [\[Nifty\] Tearless Flickerfree Screen Updating](https://www.msx.org/forum/msx-talk/development/nifty-tearless-screen-updating?page=1 "[Nifty] Tearless Flickerfree Screen Updating")
 * [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
@@ -162,7 +163,6 @@ Latest forum posts
 * [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=2 "Sony HB-75AS not displaying")
 * [Philips VG8235 dead and wonder tang that resurrects it](https://www.msx.org/forum/msx-talk/hardware/philips-vg8235-dead-and-wonder-tang-that-resurrects-it "Philips VG8235 dead and wonder tang that resurrects it")
 * [MSX2 disk menu, oasis?](https://www.msx.org/forum/msx-talk/software/msx2-disk-menu-oasis "MSX2 disk menu, oasis?")
-* [PISA event on 16 novembrer 2024](https://www.msx.org/forum/msx-talk/general-discussion/pisa-event-on-16-novembrer-2024 " PISA event on 16 novembrer 2024")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
