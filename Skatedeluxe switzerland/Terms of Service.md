@@ -2,11 +2,11 @@ cookie-whitecookie-white
 
 ×
 
-[Blog](https://www.skatedeluxe.com/blog/en/) [Team](https://www.skatedeluxe.com/en/team/) [Specials](https://www.skatedeluxe.ch/en/specials-free-offers) [Premium Club](https://www.skatedeluxe.ch/en/premiumclub)
+[Blog](https://www.skatedeluxe.com/blog/en/) [Team](https://www.skatedeluxe.ch/en/g/team) [Specials](https://www.skatedeluxe.ch/en/i/specials-free-offers) [Premium Club](https://www.skatedeluxe.ch/en/i/premiumclub)
 
-[Customer service](https://www.skatedeluxe.ch/en/customer-service)
+[Customer service](https://www.skatedeluxe.ch/en/i/customer-service)
 
-[Shipping](https://www.skatedeluxe.ch/en/shipping) [Payment](https://www.skatedeluxe.ch/en/payment) [Returns & Cancellation](https://www.skatedeluxe.ch/en/return) [Exchange](https://www.skatedeluxe.ch/en/exchange) [Size conversion chart](https://www.skatedeluxe.ch/en/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.ch/en/faq) [Contact](https://www.skatedeluxe.ch/en/contact)
+[Shipping](https://www.skatedeluxe.ch/en/i/customer-service/shipping) [Payment](https://www.skatedeluxe.ch/en/i/customer-service/payment) [Returns & Cancellation](https://www.skatedeluxe.ch/en/i/customer-service/return) [Exchange](https://www.skatedeluxe.ch/en/i/customer-service/exchange) [Size conversion chart](https://www.skatedeluxe.ch/en/i/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.ch/en/i/customer-service/faq) [Contact](https://www.skatedeluxe.ch/en/i/contact)
 
 ![](https://cdn.skatedeluxe.com/static/images/icons/phone-white.svg)
 
@@ -129,19 +129,19 @@ Search result for "%search\_keywords%"
 
 [](https://www.skatedeluxe.ch/en)
 
-[Brands](https://www.skatedeluxe.ch/en/all-brands "Brands")
+[Brands](https://www.skatedeluxe.ch/en/b/all-brands "Brands")
 
-[Skateboards](https://www.skatedeluxe.ch/en/skateboards "Skateboards")
+[Skateboards](https://www.skatedeluxe.ch/en/c/skateboards "Skateboards")
 
-[Shoes](https://www.skatedeluxe.ch/en/shoes "Shoes")
+[Shoes](https://www.skatedeluxe.ch/en/c/shoes "Shoes")
 
-[Clothing](https://www.skatedeluxe.ch/en/clothing "Clothing")
+[Clothing](https://www.skatedeluxe.ch/en/c/clothing "Clothing")
 
-[Accessories](https://www.skatedeluxe.ch/en/accessories "Accessories")
+[Accessories](https://www.skatedeluxe.ch/en/c/accessories "Accessories")
 
-[New](https://www.skatedeluxe.ch/en/brandnew "New")
+[New](https://www.skatedeluxe.ch/en/c/brandnew "New")
 
-[Sale](https://www.skatedeluxe.ch/en/sale "Sale")
+[Sale](https://www.skatedeluxe.ch/en/c/sale "Sale")
 
 Search result for "%search\_keywords%"
 --------------------------------------
@@ -168,11 +168,11 @@ Remove all filters
 
 Sorting
 
-[FREE SHIPPING ON ORDERS OVER CHF 100](https://www.skatedeluxe.ch/en/shipping "FREE SHIPPING ON ORDERS OVER 100 EUR")
+[FREE SHIPPING ON ORDERS OVER CHF 100](https://www.skatedeluxe.ch/en/i/customer-service/shipping "FREE SHIPPING ON ORDERS OVER 100 EUR")
 
-[FAST SHIPPING](https://www.skatedeluxe.ch/en/shipping "fastest Skateshop")
+[FAST SHIPPING](https://www.skatedeluxe.ch/en/i/customer-service/shipping "fastest Skateshop")
 
-[30 DAY RETURN POLICY](https://www.skatedeluxe.ch/en/return)
+[30 DAY RETURN POLICY](https://www.skatedeluxe.ch/en/i/customer-service/return)
 
 [Trustpilot](https://www.skatedeluxe.ch/%E2%80%8Bhttps:/uk.trustpilot.com/review/skatedeluxe.com)
 
@@ -195,11 +195,11 @@ Our offer is directed solely to direct end consumers. Purchasing products for re
 
 #### 4\. Delivery and Shipping Costs
 
-You will receive your order in one single package if possible. We reserve the right to partially deliver your order if there are bulky products or if a product will be available at a later time. This is no disadvantage for you since we pay for the additional shipping costs. Find all information about shipping costs for your delivery here: [Shipping costs](https://www.skatedeluxe.ch/en/shipping)
+You will receive your order in one single package if possible. We reserve the right to partially deliver your order if there are bulky products or if a product will be available at a later time. This is no disadvantage for you since we pay for the additional shipping costs. Find all information about shipping costs for your delivery here: [Shipping costs](https://www.skatedeluxe.ch/en/i/customer-service/shipping)
 
 #### 5\. Payment Options
 
-You can choose from different payment methods: PayPal, credit card, GooglePay, ApplePay, pay in advance (bank transfer) and Sofort (Klarna). We reserve the right to exclude certain payment methods. If you choose to pay in advance you will receive our bank information together with the order confirmation. The money transfer is to be made to the indicated account within 10 days. More information about payment: [Payment](https://www.skatedeluxe.ch/en/payment)
+You can choose from different payment methods: PayPal, credit card, GooglePay, ApplePay, pay in advance (bank transfer) and Sofort (Klarna). We reserve the right to exclude certain payment methods. If you choose to pay in advance you will receive our bank information together with the order confirmation. The money transfer is to be made to the indicated account within 10 days. More information about payment: [Payment](https://www.skatedeluxe.ch/en/i/customer-service/payment)
 
 #### 6\. Falsities
 
@@ -211,9 +211,9 @@ We grant you a voluntary right to return any merchandise within 30 days under th
 
 You may cancel the contract by returning the merchandise within 30 days after receipt. Punctual dispatch suffices to comply with the time limit. To exercise the right to return, it is required that the whole and undamaged merchandise has only been tried on, as it would be in a retail store. We ask you to return the merchandise in its original wrapping using the free return label that we add to each package.
 
-We will cover the cost of returning the goods if you use the return documents provided by us. If you do not have a prepaid return label, please contact our [customer service.](https://www.skatedeluxe.ch/en/contact)
+We will cover the cost of returning the goods if you use the return documents provided by us. If you do not have a prepaid return label, please contact our [customer service.](https://www.skatedeluxe.ch/en/i/contact)
 
-You will receive the return documents after registering your return online. [More info on returns.](https://www.skatedeluxe.ch/en/return)
+You will receive the return documents after registering your return online. [More info on returns.](https://www.skatedeluxe.ch/en/i/customer-service/return)
 
 **Consequences of return**: In case of a correct exercise of the right of cancellation we refund payments already made (except shipping costs) within 10 days after receipt of the merchandise.
 
@@ -253,7 +253,7 @@ In the case of defects in delivered goods, statutory rights apply.
 
 #### 12\. Data storage
 
-We would like to point out that entered data is processed and stored using electronic data processing equipment. Personal data is kept confidential and used for business purposes only. More information is available here on our website: [Data protection](https://www.skatedeluxe.ch/en/privacy)
+We would like to point out that entered data is processed and stored using electronic data processing equipment. Personal data is kept confidential and used for business purposes only. More information is available here on our website: [Data protection](https://www.skatedeluxe.ch/en/i/privacy)
 
 #### 13\. Applicable law
 
@@ -261,12 +261,12 @@ These general terms and conditions are subject to Swiss law. For all disputes re
 
 **Last updated: 15.05.2023**
 
-[Legal Notice](https://www.skatedeluxe.ch/en/legal-notice)
+[Legal Notice](https://www.skatedeluxe.ch/en/i/legal-notice)
 
-* [Terms & Conditions](https://www.skatedeluxe.ch/en/terms-and-conditions)
-* [Privacy Policy](https://www.skatedeluxe.ch/en/privacy)
-* [Cookie Policy](https://www.skatedeluxe.ch/en/cookie-policy)
-* [Whistleblower Policy](https://www.skatedeluxe.ch/en/whistleblower-policy)
+* [Terms & Conditions](https://www.skatedeluxe.ch/en/i/terms-and-conditions)
+* [Privacy Policy](https://www.skatedeluxe.ch/en/i/privacy)
+* [Cookie Policy](https://www.skatedeluxe.ch/en/i/cookie-policy)
+* [Whistleblower Policy](https://www.skatedeluxe.ch/en/i/whistleblower-policy)
 
 © skatedeluxe.ch Skateshop 2024
 
@@ -292,7 +292,7 @@ In order to provide you with the best possible user experience, we implement coo
 
 Apply selection
 
-By clicking "ACCEPT ALL" you agree to the use of all cookies and web tracking technologies. If you change your mind, you can find all the options to change or revoke your consent in our [Cookie Policy](https://www.skatedeluxe.ch/en/cookie-policy) and [Privacy Policy](https://www.skatedeluxe.ch/en/privacy).  
+By clicking "ACCEPT ALL" you agree to the use of all cookies and web tracking technologies. If you change your mind, you can find all the options to change or revoke your consent in our [Cookie Policy](https://www.skatedeluxe.ch/en/i/cookie-policy) and [Privacy Policy](https://www.skatedeluxe.ch/en/i/privacy).  
 
 Accept all
 
