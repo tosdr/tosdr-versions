@@ -31,1005 +31,1013 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-FC Cincinnati toma acción tras siniestro de Marco Angulo
-========================================================
+¿Quién era Roberto Cabezas, futbolista fallecido en siniestro de tránsito?
+==========================================================================
 
-El FC Cincinnati, dueño de los derechos económicos del futbolista Marco Angulo, se refirió a su siniestro de tránsito.
-----------------------------------------------------------------------------------------------------------------------
+Roberto Cabezas, fallecido futbolista en un siniestro de tránsito, durante su paso por la Selección de Ecuador Sub-17 a nivel juvenil.
+--------------------------------------------------------------------------------------------------------------------------------------
 
-![Marco Angulo, jugador de Liga de Quito afectado en un siniestro de tránsito, con el Cincinnati.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-07T131504.109.jpg)
+![Roberto Cabezas durante su etapa con la Selección de Ecuador juvenil.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-07T194258.770.jpg)
 
-La madrugada de este lunes 7 de octubre del 2024, **Marco Angulo** estuvo involucrado en un siniestro de tránsito en la Autopista General Rumiñahui. El futbolista se encuentra en estado crítico y, tras conocer el incidente del miembro de su plantilla que está a préstamo en Liga de Quito, el **FC Cincinatti** se pronunció.
+“**El talento no lo es todo, se tiene que dar el corazón**” señalaba que le habían dicho sus compañeros de categorías mayores cuando estaba en la Selección de Ecuador Sub-17 en 2019. Cinco años después de aquel suceso, la vida del jugador se extinguió en un siniestro de tránsito.
 
-Horas después de que se produjese el hecho, el **conjunto estadounidense** se hizo eco y mostró su postura por medio de un comunicado. Allí, el plantel azul y naranja sostuvo que se encuentra pendiente del estado del jugador y **realiza gestiones** para apoyarlo.
-
-### Más noticias:
-
-* [Liga de Quito se pronuncia sobre el estado de salud de Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-de-quito-se-pronuncia-sobre-el-estado-de-salud-de-marco-angulo.html "Liga de Quito se pronuncia sobre el estado de salud de Marco Angulo")
-* [¿Cuál es el estado de salud de Marco Angulo, jugador de Liga de Quito?](https://www.elcomercio.com/deportes/futbol/estado-de-salud-de-marco-angulo-jugador-liga-de-quito-siniestro.html "¿Cuál es el estado de salud de Marco Angulo, jugador de Liga de Quito?")
-* [¿Quién es Marco Angulo, jugador de Liga de Quito afectado en el siniestro de tránsito?](https://www.elcomercio.com/deportes/futbol/marco-angulo-siniestro-transito-jugador-liga-quito.html "¿Quién es Marco Angulo, jugador de Liga de Quito afectado en el siniestro de tránsito?")
-
-“**El FC Cincinnati está devastado por la noticia de que Marco Angulo ha sido hospitalizado después de un siniestro automovilístico en Ecuador. Él se encuentra bajo cuidado de profesionales médicos en Quito y desde el club trabajamos para obtener más información y proveerle cualquier tipo de apoyo que podamos**“, expresó el elenco.
-
-En el documento, la escuadra de la **MLS** sostuvo que permanece junto al jugador y su familia con la esperanza de que se recupere. De igual forma, se solidarizó con quienes fallecieron y resultaron heridos.
-
-Marco Angulo con el Cincinnati FC y Liga de Quito
--------------------------------------------------
-
-**Marco Angulo** arribó al Cincinnati en enero del 2023, permaneció allí durante una temporada y es el dueño de los derechos deportivos. El futbolista disputó 33 partidos y brindó dos asistencias en su estancia con el plantel estadounidense[.](https://en.wikipedia.org/wiki/Marco_Angulo "https://en.wikipedia.org/wiki/Marco_Angulo")
-
-Para el ciclo 2024, Liga de Quito hizo efectiva la cesión del volante. En la ‘U’ este se puso a las órdenes de **Josep Alcácer** y luego del **DT Pablo ‘Vitamina’ Sánchez**. Con el equipo capitalino, Angulo ha disputado Recopa Sudamericana, Copa Libertadores, Copa Sudamericana y la Liga Pro.
-
-Los albos también se refirieron a la situación de **Marco Angulo** y especificaron que su situación era de pronóstico reservado. Asimismo, expresaron su solidaridad con los fallecidos y sus familias, así como los heridos.
-
-¿Cómo fue el siniestro de Marco Angulo?
----------------------------------------
-
-El vehículo del futbolista, junto a otros cuatro ocupantes, se impactó ante una barrera en la **Autopista General Rumiñahui**. El siniestro se produjo a la altura del Puente 8 en el sector de la entrada a Conocoto.
-
-Después del suceso, Angulo tuvo un traslado al Hospital Eugenio Espejo en Quito, donde permanece. A su vez, falleció el futbolista **Roberto Cabezas**, quien manejaba el vehículo y pertenecía a Independiente Juniors -filial de Independiente del Valle- y Víctor Charcopa.
-
-Para la tarde este lunes 7 de octubre del 2024 se espera una actualización del estado del futbolista. Este presenta una **fractura de pelvis, neumotórax derecho, edema cerebral, hemorragia subdural y una hemorragia subaracnoidea postraumática.**
-
-¿Cuáles son las consecuencias del siniestro en la autopista General Rumiñahui para el nuevo puente?
-===================================================================================================
-
-Un vehículo impactó una viga de un puente en construcción en la autopista General Rumiñahui, causando graves daños y retraso en las obras.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![Dos personas fallecieron en un siniestro de tránsito este 7 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/puente.png)
-
-Este lunes 7 de octubre, **Álex Rivera**, director de movilidad de la Prefectura de Pichincha, informó a **EL COMERCIO** sobre las consecuencias del siniestro ocurrido durante la madrugada. Un vehículo impactó una viga de un **puente en construcción**, lo que causó un **desplazamiento de cinco metros**.
-
-### Más noticias
-
-* [Policía confirma segundo fallecido en choque de la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/policia-confirma-segundo-fallecido-en-choque-autopista-general-ruminahui.html "Policía confirma segundo fallecido en choque de la autopista General Rumiñahui")
-* [Lo que se sabe del choque en la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/lo-que-se-sabe-del-choque-en-autopista-general-ruminahui.html "Lo que se sabe del choque en la autopista General Rumiñahui")
-* [Cierre de tramo de la Autopista Rumiñahui para este domingo 6 de octubre](https://www.elcomercio.com/actualidad/cierre-de-tramo-de-la-autopista-ruminahui-para-este-domingo-6-de-octubre.html "Cierre de tramo de la Autopista Rumiñahui para este domingo 6 de octubre")
-
-El puente forma parte de una o**bra planificada con precisión** para minimizar el impacto en el tráfico. Las labores de construcción, que **implicaban izar vigas de 50 toneladas**, fueron interrumpidas debido al siniestro.
-
-Daños en la estructura del puente en la autopista Rumiñahui
------------------------------------------------------------
-
-Rivera explicó que la viga impactada es parte crucial del puente y que el **golpe fue severo**. Se utilizarán equipos especializados para la reparación, lo cual podría tomar de **dos a tres semanas**. Esta situación ha generado preocupación, ya que se tenía previsto entregar el puente en diciembre.
-
-Sin embargo, aún no se ha determinado **si el plazo se extenderá**, aunque las estimaciones sugieren que la entrega podría retrasarse hasta enero.
-
-> 🚨Uno de los ocupantes del vehículo es jugador de un equipo de fútbol de [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/BvDTE5JAf2](https://t.co/BvDTE5JAf2) [pic.twitter.com/unUWOaulZw](https://t.co/unUWOaulZw)
-> 
-> — El Comercio (@elcomerciocom) [October 7, 2024](https://twitter.com/elcomerciocom/status/1843286056650862740?ref_src=twsrc%5Etfw)
-
-El siniestro ocurrió en un momento delicado, cuando se estaban realizando **trabajos de gran complejidad**. Las autoridades recalcaron que se **habían tomado todas las precauciones necesarias para evitar incidentes**. Sin embargo, la velocidad del vehículo involucrado fue tan alta que **no hubo indicios de frenado antes del impacto**.
-
-Las autoridades han iniciado las reparaciones del puente afectado.
-
-El director Rivera señaló que el **contratista de la obra será quien cubra los costos mediante seguros**. Según el procedimiento estándar, mientras **la obra no sea entregada a la Prefectura**, el **contratista asume la responsabilidad**.
-
-Medidas de prevención y señalización
-------------------------------------
-
-Rivera también destacó las **medidas de seguridad y señalización** que se implementaron antes de comenzar los trabajos. Indicó que desde la semana pasada, se difundió ampliamente en redes sociales la información sobre el **cierre de la vía**. Se habilitaron **carriles laterales y se colocaron señales luminosas para advertir a los conductores sobre los desvío**s.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DA1NYxBI9-I/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DA1NYxBI9-I/?utm_source=ig_embed&utm_campaign=loading)
-
-A pesar de estas precauciones, el vehículo que impactó la viga circulaba a una velocidad considerable. Rivera mencionó que la señalización, compuesta por **grandes muros de jersey**, fue destruida en su totalidad.
-
-Las primeras investigaciones confirmaron que no hubo intento de frenado por parte del conductor, lo que **generó la magnitud del daño en la estructura del puent**e. Las autoridades acudieron de inmediato al lugar para asistir a las **personas involucradas en el siniestro**.
-
-¿Quién ganó el ‘reality’ La Academia 2024? 
-===========================================
-
-Un oriundo de Monterrey, se corona como el ganador de La Academia 2024.
------------------------------------------------------------------------
-
-![Mario se llevó el primer lugar en La Academia 2024 gracias a su talento vocal y su conexión con el público. Foto: la-lista.com.](https://www.elcomercio.com/wp-content/uploads/2024/10/la-academia-reality.jpg)
-
-**La Academia 2024** ha llegado a su fin, y el nombre de **Mario Girón** resuena con fuerza en el mundo del entretenimiento.  
-
-### Más noticias
-
-* [Madonna invita a Wendy Guevara a compartir el escenario en uno de sus ‘shows’](https://www.elcomercio.com/tendencias/madonna-wendy-guevara-trans-artistas.html "https://www.elcomercio.com/tendencias/madonna-wendy-guevara-trans-artistas.html")
-* [‘Combate’ está de vuelta y así fue su tan esperado regreso](https://www.elcomercio.com/tendencias/combate-reality-rts-concurso.html "https://www.elcomercio.com/tendencias/combate-reality-rts-concurso.html")
-
-Este joven talento, **originario de Monterrey**, se ha coronado como el **ganador de la última edición del popular ‘reality show’**.  
-
-Desde el inicio, **Mario capturó la atención del público y los jueces con su voz potente y su carisma innegable**. Su interpretación de **El triste de José José** en la final fue un momento culminante que selló su victoria. 
-
-**La gran final del ‘reality’ La Academia 2024** 
--------------------------------------------------
-
-La **final de La Academia 2024** fue un evento lleno de emociones y talento. Siete académicos compitieron por el primer lugar, pero fue Mario quien se destacó por encima de los demás. Su capacidad para conectar con el público y su **habilidad vocal** lo hicieron merecedor del premio en efectivo y el reconocimiento nacional, según recoge [El Financiero](https://www.elfinanciero.com.mx/entretenimiento/2024/10/06/gran-final-de-la-academia-2024-quien-es-el-ganador-del-reality-musical/ "https://www.elfinanciero.com.mx/entretenimiento/2024/10/06/gran-final-de-la-academia-2024-quien-es-el-ganador-del-reality-musical/"). 
-
-**Reacciones y futuro del ganador** 
-------------------------------------
-
-Tras su victoria, las **redes sociales** se inundaron de **mensajes de apoyo y felicitaciones para Mario Girón**. Su triunfo no solo representa un logro personal, sino también una oportunidad para **impulsar su carrera musical a nuevos horizontes**.  
-
-Los fanáticos esperan con ansias sus próximos proyectos y presentaciones en vivo. **Mario ha expresado su gratitud hacia sus seguidores** y ha prometido seguir trabajando arduamente para ofrecer lo mejor de su música, a decir de [TVAzteca](https://www.tvazteca.com/aztecauno/la-academia-2024-quien-gano-final-6-octubre-lor-notas-mt "https://www.tvazteca.com/aztecauno/la-academia-2024-quien-gano-final-6-octubre-lor-notas-mt").  
-
-**¿Qué es La Academia?** 
--------------------------
-
-**La Academia 2024** ha sido una plataforma crucial para muchos artistas emergentes, y **Mario Girón** es un claro ejemplo de cómo el talento y la dedicación pueden llevar al éxito.  
-
-Con su victoria, **Mario se une a la lista de ganadores que han dejado una huella en la industria musical**. Su historia inspira a muchos jóvenes que sueñan con alcanzar el estrellato a través de su pasión por la música. 
-
-Con su triunfo, **Mario Girón** no solo ha ganado un concurso, sino que ha conquistado los corazones de miles de personas que ven en él una promesa del **futuro musical de México**. Su camino apenas comienza, y el mundo está ansioso por ver qué le depara el destino a este talentoso artista. 
-
-¡Se acabó la relación! Barcelona SC negocia la salida de Ariel Holan
-====================================================================
-
-Tras una serie de malos resultados, Ariel Holan está cerca de dejar Barcelona SC.
----------------------------------------------------------------------------------
-
-![Ariel Holan con la camiseta de Barcelona Sporting Club.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-07T134854.275.jpg)
-
-La paciencia en **Barcelona Sporting Club** parece haberse agotado. Luego de la contundente derrota 3-0 ante El Nacional, el futuro de **Ariel Holan** como técnico del ‘Ídolo’ está en duda, y su salida parece inminente.
-
-Después de un prometedor primer semestre, el equipo canario proyectaba buenos resultados para la segunda etapa del torneo. Sin embargo, el rendimiento ha sido decepcionante, con malos resultados, un pobre desempeño y la salida de jugadores emblemáticos como **Damián Díaz**.
+Nació en Quinindé el 7 de octubre de 2002 y, cuando se produjo el suceso, cumplía 22 años. Se desempeñaba como lateral izquierdo y había realizado sus formativas en **Independiente del Valle**, club en el que militaba en su filial: **Independiente Juniors.**
 
 ### Más noticias:
 
-* [El Nacional goleó a Barcelona SC, en Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-goleo-a-barcelona-sc.html "El Nacional goleó a Barcelona SC, en Quito")
-* [(Video) Hinchas de Barcelona SC lanzan huevos a sus jugadores](https://www.elcomercio.com/deportes/futbol/hinchas-barcelona-sc-lanzan-huevos-a-jugadores.html "(Video) Hinchas de Barcelona SC lanzan huevos a sus jugadores")
-* [Álex Aguinaga apunta a Ariel Holan por presente de Barcelona SC](https://www.elcomercio.com/deportes/alex-aguinaga-ariel-holan-barcelona-sc.html "Álex Aguinaga apunta a Ariel Holan por presente de Barcelona SC")
-
-Holan intentó llevar a cabo una **renovación del plantel**, con especial énfasis en las categorías formativas, pero los últimos siete partidos en la Liga Pro han sido una pesadilla: solo dos victorias, un empate y cuatro derrotas, con cinco goles a favor y 11 en contra.
-
-**Barcelona SC y Holan negocian la desvinculación**
----------------------------------------------------
-
-El periodista argentino César Luis Merlo confirmó en sus redes sociales que las **negociaciones para la salida de Holan** ya están en marcha.
-
-“Barcelona SC y **Ariel Holan están negociando la interrupción del contrato**. Las conversaciones avanzan en buenos términos, y se espera una definición a corto plazo”, publicó en su cuenta de X.
-
-Si se concreta la salida, Holan sería el segundo técnico que abandona el club este año, tras el uruguayo **Diego López**, quien dejó el banquillo a finales de abril luego de dirigir pocos partidos.
-
-Los números de Ariel Holan en Barcelona SC
-------------------------------------------
-
-La llegada de Ariel Holan a **Barcelona SC e**n mayo generó grandes expectativas debido a su reputación y trayectoria, especialmente por su exitoso paso por Independiente de Avellaneda. Sin embargo, los resultados no estuvieron a la altura.
-
-En total, Holan **dirigió 22 partidos** entre Liga Pro, Copa Ecuador, Copa Sudamericana y Copa Libertadores. **El balance es modesto: 10 victorias**, 4 empates y 8 derrotas, con 28 goles a favor y 27 en contra.
-
-Entre sus grandes tropiezos están la **temprana eliminación de la Copa Ecuador** a manos de Independiente Juniors y la eliminación en los playoffs de octavos de final de la **Copa Sudamericana.** Además, no pudo pelear por ninguna de las dos etapas de la Liga Pro, lo que ha dejado a Barcelona lejos de los objetivos trazados para el 2024.
-
-EE.UU. destina a Israel cifra récord de 17 900 millones de dólares en ayuda militar
-===================================================================================
-
-El Gobierno de Biden planea ampliar este apoyo.
------------------------------------------------
-
-![Humo se eleva sobre edificios residenciales tras un ataque aéreo israelí en la ciudad de Jan Yunis, al sur de la Franja de Gaza.](https://www.elcomercio.com/wp-content/uploads/2024/10/ataque-israeli-efe.jpg)
-
-**Estados Unidos** destinó una cifra récord de al menos **17 900 millones de dólares** en ayuda militar a Israel desde el inicio de la guerra en Gaza, tras el ataque del grupo islamista Hamás del 7 de octubre de 2023, del que **este lunes se cumple un año**.
-
-### Más noticias
-
-* [Israel ordena evacuaciones marítimas a más de 50 km de la frontera con Líbano](https://www.elcomercio.com/actualidad/mundo/israel-ordena-evacuaciones-maritimas-50-km-frontera-libano.html "Israel ordena evacuaciones marítimas a más de 50 km de la frontera con Líbano")
-* [Tres impactos del conflicto entre Israel y Hamás, a un año de la guerra](https://www.elcomercio.com/actualidad/mundo/aniversario-del-7-de-octubre-de-2023-de-la-guerra-en-la-franja-de-gaza.html "Tres impactos del conflicto entre Israel y Hamás, a un año de la guerra")
-* [Israel ataca centro de mando de Hamás](https://www.elcomercio.com/actualidad/israel-ataca-centro-de-mando-de-hamas.html "Israel ataca centro de mando de Hamás")
-
-Esta cantidad supone el **mayor desembolso realizado por EE.UU**. desde que comenzó su programa de asistencia militar a Israel en 1959. Esto según un **informe publicado este lunes el centro de investigación** no partidista ‘Costs of War Project’ de la Universidad Brown.
-
-Los investigadores advierten que la **cifra es conservadora y podría** ser superior, ya que la Administración de Joe Biden realizó al menos **100 acuerdos armamentísticos** con Israel desde octubre de 2023 por valores inferiores al umbral que requiere ser notificado al Congreso.
-
-Rayo de Hierro
---------------
-
-Del total de la ayuda, 4 500 millones de dólares **se destinó a defensa antimisiles** y 1.200 millones al sofisticado sistema de defensa antiaérea Rayo de Hierro, que utiliza tecnología láser y cuya instalación está prevista para 2025.
-
-Cúpula de Hierro
-----------------
-
-Este nuevo sistema, diseñado para **derribar cohetes de corto alcance, artillería y bombas de mortero,** complementará al sistema de defensa Cúpula de Hierro, destinada a interceptar misiles lanzados desde mayor distancia y para el que EE.UU. aportó este año 4 000 millones.
-
-El Gobierno de Biden planea ampliar este apoyo. El pasado 13 de agosto, el Ejecutivo pidió al Congreso la aprobación de **20 300 millones de dólares adicionales para Israel** que se desembolsarían durante los próximos años, aunque esta propuesta aún se está debatiendo en el Legislativo.
-
-Gasto en defensa
-----------------
-
-El informe destaca que el incremento del **gasto en defensa no se ha limitado a Israel**. Washington destinó **4 860 millones adicionales a operaciones militares** en la región desde octubre de 2023, incluyendo su **campaña naval para hacer frente a los ataques de los rebeldes** chiíes hutíes del Yemen contra buques en el Mar Rojo.
-
-Israel es el **mayor receptor de ayuda estadounidense desde la Segunda Guerra Mundial** y, actualmente, se encuentra en medio de un acuerdo de diez años de asistencia militar por valor de **38 000 millones de dólares** para el periodo 2019-2028, que fue negociado durante el Gobierno de Barack Obama (2009-2017).
-
-Este pacto establece que EE.UU. dará a Israel cada año **3 300 millones de dólares en ayuda militar** y 500 específicamente para sistemas de defensa antimisiles.
-
-CNE abre nueva etapa para ser observador en las elecciones 2025
-===============================================================
-
-Las elecciones 2025 tendrán observadores. Una nueva etapa se desarrollará.
---------------------------------------------------------------------------
-
-![CNE realiza proceso para acreditar a observadores electorales.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-observadores.jpg)
-
-El calendario para las elecciones 2025 en Ecuador sigue corriendo. Como parte de este, el **Consejo Nacional Electoral (CNE)** acreditó a observadores[.](https://es.wikipedia.org/wiki/Ecuador)
-
-Se trata de **94 personas**, quienes se registraron en la segunda fase del proceso. Hay otro grupo que se apuntó en la primera etapa.
-
-### Más noticias
-
-* [Segunda vuelta electoral para las elecciones de 2025, ¿en qué casos se realiza?](https://www.elcomercio.com/actualidad/politica/en-que-casos-se-realiza-segunda-vuelta-electoral.html "Segunda vuelta electoral para las elecciones de 2025, ¿en qué casos se realiza?")
-* [16 binomios presidenciales inscritos para las elecciones 2025 en Ecuador](https://www.elcomercio.com/actualidad/politica/16-binomios-presidenciales-inscritos-para-las-elecciones-2025-en-ecuador.html "16 binomios presidenciales inscritos para las elecciones 2025 en Ecuador")
-* [Elecciones 2025: CNE calificó cuatro binomios presidenciales, negó candidatura de Jimmy Jairala](https://www.elcomercio.com/actualidad/politica/elecciones-2025-cne-califico-cuatro-binomios-presidenciales-nego-candidatura-jimmy-jairala.html "Elecciones 2025: CNE calificó cuatro binomios presidenciales, negó candidatura de Jimmy Jairala")
-
-> [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) 🇪🇨🗳️  
->   
-> En uso de sus atribuciones, el [#PlenoCNE](https://twitter.com/hashtag/PlenoCNE?src=hash&ref_src=twsrc%5Etfw) conoce y resuelve respecto de los informes de [#InscripciónCandidaturasEc](https://twitter.com/hashtag/Inscripci%C3%B3nCandidaturasEc?src=hash&ref_src=twsrc%5Etfw). ✍️ [pic.twitter.com/omIiyAd5Ub](https://t.co/omIiyAd5Ub)
-> 
-> — cnegobec (@cnegobec) [October 6, 2024](https://twitter.com/cnegobec/status/1843067648617381943?ref_src=twsrc%5Etfw)
-
-Elecciones 2025 y los observadores
-----------------------------------
-
-Para las votaciones, las personas acreditadas por el [**CNE**](https://www.cne.gob.ec/) como **observadores** ya suman 109. Una nueva etapa se realizará.
-
-El organismo electoral apunta a que se sumen más personas para el proceso electoral. Las **votaciones** generales serán el 9 de febrero. De haber segunda vuelta se desarrollará el 13 de abril.
-
-El nuevo proceso para la acreditación de observadores será del **8 de noviembre al 12 de diciembre**.
-
-¿Quiénes pueden ser observadores?
----------------------------------
-
-Las **personas naturales y jurídicas nacionales**, así como extranjeras que hayan residido legalmente en el país de manera continua por, al menos, cinco años, podrán ser observadores electorales.
-
-Para ello, el trámite se podrá realizar en línea o presencialmente. El primer paso es descargar el formulario disponible en **www.cne.gob.ec y completarlo**.
-
-Luego, se debe adjuntar la documentación requerida y enviarla digitalmente. Del mismo modo, pueden presentar los documentos en la **Secretaría General del CNE** o en las delegaciones provinciales.
-
-Los observadores deben asistir a capacitaciones y luego del proceso electoral deberán entregar un informe y, luego, uno final. Tienen prohibido realizar **proselitismo**.
-
-Los binomios presidenciales
----------------------------
-
-La inscripción de **candidaturas** para las **elecciones 2025** se cerró el 2 de octubre de 2025. En este proceso se apuntaron 16 binomios, entre ellos el del actual presidente **Daniel Noboa y María José Pinto**. Esta última en reemplazo de Verónica Abad, con quien llegó en 2023.
-
-Hasta la mañana de este lunes, 7 de octubre de 2024, el **CNE** calificó a 10 de las duplas.
-
-* Movimiento CREO
-* Movimiento ADN
-* Partido Unidad Popular
-* Partido Sociedad Patriótica
-* Partido Socialista Ecuatoriano
-* Alianza Revolución Ciudadana – Reto
-* Movimiento Construye
-* Movimiento PID
-* Movimiento Amigo
-* Movimiento Democracia SÍ
-
-Calendario electoral
---------------------
-
-El calendario electoral para las elecciones 2025 contempla impugnaciones a las **candidaturas**. Por eso, los postulantes en firme se conocerán el 30 de diciembre.
-
-La **campaña electoral** será del 5 de enero y se extenderá hasta el 6 de febrero. El 19 de enero, se llevará a cabo el primer simulacro electoral y el **debate presidencial**.  
-
-El 26 de enero será el segundo simulacro. En estas se elegirá, además, asambleístas y parlamentarios andinos.  
-
-El 6 de febrero, las votaciones serán para las **personas privadas de la libertad** sin sentencia ejecutoriada. El 7 de ese mismo mes, el turno será para el voto en casa.  
-
-Caso Metástasis, juez Manuel Cabrera tomará una resolución este 7 de octubre
-============================================================================
-
-El juez Manuel Cabrera decidirá si los 37 procesados del caso Metástasis serán llamados a juicio por delincuencia organizada.
------------------------------------------------------------------------------------------------------------------------------
-
-![Audiencia del caso Metástasis el pasado 12 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/caso-mestastasis.png)
-
-Este lunes 7 de octubre de 2024, el **juez Manuel Cabrera** dará a conocer si los **37 procesados** en el caso Metástasis serán llamados a juicio. A las 14:00 en la **Corte Nacional de Justicia** se instalará la audiencia para conocer la resolución en este proceso.
-
-### Más noticias
-
-* [Caso Metástasis: CNJ resolverá si llama o no a juicio a los 37 procesados](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-cnj-resolvera-si-llama-o-no-a-juicio-a-los-37-procesados.html "Caso Metástasis: CNJ resolverá si llama o no a juicio a los 37 procesados")
-* [Caso Metástasis, acusaciones y defensas chocan en audiencias](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-acusaciones-defensas-chocan-audiencias.html "Caso Metástasis, acusaciones y defensas chocan en audiencias")
-* [Caso Metástasis, defensa de acusados señala vacíos en la investigación](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-defensa-acusados-senalan-vacios-investigacion.html "Caso Metástasis, defensa de acusados señala vacíos en la investigación")
-
-De los **49 acusados inicialmente, 12 ya han aceptado su responsabilidad** y fueron sentenciados por delincuencia organizada. Esta situación refuerza la teoría presentada por la Fiscalía General del Estado. El resto de los implicados espera la decisión judicial que podría definir su futuro procesal.
-
-Evidencias presentadas por la Fiscalía en el caso Metástasis
-------------------------------------------------------------
-
-Durante la audiencia preparatoria, la Fiscalía expuso más de **340 elementos de convicción**. Entre estos se encuentran chats, **testimonios de imputados y agentes**, reportes financieros y partes policiales.
-
-Las pruebas apuntan a una compleja red delictiva dentro del sistema penitenciario, presuntamente liderada por **Fabián C., Cristian R. y Xavier J.**
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): para hoy está convocada la reinstalación de la audiencia preparatoria de juicio contra 37 personas, para conocer si son llamadas a juicio. [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) las procesa por su presunta participación en el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Conoce más ⬇️ [pic.twitter.com/OIPg7lpAn2](https://t.co/OIPg7lpAn2)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 7, 2024](https://twitter.com/FiscaliaEcuador/status/1843328562306367656?ref_src=twsrc%5Etfw)
-
-Esta red habría **operado con la complicidad de jueces, fiscales y funcionarios penitenciarios**, entre otros.
-
-Vínculos con el asesinato de Leandro Norero
--------------------------------------------
-
-El caso tiene sus orígenes en el asesinato de **Leandro Norero** en la cárcel de Cotopaxi. Según la investigación, Norero dirigía desde la prisión una **organización que buscaba asegurarle privilegios y beneficios** dentro del centro penitenciario.
-
-Además, pretendía obtener impunidad para él y su familia en un caso por lavado de activos.
-
-> [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw) | El lunes 7 de octubre, a las 14:00, en la [@CorteNacional](https://twitter.com/CorteNacional?ref_src=twsrc%5Etfw) se reinstalará de audiencia de evaluación y preparatoria de juicio para 37 sospechosos de presunta delincuencia organizada. Entre ellos se encuentra Wilman Terán, extitular de la [@CJudicaturaEc](https://twitter.com/CJudicaturaEc?ref_src=twsrc%5Etfw). [pic.twitter.com/3AJJ5sDL6B](https://t.co/3AJJ5sDL6B)
-> 
-> — Círculo de Periodistas Judiciales (@FundacionCPJ) [October 4, 2024](https://twitter.com/FundacionCPJ/status/1842218553606385750?ref_src=twsrc%5Etfw)
-
-Según la Fiscalía, los demás procesados, como **Marcel L., Ronny A. y Wilman T.**, habrían colaborado con esta estructura a cambio de **favores y beneficios**.
-
-Cortes de agua en Quito afectarán a más de 80 barrios este lunes 7 de octubre
-=============================================================================
-
-Los cortes de luz dispuestos en Quito y en todo el país generan cortes de agua, pues a estas zonas el líquido llega mediante bombeo eléctrico.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Este 7 de octubre, los barrios altos de Quito no tendrán servicio de agua potable.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-agua.jpg)
-
-La suspensión del **servicio de energía eléctrica** que realiza el Gobierno afecta el suministro de agua potable en Quito, por lo que se dispuso cortes de agua algunos barrios.
-
-### Más noticias
-
-* [Cortes de luz en Quito serán de una hora la tarde de este lunes 7 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-una-hora-tarde-lunes-7-de-octubre.html "Cortes de luz en Quito serán de una hora la tarde de este lunes 7 de octubre")
-* [Industrias de dos ciudades paralizadas por cortes de luz](https://www.elcomercio.com/actualidad/negocios/industrias-de-dos-ciudades-paralizadas-por-cortes-de-luz.html "Industrias de dos ciudades paralizadas por cortes de luz")
-* [Lo que se sabe del choque en la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/lo-que-se-sabe-del-choque-en-autopista-general-ruminahui.html "Lo que se sabe del choque en la autopista General Rumiñahui")
-
-La **Empresa Metropolitana de Agua Potable** (Epmaps) informó este lunes 7 de octubre que los cortes de luz impactan directamente la provisión de agua en los barrios de las partes altas de Quito. Esto debido a que a estas zonas el líquido llega mediante bombeo eléctrico.
-
-La Epmaps recomendó a quienes habiten en estos sectores que se abastezcan del líquido necesario para cubrir sus necesidades básicas de higiene, alimentación y salud.
-
-Agregó que personal técnico y operativo monitorea los sistemas de bombeo a fin de ponerlos en funcionamiento cuando el fluido eléctrico se normalice.
-
-Barrios afectados de 20:00 a 22:00
-----------------------------------
-
-* **Parroquia Belisario Quevedo:** Pambachupa, San Vicente, Santa Clara De San Millán (Comuna), Las Casas, La Gasca, La Granja, Zona de Protección Belisario, La Primavera
-* **Parroquia Conocoto:** San Cristóbal, San José De Conocoto Alto, El Rosario
-* **Parroquia La Argelia:** Aída León, San Carlos, Zona De Protección De La Argelia, Miravalle 2, San Bartolo Alto, Oriente Quiteño, Cumbres De Santa María
-* **Parroquia La Ferroviaria:** Mirador De Puengasi, Chaguarquingo, San Luis De Miravalle, Ferroviaria Alta, Chiriyacu Alto, La Clemencia, San Patricio De Puengasi, Forestal Alta, Ferroviaria Media
-* **Parroquia Rumipamba:** Zona De Protección Rumipamba, Ninguilla
-* **Parroquia Chilibulo:** Yaguachi, Chilibulo, La Dolorosa, Comuna Marcopamba – Chilibulo – La Raya, Zona De Protección Chilibulo
-* **Parroquia Conocoto:** Valle Hermoso, Monserrat, San Cristóbal, San José de Conocoto Alto, El Rosario
-* **Parroquia Itchimbía:** Zona de Protección Monjas, Nueva Floresta
-* **Parroquia La Argelia:** Aída León, San Carlos, Zona de Protección de La Argelia, Miravalle 2, San Bartolo Alto, Oriente Quiteño, Cumbres de Santa María
-* **Parroquia La Ferroviaria:** Mirador de Puengasí, San Luis de Miravalle, Ferroviaria Alta, San Patricio de Puengasí, Forestal Alta
-* **Parroquia La Libertad:** La Colmena, Libertad Baja, Los Ángeles, Santa Lucía Baja, Cima de La Libertad, San Diego Alto, San José de La Libertad, Josefina Enríquez, Santa Lucía Alta
-* **Parroquia Puengasí:** Valle de Puengasí, Bosque Iess, Zona de Protección Puengasí, Obrero Independiente 2, Jardín Del Valle, Auqui De Monjas, El Guabo, San Isidro, Alma Lojana
-
-Cortes de agua en estos barrios de 19:00 a 22:00
-------------------------------------------------
-
-* **Parroquia Chillogallo:** Nueva Esperanza Del Sur, Colinas Del Sur, Buenaventura, La Estancia, Zona de Protección Chillogallo, San Antonio de La Libertad
-* **Parroquia La Ecuatoriana:** Santa Clara, Zona de Protección La Ecuatoriana, Nuevo Horizonte de Huarcay, San Francisco De Huarcay, La Cristalina De Huarcay, Luz Y Vida de Huarcay
-
-La restitución del servicio de agua potable se reanudará de forma paulatina a partir del horario señalado. Para conocer si tu barrio se verá afectado puedes enviar un mensaje de WhatsApp al 096 207 2222 opción 4.
-
-> 💧 [#AguaDeQuito](https://twitter.com/hashtag/AguaDeQuito?src=hash&ref_src=twsrc%5Etfw) | Debido a los cortes de luz anunciados por el Gobierno Nacional, las zonas altas se verán afectadas con el suministro de agua potable este 7 de octubre de 2024 👉 [https://t.co/dcehCa7C1W](https://t.co/dcehCa7C1W)  
->   
-> Conoce si tu sector está afectado a través de:  
->   
-> 📲Mensaje al WhatsApp 096… [pic.twitter.com/7UYAM3QrOI](https://t.co/7UYAM3QrOI)
-> 
-> — Epmaps – Agua de Quito (@aguadequito) [October 7, 2024](https://twitter.com/aguadequito/status/1843334667434594793?ref_src=twsrc%5Etfw)
-
-Microbios vivos descubiertos en una roca de 2 000 millones de años
-==================================================================
-
-Los investigadores descubrieron células microbianas vivas en grietas de una roca tras cortarla en rodajas finas.
-----------------------------------------------------------------------------------------------------------------
-
-![Fotografía tomada en el lugar cuando se lavó, flameó y luego se quebró la muestra del núcleo de perforación. El núcleo de 30 centímetros de largo y 85 milímetros de diámetro se llevó de regreso a Japón para su estudio posterior.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-7.jpg)
-
-Se han encontrado **bolsas** de **microbios** viviendo dentro de una **fractura** sellada en una roca de 2 000 millones de años, el caso más antiguo descubierto hasta ahora.
-
-La **roca** fue **excavada** en el Complejo Ígneo Bushveld en Sudáfrica, una zona conocida por sus ricos depósitos de **minerales**.
-
-### Más noticias
-
-* [El magnesio va más allá de ser un simple mineral; conoce sus propiedades y usos](https://www.elcomercio.com/tendencias/salud/magnesio-mineral-alimentos-salud.html "El magnesio va más allá de ser un simple mineral; conoce sus propiedades y usos ")
-* [Explosión de lodo y rocas en el Parque Nacional Yellowstone](https://www.elcomercio.com/actualidad/mundo/explosion-lodo-rocas-parque-nacional-yellowstone.html)
-* [Estado y gran minería deben priorizar los criterios técnicos y ambientales](https://www.elcomercio.com/opinion/editorial/malos-recuerdos-afectan-actividad-minera-ecuador.html)
-
-El **equipo involucrado** en el **estudio** se basó en su trabajo anterior para perfeccionar una **técnica** que involucra tres tipos de imágenes (espectroscopia infrarroja, **microscopía electrónica** y microscopía fluorescente) para confirmar que los **microbios** eran autóctonos de la muestra del núcleo antiguo y no causados por contaminación durante el proceso de recuperación y estudio.
-
-Nuevas perspectivas sobre la evolución de la vida
--------------------------------------------------
-
-La **investigación** sobre estos **microbios** podría ayudarnos a comprender mejor la evolución muy temprana de la vida, así como la búsqueda de **vida extraterrestre** en muestras de rocas de edad similar traídas de Marte, según los autores del estudio, que publican sus hallazgos en la revista Microbial Ecology.
-
-En las **profundidades** de la **Tierra** se encuentra algo antiguo y vivo. Las **colonias** de **microbios** viven en rocas muy por debajo de la superficie, logrando de alguna manera sobrevivir durante miles, incluso millones de años. Estos **diminutos** y **resistentes organismos** parecen vivir a un ritmo más lento, apenas evolucionando a lo largo de los **lapsos geológicos**, lo que nos ofrece la oportunidad de echar un vistazo al pasado. Ahora, los **investigadores** han encontrado **microbios** vivos en una muestra de roca que data de hace 2 000 millones de años.
-
-“No sabíamos si las rocas de 2 000 millones de años eran habitables. Hasta ahora, la **capa geológica** más antigua en la que se habían encontrado **microorganismos** **vivos** era un depósito de 100 millones de años debajo del **fondo** del **océano**, por lo que este es un **descubrimiento** muy emocionante. Al estudiar el ADN y los **genomas** de **microbios** como estos, podemos ser capaces de entender la **evolución** de la **vida** muy temprana en la Tierra”, dijo en un comunicado Yohey Suzuki, autor principal y profesor asociado de la Escuela de Posgrado de Ciencias de la Universidad de Tokio.
-
-Explorando el BIC, un tesoro geológico y microbiano en Sudáfrica
-----------------------------------------------------------------
-
-La muestra de roca se tomó del Complejo Ígneo Bushveld (BIC), una **intrusión rocosa** en el noreste de Sudáfrica que se formó cuando el **magma** se enfrió lentamente debajo de la **superficie** de la Tierra. El BIC cubre un área de aproximadamente 66 000 kilómetros cuadrados (aproximadamente el tamaño de Irlanda), varía en espesor hasta 9 km y contiene algunos de los **depósitos** de **mineral** más ricos de la Tierra, incluido aproximadamente el 70% del **platino** extraído del mundo.
-
-Debido a la forma en que se formó y la mínima **deformación** o cambio que se produjo desde entonces, se cree que el BIC proporcionó un hábitat estable para que la vida **microbiana** antigua continuara hasta hoy.
-
-Con la ayuda del International Continental Scientific Drilling Program, una **organización** sin fines de lucro que financia la **exploración** en sitios **geológicos**, el equipo obtuvo una **muestra** de **núcleo** de roca de 30 centímetros de largo de unos 15 metros bajo tierra.
-
-Confirmación de microbios vivos en rocas antiguas
--------------------------------------------------
-
-La **roca** se cortó en **rodajas finas** y se analizó, y fue entonces cuando el equipo descubrió **células microbianas vivas** densamente empaquetadas en **grietas** de la **roca**. Todos los huecos cerca de estas grietas estaban obstruidos con arcilla, lo que hacía imposible que los **organismos** salieran o que otras cosas entraran.
-
-El equipo se basó en una técnica que habían desarrollado previamente para confirmar que los **microbios** eran **nativos** de la muestra de **roca** y no se debían a la **contaminación** durante el proceso de **perforación** o examen. Al teñir el ADN de las **células microbianas** y usar **espectroscopia** infrarroja para observar las **proteínas** en los **microbios** y la **arcilla circundante**, los investigadores pudieron confirmar que los **microorganismos** estaban **vivos** y **no contaminados**.
-
-### Más noticias
-
-* [![Protege tu cuenta de WhatsApp del peligroso ‘spoofing’ ](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-%E2%80%98spoofing-.jpg)](https://www.elcomercio.com/tecnologia/whatsapp-spoofing-hackers-ataque-cibernetico.html)
-    
-    [Protege tu cuenta de WhatsApp del peligroso ‘spoofing’](https://www.elcomercio.com/tecnologia/whatsapp-spoofing-hackers-ataque-cibernetico.html) 
-    --------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    El WhatsApp ‘spoofing’ puede comprometer tu cuenta, aprende a protegerte de este ataque cibernético.
-    
-* [![Investigación señala que los cables HDMI pueden ser utilizados por ‘hackers’ ](https://www.elcomercio.com/wp-content/uploads/2024/10/cables-hdmi-hackers.jpg)](https://www.elcomercio.com/tecnologia/cables-hdmi-hackers-ciberdelincuencia.html)
-    
-    [Investigación señala que los cables HDMI pueden ser utilizados por ‘hackers’](https://www.elcomercio.com/tecnologia/cables-hdmi-hackers-ciberdelincuencia.html) 
-    -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    Los cables HDMI pueden filtrar datos sensibles. Descubre cómo proteger tus credenciales de posibles amenazas.
-    
-* [![La Nasa envió carta de agradecimiento a un hacker por vulnerar sus sistemas de seguridad](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2-1.jpg)](https://www.elcomercio.com/tecnologia/nasa-envio-carta-agradecimiento-hacker-vulnerar-sistemas-seguridad.html)
-    
-    [La Nasa envió carta de agradecimiento a un hacker por vulnerar sus sistemas de seguridad](https://www.elcomercio.com/tecnologia/nasa-envio-carta-agradecimiento-hacker-vulnerar-sistemas-seguridad.html)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    Un hacker vulneró los sistemas de la NASA, informó las fallas, y la agencia le agradeció por su ayuda en corregirlas.
-    
-
-El Nacional brindó un reconocimiento a los bomberos tras incendios
-==================================================================
-
-La novena fecha de la Liga Pro estuvo marcada por el partido de El Nacional y Barcelona SC, donde hubo un homenaje a los bomberos.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de El Nacional y el Cuerpo de Bomberos de Quito en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-07T112441.612.jpg)
-
-**El Nacional** tuvo una destacada participación en la novena fecha de la Liga Pro y venció por 3-0 a Barcelona SC. En aquel partido, la tarde redonda para los criollos inició con un homenaje al **Cuerpo de Bomberos** de Quito.
-
-El compromiso estaba pactado para las 16:00 del sábado 5 de octubre del 2024 y horas antes se realizó un acto previo. La **escuadra criolla** destinó la antesala del compromiso para brindar un reconocimiento a la institución bomberil.
-
-### Más noticias:
-
-* [El Nacional goleó a Barcelona SC, en Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-goleo-a-barcelona-sc.html "El Nacional goleó a Barcelona SC, en Quito")
-* [El Nacional, a tres partidos de cortar 18 años sin títulos](https://www.elcomercio.com/deportes/futbol/el-nacional-copa-ecuador-titulos.html "El Nacional, a tres partidos de cortar 18 años sin títulos")
-* [El Nacional se ‘burla’ de Liga de Quito en redes sociales](https://www.elcomercio.com/deportes/futbol/el-nacional-community-manager-liga.html "El Nacional se ‘burla’ de Liga de Quito en redes sociales")
-
-Después de que los futbolistas del **‘Bi-Tri’** y el **‘Ídolo**_‘_ saltaran a la cancha, estos se ubicaron a los costados y realizaron una calle de honor. Con un equipo a cada lado, los bomberos ingresaron al terreno de juego **en medio de aplausos** de los futbolistas y la afición.
-
-Una vez que aquello sucedió y **El Nacional** realizó su saludo a la hinchada, el equipo se tomó su fotografía junto a los funcionarios. A ellos les acompañó una pancarta con el escudo del club y la frase: **“Gracias por ser nuestros héroes”**.
-
-Cuando finalizó el acto, los **bomberos** abandonaron el gramado por una de las entradas hacia la tribuna. Allí, estos compartieron con los **aficionados** y la ovación permaneció.
-
-El Nacional también colaboró con los bomberos en los incendios de Quito
------------------------------------------------------------------------
-
-Una semana y media antes del compromiso, una serie de incendios forestales se produjo en **Quito** y se generó en mayor medida en **Guapulo**. Aquello llevó a que la capital ecuatoriana se declare en estado de emergencia.
-
-En medio de la coyuntura, **El Nacional** también se alió con el Cuerpo de Bomberos para colaborar en la lucha contra la catástrofe. Después de que se suspendiese su duelo ante **Liga de Quito** por la Copa Ecuador, el equipo modificó sus actividades y realizó donaciones[.](https://en.wikipedia.org/wiki/C.D._El_Nacional "https://en.wikipedia.org/wiki/C.D._El_Nacional")
-
-Por medio de la sede bomberil en Cumbayá, el equipo realizó una masiva entrega de agua. Asimismo, desde el club se manifestó que también se llevaría a cabo campañas para otras **donaciones**.
-
-El Nacional venció a Barcelona por goleada
-------------------------------------------
-
-Después del homenaje, **El Nacional** se impuso con categoría sobre Barcelona SC. Desde los primeros minutos, el ‘Bi-Tri’ consiguió ponerse al frente del marcador y extender su victoria.
-
-**Alejandro Cabeza y Gabriel Cortez** marcaron para los criollos en el primer tiempo del compromiso. En el cierre del partido, **Fidel Martínez** sacó un remate a la altura de la media cancha y cerró el 3-0.
-
-¿Cuándo juega la Selección de Ecuador ante Paraguay?
-====================================================
-
-Sebastián Beccacece convocó a 25 jugadores para los partidos ante Paraguay y Uruguay. ¿Cuándo juega la Selección de Ecuador?
-----------------------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece, DT de la Selección de Ecuador en una práctica antes de jugar ante Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/Beccacece.jpg)
-
-**Sebastián Beccacece**, entrenador de la **Selección de Ecuador**, convocó a 25 jugadores para las eliminatorias al Mundial 2026. ¿Cuándo juega la Selección de Ecuador?
-
-En la convocatoria se destaca la inclusión de **Leonardo Campana**, delantero del Inter Miami, quien regresa tras 11 meses de ausencia.
-
-### Más noticias:
-
-* [Sebastián Beccacece invitó cinco jugadores a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-invitados-seleccion-ecuador.html "Sebastián Beccacece invitó cinco jugadores a la Selección de Ecuador")
-* [Leonardo Campana y otras sorpresas de la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-leonardo-campana-sorpresas.html "Leonardo Campana y otras sorpresas de la Selección de Ecuador")
-* [Sebastián Beccacece ‘borró’ nueve jugadores de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-convocatoria-jugadores-ausentes.html "Sebastián Beccacece ‘borró’ nueve jugadores de la Selección de Ecuador")
-
-**Beccacece** ha hecho importantes ajustes en su equipo, “borrando” a nueve jugadores de la lista anterior, lo que refleja su intención de fortalecer el rendimiento del equipo.
-
-La **Selección de Ecuador** ha sumado 11 puntos en las primeras ocho fechas, ocupando la cuarta posición, gracias a cuatro victorias, dos empates y dos derrotas.
-
-¿Cuándo juega la Selección de Ecuador?
---------------------------------------
-
-La **Tri** se prepara para enfrentar a **Paraguay** el próximo jueves 10 de octubre del 2024 a las 16:00 en el estadio **Rodrigo Paz Delgado**, un encuentro crucial en la novena fecha de las eliminatorias sudamericanas.
-
-La fecha clave, el 10 de octubre, marcará el inicio de la acción, seguida por el partido contra Uruguay el martes 15 a las 18:30 en Montevideo.
-
-Ecuador vs. Paraguay
---------------------
-
-Ecuador se enfrenta a Paraguay, que, bajo la dirección de [Gustavo Alfaro,](https://es.wikipedia.org/wiki/Gustavo_Alfaro) ha mostrado una leve mejoría, acumulando nueve puntos en la **tabla**.
-
-Esta será una gran oportunidad para que **Ecuador** afiance su posición en la clasificación hacia el Mundial.
-
-**Beccacece**, quien asumió el cargo en agosto, busca consolidar un equipo competitivo y ha dejado claro que confía en su grupo.
-
-La inclusión de jóvenes como Kendry Páez y el retorno de figuras como Gonzalo Plata refuerzan su estrategia.
-
-La afición espera con ansias estos partidos para ver el accionar el equipo del DT **Sebastián Beccacece.**
-
-Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas
-===============================================================
-
-Roberto Cabezas fue el conductor del vehículo involucrado en un siniestro de tránsito en la Autopista General Rumiñahui.
-------------------------------------------------------------------------------------------------------------------------
-
-![Roberto Cabezas ganó la Libertadores Sub-20 con Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-07T123144.346.jpg)
-
-En la madrugada de este lunes 7 de octubre, **Roberto Cabezas**, jugador de Independiente Juniors, falleció en un siniestro de tránsito. También resultó gravemente herido **Marco Angulo**, miembro de Liga de Quito.
-
-El accidente, que involucró a cinco personas, dejó como saldo la muerte de Roberto Cabezas, un joven lateral izquierdo de 22 años, y de **Víctor Charcopa**, otro de los pasajeros.
-
-### Más noticias:
-
+* [Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro](https://www.elcomercio.com/deportes/futbol/piero-hincapie-muerte-roberto-cabezas-tragico-siniestro.html "Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro")
+* [Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/equipos-de-ecuador-lamentan-el-fallecimiento-de-roberto-cabezas.html "Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas")
 * [Roberto Cabezas, jugador de Independiente Juniors, falleció en siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/roberto-cabezas-jugador-de-independiente-juniors-fallecio-en-siniestro-de-transito.html "Roberto Cabezas, jugador de Independiente Juniors, falleció en siniestro de tránsito")
-* [Liga de Quito se pronuncia sobre el estado de salud de Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-de-quito-se-pronuncia-sobre-el-estado-de-salud-de-marco-angulo.html "Liga de Quito se pronuncia sobre el estado de salud de Marco Angulo")
-* [¿Cuál es el estado de salud de Marco Angulo, jugador de Liga de Quito?](https://www.elcomercio.com/deportes/futbol/estado-de-salud-de-marco-angulo-jugador-liga-de-quito-siniestro.html "¿Cuál es el estado de salud de Marco Angulo, jugador de Liga de Quito?")
 
-Los otros tres ocupantes resultaron heridos, siendo **Marco Angulo el más grave**, quien tuvo que ser trasladado de urgencia al Hospital Eugenio Espejo, en estado crítico y con pronóstico reservado.
+Con la escuadra dependiente de los rayados, la cual milita en la **Serie B**, este había disputado tan solo un partido durante la temporada 2024. Su único partido fue ante **Chacaritas**, donde participó 18 minutos tras ingresar desde el banco.
 
-Equipos de Ecuador lamentan la pérdida de Roberto Cabezas
----------------------------------------------------------
+A nivel juvenil, Cabezas también sumó experiencia con la **Selección de Ecuador Sub-17**. En ella fue donde tuvo mayor regularidad y disputó el Mundial juvenil y el Sudamericano de 2019, de manera que llegó a acumular 13 partidos con tal escuadra.
 
-Tras confirmarse el deceso del joven futbolista, **Independiente** **Juniors** emitió una nota de pesar, deseando fuerza y paz a su familia.
-
-“Lamentamos profundamente el fallecimiento de nuestro jugador **Roberto Carlos Cabezas Simisterra**, en un siniestro de tránsito ocurrido en horas de la mañana”, escribió la directiva de Independiente Juniors.
-
-> La familia [#IDV](https://twitter.com/hashtag/IDV?src=hash&ref_src=twsrc%5Etfw) expresa su nota de pesar ante el sensible fallecimiento de Roberto Cabezas jugador de nuestro equipo filial Independiente Juniors 💙🖤 , mucha fuerza y paz a su flia. 💐 [pic.twitter.com/lc81NoCeAg](https://t.co/lc81NoCeAg)
-> 
-> — Independiente Jrs (@INDJRS\_EC) [October 7, 2024](https://twitter.com/INDJRS_EC/status/1843330432097767843?ref_src=twsrc%5Etfw)
-
-**Liga de Quito** también se sumó a las condolencias por el jugador de la filial de Independiente del Valle.
-
-“Extendemos las **más sentidas condolencias para toda su familia**. Nos solidarizamos con nuestros amigos de Independiente Juniors en este difícil momento”, detalló la Comisión de Fútbol de Liga de Quito.
-
-> 🕊️ Nota de pesar: Roberto Cabezas [pic.twitter.com/ac7vsVPbv7](https://t.co/ac7vsVPbv7)
-> 
-> — LDU Oficial (@LDU\_Oficial) [October 7, 2024](https://twitter.com/LDU_Oficial/status/1843338050883203204?ref_src=twsrc%5Etfw)
-
-Por su parte, la **Federación Ecuatoriana de Fútbol** (FEF) también expresó su pesar. “Nos unimos al dolor de su familia y seres queridos en este momento tan difícil”, agregó la FEF.
-
-> 🙏🕊️ [pic.twitter.com/rrpjTLuLJZ](https://t.co/rrpjTLuLJZ)
-> 
-> — FEF 🇪🇨 (@FEFecuador) [October 7, 2024](https://twitter.com/FEFecuador/status/1843331709317853301?ref_src=twsrc%5Etfw)
-
-Barcelona SC se sumó a las notas de pesar.
-
-“Quienes conformamos la Institución, expresamos nuestras más sentidas condolencias a familiares y amigos, uniéndonos a su dolor”, escribió el ‘Ídolo’.
-
-> 🙏 [pic.twitter.com/6aZBorZGmq](https://t.co/6aZBorZGmq)
-> 
-> — BARCELONA S.C. (@BarcelonaSC) [October 7, 2024](https://twitter.com/BarcelonaSC/status/1843341114776129631?ref_src=twsrc%5Etfw)
-
-Detalles del siniestro
-----------------------
-
-El accidente fatal se registró aproximadamente a las 0**4:20 en la Autopista General Rumiñahui,** a la altura del puente 8.
-
-Tras el impacto con las estructuras, el vehículo se incendió y los bomberos tuvieron que intervenir para extinguir el fuego. Aunque no se ha confirmado la velocidad a la que viajaba el automóvil, las estructuras del puente, que pesan 50 toneladas, se desplazaron cinco metros debido al choque.
-
-Industrias de dos ciudades paralizadas por cortes de luz
-========================================================
-
-El Comité Empresarial Ecuatoriano rechazó la reducción obligatoria del consumo energético impuesta por el Cenace.
------------------------------------------------------------------------------------------------------------------
-
-![Comité Empresarial Ecuatoriano rechaza la disposición del Cenace sobre cortes de luz de 10 horas para el sector industrial. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/comite-empresarial.png)
-
-El **Comité Empresarial Ecuatoriano** (CEE) informó este lunes 7 de octubre de 2024 las afectaciones al **sector industrial** por los cortes de luz de 10 horas diarios registrados el fin de semana. La medida fue anunciada a última hora por el gobierno de Daniel Noboa[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Cortes de luz en Quito para este lunes 7 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-lunes-7-octubre-quito.html "Cortes de luz en Quito para este lunes 7 de octubre")
-* [Horarios de cortes de luz en Ecuador hasta el jueves 10 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-ecuador-octubre-10.html "Horarios de cortes de luz en Ecuador hasta el jueves 10 de octubre")
-* [Esto pierden las industrias por cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/esto-pierden-industrias-cortes-luz-ecuador-camaron.html "Esto pierden las industrias por cortes de luz en Ecuador")
-
-El sábado 5 de octubre de 2024, se conoció que el Operador Nacional de Electricidad (Cenace) tomó la decisión de desconectar al sector industrial de 08:00 a 18:00, durante los próximos quince días.
-
-La medida es para proteger el parque energético y conservar el embalse de Mazar. Este reservorio de agua alimenta tres hidroeléctricas de la cuenca del río Paute y está afectado gravemente por la sequía.
-
-El **Comité Empresarial** rechazó la disposición emitida por el Cenace. “Esta medida, tomada sin previo aviso ni consulta con los sectores productivos, resulta absolutamente **inviable y desproporcionada**“, señaló María Paz Jervis, presidenta del gremio.
-
-Además, agregó que la imposición de estas **restricciones tendrá graves consecuencias** para la industria **nacional, comercio, exportaciones y cadenas productivas,** poniendo en riesgo la continuidad de las  
-operaciones, el empleo de miles de ecuatorianos, la estabilidad económica del país y el abastecimiento de productos para la población.
-
-El fin de semana ya se desconectaron los parques de industriales de **Cuenca** y en **Ambato**. Según los empresarios, más de 260 empresas fueron afectadas por esta decisión del Cenace.
-
-El gremio empresarial exigió al Cenace y a las autoridades que reconsideren esta decisión, suspendan inmediatamente la medida y que se abra un diálogo urgente con los gremios industriales.
-
-El encuentro es para encontrar alternativas que no paralicen la producción ni pongan en riesgo el bienestar de la población.
-
-Diana Salazar estuvo presente en la audiencia del caso Plaga
-============================================================
-
-Rechazan la solicitud de revisión de medidas cautelares en el caso Plaga, Diana Salazar acudió a la audiencia.
---------------------------------------------------------------------------------------------------------------
-
-![Audiencia del caso Plaga en la Corte Nacional de Justicia, Diana Salazar asistió de manera telemática.](https://www.elcomercio.com/wp-content/uploads/2024/10/caso-plaga.png)
-
-Este lunes, 7 de octubre de 2024, se llevó a cabo la audiencia de revisión de medidas cautelares en el **caso Plaga,** en la que **Hugo A. H.**, procesado por presunta delincuencia organizada, solicitó el cambio de la p**risión preventiva que se le impuso**. La audiencia contó con la presencia telemática de la fiscal general del Estado, **Diana Salazar Méndez**.
-
-### Más noticias
-
-* [Destituciones de jueces involucrados en el caso Plaga continúan](https://www.elcomercio.com/actualidad/seguridad/destituciones-jueces-caso-plaga-continuan.html "Destituciones de jueces involucrados en el caso Plaga continúan")
-* [CJ destituyó a juez que habría favorecido a Los Lobos y está implicado en el caso Plaga](https://www.elcomercio.com/actualidad/seguridad/cj-destituyo-juez-habria-favorecido-los-lobos-vinculado-caso-plaga.html "CJ destituyó a juez que habría favorecido a Los Lobos y está implicado en el caso Plaga")
-* [Caso Plaga, testigo protegido mencionó a Iván Saquicela](https://www.elcomercio.com/actualidad/seguridad/caso-plaga-testimonio-anticipado-menciono-ivan-saquicela.html "Caso Plaga, testigo protegido mencionó a Iván Saquicela")
-
-Durante la audiencia, la fiscal **Diana Salazar argumentó** que no existían justificaciones ni nuevas circunstancias que avalen una **sustitución de las medidas cautelares impuestas**, solicitando que se rechace el pedido del procesado.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoPlaga](https://twitter.com/hashtag/CasoPlaga?src=hash&ref_src=twsrc%5Etfw): con la presencia –vía telemática– de la fiscal general del Estado, Diana Salazar Méndez, se instala la audiencia de revisión de medidas cautelares solicitada por Hugo A. H., a quien [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) procesa por presunta [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/KOO1nxczsC](https://t.co/KOO1nxczsC)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [October 7, 2024](https://twitter.com/FiscaliaEcuador/status/1843286342861746528?ref_src=twsrc%5Etfw)
-
-El juez a cargo del caso, **Pablo Loayza**, acogió el pedido de la Fiscalía y rechazó la solicitud de revisión de medidas cautelares planteada por **Hugo A. H.**, ratificando la prisión preventiva en su contra.
-
-Destituciones de jueces involucrados en el caso Plaga
------------------------------------------------------
-
-El **Consejo de la Judicatura (CJ)** destituyó el 3 de octubre de 2024 a **cinco jueces y una secretaria de la Corte Provincial de Justicia de Santo Domingo de los Tsáchilas**, como parte de las acciones dentro del caso Plaga.
-
-Estos funcionarios están siendo investigados por presuntamente haber favorecido a personas procesadas penalmente, a cambio de sumas que alcanzan los **60 000 dólares**. La Fiscalía también ha señalado que estas acciones están **vinculadas a delitos de delincuencia organizada**.
-
-Los jueces destituidos pertenecen en su mayoría a **Santo Domingo de los Tsáchilas**, con excepción de uno, quien ejercía en **El Oro**.
-
-> 🧑‍⚖️Los magistrados están procesados por delincuencia organizada por recibir altas sumas de dinero a cambio de fallos👉 [https://t.co/LXCVo8qdtD](https://t.co/LXCVo8qdtD) [pic.twitter.com/BeP3oKPZzo](https://t.co/BeP3oKPZzo)
-> 
-> — El Comercio (@elcomerciocom) [October 4, 2024](https://twitter.com/elcomerciocom/status/1842051335299948794?ref_src=twsrc%5Etfw)
-
-Entre los señalados se encuentran jueces de diversas competencias, así como una secretaria judicial. Estos destituidos habrían cometido **infracciones disciplinarias** al solicitar o aceptar préstamos, bienes o favores, lo que, según el CJ, compromete su **imparcialidad**.
-
-El **caso Plaga involucra a 31 personas**, muchas de ellas jueces y funcionarios judiciales. Este proceso ha sacudido el sistema judicial del país, mostrando un **patrón de corrupción** que afecta el debido proceso en varios casos penales.
-
-Además, el 24 de septiembre pasado, otro juez fue destituido por su implicación en el mismo caso. Se trata de **Jorge Eduardo A.Z.**, **juez de la Unidad Judicial Penal de Santo Domingo de los Tsáchilas**, quien supuestamente cobró **70 000 dólares para favorecer a integrantes del grupo delictivo Los Lobos**.
-
-Shakira celebra los 29 años del disco que la catapultó a la fama
-================================================================
-
-Shakira celebra los 29 años de uno de los discos más recordados por sus fans.
------------------------------------------------------------------------------
-
-![Shakira celebra el aniversario de uno de sus discos más exitosos. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-07T120313.134.jpg)
-
-Shakira celebra los 29 años del disco que la catapultó a la fama. El 6 de octubre de 1995, **[Shakira](https://www.shakira.com/ "https://www.shakira.com/")** lanzó su tercer álbum de estudio, ‘**Pies Descalzos’**, marcando un hito en su carrera musical y en la industria del pop latino.
-
-Este **álbum**, que celebra 29 años desde su lanzamiento, fue un punto de inflexión para la artista colombiana, consolidándola como una **figura** prominente en la **música internacional.**
-
-### **Más noticias:**
-
-* [Shakira recibió la negativa de una famosa para participar en Soltera](https://www.elcomercio.com/tendencias/entretenimiento/shakira-soltera-negativa-cantante-famosa.html "https://www.elcomercio.com/tendencias/entretenimiento/shakira-soltera-negativa-cantante-famosa.html")
-* [Shakira anuncia su gira por Latinoamérica, ¿Ecuador está en la lista?](https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/musica/shakira-gira-latinoamerica-las-mujeres-ya-no-lloran.html?source=Internal&ref=Single+Content+Link") 
-* [Shakira no incluye a Ecuador en su gira y los fans reaccionan en Instagram](https://www.elcomercio.com/tendencias/musica/shakira-gira-las-mujeres-ya-no-lloran-instagram.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/musica/shakira-gira-las-mujeres-ya-no-lloran-instagram.html?source=Internal&ref=Single+Content+Link") 
-
-**Shakira celebra los 29 años del disco que la catapultó a la fama**
---------------------------------------------------------------------
-
-Ese material no solo revitalizó la carrera de **Shakira**, que enfrentó desafíos con sus dos primeros álbumes, sino que también introdujo al mundo su distintivo estilo que fusiona pop latino con elementos de rock.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAXAZUsMotK/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Shakira (@shakira)](https://www.instagram.com/p/DAXAZUsMotK/?utm_source=ig_embed&utm_campaign=loading)
-
-**‘Pies Descalzos’ es el álbum monumental de Shakira**
-------------------------------------------------------
-
-El álbum incluye éxitos como Estoy Aquí y ¿Dónde Estás Corazón?, canciones que rápidamente se convirtieron en himnos para una generación y que aún resuenan en la actualidad.
-
-El éxito de **‘Pies Descalzos’** fue monumental. Vendió más de cinco millones de copias a nivel mundial y estableció a **Shakira** como una artista de renombre internacional.
-
-La producción del **álbum**, en la que **Shakira** participó activamente, mostró su habilidad como intérprete. También, como compositora y productora, un aspecto que sigue desarrollando a lo largo de su **carrera**.
-
-Cortes de luz en Quito serán de una hora la tarde de este lunes 7 de octubre
-============================================================================
-
-El Ministerio de Energía y Minas informó los horarios de cortes de luz reducidos que se aplicarán del 7 al jueves 10 de octubre de 2024
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz se realizarán durante una o dos horas en la noche.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz.jpg)
-
-Este lunes 7 de octubre de 2024, los horarios de cortes de luz en Quito se aplicarán de acuerdo con los cronogramas establecidos por el **Ministerio de Energía y Minas.**
-
-### Más noticias
-
-* [Lo que se sabe del choque en la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/lo-que-se-sabe-del-choque-en-autopista-general-ruminahui.html "Lo que se sabe del choque en la autopista General Rumiñahui")
-* [Horarios de cortes de luz en Ecuador hasta el jueves 10 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-ecuador-octubre-10.html "Horarios de cortes de luz en Ecuador hasta el jueves 10 de octubre")
-* [Policía confirma segundo fallecido en choque de la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/policia-confirma-segundo-fallecido-en-choque-autopista-general-ruminahui.html "Policía confirma segundo fallecido en choque de la autopista General Rumiñahui")
-
-La **Empresa Eléctrica Quito** (EEQ) detalló el cronograma de **cortes de luz** que tendrá la ciudad hasta este jueves 10 de octubre. Estos durarán entre dos y cuatro horas, según cada sector.
-
-Horarios de cortes de luz de la tarde
--------------------------------------
-
-Los cortes se realizarán en cinco franjas horarias: en la madrugada y mañana, con suspensiones de hasta tres horas seguidas; y en la noche, de dos horas.
-
-La tarde de este lunes 7 de octubre, los próximos cortes son:
-
-De 18:00 a 19:00
-----------------
-
-* La Carolina
-* Nueva Cumbayá
-* Mirador Alto
-* Los Bancos
-* Pérez Guerrero
-* El Obraje (Machachi)
-
-De 19:00 a 20:00
-----------------
-
-* Olímpico
-* Barrio Nuevo
-* El Bosque
-* San Antonio
-* Alangasí
-* San Rafael
-* Iñaquito
-* Santa Rosa
-* Sangolquí
-* Pomasqui
-* El Quinche
-* Eugenio Espejo
-
-Entre las 20:00 a 21:00
------------------------
-
-* Luluncoto
-* Chilibulo
-* Miraflores
-* La Floresta
-* Río Coca
-* Cristianía
-* Epiclachima
-* Conocoto
-* Tumbaco
-
-De 20:00 a 22:00
-----------------
-
-* Chimbacalle
-* Belisario Quevedo
-* Granda Centeno
-* Gualo
-* Andalucía
-* Cotocollao
-* Inga Bajo
-
-Los sectores no especificados **no tendrán cortes de luz** durante esta tarde. Puedes [consultar](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") el **cronograma completo** aquí:
-
-Reducción de cortes de luz
---------------------------
-
-La reducción en los horarios de cortes de luz responde al ofrecimiento del gobierno de **Daniel Noboa** de establecer horarios con menos horas de suspensión.
-
-Los cortes se efectuarán en **dos horarios**, de lunes a jueves y de viernes a domingo.
-
-**De lunes a jueves:**
-
-* Dos horas seguidas entre las 18:00 a 22:00.
-* Cuatro horas seguidas entre las 00:00 y las 08:00.
-
-**De viernes a domingo:**
-
-* Dos horas seguidas entre las 16:00 y 19:00.
-* Cuatro horas seguidas entre las 00:00 y 10:00.
-
-Los horarios específicos dentro de los rangos establecidos serán comunicados los jueves.
-
-> 📍IMPORTANTE  
->   
-> Conoce los horarios de suspensión del servicio de energía eléctrica, a escala nacional, desde el 07 hasta el 10 de octubre.  
->   
-> Conoce la programación en▶️ [https://t.co/4YfPN33PnD](https://t.co/4YfPN33PnD) [pic.twitter.com/3BEssv90vD](https://t.co/3BEssv90vD)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 6, 2024](https://twitter.com/RecNaturalesEC/status/1843056133617090727?ref_src=twsrc%5Etfw)
-
-Israel ordena evacuaciones marítimas a más de 50 km de la frontera con Líbano
-=============================================================================
-
-Desde que comenzó su invasión del sur de Líbano, que Israel caracteriza de "incursiones limitadas" contra infraestructura de Hizbulá junto a la frontera
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El humo se eleva tras un ataque aéreo israelí cerca de las aldeas de Khiam y Kfar Kila, visto desde Marjaayoun, cerca de la frontera con Israel, en el sur del Líbano, el 7 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/c33d33434ed5d40d5686a5af8f4926a3896f3736.jpg)
-
-El **Ejército israelí** ordenó este lunes 7 de octubre de 2024, la **evacuación forzosa** de las costas libanesas al sur del río Awali, **ubicado a más de 50 kilómetros** de la frontera entre Israel y Líbano, mientras prosigue su ofensiva contra el grupo **chií Hizbulá en el país.**
-
-### Más noticias
-
-* [Tres impactos del conflicto entre Israel y Hamás, a un año de la guerra](https://www.elcomercio.com/actualidad/mundo/aniversario-del-7-de-octubre-de-2023-de-la-guerra-en-la-franja-de-gaza.html "Tres impactos del conflicto entre Israel y Hamás, a un año de la guerra")
-* [Hezbolá está conteniendo un lento avance de tropas israelíes en el sur del Líbano](https://www.elcomercio.com/actualidad/mundo/hezbola-conteniendo-lento-avance-tropas-israelies-sur-libano.html "Hezbolá está conteniendo un lento avance de tropas israelíes en el sur del Líbano")
-* [Israel dice que 7 fallecidos en el bombardeo de Tulkarem eran ‘terroristas’](https://www.elcomercio.com/actualidad/mundo/israel-dice-7-fallecidos-bombardeo-tulkarem-terroristas.html "Israel dice que 7 fallecidos en el bombardeo de Tulkarem eran ‘terroristas’")
-
-“Las **actividades de Hizbulá** obligan al Ejército a actuar en su contra y el Ejército actuará pronto en la zona marítima contra las **actividades terroristas de Hizbulá**“, dijo en un mensaje el portavoz en árabe de las fuerzas israelíes, Avichay Adraee.
-
-Evitar agua frente a costas libanesas
--------------------------------------
-
-Adraee solicitó a los civiles, **incluidos bañistas o pescadores,** que eviten estar en el agua frente a las costas libanesas o incluso en las playas ubicadas al sur del Awali.
-
-Desde que comenzó su **invasión del sur de Líbano,** que Israel caracteriza de “incursiones limitadas” contra infraestructura de Hizbulá junto a la frontera, el país solicitó la **evacuación de más de un centenar** de localidades libanesas, incluida la ciudad de Nabatieh, una de las más importantes de la zona.
-
-En todos los casos Israel pidió a los **civiles que se dirijan al norte del río Awali,** ubicado a más de 50 kilómetros de la frontera.
-
-La **zona está mucho más al norte que el río Litani** (30 kilómetros), que marca el área desmilitarizada designada por la ONU tras la guerra de 2006 entre **Israel y Hizbulá**. Allí n**o debe existir presencia armada** más que de las autoridades libanesas y de la misión de Naciones Unidas en el país (UNIFIL), lo que hace temer una expansión de la ofensiva.
-
-Intercambio de fuego
---------------------
-
-Israel lleva casi un año intercambiando **fuego con el grupo chií Hizbulá** a través de la frontera libanesa, y el pasado lunes, después de una semana de intensos bombardeos contra el sur y el este del país, anunció el **envío de tropas al sur de Líbano** para desmantelar infraestructura de la milicia.
-
-Desde entonces, al menos 11 soldados israelíes murieron en los combates, según las cifras publicadas por el Ejército israelí.
-
-Mientras, los **intensos bombardeos israelíes,** concentrados sobre todo en el sur y el este de Líbano pero también en la capital, Beirut, han dejado ya más de **2 000 muertos y un millón de desplazados**, según las autoridades libanesas.
-
-¿Quién fue Taylor Rousseau Grigg, joven ‘tiktoker’ de Estados Unidos que falleció? 
-===================================================================================
-
-La comunidad de TikTok llora la pérdida de Taylor Rousseau Grigg, una estrella en ascenso que falleció a los 25 años.
----------------------------------------------------------------------------------------------------------------------
-
-![Taylor Rousseau Grigg, influyente ‘tiktoker’ de Texas, conquistó a más de 1,4 millones de seguidores. Foto: Instagram @itstaylorrousseau.](https://www.elcomercio.com/wp-content/uploads/2024/10/Taylor-Rousseau-Grigg-tiktoker.jpg)
-
-**[Taylor Rousseau Grigg](https://www.instagram.com/itstaylorrousseau/ "https://www.instagram.com/itstaylorrousseau/")**, conocida por su **estilo de moda occidental** y sus **‘vlogs’ de compras y estilo de vida**, se había convertido en una figura influyente en TikTok.  
-
-### Más noticias
-
-* [(Video) ‘Tiktoker’ rusa muere mientras grababa un video para TikTok](https://www.elcomercio.com/tendencias/trending/tiktoker-rusa-accidente-tiktok.html "https://www.elcomercio.com/tendencias/trending/tiktoker-rusa-accidente-tiktok.html") 
-* [TikTok lucha en una corte de EE.UU. contra ley que podría prohibir esa aplicación](https://www.elcomercio.com/actualidad/mundo/tiktok-lucha-corte-ee-uu-contra-ley-podria-prohibir-aplicacion-enero.html "https://www.elcomercio.com/actualidad/mundo/tiktok-lucha-corte-ee-uu-contra-ley-podria-prohibir-aplicacion-enero.html")
-
-Con más de **1,4 millones de seguidores** y 54 millones de “me gusta”, su contenido resonaba con una audiencia joven y diversa.  
-
-Taylor, a decir de [NBC](https://www.nbcnewyork.com/entertainment/entertainment-news/tiktoker-taylor-rousseau-grigg-dead-at-age-25/5862061/ "https://www.nbcnewyork.com/entertainment/entertainment-news/tiktoker-taylor-rousseau-grigg-dead-at-age-25/5862061/"), era **originaria de Texas**, compartía su vida diaria, sus pasiones y su amor por la moda, lo que la convirtió en una querida figura en la plataforma. 
-
-**Impacto tras la muerte de la ‘tiktoker’ Taylor Rousseau Grigg** 
-------------------------------------------------------------------
-
-La noticia de su fallecimiento, anunciada por su **esposo Cameron Grigg**, conmocionó a sus seguidores y seres queridos. La causa de su deceso todavía no ha sido revelada.  
-
-**Cameron compartió un emotivo mensaje en Instagram**, mismo que expresa el dolor y la incredulidad ante la pérdida de su esposa. “Nadie espera tener que lidiar con este tipo de dolor y angustia, especialmente a nuestra edad”, escribió Cameron, acompañado de una serie de fotos de la pareja. Añadió también que su esposa deseaba que sus órganos fueran donados.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAwgzZQJKaj/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Cameron Grigg (@cameron.griggg)](https://www.instagram.com/p/DAwgzZQJKaj/?utm_source=ig_embed&utm_campaign=loading)
-
-**Un legado de alegría y estilo** 
-----------------------------------
-
-Taylor no solo era **conocida por su contenido de moda**, sino también por su capacidad para traer alegría a sus seguidores.  
-
-Su **enfoque positivo y su autenticidad** la hicieron destacar en una plataforma saturada de contenido. Su legado perdurará a través de los recuerdos y las sonrisas que dejó en quienes la seguían, según recoge [The Sun News](https://www.msn.com/en-us/news/world/beloved-tiktoker-taylor-rousseau-grigg-dies-at-25-donates-organs-always-brought-joy/ar-AA1rMMLV "https://www.msn.com/en-us/news/world/beloved-tiktoker-taylor-rousseau-grigg-dies-at-25-donates-organs-always-brought-joy/ar-AA1rMMLV"). 
-
-> [@itstaylorrousseau](https://www.tiktok.com/@itstaylorrousseau?refer=embed "@itstaylorrousseau") What are some trends you couldnt get behind????? [#grwm](https://www.tiktok.com/tag/grwm?refer=embed "grwm") [♬ original sound – liamreno](https://www.tiktok.com/music/original-sound-7339359466183985962?refer=embed "♬ original sound - liamreno")
-
-Uno de sus contenidos más populares incluía **videos de “Get Ready With Me” (GRWM)**, donde mostraba su **proceso de preparación para eventos familiares y otras ocasiones especiales**. Estos videos no solo destacaban su sentido de la moda, sino también su habilidad para conectar con su audiencia a través de un enfoque auténtico y personal. 
-
-**Reacciones y homenajes** 
----------------------------
-
-La **comunidad de TikTok** y otras plataformas sociales se llenaron de **homenajes y mensajes de condolencias**.  
-
-Amigos, seguidores y otros **creadores de contenido** expresaron su tristeza y compartieron recuerdos de Taylor. Su impacto en la comunidad fue profundo, y su ausencia se sentirá durante mucho tiempo. 
-
-(Video) Conmovedor homenaje de Andy Tenorio a su padre, Otilino
-===============================================================
-
-La máscara de Spider-Man regresa al fútbol ecuatoriano como parte de un emotivo festejo.
-----------------------------------------------------------------------------------------
-
-![Andy Tenorio celebrando un gol como su padre Otilino Tenorio con la icónica máscara de Spider-Man.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-07T112714.304.jpg)
-
-**Andy Tenorio**, hijo de Otilino Tenorio, el histórico delantero del fútbol ecuatoriano, **homenajeó** a su padre realizando el icónico festejo que ‘Otigol’ solía llevar a cabo al anotar.
-
-En un partido correspondiente a los **32 avos de final del Torneo de Ascenso, el Naranja Mekánica**, club donde milita Andy, ganó 2-0 a Independiente Azogues, asegurando su clasificación a la siguiente etapa del campeonato que otorga dos cupos a la Serie B.
-
-### Más noticias:
-
-* [Liga de Quito se reencontró con la victoria ante Orense](https://www.elcomercio.com/deportes/futbol/liga-de-quito-se-reencontro-victoria-ante-orense.html "Liga de Quito se reencontró con la victoria ante Orense")
-* [Sebastián Beccacece invitó cinco jugadores a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-invitados-seleccion-ecuador.html "Sebastián Beccacece invitó cinco jugadores a la Selección de Ecuador")
-* [Leonardo Campana y otras sorpresas de la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-leonardo-campana-sorpresas.html "Leonardo Campana y otras sorpresas de la Selección de Ecuador")
-
-**Andy marcó uno de los goles**, el 2-0, que sentenció el partido. El joven delantero aprovechó que el balón quedó cerca de la línea del arco, sin defensa alguna, y con un sutil toque, lo envió al fondo de la red.
-
-Sin embargo, lo más destacado de la jugada no fue el gol en sí, sino lo que ocurrió después: su celebración. Al igual que su padre, **Andy sacó una máscara de Spider-Man** de una de sus medias, se la colocó y festejó su gol ante las cámaras.
-
-Esta emotiva acción evocó recuerdos, especialmente entre los seguidores más antiguos del fútbol ecuatoriano, que **vieron en Andy a su padre Otilino Tenorio**, uno de los mejores delanteros del país a inicios de los 2000, quien popularizó este festejo.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DAwGMxNPEv9/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Naranja Mekanica (@naranjamekanicafc)](https://www.instagram.com/reel/DAwGMxNPEv9/?utm_source=ig_embed&utm_campaign=loading)
-
-La marca de Otilino Tenorio en el fútbol
+Roberto Cabezas, un campeón sudamericano
 ----------------------------------------
 
-A lo largo de su carrera, **‘Spider-Man’** Tenorio dejó una marca imborrable en el fútbol ecuatoriano y fue aclamado tanto en la Selección como en Emelec, Santa Rita y El Nacional. Además, estuvo en el Al-Nasr de Arabia Saudita.
+**Roberto Cabezas** había destacado a nivel juvenil con Independiente del Valle y, en aquella etapa, era una de sus promesas a largo plazo. Pese a ello, el futbolista **no llegó a debutar con el primer equipo** de los de Sangolquí.
 
-Su peculiar manera de festejar los goles, con la máscara del famoso superhéroe, lo convirtió en un ícono para los aficionados, sobre todo de los niños.
+Los mayores éxitos de Cabezas también se produjeron a nivel formativo. El lateral izquierdo había formado parte del equipo campeón de la **Copa Libertadores Sub-20** durante el 2020, en el cual estuvieron jugadores ya consolidados a nivel absoluto[.](https://en.wikipedia.org/wiki/Independiente_del_Valle "https://en.wikipedia.org/wiki/Independiente_del_Valle")
 
-Esa curiosa celebración Incluso la realizó en un partido amistoso entre Ecuador y Panamá en enero de 2005. Entonces, **Otilino Tenorio** utilizó una máscara tricolor para festejar un gol.
+En aquel torneo continental, el fallecido futbolista compartió camerino con **Moisés Caicedo**, uno de los capitanes de la Selección de Ecuador y el Chelsea, y **Piero Hincapié**, destacado central de la Tri. Dicho plantel también estaba conformado por Marco Angulo, quien se encontraba con él en el siniestro.
 
-Con **Emelec fue bicampeón** y además goleador de la Merconorte con 11 goles.
+¿Cómo fue el siniestro de Roberto Cabezas?
+------------------------------------------
 
-Su último gol lo anotó precisamente a **Emelec**, el 17 de abril del 2005, en el Olímpico Atahualpa. Fue en la victoria de El Nacional por 5-2 ante los azules. ‘Otigol’ anotó tres tantos y no los festejó con la máscara. Por el contrario, lo hizo con un corazón de felpa que decía: “¡Con Amor!”
+La madrugada de este martes 7 de octubre del 2024, el vehículo que conducía **Roberto Cabezas** junto a **Marco Angulo** y otros tres integrantes impactó de frente con una viga en la autopista General Rumiñahui de Quito, a la altura de la entrada a Conocoto. Pese a que el automotor pertenecía a Angulo, su colega se encontraba al volante.
+
+A raíz del siniestro, **Cabezas** falleció al igual que Víctor Charcopa, otro de los integrantes. Angulo se encuentra en estado crítico y está internado en el Hospital Eugenio Espejo de la capital.
+
+Fiscalización deja en suspenso decisión sobre el juicio político contra Mónica Palencia
+=======================================================================================
+
+Fiscalización debe pronunciarse sobre el juicio político en contra de Mónica Palencia, previo a la decisión final del Pleno de la Asamblea.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![La ministra del Interior, Mónica Palencia, participó la mañana de este martes de de agosto en la entrega de armamento a la Policía Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/08/Palencia.jpg)
+
+La Comisión de **Fiscalización** de la Asamblea se instaló la noche de este lunes 7 de octubre para tomar una decisión sobre el **juicio político** contra **Mónica Palencia**, ministra del Interior.
+
+La sesión se instaló pasadas las 18:30 y en modalidad virtual.
+
+### Más noticias:
+
+* [El juicio político en contra de Mónica Palencia está en su fase final en Fiscalización](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-fase-final.html "El juicio político en contra de Mónica Palencia está en su fase final en Fiscalización")
+* [Mónica Palencia sufrió descompensación y fue trasladada en ambulancia ¿Cuál es su estado?](https://www.elcomercio.com/actualidad/politica/monica-palencia-descompensacion-ambulancia.html "Mónica Palencia sufrió descompensación y fue trasladada en ambulancia ¿Cuál es su estado?")
+
+Los asambleístas del correísmo, **Leonardo Berrezueta y Paola Cabezas**, plantearon el juicio político contra Mónica Palencia por supuesto incumplimiento de funciones.
+
+Las acusaciones contra Palencia van desde la incursión policial en la **Embajada de México en Quito**, que concluyó en la captura del exvicepresidente y líder del correísmo, **Jorge Glas**, hasta la supuesta inexistencia del Plan Fénix, para la seguridad del país.
+
+Según los acusadores, la Ministra del Interior faltó a las siguientes normas: la **Constitución**, la **Ley de Seguridad Pública del Estado**.
+
+Además, el **Código Orgánico de Entidades de Seguridad Ciudadana y Orden Público** y la **Ley para Financiar el Conflicto Armado Interno**.
+
+El borrador de informe de Fiscalización sobre el juicio político contra Mónica Palencia
+---------------------------------------------------------------------------------------
+
+Una vez instalada la sesión de la Comisión de Fiscalización, la presidenta Pamela Aguirre dispuso la lectura del informe borrador.
+
+El informe, de 92 páginas, incluye los pedidos de la Ministra a la mesa.
+
+En estos, Palencia cuestionó varias parte del proceso en su contra, como la validez de las pruebas presentadas.
+
+Además, la falta de presencialidad en las sesiones.
+
+Entre las acusaciones presentadas, se mencionaron cifras de supuesto incremento de la violencia en el país.
+
+Aunque el cargo que se desprende de la incursión policial en la Embajada de México en Quito era parte de las causales, en el borrador de informe se recomienda tomar distancia.
+
+Esto, “en virtud de que los hechos están siendo conocidos por una Jurisdicción Internacional”.
+
+A las 19:48, una vez que el Secretario de la Comisión concluyó con la lectura del informe, Aguirre suspendió la sesión para el análisis del informe por parte de los asambleístas.
+
+La sesión se reinstalará en las próximas horas para proceder con la votación y la intervención, sin voto, de los asambleístas externos a la mesa.
+
+Esto encontró la Policía en el vehículo siniestrado de Marco Angulo
+===================================================================
+
+Un agente de la Policía dio detalles del fatal choque y de lo que había en el interior del vehículo.
+----------------------------------------------------------------------------------------------------
+
+![Un siniestro se registró este lunes 7 de septiembre, en el que estaba Marco Angulo con otros futbolistas.](https://www.elcomercio.com/wp-content/uploads/2024/10/autopista-ruminahui.jpg)
+
+Un agente de la **Policía** detalló cómo ocurrió el **siniestro de tránsito** y lo que se encontró al interior del **vehículo** en el que se encontraba **Marco Angulo**, otros futbolistas y amigos, en la **autopista general Rumiñahui**.
+
+El choque ocurrió alrededor de las **04:30** de este lunes 7 de octubre de 2024.
+
+### Más noticias:
+
+* [FC Cincinnati toma acción tras siniestro de Marco Angulo](https://www.elcomercio.com/deportes/marco-angulo-cincinnati-siniestro-transito.html "FC Cincinnati toma acción tras siniestro de Marco Angulo")
+* [Policía confirma segundo fallecido en choque de la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/policia-confirma-segundo-fallecido-en-choque-autopista-general-ruminahui.html "Policía confirma segundo fallecido en choque de la autopista General Rumiñahui")
+
+Según la Policía, el vehículo bajaba a **gran velocidad** y eludió todos los dispositivos preventivos que había en la autopista General Rumiñahui, hasta finalmente estrellarse contra una construcción de un paso elevado que se encontraba sobre la vía.
+
+El impacto fue tal que las estructuras del puente, que pesan **50 toneladas**, fueron desplazadas cinco metros.
+
+Tras el impacto, el vehículo **se incendió**, lo que obligó a la intervención del Cuerpo de Bomberos para extinguir el fuego.
+
+Hasta el momento, existen dos fallecidos por este siniestro: Se trata de **Roberto Cabezas**, jugador de Independiente Juniors, de 22 años y **Víctor Charcopa**.
+
+En tanto, **Marco Angulo**, jugador de la **Liga Deportiva Universitaria**, fue sometido a una intervención quirúrgica la tarde de este lunes.
+
+Sin embargo, su condición sigue siendo crítica, según trascendió.
+
+“Fractura de pelvis, neumotórax derecho, edema cerebral, hemorragia subdural, hemorragia subaracnoidea postraumática. Está con soporte ventilatorio avanzado”, detalló el periodista Luis Fernando Quiroz en sus redes sociales.
+
+Esto se encontró en vehículo afectado
+-------------------------------------
+
+En el lugar del siniestro, un vocero de la Policía Nacional señaló que los peritajes confirmaron que sí existió **señalización preventiva**.
+
+Además, detalló que los cinco ocupantes del automóvil a pruebas de **alcoholemia**.
+
+“Se va a realizar la prueba de alcoholemia, previo al protocolo de autopsia de los cadáveres y a las otras personas”, dijo.
+
+Explicó que, con la **Fiscalía**, se tomarán las pruebas de sangre.
+
+Además, precisó que en el interior del vehículo se encontraron “unas botellas de color blanco”, de una marca de cervezas internacional.
+
+Este no es el primer siniestro con muertes en el que se ve involucrado Angulo.
+
+En noviembre de 2022, el jugador protagonizó un choque en la vía a la Costa. En aquella ocasión, Angulo resultó ileso. Su primo y conductor del automotor falleció.
+
+Este es el país más feliz del mundo
+===================================
+
+Finlandia ha sido clasificada como el país más feliz del mundo durante seis años consecutivos, desde 2018 hasta 2024.
+---------------------------------------------------------------------------------------------------------------------
+
+![Decenas de personas disfrutan de un día soleado en la fábrica de trenes de Helsinki, en una imagen de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/10/finlandia-helsinki-efe.jpg)
+
+[Finlandia](https://www.elcomercio.com/actualidad/mundo/desplome-puente-heridos-finlandia-ninos.html "https://www.elcomercio.com/actualidad/mundo/desplome-puente-heridos-finlandia-ninos.html") mantiene su lugar como el **país más feliz del mundo** según el **Informe Mundial de la Felicidad** 2024 debido a **varios factores clave** que contribuyen al bienestar de su población.
+
+### Más noticias
+
+* [Este es el país más caro de América Latina para vivir](https://www.elcomercio.com/actualidad/mundo/pais-mas-caro-america-latina-vivir.html "Este es el país más caro de América Latina para vivir")
+* [Este es el país más económico de América Latina para vivir](https://www.elcomercio.com/actualidad/mundo/paraguay-pais-mas-economico-america-latina-para-vivir.html "https://www.elcomercio.com/actualidad/mundo/paraguay-pais-mas-economico-america-latina-para-vivir.html")
+* [Los 10 países más peligrosos para viajar en este 2024](https://www.elcomercio.com/actualidad/mundo/10-paises-mas-peligrosos-2024.html "https://www.elcomercio.com/actualidad/mundo/10-paises-mas-peligrosos-2024.html")
+
+Informe Mundial de la Felicidad
+-------------------------------
+
+Este informe evalúa el **bienestar subjetivo** de las personas a nivel global, toma en cuenta varios indicadores como el apoyo social, la esperanza de vida, la libertad para tomar decisiones, la generosidad y la percepción de la corrupción.
+
+Es el país más feliz desde 2018
+-------------------------------
+
+Finlandia ha sido clasificada como el país **más feliz del mundo durante seis años consecutivos**, desde 2018 hasta 2024, según el Informe Mundial de la Felicidad. Este reconocimiento se basa en una serie de indicadores que evalúan el **bienestar general de los ciudadanos,** como el apoyo social, la confianza en el gobierno, el nivel de **corrupción, la generosidad y el bienestar emocional.**
+
+Igualdad social
+---------------
+
+Uno de los **factores más importantes** que contribuyen a la felicidad en Finlandia es la **igualdad social**. Los finlandeses disfrutan de un **sistema económico** que busca reducir las desigualdades, lo que permite que todos los ciudadanos **tengan acceso a recursos básicos** como la educación, la salud y los servicios sociales. La equidad en Finlandia garantiza que la calidad de vida no esté concentrada en una pequeña élite, sino que se distribuya de manera justa entre toda la población.
+
+Servicios públicos
+------------------
+
+Además, los servicios públicos son de alta calidad. El **acceso universal a una atención médica excelente** y a una **educación de primer nivel** son características fundamentales del modelo finlandés. Esto no solo alivia a las familias de preocupaciones financieras, sino que también asegura que las **generaciones futuras tengan una base sólida para prosperar**.
+
+Conexión con la naturaleza
+--------------------------
+
+Otro aspecto clave es la **conexión profunda con la naturaleza.** Finlandia es un país conocido por sus extensos bosques, **lagos y paisajes tranquilos**, lo que permite a los ciudadanos disfrutar de un **entorno limpio y saludable**. Pasar tiempo al aire libre es una **parte integral del estilo de vida finlandés**, y esta conexión con la naturaleza tiene efectos positivos en la salud mental y el bienestar general.
+
+Bienestar mental
+----------------
+
+El bienestar mental también es una prioridad en Finlandia. El país cuenta con **programas de salud mental accesibles** y **libres de estigma**, lo que permite a las personas buscar ayuda cuando la necesitan. Este **enfoque proactivo hacia la salud mental** es un factor importante en la estabilidad emocional de sus habitantes.
+
+Baja corrupción
+---------------
+
+La baja corrupción y la **alta confianza en las instituciones gubernamentales** también son aspectos fundamentales de la felicidad en Finlandia. Los ciudadanos confían en que sus líderes actúan en su mejor interés y que los **recursos del estado se manejan de manera transparente.** Esto crea un entorno donde las personas sienten que están siendo tratadas de manera justa.
+
+El equilibrio entre el **trabajo y la vida personal** también juega un papel crucial. A diferencia de otras culturas donde el trabajo puede **dominar la vida de una persona**, en Finlandia se valora mucho el tiempo para el ocio, la familia y el bienestar personal. Este equilibrio permite que las personas se sientan más satisfechas y menos estresadas.
+
+Seguridad
+---------
+
+Finalmente, la seguridad es otro factor determinante. Finlandia tiene **tasas muy bajas de criminalidad,** lo que permite a los ciudadanos vivir sin temor. La seguridad tanto en el hogar como en los espacios públicos contribuye a una **sensación de bienestar constante.**
+
+La Selección de Ecuador trabaja a doble jornada para eliminatorias
+==================================================================
+
+Sebastián Beccacece, DT de la Selección de Ecuador, entrenó a puerta cerrada con sus dirigidos previo a enfrentar a Paraguay.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Sebastián Beccacece durante los entrenamientos de la Selección de Ecuador antes de eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000140713.jpg)
+
+La Selección de Ecuador trabajará este lunes a puerta cerrada y espera hacerlo con el equipo completo para ensayar la estrategia con la que intentará ganar a la selección de **Paraguay**. El partido será en la novena fecha de las eliminatorias sudamericanas del **Mundial 2026.**
+
+El proceso de llegada a la concentración de la **capital ecuatoriana** de los convocados por el argentino **Sebastián Beccacece**, comenzó el 5 de octubre y está por concluir. La mayoría ya se ha integrado a la espera del gran desafío ante Paraguay y después contra Uruguay.
+
+### Más noticias:
+
+* [Uruguay presentó sus convocados para jugar ante la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/uruguay-presento-sus-convocados-para-jugar-ante-la-seleccion-de-ecuador.html "Uruguay presentó sus convocados para jugar ante la Selección de Ecuador")
+* [¿Cuándo juega la Selección de Ecuador ante Paraguay?](https://www.elcomercio.com/deportes/futbol/cuando-juega-seleccion-ecuador-paraguay.html "¿Cuándo juega la Selección de Ecuador ante Paraguay?")
+* [Sebastián Beccacece invitó cinco jugadores a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-invitados-seleccion-ecuador.html "Sebastián Beccacece invitó cinco jugadores a la Selección de Ecuador")
+
+**Beccacece** y sus dirigidos saben del poderío que ha alcanzado Paraguay al mando del extécnico de Ecuador, el argentino **Gustavo Alfaro**. Este último saldrá al estadio ‘Rodrigo Paz Delgado’ de Quito, con cuatro de seis puntos conquistados recientemente ante Uruguay y Brasil[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+Ecuador trabajará cuidadosamente, pues **Alfaro** sabe cómo contrarrestar la presión cuando se juega en Quito, por su experiencia cuando dirigió a la Selección de Ecuador.
+
+Los exdirigidos por Alfaro en la Selección de Ecuador arribaron
+---------------------------------------------------------------
+
+Entre los más experimentados dirigidos por Alfaro, y que actualmente ya están con Beccacece en Quito figuran el portero **Hernán Galíndez**, el atacante **Enner Valencia** y jóvenes con buen recorrido como **Piero Hincapíe, Alan Franco, Jeremy Sarmiento**, entre otros.
+
+También llegó a la convocatoria el atacante Gonzalo Plata para reintegrarse al combinado del que fue separado por indisciplina previo a la reciente **Copa América**. Aquello se extendió a las siguientes fechas de las eliminatorias posteriores a ese torneo americano.
+
+Plata puede ser una de las sorpresas en ataque que tendrá Ecuador para tratar de romper el cerrojo defensivo de Paraguay en la capital ecuatoriana. Allí, los **2.850 metros de altitud** sobre el nivel del mar en que se ubica Quito, ha incomodado a la ‘Albirroja’ en anteriores juegos en la ciudad.
+
+Leonardo Campana arriba en uno de sus mejores momentos
+------------------------------------------------------
+
+También ha llegado con gran ilusión **Leonardo Campana** que, con 24 años, es el goleador histórico del estadounidense Inter de Miami, con más de 30 goles; además de goleador, con 6 anotaciones, y campeón Sub-20 con Ecuador en el Sudamericano de 2019 en Chile.
+
+Ecuador saldrá el próximo jueves contra **Paraguay**, en el cuarto puesto de la tabla de posiciones de las eliminatorias, con 11 puntos, dos más que la ‘Albirroja’, que se ubica en el noveno lugar. 
+
+Delfín ganó, huye del descenso y frenó a Macará
+===============================================
+
+Delfín respira más aliviado en la tabla acumulada y dio un paso firme para escaparle al descenso en Ambato.
+-----------------------------------------------------------------------------------------------------------
+
+![Jugadores de Delfín en el estadio Bellavista de Ambato en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/delfin_tabla_1.jpg)
+
+**Delfín** dio la sorpresa en el cierre de la novena fecha de la segunda etapa de la Liga Pro, al ganarle por 0-2 al inestable Macará en su visita al estadio Bellavista de Ambato.
+
+El encuentro entre **Delfín y Macará se jugó la tarde de este lunes 7 de octubre de 2024**. Este partido dio paso a la pausa de 11 días de la Liga Pro por la doble fecha de eliminatorias al Mundial 2026.
+
+### Más noticias:
+
+* [¿Quién es Marco Angulo, jugador de Liga de Quito afectado en el siniestro de tránsito?](https://www.elcomercio.com/deportes/futbol/marco-angulo-siniestro-transito-jugador-liga-quito.html "¿Quién es Marco Angulo, jugador de Liga de Quito afectado en el siniestro de tránsito?")
+* [¿Cuál es el estado de salud de Marco Angulo, jugador de Liga de Quito?](https://www.elcomercio.com/deportes/futbol/estado-de-salud-de-marco-angulo-jugador-liga-de-quito-siniestro.html "¿Cuál es el estado de salud de Marco Angulo, jugador de Liga de Quito?")
+* [Liga de Quito se pronuncia sobre el estado de salud de Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-de-quito-se-pronuncia-sobre-el-estado-de-salud-de-marco-angulo.html "Liga de Quito se pronuncia sobre el estado de salud de Marco Angulo")
+
+Con los **goles del argentino Alan Miño y del ecuatoriano Michael Mieles**, Delfín logró zafarse de los dos últimos puestos de la tabla acumulada que castiga a los dos colistas con la pérdida de la categoría para 2025, aunque en esta segunda fase va en el sexto puesto y con opción de pelear el liderato.
+
+El último, en la acumulada, **sigue siendo Libertado con 16 puntos**; el penúltimo Cumbayá con 18; y el  
+antepenúltimo es Delfín que sumó 23, los mismos que Imbabura, y se ponen a buen recaudo, aunque aún  
+no pueden decir que están del todo salvados.
+
+El líder de la tabla de posiciones de esta etapa es Liga de Quito con 19 puntos, **luego de derrotar con claridad por 2-0 a Orense**, en un encuentro que estuvo a punto de ser suspendido por dos detonaciones que se produjeron en la general sur baja del Rodrigo Paz Delgado.
+
+Por su parte, el **Independiente del Valle se quedó en el segundo puesto con 17 unidades**, tras el empate 1-1 en su visita a Mushuc Runa en el complicado escenario de La Cocha de Latacunga.
+
+Católica completa el podio
+--------------------------
+
+Universidad Católica derrotó 2-1 a Imbabura y saltó al tercer puesto de la clasificación de la segunda fase, con 16 enteros, **el mismo puntaje que Universidad Católica, Mushuc Runa y Orense**, un pelotón que pugna por derrocar a Liga de Quito hasta el término de la etapa, en la decimoquinta fecha.
+
+Por su parte, **El Nacional y Delfín encendieron una esperanza para pelear por el liderato de la etapa**, con los triunfos que alcanzaron en esta novena fecha.
+
+El Nacional venció 3-0 al Barcelona y Delfín 0-2 al Macará, con lo que ambos acumularon 14 puntos cada uno.
+
+Las derrotas más dolorosas de la jornada resultaron la goleada de Barcelona a manos de **El Nacional y la caída de local de Macará ante Delfín**, que le cortó la posibilidad para acercarse a los primeros puestos, pues los dos perdedores se quedaron con 13 unidades cada uno.
+
+El torneo se suspenderá desde este lunes y **se reanudará el próximo 20 de octubre**, para dar paso a los partidos por la novena y décima fecha de las eliminatorias del Mundial 2026 de la selección de Ecuador contra Paraguay y Uruguay. 
+
+Tabla de posiciones
+-------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Copia-de-MAQUETA-POSICIONES-BF-PERSONAJE-5-819x1024.jpg)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Exvocal Xavier Muñoz salió de la cárcel tras cumplir condena reducida
+=====================================================================
+
+El exvocal del Consejo de la Judicatura cooperó con Fiscalía y aceptó su culpa en el delito de obstrucción a la justicia.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Xavier Muñoz cuando llegó a la cárcel 4 de Quito](https://www.elcomercio.com/wp-content/uploads/2024/10/xavier-m.jpg)
+
+**Xavier Muñoz**, exvocal del Consejo de la Judicatura, salió de prisión tras cumplir con su condena reducida.
+
+El exfuncionario se encontraba recluido en la **cárcel 4**, en el norte de Quito, tras ser sentenciado por **obstrucción a la justicia** dentro del caso Independencia Judicial.
+
+### Más noticias
+
+* [Wilman Terán niega vínculos con sobornos en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-niega-vinculos-con-sobornos-en-el-caso-metastasis.html "Wilman Terán niega vínculos con sobornos en el caso Metástasis")
+* [Fiscalía hizo un pedido sobre las amenazas de Colón Pico a Diana Salazar](https://www.elcomercio.com/actualidad/seguridad/fiscalia-hizo-pedido-sobre-amenazas-de-colon-pico-diana-salazar.html "Fiscalía hizo un pedido sobre las amenazas de Colón Pico a Diana Salazar")
+* [Wilman Terán presentó acciones de protección contra dos medios de comunicación](https://www.elcomercio.com/actualidad/politica/wilman-teran-acciones-proteccion-medios.html "Wilman Terán presentó acciones de protección contra dos medios de comunicación")
+
+Por este delito Muñoz debía recibir una pena superior a los **siete años**, sin embargo, el 20 de junio obtuvo una reducción del **90 %**, es decir, a nueve meses y seis días.
+
+El exvocal logró un acuerdo de **“cooperación eficaz”** con la Fiscalía, además, se declaró culpable del cargo que se le imputaba.
+
+La Fiscalía aseguró que la cooperación de Xavier Muñoz permitió que se abran **tres investigaciones** previas que están en reserva y ayudó a sustanciar otras dos causas que están en proceso.
+
+Destitución premeditada del juez Water Macías
+---------------------------------------------
+
+Muñoz formó parte del Pleno del Consejo de la Judicatura, conformado por cinco jueces y que lo presidía **Wilman Terán**.
+
+El exvocal aceptó que participó de la votación mayoritaria para destituir al juez **Walter Macías**, quien estaba a cargo de un caso de presunto tráfico de influencias en contra de los vocales Maribel Barreno y Juan José Morillo.
+
+De acuerdo con Muñoz, esta votación, al igual que otras causas, se realizó bajo la presión de Terán.
+
+En abril, Xavier Muñoz dio su **testimonio anticipado**, allí involucró a Wilman Terán**, Byron G. y Luis R.**
+
+En ese testimonio dijo que el **30 de marzo de 2023** se reunió en Brasil con el **expresidente Rafael Correa**.
+
+El plan habría sido remover del cargo a la fiscal general **Diana Salazar** y plantear un recurso de revisión en el caso **Sobornos** para que, de esta forma, Rafael Correa pueda regresar al país.
+
+Xavier Muñoz fue detenido bajo la figura de prisión preventiva en enero de 2024. Cuando recibió la pena reducida, en junio, ya llevaba **cinco meses** sin libertad.
+
+Por ello, este viernes 4 de octubre, recibió la orden de excarcelación por parte de la jueza Melissa Muñoz tras cumplir los cuatro meses y seis días restantes. El exvocal salió de la cárcel la **tarde** de ese día.
+
+Multa y disculpas públicas
+--------------------------
+
+La sentencia reducida también contempla el pago de **22 080 dólares**, la mitad como multa para la Función Judicial, y la otra parte como reparación integral para el afectado, Walter Macías.
+
+Muñoz deberá, además, ofrecer **disculpas públicas** al juez.
+
+Este martes se fijará la fecha de la audiencia en la que se tratará los detalles de la condena.
+
+Lo que se conoce de los cortes de luz en el sector industrial
+=============================================================
+
+Los empresarios están reunidos con las autoridades de Gobierno, a las cuales les hacen varios planteamientos sobre los cortes de luz.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Hasta el momento se han reportado más de 260 empresas de Cuenca y Ambato afectadas por los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/llantera-7.jpg)
+
+El Gobierno de **Daniel Noboa** anunció a última hora los **cortes de luz** prolongados de 10 horas para el **sector industrial,** por **dos semanas consecutivas.** Este 7 de octubre de 2024, el Comité Empresarial Ecuatoriano rechazó la medida, que denominó apagón industrial, y explicó las principales afectaciones para la industria[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Embalse de Mazar se acerca a la cota mínima, ¿aumentarán las horas de cortes de luz?](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-se-acerca-a-la-cota-minima-aumentaran-las-horas-de-cortes-de-luz.html "Embalse de Mazar se acerca a la cota mínima, ¿aumentarán las horas de cortes de luz?")
+* [Cortes de luz en Quito afectan controles de exceso de velocidad](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-afectan-controles-de-exceso-de-velocidad.html "Cortes de luz en Quito afectan controles de exceso de velocidad")
+* [Horarios de cortes de luz en Ecuador hasta el jueves 10 de octubre](https://www.elcomercio.com/actualidad/ecuador/horarios-cortes-luz-ecuador-octubre-10.html "Horarios de cortes de luz en Ecuador hasta el jueves 10 de octubre")
+
+¿Cuándo se anunció la medida?
+-----------------------------
+
+A las 11:00 del sábado 5 de octubre de 2024, la Corporación Nacional de Electricidad (CNEL) informó la disposición de reducir el consumo de hasta el 100% para el **sector industrial** en el período de 08:00 a 18:00 todos los días por un período de, al menos, 15 días. El anuncio fue imperativo y de cumplimiento obligatorio e inmediato.
+
+¿Cuándo empezaron los apagones para el sector industrial?
+---------------------------------------------------------
+
+Los **cortes de luz** para el sector industrial empezaron a las 13:00 del sábado 5 de octubre, poco tiempo después de hacerse público el anuncio. **Francisco Jarrín**, presidente de la Cámara de Industrias de Guayaquil, señaló que el racionamiento se inició de forma ‘abrupta’, sin ningún aviso previo para que las empresas puedan tomar las debidas precauciones.
+
+¿Dónde empezaron los cortes de luz para el sector industrial?
+-------------------------------------------------------------
+
+Los cortes de luz para el sector industrial empezaron en las ciudades de **Cuenca y Ambato**. En estas dos ciudades el parque industrial está más focalizado. Hasta el momento se han reportado más de 260 empresas afectadas por la medida. Una de ellas es Continental Tire Andina S.A., esta compañía decidió suspender las actividades hasta este lunes 7 de octubre en todos los turnos. “Esta parada obedece a un evento de Fuerza Mayor, ya que no es viable prender y apagar las máquinas continuamente”, señaló.
+
+El gremio calcula pérdidas de 12 millones de dólares por cada hora de corte de luz en el sector industrial.
+
+Consumo eléctrico del sector industrial
+---------------------------------------
+
+El sector industrial consume el 26% de la energía del Ecuador, pero enfrenta el 100% de las restricciones, lo que consideran injusto y perjudicial para la **cadena productiva**, especialmente en sectores como el lácteo, que afecta a millones de personas, entre productores, industriales y consumidores.
+
+Autogeneración del sector industrial
+------------------------------------
+
+Según el catastro del sector, las empresas tienen una capacidad de autogeneración de 150 megavatios (MW), aunque el Gobierno menciona que es de 300 MW.
+
+Solicitud del gremio empresarial
+--------------------------------
+
+Los empresarios pidieron al Gobierno Nacional suspender el apagón industrial y formar un **comité de crisis permanente** para abordar tanto la coyuntura actual como los problemas estructurales de la matriz energética del país y evitar crisis similares en el futuro. El Gobierno Nacional, por su parte, invitó al gremio a un diálogo la tarde de este lunes 7 de octubre, en el Palacio de Carondelet, en el Centro Histórico de Quito.
+
+México alerta de un posible impacto del huracán Milton en la península de Yucatán
+=================================================================================
+
+Las autoridades mexicanas activaron planes de emergencia a cargo de las Fuerzas Armadas del país en modo de prevención.
+-----------------------------------------------------------------------------------------------------------------------
+
+![El huracán Milton alcanza categoría 4 en el Golfo de México rumbo a Florida.](https://www.elcomercio.com/wp-content/uploads/2024/10/huracan-milton-efe-1.jpg)
+
+Autoridades de México alertaron este lunes, 7 de octubre de 2024, de que [Milton](https://www.elcomercio.com/actualidad/mundo/florida-prepara-gran-evacuacion-huracan-milton.html "https://www.elcomercio.com/actualidad/mundo/florida-prepara-gran-evacuacion-huracan-milton.html"), que se intensificó por la mañana a **huracán categoría 5**, podría impactar durante la noche entre los **municipios de Celestún** y Progreso, en el estado de Yucatán. Es decir en el **sureste del país**, por lo que pidieron a la población extremar precauciones.
+
+### Más noticias
+
+* [Florida se prepara para gran evacuación por huracán Milton](https://www.elcomercio.com/actualidad/mundo/florida-prepara-gran-evacuacion-huracan-milton.html "Florida se prepara para gran evacuación por huracán Milton")
+* [Huracán Helene deja 215 fallecidos por Helene en EE.UU.](https://www.elcomercio.com/actualidad/mundo/numero-fallecidos-helene-ee-uu-supera-215.html "Huracán Helene deja 215 fallecidos por Helene en EE.UU.")
+* [Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz](https://www.elcomercio.com/actualidad/mundo/helene-deja-sureste-ee-uu-menos-26-muertos-cuatro-millones-sin-luz.html "Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz")
+
+“Considerando el cono de incertidumbre y bajas presiones sobre Yucatán, y debido a su desplazamiento con dirección a la costa norte de Campeche y Yucatán, se prevé que, durante esta noche, el centro del huracán pueda impactar entre **Celestún y Progreso**”, señaló la coordinadora del Servicio Meteorológico Nacional (SMN), Alejandra Méndez Girón.
+
+Ante ello, indicó en un comunicado que se mantiene una **zona de prevención de Celestún** a Río Lagartos, Yucatán; zona de vigilancia por **efectos del huracán de Río Lagartos** a Cabo Catoche, Quintana Roo, además de Celestún a San Francisco de Campeche.
+
+La funcionaria apuntó que tras tocar tierra, sus **bandas nubosas** afecten el norte de Campeche y Quintana Roo y todo el estado de Yucatán.
+
+Centro del meteoro
+------------------
+
+Tras el posible impacto, dijo que se espera que el **centro del meteoro** pueda desplazarse bordeando las costas de Yucatán hasta el **norte de Quintana Roo**, donde podría cambiar de dirección al noreste, y para el miércoles dirigirse hacia Florida, Estados Unidos.
+
+Puntualizó que a las 12:00 del centro de México, Milton se localizó a 130 kilómetros (km) al noroeste de Celestún y a **170 km al oeste-noroeste de Progreso**, ambas localidades de Yucatán, con vientos de 280 kilómetros por hora (km/h), rachas de 330 km/h, y se desplaza hacia el este a 15 km/h.
+
+Además, previó que **golpee la península con vientos de 180 a 200 km/h**, oleaje de 6 a 8 metros de altura, lluvias torrenciales en **Campeche, Yucatán y Quintana Roo**, entidades donde se esperan inundaciones y aumento en niveles de ríos y arroyos.
+
+También, acotó, se espera la presencia de **posibles trombas marinas** y daños en sistema eléctrico y casas con techos de lámina.
+
+Planes de emergencia
+--------------------
+
+Horas antes, las autoridades mexicanas activaron planes de emergencia a cargo de las Fuerzas Armadas del país en modo de prevención para atender cualquier desastre provocado por el ciclón.
+
+En la temporada de huracanes 2024, **tres ciclones golpearon a México por el Atlántico:** el huracán Beryl y la **tormenta Chris**, que dejaron saldo blanco en julio, y la **tormenta Alberto**, en junio, cuando dejó seis muertos en Nuevo León, norte de México.
+
+El Gobierno mexicano reportó el viernes pasado al menos 236 636 afectados en Guerrero, estado del sur de México que el **23 de septiembre padeció el golpe de John**, huracán categoría 3 que dejó al menos 29 muertos, acumulados en los estados de Guerrero, Oaxaca y Michoacán, y **severas inundaciones** que ceden muy lentamente.
+
+‘Es importante identificar características únicas de cada paciente para tratar la obesidad’: Andrés Acosta
+==========================================================================================================
+
+Andrés Acosta, endocrinólogo ecuatoriano de Mayo Clinic, destaca la importancia de un enfoque individualizado para tratar la obesidad.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Andrés Acosta busca comprender la regulación de la saciedad y la interacción entre el intestino, el hígado y el cerebro.](https://www.elcomercio.com/wp-content/uploads/2024/10/image_720.png)
+
+En la lucha contra la obesidad, el enfoque tradicional no es suficiente. Cada persona es diferente y sus motivos para ganar peso pueden variar. **Andrés Acosta, endocrinólogo ecuatoriano de Mayo Clinic**, explica por qué es esencial un tratamiento individualizado.
+
+Acosta enfatiza la importancia de comprender no solo los aspectos emocionales, sino biológicos, hormonales y genéticos de por qué una persona tiene obesidad.
+
+Más noticias
+------------
+
+* [El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios](https://www.elcomercio.com/tendencias/salud/ecuador-tambien-afronta-el-aumento-de-pacientes-con-sobrepeso-y-obesidad.html "El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios")
+* [Alerta por efectos adversos del uso de fármacos para perder peso en Ecuador](https://www.elcomercio.com/actualidad/la-ute-y-arcsa-alertan-sobre-efectos-adversos-del-uso-de-farmacos-para-perder-peso-en-ecuador.html "Alerta por efectos adversos del uso de fármacos para perder peso en Ecuador")
+
+**¿Por qué es tan importante un tratamiento individualizado para tratar la obesidad?**
+
+Es importante tomar en cuenta que existe muchos motivos por cuales cada persona desarrolla o tiene obesidad. También existe muchas formas únicas en que cada persona va a bajar de peso. Es importante identificar cuáles son las características únicas de cada paciente y darles un tratamiento preciso. No todos los terapias funcionan para todos. Es ideal encontrar la terapia correcta para el paciente correcto.
+
+**¿Cómo manejarl**o **cuando hay problemas psiquiátricos y/o psicológicos, adicciones, baja autoestima que conduce a bulimia-anorexia, entre otros y la persona prueba** **varios tratamientos sin resultados?**
+
+Acabas de topar varios temas importantes. El primero es ¿por qué un paciente gana peso y desarrolla obesidad? Es importante entender que la obesidad es una enfermedad multifactorial. La mayoría de las causas que mencionaste son factores relacionados con nuestra parte psicológica o una persona que come por estrés por problemas hedónicos. Aunque la mayoría piensa que la obesidad es un problema de estrés, en realidad solo el 30% de personas con obesidad tiene un problema multifactorial.
+
+Hay que pensar que la mayoría tiene obesidad por problemas biológicos, hormonales, patofisiológicos. Nuestro estómago al comunicarse con nuestro cerebro no funciona de forma correcta o porque nuestro metabolismo está inactivo. El problema es más bien patofisiológico en la biología que regula las sensaciones del apetito, ya sea el hambre o la llenura o el metabolismo de cómo quemamos calorías.
+
+Al separar la obesidad de un problema emocional entendemos que lo vamos a tratar de forma individualizada. Pero también entendemos ¿por qué hay ciertas personas que responden también? Si fuera puramente emocional y de adicciones diríamos que la persona entendió que tenía un problema emocional. Entonces empezó a dejar de comer, se volvió al ejercicio, fue cambiando sus adicciones y, eventualmente, encontró algo más saludable para llenar ese vacío emocional. Pero al mismo tiempo hay personas que siempre tienen hambre y no se dan cuenta o no se sienten llenos. En ese tipo de personas es mucho más difícil hacer cambios de comportamiento. Es muy difícil luchar en contra de nuestra biología y por eso muchos pacientes no son exitosos.
+
+**¿Cómo trata la obesidad, una vez separados estos factores?**
+
+Uno de los mejores ejemplos que uso es cuando hablamos sobre las hormonas tiroideas ¿Qué te da el problema la tiroides? Si hablas con cualquier endocrinólogo, los síntomas son: piel seca, estreñimiento y caída de cabello. ¿Cuáles son los síntomas de la obesidad? Mucha gente con obesidad tiende a sentir mucha hambre, especialmente cuando queremos bajar de peso, el metabolismo se inactiva. ¿Por qué en una enfermedad como la tiroidea te doy tratamiento y cubro los síntomas? ¿Por qué en otra no puedo darte tratamiento y curar tus síntomas?
+
+Entonces tenemos que separar. Hay pacientes que no necesitan hormonas o tratamientos para la obesidad. Ellos logran cambiar su estilo de vida y con eso es suficiente sin tratar la causa de base. Al haber muchos factores, dependiendo de tu factor inicial es muy fácil o muy complejo tratarlo. Y, solo cuando sepamos cuál es el factor de base sabremos qué tan fácil es.
+
+**¿Cuáles son las características que se toman en cuenta en este enfoque individual?**
+
+Nosotros explicamos la obesidad desde el punto de vista de los fenotipos. Es la interacción de la genética con nuestro ambiente, con las cosas que nos rodean y qué hacemos. Esta combinación nos dice que hay cuatro tipos predominantes de por qué una persona va a desarrollar obesidad.
+
+El primero es el **cerebro hambriento**. Las personas empiezan a comer y no tienen sensación de llenura, por lo que no saben cuándo parar.
+
+Luego tenemos a las personas que tienen un **intestino o un estómago hambriento**. Empiezan a comer, se sienten llenos, pero dentro de una o dos horas están listos para comer de nuevo.
+
+El tercer grupo es lo que tú mencionaste: las personas que comen por sus emociones. Yo les llamo gente que tiene ’emotion leading’ en inglés, en español sería una **hambre emocional**. Comen por estrés, ansiedad y cada vez que tienen algo bueno quieren comer y cuando tienen algo malo quieren comer.
+
+En el cuarto grupo están personas que tienen el **metabolismo inactivo**. No queman suficientes calorías, tal vez comen poco pero su cuerpo no les permite quemar esas calorías y van ganando de peso.
+
+**¿Por qué es clave esta clasificación?**
+
+Esta clasificación se puede unir a otras, por ejemplo la de dónde acumulamos grasa una vez que empezamos a ganar de peso. Hay gente que guarda la grasa en el tejido adiposo, otras en la barriga y en las caderas. Después hay gente que gana peso y desarrolla resistencia a la insulina, diabetes, enfermedades cardiovasculares. También pueden desarrollar otras enfermedades, como dolor de las articulaciones, de rodillas, etcétera. Es importante porque nos ayuda a guiar el tratamiento de una forma individualizada y al mismo tiempo explicar al paciente, por qué tienen obesidad. De esta forma pueden adoptar herramientas que les permita ser más exitosos.
+
+**¿Cómo se determinan estos fenotipos en la práctica diaria?**
+
+Hacemos una batería de pruebas que sean objetivas. No nos gusta simplemente conversar con el paciente. Lo hemos hecho con más de 1000 pacientes y con eso sabemos qué es normal y qué es anormal. Al mismo tiempo lanzamos una compañía en la cual se hace una prueba genética. Ésta nos dice quién tiene la predisposición para cada grupo de obesidad. El tratamiento es guiado con este examen.
+
+**¿Cuánto tiempo toman estas pruebas y cómo se hace?**
+
+Es muy simple. Se hace un raspado de la mucosa del cachete o se colecta saliva. En siete a 10 días se tiene el resultado de la prueba genética. El resto se realiza en 10 horas. Es esencial entender que no todos tenemos una predisposición genética para ganar peso. A esto lo llamamos medicina de precisión.
+
+**Luego de ubicar a la persona en un grupo y dar el tratamiento ¿Qué desafíos enfrenta?**
+
+El desafío se vuelve más interesante, porque el paciente que recibe el diagnóstico inmediatamente entiende por qué tiene la enfermedad. Empieza a hacer los cambios necesarios para combatir su fenotipo. En cambio el paciente que no recibe esta información simplemente dice voy a tomar esta medicina o voy por cirugía. No entiende verdaderamente por qué va a funcionar o no.
+
+Muchas veces tenemos pacientes que gastan de su bolsillo, porque el seguro no cubre, para una cirugía o medicinas costosas. No sería mejor decir: vas a responder a esta medicina o a esta otra y es diferente a la que estás pensando y te recomendaron.
+
+Es importante cambiar la discusión sobre la obesidad y dejar de hablarlo como un tema de sobremesa. Hablarlo con el médico y que se haga un diagnóstico clínico, incluso genético. Hay que hacerle entender al paciente por qué debe tomar la enfermedad de forma seria y tener una solución de por vida.
+
+**En Ecuador, los pacientes que tienen recursos económicos son los que más acceden a tratamientos**. **Pero, no se habla de este análisis de fenotipos y pruebas genéticas…**
+
+Estoy pensando en que el tratamiento de la obesidad en EE.UU. al igual que en países de Latinoamérica se va a crear una brecha importante entre quienes tienen recursos económicos y los que no.
+
+Por otro lado, la gente que tiene recursos cree que puede pagar más, pero no siempre eso es lo mejor para ellos. Es un problema de salud pública muy serio y desgraciadamente a la larga va a perjudicar a mucho a países como Ecuador, en el que todavía existen los dos extremos: malnutrición y obesidad severa y los dos traen muchos costos a largo plazo. Los tratamientos actuales como el semaglutide no han demostrado ser costo eficientes a nivel poblacional. Espero que los costos de las medicinas bajen y de esa forma tratar a la mayoría de personas.
+
+**¿Qué recomendaciones a quienes han probado todo tipo de cosas con resultados deficientes?**
+
+Mucha gente ha intentado, pero no han intentado todo guiadas por un especialista en obesidad. Hay nutriólogos, endocrinólogos, gastroenterólogos que se especializan en esta enfermedad.
+
+Mi segunda recomendación es intentar llegar a la causa de base de la obesidad. No simplificar con tengo ansiedad o tal cosa. Buscar esas pruebas y, si no existe en Ecuador, buscarlas afuera e intentar encontrar la solución. Tercero: pensar que es un problema de por vida y no tenemos que esperar una solución rápida porque muchas veces creemos, por ejemplo, solo bajé un kilo al mes ya no sirve.
+
+Usualmente toma 10 a 20 años llegar al peso que está actualmente, ¿por qué esperar que el resultado se lo vea en pocos meses? Hay que tener un poco de paciencia, es un problema crónico y la solución es de por vida. Por ejemplo si en 10 años gané 10 kilos, por qué tengo que esperar tres meses cuando puedo bajarlo en seis meses o un año.
+
+**No decaer si es que hay un rebote…**
+
+Es importante entender que muchas veces cuando fracasamos o bajamos algo de peso y lo recuperamos no es nuestra culpa. Nuestro sistema biológico nos está atacando como un cáncer y eso es bien difícil de entender porque intentamos inmediatamente culparnos. Más bien decir quién me puede ayudar como cualquier otra enfermedad
+
+**¿Qué ocurre cuando la persona tiene comorbilidades. Hoy hay un debate médico, entre quienes creen que primero hay que tratar las otras enfermedades y otros que priorizan la obesidad**
+
+Al ser un experto en obesidad y entender que la obesidad es una enfermedad que conlleva y te lleva a tener otras enfermedades es importante entender que al tratar la obesidad tratas las otras.
+
+Yo siempre manejo el peso de un paciente primero. El rato que lo hago estoy manejando la diabetes, el hígado graso, la hipertensión, el colesterol, los dolores de rodillas, de articulaciones, el riesgo cardiovascular, etcétera.
+
+Manejo más de 260 enfermedades solo al manejar la obesidad. Pero muchas veces como toma tiempo hay que manejarlas en combinación con las otras enfermedades. Hay que pensar siempre que el peso es lo más importante para mejorar la salud de nuestros pacientes.
+
+**¿Lo maneja con otros especialistas?**
+
+Hay casos, por ejemplo, que por primera vez fue diagnosticado de diabetes, entonces manejo la obesidad y la diabetes. En otros casos vienen a verme referidos por un cardiólogo. Ahí manejo la obesidad y la enfermedad cardiovascular, que maneja el cardiólogo. Tenemos un equipo multidisciplinario.
+
+**¿Cómo ve a futuro esta enfermedad cuando la gente es sedentaria, tiene malos hábitos alimenticios?**
+
+Vivimos en un mundo, en que a la mayoría nos predispone a ganar peso. Como bien dices somos más sedentarios y tenemos más acceso a alimentos. La calidad de los alimentos no son tan buenos y eso contribuye a ganar más peso. Tenemos que buscar tiempo y espacio para la comida saludable, el ejercicio.
+
+No hay que poner excusas. Hay que buscar soluciones. Si puedes ir al trabajo en transporte, no parquees en la puerta. Camina. Puedes comprar comida poco saludable, pero puedes elegir opciones más sanas.
+
+Tener hábitos saludables no es solo para tratar la obesidad. Es importante separar eso. Si tienes un peso normal es bueno adoptar hábitos saludables. Si ya tienes obesidad busca la ayuda de un experto.
+
+Su hoja de vida
+---------------
+
+* Andrés Acosta es médico, científico y emprendedor, certificado en Medicina Interna, Gastroenterología y Medicina de la Obesidad. Se graduó de MD en la Universidad San Francisco de Quito y obtuvo su PhD en la Universidad de Florida.
+* Es profesor y labora en [Mayo Clinic](https://www.mayo.edu/research/faculty/acosta-andres-j-m-d-ph-d/bio-20189108), en Rochester-Minnesota. Ahí co-dirige el programa de Investigación en Nutrición y Obesidad y dirige el programa de Medicina de Precisión para la Obesidad.
+
+Los siniestros de tránsito dejan una huella de luto en el fútbol ecuatoriano
+============================================================================
+
+Los siniestros de tránsito han cobrado la vida de jugadores como Roberto Cabezas, Otilino Tenorio y Carlos Muñoz, entre otros.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Carlos Muñoz, atacante que deslumbró con la camiseta número 7 del Barcelona SC murió en un accidente de tránsito en 1993.](https://www.elcomercio.com/wp-content/uploads/2024/10/CarlosMunoz.jpg)
+
+El **fútbol ecuatoriano** enfrenta un duro golpe tras la trágica muerte del futbolista **Roberto Cabezas**, quien perdió la vida en un **siniestro de tránsito** en la madrugada del 7 de octubre de 2024.
+
+El trágico percance ocurrió en el sector del Puente 8, en la Autopista General Rumiñahui de **Quito**, y dejó un saldo devastador: además de **Cabezas**, falleció **Víctor Charcopa**, otro de los ocupantes del vehículo.
+
+Lamentablemente, Cabezas no ha sido el único **futbolista** ecuatoriano fallecido en las vías.
+
+En su momento, el país también lamentó el fallecimiento de **Carlos Muñoz** y **Otilino Tenorio**, dos renombrados futbolistas tricolores. Los **siniestros de tránsito** han enlutado al fútbol ecuatoriano
+
+### Más noticias:
+
+* [Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro](https://www.elcomercio.com/deportes/futbol/piero-hincapie-muerte-roberto-cabezas-tragico-siniestro.html "Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro")
+* [Roberto Cabezas, jugador de Independiente Juniors, falleció en siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/roberto-cabezas-jugador-de-independiente-juniors-fallecio-en-siniestro-de-transito.html "Roberto Cabezas, jugador de Independiente Juniors, falleció en siniestro de tránsito")
+* [Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/equipos-de-ecuador-lamentan-el-fallecimiento-de-roberto-cabezas.html "Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas")
+
+**Siniestros de tránsito en Ecuador**
+-------------------------------------
+
+Cabezas, de apenas 22 años y jugador del **Independiente Juniors**, se encontraba en el auto junto a cuatro personas más, incluyendo a su compañero de profesión **Marco Angulo** (Liga de Quito), quien actualmente se encuentra hospitalizado en estado grave.
+
+La directiva de **Independiente Juniors** expresó su dolor a través de un comunicado: “Lamentamos profundamente el fallecimiento de nuestro jugador **Roberto Carlos Cabezas Simisterra**, en un siniestro de tránsito ocurrido en horas de la mañana”.
+
+Esta tragedia resuena en un contexto donde el país ha tenido que afrontar la pérdida de otros futbolistas icónicos, como **Carlos Muñoz** y **Otilino Tenorio**, quienes también fallecieron en trágicos **siniestros de tránsito** en Ecuador.
+
+![Roberto Cabezas ganó la Libertadores Sub-20 con Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-07T123144.346-1024x683.jpg)
+
+Roberto Cabezas ganó la Libertadores Sub-20 con Independiente del Valle.
+
+### Roberto Cabezas: Una promesa truncada
+
+Roberto Cabezas, a sus 22 años, prometía ser una de las estrellas del fútbol ecuatoriano.
+
+Actualmente, militaba en **Independiente Juniors**. Su pérdida no solo deja un vacío en el equipo, sino también en los corazones de aficionados que veían en él un futuro brillante en el deporte. La comunidad futbolística llora la pérdida de un talento en ascenso.
+
+![Otilino 'Spider-Man' Tenorio jugó también en El Nacional. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/05/Otilino-Tenorio-1024x683.jpg)
+
+Otilino ‘Spider-Man’ Tenorio jugó también en El Nacional. Foto: Archivo / EL COMERCIO
+
+### Otilino Tenorio: El ‘Spider-Man’ del gol
+
+**Otilino Tenorio**, conocido como el **‘Spider-Man’** del gol, falleció hace 19 años, dejando un legado imborrable en el fútbol ecuatoriano.
+
+Nació en Guayaquil el 1 de febrero del 1980. Falleció en la vía entre [Santo Domingo](https://es.wikipedia.org/wiki/Santo_Domingo_(Ecuador)) y Quevedo, el 7 de mayo del 2005. Estaba en su vehículo y chocó contra otro automotor.
+
+Tenorio, quien se destacó con las camisetas de **Emelec** y **El Nacional,** es recordado por su estilo único de celebración, que incluía el uso de una máscara de superhéroe.
+
+Su último gol lo anotó precisamente a Emelec, el 17 de abril del 2005, en el Olímpico Atahualpa. Fue en la victoria de El Nacional por 5-2 ante los azules. ‘Otigol’ anotó tres tantos y no los festejó con la máscara. Por el contrario, lo hizo con un corazón de felpa que decía: “¡Con Amor!”
 
 Los restos de Otilino Tenorio Bastidas fueron velados en Guayaquil, su ciudad natal.
 
-![Otilino Tenorio con su máscara de Spider-Man celebra un gol con la camiseta de Emelec. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/05/OtilinoTenorio-1024x683.jpg)
+Su trágica muerte en un accidente de tráfico ocurrió el 7 de mayo de 2005, y su influencia sigue presente entre las nuevas generaciones de futbolistas.
 
-Otilino Tenorio con su máscara de Spider-Man celebra un gol con la camiseta de Emelec. Foto: Archivo / EL COMERCIO
+### Carlos Muñoz: El ídolo de Barcelona SC
 
-Aumentan binomios calificados para las elecciones 2025
-======================================================
+**Carlos Muñoz**, un ícono del Barcelona SC, falleció en 1993 en un accidente de tránsito.
 
-Proceso de elecciones 2025 tiene nuevos binomios presidenciales.
-----------------------------------------------------------------
+Conocido por su velocidad y habilidad en el campo, Muñoz dejó una huella indeleble en la historia del club. Su entrega y pasión por el juego lo convirtieron en un ídolo para los aficionados, quienes aún lo recuerdan con cariño.
 
-![El CNE avanza en los procesos para las elecciones 2025.](https://www.elcomercio.com/wp-content/uploads/2024/10/elecciones-inscripciones-en-linea-1.jpg)
+Años después de su muerte, su legado continúa vivo, y su nombre resuena en cada rincón del estadio Monumental de Guayaquil.
 
-Ecuador cuenta con **16 binomios** presidenciales inscritos para las elecciones 2025. El **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)** emitió un nuevo corte de duplas calificadas[.](https://es.wikipedia.org/wiki/Ecuador)
+El [‘Frentón’ Muñoz](https://www.elcomercio.com/deportes/barcelona-carlos-munoz-acccidente-goles.html) falleció el 26 de diciembre de 1993. La tragedia ocurrió camino a General Villamil ‘Playas’, cuatro días después de haber sido determinante al notar tres goles contra **El Nacional** para que los toreros se clasificaran para la Copa Libertadores. Ese fue su último partido de fútbol.  
 
-Este lunes, 7 de octubre, el número de equipos que correrán por la **Presidencia y Vicepresidencia** aumentó, respecto de los cuatro que ya contaban con la calificación.
+El petróleo de Texas supera los 77 dólares, pendiente de ataque de Israel contra Irán
+=====================================================================================
+
+El crudo de referencia estadounidense se disparó la semana pasada por la escalada de tensiones en Oriente Medio.
+----------------------------------------------------------------------------------------------------------------
+
+![Fotografía de archivo que muestra una plataforma petrolífera.](https://www.elcomercio.com/wp-content/uploads/2024/10/petroleo-efe.jpg)
+
+El [precio del petróleo](https://www.elcomercio.com/actualidad/mundo/aniversario-del-7-de-octubre-de-2023-de-la-guerra-en-la-franja-de-gaza.html "https://www.elcomercio.com/actualidad/mundo/aniversario-del-7-de-octubre-de-2023-de-la-guerra-en-la-franja-de-gaza.html") intermedio de Texas cerró este lunes 7 de octubre de 2024, con una subida del 3,7 %, hasta **77,14 dólares el barril**, con el mercado pendiente de un posible ataque de Israel contra Irán.
+
+Más noticias
+------------
+
+* [¿Quién fue Taylor Rousseau Grigg, joven ‘tiktoker’ de Estados Unidos que falleció?](https://www.elcomercio.com/afull/taylor-rousseau-grigg-tiktoker-moda.html "¿Quién fue Taylor Rousseau Grigg, joven ‘tiktoker’ de Estados Unidos que falleció? ")
+* [Las reservas de petróleo de Estados Unidos caen en 14,5 millones de barriles](https://www.elcomercio.com/actualidad/negocios/reservas-petroleo-estadosunidos-disminuyen-barriles.html "https://www.elcomercio.com/actualidad/negocios/reservas-petroleo-estadosunidos-disminuyen-barriles.html")
+* [Una recesión en Estados Unidos cómo le afectará a Ecuador](https://www.elcomercio.com/actualidad/negocios/recesion-estados-unidos-como-afectara-ecuador.html "https://www.elcomercio.com/actualidad/negocios/recesion-estados-unidos-como-afectara-ecuador.html")
+
+Al cierre de la jornada en la **Bolsa Mercantil de Nueva York (Nymex),** los contratos de futuros del WTI para entrega en noviembre sumaron 2,76 dólares con respecto a la sesión anterior.
+
+El crudo de referencia estadounidense se disparó la semana pasada por la **escalada de tensiones** en Oriente Medio, con un **ataque de Irán** contra Israel el martes al que se espera que pronto responda el estado hebreo.
+
+Israel, que continúa los **bombardeos sobre Líbano y Gaza** en el séptimo día desde el inicio de su incursión terrestre en territorio libanés, prometió ya una respuesta y la incógnita es cuándo, dónde y cómo.
+
+El viernes, el presidente de EE.UU., Joe Biden, en una rueda de prensa en la Casa Blanca, instó a **Israel a buscar “alternativas a atacar campos petroleros”** tras decir primero, improvisadamente, que barajaban esa opción.
+
+La **guerra en Oriente Medio,** región rica en petróleo, de momento no interrumpió el suministro global de crudo, pero los analistas temen que **Irán ataque el estrecho de Ormuz**, una ruta importante para su transporte.
+
+Aparte de los factores geopolíticos, Estados Unidos se prepara para el huracán Milton, que podría tocar tierra en Florida más adelante esta semana tras atravesar el **Golfo de México**, donde están instaladas varias petroleras.
+
+En otros mercados, los contratos de gas natural para entrega en noviembre cayeron a **2 746 dólares** por mil pies cúbicos y los contratos de gasolina con vencimiento en el mismo mes subieron a 2 1538 dólares el galón.
+
+Rocola, rock y más música en la agenda de octubre de 2024 en Quito
+==================================================================
+
+Música para todos los gustos sonará en octubre en Quito.
+--------------------------------------------------------
+
+![Darío Castro, de Verde 70, se prepara para su concierto en Quito. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-07T172720.446.jpg)
+
+**Conciertos** para todos los gustos se realizarán durante **octubre** de 2024. En la lista están los shows de Verde 70, **Amon Anarth**, Voz Veis, entre otros. 
+
+### **Más noticias:** 
+
+* [Fans de Karol G hurgaron en sus redes y se encontraron con ‘Diddy’ Combs](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-diddy-combs-fans-redes-sociales.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-diddy-combs-fans-redes-sociales.html")
+* [Karol G y otra estrella latina animarán en vivo los Premios MTV](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-anitta-premios-mtv-latinas.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-anitta-premios-mtv-latinas.html?source=Internal&ref=Single+Content+Link")
+* [Thalía rinde un emotivo homenaje a Soda Stereo](https://www.elcomercio.com/tendencias/entretenimiento/thalia-soda-stereo-homenaje-persiana-americana.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/thalia-soda-stereo-homenaje-persiana-americana.html?source=Internal&ref=Single+Content+Link")
+
+**Una velada romántica en la CCE**
+----------------------------------
+
+Los **Verde 70** estarán nuevamente sobre el escenario del Teatro Ágora de la Casa de la Cultura Ecuatoriana para deleitar al público con temas como En la inmensidad, Palabras, Tanto ganas Tanto pierdes, entre otros. 
+
+**Segundo Rosero y más rocoleros cantarán en Quito**
+----------------------------------------------------
+
+Segundo Rosero, **Noe Morales**, Cecilio Alva y más artistas nacionales protagonizarán la velada ‘Rockola Fina y algo más’. 
+
+Los promotores anunciaron que será este 18 de octubre, desde las 19:00, en la **Plaza de Toros Quito**.  El concierto se realizará como un homenaje a los 60 años de vida artística de Noe Morales. 
+
+**Voz Veis en concierto**
+-------------------------
+
+La agrupación **Voz Veis** llegará a Quito para presentar ‘La Última Función World Tour’. Su concierto está previsto para el 25 de octubre, en el Centro de Convenciones **Teleférico**. 
+
+Voz Veis es reconocido por temas como, Aunque sea poco, Solo por esta vez, La niña de mis ojos.
+
+**Roqueros se tomarán el Teleférico**
+-------------------------------------
+
+**Amon Amarth**, banda de metal sueca, conocida por su potente sonido y líricas inspiradas en la mitología nórdica y la historia vikinga, visitará Quito. 
+
+Temas de álbumes como ‘Once Sent from the Golden Hall’ y ‘Twilight of the Thunder God’ sonarán el 24 de octubre, en el Centro de Convenciones El Teleférico. 
+
+Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil
+========================================================================
+
+Los ciudadanos constaban en el programa Angel Watch, destinado a identificar a personas condenadas por delitos sexuales.
+------------------------------------------------------------------------------------------------------------------------
+
+![El Ministerio del Interior, a través de la Policía migratoria, coordina las actividades irregulares de extranjeros en nuestro territorio](https://www.elcomercio.com/wp-content/uploads/2024/10/migracion.jpg)
+
+El Ministerio del Interior impidió la entrada a Ecuador de **dos ciudadanos** que venían de Estados Unidos, este lunes 7 de octubre de 2024.
+
+Tras aterrizar en el Aeropuerto José Joaquín de Olmedo de **Guayaquil**, personal de Migración verificó sus identidades y se percató que estaban registrados en el **Programa Angel Watch**.
 
 ### Más noticias
 
-* [Segunda vuelta electoral para las elecciones de 2025, ¿en qué casos se realiza?](https://www.elcomercio.com/actualidad/politica/en-que-casos-se-realiza-segunda-vuelta-electoral.html "Segunda vuelta electoral para las elecciones de 2025, ¿en qué casos se realiza?")
-* [16 binomios presidenciales inscritos para las elecciones 2025 en Ecuador](https://www.elcomercio.com/actualidad/politica/16-binomios-presidenciales-inscritos-para-las-elecciones-2025-en-ecuador.html "16 binomios presidenciales inscritos para las elecciones 2025 en Ecuador")
-* [Elecciones 2025: CNE calificó cuatro binomios presidenciales, negó candidatura de Jimmy Jairala](https://www.elcomercio.com/actualidad/politica/elecciones-2025-cne-califico-cuatro-binomios-presidenciales-nego-candidatura-jimmy-jairala.html "Elecciones 2025: CNE calificó cuatro binomios presidenciales, negó candidatura de Jimmy Jairala")
+* [Carlos Pólit fue sentenciado a 10 años de prisión en Estados Unidos](https://www.elcomercio.com/actualidad/seguridad/carlos-polit-sentenciado-10-anos-prision-estados-unidos.html "Carlos Pólit fue sentenciado a 10 años de prisión en Estados Unidos")
+* [Estados Unidos actualiza la lista de países que no necesitan visa para entrar en 2024](https://www.elcomercio.com/actualidad/mundo/estados-unidos-actualiza-la-lista-de-paises-que-no-necesitan-visa-para-entrar-en-2024.html "Estados Unidos actualiza la lista de países que no necesitan visa para entrar en 2024")
+* [Estados Unidos endurecerá sus políticas comerciales y migratorias](https://www.elcomercio.com/actualidad/mundo/ee-uu-endurecera-politica-comercial-migratoria-quien-sea-presidente.html "Estados Unidos endurecerá sus políticas comerciales y migratorias")
 
-Elecciones 2025 y los binomios
-------------------------------
+El Angel Watch es una iniciativa del Departamento de Seguridad Nacional de los Estados Unidos, en el que constan las personas condenadas por **delitos sexuales** y que podrían representar un riesgo para los niños.
 
-El proceso de inscripción de las candidaturas se cerró el pasado 2 de octubre. En este se apuntaron binomios y, además, listas para **151 asambleístas** y parlamentarios andinos.
+El programa busca proteger a los menores de edad de la explotación y el **abuso sexual**.
 
-No obstante, con el registro no termina el proceso. Uno de los pasos es, justamente, la calificación del **CNE**. En este se verifica el cumplimiento de los requisitos.
+Luego de asegurarse que los identificados eran los buscados por la justicia de Estados Unidos, la Policía migratoria realizó el proceso para **regresarlos** de manera inmediata a su país de origen.
 
-En un primer momento, **Jimmy Jairala y Lucía Vallecilla** de Centro Democrático (CD), no fueron calificados.
+Uno de ellos era estadounidense, mientras que el otro de **República Dominicana**.
 
-El Pleno del CNE negó la candidatura por errores en la declaración juramentada y falta de firma del secretario en el formulario. Esta dupla tenía la opción de subsanar las trabas en 48 horas.
+> ¡DOS AGRESORES SEXUALES DEVUELTOS A ESTADOS UNIDOS!  
+>   
+> 🚨 [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)| En el Aeropuerto José Joaquín de Olmedo de [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw), personal de [#Migración](https://twitter.com/hashtag/Migraci%C3%B3n?src=hash&ref_src=twsrc%5Etfw), inadmitió a dos ciudadanos estadounidenses quienes, luego de ser identificados, fueron retornados de manera inmediata a su país de… [pic.twitter.com/6koEpHXMtQ](https://t.co/6koEpHXMtQ)
+> 
+> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [October 7, 2024](https://twitter.com/MinInteriorEc/status/1843351704705872126?ref_src=twsrc%5Etfw)
 
-Los binomios inscritos
+Migración expulsó a colombiano de Ecuador
+-----------------------------------------
+
+Migración también expulsó del país a un ciudadano colombiano que cumplió una pena privativa de libertad de más de **cinco años** en Ecuador.
+
+Las autoridades trasladaron y entregaron al hombre al país del norte, en el Centro Nacional de Atención Fronteriza Rumichaca.
+
+El ciudadano tiene prohibido ingresar a Ecuador durante **10 años**.
+
+> 🚨[#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)| En [#Ibarra](https://twitter.com/hashtag/Ibarra?src=hash&ref_src=twsrc%5Etfw), personal de [#migración](https://twitter.com/hashtag/migraci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) procedió con la expulsión de un ciudadano colombiano luego de cumplir una pena privativa de libertad en el país de más de cinco años.  
+>   
+> ➡️Prohibición de retornar al territorio durante 10 años.  
+>   
+> ➡️El traslado y entrega de la persona… [pic.twitter.com/ao80CHHGI5](https://t.co/ao80CHHGI5)
+> 
+> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [October 7, 2024](https://twitter.com/MinInteriorEc/status/1843396061391397132?ref_src=twsrc%5Etfw)
+
+Droga valorada en más de tres millones de dólares, incautada
+------------------------------------------------------------
+
+En otro tema de seguridad, la Policía Nacional ejecutó la operación **Cero Impunidad 2 260** en Guayaquil.
+
+En este operativo, los uniformados capturaron en flagrancia a **cinco personas**, quienes contaminaban con droga un contenedor que tenía como destino Europa.
+
+El contenedor se encontraba a bordo de un tráiler y tenía previsto ingresar a un puerto marítimo, con destino final a un puerto de **Bélgica**.
+
+Los ecuatorianos aprendidos fueron: Manuel Alfonso H. O., Wilmer Israel B.P., Eddy Jair O.M., Jonathan Eduardo V. M.; y, Wilmer Stenio C. T..
+
+El operativo dejó varios indicios incautados:
+
+* **80 kilos de clorhidrato de cocaína**
+* 1 tráiler tipo cabezal
+* 1 contendor
+* 8 celulares
+* $150 dólares
+* 1 rastreador GPS
+
+La droga aprehendida valdría en Ecuador unos 160 000 dólares; al llegar a Europa este valor se incrementaría a **3,2 millones de dólares**.
+
+Alrededor de ocho millones de dosis de droga fueron impedidas de circular en el mercado.
+
+Fallece el tercer cuervo de la Torre de Londres y crece el temor por la profecía real
+=====================================================================================
+
+La leyenda cuenta que seis de estos animales deben vivir siempre en la torre de Londres para evitar que la realeza caiga.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Foto referencial. Es el tercer cuervo que muere en los últimos tres años en la famosa Torre de Londres.](https://www.elcomercio.com/wp-content/uploads/2024/10/birds-6557512_1280-e1728332902243.jpg)
+
+La **muerte** del **tercer cuervo** en la Torre de Londres ha reavivado temores sobre una **antigua profecía** que predice el **colapso** del **reino británico** si estos pájaros abandonan el castillo. La **leyenda**, que se remonta al reinado de Carlos II, sostiene que la **desaparición** de los **cuervos** provocaría la caída de la torre y, con ello, el fin de la **monarquía**[.](https://es.wikipedia.org/wiki/Torre_de_Londres "https://es.wikipedia.org/wiki/Torre_de_Londres")
+
+### Más noticias
+
+* [Los pasos ‘prohibidos’ de salsa del príncipe Harry y Meghan Markle en Colombia](https://www.elcomercio.com/tendencias/entretenimiento/los-pasos-prohibidos-de-salsa-del-principe-harry-y-meghan-markle-en-colombia.html)
+* [Kate Middleton confirma el fin de su quimioterapia](https://www.elcomercio.com/afull/kate-middleton-quimioterapia-cancer.html "Kate Middleton confirma el fin de su quimioterapia")
+* [El documental de los Duques de Sussex ya tiene fecha de estreno](https://www.elcomercio.com/tendencias/entretenimiento/documental-duques-sussex-fecha-estreno.html?source=Internal&ref=Single+Content+Link)
+
+Recientemente, un **cuervo** fue encontrado muerto con la cabeza atrapada en su jaula, lo que marca la tercera pérdida en tres años. A pesar de esto, los Yeomen Warders, encargados de cuidar a estas aves, se aseguran de que siempre haya al menos seis cuervos en la torre. Los actuales son **Jubilee, Harris, Poppy, Georgie, Edgar y Branwen.**
+
+El papel vital del maestro de los cuervos en la profecía de la monarquía británica
+----------------------------------------------------------------------------------
+
+Michael “Barney” Chandler, un excomandante de los Royal Marines, ha asumido el papel de “**maestro de los cuervos**” desde marzo. Su responsabilidad es cuidar y alimentar a las aves, un trabajo que él considera crucial para la **supervivencia** del **Reino Unido**, según la profecía. Chandler ha expresado su aprecio por los cuervos, destacando su **inteligencia** y **personalidad** única. Para evitar que se escapen, se les recortan algunas plumas.
+
+La **creciente preocupación** por la **muerte** de los **cuervos** resuena en el contexto actual de la **monarquía británica** y su **estabilidad**.
+
+La historia de la Torre de Londres
+----------------------------------
+
+La Torre de Londres, ubicada a orillas del **río Támesis**, es una de las fortalezas más icónicas de Inglaterra. Su historia se remonta a 1066, cuando **Guillermo el Conquistador** ordenó su construcción para consolidar su dominio sobre Londres tras su victoria en la **batalla de Hastings**.
+
+La **Torre Blanca**, su estructura más emblemática, fue terminada en 1078 y sirvió como símbolo de poder y **fortaleza militar**.
+
+A lo largo de los siglos, la Torre ha tenido diversos usos: **residencia real, prisión,** casa de la moneda, armería y hasta zoológico. Durante el siglo XVI, se convirtió en un **lugar temido**, ya que fue el escenario de numerosas ejecuciones de figuras prominentes, como **Ana Bolena**, la segunda esposa de **Enrique VIII**, acusada de traición.
+
+Esta imagen de prisión infame se mantuvo **durante siglos**, y hasta mediados del siglo XX, **prisioneros de guerra** fueron detenidos en sus mazmorras.
+
+Además de su función militar y su papel en la historia política del **Reino Unido**, la Torre de Londres alberga las **Joyas de la Corona**, que incluyen algunas de las piezas más valiosas y significativas de la monarquía británica, como la **Corona Imperial y el Cetro Real**.
+
+Hoy en día, es uno de los **destinos turísticos** más populares de Londres, atrayendo a millones de visitantes cada año, fascinados por su rica historia y **misteriosas leyendas**.
+
+Cortes de luz en Cuenca este martes 8 de octubre
+================================================
+
+En Cuenca, los cortes de luz mantienen la misma reducción que el resto del país para el martes 8 de octubre.
+------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Cuenca mantienen la reducción horaria que ordenó el Gobierno para este martes 8 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/04/vela-scaled.jpg)
+
+Los **cortes de luz** en **Cuenca** y otras ciudades del Austro para este **martes 8 de octubre** de 2024 fueron establecidos por **Centrosur**.
+
+Con el anuncio de reducción de horas, el **Gobierno** estableció un rango de franjas horarias para los cortes de luz.
+
+### Más noticias:
+
+* [Embalse de Mazar se acerca a la cota mínima, ¿aumentarán las horas de cortes de luz?](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-se-acerca-a-la-cota-minima-aumentaran-las-horas-de-cortes-de-luz.html "Embalse de Mazar se acerca a la cota mínima, ¿aumentarán las horas de cortes de luz?")
+* [Industrias de dos ciudades paralizadas por cortes de luz](https://www.elcomercio.com/actualidad/negocios/industrias-de-dos-ciudades-paralizadas-por-cortes-de-luz.html "Industrias de dos ciudades paralizadas por cortes de luz")
+
+Así, de lunes a jueves, cuatro horas seguidas entre las 00:00 y las 08:00; y dos horas seguidas entre las 18:00 a 22:00.
+
+De viernes a domingo, cuatro horas seguidas entre las 00:00 y 10:00; y dos horas seguidas entre las 16:00 y 19:00.
+
+Ecuador sigue consumiendo la poca agua de embalse de **Mazar**, ubicado entre Cañar y Azuay, y se acerca a su cota mínima.
+
+Esto, pese a que el Gobierno de **Daniel Noboa** decidió programar 10 horas de cortes de luz para el sector industrial, con el objetivo de cuidar este reservorio.
+
+Los horarios de suspensión del servicio de energía eléctrica en Cuenca el martes 8 de octubre
+---------------------------------------------------------------------------------------------
+
+  
+Con base en estos lineamientos, Centrosur emitió los horarios para Cuenca y otras ciudades del Austro, este martes 8 de octubre.
+
+Está previsto que la **reducción** de horas se mantenga hasta el domingo 20 de octubre.
+
+La variación dependerá de las condiciones hídricas y energéticas del país.
+
+A continuación, los horarios y los sectores de cortes de luz en Cuenca y otras ciudades del Austro este martes 8 de octubre:
+
+Semana de la Educación Financiera empezó en escuelas y colegios
+===============================================================
+
+Educación Financiera se practica en las aulas en el régimen Sierra-Amazonía.
+----------------------------------------------------------------------------
+
+![Actividades lúdicas se desarrollan en planteles educativos públicos.](https://www.elcomercio.com/wp-content/uploads/2024/10/educacion-financiera.jpg)
+
+Este año lectivo 2024-2025, en la **Sierra-Amazonía** de Ecuador, comenzó con nuevas materias, entre estas, **Educación Financiera**, para escuelas y colegios[.](https://es.wikipedia.org/wiki/Ecuador)
+
+Con las nuevas temáticas, que incluyen **Cívica**, educación Emocional, Vial y Desarrollo Sostenible, también llegaron otras dinámicas.
+
+### Más noticias
+
+* [¿Cómo se organizarán las nuevas materias en el regreso a clases en la Sierra-Amazonía?](https://www.elcomercio.com/actualidad/ecuador/nuevas-materias-regreso-clases-sierra-amazonia.html "¿Cómo se organizarán las nuevas materias en el regreso a clases en la Sierra-Amazonía?")
+* [Regreso a clases incluye programas de seguridad en escuelas con riesgos](https://www.elcomercio.com/actualidad/ecuador/regreso-a-clases-programas-seguridad-escuelas-riesgos.html "Regreso a clases incluye programas de seguridad en escuelas con riesgos")
+* [Ministerio de Educación detalló los horarios de clases hasta el jueves 10 de octubre](https://www.elcomercio.com/actualidad/ecuador/ministerio-educacion-horarios-clases-semana-octubre.html "Ministerio de Educación detalló los horarios de clases hasta el jueves 10 de octubre")
+
+Educación Financiera en instituciones educativas
+------------------------------------------------
+
+Supermercado ‘Los Vecis’ es como denominaron un grupo de estudiantes a un espacio para conocer sobre el manejo de las **finanzas**. Esta tarea se hizo en la escuela General Calicuchima, en Alangasí.
+
+Aprendamos sobre economía de una manera divertida. Este es el lema de la **Semana de la Educación Financiera**, del 7 al 10 de octubre, que se hará en **escuelas y colegios** del país.
+
+La iniciativa es parte de las nuevas temáticas que incluyó el **[Ministerio de Educación](https://educacion.gob.ec/)** en el régimen Sierra-Amazonía, en este nuevo año lectivo. En el régimen **Costa-Galápagos** empezarán el próximo año lectivo.
+
+Las experiencias
+----------------
+
+Esta semana, en las aulas se recrean actividades **económicas** de manera lúdica con dinero didáctico, elaborando productos con origami, separadores de libros, tarjetas, juguetes con **papel reciclado**, etc.
+
+Colocar un precio a los productos que elaboraron para que el resto de compañeros los compren. Esta es una de las dinámicas, seguida de la reflexión sobre esta experiencia y cómo se puede aplicar en la **vida cotidiana**.
+
+**Raquel Simba**, directora de la Institución Educativa General Calicuchima, en Alangasí, compartió que las inserciones curriculares son importantes porque permiten crear conciencia en la importancia del ahorro, la responsabilidad ambiental y con el respeto.
+
+Tiendas, micromercados, peluquerías, bazares y más son parte de las actividades recreadas en el plantel, al que asisten **120 estudiantes**.
+
+Cívica en las aulas
+-------------------
+
+No solo la Educación Financiera tiene su semana en las aulas del régimen. Lo propio pasó con Cívica, Ética e Integridad. Como detallaron desde la Subsecretaría de Educación del **Distrito Metropolitano de Quito**, esta fue en el inicio del año lectivo, del 9 al 13 de septiembre.
+
+La siguiente jornada fue para la **Educación Socioemocional**, del 16 al 20 de septiembre. En los 10 primeros minutos de clase, los estudiantes compartieron su estado de ánimo y colocaron los sentimientos en el denominado **Emocionómetro**.
+
+La semana del 23 al 27 de septiembre, en cambio, estuvo dedicada a la **Educación para el Desarrollo Sostenible**. La meta fue identificar una planta nativa del entorno de la escuela y plantar una especie en un recipiente reutilizado.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Educacion-vial-1024x683.jpg)
+
+La seguridad vial es parte de las nuevas temáticas que se tratan en los planteles. Foto: Subsecretaría de Educación del DMQ
+
+La **seguridad vial y movilidad** sostenible no se quedaron fuera, del 30 de septiembre al 4 de octubre. En las aulas, los estudiantes diseñaron la señalética y mensajes que permitan un ambiente ordenado y seguro en el ámbito escolar.
+
+Fuerzas Armadas hallan objetos del crimen organizado
+====================================================
+
+Crimen organizado sigue dejando huellas en labores de Fuerzas Armadas.
+----------------------------------------------------------------------
+
+![Militares realizan labores en tres provincias de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/militares-crimen-organizado.jpg)
+
+Efectivos de las **Fuerzas Armadas** desarrollan labores en distintas provincias de Ecuador. En tres localizaron puntos de operación del **crimen organizado**.
+
+La institución detalló los resultados este lunes, 7 de octubre de 2024. Entre estos se incluyen rastros relacionados con **minería ilegal**.
+
+### Más noticias
+
+* [Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea](https://www.elcomercio.com/actualidad/politica/ministros-no-informaron-avances-bloque-seguridad-asamblea.html "Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea")
+* [Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/ataque-manta-genera-ajustes-estrategias-bloque-seguridad.html "Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad")
+* [Militares ingresaron a Coca Codo Sinclair para reforzar su seguridad y operaciones](https://www.elcomercio.com/actualidad/seguridad/militares-coca-codo-seguridad-operaciones.html "Militares ingresaron a Coca Codo Sinclair para reforzar su seguridad y operaciones")
+
+Fuerzas Armadas y crimen organizado
+-----------------------------------
+
+Las tareas de combate al **crimen organizado** se mantienen con la intervención de las **Fuerzas Armadas**. En esa línea, los uniformados actuaron en Sucumbíos.
+
+Fuerzas del orden localizaron una piscina artesanal, **100 galones de gasolina**, un acople y decomisaron 1 000 metros de manguera.
+
+> ¡Presunto miembro del grupo armado organizado "Los Águilas" aprehendido en Los Ríos!💪  
+>   
+> ➡️En el cantón [#PuebloViejo](https://twitter.com/hashtag/PuebloViejo?src=hash&ref_src=twsrc%5Etfw), el personal del [@EjercitoECU](https://twitter.com/EjercitoECU?ref_src=twsrc%5Etfw) aprehendió a un sujeto presuntamente miembro del grupo armado organizado "Los Águilas", quien tenía en su poder una subametralladora,… [pic.twitter.com/wesHwzvdCN](https://t.co/wesHwzvdCN)
+> 
+> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [October 7, 2024](https://twitter.com/DefensaEc/status/1843342717465805027?ref_src=twsrc%5Etfw)
+
+En **Carchi**, en cambio, las labores dieron como resultado el decomiso de 370 sacos de material aurífero. Este era utilizado para **minería ilegal**.
+
+Por otro lado, en **Azuay**, en el cantón **Camilo Ponce Enríquez**, los militares destruyeron tres bocaminas. Esto ocurrió en el sector de **Pacífico Sur**.
+
+En Los Ríos
+-----------
+
+Este 7 de octubre, además, el **Ministerio de Defensa** informó que se detuvo a un presunto integrante del grupo armado organizado **Los Águilas**.
+
+El hombre estaba en Los Ríos, en el cantón **Pueblo Viejo**. Él tenía en su poder una subametralladora, municiones y sobres con sustancias sujetas a fiscalización.
+
+La persona aprehendida y el material decomisado pasaron a manos de las autoridades competentes para los **trámites de ley**.
+
+Acciones policiales
+-------------------
+
+En el **Distrito 9 de Octubre**, una revisión policial dejó dos personas aprehendidas. Los uniformados se encontraban patrullando y las ubicaron en actitud nerviosa. Luego de esto, ingresaron corriendo a un **domicilio**.
+
+Los **gendarmes** registraron la vivienda y hallaron un arma de fuego tipo repetidora. Sin embargo, no fue lo único, se sumó una cartuchera, un revólver y seis cartuchos.
+
+En el sitio aprehendieron a **Wilmer M. S. y Saskia A. C.** Ellos fueron puestos a órdenes de la Fiscalía y, en principio, serían procesados por el delito de porte y tenencia ilegal de **armas de fuego**.
+
+WhatsApp planea modificar la función de “escribiendo” en los chats 
+===================================================================
+
+WhatsApp reemplaza el famoso ‘escribiendo’ con una innovadora función, lo que promete transformar la experiencia de mensajería.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![La nueva actualización de WhatsApp mejora la visibilidad de "escribiendo". Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-funcion-escribiendo.jpg)
+
+**[WhatsApp](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a "https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a")**, la **aplicación de mensajería** más popular del mundo, ha anunciado un cambio significativo en su interfaz.  
+
+### Más noticias
+
+* [Protege tu cuenta de WhatsApp del peligroso ‘spoofing’](https://www.elcomercio.com/tecnologia/whatsapp-spoofing-hackers-ataque-cibernetico.html "https://www.elcomercio.com/tecnologia/whatsapp-spoofing-hackers-ataque-cibernetico.html") 
+* [Tutorial para bloquear mensajes ‘spam’ en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-spam-mensajes-tutorial.html "https://www.elcomercio.com/tecnologia/whatsapp-spam-mensajes-tutorial.html")
+
+Desde su lanzamiento, el **indicador “escribiendo”** ha sido una característica icónica que permite a los usuarios **saber cuándo alguien está por responder**. Sin embargo, tal parece que WhatsApp ha decidido reemplazar esta función con un **nuevo método** que promete **mejorar la experiencia del usuario**. 
+
+**¿Qué reemplaza al “escribiendo” en WhatsApp?** 
+-------------------------------------------------
+
+Según [Artículo 14](https://www.articulo14.es/sociedad/whatsapp-sustituye-el-famoso-escribiendo-por-un-nuevo-metodo-20241007.html#:~:text=WhatsApp%20mejora%20la%20visibilidad%20del,Algo%20que%20antes%20no%20suced%C3%ADa. "https://www.articulo14.es/sociedad/whatsapp-sustituye-el-famoso-escribiendo-por-un-nuevo-metodo-20241007.html#:~:text=WhatsApp%20mejora%20la%20visibilidad%20del,Algo%20que%20antes%20no%20suced%C3%ADa."), la **nueva actualización de WhatsApp** introducirá un **interfaz más dinámico**. **WhatsApp** ha realizado un cambio en su **versión beta**, al trasladar **la notificación de “escribiendo” a un lugar más visible**, justo debajo del último mensaje enviado.  
+
+Esto **mejora la experiencia de los usuarios**, especialmente en **smartphones de pantallas grandes**, ya que facilita ver cuándo alguien teclea **sin desviar la atención hacia la parte superior de la pantalla**, lo que mantiene el **flujo natural de la conversación**. 
+
+**¿Y qué pasará con los grupos de WhatsApp?** 
+----------------------------------------------
+
+Siguiendo con la misma fuente, en los **grupos de WhatsApp**, donde **las interacciones suelen involucrar a varios usuarios a la vez**, el rediseño del **estado “escribiendo” de WhatsApp** adquiere mayor relevancia.  
+
+Ahora, **cuando varios usuarios tecleen simultáneamente, se mostrarán los iconos de sus perfiles**, lo que permite ver quién está escribiendo en tiempo real. Antes, solo se mostraba el nombre de un usuario, pero esta actualización **facilita una interacción más fluida y evita malentendidos**. 
+
+Además, este cambio no se limita solo al **estado “escribiendo”**. Cuando un usuario **grabe una nota de voz**, también **aparecerá un icono de micrófono junto a su perfil**, lo que añadirá **un toque visual personalizado a la conversación**. Estas mejoras buscan enriquecer la experiencia tanto en chats grupales como individuales. 
+
+**Comparación con otras aplicaciones** 
+---------------------------------------
+
+WhatsApp no es la única aplicación que busca innovar en la forma en que se comunican los usuarios. Aplicaciones como **Telegram y Signal ya han implementado características similares** que buscan mejorar la experiencia del usuario sin comprometer la privacidad.  
+
+El futuro de WhatsApp parece prometedor con esta nueva actualización. **La aplicación continúa como el mercado** de mensajería instantánea, y con innovaciones como esta, busca mantener su posición dominante. Sin embargo, será fundamental que WhatsApp escuche a sus usuarios y ajuste sus características según las necesidades y preocupaciones de su base de usuarios. 
+
+Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro
+===========================================================================
+
+El defensa Piero Hincapié lamentó la muerte del futbolista ecuatoriano Roberto Cabezas. Compartieron equipos.
+-------------------------------------------------------------------------------------------------------------
+
+![El defensa Piero Hincapié lamentó la muerte del futbolista Roberto Cabezas.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-8.jpg)
+
+El futbolista **Piero Hincapié** expresó su profundo pesar por la muerte de **Roberto Cabezas**, jugador de **Independiente Juniors**, quien falleció en un **siniestro de tránsito** en la madrugada del 7 de octubre de 2024.
+
+**Hincapié**, en sus historias de Instagram, compartió una emotiva reflexión: “Vuelta alto hermano mío, les mando mucha fuerza a los familiares”, acompañada de una fotografía en blanco y negro en la que aparece junto a Cabezas y otros compañeros futbolistas.
+
+### Más noticias:
+
+* [Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/equipos-de-ecuador-lamentan-el-fallecimiento-de-roberto-cabezas.html "Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas")
+* [Roberto Cabezas, jugador de Independiente Juniors, falleció en siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/roberto-cabezas-jugador-de-independiente-juniors-fallecio-en-siniestro-de-transito.html "Roberto Cabezas, jugador de Independiente Juniors, falleció en siniestro de tránsito")
+* [¿Quién es Marco Angulo, jugador de Liga de Quito afectado en el siniestro de tránsito?](https://www.elcomercio.com/deportes/futbol/marco-angulo-siniestro-transito-jugador-liga-quito.html "¿Quién es Marco Angulo, jugador de Liga de Quito afectado en el siniestro de tránsito?")}
+
+Roberto Cabezas
+---------------
+
+Según las primeras informaciones, **Roberto Cabezas**, de 22 años, fue el conductor del vehículo involucrado en el accidente ocurrido en la Autopista General Rumiñahui.
+
+El trágico incidente también dejó gravemente herido a **Marco Angulo**, jugador de Liga de Quito, quien fue trasladado de urgencia al Hospital Eugenio Espejo.
+
+El accidente, que involucró a cinco personas, resultó en la muerte de Cabezas y otro pasajero, Víctor Charcopa.
+
+El fútbol está de luto
 ----------------------
 
-* **Jimmy Jairala y Lucía Vallecilla**, Movimiento Centro Democrático (CD), lista 1.
-* **Jorge Escala y Pacha Terán**, Partido Unidad Popular (UP), lista 2.
-* **Andrea González y Galo Moncayo**, Partido Sociedad Patriótica (PSE), lista 3.
-* **Víctor Araus y Cristina Carrera**, Movimiento Pueblo, Igualdad y Democracia (PID), lista 4.
-* **Luisa González y Diego Borja**, Movimiento de la Revolución Ciudadana (RC), lista 5.
-* **Henry Kronfle Kozhaya y Dallyana Passailaigue**, Partido Social Cristiano (PSC), lista 6.
-* **Daniel Noboa y María José Pinto**, Movimiento Acción Democrática Nacional (ADN), lista 7.
-* **Luis Felipe Tillería y Karla Rosero**, Partido Avanza, lista 8.
-* **Carlos Rabascall y Alejandra Rivas**, Partido Izquierda Democrática, lista 12.
-* **Juan Iván Cueva con Cristina Reyes**, Movimiento Amigo, lista 16.
-* **Pedro Granja y Verónica Silva**, Partido Socialista Ecuatoriano (PSE), lista 17.
-* **Leonidas Iza Salazar y Katiuska Molina**, Movimiento Pachakutik, lista 18.
-* **Iván Saquicela y María Luisa Coello**, Movimiento Democracia Sí, lista 20.
-* **Francesco Tabacchi y Blanca Saquicela**, Movimiento Creando Oportunidades (CREO), lista 21.
-* **Jan Topic y Mishelle Calvache**, Partido Sociedad Unida Más Acción (SUMA), lista 23.
-* **Henry Cucalón y Carla Larrea**, Movimiento Construye, lista 25.
+La noticia del fallecimiento de Cabezas generó una ola de condolencias en el mundo del fútbol ecuatoriano.
 
-Las duplas calificadas
-----------------------
+**Independiente Juniors** emitió un comunicado lamentando su pérdida y enviando sus más sinceras condolencias a la familia del jugador. “Lamentamos profundamente el fallecimiento de nuestro jugador Roberto Carlos Cabezas Simisterra, en un siniestro de tránsito ocurrido en horas de la mañana”, señaló la directiva del club.
 
-El **CNE** detalló los 10 binomios que, hasta este 7 de octubre de 2024, ya cuentan con la calificación del pleno del CNE.
+Liga de Quito también se unió al duelo, expresando su solidaridad: “Extendemos las más sentidas condolencias para toda su familia. Nos solidarizamos con nuestros amigos de Independiente Juniors en este difícil momento”.
 
-* Movimiento CREO
-* Movimiento ADN
-* Partido Unidad Popular
-* Partido Sociedad Patriótica
-* Partido Socialista Ecuatoriano
-* Alianza Revolución Ciudadana – Reto
-* Movimiento Construye
-* Movimiento PID
-* Movimiento Amigo
-* Movimiento Democracia SÍ
+La Federación Ecuatoriana de Fútbol (FEF) también se pronunció, enviando su apoyo a la familia y seres queridos de Cabezas.
+
+Roberto Cabezas fue parte del equipo **Sub-20** que ganó la Copa Libertadores de su categoría, destacándose como un prometedor lateral izquierdo.
+
+Su trágica partida deja un vacío en el fútbol ecuatoriano.
