@@ -95,7 +95,7 @@
         
         ##### Existing Business Customers
         
-        Manage your account, pay an invoice, review frequently asked questions, or contact customer service.
+        Manage your account, pay an invoice, review frequently asked questions, or contact business support.
         
         [Go to Support](https://www.equifax.com/business/support/)
         
@@ -391,7 +391,7 @@
         
         [Responsible Business Priorities](https://www.equifax.com/about-equifax/environmental-social-governance/)
         
-        See Our Responsible Business Priorities
+        See our Responsible Business Priorities
         
     * [Why Equifax](#)
         
