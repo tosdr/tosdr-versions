@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/ik-ben-gek-maar-dat-zijn-we-toch-allemaal/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/president-obama-legt-procedures-guantanamo-stil/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
