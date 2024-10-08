@@ -197,63 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Kobus Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=114812396)  
-Norton Medical & Consult - Namibia
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=162483612)  
+Oak Tree Immigration
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=17606243)  
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=212742994)  
+Beyond Laser CNC Cutting Technology South Africa CC
+
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=13139731)  
+SLOANE STAR MEAT MARKET
+
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=15310154)  
+Durbanville Classifieds (Pty) Ltd
+
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=96713556)  
+Hydroworld T/A Milliqua
+
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=121712259)  
+Fox Alarms & Security
+
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=116556920)  
 Redlum Group (Pty) Ltd
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=66620622)  
-Alliance Energy
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=173763795)  
+Henry's Home Renovations
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=189247286)  
-Meyer Towing & Recovery
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=55254770)  
+MOSELA GROUP Pty(ltd)
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=134655415)  
-NJR ICT Services (Pty) Ltd
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=27265806)  
+Norton Medical & Consult - Namibia
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=7182186)  
-Cpower Projects t/a Pro Pure Water
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=59737717)  
+Kainos (Pty) Ltd
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=105428973)  
-Little Nutty Professors
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=93909419)  
+Network Grey (Pty) Ltd
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=81802482)  
-NEW BEGINNINGS DESIGNS
+![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=211806982)  
+PHESA TECHNOLOGY(PTY) LTD
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=48174387)  
-SafeTclip
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=18247686)  
+McKaynine Mobility
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=22556292)  
-Cooper Power South Africa (Pty) LTD
-
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=126924001)  
-Enhle Oarabile Kea
-
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=197328497)  
-Blue Sky Solar Services
-
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=94078323)  
-Printo
-
-![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=21600559)  
-NILBET (PTY) LTD - Once Off's
-
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=c5f108398fad45f2cbf16b0a61ab2cabc39dad759c91d35b360256a1668bca5b&c=73515344)  
-One2b
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=101076711)  
+van Schaik rentals
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
