@@ -48,6 +48,9 @@ Close menu
     * [![Integrations](/globalassets/media/redesign2024/icons/outlined_icon_nav_integrations2.png)
         
         Integrations](https://siteimprove.com/integrations/)
+    * [![MarketMuse](/globalassets/media/redesign2024/icons/icon_nav_marketmuse-1.png)
+        
+        MarketMuse](https://siteimprove.com/marketmuse/)
     
 * Solutions Solutions
     
