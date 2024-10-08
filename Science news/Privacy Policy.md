@@ -89,21 +89,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Blood pressure may read falsely high if the arm isn’t positioned properly](https://www.sciencenews.org/article/blood-pressure-reading-arm-position)
+            ### [New electrical stitches use muscle movement to speed up healing](https://www.sciencenews.org/article/electrical-stitches-muscle-healing)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")18 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")34 mins ago
             
-        * [Genetics](https://www.sciencenews.org/topic/genetics)
+        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
-            ### [The discovery of microRNA wins the 2024 physiology Nobel Prize](https://www.sciencenews.org/article/microrna-2023-nobel-physiology-medicine)
+            ### [Ancient Scythians had cultural roots in Siberia](https://www.sciencenews.org/article/scythians-cultural-roots-siberia)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")23 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")2 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [An mRNA vaccine protected mice against deadly intestinal _C. difficile_ bacteria](https://www.sciencenews.org/article/mrna-vaccine-c-diff-bacteria-mice)
+            ### [Blood pressure may read falsely high if the arm isn’t positioned properly](https://www.sciencenews.org/article/blood-pressure-reading-arm-position)
             
-            By [Jonathan Lambert](https://www.sciencenews.org/author/jonathan-lambert "Posts by Jonathan Lambert")October 3, 2024
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")October 7, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,19 +118,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Semaglutide saps mice’s motivation to run](https://www.sciencenews.org/article/semaglutide-saps-mices-motivation-run)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")14 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")20 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [These sea creatures can fuse their bodies](https://www.sciencenews.org/article/sea-walnut-comb-jelly-fuse-bodies)
             
-            By [Jude Coleman](https://www.sciencenews.org/author/jude-coleman "Posts by Jude Coleman")18 hours ago
+            By [Jude Coleman](https://www.sciencenews.org/author/jude-coleman "Posts by Jude Coleman")October 7, 2024
             
         * [Genetics](https://www.sciencenews.org/topic/genetics)
             
             ### [The discovery of microRNA wins the 2024 physiology Nobel Prize](https://www.sciencenews.org/article/microrna-2023-nobel-physiology-medicine)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")23 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")October 7, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -161,23 +161,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Physics](https://www.sciencenews.org/topic/physics)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [New electrical stitches use muscle movement to speed up healing](https://www.sciencenews.org/article/electrical-stitches-muscle-healing)
+            
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")34 mins ago
+            
+        * [Artificial Intelligence](https://www.sciencenews.org/topic/artificial-intelligence)
+            
+            ### [The discovery of tools key to machine learning wins the 2024 physics Nobel](https://www.sciencenews.org/article/nobel-physics-2024-machine-learning)
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")5 hours ago
+            
+        * [Physics](https://www.sciencenews.org/topic/physics)
             
             ### [Thunderstorms churn up a ‘boiling pot’ of gamma rays](https://www.sciencenews.org/article/thunderstorms-radiation-gamma-rays) 
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 2, 2024
-            
-        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-            
-            ### [Physicists just discovered the rarest particle decay ever](https://www.sciencenews.org/article/rarest-particle-decay-kaons)
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")September 24, 2024
-            
-        * [Physics](https://www.sciencenews.org/topic/physics)
-            
-            ### [X-rays from nuclear blasts could defend Earth from asteroids](https://www.sciencenews.org/article/nuclear-x-rays-deflect-earth-asteroids)
-            
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")September 23, 2024
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
