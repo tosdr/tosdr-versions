@@ -143,7 +143,7 @@ We can make the content of social media interactions publicly available if we ha
 
 We will not use any personal information that we collect from you through social media accounts to make decisions in processes that you are directly involved in, for example, an employment insurance application, a grant application or a citizenship application.
 
-The following personal information banks describe how we handle personal information that we collect through our social media accounts: [Public Communications (PSU 914)](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-personal-information-banks.html#psu914) and [Outreach Activities (PSU 938)](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-personal-information-banks.html#psu938).
+The following personal information banks describe how we handle personal information that we collect through our social media accounts: [Public Communications (PSU 914)](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu914) and [Outreach Activities (PSU 938)](https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/info-source/standard-personal-information-banks.html#psu938).
 
 ### Your rights
 
@@ -174,4 +174,4 @@ Page details
 
 Date modified:
 
-2022-07-28
+2024-10-08
