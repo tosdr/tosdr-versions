@@ -137,69 +137,63 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![All Promete](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1515012-1705665402.jpg)](https://lyricstranslate.com/en/translator/all-promete "All Promete")
+[![TrottyJPN](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1389343-1531459180.jpg)](https://lyricstranslate.com/en/translator/trottyjpn "TrottyJPN")
 
 New translation
 
-[Adão Ventura - Negro forro](https://lyricstranslate.com/en/adao-ventura-negro-forro-persian)
+[Bryan Adams - Merry Christmas](https://lyricstranslate.com/en/bryan-adams-merry-christmas-japanese)
 
-Portuguese → Persian
+English → Japanese
 
-[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
+[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1728278937.jpg)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
 
 New request
 
-[Fairport Convention - High School Confidential](https://lyricstranslate.com/en/request/high-school-confidential)
+[Qayrat Nurtas - Сені сүйем (Senī sūī̆em)](https://lyricstranslate.com/en/request/%D1%81%D0%B5%D0%BD%D1%96-%D1%81%D2%AF%D0%B9%D0%B5%D0%BC-1)
 
-English → French
+Kazakh → English
 
-[![Tera4](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1615562-1724699096.jpg)](https://lyricstranslate.com/en/translator/tera4 "Tera4")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-Transcription request fulfilled
+New comment
 
-[Dělám z TOIky](https://lyricstranslate.com/en/sniper-vinc-delam-z-toiky-lyrics)
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168958#comment-1168958)
 
-Czech
-
-[![Tera4](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1615562-1724699096.jpg)](https://lyricstranslate.com/en/translator/tera4 "Tera4")
-
-New song
-
-[Sniper Vinc - Dělám z TOIky](https://lyricstranslate.com/en/sniper-vinc-delam-z-toiky-lyrics)
-
-Czech
-
-[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
-
-New song
-
-[Tayoo - Wa Kriye](https://lyricstranslate.com/en/tayoo-wa-kriye-lyrics)
-
-French (Haitian Creole)
-
-[![IffyMr](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1510972-1726075144.jpg)](https://lyricstranslate.com/en/translator/iffymr "IffyMr")
-
-New song
-
-[Codrin - Două beri și-o bere](https://lyricstranslate.com/en/codrin-doua-beri-si-o-bere-lyrics)
-
-Romanian
-
-[![Mara88](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1589734-1692704142.png)](https://lyricstranslate.com/en/translator/mara88 "Mara88")
+[![Martinski](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1438650-1573899955.jpg)](https://lyricstranslate.com/en/translator/martinski "Martinski")
 
 New translation
 
-[Olivia O'Brien - Bitches These Days](https://lyricstranslate.com/en/olivia-obrien-bitches-these-days-italian)
+[Amirchik - Снова снова (Snova snova)](https://lyricstranslate.com/en/amirchik-snova-snova-dutch)
 
-English → Italian
+Russian → Dutch
 
-[![Lencito El platanito](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632333-1728321523.jpg)](https://lyricstranslate.com/en/translator/lencito-el-platanito "Lencito El platanito")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-New translation
+New comment
 
-[Ahn Ye Eun - 문어의 꿈 (Octopus Dream)](https://lyricstranslate.com/en/ahn-ye-eun-muneoyi-ggum-octopus-dre-spanish)
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168957#comment-1168957)
 
-Korean → Spanish
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168956#comment-1168956)
+
+[![crackedwalnut](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1397626-1728211862.jpg)](https://lyricstranslate.com/en/translator/crackedwalnut "crackedwalnut")
+
+New song
+
+[Donamaria - Sauvage](https://lyricstranslate.com/en/donamaria-sauvage-lyrics)
+
+French
+
+[![crackedwalnut](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1397626-1728211862.jpg)](https://lyricstranslate.com/en/translator/crackedwalnut "crackedwalnut")
+
+New request
+
+[Donamaria - Sauvage](https://lyricstranslate.com/en/request/sauvage-0)
+
+French → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
