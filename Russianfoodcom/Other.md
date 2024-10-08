@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Скумбрия, запечённая под шубкой из грибов и овощей](https://www.russianfood.com/recipes/recipe.php?rid=173324)
 * [Хлеб домашний](https://www.russianfood.com/recipes/recipe.php?rid=36375)
 * [Копчёная свинина способ 16](https://www.russianfood.com/recipes/recipe.php?rid=85361)
 * [Хлеб белый бездрожжевой, на закваске](https://www.russianfood.com/recipes/recipe.php?rid=123371)
 * [Бульон с потрохами](https://www.russianfood.com/recipes/recipe.php?rid=446)
-* [Клецки для бульона](https://www.russianfood.com/recipes/recipe.php?rid=938)
 * [Бульон с клецками из кур](https://www.russianfood.com/recipes/recipe.php?rid=939)
-* [Бульон с куриными фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=940)
-* [Куриный бульон с лапшой и зеленым горошком](https://www.russianfood.com/recipes/recipe.php?rid=945)
-* [Консоме с профитролями по-милански](https://www.russianfood.com/recipes/recipe.php?rid=950)
+* [Фрикадельки из свинины с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=1337)
+* [Плов с курицей-2](https://www.russianfood.com/recipes/recipe.php?rid=1548)
+* [Фарш из мяса](https://www.russianfood.com/recipes/recipe.php?rid=3888)
+* [Голубцы по-молдавски](https://www.russianfood.com/recipes/recipe.php?rid=3950)
+* [Тхачэтщипс (бульон с птицей)](https://www.russianfood.com/recipes/recipe.php?rid=4232)
 
 |     |
 | --- |
@@ -457,13 +457,6 @@
 |     |     |
 | [Подписаться письмом](mailto:home.cookery.prostierecepti-sub@subscribe.ru?subj=subscribe) |     |
 
-Новые рецепты:
-
-|     |
-| --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741127.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174409) |
-| [Шоколадный торт на кефире, с кремом из сгущёнки и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174409) |
-
 |     |     |     |
 | --- | --- | --- |
 | ![](//img1.russianfood.com/images/common/bottom_line1.jpg) | ![](//img1.russianfood.com/images/common/bottom_line2.jpg) |     |
@@ -479,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(119)
+(99)
