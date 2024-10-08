@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Riley Keough Says Her Mom, Lisa...](https://classiccountrymusic.com/riley-keough-says-her-mom-lisa-marie-presley-knew-something-was-wrong-before-elvis-died/)
 * [Miranda Lambert & Lukas Nelson Sing...](https://classiccountrymusic.com/miranda-lambert-lukas-nelson-sing-silver-wings-in-thoughtful-tribute-to-kris-kristofferson/)
 * [Brad Paisley Pays Tribute To Charley...](https://classiccountrymusic.com/brad-paisley-pays-tribute-to-charley-pride-with-emotional-amas-performance/)
-* [Trisha Yearwood Sells Stunning Nashville Estate...](https://classiccountrymusic.com/trisha-yearwood-sells-stunning-nashville-estate-one-day-before-garth-brooks-lawsuit/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
