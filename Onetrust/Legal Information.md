@@ -169,9 +169,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Navigating data sharing challenges](https://www.onetrust.com/resources/navigating-data-sharing-challenges-webinar/)
+* [Tackling IT security risks for banks in South Africa](https://www.onetrust.com/resources/tackling-it-security-risks-for-banks-in-south-africa-webinar/)
 * [Bill S-211: Will you be ready by May 31?](https://www.onetrust.com/resources/bill-s211-will-you-be-ready-by-may-31-webinar/)
-* [OneTrust third-party management demo video](https://www.onetrust.com/resources/onetrust-third-party-management-demo-video/)
-* [Compliance Automation product demonstration](https://www.onetrust.com/resources/compliance-automation-product-demonstration-webinar/)
 
 ### Platform
 
