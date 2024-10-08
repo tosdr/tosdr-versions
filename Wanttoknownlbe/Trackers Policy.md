@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/ex-directeur-pfizer-doet-boekje-open-wake-up/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-ontbrekende-kleur/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
