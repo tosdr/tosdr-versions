@@ -113,9 +113,9 @@
             
             Product Brief
             
-            ##### LevelBlue Client-Side Protection and Compliance
+            ##### LevelBlue API Security is the Intelligent Way to Protect Your APIs from Business Logic Abuse and Data Theft
             
-            [Learn more](https://cyber.levelblue.com/m/6bdb717aa93dbf93/original/PB-Client-Side-Protection-Compliance.pdf)
+            [Learn more](https://cyber.levelblue.com/m/a4ce2dcca22a5bd/original/PB-API-Security.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
@@ -175,9 +175,9 @@
             
             ebook
             
-            ##### ESG Analyst Report: Cybersecurity As A Service
+            ##### Secure Your Inbox, Accelerate Compliance: LevelBlue Email Security with Check Point
             
-            [Learn more](https://cybersecurity.att.com/resource-center/ebook/esg-ebook-cybersecurity-as-a-service)
+            [Learn more](https://cybersecurity.att.com/resource-center/ebook/secure-your-inbox-with-check-point)
             
             [View all eBooks](https://www.alienvault.com/resource-center#content_ebook)
             
