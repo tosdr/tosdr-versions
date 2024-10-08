@@ -321,7 +321,6 @@ Advertise
 
 ### [The Vitruvian Trainer+ is a lot like the Peloton – but for weights](https://www.afr.com/technology/the-vitruvian-trainer-is-a-lot-like-the-peloton-but-for-weights-20241003-p5kfjg)
 
-* 56 mins ago
 * John Davidson
 
 * ### [On cloud nine for a sky-high price: the $1m mattress](https://www.afr.com/life-and-luxury/health-and-wellness/on-cloud-nine-for-a-sky-high-price-the-1m-mattress-20240924-p5kd4d)
