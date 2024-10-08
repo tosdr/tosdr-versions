@@ -175,16 +175,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Browning Citori 825: a Modern Superposed?](https://www.thegunpage.com/browning-citori-825-a-modern-superposed/10611079)
+* [Former Alaska Gun Store Owner Acquitted On Federal Firearms Charge](https://www.thegunpage.com/former-alaska-gun-store-owner-acquitted-on-federal-firearms-charge/10611078)
+* [Century Arms And Sharps Bros. Unveil MB47](https://www.thegunpage.com/century-arms-and-sharps-bros-unveil-mb47/10611080)
+* [Massachusetts Gun Restrictions Facing Another Challenge](https://www.thegunpage.com/massachusetts-gun-restrictions-facing-another-challenge/10611070)
+* [Aero Precision Announces The Tephra-22 Suppressor](https://www.thegunpage.com/aero-precision-announces-the-tephra-22-suppressor/10611067)
+* [The WSJ Reveals Mexican Cartels’ Favorite Firepower](https://www.thegunpage.com/the-wsj-reveals-mexican-cartels-favorite-firepower/10611065)
+* [Copa Aguila 2024 Attracts More Than 350 Competitors](https://www.thegunpage.com/copa-aguila-2024-attracts-more-than-350-competitors/10611077)
+* [New MDT CRBN Rifle Stock](https://www.thegunpage.com/new-mdt-crbn-rifle-stock/10611068)
 * [House Oversight Committee Subpoenas White House and ATF Over Alleged Gun Control Collusion](https://www.thegunpage.com/house-oversight-committee-subpoenas-white-house-and-atf-over-alleged-gun-control-collusion/10611063)
-* [Ultralight Loads For Revolvers](https://www.thegunpage.com/ultralight-loads-for-revolvers/10611062)
-* [TFB Review: March Scopes FX 1.5-15×42 Dual Focal Plane Scope](https://www.thegunpage.com/tfb-review-march-scopes-fx-1-5-15x42-dual-focal-plane-scope/10611060)
-* [The Rimfire Report: Mossad’s Deadly Legacy with Beretta Model 71](https://www.thegunpage.com/the-rimfire-report-mossads-deadly-legacy-with-beretta-model-71/10611061)
-* [TFBTV vs. CLASSIC FIREARMS: Our Cameramen FIGHT!](https://www.thegunpage.com/tfbtv-vs-classic-firearms-our-cameramen-fight/10611057)
-* [More On Ghost Guns: Arguments Start Tomorrow in Supreme Court Case](https://www.thegunpage.com/more-on-ghost-guns-arguments-start-tomorrow-in-supreme-court-case/10611054)
-* [New: Magpul DAKA Soft Cases](https://www.thegunpage.com/new-magpul-daka-soft-cases/10611058)
-* [Taurus Releases The Compact 22TUC](https://www.thegunpage.com/taurus-releases-the-compact-22tuc/10611055)
-* [MEAN Arms ExoMag 9mm Conversion Mag](https://www.thegunpage.com/mean-arms-exomag-9mm-conversion-mag/10611052)
-* [MDT Releases Updated JAE-G5 Chassis System](https://www.thegunpage.com/mdt-releases-updated-jae-g5-chassis-system/10611056)
+* [Team Blaser Shooters Claim Top Titles At 2024 World Skeet Championships](https://www.thegunpage.com/team-blaser-shooters-claim-top-titles-at-2024-world-skeet-championships/10611069)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
