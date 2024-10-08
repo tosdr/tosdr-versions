@@ -1,7 +1,7 @@
 [PreMiD
 ======](https://premid.app/)
 
-[Store](https://premid.app/store)[Downloads](https://premid.app/downloads)[Contributors](https://premid.app/contributors)
+[Store](https://premid.app/store)[Contributors](https://premid.app/contributors)[Get PreMiD](https://premid.app/downloads)
 
 Cookie Policy
 =============
@@ -50,7 +50,7 @@ However if you are still looking for more information then you can contact us th
 
 Ready to use PreMiD?
 
-[Install](https://premid.app/downloads)
+[Get PreMiD](https://premid.app/downloads)
 
 Partners
 
