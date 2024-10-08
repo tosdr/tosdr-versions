@@ -77,6 +77,7 @@ Verlagsangebote
 
 Anzeigen
 
+* [Eine Reise nach Costa Rica](https://www.zeit.de/angebote/reisen-nach-costa-rica/index)
 * [Ausbildung und duales Studium mit Sinn](https://www.zeit.de/campus/angebote/lvr-ausbildung-und-duales-studium-mit-sinn/index)
 * [Podcast: Future Fusion](https://www.zeit.de/angebote/zeit-magazin/fh-erfurt/podcast-futurefusion-innovation-tradition)
 * [Reisepodcast: Überm Berg](https://www.zeit.de/angebote/zeit-magazin/ueberm-berg-reisepodcast/kulturszene/index)
