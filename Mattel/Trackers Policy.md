@@ -363,7 +363,7 @@ Legal
 * [Terms of Sale](https://corporate.mattel.com/en-us/mattel-shopping-terms)
 * [Accessibility Statement](https://shop.mattel.com/pages/accessibility-statement)
 
-©2024 Mattel
+©2024 Mattel.
 
 Close
 
