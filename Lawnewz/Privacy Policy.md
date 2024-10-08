@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Justin Mohn, Michael Mohn](https://lawandcrime.com/wp-content/uploads/2024/10/Justin-Mohn-432x243.jpg)](https://lawandcrime.com/crime/son-who-murdered-u-s-army-corps-of-engineers-dad-showed-off-head-on-youtube-and-rambled-about-trying-to-perform-a-citizens-arrest-may-face-death-penalty-da/)
+1. [![Daniel Keith Flaherty and Kayla Flaherty (Gibson County Sheriff's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Daniel-Keith-Flaherty-and-Kayla-Flaherty-432x243.png)](https://lawandcrime.com/crime/rigged-the-vehicle-husband-who-just-beat-wife-to-death-with-hammer-after-she-filed-for-divorce-tried-to-make-it-seem-like-she-had-been-going-to-her-mothers-home-deputies-say/)
     
-    ### [Son who murdered U.S. Army Corps of Engineers dad, showed off head on YouTube, and rambled about 'trying to perform a citizen's arrest' may face death penalty: DA](https://lawandcrime.com/crime/son-who-murdered-u-s-army-corps-of-engineers-dad-showed-off-head-on-youtube-and-rambled-about-trying-to-perform-a-citizens-arrest-may-face-death-penalty-da/)
+    ### ['Rigged the vehicle': Husband who just beat wife to death with hammer after she filed for divorce tried to make it seem like she had been going to her mother's home, deputies say](https://lawandcrime.com/crime/rigged-the-vehicle-husband-who-just-beat-wife-to-death-with-hammer-after-she-filed-for-divorce-tried-to-make-it-seem-like-she-had-been-going-to-her-mothers-home-deputies-say/)
     
-2. [![Romeoville quadruple murder](https://lawandcrime.com/wp-content/uploads/2024/10/Romeoville-quadruple-murder-with-family-photo-432x243.jpg)](https://lawandcrime.com/crime/hit-the-two-adults-first-woman-learned-her-fiance-was-having-an-affair-so-she-manipulated-him-into-murdering-lover-her-family-cops-say/)
+2. [![Rebekah Edwards](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Rebekah-Edwards-432x243.jpg)](https://lawandcrime.com/crime/you-dont-think-ill-do-it-woman-allegedly-tries-to-kill-boyfriend-for-refusing-to-give-her-anti-anxiety-meds/)
     
-    ### ['Hit the two adults first': Woman learned her fiancé was having an affair so she manipulated him into murdering lover, her family, cops say](https://lawandcrime.com/crime/hit-the-two-adults-first-woman-learned-her-fiance-was-having-an-affair-so-she-manipulated-him-into-murdering-lover-her-family-cops-say/)
+    ### ['You don’t think I’ll do it?:' Woman allegedly tries to kill boyfriend for refusing to give her anti-anxiety meds](https://lawandcrime.com/crime/you-dont-think-ill-do-it-woman-allegedly-tries-to-kill-boyfriend-for-refusing-to-give-her-anti-anxiety-meds/)
     
-3. [![Jennifer Massey mug shot](https://lawandcrime.com/wp-content/uploads/2024/10/Jennifer-Massey-432x243.jpg)](https://lawandcrime.com/crime/art-teacher-caught-engaged-in-sexual-contact-with-minor-student-at-under-construction-home-just-minutes-away-from-high-school-sheriff/)
+3. [![Matthew Dedmon, Joe Newburn](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Matthew-Dedmon-Joe-Newburn-432x243.jpg)](https://lawandcrime.com/crime/pastor-charged-with-first-degree-murder-of-man-tracked-down-at-restaurant-and-shot-over-affair-with-wife-just-got-a-chance-to-get-out-of-jail-on-30000-bond/)
     
-    ### [Art teacher caught 'engaged in sexual contact' with minor student at 'under construction home' just minutes away from high school during 'Crime Prevention Month': Sheriff](https://lawandcrime.com/crime/art-teacher-caught-engaged-in-sexual-contact-with-minor-student-at-under-construction-home-just-minutes-away-from-high-school-sheriff/)
+    ### [Pastor charged with first-degree murder of man tracked down at restaurant and shot over affair with wife just got a chance to get out of jail on $30,000 bond](https://lawandcrime.com/crime/pastor-charged-with-first-degree-murder-of-man-tracked-down-at-restaurant-and-shot-over-affair-with-wife-just-got-a-chance-to-get-out-of-jail-on-30000-bond/)
     
-4. [![Nancy Pelosi, Donald Trump](https://lawandcrime.com/wp-content/uploads/2024/10/Pelosi-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/cannot-ignore-or-hide-from-this-binding-precedent-trump-blames-nancy-pelosi-as-he-cites-another-supreme-court-decision-to-dismiss-jan-6-charges/)
+4. [![Thomas Kwan](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Thomas-Kwan-432x243.jpg)](https://lawandcrime.com/crime/utterly-despicable-doctor-in-disguise-poisoned-mothers-partner-with-flesh-eating-disease-cloaked-as-covid-booster/)
     
-    ### ['Cannot ignore or hide from' this 'binding precedent': Trump blames Nancy Pelosi as he cites another Supreme Court decision to dismiss Jan. 6 charges](https://lawandcrime.com/high-profile/cannot-ignore-or-hide-from-this-binding-precedent-trump-blames-nancy-pelosi-as-he-cites-another-supreme-court-decision-to-dismiss-jan-6-charges/)
+    ### ['Utterly despicable' doctor in disguise poisoned mother's partner with flesh-eating disease cloaked as COVID booster](https://lawandcrime.com/crime/utterly-despicable-doctor-in-disguise-poisoned-mothers-partner-with-flesh-eating-disease-cloaked-as-covid-booster/)
     
-5. [![Aubree Horton (WAGA).](https://lawandcrime.com/wp-content/uploads/2024/10/Aubree-Horton-432x243.png)](https://lawandcrime.com/crime/investigator-of-the-year-broke-into-a-home-where-resident-shot-and-killed-him-authorities/)
+5. [![Left: Former President Donald Trump speaks at a campaign rally, Tuesday Aug. 8, 2023, at Windham High School in Windham, N.H. (AP Photo/Robert F. Bukaty). Center: FILE - Special counsel Jack Smith speaks to the media about an indictment of former President Donald Trump, Aug. 1, 2023, at an office of the Department of Justice in Washington. Special counsel Jack Smith obtained search warrant for Twitter to turn over info on Trump's account, court documents say. (AP Photo/J. Scott Applewhite, File). Right: FILE - Elon Musk leaves the Phillip Burton Federal Building and United States Court House in San Francisco, Tuesday, Jan. 24, 2023. A federal appeals court Friday, July 21, said it will reconsider its March ruling that Musk unlawfully threatened employees with a loss of stock options in a 2018 Twitter post amid an organizing effort by the United Auto Workers union. (AP Photo/ Benjamin Fanjoy, File)](https://am23.mediaite.com/lc/cnt/uploads/2023/08/Donald-Trump-Jack-Smith-Elon-Musk-432x243.jpg)](https://lawandcrime.com/supreme-court/supreme-court-turns-away-elon-musk-and-x-complaint-about-jack-smith-warrant/)
     
-    ### ['Investigator of the Year' broke into a home, where resident shot and killed him: Authorities](https://lawandcrime.com/crime/investigator-of-the-year-broke-into-a-home-where-resident-shot-and-killed-him-authorities/)
+    ### [Supreme Court justices don't offer any explanation as they turn away Elon Musk and X's complaints about Jack Smith warrant for Trump's DMs in Jan. 6 probe](https://lawandcrime.com/supreme-court/supreme-court-turns-away-elon-musk-and-x-complaint-about-jack-smith-warrant/)
     
 
 [](http://eepurl.com/c89Jdb)
