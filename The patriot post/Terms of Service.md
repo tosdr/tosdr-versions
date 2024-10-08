@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110881-mid-day-digest-2024-10-07?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110916-mid-day-digest-2024-10-08?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,32 +185,32 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110881-mid-day-digest-2024-10-07?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110916-mid-day-digest-2024-10-08?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110852-what-storm-2024-10-07)
+     [](https://patriotpost.us/memes/110900-cartels-for-harris-2024-10-08)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34325)
+     [](https://patriotpost.us/cartoons/34337)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Mark Alexander Is FEMA FUBAR?](https://patriotpost.us/alexander/110850-is-fema-fubar-2024-10-07)
-*      [Gary Bauer Baffled Biden](https://patriotpost.us/opinion/110846-baffled-biden-2024-10-07)
-*      [Rich Lowry Dockworkers for Economic Stagnation](https://patriotpost.us/opinion/110844-dockworkers-for-economic-stagnation-2024-10-07)
-*      [The Washington Stand Tim Walz Misuses Matthew 25 to Justify Open Borders](https://patriotpost.us/opinion/110842-tim-walz-misuses-matthew-25-to-justify-open-borders-2024-10-07)
-*      [The Babylon Bee Thousands of Migrant Farmworkers Head North in Preparation for the Democrat Ballot Harvest](https://patriotpost.us/opinion/110851-thousands-of-migrant-farmworkers-head-north-in-preparation-for-the-democrat-ballot-harvest-2024-10-07)
-*      [Matthew Continetti Harris Hits a Walz](https://patriotpost.us/opinion/110825-harris-hits-a-walz-2024-10-05)
-*      [Hans von Spakovsky Naval Academy’s Choice of Speaker Runs Afoul of Pentagon Edict](https://patriotpost.us/opinion/110826-naval-academys-choice-of-speaker-runs-afoul-of-pentagon-edict-2024-10-05)
-*      [Hans von Spakovsky Unrigging Our Elections](https://patriotpost.us/opinion/110810-unrigging-our-elections-2024-10-04)
+*      [Christine Flowers Women Aren’t a Single Voting Bloc](https://patriotpost.us/opinion/110908-women-arent-a-single-voting-bloc-2024-10-08)
+*      [Cal Thomas Vote Buying, Biden Style](https://patriotpost.us/opinion/110895-vote-buying-biden-style-2024-10-08)
+*      [Gary Bauer One Year Later](https://patriotpost.us/opinion/110894-one-year-later-2024-10-08)
+*      [Victor Joecks Israel Needs Victory, Not a Ceasefire](https://patriotpost.us/opinion/110893-israel-needs-victory-not-a-ceasefire-2024-10-08)
+*      [Stephen Moore Don’t Nuke the Senate Filibuster!](https://patriotpost.us/opinion/110892-dont-nuke-the-senate-filibuster-2024-10-08)
+*      [Salena Zito Obama Returns to a Different Western Pennsylvania](https://patriotpost.us/opinion/110890-obama-returns-to-a-different-western-pennsylvania-2024-10-08)
+*      [Daniel McCarthy How Donald Trump Can Win the Popular Vote](https://patriotpost.us/opinion/110888-how-donald-trump-can-win-the-popular-vote-2024-10-08)
+*      [The Babylon Bee Democrats Cruelly Make Fun of Autistic African-American Jumping for Joy](https://patriotpost.us/opinion/110897-democrats-cruelly-make-fun-of-autistic-african-american-jumping-for-joy-2024-10-08)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,11 +224,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
-“Stability in government is essential to national character and to the advantages annexed to it, as well as to that repose and confidence in the minds of the people, which are among the chief blessings of civil society.” —James Madison (1788)
+“As there is a degree of depravity in mankind which requires a certain degree of circumspection and distrust: So there are other qualities in human nature, which justify a certain portion of esteem and confidence. Republican government presupposes the existence of these qualities in a higher degree than any other form.” —James Madison (1788)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
