@@ -254,12 +254,12 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (76)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (77)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (18)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (19)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (29)](https://www.smithbrothersfarms.com/vegetables)
             
