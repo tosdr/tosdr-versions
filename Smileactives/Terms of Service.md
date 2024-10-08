@@ -11,13 +11,13 @@ INTRODUCTORY PERFECT WHITE® SYSTEM**](https://www.smileactives.com/pages/sas-co
 
 [![header-logo](//smileactives.com/cdn/shop/files/header-logo.png?v=1685701844)](https://www.smileactives.com/)
 
-ORDER NOW   [Cart](https://www.smileactives.com/cart)
+ORDER NOW [Login](https://www.smileactives.com/pages/account-management)   [Cart](https://www.smileactives.com/cart)
 
 * [Shop](https://www.smileactives.com/collections/shop)
 * [About](https://www.smileactives.com/pages/about-us)
 * [Blog](https://www.smileactives.com/blogs/blog)
 
-Order Now
+[Login](https://www.smileactives.com/pages/account-management) Order Now
 
 Item added to your cart
 -----------------------
