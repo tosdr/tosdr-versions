@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/we-did-it-walvisvangstverbod-verlengd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/business-spiritualiteit-mooi/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
