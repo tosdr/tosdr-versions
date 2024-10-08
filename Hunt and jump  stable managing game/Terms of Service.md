@@ -143,6 +143,13 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+10/8/2024 3:23 AM EST
+
+Monster GMT lab sale now on
+---------------------------
+
+50 genes on special offer in the lab, including 5 phantom genes.👻
+
 10/1/2024 9:30 AM EST
 
 [SWITCH UP! It's the 1st and Random Gene Sale switch has activated. Until the 15th of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
@@ -223,10 +230,6 @@ HuntAndJump now has an official Discord server! We are soft-launching our new di
 9/14/2024 1:12 PM EST
 
 Sorry for the downtime. Turns out the actual server datacenter lost internet for a few hours there. We had to wait for them to get back online.
-
-9/14/2024 11:07 AM EST
-
-We are aware that Bluegrass server is down (and causing errors on the other servers). Everything is fine and appears to be nothing more than a need for a reboot but we have to wait for the server hosting company to manually reboot it. Should be back online shortly.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
