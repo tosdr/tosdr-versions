@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2013 Elections Overview](/assets/Images/teasers/small/LegCandbyStatus.png)](http://www.followthemoney.org/research/institute-reports/2013-elections-overview/)
+[![ Top Contributing Sectors to OR govs Kitzhaber and Brown](/assets/Images/teasers/small/KitzhabervBrownPercentbyIndustry.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-john-kitzhaber-and-kate-brown/)
 
-Successful incumbent candidates dominated 2013 fundraising.
+Sector giving to OR govs Kitzhaber and Brown.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
