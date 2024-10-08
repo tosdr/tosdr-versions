@@ -4,7 +4,7 @@ The store will not work correctly in the case when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-[Sale - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
+[PRIME DAY - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
 
 [Choose a free Womanizer toy with every order above 199€!](https://www.womanizer.com/eu/sex-toys)
 
@@ -50,7 +50,7 @@ The store will not work correctly in the case when cookies are disabled.
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
-* [Sale](https://www.womanizer.com/eu/sale)
+* [PRIME DAY](https://www.womanizer.com/eu/sale)
     
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
