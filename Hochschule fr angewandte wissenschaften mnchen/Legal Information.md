@@ -294,7 +294,7 @@ You can find all information about data processing and security in our [data pro
 * [Affiliated Institutes](https://www.hm.edu/en/about_hm/affiliated_institutes/career_center.en.html "Affiliated Institutes")
 * [News & Media](https://www.hm.edu/en/news_media_1/news_media_1.en.html "News & Media")
 * [Business Partners](https://www.hm.edu/en/businesspartners_1/continuing_education.en.html "Business Partners")
-* [PRIMUSS Online Services](https://www.hm.edu/# "PRIMUSS Online Services")
+* [PRIMUSS Online Services](https://www3.primuss.de/cgi-bin/sesam/index.pl?FH=fhm "PRIMUSS Online Services")
 * [Moodle](https://moodle.hm.edu/ "Moodle")
 
 ##### Contact
@@ -310,7 +310,7 @@ You can find all information about data processing and security in our [data pro
 
 ##### Follow us
 
-[](https://www.instagram.com/hochschulemuenchen/ "Instagram")[](https://www.facebook.com/HochschuleMuenchen "Facebook")[](https://twitter.com/hmmuenchen "X former Twitter")[](https://www.linkedin.com/school/hochschule-muenchen "Linkedin")[](https://www.youtube.com/user/HochschuleMuenchen1 "Youtube")
+[](https://www.instagram.com/hochschulemuenchen/)[](https://www.facebook.com/HochschuleMuenchen)[](https://twitter.com/hmmuenchen)[](https://www.linkedin.com/school/hochschule-muenchen)[](https://www.youtube.com/user/HochschuleMuenchen1)
 
 * * *
 
