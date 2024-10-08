@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Was really useful - just needed it for watching iplayer while in France for summer holiday. Back in the UK now.
+I was happy with the service. It's just that I don't need it for the moment. If and when I need it again I would be happy to resubscribe.
 
-James Riden
+Tom Morton
