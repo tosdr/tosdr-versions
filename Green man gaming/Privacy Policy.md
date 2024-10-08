@@ -106,7 +106,6 @@ You can search things like: Games, Franchises, DLC
     * [Discord Community](https://discord.gg/kpyQAYr9vq)
     * [Blog](https://www.greenmangaming.com/blog/)
     * [Green Room](https://www.greenmangaming.com/green-room/)
-* [XBOX](https://www.greenmangaming.com/xbox/)
 
 * [All Games](https://www.greenmangaming.com/all-games/)
     
@@ -116,7 +115,6 @@ You can search things like: Games, Franchises, DLC
 * [XP Offers](https://www.greenmangaming.com/xp-offers/)
 * [Community](https://discord.gg/kpyQAYr9vq)
     
-* [XBOX](https://www.greenmangaming.com/xbox/)
 
 You can search things like:
 
