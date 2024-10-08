@@ -19,6 +19,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Lauren Akosia.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lauren-A-6-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
+    
+    ### [Peckham graduate lands role in new BBC drama ‘Mr Loverman’](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
+    
+    [![(credit: Theatre Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sickle-Cell_Supacell_Main-Clean_5x4_01-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
+    
+    ### [Netflix’s Supacell cast to take part in sickle cell awareness event in Peckham](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
+    
+    [![A CGI look inside the new LCC building (Get Living)](https://southwarknews.co.uk/wp-content/uploads/2024/10/CS_935_ElephantCastle_Challenge_NewLCC-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
+    
+    ### [New UAL building hits construction milestone in £4bn development of ‘The Elephant’](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
+    
     [![A shopper at a St Christopher's charity shop. Credit: Rachel Manns](https://southwarknews.co.uk/wp-content/uploads/2024/10/st_christophers_hospice_september_24_rachel_manns_58-360x180.jpg)](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
     
     ### [Hospices relying more on charity shops than government funding, warns South London hospice](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
@@ -42,18 +54,6 @@
     [![Aaron Bailey, described as Black, 5ft 10, with short black hair and a black beard, is wanted in connection with a robbery in Epsom. Image: Surrey Police](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aaron-Bailey-described-as-Black-5ft-10-with-short-black-hair-and-a-black-beard-is-wanted-in-connection-with-a-robbery-in-Epsom.-Image-Surrey-Police-360x180.png)](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
     
     ### [Wanted: £5,000 reward for man with links to Southwark](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/07/Police-5-stock-e1534507967176-360x180.jpeg)](https://southwarknews.co.uk/area/london/data-reveals-only-one-in-seven-acid-attacks-in-london-lead-to-criminal-charges/)
-    
-    ### [Data reveals only one in seven acid attacks in London lead to criminal charges](https://southwarknews.co.uk/area/london/data-reveals-only-one-in-seven-acid-attacks-in-london-lead-to-criminal-charges/)
-    
-    [![London mayor Sadiq Khan. Photo from Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan.-Photo-from-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-optimistic-about-the-prospect-of-the-high-speed-2-rail-line/)
-    
-    ### [Sadiq Khan optimistic about the prospect of the High Speed 2 rail line](https://southwarknews.co.uk/area/london/sadiq-khan-optimistic-about-the-prospect-of-the-high-speed-2-rail-line/)
-    
-    [![Women featured in a video released by King's College Hospital urging women to attend screenings. Credit: KCH](https://southwarknews.co.uk/wp-content/uploads/2024/10/Women-featured-in-a-video-released-by-Kings-College-Hospital-urging-women-to-attend-screenings.-Credit-KCH-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
-    
-    ### [South London women urged to get breast screenings](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Lauren Akosia.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lauren-A-6-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
+    
+    ### [Peckham graduate lands role in new BBC drama ‘Mr Loverman’](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
+    
+    [![(credit: Theatre Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sickle-Cell_Supacell_Main-Clean_5x4_01-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
+    
+    ### [Netflix’s Supacell cast to take part in sickle cell awareness event in Peckham](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
+    
+    [![A CGI look inside the new LCC building (Get Living)](https://southwarknews.co.uk/wp-content/uploads/2024/10/CS_935_ElephantCastle_Challenge_NewLCC-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
+    
+    ### [New UAL building hits construction milestone in £4bn development of ‘The Elephant’](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
+    
     [![A shopper at a St Christopher's charity shop. Credit: Rachel Manns](https://southwarknews.co.uk/wp-content/uploads/2024/10/st_christophers_hospice_september_24_rachel_manns_58-360x180.jpg)](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
     
     ### [Hospices relying more on charity shops than government funding, warns South London hospice](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
@@ -122,18 +134,6 @@ View All Result
     [![Aaron Bailey, described as Black, 5ft 10, with short black hair and a black beard, is wanted in connection with a robbery in Epsom. Image: Surrey Police](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aaron-Bailey-described-as-Black-5ft-10-with-short-black-hair-and-a-black-beard-is-wanted-in-connection-with-a-robbery-in-Epsom.-Image-Surrey-Police-360x180.png)](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
     
     ### [Wanted: £5,000 reward for man with links to Southwark](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/07/Police-5-stock-e1534507967176-360x180.jpeg)](https://southwarknews.co.uk/area/london/data-reveals-only-one-in-seven-acid-attacks-in-london-lead-to-criminal-charges/)
-    
-    ### [Data reveals only one in seven acid attacks in London lead to criminal charges](https://southwarknews.co.uk/area/london/data-reveals-only-one-in-seven-acid-attacks-in-london-lead-to-criminal-charges/)
-    
-    [![London mayor Sadiq Khan. Photo from Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan.-Photo-from-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-optimistic-about-the-prospect-of-the-high-speed-2-rail-line/)
-    
-    ### [Sadiq Khan optimistic about the prospect of the High Speed 2 rail line](https://southwarknews.co.uk/area/london/sadiq-khan-optimistic-about-the-prospect-of-the-high-speed-2-rail-line/)
-    
-    [![Women featured in a video released by King's College Hospital urging women to attend screenings. Credit: KCH](https://southwarknews.co.uk/wp-content/uploads/2024/10/Women-featured-in-a-video-released-by-Kings-College-Hospital-urging-women-to-attend-screenings.-Credit-KCH-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
-    
-    ### [South London women urged to get breast screenings](https://southwarknews.co.uk/area/camberwell/south-london-women-urged-to-get-breast-screenings/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -234,6 +234,24 @@ CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/gar
 
 ### Featured Articles
 
+[![Lauren Akosia.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lauren-A-6-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
+
+### [Peckham graduate lands role in new BBC drama ‘Mr Loverman’](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
+
+[8th October 2024](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
+
+[![(credit: Theatre Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sickle-Cell_Supacell_Main-Clean_5x4_01-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
+
+### [Netflix’s Supacell cast to take part in sickle cell awareness event in Peckham](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
+
+[8th October 2024](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
+
+[![A CGI look inside the new LCC building (Get Living)](https://southwarknews.co.uk/wp-content/uploads/2024/10/CS_935_ElephantCastle_Challenge_NewLCC-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
+
+### [New UAL building hits construction milestone in £4bn development of ‘The Elephant’](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
+
+[8th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
+
 [![A shopper at a St Christopher's charity shop. Credit: Rachel Manns](https://southwarknews.co.uk/wp-content/uploads/2024/10/st_christophers_hospice_september_24_rachel_manns_58-120x86.jpg)](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
 
 ### [Hospices relying more on charity shops than government funding, warns South London hospice](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
@@ -251,24 +269,6 @@ CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/gar
 ### [Boris Johnson’s artist mum was a patient at the Maudsley – and now her paintings are being displayed](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
 
 [7th October 2024](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
-
-[![The Southwark Sea Cadets pose for a photo. Credit: SSC](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-07-12-27-15-120x86.jpg)](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
-
-### [Walworth Sea Cadets fighting for survival as headquarters ‘fall apart’](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
-
-[7th October 2024](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
-
-[![Aaron Bailey, described as Black, 5ft 10, with short black hair and a black beard, is wanted in connection with a robbery in Epsom. Image: Surrey Police](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aaron-Bailey-described-as-Black-5ft-10-with-short-black-hair-and-a-black-beard-is-wanted-in-connection-with-a-robbery-in-Epsom.-Image-Surrey-Police-120x86.png)](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
-
-### [Wanted: £5,000 reward for man with links to Southwark](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
-
-[7th October 2024](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
-
-[![Murderers: Maria Manning and Frederick Manning](https://southwarknews.co.uk/wp-content/uploads/2024/10/Murderers-Maria-Manning-and-Frederick-Manning-120x86.png)](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
-
-### [The Rise of Scotland Yard: How the Manning case shaped detective history, new book reveals](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
-
-[6th October 2024](https://southwarknews.co.uk/area/bermondsey/the-rise-of-scotland-yard-how-the-manning-case-shaped-detective-history-new-book-reveals/)
 
 ### USEFUL PAGES
 
