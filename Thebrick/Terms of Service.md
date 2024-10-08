@@ -247,6 +247,8 @@ Seller Name
 
 [Save](#)
 
+**FREE LOCAL DELIVERY** on purchases $499 or more
+
 Terms and Conditions
 ====================
 
