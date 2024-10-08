@@ -401,6 +401,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Pantego deputy fire chief admits to driving drunk in city vehicle, arrest video shows](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/pantego-fire-chief-arrest.png?ve=1&tl=1)
+
+ ![Pantego deputy fire chief admits to driving drunk in city vehicle, arrest video shows](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/pantego-fire-chief-arrest.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pantego-deputy-fire-chief-robert-franklin-dwi-arrest-video-body-camera)
+
+### [Pantego deputy fire chief admits to driving drunk in city vehicle, arrest video shows](https://www.fox4news.com/news/pantego-deputy-fire-chief-robert-franklin-dwi-arrest-video-body-camera)
+
  [![Study reveals the top Instagrammable NFL stadiums for the 2024/2025 season](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-83361539-1.jpg?ve=1&tl=1)
 
  ![Study reveals the top Instagrammable NFL stadiums for the 2024/2025 season](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-83361539-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/most-instagrammable-nfl-stadiums-2024)
@@ -413,23 +419,17 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Hurricane forecast: Milton strengthens to Category 5 as Florida orders evacuations](https://www.fox4news.com/news/hurricane-watch-milton-category-3-projected-path-florida-october-7)
 
+ [![Spooky season for kids: Watch these 7 scary movies this week](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/mixcollage-07-oct-2024-05-43-pm-9724.jpg?ve=1&tl=1)
+
+ ![Spooky season for kids: Watch these 7 scary movies this week](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/mixcollage-07-oct-2024-05-43-pm-9724.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/spooky-movies-for-kids-what-to-watch-halloween)
+
+### [Spooky season for kids: Watch these 7 scary movies this week](https://www.fox4news.com/news/spooky-movies-for-kids-what-to-watch-halloween)
+
  [![Plane crashes into Eagle Mountain Lake, search for victim underway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1)
 
  ![Plane crashes into Eagle Mountain Lake, search for victim underway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
 
 ### [Plane crashes into Eagle Mountain Lake, search for victim underway](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
-
- [![For-profit managing Fair Park reveals $2 million shortfall, may need city bailout](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/60434bda-V-FUTURE20OF20FAIR20PARK20530P_00.00.20.25_1533247925008.png_5880069_ver1.0.jpg?ve=1&tl=1)
-
- ![For-profit managing Fair Park reveals $2 million shortfall, may need city bailout](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/60434bda-V-FUTURE20OF20FAIR20PARK20530P_00.00.20.25_1533247925008.png_5880069_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oak-view-group-fair-park-audit-dallas-city-council-meeting)
-
-### [For-profit managing Fair Park reveals $2 million shortfall, may need city bailout](https://www.fox4news.com/news/oak-view-group-fair-park-audit-dallas-city-council-meeting)
-
- [![Mega Millions ticket price jumps—Are you ready to pay $5 for a shot at billions?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1576464939.jpg?ve=1&tl=1)
-
- ![Mega Millions ticket price jumps—Are you ready to pay $5 for a shot at billions?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1576464939.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/money/mega-millions-five-dollars-price)
-
-### [Mega Millions ticket price jumps—Are you ready to pay $5 for a shot at billions?](https://www.fox4news.com/money/mega-millions-five-dollars-price)
 
 ###### [News](https://www.fox4news.com/news)
 
