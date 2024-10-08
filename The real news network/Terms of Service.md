@@ -96,8 +96,8 @@ Trending Posts
 * [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
 * [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
+* [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
 * ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
 
@@ -160,8 +160,8 @@ Trending Posts
 * [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
 * [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
+* [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
 * ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
 
@@ -359,8 +359,8 @@ Trending Posts
 * [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
 * [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
+* [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
 * ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
 
