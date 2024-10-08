@@ -325,21 +325,22 @@ Advertise
 
 * ### [On cloud nine for a sky-high price: the $1m mattress](https://www.afr.com/life-and-luxury/health-and-wellness/on-cloud-nine-for-a-sky-high-price-the-1m-mattress-20240924-p5kd4d)
     
-* ### [How this CEO stays on the fast track](https://www.afr.com/life-and-luxury/health-and-wellness/how-this-ceo-stays-on-the-fast-track-20240918-p5kbi4)
+* ### [‘How I manage stress’: Stake CEO on his motorcycling obsession](https://www.afr.com/life-and-luxury/health-and-wellness/how-this-ceo-stays-on-the-fast-track-20240918-p5kbi4)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Plans for Arthurs Seat Eagle include a new observation tower.](https://static.ffx.io/images/$zoom_0.138%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6b3de9508bc8f6db3053fec0e55c46ef59dfcd2e)](https://www.afr.com/property/commercial/adrenaline-rush-light-and-sound-show-planned-for-mornington-cable-car-20240926-p5kdoo)
+[![A bankruptcy proceeding between Richard White and his alleged lover has turned ugly.](https://static.ffx.io/images/$zoom_0.5749%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_37%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/4e8f1ac54dbfe7d91fa971861976292ec3faea92)](https://www.afr.com/technology/richard-white-s-alleged-lover-claims-he-expected-sex-for-investment-20241008-p5kgph)
 
-### [Adrenaline rush, light and sound show planned for Mornington cable car](https://www.afr.com/property/commercial/adrenaline-rush-light-and-sound-show-planned-for-mornington-cable-car-20240926-p5kdoo)
+### [Richard White’s alleged lover claims he expected sex for investment](https://www.afr.com/technology/richard-white-s-alleged-lover-claims-he-expected-sex-for-investment-20241008-p5kgph)
 
-* Larry Schlesinger
+* 1 hr ago
+* Max Mason, Jemima Whyte and Jonathan Shapiro
 
-* ### [How the wealthy daughters of Westfield co-founder John Saunders invest](https://www.afr.com/wealth/people/how-the-wealthy-daughters-of-westfield-co-founder-john-saunders-invest-20240925-p5kdd4)
+* ### [Adrenaline rush, light and sound show planned for Mornington cable car](https://www.afr.com/property/commercial/adrenaline-rush-light-and-sound-show-planned-for-mornington-cable-car-20240926-p5kdoo)
     
-* ### [Rich Lister wealth secrets revealed after 30-year loophole ends](https://www.afr.com/wealth/people/rich-lister-wealth-secrets-revealed-after-30-year-loophole-ends-20240923-p5kcuw)
+* ### [How the wealthy daughters of Westfield co-founder John Saunders invest](https://www.afr.com/wealth/people/how-the-wealthy-daughters-of-westfield-co-founder-john-saunders-invest-20240925-p5kdd4)
     
 
 [The Australian Financial Review](https://www.afr.com/)
