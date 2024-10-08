@@ -22,6 +22,7 @@ GETTING STArted
 ---------------
 
 * [Quick Start Guide](https://dev.fingerprintjs.com/docs/quick-start-guide)
+* [Planning your implementation](https://dev.fingerprintjs.com/docs/planning-implementation)
 * [Playground](https://demo.fingerprint.com/playground)
 * [Use cases](https://demo.fingerprint.com/)
 
