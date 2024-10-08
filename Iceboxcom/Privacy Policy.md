@@ -174,7 +174,7 @@ Suite #2
 Atlanta, GA 30305, USA
 
 Monday - Friday:  
-11:00 AM - 06:00 PM
+11:00 AM - 6:00 PM
 
 Weekends:  
 Closed
