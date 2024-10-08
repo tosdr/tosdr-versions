@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Save $50 on Ultra Open Earbuds. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html)
+48-hour Flash Sale: Save up to 40%, plus first-time-ever-deals. [Shop](https://www.bose.com/c/fall-sale).
 
 Sound for the season: Check out our newest fall arrivals. [Shop](https://www.bose.com/c/new-arrivals)
 
@@ -74,20 +74,20 @@ Back
     * [All Aviation Headsets](https://www.bose.com/c/aviation-headsets)
     * [Aviation Headset Accessories](https://www.bose.com/c/aviation-headsets/accessories)
     
-    [![](https://assets.bosecreative.com/m/38c575022ee21471/webimage-SF_UOEB_NavFlyout_PANEL_Fall_Mobile_image_343x180_x2.png)
+    [![](https://assets.bosecreative.com/m/1f3fa59ff48ec7c/webimage-SF_MultiProduct_NavFlyout_PANEL_Fall_Mobile_343x180_x2.png)
     
-    Ultra Open Earbuds
+    48-hour flash sale
     
-    ### Save $50](https://www.bose.com/c/fall-sale "SHOP")
+    ### Save up to 40%](https://www.bose.com/c/fall-sale "SHOP")
     
      
     
-    Ultra Open Earbuds
+    Fall Sale
     
-    Save $50
-    --------
+    48-HOUR FLASH SALE
+    ------------------
     
-    Pause for nothing — except this first-time-ever deal!
+    Hurry and save up to 40%, plus first-time-ever-deals.
     
     [SHOP](https://www.bose.com/c/fall-sale "SHOP")
     
@@ -179,13 +179,13 @@ Back
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/38c575022ee21471/webimage-SF_UOEB_NavFlyout_PANEL_Fall_Mobile_image_343x180_x2.png)
+[![](https://assets.bosecreative.com/m/1f3fa59ff48ec7c/webimage-SF_MultiProduct_NavFlyout_PANEL_Fall_Mobile_343x180_x2.png)
 
-Ultra Open Earbuds
+48-hour flash sale
 
-### Save $50](https://www.bose.com/c/fall-sale "SHOP")
+### Save up to 40%](https://www.bose.com/c/fall-sale "SHOP")
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw4190bbcf/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwd7003f58/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
