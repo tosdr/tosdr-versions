@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Ali-Ibrahim-326x245.jpg)](https://cwbchicago.com/2024/10/charges-filed-in-boystown-robbery-battery-cases.html "Charges filed in Boystown robbery, battery cases")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/2024.10.04-Hamlin-Park-041A-frame-326x245.jpg)](https://cwbchicago.com/2024/10/hamlin-park-shooting-is-linked-to-local-high-school-escalating-gang-conflict.html "Hamlin Park shooting is linked to local high school, escalating gang conflict")
 
-Boystown
+North Center
 
-### [Charges filed in Boystown robbery, battery cases](https://cwbchicago.com/2024/10/charges-filed-in-boystown-robbery-battery-cases.html "Charges filed in Boystown robbery, battery cases")
+### [Hamlin Park shooting is linked to local high school, escalating gang conflict](https://cwbchicago.com/2024/10/hamlin-park-shooting-is-linked-to-local-high-school-escalating-gang-conflict.html "Hamlin Park shooting is linked to local high school, escalating gang conflict")
 
-[October 5, 2024 7:32 AM](https://cwbchicago.com/2024/10)
+[October 5, 2024 3:19 PM](https://cwbchicago.com/2024/10)
 
-Charges have been filed in connection with a violent robbery and a separate battery incident on the Halsted Street nightlife strip in Boystown.[](https://cwbchicago.com/2024/10/charges-filed-in-boystown-robbery-battery-cases.html "Charges filed in Boystown robbery, battery cases")
+Officials are beefing up security at a North Side high school after a gang-related shooting left a 15-year-old boy injured at Hamlin Park on Friday afternoon. The shooting, a source said, is part of escalating tensions between the Maniac Latin Disciples and Insane Deuces street gangs.[](https://cwbchicago.com/2024/10/hamlin-park-shooting-is-linked-to-local-high-school-escalating-gang-conflict.html "Hamlin Park shooting is linked to local high school, escalating gang conflict")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/25-w-hubbard-chicago-0110-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-dead-in-hubbard-street-nightlife-district-2-detained.html "Man shot dead in Hubbard Street nightlife district, 2 detained")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/JH-456143-suspect-veh-326x245.jpg)](https://cwbchicago.com/2024/10/hit-and-run-driver-killed-pedestrian-overnight-cops-say.html "Hit-and-run driver killed pedestrian overnight, cops say")
 
-River North
+East Garfield Park
 
-### [Man shot dead in Hubbard Street nightlife district, 2 detained](https://cwbchicago.com/2024/10/man-shot-dead-in-hubbard-street-nightlife-district-2-detained.html "Man shot dead in Hubbard Street nightlife district, 2 detained")
+### [Hit-and-run driver killed pedestrian overnight, cops say](https://cwbchicago.com/2024/10/hit-and-run-driver-killed-pedestrian-overnight-cops-say.html "Hit-and-run driver killed pedestrian overnight, cops say")
 
-[October 5, 2024 6:02 AM](https://cwbchicago.com/2024/10)
+[October 5, 2024 9:14 AM](https://cwbchicago.com/2024/10)
 
-Police have detained two people for questioning after a man was murdered in the Hubbard Street nightlife district in River North early Saturday morning.[](https://cwbchicago.com/2024/10/man-shot-dead-in-hubbard-street-nightlife-district-2-detained.html "Man shot dead in Hubbard Street nightlife district, 2 detained")
+Police need some help as they investigate a hit-and-run crash that killed a pedestrian in East Garfield Park overnight.[](https://cwbchicago.com/2024/10/hit-and-run-driver-killed-pedestrian-overnight-cops-say.html "Hit-and-run driver killed pedestrian overnight, cops say")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Hamlin-Park-BB-court-326x245.jpg)](https://cwbchicago.com/2024/10/15-year-old-shot-near-hamlin-park-basketball-courts-on-friday-afternoon.html "15-year-old shot near Hamlin Park basketball courts on Friday afternoon")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Terrence-Robinson-326x245.jpg)](https://cwbchicago.com/2024/10/man-accused-of-shooting-at-repo-man-on-chicago-expressway.html "Man accused of shooting at repo man on Chicago expressway")
 
-Lakeview
+Riverdale
 
-### [15-year-old shot near Hamlin Park basketball courts on Friday afternoon](https://cwbchicago.com/2024/10/15-year-old-shot-near-hamlin-park-basketball-courts-on-friday-afternoon.html "15-year-old shot near Hamlin Park basketball courts on Friday afternoon")
+### [Man accused of shooting at repo man on Chicago expressway](https://cwbchicago.com/2024/10/man-accused-of-shooting-at-repo-man-on-chicago-expressway.html "Man accused of shooting at repo man on Chicago expressway")
 
-[October 4, 2024 5:46 PM](https://cwbchicago.com/2024/10)
+[October 5, 2024 8:41 AM](https://cwbchicago.com/2024/10)
 
-A 15-year-old boy was shot inside Hamlin Park on the city’s North Side on Friday afternoon, according to Chicago police. Two armed men, at least one of whom fired shots, remain on the loose.[](https://cwbchicago.com/2024/10/15-year-old-shot-near-hamlin-park-basketball-courts-on-friday-afternoon.html "15-year-old shot near Hamlin Park basketball courts on Friday afternoon")
+Prosecutors have charged a man with shooting at a repo man’s tow truck as they traveled on a Far South Side expressway earlier this year.[](https://cwbchicago.com/2024/10/man-accused-of-shooting-at-repo-man-on-chicago-expressway.html "Man accused of shooting at repo man on Chicago expressway")
 
 Search
 
