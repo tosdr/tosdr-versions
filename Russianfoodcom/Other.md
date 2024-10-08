@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Овощное рагу с курицей и баклажанами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174430)
+* [Торт "Конфетти" с шоколадным сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=173925)
 * [Котлеты из гречки с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=172584)
-* [Рыба, запечённая с брокколи в сливочно-сырном соусе](https://www.russianfood.com/recipes/recipe.php?rid=169640)
-* [Хлеб белый бездрожжевой, на закваске](https://www.russianfood.com/recipes/recipe.php?rid=123371)
 * [Бульон с потрохами](https://www.russianfood.com/recipes/recipe.php?rid=446)
 * [Бульон с клецками из кур](https://www.russianfood.com/recipes/recipe.php?rid=939)
-* [Фрикадельки из свинины с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=1337)
-* [Плов с курицей-2](https://www.russianfood.com/recipes/recipe.php?rid=1548)
 * [Куриный суп с капустой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=4787)
 * [Бульон из кур](https://www.russianfood.com/recipes/recipe.php?rid=4867)
+* [Салат по-индийски](https://www.russianfood.com/recipes/recipe.php?rid=8259)
+* [Салат с курицей](https://www.russianfood.com/recipes/recipe.php?rid=8362)
+* [Рисовый салат с курицей](https://www.russianfood.com/recipes/recipe.php?rid=8421)
+* [Суп куриный по-индийски](https://www.russianfood.com/recipes/recipe.php?rid=8879)
 
 |     |
 | --- |
@@ -182,6 +182,48 @@
 
 |     |     |
 | --- | --- |
+| Рецепты<br><br>[Вешенки и макароны](https://www.russianfood.com/recipes/recipe.php?rid=174496) |     |
+
+[![Фото к рецепту: Вешенки и макароны](//img1.russianfood.com/dycontent/images_upl/742/sm_741625.jpg "Фото к рецепту: Вешенки и макароны")](https://www.russianfood.com/recipes/recipe.php?rid=174496)
+
+Макароны с грибами? Или наоборот надо? Может быть, кто-то скажет, что несколько нетрадиционный подход? Может, и так. Но, знаете, получилось вкусно и нам понравилось.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174496)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174496#comments) | 09.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Аджика с баклажанами на зиму](https://www.russianfood.com/recipes/recipe.php?rid=174512) |     |
+
+[![Фото к рецепту: Аджика с баклажанами на зиму](//img1.russianfood.com/dycontent/images_upl/743/sm_742003.jpg "Фото к рецепту: Аджика с баклажанами на зиму")](https://www.russianfood.com/recipes/recipe.php?rid=174512)
+
+Аджика получается аппетитная, в меру острая, с чесночным ароматом. Такую закуску идеально подать к мясу или в виде соуса к макаронам, или просто с ломтиком свежего хлеба. Аджика – вкусное и ароматное постное блюдо. Приготовьте и попробуйте.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174512)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174512#comments) | 09.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Кислые щи с томлёным приварком](https://www.russianfood.com/recipes/recipe.php?rid=174517) |     |
+
+[![Фото к рецепту: Кислые щи с томлёным приварком](//img1.russianfood.com/dycontent/images_upl/743/sm_742045.jpg "Фото к рецепту: Кислые щи с томлёным приварком")](https://www.russianfood.com/recipes/recipe.php?rid=174517)
+
+И не надо ничего говорить по-поводу того, что «кислые щи» — это напиток. Никто и не спорит. Но! В каждой избушке свои погремушки. Сколько себя помню, столько про щи из квашеной капусты слышал «кислые щи».
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174517)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174517#comments) | 08.10.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[В коллекцию лучших рецептов из тыквы. Время ТЫКВЫ (40)](https://www.russianfood.com/reading/?post_id=22701) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/713/sm_712615.jpg)](https://www.russianfood.com/reading/?post_id=22701)
@@ -192,7 +234,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22701#comments) | 08.10.24 |     |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22701#comments) | 08.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -206,7 +248,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие завтраки](https://www.russianfood.com/blogs/?id=325261) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22700#comments) | 08.10.24 |     |
+|     | [Лучшие завтраки](https://www.russianfood.com/blogs/?id=325261) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22700#comments) | 08.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -348,48 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22687#comments) | 05.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Красивый кусочек аппетит щекочет!) Лучшие рецепты НА ВЫХОДНЫЕ №24-40](https://www.russianfood.com/reading/?post_id=22684) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/660/sm_659431.jpg)](https://www.russianfood.com/reading/?post_id=22684)
-
-Фрикадельки на шпажках. Запечённые крылышки с цитрусами. Птитим с курицей. Рыбная запеканка с кабачками и рисом. Куриные голени в тесте. Рисовые котлеты с креветками. Ризотто с яблоками, сыром и орехами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22684)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22684#comments) | 04.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Пирогов мы напечём и за стол всех позовём.) Лучшие рецепты ПИРОГОВ (65)](https://www.russianfood.com/reading/?post_id=22683) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/721/sm_720910.jpg)](https://www.russianfood.com/reading/?post_id=22683)
-
-Слоёный пирог с яичницей и ветчиной. Пирог из лаваша с творогом и сыром. Яблочный пирог "Аммонит". Лимонный кекс с глазурью. Галета с тыквой и картофелем.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22683)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22683#comments) | 04.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Пятёрка новых идей и вкусов. Лучшие рецепты из РЫБЫ (25)](https://www.russianfood.com/reading/?post_id=22682) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/717/sm_716614.jpg)](https://www.russianfood.com/reading/?post_id=22682)
-
-Скумбрия с соевым соусом. Рыба с овощами в томате. Слоёные пирожки с рыбой и картошкой. Рыбные зразы с сыром. Рыба в беконе.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22682)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22682#comments) | 04.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -457,6 +457,13 @@
 |     |     |
 | [Подписаться письмом](mailto:home.cookery.prostierecepti-sub@subscribe.ru?subj=subscribe) |     |
 
+Новые рецепты:
+
+|     |     |     |
+| --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742045.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174517) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742003.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174512) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741625.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174496) |
+| [Кислые щи с томлёным приварком](https://www.russianfood.com/recipes/recipe.php?rid=174517) | [Аджика с баклажанами на зиму](https://www.russianfood.com/recipes/recipe.php?rid=174512) | [Вешенки и макароны](https://www.russianfood.com/recipes/recipe.php?rid=174496) |
+
 |     |     |     |
 | --- | --- | --- |
 | ![](//img1.russianfood.com/images/common/bottom_line1.jpg) | ![](//img1.russianfood.com/images/common/bottom_line2.jpg) |     |
@@ -471,5 +478,3 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
-
-(163)
