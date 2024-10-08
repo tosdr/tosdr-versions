@@ -53,7 +53,8 @@ Reading documentation
 Maintaining projects
 
 * [Redirects](https://docs.readthedocs.io/en/stable/user-defined-redirects.html)
-* [Analytics for search and traffic](https://docs.readthedocs.io/en/stable/reference/analytics.html)
+* [Traffic analytics](https://docs.readthedocs.io/en/stable/traffic-analytics.html)
+* [Search analytics](https://docs.readthedocs.io/en/stable/search-analytics.html)
 * [Security logs](https://docs.readthedocs.io/en/stable/security-log.html)
 * [Status badges](https://docs.readthedocs.io/en/stable/badges.html)
 * [How to structure your documentation](https://docs.readthedocs.io/en/stable/explanation/documentation-structure.html)
@@ -62,7 +63,6 @@ Maintaining projects
 
 Business features
 
-* [Business hosting](https://docs.readthedocs.io/en/stable/commercial/index.html)
 * [Organizations](https://docs.readthedocs.io/en/stable/commercial/organizations.html)
 * [Single Sign-On (SSO)](https://docs.readthedocs.io/en/stable/commercial/single-sign-on.html)
 * [Sharing private documentation](https://docs.readthedocs.io/en/stable/commercial/sharing.html)
@@ -124,7 +124,7 @@ Reference
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/70cefc077b5b18ccf7e8a95933cce24663a9ca72/docs/user/privacy-policy.rst)
+* [View page source](https://docs.readthedocs.io/en/stable/_sources/privacy-policy.rst.txt)
 
 * * *
 
@@ -366,7 +366,7 @@ Questions regarding Read the Docs’ Privacy Policy or information practices sho
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `70cefc07`.
+© Copyright Read the Docs, Inc & contributors.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
 
@@ -425,7 +425,8 @@ Reading documentation
 Maintaining projects
 
 * [Redirects](https://docs.readthedocs.io/en/stable/user-defined-redirects.html)
-* [Analytics for search and traffic](https://docs.readthedocs.io/en/stable/reference/analytics.html)
+* [Traffic analytics](https://docs.readthedocs.io/en/stable/traffic-analytics.html)
+* [Search analytics](https://docs.readthedocs.io/en/stable/search-analytics.html)
 * [Security logs](https://docs.readthedocs.io/en/stable/security-log.html)
 * [Status badges](https://docs.readthedocs.io/en/stable/badges.html)
 * [How to structure your documentation](https://docs.readthedocs.io/en/stable/explanation/documentation-structure.html)
@@ -434,7 +435,6 @@ Maintaining projects
 
 Business features
 
-* [Business hosting](https://docs.readthedocs.io/en/stable/commercial/index.html)
 * [Organizations](https://docs.readthedocs.io/en/stable/commercial/organizations.html)
 * [Single Sign-On (SSO)](https://docs.readthedocs.io/en/stable/commercial/single-sign-on.html)
 * [Sharing private documentation](https://docs.readthedocs.io/en/stable/commercial/sharing.html)
@@ -547,7 +547,8 @@ Reading documentation
 Maintaining projects
 
 * [Redirects](https://docs.readthedocs.io/en/stable/user-defined-redirects.html)
-* [Analytics for search and traffic](https://docs.readthedocs.io/en/stable/reference/analytics.html)
+* [Traffic analytics](https://docs.readthedocs.io/en/stable/traffic-analytics.html)
+* [Search analytics](https://docs.readthedocs.io/en/stable/search-analytics.html)
 * [Security logs](https://docs.readthedocs.io/en/stable/security-log.html)
 * [Status badges](https://docs.readthedocs.io/en/stable/badges.html)
 * [How to structure your documentation](https://docs.readthedocs.io/en/stable/explanation/documentation-structure.html)
@@ -556,7 +557,6 @@ Maintaining projects
 
 Business features
 
-* [Business hosting](https://docs.readthedocs.io/en/stable/commercial/index.html)
 * [Organizations](https://docs.readthedocs.io/en/stable/commercial/organizations.html)
 * [Single Sign-On (SSO)](https://docs.readthedocs.io/en/stable/commercial/single-sign-on.html)
 * [Sharing private documentation](https://docs.readthedocs.io/en/stable/commercial/sharing.html)
@@ -616,7 +616,7 @@ Reference
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/70cefc077b5b18ccf7e8a95933cce24663a9ca72/docs/user/privacy-policy.rst)
+* [View page source](https://docs.readthedocs.io/en/stable/_sources/privacy-policy.rst.txt)
 
 * * *
 
@@ -858,7 +858,7 @@ Questions regarding Read the Docs’ Privacy Policy or information practices sho
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `70cefc07`.
+© Copyright Read the Docs, Inc & contributors.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
 
@@ -866,7 +866,7 @@ Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/70cefc077b5b18ccf7e8a95933cce24663a9ca72/docs/user/privacy-policy.rst)
+* [View page source](https://docs.readthedocs.io/en/stable/_sources/privacy-policy.rst.txt)
 
 * * *
 
@@ -1108,7 +1108,7 @@ Questions regarding Read the Docs’ Privacy Policy or information practices sho
 
 * * *
 
-© Copyright Read the Docs, Inc & contributors. Revision `70cefc07`.
+© Copyright Read the Docs, Inc & contributors.
 
 Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided by [Read the Docs](https://readthedocs.org/).
 
@@ -1116,7 +1116,7 @@ Built with [Sphinx](https://www.sphinx-doc.org/) using a [theme](https://github.
 * [About Read the Docs](https://docs.readthedocs.io/en/stable/about/index.html)
 * [Policies and legal documents](https://docs.readthedocs.io/en/stable/reference/policies.html)
 * Privacy Policy
-* [Edit on GitHub](https://github.com/readthedocs/readthedocs.org/blob/70cefc077b5b18ccf7e8a95933cce24663a9ca72/docs/user/privacy-policy.rst)
+* [View page source](https://docs.readthedocs.io/en/stable/_sources/privacy-policy.rst.txt)
 
 * * *
 
@@ -1594,4 +1594,4 @@ Due to the nature of our environment where documentation is built as necessary, 
 
 [Previous](https://docs.readthedocs.io/en/stable/unofficial-projects.html "Unofficial and unmaintained projects policy") [Next](https://docs.readthedocs.io/en/stable/legal/security-policy.html "Security policy")
 
-© Copyright Read the Docs, Inc & contributors. Revision `70cefc07`.
+© Copyright Read the Docs, Inc & contributors.
