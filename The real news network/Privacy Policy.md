@@ -79,9 +79,9 @@ Trending Posts
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
 * ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
-* [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
-* [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
+* [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
 
 Close
 
@@ -143,9 +143,9 @@ Trending Posts
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
 * [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
 * ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
-* [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
 * [NYT, Guardian parrot Israel’s absurd ‘bombing to de-escalate’ framing](https://therealnews.com/nyt-guardian-parrot-israels-absurd-bombing-to-de-escalate-framing) 
-* [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
+* [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
+* [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
 
 [Skip to content](#main)
 
