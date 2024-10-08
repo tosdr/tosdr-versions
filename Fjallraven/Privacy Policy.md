@@ -271,7 +271,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=c9d4e9e4-9ffa-4cc9-a00c-b7a49196f822)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=91746baf-850f-4cc2-a5b5-815c90466ed5)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -430,7 +430,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=c9d4e9e4-9ffa-4cc9-a00c-b7a49196f822)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=91746baf-850f-4cc2-a5b5-815c90466ed5)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -468,7 +468,7 @@ Asia
             * [Sustainable design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
             * [Sustainable Materials](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-materials/)
             * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
-            * [Product Care](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
+            * [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
             
         * [Careers](https://career.fjallraven.com/?_ga=2.56266475.1301247533.1630331041-1533892604.1626727350&_gac=1.146943685.1627315080.CjwKCAjwuvmHBhAxEiwAWAYj-B_VkGwnQduvVzv-L-YiEIeAA89zsmMGGGE7HjcJqqsqGNcd0fHXvBoCAQsQAvD_BwE)
         * [Our Materials](https://www.fjallraven.com/us/en-us/about/our-materials/)
@@ -528,7 +528,7 @@ Main Content Starts Here
     * [Sustainable design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
     * [Sustainable Materials](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-materials/)
     * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
-    * [Product Care](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
+    * [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
 * [Careers](https://career.fjallraven.com/?_ga=2.56266475.1301247533.1630331041-1533892604.1626727350&_gac=1.146943685.1627315080.CjwKCAjwuvmHBhAxEiwAWAYj-B_VkGwnQduvVzv-L-YiEIeAA89zsmMGGGE7HjcJqqsqGNcd0fHXvBoCAQsQAvD_BwE)
 * [Our Materials](https://www.fjallraven.com/us/en-us/about/our-materials/)
 
@@ -800,7 +800,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=c9d4e9e4-9ffa-4cc9-a00c-b7a49196f822)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=91746baf-850f-4cc2-a5b5-815c90466ed5)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
