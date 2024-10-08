@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/226-West-Hubbard-map-326x245.jpg)](https://cwbchicago.com/2024/10/man-critically-wounded-in-river-north-shooting-2nd-victim-shot-in-the-neighborhod-this-weekend.html "Man critically wounded in River North shooting; 2nd victim shot in the neighborhood this weekend")
+
+River North
+
+### [Man critically wounded in River North shooting; 2nd victim shot in the neighborhood this weekend](https://cwbchicago.com/2024/10/man-critically-wounded-in-river-north-shooting-2nd-victim-shot-in-the-neighborhod-this-weekend.html "Man critically wounded in River North shooting; 2nd victim shot in the neighborhood this weekend")
+
+[October 6, 2024 5:30 AM](https://cwbchicago.com/2024/10)
+
+A man is in critical condition after being shot while riding in a car in River North overnight. It is the second shooting of the weekend in the downtown neighborhood. The earlier victim died.[](https://cwbchicago.com/2024/10/man-critically-wounded-in-river-north-shooting-2nd-victim-shot-in-the-neighborhod-this-weekend.html "Man critically wounded in River North shooting; 2nd victim shot in the neighborhood this weekend")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Iain-Johnston-and-Kwame-Raoul-326x245.jpg)](https://cwbchicago.com/2024/10/state-lawyers-apologize-to-federal-judge-for-linking-his-gun-ruling-to-cta-mass-murder.html "State lawyers apologize to federal judge for linking his gun ruling to CTA quadruple murder")
+
+CTA
+
+### [State lawyers apologize to federal judge for linking his gun ruling to CTA quadruple murder](https://cwbchicago.com/2024/10/state-lawyers-apologize-to-federal-judge-for-linking-his-gun-ruling-to-cta-mass-murder.html "State lawyers apologize to federal judge for linking his gun ruling to CTA quadruple murder")
+
+[October 5, 2024 6:06 PM](https://cwbchicago.com/2024/10)
+
+The Illinois Attorney General’s office has apologized to a federal judge after implying his ruling against the state’s mass transit concealed carry ban has “safety implications.”[](https://cwbchicago.com/2024/10/state-lawyers-apologize-to-federal-judge-for-linking-his-gun-ruling-to-cta-mass-murder.html "State lawyers apologize to federal judge for linking his gun ruling to CTA quadruple murder")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/2024.10.04-Hamlin-Park-041A-frame-326x245.jpg)](https://cwbchicago.com/2024/10/hamlin-park-shooting-is-linked-to-local-high-school-escalating-gang-conflict.html "Hamlin Park shooting is linked to local high school, escalating gang conflict")
 
 North Center
@@ -252,26 +272,6 @@ North Center
 [October 5, 2024 3:19 PM](https://cwbchicago.com/2024/10)
 
 Officials are beefing up security at a North Side high school after a gang-related shooting left a 15-year-old boy injured at Hamlin Park on Friday afternoon. The shooting, a source said, is part of escalating tensions between the Maniac Latin Disciples and Insane Deuces street gangs.[](https://cwbchicago.com/2024/10/hamlin-park-shooting-is-linked-to-local-high-school-escalating-gang-conflict.html "Hamlin Park shooting is linked to local high school, escalating gang conflict")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/JH-456143-suspect-veh-326x245.jpg)](https://cwbchicago.com/2024/10/hit-and-run-driver-killed-pedestrian-overnight-cops-say.html "Hit-and-run driver killed pedestrian overnight, cops say")
-
-East Garfield Park
-
-### [Hit-and-run driver killed pedestrian overnight, cops say](https://cwbchicago.com/2024/10/hit-and-run-driver-killed-pedestrian-overnight-cops-say.html "Hit-and-run driver killed pedestrian overnight, cops say")
-
-[October 5, 2024 9:14 AM](https://cwbchicago.com/2024/10)
-
-Police need some help as they investigate a hit-and-run crash that killed a pedestrian in East Garfield Park overnight.[](https://cwbchicago.com/2024/10/hit-and-run-driver-killed-pedestrian-overnight-cops-say.html "Hit-and-run driver killed pedestrian overnight, cops say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Terrence-Robinson-326x245.jpg)](https://cwbchicago.com/2024/10/man-accused-of-shooting-at-repo-man-on-chicago-expressway.html "Man accused of shooting at repo man on Chicago expressway")
-
-Riverdale
-
-### [Man accused of shooting at repo man on Chicago expressway](https://cwbchicago.com/2024/10/man-accused-of-shooting-at-repo-man-on-chicago-expressway.html "Man accused of shooting at repo man on Chicago expressway")
-
-[October 5, 2024 8:41 AM](https://cwbchicago.com/2024/10)
-
-Prosecutors have charged a man with shooting at a repo man’s tow truck as they traveled on a Far South Side expressway earlier this year.[](https://cwbchicago.com/2024/10/man-accused-of-shooting-at-repo-man-on-chicago-expressway.html "Man accused of shooting at repo man on Chicago expressway")
 
 Search
 
@@ -360,6 +360,7 @@ Thank you.
 * [Portage Park](https://cwbchicago.com/category/portage-park-2)
 * [Ravenswood](https://cwbchicago.com/category/ravenswood)
 * [River North](https://cwbchicago.com/category/near-north/river-north)
+* [River West](https://cwbchicago.com/category/west-town/river-west)
 * [Riverdale](https://cwbchicago.com/category/riverdale)
 * [Rogers Park](https://cwbchicago.com/category/rogers-park)
 * [Roscoe Village](https://cwbchicago.com/category/roscoe-village)
