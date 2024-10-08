@@ -133,17 +133,17 @@
 
 #### Latest news
 
+[![An external shot of Channel 4 headquarters](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/channel-42.jpg?width=1920&height=1085&quality=80)
+
+### Response to Channel 4 Corporation’s Statement of Media Content Policy 2023
+
+8 October 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/response-to-channel-4-corporations-statement-of-media-content-policy-2023/)
+
 [![App design for media literacy](/siteassets/resources/images/-news-centre/thumbnail-images/internet/ml-pledge-web.jpg?width=1920&height=1085&quality=80)
 
 ### Online services pledge to prioritise media literacy
 
 7 October 2024](https://www.ofcom.org.uk/media-use-and-attitudes/media-literacy/Online-services-pledge-to-prioritise-media-literacy/)
-
-[![Three people in a meeting room in conversation](/siteassets/resources/images/-news-centre/thumbnail-images/access-and-inclusion/three-people-in-a-meeting-room-in-conversation.jpg?width=1920&height=1085&quality=80)
-
-### Building our capabilities: Ofcom's first in-house online trial
-
-4 October 2024](https://www.ofcom.org.uk/phones-and-broadband/access-to-decent-broadband/building-our-capabilities-ofcoms-first-in-house-online-trial/)
 
 [![Holidaymaker looking at mobile phone](/siteassets/resources/images/-news-centre/body-images/2024/new-roaming-alerts-for-uk-holidaymakers/mobile-phone-holiday-hero-1336--560px.jpg?width=1920&height=1085&quality=80)
 
