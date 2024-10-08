@@ -241,14 +241,26 @@ If you have any questions regarding this Agreement, please contact Us by email a
 
 Last Update: Sept 13, 2019
 
+* * *
+
 [](https://www.mindbodygreen.com/)
 
-[About us](https://www.mindbodygreen.com/about)[Contact](https://www.mindbodygreen.com/contact)[Write for us](https://www.mindbodygreen.com/contribute)[Jobs](https://www.mindbodygreen.com/jobs)[Advertise](https://www.mindbodygreen.com/advertise)[Become an Affiliate](https://www.mindbodygreen.com/affiliates)[Collective](https://www.mindbodygreen.com/collective)
+Shop
+
+[Manage subscriptions & Orders](https://www.mindbodygreen.com/user/home)[Supplements+ Quiz](https://shop.mindbodygreen.com/pages/mindbodygreen-supplements-quiz)
+
+About
+
+[About us](https://www.mindbodygreen.com/about)[Contact](https://www.mindbodygreen.com/contact)[Become an Affiliate](https://www.mindbodygreen.com/affiliates)
+
+More
+
+[Collective](https://www.mindbodygreen.com/collective)[Write for us](https://www.mindbodygreen.com/contribute)[Jobs](https://www.mindbodygreen.com/jobs)[Advertise](https://www.mindbodygreen.com/advertise)
 
 [Instagram](https://www.instagram.com/mindbodygreen)[Facebook](https://www.facebook.com/mindbodygreen)[Twitter](https://twitter.com/mindbodygreen)[Pinterest](https://www.pinterest.com/mindbodygreen)[YouTube](https://www.youtube.com/mindbodygreen)
 
 © 2009 - 2024 mindbodygreen LLC. All rights reserved.
 
-\* These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.
+\*These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.
 
-[Terms of Sale](https://www.mindbodygreen.com/terms-of-sale)[Terms of Use](https://www.mindbodygreen.com/terms-of-use)[Disclaimer](https://www.mindbodygreen.com/disclaimer)[Privacy](https://www.mindbodygreen.com/privacy)[Data Collection](https://www.mindbodygreen.com/data-collection)[Accessibility](https://www.mindbodygreen.com/accessibility)[Editorial Process](https://www.mindbodygreen.com/editorial-process)
+[Terms of Sale](https://www.mindbodygreen.com/terms-of-sale)[Terms of Use](https://www.mindbodygreen.com/terms-of-use)[Disclaimer](https://www.mindbodygreen.com/disclaimer)[Privacy Policy](https://www.mindbodygreen.com/privacy)[Return Policy](https://www.mindbodygreen.com/https://mindbodygreen.zendesk.com/hc/en-us/articles/360044846131-What-is-your-return-policy-)[Accessibility](https://www.mindbodygreen.com/accessibility)[Ad Choices](https://www.mindbodygreen.com/privacy)[Data Collection](https://www.mindbodygreen.com/data-collection)[Editorial Process](https://www.mindbodygreen.com/editorial-process)
