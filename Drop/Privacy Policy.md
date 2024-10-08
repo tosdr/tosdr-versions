@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[The Wide World Artisan Keycap
+[Prime Time 2024
 
-Explore more Middle-earth™.
+Falling leaves, falling prices.
 
-SHOP 4 LOCATIONS
+Save up to 50%
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-the-lord-of-the-rings-the-wide-world-artisan-keycap)
+_keyboard\_arrow\_right_](https://drop.com/all-communities/drops/exclusive-deals)
 
 Free Standard Shipping in the US on orders over $99
 
