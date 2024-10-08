@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Everyone you will ever meet knows something you don't”
+“ I see little of more importance to the future of our country & our civilization than full recognition of the place of the artist”
 
-[Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye)
+[John F. Kennedy](https://en.wikipedia.org/wiki/John_F._Kennedy)
 
 [](https://www.adafruit.com/about)
 
