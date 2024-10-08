@@ -388,7 +388,7 @@ Reddit User Agreement
         * [Earn Policy](https://redditinc.com/sv-se/policies/earn-policy?hsLang=en)
             * [15 maj 2024](https://redditinc.com/sv-se/policies/reddit-premium-and-virtual-goods-agreement-may-15-2024-sv-se?hsLang=en)
             * [6 mars 2024](https://redditinc.com/sv-se/policies/reddit-premium-and-virtual-goods-agreement-march-6-2024-sv-se?hsLang=en)
-        * [Earn Terms](https://redditinc.com/sv-se/policies/contributor-terms?hsLang=en)
+        * [Earn Terms](https://redditinc.com/sv-se/policies/earn-terms?hsLang=en)
             * [15 maj 2024](https://redditinc.com/sv-se/policies/contributor-terms-sv-se-2?hsLang=en)
             * [6 mars 2024](https://redditinc.com/sv-se/policies/contributor-terms-sv-se?hsLang=en)
         * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
