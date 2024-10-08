@@ -178,4 +178,4 @@ F-Droid is powered by your donations!
 * [Statuses updated and a keyboard](https://f-droid.org/en/2024/09/26/twif.html) Sep 26, 2024
 * [TL;DR: News about 571 apps](https://f-droid.org/en/2024/09/19/twif.html) Sep 19, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-10-05, fdroid-website [2.274](https://gitlab.com/fdroid/fdroid-website/tree/a4a1bcbbf9)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-10-08, fdroid-website [2.274](https://gitlab.com/fdroid/fdroid-website/tree/a4a1bcbbf9)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
