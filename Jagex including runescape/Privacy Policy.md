@@ -434,6 +434,20 @@ We have set out below, in a table format, a description of all the ways We may u
 
 Note that We may process your Personal Data for more than one lawful ground depending on the specific purpose for which We are using your data.
 
+| Purpose/Activity | Type of data | Lawful basis for processing including basis of Legitimate Interest |
+| --- | --- | --- |
+| To register you as a new customer | * Identity<br>    <br>* Contact<br>    <br>* Technical<br>    <br>* Profile<br>    <br>* Usage | Performance of a Contract with you |
+| To process and deliver your order including:<br><br>* Manage payments, fees and charges<br>    <br>* Obtain consent for marketing activities performed by third parties | * Identity<br>    <br>* Contact<br>    <br>* Transaction<br>    <br>* Marketing and Communications | * Performance of a Contract with you<br>    <br>* Explicit Consent |
+| To manage Our relationship with you which will include:<br><br>* Notifying you about changes to Our terms or privacy policy<br>    <br>* Asking you to leave a review or take a survey | * Identity<br>    <br>* Contact<br>    <br>* Profile<br>    <br>* Marketing and Communications | * Performance of a Contract with you<br>    <br>* Necessary to Comply With a Legal Obligation<br>    <br>* Necessary for Our Legitimate Interests (to keep Our records updated and to study how customers use Our products/services) |
+| To enable you to partake in a prize draw, competition or complete a survey | * Identity<br>    <br>* Contact<br>    <br>* Profile<br>    <br>* Usage<br>    <br>* Marketing and Communications | * Performance of a Contract with you<br>    <br>* Necessary for Our Legitimate Interests (to study how customers use Our products/services, to develop them and grow Our business) |
+| To administer and protect Our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) | * Identity<br>    <br>* Contact<br>    <br>* Technical<br>    <br>* Transaction<br>    <br>* Usage<br>    <br>* Profile Data | * Performance of Contract<br>    <br>* Necessary for Our Legitimate Interests (for running Our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)<br>    <br>* Necessary to Comply With a Legal Obligation<br>    <br>* Necessary for Our Legitimate Interests to detect or prevent unlawful acts |
+| To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising We serve to you | * Identity<br>    <br>* Contact<br>    <br>* Profile<br>    <br>* Usage<br>    <br>* Marketing and Communications<br>    <br>* Technical | * Explicit Consent where cookies, beacon technology, or similar software is used.<br>    <br>* In all other cases necessary for Our Legitimate Interests (to study how customers use Our products/services, to develop them, to grow Our business and to inform Our marketing strategy) |
+| To use data analytics to improve Our website, products/services, marketing, customer relationships and experiences | * Technical<br>    <br>* Usage<br>    <br>* Marketing and Communications<br>    <br>* Profile | * Explicit Consent where cookies, beacon technology, or similar software is used.<br>    <br>* in all other cases necessary for Our Legitimate Interests (to define types of customers for Our products and services, to keep Our website updated and relevant, to develop Our business and to inform Our marketing strategy) |
+| To make suggestions and recommendations to you about goods or services that may be of interest to you | * Identity<br>    <br>* Contact<br>    <br>* Technical<br>    <br>* Usage<br>    <br>* Profile | * Explicit Consent where cookies, beacon technology, or similar software is used.<br>    <br>* In all others cases necessary for Our Legitimate Interests (to develop Our products/services and grow Our business) |
+| To ask you to take part in research to improve Our game platform | * Identity<br>    <br>* Contact<br>    <br>* Transaction<br>    <br>* Technical<br>    <br>* Profile<br>    <br>* Usage | Necessary for Our Legitimate Interests (to develop Our products/services and grow Our business) |
+| To process your job application to work with Us | * Identity<br>    <br>* Contact | Performance of a Contract with you |
+| To facilitate a duty of care to you | * Identity<br>    <br>* Contact<br>    <br>* Transaction<br>    <br>* Profile<br>    <br>* Usage | Necessary for Our Legitimate Interest (to help you manage aspects of your activities when interacting with Our products/services) |
+
 #### 
 
 [](#marketing)
@@ -576,6 +590,11 @@ We may share your Personal Data with third parties set out below for the purpose
 10.0 INTERNATIONAL TRANSFERS
 
 Some of Our external third parties are based outside the UK and the European Economic Area (EEA), so their processing of your Personal Data will involve a transfer of data outside the UK and the EEA.
+
+| External Party Category | Transfer Purpose | Lawful Basis |
+| --- | --- | --- |
+| a) Technical partner | a) Provide technical processing services | a) Contract |
+| b) Marketing partner | b) Provide marketing services | b) Consent |
 
 Whenever We transfer your Personal Data out of the UK and the EEA, We ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
 
@@ -960,230 +979,3 @@ Last updated 1 month ago
 ![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)
 
 This website and its contents are copyright © 1999 - 2024 Jagex Ltd.
-
-| Purpose/Activity | Type of data | Lawful basis for processing including basis of Legitimate Interest |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
-
-| External Party Category | Transfer Purpose | Lawful Basis |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-
-To register you as a new customer
-
-* Identity
-    
-* Contact
-    
-* Technical
-    
-* Profile
-    
-* Usage
-    
-
-Performance of a Contract with you
-
-To process and deliver your order including:
-
-* Manage payments, fees and charges
-    
-* Obtain consent for marketing activities performed by third parties
-    
-
-* Identity
-    
-* Contact
-    
-* Transaction
-    
-* Marketing and Communications
-    
-
-* Performance of a Contract with you
-    
-* Explicit Consent
-    
-
-To manage Our relationship with you which will include:
-
-* Notifying you about changes to Our terms or privacy policy
-    
-* Asking you to leave a review or take a survey
-    
-
-* Identity
-    
-* Contact
-    
-* Profile
-    
-* Marketing and Communications
-    
-
-* Performance of a Contract with you
-    
-* Necessary to Comply With a Legal Obligation
-    
-* Necessary for Our Legitimate Interests (to keep Our records updated and to study how customers use Our products/services)
-    
-
-To enable you to partake in a prize draw, competition or complete a survey
-
-* Identity
-    
-* Contact
-    
-* Profile
-    
-* Usage
-    
-* Marketing and Communications
-    
-
-* Performance of a Contract with you
-    
-* Necessary for Our Legitimate Interests (to study how customers use Our products/services, to develop them and grow Our business)
-    
-
-To administer and protect Our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data)
-
-* Identity
-    
-* Contact
-    
-* Technical
-    
-* Transaction
-    
-* Usage
-    
-* Profile Data
-    
-
-* Performance of Contract
-    
-* Necessary for Our Legitimate Interests (for running Our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
-    
-* Necessary to Comply With a Legal Obligation
-    
-* Necessary for Our Legitimate Interests to detect or prevent unlawful acts
-    
-
-To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising We serve to you
-
-* Identity
-    
-* Contact
-    
-* Profile
-    
-* Usage
-    
-* Marketing and Communications
-    
-* Technical
-    
-
-* Explicit Consent where cookies, beacon technology, or similar software is used.
-    
-* In all other cases necessary for Our Legitimate Interests (to study how customers use Our products/services, to develop them, to grow Our business and to inform Our marketing strategy)
-    
-
-To use data analytics to improve Our website, products/services, marketing, customer relationships and experiences
-
-* Technical
-    
-* Usage
-    
-* Marketing and Communications
-    
-* Profile
-    
-
-* Explicit Consent where cookies, beacon technology, or similar software is used.
-    
-* in all other cases necessary for Our Legitimate Interests (to define types of customers for Our products and services, to keep Our website updated and relevant, to develop Our business and to inform Our marketing strategy)
-    
-
-To make suggestions and recommendations to you about goods or services that may be of interest to you
-
-* Identity
-    
-* Contact
-    
-* Technical
-    
-* Usage
-    
-* Profile
-    
-
-* Explicit Consent where cookies, beacon technology, or similar software is used.
-    
-* In all others cases necessary for Our Legitimate Interests (to develop Our products/services and grow Our business)
-    
-
-To ask you to take part in research to improve Our game platform
-
-* Identity
-    
-* Contact
-    
-* Transaction
-    
-* Technical
-    
-* Profile
-    
-* Usage
-    
-
-Necessary for Our Legitimate Interests (to develop Our products/services and grow Our business)
-
-To process your job application to work with Us
-
-* Identity
-    
-* Contact
-    
-
-Performance of a Contract with you
-
-To facilitate a duty of care to you
-
-* Identity
-    
-* Contact
-    
-* Transaction
-    
-* Profile
-    
-* Usage
-    
-
-Necessary for Our Legitimate Interest (to help you manage aspects of your activities when interacting with Our products/services)
-
-a) Technical partner
-
-a) Provide technical processing services
-
-a) Contract
-
-b) Marketing partner
-
-b) Provide marketing services
-
-b) Consent
