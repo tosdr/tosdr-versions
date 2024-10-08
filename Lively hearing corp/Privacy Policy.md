@@ -1,5 +1,11 @@
 You need to enable JavaScript to run Jabra Enhance.
 
+Get $150 off, right to your inbox!
+
+Get $150 off, right to your inbox!
+
+Get $150 off, right to your inbox!
+
 The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
 
 The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/product/enhanceselect500)
