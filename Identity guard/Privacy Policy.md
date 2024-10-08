@@ -415,7 +415,17 @@ Corporate Responsibility
 
 [support@aura.com](mailto:support@aura.com)[833.552.2123](tel:+18335522123)
 
-[About](https://www.identityguard.com/about)[Newsroom](https://www.identityguard.com/press)[Careers](https://www.identityguard.com/careers)
+About
+
+![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e1d2cc6d58e9c333b6f_plus.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/628a3e438b652b3e2361fce0_minus.svg)
+
+[About Aura
+
+![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/about)[Aura Reviews
+
+![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/reviews)
+
+[Newsroom](https://www.identityguard.com/press)[Careers](https://www.identityguard.com/careers)
 
 Partner With Us
 
