@@ -52,14 +52,17 @@ Connexion
 
 * [Mieux manger](https://www.marmiton.org/mieux-cuisiner/mieux-manger-tp125264.html)
 * [![Les Jours Les Plus Food
-    ](https://assets.afcdn.com/recipe/20240927/154289_origin.svg)
+    ](https://assets.afcdn.com/recipe/20241008/154532_origin.svg)
     
     Les Jours Les Plus Food](https://www.marmiton.org/dossier-les-jours-les-plus-food)
 * [![Petit-déj gourmand
-    ](https://assets.afcdn.com/recipe/20240930/154361_origin.png)
+    ](https://assets.afcdn.com/recipe/20241008/154533_origin.svg)
     
-    Petit-déj gourmand](https://www.marmiton.org/dossier-petit-dejeuner-et-brunch)
-* [Actus](https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html)
+    Petit-déj gourmand](https://www.marmiton.org/dossier-petit-dejeuner-et-brunch) 
+* [![Actus
+    ](https://assets.afcdn.com/recipe/20241008/154531_origin.svg)
+    
+    Actus](https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html) 
 
 [Accueil](https://www.marmiton.org/) / [Aide](https://www.marmiton.org/aide-sc27.html) / POLITIQUE DE PROTECTION DES DONNÉÉS PERSONNELLES / PRIVACY POLICY
 
