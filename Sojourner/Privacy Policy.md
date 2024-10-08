@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-69d0aeecdfa8738b338c246151d54710
+cddbfb56b1481115f694ac7f11e5eeae
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![20 mm amber glass flat oval beads](https://www.sojourner.biz/images/cache/glass/GL0041.200.jpg)](https://www.sojourner.biz/beads/glass/20-mm-amber-glass-flat-oval-beads.html "20 mm amber glass flat oval beads")
+[![8 mm rounded white potato pearls](https://www.sojourner.biz/images/cache/pearls/PE0056.200.jpg)](https://www.sojourner.biz/beads/pearls/8-mm-rounded-white-potato-pearls.html "8 mm rounded white potato pearls")
 
-#### [20 mm amber glass flat oval beads](https://www.sojourner.biz/beads/glass/20-mm-amber-glass-flat-oval-beads.html "20 mm amber glass flat oval beads")
+#### [8 mm rounded white potato pearls](https://www.sojourner.biz/beads/pearls/8-mm-rounded-white-potato-pearls.html "8 mm rounded white potato pearls")
 
-$12.00
+$50.00
 
 ### Best Sellers
 
