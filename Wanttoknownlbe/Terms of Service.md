@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/het-grote-complot-tegen-de-vrijheid/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/ben-jij-geboren-voor-1978/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
