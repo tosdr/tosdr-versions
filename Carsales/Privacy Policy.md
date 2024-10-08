@@ -84,25 +84,24 @@
     * [Tesla](https://www.carsales.com.au/tesla/)
     * [Toyota](https://www.carsales.com.au/toyota/)
     
-* [New car showroom](https://www.carsales.com.au/new-cars/)
+* [Showroom](https://www.carsales.com.au/research/showroom/)
     
-    * [Brand new cars](https://www.carsales.com.au/new-cars/)
-    * [New car deals](https://www.carsales.com.au/new-cars/deals/)
-    * [New electric cars](https://www.carsales.com.au/new-cars/electric-lifestyles/)
+    * [Showroom](https://www.carsales.com.au/research/showroom/)
+    * [Electric cars](https://www.carsales.com.au/research/electric-lifestyle/)
     * [Certified pre-owned](https://www.carsales.com.au/new-cars/certified-programs/)
     * [New car calendar](https://www.carsales.com.au/editorial/details/new-car-calendar-11034/)
     
     ##### Popular body types
     
-    * [Cab Chassis](https://www.carsales.com.au/new-cars/cab-chassis/)
-    * [Convertible](https://www.carsales.com.au/new-cars/convertible/)
-    * [Coupe](https://www.carsales.com.au/new-cars/coupe/)
-    * [Hatch](https://www.carsales.com.au/new-cars/hatch/)
-    * [Sedan](https://www.carsales.com.au/new-cars/sedan/)
-    * [SUV](https://www.carsales.com.au/new-cars/suv/)
-    * [Ute](https://www.carsales.com.au/new-cars/ute/)
-    * [Van](https://www.carsales.com.au/new-cars/van/)
-    * [Wagon](https://www.carsales.com.au/new-cars/wagon/)
+    * [Cab Chassis](https://www.carsales.com.au/research/cab-chassis-bodytype/)
+    * [Convertible](https://www.carsales.com.au/research/convertible-bodytype/)
+    * [Coupe](https://www.carsales.com.au/research/coupe-bodytype/)
+    * [Hatch](https://www.carsales.com.au/research/hatch-bodytype/)
+    * [Sedan](https://www.carsales.com.au/research/sedan-bodytype/)
+    * [SUV](https://www.carsales.com.au/research/suv-bodytype/)
+    * [Ute](https://www.carsales.com.au/research/ute-bodytype/)
+    * [Van](https://www.carsales.com.au/research/van-bodytype/)
+    * [Wagon](https://www.carsales.com.au/research/wagon-bodytype/)
     
 * [Value my car](https://www.carsales.com.au/car-valuations/)
 
