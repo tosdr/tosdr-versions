@@ -2,9 +2,9 @@
 
 ### Neu?
 
-![Bergfreund Max](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-max.png)
+![Bergfreund Hannes](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannes.png)
 
-Bergfreund Max
+Bergfreund Hannes
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -641,7 +641,7 @@ Wenn Sie sich für ein persönliches Kundenkonto registrieren, verarbeiten wir d
 
 Als registrierter Kunde verwenden wir Ihre unter Ziffer 2.6.1. aufgeführten Daten, um ihnen auf sie zugeschnittene Angebote und Produktempfehlungen anzubieten. Hierzu erhalten sie von uns regelmäßig E-Mail- und Postnachrichten (“Werbung”). Näheres zum Thema Werbung finden Sie unter Punkt. 2.6.
 
-Um unsere werblichen Informationen personalisiert auf ihre Interessen abzustimmen und ihnen im Rahmen unserer Google Ads und Facebook Werbeaktivitäten möglichst relevante Informationen anzuzeigen, übermitteln wir mit ihrer gesonderten ausdrücklichen Einwilligung zudem ihre pseudonymisierte E-Mail-Adresse an Google Ads und Facebook, um ihnen individuelle Angebote zu unterbreiten (“Customer-Match”). Wenn sie nicht bei Google oder Facebook registriert sind, werden ihre Daten nicht übermittelt und die Anbieter können nicht auf ihre Daten zugreifen. Weitere Informationen finden sie unten in unseren Hinweisen zur Anwendung von Google Ads (Punkt 4.2.5.) und in unseren Hinweisen zur Facebook- Fanpage (Punkt 5.2.)
+Um unsere werblichen Informationen personalisiert auf ihre Interessen abzustimmen und ihnen im Rahmen unserer Google Ads und Facebook Werbeaktivitäten möglichst relevante Informationen anzuzeigen, übermitteln wir mit ihrer gesonderten ausdrücklichen Einwilligung zudem ihre pseudonymisierte E-Mail-Adresse an Google Ads und Facebook, um ihnen individuelle Angebote zu unterbreiten (“Customer - Match”). Wenn sie nicht bei Google oder Facebook registriert sind, werden ihre Daten nicht übermittelt und die Anbieter können nicht auf ihre Daten zugreifen. Weitere Informationen finden sie unten in unseren Hinweisen zur Anwendung von Google Ads (Punkt 4.2.5.) und in unseren Hinweisen zur Facebook- Fanpage (Punkt 5.2.)
 
 Rechtsgrundlage für die Verarbeitung Ihrer Daten bei Eröffnung eines Kundenkontos ist zum einen unser berechtigtes Interesse nach Art. 6 (1) lit. f DSGVO unsere Dienste und Serviceleistungen innerhalb des Kundenkontos für Sie zu erbringen. Dient die Eröffnung und Nutzung des Kundenkontos zudem der Begründung und Erfüllung eines Vertragsverhältnisses, ist die Rechtsgrundlage zudem Art. 6 (1) lit. b DSGVO. Die Verarbeitung Ihrer Daten zu Werbezwecke erfolgt auf Grundlage ihrer ausdrücklichen Einwilligung nach Art. 6 (1) lit. a DSGVO.
 
@@ -913,7 +913,7 @@ Weitere Informationen zu Onlyfy finden Sie [hier](https://onlyfy.com/de/datensch
 
 #### 3.2.5 Marktplätze
 
-Um unsere Produkte optimal zu vermarkten, bieten wir einen Teil unseres Sortiments auf Online-Marktplätzen (z.B. Galaxus und Amazon) zum Kauf an. Wenn Sie eine Bestellung bei uns über einen Marktplatz ausgelöst haben, verarbeiten wir ihre Bestelldaten (s. Punkt 2.2), die wir von den Marktplatzbetreibern übermittelt bekommen, zur Abwicklung der Bestellung und zur Lieferung der bestellten Waren. Außerdem verarbeiten, je nach der von Ihnen ausgewählten Zahlungsart, entweder wir oder der Marktplatzbetreiber die für die jeweilige Zahlungsart erforderlichen Zahlungsinformationen; zum Beispiel speichert der Marktplatzbetreiber Ihre Kreditkartennummer, Paypal-Kontoangaben etc., wenn Sie diese als Zahlungsmittel dort hinterlegt haben.
+Um unsere Produkte optimal zu vermarkten, bieten wir einen Teil unseres Sortiments auf Online – Marktplätzen (z.B. Galaxus und Amazon) zum Kauf an. Wenn Sie eine Bestellung bei uns über einen Marktplatz ausgelöst haben, verarbeiten wir ihre Bestelldaten (s. Punkt 2.2), die wir von den Marktplatzbetreibern übermittelt bekommen, zur Abwicklung der Bestellung und zur Lieferung der bestellten Waren. Außerdem verarbeiten, je nach der von Ihnen ausgewählten Zahlungsart, entweder wir oder der Marktplatzbetreiber die für die jeweilige Zahlungsart erforderlichen Zahlungsinformationen; zum Beispiel speichert der Marktplatzbetreiber Ihre Kreditkartennummer, Paypal-Kontoangaben etc., wenn Sie diese als Zahlungsmittel dort hinterlegt haben.
 
 Wenn es für die Erfüllung des Kaufvertrages erforderlich ist, können wir Ihre Kontaktdaten von den Marktplatzbetreibern erhalten, um Sie zu kontaktieren. Ihre Kontaktdaten werden dabei zu keinen anderen Zwecken verarbeitet.
 
@@ -1140,9 +1140,9 @@ Von Zeit zu Zeit ist es erforderlich, den Inhalt der vorliegenden Datenschutzhin
 
 Stand: Juli 2024
 
-![Bergfreund Matthias - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-matthias.png) Bergfreund Matthias - Geschäftsführung
+![Bergfreundin Johanna - Nachhaltigkeitsmanagement](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johanna.png) Bergfreundin Johanna - Nachhaltigkeitsmanagement
 
-"Wir alle müssen mehr Verantwortung übernehmen, damit die Natur uns erhalten bleibt."
+"Ich suche nach kleinen und großen Ideen, wie die Bergfreunde nachhaltiger werden können."
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -1150,11 +1150,11 @@ Stand: Juli 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43723 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43798 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.723 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.798 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
