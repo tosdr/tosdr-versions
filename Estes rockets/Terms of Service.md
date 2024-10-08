@@ -127,6 +127,7 @@ Check Out
         * [Recovery Wadding](https://estesrockets.com/collections/recovery-wadding)
         * [Starters](https://estesrockets.com/collections/starters)
         
+    * [Gift Cards](https://estesrockets.com/products/gift-card)
     
 * [Apparel](https://estesrockets.com/collections/apparel)
 * [Rocket Rewards Deals](https://estesrockets.com/collections/rocket-rewards-deals)
@@ -233,6 +234,7 @@ Check Out
         * [Recovery Wadding](https://estesrockets.com/collections/recovery-wadding)
         * [Starters](https://estesrockets.com/collections/starters)
         
+    * [Gift Cards](https://estesrockets.com/products/gift-card)
     
 * [Apparel](https://estesrockets.com/collections/apparel)
 * [Rocket Rewards Deals](https://estesrockets.com/collections/rocket-rewards-deals)
