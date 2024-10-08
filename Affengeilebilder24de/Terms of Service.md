@@ -4,7 +4,7 @@ Zurück
 
 FOLGE UNSEREM WHATSAPP-KANAL und verpasse keine Neuigkeiten und Rabattaktionen mehr
 
-SUMMER SALE: spare bis zu 20% mit dem >>Code: SUMMER20<< (MBW 80€) + kostenloser Versand
+END-OF-SUMMER SALE: spare satte 20% auf unsere Poster- und Leinwandbilder
 
 Weiter
 
