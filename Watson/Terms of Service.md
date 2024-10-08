@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)15°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)13°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 
 Thèmes du moment
 
-* [Rugby](https://www.watson.ch/fr/rugby/)
 * [France](https://www.watson.ch/fr/france/)
+* [Rugby](https://www.watson.ch/fr/rugby/)
 * [Russie](https://www.watson.ch/fr/russie/)
+* [Journalisme](https://www.watson.ch/fr/journalisme/)
 * [Travail](https://www.watson.ch/fr/travail/)
 * [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
-* [Valais](https://www.watson.ch/fr/valais/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [Santé](https://www.watson.ch/fr/sante/)
 * [Musique](https://www.watson.ch/fr/musique/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Kamala Harris](https://www.watson.ch/fr/kamala-harris/)
 * [Espagne](https://www.watson.ch/fr/espagne/)
 * [Rap](https://www.watson.ch/fr/rap/)
 * [Ski](https://www.watson.ch/fr/ski/)
-* [Police](https://www.watson.ch/fr/police/)
-* [Argent](https://www.watson.ch/fr/argent/)
-* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
+* [Technologie](https://www.watson.ch/fr/technologie/)
 * [Météo](https://www.watson.ch/fr/meteo/)
+* [Télévision](https://www.watson.ch/fr/television/)
+* [Argent](https://www.watson.ch/fr/argent/)
+* [mort](https://www.watson.ch/fr/mort/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [People](https://www.watson.ch/fr/people/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
