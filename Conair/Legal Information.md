@@ -52,7 +52,6 @@ https://www.conair.com/cart?lang=en\_US
         * [Cordless](https://www.conair.com/hair-cordless?lang=en_US)
         * [Hot Rollers](https://www.conair.com/hot-rollers?lang=en_US)
         * [Wavers](https://www.conair.com/wavers?lang=en_US)
-        * [Hair Jeweler](https://www.conair.com/hair-jeweler?lang=en_US)
     
     * [Hair Brushes](https://www.conair.com/hair-brushes?lang=en_US)
         --------------------------------------------------------------
@@ -96,7 +95,6 @@ https://www.conair.com/cart?lang=en\_US
         * [Cordless](https://www.conair.com/hair-cordless?lang=en_US)
         * [Hot Rollers](https://www.conair.com/hot-rollers?lang=en_US)
         * [Wavers](https://www.conair.com/wavers?lang=en_US)
-        * [Hair Jeweler](https://www.conair.com/hair-jeweler?lang=en_US)
     * [Hair Brushes](https://www.conair.com/hair-brushes?lang=en_US)
         
         * [Detangle Hair Brushes](https://www.conair.com/detangle?lang=en_US)
