@@ -1,17 +1,50 @@
-Privacy Policy
---------------
+[![Privacy Policy](https://leanpub.com/assets/generic-book-cover-e79aac21fcafdb25fb27509beb68df70.png)](https://leanpub.com/privacypolicy)
 
-_This Privacy Policy is effective as of April 21, 2010, and was last updated on July 24, 2023. This policy may be updated from time to time, and we recommend users check it regularly._
+Privacy Policy
+
+Ruboss Technology Corporation
+
+[Buy on Leanpub](https://leanpub.com/privacypolicy)
+
+* * *
+
+Table of Contents
+-----------------
+
+* [Privacy Policy](#privacy-policy)
+    * [Privacy Policy Overview](#privacy-policy-overview)
+    * [Categories of Information We May Process](#categories-of-information-we-may-process)
+    * [Sensitive Personal Information](#sensitive-personal-information)
+    * [How We Collect or Create Information](#how-we-collect-or-create-information)
+    * [Purposes for Which We May Process Your Information](#purposes-for-which-we-may-process-your-information)
+    * [Direct Marketing](#direct-marketing)
+    * [Cookies and Online Behavioral Advertising](#cookies-and-online-behavioral-advertising)
+    * [What is the Lawful Basis for Processing Personal Information](#what-is-the-lawful-basis-for-processing-personal-information)
+    * [User Information Disclosure](#user-information-disclosure)
+    * [International Transfers of Information](#international-transfers-of-information)
+    * [Data Security](#data-security)
+    * [Data Accuracy](#data-accuracy)
+    * [Data Minimization](#data-minimization)
+    * [Data Retention](#data-retention)
+    * [Changing Your Preferences](#changing-your-preferences)
+    * [Terms of Service](#terms-of-service)
+    * [Contact Details](#contact-details)
+    * [How this Privacy Policy May Change](#how-this-privacy-policy-may-change)
+    * [List of Third-Party Services with Whom Personal Information May Be Shared](#list-of-third-party-services-with-whom-personal-information-may-be-shared)
+
+Privacy Policy
+==============
+
+_This Privacy Policy is effective as of April 21, 2010, and was last updated on October 7, 2024. This policy may be updated from time to time, and we recommend users check it regularly._
 
 If you have any questions about this Privacy Policy, please contact us at privacy@leanpub.com.
 
 **If you would like to close your Leanpub account, please go [here](http://help.leanpub.com/en/articles/452565-how-do-i-remove-my-account) for instructions.**
 
-### General Statement About Leanpub, Data, and Privacy
-
 Our primary goals in collecting personally identifiable information are to provide you with the products and services made available through the Site, including, but not limited to, provision of the Service, communicating with you, and and managing your registered user account, if you have one. In general, Leanpub collects Personal Data when you register with Leanpub, make a purchase (including free purchases), when you use Leanpub services and when you visit Leanpub pages or pages related to the Content posted on Leanpub pages. That information is used to fulfill your requests for products and services, to conduct research, to contact you, to contact those who purchase your Content and to improve Leanpub services generally.
 
-### 1\. Privacy Policy Overview
+Privacy Policy Overview
+=======================
 
 This Policy explains how we may Process your information.
 
@@ -21,11 +54,12 @@ Ruboss owns, operates, or provides access to, interactive websites, mobile and c
 
 This Privacy Policy applies to all information collected about you by Ruboss, regardless of how it is collected or stored, and describes, among other things, the types of information collected about you when you interact with the Services, how your information may be used, when your information may be disclosed, how you can control the use and disclosure of your information, and how your information is protected.
 
-Except as otherwise noted in this Privacy Policy, Ruboss is a data controller (as that term is used under the EU General Data Protection Regulation (“GDPR”)), which means that we decide how and why the information you provide to us is Processed. This Policy explains how we use the information you provide to us to be able to continue to provide the Services. Contact details are provided in Section 17 below.
+Except as otherwise noted in this Privacy Policy, Ruboss is a data controller (as that term is used under the EU General Data Protection Regulation (“GDPR”)), which means that we decide how and why the information you provide to us is Processed. This Policy explains how we use the information you provide to us to be able to continue to provide the Services. Contact details are provided in the Contact Details section below.
 
 This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.
 
-### 2\. Categories of Information We May Process
+Categories of Information We May Process
+========================================
 
 We may Process: your personal details (such as your name); demographic data (such as your age); your contact details (such as your address); records of your consents; purchase details; information about your interactions with our content or advertising; and any views or opinions you provide to us. We may also Process information about you from your use of our Services (such as the type of device you are using, the internet service provider, your IP address, etc.), including your interactions with content and advertising on the Services.
 
@@ -38,31 +72,51 @@ Ruboss is a company registered in the Province of British Columbia, Canada. Howe
 We may Process the following categories of Personal Information about you:
 
 * Personal details, including but not limited to the following: your name, your username or login details, your password, and areas or topics of interest.
+    
 * Demographic information, including but not limited to the following: age, date of birth, and language preferences.
+    
 * Your contact details, including but not limited to the following: postal address; telephone and/or mobile number; email address; and your public social media handles or profile(s).
+    
 * Consent records, including but not limited to the following: records of any consents you may have given, together with the date and time, means of consent and any related information (such as the subject matter of the consent).
+    
 * Purchase and payment details, including but not limited to the following: records of purchases and prices, subscription details, how much you choose to pay and which organizations participating in the Leanpub for Causes program (the “Cause” or “Causes”\_ you designate as recipients of your money, invoice records, payment records, billing address, payment method, cardholder or accountholder name, payment amount, and payment date.
+    
 * Views and opinions, including but not limited to the following: any views and opinions that you or other users choose to send to us, or publicly post about us on social media platforms or in the Services.
+    
 
 We may also collect other kinds of information from you or other sources, which we refer to as “Other Information” in this Policy, which may include but is not limited to:
 
 * Information about your use of the Services, such as usage data and statistical information, which may be aggregated.
+    
 * Browsing history including the websites or other services you visited before and after interacting with the Services.
+    
 * Searches for and interactions with e-commerce opportunities, such as offers contained in the Services
+    
 * Non-precise information about the approximate physical location (for example, at the city or zip code level) of a user’s computer or device derived from the IP address of such computer or device (“GeoIP Data”).
+    
 * Internet Protocol (“IP”) address, which is a unique string of numbers automatically assigned to your device whenever you access the Internet.
+    
 * Information collected through the use of cookies, Javascript, pixel tags, and other technologies, including information collected using such methods and technologies about (i) your visits to, and interaction and engagement with, the Services, content and ads on third party websites, applications, platforms and other media channels (“Channels”), and (ii) your interaction with emails including the content and ads therein (collectively, “Online Data”).
+    
 * Device type, settings and software used.
+    
 * Log files, which may include IP addresses, browser type, ISP referring/exit pages, operating system, date/time stamps and/or clickstream data, including any clicks on customized links.
+    
 * Web Beacons, which are electronic files that allow a website to count users who have visited that page or to access certain cookies.
+    
 * Pixel Tags, also known as clear GIFs, beacons, spotlight tags or web bugs, which are a method for passing information from the user’s computer to a third party website.
+    
 * Local Shared Objects, and Local Storage, such as HTML5.
+    
 * Embedded Scripts which are programming codes designed to collect information about your interactions with the Service by temporarily downloading onto your device from our web server or a third party with whom we work. Embedded scripts are only active while you are connected to the Service and are deleted or deactivated thereafter.
+    
 * Mobile analytics to understand the functionality of our mobile applications on your phone.
+    
 
 Under certain circumstances and depending on applicable law, some of this Other Information may constitute Personal Information. Personal Information together with Other Information is hereinafter referred to as “User Information”.
 
-### 3\. Sensitive Personal Information
+Sensitive Personal Information
+==============================
 
 We do not seek to collect or otherwise Process your Sensitive Personal Information. Where we need to Process your Sensitive Personal Information for a legitimate purpose, we do so in accordance with applicable law. The Services are not intended for use by children.
 
@@ -71,15 +125,20 @@ We do not collect or otherwise Process Personal Information about race or ethnic
 Where it becomes necessary to Process Sensitive Personal Information under GDPR or any other regulation, we would rely on one of the following legal bases:
 
 * Compliance with applicable law: We may Process your Sensitive Personal Information where the Processing is required or permitted by applicable law;
+    
 * Detection and prevention of crime: We may Process your Sensitive Personal Information where the Processing is necessary for the detection or prevention of crime (including the prevention of fraud);
+    
 * Establishment, exercise or defense of legal rights: We may Process your Sensitive Personal Information where the Processing is necessary for the establishment, exercise or defense of legal rights; or
+    
 * Consent: We may Process your Sensitive Personal Information where we have, in accordance with applicable law, obtained your prior, express consent prior to Processing your Sensitive Personal Information.
+    
 
-For the details of the Minimum Age Requirements for the Site, please refer to section 2.7 of our Terms of Service.
+For the details of the Minimum Age Requirements for the Site, please refer to the Minimum Age Requirements section of our Terms of Service.
 
 Ruboss reserves the right to refuse service to anyone at any time without notice for any reason.
 
-### 4\. How We Collect or Create Information
+How We Collect or Create Information
+====================================
 
 We may collect or obtain User Information about you: directly from you (such as when you contact us); in the course of our relationship with you (for example, if you make a purchase, free or therwise); when you make your Personal Information public (for example, if you make a public post about us on social media); when you download, install, or use any of our Services; when you visit our Services; when you register to use any part of the Services; or when you interact with any third party content or advertising on the Services.
 
@@ -90,44 +149,66 @@ Ruboss is not responsible for Personal Information you volunteer about yourself 
 Collection of User Information: We may collect User Information about you from the following sources:
 
 * Data you provide: We may obtain your Personal Information when you provide it to us across our Services (for exmaple, where you sign up for emails or newsletters; register for site membership or create a profile or account on any part of the Services; enter a promotional giveaway; participate in surveys; contact us via email, telephone or by any other means; or purchase a subscription, etc.).
+    
 * Business relationship data: We may collect or obtain your Personal Information in the ordinary course of our relationship with you (for example, if you make a purchase from us).
+    
 * Data you make public: We may collect or obtain your Personal Information that you clearly choose to make public, including via social media (for example, we may collect information from your social media profile(s) if you make a public post about us).
+    
 * Service data: We may collect or obtain your Personal Information when you visit, download, use or register to use any part of our Service.
+    
 * Content and advertising information: If you choose to interact with any third party content or advertising on the Channels, we may receive User Information about you from the relevant third party.
+    
 * Third party information: We may collect or obtain your Personal Information from service providers and third parties who provide it to us and combine such information with information we have collected about you. This may include channels such as social network sites or services (such as Twitter, Facebook etc.). We may also obtain information about purchases you make from our billing processors (such as PayPal), including information about the Products you own on the Service. To the extent we combine such third party sourced information with Personal Information we have collected about you on the Service, we will treat the combined information as Personal Information under this Privacy Policy.
+    
 
 Please note that Ruboss is not responsible for the information you volunteer about yourself in the discussions in certain public areas of the Services or information that you choose to make public in your member profile or other areas of the Services that allow users to upload or post content. We discourage users from posting such Personal Information in this fashion. You can change your publicly available information at any time via your profile page.
 
-To request removal of your Personal Information from these areas, please see Section 17 in this Privacy Policy for further details. In some cases, we may not be able to remove your Personal Information, in which case we will let you know we are unable to do so and why.
+To request removal of your Personal Information from these areas, please see the Contact Details section of this Privacy Policy for further details. In some cases, we may not be able to remove your Personal Information, in which case we will let you know we are unable to do so and why.
 
 This Privacy Policy does not cover the practices of third parties, including those that may disclose information to Ruboss. We are not responsible for the accuracy of any information provided by third parties or third party policies or practices.
 
 We may also create User Information about you, such as records of your interactions with us and details of your purchase history, for internal administrative purposes and analysis. We may also combine data you have provided to us with data obtained from third parties such as social networks.
 
-### 5\. Purposes for Which We May Process Your Information
+Purposes for Which We May Process Your Information
+==================================================
 
 We may Process User Information for the following purposes: providing the Services to you; communicating with you; providing advertising to you on the Channels; analyzing engagement with our audience; observing user engagement and purchase activity across the Service and Channels; marketing our services and offerings to current and prospective customers; managing our IT systems; financial management; conducting surveys; ensuring the security of our systems; conducting investigations where necessary; compliance with applicable law; and improving our Services.
 
 The purposes for which we may Process User Information, subject to applicable law, include:
 
-\-Provision of the Services to You: providing the Services to you from Ruboss or its partners including (i) offering of promotional giveaways, (ii) processing of your payment information for your purchases or subscriptions, (iii) management of your account, (iv) offering promotional and marketing information to you, and (v) customer support and relationship management.
-
+* Provision of the Services to You: providing the Services to you from Ruboss or its partners including (i) offering of promotional giveaways, (ii) processing of your payment information for your purchases or subscriptions, (iii) management of your account, (iv) offering promotional and marketing information to you, and (v) customer support and relationship management.
+    
 * Offering and Improving the Services: operating and managing the Services for you; providing personalized content to you; communicating and interacting with you via the Services; identifying issues with the Services and planning improvements to or creating new Services; and notifying you of changes to any of our Services.
+    
 * Surveys: engaging with you for the purposes of obtaining your views on our Services.
-* Communications: communicating with you via any means (including via email or social media) regarding information in which you may be interested, subject to ensuring that such communications are provided to you in compliance with applicable law; maintaining and updating your contact information where appropriate; and obtaining your prior, opt-in consent where required. We may provide direct marketing to you as set out in Section 6 below.
-* Advertising: providing advertising based on your interests and interactions with the Services and Channels, including using User Information to serve you advertisements on the Channels. For further information, please see Section 7 below.
+    
+* Communications: communicating with you via any means (including via email or social media) regarding information in which you may be interested, subject to ensuring that such communications are provided to you in compliance with applicable law; maintaining and updating your contact information where appropriate; and obtaining your prior, opt-in consent where required. We may provide direct marketing to you as set out in the Direct Marketing section below.
+    
+* Advertising: providing advertising based on your interests and interactions with the Services and Channels, including using User Information to serve you advertisements on the Channels. For further information, please see the Cookies and Online Behavioral Advertising section below.
+    
 * Audience Engagement: identification and development of audience engagement, advertising and promotional strategies on various platforms and channels, both within the Service and on Channels.
+    
 * User Engagement and Purchases: tracking purchase traffic and activity across the Service and on Channels, including review of your browsing history (if available); provision of analytics and measurement of cost of traffic against money being made.
+    
 * Fraud Prevention: Our Service may use third party fraud prevention software designed to prevent your credit card and other Personal Information from being used in a fraudulent purchase through the Service. Such software may work by analyzing user behavior and detecting patterns that indicate fraud, and may also involve a third party tracking your activity over time and over a network of sites.
+    
 * Marketing to Customers: We may market to current and prospective customers and their employees who have indicated an interest in doing business with, or have previously conducted business with, Ruboss in order to further generate and promote our business. Such efforts include sending marketing emails to drive the use of services offered by Ruboss.
+    
 * IT Administration: administration of Ruboss’s information technology systems; network and device administration; network and device security; implementing data security and information systems policies; compliance audits in relation to internal policies; identification and mitigation of fraudulent activity; and compliance with legal requirements.
+    
 * Security: electronic security measures (including monitoring of login records and access details) to help mitigate the risk of and provide the ability to identify and rectify a security incident.
+    
 * Financial Management: general business and financial management purposes, including: economic, financial and administrative management; planning and reporting; personnel development; sales; accounting; finance; corporate audit; and compliance with legal requirements
+    
 * Investigations: detecting, investigating and preventing breaches of policy, and criminal offences, in accordance with applicable law.
+    
 * Legal Proceedings: establishing, exercising and defending legal rights.
+    
 * Legal Compliance: Subject to applicable law, we reserve the right to release information concerning any user of Services when we have grounds to believe that the user is in violation of our Terms of Service or other published guidelines or has engaged in (or we have grounds to believe is engaging in) any illegal activity, and to release information in response to court and governmental orders, other requests from government entities, civil subpoenas, discovery requests and otherwise as required by law or regulatory obligations. We also may release information about users when we believe in good faith that such release is in the interest of protecting the rights, property, safety or security of Ruboss, any of our users or the public, or to respond to an emergency.
+    
 
-### 6\. Direct Marketing
+Direct Marketing
+================
 
 We may Process your User Information to contact you via email or other methods of communication to provide you with information regarding the Services that may be of interest to you. We may send information to you regarding the Services, upcoming promotions and other information that may be of interest to you, using the contact details that you have provided to us and always in compliance with applicable law.
 
@@ -135,7 +216,8 @@ You may unsubscribe from our newsletter lists at any time by following the unsub
 
 Please note that we automatically opt Users into receiving emails when an Author publishes a new version of their Product, and the Author chooses to send “Release Notes” to Users who have purchased the Product. Leanpub is committed to the Lean Publishing process, and we believe automatically opting Users in to receive such emails in their best interest, as it is useful for Users to know when a Product has been updated. You may opt out of these emails individually (for example, you can opt out of receiving these emails from a single book) or collectively (meaning you can opt out of all emails of this type by changing a single setting) in your account settings.
 
-### 7\. Cookies, Similar Technologies and Online Behavioral Advertising
+Cookies and Online Behavioral Advertising
+=========================================
 
 We may Process your User Information by placing or reading Cookies and similar technologies on the Services and Channels.
 
@@ -157,35 +239,51 @@ Certain third parties may collect information about you for Online Behavioral Ad
 
 These third parties may use Online Data as well as other User Information to send you OBA. For example, if you read an article about a particular subject on the Services, the third party may use cookies to later serve you an advertisement for a particular product or service related to the viewed article. These third party vendors may connect information about pages you visit on the Services with information about pages you visit on other Channels and show you advertising based on this combined information. These advertisements may appear when you are visiting a different section of the Services or on another Channel.
 
-The specific providers we use for OBA are subject to change. **Currently, we do NOT use any such services.** If we do, we will list them here or somewhere relevant on our Site. For more details about OBA and opting out, see Section 15 below.
+The specific providers we use for OBA are subject to change. **Currently, we do NOT use any such services.** If we do, we will list them here or somewhere relevant on our Site. For more details about OBA and opting out, see the Changing Your Preferences section below.
 
-### 8\. What is the Lawful Basis for Processing Personal Information
+What is the Lawful Basis for Processing Personal Information
+============================================================
 
 We may Process your User Information where: you have given your consent; the Processing is necessary for a contract between you and us; the Processing is required by applicable law; the Processing is necessary to protect the vital interests of any individual; or where we have a valid legitimate interest in the Processing.
 
 In Processing your User Information in connection with the purposes set out in this Policy, we may rely on one or more of the following legal bases, depending on the circumstances:
 
 * Consent: We may Process your User Information where we have obtained your prior, express consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way);
+    
 * Contractual necessity: We may Process your User Information where the Processing is necessary in connection with any contract that you may enter into with us;
+    
 * Compliance with applicable law: We may Process your User Information where the Processing is required by applicable law;
+    
 * Vital interests: We may Process your User Information where the Processing is necessary to protect the vital interests of any individual; or
+    
 * Legitimate interests: We may Process your User Information where we have a legitimate interest in carrying out the Processing for the purpose of managing, operating or promoting our business, and that legitimate interest is not overridden by your interests, fundamental rights, or freedoms.
+    
 
-### 9\. What Information We Disclose to Third Parties
+User Information Disclosure
+===========================
 
 We may disclose your User Information to: legal and regulatory authorities; our external advisors; parties who Process User Information on our behalf (“Processors”); any party as necessary in connection with legal proceedings; any party as necessary for investigating, detecting or preventing criminal offences; any purchaser of our business; and any third party providers of advertising, plugins or content used on the Services.
 
 We may disclose your User Information to other entities within the Company group, for legitimate business purposes (including operating the Services, and providing services to you), in accordance with applicable law. In addition, we may disclose your User Information to:
 
 * Legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation;
+    
 * Outside professional advisors (such as accountants, auditors, or lawyers), subject to binding contractual obligations of confidentiality;
-* Third party Processors (such as analytic providers, data centers, etc.), located anywhere in the world, subject to the requirements noted below in this Section 9;
+    
+* Third party Processors (such as analytic providers, data centers, etc.), located anywhere in the world, subject to the requirements noted below;
+    
 * Any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defense of legal rights;
+    
 * Any relevant party for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and the prevention of threats to public security;
+    
 * Any relevant third party acquirer(s), in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganization, dissolution or liquidation);
+    
 * Any relevant third party provider, where our Channels use third party advertising, plugins or content. If you choose to interact with any such advertising, plugins or content, information about your activities on the Channels to provide you targeted advertising based upon your interests may be shared with the relevant third party provider. If you click or tap on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria;
+    
 * Any sponsors of promotional giveaways. The registration data for such events is to be used by us as part of User Information, and may be shared with the sponsor and others, subject to this Policy and the sponsor’s privacy policy. We may also share your information with third party vendors involved in the administration of such events. For promotional giveaways, please read the official rules or Terms of Service carefully before you submit your information; and
+    
 * To third parties whose practices are not covered by this Privacy Policy (for example, third party providers of goods and services, marketing and advertising companies and agencies, analytics providers and retailers).
+    
 
 Certain functionalities on the Service may permit interactions that you initiate between the Service and certain third party services (“Third Party Features”). Examples of Third Party Features include “liking” or “sharing” content over social media platforms through our Service or linking your Ruboss account to a third party service, should we offer this functionality. If you use Third Party Features, both Ruboss and the third party may have access to certain information about you and your use of our Service and the third party service. For example, if you post information on a third party service that references our Service (such as by using a hashtag associated with Ruboss in a tweet or status update), your post may be used on or in connection with our Service or that third party service. We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein or any information third parties obtain through your use of Third Party Features. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
 
@@ -199,11 +297,12 @@ If we engage a third-party Processor to Process your User Information, the Proce
 
 The Services contain links to other sites or partners whose information practices may be different from ours. You should consult the privacy policy of these third parties to learn how your privacy is protected.
 
-### 10\. International Transfers of Information
+International Transfers of Information
+======================================
 
 We may transfer your Personal Information to recipients in other countries.
 
-Because of the international nature of our business, we may need to transfer your User Information within the Ruboss group of companies, and to third parties as noted in Section 9 above, in connection with the purposes set out in this Policy. For this reason, we may transfer your User Information to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located.
+Because of the international nature of our business, we may need to transfer your User Information within the Ruboss group of companies, and to third parties as noted in the User Information Disclosure section, in connection with the purposes set out in this Policy. For this reason, we may transfer your User Information to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located.
 
 Ruboss is a Canadian company and so may not participate in the E.U.-U.S. Privacy Shield Framework. However, Ruboss is committed to the principles upon which the framework is founded.
 
@@ -215,7 +314,8 @@ Where we transfer your Personal Information from the EEA to recipients located o
 
 Please note that when you transfer any Personal Information directly to a Company entity established outside the EEA, we are not responsible for that transfer of your Personal Information. We will nevertheless Process your Personal Information, from the point at which we receive the data, in accordance with the provisions of this Privacy Policy.
 
-### 11\. Data Security
+Data Security
+=============
 
 We implement appropriate technical and organizational security measures to protect your User Information. Please ensure that any Personal Information that you send to us is sent securely.
 
@@ -223,15 +323,18 @@ We have implemented appropriate technical and organizational security measures d
 
 Because the internet is an open system, the transmission of information via the internet is not completely secure. Although we will implement reasonable measures to protect your information, we cannot guarantee the security of your data transmitted to us using the internet. Any such transmission is at your own risk and you are responsible for ensuring that any Personal Information that you send to us is sent securely.
 
-### 12\. Data Accuracy
+Data Accuracy
+=============
 
 We take every reasonable step to ensure that your User Information that we Process is accurate and, where necessary, kept up to date, and any of your User Information that we Process that you inform us is inaccurate (having regard to the purposes for which they are Processed) is erased or rectified.
 
-### 13\. Data Minimization
+Data Minimization
+=================
 
 We take every reasonable step to ensure that your User Information that we Process is limited to the User Information reasonably necessary in connection with the purposes set out in this Policy or as required to provide you services or access to the Services.
 
-### 14\. Data Retention
+Data Retention
+==============
 
 We take every reasonable step to ensure that your User Information is only retained and Processed for as long as it is needed, for the purposes set out in this Policy, unless applicable law requires a longer retention period.
 
@@ -245,7 +348,8 @@ Furthermore, if you have made a Leanpub purchase (free and/or paid), and you req
 
 Except as may be set forth in this Privacy Policy, Online Data related to OBA is retained by Ruboss for not more than 180 days after which it shall expire, subject to certain conditions. However, the 180 day period may commence again if the same user subsequently visits or interacts with an ad, email, the Services or a Channel.
 
-### 15\. What Can I Do to Control My Information?
+Changing Your Preferences
+=========================
 
 You can directly take steps to change your preferences for newsletters and OBA as outlined in this section.
 
@@ -265,17 +369,19 @@ If we offer you the opportunity to link your Ruboss account with certain third p
 
 You may stop or restrict cookies and pixel tags on your computer or purge cookies from your browser by adjusting your web browser preferences. However, if you “turn off,” purge, or disable cookies or pixel tags, although you may still use the Services, you may not be able to use all of the features, functions, or services available on the Services.
 
-For California Residents: in accordance with the California Online Privacy Protection Act, we may collect Personal Information about your online activities when you use the Services. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ “do not track” signals. California’s “Shine the Light” law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any Personal Information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request or if you wish for us to refrain from gathering your Personal Information, please submit your request in writing to the contact details set out in Section 17 below.
+For California Residents: in accordance with the California Online Privacy Protection Act, we may collect Personal Information about your online activities when you use the Services. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ “do not track” signals. California’s “Shine the Light” law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any Personal Information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request or if you wish for us to refrain from gathering your Personal Information, please submit your request in writing to the contact details set out in the Contact Details section.
 
-For EU Residents: GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us (using the contact instructions in Section 17 below). If you are an EU resident and have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
+For EU Residents: GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us (using the contact instructions in the Contact Details section). If you are an EU resident and have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
 
-### 16\. Terms of Service
+Terms of Service
+================
 
 For more information concerning your use of the Services, please visit the Leanpub [Terms of Service](https://leanpub.com/terms), which are incorporated by reference into this Privacy Policy.
 
 We recommend that you review our Terms of Service regularly, in order to review any changes we might make from time to time.
 
-### 17\. Contact Details
+Contact Details
+===============
 
 If you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of User Information carried out by us, or on our behalf, please contact us by email at privacy@leanpub.com or write to us at the following address:
 
@@ -289,38 +395,62 @@ V8W 0B6
 
 If you are an EU resident, you may contact our Data Protection Officer at dpo@leanpub.com
 
-### 18\. How this Privacy Policy May Change
+How this Privacy Policy May Change
+==================================
 
 We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them. If we believe there is a significant change to this Privacy Policy or our data collection and use practices, we will indicate on our websites that our Privacy Policy has changed prior to the change becoming effective. The then-posted version of the Privacy Policy supersedes all prior versions. Your continued access to or use of any of the Services shall be deemed your acceptance of the Privacy Policy.
 
 We urge you to come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.
 
-### 19\. List of Third-Party Services with Whom Personal Information May Be Shared
+List of Third-Party Services with Whom Personal Information May Be Shared
+=========================================================================
 
 This is a list of third-party services we use in accordance with our legitimate interests, including internal administrative purposes. This list is subject to change and we recommend you revisit it from time to time. We have provided links so you can easily see what these services do and read the privacy policies they provide. You may need to find the policy page specific to your country or region.
 
 * [Airbrake](https://airbrake.io/): [Privacy Policy](https://airbrake.io/privacy)
+    
 * [Amazon Web Services](https://aws.amazon.com/): [Privacy Policy](https://aws.amazon.com/privacy)
+    
 * [Bitbucket](https://bitbucket.org/): [Privacy Policy](https://dr-wac.atlassian.com/legal/privacy-policy)
+    
 * [Clicky Analytics](https://clicky.com/): [Privacy Policy](https://clicky.com/terms/privacy)
+    
 * [Disqus](https://disqus.com/): [Privacy Policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy)
+    
 * [Dropbox](https://www.dropbox.com/): [Privacy Policy](https://www.dropbox.com/privacy)
+    
 * [GitHub](https://github.com/): [Privacy Policy](https://help.github.com/articles/github-privacy-statement)
+    
 * [Google Analytics](https://www.google.com/analytics): [Privacy Policy](https://policies.google.com/privacy)
+    
 * [G Suite (e.g. Gmail)](https://gsuite.google.com/): [Privacy Policy](https://policies.google.com/privacy)
+    
 * [Intercom](https://www.intercom.com/): [Privacy Policy](https://www.intercom.com/terms-and-policies#privacy)
+    
 * [MailChimp](https://mailchimp.com/): [Privacy Policy](https://mailchimp.com/legal/privacy)
+    
 * [OpenAI](https://openai.com/): [Privacy Policy](https://openai.com/privacy)
+    
 * [PagerDuty](https://www.pagerduty.com/): [Privacy Policy](https://www.pagerduty.com/privacy-policy)
+    
 * [Papertrail](https://papertrailapp.com/): [Privacy Policy](https://www.solarwinds.com/legal/privacy)
+    
 * [PayPal](https://www.paypal.com/): [Privacy Policy](https://www.paypal.com/ca/webapps/mpp/ua/privacy-full)
+    
 * [Postmark](https://postmarkapp.com/): [Privacy Policy](https://wildbit.com/privacy-policy)
+    
 * [Redis](https://redis.com/): [Privacy Policy](https://redis.com/legal/privacy-policy)
+    
 * [Shortcut](https://www.shortcut.com/): [Privacy Policy](https://www.shortcut.com/privacy)
+    
 * [Slack](https://slack.com/): [Privacy Policy](https://slack.com/privacy-policy)
+    
 * [Stripe](https://stripe.com/): [Privacy Policy](https://stripe.com/privacy)
+    
 * [Trello](https://trello.com/): [Privacy Policy](https://trello.com/privacy)
+    
 * [Wise](https://wise.com/): [Privacy Policy](https://wise.com/ca/legal/privacy-policy)
+    
 
 We will also share data with legal authorities and other relevant agencies where required for legitimate purposes, including compliance with the law and prevention of fraud or other legal activities.
 
@@ -332,7 +462,7 @@ We will also share data with legal authorities and other relevant agencies where
 * ##### Path
     
 * There are many paths, but the one you're on right now on Leanpub is:
-* Privacy
+* Privacypolicy › Read
 
 * ##### READERS
     
