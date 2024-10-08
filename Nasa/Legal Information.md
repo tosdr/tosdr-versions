@@ -269,7 +269,7 @@ article 5 days ago](https://science.nasa.gov/missions/webb/nasas-webb-reveals-un
 
 ### Mark Sonoda: Leading NASA’s Path to the Commercialization of Space
 
-article 6 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/mark-sonoda-leading-nasas-path-to-the-commercialization-of-space/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
+article 8 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/mark-sonoda-leading-nasas-path-to-the-commercialization-of-space/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
 
 3 min read
 
@@ -307,25 +307,25 @@ article 6 days ago](https://science.nasa.gov/missions/juice/nasas-instruments-ca
 
 ### Highlights
 
-[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
+[![NASA: New Insights into How Mars Became Uninhabitable](https://science.nasa.gov/wp-content/uploads/2024/09/mars-wet-lpi-16x9-1.jpg)
+
+5 min read
+
+### NASA: New Insights into How Mars Became Uninhabitable
+
+article 2 hours ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
 
 3 min read
 
 ### GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration
 
-article 46 mins ago](https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+article 3 hours ago](https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
 1 min read
 
 ### F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update
 
-article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)[![Gateway’s Habitation and Logistics Outpost (HALO) is seen standing vertically inside a Thales Alenia Space facility in Turin, Italy. The cylindrical metallic module is surrounded by a red steel frame. Thales Alenia Space is the subcontractor for Northrop Grumman, NASA's commercial partner developing HALO. Photo Credit: Thales Alenia Space.](https://www.nasa.gov/wp-content/uploads/2024/10/jsc2024e055348.jpg?w=1024)
-
-1 min read
-
-### Gateway Stands Tall for Stress Test
-
-article 4 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands-tall-for-stress-test/)
+article 5 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)
 
 ### Featured
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-ste
 
 ### Highlights
 
-[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
+[![NASA: New Insights into How Mars Became Uninhabitable](https://science.nasa.gov/wp-content/uploads/2024/09/mars-wet-lpi-16x9-1.jpg)
+
+5 min read
+
+### NASA: New Insights into How Mars Became Uninhabitable
+
+article 2 hours ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
 
 3 min read
 
 ### GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration
 
-article 46 mins ago](https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+article 3 hours ago](https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
 1 min read
 
 ### F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update
 
-article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)[![Priorities](https://science.nasa.gov/wp-content/uploads/2022/08/lunar-surface-large.jpg)
-
-1 min read
-
-### Priorities
-
-article 3 days ago](https://science.nasa.gov/lunar-science/priorities/)
+article 5 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)
 
 ### Highlights
 
@@ -395,25 +395,25 @@ article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### Highlights
 
-[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+[![Astronaut Kayla Barron checks out chile peppers growing in the station](https://www.nasa.gov/wp-content/uploads/2023/03/iss066e084293.jpg?w=1024)
+
+2 min read
+
+### Tech Today: Spraying for Food Safety
+
+article 1 hour ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-spraying-for-food-safety/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
 1 min read
 
 ### F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update
 
-article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)[![A woman sits in front of a large NASA spacecraft component. She is wearing a red cardigan over a black top and jeans.](https://www.nasa.gov/wp-content/uploads/2024/10/25353901-10115939623039544-5490675857966379566-n.jpg?w=720)
+article 5 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)[![A woman sits in front of a large NASA spacecraft component. She is wearing a red cardigan over a black top and jeans.](https://www.nasa.gov/wp-content/uploads/2024/10/25353901-10115939623039544-5490675857966379566-n.jpg?w=720)
 
 3 min read
 
 ### Meghan Daley: Shaping the Future of NASA’s Robotic Simulations 
 
-article 4 days ago](https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
-
-3 min read
-
-### How NASA Astronauts Vote from Space Aboard International Space Station 
-
-article 4 days ago](https://www.nasa.gov/general/how-nasa-astronauts-vote-from-space-aboard-international-space-station/)
+article 4 days ago](https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/)
 
 ### Featured
 
