@@ -53,9 +53,9 @@ MyAbandonware.com is hosted by OVH SAS - 2 rue Kellermann - 59100 Roubaix - Fran
 
 Follow Us!
 
-[8,800](https://www.facebook.com/myabandonware) [Like](https://www.facebook.com/myabandonware)
+[8,900](https://www.facebook.com/myabandonware) [Like](https://www.facebook.com/myabandonware)
 
-[9,300](https://x.com/myabandonware) [Follow](https://x.com/myabandonware)
+[9,600](https://x.com/myabandonware) [Follow](https://x.com/myabandonware)
 
 Monthly Newsletter
 
@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Hummer](https://www.myabandonware.com/game/hummer-spx)
-* [Huānlè Liùhé Yī](https://www.myabandonware.com/game/huanle-liuhe-yi-spw)
-* [Heavy Metal: Geomatrix](https://www.myabandonware.com/game/heavy-metal-geomatrix-spv)
-* [Harley-Davidson & L.A. Riders](https://www.myabandonware.com/game/harley-davidson-l-a-riders-spu)
-* [Gunmen Wars](https://www.myabandonware.com/game/gunmen-wars-spt)
+* [Bongo](https://www.myabandonware.com/game/bongo-5qc)
+* [Giga Wing 2](https://www.myabandonware.com/game/giga-wing-2-sq9)
+* [G.T. Block Challenger](https://www.myabandonware.com/game/g-t-block-challenger-sq8)
+* [Granny and the Gators](https://www.myabandonware.com/game/granny-and-the-gators-sq7)
+* [Gran Trak 20](https://www.myabandonware.com/game/gran-trak-20-sq6)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
