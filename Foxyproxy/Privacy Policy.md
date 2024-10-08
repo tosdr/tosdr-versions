@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I've been a FoxyProxy user for years...Very impressive, actually.
+Was really useful - just needed it for watching iplayer while in France for summer holiday. Back in the UK now.
 
-Brian Moore
+James Riden
