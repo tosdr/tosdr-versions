@@ -555,17 +555,17 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    October 8, 2024
+    
+    [Treasury Sanctions Sudanese Rapid Support Forces Procurement Director](https://home.treasury.gov/news/press-releases/jy2635)
+    
+    October 8, 2024
+    
+    [U.S. Department of the Treasury Announces Awardees Under Innovative $75 Million Small Business Grant Program](https://home.treasury.gov/news/press-releases/jy2636)
+    
     October 7, 2024
     
     [U.S. Department of the Treasury Awards $10 Million to California to Help Small Businesses Grow and Hire](https://home.treasury.gov/news/press-releases/jy2634)
-    
-    October 7, 2024
-    
-    [U.S. Department of the Treasury Issues Proposed Guidance to Clarify Wholly-Owned Tribally Chartered Entities Are Not Subject to Income Tax and Expand Tribal Access to Clean Energy Tax Credits](https://home.treasury.gov/news/press-releases/jy2633)
-    
-    October 7, 2024
-    
-    [Treasury Targets Significant International Hamas Fundraising Network](https://home.treasury.gov/news/press-releases/jy2632)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
