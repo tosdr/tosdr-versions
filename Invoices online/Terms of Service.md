@@ -197,57 +197,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Henry Venter
+Kobus Venter
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=96129098)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=2379517)  
+NWET Pty LTD
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=170104135)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=114288699)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=69921367)  
-Frameless Fanatix (Pty) Ltd.
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=136450526)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=172083082)  
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=103138799)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=181333291)  
+Tantra Sound and Lightz
+
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=196366314)  
+TIGERDSL
+
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=21775632)  
+Kainos (Pty) Ltd
+
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=158650197)  
+Environment Friendly Toilets (Pty) Ltd
+
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=204418909)  
+Bloem Rugby Academy PTY (Ltd)
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=27359965)  
+OptaServ
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=25615199)  
+Baby Toddles Infant Care
+
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=72648762)  
 Multi CNC Solutions CC
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=160048793)  
-Fox Alarms & Security
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=152055556)  
+Know Informatics
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=166093465)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=149701207)  
+Eruca (PTY)Ltd
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=187340631)  
-MONSTER SECURITY SERVICES
-
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=13829411)  
-Alliance Energy
-
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=96895559)  
-CBR Verwe/Paints
-
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=170956648)  
-CLEVER STUDENTS
-
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=79586544)  
-Vplay Grafix
-
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=46343411)  
-Cooper Power South Africa (Pty) LTD
-
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=108749065)  
-Imvubu General Trading
-
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=65714689)  
-SR Travel Services
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=200941608)  
-VIR Electrical (PTY) LTD
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=f945c1a2353a01b180646d655775f4d9a38f84bb30cf2b6c74a397913dd556e5&c=166953039)  
+Konsortium Operations ( Roamfree Meats )
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
