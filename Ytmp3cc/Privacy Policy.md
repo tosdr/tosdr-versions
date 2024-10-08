@@ -1,9 +1,9 @@
-[![YTMP3](/img/logo.svg)](https://ytmp3.cc/en-DrWL/)
+[![YTMP3](/img/logo.svg)](https://ytmp3.cc/en-2g6Q/)
 
-[Home](https://ytmp3.cc/en-DrWL/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)
+[Home](https://ytmp3.cc/en-2g6Q/)[Add-on](https://ytmp3.cc/add-on/)[FAQ](https://ytmp3.cc/faq/)
 
-YTMP3: Privacy Policy
-=====================
+Privacy Policy
+==============
 
 Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of this website and the services offered on and through it (the „Service”), including information you provide when using it.
 
