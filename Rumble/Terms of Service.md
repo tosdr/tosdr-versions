@@ -446,117 +446,125 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Candace Show Podcast
+[Badlands Media
 
-10.1K](https://rumble.com/v5htqid-what-really-happened-to-malaysian-airlines-flight-370-candace-ep-80.html "Candace Show Podcast")
+9.18K](https://rumble.com/v5hs37x-baseless-conspiracies-ep.-102-1030-pm-et-.html "Badlands Media")
 
 [Bannons War Room
 
-7.47K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+3.15K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+
+[SNEAKO
+
+2.72K](https://rumble.com/v5hv2xo-im-sick.html "SNEAKO")
+
+[Akademiks
+
+2.69K](https://rumble.com/v5hvhwk-kanye-west-bout-to-divorce-bianca-lawsuit-diddy-loses-key-to-miami.-kendric.html "Akademiks")
+
+[CAMELOT331
+
+2.31K](https://rumble.com/v5hvhnv-watching-hurricane-milton-and-asking-for-businesses-to-step-up-live.html "CAMELOT331")
 
 [NEWSMAX
 
-3.53K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+2.24K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
 [Lofi Girl
 
-341](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+265](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[WeAreChange
+[Geeks + Gamers
 
-235](https://rumble.com/v5huest-boom-musk-names-bill-gates-in-epstein-docs-convo-w-gen.-mike-flynn.html "WeAreChange")
+164](https://rumble.com/v5hvkt1-geeks-gamers-play-among-us.html "Geeks + Gamers")
+
+[Danny Polishchuk
+
+36](https://rumble.com/v5hud8c-low-value-mail-open-lines-october-7th-2024.html "Danny Polishchuk")
 
 [Major League Fishing
 
-4](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
-
-[NELK](https://rumble.com/c/NELK "NELK")
-
-[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
-
-[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
-
-[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
-
-[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
-
-[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
-
-[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
-
-[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
-
-[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
-
-[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
-
-[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
-
-[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
-
-[barstoolsports](https://rumble.com/user/barstoolsports "barstoolsports")
-
-[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
-
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
-
-[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
-
-[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
-
-[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+6](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
 
 [Kimberly Guilfoyle](https://rumble.com/c/KimberlyGuilfoyle "Kimberly Guilfoyle")
 
-[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
+[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
 
-[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
 
-[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
+[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
 
-[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
+[After Skool](https://rumble.com/c/AfterSkool "After Skool")
 
-[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
 
-[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
+[New York Post](https://rumble.com/c/NYPost "New York Post")
 
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
+[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
 
-[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
+[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
 
-[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
+[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
 
 [One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
 
-[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
+[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
 
-[The Dan Bongino Show](https://rumble.com/c/Bongino "The Dan Bongino Show")
+[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
 
-[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
+[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
+
+[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
+
+[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
+
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
+
+[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
+
+[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
+
+[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
+
+[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
+
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
 
 [LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
 
-[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
+[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
 
-[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
+[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
 
-[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
 
-[Redacted News](https://rumble.com/c/Redacted "Redacted News")
-
-[NHRA](https://rumble.com/c/NHRA "NHRA")
-
-[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
-
-[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
-
-[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
+[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
 
 [The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
 
-[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
+[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
 
-[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
+[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
+
+[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+
+[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
+
+[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
+
+[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
+
+[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
+
+[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
+
+[GOP](https://rumble.com/c/GOP "GOP")
+
+[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
+
+[NHRA](https://rumble.com/c/NHRA "NHRA")
+
+[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
 
 ### Theme
 
