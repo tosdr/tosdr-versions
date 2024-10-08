@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-409d1fbf8c24d3218d6b843e37af7e85
+3175a6025e1e3a422801ca40009ce743
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Amber and silver glass cathedral beads](https://sojourner.biz/images/cache/glass/GL0145.200.jpg)](https://sojourner.biz/beads/glass/amber-and-silver-glass-cathedral-beads.html "Amber and silver glass cathedral beads")
+[![Luminous pearl necklace](https://sojourner.biz/images/cache/N0047.200.jpg)](https://sojourner.biz/jewelry/necklaces/luminous-pearl-necklace.html "Luminous pearl necklace")
 
-#### [Amber and silver glass cathedral beads](https://sojourner.biz/beads/glass/amber-and-silver-glass-cathedral-beads.html "Amber and silver glass cathedral beads")
+#### [Luminous pearl necklace](https://sojourner.biz/jewelry/necklaces/luminous-pearl-necklace.html "Luminous pearl necklace")
 
-$15.00
+$140.00
 
 ### Best Sellers
 
