@@ -191,11 +191,11 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * Popular
 * Furniture
 * Bath
-* Outdoor
 * Rugs & Decor
-* Lighting
 * Home Improvement
+* Lighting
 * Kitchen & Tabletop
+* Holiday
 * More
 
 * [Bath](https://www.houzz.com/products/bath-products)
@@ -284,6 +284,12 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Office Chairs](https://www.houzz.com/products/office-chairs)
 * [Room Dividers](https://www.houzz.com/products/screens-and-room-dividers)
 
+* [Outdoor](https://www.houzz.com/products/patio-furniture)
+* [Outdoor Dining Furniture](https://www.houzz.com/products/outdoor-dining-furniture)
+* [Outdoor Lounge Furniture](https://www.houzz.com/products/outdoor-lounge-furniture)
+* [Outdoor Chairs](https://www.houzz.com/products/outdoor-chairs)
+* [Outdoor Benches](https://www.houzz.com/products/outdoor-benches)
+
 * [Furniture Sale](https://www.houzz.com/products/furniture/on-sale)
 * [Trending in Furniture](https://www.houzz.com/shop-houzz/furniture)
 * [Living Room](https://www.houzz.com/shop-houzz/living-room-furniture)
@@ -332,41 +338,13 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 [![Shop Curated Bathroom Vanities](https://st.hzcdn.com/static/mp-header-images/shop-curated-bath-vanities_black-label.png)](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/houzz-curated--houzz-curated)
 
-* [Patio Furniture](https://www.houzz.com/products/patio-furniture)
-* [Outdoor Dining Furniture](https://www.houzz.com/products/outdoor-dining-furniture)
-* [Outdoor Lounge Furniture](https://www.houzz.com/products/outdoor-lounge-furniture)
-* [Outdoor Chairs](https://www.houzz.com/products/outdoor-chairs)
-* [Adirondack Chairs](https://www.houzz.com/products/adirondack-chairs)
-* [Outdoor Bar Furniture](https://www.houzz.com/products/outdoor-bar-furniture)
-* [Outdoor Benches](https://www.houzz.com/products/outdoor-benches)
-
-* [Outdoor Lighting](https://www.houzz.com/products/outdoor-lighting)
-* [Wall Lights & Sconces](https://www.houzz.com/products/outdoor-wall-lights-and-sconces)
-* [Outdoor Flush-Mounts](https://www.houzz.com/products/outdoor-flush-mounts)
-* [Landscape Lighting](https://www.houzz.com/products/landscape-lighting)
-* [Outdoor Flood & Spot Lights](https://www.houzz.com/products/outdoor-flood-and-spot-lights)
-
-* [Outdoor Decor](https://www.houzz.com/products/outdoor-decor)
-* [Outdoor Rugs](https://www.houzz.com/products/outdoor-rugs)
-* [Doormats](https://www.houzz.com/products/doormats)
-* [Outdoor Cushions & Pillows](https://www.houzz.com/products/outdoor-cushions-and-pillows)
-* [Patio Umbrellas](https://www.houzz.com/products/outdoor-umbrellas)
-
-* [Lawn & Garden](https://www.houzz.com/products/lawn-and-garden)
-* [Garden Statues & Yard Art](https://www.houzz.com/products/garden-statues-and-yard-art)
-* [Planters & Pots](https://www.houzz.com/products/outdoor-pots-and-planters)
-
-* [Fire Pits](https://www.houzz.com/products/fire-pits)
-
-* [Outdoor Sale](https://www.houzz.com/products/outdoor-products/on-sale)
-* [Trending in Outdoor](https://www.houzz.com/shop-houzz/outdoor)
-* [View All Outdoor](https://www.houzz.com/products/outdoor-products)
-
 * [Rugs](https://www.houzz.com/products/rugs)
 * [5 x 7 Rugs](https://www.houzz.com/products/area-rugs/size_rug--5-x-7-Ft.-)
 * [8 x 10 Rugs](https://www.houzz.com/products/area-rugs/size_rug--8-x-10-Ft.-)
 * [9 x 12 Rugs](https://www.houzz.com/products/area-rugs/size_rug--9-x-12-Ft.-)
+* [Outdoor Rugs](https://www.houzz.com/products/outdoor-rugs)
 * [Runners](https://www.houzz.com/products/hall-and-stair-runners)
+* [Doormats](https://www.houzz.com/products/doormats)
 * [Rug Pads](https://www.houzz.com/products/rug-pads)
 
 * [Home Decor & Accents](https://www.houzz.com/products/home-decor)
@@ -390,33 +368,13 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Blackout Curtains](https://www.houzz.com/products/curtains/features_window_treatments--Blackout)
 * [Blinds & Shades](https://www.houzz.com/products/blinds-and-shades)
 
+* [Outdoor Decor](https://www.houzz.com/products/outdoor-decor)
+* [Outdoor Cushions & Pillows](https://www.houzz.com/products/outdoor-cushions-and-pillows)
+* [Planters & Pots](https://www.houzz.com/products/outdoor-pots-and-planters)
+
 * [Rugs & Decor Sale](https://www.houzz.com/products/home-decor/on-sale)
 * [Trending in Rugs & Decor](https://www.houzz.com/shop-houzz/home-decor)
 * [View All Rugs & Decor](https://www.houzz.com/products/home-decor)
-
-* [Ceiling Lighting](https://www.houzz.com/products/ceiling-lighting)
-* [Chandeliers](https://www.houzz.com/products/chandeliers)
-* [Pendant Lights](https://www.houzz.com/products/pendant-lighting)
-* [Flush-Mounts](https://www.houzz.com/products/flush-mount-ceiling-lighting)
-* [Ceiling Fans](https://www.houzz.com/products/ceiling-fans)
-* [Track Lighting](https://www.houzz.com/products/track-lighting)
-
-* [Wall Lighting](https://www.houzz.com/products/wall-lighting)
-* [Wall Sconces](https://www.houzz.com/products/wall-sconces)
-* [Swing Arm Wall Lights](https://www.houzz.com/products/swing-arm-wall-lamps)
-* [Display Lighting](https://www.houzz.com/products/display-and-picture-lights)
-
-* [Lamps](https://www.houzz.com/products/lamps)
-* [Table Lamps](https://www.houzz.com/products/table-lamps)
-* [Floor Lamps](https://www.houzz.com/products/floor-lamps)
-* [Desk Lamps](https://www.houzz.com/products/desk-lamps)
-* [Lamp Shades](https://www.houzz.com/products/lamp-shades)
-
-* [Outdoor Lighting](https://www.houzz.com/products/outdoor-lighting)
-
-* [Lighting Sale](https://www.houzz.com/products/lighting/on-sale)
-* [Trending in Lighting](https://www.houzz.com/shop-houzz/lighting)
-* [View All Lighting](https://www.houzz.com/products/lighting)
 
 * [Bathroom Remodel](https://www.houzz.com/products/bathroom-fixtures)
 * [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles)
@@ -450,6 +408,32 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Trending in Home Improvement](https://www.houzz.com/shop-houzz/home-improvement)
 * [View All Home Improvement](https://www.houzz.com/products/home-improvement)
 
+* [Ceiling Lighting](https://www.houzz.com/products/ceiling-lighting)
+* [Chandeliers](https://www.houzz.com/products/chandeliers)
+* [Pendant Lights](https://www.houzz.com/products/pendant-lighting)
+* [Flush-Mounts](https://www.houzz.com/products/flush-mount-ceiling-lighting)
+* [Ceiling Fans](https://www.houzz.com/products/ceiling-fans)
+* [Track Lighting](https://www.houzz.com/products/track-lighting)
+
+* [Wall Lighting](https://www.houzz.com/products/wall-lighting)
+* [Wall Sconces](https://www.houzz.com/products/wall-sconces)
+* [Swing Arm Wall Lights](https://www.houzz.com/products/swing-arm-wall-lamps)
+* [Display Lighting](https://www.houzz.com/products/display-and-picture-lights)
+
+* [Lamps](https://www.houzz.com/products/lamps)
+* [Table Lamps](https://www.houzz.com/products/table-lamps)
+* [Floor Lamps](https://www.houzz.com/products/floor-lamps)
+* [Desk Lamps](https://www.houzz.com/products/desk-lamps)
+* [Lamp Shades](https://www.houzz.com/products/lamp-shades)
+
+* [Outdoor Lighting](https://www.houzz.com/products/outdoor-lighting)
+* [Wall Lights & Sconces](https://www.houzz.com/products/outdoor-wall-lights-and-sconces)
+* [Landscape Lighting](https://www.houzz.com/products/landscape-lighting)
+
+* [Lighting Sale](https://www.houzz.com/products/lighting/on-sale)
+* [Trending in Lighting](https://www.houzz.com/shop-houzz/lighting)
+* [View All Lighting](https://www.houzz.com/products/lighting)
+
 * [Tabletop](https://www.houzz.com/products/tabletop)
 * [Dinnerware](https://www.houzz.com/products/dinnerware)
 * [Serveware](https://www.houzz.com/products/serveware)
@@ -480,6 +464,30 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Kitchen & Tabletop Sale](https://www.houzz.com/products/kitchen-and-dining/on-sale)
 * [Trending in Kitchen & Tabletop](https://www.houzz.com/shop-houzz/kitchen)
 * [View All Kitchen & Tabletop](https://www.houzz.com/products/kitchen-and-dining)
+
+* [Holiday Decor](https://www.houzz.com/products/holiday-decorations)
+* [Holiday Accents & Figurines](https://www.houzz.com/products/holiday-accents-and-figurines)
+* [Christmas Decorations](https://www.houzz.com/products/christmas-decorations)
+* [Christmas Ornaments](https://www.houzz.com/products/christmas-ornaments)
+* [Christmas Stockings & Holders](https://www.houzz.com/products/christmas-stockings-and-holders)
+* [Christmas Trees](https://www.houzz.com/products/christmas-trees)
+* [Christmas Tree Skirts](https://www.houzz.com/products/christmas-tree-skirts)
+* [Christmas Tree Stands](https://www.houzz.com/products/christmas-tree-stands)
+
+* [Outdoor Decor](https://www.houzz.com/products/outdoor-holiday-decorations)
+* [Outdoor Halloween Decorations](https://www.houzz.com/products/outdoor-holiday-decorations/holiday_name--Halloween)
+* [Outdoor Halloween Lights](https://www.houzz.com/products/holiday-lighting/holiday_name--Halloween)
+* [Outdoor Holiday Lighting](https://www.houzz.com/products/holiday-lighting)
+* [Holiday Doormats](https://www.houzz.com/products/doormats/theme_name--Holiday)
+* [Wreaths & Garlands](https://www.houzz.com/products/wreaths-and-garlands)
+* [Flags & Flagpoles](https://www.houzz.com/products/flags-and-flagpoles/theme_flag--Seasons)
+* [Holiday Storage](https://www.houzz.com/products/holiday-storage)
+
+* [Holiday Sale](https://www.houzz.com/products/holiday-decorations/on-sale)
+
+* [Trending in Holiday](https://www.houzz.com/shop-houzz/holiday)
+
+* [View All Holiday](https://www.houzz.com/products/holiday-decorations)
 
 * Shop by Style
 * [Modern Products](https://www.houzz.com/products/modern)
