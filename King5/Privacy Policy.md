@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e24c4e6a-308f-4eeb-8411-602bd7f6a82f/20241008T010700/e24c4e6a-308f-4eeb-8411-602bd7f6a82f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e24c4e6a-308f-4eeb-8411-602bd7f6a82f/20241008T010700/e24c4e6a-308f-4eeb-8411-602bd7f6a82f_360x203.jpg)](https://www.king5.com/article/news/local/band-touring-seattle-trailer-van-stolen/281-b8e1e02b-31ea-49bd-8212-0cb0eb873780)
+    *  [![](https://media.king5.com/assets/KING/images/eb8a32ac-97e2-4b5d-92af-bcb7a15f93ce/20241007T223316/eb8a32ac-97e2-4b5d-92af-bcb7a15f93ce_16x9.jpg) ![](https://media.king5.com/assets/KING/images/eb8a32ac-97e2-4b5d-92af-bcb7a15f93ce/20241007T223316/eb8a32ac-97e2-4b5d-92af-bcb7a15f93ce_360x203.jpg)](https://www.king5.com/article/life/animals/poulsbo-woman-startled-over-100-raccoons-outside-home-demanding-food/281-b775682f-be59-45ec-bbef-50ab0124d184)
         
-        #### [Thieves steal 'pretty much everything' from indie rock band while on tour stop in Seattle](https://www.king5.com/article/news/local/band-touring-seattle-trailer-van-stolen/281-b8e1e02b-31ea-49bd-8212-0cb0eb873780)
+        #### [Poulsbo woman calls authorities after finding over 100 raccoons outside her home demanding food](https://www.king5.com/article/life/animals/poulsbo-woman-startled-over-100-raccoons-outside-home-demanding-food/281-b775682f-be59-45ec-bbef-50ab0124d184)
         
-    *  [![](https://media.king5.com/assets/KING/images/f655974b-09b4-4612-aa29-de120081df4c/20241008T010312/f655974b-09b4-4612-aa29-de120081df4c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f655974b-09b4-4612-aa29-de120081df4c/20241008T010312/f655974b-09b4-4612-aa29-de120081df4c_360x203.jpg)](https://www.king5.com/article/news/local/washington-team-help-hurricane-helene-response/281-4d15f832-abd1-4f6e-92d7-5e8dff71667f)
+    *  [![](https://media.king5.com/assets/WKYC/images/bb7ce1db-2751-41e5-9248-b9a4a48b4d98/20241004T000623/bb7ce1db-2751-41e5-9248-b9a4a48b4d98_16x9.jpg) ![](https://media.king5.com/assets/WKYC/images/bb7ce1db-2751-41e5-9248-b9a4a48b4d98/20241004T000623/bb7ce1db-2751-41e5-9248-b9a4a48b4d98_360x203.jpg)](https://www.king5.com/article/news/politics/tim-walz-october-8-seattle-visit/281-9ef10337-c9f8-464c-b864-307e4431b521)
         
-        #### [Washington team helping with Hurricane Helene response](https://www.king5.com/article/news/local/washington-team-help-hurricane-helene-response/281-4d15f832-abd1-4f6e-92d7-5e8dff71667f)
+        #### [Vice Presidential candidate Tim Walz arrives in Seattle](https://www.king5.com/article/news/politics/tim-walz-october-8-seattle-visit/281-9ef10337-c9f8-464c-b864-307e4431b521)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/WTSP/images/d1ceb32b-8f09-4e36-ba93-b01b4c25c641/20241008T000859/d1ceb32b-8f09-4e36-ba93-b01b4c25c641_16x9.jpg) ![](https://media.king5.com/assets/WTSP/images/d1ceb32b-8f09-4e36-ba93-b01b4c25c641/20241008T000859/d1ceb32b-8f09-4e36-ba93-b01b4c25c641_360x203.jpg)](https://www.king5.com/article/weather/hurricane/hurricane-milton-track-forecast-florida-tampa-bay/67-3a12dd26-da3c-4810-992c-cf44d57237f4)
+    *  [![](https://media.king5.com/assets/CCT/images/dab5334e-ae98-4e6b-9f93-7f8bcfb00052/20241007T111339/dab5334e-ae98-4e6b-9f93-7f8bcfb00052_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/dab5334e-ae98-4e6b-9f93-7f8bcfb00052/20241007T111339/dab5334e-ae98-4e6b-9f93-7f8bcfb00052_360x203.jpg)](https://www.king5.com/article/news/nation-world/milton-strengthens-into-a-category-3-hurricane/507-ce842603-5ed0-427b-b25e-8abe8f1b81bc)
         
-        #### [NHC: Hurricane Milton 'explosively intensifies' as Cat 5 with 180 mph winds](https://www.king5.com/article/weather/hurricane/hurricane-milton-track-forecast-florida-tampa-bay/67-3a12dd26-da3c-4810-992c-cf44d57237f4)
+        #### [Hurricane Milton is a Category 5. Florida orders evacuations and scrambles to clear Helene's debris](https://www.king5.com/article/news/nation-world/milton-strengthens-into-a-category-3-hurricane/507-ce842603-5ed0-427b-b25e-8abe8f1b81bc)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-68°
+64°
 
 ![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
