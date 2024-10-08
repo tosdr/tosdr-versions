@@ -21,7 +21,7 @@
 
 * EN
     
-* [](https://community.klaviyo.com/topic/new)
+* [](https://community.klaviyo.com/topic/new?fid=64)
 * [](#)
 
 [](https://community.klaviyo.com/events/real-stories-real-success-with-lighthouse-keeper-s-pantry-240)
