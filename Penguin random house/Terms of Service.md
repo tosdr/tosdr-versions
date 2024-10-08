@@ -14,19 +14,11 @@ Recommendations
 
 Audio
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
     
-    Books Bans Are on the Rise in America
+    Audiobooks for Kids
     
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
-
-* * *
-
-* [![The Most Exciting Picture Books Coming Fall 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/29153607/Fall-Preview-2024-600x314-picture.jpg)
-    
-    The Most Exciting Picture Books Coming Fall 2024
-    
-    Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
 
 * * *
 
@@ -35,6 +27,14 @@ Audio
     New Releases
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
+
+* * *
+
+* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+    
+    How To Read More in 2024
+    
+    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
 
 * <
     
