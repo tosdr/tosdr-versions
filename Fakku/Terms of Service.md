@@ -10,8 +10,6 @@ Search [Notifications](https://www.fakku.net/notifications) [Cart](https://www.f
 
 [Login](https://www.fakku.net/login) [Register](https://www.fakku.net/users/create)
 
-Search 
-
 Terms of Service
 ================
 
