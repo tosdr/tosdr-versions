@@ -12,7 +12,7 @@ Menu
     
     TOP STORIES
     
-    * [Hezbollah leader says more Israelis will be displaced as the militants extend their rocket fire](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-08-2024-0bc0a8970c066c048ee1875bcdc8df79)
+    * [Hezbollah steps up rocket fire as Israel sends more troops into Lebanon](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-08-2024-0bc0a8970c066c048ee1875bcdc8df79)
     * [War rages on multiple fronts as Israel marks a year since Hamas' Oct. 7 attack](https://apnews.com/article/israel-hamas-war-one-year-anniversary-cf123f95609051e8e8eaf6aebe661b6a)
     * [Pioneers in artificial intelligence win the Nobel Prize in physics](https://apnews.com/article/nobel-prize-physics-fc0567de3f2ca45f81a7359a017cd542)
     
@@ -31,8 +31,8 @@ Menu
     TOP STORIES
     
     * [Tampa Bay hasn’t been hit directly by a major hurricane since 1921. Milton may be the one](https://apnews.com/article/hurricane-milton-florida-tampa-7678939c52fdf00da748937d22df1fac)
-    * [What to know about Hurricane Milton as it moves toward Florida's Gulf Coast](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
-    * [A series of deaths and the 'Big Fight': Uncovering police force in one Midwestern city](https://apnews.com/article/police-use-of-force-deaths-evansville-lethal-restraint-4d4b8e5c590938b22f4b59ee34fac3d9)
+    * [What to know about Hurricane Milton as it churns toward Florida's Gulf Coast](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
+    * [An unusual hurricane season goes from ultra quiet to record busy and spawns Helene and Milton](https://apnews.com/article/hurricane-milton-helene-weird-climate-change-disaster-db98e8cfbcc29a191c216a8bc9157f1d)
     
     Newsletters
     
@@ -52,7 +52,7 @@ Menu
     
     TOP STORIES
     
-    * [Harris is still introducing herself as she sets out on a media tour with voting already underway](https://apnews.com/article/harris-stern-view-colbert-60-minutes-daddy-5a2af60ba0b1099e19cca151955c9855)
+    * [Harris can't point to anything she would have done differently than Biden in 'The View' appearance](https://apnews.com/article/harris-stern-view-colbert-60-minutes-daddy-5a2af60ba0b1099e19cca151955c9855)
     * [What polling shows about Black voters' views of Harris and Trump](https://apnews.com/article/harris-trump-election-black-voters-biden-78e344ddea4886dd23582f4a51eb0da6)
     * [Oregon strikes an additional 302 people from voter rolls over lack of citizenship proof](https://apnews.com/article/oregon-voter-registration-citizenship-07624f9087bd51eb283c4f25ec1f2a17)
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [What polling shows about Black voters' views of Harris and Trump](https://apnews.com/article/harris-trump-election-black-voters-biden-78e344ddea4886dd23582f4a51eb0da6)
-    * [Harris is still introducing herself as she sets out on a media tour with voting already underway](https://apnews.com/article/harris-stern-view-colbert-60-minutes-daddy-5a2af60ba0b1099e19cca151955c9855)
-    * [Biden sets a 10-year deadline for US cities to replace lead pipes and make drinking water safer](https://apnews.com/article/lead-pipes-epa-flint-biden-wisconsin-4aae63134894762cbe904ee460e62708)
+    * [Biden postpones trip to Germany and Angola to monitor Hurricane Milton](https://apnews.com/article/joe-biden-angola-germany-hurricane-milton-63e093b3c6f5ecea5dbb5e334dcbd2f9)
+    * [Trump spoke to Putin as many as 7 times since leaving office, Bob Woodward reports in new book](https://apnews.com/article/donald-trump-biden-putin-war-ukraine-russia-zelenskyy-ce9c59f689d3f438264a64b2bfa0aa39)
+    * [Harris can't point to anything she would have done differently than Biden in 'The View' appearance](https://apnews.com/article/harris-stern-view-colbert-60-minutes-daddy-5a2af60ba0b1099e19cca151955c9855)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Patrick Mahomes throws for 331 yards, Derek Carr hurt as Chiefs shut down Saints for 26-13 victory](https://apnews.com/article/saints-chiefs-score-7b5412c1594d73113111336074ee5ade)
-    * [Royals pitcher Cole Ragans warms up for Yankees by playing catch in Central Park](https://apnews.com/article/mlb-playoffs-ragans-royals-yankees-central-park-42adddaee4675c8a204b14873548dd2a)
-    * [Judge and Rodón unable to deliver as Yankees drop Game 2 to Royals in ALDS](https://apnews.com/article/mlb-playoffs-yankees-royals-judge-rodon-db7f25b5abe73eba553ee18d1974b14f)
+    * [Jets stunningly fire coach Robert Saleh after a 2-3 start and tab Jeff Ulbrich as interim](https://apnews.com/article/new-york-jets-robert-saleh-fired-78884ffcd0fa98abf9eca4e597abc362)
+    * [Luis Tiant, the charismatic Cuban who pitched the Red Sox to the brink of a championship, dies at 83](https://apnews.com/article/luis-tiant-dies-red-sox-c4daecb31a424c2ccc0fd868982429dc)
+    * [Hurricane Milton forces NHL’s Lightning, other sports teams to alter game plans](https://apnews.com/article/hurricane-milton-update-sports-b541a865ea1ad30c12a77c3a90bfc44f)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Cissy Houston, a Grammy-winning gospel singer and Whitney Houston's mother, dies at 91](https://apnews.com/article/cissy-houston-dead-whitney-houston-mother-de8e3486134c7acd599ee3f16fb997c6)
-    * [Florence Pugh and Andrew Garfield on living through 'We Live in Time'](https://apnews.com/article/florence-pugh-andrew-garfield-we-live-time-9468f8be87b273576b8efd71aa0dd80d)
-    * [Harris is still introducing herself as she sets out on a media tour with voting already underway](https://apnews.com/article/harris-stern-view-colbert-60-minutes-daddy-5a2af60ba0b1099e19cca151955c9855)
+    * [After years of finding the Rock & Roll Hall of Fame cold as ice, Foreigner now knows what love is](https://apnews.com/article/foreigner-rock-hall-2024-f94bf35191fd280b505bde1d4c1d05d4)
+    * [Oprah Winfrey selects Lisa Marie Presley's posthumous memoir as her next book club selection](https://apnews.com/article/oprah-winfrey-lisa-marie-presley-book-club-024f26617baa044515e7e07147ea0745)
+    * [Book Review: 'Countdown 1960' shows parallels with this year's presidential election season](https://apnews.com/article/countdown-1960-chris-wallace-book-review-203e5e4aa70216ea20905a4797e43fad)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [A driver's test for autonomous vehicles? A leading expert says US should have one](https://apnews.com/article/autonomous-vehicles-driving-test-safety-government-b09993e6451a9b647a7dfe1f81fdec8d)
     * [China puts provisional tariffs on European brandy after EU OKs duties on Chinese EVs](https://apnews.com/article/china-eu-tariffs-brandy-4fd38e01790bdc0c7191589fe946e7f7)
-    * [PepsiCo lowers revenue forecast as sales growth weakens](https://apnews.com/article/pepsi-fritolay-earnings-revenue-3bee1d96d70e0ac7546d63fdc5086d8e)
-    * [Pioneers in artificial intelligence win the Nobel Prize in physics](https://apnews.com/article/nobel-prize-physics-fc0567de3f2ca45f81a7359a017cd542)
+    * [PepsiCo lowers revenue forecast on "subdued" sales in US, China and elsewhere](https://apnews.com/article/pepsi-fritolay-earnings-revenue-3bee1d96d70e0ac7546d63fdc5086d8e)
     
 * [Science](https://apnews.com/science)
     
@@ -234,9 +234,9 @@ Menu
     
     TOP STORIES
     
+    * [An unusual hurricane season goes from ultra quiet to record busy and spawns Helene and Milton](https://apnews.com/article/hurricane-milton-helene-weird-climate-change-disaster-db98e8cfbcc29a191c216a8bc9157f1d)
+    * [Manitoba's train is a lifeline for many towns. Now tourists are also discovering the route](https://apnews.com/article/churchill-canada-train-winnipeg-a70ca440fe256c093b3a55e747e16f65)
     * [Control the path and power of hurricanes like Milton? Forget it, scientists say](https://apnews.com/article/weather-control-climate-change-hurricanes-cloud-seeding-735eaed734e132d6260ee94701c72d5e)
-    * [Mexico’s new president promises to resume fight against climate change](https://apnews.com/article/mexico-sheinbaum-energy-transition-climate-change-renewables-93a78b5f2c22d1eab0494a3d6dfaa5e9)
-    * [Shock of deadly floods is a reminder of Appalachia’s risk from violent storms in a warming climate](https://apnews.com/article/climate-change-hurricane-helene-flooding-north-carolina-f49b2a6bf2b549473e0211f883332592)
     
 * [Health](https://apnews.com/health)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [States sue TikTok, claiming its platform is addictive and harms the mental health of children](https://apnews.com/article/tiktok-lawsuit-youth-mental-health-2993f8e70d2e3d4eab9988df168fb948)
     * [Federal judge orders Google to open its Android app store to competition](https://apnews.com/article/google-epic-android-app-store-d635ff5b6a2c8b755faa14fe471b73e2)
     * [Judge rules the FTC can proceed with antitrust lawsuit against Amazon, tosses out few state claims](https://apnews.com/article/amazon-antitrust-lawsuit-ftc-case-bbd55b3403978183360fe0bc7e3f08cc)
-    * [Facebook, YouTube and TikTok users in Europe get forum to challenge social media content decisions](https://apnews.com/article/meta-facebook-youtube-tiktok-european-union-43737583cf65696233bbdb522eb227bd)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
-    * [Don't expect human life expectancy to grow much more, researcher says](https://apnews.com/article/life-expectancy-edd52c723e478c08ec194bfbd18bf6b9)
-    * [Mega Millions tickets are set to more than double in price](https://apnews.com/article/mega-millions-powerball-lottery-price-6d07dbc300b42565f3d87c058841b816)
-    * [Hot-air balloon bumps line, causing brief power outage during Albuquerque balloon fiesta](https://apnews.com/article/balloon-power-line-albuquerque-outage-3abab09e7d00b105805e70332a3db8d2)
+    * [Flags fly at half-staff for Voyageurs National Park ranger who died in water rescue](https://apnews.com/article/park-ranger-dies-minnesota-e92aa0c9a9edafa628ae458f0b7ab3f6)
+    * [Disney World and Universal Orlando remain open ahead of Hurricane Milton](https://apnews.com/article/hurricane-milton-florida-theme-parks-orlando-cee52fcf4286b5a63432325c5400f0d1)
+    * [Consider the 'minor bulbs' -- crocuses, snowdrops and more -- when planting for spring](https://apnews.com/article/gardening-minor-bulbs-crocus-snowdrops-25537415fbd066af21ef34cad1076df4)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Oklahoma amends request for Bibles that initially appeared to match only version backed by Trump](https://apnews.com/article/oklahoma-bible-schools-trump-amend-99bec8ed6b67acd2d836913783c4fe7b)
     * [Self-described Nazi becomes first in Australian state of Victoria to be convicted over Nazi salute](https://apnews.com/article/nazi-salute-melbourne-guilty-australia-6b161a2ed1a0f43ad6efcd7de92af44b)
     * [Cissy Houston, a Grammy-winning gospel singer and Whitney Houston's mother, dies at 91](https://apnews.com/article/cissy-houston-dead-whitney-houston-mother-de8e3486134c7acd599ee3f16fb997c6)
-    * [Pro-Palestinian protesters pitch encampment outside Jewish Democrat's Ohio home](https://apnews.com/article/mideast-war-gaza-hamas-anniversary-ohio-greg-landsman-protest-israel-biden-c89db986dbfdb82e22205375dbec3778)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Milton se debilita: se convierte en huracán de categoría 4 pero mantiene la amenaza sobre Florida](https://apnews.com/climate-and-environment/general-news-2305ff65879ceac3e4cbe71e1cc7750d)
     * [Líder de Hezbollah dice que habrá más israelíes desplazados a medida que amplía sus ataques](https://apnews.com/world-news/general-news-615a6e7731f0d9f18baeba464b60b34d)
-    * [El Nobel de Física premia avances que permitieron el aprendizaje automático](https://apnews.com/science/general-news-c084d86ea5b41f8b7c731ace0cd3ec83)
-    * [Trump dice que inmigrantes que cometieron asesinatos han introducido "muchos genes malos" en EEUU](https://apnews.com/politics/elecciones-en-eeuu-donald-trump-ecf46ca25565a65003b0727687d89ace)
-    * [Usuarios europeos de Facebook, YouTube y TikTok podrán recurrir decisiones sobre contenido ante foro](https://apnews.com/world-news/general-news-29049ea497054254686cb5261d1a9099)
-    * [El gobierno de Biden impone un plazo de 10 años a las ciudades para retirar tuberías de plomo](https://apnews.com/general-news-2f3f4cd4c78ead331ea705bc8bc6aa3d)
+    * [Milton se debilita a huracán categoría 4; Florida está en alerta](https://apnews.com/climate-and-environment/general-news-2305ff65879ceac3e4cbe71e1cc7750d)
+    * [Harris hace campaña en podcasts y otros medios para llegar a los votantes](https://apnews.com/politics/general-news-06359cf38877693936c735a02260abc1)
+    * [Biden visita Pensilvania y Wisconsin, estados clave en la contienda electoral](https://apnews.com/politics/general-news-c2c3ae97114764dcd76b65100c39386a)
+    * [Rusia e Irán están detrás del aumento de complots en Reino Unido, dice jefe del MI5](https://apnews.com/world-news/general-news-27824cebad99a0d7a83b1d2cbc33cd1c)
+    * [El dinero detrás de la política: Siguiendo los datos financieros de las campañas de Pensilvania](https://apnews.com/us-news/general-news-68b450cc032ed9e0134ef6bfee93f9c7)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -457,7 +457,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Hezbollah leader says more Israelis will be displaced as the militants extend their rocket fire](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-08-2024-0bc0a8970c066c048ee1875bcdc8df79)
+    * [Hezbollah steps up rocket fire as Israel sends more troops into Lebanon](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-08-2024-0bc0a8970c066c048ee1875bcdc8df79)
     * [War rages on multiple fronts as Israel marks a year since Hamas' Oct. 7 attack](https://apnews.com/article/israel-hamas-war-one-year-anniversary-cf123f95609051e8e8eaf6aebe661b6a)
     * [Pioneers in artificial intelligence win the Nobel Prize in physics](https://apnews.com/article/nobel-prize-physics-fc0567de3f2ca45f81a7359a017cd542)
     
@@ -476,8 +476,8 @@ Submit Search
     TOP STORIES
     
     * [Tampa Bay hasn’t been hit directly by a major hurricane since 1921. Milton may be the one](https://apnews.com/article/hurricane-milton-florida-tampa-7678939c52fdf00da748937d22df1fac)
-    * [What to know about Hurricane Milton as it moves toward Florida's Gulf Coast](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
-    * [A series of deaths and the 'Big Fight': Uncovering police force in one Midwestern city](https://apnews.com/article/police-use-of-force-deaths-evansville-lethal-restraint-4d4b8e5c590938b22f4b59ee34fac3d9)
+    * [What to know about Hurricane Milton as it churns toward Florida's Gulf Coast](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
+    * [An unusual hurricane season goes from ultra quiet to record busy and spawns Helene and Milton](https://apnews.com/article/hurricane-milton-helene-weird-climate-change-disaster-db98e8cfbcc29a191c216a8bc9157f1d)
     
     Newsletters
     
@@ -503,7 +503,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris is still introducing herself as she sets out on a media tour with voting already underway](https://apnews.com/article/harris-stern-view-colbert-60-minutes-daddy-5a2af60ba0b1099e19cca151955c9855)
+    * [Harris can't point to anything she would have done differently than Biden in 'The View' appearance](https://apnews.com/article/harris-stern-view-colbert-60-minutes-daddy-5a2af60ba0b1099e19cca151955c9855)
     * [What polling shows about Black voters' views of Harris and Trump](https://apnews.com/article/harris-trump-election-black-voters-biden-78e344ddea4886dd23582f4a51eb0da6)
     * [Oregon strikes an additional 302 people from voter rolls over lack of citizenship proof](https://apnews.com/article/oregon-voter-registration-citizenship-07624f9087bd51eb283c4f25ec1f2a17)
     
@@ -528,9 +528,9 @@ Submit Search
     
     TOP STORIES
     
-    * [What polling shows about Black voters' views of Harris and Trump](https://apnews.com/article/harris-trump-election-black-voters-biden-78e344ddea4886dd23582f4a51eb0da6)
-    * [Harris is still introducing herself as she sets out on a media tour with voting already underway](https://apnews.com/article/harris-stern-view-colbert-60-minutes-daddy-5a2af60ba0b1099e19cca151955c9855)
-    * [Biden sets a 10-year deadline for US cities to replace lead pipes and make drinking water safer](https://apnews.com/article/lead-pipes-epa-flint-biden-wisconsin-4aae63134894762cbe904ee460e62708)
+    * [Biden postpones trip to Germany and Angola to monitor Hurricane Milton](https://apnews.com/article/joe-biden-angola-germany-hurricane-milton-63e093b3c6f5ecea5dbb5e334dcbd2f9)
+    * [Trump spoke to Putin as many as 7 times since leaving office, Bob Woodward reports in new book](https://apnews.com/article/donald-trump-biden-putin-war-ukraine-russia-zelenskyy-ce9c59f689d3f438264a64b2bfa0aa39)
+    * [Harris can't point to anything she would have done differently than Biden in 'The View' appearance](https://apnews.com/article/harris-stern-view-colbert-60-minutes-daddy-5a2af60ba0b1099e19cca151955c9855)
     
     Newsletters
     
@@ -558,9 +558,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Patrick Mahomes throws for 331 yards, Derek Carr hurt as Chiefs shut down Saints for 26-13 victory](https://apnews.com/article/saints-chiefs-score-7b5412c1594d73113111336074ee5ade)
-    * [Royals pitcher Cole Ragans warms up for Yankees by playing catch in Central Park](https://apnews.com/article/mlb-playoffs-ragans-royals-yankees-central-park-42adddaee4675c8a204b14873548dd2a)
-    * [Judge and Rodón unable to deliver as Yankees drop Game 2 to Royals in ALDS](https://apnews.com/article/mlb-playoffs-yankees-royals-judge-rodon-db7f25b5abe73eba553ee18d1974b14f)
+    * [Jets stunningly fire coach Robert Saleh after a 2-3 start and tab Jeff Ulbrich as interim](https://apnews.com/article/new-york-jets-robert-saleh-fired-78884ffcd0fa98abf9eca4e597abc362)
+    * [Luis Tiant, the charismatic Cuban who pitched the Red Sox to the brink of a championship, dies at 83](https://apnews.com/article/luis-tiant-dies-red-sox-c4daecb31a424c2ccc0fd868982429dc)
+    * [Hurricane Milton forces NHL’s Lightning, other sports teams to alter game plans](https://apnews.com/article/hurricane-milton-update-sports-b541a865ea1ad30c12a77c3a90bfc44f)
     
     Newsletters
     
@@ -587,9 +587,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Cissy Houston, a Grammy-winning gospel singer and Whitney Houston's mother, dies at 91](https://apnews.com/article/cissy-houston-dead-whitney-houston-mother-de8e3486134c7acd599ee3f16fb997c6)
-    * [Florence Pugh and Andrew Garfield on living through 'We Live in Time'](https://apnews.com/article/florence-pugh-andrew-garfield-we-live-time-9468f8be87b273576b8efd71aa0dd80d)
-    * [Harris is still introducing herself as she sets out on a media tour with voting already underway](https://apnews.com/article/harris-stern-view-colbert-60-minutes-daddy-5a2af60ba0b1099e19cca151955c9855)
+    * [After years of finding the Rock & Roll Hall of Fame cold as ice, Foreigner now knows what love is](https://apnews.com/article/foreigner-rock-hall-2024-f94bf35191fd280b505bde1d4c1d05d4)
+    * [Oprah Winfrey selects Lisa Marie Presley's posthumous memoir as her next book club selection](https://apnews.com/article/oprah-winfrey-lisa-marie-presley-book-club-024f26617baa044515e7e07147ea0745)
+    * [Book Review: 'Countdown 1960' shows parallels with this year's presidential election season](https://apnews.com/article/countdown-1960-chris-wallace-book-review-203e5e4aa70216ea20905a4797e43fad)
     
 * [Business](https://apnews.com/business)
     
@@ -603,9 +603,9 @@ Submit Search
     
     TOP STORIES
     
+    * [A driver's test for autonomous vehicles? A leading expert says US should have one](https://apnews.com/article/autonomous-vehicles-driving-test-safety-government-b09993e6451a9b647a7dfe1f81fdec8d)
     * [China puts provisional tariffs on European brandy after EU OKs duties on Chinese EVs](https://apnews.com/article/china-eu-tariffs-brandy-4fd38e01790bdc0c7191589fe946e7f7)
-    * [PepsiCo lowers revenue forecast as sales growth weakens](https://apnews.com/article/pepsi-fritolay-earnings-revenue-3bee1d96d70e0ac7546d63fdc5086d8e)
-    * [Pioneers in artificial intelligence win the Nobel Prize in physics](https://apnews.com/article/nobel-prize-physics-fc0567de3f2ca45f81a7359a017cd542)
+    * [PepsiCo lowers revenue forecast on "subdued" sales in US, China and elsewhere](https://apnews.com/article/pepsi-fritolay-earnings-revenue-3bee1d96d70e0ac7546d63fdc5086d8e)
     
 * [Science](https://apnews.com/science)
     
@@ -725,9 +725,9 @@ Submit Search
     
     TOP STORIES
     
+    * [An unusual hurricane season goes from ultra quiet to record busy and spawns Helene and Milton](https://apnews.com/article/hurricane-milton-helene-weird-climate-change-disaster-db98e8cfbcc29a191c216a8bc9157f1d)
+    * [Manitoba's train is a lifeline for many towns. Now tourists are also discovering the route](https://apnews.com/article/churchill-canada-train-winnipeg-a70ca440fe256c093b3a55e747e16f65)
     * [Control the path and power of hurricanes like Milton? Forget it, scientists say](https://apnews.com/article/weather-control-climate-change-hurricanes-cloud-seeding-735eaed734e132d6260ee94701c72d5e)
-    * [Mexico’s new president promises to resume fight against climate change](https://apnews.com/article/mexico-sheinbaum-energy-transition-climate-change-renewables-93a78b5f2c22d1eab0494a3d6dfaa5e9)
-    * [Shock of deadly floods is a reminder of Appalachia’s risk from violent storms in a warming climate](https://apnews.com/article/climate-change-hurricane-helene-flooding-north-carolina-f49b2a6bf2b549473e0211f883332592)
     
 * [Health](https://apnews.com/health)
     
@@ -751,9 +751,9 @@ Submit Search
     
     TOP STORIES
     
+    * [States sue TikTok, claiming its platform is addictive and harms the mental health of children](https://apnews.com/article/tiktok-lawsuit-youth-mental-health-2993f8e70d2e3d4eab9988df168fb948)
     * [Federal judge orders Google to open its Android app store to competition](https://apnews.com/article/google-epic-android-app-store-d635ff5b6a2c8b755faa14fe471b73e2)
     * [Judge rules the FTC can proceed with antitrust lawsuit against Amazon, tosses out few state claims](https://apnews.com/article/amazon-antitrust-lawsuit-ftc-case-bbd55b3403978183360fe0bc7e3f08cc)
-    * [Facebook, YouTube and TikTok users in Europe get forum to challenge social media content decisions](https://apnews.com/article/meta-facebook-youtube-tiktok-european-union-43737583cf65696233bbdb522eb227bd)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -771,17 +771,17 @@ Submit Search
     
     TOP STORIES
     
-    * [Don't expect human life expectancy to grow much more, researcher says](https://apnews.com/article/life-expectancy-edd52c723e478c08ec194bfbd18bf6b9)
-    * [Mega Millions tickets are set to more than double in price](https://apnews.com/article/mega-millions-powerball-lottery-price-6d07dbc300b42565f3d87c058841b816)
-    * [Hot-air balloon bumps line, causing brief power outage during Albuquerque balloon fiesta](https://apnews.com/article/balloon-power-line-albuquerque-outage-3abab09e7d00b105805e70332a3db8d2)
+    * [Flags fly at half-staff for Voyageurs National Park ranger who died in water rescue](https://apnews.com/article/park-ranger-dies-minnesota-e92aa0c9a9edafa628ae458f0b7ab3f6)
+    * [Disney World and Universal Orlando remain open ahead of Hurricane Milton](https://apnews.com/article/hurricane-milton-florida-theme-parks-orlando-cee52fcf4286b5a63432325c5400f0d1)
+    * [Consider the 'minor bulbs' -- crocuses, snowdrops and more -- when planting for spring](https://apnews.com/article/gardening-minor-bulbs-crocus-snowdrops-25537415fbd066af21ef34cad1076df4)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Oklahoma amends request for Bibles that initially appeared to match only version backed by Trump](https://apnews.com/article/oklahoma-bible-schools-trump-amend-99bec8ed6b67acd2d836913783c4fe7b)
     * [Self-described Nazi becomes first in Australian state of Victoria to be convicted over Nazi salute](https://apnews.com/article/nazi-salute-melbourne-guilty-australia-6b161a2ed1a0f43ad6efcd7de92af44b)
     * [Cissy Houston, a Grammy-winning gospel singer and Whitney Houston's mother, dies at 91](https://apnews.com/article/cissy-houston-dead-whitney-houston-mother-de8e3486134c7acd599ee3f16fb997c6)
-    * [Pro-Palestinian protesters pitch encampment outside Jewish Democrat's Ohio home](https://apnews.com/article/mideast-war-gaza-hamas-anniversary-ohio-greg-landsman-protest-israel-biden-c89db986dbfdb82e22205375dbec3778)
     
     Newsletters
     
@@ -795,12 +795,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Milton se debilita: se convierte en huracán de categoría 4 pero mantiene la amenaza sobre Florida](https://apnews.com/climate-and-environment/general-news-2305ff65879ceac3e4cbe71e1cc7750d)
     * [Líder de Hezbollah dice que habrá más israelíes desplazados a medida que amplía sus ataques](https://apnews.com/world-news/general-news-615a6e7731f0d9f18baeba464b60b34d)
-    * [El Nobel de Física premia avances que permitieron el aprendizaje automático](https://apnews.com/science/general-news-c084d86ea5b41f8b7c731ace0cd3ec83)
-    * [Trump dice que inmigrantes que cometieron asesinatos han introducido "muchos genes malos" en EEUU](https://apnews.com/politics/elecciones-en-eeuu-donald-trump-ecf46ca25565a65003b0727687d89ace)
-    * [Usuarios europeos de Facebook, YouTube y TikTok podrán recurrir decisiones sobre contenido ante foro](https://apnews.com/world-news/general-news-29049ea497054254686cb5261d1a9099)
-    * [El gobierno de Biden impone un plazo de 10 años a las ciudades para retirar tuberías de plomo](https://apnews.com/general-news-2f3f4cd4c78ead331ea705bc8bc6aa3d)
+    * [Milton se debilita a huracán categoría 4; Florida está en alerta](https://apnews.com/climate-and-environment/general-news-2305ff65879ceac3e4cbe71e1cc7750d)
+    * [Harris hace campaña en podcasts y otros medios para llegar a los votantes](https://apnews.com/politics/general-news-06359cf38877693936c735a02260abc1)
+    * [Biden visita Pensilvania y Wisconsin, estados clave en la contienda electoral](https://apnews.com/politics/general-news-c2c3ae97114764dcd76b65100c39386a)
+    * [Rusia e Irán están detrás del aumento de complots en Reino Unido, dice jefe del MI5](https://apnews.com/world-news/general-news-27824cebad99a0d7a83b1d2cbc33cd1c)
+    * [El dinero detrás de la política: Siguiendo los datos financieros de las campañas de Pensilvania](https://apnews.com/us-news/general-news-68b450cc032ed9e0134ef6bfee93f9c7)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
