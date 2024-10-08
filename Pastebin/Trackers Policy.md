@@ -44,35 +44,35 @@ If you are interested in turning on your browser’s privacy and Do Not Track se
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐Make $2500 ⭐ Day on your PC (Easy)](https://pastebin.com/C3ngxL2i)
+* [New 0day exploit (online marketplace)](https://pastebin.com/VJMR6LDE)
     
-    JavaScript | 1 sec ago | 0.18 KB
+    JavaScript | 1 sec ago | 0.13 KB
     
-* [G2A Glitch](https://pastebin.com/rhcNXyHL)
+* [⭐HOW I MADE $2700 TODAY ⭐ GUIDE](https://pastebin.com/hs1h2tdN)
     
-    JavaScript | 3 sec ago | 0.17 KB
+    JavaScript | 2 sec ago | 0.18 KB
     
-* [✨ Make $3000 in 24 hours❤️](https://pastebin.com/CweNbDq7)
+* [⭐Free Giftcards Method ⭐October 2024](https://pastebin.com/LP4BXtQK)
+    
+    Python | 3 sec ago | 0.30 KB
+    
+* [⭐Make $2500 ⭐ Day on your PC (Easy)](https://pastebin.com/6UDFvVV9)
     
     JavaScript | 3 sec ago | 0.18 KB
     
-* [⭐ Free giftcards private guide](https://pastebin.com/BDzwCbcm)
-    
-    Python | 4 sec ago | 0.31 KB
-    
-* [1000$ Amazon Giftcards](https://pastebin.com/dnyD4m4i)
+* [⭐Free Giftcards Method⭐October 2024](https://pastebin.com/e9wtwfPx)
     
     JavaScript | 4 sec ago | 0.17 KB
     
-* [\[5k$\]❤️UNLIMITED GIFTCARD GUIDE❤️](https://pastebin.com/vyCQmdcn)
+* [⭐FREE 2500$ GIFTCARDS METHOD ⭐️ October 2024](https://pastebin.com/RGP5PLKu)
     
     JavaScript | 5 sec ago | 0.18 KB
     
-* [Amazon Giftcards Method](https://pastebin.com/kCanPFXU)
+* [New free giftcards 0-day exploit](https://pastebin.com/2wAWbCiJ)
     
-    JavaScript | 6 sec ago | 0.17 KB
+    Python | 6 sec ago | 0.30 KB
     
-* [⚡️\[HQ LEAK\]⭐ Exploit $4000 a Day Everyday](https://pastebin.com/X7FZ9Q2K)
+* [❤️ MAKE $5000 IN 20 MINUTES ❤](https://pastebin.com/UWim4p1j)
     
     JavaScript | 6 sec ago | 0.18 KB
     
