@@ -271,7 +271,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=91746baf-850f-4cc2-a5b5-815c90466ed5)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=bba04999-a75b-43d8-aa29-a16da8bd3b74)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -430,7 +430,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=91746baf-850f-4cc2-a5b5-815c90466ed5)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=bba04999-a75b-43d8-aa29-a16da8bd3b74)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -448,10 +448,8 @@ Asia
         * [Returns](https://www.fjallraven.com/us/en-us/customer-service/returns/)
         * [Payments](https://www.fjallraven.com/us/en-us/customer-service/payments/)
         * [Size chart](https://www.fjallraven.com/us/en-us/customer-service/size-chart/)
-        * [Repair](https://www.fjallraven.com/us/en-us/customer-service/repair/)
         * [Store locator](https://www.fjallraven.com/us/en-us/customer-service/store-locator/)
         * [FAQ](https://support-na.fjallraven.com/hc/en-us)
-        * [Buyer's Guide](https://www.fjallraven.com/us/en-us/customer-service/guides/)
         * [Warranty](https://www.fjallraven.com/us/en-us/customer-service/warranty/)
         * [Gift Card Information](https://www.fjallraven.com/us/en-us/customer-service/gift-card-information/)
         
@@ -460,6 +458,7 @@ Asia
         * [View page About Fjällräven](https://www.fjallraven.com/us/en-us/about/)
         * [Our Mission](https://www.fjallraven.com/us/en-us/about/our-mission/)
         * [Our History](https://www.fjallraven.com/us/en-us/about/our-history/)
+        * [Buyer's Guide](https://www.fjallraven.com/us/en-us/about/guides/)
         * [Press Room](https://www.press.fjallraven.com/en/)
         * [The Arctic Fox Initiative](https://www.fjallraven.com/us/en-us/about/the-arctic-fox-initiative/)
         * Sustainability
@@ -468,7 +467,7 @@ Asia
             * [Sustainable design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
             * [Sustainable Materials](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-materials/)
             * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
-            * [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
+            * [Product Care](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
             
         * [Careers](https://career.fjallraven.com/?_ga=2.56266475.1301247533.1630331041-1533892604.1626727350&_gac=1.146943685.1627315080.CjwKCAjwuvmHBhAxEiwAWAYj-B_VkGwnQduvVzv-L-YiEIeAA89zsmMGGGE7HjcJqqsqGNcd0fHXvBoCAQsQAvD_BwE)
         * [Our Materials](https://www.fjallraven.com/us/en-us/about/our-materials/)
@@ -511,10 +510,8 @@ Main Content Starts Here
 * [Returns](https://www.fjallraven.com/us/en-us/customer-service/returns/)
 * [Payments](https://www.fjallraven.com/us/en-us/customer-service/payments/)
 * [Size chart](https://www.fjallraven.com/us/en-us/customer-service/size-chart/)
-* [Repair](https://www.fjallraven.com/us/en-us/customer-service/repair/)
 * [Store locator](https://www.fjallraven.com/us/en-us/customer-service/store-locator/)
 * [FAQ](https://support-na.fjallraven.com/hc/en-us)
-* [Buyer's Guide](https://www.fjallraven.com/us/en-us/customer-service/guides/)
 * [Warranty](https://www.fjallraven.com/us/en-us/customer-service/warranty/)
 * [Gift Card Information](https://www.fjallraven.com/us/en-us/customer-service/gift-card-information/)
 
@@ -522,13 +519,14 @@ Main Content Starts Here
 
 * [Our Mission](https://www.fjallraven.com/us/en-us/about/our-mission/)
 * [Our History](https://www.fjallraven.com/us/en-us/about/our-history/)
+* [Buyer's Guide](https://www.fjallraven.com/us/en-us/about/guides/)
 * [Press Room](https://www.press.fjallraven.com/en/)
 * [The Arctic Fox Initiative](https://www.fjallraven.com/us/en-us/about/the-arctic-fox-initiative/)
 * [ ]  [Sustainability](https://www.fjallraven.com/us/en-us/about/sustainability/ "Sustainability")
     * [Sustainable design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
     * [Sustainable Materials](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-materials/)
     * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
-    * [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
+    * [Product Care](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
 * [Careers](https://career.fjallraven.com/?_ga=2.56266475.1301247533.1630331041-1533892604.1626727350&_gac=1.146943685.1627315080.CjwKCAjwuvmHBhAxEiwAWAYj-B_VkGwnQduvVzv-L-YiEIeAA89zsmMGGGE7HjcJqqsqGNcd0fHXvBoCAQsQAvD_BwE)
 * [Our Materials](https://www.fjallraven.com/us/en-us/about/our-materials/)
 
@@ -800,7 +798,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=91746baf-850f-4cc2-a5b5-815c90466ed5)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=bba04999-a75b-43d8-aa29-a16da8bd3b74)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
