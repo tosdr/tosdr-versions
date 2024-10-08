@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Pengate ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/35-facts-about-pengate/)
+[![31 Facts About The Voting Rights Act Of 1965 ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22105%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/31-facts-about-the-voting-rights-act-of-1965/)
 
 Society & Social Sciences
 
-07 Oct 2024
+08 Oct 2024
 
-[35 Facts About Pengate](https://facts.net/society-and-social-sciences/35-facts-about-pengate/)
+[31 Facts About The Voting Rights Act Of 1965](https://facts.net/society-and-social-sciences/31-facts-about-the-voting-rights-act-of-1965/)
 
-[![25 Facts About Onychonychia Hypoplastic Distal Phalanges ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2280%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-onychonychia-hypoplastic-distal-phalanges/)
+[![33 Facts About Retirement Syndrome  Factsnet ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/health/33-facts-about-retirement-syndrome-facts-net/)
 
-Health Science
+Health
 
-07 Oct 2024
+08 Oct 2024
 
-[25 Facts About Onychonychia Hypoplastic Distal Phalanges](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-onychonychia-hypoplastic-distal-phalanges/)
+[33 Facts About Retirement Syndrome Factsnet](https://facts.net/lifestyle/health/33-facts-about-retirement-syndrome-facts-net/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
