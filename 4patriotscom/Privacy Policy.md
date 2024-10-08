@@ -50,6 +50,7 @@ We Champion Freedom & Self-Reliance
     
     * ["Ultracharge" Generator Package](https://4patriots.com/products/ultimate-portable-power-station-package-2-solar-panels)
     * [Patriot Power Generator 2000X](https://4patriots.com/products/patriot-power-generator-2000x)
+    * [Bug-Out & Go Bags](https://4patriots.com/collections/car-emergency-supplies?page=1&rb_product_type=Emergency%20Car%20Kit%7CEmergency%20Tools%20%26%20Kits)
     * [3-Month Survival Food Kit PlatinumXL](https://4patriots.com/products/3-month-platinum-survival-food-kit)
     * [Patriot Pure Air Purification System](https://4patriots.com/products/patriot-pure-air-advanced-purification-system)
     * [100% Real Meat Kits](https://4patriots.com/collections/jumbo-meat-kits)
