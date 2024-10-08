@@ -166,6 +166,62 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Days of Praise
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/knowing-jesus-christ)
+
+[Knowing Jesus Christ](https://www.icr.org/article/knowing-jesus-christ/)
+
+“I know thee who thou art, the Holy One of God.” (Mark 1:24) Today’s verse records the response of a demonic host just before...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/still-small-voice)
+
+[A Still, Small Voice](https://www.icr.org/article/still-small-voice/)
+
+“And after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice.” (1 Kings 19:12) Elijah...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/i-come-quickly)
+
+[I Come Quickly](https://www.icr.org/article/i-come-quickly/)
+
+“He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.” (Revelation 22:20) This is the next-to-the-last...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32688/file.jpg)
+
+The Henry Morris Study Bible - Case](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-case.html)
+
+$34.99
+
+$39.99
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10476476/file.jpg)
+
+The Revelation Record](https://store.icr.org/dr-henry-morris-the-revelation-record.html)
+
+$24.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475649/file.jpg)
+
+The Remarkable Record of Job](https://store.icr.org/dr-henry-morris-the-remarkable-record-of-job.html)
+
+$9.99
+
+[](https://store.icr.org/.html)
+
+$
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
