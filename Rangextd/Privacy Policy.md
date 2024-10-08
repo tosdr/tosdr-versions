@@ -58,30 +58,6 @@ Search results
     [](https://www.rangextd.com/products/kore-2-0)
     
 
-Shop Collections
-================
-
-[View all collections](https://www.rangextd.com/collections) 
-
-* ![Collection image for: Personal Essentials](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=240&v=1727247097&width=300)
-    
-    [Personal Essentials](https://www.rangextd.com/collections/personal-essentials) 
-    
-* ![Collection image for: Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=240&v=1727247156&width=300)
-    
-    [Family Essentials](https://www.rangextd.com/collections/family-essentials) 
-    
-* ![Collection image for: Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=240&v=1724829778&width=300)
-    
-    [Travel](https://www.rangextd.com/collections/travel-mobility) 
-    
-* ![Collection image for: Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=240&v=1728032127&width=300)
-    
-    [Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) 
-    
-
-[View all collections](https://www.rangextd.com/collections) 
-
 Best Selling Items
 ==================
 
@@ -162,26 +138,85 @@ Best Selling Items
 
 [View all collections](https://www.rangextd.com/collections/best-selling-items) 
 
-* ![Banner image for: Personal Care](//savvysmartdeals.com/cdn/shop/files/personal-care-1.png?v=1720520189&width=620)
+Shop Collections
+================
+
+[View all collections](https://www.rangextd.com/collections) 
+
+* ![Collection image for: Personal Essentials](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=240&v=1727247097&width=300)
     
-    Personal Care
-    -------------
+    [Personal Essentials](https://www.rangextd.com/collections/personal-essentials) 
     
-    [Discover now](https://savvysmartdeals.com/collections/personal-care)
+* ![Collection image for: Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=240&v=1727247156&width=300)
     
-    [](https://savvysmartdeals.com/collections/personal-care)
+    [Family Essentials](https://www.rangextd.com/collections/family-essentials) 
     
-* ![Banner image for: Travel Gear](//savvysmartdeals.com/cdn/shop/files/travel-gear-1.png?v=1720520322&width=620)
+* ![Collection image for: Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=240&v=1724829778&width=300)
     
-    ### Travel Gear
+    [Travel](https://www.rangextd.com/collections/travel-mobility) 
     
-    [](https://savvysmartdeals.com/collections/travel-gear)
+* ![Collection image for: Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=240&v=1728032127&width=300)
     
-* ![Banner image for: Smart devices](//savvysmartdeals.com/cdn/shop/files/smart-devices-1_3a56f6ca-d79f-44b6-a0e8-b1af17b1dfff.png?v=1720520546&width=620)
+    [Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) 
     
-    ### Smart devices
+
+[View all collections](https://www.rangextd.com/collections) 
+
+* ![Banner image for: Personal Essentials](//savvysmartdeals.com/cdn/shop/files/bnr-2_6d99ac8c-588b-4d90-b4f2-203518f9f39c.jpg?v=1723028867&width=620)
     
-    [](https://savvysmartdeals.com/collections/smart-devices)
+    Personal Essentials
+    -------------------
+    
+    [Discover now](https://www.rangextd.com/collections/personal-essentials)
+    
+    [](https://www.rangextd.com/collections/personal-essentials)
+    
+* ![Banner image for: Travel](//savvysmartdeals.com/cdn/shop/files/Review_1_5208d348-34cb-4c73-9db3-470b34df43b2.png?v=1727243981&width=620)
+    
+    ### Travel
+    
+    [](https://www.rangextd.com/collections/travel-mobility)
+    
+* ![Banner image for: Family Essentials](//savvysmartdeals.com/cdn/shop/files/Stack4_f5faa6f5-0e4d-4a15-899e-a1713df879d1.png?v=1727163260&width=620)
+    
+    ### Family Essentials
+    
+    [](https://www.rangextd.com/collections/family-essentials)
+    
+
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-fox.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-as-seen-cn.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-3.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-cnn.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-yahoo.png?v=1720582147&width=150)
+
+* ![Unleash Your Inner Adventurer](//savvysmartdeals.com/cdn/shop/files/STARSCOPE_-_CU_STILL_02.jpg?v=1727430371&width=620)
+    
+    [](https://www.rangextd.com/)
+    
+    Unleash Your Inner Adventurer
+    -----------------------------
+    
+    Witness nature's most breathtaking moments in HD with  
+    Starscope Monocular.
+    
+    [Shop now](https://www.rangextd.com/)
+    
+    [](https://www.rangextd.com/)
+    
+* ![Join the KoreHealth Revolution](//savvysmartdeals.com/cdn/shop/files/review-4_56a16220-8d17-4ce1-a2aa-81fa4c572a4a.jpg?v=1723028924&width=620)
+    
+    [](https://www.rangextd.com/)
+    
+    Join the KoreHealth Revolution
+    ------------------------------
+    
+    Track your progress with KoreScale Gen2 and the KoreHealth  
+    app for real-time health insights.
+    
+    [Shop now](https://www.rangextd.com/)
+    
+    [](https://www.rangextd.com/)
     
 
 Most sold this week
@@ -253,91 +288,6 @@ Discover the hottest items flying off the shelves.
     
 
 [Top 100 most sold](https://www.rangextd.com/) 
-
-* Sale -59% [![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/hero6.jpg?v=1724830907&width=645)](https://www.rangextd.com/products/blaux-bidet-gen-2)
-    
-    Quantity  Add to cart
-    
-    ### [Blaux Bidet - Portable Clean, Convenient, Customizable](https://www.rangextd.com/products/blaux-bidet-gen-2)
-    
-    Next day delivery
-    
-    $169.99 $69.99
-    
-    Quantity  Add to cart
-    
-* Sale -47% [![Neckrelax Neck Massager Magic - Pain-Free Neck](//savvysmartdeals.com/cdn/shop/files/1496ba9fa9c9e9f2e068c281cb03c16c.png?v=1721296666&width=645)](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
-    
-    Quantity  Add to cart
-    
-    ### [Neckrelax Neck Massager Magic - Pain-Free Neck](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
-    
-    Next day delivery
-    
-    $188.99 $99.98
-    
-    Quantity  Add to cart
-    
-* Sale -46% [![RangeXTD WiFi Extender - Seamless Coverage](//savvysmartdeals.com/cdn/shop/files/67c81fad9ac5ac20a93a1caae3a8ee10.png?v=1721296728&width=645)](https://www.rangextd.com/products/rangextd)
-    
-    Quantity  Add to cart
-    
-    ### [RangeXTD WiFi Extender - Seamless Coverage](https://www.rangextd.com/products/rangextd)
-    
-    Next day delivery
-    
-    $110.99 $59.99
-    
-    Quantity  Add to cart
-    
-
-* ![Never Lose Your Furry Friend](//savvysmartdeals.com/cdn/shop/files/never-lose.png?v=1720580236&width=640)
-    
-    Never Lose Your Furry Friend
-    ============================
-    
-    ChatWow Pet Tag brings your pet back home  
-    safely with one quick scan.
-    
-    [Shop now](https://www.rangextd.com/collections)
-    
-    [](https://www.rangextd.com/collections)
-    
-
-* ![Unleash Your Inner Adventurer](//savvysmartdeals.com/cdn/shop/files/promo-1.png?v=1720581088&width=620)
-    
-    [](https://www.rangextd.com/)
-    
-    Unleash Your Inner Adventurer
-    -----------------------------
-    
-    Witness nature's most breathtaking moments in HD with  
-    Starscope Monocular.
-    
-    [Shop now](https://www.rangextd.com/)
-    
-    [](https://www.rangextd.com/)
-    
-* ![Join the KoreHealth Revolution](//savvysmartdeals.com/cdn/shop/files/promo-2.png?v=1720581088&width=620)
-    
-    [](https://www.rangextd.com/)
-    
-    Join the KoreHealth Revolution
-    ------------------------------
-    
-    Track your progress with KoreScale Gen2 and the KoreHealth  
-    app for real-time health insights.
-    
-    [Shop now](https://www.rangextd.com/)
-    
-    [](https://www.rangextd.com/)
-    
-
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-fox.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-as-seen-cn.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-3.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-cnn.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-yahoo.png?v=1720582147&width=150)
 
 Our latest blog posts
 =====================
