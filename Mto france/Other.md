@@ -204,7 +204,7 @@ Suivez-nous
 Droits de Reproduction
 ======================
 
-07/10/2024
+08/10/2024
 
 Décharge de responsabilité
 --------------------------
