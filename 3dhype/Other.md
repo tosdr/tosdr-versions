@@ -86,9 +86,9 @@ Categories [Quick Recipes](https://casihelper.com/category/quick-recipes/) [Leav
 
 September 30, 2024September 25, 2024
 
-[![Heavenly Banana Walnut Cream Cake](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201344%20768'%3E%3C/svg%3E)
+  [![Heavenly Banana Walnut Cream Cake](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201344%20768'%3E%3C/svg%3E)
 
-![Heavenly Banana Walnut Cream Cake](https://casihelper.com/wp-content/uploads/2024/09/Heavenly-Banana-Walnut-Cream-Cake.jpg)](https://casihelper.com/heavenly-banana-walnut-cream-cake-recipe/)
+ ![Heavenly Banana Walnut Cream Cake](https://casihelper.com/wp-content/uploads/2024/09/Heavenly-Banana-Walnut-Cream-Cake.jpg)](https://casihelper.com/heavenly-banana-walnut-cream-cake-recipe/)
 
 Indulge in the ultimate dessert with this Heavenly Banana Walnut Cream Cake recipe – a scrumptious blend of moist banana cake and creamy walnuts.
 
