@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [America’s Largest Water and Wastewater Utility Hit by Cyberattack](https://www.theepochtimes.com/us/americas-largest-water-and-wastewater-utility-hit-by-cyberattack-5737131)
+    
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![America’s Largest Water and Wastewater Utility Hit by Cyberattack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![America’s Largest Water and Wastewater Utility Hit by Cyberattack](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737268-AP_US_American_Water_Cyberattack_24281809304037-205x123.jpg.webp)](https://www.theepochtimes.com/us/americas-largest-water-and-wastewater-utility-hit-by-cyberattack-5737131)
+* [These 6 Michigan Counties Could Decide Who Wins 2024 Presidential Election](https://www.theepochtimes.com/article/these-6-michigan-counties-could-decide-who-wins-2024-presidential-election-5735452)
+    
+    2hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![These 6 Michigan Counties Could Decide Who Wins 2024 Presidential Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![These 6 Michigan Counties Could Decide Who Wins 2024 Presidential Election](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737255-Michigan-county-8-205x123.jpg.webp)](https://www.theepochtimes.com/article/these-6-michigan-counties-could-decide-who-wins-2024-presidential-election-5735452)
+* [Day in Photos: Year-Long Attack, Short-Lived Mayor, and Launched Rocket](https://www.theepochtimes.com/article/day-in-photos-year-long-attack-short-lived-mayor-and-launched-rocket-5736348)
+    
+    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Year-Long Attack, Short-Lived Mayor, and Launched Rocket](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Year-Long Attack, Short-Lived Mayor, and Launched Rocket](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737253-GettyImages-2176333136-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-year-long-attack-short-lived-mayor-and-launched-rocket-5736348)
+* [Federal Court Orders Google to Open Android to Third-Party App Stores in Antitrust Case](https://www.theepochtimes.com/us/federal-court-orders-google-to-open-android-to-third-party-app-stores-in-antitrust-case-5737091)
+    
+    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![Federal Court Orders Google to Open Android to Third-Party App Stores in Antitrust Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Court Orders Google to Open Android to Third-Party App Stores in Antitrust Case](https://img.theepochtimes.com/assets/uploads/2022/02/16/ALPHABET-GOOGLE-ANDROID-ADVERTISING-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-court-orders-google-to-open-android-to-third-party-app-stores-in-antitrust-case-5737091)
+* [Schizophrenia Drug Linked to Pneumonia, Gut Disorders in 25-Year Follow-Up Study](https://www.theepochtimes.com/health/schizophrenia-drug-linked-to-pneumonia-and-gut-disorders-25-year-follow-up-study-5735619)
+    
+    4hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
+    
+    [![Schizophrenia Drug Linked to Pneumonia, Gut Disorders in 25-Year Follow-Up Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Schizophrenia Drug Linked to Pneumonia, Gut Disorders in 25-Year Follow-Up Study](https://img.theepochtimes.com/assets/uploads/2023/01/12/shutterstock_1545336026-205x123.jpg.webp)](https://www.theepochtimes.com/health/schizophrenia-drug-linked-to-pneumonia-and-gut-disorders-25-year-follow-up-study-5735619)
+* [Wall Street Falls as 10-Year Treasury Yield Tops 4 Percent for First Time Since August](https://www.theepochtimes.com/us/wall-street-falls-as-10-year-treasury-yield-tops-4-percent-for-first-time-since-august-5737045)
+    
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Wall Street Falls as 10-Year Treasury Yield Tops 4 Percent for First Time Since August](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Wall Street Falls as 10-Year Treasury Yield Tops 4 Percent for First Time Since August](https://img.theepochtimes.com/assets/uploads/2024/08/05/id5699907-2024-02-05T111354Z_1_LYNXMPEK140F1_RTROPTP_4_USA-STOCKS-LSedit-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/wall-street-falls-as-10-year-treasury-yield-tops-4-percent-for-first-time-since-august-5737045)
 * [Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://www.theepochtimes.com/business/major-wall-street-bank-lowers-chance-of-recession-citing-robust-jobs-data-5736936)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://img.theepochtimes.com/assets/uploads/2024/08/06/id5700292-GettyImages-2165431872-205x123.jpg.webp)](https://www.theepochtimes.com/business/major-wall-street-bank-lowers-chance-of-recession-citing-robust-jobs-data-5736936)
+    ![Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737258-GettyImages-2165431872KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/major-wall-street-bank-lowers-chance-of-recession-citing-robust-jobs-data-5736936)
 * [Supreme Court Tosses Biden Admin’s Appeal in Texas Emergency Abortion Case](https://www.theepochtimes.com/us/supreme-court-tosses-biden-admins-appeal-in-texas-emergency-abortion-case-5736939)
     
-    1hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    7hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
     [![Supreme Court Tosses Biden Admin’s Appeal in Texas Emergency Abortion Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Supreme Court Tosses Biden Admin’s Appeal in Texas Emergency Abortion Case](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737020-10072024-L1160069-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-tosses-biden-admins-appeal-in-texas-emergency-abortion-case-5736939)
 * [A Year Later, Israel Commemorates the Oct. 7 Attack by Hamas](https://www.theepochtimes.com/world/a-year-later-israel-commemorates-the-oct-7-attack-by-hamas-5736965)
     
-    2hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    7hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
     [![A Year Later, Israel Commemorates the Oct. 7 Attack by Hamas](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![A Year Later, Israel Commemorates the Oct. 7 Attack by Hamas](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736980-oct-7-memorial-205x123.jpg.webp)](https://www.theepochtimes.com/world/a-year-later-israel-commemorates-the-oct-7-attack-by-hamas-5736965)
+    ![A Year Later, Israel Commemorates the Oct. 7 Attack by Hamas](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736652-Oct.-7-anniversary-GettyImages-2177182270-205x123.jpg.webp)](https://www.theepochtimes.com/world/a-year-later-israel-commemorates-the-oct-7-attack-by-hamas-5736965)
 * [House Intel Chairman Calls on FBI to Investigate Whether Would-Be Trump Assassins Linked to Iran](https://www.theepochtimes.com/us/house-intel-chairman-calls-on-fbi-to-investigate-whether-would-be-trump-assassins-linked-to-iran-5736836)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![House Intel Chairman Calls on FBI to Investigate Whether Would-Be Trump Assassins Linked to Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![House Intel Chairman Calls on FBI to Investigate Whether Would-Be Trump Assassins Linked to Iran](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737109-Mike-Turner-GettyImages-1449159997-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-intel-chairman-calls-on-fbi-to-investigate-whether-would-be-trump-assassins-linked-to-iran-5736836)
-* [Georgia Supreme Court Reinstates State’s Abortion Law](https://www.theepochtimes.com/us/georgia-supreme-court-reinstates-states-abortion-law-5736977)
-    
-    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Georgia Supreme Court Reinstates State’s Abortion Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Georgia Supreme Court Reinstates State’s Abortion Law](https://img.theepochtimes.com/assets/uploads/2024/06/27/id5676682-apapsapdasudasudausdu-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-supreme-court-reinstates-states-abortion-law-5736977)
-* [Elon Musk PAC Says It Will Give Referrers $47 for Every Swing-State Voter Who Signs Petition](https://www.theepochtimes.com/us/elon-musk-pac-says-it-will-give-referrers-47-for-every-swing-state-voter-who-signs-petition-5736882)
-    
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Elon Musk PAC Says It Will Give Referrers $47 for Every Swing-State Voter Who Signs Petition](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Elon Musk PAC Says It Will Give Referrers $47 for Every Swing-State Voter Who Signs Petition](https://img.theepochtimes.com/assets/uploads/2024/03/19/id5610754-trump-musk-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/elon-musk-pac-says-it-will-give-referrers-47-for-every-swing-state-voter-who-signs-petition-5736882)
-* [Category 5 Hurricane Milton Boast 180 MPH Winds, Set to Hit Florida as Category 3](https://www.theepochtimes.com/us/milton-expected-to-become-category-5-hurricane-5736830)
-    
-    7hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Category 5 Hurricane Milton Boast 180 MPH Winds, Set to Hit Florida as Category 3](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Category 5 Hurricane Milton Boast 180 MPH Winds, Set to Hit Florida as Category 3](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737150-hurricanemilton5-205x123.png.webp)](https://www.theepochtimes.com/us/milton-expected-to-become-category-5-hurricane-5736830)
-* [FEMA Warns Americans of Scams After Hurricane Helene’s Devastation](https://www.theepochtimes.com/us/fema-warns-americans-of-scams-after-hurricane-helenes-devastation-5736766)
-    
-    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![FEMA Warns Americans of Scams After Hurricane Helene’s Devastation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![FEMA Warns Americans of Scams After Hurricane Helene’s Devastation](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736927-North-Carolina-National-Guard-GettyImages-1033187726KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-warns-americans-of-scams-after-hurricane-helenes-devastation-5736766)
-* [Supreme Court Won’t Hear Challenge to Biden’s Order on Voter Registration](https://www.theepochtimes.com/us/supreme-court-wont-hear-challenge-to-bidens-order-on-voter-registration-5736790)
-    
-    8hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Supreme Court Won’t Hear Challenge to Biden’s Order on Voter Registration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court Won’t Hear Challenge to Biden’s Order on Voter Registration](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736930-08142024-DSC06974-SCOTUSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-wont-hear-challenge-to-bidens-order-on-voter-registration-5736790)
-* [New Zealand Navy Vessel Sinks After Running Aground on Samoan Reef](https://www.theepochtimes.com/world/new-zealand-navy-vessel-sinks-after-running-aground-on-samoan-reef-5736664)
-    
-    11hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
-    
-    [![New Zealand Navy Vessel Sinks After Running Aground on Samoan Reef](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New Zealand Navy Vessel Sinks After Running Aground on Samoan Reef](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736753-1rG.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/new-zealand-navy-vessel-sinks-after-running-aground-on-samoan-reef-5736664)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
