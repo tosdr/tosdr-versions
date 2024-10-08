@@ -194,7 +194,7 @@ Close
 
 ![Save 25% off on all Andrea Bocelli products](https://images.fandango.com/cms/assets/9b07b1d0-82bc-11ef-a588-3b078e6b3d8a--fan-globalnavbar-andreabocelli-343x362.png)
 
-#### Buy a Ticket, Save 25% off on Andrea Bocelli products at Verve Record Store.
+#### Buy a Ticket, Save 25% off on Andrea Bocelli products at Verve Records Store.
 
 \*Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Andrea Bocelli 30: The Celebration’ between 9:00am PT on 10/8/24 and 11:59pm PT on 11/14/24 (the “Offer Period”). Purchaser will receive a post purchase email containing 1 Verve Records Store Promotional Code (“Code”) that is good for 25% off the purchase of all Andrea Bocelli products in the store. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. [Buy Tickets](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_promomodule)
 
