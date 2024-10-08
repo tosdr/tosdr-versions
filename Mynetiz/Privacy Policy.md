@@ -1,4 +1,4 @@
-    [](https://pixelfed.social/mynetiz)[](https://x.com/mynetiz)[](https://rumble.com/c/c-3429590)[](https://vimeo.com/mynetiz)[](https://www.youtube.com/c/mynetiz)[](https://soundcloud.com/mynetiz)[](https://github.com/mynetiz)[](https://mastodon.social/@myusnetiz)[](https://pixelfed.social/myusnetiz)[](https://bsky.app/profile/myusnetiz.bsky.social "Bluesky")[](https://gitlab.com/@myusnetiz)[](https://github.com/myusnetiz)[](https://orcid.org/0009-0005-8727-741X)[](https://gravatar.com/myusnetiz)Privacy Policy – MyNetiz                                                             
+    [](https://mastodon.social/@mynetiz)[](https://pixelfed.social/mynetiz)[](https://x.com/mynetiz)[](https://rumble.com/c/c-3429590)[](https://vimeo.com/mynetiz)[](https://www.youtube.com/c/mynetiz)[](https://soundcloud.com/mynetiz)[](https://github.com/mynetiz)[](https://facebook.com/mynetizcom)[](https://mastodon.social/@myusnetiz)[](https://pixelfed.social/myusnetiz)[](https://bsky.app/profile/myusnetiz.bsky.social "Bluesky")[](https://gitlab.com/@myusnetiz)[](https://github.com/myusnetiz)[](https://orcid.org/0009-0005-8727-741X)[](https://gravatar.com/myusnetiz)Privacy Policy – MyNetiz                                                           
 
 * [Anasayfa](https://mynetiz.com/ "Anasayfa")
 * [Künye](https://mynetiz.com/kunye "Künye")
@@ -20,6 +20,7 @@
     * [Kütüphane](https://mynetiz.com/kutuphane)
     * [Linux](https://mynetiz.com/linux)
     * [Takım Çantası](https://mynetiz.com/yazanlar)
+        * [Ağlar](https://mynetiz.com/yazanlar/aglar)
         * [Android](https://mynetiz.com/yazanlar/android)
         * [Araçlar](https://mynetiz.com/yazanlar/araclar)
         * [İnceleme](https://mynetiz.com/yazanlar/inceleme)
@@ -33,7 +34,7 @@
 
 [Pixelfed](https://pixelfed.social/mynetiz) • [Telegram](https://t.me/mynetiz) • [𝕏](https://twitter.com/mynetiz) • [Rumble](https://rumble.com/c/c-3429590) • [Vimeo](https://vimeo.com/mynetiz) • [Youtube](https://www.youtube.com/c/mynetiz) • [Soundcloud](https://soundcloud.com/mynetiz) • [Gitlab](https://gitlab.com/mynetiz) • [Github](https://github.com/mynetiz)
 
-October 8, 2024
+October 9, 2024
 
 * [Anasayfa](https://mynetiz.com/)
 * [İletişim](https://mynetiz.com/ileti)
@@ -46,7 +47,7 @@ October 8, 2024
 
 Yeni
 
-[Haberleşme ve Duyumsamanın Gücü](https://mynetiz.com/haberlesme-ve-duyumsamanin-gucu.html) [Winamp son durum](https://mynetiz.com/winamp-son-durum.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi-2.html) [Bilginin Tevazusu, Cehaletin Kibri](https://mynetiz.com/bilginin-tevazusu-cehaletin-kibri.html) [Hızlı Değişim Çağı](https://mynetiz.com/hizli-degisim-cagi.html) [Kadim Topraklar ve Hakça Bölüşüm](https://mynetiz.com/kadim-topraklar-ve-hakca-bolusum.html) [Potansiyel Ordu](https://mynetiz.com/potansiyel-ordu.html) [Narinler katlediliyor… Dirim öldürülüyor…](https://mynetiz.com/narinler-katlediliyor-dirim-olduruluyor.html) [GEDİK](https://mynetiz.com/gedik.html)
+[Mastodon : Yeni Özellikler ve İyileştirmeler](https://mynetiz.com/mastodon-yeni-ozellikler-ve-iyilestirmeler.html) [Haberleşme ve Duyumsamanın Gücü](https://mynetiz.com/haberlesme-ve-duyumsamanin-gucu.html) [Winamp son durum](https://mynetiz.com/winamp-son-durum.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi.html) [Kişi, Ekonomik Bunalım ve Zincirlerin Işıltısı](https://mynetiz.com/kisi-ekonomik-bunalim-ve-zincirlerin-isiltisi-2.html) [Bilginin Tevazusu, Cehaletin Kibri](https://mynetiz.com/bilginin-tevazusu-cehaletin-kibri.html) [Hızlı Değişim Çağı](https://mynetiz.com/hizli-degisim-cagi.html) [Kadim Topraklar ve Hakça Bölüşüm](https://mynetiz.com/kadim-topraklar-ve-hakca-bolusum.html) [Potansiyel Ordu](https://mynetiz.com/potansiyel-ordu.html) [Narinler katlediliyor… Dirim öldürülüyor…](https://mynetiz.com/narinler-katlediliyor-dirim-olduruluyor.html)
 
 Privacy Policy
 ==============
@@ -219,7 +220,7 @@ Should we update, amend or make any changes to this document, those changes will
 * [Kullanım Koşulları](https://mynetiz.com/kullanim-ve-gizlilik-kosullari)
 * [İletişim](https://mynetiz.com/ileti)
 
-03.10.2024 tarihinde yenilendi
+08.10.2024 tarihinde yenilendi
 
 [![](https://mynetiz.com/wp-content/themes/ipt-knowledgebase-theme-wp-master/images/logow.png)](https://kutuphanemizden.com/ "Kütüphanemizden") © 2024 · [KBT](https://github.com/swashata/ipt-knowledgebase-theme-wp "WP Knowledge Base Theme")
 
