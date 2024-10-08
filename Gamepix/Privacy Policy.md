@@ -821,8 +821,6 @@ Place of processing: United States – [Privacy Policy](https://policies.google.
 
 Storage duration:
 
-* AID: 2 years
-* ANID: 2 years
 * Conversion: 3 months
 * DSID: 14 days
 * FCNEC: 1 year
@@ -836,7 +834,6 @@ Storage duration:
 * IDE: 2 years
 * NID: 6 months
 * RUL: 1 year
-* TAID: 14 days
 * \_\_gads: 2 years
 * \_\_gpi: 2 years
 * \_\_gpi\_optout: 2 years
@@ -851,6 +848,7 @@ Storage duration:
 * \_gcl\_gf: 3 months
 * \_gcl\_gs: 3 months
 * \_gcl\_ha: 3 months
+* ar\_debug: 3 months
 * id: 2 years
 * receive-cookie-deprecation: 6 months
 * test\_cookie: 15 minutes
