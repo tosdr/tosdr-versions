@@ -5,8 +5,6 @@
 UKC
 ===](https://www.ukclimbing.com/ "Go to homepage")Toggle navigation[](https://www.ukclimbing.com/user/)
 
-[![Advert](https://img.ukclimbing.com/ads/i/12028.jpg?fm=jpg&time=1717518901&w=728&s=892569de50bf319a823834c60bd14a96)](https://advertising.ukclimbing.com/click.php?id=12028&uri=4)
-
 Menu Toggle navigation Toggle navigation Toggle navigation Toggle navigation
 
 * [News](https://www.ukclimbing.com/news/)
@@ -289,8 +287,6 @@ is a figurative trademark registered in the UK with registration number: UK00003
 ![Rockfax](https://cdn.ukc2.com/rockfax/logo_black.svg "Rockfax") is a figurative trademark registered in the UK with registration number: UK00003406190
 
 You are not permitted to use them without our approval, unless they are part of material you are using as permitted under [How you may use material on our site](#permitted_use).
-
-[![Advert](https://ukc2.com/ads/b/12105.webp?t=1727339105)](https://advertising.ukclimbing.com/click.php?id=12105&uri=55)
 
 [Advertising on UKC](https://advertising.ukclimbing.com/)
 
