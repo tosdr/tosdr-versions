@@ -113,7 +113,7 @@ Trigger navigation
     * ![English](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=30,metadata=none/static/en-flag.png)**English**
     * [![Español](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=30,metadata=none/static/es-flag.png)Español](https://www.zerobounce.net/es/privacy-policy/ "Español")
     
-* [Log In](https://www.zerobounce.net/members/signin)
+* [Sign In](https://www.zerobounce.net/members/signin)
 * [Sign Up Free](https://www.zerobounce.net/members/signin/register)
 
 * Privacy Policy
@@ -160,7 +160,7 @@ EU legislation requires websites to inform users when cookies are in use. Please
 
 #### Strictly necessary cookies
 
-Strictly necessary cookies are essential for us to deliver the Site and related Services to You securely and in compliance with applicable law and cannot be disabled. Such strictly necessary cookies include third party cookies, including but not limited to those from Amazon Web Services, Cloudflare, Okta, Stripe, and Zendesk. Without the strictly necessary cookies, you would be unable to login to Your ZeroBounce account and access the Services through the Site.
+Strictly necessary cookies are essential for us to deliver the Site and related Services to You securely and in compliance with applicable law and cannot be disabled. Such strictly necessary cookies include third party cookies, including but not limited to those from Amazon Web Services, Cloudflare, Okta, Stripe, and Zendesk. Without the strictly necessary cookies, you would be unable to sign in to Your ZeroBounce account and access the Services through the Site.
 
 #### Targeting or advertising cookies
 
@@ -188,7 +188,7 @@ In addition to the above, Google has developed a Google Analytics opt-out browse
 
 ### Personal Information Collected
 
-To the extent that You elect to create an account on the Site, ZeroBounce collects information that You submit in connection Your account (“Personal Information”), including Your full name, email address, the password You select, phone number, company industry, and/or the third party social media account You may select, to sign into the Services. To the extent that You purchase credits through the Site for the Services, or subscribe to purchase credits, Your credit card/debit card number and related billing information will also be collected. Personal Information such as Your name and email address are used to create a user account for the Site and Services, as well as for ZeroBounce’s advertising and marketing purposes (such as email newsletters) and invoicing.
+To the extent that You elect to create an account on the Site, ZeroBounce collects information that You submit in connection Your account (“Personal Information”), including Your full name, email address, the password You select, phone number, company industry, and/or the third party social media account You may select, to sign in to the Services. To the extent that You purchase credits through the Site for the Services, or subscribe to purchase credits, Your credit card/debit card number and related billing information will also be collected. Personal Information such as Your name and email address are used to create a user account for the Site and Services, as well as for ZeroBounce’s advertising and marketing purposes (such as email newsletters) and invoicing.
 
 If You initiate a payment for the Services, ZeroBounce may collect and store Personal Information, as well as any other information provided to us. ZeroBounce encrypts credit card numbers using industry standard technology. This Personal Information may be shared with third parties such as Paypal and/or Stripe to process Your payment(s) for the Services.
 
