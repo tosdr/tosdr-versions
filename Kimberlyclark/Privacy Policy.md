@@ -468,7 +468,7 @@ We are committed to earning and maintaining trust by honoring the following prin
 GLOBAL PRIVACY POLICY
 =====================
 
-Last Updated : 09/20/2024
+Last Updated : 10/08/2024
 
 [](javascript:void(0))
 
@@ -1152,6 +1152,39 @@ Lobby A
 Autopista Prospero Frenandez 10203 San Jose  
 Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)  
 Consumer service Number: 800-800-2473; Fax: 506-239-0805
+
+Read more Read less
+
+Indonesia
+---------
+
+If you reside in Indonesia, you may request access to, and modification, opposition, and deletion of the personal information that we have collected about you. If you would like to do so, please contact us at:
+
+PT Softex Indonesia  
+The Prominence Tower Floor 5th, Jalan Sutera Barat No.15, Alam Sutera Panunggangan Timur,  
+Pinang, Tangerang, Banten, Indonesia 15143  
+Phone: (6221) 3005 5108  
+
+Please understand that according to applicable laws and regulations in Indonesia, we have the right to process your personal information without your prior consent under the following circumstances:
+
+1. Where it is necessary for the conclusion or performance of a contract to which you are a contracting party, or for the management of human resources in accordance with contracts signed and labor related policies and policies according to applicable laws;
+2. Where it is necessary for us to fulfill statutory responsibilities or obligations;
+3. Where it is necessary for the protection of the vital interest of an individual;
+4. Where it is necessary to carry out our duties in the context of public interest, public services or exercising the authority of data controller based on laws and regulations;
+5. Where it is necessary to respond to public health emergencies, or for the protection of life, health and safety of a natural person under emergency circumstances;
+6. Where personal information disclosed by yourself or legally available from open sources are reasonably processed by us in compliance with applicable laws;
+7. Other circumstances as required by laws and regulations.
+
+We will process your personal information within the necessary scope in a lawful and legitimate manner consistent with the purposes stated herein or stated under separate consent form (as applicable). Please note that we only collect and use your personal information to the extent reasonably necessary, and not all of the following purposes are related to you:
+
+* develop, provide and improve our products, services, communication methods, and the functionality of our Site;
+* process requests and manage our business needs regarding the products, offers and services we provide; this also includes responding to your questions and verifying your identity when necessary when you contact us;
+* provide personalized experiences, transactional and marketing communications, and targeted advertising including special offers and recommendations to you;
+* better understand your interests and create profiles by analyzing information about your attributes, characteristics, and behaviors for internal research; and to establish, deliver and measure advertising/marketing campaigns to you or to people like you;
+* secure and protect your personal information and our interests; this includes preventing and investigating illegal activities, fraud and violations of our Terms of Use policies and other service conditions; and
+* comply with legal requirements, including cooperating with law enforcement, government authorities, or governmental mandate (but when we do, we will disclose only the minimum amount of information required by law).
+
+You may also withdraw your consent for us to continue collecting, using, disclosing and processing your personal information. However, if you do so, it may not be possible for us to fulfill the purposes for which we require the personal information, including providing you with products and/or services.
 
 Read more Read less
 
