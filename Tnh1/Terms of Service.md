@@ -206,23 +206,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 
 Corpo de turista desaparecida é encontrado dentro de tubarão
 
-Corpo de turista desaparecida é encontrado dentro de tubarão](https://www.tnh1.com.br/noticia/nid/corpo-de-turista-desaparecida-e-encontrado-dentro-de-tubarao/ "Corpo de turista desaparecida é encontrado dentro de tubarão")[![Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/7/csm_craibas-vista-cima_02398f973c.jpg)
-
-interior de AL
-
-interior de AL
-
-Homem passa mal em fila na porta de local de votação e morre após ser socorrido
-
-Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://www.tnh1.com.br/noticia/nid/homem-passa-mal-em-fila-na-porta-de-local-de-votacao-e-morre-apos-ser-socorrido/ "Homem passa mal em fila na porta de local de votação e morre após ser socorrido")[![Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/0/csm_Logotipo_de_Vale_Tudo_69fa42c568.png)
-
-Televisão
-
-Televisão
-
-Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo
-
-Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-atriz-que-rejeitou-participacao-especial-no-remake-de-vale-tudo/ "Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo")[![Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_csm_Ambulancia_Bombeiros_335e4cd072_c84d7335db.jpg)
+Corpo de turista desaparecida é encontrado dentro de tubarão](https://www.tnh1.com.br/noticia/nid/corpo-de-turista-desaparecida-e-encontrado-dentro-de-tubarao/ "Corpo de turista desaparecida é encontrado dentro de tubarão")[![Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/5/csm_csm_Ambulancia_Bombeiros_335e4cd072_c84d7335db.jpg)
 
 Na Ponta Grossa
 
@@ -230,7 +214,23 @@ Na Ponta Grossa
 
 Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió
 
-Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://www.tnh1.com.br/noticia/nid/mulher-tem-membro-inferior-dilacerado-apos-colisao-entre-duas-motos-em-maceio/ "Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió")
+Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://www.tnh1.com.br/noticia/nid/mulher-tem-membro-inferior-dilacerado-apos-colisao-entre-duas-motos-em-maceio/ "Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió")[![Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-funcionar-em-maceio_64e65bd56c.jpg)
+
+150 CÂMERAS
+
+150 CÂMERAS
+
+Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona
+
+Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona](https://www.tnh1.com.br/noticia/nid/novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-operar-em-alagoas-veja-como-funciona/ "Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ")[![Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/4/csm_erick_comando_c37d77c01d.jpeg)
+
+Polícia
+
+Polícia
+
+Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB
+
+Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB](https://www.tnh1.com.br/noticia/nid/homem-preso-em-estadio-e-apontado-pela-policia-como-o-suspeito-de-assassinar-puxador-da-torcida-organizada-do-crb/ "Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB")
 
 [![A reação de mãe de Diddy às acusações contra o rapper](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/1/csm_sean-diddy-reproducao-cnn-redes-sociais_c7abd3c4c4.jpg)
 
