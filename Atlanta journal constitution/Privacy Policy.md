@@ -1,3 +1,5 @@
+[Breaking: Tracking Hurricane Milton: What to expect in Georgia](https://www.ajc.com/news/atlanta-news/tracking-hurricane-milton-what-to-expect-in-georgia/ZHS74LNJMFAJBCJFCTAYU6XPHU/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1707)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1707)](https://www.ajc.com/)
 
 Log In
@@ -14,8 +16,8 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-a-seismic-shift-for-high-school-sports/2PVWMY5PPJBWZOHQIWDPNEJAAA/)
 * [Georgia Decides 2024: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
-* [Georgia School Shooting](https://www.ajc.com/news/georgia-school-shooting/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
