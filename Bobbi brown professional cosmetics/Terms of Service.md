@@ -2,6 +2,8 @@
 
 Previous
 
+[Enjoy up to 50% off favorites. Shop now.](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
+
 [Get a free makeup minis trio on $85+ ($60 value). Use code: face at checkout.](https://www.bobbibrowncosmetics.com/offers-landing-page)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
@@ -242,13 +244,15 @@ Fragrance
 
 Trending
 
+ [UP TO 50% OFF FAVORITES](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
+
  [HOLIDAY GIFT GUIDE](https://www.bobbibrowncosmetics.com/holiday-gift-guide)
 
  [NEW WEIGHTLESS FOUNDATION](https://www.bobbibrowncosmetics.com/product/14017/129115/makeup/face/foundation/weightless-skin-foundation-spf-15#/family/all)
 
- [POLISHED GRUNGE](https://www.bobbibrowncosmetics.com/polished-grunge-collection)
+ [BRIDAL BEAUTY](https://www.bobbibrowncosmetics.com/bride-wedding-makeup)
 
- [Last chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
+ [POLISHED GRUNGE COLLECTION](https://www.bobbibrowncosmetics.com/polished-grunge-collection)
 
  [Online Exclusives](https://www.bobbibrowncosmetics.com/products/39349/evergreengifting/exclusive_online)
 
@@ -258,13 +262,11 @@ Special offers
 
 [See Today's Offer](https://www.bobbibrowncosmetics.com/offers-landing-page "See Today's Offer")
 
-[Up to 30% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 30% off Last Chance")
+[Shop Early Gifting Days](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Shop Early Gifting Days")
 
 [Auto Replenishment](https://www.bobbibrowncosmetics.com/products/15597/makeup/auto-replenishment "Auto Replenishment")
 
  [THE ESSENTIALS EDIT](https://www.bobbibrowncosmetics.com/products/38559/essentialsedit)
-
- [BRIDAL BEAUTY](https://www.bobbibrowncosmetics.com/bride-wedding-makeup)
 
 Explore Explore
 
