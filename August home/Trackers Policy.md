@@ -4,6 +4,10 @@
 
  [![Yale](https://cdn.shopify.com/s/files/1/1354/7835/files/Secondary_Gray_-_2020_-_RGB_2x_79e15df4-8d99-4352-bdda-652bfcb57cf0.png?v=1615919455)](https://shopyalehome.com/?utm_source=august.com&utm_medium=referral&utm_campaign=cobrand_toggle)![August](https://cdn.shopify.com/s/files/1/1354/7835/files/August-Logo-white-110x36.png?v=1617137811)
 
+FLASH SALE | Save 35% on best-selling smart locks
+
+[Get The Deal](https://august.com/pages/sale)
+
 Shop new **Yale Approach™ Lock with Wi-Fi + Keypad Touch**
 
 [Learn More](https://august.com/products/yale-approach-lock-with-wi-fi)
@@ -20,7 +24,9 @@ Smart Locks
 
 Wi-Fi Smart Lock
 
-$199.99](https://august.com/products/august-wifi-smart-lock)[![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/IO-Silver_Yale-Keypad-Bio-Frt_2x_b65be57c-402a-41c7-b8c3-687a6c2c96dc_400x.png?v=1723658449)
+$199.99
+
+##### SALE](https://august.com/products/august-wifi-smart-lock)[![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/IO-Silver_Yale-Keypad-Bio-Frt_2x_b65be57c-402a-41c7-b8c3-687a6c2c96dc_400x.png?v=1723658449)
 
 Yale Approach™ Lock with Wi-Fi
 
@@ -30,7 +36,9 @@ Starting at $129.99
 
 Smart Lock
 
-$199.99](https://august.com/products/august-smart-lock-connect)
+$199.99
+
+##### SALE](https://august.com/products/august-smart-lock-connect)
 
 Bundles
 
@@ -80,6 +88,8 @@ Smart Locks
 
 [![August Wi-Fi Smart Lock](//august.com/cdn/shop/files/awsl-frt-view-nav-1500x1500_400x.png?v=1707237570)
 
+##### SALE
+
 Wi-Fi Smart Lock
 
 $199.99
@@ -93,6 +103,8 @@ Yale Approach™ Lock with Wi-Fi
 Starting at $129.99
 
 \>](https://august.com/products/yale-approach-lock-with-wi-fi)[![August Smart Lock + Connect](//august.com/cdn/shop/files/callisto-silver-frt-140x140_400x.png?v=1712024423)
+
+##### SALE
 
 Smart Lock
 
@@ -361,7 +373,7 @@ pop-up content ends
 
 Email 
 
-Submit ![](//august.com/cdn/shop/t/342/assets/icon-newsletter-submit.svg?v=83048686797684669771726184031) 
+Submit ![](//august.com/cdn/shop/t/343/assets/icon-newsletter-submit.svg?v=83048686797684669771728080273) 
 
 By signing up for the August Home US and Canada email newsletter, you agree with our [terms](https://august.com/pages/terms-of-service).
 
