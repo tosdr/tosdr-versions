@@ -153,6 +153,16 @@ Shifting the conversation around the impacts of digital technologies
     
     * Open calls
     
+    [### \[Offene Ausschreibung\] Kostenfreie Workshops zur Förderung digitaler Medienkompetenz für Jugendliche](https://tacticaltech.org/news/open-calls/offener-aufruf-zu-partnerschaften/)
+    
+    Wir sind auf der Suche nach Partnerschaften mit formellen oder informellen, in Berlin ansässigen Jugendorganisationen und -institutionen, vor allem solchen, die mit jungen Menschen (13-18 Jahre) aus traditionell marginalisierten Identitäten oder Hintergründen arbeiten.
+    
+    [Read more →](https://tacticaltech.org/news/open-calls/offener-aufruf-zu-partnerschaften/)
+    
+* ![](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/200928_Youth_Medium_illustration_-07.jpg)
+    
+    * Open calls
+    
     [### \[Open Call\] Get Free Training on Critical Digital Literacy for Youth](https://tacticaltech.org/news/open-calls/free-training-digital-literacy-berlin/)
     
     Are you a social worker, community leader, youth advocate, or educator working with teens? Tactical Tech is seeking partners in Berlin for their digital literacy project, What the Future Wants (WTFW) – Comes to Berlin. Organisations and individuals will gain new skills through training sessions on digital literacy topics such as AI, misinformation, and digital privacy, access educational resources, and receive financial support to host workshops or exhibitions in their communities.
@@ -178,16 +188,6 @@ Shifting the conversation around the impacts of digital technologies
     Wir sind auf der Suche nach Partnerschaften mit formellen oder informellen, in Berlin ansässigen Jugendorganisationen und -institutionen, vor allem solchen, die mit jungen Menschen (13-18 Jahre) aus traditionell marginalisierten Identitäten oder Hintergründen arbeiten.
     
     [Read more →](https://tacticaltech.org/news/open-calls/offener-aufruf-zu-partnerschaften/)
-    
-* ![concrete with inscriptions on it](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/website2023/Insights/machine0.jpg)
-    
-    * Technology & Society Insights
-    
-    [### The quest to understand influencing machines](https://tacticaltech.org/news/insights/the-quest-to-understand-influencing-machines/)
-    
-    We need to rethink how we deal with information in the context of crises. All of us, really. We, the digital users of the digitised information world, need to get a grip on things. How we explore the world, what and who we trust, and why, in the context of crises, has gotten too far out of our hands and needs to change. We need a place to come together. We need to reinvent how we talk about and solve difficult things while respecting any fundamental differences we might come to the table or screen with.
-    
-    [Read more →](https://tacticaltech.org/news/insights/the-quest-to-understand-influencing-machines/)
     
 
 Impact stories
