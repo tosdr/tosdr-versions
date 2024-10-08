@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/three-little-birds-on-garageband-powerpoint-lesson/)
+ [](https://schoolsmusicmarket.com/product/glad-rejoices-we-sing-tonight/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/rock-n-roll-back-to-school-icebreaker-challenge/)
+ [](https://schoolsmusicmarket.com/product/live-music-performance-soundcheck/)
 
 ###### Browse By Year/Grade
 
