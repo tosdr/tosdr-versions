@@ -7,15 +7,13 @@
 * [Klarna Card](https://www.klarna.com/us/klarna-card/)
 * How Klarna works
     
-* Help
-    
+* [Help](https://www.klarna.com/us/customer-service/)
 
 * [Shopping categories](https://www.klarna.com/us/)
 * [Klarna Card](https://www.klarna.com/us/klarna-card/)
 * How Klarna works
     
-* Help
-    
+* [Help](https://www.klarna.com/us/customer-service/)
 
 Shopping categories
 
@@ -48,10 +46,6 @@ How Klarna works
 * [Klarna Plus](https://www.klarna.com/us/klarna-plus/)
 * [Klarna balance](https://www.klarna.com/us/klarna-balance/)
 * [Cashback](https://www.klarna.com/us/cashback/)
-
-Help
-
-* [Customer support](https://www.klarna.com/us/customer-service/)
 
 * Customer login
     
