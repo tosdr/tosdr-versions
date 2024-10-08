@@ -253,9 +253,9 @@ find us on:
 
 v2.08 – © Nerdist All Rights Reserved
 
-#### It looks like you have an adblocker enabled.
+#### It looks like you have an ad blocker enabled.
 
-Hey reader! We’re delighted you enjoying pursuing our site for all your nerdy news. We'd wholeheartedly appreciate you enabling ads as that keeps this content free. Thank you!
+Hey reader! We’re delighted you're perusing our site for all your nerdy news. We'd wholeheartedly appreciate you enabling ads to keep this content free. Thank you!
 
 Allow ads on Nerdist Continue without supporting Nerdist
 
