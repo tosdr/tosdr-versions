@@ -5,6 +5,8 @@ Close menu
 * [Log in](https://vhhess.com/account)
     
 
+* [Twitter](https://x.com/metafurstv "MetaFurs™ on Twitter")
+
 Cart
 
 Close cart
@@ -20,6 +22,8 @@ Check out
  One or more of the items in your cart is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
 
 Your cart is currently empty.
+
+* [Twitter](https://x.com/metafurstv "MetaFurs™ on Twitter")
 
 Site navigation
 
@@ -70,19 +74,7 @@ Use this section to promote content throughout every page of your site. Add imag
 
 Optional button
 
-Follow and subscribe
-
-Follow and subscribe
-
-[**TWITTER**](https://twitter.com/metafurstv "https://twitter.com/metafurstv") **|** [**TELEGRAM**](https://t.me/metafurs "https://t.me/metafurs")
-
-Stay tuned for our initial launch! Interested in working together? There will be various roles for becoming part of the MetaFurs team. Feel free to reach out if any of this sounds interesting to you!
-
-Enter your email Subscribe  
-
- Subscribe
-
-© 2024 MetaFurs™ LLC. All Rights Reserved.
+© 2024 MetaFurs™ LLC. All Rights Reserved. V. H. Hess™ is a subsidiary of MetaFurs™ LLC.
 
 [](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
