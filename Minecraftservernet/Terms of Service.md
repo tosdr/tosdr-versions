@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![SkyliteMCNetwork](plugins/MineCraft/icons/25x25xSkyliteMCNetwork_1728025073.png.pagespeed.ic.IvBfztrha8.jpg)
+[![Phoenix-Network](plugins/MineCraft/icons/25x25xPhoenix-Network_1727981381.png.pagespeed.ic.Repj3BU9ZK.png)
 
-SkyliteMC Network](https://minecraft-server.net/details/SkyliteMCNetwork/ "SkyliteMC Network")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+Phoenix Network](https://minecraft-server.net/details/Phoenix-Network/ "Phoenix Network")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![RoyaleMC-Community](plugins/MineCraft/icons/25x25xRoyaleMC-Community_1722369794.png.pagespeed.ic.cQomDBgmrH.png)
+BEST SURVIVAL • CrackexNet](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexNet ")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
 
-RoyaleMC \[#1 Slimefun\] (Java+Bedrock)](https://minecraft-server.net/details/RoyaleMC-Community/ "RoyaleMC [#1 Slimefun] (Java+Bedrock)")[![PokeMight](plugins/MineCraft/icons/25x25xPokeMight_1727791450.png.pagespeed.ic.5VqVk51aNN.jpg)
+KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![projectsurvival](plugins/MineCraft/icons/25x25xprojectsurvival_1720953261.png.pagespeed.ic.hQETp6pFjB.png)
 
-PokeMight!](https://minecraft-server.net/details/PokeMight/ "PokeMight!")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
+MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4](https://minecraft-server.net/details/projectsurvival/ "MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4")[![Niron](plugins/MineCraft/icons/Niron_1706892061.png.pagespeed.ce.IkJB58kMfF.png)
 
-CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")
+Steinercraft - Vanilla-based Anarchy](https://minecraft-server.net/details/Niron/ "Steinercraft - Vanilla-based Anarchy")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06031 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06282 - Created by [Debaucus](https://debauc.us/)
