@@ -10,11 +10,11 @@
     
 * [Enterprise](https://www.smartcat.com/enterprise/)
 * [Pricing](https://www.smartcat.com/pricing/)
-* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_4751005&lang=en)
-* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_4751005&lang=en)
+* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_4765658&lang=en)
+* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_4765658&lang=en)
 * [en](#)
 
-[en](#)[Sign in](https://smartcat.com/sign-in?land=us_4751005&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_4751005&lang=en)
+[en](#)[Sign in](https://smartcat.com/sign-in?land=us_4765658&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_4765658&lang=en)
 
 Smartcat legal
 
@@ -654,5 +654,53 @@ The UK Data Transfer Mechanism is incorporated into the DPA by reference at clau
 4\. In Table 4 of the UK IDTA, the information required to complete Table 4 is in the DPA and Annex II.
 
 [](#)
+
+[Product Tour](https://www.smartcat.com/product-tour/)[Why Smartcat](https://www.smartcat.com/why-smartcat/)[Enterprise](https://www.smartcat.com/enterprise/)[For Vendors](https://www.smartcat.com/suppliers/)[Pricing](https://www.smartcat.com/pricing/)
+
+Product[AI Translation](https://www.smartcat.com/machine-translation/)[Linguist Marketplace](https://www.smartcat.com/marketplace/)[Website Translator](https://www.smartcat.com/website-translator/)[Payment Automation](https://www.smartcat.com/payments/)[Advanced CAT Tool](https://www.smartcat.com/cat-tool/)[Integrations](https://www.smartcat.com/integrations/)Solutions by role[L&D Manager](https://www.smartcat.com/learning-and-development/)[Marketer](https://www.smartcat.com/marketing-translation/)[Localization Manager](https://www.smartcat.com/translation-management-system/)[Product Manager](https://www.smartcat.com/product-localization/)[Government](https://www.smartcat.com/government-translation/)[School Districts](https://www.smartcat.com/ai-translation-software-for-schools/)[Language Service Provider](https://www.smartcat.com/agencies/)Solutions by goal[Translate a file](https://www.smartcat.com/translate-document/)[Hire translators](https://www.smartcat.com/marketplace/)[Localizе software](https://www.smartcat.com/software-localization/)[Translate video](https://www.smartcat.com/video-translation/)[Localize website](https://www.smartcat.com/website-translator/)[Localize mobile app](https://www.smartcat.com/localize-mobile-app/)[Localize e-Commerce](https://www.smartcat.com/ecommerce-translation/)
+
+Company[About us](https://www.smartcat.com/about-us/)[Culture code](https://www.smartcat.com/culture-code/)[Careers](https://www.smartcat.com/careers/)[RFP](https://www.smartcat.com/rfp-translation/)Industries[Life science](https://www.smartcat.com/life-science-translation/)[Retail and consumer goods](https://www.smartcat.com/retail-consumer-goods-translation/)[Manufacturing](https://www.smartcat.com/manufacturing-translation/)[Automotive](https://www.smartcat.com/automotive-translation/)[Technical](https://www.smartcat.com/technical-translation/)
+
+Resources[Blog](https://www.smartcat.com/blog/)[Online events](https://www.smartcat.com/online-events/)[Case studies](https://www.smartcat.com/cases/)[Help center](https://help.smartcat.com/)[Support](https://help.smartcat.com/contact-support/)[What’s new](https://www.smartcat.com/news/)[Release notes](https://www.smartcat.com/release-notes/)
+
+Product
+
+[AI Translation](https://www.smartcat.com/machine-translation/)[Linguist Marketplace](https://www.smartcat.com/marketplace/)[Website Translator](https://www.smartcat.com/website-translator/)[Payment Automation](https://www.smartcat.com/payments/)[Advanced CAT Tool](https://www.smartcat.com/cat-tool/)[Integrations](https://www.smartcat.com/integrations/)
+
+Solutions by role
+
+[L&D Manager](https://www.smartcat.com/learning-and-development/)[Marketer](https://www.smartcat.com/marketing-translation/)[Localization Manager](https://www.smartcat.com/translation-management-system/)[Product Manager](https://www.smartcat.com/product-localization/)[Government](https://www.smartcat.com/government-translation/)[School Districts](https://www.smartcat.com/ai-translation-software-for-schools/)[Language Service Provider](https://www.smartcat.com/agencies/)
+
+Solutions by goal
+
+[Translate a file](https://www.smartcat.com/translate-document/)[Hire translators](https://www.smartcat.com/marketplace/)[Localizе software](https://www.smartcat.com/software-localization/)[Translate video](https://www.smartcat.com/video-translation/)[Localize website](https://www.smartcat.com/website-translator/)[Localize mobile app](https://www.smartcat.com/localize-mobile-app/)[Localize e-Commerce](https://www.smartcat.com/ecommerce-translation/)
+
+Company
+
+[About us](https://www.smartcat.com/about-us/)[Culture code](https://www.smartcat.com/culture-code/)[Careers](https://www.smartcat.com/careers/)[RFP](https://www.smartcat.com/rfp-translation/)
+
+Industries
+
+[Life science](https://www.smartcat.com/life-science-translation/)[Retail and consumer goods](https://www.smartcat.com/retail-consumer-goods-translation/)[Manufacturing](https://www.smartcat.com/manufacturing-translation/)[Automotive](https://www.smartcat.com/automotive-translation/)[Technical](https://www.smartcat.com/technical-translation/)
+
+Resources
+
+[Blog](https://www.smartcat.com/blog/)[Online events](https://www.smartcat.com/online-events/)[Case studies](https://www.smartcat.com/cases/)[Help center](https://help.smartcat.com/)[Support](https://help.smartcat.com/contact-support/)[What’s new](https://www.smartcat.com/news/)[Release notes](https://www.smartcat.com/release-notes/)
+
+[Cookie Preferences](javascript:void(0);)[Security](https://www.smartcat.com/security/)[Privacy Policy](https://www.smartcat.com/legal/privacy-policy/)[Terms of Service](https://www.smartcat.com/legal/terms/)[Status](https://status.smartcat.com/)[Report Illegal Content](https://www.smartcat.com/report-of-the-illegal-content/)
+
+[Read reviews on
+
+4.8](https://www.g2.com/products/smartcat/reviews?utm_source=promo&utm_medium=footer&utm_campaign=review)
+
+SOC II compliant organization
+
+Follow us:
+
+[](https://www.facebook.com/smartcatai)[](https://www.linkedin.com/company/smartcatai)[](https://x.com/Smartcatai)[](https://www.youtube.com/channel/UCKKUamgbbSDDe5AGCZ5jeBg)
+
+© Smartcat Platform Inc. 2024 | 2810 N Church St PMB 50985, Wilmington, Delaware, 19802-4447, USA
+
+en
 
 Book a demo
