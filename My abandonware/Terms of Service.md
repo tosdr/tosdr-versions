@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Carnival](https://www.myabandonware.com/game/carnival-7rl)
+* [Bump 'N' Jump](https://www.myabandonware.com/game/bump-n-jump-7rj)
 * [Bongo](https://www.myabandonware.com/game/bongo-5qc)
 * [Giga Wing 2](https://www.myabandonware.com/game/giga-wing-2-sq9)
 * [G.T. Block Challenger](https://www.myabandonware.com/game/g-t-block-challenger-sq8)
-* [Granny and the Gators](https://www.myabandonware.com/game/granny-and-the-gators-sq7)
-* [Gran Trak 20](https://www.myabandonware.com/game/gran-trak-20-sq6)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
