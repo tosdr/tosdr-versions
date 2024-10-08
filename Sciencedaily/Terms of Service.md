@@ -229,6 +229,8 @@ this hour
 
 * * *
 
+* [New Approach to End Jet Lag](https://www.sciencedaily.com/releases/2024/10/241007115447.htm)
+* [Our Lives in the Mirror of Our Data](https://www.sciencedaily.com/releases/2024/10/241007115253.htm)
 * [Antarctic 'Greening' at Dramatic Rate](https://www.sciencedaily.com/releases/2024/10/241007115554.htm)
 * [Blood Pressure Readings Vary With Arm Positions](https://www.sciencedaily.com/releases/2024/10/241007114922.htm)
 * [Elusive Details in Young Star Systems](https://www.sciencedaily.com/releases/2024/10/241007115547.htm)
@@ -237,8 +239,6 @@ this hour
 * [How Pterosaurs Became Terrestrial Titans](https://www.sciencedaily.com/releases/2024/10/241004121701.htm)
 * [Rare Monkey Fossils](https://www.sciencedaily.com/releases/2024/10/241002135241.htm)
 * [Neuroscientists Reactivate Memory Circuit ...](https://www.sciencedaily.com/releases/2024/10/241001124654.htm)
-* [Auditory 'Sixth Sense' in Geckos](https://www.sciencedaily.com/releases/2024/10/241004121658.htm)
-* [Kids: Half Calories from Ultra-Processed Foods](https://www.sciencedaily.com/releases/2024/10/241003221629.htm)
 
 Trending Topics
 ---------------
@@ -251,25 +251,25 @@ this week
 
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Colon Cancer](https://www.sciencedaily.com/news/health_medicine/colon_cancer/)
+[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
-[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
+[COVID and SARS](https://www.sciencedaily.com/news/health_medicine/covid_and_sars/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
 
-[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
+[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
 
-[Nanotechnology](https://www.sciencedaily.com/news/matter_energy/nanotechnology/)
+[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
-[Environmental Awareness](https://www.sciencedaily.com/news/earth_climate/environmental_awareness/)
+[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
 
-[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
+[Soil Types](https://www.sciencedaily.com/news/plants_animals/soil_types/)
 
   
 
