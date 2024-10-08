@@ -391,7 +391,7 @@
         
         [Responsible Business Priorities](https://www.equifax.com/about-equifax/environmental-social-governance/)
         
-        See our Responsible Business Priorities
+        See Our Responsible Business Priorities
         
     * [Why Equifax](#)
         
