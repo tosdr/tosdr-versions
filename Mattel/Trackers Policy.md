@@ -337,7 +337,7 @@ Customer Service
 
 * [Customer Service](https://service.mattel.com/us/home.aspx)
 * [Contact Us](https://shop.mattel.com/pages/contact-us)
-* [Shipping Rates & Policy](https://shop.mattel.com/pages/shipping-rates-policy-page)
+* [Shipping Rates & Policy](https://shop.mattel.com/pages/shipping-rates-policy)
 * [Return Policy](https://shop.mattel.com/pages/return-policy)
 
 Helpful Links
