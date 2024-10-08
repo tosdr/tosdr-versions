@@ -108,7 +108,17 @@ This Agreement shall be binding upon and inure to the benefit of COMPANY and our
 
 **Dispute Resolution**
 
-These Terms of Use shall be governed by and construed in accordance with the laws of the Commonwealth of Wyoming and any dispute shall be subject to binding arbitration in Wyoming. If any provision of this agreement shall be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.
+These Terms of Use shall be governed by and construed in accordance with the laws of the Commonwealth of Virginia and any dispute shall be subject to binding arbitration by NAM (National Arbitration and Mediation) in Prince William County, Virginia. If any provision of this agreement shall be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions. The parties agree that any arbitration is subject to these Terms of Use and not any prior arbitration agreement.
+
+**Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedure**
+
+These procedures are intended to increase the likelihood of prompt and low-cost resolutions to any dispute between the parties. All the requirements of the Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedure are jurisdictional in nature.
+
+* Before a party commences an arbitration with NAM with respect to a claim, the party must first send a written notice of dispute (“Notice”). The Notice must (1) be sent by certified mail, return receipt requested or FedEx; (2) be addressed to: PureHealth Research, LLC, 10199 Dean Drive Manassas, VA 20110; (3) contain the party’s name, address, email address and date/time of website visit; (4) include a short summary of the dispute, including any relevant facts regarding the use of the Products with specific relief sought.
+* The party must attend a video conference to discuss the dispute with a representative from Impact Brands. The party’s attorney may be present.
+* Impact Brands then shall have 45 days from the date of the video conference to analyze the nature of the dispute before the filing of an arbitration with NAM by the party.
+* If any aspect of these requirements has not been met, a court of competent jurisdiction may enjoin the filing or prosecution of an arbitration. In addition, unless prohibited by law, NAM Arbitration Practice Administrator/Case Manager must dismiss any arbitration claims brought by a party that has failed to follow the required steps in the Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedure. If the arbitration is already pending prior to the completion of the Mandatory Pre-Arbitration Notice and Information Dispute Resolution Procedure, NAM cannot accept any fees in connection with an arbitration that has been initiated without completion of the Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedure. Nothing in this paragraph limits the right of Impact Brands to seek damages for non-compliance with the Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedure in arbitration.
+* If after the Mandatory Pre-Arbitration Notice and Informal Dispute Resolution Procedure has been completed, any claim or dispute arising from use of the Products shall be settled only through binding arbitration. Any complaint or lawsuit filed in a court of law shall be dismissed and the arbitration shall commence. Nothing in this paragraph limits the right of Impact Brands to seek damages if a party files a complaint or lawsuit.
 
 **Class Action Waiver**
 
