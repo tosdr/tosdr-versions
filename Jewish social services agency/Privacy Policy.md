@@ -1,19 +1,11 @@
 ![](https://www.facebook.com/tr?id=2611858029067765&ev=PageView&noscript=1)        [Skip to content](#site-main)
 
-![](https://www.jssa.org/wp-content/uploads/2024/09/shutterstock_2215437647-300x199.jpg)
-
-### You Bring Hope to Neighbors in Need
-
-Help JSSA reach a critical $25,000 fundraising goal by October 1 and reach more neighbors in need! Your support gives hope and warmth to those facing life's most challenging moments.
-
-[GIVE NOW](http://www.jssa.org/bringhope/ "GIVE NOW")
-
 [240-800-JSSA (5772)](tel:2408005772)
 
 [240-800-JSSA (5772)](tel:2408005772)
 
 * [Donate](https://www.jssa.org/donate)
-* [Services By Location](https://www.jssa.org/services-by-location/)
+* [Services By Location](https://www.jssa.org/jssa-services-by-location/)
 
 [![JSSA logo](https://www.jssa.org/wp-content/uploads/2021/08/jssa_logo_nobubble.png)](https://www.jssa.org/ "Return to homepage")
 
@@ -34,7 +26,7 @@ Help JSSA reach a critical $25,000 fundraising goal by October 1 and reach more 
         * [Employment Services](https://www.jssa.org/services/disability-employment/) 
         * [Family Support Services](https://www.jssa.org/services/family-support-services/) 
         * [J-Caring Community Support Line](https://www.jssa.org/services/hotline/) 
-        * [Find Services By Location](https://www.jssa.org/services-by-location/)
+        * [Find Services By Location](https://www.jssa.org/jssa-services-by-location/)
 * [Get Involved submenu](#sub-menu-7752)
     * [![](https://www.jssa.org/wp-content/uploads/2021/06/blended-familiesnarrow-373x280.jpg)
         
@@ -65,7 +57,7 @@ Help JSSA reach a critical $25,000 fundraising goal by October 1 and reach more 
         * [Careers](https://www.jssa.org/about-us/careers/) 
         * [News](https://www.jssa.org/about-us/news/) 
         * [Blog](https://www.jssa.org/blog/) 
-        * [Our Locations](https://www.jssa.org/services-by-location/) 
+        * [Our Locations](https://www.jssa.org/jssa-services-by-location/) 
         * [Contact Us](https://www.jssa.org/contact-us/) 
 * [](https://www.jssa.org/search)
 
@@ -82,7 +74,7 @@ Help JSSA reach a critical $25,000 fundraising goal by October 1 and reach more 
     * [Employment Services](https://www.jssa.org/services/disability-employment/)
     * [Family Support Services](https://www.jssa.org/services/family-support-services/)
     * [J-Caring Community Support Line](https://www.jssa.org/services/hotline/)
-    * [Find Services By Location](https://www.jssa.org/services-by-location/)
+    * [Find Services By Location](https://www.jssa.org/jssa-services-by-location/)
     
 * [Get Involved submenu](#sub-menu-7752)
     
@@ -104,7 +96,7 @@ Help JSSA reach a critical $25,000 fundraising goal by October 1 and reach more 
     * [Careers](https://www.jssa.org/about-us/careers/)
     * [News](https://www.jssa.org/about-us/news/)
     * [Blog](https://www.jssa.org/blog/)
-    * [Our Locations](https://www.jssa.org/services-by-location/)
+    * [Our Locations](https://www.jssa.org/jssa-services-by-location/)
     * [Contact Us](https://www.jssa.org/contact-us/)
     
 * [](https://www.jssa.org/search)
@@ -112,7 +104,7 @@ Help JSSA reach a critical $25,000 fundraising goal by October 1 and reach more 
  Search
 
 * [Donate](https://www.jssa.org/donate)
-* [Services By Location](https://www.jssa.org/services-by-location/)
+* [Services By Location](https://www.jssa.org/jssa-services-by-location/)
 
 1. [Home](https://www.jssa.org/ "Go to JSSA.")
 2. [Privacy](https://www.jssa.org/privacy-policy/ "Go to Privacy.")
@@ -130,7 +122,7 @@ If you have any questions about your rights as a user of JSSA’s website, you m
 
 ### **Applicability and Scope** 
 
-This Privacy Policy only applies to JSSA’s websites, located at **[www.jssa.org](http://www.jssa.org/)** and **[www.premierhomecare.org](http://www.premierhomecare.org/)** (collectively the “Site” for purposes of this policy), and not to JSSA’s offline practices or to personal health information collected, used, or disclosed in accordance with the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and its implementing regulations (collectively, HIPAA) and privacy notices required by HIPAA. If there is a conflict between the terms of this policy and the terms of the HIPAA Notice of Privacy Practices, the terms of the HIPAA Notice of Privacy Practices will supersede the terms of this policy. 
+This Privacy Policy only applies to JSSA’s websites, located at **[www.jssa.org](http://www.jssa.org/)** (collectively the “Site” for purposes of this policy), and not to JSSA’s offline practices or to personal health information collected, used, or disclosed in accordance with the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and its implementing regulations (collectively, HIPAA) and privacy notices required by HIPAA. If there is a conflict between the terms of this policy and the terms of the HIPAA Notice of Privacy Practices, the terms of the HIPAA Notice of Privacy Practices will supersede the terms of this policy. 
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BECAUSE BY USING THE WEBSITES AND SERVICES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF YOUR PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITE. 
 
@@ -209,7 +201,7 @@ We may choose to share Anonymized and Non-Personal Information with third partie
 
 ### **Third-Party Links** 
 
-The Site may contain links to other websites. Additionally, third-party sites may link to the Site from time to time. PLEASE BE AWARE THAT WE ARE NOT RESPONSIBLE FOR THE CONTENT OR PRACTICES OF ANY OTHER WEBSITES. We encourage you to read the privacy statements of each and every website that you visit. Our Privacy Policy applies solely to the Site, located at **[www.jssa.org](http://www.jssa.org/)** and **[www.premierhomecare.org](http://www.premierhomecare.org/).** 
+The Site may contain links to other websites. Additionally, third-party sites may link to the Site from time to time. PLEASE BE AWARE THAT WE ARE NOT RESPONSIBLE FOR THE CONTENT OR PRACTICES OF ANY OTHER WEBSITES. We encourage you to read the privacy statements of each and every website that you visit. Our Privacy Policy applies solely to the Site, located at **[www.jssa.org](http://www.jssa.org/)****.** 
 
 ### **Choices** 
 
