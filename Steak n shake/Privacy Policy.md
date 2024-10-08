@@ -2,8 +2,7 @@
 
 * [MENU](#)
     * [PRINTABLE MENU](https://cos-steak-n-shake.s3.us-west-2.amazonaws.com/production/wp-content/uploads/2024/07/25074429/SNS_National-_July2024_No_Price-Kettle-1.pdf)
-    * [NUTRITION FACTS](https://cos-steak-n-shake.s3.us-west-2.amazonaws.com/production/wp-content/uploads/2023/03/03144417/Nutrition-Facts_03.03.23.pdf)
-    * [INGREDIENTS & ALLERGENS LIST](https://cos-steak-n-shake.s3.us-west-2.amazonaws.com/production/wp-content/uploads/2023/03/03224032/2023-SNS-Allergen-Ingredient-Information.pdf)
+    * [NUTRITION & ALLERGENS](https://app.everybite.com/widget/b3f309e8)
 * [SPECIALS](#)
     * [Half Price Happy Hour](https://www.steaknshake.com/menu_specials/half-price-happy-hour/)
 * [REWARDS](https://www.steaknshake.com/rewards)
