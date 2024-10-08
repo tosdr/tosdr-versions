@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_6704b3663e5e7)
+* [fun from day one!](#tab_670505fc59b83)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_6704b3663e5e7)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_670505fc59b83)
     
-* [fomo no more!](#tab_6704b3663e5fa)
+* [fomo no more!](#tab_670505fc59b92)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_6704b3663e5fa)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_670505fc59b92)
     
-* [we’ve got you covered, dude](#tab_6704b3663e608)
+* [we’ve got you covered, dude](#tab_670505fc59b9e)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_6704b3663e608)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_670505fc59b9e)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -178,41 +178,11 @@ Cinema room
 The Dude Bar  
 **Join us for Game Night featuring thrilling rounds of giant Jenga and uproarious fun with Cards Against Humanity. With high-stakes stacking and endless laughs, it’s the perfect way to unwind and enjoy quality time with friends!
 
-#### Kings of cups
-
-**Wednesday | 20:00-23:00  
-The Dude Bar  
-**We’ve got the beer pong tables set and ready, you bring the aim and precision! Show off your skills in our epic beer pong tournament, where only the sharpest shooters will rise to the top. Compete for the ultimate prize—a pitcher of beer!
-
 #### Brushes ‘n Brews
 
-**Thursday | 18:00-21:00  
+**Wednesday | 19:00-22:00  
 The Dude Bar  
 **Discover your artistic side at Brushes & Brews! Sip on your favorite drink while you create a one-of-a-kind masterpiece in a fun and welcoming environment. Join us for a night of creativity, relaxation, and socializing where your imagination takes center stage.
-
-#### Karaoke Party
-
-**Friday | 20:00-23:00  
-The Dude Bar  
-**Experience the ultimate karaoke night at The Dude Bar in Amsterdam, where every singer scores a free shot! Whether you’re with friends or flying solo, come ready to rock the stage and make new connections
-
-#### Social Saturday ft. live DJ
-
-**Saturday | 20:00  
-The Dude bar**  
-The perfect Saturday night pre-game! Grab a drink and meet fellow travellers at the Dude bar as our live DJ sets the vibe.
-
-#### Movie Monday
-
-**Monday | 20:00 – 22:00  
-Cinema room  
-**After a day of adventure around the city, kick back in our inviting cinema room for a laid-back evening. Ask reception what movie we will be showing (or bring on your suggestions)
-
-#### Game night
-
-**Wednesday | 19:00 – 22:00  
-The Dude Bar  
-**Join us for Game Night featuring thrilling rounds of giant Jenga and uproarious fun with Cards Against Humanity. With high-stakes stacking and endless laughs, it’s the perfect way to unwind and enjoy quality time with friends!
 
 #### Kings of cups
 
@@ -226,41 +196,11 @@ The Dude Bar
 The Dude Bar  
 **Experience the ultimate karaoke night at The Dude Bar in Amsterdam, where every singer scores a free shot! Whether you’re with friends or flying solo, come ready to rock the stage and make new connections
 
-#### Kings of cups
+#### Boozy Bingo!
 
-**Saturday | 20:00-23:00  
+**Saturday | 19:00-22:00  
 The Dude Bar  
-**We’ve got the beer pong tables set and ready, you bring the aim and precision! Show off your skills in our epic beer pong tournament, where only the sharpest shooters will rise to the top. Compete for the ultimate prize—a pitcher of beer!
-
-#### Brushes ‘n Brews
-
-**Wednesday | 19:00-22:00  
-The Dude Bar  
-**Discover your artistic side at Brushes & Brews! Sip on your favorite drink while you create a one-of-a-kind masterpiece in a fun and welcoming environment. Join us for a night of creativity, relaxation, and socializing where your imagination takes center stage.
-
-#### Jukebox Jackpot
-
-**Thursday | 19:00-22:00  
-The Dude Bar  
-**It’s bingo…but with music…so it’s way better! We play the songs, you try to fill your bingo form and if you do, you win some free shots of booze. What’s not to like?
-
-#### Karaoke Party
-
-**Friday | 20:00-23:00  
-The Dude Bar  
-**Experience the ultimate karaoke night at The Dude Bar in Amsterdam, where every singer scores a free shot! Whether you’re with friends or flying solo, come ready to rock the stage and make new connections
-
-#### Brushes ‘n Brews
-
-**Saturday | 20:00-23:00  
-The Dude Bar  
-**Discover your artistic side at Brushes & Brews! Sip on your favorite drink while you create a one-of-a-kind masterpiece in a fun and welcoming environment. Join us for a night of creativity, relaxation, and socializing where your imagination takes center stage.
-
-#### DJ Yamil B-day Party
-
-**Sunday | 14:00-19:00  
-The Dude Bar  
-**Hip Hip Hooray, it’s DJ Yamil’s B-day and everyone is invited. Multiple DJs will make you dance until you can dance no more. Come by and have some fun.
+**It’s bingo….but with booze! What’s not to like? Our event host will lead you through the whole evening and rules, but we can ensure you it wil be FUN FUN FUN
 
 Trusted by over 10,000 visitors worldwide
 -----------------------------------------
