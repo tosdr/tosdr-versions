@@ -846,16 +846,6 @@ Sök Meny
             
         * [Påverkansarbete](https://www.svenskakyrkan.se/vart-stallningstagande)
             
-        * [En värld av grannar](https://www.svenskakyrkan.se/migration/envarldavgrannar)
-            
-            * [Om programmet](https://www.svenskakyrkan.se/migration/envarldavgrannar/om-programmet)
-                
-                * [Teologisk grund](https://www.svenskakyrkan.se/migration/envarldavgrannar/teologisk-grund)
-                    
-            * [Principer för samverkan](https://www.svenskakyrkan.se/principer-for-samverkan)
-                
-            * [Råg i ryggen – en utställning](https://www.svenskakyrkan.se/migration/envarldavgrannar/rag-i-ryggen)
-                
     * [Minoriteter](https://www.svenskakyrkan.se/minoritet)
         
         * [Finska](https://www.svenskakyrkan.se/finska)
@@ -1429,6 +1419,8 @@ Post- och telestyrelsen har tagit fram information om reglerna för både webbpl
 [Vägledning om kakor för webbplatsinnehavare (webbriktlinjer.se)](https://webbriktlinjer.se/lagkrav/kaklagen-i-praktiken/)  
 
 Tillbaka till toppen Tillbaka till innehållet
+
+Uppdaterad: 28 juni 2023
 
 Synpunkter eller frågor på sidans innehåll?
 -------------------------------------------
