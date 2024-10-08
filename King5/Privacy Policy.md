@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d/20241008T140414/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d/20241008T140414/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d_360x203.jpg)](https://www.king5.com/article/news/local/photos-northern-lights-washington/281-a05fb7f8-499f-4546-9875-b7607285c7dd)
+    *  [![](https://media.king5.com/assets/KING/images/cc0f822d-416a-4305-95db-8a92c5395919/20241007T142234/cc0f822d-416a-4305-95db-8a92c5395919_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cc0f822d-416a-4305-95db-8a92c5395919/20241007T142234/cc0f822d-416a-4305-95db-8a92c5395919_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/seattle-kraken-2024-25-season-preview/281-c7d560e3-7be3-4d50-821b-dea3da634320)
         
-        #### [Stunning photos of the northern lights over Washington](https://www.king5.com/article/news/local/photos-northern-lights-washington/281-a05fb7f8-499f-4546-9875-b7607285c7dd) [![](https://media.king5.com/assets/KING/images/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d/20241008T140414/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d/20241008T140414/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d_360x203.jpg)](https://www.king5.com/article/news/local/photos-northern-lights-washington/281-a05fb7f8-499f-4546-9875-b7607285c7dd)
+        #### [Previewing the Seattle Kraken's 2024-25 season](https://www.king5.com/article/sports/nhl/kraken/seattle-kraken-2024-25-season-preview/281-c7d560e3-7be3-4d50-821b-dea3da634320)
         
-        #### [Northern lights shine over Washington Tuesday night](https://www.king5.com/article/news/local/photos-northern-lights-washington/281-a05fb7f8-499f-4546-9875-b7607285c7dd)
-    *  [![](https://media.king5.com/assets/KING/images/e17f45bb-9a47-470a-b804-f31c59243e87/20241007T220423/e17f45bb-9a47-470a-b804-f31c59243e87_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e17f45bb-9a47-470a-b804-f31c59243e87/20241007T220423/e17f45bb-9a47-470a-b804-f31c59243e87_360x203.jpg)](https://www.king5.com/article/news/local/seattle/flaming-lips-band-member-daughter-missing-seattle/281-d30a9381-3073-4cd8-9bcf-9e505593d11f)
+    *  [![](https://media.king5.com/assets/KING/images/04163910-d82b-456b-a36f-5f9c806be011/20240927T132005/04163910-d82b-456b-a36f-5f9c806be011_16x9.jpg) ![](https://media.king5.com/assets/KING/images/04163910-d82b-456b-a36f-5f9c806be011/20240927T132005/04163910-d82b-456b-a36f-5f9c806be011_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/drivers-should-plan-major-highway-closures-lane-reductions-across-puget-sound-this-week/281-dcdef666-0f76-48cb-8250-742ee7969275)
         
-        #### [Seattle police searching for missing teen daughter of Flaming Lips member](https://www.king5.com/article/news/local/seattle/flaming-lips-band-member-daughter-missing-seattle/281-d30a9381-3073-4cd8-9bcf-9e505593d11f)
+        #### [WSDOT warns of major highway closures, lane reductions this weekend](https://www.king5.com/article/traffic/traffic-news/drivers-should-plan-major-highway-closures-lane-reductions-across-puget-sound-this-week/281-dcdef666-0f76-48cb-8250-742ee7969275)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -61,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/CCT/images/dab5334e-ae98-4e6b-9f93-7f8bcfb00052/20241007T111339/dab5334e-ae98-4e6b-9f93-7f8bcfb00052_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/dab5334e-ae98-4e6b-9f93-7f8bcfb00052/20241007T111339/dab5334e-ae98-4e6b-9f93-7f8bcfb00052_360x203.jpg)](https://www.king5.com/article/news/nation-world/milton-strengthens-into-a-category-3-hurricane/507-ce842603-5ed0-427b-b25e-8abe8f1b81bc)
+    *  [![](https://media.king5.com/assets/KING/images/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d/20241008T140414/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d/20241008T140414/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d_360x203.jpg)](https://www.king5.com/article/news/local/photos-northern-lights-washington/281-a05fb7f8-499f-4546-9875-b7607285c7dd)
         
-        #### [Hurricane Milton is a Category 5. Florida orders evacuations and scrambles to clear Helene's debris](https://www.king5.com/article/news/nation-world/milton-strengthens-into-a-category-3-hurricane/507-ce842603-5ed0-427b-b25e-8abe8f1b81bc)
+        #### [Northern lights shine over Washington Monday night](https://www.king5.com/article/news/local/photos-northern-lights-washington/281-a05fb7f8-499f-4546-9875-b7607285c7dd)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-56°
+64°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
