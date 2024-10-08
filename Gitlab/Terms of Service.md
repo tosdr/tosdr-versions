@@ -1468,6 +1468,7 @@
             * [ ]  [Bien Balaba's README](https://handbook.gitlab.com/handbook/business-technology/readmes/bien-balaba/)
             * [ ]  [David Kim README](https://handbook.gitlab.com/handbook/business-technology/readmes/david-kim/)
             * [ ]  [Derek Isla's README](https://handbook.gitlab.com/handbook/business-technology/readmes/derek.isla/)
+            * [ ]  [Kavya Nanjappa's README](https://handbook.gitlab.com/handbook/business-technology/readmes/kavya-nanjappa/)
             * [ ]  [Marc Di Sabatino's README](https://handbook.gitlab.com/handbook/business-technology/readmes/marc-disabatino/)
             * [ ]  [Rey Manlangit's README](https://handbook.gitlab.com/handbook/business-technology/readmes/rey-manlangit/)
             * [ ]  [Sarah Pang's README](https://handbook.gitlab.com/handbook/business-technology/readmes/sarah.pang/)
