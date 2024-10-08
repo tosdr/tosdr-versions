@@ -2,6 +2,12 @@
 
 [×](#)
 
+WEBINAR: Maximize Your Impact: Tax-Savvy Giving With Donor-Advised Funds
+
+[Register now](https://events.fidelitycharitable.org/thegivingaccount1021/banner)
+
+[×](#)
+
    [![Fidelity Charitable logo](/content/dam/fc-public/site-design-assets/fc-logos/fidelity-charitable-logo.png/_jcr_content/renditions/viewport-max-p.png)](https://www.fidelitycharitable.org/)
 
 [Try our demo](https://www.fidelitycharitable.org/giving-account/demo.html)
