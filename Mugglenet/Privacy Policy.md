@@ -244,20 +244,6 @@ MuggleNet Archive Select Month October 2024  (4) September 2024  (30) August 2
 
 ### October 2024
 
-#### Mon, Oct 7
-
-Educational Decree No. 24 is passed
-
-Recurs yearly
-
-1995
-
-Umbridge almost catches Sirius in Gryffindor Tower fireplace
-
-Recurs yearly
-
-1995
-
 #### Tue, Oct 8
 
 David Yates's birthday
@@ -306,6 +292,14 @@ Recurs yearly
 
 1996
 
+#### Mon, Oct 14
+
+Dumbledore shows Harry his memory of Tom Riddle at the orphanage
+
+Recurs yearly
+
+1996
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -316,15 +310,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Sybill Trelawney’s middle name is Patricia.
+Minerva McGonagall’s mother kept her own magical heritage a secret from her Muggle husband for years, which made her life very sad and difficult.
 
 ### Potter History
 
-April 15, 2011 – Harry Potter and the Deathly Hallows – Part 1 is released on Blu-ray and DVD in the United States.
+June 10, 2013 – Sony unveils Wonderbook: Book of Potions at the Electronic Entertainment Expo in Los Angeles.
 
 ### Potter Quote
 
-“Only here shall you know freedom, only here shall you know yourself.”
+“Don’t be silly. Of course I won’t be in three classes at once.”
 
 [](#)
 
