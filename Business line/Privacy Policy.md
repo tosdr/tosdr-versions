@@ -1,48 +1,48 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=123456&cs_ucfr=1&cv=2.0&cj=1)
 
-##### SENSEX   81,688.45
+##### SENSEX   81,417.41
 
- -808.65
++ 367.41
 
-##### NIFTY   25,014.60
+##### NIFTY   24,930.30
 
- -235.50
++ 134.55
 
-##### CRUDEOIL   6,350.00
+##### CRUDEOIL   6,383.00
 
-+ 189.00
+ -92.00
 
-##### GOLD   76,190.00
+##### GOLD   75,697.00
 
-+ 47.00
+ -348.00
 
-##### SILVER   93,500.00
+##### SILVER   90,718.00
 
-+ 151.00
+ -1,639.00
 
-##### SENSEX   81,688.45
+##### SENSEX   81,417.41
 
- -808.65
++ 367.41
 
-##### NIFTY   25,014.60
+##### NIFTY   24,930.30
 
- -235.50
++ 134.55
 
-##### NIFTY   25,014.60
+##### NIFTY   24,930.30
 
- -235.50
++ 134.55
 
-##### CRUDEOIL   6,350.00
+##### CRUDEOIL   6,383.00
 
-+ 189.00
+ -92.00
 
-##### CRUDEOIL   6,350.00
+##### CRUDEOIL   6,383.00
 
-+ 189.00
+ -92.00
 
-##### GOLD   76,190.00
+##### GOLD   75,697.00
 
-+ 47.00
+ -348.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -705,9 +705,9 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on businessline
 
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-27-september-2024/article68686710.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-8-october-2024/article68728952.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Ola Electric Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/ola-electric-share-price-live-updates-ola-electric-mobility-stocks-08-oct-2024/article68541791.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Anil Ambani Reliance Power Shares](https://www.thehindubusinessline.com/markets/stock-markets/anil-ambani-rpower-stocks-reliance-power-share-price-live-updates-today-27-sep-2024/article68684636.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Vodafone Idea Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/vodafone-idea-stocks-vodafone-idea-share-price-today-live-updates-20-sep-2024/article68662802.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Adani Group Stocks Live](https://www.thehindubusinessline.com/markets/stock-markets/adani-group-stocks-adani-enterprises-adani-energy-adani-power-adani-green-energy-share-price-live-updates-13-sept-2024/article68637228.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Tata Motors Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/tata-motors-stocks-tata-motors-share-price-today-live-updates-11-sep-2024/article68531439.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting Highlights](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-live-updates-and-news-august-2024/article68496081.ece)
