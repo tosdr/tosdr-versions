@@ -131,6 +131,24 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/dua-lipa-diet-coke-mix.webp)](https://www.sickchirpse.com/people-are-disgusted-with-dua-lipa-after-she-revealed-what-she-mixes-her-diet-coke-with/)
+
+### [People Are Disgusted With Dua Lipa After She Revealed What She Mixes Her Diet Coke With](https://www.sickchirpse.com/people-are-disgusted-with-dua-lipa-after-she-revealed-what-she-mixes-her-diet-coke-with/)
+
+[Read More »](https://www.sickchirpse.com/people-are-disgusted-with-dua-lipa-after-she-revealed-what-she-mixes-her-diet-coke-with/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/nell-smith.webp)](https://www.sickchirpse.com/nell-smith-death-flaming-lips/)
+
+### [Nell Smith, Musical Prodigy Who Collaborated With The Flaming Lips, Dies Aged 17](https://www.sickchirpse.com/nell-smith-death-flaming-lips/)
+
+[Read More »](https://www.sickchirpse.com/nell-smith-death-flaming-lips/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/lady-gaga-phoenix-joker-2.webp)](https://www.sickchirpse.com/people-think-theyve-worked-out-what-joaquin-phoenix-said-to-lady-gaga-after-getting-standing-ovation-for-joker-2/)
+
+### [People Think They’ve Worked Out What Joaquin Phoenix Said To Lady Gaga After Getting Standing Ovation For Joker 2](https://www.sickchirpse.com/people-think-theyve-worked-out-what-joaquin-phoenix-said-to-lady-gaga-after-getting-standing-ovation-for-joker-2/)
+
+[Read More »](https://www.sickchirpse.com/people-think-theyve-worked-out-what-joaquin-phoenix-said-to-lady-gaga-after-getting-standing-ovation-for-joker-2/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/10/jack-doherty-mclaren.webp)](https://www.sickchirpse.com/streamer-jack-doherty-speaks-out-after-crashing-150k-mclaren-while-being-on-his-phone-when-driving/)
 
 ### [Streamer Jack Doherty Speaks Out After Crashing £150k McLaren While Being On His Phone When Driving](https://www.sickchirpse.com/streamer-jack-doherty-speaks-out-after-crashing-150k-mclaren-while-being-on-his-phone-when-driving/)
@@ -143,25 +161,13 @@ SEND
 
 [Read More »](https://www.sickchirpse.com/joker-2-receives-31-on-rotten-tomatoes-1-2-star-on-posttrack-d-on-cinemascore/)
 
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/daniel-kaluuya-statue-london.jpg)](https://www.sickchirpse.com/daniel-kaluuya-get-out-character-will-be-memorialised-as-a-statue-in-london/)
-
-### [Daniel Kaluuya’s ‘Get Out’ Character Will Be Memorialised As A Statue In London](https://www.sickchirpse.com/daniel-kaluuya-get-out-character-will-be-memorialised-as-a-statue-in-london/)
-
-[Read More »](https://www.sickchirpse.com/daniel-kaluuya-get-out-character-will-be-memorialised-as-a-statue-in-london/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/eddie-hearn-jake-paul.jpg)](https://www.sickchirpse.com/eddie-hearn-is-suing-jake-paul-for-100-million-in-defamation-lawsuit-court-date-set/)
-
-### [Eddie Hearn Is Suing Jake Paul For $100 Million In Defamation Lawsuit, Court Date Set](https://www.sickchirpse.com/eddie-hearn-is-suing-jake-paul-for-100-million-in-defamation-lawsuit-court-date-set/)
-
-[Read More »](https://www.sickchirpse.com/eddie-hearn-is-suing-jake-paul-for-100-million-in-defamation-lawsuit-court-date-set/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/piers-morgan-lowkey.jpg)](https://www.sickchirpse.com/piers-morgan-got-absolutely-rattled-when-lowkey-asked-him-to-condemn-rupert-murdoch/)
-
-### [Piers Morgan Got Absolutely Rattled When Lowkey Asked Him To Condemn Rupert Murdoch](https://www.sickchirpse.com/piers-morgan-got-absolutely-rattled-when-lowkey-asked-him-to-condemn-rupert-murdoch/)
-
-[Read More »](https://www.sickchirpse.com/piers-morgan-got-absolutely-rattled-when-lowkey-asked-him-to-condemn-rupert-murdoch/)
-
 #### trending post
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/nell-smith.webp)](https://www.sickchirpse.com/nell-smith-death-flaming-lips/)
+
+### [Nell Smith, Musical Prodigy Who Collaborated With The Flaming Lips, Dies Aged 17](https://www.sickchirpse.com/nell-smith-death-flaming-lips/)
+
+[Read More »](https://www.sickchirpse.com/nell-smith-death-flaming-lips/)
 
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/10/daniel-kaluuya-statue-london.jpg)](https://www.sickchirpse.com/daniel-kaluuya-get-out-character-will-be-memorialised-as-a-statue-in-london/)
 
@@ -186,12 +192,6 @@ SEND
 ### [Viewers Furious As Phillip Schofield Makes Wild Claim About Why He Was Punished For Age-Gap Relationship](https://www.sickchirpse.com/viewers-furious-phillip-schofield-makes-wild-claim-about-why-he-was-punished-age-gap-relationship/)
 
 [Read More »](https://www.sickchirpse.com/viewers-furious-phillip-schofield-makes-wild-claim-about-why-he-was-punished-age-gap-relationship/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/man-6-months-prison-cloning-clone-sheep-breeding.jpg)](https://www.sickchirpse.com/montana-man-gets-6-months-in-prison-for-cloning-giant-sheep-hybrid-and-breeding-it/)
-
-### [Montana Man Gets 6 Months In Prison For Cloning Giant Sheep Hybrid And Breeding It](https://www.sickchirpse.com/montana-man-gets-6-months-in-prison-for-cloning-giant-sheep-hybrid-and-breeding-it/)
-
-[Read More »](https://www.sickchirpse.com/montana-man-gets-6-months-in-prison-for-cloning-giant-sheep-hybrid-and-breeding-it/)
 
 Copyright 2023 © All rights Reserved.
 
