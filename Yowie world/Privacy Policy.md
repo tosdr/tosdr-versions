@@ -20,7 +20,7 @@
 * [](#)
     
 
-* [](https://yowie.com/?page_id=14243)
+* [](https://yowie.com/)
 * [Meet the Yowie](https://yowie.com/the-yowie/)
     * [Rumble](https://yowie.com/the-yowie/rumble/)
     * [Crag](https://yowie.com/the-yowie/crag/)
@@ -225,7 +225,7 @@ Copyright 2024 © **Yowie**
 
 [](#top)
 
-* [](https://yowie.com/?page_id=14243)
+* [](https://yowie.com/)
 * [Meet the Yowie](https://yowie.com/the-yowie/)
     * [Rumble](https://yowie.com/the-yowie/rumble/)
     * [Crag](https://yowie.com/the-yowie/crag/)
