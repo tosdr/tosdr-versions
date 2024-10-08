@@ -2,11 +2,11 @@ cookie-whitecookie-white
 
 ×
 
-[Blog](https://www.skatedeluxe.com/blog/en/) [Team](https://www.skatedeluxe.com/en/team/) [Specials](https://www.skatedeluxe.com/en/specials-free-offers) [Premium Club](https://www.skatedeluxe.com/en/premiumclub)
+[Blog](https://www.skatedeluxe.com/blog/en/) [Team](https://www.skatedeluxe.com/en/g/team) [Specials](https://www.skatedeluxe.com/en/i/specials-free-offers) [Premium Club](https://www.skatedeluxe.com/en/i/premiumclub)
 
-[Customer service](https://www.skatedeluxe.com/en/customer-service)
+[Customer service](https://www.skatedeluxe.com/en/i/customer-service)
 
-[Shipping](https://www.skatedeluxe.com/en/shipping) [Payment](https://www.skatedeluxe.com/en/payment) [Returns & Cancellation](https://www.skatedeluxe.com/en/return) [Exchange](https://www.skatedeluxe.com/en/exchange) [Size conversion chart](https://www.skatedeluxe.com/en/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.com/en/faq) [Contact](https://www.skatedeluxe.com/en/contact)
+[Shipping](https://www.skatedeluxe.com/en/i/customer-service/shipping) [Payment](https://www.skatedeluxe.com/en/i/customer-service/payment) [Returns & Cancellation](https://www.skatedeluxe.com/en/i/customer-service/return) [Exchange](https://www.skatedeluxe.com/en/i/customer-service/exchange) [Size conversion chart](https://www.skatedeluxe.com/en/i/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.com/en/i/customer-service/faq) [Contact](https://www.skatedeluxe.com/en/i/contact)
 
 ![](https://cdn.skatedeluxe.com/static/images/icons/phone-white.svg)
 
@@ -18,41 +18,41 @@ Germany | English
 
 Country shops All locations & languages
 
-[Deutschland](https://www.skatedeluxe.com/de/datenschutz?cic=DE)
+[Deutschland](https://www.skatedeluxe.com/de/i/datenschutz?cic=DE)
 
-[Switzerland](https://www.skatedeluxe.ch/de/datenschutz?cic=CH)
+[Switzerland](https://www.skatedeluxe.ch/de/i/datenschutz?cic=CH)
 
-[FR](https://www.skatedeluxe.ch/fr/vie-privee?cic=CH)
+[FR](https://www.skatedeluxe.ch/fr/i/vie-privee?cic=CH)
 
-[EN](https://www.skatedeluxe.ch/en/privacy?cic=CH)
+[EN](https://www.skatedeluxe.ch/en/i/privacy?cic=CH)
 
-[France](https://www.skatedeluxe.com/fr/vie-privee?cic=FR)
+[France](https://www.skatedeluxe.com/fr/i/vie-privee?cic=FR)
 
-[Österreich](https://www.skatedeluxe.com/de/datenschutz?cic=AT)
+[Österreich](https://www.skatedeluxe.com/de/i/datenschutz?cic=AT)
 
-[Italia](https://www.skatedeluxe.com/it/protezione-dei-dati?cic=IT)
+[Italia](https://www.skatedeluxe.com/it/i/protezione-dei-dati?cic=IT)
 
-[Belgium](https://www.skatedeluxe.com/en/privacy?cic=BE)
+[Belgium](https://www.skatedeluxe.com/en/i/privacy?cic=BE)
 
-[NL](https://www.skatedeluxe.com/nl/privacybeleid?cic=BE)
+[NL](https://www.skatedeluxe.com/nl/i/privacybeleid?cic=BE)
 
-[FR](https://www.skatedeluxe.com/fr/vie-privee?cic=BE)
+[FR](https://www.skatedeluxe.com/fr/i/vie-privee?cic=BE)
 
-[Nederland](https://www.skatedeluxe.com/nl/privacybeleid?cic=NL)
+[Nederland](https://www.skatedeluxe.com/nl/i/privacybeleid?cic=NL)
 
-[España](https://www.skatedeluxe.com/es/privacidad?cic=ES)
+[España](https://www.skatedeluxe.com/es/i/privacidad?cic=ES)
 
-[United Kingdom](https://www.skatedeluxe.com/en/privacy?cic=GB)
+[United Kingdom](https://www.skatedeluxe.com/en/i/privacy?cic=GB)
 
-[Portugal](https://www.skatedeluxe.com/en/privacy?cic=PT)
+[Portugal](https://www.skatedeluxe.com/en/i/privacy?cic=PT)
 
-[Sverige](https://www.skatedeluxe.com/en/privacy?cic=SE)
+[Sverige](https://www.skatedeluxe.com/en/i/privacy?cic=SE)
 
-[Danmark](https://www.skatedeluxe.com/en/privacy?cic=DK)
+[Danmark](https://www.skatedeluxe.com/en/i/privacy?cic=DK)
 
-[Česko](https://www.skatedeluxe.com/en/privacy?cic=CZ)
+[Česko](https://www.skatedeluxe.com/en/i/privacy?cic=CZ)
 
-[Polska](https://www.skatedeluxe.com/pl/polityka-prywatnosci?cic=PL)
+[Polska](https://www.skatedeluxe.com/pl/i/polityka-prywatnosci?cic=PL)
 
 Delivery country
 
@@ -175,19 +175,19 @@ Search result for "%search\_keywords%"
 
 [](https://www.skatedeluxe.com/en)
 
-[Brands](https://www.skatedeluxe.com/en/all-brands "Brands")
+[Brands](https://www.skatedeluxe.com/en/b/all-brands "Brands")
 
-[Skateboards](https://www.skatedeluxe.com/en/skateboards "Skateboards")
+[Skateboards](https://www.skatedeluxe.com/en/c/skateboards "Skateboards")
 
-[Shoes](https://www.skatedeluxe.com/en/shoes "Shoes")
+[Shoes](https://www.skatedeluxe.com/en/c/shoes "Shoes")
 
-[Clothing](https://www.skatedeluxe.com/en/clothing "Clothing")
+[Clothing](https://www.skatedeluxe.com/en/c/clothing "Clothing")
 
-[Accessories](https://www.skatedeluxe.com/en/accessories "Accessories")
+[Accessories](https://www.skatedeluxe.com/en/c/accessories "Accessories")
 
-[New](https://www.skatedeluxe.com/en/brandnew "New")
+[New](https://www.skatedeluxe.com/en/c/brandnew "New")
 
-[Sale](https://www.skatedeluxe.com/en/sale "Sale")
+[Sale](https://www.skatedeluxe.com/en/c/sale "Sale")
 
 Search result for "%search\_keywords%"
 --------------------------------------
@@ -214,11 +214,11 @@ Remove all filters
 
 Sorting
 
-[FREE SHIPPING ON ORDERS OVER 100 EUR](https://www.skatedeluxe.com/en/shipping "FREE SHIPPING ON ORDERS OVER 100 EUR")
+[FREE SHIPPING ON ORDERS OVER 100 EUR](https://www.skatedeluxe.com/en/i/customer-service/shipping "FREE SHIPPING ON ORDERS OVER 100 EUR")
 
-[FAST SHIPPING](https://www.skatedeluxe.com/en/shipping "fastest Skateshop")
+[FAST SHIPPING](https://www.skatedeluxe.com/en/i/customer-service/shipping "fastest Skateshop")
 
-[30 DAY RETURN POLICY](https://www.skatedeluxe.com/en/return)
+[30 DAY RETURN POLICY](https://www.skatedeluxe.com/en/i/customer-service/return)
 
 [Trustpilot](https://www.skatedeluxe.com/%E2%80%8Bhttps:/uk.trustpilot.com/review/skatedeluxe.com)
 
@@ -234,13 +234,13 @@ As of the 25th of May 2018, the provisions of the [EU General Data Protection Re
 
 ### Content Overview
 
-**1\. [Summary](https://www.skatedeluxe.com/en/privacy#summary)  
+**1\. [Summary](https://www.skatedeluxe.com/en/i/privacy#summary)  
 **
 
-**2\. [Name and Contact Details of the Data Controller as well as the Internal Data Protection Officer](https://www.skatedeluxe.com/en/privacy#contact)  
+**2\. [Name and Contact Details of the Data Controller as well as the Internal Data Protection Officer](https://www.skatedeluxe.com/en/i/privacy#contact)  
 **
 
-**3\. [Purposes of Data Processing, Legal Bases and Legitimate Interests Pursued by skatedeluxe GmbH Or a Third Party, as well as Categories of Recipients](https://www.skatedeluxe.com/en/privacy#purpose)  
+**3\. [Purposes of Data Processing, Legal Bases and Legitimate Interests Pursued by skatedeluxe GmbH Or a Third Party, as well as Categories of Recipients](https://www.skatedeluxe.com/en/i/privacy#purpose)  
 **
 
 3.1. Accessing Our Website  
@@ -257,13 +257,13 @@ As of the 25th of May 2018, the provisions of the [EU General Data Protection Re
 3.12. Application / Application Process  
 3.13. Address completion via Google Places API
 
-**4\. [Communication with Recipients Outside of the EU](https://www.skatedeluxe.com/en/privacy#communication)  
+**4\. [Communication with Recipients Outside of the EU](https://www.skatedeluxe.com/en/i/privacy#communication)  
 **
 
-**5\. [Your Rights](https://www.skatedeluxe.com/en/privacy#rights)  
+**5\. [Your Rights](https://www.skatedeluxe.com/en/i/privacy#rights)  
 **
 
-**6\. [Data Security Measures](https://www.skatedeluxe.com/en/privacy#security)  
+**6\. [Data Security Measures](https://www.skatedeluxe.com/en/i/privacy#security)  
 **
 
 * * *
@@ -389,7 +389,7 @@ Dispatch of the newsletter and the associated performance measurement are based 
 
 You can unsubscribe from the newsletter at any time and **object** to the use of your e-mail address. You can either unsubscribe via the link at the bottom of every newsletter or directly in “My Account” under the menu item “Newsletter”. The data processed as a result of the newsletter mailout is not subject to any automatic deletion period but will be deleted only after unsubscribing to the newsletter. Even after revocation of your consent, we store the consent data for another 6 months on the basis of Art. 6 (1) (f) GDPR. In cases of doubt, being able to prove that consent was given at some point in the past is to be classified as a legitimate interest within the meaning of this regulation.
 
-If you have any questions please [contact our customer service](https://www.skatedeluxe.com/en/contact) at any time.
+If you have any questions please [contact our customer service](https://www.skatedeluxe.com/en/i/contact) at any time.
 
 ##### 3.3.4. Right to Object               
 
@@ -401,13 +401,13 @@ If you file an objection, the affected contact address will be disabled from fur
 
 ##### 3.4.1. Cookies – General Information 
 
-We use cookies on the skatedeluxe GmbH websites. You can find detailed information about this in our [Cookie Policy](https://www.skatedeluxe.com/en/cookie-policy).
+We use cookies on the skatedeluxe GmbH websites. You can find detailed information about this in our [Cookie Policy](https://www.skatedeluxe.com/en/i/cookie-policy).
 
 ##### 3.4.2. Matomo
 
 To analyse the visitor traffic on our website we use the open-source tool Matomo. With the help of a cookie stored on your device information about usage of our website will be transferred to our server and stored there. Thus there is **no data transfer to third parties or third countries**. Your IP address is **anonymized** immediately so that no conclusions about you as a user are possible at all. The data collected about you will be used to analyze and improve our website.
 
-You can find out how to reject the use of cookies in our [Cookie Policy.](https://www.skatedeluxe.com/en/cookie-policy)
+You can find out how to reject the use of cookies in our [Cookie Policy.](https://www.skatedeluxe.com/en/i/cookie-policy)
 
 ##### 3.4.3. Google Analytics / Universal Analytics
 
@@ -476,7 +476,7 @@ The information we send and that is linked to cookies is automatically deleted a
 
 ###### Withdrawal
 
-You can find the option to withdraw your consent to the use of cookies in our [Cookie Policy](https://www.skatedeluxe.com/en/cookie-policy).
+You can find the option to withdraw your consent to the use of cookies in our [Cookie Policy](https://www.skatedeluxe.com/en/i/cookie-policy).
 
 The legality of any processing carried out on the basis of your consent up to the point of revocation remains unaffected by this.
 
@@ -511,7 +511,7 @@ An Opt-Out-Cookie is set to ensure that no Facebook pixel is set when this websi
 
 3.4.4.4. Objection / Opt-Out Opportunity
 
-You can find out how to deactivate targeting cookies in our [Cookie Policy](https://www.skatedeluxe.com/en/cookie-policy).
+You can find out how to deactivate targeting cookies in our [Cookie Policy](https://www.skatedeluxe.com/en/i/cookie-policy).
 
 ##### 3.4.5. Social-Media-Plug-ins
 
@@ -597,13 +597,13 @@ More information about Google login and Google privacy settings can be found her
 
 #### 3.7. YouTube
 
-On our website, we embed videos from the video platform YouTube. The videos are embedded in the **extended data protection mode**. YouTube sets [cookies](https://www.skatedeluxe.com/en/cookie-policy#tpc) on your device to collect information about you as a visitor. This information is used by YouTube to capture, among other things, video statistics, to prevent fraud, and to improve usability. It will also connect to the Google DoubleClick network. When you start a video on our site, there is a chance that other data processing operations will be triggered that we have no control over. Processing takes place in accordance with Article 6 (1) (f) GDPR. For **more information on privacy on YouTube**, please see: [YouTube and Privacy](https://policies.google.com/privacy?hl=en&gl=en)
+On our website, we embed videos from the video platform YouTube. The videos are embedded in the **extended data protection mode**. YouTube sets [cookies](https://www.skatedeluxe.com/en/i/cookie-policy#tpc) on your device to collect information about you as a visitor. This information is used by YouTube to capture, among other things, video statistics, to prevent fraud, and to improve usability. It will also connect to the Google DoubleClick network. When you start a video on our site, there is a chance that other data processing operations will be triggered that we have no control over. Processing takes place in accordance with Article 6 (1) (f) GDPR. For **more information on privacy on YouTube**, please see: [YouTube and Privacy](https://policies.google.com/privacy?hl=en&gl=en)
 
 #### 3.8. Premium Club - Customer Rewards Program
 
 On our website, we offer a customer rewards program: the skatedeluxe "Premium Club". Participation is voluntary. After signing up for our rewards program, you will receive points for each purchase that you can exchange for premiums (such as coupons or items).
 
-The **data collected and stored** pertaining to your participation in our customer rewards program will be used solely for the purpose of carrying out this program and shall not be disclosed with third parties. Article 6 (1) (a) GDPR provides the legal grounds for processing your data. Further information about the Premium Club can be found in the [terms and conditions](https://www.skatedeluxe.com/en/premiumclub).
+The **data collected and stored** pertaining to your participation in our customer rewards program will be used solely for the purpose of carrying out this program and shall not be disclosed with third parties. Article 6 (1) (a) GDPR provides the legal grounds for processing your data. Further information about the Premium Club can be found in the [terms and conditions](https://www.skatedeluxe.com/en/i/premiumclub).
 
 You can **cancel your membership** anytime directly on the Premium Club page under "Account Information" "Disable Account" after logging in. You can also send us an email to service.en@skatedeluxe.com or use the contact details provided under Section 2.
 
@@ -704,12 +704,12 @@ Last Updated: 29.09.2023
 
  active inactive
 
-[Legal Notice](https://www.skatedeluxe.com/en/legal-notice)
+[Legal Notice](https://www.skatedeluxe.com/en/i/legal-notice)
 
-* [Terms & Conditions](https://www.skatedeluxe.com/en/terms-and-conditions)
-* [Privacy Policy](https://www.skatedeluxe.com/en/privacy)
-* [Cookie Policy](https://www.skatedeluxe.com/en/cookie-policy)
-* [Whistleblower Policy](https://www.skatedeluxe.com/en/whistleblower-policy)
+* [Terms & Conditions](https://www.skatedeluxe.com/en/i/terms-and-conditions)
+* [Privacy Policy](https://www.skatedeluxe.com/en/i/privacy)
+* [Cookie Policy](https://www.skatedeluxe.com/en/i/cookie-policy)
+* [Whistleblower Policy](https://www.skatedeluxe.com/en/i/whistleblower-policy)
 
 © skatedeluxe.com Skateshop 2024
 
@@ -735,7 +735,7 @@ In order to provide you with the best possible user experience, we implement coo
 
 Apply selection
 
-By clicking "ACCEPT ALL" you agree to the use of all cookies and web tracking technologies. If you change your mind, you can find all the options to change or revoke your consent in our [Cookie Policy](https://www.skatedeluxe.com/en/cookie-policy) and [Privacy Policy](https://www.skatedeluxe.com/en/privacy).  
+By clicking "ACCEPT ALL" you agree to the use of all cookies and web tracking technologies. If you change your mind, you can find all the options to change or revoke your consent in our [Cookie Policy](https://www.skatedeluxe.com/en/i/cookie-policy) and [Privacy Policy](https://www.skatedeluxe.com/en/i/privacy).  
 
 Accept all
 
