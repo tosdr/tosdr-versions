@@ -463,25 +463,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[New Cabinet photo on government website had minor edits, Hayashi admits](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426402.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.")](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Experts move to allay replicon COVID shot fears in Japan amid backlash](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426378.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.")](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[Comedian Shinji Saito investigated over sexual assault](https://www.japantimes.co.jp/news/2024/10/07/japan/crime-legal/comedian-saito-sexual-assault/ "Comedian Shinji Saito investigated over sexual assault")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Yoshimoto Kogyo, the agency that manages comedy trio Jungle Pocket, announced in mid-September that group member Shinji Saito had been experiencing health issues and underwent hospitalization, and that he requested a hiatus. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426355.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yoshimoto Kogyo, the agency that manages comedy trio Jungle Pocket, announced in mid-September that group member Shinji Saito had been experiencing health issues and underwent hospitalization, and that he requested a hiatus. ")](https://www.japantimes.co.jp/news/2024/10/07/japan/crime-legal/comedian-saito-sexual-assault/ "Comedian Shinji Saito investigated over sexual assault")
 
-[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+[Ishiba fends off questions on endorsement of scandal-tainted LDP members](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/ishiba-parliament-questions/ "Ishiba fends off questions on endorsement of scandal-tainted LDP members")
 
-  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
+  [![Prime Minister Shigeru Ishiba speaks during a Lower House session on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426431.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a Lower House session on Monday.")](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/ishiba-parliament-questions/ "Ishiba fends off questions on endorsement of scandal-tainted LDP members")
 
 [Experts move to allay replicon COVID shot fears in Japan amid backlash](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
 
@@ -498,6 +498,10 @@ Revised June 1, 2022
 [The furry performance-enhancers that are sweeping the world of sports](https://www.japantimes.co.jp/sports/2024/10/06/more-sports/athletes-therapy-dogs/ "The furry performance-enhancers that are sweeping the world of sports")
 
   [![Dodgers star Shohei Ohtani and his dog, Dekopin, who delivered the ceremonial first pitch prior to a game against the Orioles on Aug. 28](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426103.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers star Shohei Ohtani and his dog, Dekopin, who delivered the ceremonial first pitch prior to a game against the Orioles on Aug. 28")](https://www.japantimes.co.jp/sports/2024/10/06/more-sports/athletes-therapy-dogs/ "The furry performance-enhancers that are sweeping the world of sports")
+
+[The Japanese tech that could one day make Southeast Asia landmine-free](https://www.japantimes.co.jp/news/2024/10/07/japan/japan-cambodia-laos-demining-tech/ "The Japanese tech that could one day make Southeast Asia landmine-free")
+
+  [![Dul Saroth (left) and Soeum Samrach, deminers with the Cambodian Mine Action and Victim Assistance Authority, practice using the Advanced Landmine Imaging System in Cambodia’s Siem Reap province in August.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425242.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dul Saroth (left) and Soeum Samrach, deminers with the Cambodian Mine Action and Victim Assistance Authority, practice using the Advanced Landmine Imaging System in Cambodia’s Siem Reap province in August.")](https://www.japantimes.co.jp/news/2024/10/07/japan/japan-cambodia-laos-demining-tech/ "The Japanese tech that could one day make Southeast Asia landmine-free")
 
 Podcast
 -------
@@ -518,9 +522,9 @@ By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ 
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -562,23 +566,15 @@ Latest News
 
 [Retiring former PM Kan calls for another change of government in Japan](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/naoto-kan-retire/ "Retiring former PM Kan calls for another change of government in Japan")
 
-4 hours ago
+10 hours ago
 
 [Ex-boxer Iwao Hakamata finally exonerated over 1966 murder case](https://www.japantimes.co.jp/news/2024/10/08/japan/crime-legal/hakamata-exonerated/ "Ex-boxer Iwao Hakamata finally exonerated over 1966 murder case")
 
-6 hours ago
-
 [Pair win physics Nobel for machine learning breakthroughs](https://www.japantimes.co.jp/news/2024/10/08/world/science-health/2024-physics-nobel-prize/ "Pair win physics Nobel for machine learning breakthroughs")
-
-6 hours ago
 
 [Sapporo school boy sexually assaulted by junior high student: panel report](https://www.japantimes.co.jp/news/2024/10/08/japan/crime-legal/sexual-assault-sapporo/ "Sapporo school boy sexually assaulted by junior high student: panel report")
 
-7 hours ago
-
 [MSDF overpaid ¥81 million for submarine battery charging, sources say](https://www.japantimes.co.jp/news/2024/10/08/japan/msdf-overpayment/ "MSDF overpaid ¥81 million for submarine battery charging, sources say")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
