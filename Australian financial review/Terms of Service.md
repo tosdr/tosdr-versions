@@ -317,15 +317,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.4113%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_107%2C$y_128/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/aa92c169cd48ae4d50ab93a87f25d45054e82149)](https://www.afr.com/technology/the-vitruvian-trainer-is-a-lot-like-the-peloton-but-for-weights-20241003-p5kfjg)
+[![ ](https://static.ffx.io/images/$zoom_0.217%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3ab5c8d32bdcd62d36a5a35e3ea15da2864b442c)](https://www.afr.com/life-and-luxury/travel/at-these-ultra-luxe-maldives-resorts-you-could-be-in-for-a-surprise-20241002-p5kf8k)
 
-### [The Vitruvian Trainer+ is a lot like the Peloton – but for weights](https://www.afr.com/technology/the-vitruvian-trainer-is-a-lot-like-the-peloton-but-for-weights-20241003-p5kfjg)
+### [At these ultra-luxe Maldives resorts, you could be in for a surprise](https://www.afr.com/life-and-luxury/travel/at-these-ultra-luxe-maldives-resorts-you-could-be-in-for-a-surprise-20241002-p5kf8k)
 
-* John Davidson
+* 57 mins ago
+* Charis Perkins
 
-* ### [On cloud nine for a sky-high price: the $1m mattress](https://www.afr.com/life-and-luxury/health-and-wellness/on-cloud-nine-for-a-sky-high-price-the-1m-mattress-20240924-p5kd4d)
+* ### [What’s behind our obsession with wellness?](https://www.afr.com/life-and-luxury/health-and-wellness/what-s-behind-our-obsession-with-wellness-20240924-p5kd4n)
     
-* ### [‘How I manage stress’: Stake CEO on his motorcycling obsession](https://www.afr.com/life-and-luxury/health-and-wellness/how-this-ceo-stays-on-the-fast-track-20240918-p5kbi4)
+* ### [Wellness on wheels: the cars that read your mood](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/wellness-on-wheels-the-cars-that-read-your-mood-20240913-p5kac1)
     
 
 [Rich List](https://www.afr.com/rich-list)
