@@ -129,50 +129,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Terri Winfield
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=64198178)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=206468892)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=190697496)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=175194474)  
+Network Grey (Pty) Ltd
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=89561191)  
-Blue Bulls Rugby Coaches Association
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=184738367)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=31463712)  
-Kara Medical (Pty) Ltd
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=110483307)  
+All Trucking Solutions
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=20295892)  
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=106684565)  
 Creative Characters
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=10958805)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=6070933)  
+VIR Electrical (PTY) LTD
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=42153189)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=163229747)  
+Highlands Auto Engineering
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=105769288)  
-Tagline Brands
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=6492578)  
+CBR Verwe/Paints
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=37011019)  
-OXYAIDER (PTY) LTD
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=212092588)  
+TechnoDezi PTY(LTD)
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=8045086)  
-Frequency Fanatics (Pty) Ltd
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=156561543)  
+Know Informatics
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=74748120)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=93653011)  
+Glass and Allied Industries
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=173382379)  
-MOSELA GROUP Pty(ltd)
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=182401261)  
+Little Nutty Professors
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=46054907)  
-Lizzy Pop PTY(Ltd)
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=112267532)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=196578113)  
-PROGRAPHIX PTY LTD
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=17698187)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=cd2b4e32cd1041d34533226fafabf7ddc79f26c7c556afa9f084591d4b14c6b9&c=56690461)  
-Forgotten Goods (Pty) Ltd
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=89c3e2f2391c13dda0d73ba7022eabbfe76d5d565d1e2445e41d2c4210f19da5&c=95933790)  
+OrgChart Hosting Pty Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
