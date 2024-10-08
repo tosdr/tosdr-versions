@@ -198,23 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/c/7/csm_craibas-vista-cima_02398f973c.jpg)
-
-interior de AL
-
-interior de AL
-
-Homem passa mal em fila na porta de local de votação e morre após ser socorrido
-
-Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://www.tnh1.com.br/noticia/nid/homem-passa-mal-em-fila-na-porta-de-local-de-votacao-e-morre-apos-ser-socorrido/ "Homem passa mal em fila na porta de local de votação e morre após ser socorrido")[![Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/0/csm_compra_de_votos_campo_alegre_vereador_5eb4084741.jpg)
-
-em flagrante
-
-em flagrante
-
-Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos
-
-Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https://www.tnh1.com.br/noticia/nid/pai-de-candidato-a-vereador-e-preso-com-r3-mil-na-cueca-comprando-votos/ "Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos")[![Corpo de turista desaparecida é encontrado dentro de tubarão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/9/csm_Corpo_de_turista_desaparecida_e_encontrado_dentro_de_tubarao_-_foto_Reproducao_d1210617fb.jpg)
+[![Corpo de turista desaparecida é encontrado dentro de tubarão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/9/csm_Corpo_de_turista_desaparecida_e_encontrado_dentro_de_tubarao_-_foto_Reproducao_d1210617fb.jpg)
 
 68 anos
 
@@ -222,7 +206,15 @@ Pai de candidato a vereador é preso com R$3 mil na cueca comprando votos](https
 
 Corpo de turista desaparecida é encontrado dentro de tubarão
 
-Corpo de turista desaparecida é encontrado dentro de tubarão](https://www.tnh1.com.br/noticia/nid/corpo-de-turista-desaparecida-e-encontrado-dentro-de-tubarao/ "Corpo de turista desaparecida é encontrado dentro de tubarão")[![Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/0/csm_Logotipo_de_Vale_Tudo_69fa42c568.png)
+Corpo de turista desaparecida é encontrado dentro de tubarão](https://www.tnh1.com.br/noticia/nid/corpo-de-turista-desaparecida-e-encontrado-dentro-de-tubarao/ "Corpo de turista desaparecida é encontrado dentro de tubarão")[![Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/7/csm_craibas-vista-cima_02398f973c.jpg)
+
+interior de AL
+
+interior de AL
+
+Homem passa mal em fila na porta de local de votação e morre após ser socorrido
+
+Homem passa mal em fila na porta de local de votação e morre após ser socorrido](https://www.tnh1.com.br/noticia/nid/homem-passa-mal-em-fila-na-porta-de-local-de-votacao-e-morre-apos-ser-socorrido/ "Homem passa mal em fila na porta de local de votação e morre após ser socorrido")[![Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/0/csm_Logotipo_de_Vale_Tudo_69fa42c568.png)
 
 Televisão
 
@@ -230,41 +222,49 @@ Televisão
 
 Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo
 
-Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-atriz-que-rejeitou-participacao-especial-no-remake-de-vale-tudo/ "Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo")
+Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo](https://www.tnh1.com.br/noticia/nid/saiba-quem-e-a-atriz-que-rejeitou-participacao-especial-no-remake-de-vale-tudo/ "Saiba quem é a atriz que rejeitou participação especial no remake de Vale Tudo")[![Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_csm_Ambulancia_Bombeiros_335e4cd072_c84d7335db.jpg)
 
-[![Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-funcionar-em-maceio_64e65bd56c.jpg)
+Na Ponta Grossa
 
-150 CÂMERAS
+Na Ponta Grossa
 
-150 CÂMERAS
+Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió
 
-Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona
+Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://www.tnh1.com.br/noticia/nid/mulher-tem-membro-inferior-dilacerado-apos-colisao-entre-duas-motos-em-maceio/ "Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió")
 
-Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona](https://www.tnh1.com.br/noticia/nid/novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-operar-em-alagoas-veja-como-funciona/ "Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ")[![Engenheira morre aos 27 anos atropelada por rolo compressor de obra ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/3/csm_engenheira-atropelada-reproducao-redes-sociais_1a5cf57389.jpg)
+[![A reação de mãe de Diddy às acusações contra o rapper](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/1/csm_sean-diddy-reproducao-cnn-redes-sociais_c7abd3c4c4.jpg)
 
-Tragédia
+Fez declaração
 
-Tragédia
+Fez declaração
 
-Engenheira morre aos 27 anos atropelada por rolo compressor de obra
+A reação de mãe de Diddy às acusações contra o rapper
 
-Engenheira morre aos 27 anos atropelada por rolo compressor de obra](https://www.tnh1.com.br/noticia/nid/engenheira-morre-aos-27-anos-atropelada-por-rolo-compressor-de-obra/ "Engenheira morre aos 27 anos atropelada por rolo compressor de obra ")[![Suplente de vereador é assassinado após eleição no interior do ES](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/6/csm_renato-rosa-conhecido-como-fenomeno-morreu-aos-56-anos-1728334798227_v2_900x506.png_d1766aa87b.jpg)
+A reação de mãe de Diddy às acusações contra o rapper](https://www.tnh1.com.br/noticia/nid/a-reacao-de-mae-de-diddy-as-acusacoes-contra-o-rapper/ "A reação de mãe de Diddy às acusações contra o rapper")[![Hemoal promove coletas externas de sangue em Arapiraca e Marechal Deodoro nesta terça-feira (8)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/1/csm_hemoal-promove-coletas-externas-de-sangue-em-arapiraca-e-marechal-deodoro-nesta-terca-feira-8_c92e057dc0.jpg)
 
-56 anos
+Saúde
 
-56 anos
+Saúde
 
-Suplente de vereador é assassinado após eleição no interior do ES
+Hemoal promove coletas externas de sangue em Arapiraca e Marechal Deodoro nesta terça-feira (8)
 
-Suplente de vereador é assassinado após eleição no interior do ES](https://www.tnh1.com.br/noticia/nid/suplente-de-vereador-e-assassinado-apos-eleicao-no-interior-do-es/ "Suplente de vereador é assassinado após eleição no interior do ES")[![Veja o que o cantor Leonardo disse sobre inclusão de fazenda em 'lista suja' da escravidão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/c/csm_leonardo-fazenda-foto-reproducao_64c96dc92e.png)
+Hemoal promove coletas externas de sangue em Arapiraca e Marechal Deodoro nesta terça-feira (8)](https://www.tnh1.com.br/noticia/nid/hemoal-promove-coletas-externas-de-sangue-em-arapiraca-e-marechal-deodoro-nesta-terca-feira-8/ "Hemoal promove coletas externas de sangue em Arapiraca e Marechal Deodoro nesta terça-feira (8)")[![Profissional de educação física suspeito de vender anabolizantes é preso](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/0/csm_Profissional_de_educacao_fisica_suspeito_de_vender_anabolizantes_e_preso_-_foto_Divulgacao_PCGO_be1171d08f.jpg)
 
-Gente Famosa
+uso restrito
 
-Gente Famosa
+uso restrito
 
-Veja o que o cantor Leonardo disse sobre inclusão de fazenda em 'lista suja' da escravidão
+Profissional de educação física suspeito de vender anabolizantes é preso
 
-Veja o que o cantor Leonardo disse sobre inclusão de fazenda em 'lista suja' da escravidão](https://www.tnh1.com.br/noticia/nid/veja-o-que-o-cantor-leonardo-disse-sobre-inclusao-de-fazenda-em-lista-suja-da-escravidao/ "Veja o que o cantor Leonardo disse sobre inclusão de fazenda em 'lista suja' da escravidão")
+Profissional de educação física suspeito de vender anabolizantes é preso](https://www.tnh1.com.br/noticia/nid/profissional-de-educacao-fisica-suspeito-de-vender-anabolizantes-e-preso/ "Profissional de educação física suspeito de vender anabolizantes é preso")[![Samara Felippo fala sobre namoro não monogâmico com comediante](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/8/csm_Samara_Felippo_e_Elidio_-_foto_Reproducao_Instagram_7d4be5850a.jpg)
+
+relacionamento
+
+relacionamento
+
+Samara Felippo fala sobre namoro não monogâmico com comediante
+
+Samara Felippo fala sobre namoro não monogâmico com comediante](https://www.tnh1.com.br/noticia/nid/samara-felippo-fala-sobre-namoro-nao-monogamico-com-comediante/ "Samara Felippo fala sobre namoro não monogâmico com comediante")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
