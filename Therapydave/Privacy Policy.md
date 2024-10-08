@@ -9,7 +9,7 @@ Gottman Couples Therapy & Individual Counseling in Eugene, Oregon
 
 * [About](https://therapydave.com/about-eugene-psychotherapist/)
 * [Gottman Couples Therapy](https://therapydave.com/couples-therapy/)
-* [Individual Counseling](https://therapydave.com/eugene-psychotherapy/)
+* [Individual Empowerment Therapy](https://therapydave.com/eugene-psychotherapy/)
 * [FAQ](https://therapydave.com/psychotherapist-faqs/)
 * [Resources](https://therapydave.com/eugene-psychotherapist-resources/)
 * [Appointments](https://therapydave.com/therapist-appointments/)
@@ -114,7 +114,7 @@ Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-_“Dave Lechnyr is a very compassionate and empathetic couples therapist who has been able to work with me and my husband in very constructive and practical ways.”_
+_“Dave has a unique ability to create a safe, non-judgmental space where I felt comfortable sharing my deepest fears and vulnerabilities. His guidance and support have been invaluable in helping me navigate a difficult period in my life. I’m grateful for his expertise and compassion.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
