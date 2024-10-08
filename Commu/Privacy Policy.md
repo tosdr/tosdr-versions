@@ -312,12 +312,15 @@ Download Commu now!
 
 [![](https://commuapp.fi/wp-content/uploads/2021/06/play-store-1.png "play-store.png - Commu")](https://play.google.com/store/apps/details?id=com.ronsamdigital.commuapp)
 
-[Privacy Policy](https://commuapp.fi/en/privacy-policy)  
+[These companies do good!](https://www.hyvantekijatmerkki.fi/en/)
+
+[Privacy Policy](https://commuapp.fi/en/privacy-policy)
+
 [Frequently Asked Questions](https://commuapp.fi/en/frequently-asked)
 
 ©2024 by Commu App
 
-[Facebook](https://www.facebook.com/commuapp/) [Instagram](https://www.instagram.com/commuapp/) [Linkedin](https://www.linkedin.com/company/commuapp)
+[Facebook](https://www.facebook.com/commuapp/) [Instagram](https://www.instagram.com/commuapp/) [Linkedin](https://www.linkedin.com/company/commuapp) [Youtube](https://www.youtube.com/@commuapp)
 
 We use cookies on our website to make it work properly and to understand how it is used. By pressing "accept", all cookies are enabled
 
