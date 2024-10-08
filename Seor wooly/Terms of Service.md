@@ -144,7 +144,7 @@ We want you to be perfectly satisfied with your purchase. If you are not satisfi
 
 2. **Prorated Refunds:**
 
-* If you request a refund after the initial 14 days but before 50% of your subscription term has passed, your refund will be prorated based on the remaining time in your subscription term.
+* If you request a refund after the initial 14 days but before 25% of your subscription term has passed, your refund will be prorated based on the remaining time in your subscription term.
 * For a 1-year license, you have up to 3 months to request a prorated refund.
 * For multi-year licenses, you have up to 25% of the total subscription term to request a refund. For example, if you have a 4-year license, you may request a prorated refund within the first year.
 * Refunds will be calculated based on the remaining months (or partial months) of the subscription term. A 5% processing fee, based on the original purchase price, will be applied to all prorated refunds.
