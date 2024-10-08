@@ -23,6 +23,7 @@
     * [Most Frequently Viewed Charities](https://www.charitynavigator.org/discover-charities/popular-charities/most-viewed-charities.html)
     
     * [Where To Give Now](https://www.charitynavigator.org/discover-charities/where-to-give.html)
+    * [Hurricane Milton](https://www.charitynavigator.org/discover-charities/where-to-give/hurricane-milton-2024.html)
     * [Hurricane Helene](https://www.charitynavigator.org/discover-charities/where-to-give/hurricane-helene-2024.html)
     * [Humanitarian Crisis in Israel and Gaza](https://www.charitynavigator.org/discover-charities/where-to-give/israel-hamas-conflict.html)
     * [Humanitarian Assistance in Sudan](https://www.charitynavigator.org/discover-charities/where-to-give/2023-sudan-conflict.html)
@@ -127,6 +128,7 @@
     * [Most Frequently Viewed Charities](https://www.charitynavigator.org/discover-charities/popular-charities/most-viewed-charities.html)
     
     * [Where To Give Now](https://www.charitynavigator.org/discover-charities/where-to-give.html)
+    * [Hurricane Milton](https://www.charitynavigator.org/discover-charities/where-to-give/hurricane-milton-2024.html)
     * [Hurricane Helene](https://www.charitynavigator.org/discover-charities/where-to-give/hurricane-helene-2024.html)
     * [Humanitarian Crisis in Israel and Gaza](https://www.charitynavigator.org/discover-charities/where-to-give/israel-hamas-conflict.html)
     * [Humanitarian Assistance in Sudan](https://www.charitynavigator.org/discover-charities/where-to-give/2023-sudan-conflict.html)
