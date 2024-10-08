@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-61adfc2d8d88bab9df1291e17cc8c131
+46eab39c236cba5229b81ead3b8aaa17
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Crystal garnet clasp](https://sojourner.biz/images/cache/SKU0106front.200.jpg)](https://sojourner.biz/clasps/faux-stone/crystal-garnet-clasp.html "Crystal garnet clasp")
+[![20 mm oval African turquoise beads](https://sojourner.biz/images/cache/stone/TU0016.200.jpg)](https://sojourner.biz/beads/stone-m-z/turquoise/20-mm-oval-african-turquoise-beads.html "20 mm oval African turquoise beads")
 
-#### [Crystal garnet clasp](https://sojourner.biz/clasps/faux-stone/crystal-garnet-clasp.html "Crystal garnet clasp")
+#### [20 mm oval African turquoise beads](https://sojourner.biz/beads/stone-m-z/turquoise/20-mm-oval-african-turquoise-beads.html "20 mm oval African turquoise beads")
 
-$18.00
+$25.00
 
 ### Best Sellers
 
