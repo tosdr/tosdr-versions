@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Profissionais elaboram dossiê sobre imóveis históricos do Bebedouro, Mutange e Bom Parto](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_Profissionais_elaboram_dossie_sobre_imoveis_historicos_do_Bebedouro__Mutange_e_Bom_Parto_-_foto_-_Philipe_Medeiros_-_Braskem_f175702ff1.jpeg)
+   [![Vídeo: fiação de poste pega fogo e assusta população na Avenida Gustavo Paiva](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/0/csm_incendio_fiacao_gustavo_paiva_-_foto_reproducao_7a2a80b741.jpg)
+
+Mangabeiras
+
+Vídeo: fiação de poste pega fogo e assusta população na Avenida Gustavo Paiva](https://www.tnh1.com.br/noticia/nid/video-fiacao-de-poste-pega-fogo-e-assusta-populacao-na-avenida-gustavo-paiva/ "Vídeo: fiação de poste pega fogo e assusta população na Avenida Gustavo Paiva")   [![Incêndio atinge casa desocupada no Pinheiro e mobiliza quase 20 bombeiros militares](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_incendio_pinheiro_-_foto_reproducao_f89348b948.jpg)
+
+Médias proporções
+
+Incêndio atinge casa desocupada no Pinheiro e mobiliza quase 20 bombeiros militares](https://www.tnh1.com.br/noticia/nid/incendio-atinge-casa-desocupada-no-pinheiro-e-mobiliza-quase-20-bombeiros-militares/ "Incêndio atinge casa desocupada no Pinheiro e mobiliza quase 20 bombeiros militares")   [![Vídeo: motorista tenta descer com carro em escadaria e veículo fica preso, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/b/f/csm_carro-fica-preso-escadaria_625820dc90.jpg)
+
+Durante madrugada
+
+Vídeo: motorista tenta descer com carro em escadaria e veículo fica preso, em Maceió](https://www.tnh1.com.br/noticia/nid/video-motorista-tenta-descer-com-carro-em-escadaria-e-veiculo-fica-preso-em-maceio/ "Vídeo: motorista tenta descer com carro em escadaria e veículo fica preso, em Maceió")   [![Prefeitura notifica Governo e interdita torres de videomonitoramento em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/a/csm_interdicao_totens_seguranca_publica_-_foto_prefeitura_maceio_6d8868b7cb.jpeg)
+
+Impasse
+
+Prefeitura notifica Governo e interdita torres de videomonitoramento em Maceió](https://www.tnh1.com.br/noticia/nid/prefeitura-notifica-governo-e-interdita-torres-de-videomonitoramento-em-maceio/ "Prefeitura notifica Governo e interdita torres de videomonitoramento em Maceió")   [![Profissionais elaboram dossiê sobre imóveis históricos do Bebedouro, Mutange e Bom Parto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_Profissionais_elaboram_dossie_sobre_imoveis_historicos_do_Bebedouro__Mutange_e_Bom_Parto_-_foto_-_Philipe_Medeiros_-_Braskem_f175702ff1.jpeg)
 
 Maceió
 
-Profissionais elaboram dossiê sobre imóveis históricos do Bebedouro, Mutange e Bom Parto](https://www.tnh1.com.br/noticia/nid/profissionais-elaboram-dossie-sobre-imoveis-historicos-do-bebedouro-mutange-e-bom-parto/ "Profissionais elaboram dossiê sobre imóveis históricos do Bebedouro, Mutange e Bom Parto")   [![Manutenção deixa 20 bairros de Maceió sem água a partir desta terça (08); confira](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/b/csm_falta_agua_agencia_4ec04de760.png)
+Profissionais elaboram dossiê sobre imóveis históricos do Bebedouro, Mutange e Bom Parto](https://www.tnh1.com.br/noticia/nid/profissionais-elaboram-dossie-sobre-imoveis-historicos-do-bebedouro-mutange-e-bom-parto/ "Profissionais elaboram dossiê sobre imóveis históricos do Bebedouro, Mutange e Bom Parto")   [![Manutenção deixa 20 bairros de Maceió sem água a partir desta terça (08); confira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/b/csm_falta_agua_agencia_4ec04de760.png)
 
 temporariamente
 
-Manutenção deixa 20 bairros de Maceió sem água a partir desta terça (08); confira](https://www.tnh1.com.br/noticia/nid/manutencao-deixa-20-bairros-de-maceio-sem-agua-a-partir-desta-terca-08-confira/ "Manutenção deixa 20 bairros de Maceió sem água a partir desta terça (08); confira")   [![Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_erick_comando_3db712a3b8.jpeg)
-
-Polícia
-
-Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB](https://www.tnh1.com.br/noticia/nid/homem-preso-em-estadio-e-apontado-pela-policia-como-o-suspeito-de-assassinar-puxador-da-torcida-organizada-do-crb/ "Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB")   [![Grave acidente entre carro e moto deixa três vítimas na Avenida Leste-Oeste](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/d/csm_acidente_na_leste_oeste_7-10-24_69c2f109e6.jpg)
-
-Colisão frontal
-
-Grave acidente entre carro e moto deixa três vítimas na Avenida Leste-Oeste](https://www.tnh1.com.br/noticia/nid/grave-acidente-entre-carro-e-moto-deixa-tres-vitimas-na-avenida-leste-oeste/ "Grave acidente entre carro e moto deixa três vítimas na Avenida Leste-Oeste")   [![Futuros delegados de Alagoas iniciam preparação física com corrida na orla](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/c/csm_futuros-delegados-da-policia-civil-iniciam-preparacao-fisica-com-corrida-na-orla_ce2d110ac5.jpeg)
-
-Maceió
-
-Futuros delegados de Alagoas iniciam preparação física com corrida na orla](https://www.tnh1.com.br/noticia/nid/futuros-delegados-de-alagoas-iniciam-preparacao-fisica-com-corrida-na-orla/ "Futuros delegados de Alagoas iniciam preparação física com corrida na orla")   [![Parque Municipal de Maceió será fechado neste domingo por conta das eleições](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/c/csm_Parque_Municipal_Maceio_a2e9cd5468.png)
-
-Maceió
-
-Parque Municipal de Maceió será fechado neste domingo por conta das eleições](https://www.tnh1.com.br/noticia/nid/parque-municipal-de-maceio-sera-fechado-neste-domingo-por-conta-das-eleicoes/ "Parque Municipal de Maceió será fechado neste domingo por conta das eleições")
+Manutenção deixa 20 bairros de Maceió sem água a partir desta terça (08); confira](https://www.tnh1.com.br/noticia/nid/manutencao-deixa-20-bairros-de-maceio-sem-agua-a-partir-desta-terca-08-confira/ "Manutenção deixa 20 bairros de Maceió sem água a partir desta terça (08); confira")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -50,31 +50,31 @@ Parque Municipal de Maceió será fechado neste domingo por conta das eleições
 
 [Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
 
-   [![Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-funcionar-em-maceio_65344d912d.jpg)
+   [![ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/7/csm_ONG_Mundau_Dia_da_Crianca_Assessoria_0f58301f4b.jpeg)
+
+Até 15 de outubro
+
+ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças](https://www.tnh1.com.br/noticia/nid/ong-mundau-mundo-inicia-campanha-de-arrecadacao-de-brinquedos-para-o-dia-das-criancas/ "ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças")   [![Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/0/csm_novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-funcionar-em-maceio_65344d912d.jpg)
 
 150 CÂMERAS
 
-Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona](https://www.tnh1.com.br/noticia/nid/novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-operar-em-alagoas-veja-como-funciona/ "Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ")   [![Idosa de 95 anos encontra família 'perdida' em Alagoas após apelo na TV Pajuçara](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/1/csm_csm_carmelita_-_foto_arquivo_pessoal_af591deb76_a25550f6fd.jpg)
+Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona](https://www.tnh1.com.br/noticia/nid/novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-operar-em-alagoas-veja-como-funciona/ "Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ")   [![Idosa de 95 anos encontra família 'perdida' em Alagoas após apelo na TV Pajuçara](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/1/csm_csm_carmelita_-_foto_arquivo_pessoal_af591deb76_a25550f6fd.jpg)
 
 Veja vídeo
 
-Idosa de 95 anos encontra família 'perdida' em Alagoas após apelo na TV Pajuçara](https://www.tnh1.com.br/noticia/nid/idosa-de-95-anos-encontra-familia-perdida-em-alagoas-apos-apelo-na-tv-pajucara/ "Idosa de 95 anos encontra família 'perdida' em Alagoas após apelo na TV Pajuçara")   [![Novo aviso meteorológico indica para baixa umidade do ar no Sertão alagoano](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/8/csm_csm_sertao-nordeste-seco-1024x576_38cd086a96_faaca47586.jpg)
+Idosa de 95 anos encontra família 'perdida' em Alagoas após apelo na TV Pajuçara](https://www.tnh1.com.br/noticia/nid/idosa-de-95-anos-encontra-familia-perdida-em-alagoas-apos-apelo-na-tv-pajucara/ "Idosa de 95 anos encontra família 'perdida' em Alagoas após apelo na TV Pajuçara")   [![Novo aviso meteorológico indica para baixa umidade do ar no Sertão alagoano](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/8/csm_csm_sertao-nordeste-seco-1024x576_38cd086a96_faaca47586.jpg)
 
 No interior
 
-Novo aviso meteorológico indica para baixa umidade do ar no Sertão alagoano](https://www.tnh1.com.br/noticia/nid/novo-aviso-meteorologico-indica-para-baixa-umidade-do-ar-no-sertao-alagoano/ "Novo aviso meteorológico indica para baixa umidade do ar no Sertão alagoano")   [![Confira os resultados do Alagoas dá Sorte deste domingo (6)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
+Novo aviso meteorológico indica para baixa umidade do ar no Sertão alagoano](https://www.tnh1.com.br/noticia/nid/novo-aviso-meteorologico-indica-para-baixa-umidade-do-ar-no-sertao-alagoano/ "Novo aviso meteorológico indica para baixa umidade do ar no Sertão alagoano")   [![Confira os resultados do Alagoas dá Sorte deste domingo (6)](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
 
 Alagoas
 
-Confira os resultados do Alagoas dá Sorte deste domingo (6)](https://www.tnh1.com.br/noticia/nid/confira-os-resultados-do-alagoas-da-sorte-deste-domingo-6-2/ "Confira os resultados do Alagoas dá Sorte deste domingo (6)")   [![Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/9/9/csm_VAGAS_SINE_2_MARIEL_MATHIAS_ASCOM_SETEQ__1__b46d6c7013.jpeg)
+Confira os resultados do Alagoas dá Sorte deste domingo (6)](https://www.tnh1.com.br/noticia/nid/confira-os-resultados-do-alagoas-da-sorte-deste-domingo-6-2/ "Confira os resultados do Alagoas dá Sorte deste domingo (6)")   [![Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/9/9/csm_VAGAS_SINE_2_MARIEL_MATHIAS_ASCOM_SETEQ__1__b46d6c7013.jpeg)
 
 Mercado de Trabalho
 
-Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-divulga-778-vagas-de-emprego-para-maceio-e-mais-tres-municipios-veja-cargos/ "Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos")   [![Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/8/csm_Praia_Maceio_-_foto_Lucas_Meneses_-_Ascom_Setur_c379360075.jpeg)
-
-balneabilidade
-
-Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas](https://www.tnh1.com.br/noticia/nid/vai-a-praia-veja-os-trechos-que-estao-proprios-para-banho-no-litoral-de-alagoas/ "Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alagoas")
+Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos](https://www.tnh1.com.br/noticia/nid/sine-alagoas-divulga-778-vagas-de-emprego-para-maceio-e-mais-tres-municipios-veja-cargos/ "Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios; veja cargos")
 
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
 
@@ -82,31 +82,31 @@ Vai à praia? Veja os trechos que estão próprios para banho no litoral de Alag
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/0/csm_ronda_no_bairro_maceio_assessoria_f7c8a23d42.jpg)
+   [![Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_corpo_homem_morto_craibas_d9cbafa8c1.jpg)
+
+no agreste
+
+Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://www.tnh1.com.br/noticia/nid/homem-e-raptado-por-grupo-encapuzado-morto-a-tiros-e-tem-corpo-abandonado-em-estrada/ "Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada")   [![Polícia Federal cumpre mandados contra esquema de compra de votos no interior de AL](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/1/csm_operacao-PF-lagoa-da-canoa_13049e4ec2.jpeg)
+
+"Lagoa em Perigo"
+
+Polícia Federal cumpre mandados contra esquema de compra de votos no interior de AL](https://www.tnh1.com.br/noticia/nid/policia-federal-cumpre-mandados-contra-esquema-de-compra-de-votos-no-interior-de-al/ "Polícia Federal cumpre mandados contra esquema de compra de votos no interior de AL")   [![Homem é apedrejado na rua e é socorrido ao buscar abrigo na casa da mãe, no Cidade Universitária](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/b/csm_homem-apedrejado-cidade-universitaria_d40fe27369.jpg)
+
+Ensanguentado
+
+Homem é apedrejado na rua e é socorrido ao buscar abrigo na casa da mãe, no Cidade Universitária](https://www.tnh1.com.br/noticia/nid/homem-e-apedrejado-na-rua-e-e-socorrido-ao-buscar-abrigo-na-casa-da-mae-no-cidade-universitaria/ "Homem é apedrejado na rua e é socorrido ao buscar abrigo na casa da mãe, no Cidade Universitária")   [![Homem invade casa, mata dois a tiros e deixa criança baleada na perna, em Rio Largo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/a/csm_dois-mortos-tiros-rio-largo_6147faee94.jpg)
+
+Tabuleiro do Pinto
+
+Homem invade casa, mata dois a tiros e deixa criança baleada na perna, em Rio Largo](https://www.tnh1.com.br/noticia/nid/homem-invade-casa-mata-dois-a-tiros-e-deixa-crianca-baleada-na-perna-em-rio-largo/ "Homem invade casa, mata dois a tiros e deixa criança baleada na perna, em Rio Largo")   [![Jovem é encontrado ensanguentado após ser esfaqueado em suposto assalto em rodovia](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/2/csm_homem_esfaqueado_al-105_60094f53f8.jpg)
+
+Benedito Bentes
+
+Jovem é encontrado ensanguentado após ser esfaqueado em suposto assalto em rodovia](https://www.tnh1.com.br/noticia/nid/jovem-e-encontrado-ensanguentado-apos-ser-esfaqueado-em-suposto-assalto-em-rodovia/ "Jovem é encontrado ensanguentado após ser esfaqueado em suposto assalto em rodovia")   [![Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/0/csm_ronda_no_bairro_maceio_assessoria_f7c8a23d42.jpg)
 
 orla de maceió
 
-Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante](https://www.tnh1.com.br/noticia/nid/dois-menores-sao-apreendidos-por-roubo-de-correntes-brincos-e-iphone-perto-da-cadeira-gigante/ "Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante")   [![Polícia Civil prendeu homem suspeito de fotografar o próprio voto, em Pilar](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/5/csm_urna-eletronica-reproducao-agencia-brasil_e8c258f4fd.jpg)
-
-Crime eleitoral
-
-Polícia Civil prendeu homem suspeito de fotografar o próprio voto, em Pilar](https://www.tnh1.com.br/noticia/nid/policia-civil-prendeu-homem-suspeito-de-fotografar-o-proprio-voto-em-pilar/ "Polícia Civil prendeu homem suspeito de fotografar o próprio voto, em Pilar")   [![Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_erick_comando_3db712a3b8.jpeg)
-
-Polícia
-
-Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB](https://www.tnh1.com.br/noticia/nid/homem-preso-em-estadio-e-apontado-pela-policia-como-o-suspeito-de-assassinar-puxador-da-torcida-organizada-do-crb/ "Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB")   [![Sogro é preso suspeito de abusar, agredir e ameaçar a própria nora em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/7/csm_violencia_mulher_agencia_brasil_1e8999e241.png)
-
-Na parte alta
-
-Sogro é preso suspeito de abusar, agredir e ameaçar a própria nora em Maceió](https://www.tnh1.com.br/noticia/nid/sogro-e-preso-suspeito-de-abusar-agredir-e-ameacar-a-propria-nora-em-maceio/ "Sogro é preso suspeito de abusar, agredir e ameaçar a própria nora em Maceió")   [![Mulher dá facadas em marido e é presa ao ser encontrada suja de sangue em unidade de saúde](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/8/csm_VIATURA_PM_ALAGOAS_60aa8d0aaf.jpg)
-
-No Litoral alagoano
-
-Mulher dá facadas em marido e é presa ao ser encontrada suja de sangue em unidade de saúde](https://www.tnh1.com.br/noticia/nid/mulher-da-facadas-em-marido-e-e-presa-ao-ser-encontrada-suja-de-sangue-em-unidade-de-saude/ "Mulher dá facadas em marido e é presa ao ser encontrada suja de sangue em unidade de saúde")   [![PF divulga balanço das ações realizadas nas eleições municipais em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/4/csm_sede_da_pf_2cf6c0a899.jpg)
-
-ELEIÇÕES 2024
-
-PF divulga balanço das ações realizadas nas eleições municipais em Alagoas](https://www.tnh1.com.br/noticia/nid/pf-divulga-balanco-das-acoes-realizadas-nas-eleicoes-municipais-em-alagoas/ "PF divulga balanço das ações realizadas nas eleições municipais em Alagoas")
+Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante](https://www.tnh1.com.br/noticia/nid/dois-menores-sao-apreendidos-por-roubo-de-correntes-brincos-e-iphone-perto-da-cadeira-gigante/ "Dois menores são apreendidos por roubo de correntes, brincos e iPhone perto da Cadeira Gigante")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -120,7 +120,11 @@ PF divulga balanço das ações realizadas nas eleições municipais em Alagoas]
 
 [Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
 
-   [![Reitor do Cesmac recebe título de Doutor Honoris Causa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/e/csm_Reitor_Joao_Sampaio_927cea6c2e.png)
+   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/8/csm_299006295_493360556125716_6971577576593246362_n__1__d741cc213f.png)
+
+Pessoas & Negócios
+
+Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")   [![Reitor do Cesmac recebe título de Doutor Honoris Causa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/e/csm_Reitor_Joao_Sampaio_927cea6c2e.png)
 
 Pessoas & Negócios
 
@@ -198,7 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Corpo de turista desaparecida é encontrado dentro de tubarão](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/9/csm_Corpo_de_turista_desaparecida_e_encontrado_dentro_de_tubarao_-_foto_Reproducao_d1210617fb.jpg)
+[![Corpo de turista desaparecida é encontrado dentro de tubarão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/9/csm_Corpo_de_turista_desaparecida_e_encontrado_dentro_de_tubarao_-_foto_Reproducao_d1210617fb.jpg)
 
 68 anos
 
@@ -206,7 +210,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 
 Corpo de turista desaparecida é encontrado dentro de tubarão
 
-Corpo de turista desaparecida é encontrado dentro de tubarão](https://www.tnh1.com.br/noticia/nid/corpo-de-turista-desaparecida-e-encontrado-dentro-de-tubarao/ "Corpo de turista desaparecida é encontrado dentro de tubarão")[![Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/5/csm_csm_Ambulancia_Bombeiros_335e4cd072_c84d7335db.jpg)
+Corpo de turista desaparecida é encontrado dentro de tubarão](https://www.tnh1.com.br/noticia/nid/corpo-de-turista-desaparecida-e-encontrado-dentro-de-tubarao/ "Corpo de turista desaparecida é encontrado dentro de tubarão")[![Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/5/csm_csm_Ambulancia_Bombeiros_335e4cd072_c84d7335db.jpg)
 
 Na Ponta Grossa
 
@@ -214,7 +218,15 @@ Na Ponta Grossa
 
 Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió
 
-Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://www.tnh1.com.br/noticia/nid/mulher-tem-membro-inferior-dilacerado-apos-colisao-entre-duas-motos-em-maceio/ "Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió")[![Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/0/csm_novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-funcionar-em-maceio_64e65bd56c.jpg)
+Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://www.tnh1.com.br/noticia/nid/mulher-tem-membro-inferior-dilacerado-apos-colisao-entre-duas-motos-em-maceio/ "Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió")[![Engenheira morre aos 27 anos atropelada por rolo compressor de obra ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/3/csm_engenheira-atropelada-reproducao-redes-sociais_1a5cf57389.jpg)
+
+Tragédia
+
+Tragédia
+
+Engenheira morre aos 27 anos atropelada por rolo compressor de obra
+
+Engenheira morre aos 27 anos atropelada por rolo compressor de obra](https://www.tnh1.com.br/noticia/nid/engenheira-morre-aos-27-anos-atropelada-por-rolo-compressor-de-obra/ "Engenheira morre aos 27 anos atropelada por rolo compressor de obra ")[![Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-funcionar-em-maceio_64e65bd56c.jpg)
 
 150 CÂMERAS
 
@@ -222,49 +234,41 @@ Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió
 
 Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona
 
-Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona](https://www.tnh1.com.br/noticia/nid/novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-operar-em-alagoas-veja-como-funciona/ "Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ")[![Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/4/csm_erick_comando_c37d77c01d.jpeg)
+Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona](https://www.tnh1.com.br/noticia/nid/novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-operar-em-alagoas-veja-como-funciona/ "Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ")
 
-Polícia
+[![ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/7/csm_ONG_Mundau_Dia_da_Crianca_Assessoria_50d0aaca94.jpeg)
 
-Polícia
+Até 15 de outubro
 
-Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB
+Até 15 de outubro
 
-Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB](https://www.tnh1.com.br/noticia/nid/homem-preso-em-estadio-e-apontado-pela-policia-como-o-suspeito-de-assassinar-puxador-da-torcida-organizada-do-crb/ "Homem preso em estádio é apontado pela Polícia como o suspeito de assassinar puxador da torcida organizada do CRB")
+ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças
 
-[![A reação de mãe de Diddy às acusações contra o rapper](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/1/csm_sean-diddy-reproducao-cnn-redes-sociais_c7abd3c4c4.jpg)
+ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças](https://www.tnh1.com.br/noticia/nid/ong-mundau-mundo-inicia-campanha-de-arrecadacao-de-brinquedos-para-o-dia-das-criancas/ "ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças")[![Homem embriagado sobe em caixa d'água, dorme e é picado por abelhas, no interior de Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/b/csm_abelhas_pixabay_ceea86a7c0.jpg)
 
-Fez declaração
+25 metros de altura
 
-Fez declaração
+25 metros de altura
 
-A reação de mãe de Diddy às acusações contra o rapper
+Homem embriagado sobe em caixa d'água, dorme e é picado por abelhas, no interior de Alagoas
 
-A reação de mãe de Diddy às acusações contra o rapper](https://www.tnh1.com.br/noticia/nid/a-reacao-de-mae-de-diddy-as-acusacoes-contra-o-rapper/ "A reação de mãe de Diddy às acusações contra o rapper")[![Hemoal promove coletas externas de sangue em Arapiraca e Marechal Deodoro nesta terça-feira (8)](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/1/csm_hemoal-promove-coletas-externas-de-sangue-em-arapiraca-e-marechal-deodoro-nesta-terca-feira-8_c92e057dc0.jpg)
+Homem embriagado sobe em caixa d'água, dorme e é picado por abelhas, no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/homem-embriagado-sobe-em-caixa-dagua-dorme-e-e-picado-por-abelhas-no-interior-de-alagoas/ "Homem embriagado sobe em caixa d'água, dorme e é picado por abelhas, no interior de Alagoas")[![Bob Esponja, o musical, chega a Maceió!](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/2/csm_bob_esponja_2_981a1bdb32.jpeg)
 
-Saúde
+Agenda Cultural
 
-Saúde
+Agenda Cultural
 
-Hemoal promove coletas externas de sangue em Arapiraca e Marechal Deodoro nesta terça-feira (8)
+Bob Esponja, o musical, chega a Maceió!
 
-Hemoal promove coletas externas de sangue em Arapiraca e Marechal Deodoro nesta terça-feira (8)](https://www.tnh1.com.br/noticia/nid/hemoal-promove-coletas-externas-de-sangue-em-arapiraca-e-marechal-deodoro-nesta-terca-feira-8/ "Hemoal promove coletas externas de sangue em Arapiraca e Marechal Deodoro nesta terça-feira (8)")[![Profissional de educação física suspeito de vender anabolizantes é preso](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/0/csm_Profissional_de_educacao_fisica_suspeito_de_vender_anabolizantes_e_preso_-_foto_Divulgacao_PCGO_be1171d08f.jpg)
+Bob Esponja, o musical, chega a Maceió!](https://www.tnh1.com.br/noticia/nid/bob-esponja-o-musical-chega-a-maceio/ "Bob Esponja, o musical, chega a Maceió!")[![Deslizamento de terra deixa criança desaparecida na região metropolitana de Manaus](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/d/csm_barreira_desaba_manaus_-_foto_reproducao_8eebbaab54.png)
 
-uso restrito
+No Amazonas
 
-uso restrito
+No Amazonas
 
-Profissional de educação física suspeito de vender anabolizantes é preso
+Deslizamento de terra deixa criança desaparecida na região metropolitana de Manaus
 
-Profissional de educação física suspeito de vender anabolizantes é preso](https://www.tnh1.com.br/noticia/nid/profissional-de-educacao-fisica-suspeito-de-vender-anabolizantes-e-preso/ "Profissional de educação física suspeito de vender anabolizantes é preso")[![Samara Felippo fala sobre namoro não monogâmico com comediante](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/8/csm_Samara_Felippo_e_Elidio_-_foto_Reproducao_Instagram_7d4be5850a.jpg)
-
-relacionamento
-
-relacionamento
-
-Samara Felippo fala sobre namoro não monogâmico com comediante
-
-Samara Felippo fala sobre namoro não monogâmico com comediante](https://www.tnh1.com.br/noticia/nid/samara-felippo-fala-sobre-namoro-nao-monogamico-com-comediante/ "Samara Felippo fala sobre namoro não monogâmico com comediante")
+Deslizamento de terra deixa criança desaparecida na região metropolitana de Manaus](https://www.tnh1.com.br/noticia/nid/deslizamento-de-terra-deixa-crianca-desaparecida-na-regiao-metropolitana-de-manaus/ "Deslizamento de terra deixa criança desaparecida na região metropolitana de Manaus")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
