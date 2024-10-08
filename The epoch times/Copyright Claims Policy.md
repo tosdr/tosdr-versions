@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Third-Quarter Earnings Season Is Here—What You Need to Know](https://www.theepochtimes.com/business/third-quarter-earnings-season-is-here-what-you-need-to-know-5737521)
+    
+    1hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Third-Quarter Earnings Season Is Here—What You Need to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Third-Quarter Earnings Season Is Here—What You Need to Know](https://img.theepochtimes.com/assets/uploads/2024/08/07/id5701536-Financial_Markets_Wall_Street_24219512545805-SB-205x123.jpg.webp)](https://www.theepochtimes.com/business/third-quarter-earnings-season-is-here-what-you-need-to-know-5737521)
+* [Russian Forces Breach Outskirts of Frontline Town in Donetsk: Ukrainian Military](https://www.theepochtimes.com/world/russian-forces-breach-outskirts-of-frontline-town-in-donetsk-ukrainian-military-5737482)
+    
+    1hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    
+    [![Russian Forces Breach Outskirts of Frontline Town in Donetsk: Ukrainian Military](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Russian Forces Breach Outskirts of Frontline Town in Donetsk: Ukrainian Military](https://img.theepochtimes.com/assets/uploads/2023/09/08/id5488639-Ukraine-war-GettyImages-1243913126-205x123.jpg.webp)](https://www.theepochtimes.com/world/russian-forces-breach-outskirts-of-frontline-town-in-donetsk-ukrainian-military-5737482)
+* [Tampa Mayor Warns Residents Who Won’t Evacuate Hurricane Milton: ‘You’re Going to Die’](https://www.theepochtimes.com/us/tampa-mayor-warns-residents-who-wont-evacuate-hurricane-milton-youre-going-to-die-5737534)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Tampa Mayor Warns Residents Who Won’t Evacuate Hurricane Milton: ‘You’re Going to Die’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Tampa Mayor Warns Residents Who Won’t Evacuate Hurricane Milton: ‘You’re Going to Die’](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737463-xxx-205x123.jpg.webp)](https://www.theepochtimes.com/us/tampa-mayor-warns-residents-who-wont-evacuate-hurricane-milton-youre-going-to-die-5737534)
+* [Federal Court Backs Florida on Law Against Riots, Reversing Previous Ruling](https://www.theepochtimes.com/us/federal-court-backs-florida-on-law-against-riots-reversing-previous-ruling-5737472)
+    
+    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Federal Court Backs Florida on Law Against Riots, Reversing Previous Ruling](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Court Backs Florida on Law Against Riots, Reversing Previous Ruling](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737573-florida-protest-george-floyd-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-court-backs-florida-on-law-against-riots-reversing-previous-ruling-5737472)
+* [IV Fluid Shortage: Hospital Group Asks Federal Government to Declare National Emergency](https://www.theepochtimes.com/us/iv-fluid-shortage-hospital-group-asks-federal-government-to-declare-national-emergency-5737473)
+    
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![IV Fluid Shortage: Hospital Group Asks Federal Government to Declare National Emergency](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![IV Fluid Shortage: Hospital Group Asks Federal Government to Declare National Emergency](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736497-ivfluidKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/iv-fluid-shortage-hospital-group-asks-federal-government-to-declare-national-emergency-5737473)
+* [Floridians Prepare as Hurricane Milton Poses ‘Extremely Serious Threat’ to State](https://www.theepochtimes.com/us/hurricane-milton-heads-to-florida-poses-extremely-serious-threat-national-hurricane-center-5737453)
+    
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Floridians Prepare as Hurricane Milton Poses ‘Extremely Serious Threat’ to State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Floridians Prepare as Hurricane Milton Poses ‘Extremely Serious Threat’ to State](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737623-hurricanemiltonsatimg-205x123.jpg)](https://www.theepochtimes.com/us/hurricane-milton-heads-to-florida-poses-extremely-serious-threat-national-hurricane-center-5737453)
+* [European Body Set up to Resolve Disputes With TikTok, YouTube and Facebook](https://www.theepochtimes.com/world/european-body-set-up-to-resolve-disputes-with-tiktok-youtube-and-facebook-5737403)
+    
+    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![European Body Set up to Resolve Disputes With TikTok, YouTube and Facebook](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![European Body Set up to Resolve Disputes With TikTok, YouTube and Facebook](https://img.theepochtimes.com/assets/uploads/2019/10/07/facebook-social-media-1172921208-205x123.jpg.webp)](https://www.theepochtimes.com/world/european-body-set-up-to-resolve-disputes-with-tiktok-youtube-and-facebook-5737403)
+* [Trump, Harris Mark Anniversary of Hamas Attack on Israel](https://www.theepochtimes.com/us/trump-harris-mark-anniversary-of-hamas-attack-on-israel-5737306)
+    
+    7hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![Trump, Harris Mark Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump, Harris Mark Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737321-Trump-Harris--205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-mark-anniversary-of-hamas-attack-on-israel-5737306)
 * [Harris Asked to Explain Policy Shifts on CBS’ ’60 Minutes’](https://www.theepochtimes.com/us/harris-asked-to-explain-policy-shifts-on-cbs-60-minutes-5737310)
     
-    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    7hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![Harris Asked to Explain Policy Shifts on CBS’ ’60 Minutes’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Asked to Explain Policy Shifts on CBS’ ’60 Minutes’](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730170-Kamala-Harris_Pittsburgh-speech-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-asked-to-explain-policy-shifts-on-cbs-60-minutes-5737310)
+    ![Harris Asked to Explain Policy Shifts on CBS’ ’60 Minutes’](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737483-Kamala-Harris_Pittsburgh-speech-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-asked-to-explain-policy-shifts-on-cbs-60-minutes-5737310)
 * [A Young Family’s Flight for Life on Day of North Carolina Floods](https://www.theepochtimes.com/us/a-young-familys-flight-for-life-on-day-of-floods-5737051)
     
-    NEW By [Richard Moore](https://www.theepochtimes.com/author/richard-moore)
+    7hr By [Richard Moore](https://www.theepochtimes.com/author/richard-moore)
     
     [![A Young Family’s Flight for Life on Day of North Carolina Floods](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![A Young Family’s Flight for Life on Day of North Carolina Floods](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737104-3000-Michael-and-Brhianna-Stapleton-studio-205x123.jpg.webp)](https://www.theepochtimes.com/us/a-young-familys-flight-for-life-on-day-of-floods-5737051)
-* [Biden to Announce $2.6 Billion in Wisconsin for Replacing Lead Pipes](https://www.theepochtimes.com/us/biden-to-announce-2-6-billion-investment-in-wisconsin-to-replace-lead-pipes-5736919)
-    
-    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
-    
-    [![Biden to Announce $2.6 Billion in Wisconsin for Replacing Lead Pipes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden to Announce $2.6 Billion in Wisconsin for Replacing Lead Pipes](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735283-GettyImages-2175583892-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-to-announce-2-6-billion-investment-in-wisconsin-to-replace-lead-pipes-5736919)
-* [America’s Largest Water and Wastewater Utility Hit by Cyberattack](https://www.theepochtimes.com/us/americas-largest-water-and-wastewater-utility-hit-by-cyberattack-5737131)
-    
-    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![America’s Largest Water and Wastewater Utility Hit by Cyberattack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![America’s Largest Water and Wastewater Utility Hit by Cyberattack](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737268-AP_US_American_Water_Cyberattack_24281809304037-205x123.jpg.webp)](https://www.theepochtimes.com/us/americas-largest-water-and-wastewater-utility-hit-by-cyberattack-5737131)
-* [These 6 Michigan Counties Could Decide Who Wins 2024 Presidential Election](https://www.theepochtimes.com/article/these-6-michigan-counties-could-decide-who-wins-2024-presidential-election-5735452)
-    
-    8hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
-    
-    [![These 6 Michigan Counties Could Decide Who Wins 2024 Presidential Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![These 6 Michigan Counties Could Decide Who Wins 2024 Presidential Election](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737255-Michigan-county-8-205x123.jpg.webp)](https://www.theepochtimes.com/article/these-6-michigan-counties-could-decide-who-wins-2024-presidential-election-5735452)
-* [Day in Photos: Year-Long Attack, Short-Lived Mayor, and Launched Rocket](https://www.theepochtimes.com/article/day-in-photos-year-long-attack-short-lived-mayor-and-launched-rocket-5736348)
-    
-    10hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Year-Long Attack, Short-Lived Mayor, and Launched Rocket](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Year-Long Attack, Short-Lived Mayor, and Launched Rocket](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737253-GettyImages-2176333136-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-year-long-attack-short-lived-mayor-and-launched-rocket-5736348)
-* [Federal Court Orders Google to Open Android to Third-Party App Stores in Antitrust Case](https://www.theepochtimes.com/us/federal-court-orders-google-to-open-android-to-third-party-app-stores-in-antitrust-case-5737091)
-    
-    10hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Federal Court Orders Google to Open Android to Third-Party App Stores in Antitrust Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Court Orders Google to Open Android to Third-Party App Stores in Antitrust Case](https://img.theepochtimes.com/assets/uploads/2022/02/16/ALPHABET-GOOGLE-ANDROID-ADVERTISING-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-court-orders-google-to-open-android-to-third-party-app-stores-in-antitrust-case-5737091)
-* [Schizophrenia Drug Linked to Pneumonia, Gut Disorders in 25-Year Follow-Up Study](https://www.theepochtimes.com/health/schizophrenia-drug-linked-to-pneumonia-and-gut-disorders-25-year-follow-up-study-5735619)
-    
-    10hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
-    
-    [![Schizophrenia Drug Linked to Pneumonia, Gut Disorders in 25-Year Follow-Up Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Schizophrenia Drug Linked to Pneumonia, Gut Disorders in 25-Year Follow-Up Study](https://img.theepochtimes.com/assets/uploads/2023/01/12/shutterstock_1545336026-205x123.jpg.webp)](https://www.theepochtimes.com/health/schizophrenia-drug-linked-to-pneumonia-and-gut-disorders-25-year-follow-up-study-5735619)
-* [Wall Street Falls as 10-Year Treasury Yield Tops 4 Percent for First Time Since August](https://www.theepochtimes.com/us/wall-street-falls-as-10-year-treasury-yield-tops-4-percent-for-first-time-since-august-5737045)
-    
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Wall Street Falls as 10-Year Treasury Yield Tops 4 Percent for First Time Since August](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Wall Street Falls as 10-Year Treasury Yield Tops 4 Percent for First Time Since August](https://img.theepochtimes.com/assets/uploads/2024/08/05/id5699907-2024-02-05T111354Z_1_LYNXMPEK140F1_RTROPTP_4_USA-STOCKS-LSedit-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/wall-street-falls-as-10-year-treasury-yield-tops-4-percent-for-first-time-since-august-5737045)
-* [Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://www.theepochtimes.com/business/major-wall-street-bank-lowers-chance-of-recession-citing-robust-jobs-data-5736936)
-    
-    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737258-GettyImages-2165431872KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/major-wall-street-bank-lowers-chance-of-recession-citing-robust-jobs-data-5736936)
+    ![A Young Family’s Flight for Life on Day of North Carolina Floods](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737488-3000-Michael-and-Brhianna-Stapleton-studio-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/a-young-familys-flight-for-life-on-day-of-floods-5737051)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
