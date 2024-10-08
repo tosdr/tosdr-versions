@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Greenview-and-Morse-chicago-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-critically-injured-in-rogers-park.html "Man shot, critically injured in Rogers Park")
+
+Rogers Park
+
+### [Man shot, critically injured in Rogers Park](https://cwbchicago.com/2024/10/man-shot-critically-injured-in-rogers-park.html "Man shot, critically injured in Rogers Park")
+
+[October 6, 2024 7:46 AM](https://cwbchicago.com/2024/10)
+
+A man was shot and critically injured in Rogers Park on Sunday morning, Chicago police said. According to officers, he did not cooperate with CPD’s investigation before heading into surgery.[](https://cwbchicago.com/2024/10/man-shot-critically-injured-in-rogers-park.html "Man shot, critically injured in Rogers Park")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Rite-Liquors-1649-W-Division-SV-326x245.jpg)](https://cwbchicago.com/2024/10/man-gets-shot-with-his-own-gun-after-dropping-weapon-during-a-fight-in-west-town-police.html "Man gets shot with his own gun after dropping weapon during a fight in West Town: police")
+
+West Town
+
+### [Man gets shot with his own gun after dropping weapon during a fight in West Town: police](https://cwbchicago.com/2024/10/man-gets-shot-with-his-own-gun-after-dropping-weapon-during-a-fight-in-west-town-police.html "Man gets shot with his own gun after dropping weapon during a fight in West Town: police")
+
+[October 6, 2024 6:14 AM](https://cwbchicago.com/2024/10)
+
+A man was injured in West Town overnight after he dropped his firearm during an altercation and his opponent shot him with the weapon, police said.[](https://cwbchicago.com/2024/10/man-gets-shot-with-his-own-gun-after-dropping-weapon-during-a-fight-in-west-town-police.html "Man gets shot with his own gun after dropping weapon during a fight in West Town: police")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/226-West-Hubbard-map-326x245.jpg)](https://cwbchicago.com/2024/10/man-critically-wounded-in-river-north-shooting-2nd-victim-shot-in-the-neighborhod-this-weekend.html "Man critically wounded in River North shooting; 2nd victim shot in the neighborhood this weekend")
 
 River North
@@ -252,26 +272,6 @@ River North
 [October 6, 2024 5:30 AM](https://cwbchicago.com/2024/10)
 
 A man is in critical condition after being shot while riding in a car in River North overnight. It is the second shooting of the weekend in the downtown neighborhood. The earlier victim died.[](https://cwbchicago.com/2024/10/man-critically-wounded-in-river-north-shooting-2nd-victim-shot-in-the-neighborhod-this-weekend.html "Man critically wounded in River North shooting; 2nd victim shot in the neighborhood this weekend")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Iain-Johnston-and-Kwame-Raoul-326x245.jpg)](https://cwbchicago.com/2024/10/state-lawyers-apologize-to-federal-judge-for-linking-his-gun-ruling-to-cta-mass-murder.html "State lawyers apologize to federal judge for linking his gun ruling to CTA quadruple murder")
-
-CTA
-
-### [State lawyers apologize to federal judge for linking his gun ruling to CTA quadruple murder](https://cwbchicago.com/2024/10/state-lawyers-apologize-to-federal-judge-for-linking-his-gun-ruling-to-cta-mass-murder.html "State lawyers apologize to federal judge for linking his gun ruling to CTA quadruple murder")
-
-[October 5, 2024 6:06 PM](https://cwbchicago.com/2024/10)
-
-The Illinois Attorney General’s office has apologized to a federal judge after implying his ruling against the state’s mass transit concealed carry ban has “safety implications.”[](https://cwbchicago.com/2024/10/state-lawyers-apologize-to-federal-judge-for-linking-his-gun-ruling-to-cta-mass-murder.html "State lawyers apologize to federal judge for linking his gun ruling to CTA quadruple murder")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/2024.10.04-Hamlin-Park-041A-frame-326x245.jpg)](https://cwbchicago.com/2024/10/hamlin-park-shooting-is-linked-to-local-high-school-escalating-gang-conflict.html "Hamlin Park shooting is linked to local high school, escalating gang conflict")
-
-North Center
-
-### [Hamlin Park shooting is linked to local high school, escalating gang conflict](https://cwbchicago.com/2024/10/hamlin-park-shooting-is-linked-to-local-high-school-escalating-gang-conflict.html "Hamlin Park shooting is linked to local high school, escalating gang conflict")
-
-[October 5, 2024 3:19 PM](https://cwbchicago.com/2024/10)
-
-Officials are beefing up security at a North Side high school after a gang-related shooting left a 15-year-old boy injured at Hamlin Park on Friday afternoon. The shooting, a source said, is part of escalating tensions between the Maniac Latin Disciples and Insane Deuces street gangs.[](https://cwbchicago.com/2024/10/hamlin-park-shooting-is-linked-to-local-high-school-escalating-gang-conflict.html "Hamlin Park shooting is linked to local high school, escalating gang conflict")
 
 Search
 
