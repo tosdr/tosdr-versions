@@ -1,4 +1,4 @@
-![null](https://www.facebook.com/tr?id=2250421335219045&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-6-prd-us-central1-177202931068)                     
+![null](https://www.facebook.com/tr?id=2250421335219045&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-6-prd-us-central1-177214839821)                     
 
 ![](https://www.facebook.com/tr?id=2250421335219045&ev=PageView&noscript=1)
 
@@ -8,9 +8,9 @@
 
 * [Product Line](https://prompterpeople.com/shop-Teleprompter-by-Product-Line/)
     * [Pocket Cue](https://prompterpeople.com/pocket-cue/)
+    * [ProLine Plus](https://prompterpeople.com/proline-plus-details/)
     * [Prompter Pal](https://prompterpeople.com/prompter-pal/)
     * [Flex Plus](https://prompterpeople.com/flex-plus-Details/)
-    * [ProLine Plus](https://prompterpeople.com/proline-plus-details/)
     * [Presidential Stage](https://prompterpeople.com/presidential-stage/)
     * [Robo](https://prompterpeople.com/roboprompter-ptz-robotic-teleprompter/)
     * [QPro](https://prompterpeople.com/qgear-broadcast-system-integrator-teleprompters/)
