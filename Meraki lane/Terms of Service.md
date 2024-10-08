@@ -41,17 +41,17 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
-    [![How to Dress an Apple Body Shape: 7 Tips & Hacks | Learn how to style an apple body shape with these expert fashion tips. From flattering tops to ideal silhouettes, discover how to accentuate your best features and create balanced outfits that make you feel confident. Whether you’re dressing for casual days or special occasions, these styling hacks will help you find clothes that fit perfectly and enhance your figure while creating a defined waistline for that hourglass figure we all dream of!](https://www.merakilane.com/wp-content/uploads/2024/10/3.png)](https://www.merakilane.com/how-to-dress-an-apple-body-shape-7-tips-hacks/)
+    [![9 Gray Hair Mistakes to Avoid and What To Do Instead | If you're growing out your gray hair with the goal of having beautiful, long, gorgeous locks, this post is for you. Making the decision to transition to gray can be scary, but with the right haircut and a few blending tips and hacks, you can (and will!) feel confident and chic while embracing your new look. From choosing the right shampoo, to investing in a good deep conditioner, to hair protection and more, click for our gray hair hacks!](https://www.merakilane.com/wp-content/uploads/2024/10/3-1.png)](https://www.merakilane.com/9-gray-hair-mistakes-to-avoid-and-what-to-do-instead/)
     
-    ### [How to Dress an Apple Body Shape: 7 Tips & Hacks](https://www.merakilane.com/how-to-dress-an-apple-body-shape-7-tips-hacks/)
+    ### [9 Gray Hair Mistakes to Avoid (and What To Do Instead)](https://www.merakilane.com/9-gray-hair-mistakes-to-avoid-and-what-to-do-instead/)
     
-    [![13 Protective Hairstyles for Sleeping for All Hair Lengths | Protect your hair overnight with these 13 quick, easy, and cute protective styles! These simple sleeping hairstyles prevent breakage, frizz, and tangles, keeping your natural hair healthy and strong while improving hair growth and preserving your hairline. Perfect for short, medium, and long hair that's straight, wavy, curly, or coily, these are the best overnight hairstyles for healthy hair!](https://www.merakilane.com/wp-content/uploads/2024/09/2-4.png)](https://www.merakilane.com/13-protective-hairstyles-for-sleeping-for-all-hair-lengths/)
+    [![How to Get the Balletcore Aesthetic Look: 8 Tips & Trends | Embrace the soft, feminine balletcore aesthetic with these beauty and fashion tips. From delicate fabrics like tulle and satin to iconic ballet flats, this trend is all about elegance and grace. Learn how to create romantic, timeless outfits that combine comfort with style. From balletcore nails, skincare, and makeup, to tops, skirts, socks, and shoes, these tips are perfect for anyone who loves dreamy, girly looks and trends.](https://www.merakilane.com/wp-content/uploads/2024/10/6.png)](https://www.merakilane.com/how-to-get-the-balletcore-aesthetic-look-8-tips-trends/)
     
-    ### [13 Protective Hairstyles for Sleeping for All Hair Lengths](https://www.merakilane.com/13-protective-hairstyles-for-sleeping-for-all-hair-lengths/)
+    ### [How to Get the Balletcore Aesthetic Look: 8 Tips & Trends](https://www.merakilane.com/how-to-get-the-balletcore-aesthetic-look-8-tips-trends/)
     
-    [![10 Overnight Beauty Hacks Every Girl Should Know | Wake up with glowing skin with these overnight skin and hair hacks for lazy girls! From hydrating your skin to protecting your hair, adding these simple habits to your nighttime routine will have you looking refreshed every morning. Click to learn how to improve your beauty regimen while you sleep, with easy additions to your bedtime skincare and haircare routine that will keep your face and hair looking and feeling as healthy as possible.](https://www.merakilane.com/wp-content/uploads/2024/09/3-4.png)](https://www.merakilane.com/10-overnight-beauty-hacks-every-girl-should-know/)
+    [![How to Simplify Your Makeup Routine: 8 Time-Saving Tips | Streamline your everyday beauty routine with these super easy time-saving makeup hacks. Get ready fast with tips for multi-tasking products, minimalist techniques, and easy beauty tricks that still leave you looking polished. Perfect for teens in school, busy moms, and everyone in between, these makeup tips for lazy girls will give you a flawless look in no time and they are perfect for every occasion!](https://www.merakilane.com/wp-content/uploads/2024/10/5.png)](https://www.merakilane.com/how-to-simplify-your-makeup-routine-8-time-saving-tips/)
     
-    ### [10 Overnight Beauty Hacks Every Girl Should Know](https://www.merakilane.com/10-overnight-beauty-hacks-every-girl-should-know/)
+    ### [How to Simplify Your Makeup Routine: 8 Time-Saving Tips](https://www.merakilane.com/how-to-simplify-your-makeup-routine-8-time-saving-tips/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -67,6 +67,10 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
+    [![10 Diet and Lifestyle Changes to Make in Your 40s | If you're in perimenopause (or fully in menopause!), weight loss and maintenance requires a different approach as your hormones change. Think: strength training over cardio, prioritizing nutrient-rich foods, nervous system work and stress management, and regular exercise for a healthy body and mind. Whether you’re focusing on fitness, nutrition, or your mental well-being, these tips will help you thrive as you age gracefully.](https://www.merakilane.com/wp-content/uploads/2024/10/7.png)](https://www.merakilane.com/10-diet-and-lifestyle-changes-to-make-in-your-40s/)
+    
+    ### [10 Diet and Lifestyle Changes to Make in Your 40s](https://www.merakilane.com/10-diet-and-lifestyle-changes-to-make-in-your-40s/)
+    
     [![8 Dance Cardio Workouts You Can Do Anywhere | Get your heart rate up and burn calories with these fun dance cardio routines. Whether you’re at home, at the gym, or at the beach, these workouts offer a mix of beginner-friendly moves and high-intensity routines. Perfect for boosting cardiovascular health and endurance while also improving coordination, these full-body HIIT cardio workout videos will tighten and tone your body and help you lose weight while also having fun!](https://www.merakilane.com/wp-content/uploads/2024/09/1-5.png)](https://www.merakilane.com/8-dance-cardio-workouts-you-can-do-anywhere/)
     
     ### [8 Dance Cardio Workouts You Can Do Anywhere](https://www.merakilane.com/8-dance-cardio-workouts-you-can-do-anywhere/)
@@ -74,10 +78,6 @@ Main Menu
     [![How to Make Yourself a Priority: 7 Self-Love Tips & Ideas | If your busy schedule has you feeling burnt out, exhausted, and emotionally spent, this post is for you. Prioritizing self-care and self-love activities isn't selfish –– it helps you recharge so you can show up well for others. From setting boundaries to scheduling self-care activities, these tips will help you feel more balanced and fulfilled. From taking an everything shower, to journaling, to doing something artsy, click for inspo!](https://www.merakilane.com/wp-content/uploads/2024/09/1-4.png)](https://www.merakilane.com/how-to-make-yourself-a-priority-7-self-love-tips-ideas/)
     
     ### [How to Make Yourself a Priority: 7 Self-Love Tips & Ideas](https://www.merakilane.com/how-to-make-yourself-a-priority-7-self-love-tips-ideas/)
-    
-    [![How to Get Rid of an Apron Belly | An apron belly, or pannus stomach, refers to excessive tissue and skin that hangs over the lower abdomen. It can appear after pregnancy, excessive weight gain, or significant weight loss and occurs when the belly and fat surrounding the internal organs expands, resulting in additional fat deposits in the omentum (a structure in the abdomen that protects the visceral organs). Click for the best diet, exercise, and workouts to help banish this type of belly fat!](https://www.merakilane.com/wp-content/uploads/2024/09/1-3.png)](https://www.merakilane.com/how-to-get-rid-of-an-apron-belly-11-tips-and-workouts/)
-    
-    ### [How to Get Rid of an Apron Belly: 11 Tips and Workouts](https://www.merakilane.com/how-to-get-rid-of-an-apron-belly-11-tips-and-workouts/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
@@ -117,6 +117,10 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![How to Help Your Teen Through a Breakup | Discover practical advice and motivational tips to help your teen move on after a breakup. Learn how to offer support and guidance that boosts confidence and positivity during this challenging time. Whether it’s sharing uplifting quotes, helping them focus on self-care, or offering advice to navigate emotions, these parenting tips and strategies will help your daughter or son heal and come out stronger on the other side of teen breakups.](https://www.merakilane.com/wp-content/uploads/2024/10/1.png)](https://www.merakilane.com/how-to-help-your-teen-through-a-breakup-9-tips-for-parents/)
+    
+    ### [How to Help Your Teen Through a Breakup: 9 Tips for Parents](https://www.merakilane.com/how-to-help-your-teen-through-a-breakup-9-tips-for-parents/)
+    
     [![16 Best Portable Airplane Snacks for Kids | Whether you're traveling with kids on short domestic flights or long flights overseas, having their favorite snacks on hand can make all the difference. From healthy options to mess-free treats, we're sharing the best travel snacks for kids of all ages and stages that also double as great road trip snacks. We've also included TSA-approved snack bags, boxes, and ice packs so you can pack homemade favorites for the whole family.](https://www.merakilane.com/wp-content/uploads/2024/09/5-3.png)](https://www.merakilane.com/16-best-portable-airplane-snacks-for-kids/)
     
     ### [16 Best Portable Airplane Snacks for Kids](https://www.merakilane.com/16-best-portable-airplane-snacks-for-kids/)
@@ -124,10 +128,6 @@ Main Menu
     [![What To Do when Your Teenager Is Lying: 9 Tips for Parents | If you're struggling with a teenager who isn't being truthful, this post is for you. We're sharing 9 effective tips for parents to handle lying behavior in teens. Click to learn how to choose the right consequences for dishonest behavior and how to build trust, set boundaries, and foster open communication to create a more honest relationship with your teen moving forward. Click for our best strategies to deal with teens who lie!](https://www.merakilane.com/wp-content/uploads/2024/09/6-2.png)](https://www.merakilane.com/what-to-do-when-your-teenager-is-lying-9-tips-for-parents/)
     
     ### [What to Do When Your Teenager Is Lying: 9 Tips for Parents](https://www.merakilane.com/what-to-do-when-your-teenager-is-lying-9-tips-for-parents/)
-    
-    [![32 Best Road Trip Snacks | Whether you're going on an adults only road trip or a family adventure in a car, camper van, or RV, one thing is for certain: you need to pack snacks! The trick is to find a balance of easy, tasty, and healthy ideas, and this post has it all! Click to learn how to pack a cooler so your car snacks don't spoil, and for our favorite snacks to put in your cooler. We've also included a long list of grab and go travel snacks that don't need to be refrigerated.](https://www.merakilane.com/wp-content/uploads/2024/09/3-3.png)](https://www.merakilane.com/32-best-road-trip-snacks-the-whole-family-will-enjoy/)
-    
-    ### [32 Best Road Trip Snacks the Whole Family Will Enjoy](https://www.merakilane.com/32-best-road-trip-snacks-the-whole-family-will-enjoy/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
@@ -233,32 +233,30 @@ Search  Search
 
 [follow us @merakilane](https://www.instagram.com/merakilane/)
 
-[pour me another... 🍷 #hashtags 🎥 @wildmed ![pour me another... 🍷
-#hashtags 
+[bruh. are you sick? was someone mean to you? do yo ![bruh. are you sick? was someone mean to you? do you need money? did harry styles drop a new album? don’t leave me hanging like this. 🥹
 🎥 @wildmediaco
 📸 @thisismaxpower 
-#womenover40 #perimenopause #perimenopausehealth #momhumor #momtruth #momtruths #funnymom #funnymoms #realmom #raisingdaughters #raisingteens #relatablememe #relatablereels #relatablemom #makemelaugh #imfunny #funnymemes4ya #torontomom #canadianmom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAiwmPwOejs/) 
+#relatable #relatablemom #relatablememe #relatableposts #relatablereels #funnymom #funnymoms #momofteenagers #momofteengirls #raisingdaughters #raisingteens #imfunny #makemelaugh #womenover40 #perimenopause #menopause](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DA1ZHeNyZ8S/) 
 
-[when people are judging me, this quote really help ![when people are judging me, this quote really helps. ♡
-(photo taken while landing in toronto — do you see the cn tower?)
-🎥 @wildmediaco
-📸 @thisismaxpower
-#wordsoftheday #wordstoremember #powerfulwords #ownwhoyouare #ceoofmylife #powerfulthoughts #thingsiwanttoremember #spilledthoughts #lessonslearnedinlife #thoughtsoftheday #friendlyreminder #gentlereminder #mylifemyrules](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAginBPPIu_/) 
-
-[just in case you’re wondering why we go from zer ![just in case you’re wondering why we go from zero to f**k off so quickly. 
+[not only would i be calmer, i’d also be on time. ![not only would i be calmer, i’d also be on time. 🤷🏼‍♀️
 🎥 @wildmediaco
 📸 @thisismaxpower 
-#womenover40 #perimenopause #perimenopausehealth #perimenopausesymptoms #menopause #40andfab #40andfabulous #40isthenew30 #raisingdaughters #raisingteens #funnymom #funnymoms #momhumor #relatabletweets #relatabletextpost #relatablememe #relatablereels #imfunny #makemelaugh #torontomom #canadianmom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAdr-DnOErp/) 
+#funnymom #funnymoms #imfunny #makemelaugh #relatablepost #relatablememe #relatablereels #womenover40 #honestmom #momlife #momhumor #realmom #adultingishard #adulting101 #torontomom #canadianmom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAvv1djOH4F/) 
 
-[consider yourself warned... 🫤 🎥 @wildmediac ![consider yourself warned... 🫤
+[that’s it. that’s the goal. #raisingdaughters ![that’s it. that’s the goal.
+#raisingdaughters #raisingteens #raisingteenagers #realmoms #realmom #momtruth #momquotes #powerfulwords #powerfulwoman #wordstoremember #thingsiwanttoremember #adulting101 #thoughtsoftheday #spilledthoughts #friendlyreminder #simplereminders #lessonslearnedinlife](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAtHuJzu5xD/) 
+
+[remember caroline and adam? 🫶🏻 🎥 @wildme ![remember caroline and adam? 🫶🏻
 🎥 @wildmediaco
 📸 @thisismaxpower 
-#womenover40 #40andfab #40andfabulous #perimenopause #menopause #raisingdaughters #raisingteens #funnymom #funnymoms #relatablememe #relatablereels #funnymemes #funnyreelsvideo #imfunny #makemelaugh #canadianmom #torontomom #momlifeunfiltered #momhumor #realmom](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAbFUMoO6xN/) 
+#womenover40 #perimenopause #perimenopausehealth #menopause #relatablememe #relatablereels #40andfab #40andfabulous #canyourelate #imfunny #makemelaugh #funnymoms #funnymomstuff #realmom #momhumor #momlife #raisingdaughters #raisingteens #funnymemes #funnyreels](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAqg8NQsdOS/) 
 
-[crazy, right? ☺️ 🎥 @wildmediaco 📸 @this ![crazy, right? ☺️
-🎥 @wildmediaco
-📸 @thisismaxpower 
-#unapologetic #unbothered #mindingmybusiness #lessonslearned #lessonslearnedinlife #lifelessonslearned #powerfulwords #powerfulthoughts #adulting101 #thingsiwanttoremember #friendlyreminder #womenover40 #perimenopause #menopause](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAY0UBvvPdj/) 
+[We said goodbye to my sister yesterday and it was ![We said goodbye to my sister yesterday and it was so incredibly difficult. After sharing the news with the people closest to me, I sat down to draft something to post on my personal facebook page. I’m usually pretty good with words, but I sat there for an hour typing and then deleting everything that came to my mind.
+I could share so many examples of how strong and fierce my sister was, I have tons of funny things we experienced as kids that would make you laugh, and I would love to tell you some of the quirks she had that we loved. But for once in my life I just don’t know what to say. She did not want the world to see the difficult parts of her life, and after all she endured over the last year, I can’t bring myself to share anything funny.
+But if you would indulge me for a few minutes, I would like to share what an impact she had on me. 
+She took her role as my older sister very seriously and taught me so much over the last 47 years — to look past people’s differences and accept them as they are, to lead with kindness and positivity, to be inclusive, to let go of anger, and to hope for the best instead of assuming the worst. 
+These lessons popped up again and again as we grew up together and shaped me into the person I am today, but the most important thing she taught me is how precious life is. No matter how much she was suffering while she was sick, she accepted any and every option presented to her that would allow her more time. This really gave me pause and put things into perspective for me, reminding me daily that time is a gift and tomorrow isn’t promised. She was teaching me about life right until the very end.
+We love you and we miss you so much Bev. You left such a positive mark on our lives, and the void we feel in our hearts from your absence will never, ever be filled. After receiving so many messages from your friends the last 2 days, I know you had an impact on them too. The only thing that makes saying goodbye easier is knowing you are with Dad. If I close my eyes I can hear the 2 of you up there laughing and it makes all of this sting a little bit less. Give him a hug from me. Ilysm. 🩷](https://www.merakilane.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DApb0dJsi0Y/) 
 
 COPYRIGHT © 2022 MERAKI LANE INC. · [Site Credit](https://lennoxcreative.co/)
 
