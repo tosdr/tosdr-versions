@@ -96,7 +96,7 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 ![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6704332faf6fa7c47adcfe7c_top-10-spooky-ecommerce-challenges-october.jpg)
 
-###### Ghosts of October: 10 Challenges Haunting Ecommerce Brands
+###### 10 Spooky Challenges Haunting Ecommerce Brands This October
 
 [Read now >](https://clear.co/blog/top-10-spooky-ecommerce-challenges-october)
 
