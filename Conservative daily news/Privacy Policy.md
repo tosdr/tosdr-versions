@@ -2,14 +2,14 @@ Tuesday, October 8 2024
 
 Breaking News
 
+* [FEMA’s Manpower Stretched To The Absolute Limit As Category 5 Hurricane Comes Rolling In](https://www.conservativedailynews.com/2024/10/femas-manpower-stretched-to-the-absolute-limit-as-category-5-hurricane-comes-rolling-in/)
+* [President Joe Biden’s Schedule for Tuesday, October 8, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-8-2024/)
+* [America In The Age Of Stupidity: Why Can You Never Win An Argument With A Democrat?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-can-you-never-win-an-argument-with-a-democrat/)
+* [Forget FEMA, Samaritan’s Purse Is On It](https://www.conservativedailynews.com/2024/10/forget-fema-samaritans-purse-is-on-it/)
 * [Russian ‘Merchant Of Death’ Back In Arms Game, Selling To Terrorists After Being Freed Under Biden Admin](https://www.conservativedailynews.com/2024/10/russian-merchant-of-death-back-in-arms-game-selling-to-terrorists-after-being-freed-under-biden-admin/)
 * [CNN’s Harry Enten Says Harris Performing ‘Ridiculously Well’ Among ‘White College Grads’](https://www.conservativedailynews.com/2024/10/cnns-harry-enten-says-harris-performing-ridiculously-well-among-white-college-grads/)
 * [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/)
 * [White House Press Briefing with Karine Jean-Pierre – 10/7/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-7-24/)
-* [Medal of Honor Monday: Marine Corps Staff Sgt. Lewis G. Watkins](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-marine-corps-staff-sgt-lewis-g-watkins/)
-* [On The One-Year Anniversary Of October 7 — Let Israel Win](https://www.conservativedailynews.com/2024/10/on-the-one-year-anniversary-of-october-7-let-israel-win/)
-* [President Joe Biden’s Schedule for Monday, October 7, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-monday-october-7-2024/)
-* [Kamala Has A Long Record Of Squashing Free Speech](https://www.conservativedailynews.com/2024/10/kamala-has-a-long-record-of-squashing-free-speech/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,57 +126,57 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/09/fema-600-x-333.jpg)](https://www.conservativedailynews.com/2024/10/femas-manpower-stretched-to-the-absolute-limit-as-category-5-hurricane-comes-rolling-in/)
+    
+    [FEMA’s Manpower Stretched To The Absolute Limit As Category 5 Hurricane Comes Rolling In](https://www.conservativedailynews.com/2024/10/femas-manpower-stretched-to-the-absolute-limit-as-category-5-hurricane-comes-rolling-in/)
+    
+    October 8, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/02/Joe-Biden-speech-n-220x150.png)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-8-2024/)
+    
+    [President Joe Biden’s Schedule for Tuesday, October 8, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-8-2024/)
+    
+    October 8, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Stupid-Dems-220x150.jpg)](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-can-you-never-win-an-argument-with-a-democrat/)
+    
+    [America In The Age Of Stupidity: Why Can You Never Win An Argument With A Democrat?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-can-you-never-win-an-argument-with-a-democrat/)
+    
+    October 8, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5637-220x117.jpeg)](https://www.conservativedailynews.com/2024/10/forget-fema-samaritans-purse-is-on-it/)
+    
+    [Forget FEMA, Samaritan’s Purse Is On It](https://www.conservativedailynews.com/2024/10/forget-fema-samaritans-purse-is-on-it/)
+    
+    October 8, 2024
+    
+* [Under Water](https://www.conservativedailynews.com/2024/10/under-water/)
+    
+    October 8, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Clutter-220x150.png)](https://www.conservativedailynews.com/2024/10/organized-chaos-my-intended-journey-to-a-clutter-free-2025/)
+    
+    [Organized Chaos: My Intended Journey to a Clutter-Free 2025](https://www.conservativedailynews.com/2024/10/organized-chaos-my-intended-journey-to-a-clutter-free-2025/)
+    
+    October 8, 2024
+    
+* [![Iran terror war murder](https://www.conservativedailynews.com/wp-content/uploads/2024/01/mrz010724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/israel-needs-victory-not-a-ceasefire/)
+    
+    [Israel Needs Victory, Not a Ceasefire](https://www.conservativedailynews.com/2024/10/israel-needs-victory-not-a-ceasefire/)
+    
+    October 8, 2024
+    
 * [![Iran Israel](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz100724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/a-clear-message/)
     
     [A Clear Message](https://www.conservativedailynews.com/2024/10/a-clear-message/)
     
     October 8, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Joe-Biden-sad-upset-220x150.jpg)](https://www.conservativedailynews.com/2024/10/russian-merchant-of-death-back-in-arms-game-selling-to-terrorists-after-being-freed-under-biden-admin/)
-    
-    [Russian ‘Merchant Of Death’ Back In Arms Game, Selling To Terrorists After Being Freed Under Biden Admin](https://www.conservativedailynews.com/2024/10/russian-merchant-of-death-back-in-arms-game-selling-to-terrorists-after-being-freed-under-biden-admin/)
-    
-    October 7, 2024
-    
-* [![college student evolution](https://www.conservativedailynews.com/wp-content/uploads/2024/05/gv050724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/cnns-harry-enten-says-harris-performing-ridiculously-well-among-white-college-grads/)
-    
-    [CNN’s Harry Enten Says Harris Performing ‘Ridiculously Well’ Among ‘White College Grads’](https://www.conservativedailynews.com/2024/10/cnns-harry-enten-says-harris-performing-ridiculously-well-among-white-college-grads/)
-    
-    October 7, 2024
-    
-* [![Kamala Harris communist socialist](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/)
-    
-    [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/)
-    
-    October 7, 2024
-    
-* [![Voting Voter Turnout Election](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv100724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/consequences/)
-    
-    [Consequences](https://www.conservativedailynews.com/2024/10/consequences/)
-    
-    October 7, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/09/1662070130_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-7-24/)
-    
-    [White House Press Briefing with Karine Jean-Pierre – 10/7/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-7-24/)
-    
-    October 7, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/02-enjoychec-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/joy-to-the-recue/)
-    
-    [Joy To The Recue](https://www.conservativedailynews.com/2024/10/joy-to-the-recue/)
-    
-    October 7, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/241001-M-D0439-073A-220x150.jpg)](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-marine-corps-staff-sgt-lewis-g-watkins/)
-    
-    [Medal of Honor Monday: Marine Corps Staff Sgt. Lewis G. Watkins](https://www.conservativedailynews.com/2024/10/medal-of-honor-monday-marine-corps-staff-sgt-lewis-g-watkins/)
-    
-    October 7, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [House Oversight Committee Subpoenas White House and ATF Over Alleged Gun Control Collusion](https://www.thegunpage.com/house-oversight-committee-subpoenas-white-house-and-atf-over-alleged-gun-control-collusion/10611063)
+* [Ultralight Loads For Revolvers](https://www.thegunpage.com/ultralight-loads-for-revolvers/10611062)
 * [TFB Review: March Scopes FX 1.5-15×42 Dual Focal Plane Scope](https://www.thegunpage.com/tfb-review-march-scopes-fx-1-5-15x42-dual-focal-plane-scope/10611060)
 * [The Rimfire Report: Mossad’s Deadly Legacy with Beretta Model 71](https://www.thegunpage.com/the-rimfire-report-mossads-deadly-legacy-with-beretta-model-71/10611061)
 * [TFBTV vs. CLASSIC FIREARMS: Our Cameramen FIGHT!](https://www.thegunpage.com/tfbtv-vs-classic-firearms-our-cameramen-fight/10611057)
@@ -185,8 +185,6 @@ Recent Posts
 * [Taurus Releases The Compact 22TUC](https://www.thegunpage.com/taurus-releases-the-compact-22tuc/10611055)
 * [MEAN Arms ExoMag 9mm Conversion Mag](https://www.thegunpage.com/mean-arms-exomag-9mm-conversion-mag/10611052)
 * [MDT Releases Updated JAE-G5 Chassis System](https://www.thegunpage.com/mdt-releases-updated-jae-g5-chassis-system/10611056)
-* [Gun Cases Among Key Issues Supreme Court Will Tackle in New Term](https://www.thegunpage.com/gun-cases-among-key-issues-supreme-court-will-tackle-in-new-term/10611050)
-* [Streamlight Adds New TLR-1 HL-X USB Model](https://www.thegunpage.com/streamlight-adds-new-tlr-1-hl-x-usb-model/10611051)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +226,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [The Worst](https://www.conservativedailynews.com/2024/10/the-worst/#comment-782566)
 * Jeff L on [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/#comment-782546)
 * Stanley Warner on [Biden-Harris Admin Threw Over $40 Billion At An Internet Buildout — Three Years Later Not A Single Project Is Underway](https://www.conservativedailynews.com/2024/10/biden-harris-admin-threw-over-40-billion-at-an-internet-buildout-three-years-later-not-a-single-project-is-underway/#comment-782544)
 * Stanley Warner on [Kamala’s Tax-Gouging Frightens Me More Than Corporate Price-Gouging](https://www.conservativedailynews.com/2024/10/kamalas-tax-gouging-frightens-me-more-than-corporate-price-gouging/#comment-782543)
@@ -236,7 +235,6 @@ Recent Comments
 * Stanley Warner on [Biden Admin To End Parole Program For Hundreds Of Thousands Of Migrants](https://www.conservativedailynews.com/2024/10/biden-admin-to-end-parole-program-for-hundreds-of-thousands-of-migrants/#comment-782524)
 * KayCee on [Don’t Tell Helene Victims About We The People](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/#comment-782499)
 * Stanley Warner on [The Left’s Word Games Can’t Conceal ‘Third World’ Impact of Open Borders](https://www.conservativedailynews.com/2024/10/the-lefts-word-games-cant-conceal-third-world-impact-of-open-borders/#comment-782491)
-* Stanley Warner on [Hurricane Survivor Blasts Biden, Feels Betrayed Admin Put Migrants Before Americans](https://www.conservativedailynews.com/2024/10/hurricane-survivor-blasts-biden-feels-betrayed-admin-put-migrants-before-americans/#comment-782490)
 
 [Close](#)
 
