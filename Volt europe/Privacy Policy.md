@@ -62,7 +62,7 @@ Back[![](/img/containers/assets/pexels-artempodrez-7048044.jpg/f1891059f70128387
 
 One year after the terrorist attacks on Israel: choosing the side of human rights 7 Oct 2024](https://volteuropa.org/news/one-year-after-the-terrorist-attacks-on-israel-choosing-the-side-of-human-rights)[![](/img/containers/assets/pexels-kubrakuzu-17185764.jpg/571811345740252218ad61fabd6fba71.jpg)
 
-War is spreading in the Middle East. We call for a comprehensive ceasefire and international accountability. 4 Oct 2024](https://volteuropa.org/news/war-is-spreading-in-the-middle-east-we-call-for-a-comprehensive-ceasefire-and-international-accountability)[Statement on escalation of war in Libanon: Reinier van Lanschot 30 Sep 2024](https://volteuropa.org/news/statement-on-escalation-of-war-in-libanon-reinier-van-lanschot)[![](/img/containers/assets/img_4989.jpg/b56057dc4b728c266eb5a442e07af171.jpg)
+War is spreading in the Middle East. We call for a comprehensive ceasefire and international accountability. 4 Oct 2024](https://volteuropa.org/news/war-is-spreading-in-the-middle-east-we-call-for-a-comprehensive-ceasefire-and-international-accountability)[Statement on escalation of war in Libanon 30 Sep 2024](https://volteuropa.org/news/statement-on-escalation-of-war-in-libanon-reinier-van-lanschot)[![](/img/containers/assets/img_4989.jpg/b56057dc4b728c266eb5a442e07af171.jpg)
 
 Russian Attacks in Poltava: Volt Europa Calls for Stronger Military and Humanitarian Support for Ukraine 4 Sep 2024](https://volteuropa.org/news/russian-attacks-in-poltava-volt-europa-calls-for-stronger-military-and-humanitarian-support-for-ukraine)[![](/img/containers/assets/img_1168.webp/e2169cbae213394c0d537550a3289ece.webp)
 
