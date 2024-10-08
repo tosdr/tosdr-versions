@@ -1,6 +1,6 @@
 [Skip to Main Content (Press Enter)](#mainblock)
 
-[BECOME A BOOK EXPERT 📚](https://sites.prh.com/sign-up)
+[Discover Your Next Great Read! ✉️](https://sites.prh.com/sign-up)
 
 Books
 
@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
+* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+    
+    Join Our Authors for Upcoming Events
+    
+    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+
+* * *
+
+* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
+    
+    Audiobooks for Kids
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
+
+* * *
+
 * [![The Most Exciting Picture Books Coming Fall 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/08/29153607/Fall-Preview-2024-600x314-picture.jpg)
     
     The Most Exciting Picture Books Coming Fall 2024
     
     Learn More >](https://www.readbrightly.com/picture-books-fall-preview/)
-
-* * *
-
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
-    
-    Books Bans Are on the Rise in America
-    
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
-
-* * *
-
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
-    
-    New Releases
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 * <
     
@@ -798,7 +798,7 @@ Because electronic communications are not always secure, please do not include c
 
 [Back to Top](#top)
 
-[BECOME A BOOK EXPERT 📚](https://sites.prh.com/sign-up)
+[Discover Your Next Great Read! ✉️](https://sites.prh.com/sign-up)
 
 Connect
 
