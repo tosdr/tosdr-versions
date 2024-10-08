@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Chase H.Q.](https://www.myabandonware.com/game/chase-h-q-5hg)
+* [Caliber.50](https://www.myabandonware.com/game/caliber-50-8ey)
+* [Champion Wrestler](https://www.myabandonware.com/game/champion-wrestler-krk)
 * [Chack'n Pop](https://www.myabandonware.com/game/chack-n-pop-7y9)
 * [Centipede](https://www.myabandonware.com/game/centipede-4od)
-* [Downtown Challenge](https://www.myabandonware.com/game/downtown-challenge-s5q)
-* [Landing Gear](https://www.myabandonware.com/game/landing-gear-spp)
-* [L.A. Machineguns: Rage of the Machines](https://www.myabandonware.com/game/l-a-machineguns-rage-of-the-machines-spo)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
