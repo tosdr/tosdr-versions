@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/de-ontbrekende-kleur/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/loskomen-uit-de-programmas-samen-een-nieuwe-wereld-bouwen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
