@@ -271,7 +271,7 @@ Where to Buy
     
     The leading technology for delivering gigabit Internet services
     
-* [HOT DEALS](https://www.kasasmart.com/us/promotion/)
+* [HOT DEALS](https://www.kasasmart.com/us/promotion)
 * [Community](https://community.tp-link.com/)
     
     [For Home](https://community.tp-link.com/us/home)
@@ -555,7 +555,7 @@ Where to Buy
     * [Solution Partners](https://www.kasasmart.com/us/where-to-buy/#Solution%20Partners)
         
     
-* [HOT DEALS](https://www.kasasmart.com/us/promotion/)
+* [HOT DEALS](https://www.kasasmart.com/us/promotion)
     
 * Community
     
