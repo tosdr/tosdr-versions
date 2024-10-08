@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Christina Funke Tegbe on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-54-thrones-african-skincare-beauty-products-after-shark-tank/intro-1728063581.jpg)](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
+*  [![Ariana Grande at event](https://www.women.com/img/gallery/the-red-flags-in-ariana-grande-ethan-slaters-relationship-we-just-cant-ignore/intro-1728315693.jpg)](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
     
-    [Living](https://www.women.com/category/living/)
+    [Exclusives](https://www.women.com/category/exclusives/)
     
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
     
-    [Here's What Went Down With 54 Thrones African Skincare & Beauty Products After Shark Tank](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
-    =======================================================================================================================================================================================================
+    [The Red Flags In Ariana Grande & Ethan Slater's Relationship We Just Can't Ignore](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
+    =================================================================================================================================================================================
     
-    54 Thrones, a mission-driven beauty brand, thrived after netting an investment on "Shark Tank." Eight years after founding, the company is expanding.
+    While the couple insists that things weren't shady, it's hard not to focus on the abrupt beginning of Ariana Grande and Ethan Slater's relationship
     
-    By Emily Hutchinson [Read More](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
+    By Bernadette Roe [Read More](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
     
-* *  [![Tiffany Trump on the red carpet](https://www.women.com/img/gallery/tiffany-trump-outfits-that-just-didnt-work/intro-1727980253.jpg)](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
+* *  [![Katie Holmes smiling](https://www.women.com/img/gallery/5-katie-holmes-outfits-that-could-have-come-straight-from-joey-potters-closet/intro-1728058628.jpg)](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
         
-        ### [Tiffany Trump Outfits That Just Didn't Work](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
+        ### [5 Katie Holmes Outfits That Could Have Come Straight From Joey Potter's Closet](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
         
-        The former First Daughter isn't exactly a fashion mogul, so we can forgive the occasional style mishap. However, some of her outfits left a lot to be desired.
+        Katie Holmes' street style is relaxed, minimal, and classic, just some of our favorite outfits worn by her "Dawson's Creek" character Joey Potter.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
+        By Bernadette Roe [Read More](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
         
-    *  [![Two women in bed](https://www.women.com/img/gallery/a-beginners-guide-to-sapphic-sex-for-if-youre-dating-women-for-the-first-time/intro-1727463730.jpg)](https://www.women.com/1675459/beginners-guide-sapphic-sex-dating-women-first-time/)
+    *  [![Christina Funke Tegbe on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-54-thrones-african-skincare-beauty-products-after-shark-tank/intro-1728063581.jpg)](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
         
-        [Politics](https://www.women.com/category/politics/)
+        [Living](https://www.women.com/category/living/)
         
-        [Politics](https://www.women.com/category/politics/) By Emily Hutchinson
+        [Living](https://www.women.com/category/living/) By Emily Hutchinson
         
-        ### [A Beginner's Guide To Sapphic Sex (For If You're Dating Women For The First Time)](https://www.women.com/1675459/beginners-guide-sapphic-sex-dating-women-first-time/)
+        ### [Here's What Went Down With 54 Thrones African Skincare & Beauty Products After Shark Tank](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
         
-        If you're dating a woman for the first time, the idea of sapphic sex could be nerve-wracking or intimidating. Try these tips for a better experience.
+        54 Thrones, a mission-driven beauty brand, thrived after netting an investment on "Shark Tank." Eight years after founding, the company is expanding.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1675459/beginners-guide-sapphic-sex-dating-women-first-time/)
+        By Emily Hutchinson [Read More](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
         
 
 More Stories
 ------------
 
+*  [![Tiffany Trump on the red carpet](https://www.women.com/img/gallery/tiffany-trump-outfits-that-just-didnt-work/intro-1727980253.jpg)](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Tiffany Trump Outfits That Just Didn't Work](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
+    
+    The former First Daughter isn't exactly a fashion mogul, so we can forgive the occasional style mishap. However, some of her outfits left a lot to be desired.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
+    
+*  [![Two women in bed](https://www.women.com/img/gallery/a-beginners-guide-to-sapphic-sex-for-if-youre-dating-women-for-the-first-time/intro-1727463730.jpg)](https://www.women.com/1675459/beginners-guide-sapphic-sex-dating-women-first-time/)
+    
+    [Politics](https://www.women.com/category/politics/)
+    
+    [Politics](https://www.women.com/category/politics/) By Emily Hutchinson
+    
+    ### [A Beginner's Guide To Sapphic Sex (For If You're Dating Women For The First Time)](https://www.women.com/1675459/beginners-guide-sapphic-sex-dating-women-first-time/)
+    
+    If you're dating a woman for the first time, the idea of sapphic sex could be nerve-wracking or intimidating. Try these tips for a better experience.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1675459/beginners-guide-sapphic-sex-dating-women-first-time/)
+    
 *  [![Angelina Jolie](https://www.women.com/img/gallery/the-ultimate-guide-to-angelina-jolies-many-tattoos/intro-1727977665.jpg)](https://www.women.com/1679651/ultimate-guide-angelina-jolie-tattoos/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -381,30 +405,6 @@ More Stories
     If you're looking to try something sexual you haven't done before or you're just not too keen on penetration, then shallowing might be for you.
     
     By Amanda Chatel [Read More](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
-    
-*  [![glace cryotherapy](https://www.women.com/img/gallery/heres-what-went-down-with-glac-cryotherapy-after-shark-tank/intro-1726783810.jpg)](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
-    
-    ### [Here's What Went Down With GLACÉ Cryotherapy After Shark Tank](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
-    
-    The Scarlett siblings' cold therapy business Glace promised to revolutionize the exercise space. But unfortunately, the hype around the movement didn't last.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1669284/what-went-down-with-glace-cryotherapy-after-shark-tank/)
-    
-*  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/sabrina-carpenter-outfits-that-prove-why-shes-the-new-it-girl/intro-1726692701.jpg)](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Sabrina Carpenter Outfits That Prove Why She's The New It Girl](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
-    
-    From pioneering the coquette aesthetic to honoring the pop queens of decades past, Sabrina Carpenter is a certified fashion "Taste"-maker.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1668167/sabrina-carpenter-outfits-prove-why-new-it-girl/)
     
 
 Back
