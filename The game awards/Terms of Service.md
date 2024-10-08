@@ -1,32 +1,22 @@
-[![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2755%27%20height=%2755%27/%3e)![tga-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![tga-logo](https://cdn.thegameawards.com//frontend/svgs/tga_icon_2023.svg)
-
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2740%27/%3e)![tga-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-![tga-logo](https://cdn.thegameawards.com//frontend/svgs/tga_icon_2023.svg)](https://thegameawards.com/)
+[![tga-logo](https://cdn.thegameawards.com//frontend/svgs/tga_icon_2024.svg)](https://thegameawards.com/)
 
 * [News](https://thegameawards.com/news)
-* [Winners](https://thegameawards.com/nominees)
-* [Players’ Voice](https://thegameawards.com/brackets/players-voice)
 * [About](https://thegameawards.com/about)
 * [Rewind](https://thegameawards.com/rewind)
 * [FAQ](https://thegameawards.com/faq)
 * [Watch](https://thegameawards.com/watch)
-* [Future Class](https://thegameawards.com/future-class)
+
+• nominees coming mid November •
 
 Sign In
 
-![sign in](https://cdn.thegameawards.com//frontend/svgs/login_icon_2023.svg)
+![sign in](https://cdn.thegameawards.com//frontend/svgs/login_icon_2024.svg)
 
 * [News](https://thegameawards.com/news)
-* [Winners](https://thegameawards.com/nominees)
-* [Players’ Voice](https://thegameawards.com/brackets/players-voice)
 * [About](https://thegameawards.com/about)
 * [Rewind](https://thegameawards.com/rewind)
 * [FAQ](https://thegameawards.com/faq)
 * [Watch](https://thegameawards.com/watch)
-* [Future Class](https://thegameawards.com/future-class)
 
 Follow Us
 
@@ -37,9 +27,11 @@ Close
 Sign In
 -------
 
-#### To Vote & Save Progress
+### To Vote & Save Progress
 
 The Game Awards can track your voting, badges and give you access to special features.
+
+Sign in with your social media account
 
 Sign me up for the mailing list
 
@@ -51,17 +43,19 @@ We Take Your Privacy Seriously
 
 Close
 
-My Badges
+### My Profile
 
-All Badges
+[log out](#! "log out")
 
-My Profile
+[Delete Account](http://eepurl.com/iWOMA6)
 
-Un-Sync Acct
+### My Badges
+
+### All Badges
 
 Return to site
 
-Terms &Conditions
+terms &conditions
 =================
 
 Printable version
@@ -85,7 +79,7 @@ The Service and its original content, features and functionality are and will re
 Links To Other Web Sites
 ------------------------
 
-Our Service may contain links to third party web sites or services that are not owned or controlled by Ola Balola LLC
+Our Service may contain links to third party web sites or services that are not owned or controlled by Ola Balola LLC.
 
 Ola Balola LLC has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. We do not warrant the offerings of any of these entities/individuals or their websites.
 
@@ -143,9 +137,10 @@ If you have any questions about these Terms, please contact us.
 
 © 2024, The Game Awards
 
-![logo](https://cdn.thegameawards.com//frontend/svgs/logo-tga-orange.svg)
+![logo](https://cdn.thegameawards.com//frontend/svgs/logo-tga-gold.svg)
 
 * [About](https://thegameawards.com/about)
+* [future class](https://thegameawards.com/future-class)
 * [FAQ](https://thegameawards.com/faq)
 * [Jury](https://thegameawards.com/voting-jury)
 * [Contact](https://thegameawards.com/about#about-contact)
