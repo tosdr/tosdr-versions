@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retribution/odmazda-london/hyde-park-020.jpg?itok=jH3oi0Nu)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retributionodmazda-london)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/sas-stojanovic-i-ana-vilenica/slike/ako-ne-mogu-da-plesem.jpg?itok=DRFYvJzk)](http://seecult.org/galerija/galerija-umetnika/sasa-stojanovic-i-ana-vilenica/slike)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/trio-miska-plavog/dscf4525.jpg?itok=5vw-shZJ)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/trio-mi%C5%A1ka-plavog)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zasto-su-knjizevne-promocije-dosadne-kosmogina/slam-ucesnici-u-djuri-3.jpg?itok=GqJpJt1B)](http://seecult.org/galerija/foto-galerija/foto-arhiva/zasto-su-knjizevne-promocije-dosadne-kosmogina)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,9 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Uži izbor za nagradu Milica Stojadinović Srpkinja](http://seecult.org/vest/uzi-izbor-za-nagradu-milica-stojadinovic-srpkinja)
+* [Almodovarova Susedna soba otvara 30. FAF](http://seecult.org/vest/almodovarova-susedna-soba-otvara-30-faf)
+* [Mehta i Beogradska filharmonija ponovo zajedno](http://seecult.org/vest/mehta-i-beogradska-filharmonija-ponovo-zajedno)
 * [19\. Joakimfest - (O) čemu (priča) pozorište?](http://seecult.org/vest/19-joakimfest-o-cemu-prica-pozoriste)
 * [Era Milivojević – Umetnost jeste život](http://seecult.org/vest/era-milivojevic-umetnost-jeste-zivot)
 * [Gran pri 58. Bitefa Jasni Žmak](http://seecult.org/vest/gran-pri-58-bitefa-jasni-zmak)
@@ -349,9 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Skopske ovacije za Na vukovom tragu](http://seecult.org/vest/skopske-ovacije-za-na-vukovom-tragu)
 * [Nagrada Zvezdarišta za Ljubicu Beljanski Ristić](http://seecult.org/vest/nagrada-zvezdarista-za-ljubicu-beljanski-ristic)
 * [Izlazak na mesto – Agora](http://seecult.org/vest/izlazak-na-mesto-agora)
-* [Podsvesni pokušaj suicida u Kručama](http://seecult.org/vest/podsvesni-pokusaj-suicida-u-krucama)
-* [Sećanje - Zapisi iz prirode](http://seecult.org/vest/secanje-zapisi-iz-prirode)
-* [Filharmonijski Živeti sa neprijateljem](http://seecult.org/vest/filharmonijski-ziveti-sa-neprijateljem)
 
 * [Konkursi](#tab1_1)
 
