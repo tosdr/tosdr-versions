@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/sas-stojanovic-i-ana-vilenica/slike/ako-ne-mogu-da-plesem.jpg?itok=DRFYvJzk)](http://seecult.org/galerija/galerija-umetnika/sasa-stojanovic-i-ana-vilenica/slike)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/umetnici-biografije/ivana-vidic.jpg?itok=ZBVQ_9iN)](http://seecult.org/galerija/galerija-umetnika/karavukovo/umetnici-biografije)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zasto-su-knjizevne-promocije-dosadne-kosmogina/slam-ucesnici-u-djuri-3.jpg?itok=GqJpJt1B)](http://seecult.org/galerija/foto-galerija/foto-arhiva/zasto-su-knjizevne-promocije-dosadne-kosmogina)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dani-beograda/du-nichts.jpg?itok=gtym8AZK)](http://seecult.org/galerija/foto-galerija/foto-arhiva/dani-beograda)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
