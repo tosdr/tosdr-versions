@@ -1,5 +1,3 @@
-[Breaking: LIVE: Officials to give update on chemical plant fire aftermath](https://www.ajc.com/news/live-officials-to-give-update-on-chemical-plant-fire-aftermath/FDLUQWVCL5A4RFBZKJDO7Y35FM/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1707)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1707)](https://www.ajc.com/)
 
 Log In
