@@ -4,7 +4,7 @@
 
 [Skip to content](#MainContent)
 
-ADD MORE, SAVE MORE | UP TO 30% OFF! | LIMITED TIME OFFER
+Prime SALE: Buy one Sleep Pod, get another 50% OFF!
 
 [](javascript:void(0);)
 
