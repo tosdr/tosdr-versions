@@ -57,25 +57,6 @@ Terms of Service
 
 The necessary terms and conditions of service.
 
-On this page
-
-1. [Use of our Website](#use-of-our-website)
-2. [Use of the Products](#use-of-the-products)
-3. [We are not Financial Advisors](#we-are-not-financial-advisors)
-4. [Pricing and Payment Details](#pricing-and-payment-details)
-5. [Processing your Order](#processing-your-order)
-6. [Returns, Refunds, and Exchanges](#returns-refunds-and-exchanges)
-7. [License](#license)
-8. [Intellectual Property Rights](#intellectual-property-rights)
-9. [Disclaimer](#disclaimer)
-10. [Indemnification](#indemnification)
-11. [Third Party Websites](#third-party-websites)
-12. [Privacy](#privacy)
-13. [Children's Use of the Website](#childrens-use-of-the-website)
-14. [Notices and Complaints](#notices-and-complaints)
-15. [Jurisdiction](#jurisdiction)
-16. [Entire Agreement](#entire-agreement)
-
 These terms and conditions set out the terms and conditions on which we offer to supply to you products advertised on this website.
 
 All references in these terms of use and conditions of sale to the “website” or “Website” refer to this website [foresight.is](http://foresight.is/); to “we”, “us”, “our” and “Foresight” refer to Foresight, a registered DBA of Unstructured Ventures, LLC; and to “you” and “your” are to you, the user / buyer; the “Product(s)” refers to any material you download from the Website, the "Service(s)" refers to any written and recorded video material on the website, educational courses, guides and tutorials, livechat advice, email advice, and consulting services.
