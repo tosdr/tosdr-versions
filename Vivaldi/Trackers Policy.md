@@ -131,7 +131,7 @@ Vivaldi hjálparsíður
 **Um**
 
 * [Það sem við stöndum fyrir](https://vivaldi.com/is/company/)
-* [We Respect Your Privacy](https://vivaldi.com/is/zerotracking/)
+* [Við virðum friðhelgi þína](https://vivaldi.com/is/zerotracking/)
 * [Friðhelgi og skilmálar](https://vivaldi.com/is/privacy/browser/)
 * [Öryggismál](https://vivaldi.com/is/security/)
 * [Teymið okkar](https://vivaldi.com/is/team/)
