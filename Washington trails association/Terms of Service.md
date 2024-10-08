@@ -18,7 +18,7 @@ Menu
 
 * [Home](https://www.wta.org/)
 * [Our Work](https://www.wta.org/our-work)
-    * [Our Campaigns](https://www.wta.org/our-work)
+    * [Explore Our Work](https://www.wta.org/our-work)
     * [Trails for Everyone](https://www.wta.org/our-work/trails-for-everyone "Building community and deepening connections to nature.")
     * [The Trail Next Door](https://www.wta.org/our-work/thetrailnextdoor "Because nature should always be in reach.")
     * [Trails Rebooted](https://www.wta.org/our-work/trails-rebooted "Supporting popular trails at every turn.")
@@ -189,7 +189,7 @@ _Updated 08.31.2022
 _
 
 * [Our Work](https://www.wta.org/our-work)
-    * [Our Campaigns](https://www.wta.org/our-work)
+    * [Explore Our Work](https://www.wta.org/our-work)
     * [Trails for Everyone](https://www.wta.org/our-work/trails-for-everyone "Building community and deepening connections to nature.")
     * [The Trail Next Door](https://www.wta.org/our-work/thetrailnextdoor "Because nature should always be in reach.")
     * [Trails Rebooted](https://www.wta.org/our-work/trails-rebooted "Supporting popular trails at every turn.")
