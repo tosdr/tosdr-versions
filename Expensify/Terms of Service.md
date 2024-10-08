@@ -31,6 +31,7 @@ Sign In
     * [Construction](https://use.expensify.com/construction-expense-management)
     * [Legal](https://use.expensify.com/legal-expense-tracking)
     * [Nonprofits](https://use.expensify.com/nonprofit-expense-management)
+    * [Personal Trainers](https://use.expensify.com/expense-tracking-for-personal-trainers)
     * [Plumbers](https://use.expensify.com/expense-tracking-and-bookkeeping-for-plumbers)
     * [Professional Services](https://use.expensify.com/professional-services-expense-tracking)
     * [Real Estate](https://use.expensify.com/tracking-real-estate-expenses)
