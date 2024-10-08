@@ -12,7 +12,7 @@ What is Cookiebot
 
 Regulations
 
-[DMA (EU)](https://www.cookiebot.com/en/digital-markets-act-dma/) [GDPR (EU)](https://www.cookiebot.com/en/gdpr/) [CCPA (California)](https://www.cookiebot.com/en/what-is-ccpa/) [LGPD (Brazil)](https://www.cookiebot.com/en/lgpd/) [VCDPA (Virginia)](https://www.cookiebot.com/en/virginia-vcdpa/) [TCF 2.2 (IAB)](https://www.cookiebot.com/en/tcf/) [Google Consent Mode (EU)](https://www.cookiebot.com/en/cookiebot-cmp-google-consent-mode/)
+[DMA (EU)](https://www.cookiebot.com/en/digital-markets-act-dma/) [GDPR (EU)](https://www.cookiebot.com/en/gdpr/) [CCPA (California)](https://www.cookiebot.com/en/what-is-ccpa/) [LGPD (Brazil)](https://www.cookiebot.com/en/lgpd/) [VCDPA (Virginia)](https://www.cookiebot.com/en/virginia-vcdpa/) [TCF 2.2 (IAB)](https://www.cookiebot.com/en/tcf/) [Google Consent Mode (EU)](https://www.cookiebot.com/en/cookiebot-cmp-google-consent-mode/) [Microsoft UET Consent Mode](https://www.cookiebot.com/en/microsoft-consent-mode-cmp/)
 
 Partners
 
