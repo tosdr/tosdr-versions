@@ -33,10 +33,10 @@ Privacy Policy
     ![](https://karkhane.org/app/uploads/2024/09/1-95x65.jpg)](https://karkhane.org/5859/abc_of_capitalism/)[الفبای سرمایه‌داری](https://karkhane.org/5859/abc_of_capitalism/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://karkhane.org/app/uploads/2024/09/workers-painting-29-3094829999-95x65.jpg)](https://karkhane.org/5844/cosmetic_factory_98/)[تجربه‌ی کارگری در کارخانه‌ی لوازم آرایشی و اعتراضات گرانی بنزین آبان ۹۸](https://karkhane.org/5844/cosmetic_factory_98/)
+    ![](https://karkhane.org/app/uploads/2024/08/construction-worker-95x65.jpg)](https://karkhane.org/5811/a-report-of-a-construction-site/)[گزارشی از یک کارگاه ساختمانی بزرگ](https://karkhane.org/5811/a-report-of-a-construction-site/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://karkhane.org/app/uploads/2024/08/construction-worker-95x65.jpg)](https://karkhane.org/5811/a-report-of-a-construction-site/)[گزارشی از یک کارگاه ساختمانی بزرگ](https://karkhane.org/5811/a-report-of-a-construction-site/)
+    ![](https://karkhane.org/app/uploads/2024/09/workers-painting-29-3094829999-95x65.jpg)](https://karkhane.org/5844/cosmetic_factory_98/)[تجربه‌ی کارگری در کارخانه‌ی لوازم آرایشی و اعتراضات گرانی بنزین آبان ۹۸](https://karkhane.org/5844/cosmetic_factory_98/)
 * [![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/app/uploads/2020/11/do-ser-az-bolivi-az-taraneha-ye-kargaran-95x65.jpg)](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)[دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)
@@ -46,15 +46,15 @@ Privacy Policy
 * [![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/app/uploads/2023/02/eshqal-e-karxane-jeneral-1357-95x65.jpg)](https://karkhane.org/4780/general-electric-occupation-by-workers/)[اشغال کارخانه صنعتی جنرال توسط کارگران مبارز](https://karkhane.org/4780/general-electric-occupation-by-workers/)
-* [![گزارشی از کارگران قالی‌باف شهرستان بوکان](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![گزارشی از کارگران قالی‌باف شهرستان بوکان](https://karkhane.org/app/uploads/2021/10/gozaresh-kargaran-e-qalibaf-bukan-95x65.jpg)](https://karkhane.org/3168/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%82%d8%a7%d9%84%db%8c%d8%a8%d8%a7%d9%81-%d8%b4%d9%87%d8%b1%d8%b3%d8%aa%d8%a7%d9%86-%d8%a8%d9%88%da%a9%d8%a7%d9%86/)[رَج و رنجِ قالی‌بافان؛ گزارشی از کارگران قالی‌باف شهرستان بوکان](https://karkhane.org/3168/%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%82%d8%a7%d9%84%db%8c%d8%a8%d8%a7%d9%81-%d8%b4%d9%87%d8%b1%d8%b3%d8%aa%d8%a7%d9%86-%d8%a8%d9%88%da%a9%d8%a7%d9%86/)
-* [![تجمع معلمان نهضت سوادآموزی جلوی مجلس اردیبهشت 1399](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](https://karkhane.org/app/uploads/2020/07/nemāyešnāme-ye-porsešnāme-95x65.jpg)](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)[نمایش‌نامه «پرسشنامه ، یا اطلاعات عمومی برای مسئولینِ عالی‌رتبه»](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)
+* [![آموزش اقتصاد برای کارگران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![تجمع معلمان نهضت سوادآموزی جلوی مجلس اردیبهشت 1399](https://karkhane.org/app/uploads/2020/07/tajamo-e-moalemān-majles-ordibehešt-1399-95x65.jpg)](https://karkhane.org/2001/%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%d9%85%d8%b9%d9%84%d9%85%d8%a7%d9%86-%d8%ba%db%8c%d8%b1%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d8%b3%d8%a7%d9%84-1399-%d8%af%d9%87%d9%87%d8%a7-%d9%87/)[اعتراضات معلمان غیررسمی در سال ۱۳۹۹: دهها هزار معلم در بلاتکلیفی](https://karkhane.org/2001/%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d8%b6%d8%a7%d8%aa-%d9%85%d8%b9%d9%84%d9%85%d8%a7%d9%86-%d8%ba%db%8c%d8%b1%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d8%b3%d8%a7%d9%84-1399-%d8%af%d9%87%d9%87%d8%a7-%d9%87/)
-* [![به زبان ساده؛‌ «اتحاد» چیست؟ اتحاد طبقاتی یا اتحاد سراسری؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![آموزش اقتصاد برای کارگران](https://karkhane.org/app/uploads/2021/11/amuzesh-e-eqtesad-bara-ye-kargaran-95x65.jpg)](https://karkhane.org/3235/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d8%ae%d8%b4-%db%8c%da%a9-%d9%85%d8%b2%d8%af/)[آموزش اقتصاد برای کارگران، بخش یک: «مزد چیست؟»](https://karkhane.org/3235/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d8%ae%d8%b4-%db%8c%da%a9-%d9%85%d8%b2%d8%af/)
+* [![نفت، مبارزه‌ی کارگران و کودتا](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![به زبان ساده؛‌ «اتحاد» چیست؟ اتحاد طبقاتی یا اتحاد سراسری؟](https://karkhane.org/app/uploads/2021/11/be-zaban-e-saade-ettehad-chist-95x65.jpg)](https://karkhane.org/3222/%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%da%86%db%8c%d8%b3%d8%aa%d8%9f/)[«اتحاد» چیست؟ کارگران پاسخ می‌دهند](https://karkhane.org/3222/%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%da%86%db%8c%d8%b3%d8%aa%d8%9f/)
+    ![نفت، مبارزه‌ی کارگران و کودتا](https://karkhane.org/app/uploads/2023/08/naft-mobarezeye-kargaran-o-kudeta-28-mordad-95x65.jpg)](https://karkhane.org/5135/oil-labors-struggle-and-coup/)[نفت، مبارزه‌ی کارگران و کودتا](https://karkhane.org/5135/oil-labors-struggle-and-coup/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
