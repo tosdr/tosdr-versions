@@ -292,6 +292,8 @@ For press inquiries and more information please [contact us](https://www.ccleane
     
 * [CCleaner Cloud](https://www.ccleaner.com/business/ccleaner-cloud)
 
+ [![Follow on Facebook](https://cdn-production.ccleaner.com/site/k3jjgaj0/facebook.svg)](https://www.facebook.com/ccleanerglobal)[![Follow on Instagram](https://cdn-production.ccleaner.com/site/dzuhtv3v/instagram.svg)](https://www.instagram.com/ccleaner/)[![Follow on LinkedIn](https://cdn-production.ccleaner.com/site/g1rjpwmo/linkedin.svg)](https://www.linkedin.com/company/piriform)[![Follow on Twitter](https://cdn-production.ccleaner.com/site/llfavoy4/twitter.svg)](https://twitter.com/ccleaner)[![Follow on Youtube](https://cdn-production.ccleaner.com/site/11yjynor/youtube.svg)](https://www.youtube.com/user/CCleaner)
+
 © Copyright 2005-2024 Gen Digital Inc - All rights reserved.  
 [Terms of Use](https://www.ccleaner.com/about/terms-of-use) - [Supplier Guidelines](https://www.ccleaner.com/legal/supplier-guidelines) - [Modern Slavery Statement](https://s1.pir.fm/pf/legal/2019-2020%20Avast%20MS%20Transparency%20Statement.pdf) - [General Privacy Policy](https://www.ccleaner.com/legal/general-privacy-policy) - [Do Not Sell or Share My Personal Information](https://www.ccleaner.com/legal/do-not-sell) - [Consent Policy](https://www.ccleaner.com/legal/consent-policy) - [Products Policy](https://www.ccleaner.com/legal/products-policy) - [Cookies Policy](https://www.ccleaner.com/about/cookies-policy) - [Accessibility Policy](https://www.ccleaner.com/legal/accessibility-policy)  
 CCleaner, Defraggler, Recuva and Speccy are all registered trademarks of Gen Digital Inc.  
