@@ -387,7 +387,7 @@ Accessories
     * [QXG-10G2SF-X710](https://www.qnap.com/en/product/qxg-10g2sf-x710)
     * [QXG-10G2T](https://www.qnap.com/en/product/qxg-10g2t)
     * [QXG-25G2SF-E810](https://www.qnap.com/en/product/qxg-25g2sf-e810)
-    * [QXG-100G2SF-CX6](https://www.qnap.com/en/product/qxg-100g2sf-cx6)
+    * [QM2-2P410G1T](https://www.qnap.com/en/product/qm2-2p410g1t)
     * [View All](https://www.qnap.com/en/product/compare-accessory?tab=network)
 * ###### Add Wi-Fi connectivity
     
@@ -418,7 +418,7 @@ Expansion Cards/ Interface Cards
     * [QXG-10G2SF-X710](https://www.qnap.com/en/product/qxg-10g2sf-x710)
     * [QXG-10G2T](https://www.qnap.com/en/product/qxg-10g2t)
     * [QXG-25G2SF-E810](https://www.qnap.com/en/product/qxg-25g2sf-e810)
-    * [QXG-100G2SF-CX6](https://www.qnap.com/en/product/qxg-100g2sf-cx6)
+    * [QM2-2P410G1T](https://www.qnap.com/en/product/qm2-2p410g1t)
     * [View All](https://www.qnap.com/en/product/compare-accessory?tab=network)
 * ###### Add Wi-Fi connectivity
     
