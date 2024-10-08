@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:59am |
-| Hard To LoveLee Brice<br><br>4:56am |
-| LosersPost Malone Ft Jelly Roll<br><br>4:53am |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>4:50am |
-| Coming HomeOld Dominion<br><br>4:47am |
+| Where It EndsBailey Zimmerman<br><br>11:39am |
+| I Love This BarToby Keith<br><br>11:35am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>11:32am |
+| Pretty Little PoisonWarren Zeiders<br><br>11:28am |
+| UnforgettableThomas Rhett<br><br>11:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Country • Western
+Top 40 • Eastern
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Sports • Midwest
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
