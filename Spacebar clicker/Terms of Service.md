@@ -54,7 +54,7 @@ Vote:
 
 Spacebar Clicker
 
-2393 4.355
+2394 4.355
 
 [Add to Favorites](javascript:void(0); "Add to Favorites")
 
