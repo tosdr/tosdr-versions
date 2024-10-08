@@ -258,23 +258,23 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Justin Mohn, Michael Mohn](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Justin-Mohn-432x243.jpg)](https://lawandcrime.com/crime/son-who-murdered-u-s-army-corps-of-engineers-dad-showed-off-head-on-youtube-and-rambled-about-trying-to-perform-a-citizens-arrest-may-face-death-penalty-da/)
+1. [![Justin Mohn, Michael Mohn](https://lawandcrime.com/wp-content/uploads/2024/10/Justin-Mohn-432x243.jpg)](https://lawandcrime.com/crime/son-who-murdered-u-s-army-corps-of-engineers-dad-showed-off-head-on-youtube-and-rambled-about-trying-to-perform-a-citizens-arrest-may-face-death-penalty-da/)
     
     ### [Son who murdered U.S. Army Corps of Engineers dad, showed off head on YouTube, and rambled about 'trying to perform a citizen's arrest' may face death penalty: DA](https://lawandcrime.com/crime/son-who-murdered-u-s-army-corps-of-engineers-dad-showed-off-head-on-youtube-and-rambled-about-trying-to-perform-a-citizens-arrest-may-face-death-penalty-da/)
     
-2. [![Romeoville quadruple murder](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Romeoville-quadruple-murder-with-family-photo-432x243.jpg)](https://lawandcrime.com/crime/hit-the-two-adults-first-woman-learned-her-fiance-was-having-an-affair-so-she-manipulated-him-into-murdering-lover-her-family-cops-say/)
+2. [![Romeoville quadruple murder](https://lawandcrime.com/wp-content/uploads/2024/10/Romeoville-quadruple-murder-with-family-photo-432x243.jpg)](https://lawandcrime.com/crime/hit-the-two-adults-first-woman-learned-her-fiance-was-having-an-affair-so-she-manipulated-him-into-murdering-lover-her-family-cops-say/)
     
     ### ['Hit the two adults first': Woman learned her fiancé was having an affair so she manipulated him into murdering lover, her family, cops say](https://lawandcrime.com/crime/hit-the-two-adults-first-woman-learned-her-fiance-was-having-an-affair-so-she-manipulated-him-into-murdering-lover-her-family-cops-say/)
     
-3. [![Jennifer Massey mug shot](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Jennifer-Massey-432x243.jpg)](https://lawandcrime.com/crime/art-teacher-caught-engaged-in-sexual-contact-with-minor-student-at-under-construction-home-just-minutes-away-from-high-school-sheriff/)
+3. [![Jennifer Massey mug shot](https://lawandcrime.com/wp-content/uploads/2024/10/Jennifer-Massey-432x243.jpg)](https://lawandcrime.com/crime/art-teacher-caught-engaged-in-sexual-contact-with-minor-student-at-under-construction-home-just-minutes-away-from-high-school-sheriff/)
     
     ### [Art teacher caught 'engaged in sexual contact' with minor student at 'under construction home' just minutes away from high school during 'Crime Prevention Month': Sheriff](https://lawandcrime.com/crime/art-teacher-caught-engaged-in-sexual-contact-with-minor-student-at-under-construction-home-just-minutes-away-from-high-school-sheriff/)
     
-4. [![Nancy Pelosi, Donald Trump](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Pelosi-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/cannot-ignore-or-hide-from-this-binding-precedent-trump-blames-nancy-pelosi-as-he-cites-another-supreme-court-decision-to-dismiss-jan-6-charges/)
+4. [![Nancy Pelosi, Donald Trump](https://lawandcrime.com/wp-content/uploads/2024/10/Pelosi-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/cannot-ignore-or-hide-from-this-binding-precedent-trump-blames-nancy-pelosi-as-he-cites-another-supreme-court-decision-to-dismiss-jan-6-charges/)
     
     ### ['Cannot ignore or hide from' this 'binding precedent': Trump blames Nancy Pelosi as he cites another Supreme Court decision to dismiss Jan. 6 charges](https://lawandcrime.com/high-profile/cannot-ignore-or-hide-from-this-binding-precedent-trump-blames-nancy-pelosi-as-he-cites-another-supreme-court-decision-to-dismiss-jan-6-charges/)
     
-5. [![Aubree Horton (WAGA).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Aubree-Horton-432x243.png)](https://lawandcrime.com/crime/investigator-of-the-year-broke-into-a-home-where-resident-shot-and-killed-him-authorities/)
+5. [![Aubree Horton (WAGA).](https://lawandcrime.com/wp-content/uploads/2024/10/Aubree-Horton-432x243.png)](https://lawandcrime.com/crime/investigator-of-the-year-broke-into-a-home-where-resident-shot-and-killed-him-authorities/)
     
     ### ['Investigator of the Year' broke into a home, where resident shot and killed him: Authorities](https://lawandcrime.com/crime/investigator-of-the-year-broke-into-a-home-where-resident-shot-and-killed-him-authorities/)
     
