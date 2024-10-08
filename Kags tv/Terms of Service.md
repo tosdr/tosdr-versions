@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/WFAA/images/4dc20b6a-8e57-4cdf-b11c-ef61e0a2982f/20240709T225712/4dc20b6a-8e57-4cdf-b11c-ef61e0a2982f_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/4dc20b6a-8e57-4cdf-b11c-ef61e0a2982f/20240709T225712/4dc20b6a-8e57-4cdf-b11c-ef61e0a2982f_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-am-university-commerce-considering-potential-new-name/287-9a47a6a5-cf8c-4968-b5cf-fd32cb4fd5f2)
+        
+        #### [Texas A&M University-Commerce considering another potential new name](https://www.kagstv.com/article/news/local/texas-am-university-commerce-considering-potential-new-name/287-9a47a6a5-cf8c-4968-b5cf-fd32cb4fd5f2)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/d2ec8335-f4fe-4762-8941-8d1ff0a596f9/20241007T154247/d2ec8335-f4fe-4762-8941-8d1ff0a596f9_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/d2ec8335-f4fe-4762-8941-8d1ff0a596f9/20241007T154247/d2ec8335-f4fe-4762-8941-8d1ff0a596f9_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-16-year-old-last-seen-in-navasota-area-on-oct-5-2024/500-f1dc6498-7c6e-4b54-ab14-f03d0da00a3f)
         
         #### [Authorities seeking help finding missing 16-year-old last seen in Navasota area](https://www.kagstv.com/article/news/local/missing-16-year-old-last-seen-in-navasota-area-on-oct-5-2024/500-f1dc6498-7c6e-4b54-ab14-f03d0da00a3f)
-        
-    *  [![](https://media.kagstv.com/assets/WFAA/images/cbb3bc21-26e1-441a-89ba-7474c3edd5a2/20241005T202324/cbb3bc21-26e1-441a-89ba-7474c3edd5a2_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/cbb3bc21-26e1-441a-89ba-7474c3edd5a2/20241005T202324/cbb3bc21-26e1-441a-89ba-7474c3edd5a2_360x203.jpg)](https://www.kagstv.com/article/news/politics/inside-politics/texas-politics/prominent-texas-republican-endorses-democrats-kamala-harris-colin-allred/287-1a3450ff-8796-49bc-9363-e8e4d726c7b8)
-        
-        #### [Prominent Texas Republican endorses Democrats Kamala Harris and Colin Allred](https://www.kagstv.com/article/news/politics/inside-politics/texas-politics/prominent-texas-republican-endorses-democrats-kamala-harris-colin-allred/287-1a3450ff-8796-49bc-9363-e8e4d726c7b8)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-71°
+73°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
