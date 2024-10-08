@@ -2,11 +2,11 @@ cookie-whitecookie-white
 
 ×
 
-[Blog](https://www.skatedeluxe.com/blog/en/) [Team](https://www.skatedeluxe.com/en/team/) [Specials](https://www.skatedeluxe.com/en/specials-free-offers) [Premium Club](https://www.skatedeluxe.com/en/premiumclub)
+[Blog](https://www.skatedeluxe.com/blog/en/) [Team](https://www.skatedeluxe.com/en/g/team) [Specials](https://www.skatedeluxe.com/en/i/specials-free-offers) [Premium Club](https://www.skatedeluxe.com/en/i/premiumclub)
 
-[Customer service](https://www.skatedeluxe.com/en/customer-service)
+[Customer service](https://www.skatedeluxe.com/en/i/customer-service)
 
-[Shipping](https://www.skatedeluxe.com/en/shipping) [Payment](https://www.skatedeluxe.com/en/payment) [Returns & Cancellation](https://www.skatedeluxe.com/en/return) [Exchange](https://www.skatedeluxe.com/en/exchange) [Size conversion chart](https://www.skatedeluxe.com/en/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.com/en/faq) [Contact](https://www.skatedeluxe.com/en/contact)
+[Shipping](https://www.skatedeluxe.com/en/i/customer-service/shipping) [Payment](https://www.skatedeluxe.com/en/i/customer-service/payment) [Returns & Cancellation](https://www.skatedeluxe.com/en/i/customer-service/return) [Exchange](https://www.skatedeluxe.com/en/i/customer-service/exchange) [Size conversion chart](https://www.skatedeluxe.com/en/i/size-conversion-chart) [FAQ - Frequently Asked Questions](https://www.skatedeluxe.com/en/i/customer-service/faq) [Contact](https://www.skatedeluxe.com/en/i/contact)
 
 ![](https://cdn.skatedeluxe.com/static/images/icons/phone-white.svg)
 
@@ -18,41 +18,41 @@ Germany | English
 
 Country shops All locations & languages
 
-[Deutschland](https://www.skatedeluxe.com/de/agb?cic=DE)
+[Deutschland](https://www.skatedeluxe.com/de/i/agb?cic=DE)
 
-[Switzerland](https://www.skatedeluxe.ch/de/agb?cic=CH)
+[Switzerland](https://www.skatedeluxe.ch/de/i/agb?cic=CH)
 
-[FR](https://www.skatedeluxe.ch/fr/termes-et-conditions?cic=CH)
+[FR](https://www.skatedeluxe.ch/fr/i/termes-et-conditions?cic=CH)
 
-[EN](https://www.skatedeluxe.ch/en/terms-and-conditions?cic=CH)
+[EN](https://www.skatedeluxe.ch/en/i/terms-and-conditions?cic=CH)
 
-[France](https://www.skatedeluxe.com/fr/termes-et-conditions?cic=FR)
+[France](https://www.skatedeluxe.com/fr/i/termes-et-conditions?cic=FR)
 
-[Österreich](https://www.skatedeluxe.com/de/agb?cic=AT)
+[Österreich](https://www.skatedeluxe.com/de/i/agb?cic=AT)
 
-[Italia](https://www.skatedeluxe.com/it/condizioni-generali-di-contratto?cic=IT)
+[Italia](https://www.skatedeluxe.com/it/i/Condizioni-Generali-di-Contratto?cic=IT)
 
-[Belgium](https://www.skatedeluxe.com/en/terms-and-conditions?cic=BE)
+[Belgium](https://www.skatedeluxe.com/en/i/terms-and-conditions?cic=BE)
 
-[NL](https://www.skatedeluxe.com/nl/algemene-voorwaarden?cic=BE)
+[NL](https://www.skatedeluxe.com/nl/i/algemene-voorwaarden?cic=BE)
 
-[FR](https://www.skatedeluxe.com/fr/termes-et-conditions?cic=BE)
+[FR](https://www.skatedeluxe.com/fr/i/termes-et-conditions?cic=BE)
 
-[Nederland](https://www.skatedeluxe.com/nl/algemene-voorwaarden?cic=NL)
+[Nederland](https://www.skatedeluxe.com/nl/i/algemene-voorwaarden?cic=NL)
 
-[España](https://www.skatedeluxe.com/es/terminos-y-condiciones?cic=ES)
+[España](https://www.skatedeluxe.com/es/i/terminos-y-condiciones?cic=ES)
 
-[United Kingdom](https://www.skatedeluxe.com/en/terms-and-conditions?cic=GB)
+[United Kingdom](https://www.skatedeluxe.com/en/i/terms-and-conditions?cic=GB)
 
-[Portugal](https://www.skatedeluxe.com/en/terms-and-conditions?cic=PT)
+[Portugal](https://www.skatedeluxe.com/en/i/terms-and-conditions?cic=PT)
 
-[Sverige](https://www.skatedeluxe.com/en/terms-and-conditions?cic=SE)
+[Sverige](https://www.skatedeluxe.com/en/i/terms-and-conditions?cic=SE)
 
-[Danmark](https://www.skatedeluxe.com/en/terms-and-conditions?cic=DK)
+[Danmark](https://www.skatedeluxe.com/en/i/terms-and-conditions?cic=DK)
 
-[Česko](https://www.skatedeluxe.com/en/terms-and-conditions?cic=CZ)
+[Česko](https://www.skatedeluxe.com/en/i/terms-and-conditions?cic=CZ)
 
-[Polska](https://www.skatedeluxe.com/pl/regulamin?cic=PL)
+[Polska](https://www.skatedeluxe.com/pl/i/regulamin?cic=PL)
 
 Delivery country
 
@@ -175,19 +175,19 @@ Search result for "%search\_keywords%"
 
 [](https://www.skatedeluxe.com/en)
 
-[Brands](https://www.skatedeluxe.com/en/all-brands "Brands")
+[Brands](https://www.skatedeluxe.com/en/b/all-brands "Brands")
 
-[Skateboards](https://www.skatedeluxe.com/en/skateboards "Skateboards")
+[Skateboards](https://www.skatedeluxe.com/en/c/skateboards "Skateboards")
 
-[Shoes](https://www.skatedeluxe.com/en/shoes "Shoes")
+[Shoes](https://www.skatedeluxe.com/en/c/shoes "Shoes")
 
-[Clothing](https://www.skatedeluxe.com/en/clothing "Clothing")
+[Clothing](https://www.skatedeluxe.com/en/c/clothing "Clothing")
 
-[Accessories](https://www.skatedeluxe.com/en/accessories "Accessories")
+[Accessories](https://www.skatedeluxe.com/en/c/accessories "Accessories")
 
-[New](https://www.skatedeluxe.com/en/brandnew "New")
+[New](https://www.skatedeluxe.com/en/c/brandnew "New")
 
-[Sale](https://www.skatedeluxe.com/en/sale "Sale")
+[Sale](https://www.skatedeluxe.com/en/c/sale "Sale")
 
 Search result for "%search\_keywords%"
 --------------------------------------
@@ -214,11 +214,11 @@ Remove all filters
 
 Sorting
 
-[FREE SHIPPING ON ORDERS OVER 100 EUR](https://www.skatedeluxe.com/en/shipping "FREE SHIPPING ON ORDERS OVER 100 EUR")
+[FREE SHIPPING ON ORDERS OVER 100 EUR](https://www.skatedeluxe.com/en/i/customer-service/shipping "FREE SHIPPING ON ORDERS OVER 100 EUR")
 
-[FAST SHIPPING](https://www.skatedeluxe.com/en/shipping "fastest Skateshop")
+[FAST SHIPPING](https://www.skatedeluxe.com/en/i/customer-service/shipping "fastest Skateshop")
 
-[30 DAY RETURN POLICY](https://www.skatedeluxe.com/en/return)
+[30 DAY RETURN POLICY](https://www.skatedeluxe.com/en/i/customer-service/return)
 
 [Trustpilot](https://www.skatedeluxe.com/%E2%80%8Bhttps:/uk.trustpilot.com/review/skatedeluxe.com)
 
@@ -247,11 +247,11 @@ Our offer is directed solely to direct end consumers. Purchasing products for re
 
 #### 4\. Delivery and Shipping Costs
 
-You will receive your order in one package if possible. We reserve the right to deliver your order in multiple packages if it contains bulky products. This is no disadvantage for you since we pay for the additional shipping costs. Find all information about shipping costs for your delivery here: [Shipping Costs](https://www.skatedeluxe.com/en/shipping)
+You will receive your order in one package if possible. We reserve the right to deliver your order in multiple packages if it contains bulky products. This is no disadvantage for you since we pay for the additional shipping costs. Find all information about shipping costs for your delivery here: [Shipping Costs](https://www.skatedeluxe.com/en/i/customer-service/shipping)
 
 #### 5\. Payment Options
 
-You can choose from different payment methods: Pay in advance (money transfer), PayPal, credit card, Sofort banking or cash on delivery (only within Germany and to Italy). We reserve the right to reject certain payment methods. If you choose to pay in advance, you will receive our bank information together with the order confirmation. The money transfer is to be made to the indicated account within 10 days. Read more about payment options here: [Payment](https://www.skatedeluxe.com/en/payment)
+You can choose from different payment methods: Pay in advance (money transfer), PayPal, credit card, Sofort banking or cash on delivery (only within Germany and to Italy). We reserve the right to reject certain payment methods. If you choose to pay in advance, you will receive our bank information together with the order confirmation. The money transfer is to be made to the indicated account within 10 days. Read more about payment options here: [Payment](https://www.skatedeluxe.com/en/i/customer-service/payment)
 
 #### 6\. Falsities
 
@@ -279,7 +279,7 @@ The reimbursement will be carried out using the same means of payment used for t
 
 You shall send back the goods or hand them over to us, without undue delay and no later than 14 days after you communicate to us your withdrawal from this contract. The deadline is met if you send back the goods before the period of 30 days has expired.  
   
-We cover the costs of returning the goods for delivery to the following areas: all EU-countries, Switzerland, Liechtenstein and the United Kingdom. The return of the goods is free of charge if you use the return shipping label provided by us. For deliveries to all other countries, you must cover the costs of the return shipment and any taxes and customs duties incurred. [More info on returns.](https://www.skatedeluxe.com/en/return)  
+We cover the costs of returning the goods for delivery to the following areas: all EU-countries, Switzerland, Liechtenstein and the United Kingdom. The return of the goods is free of charge if you use the return shipping label provided by us. For deliveries to all other countries, you must cover the costs of the return shipment and any taxes and customs duties incurred. [More info on returns.](https://www.skatedeluxe.com/en/i/customer-service/return)  
   
 You are only liable for any diminished value of the goods resulting from handling of the goods other than what is necessary to establish their nature, characteristics and function.  
   
@@ -326,7 +326,7 @@ You can contact us by e-mail at [service.en@skatedeluxe.com](mailto:service.en@
 
 #### 13\. Data storage
 
-We would like to point out that entered data is processed and stored using electronic data processing equipment. Personal data is kept confidential and used for business purposes only. Find out more here: [Data protection](https://www.skatedeluxe.com/en/privacy)
+We would like to point out that entered data is processed and stored using electronic data processing equipment. Personal data is kept confidential and used for business purposes only. Find out more here: [Data protection](https://www.skatedeluxe.com/en/i/privacy)
 
 #### 14\. Applicable law
 
@@ -334,12 +334,12 @@ The law of the Federal Republic of Germany applies excluding the CISG (United Na
 
 **Last updated: 23.08.2021**
 
-[Legal Notice](https://www.skatedeluxe.com/en/legal-notice)
+[Legal Notice](https://www.skatedeluxe.com/en/i/legal-notice)
 
-* [Terms & Conditions](https://www.skatedeluxe.com/en/terms-and-conditions)
-* [Privacy Policy](https://www.skatedeluxe.com/en/privacy)
-* [Cookie Policy](https://www.skatedeluxe.com/en/cookie-policy)
-* [Whistleblower Policy](https://www.skatedeluxe.com/en/whistleblower-policy)
+* [Terms & Conditions](https://www.skatedeluxe.com/en/i/terms-and-conditions)
+* [Privacy Policy](https://www.skatedeluxe.com/en/i/privacy)
+* [Cookie Policy](https://www.skatedeluxe.com/en/i/cookie-policy)
+* [Whistleblower Policy](https://www.skatedeluxe.com/en/i/whistleblower-policy)
 
 © skatedeluxe.com Skateshop 2024
 
@@ -365,7 +365,7 @@ In order to provide you with the best possible user experience, we implement coo
 
 Apply selection
 
-By clicking "ACCEPT ALL" you agree to the use of all cookies and web tracking technologies. If you change your mind, you can find all the options to change or revoke your consent in our [Cookie Policy](https://www.skatedeluxe.com/en/cookie-policy) and [Privacy Policy](https://www.skatedeluxe.com/en/privacy).  
+By clicking "ACCEPT ALL" you agree to the use of all cookies and web tracking technologies. If you change your mind, you can find all the options to change or revoke your consent in our [Cookie Policy](https://www.skatedeluxe.com/en/i/cookie-policy) and [Privacy Policy](https://www.skatedeluxe.com/en/i/privacy).  
 
 Accept all
 
