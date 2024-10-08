@@ -3,9 +3,7 @@ Kev Quirk
 
 [](https://kevq.uk/)
 
-Menu
-
-[Blog](https://kevquirk.com/) [Notes](https://kevquirk.com/notes) [About](https://kevquirk.com/about) [Contact](https://kevquirk.com/contact) [Search](https://kevquirk.com/search) [Subscribe](https://kevquirk.com/subscribe) More... [Blogroll](https://kevquirk.com/blogroll) [Guestbook](https://kevquirk.com/guestbook) [PenPals](https://kevquirk.com/penpals) [Projects](https://kevquirk.com/projects) [Watches](https://kevquirk.com/watches) [Watch Log](https://kevquirk.com/watch-log)
+[Menu](https://kevq.uk/menu)
 
 Privacy
 =======
@@ -66,14 +64,6 @@ An acceptable attribution that complies with the license would be something simi
 > Friends don’t spy; true friendship is about privacy, too.
 > 
 > \- Stephen King
-
-[Blog](https://kevquirk.com/) [Notes](https://kevquirk.com/notes) [About](https://kevquirk.com/about) [Contact](https://kevquirk.com/contact) [Search](https://kevquirk.com/search) [Subscribe](https://kevquirk.com/subscribe) More... [Blogroll](https://kevquirk.com/blogroll) [Guestbook](https://kevquirk.com/guestbook) [PenPals](https://kevquirk.com/penpals) [Projects](https://kevquirk.com/projects) [Watches](https://kevquirk.com/watches) [Watch Log](https://kevquirk.com/watch-log)
-
-[](https://fosstodon.org/@kev "Mastodon")[](https://signal.me/#eu/iBLb4wMVSnBCrHCHnyWf8Ef0ou9ednD1ALTbPMUSZwuaTk4xOzlACaSjI16V5eJk "Signal Messenger")[](mailto:72ja@qrk.one "Email")[](https://kevq.uk/feed "RSS Feed")
-
-Enter your email below to subscribe to new posts by email. No spam, ever. Pinky-promise.
-
-Enter your email  
 
 [Back to top](#top)
 
