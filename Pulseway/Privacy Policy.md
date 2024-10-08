@@ -32,6 +32,7 @@
         * [Server Application Monitoring](https://www.pulseway.com/v2/server-management-monitoring-software)
         * [Backup](https://www.pulseway.com/v2/backup-software)
         * [Mobile App](https://www.pulseway.com/v2/mobile-app)
+        * [Mobile Device Management (MDM)](https://www.pulseway.com/v2/mdm)
 * [Why Pulseway](#)
     * [DESIGNED FOR YOU](#)
         * * [IT Teams](https://www.pulseway.com/v2/it-infrastructure-monitoring)
@@ -52,7 +53,7 @@
 
  [![](https://pulseway.s3.amazonaws.com/website/images/nav/device.svg) Device Management](https://www.pulseway.com/v2/it-management-software)[![](https://pulseway.s3.amazonaws.com/website/images/nav/backup.svg) Backup & Disaster Recovery](https://www.pulseway.com/v2/backup-software)[![](https://pulseway.s3.amazonaws.com/website/images/nav/ransome.svg) Ransomware Detection](https://www.pulseway.com/v2/ransomware-protection-software)[![](https://pulseway.s3.amazonaws.com/website/images/nav/pro.svg) Ticketing](https://www.pulseway.com/v2/msp-platform/business-management-software)
 
-[Remote Control](https://www.pulseway.com/v2/remotedesktop) [Network Monitoring Software](https://www.pulseway.com/v2/network-monitoring-software) [Patch Management](https://www.pulseway.com/v2/patch-management) [IT Automation](https://www.pulseway.com/v2/it-automation) [Reporting](https://www.pulseway.com/v2/it-management-software-reporting) [Self-Service IT Portal](https://www.pulseway.com/v2/client-portal) [Server Application Monitoring](https://www.pulseway.com/v2/server-management-monitoring-software) [Backup](https://www.pulseway.com/v2/backup-software) [Mobile App](https://www.pulseway.com/v2/mobile-app)
+[Remote Control](https://www.pulseway.com/v2/remotedesktop) [Network Monitoring Software](https://www.pulseway.com/v2/network-monitoring-software) [Patch Management](https://www.pulseway.com/v2/patch-management) [IT Automation](https://www.pulseway.com/v2/it-automation) [Reporting](https://www.pulseway.com/v2/it-management-software-reporting) [Self-Service IT Portal](https://www.pulseway.com/v2/client-portal) [Server Application Monitoring](https://www.pulseway.com/v2/server-management-monitoring-software) [Backup](https://www.pulseway.com/v2/backup-software) [Mobile App](https://www.pulseway.com/v2/mobile-app) [Mobile Device Management (MDM)](https://www.pulseway.com/v2/mdm)
 
 [IT Teams](https://www.pulseway.com/v2/it-infrastructure-monitoring) [MSPs](https://www.pulseway.com/v2/msp-platform)
 
