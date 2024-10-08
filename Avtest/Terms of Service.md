@@ -84,7 +84,7 @@ General Terms and Conditions
 
 ### Our services and deliveries are provided exclusively on the basis of the following terms and conditions (hereinafter referred to as “GTC”). These also apply to all current and future business relationships.
 
-* ##### [English version](https://www.av-test.org/fileadmin/pdf/GTC_SITS_Deutschland_GmbH_2024-06.pdf) (PDF file)
+* ##### [English version](https://www.av-test.org/fileadmin/pdf/GTC_SITS_Deutschland_GmbH_2024-10.pdf) (PDF file)
     
 * ##### [German version](https://www.av-test.org/fileadmin/pdf/AGB_SITS_Deutschland_GmbH_2024-06.pdf) (PDF file)
     
