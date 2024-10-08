@@ -1,4 +1,4 @@
-[SAVE BIG ON AMAZON FROM OCTOBER 8 - 9 --- Shop Nature's Bounty on Amazon >](https://www.amazon.com/stores/page/6A960ABC-8339-4EF1-92DB-5CA59FC8A4E8?ingress=0&visitId=d8eaf645-49ed-46cd-aba0-7af4af0fa22e)
+[SAVE BIG ON AMAZON FROM OCTOBER 8-9 — Shop Nature's Bounty on Amazon →](https://www.amazon.com/stores/page/6A960ABC-8339-4EF1-92DB-5CA59FC8A4E8?ingress=0&visitId=d8eaf645-49ed-46cd-aba0-7af4af0fa22e)
 
 [![Nature's Bounty](//naturesbounty.com/cdn/shop/files/NB-logo-dark-green.svg?v=1713987522)](https://www.naturesbounty.com/)
 
