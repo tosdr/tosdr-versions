@@ -188,11 +188,11 @@ Eesti keel
 
 Latviešu valoda
 
-Lietuvių
-
 Polski
 
 English
+
+Lietuvių
 
 Yandex Terms of Service
 =======================
@@ -333,11 +333,11 @@ Eesti keel
 
 Latviešu valoda
 
-Lietuvių
-
 Polski
 
 English
+
+Lietuvių
 
 [Next
 
@@ -349,11 +349,11 @@ Eesti keel
 
 Latviešu valoda
 
-Lietuvių
-
 Polski
 
 English
+
+Lietuvių
 
 [Yandex.Support homepage](https://yandex.com/legal)
 
