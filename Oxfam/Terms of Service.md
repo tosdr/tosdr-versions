@@ -28,6 +28,7 @@ Language
         * [Inequality Inc](https://www.oxfam.org/en/research/inequality-inc)
     * [Responding to emergencies](https://www.oxfam.org/en/what-we-do/emergencies)
         * [GAZA CRISIS APPEAL](https://www.oxfam.org/en/what-we-do/emergencies/gaza-crisis-appeal)
+        * [Lebanon Crisis Appeal](https://www.oxfam.org/en/what-we-do/emergencies/lebanon-crisis-appeal)
         * [Bangladesh Rohingya refugee crisis](https://www.oxfam.org/en/what-we-do/emergencies/bangladesh-rohingya-refugee-crisis)
         * [Climate and food crisis in East Africa](https://www.oxfam.org/en/what-we-do/emergencies/climate-and-food-crisis-east-and-central-africa)
         * [Crisis in Syria](https://www.oxfam.org/en/what-we-do/emergencies/crisis-syria)
