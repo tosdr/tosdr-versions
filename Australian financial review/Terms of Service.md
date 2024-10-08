@@ -335,7 +335,6 @@ Advertise
 
 ### [Richard White’s alleged lover claims he expected sex for investment](https://www.afr.com/technology/richard-white-s-alleged-lover-claims-he-expected-sex-for-investment-20241008-p5kgph)
 
-* 1 hr ago
 * Max Mason, Jemima Whyte and Jonathan Shapiro
 
 * ### [Adrenaline rush, light and sound show planned for Mornington cable car](https://www.afr.com/property/commercial/adrenaline-rush-light-and-sound-show-planned-for-mornington-cable-car-20240926-p5kdoo)
