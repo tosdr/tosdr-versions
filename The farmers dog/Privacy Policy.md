@@ -186,12 +186,21 @@ If you have questions or comments about this Privacy Policy or our privacy pract
 * [DIY](https://www.thefarmersdog.com/diy)
 * [Careers](https://www.thefarmersdog.com/careers)We're Hiring!
 * [Affiliates](https://affiliates.thefarmersdog.com/)
-* [Vet Portal](https://vets.thefarmersdog.com/)
+* [For Vet Professionals](https://vets.thefarmersdog.com/)
 * [Breeds](https://www.thefarmersdog.com/breed)
 
-#### ContactAvailable 24/7
+#### Get Support Available 24/7
 
-[\[email protected\]](https://www.thefarmersdog.com/cdn-cgi/l/email-protection)[Instagram](https://instagram.com/thefarmersdog)[Facebook](https://www.facebook.com/thefarmersdog)[\[email protected\]](https://www.thefarmersdog.com/cdn-cgi/l/email-protection)[Partnership Inquiries](https://thefarmersdog.typeform.com/workwithus)
+* [\[email protected\]](https://www.thefarmersdog.com/cdn-cgi/l/email-protection)
+
+#### Connect
+
+* [\[email protected\]](https://www.thefarmersdog.com/cdn-cgi/l/email-protection)
+* [Partnership Inquiries](https://thefarmersdog.typeform.com/workwithus)
+
+* [](https://instagram.com/thefarmersdog)
+* [](https://www.facebook.com/thefarmersdog)
+* [](https://www.tiktok.com/@thefarmersdog)
 
 #### Free Health and Nutrition Tips
 
