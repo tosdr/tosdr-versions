@@ -497,7 +497,7 @@ Plot No 39, Sector 4, IMT Manesar, Gurgaon, Haryana, 122050, India
 
 ### Let customers speak for us
 
-[4809 reviews](https://www.livpure.com/pages/reviews)
+[4810 reviews](https://www.livpure.com/pages/reviews)
 
 [Write a review](#)
 
