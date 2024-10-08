@@ -247,7 +247,7 @@ Health and Safety Tips
 
 ##### **AWARDS & RECOGNITION**
 
-![](/sites/default/files/images/usnews/2023/BCH_Ranked-8Specialties-2023-2024.png)
+![US News 2024-2025](/sites/default/files/inline-images/Badge-ChildrensHospitals-6%20Specialties_0.png)
 
 ##### **CONNECT**
 
