@@ -6,9 +6,9 @@
 
 [All Stories](https://www.cricbuzz.com/cricket-news "Latest Cricket News") [Premium Editorials](https://www.cricbuzz.com/cricket-news/editorial/cb-plus "Premium Articles") [Latest News](https://www.cricbuzz.com/cricket-news/latest-news "Latest Cricket News")[Topics](https://www.cricbuzz.com/cricket-news/info/ "Latest Cricket Topics")[Spotlight](https://www.cricbuzz.com/cricket-news/editorial/spotlight "Cricket Editorials and Specials")[Opinions](https://www.cricbuzz.com/cricket-news/editorial/editorial-list "Latest Cricket Opinions & Editorials")[Specials](https://www.cricbuzz.com/cricket-news/editorial/specials "Latest Cricket Specials")[Stats & Analysis](https://www.cricbuzz.com/cricket-news/editorial/stats-analysis "Latest Cricket Stats & Analysis")[Interviews](https://www.cricbuzz.com/cricket-news/editorial/interviews "Latest Cricket Player Interviews")[Live Blogs](https://www.cricbuzz.com/cricket-news/editorial/live-blogs "Latest Cricket Match live blogs")[Harsha Bhogle](https://www.cricbuzz.com/cricket-news/experts/harsha-bhogle/170 "Articles and Videos by Harsha Bhogle")
 
-[Series](https://www.cricbuzz.com/cricket-schedule/series)
+[Series](https://www.cricbuzz.com/cricket-schedule/series/all)
 
-[Bangladesh tour of India, 2024](https://www.cricbuzz.com/cricket-series/8393/bangladesh-tour-of-india-2024 "Bangladesh tour of India, 2024") [New Zealand tour of India, 2024](https://www.cricbuzz.com/cricket-series/8395/new-zealand-tour-of-india-2024 "New Zealand tour of India, 2024") [South Africa tour of Bangladesh, 2024](https://www.cricbuzz.com/cricket-series/9033/south-africa-tour-of-bangladesh-2024 "South Africa tour of Bangladesh, 2024") [ICC Womens T20 World Cup, 2024](https://www.cricbuzz.com/cricket-series/8071/icc-womens-t20-world-cup-2024 "ICC Womens T20 World Cup, 2024") [Caribbean Premier League 2024](https://www.cricbuzz.com/cricket-series/7855/caribbean-premier-league-2024 "Caribbean Premier League 2024") [Ireland v South Africa in UAE, 2024](https://www.cricbuzz.com/cricket-series/7981/ireland-v-south-africa-in-uae-2024 "Ireland v South Africa in UAE, 2024") [England tour of Pakistan, 2024](https://www.cricbuzz.com/cricket-series/8497/england-tour-of-pakistan-2024 "England tour of Pakistan, 2024") [West Indies tour of Sri Lanka, 2024](https://www.cricbuzz.com/cricket-series/9009/west-indies-tour-of-sri-lanka-2024 "West Indies tour of Sri Lanka, 2024") [Ranji Trophy Elite 2024-25](https://www.cricbuzz.com/cricket-series/8339/ranji-trophy-elite-2024-25 "Ranji Trophy Elite 2024-25") [All Series »](https://www.cricbuzz.com/cricket-schedule/series)
+[Bangladesh tour of India, 2024](https://www.cricbuzz.com/cricket-series/8393/bangladesh-tour-of-india-2024 "Bangladesh tour of India, 2024") [New Zealand tour of India, 2024](https://www.cricbuzz.com/cricket-series/8395/new-zealand-tour-of-india-2024 "New Zealand tour of India, 2024") [South Africa tour of Bangladesh, 2024](https://www.cricbuzz.com/cricket-series/9033/south-africa-tour-of-bangladesh-2024 "South Africa tour of Bangladesh, 2024") [ICC Womens T20 World Cup, 2024](https://www.cricbuzz.com/cricket-series/8071/icc-womens-t20-world-cup-2024 "ICC Womens T20 World Cup, 2024") [Caribbean Premier League 2024](https://www.cricbuzz.com/cricket-series/7855/caribbean-premier-league-2024 "Caribbean Premier League 2024") [Ireland v South Africa in UAE, 2024](https://www.cricbuzz.com/cricket-series/7981/ireland-v-south-africa-in-uae-2024 "Ireland v South Africa in UAE, 2024") [England tour of Pakistan, 2024](https://www.cricbuzz.com/cricket-series/8497/england-tour-of-pakistan-2024 "England tour of Pakistan, 2024") [West Indies tour of Sri Lanka, 2024](https://www.cricbuzz.com/cricket-series/9009/west-indies-tour-of-sri-lanka-2024 "West Indies tour of Sri Lanka, 2024") [Ranji Trophy Elite 2024-25](https://www.cricbuzz.com/cricket-series/8339/ranji-trophy-elite-2024-25 "Ranji Trophy Elite 2024-25") [All Series »](https://www.cricbuzz.com/cricket-schedule/series/all)
 
 [Teams](https://www.cricbuzz.com/cricket-team)
 
@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[IRE vs RSA - Live](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 3rd ODI - Live")[RSAW vs ENGW - ENGW Won](https://www.cricbuzz.com/live-cricket-scores/94604/rsaw-vs-engw-9th-match-group-b-icc-womens-t20-world-cup-2024 "South Africa Women v England Women, 9th Match, Group B - ENGW Won")[PAK vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Stumps")[GAW vs SLK - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92964/gaw-vs-slk-final-caribbean-premier-league-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Final - SLK Won")[BAN vs IND - IND Won](https://www.cricbuzz.com/live-cricket-scores/100238/ban-vs-ind-1st-t20i-bangladesh-tour-of-india-2024 "Bangladesh v India, 1st T20I - IND Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[PAK vs ENG - Lunch](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Lunch")[IRE vs RSA - IRE Won](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 3rd ODI - IRE Won")[RSAW vs ENGW - ENGW Won](https://www.cricbuzz.com/live-cricket-scores/94604/rsaw-vs-engw-9th-match-group-b-icc-womens-t20-world-cup-2024 "South Africa Women v England Women, 9th Match, Group B - ENGW Won")[AUSW vs NZW - Preview](https://www.cricbuzz.com/live-cricket-scores/94613/ausw-vs-nzw-10th-match-group-a-icc-womens-t20-world-cup-2024 "Australia Women v New Zealand Women, 10th Match, Group A - Preview")[GAW vs SLK - SLK Won](https://www.cricbuzz.com/live-cricket-scores/92964/gaw-vs-slk-final-caribbean-premier-league-2024 "Guyana Amazon Warriors v Saint Lucia Kings, Final - SLK Won")
 
 AllLive NowToday
 
@@ -66,13 +66,13 @@ AllLive NowToday
     
 * South Africa vs Ireland, 2024
     
-    [Ireland vs South Africa  LIVE](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-south-africa-vs-ireland-2024 "Ireland v South Africa, 3rd ODI - Live")
+    [Ireland vs South Africa](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-south-africa-vs-ireland-2024 "Ireland v South Africa, 3rd ODI - IRE Won")
     
     3rd ODI
     
 * Pakistan v England, 2024
     
-    [Pakistan vs England](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-pakistan-v-england-2024 "Pakistan v England, 1st Test - Stumps")
+    [Pakistan vs England](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-pakistan-v-england-2024 "Pakistan v England, 1st Test - Lunch")
     
     1st Test
     
@@ -86,17 +86,17 @@ AllLive NowToday
     
 * CSA T20 Challenge
     
-    [North West vs Boland](https://www.cricbuzz.com/live-cricket-scores/103467/nwest-vs-bol-12th-match-csa-t20-challenge "North West v Boland, 12th Match - NWEST Won")
-    
-    12th Match
-    
-* [Lions vs Dolphins](https://www.cricbuzz.com/live-cricket-scores/103456/lions-vs-dol-10th-match-csa-t20-challenge "Lions v Dolphins, 10th Match - LIONS Won")
+    [Lions vs Dolphins](https://www.cricbuzz.com/live-cricket-scores/103456/lions-vs-dol-10th-match-csa-t20-challenge "Lions v Dolphins, 10th Match - LIONS Won")
     
     10th Match
     
 * [Knights vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103447/kng-vs-war-9th-match-csa-t20-challenge "Knights v Warriors, 9th Match - KNG Won")
     
     9th Match
+    
+* [North West vs Boland](https://www.cricbuzz.com/live-cricket-scores/103467/nwest-vs-bol-12th-match-csa-t20-challenge "North West v Boland, 12th Match - NWEST Won")
+    
+    12th Match
     
 * [Titans vs Western Province](https://www.cricbuzz.com/live-cricket-scores/103458/tit-vs-wpr-11th-match-csa-t20-challenge "Titans v Western Province, 11th Match - WPR Won")
     
@@ -154,21 +154,21 @@ AllLive NowToday
     
     Australia Under 19 tour of India
     
-    [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106452/indu19-vs-ausu19-2nd-youth-test-australia-under-19-tour-of-india "India U19 v Australia U19, 2nd Youth Test - Stumps")
+    [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106452/indu19-vs-ausu19-2nd-youth-test-australia-under-19-tour-of-india "India U19 v Australia U19, 2nd Youth Test - Lunch")
     
     2nd Youth Test
     
 * Sheffield Shield 2024-25
     
-    [Victoria vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/102846/vic-vs-tas-2nd-match-sheffield-shield-2024-25 "Victoria v Tasmania, 2nd Match - Preview")
+    [Victoria vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/102846/vic-vs-tas-2nd-match-sheffield-shield-2024-25 "Victoria v Tasmania, 2nd Match - Stumps")
     
     2nd Match
     
-* [New South Wales vs South Australia](https://www.cricbuzz.com/live-cricket-scores/102837/nsw-vs-saus-1st-match-sheffield-shield-2024-25 "New South Wales v South Australia, 1st Match - Preview")
+* [New South Wales vs South Australia](https://www.cricbuzz.com/live-cricket-scores/102837/nsw-vs-saus-1st-match-sheffield-shield-2024-25 "New South Wales v South Australia, 1st Match - Stumps")
     
     1st Match
     
-* [Western Australia vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102853/wa-vs-ql-3rd-match-sheffield-shield-2024-25 "Western Australia v Queensland, 3rd Match - Preview")
+* [Western Australia vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102853/wa-vs-ql-3rd-match-sheffield-shield-2024-25 "Western Australia v Queensland, 3rd Match - Tea")
     
     3rd Match
     
@@ -200,12 +200,6 @@ AllLive NowToday
     
     12th Match, Group A
     
-* Japan Women v Singapore Women
-    
-    [Japan Women vs Singapore Women](https://www.cricbuzz.com/live-cricket-scores/107761/jpnw-vs-sinw-5th-t20i-japan-women-v-singapore-women "Japan Women v Singapore Women, 5th T20I - JPNW Won")
-    
-    5th T20I
-    
 * Womens East Asia Cup 2024
     
     [Hong Kong Women vs Japan Women](https://www.cricbuzz.com/live-cricket-scores/108353/hkw-vs-jpnw-1st-match-womens-east-asia-cup-2024 "Hong Kong Women v Japan Women, 1st Match - Upcoming")
@@ -223,6 +217,14 @@ AllLive NowToday
 * [China Women vs Hong Kong Women](https://www.cricbuzz.com/live-cricket-scores/108371/chnw-vs-hkw-4th-match-womens-east-asia-cup-2024 "China Women v Hong Kong Women, 4th Match - Upcoming")
     
     4th Match
+    
+* [Hong Kong Women vs Mongolia Women](https://www.cricbuzz.com/live-cricket-scores/108379/hkw-vs-mglw-5th-match-womens-east-asia-cup-2024 "Hong Kong Women v Mongolia Women, 5th Match - Upcoming")
+    
+    5th Match
+    
+* [South Korea Women vs Japan Women](https://www.cricbuzz.com/live-cricket-scores/108385/skrw-vs-jpnw-6th-match-womens-east-asia-cup-2024 "South Korea Women v Japan Women, 6th Match - Upcoming")
+    
+    6th Match
     
 
 Privacy Policy
@@ -531,41 +533,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131916/south-africa-seek-return-to-winning-ways-and-nrr-boost "South Africa seek return to winning ways and NRR boost")
+
+[South Africa seek return to winning ways and NRR boost](https://www.cricbuzz.com/cricket-news/131916/south-africa-seek-return-to-winning-ways-and-nrr-boost "South Africa seek return to winning ways and NRR boost")
+
+20m ago
+
+  [](https://www.cricbuzz.com/cricket-news/131915/focus-was-on-running-well-between-wickets-nat-sciver-brunt "Focus was on running well between wickets - Sciver-Brunt")
+
+[Focus was on running well between wickets - Sciver-Brunt](https://www.cricbuzz.com/cricket-news/131915/focus-was-on-running-well-between-wickets-nat-sciver-brunt "Focus was on running well between wickets - Sciver-Brunt")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131914/the-no-3-woes-come-hurting-this-time-for-africa "The No 3 woes come hurting, this time for Africa")
+
+[The No 3 woes come hurting, this time for Africa](https://www.cricbuzz.com/cricket-news/131914/the-no-3-woes-come-hurting-this-time-for-africa "The No 3 woes come hurting, this time for Africa")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131913/stirling-tector-and-bowlers-star-in-irelands-consolation-win "Stirling, Tector and bowlers star in Ireland's consolation win")
+
+[Stirling, Tector and bowlers star in Ireland's consolation win](https://www.cricbuzz.com/cricket-news/131913/stirling-tector-and-bowlers-star-in-irelands-consolation-win "Stirling, Tector and bowlers star in Ireland's consolation win")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/131912/spinners-sciver-brunt-take-pioneer-england-to-second-win "Spinners, Sciver-Brunt pioneer England to second win")
 
 [Spinners, Sciver-Brunt pioneer England to second win](https://www.cricbuzz.com/cricket-news/131912/spinners-sciver-brunt-take-pioneer-england-to-second-win "Spinners, Sciver-Brunt pioneer England to second win")
 
-1h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/131911/shakibs-farewell-test-in-bangladesh-could-be-more-than-a-dream "Shakib's farewell Test in Bangladesh could be more than a dream")
 
 [Shakib's farewell Test in Bangladesh could be more than a dream](https://www.cricbuzz.com/cricket-news/131911/shakibs-farewell-test-in-bangladesh-could-be-more-than-a-dream "Shakib's farewell Test in Bangladesh could be more than a dream")
 
-4h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131910/pakistan-take-first-steps-towards-redemption "Pakistan take first steps towards redemption")
-
-[Pakistan take first steps towards redemption](https://www.cricbuzz.com/cricket-news/131910/pakistan-take-first-steps-towards-redemption "Pakistan take first steps towards redemption")
-
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131909/arundhati-reddy-gets-reprimanded-for-send-off "Arundhati Reddy reprimanded for send-off")
-
-[Arundhati Reddy reprimanded for send-off](https://www.cricbuzz.com/cricket-news/131909/arundhati-reddy-gets-reprimanded-for-send-off "Arundhati Reddy reprimanded for send-off")
-
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131908/masood-shafique-pile-on-the-runs-on-day-1-in-multan "Masood, Shafique pile on the runs on Day 1 in Multan")
-
-[Masood, Shafique pile on the runs on Day 1 in Multan](https://www.cricbuzz.com/cricket-news/131908/masood-shafique-pile-on-the-runs-on-day-1-in-multan "Masood, Shafique pile on the runs on Day 1 in Multan")
-
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131907/masood-shafiques-attack-puts-england-on-the-backfoot "Masood, Shafique's attack puts England on the backfoot")
-
-[Masood, Shafique's attack puts England on the backfoot](https://www.cricbuzz.com/cricket-news/131907/masood-shafiques-attack-puts-england-on-the-backfoot "Masood, Shafique's attack puts England on the backfoot")
-
-8h ago
+16h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
