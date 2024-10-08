@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 7, 2024**
+**October 8, 2024**
 
 * * *
 
@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Challenges in Vaccinations of Adults](https://www.sciencedaily.com/releases/2024/10/241007115102.htm)
 * [New Approach to End Jet Lag](https://www.sciencedaily.com/releases/2024/10/241007115447.htm)
 * [Our Lives in the Mirror of Our Data](https://www.sciencedaily.com/releases/2024/10/241007115253.htm)
 * [Antarctic 'Greening' at Dramatic Rate](https://www.sciencedaily.com/releases/2024/10/241007115554.htm)
@@ -217,7 +218,6 @@ this hour
 * [Two Comb Jellies Can Fuse to Become One](https://www.sciencedaily.com/releases/2024/10/241007114928.htm)
 * [How Pterosaurs Became Terrestrial Titans](https://www.sciencedaily.com/releases/2024/10/241004121701.htm)
 * [Rare Monkey Fossils](https://www.sciencedaily.com/releases/2024/10/241002135241.htm)
-* [Neuroscientists Reactivate Memory Circuit ...](https://www.sciencedaily.com/releases/2024/10/241001124654.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
-
-[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
-
 [COVID and SARS](https://www.sciencedaily.com/news/health_medicine/covid_and_sars/)
+
+[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
+
+[Patient Education and Counseling](https://www.sciencedaily.com/news/health_medicine/patient_education_and_counseling/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
 
-[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
+[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
-[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
+[Hacking](https://www.sciencedaily.com/news/computers_math/hacking/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
+[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
+
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
 [Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
-
-[Soil Types](https://www.sciencedaily.com/news/plants_animals/soil_types/)
 
   
 
