@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 08, 2024](https://www.japantimes.co.jp/archive/2024/10/08/ "archive page")
+[October 09, 2024](https://www.japantimes.co.jp/archive/2024/10/09/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -130,66 +130,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[New Cabinet photo on government website had minor edits, Hayashi admits](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426402.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.")](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[Sure, Tokyo’s trains are amazing. But are they ruining your trip?](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/422148.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.")](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[Comedian Shinji Saito investigated over sexual assault](https://www.japantimes.co.jp/news/2024/10/07/japan/crime-legal/comedian-saito-sexual-assault/ "Comedian Shinji Saito investigated over sexual assault")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![Yoshimoto Kogyo, the agency that manages comedy trio Jungle Pocket, announced in mid-September that group member Shinji Saito had been experiencing health issues and underwent hospitalization, and that he requested a hiatus. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426355.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yoshimoto Kogyo, the agency that manages comedy trio Jungle Pocket, announced in mid-September that group member Shinji Saito had been experiencing health issues and underwent hospitalization, and that he requested a hiatus. ")](https://www.japantimes.co.jp/news/2024/10/07/japan/crime-legal/comedian-saito-sexual-assault/ "Comedian Shinji Saito investigated over sexual assault")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-[Experts move to allay replicon COVID shot fears in Japan amid backlash](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
+[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
-  [![A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426378.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.")](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
+  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
 Editors' Picks
 --------------
 
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+
+By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
+
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[New Cabinet photo on government website had minor edits, Hayashi admits](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426402.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.")](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
-
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
 [LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
-[Sure, Tokyo’s trains are amazing. But are they ruining your trip?](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-By [Justin Randall](https://www.japantimes.co.jp/author/4986/justin-randall/ "Justin Randall")  
+By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
 
-  [![Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/422148.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.")](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+By F.D. Flam  
+
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Comedian Shinji Saito investigated over sexual assault](https://www.japantimes.co.jp/news/2024/10/07/japan/crime-legal/comedian-saito-sexual-assault/ "Comedian Shinji Saito investigated over sexual assault")
+[Tokyo issues warning as rare but deadly STSS bacterial infections rise](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
-  [![Yoshimoto Kogyo, the agency that manages comedy trio Jungle Pocket, announced in mid-September that group member Shinji Saito had been experiencing health issues and underwent hospitalization, and that he requested a hiatus. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426355.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yoshimoto Kogyo, the agency that manages comedy trio Jungle Pocket, announced in mid-September that group member Shinji Saito had been experiencing health issues and underwent hospitalization, and that he requested a hiatus. ")](https://www.japantimes.co.jp/news/2024/10/07/japan/crime-legal/comedian-saito-sexual-assault/ "Comedian Shinji Saito investigated over sexual assault")
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Experts move to allay replicon COVID shot fears in Japan amid backlash](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
-
-By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
-
-  [![A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426378.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.")](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
+  [![A colorized scanning electron micrograph of group A streptococcus bacteria ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/03/24/287951.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A colorized scanning electron micrograph of group A streptococcus bacteria ")](https://www.japantimes.co.jp/news/2024/03/24/japan/science-health/tokyo-issues-warning-for-bacterial-infection-disease/ "Tokyo issues warning as rare but deadly STSS bacterial infections rise")
 
 Podcast
 -------
@@ -252,25 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Retiring former PM Kan calls for another change of government in Japan](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/naoto-kan-retire/ "Retiring former PM Kan calls for another change of government in Japan")
+
+4 hours ago
+
+[Ex-boxer Iwao Hakamata finally exonerated over 1966 murder case](https://www.japantimes.co.jp/news/2024/10/08/japan/crime-legal/hakamata-exonerated/ "Ex-boxer Iwao Hakamata finally exonerated over 1966 murder case")
+
+6 hours ago
+
 [Pair win physics Nobel for machine learning breakthroughs](https://www.japantimes.co.jp/news/2024/10/08/world/science-health/2024-physics-nobel-prize/ "Pair win physics Nobel for machine learning breakthroughs")
 
-4 mins ago
+6 hours ago
 
-[Sapporo schools took inadequate action in sexual assault case, report says](https://www.japantimes.co.jp/news/2024/10/08/japan/crime-legal/sexual-assault-sapporo/ "Sapporo schools took inadequate action in sexual assault case, report says")
+[Sapporo school boy sexually assaulted by junior high student: panel report](https://www.japantimes.co.jp/news/2024/10/08/japan/crime-legal/sexual-assault-sapporo/ "Sapporo school boy sexually assaulted by junior high student: panel report")
 
-1 hours ago
+7 hours ago
 
 [MSDF overpaid ¥81 million for submarine battery charging, sources say](https://www.japantimes.co.jp/news/2024/10/08/japan/msdf-overpayment/ "MSDF overpaid ¥81 million for submarine battery charging, sources say")
 
-1 hours ago
-
-[Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-pm-ishiba-asian-nato/ "Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut")
-
-1 hours ago
-
-[Real wages in Japan drop in August after two months of gains](https://www.japantimes.co.jp/business/2024/10/08/economy/real-wages-fall-august/ "Real wages in Japan drop in August after two months of gains")
-
-1 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
