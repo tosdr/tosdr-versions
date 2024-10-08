@@ -260,6 +260,7 @@ Sign up and get exclusive access to Porn Game updates, unreleased Sex Games and 
 * [Upload](https://sandbox.gamecore.com/upload)
 
 * 🔞© 2008-2024 gamcore.com
+* [RTA Rating](https://gamcore.com/about#rating)
 * [Gamcore Status](https://status.gamcore.cm/)
 * [Porn Games](https://gamcore.com/)
 * [Best Sex Games](https://gamcore.com/best)
