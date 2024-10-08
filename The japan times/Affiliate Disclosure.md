@@ -130,6 +130,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[New Cabinet photo on government website had minor edits, Hayashi admits](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
+
+  [![An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426402.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.")](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
+
 [Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
@@ -138,20 +142,24 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/03/422148.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Walking through Tokyo's varied neighborhoods and the sub-communities within them can be the best way for a tourist, even one with limited time, to take the city in.")](https://www.japantimes.co.jp/life/2024/10/05/travel/tokyo-walking-trains-transport-tips/ "Sure, Tokyo’s trains are amazing. But are they ruining your trip?")
 
-[Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/06/japan/politics/ldp-not-endorse-slush-fund-lawmakers/ "Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election")
+[Comedian Shinji Saito investigated over sexual assault](https://www.japantimes.co.jp/news/2024/10/07/japan/crime-legal/comedian-saito-sexual-assault/ "Comedian Shinji Saito investigated over sexual assault")
 
-  [![Prime Minister Shigeru Ishiba speaks to reporters in Tokyo on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks to reporters in Tokyo on Saturday.")](https://www.japantimes.co.jp/news/2024/10/06/japan/politics/ldp-not-endorse-slush-fund-lawmakers/ "Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election")
+  [![Yoshimoto Kogyo, the agency that manages comedy trio Jungle Pocket, announced in mid-September that group member Shinji Saito had been experiencing health issues and underwent hospitalization, and that he requested a hiatus. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426355.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yoshimoto Kogyo, the agency that manages comedy trio Jungle Pocket, announced in mid-September that group member Shinji Saito had been experiencing health issues and underwent hospitalization, and that he requested a hiatus. ")](https://www.japantimes.co.jp/news/2024/10/07/japan/crime-legal/comedian-saito-sexual-assault/ "Comedian Shinji Saito investigated over sexual assault")
 
-[Important tool or alarmism? Japan experts split on megaquake advisories.](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
+[Experts move to allay replicon COVID shot fears in Japan amid backlash](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
 
-  [![A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day")](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
-
-[Ishiba's U-turn on interest rates surprises market](https://www.japantimes.co.jp/business/2024/10/06/markets/ishiba-interest-rate-remark-surprise/ "Ishiba's U-turn on interest rates surprises market")
-
-  [![Prime Minister Shigeru Ishiba and Bank of Japan Gov. Kazuo Ueda ahead of their meeting on Wednesday. Ishiba's comment after the meeting that he doesn't believe Japan needs an additional interest rate hike has surprised the financial market.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426149.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba and Bank of Japan Gov. Kazuo Ueda ahead of their meeting on Wednesday. Ishiba's comment after the meeting that he doesn't believe Japan needs an additional interest rate hike has surprised the financial market.")](https://www.japantimes.co.jp/business/2024/10/06/markets/ishiba-interest-rate-remark-surprise/ "Ishiba's U-turn on interest rates surprises market")
+  [![A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426378.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.")](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
 
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[New Cabinet photo on government website had minor edits, Hayashi admits](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
+
+By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
+
+  [![An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426402.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.")](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -171,23 +179,17 @@ By [Justin Randall](https://www.japantimes.co.jp/author/4986/justin-randall/ "Ju
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election](https://www.japantimes.co.jp/news/2024/10/06/japan/politics/ldp-not-endorse-slush-fund-lawmakers/ "Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election")
+[Comedian Shinji Saito investigated over sexual assault](https://www.japantimes.co.jp/news/2024/10/07/japan/crime-legal/comedian-saito-sexual-assault/ "Comedian Shinji Saito investigated over sexual assault")
 
-  [![Prime Minister Shigeru Ishiba speaks to reporters in Tokyo on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426219.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks to reporters in Tokyo on Saturday.")](https://www.japantimes.co.jp/news/2024/10/06/japan/politics/ldp-not-endorse-slush-fund-lawmakers/ "Ishiba says LDP will not endorse some 'slush fund' lawmakers in general election")
+  [![Yoshimoto Kogyo, the agency that manages comedy trio Jungle Pocket, announced in mid-September that group member Shinji Saito had been experiencing health issues and underwent hospitalization, and that he requested a hiatus. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426355.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yoshimoto Kogyo, the agency that manages comedy trio Jungle Pocket, announced in mid-September that group member Shinji Saito had been experiencing health issues and underwent hospitalization, and that he requested a hiatus. ")](https://www.japantimes.co.jp/news/2024/10/07/japan/crime-legal/comedian-saito-sexual-assault/ "Comedian Shinji Saito investigated over sexual assault")
 
-[ENVIRONMENT](https://www.japantimes.co.jp/environment/ "ENVIRONMENT")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Important tool or alarmism? Japan experts split on megaquake advisories.](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
+[Experts move to allay replicon COVID shot fears in Japan amid backlash](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
 
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
 
-  [![A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day")](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Ishiba's U-turn on interest rates surprises market](https://www.japantimes.co.jp/business/2024/10/06/markets/ishiba-interest-rate-remark-surprise/ "Ishiba's U-turn on interest rates surprises market")
-
-  [![Prime Minister Shigeru Ishiba and Bank of Japan Gov. Kazuo Ueda ahead of their meeting on Wednesday. Ishiba's comment after the meeting that he doesn't believe Japan needs an additional interest rate hike has surprised the financial market.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426149.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba and Bank of Japan Gov. Kazuo Ueda ahead of their meeting on Wednesday. Ishiba's comment after the meeting that he doesn't believe Japan needs an additional interest rate hike has surprised the financial market.")](https://www.japantimes.co.jp/business/2024/10/06/markets/ishiba-interest-rate-remark-surprise/ "Ishiba's U-turn on interest rates surprises market")
+  [![A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426378.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.")](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
 
 Podcast
 -------
@@ -250,23 +252,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[U.S. investigating whether Chinese hackers breached its telecoms](https://www.japantimes.co.jp/news/2024/10/08/world/crime-legal/nsa-chinese-hackers-us-telecoms/ "U.S. investigating whether Chinese hackers breached its telecoms")
+[Pair win physics Nobel for machine learning breakthroughs](https://www.japantimes.co.jp/news/2024/10/08/world/science-health/2024-physics-nobel-prize/ "Pair win physics Nobel for machine learning breakthroughs")
 
-24 mins ago
+4 mins ago
 
-[LDP linchpin Moriyama has big influence over Ishiba](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-ldp-moriyama-influence/ "LDP linchpin Moriyama has big influence over Ishiba")
-
-46 mins ago
-
-[Six countries conduct naval drills off the Philippines amid China tensions](https://www.japantimes.co.jp/news/2024/10/08/asia-pacific/politics/philippines-naval-drills-regional-tensions/ "Six countries conduct naval drills off the Philippines amid China tensions")
-
-47 mins ago
-
-[Southeast Asian crime networks thriving on Telegram, U.N. reports](https://www.japantimes.co.jp/news/2024/10/08/asia-pacific/crime-legal/southeast-asia-telegram-underground-un/ "Southeast Asian crime networks thriving on Telegram, U.N. reports")
+[Sapporo schools took inadequate action in sexual assault case, report says](https://www.japantimes.co.jp/news/2024/10/08/japan/crime-legal/sexual-assault-sapporo/ "Sapporo schools took inadequate action in sexual assault case, report says")
 
 1 hours ago
 
-[Israel fights on multiple fronts one year into war with Hamas began](https://www.japantimes.co.jp/news/2024/10/08/world/israel-war-hamas-year/ "Israel fights on multiple fronts one year into war with Hamas began")
+[MSDF overpaid ¥81 million for submarine battery charging, sources say](https://www.japantimes.co.jp/news/2024/10/08/japan/msdf-overpayment/ "MSDF overpaid ¥81 million for submarine battery charging, sources say")
+
+1 hours ago
+
+[Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-pm-ishiba-asian-nato/ "Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut")
+
+1 hours ago
+
+[Real wages in Japan drop in August after two months of gains](https://www.japantimes.co.jp/business/2024/10/08/economy/real-wages-fall-august/ "Real wages in Japan drop in August after two months of gains")
 
 1 hours ago
 
