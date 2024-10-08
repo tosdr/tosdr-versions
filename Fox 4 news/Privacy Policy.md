@@ -401,37 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Grammy winner Cissy Houston, Whitney Houston's mother, dies at 91](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-805752718-a.jpg?ve=1&tl=1)
+ [![Study reveals the top Instagrammable NFL stadiums for the 2024/2025 season](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-83361539-1.jpg?ve=1&tl=1)
 
- ![Grammy winner Cissy Houston, Whitney Houston's mother, dies at 91](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-805752718-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cissy-houston-dead)
+ ![Study reveals the top Instagrammable NFL stadiums for the 2024/2025 season](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-83361539-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/most-instagrammable-nfl-stadiums-2024)
 
-Developing
+### [Study reveals the top Instagrammable NFL stadiums for the 2024/2025 season](https://www.fox4news.com/news/most-instagrammable-nfl-stadiums-2024)
 
-### [Grammy winner Cissy Houston, Whitney Houston's mother, dies at 91](https://www.fox4news.com/news/cissy-houston-dead)
+ [![Hurricane forecast: Milton strengthens to Category 5 as Florida orders evacuations](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/milton.jpg?ve=1&tl=1)
 
- [![Plane crashes into Eagle Mountain Lake](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1)
+ ![Hurricane forecast: Milton strengthens to Category 5 as Florida orders evacuations](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/milton.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-watch-milton-category-3-projected-path-florida-october-7)
 
- ![Plane crashes into Eagle Mountain Lake](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
+### [Hurricane forecast: Milton strengthens to Category 5 as Florida orders evacuations](https://www.fox4news.com/news/hurricane-watch-milton-category-3-projected-path-florida-october-7)
 
-### [Plane crashes into Eagle Mountain Lake](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
+ [![Plane crashes into Eagle Mountain Lake, search for victim underway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1)
 
- [![Former world champion runner Kipyegon Bett dies at 26](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/kipyegeon-bett.jpg?ve=1&tl=1)
+ ![Plane crashes into Eagle Mountain Lake, search for victim underway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
 
- ![Former world champion runner Kipyegon Bett dies at 26](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/kipyegeon-bett.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/kipyegon-bett-dies-former-champion-runner)
+### [Plane crashes into Eagle Mountain Lake, search for victim underway](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
 
-### [Former world champion runner Kipyegon Bett dies at 26](https://www.fox4news.com/sports/kipyegon-bett-dies-former-champion-runner)
+ [![For-profit managing Fair Park reveals $2 million shortfall, may need city bailout](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/60434bda-V-FUTURE20OF20FAIR20PARK20530P_00.00.20.25_1533247925008.png_5880069_ver1.0.jpg?ve=1&tl=1)
 
- [![Former Dallas Star Mike Ribeiro pleads guilty to indecent assault](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/GettyImages-131213413.jpg?ve=1&tl=1)
+ ![For-profit managing Fair Park reveals $2 million shortfall, may need city bailout](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/60434bda-V-FUTURE20OF20FAIR20PARK20530P_00.00.20.25_1533247925008.png_5880069_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oak-view-group-fair-park-audit-dallas-city-council-meeting)
 
- ![Former Dallas Star Mike Ribeiro pleads guilty to indecent assault](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/592/333/GettyImages-131213413.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-stars-mike-ribeiro-guilty-indecent-assault)
+### [For-profit managing Fair Park reveals $2 million shortfall, may need city bailout](https://www.fox4news.com/news/oak-view-group-fair-park-audit-dallas-city-council-meeting)
 
-### [Former Dallas Star Mike Ribeiro pleads guilty to indecent assault](https://www.fox4news.com/sports/dallas-stars-mike-ribeiro-guilty-indecent-assault)
+ [![Mega Millions ticket price jumps—Are you ready to pay $5 for a shot at billions?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1576464939.jpg?ve=1&tl=1)
 
- [![Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/hurricane-milton.jpg?ve=1&tl=1)
+ ![Mega Millions ticket price jumps—Are you ready to pay $5 for a shot at billions?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1576464939.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/money/mega-millions-five-dollars-price)
 
- ![Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/hurricane-milton.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-milton-mandatory-evacuations-begin-tampa-bay-area)
-
-### [Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://www.fox4news.com/news/tropical-storm-milton-mandatory-evacuations-begin-tampa-bay-area)
+### [Mega Millions ticket price jumps—Are you ready to pay $5 for a shot at billions?](https://www.fox4news.com/money/mega-millions-five-dollars-price)
 
 ###### [News](https://www.fox4news.com/news)
 
