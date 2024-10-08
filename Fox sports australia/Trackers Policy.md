@@ -40,12 +40,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250201)
 * [Women's T20 WC
     
-    9/10 1:00 AEST
+    AUS won by 60 runs
     
     |     |     |
     | --- | --- |
-    | AUS | –   |
-    | NZL | –   |
+    | AUS | 8 /148 |
+    | NZL | 88  |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250110)
 * [Sheffield Shield
@@ -106,30 +106,8 @@ FOX SCORES
     | GWS | 2.3.15 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240701)
-* NFL
-    
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | KC  | 26  |
-    | NO  | 13  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250522)
 * Baseball
     
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | NYY | 2   |
-    | KC  | 4   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240040024F8E1)
 * [MLB
     
     9/10 8:08 AEST
