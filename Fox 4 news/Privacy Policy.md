@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Pantego deputy fire chief admits to driving drunk in city vehicle, arrest video shows](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/pantego-fire-chief-arrest.png?ve=1&tl=1)
+ [![Plane crashes into Eagle Mountain Lake, victim's body recovered](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1)
 
- ![Pantego deputy fire chief admits to driving drunk in city vehicle, arrest video shows](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/pantego-fire-chief-arrest.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pantego-deputy-fire-chief-robert-franklin-dwi-arrest-video-body-camera)
+ ![Plane crashes into Eagle Mountain Lake, victim's body recovered](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
 
-### [Pantego deputy fire chief admits to driving drunk in city vehicle, arrest video shows](https://www.fox4news.com/news/pantego-deputy-fire-chief-robert-franklin-dwi-arrest-video-body-camera)
+### [Plane crashes into Eagle Mountain Lake, victim's body recovered](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
 
- [![Study reveals the top Instagrammable NFL stadiums for the 2024/2025 season](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-83361539-1.jpg?ve=1&tl=1)
+ [![Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/hurricane-milton.jpg?ve=1&tl=1)
 
- ![Study reveals the top Instagrammable NFL stadiums for the 2024/2025 season](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-83361539-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/most-instagrammable-nfl-stadiums-2024)
+ ![Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/hurricane-milton.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-storm-milton-mandatory-evacuations-begin-tampa-bay-area)
 
-### [Study reveals the top Instagrammable NFL stadiums for the 2024/2025 season](https://www.fox4news.com/news/most-instagrammable-nfl-stadiums-2024)
+### [Hurricane Milton: Mandatory evacuations begin in Tampa Bay Area](https://www.fox4news.com/news/tropical-storm-milton-mandatory-evacuations-begin-tampa-bay-area)
 
- [![Hurricane forecast: Milton strengthens to Category 5 as Florida orders evacuations](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/milton.jpg?ve=1&tl=1)
+ [![Hurricane Milton update: Storm poses ‘extremely serious threat’ to Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/al14_stats-2.gif?ve=1&tl=1)
 
- ![Hurricane forecast: Milton strengthens to Category 5 as Florida orders evacuations](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/milton.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-watch-milton-category-3-projected-path-florida-october-7)
+ ![Hurricane Milton update: Storm poses ‘extremely serious threat’ to Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/al14_stats-2.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-update-extremely-serious-threat-florida-october-8-2024)
 
-### [Hurricane forecast: Milton strengthens to Category 5 as Florida orders evacuations](https://www.fox4news.com/news/hurricane-watch-milton-category-3-projected-path-florida-october-7)
+### [Hurricane Milton update: Storm poses ‘extremely serious threat’ to Florida](https://www.fox4news.com/news/hurricane-milton-update-extremely-serious-threat-florida-october-8-2024)
 
- [![Spooky season for kids: Watch these 7 scary movies this week](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/mixcollage-07-oct-2024-05-43-pm-9724.jpg?ve=1&tl=1)
+ [![Taylor Swift is now the world's richest female musician: Here's who she surpassed](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1821549112.jpg?ve=1&tl=1)
 
- ![Spooky season for kids: Watch these 7 scary movies this week](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/mixcollage-07-oct-2024-05-43-pm-9724.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/spooky-movies-for-kids-what-to-watch-halloween)
+ ![Taylor Swift is now the world's richest female musician: Here's who she surpassed](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1821549112.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/taylor-swift-worlds-richest-female-musician-forbes-2024)
 
-### [Spooky season for kids: Watch these 7 scary movies this week](https://www.fox4news.com/news/spooky-movies-for-kids-what-to-watch-halloween)
+### [Taylor Swift is now the world's richest female musician: Here's who she surpassed](https://www.fox4news.com/news/taylor-swift-worlds-richest-female-musician-forbes-2024)
 
- [![Plane crashes into Eagle Mountain Lake, search for victim underway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1)
+ [![Armed suspect shot by police after suspicious activity reports at Arlington apartment complex](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-arlington-e-lamar-blvd-shooting-4a_kdfw92cd_146__00.00.01.34.jpg?ve=1&tl=1)
 
- ![Plane crashes into Eagle Mountain Lake, search for victim underway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100724-sky-4-mon-1221-kdfweme002_12_21_36_1_mpg_00.17.40.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
+ ![Armed suspect shot by police after suspicious activity reports at Arlington apartment complex](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-arlington-e-lamar-blvd-shooting-4a_kdfw92cd_146__00.00.01.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-officer-shooting-blakey-apartments)
 
-### [Plane crashes into Eagle Mountain Lake, search for victim underway](https://www.fox4news.com/news/plane-crashes-eagle-mountain-lake)
+### [Armed suspect shot by police after suspicious activity reports at Arlington apartment complex](https://www.fox4news.com/news/arlington-officer-shooting-blakey-apartments)
 
 ###### [News](https://www.fox4news.com/news)
 
