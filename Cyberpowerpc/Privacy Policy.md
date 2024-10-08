@@ -176,6 +176,8 @@ Prebuilt Desktops
 
 [All Prebuilt Gaming PCs](https://www.cyberpowerpc.com/category/prebuilt-pcs/)
 
+[Refurbished](https://www.cyberpowerpc.com/category/refurbished-prebuilt-pcs/)
+
 Prebuilt Laptops
 
 [Prebuilt Intel Gaming Laptops](https://www.cyberpowerpc.com/category/intel-prebuilt-laptops/)
@@ -387,6 +389,8 @@ Prebuilt Desktops
 [Prebuilt AMD Gaming PCs](https://www.cyberpowerpc.com/category/amd-prebuilt-systems/)
 
 [All Prebuilt Gaming PCs](https://www.cyberpowerpc.com/category/prebuilt-pcs/)
+
+[Refurbished](https://www.cyberpowerpc.com/category/refurbished-prebuilt-pcs/)
 
 Prebuilt Laptops
 
