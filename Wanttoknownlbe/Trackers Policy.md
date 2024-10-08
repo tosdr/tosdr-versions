@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/loskomen-uit-de-programmas-samen-een-nieuwe-wereld-bouwen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/wat-een-temperatuurstijging-op-aarde-kan-veroorzaken/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
