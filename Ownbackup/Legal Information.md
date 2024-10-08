@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Business Continuity
+
+Salesforce Business Continuity Plan: Best Practices](https://www.ownbackup.com/blog/business-continuity-best-practices-salesforce-platform)
+
 [Government
 
 Why Government Agencies Must Prioritize Data Classification](https://www.ownbackup.com/blog/why-government-agencies-must-prioritize-data-classification)
 
-[Salesforce
+[Cybersecurity
 
-Why Historical Data is Your Secret Weapon for Better Salesforce Reporting](https://www.ownbackup.com/blog/why-historical-data-is-your-secret-weapon-for-better-salesforce-reporting)
-
-[Microsoft Dynamics CRM
-
-Dataverse Resilience: Going Beyond Basic Backups](https://www.ownbackup.com/blog/dataverse-resilience-going-beyond-basic-backups)
+Cybersecurity in 2024: Navigating New Threats and Strengthening SaaS Defenses](https://www.ownbackup.com/blog/cybersecurity-in-2024-navigating-new-threats-and-strengthening-saas-defenses)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Business Continuity
+
+Salesforce Business Continuity Plan: Best Practices](https://www.ownbackup.com/blog/business-continuity-best-practices-salesforce-platform)
+
 [Government
 
 Why Government Agencies Must Prioritize Data Classification](https://www.ownbackup.com/blog/why-government-agencies-must-prioritize-data-classification)
 
-[Salesforce
+[Cybersecurity
 
-Why Historical Data is Your Secret Weapon for Better Salesforce Reporting](https://www.ownbackup.com/blog/why-historical-data-is-your-secret-weapon-for-better-salesforce-reporting)
-
-[Microsoft Dynamics CRM
-
-Dataverse Resilience: Going Beyond Basic Backups](https://www.ownbackup.com/blog/dataverse-resilience-going-beyond-basic-backups)
+Cybersecurity in 2024: Navigating New Threats and Strengthening SaaS Defenses](https://www.ownbackup.com/blog/cybersecurity-in-2024-navigating-new-threats-and-strengthening-saas-defenses)
 
 Company
 
