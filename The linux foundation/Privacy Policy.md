@@ -1,4 +1,4 @@
-🎫 Meet us at KubeCon + CloudNativeCon NA · Nov 12-15 · Salt Lake City [REGISTER TODAY](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/?utm_source=lf&utm_medium=homepage&utm_campaign=KubeCon%20NA%202024&utm_content=hello-bar)
+📦 Prime Your Skills with 40% Savings - 2 DAYS ONLY! [SAVE NOW](https://hubs.la/Q02RxSWr0)
 
 English Japan China Europe
 
