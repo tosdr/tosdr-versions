@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WOI/images/bd6f4bd9-fc45-46eb-a194-6c68472a2748/20241008T011243/bd6f4bd9-fc45-46eb-a194-6c68472a2748_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/bd6f4bd9-fc45-46eb-a194-6c68472a2748/20241008T011243/bd6f4bd9-fc45-46eb-a194-6c68472a2748_360x203.jpg)](https://www.wqad.com/article/news/local/hurricane-helene-relief-efforts-iowans-helping-out-avery-county-airport-relief-site-the-james-clinic-spruce-pine-north-carolina-milton/524-5b2640a7-95a5-47f8-ab91-eba826abb5d6)
+        
+        #### [Central Iowa medical personnel provide care to Hurricane Helene victims](https://www.wqad.com/article/news/local/hurricane-helene-relief-efforts-iowans-helping-out-avery-county-airport-relief-site-the-james-clinic-spruce-pine-north-carolina-milton/524-5b2640a7-95a5-47f8-ab91-eba826abb5d6)
+        
     *  [![](https://media.tegna-media.com/assets/CCT/images/c392c701-bdbe-403f-8a32-b1ca872873ed/20241007T131500/c392c701-bdbe-403f-8a32-b1ca872873ed_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/c392c701-bdbe-403f-8a32-b1ca872873ed/20241007T131500/c392c701-bdbe-403f-8a32-b1ca872873ed_360x203.jpg)](https://www.wqad.com/article/news/nation-world/israel-hamas-conflict/israel-hamas-war-one-year-mark-quad-cities-reflect-protest/526-2c270778-6a3e-4ef2-9cd0-95fdefaff2ea)
         
         #### [Quad Citizens on both sides of the conflict reflect on 1 year mark of Israel-Hamas War](https://www.wqad.com/article/news/nation-world/israel-hamas-conflict/israel-hamas-war-one-year-mark-quad-cities-reflect-protest/526-2c270778-6a3e-4ef2-9cd0-95fdefaff2ea)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a9ea5fac-0b95-4fef-b347-54dfe794f672/20241007T180004/a9ea5fac-0b95-4fef-b347-54dfe794f672_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a9ea5fac-0b95-4fef-b347-54dfe794f672/20241007T180004/a9ea5fac-0b95-4fef-b347-54dfe794f672_360x203.jpg)](https://www.wqad.com/article/life/people/hard-work-determination/hennepin-hundred-ultramarathon-race-illinois-sterling-colona/526-8404d93a-2e43-4e34-8e4e-093afbeb02d0)
-        
-        #### [Hundreds of runners compete in Illinois' only point-to-point, all-trail ultramarathon](https://www.wqad.com/article/life/people/hard-work-determination/hennepin-hundred-ultramarathon-race-illinois-sterling-colona/526-8404d93a-2e43-4e34-8e4e-093afbeb02d0)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/303001c4-8e37-4a1c-9701-a94080a6fba2/20241008T030259/303001c4-8e37-4a1c-9701-a94080a6fba2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/303001c4-8e37-4a1c-9701-a94080a6fba2/20241008T030259/303001c4-8e37-4a1c-9701-a94080a6fba2_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-milton/former-coal-valley-resident-preparing-hurricane-milton/526-cfc63e87-cf97-4cae-8b05-b9fafd219187)
+    *  [![](https://media.tegna-media.com/assets/WMAZ/images/f52a7301-bf23-49ea-82e1-772d394faa02/20241008T135619/f52a7301-bf23-49ea-82e1-772d394faa02_16x9.jpg) ![](https://media.tegna-media.com/assets/WMAZ/images/f52a7301-bf23-49ea-82e1-772d394faa02/20241008T135619/f52a7301-bf23-49ea-82e1-772d394faa02_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/can-scientists-control-the-weather-no/93-151b6797-0458-4804-8429-4fbfb74d21f6)
         
-        #### [Former Coal Valley resident preparing for Hurricane Milton](https://www.wqad.com/article/weather/hurricane/hurricane-milton/former-coal-valley-resident-preparing-hurricane-milton/526-cfc63e87-cf97-4cae-8b05-b9fafd219187)
+        #### [Control the path and power of hurricanes like Milton? Forget it, scientists say](https://www.wqad.com/article/weather/hurricane/can-scientists-control-the-weather-no/93-151b6797-0458-4804-8429-4fbfb74d21f6)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/6416c5b4-13a1-4472-8bf3-609f5962b2f3/20241007T230143/6416c5b4-13a1-4472-8bf3-609f5962b2f3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6416c5b4-13a1-4472-8bf3-609f5962b2f3/20241007T230143/6416c5b4-13a1-4472-8bf3-609f5962b2f3_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/fbd583a7-b8dc-4cd8-88db-cb1a882a6130/20241008T121812/fbd583a7-b8dc-4cd8-88db-cb1a882a6130_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fbd583a7-b8dc-4cd8-88db-cb1a882a6130/20241008T121812/fbd583a7-b8dc-4cd8-88db-cb1a882a6130_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Ample sunshine ahead with dry skies and warmer temperatures](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Sunny skies continue as we head back to the 80s](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-42°
+68°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
