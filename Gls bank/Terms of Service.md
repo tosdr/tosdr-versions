@@ -93,7 +93,7 @@
         Barrierearmut
         
     
-    [![Weiblich gelesene Person auf dem Fahrrad](/media/_processed_/3/6/csm_sparen-78A2713-_2e2747a195.jpg "Wechsle jetzt zur sozial-ökologischen GLS Bank")](https://www.gls.de/konten-karten/konten/kontowechsel/)
+    [![Weiblich gelesene Person auf dem Fahrrad](/media/_processed_/3/6/csm_sparen-78A2713-_a5ff4fe3e8.jpg "Wechsle jetzt zur sozial-ökologischen GLS Bank")](https://www.gls.de/konten-karten/konten/kontowechsel/)
     
     Kontowechsel
     
@@ -138,7 +138,7 @@
         Barrierearmut
         
     
-    [![](/media/_processed_/6/b/csm_anlegen-oekonomisch-530x380_c97f3c4ae9.jpg)](https://www.gls.de/sparen-investieren/ziele/wirksam-anlegen/ "Wirksam Geld anlegen")
+    [![](/media/_processed_/6/b/csm_anlegen-oekonomisch-530x380_d8838e4b04.jpg)](https://www.gls.de/sparen-investieren/ziele/wirksam-anlegen/ "Wirksam Geld anlegen")
     
     Wie anlegen?
     
@@ -206,7 +206,7 @@
         Barrierearmut
         
     
-    [![3 weiblich gelesene Personen und ein Kleinkind auf einer Baustelle](/media/_processed_/2/8/csm_Hof-Praedikow-Wohnprojekt_3cbe121363.jpg "Nachhaltig bauen, modernisieren und finanzieren mit der GLS Bank")](https://www.gls.de/finanzieren/branchen/nachhaltige-immobilie/)
+    [![3 weiblich gelesene Personen und ein Kleinkind auf einer Baustelle](/media/Bilder/Angebote/Branchen/Bauen/Hof-Praedikow-Wohnprojekt.jpg "Nachhaltig bauen, modernisieren und finanzieren mit der GLS Bank")](https://www.gls.de/finanzieren/branchen/nachhaltige-immobilie/)
     
     Nachhaltig Bauen
     
@@ -251,7 +251,7 @@
         Barrierearmut
         
     
-    [![Weiblich gelesene Person mit weißen Haaren ernte gemüse im Garten](/media/_processed_/c/a/csm_Vorsorgen-Hof-Praedikow_3f8e1e946c.jpg "Vorsorgen mit sozial-ökologischen Angeboten der GLS Bank")](https://www.gls.de/vorsorgen/altersvorsorge/ "Rentenangebote sozial-ökologisch")
+    [![Weiblich gelesene Person mit weißen Haaren ernte gemüse im Garten](/media/Bilder/Angebote/Vorsorgen/Vorsorgen-Hof-Praedikow.jpg "Vorsorgen mit sozial-ökologischen Angeboten der GLS Bank")](https://www.gls.de/vorsorgen/altersvorsorge/ "Rentenangebote sozial-ökologisch")
     
     Jetzt für die Rente vorsorgen
     
@@ -322,7 +322,7 @@
         Barrierearmut
         
     
-    [![Die Illustration zeigt Menschen in Interaktion miteinander. Im Vordergrund stehen Windräder und Häuser mit PV-Anlagen.](/media/_processed_/e/8/csm_GLS-Nachhaltigkeitsbericht-2023-V2-335x185_eeb9d1337f.jpg)](https://nachhaltigkeitsbericht.gls.de/ "zum GLS Nachhaltigkeitsbericht")
+    [![Die Illustration zeigt Menschen in Interaktion miteinander. Im Vordergrund stehen Windräder und Häuser mit PV-Anlagen.](/media/_processed_/e/8/csm_GLS-Nachhaltigkeitsbericht-2023-V2-335x185_6cedb444dd.jpg)](https://nachhaltigkeitsbericht.gls.de/ "zum GLS Nachhaltigkeitsbericht")
     
     GLS Nachhaltigkeitsbericht
     
@@ -388,7 +388,7 @@ Es gibt übrigens noch formlose Überweisungen als Freitextbriefe, die einen SEP
 **Noch kein GLS Onlinebanking?**  
 [Hier können Sie sich kostenlos fürs sichere Onlinebanking freischalten.](https://www.gls.de/privatkunden/konto-karten/onlinebanking/onlinebanking-freischalten/) 
 
-![](/media/_processed_/a/d/csm_SEPAueberweisungsvorlage_8f82c0545f.jpg)
+![](/media/Bilder/Angebote/Zahlungsverkehr/SEPA/SEPAueberweisungsvorlage.jpg)
 
 [Wie kann ich in Zukunft Änderungen des PLV oder der AGB´s zustimmen?](#q440292531)
 
@@ -608,7 +608,7 @@ Folge uns
 
 GLS Kundenmagazin
 
-[![Titelbild Bankspiegel](/media/_processed_/b/5/csm_bankspiegel_a1d82f48da.jpg "GLS Kundenmagazin")](https://www.gls.de/gls-bank/aktuelles/bankspiegel/)
+[![Titelbild Bankspiegel](/media/_processed_/b/5/csm_bankspiegel_e6ed689cdd.jpg "GLS Kundenmagazin")](https://www.gls.de/gls-bank/aktuelles/bankspiegel/)
 
 Sozial-ökologisch seit 1974
 ---------------------------
