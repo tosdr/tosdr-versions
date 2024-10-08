@@ -1,4 +1,4 @@
-      Terms of Use - Washington State Local Health Insurance - CHPW                                                             
+      Terms of Use - Washington State Local Health Insurance - CHPW                                                              
 
 [](#)
 
@@ -61,13 +61,13 @@ MENUMENU
 * [Member Center](https://www.chpw.org/member-center/)
     * * * [Member Center Home](https://www.chpw.org/member-center/)
             * [Member Forms & Tools](https://www.chpw.org/member-center/member-forms-tools/)
+            * [Pregnancy Care](https://www.chpw.org/member-center/pregnancy-care/)
             * [Health Management](https://www.chpw.org/member-center/health-management/)
                 * [Care Management](https://www.chpw.org/member-center/health-management/case-management/)
                 * [Diabetes Care Program](https://www.chpw.org/member-center/health-management/diabetes-care-program/)
                 * [Bariatric Care Management](https://www.chpw.org/member-center/health-management/case-management/bariatric-case-management/)
                 * [Community Support Services](https://www.chpw.org/member-center/health-management/community-programs/)
                 * [Health Assessment](https://www.chpw.org/member-center/health-management/health-assessment/)
-            * [Pregnancy Care](https://www.chpw.org/member-center/pregnancy-care/)
             * [Member FAQs](https://www.chpw.org/member-center/member-faqs/)
         * * [Member Resources](https://www.chpw.org/member-center/member-resources/)
                 * [Member Handbook](https://www.chpw.org/member-center/member-resources/plan-and-coverage/member-handbook/)
