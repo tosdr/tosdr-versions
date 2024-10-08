@@ -75,6 +75,14 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled shot of black microSD card.](https://cdn-shop.adafruit.com/230x173/6011-00.jpg)[Official Raspberry Pi A2-Class microSD Card - 64GB Blank
+    
+    $11.95](https://www.adafruit.com/product/6011)
+    
+    ![Angled Shot of the Raspberry Pi-branded A2-Class (32GB) SD Card.](https://cdn-shop.adafruit.com/230x173/6010-00.jpg)[Official Raspberry Pi A2-Class microSD Card - 32GB Blank
+    
+    $9.95](https://www.adafruit.com/product/6010)
+    
     ![Two piece adjustable soldering iron with blobby temperature adjustable body and separate fancy holder](https://cdn-shop.adafruit.com/230x173/1204-03.jpg)[Digital Genuine Hakko FX888DX-010SV (936 upgrade)
     
     $129.95](https://www.adafruit.com/product/1204)
@@ -82,14 +90,6 @@ Search
     ![Angled Shot of the Adafruit I2S Stereo Decoder - UDA1334A Breakout.](https://cdn-shop.adafruit.com/230x173/3678-05.jpg)[Adafruit I2S Stereo Decoder - UDA1334A Breakout
     
     $6.95](https://www.adafruit.com/product/3678)
-    
-    ![Angled shot of black, rectangular hall sensor breakout board.](https://cdn-shop.adafruit.com/230x173/6051-00.jpg)[ScoutMakes DRV5032 Digital Magnetic Hall Effect Sensor
-    
-    $4.95](https://www.adafruit.com/product/6051)
-    
-    ![Demo Shot of the Prop Maker Feather Lego.](https://cdn-shop.adafruit.com/230x173/6054-00.jpg)[Adafruit Feather Mount for LEGO-Compatible Brick Systems
-    
-    $1.50](https://www.adafruit.com/product/6054)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Don't fight forces, use them”
+“ The key to the future of the world is finding the optimistic stories and letting them be known”
 
-[R. Buckminster Fuller](http://en.wikipedia.org/wiki/Buckminster_Fuller)
+[Pete Seeger](http://en.wikipedia.org/wiki/Pete_Seeger)
 
 [](https://www.adafruit.com/about)
 
