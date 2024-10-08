@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Daniel Keith Flaherty and Kayla Flaherty (Gibson County Sheriff's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Daniel-Keith-Flaherty-and-Kayla-Flaherty-432x243.png)](https://lawandcrime.com/crime/rigged-the-vehicle-husband-who-just-beat-wife-to-death-with-hammer-after-she-filed-for-divorce-tried-to-make-it-seem-like-she-had-been-going-to-her-mothers-home-deputies-say/)
+1. [![Left: NEW YORK, NY - AUGUST 04: Martin Shkreli, former chief executive officer of Turing Pharmaceuticals AG, center, pauses while speak to members of the media outside federal court in the Brooklyn borough of New York, U.S., on Friday, Aug. 4, 2017 (People: Martin Shkreli Transmission Ref: MNC1 Hoo-Me.com / MediaPunch/IPX). Right: FILE - New York Attorney General Letitia James speaks during a press briefing, Feb. 16, 2024, in New York. A New York man has been charged with sending death threats to James and the Manhattan judge who presided over former President Donald Trump’s civil suit. (AP Photo/Bebeto Matthews, File)](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Marti-Shkreli-Letitia-James-432x243.jpg)](https://lawandcrime.com/high-profile/his-selfishness-had-consequences-ag-james-takes-victory-lap-as-scotus-rejects-pharma-bro-martin-shkrelis-appeal/)
+    
+    ### ['His selfishness had consequences': AG James takes victory lap as SCOTUS rejects 'Pharma Bro' Martin Shkreli's appeal](https://lawandcrime.com/high-profile/his-selfishness-had-consequences-ag-james-takes-victory-lap-as-scotus-rejects-pharma-bro-martin-shkrelis-appeal/)
+    
+2. [![Allison Schardin](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Allison-Schardin-432x243.jpg)](https://lawandcrime.com/crime/really-creepy-wife-and-mother-met-hockey-players-young-enough-to-be-her-kids-in-hot-tub-while-on-stay%e2%80%90cation-with-family-and-did-the-unthinkable/)
+    
+    ### ['Really creepy' wife and mother met hockey players 'young enough to be her kids' in hot tub while on 'stay‐cation' with family and did the unthinkable](https://lawandcrime.com/crime/really-creepy-wife-and-mother-met-hockey-players-young-enough-to-be-her-kids-in-hot-tub-while-on-stay%e2%80%90cation-with-family-and-did-the-unthinkable/)
+    
+3. [![Background: FILE - Violent rioters loyal to President Donald Trump storm the Capitol in Washington on Jan. 6, 2021 (AP Photo/John Minchillo, File). Insets, left to right: Paul Orta, Jr. walking toward the U.S. Capitol on Jan. 6, 2021; Orta throwing a police barricade over a wall on Capitol grounds (Justice Dept. court filing).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Paul-Orta-Jan.-6-432x243.jpg)](https://lawandcrime.com/high-profile/were-taking-that-s-today-rioter-seen-tossing-police-barricade-confronting-cops-during-jan-6-attack-gets-prison-time/)
+    
+    ### ['We're taking that s--- today!': Rioter seen tossing police barricade, confronting cops during Jan. 6 attack gets prison time](https://lawandcrime.com/high-profile/were-taking-that-s-today-rioter-seen-tossing-police-barricade-confronting-cops-during-jan-6-attack-gets-prison-time/)
+    
+4. [![Daniel Keith Flaherty and Kayla Flaherty (Gibson County Sheriff's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Daniel-Keith-Flaherty-and-Kayla-Flaherty-432x243.png)](https://lawandcrime.com/crime/rigged-the-vehicle-husband-who-just-beat-wife-to-death-with-hammer-after-she-filed-for-divorce-tried-to-make-it-seem-like-she-had-been-going-to-her-mothers-home-deputies-say/)
     
     ### ['Rigged the vehicle': Husband who just beat wife to death with hammer after she filed for divorce tried to make it seem like she had been going to her mother's home, deputies say](https://lawandcrime.com/crime/rigged-the-vehicle-husband-who-just-beat-wife-to-death-with-hammer-after-she-filed-for-divorce-tried-to-make-it-seem-like-she-had-been-going-to-her-mothers-home-deputies-say/)
     
-2. [![Rebekah Edwards](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Rebekah-Edwards-432x243.jpg)](https://lawandcrime.com/crime/you-dont-think-ill-do-it-woman-allegedly-tries-to-kill-boyfriend-for-refusing-to-give-her-anti-anxiety-meds/)
+5. [![Gloria Williams and Kendrick Lee](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Gloria-Williams-and-Kendrick-Lee-432x243.jpg)](https://lawandcrime.com/crime/mother-who-let-boyfriend-beat-8-year-old-son-to-death-before-forcing-the-boys-siblings-to-live-with-his-body-for-a-year-is-going-to-prison/)
     
-    ### ['You don’t think I’ll do it?:' Woman allegedly tries to kill boyfriend for refusing to give her anti-anxiety meds](https://lawandcrime.com/crime/you-dont-think-ill-do-it-woman-allegedly-tries-to-kill-boyfriend-for-refusing-to-give-her-anti-anxiety-meds/)
-    
-3. [![Matthew Dedmon, Joe Newburn](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Matthew-Dedmon-Joe-Newburn-432x243.jpg)](https://lawandcrime.com/crime/pastor-charged-with-first-degree-murder-of-man-tracked-down-at-restaurant-and-shot-over-affair-with-wife-just-got-a-chance-to-get-out-of-jail-on-30000-bond/)
-    
-    ### [Pastor charged with first-degree murder of man tracked down at restaurant and shot over affair with wife just got a chance to get out of jail on $30,000 bond](https://lawandcrime.com/crime/pastor-charged-with-first-degree-murder-of-man-tracked-down-at-restaurant-and-shot-over-affair-with-wife-just-got-a-chance-to-get-out-of-jail-on-30000-bond/)
-    
-4. [![Thomas Kwan](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Thomas-Kwan-432x243.jpg)](https://lawandcrime.com/crime/utterly-despicable-doctor-in-disguise-poisoned-mothers-partner-with-flesh-eating-disease-cloaked-as-covid-booster/)
-    
-    ### ['Utterly despicable' doctor in disguise poisoned mother's partner with flesh-eating disease cloaked as COVID booster](https://lawandcrime.com/crime/utterly-despicable-doctor-in-disguise-poisoned-mothers-partner-with-flesh-eating-disease-cloaked-as-covid-booster/)
-    
-5. [![Left: Former President Donald Trump speaks at a campaign rally, Tuesday Aug. 8, 2023, at Windham High School in Windham, N.H. (AP Photo/Robert F. Bukaty). Center: FILE - Special counsel Jack Smith speaks to the media about an indictment of former President Donald Trump, Aug. 1, 2023, at an office of the Department of Justice in Washington. Special counsel Jack Smith obtained search warrant for Twitter to turn over info on Trump's account, court documents say. (AP Photo/J. Scott Applewhite, File). Right: FILE - Elon Musk leaves the Phillip Burton Federal Building and United States Court House in San Francisco, Tuesday, Jan. 24, 2023. A federal appeals court Friday, July 21, said it will reconsider its March ruling that Musk unlawfully threatened employees with a loss of stock options in a 2018 Twitter post amid an organizing effort by the United Auto Workers union. (AP Photo/ Benjamin Fanjoy, File)](https://am23.mediaite.com/lc/cnt/uploads/2023/08/Donald-Trump-Jack-Smith-Elon-Musk-432x243.jpg)](https://lawandcrime.com/supreme-court/supreme-court-turns-away-elon-musk-and-x-complaint-about-jack-smith-warrant/)
-    
-    ### [Supreme Court justices don't offer any explanation as they turn away Elon Musk and X's complaints about Jack Smith warrant for Trump's DMs in Jan. 6 probe](https://lawandcrime.com/supreme-court/supreme-court-turns-away-elon-musk-and-x-complaint-about-jack-smith-warrant/)
+    ### [Mother who let boyfriend beat 8-year-old son to death before forcing the boy's siblings to live with his body for a year is going to prison](https://lawandcrime.com/crime/mother-who-let-boyfriend-beat-8-year-old-son-to-death-before-forcing-the-boys-siblings-to-live-with-his-body-for-a-year-is-going-to-prison/)
     
 
 [](http://eepurl.com/c89Jdb)
