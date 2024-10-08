@@ -273,7 +273,7 @@ You may receive email offers from us in accordance with our [Privacy Policy](htt
     * [Meet The System](https://simplisafe.com/meet-the-system)
     * [Outdoor Security Camera](https://simplisafe.com/outdoor-security-camera)
     * [Indoor Camera](https://simplisafe.com/smart-alarm-wireless-indoor-camera)
-    * [Smart Lock](https://simplisafe.com/smart-lock)
+    * [Smart Lock](https://simplisafe.com/smart-lock-series-2)
     * [Video Doorbell Pro](https://simplisafe.com/video-doorbell-pro)
     * [Protectors Discount](https://simplisafe.com/protectors)
     * [Expand My System](https://simplisafe.com/alarm-sensors)
