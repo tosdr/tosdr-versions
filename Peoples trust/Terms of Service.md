@@ -1,6 +1,6 @@
-**Notice:** Due to a planned system upgrade, Interac e-Transfer will be unavailable intermittently between the hours of approximately 12:30 am – 3:00 am PT (3:30 am - 6:00 am ET) on Sunday October 06, 2024. We apologize for any inconvenience.
+**Notice:** Due to a planned system upgrade, the online account opening application will be unavailable between 8:00 am – 8:30am PT (5:00 am – 05:30 am ET) on Tuesday Oct 08, 2024. We apologize for any inconvenience.
 
-**Attention:** En raison d'une mise à jour de nos systèmes, les Virements Interac seront indisponibles par intermittence le Dimanche 06 Octobre 2024 entre 00 h 30 et 03 h 00 heure du Pacifique (3 h 30 - 06 h 00 heure de l'Est). Nous vous présentons toutes nos excuses pour ce désagrément.
+**Attention:** En raison d'une mise à jour du système, l'application d'ouverture de compte en ligne seront inaccessibles entre 8 h 00 et 8 h 30 heure du Pacifique (05 h 00 et 05 h 30 heure de l'Est), le Mardi 08 Octobre 2024. Nous sommes désolés pour ce désagrément.
 
 ### **Website Terms & Conditions of Use**
 
