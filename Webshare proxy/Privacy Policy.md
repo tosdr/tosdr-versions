@@ -42,7 +42,7 @@ Oops! Something went wrong while submitting the form.
 
 [![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64e8bb146138e4eb28353321_Webshare%20Logo.svg)](https://www.webshare.io/)
 
-[Sign Up](https://proxy2.webshare.io/register/?source=nav_register)
+[Sign Up](https://dashboard.webshare.io/register/?source=nav_register)
 
 [![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/662f5777ed20ad2ceb1199ca_New_logo.svg)](https://www.webshare.io/)
 
@@ -215,7 +215,7 @@ Learn scraping using popular libraries and frameworks using JavaScript or Python
 
 No credit card required.
 
-[Get 10 Free Proxies](https://proxy2.webshare.io/register)
+[Get 10 Free Proxies](https://dashboard.webshare.io/register)
 
 [Talk To Sales](#)[Log In](https://dashboard.webshare.io/login/?source=nav_login)[Sign Up](https://dashboard.webshare.io/register/?source=nav_register)
 
