@@ -58,7 +58,7 @@
 
 [👤 Mein Duden ▻](#listview-mein-duden)
 
-[Wörterbuch ▻](#listview-wrterbuch)
+[Wörterbuch](https://www.duden.de/woerterbuch)
 
 [Textprüfung](https://mentor.duden.de/?utm_source=duden_de&utm_medium=leadgen_int&utm_campaign=topnavi&utm_content=textpruefung)
 
@@ -87,14 +87,6 @@
 [Werbe- und Trackingfreiheit](https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbefreiheit_usermenu)
 
 [Kundenservice](https://www.duden.de/support)
-
-[◁ Wörterbuch](#listview-root)
-
-[Deklination](https://www.duden.de/deklination)
-
-[Konjugation](https://www.duden.de/konjugation)
-
-[Synonyme](https://www.duden.de/synonyme)
 
 [◁ Digitale Angebote](#listview-root)
 
@@ -158,7 +150,7 @@
 
 [Sprachwelten entdecken](https://www.duden.de/unsere-produkte/sprache-entdecken/erwachsene)
 
-[Sprache entdecken für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/sprache-entdecken/kinder-jugendliche)
+[Die Welt der Sprache für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/sprache-entdecken/kinder-jugendliche)
 
 [◁ Lernen und rätseln](#listview-produkte)
 
