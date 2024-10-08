@@ -98,7 +98,6 @@ We send newsletters to inform you about our games and game innovations. We proce
 When you use our games, the login data (username, user ID, password), game progress, game statistics and game usage, communication data (for in-game messages or use of the chat function) and, if paid services are used in the game or paid items are purchased, payment data (credit card information, bank details, PayPal data, etc.) are processed in addition to the usage data that is automatically collected (see above),
 
 If you have been a user of our games for a long time, please note that we also use data from our predecessor company, Bigpoint S.à.r.l. & Co, SCS, 10A rue Henri M. Schnadt, L-2530 Luxembourg. This is the inventory data we require to enable us to continue providing our games to you without interruption (this applies in particular to game progress, game scores and information about the purchase and billing of services).
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 For what purpose do we use your data and what is the legal basis for such use?
 ------------------------------------------------------------------------------
@@ -146,7 +145,6 @@ Data processing is carried out to prevent, investigate and report criminal offen
 **Fulfilment of our legal obligations**
 
 In cases where we are under a legal obligation to disclose data, e.g. to law enforcement authorities, or where we have to fulfil statutory retention periods, data processing is carried out on the legal basis of Art. 6, para 1, lit. c GDPR.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Cookies
 -------
