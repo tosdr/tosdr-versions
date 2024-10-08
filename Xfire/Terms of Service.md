@@ -1,5 +1,5 @@
 * [Game News](https://www.xfire.com/news/)
-* [Game Reviews](#)
+* [Game Ranks & Reviews](https://www.xfire.com/games/)
     * [PC](https://www.xfire.com/game-platform/pc/)
     * [PlayStation 5](https://www.xfire.com/game-platform/playstation5/)
     * [Xbox Series X](https://www.xfire.com/game-platform/xbox-series-x/)
