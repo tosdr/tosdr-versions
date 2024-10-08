@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Invisible Machine: Electromagnetic Warfare](/wp-content/thumbnails/966-100x70.jpg?x53432)
+* [![Chris Benoit: A Fight To The Death](/wp-content/thumbnails/10681-100x70.jpg?x53432)
     
-    The Invisible Machine: Electromagnetic Warfare
+    Chris Benoit: A Fight To The Death
     
-    Imagine the future – a strange new weapon is detonated high over a large city. There is no explosion, no visible destruction, but everything electronic within the range of this weapon will go out … pe](https://documentaryheaven.com/the-invisible-machine-electromagnetic-warfare/ "The Invisible Machine: Electromagnetic Warfare")
-* [![The Bermuda Triangle](/wp-content/thumbnails/893-100x70.jpg?x53432)
+    Before anyone had heard of Vince McMahon, WWE Raw or Friday Night Smackdown, a true wrestling tradition took place on Friday nights in the Stampede Grounds of Calgary and some of those who wrestl](https://documentaryheaven.com/chris-benoit-fight-to-death/ "Chris Benoit: A Fight To The Death")
+* [![Food Matters](/wp-content/thumbnails/4591-100x70.png?x53432)
     
-    The Bermuda Triangle
+    Food Matters
     
-    First part of the video talks about Flight 19, the American aircraft that went missing after flying over the Bermuda triangle. This was just slightly after the end of World War II. Few other cases wer](https://documentaryheaven.com/the-bermuda-triangle/ "The Bermuda Triangle")
-* [![Blind Spot](/wp-content/thumbnails/5024-100x70.jpg?x53432)
+    “Let thy Food be thy Medicine and thy Medicine be thy Food” – Hippocrates. That is the message from the founding father of modern medicine echoed in the controversial new documentary film Food Matters](https://documentaryheaven.com/food-matters/ "Food Matters")
+* [![Legend of the Crystal Skulls](/wp-content/thumbnails/1646-100x70.jpg?x53432)
     
-    Blind Spot
+    Legend of the Crystal Skulls
     
-    Blind Spot is a documentary that establishes the inextricable link between the energy we use, the way we run our economy and the effect it has had on our environment.It takes as a starting point t](https://documentaryheaven.com/blind-spot/ "Blind Spot")
-* [![First Peoples: Europe](/wp-content/thumbnails/10204-100x70.jpg?x53432)
+    Skulls are humanity's foremost symbol of death, and a powerful icon in the visual vocabularies of cultures all over the globe. Thirteen crystal skulls of apparently ancient origin have been found in p](https://documentaryheaven.com/legend-of-the-crystal-skulls/ "Legend of the Crystal Skulls")
+* [![Darwin’s Nightmare](/wp-content/thumbnails/819-100x70.png?x53432)
     
-    First Peoples: Europe
+    Darwin’s Nightmare
     
-    Today we have Europe to ourselves we are all modern humans but when we first arrived in this land it was already a home for our cousins, the Neanderthals. We used to think that we were so much more ad](https://documentaryheaven.com/first-peoples-europe/ "First Peoples: Europe")
-* [![The Truth About Your Medicine Cabinet](/wp-content/thumbnails/10032-100x70.jpg?x53432)
+    A harrowing, hard-hitting documentary which shows the devastating effects of the “globalized” economy on the residents of a fishing village in Tanzania. The story starts four decades ago when a specie](https://documentaryheaven.com/darwin%e2%80%99s-nightmare/ "Darwin’s Nightmare")
+* [![China’s Tortured Beauties](/wp-content/thumbnails/7200-100x70.jpg?x53432)
     
-    The Truth About Your Medicine Cabinet
+    China’s Tortured Beauties
     
-    Walk into any chemist shop and you will be bombarded by an array of pills and potions in bright shinny packages that claim to be able to treat almost any imaginable ailment from runny noses to spots,](https://documentaryheaven.com/truth-about-your-medicine-cabinet/ "The Truth About Your Medicine Cabinet")
+    This documentary takes a look at how modern China is working hard to give itself a new image. And now a frightening new craze for Western-style beauty is driving a nationwide boom in dangerous and dra](https://documentaryheaven.com/chinas-tortured-beauties/ "China’s Tortured Beauties")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
