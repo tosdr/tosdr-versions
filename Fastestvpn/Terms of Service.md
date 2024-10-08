@@ -68,7 +68,7 @@ We urge you to read the terms and conditions on a regular but timely basis to st
 
 #### SUBSCRIPTION AND AUTO-RENEWALS
 
-FastestVPN is a paid service; apply for a subscription plan to get started. Subscription costs: $10/month, $2.49 for 1-year plan, and $1.11/mo. for a 3-year plan. Taxes/VAT may apply.
+FastestVPN is a paid service; apply for a subscription plan to get started. Subscription costs: $10/month, $2.49/mo. for 1-year plan, and $1.11/mo. for a 3-year plan. Taxes/VAT may apply.
 
 Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period, in accordance with the platform you’re using.
 
