@@ -97,46 +97,46 @@ Authors of the website:
 
 *  [![](/img/collective-logo.svg) The “Neutral Language Council” collective](https://en.pronouns.page/team)  
     We are a queer collective dedicated to assembling, researching, shaping and promoting gender neutral and nonbinary language. We also support actions towards equality and social justice.
-* lucjan [@kaslucji](https://en.pronouns.page/@kaslucji)  
-    moderation, terminology
-* Andrea Vos [@andrea](https://en.pronouns.page/@andrea)  
-    code, language, blog, project coordination, user support
 * tecc [@tecc](https://en.pronouns.page/@tecc)  
     programming, sysadmin, nitpicking
-* Kory [@kory\_warning](https://en.pronouns.page/@kory_warning)  
-    translation, moderation, administration
-* アンディ [@and.y](https://en.pronouns.page/@and.y)  
-    Moderation, Sources, Reports
+* Claudio Nicoli Pannacci [@kappanneo](https://en.pronouns.page/@kappanneo)  
+    English, Swedish, Italian (work in progress), Upcoming language versions
+* Torryn June 🌟 [@torrynjune](https://en.pronouns.page/@torrynjune)  
+    German (Deutsch), administration, moderation, terminology, language, support
+* Thomas Vos [@T\_Vos](https://en.pronouns.page/@T_Vos)  
+    Project manager, User support, social media, English, Polish
+* Paweł Dembowski [@ausir](https://en.pronouns.page/@ausir)  
+    language, sources
+* lucjan [@kaslucji](https://en.pronouns.page/@kaslucji)  
+    moderation, terminology
+* Wren [@wrac4242](https://en.pronouns.page/@wrac4242)  
+    Moderation, Technical
+* faera ☆ [@celestialflowers](https://en.pronouns.page/@celestialflowers)  
+    moderation, english
+* Avery (They/Them) [@realAvery](https://en.pronouns.page/@realAvery)  
+    Moderation, Technical
+* Kevin [@kevinn](https://en.pronouns.page/@kevinn)  
+    moderation, technical
+* \- Juniper [@botanicalyhuman](https://en.pronouns.page/@botanicalyhuman)  
+    Moderation, Bans, Terminology
 * Jacob [@Fishmael](https://en.pronouns.page/@Fishmael)  
     English, Russian, moderation
 * Laker T. [@laker](https://en.pronouns.page/@laker)  
     Moderation, Sources
-* Diego M. [@GreenWithin](https://en.pronouns.page/@GreenWithin)  
-    English, Spanish (Español), Design, Translation, Moderation
-* Wren [@wrac4242](https://en.pronouns.page/@wrac4242)  
-    Moderation, Technical
-* Asher [@jerryv](https://en.pronouns.page/@jerryv)  
-    moderation
-* \- Juniper [@botanicalyhuman](https://en.pronouns.page/@botanicalyhuman)  
-    Moderation, Bans, Terminology
-* Benjamin [@therealbenpai](https://en.pronouns.page/@therealbenpai)  
-    Moderation, Development, Community Programs, Support Services
-* Avery (They/Them) [@realAvery](https://en.pronouns.page/@realAvery)  
-    Moderation, Technical
-* faera ☆ [@celestialflowers](https://en.pronouns.page/@celestialflowers)  
-    moderation, english
+* Kory [@kory\_warning](https://en.pronouns.page/@kory_warning)  
+    translation, moderation, administration
 * Szymon Misiek [@szymon](https://en.pronouns.page/@szymon)  
     language, sources
-* Torryn June 🌟 [@torrynjune](https://en.pronouns.page/@torrynjune)  
-    German (Deutsch), administration, moderation, terminology, language, support
-* Kevin [@kevinn](https://en.pronouns.page/@kevinn)  
-    moderation, technical
-* Paweł Dembowski [@ausir](https://en.pronouns.page/@ausir)  
-    language, sources
-* Thomas Vos [@T\_Vos](https://en.pronouns.page/@T_Vos)  
-    Project manager, User support, social media, English, Polish
-* Claudio Nicoli Pannacci [@kappanneo](https://en.pronouns.page/@kappanneo)  
-    English, Swedish, Italian (work in progress), Upcoming language versions
+* Asher [@jerryv](https://en.pronouns.page/@jerryv)  
+    moderation
+* アンディ [@and.y](https://en.pronouns.page/@and.y)  
+    Moderation, Sources, Reports
+* Benjamin [@therealbenpai](https://en.pronouns.page/@therealbenpai)  
+    Moderation, Development, Community Programs, Support Services
+* Andrea Vos [@andrea](https://en.pronouns.page/@andrea)  
+    code, language, blog, project coordination, user support
+* Diego M. [@GreenWithin](https://en.pronouns.page/@GreenWithin)  
+    English, Spanish (Español), Design, Translation, Moderation
 
 Contact & social media:
 
@@ -192,9 +192,9 @@ Stats:
 **all language versions** | [only this version](#)
 
 * Cards: **1M**
-* Unique visitors: **449.3k** / month
-* Page views: **1.9M** / month
-* Currently online: **53**
+* Unique visitors: **423.5k** / month
+* Page views: **1.8M** / month
+* Currently online: **38**
 * Registered users: **996.6k**
 * [heartbeat](https://heartbeat.pronouns.page/)
 
