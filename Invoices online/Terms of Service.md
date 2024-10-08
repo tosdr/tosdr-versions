@@ -197,57 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Henry Venter
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=162483612)  
-Oak Tree Immigration
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=96129098)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=212742994)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=170104135)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=13139731)  
-SLOANE STAR MEAT MARKET
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=69921367)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=15310154)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=172083082)  
+Multi CNC Solutions CC
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=96713556)  
-Hydroworld T/A Milliqua
-
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=121712259)  
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=160048793)  
 Fox Alarms & Security
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=116556920)  
-Redlum Group (Pty) Ltd
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=166093465)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=173763795)  
-Henry's Home Renovations
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=187340631)  
+MONSTER SECURITY SERVICES
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=55254770)  
-MOSELA GROUP Pty(ltd)
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=13829411)  
+Alliance Energy
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=27265806)  
-Norton Medical & Consult - Namibia
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=96895559)  
+CBR Verwe/Paints
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=59737717)  
-Kainos (Pty) Ltd
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=170956648)  
+CLEVER STUDENTS
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=93909419)  
-Network Grey (Pty) Ltd
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=79586544)  
+Vplay Grafix
 
-![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=211806982)  
-PHESA TECHNOLOGY(PTY) LTD
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=46343411)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=18247686)  
-McKaynine Mobility
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=108749065)  
+Imvubu General Trading
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=458fe13ad5f62693573e239f71b7bb02d1a350013e32e59887fcf27076090fa7&c=101076711)  
-van Schaik rentals
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=65714689)  
+SR Travel Services
+
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=562e1cd69c23e363abe5990672fd3a44eb68f5d658ddeb67e95ecd0f8fbdf6bf&c=200941608)  
+VIR Electrical (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
