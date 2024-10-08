@@ -64,6 +64,12 @@ By selecting to choose later, you are choosing not to view state specific conten
 
 [![Dominion Energy Logo](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dom/identity/dom-white-logo.svg?iar=0&rev=73236dac9f0845e7a6ec95d83730f9a0&hash=42BB56FC44170C76C17DFC97673DFB00)](https://www.dominionenergy.com/)
 
+![alert](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/shape.svg?v=20240917092612)
+
+\> ALERT: We are conducting an upgrade to our site.  If you experience a power outage during this time, please call us at [1-866-366-4357](tel:+18663664357). We apologize for any inconvenience and appreciate your patience.
+
+ [![toggle](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/angle-arrow-down.svg?v=20240917092612)](#)[](#)[![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20240917092612)](#)
+
 [Close](#)
 
 [![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20240917092612)Close](#)
@@ -100,6 +106,12 @@ Alerts
 * [Start/Stop Service](javascript:desktopLocation.locationSelector('{9B01140F-3E00-410A-8EC1-BFA00D7024A9}'))
 * [Save Energy & Money](javascript:desktopLocation.locationSelector('{8A769D0A-E8EA-4280-9A19-086818C43542}'))
 * [Our Stories](https://www.dominionenergy.com/our-stories)
+
+![alert](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/shape.svg?v=20240917092612)
+
+ALERT: We are conducting an upgrade to our site.  If you experience a power outage during this time, please call us at [1-866-366-4357](tel:+18663664357). We apologize for any inconvenience and appreciate your patience.
+
+ [![toggle](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/angle-arrow-down.svg?v=20240917092612)](#)[](#)[![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20240917092612)](#)
 
 * [Home](https://www.dominionenergy.com/) 
 
