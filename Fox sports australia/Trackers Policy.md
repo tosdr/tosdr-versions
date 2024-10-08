@@ -14,28 +14,18 @@ FOX SCORES
 * NHL
 * US Sports
 
-* NRL
+* Motorsport
     
-* [NRL
+* [Supercars
     
-    Complete
+    10/10 13:20 AEST
     
-    |     |     |
-    | --- | --- |
-    | MEL | 6   |
-    | PEN | 14  |
+    |     |
+    | --- |
+    | Bathurst 1000 |
+    |     |
     
-    Match Centre](https://www.foxsports.com.au/nrl/nrl-premiership/match-centre/NRL20243101/match-report)
-* [NRL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | SYD | 32  |
-    | CRO | 28  |
-    
-    Match Centre](https://www.foxsports.com.au/nrl/nrlw/match-centre/NRLW20241101)
+    Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=744)
 * Cricket
     
 * [Men's Test
@@ -58,24 +48,30 @@ FOX SCORES
     | RSA | 6 /124 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250109)
-* [Sheffield Shield
+* [Men's ODI
     
-    8/10 10:30 AEST
+    IRL won by 69 runs
     
     |     |     |
     | --- | --- |
-    | VIC | –   |
-    | TAS | –   |
+    | IRL | 9 /284 |
+    | RSA | 215 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240803)
+* [Sheffield Shield
+    
+    |     |     |
+    | --- | --- |
+    | VIC | 2 /79 |
+    | TAS |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250102)
 * [Sheffield Shield
     
-    8/10 10:30 AEST
-    
     |     |     |
     | --- | --- |
-    | NSW | –   |
-    | SA  | –   |
+    | NSW | 1 /61 |
+    | SA  |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250101)
 * [Sheffield Shield
@@ -88,60 +84,72 @@ FOX SCORES
     | QLD | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250103)
+* NRL
+    
+* [Women's PM XIII
+    
+    13/10 14:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PPMW | –   |
+    | APMW | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/rugby-league-world-cup/match-centre/WPM1320240101)
+* [Men's PM XIII
+    
+    13/10 16:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PPM | –   |
+    | APM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/nrl/prime-ministers-13/match-centre/PM1320240101)
+* AFL
+    
+* [AFL Women's
+    
+    8/10 19:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | STK | –   |
+    | GWS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240701)
 * NFL
     
 * [NFL
     
-    Full Time
+    Half Time
     
     |     |     |
     | --- | --- |
-    | PIT | 17  |
-    | DAL | 20  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250521)
-* [NFL
-    
-    8/10 11:15 AEST
-    
-    |     |     |
-    | --- | --- |
-    | KC  | –   |
-    | NO  | –   |
+    | KC  | 16  |
+    | NO  | 7   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250522)
-* Motorsport
-    
-* [Supercars
-    
-    10/10 13:20 AEST
-    
-    |     |
-    | --- |
-    | Bathurst 1000 |
-    |     |
-    
-    Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=744)
 * Baseball
     
 * [MLB
     
-    8/10 7:08 AEST
+    Final
     
     |     |     |
     | --- | --- |
-    | CLE | –   |
-    | DET | –   |
+    | CLE | 0   |
+    | DET | 3   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002A78C8)
 * [MLB
     
-    8/10 10:38 AEST
+    Top 7th Innings
     
     |     |     |
     | --- | --- |
-    | NYY | –   |
-    | KC  | –   |
+    | NYY | 1   |
+    | KC  | 4   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240040024F8E1)
 
