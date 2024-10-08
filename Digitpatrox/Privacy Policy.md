@@ -20,16 +20,16 @@ Tuesday, October 8 2024
 
 Latest
 
-* [Cisco’s ‘savvy’ CoreWeave deal will supercharge its AI ambitions](https://digitpatrox.com/ciscos-savvy-coreweave-deal-will-supercharge-its-ai-ambitions/)
-* [15 Notable Cyberattacks and Data Breaches](https://digitpatrox.com/15-notable-cyberattacks-and-data-breaches/)
-* [NYT Connections today hints and answers — Tuesday, October 8 (#485)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-october-8-485/)
-* [MoneyGram confirms hackers stole customer data in cyberattack](https://digitpatrox.com/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
-* [How to set up sleep schedules in iOS](https://digitpatrox.com/how-to-set-up-sleep-schedules-in-ios/)
-* [Apple’s next MacBook Pros might have leaked in Russia](https://digitpatrox.com/apples-next-macbook-pros-might-have-leaked-in-russia/)
-* [NYT Connections Today: Hints and Answers for October 8, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-8-2024/)
-* [7 Best SMTP Servers for Email Marketing 2024](https://digitpatrox.com/7-best-smtp-servers-for-email-marketing-2024/)
-* [Is there any future for the IT helpdesk? AI and automation could render it ‘redundant’ within three years](https://digitpatrox.com/is-there-any-future-for-the-it-helpdesk-ai-and-automation-could-render-it-redundant-within-three-years/)
-* [EU ruling clamps down on Meta’s use of personal data for ads – Computerworld](https://digitpatrox.com/eu-ruling-clamps-down-on-metas-use-of-personal-data-for-ads-computerworld/)
+* [You Can Get This HP EliteBook on Sale for $320 Right Now](https://digitpatrox.com/you-can-get-this-hp-elitebook-on-sale-for-320-right-now/)
+* [Toyota Corolla Cross Hybrid Recalled for Braking Proble](https://digitpatrox.com/toyota-corolla-cross-hybrid-recalled-for-braking-proble/)
+* [Forget 5G, People Were Once Scared of Monitor Radiation](https://digitpatrox.com/forget-5g-people-were-once-scared-of-monitor-radiation/)
+* [6 Best HubSpot Alternatives and Competitors in 2024](https://digitpatrox.com/6-best-hubspot-alternatives-and-competitors-in-2024/)
+* [Dell Canada holiday sale — save up to CAD $1,000 during its alternative Prime Day sale](https://digitpatrox.com/dell-canada-holiday-sale-save-up-to-cad-1000-during-its-alternative-prime-day-sale/)
+* [ADT discloses second breach in 2 months, hacked via stolen credentials](https://digitpatrox.com/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/)
+* [Chevy’s cheapest Silverado EV now starts at $57,095](https://digitpatrox.com/chevys-cheapest-silverado-ev-now-starts-at-57095/)
+* [Genshin Impact 5.1 Maintenance: Start and End Time](https://digitpatrox.com/genshin-impact-5-1-maintenance-start-and-end-time/)
+* [Hybrid cloud environments are under serious threat from hackers – here’s what you need to know](https://digitpatrox.com/hybrid-cloud-environments-are-under-serious-threat-from-hackers-heres-what-you-need-to-know/)
+* [Think data leaks are bad now? Wait until genAI supersizes them – Computerworld](https://digitpatrox.com/think-data-leaks-are-bad-now-wait-until-genai-supersizes-them-computerworld/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/qDDFf4vQVmkEA2tNhFtgcN-1200-80.jpg)](https://digitpatrox.com/ciscos-savvy-coreweave-deal-will-supercharge-its-ai-ambitions/)
+* [![](https://lifehacker.com/imagery/articles/01J6WDCSZ5WVS6NF2R2YVNFYRX/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-this-hp-elitebook-on-sale-for-320-right-now/)
     
-    [Cisco’s ‘savvy’ CoreWeave deal will supercharge its AI ambitions](https://digitpatrox.com/ciscos-savvy-coreweave-deal-will-supercharge-its-ai-ambitions/)
+    [You Can Get This HP EliteBook on Sale for $320 Right Now](https://digitpatrox.com/you-can-get-this-hp-elitebook-on-sale-for-320-right-now/)
     
-    19 mins ago
+    10 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241007-top-15-cyber-crimes.jpg)](https://digitpatrox.com/15-notable-cyberattacks-and-data-breaches/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727703957/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2024-Toyota-Corolla-Cross-Hybrid-r-driving-9-24)](https://digitpatrox.com/toyota-corolla-cross-hybrid-recalled-for-braking-proble/)
     
-    [15 Notable Cyberattacks and Data Breaches](https://digitpatrox.com/15-notable-cyberattacks-and-data-breaches/)
+    [Toyota Corolla Cross Hybrid Recalled for Braking Proble](https://digitpatrox.com/toyota-corolla-cross-hybrid-recalled-for-braking-proble/)
     
-    23 mins ago
+    41 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/wNvLvjTssKAz44xARheeHW-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-october-8-485/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/vintage-desktop-pc-with-floppy-drive-keyboard-and-mouse-in-neon-lightning.jpg)](https://digitpatrox.com/forget-5g-people-were-once-scared-of-monitor-radiation/)
     
-    [NYT Connections today hints and answers — Tuesday, October 8 (#485)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-october-8-485/)
+    [Forget 5G, People Were Once Scared of Monitor Radiation](https://digitpatrox.com/forget-5g-people-were-once-scared-of-monitor-radiation/)
     
-    39 mins ago
+    44 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/09/24/moneygram.jpg)](https://digitpatrox.com/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241007-hubspot-alternatives.jpg)](https://digitpatrox.com/6-best-hubspot-alternatives-and-competitors-in-2024/)
     
-    [MoneyGram confirms hackers stole customer data in cyberattack](https://digitpatrox.com/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
+    [6 Best HubSpot Alternatives and Competitors in 2024](https://digitpatrox.com/6-best-hubspot-alternatives-and-competitors-in-2024/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/Hv1lx5o5WH9znsA5AFTfWcRdrNA=/0x0:2040x1360/1200x628/filters:focal(1046x731:1047x732)/cdn.vox-cdn.com/uploads/chorus_asset/file/23930260/IMG_0376.jpg)](https://digitpatrox.com/how-to-set-up-sleep-schedules-in-ios/)
+* [![](https://cdn.mos.cms.futurecdn.net/zy22DXDPG6Ag8rmVGWRiXc-1200-80.jpg)](https://digitpatrox.com/dell-canada-holiday-sale-save-up-to-cad-1000-during-its-alternative-prime-day-sale/)
     
-    [How to set up sleep schedules in iOS](https://digitpatrox.com/how-to-set-up-sleep-schedules-in-ios/)
+    [Dell Canada holiday sale — save up to CAD $1,000 during its alternative Prime Day sale](https://digitpatrox.com/dell-canada-holiday-sale-save-up-to-cad-1000-during-its-alternative-prime-day-sale/)
     
-    1 hour ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [19 mins ago
+* [10 mins ago
     
-    ### Cisco’s ‘savvy’ CoreWeave deal will supercharge its AI ambitions](https://digitpatrox.com/ciscos-savvy-coreweave-deal-will-supercharge-its-ai-ambitions/)
-* [23 mins ago
+    ### You Can Get This HP EliteBook on Sale for $320 Right Now](https://digitpatrox.com/you-can-get-this-hp-elitebook-on-sale-for-320-right-now/)
+* [41 mins ago
     
-    ### 15 Notable Cyberattacks and Data Breaches](https://digitpatrox.com/15-notable-cyberattacks-and-data-breaches/)
-* [39 mins ago
+    ### Toyota Corolla Cross Hybrid Recalled for Braking Proble](https://digitpatrox.com/toyota-corolla-cross-hybrid-recalled-for-braking-proble/)
+* [44 mins ago
     
-    ### NYT Connections today hints and answers — Tuesday, October 8 (#485)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-october-8-485/)
+    ### Forget 5G, People Were Once Scared of Monitor Radiation](https://digitpatrox.com/forget-5g-people-were-once-scared-of-monitor-radiation/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [August 24, 2024
     
-    ### What Is Google Gemini, and How Does It Work?)](https://digitpatrox.com/what-is-google-gemini-and-how-does-it-work/)
-* [3 weeks ago
+    ### Boost your mobility and ease tension in just 10 minutes with this stretching routine](https://digitpatrox.com/boost-your-mobility-and-ease-tension-in-just-10-minutes-with-this-stretching-routine/)
+* [August 13, 2024
     
-    ### How to Backup and Restore the Windows Registry](https://digitpatrox.com/how-to-backup-and-restore-the-windows-registry/)
-* [August 21, 2024
+    ### The Pixel Watch 3 Can Detect When Your Heart Stops](https://digitpatrox.com/the-pixel-watch-3-can-detect-when-your-heart-stops/)
+* [August 24, 2024
     
-    ### Ransomware gang Rhysida claims responsibility for Olympus Financial data breach](https://digitpatrox.com/ransomware-gang-rhysida-claims-responsibility-for-olympus-financial-data-breach/)
+    ### Microsoft update knocks out Linux computers – Computerworld](https://digitpatrox.com/microsoft-update-knocks-out-linux-computers-computerworld/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### NYT Connections Today: Hints and Answers for October 8, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-8-2024/)
 * [3 hours ago
     
-    ### 7 Best SMTP Servers for Email Marketing 2024](https://digitpatrox.com/7-best-smtp-servers-for-email-marketing-2024/)
+    ### Chevy’s cheapest Silverado EV now starts at $57,095](https://digitpatrox.com/chevys-cheapest-silverado-ev-now-starts-at-57095/)
 * [3 hours ago
     
-    ### Is there any future for the IT helpdesk? AI and automation could render it ‘redundant’ within three years](https://digitpatrox.com/is-there-any-future-for-the-it-helpdesk-ai-and-automation-could-render-it-redundant-within-three-years/)
+    ### Genshin Impact 5.1 Maintenance: Start and End Time](https://digitpatrox.com/genshin-impact-5-1-maintenance-start-and-end-time/)
+* [4 hours ago
+    
+    ### Hybrid cloud environments are under serious threat from hackers – here’s what you need to know](https://digitpatrox.com/hybrid-cloud-environments-are-under-serious-threat-from-hackers-heres-what-you-need-to-know/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 13, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
