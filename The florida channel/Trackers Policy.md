@@ -14,10 +14,10 @@
 
 * [![](https://thefloridachannel.org/wp-content/uploads/logo-primary-1.png)Home](https://thefloridachannel.org/)
 * [Programs & Coverage](https://thefloridachannel.org/programs-coverage/)
+    * [Storm Coverage](https://thefloridachannel.org/programs/storm-coverage/)
     * [Capitol Update](https://thefloridachannel.org/programs/capitol-update/)
     * [Florida Crossroads](https://thefloridachannel.org/programs/florida-crossroads/)
     * [Explore Florida](https://thefloridachannel.org/programs/explore-florida/)
-    * [Storm Coverage](https://thefloridachannel.org/programs/storm-coverage/)
     * [Press Conferences and Availabilities](https://thefloridachannel.org/programs/press-conferences-and-availabilities/)
     * [Elections Coverage](https://thefloridachannel.org/programs/election-coverage/)
 * [Schedules](https://thefloridachannel.org/schedules/)
@@ -145,10 +145,10 @@ Copyright 2011 – 2024 The Florida Channel. All Rights Reserved. | [Privacy Pol
 
 * [![](https://thefloridachannel.org/wp-content/uploads/logo-primary-1.png)Home](https://thefloridachannel.org/)
 * [Programs & Coverage](https://thefloridachannel.org/programs-coverage/)
+    * [Storm Coverage](https://thefloridachannel.org/programs/storm-coverage/)
     * [Capitol Update](https://thefloridachannel.org/programs/capitol-update/)
     * [Florida Crossroads](https://thefloridachannel.org/programs/florida-crossroads/)
     * [Explore Florida](https://thefloridachannel.org/programs/explore-florida/)
-    * [Storm Coverage](https://thefloridachannel.org/programs/storm-coverage/)
     * [Press Conferences and Availabilities](https://thefloridachannel.org/programs/press-conferences-and-availabilities/)
     * [Elections Coverage](https://thefloridachannel.org/programs/election-coverage/)
 * [Schedules](https://thefloridachannel.org/schedules/)
