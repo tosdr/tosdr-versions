@@ -66,7 +66,6 @@
 * [Git Resources](# "Git Resources")
     * * [Workshops](https://www.gitkraken.com/workshops)
         * [Learn Git Library](https://www.gitkraken.com/learn/git)
-        * [Git Course & Certification](https://learn.gitkraken.com/)
         * [Git Blog](https://www.gitkraken.com/blog)
         * [GitKon ’23](https://gitkon.com/)
         
