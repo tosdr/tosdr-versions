@@ -104,11 +104,11 @@ Mega Menu Toggle
 
 [Videos](https://techcrunch.com/video/)
 
-[Crunchboard](https://www.crunchboard.com/)
-
 [Partner Content](https://techcrunch.com/sponsored/)
 
 [TechCrunch Brand Studio](https://techcrunch.com/brand-studio/)
+
+[Crunchboard](https://www.crunchboard.com/)
 
 [Contact Us](https://techcrunch.com/contact-us/)
 
