@@ -30,39 +30,29 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 1
+    Day 2 Session 2
     
     |     |     |
     | --- | --- |
-    | PAK | 4 /328 |
+    | PAK | 6 /406 |
     | ENG |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250201)
 * [Women's T20 WC
     
-    ENG won by 7 wkts
+    9/10 1:00 AEST
     
     |     |     |
     | --- | --- |
-    | ENG | 3 /125 |
-    | RSA | 6 /124 |
+    | AUS | –   |
+    | NZL | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250109)
-* [Men's ODI
-    
-    IRL won by 69 runs
-    
-    |     |     |
-    | --- | --- |
-    | IRL | 9 /284 |
-    | RSA | 215 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI20240803)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250110)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | VIC | 2 /79 |
+    | VIC | 7 /330 |
     | TAS |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250102)
@@ -70,18 +60,16 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | NSW | 1 /61 |
+    | NSW | 7 /297 |
     | SA  |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250101)
 * [Sheffield Shield
     
-    8/10 13:30 AEST
-    
     |     |     |
     | --- | --- |
-    | WA  | –   |
-    | QLD | –   |
+    | WA  | 4 /164 |
+    | QLD |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250103)
 * NRL
@@ -122,12 +110,12 @@ FOX SCORES
     
 * [NFL
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | KC  | 16  |
-    | NO  | 7   |
+    | KC  | 26  |
+    | NO  | 13  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250522)
 * Baseball
@@ -144,14 +132,24 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002A78C8)
 * [MLB
     
-    Top 7th Innings
+    Final
     
     |     |     |
     | --- | --- |
-    | NYY | 1   |
+    | NYY | 2   |
     | KC  | 4   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240040024F8E1)
+* [MLB
+    
+    9/10 8:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NYM | –   |
+    | PHI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002C9540)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
