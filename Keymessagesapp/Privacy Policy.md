@@ -307,7 +307,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDJrejlTRUJRdStZdGFxK1ZVQ1ppQnc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljKNZaw)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGVWOXFGWENOcVJDbkZYWkdUcFAvY2c9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljKrtsE)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/uU38cxbeMKLKDXQYopB9r1ybCFO-2vdfTKtV-mXp-zZ7Mcv_AW6MzSSCWkR_ybvgRA=s64)
 
