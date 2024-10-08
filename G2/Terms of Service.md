@@ -343,6 +343,15 @@ Any use of the Interactive Areas or other portions of this Site in violation of 
 
 Without limiting the foregoing, G2 takes no responsibility and assumes no liability for any content posted, stored, or uploaded by you or any third party, or for any loss or damage thereto, nor is G2 liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography, or profanity you may encounter. As a provider of interactive services, G2 is not liable for any statements, representations, or content provided by its users in any public forum or other Interactive Area. Although G2 has no obligation to screen, edit, or monitor any of the Content posted to or distributed through any Interactive Area, G2 reserves the right, and has absolute discretion, to remove, screen, or edit, without notice, any Content posted or stored on this Site at any time and for any reason, and you are solely responsible for creating backup copies of and replacing any Content you post or store on this Site at your sole cost and expense.
 
+**Eligibility Criteria for Gift Card Incentives**
+
+The following users are ineligible to receive gift cards:The following users are prohibited from receiving incentives of any kind in exchange for their G2 review:
+
+1. Community members who are employees, officers, directors, agents of G2, Inc., its subsidiaries and affiliated companies and their immediate families;
+2. Community members who are government and public sector employees;
+3. Community members whose company policies prohibit the acceptance of gifts in the context of business transactions;
+4. Community members who are individuals (or who are acting on behalf of individuals) (1) subject to, (2) residing in countries or (3) employed by organizations identified in any government sanctions watchlist, including but not limited to the US Department of Treasury’s Office of Foreign Assets Control (OFAC) Specially Designated Nationals List or other sanctions list
+
 License and Consent To Use Content and Submissions
 --------------------------------------------------
 
