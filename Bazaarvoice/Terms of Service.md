@@ -4,64 +4,68 @@
     * [0th](#)
         * [![](https://media.bazaarvoice.com/Platform-Rocket-tiny.png)
             
-            Supercharge your commerce engine
+            Build a vibe that’s unmistakably yours.
             
-            Let us show you how to leverage user-generated content (UGC) across the entire consumer journey, and win the omnichannel experience.
+            Bazaarvoice Vibe helps marketing and commerce teams source, amplify, and optimize creator and user-generated content across all channels from one place.
             
-            Platform overview
+            Learn more
             
             Our HarmonyAI engine
             
             Our partners](https://www.bazaarvoice.com/products/)
     * [1st](#)
-        * [COLLECT CONTENT](#)
+        * [INTEGRATED SOLUTION](#)
+            * [Bazaarvoice Vibe™
+                
+                Bazaarvoice Vibe is an integrated tech solution built to optimize every stage of your content supply chain.](https://www.bazaarvoice.com/products/bazaarvoice-vibe/)
             * [Sampling
                 
                 Get products to advocates and accumulate authentic reviews and visual content.](https://www.bazaarvoice.com/products/sampling/)
-                * [Bazaarvoice Deals](https://www.bazaarvoice.com/products/sampling/digital-product-sampling/)
-            * [ReviewSource
-                
-                Activate fresh product reviews from the Influenster community.](https://www.bazaarvoice.com/products/always-on-content/)
-            * [Creator Partnerships
-                
-                Power consumer discovery of your brand and products through a trusted voice.](https://www.bazaarvoice.com/products/creator-partnerships/)
-            * [Bazaarvoice affable.ai
+            * [Creator Marketing
                 
                 Unleash the incredible power of creator marketing.](https://www.bazaarvoice.com/products/bazaarvoice-affable-ai/)
-                * [Creator Marketing for Agencies](https://www.bazaarvoice.com/products/creator-marketing-services-agencies/)
-    * [2nd](#)
-        * [DRIVE CONVERSION](#)
-            * [Ratings & Reviews
-                
-                Leverage authentic opinions, photos, and videos to sell your product.](https://www.bazaarvoice.com/products/ratings-and-reviews/)
-            * [Questions & Answers
-                
-                Respond to questions on your site or across the retail network.](https://www.bazaarvoice.com/products/questions-and-answers/)
-            * [Social Commerce
-                
-                Turn social content into shoppable experiences that drive sales – wherever shoppers are.](https://www.bazaarvoice.com/products/social-commerce/)
-            * [Contextual Commerce
-                
-                Tailored shopping experiences that drive conversion.](https://www.bazaarvoice.com/products/contextual-commerce/)
-    * [3rd](#)
-        * [AMPLIFY CONTENT](#)
-            * [Retail Syndication
-                
-                Distribute content everywhere your products are sold.](https://www.bazaarvoice.com/products/retail-syndication/)
             * [Social Media Management
                 
                 Manage everything you need to win on social.](https://www.bazaarvoice.com/products/social-media-management/)
-            * [In-store & Digital Activations
+            * [Social Commerce
                 
-                Activate the Influenster community to drive traffic.](https://www.bazaarvoice.com/products/brand-activation/)
-    * [4rd](#)
-        * [OPTIMIZE STRATEGY](#)
+                Turn social content into shoppable experiences that drive sales – wherever shoppers are.](https://www.bazaarvoice.com/products/social-commerce/)
+    * [2nd](#)
+        * [E-COMMERCE](#)
+            * [Ratings & Reviews
+                
+                Leverage authentic opinions, photos, and videos to sell your product.](https://www.bazaarvoice.com/products/ratings-and-reviews/)
+                * [Always-on Content
+                    
+                    Activate fresh product reviews from the Influenster community.](https://www.bazaarvoice.com/products/always-on-content/)
+            * [Questions & Answers
+                
+                Respond to questions on your site or across the retail network.](https://www.bazaarvoice.com/products/questions-and-answers/)
+            * [Contextual Commerce
+                
+                Tailored shopping experiences that drive conversion.](https://www.bazaarvoice.com/products/contextual-commerce/)
             * [Insights and Reports
                 
                 Actionable insight into your performance, sentiment, advocates, and competitors.](https://www.bazaarvoice.com/products/insights-and-reports/)
+    * [3rd](#)
+        * [RETAIL](#)
+            * [Omnichannel Retail Solutions
+                
+                From seamless vendor collaboration and optimized product pages to private label success, our solutions help you achieve retail excellence.](https://www.bazaarvoice.com/solutions/retailers/)
             * [Managed Sampling
                 
                 Take the hassle out of sampling programs for retailers.](https://www.bazaarvoice.com/products/managed-sampling/)
+            * [Retail Syndication
+                
+                Distribute content everywhere your products are sold.](https://www.bazaarvoice.com/products/retail-syndication/)
+    * [4rd](#)
+        * [AGENCY & PARTNER](#)
+            * [Creator Marketing for Agencies
+                
+                Discover fresh talent, collaborate like a champ, and deliver winning campaigns like clockwork.](https://www.bazaarvoice.com/products/creator-marketing-services-agencies/)
+            * [Our partners
+                
+                Get access to the tools, resources, and insights you need to delight your clients and grow your business.](https://www.bazaarvoice.com/partners/)
 * [Solutions](https://www.bazaarvoice.com/solutions/)
     * [1st](#)
         * [FOR RETAILERS](#)
