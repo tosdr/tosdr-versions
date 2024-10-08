@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Practical Solar-Powered Desalination System](https://www.sciencedaily.com/releases/2024/10/241008103809.htm)
 * [Challenges in Vaccinations of Adults](https://www.sciencedaily.com/releases/2024/10/241007115102.htm)
 * [New Approach to End Jet Lag](https://www.sciencedaily.com/releases/2024/10/241007115447.htm)
 * [Our Lives in the Mirror of Our Data](https://www.sciencedaily.com/releases/2024/10/241007115253.htm)
@@ -238,7 +239,6 @@ this hour
 * [Most Distant Rotating Disc Galaxy Found](https://www.sciencedaily.com/releases/2024/10/241007115056.htm)
 * [Two Comb Jellies Can Fuse to Become One](https://www.sciencedaily.com/releases/2024/10/241007114928.htm)
 * [How Pterosaurs Became Terrestrial Titans](https://www.sciencedaily.com/releases/2024/10/241004121701.htm)
-* [Rare Monkey Fossils](https://www.sciencedaily.com/releases/2024/10/241002135241.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[COVID and SARS](https://www.sciencedaily.com/news/health_medicine/covid_and_sars/)
+[Eye Care](https://www.sciencedaily.com/news/health_medicine/eye_care/)
 
-[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
+[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
+
+[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+
 [Batteries](https://www.sciencedaily.com/news/matter_energy/batteries/)
-
-[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
-
-[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
+[Storms](https://www.sciencedaily.com/news/earth_climate/storms/)
 
 [Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
-[Dogs](https://www.sciencedaily.com/news/plants_animals/dogs/)
+[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
 
   
 
