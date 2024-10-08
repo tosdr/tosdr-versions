@@ -157,6 +157,8 @@
     Apps](https://www.philips-hue.com/en-us/explore-hue/apps)
     
 
+[Support](https://www.philips-hue.com/en-us/support/faq)
+
 [](https://www.philips-hue.com/en-us/cart "My cart")
 
  
