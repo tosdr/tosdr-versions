@@ -142,6 +142,18 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Oct 8, 2024
+
+> Excellent and responsive
+
+> We have not travelled yet but so far our experience with Anya has been excellent and so responsive. We have booked for a 2025 trip
+
+Bobbie
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Oct 4, 2024
 
 > Sara at safari.com
@@ -249,20 +261,6 @@ Chané Brits
 ,
 
 AU
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 1, 2024
-
-> Leché Miller was very personable and…
-
-> Leché Miller was very personable and understood exactly what our needs were. Within a couple of days we booked our trip and we are very much looking forward to our time. Leché was nice, very responsive and reliable. Thank you!
-
-M. Stahl
-
-,
-
-DE
 
 VIP service
 
