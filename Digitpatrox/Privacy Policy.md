@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Monday, October 7 2024
+Tuesday, October 8 2024
 
 Latest
 
-* [‘Submerged’ is Apple’s first Immersive Vision Pro movie experience — and you can watch the trailer now](https://digitpatrox.com/submerged-is-apples-first-immersive-vision-pro-movie-experience-and-you-can-watch-the-trailer-now/)
-* [Qualcomm patches high-severity zero-day exploited in attacks](https://digitpatrox.com/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/)
-* [Ubisoft responds to rumors about Tencent’s potential buyout](https://digitpatrox.com/ubisoft-responds-to-rumors-about-tencents-potential-buyout/)
-* [Anime Strike Simulator Codes (October 2024)](https://digitpatrox.com/anime-strike-simulator-codes-october-2024/)
-* [Ransomware gang Medusa claims cyber attack on Albany College of Pharmacy and Health Sciences – $150K ransom](https://digitpatrox.com/ransomware-gang-medusa-claims-cyber-attack-on-albany-college-of-pharmacy-and-health-sciences-150k-ransom/)
-* [Cybersecurity is the fastest growing tech occupation in the UK – but it’s still not enough to dent the growing industry skills shortage](https://digitpatrox.com/cybersecurity-is-the-fastest-growing-tech-occupation-in-the-uk-but-its-still-not-enough-to-dent-the-growing-industry-skills-shortage/)
-* [Digital whiteboard software – Computerworld](https://digitpatrox.com/digital-whiteboard-software-computerworld/)
-* [These Hisense TVs Are up to 67% Off for October Prime Day](https://digitpatrox.com/these-hisense-tvs-are-up-to-67-off-for-october-prime-day/)
-* [Fortive Corporation subsidiaries notify thousands of data breach that compromised SSNs, payment info](https://digitpatrox.com/fortive-corporation-subsidiaries-notify-thousands-of-data-breach-that-compromised-ssns-payment-info/)
-* [Windows 11: Complete list of features removed (2024)](https://digitpatrox.com/windows-11-complete-list-of-features-removed-2024/)
+* [Cisco’s ‘savvy’ CoreWeave deal will supercharge its AI ambitions](https://digitpatrox.com/ciscos-savvy-coreweave-deal-will-supercharge-its-ai-ambitions/)
+* [15 Notable Cyberattacks and Data Breaches](https://digitpatrox.com/15-notable-cyberattacks-and-data-breaches/)
+* [NYT Connections today hints and answers — Tuesday, October 8 (#485)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-october-8-485/)
+* [MoneyGram confirms hackers stole customer data in cyberattack](https://digitpatrox.com/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
+* [How to set up sleep schedules in iOS](https://digitpatrox.com/how-to-set-up-sleep-schedules-in-ios/)
+* [Apple’s next MacBook Pros might have leaked in Russia](https://digitpatrox.com/apples-next-macbook-pros-might-have-leaked-in-russia/)
+* [NYT Connections Today: Hints and Answers for October 8, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-8-2024/)
+* [7 Best SMTP Servers for Email Marketing 2024](https://digitpatrox.com/7-best-smtp-servers-for-email-marketing-2024/)
+* [Is there any future for the IT helpdesk? AI and automation could render it ‘redundant’ within three years](https://digitpatrox.com/is-there-any-future-for-the-it-helpdesk-ai-and-automation-could-render-it-redundant-within-three-years/)
+* [EU ruling clamps down on Meta’s use of personal data for ads – Computerworld](https://digitpatrox.com/eu-ruling-clamps-down-on-metas-use-of-personal-data-for-ads-computerworld/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/25CbN8tcAcNQUeUZ56xSCF-1200-80.jpg)](https://digitpatrox.com/submerged-is-apples-first-immersive-vision-pro-movie-experience-and-you-can-watch-the-trailer-now/)
+* [![](https://cdn.mos.cms.futurecdn.net/qDDFf4vQVmkEA2tNhFtgcN-1200-80.jpg)](https://digitpatrox.com/ciscos-savvy-coreweave-deal-will-supercharge-its-ai-ambitions/)
     
-    [‘Submerged’ is Apple’s first Immersive Vision Pro movie experience — and you can watch the trailer now](https://digitpatrox.com/submerged-is-apples-first-immersive-vision-pro-movie-experience-and-you-can-watch-the-trailer-now/)
+    [Cisco’s ‘savvy’ CoreWeave deal will supercharge its AI ambitions](https://digitpatrox.com/ciscos-savvy-coreweave-deal-will-supercharge-its-ai-ambitions/)
     
-    15 mins ago
+    19 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/07/Qualcomm.jpg)](https://digitpatrox.com/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241007-top-15-cyber-crimes.jpg)](https://digitpatrox.com/15-notable-cyberattacks-and-data-breaches/)
     
-    [Qualcomm patches high-severity zero-day exploited in attacks](https://digitpatrox.com/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/)
+    [15 Notable Cyberattacks and Data Breaches](https://digitpatrox.com/15-notable-cyberattacks-and-data-breaches/)
     
-    42 mins ago
+    23 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/VcsjlHuMYBUo8lXUvqNCpFg0V38=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25596189/SWO_UbiFW_Reactor_Grapple_NoLogo.png)](https://digitpatrox.com/ubisoft-responds-to-rumors-about-tencents-potential-buyout/)
+* [![](https://cdn.mos.cms.futurecdn.net/wNvLvjTssKAz44xARheeHW-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-october-8-485/)
     
-    [Ubisoft responds to rumors about Tencent’s potential buyout](https://digitpatrox.com/ubisoft-responds-to-rumors-about-tencents-potential-buyout/)
+    [NYT Connections today hints and answers — Tuesday, October 8 (#485)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-october-8-485/)
     
-    60 mins ago
+    39 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/Anime-Strike-Simulator-codes-on-Roblox.jpg)](https://digitpatrox.com/anime-strike-simulator-codes-october-2024/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/09/24/moneygram.jpg)](https://digitpatrox.com/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
     
-    [Anime Strike Simulator Codes (October 2024)](https://digitpatrox.com/anime-strike-simulator-codes-october-2024/)
+    [MoneyGram confirms hackers stole customer data in cyberattack](https://digitpatrox.com/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
     
     1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Ransomware-gang-Medusa-claims-recent-cyber-attack-on-Albany-College-of-Pharmacy-and-Health-Sciences-150K-ransom.jpg)](https://digitpatrox.com/ransomware-gang-medusa-claims-cyber-attack-on-albany-college-of-pharmacy-and-health-sciences-150k-ransom/)
+* [![](https://cdn.vox-cdn.com/thumbor/Hv1lx5o5WH9znsA5AFTfWcRdrNA=/0x0:2040x1360/1200x628/filters:focal(1046x731:1047x732)/cdn.vox-cdn.com/uploads/chorus_asset/file/23930260/IMG_0376.jpg)](https://digitpatrox.com/how-to-set-up-sleep-schedules-in-ios/)
     
-    [Ransomware gang Medusa claims cyber attack on Albany College of Pharmacy and Health Sciences – $150K ransom](https://digitpatrox.com/ransomware-gang-medusa-claims-cyber-attack-on-albany-college-of-pharmacy-and-health-sciences-150k-ransom/)
+    [How to set up sleep schedules in iOS](https://digitpatrox.com/how-to-set-up-sleep-schedules-in-ios/)
     
-    2 hours ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [15 mins ago
+* [19 mins ago
     
-    ### ‘Submerged’ is Apple’s first Immersive Vision Pro movie experience — and you can watch the trailer now](https://digitpatrox.com/submerged-is-apples-first-immersive-vision-pro-movie-experience-and-you-can-watch-the-trailer-now/)
-* [42 mins ago
+    ### Cisco’s ‘savvy’ CoreWeave deal will supercharge its AI ambitions](https://digitpatrox.com/ciscos-savvy-coreweave-deal-will-supercharge-its-ai-ambitions/)
+* [23 mins ago
     
-    ### Qualcomm patches high-severity zero-day exploited in attacks](https://digitpatrox.com/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/)
-* [60 mins ago
+    ### 15 Notable Cyberattacks and Data Breaches](https://digitpatrox.com/15-notable-cyberattacks-and-data-breaches/)
+* [39 mins ago
     
-    ### Ubisoft responds to rumors about Tencent’s potential buyout](https://digitpatrox.com/ubisoft-responds-to-rumors-about-tencents-potential-buyout/)
+    ### NYT Connections today hints and answers — Tuesday, October 8 (#485)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-october-8-485/)
 
 Most Popular Topics
 
-* [August 31, 2024
+* [2 weeks ago
     
-    ### NYT Connections today hints and answers — Sunday, September 1 (#448)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-sunday-september-1-448/)
-* [September 1, 2024
+    ### What Is Google Gemini, and How Does It Work?)](https://digitpatrox.com/what-is-google-gemini-and-how-does-it-work/)
+* [3 weeks ago
     
-    ### Using ExpressVPN for torrenting: Does it deliver?](https://digitpatrox.com/using-expressvpn-for-torrenting-does-it-deliver/)
-* [September 6, 2024
+    ### How to Backup and Restore the Windows Registry](https://digitpatrox.com/how-to-backup-and-restore-the-windows-registry/)
+* [August 21, 2024
     
-    ### Copilot+ PCs that use Intel and AMD chips coming in November – Computerworld](https://digitpatrox.com/copilot-pcs-that-use-intel-and-amd-chips-coming-in-november-computerworld/)
+    ### Ransomware gang Rhysida claims responsibility for Olympus Financial data breach](https://digitpatrox.com/ransomware-gang-rhysida-claims-responsibility-for-olympus-financial-data-breach/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### NYT Connections Today: Hints and Answers for October 8, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-8-2024/)
 * [3 hours ago
     
-    ### Digital whiteboard software – Computerworld](https://digitpatrox.com/digital-whiteboard-software-computerworld/)
+    ### 7 Best SMTP Servers for Email Marketing 2024](https://digitpatrox.com/7-best-smtp-servers-for-email-marketing-2024/)
 * [3 hours ago
     
-    ### These Hisense TVs Are up to 67% Off for October Prime Day](https://digitpatrox.com/these-hisense-tvs-are-up-to-67-off-for-october-prime-day/)
-* [4 hours ago
-    
-    ### Fortive Corporation subsidiaries notify thousands of data breach that compromised SSNs, payment info](https://digitpatrox.com/fortive-corporation-subsidiaries-notify-thousands-of-data-breach-that-compromised-ssns-payment-info/)
+    ### Is there any future for the IT helpdesk? AI and automation could render it ‘redundant’ within three years](https://digitpatrox.com/is-there-any-future-for-the-it-helpdesk-ai-and-automation-could-render-it-redundant-within-three-years/)
 
 Most Viewed Topics
 
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
