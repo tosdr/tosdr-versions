@@ -99,8 +99,8 @@ Main Menu
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
 * [Riley Keough Says Her Mom, Lisa...](https://classiccountrymusic.com/riley-keough-says-her-mom-lisa-marie-presley-knew-something-was-wrong-before-elvis-died/)
+* [Flashback: “Forever Country” Released To Honor...](https://classiccountrymusic.com/flashback-forever-country-released-to-honor-50-years-of-cma-history/)
 * [Miranda Lambert & Lukas Nelson Sing...](https://classiccountrymusic.com/miranda-lambert-lukas-nelson-sing-silver-wings-in-thoughtful-tribute-to-kris-kristofferson/)
-* [Brad Paisley Pays Tribute To Charley...](https://classiccountrymusic.com/brad-paisley-pays-tribute-to-charley-pride-with-emotional-amas-performance/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
