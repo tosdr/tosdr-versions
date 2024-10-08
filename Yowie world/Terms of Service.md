@@ -20,7 +20,7 @@
 * [](#)
     
 
-* [](https://yowie.com/?page_id=14243)
+* [](https://yowie.com/)
 * [Meet the Yowie](https://yowie.com/the-yowie/)
     * [Rumble](https://yowie.com/the-yowie/rumble/)
     * [Crag](https://yowie.com/the-yowie/crag/)
@@ -302,7 +302,7 @@ Copyright 2024 © **Yowie**
 
 [](#top)
 
-* [](https://yowie.com/?page_id=14243)
+* [](https://yowie.com/)
 * [Meet the Yowie](https://yowie.com/the-yowie/)
     * [Rumble](https://yowie.com/the-yowie/rumble/)
     * [Crag](https://yowie.com/the-yowie/crag/)
@@ -341,4 +341,6 @@ Password \*
 
 [Lost your password?](https://yowie.com/my-account/lost-password/)
 
-![](https://www.facebook.com/tr?id=2305133513080338&ev=PageView&noscript=1&cd%5Bpage_title%5D=Terms+%26+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=630&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=yowie.com%2Fterms-conditions%2F)
+                 
+
+We use cookies to ensure that we give you the best experience on our website. By continuing to use this site you are accepting the [terms and conditions](https://yowie.com/terms-conditions/), [Privacy policy](https://yowie.com/privacy-policy/) and the use of cookies.[Close](#)
