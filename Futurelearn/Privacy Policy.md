@@ -720,6 +720,15 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![public health student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-94-1-150x150.png)](https://www.futurelearn.com/info/blog/what-can-you-do-with-a-public-health-masters-degree)
+    
+    [What can you do with a Public Health Master’s Degree?](https://www.futurelearn.com/info/blog/what-can-you-do-with-a-public-health-masters-degree)
+    --------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    Discover everything you need to know about public health master's degrees and the career opportunities …
+    
+    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees), [Healthcare & Medicine](https://www.futurelearn.com/info/healthcare-medicine)
+    
 * [![university student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-93-150x150.png)](https://www.futurelearn.com/info/blog/highest-paying-postgraduate-certificates)
     
     [10 highest paying postgraduate certificates](https://www.futurelearn.com/info/blog/highest-paying-postgraduate-certificates)
@@ -744,15 +753,6 @@ Powered By
     FutureLearn, the online learning platform, has partnered with Pion (formerly Student Beans), to offer exclusive …
     
     Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
-    
-* [![environmental scientist](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-91-150x150.png)](https://www.futurelearn.com/info/blog/environmental-science-degree-guide)
-    
-    [A complete guide to environmental science degrees](https://www.futurelearn.com/info/blog/environmental-science-degree-guide)
-    -----------------------------------------------------------------------------------------------------------------------------
-    
-    Thinking about taking an environmental science degree to learn specialist knowledge and improve your career …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
