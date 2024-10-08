@@ -269,7 +269,7 @@ article 6 days ago](https://science.nasa.gov/missions/webb/nasas-webb-reveals-un
 
 ### Mark Sonoda: Leading NASA’s Path to the Commercialization of Space
 
-article 15 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/mark-sonoda-leading-nasas-path-to-the-commercialization-of-space/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
+article 23 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/mark-sonoda-leading-nasas-path-to-the-commercialization-of-space/)[![Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/american-flag-on-station.jpg?w=1024)
 
 3 min read
 
@@ -291,7 +291,7 @@ article 5 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands
 
 ### El Niño
 
-article 6 hours ago](https://science.nasa.gov/earth/explore/el-nino/)[![iss072e001650 (Sept. 25, 2024) -- Hurricane Helene is pictured from the International Space Station as it orbited 257 above the Gulf of Mexico off the coast of Mississippi.](https://www.nasa.gov/wp-content/uploads/2024/10/iss072e001650.jpg?w=1024)
+article 14 hours ago](https://science.nasa.gov/earth/explore/el-nino/)[![iss072e001650 (Sept. 25, 2024) -- Hurricane Helene is pictured from the International Space Station as it orbited 257 above the Gulf of Mexico off the coast of Mississippi.](https://www.nasa.gov/wp-content/uploads/2024/10/iss072e001650.jpg?w=1024)
 
 1 min read
 
@@ -313,19 +313,19 @@ article 6 days ago](https://science.nasa.gov/earth/via-nasa-plane-scientists-fin
 
 ### NASA: New Insights into How Mars Became Uninhabitable
 
-article 9 hours ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
+article 17 hours ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
 
 3 min read
 
 ### GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration
 
-article 10 hours ago](https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+article 18 hours ago](https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
 1 min read
 
 ### F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)
 
 ### Featured
 
@@ -357,19 +357,19 @@ article 2 weeks ago](https://science.nasa.gov/missions/hubble/hubble-captures-st
 
 ### NASA: New Insights into How Mars Became Uninhabitable
 
-article 9 hours ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
+article 17 hours ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
 
 3 min read
 
 ### GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration
 
-article 10 hours ago](https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+article 18 hours ago](https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
 1 min read
 
 ### F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)
 
 ### Highlights
 
@@ -385,7 +385,7 @@ article 2 weeks ago](https://www.nasa.gov/aeronautics/girls-in-stem-inspired-to-
 
 ### ARMD Solicitations
 
-article 2 weeks ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![A researcher assists a student in guiding his cylindrical-shaped paper model into a tabletop demonstration unit.](https://www.nasa.gov/wp-content/uploads/2024/09/grc-2024-c-08875.jpg?w=1024)
+article 3 weeks ago](https://www.nasa.gov/aeronautics/armd-solicitations/)[![A researcher assists a student in guiding his cylindrical-shaped paper model into a tabletop demonstration unit.](https://www.nasa.gov/wp-content/uploads/2024/09/grc-2024-c-08875.jpg?w=1024)
 
 1 min read
 
@@ -401,19 +401,19 @@ article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### Tech Today: Spraying for Food Safety
 
-article 8 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-spraying-for-food-safety/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
+article 16 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-spraying-for-food-safety/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
 
 1 min read
 
 ### F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update
 
-article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)[![A woman sits in front of a large NASA spacecraft component. She is wearing a red cardigan over a black top and jeans.](https://www.nasa.gov/wp-content/uploads/2024/10/25353901-10115939623039544-5490675857966379566-n.jpg?w=720)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)[![A woman sits in front of a large NASA spacecraft component. She is wearing a red cardigan over a black top and jeans.](https://www.nasa.gov/wp-content/uploads/2024/10/25353901-10115939623039544-5490675857966379566-n.jpg?w=720)
 
 3 min read
 
 ### Meghan Daley: Shaping the Future of NASA’s Robotic Simulations 
 
-article 4 days ago](https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/)
+article 5 days ago](https://www.nasa.gov/centers-and-facilities/johnson/meghan-daley-shaping-the-future-of-nasas-robotic-simulations/)
 
 ### Featured
 
@@ -467,7 +467,7 @@ article 2 weeks ago](https://www.nasa.gov/general/nasa-relaunches-art-program-wi
 
 ### Una gerente de proyectos de la NASA rinde homenaje a la influencia de su madre
 
-article 5 hours ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/)[![A close up image of a set of massive solar arrays measuring about 46.5 feet (14.2 meters) long and about 13.5 feet (4.1 meters) high on NASA’s Europa Clipper spacecraft inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/09/europa-clipper.jpg?w=1024)
+article 13 hours ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/)[![A close up image of a set of massive solar arrays measuring about 46.5 feet (14.2 meters) long and about 13.5 feet (4.1 meters) high on NASA’s Europa Clipper spacecraft inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/09/europa-clipper.jpg?w=1024)
 
 5 min read
 
