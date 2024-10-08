@@ -396,7 +396,7 @@ legal
 
 cookies settings
 
-[Do Not Sell My Information](https://maesa-request.my.onetrust.com/webform/59315583-acc9-40d8-94dc-93863a6bc154/a1d92017-6da5-4746-8d2d-c36388cd7724)
+[do not sell my information](https://maesa-request.my.onetrust.com/webform/59315583-acc9-40d8-94dc-93863a6bc154/a1d92017-6da5-4746-8d2d-c36388cd7724)
 
 * * *
 
@@ -506,7 +506,7 @@ legal
 
 cookies settings
 
-[Do Not Sell My Information](https://maesa-request.my.onetrust.com/webform/59315583-acc9-40d8-94dc-93863a6bc154/a1d92017-6da5-4746-8d2d-c36388cd7724)
+[do not sell my information](https://maesa-request.my.onetrust.com/webform/59315583-acc9-40d8-94dc-93863a6bc154/a1d92017-6da5-4746-8d2d-c36388cd7724)
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
