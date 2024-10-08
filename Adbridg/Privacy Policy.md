@@ -99,6 +99,10 @@ To exercise these rights, please submit your request to the Publisher according 
 
 ![AdBridgLogos-WhiteAsset-6_4x-Transparent.png](https://static.wixstatic.com/media/a1ca69_48178aa0cb6047d8a3b78c19eb5f80a2~mv2.png/v1/fill/w_68,h_8,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/AdBridgLogos-WhiteAsset-6_4x-Transparent.png)
 
+[Subscribe to the Ad Ops Pro Newsletter](mailto:contactus@adbridg.com)
+
+[Site Links](mailto:contactus@adbridg.com)
+
 ###### Streamline your Tech
 
 ###### Maximise Revenue
@@ -107,11 +111,7 @@ To exercise these rights, please submit your request to the Publisher according 
 
 ###### Stay ahead of changing Regulations
 
-[contactus@adbridg.com](mailto:contactus@adbridg.com)
-
-* [](https://www.linkedin.com/company/adbridg)
-
-[Site Links](mailto:contactus@adbridg.com)
+[Learn how to create an easier path to better ad stack management by receiving best practices, tips, case studies and insights that only ad ops pros care about.](mailto:contactus@adbridg.com)
 
 [Publisher Solutions](https://www.adbridg.com/top-publisher-solutions)
 
@@ -121,17 +121,17 @@ To exercise these rights, please submit your request to the Publisher according 
 
 [About](https://www.adbridg.com/aboutus)
 
-[Insights](https://www.adbridg.com/insights)
+[contactus@adbridg.com](mailto:contactus@adbridg.com)
 
-[Contact Us](https://www.adbridg.com/contact-us)
-
-[Subscribe to the Ad Ops Pro Newsletter](mailto:contactus@adbridg.com)
-
-[Learn how to create an easier path to better ad stack management by receiving best practices, tips, case studies and insights that only ad ops pros care about.](mailto:contactus@adbridg.com)
+* [](https://www.linkedin.com/company/adbridg)
 
 \>
 
 Thanks!
+
+[Insights](https://www.adbridg.com/insights)
+
+[Contact Us](https://www.adbridg.com/contact-us)
 
 [Copyright 2024 - Adbridg.com - All Rights Reserved](mailto:contactus@adbridg.com)
 
