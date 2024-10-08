@@ -58,9 +58,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/303001c4-8e37-4a1c-9701-a94080a6fba2/20241008T030259/303001c4-8e37-4a1c-9701-a94080a6fba2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/303001c4-8e37-4a1c-9701-a94080a6fba2/20241008T030259/303001c4-8e37-4a1c-9701-a94080a6fba2_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-milton/former-coal-valley-resident-preparing-hurricane-milton/526-cfc63e87-cf97-4cae-8b05-b9fafd219187)
         
-        #### [Former Coal Valley resident preparing for Hurricane Milton](https://www.wqad.com/article/weather/hurricane/hurricane-milton/former-coal-valley-resident-preparing-hurricane-milton/526-cfc63e87-cf97-4cae-8b05-b9fafd219187) [![](https://media.tegna-media.com/assets/WQAD/images/303001c4-8e37-4a1c-9701-a94080a6fba2/20241008T030259/303001c4-8e37-4a1c-9701-a94080a6fba2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/303001c4-8e37-4a1c-9701-a94080a6fba2/20241008T030259/303001c4-8e37-4a1c-9701-a94080a6fba2_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/hurricane-milton/former-coal-valley-resident-preparing-hurricane-milton/526-cfc63e87-cf97-4cae-8b05-b9fafd219187)
+        #### [Former Coal Valley resident preparing for Hurricane Milton](https://www.wqad.com/article/weather/hurricane/hurricane-milton/former-coal-valley-resident-preparing-hurricane-milton/526-cfc63e87-cf97-4cae-8b05-b9fafd219187)
         
-        #### [Hurricane Milton preparations from a former Coal Valley resident](https://www.wqad.com/article/weather/hurricane/hurricane-milton/former-coal-valley-resident-preparing-hurricane-milton/526-cfc63e87-cf97-4cae-8b05-b9fafd219187)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/6416c5b4-13a1-4472-8bf3-609f5962b2f3/20241007T230143/6416c5b4-13a1-4472-8bf3-609f5962b2f3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6416c5b4-13a1-4472-8bf3-609f5962b2f3/20241007T230143/6416c5b4-13a1-4472-8bf3-609f5962b2f3_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Ample sunshine ahead with dry skies and warmer temperatures](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-47°
+42°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
