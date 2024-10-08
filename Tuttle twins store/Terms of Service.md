@@ -35,7 +35,7 @@ Shipping & taxes calculated at checkout
 
 [Free shipping on orders $70+ (USA Only)](https://tuttletwins.store/collections/all)
 
-[Hurry, Up To 50% Off Books Ends Tonight!
+[Guild Days Is Live! 20% Off Sitewide.
 
 DAYS
 
@@ -49,7 +49,7 @@ MINS
 
 :
 
-SECS](https://tuttletwins.store/collections/book)
+SECS](https://tuttletwins.store/collections/guild)
 
     
 
