@@ -308,6 +308,10 @@
     
     Success Stories
     
+    [![Logo Energysage](https://static.wingify.com/gcp//uploads/2024/10/LOGO-energysage.png)
+    
+    EnergySage increased approved users by adding a personal touch to emails](https://vwo.com/success-stories/energysage/)
+    
     [![Logo](https://static.wingify.com/gcp//uploads/2024/03/image004.png)
     
     Performics Enhances Aapka Painter’s Lead Generation Process with VWO Testing](https://vwo.com/success-stories/performics/)
@@ -343,10 +347,6 @@
     [![Logo](https://static.wingify.com/gcp//uploads/2023/06/logo-2.png)
     
     ForestView optimizes website forms and boosts engagement with testing](https://vwo.com/success-stories/forestview/)
-    
-    [![Logo](https://static.wingify.com/gcp//uploads/2023/03/logo.png)
-    
-    Digital NRG optimizes website forms and CTAs via behavior insights and testing](https://vwo.com/success-stories/digital-nrg/)
     
     [View all Success Stories](https://vwo.com/success-stories)
     
