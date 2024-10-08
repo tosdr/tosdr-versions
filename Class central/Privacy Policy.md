@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [7 Best Microsoft PowerPoint Courses for 2024](https://www.classcentral.com/report/best-microsoft-powerpoint-courses/)
-2. [7 Best Microsoft Power BI Courses for 2024](https://www.classcentral.com/report/best-microsoft-power-bi-courses/)
-3. [5 Best Free Human Physiology Courses for 2024](https://www.classcentral.com/report/best-human-physiology-courses/)
-4. [9 Best Google Ads (Adwords) Courses for 2024](https://www.classcentral.com/report/best-google-ads-courses/)
-5. [6 Best SEO Courses for 2024: Rank Higher on Google](https://www.classcentral.com/report/best-seo-courses/)
+1. [6 Best Linguistics Courses for 2024](https://www.classcentral.com/report/best-linguistics-courses/)
+2. [7 Best Microsoft PowerPoint Courses for 2024](https://www.classcentral.com/report/best-microsoft-powerpoint-courses/)
+3. [7 Best Microsoft Power BI Courses for 2024](https://www.classcentral.com/report/best-microsoft-power-bi-courses/)
+4. [5 Best Free Human Physiology Courses for 2024](https://www.classcentral.com/report/best-human-physiology-courses/)
+5. [9 Best Google Ads (Adwords) Courses for 2024](https://www.classcentral.com/report/best-google-ads-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. law
+1. hacking
     
-2. project management
+2. machine learning
     
-3. machine learning
+3. cyber security
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Computer Networking
     
-    3,920 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Data Analysis
+    1,436 courses](https://www.classcentral.com/subject/computer-networking)
+2. [Web Design
     
-    7,846 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Python
+    2,288 courses](https://www.classcentral.com/subject/web-design)
+3. [Graphic Design
     
-    8,760 courses](https://www.classcentral.com/subject/python)
+    4,170 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Improving Communication Skills
+1. [Web Security Fundamentals
     
-    University of Pennsylvania](https://www.classcentral.com/course/wharton-communication-skills-8235)
-2. [Academic Writing
+    KU Leuven University](https://www.classcentral.com/course/computer-security-ku-leuven-web-security-fundamen-8726)
+2. [Academic Writing Made Easy
     
-    H.N.B Garhwal University (A Central University) Srinagar Garhwal](https://www.classcentral.com/course/swayam-academic-writing-13881)
-3. [Comprendere la filosofia
+    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/writing-technische-universitat-munchen-academic-w-13157)
+3. [The Emergence of the Modern Middle East - Part I
     
-    University of Naples Federico II](https://www.classcentral.com/course/philosophy-universita-degli-studi-di-napoli-feder-9240)
+    Tel Aviv University](https://www.classcentral.com/course/modernmiddleeast1-976)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
