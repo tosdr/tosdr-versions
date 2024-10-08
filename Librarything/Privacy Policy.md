@@ -588,7 +588,3 @@ Want
 [Blog](https://blog.librarything.com/)[WikiThing](https://wiki.librarything.com/)[Common Knowledge](https://www.librarything.com/commonknowledge/)[Early Reviewers](https://www.librarything.com/ner)[Legacy Libraries](https://www.librarything.com/legacylibraries)[Local](https://www.librarything.com/local)[APIs](https://www.librarything.com/developer)[TinyCat](https://www.librarycat.org/)
 
 [Verdana Standard](# "verdant_14")[Verdana Small](# "verdant_12")[The Lorax](# "verdant_tight_12")[System Standard](# "system_14")[System Large](# "system_15")[Georgia](# "georgia_14")[Large Text](# "system_large")[Atkinson](# "atkinson_16")
-
-I Agree
-
-This site uses cookies to deliver our services, improve performance, for analytics, and (if not signed in) for advertising. By using LibraryThing you acknowledge that you have read and understand our [Terms of Service and Privacy Policy](https://www.librarything.com/privacy). Your use of the site and services is subject to these policies and terms.
