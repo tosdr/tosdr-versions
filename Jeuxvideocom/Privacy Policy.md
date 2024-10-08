@@ -6,6 +6,7 @@ CONNEXION
     * Previews
     * Sorties
     * Hit Parade
+    * Les + populaires
     * Les + attendus
     * Tous les Jeux
 * Amazon Prime Day
