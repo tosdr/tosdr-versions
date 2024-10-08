@@ -17,6 +17,7 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 25% off on all Andrea Bocelli products** When you buy a ticket to Andrea Bocelli 30: The
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Flowers + Movies = Perfect Halloween** Get $40 off spooky flowers with ticket purchase.
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 50% off on Terrifier 2!** When you buy a ticket to Terrifier 3
@@ -74,21 +75,21 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer)
     
-* [Save $5 on Smile & Smile 2 Pre-Order Bundle image link ![Save $5 on Smile & Smile 2 Pre-Order Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a9d76f40-7d3d-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-smile2-292x118.png)](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer) 
+* [Save 25% off on all Andrea Bocelli products image link ![Save 25% off on all Andrea Bocelli products](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b5147840-82af-11ef-a07e-5b03d6159fe4--homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_Footer) 
     
-    ### Save $5 on Smile & Smile 2 Pre-Order Bundle
+    ### Save 25% off on all Andrea Bocelli products
     
-    Buy a Ticket, Save $5 on Smile & Smile 2 Pre-Order Bundle to watch at home.
+    Buy a Ticket, Save 25% off on Andrea Bocelli products at Verve Records Store.
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/Smile2GWPOffer?cmp=TARS~FANDANGO~Smile2TicketingOffer_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_Footer)
     
-* [Save 50% off on Terrifier 2 image link ![Save 50% off on Terrifier 2](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b90e0070-77a0-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-terrifier3-292x118.png)](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_Footer) 
+* [Flowers + Movies = Perfect Halloween image link ![Flowers + Movies = Perfect Halloween](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ef14aa80-7f8d-11ef-8321-2b978811c524--fan-globalofferunit-homepage-bouqshalloween-292x118-v2b.png)](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer) 
     
-    ### Save 50% off on Terrifier 2
+    ### Flowers + Movies = Perfect Halloween
     
-    Buy a Ticket, Save 50% off on Terrifier 2 to watch at home.
+    Get $40 off Spooky Flowers\* with your ticket purchase from 10/1 - 10/31. Don't miss out on this limited time offer!
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_Footer)
+    [LEARN MORE](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer)
     
 
 New & Coming soon
@@ -186,6 +187,16 @@ New & Coming soon
 [Advertise With Us](https://together.nbcuni.com/advertise/?utm_source=fandango&utm_medium=referral&utm_campaign=property_ad_pages)
 
 © 2024 Fandango
+
+### Special Offer
+
+Close
+
+![Save 25% off on all Andrea Bocelli products](https://images.fandango.com/cms/assets/9b07b1d0-82bc-11ef-a588-3b078e6b3d8a--fan-globalnavbar-andreabocelli-343x362.png)
+
+#### Buy a Ticket, Save 25% off on Andrea Bocelli products at Verve Record Store.
+
+\*Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Andrea Bocelli 30: The Celebration’ between 9:00am PT on 10/8/24 and 11:59pm PT on 11/14/24 (the “Offer Period”). Purchaser will receive a post purchase email containing 1 Verve Records Store Promotional Code (“Code”) that is good for 25% off the purchase of all Andrea Bocelli products in the store. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. [Buy Tickets](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_promomodule)
 
 ### LIMITED TIME OFFER
 
