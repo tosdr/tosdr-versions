@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is the talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-the-talcum-powder-lawsuit.jpg "What Is the Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-talcum-powder-lawsuit/ "What Is the Talcum Powder Lawsuit?")
+[![Who can file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-who-can-file-a-talcum-powder-lawsuit.jpg "Who Can File A Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/who-can-file-a-talcum-powder-lawsuit/ "Who Can File A Talcum Powder Lawsuit?")
 
-[#### What Is the Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-talcum-powder-lawsuit/)
+[#### Who Can File A Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/who-can-file-a-talcum-powder-lawsuit/)
 
-[![Where is johnson & johnson baby powder manufactured?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-where-is-j-and-j-baby-powder-manufactured.jpg "Where Is Johnson & Johnson Baby Powder Manufactured?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-is-johnson-and-johnson-baby-powder-manufactured "Where Is Johnson & Johnson Baby Powder Manufactured?")
+[![What is the best way to detect mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-chest-x-ray-show-mesothelioma.jpg "What is the Best Way to Detect Mesothelioma?")](https://www.pintas.com/lung-cancer/can-a-chest-x-ray-show-mesothelioma/ "What is the Best Way to Detect Mesothelioma?")
 
-[#### Where Is Johnson & Johnson Baby Powder Manufactured?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-is-johnson-and-johnson-baby-powder-manufactured)
+[#### What is the Best Way to Detect Mesothelioma?](https://www.pintas.com/lung-cancer/can-a-chest-x-ray-show-mesothelioma/)
 
-[![Facts about how mesothelioma patients die](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-mesothelioma-patients-die-2-scaled.jpg "Facts About How Mesothelioma Patients Die")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-do-patients-die "Facts About How Mesothelioma Patients Die")
+[![Who qualifies for a sexual abuse claim against the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-scaled-e1681853603360-300x230.jpg "Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-qualifies-for-a-sexual-abuse-claim-against-the-mormon-church/ "Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?")
 
-[#### Facts About How Mesothelioma Patients Die](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-do-patients-die)
+[#### Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-qualifies-for-a-sexual-abuse-claim-against-the-mormon-church/)
 
 ### Injured?  
 Tell Us What Happened.
