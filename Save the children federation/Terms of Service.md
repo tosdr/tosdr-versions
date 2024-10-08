@@ -247,6 +247,7 @@ Footer
 
 * [Privacy Policy](https://www.savethechildren.org/us/about-us/privacy-policy)
 * [Terms of Use](https://www.savethechildren.org/us/about-us/terms-of-use)
+* [Consumer Health Privacy](https://www.savethechildren.org/us/about-us/privacy-policy/wa-consumer-health-data-privacy-policy)
 * [Legal Disclosure](https://www.savethechildren.org/us/about-us/financial-information/legal-disclosure)
 * [Financial Information](https://www.savethechildren.org/us/about-us/financial-information)
 * [Sitemap](https://www.savethechildren.org/us/sitemap)
