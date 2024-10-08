@@ -31,6 +31,637 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Costa Rica es una puerta de ingreso para Ecuador en Centroamérica
+=================================================================
+
+El acuerdo comercial contempla temas como comercio electrónico, género, pueblos ancestrales... Además, beneficia a los productos industrializados.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada en Adobe Firefly con el prompt: Acuerdo comercial entre Costa Rica y Ecuador, que entró en vigencia en septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/PHOTO-2024-10-07-17-27-23.jpg)
+
+El acuerdo comercial entre **Ecuador y Costa Rica**, que recientemente entró en vigencia, es novedoso y diferente. Lo es si se compara con los tratados alcanzados con la Unión Europea, China o la Comunidad Andina.
+
+Este acuerdo no solo se centra en aspectos económicos, sino también incorpora disciplinas que fomentan el desarrollo sostenible. 
+
+Abarca temas sobre comercio, género y promueve la participación de pueblos indígenas y comunidades locales. 
+
+Además, ratifica compromisos internacionales relacionados con el medio ambiente, como el **Protocolo de Kioto y el Acuerdo de París.**
+
+> Tiene un enfoque integral para garantizar que los beneficios del comercio no se limiten a aspectos económicos, sino que también aborden preocupaciones sociales y ambientales.
+
+La inclusión de cláusulas sobre **derechos laborales y propiedad intelectual** es otro componente esencial que refuerza la importancia del acuerdo
+
+Es un acuerdo de nueva generación porque incluye al comercio electrónico. En ese ámbito plantea el fomento de las transacciones electrónicas, respeto de datos y protección del consumidor y la vinculación de las micro, pequeñas y medianas empresas.
+
+En p**ropiedad intelectual** establece la protección para los derechos y procesos simplificados de reconocimiento.
+
+En comercio exterior también tiene sus particularidades porque el principal beneficiado es el sector de manufactura.
+
+El sector industrial representa el 11% de las exportaciones no petroleras ni mineras de Ecuador. Esa cifra se eleva al 40% cuando se considera Centroamérica. 
+
+**Costa Rica**es un mercado clave, ya que las exportaciones ecuatorianas de manufactura a este país alcanzan el 54% de su total.
+
+La importancia del acuerdo no solo representa el aumento esperado de 43 millones de dólares en las exportaciones ecuatorianas, sino también en la diversificación de los mercados. 
+
+Costa Rica, con el segundo ingreso per cápita más alto de Centroamérica, ofrece un mercado atractivo que recibe alrededor de 200 productos ecuatorianos.
+
+Las perspectivas son positivas para productos ecuatorianos como cocinas y neumáticos, refrigeradoras, muebles, entre otros.
+
+La pedagogía crítica, reto de la docencia
+=========================================
+
+Revertir con ciencia y conciencia, antes que capitular ante la mediocridad es un desafío del docente. El discurso crítico es la opción.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen generada en Adobe Firefly con el prompt: Diálogos positivos entre estudiantes de escuela y la profesora o profesor.](https://www.elcomercio.com/wp-content/uploads/2024/10/Firefly-Dialogos-positivos-entre-estudiantes-de-escuela-y-el-profesor-o-profesora-23342-e1727968469304.jpg)
+
+**El tema del pensamiento es fundamental para entender el discurso que está detrás de la práctica pedagógica.** Existe **un pensamiento oficial** cuando el texto retrata la realidad como una fotografía, y **un pensamiento diferente, crítico o divergente** –también conocido como pensamiento lateral- cuando se representa a la realidad con un enfoque innovador, que se conoce como **creatividad**.
+
+**‘Copia’ o ‘Innovación’**
+--------------------------
+
+La educación en el Ecuador, en general, promueve el pensamiento oficial, que en la práctica significa la repetición, copia de conceptos o puntos de vista. Lo mismo sucede con la cultura, la política, la economía y todas las formas de organización social. 
+
+**El paradigma “reproduccionista” está instalado en un modelo de pensamiento**, que impide o retarda cualquier tipo de transformación. Todo pasa por la mente y las visiones que, a través de las estructuras cognitivas, configuran actitudes y comportamientos admitidos por el colectivo.
+
+**El pensamiento divergente o pensamiento lateral, según Edward De Bono, debería ser fomentado en todo escenario vital y no solo en las aulas**, porque es el pensamiento que cimenta el cambio, la búsqueda de causas y efectos de los fenómenos, y sobretodo visiones más amplias y globales de la realidad. 
+
+**El arte y la ciencia son resultados de pensamientos que rompen con los esquemas oficiales o “normales”,** y en ocasiones transgreden la realidad. Por eso, l**a innovación constituye el punto de partida y llegada de este proceso creativo.**
+
+**Los expertos afirman que los seres humanos utilizamos apenas un 10% de nuestras neuronas.** De ser así necesitaríamos no solo empeños sino estrategias para desarrollar el pensamiento divergente y crítico, que nos ayude a llegar **“hasta el nivel de nuestra incompetencia” (Principio de Peter).**
+
+**El pensamiento crítico debe ser reconocido como un espacio democrático** que permita acuerdos y disensos sobre temas educativos de interés nacional. **La opción es clara: más sobre lo mismo o un cambio responsable.** 
+
+**La semiótica didáctica** 
+---------------------------
+
+**El ámbito de estudio es el llamado currículo oculto, no escrito o no verbalizado.**Descifrar este problema –que, en esencia, es el problema del **poder**– sugiere una tarea compleja que, según los especialistas, ejerce mayor impacto que el currículo escrito -que se articula en los contenidos del plan de estudios-. 
+
+Un ejercicio investigativo serio, que busque alternativas teóricas y metodológicas para indagar algunas aristas del problema, a través del análisis del **discurso pedagógico**, ofrece la semiótica didáctica sugerida por **Jacques Foucault.**
+
+Una de las alternativas se inspira en la teoría crítica que se inscribe en la afirmación que los **“hombres y mujeres somos en esencia libres y que habitamos un mundo repleto de contradicciones y asimetrías de poder y privilegios”.** 
+
+La teoría crítica aprueba los enunciados que reconocen los problemas de la sociedad, como algo más que simples hechos aislados de los individuos o deficiencias de la estructura social. **Individuo y sociedad están entretejidos.** 
+
+Intenta trazar **interacciones desde el contexto a la parte**, desde el sistema interno al hecho, lo cual revela un **pensamiento dialéctico,** en la medida que reconoce a la **educación como un espacio de reproducción de saberes dominantes,** ante lo cual sería posible, lejos de los determinismos, la construcción social de los conocimientos y optar por la estrategia del **“conocimiento emancipatorio”,** que es la posición central de **Jürgen Habermas.**
+
+**Lenguaje, conocimiento y poder**
+----------------------------------
+
+**El docente tiene dos misiones básicas**: **revelar cómo la subjetividad es construida** y legitimada por medio de los discursos pedagógicos, y **desafiar las relaciones imaginarias** que los estudiantes viven, relacionadas con las condiciones simbólicas y materiales de su existencia. Se sabe que la labor del docente no es neutra; no es “inocente”. Si no hay esfera neutral, ¿cómo articular la experiencia del estudiante con los objetivos de aprendizaje? 
+
+El discurso del docente no puede quedarse en la denuncia social o en la disonancia cultural. **El maestro debe ser consciente que el lenguaje, el conocimiento y el poder están fuertemente unidos.** Por eso, **revertir con investigación y pasión, con ciencia y conciencia**, antes que capitular ante el estatus quo -caracterizado por el “vacío ético” y las desigualdades actuales que son abrumadoras- es un desafío del docente del tercer milenio.
+
+Existen corrientes de pensamiento o posturas que deben ser recogidas por los docentes: **Foucault, Derrida y Lyotard** ofrecen algunas pistas para desenmascarar los rituales del poder porque proponen perspectivas críticas y reformas innovadoras de las escuelas, lejos del conformismo de las políticas educativas.
+
+**Comunicación y pedagogía**
+----------------------------
+
+En las siguientes líneas, algunos puntos a considerar:
+
+* **La naturaleza e impacto de los mensajes –conscientes e inconscientes- del docente en sus alumnos** (la transmisión reproductora de la herencia cultural).   
+    
+* **El análisis del discurso pedagógico**, en la educación básica, –poco estudiado en nuestro medio- **y sus repercusiones en la formación o la deformación** –en casos- a través del uso social del discurso, la intencionalidad que trae aparejada y, por supuesto, sus posibles efectos en el ser y el modo de ser de los niños, niñas y adolescentes.  
+    
+* **El inventario de las formas discursivas, como paso previo para identificar el meta discurso** que subyace en “lo dicho y lo no dicho”, es decir, en el texto y el currículo oculto, y su problema básico: la naturaleza de los objetos del saber –modales o propiamente semánticos- que comunican los docentes. Los estudios de Daniel Prieto, argentino, son interesantes.    
+    
+* Si bien existen algunos estudios sobre los textos escolares, **la importancia de la comunicación lingüística, la semiótica didáctica y la incidencia del currículo oculto en los aprendizajes, no han sido considerados como objetos de investigación prioritarios** en el ámbito de la educación.  
+    
+* Se advierte, por tanto, **la poca o ninguna articulación existente, en el plano fáctico, entre la comunicación y la pedagogía, para la construcción de mensajes con intención educativa, sobre la base de análisis rigurosamente científicos del discurso pedagógico y propuestas para construir nuevas capacidades narrativas.**
+
+**Nuevo discurso pedagógico crítico**
+-------------------------------------
+
+Lo anterior **reafirma la grave incidencia de la educación de corte conductista** en general, y de la pedagogía subyacente, en particular, que mutila la vida mediante el desarrollo del pensamiento y la formación de valores del estudiante ecuatoriano, que se expresan, en distorsiones o arquetipos discursivos, verbales o no verbales, que **contribuyen a instaurar un modelo autoritario y hegemónico generador**, correlativamente, de baja autoestima y sentimientos de inferioridad reconocidos en varios estudios precedentes.
+
+**Es indispensable subrayar la necesidad de encontrar en un nuevo discurso pedagógico crítico** y en las nuevas capacidades narrativas**, la raíz de un cambio cualitativo de la sociedad**, en el que la escuela y sus ambientes de aprendizaje deben influir, y así mejorar los aprendizajes y formar un discurso crítico en los estudiantes.
+
+**Enseñar a pensar con criticidad es la clave para una transformación educativa integral.** Hay que insistir en el **desarrollo cognitivo** y en la **meta cognición** -unidos a la **educación emocional** y **valórica**– mediante el **pensamiento científico, artístico, lateral o divergente de todo el profesorado**. 
+
+**Si no hay cambios radicales en la formación inicial y continua de los docentes, seguirá la mediocridad y la retórica del cambio**, y el verdadero mejoramiento de la calidad con equidad será una quimera.
+
+Carlos Manuel Arízaga, poeta
+============================
+
+Un poeta de los años 60 cuyo legado combina naturaleza, raíces campesinas y profundidad espiritual en versos breves.
+--------------------------------------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+Nada ni nadie se libraba de su humor ácido, letal. Un **demonio rondaba** los meandros de su **espíritu**; el instante menos pensado se apoderaba de él para pulverizar al **ingenuo contertulio** que pretendía contradecirle mediante **frases lapidarias** y **abrasadoras**. No he conocido a nadie de su ocurrencia para endosar sobrenombres, al punto que estos quedaban grabados para siempre. Pero en los **intersticios** de su ser moraba un niño desolado y solitario, fuente de la cual fluía su poesía.
+
+**Carlos Manuel** (1938) vino de Cañar para cumplir sus **estudios universitarios**. El recuerdo de su madre pervivió en él como una **música triste y tierna**, junto al de su hermano mayor, Enrique, el inefable Oso, dandi de voz de trueno y artífice del soneto. “Ahí quedó mi pertenencia,/ la esperanza de la orquídea,/ la recordada niebla de los amaneceres,/ la tierra en que nací/ con similar desconcierto sobre el llanto”…
+
+Tzántzicos y Caminos
+--------------------
+
+Amanecían los 60 del siglo XX. Dos grupos avivaban la **cultura** en **Quito**, Tzántzicos y Caminos. El primero seducido por la **Revolución cubana**, el **existencialismo** sartreano y los **iconoclastas argentinos**. Caminos con poetas, pintores y músicos que oficiaron sus propuestas bajo la égida del “arte por el arte” y una tenue **preocupación social**.
+
+En Caminos se incorporó **Carlos Manuel**, gallardo, pulcro, **imperioso**, **poeta** que trascendió junto a Zabala Ruiz. A partir de ese lejano decenio mantuve **entrañable amistad** con él; las **asechanzas** del tiempo no menguaron nuestro irrevocable afecto. Nunca lo sentí lejos, a pesar de que desde hace años se autoconfinó, ninguno de sus escasos amigos supo dónde.
+
+**Libros breves y leves**, pero rápidos y crecientes, los suyos. En cada uno hay versos que cautivan por su **estructura cabal** y por las repentinas señales que entregan al lector, como si el poema fuere un cuerpo verbal fundado acorde a los **códigos de una estrategia** que, al circular en la memoria, despunta en súbitos espacios oleadas de **claridad y abismos** por donde la luz se despeña.
+
+“En ti que agitas el mar/ y pones oxígeno en la respiración de los gusanos,/ yo creo/ como hombre/ ofrendado al caminar…/ Yo creo en ti/ y pido/ paralices mis pasos”…
+
+**Carlos Manuel** no fue creyente, pero la Biblia era una de sus lecturas favoritas, y hay mucho de su **literatura** en su oficio. _Sobresalto_ fue su primer poemario, verso conciso y liviano, en un ensayo de “impresionismo” lírico. Luego cobra **abundancia** y **nervio**, acaso con signos de **influencia** de César Dávila Andrade, presencia infaltable en un **galpón devenido** en taberna frente al teatro Bolívar, al cual acudían los Caminos, luego de la **extinción** del memorable Café 77 donde hicieron de las suyas **Tzántzicos y Caminos.**
+
+Leo con algo de **nostalgia**, un **prólogo** de mi autoría en el **libro _Valija del desterrado_ de Carlos Manuel**, 1964. Ha pasado un tiempo sin tiempo. Me cuentan que ha muerto. Pienso en su amigo más cercano, el pintor Nilo Yépez, que ilustró la totalidad de su obra. Como si hubieran sido moldeados por una misma arcilla –risco y luz–, esparciendo su connatural **socarronería**, anduvieron juntos más de media vida.
+
+Ningún camino tiene fin, ni el **poeta** es **revelador** de mundos; el caminar hilvanando su senda es todo su mundo. Mundo en **incesante efervescencia**; una palabra seduce a otra, insiste en ella, traman una frase que a su vez se reproduce en otra y así se desvanece; mundo en **inagotable exterminio**.
+
+“Heme aquí,/ bienaventurados míos,/ os habla el potro herido/ en establo propio,/ el que a Dios ha robado/ en varas de olivo la tristeza”…
+
+**Registros palpitantes** se perciben en la poesía de **Carlos Manuel** cuando tienta lo sacro y engarces de hondo aliento cuando celebra sus raíces campesinas. Verso libre y limpio como el viento de su Cañar originario.
+
+Lo más significativo es su rehundimiento en la tierra y la naturaleza: “Qué manera de morir, oh, solitario,/ qué gigante, Madre,/ mi tristeza,/ cómo gritarte que vengas,/ de qué manera burlar el muro/… Solitario Hijo,/ solitaria Madre,/ los dos compadecidos”… Pienso en Carlos Manuel y su perpetua sonrisa marrullera. Su puntual compañía en las muertes de mis ancestros. Su **inveterada soledad.**
+
+“Ese hombre que ahuyentó las sombras/ con el fuego de sus ojos,/ tiene mi nombre, habla mi lenguaje,/ mira como yo, es alto:/ es mi padre”…
+
+Agua para saciar la sed y agua para mirar en su sinuoso fondo; no nuestros **secretos rostros**, sino una campiña que se teje y **desteje en conmociones** y fulgores: viñetas, mujeres y hombres, niños y viejos, geografías y sucesos lejanos, muy lejanos y tan cercanos. Agua de la memoria: la poesía de Carlos Manuel Arízaga.
+
+Las principales empresas de neumáticos, cerámica y muebles no operan en Cuenca
+==============================================================================
+
+Los industriales plantean que no les corten la luz durante cinco días seguidos y luego que no tengan el servicio de dos a tres días para no afectar a los negocios.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Parque Industrial de Cuenca está ubicado en 77,5 hectáreas. Allí hay 112 lotes donde funcionan grandes y pequeñas empresas. Archivo/EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/10/PHOTO-2024-10-07-12-15-38.jpg)
+
+**Cuenca** es líder **ecuatoriano** en la fabricación de neumáticos**, línea blanca**, **cerámica**, **muebles**, entre otros.
+
+Las principales empresas de estas actividades operan en el **Parque Industrial de Cuenca**, en el norte de la ciudad. Los cortes de luz se registran en este sector entre las 08:00 y las 18:00 desde el sábado 5 de octubre de 2024.
+
+El **Gobierno** anunció que esta medida durará al menos 15 días hasta recuperar las reservas energéticas de la **Central Mazar.**
+
+Empresas como Continental Tire Andina, Graiman, La Italiana, Nutri, Cartopel, Colineal, Fibroacero, entre otras, dejaron de producir. Sus generadores solo abastecen para actividades puntuales de la cadena productiva como áreas administrativas, cuartos fríos o empaquetado.
+
+Pero no abastecen para procesos o funciones que son más demandantes como el prendido y funcionamiento de los hornos, dijo el presidente ejecutivo de la **Cámara de Industrias, Producción y Empleo de Cuenca**, **Andrés Robalino.**
+
+### Más noticias
+
+* [Embalse de Mazar se acerca a la cota mínima, ¿aumentarán las horas de cortes de luz?](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-se-acerca-a-la-cota-minima-aumentaran-las-horas-de-cortes-de-luz.html "Embalse de Mazar se acerca a la cota mínima, ¿aumentarán las horas de cortes de luz?")
+* [Industrias de dos ciudades paralizadas por cortes de luz](https://www.elcomercio.com/actualidad/negocios/industrias-de-dos-ciudades-paralizadas-por-cortes-de-luz.html "Industrias de dos ciudades paralizadas por cortes de luz")
+* [Esto pierden las industrias por cortes de luz en Ecuador](https://www.elcomercio.com/actualidad/negocios/esto-pierden-industrias-cortes-luz-ecuador-camaron.html "Esto pierden las industrias por cortes de luz en Ecuador")
+
+Según él, para prender y que se calienten los hornos se requieren de dos a tres horas y un tiempo similar que se enfríen luego del apagado. “No es tan simple como prender o apagar un interruptor y cambiar de fuente de energía”.
+
+Es decir, la producción se paraliza entre 14 a 15 horas al día. “Las industrias no van a prender sus máquinas por cuatro o cinco horas porque les costaría más”.
+
+El peso del Parque Industrial de Cuenca
+---------------------------------------
+
+**Cuenca** facturó 5 547 millones de dólares, entre enero y julio de 2024. Robalino dice que la manufactura es la principal actividad económica de Cuenca. Representa el 35% del **PIB local** y genera el 40% de las **fuentes de traba**jo de la ciudad.
+
+Más del 60% de las fábricas (grandes, medianas y pequeñas) funcionan en el **Parque Industrial cuencano.**
+
+**Robalino** indica que aún no hay una evaluación económica del impacto de estos cortes. “La afectación es muy fuerte porque las empresas están totalmente paralizadas”.
+
+A más de la reducción en las ventas de las empresas y que los empleados no ganarán horas extras, el impacto también se sentirá en toda la cadena productiva. Robalino indica que las fábricas dejarán de comprar materias primas y no contratarán servicios como el transporte para llevar su mercadería.
+
+“Puede ocurrir lo mismo que ya pasó en la pandemia cuando la cadena de pagos se rompió”, destaca el representante gremial.
+
+En ese caso, los afectados serán las pequeñas empresas y proveedores que no solo están en **Cuenca** sino en todo el **Ecuador**, dijo Robalino. “Ese momento se presentará un impacto económico muy grave”.
+
+El abastecimiento de productos
+------------------------------
+
+Robalino no descarta que, de continuar la medida, se presenten desabastecimientos de los **productos fabrica**dos en Cuenca. Hay que considerar que el 95% de la producción cuencana se comercializa en otras regiones del Ecuador o en el extranjero.
+
+Robalino dice que esta medida castiga a las ciudades organizadas como Cuenca y Ambato, que ubicaron sus fábricas en parques industriales. Las empresas que están en zonas residenciales no tienen este impacto porque los cortes son por pocas horas.
+
+La Cámara de Industrias, Producción y Empleo plantea que el Gobierno revea la decisión y permita que el suministro eléctrico no se interrumpa durante cinco días seguidos para mantener la producción sin afectaciones y luego que se corte la luz durante dos o tres. De esa forma, las industrias pueden adaptarse y no paralizarse durante 15 días seguidos “porque las pequeñas no resistirían”, dice Robalino. 
+
+Daniel Noboa envía proyecto de ley para crear una nueva universidad ¿Dónde estaría ubicada?
+===========================================================================================
+
+El Gobierno explicó los pasos que dio antes de enviar el proyecto de ley ´para la creación de la nueva universidad a la Asamblea.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa envió el proyecto de ley para la creación de una nueva universidad esta noche.](https://www.elcomercio.com/wp-content/uploads/2024/08/Diseno-sin-titulo-13.jpg)
+
+El Gobierno de **Daniel Noboa** envió a la **Asamblea** un **proyecto de ley** para crear una **nueva universidad**, la noche de este lunes 7 de octubre de 2024[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+En marzo, el Gobierno estableció una inversión preliminar para la realización de este proyecto.
+
+### Más noticias:
+
+* [Universidades de Ecuador suben posiciones en ranking QS 2025](https://www.elcomercio.com/actualidad/universidades-de-ecuador-suben-posiciones-en-ranking-qs-2025.html "Universidades de Ecuador suben posiciones en ranking QS 2025")
+* [Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz](https://www.elcomercio.com/actualidad/empresarios-acercamiento-gobierno-daniel-noboa-cortes-luz.html "Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz")
+
+El Gobierno señaló que la iniciativa busca asegurar igualdad de oportunidades y reducir la brecha de acceso a una educación universitaria de calidad.
+
+La nueva universidad propuesta por Daniel Noboa ¿Dónde se ubicaría?
+-------------------------------------------------------------------
+
+El presidente Daniel Noboa explicó los pasos que ha dado para la creación de esta universidad y dónde estaría ubicada.
+
+El proyecto se denomina “Ley de Creación de la Universidad Pública de Santo Domingo de los Tsáchilas”.
+
+En marzo, el Gobierno estableció 228 230 dólares para la fase preliminar de la universidad.
+
+Esta fase incluye los estudios necesarios para complementar el expediente técnico-académico de la universidad y viabilizar su creación.
+
+Según el proyecto, las carreras para el inicio de las actividades académicas de esta nueva universidad serían:
+
+* Agronegocios
+* Emprendimiento e innovación social
+* Alimentos
+* Medicina veterinaria
+
+El 1 de octubre, Noboa entregó este expediente a la Asamblea Nacional, “para hacer realidad el sueño de los jóvenes de Santo Domingo de los Tsáchilas, que durante años les fue negado”, informó la Presidencia.
+
+> A la ciudadanía: [pic.twitter.com/iy8Ki7cvtU](https://t.co/iy8Ki7cvtU)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 8, 2024](https://twitter.com/Presidencia_Ec/status/1843488356417802325?ref_src=twsrc%5Etfw)
+
+Christopher Ciccone, hermano menor de Madonna, falleció
+=======================================================
+
+La reconocida cantante se despidió de su hermano en redes sociales con emotivas fotos de ambos.
+-----------------------------------------------------------------------------------------------
+
+![Madonna era mayor a Christopher por tres años](https://www.elcomercio.com/wp-content/uploads/2024/10/madonna.jpg)
+
+**Christopher Ciccone**, hermano menor de la cantante estadounidense **Madonna**, falleció a los 63 años, este domingo 6 de octubre de 2024.
+
+Según confirmó el representante del artista y exbailarín, Brad Taylor, Christopher murió el viernes 4 de octubre, en Michigan, Estados Unidos, acompañado de su esposo, el actor **Ray Thacker**.
+
+### Más noticias
+
+* [La Noche más Importante de la Música Latina: los Latin Grammy 2024 despertarán emociones inolvidables](https://www.elcomercio.com/empresariales/camina-alfombra-roja-latin-grammy.html "La Noche más Importante de la Música Latina: los Latin Grammy 2024 despertarán emociones inolvidables")
+* [P. Diddy, entre mujeres, música y demandas](https://www.elcomercio.com/tendencias/p-diddy-parejas-hijos-arresto-demandas.html "P. Diddy, entre mujeres, música y demandas")
+* [Rocola, rock y más música en la agenda de octubre de 2024 en Quito](https://www.elcomercio.com/tendencias/entretenimiento/rocola-rock-y-mas-musica-en-la-agenda-de-octubre-de-2024-en-quito.html "Rocola, rock y más música en la agenda de octubre de 2024 en Quito")
+
+El familiar de la reconocida artista luchaba contra un **cáncer**.
+
+“Mi hermano Christopher se ha ido. Él fue el ser humano más cercano a mí durante tanto tiempo”, escribió Madonna en una publicación en su cuenta de **Instagram**, que acompañó con una serie de fotos de ambos.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAy1hZpSqqd/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Madonna (@madonna)](https://www.instagram.com/p/DAy1hZpSqqd/?utm_source=ig_embed&utm_campaign=loading)
+
+Christopher Ciccone y su cercanía con Madonna en los escenarios
+---------------------------------------------------------------
+
+Ciccone nació el 22 de noviembre de **1960**, en Pontiac, Michigan.
+
+Empezó su carrera artística como **bailarín** y formó parte del grupo de danzantes que acompañaban a Madonna en los inicios de su carrera, en la primera mitad de la década de 1980.
+
+Cuando la trayectoria de la intérprete de ‘**Like a Virgin**‘ empezó a despuntar, Christopher se mantuvo a su lado y fue el director artístico de la gira mundial ‘**Blond Ambition**‘, entre otros tours, además ser el diseñador de interiores de las residencias de la cantante en Nueva York, Los Ángeles y Miami.
+
+“Fue **pintor, poeta y visionario**“, recordó Madonna, quien agregó: “Cuando se trataba de buen gusto, mi hermano era el Papa y había que besar el anillo para obtener su bendición”.
+
+Polémico libro
+--------------
+
+Christopher Ciccone publicó en 2008 el libro de memorias ‘**La vida con mi hermana Madonna**“, un éxito de ventas en el que describió facetas íntimas de la icónica artista y recuerdos de los tiempos en los que estaba de gira con ella, pero que, de acuerdo con algunos medios, motivó un distanciamiento entre los dos.
+
+En 2012, a raíz del lanzamiento de su propia línea de calzado, **The Ciccone Collection**, Ciccone declaró al canal estadounidense CBS que no se arrepentía de la publicación del libro.
+
+“Le dio a la gente la oportunidad de pensar en mí como una persona creativa, como un artista y no sólo como el hermano de Madonna, que es una etiqueta que llevaré para siempre”, explicó.
+
+Madonna también habló del tema y de cómo se **reconciliaron**.
+
+“No hablamos por un tiempo, pero cuando mi hermano se enfermó encontramos el camino de regreso el uno hacia el otro. Hice lo mejor que pude para mantenerlo con vida el mayor tiempo posible”, agregó la intérprete. 
+
+Jorge Guzmán se proclamó campeón de la Liga Básquet Pro
+=======================================================
+
+Jorge Guzmán sumó su segundo título de la Liga Básquet Pro al vencer a Zamora Jaguars, la revelación del torneo.
+----------------------------------------------------------------------------------------------------------------
+
+![Jugadores de Jorge Guzmán en las finales de la Liga Básquet Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/jorge_guzman_campeon_1.jpg)
+
+**Jorge Guzmán de Loja** cumplió con los pronósticos y se proclamó como el campeón de la tercera edición de la Liga Básquet Pro de Ecuador 2024, al vencer a Zamora Jaguars por un marcador global de 4-1.
+
+El quinto y definitivo partido entre **Jorge Guzmán y Zamora Jaguars se jugó la noche de este lunes 7 de octubre**. Como fue la tónica de estas finales, el Coliseo Ciudad de Loja lució lleno para atestiguar el encuentro.
+
+### Más noticias:
+
+* [El campeón de la Liga Básquet Pro recibirá 20 000 dólares de premio](https://www.elcomercio.com/deportes/futbol/campeon-liga-basquet-pro-premio.html "El campeón de la Liga Básquet Pro recibirá 20 000 dólares de premio")
+* [Campeón de la Liga Básquet Pro podrá jugar la Liga Sudamericana](https://www.elcomercio.com/deportes/baloncesto/liga-basquet-pro-campeonato-sudamericano.html "Campeón de la Liga Básquet Pro podrá jugar la Liga Sudamericana")
+* [Zamora Jaguars busca el título de la Liga Básquet Pro en su debut](https://www.elcomercio.com/deportes/baloncesto/zamora-jaguares-liga-basquet-pro.html "Zamora Jaguars busca el título de la Liga Básquet Pro en su debut")
+
+Los lojanos prácticamente aseguraron el título el **sábado 5 de octubre en el Coliseo Mayor de Deportes de Zamora**, al ganar el partido por 79-95 con lo que la serie se puso 3-1 en su favor.
+
+El **quinto encuentro se definió por 76-67 con lo que la serie terminó 4-1** y no fue necesario jugar los dos restantes compromisos, con lo que el título se quedó en Loja por segunda vez.
+
+Hay que recordar que en el 2022, en la **primera edición de la Liga Básquet Pro**, Jorge Guzmán se quedó con la corona al vencer a Barcelona Sporting Club por un marcador global de 4-2.
+
+Jugadores, cuerpo técnico, dirigentes e hinchas **se unieron en el festejo, al ritmo de “Loja en mi país” de la agrupación ecuatoriana Pueblo Nuevo**, y “We Are the Champions” de la banda británica Queen.
+
+Zamora Jaguars fue el primer en ser premiado como el flamante subcampeón, **mientras que Jorge Guzmán subió luego al escenario** para recibir sus medallas y trofeo que los acreditan como los nuevos monarcas del básquet de Ecuador.
+
+![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/10/jorge_guzman_campeon_2-1024x683.jpg)
+
+Foto: Cortesía/Jimmy Calva.
+
+Jorge Guzmán y su historia familiar
+-----------------------------------
+
+La creación de Jorge Guzmán empezó a tomar fuerza en plena pandemia del covid-19 en 2020 y **en noviembre de 2021**, unos meses antes de la primera edición de la Liga Básquet Pro en 2022, se hizo realidad como un homenaje.
+
+Jorge Guzmán, fallecido hace siete años, fue deportista y dirigente con gran trayectoria en esta provincia del sur del país. Con esa base su familia, con Diego, uno de sus hijos a la cabeza y presidente del club**, se encargaron de darle vida al equipo que participa con gran suceso** en el torneo nacional.
+
+“Mi padre fue un entusiasta en el proceso para mejorar el básquet en Loja y consiguió títulos locales y nacionales”, le cuenta Diego a EL COMERCIO en una entrevista telefónica, en donde detalló como se maneja esta exitosa institución.
+
+Para que el equipo principal destaque en la Liga Básquet Pro, **existe una infraestructura institucional manejada** como una empresa en donde cada uno de los colaboradores tiene un puesto y una función que cumplir, con el apoyo de unas 21 marcas de distinta índole.
+
+También hay espacio para las categorías juveniles que miran como una opción cierta llegar en algún momento a jugar en el equipo principal.
+
+![Foto: Cortesía/Jimmy Calva.](https://www.elcomercio.com/wp-content/uploads/2024/10/jorge_guzman_campeon_3-1024x683.jpg)
+
+Foto: Cortesía/Jimmy Calva.
+
+Marcadores de las finales
+-------------------------
+
+### Juego 1: Sábado 28/09
+
+Jorge Guzmán 78-75 Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 2: Lunes 30/09
+
+20:00 Jorge Guzmán 84-75 Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+### Juego 3: Jueves 3/10
+
+20:00 Zamora Jaguars 89-83 Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 4: Sábado 5/10
+
+20:00 Zamora Jaguars 79-95 Jorge Guzmán
+
+Coliseo Mayor de Deportes de Zamora
+
+### Juego 5: Lunes 7/10
+
+20:00 Jorge Guzmán 76-67 Zamora Jaguars
+
+Coliseo Ciudad de Loja
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Autoridades sobre el huracán Milton: ‘el tiempo se acaba’
+=========================================================
+
+Los meteorólogos de Estados Unidos calificaron como 'potencialmente catastrófica' la llegada del huracán Milton.
+----------------------------------------------------------------------------------------------------------------
+
+![Moradores y turistas han sido evacuados en algunos lugares de Florida y México](https://www.elcomercio.com/wp-content/uploads/2024/10/huracan-milton.jpg)
+
+Según informaron las autoridades de Estados Unidos, el huracán se ha fortalecido en tiempo récord, alcanzando la **categoría 5**, la mayor en la escala Saffir-Simpson.
+
+Se espera que su centro toque tierra el **miércoles 9 de octubre**, cerca de la bahía de Tampa, en el condado de Hillsborough (costa oeste de Florida).
+
+### Más noticias
+
+* [Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil](https://www.elcomercio.com/actualidad/seguridad/agresores-sexuales-estados-unidos-guayaquil.html "Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil")
+* [Florida se prepara para gran evacuación por huracán Milton](https://www.elcomercio.com/actualidad/mundo/florida-prepara-gran-evacuacion-huracan-milton.html "Florida se prepara para gran evacuación por huracán Milton")
+* [México alerta de un posible impacto del huracán Milton en la península de Yucatán](https://www.elcomercio.com/actualidad/mundo/mexico-alerta-posible-impacto-del-huracan-milton-peninsula-yucatan.html "México alerta de un posible impacto del huracán Milton en la península de Yucatán")
+
+El huracán, que presenta vientos máximos sostenidos de **257 kilómetros por hora** atravesará casi todo Florida de oeste a este a partir del próximo miércoles, detalló el Centro Nacional de Huracanes (NHC, en inglés).
+
+Autoridades sobre el huracán: ‘El tiempo se acaba’
+--------------------------------------------------
+
+El gobernador de Florida, el republicano **Ron DeSantis**, dijo esta tarde en una conferencia de prensa que, dado que no se puede anticipar con cuánta fuerza y el punto exacto donde impactará el huracán, es necesario que la mayoría de los floridanos tomen precauciones.
+
+“**Hoy tienes tiempo** para ejecutar el plan de emergencia. Tienes tiempo para asegurarte de que tú, tu familia y tus mascotas estén a salvo. Así que, por favor, hazlo. Esta no es una tormenta en la que quieras correr riesgos, tenemos que estar preparados”, enfatizó el funcionario.
+
+Se pronostica que el centro de Milton “se mueva cerca o justo al norte de la península de Yucatán esta noche y el martes”, cruce el este del Golfo de México y “se acerque el miércoles a la costa oeste de la península de Florida”, añadieron los meteorólogos.
+
+“El **potencialmente catastrófico**” huracán de categoría 5 Milton experimentará fluctuaciones, pero “seguirá siendo un huracán extremadamente peligroso hasta que toque tierra en Florida”, advirtió el NHC.
+
+Por el momento, **33 condados** se hallan bajo alerta de huracán y una veintena por marejada ciclónica.
+
+Los pronósticos más recientes predicen inundaciones de entre 3 y 4,5 metros sobre el nivel del mar en algunas partes de la región.
+
+Estados de México también se preparan
+-------------------------------------
+
+La evacuación de la isla de Holbox, en el estado mexicano de **Quintana Roo**, la implementación de un esquema de ‘toque de queda’ y la ley seca son parte de las acciones preventivas del Gobierno estatal para enfrentar el paso del huracán Milton, cuya trayectoria ha sorprendido.
+
+La gobernadora de Quintana Roo, Mara Lezama, estuvo este lunes en la isla Holbox para atestiguar los preparativos así como la evacuación de la Isla de turistas.
+
+Por su parte, David Morales Hernández, comandante del Ejército mexicano en **Cancún**, expuso que tienen desplegado de 80 agentes, además de 130 de la Guardia Nacional, para que en conjunto apliquen el Plan DN-III, para atender desastres naturales.
+
+Este lunes autoridades mexicanas alertaron que Milton podría impactar durante la noche o primeras horas del martes entre los municipios de Celestún y Progreso, Yucatán (sureste).
+
+Marco Angulo, de Liga de Quito, fue operado tras siniestro de tránsito
+======================================================================
+
+Marco Angulo, jugador de Liga de Quito, tuvo su primera cirugía después de un siniestro automovilístico y está en cuidados intensivos.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Marco Angulo, futbolista de Liga de Quito, durante un entrenamiento.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-07T215254.194.jpg)
+
+**Marco Angulo** tuvo su primera cirugía tras estar involucrado en un siniestro de tránsito durante este lunes 7 de octubre del 2024. Para hora de la tarde se programó su intervención y esta fue exitosa, sin embargo, se mantiene en **cuidados intensivos**, de acuerdo a fuentes de **Liga de Quito.**
+
+A raíz del incidente, que se produjo durante la madrugada en la **Autopista General Rumiñahui**, el futbolista fue trasladado al Hospital Eugenio Espejo de la capital. Tras ello, el Dr. Carlos Veintimilla, director médico-asistencial de la casa de salud, emitió el diagnóstico.
+
+### Más noticias:
+
+* [Marco Angulo, campeón de América con cinco cracks de Ecuador](https://www.elcomercio.com/deportes/futbol/marco-angulo-campeon-libertadores-sub-20.html "Marco Angulo, campeón de América con cinco cracks de Ecuador")
+* [Esto encontró la Policía en el vehículo siniestrado de Marco Angulo](https://www.elcomercio.com/actualidad/seguridad/botellas-de-alcohol-marco-angulo.html "Esto encontró la Policía en el vehículo siniestrado de Marco Angulo")
+* [FC Cincinnati toma acción tras siniestro de Marco Angulo](https://www.elcomercio.com/deportes/marco-angulo-cincinnati-siniestro-transito.html "FC Cincinnati toma acción tras siniestro de Marco Angulo")
+
+El galeno señaló que **Angulo** arribó en estado crítico y presentó un trauma severo, trauma del tórax y trauma de pelvis. Asimismo, este se encargó de notificar que se realizaría una cirugía a Marco Angulo después de que se le realizara una resonancia magnética.
+
+Una vez que se llevó a cabo el **procedimiento médico**, una fuente de Liga de Quito le manifestó a EL COMERCIO que esta fue favorable y se trató de una craniectomía descompresiva. Esta liberó el aumento de presión y el líquido presente en una capa importante a nivel cerebral.
+
+Pese a que Angulo ya pasó por el quirófano, también se manifestó que aún se está a la e**spera de su evolución**. A su vez, se debe evaluar los cuadros que presenta y aquellos que puedan surgir. Tras su permanencia en cuidados intensivos, el futbolista se mantiene con r**espiración artificial**. Desde la ‘U’ y el hospital donde permanece no han existido nuevos pronunciamientos oficiales.
+
+¿Cómo fue el accidente de Marco Angulo?
+---------------------------------------
+
+El siniestro en el cual estuvo involucrado el futbolista se produjo debido a que el automóvil en el que se movilizaba impactó con una viga en la **Autopista General Rumiñahui.** Aquello se produjo a la altura de la entrada a Conocoto.
+
+En vehículo en el cual se encontraba el mediocampista de los albos también estaban cuatro ocupantes, dos de ellos fallecieron a raíz del suceso. **Roberto Cabezas**, futbolista de Independiente Juniors -filial de Independiente del Valle- y **Víctor Charcopa** fueron quienes perdieron la vida.
+
+Los demás integrantes del vehículo, que resultaron heridos, fueron **Luis Solís Estupiñán y Andrés Neptalí** Castillo, de acuerdo a las autoridades.
+
+Marco Angulo y su trayectoria
+-----------------------------
+
+**Marco Angulo** se unió a Liga de Quito en marzo de 2024 y llegó cedido a préstamo. Profesionalmente, debutó con Independiente del Valle en 2021. A partir de aquel momento participó en **45 partidos** y anotó tres goles[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
+
+En noviembre de 2022, Angulo ya estuvo involucrado en un s**iniestro de tránsito** que  resultó  en  la muerte del conductor del vehículo en el que viajaba. El suceso fue inmediatamente anterior a su marcha hacia la MLS de Estados Unidos, donde Fichó por el **FC Cincinnati.**
+
+Con el **Cincinnati**, Angulo disputó 33 partidos. Tras una temporada se efectivizó su cesión al conjunto azucena.
+
+‘Martillador’ de Urdesa recibió sentencia luego de 13 años de cometido el crimen
+================================================================================
+
+Roberto Campos Crespo asesinó a su exenamorada, María Fernández, con múltiples martillazos en su cabeza, en octubre de 2011.
+----------------------------------------------------------------------------------------------------------------------------
+
+![El 'Martillador' estuvo prófugo de la justicia durante 12 años](https://www.elcomercio.com/wp-content/uploads/2024/10/martillador.jpg)
+
+Un Tribunal de Justicia declaró culpable a **Roberto Campos Crespo**, conocido como ‘El Martillador’, por el cruel asesinato de **María Fernanda Fernández**.
+
+El crimen, que ocurrió en el barrio Lomas de Urdesa, en el norte de Guayaquil, conmocionó a la ciudad y al país debido a la **brutalidad** con la que el agresor acabó con la vida de su exenamorada.
+
+### Más noticias
+
+* [Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil](https://www.elcomercio.com/actualidad/seguridad/agresores-sexuales-estados-unidos-guayaquil.html "Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil")
+* [Esto encontró la Policía en el vehículo siniestrado de Marco Angulo](https://www.elcomercio.com/actualidad/seguridad/botellas-de-alcohol-marco-angulo.html "Esto encontró la Policía en el vehículo siniestrado de Marco Angulo")
+* [¿Cuál es el estado de salud de Marco Angulo, jugador de Liga de Quito?](https://www.elcomercio.com/deportes/futbol/estado-de-salud-de-marco-angulo-jugador-liga-de-quito-siniestro.html "¿Cuál es el estado de salud de Marco Angulo, jugador de Liga de Quito?")
+
+La sentencia contra Campos llega **13 años después** de cometido el crimen.
+
+La noche del 4 de **octubre de 2011**, María Fernanda apareció sin vida en el baño del departamento que Roberto ocupaba en un condominio de Urdesa.
+
+La autopsia reveló que la joven de 21 años fue víctima de **decenas de martillazos** que le fracturaron su cabeza.
+
+Dentro de la audiencia, la parte acusadora presentó como pruebas un video en el que se observó a la pareja llegar al departamento, pero luego Roberto salió solo en un auto alquilado.
+
+En su testimonio, la madre de la víctima manifestó que su hija habría sido **acosada** por su exenamorado.
+
+El asesino estuvo prófugo durante **12 años**, desde que cometió el crimen.
+
+En abril de 2023 fue capturado por la Policía de Perú y **extraditado a Ecuador**.
+
+Asesino recibió 25 años de cárcel
+---------------------------------
+
+De acuerdo con Fiscalía, los jueces sentenciaron este lunes 7 de octubre de 2024 a Campos a **25 años de cárcel**, tras comprobarse que fue el autor del asesinato.
+
+El caso no pudo tratarse por **femicidio** debido a que este delito fue tipificado en Ecuador en 2014, y el hecho se cometió tres años atrás.
+
+La sentencia también incluye el pago de **100 000 dólares**, como reparación integral a la familia de la víctima.  
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Guayas](https://twitter.com/hashtag/Guayas?src=hash&ref_src=twsrc%5Etfw): Tribunal acogió las pruebas presentadas por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) y sentenció a 25 años de prisión –en el grado de autor– a Roberto Eliut C. C. por el [#Asesinato](https://twitter.com/hashtag/Asesinato?src=hash&ref_src=twsrc%5Etfw) de María Fernanda F. C., perpetrado el 4 de octubre de 2011 en Lomas de Urdesa, norte de [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/G5nlgbpA3n](https://t.co/G5nlgbpA3n)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [October 8, 2024](https://twitter.com/FiscaliaEcuador/status/1843458058376360408?ref_src=twsrc%5Etfw)
+
+Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz
+=================================================================================
+
+Los empresarios y el Gobierno de Daniel Noboa hablaron sobre los cortes de luz, en el Palacio de Carondelet.
+------------------------------------------------------------------------------------------------------------
+
+![Los empresarios se reunieron con representantes del Gobierno de Daniel Noboa por los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-18.jpg)
+
+Los **empresarios** lograron un **acercamiento** con el **Gobierno de Daniel Noboa** por los **cortes de luz**, la noche de este lunes 7 de octubre de 2024[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+Los acuerdos previos fueron anunciados por los empresarios tras una **reunión** de cerca de tres horas en el **Palacio de Carondelet**.
+
+### Más noticias:
+
+* [Lo que se conoce de los cortes de luz en el sector industrial](https://www.elcomercio.com/actualidad/negocios/lo-que-se-conoce-de-los-cortes-de-luz-en-el-sector-industrial.html "Lo que se conoce de los cortes de luz en el sector industrial")
+* [Industrias de dos ciudades paralizadas por cortes de luz](https://www.elcomercio.com/actualidad/negocios/industrias-de-dos-ciudades-paralizadas-por-cortes-de-luz.html "Industrias de dos ciudades paralizadas por cortes de luz")
+
+Los empresarios buscaron este acercamiento con el Gobierno, tras la disposición de suspender el servicio de energía eléctrica para el sector industrial **10 horas**, por **15 días**.
+
+El sábado 5 de octubre, el **Cenace** dispuso cortes de electricidad para el **sector industrial**, desde las 08:00 hasta las 18:00, durante 15 días.
+
+Ante esta medida, **María Paz Jervis**, presidenta del **Comité Empresarial Ecuatoriano**, solicitó su suspensión, hasta que se conforme un comité de crisis.
+
+Jervis advirtió que industrias como la láctea podrían verse afectada entre el 20% y el 30% de su producción.
+
+Esto equivale a la imposibilidad de procesar 500 000 litros de leche por día.
+
+Acercamiento de los empresarios con el Gobierno de Daniel Noboa por los cortes de luz
+-------------------------------------------------------------------------------------
+
+Tras la cita, la noche de este lunes, en el Palacio de Carondelet, María Paz Jervis, presidenta del Comité Empresarial Ecuatoriano, se mostró optimista.
+
+Jervis aseguró que las autoridades **ofrecieron continuar con mesas de diálogo y revisar la aplicación de 10 horas de cortes de luz por 15 días**.
+
+Sin embargo, la medida no se revisaría o se levantaría de inmediato.
+
+“Lo importante es institucionalizar un espacio de trabajo y el ofrecimiento de que van a reducir esta medida tan dramática de la paralización industrial en las próximas horas”, dijo.
+
+Jervis agregó que reconocen la apertura del Gobierno para el diálogo y concluyó que: “El Gobierno nos ha ofrecido revisar y confiamos que va a ser así”.
+
+Propuesta de los empresarios de Quito al Gobierno de Daniel Noboa por los cortes de luz
+---------------------------------------------------------------------------------------
+
+La Cámara de Comercio de Quito (CCQ) señala que el sector industrial consume 17 millones de kWh diarios.
+
+Esto, mientras que el sector residencial consume 24 millones de kWh.
+
+La medida actual ahorra 8,5 millones de kWh diarios recortando a la industria, cuando en realidad este ahorro podría optimizarse al distribuir la carga con el sector residencial.
+
+“Esta responsabilidad debe ser compartida equitativamente para no afectar de forma desproporcionada la producción y el empleo en el país”, señaló la CCQ, en un comunicado.
+
+La CCQ hace cuatro propuestas: reparto equitativo del ahorro energético, incentivos para Generadores Eléctricos, compensaciones a generadores privados e incentivos para el consumo eficiente.
+
+> 🚨Propuesta de Aplicación Urgente [pic.twitter.com/4chPSIzK7c](https://t.co/4chPSIzK7c)
+> 
+> — Cámara de Comercio de Quito (@lacamaradequito) [October 8, 2024](https://twitter.com/lacamaradequito/status/1843472890186084380?ref_src=twsrc%5Etfw)
+
+Marco Angulo, campeón de América con cinco cracks de Ecuador
+============================================================
+
+Marco Angulo se formó en Independiente del Valle y debutó, con gran suceso, en el primer equipo en el 2021.
+-----------------------------------------------------------------------------------------------------------
+
+![Marco Angulo con el trofeo de la Copa Libertadores sub-20 ganada en el 2020.](https://www.elcomercio.com/wp-content/uploads/2024/10/angulo_campeon_1.jpg)
+
+**Marco Angulo**, actual jugador de Liga de Quito, lucha por su vida luego del siniestro de tránsito que sufrió la madrugada de este lunes 7 de octubre de 2024 en la Autopista General Rumiñahui, que une Quito con Sangolquí.
+
+Marco Angulo **resultó gravemente herido y fue trasladado al Hospital Eugenio Espejo**, en donde se mantiene con pronóstico reservado, tras ser intervenido quirúrgicamente. Su pronóstico reservado.
+
+### Más noticias:
+
+* [Liga de Quito se pronuncia sobre el estado de salud de Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-de-quito-se-pronuncia-sobre-el-estado-de-salud-de-marco-angulo.html "Liga de Quito se pronuncia sobre el estado de salud de Marco Angulo")
+* [Roberto Cabezas, jugador de Independiente Juniors, falleció en siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/roberto-cabezas-jugador-de-independiente-juniors-fallecio-en-siniestro-de-transito.html "Roberto Cabezas, jugador de Independiente Juniors, falleció en siniestro de tránsito")
+* [(Video) Conmovedor homenaje de Andy Tenorio a su padre, Otilino](https://www.elcomercio.com/deportes/futbol/conmovedor-homenaje-de-andy-tenorio-a-su-padre-otilin.html "(Video) Conmovedor homenaje de Andy Tenorio a su padre, Otilino")
+
+Roberto Cabezas, jugador de Independiente Juniors, y **Víctor Charcopa**, quien no era futbolista, no sobrevivieron al impacto y fallecieron en este trágico siniestro que sacudió al país en esta nueva semana.
+
+Angulo, nacido en Esmeraldas hace 22 años, tiene en su palmarés personal seis títulos, divididos entre I**ndependiente del Valle y el FC Cincinnati de la Major League Soccer (MLS)**, dueño de los derechos económicos del deportista.
+
+En su paso por Estados Unidos ganó en la **Conferencia Este la MLS Supporters’ Shield**, trofeo que se le entrega al equipo que termina en el primer lugar en la temporada regular, antes de iniciar la ronda de los play-off.
+
+En el 2021 los del Valle lo promovieron, junto Carlos Gruezo Chamorro, Javier Sánchez y Alan Minda, al equipo profesional.
+
+Con Independiente fue parte de una época llena de títulos: la Liga Pro en el 2021, la **Copa Ecuador en el 2022 y la Copa Sudamericana en el 2022**, siendo uno de los jugadores revelación con una gran proyección en el fútbol ecuatoriano.
+
+Antes de saltar a la fama, Angulo ya era un nombre respetado dentro del mundo IDV, **puesto que fue parte del plantel que ganó la Copa Libertadores sub-20 en Paraguay**, con una generación de futbolistas que también brilla en la Selección de Ecuador.
+
+Marco Angulo, un campeón de América
+-----------------------------------
+
+El 1 de marzo de 2020, **Independiente del Valle derrotó 2-1 a River Plate** de Argentina en la final de la Copa Libertadores sub-20 en el estadio General Adrián Jara de Luque, Paraguay.
+
+Para los ecuatorianos **significó ganar el primer título de este torneo para confirmar** que se trataba de la mejor cantera del fútbol del país en el siglo XXI.
+
+**Daniel Bravo y Darlin Leiton** fueron los encargados de anotar los tantos del títulos. Para los argentinos Fernando Benítez había puesto el transitorio 1-1.
+
+Dentro de ese equipo estaba Marco Angulo. Fue titular ante Colo-Colo (victoria 1-0); **ingresó al cambio con Libertad (victoria 2-1)**; y volvió a la titularidad ante Jorge Wilsterman (victoria 5-0 con un tanto suyo).
+
+En las semifinales ante Flamengo estuvo en el banco de suplentes. En la gran final volvió a la titularidad y completó los 90 minutos.
+
+En ese equipo de Independiente compartió equipo junto a Piero Hincapié (Bayer Leverkusen de Alemania), **Willian Pacho (Paris Saint-Germain de Francia), Jhoanner Chávez (Lens de Francia)**, Moisés Caicedo (Chelsea de Inglaterra) y Pedro Vite (Vancouver Whitecaps de los Estados Unidos), cinco de los actuales seleccionados que se preparan para enfrentar a Paraguay y Uruguay en la doble fecha de eliminatorias.
+
+También estuvo **Alexis Villa, arquero de Independiente Juniors**, que es uno de los cinco invitados del entrenador Sebastián Beccacece, que también se entrena a la par del resto de jugadores en la Casa de la Selección.
+
+De los campeones de América también están los nombres de **Anthony Valencia (Royal Antwerp de Bélgica)**, y José Andrés Hurtado (Bragantino de Brasil), que también han sido convocados para el equipo absoluto tricolor.
+
+Formación de IDV
+----------------
+
+Johan López; José Hurtado, **Willian Pacho**, **Piero Hincapié** y Bryan García; **Marco Angulo**, **Moisés Caicedo**, Darlin Leiton (Neicer Acosta) y **Pedro Vite**; Daniel Bravo (Adrián Mejía) y Luis Ortiz (Angelo Peralta).
+
+DT: Yuri Solano
+
+![Foto: x Conmebol.](https://www.elcomercio.com/wp-content/uploads/2024/10/angulo_campeon_2-1024x683.jpg)
+
+Foto: x Conmebol.
+
+No te pierdas – El Confesionario
+--------------------------------
+
 ¿Quién era Roberto Cabezas, futbolista fallecido en siniestro de tránsito?
 ==========================================================================
 
@@ -68,6 +699,8 @@ En aquel torneo continental, el fallecido futbolista compartió camerino con **M
 La madrugada de este martes 7 de octubre del 2024, el vehículo que conducía **Roberto Cabezas** junto a **Marco Angulo** y otros tres integrantes impactó de frente con una viga en la autopista General Rumiñahui de Quito, a la altura de la entrada a Conocoto. Pese a que el automotor pertenecía a Angulo, su colega se encontraba al volante.
 
 A raíz del siniestro, **Cabezas** falleció al igual que Víctor Charcopa, otro de los integrantes. Angulo se encuentra en estado crítico y está internado en el Hospital Eugenio Espejo de la capital.
+
+Los demás integrantes del vehículo, que resultaron heridos, fueron **Luis Solís Estupiñán y Andrés Neptalí** Castillo, de acuerdo a las autoridades.
 
 Fiscalización deja en suspenso decisión sobre el juicio político contra Mónica Palencia
 =======================================================================================
@@ -110,6 +743,8 @@ Entre las acusaciones presentadas, se mencionaron cifras de supuesto incremento 
 Aunque el cargo que se desprende de la incursión policial en la Embajada de México en Quito era parte de las causales, en el borrador de informe se recomienda tomar distancia.
 
 Esto, “en virtud de que los hechos están siendo conocidos por una Jurisdicción Internacional”.
+
+**Este informe borrador, propuesto por la Presidencia de la Comisión de Fiscalización, recomienda el enjuiciamiento político de Palencia.**
 
 A las 19:48, una vez que el Secretario de la Comisión concluyó con la lectura del informe, Aguirre suspendió la sesión para el análisis del informe por parte de los asambleístas.
 
@@ -407,637 +1042,3 @@ Solicitud del gremio empresarial
 --------------------------------
 
 Los empresarios pidieron al Gobierno Nacional suspender el apagón industrial y formar un **comité de crisis permanente** para abordar tanto la coyuntura actual como los problemas estructurales de la matriz energética del país y evitar crisis similares en el futuro. El Gobierno Nacional, por su parte, invitó al gremio a un diálogo la tarde de este lunes 7 de octubre, en el Palacio de Carondelet, en el Centro Histórico de Quito.
-
-México alerta de un posible impacto del huracán Milton en la península de Yucatán
-=================================================================================
-
-Las autoridades mexicanas activaron planes de emergencia a cargo de las Fuerzas Armadas del país en modo de prevención.
------------------------------------------------------------------------------------------------------------------------
-
-![El huracán Milton alcanza categoría 4 en el Golfo de México rumbo a Florida.](https://www.elcomercio.com/wp-content/uploads/2024/10/huracan-milton-efe-1.jpg)
-
-Autoridades de México alertaron este lunes, 7 de octubre de 2024, de que [Milton](https://www.elcomercio.com/actualidad/mundo/florida-prepara-gran-evacuacion-huracan-milton.html "https://www.elcomercio.com/actualidad/mundo/florida-prepara-gran-evacuacion-huracan-milton.html"), que se intensificó por la mañana a **huracán categoría 5**, podría impactar durante la noche entre los **municipios de Celestún** y Progreso, en el estado de Yucatán. Es decir en el **sureste del país**, por lo que pidieron a la población extremar precauciones.
-
-### Más noticias
-
-* [Florida se prepara para gran evacuación por huracán Milton](https://www.elcomercio.com/actualidad/mundo/florida-prepara-gran-evacuacion-huracan-milton.html "Florida se prepara para gran evacuación por huracán Milton")
-* [Huracán Helene deja 215 fallecidos por Helene en EE.UU.](https://www.elcomercio.com/actualidad/mundo/numero-fallecidos-helene-ee-uu-supera-215.html "Huracán Helene deja 215 fallecidos por Helene en EE.UU.")
-* [Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz](https://www.elcomercio.com/actualidad/mundo/helene-deja-sureste-ee-uu-menos-26-muertos-cuatro-millones-sin-luz.html "Huracán Helene deja en EE.UU. 26 fallecidos y más de cuatro millones sin luz")
-
-“Considerando el cono de incertidumbre y bajas presiones sobre Yucatán, y debido a su desplazamiento con dirección a la costa norte de Campeche y Yucatán, se prevé que, durante esta noche, el centro del huracán pueda impactar entre **Celestún y Progreso**”, señaló la coordinadora del Servicio Meteorológico Nacional (SMN), Alejandra Méndez Girón.
-
-Ante ello, indicó en un comunicado que se mantiene una **zona de prevención de Celestún** a Río Lagartos, Yucatán; zona de vigilancia por **efectos del huracán de Río Lagartos** a Cabo Catoche, Quintana Roo, además de Celestún a San Francisco de Campeche.
-
-La funcionaria apuntó que tras tocar tierra, sus **bandas nubosas** afecten el norte de Campeche y Quintana Roo y todo el estado de Yucatán.
-
-Centro del meteoro
-------------------
-
-Tras el posible impacto, dijo que se espera que el **centro del meteoro** pueda desplazarse bordeando las costas de Yucatán hasta el **norte de Quintana Roo**, donde podría cambiar de dirección al noreste, y para el miércoles dirigirse hacia Florida, Estados Unidos.
-
-Puntualizó que a las 12:00 del centro de México, Milton se localizó a 130 kilómetros (km) al noroeste de Celestún y a **170 km al oeste-noroeste de Progreso**, ambas localidades de Yucatán, con vientos de 280 kilómetros por hora (km/h), rachas de 330 km/h, y se desplaza hacia el este a 15 km/h.
-
-Además, previó que **golpee la península con vientos de 180 a 200 km/h**, oleaje de 6 a 8 metros de altura, lluvias torrenciales en **Campeche, Yucatán y Quintana Roo**, entidades donde se esperan inundaciones y aumento en niveles de ríos y arroyos.
-
-También, acotó, se espera la presencia de **posibles trombas marinas** y daños en sistema eléctrico y casas con techos de lámina.
-
-Planes de emergencia
---------------------
-
-Horas antes, las autoridades mexicanas activaron planes de emergencia a cargo de las Fuerzas Armadas del país en modo de prevención para atender cualquier desastre provocado por el ciclón.
-
-En la temporada de huracanes 2024, **tres ciclones golpearon a México por el Atlántico:** el huracán Beryl y la **tormenta Chris**, que dejaron saldo blanco en julio, y la **tormenta Alberto**, en junio, cuando dejó seis muertos en Nuevo León, norte de México.
-
-El Gobierno mexicano reportó el viernes pasado al menos 236 636 afectados en Guerrero, estado del sur de México que el **23 de septiembre padeció el golpe de John**, huracán categoría 3 que dejó al menos 29 muertos, acumulados en los estados de Guerrero, Oaxaca y Michoacán, y **severas inundaciones** que ceden muy lentamente.
-
-‘Es importante identificar características únicas de cada paciente para tratar la obesidad’: Andrés Acosta
-==========================================================================================================
-
-Andrés Acosta, endocrinólogo ecuatoriano de Mayo Clinic, destaca la importancia de un enfoque individualizado para tratar la obesidad.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Andrés Acosta busca comprender la regulación de la saciedad y la interacción entre el intestino, el hígado y el cerebro.](https://www.elcomercio.com/wp-content/uploads/2024/10/image_720.png)
-
-En la lucha contra la obesidad, el enfoque tradicional no es suficiente. Cada persona es diferente y sus motivos para ganar peso pueden variar. **Andrés Acosta, endocrinólogo ecuatoriano de Mayo Clinic**, explica por qué es esencial un tratamiento individualizado.
-
-Acosta enfatiza la importancia de comprender no solo los aspectos emocionales, sino biológicos, hormonales y genéticos de por qué una persona tiene obesidad.
-
-Más noticias
-------------
-
-* [El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios](https://www.elcomercio.com/tendencias/salud/ecuador-tambien-afronta-el-aumento-de-pacientes-con-sobrepeso-y-obesidad.html "El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios")
-* [Alerta por efectos adversos del uso de fármacos para perder peso en Ecuador](https://www.elcomercio.com/actualidad/la-ute-y-arcsa-alertan-sobre-efectos-adversos-del-uso-de-farmacos-para-perder-peso-en-ecuador.html "Alerta por efectos adversos del uso de fármacos para perder peso en Ecuador")
-
-**¿Por qué es tan importante un tratamiento individualizado para tratar la obesidad?**
-
-Es importante tomar en cuenta que existe muchos motivos por cuales cada persona desarrolla o tiene obesidad. También existe muchas formas únicas en que cada persona va a bajar de peso. Es importante identificar cuáles son las características únicas de cada paciente y darles un tratamiento preciso. No todos los terapias funcionan para todos. Es ideal encontrar la terapia correcta para el paciente correcto.
-
-**¿Cómo manejarl**o **cuando hay problemas psiquiátricos y/o psicológicos, adicciones, baja autoestima que conduce a bulimia-anorexia, entre otros y la persona prueba** **varios tratamientos sin resultados?**
-
-Acabas de topar varios temas importantes. El primero es ¿por qué un paciente gana peso y desarrolla obesidad? Es importante entender que la obesidad es una enfermedad multifactorial. La mayoría de las causas que mencionaste son factores relacionados con nuestra parte psicológica o una persona que come por estrés por problemas hedónicos. Aunque la mayoría piensa que la obesidad es un problema de estrés, en realidad solo el 30% de personas con obesidad tiene un problema multifactorial.
-
-Hay que pensar que la mayoría tiene obesidad por problemas biológicos, hormonales, patofisiológicos. Nuestro estómago al comunicarse con nuestro cerebro no funciona de forma correcta o porque nuestro metabolismo está inactivo. El problema es más bien patofisiológico en la biología que regula las sensaciones del apetito, ya sea el hambre o la llenura o el metabolismo de cómo quemamos calorías.
-
-Al separar la obesidad de un problema emocional entendemos que lo vamos a tratar de forma individualizada. Pero también entendemos ¿por qué hay ciertas personas que responden también? Si fuera puramente emocional y de adicciones diríamos que la persona entendió que tenía un problema emocional. Entonces empezó a dejar de comer, se volvió al ejercicio, fue cambiando sus adicciones y, eventualmente, encontró algo más saludable para llenar ese vacío emocional. Pero al mismo tiempo hay personas que siempre tienen hambre y no se dan cuenta o no se sienten llenos. En ese tipo de personas es mucho más difícil hacer cambios de comportamiento. Es muy difícil luchar en contra de nuestra biología y por eso muchos pacientes no son exitosos.
-
-**¿Cómo trata la obesidad, una vez separados estos factores?**
-
-Uno de los mejores ejemplos que uso es cuando hablamos sobre las hormonas tiroideas ¿Qué te da el problema la tiroides? Si hablas con cualquier endocrinólogo, los síntomas son: piel seca, estreñimiento y caída de cabello. ¿Cuáles son los síntomas de la obesidad? Mucha gente con obesidad tiende a sentir mucha hambre, especialmente cuando queremos bajar de peso, el metabolismo se inactiva. ¿Por qué en una enfermedad como la tiroidea te doy tratamiento y cubro los síntomas? ¿Por qué en otra no puedo darte tratamiento y curar tus síntomas?
-
-Entonces tenemos que separar. Hay pacientes que no necesitan hormonas o tratamientos para la obesidad. Ellos logran cambiar su estilo de vida y con eso es suficiente sin tratar la causa de base. Al haber muchos factores, dependiendo de tu factor inicial es muy fácil o muy complejo tratarlo. Y, solo cuando sepamos cuál es el factor de base sabremos qué tan fácil es.
-
-**¿Cuáles son las características que se toman en cuenta en este enfoque individual?**
-
-Nosotros explicamos la obesidad desde el punto de vista de los fenotipos. Es la interacción de la genética con nuestro ambiente, con las cosas que nos rodean y qué hacemos. Esta combinación nos dice que hay cuatro tipos predominantes de por qué una persona va a desarrollar obesidad.
-
-El primero es el **cerebro hambriento**. Las personas empiezan a comer y no tienen sensación de llenura, por lo que no saben cuándo parar.
-
-Luego tenemos a las personas que tienen un **intestino o un estómago hambriento**. Empiezan a comer, se sienten llenos, pero dentro de una o dos horas están listos para comer de nuevo.
-
-El tercer grupo es lo que tú mencionaste: las personas que comen por sus emociones. Yo les llamo gente que tiene ’emotion leading’ en inglés, en español sería una **hambre emocional**. Comen por estrés, ansiedad y cada vez que tienen algo bueno quieren comer y cuando tienen algo malo quieren comer.
-
-En el cuarto grupo están personas que tienen el **metabolismo inactivo**. No queman suficientes calorías, tal vez comen poco pero su cuerpo no les permite quemar esas calorías y van ganando de peso.
-
-**¿Por qué es clave esta clasificación?**
-
-Esta clasificación se puede unir a otras, por ejemplo la de dónde acumulamos grasa una vez que empezamos a ganar de peso. Hay gente que guarda la grasa en el tejido adiposo, otras en la barriga y en las caderas. Después hay gente que gana peso y desarrolla resistencia a la insulina, diabetes, enfermedades cardiovasculares. También pueden desarrollar otras enfermedades, como dolor de las articulaciones, de rodillas, etcétera. Es importante porque nos ayuda a guiar el tratamiento de una forma individualizada y al mismo tiempo explicar al paciente, por qué tienen obesidad. De esta forma pueden adoptar herramientas que les permita ser más exitosos.
-
-**¿Cómo se determinan estos fenotipos en la práctica diaria?**
-
-Hacemos una batería de pruebas que sean objetivas. No nos gusta simplemente conversar con el paciente. Lo hemos hecho con más de 1000 pacientes y con eso sabemos qué es normal y qué es anormal. Al mismo tiempo lanzamos una compañía en la cual se hace una prueba genética. Ésta nos dice quién tiene la predisposición para cada grupo de obesidad. El tratamiento es guiado con este examen.
-
-**¿Cuánto tiempo toman estas pruebas y cómo se hace?**
-
-Es muy simple. Se hace un raspado de la mucosa del cachete o se colecta saliva. En siete a 10 días se tiene el resultado de la prueba genética. El resto se realiza en 10 horas. Es esencial entender que no todos tenemos una predisposición genética para ganar peso. A esto lo llamamos medicina de precisión.
-
-**Luego de ubicar a la persona en un grupo y dar el tratamiento ¿Qué desafíos enfrenta?**
-
-El desafío se vuelve más interesante, porque el paciente que recibe el diagnóstico inmediatamente entiende por qué tiene la enfermedad. Empieza a hacer los cambios necesarios para combatir su fenotipo. En cambio el paciente que no recibe esta información simplemente dice voy a tomar esta medicina o voy por cirugía. No entiende verdaderamente por qué va a funcionar o no.
-
-Muchas veces tenemos pacientes que gastan de su bolsillo, porque el seguro no cubre, para una cirugía o medicinas costosas. No sería mejor decir: vas a responder a esta medicina o a esta otra y es diferente a la que estás pensando y te recomendaron.
-
-Es importante cambiar la discusión sobre la obesidad y dejar de hablarlo como un tema de sobremesa. Hablarlo con el médico y que se haga un diagnóstico clínico, incluso genético. Hay que hacerle entender al paciente por qué debe tomar la enfermedad de forma seria y tener una solución de por vida.
-
-**En Ecuador, los pacientes que tienen recursos económicos son los que más acceden a tratamientos**. **Pero, no se habla de este análisis de fenotipos y pruebas genéticas…**
-
-Estoy pensando en que el tratamiento de la obesidad en EE.UU. al igual que en países de Latinoamérica se va a crear una brecha importante entre quienes tienen recursos económicos y los que no.
-
-Por otro lado, la gente que tiene recursos cree que puede pagar más, pero no siempre eso es lo mejor para ellos. Es un problema de salud pública muy serio y desgraciadamente a la larga va a perjudicar a mucho a países como Ecuador, en el que todavía existen los dos extremos: malnutrición y obesidad severa y los dos traen muchos costos a largo plazo. Los tratamientos actuales como el semaglutide no han demostrado ser costo eficientes a nivel poblacional. Espero que los costos de las medicinas bajen y de esa forma tratar a la mayoría de personas.
-
-**¿Qué recomendaciones a quienes han probado todo tipo de cosas con resultados deficientes?**
-
-Mucha gente ha intentado, pero no han intentado todo guiadas por un especialista en obesidad. Hay nutriólogos, endocrinólogos, gastroenterólogos que se especializan en esta enfermedad.
-
-Mi segunda recomendación es intentar llegar a la causa de base de la obesidad. No simplificar con tengo ansiedad o tal cosa. Buscar esas pruebas y, si no existe en Ecuador, buscarlas afuera e intentar encontrar la solución. Tercero: pensar que es un problema de por vida y no tenemos que esperar una solución rápida porque muchas veces creemos, por ejemplo, solo bajé un kilo al mes ya no sirve.
-
-Usualmente toma 10 a 20 años llegar al peso que está actualmente, ¿por qué esperar que el resultado se lo vea en pocos meses? Hay que tener un poco de paciencia, es un problema crónico y la solución es de por vida. Por ejemplo si en 10 años gané 10 kilos, por qué tengo que esperar tres meses cuando puedo bajarlo en seis meses o un año.
-
-**No decaer si es que hay un rebote…**
-
-Es importante entender que muchas veces cuando fracasamos o bajamos algo de peso y lo recuperamos no es nuestra culpa. Nuestro sistema biológico nos está atacando como un cáncer y eso es bien difícil de entender porque intentamos inmediatamente culparnos. Más bien decir quién me puede ayudar como cualquier otra enfermedad
-
-**¿Qué ocurre cuando la persona tiene comorbilidades. Hoy hay un debate médico, entre quienes creen que primero hay que tratar las otras enfermedades y otros que priorizan la obesidad**
-
-Al ser un experto en obesidad y entender que la obesidad es una enfermedad que conlleva y te lleva a tener otras enfermedades es importante entender que al tratar la obesidad tratas las otras.
-
-Yo siempre manejo el peso de un paciente primero. El rato que lo hago estoy manejando la diabetes, el hígado graso, la hipertensión, el colesterol, los dolores de rodillas, de articulaciones, el riesgo cardiovascular, etcétera.
-
-Manejo más de 260 enfermedades solo al manejar la obesidad. Pero muchas veces como toma tiempo hay que manejarlas en combinación con las otras enfermedades. Hay que pensar siempre que el peso es lo más importante para mejorar la salud de nuestros pacientes.
-
-**¿Lo maneja con otros especialistas?**
-
-Hay casos, por ejemplo, que por primera vez fue diagnosticado de diabetes, entonces manejo la obesidad y la diabetes. En otros casos vienen a verme referidos por un cardiólogo. Ahí manejo la obesidad y la enfermedad cardiovascular, que maneja el cardiólogo. Tenemos un equipo multidisciplinario.
-
-**¿Cómo ve a futuro esta enfermedad cuando la gente es sedentaria, tiene malos hábitos alimenticios?**
-
-Vivimos en un mundo, en que a la mayoría nos predispone a ganar peso. Como bien dices somos más sedentarios y tenemos más acceso a alimentos. La calidad de los alimentos no son tan buenos y eso contribuye a ganar más peso. Tenemos que buscar tiempo y espacio para la comida saludable, el ejercicio.
-
-No hay que poner excusas. Hay que buscar soluciones. Si puedes ir al trabajo en transporte, no parquees en la puerta. Camina. Puedes comprar comida poco saludable, pero puedes elegir opciones más sanas.
-
-Tener hábitos saludables no es solo para tratar la obesidad. Es importante separar eso. Si tienes un peso normal es bueno adoptar hábitos saludables. Si ya tienes obesidad busca la ayuda de un experto.
-
-Su hoja de vida
----------------
-
-* Andrés Acosta es médico, científico y emprendedor, certificado en Medicina Interna, Gastroenterología y Medicina de la Obesidad. Se graduó de MD en la Universidad San Francisco de Quito y obtuvo su PhD en la Universidad de Florida.
-* Es profesor y labora en [Mayo Clinic](https://www.mayo.edu/research/faculty/acosta-andres-j-m-d-ph-d/bio-20189108), en Rochester-Minnesota. Ahí co-dirige el programa de Investigación en Nutrición y Obesidad y dirige el programa de Medicina de Precisión para la Obesidad.
-
-Los siniestros de tránsito dejan una huella de luto en el fútbol ecuatoriano
-============================================================================
-
-Los siniestros de tránsito han cobrado la vida de jugadores como Roberto Cabezas, Otilino Tenorio y Carlos Muñoz, entre otros.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Carlos Muñoz, atacante que deslumbró con la camiseta número 7 del Barcelona SC murió en un accidente de tránsito en 1993.](https://www.elcomercio.com/wp-content/uploads/2024/10/CarlosMunoz.jpg)
-
-El **fútbol ecuatoriano** enfrenta un duro golpe tras la trágica muerte del futbolista **Roberto Cabezas**, quien perdió la vida en un **siniestro de tránsito** en la madrugada del 7 de octubre de 2024.
-
-El trágico percance ocurrió en el sector del Puente 8, en la Autopista General Rumiñahui de **Quito**, y dejó un saldo devastador: además de **Cabezas**, falleció **Víctor Charcopa**, otro de los ocupantes del vehículo.
-
-Lamentablemente, Cabezas no ha sido el único **futbolista** ecuatoriano fallecido en las vías.
-
-En su momento, el país también lamentó el fallecimiento de **Carlos Muñoz** y **Otilino Tenorio**, dos renombrados futbolistas tricolores. Los **siniestros de tránsito** han enlutado al fútbol ecuatoriano
-
-### Más noticias:
-
-* [Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro](https://www.elcomercio.com/deportes/futbol/piero-hincapie-muerte-roberto-cabezas-tragico-siniestro.html "Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro")
-* [Roberto Cabezas, jugador de Independiente Juniors, falleció en siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/roberto-cabezas-jugador-de-independiente-juniors-fallecio-en-siniestro-de-transito.html "Roberto Cabezas, jugador de Independiente Juniors, falleció en siniestro de tránsito")
-* [Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/equipos-de-ecuador-lamentan-el-fallecimiento-de-roberto-cabezas.html "Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas")
-
-**Siniestros de tránsito en Ecuador**
--------------------------------------
-
-Cabezas, de apenas 22 años y jugador del **Independiente Juniors**, se encontraba en el auto junto a cuatro personas más, incluyendo a su compañero de profesión **Marco Angulo** (Liga de Quito), quien actualmente se encuentra hospitalizado en estado grave.
-
-La directiva de **Independiente Juniors** expresó su dolor a través de un comunicado: “Lamentamos profundamente el fallecimiento de nuestro jugador **Roberto Carlos Cabezas Simisterra**, en un siniestro de tránsito ocurrido en horas de la mañana”.
-
-Esta tragedia resuena en un contexto donde el país ha tenido que afrontar la pérdida de otros futbolistas icónicos, como **Carlos Muñoz** y **Otilino Tenorio**, quienes también fallecieron en trágicos **siniestros de tránsito** en Ecuador.
-
-![Roberto Cabezas ganó la Libertadores Sub-20 con Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-07T123144.346-1024x683.jpg)
-
-Roberto Cabezas ganó la Libertadores Sub-20 con Independiente del Valle.
-
-### Roberto Cabezas: Una promesa truncada
-
-Roberto Cabezas, a sus 22 años, prometía ser una de las estrellas del fútbol ecuatoriano.
-
-Actualmente, militaba en **Independiente Juniors**. Su pérdida no solo deja un vacío en el equipo, sino también en los corazones de aficionados que veían en él un futuro brillante en el deporte. La comunidad futbolística llora la pérdida de un talento en ascenso.
-
-![Otilino 'Spider-Man' Tenorio jugó también en El Nacional. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/05/Otilino-Tenorio-1024x683.jpg)
-
-Otilino ‘Spider-Man’ Tenorio jugó también en El Nacional. Foto: Archivo / EL COMERCIO
-
-### Otilino Tenorio: El ‘Spider-Man’ del gol
-
-**Otilino Tenorio**, conocido como el **‘Spider-Man’** del gol, falleció hace 19 años, dejando un legado imborrable en el fútbol ecuatoriano.
-
-Nació en Guayaquil el 1 de febrero del 1980. Falleció en la vía entre [Santo Domingo](https://es.wikipedia.org/wiki/Santo_Domingo_(Ecuador)) y Quevedo, el 7 de mayo del 2005. Estaba en su vehículo y chocó contra otro automotor.
-
-Tenorio, quien se destacó con las camisetas de **Emelec** y **El Nacional,** es recordado por su estilo único de celebración, que incluía el uso de una máscara de superhéroe.
-
-Su último gol lo anotó precisamente a Emelec, el 17 de abril del 2005, en el Olímpico Atahualpa. Fue en la victoria de El Nacional por 5-2 ante los azules. ‘Otigol’ anotó tres tantos y no los festejó con la máscara. Por el contrario, lo hizo con un corazón de felpa que decía: “¡Con Amor!”
-
-Los restos de Otilino Tenorio Bastidas fueron velados en Guayaquil, su ciudad natal.
-
-Su trágica muerte en un accidente de tráfico ocurrió el 7 de mayo de 2005, y su influencia sigue presente entre las nuevas generaciones de futbolistas.
-
-### Carlos Muñoz: El ídolo de Barcelona SC
-
-**Carlos Muñoz**, un ícono del Barcelona SC, falleció en 1993 en un accidente de tránsito.
-
-Conocido por su velocidad y habilidad en el campo, Muñoz dejó una huella indeleble en la historia del club. Su entrega y pasión por el juego lo convirtieron en un ídolo para los aficionados, quienes aún lo recuerdan con cariño.
-
-Años después de su muerte, su legado continúa vivo, y su nombre resuena en cada rincón del estadio Monumental de Guayaquil.
-
-El [‘Frentón’ Muñoz](https://www.elcomercio.com/deportes/barcelona-carlos-munoz-acccidente-goles.html) falleció el 26 de diciembre de 1993. La tragedia ocurrió camino a General Villamil ‘Playas’, cuatro días después de haber sido determinante al notar tres goles contra **El Nacional** para que los toreros se clasificaran para la Copa Libertadores. Ese fue su último partido de fútbol.  
-
-El petróleo de Texas supera los 77 dólares, pendiente de ataque de Israel contra Irán
-=====================================================================================
-
-El crudo de referencia estadounidense se disparó la semana pasada por la escalada de tensiones en Oriente Medio.
-----------------------------------------------------------------------------------------------------------------
-
-![Fotografía de archivo que muestra una plataforma petrolífera.](https://www.elcomercio.com/wp-content/uploads/2024/10/petroleo-efe.jpg)
-
-El [precio del petróleo](https://www.elcomercio.com/actualidad/mundo/aniversario-del-7-de-octubre-de-2023-de-la-guerra-en-la-franja-de-gaza.html "https://www.elcomercio.com/actualidad/mundo/aniversario-del-7-de-octubre-de-2023-de-la-guerra-en-la-franja-de-gaza.html") intermedio de Texas cerró este lunes 7 de octubre de 2024, con una subida del 3,7 %, hasta **77,14 dólares el barril**, con el mercado pendiente de un posible ataque de Israel contra Irán.
-
-Más noticias
-------------
-
-* [¿Quién fue Taylor Rousseau Grigg, joven ‘tiktoker’ de Estados Unidos que falleció?](https://www.elcomercio.com/afull/taylor-rousseau-grigg-tiktoker-moda.html "¿Quién fue Taylor Rousseau Grigg, joven ‘tiktoker’ de Estados Unidos que falleció? ")
-* [Las reservas de petróleo de Estados Unidos caen en 14,5 millones de barriles](https://www.elcomercio.com/actualidad/negocios/reservas-petroleo-estadosunidos-disminuyen-barriles.html "https://www.elcomercio.com/actualidad/negocios/reservas-petroleo-estadosunidos-disminuyen-barriles.html")
-* [Una recesión en Estados Unidos cómo le afectará a Ecuador](https://www.elcomercio.com/actualidad/negocios/recesion-estados-unidos-como-afectara-ecuador.html "https://www.elcomercio.com/actualidad/negocios/recesion-estados-unidos-como-afectara-ecuador.html")
-
-Al cierre de la jornada en la **Bolsa Mercantil de Nueva York (Nymex),** los contratos de futuros del WTI para entrega en noviembre sumaron 2,76 dólares con respecto a la sesión anterior.
-
-El crudo de referencia estadounidense se disparó la semana pasada por la **escalada de tensiones** en Oriente Medio, con un **ataque de Irán** contra Israel el martes al que se espera que pronto responda el estado hebreo.
-
-Israel, que continúa los **bombardeos sobre Líbano y Gaza** en el séptimo día desde el inicio de su incursión terrestre en territorio libanés, prometió ya una respuesta y la incógnita es cuándo, dónde y cómo.
-
-El viernes, el presidente de EE.UU., Joe Biden, en una rueda de prensa en la Casa Blanca, instó a **Israel a buscar “alternativas a atacar campos petroleros”** tras decir primero, improvisadamente, que barajaban esa opción.
-
-La **guerra en Oriente Medio,** región rica en petróleo, de momento no interrumpió el suministro global de crudo, pero los analistas temen que **Irán ataque el estrecho de Ormuz**, una ruta importante para su transporte.
-
-Aparte de los factores geopolíticos, Estados Unidos se prepara para el huracán Milton, que podría tocar tierra en Florida más adelante esta semana tras atravesar el **Golfo de México**, donde están instaladas varias petroleras.
-
-En otros mercados, los contratos de gas natural para entrega en noviembre cayeron a **2 746 dólares** por mil pies cúbicos y los contratos de gasolina con vencimiento en el mismo mes subieron a 2 1538 dólares el galón.
-
-Rocola, rock y más música en la agenda de octubre de 2024 en Quito
-==================================================================
-
-Música para todos los gustos sonará en octubre en Quito.
---------------------------------------------------------
-
-![Darío Castro, de Verde 70, se prepara para su concierto en Quito. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-07T172720.446.jpg)
-
-**Conciertos** para todos los gustos se realizarán durante **octubre** de 2024. En la lista están los shows de Verde 70, **Amon Anarth**, Voz Veis, entre otros. 
-
-### **Más noticias:** 
-
-* [Fans de Karol G hurgaron en sus redes y se encontraron con ‘Diddy’ Combs](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-diddy-combs-fans-redes-sociales.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-diddy-combs-fans-redes-sociales.html")
-* [Karol G y otra estrella latina animarán en vivo los Premios MTV](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-anitta-premios-mtv-latinas.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-anitta-premios-mtv-latinas.html?source=Internal&ref=Single+Content+Link")
-* [Thalía rinde un emotivo homenaje a Soda Stereo](https://www.elcomercio.com/tendencias/entretenimiento/thalia-soda-stereo-homenaje-persiana-americana.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/thalia-soda-stereo-homenaje-persiana-americana.html?source=Internal&ref=Single+Content+Link")
-
-**Una velada romántica en la CCE**
-----------------------------------
-
-Los **Verde 70** estarán nuevamente sobre el escenario del Teatro Ágora de la Casa de la Cultura Ecuatoriana para deleitar al público con temas como En la inmensidad, Palabras, Tanto ganas Tanto pierdes, entre otros. 
-
-**Segundo Rosero y más rocoleros cantarán en Quito**
-----------------------------------------------------
-
-Segundo Rosero, **Noe Morales**, Cecilio Alva y más artistas nacionales protagonizarán la velada ‘Rockola Fina y algo más’. 
-
-Los promotores anunciaron que será este 18 de octubre, desde las 19:00, en la **Plaza de Toros Quito**.  El concierto se realizará como un homenaje a los 60 años de vida artística de Noe Morales. 
-
-**Voz Veis en concierto**
--------------------------
-
-La agrupación **Voz Veis** llegará a Quito para presentar ‘La Última Función World Tour’. Su concierto está previsto para el 25 de octubre, en el Centro de Convenciones **Teleférico**. 
-
-Voz Veis es reconocido por temas como, Aunque sea poco, Solo por esta vez, La niña de mis ojos.
-
-**Roqueros se tomarán el Teleférico**
--------------------------------------
-
-**Amon Amarth**, banda de metal sueca, conocida por su potente sonido y líricas inspiradas en la mitología nórdica y la historia vikinga, visitará Quito. 
-
-Temas de álbumes como ‘Once Sent from the Golden Hall’ y ‘Twilight of the Thunder God’ sonarán el 24 de octubre, en el Centro de Convenciones El Teleférico. 
-
-Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil
-========================================================================
-
-Los ciudadanos constaban en el programa Angel Watch, destinado a identificar a personas condenadas por delitos sexuales.
-------------------------------------------------------------------------------------------------------------------------
-
-![El Ministerio del Interior, a través de la Policía migratoria, coordina las actividades irregulares de extranjeros en nuestro territorio](https://www.elcomercio.com/wp-content/uploads/2024/10/migracion.jpg)
-
-El Ministerio del Interior impidió la entrada a Ecuador de **dos ciudadanos** que venían de Estados Unidos, este lunes 7 de octubre de 2024.
-
-Tras aterrizar en el Aeropuerto José Joaquín de Olmedo de **Guayaquil**, personal de Migración verificó sus identidades y se percató que estaban registrados en el **Programa Angel Watch**.
-
-### Más noticias
-
-* [Carlos Pólit fue sentenciado a 10 años de prisión en Estados Unidos](https://www.elcomercio.com/actualidad/seguridad/carlos-polit-sentenciado-10-anos-prision-estados-unidos.html "Carlos Pólit fue sentenciado a 10 años de prisión en Estados Unidos")
-* [Estados Unidos actualiza la lista de países que no necesitan visa para entrar en 2024](https://www.elcomercio.com/actualidad/mundo/estados-unidos-actualiza-la-lista-de-paises-que-no-necesitan-visa-para-entrar-en-2024.html "Estados Unidos actualiza la lista de países que no necesitan visa para entrar en 2024")
-* [Estados Unidos endurecerá sus políticas comerciales y migratorias](https://www.elcomercio.com/actualidad/mundo/ee-uu-endurecera-politica-comercial-migratoria-quien-sea-presidente.html "Estados Unidos endurecerá sus políticas comerciales y migratorias")
-
-El Angel Watch es una iniciativa del Departamento de Seguridad Nacional de los Estados Unidos, en el que constan las personas condenadas por **delitos sexuales** y que podrían representar un riesgo para los niños.
-
-El programa busca proteger a los menores de edad de la explotación y el **abuso sexual**.
-
-Luego de asegurarse que los identificados eran los buscados por la justicia de Estados Unidos, la Policía migratoria realizó el proceso para **regresarlos** de manera inmediata a su país de origen.
-
-Uno de ellos era estadounidense, mientras que el otro de **República Dominicana**.
-
-> ¡DOS AGRESORES SEXUALES DEVUELTOS A ESTADOS UNIDOS!  
->   
-> 🚨 [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)| En el Aeropuerto José Joaquín de Olmedo de [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw), personal de [#Migración](https://twitter.com/hashtag/Migraci%C3%B3n?src=hash&ref_src=twsrc%5Etfw), inadmitió a dos ciudadanos estadounidenses quienes, luego de ser identificados, fueron retornados de manera inmediata a su país de… [pic.twitter.com/6koEpHXMtQ](https://t.co/6koEpHXMtQ)
-> 
-> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [October 7, 2024](https://twitter.com/MinInteriorEc/status/1843351704705872126?ref_src=twsrc%5Etfw)
-
-Migración expulsó a colombiano de Ecuador
------------------------------------------
-
-Migración también expulsó del país a un ciudadano colombiano que cumplió una pena privativa de libertad de más de **cinco años** en Ecuador.
-
-Las autoridades trasladaron y entregaron al hombre al país del norte, en el Centro Nacional de Atención Fronteriza Rumichaca.
-
-El ciudadano tiene prohibido ingresar a Ecuador durante **10 años**.
-
-> 🚨[#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)| En [#Ibarra](https://twitter.com/hashtag/Ibarra?src=hash&ref_src=twsrc%5Etfw), personal de [#migración](https://twitter.com/hashtag/migraci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) procedió con la expulsión de un ciudadano colombiano luego de cumplir una pena privativa de libertad en el país de más de cinco años.  
->   
-> ➡️Prohibición de retornar al territorio durante 10 años.  
->   
-> ➡️El traslado y entrega de la persona… [pic.twitter.com/ao80CHHGI5](https://t.co/ao80CHHGI5)
-> 
-> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [October 7, 2024](https://twitter.com/MinInteriorEc/status/1843396061391397132?ref_src=twsrc%5Etfw)
-
-Droga valorada en más de tres millones de dólares, incautada
-------------------------------------------------------------
-
-En otro tema de seguridad, la Policía Nacional ejecutó la operación **Cero Impunidad 2 260** en Guayaquil.
-
-En este operativo, los uniformados capturaron en flagrancia a **cinco personas**, quienes contaminaban con droga un contenedor que tenía como destino Europa.
-
-El contenedor se encontraba a bordo de un tráiler y tenía previsto ingresar a un puerto marítimo, con destino final a un puerto de **Bélgica**.
-
-Los ecuatorianos aprendidos fueron: Manuel Alfonso H. O., Wilmer Israel B.P., Eddy Jair O.M., Jonathan Eduardo V. M.; y, Wilmer Stenio C. T..
-
-El operativo dejó varios indicios incautados:
-
-* **80 kilos de clorhidrato de cocaína**
-* 1 tráiler tipo cabezal
-* 1 contendor
-* 8 celulares
-* $150 dólares
-* 1 rastreador GPS
-
-La droga aprehendida valdría en Ecuador unos 160 000 dólares; al llegar a Europa este valor se incrementaría a **3,2 millones de dólares**.
-
-Alrededor de ocho millones de dosis de droga fueron impedidas de circular en el mercado.
-
-Fallece el tercer cuervo de la Torre de Londres y crece el temor por la profecía real
-=====================================================================================
-
-La leyenda cuenta que seis de estos animales deben vivir siempre en la torre de Londres para evitar que la realeza caiga.
--------------------------------------------------------------------------------------------------------------------------
-
-![Foto referencial. Es el tercer cuervo que muere en los últimos tres años en la famosa Torre de Londres.](https://www.elcomercio.com/wp-content/uploads/2024/10/birds-6557512_1280-e1728332902243.jpg)
-
-La **muerte** del **tercer cuervo** en la Torre de Londres ha reavivado temores sobre una **antigua profecía** que predice el **colapso** del **reino británico** si estos pájaros abandonan el castillo. La **leyenda**, que se remonta al reinado de Carlos II, sostiene que la **desaparición** de los **cuervos** provocaría la caída de la torre y, con ello, el fin de la **monarquía**[.](https://es.wikipedia.org/wiki/Torre_de_Londres "https://es.wikipedia.org/wiki/Torre_de_Londres")
-
-### Más noticias
-
-* [Los pasos ‘prohibidos’ de salsa del príncipe Harry y Meghan Markle en Colombia](https://www.elcomercio.com/tendencias/entretenimiento/los-pasos-prohibidos-de-salsa-del-principe-harry-y-meghan-markle-en-colombia.html)
-* [Kate Middleton confirma el fin de su quimioterapia](https://www.elcomercio.com/afull/kate-middleton-quimioterapia-cancer.html "Kate Middleton confirma el fin de su quimioterapia")
-* [El documental de los Duques de Sussex ya tiene fecha de estreno](https://www.elcomercio.com/tendencias/entretenimiento/documental-duques-sussex-fecha-estreno.html?source=Internal&ref=Single+Content+Link)
-
-Recientemente, un **cuervo** fue encontrado muerto con la cabeza atrapada en su jaula, lo que marca la tercera pérdida en tres años. A pesar de esto, los Yeomen Warders, encargados de cuidar a estas aves, se aseguran de que siempre haya al menos seis cuervos en la torre. Los actuales son **Jubilee, Harris, Poppy, Georgie, Edgar y Branwen.**
-
-El papel vital del maestro de los cuervos en la profecía de la monarquía británica
-----------------------------------------------------------------------------------
-
-Michael “Barney” Chandler, un excomandante de los Royal Marines, ha asumido el papel de “**maestro de los cuervos**” desde marzo. Su responsabilidad es cuidar y alimentar a las aves, un trabajo que él considera crucial para la **supervivencia** del **Reino Unido**, según la profecía. Chandler ha expresado su aprecio por los cuervos, destacando su **inteligencia** y **personalidad** única. Para evitar que se escapen, se les recortan algunas plumas.
-
-La **creciente preocupación** por la **muerte** de los **cuervos** resuena en el contexto actual de la **monarquía británica** y su **estabilidad**.
-
-La historia de la Torre de Londres
-----------------------------------
-
-La Torre de Londres, ubicada a orillas del **río Támesis**, es una de las fortalezas más icónicas de Inglaterra. Su historia se remonta a 1066, cuando **Guillermo el Conquistador** ordenó su construcción para consolidar su dominio sobre Londres tras su victoria en la **batalla de Hastings**.
-
-La **Torre Blanca**, su estructura más emblemática, fue terminada en 1078 y sirvió como símbolo de poder y **fortaleza militar**.
-
-A lo largo de los siglos, la Torre ha tenido diversos usos: **residencia real, prisión,** casa de la moneda, armería y hasta zoológico. Durante el siglo XVI, se convirtió en un **lugar temido**, ya que fue el escenario de numerosas ejecuciones de figuras prominentes, como **Ana Bolena**, la segunda esposa de **Enrique VIII**, acusada de traición.
-
-Esta imagen de prisión infame se mantuvo **durante siglos**, y hasta mediados del siglo XX, **prisioneros de guerra** fueron detenidos en sus mazmorras.
-
-Además de su función militar y su papel en la historia política del **Reino Unido**, la Torre de Londres alberga las **Joyas de la Corona**, que incluyen algunas de las piezas más valiosas y significativas de la monarquía británica, como la **Corona Imperial y el Cetro Real**.
-
-Hoy en día, es uno de los **destinos turísticos** más populares de Londres, atrayendo a millones de visitantes cada año, fascinados por su rica historia y **misteriosas leyendas**.
-
-Cortes de luz en Cuenca este martes 8 de octubre
-================================================
-
-En Cuenca, los cortes de luz mantienen la misma reducción que el resto del país para el martes 8 de octubre.
-------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Cuenca mantienen la reducción horaria que ordenó el Gobierno para este martes 8 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/04/vela-scaled.jpg)
-
-Los **cortes de luz** en **Cuenca** y otras ciudades del Austro para este **martes 8 de octubre** de 2024 fueron establecidos por **Centrosur**.
-
-Con el anuncio de reducción de horas, el **Gobierno** estableció un rango de franjas horarias para los cortes de luz.
-
-### Más noticias:
-
-* [Embalse de Mazar se acerca a la cota mínima, ¿aumentarán las horas de cortes de luz?](https://www.elcomercio.com/actualidad/negocios/embalse-de-mazar-se-acerca-a-la-cota-minima-aumentaran-las-horas-de-cortes-de-luz.html "Embalse de Mazar se acerca a la cota mínima, ¿aumentarán las horas de cortes de luz?")
-* [Industrias de dos ciudades paralizadas por cortes de luz](https://www.elcomercio.com/actualidad/negocios/industrias-de-dos-ciudades-paralizadas-por-cortes-de-luz.html "Industrias de dos ciudades paralizadas por cortes de luz")
-
-Así, de lunes a jueves, cuatro horas seguidas entre las 00:00 y las 08:00; y dos horas seguidas entre las 18:00 a 22:00.
-
-De viernes a domingo, cuatro horas seguidas entre las 00:00 y 10:00; y dos horas seguidas entre las 16:00 y 19:00.
-
-Ecuador sigue consumiendo la poca agua de embalse de **Mazar**, ubicado entre Cañar y Azuay, y se acerca a su cota mínima.
-
-Esto, pese a que el Gobierno de **Daniel Noboa** decidió programar 10 horas de cortes de luz para el sector industrial, con el objetivo de cuidar este reservorio.
-
-Los horarios de suspensión del servicio de energía eléctrica en Cuenca el martes 8 de octubre
----------------------------------------------------------------------------------------------
-
-  
-Con base en estos lineamientos, Centrosur emitió los horarios para Cuenca y otras ciudades del Austro, este martes 8 de octubre.
-
-Está previsto que la **reducción** de horas se mantenga hasta el domingo 20 de octubre.
-
-La variación dependerá de las condiciones hídricas y energéticas del país.
-
-A continuación, los horarios y los sectores de cortes de luz en Cuenca y otras ciudades del Austro este martes 8 de octubre:
-
-Semana de la Educación Financiera empezó en escuelas y colegios
-===============================================================
-
-Educación Financiera se practica en las aulas en el régimen Sierra-Amazonía.
-----------------------------------------------------------------------------
-
-![Actividades lúdicas se desarrollan en planteles educativos públicos.](https://www.elcomercio.com/wp-content/uploads/2024/10/educacion-financiera.jpg)
-
-Este año lectivo 2024-2025, en la **Sierra-Amazonía** de Ecuador, comenzó con nuevas materias, entre estas, **Educación Financiera**, para escuelas y colegios[.](https://es.wikipedia.org/wiki/Ecuador)
-
-Con las nuevas temáticas, que incluyen **Cívica**, educación Emocional, Vial y Desarrollo Sostenible, también llegaron otras dinámicas.
-
-### Más noticias
-
-* [¿Cómo se organizarán las nuevas materias en el regreso a clases en la Sierra-Amazonía?](https://www.elcomercio.com/actualidad/ecuador/nuevas-materias-regreso-clases-sierra-amazonia.html "¿Cómo se organizarán las nuevas materias en el regreso a clases en la Sierra-Amazonía?")
-* [Regreso a clases incluye programas de seguridad en escuelas con riesgos](https://www.elcomercio.com/actualidad/ecuador/regreso-a-clases-programas-seguridad-escuelas-riesgos.html "Regreso a clases incluye programas de seguridad en escuelas con riesgos")
-* [Ministerio de Educación detalló los horarios de clases hasta el jueves 10 de octubre](https://www.elcomercio.com/actualidad/ecuador/ministerio-educacion-horarios-clases-semana-octubre.html "Ministerio de Educación detalló los horarios de clases hasta el jueves 10 de octubre")
-
-Educación Financiera en instituciones educativas
-------------------------------------------------
-
-Supermercado ‘Los Vecis’ es como denominaron un grupo de estudiantes a un espacio para conocer sobre el manejo de las **finanzas**. Esta tarea se hizo en la escuela General Calicuchima, en Alangasí.
-
-Aprendamos sobre economía de una manera divertida. Este es el lema de la **Semana de la Educación Financiera**, del 7 al 10 de octubre, que se hará en **escuelas y colegios** del país.
-
-La iniciativa es parte de las nuevas temáticas que incluyó el **[Ministerio de Educación](https://educacion.gob.ec/)** en el régimen Sierra-Amazonía, en este nuevo año lectivo. En el régimen **Costa-Galápagos** empezarán el próximo año lectivo.
-
-Las experiencias
-----------------
-
-Esta semana, en las aulas se recrean actividades **económicas** de manera lúdica con dinero didáctico, elaborando productos con origami, separadores de libros, tarjetas, juguetes con **papel reciclado**, etc.
-
-Colocar un precio a los productos que elaboraron para que el resto de compañeros los compren. Esta es una de las dinámicas, seguida de la reflexión sobre esta experiencia y cómo se puede aplicar en la **vida cotidiana**.
-
-**Raquel Simba**, directora de la Institución Educativa General Calicuchima, en Alangasí, compartió que las inserciones curriculares son importantes porque permiten crear conciencia en la importancia del ahorro, la responsabilidad ambiental y con el respeto.
-
-Tiendas, micromercados, peluquerías, bazares y más son parte de las actividades recreadas en el plantel, al que asisten **120 estudiantes**.
-
-Cívica en las aulas
--------------------
-
-No solo la Educación Financiera tiene su semana en las aulas del régimen. Lo propio pasó con Cívica, Ética e Integridad. Como detallaron desde la Subsecretaría de Educación del **Distrito Metropolitano de Quito**, esta fue en el inicio del año lectivo, del 9 al 13 de septiembre.
-
-La siguiente jornada fue para la **Educación Socioemocional**, del 16 al 20 de septiembre. En los 10 primeros minutos de clase, los estudiantes compartieron su estado de ánimo y colocaron los sentimientos en el denominado **Emocionómetro**.
-
-La semana del 23 al 27 de septiembre, en cambio, estuvo dedicada a la **Educación para el Desarrollo Sostenible**. La meta fue identificar una planta nativa del entorno de la escuela y plantar una especie en un recipiente reutilizado.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Educacion-vial-1024x683.jpg)
-
-La seguridad vial es parte de las nuevas temáticas que se tratan en los planteles. Foto: Subsecretaría de Educación del DMQ
-
-La **seguridad vial y movilidad** sostenible no se quedaron fuera, del 30 de septiembre al 4 de octubre. En las aulas, los estudiantes diseñaron la señalética y mensajes que permitan un ambiente ordenado y seguro en el ámbito escolar.
-
-Fuerzas Armadas hallan objetos del crimen organizado
-====================================================
-
-Crimen organizado sigue dejando huellas en labores de Fuerzas Armadas.
-----------------------------------------------------------------------
-
-![Militares realizan labores en tres provincias de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/militares-crimen-organizado.jpg)
-
-Efectivos de las **Fuerzas Armadas** desarrollan labores en distintas provincias de Ecuador. En tres localizaron puntos de operación del **crimen organizado**.
-
-La institución detalló los resultados este lunes, 7 de octubre de 2024. Entre estos se incluyen rastros relacionados con **minería ilegal**.
-
-### Más noticias
-
-* [Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea](https://www.elcomercio.com/actualidad/politica/ministros-no-informaron-avances-bloque-seguridad-asamblea.html "Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea")
-* [Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/ataque-manta-genera-ajustes-estrategias-bloque-seguridad.html "Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad")
-* [Militares ingresaron a Coca Codo Sinclair para reforzar su seguridad y operaciones](https://www.elcomercio.com/actualidad/seguridad/militares-coca-codo-seguridad-operaciones.html "Militares ingresaron a Coca Codo Sinclair para reforzar su seguridad y operaciones")
-
-Fuerzas Armadas y crimen organizado
------------------------------------
-
-Las tareas de combate al **crimen organizado** se mantienen con la intervención de las **Fuerzas Armadas**. En esa línea, los uniformados actuaron en Sucumbíos.
-
-Fuerzas del orden localizaron una piscina artesanal, **100 galones de gasolina**, un acople y decomisaron 1 000 metros de manguera.
-
-> ¡Presunto miembro del grupo armado organizado "Los Águilas" aprehendido en Los Ríos!💪  
->   
-> ➡️En el cantón [#PuebloViejo](https://twitter.com/hashtag/PuebloViejo?src=hash&ref_src=twsrc%5Etfw), el personal del [@EjercitoECU](https://twitter.com/EjercitoECU?ref_src=twsrc%5Etfw) aprehendió a un sujeto presuntamente miembro del grupo armado organizado "Los Águilas", quien tenía en su poder una subametralladora,… [pic.twitter.com/wesHwzvdCN](https://t.co/wesHwzvdCN)
-> 
-> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [October 7, 2024](https://twitter.com/DefensaEc/status/1843342717465805027?ref_src=twsrc%5Etfw)
-
-En **Carchi**, en cambio, las labores dieron como resultado el decomiso de 370 sacos de material aurífero. Este era utilizado para **minería ilegal**.
-
-Por otro lado, en **Azuay**, en el cantón **Camilo Ponce Enríquez**, los militares destruyeron tres bocaminas. Esto ocurrió en el sector de **Pacífico Sur**.
-
-En Los Ríos
------------
-
-Este 7 de octubre, además, el **Ministerio de Defensa** informó que se detuvo a un presunto integrante del grupo armado organizado **Los Águilas**.
-
-El hombre estaba en Los Ríos, en el cantón **Pueblo Viejo**. Él tenía en su poder una subametralladora, municiones y sobres con sustancias sujetas a fiscalización.
-
-La persona aprehendida y el material decomisado pasaron a manos de las autoridades competentes para los **trámites de ley**.
-
-Acciones policiales
--------------------
-
-En el **Distrito 9 de Octubre**, una revisión policial dejó dos personas aprehendidas. Los uniformados se encontraban patrullando y las ubicaron en actitud nerviosa. Luego de esto, ingresaron corriendo a un **domicilio**.
-
-Los **gendarmes** registraron la vivienda y hallaron un arma de fuego tipo repetidora. Sin embargo, no fue lo único, se sumó una cartuchera, un revólver y seis cartuchos.
-
-En el sitio aprehendieron a **Wilmer M. S. y Saskia A. C.** Ellos fueron puestos a órdenes de la Fiscalía y, en principio, serían procesados por el delito de porte y tenencia ilegal de **armas de fuego**.
-
-WhatsApp planea modificar la función de “escribiendo” en los chats 
-===================================================================
-
-WhatsApp reemplaza el famoso ‘escribiendo’ con una innovadora función, lo que promete transformar la experiencia de mensajería.
--------------------------------------------------------------------------------------------------------------------------------
-
-![La nueva actualización de WhatsApp mejora la visibilidad de "escribiendo". Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-funcion-escribiendo.jpg)
-
-**[WhatsApp](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a "https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a")**, la **aplicación de mensajería** más popular del mundo, ha anunciado un cambio significativo en su interfaz.  
-
-### Más noticias
-
-* [Protege tu cuenta de WhatsApp del peligroso ‘spoofing’](https://www.elcomercio.com/tecnologia/whatsapp-spoofing-hackers-ataque-cibernetico.html "https://www.elcomercio.com/tecnologia/whatsapp-spoofing-hackers-ataque-cibernetico.html") 
-* [Tutorial para bloquear mensajes ‘spam’ en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-spam-mensajes-tutorial.html "https://www.elcomercio.com/tecnologia/whatsapp-spam-mensajes-tutorial.html")
-
-Desde su lanzamiento, el **indicador “escribiendo”** ha sido una característica icónica que permite a los usuarios **saber cuándo alguien está por responder**. Sin embargo, tal parece que WhatsApp ha decidido reemplazar esta función con un **nuevo método** que promete **mejorar la experiencia del usuario**. 
-
-**¿Qué reemplaza al “escribiendo” en WhatsApp?** 
--------------------------------------------------
-
-Según [Artículo 14](https://www.articulo14.es/sociedad/whatsapp-sustituye-el-famoso-escribiendo-por-un-nuevo-metodo-20241007.html#:~:text=WhatsApp%20mejora%20la%20visibilidad%20del,Algo%20que%20antes%20no%20suced%C3%ADa. "https://www.articulo14.es/sociedad/whatsapp-sustituye-el-famoso-escribiendo-por-un-nuevo-metodo-20241007.html#:~:text=WhatsApp%20mejora%20la%20visibilidad%20del,Algo%20que%20antes%20no%20suced%C3%ADa."), la **nueva actualización de WhatsApp** introducirá un **interfaz más dinámico**. **WhatsApp** ha realizado un cambio en su **versión beta**, al trasladar **la notificación de “escribiendo” a un lugar más visible**, justo debajo del último mensaje enviado.  
-
-Esto **mejora la experiencia de los usuarios**, especialmente en **smartphones de pantallas grandes**, ya que facilita ver cuándo alguien teclea **sin desviar la atención hacia la parte superior de la pantalla**, lo que mantiene el **flujo natural de la conversación**. 
-
-**¿Y qué pasará con los grupos de WhatsApp?** 
-----------------------------------------------
-
-Siguiendo con la misma fuente, en los **grupos de WhatsApp**, donde **las interacciones suelen involucrar a varios usuarios a la vez**, el rediseño del **estado “escribiendo” de WhatsApp** adquiere mayor relevancia.  
-
-Ahora, **cuando varios usuarios tecleen simultáneamente, se mostrarán los iconos de sus perfiles**, lo que permite ver quién está escribiendo en tiempo real. Antes, solo se mostraba el nombre de un usuario, pero esta actualización **facilita una interacción más fluida y evita malentendidos**. 
-
-Además, este cambio no se limita solo al **estado “escribiendo”**. Cuando un usuario **grabe una nota de voz**, también **aparecerá un icono de micrófono junto a su perfil**, lo que añadirá **un toque visual personalizado a la conversación**. Estas mejoras buscan enriquecer la experiencia tanto en chats grupales como individuales. 
-
-**Comparación con otras aplicaciones** 
----------------------------------------
-
-WhatsApp no es la única aplicación que busca innovar en la forma en que se comunican los usuarios. Aplicaciones como **Telegram y Signal ya han implementado características similares** que buscan mejorar la experiencia del usuario sin comprometer la privacidad.  
-
-El futuro de WhatsApp parece prometedor con esta nueva actualización. **La aplicación continúa como el mercado** de mensajería instantánea, y con innovaciones como esta, busca mantener su posición dominante. Sin embargo, será fundamental que WhatsApp escuche a sus usuarios y ajuste sus características según las necesidades y preocupaciones de su base de usuarios. 
-
-Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro
-===========================================================================
-
-El defensa Piero Hincapié lamentó la muerte del futbolista ecuatoriano Roberto Cabezas. Compartieron equipos.
--------------------------------------------------------------------------------------------------------------
-
-![El defensa Piero Hincapié lamentó la muerte del futbolista Roberto Cabezas.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-8.jpg)
-
-El futbolista **Piero Hincapié** expresó su profundo pesar por la muerte de **Roberto Cabezas**, jugador de **Independiente Juniors**, quien falleció en un **siniestro de tránsito** en la madrugada del 7 de octubre de 2024.
-
-**Hincapié**, en sus historias de Instagram, compartió una emotiva reflexión: “Vuelta alto hermano mío, les mando mucha fuerza a los familiares”, acompañada de una fotografía en blanco y negro en la que aparece junto a Cabezas y otros compañeros futbolistas.
-
-### Más noticias:
-
-* [Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/equipos-de-ecuador-lamentan-el-fallecimiento-de-roberto-cabezas.html "Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas")
-* [Roberto Cabezas, jugador de Independiente Juniors, falleció en siniestro de tránsito](https://www.elcomercio.com/deportes/futbol/roberto-cabezas-jugador-de-independiente-juniors-fallecio-en-siniestro-de-transito.html "Roberto Cabezas, jugador de Independiente Juniors, falleció en siniestro de tránsito")
-* [¿Quién es Marco Angulo, jugador de Liga de Quito afectado en el siniestro de tránsito?](https://www.elcomercio.com/deportes/futbol/marco-angulo-siniestro-transito-jugador-liga-quito.html "¿Quién es Marco Angulo, jugador de Liga de Quito afectado en el siniestro de tránsito?")}
-
-Roberto Cabezas
----------------
-
-Según las primeras informaciones, **Roberto Cabezas**, de 22 años, fue el conductor del vehículo involucrado en el accidente ocurrido en la Autopista General Rumiñahui.
-
-El trágico incidente también dejó gravemente herido a **Marco Angulo**, jugador de Liga de Quito, quien fue trasladado de urgencia al Hospital Eugenio Espejo.
-
-El accidente, que involucró a cinco personas, resultó en la muerte de Cabezas y otro pasajero, Víctor Charcopa.
-
-El fútbol está de luto
-----------------------
-
-La noticia del fallecimiento de Cabezas generó una ola de condolencias en el mundo del fútbol ecuatoriano.
-
-**Independiente Juniors** emitió un comunicado lamentando su pérdida y enviando sus más sinceras condolencias a la familia del jugador. “Lamentamos profundamente el fallecimiento de nuestro jugador Roberto Carlos Cabezas Simisterra, en un siniestro de tránsito ocurrido en horas de la mañana”, señaló la directiva del club.
-
-Liga de Quito también se unió al duelo, expresando su solidaridad: “Extendemos las más sentidas condolencias para toda su familia. Nos solidarizamos con nuestros amigos de Independiente Juniors en este difícil momento”.
-
-La Federación Ecuatoriana de Fútbol (FEF) también se pronunció, enviando su apoyo a la familia y seres queridos de Cabezas.
-
-Roberto Cabezas fue parte del equipo **Sub-20** que ganó la Copa Libertadores de su categoría, destacándose como un prometedor lateral izquierdo.
-
-Su trágica partida deja un vacío en el fútbol ecuatoriano.
