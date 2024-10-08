@@ -65,9 +65,10 @@ Main Navigation[Back](#)
 5. [Champagne & Sparkling Wine](https://www.lidl.co.uk/c/sparkling-champagne/a10023649)
 
 1. [Lidl PlusShow](https://www.lidl.co.uk/c/lidl-plus/s10023095)
-2. [Electric Vehicle Charging With Lidl Plus](https://www.lidl.co.uk/c/electric-vehicle-charging/s10049808)
-3. [EVC Website Payment](https://www.lidl.co.uk/c/evc-website-payment/s10050526)
-4. [Privacy & Legal](https://www.lidl.co.uk/c/privacy-legal/s10023373)
+2. [Lidl Plus Partner Offers](https://www.lidl.co.uk/c/lidl-plus-partner-offers/s10025293)
+3. [Electric Vehicle Charging With Lidl Plus](https://www.lidl.co.uk/c/electric-vehicle-charging/s10049808)
+4. [EVC Website Payment](https://www.lidl.co.uk/c/evc-website-payment/s10050526)
+5. [Privacy & Legal](https://www.lidl.co.uk/c/privacy-legal/s10023373)
 
 1. [About usShow](https://www.lidl.co.uk/c/about-us/s10023097)
 2. [Awards](https://www.lidl.co.uk/c/awards/s10024129)
