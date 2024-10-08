@@ -14,7 +14,7 @@
 * [About](https://www.looper.com/about/)
 * [Editorial Policies](https://www.looper.com/policies/)
 * [Reviews Policy](https://www.looper.com/reviews-policy-guidelines/)
-* [Privacy Policy](https://www.static.com/privacy-policy)
+* [Privacy Policy](https://www.static.com/privacy-policy/)
 * [Terms of Use](https://www.static.com/terms)
 
 © 2024 [Static Media](https://www.static.com/). All Rights Reserved
@@ -107,7 +107,7 @@ Looper reserves the right to change this policy at any time without prior notice
 
 Last Update: January 6, 2017
 
-[About](https://www.looper.com/about/)  •  [Privacy Policy](https://www.static.com/privacy-policy)
+[About](https://www.looper.com/about/)  •   [Privacy Policy](https://www.static.com/privacy-policy/)
 
 © 2024 [Static Media](https://www.static.com/)® / Looper.com / All Rights Reserved
 
