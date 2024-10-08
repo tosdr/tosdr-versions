@@ -158,7 +158,6 @@
     
     Essential tools
     
-    * [Business name generator .](https://www.shopify.com/tools/business-name-generator)
     * [Logo maker.](https://www.shopify.com/tools/logo-maker)
     * [Stock photography.](https://www.shopify.com/stock-photos)
     * [Business plan template.](https://www.shopify.com/blog/business-plan-template)
