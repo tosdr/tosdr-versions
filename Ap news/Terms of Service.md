@@ -14,7 +14,7 @@ Menu
     
     * [War rages on multiple fronts as Israel marks a year since Hamas' Oct. 7 attack](https://apnews.com/article/israel-hamas-war-one-year-anniversary-cf123f95609051e8e8eaf6aebe661b6a)
     * [A year after the Hamas attack shattered this Israeli community, going home still feels impossible](https://apnews.com/article/israel-hamas-gaza-war-kibbutz-attack-anniversary-344b289751d8ee80d4909f15864f508c)
-    * [Nobel Prize in medicine honors 2 scientists for their discovery of microRNA](https://apnews.com/article/nobel-medicine-dc84622d7a15317bc83e873d3f9a2dbf)
+    * [Middle East latest: Palestinian militants in Gaza fire rockets into Israel as it marks Oct. 7](https://apnews.com/article/israel-hezbollah-hamas-latest-mideast-7-october-2024-d3d272d83e70d420ba547dbd7e09ef52)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Hurricane Milton is a Category 5. Florida orders evacuations and scrambles to clear Helene's debris](https://apnews.com/article/hurricane-milton-helene-florida-557c5c512135e0a8661b298e45e17c92)
+    * [What to know about Hurricane Milton as it speeds toward Florida](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
     * [Oklahoma death row inmate had three 'last meals.' He's back at Supreme Court in new bid for freedom](https://apnews.com/article/oklahoma-richard-glossip-death-penalty-execution-supreme-court-fd513cee067992acb1f49018feea9c3f)
-    * [US disaster relief chief blasts false claims about Helene response as a 'truly dangerous narrative'](https://apnews.com/article/trump-fema-hurricane-helene-conspiracy-theories-criswell-07d5b1f6968cb2af11b63357186a1a15)
+    * [FEMA administrator continues pushback against false claims as Helene death toll hits 230](https://apnews.com/article/hurricane-helene-fema-826effecab238ff0acf0556ad64b0df2)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [New analysis suggests national debt could increase under Harris, but it would surge under Trump](https://apnews.com/article/budget-deficit-trump-harris-kamala-debt-1ee3ff65e22ccf19d19b792ee22c46da)
+    * [A Michigan Senate candidate aims to achieve what no Republican has done in three decades](https://apnews.com/article/senate-michigan-rogers-slotkin-4d193fdb4043982c7d8b39354b07fb8f)
+    * [Trump says migrants who have committed murder have introduced 'a lot of bad genes in our country'](https://apnews.com/article/donald-trump-immigration-2024-election-2157777f240142e5aed38be192a52b25)
     * [Turning Point wants to revolutionize how Republicans turn out voters. Some are skeptical](https://apnews.com/article/trump-turning-point-voter-mobilization-musk-07286c2572b02aafefdda1cda093e788)
-    * [For US adversaries, Election Day won't mean the end to efforts to influence Americans](https://apnews.com/article/election-interference-trump-harris-russia-china-efff7f7fcbc71032b1152d011c953eba)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Trump and Harris mark somber anniversary of Hamas’ Oct. 7 attack on Israel](https://apnews.com/article/trump-harris-oct-7-hamas-israel-78ba85f87ea89fa93c6537f77ca81b25)
-    * [Supreme Court declines Biden administration appeal in Texas emergency abortion case](https://apnews.com/article/supreme-court-emergency-abortion-texas-bf79fafceba4ab9df9df2489e5d43e72)
-    * [Turning Point wants to revolutionize how Republicans turn out voters. Some are skeptical](https://apnews.com/article/trump-turning-point-voter-mobilization-musk-07286c2572b02aafefdda1cda093e788)
+    * [Harris calls Trump 'incredibly irresponsible' for spreading misinformation about Helene response](https://apnews.com/article/trump-harris-hurricane-helene-misinformation-552e413dfb6c1b3e37eca0d2114668ea)
+    * [Trump says migrants who have committed murder have introduced 'a lot of bad genes in our country'](https://apnews.com/article/donald-trump-immigration-2024-election-2157777f240142e5aed38be192a52b25)
+    * [Harris and Trump mark somber anniversary of Hamas’ Oct. 7 attack on Israel](https://apnews.com/article/trump-harris-oct-7-hamas-israel-78ba85f87ea89fa93c6537f77ca81b25)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Patriots captain Jabrill Peppers arrested on assault, strangulation, drug charges](https://apnews.com/article/jabrill-peppers-patriots-arrest-344c01120bd470b457c3c2bdef065d81)
-    * [Tossed balls from stands, apparently aimed at Profar, interrupt Padres' win in NLDS Game 2](https://apnews.com/article/mlb-playoffs-dodgers-fans-a2d933ea60f974c29b4f0a0d3646f43c)
-    * [Jets QB Rodgers dealing with a low ankle sprain, but Saleh says he should be fine to play](https://apnews.com/article/jets-rodgers-ankle-c81fc00b14ebef557199d08e71e03626)
+    * [Carpenter's 3-run homer off Clase sends gritty Tigers to 3-0 win over Guardians in Game 2 of ALDS](https://apnews.com/article/mlb-playoffs-tigers-guardians-0b34ebebaa374ac10ddf3492d2247739)
+    * [NCAA's $2.78 billion settlement with colleges to allow athlete payments gets preliminary approval](https://apnews.com/article/ncaa-college-sports-nil-pay-players-b7b87c81f44ac6e32955ef89e61ca893)
+    * [Taylor Swift is back to watch Travis Kelce and the Chiefs with Eras Tour soon to resume](https://apnews.com/article/chiefs-taylor-swift-travis-kelce-arrowhead-b386bd5deb5b6588f255d62068417cae)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
+    * [Cissy Houston, a Grammy-winning gospel singer and Whitney Houston's mother, dies at 91](https://apnews.com/article/cissy-houston-dead-whitney-houston-mother-de8e3486134c7acd599ee3f16fb997c6)
+    * [Florence Pugh and Andrew Garfield on living through 'We Live in Time'](https://apnews.com/article/florence-pugh-andrew-garfield-we-live-time-9468f8be87b273576b8efd71aa0dd80d)
     * [Guster, Avett Brothers and Florence Welch are helping bring alt-rock to the musical theater stage](https://apnews.com/article/alt-rock-broadway-guster-safety-not-guaranteed-fa373c914f03f76b024d9b2d5b6e6fe9)
-    * [Movie Review: 'Piece by Piece,' a very odd Lego doc about Pharrell Williams snaps together somehow](https://apnews.com/article/piece-by-piece-pharrell-lego-movie-review-a6ac7e47e777a4eeef9a67cfb4dc09c8)
-    * [Nicholas Alexander Chavez plays Lyle Menendez and a priest on TV. He's hungry for what's next.](https://apnews.com/article/nicholas-alexander-chavez-monsters-grotesquerie-menendez-c98b6c486798e61a138cdeeec3d4dd6f)
     
 * [Business](https://apnews.com/business)
     
@@ -234,20 +234,20 @@ Menu
     
     TOP STORIES
     
+    * [Control the path and power of hurricanes like Helene? Forget it, scientists say](https://apnews.com/article/weather-control-climate-change-hurricanes-cloud-seeding-735eaed734e132d6260ee94701c72d5e)
     * [Mexico’s new president promises to resume fight against climate change](https://apnews.com/article/mexico-sheinbaum-energy-transition-climate-change-renewables-93a78b5f2c22d1eab0494a3d6dfaa5e9)
     * [Shock of deadly floods is a reminder of Appalachia’s risk from violent storms in a warming climate](https://apnews.com/article/climate-change-hurricane-helene-flooding-north-carolina-f49b2a6bf2b549473e0211f883332592)
-    * [Hurricanes like Helene are deadly when they strike and keep killing for years to come](https://apnews.com/article/hurricanes-helene-deadly-flood-climate-change-6c9585e4c695dbc00fa313577f9f328f)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [A peek inside human brain shows a way it cleans out waste](https://apnews.com/article/clearing-brain-waste-alzheimers-f73b0e5f66a324e3d0e3f0cea951276b)
+    * [Don't expect human life expectancy to grow much more, researcher says](https://apnews.com/article/life-expectancy-edd52c723e478c08ec194bfbd18bf6b9)
     * [Nobel Prize in medicine honors 2 scientists for their discovery of microRNA](https://apnews.com/article/nobel-medicine-dc84622d7a15317bc83e873d3f9a2dbf)
     * [Don't fall for fake dentists offering veneers and other dental work on social media](https://apnews.com/article/veneers-dentist-teeth-whitening-scam-unlicensed-d0d9d57613a10f18bc9735dc5eca4b41)
     * [Helene damaged a factory that makes IV fluids](https://apnews.com/article/hurricane-helene-baxter-plant-intravenous-ee62f60c70fb8e64b60c5ae9c462c2a7)
-    * [North Carolina is distributing Benadryl and EpiPens as yellow jackets swarm from Helene flooding](https://apnews.com/article/helene-north-carolina-hurricane-bees-sting-epipen-0bc9e21317996a2b8a7b719e790b36f6)
-    * [Two California dairy workers were infected with bird flu, latest human cases in US](https://apnews.com/article/california-human-bird-flu-h5n1-dairy-worker-aa64a161ccf766e8da73e127b126f580)
-    * [Rwanda will deploy Marburg vaccine under trial as death toll rises to 12](https://apnews.com/article/rwanda-marburg-outbreak-vaccine-4eb415e5ebd15755242ce85467368cf7)
+    * [Georgia Supreme Court restores near-ban on abortions while state appeals](https://apnews.com/article/georgia-abortion-ban-967ed4f8efe64d07e22213c47749df9a)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
+    * [Federal judge orders Google to open its Android app store to competition](https://apnews.com/article/google-epic-android-app-store-d635ff5b6a2c8b755faa14fe471b73e2)
+    * [Judge rules the FTC can proceed with antitrust lawsuit against Amazon, tosses out few state claims](https://apnews.com/article/amazon-antitrust-lawsuit-ftc-case-bbd55b3403978183360fe0bc7e3f08cc)
     * [Supreme Court won't hear appeal from Elon Musk’s X platform over warrant in Trump case](https://apnews.com/article/supreme-court-donald-trump-twitter-elon-musk-635ceb3a21d0449d0fd681a11a3fc339)
-    * [Elon Musk makes his first appearance at a Trump rally and casts the election in dire terms](https://apnews.com/article/elon-musk-donald-trump-rally-butler-election-f718967ec29431a2b9858b1121e70da1)
-    * [Advocacy groups suspend use of 'suicide capsule' pending Swiss criminal probe of woman's death](https://apnews.com/article/switzerland-suicide-capsule-people-detained-e5c12c131f1a029db80d3b486bf592a4)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
-    * [A recipe for turmeric chicken soup is a window into a Southern Thai family](https://apnews.com/article/thai-cookbook-kalaya-turmeric-chicken-soup-68fa6b220340a7a07a0594a12662fa9c)
-    * [This four-cheese pasta is Italy’s answer to macaroni and cheese](https://apnews.com/article/milk-street-four-cheese-pasta-recipe-08530a4d0ecacd654d1c98cc538198de)
-    * [American and British climbers who lost tent and gear on Indian Himalayan peak rescued after 3 days](https://apnews.com/article/india-climbers-mountaineering-uk-usa-himalayas-stranded-54fdb40f6802654717014ba608a21836)
+    * [Don't expect human life expectancy to grow much more, researcher says](https://apnews.com/article/life-expectancy-edd52c723e478c08ec194bfbd18bf6b9)
+    * [Mega Millions tickets will climb to $5, but officials promise better odds](https://apnews.com/article/mega-millions-powerball-lottery-price-6d07dbc300b42565f3d87c058841b816)
+    * [Hot-air balloon bumps line, causing brief power outage during Albuquerque balloon fiesta](https://apnews.com/article/balloon-power-line-albuquerque-outage-3abab09e7d00b105805e70332a3db8d2)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Anti-Israel protesters pitch encampment outside Jewish Democrat's Ohio home](https://apnews.com/article/mideast-war-gaza-hamas-anniversary-ohio-greg-landsman-protest-israel-biden-c89db986dbfdb82e22205375dbec3778)
-    * [Vandals deface a mural in Italy depicting a survivor of Oct. 7 attack](https://apnews.com/article/italy-antisemitism-mural-oct7-bbdeecda5a9f98498a9c3ffbebd371fc)
-    * [Pope names 21 new cardinals, significantly increasing the pool who will one day elect his successor](https://apnews.com/article/vatican-new-cardinals-pope-e660bbfbc60d0cc2a298db6f444b99bf)
+    * [Cissy Houston, a Grammy-winning gospel singer and Whitney Houston's mother, dies at 91](https://apnews.com/article/cissy-houston-dead-whitney-houston-mother-de8e3486134c7acd599ee3f16fb997c6)
+    * [Pro-Palestinian protesters pitch encampment outside Jewish Democrat's Ohio home](https://apnews.com/article/mideast-war-gaza-hamas-anniversary-ohio-greg-landsman-protest-israel-biden-c89db986dbfdb82e22205375dbec3778)
+    * [Defaced mural of Oct. 7 survivor another example of rising antisemitism in Italy](https://apnews.com/article/italy-antisemitism-mural-oct7-bbdeecda5a9f98498a9c3ffbebd371fc)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Traumatizados y con varios frentes abiertos, los israelíes enfrentan el aniversario del 7 de octubre](https://apnews.com/world-news/general-news-186845afb2973da28c3c4c70cf2d6ee6)
+    * [Huracán Milton alcanza la categoría 5; Florida ordena evacuaciones y trata de limpiar escombros](https://apnews.com/us-news/general-news-bef6693474052c4b10ea3abf5a472e50)
+    * [La guerra se extiende a múltiples frentes a un año del ataque de Hamás del 7 de octubre en Israel](https://apnews.com/world-news/general-news-186845afb2973da28c3c4c70cf2d6ee6)
+    * [Trump dice que inmigrantes que cometieron asesinatos han introducido "muchos genes malos" en EEUU](https://apnews.com/politics/elecciones-en-eeuu-donald-trump-ecf46ca25565a65003b0727687d89ace)
     * [Ucrania ataca terminal petrolera rusa; Zelenskyy advierte que guerra ha entrado en nueva fase](https://apnews.com/world-news/general-news-74df5159108e4d10a63ea6568e4b555d)
-    * [La devastadora guerra entre Israel y Hamás, en cifras](https://apnews.com/world-news/general-news-968e13264ffd387956467999668cb62c)
-    * [Dos estadounidenses ganan el Nobel de Medicina por su descubrimiento del microARN](https://apnews.com/world-news/general-news-49489c47122a1cc5ba6e78dcf15a98ff)
-    * [Milton alcanza categoría 3 mientras Florida prepara evacuaciones masivas](https://apnews.com/us-news/general-news-bef6693474052c4b10ea3abf5a472e50)
-    * [Nave espacial Hera emprende misión para examinar asteroide](https://apnews.com/science/nave-espacial-hera-emprende-mision-para-examinar-asteroide-f3a78976eea9b68695fbb5593aac02cb)
+    * [Lo que hay que saber del huracán Milton que amenaza a Florida](https://apnews.com/climate-and-environment/general-news-3127e2f6797f8ea8c9dd12a4fd9be148)
+    * [Cómo deben prepararse los habitantes de Florida ante la inminente llegada del huracán Milton](https://apnews.com/us-news/general-news-7fa49110843242ce39b9b927dff0f333)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -459,7 +459,7 @@ Submit Search
     
     * [War rages on multiple fronts as Israel marks a year since Hamas' Oct. 7 attack](https://apnews.com/article/israel-hamas-war-one-year-anniversary-cf123f95609051e8e8eaf6aebe661b6a)
     * [A year after the Hamas attack shattered this Israeli community, going home still feels impossible](https://apnews.com/article/israel-hamas-gaza-war-kibbutz-attack-anniversary-344b289751d8ee80d4909f15864f508c)
-    * [Nobel Prize in medicine honors 2 scientists for their discovery of microRNA](https://apnews.com/article/nobel-medicine-dc84622d7a15317bc83e873d3f9a2dbf)
+    * [Middle East latest: Palestinian militants in Gaza fire rockets into Israel as it marks Oct. 7](https://apnews.com/article/israel-hezbollah-hamas-latest-mideast-7-october-2024-d3d272d83e70d420ba547dbd7e09ef52)
     
     Newsletters
     
@@ -475,9 +475,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Hurricane Milton is a Category 5. Florida orders evacuations and scrambles to clear Helene's debris](https://apnews.com/article/hurricane-milton-helene-florida-557c5c512135e0a8661b298e45e17c92)
+    * [What to know about Hurricane Milton as it speeds toward Florida](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
     * [Oklahoma death row inmate had three 'last meals.' He's back at Supreme Court in new bid for freedom](https://apnews.com/article/oklahoma-richard-glossip-death-penalty-execution-supreme-court-fd513cee067992acb1f49018feea9c3f)
-    * [US disaster relief chief blasts false claims about Helene response as a 'truly dangerous narrative'](https://apnews.com/article/trump-fema-hurricane-helene-conspiracy-theories-criswell-07d5b1f6968cb2af11b63357186a1a15)
+    * [FEMA administrator continues pushback against false claims as Helene death toll hits 230](https://apnews.com/article/hurricane-helene-fema-826effecab238ff0acf0556ad64b0df2)
     
     Newsletters
     
@@ -503,9 +503,9 @@ Submit Search
     
     TOP STORIES
     
-    * [New analysis suggests national debt could increase under Harris, but it would surge under Trump](https://apnews.com/article/budget-deficit-trump-harris-kamala-debt-1ee3ff65e22ccf19d19b792ee22c46da)
+    * [A Michigan Senate candidate aims to achieve what no Republican has done in three decades](https://apnews.com/article/senate-michigan-rogers-slotkin-4d193fdb4043982c7d8b39354b07fb8f)
+    * [Trump says migrants who have committed murder have introduced 'a lot of bad genes in our country'](https://apnews.com/article/donald-trump-immigration-2024-election-2157777f240142e5aed38be192a52b25)
     * [Turning Point wants to revolutionize how Republicans turn out voters. Some are skeptical](https://apnews.com/article/trump-turning-point-voter-mobilization-musk-07286c2572b02aafefdda1cda093e788)
-    * [For US adversaries, Election Day won't mean the end to efforts to influence Americans](https://apnews.com/article/election-interference-trump-harris-russia-china-efff7f7fcbc71032b1152d011c953eba)
     
     Newsletters
     
@@ -528,9 +528,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Trump and Harris mark somber anniversary of Hamas’ Oct. 7 attack on Israel](https://apnews.com/article/trump-harris-oct-7-hamas-israel-78ba85f87ea89fa93c6537f77ca81b25)
-    * [Supreme Court declines Biden administration appeal in Texas emergency abortion case](https://apnews.com/article/supreme-court-emergency-abortion-texas-bf79fafceba4ab9df9df2489e5d43e72)
-    * [Turning Point wants to revolutionize how Republicans turn out voters. Some are skeptical](https://apnews.com/article/trump-turning-point-voter-mobilization-musk-07286c2572b02aafefdda1cda093e788)
+    * [Harris calls Trump 'incredibly irresponsible' for spreading misinformation about Helene response](https://apnews.com/article/trump-harris-hurricane-helene-misinformation-552e413dfb6c1b3e37eca0d2114668ea)
+    * [Trump says migrants who have committed murder have introduced 'a lot of bad genes in our country'](https://apnews.com/article/donald-trump-immigration-2024-election-2157777f240142e5aed38be192a52b25)
+    * [Harris and Trump mark somber anniversary of Hamas’ Oct. 7 attack on Israel](https://apnews.com/article/trump-harris-oct-7-hamas-israel-78ba85f87ea89fa93c6537f77ca81b25)
     
     Newsletters
     
@@ -558,9 +558,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Patriots captain Jabrill Peppers arrested on assault, strangulation, drug charges](https://apnews.com/article/jabrill-peppers-patriots-arrest-344c01120bd470b457c3c2bdef065d81)
-    * [Tossed balls from stands, apparently aimed at Profar, interrupt Padres' win in NLDS Game 2](https://apnews.com/article/mlb-playoffs-dodgers-fans-a2d933ea60f974c29b4f0a0d3646f43c)
-    * [Jets QB Rodgers dealing with a low ankle sprain, but Saleh says he should be fine to play](https://apnews.com/article/jets-rodgers-ankle-c81fc00b14ebef557199d08e71e03626)
+    * [Carpenter's 3-run homer off Clase sends gritty Tigers to 3-0 win over Guardians in Game 2 of ALDS](https://apnews.com/article/mlb-playoffs-tigers-guardians-0b34ebebaa374ac10ddf3492d2247739)
+    * [NCAA's $2.78 billion settlement with colleges to allow athlete payments gets preliminary approval](https://apnews.com/article/ncaa-college-sports-nil-pay-players-b7b87c81f44ac6e32955ef89e61ca893)
+    * [Taylor Swift is back to watch Travis Kelce and the Chiefs with Eras Tour soon to resume](https://apnews.com/article/chiefs-taylor-swift-travis-kelce-arrowhead-b386bd5deb5b6588f255d62068417cae)
     
     Newsletters
     
@@ -587,9 +587,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Cissy Houston, a Grammy-winning gospel singer and Whitney Houston's mother, dies at 91](https://apnews.com/article/cissy-houston-dead-whitney-houston-mother-de8e3486134c7acd599ee3f16fb997c6)
+    * [Florence Pugh and Andrew Garfield on living through 'We Live in Time'](https://apnews.com/article/florence-pugh-andrew-garfield-we-live-time-9468f8be87b273576b8efd71aa0dd80d)
     * [Guster, Avett Brothers and Florence Welch are helping bring alt-rock to the musical theater stage](https://apnews.com/article/alt-rock-broadway-guster-safety-not-guaranteed-fa373c914f03f76b024d9b2d5b6e6fe9)
-    * [Movie Review: 'Piece by Piece,' a very odd Lego doc about Pharrell Williams snaps together somehow](https://apnews.com/article/piece-by-piece-pharrell-lego-movie-review-a6ac7e47e777a4eeef9a67cfb4dc09c8)
-    * [Nicholas Alexander Chavez plays Lyle Menendez and a priest on TV. He's hungry for what's next.](https://apnews.com/article/nicholas-alexander-chavez-monsters-grotesquerie-menendez-c98b6c486798e61a138cdeeec3d4dd6f)
     
 * [Business](https://apnews.com/business)
     
@@ -725,20 +725,20 @@ Submit Search
     
     TOP STORIES
     
+    * [Control the path and power of hurricanes like Helene? Forget it, scientists say](https://apnews.com/article/weather-control-climate-change-hurricanes-cloud-seeding-735eaed734e132d6260ee94701c72d5e)
     * [Mexico’s new president promises to resume fight against climate change](https://apnews.com/article/mexico-sheinbaum-energy-transition-climate-change-renewables-93a78b5f2c22d1eab0494a3d6dfaa5e9)
     * [Shock of deadly floods is a reminder of Appalachia’s risk from violent storms in a warming climate](https://apnews.com/article/climate-change-hurricane-helene-flooding-north-carolina-f49b2a6bf2b549473e0211f883332592)
-    * [Hurricanes like Helene are deadly when they strike and keep killing for years to come](https://apnews.com/article/hurricanes-helene-deadly-flood-climate-change-6c9585e4c695dbc00fa313577f9f328f)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [A peek inside human brain shows a way it cleans out waste](https://apnews.com/article/clearing-brain-waste-alzheimers-f73b0e5f66a324e3d0e3f0cea951276b)
+    * [Don't expect human life expectancy to grow much more, researcher says](https://apnews.com/article/life-expectancy-edd52c723e478c08ec194bfbd18bf6b9)
     * [Nobel Prize in medicine honors 2 scientists for their discovery of microRNA](https://apnews.com/article/nobel-medicine-dc84622d7a15317bc83e873d3f9a2dbf)
     * [Don't fall for fake dentists offering veneers and other dental work on social media](https://apnews.com/article/veneers-dentist-teeth-whitening-scam-unlicensed-d0d9d57613a10f18bc9735dc5eca4b41)
     * [Helene damaged a factory that makes IV fluids](https://apnews.com/article/hurricane-helene-baxter-plant-intravenous-ee62f60c70fb8e64b60c5ae9c462c2a7)
-    * [North Carolina is distributing Benadryl and EpiPens as yellow jackets swarm from Helene flooding](https://apnews.com/article/helene-north-carolina-hurricane-bees-sting-epipen-0bc9e21317996a2b8a7b719e790b36f6)
-    * [Two California dairy workers were infected with bird flu, latest human cases in US](https://apnews.com/article/california-human-bird-flu-h5n1-dairy-worker-aa64a161ccf766e8da73e127b126f580)
-    * [Rwanda will deploy Marburg vaccine under trial as death toll rises to 12](https://apnews.com/article/rwanda-marburg-outbreak-vaccine-4eb415e5ebd15755242ce85467368cf7)
+    * [Georgia Supreme Court restores near-ban on abortions while state appeals](https://apnews.com/article/georgia-abortion-ban-967ed4f8efe64d07e22213c47749df9a)
     
 * [Tech](https://apnews.com/technology)
     
@@ -751,9 +751,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Federal judge orders Google to open its Android app store to competition](https://apnews.com/article/google-epic-android-app-store-d635ff5b6a2c8b755faa14fe471b73e2)
+    * [Judge rules the FTC can proceed with antitrust lawsuit against Amazon, tosses out few state claims](https://apnews.com/article/amazon-antitrust-lawsuit-ftc-case-bbd55b3403978183360fe0bc7e3f08cc)
     * [Supreme Court won't hear appeal from Elon Musk’s X platform over warrant in Trump case](https://apnews.com/article/supreme-court-donald-trump-twitter-elon-musk-635ceb3a21d0449d0fd681a11a3fc339)
-    * [Elon Musk makes his first appearance at a Trump rally and casts the election in dire terms](https://apnews.com/article/elon-musk-donald-trump-rally-butler-election-f718967ec29431a2b9858b1121e70da1)
-    * [Advocacy groups suspend use of 'suicide capsule' pending Swiss criminal probe of woman's death](https://apnews.com/article/switzerland-suicide-capsule-people-detained-e5c12c131f1a029db80d3b486bf592a4)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -771,17 +771,17 @@ Submit Search
     
     TOP STORIES
     
-    * [A recipe for turmeric chicken soup is a window into a Southern Thai family](https://apnews.com/article/thai-cookbook-kalaya-turmeric-chicken-soup-68fa6b220340a7a07a0594a12662fa9c)
-    * [This four-cheese pasta is Italy’s answer to macaroni and cheese](https://apnews.com/article/milk-street-four-cheese-pasta-recipe-08530a4d0ecacd654d1c98cc538198de)
-    * [American and British climbers who lost tent and gear on Indian Himalayan peak rescued after 3 days](https://apnews.com/article/india-climbers-mountaineering-uk-usa-himalayas-stranded-54fdb40f6802654717014ba608a21836)
+    * [Don't expect human life expectancy to grow much more, researcher says](https://apnews.com/article/life-expectancy-edd52c723e478c08ec194bfbd18bf6b9)
+    * [Mega Millions tickets will climb to $5, but officials promise better odds](https://apnews.com/article/mega-millions-powerball-lottery-price-6d07dbc300b42565f3d87c058841b816)
+    * [Hot-air balloon bumps line, causing brief power outage during Albuquerque balloon fiesta](https://apnews.com/article/balloon-power-line-albuquerque-outage-3abab09e7d00b105805e70332a3db8d2)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Anti-Israel protesters pitch encampment outside Jewish Democrat's Ohio home](https://apnews.com/article/mideast-war-gaza-hamas-anniversary-ohio-greg-landsman-protest-israel-biden-c89db986dbfdb82e22205375dbec3778)
-    * [Vandals deface a mural in Italy depicting a survivor of Oct. 7 attack](https://apnews.com/article/italy-antisemitism-mural-oct7-bbdeecda5a9f98498a9c3ffbebd371fc)
-    * [Pope names 21 new cardinals, significantly increasing the pool who will one day elect his successor](https://apnews.com/article/vatican-new-cardinals-pope-e660bbfbc60d0cc2a298db6f444b99bf)
+    * [Cissy Houston, a Grammy-winning gospel singer and Whitney Houston's mother, dies at 91](https://apnews.com/article/cissy-houston-dead-whitney-houston-mother-de8e3486134c7acd599ee3f16fb997c6)
+    * [Pro-Palestinian protesters pitch encampment outside Jewish Democrat's Ohio home](https://apnews.com/article/mideast-war-gaza-hamas-anniversary-ohio-greg-landsman-protest-israel-biden-c89db986dbfdb82e22205375dbec3778)
+    * [Defaced mural of Oct. 7 survivor another example of rising antisemitism in Italy](https://apnews.com/article/italy-antisemitism-mural-oct7-bbdeecda5a9f98498a9c3ffbebd371fc)
     
     Newsletters
     
@@ -795,12 +795,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Traumatizados y con varios frentes abiertos, los israelíes enfrentan el aniversario del 7 de octubre](https://apnews.com/world-news/general-news-186845afb2973da28c3c4c70cf2d6ee6)
+    * [Huracán Milton alcanza la categoría 5; Florida ordena evacuaciones y trata de limpiar escombros](https://apnews.com/us-news/general-news-bef6693474052c4b10ea3abf5a472e50)
+    * [La guerra se extiende a múltiples frentes a un año del ataque de Hamás del 7 de octubre en Israel](https://apnews.com/world-news/general-news-186845afb2973da28c3c4c70cf2d6ee6)
+    * [Trump dice que inmigrantes que cometieron asesinatos han introducido "muchos genes malos" en EEUU](https://apnews.com/politics/elecciones-en-eeuu-donald-trump-ecf46ca25565a65003b0727687d89ace)
     * [Ucrania ataca terminal petrolera rusa; Zelenskyy advierte que guerra ha entrado en nueva fase](https://apnews.com/world-news/general-news-74df5159108e4d10a63ea6568e4b555d)
-    * [La devastadora guerra entre Israel y Hamás, en cifras](https://apnews.com/world-news/general-news-968e13264ffd387956467999668cb62c)
-    * [Dos estadounidenses ganan el Nobel de Medicina por su descubrimiento del microARN](https://apnews.com/world-news/general-news-49489c47122a1cc5ba6e78dcf15a98ff)
-    * [Milton alcanza categoría 3 mientras Florida prepara evacuaciones masivas](https://apnews.com/us-news/general-news-bef6693474052c4b10ea3abf5a472e50)
-    * [Nave espacial Hera emprende misión para examinar asteroide](https://apnews.com/science/nave-espacial-hera-emprende-mision-para-examinar-asteroide-f3a78976eea9b68695fbb5593aac02cb)
+    * [Lo que hay que saber del huracán Milton que amenaza a Florida](https://apnews.com/climate-and-environment/general-news-3127e2f6797f8ea8c9dd12a4fd9be148)
+    * [Cómo deben prepararse los habitantes de Florida ante la inminente llegada del huracán Milton](https://apnews.com/us-news/general-news-7fa49110843242ce39b9b927dff0f333)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
