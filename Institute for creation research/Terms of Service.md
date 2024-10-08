@@ -168,59 +168,67 @@ For stewardship purposes, we will not be able to write, edit, or proofread scien
 
 More Days of Praise
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/knowing-jesus-christ)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/14309)
 
-[Knowing Jesus Christ](https://www.icr.org/article/knowing-jesus-christ/)
+[An Ear to the Master's Voice](https://www.icr.org/article/14309/)
 
-“I know thee who thou art, the Holy One of God.” (Mark 1:24) Today’s verse records the response of a demonic host just before...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/still-small-voice)
-
-[A Still, Small Voice](https://www.icr.org/article/still-small-voice/)
-
-“And after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice.” (1 Kings 19:12) Elijah...
+“And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free: Then his master shall bring him...
 
 BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/i-come-quickly)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/gods-sovereignty)
 
-[I Come Quickly](https://www.icr.org/article/i-come-quickly/)
+[God's Sovereignty](https://www.icr.org/article/gods-sovereignty/)
 
-“He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.” (Revelation 22:20) This is the next-to-the-last...
+“And the LORD said unto him, Who hath made man’s mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/he-gave-himself)
+
+[He Gave Himself](https://www.icr.org/article/he-gave-himself/)
+
+“Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father.”...
 
 BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32688/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/57276817/file.jpg)
 
-The Henry Morris Study Bible - Case](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-case.html)
+The Book of Beginnings Paperback](https://store.icr.org/the-book-of-beginnings-paperback.html)
 
-$34.99
-
-$39.99
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10476476/file.jpg)
-
-The Revelation Record](https://store.icr.org/dr-henry-morris-the-revelation-record.html)
+$19.99
 
 $24.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475649/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5005672/file.jpg)
 
-The Remarkable Record of Job](https://store.icr.org/dr-henry-morris-the-remarkable-record-of-job.html)
+Science, Scripture, & Salvation Vol 3, Disc 2](https://store.icr.org/dr-henry-morris-iii-science-scripture-salv-9774964.html)
+
+$1.99
+
+$3.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32359/file.jpg)
+
+Six Days of Creation](https://store.icr.org/dr-henry-morris-iii-six-days-of-creation.html)
+
+$2.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216983/file.jpg)
+
+The Book of Beginnings (DVD) - Download](https://store.icr.org/dr-henry-morris-iii-the-book-of-beginnings-dvd-dow.html)
+
+$4.99
 
 $9.99
 
-[](https://store.icr.org/.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/7755500/file.jpg)
 
-$
+Places to Walk - eBook](https://store.icr.org/dr-henry-morris-iii-places-to-walk-ebook.html)
+
+$2.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
