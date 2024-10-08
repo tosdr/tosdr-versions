@@ -169,9 +169,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [Navigating data sharing challenges](https://www.onetrust.com/resources/navigating-data-sharing-challenges-webinar/)
-* [Tackling IT security risks for banks in South Africa](https://www.onetrust.com/resources/tackling-it-security-risks-for-banks-in-south-africa-webinar/)
-* [Bill S-211: Will you be ready by May 31?](https://www.onetrust.com/resources/bill-s211-will-you-be-ready-by-may-31-webinar/)
+* [Build resiliency and operationalize compliance with OneTrust: Fall product release recap, 2024](https://www.onetrust.com/resources/build-resiliency-and-operationalize-compliance-with-onetrust-fall-product-release-recap-2024-webinar/)
+* [OneTrust Solution & Product Demos](https://www.onetrust.com/resources/onetrust-demos/)
+* [OneTrust named a strong performer in 2023 Forrester Data Governance Wave​](https://www.onetrust.com/resources/onetrust-named-a-strong-performer-in-2023-forrester-data-governance-wave-report/)
 
 ### Platform
 
