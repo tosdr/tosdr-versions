@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Jannie Schutte - myFinance-Online.co.za
+Hugo van Sittert
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=152523710)  
-Moremi Kitchens Rustenburg
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=135598840)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=43472942)  
-Myfinance-Online
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=149882805)  
+Leef in Afrikaans
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=88455049)  
-SMART GUY PCS (PTY) LTD
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=187756868)  
+NJR ICT Services (Pty) Ltd
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=180456131)  
-McKaynine Mobility
+![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=160321370)  
+PHESA TECHNOLOGY(PTY) LTD
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=200932061)  
-Goju Ryu Karate Centre
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=135658074)  
+One2b
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=149430131)  
-Salvage Genie
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=6558101)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=61342261)  
-Baby Toddles Infant Care
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=187207036)  
+VerdanTech Pty Ltd
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=125103719)  
-Druce Digital
+![valued client Quad Biking Cape Town](https://www.invoicesonline.co.za/scripts/image.php?bid=7985&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=55642496)  
+Quad Biking Cape Town
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=119490676)  
-Testpro Laboratory (Pty) Ltd
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=190090273)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=130497620)  
-Secunda Signs T/A Local Print and Signs
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=153951679)  
+Entidee Enterprise PTY (ltd)
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=161961599)  
-OptaServ
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=118772379)  
+Network Grey (Pty) Ltd
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=132610366)  
-Firstweb Hosting & Design
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=126862662)  
+Eruca (PTY)Ltd
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=54356269)  
-Wiselink Broadband Pty Ltd
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=156623672)  
+Peter Salvage Pty Ltd
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=181849163)  
-Wiselink Broadband Vryheid
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=162284696)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=c6c362157b56d75c2770aa44961790ffbc2f8668184f18df2a2d49db57b71a17&c=65656034)  
-van Schaik rentals
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=02c9968cf109bb043e0f180bdd569b75b81b6c5299d152e3343c35bc948fcc15&c=37240110)  
+TechnoDezi PTY(LTD)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
