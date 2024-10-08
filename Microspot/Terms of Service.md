@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/8915.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -90,7 +90,7 @@ Visitez l'une de nos quelques environ
 
 [![Monitore Samsung Acer HP](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0679-CM2-Promos-KW3912.jpg%3Fcontext%3DbWFzdGVyfGNtc3w2OTM5OHxpbWFnZS9qcGVnfGFEbGtMMmhqWmk4NE5qQjRORGcwWDBreU5GOHdOamM1WDBOTk1sOVFjbTl0YjNOZlMxY3pPVEV5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOHdOamM1WDBOTk1sOVFjbTl0YjNOZlMxY3pPVEV5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8MDk5Yzk3OWUwZTIyMjM2Yjc4MzgyMDAyNmVkYmU1ZGNmYWFjYjNjMzU5YTMyNWJiYzI2ZjI1NThjNGM4MzQzNg&w=2360&q=75)
 
-25%de rabais sur une sélection de moniteurs de HP, ASUS, AOC et PHILIPS](https://www.microspot.ch/fr/cms/actions-moniteurs)
+Jusqu'à 25%de rabais sur une sélection de moniteurs de HP, ASUS, AOC et PHILIPS](https://www.microspot.ch/fr/cms/actions-moniteurs)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0689-CM3-Promos-KW415.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzODAyN3xpbWFnZS9qcGVnfGFEZGtMMmd4WWk4NE5qQjRORGcwWDBreU5GOHdOamc1WDBOTk0xOVFjbTl0YjNOZlMxYzBNVFV1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTJPRGxmUTAwelgxQnliMjF2YzE5TFZ6UXhOUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8MzBhMzRlMDU3NDA3ZmVkYzI2NjVjYjEzYWVhZmRlZWQ1MDYxZDNiODJjZjg0NTJkNWQ2Y2M0MWQxOWE5ZThmNQ&w=2360&q=75)
 
@@ -215,13 +215,13 @@ Achetez comme vous aimez
 
 à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Garantie Plus
-
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
-
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
