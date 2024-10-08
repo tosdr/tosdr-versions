@@ -227,6 +227,8 @@ Search results
     
     ### iGroom [iGroom Squeaky Clean Shampoo - Gallon](https://www.petagree.net/products/igroom-squeaky-clean-shampoo-gallon)
     
+    19 in stock
+    
     $58.75
     
     Quantity  Add to cart
