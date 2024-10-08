@@ -190,7 +190,7 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (46)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (45)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (42)](https://www.smithbrothersfarms.com/on-special)
         
@@ -254,7 +254,7 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (77)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (76)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
@@ -265,13 +265,13 @@ Hi
             
         * [Salad Kits (23)](https://www.smithbrothersfarms.com/salads)
             
-        * [Prepared Produce (6)](https://www.smithbrothersfarms.com/prepped)
+        * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (62)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (61)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
-        * [Bread & Buns (23)](https://www.smithbrothersfarms.com/bread)
+        * [Bread & Buns (22)](https://www.smithbrothersfarms.com/bread)
             
         * [Tortillas & Pizza Crust (3)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
             
@@ -296,12 +296,12 @@ Hi
         * [Deli & Charcuterie (11)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
-    * [Meals & Sides (73)](https://www.smithbrothersfarms.com/prepared-foods)
+    * [Meals & Sides (72)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
         * [Frozen Meals (34)](https://www.smithbrothersfarms.com/entrees)
             
-        * [Sides & Appetizers (17)](https://www.smithbrothersfarms.com/sides-and-apps)
+        * [Sides & Appetizers (16)](https://www.smithbrothersfarms.com/sides-and-apps)
             
         * [Dips & Spreads (7)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
             
