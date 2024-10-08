@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great job, thanks for the superb service. If there is a mechanism for me to commend you, please let me know.
+Thank you so much. Your shit rocks!
 
-John Claire McMenamin
+Albert Curutchet
