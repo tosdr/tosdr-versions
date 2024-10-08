@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Chase H.Q.](https://www.myabandonware.com/game/chase-h-q-5hg)
-* [Caliber.50](https://www.myabandonware.com/game/caliber-50-8ey)
-* [Champion Wrestler](https://www.myabandonware.com/game/champion-wrestler-krk)
-* [Chack'n Pop](https://www.myabandonware.com/game/chack-n-pop-7y9)
-* [Centipede](https://www.myabandonware.com/game/centipede-4od)
+* [Hummer](https://www.myabandonware.com/game/hummer-spx)
+* [Huānlè Liùhé Yī](https://www.myabandonware.com/game/huanle-liuhe-yi-spw)
+* [Heavy Metal: Geomatrix](https://www.myabandonware.com/game/heavy-metal-geomatrix-spv)
+* [Harley-Davidson & L.A. Riders](https://www.myabandonware.com/game/harley-davidson-l-a-riders-spu)
+* [Gunmen Wars](https://www.myabandonware.com/game/gunmen-wars-spt)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Avery Cardoza's 500 Slots & Video Poker](https://www.myabandonware.com/game/avery-cardoza-s-500-slots-video-poker-f1g)
-* [Sonic & Garfield Pack](https://www.myabandonware.com/game/sonic-garfield-pack-eyf)
-* [Interstellar Flames .2](https://www.myabandonware.com/game/interstellar-flames-2-mtt)
+* [Disney Kindergarten](https://www.myabandonware.com/game/disney-kindergarten-rri)
+* [Kick Off 2: Winning Tactics](https://www.myabandonware.com/game/kick-off-2-winning-tactics-7cr)
+* [Buster Buddies](https://www.myabandonware.com/game/buster-buddies-s67)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
