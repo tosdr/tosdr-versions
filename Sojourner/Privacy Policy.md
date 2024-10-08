@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f6560b9c9d96e9f5ef69fb37abd6c040
+958c902c212847058909264c4b1faeb4
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Majestic black onyx necklace](https://www.sojourner.biz/images/cache/jewelry/N0078.200.jpg)](https://www.sojourner.biz/jewelry/necklaces/majestic-black-onyx-necklace.html "Majestic black onyx necklace")
+[![12 mm vintage Czech glass nuggets](https://www.sojourner.biz/images/cache/glass/GL0096.200.jpg)](https://www.sojourner.biz/beads/glass/12-mm-vintage-czech-glass-nuggets.html "12 mm vintage Czech glass nuggets")
 
-#### [Majestic black onyx necklace](https://www.sojourner.biz/jewelry/necklaces/majestic-black-onyx-necklace.html "Majestic black onyx necklace")
+#### [12 mm vintage Czech glass nuggets](https://www.sojourner.biz/beads/glass/12-mm-vintage-czech-glass-nuggets.html "12 mm vintage Czech glass nuggets")
 
-$110.00
+$8.00
 
 ### Best Sellers
 
