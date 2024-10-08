@@ -35,13 +35,13 @@ Search for:
             * [ActionsThe best help desk ticketing software for any size business.](https://reputation.com/products/actions/)
             * [Competitive IntelligenceAnalyze competitors’ ratings & reviews, compare performance and identify new opportunities.](https://reputation.com/products/competitive-intelligence/)
         * * [IntegrationsActivate the power of feedback data across your tech stack.](https://reputation.com/products/integrations/)
-        * * [![2024 Healthcare Reports](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOIAAATiAQAAAAA//XHrAAAAAnRSTlMAAHaTzTgAAADWSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GwOpAAFIQIVxAAAAAElFTkSuQmCC)
+        * * [![2024-25 Property Management Trends Report](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA94AAAPeAQAAAADSFv+GAAAAAnRSTlMAAHaTzTgAAACPSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACADwPjdQABD70mHQAAAABJRU5ErkJggg==)
                 
-                ![2024 Healthcare Reports](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
+                ![2024-25 Property Management Trends Report](https://reputation.com/wp-content/uploads/2024/10/2024-pm-trends-report-menu-cta-990.jpg)](https://reputation.com/property-management-report/)
                 
-                The 2024 Healthcare Reports are Available!
+                The 2024-25 Property Management Trends Report is Here
                 
-                [Learn More](https://reputation.com/solutions/healthcare/resources/)
+                [Learn More](https://reputation.com/property-management-report/)
                 
 * Solutions
     * * * [AutomotiveIncrease leads, visibility and new customers for dealerships, groups and OEM brands.](https://reputation.com/solutions/automotive/)
@@ -51,13 +51,13 @@ Search for:
             * [Financial ServicesImprove consumer trust by learning from competitive data and consumer feedback.](https://reputation.com/solutions/financial-services/)
         * * [HealthcareEnsure exceptional patient experience across all locations.](https://reputation.com/solutions/healthcare/)
             * [Senior CareEnsure quality senior care experiences by leveraging feedback data.](https://reputation.com/solutions/senior-care/)
-        * * [![2024 Healthcare Reports](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOIAAATiAQAAAAA//XHrAAAAAnRSTlMAAHaTzTgAAADWSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GwOpAAFIQIVxAAAAAElFTkSuQmCC)
+        * * [![2024-25 Property Management Trends Report](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA94AAAPeAQAAAADSFv+GAAAAAnRSTlMAAHaTzTgAAACPSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACADwPjdQABD70mHQAAAABJRU5ErkJggg==)
                 
-                ![2024 Healthcare Reports](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
+                ![2024-25 Property Management Trends Report](https://reputation.com/wp-content/uploads/2024/10/2024-pm-trends-report-menu-cta-990.jpg)](https://reputation.com/property-management-report/)
                 
-                The 2024 Healthcare Reports are Available!
+                The 2024-25 Property Management Trends Report is Here
                 
-                [Learn More](https://reputation.com/solutions/healthcare/resources/)
+                [Learn More](https://reputation.com/property-management-report/)
                 
 * [Resources](https://reputation.com/resources/)
     * * * [DiscoverCheck out the newest platform features and products.](https://reputation.com/product-news/)
@@ -65,16 +65,17 @@ Search for:
             * [SupportAccess our Customer Portal for account assistance.](https://support.reputation.com/)
         * * [RESOURCES OVERVIEWDiscover the content your business needs to edge out the competition.](https://reputation.com/resources/)
                 * [Customer StoriesLearn how Reputation customers achieve success and drive growth.](https://reputation.com/customer-stories/)
-                * [Videos & WebinarsBinge watch our webinars for industry tips and product updates.](https://reputation.com/resources/videos-webinars/)
                 * [ArticlesLearn about our latest platform updates and industry best practices.](https://reputation.com/resources/articles/)
                 * [Reports & ResearchExplore the latest industry insights with our data-driven research reports.](https://reputation.com/resources/reports-research/)
-        * * [![2024 Healthcare Reports](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABOIAAATiAQAAAAA//XHrAAAAAnRSTlMAAHaTzTgAAADWSURBVHja7cExAQAAAMKg9U9tDB+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4GwOpAAFIQIVxAAAAAElFTkSuQmCC)
+                * [Videos & WebinarsBinge watch our webinars for industry tips and product updates.](https://reputation.com/resources/videos-webinars/)
+                * [EventsCheck out upcoming in-person and virtual events.](https://reputation.com/rep-events/)
+        * * [![2024-25 Property Management Trends Report](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA94AAAPeAQAAAADSFv+GAAAAAnRSTlMAAHaTzTgAAACPSURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACADwPjdQABD70mHQAAAABJRU5ErkJggg==)
                 
-                ![2024 Healthcare Reports](/wp-content/uploads/2024/04/healthcare-nav-panel-cta.jpg)](https://reputation.com/solutions/healthcare/resources/)
+                ![2024-25 Property Management Trends Report](https://reputation.com/wp-content/uploads/2024/10/2024-pm-trends-report-menu-cta-990.jpg)](https://reputation.com/property-management-report/)
                 
-                The 2024 Healthcare Reports are Available!
+                The 2024-25 Property Management Trends Report is Here
                 
-                [Learn More](https://reputation.com/solutions/healthcare/resources/)
+                [Learn More](https://reputation.com/property-management-report/)
                 
 * [Platform](https://reputation.com/platform/)
 * [LOGIN](https://app.reputation.com/auth)
@@ -112,9 +113,10 @@ Search for:
     * [Support](https://support.reputation.com/)
     * [RESOURCES OVERVIEW](https://reputation.com/resources/)
         * [Customer Stories](https://reputation.com/customer-stories/)
-        * [Videos & Webinars](https://reputation.com/resources/videos-webinars/)
         * [Articles](https://reputation.com/resources/articles/)
         * [Reports & Research](https://reputation.com/resources/reports-research/)
+        * [Videos & Webinars](https://reputation.com/resources/videos-webinars/)
+        * [Events](https://reputation.com/rep-events/)
     
 * [Platform](https://reputation.com/platform/)
 * [LOGIN](https://app.reputation.com/auth)
