@@ -1,6 +1,6 @@
 5.38.17
 
-1728376597364
+1728398371768
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.1
 
-1728376826598
+1728398240817
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1728377669765
+1728399351553
 
 You need to enable JavaScript to run this app.
 
@@ -550,6 +550,32 @@ Please note the redemption of the 10% welcome offer to credit applies only to Ne
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
 
+### Estée Lauder Promotion
+
+Receive the Blockbuster 11-Piece Gift Set for £85 when you purchase 2 products from Estée Lauder. The Estée Lauder gift contains:
+
+* 1 Advanced Night Repair Serum Synchronized Multi-Recovery Complex, full-size (1oz./30ml)
+* 1 Advanced Night Cleansing Gelée with 15 Amino Acids, deluxe travel size (2.5oz./75ml)
+* 1 Revitalizing Supreme+ Youth Power Moisturiser, deluxe travel size (.5 oz./15ml)
+* 1 Advanced Night Repair Eye Supercharged Gel-Creme Synchronized Multi-Recovery, full-size (.5 oz./15ml)
+* 1 Re-Nutriv Intensive Smoothing Hand Cream, deluxe travel size (1 oz./30ml)
+* 1 Limited Edition - Trick Of The Eyes Eye Shadow Palette, deluxe travel size (.24oz./7g)
+* 2 Limited Edition Lipsticks, full-size (.12 oz./3.5g each) in Red Velvet & Magic Bouquet
+* 1 Limited Edition Lip Gloss, deluxe travel size (.16 oz./2.7ml) in Pink Persuasion
+* 1 Double Wear 24H Stay-in-Place Lip Liner, full-size (.04 oz./1.2g) in 15 Blush
+* 1 Sumptuous Extreme Lash Multiplying Volumizing Mascara, full-size (.27 oz./8ml)
+* Train Case
+
+To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+
+The Estée Lauder Gift will be automatically added once 2 qualifying Estée Lauder products have been added to the bag on either the Product or Shopping Bag Pages.
+
+The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
+
+This offer is not available to staff.
+
+Offer applies while stocks last.
+
 ### Shower Gels for £10 Selected Bath and Body Works Promotion
 
 Selected Bath and Body Works shower gels for £10.
@@ -573,16 +599,6 @@ Offer available while stocks last.
 ### 3 Wick Candles for £20 Selected Bath and Body Works Promotion
 
 Selected Bath and Body Works 3 wick candles for £20.
-
-Discounted price visible on product listing page and product already includes saving.
-
-Item will be added to basket at discounted price.
-
-Offer available while stocks last.
-
-### 15% off on Selected Elemis Promotion
-
-Up to 15% off on selected Elemis products.
 
 Discounted price visible on product listing page and product already includes saving.
 
@@ -637,25 +653,6 @@ Offer available while stocks last.
 11. The promoter reserves the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
 12. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
 13. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
-
-### Clarins Promotion
-
-The Clarins Gift will be automatically added to bag when you buy two selected Clarins products. The Clarins Gift contains:
-
-* Total Eye Lift 7ml
-* Hydra-Essentiel Cream 30ml
-* Beauty Flash Balm 30ml
-* Travel Bag
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
-
-The Clarins Gift will be automatically added once 2 qualifying Clarins products have been added to the bag on either the Product or Shopping Bag Pages.
-
-The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
-
-This offer is not available to staff.
-
-Offer applies while stocks last.
 
 ### Dermalogica Promotion
 
@@ -2616,7 +2613,7 @@ You need to enable JavaScript to run this app.
 
 3.15.1
 
-1728376736878
+1728398969763
 
 ### Our Social Networks
 
