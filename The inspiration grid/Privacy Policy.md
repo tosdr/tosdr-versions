@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/3d-julien-rivoire-feature.jpg)
+
+[](https://theinspirationgrid.com/awesome-retro-gaming-art-by-julien-rivoire/)
+
+### Awesome Retro Gaming Art by Julien Rivoire
+
+![](https://inspgr.id/app/uploads/2024/10/illustration-jonathan-calugi-feature.jpg)
+
+[](https://theinspirationgrid.com/continuous-lines-illustrations-by-jonathan-calugi/)
+
+### One Line Wonders: Expressive Illustrations by Jonathan Calugi
+
 ![](https://inspgr.id/app/uploads/2024/10/illustration-cabin-studio-feature.jpg)
 
 [](https://theinspirationgrid.com/sometimes-silence-is-love-illustrations-by-cabin-studio/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/surreal-dreams-gorgeous-illustrations-by-alefes-silva/)
 
 ### Surreal Dreams: Gorgeous Illustrations by Alefes Silva
-
-![](https://inspgr.id/app/uploads/2024/10/art-tomohiro-inaba-feature.jpg)
-
-[](https://theinspirationgrid.com/fading-away-incredible-sculptures-by-tomohiro-inaba/)
-
-### Fading Away: Incredible Sculptures by Tomohiro Inaba
-
-![](https://inspgr.id/app/uploads/2024/10/design-new-gameboy-feature.jpg)
-
-[](https://theinspirationgrid.com/the-new-game-boy-an-ingenious-modular-concept/)
-
-### The New Game Boy: An Ingenious Modular Concept
 
 Awesome products for creatives
 ------------------------------
