@@ -327,38 +327,6 @@ Seminar E-Mail:
 
 * Returns / Exchange Policy
 
-Return / Exchange Policy
-========================
-
-* * *
-
-  
-
-  
-
-Our goal is to have only satisfied customers. If you find our product(s) unsatisfactory in any way, please contact our Customer Service Department at 888-556-7464. Upon hearing the voice prompt select option 1 for assistance. You can also e-mail us at [mfathletic@mfathletic.com](mailto:mfathletic@mfathletic.com) with your return and/or exchange needs. Please download the return form below for a list of instructions for product return.  
-  
-
-[![Return Form](/CMS/Site-3/Published/Images/returnform_button.jpg)](https://www.everythingtrackandfield.com/images/PB_Return_Form.pdf)
-
-  
-
-General Conditions
-------------------
-
-  
-
-• Due to the nature of DVD’s, CD’s, Books, and Computer Software, they are generally not returnable  
-• Sorry, but we are unable to accept returns for downloadable videos  
-• Custom made products and clearance items are not returnable  
-• Products must be returned in unused condition to receive full credit  
-• We cannot be held accountable for lost or stolen packages  
-• We are not responsible for returned shipments that are lost or damaged on their way back to us  
-• With exception of shipping errors, we cannot refund / credit shipping costs
-
-  
-  
-
 [Back to Top](#)
 
 * [![](https://www.everythingtrackandfield.com/sca-dev-vinson/img/facebook_button.jpg)](https://www.facebook.com/EverythingTrackAndField)
