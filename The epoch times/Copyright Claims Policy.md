@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Harris Asked to Explain Policy Shifts on CBS’ ’60 Minutes’](https://www.theepochtimes.com/us/harris-asked-to-explain-policy-shifts-on-cbs-60-minutes-5737310)
+    
+    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Harris Asked to Explain Policy Shifts on CBS’ ’60 Minutes’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Asked to Explain Policy Shifts on CBS’ ’60 Minutes’](https://img.theepochtimes.com/assets/uploads/2024/09/25/id5730170-Kamala-Harris_Pittsburgh-speech-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-asked-to-explain-policy-shifts-on-cbs-60-minutes-5737310)
+* [A Young Family’s Flight for Life on Day of North Carolina Floods](https://www.theepochtimes.com/us/a-young-familys-flight-for-life-on-day-of-floods-5737051)
+    
+    NEW By [Richard Moore](https://www.theepochtimes.com/author/richard-moore)
+    
+    [![A Young Family’s Flight for Life on Day of North Carolina Floods](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![A Young Family’s Flight for Life on Day of North Carolina Floods](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737104-3000-Michael-and-Brhianna-Stapleton-studio-205x123.jpg.webp)](https://www.theepochtimes.com/us/a-young-familys-flight-for-life-on-day-of-floods-5737051)
+* [Biden to Announce $2.6 Billion in Wisconsin for Replacing Lead Pipes](https://www.theepochtimes.com/us/biden-to-announce-2-6-billion-investment-in-wisconsin-to-replace-lead-pipes-5736919)
+    
+    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![Biden to Announce $2.6 Billion in Wisconsin for Replacing Lead Pipes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden to Announce $2.6 Billion in Wisconsin for Replacing Lead Pipes](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735283-GettyImages-2175583892-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-to-announce-2-6-billion-investment-in-wisconsin-to-replace-lead-pipes-5736919)
 * [America’s Largest Water and Wastewater Utility Hit by Cyberattack](https://www.theepochtimes.com/us/americas-largest-water-and-wastewater-utility-hit-by-cyberattack-5737131)
     
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![America’s Largest Water and Wastewater Utility Hit by Cyberattack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![America’s Largest Water and Wastewater Utility Hit by Cyberattack](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737268-AP_US_American_Water_Cyberattack_24281809304037-205x123.jpg.webp)](https://www.theepochtimes.com/us/americas-largest-water-and-wastewater-utility-hit-by-cyberattack-5737131)
 * [These 6 Michigan Counties Could Decide Who Wins 2024 Presidential Election](https://www.theepochtimes.com/article/these-6-michigan-counties-could-decide-who-wins-2024-presidential-election-5735452)
     
-    2hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    8hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
     
     [![These 6 Michigan Counties Could Decide Who Wins 2024 Presidential Election](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![These 6 Michigan Counties Could Decide Who Wins 2024 Presidential Election](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737255-Michigan-county-8-205x123.jpg.webp)](https://www.theepochtimes.com/article/these-6-michigan-counties-could-decide-who-wins-2024-presidential-election-5735452)
 * [Day in Photos: Year-Long Attack, Short-Lived Mayor, and Launched Rocket](https://www.theepochtimes.com/article/day-in-photos-year-long-attack-short-lived-mayor-and-launched-rocket-5736348)
     
-    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    10hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Year-Long Attack, Short-Lived Mayor, and Launched Rocket](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Year-Long Attack, Short-Lived Mayor, and Launched Rocket](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737253-GettyImages-2176333136-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-year-long-attack-short-lived-mayor-and-launched-rocket-5736348)
 * [Federal Court Orders Google to Open Android to Third-Party App Stores in Antitrust Case](https://www.theepochtimes.com/us/federal-court-orders-google-to-open-android-to-third-party-app-stores-in-antitrust-case-5737091)
     
-    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    10hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![Federal Court Orders Google to Open Android to Third-Party App Stores in Antitrust Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Court Orders Google to Open Android to Third-Party App Stores in Antitrust Case](https://img.theepochtimes.com/assets/uploads/2022/02/16/ALPHABET-GOOGLE-ANDROID-ADVERTISING-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-court-orders-google-to-open-android-to-third-party-app-stores-in-antitrust-case-5737091)
 * [Schizophrenia Drug Linked to Pneumonia, Gut Disorders in 25-Year Follow-Up Study](https://www.theepochtimes.com/health/schizophrenia-drug-linked-to-pneumonia-and-gut-disorders-25-year-follow-up-study-5735619)
     
-    4hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
+    10hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
     
     [![Schizophrenia Drug Linked to Pneumonia, Gut Disorders in 25-Year Follow-Up Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Schizophrenia Drug Linked to Pneumonia, Gut Disorders in 25-Year Follow-Up Study](https://img.theepochtimes.com/assets/uploads/2023/01/12/shutterstock_1545336026-205x123.jpg.webp)](https://www.theepochtimes.com/health/schizophrenia-drug-linked-to-pneumonia-and-gut-disorders-25-year-follow-up-study-5735619)
 * [Wall Street Falls as 10-Year Treasury Yield Tops 4 Percent for First Time Since August](https://www.theepochtimes.com/us/wall-street-falls-as-10-year-treasury-yield-tops-4-percent-for-first-time-since-august-5737045)
     
-    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Wall Street Falls as 10-Year Treasury Yield Tops 4 Percent for First Time Since August](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Wall Street Falls as 10-Year Treasury Yield Tops 4 Percent for First Time Since August](https://img.theepochtimes.com/assets/uploads/2024/08/05/id5699907-2024-02-05T111354Z_1_LYNXMPEK140F1_RTROPTP_4_USA-STOCKS-LSedit-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/wall-street-falls-as-10-year-treasury-yield-tops-4-percent-for-first-time-since-august-5737045)
 * [Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://www.theepochtimes.com/business/major-wall-street-bank-lowers-chance-of-recession-citing-robust-jobs-data-5736936)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Major Wall Street Bank Lowers Chance of Recession, Citing Robust Jobs Data](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737258-GettyImages-2165431872KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/major-wall-street-bank-lowers-chance-of-recession-citing-robust-jobs-data-5736936)
-* [Supreme Court Tosses Biden Admin’s Appeal in Texas Emergency Abortion Case](https://www.theepochtimes.com/us/supreme-court-tosses-biden-admins-appeal-in-texas-emergency-abortion-case-5736939)
-    
-    7hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
-    
-    [![Supreme Court Tosses Biden Admin’s Appeal in Texas Emergency Abortion Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court Tosses Biden Admin’s Appeal in Texas Emergency Abortion Case](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737020-10072024-L1160069-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-tosses-biden-admins-appeal-in-texas-emergency-abortion-case-5736939)
-* [A Year Later, Israel Commemorates the Oct. 7 Attack by Hamas](https://www.theepochtimes.com/world/a-year-later-israel-commemorates-the-oct-7-attack-by-hamas-5736965)
-    
-    7hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
-    
-    [![A Year Later, Israel Commemorates the Oct. 7 Attack by Hamas](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![A Year Later, Israel Commemorates the Oct. 7 Attack by Hamas](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736652-Oct.-7-anniversary-GettyImages-2177182270-205x123.jpg.webp)](https://www.theepochtimes.com/world/a-year-later-israel-commemorates-the-oct-7-attack-by-hamas-5736965)
-* [House Intel Chairman Calls on FBI to Investigate Whether Would-Be Trump Assassins Linked to Iran](https://www.theepochtimes.com/us/house-intel-chairman-calls-on-fbi-to-investigate-whether-would-be-trump-assassins-linked-to-iran-5736836)
-    
-    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![House Intel Chairman Calls on FBI to Investigate Whether Would-Be Trump Assassins Linked to Iran](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![House Intel Chairman Calls on FBI to Investigate Whether Would-Be Trump Assassins Linked to Iran](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737109-Mike-Turner-GettyImages-1449159997-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-intel-chairman-calls-on-fbi-to-investigate-whether-would-be-trump-assassins-linked-to-iran-5736836)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
