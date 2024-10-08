@@ -95,6 +95,11 @@
     
     [See All](https://www.coolthings.com/house/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/aeropress-premium-portable-coffee-maker-finer-materials-borosilicate-glass-steel-aluminum/)
+    
+    [Aeropress Premium Dresses the Portable Coffee Maker in Finer Materials](https://www.coolthings.com/aeropress-premium-portable-coffee-maker-finer-materials-borosilicate-glass-steel-aluminum/)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-dehumidifiers-to-maintain-optimal-humidity-levels-around-the-house/)
     
     [The Best Dehumidifiers to Maintain Optimal Humidity Levels Around the House](https://www.coolthings.com/the-best-dehumidifiers-to-maintain-optimal-humidity-levels-around-the-house/)
@@ -104,11 +109,6 @@
     
     [Govee Christmas String Lights 2 Offers Unique Customizations, AI Light Effects, and More](https://www.coolthings.com/govee-christmas-string-lights-2-preset-light-effects-customizable-programmable/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-bidet-attachments-to-improve-your-bathroom-experience/)
-    
-    [The Best Bidet Attachments to Improve Your Bathroom Experience](https://www.coolthings.com/the-best-bidet-attachments-to-improve-your-bathroom-experience/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
