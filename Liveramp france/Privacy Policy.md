@@ -132,26 +132,22 @@ Toogle search bar
 * [Login](https://sso.liveramp.com/)
 * [Contactez-nous](https://liveramp.fr/nous-contacter/)
 
-**Politique de Confidentialité de nos Produits et Services**
-============================================================
+Politique de Confidentialité et Cookies
+=======================================
 
 ### **_I. Quel est l’objet de cette politique ?_**
 
-_Vous Pourrez trouver sur cette page l’ensemble des informations sur la protection des données personnelles relatives aux produits et services de liveRamp_
+_Vous pourrez trouver sur cette page l’ensemble des informations sur la protection des données personnelles relatives aux produits et services de LiveRamp._
 
-_Pour toute information relative à l’utilisation de vos données personnelles lors de votre_ _visite sur notre site, vous pouvez consulter la_ [_politique de confidentialité dédiée._](https://liveramp.fr/politique-de-cookies/politique-confidentialite-marketing-site-internet/) 
+_Pour toute information relative à l’utilisation de vos données personnelles lors de votre visite sur notre site, vous pouvez consulter la [politique de confidentialité dédiée.](https://liveramp.fr/politique-de-cookies/politique-confidentialite-marketing-site-internet/)_
 
-_Pour consulter l’information relative aux cookies et pixels LiveRamp,_ [**cliquez ici.**](https://liveramp.fr/politique-confidentialite-produits-services/politique-de-confidentialite-de-nos-produits-et-services-2//#pour)
+_P__our consulter l’information relative aux cookies et pixels LiveRamp, cliquez_ _[**ici.**](#pour)_
 
-Le groupe LiveRamp met à la disposition de ses clients des outils permettant d’optimiser leurs activités de marketing en ligne. Dans le cadre de ces activités, des données personnelles pouvant identifier directement ou indirectement des personnes physiques sont collectées et traitées. 
+Le groupe LiveRamp met à la disposition de ses clients des outils permettant d’optimiser leurs activités de marketing en ligne. Dans le cadre de ces activités, des données personnelles pouvant identifier directement ou indirectement des personnes physiques sont collectées et traitées.
 
-En France et dans les pays de l’Union Européenne où il est présent, le groupe LiveRamp déploie ses activités sous la responsabilité de traitement de la société [LiveRamp France SAS](https://liveramp.fr/mentions-legales/) (ci-après « **LiveRamp** » ou « **nous**« ). Nous agissons également dans certains cas de figure comme sous-traitant de données personnelles pour le compte de nos clients. 
+En France et dans les pays de l’Union Européenne où il est présent, le groupe LiveRamp déploie ses activités sous la responsabilité de traitement de la société [LiveRamp France SAS](https://liveramp.fr/mentions-legales/) (ci-après « **LiveRamp** » ou « **nous**« ). Nous agissons également dans certains cas de figure comme sous-traitant de données personnelles pour le compte de nos clients.
 
 La présente politique fournit des informations sur les conditions de traitement de vos données personnelles par nos produits et services. Ces informations sont fournies dans le cadre d’une démarche de transparence, pour accompagner les personnes concernées dans la compréhension de nos activités de traitement qui sont, la plupart du temps, effectuées en collaboration avec des partenaires et découlent d’une collecte indirecte par LiveRamp en qualité de responsable de traitement. A ce titre, afin compléter l’information fournie dans la présente politique, nous vous invitons à consulter les politiques d’information des partenaires concernés.
-
-**_Qui sont nos « partenaires » mentionnés dans cette politique ?_** Vous pouvez consulter la [liste de nos partenaires](https://liveramp.fr/partenaires/) répertoriés selon les catégories énoncées ci-après. Ce sont des acteurs de l’écosystème digital et télévisuel tels que des éditeurs de sites et d’applications mobiles (“Match, OIDL & ATS Partners”), des fournisseurs de services (“Offline Partners”), des sources publiques (“Public Sources”), des environnements publicitaires (“Sync Partners”) et des fournisseurs d’accès à internet (“TV Partners”).
-
-**_Qui sont nos « clients », mentionnés dans cette politique ?_** Nos clients sont des annonceurs opérant dans les secteurs tels que la grande distribution, l’automobile, les télécommunications et l’assurance, et souscrivant à nos offres de produits et services fondés sur la reconnaissance, la pseudonymisation et la synchronisation
 
 ### **_II. Dans quels cas de figure LiveRamp traite vos données personnelles ?_**
 
