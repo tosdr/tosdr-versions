@@ -527,7 +527,7 @@ Cc-visa Cc-mastercard Cc-amex Cc-discover Cc-paypal
 
 © 2024 TV Ears, Inc. All rights reserved
 
-14
+0
 
 Our Products
 ------------
@@ -577,160 +577,12 @@ My cart
 
 Close cart
 
-[![Hearing aids vs hearing amplifiers](https://www.tvears.com/wp-content/uploads/2019/01/11741-DigSystem-B00E4JWRK4_front-view-247x247.jpg)](https://www.tvears.com/product/digital-system/)
+Your cart is empty.
 
-[TV Ears Digital System](https://www.tvears.com/product/digital-system/)
-
-−  +
-
- ~**MSRP:**$179.95~ COUPON: _$161.96_
-
-[![](https://www.tvears.com/wp-content/uploads/2019/12/TV-Ears_22741-long_range_digital_system-front-247x247.jpg)](https://www.tvears.com/product/5-8-digital-system/)
-
-[TV Ears Long Range 5.8 Digital System](https://www.tvears.com/product/5-8-digital-system/)
-
-−  +
-
- ~**MSRP:**$199.95~ COUPON: _$179.96_
-
-[![TV Ears_21290-long_range_speaker_system-front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_21290-long_range_speaker_system-front-247x247.jpg)](https://www.tvears.com/product/speaker-system/)
-
-[TV Ears Speaker System](https://www.tvears.com/product/speaker-system/)
-
-−  +
-
- ~**MSRP:**$299.95~ COUPON: _$269.96_
-
-[![TV Ears_bundle5-dual_analog_bundle_front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_bundle5-dual_analog_bundle_front-247x247.jpg)](https://www.tvears.com/product/dual-original-bundle/?bundle_quantity_4=1&bundle_quantity_1=1)
-
-[TV Ears Dual Original System](https://www.tvears.com/product/dual-original-bundle/?bundle_quantity_4=1&bundle_quantity_1=1)
-
-−  +
-
-[![](https://www.tvears.com/wp-content/uploads/2019/01/TV-Ears-Original-System-front-view-247x247.jpg)](https://www.tvears.com/product/original-system/)
-
-[TV Ears Original System](https://www.tvears.com/product/original-system/)
-
- ~**MSRP:**$119.95~ COUPON: _$107.96_
-
-[![](https://www.tvears.com/wp-content/uploads/2019/02/11621-HeadsetOnly-B00IVC5XRY_FrontView-247x247.jpg)](https://www.tvears.com/product/headset/)
-
-[TV Ears Original/Digital - Headset Only](https://www.tvears.com/product/headset/)
-
- ~**MSRP:**$89.95~ ADD-ON SPECIAL!  ~$49.95~  COUPON: _$44.96_
-
-[![TV Ears_bundle4-dual_digital_bundle-front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_bundle4-dual_digital_bundle-front-247x247.jpg)](https://www.tvears.com/product/dual-digital-bundle/?bundle_quantity_21=1&bundle_quantity_22=1)
-
-[TV Ears Dual Digital System](https://www.tvears.com/product/dual-digital-bundle/?bundle_quantity_21=1&bundle_quantity_22=1)
-
-−  +
-
-[![Hearing aids vs hearing amplifiers](https://www.tvears.com/wp-content/uploads/2019/01/11741-DigSystem-B00E4JWRK4_front-view-247x247.jpg)](https://www.tvears.com/product/digital-system/)
-
-[TV Ears Digital System](https://www.tvears.com/product/digital-system/)
-
- ~**MSRP:**$179.95~ COUPON: _$161.96_
-
-[![](https://www.tvears.com/wp-content/uploads/2019/02/11621-HeadsetOnly-B00IVC5XRY_FrontView-247x247.jpg)](https://www.tvears.com/product/headset/)
-
-[TV Ears Original/Digital - Headset Only](https://www.tvears.com/product/headset/)
-
- ~**MSRP:**$89.95~ ADD-ON SPECIAL!  ~$49.95~  COUPON: _$44.96_
-
-[![](https://www.tvears.com/wp-content/uploads/2023/12/5-8-dual-digital-main3-247x247.jpg)](https://www.tvears.com/product/dual-5-8-digital-bundle/?bundle_quantity_10=1&bundle_quantity_11=1)
-
-[TV Ears Dual 5.8 Digital System](https://www.tvears.com/product/dual-5-8-digital-bundle/?bundle_quantity_10=1&bundle_quantity_11=1)
-
-−  +
-
-[![](https://www.tvears.com/wp-content/uploads/2019/12/TV-Ears_22741-long_range_digital_system-front-247x247.jpg)](https://www.tvears.com/product/5-8-digital-system/)
-
-[TV Ears Long Range 5.8 Digital System](https://www.tvears.com/product/5-8-digital-system/)
-
- ~**MSRP:**$199.95~ COUPON: _$179.96_
-
-[![](https://www.tvears.com/wp-content/uploads/2019/12/58headset-main-247x247.jpg)](https://www.tvears.com/product/5-8-digital-headset/)
-
-[Long Range 5.8 Digital Headset](https://www.tvears.com/product/5-8-digital-headset/)
-
- ~**MSRP:**$99.95~ ADD-ON SPECIAL!  ~$59.95~  COUPON: _$53.96_
-
-[![long_range_speaker](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_bundle2-dual_long_range_speaker_bundle-front-247x247.jpg)](https://www.tvears.com/product/dual-speaker-bundle/?bundle_quantity_14=1&bundle_quantity_15=1)
-
-[TV Ears Dual Speaker System](https://www.tvears.com/product/dual-speaker-bundle/?bundle_quantity_14=1&bundle_quantity_15=1)
-
-−  +
-
-[![TV Ears_21290-long_range_speaker_system-front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_21290-long_range_speaker_system-front-247x247.jpg)](https://www.tvears.com/product/speaker-system/)
-
-[TV Ears Speaker System](https://www.tvears.com/product/speaker-system/)
-
- ~**MSRP:**$299.95~ COUPON: _$269.96_
-
-[![TV Ears_20234-long_range_speaker_front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_20234-long_range_speaker_front-247x247.jpg)](https://www.tvears.com/product/speaker/)
-
-[TV Ears - Speaker Only](https://www.tvears.com/product/speaker/)
-
- ~**MSRP:**$189.95~ ADD-ON SPECIAL!  ~$149.95~  COUPON: _$134.96_
-
-[![](https://www.tvears.com/wp-content/uploads/2019/02/11621-HeadsetOnly-B00IVC5XRY_FrontView-247x247.jpg)](https://www.tvears.com/product/headset/)
-
-[TV Ears Original/Digital - Headset Only](https://www.tvears.com/product/headset/)
-
-−  +
-
- ~**MSRP:**$89.95~ ADD-ON SPECIAL!  ~$49.95~  COUPON: _$44.96_
-
-[![](https://www.tvears.com/wp-content/uploads/2019/12/58headset-main-247x247.jpg)](https://www.tvears.com/product/5-8-digital-headset/)
-
-[Long Range 5.8 Digital Headset](https://www.tvears.com/product/5-8-digital-headset/)
-
-−  +
-
- ~**MSRP:**$99.95~ ADD-ON SPECIAL!  ~$59.95~  COUPON: _$53.96_
-
-[![TV Ears_11611-analog_transmitter-front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_11611-analog_transmitter-front-247x247.jpg)](https://www.tvears.com/product/original-transmitter/)
-
-[Original Transmitter](https://www.tvears.com/product/original-transmitter/)
-
-−  +
-
- ~**MSRP:**$69.95~ COUPON: _$62.96_
-
-[![TV Ears_11811-digital_transmitter_front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_11811-digital_transmitter_front-247x247.jpg)](https://www.tvears.com/product/digital-transmitter/)
-
-[Digital Transmitter](https://www.tvears.com/product/digital-transmitter/)
-
-−  +
-
- ~**MSRP:**$99.95~ COUPON: _$89.96_
-
-[![mini transmitter](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_22221-long_range_mini_transmitter_front-247x247.jpg)](https://www.tvears.com/product/mini-transmitter/)
-
-[Long Range 5.8 Digital TV Transmitter](https://www.tvears.com/product/mini-transmitter/)
-
-−  +
-
- ~**MSRP:**$119.95~ COUPON: _$107.96_
-
-[![TV Ears_40810-batteries-front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_40810-batteries-front-247x247.jpg)](https://www.tvears.com/product/original-digital-batteries/)
-
-[Original/Digital Battery](https://www.tvears.com/product/original-digital-batteries/)
-
-−  +
-
- ~**MSRP:**$19.95~ COUPON: _$17.96_
-
-[![TV Ears_40738-slidetips-front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_40738-slidetips-front-247x247.jpg)](https://www.tvears.com/product/slide-tips/)
-
-[Ear Tips](https://www.tvears.com/product/slide-tips/)
-
-−  +
-
- ~**MSRP:**$19.95~ COUPON: _$17.96_
+Looks like you haven't made a choice yet.
 
 Got a discount code?
 
  Apply
 
-[Checkout now](https://www.tvears.com/checkout/)
+Your cart is empty. Shop now
