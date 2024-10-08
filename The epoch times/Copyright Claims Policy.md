@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Harris Announces New Plan Requiring Medicare to Cover Home Care for Seniors](https://www.theepochtimes.com/us/harris-announces-new-plan-requiring-medicare-to-cover-home-care-for-seniors-5737710)
+    
+    1hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Harris Announces New Plan Requiring Medicare to Cover Home Care for Seniors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris Announces New Plan Requiring Medicare to Cover Home Care for Seniors](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737913-GettyImages-2176682520-2-205x123.jpg)](https://www.theepochtimes.com/us/harris-announces-new-plan-requiring-medicare-to-cover-home-care-for-seniors-5737710)
+* [Helene-Hit States Making Few Election-Rule Changes in Storm’s Wake](https://www.theepochtimes.com/us/helene-hit-states-making-few-election-rule-changes-in-storms-wake-5737243)
+    
+    3hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    
+    [![Helene-Hit States Making Few Election-Rule Changes in Storm’s Wake](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Helene-Hit States Making Few Election-Rule Changes in Storm’s Wake](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737726-Helene-Damage-11_JF_10052024KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/helene-hit-states-making-few-election-rule-changes-in-storms-wake-5737243)
+* [Dozens of States Sue TikTok, Alleging Addictive Features for Youth](https://www.theepochtimes.com/tech/dozens-of-states-sue-tiktok-5737587)
+    
+    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![Dozens of States Sue TikTok, Alleging Addictive Features for Youth](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Dozens of States Sue TikTok, Alleging Addictive Features for Youth](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721855-EpochImages-8212753885-xl-205x123.jpg.webp)](https://www.theepochtimes.com/tech/dozens-of-states-sue-tiktok-5737587)
+* [FEMA Director: We Have Enough Money for Hurricane Milton, Not Rest of Year](https://www.theepochtimes.com/us/fema-director-we-have-enough-money-for-hurricane-milton-not-rest-of-year-5737629)
+    
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![FEMA Director: We Have Enough Money for Hurricane Milton, Not Rest of Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FEMA Director: We Have Enough Money for Hurricane Milton, Not Rest of Year](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737680-08302023-DSC09931-Deanne-Criswell-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-director-we-have-enough-money-for-hurricane-milton-not-rest-of-year-5737629)
+* [Supreme Court Weighs Case Over Biden Admin’s ‘Ghost Gun’ Regulations](https://www.theepochtimes.com/us/supreme-court-hears-case-over-biden-admins-ghost-gun-regulations-5737537)
+    
+    6hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Supreme Court Weighs Case Over Biden Admin’s ‘Ghost Gun’ Regulations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court Weighs Case Over Biden Admin’s ‘Ghost Gun’ Regulations](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737042-10072024-DSC03085-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-hears-case-over-biden-admins-ghost-gun-regulations-5737537)
+* [IRS Reminds Taxpayers of October Filing Deadline](https://www.theepochtimes.com/us/irs-reminds-taxpayers-of-october-filing-deadline-5737596)
+    
+    6hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![IRS Reminds Taxpayers of October Filing Deadline](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![IRS Reminds Taxpayers of October Filing Deadline](https://img.theepochtimes.com/assets/uploads/2024/02/12/id5585904-01042024-DSC06055-IRSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/irs-reminds-taxpayers-of-october-filing-deadline-5737596)
+* [SEC, DOJ Raise Objections to EV Maker Fisker’s Bankruptcy Proceedings](https://www.theepochtimes.com/us/sec-doj-raise-objections-to-ev-maker-fiskers-bankruptcy-proceedings-5737480)
+    
+    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![SEC, DOJ Raise Objections to EV Maker Fisker’s Bankruptcy Proceedings](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![SEC, DOJ Raise Objections to EV Maker Fisker’s Bankruptcy Proceedings](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737783-2021-11-17T175633Z_1_LYNXMPEHAG121_RTROPTP_4_AUTOSHOW-LOS-ANGELES-LS-205x123.webp)](https://www.theepochtimes.com/us/sec-doj-raise-objections-to-ev-maker-fiskers-bankruptcy-proceedings-5737480)
+* [Costco Gold Bars Are Selling Out Even as Prices Surge, Survey Finds](https://www.theepochtimes.com/business/costco-gold-bars-are-selling-out-even-as-prices-surge-survey-finds-5737574)
+    
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Costco Gold Bars Are Selling Out Even as Prices Surge, Survey Finds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Costco Gold Bars Are Selling Out Even as Prices Surge, Survey Finds](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737777-Costco-Wholesale_220304-e1646426711766-LS-205x123.webp)](https://www.theepochtimes.com/business/costco-gold-bars-are-selling-out-even-as-prices-surge-survey-finds-5737574)
 * [Third-Quarter Earnings Season Is Here—What You Need to Know](https://www.theepochtimes.com/business/third-quarter-earnings-season-is-here-what-you-need-to-know-5737521)
     
-    1hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Third-Quarter Earnings Season Is Here—What You Need to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Third-Quarter Earnings Season Is Here—What You Need to Know](https://img.theepochtimes.com/assets/uploads/2024/08/07/id5701536-Financial_Markets_Wall_Street_24219512545805-SB-205x123.jpg.webp)](https://www.theepochtimes.com/business/third-quarter-earnings-season-is-here-what-you-need-to-know-5737521)
 * [Russian Forces Breach Outskirts of Frontline Town in Donetsk: Ukrainian Military](https://www.theepochtimes.com/world/russian-forces-breach-outskirts-of-frontline-town-in-donetsk-ukrainian-military-5737482)
     
-    1hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    7hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
     
     [![Russian Forces Breach Outskirts of Frontline Town in Donetsk: Ukrainian Military](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Russian Forces Breach Outskirts of Frontline Town in Donetsk: Ukrainian Military](https://img.theepochtimes.com/assets/uploads/2023/09/08/id5488639-Ukraine-war-GettyImages-1243913126-205x123.jpg.webp)](https://www.theepochtimes.com/world/russian-forces-breach-outskirts-of-frontline-town-in-donetsk-ukrainian-military-5737482)
-* [Tampa Mayor Warns Residents Who Won’t Evacuate Hurricane Milton: ‘You’re Going to Die’](https://www.theepochtimes.com/us/tampa-mayor-warns-residents-who-wont-evacuate-hurricane-milton-youre-going-to-die-5737534)
-    
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Tampa Mayor Warns Residents Who Won’t Evacuate Hurricane Milton: ‘You’re Going to Die’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Tampa Mayor Warns Residents Who Won’t Evacuate Hurricane Milton: ‘You’re Going to Die’](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737463-xxx-205x123.jpg.webp)](https://www.theepochtimes.com/us/tampa-mayor-warns-residents-who-wont-evacuate-hurricane-milton-youre-going-to-die-5737534)
-* [Federal Court Backs Florida on Law Against Riots, Reversing Previous Ruling](https://www.theepochtimes.com/us/federal-court-backs-florida-on-law-against-riots-reversing-previous-ruling-5737472)
-    
-    2hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
-    
-    [![Federal Court Backs Florida on Law Against Riots, Reversing Previous Ruling](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Court Backs Florida on Law Against Riots, Reversing Previous Ruling](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737573-florida-protest-george-floyd-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-court-backs-florida-on-law-against-riots-reversing-previous-ruling-5737472)
-* [IV Fluid Shortage: Hospital Group Asks Federal Government to Declare National Emergency](https://www.theepochtimes.com/us/iv-fluid-shortage-hospital-group-asks-federal-government-to-declare-national-emergency-5737473)
-    
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![IV Fluid Shortage: Hospital Group Asks Federal Government to Declare National Emergency](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![IV Fluid Shortage: Hospital Group Asks Federal Government to Declare National Emergency](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736497-ivfluidKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/iv-fluid-shortage-hospital-group-asks-federal-government-to-declare-national-emergency-5737473)
-* [Floridians Prepare as Hurricane Milton Poses ‘Extremely Serious Threat’ to State](https://www.theepochtimes.com/us/hurricane-milton-heads-to-florida-poses-extremely-serious-threat-national-hurricane-center-5737453)
-    
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Floridians Prepare as Hurricane Milton Poses ‘Extremely Serious Threat’ to State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Floridians Prepare as Hurricane Milton Poses ‘Extremely Serious Threat’ to State](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737623-hurricanemiltonsatimg-205x123.jpg)](https://www.theepochtimes.com/us/hurricane-milton-heads-to-florida-poses-extremely-serious-threat-national-hurricane-center-5737453)
-* [European Body Set up to Resolve Disputes With TikTok, YouTube and Facebook](https://www.theepochtimes.com/world/european-body-set-up-to-resolve-disputes-with-tiktok-youtube-and-facebook-5737403)
-    
-    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
-    
-    [![European Body Set up to Resolve Disputes With TikTok, YouTube and Facebook](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![European Body Set up to Resolve Disputes With TikTok, YouTube and Facebook](https://img.theepochtimes.com/assets/uploads/2019/10/07/facebook-social-media-1172921208-205x123.jpg.webp)](https://www.theepochtimes.com/world/european-body-set-up-to-resolve-disputes-with-tiktok-youtube-and-facebook-5737403)
-* [Trump, Harris Mark Anniversary of Hamas Attack on Israel](https://www.theepochtimes.com/us/trump-harris-mark-anniversary-of-hamas-attack-on-israel-5737306)
-    
-    7hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
-    
-    [![Trump, Harris Mark Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump, Harris Mark Anniversary of Hamas Attack on Israel](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737321-Trump-Harris--205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-harris-mark-anniversary-of-hamas-attack-on-israel-5737306)
-* [Harris Asked to Explain Policy Shifts on CBS’ ’60 Minutes’](https://www.theepochtimes.com/us/harris-asked-to-explain-policy-shifts-on-cbs-60-minutes-5737310)
-    
-    7hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![Harris Asked to Explain Policy Shifts on CBS’ ’60 Minutes’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Harris Asked to Explain Policy Shifts on CBS’ ’60 Minutes’](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737483-Kamala-Harris_Pittsburgh-speech-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-asked-to-explain-policy-shifts-on-cbs-60-minutes-5737310)
-* [A Young Family’s Flight for Life on Day of North Carolina Floods](https://www.theepochtimes.com/us/a-young-familys-flight-for-life-on-day-of-floods-5737051)
-    
-    7hr By [Richard Moore](https://www.theepochtimes.com/author/richard-moore)
-    
-    [![A Young Family’s Flight for Life on Day of North Carolina Floods](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![A Young Family’s Flight for Life on Day of North Carolina Floods](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737488-3000-Michael-and-Brhianna-Stapleton-studio-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/a-young-familys-flight-for-life-on-day-of-floods-5737051)
+    ![Russian Forces Breach Outskirts of Frontline Town in Donetsk: Ukrainian Military](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737677-Ukraine-war-GettyImages-1243913126-LS-205x123.webp)](https://www.theepochtimes.com/world/russian-forces-breach-outskirts-of-frontline-town-in-donetsk-ukrainian-military-5737482)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
