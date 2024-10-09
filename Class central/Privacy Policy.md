@@ -399,11 +399,11 @@ Class Central experiments with cataloging online courses from California Communi
 
 ##### Latest
 
-1. [6 Best Linguistics Courses for 2024](https://www.classcentral.com/report/best-linguistics-courses/)
-2. [7 Best Microsoft PowerPoint Courses for 2024](https://www.classcentral.com/report/best-microsoft-powerpoint-courses/)
-3. [7 Best Microsoft Power BI Courses for 2024](https://www.classcentral.com/report/best-microsoft-power-bi-courses/)
-4. [5 Best Free Human Physiology Courses for 2024](https://www.classcentral.com/report/best-human-physiology-courses/)
-5. [9 Best Google Ads (Adwords) Courses for 2024](https://www.classcentral.com/report/best-google-ads-courses/)
+1. [\[2024\] 200+ edX Courses That Are Completely Free](https://www.classcentral.com/report/edx-free-online-courses/)
+2. [6 Best Linguistics Courses for 2024](https://www.classcentral.com/report/best-linguistics-courses/)
+3. [7 Best Microsoft PowerPoint Courses for 2024](https://www.classcentral.com/report/best-microsoft-powerpoint-courses/)
+4. [7 Best Microsoft Power BI Courses for 2024](https://www.classcentral.com/report/best-microsoft-power-bi-courses/)
+5. [5 Best Free Human Physiology Courses for 2024](https://www.classcentral.com/report/best-human-physiology-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. c
+1. java
     
-2. finance
+2. c
     
-3. html
+3. flutter
     
 
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Communication Skills
     
-    34,220 courses](https://www.classcentral.com/subject/cs)
-2. [Computer Networking
+    3,922 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Data Analysis
     
-    1,436 courses](https://www.classcentral.com/subject/computer-networking)
-3. [Web Design
+    7,884 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Computer Networking
     
-    2,288 courses](https://www.classcentral.com/subject/web-design)
+    1,449 courses](https://www.classcentral.com/subject/computer-networking)
 
 Popular courses
 ---------------
 
-1. [Psychology of Personal Growth
+1. [Advanced Precalculus: Geometry, Trigonometry and Exponentials
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
-2. [Introduction to Computational Thinking and Data Science
+    University of Padova](https://www.classcentral.com/course/advanced-precalculus-9602)
+2. [AP® Microeconomics
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/computer-science-massachusetts-institute-of-techn-1779)
-3. [English in Early Childhood: Language Learning and Development
+    Massachusetts Institute of Technology](https://www.classcentral.com/course/edx-ap-microeconomics-8630)
+3. [Critical Thinking at University: An Introduction
     
-    British Council](https://www.classcentral.com/course/english-in-early-childhood-6910)
+    University of Leeds](https://www.classcentral.com/course/critical-thinking-at-university-12273)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
