@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cc0f822d-416a-4305-95db-8a92c5395919/20241007T142234/cc0f822d-416a-4305-95db-8a92c5395919_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cc0f822d-416a-4305-95db-8a92c5395919/20241007T142234/cc0f822d-416a-4305-95db-8a92c5395919_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/seattle-kraken-2024-25-season-preview/281-c7d560e3-7be3-4d50-821b-dea3da634320)
+    *  [![](https://media.king5.com/assets/WKYC/images/bb7ce1db-2751-41e5-9248-b9a4a48b4d98/20241004T000623/bb7ce1db-2751-41e5-9248-b9a4a48b4d98_16x9.jpg) ![](https://media.king5.com/assets/WKYC/images/bb7ce1db-2751-41e5-9248-b9a4a48b4d98/20241004T000623/bb7ce1db-2751-41e5-9248-b9a4a48b4d98_360x203.jpg)](https://www.king5.com/article/news/politics/tim-walz-october-8-seattle-visit/281-9ef10337-c9f8-464c-b864-307e4431b521)
         
-        #### [Previewing the Seattle Kraken's 2024-25 season](https://www.king5.com/article/sports/nhl/kraken/seattle-kraken-2024-25-season-preview/281-c7d560e3-7be3-4d50-821b-dea3da634320)
+        #### [VP candidate Tim Walz attends private event in Hunts Point](https://www.king5.com/article/news/politics/tim-walz-october-8-seattle-visit/281-9ef10337-c9f8-464c-b864-307e4431b521)
         
-    *  [![](https://media.king5.com/assets/KING/images/04163910-d82b-456b-a36f-5f9c806be011/20240927T132005/04163910-d82b-456b-a36f-5f9c806be011_16x9.jpg) ![](https://media.king5.com/assets/KING/images/04163910-d82b-456b-a36f-5f9c806be011/20240927T132005/04163910-d82b-456b-a36f-5f9c806be011_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/drivers-should-plan-major-highway-closures-lane-reductions-across-puget-sound-this-week/281-dcdef666-0f76-48cb-8250-742ee7969275)
+    *  [![](https://media.king5.com/assets/KING/images/27d45be8-e84f-4695-a339-3660e4016722/20240926T061013/27d45be8-e84f-4695-a339-3660e4016722_16x9.jpg) ![](https://media.king5.com/assets/KING/images/27d45be8-e84f-4695-a339-3660e4016722/20240926T061013/27d45be8-e84f-4695-a339-3660e4016722_360x203.jpg)](https://www.king5.com/article/news/local/public-safety/seattle-city-council-approves-50k-hiring-bonuses-police-officers/281-36eac36e-acd1-4776-995e-7e993a6d0f31)
         
-        #### [WSDOT warns of major highway closures, lane reductions this weekend](https://www.king5.com/article/traffic/traffic-news/drivers-should-plan-major-highway-closures-lane-reductions-across-puget-sound-this-week/281-dcdef666-0f76-48cb-8250-742ee7969275)
+        #### [Seattle City Council approves new hiring bonuses for SPD officers, use of surveillance cameras](https://www.king5.com/article/news/local/public-safety/seattle-city-council-approves-50k-hiring-bonuses-police-officers/281-36eac36e-acd1-4776-995e-7e993a6d0f31)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 64°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
