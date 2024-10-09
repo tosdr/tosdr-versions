@@ -512,7 +512,7 @@ National 4-H Newsletter
 
  Receive news about 4-h
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -573,7 +573,7 @@ Terms and Conditions\*
 
  I have read and agree to National 4-H Council's [terms and conditions](https://4-h.org/terms-and-conditions) and [privacy policy](https://4-h.org/privacy-policy)\*
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
