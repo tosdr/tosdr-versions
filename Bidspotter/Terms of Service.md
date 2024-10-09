@@ -3,7 +3,6 @@
 * [Website Terms](https://www.bidspotter.com/en-us/about-us/legal/website-terms-and-conditions)
 * Bidder Terms
 * [Privacy Policy](https://www.bidspotter.com/en-us/about-us/legal/privacy-policy)
-* [Cookie Policy](https://www.bidspotter.com/en-us/about-us/legal/cookie-policy)
 
 Bidder Terms And Conditions
 ===========================
@@ -196,7 +195,6 @@ Clear all
 
 * [Contact Us](https://www.bidspotter.com/en-us/about-us/contact-us)
 * [Legal](https://www.bidspotter.com/en-us/about-us/legal/website-terms-and-conditions)
-* [Cookies](https://www.bidspotter.com/en-us/about-us/legal/cookie-policy)
 * [About Us](https://www.auctiontechnologygroup.com/about-us/)
 * [Site Map](https://www.bidspotter.com/en-us/sitemap)
 * [Auction Lot directory](https://www.bidspotter.com/en-us/directories)
