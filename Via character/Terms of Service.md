@@ -1,4 +1,4 @@
-🎒Back-To-School, Forward with Strengths — [Explore limited time savings on strength-based tools!](https://www.viacharacter.org/topics/articles/back-to-school-2024)
+🎒Final Hours to Save — [3 offers on strength-based tools!](https://www.viacharacter.org/topics/articles/back-to-school-2024)
 
 [Sign in](https://www.viacharacter.org/account/login)
 
