@@ -271,7 +271,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=dba0bd75-5781-4368-8a79-ef9d88910f39)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=00cd6939-6f0b-4ca0-981a-4ea41c81227c)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -430,7 +430,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=dba0bd75-5781-4368-8a79-ef9d88910f39)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=00cd6939-6f0b-4ca0-981a-4ea41c81227c)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -467,7 +467,7 @@ Asia
             * [Sustainable design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
             * [Sustainable Materials](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-materials/)
             * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
-            * [Product Care](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
+            * [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
             
         * [Careers](https://career.fjallraven.com/?_ga=2.56266475.1301247533.1630331041-1533892604.1626727350&_gac=1.146943685.1627315080.CjwKCAjwuvmHBhAxEiwAWAYj-B_VkGwnQduvVzv-L-YiEIeAA89zsmMGGGE7HjcJqqsqGNcd0fHXvBoCAQsQAvD_BwE)
         * [Our Materials](https://www.fjallraven.com/us/en-us/about/our-materials/)
@@ -526,7 +526,7 @@ Main Content Starts Here
     * [Sustainable design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
     * [Sustainable Materials](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-materials/)
     * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
-    * [Product Care](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
+    * [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
 * [Careers](https://career.fjallraven.com/?_ga=2.56266475.1301247533.1630331041-1533892604.1626727350&_gac=1.146943685.1627315080.CjwKCAjwuvmHBhAxEiwAWAYj-B_VkGwnQduvVzv-L-YiEIeAA89zsmMGGGE7HjcJqqsqGNcd0fHXvBoCAQsQAvD_BwE)
 * [Our Materials](https://www.fjallraven.com/us/en-us/about/our-materials/)
 
@@ -653,9 +653,9 @@ Customer Service
 * [Shipping](https://www.fjallraven.com/us/en-us/customer-service/shipping/)
 * [Returns](https://www.fjallraven.com/us/en-us/customer-service/returns/)
 * [Warranty](https://www.fjallraven.com/us/en-us/customer-service/warranty/)
-* [Product Families](https://www.fjallraven.com/us/en-us/customer-service/guides/)
-* [Product Care](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
-* [Repair](https://www.fjallraven.com/us/en-us/customer-service/repair/)
+* [Product Families](https://www.fjallraven.com/us/en-us/about/guides/)
+* [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
+* [Repair](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/repair/)
 * [Size Guide](https://www.fjallraven.com/us/en-us/customer-service/size-chart/)
 * [Industry Pro Program](https://www.fjallraven.com/us/en-us/industry-pro-registration/)
 * [Resource Center](https://www.fjallraven.com/us/en-us/resource-center/)
@@ -687,7 +687,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=dba0bd75-5781-4368-8a79-ef9d88910f39)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=00cd6939-6f0b-4ca0-981a-4ea41c81227c)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
