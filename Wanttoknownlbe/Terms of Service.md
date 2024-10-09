@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/legers-van-licht/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/richard-gage-ae911-op-tu-delft-kom-je-ook/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
