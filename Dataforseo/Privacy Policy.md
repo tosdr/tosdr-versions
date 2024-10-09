@@ -1,4 +1,12 @@
-  [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+[![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![dark logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
 
@@ -97,7 +105,15 @@
 * [Try for free](https://app.dataforseo.com/register)
 * [Login](https://app.dataforseo.com/signin)
 
-  [![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png) ![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+[![logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![dark logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![dark logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)
+
+![light logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
 
 ![light logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo-light_429.png)](https://dataforseo.com/)
 
@@ -198,7 +214,9 @@
 
 [](javascript:void(0))
 
-[![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
+[![mobile-logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAA/AQMAAABpQQWIAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAABpJREFUGBntwTEBAAAAwiD7p14LL2AAAAB8BQ2JAAFxXrwWAAAAAElFTkSuQmCC)
+
+![mobile-logo](https://dataforseo.com/wp-content/uploads/2022/04/ukr-logo_429.png)](https://dataforseo.com/)
 
 * #### Products
     
