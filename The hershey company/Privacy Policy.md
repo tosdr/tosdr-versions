@@ -10,7 +10,7 @@ Close Menu
 
 * [CAREERS](https://careers.thehersheycompany.com/ "CAREERS")
 * [MEDIA](https://www.thehersheycompany.com/en_us/home/newsroom/media-contacts-and-resources.html "MEDIA")
-* [INVESTORS](https://www.thehersheycompany.com/en_us/home.html "INVESTORS")
+* [INVESTORS](https://investors.thehersheycompany.com/en_us/home.html "INVESTORS")
 
 * About Us [ ] 
     * Back
@@ -84,7 +84,7 @@ Privacy Policy
 
 **Effective Date (last updated 7/01/2024)**
 
-[![](https://www.thehersheycompany.com/en_us/home/privacy-policy/_jcr_content/root/container/section_869273549_co/col1/section_copy/col2/image.coreimg.svg/1628811012005/caruseal.svg)](https://caru.bbbprograms.org/seal/Confirmation/1680181193)
+[![](/en_us/home/privacy-policy/_jcr_content/root/container/section_869273549_co/col1/section_copy/col2/image.coreimg.svg/1628811012005/caruseal.svg)](https://caru.bbbprograms.org/seal/Confirmation/1680181193)
 
 This Privacy Policy describes how The Hershey Company (“**Hershey**,” “**we**,” “**us**,” or “**our**”) collects, uses, discloses, and otherwise processes Personal Data in connection with:[](https://www.hersheypark.com/)
 
