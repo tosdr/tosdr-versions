@@ -197,61 +197,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Thanks Adriaan...
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
 > 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Johan Botha - Brand Xplosion
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=71954884)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=59812104)  
+Kainos (Pty) Ltd
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=38137337)  
-IEMS (PTY) ltd
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=127632802)  
+Highlands Auto Engineering
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=46073351)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=198313058)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=110168335)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=154570169)  
+AMS Ambu Medical Supplies
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=209124760)  
-Chiron Medical Solutions
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=32547167)  
+Henry's Home Renovations
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=46815437)  
-TRACKFORCE (Pty) Ltd
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=22445959)  
+Salvage Genie
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=145179597)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=183530706)  
+Redlum Group (Pty) Ltd
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=15157678)  
-Frameless Fanatix (Pty) Ltd.
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=107759755)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=72069291)  
-NEW BEGINNINGS DESIGNS
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=28046125)  
+Lily Fern & Co
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=184374905)  
-Cpower Projects t/a Pro Pure Water
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=43194199)  
+AquariumSmiths
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=206175947)  
-Little Nutty Professors
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=190940733)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=152593401)  
-Import Maaw
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=119052184)  
+CBR Verwe/Paints
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=60858349)  
-Myfinance-Online
-
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=176360311)  
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=51325879)  
 IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=660e7c0e674e8fc68acc512c8f46a506d143459864f40464fcc2e606609729ea&c=105968136)  
-Fox Alarms & Security
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=111120883)  
+Mtunzini Group
+
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=b6d4965bb8f0d547df8bc8e46f113c1c74573b90b7c382318372aaa877256a0c&c=14140875)  
+Qothiphango Mining
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
