@@ -104,6 +104,26 @@ Oct 03 2024
 
 By **[Stephen Eide](https://admin.mi52siterestore.com/person/stephen-eide/)** Read time **20 mins** [Read More](https://admin.mi52siterestore.com/article/mental-health-courts-in-era-of-criminal-justice-reform/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/a_threat_to_fair_play_.jpg)[](https://admin.mi52siterestore.com/article/a-threat-to-fair-play/ "Read More")
+
+Commentary Culture, Governance Culture & Society, Gender Ideology, New York
+
+Oct 08 2024
+
+[A Threat to Fair Play](https://admin.mi52siterestore.com/article/a-threat-to-fair-play/)
+
+By **[Paul Dreyer](https://admin.mi52siterestore.com/person/paul-dreyer/), [Paula Scanlan](https://admin.mi52siterestore.com/person/paula-scanlan/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/a-threat-to-fair-play/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-economics-of-identity-social-science-who-we-think-we-are.jpg)[](https://admin.mi52siterestore.com/article/the-economics-of-identity/ "Read More")
+
+Commentary Culture Culture & Society
+
+Oct 07 2024
+
+[The Economics of Identity](https://admin.mi52siterestore.com/article/the-economics-of-identity/)
+
+By **[Roland G. Fryer, Jr.](https://admin.mi52siterestore.com/person/roland-g-fryer-jr/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-economics-of-identity/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/why-im-so-grateful-to-be-an-american.jpg)[](https://admin.mi52siterestore.com/article/why-im-so-grateful-to-be-an-american-on-this-rosh-hashana/ "Read More")
 
 Commentary Culture Culture & Society, Religion
@@ -123,26 +143,6 @@ Oct 04 2024
 [How to Balance the Budget](https://admin.mi52siterestore.com/article/how-to-balance-the-budget/)
 
 By **[Chris Pope](https://admin.mi52siterestore.com/person/chris-pope/), [Andrew G. Biggs](https://admin.mi52siterestore.com/person/andrew-g-biggs/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/how-to-balance-the-budget/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/katz-sep-price-report.jpg)[](https://admin.mi52siterestore.com/article/comments-on-the-september-employment-report/ "Read More")
-
-Commentary Economics Finance, Employment
-
-Oct 04 2024
-
-[Comments on the September Employment Report](https://admin.mi52siterestore.com/article/comments-on-the-september-employment-report/)
-
-By **[Dan Katz](https://admin.mi52siterestore.com/person/dan-katz/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/comments-on-the-september-employment-report/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-four-forces-that-have-shaped-the-subway-system.jpg)[](https://admin.mi52siterestore.com/article/the-four-forces-that-have-shaped-the-system/ "Read More")
-
-Commentary Cities New York, New York City
-
-Oct 02 2024
-
-[The Four Forces That Have Shaped the System](https://admin.mi52siterestore.com/article/the-four-forces-that-have-shaped-the-system/)
-
-By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-four-forces-that-have-shaped-the-system/)
 
 Our Policy Areas
 ----------------
