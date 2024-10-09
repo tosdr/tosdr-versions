@@ -138,23 +138,23 @@ Save settings
 
 ### Featured Articles
 
+[![Savage Comebacks in an Argument](https://www.wikihow.com/images/thumb/b/b8/Savage-Comebacks-in-an-Argument-Step-7.jpg/-crop-126-120-126px-Savage-Comebacks-in-an-Argument-Step-7.jpg)
+
+105 Savage, Clever, & Creative Comebacks to Win Any Argument](https://www.wikihow.com/Savage-Comebacks-in-an-Argument)
+
+[![Become a Pilot](https://www.wikihow.com/images/thumb/3/3f/Become-a-Pilot-Step-5-Version-2.jpg/-crop-126-120-126px-Become-a-Pilot-Step-5-Version-2.jpg)
+
+How to  
+Become a Pilot](https://www.wikihow.com/Become-a-Pilot)
+
+[![Feel Calm and Relaxed](https://www.wikihow.com/images/thumb/b/b0/Feel-Calm-and-Relaxed-Step-18-Version-2.jpg/-crop-126-120-126px-Feel-Calm-and-Relaxed-Step-18-Version-2.jpg)
+
+How to  
+Feel Calm and Relaxed](https://www.wikihow.com/Feel-Calm-and-Relaxed)
+
 [![Tell if Someone Likes You Online](https://www.wikihow.com/images/thumb/c/cb/Tell-if-Someone-Likes-You-Online-Step-11.jpg/-crop-126-120-126px-Tell-if-Someone-Likes-You-Online-Step-11.jpg)
 
 Wondering if Someone Likes You Online? 11 Important Signs to Watch Out For](https://www.wikihow.com/Tell-if-Someone-Likes-You-Online)
-
-[![Have a Sense of Humor](https://www.wikihow.com/images/thumb/a/ae/Have-a-Sense-of-Humor-Step-10-Version-3.jpg/-crop-126-120-126px-Have-a-Sense-of-Humor-Step-10-Version-3.jpg)
-
-How to  
-Have a Sense of Humor](https://www.wikihow.com/Have-a-Sense-of-Humor)
-
-[![Do a Push Up](https://www.wikihow.com/images/thumb/e/ea/Do-a-Push-Up-Step-9-Version-3.jpg/-crop-126-120-126px-Do-a-Push-Up-Step-9-Version-3.jpg)
-
-The Correct Way to Do Push-Ups for Beginners](https://www.wikihow.com/Do-a-Push-Up)
-
-[![Express Your Feelings](https://www.wikihow.com/images/thumb/c/c8/Express-Your-Feelings-Step-17-Version-2.jpg/-crop-126-120-126px-Express-Your-Feelings-Step-17-Version-2.jpg)
-
-How to  
-Express Your Feelings](https://www.wikihow.com/Express-Your-Feelings)
 
   
 
@@ -197,4 +197,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-144
+133
