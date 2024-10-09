@@ -393,6 +393,14 @@ Nothing contained in this Agreement limits Fox’s right to comply with governme
 
 Please contact the Site Administrator with any questions regarding this Agreement by sending an email to: [**Terms-KDFW@fox.com**](mailto:Terms-KDFW@fox.com)
 
+[![Hurricane update: Milton at Category 4, tornado threats active across Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/f75dd2c5-digital_radar-milton2.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+
+WATCH LIVE COVERAGE
+
+[Hurricane Milton now Category 4 storm ahead of Florida landfall](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+
+[Hurricane Milton continued on its path to the west coast of Florida on Wednesday, likely to remain a major hurricane when it finally makes landfall.](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+
 ###### [News](https://www.fox4news.com/news)
 
 * [Local News](https://www.fox4news.com/local-news)
