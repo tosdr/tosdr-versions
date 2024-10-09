@@ -418,7 +418,7 @@ If you have questions about our Services, you can find additional information at
 2. 2 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
 3. 3 [Bleach: Sennen Kessen-hen - Soukoku-tan](https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan)
 4. 4 [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)
-5. 5 [Gintama°](https://myanimelist.net/anime/28977/Gintama%C2%B0)
+5. 5 [Shingeki no Kyojin Season 3 Part 2](https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2)
 
 ### [More](https://myanimelist.net/topanime.php?type=airing)Top Airing Anime
 
