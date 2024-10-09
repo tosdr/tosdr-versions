@@ -177,11 +177,11 @@
     
     9 月 11, 2024 1
     
-* [![桌面相册 - 将照片贴在 Mac 桌面上 10](https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-10T120110.585-115x115.jpg "桌面相册 - 将照片贴在 Mac 桌面上 10")](https://www.appinn.com/photoalbum-desktop-widget/ "桌面相册 – 将照片贴在 Mac 桌面上")
+* [![两步，手动强制升级 Windows 11 24H2，针对 CPU 检测不通过，或其他无法正常更新的情况 10](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-08T160007.397-115x115.jpg "两步，手动强制升级 Windows 11 24H2，针对 CPU 检测不通过，或其他无法正常更新的情况 10")](https://www.appinn.com/manually-force-updates-windows-11-24h2/ "两步，手动强制升级 Windows 11 24H2，针对 CPU 检测不通过，或其他无法正常更新的情况")
     
-    [桌面相册 – 将照片贴在 Mac 桌面上](https://www.appinn.com/photoalbum-desktop-widget/ "桌面相册 – 将照片贴在 Mac 桌面上")
+    [两步，手动强制升级 Windows 11 24H2，针对 CPU 检测不通过，或其他无法正常更新的情况](https://www.appinn.com/manually-force-updates-windows-11-24h2/ "两步，手动强制升级 Windows 11 24H2，针对 CPU 检测不通过，或其他无法正常更新的情况")
     
-    9 月 10, 2024 0
+    10 月 8, 2024 0
     
 
 ### 分类
