@@ -286,6 +286,8 @@ To the fullest extent permitted by law, in both cases none of TMG, its directors
 
 This Site was operated by or on behalf of Telegraph Media Group Limited (company registration number 00451593) prior to 29th September 2024.
 
+These Terms and Conditions are effective from 29 September 2024.
+
 **US Terms and Conditions**
 
 **U.S. TERMS OF USE**
