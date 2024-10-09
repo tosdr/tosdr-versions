@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. hacking
+1. finance
     
-2. machine learning
+2. trading
     
-3. cyber security
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Computer Networking
+1. [Computer Science
+    
+    34,220 courses](https://www.classcentral.com/subject/cs)
+2. [Computer Networking
     
     1,436 courses](https://www.classcentral.com/subject/computer-networking)
-2. [Web Design
+3. [Web Design
     
     2,288 courses](https://www.classcentral.com/subject/web-design)
-3. [Graphic Design
-    
-    4,170 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Web Security Fundamentals
+1. [Psychology of Personal Growth
     
-    KU Leuven University](https://www.classcentral.com/course/computer-security-ku-leuven-web-security-fundamen-8726)
-2. [Academic Writing Made Easy
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
+2. [Introduction to Computational Thinking and Data Science
     
-    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/writing-technische-universitat-munchen-academic-w-13157)
-3. [The Emergence of the Modern Middle East - Part I
+    Massachusetts Institute of Technology](https://www.classcentral.com/course/computer-science-massachusetts-institute-of-techn-1779)
+3. [English in Early Childhood: Language Learning and Development
     
-    Tel Aviv University](https://www.classcentral.com/course/modernmiddleeast1-976)
+    British Council](https://www.classcentral.com/course/english-in-early-childhood-6910)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
