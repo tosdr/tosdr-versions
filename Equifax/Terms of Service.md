@@ -638,7 +638,9 @@
     
 2. [Home](https://www.equifax.com/terms)
 
-Web Content Display is temporarily unavailable.
+Privacy and Terms
+
+Equifax Business Solutions [About Equifax Corporation](https://www.equifax.com/about-equifax/who-we-are) [Equifax Online Behavioral Advertising Notice (US Only)](https://www.equifax.com/ad-choices) [Terms of Use](https://www.equifax.com/terms) [FCRA Summary of Rights](https://www.equifax.com/privacy/fcra)
 
 Terms of Use
 ============
@@ -647,7 +649,16 @@ Terms of Use
 * [Product Agreement and Terms of Use](#Product Agreement and Terms of Use)
 * [Site Terms of Use](#Site Terms of Use)
 
-Web Content Display is temporarily unavailable.
+##### **What are the Terms of Use for Equifax?** 
+
+  
+Below you will find our Product Terms of Use and the Site Terms of Use when using the Equifax website. You can also review our [Privacy Policy](https://help.equifax.com/app/answers/detail/a_id/29), which provides information regarding our handling of any personal information that you may provide to us.
+
+You can also access the separate terms of use for [Lock & AlertTM](https://www.equifax.com/terms/lock-and-alert/) and [myEquifax](https://www.equifax.com/terms/myequifaxterms/), which are applicable to those services, by using these hyperlinks.
+
+**FOR TERMS OF USE FOR THE EQUIFAX CREDIT REPORT FOR FURLOUGHED GOVERNMENT EMPLOYEES, PLEASE [CLICK HERE](https://www.equifax.com/terms/credit-report-government-shutdown-terms/).**
+
+**FOR TERMS OF USE APPLICABLE TO CONSUMERS WHO WERE MIGRATED FROM TRUSTEDID PREMIER TO AN EQUIFAX PRODUCT, PLEASE [CLICK HERE](https://www.equifax.com/terms/tid-transition).**
 
 ##### Product Agreement and Terms of Use
 
