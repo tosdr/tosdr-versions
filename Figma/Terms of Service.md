@@ -534,4 +534,4 @@ Company
 
 English
 
-English
+* [English](https://www.figma.com/en-us/legal/tos/)
