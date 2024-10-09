@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6704332faf6fa7c47adcfe7c_top-10-spooky-ecommerce-challenges-october.jpg)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6705989dccc583e10bc6e935_clearco-entreprenista-giveaway-winner%20-brightbody.png)
 
-###### 10 Spooky Challenges Haunting Ecommerce Brands This October
+###### Empowering Female Founders: Clearco's Contest with Entreprenista
 
-[Read now >](https://clear.co/blog/top-10-spooky-ecommerce-challenges-october)
+[Read now >](https://clear.co/blog/clearco-entreprenista-giveaway-winner-brightbody)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
