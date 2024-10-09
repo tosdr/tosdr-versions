@@ -53,8 +53,6 @@ Navigation
 
 [](https://shop.mattel.com/)
 
-* Promo Image Link
-    
 * Shop
     
     [Shop All](https://shop.mattel.com/collections/shop-all)
