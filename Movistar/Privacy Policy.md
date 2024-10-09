@@ -32,28 +32,28 @@ Centro de privacidad
 
 En Movistar es nuestro objetivo mantener la confianza de nuestros clientes y que siempre cuenten con toda la información necesaria. Por ello te informamos de que hemos actualizado nuestras Políticas de privacidad para, por un lado, actualizarla debido a la fusión por absorción de DTS Distribuidora de Televisión Digital, S.A por parte de Telefónica de España, S.A.U.; y por otro, para actualizar algunos aspectos de lo que hacemos para mejorar tu experiencia con nosotros. Te recordamos que puedes ejercer tus derechos a través de los canales habituales que puedes consultar en la correspondiente Política de Privacidad.
 
-[](https://www.movistar.es/atencion-cliente/centro-de-privacidad/politica-de-privacidad-clientes "Política de privacidad de Clientes Movistar")
+[](https://www.movistar.es/content/movistar/es/home/atencion-cliente/centro-de-privacidad/politica-de-privacidad-clientes "Política de privacidad de Clientes Movistar")
 
 Política de privacidad de Clientes Movistar
 -------------------------------------------
 
-[](https://www.movistar.es/atencion-cliente/centro-de-privacidad/politica-de-privacidad-no-clientes "Política de privacidad para no Clientes Movistar")
+[](https://www.movistar.es/content/movistar/es/home/atencion-cliente/centro-de-privacidad/politica-de-privacidad-no-clientes "Política de privacidad para no Clientes Movistar")
 
 Política de privacidad para no Clientes Movistar
 ------------------------------------------------
 
-[](https://www.movistar.es/atencion-cliente/centro-de-privacidad/politica-de-cookies "Política de cookies")
+[](https://www.movistar.es/content/movistar/es/home/atencion-cliente/centro-de-privacidad/politica-de-cookies "Política de cookies")
 
 Política de cookies
 -------------------
 
-[](https://www.movistar.es/atencion-cliente/centro-de-privacidad/informacion-adicional "Información adicional")
+[](https://www.movistar.es/content/movistar/es/home/atencion-cliente/centro-de-privacidad/informacion-adicional "Información adicional")
 
 Información adicional  
 
 ------------------------
 
-[](https://www.movistar.es/atencion-cliente/centro-de-privacidad/politica-de-privacidad-opengateway "Política de privacidad Open Gateway")
+[](https://www.movistar.es/content/movistar/es/home/atencion-cliente/centro-de-privacidad/politica-de-privacidad-opengateway "Política de privacidad Open Gateway")
 
 Política de privacidad
 ----------------------
@@ -62,12 +62,12 @@ Open Gateway
 
 ---------------
 
-[](https://www.movistar.es/atencion-cliente/centro-de-privacidad/politica-de-datos-empresas "Política de datos de empresas")
+[](https://www.movistar.es/content/movistar/es/home/atencion-cliente/centro-de-privacidad/politica-de-datos-empresas "Política de datos de empresas")
 
 Política de datos de empresas
 -----------------------------
 
-[](https://www.movistar.es/atencion-cliente/centro-de-privacidad/informacion-adicional-empresas "Información adicional empresas")
+[](https://www.movistar.es/content/movistar/es/home/atencion-cliente/centro-de-privacidad/informacion-adicional-empresas "Información adicional empresas")
 
 Información adicional empresas  
 
