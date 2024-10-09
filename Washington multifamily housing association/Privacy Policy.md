@@ -1,5 +1,13 @@
 [Skip to content](#content)
 
+**It's a great time to join the WMFHA Family!**
+
+Join before October 31 and pay no application fee plus get over $800 in additional benefits!
+
+[CLICK HERE](https://www.wmfha.org/member-benefits) for more details! 
+
+ACKNOWLEDGE
+
 [Cart](https://www.wmfha.org/products/checkout) [Join](#join-modal) [Login](https://www.wmfha.org/login)
 
 [![ Washington Multi-Family Housing Association Logo](https://assets.noviams.com/novi-file-uploads/wmfha/structure/untitled-design-3.png)](https://www.wmfha.org/)
