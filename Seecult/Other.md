@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-houston/hjuston.jpg?itok=doHPNdww)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-houston)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2009/2010/jovana-sibinovic-n.jpg?itok=FERqRr7g)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20092010)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/lepotica-i-zver1.jpg?itok=2qyK8w1j)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/caribou_0.jpg?itok=g291_2CL)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Sprečiti zatvaranje Remonta](http://seecult.org/vest/spreciti-zatvaranje-remonta)
 * [59\. Dečji oktobarski salon – S druge strane stvarnosti](http://seecult.org/vest/59-decji-oktobarski-salon-s-druge-strane-stvarnosti)
 * [Ućutkivanje Sokrata aktuelno vekovima](http://seecult.org/vest/ucutkivanje-sokrata-aktuelno-vekovima)
 * [Uži izbor za nagradu Milica Stojadinović Srpkinja](http://seecult.org/vest/uzi-izbor-za-nagradu-milica-stojadinovic-srpkinja)
@@ -351,7 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Era Milivojević – Umetnost jeste život](http://seecult.org/vest/era-milivojevic-umetnost-jeste-zivot)
 * [Gran pri 58. Bitefa Jasni Žmak](http://seecult.org/vest/gran-pri-58-bitefa-jasni-zmak)
 * [Podrška Palestini na početku 64. MESS-a](http://seecult.org/vest/podrska-palestini-na-pocetku-64-mess)
-* [Skopske ovacije za Na vukovom tragu](http://seecult.org/vest/skopske-ovacije-za-na-vukovom-tragu)
 
 * [Konkursi](#tab1_1)
 
