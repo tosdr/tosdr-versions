@@ -137,63 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![TrottyJPN](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1389343-1531459180.jpg)](https://lyricstranslate.com/en/translator/trottyjpn "TrottyJPN")
-
-New translation
-
-[Bryan Adams - Merry Christmas](https://lyricstranslate.com/en/bryan-adams-merry-christmas-japanese)
-
-English → Japanese
-
-[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1728278937.jpg)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
-
-New request
-
-[Qayrat Nurtas - Сені сүйем (Senī sūī̆em)](https://lyricstranslate.com/en/request/%D1%81%D0%B5%D0%BD%D1%96-%D1%81%D2%AF%D0%B9%D0%B5%D0%BC-1)
-
-Kazakh → English
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168958#comment-1168958)
-
-[![Martinski](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1438650-1573899955.jpg)](https://lyricstranslate.com/en/translator/martinski "Martinski")
-
-New translation
-
-[Amirchik - Снова снова (Snova snova)](https://lyricstranslate.com/en/amirchik-snova-snova-dutch)
-
-Russian → Dutch
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168957#comment-1168957)
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168956#comment-1168956)
-
-[![crackedwalnut](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1397626-1728211862.jpg)](https://lyricstranslate.com/en/translator/crackedwalnut "crackedwalnut")
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
 
 New song
 
-[Donamaria - Sauvage](https://lyricstranslate.com/en/donamaria-sauvage-lyrics)
+[Gary Wright - If you treat someone right](https://lyricstranslate.com/en/gary-wright-if-you-treat-someone-righ-lyrics)
 
-French
+English
 
-[![crackedwalnut](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1397626-1728211862.jpg)](https://lyricstranslate.com/en/translator/crackedwalnut "crackedwalnut")
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
 
-New request
+New song
 
-[Donamaria - Sauvage](https://lyricstranslate.com/en/request/sauvage-0)
+[Dog Knows Everything (OST) - 개소리](https://lyricstranslate.com/en/dog-knows-everything-ost-gaesori-lyrics)
 
-French → English
+Korean
+
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
+
+New collection
+
+[NOMAD | Call Me Back](https://lyricstranslate.com/en/collection/nomad-call-me-back)
+
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
+
+New song
+
+[NOMAD (Group) - Compare](https://lyricstranslate.com/en/nomad-group-compare-lyrics)
+
+English
+
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
+
+New song
+
+[NOMAD (Group) - Call Me Back](https://lyricstranslate.com/en/nomad-group-call-me-back-lyrics)
+
+English
+
+[![BeckoningCat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601382-1702141765.jpg)](https://lyricstranslate.com/en/translator/beckoningcat "BeckoningCat")
+
+Transcription request fulfilled
+
+[She's tough](https://lyricstranslate.com/en/jerry-mccain-shes-tough-lyrics)
+
+English
+
+[![BeckoningCat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601382-1702141765.jpg)](https://lyricstranslate.com/en/translator/beckoningcat "BeckoningCat")
+
+New song
+
+[Jerry McCain - She's tough](https://lyricstranslate.com/en/jerry-mccain-shes-tough-lyrics)
+
+English
+
+[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
+
+New song
+
+[Francis and the Lights - See Her Out (Thats Just Life)](https://lyricstranslate.com/en/francis-and-lights-see-her-out-thats-just-l-lyrics)
+
+English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
