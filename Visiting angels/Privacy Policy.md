@@ -262,13 +262,13 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
 [Elder Care during Holiday Times](https://www.visitingangels.com/knowledge-center/care-options/elder-care-during-holiday-times/50)
 
-[How Non-Medical End of Life Care Can Help Seniors & Families](https://www.visitingangels.com/knowledge-center/care-options/how-non-medical-end-of-life-care-can-help-seniors-families/360)
+[Home Care Services for the Elderly](https://www.visitingangels.com/knowledge-center/selecting-care/home-care-services-for-the-elderly/518)
 
-[The Best Way to Avoid Elderly Hospital Readmission](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/the-best-way-to-avoid-elderly-hospital-readmission/333)
+[Professional Home Care Can Help Older Adults Manage a Heart Condition](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/professional-home-care-can-help-older-adults-manage-a-heart-condition/479)
 
-[7 Ways to Help Seniors Keep a Sharp Mind](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/7-ways-to-help-seniors-keep-a-sharp-mind/84)
+[How a Professional Caregiver Can Help Manage Your Senior's Medications](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-professional-caregiver-can-help-manage-your-seniors-medications/346)
 
-[Does Your Loved One Need Elder Care Services?](https://www.visitingangels.com/knowledge-center/care-options/does-your-loved-one-need-elder-care-services/53)
+[Why Your Dad Can’t Take Care of Mom Alone](https://www.visitingangels.com/knowledge-center/care-options/why-your-dad-cant-take-care-of-mom-alone/320)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
@@ -360,7 +360,7 @@ Not all services are available at all locations. Please check with your [local a
 
 [Living Assistance Services, Inc. Copyright® 2024](https://www.livingassistance.com/ "senior home care franchise opportunities") 937 Haverford Road Suite 200 Bryn Mawr PA 19010 [1-800-365-4189](tel: 1-800-365-4189 "1 800 number")
 
-Each Visiting Angels agency is a franchise that is independently owned and operated. Release v.7058  
+Each Visiting Angels agency is a franchise that is independently owned and operated. Release v.7146  
 The Franchisor, Living Assistance Services Inc., does not control or manage the day to day business operations of any Visiting Angels franchised agency.
 
 [PORTAL](https://arc.franconnect.net/fc/)
