@@ -53,7 +53,7 @@ Google Case Study
 
 Protecting vulnerable organizations
 
-Secure it Forward: One YubiKey donated for every 20 sold
+Secure it Forward: Yubico matches up to 5% of the number of YubiKeys purchased on Yubico.com
 
 Secure it Forward
 
