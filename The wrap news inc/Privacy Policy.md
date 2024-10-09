@@ -81,7 +81,7 @@ Follow Us
 Trending Topics:
 ----------------
 
-* [TheGrill 2024](https://thegrill2024.splashthat.com/)
+* [TheGrill 2024](https://www.thewrap.com/category/thegrill-conference/)
 * [Holding On in Hollywood](https://www.thewrap.com/tag/holding-on-in-hollywood/)
 
 Privacy Policy
