@@ -304,29 +304,31 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Peter Wilson, CEO of plumbing giant Reece.](https://static.ffx.io/images/$zoom_0.7288%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1228%2C$y_458/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/582445c29b2477d9f72823ba7706cf98857e3968)](https://www.afr.com/work-and-careers/workplace/ceo-son-crowned-head-of-rich-list-family-s-18b-plumbing-empire-20240910-p5k9ct)
+[![Former sex discrimination commissioner Elizabeth Broderick.](https://static.ffx.io/images/$zoom_0.4068%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_451%2C$y_332/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8694f77e98cb378aff3945f5871d81caf2945b05)](https://www.afr.com/work-and-careers/workplace/what-men-really-think-about-the-push-for-gender-balance-20240923-p5kcvb)
 
-### [CEO son crowned head of Rich List family’s $18b plumbing empire](https://www.afr.com/work-and-careers/workplace/ceo-son-crowned-head-of-rich-list-family-s-18b-plumbing-empire-20240910-p5k9ct)
+### [What men really think about the push for gender balance](https://www.afr.com/work-and-careers/workplace/what-men-really-think-about-the-push-for-gender-balance-20240923-p5kcvb)
 
-* Patrick Durkin
+* 55 mins ago
+* Sally Patten
 
-* ### [Why this former Young Rich Lister is running for deputy mayor](https://www.afr.com/work-and-careers/leaders/why-this-former-young-rich-lister-is-running-for-deputy-mayor-20240930-p5kek6)
+* ### [CEO son crowned head of Rich List family’s $18b plumbing empire](https://www.afr.com/work-and-careers/workplace/ceo-son-crowned-head-of-rich-list-family-s-18b-plumbing-empire-20240910-p5k9ct)
     
-* ### [How office workers are losing their social skills](https://www.afr.com/work-and-careers/workplace/how-office-workers-are-losing-their-social-skills-20240926-p5kduy)
+* ### [Why this former Young Rich Lister is running for deputy mayor](https://www.afr.com/work-and-careers/leaders/why-this-former-young-rich-lister-is-running-for-deputy-mayor-20240930-p5kek6)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.217%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_96/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3ab5c8d32bdcd62d36a5a35e3ea15da2864b442c)](https://www.afr.com/life-and-luxury/travel/at-these-ultra-luxe-maldives-resorts-you-could-be-in-for-a-surprise-20241002-p5kf8k)
+[![ ](https://static.ffx.io/images/$zoom_0.427%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_133/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/38edfe81a123b1e519b0900da90ab3734c73df5d)](https://www.afr.com/life-and-luxury/fashion-and-style/is-your-water-bottle-chic-enough-plus-limited-edition-ice-cream-20240930-p5kemx)
 
-### [At these ultra-luxe Maldives resorts, you could be in for a surprise](https://www.afr.com/life-and-luxury/travel/at-these-ultra-luxe-maldives-resorts-you-could-be-in-for-a-surprise-20241002-p5kf8k)
+### [Is your water bottle chic enough? Plus, limited-edition ice-cream](https://www.afr.com/life-and-luxury/fashion-and-style/is-your-water-bottle-chic-enough-plus-limited-edition-ice-cream-20240930-p5kemx)
 
-* Charis Perkins
+* 55 mins ago
+* Eugenie Kelly
 
-* ### [What’s behind our obsession with wellness?](https://www.afr.com/life-and-luxury/health-and-wellness/what-s-behind-our-obsession-with-wellness-20240924-p5kd4n)
+* ### [How to stop slouching and improve your posture](https://www.afr.com/life-and-luxury/health-and-wellness/how-to-stop-slouching-and-improve-your-posture-20240924-p5kd4h)
     
-* ### [Wellness on wheels: the cars that read your mood](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/wellness-on-wheels-the-cars-that-read-your-mood-20240913-p5kac1)
+* ### [At these ultra-luxe Maldives resorts, you could be in for a surprise](https://www.afr.com/life-and-luxury/travel/at-these-ultra-luxe-maldives-resorts-you-could-be-in-for-a-surprise-20241002-p5kf8k)
     
 
 [Rich List](https://www.afr.com/rich-list)
