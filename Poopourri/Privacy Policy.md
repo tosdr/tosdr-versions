@@ -1,4 +1,4 @@
-![](https://ct.pinterest.com/v3/?tid=2613714762118&noscript=1)   Privacy Policy – ~Pourri                                       
+![](https://ct.pinterest.com/v3/?tid=2613714762118&noscript=1)   Privacy Policy – ~Pourri                                   
 
       
 
