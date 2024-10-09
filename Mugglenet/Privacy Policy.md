@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-If a wizard is buried with a wand made of yew, the wand sprouts into a tree that guards the dead owner’s grave.
+During filming, Ollivander’s wand shop had over 17,000 individually labeled wand boxes inside.
 
 ### Potter History
 
-August 16, 2004 – A passage from Harry Potter and the Half-Blood Prince describing a character we would come to learn was the new Minister of Magic, Rufus Scrimgeour, was revealed.
+October 8, 2013 – The Anne Rowling Regenerative Neurology Clinic opens at the University of Edinburgh.
 
 ### Potter Quote
 
-“Scars can come in handy. I have one myself above my left knee that is a perfect map of the London Underground.”
+“She has eyes just like a salamander.”
 
 [](#)
 
