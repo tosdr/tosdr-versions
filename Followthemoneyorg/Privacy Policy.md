@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Names in the News: Alpha Natural Resources](/assets/Images/teasers/full/ANR-Coal-by-Party.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-alpha-natural-resources/)
+[![Duke Energy giving](/assets/Images/teasers/small/DukeEnergy2000-2014.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-duke-energy/)
+
+Duke Energy giving to sitting governors, 2000-14
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
