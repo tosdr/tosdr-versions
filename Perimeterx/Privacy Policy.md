@@ -1,10 +1,12 @@
 <img src="https://pixel62ce5556d21c1d3.advangelists.com/v1/audiences?account\_id=488&amp;segment\_key=62ce5556d21c1d3&amp;vars\[advid\]=2427" width="1" height="1">        
 
+[HUMAN raises $50+ million in growth funding to accelerate the Human Defense Platform expansion.
+
+Learn more
+
+Learn more](https://www.humansecurity.com/newsroom/platform-expansion-fuel-the-future-of-human)
+
 X
-
-HUMAN raises $50+ million in growth funding to accelerate the Human Defense Platform expansion
-
-[Learn More](https://www.humansecurity.com/newsroom/platform-expansion-fuel-the-future-of-human)
 
 [](https://www.perimeterx.com/)
 
