@@ -538,11 +538,11 @@ See all ▼
 
 [Blog](https://www.taskade.com/blog)
 
-[Automations](https://www.taskade.com/automate)[Content](https://www.taskade.com/automate/content)[Hubspot](https://www.taskade.com/automate/hubspot)
+[Automations](https://www.taskade.com/automate)[Hubspot](https://www.taskade.com/automate/hubspot)[Content](https://www.taskade.com/automate/content)
 
 See all ▼
 
-[Slack](https://www.taskade.com/automate/slack)[Form](https://www.taskade.com/automate/form)[Marketing](https://www.taskade.com/automate/marketing)[Website](https://www.taskade.com/automate/website)[Calendar](https://www.taskade.com/automate/calendar)[Project Management](https://www.taskade.com/automate/project-management)[Email](https://www.taskade.com/automate/email)[Task](https://www.taskade.com/automate/task)[Reports](https://www.taskade.com/automate/reports)[Sales](https://www.taskade.com/automate/sales)[Text to Action](https://www.taskade.com/automate/text-to-action)[ChatGPT](https://www.taskade.com/automate/chatgpt)[Web Scraping](https://www.taskade.com/automate/web-scraping)[Agentic Workflows](https://www.taskade.com/automate/agentic-workflows)
+[Project Management](https://www.taskade.com/automate/project-management)[Calendar](https://www.taskade.com/automate/calendar)[Website](https://www.taskade.com/automate/website)[Marketing](https://www.taskade.com/automate/marketing)[Form](https://www.taskade.com/automate/form)[Slack](https://www.taskade.com/automate/slack)[Email](https://www.taskade.com/automate/email)[Task](https://www.taskade.com/automate/task)[Reports](https://www.taskade.com/automate/reports)[Sales](https://www.taskade.com/automate/sales)[Text to Action](https://www.taskade.com/automate/text-to-action)[ChatGPT](https://www.taskade.com/automate/chatgpt)[Web Scraping](https://www.taskade.com/automate/web-scraping)[Agentic Workflows](https://www.taskade.com/automate/agentic-workflows)[Web Search](https://www.taskade.com/automate/web-search)[Youtube](https://www.taskade.com/automate/youtube)
 
 [Wiki](https://www.taskade.com/wiki)[Productivity](https://www.taskade.com/wiki/productivity)[Productivity Methods](https://www.taskade.com/wiki/productivity-methods)
 
