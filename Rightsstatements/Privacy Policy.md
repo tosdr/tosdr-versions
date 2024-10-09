@@ -1,19 +1,19 @@
-* [![Rights Statements](https://rightsstatements.org/files/images/logo.svg)](https://rightsstatements.org/en/)
-    ============================================================================================================
+* [![Rights Statements](https://rights-app-website.test.eanadev.org/files/images/logo.svg)](https://rights-app-website.test.eanadev.org/en/)
+    ==========================================================================================================================================
     
 * [Menu](#)
 
-* [Statements](https://rightsstatements.org/en/statements/)
-* [About](https://rightsstatements.org/en/about.html)
-* [Documentation](https://rightsstatements.org/en/documentation/)
-    * [Documentation](https://rightsstatements.org/en/documentation/)
-    * [FAQ](https://rightsstatements.org/en/documentation/faq.html)
-    * [Buttons and other assets](https://rightsstatements.org/en/documentation/assets.html)
-    * [Usage guidelines](https://rightsstatements.org/en/documentation/usage_guidelines.html)
-    * [Translations](https://rightsstatements.org/en/documentation/translations.html)
-    * [Change log](https://rightsstatements.org/en/documentation/changelog.html)
-* [Get Involved](https://rightsstatements.org/en/get_involved.html)
-* [Blog](https://rightsstatements.org/en/blog/)
+* [Statements](https://rights-app-website.test.eanadev.org/en/statements/)
+* [About](https://rights-app-website.test.eanadev.org/en/about.html)
+* [Documentation](https://rights-app-website.test.eanadev.org/en/documentation/)
+    * [Documentation](https://rights-app-website.test.eanadev.org/en/documentation/)
+    * [FAQ](https://rights-app-website.test.eanadev.org/en/documentation/faq.html)
+    * [Buttons and other assets](https://rights-app-website.test.eanadev.org/en/documentation/assets.html)
+    * [Usage guidelines](https://rights-app-website.test.eanadev.org/en/documentation/usage_guidelines.html)
+    * [Translations](https://rights-app-website.test.eanadev.org/en/documentation/translations.html)
+    * [Change log](https://rights-app-website.test.eanadev.org/en/documentation/changelog.html)
+* [Get Involved](https://rights-app-website.test.eanadev.org/en/get_involved.html)
+* [Blog](https://rights-app-website.test.eanadev.org/en/blog/)
 
 Privacy Policy
 ==============
