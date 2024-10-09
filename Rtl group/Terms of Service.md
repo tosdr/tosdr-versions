@@ -307,6 +307,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-RTL Nederland's Content Event](/.galleries/images/RTL-Content-Event_16-9.jpg?__scale=undefined&description=)
+    
+    RTL Nederland's Content Event
+    
+    08.10.2024
+    
+    Innovative partnerships and more local content: RTL Nederland unveils its plans for streaming service Videoland at the 2024 RTL Content Event.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Nederlands-Content-Event/)
+    
 * [![slide-Five questions for Balázs Szabó](/.galleries/images/Five-questions-for-Balazs-Szabo_16-9_final.png?__scale=undefined&description=)
     
     Five questions for Balázs Szabó
@@ -346,54 +354,6 @@ Europe's leading entertainment brand
     16.09.2024
     
     A trip down memory lane: Milestones from the past three years of the RTL United journey, strengthening RTL as Europe’s leading entertainment brand.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Happy-birthday-RTL-United/)
-    
-* [![slide-Péter Kolosi on RTL Hungary's autumn programming](/.galleries/images/Peter-Kolosi-interview_Quote-card_16-9.jpg?__scale=undefined&description=)
-    
-    Péter Kolosi on RTL Hungary's autumn programming
-    
-    17.09.2024
-    
-    From returning formats to the Champions League: Péter Kolosi, Chief Content Officer of RTL Hungary, discusses the 2024 autumn programming.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Peter-Kolosi-on-RTL-Hungarys-autumn-programming/)
-    
-* [![slide-Stefan Raab signs deal with RTL Deutschland](/.galleries/images/Stefan-Raab_16-9.jpg?__scale=undefined&description=)
-    
-    Stefan Raab signs deal with RTL Deutschland
-    
-    16.09.2024
-    
-    RTL Deutschland attracts over seven million viewers with _Der Clark Final Fight_ and announces an exclusive five-year contract with TV legend Stefan Raab.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Stefan-Raab-signs-deal-with-RTL-Deutschland/)
-    
-* [![slide-A new home for RTL Hungary](/.galleries/images/RTL-Hungary_New-offices_16-9.jpg?__scale=undefined&description=)
-    
-    A new home for RTL Hungary
-    
-    10.09.2024
-    
-    Modernity meets history and sustainability: RTL Hungary has moved part of its operations to a newly renovated building in downtown Budapest.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/A-new-home-for-RTL-Hungary/)
-    
-* [![slide-RTL Deutschland's 2024 Sustainability Week](/.galleries/images/Sustainability-week-2024_16-9.jpg?__scale=undefined&description=)
-    
-    RTL Deutschland's 2024 Sustainability Week
-    
-    10.09.2024
-    
-    Impressive, thought-provoking and informative: RTL Deutschland's 2024 Sustainability Week will focus on biodiversity and the underwater world.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschlands-2024-Sustainability-Week/)
-    
-* [![slide-20 years at RTL: Amelia Brown](/.galleries/images/rtl-group/RTL-stories_Amelia-Brown_1920x1080.jpg?__scale=undefined&description=)
-    
-    20 years at RTL: Amelia Brown
-    
-    04.09.2024
-    
-    In _RTL stories – The podcast_, Fremantle UK CEO Amelia Brown reflects on her journey from production runner to CEO and shares insights into the television industry.](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/20-years-at-RTL-Amelia-Brown/)
-    
-* [![slide-RTL Group interim results 2024](/.galleries/images/RTL-Group-interim-results-2024_16-9.jpg?__scale=undefined&description=)
-    
-    RTL Group interim results 2024
-    
-    09.08.2024
-    
-    RTL Group grows streaming subscribers by 25 per cent to 6.3 million; confirms full-year outlook and long-term streaming targets](https://www.rtlgroup.com/en/rtl-group-interim-results-2024/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
