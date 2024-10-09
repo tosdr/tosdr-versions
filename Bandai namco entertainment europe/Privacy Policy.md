@@ -24,7 +24,7 @@ Popular Games
 Latest game news
 
 * [MY HERO ULTRA RUMBLE - About the Maintenance on October 9, 2024](https://en.bandainamcoent.eu/my-hero-academia/news/my-hero-ultra-rumble-about-the-maintenance-october-9-2024)
-* [Discover BLEACH Rebirth of Souls opening movie!](https://en.bandainamcoent.eu/bleach/news/discover-bleach-rebirth-of-souls-opening-movie)
+* [Unleash the inner Saiyan and dominate lighting-fast battles in DRAGON BALL: Sparking! ZERO, AVAILABLE NOW!](https://en.bandainamcoent.eu/dragon-ball/news/unleash-the-inner-saiyan-and-dominate-lighting-fast-battles-dragon-ball-sparking)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
