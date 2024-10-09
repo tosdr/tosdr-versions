@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Breakers](https://www.myabandonware.com/game/breakers-jxs)
-* [Bust-A-Move 3](https://www.myabandonware.com/game/bust-a-move-3-dsg)
-* [Boot Camp](https://www.myabandonware.com/game/boot-camp-m2)
-* [Carnival](https://www.myabandonware.com/game/carnival-7rl)
-* [Bump 'N' Jump](https://www.myabandonware.com/game/bump-n-jump-7rj)
+* [Scrabble](https://www.myabandonware.com/game/scrabble-st8)
+* [Scrabble Online](https://www.myabandonware.com/game/scrabble-online-skr)
+* [Scrabble Complete](https://www.myabandonware.com/game/scrabble-complete-skn)
+* [Scrabble: CD-ROM Crossword Game](https://www.myabandonware.com/game/scrabble-cd-rom-crossword-game-skm)
+* [Game Tree](https://www.myabandonware.com/game/game-tree-sqj)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Disney Kindergarten](https://www.myabandonware.com/game/disney-kindergarten-rri)
-* [Kick Off 2: Winning Tactics](https://www.myabandonware.com/game/kick-off-2-winning-tactics-7cr)
-* [Buster Buddies](https://www.myabandonware.com/game/buster-buddies-s67)
+* [F1 Circus '92](https://www.myabandonware.com/game/f1-circus-92-ks2)
+* [Wolverine and the X-Men](https://www.myabandonware.com/game/wolverine-and-the-x-men-mtf)
+* [Lost & Found: Volume 3](https://www.myabandonware.com/game/lost-found-volume-3-rf0)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
