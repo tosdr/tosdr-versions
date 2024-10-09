@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d85d4152-77bf-448c-9536-5e44378f1ef3/20240926T172558/d85d4152-77bf-448c-9536-5e44378f1ef3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d85d4152-77bf-448c-9536-5e44378f1ef3/20240926T172558/d85d4152-77bf-448c-9536-5e44378f1ef3_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/manhunt-underway-louisa-county-iowa-brian-calvin/526-960bca8f-0de6-44b3-90a7-d8e3016eb0ac)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
         
-        #### [Days-long manhunt ends in Louisa County, Iowa](https://www.wqad.com/article/news/local/public-safety/manhunt-underway-louisa-county-iowa-brian-calvin/526-960bca8f-0de6-44b3-90a7-d8e3016eb0ac)
+        #### [Electrical workers from Bureau County bring donations to Helene victims in North Carolina](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c894eac3-f6ff-4e8c-bf3d-4201a3db72b0/c894eac3-f6ff-4e8c-bf3d-4201a3db72b0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c894eac3-f6ff-4e8c-bf3d-4201a3db72b0/c894eac3-f6ff-4e8c-bf3d-4201a3db72b0_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-fire-power-water-plant/526-cf8ea19c-d974-4d68-b512-41a29781a501)
+    *  [![](https://media.tegna-media.com/assets/WOI/images/d3a09e96-3714-4e9d-b881-013f9e417272/20241009T021755/d3a09e96-3714-4e9d-b881-013f9e417272_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/d3a09e96-3714-4e9d-b881-013f9e417272/20241009T021755/d3a09e96-3714-4e9d-b881-013f9e417272_360x203.jpg)](https://www.wqad.com/article/news/local/summit-carbon-pipeline-solutions-eminent-domain-iowa-supreme-court-oral-arguments-kasischke-hardin-county/524-df7eec66-d2ed-457c-bc20-85d264c14ffe)
         
-        #### [Muscatine Fire Department responds to fire at power plant](https://www.wqad.com/article/news/local/muscatine-fire-power-water-plant/526-cf8ea19c-d974-4d68-b512-41a29781a501)
+        #### [Oral arguments presented to Iowa Supreme Court over use of eminent domain for Summit Carbon Pipeline](https://www.wqad.com/article/news/local/summit-carbon-pipeline-solutions-eminent-domain-iowa-supreme-court-oral-arguments-kasischke-hardin-county/524-df7eec66-d2ed-457c-bc20-85d264c14ffe)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/CCT/images/d32bcf09-896b-4309-98d6-40a12962bf39/20241008T183839/d32bcf09-896b-4309-98d6-40a12962bf39_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d32bcf09-896b-4309-98d6-40a12962bf39/20241008T183839/d32bcf09-896b-4309-98d6-40a12962bf39_360x203.jpg)](https://www.wqad.com/article/news/nation-world/disney-world-universal-orlando-remain-open-milton/507-8c5cc895-d612-4a9d-a1ba-1621a3c77963)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
         
-        #### [Will Hurricane Milton force Disney World to close?](https://www.wqad.com/article/news/nation-world/disney-world-universal-orlando-remain-open-milton/507-8c5cc895-d612-4a9d-a1ba-1621a3c77963)
+        #### [Electrical workers from Bureau County bring donations to Helene victims in North Carolina](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/a7b0469d-0c4e-461b-af78-8816dff3fdd2/20241008T213707/a7b0469d-0c4e-461b-af78-8816dff3fdd2_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/a7b0469d-0c4e-461b-af78-8816dff3fdd2/20241008T213707/a7b0469d-0c4e-461b-af78-8816dff3fdd2_360x203.jpg)](https://www.wqad.com/article/news/nation-world/what-to-know-about-hurricane-milton/507-95375615-2486-4742-b6be-eb0a865f07aa)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/138de0b5-699d-4de4-83c9-d217e48ec630/20241008T225030/138de0b5-699d-4de4-83c9-d217e48ec630_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/138de0b5-699d-4de4-83c9-d217e48ec630/20241008T225030/138de0b5-699d-4de4-83c9-d217e48ec630_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [What to know about Hurricane Milton as it moves toward Florida's Gulf Coast](https://www.wqad.com/article/news/nation-world/what-to-know-about-hurricane-milton/507-95375615-2486-4742-b6be-eb0a865f07aa)
+        #### [Warming trend to continue for the second half of the week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-70°
+54°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
