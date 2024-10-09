@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Scrabble](https://www.myabandonware.com/game/scrabble-st8)
-* [Scrabble Online](https://www.myabandonware.com/game/scrabble-online-skr)
-* [Scrabble Complete](https://www.myabandonware.com/game/scrabble-complete-skn)
-* [Scrabble: CD-ROM Crossword Game](https://www.myabandonware.com/game/scrabble-cd-rom-crossword-game-skm)
-* [Game Tree](https://www.myabandonware.com/game/game-tree-sqj)
+* [Cabal](https://www.myabandonware.com/game/cabal-ez)
+* [Fighting Vipers 2](https://www.myabandonware.com/game/fighting-vipers-2-sqt)
+* [Fighting Mania](https://www.myabandonware.com/game/fighting-mania-sqs)
+* [Fatal Fury: Wild Ambition](https://www.myabandonware.com/game/fatal-fury-wild-ambition-sqr)
+* [F355 Challenge: Passione Rossa](https://www.myabandonware.com/game/f355-challenge-passione-rossa-sqq)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
