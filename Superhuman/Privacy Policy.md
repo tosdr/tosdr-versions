@@ -782,56 +782,7 @@ Product
 
 [Enterprise](https://superhuman.com/enterprise)
 
-[Outlook](https://superhuman.com/outlook-alternative)
-
-Support
-
-[Help Center](https://help.superhuman.com/)
-
-[Contact Us](https://superhuman.com/contact)
-
-[Tutorials](https://www.youtube.com/playlist?list=PLqlCA7LOaqbwGsT4QSvf0t4B5nKMEut3V)
-
-Legal
-
-[Privacy](https://superhuman.com/privacy)
-
-[Terms](https://superhuman.com/terms)
-
-[AUP](https://superhuman.com/acceptable-use)
-
-[](https://superhuman.com/)
-
-[](https://twitter.com/superhuman)
-
-[](https://linkedin.com/company/superhuman-co/)
-
-[](https://tiktok.com/@superhumanco)
-
-[](https://youtube.com/@SuperhumanCo)
-
-The Most Productive Email App Ever Made
----------------------------------------
-
-Company
-
-[Blog](https://blog.superhuman.com/?utm_source=website&utm_content=footerlink)
-
-[Careers](https://superhuman.com/jobs)
-
-[Love](https://superhuman.com/love)
-
-Product
-
-[Pricing](https://superhuman.com/pricing)
-
-[Download](https://superhuman.com/download)
-
-[AI](https://superhuman.com/ai)
-
-[Sales](https://superhuman.com/sales)
-
-[Enterprise](https://superhuman.com/enterprise)
+[Gmail](https://superhuman.com/gmail-alternative)
 
 [Outlook](https://superhuman.com/outlook-alternative)
 
@@ -884,6 +835,8 @@ Product
 
 [Enterprise](https://superhuman.com/enterprise)
 
+[Gmail](https://superhuman.com/gmail-alternative)
+
 [Outlook](https://superhuman.com/outlook-alternative)
 
 Support
@@ -934,6 +887,61 @@ Product
 [Sales](https://superhuman.com/sales)
 
 [Enterprise](https://superhuman.com/enterprise)
+
+[Gmail](https://superhuman.com/gmail-alternative)
+
+[Outlook](https://superhuman.com/outlook-alternative)
+
+Support
+
+[Help Center](https://help.superhuman.com/)
+
+[Contact Us](https://superhuman.com/contact)
+
+[Tutorials](https://www.youtube.com/playlist?list=PLqlCA7LOaqbwGsT4QSvf0t4B5nKMEut3V)
+
+Legal
+
+[Privacy](https://superhuman.com/privacy)
+
+[Terms](https://superhuman.com/terms)
+
+[AUP](https://superhuman.com/acceptable-use)
+
+[](https://superhuman.com/)
+
+[](https://twitter.com/superhuman)
+
+[](https://linkedin.com/company/superhuman-co/)
+
+[](https://tiktok.com/@superhumanco)
+
+[](https://youtube.com/@SuperhumanCo)
+
+The Most Productive Email App Ever Made
+---------------------------------------
+
+Company
+
+[Blog](https://blog.superhuman.com/?utm_source=website&utm_content=footerlink)
+
+[Careers](https://superhuman.com/jobs)
+
+[Love](https://superhuman.com/love)
+
+Product
+
+[Pricing](https://superhuman.com/pricing)
+
+[Download](https://superhuman.com/download)
+
+[AI](https://superhuman.com/ai)
+
+[Sales](https://superhuman.com/sales)
+
+[Enterprise](https://superhuman.com/enterprise)
+
+[Gmail](https://superhuman.com/gmail-alternative)
 
 [Outlook](https://superhuman.com/outlook-alternative)
 
