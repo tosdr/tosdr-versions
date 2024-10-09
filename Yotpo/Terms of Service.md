@@ -376,3 +376,5 @@ and they'll reach out in no time!
 “Yotpo is a fundamental part of our recommended tech stack.”
 
 ![Shopify plus logo](https://www.yotpo.com/wp-content/themes/yotpo/images/rad/v-2/shopifyplus.svg) Laura Doonin, Commercial Director
+
+###### YOTPO POWERS THE WORLD'S FASTEST-GROWING BRANDS
