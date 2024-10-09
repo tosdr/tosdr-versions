@@ -11,27 +11,30 @@ Toggle navigation
 
 * Product
     
-    * [Actions
-        
-        Automate any workflow](https://github.com/features/actions)
-    * [Security
-        
-        Find and fix vulnerabilities](https://github.com/features/security)
-    * [Codespaces
-        
-        Instant dev environments](https://github.com/features/codespaces)
     * [GitHub Copilot
         
         Write better code with AI](https://github.com/features/copilot)
-    * [Code review
+    * [Security
         
-        Manage code changes](https://github.com/features/code-review)
+        Find and fix vulnerabilities](https://github.com/features/security)
+    * [Actions
+        
+        Automate any workflow](https://github.com/features/actions)
+    * [Codespaces
+        
+        Instant dev environments](https://github.com/features/codespaces)
     * [Issues
         
         Plan and track work](https://github.com/features/issues)
+    * [Code Review
+        
+        Manage code changes](https://github.com/features/code-review)
     * [Discussions
         
         Collaborate outside of code](https://github.com/features/discussions)
+    * [Code Search
+        
+        Find more, search less](https://github.com/features/code-search)
     
     Explore
     
