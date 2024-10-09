@@ -88,6 +88,6 @@ FoxyProxy is a USA company privately owned by Americans. Mailing address is avai
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Its a great service and I will definitely use FoxyProxy when I need it again.
+Great service, easy to use, fast installation and reliable. Will be using your service again.
 
-Lauren Clark
+Randall Falkiner
