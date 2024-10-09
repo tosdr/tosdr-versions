@@ -538,7 +538,6 @@ Choose Your Country
 * [Saudi Arabia - English](https://www.bitdefender.com/en-sa/)
 * [Schweiz - Deutsch](https://www.bitdefender.com/de-ch/)
 * [Singapore - English](https://www.bitdefender.com/en-sg/)
-* [Slovakia - English](https://www.bitdefender.com/en-sk/)
 * [South Africa - English](https://www.bitdefender.com/en-za/)
 * [South Korea - English](https://www.bitdefender.com/en-kr/)
 * [Sudan - English](https://www.bitdefender.com/en-sd/)
