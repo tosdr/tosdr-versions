@@ -195,8 +195,6 @@ Coffee talk with the PepsiCo Foundation
     
     * [Partnerships overview](https://www.everyaction.com/partnerships)
         
-    * [Partner directory](https://www.everyaction.com/partner-directory)
-        
     
 
 [Show — Mega Menu Mobile - Top Level](#show-block-megamenu-mobile-toplevel) [Hide — Mega Menu Mobile - Top Level](#hide-block-megamenu-mobile-toplevel)
@@ -347,8 +345,6 @@ Coffee talk with the PepsiCo Foundation
 * **Partnerships**
     
     * [Partnerships overview](https://www.everyaction.com/partnerships)
-        
-    * [Partner directory](https://www.everyaction.com/partner-directory)
         
     
 
