@@ -300,14 +300,14 @@ California users may also contact the Complaint Assistance Unit of the Division 
 
 **Recent Events**
 
-* [Today](https://www.setlist.fm/search?query=date:2024-10-08 "Search setlists by day: "Today"")
-* [Yesterday](https://www.setlist.fm/search?query=date:2024-10-07 "Search setlists by day: "Yesterday"")
+* [Today](https://www.setlist.fm/search?query=date:2024-10-09 "Search setlists by day: "Today"")
+* [Yesterday](https://www.setlist.fm/search?query=date:2024-10-08 "Search setlists by day: "Yesterday"")
+* [Oct 7, 2024](https://www.setlist.fm/search?query=date:2024-10-07 "Search setlists by day: "Oct 7, 2024"")
 * [Oct 6, 2024](https://www.setlist.fm/search?query=date:2024-10-06 "Search setlists by day: "Oct 6, 2024"")
 * [Oct 5, 2024](https://www.setlist.fm/search?query=date:2024-10-05 "Search setlists by day: "Oct 5, 2024"")
 * [Oct 4, 2024](https://www.setlist.fm/search?query=date:2024-10-04 "Search setlists by day: "Oct 4, 2024"")
 * [Oct 3, 2024](https://www.setlist.fm/search?query=date:2024-10-03 "Search setlists by day: "Oct 3, 2024"")
 * [Oct 2, 2024](https://www.setlist.fm/search?query=date:2024-10-02 "Search setlists by day: "Oct 2, 2024"")
-* [Oct 1, 2024](https://www.setlist.fm/search?query=date:2024-10-01 "Search setlists by day: "Oct 1, 2024"")
 
 **© setlist.fm**
 
