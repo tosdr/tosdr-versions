@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The New Hamburglar is Kinda Creepy!](https://www.somethingawful.com/photoshop-phriday/new-creepy-hamburglar/)
-* [Virtual Adventures!](https://www.somethingawful.com/photoshop-phriday/virtual-adventures-oculus/)
-* ['80s/'90s TV Theme Songs!](https://www.somethingawful.com/comedy-goldmine/tv-theme-songs/)
-* [The Green Hornet; The Dilemma; The King's Speech](https://www.somethingawful.com/current-movie-reviews/green-hornet-dilemma/1/)
-* [Post Your Favorite Deep Dreams!](https://www.somethingawful.com/photoshop-phriday/deep-dream-favorites/)
+* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
+* [The Hottest Tech Deals Made at Burning Man 2013](https://www.somethingawful.com/feature-articles/tech-burning-man/1/)
+* [Please Do Not Kill Anybody Because of Slenderman](https://www.somethingawful.com/news/slenderman-not-real/)
+* [SA Forum Goons vs. The Dating Game](https://www.somethingawful.com/feature-articles/sa-forum-goons/1/)
+* [WHAT TO DO RE: THOSE MISERABLE FUCKS IN TEAM MYSTIC](https://www.somethingawful.com/news/pokemon-go-letter/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Harry TwoPenny's Discount Religion](https://www.somethingawful.com/news/harry-twopennys-discount/)
-* [SEX NERDS!!](https://www.somethingawful.com/comedy-goldmine/bad-sex-nerd/)
-* [The SummerSled](https://www.somethingawful.com/awful-links/awful-link-1118/)
-* [Leonard Crabs' Carnival of Savings!](https://www.somethingawful.com/feature-articles/leonard-crabs-carnival/1/)
-* [The Mystery and Wonder of the Musical Jamboree](https://www.somethingawful.com/news/mystery-wonder-musical/)
+* [Mickey Mousecapades](https://www.somethingawful.com/rom-pit/mickey-mousecapades/)
+* [The Madness of OH! Mikey (Part One)](https://www.somethingawful.com/feature-articles/madness-oh-mikey/1/)
+* [Politician Album Covers! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/politician-album-covers2/1/)
+* [The Eight Games You Will Buy and Never Play from the 2014 Steam Holiday Sale](https://www.somethingawful.com/news/steam-sale-unplayed/1/)
+* [I Have a Slightly Different Dream](https://www.somethingawful.com/news/zombie-dream-speech/)
 
 [Random!](https://www.somethingawful.com/random/)
 
