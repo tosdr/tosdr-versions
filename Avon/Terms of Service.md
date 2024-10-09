@@ -239,8 +239,6 @@ COMPANY
 
 [Insider Blog](https://www.avon.com/blog)
 
-[Studio 1886 LA](https://www.studio1886.com/)
-
 [Careers](https://www.avon.com/careers/working-at-avon)
 
 [Press](https://www.avon.com/information/press)
