@@ -203,6 +203,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Mark Alexander About Those Trump and Harris National Security Endorsements](https://patriotpost.us/alexander/110957-about-those-trump-and-harris-national-security-endorsements-2024-10-09)
 *      [Rich Lowry The Travesty of the CBP One App](https://patriotpost.us/opinion/110941-the-travesty-of-the-cbp-one-app-2024-10-09)
 *      [Betsy McCaughey Free Speech in the Crosshairs](https://patriotpost.us/opinion/110939-free-speech-in-the-crosshairs-2024-10-09)
 *      [Gary Bauer Free Speech Under Fire](https://patriotpost.us/opinion/110938-free-speech-under-fire-2024-10-09)
@@ -213,6 +214,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [John Stossel The Cost of Free Money](https://patriotpost.us/opinion/110931-the-cost-of-free-money-2024-10-09)
 *      [Star Parker Black Clergy Speak Out for Israel](https://patriotpost.us/opinion/110937-black-clergy-speak-out-for-israel-2024-10-09)
 *      [The Babylon Bee 10 Clever Ways to Smuggle Humanitarian Supplies Past FEMA](https://patriotpost.us/opinion/110942-10-clever-ways-to-smuggle-humanitarian-supplies-past-fema-2024-10-09)
+*      [Guest Commentary What Is the Priority Here?](https://patriotpost.us/opinion/110898-what-is-the-priority-here-2024-10-09)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -226,7 +228,9 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
