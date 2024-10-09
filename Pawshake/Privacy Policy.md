@@ -389,7 +389,7 @@ Learn More
 Popular Cities
 --------------
 
-[Antwerp](https://en.pawshake.be/home-dog-boarding/antwerp "Antwerp")[Mechelen](https://en.pawshake.be/home-dog-boarding/mechelen "Mechelen")[Brussels](https://en.pawshake.be/home-dog-boarding/brussels "Brussels")[Schaerbeek](https://en.pawshake.be/home-dog-boarding/schaerbeek "Schaerbeek")[Sint-Niklaas](https://en.pawshake.be/home-dog-boarding/sint-niklaas "Sint-Niklaas")[Leuven](https://en.pawshake.be/home-dog-boarding/leuven "Leuven")[Ghent](https://en.pawshake.be/home-dog-boarding/ghent "Ghent")[Aalst](https://en.pawshake.be/home-dog-boarding/aalst "Aalst")[Kortrijk](https://en.pawshake.be/home-dog-boarding/kortrijk "Kortrijk")[Roeselare](https://en.pawshake.be/home-dog-boarding/roeselare "Roeselare")
+[Antwerp](https://en.pawshake.be/home-dog-boarding/antwerp "Antwerp")[Mechelen](https://en.pawshake.be/home-dog-boarding/mechelen "Mechelen")[Brussels](https://en.pawshake.be/home-dog-boarding/brussels "Brussels")[Schaerbeek](https://en.pawshake.be/home-dog-boarding/schaerbeek "Schaerbeek")[Leuven](https://en.pawshake.be/home-dog-boarding/leuven "Leuven")[Sint-Niklaas](https://en.pawshake.be/home-dog-boarding/sint-niklaas "Sint-Niklaas")[Ghent](https://en.pawshake.be/home-dog-boarding/ghent "Ghent")[Aalst](https://en.pawshake.be/home-dog-boarding/aalst "Aalst")[Kortrijk](https://en.pawshake.be/home-dog-boarding/kortrijk "Kortrijk")[Roeselare](https://en.pawshake.be/home-dog-boarding/roeselare "Roeselare")
 
 [Top dog boarding cities](https://en.pawshake.be/top-dog-boarding-cities "Top cities for dog boarding in Belgium")
 
