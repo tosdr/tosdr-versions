@@ -276,9 +276,7 @@ We reserve the right, at our sole discretion, to update, change, or replace any 
 
 ****SECTION 19**** ****–**** ****CONTACT INFORMATION****
 
-Questions about the Terms of Service should be sent to us at
-
-[\[email protected\]](https://gentleherd.com/cdn-cgi/l/email-protection)
+Questions about the Terms of Service should be sent to us at [\[email protected\]](https://gentleherd.com/cdn-cgi/l/email-protection).
 
 ![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
@@ -754,6 +752,6 @@ Your personal data will be used to support your experience throughout this websi
 
  Register
 
-![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=3867240526284270f190dc7-91c8-4605-b028-b178f4a333fd&cd%5Bpage_title%5D=Terms+of+service&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3060&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fterms-of-service%2F&cd%5Buser_role%5D=guest)
+![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=38672405262842740b3a0e1-8456-45fe-9827-a300ecf57000&cd%5Bpage_title%5D=Terms+of+service&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3060&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fterms-of-service%2F&cd%5Buser_role%5D=guest)
 
-![facebook_pixel](https://www.facebook.com/tr?id=1010714329333125&ev=PageView&noscript=1&eid=10107143293331250f190dc7-91c8-4605-b028-b178f4a333fd&cd%5Bpage_title%5D=Terms+of+service&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3060&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fterms-of-service%2F&cd%5Buser_role%5D=guest)
+![facebook_pixel](https://www.facebook.com/tr?id=1010714329333125&ev=PageView&noscript=1&eid=101071432933312540b3a0e1-8456-45fe-9827-a300ecf57000&cd%5Bpage_title%5D=Terms+of+service&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3060&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fterms-of-service%2F&cd%5Buser_role%5D=guest)
