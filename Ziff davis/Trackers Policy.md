@@ -1,8 +1,8 @@
   [Skip to main content](#content)
 
-[](https://www.ziffdavis.com/)
+[](https://www.ziffdavis.com/ "Ziff Davis Logo")
 
-[**ZD $43.77** ▼\-1.11%](http://investor.ziffdavis.com/)
+[**ZD $44.73** ▲2.19%](http://investor.ziffdavis.com/)
 
 Minimum 20 minute delay.
 
@@ -95,13 +95,13 @@ For more information, please read our [Privacy Policy](https://www.ziffdavis.com
 
 We hope that this policy helps you understand our use of cookies. If you have any further queries, please contact us at [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com) **and be sure to include _Cookie Policy_ in the subject line**.
 
-[](https://www.ziffdavis.com/)
+[](https://www.ziffdavis.com/ "Ziff Davis Logo")
 
 * [Ziff Davis Accessibility Policy](https://www.ziffdavis.com/accessibility)
 * [Legal & Patent Notices](https://www.ziffdavis.com/legal)
 * [Privacy](https://www.ziffdavis.com/privacy)
 * [Contact Us](https://www.ziffdavis.com/about/contacts)
 
-[](https://www.facebook.com/ziffdavisinc)[](https://www.linkedin.com/company/ziff-davis-inc)[](https://twitter.com/ziffdavis)
+[](https://www.facebook.com/ziffdavisinc "Facebook")[](https://www.linkedin.com/company/ziff-davis-inc "Linkedin")[](https://twitter.com/ziffdavis "X")
 
 © Copyright 2024 Ziff Davis, Inc. All rights reserved.
