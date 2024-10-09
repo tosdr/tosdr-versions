@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=1540084302933059&ev=PageView&noscript=1)    
 
-                
+                    
 
 ![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/566/assets/placeholder-pixel.png?v=50439485113009717681726754073)
 
@@ -49,9 +49,9 @@ Legacybox Backup securely stores your newly digitized files on the cloud to give
 
 [2 Item Starter](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682)
 
-$69.99 ~$76.98~
+$69.98 ~$76.97~
 
-$69.99 $76.98
+$69.98 $76.97
 
 [Shop now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682)
 
@@ -59,9 +59,9 @@ $69.99 $76.98
 
 [10 Item Family](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
 
-$319.99 ~$341.98~
+$319.98 ~$341.97~
 
-$319.99 $341.98
+$319.98 $341.97
 
 [Shop now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
 
@@ -69,9 +69,9 @@ $319.99 $341.98
 
 [20 Item Closet](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
 
-$639.99 ~$683.98~
+$639.98 ~$683.97~
 
-$639.99 $683.98
+$639.98 $683.97
 
 [Shop now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
 
@@ -180,9 +180,9 @@ Legacybox Backup securely stores your newly digitized files on the cloud to give
 
 [2 Item Starter](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682)
 
-$69.99 ~$76.98~
+$69.98 ~$76.97~
 
-$69.99 $76.98
+$69.98 $76.97
 
 [Shop now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789124682)
 
@@ -190,9 +190,9 @@ $69.99 $76.98
 
 [10 Item Family](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
 
-$319.99 ~$341.98~
+$319.98 ~$341.97~
 
-$319.99 $341.98
+$319.98 $341.97
 
 [Shop now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789157450)
 
@@ -200,9 +200,9 @@ $319.99 $341.98
 
 [20 Item Closet](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
 
-$639.99 ~$683.98~
+$639.98 ~$683.97~
 
-$639.99 $683.98
+$639.98 $683.97
 
 [Shop now](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218) [Shop Legacybox](https://legacybox.com/products/legacybox-digitizing-kit?variant=31761789190218)
 
