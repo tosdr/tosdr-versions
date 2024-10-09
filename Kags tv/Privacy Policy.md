@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-70°
+90°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
