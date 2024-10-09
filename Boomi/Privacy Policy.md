@@ -18,15 +18,15 @@
     
     ###### Boomi AI
     
-    Integrate and automate with generative AI](https://boomi.com/platform/ai/)[![Integration - Menu Icon](https://boomi.com/wp-content/uploads/Integration-Menu-Icon.svg)
-    
-    ###### Integration
-    
-    Connect your applications and data](https://boomi.com/platform/integration/)[![API Management - Menu Icon](https://boomi.com/wp-content/uploads/API-Management-Menu-Icon.svg)
+    Integrate and automate with generative AI](https://boomi.com/platform/ai/)[![API Management - Menu Icon](https://boomi.com/wp-content/uploads/API-Management-Menu-Icon.svg)
     
     ###### API management
     
-    Simplify API deployment and management](https://boomi.com/platform/api-management/)[![Hub - Menu Icon](https://boomi.com/wp-content/uploads/Hub-Menu-Icon.svg)
+    Simplify API deployment and management](https://boomi.com/platform/api-management/)[![Integration - Menu Icon](https://boomi.com/wp-content/uploads/Integration-Menu-Icon.svg)
+    
+    ###### Integration
+    
+    Connect your applications and data](https://boomi.com/platform/integration/)[![Hub - Menu Icon](https://boomi.com/wp-content/uploads/Hub-Menu-Icon.svg)
     
     ###### Data management
     
@@ -153,16 +153,16 @@
         ###### Boomi AI
         
         Integrate and automate with generative AI](https://boomi.com/platform/ai/)
-    * [![Integration - Menu Icon](https://boomi.com/wp-content/uploads/Integration-Menu-Icon.svg)
-        
-        ###### Integration
-        
-        Connect your applications and data](https://boomi.com/platform/integration/)
     * [![API Management - Menu Icon](https://boomi.com/wp-content/uploads/API-Management-Menu-Icon.svg)
         
         ###### API management
         
         Simplify API deployment and management](https://boomi.com/platform/api-management/)
+    * [![Integration - Menu Icon](https://boomi.com/wp-content/uploads/Integration-Menu-Icon.svg)
+        
+        ###### Integration
+        
+        Connect your applications and data](https://boomi.com/platform/integration/)
     * [![Hub - Menu Icon](https://boomi.com/wp-content/uploads/Hub-Menu-Icon.svg)
         
         ###### Data management
