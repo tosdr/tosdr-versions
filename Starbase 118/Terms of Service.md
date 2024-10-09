@@ -356,6 +356,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-talia-ohnari-uss-khitomer-prestigious-service-medallion-medical/)
+
+### [Award winner – Talia Ohnari, USS Khitomer (Prestigious Service Medallion – Medical)](https://www.starbase118.net/2024/award-winner-talia-ohnari-uss-khitomer-prestigious-service-medallion-medical/)
+
+skhuss October 9, 2024
+
+Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
+
+[Read More »](https://www.starbase118.net/2024/award-winner-talia-ohnari-uss-khitomer-prestigious-service-medallion-medical/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/Tuvok_promoted-768x585.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/promotions-for-august-september-2024/)
 
 ### [Promotions for August & September 2024](https://www.starbase118.net/2024/promotions-for-august-september-2024/)
@@ -377,18 +389,6 @@ skhuss October 7, 2024
 Focusing on the IDIC and basic Vulcan philosophy, which celebrates the vast array of variables within the Star Trek universe, join us for a brand
 
 [Read More »](https://www.starbase118.net/2024/species-spotlight-the-mizarian/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-robin-hopper-amity-outpost-northern-star/)
-
-### [Award winner – Robin Hopper, Amity Outpost (Northern Star)](https://www.starbase118.net/2024/award-winner-robin-hopper-amity-outpost-northern-star/)
-
-srichardsciencenerd118 October 5, 2024
-
-Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
-
-[Read More »](https://www.starbase118.net/2024/award-winner-robin-hopper-amity-outpost-northern-star/)
 
 Ready to get started?
 ---------------------
