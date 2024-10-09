@@ -649,6 +649,12 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/advice/podcast-1029-treat-your-to-do-list-like-a-river-and-other-mindset-shifts-for-making-better-use-of-your-time/)
+
+[Podcast #1,029
+
+###### Treat Your To-Do List Like a River, and Other Mindset Shifts for Making Better Use of Your Time](https://www.artofmanliness.com/character/advice/podcast-1029-treat-your-to-do-list-like-a-river-and-other-mindset-shifts-for-making-better-use-of-your-time/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/advice/podcast-1028-the-5-marks-of-a-man/)
 
 [Podcast #1,028
@@ -666,12 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,026
 
 ###### 5,000 Years of Sweat — Lost Workout Wisdom From the History of Physical Culture](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
-
-[Podcast #1,025
-
-###### What’s Going on With Your Social Anxiety?](https://www.artofmanliness.com/people/social-skills/podcast-1025-whats-going-on-with-your-social-anxiety/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
