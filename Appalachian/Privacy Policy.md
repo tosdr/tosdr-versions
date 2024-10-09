@@ -39,6 +39,12 @@ Main Menu
 
 The Appalachian State University campus is currently operating under [**EMERGENCY**](http://appstatealert.com/) conditions.
 
+* Post-Hurricane Helene Update: Oct. 11-15, 2024
+    
+    Classes at Appalachian State University will resume on Wednesday Oct. 16. On Friday Oct. 11 at 5 p.m., [Condition 1 (Reduced Operations)](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) will go into effect until further notice. [Read full message](https://appstatealert.com/)
+    
+    Posted at 2:13pm on October 9, 2024.
+    
 * University Operations Update: Oct. 2, 2024
     
     For App State Boone and Hickory campuses, classes will not meet until after Tuesday, Oct. 15. [Adverse Weather Condition 3](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) (Closure) has been extended through 5 p.m. Friday, Oct. 11. Residence halls, dining facilities and campus medical facilities remain operational. If you or anyone you know is in immediate danger, call 9-1-1. Off-campus students, faculty and staff in need of shelter should call 1-800-RED-CROSS (733-2767). [Read full message](https://appstatealert.com/)
