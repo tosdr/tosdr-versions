@@ -1,6 +1,6 @@
 CHAT HISPANO
 
-* [Chat](https://chathispano.com/chat/)
+* [Chat](https://chathispano.com/webchat/)
 * [Forum](https://foro.chathispano.com/)
 * [Blogs](https://chathispano.com/blogs/)
 * [News](https://chathispano.com/noticias/)
@@ -15,7 +15,7 @@ CHAT HISPANO
 * [Subscriptions](https://chathispano.com/suscripciones)
 * [Log in](https://chathispano.com/auth/login)
 
-* [Chat](https://chathispano.com/chat/)
+* [Chat](https://chathispano.com/webchat/)
 * [Forum](https://foro.chathispano.com/)
 * [Blogs](https://chathispano.com/blogs/)
 * [News](https://chathispano.com/noticias/)
