@@ -356,7 +356,7 @@ Oops! Something went wrong while submitting the form.
 
 Advertisers
 
-[Advertiser Solutions](https://www.sharethrough.com/advertisers)[Ad Enhancements](https://www.sharethrough.com/advertisers/ad-enhancements)[Curation](https://www.sharethrough.com/advertisers/curation)[Sustainability](https://www.sharethrough.com/advertisers/sustainability)[Addressability](https://www.sharethrough.com/advertisers/cookieless-advertising)[Inventory Packages & PMPs](https://www.sharethrough.com/advertisers/curation/inventory-curation)[Case Studies](https://www.sharethrough.com/advertisers/case-studies)[Carbon Emissions Estimator](https://www.sharethrough.com/carbon-emissions-estimator)[Support ↗](https://support.sharethrough.com/hc/en-us)
+[Advertiser Solutions](https://www.sharethrough.com/advertisers)[Ad Enhancements](https://www.sharethrough.com/advertisers/ad-enhancements)[Curation](https://www.sharethrough.com/advertisers/curation)[Sustainability](https://www.sharethrough.com/advertisers/sustainability)[Addressability](https://www.sharethrough.com/advertisers/cookieless-advertising)[Inventory Packages](https://www.sharethrough.com/advertisers/curation/inventory-curation)[Case Studies](https://www.sharethrough.com/advertisers/case-studies)[Carbon Emissions Estimator](https://www.sharethrough.com/carbon-emissions-estimator)[Support ↗](https://support.sharethrough.com/hc/en-us)
 
 Publishers
 
@@ -368,7 +368,7 @@ Company
 
 Resources
 
-[Blog](https://www.sharethrough.com/blog)[Case Studies](https://www.sharethrough.com/advertisers/case-studies)[Press](https://www.sharethrough.com/company/press)[Sharethrough PMPs](https://www.sharethrough.com/advertisers/curation/inventory-curation)[GreenPMP.io ↗](https://www.greenpmp.io/)[Native Advertising](https://www.sharethrough.com/advertisers/native-advertising)[Headline Analyzer ↗](https://headlines.sharethrough.com/)[Supply Policy](https://www.sharethrough.com/sharethrough-supply-policy)[Demand Policy](https://www.sharethrough.com/sharethrough-demand-policy)[Marketplace Quality Policy](https://www.sharethrough.com/sharethrough-marketplace-quality-policy)[Terms of Service](https://www.sharethrough.com/publisher-platform-terms-of-service)[Brand Guide](https://www.sharethrough.com/company/brand-guide)
+[Blog](https://www.sharethrough.com/blog)[Case Studies](https://www.sharethrough.com/advertisers/case-studies)[Press](https://www.sharethrough.com/company/press)[GreenPMP.io ↗](https://www.greenpmp.io/)[Native Advertising](https://www.sharethrough.com/advertisers/native-advertising)[Headline Analyzer ↗](https://headlines.sharethrough.com/)[Supply Policy](https://www.sharethrough.com/sharethrough-supply-policy)[Demand Policy](https://www.sharethrough.com/sharethrough-demand-policy)[Marketplace Quality Policy](https://www.sharethrough.com/sharethrough-marketplace-quality-policy)[Terms of Service](https://www.sharethrough.com/publisher-platform-terms-of-service)[Brand Guide](https://www.sharethrough.com/company/brand-guide)
 
 Get the Latest Insights
 
