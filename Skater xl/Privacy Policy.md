@@ -168,7 +168,7 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Very Positive (62) \- 85% of the 62 user reviews in the last 30 days are positive.
+Very Positive (60) \- 85% of the 60 user reviews in the last 30 days are positive.
 
 All Reviews:
 
@@ -202,7 +202,7 @@ Very Positive (86% of 18,123) All Time
 
 Recent Reviews:
 
-Very Positive (85% of 62) Recent
+Very Positive (85% of 60) Recent
 
 ![](https://store.akamai.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -449,7 +449,7 @@ System Requirements
 What Curators Say
 -----------------
 
-99 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
+104 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
 
 Customer reviews for Skater XL - The Ultimate Skateboarding Game
 ----------------------------------------------------------------
@@ -462,7 +462,7 @@ Very Positive (18,123 reviews) ![](https://store.akamai.steamstatic.com/public/s
 
 Recent Reviews:
 
-Very Positive (62 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (60 reviews) ![](https://store.akamai.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
