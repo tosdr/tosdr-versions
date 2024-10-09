@@ -101,7 +101,7 @@ E-mail: info@alphonso.tv
 
 ![footer lg ad solutions](https://lgads.tv/wp-content/uploads/2024/01/footer-lg-ad-solutions-2.png)
 
-LG Ad Solutions is a global leader in connected TV and cross-screen advertising, helping brands find hard-to-get unduplicated reach at optimal frequency across the fragmented streaming TV landscape. We bring together LG’s years of experience in delivering world-class smart TVs to consumers worldwide, with big TV audience data and Video AI designed to connect brands with audiences across all screens. We are growing fast globally, and we are hiring!
+LG Ad Solutions is a global leader in connected TV and cross-screen advertising, driven by our mission to create meaningful connections between brands and their audiences. With a vast network of award-winning LG Smart TVs worldwide, we offer advertisers and content creators unparalleled scale, reach, and personalized precision on the largest screen in the home.
 
 ### Follow us
 
