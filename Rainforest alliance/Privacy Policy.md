@@ -366,7 +366,7 @@ general or business(Required)
 
  Send me business updates
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
