@@ -96,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![William Russell](https://www.expatexchange.com/banner/william-russell-728.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=52467-DESKTOP-leader-leaderad-vrs-A-Global-leader)
+[![GeoBlue](https://www.expatexchange.com/banner/INDV2079-ExpatExchangeAd_728x90_FNL.jpg)](https://www.expatexchange.com/partnerdirect/76/13964-DESKTOP-leader-leaderad-vrs-B-Global-leader)
 
-[![William Russell](https://www.expatexchange.com/banner/william-russell-300.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=52467-MOBILE-leader-leaderad-vrs-A-Global-leader)
+[![GeoBlue](https://www.expatexchange.com/banner/INDV2079-ExpatExchangeAd_300x250_FNL.jpg)](https://www.expatexchange.com/partnerdirect/76/13964-MOBILE-leader-leaderad-vrs-B-Global-leader)
 
 Privacy Policy
 ==============
@@ -439,17 +439,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![Innoinsure](https://www.expatexchange.com/images/segur_family_insure_200.jpg)](https://www.innoinsure.com/adeslas/expatexchange)
+[![Allianz Care](https://www.expatexchange.com/images/lab-healthcare-quote.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=92267-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-[Innoinsure](https://www.innoinsure.com/adeslas/expatexchange)
+[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=92267-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-Hassle-free health insurance policies that meet all Spanish visa and residency requirements. We are Innoinsure and we offer policies from the 2 leading health insurance companies in Spain: DKV and Asisa. 100% success rate for VISA and residency applications.  
-[Get Quote](https://www.innoinsure.com/adeslas/expatexchange "Get Quote")
+Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
+[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=92267-DESKTOP-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
-[![Innoinsure](https://www.expatexchange.com/images/segur_family_insure_200.jpg)](https://www.innoinsure.com/adeslas/expatexchange)[Innoinsure](https://www.innoinsure.com/adeslas/expatexchange)
+[![Allianz Care](https://www.expatexchange.com/images/lab-healthcare-quote.jpg)](https://www.kqzyfj.com/click-1462468-13892475?sid=92267-MOBILE-cbar-vrs-B-hicontent-Global-62)[Allianz Care](https://www.kqzyfj.com/click-1462468-13892475?sid=92267-MOBILE-cbar-vrs-B-hicontent-Global-62)
 
-Hassle-free health insurance policies that meet all Spanish visa and residency requirements. We are Innoinsure and we offer policies from the 2 leading health insurance companies in Spain: DKV and Asisa. 100% success rate for VISA and residency applications.  
-[Get Quote](https://www.innoinsure.com/adeslas/expatexchange "Get Quote")
+Flexible solutions allow you to tailor your cover to meet your needs and budget. Use Promocode: LIFE10 and get 10% off your international health insurance for life!  
+[Get Quote](https://www.kqzyfj.com/click-1462468-13892475?sid=92267-MOBILE-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
