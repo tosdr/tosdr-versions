@@ -36,6 +36,8 @@ Cancel
 
 [by Collection](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm "by Collection")
 
+[Vintage Art](https://www.art.com/gallery/id--c1837/vintage-art-prints.htm "Vintage Art")
+
 [Affordable Art](https://www.art.com/gallery/id--b26609/affordable-art-posters.htm "Affordable Art")
 
 [Decorative Art](https://www.art.com/gallery/id--c23945/decorative-art-prints.htm "Decorative Art")
@@ -165,6 +167,8 @@ Cancel
 [NEW: Indie Artists Collection](https://www.art.com/lp/indie-artists "NEW: Indie Artists Collection")
 
 [Vintage Artists](https://www.art.com/gallery/id--c1837/vintage-art-prints.htm "Vintage Artists")
+
+[Joseph Christian Leyendecker](https://www.art.com/gallery/id--a28657/joseph-christian-leyendecker-posters.htm "Joseph Christian Leyendecker ")
 
 [Alphonse Mucha](https://www.art.com/gallery/id--a10/alphonse-mucha-posters.htm "Alphonse Mucha")
 
