@@ -10,11 +10,11 @@
     
 * [Enterprise](https://www.smartcat.com/enterprise/)
 * [Pricing](https://www.smartcat.com/pricing/)
-* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_4828338&lang=en)
-* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_4828338&lang=en)
+* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_4844612&lang=en)
+* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_4844612&lang=en)
 * [en](#)
 
-[en](#)[Sign in](https://smartcat.com/sign-in?land=us_4828338&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_4828338&lang=en)
+[en](#)[Sign in](https://smartcat.com/sign-in?land=us_4844612&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_4844612&lang=en)
 
 Smartcat legal
 
@@ -25,7 +25,7 @@ Smartcat legal
 SMARTCAT PRIVACY POLICY AND CONSENT NOTICE
 ------------------------------------------
 
-Current version. Last updated on July 05, 2024.
+Current version. Last updated on October 09, 2024.
 
 [](#)
 
@@ -89,6 +89,9 @@ Plus there is supplementary information you may wish to give us to expand your p
 * bank account details, credit or debit card details, PayPal account details, Yandex Money details, QIWI details, WebMoney details, +ePayments (Smartcat Mastercard) details;
     
 * certificate of registration as self-employed, plus a copy of your relevant work documents, certificates, diplomas, or any other proof of experience, training or special expertise; CV.
+    
+      
+    Sometimes we collect Personal Data automatically through Cookies when you interact with our Services and sometimes we collect Personal Data directly from you. We may also collect your data from other sources and third parties, even before our first direct interaction.
     
 
 **_2) Additional Information_**
@@ -281,7 +284,7 @@ The consent you are giving hereby relates to the personal data that was entered 
 
 * process personal data for the purpose of providing, supporting and improving Smartcat’s services and features, using appropriate technical, administrative and organizational security measures as well as for the purposes set forth in the Terms;
     
-* inform you about our services, we may contact you at the phone numbers you provided. By providing your numbers, you agree to receive calls using automated dialing technology, prerecorded messages, and/or artificial intelligence voice messaging.
+* inform you about our services, we may contact you at the phone numbers collected directly from you or from third parties and open sources. You agree to receive text messages and calls using automated dialing technology, prerecorded messages, and/or artificial intelligence voice messaging.
     
 * cross-border transfers of your personal data to those countries where Smartcat operates or may operate in future with the understanding that whilst the EU countries and a number of other countries have similar and appropriate rules and level of personal data safeguard and protection there may be transfers of your personal data to those countries that lack the appropriate level and legislative regulation of personal data safeguard and protection.
     
