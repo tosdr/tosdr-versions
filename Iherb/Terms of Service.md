@@ -1599,7 +1599,7 @@ Ihre E-Mail-Adresse wird verwendet, um Ihnen Gesundheits-Newsletter und E-Mails 
 * [Kooperationspartner werden](https://de.iherb.com/info/suppliers)
 
 * Ressourcen
-* [Das Gesundheitsportal](https://de.iherb.com/blog)
+* [iHerb-Blog](https://de.iherb.com/blog)
 * [iHerb-Community](https://de.iherb.com/ugc/community)
 * [Angebote und Aktionen](https://de.iherb.com/info/sales-and-offers)
 
