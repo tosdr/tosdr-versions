@@ -152,7 +152,13 @@
     
 * [Gift Ideas](https://www.capture.com/pages/gift-ideas)
 * [Reviews](https://www.capture.com/pages/capture-reviews)
-* [Help](https://help.capture.com/hc/en-us)
+* Help
+    
+    Help
+    
+    * [Help Center](https://help.capture.com/hc/en-us)
+    * [Find a Location](https://www.capture.com/pages/video-photo-conversion-locations)
+    
 
 [![Capture](//www.capture.com/cdn/shop/files/Main_Logo_Green_2x_30be17c6-8887-490a-9c3c-3a212950599c.png?v=1663961049)](https://www.capture.com/)
 
@@ -292,7 +298,11 @@
     
 * [Gift Ideas](https://www.capture.com/pages/gift-ideas)
 * [Reviews](https://www.capture.com/pages/capture-reviews)
-* [Help](https://help.capture.com/hc/en-us)
+* Help
+    
+    * [Help Center](https://help.capture.com/hc/en-us)
+    * [Find a Location](https://www.capture.com/pages/video-photo-conversion-locations)
+    
 
 [Cart](https://www.capture.com/cart)
 
@@ -456,6 +466,7 @@ Support
 * [Track Your Order](https://www.capture.com/pages/order-status)
 * [Activation](https://timecapsule.capture.com/pages/activate)
 * [MemoryCloud](https://mcloud.capture.com/)
+* [Find a Location](https://www.capture.com/pages/video-photo-conversion-locations)
 * [Contact Us](https://help.capture.com/hc/en-us/requests/new)
 
 Learn
