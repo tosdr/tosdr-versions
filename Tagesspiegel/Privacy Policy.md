@@ -737,3 +737,5 @@ false
 * * *
 
 öffnet in neuem Tab oder Fenster
+
+console.debug({ userId: "", verifiedBot: "false", botCategory: "" })
