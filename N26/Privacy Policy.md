@@ -2,7 +2,7 @@ Privacy Policy
 
 
 
-(Version 9.7., Date 02.09.2024)
+(Version 9.8., Date 09.10.2024)
 
 
 
@@ -784,6 +784,16 @@ legitimate interests under Art. 6 (1) f) GDPR.
 
 
 
+In Germany, we partner with CPB Software (Germany) GmbH, Im Bruch 3, 63897 Miltenberg, Germany (“CPB”)
+
+to assist in calculating and reporting withholding taxes of the N26 Instant Savings account. Therefore, if you
+
+change your registered address to Germany, we will share the data mentioned above with CPB for such
+
+purposes. As our data processor, CPB processes this data solely in accordance with our instructions.
+
+
+
 13\. Data transmission in the framework of the Stripe Top Up Feature
 
 The Stripe Top Up Feature (hereinafter: “Top Up Feature”) provides an easy method for new customers to add
@@ -838,6 +848,8 @@ total investment per year, knowledge and experience with investing; knowledge of
 
 and obligations of stocks and derivatives.
 
+
+
 We will also process this data on behalf of Bitpanda (Art. 28 GDPR), and transmit it to Bitpanda and to Bitpanda
 
 Asset Management GmbH so that Bitpanda can set up your N26 Crypto Service. This processing is based on
@@ -848,11 +860,11 @@ pre-contractual steps taken upon your request in accordance with Art. 6 (1) b) G
 
 When you use your N26 Crypto Service, we process your personal data related to any investment orders and
 
-transactions you wish to perform on your N26 Crypto account and we transmit that data to Bitpanda, so that
+transactions you wish to perform on your N26 Crypto account (including investment plans) and we transmit
 
-Bitpanda can execute such orders and transactions as a separate data controller. This processing is based on
+that data to Bitpanda, so that Bitpanda can execute such orders and transactions as a separate data controller.
 
-your agreement with Bitpanda, in accordance with Art. 6 (1) b) GDPR.
+This processing is based on your agreement with Bitpanda, in accordance with Art. 6 (1) b) GDPR.
 
 
 
@@ -1016,8 +1028,6 @@ products related to the App, so you can use any of them if you are interested, A
 
 information on the legitimate interest as a legal basis for processing data, please see section II. above.
 
-
-
 19. Data processing in the framework of transactional \& informational
 
 communication
@@ -1110,6 +1120,8 @@ provide anonymised datasets that allows EdB to be updated on indemnifiable depos
 
 Deposit Guarantee Act (Einlagensicherungsgesetz).
 
+
+
 22. Data transmission in the framework of Mastercard Automatic Billing
 
 Updater Program
@@ -1197,6 +1209,8 @@ residence. In this case, we will inform you accordingly in the respective inform
 survey. We process your data, as described, for research and analysis purposes and to improve our products,
 
 processes and service levels, based on our legitimate interests, in accordance with Art. 6 (1) f GDPR.
+
+
 
 If you decide to share your feedback with us, we may anonymise the data obtained to create research reports
 
@@ -1290,6 +1304,8 @@ applicable laws and regulatory requirements, including anti-money laundering and
 
 binding measures related to financial matters, based on Art. 6 (1) c) GDPR.
 
+
+
 26\. Data processing when using the “Share your ideas” Feature
 
 When sharing your ideas using the designated “Share your ideas” feature, we process the information that is
@@ -1323,6 +1339,12 @@ legitimate interests, in accordance with Art. 6 (1) f) GDPR.
 For more information on legitimate interests as a legal basis for processing personal data, please see section II.
 
 above.
+
+
+
+We ask you not to include any personal data, such as your name or email address, in your feedback. Any
+
+personal data included will be anonymized.
 
 
 
@@ -1368,8 +1390,6 @@ Once you have completed this identification procedure your personal data will be
 
 by our legal obligations, based on Art. 6 (1) c) GDPR.
 
-
-
 V. Social Plugins
 
 On our Website, as well as in our Support Center, we have share buttons linking to Facebook, YouTube,
@@ -1379,6 +1399,8 @@ LinkedIn, Twitter, Instagram and Glassdoor. These are not third-party plugins, a
 third parties to fetch personal data or any other sort of information whatsoever. The share buttons are
 
 hyperlinks that only redirect you to the respective website of the third party when clicked.
+
+
 
 VI. Marketing Communication
 
@@ -1554,6 +1576,8 @@ to the processing of your data for customer segmentation. You can find more info
 
 objection under Section X. 2.
 
+
+
 VII. N26 Social Media Pages and Online Advertising
 
 
@@ -1633,8 +1657,6 @@ information on the legitimate interest as a legal basis for processing data, ple
 no access to the personal data that Meta collects to compile these statistics and cannot link these statistical
 
 data to the profiles of our fans or individual users.
-
-
 
 In addition, Instagram uses cookies, which are stored on your device while visiting our Instagram social media
 
@@ -1916,8 +1938,6 @@ online advertising purposes is described in more detail further down in each sec
 
 1. Custom and lookalike audiences
 
-
-
 We process your data to create so-called custom and lookalike audiences. Custom audiences consist of N26
 
 customers and internet users and are created to display personalised content to both groups. This permits us
@@ -1933,6 +1953,8 @@ deliver more relevant advertisements to them.
 
 
 To create custom and lookalike audiences, we use the services of our Advertising Partners below:
+
+
 
 ● Google Ireland Ltd, Google Building Gordon House, 4 Barrow St, dublin, Ireland (“Google”);
 
@@ -2030,6 +2052,8 @@ You can obtain a detailed copy of the transfer mechanism and more information in
 
 request to N26 to the addresses indicated in section XII. below.
 
+
+
 IX. Data collected in the framework of phone call recordings
 
 When discussing any contractual matters (such as account related information or your transactions) with us on
@@ -2117,6 +2141,8 @@ processing is carried out by automated means;
 that you can complain before the supervisory authority if you consider that the processing of your
 
 personal data by N26 infringes the GDPR.
+
+
 
 Without prejudice to section X.2. below, please:
 
