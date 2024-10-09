@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Tuesday, October 8 2024
+Wednesday, October 9 2024
 
 Latest
 
-* [Today’s Wordle Answer and Hints (October 9, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-9-2024/)
-* [How to get a VPN working with Apex Legends: tips and fixes](https://digitpatrox.com/how-to-get-a-vpn-working-with-apex-legends-tips-and-fixes/)
-* [Rubrik and Pure Storage collaborate on multi layered data resilience architecture](https://digitpatrox.com/rubrik-and-pure-storage-collaborate-on-multi-layered-data-resilience-architecture/)
-* [How IT admins should think about a more open Apple – Computerworld](https://digitpatrox.com/how-it-admins-should-think-about-a-more-open-apple-computerworld/)
-* [My Favorite Kitchen Appliances That Are on Sale for Prime Day](https://digitpatrox.com/my-favorite-kitchen-appliances-that-are-on-sale-for-prime-day/)
-* [How to watch porn in Kentucky](https://digitpatrox.com/how-to-watch-porn-in-kentucky/)
-* [Perform clean install of Windows 11 (2024)](https://digitpatrox.com/perform-clean-install-of-windows-11-2024/)
-* [Is Dried Fruit Good for You?](https://digitpatrox.com/is-dried-fruit-good-for-you/)
-* [What Happened to All the Good Racing Games?](https://digitpatrox.com/what-happened-to-all-the-good-racing-games/)
-* [Vodafone expands Google partnership for Vertex AI](https://digitpatrox.com/vodafone-expands-google-partnership-for-vertex-ai/)
+* [Hot sleepers, rejoice! This instant cooling comforter is 35% off for Prime Day](https://digitpatrox.com/hot-sleepers-rejoice-this-instant-cooling-comforter-is-35-off-for-prime-day/)
+* [New scanner finds Linux, UNIX servers exposed to CUPS RCE attacks](https://digitpatrox.com/new-scanner-finds-linux-unix-servers-exposed-to-cups-rce-attacks/)
+* [How to use satellite messaging and SOS services on your iPhone or Pixel](https://digitpatrox.com/how-to-use-satellite-messaging-and-sos-services-on-your-iphone-or-pixel/)
+* [Starlink and T-Mobile’s text-by-satellite service is available in Florida](https://digitpatrox.com/starlink-and-t-mobiles-text-by-satellite-service-is-available-in-florida/)
+* [NYT Strands Today: Hints, Answers & Spangram for October 9](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-9/)
+* [European bank aims to keep startups local](https://digitpatrox.com/european-bank-aims-to-keep-startups-local/)
+* [Is the .io top level domain headed for extinction? – Computerworld](https://digitpatrox.com/is-the-io-top-level-domain-headed-for-extinction-computerworld/)
+* [Why the ROLA Mini Pet Camera Is My Favorite Deal for October Prime Day](https://digitpatrox.com/why-the-rola-mini-pet-camera-is-my-favorite-deal-for-october-prime-day/)
+* [Is a VPN for Apex Legends worth it? Benefits and drawbacks](https://digitpatrox.com/is-a-vpn-for-apex-legends-worth-it-benefits-and-drawbacks/)
+* [Windows 11 AI features confirmed for version 24H2](https://digitpatrox.com/windows-11-ai-features-confirmed-for-version-24h2/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-9-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/bXbuhMaCfqiNfLB2RDKWbk-1200-80.png)](https://digitpatrox.com/hot-sleepers-rejoice-this-instant-cooling-comforter-is-35-off-for-prime-day/)
     
-    [Today’s Wordle Answer and Hints (October 9, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-9-2024/)
+    [Hot sleepers, rejoice! This instant cooling comforter is 35% off for Prime Day](https://digitpatrox.com/hot-sleepers-rejoice-this-instant-cooling-comforter-is-35-off-for-prime-day/)
     
-    13 mins ago
+    8 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/How-to-get-a-VPN-working-with-Apex-Legends.jpg)](https://digitpatrox.com/how-to-get-a-vpn-working-with-apex-legends-tips-and-fixes/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/04/02/scanner.jpg)](https://digitpatrox.com/new-scanner-finds-linux-unix-servers-exposed-to-cups-rce-attacks/)
     
-    [How to get a VPN working with Apex Legends: tips and fixes](https://digitpatrox.com/how-to-get-a-vpn-working-with-apex-legends-tips-and-fixes/)
+    [New scanner finds Linux, UNIX servers exposed to CUPS RCE attacks](https://digitpatrox.com/new-scanner-finds-linux-unix-servers-exposed-to-cups-rce-attacks/)
+    
+    36 mins ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/d7ScMsIszjWFJ3hFy314F0MciwA=/720x0:2721x1208/1200x628/filters:focal(1730x479:1731x480)/cdn.vox-cdn.com/uploads/chorus_asset/file/25485431/Screenshot_2024_06_10_at_1.23.44_PM.png)](https://digitpatrox.com/how-to-use-satellite-messaging-and-sos-services-on-your-iphone-or-pixel/)
+    
+    [How to use satellite messaging and SOS services on your iPhone or Pixel](https://digitpatrox.com/how-to-use-satellite-messaging-and-sos-services-on-your-iphone-or-pixel/)
+    
+    52 mins ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/HvTYUM0pJgmvmBc-vzFvGLHsD5c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23962441/acastro_STK067__02.jpg)](https://digitpatrox.com/starlink-and-t-mobiles-text-by-satellite-service-is-available-in-florida/)
+    
+    [Starlink and T-Mobile’s text-by-satellite service is available in Florida](https://digitpatrox.com/starlink-and-t-mobiles-text-by-satellite-service-is-available-in-florida/)
+    
+    54 mins ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-9/)
+    
+    [NYT Strands Today: Hints, Answers & Spangram for October 9](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-9/)
     
     1 hour ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/M5csFvNWDEuWjzvggZ8GVL-1200-80.jpg)](https://digitpatrox.com/rubrik-and-pure-storage-collaborate-on-multi-layered-data-resilience-architecture/)
-    
-    [Rubrik and Pure Storage collaborate on multi layered data resilience architecture](https://digitpatrox.com/rubrik-and-pure-storage-collaborate-on-multi-layered-data-resilience-architecture/)
-    
-    2 hours ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3552450-0-72547600-1728402022-Apple-iPhone-16-Pro-camera-system-240909.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-it-admins-should-think-about-a-more-open-apple-computerworld/)
-    
-    [How IT admins should think about a more open Apple – Computerworld](https://digitpatrox.com/how-it-admins-should-think-about-a-more-open-apple-computerworld/)
-    
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01J9PBQGPH6PX4P2WH5MEFCWKE/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/my-favorite-kitchen-appliances-that-are-on-sale-for-prime-day/)
-    
-    [My Favorite Kitchen Appliances That Are on Sale for Prime Day](https://digitpatrox.com/my-favorite-kitchen-appliances-that-are-on-sale-for-prime-day/)
-    
-    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [13 mins ago
+* [8 mins ago
     
-    ### Today’s Wordle Answer and Hints (October 9, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-9-2024/)
-* [1 hour ago
+    ### Hot sleepers, rejoice! This instant cooling comforter is 35% off for Prime Day](https://digitpatrox.com/hot-sleepers-rejoice-this-instant-cooling-comforter-is-35-off-for-prime-day/)
+* [36 mins ago
     
-    ### How to get a VPN working with Apex Legends: tips and fixes](https://digitpatrox.com/how-to-get-a-vpn-working-with-apex-legends-tips-and-fixes/)
-* [2 hours ago
+    ### New scanner finds Linux, UNIX servers exposed to CUPS RCE attacks](https://digitpatrox.com/new-scanner-finds-linux-unix-servers-exposed-to-cups-rce-attacks/)
+* [52 mins ago
     
-    ### Rubrik and Pure Storage collaborate on multi layered data resilience architecture](https://digitpatrox.com/rubrik-and-pure-storage-collaborate-on-multi-layered-data-resilience-architecture/)
+    ### How to use satellite messaging and SOS services on your iPhone or Pixel](https://digitpatrox.com/how-to-use-satellite-messaging-and-sos-services-on-your-iphone-or-pixel/)
 
 Most Popular Topics
 
-* [1 week ago
+* [6 days ago
     
-    ### Android 16 Codename Reveals Google’s New Naming Convention](https://digitpatrox.com/android-16-codename-reveals-googles-new-naming-convention/)
-* [August 30, 2024
+    ### How AI is powering the next wave of digital transformation](https://digitpatrox.com/how-ai-is-powering-the-next-wave-of-digital-transformation/)
+* [August 27, 2024
     
-    ### Arsenal vs Brighton live stream: How to watch Premier League 2024/25 game online](https://digitpatrox.com/arsenal-vs-brighton-live-stream-how-to-watch-premier-league-2024-25-game-online/)
-* [August 29, 2024
+    ### Best Used Cars of the Year: 10 Top Picks](https://digitpatrox.com/best-used-cars-of-the-year-10-top-picks/)
+* [August 14, 2024
     
-    ### Popular Used Luxury Cars to Avoid & What to Buy](https://digitpatrox.com/popular-used-luxury-cars-to-avoid-what-to-buy/)
+    ### AutoCanada discloses cyberattack impacting internal IT systems](https://digitpatrox.com/autocanada-discloses-cyberattack-impacting-internal-it-systems/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Perform clean install of Windows 11 (2024)](https://digitpatrox.com/perform-clean-install-of-windows-11-2024/)
+    ### Is the .io top level domain headed for extinction? – Computerworld](https://digitpatrox.com/is-the-io-top-level-domain-headed-for-extinction-computerworld/)
 * [3 hours ago
     
-    ### Is Dried Fruit Good for You?](https://digitpatrox.com/is-dried-fruit-good-for-you/)
-* [3 hours ago
+    ### Why the ROLA Mini Pet Camera Is My Favorite Deal for October Prime Day](https://digitpatrox.com/why-the-rola-mini-pet-camera-is-my-favorite-deal-for-october-prime-day/)
+* [4 hours ago
     
-    ### What Happened to All the Good Racing Games?](https://digitpatrox.com/what-happened-to-all-the-good-racing-games/)
+    ### Is a VPN for Apex Legends worth it? Benefits and drawbacks](https://digitpatrox.com/is-a-vpn-for-apex-legends-worth-it-benefits-and-drawbacks/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 21, 2024
+    
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
