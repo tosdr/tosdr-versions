@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Bubble Bobble](https://www.myabandonware.com/game/bubble-bobble-m4)
+* [Cadash](https://www.myabandonware.com/game/cadash-8ew)
 * [Cabal](https://www.myabandonware.com/game/cabal-ez)
 * [Fighting Vipers 2](https://www.myabandonware.com/game/fighting-vipers-2-sqt)
 * [Fighting Mania](https://www.myabandonware.com/game/fighting-mania-sqs)
-* [Fatal Fury: Wild Ambition](https://www.myabandonware.com/game/fatal-fury-wild-ambition-sqr)
-* [F355 Challenge: Passione Rossa](https://www.myabandonware.com/game/f355-challenge-passione-rossa-sqq)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
