@@ -1,27 +1,126 @@
-DMCA | Know Your Meme                                                           
+[](https://knowyourmeme.com/ "Know Your Meme")
 
-|     |     |
-| --- | --- |
-| [![Know Your Meme](/assets/kym-logo.png)](https://knowyourmeme.com/) | [Meme Encyclopedia](https://knowyourmeme.com/memes)<br><br>* [All](https://knowyourmeme.com/memes)<br>* [Cultures](https://knowyourmeme.com/categories/culture)<br>* [Events](https://knowyourmeme.com/categories/event)<br>* [People](https://knowyourmeme.com/categories/person)<br>* [Sites](https://knowyourmeme.com/categories/site)<br>* [Subcultures](https://knowyourmeme.com/categories/subculture)<br>* [Videos](https://knowyourmeme.com/videos)<br>* [Submit →](https://knowyourmeme.com/memes/new?guidelines=1)<br><br>[Images](https://knowyourmeme.com/photos)<br><br>* [Trending](https://knowyourmeme.com/photos/trending)<br>* [Most Commented](https://knowyourmeme.com/photos/sort/comments)<br>* [Most Favorited](https://knowyourmeme.com/photos/sort/favorites)<br>* [High Score](https://knowyourmeme.com/photos/sort/score)<br>* [Low Score](https://knowyourmeme.com/photos/sort/low-score)<br>* [Most Viewed](https://knowyourmeme.com/photos/sort/views)<br>* [All](https://knowyourmeme.com/photos)<br>* * * *<br>    <br>* [Templates](https://knowyourmeme.com/photos/templates)<br>* * * *<br>    <br>* [Upload an Image](https://knowyourmeme.com/photos/new)<br><br>Articles<br><br>* [News](https://knowyourmeme.com/news)<br>* [Explainers](https://knowyourmeme.com/newsfeed/explainers)<br>* [Collections](https://knowyourmeme.com/editorials/collections)<br>* [Interviews](https://knowyourmeme.com/editorials/interviews)<br>* [Meme Insider Magazine](https://memeinsider.com/)<br><br>More<br><br>* [Discord](https://discord.com/invite/hxZaGpg)<br>* [Newsletter](https://knowyourmeme.com/newsletter)<br>* [Episodes](https://knowyourmeme.com/episodes)<br>* [Forums](https://knowyourmeme.com/forums)<br>* [Meme Store](https://thememestore.com/)<br>* [Login](https://knowyourmeme.com/login)<br><br>[Abstract user icon](https://knowyourmeme.com/login) |
-|     |     |
+[Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
 
+* [About](https://knowyourmeme.com/about)
+* [**Rules**](https://knowyourmeme.com/editorials/rules-and-guidelines/)
+* [Chat](https://knowyourmeme.com/chat)
+* [Random](https://knowyourmeme.com/random)
+* [Activity](https://knowyourmeme.com/activity)
+
+Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmeme.com/signup) now!
+
+* [Home](https://knowyourmeme.com/)
 * [Memes](https://knowyourmeme.com/memes)
-* [Categories](https://knowyourmeme.com/categories)
+    * [Confirmed](https://knowyourmeme.com/memes)
+    * [Submissions](https://knowyourmeme.com/memes/submissions)
+    * [Researching](https://knowyourmeme.com/memes/researching)
+    * [Newsworthy](https://knowyourmeme.com/memes/newsworthy)
+    * [Popular](https://knowyourmeme.com/memes/popular)
+    * [Deadpool](https://knowyourmeme.com/memes/deadpool)
+    * [All](https://knowyourmeme.com/memes/all)
+    * * * *
+        
+    * [Submit an Entry](https://knowyourmeme.com/memes/new?guidelines=1)
+* [Meme Store](https://thememestore.com/)
 * [Trending](https://trending.knowyourmeme.com/trending)
 * [News](https://knowyourmeme.com/news)
 * [Images](https://knowyourmeme.com/photos)
-* [Trending Images](https://knowyourmeme.com/photos/trending)
+    * [Trending](https://knowyourmeme.com/photos/trending)
+    * [Most Commented](https://knowyourmeme.com/photos/most-commented)
+    * [Most Favorited](https://knowyourmeme.com/photos/most-favorited)
+    * [Most Liked](https://knowyourmeme.com/photos/most-liked)
+    * [Least Liked](https://knowyourmeme.com/photos/least-liked)
+    * [Most Viewed](https://knowyourmeme.com/photos/most-viewed)
+    * [All](https://knowyourmeme.com/photos)
+    * * * *
+        
+    * [Templates](https://knowyourmeme.com/photos/templates)
+    * * * *
+        
+    * [Upload an Image](https://knowyourmeme.com/photos/new)
 * [Videos](https://knowyourmeme.com/videos)
-* [Trending Videos](https://knowyourmeme.com/videos/trending)
+    * [Trending](https://knowyourmeme.com/videos/trending)
+    * [Most Commented](https://knowyourmeme.com/videos/most-commented)
+    * [Most Favorited](https://knowyourmeme.com/videos/most-favorited)
+    * [Most Liked](https://knowyourmeme.com/videos/most-liked)
+    * [Most Viewed](https://knowyourmeme.com/videos/most-viewed)
+    * [All](https://knowyourmeme.com/videos)
+    * * * *
+        
+    * [Upload a Video](https://knowyourmeme.com/videos/new)
+* [Forums](https://knowyourmeme.com/forums)
+    * [Discussion](https://knowyourmeme.com/forums/section/discussion)
+    *    [General](https://knowyourmeme.com/forums/general)
+    *    [Meme Research](https://knowyourmeme.com/forums/meme-research)
+    *    [Serious Debate](https://knowyourmeme.com/forums/serious-debate)
+    *    [Q & A](https://knowyourmeme.com/forums/q-a)
+    * * * *
+        
+    * [Media](https://knowyourmeme.com/forums/section/media)
+    *    [Video Games](https://knowyourmeme.com/forums/video-games)
+    *    [Moving Images](https://knowyourmeme.com/forums/moving-images)
+    *    [Books & Comics](https://knowyourmeme.com/forums/books-comics)
+    *    [Music](https://knowyourmeme.com/forums/music)
+    *    [Websites](https://knowyourmeme.com/forums/websites)
+    * * * *
+        
+    * [Fun!](https://knowyourmeme.com/forums/section/fun)
+    *    [Creative](https://knowyourmeme.com/forums/creative)
+    *    [Forum Games](https://knowyourmeme.com/forums/forum-games)
+    *    [Just For Fun](https://knowyourmeme.com/forums/just-for-fun)
+    *    [Riff-Raff](https://knowyourmeme.com/forums/riff-raff)
+    *    [Memeory Lane](https://knowyourmeme.com/forums/memeory-lane)
+    * * * *
+        
+    * [Maintenance](https://knowyourmeme.com/forums/section/maintenance)
+    *    [Report Problems](https://knowyourmeme.com/forums/report-problems)
+    *    [Announcements](https://knowyourmeme.com/forums/announcements)
+    *    [Suggest Ideas](https://knowyourmeme.com/forums/suggest-ideas)
+    * * * *
+        
+    * [All](https://knowyourmeme.com/forums/all)
 * [Editorials](https://knowyourmeme.com/editorials)
-* [Meme Insider Magazine](https://memeinsider.com/)
+    * [Interviews](https://knowyourmeme.com/editorials/interviews)
+    * [In the Media](https://knowyourmeme.com/editorials/in-the-media)
+    * [White Papers](https://knowyourmeme.com/editorials/white-papers)
+    * [Episode Notes](https://knowyourmeme.com/editorials/episode-notes)
+    * [Behind the Scenes](https://knowyourmeme.com/editorials/behind-the-scenes)
+    * [Meme Review](https://knowyourmeme.com/editorials/meme-review)
+    * [Collections](https://knowyourmeme.com/editorials/collections)
+    * [Poll](https://knowyourmeme.com/editorials/poll)
+    * [Guides](https://knowyourmeme.com/editorials/guides)
+    * [Meme Insider](https://knowyourmeme.com/editorials/meme-insider)
+    * [Insights](https://knowyourmeme.com/editorials/insights)
+    * [All](https://knowyourmeme.com/editorials)
+* [Episodes](https://knowyourmeme.com/episodes)
+* [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
-* [Policies and Guidelines](https://knowyourmeme.com/guidelines)
-* [Meme Store](https://thememestore.com/)
-* [Old site](https://knowyourmeme.com/old_site)
-* [Login](https://knowyourmeme.com/login)
 
-Know Your Meme is the property of Literally Media ©2024 Literally Media. All Rights Reserved.
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/166/Krista_Sudmalis_Interview_Banner_image_copy.jpg "'GigaChad' Creator And Fitness Photographer Krista Sudmalis On Making One Of The Most Viral Memes Of All Time")
+    
+    'GigaChad' Creator And Fitness Photographer Krista Sudmalis On Making One Of The Most Viral Memes Of All Time](https://knowyourmeme.com/editorials/interviews/gigachad-creator-and-fitness-photographer-krista-sudmalis-on-making-one-of-the-most-viral-memes-of-all-time)
+    
+* [![Redraw Trend Finds Cute Characters In Leaf Piles Celebrating 'It's Finally Autism'](https://i.kym-cdn.com/featured_items/icons/wide/000/026/183/it's_finally_autism.jpg "Redraw Trend Finds Cute Characters In Leaf Piles Celebrating 'It's Finally Autism'")
+    
+    Redraw Trend Finds Cute Characters In Leaf Piles Celebrating 'It's Finally Autism'](https://knowyourmeme.com/memes/its-finally-autism)
+    
+* [![You Post A Hot Take On Twitter And See This Guy In Your Replies, WYD?](https://i.kym-cdn.com/featured_items/icons/wide/000/026/182/cover4.jpg "A Celebration Of The 'Avatar' Chud, AKA 'Mansk'")
+    
+    A Celebration Of The 'Avatar' Chud, AKA 'Mansk'](https://knowyourmeme.com/memes/avatar-chud-mansk)
+    
+* [![Halloweenposting also known as Spookyposting refers to a series of crudely made Halloween-themed re-edits of notable memes and GIFs. Such images are turned into exploitable versions of the original meme, now with Halloween symbols like jack-o-lanterns, spiders, cobwebs, witches, and orange and black elements added in. The base memes are also recaptioned with Halloween buzzwords and phrases. The trend started in October 2024, due to a viral Twitter / X thread. The -posting trend was similar to Alienposting and Pirateposting which similarly added low-brow visual symbols to crudely alter the theme of a pre-existing meme.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/181/spookypost.jpg "Halloweenposting Is The Jollyposting Redux That Has Everyone Making Custom Spooky GIFs")
+    
+    Halloweenposting Is The Jollyposting Redux That Has Everyone Making Custom Spooky GIFs](https://knowyourmeme.com/memes/halloweenposting-spookyposting)
+    
+* [![WANTED DEAD of ALIVE Flynn Rider THIEF WANTED DEAD OF ALIVAR](https://i.kym-cdn.com/featured_items/icons/wide/000/026/180/tjc.jpg "'Zelda: Echoes Of Wisdom' Briefly Revives The 'Can't Get My Nose Right' Redraw Meme")
+    
+    'Zelda: Echoes Of Wisdom' Briefly Revives The 'Can't Get My Nose Right' Redraw Meme](https://knowyourmeme.com/memes/they-just-cant-get-my-nose-right)
+    
+
+##### Also Trending:
+
+[Government Making Hurricanes Conspiracy Theory](https://knowyourmeme.com/memes/government-making-hurricanes-conspiracy-theory "Government Making Hurricanes Conspiracy Theory") [Elon Musk Kubrick Stare](https://knowyourmeme.com/memes/elon-musk-kubrick-stare "Elon Musk Kubrick Stare") [Elon Musk Jumping](https://knowyourmeme.com/memes/elon-musk-jumping "Elon Musk Jumping") [Uzumaki Episode 2 Controversy](https://knowyourmeme.com/memes/events/uzumaki-episode-two-animation-quality-controversy "Uzumaki Episode 2 Controversy") [Hurricane Milton](https://knowyourmeme.com/memes/events/hurricane-milton "Hurricane Milton") [Mojo Jojo Beat Up](https://knowyourmeme.com/memes/mojo-jojo-beat-up-mojo-jojo-jumped "Mojo Jojo Beat Up") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy") [SnoopyWeekly Twitter / X Drama](https://knowyourmeme.com/memes/events/snoopyweekly-twitter-x-drama "SnoopyWeekly Twitter / X Drama")
 
 Copyright Infringement Notice
 =============================
@@ -80,27 +179,15 @@ Please note that under Section 512(f) of the Copyright Act, any person who knowi
 
 Please be advised that we may terminate the accounts of repeat copyright infringers.
 
-##### About
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| ##### About KYM<br><br>* [Our Story](https://knowyourmeme.com/about)<br>* [Site Rules](https://knowyourmeme.com/editorials/rules-and-guidelines/)<br>* [Policies and Guidelines](https://knowyourmeme.com/guidelines)<br>* [Credits](https://knowyourmeme.com/credits)<br>* [Contact](https://knowyourmeme.com/contact) | ##### Meme DB<br><br>* [Memes](https://knowyourmeme.com/memes)<br>* [Episodes](https://knowyourmeme.com/episodes)<br>* [Editorials](https://knowyourmeme.com/editorials)<br>* [Images](https://knowyourmeme.com/photos)<br>* [Videos](https://knowyourmeme.com/videos) | ##### KYM News<br><br>* [Newsfeed](https://knowyourmeme.com/news)<br>* [Staff](https://knowyourmeme.com/news/staff)<br>* [Contact](https://knowyourmeme.com/news/contact) | ##### Extras!<br><br>* [Chat](https://knowyourmeme.com/chat)<br>* [Forums](https://knowyourmeme.com/forums)<br>* [Style Guide](https://knowyourmeme.com/editorials/the-style-guide)<br>* [RSS Feeds](https://knowyourmeme.com/subscribe) | ##### KYM Social<br><br>* [Facebook](https://www.facebook.com/knowyourmeme)<br>* [Pinterest](https://www.pinterest.com/knowyourmeme/)<br>* [Twitter](https://twitter.com/knowyourmeme)<br>* [YouTube](https://www.youtube.com/user/KnowYourMeme) |
 
-* [Our Story](https://knowyourmeme.com/about)
-* [Site Rules](https://knowyourmeme.com/editorials/rules-and-guidelines/)
-* [Policies and Guidelines](https://knowyourmeme.com/guidelines)
-* [Credits](https://knowyourmeme.com/credits)
-* [Contact](https://knowyourmeme.com/contact)
+**Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
+© 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-##### Meme DB
+### Hi! You must login or signup first!
 
-* [Memes](https://knowyourmeme.com/memes)
-* [Episodes](https://knowyourmeme.com/episodes)
-
-##### News
-
-* [Staff](https://knowyourmeme.com/news/staff)
-* [Contact](https://knowyourmeme.com/news/contact)
-
-##### Extras!
-
-* [Style Guide](https://knowyourmeme.com/editorials/the-style-guide)
-* [RSS Feeds](https://knowyourmeme.com/subscribe)
-
- [![TikTok](/assets/redesign/tiktok.png)](https://tiktok.com/@knowyourmeme)[![YouTube](/assets/redesign/youtube.png)](https://www.youtube.com/channel/UCbrPqq29C9Q_TQP7OFFRzcw)[![Facebook](/assets/redesign/facebook.png)](https://facebook.com/knowyourmeme)[![Twitter](/assets/redesign/twitterx.png)](https://twitter.com/knowyourmeme)[![Discord](/assets/redesign/discord.png)](https://discord.com/invite/hxZaGpg)[![Snapchat](/assets/redesign/snapchat.png)](https://www.snapchat.com/p/41102048-8d2d-4288-b54e-c9e89b1afa44/1534121873233920)[![Instagram](/assets/redesign/instagram.png)](https://instagram.com/knowyourmeme)
+|     |     |
+| --- | --- |
+| ###### Already a memeber?<br><br>[Login Now!](https://knowyourmeme.com/login) | ###### Don't have an account?<br><br>[Sign up Now!](https://knowyourmeme.com/signup) |
