@@ -396,7 +396,7 @@ Featured travel offers
     
     Greece
     
-    From £1,299pp £1,859pp  
+    From £1,199pp £1,719pp  
     
     [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals)
     
@@ -543,6 +543,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![8 cultural cruise destinations in Europe](https://media.restless.co.uk/uploads/2024/10/cultural-cruise-destinations-in-europe-e1728478795624-768x370.jpg)](https://restless.co.uk/travel/cultural-cruise-destinations-in-europe/)
+
+### [8 cultural cruise destinations in Europe](https://restless.co.uk/travel/cultural-cruise-destinations-in-europe/) 
+
+[Read More »](https://restless.co.uk/travel/cultural-cruise-destinations-in-europe/)
+
 [![7 gorgeous Indian Ocean holiday destinations](https://media.restless.co.uk/uploads/2023/07/gorgeous-indian-ocean-holiday-destinations-768x498.jpg)](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
 
 ### [7 gorgeous Indian Ocean holiday destinations](https://restless.co.uk/travel/gorgeous-indian-ocean-holiday-destinations/)
@@ -572,12 +578,6 @@ New in travel
 ### [10 of the best destinations for an island hopping adventure](https://restless.co.uk/travel/the-best-destinations-for-an-island-hopping-adventure/) 
 
 [Read More »](https://restless.co.uk/travel/the-best-destinations-for-an-island-hopping-adventure/)
-
-[![Looking for a European escape? Here are 10 holiday properties in beautiful locations](https://media.restless.co.uk/uploads/2024/09/looking-for-a-european-escape-here-are-10-holiday-properties-in-beautiful-locations-768x289.jpg)](https://restless.co.uk/travel/looking-for-a-european-escape-holiday-properties-in-beautiful-locations/)
-
-### [Looking for a European escape? Here are 10 holiday properties in beautiful locations](https://restless.co.uk/travel/looking-for-a-european-escape-holiday-properties-in-beautiful-locations/)
-
-[Read More »](https://restless.co.uk/travel/looking-for-a-european-escape-holiday-properties-in-beautiful-locations/)
 
 Popular travel guides
 ---------------------
