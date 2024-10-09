@@ -56,6 +56,7 @@ Previous Next
     * [NETGEAR Smart Parental Controls](https://www.netgear.com/home/services/smart-parental-controls/)
     
     * [Blog](https://www.netgear.com/hub/)
+    * [Router or Mesh System](https://www.netgear.com/home/discover/router-vs-mesh-wifi/)
     * [WiFi 7](https://www.netgear.com/home/discover/wifi7/)
     * [WiFi 6E](https://www.netgear.com/home/wifi/wifi6e/)
     * [WiFi 6](https://www.netgear.com/home/discover/wifi6/)
@@ -63,7 +64,6 @@ Previous Next
     * [5G Mobile WiFi](https://www.netgear.com/home/mobile-wifi/portable-wifi/)
     * [Tri-Band / Quad-Band WiFi](https://www.netgear.com/home/wifi/mesh/tri-band-quad-band/)
     * [4G/5G Fixed Wireless For Home](https://www.netgear.com/home/mobile-wifi/fixedwireless/)
-    * [DOCSIS 3.1](https://www.netgear.com/home/wifi/modems/docsis31/)
     
     Shop By Brand :
     
@@ -321,7 +321,7 @@ Checkout
 
 Previous Next
 
-![Icon-Close](/system/v4.8/assets/images/Icon-Close.png)
+![Icon-Close](/system/v4.9/assets/images/Icon-Close.png)
 
 * [HOME SOLUTIONS](#t21827-k98153)
 * [BUSINESS SOLUTIONS](#t21827-k102990)
@@ -366,6 +366,7 @@ Previous Next
 [LEARNING CENTER](#navdrop6)
 
 * [Blog](https://www.netgear.com/hub/)
+* [Router or Mesh System](https://www.netgear.com/home/discover/router-vs-mesh-wifi/)
 * [WiFi 7](https://www.netgear.com/home/discover/wifi7/)
 * [WiFi 6E](https://www.netgear.com/home/wifi/wifi6e/)
 * [WiFi 6](https://www.netgear.com/home/discover/wifi6/)
@@ -373,7 +374,6 @@ Previous Next
 * [5G Mobile WiFi](https://www.netgear.com/home/mobile-wifi/portable-wifi/)
 * [Tri-Band / Quad-Band WiFi](https://www.netgear.com/home/wifi/mesh/tri-band-quad-band/)
 * [4G/5G Fixed Wireless For Home](https://www.netgear.com/home/mobile-wifi/fixedwireless/)
-* [DOCSIS 3.1](https://www.netgear.com/home/wifi/modems/docsis31/)
 
 [SUPPORT](https://www.netgear.com/support/)
 
@@ -594,7 +594,7 @@ Sign up and enjoy these benefits!
 
 [Sign In](https://store.netgear.com/loginshow?returnUrl=https%3A%2F%2Fwww.netgear.com%2Fabout%2Fprivacy-policy%2F)
 
-* [Management Team](https://www.netgear.com/about/management/)
+* [Leadership Team](https://www.netgear.com/about/management/)
 * [Investor Relations](https://investor.netgear.com/)
 * [Press Releases](https://www.netgear.com/about/press-releases/)
 * [Careers](https://www.netgear.com/about/careers/sanjose-usa/)
@@ -614,7 +614,7 @@ Sign up and enjoy these benefits!
 **NETGEAR Privacy Policy**
 --------------------------
 
-**Last Updated: October 1, 2024**
+**Last Updated: October 8, 2024**
 
 NETGEAR Inc., and its affiliates and subsidiaries (collectively, “**NETGEAR**” “**we**” “**us**” or “**our**”) takes your privacy seriously. This Privacy Policy ("**Policy**") describes how we collect, use, disclose, transfer, and otherwise process the Personal Information of website visitors, consumer customers and other individuals who interact with us ("**you**", "**yourself**" or "**your**"). It also tells you about your rights with respect to your Personal Information, and how you can reach us to update it or get answers to questions you may have about our privacy practices.
 
@@ -684,7 +684,7 @@ The information we collect varies depending on which NETGEAR product or service 
 * **Internet or other network activity information:**
     * This includes information such as Internet speed, error rates, app download and usage, firmware version, configuration settings, Wifi settings, Internet speed, voltage information, storage information, error rates, App download and usage, services and feature usage, crash diagnostics, and other performance information. We collect this information directly from your device.
     * Collecting this information enables us to better understand the visitors who come to our Sites and customers who use our Products and Services and what content and/or feature(s) is relevant and of interest to them. We also collect this information to provide you with the appropriate upgrade(s) and support and to improve our Products and Services. You can find additional information on the data we collect upon installation and/or activation of your NETGEAR product in our [Analytics Data Policy](https://www.netgear.com/about/analyticsdatapolicy/).
-    * o Some of this information may be collected using cookies and similar tracking technology. Third parties may also collect information using cookies. Some websites have “do not track” features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals. To learn more about our cookie policy, click [here](https://www.netgear.com/about/ad-cookie-policy).
+    * Some of this information may be collected using cookies and similar tracking technology. Third parties may also collect information using cookies. Some websites have “do not track” features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals. To learn more about our cookie policy, click [here](https://www.netgear.com/about/ad-cookie-policy).
 * **Geolocation data:** This includes broad geographic location (e.g. country or city-level location). We collect this information directly from your device.
 * **Audio, electronic, visual or similar information:** This includes information such as chat, images and audio, video or call recordings created when you contact us, such as when you contact our customer service team for support or assistance. We collect this information directly from you.
 * **Professional or employment-related information:** This includes information such as your business contact details in order to provide services at a business level. We may also collect your contact details and information about your professional qualifications, including your curriculum vitae and references when you apply for a job with NETGEAR. We collect this information directly from you, or from the job applicant in the case where you have been provided as a reference by a job applicant, by the job applicant.
@@ -829,15 +829,25 @@ In addition, NETGEAR has self-certified to the EU-U.S. Data Privacy Framework, t
 
 #### **10\. Data Privacy Framework Notice**
 
-NETGEAR complies with the EU-U.S. Data Privacy Framework ("EU-U.S. DPF"), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework ("Swiss-U.S. DPF") as set forth by the U.S. Department of Commerce. NETGEAR has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles ("EU-U.S. DPF Principles") with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF, from the United Kingdom in reliance on the UK Extension to the EU-U.S. DPF. NETGEAR has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.
+NETGEAR complies with the EU-U.S. Data Privacy Framework ("EU-U.S. DPF"), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework ("Swiss-U.S. DPF") as set forth by the U.S. Department of Commerce. NETGEAR has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles ("DPF Principles") with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF, from the United Kingdom in reliance on the UK Extension to the EU-U.S. DPF. NETGEAR has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.
 
 •    The Federal Trade Commission has jurisdiction over NETGEAR’s compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. If there is any conflict between the terms in this NETGEAR privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the DPF Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-•    We may employ third party service provider companies and individuals to provide, improve, and protect the Sites, Products and Services on our behalf. We maintain contracts with service providers that restrict their access, use, and disclosure of personal data in compliance with our DPF obligations, including the onward transfer provisions, and we may be liable if they fail to meet those obligations and we are responsible for the event giving rise to damage.
+•    We may employ third party service provider companies and individuals to provide, improve, and protect the Sites, Products and Services on our behalf. We maintain contracts with service providers that restrict their access, use, and disclosure of personal data in compliance with our DPF obligations, including the onward transfer provisions, and we may be liable if they fail to meet those obligations and we are responsible for the event giving rise to damage. If you are an EU, UK or Swiss individual, where we transfer your personal data to such service providers, NETGEAR remains responsible for the processing of that data by them and shall remain liable if they process data in a manner inconsistent with the DPF Principles, unless NETGEAR proves that it is not responsible for the event giving rise to the damage.
 
-•    Individuals with questions or complaints regarding this Privacy Policy should first submit inquiries via e-mail to [privacypolicy@netgear.com](mailto:privacypolicy@netgear.com). In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, NETGEAR has committed to refer unresolved privacy complaints under the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to NETGEAR’s independent dispute resolution body, JAMS, to assist with the complaint resolution process. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/eu-us-data-privacy-framework) for more information and to file a complaint. The services of JAMS are provided at no cost to you.
+•    We may be required to disclose personal data that we receive under the Data Privacy Framework in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Under limited circumstances, more fully described on the DPF website (available [here](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf)), binding arbitration may be a dispute resolution mechanism if your complaint is not resolved through these channels. The International Centre for Dispute Resolution-American Arbitration Association (“ICDR-AAA”) was selected by the U.S. Department of Commerce to administer arbitrations pursuant to and manage the arbitral fund. Please visit ICDR-AAA’s [website](http://go.adr.org/privacyshieldfund.html) for more information.
+•    If personal data covered by this Policy is to be used for a materially different purpose from that for which it was originally collected or subsequently authorized, or is to be disclosed to a third party in a manner not specified in this Policy, NETGEAR will provide you with an opportunity to choose whether to have your personal data so used or disclosed. Requests to opt out of such uses or disclosures of personal data should be sent to us via e-mail to [privacypolicy@netgear.com](mailto:privacypolicy@netgear.com).
+
+•    Certain personal data, such as information about medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, is considered "sensitive personal data". We will not use sensitive personal data for a purpose other than for the purpose for which it was originally collected or subsequently authorized unless we have received your explicit consent for such use.
+
+•    If you are an EU, UK or Swiss individual, you have the right to access and seek corrections and deletion of personal data and may make such requests by contact us using the contact details provided under the "[How to Contact Us and How to Exercise Your Privacy Rights](#13)" heading below. Please note that before we can provide you with any access to information, correct any inaccuracies, or delete your personal data, we may ask you to verify your identity and to provide other details to help us respond to your request.
+
+•    Individuals with questions or complaints regarding this Privacy Policy should first submit inquiries via e-mail to [privacypolicy@netgear.com](mailto:privacypolicy@netgear.com).
+
+•    We have further committed to refer unresolved privacy complaints under the DPF Principles to an independent dispute resolution mechanism, JAMS, based in the United States. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/dpf-dispute-resolution) for more information and to file a complaint. This service is provided free of charge to you.
+
+•    If your complaint cannot be resolved through the above channels, under limited circumstances, you may invoke a binding arbitration option before a Data Privacy Framework Panel for some residual claims not resolved by other redress mechanisms. Additional information on the arbitration process is available on the Data Privacy Framework website at [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
 #### **11\. Legal Basis for Processing**
 
