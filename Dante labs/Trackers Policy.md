@@ -1,4 +1,4 @@
-          [Skip to content](#main-content)
+        [Skip to content](#main-content)
 
 * [Dante Genome Test](https://us.dantelabs.com/products/whole-genome-sequencing "Dante Genome Test")
 * [Genomic Reports](https://us.dantelabs.com/collections/dante-labs-comprehensive-panels "Genomic Reports")
@@ -44,9 +44,7 @@ Category 3 — Functionality Cookies
 
 These cookies allow our websites to remember choices you make while browsing. For instance, we may store your geographic location in a cookie to ensure that we show you our website localized for your area. We may also remember preferences such as text size, fonts, and other customizable site elements. They may also be used to keep track of what featured products or videos have been viewed to avoid repetition. The information these cookies collect will not personally identify you, and they cannot track your browsing activity on non-Dante Health websites.
 
-![](//us.dantelabs.com/cdn/shop/files/logo_footer_20x8_crop_center.png?v=1712227790)
-
-![](//us.dantelabs.com/cdn/shop/files/logo_footer_240x100_crop_center.png?v=1712227790)
+![](//us.dantelabs.com/cdn/shop/files/logo_footer.png?crop=center&height=8&v=1712227790&width=20)
 
 Company
 
@@ -116,25 +114,19 @@ Popular searches
 
 Trending Now
 
-* Save 60% [![All Panels Package](//us.dantelabs.com/cdn/shop/products/all-panels-package-738620_20x_crop_center.gif?v=1678506804)
-    
-    ![All Panels Package](//us.dantelabs.com/cdn/shop/products/all-panels-package-738620.gif?v=1678506804)
+* Save 60% [![All Panels Package](//us.dantelabs.com/cdn/shop/products/all-panels-package-738620.gif?v=1678506804&width=20)
     
     Quick view](https://us.dantelabs.com/products/all-panels-package "All Panels Package")
     
     [All Panels Package](https://us.dantelabs.com/products/all-panels-package "All Panels Package") ~$499.00~ $199.00 /
     
-* [![Cardiovascular Report](//us.dantelabs.com/cdn/shop/files/cardiovascular-report-205351_20x_crop_center.jpg?v=1714589736)
-    
-    ![Cardiovascular Report](//us.dantelabs.com/cdn/shop/files/cardiovascular-report-205351.jpg?v=1714589736)
+* [![Cardiovascular Report](//us.dantelabs.com/cdn/shop/files/cardiovascular-report-205351.jpg?v=1714589736&width=20)
     
     Quick view](https://us.dantelabs.com/products/cardiovascular-panel "Cardiovascular Report")
     
     [Cardiovascular Report](https://us.dantelabs.com/products/cardiovascular-panel "Cardiovascular Report") $29.00 /
     
-* [![Circadian Report](//us.dantelabs.com/cdn/shop/files/circadian-report-549583_20x_crop_center.jpg?v=1714589968)
-    
-    ![Circadian Report](//us.dantelabs.com/cdn/shop/files/circadian-report-549583.jpg?v=1714589968)
+* [![Circadian Report](//us.dantelabs.com/cdn/shop/files/circadian-report-549583.jpg?v=1714589968&width=20)
     
     Quick view](https://us.dantelabs.com/products/circadian-panel "Circadian Report")
     
