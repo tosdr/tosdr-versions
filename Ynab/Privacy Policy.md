@@ -46,11 +46,11 @@ It's pronounced ”why-nab”](https://www.youneedabudget.com/)
 
 * [Log In](https://app.ynab.com/users/sign_in)
 * [Start Your Free Trial](https://www.youneedabudget.com/sign-up)[Accept Your Invite](https://www.youneedabudget.com/sign-up)
-* [![](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/64a5b641ee316f67487d9500_icon_mobilenav_method.svg)
+* [![](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/6706d2a70c6755ef7adea2ed_open_book_firefly.svg)
     
-    The Method](https://www.youneedabudget.com/the-four-rules)[![](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/64a5b6400eaa7440ca98bdc9_icon_mobilenav_app.svg)
+    The Method](https://www.youneedabudget.com/the-four-rules)[![](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/6706d2a799240c3f3cf186cc_Cellphone_firefly.svg)
     
-    The App](https://www.youneedabudget.com/features)[![](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/64a5b641ae27f48137f3061c_icon_mobilenav_pricing.svg)
+    The App](https://www.youneedabudget.com/features)[![](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/6706c8ac7c819ed21dd5c1f3_dollar_firefly.svg)
     
     Pricing](https://www.youneedabudget.com/pricing)
     
@@ -358,19 +358,19 @@ Your Privacy Choices
 
 [TrueLayer Agent Disclosure](https://www.youneedabudget.com/terms/uk-switzerland-eea#truelayer-agent-disclosure)
 
-###### Company
+Company
 
 [About](https://www.youneedabudget.com/about-us)[Careers](https://www.youneedabudget.com/careers)[Press](https://www.youneedabudget.com/press)[YNAB: The Book](https://www.youneedabudget.com/ynab-the-book)
 
-###### Programs
+Programs
 
 [YNAB for the Workplace](https://www.youneedabudget.com/wellness)[YNAB for College Students](https://www.youneedabudget.com/college)[Certified Coaching](https://www.youneedabudget.com/coaching)[YNAB For Good](https://www.youneedabudget.com/ynab-for-good)
 
-###### App
+App
 
 [Status](https://ynabstatus.com/)[What's New](https://www.youneedabudget.com/whats-new)[API](https://api.ynab.com/)[Cancellation](https://www.youneedabudget.com/cancellation)[Help Center](https://www.youneedabudget.com/help-center)
 
-###### Legal
+Legal
 
 [Terms](https://www.youneedabudget.com/terms)[Security](https://www.youneedabudget.com/security)[Privacy Policy](https://www.youneedabudget.com/privacy-policy)[California Privacy Policy](https://www.youneedabudget.com/privacy-policy/california-privacy-disclosure)
 
