@@ -52,7 +52,7 @@ We send traffic to your video pages by listing your content previews on our site
 Check out some of our sites:
 ----------------------------
 
-### Each day our sites receive **19.3+ million visitors** who make more than **80 million** **clicks per day**.
+### Each day our sites receive **millions of visitors** who make **tens of** **millions** **clicks**.
 
 [![](https://tubetraffic.com/wp-content/uploads/2022/02/logo-3.png "logo")](https://fuq.com/)
 
