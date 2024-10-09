@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![American Water shuts down online services after cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        American Water shuts down online services after cyberattack](https://www.bleepingcomputer.com/news/security/american-water-shuts-down-online-services-after-cyberattack/)
-    * [![Russia arrests US-sanctioned Cryptex founder, 95 other linked suspects](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/)
+    * [![Discord blocked in Russia and Turkey for spreading illegal content](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Russia arrests US-sanctioned Cryptex founder, 95 other linked suspects](https://www.bleepingcomputer.com/news/security/russia-arrests-us-sanctioned-cryptex-founder-95-other-linked-suspects/)
-    * [![Comcast and Truist Bank customers caught up in FBCS data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Discord blocked in Russia and Turkey for spreading illegal content](https://www.bleepingcomputer.com/news/government/discord-blocked-in-russia-and-turkey-for-spreading-illegal-content/)
+    * [![Ivanti warns of three more CSA zero-days exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Comcast and Truist Bank customers caught up in FBCS data breach](https://www.bleepingcomputer.com/news/security/comcast-and-truist-bank-customers-caught-up-in-fbcs-data-breach/)
-    * [![AT&T, Verizon reportedly hacked to target US govt wiretapping platform](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ivanti warns of three more CSA zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-three-more-csa-zero-days-exploited-in-attacks/)
+    * [![European govt air-gapped systems breached using custom malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
+        European govt air-gapped systems breached using custom malware](https://www.bleepingcomputer.com/news/security/european-govt-air-gapped-systems-breached-using-custom-malware/)
     
-    * [![How to get a refurbished MacBook Air for $369.99](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Palo Alto Networks warns of firewall hijack bugs with public exploit](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        How to get a refurbished MacBook Air for $369.99](https://www.bleepingcomputer.com/offer/deals/how-to-get-a-refurbished-macbook-air-for-36999/)
-    * [![New scanner finds Linux, UNIX servers exposed to CUPS RCE attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Palo Alto Networks warns of firewall hijack bugs with public exploit](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-firewall-hijack-bugs-with-public-exploit/)
+    * [![Dive into a new skill by by learning SQL and NoSQL with this course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New scanner finds Linux, UNIX servers exposed to CUPS RCE attacks](https://www.bleepingcomputer.com/news/software/new-scanner-finds-linux-unix-servers-exposed-to-cups-rce-attacks/)
-    * [![Microsoft: Windows 11 22H2 Home and Pro reached end of servicing](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Dive into a new skill by by learning SQL and NoSQL with this course bundle](https://www.bleepingcomputer.com/offer/deals/dive-into-a-new-skill-by-by-learning-sql-and-nosql-with-this-course-bundle/)
+    * [![Mozilla fixes Firefox zero-day actively exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft: Windows 11 22H2 Home and Pro reached end of servicing](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-22h2-home-and-pro-reached-end-of-servicing/)
-    * [![New Mamba 2FA bypass service targets Microsoft 365 accounts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
+    * [![Microsoft fixes Word bug that deleted documents when saving](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New Mamba 2FA bypass service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-mamba-2fa-bypass-service-targets-microsoft-365-accounts/)
+        Microsoft fixes Word bug that deleted documents when saving](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-word-bug-that-deleted-documents-when-saving/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Airgapped](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Chinese Hackers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    European govt air-gapped systems breached using custom malware](https://www.bleepingcomputer.com/news/security/european-govt-air-gapped-systems-breached-using-custom-malware/)
-* [![Word](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Microsoft: Word deletes some documents instead of saving them](https://www.bleepingcomputer.com/news/microsoft/microsoft-word-for-microsoft-365-deletes-some-documents-instead-of-saving-them/)
+    AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
 * [![Mamba Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New Mamba 2FA bypass service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-mamba-2fa-bypass-service-targets-microsoft-365-accounts/)
+* [![Word](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Microsoft: Word deletes some documents instead of saving them](https://www.bleepingcomputer.com/news/microsoft/microsoft-word-for-microsoft-365-deletes-some-documents-instead-of-saving-them/)
 
 ##### Follow us:
 
