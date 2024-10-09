@@ -5,6 +5,12 @@
 * [Testimonials](https://www.alignable.com/testimonials)
 * Resources
     
+    * [Find Networking Events](https://www.alignable.com/networking-events/near-me)
+    * [Alignable University](https://www.alignable.com/learn/alignable-university)
+    * [Support](https://support.alignable.com/hc/en-us?_gl=1*1obq0m0*_ga*MTUwMTAxNzI2MS4xNzE5ODQ1OTI4*_ga_WFC4S5R61P*MTcyNDE4Mzk5Ni42OS4xLjE3MjQxODUwMzcuMC4wLjA.)
+    * [Blog](https://www.alignable.com/blog)
+    * [Learning Center](https://www.alignable.com/learn)
+    
 
 [Log in](https://www.alignable.com/biz_users/sign_in)[Join Now](https://www.alignable.com/biz_users/sign_up?content_code=Website_Home&invite_code=website)
 
