@@ -269,7 +269,7 @@ Wesfarmers Limited ABN 28 008 984 049
 
 [$69.55
 
-ASX: +0.87%](https://www.wesfarmers.com.au/investor-centre/your-shareholding/share-price "Investor Centre")
+ASX: 0.00%](https://www.wesfarmers.com.au/investor-centre/your-shareholding/share-price "Investor Centre")
 
 * [Investor Centre](https://www.wesfarmers.com.au/investor-centre)
 * [Annual Report](https://www.wesfarmers.com.au/docs/default-source/reports/2024-wesfarmers-annual-report---interactive.pdf?sfvrsn=1bc5e4bb_3)
