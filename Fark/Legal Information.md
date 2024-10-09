@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![Fark25 Party](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want to see behind the curtain? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+$10 a month since 19 aught diddly.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [States sue TikTok over app's "digital nicotine" effects on kids' mental health. Drew seen getting ready for lawsuit over Fark's "bath salts" effects](https://www.fark.com/goto/13420856) ( [cnbc.com](https://www.fark.com/goto/13420856) ) » [(6 comments)](https://www.fark.com/comments/13420856/States-sue-TikTok-over-apps-digital-nicotine-effects-on-kids-mental-health-Drew-seen-getting-ready-for-lawsuit-over-Farks-bath-salts-effects) |
-| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13420232) ( [fark.com](https://www.fark.com/goto/13420232) ) » [(24 comments)](https://www.fark.com/comments/13420232/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Sports](https://www.fark.com/sports/) | [Grimace recommends you take mass transit to Citi Field](https://www.fark.com/goto/13420792) ( [ftw.usatoday.com](https://www.fark.com/goto/13420792) ) » [(0 comments)](https://www.fark.com/comments/13420792/Grimace-recommends-you-take-mass-transit-to-Citi-Field) |
-| [Business](https://www.fark.com/business/) | [Did you pay $2,000 for Samsung's folding phone expecting that you would receive security updates for many years to come? Sucker](https://www.fark.com/goto/13420860) ( [arstechnica.com](https://www.fark.com/goto/13420860) ) » [(2 comments)](https://www.fark.com/comments/13420860/Did-you-pay-$2000-for-Samsungs-folding-phone-expecting-that-you-would-receive-security-updates-for-many-years-to-come-Sucker) |
-| [STEM](https://www.fark.com/stem/) | [States sue TikTok over app's "digital nicotine" effects on kids' mental health. Drew seen getting ready for lawsuit over Fark's "bath salts" effects](https://www.fark.com/goto/13420856) ( [cnbc.com](https://www.fark.com/goto/13420856) ) » [(6 comments)](https://www.fark.com/comments/13420856/States-sue-TikTok-over-apps-digital-nicotine-effects-on-kids-mental-health-Drew-seen-getting-ready-for-lawsuit-over-Farks-bath-salts-effects) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Dogma may finally get resurrected](https://www.fark.com/goto/13420956) ( [youtube.com](https://www.fark.com/goto/13420956) ) » [(3 comments)](https://www.fark.com/comments/13420956/Dogma-may-finally-get-resurrected) |
-| [Fandom](https://www.fark.com/fandom/) | [If only they'd played Wake The Dead to include Raul Julia as well](https://www.fark.com/goto/13420906) ( [youtube.com](https://www.fark.com/goto/13420906) ) » [(3 comments)](https://www.fark.com/comments/13420906/If-only-theyd-played-Wake-The-Dead-to-include-Raul-Julia-as-well) |
-| [D'awww](https://www.fark.com/dawww/) | [Fark's favorite soft-spoken Texas bee lady shouts "OH SHIAT" and puts on protective gear](https://www.fark.com/goto/13420972) ( [youtube.com](https://www.fark.com/goto/13420972) ) » [(1 comment)](https://www.fark.com/comments/13420972/Farks-favorite-soft-spoken-Texas-bee-lady-shouts-OH-SHIAT-puts-on-protective-gear) |
-| [Food](https://www.fark.com/food/) | [Smells like fish](https://www.fark.com/goto/13420748) ( [foxnews.com](https://www.fark.com/goto/13420748) ) » [(7 comments)](https://www.fark.com/comments/13420748/Smells-like-fish) |
-| [Politics](https://www.fark.com/politics/) | [A category 5 moron](https://www.fark.com/goto/13420764) ( [mediaite.com](https://www.fark.com/goto/13420764) ) » [(68 comments)](https://www.fark.com/comments/13420764/A-category-5-moron) |
+| [Main](https://www.fark.com/) | [Not News: Florida man who lives in Tampa Bay and calls himself "Lieutenant Dan" is refusing to evacuate ahead of Milton, says he'll "ride it out" Fark: He lives IN Tampa Bay, on a boat, and is an amputee. Double fark: He did that for Helene too](https://www.fark.com/goto/13421148) ( [thedailybeast.com](https://www.fark.com/goto/13421148) ) » [(13 comments)](https://www.fark.com/comments/13421148/Not-News-Florida-man-who-lives-in-Tampa-Bay-calls-himself-Lieutenant-Dan-is-refusing-to-evacuate-ahead-of-Milton-says-hell-ride-it-out-Fark-He-lives-IN-Tampa-Bay-on-a-boat-is-an-amputee-Double-fark-He-did-that-for-Helene-too) |
+| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13420232) ( [fark.com](https://www.fark.com/goto/13420232) ) » [(86 comments)](https://www.fark.com/comments/13420232/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Sports](https://www.fark.com/sports/) | [Dad, we know you think you're funny, but please, please, don't piss in people's shoes make fun of Taylor and Travis, kay?](https://www.fark.com/goto/13421182) ( [awfulannouncing.com](https://www.fark.com/goto/13421182) ) » [(0 comments)](https://www.fark.com/comments/13421182/Dad-we-know-you-think-youre-funny-but-please-please-dont-piss-in-peoples-shoes-make-fun-of-Taylor-Travis-kay) |
+| [Business](https://www.fark.com/business/) | [Big Lots to get lots smaller](https://www.fark.com/goto/13421018) ( [11alive.com](https://www.fark.com/goto/13421018) ) » [(0 comments)](https://www.fark.com/comments/13421018/Big-Lots-to-get-lots-smaller) |
+| [STEM](https://www.fark.com/stem/) | [Amateur radio operators prepare for the onslaught of Milton, proving that sometimes you need a bunch of hams](https://www.fark.com/goto/13421280) ( [cbsaustin.com](https://www.fark.com/goto/13421280) ) » [(7 comments)](https://www.fark.com/comments/13421280/Amateur-radio-operators-prepare-for-onslaught-of-Milton-proving-that-sometimes-you-need-a-bunch-of-hams) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Meh. The Venture Bros. did it better](https://www.fark.com/goto/13420644) ( [slashfilm.com](https://www.fark.com/goto/13420644) ) » [(10 comments)](https://www.fark.com/comments/13420644/Meh-The-Venture-Bros-did-it-better) |
+| [Fandom](https://www.fark.com/fandom/) | [If only they'd played Wake The Dead to include Raul Julia as well](https://www.fark.com/goto/13420906) ( [youtube.com](https://www.fark.com/goto/13420906) ) » [(7 comments)](https://www.fark.com/comments/13420906/If-only-theyd-played-Wake-The-Dead-to-include-Raul-Julia-as-well) |
+| [D'awww](https://www.fark.com/dawww/) | [Fark's favorite soft-spoken Texas bee lady shouts "OH SHIAT" and puts on protective gear](https://www.fark.com/goto/13420972) ( [youtube.com](https://www.fark.com/goto/13420972) ) » [(2 comments)](https://www.fark.com/comments/13420972/Farks-favorite-soft-spoken-Texas-bee-lady-shouts-OH-SHIAT-puts-on-protective-gear) |
+| [Food](https://www.fark.com/food/) | [You know it is real. Assuming they can find the keys, dozens of Florida Waffle Houses close before Milton arrives](https://www.fark.com/goto/13421130) ( [usatoday.com](https://www.fark.com/goto/13421130) ) » [(7 comments)](https://www.fark.com/comments/13421130/You-know-it-is-real-Assuming-they-can-find-keys-dozens-of-Florida-Waffle-Houses-close-before-Milton-arrives) |
+| [Politics](https://www.fark.com/politics/) | [Dum dum dum dum dum](https://www.fark.com/goto/13421022) ( [nbcnews.com](https://www.fark.com/goto/13421022) ) » [(2 comments)](https://www.fark.com/comments/13421022/Dum-dum-dum-dum-dum) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 08 2024 21:42:49  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 09 2024 03:43:19  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
