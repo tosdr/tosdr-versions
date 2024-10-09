@@ -175,6 +175,8 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [PA: Senate Dems Try to Force Vote on Universal Registration Checks and Red Flags](https://www.thegunpage.com/pa-senate-dems-try-to-force-vote-on-universal-registration-checks-and-red-flags/10611084)
+* [Is the 10mm a Good Self-Defense Round? Debunking the Myths and Misconceptions](https://www.thegunpage.com/is-the-10mm-a-good-self-defense-round-debunking-the-myths-and-misconceptions/10611081)
 * [Browning Citori 825: a Modern Superposed?](https://www.thegunpage.com/browning-citori-825-a-modern-superposed/10611079)
 * [Former Alaska Gun Store Owner Acquitted On Federal Firearms Charge](https://www.thegunpage.com/former-alaska-gun-store-owner-acquitted-on-federal-firearms-charge/10611078)
 * [Century Arms And Sharps Bros. Unveil MB47](https://www.thegunpage.com/century-arms-and-sharps-bros-unveil-mb47/10611080)
@@ -183,8 +185,6 @@ Recent Posts
 * [The WSJ Reveals Mexican Cartels’ Favorite Firepower](https://www.thegunpage.com/the-wsj-reveals-mexican-cartels-favorite-firepower/10611065)
 * [Copa Aguila 2024 Attracts More Than 350 Competitors](https://www.thegunpage.com/copa-aguila-2024-attracts-more-than-350-competitors/10611077)
 * [New MDT CRBN Rifle Stock](https://www.thegunpage.com/new-mdt-crbn-rifle-stock/10611068)
-* [House Oversight Committee Subpoenas White House and ATF Over Alleged Gun Control Collusion](https://www.thegunpage.com/house-oversight-committee-subpoenas-white-house-and-atf-over-alleged-gun-control-collusion/10611063)
-* [Team Blaser Shooters Claim Top Titles At 2024 World Skeet Championships](https://www.thegunpage.com/team-blaser-shooters-claim-top-titles-at-2024-world-skeet-championships/10611069)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -226,6 +226,8 @@ Contact Us
 
 Recent Comments
 
+* Jake on [America In The Age Of Stupidity: Why Can You Never Win An Argument With A Democrat?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-can-you-never-win-an-argument-with-a-democrat/#comment-782571)
+* Kevin M. Nadzam on [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/#comment-782569)
 * charles wilkins on [The Worst](https://www.conservativedailynews.com/2024/10/the-worst/#comment-782566)
 * Jeff L on [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/#comment-782546)
 * Stanley Warner on [Biden-Harris Admin Threw Over $40 Billion At An Internet Buildout — Three Years Later Not A Single Project Is Underway](https://www.conservativedailynews.com/2024/10/biden-harris-admin-threw-over-40-billion-at-an-internet-buildout-three-years-later-not-a-single-project-is-underway/#comment-782544)
@@ -233,8 +235,6 @@ Recent Comments
 * Stanley Warner on [On The One-Year Anniversary Of October 7 — Let Israel Win](https://www.conservativedailynews.com/2024/10/on-the-one-year-anniversary-of-october-7-let-israel-win/#comment-782542)
 * TennesseeConservative on [Popular Money Advice You Shouldn’t Take](https://www.conservativedailynews.com/2024/10/popular-money-advice-you-shouldnt-take/#comment-782538)
 * Stanley Warner on [Biden Admin To End Parole Program For Hundreds Of Thousands Of Migrants](https://www.conservativedailynews.com/2024/10/biden-admin-to-end-parole-program-for-hundreds-of-thousands-of-migrants/#comment-782524)
-* KayCee on [Don’t Tell Helene Victims About We The People](https://www.conservativedailynews.com/2024/10/dont-tell-helene-victims-about-we-the-people/#comment-782499)
-* Stanley Warner on [The Left’s Word Games Can’t Conceal ‘Third World’ Impact of Open Borders](https://www.conservativedailynews.com/2024/10/the-lefts-word-games-cant-conceal-third-world-impact-of-open-borders/#comment-782491)
 
 [Close](#)
 
