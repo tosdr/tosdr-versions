@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Elon Musk Kubrick Stare](https://knowyourmeme.com/memes/elon-musk-kubrick-stare "Elon Musk Kubrick Stare") [Uzumaki Episode Two Animation Quality Controversy](https://knowyourmeme.com/memes/events/uzumaki-episode-two-animation-quality-controversy "Uzumaki Episode Two Animation Quality Controversy") [Hurricane Milton](https://knowyourmeme.com/memes/events/hurricane-milton "Hurricane Milton")
+[Hurricane Milton](https://knowyourmeme.com/memes/events/hurricane-milton "Hurricane Milton") [Mojo Jojo Beat Up](https://knowyourmeme.com/memes/mojo-jojo-beat-up-mojo-jojo-jumped "Mojo Jojo Beat Up") [Elon Musk Kubrick Stare](https://knowyourmeme.com/memes/elon-musk-kubrick-stare "Elon Musk Kubrick Stare") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Yo Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
