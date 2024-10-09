@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Where It'S AtDustin Lynch<br><br>11:38pm |
-| She'S Somebody'S DaughterDrew Baldridge<br><br>11:35pm |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>11:33pm |
-| Last NightMorgan Wallen<br><br>11:30pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>11:27pm |
+| Thank GodKane Brown Ft Katelyn Brown<br><br>4:58am |
+| Whatcha See Is Whatcha GetChris Janson<br><br>4:56am |
+| Thinkin 'Bout MeMorgan Wallen<br><br>4:53am |
+| Beatles And EaglesThe Frontman<br><br>4:49am |
+| Not TodayMitchell Tenpenny<br><br>4:40am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Spanish • Western
+Top 40 • Eastern
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-News Talk • Eastern
+Sports • Midwest
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Country • Western
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
