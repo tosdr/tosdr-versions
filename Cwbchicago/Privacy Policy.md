@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Jeffery-Campos-326x245.jpg)](https://cwbchicago.com/2024/10/suburban-man-charged-with-murdering-victim-during-altercation-in-river-north-on-saturday.html "Suburban man charged with murdering victim during altercation in River North on Saturday")
-
-River North
-
-### [Suburban man charged with murdering victim during altercation in River North on Saturday](https://cwbchicago.com/2024/10/suburban-man-charged-with-murdering-victim-during-altercation-in-river-north-on-saturday.html "Suburban man charged with murdering victim during altercation in River North on Saturday")
-
-[October 7, 2024 6:03 AM](https://cwbchicago.com/2024/10)
-
-A Cicero man will be in court later today, charged with murdering another man in the Hubbard Street nightlife district downtown.[](https://cwbchicago.com/2024/10/suburban-man-charged-with-murdering-victim-during-altercation-in-river-north-on-saturday.html "Suburban man charged with murdering victim during altercation in River North on Saturday")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Solider-Field-2024-326x245.jpg)](https://cwbchicago.com/2024/10/worker-stabbed-after-bears-game-at-soldier-field.html "Worker stabbed after Bears game at Soldier Field")
-
-South Loop
-
-### [Worker stabbed after Bears game at Soldier Field](https://cwbchicago.com/2024/10/worker-stabbed-after-bears-game-at-soldier-field.html "Worker stabbed after Bears game at Soldier Field")
-
-[October 7, 2024 5:46 AM](https://cwbchicago.com/2024/10)
-
-A suspect is in custody after a man was stabbed at Soldier Field after the Bears game on Sunday.[](https://cwbchicago.com/2024/10/worker-stabbed-after-bears-game-at-soldier-field.html "Worker stabbed after Bears game at Soldier Field")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Greenview-and-Morse-chicago-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-critically-injured-in-rogers-park.html "Man shot, critically injured in Rogers Park")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/2024.10.06-1600-block-howard-shots-fired-326x245.jpg)](https://cwbchicago.com/2024/10/camera-records-second-shooting-in-a-week-in-rogers-park-a-man-was-murdered-at-the-same-spot-in-june.html "Camera records second shooting in a week in Rogers Park. A man was murdered at the same spot in June.")
 
 Rogers Park
 
-### [Man shot, critically injured in Rogers Park](https://cwbchicago.com/2024/10/man-shot-critically-injured-in-rogers-park.html "Man shot, critically injured in Rogers Park")
+### [Camera records second shooting in a week in Rogers Park. A man was murdered at the same spot in June.](https://cwbchicago.com/2024/10/camera-records-second-shooting-in-a-week-in-rogers-park-a-man-was-murdered-at-the-same-spot-in-june.html "Camera records second shooting in a week in Rogers Park. A man was murdered at the same spot in June.")
 
-[October 6, 2024 7:46 AM](https://cwbchicago.com/2024/10)
+[October 7, 2024 5:39 PM](https://cwbchicago.com/2024/10)
 
-A man was shot and critically injured in Rogers Park on Sunday morning, Chicago police said. According to officers, he did not cooperate with CPD’s investigation before heading into surgery.[](https://cwbchicago.com/2024/10/man-shot-critically-injured-in-rogers-park.html "Man shot, critically injured in Rogers Park")
+What in the world is going on in the 1600 block of West Howard? And why aren’t Chicago police and the local alderman fixing it?[](https://cwbchicago.com/2024/10/camera-records-second-shooting-in-a-week-in-rogers-park-a-man-was-murdered-at-the-same-spot-in-june.html "Camera records second shooting in a week in Rogers Park. A man was murdered at the same spot in June.")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/dating-map-326x245.jpg)](https://cwbchicago.com/2024/10/armed-robbers-are-using-dating-apps-to-lure-women-into-traps-chicago-police-say.html "Armed robbers are using dating apps to lure women into traps, Chicago police say")
+
+Auburn Gresham
+
+### [Armed robbers are using dating apps to lure women into traps, Chicago police say](https://cwbchicago.com/2024/10/armed-robbers-are-using-dating-apps-to-lure-women-into-traps-chicago-police-say.html "Armed robbers are using dating apps to lure women into traps, Chicago police say")
+
+[October 7, 2024 5:35 PM](https://cwbchicago.com/2024/10)
+
+Armed men are luring women into robbery traps after meeting them on dating apps, Chicago police say. Three women have been targeted so far when they arrived at rendezvous locations in Auburn Gresham and Chatham.[](https://cwbchicago.com/2024/10/armed-robbers-are-using-dating-apps-to-lure-women-into-traps-chicago-police-say.html "Armed robbers are using dating apps to lure women into traps, Chicago police say")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Jeffery-Campos-326x245.jpg)](https://cwbchicago.com/2024/10/man-murdered-victim-in-cold-blood-during-brawl-among-river-north-bargoers-prosecutors-say.html "Man murdered victim in cold blood during brawl among River North bargoers, prosecutors say")
+
+River North
+
+### [Man murdered victim in cold blood during brawl among River North bargoers, prosecutors say](https://cwbchicago.com/2024/10/man-murdered-victim-in-cold-blood-during-brawl-among-river-north-bargoers-prosecutors-say.html "Man murdered victim in cold blood during brawl among River North bargoers, prosecutors say")
+
+[October 7, 2024 2:42 PM](https://cwbchicago.com/2024/10)
+
+A man on probation for a felony gun case shot and killed another man in cold blood as bargoers brawled on a River North street over the weekend, prosecutors said Monday.[](https://cwbchicago.com/2024/10/man-murdered-victim-in-cold-blood-during-brawl-among-river-north-bargoers-prosecutors-say.html "Man murdered victim in cold blood during brawl among River North bargoers, prosecutors say")
 
 Search
 
