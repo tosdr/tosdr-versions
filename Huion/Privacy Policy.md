@@ -305,7 +305,6 @@ As the scope of services on the website is extending, we may from time to time u
 * Member
 * [Register](https://account.huion.com/register?redirect_url=https://www.huion.com/&app_id=us_official_website)
 * [Login](https://account.huion.com/login?redirect_url=https://www.huion.com/&app_id=us_official_website)
-* [Gallery](https://www.huion.com/Gallery/)
 
 Follow Us：
 
