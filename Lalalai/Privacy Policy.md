@@ -30,7 +30,11 @@ En
 
 Echo & Reverb Remover Remove echo and reverb from vocals, voice recordings, songs, and videos.](https://www.lalal.ai/echo-reverb-remover/)[![Lead/Back Splitter](https://s.lalal.ai/img/lead-back-vocal-remover/lead-back-vocal-icon.svg)
 
-Lead/Back Splitter Separate lead and backing vocals with pinpoint accuracy.](https://www.lalal.ai/lead-back-vocals-remover/)[Apps & Plugins](https://www.lalal.ai/apps-and-plugins/) [Package Pricing](https://www.lalal.ai/pricing/) [Enterprise Solution](https://www.lalal.ai/business-solutions/) [Help](https://www.lalal.ai/help/) [About](https://www.lalal.ai/about/)
+Lead/Back Splitter Separate lead and backing vocals with pinpoint accuracy.](https://www.lalal.ai/lead-back-vocals-remover/)
+
+ ![Chevron](https://s.lalal.ai/img/common/chevron.svg) More
+
+[Apps & Plugins](https://www.lalal.ai/apps-and-plugins/) [Package Pricing](https://www.lalal.ai/pricing/) [Enterprise Solution](https://www.lalal.ai/business-solutions/) [Help](https://www.lalal.ai/help/) [About](https://www.lalal.ai/about/)
 
 [Blog](https://www.lalal.ai/blog/)
 
