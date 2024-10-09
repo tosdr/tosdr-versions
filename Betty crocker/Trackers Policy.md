@@ -90,11 +90,6 @@ Menu
         * [Game-Day Dips](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/recipes/game-day-dips)
         * [Game-Day Desserts](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/seasonal-ideas/game-day-brownies-and-desserts)
         * [Game-Day Appetizers](https://www.bettycrocker.com/menus-holidays-parties/mhplibrary/parties-and-get-togethers/game-day-the-slow-cooker-way)
-    * Ovens Off
-        * [Grilling Recipes](https://www.bettycrocker.com/recipes/preparation/grill-recipes)
-        * [Salad Recipes](https://www.bettycrocker.com/recipes/dishes/salad-recipes)
-        * [Slow Cooker Recipes](https://www.bettycrocker.com/recipes/preparation/slow-cooker-recipes)
-        * [Smoker Recipes](https://www.bettycrocker.com/recipes/preparation/smoker-recipes)
     
 * [How-To](https://www.bettycrocker.com/how-to)
     
