@@ -180,12 +180,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Economic outcomes destroy pro-Coalition media falsehoods — one by one](https://independentaustralia.net/article-display/economic-outcomes-destroy-pro-coalition-media-falsehoods-one-by-one,19048 "Permanent Link : Economic outcomes destroy pro-Coalition media falsehoods — one by one")
+* [EDITORIAL: No self-respecting democracy deserves Dutton](https://independentaustralia.net/article-display/editorial-no-self-respecting-democracy-deserves-dutton,19058 "Permanent Link : EDITORIAL: No self-respecting democracy deserves Dutton")
 * [Social housing shortages a major national concern](https://independentaustralia.net/article-display/social-housing-shortages-a-major-national-concern,19057 "Permanent Link : Social housing shortages a major national concern")
 * [Parliamentary changes to NDIS making life harder for disabled](https://independentaustralia.net/article-display/parliamentary-changes-to-ndis-making-life-harder-for-disabled,19056 "Permanent Link : Parliamentary changes to NDIS making life harder for disabled")
 * [Labor Government promises NBN to remain in public hands](https://independentaustralia.net/article-display/labor-government-promises-nbn-to-remain-in-public-hands,19055 "Permanent Link : Labor Government promises NBN to remain in public hands")
 * [Right-wing media continues Dan Andrews witch hunt](https://independentaustralia.net/article-display/right-wing-media-continues-dan-andrews-witch-hunt,19052 "Permanent Link : Right-wing media continues Dan Andrews witch hunt")
 * [Queensland health crisis being hidden by government and media](https://independentaustralia.net/article-display/queensland-health-crisis-being-hidden-by-government-and-media,19051 "Permanent Link : Queensland health crisis being hidden by government and media")
-* [The Dom Pérignon buyers' scheme](https://independentaustralia.net/article-display/the-dom-prignon-buyers-scheme,19053 "Permanent Link : The Dom Pérignon buyers' scheme")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
