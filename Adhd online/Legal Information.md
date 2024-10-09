@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-**[Important Notice to Our Valued Patients](https://adhdonline.com/articles/important-notice-to-our-valued-patients/)** | **[Considering Switching to ADHD Online?](https://adhdonline.com/articles/considering-us-instead-of-your-current-provider/)**
+**⚠️ Hurricane Milton Update: [Your Safety is Our Priority](#hurricane)**
 
 [![ADHD Online from Mentavi Health](https://adhdonline.com/wp-content/uploads/2022/09/ADHD-Online-Full-Color-Logo-November-2023.png)](https://adhdonline.com/)
 
@@ -363,7 +363,7 @@ If you have a concern about the safety and quality of care, please contact ADHD 
 
  ![](https://adhdonline.com/wp-content/uploads/2023/10/Portal-outage-sign.png)
 
-We know Hurricane Helene is impacting many states in the southeast. Clinicians and patients may face challenges attending scheduled appointments without prior notice. Additionally, filling prescriptions may be difficult due to store closures. We’ll work with you to reschedule your appointment once conditions improve. Your safety and well-being are our top priorities. Stay safe!
+We know Hurricane Milton is impacting many in Florida. Clinicians and patients may face challenges attending scheduled appointments without prior notice. Additionally, filling prescriptions may be difficult due to store closures. We’ll work with you to reschedule your appointment once conditions improve. Your safety and well-being are our top priorities. Stay safe!
 
 **The ADHD Online Team**
 
