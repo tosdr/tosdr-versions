@@ -185,6 +185,12 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/arsenal.jpg)](https://www.sickchirpse.com/arsenal-launches-internal-inquiry-over-conor-mcgregor-incident-with-bukayo-saka/)
+
+### [Arsenal ‘Launches Internal Inquiry’ Over Conor McGregor Incident With Bukayo Saka](https://www.sickchirpse.com/arsenal-launches-internal-inquiry-over-conor-mcgregor-incident-with-bukayo-saka/)
+
+[Read More »](https://www.sickchirpse.com/arsenal-launches-internal-inquiry-over-conor-mcgregor-incident-with-bukayo-saka/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/10/dua-lipa-diet-coke-mix.webp)](https://www.sickchirpse.com/people-are-disgusted-with-dua-lipa-after-she-revealed-what-she-mixes-her-diet-coke-with/)
 
 ### [People Are Disgusted With Dua Lipa After She Revealed What She Mixes Her Diet Coke With](https://www.sickchirpse.com/people-are-disgusted-with-dua-lipa-after-she-revealed-what-she-mixes-her-diet-coke-with/)
@@ -208,12 +214,6 @@ SEND
 ### [Streamer Jack Doherty Speaks Out After Crashing £150k McLaren While Being On His Phone When Driving](https://www.sickchirpse.com/streamer-jack-doherty-speaks-out-after-crashing-150k-mclaren-while-being-on-his-phone-when-driving/)
 
 [Read More »](https://www.sickchirpse.com/streamer-jack-doherty-speaks-out-after-crashing-150k-mclaren-while-being-on-his-phone-when-driving/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/joker-2.jpg)](https://www.sickchirpse.com/joker-2-receives-31-on-rotten-tomatoes-1-2-star-on-posttrack-d-on-cinemascore/)
-
-### [Joker 2 Receives 31% On Rotten Tomatoes, 1/2 Star On PostTrack, ‘D’ On CinemaScore](https://www.sickchirpse.com/joker-2-receives-31-on-rotten-tomatoes-1-2-star-on-posttrack-d-on-cinemascore/)
-
-[Read More »](https://www.sickchirpse.com/joker-2-receives-31-on-rotten-tomatoes-1-2-star-on-posttrack-d-on-cinemascore/)
 
 #### trending post
 
