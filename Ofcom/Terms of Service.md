@@ -32,7 +32,7 @@
     
     Ofcom is committed to a thriving telecoms sector, where companies can compete fairly and customers benefit from a broad range of services.
     
-    [Post](https://www.ofcom.org.uk/post/?language=en)
+    [Post](https://www.ofcom.org.uk/post/)
     
     Ofcom's job is to make sure there is a universal postal service.
     
