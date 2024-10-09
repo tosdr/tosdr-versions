@@ -48,20 +48,40 @@ FOX SCORES
     | NZL | 88  |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250110)
+* [Women's T20 WC
+    
+    9/10 21:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | RSA | –   |
+    | SCO | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250111)
+* [Men's T20I
+    
+    10/10 0:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | IND | –   |
+    | BAN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250102)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | VIC | 7 /330 |
-    | TAS |     |
+    | VIC | 9 /428d |
+    | TAS | 0 /15 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250102)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | NSW | 7 /297 |
-    | SA  |     |
+    | NSW | 366 |
+    | SA  | 1 /34 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250101)
 * [Sheffield Shield
@@ -98,14 +118,14 @@ FOX SCORES
     
 * [AFL Women's
     
-    Complete
+    9/10 19:45 AEST
     
     |     |     |
     | --- | --- |
-    | STK | 7.7.49 |
-    | GWS | 2.3.15 |
+    | ADE | –   |
+    | MEL | –   |
     
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240701)
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240702)
 * Baseball
     
 * [MLB
@@ -448,7 +468,7 @@ FOX SCORES
 
 * [Live Stream](https://kayosports.com.au/?extcamp=fsaconnavmotorsport-ptr-fsp-lnk-grc-acq-mtr-kyo&channel=fsa&campaign=fsacontra)
 * [Latest News](https://www.foxsports.com.au/motorsport/latest-news)
-* [Australian GP 2023](https://www.foxsports.com.au/motorsport/formula-one/australian-gp)
+* [Australian GP](https://www.foxsports.com.au/motorsport/formula-one/australian-gp)
 * Formula 1
 * Supercars
 * MotoGP
@@ -464,6 +484,7 @@ FOX SCORES
 
 [Supercars](https://www.foxsports.com.au/motorsport/supercars)
 
+* [Bathurst 1000](https://www.foxsports.com.au/motorsport/supercars/bathurst-1000)
 * [Live Stream](https://kayosports.com.au/?marketing=supercars-1&extcamp=fsaconnavsupercars-ptr-fsp-lnk-grc-acq-mtr-kyo&channel=fsa&campaign=launch&voucher=LAUNCH)
 * [Video](https://www.foxsports.com.au/video/motorsport)
 * [Standings](https://www.foxsports.com.au/motorsport/supercars/standings)
@@ -880,15 +901,16 @@ FOX SCORES
 * [NRL](https://www.foxsports.com.au/nrl)
 * [AFL](https://www.foxsports.com.au/afl)
 * [Cricket](https://www.foxsports.com.au/cricket)
+* [Bathurst 1000](https://www.foxsports.com.au/motorsport/supercars/bathurst-1000)
 * [Motorsport](https://www.foxsports.com.au/motorsport)
 * [NBA](https://www.foxsports.com.au/basketball/nba)
 * [Boxing](https://www.foxsports.com.au/boxing)
 * [UFC](https://www.foxsports.com.au/ufc)
 * [Netball](https://www.foxsports.com.au/netball)
 * [Basketball](https://www.foxsports.com.au/basketball)
-* [NFL](https://www.foxsports.com.au/nfl)
 * More...
 
+* [NFL](https://www.foxsports.com.au/nfl)
 * [Golf](https://www.foxsports.com.au/golf)
 * [Football](https://www.foxsports.com.au/football)
 * [Tennis](https://www.foxsports.com.au/tennis)
