@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-46eab39c236cba5229b81ead3b8aaa17
+fae562a49b4563c5c91f14465b04530d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![20 mm oval African turquoise beads](https://sojourner.biz/images/cache/stone/TU0016.200.jpg)](https://sojourner.biz/beads/stone-m-z/turquoise/20-mm-oval-african-turquoise-beads.html "20 mm oval African turquoise beads")
+[![Gold kyanite earrings](https://sojourner.biz/images/cache/E0035.200.jpg)](https://sojourner.biz/jewelry/earrings/gold-kyanite-earrings.html "Gold kyanite earrings")
 
-#### [20 mm oval African turquoise beads](https://sojourner.biz/beads/stone-m-z/turquoise/20-mm-oval-african-turquoise-beads.html "20 mm oval African turquoise beads")
+#### [Gold kyanite earrings](https://sojourner.biz/jewelry/earrings/gold-kyanite-earrings.html "Gold kyanite earrings")
 
-$25.00
+$30.00
 
 ### Best Sellers
 
