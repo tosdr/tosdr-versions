@@ -1,10 +1,10 @@
-SUMMER BLOWOUT SALE!
+10.10 SUPER SALE!
 
-22% Off + 10% **Cashback**
+20% Off + 10% **Cashback**
 
 on all orders -
 
-Use Code : BLOWOUT
+Use Code : OCTSALE
 
 * [![Free Shipping](/images/truck.png)FREE SHIPPING\* | Guaranteed Delivery](https://www.budgetpetcare.com/ship_returns.aspx)
     
