@@ -1,258 +1,126 @@
 [![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg)](https://copy.ai/)
 
-Product
-
 Platform
 
-AI Marketing OS
+Overview
 
-AI Sales OS
+[How it Works](https://copy.ai/platform/how-it-works)[Platform Components](https://copy.ai/platform/platform-components)[Powering GTM AI](https://copy.ai/platform/powering-gtm-ai)
 
-[AI Marketing OS
+Workflows
 
-An all-in-one marketing solution, purpose-built to scale your campaigns.  
+[What are Workflows?](https://copy.ai/platform/what-are-workflows)[Building Workflows](https://copy.ai/platform/building-workflows)[Copy Agents](https://copy.ai/platform/copy-agents)
 
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c415daadb6b6d8960c25a_mos-normal.svg)![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c415d3f94c84212222d06_mos-hover.svg)](https://copy.ai/ai-marketing-os)[AI Sales OS
+Intelligence Layer
 
-An end-to-end solution for sales teams looking to crush quotas.  
+[Tables](https://copy.ai/platform/tables)[Actions](https://copy.ai/platform/actions)[Brand Voice](https://copy.ai/platform/brand-voice)
 
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2f1395352ac724369_sales-normal.svg)![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2a818b0d862ef1e1c_sales-hover.svg)](https://copy.ai/ai-sales-os)
+Technical Resources
 
-Platform overview
-
-The only Enterprise AI solution you need to take your business to the next level.  
-
-[Learn more](https://copy.ai/ai-actions)
-
-[Brand voice](https://copy.ai/features/brand-voice)[Infobase](https://copy.ai/features/infobase)[Security](https://copy.ai/security)[Chat](https://copy.ai/chat)
-
-[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65f1c0b283a86af87f265384_image.webp)
-
-Learn about the AI Marketing OS
-
-An all-in-one marketing solution, purpose-built to scale your campaigns.
-
-Learn more](https://copy.ai/ai-marketing-os)
-
-[Content brief to blog post
-
-Turns a content brief into a long form blog post](https://copy.ai/workflows/long-form-blog-post-generator)[Competitor analysis from G2
-
-Competitor Analysis: Uncover Their Value, Customer Sentiment and Winning Strategy](https://copy.ai/workflows/competitive-analysis-g2-review)[Scrape URL and create ad copy
-
-Input a URL and get back ad copy in the same style as "The Best Porsche Ad of All Time”](https://copy.ai/workflows/url-to-ad-copy-style)[Repurpose documents into press releases  
-
-Generates a press release from a document](https://copy.ai/workflows/press-release-generation)[Company insights and enrichment
-
-Research a company's industry, news, size, and offerings and generate industry terms](https://copy.ai/workflows/company-research-enrichment)[LinkedIn profiles into actionable insights
-
-Summarizes a person's LinkedIn profile and recommends use cases](https://copy.ai/workflows/linkedin-profile-summary-use-case-recommendation)[Facebook ad copy from persona data
-
-Given a target url and a persona, generate 4 variations of Facebook Ad copy](https://copy.ai/workflows/facebook-ad-copy-variations)
-
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
-
-[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65f1c0c59b740c252dc46d1e_image%20(1).webp)
-
-Learn about the AI Sales OS
-
-An end-to-end solution for sales teams looking to crush quotas.
-
-Learn more](https://copy.ai/ai-sales-os)
-
-[Personalized webinar promotion  
-
-Generates a series of webinar promotion emails based on a webinar brief](https://copy.ai/workflows/webinar-promotion-emails-generation)[Build FAQs from documents  
-
-Paste in the text from any document and transform it into a list of FAQs](https://copy.ai/workflows/document-to-faqs)[LinkedIn posts generation  
-
-Generate LinkedIn posts from a brief using various formulas](https://copy.ai/workflows/linkedin-posts-generation)[LinkedIn profiles into actionable insights  
-
-Summarizes a person's LinkedIn profile and recommends use cases](https://copy.ai/workflows/linkedin-profile-summary-use-case-recommendation)[Competitor analysis from G2  
-
-Competitor Analysis: Uncover Their Value, Customer Sentiment and Winning Strategy](https://copy.ai/workflows/competitive-analysis-g2-review)
-
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
+[AI for Email Campaigns: Better Results with Fewer Resources](https://copy.ai/blog/ai-for-email-campaigns)[AI for Lead Scoring: How to Leverage Tech to Qualify Better Leads](https://copy.ai/blog/ai-for-lead-scoring)[AI for Customer Segmentation: Making Sense of Customer Data](https://copy.ai/blog/ai-for-customer-segmentation)
 
 Use cases
 
-AI Sales OS
+Sales
 
-[Personalized Prospecting](https://www.copy.ai/use-cases/personalized-prospecting)[Track Job Changes](https://www.copy.ai/use-cases/track-job-changes)[Working Deals](https://www.copy.ai/use-cases/working-deals)[AI Sales Manager](https://www.copy.ai/use-cases/ai-sales-manager)[Powering Operations](https://www.copy.ai/use-cases/powering-operations)[Competitor Analysis](https://www.copy.ai/use-cases/competitor-analysis)
+[Prospecting Cockpit](https://copy.ai/use-cases/prospecting-cockpit)[Inbound Lead Processing](https://copy.ai/use-cases/inbound-lead-processing)[Deal Coaching & Forecasting](https://copy.ai/use-cases/deal-management-forecasting)
 
-AI Marketing OS
+Marketing
 
-[SEO Content Creation](https://www.copy.ai/use-cases/seo-content-creation)[Thought Leadership Content](https://www.copy.ai/use-cases/thought-leadership-content)[Localization and Translation](https://www.copy.ai/use-cases/localization-translation)[Event Execution](https://www.copy.ai/use-cases/event-execution)[Ad Creation & Optimization](https://www.copy.ai/use-cases/ad-creation-optimization)[Sales Content Creation](https://www.copy.ai/use-cases/sales-content-creation)[Product Marketing](https://www.copy.ai/use-cases/product-marketing)
+[Account Based Marketing](https://copy.ai/use-cases/account-based-marketing)[Content Creation](https://copy.ai/use-cases/content-creation)[Translation & Localization](https://copy.ai/use-cases/localization-translation)
 
-Featured articles
+Operations
 
-[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)
+[Lead + Account Intelligence](https://copy.ai/use-cases/lead-account-intelligence)[CRM Enrichment](https://copy.ai/use-cases/crm-enrichment)[GTM Systems Integrations](https://copy.ai/use-cases/gtm-systems-integrations)
 
-[Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)
+Technical Resources
 
-[GTM AI: The Key to Future-Proofing Your Business](https://copy.ai/blog/gtm-ai)
+[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)[Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)[GTM AI: The Key to Future-Proofing Your Business](https://copy.ai/blog/gtm-ai)
 
 Resources
 
-By Role
+By Team
 
-[Sales](#)[Marketing](https://copy.ai/email-marketers)
+[Marketing](https://copy.ai/resources/marketing)[Sales](https://copy.ai/resources/sales)[Operations](https://copy.ai/resources/operations)
 
-Learn
+Learn More
 
-[Blog](https://copy.ai/blog)[Copy.ai Guides](https://copy.ai/guides)[Community](https://community.copy.ai/)[Webinars](https://copy.ai/webinars)[Workflow Tutorials](https://community.copy.ai/workflows-84/workflow-foundations-part-1-197)
+[Blog](https://copy.ai/blog)[For The Enterprise](#)[Trust Center](https://trust.copy.ai/)
 
-Get Support
+Get Help
 
-[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
+[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](#)
 
-Tools and Templates
+Technical Resources
 
-[Workflow Templates
+[Competitive Analysis for Go-to-Market Success](https://copy.ai/blog/competitive-analysis)[How AI Improves Sales Prospecting with Copy.ai Co-founder, Chris Lu](https://copy.ai/blog/how-ai-improves-sales-prospecting)[How to Build a Powerful Brand Strategy Framework](https://copy.ai/blog/brand-strategy-framework)
 
-Automate workflows end-to-end with AI](https://copy.ai/workflow-templates)[AI Writing Generators
+[Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)
 
-AI writing generators to help with one off tasks](https://copy.ai/tools)
+[Login](https://app.copy.ai/login)[Contact Sales
 
-[Pricing](https://copy.ai/prices)[Why GTM AI](https://www.copy.ai/#why-gtm-ai)
-
-[Login](https://app.copy.ai/login)[Try for free
-
-Try for free](https://app.copy.ai/)
-
-[](#)
-
-[Product](#)
+Contact Sales](https://copy.ai/request-a-demo)
 
 [](#)
 
 Product
 
-Platform
+Overview
 
-[AI Marketing OS
+[How it Works](https://copy.ai/platform/how-it-works)[Platform Components](https://copy.ai/platform/platform-components)[Powering GTM AI](https://copy.ai/platform/powering-gtm-ai)
 
-An all-in-one marketing solution, purpose-built to scale your campaigns.  
+Workflows
 
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c415daadb6b6d8960c25a_mos-normal.svg)![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c415d3f94c84212222d06_mos-hover.svg)](https://copy.ai/ai-marketing-os)[AI Sales OS
+[What are Workflows?](https://copy.ai/platform/what-are-workflows)[Building Workflows](https://copy.ai/platform/building-workflows)[Copy Agents](https://copy.ai/platform/copy-agents)
 
-An end-to-end solution for sales teams looking to crush quotas.  
+Intelligence Layer
 
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2f1395352ac724369_sales-normal.svg)![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2a818b0d862ef1e1c_sales-hover.svg)](https://copy.ai/ai-sales-os)
+[Tables](https://copy.ai/platform/tables)[Actions](https://copy.ai/platform/actions)[Brand Voice](https://copy.ai/platform/brand-voice)
 
-Platform overview
+Technical Resources
 
-The only Enterprise AI solution you need to take your business to the next level.  
+[AI for Email Campaigns: Better Results with Fewer Resources](https://copy.ai/blog/ai-for-email-campaigns)[AI for Lead Scoring: How to Leverage Tech to Qualify Better Leads](https://copy.ai/blog/ai-for-lead-scoring)[AI for Customer Segmentation: Making Sense of Customer Data](https://copy.ai/blog/ai-for-customer-segmentation)
 
-[Learn more](https://copy.ai/ai-actions)
+Use cases
 
-[Brand voice](https://copy.ai/features/brand-voice)[Infobase](https://copy.ai/features/infobase)[Security](https://copy.ai/security)[Chat](https://copy.ai/chat)
+Sales
 
-AI Marketing OS
+[Prospecting Cockpit](https://copy.ai/use-cases/prospecting-cockpit)[Inbound Lead Processing](https://copy.ai/use-cases/inbound-lead-processing)[Deal Coaching & Forecasting](https://copy.ai/use-cases/deal-management-forecasting)
 
-[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65f1c0b283a86af87f265384_image.webp)
+Marketing
 
-Learn about the AI Marketing OS
+[Account Based Marketing](https://copy.ai/use-cases/account-based-marketing)[Content Creation](https://copy.ai/use-cases/content-creation)[Translation & Localization](https://copy.ai/use-cases/localization-translation)
 
-An all-in-one marketing solution, purpose-built to scale your campaigns.
+Operations
 
-Learn more](https://copy.ai/ai-marketing-os)
+[Lead + Account Intelligence](https://copy.ai/use-cases/lead-account-intelligence)[CRM Enrichment](https://copy.ai/use-cases/crm-enrichment)[GTM Systems Integrations](https://copy.ai/use-cases/gtm-systems-integrations)
 
-[Content brief to blog post
+Technical Resources
 
-Turns a content brief into a long form blog post](https://copy.ai/workflows/long-form-blog-post-generator)[Competitor analysis from G2
+[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)[Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)[GTM AI: The Key to Future-Proofing Your Business](https://copy.ai/blog/gtm-ai)
 
-Competitor Analysis: Uncover Their Value, Customer Sentiment and Winning Strategy](https://copy.ai/workflows/competitive-analysis-g2-review)[Scrape URL and create ad copy
+Resources
 
-Input a URL and get back ad copy in the same style as "The Best Porsche Ad of All Time”](https://copy.ai/workflows/url-to-ad-copy-style)[Repurpose documents into press releases  
+By Team
 
-Generates a press release from a document](https://copy.ai/workflows/press-release-generation)[Company insights and enrichment
+[Marketing](https://copy.ai/resources/marketing)[Sales](https://copy.ai/resources/sales)[Operations](https://copy.ai/resources/operations)
 
-Research a company's industry, news, size, and offerings and generate industry terms](https://copy.ai/workflows/company-research-enrichment)[LinkedIn profiles into actionable insights
+Learn More
 
-Summarizes a person's LinkedIn profile and recommends use cases](https://copy.ai/workflows/linkedin-profile-summary-use-case-recommendation)[Facebook ad copy from persona data
+[Blog](https://copy.ai/blog)[For The Enterprise](#)[Trust Center](https://trust.copy.ai/)
 
-Given a target url and a persona, generate 4 variations of Facebook Ad copy](https://copy.ai/workflows/facebook-ad-copy-variations)
+Get Help
 
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
+[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](#)
 
-AI Sales OS
+Technical Resources
 
-[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65f1c0c59b740c252dc46d1e_image%20(1).webp)
+[Competitive Analysis for Go-to-Market Success](https://copy.ai/blog/competitive-analysis)[How AI Improves Sales Prospecting with Copy.ai Co-founder, Chris Lu](https://copy.ai/blog/how-ai-improves-sales-prospecting)[How to Build a Powerful Brand Strategy Framework](https://copy.ai/blog/brand-strategy-framework)
 
-Learn about the AI Sales OS
+[Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)
 
-An end-to-end solution for sales teams looking to crush quotas.
+[Login](https://app.copy.ai/login)[Contact Sales  
 
-Learn more](https://copy.ai/ai-sales-os)
-
-[Personalized webinar promotion  
-
-Generates a series of webinar promotion emails based on a webinar brief](https://copy.ai/workflows/webinar-promotion-emails-generation)[Build FAQs from documents  
-
-Paste in the text from any document and transform it into a list of FAQs](https://copy.ai/workflows/document-to-faqs)[LinkedIn posts generation  
-
-Generate LinkedIn posts from a brief using various formulas](https://copy.ai/workflows/linkedin-posts-generation)[LinkedIn profiles into actionable insights  
-
-Summarizes a person's LinkedIn profile and recommends use cases](https://copy.ai/workflows/linkedin-profile-summary-use-case-recommendation)[Competitor analysis from G2  
-
-Competitor Analysis: Uncover Their Value, Customer Sentiment and Winning Strategy](https://copy.ai/workflows/competitive-analysis-g2-review)
-
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
-
-[Use Cases](#)
-
-[](#)
-
-Use Cases
-
-AI Sales OS
-
-[Personalized Prospecting](https://www.copy.ai/use-cases/personalized-prospecting)[Track Job Changes](https://www.copy.ai/use-cases/track-job-changes)[Working Deals](https://www.copy.ai/use-cases/working-deals)[AI Sales Manager](https://www.copy.ai/use-cases/ai-sales-manager)[Powering Operations](https://www.copy.ai/use-cases/powering-operations)[Competitor Analysis](https://www.copy.ai/use-cases/competitor-analysis)
-
-AI Marketing OS
-
-[SEO Content Creation](https://www.copy.ai/use-cases/seo-content-creation)[Thought Leadership Content](https://www.copy.ai/use-cases/thought-leadership-content)[Localization and Translation](https://www.copy.ai/use-cases/localization-translation)[Event Execution](https://www.copy.ai/use-cases/event-execution)[Ad Creation & Optimization](https://www.copy.ai/use-cases/ad-creation-optimization)[Sales Content Creation](https://www.copy.ai/use-cases/sales-content-creation)[Product Marketing](https://www.copy.ai/use-cases/product-marketing)
-
-Featured articles
-
-[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)
-
-[Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)
-
-[GTM AI: The Key to Future-Proofing Your Business](https://copy.ai/blog/gtm-ai)
-
-[Resources](#)
-
-[](#)
-
-ResourCes
-
-By Role
-
-[Sales](#)[Marketing](https://copy.ai/email-marketers)
-
-Learn
-
-[Blog](https://copy.ai/blog)[Copy.ai Guides](https://copy.ai/guides)[Community](https://community.copy.ai/)[Webinars](https://copy.ai/webinars)[Workflow Tutorials](https://community.copy.ai/workflows-84/workflow-foundations-part-1-197)
-
-Get Support
-
-[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
-
-Tools and Templates
-
-[Workflow Templates
-
-Automate workflows end-to-end with AI](https://copy.ai/workflow-templates)[AI Writing Generators
-
-AI writing generators to help with one off tasks](https://copy.ai/tools)
-
-[Partners](#)[Pricing](https://copy.ai/prices)
-
-[Login](https://app.copy.ai/login)[Try for free  
-
-Try for free](https://app.copy.ai/)
+Try for free](https://copy.ai/request-a-demo)
 
 Terms of Service  
 
@@ -410,315 +278,179 @@ Memphis, TN 38120, USA
 
 [![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg)](https://copy.ai/)
 
-Product
-
 Platform
 
-AI Marketing OS
+Overview
 
-AI Sales OS
+[How it Works](https://copy.ai/platform/how-it-works)[Platform Components](https://copy.ai/platform/platform-components)[Powering GTM AI](https://copy.ai/platform/powering-gtm-ai)
 
-[AI Marketing OS
+Workflows
 
-An all-in-one marketing solution, purpose-built to scale your campaigns.  
+[What are Workflows?](https://copy.ai/platform/what-are-workflows)[Building Workflows](https://copy.ai/platform/building-workflows)[Copy Agents](https://copy.ai/platform/copy-agents)
 
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c415daadb6b6d8960c25a_mos-normal.svg)![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c415d3f94c84212222d06_mos-hover.svg)](https://copy.ai/ai-marketing-os)[AI Sales OS
+Intelligence Layer
 
-An end-to-end solution for sales teams looking to crush quotas.  
+[Tables](https://copy.ai/platform/tables)[Actions](https://copy.ai/platform/actions)[Brand Voice](https://copy.ai/platform/brand-voice)
 
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2f1395352ac724369_sales-normal.svg)![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2a818b0d862ef1e1c_sales-hover.svg)](https://copy.ai/ai-sales-os)
+Technical Resources
 
-Platform overview
-
-The only Enterprise AI solution you need to take your business to the next level.  
-
-[Learn more](https://copy.ai/ai-actions)
-
-[Brand voice](https://copy.ai/features/brand-voice)[Infobase](https://copy.ai/features/infobase)[Security](https://copy.ai/security)[Chat](https://copy.ai/chat)
-
-[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65f1c0b283a86af87f265384_image.webp)
-
-Learn about the AI Marketing OS
-
-An all-in-one marketing solution, purpose-built to scale your campaigns.
-
-Learn more](https://copy.ai/ai-marketing-os)
-
-[Content brief to blog post
-
-Turns a content brief into a long form blog post](https://copy.ai/workflows/long-form-blog-post-generator)[Competitor analysis from G2
-
-Competitor Analysis: Uncover Their Value, Customer Sentiment and Winning Strategy](https://copy.ai/workflows/competitive-analysis-g2-review)[Scrape URL and create ad copy
-
-Input a URL and get back ad copy in the same style as "The Best Porsche Ad of All Time”](https://copy.ai/workflows/url-to-ad-copy-style)[Repurpose documents into press releases  
-
-Generates a press release from a document](https://copy.ai/workflows/press-release-generation)[Company insights and enrichment
-
-Research a company's industry, news, size, and offerings and generate industry terms](https://copy.ai/workflows/company-research-enrichment)[LinkedIn profiles into actionable insights
-
-Summarizes a person's LinkedIn profile and recommends use cases](https://copy.ai/workflows/linkedin-profile-summary-use-case-recommendation)[Facebook ad copy from persona data
-
-Given a target url and a persona, generate 4 variations of Facebook Ad copy](https://copy.ai/workflows/facebook-ad-copy-variations)
-
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
-
-[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65f1c0c59b740c252dc46d1e_image%20(1).webp)
-
-Learn about the AI Sales OS
-
-An end-to-end solution for sales teams looking to crush quotas.
-
-Learn more](https://copy.ai/ai-sales-os)
-
-[Personalized webinar promotion  
-
-Generates a series of webinar promotion emails based on a webinar brief](https://copy.ai/workflows/webinar-promotion-emails-generation)[Build FAQs from documents  
-
-Paste in the text from any document and transform it into a list of FAQs](https://copy.ai/workflows/document-to-faqs)[LinkedIn posts generation  
-
-Generate LinkedIn posts from a brief using various formulas](https://copy.ai/workflows/linkedin-posts-generation)[LinkedIn profiles into actionable insights  
-
-Summarizes a person's LinkedIn profile and recommends use cases](https://copy.ai/workflows/linkedin-profile-summary-use-case-recommendation)[Competitor analysis from G2  
-
-Competitor Analysis: Uncover Their Value, Customer Sentiment and Winning Strategy](https://copy.ai/workflows/competitive-analysis-g2-review)
-
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
+[AI for Email Campaigns: Better Results with Fewer Resources](https://copy.ai/blog/ai-for-email-campaigns)[AI for Lead Scoring: How to Leverage Tech to Qualify Better Leads](https://copy.ai/blog/ai-for-lead-scoring)[AI for Customer Segmentation: Making Sense of Customer Data](https://copy.ai/blog/ai-for-customer-segmentation)
 
 Use cases
 
-AI Sales OS
+Sales
 
-[Personalized Prospecting](https://www.copy.ai/use-cases/personalized-prospecting)[Track Job Changes](https://www.copy.ai/use-cases/track-job-changes)[Working Deals](https://www.copy.ai/use-cases/working-deals)[AI Sales Manager](https://www.copy.ai/use-cases/ai-sales-manager)[Powering Operations](https://www.copy.ai/use-cases/powering-operations)[Competitor Analysis](https://www.copy.ai/use-cases/competitor-analysis)
+[Prospecting Cockpit](https://copy.ai/use-cases/prospecting-cockpit)[Inbound Lead Processing](https://copy.ai/use-cases/inbound-lead-processing)[Deal Coaching & Forecasting](https://copy.ai/use-cases/deal-management-forecasting)
 
-AI Marketing OS
+Marketing
 
-[SEO Content Creation](https://www.copy.ai/use-cases/seo-content-creation)[Thought Leadership Content](https://www.copy.ai/use-cases/thought-leadership-content)[Localization and Translation](https://www.copy.ai/use-cases/localization-translation)[Event Execution](https://www.copy.ai/use-cases/event-execution)[Ad Creation & Optimization](https://www.copy.ai/use-cases/ad-creation-optimization)[Sales Content Creation](https://www.copy.ai/use-cases/sales-content-creation)[Product Marketing](https://www.copy.ai/use-cases/product-marketing)
+[Account Based Marketing](https://copy.ai/use-cases/account-based-marketing)[Content Creation](https://copy.ai/use-cases/content-creation)[Translation & Localization](https://copy.ai/use-cases/localization-translation)
 
-Featured articles
+Operations
 
-[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)
+[Lead + Account Intelligence](https://copy.ai/use-cases/lead-account-intelligence)[CRM Enrichment](https://copy.ai/use-cases/crm-enrichment)[GTM Systems Integrations](https://copy.ai/use-cases/gtm-systems-integrations)
 
-[Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)
+Technical Resources
 
-[GTM AI: The Key to Future-Proofing Your Business](https://copy.ai/blog/gtm-ai)
+[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)[Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)[GTM AI: The Key to Future-Proofing Your Business](https://copy.ai/blog/gtm-ai)
 
 Resources
 
-By Role
+By Team
 
-[Sales](#)[Marketing](https://copy.ai/email-marketers)
+[Marketing](https://copy.ai/resources/marketing)[Sales](https://copy.ai/resources/sales)[Operations](https://copy.ai/resources/operations)
 
-Learn
+Learn More
 
-[Blog](https://copy.ai/blog)[Copy.ai Guides](https://copy.ai/guides)[Community](https://community.copy.ai/)[Webinars](https://copy.ai/webinars)[Workflow Tutorials](https://community.copy.ai/workflows-84/workflow-foundations-part-1-197)
+[Blog](https://copy.ai/blog)[For The Enterprise](#)[Trust Center](https://trust.copy.ai/)
 
-Get Support
+Get Help
 
-[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
+[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](#)
 
-Tools and Templates
+Technical Resources
 
-[Workflow Templates
+[Competitive Analysis for Go-to-Market Success](https://copy.ai/blog/competitive-analysis)[How AI Improves Sales Prospecting with Copy.ai Co-founder, Chris Lu](https://copy.ai/blog/how-ai-improves-sales-prospecting)[How to Build a Powerful Brand Strategy Framework](https://copy.ai/blog/brand-strategy-framework)
 
-Automate workflows end-to-end with AI](https://copy.ai/workflow-templates)[AI Writing Generators
+[Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)
 
-AI writing generators to help with one off tasks](https://copy.ai/tools)
+[Login](https://app.copy.ai/login)[Contact Sales
 
-[Pricing](https://copy.ai/prices)[Why GTM AI](https://www.copy.ai/#why-gtm-ai)
-
-[Login](https://app.copy.ai/login)[Try for free
-
-Try for free](https://app.copy.ai/)
-
-[](#)
-
-[Product](#)
+Contact Sales](https://copy.ai/request-a-demo)
 
 [](#)
 
 Product
 
-Platform
+Overview
 
-[AI Marketing OS
+[How it Works](https://copy.ai/platform/how-it-works)[Platform Components](https://copy.ai/platform/platform-components)[Powering GTM AI](https://copy.ai/platform/powering-gtm-ai)
 
-An all-in-one marketing solution, purpose-built to scale your campaigns.  
+Workflows
 
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c415daadb6b6d8960c25a_mos-normal.svg)![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c415d3f94c84212222d06_mos-hover.svg)](https://copy.ai/ai-marketing-os)[AI Sales OS
+[What are Workflows?](https://copy.ai/platform/what-are-workflows)[Building Workflows](https://copy.ai/platform/building-workflows)[Copy Agents](https://copy.ai/platform/copy-agents)
 
-An end-to-end solution for sales teams looking to crush quotas.  
+Intelligence Layer
 
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2f1395352ac724369_sales-normal.svg)![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657c4dd2a818b0d862ef1e1c_sales-hover.svg)](https://copy.ai/ai-sales-os)
+[Tables](https://copy.ai/platform/tables)[Actions](https://copy.ai/platform/actions)[Brand Voice](https://copy.ai/platform/brand-voice)
 
-Platform overview
+Technical Resources
 
-The only Enterprise AI solution you need to take your business to the next level.  
+[AI for Email Campaigns: Better Results with Fewer Resources](https://copy.ai/blog/ai-for-email-campaigns)[AI for Lead Scoring: How to Leverage Tech to Qualify Better Leads](https://copy.ai/blog/ai-for-lead-scoring)[AI for Customer Segmentation: Making Sense of Customer Data](https://copy.ai/blog/ai-for-customer-segmentation)
 
-[Learn more](https://copy.ai/ai-actions)
+Use cases
 
-[Brand voice](https://copy.ai/features/brand-voice)[Infobase](https://copy.ai/features/infobase)[Security](https://copy.ai/security)[Chat](https://copy.ai/chat)
+Sales
 
-AI Marketing OS
+[Prospecting Cockpit](https://copy.ai/use-cases/prospecting-cockpit)[Inbound Lead Processing](https://copy.ai/use-cases/inbound-lead-processing)[Deal Coaching & Forecasting](https://copy.ai/use-cases/deal-management-forecasting)
 
-[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65f1c0b283a86af87f265384_image.webp)
+Marketing
 
-Learn about the AI Marketing OS
+[Account Based Marketing](https://copy.ai/use-cases/account-based-marketing)[Content Creation](https://copy.ai/use-cases/content-creation)[Translation & Localization](https://copy.ai/use-cases/localization-translation)
 
-An all-in-one marketing solution, purpose-built to scale your campaigns.
+Operations
 
-Learn more](https://copy.ai/ai-marketing-os)
+[Lead + Account Intelligence](https://copy.ai/use-cases/lead-account-intelligence)[CRM Enrichment](https://copy.ai/use-cases/crm-enrichment)[GTM Systems Integrations](https://copy.ai/use-cases/gtm-systems-integrations)
 
-[Content brief to blog post
+Technical Resources
 
-Turns a content brief into a long form blog post](https://copy.ai/workflows/long-form-blog-post-generator)[Competitor analysis from G2
-
-Competitor Analysis: Uncover Their Value, Customer Sentiment and Winning Strategy](https://copy.ai/workflows/competitive-analysis-g2-review)[Scrape URL and create ad copy
-
-Input a URL and get back ad copy in the same style as "The Best Porsche Ad of All Time”](https://copy.ai/workflows/url-to-ad-copy-style)[Repurpose documents into press releases  
-
-Generates a press release from a document](https://copy.ai/workflows/press-release-generation)[Company insights and enrichment
-
-Research a company's industry, news, size, and offerings and generate industry terms](https://copy.ai/workflows/company-research-enrichment)[LinkedIn profiles into actionable insights
-
-Summarizes a person's LinkedIn profile and recommends use cases](https://copy.ai/workflows/linkedin-profile-summary-use-case-recommendation)[Facebook ad copy from persona data
-
-Given a target url and a persona, generate 4 variations of Facebook Ad copy](https://copy.ai/workflows/facebook-ad-copy-variations)
-
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
-
-AI Sales OS
-
-[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65f1c0c59b740c252dc46d1e_image%20(1).webp)
-
-Learn about the AI Sales OS
-
-An end-to-end solution for sales teams looking to crush quotas.
-
-Learn more](https://copy.ai/ai-sales-os)
-
-[Personalized webinar promotion  
-
-Generates a series of webinar promotion emails based on a webinar brief](https://copy.ai/workflows/webinar-promotion-emails-generation)[Build FAQs from documents  
-
-Paste in the text from any document and transform it into a list of FAQs](https://copy.ai/workflows/document-to-faqs)[LinkedIn posts generation  
-
-Generate LinkedIn posts from a brief using various formulas](https://copy.ai/workflows/linkedin-posts-generation)[LinkedIn profiles into actionable insights  
-
-Summarizes a person's LinkedIn profile and recommends use cases](https://copy.ai/workflows/linkedin-profile-summary-use-case-recommendation)[Competitor analysis from G2  
-
-Competitor Analysis: Uncover Their Value, Customer Sentiment and Winning Strategy](https://copy.ai/workflows/competitive-analysis-g2-review)
-
-![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/658059e5c2ae3614d904ed7a_%2B200%20card-min.png)
-
-[Use Cases](#)
-
-[](#)
-
-Use Cases
-
-AI Sales OS
-
-[Personalized Prospecting](https://www.copy.ai/use-cases/personalized-prospecting)[Track Job Changes](https://www.copy.ai/use-cases/track-job-changes)[Working Deals](https://www.copy.ai/use-cases/working-deals)[AI Sales Manager](https://www.copy.ai/use-cases/ai-sales-manager)[Powering Operations](https://www.copy.ai/use-cases/powering-operations)[Competitor Analysis](https://www.copy.ai/use-cases/competitor-analysis)
-
-AI Marketing OS
-
-[SEO Content Creation](https://www.copy.ai/use-cases/seo-content-creation)[Thought Leadership Content](https://www.copy.ai/use-cases/thought-leadership-content)[Localization and Translation](https://www.copy.ai/use-cases/localization-translation)[Event Execution](https://www.copy.ai/use-cases/event-execution)[Ad Creation & Optimization](https://www.copy.ai/use-cases/ad-creation-optimization)[Sales Content Creation](https://www.copy.ai/use-cases/sales-content-creation)[Product Marketing](https://www.copy.ai/use-cases/product-marketing)
-
-Featured articles
-
-[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)
-
-[Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)
-
-[GTM AI: The Key to Future-Proofing Your Business](https://copy.ai/blog/gtm-ai)
-
-[Resources](#)
-
-[](#)
-
-ResourCes
-
-By Role
-
-[Sales](#)[Marketing](https://copy.ai/email-marketers)
-
-Learn
-
-[Blog](https://copy.ai/blog)[Copy.ai Guides](https://copy.ai/guides)[Community](https://community.copy.ai/)[Webinars](https://copy.ai/webinars)[Workflow Tutorials](https://community.copy.ai/workflows-84/workflow-foundations-part-1-197)
-
-Get Support
-
-[Help Center](https://community.copy.ai/)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
-
-Tools and Templates
-
-[Workflow Templates
-
-Automate workflows end-to-end with AI](https://copy.ai/workflow-templates)[AI Writing Generators
-
-AI writing generators to help with one off tasks](https://copy.ai/tools)
-
-[Partners](#)[Pricing](https://copy.ai/prices)
-
-[Login](https://app.copy.ai/login)[Try for free  
-
-Try for free](https://app.copy.ai/)
-
-Platform
-
-Platform
-
-[AI Marketing OS](https://copy.ai/ai-marketing-os)[AI Sales OS](https://copy.ai/ai-sales-os)[Chat](https://copy.ai/chat)[Brand voice](https://copy.ai/features/brand-voice)[Infobase](https://copy.ai/features/infobase)[Workflow Templates](https://copy.ai/workflow-templates)[AI Tools](https://copy.ai/tools)[Copy.ai API](https://docs.copy.ai/docs)
-
-Marketing OS
-
-[Name](#)[Name](#)[Name](#)[Name](#)[Name](#)
-
-Sales OS
-
-[Name](#)[Name](#)[Name](#)[Name](#)[Name](#)
-
-Use Cases
-
-By Team
-
-[Chat](https://copy.ai/chat)[Chat Templates](#)[Pricing](https://copy.ai/prices)
-
-by Workflows
-
-[AI Workflows](#)[Translations](https://copy.ai/translations)[Blog Content](https://copy.ai/bloggers)[Social Media Posts](https://copy.ai/social-media-managers)[Email Marketing](https://copy.ai/email-marketers)
-
-By Size
-
-[Enterprise](#)[SMB](#)[Personal](#)
-
-By Size
-
-[Infobase](https://copy.ai/features/infobase)[Prompt Improve](#)[Feature 3](#)[Feature 4](#)
+[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)[Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)[GTM AI: The Key to Future-Proofing Your Business](https://copy.ai/blog/gtm-ai)
 
 Resources
 
+By Team
+
+[Marketing](https://copy.ai/resources/marketing)[Sales](https://copy.ai/resources/sales)[Operations](https://copy.ai/resources/operations)
+
+Learn More
+
+[Blog](https://copy.ai/blog)[For The Enterprise](#)[Trust Center](https://trust.copy.ai/)
+
+Get Help
+
+[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](#)
+
+Technical Resources
+
+[Competitive Analysis for Go-to-Market Success](https://copy.ai/blog/competitive-analysis)[How AI Improves Sales Prospecting with Copy.ai Co-founder, Chris Lu](https://copy.ai/blog/how-ai-improves-sales-prospecting)[How to Build a Powerful Brand Strategy Framework](https://copy.ai/blog/brand-strategy-framework)
+
+[Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)
+
+[Login](https://app.copy.ai/login)[Contact Sales  
+
+Try for free](https://copy.ai/request-a-demo)
+
+Platform
+
+Overview
+
+[How it Works](https://copy.ai/platform/how-it-works)[Platform Components](https://copy.ai/platform/platform-components)[Powering GTM AI](https://copy.ai/platform/powering-gtm-ai)
+
+Workflows
+
+[What are Workflows?](https://copy.ai/platform/what-are-workflows)[Building Workflows](https://copy.ai/platform/building-workflows)[Copy Agents](https://copy.ai/platform/copy-agents)
+
+Intelligence layer
+
+[Tables](https://copy.ai/platform/tables)[Actions](https://copy.ai/platform/actions)[Infobase](https://copy.ai/features/infobase)[Brand Voice](https://copy.ai/platform/brand-voice)[Chat](https://copy.ai/chat)
+
+Use Cases
+
+Sales
+
+[Prospecting Cockpit](https://copy.ai/use-cases/prospecting-cockpit)[Inbound Lead Processing](https://copy.ai/use-cases/inbound-lead-processing)[Deal Coaching & Forecasting](https://copy.ai/use-cases/deal-management-forecasting)
+
+Marketing
+
+[Account Based Marketing](https://copy.ai/use-cases/account-based-marketing)[Content Creation](https://copy.ai/use-cases/content-creation)[Translation & Localization](https://copy.ai/use-cases/localization-translation)
+
+Operations
+
+[Lead + Account Intelligence](https://copy.ai/use-cases/lead-account-intelligence)[CRM Enrichment](https://copy.ai/use-cases/crm-enrichment)[GTM Systems Integrations](https://copy.ai/use-cases/gtm-systems-integrations)
+
+Resources
+
+By Team
+
+[Marketing](https://copy.ai/resources/marketing)[Sales](https://copy.ai/resources/sales)[Operations](https://copy.ai/resources/operations)
+
+Learn more
+
+[Blog](https://copy.ai/blog)[Events](https://copy.ai/webinars)[For The Enterprise](#)[Trust Center](https://trust.copy.ai/)
+
+Get help
+
+[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
+
+Other pages
+
 By Role
 
 [Sales](#)[Marketing](https://copy.ai/archive/email-marketers-old)
 
 Learn
 
-[What is GTM AI?](https://copy.ai/blog/gtm-ai)[Blog](https://copy.ai/blog)[Copy.ai Community](https://community.copy.ai/)[Copy.ai Guides](https://copy.ai/guides)[Webinars](https://copy.ai/webinars)[Workflow Tutorials](https://community.copy.ai/workflows-84/workflow-foundations-part-1-197)[Security](https://copy.ai/security)[Careers](https://jobs.lever.co/CopyAI)[Tools (Chat Lib)](https://copy.ai/tools)[Press](https://copy.ai/press)
-
-Get Support
-
-[Live Training](#)[Help Docs](https://support.copy.ai/)[Community](#)
-
-Support
-
-By Role
-
-[Sales](#)[Marketing](https://copy.ai/archive/email-marketers-old)
-
-Learn
-
-[Request a Demo](https://copy.ai/request-a-demo)[Contact Us](https://copy.ai/contact-us)[Report a Bug](https://form.typeform.com/to/e7V02YP4)[Report an Outage](https://form.typeform.com/to/mv6I2Fmw?typeform-medium=embed-snippet)[Request a New Feature](https://form.typeform.com/to/OKJSvGEy)
+[Home](https://copy.ai/)[Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)[Careers](https://jobs.lever.co/CopyAI)
 
 Get Support
 
@@ -728,6 +460,6 @@ Get Support
 
 © 2024 CopyAI, Inc
 
-[Careers](https://jobs.lever.co/CopyAI)[Privacy Notice](https://copy.ai/privacy-notice)[Terms of Service](https://copy.ai/terms-of-service)[Status](https://status.copy.ai/)
+[Privacy Notice](https://copy.ai/privacy-notice)[Terms of Service](https://copy.ai/terms-of-service)[Status](https://status.copy.ai/)
 
 [![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/656088bfb2e826ea15790b1b_Frame%20316126176.svg)](https://www.linkedin.com/company/copyai/)[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/656088bf82cf41a39803d531_Frame%20316126177.svg)](https://www.facebook.com/groups/887950931991543/)[![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65822605bd3609a56a231a75_x.svg)](https://www.twitter.com/copy_ai)
