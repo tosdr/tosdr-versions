@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/het-mysterie-van-israel-opgelost/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/god-is-de-naam-en-met-wie-spreek-ik/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
