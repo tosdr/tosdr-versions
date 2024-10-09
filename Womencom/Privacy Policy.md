@@ -21,7 +21,7 @@
 * [About](https://www.women.com/about/)
 * [Editorial Policies](https://www.women.com/policies/)
 * [Our Experts](https://www.women.com/our-experts/)
-* [Privacy Policy](https://www.static.com/privacy-policy/)
+* [Privacy Policy](https://www.static.com/privacy-policy)
 * [Terms of Use](https://www.static.com/terms)
 
 © 2024 [Static Media](https://www.static.com/). All Rights Reserved
@@ -411,7 +411,7 @@ Back
 
 [Next](https://www.women.com/page/2/ "Ahead")
 
-[About](https://www.women.com/about/) [Privacy Policy](https://www.static.com/privacy-policy/)
+[About](https://www.women.com/about/) [Privacy Policy](https://www.static.com/privacy-policy)
 
 © 2024 [Static Media](https://www.static.com/)® Women.com All Rights Reserved
 
