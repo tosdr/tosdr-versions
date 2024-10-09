@@ -1,4 +1,4 @@
-✨ New course! Enroll in [Retrieval Optimization: From Tokenization to Vector Quantization](https://bit.ly/3Y3pjp2)
+✨ New course! Enroll in [Introducing Multimodal Llama 3.2](https://bit.ly/3YauZxD)
 
 [](https://www.deeplearning.ai/)
 
