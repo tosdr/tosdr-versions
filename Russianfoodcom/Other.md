@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Торт "Конфетти" с шоколадным сырным кремом](https://www.russianfood.com/recipes/recipe.php?rid=173925)
 * [Котлеты из гречки с тыквой](https://www.russianfood.com/recipes/recipe.php?rid=172584)
 * [Бульон с потрохами](https://www.russianfood.com/recipes/recipe.php?rid=446)
 * [Бульон с клецками из кур](https://www.russianfood.com/recipes/recipe.php?rid=939)
 * [Куриный суп с капустой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=4787)
 * [Бульон из кур](https://www.russianfood.com/recipes/recipe.php?rid=4867)
-* [Салат по-индийски](https://www.russianfood.com/recipes/recipe.php?rid=8259)
-* [Салат с курицей](https://www.russianfood.com/recipes/recipe.php?rid=8362)
 * [Рисовый салат с курицей](https://www.russianfood.com/recipes/recipe.php?rid=8421)
-* [Суп куриный по-индийски](https://www.russianfood.com/recipes/recipe.php?rid=8879)
+* [Рагу рыбное с овощами](https://www.russianfood.com/recipes/recipe.php?rid=9365)
+* [Бульон с фрикадельками из свинины](https://www.russianfood.com/recipes/recipe.php?rid=9791)
+* [Говядина отварная](https://www.russianfood.com/recipes/recipe.php?rid=9801)
+* [Курица на сковороде с овощами](https://www.russianfood.com/recipes/recipe.php?rid=9819)
 
 |     |
 | --- |
@@ -179,6 +179,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Вкуснятина уже в тарелках! Время САЛАТОВ (146)](https://www.russianfood.com/reading/?post_id=22704) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/709/sm_708888.jpg)](https://www.russianfood.com/reading/?post_id=22704)
+
+Салат из куриных желудков с яичными блинчиками. Салат с колбасками, корейской морковью и сыром. Салат с фунчозой, овощами и кальмарами. Салат с тунцом и булгуром. Салат из тыквы с яблоками и орехами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22704)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22704#comments) | 09.10.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты › [Блеснуть при случае](https://www.russianfood.com/themes/?theme_id=12)<br><br>[Салат с жареными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174523) |     |
+
+[![Фото к рецепту: Салат с жареными огурцами](//img1.russianfood.com/dycontent/images_upl/743/sm_742073.jpg "Фото к рецепту: Салат с жареными огурцами")](https://www.russianfood.com/recipes/recipe.php?rid=174523)
+
+Вся фишка этого салата заключается в огурце, который после температурной обработки меняет свой вкус и приобретает интересную консистенцию. Рекомендую приготовить, это будет интересный и неожиданный опыт. Приятного аппетита!
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174523)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [neslojno](https://www.russianfood.com/blogs/?id=288013) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174523#comments) | 09.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -220,7 +248,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174517#comments) | 08.10.24 |     |
+|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174517#comments) | 08.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -362,34 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22689#comments) | 05.10.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Насладимся разнообразием вкусов! Время СУПОВ (63)](https://www.russianfood.com/reading/?post_id=22688) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/726/sm_725615.jpg)](https://www.russianfood.com/reading/?post_id=22688)
-
-Быстрый суп с фрикадельками и лапшой. Куриный суп с сердечками и гречкой. Овощной суп с перловкой и грибами. Куриный суп с ячневой крупой. Картофельный суп с цукини и беконом.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22688)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22688#comments) | 05.10.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[В поиске новых вкусов. РИС по-необычному (31)](https://www.russianfood.com/reading/?post_id=22687) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/557/sm_556539.jpg)](https://www.russianfood.com/reading/?post_id=22687)
-
-Курица с рисом и овощами, запечённая в пакете. Рис с курицей и сладким перцем в томатном соусе. Котлеты из риса с тыквой. Рис с мясными фрикадельками.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22687)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22687#comments) | 05.10.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -459,10 +459,10 @@
 
 Новые рецепты:
 
-|     |     |     |
-| --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742045.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174517) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742003.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174512) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741625.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174496) |
-| [Кислые щи с томлёным приварком](https://www.russianfood.com/recipes/recipe.php?rid=174517) | [Аджика с баклажанами на зиму](https://www.russianfood.com/recipes/recipe.php?rid=174512) | [Вешенки и макароны](https://www.russianfood.com/recipes/recipe.php?rid=174496) |
+|     |     |     |     |
+| --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742003.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174512) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742073.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174523) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741625.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174496) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742045.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174517) |
+| [Аджика с баклажанами на зиму](https://www.russianfood.com/recipes/recipe.php?rid=174512) | [Салат с жареными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174523) | [Вешенки и макароны](https://www.russianfood.com/recipes/recipe.php?rid=174496) | [Кислые щи с томлёным приварком](https://www.russianfood.com/recipes/recipe.php?rid=174517) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -478,3 +478,5 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
+
+(95)
