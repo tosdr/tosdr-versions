@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
-* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
+* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
+* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
+* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
-* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
+* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
+* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
+* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
-* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
+* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
+* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
+* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
-* [Einkaufst­rolleys im Test: Den Einkauf im Griff](https://www.test.de/Einkaufstrolleys-im-Test-Den-Einkauf-im-Griff-6107080-0/ "Einkaufstrolleys im Test - Den Einkauf im Griff")
-* [Rudergeräte im Test: Trainings­partner für Einsteiger](https://www.test.de/Rudergeraete-im-Test-Trainingspartner-fuer-Einsteiger-5987710-0/ "Rudergeräte im Test - Trainingspartner für Einsteiger")
-* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
-* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Staub- und wasser­geschützt?: IP-Schutz­arten verstehen](https://www.test.de/Staub-und-wassergeschuetzt-IP-Schutzarten-verstehen-6092721-0/ "Staub- und wassergeschützt? - IP-Schutzarten verstehen")
+* [Lang­zeit-Auslands­kranken­versicherung im Vergleich: Gut abge­sichert auf langen Reisen](https://www.test.de/Langzeit-Auslandskrankenversicherung-im-Vergleich-5988609-0/ "Langzeit-Auslandskrankenversicherung im Vergleich - Gut abgesichert auf langen Reisen")
+* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
+* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
+* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
 
 Service Stiftung Warentest
 
