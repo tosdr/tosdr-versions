@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZwWNNAoAAVAAAABbLlQ)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZwXgfQoAAVAAAABbA-s)
 
 Es noticia
 
@@ -15,7 +15,7 @@ Es noticia
 * [Alcaraz Monfils](https://www.elmundo.es/deportes/tenis/masters-1000/carlos-alcaraz-gael-monfils/2024/10/09/04_0412_20241009_115-directo.html)
 * [Incendio Guillena](https://www.elmundo.es/andalucia/2024/10/08/6704ef54e4d4d8c06e8b4592.html)
 * [Reina Sofía](https://www.elmundo.es/loc/famosos/2024/10/08/67051307e85ece8d4b8b458b.html?activate-overlay=true)
-* [Crema hidratante antiedad](https://www.elmundo.es/yodona/belleza/2024/10/08/670503a6e4d4d815358b45ab.html)
+* [Perez-Reverte](https://www.elmundo.es/cultura/literatura/2024/10/08/670566d1fdddff93828b45cb.html)
 * [Cambio de hora](https://www.elmundo.es/como/2024/10/07/67039b11fc6c839e058b458b.html)
 * [Letras del Tesoro](https://www.elmundo.es/como/2024/10/07/67039065e85ece20428b4589.html)
 * [La que se avecina](https://www.elmundo.es/television/series/2024/10/08/67050564e85ecea6568b4581.html?activate-overlay=true)
@@ -31,6 +31,9 @@ Es noticia
 * [Lotería Navidad 2024](https://www.elmundo.es/loterias/loteria-navidad.html)
 * [Comprobar Lotería Navidad 2024](https://www.elmundo.es/loterias/loteria-navidad/comprobar-loteria.html)
 * [Últimas noticias](https://www.elmundo.es/ultimas-noticias.html)
+* [Euromillones](https://www.elmundo.es/loterias/2024/10/08/670585ed21efa0691c8b45ac.html)
+* [Bonoloto](https://www.elmundo.es/loterias/2024/10/08/67058bc7e85ece3c318b458f.html)
+* [Lotería ONCE](https://www.elmundo.es/loterias/2024/10/08/67055f1ce85ece6c658b4590.html)
 
 [Portada](https://www.elmundo.es/) [Portada](https://www.elmundo.es/?intcmp=MENUMIGA01&s_kw=portada) [Portada](https://www.elmundo.es/)
 
