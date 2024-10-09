@@ -205,23 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Westworld Season 3 Preview](https://www.somethingawful.com/news/westworld-season-3/)
-* [Terrifying Jack-o'-Lanterns!](https://www.somethingawful.com/comedy-goldmine/halloween-jackolanterns/1/)
-* [Large Penis Support Group](https://www.somethingawful.com/weekend-web/lpsg/1/)
-* [Void Racers!](https://www.somethingawful.com/photoshop-phriday/void-racers-cyoa/)
-* [Big Dog T-Shirt Fan Art](https://www.somethingawful.com/comedy-goldmine/big-dogs-shirts/1/)
+* [Mom, I got the big promotion!! I am now in charge of twenty cages of children!](https://www.somethingawful.com/news/we-are-evil/)
+* [The View From Below](https://www.somethingawful.com/daily-dirt/instruction-for-america/1/)
+* [The Hardy Boys and Nancy Drew: UNLEASHED](https://www.somethingawful.com/comedy-goldmine/hardy-boys-nancy/1/)
+* [I Hate You Page 44](https://www.somethingawful.com/cliff-yablonski/i-hate-you-44/)
+* [Yahoo Personals Part 1](https://www.somethingawful.com/comedy-goldmine/yahoo-personals-part/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [VR Chats 2024 = Web 1.0 2004?](http://forums.somethingawful.com/showthread.php?threadid=4072168 "VR Chats 2024 = Web 1.0 2004?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [Whats got you PISSED OFF](http://forums.somethingawful.com/showthread.php?threadid=4072277 "Whats got you PISSED OFF")
 
 ### Random Articles
 
-* [Meaningful Relations](https://www.somethingawful.com/awful-links/meaningful-relations-sales/)
-* [Fluffy Bunny Sparkle Cloud Raves](https://www.somethingawful.com/awful-links/awful-link-839/)
-* [Pretty Ricky - Late Night Special](https://www.somethingawful.com/awful-links/pretty-ricky-airhumping/)
-* [04-09-2007](https://www.somethingawful.com/forum-fridays/ff04-09-2007/1/)
-* [Enigma of the Ages: The Highway Shoe](https://www.somethingawful.com/news/enigma-ages-highway/)
+* [Pain For Measure](https://www.somethingawful.com/news/deep-hurting-experiment/)
+* [Sleepy Mountain Town... OF DEATH!](https://www.somethingawful.com/news/sleepy-mountain-town/)
+* [It's It and It's That and That's It!](https://www.somethingawful.com/news/its-its-that/)
+* [Mr. T Ate My Innocence](https://www.somethingawful.com/news/ate-my-balls/)
+* [The Last Days Of Capitalism](https://www.somethingawful.com/comedy-goldmine/capitalism-last-days/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
