@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Trump books MSG rally to kick off final stretch of 2024 campaign: sources](https://nypost.com/2024/10/08/us-news/trump-books-madison-square-garden-rally-to-kick-off-final-stretch-of-2024-campaign/)
+
 Privacy Notice Highlights
 =========================
 
