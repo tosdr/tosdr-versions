@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a873eeb97c6afc309d54e6cedee15eac
+93a900c60e569aa36ba12670af661c6c
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![11 mm purple heart beads](https://sojourner.biz/images/cache/glass/HRT002.200.jpg)](https://sojourner.biz/beads/glass/11-mm-purple-heart-beads.html "11 mm purple heart beads")
+[![7 mm round copper-pink pearls](https://sojourner.biz/images/cache/pearls/PE0004.200.jpg)](https://sojourner.biz/beads/pearls/7-mm-round-copper-pink-pearls.html "7 mm round copper-pink pearls")
 
-#### [11 mm purple heart beads](https://sojourner.biz/beads/glass/11-mm-purple-heart-beads.html "11 mm purple heart beads")
+#### [7 mm round copper-pink pearls](https://sojourner.biz/beads/pearls/7-mm-round-copper-pink-pearls.html "7 mm round copper-pink pearls")
 
-$3.00
+$17.00
 
 ### Best Sellers
 
