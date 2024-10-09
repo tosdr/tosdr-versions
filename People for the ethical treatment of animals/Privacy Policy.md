@@ -1,4 +1,4 @@
-× [](https://www.peta.org/)[Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::mobile-donate-now-button)
+× [](https://www.peta.org/)[Donate Now](https://support.peta.org/page/72693/donate/1?en_txn7=Navigation::mobile-donate-now-button)
 
 * [Help Animals](https://www.peta.org/action/ "Help Animals")
 * [News](https://www.peta.org/blog/ "News")
@@ -30,7 +30,7 @@
 
 [](https://www.peta.org/)
 
-[Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::mobile-donate-now-button)
+[Donate Now](https://support.peta.org/page/72693/donate/1?en_txn7=Navigation::mobile-donate-now-button)
 
 [People for the Ethical Treatment of Animals](https://www.peta.org/ "PETA | People for the Ethical Treatment of Animals")
 
@@ -508,7 +508,7 @@ International Sites
 
 [Next Article »](https://www.peta.org/about-peta/learn-about-peta/website-policies/contest-terms-conditions/)
 
-Share Post [Donate](https://headlines.peta.org/donate/ "Donate")
+Share Post [Donate](https://support.peta.org/page/72693/donate/1 "Donate")
 
 **Text [EGYPT to 73822](sms:73822?&body=EGYPT) to urge Egyptian officials to stop using horses & camels at the pyramids. They are routinely beaten & denied sufficient food!**
 
