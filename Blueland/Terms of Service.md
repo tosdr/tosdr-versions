@@ -27,7 +27,7 @@
 * [Mission](https://www.blueland.com/our-mission)
 * [About Us](https://www.blueland.com/about-us)
 
-* [](https://shop.blueland.com/account)
+* [](https://www.blueland.com/login)
 * 0
     
 
@@ -56,7 +56,7 @@ Toggle navigation menu
 
 Secondary navigation menu
 
-* [My Account](https://shop.blueland.com/account/login)
+* [My Account](https://www.blueland.com/login)
 * [Contact Us](https://help.blueland.com/en-US/contact)
 
 Blueland Terms & Conditions
@@ -366,9 +366,9 @@ Your cart is empty
 Explore Our Bestsellers
 -----------------------
 
-[![The Clean Suite](https://cdn.sanity.io/images/d864s8gp/production/19839a6eb31009ffc3669f499a3e18f34e917f14-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)
+[![The Clean Suite](https://cdn.sanity.io/images/d864s8gp/production/19839a6eb31009ffc3669f499a3e18f34e917f14-1790x1790.jpg?w=400&h=400&q=100&fit=clip&auto=format&w=3840)
 
-![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/b90a5bb78599d7f2211545acde3308ce3aa691d0-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/b90a5bb78599d7f2211545acde3308ce3aa691d0-1790x1790.jpg?w=400&h=400&q=100&fit=clip&auto=format&w=3840)
 
 Bestseller
 
@@ -383,9 +383,9 @@ No Reviews Yet
 
 Quick Add
 
-[![Blueland Dishwasher Tablets Starter Set](https://cdn.sanity.io/images/d864s8gp/production/f73028225df35b05bf6cca1e3f36556478c0e2f1-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)
+[![Blueland Dishwasher Tablets Starter Set](https://cdn.sanity.io/images/d864s8gp/production/f73028225df35b05bf6cca1e3f36556478c0e2f1-1790x1790.jpg?w=400&h=400&q=100&fit=clip&auto=format&w=3840)
 
-![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/070a9a34c74b4d16eff25a1807431b85d2cae82b-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/070a9a34c74b4d16eff25a1807431b85d2cae82b-1790x1790.jpg?w=400&h=400&q=100&fit=clip&auto=format&w=3840)
 
 Bestseller](https://www.blueland.com/products/dishwasher-starter-set)
 
@@ -398,7 +398,7 @@ No Reviews Yet
 
 Quick Add
 
-[![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)](https://www.blueland.com/products/laundry-starter-set)
+[![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=400&h=400&q=100&fit=clip&auto=format&w=3840)](https://www.blueland.com/products/laundry-starter-set)
 
 [Laundry Starter Set](https://www.blueland.com/products/laundry-starter-set)$25
 
@@ -409,9 +409,9 @@ No Reviews Yet
 
 Quick Add
 
-[![Toilet Bowl Cleaner Starter Set](https://cdn.sanity.io/images/d864s8gp/production/144dfa9bd95f9339c6944e054ed6e8943612eff6-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)
+[![Toilet Bowl Cleaner Starter Set](https://cdn.sanity.io/images/d864s8gp/production/144dfa9bd95f9339c6944e054ed6e8943612eff6-1790x1790.jpg?w=400&h=400&q=100&fit=clip&auto=format&w=3840)
 
-![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/1eed58fd0bdd865c4d65eac1efd528478e11694f-1790x1790.jpg?w=300&h=300&q=100&fit=clip&auto=format&w=3840)
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/1eed58fd0bdd865c4d65eac1efd528478e11694f-1790x1790.jpg?w=400&h=400&q=100&fit=clip&auto=format&w=3840)
 
 Bestseller](https://www.blueland.com/products/toilet-cleaner-starter-set)
 
