@@ -166,6 +166,64 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Back to Genesis
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/VenusFlySnap.jpg)](https://www.icr.org/article/venus-flytraps-snap)
+
+[The Venus Flytrap’s Snap](https://www.icr.org/article/venus-flytraps-snap/)
+
+The Venus flytrap is one of the more unusual plants in God’s creation. It grows naturally only on the East Coast of the United States and has...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/cant_fill_hexapod_gap.jpg)](https://www.icr.org/article/evolutionists-cant-fill-hexapod-gap)
+
+[Evolutionists Can't Fill the Hexapod Gap](https://www.icr.org/article/evolutionists-cant-fill-hexapod-gap/)
+
+Insects are ubiquitous on Earth. They fly through the air, live in trees, walk on or under the ground, and even live or hunt in water. Some are appreciated,...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/literal_adam_gospel_issue.jpg)](https://www.icr.org/article/a-literal-adam-is-a-gospel-issue)
+
+[A Literal Adam Is a Gospel Issue](https://www.icr.org/article/a-literal-adam-is-a-gospel-issue/)
+
+Was there a literal Adam? Does it matter? Many academics and even Christians claim humans descended from apes through an evolutionary process over millions...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
+
+Adam or Apes](https://store.icr.org/adam-or-apes.html)
+
+$12.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
+
+Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
+
+$15.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
+
+Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
+
+Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
+
+$4.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
+
+Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+
+$29.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
