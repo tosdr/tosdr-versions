@@ -874,6 +874,14 @@ Indu Nayak Wisconsin 05/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Awesome same day service. Professional and respectful employees. Will definitely use them again!!!
+
+Ryan McElwee Columbus 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Christian and Montonio were on time, friendly, quick and professional
 
 LG WORD FLOW LA Metro 05/10/2024
@@ -885,14 +893,6 @@ LG WORD FLOW LA Metro 05/10/2024
 Thank you Jake and Seb for removing our junk! These guys are very friendly and efficient!! Will definitely call you guys again!
 
 dawn cisler Wisconsin 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Very precise and timely pick up for an old mattress. Staff on phone and pickup were friendly !
-
-Julie Allen Columbus 05/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -914,17 +914,9 @@ Damira Grady Wisconsin 05/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-They were very fast, respectful and honest
+Very nice. Great pricing. Will use this team again.
 
-Jessica Dyer Columbus 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Awesome same day service. Professional and respectful employees. Will definitely use them again!!!
-
-Ryan McElwee Columbus 05/10/2024
+suz r Madison 05/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -933,14 +925,6 @@ Ryan McElwee Columbus 05/10/2024
 Lucas and Paris were great!
 
 Brad Leisring Cincinnati 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Very nice. Great pricing. Will use this team again.
-
-suz r Madison 05/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -994,9 +978,25 @@ Jeanne Rende Naples 05/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Very precise and timely pick up for an old mattress. Staff on phone and pickup were friendly !
+
+Julie Allen Columbus 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Harrison and Sam were kind, courteous they worked fast and did a very good job.
 
 Sarah Harenke Wisconsin 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+They were very fast, respectful and honest
+
+Jessica Dyer Columbus 05/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
