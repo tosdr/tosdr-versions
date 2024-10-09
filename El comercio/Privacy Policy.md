@@ -31,959 +31,1028 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Cristian Ramírez finalmente regresó a la Selección de Ecuador
-=============================================================
+CNE negó inscripción de la lista para asambleístas nacionales a cuatro organizaciones políticas
+===============================================================================================
 
-Tras no poder acompañar a la 'Tri' en septiembre, Ramírez está presente en la convocatoria de octubre para la nueva fecha FIFA.
--------------------------------------------------------------------------------------------------------------------------------
+Las cuatro organizaciones políticas a las que el CNE negó la inscripción de la lista para asambleístas nacionales incumplieron la ley.
+--------------------------------------------------------------------------------------------------------------------------------------
 
-![Cristian Ramírez regresó a la Selección de Ecuador después de cinco años.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-08T141211.840.jpg)
+![El CNE negó la inscripción de la lista para asambleístas nacionales a cuatro organizaciones políticas. Imagen referencial.](https://www.elcomercio.com/wp-content/uploads/2023/07/Inicio-la-impresion-de-papeletas-electorales-el-3-de-julio-del-2023.-Foto-CNE.jpg)
 
-Una de las primeras decisiones de **Sebastián Beccacece** como DT de la Selección de Ecuador fue convocar a Cristian Ramírez, quien había renunciado a la ‘Tri’ hace más de cinco años.
+El **Consejo Nacional Electoral (CNE)** negó la inscripción y la calificación de la lista para **asambleístas nacionales** a cuatro organizaciones políticas.
 
-Ramírez fue inicialmente llamado para los partidos ante Brasil y Perú en septiembre, pero una lesión y la recomendación médica de su club impidieron su regreso en esa fecha. Sin embargo, en esta nueva doble jornada de eliminatorias, el l**ateral ha vuelto y ya entrena con el equipo en Ecuador.**
+El Pleno del CNE determinó que estas organizaciones incumplieron con la L**ey Orgánica Electoral o Código de la Democracia.**
 
 ### Más noticias:
 
-* [Nilson Angulo vence a Cristian Ramírez en Europa League](https://www.elcomercio.com/deportes/futbol/nilson-angulo-uefa-europa-league-anderlecht-ferencvaros.html "Nilson Angulo vence a Cristian Ramírez en Europa League")
-* [(Video) Seleccionado ecuatoriano asiste en Europa League](https://www.elcomercio.com/deportes/video-seleccionado-ecuatoriano-asiste-en-europa-league.html "(Video) Seleccionado ecuatoriano asiste en Europa League")
-* [Cristian Ramírez y su ‘milagrosa’ recuperación](https://www.elcomercio.com/deportes/cristian-ramirez-y-su-milagrosa-recuperacion.html "Cristian Ramírez y su ‘milagrosa’ recuperación")
+El Pleno del CNE se encuentra en el proceso de calificación de las candidaturas inscritas para las **elecciones 2025**.
 
-Ramírez fue uno de los últimos jugadores en unirse al grupo de **Beccacece**, llegando al país la noche del lunes 7 de octubre. Así, el lateral del **Ferencváros** de Hungría pone fin a su ausencia en la selección, tras haber renunciado luego de la Copa América 2019.
+Las candidaturas son para las dignidades de Presidente y Vicepresidente de la República, asambleístas nacionales.
 
-Cristian Ramírez regresó a la Selección de Ecuador
---------------------------------------------------
+Además, asambleístas provinciales, asambleístas por el exterior y parlamentarios andinos, que participarán en los comicios del domingo **9 de febrero de 2025**.
 
-**Cristian** **Ramírez**, lateral izquierdo del Ferencváros, regresa a la Selección de Ecuador después de más de cinco años de ausencia, en un periodo en el que incluso decidió alejarse del equipo nacional.
+Las cuatro organizaciones políticas a las que el CNE negó la inscripción de la lista para asambleístas nacionales
+-----------------------------------------------------------------------------------------------------------------
 
-La última vez que Ramírez vistió la camiseta de la ‘Tri’ fue en la **Copa América de Brasi**l 2019, donde fue titular en dos de los tres partidos de la fase de grupos. Ecuador quedó eliminado en esa etapa.
+El Pleno del CNE conoció los informes técnicos – jurídicos de la inscripción de candidaturas.
 
-Para Francisco Egas, presidente de la Federación Ecuatoriana de Fútbol, el regreso de Ramírez es una muestra de que el **ambiente dentro de la selección ha mejorado a nivel institucional.**
+En los cuatro casos negados, los informes corresponden a **Construye, Pachakutik, Democracia Sí y Avanza.**
 
-“El regreso de Cristian **es un claro mensaje de que la selección es otra**. Ya no es la del 2019. Es un homenaje silencioso al trabajo que hemos hecho”, destacó el dirigente en una entrevista con el programa _De Una_.
+Tras el análisis realizado, se determinó que las tres organizaciones incumplen con la ley electoral en lo relacionado con las elecciones primarias.
 
-Asimismo, Egas reconoció el trabajo de los recientes cuerpos técnicos para mejorar la visión de la ‘Tri’ y expresó su satisfacción por la vuelta de Ramírez.
+El numeral 1, del **artículo 105** del Código de la Democracia, determina que el CNE no podrá negar candidaturas, excepto las mismas no provengan de procesos democráticos internos o elecciones primarias.
 
-“**Nos complace tener a Cristian de vuelta** porque es un jugador importante y siempre se comportó de manera profesional”, añadió el presidente de la FEF.
+Este fue el principal argumento para que el Pleno del CNE niegue por unanimidad la inscripción de las cuatro listas para asambleístas nacionales de estas organizaciones.
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DA2QmR4uO30/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por La Tri Ecuador 🇪🇨 (@latriecu)](https://www.instagram.com/p/DA2QmR4uO30/?utm_source=ig_embed&utm_campaign=loading)
+Construye tenía como primera en la lista para asambleístas nacionales a **Ana Galarza**, quien renunció a su curul para candidatizarse.
 
-Estadísticas de Ramírez con Ecuador
------------------------------------
+La lista de Pachakutik estaba encabezada por **Pedro Juan Bermeo Guarderas**.
 
-Cristian Ramírez recibió su primera convocatoria a la **Selección de Ecuador en 2013**, bajo la dirección de Reinaldo Rueda. Su debut con la ‘Tri’ fue en un amistoso contra Honduras ese mismo año, en el que jugó ocho minutos.
+Avanza tenía a **Javier Alejandro Orti Torres** como primero en la lista para asambleístas nacionales.
 
-Desde su primera convocatoria hasta su renuncia en 2019, Ramírez disputó 21 partidos con la selección en competiciones como **eliminatorias sudamericanas**, Copa América y partidos amistosos. Durante ese periodo, anotó un gol y brindó una asistencia.
+Finalmente, **Gustavo Larrea** encabezaba la lista de Democracia Sí.
 
-(Video) Huracán Milton: Meteorólogo llora por la llegada del monstruo categoría 5 a Florida
-===========================================================================================
+Estas organizaciones políticas pueden **impugnar** la decisión del CNE o recurrir al **Tribunal Contencioso Electoral** (TCE) que tiene la última palabra.
 
-El calentamiento de los océanos está generando ciclones tropicales más fuertes, como el Huracán Milton.
--------------------------------------------------------------------------------------------------------
-
-![Moradores y turistas han sido evacuados en algunos lugares de Florida y México](https://www.elcomercio.com/wp-content/uploads/2024/10/huracan-milton.jpg)
-
-**John Morales** es un **científico** **atmosférico** y ambiental estadounidense, miembro de la Sociedad Meteorológica de su país. Además, es uno de los **meteorólogos** con más experiencia en huracanes en el sur de Florida, Estados Unidos. Un video del **meteorólogo** se viralizó, cuando este quedó al borde del llanto en plena transmisión de NBC-6 por el Huracán Milton[.](https://es.wikipedia.org/wiki/Hurac%C3%A1n_Milton "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Milton")
-
-### Más noticias
-
-* [El huracán Milton es considerado como ‘extremadamente peligroso’](https://www.elcomercio.com/actualidad/mundo/huracan-milton-considerado-extremadamente-peligroso.html "El huracán Milton es considerado como ‘extremadamente peligroso’")
-* [Huracán Milton pierde intensidad, pero amenaza con crecer](https://www.elcomercio.com/actualidad/mundo/huracan-milton-pierde-intensidad-amenaza-crecer.html "Huracán Milton pierde intensidad, pero amenaza con crecer")
-* [Huracán Milton cambia de categoría y alerta a autoridades mexicanas](https://www.elcomercio.com/actualidad/mundo/huracan-milton-cambia-de-categoria-y-alerta-a-autoridades-mexicanas-yucatan.html "Huracán Milton cambia de categoría y alerta a autoridades mexicanas")
-
-El huracán Milton es peligroso
-------------------------------
-
-Mientras estaba dando el **informe** sobre el avance del **huracán Milton**, el **meteorólogo** se mostró afectado emocionalmente, dado que en las últimas horas se convirtió en categoría cinco, lo que lo ha llevado a considerarse como extremadamente peligroso en tiempo récord.
-
-“Es un h**uracán increíble, increíble, increíble**”, dijo mientras se le entrecortaba la voz. “Ha bajado… ha bajado 50 milibares (las unidades de presión que se usan para describir las **condiciones atmosféricas**) en 10 horas. Pido disculpas. Esto es simplemente horrible”, agregó.
-
-El video del meteorólogo
-------------------------
-
-El clip del momento empezó a ser ampliamente compartido en **redes sociales** y muchos usuarios invitaban a tomarse la **situación climática en serio** y tener en cuenta las consecuencias que el **huracán** de categoría cinco podría dejar.
-
-> ➡️ NOW: An emotional hurricane [#Milton](https://twitter.com/hashtag/Milton?src=hash&ref_src=twsrc%5Etfw) update from [@JohnMoralesTV](https://twitter.com/JohnMoralesTV?ref_src=twsrc%5Etfw) as the storm hits Cat. 5 status.  
->   
-> Take this seriously.  
->   
-> We have you covered here on [@nbc6](https://twitter.com/nbc6?ref_src=twsrc%5Etfw) [pic.twitter.com/QEe3E25JGX](https://t.co/QEe3E25JGX)
-> 
-> — CHRIS HUSH (@ChrisHushNBC) [October 7, 2024](https://twitter.com/ChrisHushNBC/status/1843323797992251407?ref_src=twsrc%5Etfw)
-
-¿A qué se debe la preocupación de Morales?
-------------------------------------------
-
-Por su parte, el **meteorólogo** explicó a Telemundo que su preocupación se relaciona, principalmente, con la magnitud del evento y las **consecuencias** que puede traer para los **habitantes** de los sitios por donde va a pasar el **huracán**.
-
-“Uno sabe lo que científicamente eso significa. No solamente una **intensificación** rápida, una **hiperintensificación** de un **huracán** de una manera descomunal, sencillamente me dio ese pequeño soponcio al aire porque es que uno piensa en todas las **víctimas** que vienen, piensa en la **multiplicación** de estos **eventos extremos**”, explicó.
-
-Un huracán potente
-------------------
-
-“Yo creo que lo que está pasando es que como se me ha ido **acumulando** \[la preocupación\]. Son muchos años, yo llevo 40 años de carrera y mitad de ese tiempo he estado tratando de **alertar sobre los cambios del calentamiento global**, el **cambio climático,** y urgiendo a que se tome acción”, añadió.
-
-El **meteorólogo** expresó su preocupación por este y otros **eventos futuros** como consecuencia del **calentamiento global.** “Entonces, mira dónde estamos y hacia dónde vamos. **Helene** fue una **hecatombe** y esto tiene el **potencial** de ser una hecatombe también, uno ocurrido detrás del otro”, señaló.
-
-Así, argumentó que el **incidente** al aire no fue fruto, sino de la **preocupación y la impotencia**: “Pues la **frustración** de tantos años alertando de una cosa que yo sabía que venía”, añadió.
-
-Calentamiento global e intensificación de huracanes
----------------------------------------------------
-
-El **experto** también se pronunció en **redes sociales,** haciendo un llamado a la acción y la urgencia: “El clima extremo impulsado por el **calentamiento global** me ha cambiado. Francamente, usted también debería estar preocupado y exigir acción climática ya”.
-
-Incluso, compartió un artículo que publicó en septiembre de este año sobre el paso del **huracán Helene**, en el que también vaticinó **huracanes** más fuertes a causa del **calentamiento global y el cambio climático**.
-
-> I debated whether to share this. I did apologize on the air. But I invite you to read my introspection on [@BulletinAtomic](https://twitter.com/BulletinAtomic?ref_src=twsrc%5Etfw) of how extreme weather 📈 driven by global warming has changed me. Frankly, YOU should be shaken too, and demand [#ClimateActionNow](https://twitter.com/hashtag/ClimateActionNow?src=hash&ref_src=twsrc%5Etfw). [https://t.co/09vxgabSmX](https://t.co/09vxgabSmX) [https://t.co/GzQbDglsBG](https://t.co/GzQbDglsBG)
-> 
-> — John Morales (@JohnMoralesTV) [October 7, 2024](https://twitter.com/JohnMoralesTV/status/1843325629741285439?ref_src=twsrc%5Etfw)
-
-Ciclones más fuertes impulsados por el cambio climático
--------------------------------------------------------
-
-“El **calentamiento de los océanos** está generando **ciclones tropicales** más fuertes, los **desastres climáticos** más costosos en Estados Unidos. La **intensidad de Helene** aumentó mientras pasaba sobre aguas que eran 3 grados Fahrenheit más cálidas que los **promedios histórico**s, una condición que el **cambio climático** ha hecho 600 veces más probable, según el índice CSI Ocean de Climate Central”, argumentó.
-
-“Los **fenómenos meteorológicos extremos**, incluidos los huracanes, son cada vez más extremos. Debo comunicar las **crecientes amenazas** que plantea la crisis climática, pase lo que pase (nunca mejor dicho)”, aseguró frente a críticas que lo llaman ‘alarmista’ por haber advertido desde hace años sobre este tipo de eventos.
-
-Petroecuador reprograma los despachos de diésel por este motivo
-===============================================================
-
-Petroecuador reprogramó los despachos de diésel premium en Riobamba debido al retraso del buque Gulf HuwayLat, afectado por condiciones climáticas en Panamá.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El buque Gulf HuwayLat transporta 280 000 barriles de diésel para Ecuador. Foto: Internet](https://www.elcomercio.com/wp-content/uploads/2024/10/buque.jpg)
-
-La empresa pública **Petroecuador** reprogramó los despachos de **diésel premium** desde el Terminal de Productos Limpios Riobamba (Chimborazo). Esto tras el **retraso** en la llegada de un buque tanquero desde **Panamá**. Así lo informó la petrolera estatal este 8 de octubre de 2024[.](https://es.wikipedia.org/wiki/Petroecuador "https://es.wikipedia.org/wiki/Petroecuador")
-
-### Más noticias
-
-* [Ministro de Energía, multas si la barcaza no entrega energía](https://www.elcomercio.com/actualidad/negocios/ministro-energia-multas-barcaza-entrega-cortes-luz-ecuador.html "Ministro de Energía, multas si la barcaza no entrega energía")
-* [Un sistema de refrigeración que sustituye electricidad por gravedad](https://www.elcomercio.com/tecnologia/sistema-refrigeracion-sustituye-electricidad-gravedad-tecnologia.html "Un sistema de refrigeración que sustituye electricidad por gravedad")
-* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
-
-Según la empresa pública, el **buque Gulf HuwayLat**, que transporta 280 000 barriles de diésel, se **retrasó** y causó dificultades en el despacho de este producto en la Sierra Centro. Se esperaba que el cargamento llegara en los primeros días de octubre, pero problemas climatológicos en el puerto de carga en **Panamá** demoraron la entrega, informó la compañía proveedora **Tartan Oil LLC**.
-
-Ante esta situación, **Petroecuador** señaló que derivó la demanda de **diésel premium** de la zona central del país. Esta será atendida desde los Terminales de Productos Limpios Pascuales (Guayas) y La Troncal (Cañar).
-
-Este plan asegura el abastecimiento a las comercializadoras del segmento automotor en las provincias de **Chimborazo, Bolívar** y áreas aledañas, aseguró Petroecuador. Además, agregó que esto evitará interrupciones en el suministro.
-
-Según la petrolera estatal, otros terminales, como **El Beaterio** (Pichincha), **Santo Domingo** (Santo Domingo de los Tsáchilas) y **Ambato** (Tungurahua), están operando con normalidad y cuentan con suficiente stock de combustible.
-
-Además, Petroecuador señaló que la disponibilidad de combustibles a nivel nacional está asegurada, a pesar de los contratiempos climáticos. Varios industriales se quejaron en días pasados por la falta de diésel para cargar los generadores de electricidad. Esto en medio de la **crisis energética** que vive actualmente el país y ha obligado a programar cortes prolongados de energía para el sector industrial.
-
-Te explicamos cómo Geoffrey Hinton y John  Hopfield revolucionaron la IA 
-=========================================================================
-
-Geoffrey Hinton y John Hopfield recibieron el Nobel de Física 2024 por sus innovaciones en IA y aprendizaje automático.
------------------------------------------------------------------------------------------------------------------------
-
-![El Premio Nobel de Física otorgado a Geoffrey Hinton y John Hopfield marca un hito en la historia de la IA. Foto: France24.](https://www.elcomercio.com/wp-content/uploads/2024/10/Hinton-Hopfield-IA.jpg)
-
-Este 8 de octubre de 2024, la **Academia Sueca de Ciencias** ha otorgado el **Premio Nobel de Física a Geoffrey Hinton y John Hopfield**.  
-
-### Más noticias
-
-* [Nobel de Física, para Hopfield y Hinton por contribución a la IA](https://www.elcomercio.com/tendencias/ciencia/nobel-de-fisica-para-hopfield-y-hinton-por-contribucion-a-ia.html "https://www.elcomercio.com/tendencias/ciencia/nobel-de-fisica-para-hopfield-y-hinton-por-contribucion-a-ia.html")
-* [Meta anunció inteligencia artificial en Instagram para traducir Reels en tiempo real](https://www.elcomercio.com/tecnologia/meta-inteligencia-artificial-instagram.html "https://www.elcomercio.com/tecnologia/meta-inteligencia-artificial-instagram.html") 
-
-Este reconocimiento **marca un hito en la historia de la inteligencia artificial** (IA), ya que es **la primera vez que se premia a científicos por sus contribuciones en este campo**, según lo explicado por revista [Muy Interesante](https://www.muyinteresante.com/ciencia/66302.html "https://www.muyinteresante.com/ciencia/66302.html").  
-
-Hinton, conocido como el “padrino de la IA”, y **Hopfield, pionero en redes neuronales**, han sido fundamentales en el **desarrollo del aprendizaje automático**, una tecnología que transforma la manera en que interactuamos con el mundo digital.   
-
-**Contribuciones de Geoffrey Hinton y John  Hopfield** 
--------------------------------------------------------
-
-### **Hinton y sus redes neuronales** 
-
-**Geoffrey Hinton**, profesor de la **Universidad de Toronto**, ha sido clave en el desarrollo de la **inteligencia artificial**. 
-
-Él creó un sistema llamado **“Boltzmann machine”**, que **ayuda a las computadoras a aprender a identificar patrones en grandes cantidades de datos**. Esto es útil para cosas como **reconocer imágenes o entender textos**, según [NBC](https://www.nbcnews.com/news/world/physics-nobel-prize-won-hopfield-hinton-artificial-intelligence-rcna174440 "https://www.nbcnews.com/news/world/physics-nobel-prize-won-hopfield-hinton-artificial-intelligence-rcna174440"). 
-
-Además, **Hinton fue uno de los primeros en usar una técnica llamada “descenso por gradiente”**, que permite que **las computadoras aprendan mejor al ajustar cómo procesan la información**. Esto mejora su capacidad con el tiempo, como explica [Quartz](https://qz.com/ai-geoffrey-hinton-john-hopfield-machine-learning-nobel-1851667556 "https://qz.com/ai-geoffrey-hinton-john-hopfield-machine-learning-nobel-1851667556"). 
-
-### **Hopfield y su red asociativa** 
-
-**John Hopfield**, profesor emérito en Princeton, es famoso por crear la **“Hopfield network”** en 1982. **Este tipo de sistema ayuda a las computadoras a guardar y recuperar información**, lo que es muy importante para tareas como el r**econocimiento facial y la reconstrucción de imágenes**, según [Fortune](https://fortune.com/2024/10/08/ai-pioneers-geoffrey-hinton-and-john-hopfield-win-nobel-prize-for-physics/ "https://fortune.com/2024/10/08/ai-pioneers-geoffrey-hinton-and-john-hopfield-win-nobel-prize-for-physics/"). 
-
-**La red que desarrolló Hopfield utiliza ideas de la física para resolver problemas difíciles**. Cuando se le da una información distorsionada, **esta red puede reconstruir la información original** mediante un proceso que trabaja paso a paso para encontrar la mejor solución, según la Página del [Premio Nobel](https://www.nobelprize.org/prizes/physics/2024/press-release/ "https://www.nobelprize.org/prizes/physics/2024/press-release/"). 
-
-**Impacto en la inteligencia artificial**   
---------------------------------------------
-
-Las **investigaciones de Hinton y Hopfield** han sido fundamentales para el **auge del aprendizaje automático**. Sus descubrimientos han permitido avances significativos en diversas aplicaciones prácticas:   
-
-* **Reconocimiento facial**: Las **redes neuronales** permiten identificar rostros con alta precisión.   
-
-* **Traducción automática:** Los sistemas de IA **utilizan estas técnicas para traducir textos** entre diferentes idiomas.   
-
-* **Diagnóstico médico:** Algoritmos entrenados con **redes neuronales** pueden ayudar a **diagnosticar enfermedades a partir de imágenes médicas**.   
-
-La presidenta del comité Nobel, **Ellen Moons**, citada por [The Guardian](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-john-hopfield-geoffrey-hinton-machine-learning "https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-john-hopfield-geoffrey-hinton-machine-learning"), destacó que las contribuciones de estos científicos han facilitado decisiones más rápidas y confiables para los humanos, integrándose profundamente en nuestra vida cotidiana.   
-
-**Reflexiones sobre el futuro**   
-----------------------------------
-
-A pesar del reconocimiento recibido, **Hinton ha expresado preocupaciones sobre los riesgos asociados con el desarrollo descontrolado de la IA**. En 2023, renunció a su puesto en Google, al advertir sobre las posibles consecuencias negativas que podría tener esta tecnología si no se gestiona adecuadamente. Hinton afirmó: “Si no lo hubiera hecho yo, alguien más lo habría hecho”, según recoge [Fortune](https://fortune.com/2024/10/08/ai-pioneers-geoffrey-hinton-and-john-hopfield-win-nobel-prize-for-physics/ "https://fortune.com/2024/10/08/ai-pioneers-geoffrey-hinton-and-john-hopfield-win-nobel-prize-for-physics/"). 
-
-Hopfield también ha reflexionado sobre cómo **sus descubrimientos pueden ser utilizados tanto para fines positivos como negativos**. La comunidad científica se enfrenta al desafío de garantizar que **estas tecnologías se utilicen éticamente**.   
-
-Pedro Vite está nominado a un prestigioso premio en la MLS
+Barcelona Sporting Club tuvo siete entrenadores desde 2019
 ==========================================================
 
-Pedro Vite atraviesa un gran momento en su carrera, y su nominación a un premio en la MLS lo confirma.
-------------------------------------------------------------------------------------------------------
+Barcelona SC ocupa el noveno puesto en la segunda etapa de la Lia Pro. Perdió cuatro partidos y tiene 13 puntos.
+----------------------------------------------------------------------------------------------------------------
 
-![Pedro Vite en un entrenamiento con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-08T125551.651.jpg)
+![Ariel Holan en su presentación como entrenador de Barcelona SC en abril de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/entrenadores_bsc_1.jpg)
 
-**Pedro** **Vite**, mediocampista ecuatoriano y jugador de los Vancouver Whitecaps de Canadá, sigue destacando en la **Major League Soccer** (MLS) de Estados Unidos. Con tan solo 22 años, el exjugador de Independiente del Valle está en su tercera temporada con el equipo canadiense.
+**Barcelona Sporting Club** atraviesa un 2024 lleno de malos resultados e inestabilidad deportiva que lo han llevado a una crisis de resultados en la segunda etapa de la Liga Pro.
 
-Su rendimiento **ha sido tan sobresaliente** que lo nominaron al premio al **Mejor Jugador Joven** de la MLS, consolidándose entre los 30 mejores jugadores jóvenes del campeonato estadounidense.
-
-### Más noticias:
-
-* [Marco Angulo, campeón de América con cinco cracks de Ecuador](https://www.elcomercio.com/deportes/futbol/marco-angulo-campeon-libertadores-sub-20.html "Marco Angulo, campeón de América con cinco cracks de Ecuador")
-* [Leonardo Campana y otras sorpresas de la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-leonardo-campana-sorpresas.html "Leonardo Campana y otras sorpresas de la Selección de Ecuador")
-* [La Selección de Ecuador trabaja a doble jornada para eliminatorias](https://www.elcomercio.com/deportes/seleccion-ecuador-eliminatorias-paraguay-entrenamiento-beccacece.html "La Selección de Ecuador trabaja a doble jornada para eliminatorias")
-
-### Pedro Vite entre los mejores jóvenes de la MLS
-
-En la temporada actual, Vite **es pieza clave para los Vancouver Whitecaps** y por eso participó en la mayoría de los compromisos, ya sea como titular o suplente. A lo largo del año, ha jugado 38 partidos en cuatro competiciones diferentes, sumando dos goles y una asistencia.
-
-Gracias a su gran desempeño, se lo incluyó entre los candidatos a ganar el premio al **Mejor Jugador Joven de la MLS**. La votación para este reconocimiento comenzó el 7 de octubre y finalizará el lunes 21 del mismo mes. Los ganadores se anunciarán el jueves 24.
-
-La elección de los ganadores será **realizada por los medios de comunicación,** el cuerpo técnico de los clubes y los jugadores activos de la MLS, con cada grupo representando el 33.3% de los votos. Ni el personal técnico ni los jugadores podrán votar por los nominados de su propio equipo.
-
-### Pedro Vite y la Selección de Ecuador
-
-A pesar de su éxito en la **MLS, Pedro Vite** ha tenido pocas oportunidades en la Selección de Ecuador. Su primera convocatoria fue en 2023, bajo el mando de Félix Sánchez Bas, con quien debutó en un amistoso contra Costa Rica, anotando su primer y único gol con la ‘Tri’.
-
-Tras ese partido, no lo llamaron nuevamente hasta la llegada de **Sebastián Beccacece** como nuevo seleccionador, quien lo convocó para los partidos de eliminatorias sudamericanas ante Brasil y Perú. Vite jugó más de 30 minutos en el duelo ante los peruanos.
-
-En la convocatoria más reciente, Pedro **Vite volvió a integrar la lista** para los cotejos ante Paraguay y Uruguay, en el marco de las eliminatorias rumbo al Mundial 2026.
-
-El avión caza-huracanes WP-3D Orion voló directo al huracán Milton
-==================================================================
-
-Los vuelos en estos aviones son esenciales para recopilar datos críticos que mejoran la precisión de los pronósticos.
----------------------------------------------------------------------------------------------------------------------
-
-![Cazador de huracanes Orion Lockheed WP-3D de NOAA.](https://www.elcomercio.com/wp-content/uploads/2024/10/avion-caza-huracanes.jpg)
-
-El avión caza-huracanes WP-3D Orion Miss Piggy de la **Oficina Nacional de Administración Oceánica y Atmosférica** (NOAA), voló directo al centro del [huracán Milton](https://www.elcomercio.com/actualidad/mundo/huracan-milton-pierde-intensidad-amenaza-crecer.html "https://www.elcomercio.com/actualidad/mundo/huracan-milton-pierde-intensidad-amenaza-crecer.html").
-
-### Más noticias
-
-* [El huracán Milton es considerado como ‘extremadamente peligroso’](https://www.elcomercio.com/actualidad/mundo/huracan-milton-considerado-extremadamente-peligroso.html "El huracán Milton es considerado como ‘extremadamente peligroso’")
-* [Huracán Milton cambia de categoría y alerta a autoridades mexicanas](https://www.elcomercio.com/actualidad/mundo/huracan-milton-cambia-de-categoria-y-alerta-a-autoridades-mexicanas-yucatan.html "Huracán Milton cambia de categoría y alerta a autoridades mexicanas")
-* [Autoridades sobre el huracán Milton: ‘el tiempo se acaba’](https://www.elcomercio.com/actualidad/mundo/huracan-milton-florida-tiempo-se-acaba.html "Autoridades sobre el huracán Milton: ‘el tiempo se acaba’")
-
-¿Cuál es la función de estos aviones?
--------------------------------------
-
-Los vuelos en estos aviones son esenciales para recopilar **datos críticos** que mejoran la precisión de los pronósticos. Además, profundizan la **comprensión científica** sobre los huracanes.
-
-Instrumentos avanzados para medir vientos
------------------------------------------
-
-Esta aeronave está equipada con instrumentos avanzados para **medir vientos, presión y temperatura.** En este contexto, volar hacia el ojo de una tormenta permite obtener información valiosa.
-
-Resistencia y diseño
---------------------
-
-Su resistencia y diseño la hacen ideal para soportar las **condiciones extremas de un ciclón.** Gracias a misiones como esta, los científicos mejoran sus predicciones y **modelos climáticos**. El huracán Milton es estudiado en tiempo real, brindando información clave para la seguridad.
-
-Elementos de los WP-ED
-----------------------
-
-Los WP-3D están equipados con **tres radares meteorológicos,** un radar de banda C en el morro y en la parte inferior del fuselaje y un radar de banda X en la cola del avión. También están equipados con la capacidad de **desplegar sondas** de caída en sistemas de tormentas y tienen sensores de temperatura a bordo y otros equipos meteorológicos.
-
-Niño queda en coma tras accidente en escuela de Guayaquil
-=========================================================
-
-La familia del menor señala que en el plantel no les advirtieron de la gravedad de la caída. Ministerio de Educación investiga.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Foto referencial. El niño sufrió una caída dentro del plantel.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-6.jpg)
-
-Este martes 8 de octubre de 2024, se conoció de un l**amentable hecho** en torno a un incidente en una escuela de Guayaquil, Guayas.
-
-### Más noticias
-
-* [Policía detiene a exasambleísta por presunta concusión](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-exasambleista-por-presunta-concusion.html "Policía detiene a exasambleísta por presunta concusión")
-* [Ataque armado en Guayas deja un militar fallecido](https://www.elcomercio.com/actualidad/seguridad/ataque-armado-en-guayas-deja-un-militar-fallecido.html "Ataque armado en Guayas deja un militar fallecido")
-* [Volcamiento de camión congestiona el tráfico en Tambillo](https://www.elcomercio.com/actualidad/ecuador/tambillo-volcamiento-camion-congestiona-trafico.html "Volcamiento de camión congestiona el tráfico en Tambillo")
-
-El accidente del menor
-----------------------
-
-Un menor, de 4 años, se habría encontrado **jugando en una resbaladera** del plantel educativo al que asiste en el sur de Guayaquil. Lamentablemente, **el niño se cayó del juego infantil y** se golpeó la cabeza.
-
-Según información del Ministerio, el hecho se dio el **30 de septiembre de 2024** y las autoridades educativas abrían actuado de manera oportuna para asistir al menor.
-
-El **Ministerio de Educación** informó que las autoridades del plantel llamaron de inmediato a los padres del menor tras registrarse esta caída en el área de juegos infantiles de la escuela.
-
-¿Qué pasó con el niño?
-----------------------
-
-Los padres retiraron al menor y l**o llevaron a casa** sin saber la gravedad del golpe. Ellos alegan que en la escuela no se les informó, por lo que presentaron una denuncia.
-
-Una vez en casa, el menor se quedó dormido pero despertó con mucho dolor. Posteriormente, el niño se desvaneció, por lo que lo trasladaron al **hospital Roberto Gilbert,** en el norte de Guayaquil. En la casa de salud, lo ingresaron a la Unidad de Cuidados Intensivos (UCI).
-
-El menor **se encuentra en coma** desde hace una semana y **con pronóstico reservado**. La caída le habría causado una fractura de cráneo.
-
-El **Ministerio de Educación** inició una investigación interna para determinar las causas del accidente y tomar medidas correctivas necesarias. También se inspecciona la zona de juegos infantiles para asegurar la seguridad de los menores.
-
-Además, se mantiene en contacto con la familia para brindarles la**s facilidades necesarias y** apoyo emocional en este [lamentable hecho.](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil")
-
-También se brinda apoyo sicológico y **contención emocional** a la comunidad educativa, especialmente a los compañeros de clase del estudiante afectado.
-
-Siete etapas definen la Vuelta Ciclística a Ecuador 2024
-========================================================
-
-La Vuelta Ciclística a Ecuador 2024 ha sido ratificada para noviembre. ¿Cuántas etapas se correrán? ¿Cuáles serán los equipos?
-------------------------------------------------------------------------------------------------------------------------------
-
-![La Vuelta Ciclística al Ecuador 2024 se realizará en noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-9.jpg)
-
-El ciclismo ecuatoriano tendrá uno de sus grandes eventos en este 2024 con la **Vuelta Ciclística a Ecuador**. La carrera fue presentada durante este martes 8 de octubre y se dará inicio el 10 de noviembre.
-
-En un evento que contó con la presencia de Santiago Rosero, presidente de la **Federación Ecuatoriana de Ciclismo** (FEC), **José Jiménez**, ministro de deporte y otras autoridades se brindaron detalles. Rosero fue el encargado de brindar los pormenores en torno a una de las máximas citas ciclísticas del país.
-
-### Más noticias:
-
-* [Opciones de ciclismo para el feriado del 9 de octubre en Ecuador](https://www.elcomercio.com/deportes/ciclismo/opciones-ciclismo-feriado-octubre-ecuador-2024.html "Opciones de ciclismo para el feriado del 9 de octubre en Ecuador")
-* [Campeón del mundo de ciclismo es asesinado en Colombia](https://www.elcomercio.com/deportes/campeon-mundo-colombia-ciclismo-asesinato.html "Campeón del mundo de ciclismo es asesinado en Colombia")
-* [Richard Carapaz prepara la temporada 2025](https://www.elcomercio.com/deportes/ciclismo/richard-carapaz-temporada2024-resultados-ecuador.html "Richard Carapaz prepara la temporada 2025")
-
-El dirigente señaló que la FEC se ha hecho cargo del certamen y que este se posiciona en su institución. Antes, instituciones como la Concentración Deportiva de Pichincha se habían hecho cargo de la organización de esta.
-
-Rosero especificó que en el marco de la **Vuelta Ciclística a Ecuador** también estarán presentes la Vuelta Femenina y la Vuelta Juvenil. En el caso de la competencia principal, esta contará con siete etapas y también contará con equipos y participantes internacionales.
-
-¿Cuáles serán las etapas de la Vuelta Ciclística de Ecuador?
-------------------------------------------------------------
-
-Las siete etapas con las que contará la Vuelta Ciclística de Ecuador abarcarán las regiones Costa y Sierra, donde la última tendrá un papel preponderante. En el certamen, los ciclistas rodarán un total de 1 125, 2 kilómetros (km), los cuales se dividen entre las distintas fases.
-
-La primera etapa arrancará desde **Calacalí** e irá hasta La Concordia en un trayecto de 157, 5 km. A ello le seguirán Valle Hermoso – Babahoyo, 239, 23 km; El Arenal (Chimborazo) – Alausí, 115, 9 km; Circuito de Riobamba 110,1 km.
-
-Las tres etapas restantes tendrán serán entre Urbina (Chimborazo) y Machachi con 152 km y Machachi y Cotacachi con 182,8 km. Finalmente, el trayecto entre **Atuntaqui – Mitad del Mundo** de 158, 6 cerrará.
-
-![Las siete etapas de la Vuelta al Ecuador 2024. ](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-11-1024x683.jpg)
-
-Las siete etapas de la Vuelta al Ecuador 2024.
-
-Equipos invitados y participantes internacionales
--------------------------------------------------
-
-La Vuelta Ciclística a Ecuador contará con equipos internacionales en función de delegaciones invitadas y otros inscritos extranjeros. Debido al reglamento de la Unión Internacional de Ciclismo (UCI); los organizadores deben invitar a los tres equipos mejor ubicados a nivel continental.
-
-Quienes han recibido la invitación de parte de la FEC son el Team Medellín (Colombia), Cultura y Valores (Panamá) y Hagens Berman de Estados Unidos. Rosero sostuvo que todos estos equipos tienen en sus manos la decisión.
-
-Entre los equipos internacionales también estará el mexicano Petrolyke del ecuatoriano **Jonathan Caicedo** y al Río Grande de Estados Unidos
-
-Entre los participantes internacionales que ya están confirmados se encuentran la Selección de Costa Rica. Además, también estará presente la Selección de Guatemala.
-
-A los jóvenes sí les importa su país
-====================================
-
-Inquietudes que revelan preocupación por el futuro del país y el deseo de cambio ante la inercia política.
-----------------------------------------------------------------------------------------------------------
-
-![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
-
-En muchas ocasiones pensamos, decimos y actuamos como si a los **jóvenes** no les interesara la **política**. Pero no es cierto. Cada año, por la **oportunidad** que tengo de **trabajar** con varios que están entre los 18 y los 28 años, veo que sí se interesan por ella y que solo hace falta hablar, **contarles historias**, para que se **enganchen** y, sobre todo, digan lo que en **realidad** piensan. Algunos, aunque no siempre lo dicen con esas **palabras**, les importa el país, porque si **esperan y aspiran vivir** aquí y les preocupa lo que les están dejando las **generaciones** que los preceden.
-
-Permítanme les cuento dos **historias distintas**. Una es de dos jóvenes de 21 años, uno estudiante de Derecho y otro de Finanzas, de dos universidades distintas, que hablaban sobre la **crisis eléctrica**, la molestia por los **cortes de luz** y las **medidas** que ha tomado el **Gobierno**.
-
-De alguna forma aceptaban -no con todo el agrado- **no tener luz en su casa** y que deban pasar más tiempo en sus **universidades,** en sitios de coworking o donde otros **familiares** a los que no les tocó el turno de quedarse a oscuras. Sin embargo, les inquietaba y se preguntaban con **indignación** cómo iban a trabajar las **empresas**, cómo se mantendrán los **empleos** y -esta fue la pregunta que más me gustó- por qué dependemos de las **lluvias**.
-
-En su **cabeza** no tiene sentido que en pleno **siglo XXI,** cuando casi todas las **actividades** dependen de la **energía**, debamos esperar que llueva 15 días seguidos y con **fuerza**, para que no quiten la luz. “¿No hay **planificación** en el país?, ¿a nadie se le ha ocurrido trazar un plan para tener **diferentes formas** de **energía**?, ¿por qué nadie se para y reclama?”.
-
-En ese momento, me moría de ganas de **interrumpir la conversación,** para felicitar a los dos jóvenes, no solo por preocuparse por lo que ocurre a su **alrededor**, sino porque las preguntas están correctamente planteadas. Llevamos **décadas** con un **problema**, como todos los demás del **país**, al que eludimos, con la **esperanza** de que el otro haga algo y si nadie hace nada, **asumimos la posición** del “ni modo”.
-
-El segundo ejemplo ocurrió a la salida de una **clase de pregrado**, cuando uno de mis estudiantes me pidió que le explicará el problema del **IESS**. Entendía que la **seguridad social** es importante para los **jubilados**, pero le preocupaba empezar a trabajar y tener que forzosamente pagar a una **institución** que, claramente, estaba quebrada, mal administrada y que nadie quería ponerse el **problema** en los hombros para solucionarlo.
-
-Más allá de la **explicación** que le di, esto me ratificó que hay jóvenes que sí miran al país, que les duele, que les preocupa y que no quieren afrontar un **futuro** más incierto y con **responsabilidades** que, en realidad, no son de ellos, sino de los que somos mayores.
-
-Esos jóvenes, al igual que otros muchos **ciudadanos**, estamos cansados de esa mala **política** implantada en el **país** hace mucho, del **oportunismo** y la inercia, que nos tiene **paralizados**. Me quedo con la **esperanza** que me han dejado estos chicos y otros más con los que me he cruzado en el camino.
-
-Anne Hathaway sí estará en ‘El diario de la Princesa 3’
-=======================================================
-
-La primera cinta de la saga se estrenó en 2001.
------------------------------------------------
-
-![Anne Hathaway repite su papel protagónico en 'El diario de la princesa 3'. Foto: IMDB](https://www.elcomercio.com/wp-content/uploads/2024/10/anne-hathaway-El-comercio-3.jpg)
-
-Disney dio luz verde a la esperada tercera entrega de ‘El diario de la princesa’. Como si eso no fuera suficiente para emocionar a los fans de la cinta, hay otra novedad.
-
-Anne Hathaway (41 años) regresa en su icónico papel de Mia Thermopolis. Además, la dirección de la película estará a cargo de Adele Lim, conocida por su trabajo en ‘Crazy Rich Asians’ y ‘Raya y el último dragón’.
-
-### Más noticias
-
-* **[Netflix revela la fecha de estreno de la serie ‘Cien años de soledad’](https://www.elcomercio.com/tendencias/netflix-estreno-cien-anos-de-soledad.html "https://www.elcomercio.com/tendencias/netflix-estreno-cien-anos-de-soledad.html")**
-* **[Bad Bunny participará en una nueva película junto a Austin Butler](https://www.elcomercio.com/tendencias/bad-bunny-pelicula-austin-butler-darren-aronofsky.html "https://www.elcomercio.com/tendencias/bad-bunny-pelicula-austin-butler-darren-aronofsky.html")**
-
-Esta será la primera vez que Lim se pondrá detrás de la cámara como cineasta.
-
-Una nueva visión para la franquicia
------------------------------------
-
-![Escena de 'El diario de la princesa' (2001). Foto: IMDB](https://www.elcomercio.com/wp-content/uploads/2024/10/anne-hathaway-El-comercio-2-1024x683.jpg)
-
-Escena de ‘El diario de la princesa’ (2001). Foto: IMDB
-
-Adele Lim expresó su entusiasmo por formar parte de este proyecto, destacando su amor por las dos primeras películas de la saga.
-
-“Como fan incondicional de Los diarios de la princesa, estoy emocionada de celebrar sus principios fundamentales de poder femenino, alegría y tutoría”, mencionó Lim en un comunicado reciente.
-
-Además de Hathaway, la película contará con una historia escrita por Aadrita Mukerji, guionista de Supergirl, mientras que Melissa K. Stack y Debra Martin Chase se unirán a la producción. Chase ya había participado como productora ejecutiva en las dos primeras entregas de la franquicia.
-
-El legado de Mia Thermopolis
-----------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/anne-hathaway-El-comercio-1024x683.jpg)
-
-La primera película de ‘El diario de la princesa’ se estrenó en 2001 y se convirtió en un éxito de taquilla, lanzando a Anne Hathaway al estrellato. En aquel entonces la actriz tenía 18 años.
-
-La trama seguía a Mia Thermopolis, una adolescente que descubre que es la heredera de un pequeño reino europeo. Con la participación de Julie Andrews, la película se consolidó como un clásico para la generación que creció en los años 2000.
-
-La secuela, lanzada solo 3 años después, en 2004, también fue un éxito, aunque no recibió las mismas críticas favorables que la primera entrega.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/anne-hathaway-El-comercio-1-1024x683.jpg)
-
-A pesar de ello, la historia de Mia sigue siendo muy querida por los fanáticos de todo el mundo. Aún no se ha revelado una fecha oficial para el estreno de la tercera película.
-
-Operaciones del aeropuerto de Quito, normales por huracán Milton
-================================================================
-
-Dos vuelos diarios unen Quito con Miami y otro, dos veces por semana, con Orlando. ¿El huracán Milton podría afectar las operaciones del aeropuerto Mariscal Sucre?
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Las conexiones desde el aeropuerto Mariscal Sucre con Miami se mantienen por el momento pese al huracán.](https://www.elcomercio.com/wp-content/uploads/2024/10/aeropuerto-quito-milton.jpg)
-
-Cada vez que un **huracán** se acerca a **Florida**, los aeropuertos, las aerolíneas y los pasajeros entran en tensión. En estos días, las autoridades estadounidenses calificaron al huracán **Milton** como extremadamente peligroso y eso podría afectar las **operaciones** del **aeropuerto de Quito**.
-
-### Más noticias
-
-* [El huracán Milton es considerado como ‘extremadamente peligroso’](https://www.elcomercio.com/actualidad/mundo/huracan-milton-considerado-extremadamente-peligroso.html "El huracán Milton es considerado como ‘extremadamente peligroso’")
-* [Autoridades sobre el huracán Milton: ‘el tiempo se acaba’](https://www.elcomercio.com/actualidad/mundo/huracan-milton-florida-tiempo-se-acaba.html "Autoridades sobre el huracán Milton: ‘el tiempo se acaba’")
-* [Huracán Milton pierde intensidad, pero amenaza con crecer](https://www.elcomercio.com/actualidad/mundo/huracan-milton-pierde-intensidad-amenaza-crecer.html "Huracán Milton pierde intensidad, pero amenaza con crecer")
-
-La operación del aeropuerto de Quito se mantiene
-------------------------------------------------
-
-En la mañana de este **8 de octubre del 2024,** los dos aviones que salen del aeropuerto Mariscal Sucre de Quito partieron a la hora convenida.
-
-Entre Quito y Miami operan dos vuelos diarios. Uno es el de **American Airlines**, que despegó del aeropuerto de Quito a las 06:15. El otro, que es de la compañía **Latam**, partió a las 09:22 de este martes 8 de octubre.
-
-Se espera que por la **noche lleguen los vuelos** desde esa ciudad estadounidense. El primero, de American Airlines, deberá arribar a las 16:15; el de Latam, a las 19:05.
-
-A la espera de información
---------------------------
-
-Avianca, en cambio, opera dos veces por semana entre Orlando y Quito: miércoles y domingo. Al menos para mañana 9 de octubre, no se han pronunciado por algún cambio o suspensión de su vuelo.
-
-Por el momento no hay novedades de las aerolíneas ni los aeropuertos involucrados con estas conexiones con Quito. Sin embargo, como sostiene Luis Galárraga, gerente de comunicación de Quiport, están constantemente pendientes de las novedades meteoróligas y las resoluciones de las aerolíneas[.](https://es.wikipedia.org/wiki/Quiport "https://es.wikipedia.org/wiki/Quiport")
-
-“No ha habido ningún tipo de notificación por parte de las aerolíneas hasta el momento. Lo que suele ocurrir en estos casos, cuando se vuelve inminente la llegada del huracán y se tiene una estimación de a magnitud en el momento de su llegada, ahí se toma una decisión”, añade Galárraga.
-
-La zona más afectada por el hurcán Milton será la margen oeste de Florida, que da al Golfo de México, es decir Tampa y sus alrededores.
-
-Estudiantes de 26 colegios se formarán bajo la doctrina de las Fuerzas Armadas
-==============================================================================
-
-Bloque de Seguridad dio un nuevo balance. Se potenciará el vínculo en colegios con las Fuerzas Armadas.
--------------------------------------------------------------------------------------------------------
-
-![Bloque de Seguridad está operativo en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/fuerzas-armadas.jpg)
-
-Las autoridades que lideran el **Bloque de Seguridad** en Ecuador dieron un nuevo balance de las acciones emprendidas por las fuerzas del orden. Hicieron un anuncio sobre colegios que serán regidos por las **Fuerzas Armadas**[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
-
-Por otra parte, este martes, 8 de octubre de 2024, el ministro de Defensa, **Gian Carlo Loffredo** manifestó el apoyo a la ministra del Interior, **Mónica Palencia,** en el marco del juicio político que se desarrolla en la Asamblea Nacional.
-
-### Más noticias
-
-* [Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea](https://www.elcomercio.com/actualidad/politica/ministros-no-informaron-avances-bloque-seguridad-asamblea.html "Ministros no informaron sobre avances del Bloque de Seguridad ante la Asamblea")
-* [Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad](https://www.elcomercio.com/actualidad/seguridad/ataque-manta-genera-ajustes-estrategias-bloque-seguridad.html "Ataque en Manta genera ajustes en estrategias de Bloque de Seguridad")
-* [Fiscalización deja en suspenso decisión sobre el juicio político contra Mónica Palencia](https://www.elcomercio.com/actualidad/politica/fiscalizacion-decision-juicio-politico-monica-palencia.html "Fiscalización deja en suspenso decisión sobre el juicio político contra Mónica Palencia")
-
-Fuerzas Armadas y colegios
---------------------------
-
-El Ministro destacó la importancia de las denuncias ciudadanas para seguir combatiendo la inseguridad. Estas se pueden realizar a través de la línea 131 y, así, convertirse en un integrante más del **Bloque de Seguridad**.
-
-Por otro lado, informó que alrededor de **23 000** estudiantes de **26 colegios** se formarán bajo la doctrina militar.
-
-Son los colegios militares que pasan a la administración del **Ministerio de Defensa y las Fuerzas Armadas**.
-
-Ellos serán cadetes y para quienes tengan el interés y la vocación de seguir con la carrera, la formación viabiliza el ingreso a las **Fuerzas Armadas**.
-
-En el informe, además, se indicó que las **Fuerzas Armadas** están en 19 de los 35 centros de privación de la libertad. Una de las previsiones es construir geocercas para anular la comunicación.
-
-Las acciones en campo
----------------------
-
-**Víctor Hugo Zárate**, comandante general de la Policía Nacional, informó que **25 policías han perdido la vida** en las labores de seguridad.
-
-Según el informe, en las tareas de la **Policía y las Fuerzas Armadas** se consiguió reducir la violencia a escala nacional, relacionada con homicidios intencionales.
-
-> ¡Golpe a la minería ilegal: 9 bocaminas destruidas en la provincia del Azuay!🇪🇨  
->   
-> Personal de [@FFAAECUADOR](https://twitter.com/FFAAECUADOR?ref_src=twsrc%5Etfw), intensifica las operaciones militares en contra de la minería ilegal:  
->   
-> ➡️9 bocaminas destruidas.  
-> ➡️maquinaria inhabilitada.  
-> ➡️material utilizado para el ilícito… [pic.twitter.com/ykeheiIMIN](https://t.co/ykeheiIMIN)
-> 
-> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [October 8, 2024](https://twitter.com/DefensaEc/status/1843471613318369375?ref_src=twsrc%5Etfw)
-
-La baja reportada fue del **18%**, del 1 de enero al 6 de octubre de 2024, respecto del mismo período de 2023; es decir, pasaron de 6 037 a 4 959.
-
-En ese camino, 18 personas consideradas objetivos de alto valor han sido identificadas y nueve ya han sido detenidas.
-
-Se suman, a su vez, **1 236 personas** puestas a órdenes de autoridades competentes por el delito de extorsión.
-
-Acciones con apoyo de Estados Unidos
-------------------------------------
-
-El **Ministro de Defensa**, además, se solidarizó con la familia del subteniente **Christian Morales**, quien falleció a manos de la delincuencia. Esto ocurrió en el poliducto Pascuales-La Troncal.
-
-> El Ministerio de Defensa Nacional expresa su sentimiento de pesar ante el sensible fallecimiento del subteniente de Ingeniería (+) Christian Fabricio Morales Amán, quien perdió la vida en el cumplimiento de su deber. 🕊️  
->   
-> Esta Cartera de Estado se solidariza con los familiares,… [pic.twitter.com/bi5JKHN9l5](https://t.co/bi5JKHN9l5)
-> 
-> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [October 8, 2024](https://twitter.com/DefensaEc/status/1843659675876675600?ref_src=twsrc%5Etfw)
-
-**Gian Carlo Loffredo** indicó que el compromiso por recuperar la paz está más firme que nunca. A la par, señaló sobre las labores relacionadas con minería ilegal.
-
-Se dieron dos nuevos golpes al **narcotráfico** en el mar. En menos de una semana, la **Armada de Ecuador** en coordinación con la guardia costera de Estados Unidos. “Qué lindo aliado que es los **Estados Unidos**“.
-
-En las acciones localizaron embarcaciones con 33 bultos, que suman **3,3 toneladas de sustancias sujetas a fiscalización**.
-
-Esas representan **82 millones de dólares**, que podían ser destinados para armas y municiones, dijo el Ministro de Defensa.
-
-Lionel Messi y un emotivo mensaje para Andrés Iniesta, tras su retirada
-=======================================================================
-
-Lionel Messi y Andrés Iniesta fueron parte de la generación dorada del FC Barcelona que atemorizó a la mayoría de equipos.
---------------------------------------------------------------------------------------------------------------------------
-
-![Lionel Messi y Andrés Iniesta celebrando una anotación con el FC Barcelona.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-08T121051.037.jpg)
-
-**Lionel Messi** dedicó un emotivo mensaje de despedida a su excompañero en el FC Barcelona, Andrés Iniesta, quien anunció este lunes 7 de octubre su retiro del fútbol profesional a los 40 años. El argentino y el español compartieron 14 temporadas en el primer equipo culé.
-
-“Uno de los compañeros que más magia y de los que más disfruté jugando juntos. ¡¡ **Andrés Iniesta**, la pelota te va a extrañar y nosotros también!! Te deseo lo mejor siempre, **sos un fenómeno”**, escribió el jugador argentino en un mensaje acompañado por una fotografía de ambos celebrando un gol con el Barcelona.
-
-### Más noticias:
-
-* [(Video) Leonardo Campana marcó un golazo y festejó junto a Lionel Messi](https://www.elcomercio.com/deportes/futbol/leonardo-campana-festejo-golazo-junto-lionel-messi.html "(Video) Leonardo Campana marcó un golazo y festejó junto a Lionel Messi")
-* [Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/lionel-messi-mundial-clubes-inter-miami.html "Lionel Messi e Inter Miami se preparan para el Mundial de Clubes 2025")
-* [FC Barcelona muestra su supremacía en Champions](https://www.elcomercio.com/deportes/fc-barcelona-young-boys-uefa-champions-league.html "FC Barcelona muestra su supremacía en Champions")
-
-**Iniesta y Messi compartieron vestuario en el Camp Nou** durante más de una década, desde el estreno oficial del argentino con el primer equipo en 2004 hasta la salida del manchego en 2018.
-
-Ambos fueron **protagonistas en la época más exitosa en la historia del Barcelona**, en la que el club azulgrana ganó nueve Ligas, cuatro Ligas de Campeones, seis Copas del Rey y tres Mundiales de Clubes, entre otros títulos.
-
-> El mensaje de despedida de Leo Messi para [@andresiniesta8](https://twitter.com/andresiniesta8?ref_src=twsrc%5Etfw) [pic.twitter.com/AGHKdwdLjP](https://t.co/AGHKdwdLjP)
-> 
-> — FC Barcelona (@FCBarcelona\_es) [October 8, 2024](https://twitter.com/FCBarcelona_es/status/1843691561055596831?ref_src=twsrc%5Etfw)
-
-Andrés Iniesta anunció su retiro del fútbol
--------------------------------------------
-
-El excentrocampista internacional español **Andrés Iniesta**, autor del tanto que dio a España el título mundial en 2010, confesó, muy emocionado, que nunca pensó “que llegaría este día”, en el acto de su retirada como futbolista profesional, en el antiguo cine IMAX del Port Vell de Barcelona.
-
-“Supongo que me permitiréis que me emocione hoy. Pero son lágrimas de emoción, de orgullo, no de tristeza. **Son las lágrimas de ese niño** de Fuentealbilla que tenía el sueño de ser futbolista profesional. Y lo conseguí, con mucho trabajo y muchísimo esfuerzo… de nunca rendirse, valores imprescindibles en mi vida. Me siento muy orgulloso de este camino, con toda la gente que me ha acompañado”, afirmó con la voz entrecortada al inicio del acto.
-
-En su despedida, **Iniesta estuvo acompañado de unos 450 invitados**, entre los que estaban su mujer Ana, sus seis hijos, sus padres y su hermana -“mi familia siempre ha sido mi motor, mi fortaleza”, destacó.
-
-También estuvieron excompañeros en el Barça como Gerard Piqué, Xavi Hernández, Anderson Luis de Souza ‘Deco’, Sergi Roberto, Marc Bartra o Sergi Samper, con el que también coincidió en el Vissel Kobe japonés.
-
-Durante más de una hora, Iniesta repasó con los presentes una extensa carrera que le ha llevado a jugar hasta los 40 años.
-
-Cuelga las botas con 39 títulos y sin haber ganado nunca el **Balón de Oro,** pese a haber marcado una época como uno de los mejores centrocampistas de la historia, una distinción que tuvo cerca en 2010, cuando copó el podio con Xavi y Messi, sus compañeros en el conjunto azulgrana.
-
-Ahora empieza una nueva etapa que, aseguró, no puede estar “lejos del fútbol”, aunque seguirá manteniendo sus negocios mientras se forma como entrenador. “No puede ser de otra manera, porque el fútbol ha sido mi vida”, insistió Andrés Iniesta.
-
-Netflix revela la fecha de estreno de la serie ‘Cien años de soledad’
-=====================================================================
-
-La serie tendrá 16 capítulos divididos en dos partes.
------------------------------------------------------
-
-![Claudio Cataño es el actor colombiano que protagonizará la serie de Netflix 'Cien años de soledad'. Foto: Netflix](https://www.elcomercio.com/wp-content/uploads/2024/10/netflix-El-comercio.jpg)
-
-La esperada **serie** ‘**Cien años de soledad’**, inspirada en la emblemática **novela del Nobel Gabriel García Márquez**, tiene fecha de estreno en **Netflix**. El día previsto es el 11 de diciembre de 2024.
-
-La plataforma anunció este hito el 8 de octubre de 2024, generando gran expectativa entre los seguidores de la obra y los amantes del buen cine.
-
-### Más noticias
-
-* **[Shakira inspira una serie de streaming llamada ‘Celeste’](https://www.elcomercio.com/afull/shakira-serie-celeste-streaming-movistar.html "https://www.elcomercio.com/afull/shakira-serie-celeste-streaming-movistar.html")**
-* **[Yailin La Más Viral cambió el color de sus ojos con una cirugía](https://www.elcomercio.com/tendencias/trending/yailin-lamasviral-cirugia-ojos-color.html "https://www.elcomercio.com/tendencias/trending/yailin-lamasviral-cirugia-ojos-color.html")**
-
-Además, la serie se presentará en dos partes, cada una compuesta por ocho episodios.
-
-Un reto para los cineastas
---------------------------
-
-Laura Mora, una de las directoras del proyecto, compartió su emoción al trabajar en una adaptación de tal envergadura. “Como cineasta y colombiana, ha sido un honor y un enorme reto”, comentó.
-
-Mora enfatizó la importancia de traducir el lenguaje literario a uno audiovisual, buscando plasmar la belleza y la profundidad de la novela que ha resonado a nivel mundial. “Lo hemos hecho con amor y respeto, de la mano de un equipo excepcional”, agregó.
-
-Su colega, Álex García López, también se refirió a los desafíos que implicó dirigir esta serie. ‘Dirigir este proyecto ha sido una aventura; tomar riesgos es necesario para darle sentido a lo que hacemos’, dijo García.
-
-Su intención es ofrecer una producción auténtica con estándares internacionales, asegurando que la historia merecía un enfoque tan ambicioso.
-
-Un vistazo a la historia
-------------------------
-
-El **[primer avance de la serie](https://www.elcomercio.com/tendencias/entretenimiento/cien-anos-soledad-serie-netflix.html "https://www.elcomercio.com/tendencias/entretenimiento/cien-anos-soledad-serie-netflix.html")**, lanzado en abril, muestra al coronel Aureliano Buendía, interpretado por Claudio Cataño, en una escena impactante frente a un pelotón de fusilamiento.
-
-### Más del tema
-
-* **[¿Quién es el actor colombiano que protagonizará ‘Cien años de soledad’ en Netflix?](https://www.elcomercio.com/tendencias/entretenimiento/cien-anos-soledad-serie-netflix.html "https://www.elcomercio.com/tendencias/entretenimiento/cien-anos-soledad-serie-netflix.html")**
-
-La voz omnisciente que introduce la historia evoca la primera línea de la novela: “Muchos años después, frente al pelotón de fusilamiento…”.
-
-Esta adaptación no solo cuenta con la colaboración de la **familia García Márquez**, sino que se filmó en su totalidad en Colombia, destacando la riqueza cultural del país.
-
-Con más de 260 millones de suscriptores en 190 países, ‘Cien años de soledad’ promete ser uno de los estrenos más destacados de Netflix en el 2024.
-
-Asamblea Nacional votó tres veces y no logró nombrar Primer Vicepresidente
-==========================================================================
-
-Luego de presentar tres mociones para posesionar al nuevo Primer Vicepresidente de la Asamblea, no se conoció quién asumirá el cargo.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Votaciones de los legisladores de la Asamblea Nacional para designar al nuevo Primer Vicepresidente.](https://www.elcomercio.com/wp-content/uploads/2024/10/asamblea.jpg)
-
-Este martes 8 de octubre de 2024, la **Asamblea Nacional** sesionó para designar al **nuevo Primer Vicepresidente**. Esto se realizó luego de la **renuncia de Henry Kronfle** a la presidencia de la Asamblea para participar en las **elecciones de 2025**.
-
-### Más noticias
-
-* [Asamblea elegirá a quien asumirá la Primera Vicepresidencia](https://www.elcomercio.com/actualidad/politica/asamblea-elegira-quien-asumira-primera-vicepresidencia.html "Asamblea elegirá a quien asumirá la Primera Vicepresidencia")
-* [La Vicepresidencia de la Asamblea Nacional tendrá un nuevo rostro](https://www.elcomercio.com/actualidad/politica/la-vicepresidencia-asamblea-nacional-tendra-nuevo-rostro.html "La Vicepresidencia de la Asamblea Nacional tendrá un nuevo rostro")
-* [Henry Kronfle renunció a la Presidencia de la Asamblea, ¿quién lo reemplazó?](https://www.elcomercio.com/actualidad/politica/henry-kronfle-renuncia-presidencia-asamblea-quien-lo-reemplazo.html "Henry Kronfle renunció a la Presidencia de la Asamblea, ¿quién lo reemplazó?")
-
-En este caso, la presidencia fue asumida por la primera vicepresidenta, **Viviana Veloz**, hasta finalizar el periodo legislativo. Sin embargo, por ley, la primera vicepresidencia debe ser elegida con **70 votos**.
-
-Moción antes de la elección del nuevo Primer Vicepresidente
------------------------------------------------------------
-
-Se presentó una resolución en la **[Asamblea Nacional](https://es.wikipedia.org/wiki/Asamblea_Nacional_del_Ecuador "https://es.wikipedia.org/wiki/Asamblea_Nacional_del_Ecuador")** para asegurar el cumplimiento del **artículo 130 de la Ley Orgánica de la Función Legislativa**, el cual regula el orden de intervención de los legisladores que soliciten la palabra.
-
-> "Al transparentar nuestra participación en los debates cumplimos con el procedimiento y avanzamos hacia una Asamblea más democrática", enfatiza la legisladora [@MariaT\_Pasquel](https://twitter.com/MariaT_Pasquel?ref_src=twsrc%5Etfw).  
->   
-> La presidenta [@VivianaVelozEc](https://twitter.com/VivianaVelozEc?ref_src=twsrc%5Etfw) dispone el registro y la votación correspondiente del pedido de cambio de… [pic.twitter.com/KPi2g61NLx](https://t.co/KPi2g61NLx)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [October 8, 2024](https://twitter.com/AsambleaEcuador/status/1843682571525468471?ref_src=twsrc%5Etfw)
-
-La propuesta incluía la publicación de los nombres y turnos en las **pantallas del Pleno**, con el fin de asegurar transparencia. Esta iniciativa no es nueva, ya que había sido solicitada por varios asambleístas en sesiones anteriores.
-
-La petición para **modificar el orden del día** fue presentada en la sesión 967 por la asambleísta María Teresa Pasquel, con el respaldo de **40 firmas de legisladores de diferentes bancadas**.
-
-Durante la intervención, se hizo un llamado a **priorizar la armonía y el respeto en los debates legislativo**s. Sin embargo, el proyecto no obtuvo los votos suficientes para ser aprobado. A pesar de los esfuerzos de los proponentes, la **solicitud fue rechazada con 48 votos afirmativos y 43 negativos**.
-
-Nueva integrante de una comisión en la Asamblea Nacional
---------------------------------------------------------
-
-La asambleísta **María de Lourdes Alarcón Campuzano** fue designada para integrar la **Comisión de Justicia de la Asamblea Nacional**. Este cambio se realizó debido a que la actual presidenta de la Asamblea, Liliana V., no puede formar parte de esta comisión mientras ejerce su cargo.
-
-La propuesta fue sometida a votación en el Pleno, obteniendo el respaldo de la mayoría. Con **116 votos a favor, 0 en contra y 5 abstenciones**, la moción fue aprobada.
-
-> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw)  
-> La presidenta [@VivianaVelozEc](https://twitter.com/VivianaVelozEc?ref_src=twsrc%5Etfw) dispone abordar el siguiente punto:  
-> ✔️Designación de Comisión Especializada Permanente para la asambleísta María de Lourdes Alarcón Campuzano, principalizada en lugar de [@HenryKronfle](https://twitter.com/HenryKronfle?ref_src=twsrc%5Etfw). [pic.twitter.com/RZORTHTo0c](https://t.co/RZORTHTo0c)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [October 8, 2024](https://twitter.com/AsambleaEcuador/status/1843683705262633438?ref_src=twsrc%5Etfw)
-
-La **Comisión de Justicia y Estructura del Estado** tiene la responsabilidad de conocer asuntos legislativos en materia jurisdiccional. Esta mesa legislativa también se encarga de tratar iniciativas relacionadas con las funciones del Estado.
-
-El **artículo 21 de la Ley Orgánica de la Función Legislativa** establece las comisiones especializadas permanentes y sus respectivas competencias. Entre estas funciones, destaca la capacidad de designar a sus autoridades bajo criterios de paridad y alternancia de género.
-
-Votaciones para designar al Primer Vicepresidente de la Asamblea Nacional
--------------------------------------------------------------------------
-
-### Otto Vera – Partido Social Cristiano (PSC), no contó con los votos
-
-El asambleísta Vicente Taiano, del **Partido Social Cristiano (PSC)**, Durante su intervención hizo un llamado a la Asamblea para que envíe una **señal de unidad al país**. Subrayó que, a pesar de las diferencias, el Parlamento ha aprobado **30 leyes en el último período**, cumpliendo con la agenda legislativa pactada en diciembre de 2023.
-
-El asambleísta señaló que esta oportunidad servirá para demostrar que los intereses del país deben estar por encima de los partidistas. Asimismo, resaltó la necesidad de elegir una primera vicepresidencia con apertura al diálogo.
-
-Taiano propuso al ingeniero **Otto Vera** para ocupar la Primera Vicepresidencia de la Asamblea Nacional. Destacó las credenciales de Vera, mencionando su **experiencia y prudencia en la vida pública** como características que le permitirán desempeñarse de manera **adecuada en el cargo**.
-
-Según Taiano, Vera es la **persona idónea para ocupar esta función** y contribuir a la estabilidad legislativa que el país necesita. La moción fue presentada en representación de la bancada del PSC y sus aliados.
-
-Esta moción no contó con los votos necesarios, **28 afirmativos, 11 en contra y 88 abstenciones**.
-
-### Jaminton Intriago – Partido Social Cristiano (PSC), no obtuvo apoyo
-
-El asambleísta del **Partido Social Cristiano (PSC), Vicente Taiano**, sugirió a su colega **Jaminton Intriago** para ocupar la primera Vicepresidencia de la Asamblea Nacional. Durante la sesión, Taiano solicitó a la presidenta esperar un minuto hasta recibir la moción por escrito.
-
-La **moción fue enviada al despacho de la Asamblea**, lo que permitió dar paso a la votación correspondiente.
-
-Por su parte, Intriago, asambleísta por la provincia de Manabí, fue mencionado como uno de los posibles candidatos para **asumir el cargo vacante**. La moción oficial se enviaría a los correos de los legisladores antes de proceder con el registro y la votación.
-
-Sin embargo, tampoco tuvo el respaldo de los legisladores. Con **63 obtenciones, 39 afirmativos y 14 votos en contra,** no fue aprobada la moción.
-
-### Gabriel Bedón – Construye, no tuvo los votos necesarios
-
-Durante la última sesión, el asambleísta **Camilo Salinas**, representante de la bancada de Construye, presentó una moción sugiriendo a su compañero de partido, **Gabriel Bedón**, como candidato para ocupar la primera vicepresidencia.
-
-Salinas destacó la experiencia de Bedón, quien ha sido miembro de la **Comisión del Gobierno Autónomo Descentralizado**. La moción fue dirigida a la **presidenta y los compañeros asambleístas**, con el objetivo de garantizar estabilidad y continuidad en el **trabajo legislativo**.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | El asambleísta Camilo Salinas, de [@Construye\_Ecu](https://twitter.com/Construye_Ecu?ref_src=twsrc%5Etfw), mociona el nombre de su compañero de bancada Gabriel Bedón para primer vicepresidente del Legislativo. [pic.twitter.com/iDTeMQd9Ra](https://t.co/iDTeMQd9Ra)
-> 
-> — Ecuador Chequea (@ECUADORCHEQUEA) [October 8, 2024](https://twitter.com/ECUADORCHEQUEA/status/1843692575146029460?ref_src=twsrc%5Etfw)
-
-En la misma sesión, se mencionó la importancia de asegurar la continuidad del trabajo en la Asamblea, especialmente considerando que más de **100 asambleístas buscarán la reelección en febrero**. La bancada subrayó la necesidad de contar con un equipo ejecutivo que permita una transición ordenada y sin interrupciones.
-
-Con **51 votos a favor, 50 negativos y 24 obtenciones**, no fue aprobada la moción.
-
-Asamblea no se pone de acuerdo para designar al Primer Vicepresidente
----------------------------------------------------------------------
-
-La presidenta de la Asamblea Nacional, [Viviana Veloz](https://es.wikipedia.org/wiki/Viviana_Veloz "https://es.wikipedia.org/wiki/Viviana_Veloz"), informó que, tras haber conocido **tres mociones de sus colegas**, ninguna obtuvo los 70 votos necesarios para su aprobación. En consecuencia, anunció la **suspensión del punto en discusión**.
-
-Además, indicó que convocará a los **jefes de las bancadas del Partido Social Cristiano, ADN, Pachakutik, Independientes y Construye,** con el objetivo de alcanzar un consenso que **permita avanzar en la designación del Primer Vicepresidente de la Asamblea Nacional**.
-
-¿Segundo Castillo ‘salvará’ otra vez a Barcelona SC por salida de Ariel Holan?
-==============================================================================
-
-Ariel Holan llegó en abril, pero Barcelona SC no logró consolidarse ganador. Segundo Castillo aparece como opción de reemplazo
-------------------------------------------------------------------------------------------------------------------------------
-
-![El DT Segundo Castillo tiene altas opciones de asumir el mando en Barcelona SC, tras la salida de Ariel Holan.](https://www.elcomercio.com/wp-content/uploads/2024/10/Segundo-Castillo.jpg)
-
-**Barcelona SC** ha decidido prescindir del director técnico **Ariel Holan**, lo que allana el camino para que **Segundo Alejandro Castillo** asuma nuevamente el banquillo del ‘**Ídolo del Astillero**‘ en Guayaquil.
-
-El acuerdo se dio por mutuo consenso entre el DT argentino y la dirigencia canaria, quienes optaron por una salida anticipada que evitará que el club pague el contrato completo, que se extendía hasta abril de 2025.
-
-Si bien todavía no se ha oficializado, se espera que el cuadro torero lo haga en las próximas horas.
-
-### Más noticias:
-
-* [¡Se acabó la relación! Barcelona SC negocia la salida de Ariel Holan](https://www.elcomercio.com/deportes/barcelona-sc-negocia-la-salida-de-ariel-holan.html "¡Se acabó la relación! Barcelona SC negocia la salida de Ariel Holan")
-* [Álex Aguinaga apunta a Ariel Holan por presente de Barcelona SC](https://www.elcomercio.com/deportes/alex-aguinaga-ariel-holan-barcelona-sc.html "Álex Aguinaga apunta a Ariel Holan por presente de Barcelona SC")
-* [El Nacional goleó a Barcelona SC, en Quito](https://www.elcomercio.com/deportes/futbol/el-nacional-goleo-a-barcelona-sc.html "El Nacional goleó a Barcelona SC, en Quito")
-
-Holan [llegó al club en abril de 2024,](https://www.elcomercio.com/deportes/futbol/barcelona-director-tecnico-ariel-holan.html) en reemplazo de Diego López, pero los resultados negativos han llevado a esta decisión.
-
-La situación se volvió insostenible tras una contundente derrota por 3-0 ante **El Nacional**, lo que dejó al equipo lejos de los objetivos trazados para la temporada.
-
-Durante su gestión, Holan intentó implementar una renovación en el plantel, enfocándose especialmente en los jugadores formativos, pero el rendimiento del equipo no cumplió con las expectativas.
-
-En los últimos siete partidos de la Liga Pro, el ‘Ídolo’ solo logró dos victorias, un empate y sufrió cuatro derrotas, acumulando cinco goles a favor y 11 en contra.
-
-Los hinchas del elenco canario estuvieron tan molestos el pasado domingo, en el cotejo ante los criollos, que hasta lanzaron huevos a los jugadores.
-
-Segundo Castillo, el ‘salvavidas’ de Barcelona SC
--------------------------------------------------
-
-Con **Holan** fuera, el club recurrirá interinamente a **Segundo Alejandro Castillo**, quien ya ha tenido experiencias previas al frente del equipo.
-
-Castillo, conocido por su fuerte carácter como jugador, llega a esta nueva etapa con el respaldo de la afición, que ha manifestado su deseo de verlo al mando.
-
-El ‘Mortero’, como se le apoda, tiene un historial destacado como futbolista, siendo parte de la generación que llevó a Ecuador al [Mundial 2006.](https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol)
-
-La dirigencia de Barcelona SC ahora evalúa la posibilidad de que Castillo permanezca como técnico titular por lo que resta del semestre, en un intento de revertir la situación actual del equipo y regresar a la senda del triunfo.
-
-Castillo, de 42 años,
-
-Con la salida de Holan, los canarios buscan recuperar la confianza y el rendimiento que sus seguidores esperan.
-
-Así es como la lavanda ayuda a combatir el estrés y mejorar el sueño 
-=====================================================================
-
-La lavanda es una infusión natural que combate el estrés y mejora el sueño, gracias a sus propiedades calmantes y relajantes.
------------------------------------------------------------------------------------------------------------------------------
-
-![La lavanda es reconocida por sus propiedades relajantes que mejoran el sueño y reducen el estrés. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/lavanda-estres-sueno.jpg)
-
-La **lavanda** es más que una **planta aromática**; es un **remedio natural** que ha ganado popularidad por sus **múltiples beneficios para la salud**.  
-
-### Más noticias
-
-* [Las flores azules del más intenso y delicioso aroma](https://www.elcomercio.com/actualidad/flores-azules-del-mas-intenso-1.html "https://www.elcomercio.com/actualidad/flores-azules-del-mas-intenso-1.html")
-* [Técnicas de relajación que pueden transformar tu salud mental y física](https://www.elcomercio.com/tendencias/salud/dia-relajacion-salud-estres-efemeride.html "https://www.elcomercio.com/tendencias/salud/dia-relajacion-salud-estres-efemeride.html") 
-
-Esta planta, **conocida científicamente como Lavandula angustifolia**, se utiliza desde hace siglos en la **medicina tradicional** por sus **propiedades calmantes y relajantes**. Te explicamos cómo la lavanda puede ser una aliada en l**a lucha contra el estrés y los problemas de sueño**. 
-
-**Propiedades de la lavanda** 
-------------------------------
-
-La **lavanda** es famosa por su capacidad para **inducir el sueño y reducir el estrés**. Según un artículo de la página [Tua Saúde](https://www.tuasaude.com/es/lavanda/ "https://www.tuasaude.com/es/lavanda/"), **la lavanda mejora la calidad y duración del sueño**, siendo útil para **combatir el insomnio** gracias a su **acción calmante que relaja el cuerpo y reduce el nerviosismo**. 
-
-Además, sus **componentes aromáticos**, como el **linalol** y el **acetato de linalilo**, ayudan a **relajar el sistema nervioso central**, lo que disminuye la ansiedad y el estrés, a decir de [Botánica y Salud](https://botanicaysalud.com/beneficios-de-la-lavanda/ "https://botanicaysalud.com/beneficios-de-la-lavanda/"). 
-
-**Beneficios para el estrés y el sueño** 
------------------------------------------
-
-La **fragancia de la lavanda** no solo es agradable, sino que también **tiene efectos terapéuticos**. De acuerdo con Eco360, **su aroma ayuda a reducir el estrés, la ansiedad y promueve la relajación y el sueño**. Además, **la lavanda estimula la sensación de calma y bienestar**, loq ue ayuda a **reducir los niveles de cortisol**, la hormona del estrés, según recoje [Benefipedia](https://benefipedia.com/beneficios-para-la-salud-de-la-lavanda/#google_vignette "https://benefipedia.com/beneficios-para-la-salud-de-la-lavanda/#google_vignette"). 
-
-**Cómo preparar una infusión de lavanda** 
-------------------------------------------
-
-Preparar una **infusión de lavanda** es sencillo. Solo necesitas **flores secas de lavanda y agua caliente**. Hierve el agua y **añade una cucharadita de flores de lavanda**. Deja reposar durante 5-10 minutos, cuela y disfruta. Esta bebida no solo es deliciosa, sino que también es una forma efectiva de incorporar los beneficios de la lavanda en tu rutina diaria. 
-
-**Contraindicaciones y precauciones** 
---------------------------------------
-
-Aunque **la lavanda es generalmente segura**, es importante tener en cuenta **algunas precauciones**. Según [Ecología Verde](https://www.ecologiaverde.com/lavanda-propiedades-beneficios-y-contraindicaciones-4488.html "https://www.ecologiaverde.com/lavanda-propiedades-beneficios-y-contraindicaciones-4488.html"), **no se debe aplicar el aceite esencial de lavanda directamente sobre la piel sin diluirlo**, ya que puede causar irritación. Además, las **personas con alergias** a las plantas de la familia de las lamiáceas deben evitar su uso. 
-
-La **lavanda** es una opción natural y efectiva para **combatir el estrés y mejorar el sueño**. Su uso como infusión es una **manera sencilla de aprovechar sus propiedades calmantes**. Sin embargo, siempre es recomendable consultar con un profesional de la salud antes de incorporar nuevos remedios a tu rutina, especialmente si tomas medicamentos o tienes condiciones de salud preexistentes. La lavanda, con su aroma y beneficios, puede ser la infusión de la felicidad que necesitas en tu vida diaria. 
-
-Lluvias con tormentas se prevén la tarde de este 8 de octubre en Quito
-======================================================================
-
-Los niveles de radiación ultravioleta se mantienen en niveles altos en toda la provincia. Lee estos consejos para protegerte
-----------------------------------------------------------------------------------------------------------------------------
-
-![Durante la tarde podría haber lluvias con tormentas.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-5-1.jpg)
-
-El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) informó sobre el pronóstico del clima en Quito este **martes 8 de octubre** de 2024.
-
-### Más noticas
-
-* [Policía detiene a exasambleísta por presunta concusión](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-exasambleista-por-presunta-concusion.html "Policía detiene a exasambleísta por presunta concusión")
-* [Ataque armado en Guayas deja un militar fallecido](https://www.elcomercio.com/actualidad/seguridad/ataque-armado-en-guayas-deja-un-militar-fallecido.html "Ataque armado en Guayas deja un militar fallecido")
-* [Lo que se sabe del choque en la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/lo-que-se-sabe-del-choque-en-autopista-general-ruminahui.html "Lo que se sabe del choque en la autopista General Rumiñahui")
-
-Advertencia meteorológica
--------------------------
-
-El Inamhi emitió la **advertencia meteorológica número 52,** la cual se aplica hasta el 10 de octubre de 2024 y que alerta sobre las condiciones climáticas presentes.
-
-Esta advertencia señala que se prevé la **presencia de lluvias** de variable intensidad con tormentas eléctricas y ráfagas de viento en la Amazonía, Sierra y norte del Litoral.
-
-Según las previsiones, **las lluvias más fuertes** se registrarán el 9 y 10 de octubre.
-
-Ante estas previsiones es importante que tomes **las siguientes precauciones**:
-
-* Si las autoridades lo indican, evacúa lo más pronto posible
-* Aléjate de los cables de electricidad y desconecta los aparatos electrónicos
-* No camines cerca del agua ni intentes cruzar ríos
-* No te refugies bajo los árboles ni manipules herramientas u objetos metálicos durante las tormentas
-
-> Advertencia Meteorológica #52⚠⛈🌧☔  
-> Del 06 al 10 de octubre: Se prevé lluvias de variable intensidad con tormentas eléctricas y ráfagas de viento en la región Amazónica, Sierra y norte del Litoral.  
->   
-> Tome precauciones y manténgase informado en nuestros canales. [pic.twitter.com/nQVAWVC27O](https://t.co/nQVAWVC27O)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 5, 2024](https://twitter.com/inamhi_ec/status/1842659992249237662?ref_src=twsrc%5Etfw)
-
-Lluvias por la tarde, en Quito
-------------------------------
-
-Según los pronósticos realizados por el Inamhi, este martes 8 de octubre habrá presencia de cielo nublado y en la tarde habrá lluvias y lloviznas con probables tormentas.
-
-Durante el día se esperan temperaturas máximas de hasta 23 grados centígrados. A pesar del cielo nublado, hay claros ocasionales que permiten el ingreso de rayos solares.
-
-Por ello, es importante protegerse de la radiación ultravioleta, que se mantiene en niveles altos.
-
-Durante la noche y madrugada del miércoles, la temperatura descenderá hasta los 10 grados en Quito. Las lluvias y lloviznas podrían extenderse durante la madrugada.
-
-> 🌞 [#ElClimaQuiteño](https://twitter.com/hashtag/ElClimaQuite%C3%B1o?src=hash&ref_src=twsrc%5Etfw) | Hoy, martes 8 de octubre, [@inamhi\_ec](https://twitter.com/inamhi_ec?ref_src=twsrc%5Etfw) pronostica una jornada con cielo parcialmente nublado por la mañana y lluvias con tormentas en la tarde. ¡No olvides llevar tu paraguas! 🌦️  
->   
-> 🌡️ Temperaturas entre 21°C y 23°C con UV alta, así que protege tu piel. ✅ [pic.twitter.com/erDTzsPyH8](https://t.co/erDTzsPyH8)
-> 
-> — COE Quito (@coequito) [October 8, 2024](https://twitter.com/coequito/status/1843649522158973115?ref_src=twsrc%5Etfw)
-
-Radiación en niveles altos
---------------------------
-
-El **Instituto Nacional de Meteorología** también advirtió sobre los niveles de **radiación ultravioleta** presentes este martes 8 de octubre de 2024.
-
-En Pichincha, se estableció un pronóstico de 7 **para la radiación UV**, lo que equivale a nivel ‘alto’. Por ello es importante mantener las precauciones para proteger la piel.
-
-Te dejamo**s algunos consejos:**
-
-* Evitar la exposición prolongada al sol, al menos hasta las 15:00.
-* Usar siempre protector solar.
-* Llevar un paraguas o sombrilla para protegerse del sol.
-* Usar gafas con protección UV.
-* Vestir ropa con mangas largas que cubran la piel.
-* Las gorras también son artículos prácticos para proteger la cara y cabeza del sol.
-* Consuma agua [constantemente](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-> [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el martes, 08 de octubre de 2024. [pic.twitter.com/urMtfyWfeL](https://t.co/urMtfyWfeL)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 7, 2024](https://twitter.com/inamhi_ec/status/1843356407091081282?ref_src=twsrc%5Etfw)
-
-Taylor Swift despojó a Rihanna de su megatítulo
-===============================================
-
-Rihanna conservaba su megatítulo desde 2019.
---------------------------------------------
-
-![La carrera musical de Taylor Swift crece exponencialmente. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo172.jpg)
-
-**Taylor Swift** -dueña de éxitos como Love Story, Shake It Off y Blank Space- despojó a **Rihanna** de su megatítulo. Según la revista **Forbes**, lo hizo, en parte, gracias al éxito de su última gira.
-
-### **Más noticias:**
-
-* [Taylor Swift es ‘una señora soltera con gatos’ y algo más](https://www.elcomercio.com/tendencias/taylor-swift-kamala-harris-donald-trump-elecciones.html "https://www.elcomercio.com/tendencias/taylor-swift-kamala-harris-donald-trump-elecciones.html")
-* [Taylor Swift y Karol G enloquecieron las redes con su actuación en los VMAs](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-taylor-swift-mtv.html?fbclid=IwY2xjawFyOIdleHRuA2FlbQIxMAABHTBv5NZvdOk0Nbv1IG-IgxYpf5du3n7gTVsYHI7qVUe3EzWx7YEoUt_Wwg_aem_bm05qESmIYI4piBTHUL6Vw "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-taylor-swift-mtv.html?fbclid=IwY2xjawFyOIdleHRuA2FlbQIxMAABHTBv5NZvdOk0Nbv1IG-IgxYpf5du3n7gTVsYHI7qVUe3EzWx7YEoUt_Wwg_aem_bm05qESmIYI4piBTHUL6Vw")
-* [Karol G aparece con un ‘look’ renovado](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-look-renovado-premios-mtv.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-look-renovado-premios-mtv.html?source=Internal&ref=Single+Content+Link")
-
-**Taylor Swift** superó a **Rihanna** y se coronó como la **artista musical femenina** más rica del mundo. La fortuna de **la cantante**, de 34 años, ha crecido exponencialmente, especialmente tras el lanzamiento de su gira ‘The Eras Tour’, la cual se convirtió en la primera gira en recaudar más de 1 000 millones de dólares.
-
-Este fenómeno ha tenido un impacto económico considerable, generando ingresos en todos los continentes donde se ha presentado. A pesar de que la gira está en pausa hasta octubre, las ganancias obtenidas hasta ahora han sido extraordinarias.
-
-**¿Cuál es la fortuna de Taylor Swift?**
-----------------------------------------
-
-La artista ostenta un patrimonio neto de 1 600 millones de **dólares**. Esta notable cifra la alcanzó gracias a su **exitosa carrera musical**.
-
-Se estima que **‘The Eras Tour’ y** las regalías asociadas han reportado aproximadamente 600 millones de dólares. A esto se suman otros 600 millones provenientes de su extenso catálogo musical y 125 millones en propiedades inmobiliarias.
-
-**Taylor Swift despojó a Rihanna de su megatítulo**
----------------------------------------------------
-
-Rihanna, de 36 años, había mantenido el título de la cantante más rica desde 2019, con una fortuna estimada en 1 400 millones de dólares.
-
-Su riqueza proviene principalmente de sus exitosos negocios en moda y cosmética, además de su carrera musical. A diferencia de Swift, Rihanna ha diversificado su patrimonio a través de emprendimientos no musicales.
-
-**¿Cuál es el artista masculino más rico del planeta?**
--------------------------------------------------------
-
-En la lista de los músicos más ricos según Forbes, Jay-Z ocupa el primer lugar con un patrimonio de 2 500 millones de dólares, gracias a sus inversiones y negocios.
-
-¿Qué es el coma inducido, la condición de Marco Angulo?
-=======================================================
-
-Marco Angulo fue víctima de un siniestro de tránsito en la Autopista General Rumiñahui.
----------------------------------------------------------------------------------------
-
-![Marco Angulo, jugador de Liga de Quito, está en coma inducido.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-08T111909.635.jpg)
-
-**Marco Angulo**, jugador de Liga de Quito, se encuentra actualmente en la unidad de cuidados intensivos del Hospital Eugenio Espejo y en **coma inducido**, tras el fatal accidente de tránsito ocurrido en la madrugada del 7 de octubre.
-
-Luego del siniestro, se trasladó al futbolista de urgencia al hospital en estado crítico, con múltiples lesiones. Según el Dr. Carlos Veintimilla, director médico-asistencial del hospital, el diagnóstico inicial incluyó t**rauma severo, trauma torácico, trauma pélvico y edema cerebral**, entre otras complicaciones.
+En la novena fecha, Barcelona SC visitó el estadio Olímpico Atahualpa y fue goleado por El Nacional por 3-0, con tantos de **Alejandro Cabeza, Gabriel Cortez y Fidel Martínez**, estos dos últimos exjugadores de los amarillos.
 
 ### Más noticias:
 
 * [Marco Angulo, de Liga de Quito, está en coma inducido](https://www.elcomercio.com/deportes/futbol/marco-angulo-liga-quito-coma-inducido-salud-siniestro.html "Marco Angulo, de Liga de Quito, está en coma inducido")
+* [¿Segundo Castillo ‘salvará’ otra vez a Barcelona SC por salida de Ariel Holan?](https://www.elcomercio.com/deportes/futbol/barcelona-segundo-castillo-ariel-holan-tecnicos.html "¿Segundo Castillo ‘salvará’ otra vez a Barcelona SC por salida de Ariel Holan?")
+
+Cortez y Martínez entraron en el grupo de descartados por parte de Holan, junto, entre otros, a **Damián Díaz que dejó el club antes de empezar la segunda etapa** de la Liga Pro, para asombro de la numerosa hinchada amarilla.
+
+La previa tuvo un ambiente adverso para Holan y sus jugadores. Los hinchas de Quito fueron hasta las afueras del **hotel donde se concentraron y los despidieron lanzándoles huevos** y pidiéndoles más compromiso a la hora de defender la camiseta del ‘Ídolo del Astillero’.
+
+En el estadio el panorama no cambio. El **lanzamiento de huevos, más un serie de insultos, fueron la tónica** que acompañó al los toreros en una nueva derrota en la Liga Pro, la cuarta en nueve fechas.
+
+El periodistas César Luis Merlo, en su cuenta de X, **adelantó el martes 7 de octubre que el argentino se encuentra en conversaciones** para dar por finalizado su contrato, por lo que sus horas en Ecuador están a punto de llegar a su fin.
+
+Si se concreta la salida de Holan, será el séptimo entrenador que se despedirá de BSC desde 2019, **año que se instauró en la Liga Pro**, con lo que también pone en evidencia la inestabilidad que el club ha tenido en este tiempo.
+
+![Guillermo Almada como entrenador de Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/10/entrenadores_bsc_3-1024x683.jpg)
+
+Guillermo Almada como entrenador de Barcelona SC.
+
+Los entrenadores de Barcelona SC
+--------------------------------
+
+En 2019 arrancó la Liga Pro con el **uruguayo Guillermo Almada**, cerrando un ciclo que empezó en junio de 2015 y que dejó al club el título del campeonato nacional de 2016 y las semifinales de la Copa Libertadores 2017.
+
+El reemplazo de Almada fue su **compatriota Leonardo Ramos**. Tras ser eliminado en las semifinales de la Copa Ecuador por Delfín, dejó su puesto vacante y abandonó el barco canario.
+
+Otro uruguayo, **Tabaré Silva**, tomó el puesto para los cuartos de final de la Liga Pro, pero solo duró dos partidos y se fue al ser eliminado por Aucas.
+
+El 2020 arrancó con el **argentino Fabián Bustos**, que tuvo dos etapas. La primera que se cortó en marzo de 2022, y la segunda desde septiembre de 2022 a junio de 2023.
+
+Sumó el título de la Liga Pro de 2020 y las semifinales de la Copa Libertadores de 2021.
+
+Su compatriota **Jorge Célico** tuvo un ciclo de marzo a septiembre de 2022. Los malos resultados hicieron que el entrenador sea cesado del cargo.
+
+De agosto de 2023 a abril de 2024 el **uruguayo Diego López** tomó el cago. Tras ser eliminado de la fase de grupos de la Copa Libertadores se marchó de regreso a su país.
+
+En abril fue el turno para Holan. La **eliminación en la Copa Sudamericana, la Copa Ecuador**, no haber ganado la primera etapa de la Liga Pro, y los malos resultados en la segunda, lo tienen con un pie y medio fuera de Guayaquil.
+
+En ese lapso el portero chileno Nelson Tapia, más los mediocampistas ecuatorianos **José Gavia y Segundo Alejandro Castillo** han tenido cortos periodos como interinos.
+
+![Fabián Bustos como entrenador de Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/10/entrenadores_bsc_2-1024x683.jpg)
+
+Fabián Bustos como entrenador de Barcelona SC.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Paraguay apunta a ganar a la Selección de Ecuador como visitante
+================================================================
+
+Paraguay se entrena en el Estadio Olímpico Atahualpa previo a enfrentar a la Selección de Ecuador en eliminatorias.
+-------------------------------------------------------------------------------------------------------------------
+
+![Jugadores de la Selección de Paraguay en un entrenamiento antes de medirse a la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000141266.jpg)
+
+Los porteros **Roberto Fernández**, de Botafogo, y **Juan Espínola**, de Belgrano, afirmaron este martes que la selección de Paraguay tiene la ambición de sustraer este jueves puntos a la Selección de Ecuador, pese a las dificultades que plantea jugar en los 2.850 metros de altitud de Quito.
+
+“**Buscaremos sumar acá, aunque sabemos la dificultad de la altura**“, dijo Fernández a periodistas.
+
+### Más noticias:
+
+* [Jugadores de la Selección de Ecuador rindieron homenaje a Roberto Cabezas](https://www.elcomercio.com/deportes/seleccion-ecuador-roberto-cabezas-fallecimiento.html "Jugadores de la Selección de Ecuador rindieron homenaje a Roberto Cabezas")
+* [Selección de Ecuador promete intensidad ante Paraguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-paraguay-intensidad-eliminatorias.html "Selección de Ecuador promete intensidad ante Paraguay")
+* [Óscar Zambrano, emocionado por volver a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/oscar-zambrano-emocionado-por-volver-a-la-seleccion-de-ecuador.html "Óscar Zambrano, emocionado por volver a la Selección de Ecuador")
+
+Para Espínola, el partido de la novena jornada de las eliminatorias que le espera será difícil, aunque matizó que el equipo hará todo lo posible para llevarse los puntos.
+
+Dese de que llegó al banquillo de la Albirroja el entrenador argentino **Gustavo Alfaro**, el equipo elevó su nivel con un empate sustraído a Uruguay en Montevideo (0-0) y un triunfo sobre Brasil en Asunción (1-0).
+
+Paraguay se ha fortalecido y sabe las virtudes de la Selección de Ecuador
+-------------------------------------------------------------------------
+
+**Espíola** dijo que con **Alfaro** la selección de Paraguay se ha hecho más fuerte.
+
+Sobre el rival de este jueves, Fernández elogió la calidad del experimentado goleador **Enner Valencia.** “**Debemos tener mucho cuidado**“, advirtió.
+
+“Ecuador **tiene muy buenos jugadores**, es un equipo muy difícil, yo creo que será un partido duro, pero trataremos de hacer lo nuestro”, dijo Espínola[.](https://en.wikipedia.org/wiki/Paraguay_national_football_team "https://en.wikipedia.org/wiki/Paraguay_national_football_team")
+
+Gustavo Alfaro y su reencuentro con Ecuador
+-------------------------------------------
+
+ El seleccionador de Paraguay, el argentino **Gustavo Alfaro**, elogió este martes al equipo de Ecuador, y anticipó que este jueves jugarán un “lindo partido” correspondiente a la novena las eliminatorias suramericanas del Mundial 2026.
+
+“**Ecuador tiene una gran selección y Paraguay también. Va a** **ser un lindo partido**“, dijo Alfaro a periodistas en el estadio Olímpico Atahualpa de Quito.
+
+Desde su llegada al banquillo de la ‘**Albirroja**‘, sus pupilos sacaron un punto a Uruguay en Montevideo (0-0) y derrotaron a Brasil en Asunción (1-0). Paraguay ocupa el séptimo puesto con 9 puntos y Ecuador el cuarto con 11. 
+
+¿Cuándo es la independencia de Guayaquil?
+=========================================
+
+La capital de Guayas está próxima a cumplir 204 años de su liberación del dominio español.
+------------------------------------------------------------------------------------------
+
+![El monumento La Rotonda conmemora el histórico encuentro entre Simón Bolívar y José de San Martín en 1822](https://www.elcomercio.com/wp-content/uploads/2024/10/rotonda.jpg)
+
+Ecuador celebrará los **204 años** de independencia de **Guayaquil** con un nuevo feriado.
+
+Esta festividad incluye desfiles, sesiones solemnes, conciertos y actividades culturales que se realizan con el objetivo de **conmemorar** un año más de la capital de Guayas y resaltar la identidad de los **guayaquileños**.
+
+### Más noticias
+
+* [¿Por qué es el feriado del 9 de Octubre de 1820?](https://www.elcomercio.com/actualidad/ecuador/por-que-feriado-9-octubre-1820.html "¿Por qué es el feriado del 9 de Octubre de 1820?")
+* [Cortes de luz en Guayaquil este miércoles 9 de octubre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-en-guayaquil-este-miercoles-9-de-octubre.html "Cortes de luz en Guayaquil este miércoles 9 de octubre")
+* [Guayaquil tendrá tres sesiones solemnes por su independencia](https://www.elcomercio.com/actualidad/politica/guayaquil-tres-sesiones-solemnes-independencia-9-octubre.html "Guayaquil tendrá tres sesiones solemnes por su independencia")
+
+Independencia de Guayaquil
+--------------------------
+
+La independencia de Guayaquil se proclamó en **1820**, marcando un hito fundamental en la historia del Ecuador y el inicio de la emancipación de la **Real Audiencia de Quito** del dominio español.
+
+Este evento fue impulsado por un contexto de creciente descontento entre los **criollos**, quienes, a pesar de su estatus social y económico elevado, carecían de poder político.
+
+Los preparativos para la revolución comenzaron a gestarse desde **1814**, cuando figuras como José de Antepara, **José Joaquín de Olmedo** y José de Villamar empezaron a difundir conceptos de independencia y democracia.
+
+En 1820, con el apoyo de oficiales venezolanos que llegaban a Guayaquil, se formó un plan para tomar el control militar de la ciudad.
+
+La noche del 1 de octubre, durante una fiesta organizada por don José de Villamil, se llevó a cabo una **reunión secreta** donde se acordó que la revuelta estallaría en las primeras horas del **9 de octubre**.
+
+### 9 de octubre de 1820
+
+Ese día, en la madrugada, los patriotas guayaquileños se movilizaron hacia el Cuartel de los Granaderos y lograron apoderarse del lugar sin encontrar una resistencia significativa.
+
+A medida que el sol comenzaba a iluminar la ciudad, proclamaron la independencia y establecieron una Junta de Guerra presidida por Luis de Urdaneta.
+
+José Joaquín de Olmedo fue nombrado **jefe político**, simbolizando un cambio radical en la estructura de poder local y dando paso a la creación de la **Provincia Libre de Guayaquil**.
+
+Este levantamiento no solo significó la liberación inmediata del control español, sino que también sentó las bases para la liberación de otras regiones, como la **Batalla de Pichincha en 1822**, que consolidó la independencia ecuatoriana y llevó a la integración del país en la Gran Colombia.
+
+Desde entonces, cada 9 de octubre se conmemora la independencia de Guayaquil.
+
+Feriado nacional
+----------------
+
+Las festividades por la independencia de Guayaquil se celebrarán no solo en la ciudad, sino a nivel **nacional**.
+
+En este 2024, la fecha patriótica coincidió en **miércoles**. Según la Ley de Feriados del Ministerio de Turismo, cuando la celebración cae entre semana se la debe pasar como **puente vacacional** al fin de semana más cercano.
+
+Por ello, los ecuatorianos gozarán de **tres días** de descanso obligatorio, este viernes 11, sábado 12 y domingo 13 de octubre,
+
+Colón Pico recibe sentencia por intimidación contra Diana Salazar ¿Cuántos años en prisión?
+===========================================================================================
+
+Esta es la primera sentencia que recibe Colón Pico tras su recaptura en abril, por el delito de intimidación contra la fiscal general, Diana Salazar.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Colón Pico fue sentenciado por el delito de intimidación contra Diana Salazar.](https://www.elcomercio.com/wp-content/uploads/2024/10/colon-pico.png)
+
+Fabricio Colón Pico, líder de Los Lobos, recibió sentencia por el delito de intimidación contra la fiscal general del Estado, Diana Salazar, este martes 8 de octubre de 2024.
+
+El Fiscal a cargo del caso presentó 11 pruebas testimoniales y 12 documentales, en la audiencia que desarrolló en el Complejo Judicial Norte de Quito.
+
+### Más noticias:
+
+* [Colón Pico, en fases decisivas de procesos por tráfico de armas e intimidación a Diana Salazar](https://www.elcomercio.com/actualidad/seguridad/colon-pico-fases-decisivas-procesos-trafico-armas-intimidacion-diana-salazar.html "Colón Pico, en fases decisivas de procesos por tráfico de armas e intimidación a Diana Salazar")
+* [Diana Salazar fue amenazada por Colón Pico, ¿qué dijo la pericia del audio?](https://www.elcomercio.com/actualidad/seguridad/diana-salazar-amenazada-por-colon-pico-que-dijo-pericia.html "Diana Salazar fue amenazada por Colón Pico, ¿qué dijo la pericia del audio?")
+
+Colón Pico tiene un amplio historial delictivo y, actualmente, tiene otro proceso judicial abierto en su contra por tráfico de armas, que también está en fase decisiva.
+
+El líder de Los Lobos fue recapturado en abril de este año, en una hacienda ubicada en Puerto Quito.
+
+En junio, con base en 41 elementos de convicción, la Jueza de la Unidad Judicial Penal de Carcelén, que conoció la causa, llamó a juicio a Colón Pico.
+
+Según la teoría de Fiscalía, el procesado habría amenazado de muerte a Diana Salazar, fiscal general del Estado.
+
+En el expediente investigativo consta un informe técnico pericial de identificación, cotejamiento y muestra biométrica de voz.
+
+Los peritos trabajaron sobre la transcripción de emisiones lingüísticas de un video que contenía las amenazas de muerte.
+
+Ese video llegó al contacto de Salazar, a través de la aplicación WhatsApp.
+
+Sentencia a Colón Pico por intimidación contra Diana Salazar
+------------------------------------------------------------
+
+Este martes se instaló en el Complejo Judicial Norte de Quito el segundo día de audiencia de juicio contra Fabricio Colón Pico.
+
+Esto, por presunta participación en el delito de intimidación, que habría perpetrado contra la Fiscal General.
+
+Diana Salazar, como víctima, solicitó que el procesado pida disculpas públicas y el pago de una reparación de 5 520 dólares.
+
+Ese dinero sería destinado a una cuenta de pacientes con esclerosis múltiple.
+
+La sentencia y los años de prisión para Colón Pico por intimidación a Diana Salazar
+-----------------------------------------------------------------------------------
+
+El Tribunal del juicio declaró culpable del delito de intimidación a Fabricio Colón Pico y lo sentenció a cinco años de prisión.
+
+Además, ordenó una reparación integral de 6 salarios básicos unificados a favor de la víctima, es decir, aproximadamente, 2 250 dólares.
+
+Argentina no puede salir de Miami por el Huracán Milton
+=======================================================
+
+La Selección de Argentina lidera la tabla de posiciones de las eliminatorias al Mundial 2026 con 18 puntos.
+-----------------------------------------------------------------------------------------------------------
+
+![Lionel Messi con la Selección de Argentina en Miami en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/argentina_milton_1.jpg)
+
+La **Selección de Argentina** aún se encuentra en Miami y no pudo cumplir la logística que tenía planificada para viajar a Venezuela para jugar en la novena fecha de las eliminatorias al Mundial 2026.
+
+El jueves 10 de octubre de 2024, desde las 16:00, Argentina tiene que visitar a **Venezuela en el Estadio Monumental de Maturín**, escenario que fue sede de la Copa América 2007 y en la que Ecuador perdió 1-2 ante México.
+
+### Más noticias:
+
 * [Marco Angulo, de Liga de Quito, fue operado tras siniestro de tránsito](https://www.elcomercio.com/deportes/marco-angulo-de-liga-de-quito-fue-operado-tras-siniestro-de-transito.html "Marco Angulo, de Liga de Quito, fue operado tras siniestro de tránsito")
-* [Marco Angulo, campeón de América con cinco cracks de Ecuador](https://www.elcomercio.com/deportes/futbol/marco-angulo-campeon-libertadores-sub-20.html "Marco Angulo, campeón de América con cinco cracks de Ecuador")
+* [Siete etapas definen la Vuelta Ciclística a Ecuador 2024](https://www.elcomercio.com/deportes/ciclismo/vuelta-ciclistica-ecuador-2024-etapas.html "Siete etapas definen la Vuelta Ciclística a Ecuador 2024")
+* [Pedro Vite está nominado a un prestigioso premio en la MLS](https://www.elcomercio.com/deportes/futbol/pedro-vite-esta-nominado-a-un-prestigioso-premio-en-la-mls.html "Pedro Vite está nominado a un prestigioso premio en la MLS")
 
-Después de algunas horas en el hospital, Angulo se sometió a una cirugía de emergencia. Se le practicó una **craneotomía descompresiva**, un procedimiento que permitió liberar la presión intracraneal y drenar el líquido acumulado en una zona crítica del cerebro. Los resultados de la operación sé catalogaron como favorables.
+Este martes 8 la delegación de Argentina tenía planificado viajar a Venezuela, con una **parada previa en Cúcuta, Colombia**, puesto que dicho país no admite vuelos de bandera argentina y estadounidense, según apunta Infobae.
 
-Actualmente, el futbolista se encuentra con **respiración artificial en cuidados intensivos, y permanece en coma inducido**, según confirmó una fuente de Liga de Quito a El COMERCIO.
+El huracán, que presenta vientos máximos sostenidos de 280 kilómetros por hora (175 millas), **atravesará casi todo Florida de oeste a este a partir del próximo miércoles** 9 de octubre de 2024, según el Centro Nacional de Huracanes (NHC, en inglés) de Estados Unidos.
 
-Cabe mencionar que el jugador no ha despertado desde el siniestro.
+“No se puede despejar, va a ser difícil al otro día llegar porque no se puede ir directo a Maturín. **Tenemos que hacer escala porque no permiten aterrizar** desde suelo americano directamente a Venezuela (…) Lo más importante es la salud de la gente y de todos nosotros que estamos acá también”, recoge TyC Sports.
 
-¿Qué es el coma inducido y para qué sirve?
+“Nos han denegado el viaje, vamos a viajar mañana si el tiempo lo permite (…) **Son cosas que no dependen de nosotros, hemos tenido mala suerte**“, mencionó Lionel Scaloni, entrenador ‘Albiceleste’, en una rueda de prensa que se llevó a cabo este martes.
+
+¿Qué pasará con el partido ante Venezuela?
 ------------------------------------------
 
-El coma es un estado de inconsciencia en el que la persona está viva, pero **no puede moverse ni responder a su entorno**, ya que sus funciones neurológicas superiores están limitadas, detalló el Dr. Kenny Ruiz a El COMERCIO.
+Las alarmas están encendidas en la c**oncentración de Argentina por el Huracán Milton** y también por no poder viajar a Venezuela.
 
-El coma inducido, por su parte, es un estado de inconsciencia generado de manera controlada mediante fármacos, utilizado en casos de hematomas, hemorragias o edemas producidos por traumatismos craneoencefálicos severos, como el caso de Marco Angulo tras el siniestro.
+Desde Argentina se empieza a hablar que **una de las alternativas en caso de no llegar a tiempo**, es aplazarlo para el viernes 11.
 
-“Llevamos a la persona, por medio de sedación, a un nivel de inconsciencia **para que todo el gasto metabólico, la oxigenación y la demanda que requiere el cerebro sea la mínima**“, mencionó el galeno.
+“T**anto FIFA como Conmebol están al tanto de la situación**“, comentaron en DSports, respecto a la opción de cambiar la fecha del encuentro.
 
-“Este procedimiento permite reducir la actividad cerebral para que el tejido no sufra alteraciones y el paciente pueda tener una recuperación adecuada. Así, el **cerebro se recupera a la par de otros sistemas vitales**“, agregó el Dr. Ruiz a EL COMERCIO.
+“Sería casi imposible salir el mismo jueves”, explicó Scaloni ante la posibilidad de que la delegación tampoco pueda partir el miércoles.
+
+![Foto: Instagram Argentina.](https://www.elcomercio.com/wp-content/uploads/2024/10/argentina_milton_2-1024x683.jpg)
+
+Foto: Instagram Argentina.
+
+Las bajas de Argentina
+----------------------
+
+El entrenador también se refirió a otros cambios que debió introducir en la preparación.
+
+“Es una fecha muy difícil para nosotros en la convocatoria. Tuvimos muchos imponderables. **Traer jugadores de Europa es difícil ahora**. Tenemos que aprovechar a los jugadores que están en el fútbol argentino”, explicó.
+
+Pese a las cuatro bajas por lesión en su plantilla y la ausencia por sanción de dos jugadores más, dijo que espera que sus dirigidos puedan “mantener el nivel” en las próximas dos jornadas de las eliminatorias sudamericanas.
+
+Los lesionados son el lateral Marcos Acuña los delanteros **Paulo Dybala, Nicolás González y Alejandro Garnacho**. Además, están sancionados el defensor Cristian ‘Cuti’ Romero y el portero Emiliano ‘Dibu’ Martínez.
+
+Scaloni expresó su respaldo a su portero. “Se expresó de una manera muy respetuosa y correcta. Es justo lo que ha dicho. Son cosas que no pueden volver a pasar. Sobre todo porque el equipo no puede permitirse no tener a Dibu o Cuti. Son jugadores importantes”.
+
+Martínez fue sancionado dos fechas por el Tribunal de Disciplina de la FIFA **tras haber golpeado la cámara de un periodista tras el partido jugado en Barranquilla** y, por haber colocado el trofeo de la Copa América en su zona genital durante los festejos del título tras la goleada a Chile en el Estadio Monumental de Buenos Aires.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DA2GJ9Lo154/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Selección Argentina (@afaseleccion)](https://www.instagram.com/reel/DA2GJ9Lo154/?utm_source=ig_embed&utm_campaign=loading)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Jugadores de la Selección de Ecuador rindieron homenaje a Roberto Cabezas
+=========================================================================
+
+Roberto Cabezas falleció en un siniestro de tránsito y un grupo de la Selección de Ecuador le rindió homenaje.
+--------------------------------------------------------------------------------------------------------------
+
+![Jugadores de la Selección de Ecuador en el funeral de Roberto Cabezas, futbolista fallecido de Independiente Juniors.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-08T143913.641.jpg)
+
+El lunes 7 de octubre del 2024 se produjo un **siniestro de tránsito** en horas de la madrugada en la Autopista General Rumiñahui. En él se encontraba como ocupante el futbolista Roberto Cabezas, quien falleció y había conocido a jugadores de la **Selección de Ecuador.**
+
+A raíz del hecho, **instituciones futbolísticas y clubes** se pronunciaron y se solidarizaron con la familia del jugador. Durante el mismo día en el cual se produjo el deceso del deportista, su funeral se realizó y acudieron futbolistas de la Tri.
+
+### Más noticias:
+
+* [Selección de Ecuador promete intensidad ante Paraguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-paraguay-intensidad-eliminatorias.html "Selección de Ecuador promete intensidad ante Paraguay")
+* [Óscar Zambrano, emocionado por volver a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/oscar-zambrano-emocionado-por-volver-a-la-seleccion-de-ecuador.html "Óscar Zambrano, emocionado por volver a la Selección de Ecuador")
+* [Cristian Ramírez finalmente regresó a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/cristian-ramirez-finalmente-regreso-a-la-seleccion-de-ecuador.html "Cristian Ramírez finalmente regresó a la Selección de Ecuador")
+
+En una foto que circuló en redes sociales se observó a miembros del equipo nacional alrededor del ataúd y abrazados entre sí. Aquellos que se encontraban habían compartido con el futbolista a nivel juvenil en **Independiente del Valle** o se formaron en dicho club.
+
+Los seleccionados, tanto los que juegan en el **ámbito local e internacional**, pudieron trasladarse al acto debido a que estos se encuentran concentrados en Quito con el equipo nacional. El 10 de octubre del 2024 y el 15 del mismo mes[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+¿Quiénes estuvieron en el funeral de Roberto Cabezas?
+-----------------------------------------------------
+
+Dentro del evento estuvieron presentes 13 futbolistas de la Selección de Ecuador. A estos los acompañó **Manolo Illescas**, funcionario de la Federación Ecuatoriana de Fútbol (FEF) y el conjunto tricolor.
+
+Entre los jugadores presentes de la escuadra de **Sebastián Beccacece** estuvieron Jhoanner Chávez, Gonzalo Plata, Pedro Vite, Jhon Mercado, Moisés Ramírez, Alan Minda, Piero Hincapié, Yaimar Medina, Kendry Páez, Ronaldo Villa, Alan Franco, Willian Pacho y Joel Ordóñez.
+
+Los demás miembros de la Tri permanecieron en la **Casa de la Selección**. Para la fecha de eliminatorias, el DT de la escuadra de la mitad del mundo convocó 25 nombres y cinco más se unieron en calidad de invitados.
+
+¿Cómo fue el siniestro que estuvo involucrado el futbolista?
+------------------------------------------------------------
+
+El siniestro en el cual falleció **Roberto Cabezas** también involucró a otro futbolista y otros tres pasajeros del vehículo. **Marco Angulo**, jugador de Liga de Quito, estuvo en el automotor y, tras el suceso, fue trasladado en estado crítico al Hospital Eugenio Espejo.
+
+Los futbolistas y los demás ocupantes del automóvil se impactaron con una viga de 50 toneladas en la Autopista General Rumiñahui. Además de **Cabezas**, otro de los individuos que lo acompañaban falleció.
+
+En el caso de **Angulo**, este ya se encuentra estable, pero está en terapia intensiva y su pronóstico es reservado. Tras una primera cirugía –**craniectomía descompresiva**– se espera la evolución del futbolista y su reacción para sacarlo de un coma inducido.
+
+X vuelve a Brasil, pero con varias condiciones
+==============================================
+
+La red social fue bloqueada en este país el 31 de agosto, alegando incumplimientos fiscales.
+--------------------------------------------------------------------------------------------
+
+![Elon Musk, dueño de la red social, cerró sus oficinas en Brasil por desacuerdos con el gobierno](https://www.elcomercio.com/wp-content/uploads/2024/10/musk.jpg)
+
+La red social **X** volvió estar disponible en **Brasil**, pero con varias condiciones, tras el bloqueo que sufrió por parte de la justicia de este país.
+
+“X está orgullosa de regresar a Brasil” fue el mensaje con el que la oficina de **Asuntos Gubernamentales** de la plataforma informó este martes 8 de octubre de 2024 su regreso.
+
+### Más noticias
+
+* [Fans de Karol G hurgaron en sus redes y se encontraron con ‘Diddy’ Combs](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-diddy-combs-fans-redes-sociales.html "Fans de Karol G hurgaron en sus redes y se encontraron con ‘Diddy’ Combs")
+* [(Video) Christian Nodal explota contra la toxicidad de redes sociales](https://www.elcomercio.com/afull/video-christian-nodal-explota-contra-la-toxicidad-de-redes-sociales.html "(Video) Christian Nodal explota contra la toxicidad de redes sociales")
+* [WhatsApp planea modificar la función de “escribiendo” en los chats](https://www.elcomercio.com/tecnologia/whatsapp-funcion-escribiendo-actualizacion.html "WhatsApp planea modificar la función de “escribiendo” en los chats ")
+
+El breve comunicado, que representa la primera manifestación oficial por parte de X luego de conocerse la **resolución judicial**, fue publicado en la misma red social.
+
+El mensaje aclara que durante todo el proceso, lo “primordial” fue restablecer el acceso de su “indispensable” plataforma a “**decenas de millones de brasileños**” y que continuarán “defendiendo la libertad de expresión dentro de los límites de la ley”.
+
+Por parte del Gobierno, fue el Ministro de Comunicaciones de Brasil, **Juscelino Filho**, el encargado de emitir una comunicación, y celebró como “una victoria para el país” que la red social “se haya adaptado a la legislación”.
+
+Multa millonaria
+----------------
+
+Este martes, el juez del Supremo Tribunal Federal, **Alexandre de Moraes**, responsable de la causa, había solicitado el desbloqueo de la red social propiedad de **Elon Musk** luego de que la misma pague una multa de **5,2 millones de dólares**.
+
+Asimismo, Moraes afirmó que el desbloqueo está “condicionado” al “cumplimiento integral” por parte de la red social de la legislación brasileña y a la “absoluta observancia” de las decisiones judiciales sobre la eliminación de perfiles acusados de difundir **noticias falsas**.
+
+Poco antes del anuncio del magistrado, la **Fiscalía** General de la República ya se había mostrado favorable al restablecimiento de X al no percibir “asuntos pendientes” que impidieran el regreso de la plataforma.
+
+Bloqueo de X en Brasil
+----------------------
+
+La pugna entre la red social, su dueño Elon Musk y el Gobierno de **Brasil** comenzó en enero de este año.
+
+Un juez ordenó una investigación contra los directivos de X por la presunta difusión de noticias falsas difamatorias y pidió que se bloqueen las cuentas desde donde se supone venía la desinformación.
+
+Musk por su parte, contraatacó retirando sus **oficinas** en Brasil y declarando que para él lo principal es la libertad de expresión.
+
+Finalmente, la escalada de desacuerdos llevó a que Moraes solicitara formalmente el bloqueo de X en el país sudamericano el **sábado 31 de agosto**, alegando incumplimientos judiciales. _**Con información de EFE**_.
+
+Cortes de luz en Guayaquil este miércoles 9 de octubre
+======================================================
+
+Los cortes de luz en Guayaquil el miércoles 9 de octubre, día que se conmemoran 204 años de su independencia.
+-------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz programados para este miércoles 9 de octubre en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz.png)
+
+Los **cortes de luz** en **Guayaquil** este miércoles 9 de octubre de 2024 son programados por CNEL EP.
+
+Este día, la urbe porteña conmemorará sus **204 años de independencia**.
+
+### Más noticias:
+
+* [Guayaquil tendrá tres sesiones solemnes por su independencia](https://www.elcomercio.com/actualidad/politica/guayaquil-tres-sesiones-solemnes-independencia-9-octubre.html "Guayaquil tendrá tres sesiones solemnes por su independencia")
+* [Niño queda en coma tras accidente en escuela de Guayaquil](https://www.elcomercio.com/actualidad/ecuador/nino-queda-en-coma-tras-accidente-en-escuela-de-guayaquil.html "Niño queda en coma tras accidente en escuela de Guayaquil")
+
+El Gobierno aplica, desde la semana pasada, cortes de luz con horas reducidas.
+
+Ahora, los cortes entre semana ya no son de hasta 10 horas, como al inicio de la emergencia por la crisis energética.
+
+Los cortes son de hasta cuatro y cinco horas, desde la disposición del Gobierno.
+
+Esto, pese a que el embalse de Mazar aún no está en condiciones óptimas y al pedido de los empresarios e industriales de reducir las 10 horas de cortes para su sector.
+
+Los horarios de cortes de luz en Guayaquil este miércoles 9 de octubre
+----------------------------------------------------------------------
+
+Los cortes de luz en Guayaquil para este 9 de octubre se mantienen con hasta cuatro horas de duración.
+
+Inician desde la madrugada y van entre una y dos franjas horarias.
+
+La reducción de las horas o el incremento dependerá de las condiciones hidrológicas que se presenten en el país.
+
+A continuación, los horarios de los cortes de luz en Guayaquil por franjas y sectores:
+
+  
+
+Beatriz de York espera su segundo hijo, alegrando a la familia real británica
+=============================================================================
+
+Este bebé, que nacerá en 2025, será el segundo hijo de la pareja y el undécimo en la línea de sucesión al trono.
+----------------------------------------------------------------------------------------------------------------
+
+![La familia real británica en el balcón de Buckingham.](https://www.elcomercio.com/wp-content/uploads/2024/10/NGH02-BRITAIN-ROYALTY.webp)
+
+La **familia real británica** finalmente tiene motivos para celebrar. Beatriz de York, la hija mayor del príncipe Andrés, está esperando su segundo hijo junto a su esposo Edoardo Mapelli Mozzi. La **Casa Real** ha hecho este anuncio a través de un **comunicado oficial**. Esta es no solo una buena noticia para la pareja, sino también un alivio para la familia en un momento delicado para la **monarquía**.
+
+### Más noticias
+
+* [Kate Middleton confirma el fin de su quimioterapia](https://www.elcomercio.com/afull/kate-middleton-quimioterapia-cancer.html "Kate Middleton confirma el fin de su quimioterapia")
+* [Mire las imágenes de Kate Middleton en su primera aparición pública desde que anunció su enfermedad](https://www.elcomercio.com/actualidad/mundo/imagenes-kate-middleton-primera-aparicion-publica-diagnosticada-de-cancer.html)
+* [Fallece el tercer cuervo de la Torre de Londres y crece el temor por la profecía real](https://www.elcomercio.com/tendencias/curiosidades/fallece-tercer-cuervo-torre-londres-rece-el-temor-profecia-real.html "Fallece el tercer cuervo de la Torre de Londres y crece el temor por la profecía real")
+
+Aunque el **rey Carlos III** no ha comentado directamente, el comunicado de la **familia real** indica que “su Majestad el Rey ha sido informado y ambas familias están encantadas con la noticia”, lo que sugiere que Carlos está al tanto y comparte la alegría por la llegada de un nuevo integrante, prevista para 2025.
+
+Este bebé será el segundo hijo de **Beatriz y Edoardo**, quienes ya tienen una hija, **Sienna Elizabeth**, nacida en 2021. Además, el **nuevo integrante** tendrá un medio hermano, Christopher Woolf, apodado cariñosamente Wolfie, hijo de una relación anterior de Edoardo. La **familia real** ha subrayado la **relevancia** de este nuevo miembro, quien, aunque no tendrá un título nobiliario, ocupará el undécimo lugar en la línea de sucesión al **trono británico.** Con el nacimiento de este niño, los duques de York, Andrés y Sarah Ferguson, darán la bienvenida a su cuarto nieto, después de que su otra hija, Eugenia, tuviera a August y Ernest.
+
+> 🎉🍼 Her Royal Highness Princess Beatrice and Mr Edoardo Mapelli Mozzi are very pleased to announce that they are expecting their second child together early in the new year; a sibling for Wolfie and Sienna.  
+>   
+> 👑 His Majesty The King has been informed and both families are… [pic.twitter.com/wa5XddwMsJ](https://t.co/wa5XddwMsJ)
+> 
+> — The Royal Family (@RoyalFamily) [October 1, 2024](https://twitter.com/RoyalFamily/status/1841134846888067206?ref_src=twsrc%5Etfw)
+
+Un rayo de esperanza en momentos difíciles
+------------------------------------------
+
+**Este embarazo** llega en un momento en que la **familia real necesita razones para celebrar**, ante una serie de noticias que han mantenido a la institución bajo presión. **La salud del rey Carlos III y de Kate Middleton**, la princesa de Gales, sigue siendo motivo de preocupación para el palacio. Ambos están luchando contra el cáncer y, aunque parecen mostrar signos de mejoría, su **recuperación total** aún no se ha confirmado.
+
+Ecuador aún debe esperar para que se concrete el nuevo crédito del FMI
+======================================================================
+
+Ecuador gestiona un nuevo crédito del FMI, previsto para 2025, destinado a impulsar políticas ambientales y económicas.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Juan Carlos Vega, ministro de Economía y Finanzas. Foto: Ministerio de Finanzas](https://www.elcomercio.com/wp-content/uploads/2024/04/Juan-Carlos-Vega-Ecuador.jpg)
+
+El **Gobierno ecuatoriano** espera concretar un nuevo préstamo de**l Fondo Monetario Internacional** (FMI) el año que viene. Así lo confirmó el ministro de Economía y Finanzas, **Juan Carlos Vega**, este 8 de octubre de 2024, durante la **Expoflor Ecuador 2024**, desarrollada en Quito[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [FMI dice que Ecuador es elegible, ¿de qué se trata el crédito?](https://www.elcomercio.com/actualidad/negocios/ecuador-credito-fmi-bajo-programa-resiliencia-sostenibilidad.html "FMI dice que Ecuador es elegible, ¿de qué se trata el crédito?")
+* [El BID aprueba nuevo préstamo para Ecuador](https://www.elcomercio.com/actualidad/negocios/bid-aprueba-nuevo-prestamo-ecuador-creditos.html "El BID aprueba nuevo préstamo para Ecuador")
+* [Ecuador y Japón acuerdan préstamo para proyecto geotérmico en Chachimbiro](https://www.elcomercio.com/actualidad/negocios/ecuador-y-japon-acuerdan-prestamo-para-proyecto-geotermico-en-chachimbiro.html "Ecuador y Japón acuerdan préstamo para proyecto geotérmico en Chachimbiro")
+
+Vega explicó que este crédito sería un complemento al acuerdo que ya mantiene el país con el FMI y se espera que se concrete a mediados de 2025.
+
+El Ministro señaló que los fondos estarán destinados a impulsar la **política ambiental y el crecimiento económico del país**. Este financiamiento, aún en evaluación por el FMI, está vinculado al programa Servicio de Resiliencia y Sostenibilidad (SRS o RSF, por sus siglas en inglés).
+
+El 3 de octubre de 2024, el FMI confirmó que las autoridades ecuatorianas están considerando solicitar un nuevo crédito. **Julie Kozack**, directora del departamento de comunicaciones del FMI, informó en una conferencia de prensa en Washington que Ecuador es **elegible** para este tipo de **financiamiento**.
+
+El **programa RSF,** que dura hasta 18 meses, está destinado a proyectos relacionados con el cambio climático o la preparación ante **pandemias**. El crédito ayudaría a financiar tanto la política ambiental como el crecimiento económico del país.
+
+Esta solicitud se suma al programa ya aprobado en mayo pasado. Alí Ecuador accedió a un crédito de 4 000 millones de dólares, de los cuales se desembolsaron 1 000 millones de manera inmediata bajo el Servicio Ampliado del Fondo (SAF). El objetivo es estabilizar la economía y salvaguardar la dolarización.
+
+Por otro lado, el ministro Vega señaló que en su reciente visita a **China** se discutió con autoridades y entidades financieras sobre posibles inversiones en proyectos de energía y seguridad ciudadana. El viaje, realizado el 24 de septiembre, tenía como objetivo fortalecer la relación financiera bilateral.
+
+‘El diario de Bridget Jones 4’ hizo llorar a Hugh Grant
+=======================================================
+
+Elenco renovado, humor y drama, Bridget Jones 4 promete ser un éxito.
+---------------------------------------------------------------------
+
+![Renée Zellweger regresará como Bridget Jones en la cuarta película de la saga. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-5.jpg)
+
+Buenas noticias para los fans de **Bridget Jones.** La nueva cinta de la saga, titulada ‘Bridget Jones: Loca por él’, traerá de regreso al **actor Hugh Grant** en el papel del mujeriego Daniel Cleaver.
+
+El personaje es uno de los más icónicos de la comedia romántica británica. Grant, en una reciente entrevista que recoge el sitio Ok Diario, ofreció detalles sobre lo que podrá esperar de esta secuela.
+
+### Más noticias
+
+* **[‘El diablo viste a la moda 2’ tiene excelentes noticias para sus fans](https://www.elcomercio.com/afull/el-diablo-viste-a-la-moda-2-tiene-excelentes-noticias-para-sus-fans.html "https://www.elcomercio.com/afull/el-diablo-viste-a-la-moda-2-tiene-excelentes-noticias-para-sus-fans.html")**
+* **[‘El Conjuro 4’ ya tiene fecha de estreno](https://www.elcomercio.com/tendencias/el-conjuro-4-estreno-cine-terror-los-warren.html "https://www.elcomercio.com/tendencias/el-conjuro-4-estreno-cine-terror-los-warren.html")**
+
+La cinta estará marcada por la nostalgia, el humor y, sorprendentemente, una carga emocional que la convierte en un “cóctel muy, muy triste”, dijo.
+
+![Hugh Grant. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-7-1024x683.jpg)
+
+Hugh Grant. Foto: Facebook
+
+“Me encantó el guion, me hizo llorar, y quise echar una mano… Pero ahí no hay ni rastro de Daniel Cleaver. Querían que estuviese y al final hicieron algo que no me hacía demasiada gracia”, contó el actor, según la revista **[Vanity Fair](https://www.revistavanityfair.es/articulos/hugh-grant-entrevista-heretic-hereje-bridget-jones "https://www.revistavanityfair.es/articulos/hugh-grant-entrevista-heretic-hereje-bridget-jones")**. Así que escribió algunas escenas y así se unió al elenco.
+
+Un clásico de la comedia romántica
+----------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-2-1024x683.jpg)
+
+‘El diario de Bridget Jones’ se estrenó en 2001 y fue un éxito. Protagonizada por [Renée Zellweger](https://www.instagram.com/renee__zellweger/?hl=es "https://www.instagram.com/renee__zellweger/?hl=es"), cuenta la historia de una mujer soltera de 30 años que busca el amor.
+
+La película está basada en el libro de Helen Fielding y mezcla humor con temas de inseguridad y relaciones. Hugh Grant y Colin Firth interpretaron a los intereses amorosos de Bridget. Recaudó más de 280 millones de dólares en taquilla. La puedes ver [aquí](https://www.primevideo.com/-/es/detail/El-Diario-de-Bridget-Jones/0PQH7ET15KWTAD2P4COEJLVNJ5 "https://www.primevideo.com/-/es/detail/El-Diario-de-Bridget-Jones/0PQH7ET15KWTAD2P4COEJLVNJ5").
+
+Más enredos amorosos y nuevas sorpresas
+---------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-1-1024x683.jpg)
+
+‘Bridget Jones: Al borde de la razón’ se estrenó en 2004 y retomó la historia de la querida Bridget. La película sigue las nuevas aventuras amorosas y personales de Bridget, ahora en una relación con Mark Darcy.
+
+Las inseguridades y los malentendidos la llevan a enfrentarse a situaciones aún más caóticas que en la primera entrega. También tuvo a [Hugh Grant](https://www.instagram.com/hughgrantphotos/?hl=es) regresa como Daniel Cleaver. La cinta recaudó más de 260 millones de dólares a escala mundial. La puedes ver [aquí](https://tv.apple.com/ec/movie/bridget-jones-al-borde-de-la-razon/umc.cmc.75dndzzkt396mkwauh71gu6dh "https://tv.apple.com/ec/movie/bridget-jones-al-borde-de-la-razon/umc.cmc.75dndzzkt396mkwauh71gu6dh").
+
+La inesperada llegada de un bebé
+--------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-3-1024x683.jpg)
+
+‘Bridget Jones’ Baby’ llegó en 2016 y sorprendió con una nueva etapa en la vida de Bridget. En esta entrega, la protagonista descubre que está embarazada, pero no está segura de quién es el padre.
+
+Mark Darcy, interpretado nuevamente por [Colin Firth](https://www.instagram.com/colinfirthie/?hl=es "https://www.instagram.com/colinfirthie/?hl=es"), y el personaje de Jack, encarnado por **[Patrick Dempsey](https://www.instagram.com/patrickdempsey/?hl=es-la "https://www.instagram.com/patrickdempsey/?hl=es-la")** (‘[Grey’s Anatomy’](https://www.disneyplus.com/es-co/series/greys-anatomy/6P4ZI3bWwSDj "https://www.disneyplus.com/es-co/series/greys-anatomy/6P4ZI3bWwSDj")), se ven envueltos en esta divertida incertidumbre. Superó los 210 millones de dólares en taquilla. Está disponible [aquí](https://www.primevideo.com/dp/amzn1.dv.gti.0fcb7c33-31d0-4f6b-b8f2-3f8d48e7b297?autoplay=0&ref_=atv_cf_strg_wb "https://www.primevideo.com/dp/amzn1.dv.gti.0fcb7c33-31d0-4f6b-b8f2-3f8d48e7b297?autoplay=0&ref_=atv_cf_strg_wb").
+
+¿Qué esperar de Bridget Jones 4?
+--------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-4-1024x683.jpg)
+
+La cuarta entrega de _Bridget Jones_ está en camino. Renée Zellweger regresará como Bridget. La protagonista enfrentará nuevas complicaciones amorosas. Esta vez, la historia será más madura y emotiva.
+
+Hugh Grant también regresa como Daniel Cleaver. Él mencionó que el guion es cómico y muy triste. “Es un drama emocional que conectará con los fans”, dijo.
+
+Grant dudó en retomar su papel, pero aceptó tras leer el guion. Su personaje ahora tiene más de 60 años. “No puede simplemente fijarse en chicas jóvenes”, explicó.
+
+La nueva película se basa en la novela ‘Mad about the Boy’ (‘Loca por el chico’). En el libro, Bridget es viuda y madre de dos hijos y a los 51 años enfrenta la vida tras la muerte de Mark Darcy.
+
+La historia, en el texto, comienza cinco años después de su pérdida. Cleaver intenta animar a Bridget en su duelo. La causa de la muerte de Mark se revelará al final, generando intriga.
+
+Ingreso de otros talentos
+-------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-6-1024x683.jpg)
+
+Habrá importantes adiciones al elenco como Emma Thompson, Chiwetel Ejiofor e Isla Fisher. Fotos: IMDB
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-1024x683.jpg)
+
+En esta nueva entrega no veremos al actor Colin Firth como Mark Darcy. Foto: IMDB
+
+Uno de los cambios más significativos en ‘Bridget Jones: Loca por él’ será la ausencia de Colin Firth como Mark Darcy, quien fue el interés amoroso de Bridget en las tres primeras películas.
+
+Aunque esto pueda ser una decepción para los seguidores, la producción los compensó con la inclusión de grandes talentos como Emma Thompson, Chiwetel Ejiofor e Isla Fisher.
+
+¿Cuándo se estrena ‘Bridget Jones 4’?
+-------------------------------------
+
+La película, dirigida por Sharon Maguire, se estrenará el 14 de febrero de 2025, coincidiendo con el Día de San Valentín, un guiño perfecto para los fans de la comedia romántica.
+
+En esta nueva entrega no veremos a Colin Firth como Mark Darcy, pero sí habrá importantes adiciones al elenco como Emma Thompson, Chiwetel Ejiofor y Leo Woodall.
+
+Nuevo ataque armado en Durán deja cuatro asesinados
+===================================================
+
+Los atacantes habrían fingido ser del Ejército para cometer la masacre.
+-----------------------------------------------------------------------
+
+![Policías y militares cercaron el lugar tras el hecho](https://www.elcomercio.com/wp-content/uploads/2024/10/militares.jpg)
+
+**Cuatro personas** fueron **asesinadas** en un nuevo ataque armado registrado en el cantón **Durán**, en la provincia de Guayas.
+
+La **masacre** tuvo lugar en la Segunda Etapa del barrio El Recreo, cerca del mediodía de este martes 8 de octubre de 2024.
+
+### Más noticias
+
+* [Niño queda en coma tras accidente en escuela de Guayaquil](https://www.elcomercio.com/actualidad/ecuador/nino-queda-en-coma-tras-accidente-en-escuela-de-guayaquil.html "Niño queda en coma tras accidente en escuela de Guayaquil")
+* [Ataque armado en Guayas deja un militar fallecido](https://www.elcomercio.com/actualidad/seguridad/ataque-armado-en-guayas-deja-un-militar-fallecido.html "Ataque armado en Guayas deja un militar fallecido")
+* [Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil](https://www.elcomercio.com/actualidad/seguridad/agresores-sexuales-estados-unidos-guayaquil.html "Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil")
+
+Según información de la **Policía Nacional**, un grupo de al menos 10 desconocidos **vestidos con uniformes del Ejército** llegaron al lugar en dos vehículos.
+
+Los sospechosos fingieron realizar un **control de seguridad** para llevar a las víctimas a otro sitio. En este punto, los habrían arrodillado y **disparado a matar**.
+
+Las vainas percudidas que recuperó la Policía evidenció que al menos hubo una ráfaga de **28 tiros**.
+
+Un quinto hombre **sobrevivió** al ataque; el afectado se recupera de los balazos recibidos.
+
+Las cuatro víctimas tenían entre **18 y 30 años**.
+
+Si bien no registraban antecedentes, se presume que pertenecían a una **banda criminal** que era rival a la de los atacantes.
+
+Tras cometer el múltiple asesinato, los desconocidos huyeron. La Policía continúa en la búsqueda de los atacantes.
+
+Mientras que **Criminalística** realizó el levantamiento de los cuerpos.
+
+Desconocidos asesinaron a un militar en servicio activo
+-------------------------------------------------------
+
+La violencia y la delincuencia en Guayas **no cesa**. Dos de los 19 cantones con **toque de queda** pertenecen a esta provincia: Durán y Balao; sin embargo, la criminalidad se mantiene.
+
+En otro reciente hecho, un **militar en servicio activo** fue asesinado la noche del 7 de octubre, mientras custodiaba el Poliducto Pascuales-La Troncal.
+
+El subteniente **Christian Morales** habría notado la extraña presencia de un vehículo en los alrededores, cerca de la medianoche, por lo que se acercó a investigar.
+
+Al aproximarse, dos desconocidos **le dispararon** sin darle tiempo a reaccionar y huyeron del sitio.
+
+Los uniformados trasladaron al militar hacia un hospital de **Daule**, pero por la gravedad de las heridas falleció en la madrugada de este martes 8 de octubre.
+
+El Ejército ecuatoriano calificó el hecho como **terrorista** y ofreció sus condolencias.
+
+“Expresamos nuestras condolencias y solidaridad a los familiares del subteniente Christian Morales, quien ofrendó su vida en cumplimiento al sagrado juramento de defender a sus conciudadanos y la Patria” dijo la institución.
+
+> El Ejército Ecuatoriano expresa su profunda nota de pesar ante el sensible fallecimiento del subteniente de Ingeniería (+) Christian Fabricio Morales Amán.  
+>   
+> Paz en su tumba. [#EjércitoECU](https://twitter.com/hashtag/Ej%C3%A9rcitoECU?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/llpIG5iybF](https://t.co/llpIG5iybF)
+> 
+> — Ejército Ecuatoriano (@EjercitoECU) [October 8, 2024](https://twitter.com/EjercitoECU/status/1843643768635044127?ref_src=twsrc%5Etfw)
+
+Cortes de luz en Quito este miércoles 9 de octubre
+==================================================
+
+Los cortes de luz en Quito para este miércoles 9 de octubre mantienen la disposición de reducción de horas del Gobierno.
+------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Quito para este miércoles 9 de octubre se mantienen.](https://www.elcomercio.com/wp-content/uploads/2024/10/corte-de-luz-2.jpg)
+
+Los horarios de **cortes de luz** en **Quito** este **miércoles 9 de octubre** se mantienen hasta el jueves 10[.](https://es.wikipedia.org/wiki/Quito)
+
+La Empresa Eléctrica Quito unificó los horarios desde el lunes 7 de octubre hasta el jueves.
+
+### Más noticias:
+
+* [Lluvias con tormentas se prevén la tarde de este 8 de octubre en Quito](https://www.elcomercio.com/actualidad/quito/quito-lluvias-con-tormentas-se-preven-tarde-8-de-octubre.html "Lluvias con tormentas se prevén la tarde de este 8 de octubre en Quito")
+* [Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera](https://www.elcomercio.com/actualidad/quito/operaciones-aeropuerto-quito-normales-huracan-milton.html "Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera")
+
+Estos horarios cambiarán de viernes a sábado.
+
+El Gobierno aplica, desde la semana pasada, cortes de luz con horas reducidas.
+
+Ahora, los cortes entre semana ya no son de hasta 10 horas, como al inicio de la emergencia por la crisis energética.
+
+Los cortes son de hasta cuatro y cinco horas, desde la disposición del Gobierno.
+
+Esto, pese a que el embalse de Mazar aún no está en condiciones óptimas y al pedido de los empresarios e industriales de reducir las 10 horas de cortes para su sector.
+
+Los cortes de luz para Quito este miércoles 9 de octubre
+--------------------------------------------------------
+
+Los cortes de luz en Quito para este 9 de octubre se mantienen con hasta cuatro horas de duración.
+
+Inician desde la madrugada y van entre una y dos franjas horarias.
+
+La reducción de las horas o el incremento dependerá de las condiciones hidrológicas que se presenten en el país.
+
+A continuación, los horarios de los cortes de luz en Quito por franjas y sectores:
+
+Asamblea Nacional aprobó la creación de un nuevo cantón
+=======================================================
+
+La Asamblea Nacional aprobó la creación del cantón Sevilla Don Bosco en Morona Santiago, beneficiando a 13 mil habitantes.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Asamblea Nacional sesionó este 8 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/asamblea-ac.jpg)
+
+El 8 de octubre de 2024, la **Asamblea Nacional** aprobó, por unanimidad y con 116 votos afirmativos, la creación del cantón **Sevilla Don Bosco**. Este nuevo cantón estará ubicado en la provincia de **Morona Santiago**, en la región amazónica del Ecuador.
+
+### Más noticias
+
+* [Asamblea Nacional votó tres veces y no logró nombrar Primer Vicepresidente](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-voto-tres-veces-y-no-logro-nombrar-primer-vicepresidente.html "Asamblea Nacional votó tres veces y no logró nombrar Primer Vicepresidente")
+* [Asamblea elegirá a quien asumirá la Primera Vicepresidencia](https://www.elcomercio.com/actualidad/politica/asamblea-elegira-quien-asumira-primera-vicepresidencia.html "Asamblea elegirá a quien asumirá la Primera Vicepresidencia")
+* [La Vicepresidencia de la Asamblea Nacional tendrá un nuevo rostro](https://www.elcomercio.com/actualidad/politica/la-vicepresidencia-asamblea-nacional-tendra-nuevo-rostro.html "La Vicepresidencia de la Asamblea Nacional tendrá un nuevo rostro")
+
+La decisión busca mejorar la **administración pública y fomentar el desarrollo económico** y social de la zona. La creación del cantón beneficiará a más de **13 mil habitantes**, en su mayoría de la nacionalidad shuar.
+
+> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw)  
+> El Pleno de la Asamblea Nacional, por unanimidad, con 116 votos afirmativos, aprobó la creación del cantón [#SevillaDonBosco](https://twitter.com/hashtag/SevillaDonBosco?src=hash&ref_src=twsrc%5Etfw) en la provincia de Morona Santiago, la decisión busca promover el desarrollo económico y social de la región, facilitando una… [pic.twitter.com/6TKHIAH7H4](https://t.co/6TKHIAH7H4)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [October 8, 2024](https://twitter.com/AsambleaEcuador/status/1843778056101458301?ref_src=twsrc%5Etfw)
+
+**Victoria Desintonio**, presidenta de la **Comisión de Gobiernos Autónomos**, destacó la importancia de esta decisión. Resaltó que es un acto de justicia para los habitantes de **Sevilla Don Bosco**.
+
+La nueva administración pretende acercar los recursos públicos a la comunidad de forma más eficiente. También mencionó que la riqueza cultural de la **zona será preservada y promovida**.
+
+Apoyo de la comunidad y autoridades locales
+-------------------------------------------
+
+Durante el debate en la Comisión General, **Ciro Chumpi**, presidente del GAD de Sevilla Don Bosco, expresó que el presupuesto estatal actual es **insuficiente para atender las necesidades** de la parroquia. En este contexto, la cantonización permitirá nuevas oportunidades de progreso para la población.
+
+**Nanki Saant**, comunero y asambleísta alterno, destacó que los habitantes han soñado durante años con este momento.
+
+> Por unanimidad, con 116 votos afirmativos, la Asamblea Nacional le dice SÍ a [#SevillaDonBosco](https://twitter.com/hashtag/SevillaDonBosco?src=hash&ref_src=twsrc%5Etfw), el nuevo cantón del [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/gS4qQRYqC6](https://t.co/gS4qQRYqC6)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [October 8, 2024](https://twitter.com/AsambleaEcuador/status/1843732104762581311?ref_src=twsrc%5Etfw)
+
+**Francisco Andramuño**, alcalde de Morona, también apoyó la decisión, indicando que la cantonización impulsará el desarrollo local. Mencionó que con esta medida, **Sevilla Don Bosco** se convertirá en un referente de progreso y oportunidades.
+
+El beneficio alcanzará tanto a la población mestiza como a las nacionalidades **indígenas de la región**.
+
+Joe Biden afirma que Milton podría ser el peor huracán en golpear Florida
+=========================================================================
+
+El Centro Nacional de Huracanes de Estados Unidos advirtió que "hoy es el último día para que los residentes de Florida se preparen".
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Un restaurante está rodeado de bolsas de arena mientras la ciudad se prepara para el huracán Milton en Bonita Beach, Florida, EE. UU., 8 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/3857e444c3e9428969fbd1d15010b8de746c0c39-2.jpg)
+
+El presidente de Estados Unidos, Joe Biden, advirtió este martes, 8 de octubre de 2024, que el [huracán Milton](https://www.elcomercio.com/actualidad/mundo/huracan-milton-danos-valor-175-000-millones-dolares.html "https://www.elcomercio.com/actualidad/mundo/huracan-milton-danos-valor-175-000-millones-dolares.html") podría ser el “**peor” en golpear el estado de Florida** en un siglo y pidió a las personas que se encuentran en la trayectoria de la tormenta que evacuen lo antes posible.
+
+### Más noticias
+
+* [Huracán Milton se convierte de nuevo en huracán de categoría 5](https://www.elcomercio.com/actualidad/mundo/huracan-milton-danos-valor-175-000-millones-dolares.html "Huracán Milton se convierte de nuevo en huracán de categoría 5")
+* [(Video) Huracán Milton: Meteorólogo llora por la llegada del monstruo categoría 5 a Florida](https://www.elcomercio.com/actualidad/mundo/huracan-milton-meteorologo-llora-describir-fuerza-monstruo-categoria-5-hacia-florida.html "(Video) Huracán Milton: Meteorólogo llora por la llegada del monstruo categoría 5 a Florida")
+* [El avión caza-huracanes WP-3D Orion voló directo al huracán Milton](https://www.elcomercio.com/actualidad/mundo/avion-caza-huracanes-wp-3d-orion-volo-directo-huracan-milton.html "El avión caza-huracanes WP-3D Orion voló directo al huracán Milton")
+
+“Podría ser el **peor huracán que azote Florida** en más de un siglo y, Dios mediante, no lo será, pero eso parece ahora mismo”, declaró Biden a la prensa en la Casa Blanca.
+
+Biden afirmó que el impacto de Milton, que **se prevé que toque tierra el miércoles por la noche** en la zona de la bahía de Tampa, en Florida, podría ser “devastador”.
+
+Es una cuestión de vida o muerte
+--------------------------------
+
+“Insto a todos los que se encuentren en la trayectoria del huracán Milton, a que escuchen a las autoridades locales y sigan las medidas de seguridad. Si están bajo órdenes de evacuación, deben evacuar ahora mismo**. Deberían haber evacuado ya.** Es una cuestión de vida o muerte, y no es una exageración”, afirmó Biden.
+
+El Centro Nacional de Huracanes de Estados Unidos advirtió en su boletín de las 11:00 que “hoy es el último día para que los **residentes de Florida se preparen**” en sus hogares o evacúen las zonas señaladas, si así lo indican las autoridades locales.
+
+La inteligencia artificial estuvo presente en la inauguración de la ExpoFlor 2024
+=================================================================================
+
+La ExpoFlor Ecuador 2024, la feria de flor cortada más importante de la región, reúne a 2 600 personas en Quito.
+----------------------------------------------------------------------------------------------------------------
+
+![Este martes 8 de octubre arrancó la tercera edición de la ExpoFlor Ecuador 2024. Foto: El Comercio](https://www.elcomercio.com/wp-content/uploads/2024/10/flores-1.jpg)
+
+  
+Este martes 8 de octubre arrancó la tercera edición de la **ExpoFlor Ecuador 2024**. Esta es la feria de flor cortada más **importante de la región** y concentra a cerca de **2 600 personas** en 6 000 metros cuadrados del **Centro de Convenciones Metropolitano de Quito**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Ecuador se suma al día del regalo de flores amarillas](https://www.elcomercio.com/actualidad/ecuador-suma-moda-flores-amarillas-septiembre.html "Ecuador se suma al día del regalo de flores amarillas")
+* [Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-generan-mas-costos-y-riesgos-de-seguridad-en-sector-logistico-de-ecuador.html "Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador")
+* [Industrias de dos ciudades paralizadas por cortes de luz](https://www.elcomercio.com/actualidad/negocios/industrias-de-dos-ciudades-paralizadas-por-cortes-de-luz.html "Industrias de dos ciudades paralizadas por cortes de luz")
+
+Ecuador es el **tercer exportador de flores del mundo** y cuenta con 600 variedades, que van a 86 destinos. El principal mercado es **Estados Unidos**. A este le siguen Kazajistán, Canadá, Chile, Países Bajos, Italia, España y Polonia.
+
+Entre enero y julio de 2024 se exportaron **531 millones de dólares**. El monto representa un incremento de 2% en comparación de los vendidos en el mismo período del año anterior. En **volumen se exportaron 90 000** toneladas de flores.
+
+Las principales especies exportadas son rosas, flores de verano, gypsophilas, claveles, flores preservadas, alstroemeria, crisantemos y lirios.
+
+El sector florícola genera más de 100 000 empleos
+-------------------------------------------------
+
+A la inauguración de la feria asistieron la canciller de la República**, Gabriela Sommerfeld**, la ministra de Producción, **Sonsoles García** y el embajador de Estados Unidos en Ecuador**, Art Brown**. Además, estuvieron Alejandro Martínez, presidente Ejecutivo de Expoflores, y Eduardo Letort, presidente del Directorio de Expoflores. Alstroemeria, crisantemos y lirios.
+
+Durante su intervención, **Sonsoles García** señaló que el sector florícola de Ecuador concentra el 10% del valor de exportaciones de la flor del mundo, después de **Países Bajos y Colombia**. Además, se constituye en la quinta actividad productiva agrícola del país.
+
+Asimismo, el sector genera más de 65 000 de empleos directos y 55 000 empleos indirectos. De este, el 51% es mano de **obra femenina.**
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/flores-2-1024x683.jpg)
+
+En la feria hay más de 110 expositores. Foto: María José Aguilar/ EL COMERCIO.
+
+Inteligencia artificial en la Expoflor 2024
+-------------------------------------------
+
+Por su parte, **Alejandro Martínez**, presidente de Expoflores, resaltó la resiliencia del sector floricultor ecuatoriano y destacó la importancia de adaptarse a los cambios globales.
+
+Afirmó, además, que el sector enfrenta retos como la **informalidad**, la cual afecta la creación de nuevas variedades de flores y pone en riesgo el control fitosanitario. Martínez subrayó que la solución a estos problemas reside en la **innovación tecnológica** y la cooperación entre el sector privado y el Estado.
+
+Propuso implementar un **sistema digital unificado** para simplificar trámites de **exportación** y mejorar la toma de decisiones. Reiteró la necesidad de voluntad política para convertir estas propuestas en realidad.
+
+Además, presentó a Lili, una **asistente virtual**, desarrollada con **inteligencia artificial**. Este sistema se encarga de manejar 56 procesos automáticos de Expoflores. Esta semana desarrollaron seis robots digitales nuevos.
+
+Asistentes a la feria
+---------------------
+
+La feria, que se desarrollará entre el 8 y 10 de octubre de 2024, reúne a más de 110 productores y exportadores de flores ecuatorianas y a más 2 500 compradores de **Estados Unidos, Canadá, Países Bajos, Unión Europea, Rusia y Euroasia**…
+
+Esta feria también reúne a los actores más representativos de la cadena productiva de la **industria florícola**, que agrupa a proveedores de insumos, floricultores, productores, exportadores, agencias de carga, entre otros.
+
+Entre los actores están las **empresas que** llevan las **flores** hacia al mundo. Diogo Elías, vicepresidente de Avianca Cargo, señaló que esta empresa realiza 10 vuelos cargueros semanales, el 50% corresponde a carga perecedera y el 90% de esta es flores, con destino a Miami y Los Ángles.
+
+Selección de Ecuador promete intensidad ante Paraguay
+=====================================================
+
+La Selección de Ecuador se enfrentará a la de Paraguay el jueves 10 de octubre en las eliminatorias al Mundial 2026.
+--------------------------------------------------------------------------------------------------------------------
+
+![Enner Valencia (c) con la Selección de Ecuador en la Casa de la Selección en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_intensidad_1.jpg)
+
+La **Selección de Ecuador** se prepara para enfrentar a la de Paraguay en la novena fecha de las eliminatorias al Mundial 2026, con lo que cierra la primera rueda de la competencia.
+
+El juego entre **Ecuador y Paraguay está programado para el jueves 10 de octubre de 2024**, desde las 16:00, en el estadio Rodrigo Paz Delgado, la nueva casa de la tricolor en lugar del cada vez más olvidado Olímpico Atahualpa.
+
+### Más noticias:
+
+* [Esto encontró la Policía en el vehículo siniestrado de Marco Angulo](https://www.elcomercio.com/actualidad/seguridad/botellas-de-alcohol-marco-angulo.html "Esto encontró la Policía en el vehículo siniestrado de Marco Angulo")
+* [¿Quién era Roberto Cabezas, futbolista fallecido en siniestro de tránsito?](https://www.elcomercio.com/deportes/marco-angulo-roberto-cabezas-quien-era-siniestro.html "¿Quién era Roberto Cabezas, futbolista fallecido en siniestro de tránsito?")
+* [Jorge Guzmán se proclamó campeón de la Liga Básquet Pro](https://www.elcomercio.com/deportes/baloncesto/jorge-guzman-campeon-liga-basquet.html "Jorge Guzmán se proclamó campeón de la Liga Básquet Pro")
+
+Alan Minda, Óscar Zambrano y Jhon Mercado comparecieron este martes 8 ante los medios de comunicación, en donde advirtieron que Paraguay procurará manejar los tiempos, **pero que Ecuador será intenso de local para buscar el triunfo**.
+
+El atacante Minda, del Círculo de Brujas belga, aseguró que “Paraguay es un equipo muy fuerte, que defiende y ataca muy bien, va a ser un duelo muy duro y habrá que asumirlo con la responsabilidad que se merece”.
+
+En las fechas pasadas Minda no pudo estar debido a una lesión, **pero se ha recuperado y resaltó su versatilidad**, con la que puede ir al ataque por derecha o por izquierda.
+
+“Me estoy acoplando a lo que me pide el técnico. Procuraré entregarlo todo en cada partido”, expresó Minda.
+
+Mercado y Zambrano apuntan a la titularidad
+-------------------------------------------
+
+Por su parte, Mercado, que milita en el AVS portugués, señaló que la preparación del equipo está de la mejor manera. “**Nos estamos preparando para un partido que sabemos va a ser muy difícil**“, pero “vamos a plantear nuestro esquema de juego procurando sacar un buen resultado”, señaló.
+
+El joven atacante de 22 años dejó entrever que se siente cómodo por todos el frente de ataque y que estará siempre a disposición para “hacer lo mejor donde el entrenador me ponga en la parte de al frente, sea como extremo o como delantero”.
+
+“**Sabemos que Paraguay intentará manejar los tiempos**, pero Ecuador está trabajando de la mejor manera para podernos quedar con los tres puntos”, dijo Zambrano, futbolista del Hull City inglés, en un encuentro con los periodistas en Quito, después del primer entrenamiento de este martes con equipo completo.
+
+Sobre el trabajo que Ecuador está realizando, Zambrano resaltó “la intensidad” que les pide el técnico argentino, Sebastián Beccacece, de manera especial, cuando se pierde el control del balón.
+
+Óscar Zambrano insistió en que la Albirroja “**es una selección con jugadores muy buenos**“, “pero Ecuador está concentrado y tiene puesta la mirada en un buen resultado” en ese partido.
+
+Ecuador procurará mantenerse en la zona de clasificación directa, pues está en el **cuarto puesto de la tabla de posiciones de las eliminatorias sudamericanas**, con 11 puntos; y Paraguay procurará mejorar el actual séptimo lugar, con 9 unidades.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+El tour de un latino es uno de los más rentables de 2024
+========================================================
+
+Un artista latino destaca en la lista de giras de conciertos más rentables de este año.
+---------------------------------------------------------------------------------------
+
+![La gira de Madonna está en la lista de las más rentables de este 2024. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo174.jpg)
+
+**Taylor Swift** consolidó su posición como una de las **artistas** más influyentes y rentables del mundo de la música. Eso, según el último informe de [**Forbes**](https://forbes.es/actualidad/511125/las-giras-de-conciertos-mas-rentables-de-2024/ "https://forbes.es/actualidad/511125/las-giras-de-conciertos-mas-rentables-de-2024/") sobre las giras de conciertos más lucrativas de 2024.
+
+Su gira **‘The Eras Tour’** no solo capturó la atención de millones de fanáticos alrededor del **mundo**, sino que también estableció nuevos récords financieros.
+
+Te compartimos el ‘**ranking**‘ de las giras de los shows más exitosos de este año.
+
+### **Más noticias:**
+
+* [Taylor Swift despojó a Rihanna de su megatítulo](https://www.elcomercio.com/tendencias/entretenimiento/taylor-swift-rihanna-fortuna-millonaria-planeta.html "https://www.elcomercio.com/tendencias/entretenimiento/taylor-swift-rihanna-fortuna-millonaria-planeta.html")
+* [Mamá de ‘Diddy’ dice que su hijo no es un ‘monstruo’](https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Same+Category "https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Same+Category")
+* [P. Diddy, entre mujeres, música y demandas](https://www.elcomercio.com/tendencias/p-diddy-parejas-hijos-arresto-demandas.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/p-diddy-parejas-hijos-arresto-demandas.html?source=Internal&ref=Single+Content+Link")
+
+Con 65 presentaciones en **Europa**, Asia y Oceanía, **Swift** recaudó aproximadamente 1 150 millones de dólares antes de impuestos y tarifas, lo que se traduce en ganancias netas de 400 millones de dólares.
+
+Esta cifra supera en 100 millones de dólares a la de cualquier otro artista en el mismo periodo, destacando su capacidad para atraer multitudes y generar ingresos significativos.
+
+El impacto económico de ‘The Eras Tour’ no se limita solo a los ingresos por venta de entradas. Según Forbes, la gira podría generar hasta 4,6 mil millones de dólares para las economías locales de las ciudades anfitrionas, gracias al aumento en el turismo y el gasto en servicios relacionados como hoteles, restaurantes y transporte.
+
+**La lista de giras de conciertos más rentables de 2024**
+---------------------------------------------------------
+
+### **1\. Taylor Swift**
+
+‘The Eras Tour’  
+Shows: 65  
+Ingreso bruto: 1 150 millones de dólares  
+Ganancias: 400 millones de dólares
+
+> [View this post on Instagram](https://www.instagram.com/reel/DA4DX_ct-qr/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DA4DX_ct-qr/?utm_source=ig_embed&utm_campaign=loading)
+
+### **2\. Coldplay**
+
+‘Music of the Spheres Tour’  
+Shows: 40  
+Ingreso bruto: 302 millones de dólares  
+Ganancias: 131 millones de dólares
+
+> [View this post on Instagram](https://www.instagram.com/reel/DA2T9uouqmu/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Coldplay (@coldplay)](https://www.instagram.com/reel/DA2T9uouqmu/?utm_source=ig_embed&utm_campaign=loading)
+
+### **3\. Zach Bryan**
+
+‘Quittin’ Time Tour’  
+Shows: 63  
+Ingreso bruto: 318 millones de dólares  
+Ganancias: 113 millones de dólares
+
+> [View this post on Instagram](https://www.instagram.com/reel/C_8gJhavD3r/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Zach Bryan (@zachlanebryan)](https://www.instagram.com/reel/C_8gJhavD3r/?utm_source=ig_embed&utm_campaign=loading)
+
+### **4\. Bruce Springsteen**
+
+‘Springsteen and E Street Band 2024 Tour’  
+Shows: 36  
+Ingreso bruto: 250 millones de dólares  
+Ganancias: 101 millones de dólares
+
+> [View this post on Instagram](https://www.instagram.com/p/DARQ3jHPWOp/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Bruce Springsteen (@springsteen)](https://www.instagram.com/p/DARQ3jHPWOp/?utm_source=ig_embed&utm_campaign=loading)
+
+### **5\. P!nk**
+
+‘Trustfall Tour’  
+Shows: 44  
+Ingreso bruto: 267 millones de dólares  
+Ganancias: 87 millones de dólares
+
+> [View this post on Instagram](https://www.instagram.com/p/DAmKPCXMXhL/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by 🌍🌎🌏 (@pink\_summercarnivaltour)](https://www.instagram.com/p/DAmKPCXMXhL/?utm_source=ig_embed&utm_campaign=loading)
+
+### **6\. Bad Bunny**
+
+‘Most Wanted Tour’  
+Shows: 63  
+Ingreso bruto: 208 millones de dólares  
+Ganancias: 76 millones de dólares
+
+> [View this post on Instagram](https://www.instagram.com/p/DAmKPCXMXhL/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by 🌍🌎🌏 (@pink\_summercarnivaltour)](https://www.instagram.com/p/DAmKPCXMXhL/?utm_source=ig_embed&utm_campaign=loading)
+
+### **7\. Madonna**
+
+‘Celebration Tour’  
+Shows: 47  
+Ingreso bruto: 135 millones de dólares  
+Ganancias: 63 millones de dólares
+
+> [View this post on Instagram](https://www.instagram.com/reel/C_JAND3u4Nu/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Madonna (@madonna)](https://www.instagram.com/reel/C_JAND3u4Nu/?utm_source=ig_embed&utm_campaign=loading)
+
+### **8\. Justin Timberlake**
+
+‘Forget Tomorrow Tour’  
+Shows: 33  
+Ingreso bruto: 128 millones de dólares  
+Ganancias: 55 millones de dólares
+
+> [View this post on Instagram](https://www.instagram.com/reel/DABGi2WOH3B/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Justin Timberlake (@justintimberlake)](https://www.instagram.com/reel/DABGi2WOH3B/?utm_source=ig_embed&utm_campaign=loading)
+
+### **9\. Luke Combs**
+
+‘Growin’ Up and Gettin’ Old Tour’  
+Shows: 28  
+Ingreso bruto: 167 millones de dólares  
+Ganancias: 54 millones de dólares
+
+> [View this post on Instagram](https://www.instagram.com/p/C9yO_wIRthH/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Luke Combs 🎤 (@lukecombs)](https://www.instagram.com/p/C9yO_wIRthH/?utm_source=ig_embed&utm_campaign=loading)
+
+### **10\. U2**
+
+‘UK:UV Achtung Baby Live Tour’  
+Shows: 15  
+Ingreso bruto: 86 millones de dólares  
+Ganancias: 51 millones de dólares
+
+> [View this post on Instagram](https://www.instagram.com/reel/C4JlxkOpTNo/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by U2 (@u2)](https://www.instagram.com/reel/C4JlxkOpTNo/?utm_source=ig_embed&utm_campaign=loading)
+
+Independiente del Valle despide con dolor a Roberto Cabezas
+===========================================================
+
+El club que vio crecer a Roberto Cabezas le rindió un emotivo homenaje tras su trágico fallecimiento.
+-----------------------------------------------------------------------------------------------------
+
+![Independiente del Valle despidió a Roberto Cabezas, jugador fallecido en siniestro de tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-08T164917.734.jpg)
+
+En un acto cargado de emoción, con la presencia de jugadores del primer plantel, dirigentes y canteranos, **Independiente del Valle honró la memoria de Roberto Cabezas**, quien falleció el lunes 7 de octubre a causa de un siniestro de tránsito.
+
+Cabezas, quien hubiese cumplido 22 años el mismo día de su fallecimiento, fue una de las víctimas fatales del **siniestro ocurrido en la Autopista General Rumiñahui**, donde otro ocupante del vehículo también perdió la vida. **Marco Angul**o, jugador de Liga de Quito, resultó gravemente herido y se encuentra en cuidados intensivos.
+
+### Más noticias:
+
+* [¿Quién era Roberto Cabezas, futbolista fallecido en siniestro de tránsito?](https://www.elcomercio.com/deportes/marco-angulo-roberto-cabezas-quien-era-siniestro.html "¿Quién era Roberto Cabezas, futbolista fallecido en siniestro de tránsito?")
+* [Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro](https://www.elcomercio.com/deportes/futbol/piero-hincapie-muerte-roberto-cabezas-tragico-siniestro.html "Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro")
+* [Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/equipos-de-ecuador-lamentan-el-fallecimiento-de-roberto-cabezas.html "Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas")
+
+“**En memoria de Roberto**. Los buenos amigos no se van, se guardan en el corazón. La familia IDV unida en estos duros momentos”, expresó Independiente del Valle en un mensaje en sus redes sociales.
+
+Independiente del Valle despide a Roberto Cabezas
+-------------------------------------------------
+
+“Vuela alto” fue la frase con la que jugadores y aficionados del club despidieron a Roberto Cabezas, un joven lateral izquierdo y canterano del equipo, quien perdió la vida en el trágico siniestro.
+
+Durante la ceremonia, realizada en la cancha principal de entrenamientos, el ambiente estuvo lleno de simbolismo y recuerdos.
+
+Jugadores y miembros del club encendieron velas y lanzaron globos al cielo, mientras entonaban cánticos en honor al jugador.
+
+El grito de “Campeón Roberto” resonó entre los presentes, como un último adiós para el futbolista que vio crecer el club.
+
+> En memoria de Roberto 👼  
+> Porque los buenos amigos no se van 🙌, solo se guardan en el corazón 💙🖤. La Familia [#IDV](https://twitter.com/hashtag/IDV?src=hash&ref_src=twsrc%5Etfw) 🫂Unida en estos duros momentos.  
+> Vuela alto amigo🕊️ [pic.twitter.com/q73tyFBHZi](https://t.co/q73tyFBHZi)
+> 
+> — Independiente del Valle (@IDV\_EC) [October 8, 2024](https://twitter.com/IDV_EC/status/1843753424367825280?ref_src=twsrc%5Etfw)
+
+### **¿Quién era Roberto Cabezas?**
+
+Roberto Cabezas nació en Quinindé el 7 de octubre de 2002.
+
+Durante su carrera, se desempeñó como lateral izquierdo y fue formado en las divisiones menores de Independiente del Valle. El defensor militaba en el equipo filial, Independiente Juniors.
+
+En la temporada 2024, Cabezas había disputado solo un partido en la Serie B ecuatoriana, ingresando desde el banquillo durante 18 minutos en un encuentro contra Chacaritas.
+
+A nivel internacional, formó parte de la Selección Sub-17 de Ecuador, con la cual disputó el Sudamericano y el Mundial de la categoría en 2019, acumulando 13 partidos.
