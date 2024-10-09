@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Hezbollah steps up rocket fire as Israel sends more troops into Lebanon](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-08-2024-0bc0a8970c066c048ee1875bcdc8df79)
+    * [Israeli offensive in hard-hit northern Gaza kills dozens and threatens hospitals](https://apnews.com/article/israel-palestinians-hamas-lezbollah-war-news-10-09-2024-31a2dff9a2bb49bc3b76f32b1ddee128)
     * [As Israel plots to strike Iran, its choices range from symbolic to severe](https://apnews.com/article/israel-iran-nuclear-hezbollah-hamas-missile-retaliation-0184e79d4ee5ec012960e0b24ddae102)
-    * [Dominican Republic starts mass deportations of Haitians and expels nearly 11,000 in a week](https://apnews.com/article/dominican-republic-deportations-haiti-0e46f10ca79a34d05f9ff0cf5e00a971)
+    * [Ukrainian drone strikes another arms depot inside Russia, officials say](https://apnews.com/article/russia-ukraine-war-drone-arms-depot-bryansk-096d0ddf453a9000623a91b29c735e3c)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Fearful residents flee Tampa Bay region as Hurricane Milton takes aim at Florida coast](https://apnews.com/article/hurricane-milton-florida-tampa-7678939c52fdf00da748937d22df1fac)
+    * [Time to evacuate is running out as Hurricane Milton closes in on Florida](https://apnews.com/article/hurricane-milton-tampa-florida-08bde4b9c29460f471d43c6512821c93)
+    * [Florida hospitals and health care facilities in Hurricane Milton's path prepare for the worst](https://apnews.com/article/hurricane-milton-hospitals-nursing-homes-evacuations-prepare-c4146bee8f78a4769ba5829b4538f10e)
     * [What to know about Hurricane Milton as it churns toward Florida's Gulf Coast](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
-    * [As FEMA prepares for Hurricane Milton, it battles rumors surrounding Helene recovery](https://apnews.com/article/fema-misinformation-helene-milton-hurricane-aid-recovery-468b036784b1db05937e9a34d0146041)
     
     Newsletters
     
@@ -53,8 +53,8 @@ Menu
     TOP STORIES
     
     * [US Elections 2024: A guide to American democracy](https://apnews.com/projects/elections-2024-guide-top-25-things-to-know/)
-    * [Biden makes rare dip into battleground state fray with visits to Pennsylvania and Wisconsin](https://apnews.com/article/biden-pennsylvania-wisconsin-senate-races-casey-e7bb70bd880ca4927b5ba92acd0f3852)
-    * [Biden postpones trip to Germany and Angola to monitor Hurricane Milton](https://apnews.com/article/joe-biden-angola-germany-hurricane-milton-63e093b3c6f5ecea5dbb5e334dcbd2f9)
+    * [What presidential campaign? The Electoral College puts most American voters on the sidelines](https://apnews.com/article/electoral-college-2024-wisconsin-illinois-trump-harris-cdb4141205034c830924cb94457b7be1)
+    * [Early in-person voting begins in Arizona, drawing visits from the presidential campaigns](https://apnews.com/article/arizona-election-2024-early-voting-maricopa-county-40b4440a27a1a58c6c65f4d71e4792ef)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Biden postpones trip to Germany and Angola to monitor Hurricane Milton](https://apnews.com/article/joe-biden-angola-germany-hurricane-milton-63e093b3c6f5ecea5dbb5e334dcbd2f9)
-    * [Woodward book reveals Trump's calls with Putin and Biden's private remarks on Obama and Netanyahu](https://apnews.com/article/donald-trump-biden-putin-war-ukraine-russia-zelenskyy-ce9c59f689d3f438264a64b2bfa0aa39)
-    * [US scrambled to urge Putin not to use nuclear weapons in Ukraine, Woodward book says](https://apnews.com/article/russia-ukraine-war-putin-biden-nuclear-weapons-90cb3bb3499a5e211095b3f93173a575)
+    * [Trump has long blasted China's trade practices. His 'God Bless the USA' Bibles were printed there](https://apnews.com/article/trump-god-bless-usa-bible-china-32a80611605d4052d8238064bbcace4c)
+    * [What presidential campaign? The Electoral College puts most American voters on the sidelines](https://apnews.com/article/electoral-college-2024-wisconsin-illinois-trump-harris-cdb4141205034c830924cb94457b7be1)
+    * [Voters in the US don't directly elect the president. Sometimes that can undermine the popular will](https://apnews.com/article/electoral-college-election-explainer-trump-harris-ca14e0823c1e88aa5e5039645637a357)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
+    * [Tatis homers again as the Padres beat the Dodgers 6-5 for a 2-1 NLDS lead](https://apnews.com/article/dodgers-padres-score-29c5108b0975aebae784ba7e275deaad)
     * [Mets beat Phillies 7-2 behind Alonso and Manaea to take 2-1 lead in NLDS](https://apnews.com/article/mlb-playoffs-mets-phillies-alonso-manaea-18484e183fb522b6f8580bb2b36f780a)
-    * [Phillies one loss from elimination after 7-2 NL Division Series loss to Mets](https://apnews.com/article/mlb-playoffs-phillies-87963eae6fa572dc651654ef956e58ef)
-    * [Lynx return to finals with 88-77 win over Sun in Game 5 behind Collier's 27 points, 11 rebounds](https://apnews.com/article/lynx-sun-score-wnba-playoffs-e59545bd7020d1ce23e2db5ab6bcfd4d)
+    * [The British are coming: NFL Academy starting to turn UK talent into college prospects](https://apnews.com/article/nfl-academy-london-international-players-19ca1120839fe6518f39847148bf7dd8)
     
     Newsletters
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [A driver's test for autonomous vehicles? A leading expert says US should have one](https://apnews.com/article/autonomous-vehicles-driving-test-safety-government-b09993e6451a9b647a7dfe1f81fdec8d)
-    * [TikTok is designed to be addictive to kids and causes them harm, US states' lawsuits say](https://apnews.com/article/tiktok-lawsuit-youth-mental-health-2993f8e70d2e3d4eab9988df168fb948)
-    * [China puts provisional tariffs on European brandy after EU OKs duties on Chinese EVs](https://apnews.com/article/china-eu-tariffs-brandy-4fd38e01790bdc0c7191589fe946e7f7)
+    * [US considers asking court to break up Google as it weighs remedies in the antitrust case](https://apnews.com/article/google-search-antitrust-case-59114d8bf1dc4c8453c08acaa4051f14)
+    * [Google loses final EU court appeal against 2.4 billion euro fine in antitrust shopping case](https://apnews.com/article/google-european-union-antitrust-shopping-court-a281e4e4722efa816e929a52a9939d86)
+    * [Trump has long blasted China's trade practices. His 'God Bless the USA' Bibles were printed there](https://apnews.com/article/trump-god-bless-usa-bible-china-32a80611605d4052d8238064bbcace4c)
     
 * [Science](https://apnews.com/science)
     
@@ -157,11 +157,11 @@ Menu
     
     TOP STORIES
     
+    * [How Waffle House helps Southerners — and FEMA — judge a storm's severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
     * [Former owner of water buffalo that roamed Iowa suburb for days pleads guilty](https://apnews.com/article/water-buffalo-iowa-96fea4fff4a4a11dc5024a8d16667499)
     * [Nibi the 'diva' beaver to stay at rescue center, Massachusetts governor decides](https://apnews.com/article/nibi-beaver-release-massachusetts-governor-d4d96214a18b1c41b8945e2c9d813f98)
     * [There's a moose on the loose — in a New Hampshire swimming pool](https://apnews.com/article/moose-recue-swimming-pool-new-hampshire-c2bb162a7cb6adbbe8dd4a9342de1650)
     * [Spider lovers scurry to Colorado town in search of mating tarantulas and community](https://apnews.com/article/tarantula-mating-colorado-spider-festival-da14f6d08bd4b325ce34970ec7864c73)
-    * [Nibi the beaver's fate lands in court as rescuers try to stop her release into the wild](https://apnews.com/article/nibi-beaver-release-massachusetts-a9725fdc1239e137be96ea39705b5dcb)
     * [After 31 years, a French treasure hunt may have a winner. The prize: a valuable golden owl](https://apnews.com/article/france-treasure-hunt-prize-golden-owl-riddles-3794d2a0abe7c2a56964241e5e51596e)
     
 * [Be Well](https://apnews.com/hub/be-well)
@@ -247,7 +247,7 @@ Menu
     * [Don't expect human life expectancy to grow much more, researcher says](https://apnews.com/article/life-expectancy-edd52c723e478c08ec194bfbd18bf6b9)
     * [Nobel Prize in medicine honors 2 scientists for their discovery of microRNA](https://apnews.com/article/nobel-medicine-dc84622d7a15317bc83e873d3f9a2dbf)
     * [Don't fall for fake dentists offering veneers and other dental work on social media](https://apnews.com/article/veneers-dentist-teeth-whitening-scam-unlicensed-d0d9d57613a10f18bc9735dc5eca4b41)
-    * [Democrats hope the latest court rulings restricting abortion energize voters as election nears](https://apnews.com/article/abortion-rulings-election-trump-harris-texas-georgia-b17211cd0fe92a6454878169b1730207)
+    * [Climate change-fueled heat is especially deadly when mixed with meth in the summer months](https://apnews.com/article/extreme-heat-methamphetamine-5968d7003acbf98bc2d8a8cb581f734d)
     
 * [Tech](https://apnews.com/technology)
     
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
-    * [TikTok is designed to be addictive to kids and causes them harm, US states' lawsuits say](https://apnews.com/article/tiktok-lawsuit-youth-mental-health-2993f8e70d2e3d4eab9988df168fb948)
-    * [Federal judge orders Google to open its Android app store to competition](https://apnews.com/article/google-epic-android-app-store-d635ff5b6a2c8b755faa14fe471b73e2)
-    * [Judge rules the FTC can proceed with antitrust lawsuit against Amazon, tosses out few state claims](https://apnews.com/article/amazon-antitrust-lawsuit-ftc-case-bbd55b3403978183360fe0bc7e3f08cc)
+    * [US considers asking court to break up Google as it weighs remedies in the antitrust case](https://apnews.com/article/google-search-antitrust-case-59114d8bf1dc4c8453c08acaa4051f14)
+    * [Google loses final EU court appeal against 2.4 billion euro fine in antitrust shopping case](https://apnews.com/article/google-european-union-antitrust-shopping-court-a281e4e4722efa816e929a52a9939d86)
+    * [Musk's X to be reinstated in Brazil after complying with Supreme Court demands](https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -269,9 +269,9 @@ Menu
     
     TOP STORIES
     
+    * [Edmunds electric truck face-off: Ford F-150 Lightning vs. Tesla Cybertruck](https://apnews.com/article/ford-f150-lightning-tesla-cybertruck-9de723eccd91bc47da8ebb2b71e2e130)
     * [The hunt for gasoline is adding to Floridians’ anxiety as Milton nears](https://apnews.com/article/hurricane-milton-gasoline-lines-stations-22cd2e163f13b1a898692822115dd7a6)
     * [Flags fly at half-staff for Voyageurs National Park ranger who died in water rescue](https://apnews.com/article/park-ranger-dies-minnesota-e92aa0c9a9edafa628ae458f0b7ab3f6)
-    * [Disney World, Universal Orlando and SeaWorld will all close ahead of Milton](https://apnews.com/article/hurricane-milton-florida-theme-parks-orlando-cee52fcf4286b5a63432325c5400f0d1)
     
 * [Religion](https://apnews.com/religion)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Residentes evacúan bahía de Tampa ante el posible impacto directo del huracán Milton de categoría 5](https://apnews.com/climate-and-environment/general-news-2305ff65879ceac3e4cbe71e1cc7750d)
-    * [Hezbollah intensifica sus ataques con cohetes mientras Israel envía más tropas a Líbano](https://apnews.com/world-news/general-news-615a6e7731f0d9f18baeba464b60b34d)
+    * [La ofensiva israelí en el maltrecho norte de Gaza deja docenas de víctimas y amenaza a hospitales](https://apnews.com/world-news/general-news-808c077c8ea2c3ca4389546e069ca5e1)
+    * [Se acaba el tiempo para evacuar mientras el huracán Milton se acerca a Florida](https://apnews.com/world-news/general-news-204b3d5230d1bd14b01707400cd34504)
+    * [Cocina gestionada por mujeres trans es un refugio para la comunidad LGBTQ+ en Ciudad de México](https://apnews.com/world-news/general-news-f48e441356c38fb4ba6b92eacb26de54)
     * [¿Qué convierte una tormenta en un huracán? Los peligros que conlleva cada una de las 5 categorías](https://apnews.com/climate-and-environment/que-convierte-una-tormenta-en-un-huracan-los-peligros-que-conlleva-cada-una-de-las-5-categorias-5c4eef5207c8f592d3230337099ab74e)
-    * [Funcionarios publican más videos de la endeble reacción policial ante tiroteo en escuela de Uvalde](https://apnews.com/us-news/general-news-f0650322d4a565b5065c26d2425b6ace)
-    * [Israel planea ataque contra Irán. Sus opciones van de lo simbólico a lo severo](https://apnews.com/world-news/general-news-24680e15510f4ebb6844c4443efb6c90)
-    * [Marejada ciclónica del huracán Milton podría dejar devastación más allá de la región de Tampa Bay](https://apnews.com/climate-and-environment/marejada-ciclonica-del-huracan-milton-podria-dejar-devastacion-mas-alla-de-la-region-de-tampa-bay-5959898253ac0244a983a732fbef3b95)
+    * [El Nobel de Química reconoce a 3 científicos por su trabajo en proteínas](https://apnews.com/science/general-news-638166b5e298c5edcdf00797072caa14)
+    * [¿Cómo se compara el huracán Milton con otras grandes tormentas recientes?](https://apnews.com/climate-and-environment/como-se-compara-el-huracan-milton-con-otras-grandes-tormentas-recientes-da835bcbb37d8e80f989266a2b2a572a)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -457,9 +457,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Hezbollah steps up rocket fire as Israel sends more troops into Lebanon](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-08-2024-0bc0a8970c066c048ee1875bcdc8df79)
+    * [Israeli offensive in hard-hit northern Gaza kills dozens and threatens hospitals](https://apnews.com/article/israel-palestinians-hamas-lezbollah-war-news-10-09-2024-31a2dff9a2bb49bc3b76f32b1ddee128)
     * [As Israel plots to strike Iran, its choices range from symbolic to severe](https://apnews.com/article/israel-iran-nuclear-hezbollah-hamas-missile-retaliation-0184e79d4ee5ec012960e0b24ddae102)
-    * [Dominican Republic starts mass deportations of Haitians and expels nearly 11,000 in a week](https://apnews.com/article/dominican-republic-deportations-haiti-0e46f10ca79a34d05f9ff0cf5e00a971)
+    * [Ukrainian drone strikes another arms depot inside Russia, officials say](https://apnews.com/article/russia-ukraine-war-drone-arms-depot-bryansk-096d0ddf453a9000623a91b29c735e3c)
     
     Newsletters
     
@@ -475,9 +475,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Fearful residents flee Tampa Bay region as Hurricane Milton takes aim at Florida coast](https://apnews.com/article/hurricane-milton-florida-tampa-7678939c52fdf00da748937d22df1fac)
+    * [Time to evacuate is running out as Hurricane Milton closes in on Florida](https://apnews.com/article/hurricane-milton-tampa-florida-08bde4b9c29460f471d43c6512821c93)
+    * [Florida hospitals and health care facilities in Hurricane Milton's path prepare for the worst](https://apnews.com/article/hurricane-milton-hospitals-nursing-homes-evacuations-prepare-c4146bee8f78a4769ba5829b4538f10e)
     * [What to know about Hurricane Milton as it churns toward Florida's Gulf Coast](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
-    * [As FEMA prepares for Hurricane Milton, it battles rumors surrounding Helene recovery](https://apnews.com/article/fema-misinformation-helene-milton-hurricane-aid-recovery-468b036784b1db05937e9a34d0146041)
     
     Newsletters
     
@@ -504,8 +504,8 @@ Submit Search
     TOP STORIES
     
     * [US Elections 2024: A guide to American democracy](https://apnews.com/projects/elections-2024-guide-top-25-things-to-know/)
-    * [Biden makes rare dip into battleground state fray with visits to Pennsylvania and Wisconsin](https://apnews.com/article/biden-pennsylvania-wisconsin-senate-races-casey-e7bb70bd880ca4927b5ba92acd0f3852)
-    * [Biden postpones trip to Germany and Angola to monitor Hurricane Milton](https://apnews.com/article/joe-biden-angola-germany-hurricane-milton-63e093b3c6f5ecea5dbb5e334dcbd2f9)
+    * [What presidential campaign? The Electoral College puts most American voters on the sidelines](https://apnews.com/article/electoral-college-2024-wisconsin-illinois-trump-harris-cdb4141205034c830924cb94457b7be1)
+    * [Early in-person voting begins in Arizona, drawing visits from the presidential campaigns](https://apnews.com/article/arizona-election-2024-early-voting-maricopa-county-40b4440a27a1a58c6c65f4d71e4792ef)
     
     Newsletters
     
@@ -528,9 +528,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Biden postpones trip to Germany and Angola to monitor Hurricane Milton](https://apnews.com/article/joe-biden-angola-germany-hurricane-milton-63e093b3c6f5ecea5dbb5e334dcbd2f9)
-    * [Woodward book reveals Trump's calls with Putin and Biden's private remarks on Obama and Netanyahu](https://apnews.com/article/donald-trump-biden-putin-war-ukraine-russia-zelenskyy-ce9c59f689d3f438264a64b2bfa0aa39)
-    * [US scrambled to urge Putin not to use nuclear weapons in Ukraine, Woodward book says](https://apnews.com/article/russia-ukraine-war-putin-biden-nuclear-weapons-90cb3bb3499a5e211095b3f93173a575)
+    * [Trump has long blasted China's trade practices. His 'God Bless the USA' Bibles were printed there](https://apnews.com/article/trump-god-bless-usa-bible-china-32a80611605d4052d8238064bbcace4c)
+    * [What presidential campaign? The Electoral College puts most American voters on the sidelines](https://apnews.com/article/electoral-college-2024-wisconsin-illinois-trump-harris-cdb4141205034c830924cb94457b7be1)
+    * [Voters in the US don't directly elect the president. Sometimes that can undermine the popular will](https://apnews.com/article/electoral-college-election-explainer-trump-harris-ca14e0823c1e88aa5e5039645637a357)
     
     Newsletters
     
@@ -558,9 +558,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Tatis homers again as the Padres beat the Dodgers 6-5 for a 2-1 NLDS lead](https://apnews.com/article/dodgers-padres-score-29c5108b0975aebae784ba7e275deaad)
     * [Mets beat Phillies 7-2 behind Alonso and Manaea to take 2-1 lead in NLDS](https://apnews.com/article/mlb-playoffs-mets-phillies-alonso-manaea-18484e183fb522b6f8580bb2b36f780a)
-    * [Phillies one loss from elimination after 7-2 NL Division Series loss to Mets](https://apnews.com/article/mlb-playoffs-phillies-87963eae6fa572dc651654ef956e58ef)
-    * [Lynx return to finals with 88-77 win over Sun in Game 5 behind Collier's 27 points, 11 rebounds](https://apnews.com/article/lynx-sun-score-wnba-playoffs-e59545bd7020d1ce23e2db5ab6bcfd4d)
+    * [The British are coming: NFL Academy starting to turn UK talent into college prospects](https://apnews.com/article/nfl-academy-london-international-players-19ca1120839fe6518f39847148bf7dd8)
     
     Newsletters
     
@@ -603,9 +603,9 @@ Submit Search
     
     TOP STORIES
     
-    * [A driver's test for autonomous vehicles? A leading expert says US should have one](https://apnews.com/article/autonomous-vehicles-driving-test-safety-government-b09993e6451a9b647a7dfe1f81fdec8d)
-    * [TikTok is designed to be addictive to kids and causes them harm, US states' lawsuits say](https://apnews.com/article/tiktok-lawsuit-youth-mental-health-2993f8e70d2e3d4eab9988df168fb948)
-    * [China puts provisional tariffs on European brandy after EU OKs duties on Chinese EVs](https://apnews.com/article/china-eu-tariffs-brandy-4fd38e01790bdc0c7191589fe946e7f7)
+    * [US considers asking court to break up Google as it weighs remedies in the antitrust case](https://apnews.com/article/google-search-antitrust-case-59114d8bf1dc4c8453c08acaa4051f14)
+    * [Google loses final EU court appeal against 2.4 billion euro fine in antitrust shopping case](https://apnews.com/article/google-european-union-antitrust-shopping-court-a281e4e4722efa816e929a52a9939d86)
+    * [Trump has long blasted China's trade practices. His 'God Bless the USA' Bibles were printed there](https://apnews.com/article/trump-god-bless-usa-bible-china-32a80611605d4052d8238064bbcace4c)
     
 * [Science](https://apnews.com/science)
     
@@ -640,11 +640,11 @@ Submit Search
     
     TOP STORIES
     
+    * [How Waffle House helps Southerners — and FEMA — judge a storm's severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
     * [Former owner of water buffalo that roamed Iowa suburb for days pleads guilty](https://apnews.com/article/water-buffalo-iowa-96fea4fff4a4a11dc5024a8d16667499)
     * [Nibi the 'diva' beaver to stay at rescue center, Massachusetts governor decides](https://apnews.com/article/nibi-beaver-release-massachusetts-governor-d4d96214a18b1c41b8945e2c9d813f98)
     * [There's a moose on the loose — in a New Hampshire swimming pool](https://apnews.com/article/moose-recue-swimming-pool-new-hampshire-c2bb162a7cb6adbbe8dd4a9342de1650)
     * [Spider lovers scurry to Colorado town in search of mating tarantulas and community](https://apnews.com/article/tarantula-mating-colorado-spider-festival-da14f6d08bd4b325ce34970ec7864c73)
-    * [Nibi the beaver's fate lands in court as rescuers try to stop her release into the wild](https://apnews.com/article/nibi-beaver-release-massachusetts-a9725fdc1239e137be96ea39705b5dcb)
     * [After 31 years, a French treasure hunt may have a winner. The prize: a valuable golden owl](https://apnews.com/article/france-treasure-hunt-prize-golden-owl-riddles-3794d2a0abe7c2a56964241e5e51596e)
     
 * [Be Well](https://apnews.com/hub/be-well)
@@ -738,7 +738,7 @@ Submit Search
     * [Don't expect human life expectancy to grow much more, researcher says](https://apnews.com/article/life-expectancy-edd52c723e478c08ec194bfbd18bf6b9)
     * [Nobel Prize in medicine honors 2 scientists for their discovery of microRNA](https://apnews.com/article/nobel-medicine-dc84622d7a15317bc83e873d3f9a2dbf)
     * [Don't fall for fake dentists offering veneers and other dental work on social media](https://apnews.com/article/veneers-dentist-teeth-whitening-scam-unlicensed-d0d9d57613a10f18bc9735dc5eca4b41)
-    * [Democrats hope the latest court rulings restricting abortion energize voters as election nears](https://apnews.com/article/abortion-rulings-election-trump-harris-texas-georgia-b17211cd0fe92a6454878169b1730207)
+    * [Climate change-fueled heat is especially deadly when mixed with meth in the summer months](https://apnews.com/article/extreme-heat-methamphetamine-5968d7003acbf98bc2d8a8cb581f734d)
     
 * [Tech](https://apnews.com/technology)
     
@@ -751,9 +751,9 @@ Submit Search
     
     TOP STORIES
     
-    * [TikTok is designed to be addictive to kids and causes them harm, US states' lawsuits say](https://apnews.com/article/tiktok-lawsuit-youth-mental-health-2993f8e70d2e3d4eab9988df168fb948)
-    * [Federal judge orders Google to open its Android app store to competition](https://apnews.com/article/google-epic-android-app-store-d635ff5b6a2c8b755faa14fe471b73e2)
-    * [Judge rules the FTC can proceed with antitrust lawsuit against Amazon, tosses out few state claims](https://apnews.com/article/amazon-antitrust-lawsuit-ftc-case-bbd55b3403978183360fe0bc7e3f08cc)
+    * [US considers asking court to break up Google as it weighs remedies in the antitrust case](https://apnews.com/article/google-search-antitrust-case-59114d8bf1dc4c8453c08acaa4051f14)
+    * [Google loses final EU court appeal against 2.4 billion euro fine in antitrust shopping case](https://apnews.com/article/google-european-union-antitrust-shopping-court-a281e4e4722efa816e929a52a9939d86)
+    * [Musk's X to be reinstated in Brazil after complying with Supreme Court demands](https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -771,9 +771,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Edmunds electric truck face-off: Ford F-150 Lightning vs. Tesla Cybertruck](https://apnews.com/article/ford-f150-lightning-tesla-cybertruck-9de723eccd91bc47da8ebb2b71e2e130)
     * [The hunt for gasoline is adding to Floridians’ anxiety as Milton nears](https://apnews.com/article/hurricane-milton-gasoline-lines-stations-22cd2e163f13b1a898692822115dd7a6)
     * [Flags fly at half-staff for Voyageurs National Park ranger who died in water rescue](https://apnews.com/article/park-ranger-dies-minnesota-e92aa0c9a9edafa628ae458f0b7ab3f6)
-    * [Disney World, Universal Orlando and SeaWorld will all close ahead of Milton](https://apnews.com/article/hurricane-milton-florida-theme-parks-orlando-cee52fcf4286b5a63432325c5400f0d1)
     
 * [Religion](https://apnews.com/religion)
     
@@ -795,12 +795,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Residentes evacúan bahía de Tampa ante el posible impacto directo del huracán Milton de categoría 5](https://apnews.com/climate-and-environment/general-news-2305ff65879ceac3e4cbe71e1cc7750d)
-    * [Hezbollah intensifica sus ataques con cohetes mientras Israel envía más tropas a Líbano](https://apnews.com/world-news/general-news-615a6e7731f0d9f18baeba464b60b34d)
+    * [La ofensiva israelí en el maltrecho norte de Gaza deja docenas de víctimas y amenaza a hospitales](https://apnews.com/world-news/general-news-808c077c8ea2c3ca4389546e069ca5e1)
+    * [Se acaba el tiempo para evacuar mientras el huracán Milton se acerca a Florida](https://apnews.com/world-news/general-news-204b3d5230d1bd14b01707400cd34504)
+    * [Cocina gestionada por mujeres trans es un refugio para la comunidad LGBTQ+ en Ciudad de México](https://apnews.com/world-news/general-news-f48e441356c38fb4ba6b92eacb26de54)
     * [¿Qué convierte una tormenta en un huracán? Los peligros que conlleva cada una de las 5 categorías](https://apnews.com/climate-and-environment/que-convierte-una-tormenta-en-un-huracan-los-peligros-que-conlleva-cada-una-de-las-5-categorias-5c4eef5207c8f592d3230337099ab74e)
-    * [Funcionarios publican más videos de la endeble reacción policial ante tiroteo en escuela de Uvalde](https://apnews.com/us-news/general-news-f0650322d4a565b5065c26d2425b6ace)
-    * [Israel planea ataque contra Irán. Sus opciones van de lo simbólico a lo severo](https://apnews.com/world-news/general-news-24680e15510f4ebb6844c4443efb6c90)
-    * [Marejada ciclónica del huracán Milton podría dejar devastación más allá de la región de Tampa Bay](https://apnews.com/climate-and-environment/marejada-ciclonica-del-huracan-milton-podria-dejar-devastacion-mas-alla-de-la-region-de-tampa-bay-5959898253ac0244a983a732fbef3b95)
+    * [El Nobel de Química reconoce a 3 científicos por su trabajo en proteínas](https://apnews.com/science/general-news-638166b5e298c5edcdf00797072caa14)
+    * [¿Cómo se compara el huracán Milton con otras grandes tormentas recientes?](https://apnews.com/climate-and-environment/como-se-compara-el-huracan-milton-con-otras-grandes-tormentas-recientes-da835bcbb37d8e80f989266a2b2a572a)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
