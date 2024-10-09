@@ -537,6 +537,10 @@ Articles
 
 [](#)[](#)
 
+* [![](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-30-at-1.48.22 PM-300x200.png)](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
+    
+    #### [Bug Bites and Bureaucrats](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
+    
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/10/Mule-on-out-scaled-300x200.jpg)](https://www.theadvocates.org/old-man-mountain-weeps/)
     
     #### [Old Man Mountain Weeps](https://www.theadvocates.org/old-man-mountain-weeps/)
@@ -564,10 +568,6 @@ Articles
 * [![](https://www.theadvocates.org/wp-content/uploads/2024/08/Screenshot-2024-08-19-at-3.04.25 PM-300x200.png)](https://www.theadvocates.org/when-governments-compete-you-win/)
     
     #### [When Governments Compete, You Win](https://www.theadvocates.org/when-governments-compete-you-win/)
-    
-* [![](https://www.theadvocates.org/wp-content/uploads/2024/08/Screenshot-2024-08-12-at-5.07.51 PM-300x200.png)](https://www.theadvocates.org/the-absurdity-of-the-presidency/)
-    
-    #### [The Absurdity of the Presidency](https://www.theadvocates.org/the-absurdity-of-the-presidency/)
     
 * [#### All Articles](https://www.theadvocates.org/articles/)
     
