@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
+[6 Early Signs of Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/6-early-signs-of-dementia/281)
+
 [Elder Care during Holiday Times](https://www.visitingangels.com/knowledge-center/care-options/elder-care-during-holiday-times/50)
 
-[Home Care Services for the Elderly](https://www.visitingangels.com/knowledge-center/selecting-care/home-care-services-for-the-elderly/518)
+[Understanding Mental Illness in Our Elderly](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/understanding-mental-illness-in-our-elderly/7)
 
-[Professional Home Care Can Help Older Adults Manage a Heart Condition](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/professional-home-care-can-help-older-adults-manage-a-heart-condition/479)
+[How to Communicate with a Senior Who Can’t Speak](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-communicate-with-a-senior-who-cant-speak/487)
 
-[How a Professional Caregiver Can Help Manage Your Senior's Medications](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-a-professional-caregiver-can-help-manage-your-seniors-medications/346)
-
-[Why Your Dad Can’t Take Care of Mom Alone](https://www.visitingangels.com/knowledge-center/care-options/why-your-dad-cant-take-care-of-mom-alone/320)
+[Preparing for Mid-Stage & Late-Stage Alzheimer’s Care](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/preparing-for-mid-stage-late-stage-alzheimers-care/454)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
