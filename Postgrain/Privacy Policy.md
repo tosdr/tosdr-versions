@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Mapa de empatia - A imagem que ilustra o tema tem uma sala de reunião de fundo com um quadro transparente, onde aparece atrás dele, uma mulher colando post it no nesse quadro.](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-Mapa-de-Empatia-Entenda-suas-personas-e-Conquiste-melhores-resultados-580x290.jpg)](https://postgrain.com/?post_type=post&p=12651)
+[![](https://postgrain.com/wp-content/uploads/2024/10/THUMB-BLOG-Redes-que-mais-cresceram-em-2024-580x290.jpg)](https://postgrain.com/?post_type=post&p=12654)
 
-[Mapa de Empatia: Entenda suas personas e conquiste melhores resultados](https://postgrain.com/?post_type=post&p=12651)
+[Redes que mais cresceram em 2024: Veja aqui!](https://postgrain.com/?post_type=post&p=12654)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12651)
+[Leia mais](https://postgrain.com/?post_type=post&p=12654)
 
 Ilustração de um dos personagens do Postgrain
 
