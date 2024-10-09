@@ -105,23 +105,23 @@ September 11, 2024
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 33 1
+0 53 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/fennix-and-wendell-epic-games-and-etc-created-by-ventkazemaru/)
+[](https://yiff-party.com/yiff/bowser-mario-bros-and-etc-created-by-junkztown/)
 
-[fennix and wendell (epic games and etc) created by ventkazemaru](https://yiff-party.com/yiff/fennix-and-wendell-epic-games-and-etc-created-by-ventkazemaru/)
+[bowser (mario bros and etc) created by junkztown](https://yiff-party.com/yiff/bowser-mario-bros-and-etc-created-by-junkztown/)
 
-0 116 0
+0 113 0
 
 September 9, 2024
 
-[](https://yiff-party.com/yiff/gwen-tennyson-and-xlr8-cartoon-network-and-etc-created-by-pixzapix/)
+[](https://yiff-party.com/yiff/ren-amamiya-persona-series-and-etc-created-by-tianhua/)
 
-[gwen tennyson and xlr8 (cartoon network and etc) created by pixzapix](https://yiff-party.com/yiff/gwen-tennyson-and-xlr8-cartoon-network-and-etc-created-by-pixzapix/)
+[ren amamiya (persona (series) and etc) created by tianhua](https://yiff-party.com/yiff/ren-amamiya-persona-series-and-etc-created-by-tianhua/)
 
-0 3 0
+0 2 0
 
 October 9, 2024
 
