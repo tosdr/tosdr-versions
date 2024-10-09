@@ -49,7 +49,9 @@ You may limit the cookies set in your browser by taking the steps described belo
 
 You may also visit our sites in your browser’s “private” or “incognito” mode, in which case cookies will be set, but deleted when you close your browser.
 
-**Opt-out (EU users):** Users from the EU may opt out of non-essential cookies by selecting the option below. Upon opting out, we will, to the extent possible, delete any non-essential first party cookies in your browser and remember your cookie preference for your next visit. Please review your browser settings to remove third-party cookies.
+**Opt-out:** Users may opt out of non-essential cookies by selecting the option below. Upon opting out, we will, to the extent possible, delete any non-essential first party cookies in your browser and remember your cookie preference for your next visit. Please review your browser settings to remove third-party cookies.
+
+  I agree to all essential and non-essential cookies.  
 
 **Third-party advertising opt-outs:** Certain third parties provide ways to opt out of advertising cookies across multiple sites. You can learn more by visiting the sites of the Network Advertising Initiative ([https://optout.networkadvertising.org](https://optout.networkadvertising.org/)) or the Digital Advertising Alliance ([https://www.aboutads.info](https://www.aboutads.info/)). In addition, there are third-party plug-ins and apps that help manage cookies.
 
