@@ -96,63 +96,65 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Back to Genesis
+More Days of Praise
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/VenusFlySnap.jpg)](https://www.icr.org/article/venus-flytraps-snap)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/when-god-repents)
 
-[The Venus Flytrap’s Snap](https://www.icr.org/article/venus-flytraps-snap/)
+[When God Repents](https://www.icr.org/article/when-god-repents/)
 
-The Venus flytrap is one of the more unusual plants in God’s creation. It grows naturally only on the East Coast of the United States and has...
+“And also the Strength of Israel will not lie nor repent: for he is not a man, that he should repent.” (1 Samuel 15:29) There...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/cant_fill_hexapod_gap.jpg)](https://www.icr.org/article/evolutionists-cant-fill-hexapod-gap)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/fourth-generation)
 
-[Evolutionists Can't Fill the Hexapod Gap](https://www.icr.org/article/evolutionists-cant-fill-hexapod-gap/)
+[To the Fourth Generation](https://www.icr.org/article/fourth-generation/)
 
-Insects are ubiquitous on Earth. They fly through the air, live in trees, walk on or under the ground, and even live or hunt in water. Some are appreciated,...
+“Thou shalt not bow down thyself unto them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon...
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/literal_adam_gospel_issue.jpg)](https://www.icr.org/article/a-literal-adam-is-a-gospel-issue)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/reconciliation)
 
-[A Literal Adam Is a Gospel Issue](https://www.icr.org/article/a-literal-adam-is-a-gospel-issue/)
+[Reconciliation](https://www.icr.org/article/reconciliation/)
 
-Was there a literal Adam? Does it matter? Many academics and even Christians claim humans descended from apes through an evolutionary process over millions...
+“For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his...
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
+[](https://store.icr.org/.html)
 
-Adam or Apes](https://store.icr.org/adam-or-apes.html)
+$
 
-$12.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16945324/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
+The Long War Against God](https://store.icr.org/dr-henry-morris-the-long-war-against-god.html)
 
-Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
+$16.99
 
-$15.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/951057/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
+The Henry Morris Study Bible - Calfskin Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-calfs.html)
 
-Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
+$119.99
 
-$7.99
+$139.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
 
-Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
+Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
 
-$4.99
+$14.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
 
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
 
-$29.99
+$79.99
+
+$94.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
