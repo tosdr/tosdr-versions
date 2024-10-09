@@ -31,8 +31,169 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Cortes de luz a la industria afectan a la economía del país si no se toman medidas
-==================================================================================
+El huracán Milton se acerca a Tampa con vientos de 260 km/h
+===========================================================
+
+Las autoridades pidieron a las personas que no pudieron evacuar resguardarse y proteger sus propiedades del paso del huracánn
+-----------------------------------------------------------------------------------------------------------------------------
+
+![El huracán Milton se acerca a Florida.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-10.jpg)
+
+El **huracán Milton**, de categoría 5, sigue en su desplazamiento, con **vientos de 260 kilómetros** por hora (km/h) y ráfagas muy fuertes. Se acerca al área de la Bahía de Tampa, en Florida (Estados Unidos), según la última actualización del Centro Nacional de Huracanes (NHC).
+
+### Más noticias
+
+* [(Video) Huracán Milton: Meteorólogo llora por la llegada del monstruo categoría 5 a Florida](https://www.elcomercio.com/actualidad/mundo/huracan-milton-meteorologo-llora-describir-fuerza-monstruo-categoria-5-hacia-florida.html "(Video) Huracán Milton: Meteorólogo llora por la llegada del monstruo categoría 5 a Florida")
+* [Joe Biden afirma que Milton podría ser el peor huracán en golpear Florida](https://www.elcomercio.com/actualidad/mundo/biden-afirma-milton-podria-ser-peor-huracan-golpear-florida.html "Joe Biden afirma que Milton podría ser el peor huracán en golpear Florida")
+* [Huracán Milton se convierte de nuevo en huracán de categoría 5](https://www.elcomercio.com/actualidad/mundo/huracan-milton-danos-valor-175-000-millones-dolares.html "Huracán Milton se convierte de nuevo en huracán de categoría 5")
+
+Huracán Milton obliga a la evacuación urgente
+---------------------------------------------
+
+El **huracán Milton**, calificado por la NCH como “enormemente peligroso”, ha obligado a emitir órdenes de **evacuación para casi seis millones de personas**, según la prensa estadounidense.
+
+«Estamos en la undécima hora. Si estás en un**a zona de evacuación**, el momento de salir es ahora», declaró el sheriff Chad Chronister a la cadena CNN este miércoles por la mañana.
+
+Esta misma cadena reportó esta madrugada que las bandas exteriores del **huracán se sienten** ya en Florida. “Ya vimos algunas inundaciones aquí temprano esta mañana”, dijo a CNN el alguacil del condado de Hillsborough, al que pertenece Tampa, Chad Chronister.
+
+La última actualización del **Centro Nacional de Huracanes** indica que a las 5 de la mañana hora local el huracán Milton seguía siendo un huracán de **categoría 5** con vientos de 160 mph (260k ph), y se encontraba a unas 300 millas (480km) **al suroeste de Tampa.**
+
+El NHC ha alertado de la potencia del **huracán Milton** a su paso por Florida, donde se ha activado avisos por “marejada ciclónica” y “tormenta tropical”, fenómenos que se pueden producir hasta entre 36 y 48 horas después, respectivamente, según el Centro.
+
+Ante la situación meteorológica adversa, las autoridades han pedido a los ciudadanos que no ha podido evacuar que se resguarden y **protejan sus propiedades.**
+
+Además de los vientos, el servicio meteorológico advierte que el jueves se pueden producir copiosas lluvias que pueden **provocar inundaciones y crecidas de los ríos**. Especialmente en zonas donde las inundaciones costeras y continentales se combinan para aumentar la amenaza global de inundación.
+
+Cierre de operaciones aéreas
+----------------------------
+
+Las autoridades han ordenado el cierre del **Aeropuerto Internacional de Tampa** y el también Internacional de St. Pete-Clearwater, mientras que **los de Orlando y Miami siguen abiertos** y están monitorizando la trayectoria de Milton.
+
+El **cierre de los aeródromos** se mantendrá hasta el miércoles o jueves, no obstante, se ha pedido a los pasajeros confirmar las conexiones de los vuelos.
+
+De igual forma, **aparece el puerto de Miami,** uno de los principales centros de amarre de cruceros, sin barcos y en tensa calma, según se puede comprobar en la cámara web en directo de la compañía.
+
+La situación ha obligado al presidente estadounidense**, Joe Biden**, a posponer su viaje a Alemania y a Angola para estar pendiente de los preparativos y la situación que producirá la llegada del huracán Milton. Esto después de que el paso del huracán Helen dejara en septiembre pasado un saldo de cerca de 230 muertos al tocar Florida.
+
+A su paso cerca de México, **el huracán Milton,** que había bajado a categoría 4, aunque se ha intensificado a categoría 5 de **camino a Florida**, se aleja de las costas mexicanas sin reportes de víctimas mortales o heridos en los principales destinos turísticos de Yucatán, en el Caribe mexicano.  
+
+Cortes de luz aumentan a partir del mediodía; revisa el nuevo cronograma
+========================================================================
+
+El ministro de Energía Antonio Goncalves hizo el anuncio en cadena nacional este miércoles 9 de octubre
+-------------------------------------------------------------------------------------------------------
+
+![El ministro de Energía y Minas dio una cadena nacional este miércoles 9 de octubre.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-11-1.jpg)
+
+El ministro de Energía y Minas, **Antonio Goncalves**, emitió una cadena nacional este miércoles 9 de octubre de 2024 en referencia a la aplicación de los cortes de luz en Ecuador.
+
+### Más noticias
+
+* [Cortes de luz a la industria afectan a la economía del país si no se toman medidas](https://www.elcomercio.com/opinion/editorial/cortes-industria-empujan-ecuador-recesion-economica-editorial.html "Cortes de luz a la industria afectan a la economía del país si no se toman medidas")
+* [Mazar está por debajo del nivel para operar sin riesgo de sedimentos](https://www.elcomercio.com/actualidad/negocios/mazar-debajo-nivel-operar-riesgo-sedimentos.html "Mazar está por debajo del nivel para operar sin riesgo de sedimentos")
+
+Cortes de luz aumentan a 10 horas
+---------------------------------
+
+El ministro Goncalves anunció que los **cortes de luz** aumentarán la cantidad de horas a partir del mediodía de este miércoles 9 de octubre.
+
+Los horarios de cortes de luz estaban previsto mantenerse **hasta el jueves 10;** sin embargo, las condiciones hídricas obligan a adelantar un aumento en las horas.
+
+El anuncio hace referencia al **incremento a 10 horas** con la suspensión del servicio en Ecuador, a través de las distintas distribuidoras de energía.
+
+Esta medida se tomó debido a las **condiciones críticas** que presenta el embalse Mazar. Goncalves anunció que se encuentra en sus **niveles límites**, por lo que el Gobierno debe tomar precauciones inmediatas para evitar un colapso en el sistema eléctrico nacional.
+
+A las 07:00 de este miércoles 9 de octubre, la **cota del embalse** se ubicó en los 2 113 metros sobre el nivel del mar; es decir, a 40 metros del máximo.
+
+El caudal de ingreso es bajo y llegó a los **19,26 metros cúbicos por segundo.**
+
+Añadió que se evaluaron todas las medidas posibles para **mitigar el problema** e impactar en la menor medida posible la vida de los ecuatorianos pero no son suficientes. Este racionamiento se aplicará en distintas franjas horarias.
+
+Ciertos sectores industriales tendrán **un horario diferenciado** para que puedan cumplir su cuota de ahorro y que impacten en la menor medida posible sus actividades.
+
+Por ejemplo, en el **parque industrial de Cuenca** los cortes de luz se realizarán durante la noche, por ello empresas como Continental Andina ya convocaron al personal para que se presente desde el jueves 10 de octubre.
+
+El ministro Goncalves recalcó que esta es una **medida dura p**ero que es necesaria para proteger el sistema eléctrico.
+
+Los nuevos cronogramas ya están disponibles y **puede consultarlos** aquí: [https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/")
+
+> 📍IMPORTANTE  
+>   
+> ✅Conoce los horarios de suspensión del servicio de energía eléctrica, a escala nacional, desde el 09 hasta el 13 de octubre.  
+>   
+> Revisa la programación en el siguiente enlace➡️ [https://t.co/hGHtswA29C](https://t.co/hGHtswA29C) [pic.twitter.com/4yS2mz7u80](https://t.co/4yS2mz7u80)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [October 9, 2024](https://twitter.com/RecNaturalesEC/status/1843985700796146154?ref_src=twsrc%5Etfw)
+
+Así funciona el Pico y placa en Quito este miércoles 9 de octubre
+=================================================================
+
+Cuatro contraflujos se realizan como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
+-------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-8-1.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
+
+### Más noticias
+
+* [Niño queda en coma tras accidente en escuela de Guayaquil](https://www.elcomercio.com/actualidad/ecuador/nino-queda-en-coma-tras-accidente-en-escuela-de-guayaquil.html "Niño queda en coma tras accidente en escuela de Guayaquil")
+* [Ataque armado en Guayas deja un militar fallecido](https://www.elcomercio.com/actualidad/seguridad/ataque-armado-en-guayas-deja-un-militar-fallecido.html "Ataque armado en Guayas deja un militar fallecido")
+* [Policía detiene a exasambleísta por presunta concusión](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-exasambleista-por-presunta-concusion.html "Policía detiene a exasambleísta por presunta concusión")
+
+¿Cómo se aplica el Pico y placa?
+--------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+
+–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+
+Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+
+Tarde: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+
+Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+
+Tarde: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+Mañana: 06:00 a 08:30
+
+Tarde: 17:00 a 19:00
+
+– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
+
+Mañana: 07:00 a 08:30
+
+Tarde: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
+>   
+> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
+>   
+> 🤝 Juntos llegamos sin contratiempos.  
+>   
+> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/xmlzjFeU9O](https://t.co/xmlzjFeU9O)
+> 
+> — AMTQuito (@AMT\_Quito) [October 8, 2024](https://twitter.com/AMT_Quito/status/1843593712443764781?ref_src=twsrc%5Etfw)
+
+Cortes de luz a la industria afectan la economía del país si no se toman medidas
+================================================================================
 
 Los cortes de luz de 10 horas diarias afectan a las industrias del país, sobre todo a las de Cuenca y Ambato.
 -------------------------------------------------------------------------------------------------------------
@@ -818,155 +979,3 @@ Las festividades por la independencia de Guayaquil se celebrarán no solo en la 
 En este 2024, la fecha patriótica coincidió en **miércoles**. Según la Ley de Feriados del Ministerio de Turismo, cuando la celebración cae entre semana se la debe pasar como **puente vacacional** al fin de semana más cercano.
 
 Por ello, los ecuatorianos gozarán de **tres días** de descanso obligatorio, este viernes 11, sábado 12 y domingo 13 de octubre,
-
-Colón Pico recibe sentencia por intimidación contra Diana Salazar ¿Cuántos años en prisión?
-===========================================================================================
-
-Esta es la primera sentencia que recibe Colón Pico tras su recaptura en abril, por el delito de intimidación contra la fiscal general, Diana Salazar.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Colón Pico fue sentenciado por el delito de intimidación contra Diana Salazar.](https://www.elcomercio.com/wp-content/uploads/2024/10/colon-pico.png)
-
-Fabricio Colón Pico, líder de Los Lobos, recibió sentencia por el delito de intimidación contra la fiscal general del Estado, Diana Salazar, este martes 8 de octubre de 2024.
-
-El Fiscal a cargo del caso presentó 11 pruebas testimoniales y 12 documentales, en la audiencia que desarrolló en el Complejo Judicial Norte de Quito.
-
-### Más noticias:
-
-* [Colón Pico, en fases decisivas de procesos por tráfico de armas e intimidación a Diana Salazar](https://www.elcomercio.com/actualidad/seguridad/colon-pico-fases-decisivas-procesos-trafico-armas-intimidacion-diana-salazar.html "Colón Pico, en fases decisivas de procesos por tráfico de armas e intimidación a Diana Salazar")
-* [Diana Salazar fue amenazada por Colón Pico, ¿qué dijo la pericia del audio?](https://www.elcomercio.com/actualidad/seguridad/diana-salazar-amenazada-por-colon-pico-que-dijo-pericia.html "Diana Salazar fue amenazada por Colón Pico, ¿qué dijo la pericia del audio?")
-
-Colón Pico tiene un amplio historial delictivo y, actualmente, tiene otro proceso judicial abierto en su contra por tráfico de armas, que también está en fase decisiva.
-
-El líder de Los Lobos fue recapturado en abril de este año, en una hacienda ubicada en Puerto Quito.
-
-En junio, con base en 41 elementos de convicción, la Jueza de la Unidad Judicial Penal de Carcelén, que conoció la causa, llamó a juicio a Colón Pico.
-
-Según la teoría de Fiscalía, el procesado habría amenazado de muerte a Diana Salazar, fiscal general del Estado.
-
-En el expediente investigativo consta un informe técnico pericial de identificación, cotejamiento y muestra biométrica de voz.
-
-Los peritos trabajaron sobre la transcripción de emisiones lingüísticas de un video que contenía las amenazas de muerte.
-
-Ese video llegó al contacto de Salazar, a través de la aplicación WhatsApp.
-
-Sentencia a Colón Pico por intimidación contra Diana Salazar
-------------------------------------------------------------
-
-Este martes se instaló en el Complejo Judicial Norte de Quito el segundo día de audiencia de juicio contra Fabricio Colón Pico.
-
-Esto, por presunta participación en el delito de intimidación, que habría perpetrado contra la Fiscal General.
-
-Diana Salazar, como víctima, solicitó que el procesado pida disculpas públicas y el pago de una reparación de 5 520 dólares.
-
-Ese dinero sería destinado a una cuenta de pacientes con esclerosis múltiple.
-
-La sentencia y los años de prisión para Colón Pico por intimidación a Diana Salazar
------------------------------------------------------------------------------------
-
-El Tribunal del juicio declaró culpable del delito de intimidación a Fabricio Colón Pico y lo sentenció a cinco años de prisión.
-
-Además, ordenó una reparación integral de 6 salarios básicos unificados a favor de la víctima, es decir, aproximadamente, 2 250 dólares.
-
-Argentina no puede salir de Miami por el Huracán Milton
-=======================================================
-
-La Selección de Argentina lidera la tabla de posiciones de las eliminatorias al Mundial 2026 con 18 puntos.
------------------------------------------------------------------------------------------------------------
-
-![Lionel Messi con la Selección de Argentina en Miami en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/argentina_milton_1.jpg)
-
-La **Selección de Argentina** aún se encuentra en Miami y no pudo cumplir la logística que tenía planificada para viajar a Venezuela para jugar en la novena fecha de las eliminatorias al Mundial 2026.
-
-El jueves 10 de octubre de 2024, desde las 16:00, Argentina tiene que visitar a **Venezuela en el Estadio Monumental de Maturín**, escenario que fue sede de la Copa América 2007 y en la que Ecuador perdió 1-2 ante México.
-
-### Más noticias:
-
-* [Marco Angulo, de Liga de Quito, fue operado tras siniestro de tránsito](https://www.elcomercio.com/deportes/marco-angulo-de-liga-de-quito-fue-operado-tras-siniestro-de-transito.html "Marco Angulo, de Liga de Quito, fue operado tras siniestro de tránsito")
-* [Siete etapas definen la Vuelta Ciclística a Ecuador 2024](https://www.elcomercio.com/deportes/ciclismo/vuelta-ciclistica-ecuador-2024-etapas.html "Siete etapas definen la Vuelta Ciclística a Ecuador 2024")
-* [Pedro Vite está nominado a un prestigioso premio en la MLS](https://www.elcomercio.com/deportes/futbol/pedro-vite-esta-nominado-a-un-prestigioso-premio-en-la-mls.html "Pedro Vite está nominado a un prestigioso premio en la MLS")
-
-Este martes 8 la delegación de Argentina tenía planificado viajar a Venezuela, con una **parada previa en Cúcuta, Colombia**, puesto que dicho país no admite vuelos de bandera argentina y estadounidense, según apunta Infobae.
-
-El huracán, que presenta vientos máximos sostenidos de 280 kilómetros por hora (175 millas), **atravesará casi todo Florida de oeste a este a partir del próximo miércoles** 9 de octubre de 2024, según el Centro Nacional de Huracanes (NHC, en inglés) de Estados Unidos.
-
-“No se puede despejar, va a ser difícil al otro día llegar porque no se puede ir directo a Maturín. **Tenemos que hacer escala porque no permiten aterrizar** desde suelo americano directamente a Venezuela (…) Lo más importante es la salud de la gente y de todos nosotros que estamos acá también”, recoge TyC Sports.
-
-“Nos han denegado el viaje, vamos a viajar mañana si el tiempo lo permite (…) **Son cosas que no dependen de nosotros, hemos tenido mala suerte**“, mencionó Lionel Scaloni, entrenador ‘Albiceleste’, en una rueda de prensa que se llevó a cabo este martes.
-
-¿Qué pasará con el partido ante Venezuela?
-------------------------------------------
-
-Las alarmas están encendidas en la c**oncentración de Argentina por el Huracán Milton** y también por no poder viajar a Venezuela.
-
-Desde Argentina se empieza a hablar que **una de las alternativas en caso de no llegar a tiempo**, es aplazarlo para el viernes 11.
-
-“T**anto FIFA como Conmebol están al tanto de la situación**“, comentaron en DSports, respecto a la opción de cambiar la fecha del encuentro.
-
-“Sería casi imposible salir el mismo jueves”, explicó Scaloni ante la posibilidad de que la delegación tampoco pueda partir el miércoles.
-
-![Foto: Instagram Argentina.](https://www.elcomercio.com/wp-content/uploads/2024/10/argentina_milton_2-1024x683.jpg)
-
-Foto: Instagram Argentina.
-
-Las bajas de Argentina
-----------------------
-
-El entrenador también se refirió a otros cambios que debió introducir en la preparación.
-
-“Es una fecha muy difícil para nosotros en la convocatoria. Tuvimos muchos imponderables. **Traer jugadores de Europa es difícil ahora**. Tenemos que aprovechar a los jugadores que están en el fútbol argentino”, explicó.
-
-Pese a las cuatro bajas por lesión en su plantilla y la ausencia por sanción de dos jugadores más, dijo que espera que sus dirigidos puedan “mantener el nivel” en las próximas dos jornadas de las eliminatorias sudamericanas.
-
-Los lesionados son el lateral Marcos Acuña los delanteros **Paulo Dybala, Nicolás González y Alejandro Garnacho**. Además, están sancionados el defensor Cristian ‘Cuti’ Romero y el portero Emiliano ‘Dibu’ Martínez.
-
-Scaloni expresó su respaldo a su portero. “Se expresó de una manera muy respetuosa y correcta. Es justo lo que ha dicho. Son cosas que no pueden volver a pasar. Sobre todo porque el equipo no puede permitirse no tener a Dibu o Cuti. Son jugadores importantes”.
-
-Martínez fue sancionado dos fechas por el Tribunal de Disciplina de la FIFA **tras haber golpeado la cámara de un periodista tras el partido jugado en Barranquilla** y, por haber colocado el trofeo de la Copa América en su zona genital durante los festejos del título tras la goleada a Chile en el Estadio Monumental de Buenos Aires.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DA2GJ9Lo154/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Selección Argentina (@afaseleccion)](https://www.instagram.com/reel/DA2GJ9Lo154/?utm_source=ig_embed&utm_campaign=loading)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Jugadores de la Selección de Ecuador rindieron homenaje a Roberto Cabezas
-=========================================================================
-
-Roberto Cabezas falleció en un siniestro de tránsito y un grupo de la Selección de Ecuador le rindió homenaje.
---------------------------------------------------------------------------------------------------------------
-
-![Jugadores de la Selección de Ecuador en el funeral de Roberto Cabezas, futbolista fallecido de Independiente Juniors.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-08T143913.641.jpg)
-
-El lunes 7 de octubre del 2024 se produjo un **siniestro de tránsito** en horas de la madrugada en la Autopista General Rumiñahui. En él se encontraba como ocupante el futbolista Roberto Cabezas, quien falleció y había conocido a jugadores de la **Selección de Ecuador.**
-
-A raíz del hecho, **instituciones futbolísticas y clubes** se pronunciaron y se solidarizaron con la familia del jugador. Durante el mismo día en el cual se produjo el deceso del deportista, su funeral se realizó y acudieron futbolistas de la Tri.
-
-### Más noticias:
-
-* [Selección de Ecuador promete intensidad ante Paraguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-paraguay-intensidad-eliminatorias.html "Selección de Ecuador promete intensidad ante Paraguay")
-* [Óscar Zambrano, emocionado por volver a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/oscar-zambrano-emocionado-por-volver-a-la-seleccion-de-ecuador.html "Óscar Zambrano, emocionado por volver a la Selección de Ecuador")
-* [Cristian Ramírez finalmente regresó a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/cristian-ramirez-finalmente-regreso-a-la-seleccion-de-ecuador.html "Cristian Ramírez finalmente regresó a la Selección de Ecuador")
-
-En una foto que circuló en redes sociales se observó a miembros del equipo nacional alrededor del ataúd y abrazados entre sí. Aquellos que se encontraban habían compartido con el futbolista a nivel juvenil en **Independiente del Valle** o se formaron en dicho club.
-
-Los seleccionados, tanto los que juegan en el **ámbito local e internacional**, pudieron trasladarse al acto debido a que estos se encuentran concentrados en Quito con el equipo nacional. El 10 de octubre del 2024 y el 15 del mismo mes[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-¿Quiénes estuvieron en el funeral de Roberto Cabezas?
------------------------------------------------------
-
-Dentro del evento estuvieron presentes 13 futbolistas de la Selección de Ecuador. A estos los acompañó **Manolo Illescas**, funcionario de la Federación Ecuatoriana de Fútbol (FEF) y el conjunto tricolor.
-
-Entre los jugadores presentes de la escuadra de **Sebastián Beccacece** estuvieron Jhoanner Chávez, Gonzalo Plata, Pedro Vite, Jhon Mercado, Moisés Ramírez, Alan Minda, Piero Hincapié, Yaimar Medina, Kendry Páez, Ronaldo Villa, Alan Franco, Willian Pacho y Joel Ordóñez.
-
-Los demás miembros de la Tri permanecieron en la **Casa de la Selección**. Para la fecha de eliminatorias, el DT de la escuadra de la mitad del mundo convocó 25 nombres y cinco más se unieron en calidad de invitados.
-
-¿Cómo fue el siniestro que estuvo involucrado el futbolista?
-------------------------------------------------------------
-
-El siniestro en el cual falleció **Roberto Cabezas** también involucró a otro futbolista y otros tres pasajeros del vehículo. **Marco Angulo**, jugador de Liga de Quito, estuvo en el automotor y, tras el suceso, fue trasladado en estado crítico al Hospital Eugenio Espejo.
-
-Los futbolistas y los demás ocupantes del automóvil se impactaron con una viga de 50 toneladas en la Autopista General Rumiñahui. Además de **Cabezas**, otro de los individuos que lo acompañaban falleció.
-
-En el caso de **Angulo**, este ya se encuentra estable, pero está en terapia intensiva y su pronóstico es reservado. Tras una primera cirugía –**craniectomía descompresiva**– se espera la evolución del futbolista y su reacción para sacarlo de un coma inducido.
