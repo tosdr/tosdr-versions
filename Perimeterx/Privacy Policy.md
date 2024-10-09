@@ -6,9 +6,9 @@
     
     * * [Human Defense Platform
             
-            Comprehensive detection, decisioning, and protection for today’s customer journey](https://www.humansecurity.com/platform)
+            High-fidelity decisioning and unmatched precision at every step of the customer journey](https://www.humansecurity.com/platform)
             
-            [Comprehensive detection, decisioning, and protection for today’s customer journey](https://www.humansecurity.com/platform)
+            [High-fidelity decisioning and unmatched precision at every step of the customer journey](https://www.humansecurity.com/platform)
             
         * Platform Packages
             
@@ -94,6 +94,10 @@
         * [Healthcare](https://www.humansecurity.com/platform/industry/healthcare)
             
             [](https://www.humansecurity.com/platform/industry/healthcare)
+            
+        * [Public Sector](https://www.humansecurity.com/platform/industry/public-sector)
+            
+            [](https://www.humansecurity.com/platform/industry/public-sector)
             
         * [Publishers](https://www.humansecurity.com/platform/industry/publishers)
             
@@ -324,9 +328,9 @@
     
     * * [Human Defense Platform
             
-            Comprehensive detection, decisioning, and protection for today’s customer journey](https://www.humansecurity.com/platform)
+            High-fidelity decisioning and unmatched precision at every step of the customer journey](https://www.humansecurity.com/platform)
             
-            [Comprehensive detection, decisioning, and protection for today’s customer journey](https://www.humansecurity.com/platform)
+            [High-fidelity decisioning and unmatched precision at every step of the customer journey](https://www.humansecurity.com/platform)
             
         * Platform Packages
             
@@ -412,6 +416,10 @@
         * [Healthcare](https://www.humansecurity.com/platform/industry/healthcare)
             
             [](https://www.humansecurity.com/platform/industry/healthcare)
+            
+        * [Public Sector](https://www.humansecurity.com/platform/industry/public-sector)
+            
+            [](https://www.humansecurity.com/platform/industry/public-sector)
             
         * [Publishers](https://www.humansecurity.com/platform/industry/publishers)
             
@@ -881,7 +889,7 @@ Packages
     * [Education](https://www.humansecurity.com/platform/industry/education)
     * [Financial Services](https://www.humansecurity.com/platform/industry/financial-services)
     * [Healthcare](https://www.humansecurity.com/platform/industry/healthcare)
-    * [Public Sector](https://www.humansecurity.com/solutions/industry/public-sector)
+    * [Public Sector](https://www.humansecurity.com/platform/industry/public-sector)
     * [Publishers](https://www.humansecurity.com/platform/industry/publishers)
     * [Retail & Ecommerce](https://www.humansecurity.com/platform/industry/retail-e-commerce)
     * [SaaS Platforms](https://www.humansecurity.com/platform/industry/saas-platforms)
