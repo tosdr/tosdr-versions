@@ -1,4 +1,4 @@
-The store will not work correctly in the case when cookies are disabled.
+The store will not work correctly when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
@@ -358,6 +358,8 @@ CLOSE
 * [Contact Us](https://www.adaptivemall.com/aboutus#contactus)
 * [Customer Care](https://www.adaptivemall.com/customer-service-q-a)
 
+* Compare
+
 FREE SHIPPING\* | [See Details](https://www.adaptivemall.com/freeshipping)
 
 **Adaptivemall.com will be closed May 25th- 27th in observance of the Memorial Day Holiday. Customer Service will return on Tuesday, May 28th at 8:30am EST to resume regularly scheduled hours.** 
@@ -551,7 +553,7 @@ Chat
 
 [![](//medals.bizrate.com/medals/dynamic/288283_medal.gif)](http://www.bizrate.com/ratings_guide/merchant_detail__mid--288283.html)
 
-Copyright © 2013-2024 Magento, Inc. All rights reserved.  
+Copyright © 1998-2024 Magento, Inc. All rights reserved.  
 Site by [EYStudios.](https://eystudios.com/)
 
 [![Back to top](/media/wysiwyg/backtotop.png)](#)
