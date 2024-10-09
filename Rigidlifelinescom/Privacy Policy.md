@@ -1,4 +1,4 @@
-    
+add\_filter( 'rocket\_lrc\_optimization', '\_\_return\_false' , 999);          
 
 ![](//googleads.g.doubleclick.net/pagead/viewthroughconversion/1070947011/?value=0&guid=ON&script=0)
 
