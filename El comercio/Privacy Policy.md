@@ -31,6 +31,600 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz a la industria afectan a la economía del país si no se toman medidas
+==================================================================================
+
+Los cortes de luz de 10 horas diarias afectan a las industrias del país, sobre todo a las de Cuenca y Ambato.
+-------------------------------------------------------------------------------------------------------------
+
+![Imagen ilustrativa. Promt: Ilustración muestra la recesión económica por los cortes de luz de hasta 10 horas diarias.](https://www.elcomercio.com/wp-content/uploads/2024/10/editorial-9-de-octubre-2024.jpg)
+
+Los **cortes de luz** de hasta 10 horas diarias **profundizan la crisis económica de Ecuador**.
+
+Desde el sábado 5 de octubre, los **parques industriales de Cuenca y Ambato** paralizaron su producción. La compleja maquinaria de producción impide que en poco tiempo pueda ser apagada y prendida.
+
+En estos cuatro días de **apagones** por la falta de electricidad no ha habido producción de al menos 236 empresas, entre las de **Cuenca y Ambato**. Es decir, tampoco hay ventas. Los empleados también están parados o en vacaciones forzosas.
+
+Esas condiciones se suman a los preocupantes indicadores económicos del país, que se registraron el segundo trimestre de 2024. En breve resumen, la economía de Ecuador se ralentiza, por la contracción de las ventas, la caída del consumo de los hogares y una fuerte reducción de la construcción.
+
+> El efecto de los prolongados **cortes de luz en el sector industrial de Ecuador** recaerá sobre la producción y plazas de trabajo.
+
+Con este panorama, **el apagón industrial, como dicen indignados los empresarios, empuja a Ecuador a una segura recesión económica por la crisis energética**, a menos que se revea la decisión en estos días. 
+
+Hasta ahora, la medida durará 15 días, de acuerdo con las disposiciones d**el Ministerio de Energía y el Cenace.**
+
+Los empresarios se reúnen desde el lunes con el Gobierno de Daniel Noboa en mesas técnicas para encontrar alternativas. 
+
+Mientras se llega a un acuerdo, la **fabricación de neumáticos, línea blanca, cerámica, muebles, entre otros, está parada en Cuenca.** 
+
+Ecuador es líder en esos productos, que también son de exportación. El sector de las exportaciones del país tiene un leve crecimiento, debido al alto precio del cacao. El apagón industrial pudiera repercutir en ese balance en el último trimestre de 2024.
+
+Solo la **industria de Cuenca facturó 5 547 millones de dólares**, entre enero y julio de 2024. La manufactura es la principal actividad económica de Cuenca y representa el 35% del PIB local. Todo el sector genera el 40% de las fuentes de trabajo de la ciudad[.](https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador "https://es.wikipedia.org/wiki/Empresa_El%C3%A9ctrica_del_Ecuador")
+
+Los **cortes de luz al sector industrial** llegaron repentinamente, sin previo aviso ni planificación; según los industriales. Eso impidió a las empresas tomar previsiones. 
+
+En las reuniones actuales se tiene la oportunidad para llegar a salidas que no afecten a la producción y que se pueda ahorrar durante esta crisis eléctrica.
+
+Si antes de los **cortes de luz**, las previsiones de crecimiento de la economía ecuatoriana al finalizar el año eran de menos del 1%, ¿qué resultados se pudieran tener con los apagones?
+
+En este feriado del 9 de octubre, aprende sobre la independencia de Guayaquil
+=============================================================================
+
+En el feriado del 9 de octubre, conmemoramos la independencia de Guayaquil y recordamos su valiente lucha por la libertad.
+--------------------------------------------------------------------------------------------------------------------------
+
+![La independencia de Guayaquil fue el resultado de la influencia de movimientos por la libertad. Foto: Pinterest.](https://www.elcomercio.com/wp-content/uploads/2024/10/9-de-octubre-independencia-de-Guayaquil.jpg)
+
+La **independencia de Guayaquil** es un evento crucial en la **historia del Ecuador**, celebrado con un **feriado el 9 de octubre**.  
+
+### Más noticias
+
+* [¿Qué se celebra el 9 de octubre en Ecuador y en el mundo?](https://www.elcomercio.com/tendencias/cultura/9-octubre-celebracion-independencia-guayaquil-efemerides.html "https://www.elcomercio.com/tendencias/cultura/9-octubre-celebracion-independencia-guayaquil-efemerides.html") 
+* [¿Por qué es el feriado del 9 de Octubre de 1820?](https://www.elcomercio.com/actualidad/ecuador/por-que-feriado-9-octubre-1820.html "https://www.elcomercio.com/actualidad/ecuador/por-que-feriado-9-octubre-1820.html")
+
+Este día **conmemora la valentía y determinación de los guayaquileños** que, en 1820, decidieron **liberarse del dominio español**. La ciudad de Guayaquil, conocida por su espíritu independiente, se convirtió en un símbolo de libertad y resistencia en América Latina. 
+
+**Antecedentes históricos del 9 de octubre** 
+---------------------------------------------
+
+La **independencia de Guayaquil** no fue un evento aislado. Desde 1814, las **ideas de libertad y justicia** comenzaron a germinar entre sus habitantes, influenciados por movimientos similares en otras partes de América Latina. **José Joaquín de Olmedo**, un destacado **líder local**, fue fundamental en la organización del levantamiento contra la corona española, según recoge la página [Fundación Ecuador](https://www.fe.org.ec/independencia-de-guayaquil-9-de-octubre/ "https://www.fe.org.ec/independencia-de-guayaquil-9-de-octubre/"). 
+
+**Causas principales que llevaron a la independencia de Guayaquil**  
+---------------------------------------------------------------------
+
+* **Influencia de movimientos independentistas:** Para 1820, los **movimientos independentistas** en América Latina estaban en su apogeo. Las **ideas de libertad y autodeterminación** se habían extendido por el continente, lo que inspiró a los guayaquileños a buscar su propia independencia, de acuerdo con la web [Paxala](https://www.paxala.com/9-de-octubre-de-1820-independencia-de-guayaquil/ "https://www.paxala.com/9-de-octubre-de-1820-independencia-de-guayaquil/"). 
+
+* **Descontento con el dominio español:** La población de Guayaquil, al igual que en otras partes de América, estaba **descontenta con el dominio colonial español**. Las **restricciones económicas y políticas** impuestas por la corona española generaron un creciente deseo de autonomía, a decir de la página [Lifeder](https://www.lifeder.com/independencia-guayaquil/ "https://www.lifeder.com/independencia-guayaquil/"). 
+
+* **Condiciones económicas y sociales:** Las condiciones económicas y sociales también contribuyeron al deseo de independencia. La **élite criolla**, que controlaba gran parte de la **economía local**, buscaba **liberarse de las restricciones comerciales** impuestas por España para poder prosperar sin interferencias, de acuerdo con la [Enciclopedia Británica](https://enciclopediaiberoamericana.com/independencia-del-ecuador/ "https://enciclopediaiberoamericana.com/independencia-del-ecuador/"). 
+
+**El levantamiento del 9 de octubre** 
+--------------------------------------
+
+El **9 de octubre de 1820, Guayaquil se levantó en armas**. Este acto de valentía fue liderado por Olmedo y otros patriotas, quienes l**ograron liberar la ciudad de la presencia española**. Este evento no solo marcó el **inicio de la independencia de Guayaquil**, sino que también inspiró a otras regiones a seguir su ejemplo. 
+
+**Celebraciones actuales** 
+---------------------------
+
+Hoy en día, el **9 de octubre** es una fecha de gran importancia en Guayaquil. La ciudad se viste de gala para **celebrar su independencia con desfiles, eventos culturales y ceremonias oficiales**. Las calles se llenan de música, danzas y colores, que **reflejan el orgullo de los guayaquileños** por su historia y su identidad. 
+
+**Importancia cultural** 
+-------------------------
+
+La **Independencia de Guayaquil** no solo es un evento histórico, sino también un pilar de la **identidad cultural de la ciudad**. Las celebraciones incluyen representaciones teatrales y exposiciones que rememoran los **eventos de 1820**, que permiten a las nuevas generaciones comprender y valorar su legado. 
+
+La **conmemoración de la independencia de Guayaquil** es un recordatorio de la lucha por la libertad y la justicia. Cada 9 de octubre, los guayaquileños celebran no solo su independencia, sino también su **espíritu indomable y su compromiso con la libertad**. 
+
+Cartas a Quito / 9 de octubre de 2024
+=====================================
+
+Estas son las cartas a Quito de este miércoles 9 de octubre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Parqueaderos en el IESS
+-----------------------
+
+Todos los que tenemos la desgracia de ocupar los servicios de las diversas dependencias del IESS, especialmente en lo que respecta a los servicios médicos, siempre nos venimos quejando, pues nos sentimos insatisfechos tanto por la pésima atención, la escasez de médicos especialistas, la carencia de medicinas, la insuficiencia de equipos médicos, la incomodidad de sus instalaciones, etc. etc.
+
+A todo esto se suma la falta o el “mal uso” que se da a los parqueaderos para los enfermos que acuden en busca de atención médica; y, curiosamente, no es por falta de estos espacios que, generalmente, permanecen vacíos sin dar a los usuarios la posibilidad de ocuparlos, especialmente en horas de la noche y madrugada, teniendo que aparcar sus vehículos en la calle con el consiguiente peligro que ello representa. Tal es el caso puntual del dispensario de Cotocollao ubicado en la Avda. de la Prensa que cuenta con un enorme parqueadero que, durante el día y más aún en horas de la noche, permanece cerrado y ni siquiera se permite el ingreso de los vehículos con heridos, enfermos, etc. hasta  la puerta de ingreso a emergencias muchas veces con pacientes delicados.  Esto nos parece una falta de consideración y un abuso para los enfermos  que, sin lugar a dudas, nos merecemos un mejor trato.
+
+Los pensionistas y jubilados estamos hartos de tanta discriminación y maltrato y exigimos se revisen estas absurdas políticas en procura de dar una mejor atención a los aportantes y a la  ciudadanía toda.
+
+Fabiola Carrera Alemán
+
+Sentenciados
+============
+
+Abusos de poder para enriquecerse a costa del bienestar público.
+----------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+«_Felicitaciones a nuestro **contralor**. Todo el mundo quiere a Carlos. Te clava la glosa y todas las **responsabilidades** y todo el **mundo** lo quiere. Simpatiquísimo_».   Esto decía Correa de Pólit. El **Estado** eran ellos. Para el endiosado de Pólit y el predicador de Correa, el poder que habían tejido fue el de la **connivencia** y la **codicia**, para enriquecerse como fin. Entendían el **servicio público** para servirse y amontonar fortuna. Sin que les importe la desdicha de los demás. El **Estado** al servicio de la mentira para vender ilusiones a los ilusos.
+
+Pólit había sido seleccionado y calificado cien sobre cien por el CPCCS inventado por el chavismo. Tan servicial y eficiente que fue condecorado por la **Asamblea Nacional** presidida por Gabriela Rivadeneira. Aquella señora que, sentada en la estación del **socialismo** romántico de los 70 del siglo pasado, exclamaba su deseo que los pobres coman pan y los ricos solo excremento.  Ahora, corpulenta, vive en el regalo de la **riqueza**.
+
+Ellos protegían a Pólit y este los solapaba. En vez de controlar era controlado. El **régimen** copaba la totalidad del Estado. En la arbitrariedad y la opacidad. Pólit actuaba en la **complicidad** y los dividendos que tocan, de un **régimen** torcido en toda su anchura y duración.  Ahí, en esa penumbra, Pólit pactaba glosas, bajando, borrando y recibiendo **millones** que los lavó en los **Estados Unidos**.  Ahora ha merecido una **sentencia** en los **tribunales** de La **Florida**. Pero también cubría y hacía la vista gorda.  Pasaba por alto todas las fechorías de sus amigos. Era el ángel de la guarda del régimen. El jefe, ya fue sentenciado, también por **corrupción** aquí. Actuaban en cuadrilla, como funcionan las **bandas delictivas**. Sin remordimiento ni culpa.
+
+Tucídides, griego, político, historiador y militar ateniense, en el libro _Historia de la guerra del Peloponeso,_ relata la beligerancia entre Atenas y Esparta en el año 411 antes de Cristo, en el que traza el sentido y el fin de la **democracia**, cuya “_administración corresponde a los muchos_”, con sentido de la **virtud** y **bondad** que obliga al bien: «_Que por pobre o de bajo sueldo que sea, con tal que pueda hacer bien y provecho a la república, no será excluido de los cargos y dignidades públicas_». Ni Pólit ni Correa entendieron este sentido del **servicio público**.
+
+Ingenuidad o cinismo
+====================
+
+Para enfrentar la gravísima crisis eléctrica es indispensable que las autoridades den información veraz y confiable de la realidad.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
+
+No suministrar **energía** al “**sector industrial**” durante el día por al menos 15 días es una medida extrema, tomada al **calor de las elecciones de febrero** y al margen de la realidad. Hace pocos días el **gobierno** anunció que se **reducirían los apagones** a partir del viernes 4 de octubre y sería muy perjudicial, 48 horas más tarde, volver a los apagones de hasta 12 horas al día.
+
+Algún “iluminado” sugirió que, para no dejar sin **energía a los hogares**, se suprima el suministro diurno a las **industrias**. No se tuvo en cuenta que: primero, el efecto brutal en la **economía**, en el **empleo** y hasta en una eventual escasez en productos de primera necesidad como los **alimentos**. Y, segundo, la factibilidad real de aplicar la medida, tanto porque hay **industrias de operación** continua, como las **cementeras** y las de **plástico** (en las que las máquinas no se pueden apagar por cortos períodos y luego encenderlas), así como la imposibilidad de que las **empresas eléctricas** puedan desconectar exclusivamente a los **consumidores industriales**, porque -hasta donde se conoce – los sistemas están diseñados para desconectar **áreas geográficas** unidas por un circuito.
+
+La desesperada medida revela la gravísima **situación de la generación eléctrica**, ya por la falta de agua en las **hidroeléctricas**, ya porque no se contrataron oportunamente nuevos **equipos termoeléctricos** o no operan los existentes, ya por el retardo en la operación de **proyectos como Toachi-Pilatón**, que lleva más de 12 años en construcción; ya, en fin, porque **Colombia** ha dejado de **vender energía a Ecuador**.
+
+Para enfrentar la gravísima **crisis eléctrica** es indispensable que las **autoridades** den información veraz y confiable de la realidad y, sobre esa base, aplicar una **estrategia** que involucre al sector privado y los **ciudadanos** para superar la **emergencia**. Es fundamental que los **sacrificios** y las molestias se repartan equitativamente y que las medidas aseguren la superación de la **emergencia**.
+
+Es penoso el mensaje a los **industriales** de la ministra de la Producción el sábado por la tarde: “Buenas tardes con todos, les quiero comentar (sic) que, por disposición del COE nacional \[  \] se ha dispuesto al **gobierno nacional** desconectar al sector industrial de 8 am-6 pm \[ \]Una vez más, los que no han recibido su medidor por favor comunicarse conmigo por interno para que las **distribuidoras** instalen entre lunes y martes. Les agradezco su comprensión, apoyo y **entendimiento** en estos momentos tan duros que el país nos necesita”
+
+Petroecuador crea cronograma de despachos de diésel tras retraso de importación
+===============================================================================
+
+La entidad aseguró que cuenta con 25 millones de galones de diésel premium para cubrir la demanda nacional.
+-----------------------------------------------------------------------------------------------------------
+
+![La petrolera del Estado aseguró que no existe desabastecimiento de diésel en Ecuador](https://www.elcomercio.com/wp-content/uploads/2024/10/diesel-s.jpg)
+
+La Empresa Pública **Petroecuador** detalló la **programación** de despachos que se realizará en varias terminales del país, tras el retraso de la importación de **280 000 barriles** de diésel anunciada.
+
+Según detalló la entidad en la mañana de este martes 8 de octubre de 2024, el buque **Gulf HuwayLat**, que transportaba el combustible, se retrasó y causó dificultades en el despacho de este producto en la **Sierra Centro**.
+
+### Más noticias
+
+* [Petroecuador reprograma los despachos de diésel por este motivo](https://www.elcomercio.com/actualidad/negocios/petroecuador-reprogramar-despachos-diesel-buque.html "Petroecuador reprograma los despachos de diésel por este motivo")
+* [Transportistas bloquean vías de Colombia por incremento del diésel](https://www.elcomercio.com/actualidad/mundo/transportistas-bloquean-vias-de-colombia-incremento-diesel.html "Transportistas bloquean vías de Colombia por incremento del diésel")
+* [Gobierno suspende entrega de combustible a gasolineras cercanas a Aquiles Alvarez](https://www.elcomercio.com/actualidad/ecuador/gobierno-suspende-entrega-combustible-alvarez.html "Gobierno suspende entrega de combustible a gasolineras cercanas a Aquiles Alvarez")
+
+Se esperaba que el cargamento llegara a Ecuador en los primeros días de octubre, pero por problemas climatológicos en el puerto de carga en **Panamá**, la entrega se demorará hasta el **jueves 10 de octubre**.
+
+“En este sentido, para garantizar esta entrega a todas las comercializadoras del país”, se programaron algunas **derivaciones de despacho** de diésel, indicó Petroecuador.
+
+El cargamento forma parte una venta total de **2 520 000 barriles** del combustible que se adjudicó la compañía proveedora **Tartan Oil LLC**, que resultó ganadora del concurso internacional.
+
+Cronograma de despachos
+-----------------------
+
+### Terminal Riobamba
+
+El despacho desde esta terminal se interrumpió este martes y se derivó a los terminales **Pascuales** (Guayas) y **La Troncal** (Cañar).
+
+Se prevé que entre el **16 y 18 de octubre** se retome el despacho desde este punto.
+
+### Terminal Santo Domingo:
+
+El miércoles 9 de octubre el despacho desde esta terminal será con **normalidad**. Mientras que el jueves 10, viernes 11 y sábado 12 de octubre, la mitad de los despachos se derivarán a la terminal **Pascuales**.
+
+Se prevé que a partir del domingo 13 de octubre, el despacho de diésel premium desde este punto se retome.
+
+“Las comercializadoras deberán regirse a las programaciones y derivaciones comunicadas (…) a fin de garantizar el abastecimiento de diésel premium desde los terminales indicados”, enfatizó Petroecuador.
+
+Petroecuador asegura que no existe desabastecimiento de diésel
+--------------------------------------------------------------
+
+Según indicó la entidad a través de un comunicado, la empresa pública cuenta con **25 millones de galones** de diésel premium para atender la demanda nacional.
+
+Por ello, “no existe desabastecimiento de diésel Premium, diésel oil, ni de combustible alguno en el país”, dijo Petroecuador.
+
+La entidad puntualizó que las terminales de El Beaterio (Pichincha), Pascuales (Guayas) y Ambato (Tungurahua) cuentan con el **stock suficiente** de diesel premium para cubrir la **demanda a nivel nacional**.
+
+Así mismo, afirmó que la necesidad de diésel para la generación eléctrica no tiene un impacto significativo en la distribución de diésel premium, ya que el utilizado para generadores de electricidad es el diésel oil (o diésel 2).
+
+“El diésel premium es de uso exclusivo para el sector automotriz y Petroecuador no ha dejado de despachar este combustible”, aclaró la empresa pública.
+
+Trabajos cerca del túnel Guayasamín afectan la movilidad, conozca las alternativas
+==================================================================================
+
+La rehabilitación de los carriles exclusivos de la Ecovía modificará la movilidad en la zona de la Plaza Argentina y el túnel Guayasamín.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Desde el jueves 10 de octubre, a las 21:00 se modificará el tránsito en la zona del túnel Guayasamín.](https://www.elcomercio.com/wp-content/uploads/2024/10/tunel-guayasamin-2.jpg)
+
+Desde las 21:00 del jueves 10 de octubre del 2024, comenzarán los **trabajos** de **rehabilitación** del carril exclusivo de la **Ecovía** a la altura de la **Plaza Argentina**. Esta obra pública complicará la movilidad a los más de 35 000 usuarios que diariamente pasan por el **túnel Guayasamín**, en el norte de Quito. Para ello, se prepara un **operativo de tránsito** para aliviar en lo posible el tránsito de los que usan
+
+### Más noticias
+
+* [Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera](https://www.elcomercio.com/actualidad/quito/operaciones-aeropuerto-quito-normales-huracan-milton.html "Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera")
+* [Marco Angulo, de Liga de Quito, está en coma inducido](https://www.elcomercio.com/deportes/futbol/marco-angulo-liga-quito-coma-inducido-salud-siniestro.html "Marco Angulo, de Liga de Quito, está en coma inducido")
+* [Los sabores manabitas se degustarán en un festival en Quito](https://www.elcomercio.com/empresariales/sabores-manabitas-degustaran-festival-gastronomia.html "Los sabores manabitas se degustarán en un festival en Quito")
+
+El operativo de tránsito por el túnel Guayasamín
+------------------------------------------------
+
+Por el **túnel Guayasamín** pasan alrededor de **35 000 vehículos diarios**. Ya es de por sí una zona complicada, sea en horas pico o no.
+
+Por las obras de rehabilitación, la **Agencia Metropolitana de Tránsito (AMT)** ya tiene planificado el **operativo** **de tránsito**. Al comenzar las obras el **jueves por la noche**, coincide con el inicio del **feriado** por la Independencia de Guayaquil, que se trasladó al viernes 11 de octubre del 2024.
+
+La idea, según **David Argüello**, coordinador de operaciones de la **AMT**, es que los usuarios se acostumbren al cierre total por la vía interior del redondel de la **Plaza Argentina**, que permite acceder a la avenida **De los Shyris** o **Diego de Almagro**, para los que vienen **en sentido valles-Quito**.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DA4KRU0sjGy/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DA4KRU0sjGy/?utm_source=ig_embed&utm_campaign=loading)
+
+¿Cómo será el contraflujo?
+--------------------------
+
+Los **contraflujos** totales **no variarán**. Se mantienen d**e 07:00 hasta las 08:30 por la mañana desde el valle hacia Quito**; por la tarde, los tres carriles exclusivos **serán de 16:00 hasta las 20:30 para los que van de Quito a los valles.**
+
+Lo que sí variará sustancialmente y que complicará el tránsito serán **las vías de acceso a Quito** al salir del **túnel Guayasamín** por las mañanas. Se prevé que el trabajo demorará 10 días. Para el **20 de octubre** los autos debieran circular como de costumbre.
+
+Los dos carriles de la **Ecovía** de la avenida **6 de Diciembre se cerrarán**. Esto impedirá que se use la vía interior de la Plaza Argentina que desemboca en la Shyris y Almagro.
+
+Para los que quieren tomar hacia la avenida De los Shyris, podrán tomar un pequeño tramo por la av. 6 de Diciembre hacia el norte por unos 100 metros y **girar en U**, tal como lo ilustra la siguiente imagen:
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/vuelta-en-u-a-la-shyris.jpg)
+
+Fuente: Agencia Metropolitana de Tránsito.
+
+Para aquellos que deban ir hacia el sur, deberán tomar el paso deprimido, que los conducirá hacia la av. Diego de Almagro. Así lo dispone la AMT[:](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/guaysamin-por-la-almagro-vale.jpg)
+
+Fuente: Agencia Metropolitana de Tránsito
+
+Por la tarde, el contraflujo exclusivo hacia el valle de Tumbaco no se modifica.
+
+Las alternativas viales
+-----------------------
+
+**Argüello** señaló que hay **rutas viales** que pueden servir como alternativas, como ir por la **av. Simón Bolívar** hacia el **redondel del ciclista**. Sin embargo, este es otro cuello de botella en tiempos “normales” del tránsito.
+
+Por esta zona del norte de Quito, en donde además convergen la vía a **Nayón**, la calle **De las Azucenas** (Monteserrín), la av. **De los Granados** y aquellos que suben desde la **Eloy Alfaro**. En condiciones normales, por allí pasan más de **85 000 automóviles**.
+
+Otra posibilidad es tomar la av. **De los Conquistadores**, para pasar por **Guápulo**. Esta se divide luego en dos rutas: una para llegar hacia el parque Navarro, más conocido como “el parque de las tripas”, en el límite entre La Floresta y La Vicentina. La otra es tomar el Camino de Orellana, cuya cuesta, primero adoquinada y luego empedrada, desemboca en la avenida González Suárez, a la altura del Hotel Quito.
+
+Una tercera alternativa, sobre todo para los que quieren ir al norte, es seguir por la Simón Bolívar y tomar la **av. El Inca**. Y un caso aún más extremo es tomar la Simón Bolívar hacia el sur y de ahí tomar el desvío por la autopista **General Rumiñahui**.
+
+Hay algo que deberán tomar en cuenta todos los que suban del Valle: despertarse más temprano y salir antes de la hora acostumbrada.
+
+La rehabilitación vial
+----------------------
+
+La **Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop)** comenzó el 12 de agosto pasado. Empezó en las intersecciones de la avenida **Río Coca** y **Gaspar de Villarroel,** pasó por las **Naciones Unidas** y **Eloy Alfaro**, y se extenderá hasta el **playón de la Marín.**
+
+El trabajo debe terminar, según lo planificado, en 150 días. Las operaciones fueron planificadas en ocho tramos. En todas las intervenciones, hubo malestar entre los ciudadanos por la congestión de tránsito que ocasionan.
+
+Primera reunión técnica entre sector industrial y Gobierno por cortes de luz concluyó
+=====================================================================================
+
+Cortes de luz para el sector industrial ocasionan afectaciones. Hay mesas técnicas con el Gobierno.
+---------------------------------------------------------------------------------------------------
+
+![Las industrias experimentan afectaciones por cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/10/empress-cortes-de-luz.jpg)
+
+La reunión técnica entre el gobierno de **Daniel Noboa** y el **sector industrial** son una vía definida para buscar opciones a la crisis que enfrenta el gremio por los **cortes de luz**[.](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+Producciones paradas, como ocurre en **Cuenca**, son parte del panorama que se palpa por la crisis energética. La pérdida de plazas de empleo es uno de los riesgos.
+
+### Más noticias
+
+* [Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz](https://www.elcomercio.com/actualidad/empresarios-acercamiento-gobierno-daniel-noboa-cortes-luz.html "Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz")
+* [Lo que se conoce de los cortes de luz en el sector industrial](https://www.elcomercio.com/actualidad/negocios/lo-que-se-conoce-de-los-cortes-de-luz-en-el-sector-industrial.html "Lo que se conoce de los cortes de luz en el sector industrial")
+* [Las principales empresas de neumáticos, cerámica y muebles no operan en Cuenca](https://www.elcomercio.com/actualidad/negocios/principales-empresas-neumaticos-ceramica-muebles-cuenca.html "Las principales empresas de neumáticos, cerámica y muebles no operan en Cuenca")
+
+> 📣 Comunicado Oficial:  
+> La crisis energética que atraviesa el país genera pérdidas aproximadas de 96 millones de dólares a escala nacional.  
+>   
+> Desde el sector productivo hacemos un llamado a las autoridades para facilitar información clara, previa y transparente sobre la situación… [pic.twitter.com/s212T8mI0u](https://t.co/s212T8mI0u)
+> 
+> — Comité Empresarial Ecuatoriano (@CeEcuatoriano) [September 23, 2024](https://twitter.com/CeEcuatoriano/status/1838267763644588541?ref_src=twsrc%5Etfw)
+
+Cortes de luz y sector industrial
+---------------------------------
+
+La primera reunión técnica estaba prevista para este martes, 8 de octubre de 2024. La premisa es buscar una solución ante cortes de luz de 10 horas durante **15 días** para el sector industrial.
+
+Los racionamientos se fijaron de **08:00 a 18:00**, desde el pasado 5 de octubre de 2024. Al menos, es el reporte de industrias.
+
+El avance de las mesas técnicas
+-------------------------------
+
+El primer acercamiento entre el sector industrial y el Gobierno se dio el lunes 7 de octubre de 2024.
+
+El CEE definió equipos técnicos por **provincias** y sectores que puedan definir el impacto de los cortes.
+
+Por la tarde, **María Paz Jervis, presidenta del Comité Empresarial Ecuatoriano (CEE)** dio sus primeras impresiones de la reunión.
+
+Jervis dijo que no hay todavía resultados, que la situación es “supercrítica” y que el Gobierno debe anunciar la situación de la crisis energética, según declaraciones dadas a Ecuavisa.
+
+En declaraciones a CNN, por la noche, la titular del CEE señaló expresaron su malestar, el pedido de suspensión de la medida y la conformación de comité de crisis.
+
+Aún no hay fecha para la siguiente reunión técnica entre el Gobierno y el sector industrial.
+
+Los detalles sobre la crisis
+----------------------------
+
+Según declaraciones de **Jervis**, las medidas deben tomarse escuchado y buscando que el impacto sea el menor posible.
+
+Ya el 23 de septiembre, el **Comité Empresarial Ecuatoriano** emitió un comunicado. En este se mencionó que la crisis energética que atraviesa el país genera pérdidas aproximadas de 96 millones de dólares a escala nacional.
+
+En ese momento, al igual que este 7 de octubre, desde el **Comité** se insistió en que se requiere transparencia.
+
+Gustavo Petro habla del inicio de un golpe de Estado por parte del CNE de Colombia
+==================================================================================
+
+Gustavo Petro se refiere al inicio de un golpe de Estado en su contra por un proceso abierto por el CNE de Colombia.
+--------------------------------------------------------------------------------------------------------------------
+
+![Gustavo Petro dice que se ha iniciado un golpe de Estado en su contra por una acción del CNE de Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/08/gustavo-petro-efe-agosto.jpg)
+
+El presidente de **Colombia**, **Gustavo Petro**, habló del inicio de un **golpe de Estado** en su contra por parte del **Consejo Nacional Electoral (CNE)** de ese país.
+
+La noche de este martes 8 de octubre de 2024, Petro se refirió al tema a través de un video.
+
+### Más noticias:
+
+* [Campeón del mundo de ciclismo es asesinado en Colombia](https://www.elcomercio.com/deportes/campeon-mundo-colombia-ciclismo-asesinato.html "Campeón del mundo de ciclismo es asesinado en Colombia")
+* [Colombia suspende venta de energía a Ecuador ¿Cuáles son los motivos?](https://www.elcomercio.com/actualidad/negocios/colombia-suspende-venta-energia-ecuador-motivos.html "Colombia suspende venta de energía a Ecuador ¿Cuáles son los motivos?")
+* [El contrabando en la frontera Ecuador y Colombia es un desafío](https://www.elcomercio.com/empresariales/contrabando-frontera-ecuador-colombia-desafio.html "El contrabando en la frontera Ecuador y Colombia es un desafío")
+
+El presidente colombiano, Gustavo Petro, aseguró que la decisión del CNE de abrir una investigación y formular cargos a su campaña de 2022 rompe su fuero presidencial.
+
+“Hoy se ha dado el primer paso de un golpe de Estado contra mí como presidente constitucional, elegido democráticamente por voto popular por más de 11 millones de ciudadanos”, dijo.
+
+El proceso que abrió el CNE de Colombia contra Gustavo Petro que habla del inicio de un golpe de Estado
+-------------------------------------------------------------------------------------------------------
+
+El CNE investigó la actuación de Gustavo Petro y sus colaboradores en la campaña 2022.
+
+Según el organismo electoral, ellos podrían responder “por la presunta vulneración al régimen de financiación de las campañas electorales”.
+
+Se sospecha que **superaron los topes de gasto establecidos y recurrieron a fuentes prohibidas** que no declararon.
+
+Según el CNE, la campaña presidencial de Petro no informó en sus cuentas a ese organismo de aportes para la primera vuelta electoral, disputada el 29 de mayo de 2022, que suman 3.709.361.342 pesos (unos 878 000 dólares)”.
+
+Esos aportes fueron hechos por la **Federación Colombiana de Educadores (Fecode)**, el partido Polo Democrático Alternativo y la **Unión Sindical Obrera (USO)**, ni de gastos por concepto de pago a testigos electorales y de propaganda, entre otros.
+
+Con relación a la segunda vuelta electoral, celebrada el 19 de junio de 2022, la campaña de Petro, según el CNE, presuntamente violó también “el límite de gastos por la suma de 1.646.386.773 pesos (unos 389 541 dólares de hoy)”.
+
+Gustavo Petro rechazó los cargos del CNE y sustentó su tesis de golpe de Estado en Colombia
+-------------------------------------------------------------------------------------------
+
+El gobernante lanzó fuertes críticas al órgano electoral y aseguró que está “infiltrado por los mismos politiqueros que han gobernado durante décadas nuestro país”.
+
+Gustavo Petro insistió sobre el CNE: “Ha formulado cargos en mi contra. Esto viola claramente nuestra Constitución y mi fuero. Lo ocurrido hoy pone en peligro la institucionalidad que represento”.
+
+Petro subrayó que ese órgano de carácter administrativo no puede investigar al presidente de la república, cuyo juez natural es la Comisión de Acusaciones de la Cámara de Representantes.
+
+También dijo que los cinco cargos formulados contra su campaña son infundados”.
+
+“Estoy enfrentando a una autoridad administrativa capturada por la oposición, que busca a toda costa poner en duda mi integridad”, agregó.
+
+Petro informó que solicitó a la **Comisión de Investigación y Acusación de la Cámara**, su juez natural.
+
+Pidió que este organismo “haga público el expediente” porque allí reposan más de 25 pruebas testimoniales, 34 documentales y tres inspecciones judiciales que se realizaron.
+
+“Es a través de pruebas que reclamo mi inocencia y censuro el proceder ilegal e inconstitucional del Consejo Nacional Electoral”, enfatizó.
+
+Hizo un llamado a que la gente se movilice “para la defensa irrestricta de la democracia”.
+
+Además, pidió al “mundo prestar atención a Colombia y ayudarnos a defender nuestra democracia”.
+
+> Mi intervención pública sobre el CNE y el golpe de estado. [pic.twitter.com/9uK8PWEyVg](https://t.co/9uK8PWEyVg)
+> 
+> — Gustavo Petro (@petrogustavo) [October 9, 2024](https://twitter.com/petrogustavo/status/1843828763236413824?ref_src=twsrc%5Etfw)
+
+Al desmentir los cargos imputados, Petro señaló que nunca hubo donaciones de las organizaciones mencionadas por el CNE.
+
+El dinero de la Federación Colombiana de Educadores y de la Unión Sindical Obrera fueron para el partido Colombia Humana, dijo.
+
+Aseveró que no podían sumarse a los gastos de campaña el pago de testigos electorales.
+
+Esto, porque se hacía justo el día de las elecciones, cuando supuestamente ya no se estaba haciendo proselitismo político.
+
+En tercer lugar, insistió en que todos los gastos por propaganda electoral fueron reportados de manera oportuna y no se omitió ningún recibo, como sí dice la imputación.
+
+Afectados por los incendios forestales tendrán un beneficio en la planilla del agua
+===================================================================================
+
+El alcalde de Quito, Pabel Muñoz, detalló los trabajos que se realizarán en los barrios afectados por los incendios forestales.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Moradores de los barrios afectados ayudaron a controlar los incendios forestales con baldes con agua y mangueras](https://www.elcomercio.com/wp-content/uploads/2024/10/quito-incendio-a.jpg)
+
+El alcalde de Quito, **Pabel Muñoz**, informó que desde la Empresa Metropolitana de Agua Potable y Saneamiento de Quito (Epmaps) se gestionará para que parte de la ciudadanía no pague la planilla de agua de **septiembre**.
+
+Según detalló el burgomaestre en conversación con medios de comunicación, esta medida beneficiará a las personas que se vieron **afectadas** por los **incendios forestales**.
+
+### Más noticias
+
+* [Cortes de luz en Quito este miércoles 9 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-miercoles-9-octubre.html "Cortes de luz en Quito este miércoles 9 de octubre")
+* [Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera](https://www.elcomercio.com/actualidad/quito/operaciones-aeropuerto-quito-normales-huracan-milton.html "Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera")
+* [Marco Angulo, de Liga de Quito, fue operado tras siniestro de tránsito](https://www.elcomercio.com/deportes/marco-angulo-de-liga-de-quito-fue-operado-tras-siniestro-de-transito.html "Marco Angulo, de Liga de Quito, fue operado tras siniestro de tránsito")
+
+“Fíjense, si mi casa se iba a quemar y tuve que abrir unas cinco horas la llave con la manguera, es evidente que la cuenta de ese mes será importante; **no tendría sentido que les cobremos** la factura a los afectados”, comentó Muñoz.
+
+Esta acción se tomará una vez el departamento legal responda sobre si basta con una disposición administrativa o si se requiere de una reforma legislativa, que, en cualquiera de los casos, “se realizará **de inmediato**“, afirmó el funcionario.
+
+Informe de hidrantes tras emergencias
+-------------------------------------
+
+Muñoz agregó que tras recibir las observaciones que algunos **hidrantes** de los sectores aledaños a los incendios **no tenían agua**, pidió un informe de inspección a los mismos.
+
+“He pedido un informe y que se haga un cambio de los hidrantes con problemas, además, vamos a informar las condiciones de cada uno con **información precisa**, por ejemplo, pondremos papeles con la capacidad de cada hidrante”, manifestó.
+
+Así mismo explicó que, junto a la **Secretaría de Gestión de Riesgos**, se trabajará en la limpieza de los materiales pétreos que quedaron en los sitios producto de la vegetación quemada, y que podrían caer sobre las **vías** de los alrededores.
+
+“La limpieza la haremos analizando el **menor impacto**, seguramente un fin de semana y cerrando solo un carril”, puntualizó Muñoz.
+
+Incendios forestales en Quito
+-----------------------------
+
+El **Ministerio de Ambiente** indicó que, entre enero y septiembre de 2024, los **incendios forestales** registrados en varios puntos de Ecuador, asociados a un marcado déficit de lluvias, en comparación con los valores de años anteriores, afectaron a más de **39 700 hectáreas** de cobertura vegetal.
+
+En ese periodo, en todo el país, se contabilizaron **3 497 incendios forestales**. En Quito, entre julio y septiembre, fueron 314 incendios forestales y 1 823 quemas de desechos.
+
+Del 23 al 27 de septiembre, los días más críticos, el **Cuerpo de Bomberos** atendió 12 eventos y 91 quemas de desechos.
+
+La Selección de Ecuador vuelve a subir su valor de mercado
+==========================================================
+
+Moisés Caicedo es el jugador más valioso de la Selección de Ecuador con un valor superior a los 80 millones de dólares.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Willian Pacho celebra un gol marcado con la Selección de Ecuador en el 2023.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_mercado_1.jpg)
+
+Los 25 jugadores citados por la **Selección de Ecuador** están concentrados en la Casa de la Selección en Quito para lo que será la doble fecha de eliminatorias al Mundial 2026.
+
+El jueves 10 de octubre, desde las 16:00, la **Selección de Ecuador recibirá a Paraguay en el estadio Rodrigo Paz Delgado**, en lo que marcará el retorno de Gustavo Alfaro al país, tras haber estado al frente en el Mundial Catar 2022.
+
+### Más noticias:
+
+* [Lionel Messi y un emotivo mensaje para Andrés Iniesta, tras su retirada](https://www.elcomercio.com/deportes/futbol/lionel-messi-emotivo-mensaje-para-andres-iniesta-tras-su-retirada.html "Lionel Messi y un emotivo mensaje para Andrés Iniesta, tras su retirada")
+* [Siete etapas definen la Vuelta Ciclística a Ecuador 2024](https://www.elcomercio.com/deportes/ciclismo/vuelta-ciclistica-ecuador-2024-etapas.html "Siete etapas definen la Vuelta Ciclística a Ecuador 2024")
+* [Pedro Vite está nominado a un prestigioso premio en la MLS](https://www.elcomercio.com/deportes/futbol/pedro-vite-esta-nominado-a-un-prestigioso-premio-en-la-mls.html "Pedro Vite está nominado a un prestigioso premio en la MLS")
+
+El martes 15, desde las 18:30, tendrá que visitar a **Uruguay en el estadio Centenario de Montevideo por la fecha 10**, en medio de una tormenta desatada por el exseleccionado Luis Suárez en contra de Marcelo Bielda y sus tratos hacia los jugadores y los trabadores de la ‘Celeste’.
+
+La Tri ocupa el cuarto lugar en la tabla de posiciones con 11 puntos y un gol diferencia positivo de +2. En su hoja de ruta constan las **victorias ante Uruguay, Bolivia, Chile y Perú**, los empates con Colombia y Venezuela; y las derrotas contra Argentina y Brasil, siempre de visitante.
+
+Paraguay intenta estabilizar su camino con Gustavo Alfaro. En la tabla de posiciones son séptimos con 9 puntos: le **ganaron a Bolivia y Brasil**; empataron con Perú, Chile y Uruguay; y perdieron con Venezuela, Argentina y Colombia.
+
+Uruguay es tercera en la tabla de posiciones con 15 puntos: le ganaron a **Chile, Brasil, Argentina y Bolivia**; empataron con Colombia, Paraguay y Venezuela; y perdieron ante Ecuador.
+
+La Conmebol tiene seis cupos directos para el Mundial que lo organizan conjuntamente Estados Unidos, Canadá y México. Se suma un medio cupo para un repechaje.
+
+![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_mercado_3-1024x683.jpg)
+
+Foto: Diego Pallero / EL COMERCIO.
+
+La Selección de Ecuador sigue en ascenso
+----------------------------------------
+
+Una de las novedades de la Tri en la previa de enfrentar a los ‘guaraníes’ se produjo fuera de las canchas, puesto que su valor de mercado, según el sitio especializado Transfermarkt, se elevó en 10 millones de dólares, es decir, **pasó de 283 en septiembre, a 293 en octubre**.
+
+Los responsables de esta variación son **Willian Pacho**, cuyo valor pasó de los 38,3 millones a los 43,8 millones. Esto coincide con su primer trimestre en el Paris Saint-Germain, club que se interesó en el defensa central en el verano de 2024.
+
+**Joel Ordóñez**, defensa central titular del Club Brujas de Bélgica, pasó de los 6,5 a los 9,6 millones de dólares, con lo que se confirma que se trata de uno de los jugadores ecuatorianos con mejor proyección, pese a solo tener 20 años.
+
+**Jhoanner Chávez**, defensa del Lens de Francia, también sufrió una variación en su valor. Pasó de los 2,1 a los 4,3 millones de dólares.
+
+Finalmente, **John Mercado**, extremo izquierdo que milita en el AVS de Portugal subió a los 1,6 millones de dólares. En septiembre llegó a la Casa de la Selección con un valor estimado de 767 dólares.
+
+En comparación con Paraguay, **cuyo valor de mercado es de 151 millones de dólares**, existe prácticamente una diferencia de 2 a 1, siendo Julio César Enciso, mediocampista del Brighton & Hove Albion y compañero de Pervis Estupiñán, el mejor valorado con 24,1 millones.
+
+En Ecuador, **Moisés Caicedo, actual jugador del Chelsea y excompañero de Enciso en el Brighton**, tiene un valor de mercado de 82,2 millones de dólares, el más alto del equipo de Beccacece y el de todos los jugadores citados para este encuentro válido por la novena jornada de las eliminatorias mundialistas.
+
+![Joel Ordóñez con la Selección de Ecuador en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_mercado_2-1024x683.jpg)
+
+Joel Ordóñez con la Selección de Ecuador en el 2024.
+
+Valoraciones sudamericanas
+--------------------------
+
+1. **Brasil: 852 millones de dólares**
+
+2\. Argentina: 831
+
+**3\. Uruguay: 440**
+
+4\. Colombia: 342
+
+**5\. Ecuador: 293**
+
+6\. Paraguay: 151
+
+**7\. Venezuela: 89**
+
+8\. Chile: 80
+
+**9\. Perú: 36**
+
+10\. Bolivia: 16
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Cortes de luz en Cuenca este miércoles 9 de octubre
+===================================================
+
+Los cortes de luz en Cuenca para este miércoles 9 de octubre los define Centrosur.
+----------------------------------------------------------------------------------
+
+![Los cortes de luz en Cuenca el miércoles 9 de octubre los define Centrosur.](https://www.elcomercio.com/wp-content/uploads/2024/10/2030407-scaled.jpg)
+
+Los horarios de **cortes de luz** en **Cuenca** este **miércoles 9 de octubre** se mantienen con reducción de horas[.](https://es.wikipedia.org/wiki/Quito)
+
+**Centrosur** emitió el cronograma para este miércoles y fijó las franjas horarias y los sectores.
+
+### Más noticias:
+
+* [Mazar está por debajo del nivel para operar sin riesgo de sedimentos](https://www.elcomercio.com/actualidad/negocios/mazar-debajo-nivel-operar-riesgo-sedimentos.html "Mazar está por debajo del nivel para operar sin riesgo de sedimentos")
+* [Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz](https://www.elcomercio.com/actualidad/empresarios-acercamiento-gobierno-daniel-noboa-cortes-luz.html "Empresarios logran acercamiento con el Gobierno de Daniel Noboa por cortes de luz")
+
+De acuerdo a la disposición del Gobierno de **Daniel Noboa**, estos horarios cambiarán de viernes a sábado.
+
+El Gobierno aplica, desde la semana pasada, cortes de luz con horas reducidas.
+
+Ahora, los cortes entre semana ya no son de hasta 10 horas, como al inicio de la **emergencia** por la crisis energética.
+
+Los cortes son de hasta cuatro y cinco horas, por la disposición del Gobierno.
+
+Esto, pese a que el embalse de Mazar aún no está en condiciones óptimas y al pedido de los empresarios e industriales de reducir las 10 horas de cortes para su sector.
+
+Los cortes de luz en Cuenca este miércoles 9 de octubre
+-------------------------------------------------------
+
+Los cortes de luz en Cuenca para este 9 de octubre se mantienen con hasta cuatro horas de duración.
+
+Inician desde la madrugada y van entre una y dos franjas horarias.
+
+La reducción de las horas o el incremento dependerá de las condiciones hidrológicas que se presenten en el país.
+
+A continuación, los horarios de los cortes de luz en Cuenca por franjas y sectores:
+
+Gustavo Alfaro tuvo un agradable reencuentro con Ecuador
+========================================================
+
+Gustavo Alfaro, DT de Paraguay, regresó al país para enfrentar a la Selección de Ecuador y destacó el nivel de la Tri y su recibimiento.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Gustavo Alfaro, DT de Paraguay, en su regreso para enfrentar a la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000141275.jpg)
+
+La **Selección de Ecuador y la de Paraguay** se enfrentarán durante este jueves 10 de octubre del 2024 a las 16:00. El cotejo enfrentará a la Tri frente a su exentrenador Gustavo Alfaro, quien tiene gratos recuerdos del país y ve al combinado nacional en un buen momento.
+
+Este martes 8 de octubre del 2024, la ‘**Albirroja**‘ celebró su penúltimo entrenamiento antes de medirse al combinado tricolor. A las 16:00, el equipo saltó al terreno de juego del Estadio Olímpico Atahualpa y realizó las prácticas.
+
+### Más noticias:
+
+* [Paraguay apunta a ganar a la Selección de Ecuador como visitante](https://www.elcomercio.com/deportes/seleccion-ecuador-paraguay-entrenamientos-eliminatorias.html "Paraguay apunta a ganar a la Selección de Ecuador como visitante")
+* [Jugadores de la Selección de Ecuador rindieron homenaje a Roberto Cabezas](https://www.elcomercio.com/deportes/seleccion-ecuador-roberto-cabezas-fallecimiento.html "Jugadores de la Selección de Ecuador rindieron homenaje a Roberto Cabezas")
+* [Óscar Zambrano, emocionado por volver a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/oscar-zambrano-emocionado-por-volver-a-la-seleccion-de-ecuador.html "Óscar Zambrano, emocionado por volver a la Selección de Ecuador")
+
+Después de que los arqueros **Roberto Fernández y Luis Espínola** señalaran como objetivo el llevarse los tres puntos de Quito, Alfaro se tomó unos minutos e interactuó con la prensa. Aunque no estaba en el itinerario, este brindó unas palabras y compartió con los presentes antes de sumarse a sus dirigidos.
+
+El entrenador argentino **rompió el protocolo** estipulado e ingresó por una de las rampas a la tribuna del escenario. Allí, este se acercó a los periodistas, les preguntó por su pasar y, frente a frente y con la mano en el hombro de uno de ellos, contestó **incógnitas** y se refirió a su llegada[.](https://en.wikipedia.org/wiki/Paraguay_national_football_team "https://en.wikipedia.org/wiki/Paraguay_national_football_team")
+
+Dulces recuerdos para Gustavo Alfaro con la Selección de Ecuador
+----------------------------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DA4NtA6RWwY/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DA4NtA6RWwY/?utm_source=ig_embed&utm_campaign=loading)
+
+Al abordar a la prensa, **Alfaro** se refirió a las sensaciones que le provocaba el retornar al país y lo que vivió al mando de la **Selección de Ecuador**. Este sostuvo que no olvida lo conseguido y también le provoca emociones el haber regresado.
+
+“L**as emociones que uno tiene desde que llegó aquí el primer día en septiembre, hace tiempo atrás, al poder vivirlas de nuevo, afloran en mí por todos lados. Tengo una gratitud muy grande hacia el pueblo ecuatoriano, los jugadores, hacia todos y es un placer estar aquí**“, manifestó el argentino.
+
+El entrenador, además, sostuvo que extraña **Ecuador**, aunque el equipo tricolor no ha cambiado demasiado.
+
+¿Qué espera Alfaro de la Tri?
+-----------------------------
+
+Con respecto a la **Selección de Ecuador**, Gustavo Alfaro sostuvo que ve un equipo que es muy bueno y muy fuerte. Pese a ello, este tampoco hizo de menos a la ‘Albirroja’ que ahora dirige y dio un anticipo de lo que espera del cotejo.
+
+“La veo (a la Tri) muy difícil. Ecuador tiene una gran selección y **Paraguay** también. Va a ser un lindo partido”, agregó.
+
 CNE negó inscripción de la lista para asambleístas nacionales a cuatro organizaciones políticas
 ===============================================================================================
 
@@ -376,683 +970,3 @@ El siniestro en el cual falleció **Roberto Cabezas** también involucró a otro
 Los futbolistas y los demás ocupantes del automóvil se impactaron con una viga de 50 toneladas en la Autopista General Rumiñahui. Además de **Cabezas**, otro de los individuos que lo acompañaban falleció.
 
 En el caso de **Angulo**, este ya se encuentra estable, pero está en terapia intensiva y su pronóstico es reservado. Tras una primera cirugía –**craniectomía descompresiva**– se espera la evolución del futbolista y su reacción para sacarlo de un coma inducido.
-
-X vuelve a Brasil, pero con varias condiciones
-==============================================
-
-La red social fue bloqueada en este país el 31 de agosto, alegando incumplimientos fiscales.
---------------------------------------------------------------------------------------------
-
-![Elon Musk, dueño de la red social, cerró sus oficinas en Brasil por desacuerdos con el gobierno](https://www.elcomercio.com/wp-content/uploads/2024/10/musk.jpg)
-
-La red social **X** volvió estar disponible en **Brasil**, pero con varias condiciones, tras el bloqueo que sufrió por parte de la justicia de este país.
-
-“X está orgullosa de regresar a Brasil” fue el mensaje con el que la oficina de **Asuntos Gubernamentales** de la plataforma informó este martes 8 de octubre de 2024 su regreso.
-
-### Más noticias
-
-* [Fans de Karol G hurgaron en sus redes y se encontraron con ‘Diddy’ Combs](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-diddy-combs-fans-redes-sociales.html "Fans de Karol G hurgaron en sus redes y se encontraron con ‘Diddy’ Combs")
-* [(Video) Christian Nodal explota contra la toxicidad de redes sociales](https://www.elcomercio.com/afull/video-christian-nodal-explota-contra-la-toxicidad-de-redes-sociales.html "(Video) Christian Nodal explota contra la toxicidad de redes sociales")
-* [WhatsApp planea modificar la función de “escribiendo” en los chats](https://www.elcomercio.com/tecnologia/whatsapp-funcion-escribiendo-actualizacion.html "WhatsApp planea modificar la función de “escribiendo” en los chats ")
-
-El breve comunicado, que representa la primera manifestación oficial por parte de X luego de conocerse la **resolución judicial**, fue publicado en la misma red social.
-
-El mensaje aclara que durante todo el proceso, lo “primordial” fue restablecer el acceso de su “indispensable” plataforma a “**decenas de millones de brasileños**” y que continuarán “defendiendo la libertad de expresión dentro de los límites de la ley”.
-
-Por parte del Gobierno, fue el Ministro de Comunicaciones de Brasil, **Juscelino Filho**, el encargado de emitir una comunicación, y celebró como “una victoria para el país” que la red social “se haya adaptado a la legislación”.
-
-Multa millonaria
-----------------
-
-Este martes, el juez del Supremo Tribunal Federal, **Alexandre de Moraes**, responsable de la causa, había solicitado el desbloqueo de la red social propiedad de **Elon Musk** luego de que la misma pague una multa de **5,2 millones de dólares**.
-
-Asimismo, Moraes afirmó que el desbloqueo está “condicionado” al “cumplimiento integral” por parte de la red social de la legislación brasileña y a la “absoluta observancia” de las decisiones judiciales sobre la eliminación de perfiles acusados de difundir **noticias falsas**.
-
-Poco antes del anuncio del magistrado, la **Fiscalía** General de la República ya se había mostrado favorable al restablecimiento de X al no percibir “asuntos pendientes” que impidieran el regreso de la plataforma.
-
-Bloqueo de X en Brasil
-----------------------
-
-La pugna entre la red social, su dueño Elon Musk y el Gobierno de **Brasil** comenzó en enero de este año.
-
-Un juez ordenó una investigación contra los directivos de X por la presunta difusión de noticias falsas difamatorias y pidió que se bloqueen las cuentas desde donde se supone venía la desinformación.
-
-Musk por su parte, contraatacó retirando sus **oficinas** en Brasil y declarando que para él lo principal es la libertad de expresión.
-
-Finalmente, la escalada de desacuerdos llevó a que Moraes solicitara formalmente el bloqueo de X en el país sudamericano el **sábado 31 de agosto**, alegando incumplimientos judiciales. _**Con información de EFE**_.
-
-Cortes de luz en Guayaquil este miércoles 9 de octubre
-======================================================
-
-Los cortes de luz en Guayaquil el miércoles 9 de octubre, día que se conmemoran 204 años de su independencia.
--------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz programados para este miércoles 9 de octubre en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz.png)
-
-Los **cortes de luz** en **Guayaquil** este miércoles 9 de octubre de 2024 son programados por CNEL EP.
-
-Este día, la urbe porteña conmemorará sus **204 años de independencia**.
-
-### Más noticias:
-
-* [Guayaquil tendrá tres sesiones solemnes por su independencia](https://www.elcomercio.com/actualidad/politica/guayaquil-tres-sesiones-solemnes-independencia-9-octubre.html "Guayaquil tendrá tres sesiones solemnes por su independencia")
-* [Niño queda en coma tras accidente en escuela de Guayaquil](https://www.elcomercio.com/actualidad/ecuador/nino-queda-en-coma-tras-accidente-en-escuela-de-guayaquil.html "Niño queda en coma tras accidente en escuela de Guayaquil")
-
-El Gobierno aplica, desde la semana pasada, cortes de luz con horas reducidas.
-
-Ahora, los cortes entre semana ya no son de hasta 10 horas, como al inicio de la emergencia por la crisis energética.
-
-Los cortes son de hasta cuatro y cinco horas, desde la disposición del Gobierno.
-
-Esto, pese a que el embalse de Mazar aún no está en condiciones óptimas y al pedido de los empresarios e industriales de reducir las 10 horas de cortes para su sector.
-
-Los horarios de cortes de luz en Guayaquil este miércoles 9 de octubre
-----------------------------------------------------------------------
-
-Los cortes de luz en Guayaquil para este 9 de octubre se mantienen con hasta cuatro horas de duración.
-
-Inician desde la madrugada y van entre una y dos franjas horarias.
-
-La reducción de las horas o el incremento dependerá de las condiciones hidrológicas que se presenten en el país.
-
-A continuación, los horarios de los cortes de luz en Guayaquil por franjas y sectores:
-
-  
-
-Beatriz de York espera su segundo hijo, alegrando a la familia real británica
-=============================================================================
-
-Este bebé, que nacerá en 2025, será el segundo hijo de la pareja y el undécimo en la línea de sucesión al trono.
-----------------------------------------------------------------------------------------------------------------
-
-![La familia real británica en el balcón de Buckingham.](https://www.elcomercio.com/wp-content/uploads/2024/10/NGH02-BRITAIN-ROYALTY.webp)
-
-La **familia real británica** finalmente tiene motivos para celebrar. Beatriz de York, la hija mayor del príncipe Andrés, está esperando su segundo hijo junto a su esposo Edoardo Mapelli Mozzi. La **Casa Real** ha hecho este anuncio a través de un **comunicado oficial**. Esta es no solo una buena noticia para la pareja, sino también un alivio para la familia en un momento delicado para la **monarquía**.
-
-### Más noticias
-
-* [Kate Middleton confirma el fin de su quimioterapia](https://www.elcomercio.com/afull/kate-middleton-quimioterapia-cancer.html "Kate Middleton confirma el fin de su quimioterapia")
-* [Mire las imágenes de Kate Middleton en su primera aparición pública desde que anunció su enfermedad](https://www.elcomercio.com/actualidad/mundo/imagenes-kate-middleton-primera-aparicion-publica-diagnosticada-de-cancer.html)
-* [Fallece el tercer cuervo de la Torre de Londres y crece el temor por la profecía real](https://www.elcomercio.com/tendencias/curiosidades/fallece-tercer-cuervo-torre-londres-rece-el-temor-profecia-real.html "Fallece el tercer cuervo de la Torre de Londres y crece el temor por la profecía real")
-
-Aunque el **rey Carlos III** no ha comentado directamente, el comunicado de la **familia real** indica que “su Majestad el Rey ha sido informado y ambas familias están encantadas con la noticia”, lo que sugiere que Carlos está al tanto y comparte la alegría por la llegada de un nuevo integrante, prevista para 2025.
-
-Este bebé será el segundo hijo de **Beatriz y Edoardo**, quienes ya tienen una hija, **Sienna Elizabeth**, nacida en 2021. Además, el **nuevo integrante** tendrá un medio hermano, Christopher Woolf, apodado cariñosamente Wolfie, hijo de una relación anterior de Edoardo. La **familia real** ha subrayado la **relevancia** de este nuevo miembro, quien, aunque no tendrá un título nobiliario, ocupará el undécimo lugar en la línea de sucesión al **trono británico.** Con el nacimiento de este niño, los duques de York, Andrés y Sarah Ferguson, darán la bienvenida a su cuarto nieto, después de que su otra hija, Eugenia, tuviera a August y Ernest.
-
-> 🎉🍼 Her Royal Highness Princess Beatrice and Mr Edoardo Mapelli Mozzi are very pleased to announce that they are expecting their second child together early in the new year; a sibling for Wolfie and Sienna.  
->   
-> 👑 His Majesty The King has been informed and both families are… [pic.twitter.com/wa5XddwMsJ](https://t.co/wa5XddwMsJ)
-> 
-> — The Royal Family (@RoyalFamily) [October 1, 2024](https://twitter.com/RoyalFamily/status/1841134846888067206?ref_src=twsrc%5Etfw)
-
-Un rayo de esperanza en momentos difíciles
-------------------------------------------
-
-**Este embarazo** llega en un momento en que la **familia real necesita razones para celebrar**, ante una serie de noticias que han mantenido a la institución bajo presión. **La salud del rey Carlos III y de Kate Middleton**, la princesa de Gales, sigue siendo motivo de preocupación para el palacio. Ambos están luchando contra el cáncer y, aunque parecen mostrar signos de mejoría, su **recuperación total** aún no se ha confirmado.
-
-Ecuador aún debe esperar para que se concrete el nuevo crédito del FMI
-======================================================================
-
-Ecuador gestiona un nuevo crédito del FMI, previsto para 2025, destinado a impulsar políticas ambientales y económicas.
------------------------------------------------------------------------------------------------------------------------
-
-![Juan Carlos Vega, ministro de Economía y Finanzas. Foto: Ministerio de Finanzas](https://www.elcomercio.com/wp-content/uploads/2024/04/Juan-Carlos-Vega-Ecuador.jpg)
-
-El **Gobierno ecuatoriano** espera concretar un nuevo préstamo de**l Fondo Monetario Internacional** (FMI) el año que viene. Así lo confirmó el ministro de Economía y Finanzas, **Juan Carlos Vega**, este 8 de octubre de 2024, durante la **Expoflor Ecuador 2024**, desarrollada en Quito[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [FMI dice que Ecuador es elegible, ¿de qué se trata el crédito?](https://www.elcomercio.com/actualidad/negocios/ecuador-credito-fmi-bajo-programa-resiliencia-sostenibilidad.html "FMI dice que Ecuador es elegible, ¿de qué se trata el crédito?")
-* [El BID aprueba nuevo préstamo para Ecuador](https://www.elcomercio.com/actualidad/negocios/bid-aprueba-nuevo-prestamo-ecuador-creditos.html "El BID aprueba nuevo préstamo para Ecuador")
-* [Ecuador y Japón acuerdan préstamo para proyecto geotérmico en Chachimbiro](https://www.elcomercio.com/actualidad/negocios/ecuador-y-japon-acuerdan-prestamo-para-proyecto-geotermico-en-chachimbiro.html "Ecuador y Japón acuerdan préstamo para proyecto geotérmico en Chachimbiro")
-
-Vega explicó que este crédito sería un complemento al acuerdo que ya mantiene el país con el FMI y se espera que se concrete a mediados de 2025.
-
-El Ministro señaló que los fondos estarán destinados a impulsar la **política ambiental y el crecimiento económico del país**. Este financiamiento, aún en evaluación por el FMI, está vinculado al programa Servicio de Resiliencia y Sostenibilidad (SRS o RSF, por sus siglas en inglés).
-
-El 3 de octubre de 2024, el FMI confirmó que las autoridades ecuatorianas están considerando solicitar un nuevo crédito. **Julie Kozack**, directora del departamento de comunicaciones del FMI, informó en una conferencia de prensa en Washington que Ecuador es **elegible** para este tipo de **financiamiento**.
-
-El **programa RSF,** que dura hasta 18 meses, está destinado a proyectos relacionados con el cambio climático o la preparación ante **pandemias**. El crédito ayudaría a financiar tanto la política ambiental como el crecimiento económico del país.
-
-Esta solicitud se suma al programa ya aprobado en mayo pasado. Alí Ecuador accedió a un crédito de 4 000 millones de dólares, de los cuales se desembolsaron 1 000 millones de manera inmediata bajo el Servicio Ampliado del Fondo (SAF). El objetivo es estabilizar la economía y salvaguardar la dolarización.
-
-Por otro lado, el ministro Vega señaló que en su reciente visita a **China** se discutió con autoridades y entidades financieras sobre posibles inversiones en proyectos de energía y seguridad ciudadana. El viaje, realizado el 24 de septiembre, tenía como objetivo fortalecer la relación financiera bilateral.
-
-‘El diario de Bridget Jones 4’ hizo llorar a Hugh Grant
-=======================================================
-
-Elenco renovado, humor y drama, Bridget Jones 4 promete ser un éxito.
----------------------------------------------------------------------
-
-![Renée Zellweger regresará como Bridget Jones en la cuarta película de la saga. Foto: Pinterest](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-5.jpg)
-
-Buenas noticias para los fans de **Bridget Jones.** La nueva cinta de la saga, titulada ‘Bridget Jones: Loca por él’, traerá de regreso al **actor Hugh Grant** en el papel del mujeriego Daniel Cleaver.
-
-El personaje es uno de los más icónicos de la comedia romántica británica. Grant, en una reciente entrevista que recoge el sitio Ok Diario, ofreció detalles sobre lo que podrá esperar de esta secuela.
-
-### Más noticias
-
-* **[‘El diablo viste a la moda 2’ tiene excelentes noticias para sus fans](https://www.elcomercio.com/afull/el-diablo-viste-a-la-moda-2-tiene-excelentes-noticias-para-sus-fans.html "https://www.elcomercio.com/afull/el-diablo-viste-a-la-moda-2-tiene-excelentes-noticias-para-sus-fans.html")**
-* **[‘El Conjuro 4’ ya tiene fecha de estreno](https://www.elcomercio.com/tendencias/el-conjuro-4-estreno-cine-terror-los-warren.html "https://www.elcomercio.com/tendencias/el-conjuro-4-estreno-cine-terror-los-warren.html")**
-
-La cinta estará marcada por la nostalgia, el humor y, sorprendentemente, una carga emocional que la convierte en un “cóctel muy, muy triste”, dijo.
-
-![Hugh Grant. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-7-1024x683.jpg)
-
-Hugh Grant. Foto: Facebook
-
-“Me encantó el guion, me hizo llorar, y quise echar una mano… Pero ahí no hay ni rastro de Daniel Cleaver. Querían que estuviese y al final hicieron algo que no me hacía demasiada gracia”, contó el actor, según la revista **[Vanity Fair](https://www.revistavanityfair.es/articulos/hugh-grant-entrevista-heretic-hereje-bridget-jones "https://www.revistavanityfair.es/articulos/hugh-grant-entrevista-heretic-hereje-bridget-jones")**. Así que escribió algunas escenas y así se unió al elenco.
-
-Un clásico de la comedia romántica
-----------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-2-1024x683.jpg)
-
-‘El diario de Bridget Jones’ se estrenó en 2001 y fue un éxito. Protagonizada por [Renée Zellweger](https://www.instagram.com/renee__zellweger/?hl=es "https://www.instagram.com/renee__zellweger/?hl=es"), cuenta la historia de una mujer soltera de 30 años que busca el amor.
-
-La película está basada en el libro de Helen Fielding y mezcla humor con temas de inseguridad y relaciones. Hugh Grant y Colin Firth interpretaron a los intereses amorosos de Bridget. Recaudó más de 280 millones de dólares en taquilla. La puedes ver [aquí](https://www.primevideo.com/-/es/detail/El-Diario-de-Bridget-Jones/0PQH7ET15KWTAD2P4COEJLVNJ5 "https://www.primevideo.com/-/es/detail/El-Diario-de-Bridget-Jones/0PQH7ET15KWTAD2P4COEJLVNJ5").
-
-Más enredos amorosos y nuevas sorpresas
----------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-1-1024x683.jpg)
-
-‘Bridget Jones: Al borde de la razón’ se estrenó en 2004 y retomó la historia de la querida Bridget. La película sigue las nuevas aventuras amorosas y personales de Bridget, ahora en una relación con Mark Darcy.
-
-Las inseguridades y los malentendidos la llevan a enfrentarse a situaciones aún más caóticas que en la primera entrega. También tuvo a [Hugh Grant](https://www.instagram.com/hughgrantphotos/?hl=es) regresa como Daniel Cleaver. La cinta recaudó más de 260 millones de dólares a escala mundial. La puedes ver [aquí](https://tv.apple.com/ec/movie/bridget-jones-al-borde-de-la-razon/umc.cmc.75dndzzkt396mkwauh71gu6dh "https://tv.apple.com/ec/movie/bridget-jones-al-borde-de-la-razon/umc.cmc.75dndzzkt396mkwauh71gu6dh").
-
-La inesperada llegada de un bebé
---------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-3-1024x683.jpg)
-
-‘Bridget Jones’ Baby’ llegó en 2016 y sorprendió con una nueva etapa en la vida de Bridget. En esta entrega, la protagonista descubre que está embarazada, pero no está segura de quién es el padre.
-
-Mark Darcy, interpretado nuevamente por [Colin Firth](https://www.instagram.com/colinfirthie/?hl=es "https://www.instagram.com/colinfirthie/?hl=es"), y el personaje de Jack, encarnado por **[Patrick Dempsey](https://www.instagram.com/patrickdempsey/?hl=es-la "https://www.instagram.com/patrickdempsey/?hl=es-la")** (‘[Grey’s Anatomy’](https://www.disneyplus.com/es-co/series/greys-anatomy/6P4ZI3bWwSDj "https://www.disneyplus.com/es-co/series/greys-anatomy/6P4ZI3bWwSDj")), se ven envueltos en esta divertida incertidumbre. Superó los 210 millones de dólares en taquilla. Está disponible [aquí](https://www.primevideo.com/dp/amzn1.dv.gti.0fcb7c33-31d0-4f6b-b8f2-3f8d48e7b297?autoplay=0&ref_=atv_cf_strg_wb "https://www.primevideo.com/dp/amzn1.dv.gti.0fcb7c33-31d0-4f6b-b8f2-3f8d48e7b297?autoplay=0&ref_=atv_cf_strg_wb").
-
-¿Qué esperar de Bridget Jones 4?
---------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-4-1024x683.jpg)
-
-La cuarta entrega de _Bridget Jones_ está en camino. Renée Zellweger regresará como Bridget. La protagonista enfrentará nuevas complicaciones amorosas. Esta vez, la historia será más madura y emotiva.
-
-Hugh Grant también regresa como Daniel Cleaver. Él mencionó que el guion es cómico y muy triste. “Es un drama emocional que conectará con los fans”, dijo.
-
-Grant dudó en retomar su papel, pero aceptó tras leer el guion. Su personaje ahora tiene más de 60 años. “No puede simplemente fijarse en chicas jóvenes”, explicó.
-
-La nueva película se basa en la novela ‘Mad about the Boy’ (‘Loca por el chico’). En el libro, Bridget es viuda y madre de dos hijos y a los 51 años enfrenta la vida tras la muerte de Mark Darcy.
-
-La historia, en el texto, comienza cinco años después de su pérdida. Cleaver intenta animar a Bridget en su duelo. La causa de la muerte de Mark se revelará al final, generando intriga.
-
-Ingreso de otros talentos
--------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-6-1024x683.jpg)
-
-Habrá importantes adiciones al elenco como Emma Thompson, Chiwetel Ejiofor e Isla Fisher. Fotos: IMDB
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/bridget-jones-El-comercio-1024x683.jpg)
-
-En esta nueva entrega no veremos al actor Colin Firth como Mark Darcy. Foto: IMDB
-
-Uno de los cambios más significativos en ‘Bridget Jones: Loca por él’ será la ausencia de Colin Firth como Mark Darcy, quien fue el interés amoroso de Bridget en las tres primeras películas.
-
-Aunque esto pueda ser una decepción para los seguidores, la producción los compensó con la inclusión de grandes talentos como Emma Thompson, Chiwetel Ejiofor e Isla Fisher.
-
-¿Cuándo se estrena ‘Bridget Jones 4’?
--------------------------------------
-
-La película, dirigida por Sharon Maguire, se estrenará el 14 de febrero de 2025, coincidiendo con el Día de San Valentín, un guiño perfecto para los fans de la comedia romántica.
-
-En esta nueva entrega no veremos a Colin Firth como Mark Darcy, pero sí habrá importantes adiciones al elenco como Emma Thompson, Chiwetel Ejiofor y Leo Woodall.
-
-Nuevo ataque armado en Durán deja cuatro asesinados
-===================================================
-
-Los atacantes habrían fingido ser del Ejército para cometer la masacre.
------------------------------------------------------------------------
-
-![Policías y militares cercaron el lugar tras el hecho](https://www.elcomercio.com/wp-content/uploads/2024/10/militares.jpg)
-
-**Cuatro personas** fueron **asesinadas** en un nuevo ataque armado registrado en el cantón **Durán**, en la provincia de Guayas.
-
-La **masacre** tuvo lugar en la Segunda Etapa del barrio El Recreo, cerca del mediodía de este martes 8 de octubre de 2024.
-
-### Más noticias
-
-* [Niño queda en coma tras accidente en escuela de Guayaquil](https://www.elcomercio.com/actualidad/ecuador/nino-queda-en-coma-tras-accidente-en-escuela-de-guayaquil.html "Niño queda en coma tras accidente en escuela de Guayaquil")
-* [Ataque armado en Guayas deja un militar fallecido](https://www.elcomercio.com/actualidad/seguridad/ataque-armado-en-guayas-deja-un-militar-fallecido.html "Ataque armado en Guayas deja un militar fallecido")
-* [Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil](https://www.elcomercio.com/actualidad/seguridad/agresores-sexuales-estados-unidos-guayaquil.html "Dos agresores sexuales fueron devueltos a Estados Unidos desde Guayaquil")
-
-Según información de la **Policía Nacional**, un grupo de al menos 10 desconocidos **vestidos con uniformes del Ejército** llegaron al lugar en dos vehículos.
-
-Los sospechosos fingieron realizar un **control de seguridad** para llevar a las víctimas a otro sitio. En este punto, los habrían arrodillado y **disparado a matar**.
-
-Las vainas percudidas que recuperó la Policía evidenció que al menos hubo una ráfaga de **28 tiros**.
-
-Un quinto hombre **sobrevivió** al ataque; el afectado se recupera de los balazos recibidos.
-
-Las cuatro víctimas tenían entre **18 y 30 años**.
-
-Si bien no registraban antecedentes, se presume que pertenecían a una **banda criminal** que era rival a la de los atacantes.
-
-Tras cometer el múltiple asesinato, los desconocidos huyeron. La Policía continúa en la búsqueda de los atacantes.
-
-Mientras que **Criminalística** realizó el levantamiento de los cuerpos.
-
-Desconocidos asesinaron a un militar en servicio activo
--------------------------------------------------------
-
-La violencia y la delincuencia en Guayas **no cesa**. Dos de los 19 cantones con **toque de queda** pertenecen a esta provincia: Durán y Balao; sin embargo, la criminalidad se mantiene.
-
-En otro reciente hecho, un **militar en servicio activo** fue asesinado la noche del 7 de octubre, mientras custodiaba el Poliducto Pascuales-La Troncal.
-
-El subteniente **Christian Morales** habría notado la extraña presencia de un vehículo en los alrededores, cerca de la medianoche, por lo que se acercó a investigar.
-
-Al aproximarse, dos desconocidos **le dispararon** sin darle tiempo a reaccionar y huyeron del sitio.
-
-Los uniformados trasladaron al militar hacia un hospital de **Daule**, pero por la gravedad de las heridas falleció en la madrugada de este martes 8 de octubre.
-
-El Ejército ecuatoriano calificó el hecho como **terrorista** y ofreció sus condolencias.
-
-“Expresamos nuestras condolencias y solidaridad a los familiares del subteniente Christian Morales, quien ofrendó su vida en cumplimiento al sagrado juramento de defender a sus conciudadanos y la Patria” dijo la institución.
-
-> El Ejército Ecuatoriano expresa su profunda nota de pesar ante el sensible fallecimiento del subteniente de Ingeniería (+) Christian Fabricio Morales Amán.  
->   
-> Paz en su tumba. [#EjércitoECU](https://twitter.com/hashtag/Ej%C3%A9rcitoECU?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/llpIG5iybF](https://t.co/llpIG5iybF)
-> 
-> — Ejército Ecuatoriano (@EjercitoECU) [October 8, 2024](https://twitter.com/EjercitoECU/status/1843643768635044127?ref_src=twsrc%5Etfw)
-
-Cortes de luz en Quito este miércoles 9 de octubre
-==================================================
-
-Los cortes de luz en Quito para este miércoles 9 de octubre mantienen la disposición de reducción de horas del Gobierno.
-------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito para este miércoles 9 de octubre se mantienen.](https://www.elcomercio.com/wp-content/uploads/2024/10/corte-de-luz-2.jpg)
-
-Los horarios de **cortes de luz** en **Quito** este **miércoles 9 de octubre** se mantienen hasta el jueves 10[.](https://es.wikipedia.org/wiki/Quito)
-
-La Empresa Eléctrica Quito unificó los horarios desde el lunes 7 de octubre hasta el jueves.
-
-### Más noticias:
-
-* [Lluvias con tormentas se prevén la tarde de este 8 de octubre en Quito](https://www.elcomercio.com/actualidad/quito/quito-lluvias-con-tormentas-se-preven-tarde-8-de-octubre.html "Lluvias con tormentas se prevén la tarde de este 8 de octubre en Quito")
-* [Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera](https://www.elcomercio.com/actualidad/quito/operaciones-aeropuerto-quito-normales-huracan-milton.html "Huracán Milton afecta a los vuelos, aeropuerto de Quito está a la espera")
-
-Estos horarios cambiarán de viernes a sábado.
-
-El Gobierno aplica, desde la semana pasada, cortes de luz con horas reducidas.
-
-Ahora, los cortes entre semana ya no son de hasta 10 horas, como al inicio de la emergencia por la crisis energética.
-
-Los cortes son de hasta cuatro y cinco horas, desde la disposición del Gobierno.
-
-Esto, pese a que el embalse de Mazar aún no está en condiciones óptimas y al pedido de los empresarios e industriales de reducir las 10 horas de cortes para su sector.
-
-Los cortes de luz para Quito este miércoles 9 de octubre
---------------------------------------------------------
-
-Los cortes de luz en Quito para este 9 de octubre se mantienen con hasta cuatro horas de duración.
-
-Inician desde la madrugada y van entre una y dos franjas horarias.
-
-La reducción de las horas o el incremento dependerá de las condiciones hidrológicas que se presenten en el país.
-
-A continuación, los horarios de los cortes de luz en Quito por franjas y sectores:
-
-Asamblea Nacional aprobó la creación de un nuevo cantón
-=======================================================
-
-La Asamblea Nacional aprobó la creación del cantón Sevilla Don Bosco en Morona Santiago, beneficiando a 13 mil habitantes.
---------------------------------------------------------------------------------------------------------------------------
-
-![Asamblea Nacional sesionó este 8 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/asamblea-ac.jpg)
-
-El 8 de octubre de 2024, la **Asamblea Nacional** aprobó, por unanimidad y con 116 votos afirmativos, la creación del cantón **Sevilla Don Bosco**. Este nuevo cantón estará ubicado en la provincia de **Morona Santiago**, en la región amazónica del Ecuador.
-
-### Más noticias
-
-* [Asamblea Nacional votó tres veces y no logró nombrar Primer Vicepresidente](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-voto-tres-veces-y-no-logro-nombrar-primer-vicepresidente.html "Asamblea Nacional votó tres veces y no logró nombrar Primer Vicepresidente")
-* [Asamblea elegirá a quien asumirá la Primera Vicepresidencia](https://www.elcomercio.com/actualidad/politica/asamblea-elegira-quien-asumira-primera-vicepresidencia.html "Asamblea elegirá a quien asumirá la Primera Vicepresidencia")
-* [La Vicepresidencia de la Asamblea Nacional tendrá un nuevo rostro](https://www.elcomercio.com/actualidad/politica/la-vicepresidencia-asamblea-nacional-tendra-nuevo-rostro.html "La Vicepresidencia de la Asamblea Nacional tendrá un nuevo rostro")
-
-La decisión busca mejorar la **administración pública y fomentar el desarrollo económico** y social de la zona. La creación del cantón beneficiará a más de **13 mil habitantes**, en su mayoría de la nacionalidad shuar.
-
-> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw)  
-> El Pleno de la Asamblea Nacional, por unanimidad, con 116 votos afirmativos, aprobó la creación del cantón [#SevillaDonBosco](https://twitter.com/hashtag/SevillaDonBosco?src=hash&ref_src=twsrc%5Etfw) en la provincia de Morona Santiago, la decisión busca promover el desarrollo económico y social de la región, facilitando una… [pic.twitter.com/6TKHIAH7H4](https://t.co/6TKHIAH7H4)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [October 8, 2024](https://twitter.com/AsambleaEcuador/status/1843778056101458301?ref_src=twsrc%5Etfw)
-
-**Victoria Desintonio**, presidenta de la **Comisión de Gobiernos Autónomos**, destacó la importancia de esta decisión. Resaltó que es un acto de justicia para los habitantes de **Sevilla Don Bosco**.
-
-La nueva administración pretende acercar los recursos públicos a la comunidad de forma más eficiente. También mencionó que la riqueza cultural de la **zona será preservada y promovida**.
-
-Apoyo de la comunidad y autoridades locales
--------------------------------------------
-
-Durante el debate en la Comisión General, **Ciro Chumpi**, presidente del GAD de Sevilla Don Bosco, expresó que el presupuesto estatal actual es **insuficiente para atender las necesidades** de la parroquia. En este contexto, la cantonización permitirá nuevas oportunidades de progreso para la población.
-
-**Nanki Saant**, comunero y asambleísta alterno, destacó que los habitantes han soñado durante años con este momento.
-
-> Por unanimidad, con 116 votos afirmativos, la Asamblea Nacional le dice SÍ a [#SevillaDonBosco](https://twitter.com/hashtag/SevillaDonBosco?src=hash&ref_src=twsrc%5Etfw), el nuevo cantón del [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/gS4qQRYqC6](https://t.co/gS4qQRYqC6)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [October 8, 2024](https://twitter.com/AsambleaEcuador/status/1843732104762581311?ref_src=twsrc%5Etfw)
-
-**Francisco Andramuño**, alcalde de Morona, también apoyó la decisión, indicando que la cantonización impulsará el desarrollo local. Mencionó que con esta medida, **Sevilla Don Bosco** se convertirá en un referente de progreso y oportunidades.
-
-El beneficio alcanzará tanto a la población mestiza como a las nacionalidades **indígenas de la región**.
-
-Joe Biden afirma que Milton podría ser el peor huracán en golpear Florida
-=========================================================================
-
-El Centro Nacional de Huracanes de Estados Unidos advirtió que "hoy es el último día para que los residentes de Florida se preparen".
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Un restaurante está rodeado de bolsas de arena mientras la ciudad se prepara para el huracán Milton en Bonita Beach, Florida, EE. UU., 8 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/3857e444c3e9428969fbd1d15010b8de746c0c39-2.jpg)
-
-El presidente de Estados Unidos, Joe Biden, advirtió este martes, 8 de octubre de 2024, que el [huracán Milton](https://www.elcomercio.com/actualidad/mundo/huracan-milton-danos-valor-175-000-millones-dolares.html "https://www.elcomercio.com/actualidad/mundo/huracan-milton-danos-valor-175-000-millones-dolares.html") podría ser el “**peor” en golpear el estado de Florida** en un siglo y pidió a las personas que se encuentran en la trayectoria de la tormenta que evacuen lo antes posible.
-
-### Más noticias
-
-* [Huracán Milton se convierte de nuevo en huracán de categoría 5](https://www.elcomercio.com/actualidad/mundo/huracan-milton-danos-valor-175-000-millones-dolares.html "Huracán Milton se convierte de nuevo en huracán de categoría 5")
-* [(Video) Huracán Milton: Meteorólogo llora por la llegada del monstruo categoría 5 a Florida](https://www.elcomercio.com/actualidad/mundo/huracan-milton-meteorologo-llora-describir-fuerza-monstruo-categoria-5-hacia-florida.html "(Video) Huracán Milton: Meteorólogo llora por la llegada del monstruo categoría 5 a Florida")
-* [El avión caza-huracanes WP-3D Orion voló directo al huracán Milton](https://www.elcomercio.com/actualidad/mundo/avion-caza-huracanes-wp-3d-orion-volo-directo-huracan-milton.html "El avión caza-huracanes WP-3D Orion voló directo al huracán Milton")
-
-“Podría ser el **peor huracán que azote Florida** en más de un siglo y, Dios mediante, no lo será, pero eso parece ahora mismo”, declaró Biden a la prensa en la Casa Blanca.
-
-Biden afirmó que el impacto de Milton, que **se prevé que toque tierra el miércoles por la noche** en la zona de la bahía de Tampa, en Florida, podría ser “devastador”.
-
-Es una cuestión de vida o muerte
---------------------------------
-
-“Insto a todos los que se encuentren en la trayectoria del huracán Milton, a que escuchen a las autoridades locales y sigan las medidas de seguridad. Si están bajo órdenes de evacuación, deben evacuar ahora mismo**. Deberían haber evacuado ya.** Es una cuestión de vida o muerte, y no es una exageración”, afirmó Biden.
-
-El Centro Nacional de Huracanes de Estados Unidos advirtió en su boletín de las 11:00 que “hoy es el último día para que los **residentes de Florida se preparen**” en sus hogares o evacúen las zonas señaladas, si así lo indican las autoridades locales.
-
-La inteligencia artificial estuvo presente en la inauguración de la ExpoFlor 2024
-=================================================================================
-
-La ExpoFlor Ecuador 2024, la feria de flor cortada más importante de la región, reúne a 2 600 personas en Quito.
-----------------------------------------------------------------------------------------------------------------
-
-![Este martes 8 de octubre arrancó la tercera edición de la ExpoFlor Ecuador 2024. Foto: El Comercio](https://www.elcomercio.com/wp-content/uploads/2024/10/flores-1.jpg)
-
-  
-Este martes 8 de octubre arrancó la tercera edición de la **ExpoFlor Ecuador 2024**. Esta es la feria de flor cortada más **importante de la región** y concentra a cerca de **2 600 personas** en 6 000 metros cuadrados del **Centro de Convenciones Metropolitano de Quito**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Ecuador se suma al día del regalo de flores amarillas](https://www.elcomercio.com/actualidad/ecuador-suma-moda-flores-amarillas-septiembre.html "Ecuador se suma al día del regalo de flores amarillas")
-* [Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador](https://www.elcomercio.com/actualidad/negocios/cortes-de-luz-generan-mas-costos-y-riesgos-de-seguridad-en-sector-logistico-de-ecuador.html "Cortes de luz generan más costos y riesgos de seguridad en sector logístico de Ecuador")
-* [Industrias de dos ciudades paralizadas por cortes de luz](https://www.elcomercio.com/actualidad/negocios/industrias-de-dos-ciudades-paralizadas-por-cortes-de-luz.html "Industrias de dos ciudades paralizadas por cortes de luz")
-
-Ecuador es el **tercer exportador de flores del mundo** y cuenta con 600 variedades, que van a 86 destinos. El principal mercado es **Estados Unidos**. A este le siguen Kazajistán, Canadá, Chile, Países Bajos, Italia, España y Polonia.
-
-Entre enero y julio de 2024 se exportaron **531 millones de dólares**. El monto representa un incremento de 2% en comparación de los vendidos en el mismo período del año anterior. En **volumen se exportaron 90 000** toneladas de flores.
-
-Las principales especies exportadas son rosas, flores de verano, gypsophilas, claveles, flores preservadas, alstroemeria, crisantemos y lirios.
-
-El sector florícola genera más de 100 000 empleos
--------------------------------------------------
-
-A la inauguración de la feria asistieron la canciller de la República**, Gabriela Sommerfeld**, la ministra de Producción, **Sonsoles García** y el embajador de Estados Unidos en Ecuador**, Art Brown**. Además, estuvieron Alejandro Martínez, presidente Ejecutivo de Expoflores, y Eduardo Letort, presidente del Directorio de Expoflores. Alstroemeria, crisantemos y lirios.
-
-Durante su intervención, **Sonsoles García** señaló que el sector florícola de Ecuador concentra el 10% del valor de exportaciones de la flor del mundo, después de **Países Bajos y Colombia**. Además, se constituye en la quinta actividad productiva agrícola del país.
-
-Asimismo, el sector genera más de 65 000 de empleos directos y 55 000 empleos indirectos. De este, el 51% es mano de **obra femenina.**
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/flores-2-1024x683.jpg)
-
-En la feria hay más de 110 expositores. Foto: María José Aguilar/ EL COMERCIO.
-
-Inteligencia artificial en la Expoflor 2024
--------------------------------------------
-
-Por su parte, **Alejandro Martínez**, presidente de Expoflores, resaltó la resiliencia del sector floricultor ecuatoriano y destacó la importancia de adaptarse a los cambios globales.
-
-Afirmó, además, que el sector enfrenta retos como la **informalidad**, la cual afecta la creación de nuevas variedades de flores y pone en riesgo el control fitosanitario. Martínez subrayó que la solución a estos problemas reside en la **innovación tecnológica** y la cooperación entre el sector privado y el Estado.
-
-Propuso implementar un **sistema digital unificado** para simplificar trámites de **exportación** y mejorar la toma de decisiones. Reiteró la necesidad de voluntad política para convertir estas propuestas en realidad.
-
-Además, presentó a Lili, una **asistente virtual**, desarrollada con **inteligencia artificial**. Este sistema se encarga de manejar 56 procesos automáticos de Expoflores. Esta semana desarrollaron seis robots digitales nuevos.
-
-Asistentes a la feria
----------------------
-
-La feria, que se desarrollará entre el 8 y 10 de octubre de 2024, reúne a más de 110 productores y exportadores de flores ecuatorianas y a más 2 500 compradores de **Estados Unidos, Canadá, Países Bajos, Unión Europea, Rusia y Euroasia**…
-
-Esta feria también reúne a los actores más representativos de la cadena productiva de la **industria florícola**, que agrupa a proveedores de insumos, floricultores, productores, exportadores, agencias de carga, entre otros.
-
-Entre los actores están las **empresas que** llevan las **flores** hacia al mundo. Diogo Elías, vicepresidente de Avianca Cargo, señaló que esta empresa realiza 10 vuelos cargueros semanales, el 50% corresponde a carga perecedera y el 90% de esta es flores, con destino a Miami y Los Ángles.
-
-Selección de Ecuador promete intensidad ante Paraguay
-=====================================================
-
-La Selección de Ecuador se enfrentará a la de Paraguay el jueves 10 de octubre en las eliminatorias al Mundial 2026.
---------------------------------------------------------------------------------------------------------------------
-
-![Enner Valencia (c) con la Selección de Ecuador en la Casa de la Selección en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_intensidad_1.jpg)
-
-La **Selección de Ecuador** se prepara para enfrentar a la de Paraguay en la novena fecha de las eliminatorias al Mundial 2026, con lo que cierra la primera rueda de la competencia.
-
-El juego entre **Ecuador y Paraguay está programado para el jueves 10 de octubre de 2024**, desde las 16:00, en el estadio Rodrigo Paz Delgado, la nueva casa de la tricolor en lugar del cada vez más olvidado Olímpico Atahualpa.
-
-### Más noticias:
-
-* [Esto encontró la Policía en el vehículo siniestrado de Marco Angulo](https://www.elcomercio.com/actualidad/seguridad/botellas-de-alcohol-marco-angulo.html "Esto encontró la Policía en el vehículo siniestrado de Marco Angulo")
-* [¿Quién era Roberto Cabezas, futbolista fallecido en siniestro de tránsito?](https://www.elcomercio.com/deportes/marco-angulo-roberto-cabezas-quien-era-siniestro.html "¿Quién era Roberto Cabezas, futbolista fallecido en siniestro de tránsito?")
-* [Jorge Guzmán se proclamó campeón de la Liga Básquet Pro](https://www.elcomercio.com/deportes/baloncesto/jorge-guzman-campeon-liga-basquet.html "Jorge Guzmán se proclamó campeón de la Liga Básquet Pro")
-
-Alan Minda, Óscar Zambrano y Jhon Mercado comparecieron este martes 8 ante los medios de comunicación, en donde advirtieron que Paraguay procurará manejar los tiempos, **pero que Ecuador será intenso de local para buscar el triunfo**.
-
-El atacante Minda, del Círculo de Brujas belga, aseguró que “Paraguay es un equipo muy fuerte, que defiende y ataca muy bien, va a ser un duelo muy duro y habrá que asumirlo con la responsabilidad que se merece”.
-
-En las fechas pasadas Minda no pudo estar debido a una lesión, **pero se ha recuperado y resaltó su versatilidad**, con la que puede ir al ataque por derecha o por izquierda.
-
-“Me estoy acoplando a lo que me pide el técnico. Procuraré entregarlo todo en cada partido”, expresó Minda.
-
-Mercado y Zambrano apuntan a la titularidad
--------------------------------------------
-
-Por su parte, Mercado, que milita en el AVS portugués, señaló que la preparación del equipo está de la mejor manera. “**Nos estamos preparando para un partido que sabemos va a ser muy difícil**“, pero “vamos a plantear nuestro esquema de juego procurando sacar un buen resultado”, señaló.
-
-El joven atacante de 22 años dejó entrever que se siente cómodo por todos el frente de ataque y que estará siempre a disposición para “hacer lo mejor donde el entrenador me ponga en la parte de al frente, sea como extremo o como delantero”.
-
-“**Sabemos que Paraguay intentará manejar los tiempos**, pero Ecuador está trabajando de la mejor manera para podernos quedar con los tres puntos”, dijo Zambrano, futbolista del Hull City inglés, en un encuentro con los periodistas en Quito, después del primer entrenamiento de este martes con equipo completo.
-
-Sobre el trabajo que Ecuador está realizando, Zambrano resaltó “la intensidad” que les pide el técnico argentino, Sebastián Beccacece, de manera especial, cuando se pierde el control del balón.
-
-Óscar Zambrano insistió en que la Albirroja “**es una selección con jugadores muy buenos**“, “pero Ecuador está concentrado y tiene puesta la mirada en un buen resultado” en ese partido.
-
-Ecuador procurará mantenerse en la zona de clasificación directa, pues está en el **cuarto puesto de la tabla de posiciones de las eliminatorias sudamericanas**, con 11 puntos; y Paraguay procurará mejorar el actual séptimo lugar, con 9 unidades.
-
-No te pierdas – El Confesionario
---------------------------------
-
-El tour de un latino es uno de los más rentables de 2024
-========================================================
-
-Un artista latino destaca en la lista de giras de conciertos más rentables de este año.
----------------------------------------------------------------------------------------
-
-![La gira de Madonna está en la lista de las más rentables de este 2024. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo174.jpg)
-
-**Taylor Swift** consolidó su posición como una de las **artistas** más influyentes y rentables del mundo de la música. Eso, según el último informe de [**Forbes**](https://forbes.es/actualidad/511125/las-giras-de-conciertos-mas-rentables-de-2024/ "https://forbes.es/actualidad/511125/las-giras-de-conciertos-mas-rentables-de-2024/") sobre las giras de conciertos más lucrativas de 2024.
-
-Su gira **‘The Eras Tour’** no solo capturó la atención de millones de fanáticos alrededor del **mundo**, sino que también estableció nuevos récords financieros.
-
-Te compartimos el ‘**ranking**‘ de las giras de los shows más exitosos de este año.
-
-### **Más noticias:**
-
-* [Taylor Swift despojó a Rihanna de su megatítulo](https://www.elcomercio.com/tendencias/entretenimiento/taylor-swift-rihanna-fortuna-millonaria-planeta.html "https://www.elcomercio.com/tendencias/entretenimiento/taylor-swift-rihanna-fortuna-millonaria-planeta.html")
-* [Mamá de ‘Diddy’ dice que su hijo no es un ‘monstruo’](https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Same+Category "https://www.elcomercio.com/tendencias/entretenimiento/mama-de-diddy-dice-que-su-hijo-no-es-un-monstruo.html?source=Internal&ref=Single+Same+Category")
-* [P. Diddy, entre mujeres, música y demandas](https://www.elcomercio.com/tendencias/p-diddy-parejas-hijos-arresto-demandas.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/p-diddy-parejas-hijos-arresto-demandas.html?source=Internal&ref=Single+Content+Link")
-
-Con 65 presentaciones en **Europa**, Asia y Oceanía, **Swift** recaudó aproximadamente 1 150 millones de dólares antes de impuestos y tarifas, lo que se traduce en ganancias netas de 400 millones de dólares.
-
-Esta cifra supera en 100 millones de dólares a la de cualquier otro artista en el mismo periodo, destacando su capacidad para atraer multitudes y generar ingresos significativos.
-
-El impacto económico de ‘The Eras Tour’ no se limita solo a los ingresos por venta de entradas. Según Forbes, la gira podría generar hasta 4,6 mil millones de dólares para las economías locales de las ciudades anfitrionas, gracias al aumento en el turismo y el gasto en servicios relacionados como hoteles, restaurantes y transporte.
-
-**La lista de giras de conciertos más rentables de 2024**
----------------------------------------------------------
-
-### **1\. Taylor Swift**
-
-‘The Eras Tour’  
-Shows: 65  
-Ingreso bruto: 1 150 millones de dólares  
-Ganancias: 400 millones de dólares
-
-> [View this post on Instagram](https://www.instagram.com/reel/DA4DX_ct-qr/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DA4DX_ct-qr/?utm_source=ig_embed&utm_campaign=loading)
-
-### **2\. Coldplay**
-
-‘Music of the Spheres Tour’  
-Shows: 40  
-Ingreso bruto: 302 millones de dólares  
-Ganancias: 131 millones de dólares
-
-> [View this post on Instagram](https://www.instagram.com/reel/DA2T9uouqmu/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Coldplay (@coldplay)](https://www.instagram.com/reel/DA2T9uouqmu/?utm_source=ig_embed&utm_campaign=loading)
-
-### **3\. Zach Bryan**
-
-‘Quittin’ Time Tour’  
-Shows: 63  
-Ingreso bruto: 318 millones de dólares  
-Ganancias: 113 millones de dólares
-
-> [View this post on Instagram](https://www.instagram.com/reel/C_8gJhavD3r/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Zach Bryan (@zachlanebryan)](https://www.instagram.com/reel/C_8gJhavD3r/?utm_source=ig_embed&utm_campaign=loading)
-
-### **4\. Bruce Springsteen**
-
-‘Springsteen and E Street Band 2024 Tour’  
-Shows: 36  
-Ingreso bruto: 250 millones de dólares  
-Ganancias: 101 millones de dólares
-
-> [View this post on Instagram](https://www.instagram.com/p/DARQ3jHPWOp/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Bruce Springsteen (@springsteen)](https://www.instagram.com/p/DARQ3jHPWOp/?utm_source=ig_embed&utm_campaign=loading)
-
-### **5\. P!nk**
-
-‘Trustfall Tour’  
-Shows: 44  
-Ingreso bruto: 267 millones de dólares  
-Ganancias: 87 millones de dólares
-
-> [View this post on Instagram](https://www.instagram.com/p/DAmKPCXMXhL/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by 🌍🌎🌏 (@pink\_summercarnivaltour)](https://www.instagram.com/p/DAmKPCXMXhL/?utm_source=ig_embed&utm_campaign=loading)
-
-### **6\. Bad Bunny**
-
-‘Most Wanted Tour’  
-Shows: 63  
-Ingreso bruto: 208 millones de dólares  
-Ganancias: 76 millones de dólares
-
-> [View this post on Instagram](https://www.instagram.com/p/DAmKPCXMXhL/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by 🌍🌎🌏 (@pink\_summercarnivaltour)](https://www.instagram.com/p/DAmKPCXMXhL/?utm_source=ig_embed&utm_campaign=loading)
-
-### **7\. Madonna**
-
-‘Celebration Tour’  
-Shows: 47  
-Ingreso bruto: 135 millones de dólares  
-Ganancias: 63 millones de dólares
-
-> [View this post on Instagram](https://www.instagram.com/reel/C_JAND3u4Nu/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Madonna (@madonna)](https://www.instagram.com/reel/C_JAND3u4Nu/?utm_source=ig_embed&utm_campaign=loading)
-
-### **8\. Justin Timberlake**
-
-‘Forget Tomorrow Tour’  
-Shows: 33  
-Ingreso bruto: 128 millones de dólares  
-Ganancias: 55 millones de dólares
-
-> [View this post on Instagram](https://www.instagram.com/reel/DABGi2WOH3B/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Justin Timberlake (@justintimberlake)](https://www.instagram.com/reel/DABGi2WOH3B/?utm_source=ig_embed&utm_campaign=loading)
-
-### **9\. Luke Combs**
-
-‘Growin’ Up and Gettin’ Old Tour’  
-Shows: 28  
-Ingreso bruto: 167 millones de dólares  
-Ganancias: 54 millones de dólares
-
-> [View this post on Instagram](https://www.instagram.com/p/C9yO_wIRthH/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Luke Combs 🎤 (@lukecombs)](https://www.instagram.com/p/C9yO_wIRthH/?utm_source=ig_embed&utm_campaign=loading)
-
-### **10\. U2**
-
-‘UK:UV Achtung Baby Live Tour’  
-Shows: 15  
-Ingreso bruto: 86 millones de dólares  
-Ganancias: 51 millones de dólares
-
-> [View this post on Instagram](https://www.instagram.com/reel/C4JlxkOpTNo/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by U2 (@u2)](https://www.instagram.com/reel/C4JlxkOpTNo/?utm_source=ig_embed&utm_campaign=loading)
-
-Independiente del Valle despide con dolor a Roberto Cabezas
-===========================================================
-
-El club que vio crecer a Roberto Cabezas le rindió un emotivo homenaje tras su trágico fallecimiento.
------------------------------------------------------------------------------------------------------
-
-![Independiente del Valle despidió a Roberto Cabezas, jugador fallecido en siniestro de tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-08T164917.734.jpg)
-
-En un acto cargado de emoción, con la presencia de jugadores del primer plantel, dirigentes y canteranos, **Independiente del Valle honró la memoria de Roberto Cabezas**, quien falleció el lunes 7 de octubre a causa de un siniestro de tránsito.
-
-Cabezas, quien hubiese cumplido 22 años el mismo día de su fallecimiento, fue una de las víctimas fatales del **siniestro ocurrido en la Autopista General Rumiñahui**, donde otro ocupante del vehículo también perdió la vida. **Marco Angul**o, jugador de Liga de Quito, resultó gravemente herido y se encuentra en cuidados intensivos.
-
-### Más noticias:
-
-* [¿Quién era Roberto Cabezas, futbolista fallecido en siniestro de tránsito?](https://www.elcomercio.com/deportes/marco-angulo-roberto-cabezas-quien-era-siniestro.html "¿Quién era Roberto Cabezas, futbolista fallecido en siniestro de tránsito?")
-* [Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro](https://www.elcomercio.com/deportes/futbol/piero-hincapie-muerte-roberto-cabezas-tragico-siniestro.html "Piero Hincapié lamenta la muerte de Roberto Cabezas en un trágico siniestro")
-* [Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/equipos-de-ecuador-lamentan-el-fallecimiento-de-roberto-cabezas.html "Equipos de Ecuador lamentan el fallecimiento de Roberto Cabezas")
-
-“**En memoria de Roberto**. Los buenos amigos no se van, se guardan en el corazón. La familia IDV unida en estos duros momentos”, expresó Independiente del Valle en un mensaje en sus redes sociales.
-
-Independiente del Valle despide a Roberto Cabezas
--------------------------------------------------
-
-“Vuela alto” fue la frase con la que jugadores y aficionados del club despidieron a Roberto Cabezas, un joven lateral izquierdo y canterano del equipo, quien perdió la vida en el trágico siniestro.
-
-Durante la ceremonia, realizada en la cancha principal de entrenamientos, el ambiente estuvo lleno de simbolismo y recuerdos.
-
-Jugadores y miembros del club encendieron velas y lanzaron globos al cielo, mientras entonaban cánticos en honor al jugador.
-
-El grito de “Campeón Roberto” resonó entre los presentes, como un último adiós para el futbolista que vio crecer el club.
-
-> En memoria de Roberto 👼  
-> Porque los buenos amigos no se van 🙌, solo se guardan en el corazón 💙🖤. La Familia [#IDV](https://twitter.com/hashtag/IDV?src=hash&ref_src=twsrc%5Etfw) 🫂Unida en estos duros momentos.  
-> Vuela alto amigo🕊️ [pic.twitter.com/q73tyFBHZi](https://t.co/q73tyFBHZi)
-> 
-> — Independiente del Valle (@IDV\_EC) [October 8, 2024](https://twitter.com/IDV_EC/status/1843753424367825280?ref_src=twsrc%5Etfw)
-
-### **¿Quién era Roberto Cabezas?**
-
-Roberto Cabezas nació en Quinindé el 7 de octubre de 2002.
-
-Durante su carrera, se desempeñó como lateral izquierdo y fue formado en las divisiones menores de Independiente del Valle. El defensor militaba en el equipo filial, Independiente Juniors.
-
-En la temporada 2024, Cabezas había disputado solo un partido en la Serie B ecuatoriana, ingresando desde el banquillo durante 18 minutos en un encuentro contra Chacaritas.
-
-A nivel internacional, formó parte de la Selección Sub-17 de Ecuador, con la cual disputó el Sudamericano y el Mundial de la categoría en 2019, acumulando 13 partidos.
