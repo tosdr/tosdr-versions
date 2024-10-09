@@ -148,7 +148,7 @@ If you do not agree with these terms, please do not register or use this Service
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://xiaomi.eu/community/misc/cookies?update=1&accept=1&t=1728427468%2C700fde6fa914924665c7d62a82627222) [Reject optional cookies](https://xiaomi.eu/community/misc/cookies?update=1&reject=1&t=1728427468%2C700fde6fa914924665c7d62a82627222)
+    [Accept all cookies](https://xiaomi.eu/community/misc/cookies?update=1&accept=1&t=1728448630%2Cfa9e15ccaa16f3053d7f636084a00085) [Reject optional cookies](https://xiaomi.eu/community/misc/cookies?update=1&reject=1&t=1728448630%2Cfa9e15ccaa16f3053d7f636084a00085)
     
     * Essential cookies
     
