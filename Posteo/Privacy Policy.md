@@ -225,10 +225,10 @@ Diese Datenschutzerklärung ist aktuell gültig und hat den Stand November 2022.
 
 [Postfach kündigen](https://posteo.de/kuendigung "Link zum Kündigungsformular")
 
-* [Über uns](https://posteo.de/site/ueber_posteo "Link zur Seite Über uns")
 * [Kontakt](https://posteo.de/site/kontakt "Link zur Kontaktseite")
 * [Jobs](https://posteo.de/site/jobs "Link zur Jobseite von Posteo")
 * [Impressum](https://posteo.de/site/impressum "Link zum Impressum")
+* [Über uns](https://posteo.de/site/ueber_posteo "Link zur Seite Über uns") / Posteo unterstützen
 
 * [Hilfe](https://posteo.de/hilfe "Link zur Hilfe von Posteo")
 * [Blog](https://posteo.de/blog "News and blog")
