@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I was testing your services for a client and I found the setup and use of your FireFox addon and proxy servers to be easy and reliable. Thank you for providing this valuable service.
+I'm actually quite impressed with the product \[GeoShift\].
 
-Brent Marnati
+Dustin Personius
