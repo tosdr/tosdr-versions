@@ -60,7 +60,7 @@ Your change management checklist
 
 [Read the Article](https://getdivvy.com/accountant-resource-center/articles/your-change-management-checklist)
 
-![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/66a26129cb5afa06332ba16b_spot-complete-check.png)
+![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/67058aaa09fd160b74e9fc7c_image%2094.png)
 
 Solutions
 
