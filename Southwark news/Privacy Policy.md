@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A row of properties in Bankside, SE1. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/26-Park-Street-left-most-house-Google-Streetview-360x180.jpg)](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
+    
+    ### [Where are the bargain houses and flats in Southwark?](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
+    
     [![Lauren Akosia.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lauren-A-6-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
     
     ### [Peckham graduate lands role in new BBC drama ‘Mr Loverman’](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
@@ -50,10 +54,6 @@
     [![The Southwark Sea Cadets pose for a photo. Credit: SSC](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-07-12-27-15-360x180.jpg)](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
     
     ### [Walworth Sea Cadets fighting for survival as headquarters ‘fall apart’](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
-    
-    [![Aaron Bailey, described as Black, 5ft 10, with short black hair and a black beard, is wanted in connection with a robbery in Epsom. Image: Surrey Police](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aaron-Bailey-described-as-Black-5ft-10-with-short-black-hair-and-a-black-beard-is-wanted-in-connection-with-a-robbery-in-Epsom.-Image-Surrey-Police-360x180.png)](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
-    
-    ### [Wanted: £5,000 reward for man with links to Southwark](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A row of properties in Bankside, SE1. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/26-Park-Street-left-most-house-Google-Streetview-360x180.jpg)](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
+    
+    ### [Where are the bargain houses and flats in Southwark?](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
+    
     [![Lauren Akosia.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lauren-A-6-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
     
     ### [Peckham graduate lands role in new BBC drama ‘Mr Loverman’](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
@@ -130,10 +134,6 @@ View All Result
     [![The Southwark Sea Cadets pose for a photo. Credit: SSC](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-07-12-27-15-360x180.jpg)](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
     
     ### [Walworth Sea Cadets fighting for survival as headquarters ‘fall apart’](https://southwarknews.co.uk/area/walworth/walworth-sea-cadets-fighting-for-survival-as-headquarters-fall-apart/)
-    
-    [![Aaron Bailey, described as Black, 5ft 10, with short black hair and a black beard, is wanted in connection with a robbery in Epsom. Image: Surrey Police](https://southwarknews.co.uk/wp-content/uploads/2024/10/Aaron-Bailey-described-as-Black-5ft-10-with-short-black-hair-and-a-black-beard-is-wanted-in-connection-with-a-robbery-in-Epsom.-Image-Surrey-Police-360x180.png)](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
-    
-    ### [Wanted: £5,000 reward for man with links to Southwark](https://southwarknews.co.uk/area/southwark/wanted-5000-reward-for-man-with-links-to-southwark/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -374,6 +374,12 @@ CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/gar
 
 ### Featured Articles
 
+[![A row of properties in Bankside, SE1. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/26-Park-Street-left-most-house-Google-Streetview-120x86.jpg)](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
+
+### [Where are the bargain houses and flats in Southwark?](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
+
+[9th October 2024](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
+
 [![Lauren Akosia.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lauren-A-6-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
 
 ### [Peckham graduate lands role in new BBC drama ‘Mr Loverman’](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
@@ -403,12 +409,6 @@ CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/gar
 ### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
 
 [8th October 2024](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
-
-[![(photo: The estate of Charlotte Johnson Wahl)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-07-10-2024-at-13.21-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
-
-### [Boris Johnson’s artist mum was a patient at the Maudsley – and now her paintings are being displayed](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
-
-[7th October 2024](https://southwarknews.co.uk/area/camberwell/boris-johnsons-artist-mum-was-a-patient-at-the-maudsley-and-now-her-paintings-are-being-displayed/)
 
 ### USEFUL PAGES
 
