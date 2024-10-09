@@ -191,9 +191,7 @@ Compiled data will be used in order to form your account on PURE. You can always
 
 #### 11\. How long do we retain your Personal Data?
 
-We only retain your Personal Data for as long as it is needed for the purpose for which it was originally collected or as we are required to retain it under applicable laws, regulations and contractual agreements. Certain data will be retained up to 180 days post-deletion to ensure compliance with above-mentioned requirements.
-
-If you manually initiate the deletion of a chat conversation which involves detected abuse, attempted scams, or other violations of our Terms and Conditions, Guidelines, or Privacy Policy, we will retain these chat conversations for an extended period in order to enhance our user’s safety. This enables maintaining a secure environment while enhancing our ability to prevent potential risks, frauds, and undesirable activities and safeguarding crucial information, which is vital for our legitimate interest in ensuring the platform’s integrity and the user's well-being.
+We only retain your Personal Data for as long as it is needed for the purpose for which it was originally collected or as we are required to retain it under applicable laws, regulations and contractual agreements. Certain data will be retained up to 180 days post-deletion to ensure compliance with above-mentioned purposes. This also helps us maintain a secure environment and strengthens our ability to prevent potential risks, frauds, undesirable activities and to safeguard crucial information, which is vital for our legitimate interest in ensuring the platform’s integrity, along with well-being and safety of our users. Furthermore, this allows us to comply with our legal obligations, which may be necessary for establishing, exercising, or defending legal claims, as well as preventing ongoing violations by users.
 
 If you would like to get more information related to this matter please contact us by email at [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection) or by mail at alternatively provided postal address below: 
 
