@@ -306,7 +306,7 @@ San Francisco, United States CA 94111
 
 USA/Global
 
-[Legal & Privacy](https://www.deputy.com/terms) [Cookie preferences](javascript:void(0);) [Sitemap](https://www.deputy.com/sitemap)
+[Legal](https://www.deputy.com/terms) [Your privacy choices](javascript:void(0);) [Sitemap](https://www.deputy.com/sitemap)
 
 © 2024 Deputy. All Rights Reserved. "Deputy" and "Spark Device" are trade marks of Deputechnologies Pty Ltd.
 
