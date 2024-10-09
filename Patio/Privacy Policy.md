@@ -29,7 +29,7 @@ Once you purchase this domain, our team will send you detailed instructions on h
 
 Buy Now
 
-$6,990 USD $12,000 Sale Ends In 6 Days
+$6,990 USD $12,000 Sale Ends In 4 Days
 
 Pay in Installments $641 _x 12 months_
 
@@ -85,7 +85,7 @@ Once you purchase this domain, our team will send you detailed instructions on h
 
 Buy Now
 
-$6,990 USD $12,000 Sale Ends In 6 Days
+$6,990 USD $12,000 Sale Ends In 4 Days
 
 Pay in Installments $641 _x 12 months_
 
@@ -194,9 +194,9 @@ Purchase
 * [Recruitment & Staffing](https://patio.app/search/categories/Recruitment%20%26%20Staffing)
 
 * [Legal, Attorney, Law](https://patio.app/search/categories/Legal%2C%20Attorney%2C%20Law)
-* [News & Media](https://patio.app/search/categories/News%20%26%20Media)
-
 * [Fintech (Finance Technology)](https://patio.app/search/categories/Fintech%20%28Finance%20Technology%29)
+
+* [News & Media](https://patio.app/search/categories/News%20%26%20Media)
 
 Powered by Atom.com
 
