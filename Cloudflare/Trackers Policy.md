@@ -49,6 +49,7 @@ Pricing
     Register domain
     ---------------
     
+* [View FAQs](https://www.cloudflare.com/plans/faq/)
 * [Register domain](https://www.cloudflare.com/products/registrar/)
 
 Resources
