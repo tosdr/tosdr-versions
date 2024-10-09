@@ -8,7 +8,7 @@ Error: Please [enable cookies](https://mychart.et1270.epichosted.com/MyChart/Hel
 
 Loading...
 
-[Ver en Español Esp](#)
+[Ver en español Esp](#)
 
 ![](/MyChart/en-US/images/warning.png)
 
