@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Great Migrations Extended Trailer** |](https://video.nhpbs.org/video/great-migrations-extended-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Solar System: Icy Worlds Preview** | NOVA](https://video.nhpbs.org/video/solar-system-icy-worlds-preview-p9lkf8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Preview of San Diego: America's Wildest City** | Nature](https://video.nhpbs.org/video/about-san-diego-americas-wildest-city?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Backstage with Michael Maliakel** | Christmas With The Tabernacle Choir](https://video.nhpbs.org/video/backstage-with-michael-maliakel-xnmad6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Season 8 Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-season-8-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Civics 101 Summit 2024** | NHPBS Presents](https://video.nhpbs.org/video/the-civics-101-summit-2024-4gqjjr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**October 8, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-8-2024-pbs-news-hour-full-episode-1728360001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Is Yoga a Religion?** | Crash Course Religions](https://video.nhpbs.org/video/is-yoga-a-religion-sghen7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Another Composer in the Mozart Family?** | Secrets of the Dead](https://video.nhpbs.org/video/another-composer-in-the-mozart-family-wdtdnr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Alonzo King LINES Ballet: Deep River Preview** | Next at the Kennedy Center](https://video.nhpbs.org/video/alonzo-king-lines-ballet-deep-river-preview-esiubk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 5 Preview** | Van der Valk](https://video.nhpbs.org/video/episode-5-preview-iqmbr9?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 5 Preview** | Moonflower Murders](https://video.nhpbs.org/video/episode-5-preview-g5hazs?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Preview** | Christmas With The Tabernacle Choir](https://video.nhpbs.org/video/preview-5dvkeu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**The Diary of Afong Moy The History of White People in America, Episode 4** | Independent Lens](https://video.nhpbs.org/video/the-history-of-white-people-in-america-episode-4-amuhqc?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**October 7, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-7-2024-pbs-news-hour-full-episode-1728273602?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Inundation District Projecting Sea Level Rise** | Local, USA](https://video.nhpbs.org/video/local-usa-inundation-district-projecting-sea-level-rise?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
