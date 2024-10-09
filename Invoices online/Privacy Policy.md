@@ -118,57 +118,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Jannie Schutte - myFinance-Online.co.za
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=115166782)  
-One2b
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=6719650)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=9440889)  
-Frameless Fanatix (Pty) Ltd.
+![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=76403490)  
+Glass and Allied Industries
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=31311643)  
-Cooper Logistics (Pty) Ltd
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=99443435)  
+Entidee Enterprise PTY (ltd)
 
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=198810037)  
-M's Frozen Delights
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=85994535)  
+Kara Medical (Pty) Ltd
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=90355939)  
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=147878105)  
 Vplay Letsheng Mall
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=26147262)  
-LEONARD
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=73792499)  
+AMS Ambu Medical Supplies
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=204078607)  
-Oak Tree Immigration
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=34790628)  
+Baby Toddles Infant Care
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=203524438)  
-Peter Salvage Pty Ltd
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=5124839)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=162346575)  
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=113096015)  
+Lemba Truck Stop
+
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=188695612)  
+McKaynine Mobility
+
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=26163373)  
 Digifax Pty) Ltd t/a Findfish
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=87192579)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=93618447)  
+VA AND M DEBT-AID (PTY) LTD
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=114000484)  
-Nogana Events and Decor
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=164789015)  
+Website Café (PTY) LTD
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=188199150)  
-MONSTER SECURITY GUARDING
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=88979637)  
+Mtunzini Group
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=159834607)  
-CLEVER STUDENTS
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=28679084)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=75ec24e9a0f88e21f00df29048cd8cc62f240ae859f1c724db33db0d7278022d&c=104350814)  
-Entidee Enterprise PTY (ltd)
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=44161455)  
+Printo
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
