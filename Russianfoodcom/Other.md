@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Вешенки и макароны](https://www.russianfood.com/recipes/recipe.php?rid=174496)
-* [Каша из булгура с рисом и овощами](https://www.russianfood.com/recipes/recipe.php?rid=170396)
-* [Салат с пекинской капустой, яблоками и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174485)
+* [Ванильные творожные кексы с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174361)
 * [Бульон из кур](https://www.russianfood.com/recipes/recipe.php?rid=4867)
 * [Курица с овощами в густом бульоне Способ II](https://www.russianfood.com/recipes/recipe.php?rid=12240)
-* [Овощной суп по-китайски](https://www.russianfood.com/recipes/recipe.php?rid=12981)
 * [Суп из баранины с огурцами](https://www.russianfood.com/recipes/recipe.php?rid=12985)
-* [Овощи «в шляпе»](https://www.russianfood.com/recipes/recipe.php?rid=13060)
 * [Креветки с цветной капустой](https://www.russianfood.com/recipes/recipe.php?rid=13616)
-* [Суп из репчатого лука](https://www.russianfood.com/recipes/recipe.php?rid=13839)
+* [Суп морковный с базиликом](https://www.russianfood.com/recipes/recipe.php?rid=14028)
+* [Курица с грибным соусом](https://www.russianfood.com/recipes/recipe.php?rid=16630)
+* [Ризотто весеннее](https://www.russianfood.com/recipes/recipe.php?rid=16796)
+* [Фрикадельки из свинины с чесноком](https://www.russianfood.com/recipes/recipe.php?rid=17599)
+* [Куриный бульон с желтком](https://www.russianfood.com/recipes/recipe.php?rid=17856)
 
 |     |
 | --- |
@@ -234,7 +234,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [neslojno](https://www.russianfood.com/blogs/?id=288013) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174523#comments) | 09.10.24 |     |
+|     | [neslojno](https://www.russianfood.com/blogs/?id=288013) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174523#comments) | 09.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -276,7 +276,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174517#comments) | 08.10.24 |     |
+|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174517#comments) | 08.10.24 |     |
 
 |     |     |
 | --- | --- |
@@ -459,10 +459,12 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742003.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174512) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742045.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174517) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741858.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174485) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174487) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742073.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174523) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741625.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174496) |
-| [Аджика с баклажанами на зиму](https://www.russianfood.com/recipes/recipe.php?rid=174512) | [Кислые щи с томлёным приварком](https://www.russianfood.com/recipes/recipe.php?rid=174517) | [Салат с пекинской капустой, яблоками и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174485) | [Закуска из зелёного лука и бекона](https://www.russianfood.com/recipes/recipe.php?rid=174487) | [Салат с жареными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174523) | [Вешенки и макароны](https://www.russianfood.com/recipes/recipe.php?rid=174496) |
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742045.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174517) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741625.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174496) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741858.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174485) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742073.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174523) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742003.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174512) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741874.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174486) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741185.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174361) |
+| [Кислые щи с томлёным приварком](https://www.russianfood.com/recipes/recipe.php?rid=174517) | [Вешенки и макароны](https://www.russianfood.com/recipes/recipe.php?rid=174496) | [Салат с пекинской капустой, яблоками и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174485) | [Салат с жареными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174523) | [Аджика с баклажанами на зиму](https://www.russianfood.com/recipes/recipe.php?rid=174512) | [Салат со свёклой, тыквой, солёными огурцами и брынзой](https://www.russianfood.com/recipes/recipe.php?rid=174486) | [Ванильные творожные кексы с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174361) |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174487) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741224.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174426) |
+| [Закуска из зелёного лука и бекона](https://www.russianfood.com/recipes/recipe.php?rid=174487) | [Суп-пюре из печёной тыквы с яблоком, луком и орехами](https://www.russianfood.com/recipes/recipe.php?rid=174426) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(151)
+(98)
