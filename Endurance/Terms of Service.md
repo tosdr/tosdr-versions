@@ -18,21 +18,9 @@
     * [Find a Repair Shop](https://www.endurancewarranty.com/repair/)
     
 
-EN
-
-[English](# "English")
-
-[English](# "English") [Spanish](https://www.endurancewarranty.com/es/onlineterms/ "Spanish")
-
 [(800) 253-8203](tel:8002538203) [Get a FREE Quote](#)
 
 [(800) 253-8203](tel:8002538203)
-
-EN
-
-[English](# "English")
-
-[English](# "English") [Spanish](https://www.endurancewarranty.com/es/onlineterms/ "Spanish")
 
 [Account Sign‑In](https://www.endurancewarranty.com/policy/) [See Your Price](https://buy.endurancewarranty.com/page?slugType=ecommerce_page_v2&slug=page-ecomm-manual-vehicle-entry-v2)
 
@@ -343,5 +331,3 @@ Get a FREE Quote
 By clicking the button, you consent to Endurance using automated technology to call, email, and text you using the contact info above, including your wireless number, if provided, regarding auto protection or, in California, mechanical breakdown insurance. You also agree to the Endurance [Privacy Policy](https://www.endurancewarranty.com/privacy/) and [Terms and Conditions](https://www.endurancewarranty.com/terms-and-conditions/). Consent is not a condition of purchase, and you can withdraw consent at any time. Message and data rates may apply.
 
 ![](https://api.trustedform.com/ns.gif)
-
-![](https://tags.w55c.net/rs?id=59c37735bef848dfb845cf6a7bebcc96&t=marketing) ![](https://tags.w55c.net/rs?id=c17013853dd04361a836769b469f5f03&t=completed_view) ![](https://tags.w55c.net/rs?id=5c0506e472014c6899c1713a77b90149&t=homepage)
