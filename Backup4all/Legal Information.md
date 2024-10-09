@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup to SFTP](https://www.backup4all.com/backup-to-sftp-kb.html)  
+* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
     
-* [How to create a mirror with zip backup](https://www.backup4all.com/how-to-create-a-mirror-with-zip-backup-kb.html)  
+* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
     
-* [How to create an exact copy of the source dri ...](https://www.backup4all.com/how-to-create-an-exact-copy-of-the-source-drive-on-another-driv-kb.html)  
+* [How to test a backup?](https://www.backup4all.com/how-to-test-a-backup-kb.html)  
     
-* [Access denied error when trying to create a s ...](https://www.backup4all.com/access-denied-error-when-trying-to-create-a-scheduled-task-kb.html)  
+* [Packet writing software](https://www.backup4all.com/packet-writing-software-kb.html)  
     
-* [How to back up data files from Hubic using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-hubic-using-backup4all-kb.html)  
+* [How to back up data files from Box using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-box-using-backup4all-kb.html)  
     
 
 Choose language:
