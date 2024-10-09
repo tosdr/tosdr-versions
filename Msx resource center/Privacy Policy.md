@@ -137,6 +137,8 @@ MSX Music player
 
 Latest reactions
 
+* [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
+* [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
 * [Tiny Magic update, new batch and soundtrack CD](https://www.msx.org/news/software/en/tiny-magic-update "Tiny Magic update, new batch and soundtrack CD")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
@@ -145,29 +147,28 @@ Latest reactions
 * [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
 * [Tiny Magic](https://www.msx.org/news/software/en/tiny-magic "Tiny Magic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
-* [One of the winners of the MSX.ORG quiz, Bas Kornalijnslijper](https://www.msx.org/photoshoots/bussum-2001/one-winners-msxorg-quiz-bas-kornalijnslijper "One of the winners of the MSX.ORG quiz, Bas Kornalijnslijper")
-* [Pixel Memories Pasoko-1000 Joysticks](https://www.msx.org/news/hardware/en/pixel-memories-pasoko1000-tribute-joysticks "Pixel Memories Pasoko-1000 Joysticks")
 
 Latest forum posts
 
-* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
-* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
-* [Looking for ROBOPAL (by BANDAI) software](https://www.msx.org/forum/msx-talk/software/looking-for-robopal-by-bandai-software "Looking for ROBOPAL (by BANDAI) software")
-* [MSX2 disk menu, oasis?](https://www.msx.org/forum/msx-talk/software/msx2-disk-menu-oasis?page=1 "MSX2 disk menu, oasis?")
-* [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
+* [Two different flash cartridges hanging up on boot.](https://www.msx.org/forum/msx-talk/general-discussion/two-different-flash-cartridges-hanging-up-on-boot "Two different flash cartridges hanging up on boot. ")
 * [programming eprom games 8k](https://www.msx.org/forum/msx-talk/hardware/programming-eprom-games-8k "programming eprom games 8k")
+* [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
+* [MSX2 disk menu, oasis?](https://www.msx.org/forum/msx-talk/software/msx2-disk-menu-oasis?page=1 "MSX2 disk menu, oasis?")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=121 "Please help testing upcoming openMSX release!")
+* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
+* [1DD floppy drive questions](https://www.msx.org/forum/msx-talk/hardware/1dd-floppy-drive-questions "1DD floppy drive questions")
+* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
+* [Looking for ROBOPAL (by BANDAI) software](https://www.msx.org/forum/msx-talk/software/looking-for-robopal-by-bandai-software "Looking for ROBOPAL (by BANDAI) software")
 * [Darwin demo by USE Crackings](https://www.msx.org/forum/msx-talk/software/darwin-demo-by-use-crackings "Darwin demo by USE Crackings")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=67 "WonderTANG! Who wants to juice up your MSX?")
 * [Aleste 2 manual automated translation](https://www.msx.org/forum/msx-talk/general-discussion/aleste-2-manual-automated-translation?page=1 "Aleste 2 manual automated translation")
 * [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=28 "A new MSX (3?) for 2022 ?")
-* [Xanadu questions](https://www.msx.org/forum/msx-talk/software-and-gaming/xanadu-questions?page=2 "Xanadu questions")
-* [Konami's F1 Spirit 3D cable](https://www.msx.org/forum/development/msx-development/konamis-f1-spirit-3d-cable?page=1 "Konami's F1 Spirit 3D cable")
-* [Firebird T-shirt](https://www.msx.org/forum/msx-talk/off-topic/firebird-t-shirt "Firebird T-shirt")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
@@ -178,9 +179,8 @@ News headlines
 * [I-Logic](https://www.msx.org/news/software/en/i-logic "I-Logic")
 * [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 * [MSX UK fun day](https://www.msx.org/news/en/msx-uk-fun-day "MSX UK fun day")
-* [Hype OPL3](https://www.msx.org/news/en/hypeopl3 "Hype OPL3")
+* [Hype OPL3](https://www.msx.org/news/en/hypeopl "Hype OPL3")
 * [Fruit Mazes and Pallo](https://www.msx.org/news/en/pallo-a-new-game-for-your-msx2 "Fruit Mazes and Pallo")
-* [MSX Fair Nijmegen 2025](https://www.msx.org/news/en/march-8-2025-20th-msx-fair-nijmegen "MSX Fair Nijmegen 2025")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
