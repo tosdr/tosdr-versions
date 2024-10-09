@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-cddbfb56b1481115f694ac7f11e5eeae
+7eaf5de8a1ffd5cf84b62722fe53f9bb
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm rounded white potato pearls](https://www.sojourner.biz/images/cache/pearls/PE0056.200.jpg)](https://www.sojourner.biz/beads/pearls/8-mm-rounded-white-potato-pearls.html "8 mm rounded white potato pearls")
+[![6 mm oval grey-green pearls](https://www.sojourner.biz/images/cache/pearls/PE0100.200.jpg)](https://www.sojourner.biz/beads/pearls/6-mm-oval-grey-green-pearls.html "6 mm oval grey-green pearls")
 
-#### [8 mm rounded white potato pearls](https://www.sojourner.biz/beads/pearls/8-mm-rounded-white-potato-pearls.html "8 mm rounded white potato pearls")
+#### [6 mm oval grey-green pearls](https://www.sojourner.biz/beads/pearls/6-mm-oval-grey-green-pearls.html "6 mm oval grey-green pearls")
 
-$50.00
+$21.00
 
 ### Best Sellers
 
