@@ -185,7 +185,7 @@ Because of the number of possible sources of information available through this 
 
 ### QUESTIONS OR SUGGESTIONS
 
-At Operation Smile we respect the opinions and feedback of our visitors and supporters. If you, or other parties have any questions, concerns, or complaints about this policy, or would like to learn more about our organization, please contact us on our website ([https://www.operationsmile.org/contact-us](https://www.operationsmile.org/contact-us)) or call 1-888-OPSMILE (1- 888-677-6453).
+At Operation Smile we respect the opinions and feedback of our visitors and supporters. If you, or other parties have any questions, concerns, or complaints about this policy, or would like to learn more about our organization, please contact us on our website ([https://www.operationsmile.org/contact-us](https://www.operationsmile.org/contact-us/)) or call 1-888-OPSMILE (1- 888-677-6453).
 
 ### CONTROLLING YOUR PERSONAL INFORMATION
 
@@ -330,7 +330,7 @@ Virginia Beach, VA 23453
 
 Email\*
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
