@@ -20,16 +20,16 @@ Wednesday, October 9 2024
 
 Latest
 
-* [An Outbound Dialer Will Help You Win the Numbers Game](https://digitpatrox.com/an-outbound-dialer-will-help-you-win-the-numbers-game/)
-* [Be quick! The latest Prime Day Fitbit deals slash prices by up to $79 — my top 3 picks](https://digitpatrox.com/be-quick-the-latest-prime-day-fitbit-deals-slash-prices-by-up-to-79-my-top-3-picks/)
-* [Windows 11 22H2 Home and Pro reached end of servicing](https://digitpatrox.com/windows-11-22h2-home-and-pro-reached-end-of-servicing/)
-* [MediaTek’s new flagship chipset is ready for AI and tri-fold phones](https://digitpatrox.com/mediateks-new-flagship-chipset-is-ready-for-ai-and-tri-fold-phones/)
-* [Honkai Star Rail Has Possibly Revealed 5-star Tingyun’s Drip Marketing Date](https://digitpatrox.com/honkai-star-rail-has-possibly-revealed-5-star-tingyuns-drip-marketing-date/)
-* [Federal jury finds that Cognizant discriminated against American IT workers – Computerworld](https://digitpatrox.com/federal-jury-finds-that-cognizant-discriminated-against-american-it-workers-computerworld/)
-* [The Yaber K2s Projector Just Hit Its Lowest Price Ever During October Prime Day](https://digitpatrox.com/the-yaber-k2s-projector-just-hit-its-lowest-price-ever-during-october-prime-day/)
-* [How to use Rufus to create bootable Windows 11 24H2 USB](https://digitpatrox.com/how-to-use-rufus-to-create-bootable-windows-11-24h2-usb/)
-* [Regulators Aim to Crack Down on Infant ‘Neck Floats’ After Two Deaths and Dozens of Close Calls Reported](https://digitpatrox.com/regulators-aim-to-crack-down-on-infant-neck-floats-after-two-deaths-and-dozens-of-close-calls-reported/)
-* [Onedrive Is Getting Better Photo Management, Faster Performance, and More](https://digitpatrox.com/onedrive-is-getting-better-photo-management-faster-performance-and-more/)
+* [This Roborock Flexi Wet/Dry Vacuum Mop Is $120 Off Right Now](https://digitpatrox.com/this-roborock-flexi-wet-dry-vacuum-mop-is-120-off-right-now/)
+* [RansomHouse claims ransomware attack on Université Paris-Saclay – 1TB allegedly stolen](https://digitpatrox.com/ransomhouse-claims-ransomware-attack-on-universite-paris-saclay-1tb-allegedly-stolen/)
+* [Windows 10 22H2 and 21H2 get October 2024 update](https://digitpatrox.com/windows-10-22h2-and-21h2-get-october-2024-update/)
+* [How Playing Four Games at Once Greatly Improves Android Gaming](https://digitpatrox.com/how-playing-four-games-at-once-greatly-improves-android-gaming/)
+* [UK Government launches competition to find future cybersecurity professionals](https://digitpatrox.com/uk-government-launches-competition-to-find-future-cybersecurity-professionals/)
+* [Best Tech Deals for Work](https://digitpatrox.com/best-tech-deals-for-work/)
+* [Netflix releases thrilling first look at ‘The Night Agent’ season 2 — and a third season is already confirmed](https://digitpatrox.com/netflix-releases-thrilling-first-look-at-the-night-agent-season-2-and-a-third-season-is-already-confirmed/)
+* [New Mamba 2FA bypass service targets Microsoft 365 accounts](https://digitpatrox.com/new-mamba-2fa-bypass-service-targets-microsoft-365-accounts/)
+* [Threads is working on a community groups feature](https://digitpatrox.com/threads-is-working-on-a-community-groups-feature/)
+* [All Disney Dreamlight Valley Codes (October 2024)](https://digitpatrox.com/all-disney-dreamlight-valley-codes-october-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://assets.techrepublic.com/uploads/2024/10/call-center-pexels-kampus-8204374.jpg)](https://digitpatrox.com/an-outbound-dialer-will-help-you-win-the-numbers-game/)
+* [![](https://lifehacker.com/imagery/articles/01J9QZRCMVZDP1DSN09P93905A/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-roborock-flexi-wet-dry-vacuum-mop-is-120-off-right-now/)
     
-    [An Outbound Dialer Will Help You Win the Numbers Game](https://digitpatrox.com/an-outbound-dialer-will-help-you-win-the-numbers-game/)
+    [This Roborock Flexi Wet/Dry Vacuum Mop Is $120 Off Right Now](https://digitpatrox.com/this-roborock-flexi-wet-dry-vacuum-mop-is-120-off-right-now/)
     
-    56 seconds ago
+    2 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/4dNgdSE4jWSUFWHyUVjaki-1200-80.jpg)](https://digitpatrox.com/be-quick-the-latest-prime-day-fitbit-deals-slash-prices-by-up-to-79-my-top-3-picks/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/RansomHouse-claims-ransomware-attack-on-Universite-Paris-Saclay.jpg)](https://digitpatrox.com/ransomhouse-claims-ransomware-attack-on-universite-paris-saclay-1tb-allegedly-stolen/)
     
-    [Be quick! The latest Prime Day Fitbit deals slash prices by up to $79 — my top 3 picks](https://digitpatrox.com/be-quick-the-latest-prime-day-fitbit-deals-slash-prices-by-up-to-79-my-top-3-picks/)
+    [RansomHouse claims ransomware attack on Université Paris-Saclay – 1TB allegedly stolen](https://digitpatrox.com/ransomhouse-claims-ransomware-attack-on-universite-paris-saclay-1tb-allegedly-stolen/)
     
-    16 mins ago
+    11 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/02/Windows_11_headpic.jpg)](https://digitpatrox.com/windows-11-22h2-home-and-pro-reached-end-of-servicing/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/10/kb5044273-windows-10-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-10-22h2-and-21h2-get-october-2024-update/)
     
-    [Windows 11 22H2 Home and Pro reached end of servicing](https://digitpatrox.com/windows-11-22h2-home-and-pro-reached-end-of-servicing/)
+    [Windows 10 22H2 and 21H2 get October 2024 update](https://digitpatrox.com/windows-10-22h2-and-21h2-get-october-2024-update/)
     
-    44 mins ago
+    25 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/GjFbQV8GL3u_CBQ9ug9Kzpz-b-g=/0x0:1180x885/1200x628/filters:focal(590x443:591x444)/cdn.vox-cdn.com/uploads/chorus_asset/file/25665396/MediaTek_D9400_base_2_crop.jpg)](https://digitpatrox.com/mediateks-new-flagship-chipset-is-ready-for-ai-and-tri-fold-phones/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-man-playing-some-games-simultaneously-on-the-pc.jpg)](https://digitpatrox.com/how-playing-four-games-at-once-greatly-improves-android-gaming/)
     
-    [MediaTek’s new flagship chipset is ready for AI and tri-fold phones](https://digitpatrox.com/mediateks-new-flagship-chipset-is-ready-for-ai-and-tri-fold-phones/)
+    [How Playing Four Games at Once Greatly Improves Android Gaming](https://digitpatrox.com/how-playing-four-games-at-once-greatly-improves-android-gaming/)
     
-    1 hour ago
+    36 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/09/Tingyun-New-Form-Leaked-in-Honkai-Star-Rail.jpg)](https://digitpatrox.com/honkai-star-rail-has-possibly-revealed-5-star-tingyuns-drip-marketing-date/)
+* [![](https://cdn.mos.cms.futurecdn.net/7cKXsFNSs623VZMRpxY3yQ-1200-80.jpg)](https://digitpatrox.com/uk-government-launches-competition-to-find-future-cybersecurity-professionals/)
     
-    [Honkai Star Rail Has Possibly Revealed 5-star Tingyun’s Drip Marketing Date](https://digitpatrox.com/honkai-star-rail-has-possibly-revealed-5-star-tingyuns-drip-marketing-date/)
+    [UK Government launches competition to find future cybersecurity professionals](https://digitpatrox.com/uk-government-launches-competition-to-find-future-cybersecurity-professionals/)
     
-    1 hour ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [56 seconds ago
+* [2 mins ago
     
-    ### An Outbound Dialer Will Help You Win the Numbers Game](https://digitpatrox.com/an-outbound-dialer-will-help-you-win-the-numbers-game/)
-* [16 mins ago
+    ### This Roborock Flexi Wet/Dry Vacuum Mop Is $120 Off Right Now](https://digitpatrox.com/this-roborock-flexi-wet-dry-vacuum-mop-is-120-off-right-now/)
+* [11 mins ago
     
-    ### Be quick! The latest Prime Day Fitbit deals slash prices by up to $79 — my top 3 picks](https://digitpatrox.com/be-quick-the-latest-prime-day-fitbit-deals-slash-prices-by-up-to-79-my-top-3-picks/)
-* [44 mins ago
+    ### RansomHouse claims ransomware attack on Université Paris-Saclay – 1TB allegedly stolen](https://digitpatrox.com/ransomhouse-claims-ransomware-attack-on-universite-paris-saclay-1tb-allegedly-stolen/)
+* [25 mins ago
     
-    ### Windows 11 22H2 Home and Pro reached end of servicing](https://digitpatrox.com/windows-11-22h2-home-and-pro-reached-end-of-servicing/)
+    ### Windows 10 22H2 and 21H2 get October 2024 update](https://digitpatrox.com/windows-10-22h2-and-21h2-get-october-2024-update/)
 
 Most Popular Topics
 
-* [August 14, 2024
+* [September 6, 2024
     
-    ### My Favorite Amazon Deal of the Day: The Google Pixel Buds Pro 2](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-google-pixel-buds-pro-2/)
-* [August 25, 2024
+    ### My favorite action movie ever made is now streaming for free — and it’s better than ‘John Wick’](https://digitpatrox.com/my-favorite-action-movie-ever-made-is-now-streaming-for-free-and-its-better-than-john-wick/)
+* [September 3, 2024
     
-    ### Worldwide UC&C revenues to hit $69.1B mark this year, IDC projects – Computerworld](https://digitpatrox.com/worldwide-ucc-revenues-to-hit-69-1b-mark-this-year-idc-projects-computerworld/)
-* [5 days ago
+    ### How to Delete X/Twitter Account](https://digitpatrox.com/how-to-delete-x-twitter-account/)
+* [August 26, 2024
     
-    ### Microsoft and DOJ disrupt Russian FSB hackers’ attack infrastructure](https://digitpatrox.com/microsoft-and-doj-disrupt-russian-fsb-hackers-attack-infrastructure/)
+    ### What is WRAP and how can it help train AI more efficiently?](https://digitpatrox.com/what-is-wrap-and-how-can-it-help-train-ai-more-efficiently/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### Netflix releases thrilling first look at ‘The Night Agent’ season 2 — and a third season is already confirmed](https://digitpatrox.com/netflix-releases-thrilling-first-look-at-the-night-agent-season-2-and-a-third-season-is-already-confirmed/)
+* [2 hours ago
+    
+    ### New Mamba 2FA bypass service targets Microsoft 365 accounts](https://digitpatrox.com/new-mamba-2fa-bypass-service-targets-microsoft-365-accounts/)
 * [3 hours ago
     
-    ### The Yaber K2s Projector Just Hit Its Lowest Price Ever During October Prime Day](https://digitpatrox.com/the-yaber-k2s-projector-just-hit-its-lowest-price-ever-during-october-prime-day/)
-* [4 hours ago
-    
-    ### How to use Rufus to create bootable Windows 11 24H2 USB](https://digitpatrox.com/how-to-use-rufus-to-create-bootable-windows-11-24h2-usb/)
-* [4 hours ago
-    
-    ### Regulators Aim to Crack Down on Infant ‘Neck Floats’ After Two Deaths and Dozens of Close Calls Reported](https://digitpatrox.com/regulators-aim-to-crack-down-on-infant-neck-floats-after-two-deaths-and-dozens-of-close-calls-reported/)
+    ### Threads is working on a community groups feature](https://digitpatrox.com/threads-is-working-on-a-community-groups-feature/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
