@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Left: NEW YORK, NY - AUGUST 04: Martin Shkreli, former chief executive officer of Turing Pharmaceuticals AG, center, pauses while speak to members of the media outside federal court in the Brooklyn borough of New York, U.S., on Friday, Aug. 4, 2017 (People: Martin Shkreli Transmission Ref: MNC1 Hoo-Me.com / MediaPunch/IPX). Right: FILE - New York Attorney General Letitia James speaks during a press briefing, Feb. 16, 2024, in New York. A New York man has been charged with sending death threats to James and the Manhattan judge who presided over former President Donald Trump’s civil suit. (AP Photo/Bebeto Matthews, File)](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Marti-Shkreli-Letitia-James-432x243.jpg)](https://lawandcrime.com/high-profile/his-selfishness-had-consequences-ag-james-takes-victory-lap-as-scotus-rejects-pharma-bro-martin-shkrelis-appeal/)
+1. [![Donald Trump, JD Vance](https://am22.mediaite.com/lc/cnt/uploads/2024/10/AP24234754544836-432x243.jpg)](https://lawandcrime.com/high-profile/haitian-group-accusing-trump-and-vance-of-crimes-with-eating-the-cats-falsehoods-dealt-a-major-setback-after-court-reviews-case/)
     
-    ### ['His selfishness had consequences': AG James takes victory lap as SCOTUS rejects 'Pharma Bro' Martin Shkreli's appeal](https://lawandcrime.com/high-profile/his-selfishness-had-consequences-ag-james-takes-victory-lap-as-scotus-rejects-pharma-bro-martin-shkrelis-appeal/)
+    ### ['Significant mischaracterization' of evidence: Court just dealt Haitian group accusing Trump and JD Vance of committing crimes with 'eating the cats' falsehoods a major loss](https://lawandcrime.com/high-profile/haitian-group-accusing-trump-and-vance-of-crimes-with-eating-the-cats-falsehoods-dealt-a-major-setback-after-court-reviews-case/)
     
-2. [![Allison Schardin](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Allison-Schardin-432x243.jpg)](https://lawandcrime.com/crime/really-creepy-wife-and-mother-met-hockey-players-young-enough-to-be-her-kids-in-hot-tub-while-on-stay%e2%80%90cation-with-family-and-did-the-unthinkable/)
+2. [![Romi Frentescu](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Romi-Frentescu-432x243.jpg)](https://lawandcrime.com/crime/he-wanted-the-man-to-die-member-of-infamous-motorcycle-club-murders-2-tells-nurse-to-quit-cpr-on-one-of-the-victims-cops-say/)
+    
+    ### ['He wanted the man to die': Member of infamous motorcycle club murders 2, tells nurse to quit CPR on one of the victims, cops say](https://lawandcrime.com/crime/he-wanted-the-man-to-die-member-of-infamous-motorcycle-club-murders-2-tells-nurse-to-quit-cpr-on-one-of-the-victims-cops-say/)
+    
+3. [![Gloria Williams and Kendrick Lee](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Gloria-Williams-and-Kendrick-Lee-432x243.jpg)](https://lawandcrime.com/crime/mother-who-let-boyfriend-beat-8-year-old-son-to-death-before-forcing-the-boys-siblings-to-live-with-his-body-for-a-year-is-going-to-prison/)
+    
+    ### [Mother who let boyfriend beat 8-year-old son to death before forcing the boy's siblings to live with his body for a year is going to prison](https://lawandcrime.com/crime/mother-who-let-boyfriend-beat-8-year-old-son-to-death-before-forcing-the-boys-siblings-to-live-with-his-body-for-a-year-is-going-to-prison/)
+    
+4. [![Allison Schardin](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Allison-Schardin-432x243.jpg)](https://lawandcrime.com/crime/really-creepy-wife-and-mother-met-hockey-players-young-enough-to-be-her-kids-in-hot-tub-while-on-stay%e2%80%90cation-with-family-and-did-the-unthinkable/)
     
     ### ['Really creepy' wife and mother met hockey players 'young enough to be her kids' in hot tub while on 'stay‐cation' with family and did the unthinkable](https://lawandcrime.com/crime/really-creepy-wife-and-mother-met-hockey-players-young-enough-to-be-her-kids-in-hot-tub-while-on-stay%e2%80%90cation-with-family-and-did-the-unthinkable/)
     
-3. [![Background: FILE - Violent rioters loyal to President Donald Trump storm the Capitol in Washington on Jan. 6, 2021 (AP Photo/John Minchillo, File). Insets, left to right: Paul Orta, Jr. walking toward the U.S. Capitol on Jan. 6, 2021; Orta throwing a police barricade over a wall on Capitol grounds (Justice Dept. court filing).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Paul-Orta-Jan.-6-432x243.jpg)](https://lawandcrime.com/high-profile/were-taking-that-s-today-rioter-seen-tossing-police-barricade-confronting-cops-during-jan-6-attack-gets-prison-time/)
+5. [![Left: NEW YORK, NY - AUGUST 04: Martin Shkreli, former chief executive officer of Turing Pharmaceuticals AG, center, pauses while speak to members of the media outside federal court in the Brooklyn borough of New York, U.S., on Friday, Aug. 4, 2017 (People: Martin Shkreli Transmission Ref: MNC1 Hoo-Me.com / MediaPunch/IPX). Right: FILE - New York Attorney General Letitia James speaks during a press briefing, Feb. 16, 2024, in New York. A New York man has been charged with sending death threats to James and the Manhattan judge who presided over former President Donald Trump’s civil suit. (AP Photo/Bebeto Matthews, File)](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Marti-Shkreli-Letitia-James-432x243.jpg)](https://lawandcrime.com/high-profile/his-selfishness-had-consequences-ag-james-takes-victory-lap-as-scotus-rejects-pharma-bro-martin-shkrelis-appeal/)
     
-    ### ['We're taking that s--- today!': Rioter seen tossing police barricade, confronting cops during Jan. 6 attack gets prison time](https://lawandcrime.com/high-profile/were-taking-that-s-today-rioter-seen-tossing-police-barricade-confronting-cops-during-jan-6-attack-gets-prison-time/)
-    
-4. [![Daniel Keith Flaherty and Kayla Flaherty (Gibson County Sheriff's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Daniel-Keith-Flaherty-and-Kayla-Flaherty-432x243.png)](https://lawandcrime.com/crime/rigged-the-vehicle-husband-who-just-beat-wife-to-death-with-hammer-after-she-filed-for-divorce-tried-to-make-it-seem-like-she-had-been-going-to-her-mothers-home-deputies-say/)
-    
-    ### ['Rigged the vehicle': Husband who just beat wife to death with hammer after she filed for divorce tried to make it seem like she had been going to her mother's home, deputies say](https://lawandcrime.com/crime/rigged-the-vehicle-husband-who-just-beat-wife-to-death-with-hammer-after-she-filed-for-divorce-tried-to-make-it-seem-like-she-had-been-going-to-her-mothers-home-deputies-say/)
-    
-5. [![Gloria Williams and Kendrick Lee](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Gloria-Williams-and-Kendrick-Lee-432x243.jpg)](https://lawandcrime.com/crime/mother-who-let-boyfriend-beat-8-year-old-son-to-death-before-forcing-the-boys-siblings-to-live-with-his-body-for-a-year-is-going-to-prison/)
-    
-    ### [Mother who let boyfriend beat 8-year-old son to death before forcing the boy's siblings to live with his body for a year is going to prison](https://lawandcrime.com/crime/mother-who-let-boyfriend-beat-8-year-old-son-to-death-before-forcing-the-boys-siblings-to-live-with-his-body-for-a-year-is-going-to-prison/)
+    ### ['His selfishness had consequences': AG James takes victory lap as SCOTUS rejects 'Pharma Bro' Martin Shkreli's appeal](https://lawandcrime.com/high-profile/his-selfishness-had-consequences-ag-james-takes-victory-lap-as-scotus-rejects-pharma-bro-martin-shkrelis-appeal/)
     
 
 [](http://eepurl.com/c89Jdb)
