@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Jeffery-Campos-326x245.jpg)](https://cwbchicago.com/2024/10/suburban-man-charged-with-murdering-victim-during-altercation-in-river-north-on-saturday.html "Suburban man charged with murdering victim during altercation in River North on Saturday")
+
+River North
+
+### [Suburban man charged with murdering victim during altercation in River North on Saturday](https://cwbchicago.com/2024/10/suburban-man-charged-with-murdering-victim-during-altercation-in-river-north-on-saturday.html "Suburban man charged with murdering victim during altercation in River North on Saturday")
+
+[October 7, 2024 6:03 AM](https://cwbchicago.com/2024/10)
+
+A Cicero man will be in court later today, charged with murdering another man in the Hubbard Street nightlife district downtown.[](https://cwbchicago.com/2024/10/suburban-man-charged-with-murdering-victim-during-altercation-in-river-north-on-saturday.html "Suburban man charged with murdering victim during altercation in River North on Saturday")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Solider-Field-2024-326x245.jpg)](https://cwbchicago.com/2024/10/worker-stabbed-after-bears-game-at-soldier-field.html "Worker stabbed after Bears game at Soldier Field")
+
+South Loop
+
+### [Worker stabbed after Bears game at Soldier Field](https://cwbchicago.com/2024/10/worker-stabbed-after-bears-game-at-soldier-field.html "Worker stabbed after Bears game at Soldier Field")
+
+[October 7, 2024 5:46 AM](https://cwbchicago.com/2024/10)
+
+A suspect is in custody after a man was stabbed at Soldier Field after the Bears game on Sunday.[](https://cwbchicago.com/2024/10/worker-stabbed-after-bears-game-at-soldier-field.html "Worker stabbed after Bears game at Soldier Field")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/Greenview-and-Morse-chicago-326x245.jpg)](https://cwbchicago.com/2024/10/man-shot-critically-injured-in-rogers-park.html "Man shot, critically injured in Rogers Park")
 
 Rogers Park
@@ -252,26 +272,6 @@ Rogers Park
 [October 6, 2024 7:46 AM](https://cwbchicago.com/2024/10)
 
 A man was shot and critically injured in Rogers Park on Sunday morning, Chicago police said. According to officers, he did not cooperate with CPD’s investigation before heading into surgery.[](https://cwbchicago.com/2024/10/man-shot-critically-injured-in-rogers-park.html "Man shot, critically injured in Rogers Park")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Rite-Liquors-1649-W-Division-SV-326x245.jpg)](https://cwbchicago.com/2024/10/man-gets-shot-with-his-own-gun-after-dropping-weapon-during-a-fight-in-west-town-police.html "Man gets shot with his own gun after dropping weapon during a fight in West Town: police")
-
-West Town
-
-### [Man gets shot with his own gun after dropping weapon during a fight in West Town: police](https://cwbchicago.com/2024/10/man-gets-shot-with-his-own-gun-after-dropping-weapon-during-a-fight-in-west-town-police.html "Man gets shot with his own gun after dropping weapon during a fight in West Town: police")
-
-[October 6, 2024 6:14 AM](https://cwbchicago.com/2024/10)
-
-A man was injured in West Town overnight after he dropped his firearm during an altercation and his opponent shot him with the weapon, police said.[](https://cwbchicago.com/2024/10/man-gets-shot-with-his-own-gun-after-dropping-weapon-during-a-fight-in-west-town-police.html "Man gets shot with his own gun after dropping weapon during a fight in West Town: police")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/226-West-Hubbard-map-326x245.jpg)](https://cwbchicago.com/2024/10/man-critically-wounded-in-river-north-shooting-2nd-victim-shot-in-the-neighborhod-this-weekend.html "Man critically wounded in River North shooting; 2nd victim shot in the neighborhood this weekend")
-
-River North
-
-### [Man critically wounded in River North shooting; 2nd victim shot in the neighborhood this weekend](https://cwbchicago.com/2024/10/man-critically-wounded-in-river-north-shooting-2nd-victim-shot-in-the-neighborhod-this-weekend.html "Man critically wounded in River North shooting; 2nd victim shot in the neighborhood this weekend")
-
-[October 6, 2024 5:30 AM](https://cwbchicago.com/2024/10)
-
-A man is in critical condition after being shot while riding in a car in River North overnight. It is the second shooting of the weekend in the downtown neighborhood. The earlier victim died.[](https://cwbchicago.com/2024/10/man-critically-wounded-in-river-north-shooting-2nd-victim-shot-in-the-neighborhod-this-weekend.html "Man critically wounded in River North shooting; 2nd victim shot in the neighborhood this weekend")
 
 Search
 
