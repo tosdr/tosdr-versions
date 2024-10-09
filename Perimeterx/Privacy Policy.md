@@ -1,5 +1,11 @@
 <img src="https://pixel62ce5556d21c1d3.advangelists.com/v1/audiences?account\_id=488&amp;segment\_key=62ce5556d21c1d3&amp;vars\[advid\]=2427" width="1" height="1">        
 
+X
+
+HUMAN raises $50+ million in growth funding to accelerate the Human Defense Platform expansion
+
+[Learn More](https://www.humansecurity.com/newsroom/platform-expansion-fuel-the-future-of-human)
+
 [](https://www.perimeterx.com/)
 
 * Platform
@@ -668,10 +674,10 @@ This is a subtitle
 
 Some content goes here..](https://www.linkedin.com/company/humansecurityinc/)
 
-Comprehensive protection for today's customer journey
-=====================================================
+Safeguard every step of your customer’s journey
+===============================================
 
-Unmatched detection, decisioning, and protection to safeguard against automated threats and fraud.
+Ensure every digital interaction, transaction, and connection is authentic, secure, and human.
 
 [Explore the Platform](https://www.humansecurity.com/platform)
 
