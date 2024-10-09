@@ -1033,7 +1033,7 @@ arrow bottom
 
 ​
 
-[![2024 Newsweek Best Online Shops](https://cdn.lorex.com/images/badges/newsweek-2024.png)](https://www.newsweek.com/rankings/americas-best-online-shops-2024) ![Lorex Technology inc BBB Business Review](https://cdn.lorex.com/images/BBB/BBB-Logo-sm.png)
+[![2025 Newsweek Best Online Shops](https://cdn.lorex.com/images/badges/newsweek2025.png)](https://www.newsweek.com/rankings/americas-best-online-shops-2025/office-electronics-media) ![Lorex Technology inc BBB Business Review](https://cdn.lorex.com/images/BBB/BBB-Logo-sm.png)
 
 * [youtube](https://www.youtube.com/user/LorexTechnology)
 * [facebook](https://www.facebook.com/LorexTechnology)
