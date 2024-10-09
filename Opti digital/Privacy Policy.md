@@ -211,13 +211,13 @@ OPTI DIGITAL
 
 ![](https://www.optidigital.com/wp-content/uploads/2020/04/IAB-registered-vendor.png)](http://iabeurope.eu/vendor-list/)
 
-[![Test-mcm-24](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Test-mcm-24")
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Test-mcm-24")
 
-![Test-mcm-24](https://www.optidigital.com/wp-content/uploads/elementor/thumbs/Test-mcm-24-1-qjvzx33h4egwnl3rvlzz4ievp15911nk85r3eoswgc.png "Test-mcm-24")](https://www.optidigital.com/blog/google-mcm-un-tournant-pour-les-editeurs-de-medias/)
+![](https://www.optidigital.com/wp-content/uploads/elementor/thumbs/Test-mcm-24-1-qjvzx33h4egwnl3rvlzz4ievp15911nk85r3eoswgc.png "Test-mcm-24")](https://www.optidigital.com/blog/google-mcm-un-tournant-pour-les-editeurs-de-medias/)
 
-![Logo Occitanie-rectangle-quadri-150x150-72dpi](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Logo Occitanie-rectangle-quadri-150×150-72dpi")
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Logo Occitanie-rectangle-quadri-150×150-72dpi")
 
-![Logo Occitanie-rectangle-quadri-150x150-72dpi](https://www.optidigital.com/wp-content/uploads/elementor/thumbs/OC-1706-instit-logo-rectangle-quadri-150x150-72dpi-pc85gi0yhgwwagsklhl9tryjils9xrwbx06cv7xsuk.png "Logo Occitanie-rectangle-quadri-150×150-72dpi")
+![](https://www.optidigital.com/wp-content/uploads/elementor/thumbs/OC-1706-instit-logo-rectangle-quadri-150x150-72dpi-pc85gi0yhgwwagsklhl9tryjils9xrwbx06cv7xsuk.png "Logo Occitanie-rectangle-quadri-150×150-72dpi")
 
 * [Politique de confidentialité](https://www.optidigital.com/privacy-policy)
 
