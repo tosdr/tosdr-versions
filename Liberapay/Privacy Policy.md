@@ -22,7 +22,7 @@
     * [Türkçe](https://tr.liberapay.com/about/privacy)
     * [Čeština](https://cs.liberapay.com/about/privacy)
     * [Ελληνικά   (2% machine translated)](https://el.liberapay.com/about/privacy)
-    * [Русский](https://ru.liberapay.com/about/privacy)
+    * [Русский](https://ru.liberapay.com/about/privacy)  
     * [Українська](https://uk.liberapay.com/about/privacy)
     * [中文 (简体)](https://zh-hans.liberapay.com/about/privacy)
     * [中文 (繁體)   (2% machine translated)](https://zh-hant.liberapay.com/about/privacy)
