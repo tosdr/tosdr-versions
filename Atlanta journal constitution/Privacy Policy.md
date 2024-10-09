@@ -1,5 +1,3 @@
-[Breaking: The State Election Board is pushing election skeptics to monitor Fulton County’s elections](https://www.ajc.com/politics/election/fulton-county-is-suing-the-state-election-board-after-it-pushed-election-skeptics-to-monitor-elections/KSEXUPVI5ZAO5ACSNB6ZOGEVRU/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1711)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1711)](https://www.ajc.com/)
 
 Log In
@@ -16,7 +14,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [Georgia Decides 2024: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
+* [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
