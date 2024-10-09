@@ -58,6 +58,14 @@ Ga direct naar
 
 [](https://www.true.nl/?utm_source=tweakers&utm_medium=referral&utm_campaign=2023_H2_Awareness&utm_content=Awareness "Hosting door True")
 
+sluiten
+
+### Onderzoek naar expertise en behoefte aan advies
+
+Wij zijn benieuwd naar hoe goed Tweakers aansluit op jouw expertises en jouw behoefte aan advies. Wil jij ons helpen om Tweakers verder te verbeteren? Doe mee aan ons onderzoek, dit duurt ongeveer 3 minuten. Dankjewel!
+
+[Naar de vragenlijst](https://q.crowdtech.com/hP0ODnTZtEeXZ3VFzPSnog)
+
 Tracker Actieve topics
 
 Algemene voorwaarden
