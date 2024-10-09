@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Former Mayor of New York Rudy Giuliani leaves the federal courthouse in Washington, Monday, Dec. 11, 2023. The trial will determine how much Rudy Giuliani will have to pay two Georgia election workers who he falsely accused of fraud while pushing President Donald Trump's baseless claims after he lost the 2020 election. (AP Photo/Jose Luis Magana)](https://am23.mediaite.com/lc/cnt/uploads/2023/12/rudy-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giuliani-wants-to-stop-defamed-georgia-election-workers-from-mentioning-money-he-is-owed-by-the-trump-campaign-until-after-the-election/)
+1. [![Heather Rodriguez and Jiryiah Johnson](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Heather-Rodriguez-and--432x243.jpg)](https://lawandcrime.com/crime/tug-of-war-for-the-baby-babysitters-vicious-dogs-kill-1-year-old-boy-as-helpless-teen-girl-tries-to-save-him-cops-say/)
     
-    ### [Rudy Giuliani wants to stop defamed Georgia election workers from mentioning money he is owed by the Trump campaign – until after the election](https://lawandcrime.com/high-profile/rudy-giuliani-wants-to-stop-defamed-georgia-election-workers-from-mentioning-money-he-is-owed-by-the-trump-campaign-until-after-the-election/)
+    ### ['Tug-of-war for the baby': Babysitter's vicious dogs kill 1-year-old boy as helpless teen girl tries to save him, cops say](https://lawandcrime.com/crime/tug-of-war-for-the-baby-babysitters-vicious-dogs-kill-1-year-old-boy-as-helpless-teen-girl-tries-to-save-him-cops-say/)
     
-2. [![Peggy Sylvania Yarborough (Garner Police Department).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Peggy-Sylvania-Yarborough-432x243.png)](https://lawandcrime.com/crime/i-cant-tell-you-what-she-was-thinking-woman-admits-to-fatal-halloween-shooting-of-live-in-ex-boyfriend/)
+2. [![Judge Steve Stambaugh](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Steve-Stambaugh-432x243.jpg)](https://lawandcrime.com/crime/harley-davidson-riding-attorney-turned-judge-cooked-up-scheme-to-unjustly-enrich-himself-during-covid-19-pandemic-and-obstructed-justice-after-his-election-feds/)
     
-    ### ['I can't tell you what she was thinking': Woman admits to fatal Halloween shooting of live-in ex-boyfriend](https://lawandcrime.com/crime/i-cant-tell-you-what-she-was-thinking-woman-admits-to-fatal-halloween-shooting-of-live-in-ex-boyfriend/)
+    ### [Harley-Davidson riding attorney turned judge cooked up scheme to 'unjustly enrich himself' during COVID-19 pandemic and obstructed justice after his election: Feds](https://lawandcrime.com/crime/harley-davidson-riding-attorney-turned-judge-cooked-up-scheme-to-unjustly-enrich-himself-during-covid-19-pandemic-and-obstructed-justice-after-his-election-feds/)
     
-3. [![Background: Oak Grove Church Road, Franklin County, Mo. (Google Maps). Inset: Donald A. Pierce Jr. (Franklin County Sheriff's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Donald-A.-Pierce-Jr-432x243.jpg)](https://lawandcrime.com/crime/man-ran-estranged-wife-off-road-into-creek-because-she-was-going-to-tell-everything-and-testify-against-him-at-rape-trial-family-members-say/)
+3. [![Popular post image](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Template-1-432x243.jpg)](https://lawandcrime.com/crime/i-have-no-choice-but-to-run-him-over-uber-driver-threatened-to-make-passenger-permanently-disabled-for-reporting-him-to-company-over-service-dog-feds-say/)
     
-    ### [Man ran estranged wife off road, into creek because she was going to 'tell everything' and testify against him at rape trial, family members say](https://lawandcrime.com/crime/man-ran-estranged-wife-off-road-into-creek-because-she-was-going-to-tell-everything-and-testify-against-him-at-rape-trial-family-members-say/)
+    ### ['I have no choice but to run him over': Uber driver threatened to make passenger 'permanently disabled' for reporting him to company over service dog, feds say](https://lawandcrime.com/crime/i-have-no-choice-but-to-run-him-over-uber-driver-threatened-to-make-passenger-permanently-disabled-for-reporting-him-to-company-over-service-dog-feds-say/)
     
-4. [![Vince McMahon lawsuit](https://am21.mediaite.com/lc/cnt/uploads/2024/10/AP24281695808087-432x243.jpg)](https://lawandcrime.com/high-profile/prove-it-ex-wwe-employees-latest-demand-could-be-really-bad-news-for-vince-mcmahon-in-trafficking-suit-over-dream-that-quickly-became-a-nightmare/)
+4. [![Samantha Sebella and Steven Valle](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Steven-Valle-and-Samantha-Sebella-432x243.jpg)](https://lawandcrime.com/crime/guess-what-baby-killer-father-buried-2-murdered-children-only-to-dig-them-up-years-later-and-burn-their-bodies-saving-some-ashes-as-a-memento-cops-say/)
     
-    ### ['Prove it': Ex-WWE employee's latest demand could be really bad news for Vince McMahon in trafficking suit over 'dream' that 'quickly became a nightmare'](https://lawandcrime.com/high-profile/prove-it-ex-wwe-employees-latest-demand-could-be-really-bad-news-for-vince-mcmahon-in-trafficking-suit-over-dream-that-quickly-became-a-nightmare/)
+    ### ['GUESS WHAT BABY KILLER:' Father buried 2 murdered children only to dig them up years later and burn their bodies, saving some ashes as a memento, cops say](https://lawandcrime.com/crime/guess-what-baby-killer-father-buried-2-murdered-children-only-to-dig-them-up-years-later-and-burn-their-bodies-saving-some-ashes-as-a-memento-cops-say/)
     
-5. [![Romi Frentescu](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Romi-Frentescu-432x243.jpg)](https://lawandcrime.com/crime/he-wanted-the-man-to-die-member-of-infamous-motorcycle-club-murders-2-tells-nurse-to-quit-cpr-on-one-of-the-victims-cops-say/)
+5. [![Rudy Giuliani](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Rudy-Giuliani-Andrew-Giuliani-432x243.jpg)](https://lawandcrime.com/high-profile/i-want-to-give-them-to-you-now-andrew-giuliani-rushes-to-stop-defamed-2020-election-workers-from-collecting-new-york-yankees-superfan-dads-world-series-rings-submits-photo-proof/)
     
-    ### ['He wanted the man to die': Member of infamous motorcycle club murders 2, tells nurse to quit CPR on one of the victims, cops say](https://lawandcrime.com/crime/he-wanted-the-man-to-die-member-of-infamous-motorcycle-club-murders-2-tells-nurse-to-quit-cpr-on-one-of-the-victims-cops-say/)
+    ### ['I want to give them to you now': Andrew Giuliani rushes to stop defamed 2020 election workers from collecting New York Yankees superfan dad's World Series rings, submits photo proof](https://lawandcrime.com/high-profile/i-want-to-give-them-to-you-now-andrew-giuliani-rushes-to-stop-defamed-2020-election-workers-from-collecting-new-york-yankees-superfan-dads-world-series-rings-submits-photo-proof/)
     
 
 [](http://eepurl.com/c89Jdb)
