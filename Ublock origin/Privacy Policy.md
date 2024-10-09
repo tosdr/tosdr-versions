@@ -157,7 +157,7 @@ You signed in with another tab or window. Reload to refresh your session. You si
 
 * [Notifications](https://github.com/login?return_to=%2Fgorhill%2FuBlock) You must be signed in to change notification settings
 * [Fork 3.1k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
-* [Star 46.4k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
+* [Star 46.5k](https://github.com/login?return_to=%2Fgorhill%2FuBlock)
     
 
 * [Code](https://github.com/gorhill/uBlock)
