@@ -171,9 +171,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [The new data landscape: Navigating the shift to AI-ready data](https://www.onetrust.com/resources/the-new-data-landscape-navigating-the-shift-to-ai-ready-data-webinar/)
 * [Build resiliency and operationalize compliance with OneTrust: Fall product release recap, 2024](https://www.onetrust.com/resources/build-resiliency-and-operationalize-compliance-with-onetrust-fall-product-release-recap-2024-webinar/)
 * [OneTrust Solution & Product Demos](https://www.onetrust.com/resources/onetrust-demos/)
-* [OneTrust named a strong performer in 2023 Forrester Data Governance Wave​](https://www.onetrust.com/resources/onetrust-named-a-strong-performer-in-2023-forrester-data-governance-wave-report/)
 
 ### Platform
 
