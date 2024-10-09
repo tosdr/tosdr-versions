@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![This Strange Eventful History: The Art of Burning Man](/wp-content/thumbnails/1616-100x70.jpg?x53432)
+* [![The Boy With The Incredible Brain](/wp-content/thumbnails/170-100x70.jpg?x53432)
     
-    This Strange Eventful History: The Art of Burning Man
+    The Boy With The Incredible Brain
     
-    This half-hour documentary film, patterned after such films as "Baraka", shows the stunning art and visual environment of the Burning Man Festival, held yearly in the desert of northern Nevada.The](https://documentaryheaven.com/this-strange-eventful-history-the-art-of-burning-man/ "This Strange Eventful History: The Art of Burning Man")
-* [![The Beautiful Truth](/wp-content/thumbnails/6238-100x70.jpg?x53432)
+    Daniel Tammet is a twenty-something with extraordinary mental abilities, Daniel is one of the world’s few savants. He can do calculations to 100 decimal places in his head, and learn a language in a w](https://documentaryheaven.com/the-boy-with-the-incredible-brain/ "The Boy With The Incredible Brain")
+* [![Darwin’s Nightmare](/wp-content/thumbnails/819-100x70.png?x53432)
     
-    The Beautiful Truth
+    Darwin’s Nightmare
     
-    Garrett is a 15-year old boy living in the Alaskan wilderness with a menagerie of orphaned animals. Growing up close with nature has given him a deep understanding of nutritional needs required by die](https://documentaryheaven.com/the-beautiful-truth/ "The Beautiful Truth")
-* [![Reggie Yates: Teen Gangs](/wp-content/thumbnails/12800-100x70.jpg?x53432)
+    A harrowing, hard-hitting documentary which shows the devastating effects of the “globalized” economy on the residents of a fishing village in Tanzania. The story starts four decades ago when a specie](https://documentaryheaven.com/darwin%e2%80%99s-nightmare/ "Darwin’s Nightmare")
+* [![Extreme Russia: Gay & Under Attack](/wp-content/thumbnails/16656-100x70.jpg?x53432)
     
-    Reggie Yates: Teen Gangs
+    Extreme Russia: Gay & Under Attack
     
-    In this film we see British television personality, Reggie Yates, embark on a journey into the murky world teen gang violence. As a child, Yates himself grew up on a council estate with his family rec](https://documentaryheaven.com/reggie-yates-teen-gangs/ "Reggie Yates: Teen Gangs")
-* [![Marmelete and the Medronho](/wp-content/thumbnails/10207-100x70.jpg?x53432)
+    Russia is the largest country on Earth and home to nearly 150 million people, now with Vladimir Putin well into his third term as president it's starting to feel like the cold war era all over again.](https://documentaryheaven.com/extreme-russia-gay-under-attack/ "Extreme Russia: Gay & Under Attack")
+* [![The Secret](/wp-content/thumbnails/1598-100x70.jpg?x53432)
     
-    Marmelete and the Medronho
+    The Secret
     
-    The cool Autumn marks a change in the Earths cycles, giving way to a new season and the Aguardente de Medronhos which is a traditional Portuguese brandy made from the fruit of the Medronho tree. These](https://documentaryheaven.com/marmelete-medronho/ "Marmelete and the Medronho")
-* [![Insanely Dangerous](/wp-content/thumbnails/4946-100x70.jpg?x53432)
+    The self-actualization phenomenon known as The Secret pivots on the time-honored new age notion of the Laws of Attraction: That is, think positively, and positive things will come to you. This film, o](https://documentaryheaven.com/the-secret/ "The Secret")
+* [![Cycling’s Greatest Fraud](/wp-content/thumbnails/8023-100x70.jpg?x53432)
     
-    Insanely Dangerous
+    Cycling’s Greatest Fraud
     
-    In January 2004, Niels hijacked a train while police and a TV crew was on the spot. Though they quickly found out that this was not just a story about a hijacking. It was, instead, the story of a psyc](https://documentaryheaven.com/insanely-dangerous/ "Insanely Dangerous")
+    This one-hour special dissects the story of the science and scheming behind what's been called "the most sophisticated and successful doping scheme in all of sports".Piece together eyewitness testim](https://documentaryheaven.com/cyclings-greatest-fraud/ "Cycling’s Greatest Fraud")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
