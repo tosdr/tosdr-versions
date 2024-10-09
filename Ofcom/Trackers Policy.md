@@ -32,7 +32,7 @@
     
     Ofcom is committed to a thriving telecoms sector, where companies can compete fairly and customers benefit from a broad range of services.
     
-    [Post](https://www.ofcom.org.uk/post/?language=en)
+    [Post](https://www.ofcom.org.uk/post/)
     
     Ofcom's job is to make sure there is a universal postal service.
     
@@ -297,11 +297,7 @@ You can block or remove cookies set by our other websites – see the full list 
 Related content
 ---------------
 
-[### General Privacy Statement – How we handle your personal data
-
-Published: 10 February 2023
-
-Last updated: 27 February 2024](https://www.ofcom.org.uk/about-ofcom/corporate-policies/general-privacy-statement/)
+[### General Privacy Statement – How we handle your personal data](https://www.ofcom.org.uk/about-ofcom/corporate-policies/general-privacy-statement/)
 
 [Back to top](#)
 
