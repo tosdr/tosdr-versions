@@ -33,19 +33,19 @@ We may have periodic contests.  Collected information is never given out to thi
   
 **The Children's Online Privacy Protection Act (COPPA) governs information gathering online from or about children under the age of 13. Verifiable consent from a child's parent or guardian is required before collecting, using, or disclosing personal information from a child under the age of 13.  
   
-We collect no identifiable personal information, like email, address, first/last name, etc. for users that are under 13 years of age. None of our features require an account for usage. However, some features have added-value items, like notification if a homework help question is answered. These special features require parental consent for children under 13 before it can be used and we communicate this to the user. If we do need to collect information about a child under 13 years of age, COPPA required information and instructions will be provided by the specific Web page that collects information about the child. The Web page will specify exactly what the information will be used for, who will see it, and how long it will be kept. We never ask or store personal information, such as email address or full names of our subscribers. The only email stored is a the parent's account, since that is needed to get membership approval. Account requests that are not activated are deleted after 21 days. Finally, all posted content is first reviewed by staff for safety, such as if it contains any personal or harmful content. If it does, the content is either edited to make it safe, or removed from our system.
+We collect no identifiable personal information, like email, address, first/last name, etc. for users that are under 13 years of age. None of our features require an account for usage. However, some features have added-value items, like notification if a homework help question is answered. These special features require parental consent for children under 13 before it can be used and we communicate this to the user. If we do need to collect information about a child under 13 years of age, COPPA required information and instructions will be provided by the specific Web page that collects information about the child. The Web page will specify exactly what the information will be used for, who will see it, and how long it will be kept. We never ask or store personal information, such as email address or full names of our subscribers. The only email stored is the parent's account, since that is needed to get membership approval. Account requests that are not activated are deleted after 21 days. Finally, all posted content is first reviewed by staff for safety, such as if it contains any personal or harmful content. If it does, the content is either edited to make it safe, or removed from our system.
 
 There are several exceptions that permit collection of a child's email address without receiving parental consent in advance:  
   
 To provide the parents with notice and to seek consent for communications with the child. Note: this may require collection of the parent's email address as well.  
   
-To respond to a one time request from a child, such as when they user our contact form.  
+To respond to a one-time request from a child, such as when they use our contact form.  
   
 To respond more than once to a child's request; i.e., subscription to a newsletter. However, parental consent is required prior to the second communication.  
   
 To protect the safety of a child who is participating on the site; i.e., in our homework help forum.  
   
-To protect the site or to respond to law enforcement; i.e., in the case of a Web site being compromised.  
+To protect the site or to respond to law enforcement; i.e., in the case of a website being compromised.  
   
 Personal information about children under 13 years of age may be needed to respond to his/her communication to us, such as to request a site feature or to report problems with the site. Personal information about your child will be deleted/destroyed immediately upon completion of its intended purpose. On rare occasions, it may be determined that a communication from a child under 13 years old should be maintained for historical purposes. Should such an occasion occur, we will obtain the necessary consent from the child's parent.  
   
@@ -76,7 +76,7 @@ We are compliant with the policies of several industry groups that focus on effe
 You communicate with KidzSearch whenever you visit KidzSearch.com or send an email and/or fax to us. You consent to receive communications from KidzSearch electronically and/or by fax. We will communicate with you by posting notices on this site, sending an email and/or fax. You agree that all notices, disclosures, terms, agreements and other communications provided to you electronically or by fax by KidzSearch satisfy any legal requirements that communications be in writing.  
   
 **THIRD PARTY WEB SITES**  
-This web site may contain inks to web sites operated by parties other than KidzSearch. Such third party links are provided for your reference and convenience only. KidzSearch does not operate or control such web sites and is not responsible for their content, products, or services. Our inclusion of links to such Web sites does not imply any endorsement of the content, products, or services on such web sites or any association with their operators.  
+This web site may contain links to web sites operated by parties other than KidzSearch. Such third party links are provided for your reference and convenience only. KidzSearch does not operate or control such web sites and is not responsible for their content, products, or services. Our inclusion of links to such Web sites does not imply any endorsement of the content, products, or services on such web sites or any association with their operators.  
   
 **ADVERTISING**  
 KidzSearch may use third-party advertising companies to serve ads. In response to current COPPA rules, KidzSearch.com does not run or accept any behaviorally targeted ads. Behavioral ads are advertisements that track specific websites visited to determine which ads to display. The only ads we allow are contextually-based ads, or other types of ads that are not based on a tracking where a user has been on their browser.  
