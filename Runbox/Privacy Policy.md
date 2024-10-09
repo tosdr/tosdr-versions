@@ -325,14 +325,23 @@ Definitions[](#definitions)
 
 **User Data:** All data that you submit when using the Service.
 
-#### Service Highlights
+#### Price example
 
-[Secure and reliable](https://runbox.com/why-runbox/security-reliability/)  
-[Privacy protected](https://runbox.com/why-runbox/email-privacy/)  
-[User-friendly and easy](https://runbox.com/features/email-services/preview/)  
-[Dedicated support team](https://runbox.com/about/company-information/)  
-[Affordable and scalable](https://runbox.com/price-plans/)  
-[Satisfied existing customers](https://runbox.com/why-runbox/testimonials/)
+One Mini Account
+
+\+ 5 Micro accounts
+
+now $74.7 per year, or just
+
+$6.2 per month
+
+[See all price plans](https://runbox.com/price-plans/)
+
+  
+
+  [Start Free Trial](https://runbox.com/signup.ttml)  
+
+Subscriptions are payable yearly only, and include a 60-day full money back guarantee
 
 #### Price example
 
@@ -350,8 +359,6 @@ $6.2 per month
   [Start Free Trial](https://runbox.com/signup)  
 
 Subscriptions are charged yearly and include an initial 60-day full money back guarantee
-
-[![EC Best Buy](https://runbox.com/wp-content/uploads/Bestbuy-with-website-for-web-small.jpeg "Ethical Consumer Best Buy")](https://runbox.com/why-runbox/runbox-email-ethical-best-buy/ "Ethical Consumer Best Buy")
 
 [Home](https://runbox.com/ "Runbox Frontpage") - [About Runbox](http://www.runbox.com/about/ "About Runbox Solutions AS") - [Terms of Service](https://runbox.com/about/terms-service/ "Terms of Service for Runbox Mail Manager") - [Privacy Policy](https://runbox.com/about/privacy-policy/ "Runbox Privacy Policy for Email Services") - [Help](http://help.runbox.com/ "Runbox Help and Documentation") - [Support Center](https://support.runbox.com/ "Support Email Services")
 
