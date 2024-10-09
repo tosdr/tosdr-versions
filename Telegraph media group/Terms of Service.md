@@ -143,7 +143,7 @@ Sections
 *  [![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/USA-SVG.svg)US Edition](https://www.telegraph.co.uk/)
     *  [![](/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/ui/dist/static/resources/images/flags/UK-SVG.svg) UK Edition](https://www.telegraph.co.uk/)
 
-[Subscribe now Free for one month](https://secure.telegraph.co.uk/customer/subscribe/)
+[Subscribe now](https://secure.telegraph.co.uk/customer/subscribe/)
 
 [Log in Login icon](https://secure.telegraph.co.uk/customer/secure/login/?redirectTo=)
 
