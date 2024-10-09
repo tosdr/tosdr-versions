@@ -103,11 +103,11 @@
     
     [Go to blog](https://timeular.com/blog/)
     
-    [Business Productivity Reinvented: Ways to Stay Ahead of your Competition](https://timeular.com/blog/business-productivity/)
+    [Time Management Systems to Boost Productivity and Reduce Overwhelm](https://timeular.com/blog/time-management-systems/)
+    
+    [Business Productivity Reinvented: Ways to Stay Ahead](https://timeular.com/blog/business-productivity/)
     
     [Don’t Break the Chain: The Productivity Hack That Made Seinfeld a Legend](https://timeular.com/blog/dont-break-chain/)
-    
-    [What Are Some of the Downsides to Electronic Monitoring of Employees?](https://timeular.com/blog/downsides-monitoring-employees/)
     
 * [Pricing](https://timeular.com/pricing/)
 * [Enterprise](https://timeular.com/enterprise-time-tracking/)
