@@ -6,7 +6,9 @@ Search Ramsey Solutions Search Ramsey Solutions
 
 [Sign In](https://products.ramseysolutions.com/) [Get Started](https://www.ramseysolutions.com/get-started/gs/app/assessment?int_fmt=button&int_lctn=homepage-bottom_cta&int_dscpn=rs_mast_getstarted_button&int_cmpgn=rs_mast_getstarted_button_2024&int_dept=rscom_bu)
 
-* [Topics](https://www.ramseysolutions.com/topics?snid=topics) Toggle Topics Submenu
+* Topics
+    
+    [Topics](https://www.ramseysolutions.com/topics?snid=topics) Toggle Topics Submenu
     
     Topics
     
@@ -22,7 +24,9 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Topics](https://www.ramseysolutions.com/topics?snid=topics)
     
-* [Products](https://www.ramseysolutions.com/guided-plans?snid=products) Toggle Products Submenu
+* Products
+    
+    [Products](https://www.ramseysolutions.com/guided-plans?snid=products) Toggle Products Submenu
     
     Products
     
@@ -47,7 +51,9 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Products](https://www.ramseysolutions.com/guided-plans?snid=products.see-all-products)
     
-* [Products](https://www.ramseysolutions.com/guided-plans?snid=products) Toggle Products Submenu
+* Products
+    
+    [Products](https://www.ramseysolutions.com/guided-plans?snid=products) Toggle Products Submenu
     
     Products
     
@@ -82,7 +88,9 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Products](https://www.ramseysolutions.com/guided-plans?snid=products.see-all-products)
     
-* [Shows](https://www.ramseysolutions.com/shows?snid=shows) Toggle Shows Submenu
+* Shows
+    
+    [Shows](https://www.ramseysolutions.com/shows?snid=shows) Toggle Shows Submenu
     
     Shows
     
@@ -104,7 +112,9 @@ Search Ramsey Solutions Search Ramsey Solutions
     * [See All Shows](https://www.ramseysolutions.com/shows?snid=shows-and-events.see-all-shows)
     * [Get the Ramsey Network App](https://www.ramseysolutions.com/shows/app?snid=shows-and-events.get-the-ramsey-network-app)
     
-* [Events](https://www.ramseysolutions.com/events?snid=events) Toggle Events Submenu
+* Events
+    
+    [Events](https://www.ramseysolutions.com/events?snid=events) Toggle Events Submenu
     
     Events
     
@@ -119,7 +129,9 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Events and Conferences](https://www.ramseysolutions.com/events?snid=events.see-all-events-and-conferences)
     
-* [Experts](https://www.ramseysolutions.com/personalities?snid=experts) Toggle Experts Submenu
+* Experts
+    
+    [Experts](https://www.ramseysolutions.com/personalities?snid=experts) Toggle Experts Submenu
     
     Experts
     
@@ -133,7 +145,9 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Experts](https://www.ramseysolutions.com/personalities?snid=experts.see-all-experts)
     
-* [Trusted Services](https://www.ramseysolutions.com/trusted?snid=trusted-services) Toggle Trusted Services Submenu
+* Trusted Services
+    
+    [Trusted Services](https://www.ramseysolutions.com/trusted?snid=trusted-services) Toggle Trusted Services Submenu
     
     Trusted Services
     
@@ -163,7 +177,9 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [Find a RamseyTrusted® Pro](https://www.ramseysolutions.com/trusted?snid=ramsey-recommends.find-a-ramseytrusted-pro)
     
-* [Free Tools](https://www.ramseysolutions.com/tools?snid=free-tools) Toggle Free Tools Submenu
+* Free Tools
+    
+    [Free Tools](https://www.ramseysolutions.com/tools?snid=free-tools) Toggle Free Tools Submenu
     
     Free Tools
     
@@ -229,7 +245,9 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Free Tools](https://www.ramseysolutions.com/tools?snid=free-tools.see-all-free-tools)
     
-* [Articles](https://www.ramseysolutions.com/articles?snid=articles) Toggle Articles Submenu
+* Articles
+    
+    [Articles](https://www.ramseysolutions.com/articles?snid=articles) Toggle Articles Submenu
     
     Articles
     
@@ -248,7 +266,9 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Articles](https://www.ramseysolutions.com/articles?snid=articles.see-all-articles)
     
-* [Store](https://store.ramseysolutions.com/?snid=store) Toggle Store Submenu
+* Store
+    
+    [Store](https://store.ramseysolutions.com/?snid=store) Toggle Store Submenu
     
     Store
     
@@ -271,7 +291,9 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [Shop the Store](https://store.ramseysolutions.com/?snid=store.shop-the-store)
     
-* [Store](https://store.ramseysolutions.com/?snid=store) Toggle Store Submenu
+* Store
+    
+    [Store](https://store.ramseysolutions.com/?snid=store) Toggle Store Submenu
 
 [Sign In](https://products.ramseysolutions.com/) [Get Started](https://www.ramseysolutions.com/get-started/gs/app/assessment?int_fmt=button&int_lctn=homepage-bottom_cta&int_dscpn=rs_mast_getstarted_button&int_cmpgn=rs_mast_getstarted_button_2024&int_dept=rscom_bu)
 
