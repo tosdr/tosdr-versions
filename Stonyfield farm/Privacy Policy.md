@@ -21,7 +21,7 @@
     * [Healthy Food](https://www.stonyfield.com/why-organic/healthy-food/)
     * [Healthy People](https://www.stonyfield.com/why-organic/healthy-people/)
     * [Healthy Planet](https://www.stonyfield.com/why-organic/healthy-planet/)
-    * [Impact Report](https://www.stonyfield.com/2022-impact-report/)
+    * [Impact Report](https://stonyfieldimpactreport.com/)
 * [Meet The Farmers](https://www.stonyfield.com/farms/)
     * [Why We Love Farmers](https://www.stonyfield.com/farms/)
     * [Visit The Farms](https://haveacow.stonyfield.com/the-farms)
@@ -45,7 +45,7 @@
     * [Healthy Food](https://www.stonyfield.com/why-organic/healthy-food/)
     * [Healthy People](https://www.stonyfield.com/why-organic/healthy-people/)
     * [Healthy Planet](https://www.stonyfield.com/why-organic/healthy-planet/)
-    * [Impact Report](https://www.stonyfield.com/2022-impact-report/)
+    * [Impact Report](https://stonyfieldimpactreport.com/)
 * [Meet The Farmers](https://www.stonyfield.com/farms/)
     * [Why We Love Farmers](https://www.stonyfield.com/farms/)
     * [Visit The Farms](https://haveacow.stonyfield.com/the-farms)
@@ -204,7 +204,7 @@ Enter your email to get the latest Stonyfield happenings, promotions, recipes, a
     * [ ]  Yes! I wish to receive via email Stonyfield's newsletter and/or information related to our products, programs, and/or promotional activities.
     
 * 
-* Email
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
