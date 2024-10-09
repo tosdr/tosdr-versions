@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 143 utilisateurs actifs
+##### 740 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Firefox 129 est disponible ! Quoi de neuf ?](https://lecrabeinfo.net/firefox-129-est-disponible-quoi-de-neuf.html) 
 * [Comment prendre le contrôle d'un PC à distance ? Le guide ultime](https://lecrabeinfo.net/comment-prendre-le-controle-dun-pc-a-distance-le-guide-ultime.html)
 * [Windows 11 : contourner toutes les exigences (TPM, CPU, compte Microsoft...) avec Rufus](https://lecrabeinfo.net/installer-windows-11-sans-toutes-les-exigences-tpm-cpu-ram-secure-boot-compte-microsoft.html)
-* [Suite Affinity : essayez gratuitement l’alternative à Adobe !](https://lecrabeinfo.net/suite-affinity-essayez-gratuitement-lalternative-a-adobe.html)
 
 ### Tendance
 
@@ -153,7 +153,7 @@ Chargement en cours
 ### Statistiques
 
 * 68 565 membres
-* 915 articles
+* 916 articles
 * 26 664 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
