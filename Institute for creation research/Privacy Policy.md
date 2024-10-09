@@ -96,65 +96,31 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
+More Acts & Facts
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/when-god-repents)
+[![](/i/articles/af/af2309-webcover.jpg)](https://www.icr.org/article/14242)
 
-[When God Repents](https://www.icr.org/article/when-god-repents/)
+[September-October 2023](https://www.icr.org/article/14242/)
 
-“And also the Strength of Israel will not lie nor repent: for he is not a man, that he should repent.” (1 Samuel 15:29) There...
+...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/fourth-generation)
+[![](/i/articles/af/af2107-webcover.jpg)](https://www.icr.org/article/12843)
 
-[To the Fourth Generation](https://www.icr.org/article/fourth-generation/)
+[July 2021](https://www.icr.org/article/12843/)
 
-“Thou shalt not bow down thyself unto them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon...
+...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/reconciliation)
+[![](/i/articles/af/af2105-webcover.jpg)](https://www.icr.org/article/12772)
 
-[Reconciliation](https://www.icr.org/article/reconciliation/)
+[May 2021](https://www.icr.org/article/12772/)
 
-“For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his...
+...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-Shop Related Products
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16945324/file.jpg)
-
-The Long War Against God](https://store.icr.org/dr-henry-morris-the-long-war-against-god.html)
-
-$16.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/951057/file.jpg)
-
-The Henry Morris Study Bible - Calfskin Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-calfs.html)
-
-$119.99
-
-$139.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
-
-Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
-
-$14.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
-
-The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
-
-$79.99
-
-$94.99
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
