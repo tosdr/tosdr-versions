@@ -10,15 +10,15 @@ Products
 
 Unlimited measurement on mobile, web, CTV, PC, and console.](https://www.adjust.com/product/measure/)[Analyze
 
-Powerful analytics, reporting, and visualizations in Datascape.](https://www.adjust.com/product/analyze/)[Recommend
+Powerful analytics, reporting, and visualizations in Datascape.](https://www.adjust.com/product/analyze/)[Engage
+
+Guide high-value users to your app with growth-boosting experiences.](https://www.adjust.com/product/engage/)[Recommend
 
 Make smarter decisions with AI-driven, next-generation measurement.](https://www.adjust.com/product/recommend/)[Automate
 
 Streamline operations and amplify your marketing with automation.](https://www.adjust.com/product/automate/)[Protect
 
-Safeguard your data and prevent mobile ad fraud.](https://www.adjust.com/product/protect/)[Engage
-
-Guide high-value users to your app with growth-boosting experiences.](https://www.adjust.com/product/engage/)
+Safeguard your data and prevent mobile ad fraud.](https://www.adjust.com/product/protect/)
 
 [View All Products](https://www.adjust.com/product/)
 
@@ -82,15 +82,15 @@ Products
 
 Unlimited measurement on mobile, web, CTV, PC, and console.](https://www.adjust.com/product/measure/)[Analyze
 
-Powerful analytics, reporting, and visualizations in Datascape.](https://www.adjust.com/product/analyze/)[Recommend
+Powerful analytics, reporting, and visualizations in Datascape.](https://www.adjust.com/product/analyze/)[Engage
+
+Guide high-value users to your app with growth-boosting experiences.](https://www.adjust.com/product/engage/)[Recommend
 
 Make smarter decisions with AI-driven, next-generation measurement.](https://www.adjust.com/product/recommend/)[Automate
 
 Streamline operations and amplify your marketing with automation.](https://www.adjust.com/product/automate/)[Protect
 
-Safeguard your data and prevent mobile ad fraud.](https://www.adjust.com/product/protect/)[Engage
-
-Guide high-value users to your app with growth-boosting experiences.](https://www.adjust.com/product/engage/)
+Safeguard your data and prevent mobile ad fraud.](https://www.adjust.com/product/protect/)
 
 [View All Products](https://www.adjust.com/product/)
 
