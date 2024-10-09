@@ -456,9 +456,9 @@
         
         View the latest SEC Filings
         
-        [Environmental, Social and Governance](https://www.equifax.com/about-equifax/environmental-social-governance/)
+        [Responsible Business Priorities](https://www.equifax.com/about-equifax/environmental-social-governance/)
         
-        Equifax efforts for reducing environmental impact by increasing our energy efficiency and managing waste.
+        See our Responsible Business Priorities.
         
     * [Culture & Careers](#)
         
