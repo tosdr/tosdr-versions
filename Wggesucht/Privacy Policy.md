@@ -12,7 +12,7 @@ Bitte beachten Sie, dass Javascript aktiviert sein muss, um alle Funktionen auf 
 
 [Anbieter](https://www.wg-gesucht.de/info/anbieter) [Magazin](https://www.wg-gesucht.de/info/magazin) [Mietrecht](https://www.wg-gesucht.de/mietrecht.html) [Netiquette](https://www.wg-gesucht.de/info/netiquette)
 
-[SCHUFA](https://www.wg-gesucht.de/info/schufa-bonitaetscheck) [Itsmydata](https://www.wg-gesucht.de/info/itsmydata) [Sicherheit](https://www.wg-gesucht.de/info/sicherheit) [Suchende](https://www.wg-gesucht.de/info/wg-suche)
+[SCHUFA](https://www.wg-gesucht.de/info/schufa-bonitaetscheck) [itsmydata](https://www.wg-gesucht.de/info/itsmydata) [Sicherheit](https://www.wg-gesucht.de/info/sicherheit) [Suchende](https://www.wg-gesucht.de/info/wg-suche)
 
 [WG-Arten](https://www.wg-gesucht.de/info/wg-arten) [WG-Ratgeber](https://www.wg-gesucht.de/info/wg-ratgeber) [Wohnen in](https://www.wg-gesucht.de/info/wohnen-in)
 
@@ -49,7 +49,7 @@ bei **WG-Gesucht.de!**
 
 [Infos & Ratgeber](#collapseTipsAndGuides)
 
-[Anbieter](https://www.wg-gesucht.de/info/anbieter) [Magazin](https://www.wg-gesucht.de/info/magazin) [Mietrecht](https://www.wg-gesucht.de/mietrecht.html) [Netiquette](https://www.wg-gesucht.de/info/netiquette) [SCHUFA](https://www.wg-gesucht.de/info/schufa-bonitaetscheck) [Itsmydata](https://www.wg-gesucht.de/info/itsmydata) [Sicherheit](https://www.wg-gesucht.de/info/sicherheit) [Suchende](https://www.wg-gesucht.de/info/wg-suche) [WG-Arten](https://www.wg-gesucht.de/info/wg-arten) [WG-Ratgeber](https://www.wg-gesucht.de/info/wg-ratgeber) [Wohnen in](https://www.wg-gesucht.de/info/wohnen-in)
+[Anbieter](https://www.wg-gesucht.de/info/anbieter) [Magazin](https://www.wg-gesucht.de/info/magazin) [Mietrecht](https://www.wg-gesucht.de/mietrecht.html) [Netiquette](https://www.wg-gesucht.de/info/netiquette) [SCHUFA](https://www.wg-gesucht.de/info/schufa-bonitaetscheck) [itsmydata](https://www.wg-gesucht.de/info/itsmydata) [Sicherheit](https://www.wg-gesucht.de/info/sicherheit) [Suchende](https://www.wg-gesucht.de/info/wg-suche) [WG-Arten](https://www.wg-gesucht.de/info/wg-arten) [WG-Ratgeber](https://www.wg-gesucht.de/info/wg-ratgeber) [Wohnen in](https://www.wg-gesucht.de/info/wohnen-in)
 
 [Für Unternehmen](https://www.wg-gesucht.de/fuer-immobilienprofis.html) [SCHUFA-Auskunft](#) [Anzeige inserieren](#collapseCreateAd)
 
