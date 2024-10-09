@@ -53,7 +53,6 @@ The store will not work correctly in the case when cookies are disabled.
 * [PRIME DAY](https://www.womanizer.com/eu/sale)
     
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
-    * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
     * [Climax Collection](https://www.womanizer.com/eu/climax-collection)
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
@@ -63,6 +62,7 @@ The store will not work correctly in the case when cookies are disabled.
     * [The ForePlay Collection](https://www.womanizer.com/eu/the-fore-play-collection)
     * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
     * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
+    * [DUO](https://www.womanizer.com/eu/duo)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
