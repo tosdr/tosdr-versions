@@ -114,8 +114,8 @@ Wallapop
 ### Legal
 
 * [Legal notice and Ethical Channel](https://about.wallapop.com/en/legal-notice/)
-* [Legal terms and Conditions](https://about.wallapop.com/en/legal-terms-and-conditions/)
-* [Privacy Policy](https://about.wallapop.com/en/privacy-policy/)
+* [Terms and Conditions](https://about.wallapop.com/en/legal-terms-and-conditions/)
+* [Privacy](https://about.wallapop.com/en/privacy-policy/)
 * [Cookies policy](https://uk.wallapop.com/?qc=true)
 
 * [Download on the App Store](https://apps.apple.com/es/app/wallapop/id692753615?l=en "Download on the App Store")
