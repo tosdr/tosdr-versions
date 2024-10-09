@@ -446,121 +446,117 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Badlands Media
-
-8.8K](https://rumble.com/v5hwlth-eye-of-the-storm-ep.-173-1030pm-et.html "Badlands Media")
-
-[Akademiks
-
-3.6K](https://rumble.com/v5i09wd-foolio-suspects-facing-dath-penalty.-drake-falls-off-charts-atl-jacob-outta.html "Akademiks")
-
-[SNEAKO
-
-3.28K](https://rumble.com/v5hz9ql-the-streak-continues.html "SNEAKO")
-
 [NEWSMAX
 
-2.61K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
-
-[Jerry After Dark
-
-624](https://rumble.com/v5hy0od-jerry-after-dark-breaking-records-most-nba-3s-in-a-row.html "Jerry After Dark")
-
-[barstoolsports
-
-620](https://rumble.com/v5hy0od-jerry-after-dark-breaking-records-most-nba-3s-in-a-row.html "barstoolsports")
+1.9K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
 [Lofi Girl
 
-267](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+240](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+
+[Jerry After Dark
+
+206](https://rumble.com/v5hy0od-jerry-after-dark-breaking-records-most-nba-3s-in-a-row.html "Jerry After Dark")
+
+[barstoolsports
+
+206](https://rumble.com/v5hy0od-jerry-after-dark-breaking-records-most-nba-3s-in-a-row.html "barstoolsports")
+
+[Bitcoin Magazine
+
+67](https://rumble.com/v5hz7th-bitcoin-amsterdam-2024-day-1-livestream.html "Bitcoin Magazine")
 
 [Major League Fishing
 
-4](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
+2](https://rumble.com/v5ep1rn-live-general-tire-team-series-heritage-cup-day-6.html "Major League Fishing")
 
-[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
 
-[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
+[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
 
-[Kimberly Guilfoyle](https://rumble.com/c/KimberlyGuilfoyle "Kimberly Guilfoyle")
+[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
 
-[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
-
-[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
-
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
-
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
-
-[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
-
-[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
-
-[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
 
 [THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
 
-[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
+[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
 
-[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+[The Dan Bongino Show](https://rumble.com/c/Bongino "The Dan Bongino Show")
 
-[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
+[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
 
 [Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
 
-[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
-
-[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
-
-[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
-
-[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
-
-[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
-
-[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
-
-[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
-
-[UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
-
 [Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
 
-[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
+[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
 
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
+[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
 
-[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
 
-[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
+[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
 
-[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
 
-[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
+[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
 
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+[Badlands Media](https://rumble.com/c/BadlandsMedia "Badlands Media")
 
-[Redacted News](https://rumble.com/c/Redacted "Redacted News")
-
-[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
-
-[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
-
-[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
-
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
-
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
-
-[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
-
-[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
 
 [NELK](https://rumble.com/c/NELK "NELK")
 
-[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
+[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+
+[Havoc](https://rumble.com/c/Havoc "Havoc")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+
+[NHRA](https://rumble.com/c/NHRA "NHRA")
+
+[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+
+[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
+
+[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
+
+[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
+
+[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
+
+[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
+
+[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+
+[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
+
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+
+[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
+
+[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
+
+[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
+
+[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
+
+[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
+
+[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+
+[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
+
+[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
+
+[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
+
+[New York Post](https://rumble.com/c/NYPost "New York Post")
+
+[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
+
+[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
 
 ### Theme
 
