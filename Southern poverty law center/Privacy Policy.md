@@ -241,7 +241,7 @@ You understand and agree that the foregoing options are the only reasonable and 
 
 **Support**
 
-For support regarding the Program, text “HELP” to the applicable Program’s Short Code or long code. Please note that texting “HELP” to the Program’s Short or long Code is not an acceptable method of opting out of the program. Opt outs must be submitted in accordance with the procedures set forth above.
+For support regarding the Program, text “HELP” to the applicable Program’s Short Code or long code, or email us at [smssupport@splcenter.org](mailto:smssupport@splcenter.org). Please note that the use of this email address, or texting “HELP” to the Program’s Short or long Code is not an acceptable method of opting out of the program. Opt outs must be submitted in accordance with the procedures set forth above.
 
 **Our Disclaimer of Warranty**
 
