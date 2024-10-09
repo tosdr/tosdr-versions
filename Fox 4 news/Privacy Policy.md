@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Florida residents arriving in Georgia ahead of Hurricane Milton](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/snapshot-10-1.jpg?ve=1&tl=1)
+
+ ![Florida residents arriving in Georgia ahead of Hurricane Milton](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/snapshot-10-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/florida-residents-arriving-georgia-ahead-hurricane-milton)
+
+### [Florida residents arriving in Georgia ahead of Hurricane Milton](https://www.fox4news.com/news/florida-residents-arriving-georgia-ahead-hurricane-milton)
+
+ [![Fort Worth ISD names interim superintendent](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100824-ds-fwisd-meeting-folo-sot-vo-jb_kdfw9731_18_00.01.03.38.jpg?ve=1&tl=1)
+
+ ![Fort Worth ISD names interim superintendent](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100824-ds-fwisd-meeting-folo-sot-vo-jb_kdfw9731_18_00.01.03.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/karen-molinar-new-interim-superintendent-fwisd)
+
+### [Fort Worth ISD names interim superintendent](https://www.fox4news.com/news/karen-molinar-new-interim-superintendent-fwisd)
+
+ [![American Red Cross blood supply strained by two hurricanes; how North Texans can help](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-amelia-red-cross-donations-milton-9p_00.01.02.24.jpg?ve=1&tl=1)
+
+ ![American Red Cross blood supply strained by two hurricanes; how North Texans can help](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-amelia-red-cross-donations-milton-9p_00.01.02.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/red-cross-blood-supply-strained-two-hurricanes-how-north-texans-can-help)
+
+### [American Red Cross blood supply strained by two hurricanes; how North Texans can help](https://www.fox4news.com/news/red-cross-blood-supply-strained-two-hurricanes-how-north-texans-can-help)
+
  [![Hurricane Milton update: Storm returns to Category 5 as Florida prepares for life-threatening impacts](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/46d111a0-al14_stats.gif?ve=1&tl=1)
 
  ![Hurricane Milton update: Storm returns to Category 5 as Florida prepares for life-threatening impacts](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/46d111a0-al14_stats.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-update-extremely-serious-threat-florida-october-8-2024)
@@ -414,24 +432,6 @@ Live Now
  ![Hurricane Milton: Disney World, Universal, SeaWorld closing as major storm encroaches](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/06/32/18/592/333/Theme-parks-.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-disney-universal-seaworld-legoland-busch-gardens-closed-ahead-storm)
 
 ### [Hurricane Milton: Disney World, Universal, SeaWorld closing as major storm encroaches](https://www.fox4news.com/news/hurricane-milton-disney-universal-seaworld-legoland-busch-gardens-closed-ahead-storm)
-
- [![Justin Timberlake postpones North American leg of world tour due to ‘injury’](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/jt.jpg?ve=1&tl=1)
-
- ![Justin Timberlake postpones North American leg of world tour due to ‘injury’](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/jt.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/justin-timberlake-postpones-north-american-leg-world-tour-due-injury-2024)
-
-### [Justin Timberlake postpones North American leg of world tour due to ‘injury’](https://www.fox4news.com/news/justin-timberlake-postpones-north-american-leg-world-tour-due-injury-2024)
-
- [![Crandall High School student arrested after bringing two guns to school](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/b39206d6-0e7cefee-Handcuffs.jpg?ve=1&tl=1)
-
- ![Crandall High School student arrested after bringing two guns to school](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/592/333/b39206d6-0e7cefee-Handcuffs.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/crandall-high-school-student-arrested-after-bringing-two-guns-school)
-
-### [Crandall High School student arrested after bringing two guns to school](https://www.fox4news.com/news/crandall-high-school-student-arrested-after-bringing-two-guns-school)
-
- [![Second early voting location to open in Rowlett amid concerns](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dial-rowlett-early-voting-site-issue-5p_00.01.39.52.jpg?ve=1&tl=1)
-
- ![Second early voting location to open in Rowlett amid concerns](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dial-rowlett-early-voting-site-issue-5p_00.01.39.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/rowlett-now-has-two-early-voting-locations)
-
-### [Second early voting location to open in Rowlett amid concerns](https://www.fox4news.com/election/rowlett-now-has-two-early-voting-locations)
 
 ###### [News](https://www.fox4news.com/news)
 
