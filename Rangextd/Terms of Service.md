@@ -36,24 +36,25 @@ Search results
 *  [![Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1728032127&width=60)Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) _(4)_
 *  [![Savvy Techs](//savvysmartdeals.com/cdn/shop/collections/OIG2.Y4nMQUz_PXYmvNghDCQv.jpg?crop=center&height=60&v=1728031546&width=60)Top Savvy Techs](https://www.rangextd.com/collections/top-notch-techs) _(5)_
 
-*  ![Banner image for: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/files/bidet-g2-mb.png?v=1720604500&width=620) ![Banner image for: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/files/bidet-g2-1.png?v=1720429783&width=620)
+*  ![Banner image for: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/files/home-bidet-2.jpg?v=1728467923&width=620) ![Banner image for: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/files/img_bidet_5_3x_b7f225e2-9a25-45f0-8800-00b040773d16.png?v=1728467660&width=620)
     
     Blaux Portable Bidet
     ====================
     
-    The ultimate in cleanliness and portable personal care.  
-      
+    The Ultimate In Cleanliness & Portable Personal Care
     
     [Shop now](https://www.rangextd.com/products/blaux-bidet-gen-2)
     
     [](https://www.rangextd.com/products/blaux-bidet-gen-2)
     
-* ![Banner image for: Kore Elite Smart Fitness Tracker](//savvysmartdeals.com/cdn/shop/files/kore-2.0_faef90e2-1535-4a93-8baf-c51a9968f265.png?v=1720429987&width=620)
+*  ![Banner image for: Kore 2.0 Elite Smart Watch](//savvysmartdeals.com/cdn/shop/files/Lifestyle_1x1_03.png?v=1728466971&width=620) ![Banner image for: Kore 2.0 Elite Smart Watch](//savvysmartdeals.com/cdn/shop/files/Lifestyle_1x1_03.png?v=1728466971&width=620)
     
-    Kore Elite Smart Fitness Tracker
-    --------------------------------
+    Kore 2.0 Elite Smart Watch
+    ==========================
     
-    [Shop now](https://www.rangextd.com/products/kore-2-0) 
+    Water-Resistant Fitness Tracker
+    
+    [Shop now](https://www.rangextd.com/products/kore-2-0)
     
     [](https://www.rangextd.com/products/kore-2-0)
     
@@ -289,9 +290,11 @@ Discover the hottest items flying off the shelves.
     
     ### Travel
     
-* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/907c0521898244d99ab5a86a1a9a6260.thumbnail.0000000000_small.jpg?v=1728459272)
+* ![Banner image for: Family Essentials](//savvysmartdeals.com/cdn/shop/files/Stack4_f5faa6f5-0e4d-4a15-899e-a1713df879d1.png?v=1727163260&width=620)
     
     ### Family Essentials
+    
+    [](https://www.rangextd.com/collections/family-essentials)
     
 
 Top Savvy Techs
