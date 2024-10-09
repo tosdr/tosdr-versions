@@ -18,27 +18,27 @@
     
     [All Products](https://liftoff.io/products/)
     
-    *  [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-bf5f0de/liftoff.io/wp-content/uploads/2024/04/accelerate-product-logo.svg)](https://liftoff.io/accelerate/ "Accelerate")[Accelerate](https://liftoff.io/accelerate/ "Accelerate")
+    *  [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-505673a/liftoff.io/wp-content/uploads/2024/04/accelerate-product-logo.svg)](https://liftoff.io/accelerate/ "Accelerate")[Accelerate](https://liftoff.io/accelerate/ "Accelerate")
         
         Acquire quality users at scale with machine learning
         
-    *  [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-bf5f0de/liftoff.io/wp-content/uploads/2024/04/direct-product-logo.svg)](https://liftoff.io/direct/ "Direct")[Direct](https://liftoff.io/direct/ "Direct")
+    *  [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-505673a/liftoff.io/wp-content/uploads/2024/04/direct-product-logo.svg)](https://liftoff.io/direct/ "Direct")[Direct](https://liftoff.io/direct/ "Direct")
         
         Access top-quality publishers to acquire engaged users
         
-    *  [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-bf5f0de/liftoff.io/wp-content/uploads/2024/04/monetize-product-logo.svg)](https://liftoff.io/monetize/ "Monetize")[Monetize](https://liftoff.io/monetize/ "Monetize")
+    *  [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-505673a/liftoff.io/wp-content/uploads/2024/04/monetize-product-logo.svg)](https://liftoff.io/monetize/ "Monetize")[Monetize](https://liftoff.io/monetize/ "Monetize")
         
         Maximize your earnings for every impression
         
-    *  [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-bf5f0de/liftoff.io/wp-content/uploads/2024/04/vungle-exchange-product-logo.svg)](https://liftoff.io/exchange/ "Vungle Exchange")[Vungle Exchange](https://liftoff.io/exchange/ "Vungle Exchange")
+    *  [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-505673a/liftoff.io/wp-content/uploads/2024/04/vungle-exchange-product-logo.svg)](https://liftoff.io/exchange/ "Vungle Exchange")[Vungle Exchange](https://liftoff.io/exchange/ "Vungle Exchange")
         
         Engage high-quality users in their favorite mobile apps
         
-    *  [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-bf5f0de/liftoff.io/wp-content/uploads/2024/04/creative-studio-product-logo.svg)](https://liftoff.io/creative-studio/ "Creative Studio")[Creative Studio](https://liftoff.io/creative-studio/ "Creative Studio")
+    *  [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-505673a/liftoff.io/wp-content/uploads/2024/04/creative-studio-product-logo.svg)](https://liftoff.io/creative-studio/ "Creative Studio")[Creative Studio](https://liftoff.io/creative-studio/ "Creative Studio")
         
         Optimize campaign performance with better ad creatives
         
-    *  [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-bf5f0de/liftoff.io/wp-content/uploads/2024/04/intelligence-product-logo.svg)](https://liftoff.io/intelligence/ "Intelligence")[Intelligence](https://liftoff.io/intelligence/ "Intelligence")
+    *  [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-505673a/liftoff.io/wp-content/uploads/2024/04/intelligence-product-logo.svg)](https://liftoff.io/intelligence/ "Intelligence")[Intelligence](https://liftoff.io/intelligence/ "Intelligence")
         
         Build and launch gaming experiences players want
         
@@ -57,11 +57,11 @@
     * [Webinars](https://liftoff.io/resources/?type=webinar "Webinars")
     * [Help Center](https://liftoff.io/help/ "Help Center")
     
-    [![Guide to Growing Chinese Gaming Apps Overseas](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/optimized/rev-bf5f0de/liftoff.io/wp-content/uploads/2024/07/Resource-EN-3-1024x533.png)](https://info.liftoff.io/2024-growing-chinese-gaming-apps)
+    [![](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/optimized/rev-505673a/liftoff.io/wp-content/uploads/2024/10/Cortex-1200x627-1-1024x535.png)](https://liftoff.io/blog/cortex-ml-patform-announcement/)
     
     ###### FEATURED
     
-    [Guide to Growing Chinese Gaming Apps Overseas](https://info.liftoff.io/2024-growing-chinese-gaming-apps)
+    [Introducing Cortex, Liftoff’s Next-Generation ML Platform](https://liftoff.io/blog/cortex-ml-patform-announcement/)
     
 * Mobile Heroes
     
@@ -78,7 +78,7 @@
     * [Comics](https://liftoff.io/mobile-heroes/comics/ "Comics")
     * [About Mobile Heroes](https://liftoff.io/mobile-heroes/about/ "About Mobile Heroes")
     
-    [![Betul Ozdemir Product Madness](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/optimized/rev-bf5f0de/liftoff.io/wp-content/uploads/2024/05/Betul-Eser-profile-banner-1200x627-v2-@2x@2x-1024x535.png)](https://liftoff.io/mobile-heroes/hero/betul-ozdemir/)
+    [![Betul Ozdemir Product Madness](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/optimized/rev-505673a/liftoff.io/wp-content/uploads/2024/05/Betul-Eser-profile-banner-1200x627-v2-@2x@2x-1024x535.png)](https://liftoff.io/mobile-heroes/hero/betul-ozdemir/)
     
     ###### FEATURED
     
@@ -91,10 +91,10 @@ Search for:
 
 Log In
 
-* ![Accelerate product logo](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-bf5f0de/liftoff.io/wp-content/uploads/2024/04/accelerate-product-logo.svg) [Accelerate](https://signin.liftoff.io/signin)
-* ![Monetize product logo](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-bf5f0de/liftoff.io/wp-content/uploads/2024/04/monetize-product-logo.svg) [Monetize](https://app.vungle.com/login/)
-* ![Direct product logo](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-bf5f0de/liftoff.io/wp-content/uploads/2024/04/direct-product-logo.svg) [Direct](https://app.vungle.com/login/)
-* ![Intelligence product logo](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-bf5f0de/liftoff.io/wp-content/uploads/2024/04/intelligence-product-logo.svg) [GameRefinery](https://app.gamerefinery.com/)
+* ![Accelerate product logo](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-505673a/liftoff.io/wp-content/uploads/2024/04/accelerate-product-logo.svg) [Accelerate](https://signin.liftoff.io/signin)
+* ![Monetize product logo](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-505673a/liftoff.io/wp-content/uploads/2024/04/monetize-product-logo.svg) [Monetize](https://app.vungle.com/login/)
+* ![Direct product logo](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-505673a/liftoff.io/wp-content/uploads/2024/04/direct-product-logo.svg) [Direct](https://app.vungle.com/login/)
+* ![Intelligence product logo](https://cdn-ilbanff.nitrocdn.com/MWEqlTjiRKGrGneCdFpBgWxUqZRLqkQa/assets/images/source/rev-505673a/liftoff.io/wp-content/uploads/2024/04/intelligence-product-logo.svg) [GameRefinery](https://app.gamerefinery.com/)
 
 [Get Started](https://liftoff.io/sign-up/)
 
@@ -299,7 +299,7 @@ Our Privacy Principles for the use of data about Targeted End Users
 
 * Liftoff does not record or store personal information that the user cannot easily revoke, such as email address, physical address, photographs or phone number to personalize our advertising. Liftoff relies upon device IDs to uniquely identify a user, and Liftoff solely relies upon the user’s consent in allowing Liftoff to access this information.
 * Liftoff does not export per-user data outside of Liftoff, except for validation purposes to a company that already has access to that data
-* Details of how to opt-out of interest based advertising from us can be found at: [https://liftoff.io/opt-out/](https://www.google.com/url?q=https://liftoff.io/opt-out/&sa=D&source=editors&ust=1728410731125904&usg=AOvVaw171bkVasoMGnnyWH2iYaY3).
+* Details of how to opt-out of interest based advertising from us can be found at: [https://liftoff.io/opt-out/](https://www.google.com/url?q=https://liftoff.io/opt-out/&sa=D&source=editors&ust=1728495448363624&usg=AOvVaw026k7pZ94Gs7TdzPg-Fa8y).
 
 C. Information You Provide to Us via Our Site
 
@@ -328,7 +328,7 @@ We may receive information about you from other sources as required in connectio
 
 Cookies and Tracking Technologies
 
-Liftoff and our partners use cookies or similar technologies to analyze trends, administer the Site, track users’ movements around our Site, and to gather demographic information about our user base as a whole. A full list of cookies we use on this site is found on our [Cookie Policy](https://www.google.com/url?q=https://liftoff.io/cookie-policy/&sa=D&source=editors&ust=1728410731143456&usg=AOvVaw0IeE_yygpjO72PfwBP4U2t).
+Liftoff and our partners use cookies or similar technologies to analyze trends, administer the Site, track users’ movements around our Site, and to gather demographic information about our user base as a whole. A full list of cookies we use on this site is found on our [Cookie Policy](https://www.google.com/url?q=https://liftoff.io/cookie-policy/&sa=D&source=editors&ust=1728495448367890&usg=AOvVaw2Oeygg8e_Ukh_qNv-5sSvY).
 
 You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our Site or Services.
 
@@ -356,9 +356,9 @@ As we are based in the United States, if you are located outside the United Stat
 
 Data Privacy Framework
 
-Liftoff Mobile, Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  We have certified to the U.S. Department of Commerce that we adhere to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF. We have certified to the U.S. Department of Commerce that we adhere to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.google.com/url?q=https://www.dataprivacyframework.gov/&sa=D&source=editors&ust=1728410731146278&usg=AOvVaw3AHQ1z_FMlSoMYNUddgf6n).
+Liftoff Mobile, Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  We have certified to the U.S. Department of Commerce that we adhere to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF. We have certified to the U.S. Department of Commerce that we adhere to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.google.com/url?q=https://www.dataprivacyframework.gov/&sa=D&source=editors&ust=1728495448368716&usg=AOvVaw0R_QrdDZlsb72l2Gfg4Bq4).
 
-In compliance with the EU-U.S. DPF and the Swiss-U.S. DPF, we commit to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Liftoff Mobile, Inc. at: [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection). We commit to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [www.jamsadr.com/eu-us-data-privacy-framework](https://www.google.com/url?q=http://www.jamsadr.com/eu-us-data-privacy-framework&sa=D&source=editors&ust=1728410731147104&usg=AOvVaw3GghkLddseQTCzMEqKTCrc) for more information or to file a complaint.  The services of JAMS are provided at no cost to you. If your complaint is not resolved by us or by JAMS, you may, under certain conditions, invoke binding arbitration for complaints regarding compliance with the EU-U.S. DPF and the Swiss-U.S. DPF. Please see [here](https://www.google.com/url?q=https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584%3D2&sa=D&source=editors&ust=1728410731147624&usg=AOvVaw268tqvXXm9rUQUgMDBC6Fl) for additional information.
+In compliance with the EU-U.S. DPF and the Swiss-U.S. DPF, we commit to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Liftoff Mobile, Inc. at: [\[email protected\]](https://liftoff.io/cdn-cgi/l/email-protection). We commit to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [www.jamsadr.com/eu-us-data-privacy-framework](https://www.google.com/url?q=http://www.jamsadr.com/eu-us-data-privacy-framework&sa=D&source=editors&ust=1728495448368932&usg=AOvVaw2aRe-WN5sbMwe9pRMd3CUf) for more information or to file a complaint.  The services of JAMS are provided at no cost to you. If your complaint is not resolved by us or by JAMS, you may, under certain conditions, invoke binding arbitration for complaints regarding compliance with the EU-U.S. DPF and the Swiss-U.S. DPF. Please see [here](https://www.google.com/url?q=https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584%3D2&sa=D&source=editors&ust=1728495448369084&usg=AOvVaw1nWVmqynT5Gtc14vM6NQXb) for additional information.
 
 In the event we transfer your data to third parties which perform services on our behalf, we shall remain liable under the EU-U.S. DPF Principles and Swiss-U.S. DPF Principles if the third party processes your personal information in a manner inconsistent with these Principles, unless we prove we are not responsible for the event giving rise to any damage.
 
@@ -391,7 +391,7 @@ In certain situations, businesses or third party websites we’re affiliated wit
 
 Service Providers
 
-We employ third party companies and people, for example cloud service providers (“Third Party Service Providers”), such as Amazon Web Services, Dropbox, Salesforce and [Unity Technologies](https://www.google.com/url?q=https://unity3d.com/legal/privacy-policy&sa=D&source=editors&ust=1728410731150034&usg=AOvVaw2-6_yM9E_DFdNTycJ1Ropu) to perform tasks e.g., provide computer and network infrastructure services on our behalf or as advertising exchange partners and we may need to share your information with them to provide products or Services to you. We only share your personal information with Third Party Service Providers to the extent necessary for them to assist us and they do not have any right to use your personal information we share with them beyond what is necessary to assist us. We may also work with Google to deliver the best advertising opportunities to its clients through the use of remarketing tags. Traffic Clients and other data subjects can consult Google’s policies to learn more about Google’s processing policies [here](https://www.google.com/url?q=https://policies.google.com/technologies/partner-sites?hl%3Den-US&sa=D&source=editors&ust=1728410731150497&usg=AOvVaw3JqLOh7EroMWa1qLfeHZhb).
+We employ third party companies and people, for example cloud service providers (“Third Party Service Providers”), such as Amazon Web Services, Dropbox, Salesforce and [Unity Technologies](https://www.google.com/url?q=https://unity3d.com/legal/privacy-policy&sa=D&source=editors&ust=1728495448369998&usg=AOvVaw2NIXd6FUiu7HHawuqJeIfW) to perform tasks e.g., provide computer and network infrastructure services on our behalf or as advertising exchange partners and we may need to share your information with them to provide products or Services to you. We only share your personal information with Third Party Service Providers to the extent necessary for them to assist us and they do not have any right to use your personal information we share with them beyond what is necessary to assist us. We may also work with Google to deliver the best advertising opportunities to its clients through the use of remarketing tags. Traffic Clients and other data subjects can consult Google’s policies to learn more about Google’s processing policies [here](https://www.google.com/url?q=https://policies.google.com/technologies/partner-sites?hl%3Den-US&sa=D&source=editors&ust=1728495448370166&usg=AOvVaw0UYhkXdf9Y5-QbGFr76jmY).
 
 Third Party Digital Advertising Partners
 
@@ -431,9 +431,9 @@ VIII. YOUR RIGHTS
 
 Opting-out of interest-based advertising from Liftoff
 
-As described in this privacy policy, third parties may use cookies and similar tracking technologies to collect information and infer your interests for interest-based advertising purposes. If you would prefer to not receive personalized ads based on your browser or device usage, you may generally express your opt-out preference to no longer receive tailored advertisements by clicking [here](https://www.google.com/url?q=https://preferences-mgr.truste.com/&sa=D&source=editors&ust=1728410731153083&usg=AOvVaw3s1uk3EF3y9ohh4ADqVwqM)(or if located in the European Union click [here](https://www.google.com/url?q=https://youronlinechoices.eu/&sa=D&source=editors&ust=1728410731153419&usg=AOvVaw1IfYfRsoJIUPK5QjN-vlDp). Please note that you will continue to see advertisements, but they will no longer be tailored to your interests.
+As described in this privacy policy, third parties may use cookies and similar tracking technologies to collect information and infer your interests for interest-based advertising purposes. If you would prefer to not receive personalized ads based on your browser or device usage, you may generally express your opt-out preference to no longer receive tailored advertisements by clicking [here](https://www.google.com/url?q=https://preferences-mgr.truste.com/&sa=D&source=editors&ust=1728495448371070&usg=AOvVaw0Hu9PLaCevhDK82X8f9wep)(or if located in the European Union click [here](https://www.google.com/url?q=https://youronlinechoices.eu/&sa=D&source=editors&ust=1728495448371165&usg=AOvVaw1L7FZEuHz4nWAKJy8O_Jmx). Please note that you will continue to see advertisements, but they will no longer be tailored to your interests.
 
-Refer to our [opt out page](https://www.google.com/url?q=https://liftoff.io/opt-out/&sa=D&source=editors&ust=1728410731153755&usg=AOvVaw1sTpz9Icwaxa-GI9mLtlEV) for instructions on how to opt-out of interest-based advertising when you are a Targeted End User.
+Refer to our [opt out page](https://www.google.com/url?q=https://liftoff.io/opt-out/&sa=D&source=editors&ust=1728495448371285&usg=AOvVaw1DrnbUMXXTIQZkjb5ZaH_R) for instructions on how to opt-out of interest-based advertising when you are a Targeted End User.
 
 Data Subject Rights
 
