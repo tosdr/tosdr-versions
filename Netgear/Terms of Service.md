@@ -56,6 +56,7 @@ Previous Next
     * [NETGEAR Smart Parental Controls](https://www.netgear.com/home/services/smart-parental-controls/)
     
     * [Blog](https://www.netgear.com/hub/)
+    * [Router or Mesh System](https://www.netgear.com/home/discover/router-vs-mesh-wifi/)
     * [WiFi 7](https://www.netgear.com/home/discover/wifi7/)
     * [WiFi 6E](https://www.netgear.com/home/wifi/wifi6e/)
     * [WiFi 6](https://www.netgear.com/home/discover/wifi6/)
@@ -63,7 +64,6 @@ Previous Next
     * [5G Mobile WiFi](https://www.netgear.com/home/mobile-wifi/portable-wifi/)
     * [Tri-Band / Quad-Band WiFi](https://www.netgear.com/home/wifi/mesh/tri-band-quad-band/)
     * [4G/5G Fixed Wireless For Home](https://www.netgear.com/home/mobile-wifi/fixedwireless/)
-    * [DOCSIS 3.1](https://www.netgear.com/home/wifi/modems/docsis31/)
     
     Shop By Brand :
     
@@ -321,7 +321,7 @@ Checkout
 
 Previous Next
 
-![Icon-Close](/system/v4.8/assets/images/Icon-Close.png)
+![Icon-Close](/system/v4.9/assets/images/Icon-Close.png)
 
 * [HOME SOLUTIONS](#t21827-k98153)
 * [BUSINESS SOLUTIONS](#t21827-k102990)
@@ -366,6 +366,7 @@ Previous Next
 [LEARNING CENTER](#navdrop6)
 
 * [Blog](https://www.netgear.com/hub/)
+* [Router or Mesh System](https://www.netgear.com/home/discover/router-vs-mesh-wifi/)
 * [WiFi 7](https://www.netgear.com/home/discover/wifi7/)
 * [WiFi 6E](https://www.netgear.com/home/wifi/wifi6e/)
 * [WiFi 6](https://www.netgear.com/home/discover/wifi6/)
@@ -373,7 +374,6 @@ Previous Next
 * [5G Mobile WiFi](https://www.netgear.com/home/mobile-wifi/portable-wifi/)
 * [Tri-Band / Quad-Band WiFi](https://www.netgear.com/home/wifi/mesh/tri-band-quad-band/)
 * [4G/5G Fixed Wireless For Home](https://www.netgear.com/home/mobile-wifi/fixedwireless/)
-* [DOCSIS 3.1](https://www.netgear.com/home/wifi/modems/docsis31/)
 
 [SUPPORT](https://www.netgear.com/support/)
 
@@ -594,7 +594,7 @@ Sign up and enjoy these benefits!
 
 [Sign In](https://store.netgear.com/loginshow?returnUrl=https%3A%2F%2Fwww.netgear.com%2Fabout%2Fterms-and-conditions%2F)
 
-* [Management Team](https://www.netgear.com/about/management/)
+* [Leadership Team](https://www.netgear.com/about/management/)
 * [Investor Relations](https://investor.netgear.com/)
 * [Press Releases](https://www.netgear.com/about/press-releases/)
 * [Careers](https://www.netgear.com/about/careers/sanjose-usa/)
