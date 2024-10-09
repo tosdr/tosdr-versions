@@ -69,6 +69,14 @@ Law requires us to maintain up-to-date records of our membership data. This is t
 
 The pre-announcement subscription list was intended for single use only and has been deleted after the announcement of the Codeberg.org launch. Accounts on pre-announcement testing services have been migrated to Codeberg.org, where possible. These accounts and the connected data can be deleted using the "Delete Account" button on your personal account page. All unused data from testing servers has been deleted after launch.
 
+**Help improving Forgejo, the software that powers Codeberg!**
+
+The Forgejo contributors are very excited about the upcoming version of Forgejo, scheduled for release around October 16. If you can, consider offering your help to make Forgejo v9 a great release.
+
+Forgejo is the community project that makes independent and libre software development possible on Codeberg. Thanks to the team!
+
+[Help with testing, translation or development](https://forgejo.org/2024-09-preparing-v9/) [Donate to the project](https://liberapay.com/forgejo/)
+
 ![](https://design.codeberg.org/logo-kit/icon_inverted.svg)
 
 **Codeberg**
