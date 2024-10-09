@@ -247,14 +247,14 @@ Accepted Web-Rings.
 Recent Comments
 ---------------
 
+* [S-Config](https://www.s-config.com/) on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-90036)
 * [S-Config](https://www.s-config.com/) on [Sleeper E-Server PC](https://www.s-config.com/sleeper-e-server-pc/comment-page-1/#comment-89927)
 * WinDVD on [Sleeper E-Server PC](https://www.s-config.com/sleeper-e-server-pc/comment-page-1/#comment-89926)
+* Brian on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-89914)
 * xu on [Default WordPress video test.](https://www.s-config.com/wordpress-video/comment-page-1/#comment-89835)
 * [S-Config](https://www.s-config.com/) on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-89700)
 * mantle on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-89680)
 * Ongion on [Reverse Engineering StepMania Characters](https://www.s-config.com/addendum-reverse-engineering-stepmania-characters/comment-page-1/#comment-89276)
-* [S-Config](https://www.s-config.com/) on [Taking a step back – PI Vs. Thin Client.](https://www.s-config.com/taking-a-step-back-pi-vs-thin-client/comment-page-1/#comment-89234)
-* Andre on [Taking a step back – PI Vs. Thin Client.](https://www.s-config.com/taking-a-step-back-pi-vs-thin-client/comment-page-1/#comment-89137)
 
 The only advertisement banner you will see.
 -------------------------------------------
