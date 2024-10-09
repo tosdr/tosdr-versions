@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-08 Oct 2024
+09 Oct 2024
 
 * [Home
     
@@ -310,22 +310,6 @@ PSNI officers at the scene where Kyle McDermott (inset, bottom) was murdered and
 [March and rally held in Derry to mark first anniversary of Gaza conflict](https://www.derrynow.com/news/pictures---videos/1624606/in-pictures-hundreds-march-through-derry-to-mark-first-anniversary-of-gaza-conflict.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry man charged with breaching his bail conditions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man charged with breaching his bail conditions")](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry man charged with breaching his bail conditions](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1624942/over-100-patients-waiting-for-treatment-at-derry-s-altnagelvin-hospital.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1624942/over-100-patients-waiting-for-treatment-at-derry-s-altnagelvin-hospital.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![270 new jobs announced for Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "270 new jobs announced for Derry")](https://www.derrynow.com/news/local-news/1624923/270-civil-service-jobs-announced-for-derry.html)
 
 Lisahally Service Centre
@@ -334,6 +318,22 @@ Lisahally Service Centre
 
 [270 new jobs announced for Derry](https://www.derrynow.com/news/local-news/1624923/270-civil-service-jobs-announced-for-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------
+
+[![Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1624942/over-100-patients-waiting-for-treatment-at-derry-s-altnagelvin-hospital.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1624942/over-100-patients-waiting-for-treatment-at-derry-s-altnagelvin-hospital.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry man charged with breaching his bail conditions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man charged with breaching his bail conditions")](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry man charged with breaching his bail conditions](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
