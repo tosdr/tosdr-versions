@@ -299,4 +299,4 @@ London N1 6NN
 
 [Privacy](https://flourish.studio/privacy)
 
-[16 ways to visualize US elections data Read our latest blog posts »](https://flourish.studio/blog)
+[Visualizing 100 years of US elections with interactive maps Read our latest blog posts »](https://flourish.studio/blog)
