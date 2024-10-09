@@ -1,12 +1,12 @@
 [Skip to content](#site-main)
 
-[15% Off All Self-Defense Batons | Code: BATON15](https://www.thehomesecuritysuperstore.com/collections/batons?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+All+Self-Defense+Batons)
+[Buy 1 Get 1 Free Personal Panic Alarm I Click Here!](https://www.thehomesecuritysuperstore.com/collections/bogo-personal-panic-alarms?utm_source=website&utm_medium=banner&utm_campaign=Buy+1+Get+1+Free+Personal+Panic+Alarm)
 
-Today’s offer: :: | 15% Off All Self-Defense Batons | Code: BATON15
+Today’s offer: :: | Buy 1 Get 1 Free Personal Panic Alarm I Click Here!
 
 Today’s offer: : :
 
- 15% Off All Self-Defense Batons Code: BATON15
+ Buy 1 Get 1 Free Personal Panic Alarm I Click Here!
 
  [![Menu icon](//www.thehomesecuritysuperstore.com/cdn/shop/t/278/assets/thsss-icon-menu.svg?v=3386669279103324361717265611) Menu](#)
 
