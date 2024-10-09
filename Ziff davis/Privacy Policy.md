@@ -1,8 +1,8 @@
   [Skip to main content](#content)
 
-[](https://www.ziffdavis.com/)
+[](https://www.ziffdavis.com/ "Ziff Davis Logo")
 
-[**ZD $43.77** ▼\-1.11%](http://investor.ziffdavis.com/)
+[**ZD $44.70** ▲2.11%](http://investor.ziffdavis.com/)
 
 Minimum 20 minute delay.
 
@@ -514,13 +514,13 @@ We may change this Privacy Policy from time to time, and all changes will be eff
 
 To review Ookla, LLC’s privacy policy and practices, please visit the [Ookla Privacy Policy](https://www.ookla.com/privacy). The [Ookla Terms](https://www.ookla.com/terms) of Use govern your use of websites and services of Ookla (including Speedtest and Speedtest Custom). To review Humble Bundle, Inc.’s privacy policy and practices, please visit the [Humble Bundle Privacy Policy](https://www.humblebundle.com/privacy). The [Humble Bundle Terms of Use](https://www.humblebundle.com/terms) govern your use of the websites and services of Humble Bundle. To review Everyday Health, Inc.’s privacy policy and practices, please visit the [Everyday Health Privacy Policy](https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy). The [Everyday Health Terms of Use](https://www.everydayhealth.com/privacyterms#everyday_health_terms_of_use) govern your use of the websites and services of Everyday Health.
 
-[](https://www.ziffdavis.com/)
+[](https://www.ziffdavis.com/ "Ziff Davis Logo")
 
 * [Ziff Davis Accessibility Policy](https://www.ziffdavis.com/accessibility)
 * [Legal & Patent Notices](https://www.ziffdavis.com/legal)
 * [Privacy](https://www.ziffdavis.com/privacy)
 * [Contact Us](https://www.ziffdavis.com/about/contacts)
 
-[](https://www.facebook.com/ziffdavisinc)[](https://www.linkedin.com/company/ziff-davis-inc)[](https://twitter.com/ziffdavis)
+[](https://www.facebook.com/ziffdavisinc "Facebook")[](https://www.linkedin.com/company/ziff-davis-inc "Linkedin")[](https://twitter.com/ziffdavis "X")
 
 © Copyright 2024 Ziff Davis, Inc. All rights reserved.
