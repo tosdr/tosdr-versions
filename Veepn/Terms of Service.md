@@ -1,4 +1,4 @@
-[![veepn home](/assets/ff8be08a/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/d93bd842/images/logo-main.svg)](https://veepn.com/)
 
 * VPN Apps
     
@@ -35,6 +35,7 @@
     
     * [Antivirus](https://veepn.com/antivirus/)
     * [Breach Alert](https://veepn.com/alert/)
+    * [Alternative ID](https://veepn.com/alternative-id/)
     
 * Features
     
@@ -66,6 +67,7 @@
     * [Conceal Identity](https://veepn.com/conceal-identity/)
     * [Prevent Tracking](https://veepn.com/prevent-tracking/)
     * [Save Money](https://veepn.com/save-money/)
+    * [Anonymous Email](https://veepn.com/anonymous-email-address/)
     
     Browse Safely
     
@@ -82,7 +84,7 @@
 
 [Get VeePN Now](https://order.veepn.com/pricing/)
 
-![en language](/assets/ff8be08a/images/flags/en.svg) en
+![en language](/assets/d93bd842/images/flags/en.svg) en
 
 *  [Українська](https://veepn.com/uk/terms-of-service/)
 *  [Deutsch](https://veepn.com/de/terms-of-service/)
@@ -357,7 +359,7 @@ Please submit any notices to us with respect to the Service or these Terms via [
 
 Last updated: September 13, 2024
 
-[![veepn home](/assets/ff8be08a/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/d93bd842/images/logo-main.svg)](https://veepn.com/)
 
 Products
 
