@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6705989dccc583e10bc6e935_clearco-entreprenista-giveaway-winner%20-brightbody.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6706aa7da6444264b8bef164_goatfoods-giveaway-clearco-contest.png)
 
-###### Empowering Female Founders: Clearco's Contest with Entreprenista
+###### G.O.A.T. Foods Giveaway: Join Clearco's Sweet Instagram Contest
 
-[Read now >](https://clear.co/blog/clearco-entreprenista-giveaway-winner-brightbody)
+[Read now >](https://clear.co/blog/goatfoods-giveaway-clearco-contest)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
