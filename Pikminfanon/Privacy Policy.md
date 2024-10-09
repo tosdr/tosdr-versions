@@ -50,6 +50,11 @@ Wiki tools
 
 * [Special pages](https://pikminfanon.com/wiki/Special:SpecialPages "A list of all special pages [q]")
 
+| ![Sitenotice.png](https://cdn.pikminfanon.com/thumb/3/30/Sitenotice.png/100px-Sitenotice.png) (last updated on _Oct 09, 2024_) |
+| --- |
+| Welcome, new users! To get comfortable with the community, check out our [Beginner's Guide to the Community](https://pikminfanon.com/wiki/PikminFanon:Community_guide "PikminFanon:Community guide"). If you need more help, be sure to ask some of your fellow users!<br><br>If you are not signed in, please [log in](https://pikminfanon.com/wiki/Special:UserLogin "Special:UserLogin") or [create an account](https://pikminfanon.com/wiki/Special:CreateAccount "Special:CreateAccount") and join the community! |
+| Recently, an important point was added to the beginning of the [privacy policy](https://pikminfanon.com/wiki/PikminFanon:Privacy_policy "PikminFanon:Privacy policy") concerning user age. |
+
 PikminFanon:Privacy policy
 ==========================
 
