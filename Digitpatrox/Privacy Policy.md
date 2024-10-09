@@ -20,16 +20,16 @@ Wednesday, October 9 2024
 
 Latest
 
-* [Hot sleepers, rejoice! This instant cooling comforter is 35% off for Prime Day](https://digitpatrox.com/hot-sleepers-rejoice-this-instant-cooling-comforter-is-35-off-for-prime-day/)
-* [New scanner finds Linux, UNIX servers exposed to CUPS RCE attacks](https://digitpatrox.com/new-scanner-finds-linux-unix-servers-exposed-to-cups-rce-attacks/)
-* [How to use satellite messaging and SOS services on your iPhone or Pixel](https://digitpatrox.com/how-to-use-satellite-messaging-and-sos-services-on-your-iphone-or-pixel/)
-* [Starlink and T-Mobile’s text-by-satellite service is available in Florida](https://digitpatrox.com/starlink-and-t-mobiles-text-by-satellite-service-is-available-in-florida/)
-* [NYT Strands Today: Hints, Answers & Spangram for October 9](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-9/)
-* [European bank aims to keep startups local](https://digitpatrox.com/european-bank-aims-to-keep-startups-local/)
-* [Is the .io top level domain headed for extinction? – Computerworld](https://digitpatrox.com/is-the-io-top-level-domain-headed-for-extinction-computerworld/)
-* [Why the ROLA Mini Pet Camera Is My Favorite Deal for October Prime Day](https://digitpatrox.com/why-the-rola-mini-pet-camera-is-my-favorite-deal-for-october-prime-day/)
-* [Is a VPN for Apex Legends worth it? Benefits and drawbacks](https://digitpatrox.com/is-a-vpn-for-apex-legends-worth-it-benefits-and-drawbacks/)
-* [Windows 11 AI features confirmed for version 24H2](https://digitpatrox.com/windows-11-ai-features-confirmed-for-version-24h2/)
+* [An Outbound Dialer Will Help You Win the Numbers Game](https://digitpatrox.com/an-outbound-dialer-will-help-you-win-the-numbers-game/)
+* [Be quick! The latest Prime Day Fitbit deals slash prices by up to $79 — my top 3 picks](https://digitpatrox.com/be-quick-the-latest-prime-day-fitbit-deals-slash-prices-by-up-to-79-my-top-3-picks/)
+* [Windows 11 22H2 Home and Pro reached end of servicing](https://digitpatrox.com/windows-11-22h2-home-and-pro-reached-end-of-servicing/)
+* [MediaTek’s new flagship chipset is ready for AI and tri-fold phones](https://digitpatrox.com/mediateks-new-flagship-chipset-is-ready-for-ai-and-tri-fold-phones/)
+* [Honkai Star Rail Has Possibly Revealed 5-star Tingyun’s Drip Marketing Date](https://digitpatrox.com/honkai-star-rail-has-possibly-revealed-5-star-tingyuns-drip-marketing-date/)
+* [Federal jury finds that Cognizant discriminated against American IT workers – Computerworld](https://digitpatrox.com/federal-jury-finds-that-cognizant-discriminated-against-american-it-workers-computerworld/)
+* [The Yaber K2s Projector Just Hit Its Lowest Price Ever During October Prime Day](https://digitpatrox.com/the-yaber-k2s-projector-just-hit-its-lowest-price-ever-during-october-prime-day/)
+* [How to use Rufus to create bootable Windows 11 24H2 USB](https://digitpatrox.com/how-to-use-rufus-to-create-bootable-windows-11-24h2-usb/)
+* [Regulators Aim to Crack Down on Infant ‘Neck Floats’ After Two Deaths and Dozens of Close Calls Reported](https://digitpatrox.com/regulators-aim-to-crack-down-on-infant-neck-floats-after-two-deaths-and-dozens-of-close-calls-reported/)
+* [Onedrive Is Getting Better Photo Management, Faster Performance, and More](https://digitpatrox.com/onedrive-is-getting-better-photo-management-faster-performance-and-more/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/bXbuhMaCfqiNfLB2RDKWbk-1200-80.png)](https://digitpatrox.com/hot-sleepers-rejoice-this-instant-cooling-comforter-is-35-off-for-prime-day/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/call-center-pexels-kampus-8204374.jpg)](https://digitpatrox.com/an-outbound-dialer-will-help-you-win-the-numbers-game/)
     
-    [Hot sleepers, rejoice! This instant cooling comforter is 35% off for Prime Day](https://digitpatrox.com/hot-sleepers-rejoice-this-instant-cooling-comforter-is-35-off-for-prime-day/)
+    [An Outbound Dialer Will Help You Win the Numbers Game](https://digitpatrox.com/an-outbound-dialer-will-help-you-win-the-numbers-game/)
     
-    8 mins ago
+    56 seconds ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/04/02/scanner.jpg)](https://digitpatrox.com/new-scanner-finds-linux-unix-servers-exposed-to-cups-rce-attacks/)
+* [![](https://cdn.mos.cms.futurecdn.net/4dNgdSE4jWSUFWHyUVjaki-1200-80.jpg)](https://digitpatrox.com/be-quick-the-latest-prime-day-fitbit-deals-slash-prices-by-up-to-79-my-top-3-picks/)
     
-    [New scanner finds Linux, UNIX servers exposed to CUPS RCE attacks](https://digitpatrox.com/new-scanner-finds-linux-unix-servers-exposed-to-cups-rce-attacks/)
+    [Be quick! The latest Prime Day Fitbit deals slash prices by up to $79 — my top 3 picks](https://digitpatrox.com/be-quick-the-latest-prime-day-fitbit-deals-slash-prices-by-up-to-79-my-top-3-picks/)
     
-    36 mins ago
+    16 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/d7ScMsIszjWFJ3hFy314F0MciwA=/720x0:2721x1208/1200x628/filters:focal(1730x479:1731x480)/cdn.vox-cdn.com/uploads/chorus_asset/file/25485431/Screenshot_2024_06_10_at_1.23.44_PM.png)](https://digitpatrox.com/how-to-use-satellite-messaging-and-sos-services-on-your-iphone-or-pixel/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/02/Windows_11_headpic.jpg)](https://digitpatrox.com/windows-11-22h2-home-and-pro-reached-end-of-servicing/)
     
-    [How to use satellite messaging and SOS services on your iPhone or Pixel](https://digitpatrox.com/how-to-use-satellite-messaging-and-sos-services-on-your-iphone-or-pixel/)
+    [Windows 11 22H2 Home and Pro reached end of servicing](https://digitpatrox.com/windows-11-22h2-home-and-pro-reached-end-of-servicing/)
     
-    52 mins ago
+    44 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/HvTYUM0pJgmvmBc-vzFvGLHsD5c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23962441/acastro_STK067__02.jpg)](https://digitpatrox.com/starlink-and-t-mobiles-text-by-satellite-service-is-available-in-florida/)
+* [![](https://cdn.vox-cdn.com/thumbor/GjFbQV8GL3u_CBQ9ug9Kzpz-b-g=/0x0:1180x885/1200x628/filters:focal(590x443:591x444)/cdn.vox-cdn.com/uploads/chorus_asset/file/25665396/MediaTek_D9400_base_2_crop.jpg)](https://digitpatrox.com/mediateks-new-flagship-chipset-is-ready-for-ai-and-tri-fold-phones/)
     
-    [Starlink and T-Mobile’s text-by-satellite service is available in Florida](https://digitpatrox.com/starlink-and-t-mobiles-text-by-satellite-service-is-available-in-florida/)
+    [MediaTek’s new flagship chipset is ready for AI and tri-fold phones](https://digitpatrox.com/mediateks-new-flagship-chipset-is-ready-for-ai-and-tri-fold-phones/)
     
-    54 mins ago
+    1 hour ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-9/)
+* [![](https://beebom.com/wp-content/uploads/2024/09/Tingyun-New-Form-Leaked-in-Honkai-Star-Rail.jpg)](https://digitpatrox.com/honkai-star-rail-has-possibly-revealed-5-star-tingyuns-drip-marketing-date/)
     
-    [NYT Strands Today: Hints, Answers & Spangram for October 9](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-october-9/)
+    [Honkai Star Rail Has Possibly Revealed 5-star Tingyun’s Drip Marketing Date](https://digitpatrox.com/honkai-star-rail-has-possibly-revealed-5-star-tingyuns-drip-marketing-date/)
     
     1 hour ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [8 mins ago
+* [56 seconds ago
     
-    ### Hot sleepers, rejoice! This instant cooling comforter is 35% off for Prime Day](https://digitpatrox.com/hot-sleepers-rejoice-this-instant-cooling-comforter-is-35-off-for-prime-day/)
-* [36 mins ago
+    ### An Outbound Dialer Will Help You Win the Numbers Game](https://digitpatrox.com/an-outbound-dialer-will-help-you-win-the-numbers-game/)
+* [16 mins ago
     
-    ### New scanner finds Linux, UNIX servers exposed to CUPS RCE attacks](https://digitpatrox.com/new-scanner-finds-linux-unix-servers-exposed-to-cups-rce-attacks/)
-* [52 mins ago
+    ### Be quick! The latest Prime Day Fitbit deals slash prices by up to $79 — my top 3 picks](https://digitpatrox.com/be-quick-the-latest-prime-day-fitbit-deals-slash-prices-by-up-to-79-my-top-3-picks/)
+* [44 mins ago
     
-    ### How to use satellite messaging and SOS services on your iPhone or Pixel](https://digitpatrox.com/how-to-use-satellite-messaging-and-sos-services-on-your-iphone-or-pixel/)
+    ### Windows 11 22H2 Home and Pro reached end of servicing](https://digitpatrox.com/windows-11-22h2-home-and-pro-reached-end-of-servicing/)
 
 Most Popular Topics
 
-* [6 days ago
-    
-    ### How AI is powering the next wave of digital transformation](https://digitpatrox.com/how-ai-is-powering-the-next-wave-of-digital-transformation/)
-* [August 27, 2024
-    
-    ### Best Used Cars of the Year: 10 Top Picks](https://digitpatrox.com/best-used-cars-of-the-year-10-top-picks/)
 * [August 14, 2024
     
-    ### AutoCanada discloses cyberattack impacting internal IT systems](https://digitpatrox.com/autocanada-discloses-cyberattack-impacting-internal-it-systems/)
+    ### My Favorite Amazon Deal of the Day: The Google Pixel Buds Pro 2](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-the-google-pixel-buds-pro-2/)
+* [August 25, 2024
+    
+    ### Worldwide UC&C revenues to hit $69.1B mark this year, IDC projects – Computerworld](https://digitpatrox.com/worldwide-ucc-revenues-to-hit-69-1b-mark-this-year-idc-projects-computerworld/)
+* [5 days ago
+    
+    ### Microsoft and DOJ disrupt Russian FSB hackers’ attack infrastructure](https://digitpatrox.com/microsoft-and-doj-disrupt-russian-fsb-hackers-attack-infrastructure/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Is the .io top level domain headed for extinction? – Computerworld](https://digitpatrox.com/is-the-io-top-level-domain-headed-for-extinction-computerworld/)
-* [3 hours ago
-    
-    ### Why the ROLA Mini Pet Camera Is My Favorite Deal for October Prime Day](https://digitpatrox.com/why-the-rola-mini-pet-camera-is-my-favorite-deal-for-october-prime-day/)
+    ### The Yaber K2s Projector Just Hit Its Lowest Price Ever During October Prime Day](https://digitpatrox.com/the-yaber-k2s-projector-just-hit-its-lowest-price-ever-during-october-prime-day/)
 * [4 hours ago
     
-    ### Is a VPN for Apex Legends worth it? Benefits and drawbacks](https://digitpatrox.com/is-a-vpn-for-apex-legends-worth-it-benefits-and-drawbacks/)
+    ### How to use Rufus to create bootable Windows 11 24H2 USB](https://digitpatrox.com/how-to-use-rufus-to-create-bootable-windows-11-24h2-usb/)
+* [4 hours ago
+    
+    ### Regulators Aim to Crack Down on Infant ‘Neck Floats’ After Two Deaths and Dozens of Close Calls Reported](https://digitpatrox.com/regulators-aim-to-crack-down-on-infant-neck-floats-after-two-deaths-and-dozens-of-close-calls-reported/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 21, 2024
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
