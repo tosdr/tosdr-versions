@@ -31,7 +31,7 @@
         Learn More](https://www.tegna.com/advertise/solutions/broadcast/)
     * [AttributionProviding deep insights to prove the value of linear and streaming campaigns by collecting real-time data for TV and streaming shows and their accompanying advertisements.
         
-        Learn More](https://www.tegna.com/advertise/solutions/attribution-data/)
+        Learn More](https://www.tegna.com/advertise/solutions/attribution/)
     * [PodcastsFrom Pre-Roll to episode and series sponsorships, we can create a solution that works for you and reaches your target audience.
         
         Learn More](https://www.tegna.com/advertise/solutions/podcasts/)
@@ -62,7 +62,7 @@
 * [Press](https://www.tegna.com/press/)
 * Advertise >>
     * [Advertise](https://www.tegna.com/advertise/)
-    * [Attribution](https://www.tegna.com/advertise/solutions/attribution-data/)
+    * [Attribution](https://www.tegna.com/advertise/solutions/attribution/)
     * [Broadcast](https://www.tegna.com/advertise/solutions/broadcast/)
     * [Custom Solutions](https://www.tegna.com/advertise/solutions/custom-solutions/)
     * [Digital](https://www.tegna.com/advertise/solutions/digital/)
