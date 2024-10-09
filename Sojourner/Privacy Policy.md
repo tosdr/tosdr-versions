@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-7fe3160e0e56d9762bc89ac334763523
+c950e593f9deaa99d3b6dd3595adbabd
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Simple White Pearls necklace](https://www.sojourner.biz/images/cache/jewelry/N0100.200.jpg)](https://www.sojourner.biz/jewelry/necklaces/simple-white-pearls-necklace.html "Simple White Pearls necklace")
+[![4 mm gold-plate flat-faced diamond bead](https://www.sojourner.biz/images/cache/metalbeads/MET012.200.jpg)](https://www.sojourner.biz/beads/metal/4-mm-gold-plate-flat-faced-diamond-bead.html "4 mm gold-plate flat-faced diamond bead")
 
-#### [Simple White Pearls necklace](https://www.sojourner.biz/jewelry/necklaces/simple-white-pearls-necklace.html "Simple White Pearls necklace")
+#### [4 mm gold-plate flat-faced diamond bead](https://www.sojourner.biz/beads/metal/4-mm-gold-plate-flat-faced-diamond-bead.html "4 mm gold-plate flat-faced diamond bead")
 
-$135.00
+$7.50
 
 ### Best Sellers
 
