@@ -1,6 +1,6 @@
 5.38.17
 
-1728462831647
+1728484710643
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.1
 
-1728462855462
+1728484992366
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1728462871079
+1728485784776
 
 You need to enable JavaScript to run this app.
 
@@ -576,26 +576,6 @@ This offer is not available to staff.
 
 Offer applies while stocks last.
 
-### Shower Gels for £10 Selected Bath and Body Works Promotion
-
-Selected Bath and Body Works shower gels for £10.
-
-Discounted price visible on product listing page and product already includes saving.
-
-Item will be added to basket at discounted price.
-
-Offer available while stocks last.
-
-### Single Wick Candles for £15 Selected Bath and Body Works Promotion
-
-Selected Bath and Body Works single wick candles for £15.
-
-Discounted price visible on product listing page and product already includes saving.
-
-Item will be added to basket at discounted price.
-
-Offer available while stocks last.
-
 ### 3 Wick Candles for £20 Selected Bath and Body Works Promotion
 
 Selected Bath and Body Works 3 wick candles for £20.
@@ -777,21 +757,6 @@ Offer applies while stocks last.
 13. We reserve the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
 14. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
 15. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
-
-### Elizabeth Arden Promotion
-
-The Elizabeth Arden Gift will be automatically added to bag when you buy two selected Elizabeth Arden products. The Elizabeth Arden Gift contains: Eight Hour Cream Skin Protectant 15ml Eight Hour Cream Intensive Moisturizing Hand Treatment 30ml Eight Hour Cream Lip Protectant Stick SPF 15 3.7g (Full Size)
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.  
-  
-The Elizabeth Arden Gift will be automatically added once 2 qualifying Elizabeth Arden products have been added to the bag on either the Product or Shopping Bag Pages.  
-  
-The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.  
-  
-This offer is not available to staff.  
-  
-Offer applies while stocks last.  
-  
 
 ### Prada Promotion
 
@@ -2616,7 +2581,7 @@ You need to enable JavaScript to run this app.
 
 3.15.1
 
-1728462794895
+1728484743190
 
 ### Our Social Networks
 
