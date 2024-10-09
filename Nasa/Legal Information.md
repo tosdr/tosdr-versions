@@ -70,13 +70,13 @@ Suggested Searches
 
 ### NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
 
-article4 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)[![NASA: New Insights into How Mars Became Uninhabitable](https://science.nasa.gov/wp-content/uploads/2024/09/mars-wet-lpi-16x9-1.jpg)
+article9 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)[![NASA: New Insights into How Mars Became Uninhabitable](https://science.nasa.gov/wp-content/uploads/2024/09/mars-wet-lpi-16x9-1.jpg)
 
 5 min read
 
 ### NASA: New Insights into How Mars Became Uninhabitable
 
-article24 hours ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
+article1 day ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)[![What’s Up: October 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/7457588672-61c58e8f44-k-jpg.webp)
 
 6 min read
 
@@ -247,7 +247,7 @@ Back
 
 ### NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
 
-article 4 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)[![Perseverance Matters](https://science.nasa.gov/wp-content/uploads/2024/10/mars-perseverance-sif-1212-0774537099-675eby-n0560000srlc00648-0000lmj.png)
+article 9 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)[![Perseverance Matters](https://science.nasa.gov/wp-content/uploads/2024/10/mars-perseverance-sif-1212-0774537099-675eby-n0560000srlc00648-0000lmj.png)
 
 2 min read
 
@@ -285,25 +285,25 @@ article 5 days ago](https://www.nasa.gov/missions/artemis/gateway/gateway-stands
 
 ### Highlights
 
-[![Haghani holds an electronic card from MUSTANG](https://www.nasa.gov/wp-content/uploads/2017/02/noosha_and_tech.jpg?w=1024)
+[![NASA astronaut Matthew Dominick captured this photo of Hurricane Milton from the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/gzyjmonxwaa-3bx.jpeg?w=683)
+
+1 min read
+
+### NASA Efforts on Hurricane Milton
+
+article 5 hours ago](https://www.nasa.gov/hurricane-milton/)[![Haghani holds an electronic card from MUSTANG](https://www.nasa.gov/wp-content/uploads/2017/02/noosha_and_tech.jpg?w=1024)
 
 9 min read
 
 ### Systems Engineer Noosha Haghani Prepped PACE for Space
 
-article 1 hour ago](https://www.nasa.gov/people-of-nasa/goddard-people/systems-engineer-noosha-haghani-prepped-pace-for-space/)[![El Niño](https://science.nasa.gov/wp-content/uploads/2024/07/sstanomaly-mur-20151101.jpg)
+article 6 hours ago](https://www.nasa.gov/people-of-nasa/goddard-people/systems-engineer-noosha-haghani-prepped-pace-for-space/)[![El Niño](https://science.nasa.gov/wp-content/uploads/2024/07/sstanomaly-mur-20151101.jpg)
 
 24 min read
 
 ### El Niño
 
-article 21 hours ago](https://science.nasa.gov/earth/explore/el-nino/)[![iss072e001650 (Sept. 25, 2024) -- Hurricane Helene is pictured from the International Space Station as it orbited 257 above the Gulf of Mexico off the coast of Mississippi.](https://www.nasa.gov/wp-content/uploads/2024/10/iss072e001650.jpg?w=1024)
-
-1 min read
-
-### NASA Efforts on Hurricane Helene
-
-article 5 days ago](https://www.nasa.gov/hurricane-helene/)
+article 1 day ago](https://science.nasa.gov/earth/explore/el-nino/)
 
 ### Highlights
 
@@ -313,7 +313,7 @@ article 5 days ago](https://www.nasa.gov/hurricane-helene/)
 
 ### NASA: New Insights into How Mars Became Uninhabitable
 
-article 24 hours ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
+article 1 day ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
 
 3 min read
 
@@ -357,19 +357,19 @@ article 2 weeks ago](https://science.nasa.gov/missions/hubble/hubble-captures-st
 
 ### Connected Learning Ecosystems: Educators Learning and Growing Together
 
-article 56 mins ago](https://science.nasa.gov/learning-resources/science-activation/connected-learning-ecosystems-educators-learning-and-growing-together/)[![This photo features a tall, charcoal colored structure that looks like a headless AT-AT walker from Star Wars. A rectangular cylinder about twice as tall as a person rests atop a base with tall, skinny "legs." Two people wearing white gowns and blue gloves stand underneath the base, with two other similarly gowned people on either side of the structure. In the background, large walls are covered in light gray panels with seafoam green outlines.](https://www.nasa.gov/wp-content/uploads/2024/10/oba-copy-1.jpg?w=1024)
+article 6 hours ago](https://science.nasa.gov/learning-resources/science-activation/connected-learning-ecosystems-educators-learning-and-growing-together/)[![This photo features a tall, charcoal colored structure that looks like a headless AT-AT walker from Star Wars. A rectangular cylinder about twice as tall as a person rests atop a base with tall, skinny "legs." Two people wearing white gowns and blue gloves stand underneath the base, with two other similarly gowned people on either side of the structure. In the background, large walls are covered in light gray panels with seafoam green outlines.](https://www.nasa.gov/wp-content/uploads/2024/10/oba-copy-1.jpg?w=1024)
 
 4 min read
 
 ### NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
 
-article 4 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)[![NASA: New Insights into How Mars Became Uninhabitable](https://science.nasa.gov/wp-content/uploads/2024/09/mars-wet-lpi-16x9-1.jpg)
+article 9 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)[![NASA: New Insights into How Mars Became Uninhabitable](https://science.nasa.gov/wp-content/uploads/2024/09/mars-wet-lpi-16x9-1.jpg)
 
 5 min read
 
 ### NASA: New Insights into How Mars Became Uninhabitable
 
-article 24 hours ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)
+article 1 day ago](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/)
 
 ### Highlights
 
@@ -395,25 +395,25 @@ article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### Highlights
 
-[![This photo features a tall, charcoal colored structure that looks like a headless AT-AT walker from Star Wars. A rectangular cylinder about twice as tall as a person rests atop a base with tall, skinny "legs." Two people wearing white gowns and blue gloves stand underneath the base, with two other similarly gowned people on either side of the structure. In the background, large walls are covered in light gray panels with seafoam green outlines.](https://www.nasa.gov/wp-content/uploads/2024/10/oba-copy-1.jpg?w=1024)
+[![Conceptual graphic of the lunar surface with the sun casting light onto a robotic excavator traversing the rocky regolith.](https://www.nasa.gov/wp-content/uploads/2024/10/rassor-ipex-forreview-1.jpg?w=1024)
+
+3 min read
+
+### NASA, Collaborators Announce a New Student Lunar Autonomy Challenge! 
+
+article 1 hour ago](https://www.nasa.gov/directorates/stmd/student-lunar-autonomy-challenge/)[![This photo features a tall, charcoal colored structure that looks like a headless AT-AT walker from Star Wars. A rectangular cylinder about twice as tall as a person rests atop a base with tall, skinny "legs." Two people wearing white gowns and blue gloves stand underneath the base, with two other similarly gowned people on either side of the structure. In the background, large walls are covered in light gray panels with seafoam green outlines.](https://www.nasa.gov/wp-content/uploads/2024/10/oba-copy-1.jpg?w=1024)
 
 4 min read
 
 ### NASA’s Roman Space Telescope’s ‘Exoskeleton’ Whirls Through Major Test
 
-article 4 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)[![Astronaut Kayla Barron checks out chile peppers growing in the station](https://www.nasa.gov/wp-content/uploads/2023/03/iss066e084293.jpg?w=1024)
+article 9 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescopes-exoskeleton-whirls-through-major-test/)[![Astronaut Kayla Barron checks out chile peppers growing in the station](https://www.nasa.gov/wp-content/uploads/2023/03/iss066e084293.jpg?w=1024)
 
 2 min read
 
 ### Tech Today: Spraying for Food Safety
 
-article 23 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-spraying-for-food-safety/)[![F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update](https://science.nasa.gov/wp-content/uploads/2024/09/surface-power-2-0.webp)
-
-1 min read
-
-### F.13 Lunar Terrain Vehicle Instruments Clarification and FAQ Update
-
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-13-lunar-terrain-vehicle-instruments-clarification-and-faq-update/)
+article 1 day ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/tech-today-spraying-for-food-safety/)
 
 ### Featured
 
@@ -423,19 +423,19 @@ article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024
 
 ### Connected Learning Ecosystems: Educators Learning and Growing Together
 
-article 56 mins ago](https://science.nasa.gov/learning-resources/science-activation/connected-learning-ecosystems-educators-learning-and-growing-together/)[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
+article 6 hours ago](https://science.nasa.gov/learning-resources/science-activation/connected-learning-ecosystems-educators-learning-and-growing-together/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-jw-still01-1920x1080-1.png?w=1024)
+
+3 min read
+
+### Journey Through Stars with NASA in New Minecraft Game
+
+article 8 hours ago](https://www.nasa.gov/learning-resources/hubble-new-minecraft-game/)[![GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration](https://science.nasa.gov/wp-content/uploads/2024/10/cap-solar-eclipse-mission-ncwg-cadets-with-solar-glasses-looking-at-eclipse-best-8apr2024-marile-colon-robles.jpg)
 
 3 min read
 
 ### GLOBE Eclipse and Civil Air Patrol: An Astronomical Collaboration
 
-article 1 day ago](https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/)[![Science Activation’s PLACES Team Facilitates Third Professional Learning Institute](https://science.nasa.gov/wp-content/uploads/2024/10/gmri-cover-image-sara-salisbury.jpeg)
-
-5 min read
-
-### Science Activation’s PLACES Team Facilitates Third Professional Learning Institute
-
-article 4 days ago](https://science.nasa.gov/learning-resources/science-activation/places-team-facilitates-third-professional-learning-institute/)
+article 1 day ago](https://science.nasa.gov/learning-resources/science-activation/globe-eclipse-and-civil-air-patrol-an-astronomical-collaboration/)
 
 ### Featured
 
@@ -445,19 +445,19 @@ article 4 days ago](https://science.nasa.gov/learning-resources/science-activati
 
 ### NASA Seeks Innovative Artemis Lunar Logistics, Mobility Solutions
 
-article 2 hours ago](https://www.nasa.gov/general/nasa-seeks-innovative-artemis-lunar-logistics-mobility-solutions/)[![Low-angle self-portrait of NASA's Curiosity Mars rover](https://www.nasa.gov/wp-content/uploads/2023/03/pia19808-main_tight_crop-monday.jpg?w=1024)
+article 7 hours ago](https://www.nasa.gov/general/nasa-seeks-innovative-artemis-lunar-logistics-mobility-solutions/)[![Low-angle self-portrait of NASA's Curiosity Mars rover](https://www.nasa.gov/wp-content/uploads/2023/03/pia19808-main_tight_crop-monday.jpg?w=1024)
 
 3 min read
 
 ### Public Participation in Machine Learning Bolsters Extraterrestrial Research
 
-article 3 hours ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/public-participation-in-machine-learning-bolsters-extraterrestrial-research/)[![The STS-41G crew of Jon A. McBride, front row left, Sally K. Ride, Kathryn D. Sullivan, and David C. Leestma; Paul D. Scully-Power, back row left, Robert L. Crippen, and Marc Garneau of Canada](https://www.nasa.gov/wp-content/uploads/2024/10/sts-41g-2-crew-photo-s84-37981.jpg?w=1024)
+article 8 hours ago](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/public-participation-in-machine-learning-bolsters-extraterrestrial-research/)[![The STS-41G crew of Jon A. McBride, front row left, Sally K. Ride, Kathryn D. Sullivan, and David C. Leestma; Paul D. Scully-Power, back row left, Robert L. Crippen, and Marc Garneau of Canada](https://www.nasa.gov/wp-content/uploads/2024/10/sts-41g-2-crew-photo-s84-37981.jpg?w=1024)
 
 13 min read
 
 ### 40 Years Ago: STS-41G – A Flight of Many Firsts and Records
 
-article 24 hours ago](https://www.nasa.gov/history/40-years-ago-sts-41g-a-flight-of-many-firsts-and-records/)
+article 1 day ago](https://www.nasa.gov/history/40-years-ago-sts-41g-a-flight-of-many-firsts-and-records/)
 
 ### Highlights
 
@@ -467,7 +467,7 @@ article 24 hours ago](https://www.nasa.gov/history/40-years-ago-sts-41g-a-flight
 
 ### Una gerente de proyectos de la NASA rinde homenaje a la influencia de su madre
 
-article 19 hours ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/)[![A close up image of a set of massive solar arrays measuring about 46.5 feet (14.2 meters) long and about 13.5 feet (4.1 meters) high on NASA’s Europa Clipper spacecraft inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/09/europa-clipper.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/)[![A close up image of a set of massive solar arrays measuring about 46.5 feet (14.2 meters) long and about 13.5 feet (4.1 meters) high on NASA’s Europa Clipper spacecraft inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/09/europa-clipper.jpg?w=1024)
 
 5 min read
 
