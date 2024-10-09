@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,663
+* 8,673
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,965
+* 7,968
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 17,022
+* 17,026
 * 10
 
 Announcing the end of life of Waterfall​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 24,031
+* 24,048
 * 6
 
 Happy New Year from PaperMC!​
@@ -641,7 +641,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,864
+* 14,865
 * 1
 
 ### The 1.20.2 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,482
+* 13,484
 * 9
 
 ### The 1.20(.1) Update​
@@ -1002,7 +1002,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 34,991
+* 34,994
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,227
+* 37,229
 * 18
 
 ### The 1.19 Update​
@@ -1318,7 +1318,7 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 22 (members: 1, guests: 21)
+Total: 14 (members: 0, guests: 14)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
@@ -1329,7 +1329,7 @@ Total: 22 (members: 1, guests: 21)
 Question [Error That I cant Figure Out.](https://papermc.io/threads/error-that-i-cant-figure-out.1401/)
 
 * [jwpwns](https://papermc.io/members/jwpwns.11591/)
-* [Yesterday at 2:16 PM](https://papermc.io/threads/error-that-i-cant-figure-out.1401/)
+* [Monday at 2:16 PM](https://papermc.io/threads/error-that-i-cant-figure-out.1401/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
@@ -1338,9 +1338,9 @@ Replies
 
 Views
 
-36
+37
 
-[Help](https://papermc.io/forums/paper-help/) [Today at 12:00 AM](https://papermc.io/threads/error-that-i-cant-figure-out.1401/latest)
+[Help](https://papermc.io/forums/paper-help/) [Yesterday at 12:00 AM](https://papermc.io/threads/error-that-i-cant-figure-out.1401/latest)
 
 [mbaxter](https://papermc.io/members/mbaxter.18/)
 
@@ -1386,7 +1386,7 @@ Replies
 
 Views
 
-52
+53
 
 [Help](https://papermc.io/forums/paper-help/) [Saturday at 6:46 PM](https://papermc.io/threads/paper-doesnt-seem-to-be-following-generator-settings.1399/latest)
 
