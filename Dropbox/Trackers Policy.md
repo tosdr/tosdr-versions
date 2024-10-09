@@ -148,7 +148,7 @@ Thanks for your feedback!
     
     Posted by: rbkeep 89 days ago
     
-    ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-view.svg) 28506
+    ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-view.svg) 28509
     
     ![](https://aem.dropbox.com/cms/etc.clientlibs/settings/wcm/designs/dropbox-birch-help/clientlib-all/resources/icon-chat.svg) 8
     
