@@ -544,14 +544,14 @@ Attn: Legal Department
 
 [Imperfect Foods Logo](https://www.imperfectfoods.com/)
 
-* [About Us](https://www.imperfectfoods.com/about-us)
+* [About Us](https://www.imperfectfoods.com/what-imperfect-means)
 * [FAQs](https://help.imperfectfoods.com/en_us/categories/faq-S1_ayZus)
 * [Resources](https://www.imperfectfoods.com/resources-and-reports)
 * [Our Packaging](https://www.imperfectfoods.com/packaging)
 * [Impact](https://www.imperfectfoods.com/impact)
 * [Blog](https://blog.imperfectfoods.com/)
-* [Jobs](https://www.imperfectfoods.com/jobs)
-* [Contact Us](https://www.imperfectfoods.com/contact)
+* [Jobs](https://job-boards.greenhouse.io/misfitsmarket)
+* [Contact Us](https://help.imperfectfoods.com/contact/submit-a-request-BkBrSGWOs)
 
 [![Instagram](https://img-cdn.misfitsmarket.com/images/MM_icon-instagram.svg)](https://www.instagram.com/imperfectfoods)[![Facebook](https://img-cdn.misfitsmarket.com/images/MM_icon-facebook.svg)](https://www.facebook.com/imperfectfoods)[![TikTok](https://img-cdn.misfitsmarket.com/images/MM_icon-tiktok.svg)](https://www.tiktok.com/@imperfectfoods)[![Twitter](https://img-cdn.misfitsmarket.com/images/MM_icon-twitter.svg)](https://www.twitter.com/imperfect_foods)[![Pinterest](https://img-cdn.misfitsmarket.com/images/MM_icon-pinterest.svg)](https://pinterest.com/imperfectfoods)
 
