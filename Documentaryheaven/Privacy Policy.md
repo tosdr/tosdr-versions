@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Triumph of the Nerds: Great Artist Steal](/wp-content/thumbnails/6943-100x70.jpg?x53432)
+* [![This Strange Eventful History: The Art of Burning Man](/wp-content/thumbnails/1616-100x70.jpg?x53432)
     
-    Triumph of the Nerds: Great Artist Steal
+    This Strange Eventful History: The Art of Burning Man
     
-    The documentary chronicles the rise of the personal computer/home computer beginning in the 1970s with the Altair 8800, Apple I and Apple II and VisiCalc. It continues through the IBM PC and Appl](https://documentaryheaven.com/triumph-of-the-nerds-great-artist-steal/ "Triumph of the Nerds: Great Artist Steal")
-* [![The Roswell Incident](/wp-content/thumbnails/978-100x70.jpg?x53432)
+    This half-hour documentary film, patterned after such films as "Baraka", shows the stunning art and visual environment of the Burning Man Festival, held yearly in the desert of northern Nevada.The](https://documentaryheaven.com/this-strange-eventful-history-the-art-of-burning-man/ "This Strange Eventful History: The Art of Burning Man")
+* [![The Beautiful Truth](/wp-content/thumbnails/6238-100x70.jpg?x53432)
     
-    The Roswell Incident
+    The Beautiful Truth
     
-    Documentary from Channel 4 shown in 1994 about the infamous ‘UFO Crash’ at Roswell in 1947. In the summer of 1947, there were a number of UFO sightings in the United States. Sometime during the first](https://documentaryheaven.com/the-roswell-incident/ "The Roswell Incident")
-* [![Money, Banking, and The Federal Reserve System](/wp-content/thumbnails/2172-100x70.jpg?x53432)
+    Garrett is a 15-year old boy living in the Alaskan wilderness with a menagerie of orphaned animals. Growing up close with nature has given him a deep understanding of nutritional needs required by die](https://documentaryheaven.com/the-beautiful-truth/ "The Beautiful Truth")
+* [![Reggie Yates: Teen Gangs](/wp-content/thumbnails/12800-100x70.jpg?x53432)
     
-    Money, Banking, and The Federal Reserve System
+    Reggie Yates: Teen Gangs
     
-    Thomas Jefferson and Andrew Jackson understood “The Monster”. But to most Americans today, Federal Reserve is just a name on the dollar bill. They have no idea of what the central bank does to the eco](https://documentaryheaven.com/money-banking-and-the-federal-reserve-system/ "Money, Banking, and The Federal Reserve System")
-* [![Kraftwerk: Pop Art](/wp-content/thumbnails/9568-100x70.jpg?x53432)
+    In this film we see British television personality, Reggie Yates, embark on a journey into the murky world teen gang violence. As a child, Yates himself grew up on a council estate with his family rec](https://documentaryheaven.com/reggie-yates-teen-gangs/ "Reggie Yates: Teen Gangs")
+* [![Marmelete and the Medronho](/wp-content/thumbnails/10207-100x70.jpg?x53432)
     
-    Kraftwerk: Pop Art
+    Marmelete and the Medronho
     
-    In the late 60's and early 70's when Kraftwerk were striving to find a new artistic voice in the pop culture vacuum of post war Germany, few would have predicted that these reclusive Rhineland ex](https://documentaryheaven.com/kraftwerk-pop-art/ "Kraftwerk: Pop Art")
-* [![Britain’s Child Beggars](/wp-content/thumbnails/7049-100x70.jpg?x53432)
+    The cool Autumn marks a change in the Earths cycles, giving way to a new season and the Aguardente de Medronhos which is a traditional Portuguese brandy made from the fruit of the Medronho tree. These](https://documentaryheaven.com/marmelete-medronho/ "Marmelete and the Medronho")
+* [![Insanely Dangerous](/wp-content/thumbnails/4946-100x70.jpg?x53432)
     
-    Britain’s Child Beggars
+    Insanely Dangerous
     
-    Meet Alice. She is a four-year-old child out on London’s Oxford street begging hours on end, day in, day out. Alice is just one of Britain’s Gypsy child beggars, and she can earn hundreds of pounds a](https://documentaryheaven.com/britains-child-beggars/ "Britain’s Child Beggars")
+    In January 2004, Niels hijacked a train while police and a TV crew was on the spot. Though they quickly found out that this was not just a story about a hijacking. It was, instead, the story of a psyc](https://documentaryheaven.com/insanely-dangerous/ "Insanely Dangerous")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
