@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Seeweb](https://www.backup4all.com/how-to-backup-your-data-to-seeweb-kb.html)  
+* [How to backup your data to IDC Frontier](https://www.backup4all.com/how-to-backup-your-data-to-idc-frontier-kb.html)  
     
-* [How to back up data files from LeoNovus using ...](https://www.backup4all.com/how-to-back-up-data-files-from-leonovus-using-backup4all-kb.html)  
+* [How to backup your data to Revera](https://www.backup4all.com/how-to-backup-your-data-to-revera-kb.html)  
     
-* [Backup to Iomega REV drives](https://www.backup4all.com/backup-to-iomega-rev-drives-kb.html)  
+* [How to back up data files from Google Drive u ...](https://www.backup4all.com/how-to-back-up-data-files-from-google-drive-using-backup4all-kb.html)  
     
-* [Google hasn't verified this app error](https://www.backup4all.com/google-hasn-t-verified-this-app-error-kb.html)  
+* [How to back up and restore the Backup4all con ...](https://www.backup4all.com/how-to-back-up-and-restore-the-backup4all-configurations-kb.html)  
     
-* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
+* [How to restore your data files from MinIO usi ...](https://www.backup4all.com/how-to-restore-your-data-files-from-minio-using-backup4all-kb.html)  
     
 
 Choose language:
