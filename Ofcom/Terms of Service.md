@@ -205,31 +205,17 @@ See also...
 
 [### Broadcast and On Demand Bulletin
 
-Published: 4 March 2024
-
-Last updated: 7 October 2024
-
 The Broadcast and On Demand Bulletin reports on investigations into potential breaches of Ofcom’s codes and rules for TV, radio and video-on-demand programmes.](https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/broadcast-bulletins/)
 
 [### Organisations we work with
-
-Published: 18 January 2024
 
 Organisations we work with, including the Consumer Forum for Communications and other relevant bodies.](https://www.ofcom.org.uk/about-ofcom/what-we-do/organisations-we-work-with/)
 
 [### Register of disclosable interests
 
-Published: 1 March 2024
-
-Last updated: 4 October 2024
-
 Members are required to disclose interests (including shareholdings, directorships and employments) they, their partners or minor children have in companies whose core business activities (and hence share price) could be affected by Ofcom's decisions.](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/register-disclosable-interests/)
 
 [### Ofcom Board
-
-Published: 6 March 2024
-
-Last updated: 30 September 2024
 
 Ofcom's Board provides strategic direction for the organisation.](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/ofcom-board/)
 
