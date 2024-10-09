@@ -84,6 +84,9 @@
     
     * ![](https://readtheory.org/wp-content/uploads/2024/10/pen.svg)
         
+        [Efficacy Studies](https://readtheory.org/efficacy-studies/)
+    * ![](https://readtheory.org/wp-content/uploads/2024/10/pen.svg)
+        
         [Case Studies](https://readtheory.org/case-study/?_utm_campaign=menu&ref=menu)
     
     * ![](https://readtheory.org/wp-content/uploads/2024/10/glass.svg)
