@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![31 Facts About The Voting Rights Act Of 1965 ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22105%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/31-facts-about-the-voting-rights-act-of-1965/)
+[![36 Facts About Bruces Beach ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/36-facts-about-bruces-beach/)
 
-Society & Social Sciences
+History
 
-08 Oct 2024
+09 Oct 2024
 
-[31 Facts About The Voting Rights Act Of 1965](https://facts.net/society-and-social-sciences/31-facts-about-the-voting-rights-act-of-1965/)
+[36 Facts About Bruces Beach](https://facts.net/history/36-facts-about-bruces-beach/)
 
-[![33 Facts About Retirement Syndrome  Factsnet ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/health/33-facts-about-retirement-syndrome-facts-net/)
+[![26 Facts About Sleep Patterns ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/health/26-facts-about-sleep-patterns/)
 
 Health
 
-08 Oct 2024
+09 Oct 2024
 
-[33 Facts About Retirement Syndrome Factsnet](https://facts.net/lifestyle/health/33-facts-about-retirement-syndrome-facts-net/)
+[26 Facts About Sleep Patterns](https://facts.net/lifestyle/health/26-facts-about-sleep-patterns/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
