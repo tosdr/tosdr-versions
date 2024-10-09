@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [New electrical stitches use muscle movement to speed up healing](https://www.sciencenews.org/article/electrical-stitches-muscle-healing)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")18 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 8, 2024
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [Ancient Scythians had cultural roots in Siberia](https://www.sciencenews.org/article/scythians-cultural-roots-siberia)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")19 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")October 8, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Chemistry](https://www.sciencenews.org/topic/chemistry)
+            
+            ### [Work on protein structure and design wins the 2024 chemistry Nobel](https://www.sciencenews.org/article/nobel-prize-chemistry-2024-proteins)
+            
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")5 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [To tell a right-trunked elephant from a lefty, check the wrinkles](https://www.sciencenews.org/article/elephant-trunk-wrinkles)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")10 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")16 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Semaglutide saps mice’s motivation to run](https://www.sciencenews.org/article/semaglutide-saps-mices-motivation-run)
             
             By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")October 7, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [These sea creatures can fuse their bodies](https://www.sciencenews.org/article/sea-walnut-comb-jelly-fuse-bodies)
-            
-            By [Jude Coleman](https://www.sciencenews.org/author/jude-coleman "Posts by Jude Coleman")October 7, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Climate change fueled the fury of hurricanes Helene and Milton](https://www.sciencenews.org/article/climate-change-hurricanes-helene-milton)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")5 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")11 hours ago
             
         * [Oceans](https://www.sciencenews.org/topic/oceans)
             
@@ -165,13 +165,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [New electrical stitches use muscle movement to speed up healing](https://www.sciencenews.org/article/electrical-stitches-muscle-healing)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")18 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 8, 2024
             
         * [Artificial Intelligence](https://www.sciencenews.org/topic/artificial-intelligence)
             
             ### [The discovery of tools key to machine learning wins the 2024 physics Nobel](https://www.sciencenews.org/article/nobel-physics-2024-machine-learning)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")23 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 8, 2024
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -184,23 +184,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
+    * * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+            
+            ### [Runaway stars could influence the cosmos far past their home galaxies](https://www.sciencenews.org/article/runaway-stars-cosmos-galaxies)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")16 mins ago
+            
+        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
             ### [Europa Clipper is launching to solve an alien mystery](https://www.sciencenews.org/article/europa-clipper-find-aliens-jupiter-moon)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")16 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")22 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
             ### [50 years ago, satellites threatened astronomers’ view of the cosmos](https://www.sciencenews.org/article/satellites-cosmos-view-50-years-ago)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")October 5, 2024
-            
-        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
-            
-            ### [Barnard’s star has at least one planet orbiting it after all](https://www.sciencenews.org/article/barnards-star-exoplanet-in-orbit)
-            
-            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")October 4, 2024
             
 
 Privacy Policy
