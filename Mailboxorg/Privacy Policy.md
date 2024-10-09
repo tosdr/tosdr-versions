@@ -161,9 +161,9 @@ Your registration with voluntary disclosure of personal data lets us offer your 
 
 If requested, we will inform you at any time about what personal data concerning you is stored by us. Furthermore, we will rectify or erase personal data if requested or instructed by the Data Subject if there are no legal duties to store such data. In this context, our customer support staff are available as contacts.
 
-7\. Contact options via the websites
+7\. Contact options via the websites, newsletters an Community Hours
 
-Due to legal regulations, the websites of Heinlein Hosting GmbH contain information that enables rapid electronic contact with our company and direct communication with us, which also includes a general address for so-called electronic mail (email address). If you contact us by email or via a contact form, the personal data transmitted by you will be stored automatically. Such personal data transmitted by you to us on a voluntary basis will be stored for the purposes of processing or contacting you. This personal data will not be shared with third parties.
+Due to legal regulations, the websites of Heinlein Hosting GmbH contain information that enables rapid electronic contact with our company and direct communication with us, which also includes a general address for so-called electronic mail (email address). If you contact us by email or via a contact form, the personal data transmitted by you will be stored automatically. Such personal data transmitted by you to us on a voluntary basis will be stored for the purposes of processing or contacting you. This personal data will not be shared with third parties. The same applies to registration for our newsletter and Community Hours.
 
 8\. Comment function in the blog on the website
 
@@ -395,7 +395,7 @@ A company data protection officer has been appointed for our company. You can re
 
 [privacy@heinlein-support.de](mailto:privacy@heinlein-support.de)
 
-**As of: 25th June 2024**
+**As of: 8th October 2024**
 
 * zurück
 * nach Oben
