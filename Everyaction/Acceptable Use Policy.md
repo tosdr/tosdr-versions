@@ -490,6 +490,16 @@ Powering CorporationsEducational institutionsEnergyFinancial institutionsFoundat
 
 who power Animal welfareArts & cultureDisaster reliefDiversity, equity, inclusion & belonging (DEIB)EducationEnvironmental changeFaith-basedHealthcareHuman servicesSocial justiceVolunteerismWorkplace developmentsocial impact
 
+![3 Action for Children representatives at an Action for Children event](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/action-for-children-header-photo_0.png.webp?itok=SjLsSKDT)
+
+**Empowering caregivers, improving children’s lives**
+
+By supporting care providers, Action for Children is improving early childhood outcomes throughout central Ohio.
+
+[Read their story onEmpowering caregivers, improving children’s lives](https://www.everyaction.com/case-studies/empowering-caregivers-improving-childrens-lives)
+
+Impact Powered by:
+
 ![Workers at Habitat for Humanity worksite](/sites/default/files/styles/carousel_square_450x450_/public/2024-10/habitat-for-humanity-of-omaha_background-photo.png.webp?itok=rxhpsdOA)
 
 **Habitat for Humanity of Omaha**
@@ -505,16 +515,6 @@ Impact Powered by:
 * Nonprofits
 * Digital communications & marketing
 * Fundraising ideas
-
-![3 Action for Children representatives at an Action for Children event](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/action-for-children-header-photo_0.png.webp?itok=SjLsSKDT)
-
-**Empowering caregivers, improving children’s lives**
-
-By supporting care providers, Action for Children is improving early childhood outcomes throughout central Ohio.
-
-[Read their story onEmpowering caregivers, improving children’s lives](https://www.everyaction.com/case-studies/empowering-caregivers-improving-childrens-lives)
-
-Impact Powered by:
 
 ![Foundry Ministries beneficiary telling his story.](/sites/default/files/styles/carousel_square_450x450_/public/2024-09/foundry-ministries-header-photo.png.webp?itok=kkLPXPw0)
 
