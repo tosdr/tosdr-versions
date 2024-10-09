@@ -53,6 +53,8 @@ Navigation
 
 [](https://shop.mattel.com/)
 
+* Promo Image Link
+    
 * Shop
     
     [Shop All](https://shop.mattel.com/collections/shop-all)
@@ -159,6 +161,7 @@ Navigation
     * [![Hot Wheels](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt5f5617f71081b3e5/64cd793b1072f02a273f1a15/Nav_Logos_Hot-Wheels@2x.jpg)](https://shop.mattel.com/pages/hot-wheels)
     * [![Fisher-Price](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/bltb2e19d9bfe2f3032/64cd793be6fc9a67fb2cf7a2/Nav_Logos_Fisher-Price@2x.jpg)](https://shop.mattel.com/pages/fisher-price)
     * [![American Girl](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/bltfcb87bf4804befb8/64cd793b2b05966531c7e7c8/Nav_Logos_American-Girl@2x.jpg)](https://www.americangirl.com/)
+    * [![](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/bltae71c58aae8730b4/66fd6aeeea1164253f66c323/Brand_Bar_Logo_Barney.png)](https://shop.mattel.com/pages/about-barney)
     * [![Disney Princess](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt045d4e2d370bf1f5/64cd793b238aa5cda2357f88/Nav_Logos_Disney-Princess@2x.jpg)](https://shop.mattel.com/collections/disney-princess)
     * [![Disney Frozen](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt2e168719e4112e92/64cd793b238aa5698f357f84/Nav_Logos_Disney-Frozen@2x.jpg)](https://shop.mattel.com/collections/disney-frozen)
     * [![Jurassic World Dominion](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt97493d15ef5c94e0/64cd793bdffc270d737975d5/Nav_Logos_Jurassic-World@2x.jpg)](https://shop.mattel.com/collections/jurassic-world)
@@ -168,7 +171,6 @@ Navigation
     * [![WWE](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt2911390b5e1d17a9/64cd793288b3c94a0be77147/Nav_Logos_WWE@2x.jpg)](https://shop.mattel.com/collections/wwe)
     * [![Disney and Pixar Cars](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt581b77ee2795f517/64cd7932cfbe642a189dda12/Nav_Logos_Disney-Car@2x.jpg)](https://shop.mattel.com/collections/disney-pixar-cars)
     * [![Monster High](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt782b9e656b459452/64cd7932bfb671cebc6bf929/Nav_Logos_Monster-High@2x.jpg)](https://shop.mattel.com/collections/monster-high)
-    * [![Power Wheels](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt89a76ba9fff08537/64cd7932b376edf988efc8d5/Nav_Logos_Power-Wheels@2x.jpg)](https://shop.mattel.com/collections/power-wheels)
     * [![Polly Pocket](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blteda22cec0e448c1f/64cd79324e7eeb6d2cf1794a/Nav_Logos_Polly-Pocket@2x.jpg)](https://shop.mattel.com/collections/polly-pocket)
     * [![Thomas & Friends](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/bltabd1143a7b6d9609/64cd793244ba3fd85e1e0197/Nav_Logos_Thomas-and-Friends@2x.jpg)](https://shop.mattel.com/collections/thomas-friends)
     * [![Mattel Creations](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/bltb0b3a93a6944dd38/64cd7932e6fc9a3a532cf79e/Nav_Logos_Mattel-Creations@2x.jpg)](https://creations.mattel.com/)
