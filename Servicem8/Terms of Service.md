@@ -337,7 +337,7 @@ ServiceM8 is designed to be used in conjunction with Google Maps and other serv
 
 #### Technical Problems
 
-In the case of technical problems You must make all reasonable efforts to investigate and diagnose problems before contacting ServiceM8. If You still need technical help, please check the support provided online by ServiceM8 on the Website or failing that email us at support@servicem8.com.  
+In the case of technical problems You must make all reasonable efforts to investigate and diagnose problems before contacting ServiceM8. If You still need technical help, please check the support provided online by ServiceM8 on the Website or failing that email us at [\[email protected\]](https://www.servicem8.com/cdn-cgi/l/email-protection).  
   
 
 #### Service availability
@@ -381,7 +381,7 @@ If any part or provision of these Terms is invalid, unenforceable or in conflict
 
 #### Notices
 
-Any notice given under these Terms by either party to the other must be in writing by email and will be deemed to have been given on transmission. Notices to ServiceM8 must be sent to support@ServiceM8.com or to any other email address notified by email to You by ServiceM8. Notices to You will be sent to the email address which You provided when setting up Your access to the Service and/or the email address listed as the Account Owner.  
+Any notice given under these Terms by either party to the other must be in writing by email and will be deemed to have been given on transmission. Notices to ServiceM8 must be sent to [\[email protected\]](https://www.servicem8.com/cdn-cgi/l/email-protection) or to any other email address notified by email to You by ServiceM8. Notices to You will be sent to the email address which You provided when setting up Your access to the Service and/or the email address listed as the Account Owner.  
   
 
 #### Rights of Third Parties  
