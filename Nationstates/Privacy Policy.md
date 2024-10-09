@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Ukrainian War VII: Everything has a p… (6,405)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (6,405 posts)")
-* [Can BN beat YN's suggested nation? (2)](https://forum.nationstates.net/viewtopic.php?t=556667&f=25&view=unread#unread ""Can BN beat YN's suggested nation?" (2 posts)")
-* [What is unique abt AN? (1,169)](https://forum.nationstates.net/viewtopic.php?t=551158&f=25&view=unread#unread ""What is unique abt AN?" (1,169 posts)")
-* [What is your relationship with AU? II (2,114)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (2,114 posts)")
+* [Flirting vs Harassment in courtship (500)](https://forum.nationstates.net/viewtopic.php?t=556589&f=20&view=unread#unread ""Flirting vs Harassment in courtship" (500 posts)")
+* [Is AN a Golden Retriever or Black Cat? (26)](https://forum.nationstates.net/viewtopic.php?t=556593&f=25&view=unread#unread ""Is AN a Golden Retriever or Black Cat?" (26 posts)")
+* [Independents Cup 22 Sign-Up Thread (59)](https://forum.nationstates.net/viewtopic.php?t=556151&f=7&view=unread#unread ""Independents Cup 22 Sign-Up Thread" (59 posts)")
+* [Which irl nation is more similar to t… (170)](https://forum.nationstates.net/viewtopic.php?t=554965&f=25&view=unread#unread ""Which irl nation is more similar to the AN?" (170 posts)")
+* [Hot or Cold: BN/BU Edition (1,314)](https://forum.nationstates.net/viewtopic.php?t=553202&f=25&view=unread#unread ""Hot or Cold: BN/BU Edition" (1,314 posts)")
 
 Advertisement
 
