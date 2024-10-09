@@ -1,4 +1,4 @@
-![](https://ib.adnxs.com/pixie?pi=0ca4c9bf-63ec-4258-9f67-64c5a187710f&e=PageView&script=0)                                      
+![](https://ib.adnxs.com/pixie?pi=0ca4c9bf-63ec-4258-9f67-64c5a187710f&e=PageView&script=0)                                     
 
 [Skip to content](#main-content)
 
