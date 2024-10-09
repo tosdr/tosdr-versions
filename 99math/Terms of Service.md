@@ -1,6 +1,6 @@
 ### [Go to 99math](https://99math.com/)
 
-[![](//v.fastcdn.co/t/35959ce9/220e2da6/1686722426-49473945-125x80-99mathlogo-white.png)](http://www.99math.com/)
+[![](//v.fastcdn.co/u/35959ce9/49473945-0-99mathlogo-white.png)](http://www.99math.com/)
 
 **Terms of Use**
 ================
@@ -43,13 +43,20 @@ If you wish to terminate your account yourself, you may do so by requesting it i
 **Paid Subscription**
 =====================
 
-### Using 99math is free for all users, however users have the option of subscribing to a membership (“Premium account”). Premium account is paid for by a monthly fee. We will bill you automatically from the date you convert your account to a Premium account. You will be billed on each date of renewal until you cancel the Premium account.  
-  
-You may cancel your Premium account subscription at any time and without giving us a reason. No refunds are issued, unless expressly stated by law (for example, in the case where a EU citizen uses their right of withdrawal within 14 days of subscribing). No refunds are issued if your account is terminated by 99math because you have breached these Terms or when you have requested the termination of your account yourself.  
-  
-The premium account gives the user access to special content and analytics. When you cancel your Premium account, you will lose access to all special content and the advanced analytics.  
-  
-99math reserves the right to change the subscription fees. We will give you an advance notice of 30 days via email before we raise any fees.  
+### Using 99math is free for all users, however users have the option of subscribing to a membership (“Premium account”). Premium account is paid for by a weekly, monthly, or a one-time fee for lifetime use. We will bill you automatically from the date you convert your account to a Premium account. You will be billed on each date of renewal until you cancel the Premium account.  
+
+**Refunds & Subscription Cancellation**
+=======================================
+
+### You may cancel your Premium account subscription at any time and without giving us a reason. The premium account gives the user access to special content. When you cancel your Premium account, you will lose access to all special content.  
+Users have the right to request for a refund during the first 15 days of a subscription. No refunds are offered after that.  
+No refunds are issued if your account is terminated by 99math because you have breached these Terms.  
+99math reserves the right to change the subscription fees for a monthly subscription. We will give you an advance notice of 30 days via email before we raise any fees.  
+
+**mBucks: In-App purchases**
+============================
+
+### In addition to a subscription, users have the option to make in-app purchases, which are subject to separate charges. mBucks purchases will not be refunded.  
 
 **Your Responsibilities**
 =========================
@@ -108,4 +115,4 @@ Entire Agreement. These Terms constitute the entire agreement between you and 99
 
 ### For any questions, requests or complaints, please contact us at:  
   
-99math OÜ Suve street 2-51 10149 Tallinn, Estonia Phone: +1 718 618 4260 hello@99math.com
+99math OÜ Suve street 2-51 10149 Tallinn, Estonia hello@99math.com
