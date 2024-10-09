@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/d29f3904-a139-474f-9d93-73ef097dae84/20241009T133134/d29f3904-a139-474f-9d93-73ef097dae84_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d29f3904-a139-474f-9d93-73ef097dae84/20241009T133134/d29f3904-a139-474f-9d93-73ef097dae84_360x203.jpg)](https://www.king5.com/article/news/local/turkish-airlines-flight-seattle-emergency-landing-pilot-dies/281-cdb4a766-736f-4caf-9f81-7e0b034852f1)
+        
+        #### [Flight from Seattle-Istanbul emergency lands after pilot dies](https://www.king5.com/article/news/local/turkish-airlines-flight-seattle-emergency-landing-pilot-dies/281-cdb4a766-736f-4caf-9f81-7e0b034852f1)
+        
     *  [![](https://media.king5.com/assets/KING/images/7edf50f6-fb84-4432-a1c4-a3a396aeaa6f/20241009T060041/7edf50f6-fb84-4432-a1c4-a3a396aeaa6f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7edf50f6-fb84-4432-a1c4-a3a396aeaa6f/20241009T060041/7edf50f6-fb84-4432-a1c4-a3a396aeaa6f_360x203.jpg)](https://www.king5.com/article/news/local/rescue-efforts-underway-100-cats-abandoned-federal-way-apartment/281-5f950c5e-ef43-43b8-897d-8fe97d7e514a)
         
         #### [Rescue efforts underway for more than 100 cats abandoned in 'biohazardous apartment' in Federal Way](https://www.king5.com/article/news/local/rescue-efforts-underway-100-cats-abandoned-federal-way-apartment/281-5f950c5e-ef43-43b8-897d-8fe97d7e514a)
-        
-    *  [![](https://media.king5.com/assets/KING/images/3ee38e2c-2b97-47e9-bd10-debdb212bec4/20241009T061323/3ee38e2c-2b97-47e9-bd10-debdb212bec4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3ee38e2c-2b97-47e9-bd10-debdb212bec4/20241009T061323/3ee38e2c-2b97-47e9-bd10-debdb212bec4_360x203.jpg)](https://www.king5.com/article/money/citys-minimum-wage-center-of-heated-debate-olympia/281-c1a05d9b-00ed-4ce2-a90b-04ceeafa83dd)
-        
-        #### [City's minimum wage at center of heated debate in Olympia](https://www.king5.com/article/money/citys-minimum-wage-center-of-heated-debate-olympia/281-c1a05d9b-00ed-4ce2-a90b-04ceeafa83dd)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/790698af-6491-495c-acfa-34a365a40f2a/20241009T052545/790698af-6491-495c-acfa-34a365a40f2a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/790698af-6491-495c-acfa-34a365a40f2a/20241009T052545/790698af-6491-495c-acfa-34a365a40f2a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/bca59a78-24a8-4e71-9ea2-24c5d460f1df/20241009T114808/bca59a78-24a8-4e71-9ea2-24c5d460f1df_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bca59a78-24a8-4e71-9ea2-24c5d460f1df/20241009T114808/bca59a78-24a8-4e71-9ea2-24c5d460f1df_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d/20241008T140414/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d/20241008T140414/cb03b542-bcf3-47e1-975a-93bfb3b6ef4d_360x203.jpg)](https://www.king5.com/article/news/local/photos-northern-lights-washington/281-a05fb7f8-499f-4546-9875-b7607285c7dd)
+    *  [![](https://media.king5.com/assets/CCT/images/a9563268-4c0d-46e5-b1bb-c1ecee7d9bbf/20241009T111101/a9563268-4c0d-46e5-b1bb-c1ecee7d9bbf_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/a9563268-4c0d-46e5-b1bb-c1ecee7d9bbf/20241009T111101/a9563268-4c0d-46e5-b1bb-c1ecee7d9bbf_360x203.jpg)](https://www.king5.com/article/news/nation-world/hurricane-milton-florida/507-5693e7fd-50a9-4593-9ca3-d9a3e1be7848)
         
-        #### [Northern lights shine over Washington Monday night](https://www.king5.com/article/news/local/photos-northern-lights-washington/281-a05fb7f8-499f-4546-9875-b7607285c7dd)
+        #### [Time to evacuate is running out as Hurricane Milton closes in on Florida](https://www.king5.com/article/news/nation-world/hurricane-milton-florida/507-5693e7fd-50a9-4593-9ca3-d9a3e1be7848)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-60°
+54°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
