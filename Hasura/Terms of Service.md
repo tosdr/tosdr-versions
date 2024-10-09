@@ -152,7 +152,7 @@ Learn
 
 Company
 
-[Our Story](https://hasura.io/about/)[Careers](https://hasura.io/careers/)[Partners](https://hasura.io/partners)[Legal](https://hasura.io/legal)[Privacy Policy](https://hasura.io/legal/hasura-privacy-policy)
+[Our Story](https://hasura.io/about/)[Careers](https://hasura.io/careers/)[Partners](https://hasura.io/partners)[Legal](https://hasura.io/legal)[Cookie Policy](https://hasura.io/legal/hasura-cookie-policy)[Privacy Policy](https://hasura.io/legal/hasura-privacy-policy)
 
 Connect
 
