@@ -388,7 +388,7 @@ Get Latest Blog Alerts
 
 Submit
 
-[Submit Wedding](https://www.wedmegood.com/submit-real-wedding)Register as a Vendor
+Register as a Vendor
 
 Follow us on: [facebook](https://www.facebook.com/wedmegood) [twitter](https://twitter.com/wedmegood) [pinterest](https://www.pinterest.com/wedmegood/) [instagram](https://www.instagram.com/wedmegood/) [youtube](https://www.youtube.com/channel/UCe96CeIKcoexrE3dtAuBKxA)
 
