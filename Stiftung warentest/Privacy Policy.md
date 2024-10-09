@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
-* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
 
 Service Stiftung Warentest
 
