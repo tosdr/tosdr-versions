@@ -53,7 +53,7 @@ Cancel
 [Care.com Privacy Policy](https://www.care.com/about/privacy-policy/)
 =====================================================================
 
-**Last Updated: September 18, 2024**
+**Last Updated: October 8, 2024**
 
 **California users**: [Click here](#h-12-nbsp-privacy-information-for-california-residents) to see our Privacy Information for California Residents
 
@@ -225,7 +225,7 @@ In general, the information we collect is used for our business purposes: (1) to
 1. register and service your account;
 2. include in Care Seeker profiles, job postings and Care Provider profiles;
 3. contact you in response to questions and solicit feedback and input from you;
-4. notify you about new features of the Services, special events, or products, services, and special offers, or other information that we believe will be of interest to you via email, SMS messages, or other media or networks;
+4. notify you about new features of the Services, special events, or products, services, and special offers, or other information that we believe will be of interest to you via direct mail to your address on file, email, SMS messages, or other media or networks;
 5. administer sweepstakes and contests;
 6. enable Care Seekers with each other and with Care Providers to search based on the information the other has made available on the Site, and information others have provided about them;
 7. connect Care Seekers with Care Providers that appear to meet their needs and preferences;
