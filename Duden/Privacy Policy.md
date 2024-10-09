@@ -90,7 +90,7 @@
 
 [◁ Digitale Angebote](#listview-root)
 
-[Duden-Mentor-Textprüfung ▻](#listview-duden-mentor-textprfung--3)
+[Duden-Mentor-Textprüfung](https://mentor.duden.de/?utm_source=duden_de&utm_medium=premium_int&utm_campaign=topnavi_service&utm_content=duden-mentor-textpruefung)
 
 [Werbe- und Trackingfreiheit](https://lp.duden.de/pur/?utm_source=duden_de&utm_medium=pur_int&utm_campaign=werbefreiheit_hauptnavi)
 
@@ -99,26 +99,6 @@
 [Digitale Abonnements](https://www.duden.de/service/abos)
 
 [Newsletter](https://www.duden.de/newsletter)
-
-[◁ Duden-Mentor-Textprüfung](#listview-digitale-angebote)
-
-[Die eigene Rechtschreibung verbessern](https://www.duden.de/rechtschreibpruefung/rechtschreibung-verbessern)
-
-[Grammatikprüfung online](https://mentor.duden.de/grammatikpruefung-online)
-
-[Häufig durchgeführte Suchen](https://www.duden.de/woerterbuch/haeufig-durchgefuehrte-suchen)
-
-[Häufig gesuchte Stichwörter](https://www.duden.de/woerterbuch/haeufig-gesuchte-stichwoerter)
-
-[Korrektorat](https://www.duden.de/rechtschreibpruefung/korrektorat-lektorat)
-
-[Rechtschreibfehler korrigieren](https://www.duden.de/rechtschreibpruefung/rechtschreibfehler-korrigieren)
-
-[Rechtschreibprogramm](https://www.duden.de/rechtschreibpruefung/rechtschreibprogramm)
-
-[Rechtschreibprüfung online](https://www.duden.de/rechtschreibpruefung-online)
-
-[Schreibstil verbessern](https://www.duden.de/rechtschreibpruefung/schreibstil-verbessern)
 
 [◁ Produkte](#listview-root)
 
@@ -174,17 +154,9 @@
 
 [Schwierige Wörter](https://www.duden.de/Liste-der-rechtschreiblich-schwierigen-Woerter)
 
-[Sprache und Stil ▻](#listview-sprache-und-stil)
+[Sprache und Stil](https://www.duden.de/sprachwissen/sprachratgeber)
 
 [Wörter des Jahres](https://www.duden.de/sprachwissen/sprachratgeber/Wort-und-Unwort-des-Jahres)
-
-[◁ Sprache und Stil](#listview-sprachwissen)
-
-[Häufige Fehler und Falsch­schreib­weisen](https://www.duden.de/haeufige_fehler)
-
-[Lehn- und Fremdwörter aus dem Ungarischen](https://www.duden.de/sprachwissen/sprachratgeber/Lehn-und-Fremdw%C3%B6rter-aus-dem-Ungarischen)
-
-[„Sprachwissen“ im Überblick](https://www.duden.de/sprachwissen/inhaltsuebersicht)
 
 [◁ Über uns](#listview-root)
 
@@ -220,9 +192,9 @@
 
 [◁ Verlagsgeschichte](#listview-ber-uns)
 
-[Meyers Atlanten](https://www.duden.de/meyers)
-
 [Konrad Duden](https://www.duden.de/ueber_duden/konrad-duden)
+
+[Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024)
 
 Datenschutz­erklärung
 =====================
