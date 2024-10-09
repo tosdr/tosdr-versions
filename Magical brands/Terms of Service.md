@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=293669006432525&ev=PageView&noscript=1)         Terms of service – Magical Brands                                                                                                      [Skip to content](#MainContent)
+![](https://www.facebook.com/tr?id=293669006432525&ev=PageView&noscript=1)         Terms of service – Magical Brands                                                                                                     [Skip to content](#MainContent)
 
 Your cart is empty
 ------------------
