@@ -172,8 +172,8 @@ On-demand webinar coming soon...
 ### Resources
 
 * [The new data landscape: Navigating the shift to AI-ready data](https://www.onetrust.com/resources/the-new-data-landscape-navigating-the-shift-to-ai-ready-data-webinar/)
+* [Live Demo: Building a more resilient Third-Party Management program](https://www.onetrust.com/resources/live-demo-building-a-more-resilient-third-party-management-program/)
 * [Build resiliency and operationalize compliance with OneTrust: Fall product release recap, 2024](https://www.onetrust.com/resources/build-resiliency-and-operationalize-compliance-with-onetrust-fall-product-release-recap-2024-webinar/)
-* [OneTrust Solution & Product Demos](https://www.onetrust.com/resources/onetrust-demos/)
 
 ### Platform
 
