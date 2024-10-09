@@ -451,7 +451,7 @@ Free standard shipping on any $35 purchase
             
         * [Fragrance Finder](https://www.ulta.com/discover/fragrance-finder)
             
-        * [Fragrance Crush](https://www.ulta.com/featured/valentino_fragrance_crush_5x)
+        * [Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
             
         
         [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/nightcap-parfum-pimprod2045006?sku=2618385)
@@ -1033,7 +1033,7 @@ Free standard shipping on any $35 purchase
             
         * [### Fragrance Finder](https://www.ulta.com/discover/fragrance-finder)
             
-        * [### Fragrance Crush](https://www.ulta.com/featured/valentino_fragrance_crush_5x)
+        * [### Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
             
         * [### Hair Goals](https://www.ulta.com/discover/hair/aging-hair-care)
             
