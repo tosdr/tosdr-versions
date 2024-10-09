@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-48-hour Flash Sale: Save up to 40%, plus first-time-ever-deals. [Shop](https://www.bose.com/c/fall-sale).
+48-hour Flash Sale ends tonight: Save up to 40%. [Shop](https://www.bose.com/c/fall-sale).
 
 Sound for the season: Check out our newest fall arrivals. [Shop](https://www.bose.com/c/new-arrivals)
 
