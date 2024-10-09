@@ -1,4 +1,4 @@
-[![veepn home](/assets/aadd47e5/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/d93bd842/images/logo-main.svg)](https://veepn.com/)
 
 * VPN Apps
     
@@ -35,6 +35,7 @@
     
     * [Antivirus](https://veepn.com/antivirus/)
     * [Breach Alert](https://veepn.com/alert/)
+    * [Alternative ID](https://veepn.com/alternative-id/)
     
 * Features
     
@@ -66,6 +67,7 @@
     * [Conceal Identity](https://veepn.com/conceal-identity/)
     * [Prevent Tracking](https://veepn.com/prevent-tracking/)
     * [Save Money](https://veepn.com/save-money/)
+    * [Anonymous Email](https://veepn.com/anonymous-email-address/)
     
     Browse Safely
     
@@ -82,7 +84,7 @@
 
 [Get VeePN Now](https://order.veepn.com/pricing/)
 
-![en language](/assets/aadd47e5/images/flags/en.svg) en
+![en language](/assets/d93bd842/images/flags/en.svg) en
 
 *  [Українська](https://veepn.com/uk/privacy-policy/)
 *  [Deutsch](https://veepn.com/de/privacy-policy/)
@@ -361,7 +363,7 @@ This notice outlines the manner in which we, acting as a "Controller" under Conn
 
 _Last updated May 13, 2024_
 
-[![veepn home](/assets/aadd47e5/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/d93bd842/images/logo-main.svg)](https://veepn.com/)
 
 Products
 
@@ -420,7 +422,7 @@ Earn Money
 
 * [Affiliates](https://veepn.com/affiliate/)
 
-[](https://www.facebook.com/VeepnVPN/)[](https://twitter.com/veepn/)[](https://www.tiktok.com/@veepnvpn/)[](https://www.reddit.com/r/VeePN_Security/)[](https://www.pinterest.com/VeePNvpn/)
+[](https://www.facebook.com/VeepnVPN/)[](https://x.com/veepn/)[](https://www.tiktok.com/@veepnvpn/)[](https://www.reddit.com/r/VeePN_Security/)[](https://www.pinterest.com/VeePNvpn/)
 
 © 2024 VeePN. All Rights Reserved. Samuel Lewis Ave & 55th Street, PH SL55 Building, 21st Floor, Panama, Republic of Panama
 
