@@ -2,7 +2,7 @@
 
 Ingresá lo que quieras encontrar
 
-[![Por 5.999 pesos ¡Suscribite al nivel 6!, Disney+ Incluído](https://http2.mlstatic.com/D_NQ_949969-MLA78885442021_092024-OO.jpg)](https://www.mercadolibre.com.ar/suscripciones/nivel-6#origin=banner-menu&me.audience=all&me.bu=9&me.bu_line=36&me.component_id=banner_menu_web_ml&me.content_id=ECOSYSTEM_LOYALTY_N6_BNR_MENU_3999&me.flow=146&me.logic=campaigns&me.position=0)
+[![Ofertas por tiempo limitado](https://http2.mlstatic.com/storage/homes-korriban/assets/images/exhibitors/default_banner_menu.png)](https://www.mercadolibre.com.ar/ofertas)
 
 [Enviar a Capital Federal](https://www.mercadolibre.com.ar/navigation/addresses-hub?go=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fprivacidad%2Fdeclaracion-privacidad)
 
@@ -180,6 +180,12 @@ Más información
 * [Max, Mercado Puntos](https://www.mercadolibre.com.ar/suscripciones/max#origin=footer_ml)
 * [Paramount+, Mercado Puntos](https://www.mercadolibre.com.ar/suscripciones/paramount#origin=footer_ml)
 * [ViX Premium, Mercado Puntos](https://www.mercadolibre.com.ar/suscripciones/vix#origin=footer_ml)
+
+### Temporadas
+
+* [Hot Sale, Temporadas](https://www.mercadolibre.com.ar/hot-sale)
+* [Cyber Monday, Temporadas](https://www.mercadolibre.com.ar/cyber-monday)
+* [Black Friday, Temporadas](https://www.mercadolibre.com.ar/black-friday)
 
 Copyright © 1999-2024 MercadoLibre S.R.L.
 
