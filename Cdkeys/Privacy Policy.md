@@ -114,6 +114,7 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
+* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -557,63 +558,55 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Destiny 2: The Final Shape PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/4/14161265.jpg)   No 1. \-50%
+1.    [![Warhammer 40,000: Space Marine 2 - Ultra Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/h/wh40ksm_1_2.jpg)   No 1. \-28%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-ultra-edition-pc-steam)
+    
+    **[Warhammer 40,000: Space Marine 2 - Ultra Edition PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-ultra-edition-pc-steam "Warhammer 40,000: Space Marine 2 - Ultra Edition PC")**
+    
+    Special Price $85.99 RRP $119.69
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+2.    [![Hogwarts Legacy PC](https://cdn.cdkeys.com/245x340/media/catalog/product/c/u/cupheaddeliciouslast-1640043161876_3_.jpg)   No 2. \-78%](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam)
+    
+    **[Hogwarts Legacy PC](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam "Hogwarts Legacy PC")**
+    
+    Special Price $14.59 RRP $66.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+3.    [![The Sims 4 : For Rent Expansion PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-11-05t140150.888.jpg)   No 3. \-62%
+    
+    DLC](https://www.cdkeys.com/pc/the-sims-4-for-rent-expansion-pc-dlc-ea-app)
+    
+    **[The Sims 4 : For Rent Expansion PC/Mac](https://www.cdkeys.com/pc/the-sims-4-for-rent-expansion-pc-dlc-ea-app "The Sims 4 : For Rent Expansion PC/Mac")**
+    
+    Special Price $17.89 RRP $46.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/fate_of_iberia_card_16_.jpg)   No 4. \-78%](https://www.cdkeys.com/pc/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key)
+    
+    **[Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://www.cdkeys.com/pc/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key "Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher")**
+    
+    Special Price $26.59 RRP $119.69
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![Destiny 2: The Final Shape PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/4/14161265.jpg)   No 5. \-50%
     
     DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam)
     
     **[Destiny 2: The Final Shape PC - DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam "Destiny 2: The Final Shape PC - DLC")**
     
     Special Price $27.89 RRP $55.89
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Golf With Your Friends PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/h/wheou95nw2szqy6h5ikge2bg_1_.jpg)   No 2. \-75%](https://www.cdkeys.com/pc/golf-with-your-friends-pc-steam-cd-key)
-    
-    **[Golf With Your Friends PC](https://www.cdkeys.com/pc/golf-with-your-friends-pc-steam-cd-key "Golf With Your Friends PC")**
-    
-    Special Price $3.69 RRP $14.59
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-3.    [![Cities: Skylines II PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-12t113837.967.jpg)   No 3. \-57%](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam)
-    
-    **[Cities: Skylines II PC](https://www.cdkeys.com/pc/cities-skylines-ii-pc-steam "Cities: Skylines II PC")**
-    
-    Special Price $23.89 RRP $55.89
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Test Drive Unlimited Solar Crown PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/e/test_drive_unlimited_solar_crown.jpg)   No 4. \-50%](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam)
-    
-    **[Test Drive Unlimited Solar Crown PC](https://www.cdkeys.com/pc/test-drive-unlimited-solar-crown-pc-steam "Test Drive Unlimited Solar Crown PC")**
-    
-    Special Price $26.59 RRP $53.19
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-5.    [![DRAGON BALL: Sparking! ZERO Ultimate Edition PC (North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/z/e/zero_ultimate_edition_2.jpg)   No 5. \-21%](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-ultimate-edition-pc-steam-na)
-    
-    **[DRAGON BALL: Sparking! ZERO Ultimate Edition PC (North America)](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-ultimate-edition-pc-steam-na "DRAGON BALL: Sparking! ZERO Ultimate Edition PC (North America)")**
-    
-    Special Price $99.69 RRP $126.29
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![SILENT HILL 2 PC (North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/silent_hill_2_1.jpg)   No 6. \-33%](https://www.cdkeys.com/pc/silent-hill-2-pc-steam-na)
-    
-    **[SILENT HILL 2 PC (North America)](https://www.cdkeys.com/pc/silent-hill-2-pc-steam-na "SILENT HILL 2 PC (North America)")**
-    
-    Special Price $53.19 RRP $79.79
     
     [Add to Wish List](# "Add to Wish List")
     
