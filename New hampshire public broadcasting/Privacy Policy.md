@@ -189,8 +189,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Preview of San Diego: America's Wildest City** | Nature](https://video.nhpbs.org/video/about-san-diego-americas-wildest-city?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Backstage with Michael Maliakel** | Christmas With The Tabernacle Choir](https://video.nhpbs.org/video/backstage-with-michael-maliakel-xnmad6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Season 8 Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-season-8-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**The Civics 101 Summit 2024** | NHPBS Presents](https://video.nhpbs.org/video/the-civics-101-summit-2024-4gqjjr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**October 8, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-8-2024-pbs-news-hour-full-episode-1728360001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The VP Choice: Vance vs. Walz** | FRONTLINE](https://video.nhpbs.org/video/the-vp-choice-vance-vs-walz-sjkaqp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Is Yoga a Religion?** | Crash Course Religions](https://video.nhpbs.org/video/is-yoga-a-religion-sghen7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Another Composer in the Mozart Family?** | Secrets of the Dead](https://video.nhpbs.org/video/another-composer-in-the-mozart-family-wdtdnr?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
