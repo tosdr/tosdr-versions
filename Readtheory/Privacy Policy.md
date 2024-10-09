@@ -6,7 +6,7 @@
 
 [![Close Menu](https://readtheory.org/wp-content/themes/readtheory/assets/images/Vector-6.svg)](#)
 
-* [Reading Exercises](https://readtheory.org/)
+* [Teacher’s Lounge](https://readtheory.org/teachers-lounge/)
 * Worksheets
     
     ![](https://readtheory.org/wp-content/uploads/2022/03/surface1.svg)
@@ -63,7 +63,6 @@
         
         [SPED Worksheets](https://readtheory.org/reading-comprehension-worksheets/sped/)
     
-* [Teacher’s Lounge](https://readtheory.org/teachers-lounge/)
 * [Schools & Districts](https://readtheory.org/districts-and-schools/)
     
     ![](https://readtheory.org/wp-content/uploads/2024/10/school_menu_icon.svg)
@@ -84,7 +83,7 @@
     
     * ![](https://readtheory.org/wp-content/uploads/2024/10/pen.svg)
         
-        [Efficacy Studies](https://readtheory.org/efficacy-studies/)
+        [Efficacy Studies](https://readtheory.org/efficacy-studies?_utm_campaign=menu&ref=menu)
     * ![](https://readtheory.org/wp-content/uploads/2024/10/pen.svg)
         
         [Case Studies](https://readtheory.org/case-study/?_utm_campaign=menu&ref=menu)
