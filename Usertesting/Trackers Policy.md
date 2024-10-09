@@ -366,9 +366,9 @@ Main navigation
             
             * [The Human Insight Summit](https://www.usertesting.com/resources/this)
                 
-            * [Industry insight series](https://www.usertesting.com/industry-insights)
+            * [Industry Insight Series](https://www.usertesting.com/industry-insights)
                 
-            * [Human insight User Group](https://www.usertesting.com/resources/events/hug)
+            * [Human Insight User Group](https://www.usertesting.com/resources/events/hug)
                 
             * [Virtual & in-person events](https://www.usertesting.com/resources/library/events)
                 
