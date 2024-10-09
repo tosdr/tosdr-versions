@@ -113,11 +113,11 @@ Video
 
 [Login](https://www.storyblocks.com/login)
 
+[Contact Sales](https://www.storyblocks.com/business-solutions/get-in-touch-top-nav)
+
 [Pricing](https://www.storyblocks.com/pricing)
 
-[Join Now](https://www.storyblocks.com/sign-up)
-
-[Join Now](https://www.storyblocks.com/sign-up)
+[Pricing](https://www.storyblocks.com/pricing)
 
 **STORYBLOCKS** 
 
