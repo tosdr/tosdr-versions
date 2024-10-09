@@ -524,7 +524,8 @@ Situs Rekomendasi
 [masterplay88login](https://masterplay88login.xyz/)  
 [masterpoker188slot](https://masterpoker188slot.xyz/)  
 [Tokyo88](https://www.arkatzstore.com/)  
-[Slot Bet 100](https://rodgrentacar.com/)
+[Slot Bet 100](https://rodgrentacar.com/)  
+[gacor22](https://heylink.me/gacor22_/)
 
 © 2024 MACONSULTANCYCARDIFF • Built with [GeneratePress](https://generatepress.com/)
 
