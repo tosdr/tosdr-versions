@@ -307,7 +307,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGG04ME96MEV5MmRlSEZjTFUzazc4clE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljK5lMg)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGFl4NEtCS3hrdkI3bkRkWithbnlISUE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljIALHg)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/uU38cxbeMKLKDXQYopB9r1ybCFO-2vdfTKtV-mXp-zZ7Mcv_AW6MzSSCWkR_ybvgRA=s64)
 
@@ -347,7 +347,7 @@ Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Point
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -359,4 +359,4 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 ![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-United States (English (United States))
+United States (English)
