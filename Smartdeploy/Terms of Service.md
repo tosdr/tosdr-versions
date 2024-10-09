@@ -14,7 +14,7 @@
 
 [![Log in icon](//images.ctfassets.net/jizxy0othtmu/3kft0zE1xwzhw94eRoZqBO/5e335fa5329f307c4437f313a7ffac0c/Log_in_icon.svg)Log in](https://register.smartdeploy.com/signin/ "Log in")
 
-### Product
+Product
 
 FEATURES
 
@@ -34,7 +34,7 @@ A peek behind the curtain
 * [![Release notes icon](//images.ctfassets.net/jizxy0othtmu/2tDwV947fnvPPjHpmbPfiO/2306c8345826421cd36004b8c47e759a/Release_notes_icon.svg)Release notes](https://smartdeploy.pdq.com/hc/en-us/articles/12982168116251-Release-Notes-and-Schedule)
 * [![Product Roadmap icon 1](//images.ctfassets.net/jizxy0othtmu/29qpiiMMgmQ3dnWPEg26wg/f18e3c45bbe6b817cee9c5a03f1018df/Product_Roadmap_icon_1.svg)Product roadmap](https://www.smartdeploy.com/roadmap/)
 
-### Use cases
+Use cases
 
 BY INDUSTRY
 
@@ -58,7 +58,7 @@ So many jobs to do, so little time
 * [![Remote computer imaging icon](//images.ctfassets.net/jizxy0othtmu/7wzAsV3olDHB7ZSSXWSpPY/057acd02cedc64a327a01b5fc235f2d5/Remote_computer_imaging_icon.svg)Remote desktop management](https://www.smartdeploy.com/solutions/remote-desktop-management/)
 * [![Windows icon](//images.ctfassets.net/jizxy0othtmu/3AeF4nJpkyJhFuPKmx28fJ/740cbe66e21507230b41d82304c077bf/Windows_icon.svg)Windows migration](https://www.smartdeploy.com/solutions/windows-migration/)
 
-### Resources
+Resources
 
 LEARN
 
@@ -78,7 +78,7 @@ Connect with other sysadmins like you
 * [![Discord community icon](//images.ctfassets.net/jizxy0othtmu/2ebUptHYhqYETJi31L2kdZ/6ed46793f6158497df129b7a388cf8a0/Discord_community_icon.svg)Discord community](https://discord.com/invite/pdq)
 * [\[email protected\]](https://www.smartdeploy.com/cdn-cgi/l/email-protection)
 
-### Pricing
+Pricing
 
 FEATURES
 
