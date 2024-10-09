@@ -1245,9 +1245,9 @@ Marken der Woche
 
 ‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/categories?pcode=GOLD80)
 
-[\-20% auf Feuchtigkeitspflege & Gesichtscremes
+[\-20% auf Gehirn-Booster
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/face-moisturizers-creams)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/brain-cognitive)
 
       
 
