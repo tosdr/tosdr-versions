@@ -110,6 +110,8 @@ Emoji.gg Links
 
 [Login using Discord](https://emoji.gg/auth/discord?join=1) [Login using Twitch](https://emoji.gg/auth/twitch)
 
+This will also join you to our community server
+
 Emoji Collection
 
 No emojis
