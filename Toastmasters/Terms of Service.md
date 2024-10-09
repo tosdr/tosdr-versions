@@ -31,6 +31,12 @@ Search  Search
 1. [Home](https://www.toastmasters.org/)
 2. /Conditions of Use
 
+[×](#)
+
+There is a Base Camp outage that began on **October 9, 2024 and is expected to last through October 25, 2024**. 
+
+During this outage, your profile and educational data will be migrated to the new platform in accordance with the [Privacy Policy](https://www.toastmasters.org/footer/privacy-policy).
+
 Conditions of Use
 =================
 
