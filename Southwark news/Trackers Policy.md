@@ -191,18 +191,6 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Popular Articles
 
-[![Brenda Dacres (centre right) and Cllr Kieron Williams (far right) hold aloft a Bakerloo Line Extension sign. Credit: Lewisham Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Brenda-Dacres-centre-right-and-Cllr-Kieron-Williams-far-right-hold-aloft-a-Bakerloo-Line-Extension-sign.-Credit-Lewisham-Council-e1727779764327-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
-
-### [Bakerloo Line extension: Lewisham Mayor tells TfL and business leaders why south London needs the rail project](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
-
-[1st October 2024](https://southwarknews.co.uk/area/elephant-and-castle/bakerloo-line-extension-lewisham-mayor-tells-tfl-and-business-leaders-why-south-london-needs-the-rail-project/)
-
-[![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-
-### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-
-[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-
 [![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
 
 ### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
@@ -214,6 +202,12 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
 
 [4th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
+
+[![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
+
+### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
+
+[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
 
 [![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
 
@@ -227,6 +221,12 @@ CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/gar
 ### [Dulwich business say parking plans will put them out of business](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
 
 [4th October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+
+[![Ryan Wintle enters the Den ahead of Millwall's game against Preston North End. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/R-Wintle-882-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-delighted-by-surprise-availability-of-loan-signing/)
+
+### [Neil Harris ‘delighted’ by surprise availability of loan signing](https://southwarknews.co.uk/sport/football/millwall/neil-harris-delighted-by-surprise-availability-of-loan-signing/)
+
+[3rd October 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-delighted-by-surprise-availability-of-loan-signing/)
 
 ### Featured Articles
 
