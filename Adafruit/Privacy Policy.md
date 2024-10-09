@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ ... when you see something that is not right, not fair, not just, say something, do something. Get in trouble, good trouble, necessary trouble”
+“ When you destroy art, you make it stronger”
 
-[John Lewis](https://en.wikipedia.org/wiki/John_Lewis_(civil_rights_leader))
+[Jens Galschiot](https://en.wikipedia.org/wiki/Jens_Galschi%C3%B8t)
 
 [](https://www.adafruit.com/about)
 
