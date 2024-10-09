@@ -2,8 +2,6 @@
 
  
 
-[SPEND $75 AND GET A FREE SET OF FUZZY DICE WHILE SUPPLIES LAST](https://www.deathwishcoffee.com/products/fuzzy-dice-danglers)
-
      
 
 * Coffee
