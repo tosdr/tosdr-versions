@@ -259,7 +259,7 @@ Services
 * [Web Hosting](https://www.bisecthosting.com/web-hosting)
 * [Mumble Hosting](https://www.bisecthosting.com/mumble-server-hosting)
 * [Discord Bot](https://www.bisecthosting.com/discord-bot-hosting)
-* [Modpacks Directory](https://www.bisecthosting.com/modpacks-directory)
+* [Modpacks Directory](https://www.bisecthosting.com/modpack-server-hosting)
 * [Selector](https://www.bisecthosting.com/selector)
 
 Customers
