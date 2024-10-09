@@ -30,24 +30,14 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 2
+    Day 3 Session 2
     
     |     |     |
     | --- | --- |
     | PAK | 556 |
-    | ENG | 1 /96 |
+    | ENG | 2 /243 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250201)
-* [Women's T20 WC
-    
-    AUS won by 60 runs
-    
-    |     |     |
-    | --- | --- |
-    | AUS | 8 /148 |
-    | NZL | 88  |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250110)
 * [Women's T20 WC
     
     9/10 21:00 AEST
@@ -58,6 +48,16 @@ FOX SCORES
     | SCO | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250111)
+* [Women's T20 WC
+    
+    10/10 1:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | IND | –   |
+    | SRI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250112)
 * [Men's T20I
     
     10/10 0:30 AEST
@@ -73,7 +73,7 @@ FOX SCORES
     |     |     |
     | --- | --- |
     | VIC | 9 /428d |
-    | TAS | 0 /15 |
+    | TAS | 4 /201 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250102)
 * [Sheffield Shield
@@ -81,15 +81,15 @@ FOX SCORES
     |     |     |
     | --- | --- |
     | NSW | 366 |
-    | SA  | 1 /34 |
+    | SA  | 7 /227 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250101)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | WA  | 7 /319 |
-    | QLD |     |
+    | WA  | 465 |
+    | QLD | 1 /65 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250103)
 * NRL
@@ -130,24 +130,44 @@ FOX SCORES
     
 * [MLB
     
-    9/10 8:08 AEST
+    Final
+    
+    |     |     |
+    | --- | --- |
+    | NYM | 7   |
+    | PHI | 2   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002C9540)
+* [MLB
+    
+    Final
+    
+    |     |     |
+    | --- | --- |
+    | SD  | 6   |
+    | LAD | 5   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400400297268)
+* [MLB
+    
+    10/10 6:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | DET | –   |
+    | CLE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002549B9)
+* [MLB
+    
+    10/10 8:08 AEST
     
     |     |     |
     | --- | --- |
     | NYM | –   |
     | PHI | –   |
     
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002C9540)
-* [MLB
-    
-    9/10 12:08 AEST
-    
-    |     |     |
-    | --- | --- |
-    | SD  | –   |
-    | LAD | –   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400400297268)
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002A2974)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
