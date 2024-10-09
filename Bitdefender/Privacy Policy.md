@@ -6,7 +6,7 @@
 
  
 
-[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?preferwebp=true&quality=85)](https://www.bitdefender.com/en-us/)
+[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?quality=85&preferwebp=true)](https://www.bitdefender.com/en-us/)
 
 * [For Consumer](https://www.bitdefender.com/en-us/consumer/)
     
@@ -100,7 +100,7 @@
         
         * [Security for Mobile](https://www.bitdefender.com/en-us/business/gravityzone-addons/security-for-mobile)
         * [Security for Email](https://www.bitdefender.com/en-us/business/gravityzone-addons/email-security)
-        * [Security for Storage](https://www.bitdefender.com/en-us/business/enterprise-products/security-for-storage)
+        * [Security for Storage](https://www.bitdefender.com/en-us/business/products/security-for-storage)
         * [Integrity Monitoring](https://www.bitdefender.com/en-us/business/products/gravityzone-integrity-monitoring)
         * [Patch Management](https://www.bitdefender.com/en-us/business/gravityzone-addons/patch-management)
         * [Full Disk Encryption](https://www.bitdefender.com/en-us/business/gravityzone-addons/full-disk-encryption)
@@ -507,7 +507,6 @@ Choose Your Country
 * [Brasil - Português](https://www.bitdefender.com/pt-br/)
 * [Bulgaria - English](https://www.bitdefender.com/en-bg/)
 * [Canada - English](https://www.bitdefender.com/en-ca/)
-* [Chile - English](https://www.bitdefender.com/en-cl/)
 * [Chile - Español](https://www.bitdefender.com/es-cl/)
 * [Colombia - Español](https://www.bitdefender.com/es-co/)
 * [Czechia - English](https://www.bitdefender.com/en-cz/)
