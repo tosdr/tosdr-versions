@@ -204,7 +204,7 @@ Sök Meny
         
         * [Inspelade konserter i juletid](https://www.svenskakyrkan.se/jul/digitala-advents--och-julkonserter)
             
-        * [Julevangeliet](https://www.svenskakyrkan.se/jul/julevangeliet)
+        * [Julevangeliet](https://www.svenskakyrkan.se/jul/jul/julevangeliet)
             
         * [Julsånger på Spotify](https://www.svenskakyrkan.se/jul/spotifylista-med-jullatar)
             
