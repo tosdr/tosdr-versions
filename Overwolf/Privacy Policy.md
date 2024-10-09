@@ -72,6 +72,7 @@
     * [Our culture](https://www.overwolf.com/our-culture/)
     * [Brand Guidelines](https://www.overwolf.com/brand-guidelines/)
     * [Blog](https://blog.overwolf.com/)
+    * [Contact Us](https://www.overwolf.com/contact/)
     * [ISO](https://www.overwolf.com/iso/)
 * [Careers](https://www.overwolf.com/careers/)
 * [Appstore](https://www.overwolf.com/appstore/)
@@ -334,6 +335,7 @@ Please read the _“Highlights Sections”_ paragraph under the [_CPA Additional
     * [Brand guidelines](https://www.overwolf.com/brand-guidelines/)
     * [Blog](https://blog.overwolf.com/)
     * [Careers](https://www.overwolf.com/careers/)
+    * [Contact Us](https://www.overwolf.com/contact/)
     * [ISO](https://www.overwolf.com/iso/)
 * ##### Support & Privacy
     
