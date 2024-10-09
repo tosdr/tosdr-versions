@@ -690,6 +690,7 @@ Engage with Acronis
 
 * [Legal information](https://www.acronis.com/en-us/legal/)
 * [Privacy policy](https://www.acronis.com/en-us/company/privacy/)
+* [Acronis Cookie Notice](https://www.acronis.com/en-us/compliance/cookie-notice/)
 * [Notice of collection](https://www.acronis.com/en-us/company/privacy-rights-notice/)
 * United States + Canada
     
