@@ -296,13 +296,6 @@ PSNI officers at the scene where Kyle McDermott (inset, bottom) was murdered and
 [Derry man who threatened to burn mother and sister's home and cut their throats jailed](https://www.derrynow.com/news/local-news/1624624/derry-man-who-threatened-to-burn-mother-and-sister-s-home-and-cut-their-throats-jailed.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1623993/derry-death-notices-tuesday-october-8-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, October 8 2024](https://www.derrynow.com/news/deaths/1623993/derry-death-notices-tuesday-october-8-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![March and rally held in Derry to mark first anniversary of Gaza conflict](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "March and rally held in Derry to mark first anniversary of Gaza conflict")](https://www.derrynow.com/news/pictures---videos/1624606/in-pictures-hundreds-march-through-derry-to-mark-first-anniversary-of-gaza-conflict.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -334,6 +327,15 @@ Derry Magistrate's Court
 
 [County Derry man charged with breaching his bail conditions](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Call for swift resolution to delays at new housing development on Derry's Buncrana Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Call for swift resolution to delays at new housing development on Derry's Buncrana Road")](https://www.derrynow.com/news/local-news/1624635/call-for-swift-resolution-to-delays-at-new-housing-development-on-derry-s-buncrana-road.html)
+
+Templemore Crescent and Faustina Terrace
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Call for swift resolution to delays at new housing development on Derry's Buncrana Road](https://www.derrynow.com/news/local-news/1624635/call-for-swift-resolution-to-delays-at-new-housing-development-on-derry-s-buncrana-road.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +515,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1624797/derry-death-notices-wednesday-october-9-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, October 9 2024](https://www.derrynow.com/news/deaths/1624797/derry-death-notices-wednesday-october-9-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Conor Murphy accepts chief constable correction over McMonagle comments](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Conor Murphy accepts chief constable correction over McMonagle comments")](https://www.derrynow.com/news/local-news/1625051/conor-murphy-accepts-chief-constable-correction-over-mcmonagle-comments.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -520,7 +529,7 @@ Advertise with Us
 [Conor Murphy accepts chief constable correction over McMonagle comments](https://www.derrynow.com/news/local-news/1625051/conor-murphy-accepts-chief-constable-correction-over-mcmonagle-comments.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry bookshop longlisted for the ‘An Post Bookshop of the Year’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry bookshop longlisted for the ‘An Post Bookshop of the Year’")](https://www.derrynow.com/news/local-news/1624802/derry-bookshop-longlisted-for-the-an-post-bookshop-of-the-year.html)
+[![Derry bookshop longlisted for the ‘An Post Bookshop of the Year’](https://www.derrynow.com/resizer/165/93/true/2024_10_08/pexels-caio-46274-1728393811980.jpg--.jpg?1728393821242 "Derry bookshop longlisted for the ‘An Post Bookshop of the Year’")](https://www.derrynow.com/news/local-news/1624802/derry-bookshop-longlisted-for-the-an-post-bookshop-of-the-year.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -551,13 +560,6 @@ Lisahally Service Centre
 
 [McDonald: Providing references for shamed McMonagle was ‘unforgivable’](https://www.derrynow.com/news/local-news/1624729/mcdonald-providing-references-for-shamed-mcmonagle-was-unforgivable.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital](https://www.derrynow.com/resizer/165/93/true/1635524105854.jpg--.jpg?1635524105000 "Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital")](https://www.derrynow.com/news/local-news/1624942/over-100-patients-waiting-for-treatment-at-derry-s-altnagelvin-hospital.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1624942/over-100-patients-waiting-for-treatment-at-derry-s-altnagelvin-hospital.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
