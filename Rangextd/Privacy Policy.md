@@ -58,86 +58,6 @@ Search results
     [](https://www.rangextd.com/products/kore-2-0)
     
 
-Best Selling Items
-==================
-
-[View all collections](https://www.rangextd.com/collections/best-selling-items) 
-
-* Sale -59% [![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/hero6.jpg?v=1724830907&width=645)](https://www.rangextd.com/products/blaux-bidet-gen-2)
-    
-    Quantity  Add to cart
-    
-    ### [Blaux Bidet - Portable Clean, Convenient, Customizable](https://www.rangextd.com/products/blaux-bidet-gen-2)
-    
-    Next day delivery
-    
-    $169.99 $69.99
-    
-    Quantity  Add to cart
-    
-* Sale -50% [![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/6791804d9c4bfa31ddf85205b6a46c18.png?v=1721296637&width=645)](https://www.rangextd.com/products/laundry-masher-pineapple)
-    
-    Quantity  Add to cart
-    
-    ### [Laundry Masher Pineapple Scent Magic & Effortless Laundry](https://www.rangextd.com/products/laundry-masher-pineapple)
-    
-    Next day delivery
-    
-    $110.99 $55.99
-    
-    Quantity  Add to cart
-    
-* Sale -50% [![StarScope Orange Monocular - Stand Out and See, Limited Edition Adventure,](//savvysmartdeals.com/cdn/shop/files/29bf9b96270ea6140a1ad1fdbea07118.png?v=1721296761&width=645)](https://www.rangextd.com/products/starscope-monocular-in-hunter-orange-limited-edition)
-    
-    Quantity  Add to cart
-    
-    ### [StarScope Orange Monocular - Stand Out and See, Limited Edition Adventure,](https://www.rangextd.com/products/starscope-monocular-in-hunter-orange-limited-edition)
-    
-    Next day delivery
-    
-    $159.99 $79.99
-    
-    Quantity  Add to cart
-    
-* Sale -50% [![Starscope Nano 3-in-1 Wonder, See the World](//savvysmartdeals.com/cdn/shop/files/c441d1e4f013be4c871207a6021d4b1f.png?v=1721296773&width=645)](https://www.rangextd.com/products/starscope-nano)
-    
-    Quantity  Add to cart
-    
-    ### [Starscope Nano 3-in-1 Wonder, See the World](https://www.rangextd.com/products/starscope-nano)
-    
-    Next day delivery
-    
-    $139.99 $69.99
-    
-    Quantity  Add to cart
-    
-* Sale -50% [![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/stack.jpg?v=1727161028&width=645)](https://www.rangextd.com/products/snapshot-camera)
-    
-    Quantity  Add to cart
-    
-    ### [Snapshot Action Cam - Adventure Ready, Capture the Moment](https://www.rangextd.com/products/snapshot-camera)
-    
-    Next day delivery
-    
-    $139.99 $69.99
-    
-    Quantity  Add to cart
-    
-* Sale -42% [![Outfind App Hidden Camera Finder - Peace of Mind](//savvysmartdeals.com/cdn/shop/files/a56ef3ba3999e160e7f6d46fb54632d6_461bebc1-e534-43d5-960b-e1143e41a3ce.png?v=1721296683&width=645)](https://www.rangextd.com/products/outfind-membership)
-    
-    Quantity  Add to cart
-    
-    ### [Outfind App Hidden Camera Finder - Peace of Mind](https://www.rangextd.com/products/outfind-membership)
-    
-    Out of stock
-    
-    $68.99 $39.98
-    
-    Quantity  Add to cart
-    
-
-[View all collections](https://www.rangextd.com/collections/best-selling-items) 
-
 Shop Collections
 ================
 
@@ -162,69 +82,12 @@ Shop Collections
 
 [View all collections](https://www.rangextd.com/collections) 
 
-* ![Banner image for: Personal Essentials](//savvysmartdeals.com/cdn/shop/files/bnr-2_6d99ac8c-588b-4d90-b4f2-203518f9f39c.jpg?v=1723028867&width=620)
-    
-    Personal Essentials
-    -------------------
-    
-    [Discover now](https://www.rangextd.com/collections/personal-essentials)
-    
-    [](https://www.rangextd.com/collections/personal-essentials)
-    
-* ![Banner image for: Travel](//savvysmartdeals.com/cdn/shop/files/Review_1_5208d348-34cb-4c73-9db3-470b34df43b2.png?v=1727243981&width=620)
-    
-    ### Travel
-    
-    [](https://www.rangextd.com/collections/travel-mobility)
-    
-* ![Banner image for: Family Essentials](//savvysmartdeals.com/cdn/shop/files/Stack4_f5faa6f5-0e4d-4a15-899e-a1713df879d1.png?v=1727163260&width=620)
-    
-    ### Family Essentials
-    
-    [](https://www.rangextd.com/collections/family-essentials)
-    
-
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-fox.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-as-seen-cn.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-3.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-cnn.png?v=1720582128&width=150)
-* ![](//savvysmartdeals.com/cdn/shop/files/logo-yahoo.png?v=1720582147&width=150)
-
-* ![Unleash Your Inner Adventurer](//savvysmartdeals.com/cdn/shop/files/STARSCOPE_-_CU_STILL_02.jpg?v=1727430371&width=620)
-    
-    [](https://www.rangextd.com/)
-    
-    Unleash Your Inner Adventurer
-    -----------------------------
-    
-    Witness nature's most breathtaking moments in HD with  
-    Starscope Monocular.
-    
-    [Shop now](https://www.rangextd.com/)
-    
-    [](https://www.rangextd.com/)
-    
-* ![Join the KoreHealth Revolution](//savvysmartdeals.com/cdn/shop/files/review-4_56a16220-8d17-4ce1-a2aa-81fa4c572a4a.jpg?v=1723028924&width=620)
-    
-    [](https://www.rangextd.com/)
-    
-    Join the KoreHealth Revolution
-    ------------------------------
-    
-    Track your progress with KoreScale Gen2 and the KoreHealth  
-    app for real-time health insights.
-    
-    [Shop now](https://www.rangextd.com/)
-    
-    [](https://www.rangextd.com/)
-    
-
 Most sold this week
 ===================
 
 Discover the hottest items flying off the shelves.
 
-[Top 100 most sold](https://www.rangextd.com/) 
+[Top 100 most sold](https://www.rangextd.com/collections/best-selling-items) 
 
 * Sale -50% [![Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](//savvysmartdeals.com/cdn/shop/files/bb10b229d0bf5f1d72f8fbb6b2406fd9.png?v=1721296782&width=645)](https://www.rangextd.com/products/starscope-ver-3)
     
@@ -232,7 +95,7 @@ Discover the hottest items flying off the shelves.
     
     ### [Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](https://www.rangextd.com/products/starscope-ver-3)
     
-    Next day delivery
+    Out of stock
     
     $159.99 $79.99
     
@@ -252,15 +115,15 @@ Discover the hottest items flying off the shelves.
     
 * Sale -49% [![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/21ba131ff61860c60a2c3bfbf8df7c5c_16903b1f-bf28-4ae3-89d9-87f8b1a57bfc.png?v=1721296741&width=645)](https://www.rangextd.com/products/smart-pet-qr-tag)
     
-    Quantity  Add to cart
+    [View options](https://www.rangextd.com/products/smart-pet-qr-tag)
     
     ### [FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](https://www.rangextd.com/products/smart-pet-qr-tag)
     
-    Next day delivery
+    Out of stock
     
     $62.99 $31.99
     
-    Quantity  Add to cart
+    [View options](https://www.rangextd.com/products/smart-pet-qr-tag)
     
 * Sale -55% [![Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](//savvysmartdeals.com/cdn/shop/files/slide-1.png?v=1722601614&width=645)](https://www.rangextd.com/products/hajimari-by-tesimai-g2)
     
@@ -286,8 +149,206 @@ Discover the hottest items flying off the shelves.
     
     Quantity  Add to cart
     
+* Sale -59% [![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/hero6.jpg?v=1724830907&width=645)](https://www.rangextd.com/products/blaux-bidet-gen-2)
+    
+    Quantity  Add to cart
+    
+    ### [Blaux Bidet - Portable Clean, Convenient, Customizable](https://www.rangextd.com/products/blaux-bidet-gen-2)
+    
+    Next day delivery
+    
+    $169.99 $69.99
+    
+    Quantity  Add to cart
+    
+* Sale -50% [![Blaux Heater - Portable Warmth, Efficient Heating 450W](//savvysmartdeals.com/cdn/shop/files/Stack_6f8e22a8-db39-4f14-8b30-0dbc56e0276a.png?v=1727162144&width=645)](https://www.rangextd.com/products/blaux-heater-450w)
+    
+    Quantity  Add to cart
+    
+    ### [Blaux Heater - Portable Warmth, Efficient Heating 450W](https://www.rangextd.com/products/blaux-heater-450w)
+    
+    Next day delivery
+    
+    $159.99 $79.99
+    
+    Quantity  Add to cart
+    
+* Sale -49% [![Dryer Morning Star Laundry Masher - Faster, Softer, Efficient Drying](//savvysmartdeals.com/cdn/shop/files/Stack.png?v=1727161715&width=645)](https://www.rangextd.com/products/dryer-ball)
+    
+    Quantity  Add to cart
+    
+    ### [Dryer Morning Star Laundry Masher - Faster, Softer, Efficient Drying](https://www.rangextd.com/products/dryer-ball)
+    
+    Next day delivery
+    
+    $78.99 $39.99
+    
+    Quantity  Add to cart
+    
+* Sale -50% [![InstaHeat On-The-Go Oven - Perfect for meals wherever you are](//savvysmartdeals.com/cdn/shop/files/Hero_e190bbe8-0e6c-49a9-b563-d42759dc3f79.png?v=1728383891&width=645)](https://www.rangextd.com/products/instaheat-on-the-go-oven-perfect-for-meals-wherever-you-are)
+    
+    Quantity  Add to cart
+    
+    ### [InstaHeat On-The-Go Oven - Perfect for meals wherever you are](https://www.rangextd.com/products/instaheat-on-the-go-oven-perfect-for-meals-wherever-you-are)
+    
+    Next day delivery
+    
+    $139.99 $69.99
+    
+    Quantity  Add to cart
+    
+* Sale -50% [![KoreScale Scale - Smarter Weighing](//savvysmartdeals.com/cdn/shop/files/6795ac12443aec661314765c76781104.png?v=1721296591&width=645)](https://www.rangextd.com/products/korescale)
+    
+    [View options](https://www.rangextd.com/products/korescale)
+    
+    ### [KoreScale Scale - Smarter Weighing](https://www.rangextd.com/products/korescale)
+    
+    Out of stock
+    
+    $218.99 $109.99
+    
+    [View options](https://www.rangextd.com/products/korescale)
+    
+* Sale -50% [![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/6791804d9c4bfa31ddf85205b6a46c18.png?v=1721296637&width=645)](https://www.rangextd.com/products/laundry-masher-pineapple)
+    
+    Quantity  Add to cart
+    
+    ### [Laundry Masher Pineapple Scent Magic & Effortless Laundry](https://www.rangextd.com/products/laundry-masher-pineapple)
+    
+    Out of stock
+    
+    $110.99 $55.99
+    
+    Quantity  Add to cart
+    
+* Sale -58% [![MiSole Acupuncture Insoles - Natural Relief](//savvysmartdeals.com/cdn/shop/files/e38b4c1c513f49672a7439b7cacf86be.png?v=1721296649&width=645)](https://www.rangextd.com/products/mindinsole)
+    
+    Quantity  Add to cart
+    
+    ### [MiSole Acupuncture Insoles - Natural Relief](https://www.rangextd.com/products/mindinsole)
+    
+    Out of stock
+    
+    $119.99 $49.99
+    
+    Quantity  Add to cart
+    
+* Sale -47% [![Neckrelax Neck Massager Magic - Pain-Free Neck](//savvysmartdeals.com/cdn/shop/files/1496ba9fa9c9e9f2e068c281cb03c16c.png?v=1721296666&width=645)](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
+    
+    Quantity  Add to cart
+    
+    ### [Neckrelax Neck Massager Magic - Pain-Free Neck](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
+    
+    Out of stock
+    
+    $188.99 $99.98
+    
+    Quantity  Add to cart
+    
+* Sale -50% [![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/stack.jpg?v=1727161028&width=645)](https://www.rangextd.com/products/snapshot-camera)
+    
+    Quantity  Add to cart
+    
+    ### [Snapshot Action Cam - Adventure Ready, Capture the Moment](https://www.rangextd.com/products/snapshot-camera)
+    
+    Next day delivery
+    
+    $139.99 $69.99
+    
+    Quantity  Add to cart
+    
+* Sale -46% [![RangeXTD WiFi Extender - Seamless Coverage](//savvysmartdeals.com/cdn/shop/files/67c81fad9ac5ac20a93a1caae3a8ee10.png?v=1721296728&width=645)](https://www.rangextd.com/products/rangextd)
+    
+    Quantity  Add to cart
+    
+    ### [RangeXTD WiFi Extender - Seamless Coverage](https://www.rangextd.com/products/rangextd)
+    
+    Out of stock
+    
+    $110.99 $59.99
+    
+    Quantity  Add to cart
+    
 
-[Top 100 most sold](https://www.rangextd.com/) 
+[Top 100 most sold](https://www.rangextd.com/collections/best-selling-items) 
+
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-fox.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-as-seen-cn.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-3.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-cnn.png?v=1720582128&width=150)
+* ![](//savvysmartdeals.com/cdn/shop/files/logo-yahoo.png?v=1720582147&width=150)
+
+* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/6b2f0772ddcd44f4a4cc0d311225af84.thumbnail.0000000000_small.jpg?v=1722599448)
+    
+    Personal Essentials
+    -------------------
+    
+    [Discover now](https://www.rangextd.com/collections/personal-essentials)
+    
+* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/fbd0669f195d492c8bc200672c5da86e.thumbnail.0000000000_small.jpg?v=1722598662)
+    
+    ### Travel
+    
+* ![](//savvysmartdeals.com/cdn/shop/files/preview_images/907c0521898244d99ab5a86a1a9a6260.thumbnail.0000000000_small.jpg?v=1728459272)
+    
+    ### Family Essentials
+    
+
+Top Savvy Techs
+===============
+
+[View all collections](https://www.rangextd.com/collections/top-notch-techs) 
+
+* [![Experience the New iPhone 15 Pro Max 256GB Blue Titanium](//savvysmartdeals.com/cdn/shop/files/nxz54zajpkfqdpidnqn77eto69k0heem.jpg?v=1727853999&width=645)](https://www.rangextd.com/products/experience-the-new-iphone-15-pro-max-256gb-blue-titanium)
+    
+    Quantity  Add to cart
+    
+    ### [Experience the New iPhone 15 Pro Max 256GB Blue Titanium](https://www.rangextd.com/products/experience-the-new-iphone-15-pro-max-256gb-blue-titanium)
+    
+    Next day delivery
+    
+    $1,199.99
+    
+    Quantity  Add to cart
+    
+* [![Experience the New MacBook Air M3 13-inch](//savvysmartdeals.com/cdn/shop/files/macbook_air_m3_xanh_den_-3_1db46a37c9ab4b8f84009499a17f613b_grande_603f055f-cd84-4d41-b07b-9f2a9063605e.webp?v=1727852448&width=645)](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
+    
+    [View options](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
+    
+    ### [Experience the New MacBook Air M3 13-inch](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
+    
+    Next day delivery
+    
+    $1,099.00
+    
+    [View options](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
+    
+* [![Experience the New PlayStation 5 Pro](//savvysmartdeals.com/cdn/shop/files/playstation-pro-reveal.jpg?v=1727868252&width=645)](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
+    
+    [View options](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
+    
+    ### [Experience the New PlayStation 5 Pro](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
+    
+    Out of stock
+    
+    $1,099.99
+    
+    [View options](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
+    
+* [![Galaxy Tab S10 Ultra - Monochrome](//savvysmartdeals.com/cdn/shop/files/1.jpg?v=1727675267&width=645)](https://www.rangextd.com/products/galaxy-tab-s10-ultra-monochrome)
+    
+    Quantity  Add to cart
+    
+    ### [Galaxy Tab S10 Ultra - Monochrome](https://www.rangextd.com/products/galaxy-tab-s10-ultra-monochrome)
+    
+    Next day delivery
+    
+    $999.99
+    
+    Quantity  Add to cart
+    
+
+[View all collections](https://www.rangextd.com/collections/top-notch-techs) 
 
 Our latest blog posts
 =====================
@@ -321,6 +382,35 @@ Our latest blog posts
 
 [View all](https://www.rangextd.com/blogs/news) 
 
+* ![Unleash Your Inner Adventurer](//savvysmartdeals.com/cdn/shop/files/STARSCOPE_-_CU_STILL_02.jpg?v=1727430371&width=620)
+    
+    [](https://www.rangextd.com/)
+    
+    Unleash Your Inner Adventurer
+    -----------------------------
+    
+    Witness nature's most breathtaking moments in HD with  
+    Starscope Monocular.
+    
+    [Shop now](https://www.rangextd.com/)
+    
+    [](https://www.rangextd.com/)
+    
+* ![Join the KoreHealth Revolution](//savvysmartdeals.com/cdn/shop/files/review-4_56a16220-8d17-4ce1-a2aa-81fa4c572a4a.jpg?v=1723028924&width=620)
+    
+    [](https://www.rangextd.com/)
+    
+    Join the KoreHealth Revolution
+    ------------------------------
+    
+    Track your progress with KoreScale Gen2 and the KoreHealth  
+    app for real-time health insights.
+    
+    [Shop now](https://www.rangextd.com/)
+    
+    [](https://www.rangextd.com/)
+    
+
 * **Premium Quality**
 * **No-Hassle Returns**
 * **Fast and Reliable Shipping**
@@ -338,13 +428,6 @@ We're here to help anytime.
 * [Terms of Service](https://www.rangextd.com/policies/terms-of-service "Terms of Service")
 * [Privacy Policy](https://www.rangextd.com/policies/privacy-policy "Privacy Policy")
 * [Contact Us](https://www.rangextd.com/pages/about-us "About Us")
-
-### Follow us
-
-* [Instagram](https://instagram.com/)
-* [Pinterest](https://pinterest.com/)
-* [YouTube](https://youtube.com/)
-* [facebook](https://facebook.com/)
 
 Sign up for our newsletter
 
