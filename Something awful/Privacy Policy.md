@@ -205,25 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Right Movie, Wrong Monster!](https://www.somethingawful.com/photoshop-phriday/wrong-movie-monster/1/)
-* [Something Awful does Fark](https://www.somethingawful.com/comedy-goldmine/something-awful-does/1/)
-* [Fine Art Meets Awful Forum!](https://www.somethingawful.com/photoshop-phriday/fine-art-goons/1/)
-* [Supervillains in Politics!](https://www.somethingawful.com/photoshop-phriday/supervillain-politicians/1/)
-* [Terminators in Hats](https://www.somethingawful.com/photoshop-phriday/terminators-in-hats/1/)
+* [Westworld Season 3 Preview](https://www.somethingawful.com/news/westworld-season-3/)
+* [Terrifying Jack-o'-Lanterns!](https://www.somethingawful.com/comedy-goldmine/halloween-jackolanterns/1/)
+* [Large Penis Support Group](https://www.somethingawful.com/weekend-web/lpsg/1/)
+* [Void Racers!](https://www.somethingawful.com/photoshop-phriday/void-racers-cyoa/)
+* [Big Dog T-Shirt Fan Art](https://www.somethingawful.com/comedy-goldmine/big-dogs-shirts/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cd_classic.gif) [I'm watching night of the living dead. 1968 version](http://forums.somethingawful.com/showthread.php?threadid=4072156 "I'm watching night of the living dead. 1968 version")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/sports.png) [Is there a way to exit a sports team with honor?](http://forums.somethingawful.com/showthread.php?threadid=4072152 "Is there a way to exit a sports team with honor?")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [VR Chats 2024 = Web 1.0 2004?](http://forums.somethingawful.com/showthread.php?threadid=4072168 "VR Chats 2024 = Web 1.0 2004?")
 
 ### Random Articles
 
-* [My Zombie Apocalypse Survival Kit](https://www.somethingawful.com/news/zombie-survival-afghanistan/)
-* [Candid Pet Photos, Part Two!](https://www.somethingawful.com/comedy-goldmine/candid-pet-fiasco/1/)
-* [Who Is Google Stadia For?](https://www.somethingawful.com/news/stadia-google-who/)
-* [The Festooneried Fables of Groggery Gibbonman](https://www.somethingawful.com/news/groggery-fox-king/)
-* [General Hospital Rocks!!!](https://www.somethingawful.com/awful-links/awful-link-2329/)
+* [Meaningful Relations](https://www.somethingawful.com/awful-links/meaningful-relations-sales/)
+* [Fluffy Bunny Sparkle Cloud Raves](https://www.somethingawful.com/awful-links/awful-link-839/)
+* [Pretty Ricky - Late Night Special](https://www.somethingawful.com/awful-links/pretty-ricky-airhumping/)
+* [04-09-2007](https://www.somethingawful.com/forum-fridays/ff04-09-2007/1/)
+* [Enigma of the Ages: The Highway Shoe](https://www.somethingawful.com/news/enigma-ages-highway/)
 
 [Random!](https://www.somethingawful.com/random/)
 
