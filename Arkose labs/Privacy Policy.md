@@ -685,8 +685,6 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 * [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/ "Privacy Policy")
 * [Cookies](javascript:void(0); "Cookies")
 
-X
+                                                 
 
-Join our Webinar with Datos Insights about Defending the Enterprise: Collaboration in the Age of AI.
-
-[Save Your Seat Here](https://www.arkoselabs.com/events/defending-enterprise-collaboration-age-ai-webinar/)
+https://www.weatheronline.pl/polska/zabkowiceslaskie.htm
