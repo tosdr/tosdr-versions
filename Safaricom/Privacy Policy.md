@@ -144,6 +144,20 @@ out of 5 based on
 
 > Oct 8, 2024
 
+> Great service
+
+> Great service. Shann was incredibly helpful and responsive in setting up our trip.
+
+Mark D.
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 8, 2024
+
 > Excellent and responsive
 
 > We have not travelled yet but so far our experience with Anya has been excellent and so responsive. We have booked for a 2025 trip
@@ -151,6 +165,8 @@ out of 5 based on
 Bobbie
 
 ,
+
+GB
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -164,7 +180,7 @@ Customer Brenda, Travel Leaders
 
 ,
 
-us
+US
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -178,7 +194,7 @@ Nico Weitsz
 
 ,
 
-za
+ZA
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -192,7 +208,7 @@ Mouse
 
 ,
 
-au
+AU
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -206,7 +222,7 @@ Yaso Nadesakumaran
 
 ,
 
-us
+US
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -247,20 +263,6 @@ Anita
 ,
 
 US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 3, 2024
-
-> Keith - best travel agent in the world
-
-> Keith is such an amazing communicator, very organised and helpful. This will be my first ever visit to the Kruger national park. As a fellow South African I never had the chance to visit the Kruger NP. Keith sent us voice recordings and I cried listening to his accent and hearing the beautiful nature in the background bringing back so many fond memories of our beautiful country. These messages were so special! I can’t wait to visit and am really looking forward to the most magical experience.
-
-Chané Brits
-
-,
-
-AU
 
 VIP service
 
