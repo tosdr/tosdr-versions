@@ -60,7 +60,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Manufacturing](https://www.panopto.com/industries/manufacturing/)
         * [Telecommunications](https://www.panopto.com/industries/telecommunications/)
     * By Use Case
-        * [Video Platform forCorporate Communications](https://www.panopto.com/use-cases/corporate-communications/)
+        * [Video Platform for Corporate Communications](https://www.panopto.com/use-cases/corporate-communications/)
         * [Employee Onboarding Software](https://www.panopto.com/use-cases/employee-onboarding/)
         * [Hybrid & Hyflex Learning](https://www.panopto.com/use-cases/hybrid-hyflex-learning/)
         * [Knowledge Sharing Platform](https://www.panopto.com/use-cases/knowledge-sharing/)
