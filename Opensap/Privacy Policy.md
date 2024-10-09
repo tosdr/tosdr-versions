@@ -73,6 +73,12 @@ About SAP
 * [Careers](https://www.sap.com/about/careers.html)
 * [News and Press](https://news.sap.com/)
 
+Site Information
+
+Site Information
+
+* [Privacy](https://learning.sap.com/about/legal/privacy)
+
 [![SAP Logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Visit home page")
 
 ![SAP Logo](/_next/image?url=%2Fsap-logo-svg.svg&w=256&q=75 "Visit home page")](https://open.sap.com/)
