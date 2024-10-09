@@ -75,6 +75,18 @@ Best Selling Items
     
     Quantity  Add to cart
     
+* Sale -50% [![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/6791804d9c4bfa31ddf85205b6a46c18.png?v=1721296637&width=645)](https://www.rangextd.com/products/laundry-masher-pineapple)
+    
+    Quantity  Add to cart
+    
+    ### [Laundry Masher Pineapple Scent Magic & Effortless Laundry](https://www.rangextd.com/products/laundry-masher-pineapple)
+    
+    Next day delivery
+    
+    $110.99 $55.99
+    
+    Quantity  Add to cart
+    
 * Sale -50% [![StarScope Orange Monocular - Stand Out and See, Limited Edition Adventure,](//savvysmartdeals.com/cdn/shop/files/29bf9b96270ea6140a1ad1fdbea07118.png?v=1721296761&width=645)](https://www.rangextd.com/products/starscope-monocular-in-hunter-orange-limited-edition)
     
     Quantity  Add to cart
@@ -120,18 +132,6 @@ Best Selling Items
     Out of stock
     
     $68.99 $39.98
-    
-    Quantity  Add to cart
-    
-* Sale -47% [![Neckrelax Neck Massager Magic - Pain-Free Neck](//savvysmartdeals.com/cdn/shop/files/1496ba9fa9c9e9f2e068c281cb03c16c.png?v=1721296666&width=645)](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
-    
-    Quantity  Add to cart
-    
-    ### [Neckrelax Neck Massager Magic - Pain-Free Neck](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
-    
-    Next day delivery
-    
-    $188.99 $99.98
     
     Quantity  Add to cart
     
