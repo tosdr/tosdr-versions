@@ -142,8 +142,6 @@ This Privacy Policy explains how information about you is collected, used and di
     
 * **_Heap as a Data Processor:_** Wherever our customers use our Service to submit, manage, or otherwise use content relating to our customers’ end users during the provision of our Service, we act as a “data processor” and have contractually committed ourselves, including by signing data processing agreements, to only process such information on behalf and under the instruction of the respective customer, who is the data controller, and as provided for under the contractual agreements we sign with them. As such, this Privacy Policy does not apply to such processing. 
     
-* **_Processing of PHI:_** Heap is committed to ensuring all data it receives remains confidential and protected, and that it complies with applicable privacy and security regulations, including the Health Insurance Portability and Accountability Act (“**_HIPAA_**”). Heap’s processing of protected health information (“**_PHI_**”) collected through the use of our Service is done at the direction of our customer who is the “covered entity” or a business associate (as that term is defined by HIPAA), and is governed by the applicable business associate agreement between Heap and the covered entity and/or the business associate. For more information on how we process PHI and related safeguards, please contact us using the details set out at the end of this Privacy Policy.
-    
 
 **GLOBAL APPLICABILITY AND REGION-SPECIFIC DISCLOSURES**
 
