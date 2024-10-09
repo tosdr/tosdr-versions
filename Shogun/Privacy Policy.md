@@ -319,7 +319,7 @@ Region-Specific Disclosures
 
 We may choose or be required by law to provide different or additional disclosures relating to the processing of Personal Information about residents of certain countries, regions or states. Please refer below for disclosures that may be applicable to you:
 
-* For residents of the State of Nevada in the United States, Chapter 603A of the Nevada Revised Statutes permits Nevada residents to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident.  To submit such a request, please contact us at privacy@getshogun.com.
+* For residents of the State of Nevada in the United States, Chapter 603A of the Nevada Revised Statutes permits Nevada residents to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident.  To submit such a request, please contact us at [\[email protected\]](https://getshogun.com/cdn-cgi/l/email-protection).
 * For residents of the State of California in the United States, please click [here](https://getshogun.com/ccpa) for additional California-specific privacy disclosures.
 * If you are based in the European Economic Area (“**EEA**”), Switzerland or the United Kingdom (“**UK**”), please click [here](https://getshogun.com/gdpr-disclosures) for additional European-specific privacy disclosures.
 
@@ -331,9 +331,9 @@ The Services and our business may change from time to time.  As a result, at ti
 Access to Information; Contacting Shogun
 ----------------------------------------
 
-To keep your Personal Information accurate, current, and complete or to request the deletion of Personal Information that you believe Shogun holds, please contact us at [privacy@getshogun.com](mailto:privacy@getshogun.com). We will take reasonable steps to update, correct, or delete Personal Information in our possession that you have previously submitted via the Services.
+To keep your Personal Information accurate, current, and complete or to request the deletion of Personal Information that you believe Shogun holds, please contact us at [\[email protected\]](https://getshogun.com/cdn-cgi/l/email-protection). We will take reasonable steps to update, correct, or delete Personal Information in our possession that you have previously submitted via the Services.
 
-Please also feel free to contact us at [privacy@getshogun.com](mailto:privacy@getshogun.com) if you have any questions about Shogun’s Privacy Policy or the information practices of the Services.
+Please also feel free to contact us at [\[email protected\]](https://getshogun.com/cdn-cgi/l/email-protection) if you have any questions about Shogun’s Privacy Policy or the information practices of the Services.
 
 Alternatively, inquiries may be addressed to:
 
