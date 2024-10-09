@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/gigantische-asteroide-op-weg-naar-aarde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/seks-leugens-en-medicijnen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
