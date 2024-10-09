@@ -502,11 +502,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-6.    [![SILENT HILL 2 PC (North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/silent_hill_2_1.jpg)   No 6. \-28%](https://www.cdkeys.com/pc/silent-hill-2-pc-steam-na)
+6.    [![SILENT HILL 2 PC (North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/silent_hill_2_1.jpg)   No 6. \-33%](https://www.cdkeys.com/pc/silent-hill-2-pc-steam-na)
     
     **[SILENT HILL 2 PC (North America)](https://www.cdkeys.com/pc/silent-hill-2-pc-steam-na "SILENT HILL 2 PC (North America)")**
     
-    Special Price $57.79 RRP $79.79
+    Special Price $53.19 RRP $79.79
     
     [Add to Wish List](# "Add to Wish List")
     
