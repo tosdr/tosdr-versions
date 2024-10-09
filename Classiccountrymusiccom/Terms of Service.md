@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Blake Shelton Just Tied A Billboard...](https://classiccountrymusic.com/blake-shelton-just-tied-a-billboard-chart-record-held-by-tim-mcgraw/)
 * [Riley Keough Says Her Mom, Lisa...](https://classiccountrymusic.com/riley-keough-says-her-mom-lisa-marie-presley-knew-something-was-wrong-before-elvis-died/)
 * [Flashback: “Forever Country” Released To Honor...](https://classiccountrymusic.com/flashback-forever-country-released-to-honor-50-years-of-cma-history/)
-* [Miranda Lambert & Lukas Nelson Sing...](https://classiccountrymusic.com/miranda-lambert-lukas-nelson-sing-silver-wings-in-thoughtful-tribute-to-kris-kristofferson/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -122,9 +122,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [Allman Brothers Band Member Johnny Neel...](https://classiccountrymusic.com/allman-brothers-band-member-johnny-neel-dies-at-70/)
 * [Miranda Lambert & Lukas Nelson Sing...](https://classiccountrymusic.com/miranda-lambert-lukas-nelson-sing-silver-wings-in-thoughtful-tribute-to-kris-kristofferson/)
 * [Josh Turner Honors Kris Kristofferson With...](https://classiccountrymusic.com/josh-turner-honors-kris-kristofferson-with-heartfelt-cover-of-a-moment-of-forever/)
-* [‘CMT’ To Air Special Tribute To...](https://classiccountrymusic.com/cmt-to-air-special-tribute-to-kris-kristofferson/)
 
 Terms of Use
 ============
