@@ -104,7 +104,7 @@ Legal & Other
 * [Privacy Policy](https://www.oeck.com/privacy-policy/)
 * [Warrant Canary](https://www.oeck.com/canary.txt)
 * [About Us](https://www.oeck.com/about-us/)
-* [Contact Us](https://www.oeck.com/support/)
+* [Contact Us](https://www.oeck.com/contact-us/)
 
 Copyright © 2024 OECK Limited. All rights reserved.  
 CRN: 2845103
