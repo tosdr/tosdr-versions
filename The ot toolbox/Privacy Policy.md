@@ -72,11 +72,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![Image with pie chart that says heavy Work in the classroom. On the pie chart it reads integrated in learning, sensory diets, classroom jobs, class wide brain breaks, and transition periods.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Image reads "sensory issues and clothing" with picture of a turtleneck sweater, scarf, wool socks, and jeans](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![Image with pie chart that says heavy Work in the classroom. On the pie chart it reads integrated in learning, sensory diets, classroom jobs, class wide brain breaks, and transition periods.](https://www.theottoolbox.com/wp-content/uploads/2024/10/heavy-work-in-the-classroom.jpg)](https://www.theottoolbox.com/heavy-work-in-the-classroom/)
+                ![Image reads "sensory issues and clothing" with picture of a turtleneck sweater, scarf, wool socks, and jeans](https://www.theottoolbox.com/wp-content/uploads/2023/04/sensory-issues-clothing.png)](https://www.theottoolbox.com/clothing-sensitivity-red-flags/)
                 
-                #### [Heavy Work in the Classroom](https://www.theottoolbox.com/heavy-work-in-the-classroom/)
+                #### [Clothing Sensitivity Red Flags](https://www.theottoolbox.com/clothing-sensitivity-red-flags/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
