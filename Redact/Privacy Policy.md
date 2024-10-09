@@ -1,8 +1,8 @@
 ![mobile preview](/images/svgs/exit_banner.svg)[![mobile preview](/images/svgs/clock.svg)
 
-Expires in \-830:-29:-35
+Expires in 1850:20:47
 
-25% OFF SALE with code 'LABOR25'](https://redact.dev/login)
+For Russian and Turkish users: Download Redact and Sign Up in the Account Tab to get Free Redact Premium to delete from Discord](https://redact.dev/login)
 
 [](https://redact.dev/)
 
