@@ -91,7 +91,7 @@ No results were found at this time.
 
 Please select the industry type. \* \--Please Select Industry-- Bank Credit Union Financial Services Retail Software & Technology Other
 
-Company Headquarters: State/Province \* \--Please Select State/Province-- Alberta Alaska Alabama Arizona Arkansas British Columbia California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Manitoba Maryland Maine Michigan Minnesota Missouri Mississippi Montana New Brunswick North Carolina North Dakota Nebraska New Hampshire New Jersey Newfoundland and Labrador New Mexico Nova Scotia Northwest Territories Nunavut Nevada New York Ohio Oklahoma Ontario Oregon Quebec Pennsylvania Prince Edward Island Rhode Island South Carolina South Dakota Saskatchewan Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Yukon Other
+Company Headquarters: State/Province \* \--Please Select State/Province-- North America South America Central America Europe Asia Pacific Australia/New Zealand
 
 Employee Size \* \--Please Select Employee Size-- Under 500 Employees 500+ Employees
 
