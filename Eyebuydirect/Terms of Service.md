@@ -28,11 +28,11 @@
     
     [Eco Friendly![Eco Friendly](https://img.ebdcdn.com/cms/eco_frindly_icon_update_66c789cf2e.gif)](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
-    [![Bio-Acetate](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Bio-Based Acetate](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Bio-Acetate](https://img.ebdcdn.com/cms/Top_Nav_320_424_df561bdf76.jpg?q=85&seo=bio-acetate)
+    ![Bio-Based Acetate](https://img.ebdcdn.com/cms/Top_Nav_320_424_df561bdf76.jpg?q=85&seo=bio-based-acetate)
     
-    Bio-Acetate](https://www.eyebuydirect.com/collections/bio-acetate-glasses "Bio-Acetate")[![Tan France x eyebuydirect](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Bio-Based Acetate](https://www.eyebuydirect.com/collections/bio-acetate-glasses "Bio-Based Acetate")[![Tan France x eyebuydirect](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
     ![Tan France x eyebuydirect](https://img.ebdcdn.com/cms/Top_Nav_320_424_72b63d1c13.jpg?q=85&seo=tan-france-x-eyebuydirect)
     
