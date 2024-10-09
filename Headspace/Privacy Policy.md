@@ -336,7 +336,7 @@ Subscribe
 * [All articles](https://www.headspace.com/articles)
 * [Subscribe](https://www.headspace.com/subscriptions)
 * [Headspace for Work](https://organizations.headspace.com/)
-* [Admin portal login](https://work.headspace.com/login)
+* [Administrator Portal](https://work.headspace.com/login)
 * [Explore our content library](https://www.headspace.com/content)
 
 #### About Us
@@ -370,7 +370,7 @@ Subscribe
     * [All articles](https://www.headspace.com/articles)
     * [Subscribe](https://www.headspace.com/subscriptions)
     * [Headspace for Work](https://organizations.headspace.com/)
-    * [Admin portal login](https://work.headspace.com/login)
+    * [Administrator Portal](https://work.headspace.com/login)
     * [Explore our content library](https://www.headspace.com/content)
     
 * About Us
