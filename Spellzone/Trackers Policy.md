@@ -162,10 +162,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"Spellzone fits in beautifully with our Scope and Sequence of Phonological Awareness and Spelling. It also aligns perfectly with the four areas of spelling knowledge and uses the Brain, Ears, Eyes approach to learning spelling."  
-Thank you!
+"Thank goodness for Spellzone during this remote learning phase. The site is easy for students to navigate independently and they're really enjoying the activities and spelling games. You get an awful lot for your money with Spellzone. Really reassuring is the very prompt response with helpdesk queries. I've very rarely needed the helpdesk, but when I have, the issue has been addressed and sorted within a very short time."
 
-**Teacher, Australia**
+**Sarah Taggart, Oasis Academy Lord's Hill**
 
 ### Curriculum...
 
