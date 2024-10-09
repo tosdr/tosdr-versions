@@ -101,26 +101,26 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
     
     'GigaChad' Creator And Fitness Photographer Krista Sudmalis On Making One Of The Most Viral Memes Of All Time](https://knowyourmeme.com/editorials/interviews/gigachad-creator-and-fitness-photographer-krista-sudmalis-on-making-one-of-the-most-viral-memes-of-all-time)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/165/still_water.jpg "What Is 'Still Water' And Why Are People Posting TikToks About Being Scared Of It? The Brainrot Trend Explained")
+* [![Redraw Trend Finds Cute Characters In Leaf Piles Celebrating 'It's Finally Autism'](https://i.kym-cdn.com/featured_items/icons/wide/000/026/183/it's_finally_autism.jpg "Redraw Trend Finds Cute Characters In Leaf Piles Celebrating 'It's Finally Autism'")
     
-    What Is 'Still Water' And Why Are People Posting TikToks About Being Scared Of It? The Brainrot Trend Explained](https://knowyourmeme.com/editorials/guides/what-is-still-water-and-why-are-people-posting-tiktoks-about-being-scared-of-it-the-brainrot-trend-explained)
+    Redraw Trend Finds Cute Characters In Leaf Piles Celebrating 'It's Finally Autism'](https://knowyourmeme.com/memes/its-finally-autism)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/164/fp33.jpg "What Is The 'I Like My Cheese Drippy, Bruh' Meme? Logan Paul's Viral 'Lunchly vs. Lunchables' Memes Explained")
+* [![You Post A Hot Take On Twitter And See This Guy In Your Replies, WYD?](https://i.kym-cdn.com/featured_items/icons/wide/000/026/182/cover4.jpg "A Celebration Of The 'Avatar' Chud, AKA 'Mansk'")
     
-    What Is The 'I Like My Cheese Drippy, Bruh' Meme? Logan Paul's Viral 'Lunchly vs. Lunchables' Memes Explained](https://knowyourmeme.com/editorials/guides/what-is-the-i-like-my-cheese-drippy-bruh-meme-logan-pauls-viral-lunchly-vs-lunchables-memes-explained)
+    A Celebration Of The 'Avatar' Chud, AKA 'Mansk'](https://knowyourmeme.com/memes/avatar-chud-mansk)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/163/cover14.jpg "What Is A 'Cuckstoel' And Who Started Memes About Lonely Seats On Public Transport? The Dutch Meme Explained")
+* [![Halloweenposting also known as Spookyposting refers to a series of crudely made Halloween-themed re-edits of notable memes and GIFs. Such images are turned into exploitable versions of the original meme, now with Halloween symbols like jack-o-lanterns, spiders, cobwebs, witches, and orange and black elements added in. The base memes are also recaptioned with Halloween buzzwords and phrases. The trend started in October 2024, due to a viral Twitter / X thread. The -posting trend was similar to Alienposting and Pirateposting which similarly added low-brow visual symbols to crudely alter the theme of a pre-existing meme.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/181/spookypost.jpg "Halloweenposting Is The Jollyposting Redux That Has Everyone Making Custom Spooky GIFs")
     
-    What Is A 'Cuckstoel' And Who Started Memes About Lonely Seats On Public Transport? The Dutch Meme Explained](https://knowyourmeme.com/editorials/guides/what-is-a-cuckstoel-and-who-started-memes-about-lonely-seats-on-public-transport-the-dutch-meme-explained)
+    Halloweenposting Is The Jollyposting Redux That Has Everyone Making Custom Spooky GIFs](https://knowyourmeme.com/memes/halloweenposting-spookyposting)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/162/1b9f1-17282094418520-1920.jpeg "'Uzumaki' Anime Breaks Fans Hearts With 'Heavy Drop' In Animation Quality In Episode 2")
+* [![WANTED DEAD of ALIVE Flynn Rider THIEF WANTED DEAD OF ALIVAR](https://i.kym-cdn.com/featured_items/icons/wide/000/026/180/tjc.jpg "'Zelda: Echoes Of Wisdom' Briefly Revives The 'Can't Get My Nose Right' Redraw Meme")
     
-    'Uzumaki' Anime Breaks Fans Hearts With 'Heavy Drop' In Animation Quality In Episode 2](https://knowyourmeme.com/news/uzumaki-anime-breaks-fans-hearts-with-heavy-drop-in-animation-quality-in-episode-2)
+    'Zelda: Echoes Of Wisdom' Briefly Revives The 'Can't Get My Nose Right' Redraw Meme](https://knowyourmeme.com/memes/they-just-cant-get-my-nose-right)
     
 
 ##### Also Trending:
 
-[Hurricane Milton](https://knowyourmeme.com/memes/events/hurricane-milton "Hurricane Milton") [Mojo Jojo Beat Up](https://knowyourmeme.com/memes/mojo-jojo-beat-up-mojo-jojo-jumped "Mojo Jojo Beat Up") [Elon Musk Kubrick Stare](https://knowyourmeme.com/memes/elon-musk-kubrick-stare "Elon Musk Kubrick Stare") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy")
+[Government Making Hurricanes Conspiracy Theory](https://knowyourmeme.com/memes/government-making-hurricanes-conspiracy-theory "Government Making Hurricanes Conspiracy Theory") [Elon Musk Kubrick Stare](https://knowyourmeme.com/memes/elon-musk-kubrick-stare "Elon Musk Kubrick Stare") [Elon Musk Jumping](https://knowyourmeme.com/memes/elon-musk-jumping "Elon Musk Jumping") [Uzumaki Episode 2 Controversy](https://knowyourmeme.com/memes/events/uzumaki-episode-two-animation-quality-controversy "Uzumaki Episode 2 Controversy") [Hurricane Milton](https://knowyourmeme.com/memes/events/hurricane-milton "Hurricane Milton") [Mojo Jojo Beat Up](https://knowyourmeme.com/memes/mojo-jojo-beat-up-mojo-jojo-jumped "Mojo Jojo Beat Up") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy") [SnoopyWeekly Twitter / X Drama](https://knowyourmeme.com/memes/events/snoopyweekly-twitter-x-drama "SnoopyWeekly Twitter / X Drama")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hi! You must login or signup first!
+### O HAI! You must login or signup first!
 
 |     |     |
 | --- | --- |
