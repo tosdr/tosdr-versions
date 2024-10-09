@@ -1,4 +1,4 @@
- [![SpaceHey](https://static.spacehey.net/img/logo_optimized.svg)](https://spacehey.com/)[![1 MILLION USERS!!](https://spacehey.com/img/1mio.png "1 MILLION USERS!!")](https://blog.spacehey.com/entry?id=1245177)
+[![SpaceHey](https://static.spacehey.net/img/logo_optimized.svg)](https://spacehey.com/)
 
 Search Users:
 
