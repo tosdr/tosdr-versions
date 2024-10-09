@@ -244,24 +244,6 @@ MuggleNet Archive Select Month October 2024  (5) September 2024  (30) August 2
 
 ### October 2024
 
-#### Tue, Oct 8
-
-David Yates's birthday
-
-Recurs yearly
-
-Director (OotP-DH2)
-
-Dobby tells Harry about the Room of Requirement
-
-Recurs yearly
-
-Ian Hart's birthday
-
-Recurs yearly
-
-Quirinus Quirrell
-
 #### Wed, Oct 9
 
 First Dumbledore's Army meeting occurs in the Room of Requirement
@@ -310,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Peeves was never a living person. He is not a ghost but an indestructible spirit of chaos, who can unscrew chandeliers, throw walking sticks, and generally cause mayhem.
+There are 1,100,086 words in the entire “Harry Potter” series.
 
 ### Potter History
 
-March 31, 2012 – Warner Bros. Studio Tour London – The Making of Harry Potter opens at Leavesden Studios.
+May 21, 2013 – An annotated first edition of Harry Potter and the Philosopher’s Stone is sold at a Sotheby’s auction for £150,000. The proceeds were donated to English PEN and Lumos.
 
 ### Potter Quote
 
-“Curiosity is not a sin. But we should exercise caution with our curiosity.”
+“And Potter — do try and win, won’t you? Or we’ll be out of the running for the eighth year in a row, as Professor Snape was kind enough to remind me only last night. . . .”
 
 [](#)
 
