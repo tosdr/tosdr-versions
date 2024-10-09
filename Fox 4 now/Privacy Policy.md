@@ -103,7 +103,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[TRACKING MILTON: Evacuations underway in Southwest Florida, residents prepare for storm surge and landfall](https://www.fox4now.com/weather/hurricane-center/tracking-milton-evacuations-underway-in-southwest-florida-residents-prepare-for-storm-surge-and-landfall)
+[TRACKING MILTON: Approaching hurricane sparks tornadoes in Southwest Florida](https://www.fox4now.com/weather/hurricane-center/tracking-milton-approaching-hurricane-sparks-tornadoes-in-southwest-florida)
 
 Privacy Policy
 ==============
