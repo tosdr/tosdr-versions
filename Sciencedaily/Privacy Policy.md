@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Will AI Tools Revolutionize Public Health?](https://www.sciencedaily.com/releases/2024/10/241008201419.htm)
+* [Toward More Efficient Electronics](https://www.sciencedaily.com/releases/2024/10/241008201417.htm)
+* [Synthetic Genetic Material Produced](https://www.sciencedaily.com/releases/2024/10/241008201414.htm)
+* [How Mars Became Uninhabitable](https://www.sciencedaily.com/releases/2024/10/241007165317.htm)
+* [Climate Report Warns of Escalating Crisis](https://www.sciencedaily.com/releases/2024/10/241008103757.htm)
+* [Holographic 3D Printing](https://www.sciencedaily.com/releases/2024/10/241008122240.htm)
 * [Practical Solar-Powered Desalination System](https://www.sciencedaily.com/releases/2024/10/241008103809.htm)
 * [Challenges in Vaccinations of Adults](https://www.sciencedaily.com/releases/2024/10/241007115102.htm)
 * [New Approach to End Jet Lag](https://www.sciencedaily.com/releases/2024/10/241007115447.htm)
 * [Our Lives in the Mirror of Our Data](https://www.sciencedaily.com/releases/2024/10/241007115253.htm)
-* [Antarctic 'Greening' at Dramatic Rate](https://www.sciencedaily.com/releases/2024/10/241007115554.htm)
-* [Blood Pressure Readings Vary With Arm Positions](https://www.sciencedaily.com/releases/2024/10/241007114922.htm)
-* [Elusive Details in Young Star Systems](https://www.sciencedaily.com/releases/2024/10/241007115547.htm)
-* [Most Distant Rotating Disc Galaxy Found](https://www.sciencedaily.com/releases/2024/10/241007115056.htm)
-* [Two Comb Jellies Can Fuse to Become One](https://www.sciencedaily.com/releases/2024/10/241007114928.htm)
-* [How Pterosaurs Became Terrestrial Titans](https://www.sciencedaily.com/releases/2024/10/241004121701.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Eye Care](https://www.sciencedaily.com/news/health_medicine/eye_care/)
+[Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
-[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
+[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
 
 [Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
+
 [Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
 
 [Communications](https://www.sciencedaily.com/news/computers_math/communications/)
-
-[Batteries](https://www.sciencedaily.com/news/matter_energy/batteries/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Storms](https://www.sciencedaily.com/news/earth_climate/storms/)
 
-[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
-
 [Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
+
+[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
 
   
 
