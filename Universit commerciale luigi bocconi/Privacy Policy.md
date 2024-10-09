@@ -161,12 +161,7 @@ About Us
             * [Rules for Students](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/rules-students)
             * [Department Regulations](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/department-regulations)
             * [Alias Regulation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/regulations-activation-and-management-alias-identities)
-            * Model 231
-                
-                [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/model-231)
-                
-                * [Regulatory Body](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/model-231/regulatory-body)
-                
+            * [Model 231](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/model-231)
             
         * [Strategic Plan](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/vision-2030-and-strategic-plan-2021-2025)
         * Data Protection Regulation GDPR
@@ -252,12 +247,7 @@ Organization
         * [Rules for Students](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/rules-students)
         * [Department Regulations](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/department-regulations)
         * [Alias Regulation](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/regulations-activation-and-management-alias-identities)
-        * Model 231
-            
-            [Overview](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/model-231)
-            
-            * [Regulatory Body](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/model-231/regulatory-body)
-            
+        * [Model 231](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/rules/model-231)
         
     * [Strategic Plan](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-rules/vision-2030-and-strategic-plan-2021-2025)
     * Data Protection Regulation GDPR
