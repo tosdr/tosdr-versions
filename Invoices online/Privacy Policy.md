@@ -118,57 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Terri Winfield
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=149919722)  
-National Elite Security Services (PTY) LTD
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=204753713)  
+Tracknetics
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=132593677)  
-Sarabi
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=29817180)  
+Three Moons Emporium
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=147884703)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=211590366)  
+Druce Digital
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=168731962)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=173092572)  
+BD Maintenance
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=180612557)  
-Konsortium Operations ( Roamfree Meats )
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=72771743)  
+Henry's Home Renovations
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=147541366)  
-Kaylas Creations
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=65385210)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=164638620)  
-Highlands Auto Engineering
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=43901558)  
+Depot Diesel (Pty) Ltd
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=193140244)  
-Eruca (PTY)Ltd
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=139443734)  
+One2b
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=88573285)  
-Van Der Merwe Olieverspreiders
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=30653660)  
+OptaServ
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=135671684)  
-Lion Software Develepment
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=89153381)  
+Know Informatics
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=70957171)  
-Tagline Brands
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=52007355)  
+Secunda Signs T/A Local Print and Signs
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=36038398)  
-LEO DEVELOPMENT GROUP
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=68504982)  
+Tiny Cuddles Photography
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=86801108)  
-Konsortium Operations (PTY) LTD
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=139332453)  
+Cooper Logistics (Pty) Ltd
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=175623087)  
-Lindani Protection Services & Projects
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=14591606)  
+Kainos (Pty) Ltd
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=187640879)  
-Entidee Enterprise PTY (ltd)
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=8104d65e0389d9e589653d56a9a1f7b5ec762ae5d8be3f3d61ab9e37734adcb1&c=101868706)  
+Cape Adventure Zone
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
