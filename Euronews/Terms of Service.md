@@ -1,65 +1,70 @@
+* [Go to navigation](#enw-navigation-bar)
+* [Go to main content](#enw-main-content)
+* [Go to search](#search-autocomplete)
+* [Go to footer](#enw-site-footer)
+
  English [English](https://www.euronews.com/) [Français](https://fr.euronews.com/) [Deutsch](https://de.euronews.com/) [Italiano](https://it.euronews.com/) [Español](https://es.euronews.com/) [Português](https://pt.euronews.com/) [Pусский](https://ru.euronews.com/) [Türkçe](https://tr.euronews.com/) [Ελληνικά](https://gr.euronews.com/) [Magyar](https://hu.euronews.com/) [فارسی](https://parsi.euronews.com/) [العربية](https://arabic.euronews.com/) [Shqip](https://www.euronews.al/) [Română](https://www.euronews.ro/) [ქართული](https://euronewsgeorgia.com/) [български](https://euronewsbulgaria.com/) [Srpski](https://www.euronews.rs/)
 
 [Newsletter Newsletters](https://www.euronews.com/newsletters) [Events Events](https://events.euronews.com/events) [Podcasts](https://podcasts.euronews.com/)
 
-[![Euronews logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2072%2072'%3E%3C/svg%3E)
+[![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2072%2072'%3E%3C/svg%3E)
 
-![Euronews logo](https://static.euronews.com/website/images/vector/euronews-logo-redesigned.svg)](https://www.euronews.com/)
+![Euronews](https://static.euronews.com/website/images/vector/euronews-logo-redesigned.svg)](https://www.euronews.com/)
 
 * [Latest](https://www.euronews.com/just-in)
     
     Trending
     
-    * [EU Policy](https://www.euronews.com/tag/eu-policy)
     * [European Union](https://www.euronews.com/tag/european-union)
-    * [Israel-Hezbollah conflict](https://www.euronews.com/tag/israel-hezbollah-conflict)
-    * [European Court of Justice](https://www.euronews.com/tag/european-court-of-justice)
-    * [Health](https://www.euronews.com/tag/health)
-    * [Germany](https://www.euronews.com/tag/germany)
+    * [France](https://www.euronews.com/tag/france)
+    * [Hurricanes](https://www.euronews.com/tag/hurricanes)
+    * [Exhibition](https://www.euronews.com/tag/exhibition)
+    * [EU Policy](https://www.euronews.com/tag/eu-policy)
+    * [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
     
     * * *
     
     Latest stories
     
-    [![Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.")
+    [![Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.")
     
-    ![Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.](https://static.euronews.com/articles/stories/08/77/15/36/368x207_cmsv2_8c3407e1-d949-5681-a4ac-35ac32fcc6dc-8771536.jpg "Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.")](https://www.euronews.com/2024/10/04/severe-flooding-kills-at-least-fourteen-in-bosnia-and-herzegovina)
-    
-    Now playing Next
-    
-    [No Comment](https://www.euronews.com/nocomment)
-    
-    ### [Severe flooding kills at least fourteen in Bosnia and Herzegovina](https://www.euronews.com/2024/10/04/severe-flooding-kills-at-least-fourteen-in-bosnia-and-herzegovina)
-    
-    [![Lawmakers during a plenary session in the European Parliament.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Lawmakers during a plenary session in the European Parliament.")
-    
-    ![Lawmakers during a plenary session in the European Parliament.](https://static.euronews.com/articles/stories/07/49/98/20/368x207_cmsv2_43379a26-58dc-5a82-9612-cecf1500cafb-7499820.jpg "Lawmakers during a plenary session in the European Parliament.")](https://www.euronews.com/next/2024/10/04/european-parliaments-legal-committee-seeks-involvement-in-ai-group)
-    
-    Now playing Next
-    
-    [Tech News](https://www.euronews.com/next/tech-news)
-    
-    ### [European Parliament's legal committee seeks involvement in AI group](https://www.euronews.com/next/2024/10/04/european-parliaments-legal-committee-seeks-involvement-in-ai-group)
-    
-    [![Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.")
-    
-    ![Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.](https://static.euronews.com/articles/stories/08/77/12/98/368x207_cmsv2_9649c376-eff5-538f-b688-90b78fb85e68-8771298.jpg "Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.")](https://www.euronews.com/my-europe/2024/10/04/at-least-15-killed-in-severe-flooding-after-heavy-rainstorm-hits-bosnia)
+    ![Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.](https://static.euronews.com/articles/stories/08/77/95/06/368x207_cmsv2_82d18232-a42c-5e8c-997f-a286a53d2040-8779506.jpg "Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.")](https://www.euronews.com/my-europe/2024/10/09/viktor-orban-and-ursula-von-der-leyen-clash-in-fiery-debate-at-european-parliament)
     
     Now playing Next
     
     [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Severe flooding after heavy rainstorm in Bosnia kills 15](https://www.euronews.com/my-europe/2024/10/04/at-least-15-killed-in-severe-flooding-after-heavy-rainstorm-hits-bosnia)
+    ### [Orbán and von der Leyen clash in fiery parliamentary debate](https://www.euronews.com/my-europe/2024/10/09/viktor-orban-and-ursula-von-der-leyen-clash-in-fiery-debate-at-european-parliament)
     
-    [![Homeless ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Homeless ")
+    [![Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris")
     
-    ![Homeless ](https://static.euronews.com/articles/stories/05/14/90/00/368x207_cmsv2_b4cfc883-a71f-5886-bc77-43d94d6988cb-5149000.jpg "Homeless ")](https://www.euronews.com/2024/10/04/census-for-collecting-homeless-data-begins-in-budapest)
+    ![Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris](https://static.euronews.com/articles/stories/08/77/96/78/368x207_cmsv2_c5c9572c-1db7-5cb4-bbfd-4e0c90829e04-8779678.jpg "Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris")](https://www.euronews.com/my-europe/2024/10/09/emmanuel-macron-to-meet-ukrainian-troops-training-at-french-military-camp)
     
     Now playing Next
     
-    [Hungary](https://www.euronews.com/news/europe/hungary)
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Census for collecting homeless data begins in Budapest](https://www.euronews.com/2024/10/04/census-for-collecting-homeless-data-begins-in-budapest)
+    ### [Emmanuel Macron to meet Ukrainian troops training at French camp](https://www.euronews.com/my-europe/2024/10/09/emmanuel-macron-to-meet-ukrainian-troops-training-at-french-military-camp)
+    
+    [![The FTSE Russell is part of the LSEG group](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The FTSE Russell is part of the LSEG group")
+    
+    ![The FTSE Russell is part of the LSEG group](https://static.euronews.com/articles/stories/08/77/97/56/368x207_cmsv2_20f41b0f-e71d-5c3c-af75-290b75168648-8779756.jpg "The FTSE Russell is part of the LSEG group")](https://www.euronews.com/business/2024/10/09/ftse-russell-to-include-south-korean-and-indian-government-bonds)
+    
+    Now playing Next
+    
+    [Markets](https://www.euronews.com/business/markets)
+    
+    ### [FTSE Russell to include South Korean and Indian government bonds](https://www.euronews.com/business/2024/10/09/ftse-russell-to-include-south-korean-and-indian-government-bonds)
+    
+    [![The aquarium evacuates its animals in the face of Hurricane Milton](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The aquarium evacuates its animals in the face of Hurricane Milton")
+    
+    ![The aquarium evacuates its animals in the face of Hurricane Milton](https://static.euronews.com/articles/stories/08/77/95/22/368x207_cmsv2_80ad94ea-6405-51f7-9405-3abb345fcfaa-8779522.jpg "The aquarium evacuates its animals in the face of Hurricane Milton")](https://www.euronews.com/video/2024/10/09/aquarium-animals-relocated-as-florida-prepares-for-hurricane-milton)
+    
+    Now playing Next
+    
+    [No Comment](https://www.euronews.com/nocomment)
+    
+    ### [Aquarium animals relocated as Florida prepares for Hurricane Milton](https://www.euronews.com/video/2024/10/09/aquarium-animals-relocated-as-florida-prepares-for-hurricane-milton)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -67,8 +72,6 @@
     
     * [Europe News](https://www.euronews.com/my-europe/europe-news)
     * [my europe Series](https://www.euronews.com/my-europe/my-europe-series)
-    * [This will impact your life](https://www.euronews.com/my-europe/this-will-impact-your-life)
-    * [Europe Decoded](https://www.euronews.com/my-europe/europe-decoded)
     
     * * *
     
@@ -330,7 +333,6 @@ Partner content
 * [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Experience Brazil](https://www.euronews.com/partnercontent/embratur/experience-brazil/EN-index.html)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
-* [Explore Kerala](https://www.euronews.com/partnercontent/travel/kerala-tourism/)
 * [Ron Barceló](https://www.euronews.com/partnercontent/ron-barcelo/first-ecologic-rum-of-dominican-republic/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
@@ -355,62 +357,62 @@ Close menu sidebar
 
 Trending
 
-* [EU Policy](https://www.euronews.com/tag/eu-policy)
 * [European Union](https://www.euronews.com/tag/european-union)
-* [Israel-Hezbollah conflict](https://www.euronews.com/tag/israel-hezbollah-conflict)
-* [European Court of Justice](https://www.euronews.com/tag/european-court-of-justice)
-* [Health](https://www.euronews.com/tag/health)
-* [Germany](https://www.euronews.com/tag/germany)
+* [France](https://www.euronews.com/tag/france)
+* [Hurricanes](https://www.euronews.com/tag/hurricanes)
+* [Exhibition](https://www.euronews.com/tag/exhibition)
+* [EU Policy](https://www.euronews.com/tag/eu-policy)
+* [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
 
 * * *
 
 Latest stories
 
-[![Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.")
+[![Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.")
 
-![Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.](https://static.euronews.com/articles/stories/08/77/15/36/368x207_cmsv2_8c3407e1-d949-5681-a4ac-35ac32fcc6dc-8771536.jpg "Search and rescue teams look for people in flooded houses in Jablanica, Bosnia, on Friday 4 October 2024.")](https://www.euronews.com/2024/10/04/severe-flooding-kills-at-least-fourteen-in-bosnia-and-herzegovina)
-
-Now playing Next
-
-[No Comment](https://www.euronews.com/nocomment)
-
-### [Severe flooding kills at least fourteen in Bosnia and Herzegovina](https://www.euronews.com/2024/10/04/severe-flooding-kills-at-least-fourteen-in-bosnia-and-herzegovina)
-
-* * *
-
-[![Lawmakers during a plenary session in the European Parliament.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Lawmakers during a plenary session in the European Parliament.")
-
-![Lawmakers during a plenary session in the European Parliament.](https://static.euronews.com/articles/stories/07/49/98/20/368x207_cmsv2_43379a26-58dc-5a82-9612-cecf1500cafb-7499820.jpg "Lawmakers during a plenary session in the European Parliament.")](https://www.euronews.com/next/2024/10/04/european-parliaments-legal-committee-seeks-involvement-in-ai-group)
-
-Now playing Next
-
-[Tech News](https://www.euronews.com/next/tech-news)
-
-### [European Parliament's legal committee seeks involvement in AI group](https://www.euronews.com/next/2024/10/04/european-parliaments-legal-committee-seeks-involvement-in-ai-group)
-
-* * *
-
-[![Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.")
-
-![Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.](https://static.euronews.com/articles/stories/08/77/12/98/368x207_cmsv2_9649c376-eff5-538f-b688-90b78fb85e68-8771298.jpg "Flooded houses after a heavy rain in the village of Luke, near Bosnian town of Fojnica.")](https://www.euronews.com/my-europe/2024/10/04/at-least-15-killed-in-severe-flooding-after-heavy-rainstorm-hits-bosnia)
+![Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.](https://static.euronews.com/articles/stories/08/77/95/06/368x207_cmsv2_82d18232-a42c-5e8c-997f-a286a53d2040-8779506.jpg "Viktor Orbán clashed with Ursula von der Leyen on Wednesday morning.")](https://www.euronews.com/my-europe/2024/10/09/viktor-orban-and-ursula-von-der-leyen-clash-in-fiery-debate-at-european-parliament)
 
 Now playing Next
 
 [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Severe flooding after heavy rainstorm in Bosnia kills 15](https://www.euronews.com/my-europe/2024/10/04/at-least-15-killed-in-severe-flooding-after-heavy-rainstorm-hits-bosnia)
+### [Orbán and von der Leyen clash in fiery parliamentary debate](https://www.euronews.com/my-europe/2024/10/09/viktor-orban-and-ursula-von-der-leyen-clash-in-fiery-debate-at-european-parliament)
 
 * * *
 
-[![Homeless ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Homeless ")
+[![Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris")
 
-![Homeless ](https://static.euronews.com/articles/stories/05/14/90/00/368x207_cmsv2_b4cfc883-a71f-5886-bc77-43d94d6988cb-5149000.jpg "Homeless ")](https://www.euronews.com/2024/10/04/census-for-collecting-homeless-data-begins-in-budapest)
+![Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris](https://static.euronews.com/articles/stories/08/77/96/78/368x207_cmsv2_c5c9572c-1db7-5cb4-bbfd-4e0c90829e04-8779678.jpg "Ukrainian President Volodymyr Zelenskyy, left, and French President Emmanuel Macron shake hands after a press conference, on Feb. 16, 2024 at the Elysee Palace in Paris")](https://www.euronews.com/my-europe/2024/10/09/emmanuel-macron-to-meet-ukrainian-troops-training-at-french-military-camp)
 
 Now playing Next
 
-[Hungary](https://www.euronews.com/news/europe/hungary)
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Census for collecting homeless data begins in Budapest](https://www.euronews.com/2024/10/04/census-for-collecting-homeless-data-begins-in-budapest)
+### [Emmanuel Macron to meet Ukrainian troops training at French camp](https://www.euronews.com/my-europe/2024/10/09/emmanuel-macron-to-meet-ukrainian-troops-training-at-french-military-camp)
+
+* * *
+
+[![The FTSE Russell is part of the LSEG group](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The FTSE Russell is part of the LSEG group")
+
+![The FTSE Russell is part of the LSEG group](https://static.euronews.com/articles/stories/08/77/97/56/368x207_cmsv2_20f41b0f-e71d-5c3c-af75-290b75168648-8779756.jpg "The FTSE Russell is part of the LSEG group")](https://www.euronews.com/business/2024/10/09/ftse-russell-to-include-south-korean-and-indian-government-bonds)
+
+Now playing Next
+
+[Markets](https://www.euronews.com/business/markets)
+
+### [FTSE Russell to include South Korean and Indian government bonds](https://www.euronews.com/business/2024/10/09/ftse-russell-to-include-south-korean-and-indian-government-bonds)
+
+* * *
+
+[![The aquarium evacuates its animals in the face of Hurricane Milton](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The aquarium evacuates its animals in the face of Hurricane Milton")
+
+![The aquarium evacuates its animals in the face of Hurricane Milton](https://static.euronews.com/articles/stories/08/77/95/22/368x207_cmsv2_80ad94ea-6405-51f7-9405-3abb345fcfaa-8779522.jpg "The aquarium evacuates its animals in the face of Hurricane Milton")](https://www.euronews.com/video/2024/10/09/aquarium-animals-relocated-as-florida-prepares-for-hurricane-milton)
+
+Now playing Next
+
+[No Comment](https://www.euronews.com/nocomment)
+
+### [Aquarium animals relocated as Florida prepares for Hurricane Milton](https://www.euronews.com/video/2024/10/09/aquarium-animals-relocated-as-florida-prepares-for-hurricane-milton)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -418,8 +420,6 @@ Categories
 
 * [Europe News](https://www.euronews.com/my-europe/europe-news)
 * [my europe Series](https://www.euronews.com/my-europe/my-europe-series)
-* [This will impact your life](https://www.euronews.com/my-europe/this-will-impact-your-life)
-* [Europe Decoded](https://www.euronews.com/my-europe/europe-decoded)
 
 * * *
 
@@ -683,7 +683,6 @@ Partner content
 * [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Experience Brazil](https://www.euronews.com/partnercontent/embratur/experience-brazil/EN-index.html)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
-* [Explore Kerala](https://www.euronews.com/partnercontent/travel/kerala-tourism/)
 * [Ron Barceló](https://www.euronews.com/partnercontent/ron-barcelo/first-ecologic-rum-of-dominican-republic/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Wine of Moldova](https://www.euronews.com/partnercontent/moldova/wine-of-moldova/EN-index.html)
