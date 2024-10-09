@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110916-mid-day-digest-2024-10-08?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110955-mid-day-digest-2024-10-09?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -185,7 +185,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110916-mid-day-digest-2024-10-08?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110955-mid-day-digest-2024-10-09?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -197,20 +197,22 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34337)
+     [](https://patriotpost.us/cartoons/34344)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Christine Flowers Women Aren’t a Single Voting Bloc](https://patriotpost.us/opinion/110908-women-arent-a-single-voting-bloc-2024-10-08)
-*      [Cal Thomas Vote Buying, Biden Style](https://patriotpost.us/opinion/110895-vote-buying-biden-style-2024-10-08)
-*      [Gary Bauer One Year Later](https://patriotpost.us/opinion/110894-one-year-later-2024-10-08)
-*      [Victor Joecks Israel Needs Victory, Not a Ceasefire](https://patriotpost.us/opinion/110893-israel-needs-victory-not-a-ceasefire-2024-10-08)
-*      [Stephen Moore Don’t Nuke the Senate Filibuster!](https://patriotpost.us/opinion/110892-dont-nuke-the-senate-filibuster-2024-10-08)
-*      [Salena Zito Obama Returns to a Different Western Pennsylvania](https://patriotpost.us/opinion/110890-obama-returns-to-a-different-western-pennsylvania-2024-10-08)
-*      [Daniel McCarthy How Donald Trump Can Win the Popular Vote](https://patriotpost.us/opinion/110888-how-donald-trump-can-win-the-popular-vote-2024-10-08)
-*      [The Babylon Bee Democrats Cruelly Make Fun of Autistic African-American Jumping for Joy](https://patriotpost.us/opinion/110897-democrats-cruelly-make-fun-of-autistic-african-american-jumping-for-joy-2024-10-08)
+*      [Rich Lowry The Travesty of the CBP One App](https://patriotpost.us/opinion/110941-the-travesty-of-the-cbp-one-app-2024-10-09)
+*      [Betsy McCaughey Free Speech in the Crosshairs](https://patriotpost.us/opinion/110939-free-speech-in-the-crosshairs-2024-10-09)
+*      [Gary Bauer Free Speech Under Fire](https://patriotpost.us/opinion/110938-free-speech-under-fire-2024-10-09)
+*      [Tim Graham Kamala’s Parade of (Mostly) Pablum Interviews](https://patriotpost.us/opinion/110936-kamalas-parade-of-mostly-pablum-interviews-2024-10-09)
+*      [Byron York When Kamala Harris’s Promises Come to Nothing](https://patriotpost.us/opinion/110934-when-kamala-harriss-promises-come-to-nothing-2024-10-09)
+*      [Ben Shapiro One Year Later](https://patriotpost.us/opinion/110933-one-year-later-2024-10-09)
+*      [Ian Haworth When Will People Listen to Hamas?](https://patriotpost.us/opinion/110940-when-will-people-listen-to-hamas-2024-10-09)
+*      [John Stossel The Cost of Free Money](https://patriotpost.us/opinion/110931-the-cost-of-free-money-2024-10-09)
+*      [Star Parker Black Clergy Speak Out for Israel](https://patriotpost.us/opinion/110937-black-clergy-speak-out-for-israel-2024-10-09)
+*      [The Babylon Bee 10 Clever Ways to Smuggle Humanitarian Supplies Past FEMA](https://patriotpost.us/opinion/110942-10-clever-ways-to-smuggle-humanitarian-supplies-past-fema-2024-10-09)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,11 +226,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
-“As there is a degree of depravity in mankind which requires a certain degree of circumspection and distrust: So there are other qualities in human nature, which justify a certain portion of esteem and confidence. Republican government presupposes the existence of these qualities in a higher degree than any other form.” —James Madison (1788)
+“Guard with jealous attention the public liberty. Suspect every one who approaches that jewel. Unfortunately, nothing will preserve it but downright force. Whenever you give up that force, you are inevitably ruined.” —Patrick Henry (1788)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
