@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/meestromen-met-de-veranderingen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/mensen/aarden-met-je-voeten-op-de-grond/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
