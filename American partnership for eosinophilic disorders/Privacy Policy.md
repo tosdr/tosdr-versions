@@ -1,19 +1,37 @@
-[![American Partership For Eosinophilic Disorder](https://apfed.org/wp-content/uploads/2015/06/logo.png "American Partership For Eosinophilic Disorder")](https://apfed.org/ "Apfed - American Partership For Eosinophilic Disorder")
+[![American Partership For Eosinophilic Disorder](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20194%20117'%3E%3C/svg%3E "American Partership For Eosinophilic Disorder")
 
-* [![shop](https://apfed.org/wp-content/uploads/2015/03/shop.png "shop")](https://apfed.org/store/)
-* [![ytube](https://apfed.org/wp-content/uploads/2015/03/youtube_icon.png "ytube")](http://www.youtube.com/APFED)
-* [![Twitter](https://apfed.org/wp-content/uploads/2014/10/twitter.png "Twitter")](http://www.twitter.com/APFEDorg)
-* [![Faceboook](https://apfed.org/wp-content/uploads/2014/10/facebook.png "Facebook")](http://www.facebook.com/APFED)
-* [![Pinterest](https://apfed.org/wp-content/uploads/2014/10/pinterest.png "Pinterest")](http://www.pinterest.com/apfed/)
-* [![Instagram](https://apfed.org/wp-content/uploads/2022/09/instagram.png "Instagram")](https://www.instagram.com/apfedorg/)
-* [![Mail](https://apfed.org/wp-content/uploads/2015/03/mail.png "Mail")](mailto:mail@apfed.org)
+![American Partership For Eosinophilic Disorder](https://apfed.org/wp-content/uploads/2015/06/logo.png "American Partership For Eosinophilic Disorder")](https://apfed.org/ "Apfed - American Partership For Eosinophilic Disorder")
+
+* [![shop](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2034%2034'%3E%3C/svg%3E "shop")
+    
+    ![shop](https://apfed.org/wp-content/uploads/2015/03/shop.png "shop")](https://apfed.org/store/)
+* [![ytube](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2034%2034'%3E%3C/svg%3E "ytube")
+    
+    ![ytube](https://apfed.org/wp-content/uploads/2015/03/youtube_icon.png "ytube")](http://www.youtube.com/APFED)
+* [![Twitter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2035%2034'%3E%3C/svg%3E "Twitter")
+    
+    ![Twitter](https://apfed.org/wp-content/uploads/2014/10/twitter.png "Twitter")](http://www.twitter.com/APFEDorg)
+* [![Faceboook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2035%2034'%3E%3C/svg%3E "Facebook")
+    
+    ![Faceboook](https://apfed.org/wp-content/uploads/2014/10/facebook.png "Facebook")](http://www.facebook.com/APFED)
+* [![Pinterest](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2037%2036'%3E%3C/svg%3E "Pinterest")
+    
+    ![Pinterest](https://apfed.org/wp-content/uploads/2014/10/pinterest.png "Pinterest")](http://www.pinterest.com/apfed/)
+* [![Instagram](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2037%2037'%3E%3C/svg%3E "Instagram")
+    
+    ![Instagram](https://apfed.org/wp-content/uploads/2022/09/instagram.png "Instagram")](https://www.instagram.com/apfedorg/)
+* [![Mail](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2034%2035'%3E%3C/svg%3E "Mail")
+    
+    ![Mail](https://apfed.org/wp-content/uploads/2015/03/mail.png "Mail")](mailto:mail@apfed.org)
 
 * [Sign Up or Renew Membership](https://apfed.org/become-apfed-member/)
 * [Members Area](https://apfed.org/apfed-newsletters/)
 * [Specialist Finder](https://apfed.org/find-support-treatment/specialist-finder/)
 * [Specialist Sign Up](https://apfed.org/apfed-professional-membership/)
 
-[![shop](https://apfed.org/wp-content/uploads/2015/03/shop.png "shop")](https://salsa4.salsalabs.com/o/51119/t/17919/shop/shop.jsp?storefront_KEY=91)
+[![shop](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2034%2034'%3E%3C/svg%3E "shop")
+
+![shop](https://apfed.org/wp-content/uploads/2015/03/shop.png "shop")](https://salsa4.salsalabs.com/o/51119/t/17919/shop/shop.jsp?storefront_KEY=91)
 
 * [Home](https://apfed.org/)
 * [About EAD](https://apfed.org/about-ead/)
@@ -165,6 +183,8 @@
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
 ![](https://apfed.org/wp-content/uploads/2019/09/loading.gif)
+
+![default](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20848%20280'%3E%3C/svg%3E)
 
 ![default](https://apfed.org/wp-content/themes/apfed/images/default-banner.jpg)
 
@@ -412,6 +432,8 @@ You may contact APFED by sending an email to [mail@apfed.org](mailto:mail@apfed.
 
 ### Privacy Policy
 
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2089%20165'%3E%3C/svg%3E)
+
 ![](https://apfed.org/wp-content/themes/apfed/images/registration-img1.png)
 
 #### Join Patient Registry
@@ -420,6 +442,8 @@ Learn more about the Eosinophil. Connect
 and how you can help advance research.
 
 [Join Now](https://connect.patientcrossroads.org/?org=apfed)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20130%20148'%3E%3C/svg%3E)
 
 ![](https://apfed.org/wp-content/themes/apfed/images/registration-img2.png)
 
