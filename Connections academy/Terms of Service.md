@@ -459,7 +459,7 @@ X
 
 Close Find your school dialog
 
-     [![Pearson Logo](/content/dam/pvs/day-in-a-life/logos/pearson-footer-logo.png)](https://www.pearson.com/)
+     [![Pearson Logo](/content/dam/pvs/ca/portals/75/images/logos/pearson-logo-350.png)](https://www.pearson.com/)
 
 Connections Academy is a part of Pearson, the world's leading learning company.
 
