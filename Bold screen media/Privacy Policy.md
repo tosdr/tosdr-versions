@@ -201,6 +201,8 @@ The Privacy Policy was last revised on March 23, 2022.
 
 Thousand Oaks, CA 91362 
 
+© 2024 Bold Collective
+
 [Privacy Policy](https://www.boldcollective.co/privacy)
 
 [Data Compliance](https://www.boldcollective.co/data-compliance)
@@ -208,8 +210,6 @@ Thousand Oaks, CA 91362 
 [Data Processing](https://www.boldcollective.co/data-processing-addendum)
 
 [Creative Policies](https://www.boldcollective.co/creative-policy)
-
-[FAQs](https://www.boldcollective.co/bold-faqs)
 
 [Contact Us](https://www.boldcollective.co/contact-us)
 
@@ -220,9 +220,7 @@ Follow Us On:
 
 [![inc500.png](https://static.wixstatic.com/media/16fa8f_2b5ced871cc340b39d27040b99fcb5ca~mv2.png/v1/fill/w_91,h_63,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/inc500.png)](https://www.inc.com/profile/bold-screen-media)
 
-![poweredbyBC.png](https://static.wixstatic.com/media/16fa8f_07bf88ea25a24c4c94cedd7416e7391a~mv2.png/v1/fill/w_130,h_78,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/poweredbyBC.png)
-
-© 2024 Bold Collective
+[![2476640_IconForWebsite_01_100824.png](https://static.wixstatic.com/media/303e63_dc4d63c08c824311a3ae558a4fa3dac9~mv2.png/v1/fill/w_130,h_78,al_c,q_85,blur_3,enc_auto/2476640_IconForWebsite_01_100824.png)](https://www.boldcollective.co/)
 
 Subscribe to Our Newsletter
 ---------------------------
