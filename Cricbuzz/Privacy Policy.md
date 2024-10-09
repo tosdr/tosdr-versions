@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUSW vs NZW - AUSW Won](https://www.cricbuzz.com/live-cricket-scores/94613/ausw-vs-nzw-10th-match-group-a-icc-womens-t20-world-cup-2024 "Australia Women v New Zealand Women, 10th Match, Group A - AUSW Won")[PAK vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Stumps")[IND vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/100247/ind-vs-ban-2nd-t20i-bangladesh-tour-of-india-2024 "India v Bangladesh, 2nd T20I - Preview")[IRE vs RSA - IRE Won](https://www.cricbuzz.com/live-cricket-scores/93666/ire-vs-rsa-3rd-odi-ireland-v-south-africa-in-uae-2024 "Ireland v South Africa, 3rd ODI - IRE Won")[RSAW vs SCOW - Preview](https://www.cricbuzz.com/live-cricket-scores/94622/rsaw-vs-scow-11th-match-group-b-icc-womens-t20-world-cup-2024 "South Africa Women v Scotland Women, 11th Match, Group B - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[IND vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/100247/ind-vs-ban-2nd-t20i-bangladesh-tour-of-india-2024 "India v Bangladesh, 2nd T20I - Preview")[PAK vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Stumps")[INDW vs SLW - Preview](https://www.cricbuzz.com/live-cricket-scores/94631/indw-vs-slw-12th-match-group-a-icc-womens-t20-world-cup-2024 "India Women v Sri Lanka Women, 12th Match, Group A - Preview")[RSAW vs SCOW - Preview](https://www.cricbuzz.com/live-cricket-scores/94622/rsaw-vs-scow-11th-match-group-b-icc-womens-t20-world-cup-2024 "South Africa Women v Scotland Women, 11th Match, Group B - Preview")[AUSW vs NZW - AUSW Won](https://www.cricbuzz.com/live-cricket-scores/94613/ausw-vs-nzw-10th-match-group-a-icc-womens-t20-world-cup-2024 "Australia Women v New Zealand Women, 10th Match, Group A - AUSW Won")
 
 AllLive NowToday
 
@@ -100,11 +100,7 @@ AllLive NowToday
     
 * CSA T20 Challenge
     
-    [Titans vs Boland](https://www.cricbuzz.com/live-cricket-scores/103492/tit-vs-bol-16th-match-csa-t20-challenge "Titans v Boland, 16th Match - Upcoming")
-    
-    16th Match
-    
-* [Knights vs Lions](https://www.cricbuzz.com/live-cricket-scores/103485/kng-vs-lions-15th-match-csa-t20-challenge "Knights v Lions, 15th Match - Upcoming")
+    [Knights vs Lions](https://www.cricbuzz.com/live-cricket-scores/103485/kng-vs-lions-15th-match-csa-t20-challenge "Knights v Lions, 15th Match - Upcoming")
     
     15th Match
     
@@ -116,19 +112,23 @@ AllLive NowToday
     
     13th Match
     
+* [Titans vs Boland](https://www.cricbuzz.com/live-cricket-scores/103492/tit-vs-bol-16th-match-csa-t20-challenge "Titans v Boland, 16th Match - Upcoming")
+    
+    16th Match
+    
 * CSA T20 Knock Out Competition
     
-    [Eastern Cape vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/105236/ecape-vs-estorm-17th-match-csa-t20-knock-out-competition "Eastern Cape v Eastern Storm, 17th Match - Upcoming")
+    [Tuskers vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/105242/tusks-vs-mpr-18th-match-csa-t20-knock-out-competition "Tuskers v Mpumalanga Rhinos, 18th Match - Upcoming")
+    
+    18th Match
+    
+* [Eastern Cape vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/105236/ecape-vs-estorm-17th-match-csa-t20-knock-out-competition "Eastern Cape v Eastern Storm, 17th Match - Upcoming")
     
     17th Match
     
 * [South Western Districts vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/105234/swd-vs-ncape-16th-match-csa-t20-knock-out-competition "South Western Districts v Northern Cape, 16th Match - Upcoming")
     
     16th Match
-    
-* [Tuskers vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/105242/tusks-vs-mpr-18th-match-csa-t20-knock-out-competition "Tuskers v Mpumalanga Rhinos, 18th Match - Upcoming")
-    
-    18th Match
     
 * LLC 2024
     
@@ -154,11 +154,11 @@ AllLive NowToday
     
 * Sheffield Shield 2024-25
     
-    [Victoria vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/102846/vic-vs-tas-2nd-match-sheffield-shield-2024-25 "Victoria v Tasmania, 2nd Match - Stumps")
+    [Victoria vs Tasmania  LIVE](https://www.cricbuzz.com/live-cricket-scores/102846/vic-vs-tas-2nd-match-sheffield-shield-2024-25 "Victoria v Tasmania, 2nd Match - Live")
     
     2nd Match
     
-* [New South Wales vs South Australia](https://www.cricbuzz.com/live-cricket-scores/102837/nsw-vs-saus-1st-match-sheffield-shield-2024-25 "New South Wales v South Australia, 1st Match - Stumps")
+* [New South Wales vs South Australia  LIVE](https://www.cricbuzz.com/live-cricket-scores/102837/nsw-vs-saus-1st-match-sheffield-shield-2024-25 "New South Wales v South Australia, 1st Match - Live")
     
     1st Match
     
@@ -190,6 +190,16 @@ AllLive NowToday
     
     13th Match, Group B
     
+* T20 Spring Challenge
+    
+    [Sydney Thunder Women vs Brisbane Heat Women](https://www.cricbuzz.com/live-cricket-scores/103944/sytw-vs-brhw-1st-match-t20-spring-challenge "Sydney Thunder Women v Brisbane Heat Women, 1st Match - Upcoming")
+    
+    1st Match
+    
+* [Melbourne Renegades Women vs Hobart Hurricanes Women](https://www.cricbuzz.com/live-cricket-scores/103953/mlrw-vs-hbhw-2nd-match-t20-spring-challenge "Melbourne Renegades Women v Hobart Hurricanes Women, 2nd Match - Upcoming")
+    
+    2nd Match
+    
 * Womens East Asia Cup 2024
     
     [Hong Kong Women vs Japan Women](https://www.cricbuzz.com/live-cricket-scores/108353/hkw-vs-jpnw-1st-match-womens-east-asia-cup-2024 "Hong Kong Women v Japan Women, 1st Match - HKW Won")
@@ -215,6 +225,10 @@ AllLive NowToday
 * [South Korea Women vs Japan Women](https://www.cricbuzz.com/live-cricket-scores/108385/skrw-vs-jpnw-6th-match-womens-east-asia-cup-2024 "South Korea Women v Japan Women, 6th Match - Upcoming")
     
     6th Match
+    
+* [South Korea Women vs China Women](https://www.cricbuzz.com/live-cricket-scores/108387/skrw-vs-chnw-7th-match-womens-east-asia-cup-2024 "South Korea Women v China Women, 7th Match - Upcoming")
+    
+    7th Match
     
 
 Privacy Policy
@@ -523,41 +537,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131927/williamson-to-miss-start-of-india-test-series-due-to-groin-strain "Williamson to miss start of India Test series due to groin strain")
+
+[Williamson to miss start of India Test series due to groin strain](https://www.cricbuzz.com/cricket-news/131927/williamson-to-miss-start-of-india-test-series-due-to-groin-strain "Williamson to miss start of India Test series due to groin strain")
+
+15m ago
+
   [](https://www.cricbuzz.com/cricket-news/131926/priority-will-always-be-points-over-nrr-smriti-mandhana "Priority will always be points over NRR: Smriti Mandhana")
 
 [Priority will always be points over NRR: Smriti Mandhana](https://www.cricbuzz.com/cricket-news/131926/priority-will-always-be-points-over-nrr-smriti-mandhana "Priority will always be points over NRR: Smriti Mandhana")
 
-34m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/131925/india-confront-multifold-challenge-against-slippery-sri-lanka "India confront multifold challenge against slippery Sri Lanka")
 
 [India confront multifold challenge against slippery Sri Lanka](https://www.cricbuzz.com/cricket-news/131925/india-confront-multifold-challenge-against-slippery-sri-lanka "India confront multifold challenge against slippery Sri Lanka")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/131924/australia-demolish-new-zealand-in-trans-tasman-rivalry "Schutt stars as Australia demolish New Zealand")
 
 [Schutt stars as Australia demolish New Zealand](https://www.cricbuzz.com/cricket-news/131924/australia-demolish-new-zealand-in-trans-tasman-rivalry "Schutt stars as Australia demolish New Zealand")
 
-2h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/131923/agha-hurts-england-at-their-own-game-on-his-day "Salman hurts England at their own game 'on his day'")
 
 [Salman hurts England at their own game 'on his day'](https://www.cricbuzz.com/cricket-news/131923/agha-hurts-england-at-their-own-game-on-his-day "Salman hurts England at their own game 'on his day'")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/131922/bangladesh-bowlers-look-to-stall-delhis-batting-paradise "Bangladesh bowlers look to stall India in Delhi's batting paradise")
 
 [Bangladesh bowlers look to stall India in Delhi's batting paradise](https://www.cricbuzz.com/cricket-news/131922/bangladesh-bowlers-look-to-stall-delhis-batting-paradise "Bangladesh bowlers look to stall India in Delhi's batting paradise")
 
-4h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131921/agha-salmans-ton-lifts-pakistan-before-englands-strong-reply "Agha Salman's ton lifts Pakistan before England's strong reply")
-
-[Agha Salman's ton lifts Pakistan before England's strong reply](https://www.cricbuzz.com/cricket-news/131921/agha-salmans-ton-lifts-pakistan-before-englands-strong-reply "Agha Salman's ton lifts Pakistan before England's strong reply")
-
-5h ago
+10h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
