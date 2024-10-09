@@ -475,13 +475,21 @@ Revised June 1, 2022
 
   [![A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426378.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.")](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
 
-[Comedian Shinji Saito investigated over sexual assault](https://www.japantimes.co.jp/news/2024/10/07/japan/crime-legal/comedian-saito-sexual-assault/ "Comedian Shinji Saito investigated over sexual assault")
+[Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-pm-ishiba-asian-nato/ "Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut")
 
-  [![Yoshimoto Kogyo, the agency that manages comedy trio Jungle Pocket, announced in mid-September that group member Shinji Saito had been experiencing health issues and underwent hospitalization, and that he requested a hiatus. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426355.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yoshimoto Kogyo, the agency that manages comedy trio Jungle Pocket, announced in mid-September that group member Shinji Saito had been experiencing health issues and underwent hospitalization, and that he requested a hiatus. ")](https://www.japantimes.co.jp/news/2024/10/07/japan/crime-legal/comedian-saito-sexual-assault/ "Comedian Shinji Saito investigated over sexual assault")
+  [![Prime Minister Shigeru Ishiba has floated an idea of creating an Asian version of the NATO security framework.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426575.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba has floated an idea of creating an Asian version of the NATO security framework.")](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-pm-ishiba-asian-nato/ "Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut")
 
-[Ishiba fends off questions on endorsement of scandal-tainted LDP members](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/ishiba-parliament-questions/ "Ishiba fends off questions on endorsement of scandal-tainted LDP members")
+[Hedge funds warming to yen caught out by biggest drop in 15 years](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
 
-  [![Prime Minister Shigeru Ishiba speaks during a Lower House session on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426431.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks during a Lower House session on Monday.")](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/ishiba-parliament-questions/ "Ishiba fends off questions on endorsement of scandal-tainted LDP members")
+  [![Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426578.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.")](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
+
+[Japan pushes fossil fuel tech in Asia carbon neutrality initiative](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
+
+  [![Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426839.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.")](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
+
+[The forgotten Japanese naturalist who created a U.S. national park](https://www.japantimes.co.jp/community/2024/10/07/issues/george-masa-hiking-appalachia-shin-etsu-trail/ "The forgotten Japanese naturalist who created a U.S. national park")
+
+  [![Without Japanese outdoorsman George Masa, America might not have the Great Smoky Mountains National Park — so why do so many people in Japan not know he existed?](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425577.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Without Japanese outdoorsman George Masa, America might not have the Great Smoky Mountains National Park — so why do so many people in Japan not know he existed?")](https://www.japantimes.co.jp/community/2024/10/07/issues/george-masa-hiking-appalachia-shin-etsu-trail/ "The forgotten Japanese naturalist who created a U.S. national park")
 
 [Experts move to allay replicon COVID shot fears in Japan amid backlash](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
 
@@ -494,14 +502,6 @@ Revised June 1, 2022
 [Important tool or alarmism? Japan experts split on megaquake advisories.](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
 
   [![A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day")](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
-
-[The furry performance-enhancers that are sweeping the world of sports](https://www.japantimes.co.jp/sports/2024/10/06/more-sports/athletes-therapy-dogs/ "The furry performance-enhancers that are sweeping the world of sports")
-
-  [![Dodgers star Shohei Ohtani and his dog, Dekopin, who delivered the ceremonial first pitch prior to a game against the Orioles on Aug. 28](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426103.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dodgers star Shohei Ohtani and his dog, Dekopin, who delivered the ceremonial first pitch prior to a game against the Orioles on Aug. 28")](https://www.japantimes.co.jp/sports/2024/10/06/more-sports/athletes-therapy-dogs/ "The furry performance-enhancers that are sweeping the world of sports")
-
-[The Japanese tech that could one day make Southeast Asia landmine-free](https://www.japantimes.co.jp/news/2024/10/07/japan/japan-cambodia-laos-demining-tech/ "The Japanese tech that could one day make Southeast Asia landmine-free")
-
-  [![Dul Saroth (left) and Soeum Samrach, deminers with the Cambodian Mine Action and Victim Assistance Authority, practice using the Advanced Landmine Imaging System in Cambodia’s Siem Reap province in August.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/04/425242.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Dul Saroth (left) and Soeum Samrach, deminers with the Cambodian Mine Action and Victim Assistance Authority, practice using the Advanced Landmine Imaging System in Cambodia’s Siem Reap province in August.")](https://www.japantimes.co.jp/news/2024/10/07/japan/japan-cambodia-laos-demining-tech/ "The Japanese tech that could one day make Southeast Asia landmine-free")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ 
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,23 +564,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[China claims Taiwan's Lai is escalating tensions ahead of speech in Taipei](https://www.japantimes.co.jp/news/2024/10/09/asia-pacific/politics/taiwan-president-china-key-speech/ "China claims Taiwan's Lai is escalating tensions ahead of speech in Taipei")
+[LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ldp-not-endorsing-12-politicians/ "LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election")
 
-2 mins ago
+22 mins ago
 
-[Couche-Tard reportedly sent higher price of $47 billion for Seven & I](https://www.japantimes.co.jp/business/2024/10/09/companies/couche-tard-seven-i-new-proposals/ "Couche-Tard reportedly sent higher price of $47 billion for Seven & I")
+[Opposition clashes with Ishiba over political reform](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ishiba-noda-debate/ "Opposition clashes with Ishiba over political reform")
 
-6 mins ago
+52 mins ago
 
-[Election officials backing Trump’s 'Big Lie' stir unease in U.S.](https://www.japantimes.co.jp/news/2024/10/09/world/politics/election-officials-trump-swing-states/ "Election officials backing Trump’s 'Big Lie' stir unease in U.S.")
+[Former PM Taro Aso calls Taiwan a ‘country' — much to China's chagrin](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/taro-aso-taiwan-country/ "Former PM Taro Aso calls Taiwan a ‘country' — much to China's chagrin")
 
-33 mins ago
+57 mins ago
 
-[After Helene devastation, over 1 million people flee path of Hurricane Milton](https://www.japantimes.co.jp/news/2024/10/09/world/flee-hurricane-milton-traffic-fuel/ "After Helene devastation, over 1 million people flee path of Hurricane Milton")
+[University of Tokyo moves up a spot to 28th in World University Rankings](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
 
-58 mins ago
+1 hours ago
 
-[Russia's GRU seeking to cause 'mayhem' in Britain, Europe: U.K. spy chief](https://www.japantimes.co.jp/news/2024/10/09/world/politics/russia-gru-europe-uk-spy-chief/ "Russia's GRU seeking to cause 'mayhem' in Britain, Europe: U.K. spy chief")
+[ClassPass lands in Japan with eye on domestic fitness market and visitors](https://www.japantimes.co.jp/business/2024/10/09/companies/classpass-japanese-market/ "ClassPass lands in Japan with eye on domestic fitness market and visitors")
 
 1 hours ago
 
