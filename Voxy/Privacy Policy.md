@@ -22,7 +22,7 @@ Close this search box.
 [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iNjciIHZpZXdCb3g9IjAgMCAzMDAgNjciPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+)](https://voxy.com/)
 
 * [Programs for Companies](https://voxy.com/programs-for-companies/)
-* [Voxy Platform](https://voxy.com/voxy-plataform/)
+* [Voxy Platform](https://voxy.com/voxy-platform/)
 * [Resources](https://voxy.com/resources/)
 * [Blog](https://voxy.com/blog/)
 * [About Us](https://voxy.com/about-voxy)
@@ -32,7 +32,7 @@ Close this search box.
 Menu
 
 * [Programs for Companies](https://voxy.com/programs-for-companies/)
-* [Voxy Platform](https://voxy.com/voxy-plataform/)
+* [Voxy Platform](https://voxy.com/voxy-platform/)
 * [Resources](https://voxy.com/resources/)
 * [Blog](https://voxy.com/blog/)
 * [About Us](https://voxy.com/about-voxy)
@@ -677,7 +677,7 @@ Copyright © 2024 Voxy. All rights reserved
 * [Student login](https://app.voxy.com/go/login)
     
 * [Programs for Companies](https://voxy.com/programs-for-companies/)
-* [Voxy Platform](https://voxy.com/voxy-plataform/)
+* [Voxy Platform](https://voxy.com/voxy-platform/)
 * [Resources](https://voxy.com/resources/)
 * [Blog](https://voxy.com/blog/)
 * [About Us](https://voxy.com/about-voxy)
