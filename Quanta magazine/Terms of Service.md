@@ -247,23 +247,35 @@ Past Week
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood) [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett) [Amanda Gefter](https://www.quantamagazine.org/authors/amanda-gefter) [Emily Buder](https://www.quantamagazine.org/authors/ebuder) [Mark Belan](https://www.quantamagazine.org/authors/markbelan) [Natalie Wolchover](https://www.quantamagazine.org/authors/natalie)
 
-[![Illustration of a man’s face covered with shadows against a background of wormhole and black hole drawings.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Wheeler-crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/)
-
-[#### John Wheeler Saw the Tear in Reality](https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/)
-
-_By_ [Amanda Gefter](https://www.quantamagazine.org/authors/amanda-gefter)
-
 [![People on ladders looking through holes in a wall at obscured numbers](https://www.quantamagazine.org/wp-content/uploads/2024/10/ZeroKnowledgePCPs-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
 
 [#### Computer Scientists Combine Two ‘Beautiful’ Proof Methods](https://www.quantamagazine.org/computer-scientists-combine-two-beautiful-proof-methods-20241004/)
 
 _By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
 
+[![Illustration of a man’s face covered with shadows against a background of wormhole and black hole drawings.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Wheeler-crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/)
+
+[#### John Wheeler Saw the Tear in Reality](https://www.quantamagazine.org/john-wheeler-saw-the-tear-in-reality-20240925/)
+
+_By_ [Amanda Gefter](https://www.quantamagazine.org/authors/amanda-gefter)
+
 [![A woman sitting on a rocky shore looks up at the cosmos and sees a handful of solid shapes floating in the sky.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Geometry-crSenor-Salme-AppleTileThumbnail.webp)](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
 
 [#### Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/10/MissingData-CrNicoRoper-Thumbnail.webp)](https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/)
+
+[#### When Data Is Missing, Scientists Guess. Then Guess Again.](https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/)
+
+_By_ [Matt von Hippel](https://www.quantamagazine.org/authors/matt-von-hippel)
+
+[![An illustration shows a bee, decorated with positive charges, approaching a field of flowers that wear negative charges. An electric field emerges between them.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Bug-Electricity-crKouzouSakai-Thumbnail.webp)](https://www.quantamagazine.org/the-hidden-world-of-electrostatic-ecology-20240930/)
+
+[#### The Hidden World of Electrostatic Ecology](https://www.quantamagazine.org/the-hidden-world-of-electrostatic-ecology-20240930/)
+
+_By_ [Max G. Levy](https://www.quantamagazine.org/authors/levymax)
 
 The Quanta Newsletter
 
