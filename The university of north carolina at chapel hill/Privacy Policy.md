@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/Latinx-Heritage-Month-Keynote-Speaker-250x141.png)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/NineResearchersAwardedArtsHumanitiesResearchGrants_v2-250x141.png)
     
-    Acclaimed author to give Latinx Heritage Month keynote](https://www.unc.edu/posts/2024/10/07/acclaimed-author-to-give-latinx-heritage-month-keynote/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/UDayPreview-250x141.jpg)
+    Nine researchers earn Arts and Humanities grants](https://www.unc.edu/posts/2024/10/08/nine-researchers-earn-arts-and-humanities-grants/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/04/GradRankingsHERO-250x141.jpg)
     
-    Traditions abound for University Day celebration](https://www.unc.edu/posts/2024/10/07/traditions-abound-for-university-day-celebration/)
+    A message from the provost: well-being day and calendar changes](https://www.unc.edu/posts/2024/10/08/a-message-from-the-provost-well-being-day-and-calendar-changes/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=b5626f7ced&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=826a08f886&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
