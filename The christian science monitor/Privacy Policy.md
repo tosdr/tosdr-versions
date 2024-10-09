@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Trust
+
+### Biden and Netanyahu – and the diminished US standing in Middle East](https://www.csmonitor.com/World/Middle-East/2024/1008/biden-netanyahu-israeli-restraint-gaza-lebanon "Biden and Netanyahu – and the diminished US standing in Middle East")
+
 [Compassion
 
 ### The kindly calm after a storm](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1008/The-kindly-calm-after-a-storm "The kindly calm after a storm")
@@ -99,10 +103,6 @@ Recent Stories
 [Community
 
 ### Dropping the ‘senior’ in senior center: Beyond bingo, there’s speed dating and travel](https://www.csmonitor.com/The-Culture/2024/1008/Dropping-the-senior-in-senior-center-Beyond-bingo-there-s-speed-dating-and-travel "Dropping the ‘senior’ in senior center: Beyond bingo, there’s speed dating and travel")
-
-[Resilience
-
-### After year of war in Gaza, Hamas is mostly unseen. But it’s surviving.](https://www.csmonitor.com/World/Middle-East/2024/1007/israel-gaza-war-anniversary-hamas-survival "After year of war in Gaza, Hamas is mostly unseen. But it’s surviving.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 07, 2024
+October 08, 2024
 
-One year after October 7
+Rebranding senior centers, redefining age
 
-So often, the Middle East seems a textbook lesson in how divisions divide, often violently. The reminders since Oct. 7, 2023, have been stark. Today, all our stories look at the fallout from the past year. But Ned Temko makes an important point in his column: When leaders have prioritized peace, thought shifts. Before last Oct. 7, historic enemies were considering the once-unthinkable: recognizing Israel’s statehood. Progress is not impossible. The Middle East is not without hope. But a different future means thinking differently, starting with understanding and humanity. Today, we lay down our marker that the arc of the past year need not be the direction of the next.
+Taking the word “senior” out of senior centers might seem a rather superficial and transparent change. But it isn’t. Today, Ashley Milne-Tyte shows that senior centers across the United States aren’t just being rebranded; they’re being transformed, because our sense of age is being transformed. Today’s seniors are active and curious. Why shouldn’t the ecosystems around them be, too?  It’s not really about taking one word out. It’s about pouring more life in.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Biden and Netanyahu – and the diminished US standing in Middle East](https://www.csmonitor.com/World/Middle-East/2024/1008/biden-netanyahu-israeli-restraint-gaza-lebanon "Biden and Netanyahu – and the diminished US standing in Middle East")
+
 [### A French rape victim goes public. She makes ‘shame change sides.’](https://www.csmonitor.com/World/Europe/2024/1008/rape-trial-victim-public "A French rape victim goes public. She makes ‘shame change sides.’")
 
 [### Florida residents brace for massive Hurricane Milton](https://www.csmonitor.com/USA/2024/1008/Florida-Hurricane-Milton-Tampa-Bay-Category-5 "Florida residents brace for massive Hurricane Milton")
-
-[### After year of war in Gaza, Hamas is mostly unseen. But it’s surviving.](https://www.csmonitor.com/World/Middle-East/2024/1007/israel-gaza-war-anniversary-hamas-survival "After year of war in Gaza, Hamas is mostly unseen. But it’s surviving.")
 
 * * *
 
