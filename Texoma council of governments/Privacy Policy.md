@@ -192,7 +192,7 @@ Oct 17
 
 5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
 
-### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting/2024-10-17/ "Governing Board Meeting")
+### Canceled [Governing Board Meeting](https://tcog.com/event/governing-board-meeting-12/ "Governing Board Meeting")
 
 Sherman
 
