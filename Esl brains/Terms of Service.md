@@ -8,7 +8,6 @@
 
 * [Lesson Plans](https://eslbrains.com/lesson)
     * [Level](#)
-        * [A1 / Elementary](https://eslbrains.com/esl-lesson-plans/a1-elementary/)
         * [A2 / Pre‐Intermediate](https://eslbrains.com/esl-lesson-plans/a2-pre-intermediate/)
         * [B1 / Intermediate](https://eslbrains.com/esl-lesson-plans/b1-intermediate/)
         * [B2 / Upper Intermediate](https://eslbrains.com/esl-lesson-plans/b2-upper-intermediate/)
@@ -306,10 +305,10 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
-* [Let’s eat!](https://eslbrains.com/lesson-set/lets-eat/ "Let’s eat!")
-* [Introducing: A1 Lesson Plans!](https://eslbrains.com/introducing-a1-lesson-plans/ "Introducing: A1 Lesson Plans!")
-* [For breakfast, I have…](https://eslbrains.com/for-breakfast-i-have/ "For breakfast, I have…")
-* [What’s your favourite food?](https://eslbrains.com/whats-your-favourite-food/ "What’s your favourite food?")
+* [Gen Z’s penchant for sad music](https://eslbrains.com/gen-zs-penchant-for-sad-music/ "Gen Z’s penchant for sad music")
+* [What do they look like?](https://eslbrains.com/what-do-they-look-like/ "What do they look like?")
+* [Challenging gender stereotypes](https://eslbrains.com/challenging-gender-stereotypes/ "Challenging gender stereotypes")
+* [Uncertain times in business](https://eslbrains.com/uncertain-times-in-business/ "Uncertain times in business")
 
 © ESL Brains 2023
 
