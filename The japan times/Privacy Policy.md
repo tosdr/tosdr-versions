@@ -499,10 +499,6 @@ Revised June 1, 2022
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-[Important tool or alarmism? Japan experts split on megaquake advisories.](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
-
-  [![A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/06/426056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A damaged road in Wajima, Ishikawa Prefecture, on Jan. 6, after a major earthquake struck the area on New Year's Day")](https://www.japantimes.co.jp/environment/2024/10/06/earth-science/earthquake-alerts-japan-controversy/ "Important tool or alarmism? Japan experts split on megaquake advisories.")
-
 Podcast
 -------
 
@@ -564,25 +560,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Chinese nationals in Japan testify to harassment by Beijing, report says](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
+
+6 mins ago
+
 [Expert calls for new chip research institute near Tokyo](https://www.japantimes.co.jp/business/2024/10/09/tech/expert-chip-institute/ "Expert calls for new chip research institute near Tokyo")
 
-3 hours ago
+9 hours ago
 
 [Wang tells Iwaya he hopes for 'progress' in China-Japan ties](https://www.japantimes.co.jp/news/2024/10/09/japan/wang-iwaya-talks/ "Wang tells Iwaya he hopes for 'progress' in China-Japan ties")
 
-3 hours ago
+10 hours ago
 
 [Trio of scientists win chemistry Nobel for work on the structure of proteins](https://www.japantimes.co.jp/news/2024/10/09/world/science-health/nobel-prize-chemistry/ "Trio of scientists win chemistry Nobel for work on the structure of proteins")
 
-5 hours ago
+11 hours ago
 
 [LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ldp-not-endorsing-12-politicians/ "LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election")
-
-6 hours ago
-
-[Opposition clashes with Ishiba over political reform](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ishiba-noda-debate/ "Opposition clashes with Ishiba over political reform")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
