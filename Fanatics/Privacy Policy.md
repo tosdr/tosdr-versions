@@ -61,7 +61,7 @@ SIGN UP & SAVE!
 * [](#top-nav15)
     
 
-Due to the impact of Hurricane Milton on our facilities, you may experience longer than normal response times from our Athletes or delays in the shipment of your order. We apologize for any inconvenience this may cause and will respond to your inquiry as soon as possible. Our team is working hard to ensure you receive your merchandise and we appreciate your patience as we work through the aftermath of this storm.
+Due to the impact of Hurricane Milton on our facilities, you may experience longer than normal response times from our contact center or delays in the shipment of your order. We apologize for any inconvenience this may cause and will respond to your inquiry as soon as possible. Our team is working hard to ensure you receive your merchandise and we appreciate your patience as we work through the aftermath of this storm.
 
 How can we help you?
 
@@ -558,9 +558,9 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: 636af003a08aac0c
+rc: 18fd7204e977c34a
 
-vid: 520ddb80-8645-11ef-9bf5-b3ca7ec20352
+vid: 1ff80480-8678-11ef-a37f-ad51195f8e27
 
 version: 1.1.0-rc-20241007.98647
 
@@ -568,15 +568,14 @@ version: 1.1.0-rc-20241007.98647
 
 Qualified Experiments #:* 12635:A:0:1
 * 14862:B:1:1
-* 14891:A:0:1
 * 14971:B:1:1
-Namespaces:* 10:4205:0
-* 11:69:0
-* 2:3254:0
-* 4:2278:0
-* 6:4590:0
-* 8:1761:0
-* 9:2346:0
-* 3:1892:0
-* 5:1148:0
-* 7:708:0
+Namespaces:* 5:4165:0
+* 10:3442:0
+* 3:4446:0
+* 4:847:0
+* 7:2350:0
+* 8:3272:0
+* 9:1824:0
+* 11:2238:0
+* 2:4365:0
+* 6:709:0
