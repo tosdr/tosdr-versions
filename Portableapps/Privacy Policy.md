@@ -26,7 +26,7 @@ Main menu
 * [Donate](https://portableapps.com/donate "Contribute to PortableApps.com")
 * [Login / Create Account](https://portableapps.com/user/login)
 
-New: [streamWriter](https://portableapps.com/news/2024-06-28--streamwriter-portable-6.0.0-released) (Jun 28, 2024), [Platform 29.5.3](https://portableapps.com/news/2024-06-27--portableapps.com-platform-29.5.3-released) (Jun 27, 2024)  
+New: [Kanri](https://portableapps.com/news/2024-10-09--kanri-portable-0.7.1-released) (Oct 09, 2024), [Platform 29.5.3](https://portableapps.com/news/2024-06-27--portableapps.com-platform-29.5.3-released) (Jun 27, 2024)  
 [1,100+ portable packages](https://portableapps.com/apps), 1.1 billion downloads  
 Please [donate today](https://portableapps.com/donate)
 
