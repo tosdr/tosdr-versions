@@ -238,7 +238,7 @@ Betterment Logo Icon SVG Footer
 
 * [Contact us](https://www.betterment.com/contact)
 * [Betterment 401(k)](https://www.betterment.com/work)
-* [Betterment for Advisors](https://www.betterment.com/advisors)
+* [Betterment Advisors Solutions](https://www.betterment.com/advisors)
 
 This experience and any marketing of the experience are provided by Betterment LLC. To the extent that there is marketing related to Betterment Checking, it is provided by Betterment Financial LLC.
 
