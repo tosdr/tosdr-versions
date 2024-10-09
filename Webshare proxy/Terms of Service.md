@@ -100,12 +100,6 @@ Starting at
 
 $0.2/GB](https://www.webshare.io/verified-proxy)
 
-###### Don’t miss your 10 free proxies
-
-No credit card required.
-
-[Get 10 Free Proxies](https://proxy2.webshare.io/register)
-
 Features
 
 Proxy
@@ -464,7 +458,7 @@ no credit card required.
 * [Help Center](https://help.webshare.io/)
 * [Affiliate Program](https://www.webshare.io/affiliate-program)
 * [System Status](https://status.webshare.io/)
-* [API Docs](https://proxy.webshare.io/docs/api/)
+* [API Docs](https://apidocs.webshare.io/)
 * [Blog](https://www.webshare.io/blog)
 * [FAQ](https://www.webshare.io/frequently-asked-questions)
 
