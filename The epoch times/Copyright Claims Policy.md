@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Hurricane Milton Maintains Strength, Grinds Toward Tampa](https://www.theepochtimes.com/us/hurricane-milton-maintains-strength-grinds-toward-tampa-5738122)
+* [DeSantis, Florida Officials Issue Warnings to Would-Be Looters Ahead of Hurricane Milton](https://www.theepochtimes.com/us/desantis-florida-officials-issue-warnings-to-would-be-looters-ahead-of-hurricane-milton-5738328)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Hurricane Milton Maintains Strength, Grinds Toward Tampa](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![DeSantis, Florida Officials Issue Warnings to Would-Be Looters Ahead of Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Hurricane Milton Maintains Strength, Grinds Toward Tampa](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737822-GettyImages-2177487142KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-milton-maintains-strength-grinds-toward-tampa-5738122)
+    ![DeSantis, Florida Officials Issue Warnings to Would-Be Looters Ahead of Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732874-GettyImages-1219423476-205x123.jpg.webp)](https://www.theepochtimes.com/us/desantis-florida-officials-issue-warnings-to-would-be-looters-ahead-of-hurricane-milton-5738328)
+* [Hurricane Milton Could Forever Change Florida’s Gulf Coastline, Says USGS](https://www.theepochtimes.com/us/hurricane-milton-could-forever-change-floridas-gulf-coastline-says-usgs-5738230)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Hurricane Milton Could Forever Change Florida’s Gulf Coastline, Says USGS](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hurricane Milton Could Forever Change Florida’s Gulf Coastline, Says USGS](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737463-xxx-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-milton-could-forever-change-floridas-gulf-coastline-says-usgs-5738230)
+* [Appeals Court Lets Ohio Enforce Law Banning Foreign Nationals From Spending on Campaigns](https://www.theepochtimes.com/us/appeals-court-lets-ohio-enforce-law-banning-foreign-nationals-from-spending-on-campaigns-5738156)
+    
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Appeals Court Lets Ohio Enforce Law Banning Foreign Nationals From Spending on Campaigns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Appeals Court Lets Ohio Enforce Law Banning Foreign Nationals From Spending on Campaigns](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717269-dave-yost-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-lets-ohio-enforce-law-banning-foreign-nationals-from-spending-on-campaigns-5738156)
+* [Massachusetts Supreme Court Refuses to Loosen Bail Rules in Rape Cases](https://www.theepochtimes.com/us/massachusetts-supreme-court-refuses-to-loosen-bail-rules-in-rape-cases-5737691)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Massachusetts Supreme Court Refuses to Loosen Bail Rules in Rape Cases](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Massachusetts Supreme Court Refuses to Loosen Bail Rules in Rape Cases](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731629-08122024-DSC00315-DOJ-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/massachusetts-supreme-court-refuses-to-loosen-bail-rules-in-rape-cases-5737691)
+* [As Hurricane Milton Approaches Florida, Time Is Running Out to Evacuate](https://www.theepochtimes.com/us/hurricane-milton-maintains-strength-grinds-toward-tampa-5738122)
+    
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![As Hurricane Milton Approaches Florida, Time Is Running Out to Evacuate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![As Hurricane Milton Approaches Florida, Time Is Running Out to Evacuate](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738329-hurricane-milton-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-milton-maintains-strength-grinds-toward-tampa-5738122)
+* [Kitchen Table Issues, Immigration, and No ID Required—Early Voting Kicks Off in California](https://www.theepochtimes.com/us/kitchen-table-issues-immigration-and-no-id-required-early-voting-kicks-off-in-california-5737857)
+    
+    7hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
+    
+    [![Kitchen Table Issues, Immigration, and No ID Required—Early Voting Kicks Off in California](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Kitchen Table Issues, Immigration, and No ID Required—Early Voting Kicks Off in California](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738002-A7200865-205x123.jpg.webp)](https://www.theepochtimes.com/us/kitchen-table-issues-immigration-and-no-id-required-early-voting-kicks-off-in-california-5737857)
 * [Hurricane-Ravaged North Carolina Towns Relying on Local Support as They Dig Out From Debris](https://www.theepochtimes.com/us/hurricane-ravaged-north-carolina-towns-relying-on-local-support-as-they-dig-out-from-debris-5737776)
     
-    NEW By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    7hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
     
     [![Hurricane-Ravaged North Carolina Towns Relying on Local Support as They Dig Out From Debris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Hurricane-Ravaged North Carolina Towns Relying on Local Support as They Dig Out From Debris](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736507-Helene-Body-Recovery_JF_10062024-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-ravaged-north-carolina-towns-relying-on-local-support-as-they-dig-out-from-debris-5737776)
 * [Iranian Missile Attack Leaves Region on Edge, Wondering What Comes Next](https://www.theepochtimes.com/world/iranian-missile-attack-leaves-region-on-edge-wondering-what-comes-next-5735854)
     
-    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    7hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Iranian Missile Attack Leaves Region on Edge, Wondering What Comes Next](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Iranian Missile Attack Leaves Region on Edge, Wondering What Comes Next](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735024-GettyImages-2175624464-205x123.jpg.webp)](https://www.theepochtimes.com/world/iranian-missile-attack-leaves-region-on-edge-wondering-what-comes-next-5735854)
-* [Harris, Trump Proposals to Add Trillions to National Debt: CRFB Analysis](https://www.theepochtimes.com/business/harris-trump-proposals-to-add-trillions-to-national-debt-crfb-analysis-5737614)
+    ![Iranian Missile Attack Leaves Region on Edge, Wondering What Comes Next](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738198-GettyImages-2175624464.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/iranian-missile-attack-leaves-region-on-edge-wondering-what-comes-next-5735854)
+* [Harris, Trump Proposals to Add Trillions to National Debt: Analysis](https://www.theepochtimes.com/business/harris-trump-proposals-to-add-trillions-to-national-debt-crfb-analysis-5737614)
     
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![Harris, Trump Proposals to Add Trillions to National Debt: CRFB Analysis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris, Trump Proposals to Add Trillions to National Debt: Analysis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris, Trump Proposals to Add Trillions to National Debt: CRFB Analysis](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736344-Trump-Harris-LS-sb_2-205x123.jpg.webp)](https://www.theepochtimes.com/business/harris-trump-proposals-to-add-trillions-to-national-debt-crfb-analysis-5737614)
+    ![Harris, Trump Proposals to Add Trillions to National Debt: Analysis](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736344-Trump-Harris-LS-sb_2-205x123.jpg.webp)](https://www.theepochtimes.com/business/harris-trump-proposals-to-add-trillions-to-national-debt-crfb-analysis-5737614)
 * [Judge Denies Deadspin’s Bid to Dismiss Defamation Suit Involving 9-Year-Old Chiefs Fan](https://www.theepochtimes.com/us/judge-denies-deadspins-bid-to-dismiss-defamation-suit-involving-9-year-old-chiefs-fan-5737688)
     
-    NEW By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    7hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
     [![Judge Denies Deadspin’s Bid to Dismiss Defamation Suit Involving 9-Year-Old Chiefs Fan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Judge Denies Deadspin’s Bid to Dismiss Defamation Suit Involving 9-Year-Old Chiefs Fan](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737807-Deadspin_Defamation_Lawsuit_24282565150411-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-denies-deadspins-bid-to-dismiss-defamation-suit-involving-9-year-old-chiefs-fan-5737688)
-* [Helicopter Pilot Undertakes Rescue Missions in Hurricane Helene Aftermath](https://www.theepochtimes.com/us/a-helicoper-pilots-philanthropic-efforts-devoted-to-hurricane-helene-rescue-mission-5737642)
-    
-    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
-    
-    [![Helicopter Pilot Undertakes Rescue Missions in Hurricane Helene Aftermath](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Helicopter Pilot Undertakes Rescue Missions in Hurricane Helene Aftermath](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737646-gary-heavin-205x123.jpg.webp)](https://www.theepochtimes.com/us/a-helicoper-pilots-philanthropic-efforts-devoted-to-hurricane-helene-rescue-mission-5737642)
-* [Missiles Hit Israeli City of Haifa; Netanyahu Calls on Lebanon to Break With Hezbollah](https://www.theepochtimes.com/world/missiles-hit-israeli-city-of-haifa-netanyahu-calls-on-lebanon-to-break-with-hezbollah-5737839)
-    
-    6hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
-    
-    [![Missiles Hit Israeli City of Haifa; Netanyahu Calls on Lebanon to Break With Hezbollah](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Missiles Hit Israeli City of Haifa; Netanyahu Calls on Lebanon to Break With Hezbollah](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738044-GettyImages-2176657166-205x123.jpg.webp)](https://www.theepochtimes.com/world/missiles-hit-israeli-city-of-haifa-netanyahu-calls-on-lebanon-to-break-with-hezbollah-5737839)
-* [Brazil’s Supreme Court Orders X to Be Reinstated in Brazil](https://www.theepochtimes.com/us/brazils-supreme-court-orders-x-to-be-reinstated-in-brazil-5737871)
-    
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Brazil’s Supreme Court Orders X to Be Reinstated in Brazil](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Brazil’s Supreme Court Orders X to Be Reinstated in Brazil](https://img.theepochtimes.com/assets/uploads/2024/09/04/id5718256-GettyImages-2147789842KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/brazils-supreme-court-orders-x-to-be-reinstated-in-brazil-5737871)
-* [Some Mass Shooting Survivors Want More Good Guys With Guns](https://www.theepochtimes.com/us/some-mass-shooting-survivors-want-more-good-guys-with-guns-5736474)
-    
-    8hr By [Michael Clements](https://www.theepochtimes.com/author/michael-clements)
-    
-    [![Some Mass Shooting Survivors Want More Good Guys With Guns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Some Mass Shooting Survivors Want More Good Guys With Guns](https://img.theepochtimes.com/assets/uploads/2020/02/11/GettyImages-872259694-205x123.jpg.webp)](https://www.theepochtimes.com/us/some-mass-shooting-survivors-want-more-good-guys-with-guns-5736474)
-* [Afghan National Arrested in Oklahoma for Alleged ISIS-Linked Election Day Attack Plot](https://www.theepochtimes.com/us/afghan-national-arrested-in-oklahoma-for-alleged-isis-linked-election-day-attack-plot-5737971)
-    
-    8hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![Afghan National Arrested in Oklahoma for Alleged ISIS-Linked Election Day Attack Plot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Afghan National Arrested in Oklahoma for Alleged ISIS-Linked Election Day Attack Plot](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738032-FBI-arrest-AP24283022504847-205x123.jpg.webp)](https://www.theepochtimes.com/us/afghan-national-arrested-in-oklahoma-for-alleged-isis-linked-election-day-attack-plot-5737971)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
