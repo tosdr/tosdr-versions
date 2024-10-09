@@ -1,16 +1,19 @@
+ 
+
 * Es noticia:
-* [Alcaraz - Monfils](https://www.marca.com/tenis/masters-1000-shangai/carlos-alcaraz-gael-monfils/2024/10/09/04_0412_20241009_115-directo.html)
+* [Slaughter arrestro](https://www.marca.com/baloncesto/2024/10/09/orden-arresto-marcus-slaughter-real-madrid-podria-perder-dos-titulos.html)
 * [Partidos Copa del Rey hoy](https://www.marca.com/futbol/copa-rey/2024/10/09/67055e28ca474105098b4594.html)
-* [Mbappé](https://www.marca.com/futbol/real-madrid/2024/10/09/67054f6f268e3e8b758b4573.html)
-* [Luis de la Fuente renovación](https://www.marca.com/futbol/seleccion/2024/10/09/6705b7d446163f1f798b45bd.html)
-* [Aficionados Valencia](https://www.marca.com/futbol/valencia/2024/10/09/6706136a268e3e40488b45d0.html)
+* [Alonso F1 México](https://www.marca.com/motor/formula1/gp-mexico/2024/10/09/670689ac46163f2f958b4591.html)
+* [Sorteo Copa del Rey cuándo es](https://www.marca.com/futbol/copa-rey/2024/10/09/67065ac1268e3e54208b459f.html)
+* [Manchester City - Barcelona femenino](https://www.marca.com/futbol/futbol-femenino/champions-league/2024/10/09/6705499346163ff1838b458f.html)
+* [Broncano](https://www.marca.com/tiramillas/television/2024/10/09/6706885946163f32238b4587.html)
 * [Alexander-Arnold](https://www.marca.com/futbol/premier-league/2024/10/09/6705fdc1268e3ee0098b45e3.html)
-* [Alvise](https://www.marca.com/tiramillas/television/2024/10/09/67061f0846163f0a638b45c5.html)
+* [Simeone](https://www.marca.com/futbol/futbol-internacional/2024/10/09/6706500646163faa798b4583.html)
 * [Enric Mas](https://www.marca.com/ciclismo/2024/10/09/67058adfca4741aa1a8b459b.html)
-* [Piratería fútbol](https://www.marca.com/futbol/primera-division/2024/10/08/6705396146163fefa08b4577.html)
 * [Moneda 2 euros](https://www.marca.com/tiramillas/actualidad/2024/10/09/67061268ca4741b2698b45b8.html)
 * [Alquiler](https://www.marca.com/tiramillas/actualidad/economia/2024/10/08/67055a8546163fefa08b4592.html)
 * [Jorge Rey](https://www.marca.com/tiramillas/actualidad/tiempo/2024/10/08/6704e827ca474111468b45d0.html)
+* [Broncano](https://www.marca.com/tiramillas/television/2024/10/09/6706885946163f32238b4587.html)
 * [España - Kazajistán TV](https://www.marca.com/futbol/europeo-sub-21/2024/10/07/6703bb1d46163fea0d8b45dd.html)
 * [España - Dinamarca cuándo es](https://www.marca.com/futbol/seleccion/2024/10/06/6702747b22601d86798b457b.html)
 * [Precio luz hoy](https://www.marca.com/tiramillas/actualidad/economia/2024/10/08/67055bc222601d52238b45aa.html)
@@ -18,6 +21,7 @@
 * [Clasificación Liga](https://www.marca.com/futbol/primera-division/clasificacion.html)
 * [LaLiga EA Sports](https://www.marca.com/futbol/primera-division.html)
 * [Copa del Rey](https://www.marca.com/futbol/copa-rey.html)
+* [Hurricane Milton LIVE](https://www.marca.com/en/lifestyle/us-news/2024/10/09/670649decf4b11615bcb7726-live.html)
 
 [Portada de Marca](https://www.marca.com/)
 
@@ -51,12 +55,8 @@ Confirmar
     * [Agenda TV](https://www.marca.com/programacion-tv.html?intcmp=MENUDEST&s_kw=agenda-tv)
 * MásCerrar
     
-    18 de enero de 2022Actualizado a las 10:27 h.
+    09 de octubre de 2024Actualizado a las 14:40 h.
     
-
-**Buscar**
-
-_Cerrar_
 
 * [Portada](https://www.marca.com/?intcmp=MENUMIGA&s_kw=home "MARCA.com")
 * Volver a:[Información corporativa](https://www.marca.com/corporativo/terminos-condiciones-uso.html?intcmp=MENUMIGA&s_kw=informacion-corporativa)
@@ -241,11 +241,6 @@ Política de privacidad de Unidad Editorial
     
     Avenida de San Luis, 25 28033 MADRID
     
-    Atención al usuario
-    -------------------
-    
-    902 996 111
-    
 
 Otras webs de Unidad Editorial
 
@@ -285,7 +280,7 @@ Otras webs de Unidad Editorial
 * [Diario Médico](https://www.diariomedico.com/ "Abrir en ventana nueva")
 * [Expansión y Empleo](https://www.expansion.com/expansion-empleo.html "Abrir en ventana nueva")
 
-* © Marzo 2023 Unidad Editorial Información Deportiva, S.L.U. Todos los derechos reservados.
+* © Octubre 2024 Unidad Editorial Información Deportiva, S.L.U. Todos los derechos reservados.
     
 * [Política de cookies](https://www.marca.com/cookies.html)
 * [Administrar UTIQ](https://www.marca.com/cookies-servicio-utiq.html)
@@ -533,7 +528,3 @@ Síguenos en
     * [París](https://www.marca.com/coches-y-motos/salon-automovil-paris.html?intcmp=MENUPROD&s_kw=paris)
 * Y además
     * [Accesorios](https://www.marca.com/coches-y-motos/accesorios.html?intcmp=MENUPROD&s_kw=accesorios)
-
-[Suscríbete a MARCA en Orbyt con un 20% de descuento anual Lo quiero](https://www.marca.com/deporte/suscripciones/ofertas/?intcmp=portada_ma_orbyt)
-
-![](https://e00-marca.uecdn.es/deporte/suscripciones/ofertas/)
