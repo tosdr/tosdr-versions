@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
+* [programming eprom games 8k](https://www.msx.org/forum/msx-talk/hardware/programming-eprom-games-8k "programming eprom games 8k")
+* [Darwin demo by USE Crackings](https://www.msx.org/forum/msx-talk/software/darwin-demo-by-use-crackings "Darwin demo by USE Crackings")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=67 "WonderTANG! Who wants to juice up your MSX?")
 * [MSX2 disk menu, oasis?](https://www.msx.org/forum/msx-talk/software/msx2-disk-menu-oasis "MSX2 disk menu, oasis?")
 * [Aleste 2 manual automated translation](https://www.msx.org/forum/msx-talk/general-discussion/aleste-2-manual-automated-translation?page=1 "Aleste 2 manual automated translation")
 * [A new MSX (3?) for 2022 ?](https://www.msx.org/forum/msx-talk/general-discussion/a-new-msx-3-for-2022?page=28 "A new MSX (3?) for 2022 ?")
 * [Xanadu questions](https://www.msx.org/forum/msx-talk/software-and-gaming/xanadu-questions?page=2 "Xanadu questions")
 * [Konami's F1 Spirit 3D cable](https://www.msx.org/forum/development/msx-development/konamis-f1-spirit-3d-cable?page=1 "Konami's F1 Spirit 3D cable")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=67 "WonderTANG! Who wants to juice up your MSX?")
 * [Firebird T-shirt](https://www.msx.org/forum/msx-talk/off-topic/firebird-t-shirt "Firebird T-shirt")
-* [programming eprom games 8k](https://www.msx.org/forum/msx-talk/hardware/programming-eprom-games-8k "programming eprom games 8k")
 * [\[Nifty\] Tearless Flickerfree Screen Updating](https://www.msx.org/forum/msx-talk/development/nifty-tearless-screen-updating?page=1 "[Nifty] Tearless Flickerfree Screen Updating")
 * [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 * [HB-F1XD reboots/freezes in basic](https://www.msx.org/forum/msx-talk/hardware/hb-f1xd-rebootsfreezes-in-basic?page=3 "HB-F1XD reboots/freezes in basic")
-* [Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)](https://www.msx.org/forum/msx-talk/hardware/possible-vdp-issue-with-sanyo-wavy-35-sanyo-phc-35j?page=1 "Possible VDP issue with Sanyo Wavy 35 (Sanyo PHC-35J)")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
