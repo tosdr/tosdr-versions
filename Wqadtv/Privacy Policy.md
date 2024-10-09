@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_360x203.jpg)](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
         
-        #### [FEMA opens disaster recovery center for victims of Kewanee storms](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1) [![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_360x203.jpg)](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
+        #### [FEMA opens disaster recovery center for victims of Kewanee storms](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
         
-        #### [FEMA opens disaster recovery center in Kewanee](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
         
         #### [Electrical workers from Bureau County bring donations to Helene victims in North Carolina](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
@@ -57,14 +56,18 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_360x203.jpg)](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_360x203.jpg)](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
         
-        #### [FEMA opens disaster recovery center for victims of Kewanee storms](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1) [![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_360x203.jpg)](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
+        #### [NASA video shows Hurricane Milton from space as it nears Florida](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1) [![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_360x203.jpg)](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
         
-        #### [FEMA opens disaster recovery center in Kewanee](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
+        #### [NASA shares video showing Hurricane Milton from space](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1) [![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_360x203.jpg)](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
         
-        #### [Electrical workers from Bureau County bring donations to Helene victims in North Carolina](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
+        #### [NASA astronaut shares timelapse video of Hurricane Milton from space](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1) [![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_360x203.jpg)](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
+        
+        #### [VIDEO: Hurricane Milton as seen from the International Space Station](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/cbbc5e02-882f-495c-b953-f011522142e3/20241009T133033/cbbc5e02-882f-495c-b953-f011522142e3_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/cbbc5e02-882f-495c-b953-f011522142e3/20241009T133033/cbbc5e02-882f-495c-b953-f011522142e3_360x203.jpg)](https://www.wqad.com/article/news/nation-world/waffle-house-index-helps-fema-judge-storm-severity/507-b1414525-6029-433a-9288-1425c90adbba)
+        
+        #### [How Waffle House helps Southerners — and FEMA — judge a storm's severity](https://www.wqad.com/article/news/nation-world/waffle-house-index-helps-fema-judge-storm-severity/507-b1414525-6029-433a-9288-1425c90adbba)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -88,9 +91,9 @@ Navigation
 
 Davenport, IA »
 
-49°
+73°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
