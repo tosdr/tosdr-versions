@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We are what we celebrate”
+“ ... when you see something that is not right, not fair, not just, say something, do something. Get in trouble, good trouble, necessary trouble”
 
-[Dean Kamen](http://en.wikipedia.org/wiki/Dean_Kamen)
+[John Lewis](https://en.wikipedia.org/wiki/John_Lewis_(civil_rights_leader))
 
 [](https://www.adafruit.com/about)
 
