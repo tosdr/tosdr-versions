@@ -205,13 +205,11 @@ No thanks, I want to stay on Vodafone.com
             * [Managing human rights](https://www.vodafone.com/sustainable-business/operating-responsibly/human-rights/managing-human-rights)
             * [Our impacts](https://www.vodafone.com/sustainable-business/operating-responsibly/human-rights/our-impacts)
             
-        * [Handling government demands](https://www.vodafone.com/sustainable-business/operating-responsibly/handling-government-demands)
+        * [Law Enforcement Assistance](https://www.vodafone.com/sustainable-business/maintaining-trust/law-enforcement-assistance)
             
-            * [Go to **Handling government demands**](https://www.vodafone.com/sustainable-business/operating-responsibly/handling-government-demands)
-            * [Challenges for operators](https://www.vodafone.com/sustainable-business/operating-responsibly/handling-government-demands/challenges-for-operators)
-            * [Managing government demands](https://www.vodafone.com/sustainable-business/operating-responsibly/handling-government-demands/managing-government-demands)
-            * [Our principles and policies](https://www.vodafone.com/sustainable-business/operating-responsibly/handling-government-demands/our-principles-and-policies)
-            * [Government assistance demands reporting](https://www.vodafone.com/about-vodafone/reporting-centre/government-assistance-demands-reporting)
+            * [Go to **Law Enforcement Assistance**](https://www.vodafone.com/sustainable-business/maintaining-trust/law-enforcement-assistance)
+            * [Challenges for operators](https://www.vodafone.com/sustainable-business/maintaining-trust/law-enforcement-assistance/challenges-for-operators)
+            * [Our principles and policies](https://www.vodafone.com/sustainable-business/maintaining-trust/law-enforcement-assistance/our-principles-and-policies)
             
         * [Responsible supply chain](https://www.vodafone.com/sustainable-business/operating-responsibly/responsible-supply-chain)
             
