@@ -318,6 +318,13 @@ We can be contacted by various means: – you can send us an email; – you can 
 
 In all these cases, we process your personal data for the purposes of responding to your inquiry and administering it. By contacting us you consent to your personal data processing, therefore the legal basis for your data processing in this case is a consent.
 
+Personal data processing when using our live chat platform
+----------------------------------------------------------
+
+When you engage with our live chat platform, we use a third-party service, DeepL translator, to facilitate communication by translating the text you submit. We process the following data: 1) messages and other text-based communication that you provide through the live chat; 2) any personal data included in those communications, such as your name or contact details. The text you submit is processed by DeepL for the purpose of real-time translation to facilitate better communication between you and our support team. By using the live chat and submitting text for translation, you provide your explicit consent for the processing of your personal data. You can withdraw your consent at any time by discontinuing the use of the live chat function. Your data is shared with DeepL SE, the service provider of the translation tool. DeepL processes the text submitted during live chat interactions solely for the purpose of translation. DeepL’s privacy policy can be reviewed at https://www.deepl.com/en/privacy which outlines how they process and protect personal data.
+
+We do not retain any translated data beyond the duration of the live chat session. The text submitted is processed only for the duration of the chat interaction.
+
   
 
 Personal data processing for marketing purposes
@@ -829,7 +836,7 @@ The content of the table above is for your general information and use only. Coo
 
   
 
-**This Policy was updated on: July 10th, 2024**
+**This Policy was updated on: October 9th, 2024**
 
 ![](https://images.smartproxy.com/sp_logo_horizontal_45_d6f4e3b06a/sp_logo_horizontal_45_d6f4e3b06a.svg)
 
