@@ -1,4 +1,4 @@
-be\_ixf;ym\_202410 d\_08; ct\_50
+be\_ixf;ym\_202410 d\_09; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26
 * https://cybersecurity.att.com/terms/website
@@ -171,9 +171,9 @@ be\_ixf;ym\_202410 d\_08; ct\_50
             
             Blog: Security Essentials
             
-            ##### Reducing Alert Fatigue by Streamlining SOC Processes
+            ##### Enhancing Cyber Resilience in the Financial Services Industry
             
-            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/reducing-alert-fatigue-by-streamlining-soc-processes)
+            [Learn more](https://cybersecurity.att.com/blogs/security-essentials/enhancing-cyber-resilience-in-the-financial-services-industry)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -511,13 +511,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Katrina Thompson](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Katrina Thompson
+#### Theresa Lanowitz
 
-Oct 7, 2024
+Oct 9, 2024
 
-### [Reducing Alert Fatigue by Streamlining SOC Processes](https://cybersecurity.att.com/blogs/security-essentials/reducing-alert-fatigue-by-streamlining-soc-processes)
+### [Enhancing Cyber Resilience in the Financial Services Industry](https://cybersecurity.att.com/blogs/security-essentials/enhancing-cyber-resilience-in-the-financial-services-industry)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
