@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 09, 2024](https://www.japantimes.co.jp/archive/2024/10/09/ "archive page")
+[October 10, 2024](https://www.japantimes.co.jp/archive/2024/10/10/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -130,36 +130,28 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[New Cabinet photo on government website had minor edits, Hayashi admits](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
-
-  [![An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426402.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.")](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
-
 [Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-[Experts move to allay replicon COVID shot fears in Japan amid backlash](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
-
-  [![A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426378.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.")](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
-
-[Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-pm-ishiba-asian-nato/ "Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut")
-
-  [![Prime Minister Shigeru Ishiba has floated an idea of creating an Asian version of the NATO security framework.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426575.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba has floated an idea of creating an Asian version of the NATO security framework.")](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-pm-ishiba-asian-nato/ "Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut")
 
 [Hedge funds warming to yen caught out by biggest drop in 15 years](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
 
   [![Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426578.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.")](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
 
+[Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-pm-ishiba-asian-nato/ "Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut")
+
+  [![Prime Minister Shigeru Ishiba has floated an idea of creating an Asian version of the NATO security framework.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426575.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba has floated an idea of creating an Asian version of the NATO security framework.")](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-pm-ishiba-asian-nato/ "Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut")
+
+[Japan records highest number of bankruptcies in a decade as costs rise](https://www.japantimes.co.jp/business/2024/10/08/economy/japan-bankruptcies-high/ "Japan records highest number of bankruptcies in a decade as costs rise")
+
+  [![Japan saw the highest number of bankruptcies since 2013 in the six months through September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426646.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Japan saw the highest number of bankruptcies since 2013 in the six months through September.")](https://www.japantimes.co.jp/business/2024/10/08/economy/japan-bankruptcies-high/ "Japan records highest number of bankruptcies in a decade as costs rise")
+
+[After Helene devastation, over 1 million people flee path of Hurricane Milton](https://www.japantimes.co.jp/news/2024/10/09/world/flee-hurricane-milton-traffic-fuel/ "After Helene devastation, over 1 million people flee path of Hurricane Milton")
+
+  [![People line up to buy wood to protect their assets before the hurricane Milton, in Orlando, Florida, on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426718.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "People line up to buy wood to protect their assets before the hurricane Milton, in Orlando, Florida, on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/09/world/flee-hurricane-milton-traffic-fuel/ "After Helene devastation, over 1 million people flee path of Hurricane Milton")
+
 Editors' Picks
 --------------
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[New Cabinet photo on government website had minor edits, Hayashi admits](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
-
-By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426402.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "An Oct. 1 picture of Prime Minister Shigeru Ishiba and his Cabinet posted on the website of the Prime Minister's Office (right) appears slightly different from one taken by a media agency (left). Chief Cabinet Secretary Yoshimasa Hayashi admitted on Monday that the photo underwent minor digital edits before being uploaded to the government website.")](https://www.japantimes.co.jp/news/2024/10/07/japan/politics/cabinet-pic/ "New Cabinet photo on government website had minor edits, Hayashi admits")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -169,13 +161,13 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Experts move to allay replicon COVID shot fears in Japan amid backlash](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
+[Hedge funds warming to yen caught out by biggest drop in 15 years](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
 
-By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
+By [Ruth Carson](https://www.japantimes.co.jp/author/1509/ruth-carson/ "Ruth Carson") and [Mia Glass](https://www.japantimes.co.jp/author/3540/mia-glass/ "Mia Glass")  
 
-  [![A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426378.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.")](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
+  [![Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426578.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.")](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -187,11 +179,19 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Hedge funds warming to yen caught out by biggest drop in 15 years](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
+[Japan records highest number of bankruptcies in a decade as costs rise](https://www.japantimes.co.jp/business/2024/10/08/economy/japan-bankruptcies-high/ "Japan records highest number of bankruptcies in a decade as costs rise")
 
-By [Ruth Carson](https://www.japantimes.co.jp/author/1509/ruth-carson/ "Ruth Carson") and [Mia Glass](https://www.japantimes.co.jp/author/3540/mia-glass/ "Mia Glass")  
+By [Erica Yokoyama](https://www.japantimes.co.jp/author/1058/erica-yokoyama/ "Erica Yokoyama")  
 
-  [![Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426578.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.")](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
+  [![Japan saw the highest number of bankruptcies since 2013 in the six months through September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426646.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Japan saw the highest number of bankruptcies since 2013 in the six months through September.")](https://www.japantimes.co.jp/business/2024/10/08/economy/japan-bankruptcies-high/ "Japan records highest number of bankruptcies in a decade as costs rise")
+
+[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
+
+[After Helene devastation, over 1 million people flee path of Hurricane Milton](https://www.japantimes.co.jp/news/2024/10/09/world/flee-hurricane-milton-traffic-fuel/ "After Helene devastation, over 1 million people flee path of Hurricane Milton")
+
+By [Evan Garcia](https://www.japantimes.co.jp/author/6104/evan-garcia/ "Evan Garcia")  
+
+  [![People line up to buy wood to protect their assets before the hurricane Milton, in Orlando, Florida, on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426718.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "People line up to buy wood to protect their assets before the hurricane Milton, in Orlando, Florida, on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/09/world/flee-hurricane-milton-traffic-fuel/ "After Helene devastation, over 1 million people flee path of Hurricane Milton")
 
 Podcast
 -------
@@ -212,9 +212,9 @@ By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ 
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -254,25 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Expert calls for new chip research institute near Tokyo](https://www.japantimes.co.jp/business/2024/10/09/tech/expert-chip-institute/ "Expert calls for new chip research institute near Tokyo")
+
+3 hours ago
+
+[Wang tells Iwaya he hopes for 'progress' in China-Japan ties](https://www.japantimes.co.jp/news/2024/10/09/japan/wang-iwaya-talks/ "Wang tells Iwaya he hopes for 'progress' in China-Japan ties")
+
+4 hours ago
+
+[Trio of scientists win chemistry Nobel for work on the structure of proteins](https://www.japantimes.co.jp/news/2024/10/09/world/science-health/nobel-prize-chemistry/ "Trio of scientists win chemistry Nobel for work on the structure of proteins")
+
+5 hours ago
+
 [LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ldp-not-endorsing-12-politicians/ "LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election")
 
-22 mins ago
+6 hours ago
 
 [Opposition clashes with Ishiba over political reform](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ishiba-noda-debate/ "Opposition clashes with Ishiba over political reform")
 
-52 mins ago
-
-[Former PM Taro Aso calls Taiwan a ‘country' — much to China's chagrin](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/taro-aso-taiwan-country/ "Former PM Taro Aso calls Taiwan a ‘country' — much to China's chagrin")
-
-57 mins ago
-
-[University of Tokyo moves up a spot to 28th in World University Rankings](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
-
-1 hours ago
-
-[ClassPass lands in Japan with eye on domestic fitness market and visitors](https://www.japantimes.co.jp/business/2024/10/09/companies/classpass-japanese-market/ "ClassPass lands in Japan with eye on domestic fitness market and visitors")
-
-1 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
