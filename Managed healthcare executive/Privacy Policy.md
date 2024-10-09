@@ -332,6 +332,8 @@ Privacy
 
 [home](https://www.managedhealthcareexecutive.com/) / privacy
 
+Please enable Javascript
+
 [About Us](https://www.managedhealthcareexecutive.com/about)
 
 [Advertise](https://www.managedhealthcareexecutive.com/advertise)
