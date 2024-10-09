@@ -1,4 +1,4 @@
-![](https://ct.pinterest.com/v3/?event=init&tid=2613407103434&noscript=1)            
+![](https://ct.pinterest.com/v3/?event=init&tid=2613407103434&noscript=1)           
 
 [SoloKeys Europe now online! Order your Solo 2 at SoloKeys.eu today!!!](https://solokeys.eu/)
 
