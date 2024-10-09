@@ -179,8 +179,6 @@ Bring Your Text to Life With Our Voice Solutions
         
         Latviešu valoda](https://www.readspeaker.com/lv/)
 
-![ReadSpeaker's logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20279%2038'%3E%3C/svg%3E)
-
 ![ReadSpeaker's logo](https://www.readspeaker.com/wp-content/themes/hoyaspeech/assets/dist/img/logo-no-safezone-white.svg?width=279&height=38&aspect_ratio=279:38)
 
 Company
@@ -212,17 +210,11 @@ Solutions
 
 * [TTS Languages and Voices](https://www.readspeaker.com/languages-voices/)
 
-[![WCAG Ilunion Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%2035'%3E%3C/svg%3E)
+[![WCAG Ilunion Logo](https://www.readspeaker.com/wp-content/uploads/wcag-ilunion-21-footer.jpg?width=120&height=35&aspect_ratio=120:35)](https://www.readspeaker.com/wcag-doc/)
 
-![WCAG Ilunion Logo](https://www.readspeaker.com/wp-content/uploads/wcag-ilunion-21-footer.jpg?width=120&height=35&aspect_ratio=120:35)](https://www.readspeaker.com/wcag-doc/)
+[![WCAG W3C Logo](https://www.readspeaker.com/wp-content/uploads/2023/10/W3C-logo-white.svg?width=120&height=120&aspect_ratio=120:120)](https://www.readspeaker.com/accessibility-statement/)
 
-[![WCAG W3C Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20120'%3E%3C/svg%3E)
-
-![WCAG W3C Logo](https://www.readspeaker.com/wp-content/uploads/2023/10/W3C-logo-white.svg?width=120&height=120&aspect_ratio=120:120)](https://www.readspeaker.com/accessibility-statement/)
-
-[![Ace Ed Awards Winner Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20120'%3E%3C/svg%3E)
-
-![Ace Ed Awards Winner Logo](https://www.ace-ed.org/wp-content/uploads/2023/12/2023-EIE-winner.png?width=120&height=120&aspect_ratio=120:120)](https://www.ace-ed.org/2023-excellence-in-equity-awards-industry-winners/)
+[![Ace Ed Awards Winner Logo](https://www.ace-ed.org/wp-content/uploads/2023/12/2023-EIE-winner.png?width=120&height=120&aspect_ratio=120:120)](https://www.ace-ed.org/2023-excellence-in-equity-awards-industry-winners/)
 
 [![ISO 27001:2013 Certification](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%20120'%3E%3C/svg%3E)
 
