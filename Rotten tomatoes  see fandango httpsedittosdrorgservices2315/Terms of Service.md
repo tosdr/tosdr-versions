@@ -17,6 +17,9 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Wicked Exclusive Collector's Pin Pack** Purchase a ticket to see Wicked in IMAX and get
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Wicked** Chance to win a trip to the Premiere of the film
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **It's Apple Pay Wednesday!** Use Apple Pay to get $5 off your order
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 25% off on all Andrea Bocelli products** When you buy a ticket to Andrea Bocelli 30: The
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Flowers + Movies = Perfect Halloween** Get $40 off spooky flowers with ticket purchase.
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
@@ -59,6 +62,22 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
+* [Wicked Exclusive Collector's Pin Pack image link ![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/36b2d7c0-82b0-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wickedimax-292x118.png)](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer) 
+    
+    ### Wicked Exclusive Collector's Pin Pack
+    
+    Purchase a ticket to see Wicked in IMAX and get a Shiz University and IMAX pin! While supplies last.
+    
+    [BUY NOW](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer)
+    
+* [Chance to win a trip to the Premiere of the film! image link ![Chance to win a trip to the Premiere of the film!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/6049a9b0-82b0-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes?cmp=TARS~FANDANGO~WickedPremiereSweeps_Footer) 
+    
+    ### Chance to win a trip to the Premiere of the film!
+    
+    Buy a ticket to Wicked for a chance to win a trip to the Premiere of the film!
+    
+    [BUY TICKETS](https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes?cmp=TARS~FANDANGO~WickedPremiereSweeps_Footer)
+    
 * [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/1b374770-82af-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-applepay-week14-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce) 
     
     ### APPLE PAY WEDNESDAY
@@ -75,29 +94,19 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer)
     
-* [Save 25% off on all Andrea Bocelli products image link ![Save 25% off on all Andrea Bocelli products](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b5147840-82af-11ef-a07e-5b03d6159fe4--homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_Footer) 
-    
-    ### Save 25% off on all Andrea Bocelli products
-    
-    Buy a Ticket, Save 25% off on Andrea Bocelli products at Verve Records Store.
-    
-    [BUY TICKETS](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_Footer)
-    
-* [Flowers + Movies = Perfect Halloween image link ![Flowers + Movies = Perfect Halloween](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ef14aa80-7f8d-11ef-8321-2b978811c524--fan-globalofferunit-homepage-bouqshalloween-292x118-v2b.png)](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer) 
-    
-    ### Flowers + Movies = Perfect Halloween
-    
-    Get $40 off Spooky Flowers\* with your ticket purchase from 10/1 - 10/31. Don't miss out on this limited time offer!
-    
-    [LEARN MORE](https://www.fandangomovietickets.com/bouqshalloween2024/?cmp=TARS~FANDANGO~Bouqs_Halloween_2024_Footer)
-    
 
 New & Coming soon
 -----------------
 
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234523/FND_poster_Wicked-Presale.jpg)
+    
+    Wicked (2024)](https://www.fandango.com/wicked-2024-234523/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235359/WRB_Tree1Sheet6_RGB_1.jpg)
     
     The Wild Robot (2024)](https://www.fandango.com/the-wild-robot-2024-235359/movie-overview)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234519/FND_poster_Gladiator2-Presale.jpg)
+    
+    Gladiator II (2024)](https://www.fandango.com/gladiator-ii-2024-234519/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234515/BTLBTL_VERT_MAIN_2764x4096_DOM_REV.jpg)
     
     Beetlejuice Beetlejuice (2024)](https://www.fandango.com/beetlejuice-beetlejuice-2024-234515/movie-overview)
@@ -107,12 +116,6 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234524/TF1_DOM_Online_Payoff_1-Sheet_05_FIN5_1.jpg)
     
     Transformers One (2024)](https://www.fandango.com/transformers-one-2024-234524/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234516/DeapoolAndWolverine_2024.jpg)
-    
-    Deadpool & Wolverine (2024)](https://www.fandango.com/deadpool-and-wolverine-2024-234516/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235827/SNE_Tsr1Sheet5_Comp93_RGB_2.jpg)
-    
-    Speak No Evil (2024)](https://www.fandango.com/speak-no-evil-2024-235827/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/237333/myheroacademia-yourenext-posterart.jpg)
     
     My Hero Academia: You're Next (2024)](https://www.fandango.com/my-hero-academia-youre-next-2024-237333/movie-overview)
@@ -192,9 +195,39 @@ New & Coming soon
 
 Close
 
+![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/cms/assets/2a60c6f0-82bd-11ef-8321-2b978811c524--fan-globalnavbar-wickedimax-343x362.jpg)
+
+#### Purchase a ticket to Wicked in IMAX and get a Wicked Collector's Pin Pack! While supplies lasts. See terms for details.
+
+Limited time offer. While supplies last. Log into your account on Fandango.com or the Fandango app and purchase at least one (1) IMAX movie ticket to ‘Wicked’ between 9:00am PT on 10/09/24 and 11:59pm PT on 12/31/24. Purchaser will receive a post purchase email containing one (1) Promotional Code (“Code”) that is good for the redemption of the Wicked Collector’s Pin Pack. Pin Pack will ship in November. There is a limited quantity of Codes available in this promotion. Codes will stop being distributed on the earlier of (i) the Code distribution limit being reached, (ii) Wicked no longer being in IMAX theaters, or (iii) 11:59pm PT on 12/31/24. There is a limited quantity of Code redemptions available in this promotion. Code expires, and can no longer be used, when the limit of Code redemptions has been reached, or at 11:59pm PT on 1/31/25, whichever comes first. Limit one Code per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer is subject to Fandango Terms and Policies and Privacy Policy at Terms and Policies at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_promomodule)
+
+### Special Offer
+
+Close
+
+![Buy a ticket to Wicked](https://images.fandango.com/cms/assets/e3e573f0-82bd-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-wicked-343x362.png)
+
+#### Buy a ticket to Wicked for a chance to win a trip to the Premiere of the film!
+
+"Full official rules here: https://nbcuni.sharepoint.com/:w:/s/MarketingHub/EduwQ9931CtOtL55pN916mEBDNo8AyGNxhToRXwsx7m92Q?e=xwbr8S Abbreviated: NO PURCHASE OR APP NECESSARY. Open to legal residents of the 50 United States and D.C., 18 years of age and older. Void where prohibited. Ends October 23, 2024. For Official Rules/Odds/Free Entry visit https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes. Sponsor: Fandango Media, LLC, 12180 Millennium Dr., Ste. 200, Playa Vista, CA, 90094 " [Learn More](https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes?cmp=TARS~FANDANGO~WickedPremiereSweeps_promomodule)
+
+### Apple Pay Wednesday
+
+Close
+
+![It's Apple Pay Wednesday!](https://images.fandango.com/cms/assets/812ef4b0-82be-11ef-a07e-5b03d6159fe4--fan-globalnavbar-applepay-week14-tickets-343x362.png)
+
+#### Today only! Save $5 off your order with Apple Pay.
+
+Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 10/9/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional Code APPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 10/9/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a registered mark of Apple Inc. [Buy Tickets](https://www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
+
+### Special Offer
+
+Close
+
 ![Save 25% off on all Andrea Bocelli products](https://images.fandango.com/cms/assets/9b07b1d0-82bc-11ef-a588-3b078e6b3d8a--fan-globalnavbar-andreabocelli-343x362.png)
 
-#### Buy a Ticket, Save 25% off on Andrea Bocelli products at Verve Records Store.
+#### Buy a Ticket, Save 25% off on Andrea Bocelli products at Verve Record Store.
 
 \*Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Andrea Bocelli 30: The Celebration’ between 9:00am PT on 10/8/24 and 11:59pm PT on 11/14/24 (the “Offer Period”). Purchaser will receive a post purchase email containing 1 Verve Records Store Promotional Code (“Code”) that is good for 25% off the purchase of all Andrea Bocelli products in the store. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. [Buy Tickets](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_promomodule)
 
