@@ -42,9 +42,9 @@ Close Dialog
 Privacy Policy
 ==============
 
-_Updated: September 2023_
+_Updated: September 2024_
 
-Ableton AG, Schönhauser Allee 6-7, D-10119 Berlin herewith informs you about the processing of personal data for which Ableton is the responsible controller according to the provisions of the EU General Data Protection Regulation (GDPR). Your data may also be processed by other companies belonging to the Ableton group, whereas such data processing is based on Adequacy Decisions by the EU Commission and EU standard contractual clauses (with additional safeguards where legally required).
+Ableton AG, Schönhauser Allee 6-7, D-10119 Berlin herewith informs you about the processing of personal data for which Ableton is the responsible controller according to the provisions of the EU General Data Protection Regulation (GDPR). Your data may also be processed by other companies belonging to the Ableton group, whereas such data processing is based on Adequacy Decisions by the EU Commission, EU Standard Contractual Clauses and/or the EU-US Data Privacy Framework (with additional safeguards where legally required).
 
 Apart from sending us a letter, you may contact us at any time via privacy\[at\]ableton\[dot\]com.
 
@@ -57,21 +57,20 @@ Below you can find the most important information on typical processing of your 
 3. [Newsletter Recipients](https://www.ableton.com/en/privacy-policy/#Newsletter_Recipients)
 4. [Survey, interview and usability test participants](https://www.ableton.com/en/privacy-policy/#Survey,_interview_and_usability_test_par)
 5. [Job Candidates](https://www.ableton.com/en/privacy-policy/#Job_Candidates)
-6. [Applicants and Participants of Loop](https://www.ableton.com/en/privacy-policy/#Applicants_and_Participants_of_Loop)
-7. [Help and Support Requesters](https://www.ableton.com/en/privacy-policy/#Help_and_Support_Requesters)
-8. [Ableton Forum Members](https://www.ableton.com/en/privacy-policy/#Ableton_Forum_Members)
-9. [Ableton Social Media Pages Visitors](https://www.ableton.com/en/privacy-policy/#Ableton_Social_Media_Pages_Visitors)
-10. [Communication Partners, Artists, Certified Trainers, Community Members, other Externals](https://www.ableton.com/en/privacy-policy/#Communication_Partners,_Artists,_Certifi)
-11. [Development Partners](https://www.ableton.com/en/privacy-policy/#Development_Partners)
-12. [Rights of Data Subjects and Further Information](https://www.ableton.com/en/privacy-policy/#Rights_of_Data_Subjects_and_Further_Info)
-13. [Information for Non-EU and US Residents](https://www.ableton.com/en/privacy-policy/#Information_for_Non-EU_and_US_Residents)
+6. [Help and Support Requesters](https://www.ableton.com/en/privacy-policy/#Help_and_Support_Requesters)
+7. [Ableton Forum Members](https://www.ableton.com/en/privacy-policy/#Ableton_Forum_Members)
+8. [Ableton Social Media Pages Visitors](https://www.ableton.com/en/privacy-policy/#Ableton_Social_Media_Pages_Visitors)
+9. [Communication Partners, Artists, Certified Trainers, Community Members, other Externals](https://www.ableton.com/en/privacy-policy/#Communication_Partners,_Artists,_Certifi)
+10. [Development Partners](https://www.ableton.com/en/privacy-policy/#Development_Partners)
+11. [Rights of Data Subjects and Further Information](https://www.ableton.com/en/privacy-policy/#Rights_of_Data_Subjects_and_Further_Info)
+12. [Information for Non-EU and US Residents](https://www.ableton.com/en/privacy-policy/#Information_for_Non-EU_and_US_Residents)
 
 1\. Website Visitors
 --------------------
 
 ### 1.1 Server-log data
 
-When using our websites, certain information is sent to the server of our websites by the browser used on your device for technical reasons. This data is stored and processed on our server.
+When using our websites, certain information is sent to the server of our websites by the browser used on your device for technical reasons. This data is stored and processed on our servers.
 
 (i) We process the following data for the purpose of providing the contents of the website that you have visited, to ensure the security of the IT infrastructure used, to correct errors, to enable and simplify searches on the website and to manage cookies.
 
@@ -102,7 +101,7 @@ We use so-called Consent Cookies to store your consent, possible right to withdr
 (ii) The processed data are:
 
 * HTTP data:  
-    HTTP data is protocol data that is technically generated when the website is visited via the Hypertext Transfer Protocol (Secure) (HTTP(S)): This includes IP address, type and version of your Internet browser, operating system used, the page visited, the page previously visited (referrer URL), date and time of the visit.
+    HTTP data is protocol data that is technically generated when the website is visited via the Hypertext Transfer Protocol (Secure) (HTTP(S)): This includes IP address, type and version of your Internet browser, operating system used, the page visited, the page previously visited (referrer URL) and date and time of the visit.
     
 * User decision on cookies:  
     User's decision on individual cookies or groups of cookies. Time of the decision and of the last visit.
@@ -112,7 +111,7 @@ We use so-called Consent Cookies to store your consent, possible right to withdr
 
 (iv) The data is actively provided by the user (decision on cookies) or automatically transmitted by the user's browser (protocol data, time stamp).
 
-(v) Recipients of the personal data are IT service providers which we use as processors within the framework of a data processing agreement.
+(v) Recipients of the personal data are IT service providers which we use as processors, respectively, within the framework of a data processing agreement.
 
 (vi) Information about your decision rejecting cookies is deleted at the end of the session. The remaining other data will be deleted after one year.
 
@@ -185,7 +184,7 @@ You can deactivate the data processing by Matomo at any time in our “[cookie s
 * Analytics measurement and report data: Data contained in aggregated segment and device-related reports by the Matomo web analysis tool based on a heatmap analysis and session recordings. These data include information where on a page you as website visitor tried to click, where you moved the mouse and how far down you scrolled as well as clicks, mouse movements, scrolls, window resizes, form interactions, and changes to the website. 
     
 
-(iii) The legal basis for the processing of the above mentioned data is your consent (Article 6 para. (1) (a) GDPR).
+(iii) The legal basis for the processing of the above-mentioned data is your consent (Article 6 para. (1) (a) GDPR).
 
 (iv) The data is automatically transmitted by the browser of the user.
 
@@ -244,7 +243,8 @@ We use the help desk software tool Zendesk on our Ableton Help Website. Zendesk 
 
 (iv) The data is automatically transmitted by the browser of the user.
 
-(v) The recipient of the data is Zendesk, Inc., 1019 Market Street, San Francisco, CA 94193, USA, which we use as processor within the framework of a data processing agreement. We have concluded the EU standard contractual clauses with Zendesk, Inc., so that Zendesk, Inc may only process your data for our purposes. In addition, Zendesk, Inc., has established Binding Corporate Rules (Article 42 para. (2) (b), 47 GDPR), which have been approved by the Irish data protection supervisory authority. If the aforementioned measures are not considered sufficient the data processing in the USA is based on your consent (Article 49 para. (1) (a) GDPR). It is possible that US authorities may access personal data without us or you being informed.
+(v) The recipient of the data is Zendesk, Inc., 1019 Market Street, San Francisco, CA 94193, USA, which we use as processor within the framework of a data processing agreement. We have concluded the EU standard contractual clauses with Zendesk, Inc., so that Zendesk, Inc may only process your data for our purposes. In addition, Zendesk, Inc., has established Binding Corporate Rules (Article 42 para. (2) (b), 47 GDPR), which have been approved by the Irish data protection supervisory authority. Further, Zendesk is part of the EU-US Data Privacy Framework.  
+If the aforementioned measures are not considered sufficient the data processing in the USA is based on your consent (Article 49 para. (1) (a) GDPR). It is possible that US authorities may access personal data without us or you being informed.
 
 (vi) The majority of data is deleted at the end of the session. The support preference settings are stored for one year. Aggregated data will not be deleted.
 
@@ -307,11 +307,9 @@ You can change the contact data, account settings and content preferences in you
 
 (v) We use service providers as processors within the framework of a data processing agreement for the provision of services, such as a service provider, which enables installment payments, as well as other services providers for the provision, maintenance and servicing of IT systems. Banks and payment providers may be recipients of data for the processing of payments and credit worthiness checks. In individual cases, data may be transferred to debt collection service providers, lawyers and courts.
 
-(vi) All data relevant to contracts and book keeping shall be stored for a period of ten calendar years after the contract’s end in accordance with tax and commercial law retention periods. Data that become relevant for a defense against possible claims are stored for three years (statutory limitation). If you do not want the analysis of the usage behavior and fault analysis of the software for product improvement, you can prevent this at any time by yourself in the software preferences; otherwise, such data is retained for up to two years. The data related to the skipping authentication cookie are stored up to two years.
+(vi) All data relevant to contracts and book-keeping shall be stored for a period of ten calendar years after the contract’s end in accordance with tax and commercial law retention periods. Data that become relevant for a defense against possible claims are stored for three years (statutory limitation). If you do not want the analysis of the usage behavior and fault analysis of the software for product improvement, you can prevent this at any time by yourself in the software preferences; otherwise, such data is retained for up to two years. The data related to the skipping authentication cookie are stored up to two years.
 
 (vii) The provision of data is obligatory for account users to create an Ableton account and for product customers based on statutory and contractual regulations. The contractual relationship cannot be established and carried out without providing data. If you choose to use this option data are necessary for skipping the authentication process on certain devices. You can withdraw such consent at any time via removing the skip authentication cookie (“abltrustagent-<hash>”) in the cookie settings in your browser.
-
-  
 
 3\. Newsletter Recipients
 -------------------------
@@ -339,13 +337,11 @@ If we have an existing contractual relationship with you and you did not opt-out
 
 (iv) You provide your contact details yourself when you engage into a contractual relationship with us or subscribe to the newsletter; the further data for analysis is transmitted automatically by your browser and email client.
 
-(v) We use service providers as processors within the framework of a data processing agreement for the provision and improvement of services, especially for the provision, maintenance and servicing of IT systems. In particular, we use Emarsys Interactive Services GmbH, Stralauer Platz 34, 10243 Berlin, Germany. We may also use the CRM (= customer relation management) service by salesforce.com GmbH, Erika-Mann-Strasse 31-37, 80636 Munich, Germany. We have concluded the EU standard contractual clauses with salesforce.com and salesforce.com may only process your data for our purposes. In addition, salesforce.com has established Binding Corporate Rules.
+(v) We use service providers as processors within the framework of a data processing agreement for the provision and improvement of services, especially for the provision, maintenance and servicing of IT systems. In particular, we use Emarsys Interactive Services GmbH, Stralauer Platz 34, 10243 Berlin, Germany. We may also use the CRM (= customer relation management) service by salesforce.com GmbH, Erika-Mann-Strasse 31-37, 80636 Munich, Germany. We have concluded the EU standard contractual clauses with salesforce.com and salesforce.com may only process your data for our purposes. In addition, salesforce.com has established Binding Corporate Rules and is part of the EU-US Data Privacy Framework.
 
 (vi) Data regarding newsletters will be deleted when you unsubscribe from the newsletters (for example via using the unsubscribe button in a newsletter or via the settings in your Ableton Account). Data with regard to opening and reading times, will usually be deleted or anonymized after 13 months. The remaining data will be deleted after one year if we are not required to keep your data for legitimate interests (such as follow up questions) or compliance with our legal retention obligations the data.
 
 (vii) Data is required to receive newsletters. Without providing data, they cannot be sent. A withdrawal of your consent is possible at any time. Please use the unsubscribe function in the newsletter.
-
-  
 
 4\. Survey, interview and usability test participants
 -----------------------------------------------------
@@ -358,13 +354,12 @@ If we have an existing contractual relationship with you and you did not opt-out
 
 (iv) You provide your name and the survey, interview and usability test content yourself when you take part in the survey, interview or usability test; the further data is transmitted automatically by your browser.
 
-(iv) We use service providers as processors within the framework of a data processing agreement for conducting and evaluating surveys, interviews and usability tests, as well as for the provision, maintenance and servicing of IT systems. A data transfer to the USA takes place, when we use the software of our service providers. Such service providers include Zoom Video Communications Inc., Zendesk, Inc., Momentive Europe UC, Zenloop GmbH and UserZoom, Inc. (including the Software EnjoyHQ) to conduct surveys and usability tests and improve Ableton products and support service. Zenloop is a business-to-business software-as-a-service platform that allows us to collect your survey responses and analyze feedback from our customers. This enables us to align and improve our needs of our customers and improve them. The basis for data processing in the USA is your consent (Art. 49 para. (1) (a) GDPR). In the USA, there is no level of data protection entirely equivalent to the provisions of the GDPR. It is possible that US authorities may access personal data without us or you being informed. An enforcement of your rights is probably possible only to a limited extent in the USA. You can withdraw your given consent at any time with effect for the future. The providers Zoom Video Communications Inc., Zendesk, Inc.,  Momentive Europe UC, and UserZoom, Inc. are bound by EU Standard Contractual Clauses, so that Zoom Video Communications Inc., Zendesk, Inc.,  Momentive Europe UC and UserZoom, Inc. may only process your data for our purposes. We also use the CRM (= customer relation management) service by salesforce.com GmbH. We have concluded the EU standard contractual clauses with salesforce.com and salesforce.com may only process your data for our purposes. In addition, salesforce.com has established Binding Corporate Rules.
+(v) We use service providers as processors within the framework of a data processing agreement for conducting and evaluating surveys, interviews and usability tests, as well as for the provision, maintenance and servicing of IT systems. A data transfer to the USA takes place, when we use the software of our service providers. Such service providers include Zoom Video Communications Inc., Zendesk, Inc., Momentive Europe UC, Zenloop GmbH and UserZoom, Inc. (including the Software EnjoyHQ) to conduct surveys and usability tests and improve Ableton products and support service. Zenloop is a business-to-business software-as-a-service platform that allows us to collect your survey responses and analyze feedback from our customers. This enables us to align and improve our needs of our customers and improve them. The basis for data processing in the USA is your consent (Art. 49 para. (1) (a) GDPR). In the USA, there is no level of data protection entirely equivalent to the provisions of the GDPR. It is possible that US authorities may access personal data without us or you being informed. An enforcement of your rights is probably possible only to a limited extent in the USA. You can withdraw your given consent at any time with effect for the future. The providers Zoom Video Communications Inc., Zendesk, Inc., Momentive Europe UC, and UserZoom, Inc. are bound by EU Standard Contractual Clauses, so that Zoom Video Communications Inc., Zendesk, Inc., Momentive Europe UC and UserZoom, Inc. may only process your data for our purposes. Further are Zoom Video Communications Inc., Zendesk and Inc., Momentive Europe UC part of the EU-US Data Privacy Framework.  
+We also use the CRM (= customer relation management) service by salesforce.com GmbH. We have concluded the EU standard contractual clauses with salesforce.com and salesforce.com may only process your data for our purposes. In addition, salesforce.com has established Binding Corporate Rules and Zendesk, Inc., Momentive Europe UC.
 
-(v) If we are not required to keep your data for follow up questions or compliance with our legal retention obligations, the data regarding surveys, other interviews or usability tests will usually be deleted once the user testing contract with you has ended or one year after having taken part in a survey, interview or test, at the latest. Data that become relevant for a defense against possible claims are stored for three years (statutory limitation). If you no longer wish to participate in surveys, you can use the unsubscribe button in the emails or change your settings in your Ableton Account under “Personal Details”.
+(vi) If we are not required to keep your data for follow up questions or compliance with our legal retention obligations, the data regarding surveys, other interviews or usability tests will usually be deleted once the user testing contract with you has ended or one year after having taken part in a survey, interview or test, at the latest. Data that become relevant for a defense against possible claims are stored for three years (statutory limitation). If you no longer wish to participate in surveys, you can use the unsubscribe button in the emails or change your settings in your Ableton Account under “Personal Details”.
 
-(vi) Taking part in surveys, interviews and usability tests is voluntary and not obligatory. The use of all Ableton products and services is possible without taking part in surveys, interviews and usability tests.
-
-  
+(vii) Taking part in surveys, interviews and usability tests is voluntary and not obligatory. The use of all Ableton products and services is possible without taking part in surveys, interviews and usability tests.
 
 5\. Job Candidates
 ------------------
@@ -383,32 +378,7 @@ If we have an existing contractual relationship with you and you did not opt-out
 
 (vii) The provision of personal data is required for the examination of the job application and, if applicable, the subsequent conclusion of an employment contract. Without personal data, a job application cannot be considered. However, applications can be submitted without providing the information that has been marked as voluntary. If you do not give your consent to the inclusion of your applicant data in our applicant pool, this will not result in disadvantages for you in future application procedures.
 
-  
-
-6\. Applicants and Participants of Loop
----------------------------------------
-
-(i) We process your data for the purpose of holding Loop Events, statistical evaluations about Loop Events, documenting the event by means of video and audio recordings and the use of the recordings made for press and public relations purposes. There are no plans to change these purposes. Additional information on the processing of data for the specific event can be found on the Loop website: [https://loop.ableton.com/privacy](https://loop.ableton.com/privacy)
-
-(ii) The processed data are: application and contact data (such as name, email), voluntary extra data, communication data, usage data, and video and audio recordings. Usually, you provide the data yourself when you apply for the Loop Event.
-
-(iii) The legal basis for the processing of personal data of prospective participants and participants in Loop Events is Article 6 para. (1) (b) GDPR (contract for the participation of the event) and Article 6 para. (1) (c) GDPR (statutory obligations, in particular tax and commercial law provisions). The legal basis for the production of video and audio recordings is Article 6 para. (1) (f) GDPR (legitimate interest in the documentation of the events organized by Ableton and the legitimate interest in the representation of Ableton through press and public relations work). The legal basis for the processing of special categories of data (such as health data necessary to consider for a Loop Event) is Article 6 (1) (a) in connection with Article 9 para. (2) (a) GDPR (consent). We may also process your mostly aggregated data with our legitimate interest of aligning and improving our products, services and customers’ needs (Article 6 para. (1) (f) GDPR).
-
-(iv) For the purpose of press and public relations work, the image and sound recordings produced can also be transmitted abroad to journalists, media companies, press and photo agencies as well as social media platforms and published by us in printed or digital form. We use data processors like service providers to organize Loop Events and for the provision of our services, in particular for the provision, maintenance and support of IT systems.
-
-Some of our service providers offer the possibility to register directly to their end user services. If you enter into such a direct contractual relationship with one of our service providers the service provider is the independent controller for all data processing under such contract.
-
-We use the CRM (= customer relation management) service by salesforce.com GmbH as a processor within the framework of a data processing agreement. We have concluded the EU standard contractual clauses with salesforce.com and salesforce.com may only process your data for our purposes. In addition, salesforce.com has established Binding Corporate Rules. For further information on data processing by the third party services (including your data being processed outside the EU) please refer to the Loop website [https://loop.ableton.com/privacy](https://loop.ableton.com/privacy) and privacy policies of the respective third party services.
-
-Banks and payment service providers may be recipients of data for the processing of payments. In individual cases, data may be transferred to debt collection service providers, lawyers and courts.
-
-(v) As applicable, if you have not received a ticket for a Loop Event via drawing/selection, your application data will be deleted immediately. Archived video and sound recordings of the event as well as publications are usually not deleted. All contractual data and data relevant for accounting are stored for 10 calendar years.
-
-(vi) Processing of data is necessary in order to attend Loop Events. If the personal data is not provided, you may not participate in Loop Events.
-
-  
-
-7\. Help and Support Requesters
+6\. Help and Support Requesters
 -------------------------------
 
 (i) The purpose of the processing is to provide you with a knowledge base and contact support regarding sales questions and technical support requests.
@@ -428,15 +398,13 @@ Banks and payment service providers may be recipients of data for the processing
 
 (iv) You provide the data yourself, if you send us an inquiry.
 
-(v) We use service providers as processors within the framework of a data processing agreement for the provision of services, especially for the provision, maintenance and servicing of IT systems. For online support requests the recipients of the data is Zendesk, Inc., which we use as processor. We have concluded the EU standard contractual clauses with Zendesk, Inc., so that Zendesk, Inc may only process your data for our purposes. In addition, Zendesk, Inc., has established Binding Corporate Rules. If the aforementioned measures are not considered sufficient the data processing in the USA is based on your consent (Article 49 para. (1) (a) GDPR). With your consent in individual cases, we may also use the service provider Zoom Video Communications, Inc.; see the details in section 4. It is possible that US authorities may access personal data without us or you being informed.
+(v) We use service providers as processors within the framework of a data processing agreement for the provision of services, especially for the provision, maintenance and servicing of IT systems. For online support requests the recipients of the data is Zendesk, Inc., which we use as processor. We have concluded the EU standard contractual clauses with Zendesk, Inc., so that Zendesk, Inc may only process your data for our purposes. In addition, Zendesk, Inc., has established Binding Corporate Rules and is part of the EU-US Data Privacy Framework. If the aforementioned measures are not considered sufficient the data processing in the USA is based on your consent (Article 49 para. (1) (a) GDPR). With your consent in individual cases, we may also use the service provider Zoom Video Communications, Inc.; see the details in section 4. It is possible that US authorities may access personal data without us or you being informed.
 
 (vi) Your data will be deleted after you deleted your Ableton Account or your request has been resolved from our active systems. All contractual data and data relevant for accounting are stored for 10 calendar years. Data that become relevant for a defense against possible claims are stored for three years (statutory limitation).
 
 (vii) The processing of the data is necessary to help you with your inquiries. If the data is not provided, we cannot provide you with the service of our help center.
 
-  
-
-8\. Ableton Forum members
+7\. Ableton Forum members
 -------------------------
 
 (i) The purpose of the processing is to provide a forum for users of the Ableton products as a platform for general exchange of information and experience reports.
@@ -453,9 +421,7 @@ Banks and payment service providers may be recipients of data for the processing
 
 (vii) The processing of the data is necessary to execute the contract. If the data is not provided, a participation in the Ableton Forum is not possible.
 
-  
-
-9\. Ableton Social Media Pages Visitors
+8\. Ableton Social Media Pages Visitors
 ---------------------------------------
 
 Ableton operates social media sites. Social media pages are run by service providers who process data for providing such sites.
@@ -477,18 +443,21 @@ We and Instagram (for users in the EU/EEA provided by Facebook Ireland Ltd. (Fac
 **YouTube:**  
 We operate a social media page on the Youtube platform. The collection and processing of this data is the sole responsibility of Google (for EU/EEA Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland and Google Ireland Limited uses Google LLC in the USA (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) as its service provider). We have no knowledge of further details of the processing of personal data in the area of data controllership of Google or a possible data processing in the USA. Ableton has no influence on the data processing of Google. For information about the processing of personal data by Google, please refer to the Google Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy). As applicable, the legal basis for the processing of data by Ableton is the legitimate interest in the analysis of usage data in order to improve the Youtube Page (Article 6 para. (1) (f) GDPR).
 
-**Twitter:**  
-We operate a social media page on Twitter (by Twitter, Inc., 1355 Market Street, Suite 900
+**X:**  
+We operate a social media page on X (by X Corp, Inc., 1355 Market Street, Suite 900
 
-San Francisco, CA 94103, USA). For users in the EU/EEA the controller to controller data protection addendum between Twitter and Ableton applies: [https://gdpr.twitter.com/en/controller-to-controller-transfers.html](https://gdpr.twitter.com/en/controller-to-controller-transfers.html). According to the agreement the collection and processing of this data is the sole responsibility of Twitter. Twitter’s Privacy Policy is available under: [https://twitter.com/en/privacy](https://twitter.com/en/privacy). As applicable, the legal basis for the processing of data by Ableton is the legitimate interest in the analysis of usage data in order to improve the Twitter Page (Article 6 para. (1) (f) GDPR).
+San Francisco, CA 94103, USA). For users in the EU/EEA the controller to controller data protection addendum between X and Ableton  applies [https://gdpr.x.com/en/controller-to-controller-transfers.html](https://gdpr.x.com/en/controller-to-controller-transfers.html). According to the agreement the collection and processing of this data is the sole responsibility of X. X’s Privacy Policy is available under: [https://x.com/en/privacy](https://x.com/en/privacy) As applicable, the legal basis for the processing of data by Ableton is the legitimate interest in the analysis of usage data in order to improve the X Page (Article 6 para. (1) (f) GDPR).
 
 **LinkedIn:**  
 We and LinkedIn (for users in the EU/EEA: LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Ireland) are joint controllers of the processing of personal data via the Ableton LinkedIn page. The agreement on joint controllership is available under: [https://legal.linkedin.com/pages-joint-controller-addendum](https://legal.linkedin.com/pages-joint-controller-addendum). According to the agreement, LinkedIn is responsible to inform data subjects about the processing activities. LinkedIn’s Privacy Policy is available under: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy). Data subjects may exercise their rights in respect of and against each of the controllers, Ableton and/or LinkedIn. For more information on the data LinkedIn shares with Ableton please visit [https://www.linkedin.com/help/linkedin/answer/4499/viewing-company-page-analytics?lang=en](https://www.linkedin.com/help/linkedin/answer/4499/viewing-company-page-analytics?lang=en). The legal basis for the processing of data by Ableton is the legitimate interest in the analysis of usage data in order to improve the LinkedIn Page (Article 6 para. (1) (f) GDPR).
 
-  
+**Discord:**  
+We operate a discussion platform on Discord (Discord Inc. 444 de Haro Street, Suite 200, San Francisco, CA 94107). The collection and processing of data is the sole responsibility of Discord. With regard to users in the EU/EEA, data processing is carried out by Discord Netherlands B.V. Schiphol Boulevard 195, 1118BG Schiphol, Netherlands. Discord is part of the EU-US Data Privacy Framework. Discord's privacy policy is available at: [https://discord.com/privacy](https://discord.com/privacy)
 
-10\. Communication Partners, Artists, Certified Trainers, Community Members, other Externals
---------------------------------------------------------------------------------------------
+The legal basis for the processing of data by Ableton may be the legitimate interest in moderation on the discussion platform (Art. 6 para. 1 lit. f) GDPR).
+
+9\. Communication Partners, Artists, Certified Trainers, Community Members, other Externals
+-------------------------------------------------------------------------------------------
 
 (i) The purpose of the processing is the preparation and execution of a contractual relationship or other communication, improving our services and quality management for building communities and other relationships.
 
@@ -498,15 +467,13 @@ We and LinkedIn (for users in the EU/EEA: LinkedIn Ireland Unlimited Company, Wi
 
 (iv) You provide data by yourself when you communicate with us. Further data is transmitted automatically by your browser or collected from publicly available resources.
 
-(v) Contact and contract data can be transmitted to other service providers, business partners as well as offices and authorities if necessary for the execution of the contract or request. We also use service providers as processors within the framework of a data processing agreement for the provision of services, especially for the provision, maintenance and servicing of IT systems. In particular, this includes the CRM (= customer relation management) service by salesforce.com GmbH. We have concluded the EU standard contractual clauses with salesforce.com and salesforce.com may only process your data for our purposes. In addition, salesforce.com has established Binding Corporate Rules.
+(v) Contact and contract data can be transmitted to other service providers, business partners as well as offices and authorities if necessary for the execution of the contract or request. We also use service providers as processors within the framework of a data processing agreement for the provision of services, especially for the provision, maintenance and servicing of IT systems. In particular, this includes the CRM (= customer relation management) service by salesforce.com GmbH. We have concluded the EU standard contractual clauses with salesforce.com and salesforce.com may only process your data for our purposes. In addition, salesforce.com has established Binding Corporate Rules and is part of the EU-US Data Privacy Framework.
 
 (vi) Data of contract partners and service providers will be deleted ten calendar years after termination of the contract.
 
 (vii) The processing of contact data on part of the service providers and business partners is necessary to execute the contract. If the data is not provided, the communication may be considerably disturbed.
 
-  
-
-11\. Development Partners
+10\. Development Partners
 -------------------------
 
 (i) The purpose of the processing is the preparation and execution of a contractual relationship, other communication or improving Ableton products.
@@ -517,15 +484,13 @@ We and LinkedIn (for users in the EU/EEA: LinkedIn Ireland Unlimited Company, Wi
 
 (iv) You provide data yourself. Further data is transmitted automatically by your browser.
 
-(v) Contact and contract data can be transmitted to other service providers, business partners as well as offices and authorities if necessary for the execution of the contract. We also use service providers as processors within the framework of a data processing agreement for the provision of services, especially for the provision, maintenance and servicing of IT systems. In particular, this includes the CRM (= customer relation management) service by salesforce.com GmbH. We have concluded the EU standard contractual clauses with salesforce.com and salesforce.com may only process your data for our purposes. In addition, salesforce.com has established Binding Corporate Rules. Some of our service providers (like Github) offer the possibility to register directly to their platform. If you enter into such a direct contractual relationship with one of our service providers the service provider is the independent controller for all data processing under such contract. More information regarding the data processing within the independent controllership of Github may be found here: [https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
+(v) Contact and contract data can be transmitted to other service providers, business partners as well as offices and authorities if necessary for the execution of the contract. We also use service providers as processors within the framework of a data processing agreement for the provision of services, especially for the provision, maintenance and servicing of IT systems. In particular, this includes the CRM (= customer relation management) service by salesforce.com GmbH. We have concluded the EU standard contractual clauses with salesforce.com and salesforce.com may only process your data for our purposes. In addition, salesforce.com has established Binding Corporate Rules and is part of the EU-US Data Privacy Framework. Some of our service providers (like Github) offer the possibility to register directly to their platform. If you enter into such a direct contractual relationship with one of our service providers the service provider is the independent controller for all data processing under such contract. More information regarding the data processing within the independent controllership of Github may be found here: [https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
 
 (vi) Data of contract partners and service providers will be deleted ten calendar years after termination of the contract.
 
 (vii) The processing of contact data on part of the service providers and business partners is necessary to execute the contract. If the data is not provided, the communication may be considerably disturbed.
 
-  
-
-12\. Rights of Data Subjects and Further Information
+11\. Rights of Data Subjects and Further Information
 ----------------------------------------------------
 
 (i) We do not use any methods of automated individual decision-making.
@@ -548,14 +513,10 @@ We and LinkedIn (for users in the EU/EEA: LinkedIn Ireland Unlimited Company, Wi
 
 (x) Moreover, you have the right to file a complaint at any time with a data protection supervisory authority, if you believe that data processing has been carried out in violation of the applicable law.
 
-  
-
-13\. Information for Non-EU and US Residents
+12\. Information for Non-EU and US Residents
 --------------------------------------------
 
 Ableton generally falls within the scope of the GDPR, which is why we have aligned the drafting of the entire Privacy Policy with the provisions of the GDPR. However, other local privacy law may be additionally applicable in individual cases, if you are a non-EU/EEA resident and visit the Ableton websites or online presences, interact with Ableton products, services or communities. We will provide you with additional information on such local laws via separate information where required.
-
-  
 
 Information regarding the processing of personal data from children under 13 years (under Children’s Online Privacy Protection Act, COPPA)
 ------------------------------------------------------------------------------------------------------------------------------------------
