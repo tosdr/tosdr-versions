@@ -4,8 +4,9 @@
 
 [](javascript:void();)
 
-* [Bill Pay](https://billgo.com/billpay)
-* [BillGO Exchange](https://billgo.com/billgoexchange)
+* [Billers](https://billgo.com/billgoexchange)
+* [Payments Originators](https://billgo.com/payments-originators)
+* [Banks](https://billgo.com/billpay)
 
 * [](javascript:;)
     * [About Us](https://billgo.com/about-us)
@@ -98,8 +99,9 @@ It is our policy in appropriate circumstances to disable and/or terminate the ac
     * [Copyright Policy](https://billgo.com/copyright-policy)
     * [Terms and Conditions](https://billgo.com/terms-and-conditions)
 
-* [Bill Pay](https://billgo.com/billpay)
-* [BillGO Exchange](https://billgo.com/billgoexchange)
+* [Billers](https://billgo.com/billgoexchange)
+* [Payments Originators](https://billgo.com/payments-originators)
+* [Banks](https://billgo.com/billpay)
 
 * [](javascript:;)
     * [BillGO Resource Center](https://billgo.com/billgo-resource-center)
