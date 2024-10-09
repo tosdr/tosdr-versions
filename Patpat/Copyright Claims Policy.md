@@ -108,8 +108,10 @@ SHOP NOW
 ##### Company Info
 
 * [About Us](https://eur.patpat.com/about)
-* [Blog](https://www.patpat.com/blog)
+* [Blog](https://www.patpat.com/blog/)
 * [Press](https://eur.patpat.com/press)
+* [PatPat Broadcast Media](https://www.patpat.com/broadcast)
+* [Family Threads Report](https://www.patpat.com/family-threads-report)
 * [Sustainability](https://eur.patpat.com/article/sustainability)
 * [PatPat Affiliate Program](https://affiliate.patpat.com/)
 * [Influencer Program](https://eur.patpat.com/celebrity-application)
