@@ -30,14 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_360x203.jpg)](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/b48c7992-d39e-426f-9bd4-bd1b5d212620/b48c7992-d39e-426f-9bd4-bd1b5d212620_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/b48c7992-d39e-426f-9bd4-bd1b5d212620/b48c7992-d39e-426f-9bd4-bd1b5d212620_360x203.jpg)](https://www.wqad.com/article/news/local/moline-metronet-fiber-optic-network-gigabit-city-illinois/526-7f793431-a854-42bb-8eda-f2d9e0143038)
         
-        #### [FEMA opens disaster recovery center for victims of Kewanee storms](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
+        #### [Moline becomes 'gigabit city' with Metronet fiber optic network](https://www.wqad.com/article/news/local/moline-metronet-fiber-optic-network-gigabit-city-illinois/526-7f793431-a854-42bb-8eda-f2d9e0143038)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/3b4608d4-6167-4ee9-9fd0-8aa5e4553346/20241009T204506/3b4608d4-6167-4ee9-9fd0-8aa5e4553346_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3b4608d4-6167-4ee9-9fd0-8aa5e4553346/20241009T204506/3b4608d4-6167-4ee9-9fd0-8aa5e4553346_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/bessies-prayer-rock-island-judge-walter-braud-trailblazing-black-history/526-e1f47dc9-2428-44bb-b37a-9c2567622280)
         
-        #### [Electrical workers from Bureau County bring donations to Helene victims in North Carolina](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
+        #### ['Bessie's Prayer' | The new memoir from a trailblazing Quad City judge](https://www.wqad.com/article/news/local/the-current/bessies-prayer-rock-island-judge-walter-braud-trailblazing-black-history/526-e1f47dc9-2428-44bb-b37a-9c2567622280) [![](https://media.tegna-media.com/assets/WQAD/images/3b4608d4-6167-4ee9-9fd0-8aa5e4553346/20241009T204506/3b4608d4-6167-4ee9-9fd0-8aa5e4553346_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3b4608d4-6167-4ee9-9fd0-8aa5e4553346/20241009T204506/3b4608d4-6167-4ee9-9fd0-8aa5e4553346_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/bessies-prayer-rock-island-judge-walter-braud-trailblazing-black-history/526-e1f47dc9-2428-44bb-b37a-9c2567622280)
         
+        #### ['Bessie's Prayer' | The new memoir from a trailblazing Quad City judge, prosecutor](https://www.wqad.com/article/news/local/the-current/bessies-prayer-rock-island-judge-walter-braud-trailblazing-black-history/526-e1f47dc9-2428-44bb-b37a-9c2567622280)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,18 +57,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WTOL/images/b4d0a6e7-11eb-4258-b0df-56391e12722c/20241008T144529/b4d0a6e7-11eb-4258-b0df-56391e12722c_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/b4d0a6e7-11eb-4258-b0df-56391e12722c/20241008T144529/b4d0a6e7-11eb-4258-b0df-56391e12722c_360x203.jpg)](https://www.wqad.com/article/news/local/red-cross-quad-cities-volunteers-help-hurricane-milton/526-e33c57a8-44cc-4850-b7c4-bd8751394582)
+        
+        #### [Red Cross recruits Quad Cities volunteers for Hurricane Milton relief](https://www.wqad.com/article/news/local/red-cross-quad-cities-volunteers-help-hurricane-milton/526-e33c57a8-44cc-4850-b7c4-bd8751394582)
+        
     *  [![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_360x203.jpg)](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
         
-        #### [NASA video shows Hurricane Milton from space as it nears Florida](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1) [![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_360x203.jpg)](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
-        
-        #### [NASA shares video showing Hurricane Milton from space](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1) [![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_360x203.jpg)](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
-        
-        #### [NASA astronaut shares timelapse video of Hurricane Milton from space](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1) [![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_360x203.jpg)](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
-        
-        #### [VIDEO: Hurricane Milton as seen from the International Space Station](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
-    *  [![](https://media.tegna-media.com/assets/CCT/images/cbbc5e02-882f-495c-b953-f011522142e3/20241009T133033/cbbc5e02-882f-495c-b953-f011522142e3_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/cbbc5e02-882f-495c-b953-f011522142e3/20241009T133033/cbbc5e02-882f-495c-b953-f011522142e3_360x203.jpg)](https://www.wqad.com/article/news/nation-world/waffle-house-index-helps-fema-judge-storm-severity/507-b1414525-6029-433a-9288-1425c90adbba)
-        
-        #### [How Waffle House helps Southerners — and FEMA — judge a storm's severity](https://www.wqad.com/article/news/nation-world/waffle-house-index-helps-fema-judge-storm-severity/507-b1414525-6029-433a-9288-1425c90adbba)
+        #### [NASA video shows Hurricane Milton from space as it nears Florida](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -91,7 +87,7 @@ Navigation
 
 Davenport, IA »
 
-73°
+76°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
