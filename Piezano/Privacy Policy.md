@@ -6,7 +6,7 @@ Make Gourmet Crispy Delicious
 
 Pizza in Just 6 Minutes!
 
-[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=344006212294564107)
+[order now!](https://buypiezano.com/checkout/8e35bf/step1?m=344002094315892018)
 
 Privacy Policy
 
