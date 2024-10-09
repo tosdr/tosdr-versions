@@ -22,7 +22,7 @@
     * [Türkçe](https://tr.liberapay.com/about/legal)
     * [Čeština](https://cs.liberapay.com/about/legal)
     * [Ελληνικά   (2% machine translated)](https://el.liberapay.com/about/legal)
-    * [Русский](https://ru.liberapay.com/about/legal)
+    * [Русский](https://ru.liberapay.com/about/legal)  
     * [Українська](https://uk.liberapay.com/about/legal)
     * [中文 (简体)](https://zh-hans.liberapay.com/about/legal)
     * [中文 (繁體)   (2% machine translated)](https://zh-hant.liberapay.com/about/legal)
