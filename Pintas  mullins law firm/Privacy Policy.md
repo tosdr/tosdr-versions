@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Mormon church sex abuse case consequences](https://www.pintas.com/wp-content/uploads/2023/04/General-law2-300x177.jpg "Mormon Church Sex Abuse Case Consequences")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/if-i-file-a-sexual-abuse-case-against-the-mormon-church-will-i-be-kicked-out/ "Mormon Church Sex Abuse Case Consequences")
+[![What happens in the final stages of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-happens-in-the-final-stages-of-mesothelioma-scaled.jpg "What Happens in the Final Stages of Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/final-stages "What Happens in the Final Stages of Mesothelioma?")
 
-[#### Mormon Church Sex Abuse Case Consequences](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/if-i-file-a-sexual-abuse-case-against-the-mormon-church-will-i-be-kicked-out/)
+[#### What Happens in the Final Stages of Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/final-stages)
 
-[![Lawyers address assisted living abuse cases](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases-300x131.jpg "Lawyers Address Assisted Living Abuse Cases")](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/ "Lawyers Address Assisted Living Abuse Cases")
+[![What is the life expectancy of someone with asbestosis?](https://www.pintas.com/wp-content/uploads/2020/09/lung-cancer-what-is-the-life-expectancy-of-someone-with-asbestosis-scaled.jpg "What Is the Life Expectancy of Someone with Asbestosis?")](https://www.pintas.com/practice-areas/lung-cancer/asbestosis-survival-rates "What Is the Life Expectancy of Someone with Asbestosis?")
 
-[#### Lawyers Address Assisted Living Abuse Cases](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/)
+[#### What Is the Life Expectancy of Someone with Asbestosis?](https://www.pintas.com/practice-areas/lung-cancer/asbestosis-survival-rates)
 
-[![What is the difference between lung cancer and mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-is-the-difference-between-lung-cancer-and-mesothelioma.jpg "What Is the Difference Between Lung Cancer and Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-the-difference-between-lung-cancer-and-mesothelioma "What Is the Difference Between Lung Cancer and Mesothelioma?")
+[![What is asbestosis disease?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-is-asbestosis-disease-scaled.jpg "What Is Asbestosis Disease?")](https://www.pintas.com/practice-areas/lung-cancer/asbestosis "What Is Asbestosis Disease?")
 
-[#### What Is the Difference Between Lung Cancer and Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/what-is-the-difference-between-lung-cancer-and-mesothelioma)
+[#### What Is Asbestosis Disease?](https://www.pintas.com/practice-areas/lung-cancer/asbestosis)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
