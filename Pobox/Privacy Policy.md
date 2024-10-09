@@ -59,6 +59,7 @@ Policies
     
     * [API Terms of Service](https://www.pobox.com/policies/api-terms-of-service/)
     * [API Developer Policy](https://www.pobox.com/policies/api-developer-policy/)
+    * [Fastmail bots](https://www.pobox.com/policies/bots/)
     
 * Press, marketing and partners
     
@@ -85,6 +86,7 @@ Policies
     
     * [API Terms of Service](https://www.pobox.com/policies/api-terms-of-service/)
     * [API Developer Policy](https://www.pobox.com/policies/api-developer-policy/)
+    * [Fastmail bots](https://www.pobox.com/policies/bots/)
     
 * Press, marketing and partners
     
