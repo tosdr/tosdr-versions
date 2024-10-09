@@ -186,6 +186,6 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Uber AI Assistant](https://techcrunch.com/2024/10/08/uber-to-launch-openai-powered-ai-assistant-to-answer-driver-ev-questions/)
 * [Tesla Robotaxi](https://techcrunch.com/2024/10/07/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/)
 * [Tech Layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/)
-* ChatGPT
+* [ChatGPT](https://techcrunch.com/2024/10/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 © 2024 Yahoo.
