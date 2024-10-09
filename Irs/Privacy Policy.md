@@ -250,11 +250,11 @@ Information Menu
 Main navigation
 ---------------
 
-* [File](https://www.irs.gov/index.php/filing)
-* [Pay](https://www.irs.gov/index.php/payments)
-* [Refunds](https://www.irs.gov/index.php/refunds)
-* [Credits & Deductions](https://www.irs.gov/index.php/credits-and-deductions)
-* [Forms & Instructions](https://www.irs.gov/index.php/forms-instructions)
+* [File](https://www.irs.gov/filing)
+* [Pay](https://www.irs.gov/payments)
+* [Refunds](https://www.irs.gov/refunds)
+* [Credits & Deductions](https://www.irs.gov/credits-and-deductions)
+* [Forms & Instructions](https://www.irs.gov/forms-instructions)
 
 Info Menu Mobile
 ----------------
