@@ -89,6 +89,7 @@
     * [Architecture & Interior Design](https://www.fiverr.com/categories/graphics-design/architectural-design-services?source=category_tree)
     * [Landscape Design](https://www.fiverr.com/categories/graphics-design/landscape-design?source=category_tree)
     * [Building Engineering](https://www.fiverr.com/categories/graphics-design/building-engineering?source=category_tree)
+    * [Lighting Designnew](https://www.fiverr.com/categories/graphics-design/lighting-design?source=category_tree)
     
     * Fashion & Merchandise
         
@@ -805,6 +806,7 @@ Browse categories
     * [Architecture & Interior Design](https://www.fiverr.com/categories/graphics-design/architectural-design-services?source=category_tree)
     * [Landscape Design](https://www.fiverr.com/categories/graphics-design/landscape-design?source=category_tree)
     * [Building Engineering](https://www.fiverr.com/categories/graphics-design/building-engineering?source=category_tree)
+    * [Lighting DesignNew](https://www.fiverr.com/categories/graphics-design/lighting-design?source=category_tree)
     
     * Fashion & Merchandise
     * [T-Shirts & Merchandise](https://www.fiverr.com/categories/graphics-design/t-shirts?source=category_tree)
