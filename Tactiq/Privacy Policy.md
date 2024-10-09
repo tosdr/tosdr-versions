@@ -288,7 +288,7 @@ Summary of updates:
 
 ###### Downloads  
 
-[Chrome Extension](https://chrome.google.com/webstore/detail/tactiq-for-google-meet-tr/fggkaccpbmombhnjkjokndojfgagejfb)[Workspace Marketplace](https://workspace.google.com/marketplace/app/tactiqio/399035273123)[Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tactiq-for-google-meet-tr/ldihbakgcndcoojkibjniljbadkanaic)
+[Chrome Extension](https://tactiq.io/chrome)[Workspace Marketplace](https://workspace.google.com/marketplace/app/tactiqio/399035273123)[Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tactiq-for-google-meet-tr/ldihbakgcndcoojkibjniljbadkanaic)
 
 ###### Discover  
 
