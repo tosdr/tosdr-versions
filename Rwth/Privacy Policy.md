@@ -707,7 +707,7 @@ Footer
 ### Services
 
 * [Contact & Directions](https://www.rwth-aachen.de/go/id/emu/lidx/1/ "Contact & Directions (Footer)")
-* [Site Credits](https://www.rwth-aachen.de/cms/root/Footer/Services/~bw/Impressum/lidx/1/ "Site Credits (Footer)")
+* [Legal Notice](https://www.rwth-aachen.de/cms/root/Footer/Services/~bw/Impressum/lidx/1/ "Legal Notice (Footer)")
 * [Privacy Policy](https://www.rwth-aachen.de/cms/root/Footer/Services/~cesv/Datenschutzerklaerung/lidx/1/ "Privacy Policy (Footer)")
 * [Accessibility Statement](https://www.rwth-aachen.de/cms/root/Footer/Services/~jzbek/Barrierefreiheitserklaerung/lidx/1/ "Accessibility Statement (Footer)")
 * [Site Map](https://www.rwth-aachen.de/cms/root/Footer/Services/~hn/Sitemap/lidx/1/ "Site Map (Footer)")
