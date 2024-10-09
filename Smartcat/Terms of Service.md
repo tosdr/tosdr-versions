@@ -10,11 +10,11 @@
     
 * [Enterprise](https://www.smartcat.com/enterprise/)
 * [Pricing](https://www.smartcat.com/pricing/)
-* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_4812501&lang=en)
-* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_4812501&lang=en)
+* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_4828334&lang=en)
+* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_4828334&lang=en)
 * [en](#)
 
-[en](#)[Sign in](https://smartcat.com/sign-in?land=us_4812501&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_4812501&lang=en)
+[en](#)[Sign in](https://smartcat.com/sign-in?land=us_4828334&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_4828334&lang=en)
 
 Smartcat legal
 
@@ -25,7 +25,7 @@ Smartcat legal
 SMARTCAT CUSTOMER AGREEMENT
 ---------------------------
 
-Current version. Last updated on **May 08, 2024**.
+Current version. Last updated on **October 09, 2024**.
 
 [](#)
 
@@ -85,7 +85,7 @@ For the purposes of this Agreement, the “Customer” means a User of the Platf
 
 1.6 **Platform Terms of Service.** The Customer’s use of the Platform in connection with receipt of the Services shall be governed by this Agreement as well as the TOS. This Agreement and the Annexes will prevail to the extent of any inconsistency with the TOS.
 
-1.8. **Subcontractors** - freelancers registered on the Platform to perform the Translation Services under this Agreement and available on Smartcat marketplace. 
+1.8. **Subcontractors** - freelancers registered on the Platform to perform the Translation Services under this Agreement and available on Smartcat marketplace bound by confidentiality obligations. 
 
 1.9. **Smartwords** - words that are translated using Smartcat AI features. Smartwords are part of the Subscription Services. A detailed description of Smartwords is located at [https://www.smartcat.com/smartwords/](https://www.smartcat.com/smartwords/).
 
@@ -265,7 +265,7 @@ b) ANY AND ALL LIABILITIES OF SMARTCAT RESULTING FROM THE SUBSCRIPTION SERVICES 
 
 IT IS INTENDED THAT THIS LIMITATION APPLY TO ANY AND ALL LIABILITY OR CAUSE OF ACTION HOWEVER ALLEGED OR ARISING, UNLESS OTHERWISE PROHIBITED BY LAW. THIS LIMITATION OF LIABILITY IS CUMULATIVE WITH ALL SUCH PARTY’S EXPENDITURES BEING AGGREGATED TO DETERMINE SATISFACTION OF THE LIMIT. IF JURISDICTION OF THE CUSTOMER HAS PROVISIONS SPECIFIC TO WAIVER OR LIABILITY THAT CONFLICT WITH THE ABOVE THEN SMARTCAT LIABILITY IS LIMITED TO THE SMALLEST EXTENT POSSIBLE BY LAW.
 
-NOTHING IN THIS AGREEMENT SHALL BE CONSTRUED AS LIMITING OR EXCLUDING THE LIABILITY OF EITHER PARTY FOR THE BREACH OF WILLFUL MISCONDUCT, GROSS NEGLIGENCE, FRAUD, BREACH OF APPLICABLE LAWS, DEATH OR PERSONAL INJURY.
+NOTHING IN THIS AGREEMENT SHALL BE CONSTRUED AS LIMITING OR EXCLUDING THE LIABILITY OF EITHER PARTY FOR THE BREACH OF WILLFUL MISCONDUCT, GROSS NEGLIGENCE, FRAUD, DEATH OR PERSONAL INJURY.
 
 [](#)
 
