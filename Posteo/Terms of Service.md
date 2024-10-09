@@ -156,10 +156,10 @@ Changes:
 
 [Cancel email account](https://posteo.de/en/termination "Link to Termination Form")
 
-* [About us](https://posteo.de/en/site/about_posteo "Link to About us page")
 * [Contact](https://posteo.de/en/site/contact "Link to contact page")
 * [Jobs](https://posteo.de/site/jobs "Link to Posteo job page")
 * [Legal notice](https://posteo.de/en/site/legal_notice "Link to site notice")
+* [About us](https://posteo.de/en/site/about_posteo "Link to About us page") / Posteo unterstützen
 
 * [Help](https://posteo.de/en/help "Link to Posteo help")
 * [Blog](https://posteo.de/en/blog "News and blog")
