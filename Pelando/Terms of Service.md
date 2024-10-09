@@ -39,12 +39,11 @@ Faça parte, é 100% gratuito.
 * [Privacidade](https://www.pelando.com.br/sobre/politica-de-privacidade)
 * [Termos de Serviço](https://www.pelando.com.br/sobre/termos-de-uso)
 * [Código de Conduta](https://www.pelando.com.br/sobre/codigo-de-conduta)
-* [Central de ajuda](https://ajuda.pelando.com.br/hc/pt-br)
 
 * Suporte
 * [Lojas](https://www.pelando.com.br/cupons-de-descontos)
 * [Fale conosco](https://www.pelando.com.br/atendimento)
-* [Central de ajuda](https://ajuda.pelando.com.br/hc/pt-br)
+* [Central de ajuda](https://ajuda.pelando.com.br/)
 
 * * *
 
