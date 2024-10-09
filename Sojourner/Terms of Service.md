@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-93a900c60e569aa36ba12670af661c6c
+a0c79b678aef9a7285e1e20f84aa7aa9
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![7 mm round copper-pink pearls](https://sojourner.biz/images/cache/pearls/PE0004.200.jpg)](https://sojourner.biz/beads/pearls/7-mm-round-copper-pink-pearls.html "7 mm round copper-pink pearls")
+[![Square Swarovski sapphire clasp](https://sojourner.biz/images/cache/SKU0540front.200.jpg)](https://sojourner.biz/clasps/swarovski/square-swarovski-sapphire-clasp.html "Square Swarovski sapphire clasp")
 
-#### [7 mm round copper-pink pearls](https://sojourner.biz/beads/pearls/7-mm-round-copper-pink-pearls.html "7 mm round copper-pink pearls")
+#### [Square Swarovski sapphire clasp](https://sojourner.biz/clasps/swarovski/square-swarovski-sapphire-clasp.html "Square Swarovski sapphire clasp")
 
-$17.00
+$21.00
 
 ### Best Sellers
 
