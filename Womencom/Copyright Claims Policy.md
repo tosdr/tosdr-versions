@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Ariana Grande at event](https://www.women.com/img/gallery/the-red-flags-in-ariana-grande-ethan-slaters-relationship-we-just-cant-ignore/intro-1728315693.jpg)](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
+*  [![Jane Fonda](https://www.women.com/img/gallery/5-older-women-in-hollywood-who-are-still-embracing-celebrating-their-sexuality/intro-1728400367.jpg)](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Sex](https://www.women.com/category/sex-life/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
     
-    [The Red Flags In Ariana Grande & Ethan Slater's Relationship We Just Can't Ignore](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
-    =================================================================================================================================================================================
+    [5 Older Women In Hollywood Who Are Still Embracing & Celebrating Their Sexuality](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
+    ========================================================================================================================================================================
     
-    While the couple insists that things weren't shady, it's hard not to focus on the abrupt beginning of Ariana Grande and Ethan Slater's relationship
+    It's important to embrace aging and the sensuality that comes with it. If you confront aging with confidence, you'll be hotter than ever.
     
-    By Bernadette Roe [Read More](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
+    By Amanda Chatel [Read More](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
     
-* *  [![Katie Holmes smiling](https://www.women.com/img/gallery/5-katie-holmes-outfits-that-could-have-come-straight-from-joey-potters-closet/intro-1728058628.jpg)](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
+* *  [![Ariana Grande at event](https://www.women.com/img/gallery/the-red-flags-in-ariana-grande-ethan-slaters-relationship-we-just-cant-ignore/intro-1728315693.jpg)](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+        
+        ### [The Red Flags In Ariana Grande & Ethan Slater's Relationship We Just Can't Ignore](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
+        
+        While the couple insists that things weren't shady, it's hard not to focus on the abrupt beginning of Ariana Grande and Ethan Slater's relationship
+        
+        By Bernadette Roe [Read More](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
+        
+    *  [![Katie Holmes smiling](https://www.women.com/img/gallery/5-katie-holmes-outfits-that-could-have-come-straight-from-joey-potters-closet/intro-1728058628.jpg)](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -66,22 +78,34 @@
         
         By Bernadette Roe [Read More](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
         
-    *  [![Christina Funke Tegbe on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-54-thrones-african-skincare-beauty-products-after-shark-tank/intro-1728063581.jpg)](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Emily Hutchinson
-        
-        ### [Here's What Went Down With 54 Thrones African Skincare & Beauty Products After Shark Tank](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
-        
-        54 Thrones, a mission-driven beauty brand, thrived after netting an investment on "Shark Tank." Eight years after founding, the company is expanding.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
-        
 
 More Stories
 ------------
 
+*  [![Reese Witherspoon holding books](https://www.women.com/img/gallery/the-best-reese-witherspoon-book-club-picks-of-the-2020s/intro-1728486633.jpg)](https://www.women.com/1681964/best-reese-witherspoon-book-club-picks-2020s/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    
+    ### [The Best Reese Witherspoon Book Club Picks Of The 2020s](https://www.women.com/1681964/best-reese-witherspoon-book-club-picks-2020s/)
+    
+    What sets Reese Witherspoon apart from contemporaries is her book club, which is well endowed with sway and feminist influence.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1681964/best-reese-witherspoon-book-club-picks-2020s/)
+    
+*  [![Christina Funke Tegbe on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-54-thrones-african-skincare-beauty-products-after-shark-tank/intro-1728063581.jpg)](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [Here's What Went Down With 54 Thrones African Skincare & Beauty Products After Shark Tank](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
+    
+    54 Thrones, a mission-driven beauty brand, thrived after netting an investment on "Shark Tank." Eight years after founding, the company is expanding.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
+    
 *  [![Tiffany Trump on the red carpet](https://www.women.com/img/gallery/tiffany-trump-outfits-that-just-didnt-work/intro-1727980253.jpg)](https://www.women.com/1679733/tiffany-trump-outfits-just-didnt-work/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -381,30 +405,6 @@ More Stories
     The Hulu reality series reminds us there's no such thing as a perfect friendship. However, it also serves as a cautionary tale for how toxic things can become.
     
     By Emily Hutchinson [Read More](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
-    
-*  [![Sabrina Carpenter on stage](https://www.women.com/img/gallery/the-shangri-la-is-the-sabrina-carpenter-inspired-cut-taking-hair-trends-by-storm/intro-1727103089.jpg)](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-    
-    ### [The Shangri-La Is The Sabrina Carpenter-Inspired Cut Taking Hair Trends By Storm](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
-    
-    Sabrina Carpenter is an icon. But of all the ways the Short n' Sweet pop star influences trends, her hair has made the biggest waves.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1670893/shangri-la-sabrina-carpenter-inspired-hair-trend/)
-    
-*  [![Women in bed](https://www.women.com/img/gallery/shallowing-may-be-the-perfect-sex-act-for-maximum-pleasure/intro-1726696831.jpg)](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
-    
-    [Sex](https://www.women.com/category/sex-life/)
-    
-    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
-    
-    ### [Shallowing May Be The Perfect Sex Act For Maximum Pleasure](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
-    
-    If you're looking to try something sexual you haven't done before or you're just not too keen on penetration, then shallowing might be for you.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1668231/shallowing-perfect-sex-act-maximum-pleasure/)
     
 
 Back
