@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How will mesothelioma change my life?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-how-will-mesothelioma-change-my-life.jpg "How Will Mesothelioma Change My Life?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/ "How Will Mesothelioma Change My Life?")
+[![Mormon church sex abuse case consequences](https://www.pintas.com/wp-content/uploads/2023/04/General-law2-300x177.jpg "Mormon Church Sex Abuse Case Consequences")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/if-i-file-a-sexual-abuse-case-against-the-mormon-church-will-i-be-kicked-out/ "Mormon Church Sex Abuse Case Consequences")
 
-[#### How Will Mesothelioma Change My Life?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/)
+[#### Mormon Church Sex Abuse Case Consequences](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/if-i-file-a-sexual-abuse-case-against-the-mormon-church-will-i-be-kicked-out/)
 
-[![How do you get roundup off your skin?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-do-you-get-roundup-off-your-skin.jpg "How Do You Get Roundup Off Your Skin?")](https://www.pintas.com/lawsuit/roundup-weed-killer/how-do-you-get-roundup-off-your-skin/ "How Do You Get Roundup Off Your Skin?")
+[![Lawyers address assisted living abuse cases](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases-300x131.jpg "Lawyers Address Assisted Living Abuse Cases")](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/ "Lawyers Address Assisted Living Abuse Cases")
 
-[#### How Do You Get Roundup Off Your Skin?](https://www.pintas.com/lawsuit/roundup-weed-killer/how-do-you-get-roundup-off-your-skin/)
+[#### Lawyers Address Assisted Living Abuse Cases](https://www.pintas.com/faq/do-nursing-home-lawyers-handle-assisted-living-abuse-and-neglect-cases/)
 
-[![What are the signs and symptoms of asbestos exposure?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-are-the-signs-and-symptoms-of-asbestos-exposure.jpg "What Are the Signs and Symptoms of Asbestos Exposure?")](https://www.pintas.com/practice-areas/lung-cancer/symptoms-of-asbestos-exposure "What Are the Signs and Symptoms of Asbestos Exposure?")
+[![What is the difference between lung cancer and mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-is-the-difference-between-lung-cancer-and-mesothelioma.jpg "What Is the Difference Between Lung Cancer and Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-the-difference-between-lung-cancer-and-mesothelioma "What Is the Difference Between Lung Cancer and Mesothelioma?")
 
-[#### What Are the Signs and Symptoms of Asbestos Exposure?](https://www.pintas.com/practice-areas/lung-cancer/symptoms-of-asbestos-exposure)
+[#### What Is the Difference Between Lung Cancer and Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/what-is-the-difference-between-lung-cancer-and-mesothelioma)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes. Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) and [online Terms](https://www.pintas.com/website-terms-of-use/), including its mandatory arbitration provision.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
