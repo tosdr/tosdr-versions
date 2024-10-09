@@ -54,6 +54,7 @@ MenuSearch
     * [Public Service](https://www.afr.com/topic/public-service-60z)
 * [World](https://www.afr.com/world)
     * [North America](https://www.afr.com/world/north-america)
+    * [US Election 2024](https://www.afr.com/us-election-2024)
     * [Asia](https://www.afr.com/world/asia)
     * [Europe](https://www.afr.com/world/europe)
     * [Middle East](https://www.afr.com/world/middle-east)
