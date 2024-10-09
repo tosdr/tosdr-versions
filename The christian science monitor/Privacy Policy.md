@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Equality
+
+### The Philippines has held out on legalizing divorce. Is it set to call it quits?](https://www.csmonitor.com/World/Asia-Pacific/2024/1009/The-Philippines-has-held-out-on-legalizing-divorce.-Is-it-set-to-call-it-quits "The Philippines has held out on legalizing divorce. Is it set to call it quits?")
+
+[Hope
+
+### Roots of Mexico’s confidence against crime](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1009/Roots-of-Mexico-s-confidence-against-crime "Roots of Mexico’s confidence against crime")
+
 [Trust
 
 ### Biden and Netanyahu – and the diminished US standing in Middle East](https://www.csmonitor.com/World/Middle-East/2024/1008/biden-netanyahu-israeli-restraint-gaza-lebanon "Biden and Netanyahu – and the diminished US standing in Middle East")
-
-[Compassion
-
-### The kindly calm after a storm](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1008/The-kindly-calm-after-a-storm "The kindly calm after a storm")
-
-[Community
-
-### Dropping the ‘senior’ in senior center: Beyond bingo, there’s speed dating and travel](https://www.csmonitor.com/The-Culture/2024/1008/Dropping-the-senior-in-senior-center-Beyond-bingo-there-s-speed-dating-and-travel "Dropping the ‘senior’ in senior center: Beyond bingo, there’s speed dating and travel")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 08, 2024
+October 09, 2024
 
-Rebranding senior centers, redefining age
+Picking the ‘true’ past
 
-Taking the word “senior” out of senior centers might seem a rather superficial and transparent change. But it isn’t. Today, Ashley Milne-Tyte shows that senior centers across the United States aren’t just being rebranded; they’re being transformed, because our sense of age is being transformed. Today’s seniors are active and curious. Why shouldn’t the ecosystems around them be, too?  It’s not really about taking one word out. It’s about pouring more life in.
+History gets recorded in layers. Good journalism provides an unadorned capture of events in real time. New facts bring reflection and reconsideration.What about revision that’s aimed at changing modern-day perceptions? That question is central in Howard LaFranchi’s story today from Buenos Aires, Argentina, where debate around a detention center turned museum stirs something deep.Argentina was practically defined by brutal state-led terror from the mid-1970s to early 1980s. Think dissidents being thrown from airplanes. The country also modeled the healing work of delivering accountability. Is Argentina’s narrative now being given added nuance, or is it facing an assault on truth?
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Biden and Netanyahu – and the diminished US standing in Middle East](https://www.csmonitor.com/World/Middle-East/2024/1008/biden-netanyahu-israeli-restraint-gaza-lebanon "Biden and Netanyahu – and the diminished US standing in Middle East")
+[### The Philippines has held out on legalizing divorce. Is it set to call it quits?](https://www.csmonitor.com/World/Asia-Pacific/2024/1009/The-Philippines-has-held-out-on-legalizing-divorce.-Is-it-set-to-call-it-quits "The Philippines has held out on legalizing divorce. Is it set to call it quits?")
 
-[### A French rape victim goes public. She makes ‘shame change sides.’](https://www.csmonitor.com/World/Europe/2024/1008/rape-trial-victim-public "A French rape victim goes public. She makes ‘shame change sides.’")
+[### Reframing a dictatorship: Argentine human rights museum under fire](https://www.csmonitor.com/World/Americas/2024/1009/Argentina-Milei-dictatorship-populist-human-rights "Reframing a dictatorship: Argentine human rights museum under fire")
 
-[### Florida residents brace for massive Hurricane Milton](https://www.csmonitor.com/USA/2024/1008/Florida-Hurricane-Milton-Tampa-Bay-Category-5 "Florida residents brace for massive Hurricane Milton")
+[### Afghan man arrested by FBI for allegedly planning to attack crowds on Election Day](https://www.csmonitor.com/USA/2024/1009/Election-Day-Terrorism-Afghan-Man-Arrested-FBI "Afghan man arrested by FBI for allegedly planning to attack crowds on Election Day")
 
 * * *
 
