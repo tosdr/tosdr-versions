@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Hugo van Sittert
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=164943586)  
-Digifax Pty) Ltd t/a Findfish
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=149919722)  
+National Elite Security Services (PTY) LTD
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=141813398)  
-Meyer Towing & Recovery
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=132593677)  
+Sarabi
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=149110508)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=147884703)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=148464619)  
-Blue Sky Solar Services
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=168731962)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=197127524)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=180612557)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=197788187)  
-Testpro Laboratory (Pty) Ltd
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=147541366)  
+Kaylas Creations
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=196302979)  
-VIR Electrical (PTY) LTD
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=164638620)  
+Highlands Auto Engineering
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=192148276)  
-Alliance Energy
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=193140244)  
+Eruca (PTY)Ltd
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=191281848)  
-Brilliant Roof Products
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=88573285)  
+Van Der Merwe Olieverspreiders
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=184239110)  
-Druce Digital
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=135671684)  
+Lion Software Develepment
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=59692039)  
-African Roots
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=70957171)  
+Tagline Brands
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=91662372)  
-Skinz Printing & Branding
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=36038398)  
+LEO DEVELOPMENT GROUP
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=40204790)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=86801108)  
+Konsortium Operations (PTY) LTD
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=4959813)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=175623087)  
+Lindani Protection Services & Projects
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=30f94e9d3a4a8a6d84dbf623345ec29a63b096ce23e2edde91fe94075b896f84&c=194545834)  
-NIMAWELL
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=87c0ca89d4b1347aba9f4d0ec86bf4b14cb213f5f447a4fea8f79652910355f6&c=187640879)  
+Entidee Enterprise PTY (ltd)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
