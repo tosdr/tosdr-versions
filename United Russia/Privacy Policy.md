@@ -305,7 +305,7 @@
 
 [#Терентьев](https://er.ru/activity/news?tags%5B0%5D=3447) [#Сочи](https://er.ru/activity/news?tags%5B0%5D=549) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЕдинаяСтранаДоступнаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090017) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#людисовз](https://er.ru/activity/news?tags%5B0%5D=123028)
 
-Сегодня 17:30
+09.10.24
 
 [![«Единая Россия»: На Ямале открылась выставка «Сила V правде — гордость и победа»](https://cdn.er.ru/media/news/October2024/SXkcIBf5l3KsRWaYAvSy-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-na-yamale-otkrylas-vystavka-sila-v-pravde-gordost-i-pobeda)
 
@@ -313,7 +313,7 @@
 
 [#Ямало-Ненецкий автономный округ](https://er.ru/activity/news?tags%5B0%5D=36079) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 16:56
+09.10.24
 
 [![«Единая Россия» поддержит предложения цифровых платформ по регламенту регистрации блогеров в Роскомнадзоре](https://cdn.er.ru/media/news/October2024/kzWUOxqOMmNRefTIczd9-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podderzhit-predlozheniya-cifrovyh-platform-po-reglamentu-registracii-blogerov-v-roskomnadzore)
 
@@ -321,7 +321,7 @@
 
 [#Горелкин](https://er.ru/activity/news?tags%5B0%5D=101387) [цифровыеплатформы](https://er.ru/activity/news?tags%5B0%5D=153157) [#Роскомнадзор](https://er.ru/activity/news?tags%5B0%5D=2075) [#блогеры](https://er.ru/activity/news?tags%5B0%5D=2670)
 
-Сегодня 14:15
+09.10.24
 
 [![Владимир Якушев предложил Минсельхозу сохранить поддержку малых форм хозяйствования и сектора АПК в регионах с низкой бюджетной обеспеченностью](https://cdn.er.ru/media/news/October2024/pFzs2PyFfYUauPqy125w-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-predlozhil-minselhozu-sohranit-podderzhku-malyh-form-hozyajstvovaniya-i-sektora-apk-v-regionah-s-nizkoj-byudzhetnoj-obespechennostyu)
 
@@ -329,7 +329,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Лут](https://er.ru/activity/news?tags%5B0%5D=133405) [#Минсельхоз](https://er.ru/activity/news?tags%5B0%5D=873) [#АПК](https://er.ru/activity/news?tags%5B0%5D=72) [#Совфед](https://er.ru/activity/news?tags%5B0%5D=1319) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581) [#сельскоехозяйство](https://er.ru/activity/news?tags%5B0%5D=128668)
 
-Сегодня 13:08
+09.10.24
 
 [![При поддержке «Женского движения Единой России» в Белгороде открылась площадка для приграничных женских клубов при центрах занятости](https://cdn.er.ru/media/news/October2024/VTDizAoFxCcp7vvkxzZ6-small.jpg)](https://er.ru/activity/news/pri-podderzhke-zhenskogo-dvizheniya-edinoj-rossii-v-belgorode-otkrylas-ploshadka-dlya-prigranichnyh-zhenskih-klubov-pri-centrah-zanyatosti)
 
@@ -337,7 +337,7 @@
 
 [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Колесникова](https://er.ru/activity/news?tags%5B0%5D=23186) [#Ивенских](https://er.ru/activity/news?tags%5B0%5D=72329) [#Минтруд](https://er.ru/activity/news?tags%5B0%5D=16744) [#женскийклуб](https://er.ru/activity/news?tags%5B0%5D=1095376) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396)
 
-Сегодня 11:01
+09.10.24
 
 [![Об особенностях федерального бюджета на 2025-2027 годы. Статья Андрея Исаева](https://cdn.er.ru/media/news/October2024/nJIyfAvT8w62p8GFdyDG-small.jpg)](https://er.ru/activity/news/ob-osobennostyah-federalnogo-byudzheta-na-2025-2027-gody-statya-andreya-isaeva)
 
@@ -345,7 +345,7 @@
 
 [#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
-Сегодня 09:00
+09.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
