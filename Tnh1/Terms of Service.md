@@ -202,15 +202,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Corpo de turista desaparecida é encontrado dentro de tubarão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/9/csm_Corpo_de_turista_desaparecida_e_encontrado_dentro_de_tubarao_-_foto_Reproducao_d1210617fb.jpg)
-
-68 anos
-
-68 anos
-
-Corpo de turista desaparecida é encontrado dentro de tubarão
-
-Corpo de turista desaparecida é encontrado dentro de tubarão](https://www.tnh1.com.br/noticia/nid/corpo-de-turista-desaparecida-e-encontrado-dentro-de-tubarao/ "Corpo de turista desaparecida é encontrado dentro de tubarão")[!['Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/9/csm_Cid_Moreira_-_foto_Divulgacao_Globo_519bdc74de.jpg)
+[!['Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/9/csm_Cid_Moreira_-_foto_Divulgacao_Globo_519bdc74de.jpg)
 
 Roger Naumtchyk
 
@@ -218,7 +210,15 @@ Roger Naumtchyk
 
 'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento
 
-'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento](https://www.tnh1.com.br/noticia/nid/foi-um-engano-te-adotar-escreveu-cid-moreira-a-filho-deserdado-em-testamento/ "'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento")[![Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_csm_Ambulancia_Bombeiros_335e4cd072_c84d7335db.jpg)
+'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento](https://www.tnh1.com.br/noticia/nid/foi-um-engano-te-adotar-escreveu-cid-moreira-a-filho-deserdado-em-testamento/ "'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento")[![Corpo de turista desaparecida é encontrado dentro de tubarão](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/6/9/csm_Corpo_de_turista_desaparecida_e_encontrado_dentro_de_tubarao_-_foto_Reproducao_d1210617fb.jpg)
+
+68 anos
+
+68 anos
+
+Corpo de turista desaparecida é encontrado dentro de tubarão
+
+Corpo de turista desaparecida é encontrado dentro de tubarão](https://www.tnh1.com.br/noticia/nid/corpo-de-turista-desaparecida-e-encontrado-dentro-de-tubarao/ "Corpo de turista desaparecida é encontrado dentro de tubarão")[![Mulher tem membro inferior dilacerado após colisão entre duas motos em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/5/csm_csm_Ambulancia_Bombeiros_335e4cd072_c84d7335db.jpg)
 
 Na Ponta Grossa
 
@@ -236,39 +236,39 @@ Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em e
 
 Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://www.tnh1.com.br/noticia/nid/homem-e-raptado-por-grupo-encapuzado-morto-a-tiros-e-tem-corpo-abandonado-em-estrada/ "Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada")
 
-[![Idosa é presa por dar tapa na bunda de funcionária em supermercado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/a/csm_1_idosa_presa_tapa_bunda-40533964_eb52b137ee.jpg)
+[![Michael Jackson era virgem aos 35 anos, revela Lisa Marie, ex-esposa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/9/csm_1_694px_michael_jackson_dangerous_world_tour_1993_e1714414817826-39300722_92a6aec499.jpg)
 
-80 anos
+astro pop
 
-80 anos
+astro pop
 
-Idosa é presa por dar tapa na bunda de funcionária em supermercado
+Michael Jackson era virgem aos 35 anos, revela Lisa Marie, ex-esposa
 
-Idosa é presa por dar tapa na bunda de funcionária em supermercado](https://www.tnh1.com.br/noticia/nid/idosa-e-presa-por-dar-tapa-na-bunda-de-funcionaria-em-supermercado/ "Idosa é presa por dar tapa na bunda de funcionária em supermercado")[![CPI das Apostas convoca tio de Paquetá para explicar pix a Luiz Henrique](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/0/0/csm_paqueta-luiz-henrique-750x431_4a86412850.png)
+Michael Jackson era virgem aos 35 anos, revela Lisa Marie, ex-esposa](https://www.tnh1.com.br/noticia/nid/michael-jackson-era-virgem-aos-35-anos-revela-lisa-marie-ex-esposa/ "Michael Jackson era virgem aos 35 anos, revela Lisa Marie, ex-esposa")[![Saiba qual cidade nos EUA está dando dinheiro para novos moradores](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/d/csm_cidade-eua-dinheiro-moradores-reproducao-google_a961d9870a.jpg)
 
-Futebol Nacional
+subsídios
 
-Futebol Nacional
+subsídios
 
-CPI das Apostas convoca tio de Paquetá para explicar pix a Luiz Henrique
+Saiba qual cidade nos EUA está dando dinheiro para novos moradores
 
-CPI das Apostas convoca tio de Paquetá para explicar pix a Luiz Henrique](https://www.tnh1.com.br/noticia/nid/cpi-das-apostas-convoca-tio-de-paqueta-para-explicar-pix-a-luiz-henrique/ "CPI das Apostas convoca tio de Paquetá para explicar pix a Luiz Henrique")[![CRB x Atlético-MG: clubes multados e Formiga punido por agressão](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/6/csm_Julgamento_CRB__Atletico_MG_e_Formiga_-_foto_Daniela_Lameira_Pinto_-_STJD_ee24ca6f0b.png)
+Saiba qual cidade nos EUA está dando dinheiro para novos moradores](https://www.tnh1.com.br/noticia/nid/saiba-qual-cidade-nos-eua-esta-dando-dinheiro-para-novos-moradores/ "Saiba qual cidade nos EUA está dando dinheiro para novos moradores")[![Turista foi devorada por tubarão após passar mal durante mergulho, dizem amigos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_turista-corpo-tubarao-reproducao_d5f8b9bc7b.jpg)
 
-STJD
+Na Indonésia
 
-STJD
+Na Indonésia
 
-CRB x Atlético-MG: clubes multados e Formiga punido por agressão
+Turista foi devorada por tubarão após passar mal durante mergulho, dizem amigos
 
-CRB x Atlético-MG: clubes multados e Formiga punido por agressão](https://www.tnh1.com.br/noticia/nid/crb-x-atletico-mg-clubes-multados-e-formiga-punido-por-agressao/ "CRB x Atlético-MG: clubes multados e Formiga punido por agressão")[![Maceió registrou 11 óbitos por meningite em 2024, aponta relatório da SMS](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/4/csm_csm_csm_crianc-a-meningite-meningoco-cica_451f7fecd2_9f0f4314bc_0d911b45d7.jpg)
-
-Saúde
+Turista foi devorada por tubarão após passar mal durante mergulho, dizem amigos](https://www.tnh1.com.br/noticia/nid/turista-foi-devorada-por-tubarao-apos-passar-mal-durante-mergulho-dizem-amigos/ "Turista foi devorada por tubarão após passar mal durante mergulho, dizem amigos")[![Tratamento contra câncer traz riscos para gravidez? Entenda](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/4/csm_gravidez-reproducao-freepik_4946d9919d.jpg)
 
 Saúde
 
-Maceió registrou 11 óbitos por meningite em 2024, aponta relatório da SMS
+Saúde
 
-Maceió registrou 11 óbitos por meningite em 2024, aponta relatório da SMS](https://www.tnh1.com.br/noticia/nid/maceio-registrou-11-obitos-por-meningite-em-2024-aponta-relatorio-da-sms/ "Maceió registrou 11 óbitos por meningite em 2024, aponta relatório da SMS")
+Tratamento contra câncer traz riscos para gravidez? Entenda
+
+Tratamento contra câncer traz riscos para gravidez? Entenda](https://www.tnh1.com.br/noticia/nid/tratamento-contra-cancer-traz-riscos-para-gravidez-entenda/ "Tratamento contra câncer traz riscos para gravidez? Entenda")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
