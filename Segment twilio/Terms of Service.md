@@ -1591,11 +1591,13 @@ We can't wait to see what you build.
 
 ### Docs
 
-* [Quickstarts](https://www.twilio.com/docs/quickstart)
-* [Tutorials](https://www.twilio.com/docs/tutorials)
-* [API Reference](https://www.twilio.com/docs/api)
+* [Communications](https://www.twilio.com/docs#communications)
+* [Customer Data](https://www.twilio.com/docs#customer-data)
+* [Engagement Applications](https://www.twilio.com/docs#engagement-applications)
+* [Twilio Essentials](https://www.twilio.com/docs#twilio-essentials)
 * [Helper Libraries](https://www.twilio.com/docs/libraries)
-* [API Status](https://status.twilio.com/?_ga=2.40291234.1826591240.1667227419-607057990.1661885030)
+* [Developer Resources](https://www.twilio.com/docs#developer-toolkit)
+* [All Docs](https://www.twilio.com/docs)
 
 ### Company
 
