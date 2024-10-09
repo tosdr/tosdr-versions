@@ -63,7 +63,9 @@ As far as neither the individual agreement nor these Terms and Conditions contai
 
 **Ownership of Service.**
 
-Welcome to TargetVideo. TargetVideo’s  websites (www.brid.tv, www.target-video.com and any variations of or successors to these websites, hereinafter collectively referred to as “**the TargetVideo Websites**” or “**the Websites**”) and the TargetVideo service (together with the Website, hereinafter referred to as “**the TargetVideo Service(s)**” or “**the Service(s)**”) are owned by TargetVideo GmbH or, occasionally, its subsidiary and affiliate corporations, successors and assignees,      including the affiliate       Brid Video d.o.o. which is responsible for customer and technical services (hereinafter collectively referred to as “**TargetVideo**”). TargetVideo Services currently consist of various web pages at or linked to the Websites as well as numerous websites run by other companies that have entered into an agreement and/or arrangement with TargetVideo to publish their content through the TargetVideo Services on their website. The TargetVideo Services shall also include the placement of advertisements on the websites owned and/or controlled by the Client.
+Welcome to TargetVideo. TargetVideo’s  websites (www.brid.tv, www.target-video.com and any variations of or successors to these websites, hereinafter collectively referred to as “**the TargetVideo Websites**” or “**the Websites**”), TargetVideo Video Technology (hereinafter referred to as „Video Technology“) and the TargetVideo service (together with the Website and Video Technology hereinafter referred to as “**the TargetVideo Service(s)**” or “**the Service(s)**”) are owned by TargetVideo GmbH or, occasionally, its subsidiary and affiliate corporations, successors and assignees,      including the affiliate       Brid Video d.o.o. which is responsible for customer and technical services (hereinafter collectively referred to as “**TargetVideo**”). TargetVideo Services currently consist of various web pages at or linked to the Websites as well as numerous websites run by other companies that have entered into an agreement and/or arrangement with TargetVideo to publish their content through the TargetVideo Services on their website. The TargetVideo Services shall also include the placement of advertisements on the websites owned and/or controlled by the Client. Video Technology means the TargetVideo’s proprietary software in object code and source code form, which may be licensed to the Client (in object code form only) as specified in the Service Order with the Client(s) using the TargetVideo’s player.
+
+  
 
 **Company Information.**
 
@@ -149,7 +151,7 @@ The Client agrees to integrate the ad tags and codes provided by TargetVideo in 
 
 TargetVideo hereby grants the Client a non-exclusive, non-transferable, non-sublicensable right to use and reproduce the Video Technology and the videoclips on its Website for the term and in accordance with the service order and/or individual agreement concluded between TargetVideo and the Client.
 
-The Client hereby accepts the rights granted in this clause. TargetVideo warrants that the Videos from its library, when used by the Client in accordance with the Service Order and/or individual agreement between TargetVideo and the Client, do not infringe the rights of any third party. The codes provided by TargetVideo may only be used on the Client website.
+The Client hereby accepts the rights granted in this clause. TargetVideo warrants that the Video Technology and Videos from its library, when used by the Client in accordance with the Service Order and/or individual agreement between TargetVideo and the Client, do not infringe the rights of any third party. The codes provided by TargetVideo may only be used on the Client website.
 
 Unless otherwise agreed in the Service Order and/or individual agreement between TargetVideo and the Client, the provisions of the German Tenancy Act shall apply.
 
