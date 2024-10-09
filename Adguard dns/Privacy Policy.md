@@ -166,7 +166,7 @@ Dansk Deutsch English Español Français Hrvatski Italiano Magyar Nederlands Pol
 
 [Log in](https://adguard-dns.io/en/dashboard/)
 
-[AdGuard DNS](https://adguard-dns.io/en/welcome.html) Privacy Policy
+[AdGuard DNS](https://adguard-dns.io/en/welcome.html) Privacy policy
 
 AdGuard DNS Privacy Policy
 
@@ -384,4 +384,4 @@ Support center FAQ Knowledge base Version history Report an issue AdGuard status
 
 Legal documents
 
-EULA Privacy Policy Privacy policy of AdGuard websites Refund policy Terms and conditions Terms of sale
+EULA Privacy policy Privacy policy of AdGuard websites Refund policy Terms and conditions Terms of sale
