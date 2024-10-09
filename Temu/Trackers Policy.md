@@ -201,3 +201,6 @@ If you have any questions or comments about our Privacy Policy or the terms ment
 * Send an email to Temu's Data Protection Office - privacy@temu.com
     
 * Whaleco Inc., Suite 355, 31 St. James Avenue, Boston, Massachusetts 02116, USA
+    
+
+TOP
