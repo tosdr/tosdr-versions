@@ -210,7 +210,7 @@ Resources
 
 Blog
 
-[Generating Images With AI](https://hotpot.ai/blog/ai-art-and-image-generator-guide) [AI Chat Rooms](https://stubbi.ai/?s=hotpot1) [App Store Screenshot Sizes](https://hotpot.ai/blog/app-store-screenshot-sizes) [App Icon Generator](https://hotpot.ai/blog/app-icon-generator) [Make App Store Screenshots](https://hotpot.ai/blog/how-to-make-app-store-screenshots) [Make Panorama Screenshots](https://hotpot.ai/blog/how-to-make-app-store-panorama-screenshots) [Business Name Generator](https://www.panabee.com/business-name-generator?s=hotpot) [App Name Generator](https://www.panabee.com/app-name-generator?s=hotpot) [App Store Screenshot Generator](https://hotpot.ai/app-store-screenshot-generator) [Dall-E Mini Alternative](https://hotpot.ai/dalle-mini) [Dall-E 2 Alternative](https://hotpot.ai/dalle-2) [Translate JSON files](https://hotpot.ai/blog/translate-json)
+[Generating Images With AI](https://hotpot.ai/blog/ai-art-and-image-generator-guide) [AI Chat Rooms](https://stubbi.ai/?s=hotpot) [App Store Screenshot Sizes](https://hotpot.ai/blog/app-store-screenshot-sizes) [App Icon Generator](https://hotpot.ai/blog/app-icon-generator) [Make App Store Screenshots](https://hotpot.ai/blog/how-to-make-app-store-screenshots) [Make Panorama Screenshots](https://hotpot.ai/blog/how-to-make-app-store-panorama-screenshots) [Business Name Generator](https://www.panabee.com/business-name-generator?s=hotpot) [App Name Generator](https://www.panabee.com/app-name-generator?s=hotpot) [App Store Screenshot Generator](https://hotpot.ai/app-store-screenshot-generator) [Dall-E Mini Alternative](https://hotpot.ai/dalle-mini) [Dall-E 2 Alternative](https://hotpot.ai/dalle-2) [Translate JSON files](https://hotpot.ai/blog/translate-json)
 
 Templates
 
