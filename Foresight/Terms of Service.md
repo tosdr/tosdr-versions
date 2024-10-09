@@ -14,11 +14,10 @@ Popular products
 * [See all templates, courses, and services](https://foresight.is/products/)
 
 * [77k+ Downloads](https://foresight.is/users/)
-* [Updates 2](#)
+* [Updates 1](#)
     
     * [Changelog](https://foresight.is/changelog/)
     * [New Rolling Funds Model](https://foresight.is/changelog/#2024-10-04-new-rolling-fund)
-    * [New live preview option](https://foresight.is/changelog/#2024-09-24-preview)
     
 * [Docs](https://foresight.is/docs/)
 
