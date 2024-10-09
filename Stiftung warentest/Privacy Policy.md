@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Strom­mess­geräte im Test: Diese Geräte entlarven Strom­fresser](https://www.test.de/Strommessgeraete-im-Test-1781202-0/ "Strommessgeräte im Test - Diese Geräte entlarven Stromfresser")
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Gesetzliche Renten­versicherung: 2023 steigt der Mindest­beitrag](https://www.test.de/Gesetzliche-Rentenversicherung-2023-steigt-der-Mindestbeitrag-5945205-0/ "Gesetzliche Rentenversicherung - 2023 steigt der Mindestbeitrag")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Ringelröteln: Für Kinder meist harmlos, für Schwangere nicht](https://www.test.de/Ringelroeteln-Fuer-Kinder-meist-harmlos-fuer-Schwangere-nicht-6123237-0/ "Ringelröteln - Für Kinder meist harmlos, für Schwangere nicht")
+* [Digitalkameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Digitalkameras im Test - Richtig gute Bilder machen – mit System!")
+* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
 
 Service Stiftung Warentest
 
