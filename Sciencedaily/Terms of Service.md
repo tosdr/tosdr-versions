@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 8, 2024**
+**October 9, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Viruses Are Teeming On Your Showerhead](https://www.sciencedaily.com/releases/2024/10/241009122630.htm)
+* [Biodegradable Nano-Ribbons for Energy, IT, Meds](https://www.sciencedaily.com/releases/2024/10/241009121344.htm)
+* [Electronic Tongue Reveals AI Inner Thoughts](https://www.sciencedaily.com/releases/2024/10/241009121229.htm)
+* [Another Step Towards Decoding Smell](https://www.sciencedaily.com/releases/2024/10/241009121121.htm)
 * [Will AI Tools Revolutionize Public Health?](https://www.sciencedaily.com/releases/2024/10/241008201419.htm)
 * [Toward More Efficient Electronics](https://www.sciencedaily.com/releases/2024/10/241008201417.htm)
 * [Synthetic Genetic Material Produced](https://www.sciencedaily.com/releases/2024/10/241008201414.htm)
 * [How Mars Became Uninhabitable](https://www.sciencedaily.com/releases/2024/10/241007165317.htm)
 * [Climate Report Warns of Escalating Crisis](https://www.sciencedaily.com/releases/2024/10/241008103757.htm)
 * [Holographic 3D Printing](https://www.sciencedaily.com/releases/2024/10/241008122240.htm)
-* [Practical Solar-Powered Desalination System](https://www.sciencedaily.com/releases/2024/10/241008103809.htm)
-* [Challenges in Vaccinations of Adults](https://www.sciencedaily.com/releases/2024/10/241007115102.htm)
-* [New Approach to End Jet Lag](https://www.sciencedaily.com/releases/2024/10/241007115447.htm)
-* [Our Lives in the Mirror of Our Data](https://www.sciencedaily.com/releases/2024/10/241007115253.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
+[Joint Health](https://www.sciencedaily.com/news/health_medicine/joint_health/)
 
-[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
+[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
-[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
+[Liver Disease](https://www.sciencedaily.com/news/health_medicine/liver_disease/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Engineering and Construction](https://www.sciencedaily.com/news/matter_energy/engineering_and_construction/)
+[Weapons Technology](https://www.sciencedaily.com/news/matter_energy/weapons_technology/)
 
-[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
+[Quantum Computers](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
 
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+[Quantum Computing](https://www.sciencedaily.com/news/matter_energy/quantum_computing/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Storms](https://www.sciencedaily.com/news/earth_climate/storms/)
+[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
 
 [Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
 
-[Botany](https://www.sciencedaily.com/news/plants_animals/botany/)
+[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
   
 
