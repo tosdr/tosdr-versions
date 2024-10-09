@@ -22,21 +22,21 @@ Hi. My name is Niklas Pivic. I read and review books that have somehow intereste
 
 ### Latest Posts
 
-[](https://niklas.reviews/graeme-thomson-under-the-ivy)
+[](https://niklas.reviews/kate-conger-ryan-mac-character-limit)
 
-7 min read Sep 20, 2024
+29 min read Oct 9, 2024
 
-#### [Graeme Thomson - 'Under the Ivy'](https://niklas.reviews/graeme-thomson-under-the-ivy)
+#### [Kate Conger and Ryan Mac - 'Character Limit: How Elon Musk Destroyed Twitter'](https://niklas.reviews/kate-conger-ryan-mac-character-limit)
 
 [](https://niklas.reviews/about/)
 
 [Niklas Pivic](https://niklas.reviews/about/)
 
-[](https://niklas.reviews/nick-banks-so-it-started-there)
+[](https://niklas.reviews/graeme-thomson-under-the-ivy)
 
-9 min read Aug 23, 2024
+7 min read Sep 20, 2024
 
-#### [Nick Banks - 'So it Started There'](https://niklas.reviews/nick-banks-so-it-started-there)
+#### [Graeme Thomson - 'Under the Ivy'](https://niklas.reviews/graeme-thomson-under-the-ivy)
 
 [](https://niklas.reviews/about/)
 
