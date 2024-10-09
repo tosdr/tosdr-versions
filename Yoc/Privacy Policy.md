@@ -248,14 +248,14 @@ Due to the further development of our website and offers above or due to chang
 
 and printed out.
 
-[Our Products](https://yoc.com/products-overview)
+[Our Products](https://yoc.com/product-overview)
 
 * [YOC Universal Display Solutions](https://yoc.com/products/yoc-universal-display-solution)
 * [YOC Universal Video Solution](https://yoc.com/products/yoc-universal-video-solution)
 * [YOC Mystery Ad®](https://yoc.com/products/yoc-mystery-ad)
 * [YOC Understitial Ad®](https://yoc.com/products/yoc-understitial-ad)
 * [YOC Mystery Scroller®](https://yoc.com/products/yoc-mystery-scroller)
-* [YOC Branded Takeover](https://yoc.com/products/yoc-branded-takeover-)
+* [YOC Branded Takeover](https://yoc.com/products/yoc-branded-takeover)
 * [YOC Skin](https://yoc.com/products/yoc-skin)
 * [YOC Sitebar](https://yoc.com/products/yoc-sitebar)
 * [YOC Zoom Ad](https://yoc.com/products/yoc-zoom-ad)
@@ -263,9 +263,9 @@ and printed out.
 
 [Our Technology](https://yoc.com/our-technology)
 
-* [VIS.X® Platform](https://yoc.com/visx-plattform)
-* [Publishing Partner](https://yoc.com/publishing-partner-de)
-* [VIS.X® Identity Intelligence](https://yoc.com/visx-identity-intelligence-en)
+* [VIS.X® Platform](https://yoc.com/visx-platform)
+* [Publishing Partner](https://yoc.com/publishing-partner)
+* [VIS.X® Identity Intelligence](https://yoc.com/visx-identity-intelligence)
 
 [Resources](https://yoc.com/resources)
 
@@ -274,27 +274,27 @@ and printed out.
 * [Case Studies](https://yoc.com/resources)
 * [YOC Showroom](https://showroom.yoc.com/website/dZ6U-Ol8B-aUMH)
 
-[Company](https://yoc.com/unternehmen)
+[Company](https://yoc.com/company)
 
-* [About YOC](https://yoc.com/unternehmen)
-* [Career](https://yoc.com/karriere)
-* [Contact](https://yoc.com/kontakt)
+* [About YOC](https://yoc.com/company)
+* [Career](https://yoc.com/career)
+* [Contact](https://yoc.com/contact)
 * [Contracts](https://yoc.com/contracts)
 
 [Investor Relations](https://yoc.com/investor-relations)
 
 * [YOC Share](https://yoc.com/yoc-share)
 * [News](https://yoc.com/ir-news)
-* [YOC at a glance](https://yoc.com/yoc-at-a-glance)
-* [Financial Reports](https://yoc.com/ir-financial-reports)
-* [Management & Corporate Governance](https://yoc.com/management-corporate-governance-en)
-* [Analyst Recommendations](https://yoc.com/ir-analyst--recommandations)
-* [Annual Shareholder Meeting](https://yoc.com/ir-annual-shareholder)
+* [YOC at a glance](https://yoc.com/ir-overview)
+* [Financial Reports](https://yoc.com/financial-reports)
+* [Management & Corporate Governance](https://yoc.com/management-corporate-governance)
+* [Analyst Recommendations](https://yoc.com/analyst-recommandations)
+* [Annual Shareholder Meeting](https://yoc.com/annual-shareholders-meeting)
 * [Financial Calendar](https://yoc.com/financial-calender)
 
 ![logo-dark](https://yoc.com/media/yoc logo-1.svg)
 
-[Privacy Policy](https://yoc.com/privacy)[Contact](https://yoc.com/kontakt)[Imprint](https://yoc.com/imprint)[Login](https://hub.yoc.com/)
+[Privacy Policy](https://yoc.com/privacy)[Contact](https://yoc.com/contact)[Imprint](https://yoc.com/imprint)[Login](https://hub.yoc.com/)
 
 [![linkedin](https://yoc.com/media/Vector.svg)](https://www.linkedin.com/company/38324)[![instagram](https://yoc.com/media/Social Icons.svg)](https://www.instagram.com/yoc_group/)[![youtube](https://yoc.com/media/Vector-1.svg)](https://www.youtube.com/@YOCgroup)[![facebook](https://yoc.com/media/Vector-2.svg)](https://www.facebook.com/YOCGroup)
 
@@ -312,7 +312,7 @@ Newsletter
 
 ### Investor Relations
 
-[Privacy Policy](https://yoc.com/privacy)[Contact](https://yoc.com/kontakt)[Imprint](https://yoc.com/imprint)[Login](https://hub.yoc.com/)
+[Privacy Policy](https://yoc.com/privacy)[Contact](https://yoc.com/contact)[Imprint](https://yoc.com/imprint)[Login](https://hub.yoc.com/)
 
 Newsletter
 
