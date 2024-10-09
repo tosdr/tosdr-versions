@@ -865,8 +865,9 @@ Find out for yourself what TDS has to offer for you.
 | Sign up your email to get the latest offers, specials, news, and more. | [Subscribe](https://hellotds.com/email-subscribe.html) |
 
 * [My Account](https://iammyaccount.tds.net/)
+* [Terms & Policies](https://hellotds.com/policies.html)
+* [Download Broadband Label Data File](https://broadbandlabels.prod.apigw.tds.net/broadband_labels/download/)
 * [About](https://hellotds.com/about.html)
-* [Residential Service Terms and Policies](https://hellotds.com/policies.html)
 * [Sitemap](https://hellotds.com/sitemap.html)
 * [Carrier Wholesale](https://tdsbusiness.com/carrier-wholesale.html)
 * [TDS Connect](https://hellotds.com/information/tds-connect.html)
