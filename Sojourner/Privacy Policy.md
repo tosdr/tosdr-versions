@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-95195e5f5dcc765619d73a065a9ea595
+7fe3160e0e56d9762bc89ac334763523
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![2 mm amethyst round beads](https://www.sojourner.biz/images/cache/amethyst/YST012.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")
+[![Simple White Pearls necklace](https://www.sojourner.biz/images/cache/jewelry/N0100.200.jpg)](https://www.sojourner.biz/jewelry/necklaces/simple-white-pearls-necklace.html "Simple White Pearls necklace")
 
-#### [2 mm amethyst round beads](https://www.sojourner.biz/beads/stone-a-l/amethyst/2-mm-amethyst-round-beads.html "2 mm amethyst round beads")
+#### [Simple White Pearls necklace](https://www.sojourner.biz/jewelry/necklaces/simple-white-pearls-necklace.html "Simple White Pearls necklace")
 
-$10.00
+$135.00
 
 ### Best Sellers
 
