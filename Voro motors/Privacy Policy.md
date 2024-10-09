@@ -1,6 +1,6 @@
 □
 
-              Privacy Policy - VORO MOTORS                          
+                  Privacy Policy - VORO MOTORS                      
 
           
 
