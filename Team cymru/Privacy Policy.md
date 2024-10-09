@@ -1,6 +1,6 @@
 top of page
 
-10/08/24: Please be advised that due to the impact of Hurricane Milton, response times may be delayed.
+10/09/24: Please be advised that due to the impact of Hurricane Milton, response times may be delayed.
 
 [![TC_logo_horizontal.png](https://static.wixstatic.com/media/6b0b63_01d131921a52439e941893598a7ecfca~mv2.png/v1/fill/w_187,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TC_logo_horizontal.png)](https://www.team-cymru.com/)
 
@@ -411,7 +411,7 @@ By mail: 901 International Parkway, Suite 350, Lake Mary, FL 32746, USA
 
 ​
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_67,h_14,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_85,h_17,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
 ![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_79,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
@@ -419,9 +419,9 @@ PRODUCTS
 
 [Pure Signal™ Recon](https://www.team-cymru.com/cyber-threat-hunting-tools)
 
-[Pure Signal™ Scout](https://www.team-cymru.com/)
+[Pure Signal™ Scout](https://www.team-cymru.com/threat-intelligence-platform)
 
-[Pure Signal™ Orbit](https://www.team-cymru.com/)
+[Pure Signal™ Orbit](https://www.team-cymru.com/attack-surface-management-tools)
 
 [IP Reputation Feed](https://www.team-cymru.com/ip-address-reputation-check)
 
@@ -431,11 +431,11 @@ PRODUCTS
 
 COMMUNITY SERVICES
 
-[Nimbus Threat Monitor](https://www.team-cymru.com/)
+[Nimbus Threat Monitor](https://www.team-cymru.com/nimbus-threat-monitor)
 
 [UTRS](https://www.team-cymru.com/ddos-mitigation-services)
 
-[BOGON Reference](https://www.team-cymru.com/)
+[BOGON Reference](https://www.team-cymru.com/bogon-networks)
 
 [CSIRT Assistance Program](https://www.team-cymru.com/csirt-ap)
 
