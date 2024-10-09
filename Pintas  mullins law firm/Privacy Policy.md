@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including phone calls, text messages, autodialed / auto-selected or pre-recorded calls). I understand that message and data rates may apply and that consent to such contact is not required for use of these services. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/)[Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy-pr/) and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How much roundup is dangerous?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-much-roundup-is-dangerous-scaled.jpg "How Much Roundup Is Dangerous?")](https://www.pintas.com/lawsuit/roundup-weed-killer/how-much-roundup-is-dangerous/ "How Much Roundup Is Dangerous?")
+[![How will mesothelioma change my life?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-how-will-mesothelioma-change-my-life.jpg "How Will Mesothelioma Change My Life?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/ "How Will Mesothelioma Change My Life?")
 
-[#### How Much Roundup Is Dangerous?](https://www.pintas.com/lawsuit/roundup-weed-killer/how-much-roundup-is-dangerous/)
+[#### How Will Mesothelioma Change My Life?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/)
 
-[![Can a chest x-ray show asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-chest-xray-show-asbestos.jpg "Can a Chest X-ray Show Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-chest-xray-show-asbestos/ "Can a Chest X-ray Show Asbestos?")
+[![How do you get roundup off your skin?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-do-you-get-roundup-off-your-skin.jpg "How Do You Get Roundup Off Your Skin?")](https://www.pintas.com/lawsuit/roundup-weed-killer/how-do-you-get-roundup-off-your-skin/ "How Do You Get Roundup Off Your Skin?")
 
-[#### Can a Chest X-ray Show Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-a-chest-xray-show-asbestos/)
+[#### How Do You Get Roundup Off Your Skin?](https://www.pintas.com/lawsuit/roundup-weed-killer/how-do-you-get-roundup-off-your-skin/)
 
-[![Can blood tests show lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-can-blood-tests-show-lung-cancer.jpg "Can Blood Tests Show Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-blood-tests-show-lung-cancer/ "Can Blood Tests Show Lung Cancer?")
+[![What are the signs and symptoms of asbestos exposure?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-are-the-signs-and-symptoms-of-asbestos-exposure.jpg "What Are the Signs and Symptoms of Asbestos Exposure?")](https://www.pintas.com/practice-areas/lung-cancer/symptoms-of-asbestos-exposure "What Are the Signs and Symptoms of Asbestos Exposure?")
 
-[#### Can Blood Tests Show Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-blood-tests-show-lung-cancer/)
+[#### What Are the Signs and Symptoms of Asbestos Exposure?](https://www.pintas.com/practice-areas/lung-cancer/symptoms-of-asbestos-exposure)
 
 ### Injured?  
 Tell Us What Happened.
