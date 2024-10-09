@@ -1,6 +1,6 @@
 ![](img/keepd-logo-shadow.png)
 
-The home for the things you want to keep
+Your home for the things you want to keep
 
 [](https://www.stayprivatemail.com/index.html)
 
@@ -43,6 +43,10 @@ Don't have an account? [Sign Up](https://keepd.com/keepd-signup/)
  [Groups Listing](#) 
 
 1-50 of 300   
+
+Compose
+
+Compose
 
 Presence  
 
