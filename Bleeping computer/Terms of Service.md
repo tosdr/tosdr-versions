@@ -36,6 +36,9 @@
         
         AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
     
+    * [![How to get a refurbished MacBook Air for $369.99](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        How to get a refurbished MacBook Air for $369.99](https://www.bleepingcomputer.com/offer/deals/how-to-get-a-refurbished-macbook-air-for-36999/)
     * [![New scanner finds Linux, UNIX servers exposed to CUPS RCE attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New scanner finds Linux, UNIX servers exposed to CUPS RCE attacks](https://www.bleepingcomputer.com/news/software/new-scanner-finds-linux-unix-servers-exposed-to-cups-rce-attacks/)
@@ -45,9 +48,6 @@
     * [![New Mamba 2FA bypass service targets Microsoft 365 accounts](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New Mamba 2FA bypass service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-mamba-2fa-bypass-service-targets-microsoft-365-accounts/)
-    * [![Microsoft fixes Remote Desktop issues caused by Windows Server update](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft fixes Remote Desktop issues caused by Windows Server update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-issues-caused-by-windows-server-update/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,15 +352,15 @@ Melville, NY 11747**
 
 Popular Stories
 
+* [![Airgapped](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    European govt air-gapped systems breached using custom malware](https://www.bleepingcomputer.com/news/security/european-govt-air-gapped-systems-breached-using-custom-malware/)
 * [![Word](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Microsoft: Word deletes some documents instead of saving them](https://www.bleepingcomputer.com/news/microsoft/microsoft-word-for-microsoft-365-deletes-some-documents-instead-of-saving-them/)
-* [![ADT](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Mamba Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ADT discloses second breach in 2 months, hacked via stolen credentials](https://www.bleepingcomputer.com/news/security/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/)
-* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Windows 11 KB5044284 and KB5044285 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5044284-and-kb5044285-cumulative-updates-released/)
+    New Mamba 2FA bypass service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-mamba-2fa-bypass-service-targets-microsoft-365-accounts/)
 
 ##### Follow us:
 
