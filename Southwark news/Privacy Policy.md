@@ -19,6 +19,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![An illustration of the development. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/gg-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
+    
+    ### [Seventeen-storey apartment block approved on Rotherhithe roundabout](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
+    
+    [![Deborah Onyeukwu (left) and Harry Kite (right). Credit: Jack Petchey Foundation](https://southwarknews.co.uk/wp-content/uploads/2024/10/JP-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
+    
+    ### [Peckham schoolgirl who overcame speech impediment to sing on stage among students receiving Jack Petchey Awards](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
+    
     [![Miatta Fahnbulleh has been urged to step in and ensure district heating network inefficiencies are investigated 'at the highest level'](https://southwarknews.co.uk/wp-content/uploads/2024/10/Miatta-Fahnbulleh-has-been-urged-to-step-in-and-ensure-district-heating-network-inefficencies-are-investigated-at-the-highest-level-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-mp-urged-to-intervene-in-southwark-district-heating-crisis/)
     
     ### [Peckham MP urged to ‘intervene’ in Southwark district heating crisis](https://southwarknews.co.uk/area/peckham/peckham-mp-urged-to-intervene-in-southwark-district-heating-crisis/)
@@ -47,14 +55,6 @@
     [![A CGI look inside the new LCC building (Get Living)](https://southwarknews.co.uk/wp-content/uploads/2024/10/CS_935_ElephantCastle_Challenge_NewLCC-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
     
     ### [New UAL building hits construction milestone in £4bn development of ‘The Elephant’](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
-    
-    [![A shopper at a St Christopher's charity shop. Credit: Rachel Manns](https://southwarknews.co.uk/wp-content/uploads/2024/10/st_christophers_hospice_september_24_rachel_manns_58-360x180.jpg)](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
-    
-    ### [Hospices relying more on charity shops than government funding, warns South London hospice](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
-    
-    [![The Walworth Road looking west towards Elephant and Castle. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Walworth-Road-seen-leading-west-towards-Elephant-and-Castle-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
-    
-    ### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![An illustration of the development. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/gg-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
+    
+    ### [Seventeen-storey apartment block approved on Rotherhithe roundabout](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
+    
+    [![Deborah Onyeukwu (left) and Harry Kite (right). Credit: Jack Petchey Foundation](https://southwarknews.co.uk/wp-content/uploads/2024/10/JP-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
+    
+    ### [Peckham schoolgirl who overcame speech impediment to sing on stage among students receiving Jack Petchey Awards](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
+    
     [![Miatta Fahnbulleh has been urged to step in and ensure district heating network inefficiencies are investigated 'at the highest level'](https://southwarknews.co.uk/wp-content/uploads/2024/10/Miatta-Fahnbulleh-has-been-urged-to-step-in-and-ensure-district-heating-network-inefficencies-are-investigated-at-the-highest-level-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-mp-urged-to-intervene-in-southwark-district-heating-crisis/)
     
     ### [Peckham MP urged to ‘intervene’ in Southwark district heating crisis](https://southwarknews.co.uk/area/peckham/peckham-mp-urged-to-intervene-in-southwark-district-heating-crisis/)
@@ -128,14 +136,6 @@ View All Result
     [![A CGI look inside the new LCC building (Get Living)](https://southwarknews.co.uk/wp-content/uploads/2024/10/CS_935_ElephantCastle_Challenge_NewLCC-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
     
     ### [New UAL building hits construction milestone in £4bn development of ‘The Elephant’](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
-    
-    [![A shopper at a St Christopher's charity shop. Credit: Rachel Manns](https://southwarknews.co.uk/wp-content/uploads/2024/10/st_christophers_hospice_september_24_rachel_manns_58-360x180.jpg)](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
-    
-    ### [Hospices relying more on charity shops than government funding, warns South London hospice](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
-    
-    [![The Walworth Road looking west towards Elephant and Castle. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Walworth-Road-seen-leading-west-towards-Elephant-and-Castle-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
-    
-    ### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -355,6 +355,12 @@ Website
 
 [2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
 
+[![The Walworth Road looking west towards Elephant and Castle. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Walworth-Road-seen-leading-west-towards-Elephant-and-Castle-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
+
+### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
+
+[8th October 2024](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
+
 [![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
 
 ### [Printworks nightclub comeback a ‘fantastic boost’ for South London](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
@@ -368,13 +374,19 @@ CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/gar
 
 [4th October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
 
-[![The Walworth Road looking west towards Elephant and Castle. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Walworth-Road-seen-leading-west-towards-Elephant-and-Castle-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
-
-### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
-
-[8th October 2024](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
-
 ### Featured Articles
+
+[![An illustration of the development. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/gg-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
+
+### [Seventeen-storey apartment block approved on Rotherhithe roundabout](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
+
+[9th October 2024](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
+
+[![Deborah Onyeukwu (left) and Harry Kite (right). Credit: Jack Petchey Foundation](https://southwarknews.co.uk/wp-content/uploads/2024/10/JP-120x86.png)](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
+
+### [Peckham schoolgirl who overcame speech impediment to sing on stage among students receiving Jack Petchey Awards](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
+
+[9th October 2024](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
 
 [![Miatta Fahnbulleh has been urged to step in and ensure district heating network inefficiencies are investigated 'at the highest level'](https://southwarknews.co.uk/wp-content/uploads/2024/10/Miatta-Fahnbulleh-has-been-urged-to-step-in-and-ensure-district-heating-network-inefficencies-are-investigated-at-the-highest-level-120x86.png)](https://southwarknews.co.uk/area/peckham/peckham-mp-urged-to-intervene-in-southwark-district-heating-crisis/)
 
@@ -399,18 +411,6 @@ CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/gar
 ### [Netflix’s Supacell cast to take part in sickle cell awareness event in Peckham](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
 
 [8th October 2024](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
-
-[![A CGI look inside the new LCC building (Get Living)](https://southwarknews.co.uk/wp-content/uploads/2024/10/CS_935_ElephantCastle_Challenge_NewLCC-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
-
-### [New UAL building hits construction milestone in £4bn development of ‘The Elephant’](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
-
-[8th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
-
-[![A shopper at a St Christopher's charity shop. Credit: Rachel Manns](https://southwarknews.co.uk/wp-content/uploads/2024/10/st_christophers_hospice_september_24_rachel_manns_58-120x86.jpg)](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
-
-### [Hospices relying more on charity shops than government funding, warns South London hospice](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
-
-[8th October 2024](https://southwarknews.co.uk/area/southwark/hospices-relying-more-on-charity-shops-than-government-funding-warns-south-london-hospice/)
 
 ### USEFUL PAGES
 
