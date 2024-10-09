@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/richard-gage-ae911-op-tu-delft-kom-je-ook/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/gigantische-asteroide-op-weg-naar-aarde/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -203,6 +203,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### De sluiers worden opgelicht..!
+
+[Trump heeft Jeruzalem toch ook erkent als hoofdstad van Isra…](https://www.wanttoknow.nl/inspiratie/de-sluiers-worden-opgelicht/comment-page-1/#comment-626335)
 
 ![Arend Zeevat](https://secure.gravatar.com/avatar/54f43225736f1bab22ea8f9a12c4d3a3?s=50&d=identicon&r=g)
 
@@ -451,14 +459,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Donald Trump’s argwaan over beveiliging..!!
 
 [Het is toch net een script uit een B-film niet? Maar dan één…](https://www.wanttoknow.nl/overige/donald-trumps-argwaan-over-beveiliging/comment-page-1/#comment-626302)
-
-![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
-
-##### **ikzie** reacts on:
-
-##### En zo vond de US-verkiezingsfraude plaats..!!
-
-[Trump neergeschoten. https://www.youtube.com/watch?v=AC5TNz4…](https://www.wanttoknow.nl/politiek/verkiezingen/en-zo-vond-de-us-verkiezingsfraude-plaats/comment-page-1/#comment-626301)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
