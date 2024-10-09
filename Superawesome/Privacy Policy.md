@@ -279,7 +279,7 @@ The following tables outline the purposes for which we may process End Users’ 
 |     |     |     |
 | --- | --- | --- |
 | **Type of data processed by AwesomeAds Marketplace** | **Purpose of processing data** | **Lawful basis for processing data** |
-| End Users’ Device Data | Momentarily observed on the End User’s device to create a Marker for the purpose of facilitating an Ad request to AwesomeAds Marketplace For Ads with augmented reality functionality, processed to serve the correct unit format and provide analytics on a device type/format basis | Legitimate interests to deliver safe Ads to End Users (who may be children) |
+| End Users’ Device Data | Momentarily observed on the End User’s device to create a Marker for the purpose of facilitating an Ad request to AwesomeAds Marketplace  <br>For Ads with augmented reality functionality, processed to serve the correct unit format and provide analytics on a device type/format basis | Legitimate interests to deliver safe Ads to End Users (who may be children) |
 
 |     |     |
 | --- | --- |
