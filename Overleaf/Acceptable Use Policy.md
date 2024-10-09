@@ -24,7 +24,7 @@ Privacy and Terms
 Overleaf Privacy & Terms Overview
 ---------------------------------
 
-Last Modified: 23rd September 2024
+Last Modified: 9th October 2024
 
 Thank you for using Overleaf!
 
@@ -39,7 +39,7 @@ Below you will find the full Terms of Service, Privacy Notice, Cookie Policy, Se
 Overleaf Terms of Service
 -------------------------
 
-Last Modified: 14th June 2024
+Last Modified: 9th October 2024
 
 These terms of service (the **“Terms”**) govern your access to and use of the website at [www.overleaf.com](https://www.overleaf.com/) or [www.sharelatex.com](https://www.sharelatex.com/) (the **“Site”**) and the products and services made available via or in connection with the Site, including related apps and browser extensions (the **“Services”**) provided by Digital Science UK Limited (**“we”** or **“our”** or **“Overleaf”**), so please carefully read them before using the Services.
 
@@ -81,6 +81,16 @@ If your account is a managed account, you are part of a managed Overleaf subscri
 
 You cannot change from a managed to an unmanaged account. Therefore, it is important that you consider whether a managed account is right for you before you register for one or agree to transfer an existing unmanaged account to a managed account.
 
+### Overleaf AI
+
+If you use AI powered features or functionality of Overleaf (collectively, “Overleaf AI Tools”), this section shall apply.
+
+“Input” means an input you enter into the Overleaf AI Tool; and “Output” means an output generated and returned to you by the Overleaf AI Tool based on your Input.
+
+Inputs and Outputs will be treated by us as your Stuff under these Terms. We will not use your Inputs to train models without your consent, and as between you and us, you retain ownership of the Inputs and shall own Outputs, to the extent permitted by applicable law. Due to the nature of the Overleaf AI Tools and artificial intelligence generally, Outputs are provided “AS-IS” and may not be unique, meaning other users may receive similar outputs from the Overleaf AI Tools. You are solely responsible for all use of the Outputs, which you should always check, including for accuracy, completeness and suitability.
+
+Writefull for Overleaf shall be deemed an Overleaf AI Tool and as such, form part of the Services and be subject to these Terms (and, for the avoidance of doubt, corresponding Inputs and Outputs will be treated as your Stuff). By being a Writefull for Overleaf user, you may also become eligible to access related products and services provided by our affiliate, ThinqLab Ltd (with whom we may share your details for such purposes in accordance with our privacy policy), use of which will be subject to their own terms of use and not these Terms.
+
 ### Our Rights
 
 The Service is owned by or licensed to Overleaf and/or its affiliates, and is protected by copyrights, trademarks, service marks, patents, trade secrets and/or other industrial and proprietary rights and laws, including international conventions and treaties (“Proprietary Rights”). In particular, you acknowledge that the Site and other parts of the Service are protected by copyright as collective works and/or compilations pursuant to U.S. copyright laws. Nothing in these Terms shall operate to transfer any Proprietary Rights in any part of the Service, to grant any rights to use the name “Overleaf” or our other trademarks or to give rise to any implied rights.
@@ -101,7 +111,7 @@ You are responsible for maintaining and protecting all of your stuff, and should
 
 ### Beta Services
 
-From time to time, we may make available Beta Services. Beta Services may not always perform as expected and may be changed or withdrawn at any time without notice. Any use of Beta Services, which are provided “AS IS” and “AS AVAILABLE”, is solely at your own risk, and may be subject to additional requirements specified by us and include features that are of a confidential nature. You agree not to make public statements relating to any Beta Service without our prior written approval, and specifically acknowledge that any feedback you provide in relation to any Beta Service, and data collected from their use, may be used to help us develop and improve our products.
+From time to time, we may make available Beta Services. Beta Services may not always perform as expected and may be changed or withdrawn at any time without notice. Any use of Beta Services, which are provided “AS IS” and “AS AVAILABLE”, is solely at your own risk, and may be subject to additional requirements specified by us and include features that are of a confidential nature. You agree not to make public statements relating to any Beta Service without our prior written approval, and specifically acknowledge that any feedback you provide in relation to any Beta Service, and data collected from their use, may be used to help us develop and improve our products, notwithstanding any other provision of these Terms.
 
 All Beta Services shall be considered as being made available subject to these Terms, to the exclusion of all other terms and conditions, including those of any Contract - even where a Beta Service is an additional feature or module to a Service provided as part of a Contract - unless the Beta Service is specifically identified in the Contract as being provided pursuant thereto.
 
@@ -216,7 +226,7 @@ Digital Science UK Limited was formerly known as Writelatex Limited.
 Overleaf Privacy Notice
 -----------------------
 
-Last Modified: 23rd September 2024
+Last Modified: 9th October 2024
 
 This Notice applies to the websites at [www.overleaf.com](https://www.overleaf.com/) or [www.sharelatex.com](https://www.sharelatex.com/) and related services (“Overleaf”).
 
@@ -260,7 +270,7 @@ We may share your personal data within our corporate group on a confidential bas
 * to the agents, advisers and service providers that assist us in running / we use to administer our business;
 * to the subcontractors and service providers\* we use to provide and support Overleaf, including, for example, providers of hosting, security and infrastructure and customer support platforms;
 * if you express interest in an initiative we’re involved in, to other participants in such initiative;
-* if required to enable the integration or use of third party resources accessed / used on Overleaf;
+* if required to enable the integration or use of third party resources accessed or procured via / used on Overleaf;
 * if part of our business is sold to or integrated with another business, to our advisers and any prospective purchasers (and their advisers);
 * in such circumstances for which you have given your consent;
 * if necessary for the performance of the contract we have with you or in order to enforce any claims we are entitled to;
