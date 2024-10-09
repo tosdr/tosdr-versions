@@ -122,7 +122,7 @@ Other languages:
 * [বাংলা](https://meta.miraheze.org/wiki/Terms_of_Use/bn "ব্যবহারের শর্তাবলী (4% translated)")
 * [中文](https://meta.miraheze.org/wiki/Terms_of_Use/zh "使用条款 (31% translated)")
 * [中文（中国大陆）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-cn "使用条款 (16% translated)")
-* [中文（简体）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hans "使用条款 (31% translated)")
+* [中文（简体）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hans "使用条款 (78% translated)")
 * [中文（繁體）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hant "使用條款 (22% translated)")
 * [中文（臺灣）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-tw "使用條款 (2% translated)")
 * [中文（香港）](https://meta.miraheze.org/wiki/Terms_of_Use/zh-hk "使用條款 (8% translated)")
