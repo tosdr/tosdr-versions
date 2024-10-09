@@ -16,7 +16,7 @@
 
 [Explore Wines](#) [Red](https://www.brightcellars.com/collections/red) [White](https://www.brightcellars.com/collections/white) [Rosé](https://www.brightcellars.com/collections/rose) [Sparkling](https://www.brightcellars.com/collections/sparkling) [Packs](https://www.brightcellars.com/collections/packs) [New Releases](https://www.brightcellars.com/collections/new-release) [All Wines](https://www.brightcellars.com/collections/all)
 
-[Varietal](#) [Chardonnay](https://www.brightcellars.com/collections/chardonnay) [Cabernet Sauvignon](https://www.brightcellars.com/collections/cabernet-sauvignon) [Pinot Noir](https://www.brightcellars.com/collections/pinot-noir) [Sauvignon Blanc](https://www.brightcellars.com/collections/sauvignon-blanc) [Riesling](https://www.brightcellars.com/collections/riesling) [Merlot](https://www.brightcellars.com/collections/merlot) [Zinfandel](https://www.brightcellars.com/collections/zinfandel) [Viognier](https://www.brightcellars.com/collections/viognier) [Grenache](https://www.brightcellars.com/collections/grenache)
+[Varietal](#) [Chardonnay](https://www.brightcellars.com/collections/chardonnay) [Cabernet Sauvignon](https://www.brightcellars.com/collections/cabernet-sauvignon) [Pinot Noir](https://www.brightcellars.com/collections/pinot-noir) [Sauvignon Blanc](https://www.brightcellars.com/collections/sauvignon-blanc) [Riesling](https://www.brightcellars.com/collections/riesling) [Merlot](https://www.brightcellars.com/collections/merlot) [Zinfandel](https://www.brightcellars.com/collections/zinfandel) [Grenache](https://www.brightcellars.com/collections/grenache)
 
 [Region](#) [California](https://www.brightcellars.com/collections/california) [France](https://www.brightcellars.com/collections/france) [Italy](https://www.brightcellars.com/collections/italy) [Argentina](https://www.brightcellars.com/collections/argentina) [Spain](https://www.brightcellars.com/collections/spain)
 
@@ -83,8 +83,6 @@ Exit menu Varietal
 [Merlot](https://www.brightcellars.com/collections/merlot)
 
 [Zinfandel](https://www.brightcellars.com/collections/zinfandel)
-
-[Viognier](https://www.brightcellars.com/collections/viognier)
 
 [Grenache](https://www.brightcellars.com/collections/grenache)
 
