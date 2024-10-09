@@ -94,10 +94,10 @@ Search for:
 ### Recent Posts
 
 * [Loft Conversion Safety](https://xworld.org/home-improvement/loft-conversion-safety/)
+* [What is customer analytics?](https://xworld.org/business/what-is-customer-analytics/)
 * [Why Play Rugby?](https://xworld.org/sports/why-play-rugby/)
 * [What are shin splints and how do they occur?](https://xworld.org/health/what-are-shin-splints-and-how-do-they-occur/)
 * [Things to Do Before Going to University](https://xworld.org/education/things-to-do-before-going-to-university/)
-* [Travelling with a Dog](https://xworld.org/tour-and-travel/travelling-with-a-dog/)
 
 ### Categories
 
