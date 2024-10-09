@@ -3,94 +3,83 @@
 * [Product](#)
 * [Use Cases](#)
 * [Developers](#)
+* [Resources](#)
 * [Pricing](https://fastspring.com/pricing/)
 
- [![Search Magnifying Glass](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/nav-search-glass.svg) Search](#)
+[![Search Magnifying Glass](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/nav-search-glass.svg)](#)
 
-* [Resources](#)
 * [Support](https://community.fastspring.com/)
 
 [Sign In](#)
 
 [Try Now](#)
 
- [](#)
+[](#)
 
 Product
 
 * [![](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/global-payment.svg)
     
-    **Global Payments**  
-    Easily transact across borders](https://fastspring.com/global-payments/)
+    **Global Payments** Easily transact across borders](https://fastspring.com/global-payments/)
 * [![](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/fraud-prevention.svg)
     
-    **Fraud Prevention**  
-    Intelligent alerts, fewer chargebacks](https://fastspring.com/risk-management-and-compliance/)
+    **Fraud Prevention** Intelligent alerts, fewer chargebacks](https://fastspring.com/risk-management-and-compliance/)
 * [![](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/subscription.svg)
     
-    **Subscription Management**  
-    Flexible recurring billing tools](https://fastspring.com/subscription-management/)
+    **Subscription Management** Flexible recurring billing tools](https://fastspring.com/subscription-management/)
 * [![](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/integrations.svg)
     
-    **Affiliate Marketing**  
-    Find engaged buyers for your product](https://fastspring.com/affiliates/)
+    **Affiliate Marketing** Find engaged buyers for your product](https://fastspring.com/affiliates/)
 * [![](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/branded-checkout.svg)
     
-    **Checkout**  
-    Localized, Embedded, and Branded](https://fastspring.com/branded-checkout/)
+    **Checkout** Localized, Embedded, and Branded](https://fastspring.com/branded-checkout/)
 * [![](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/document-copy.svg)
     
-    **Digital Invoicing**  
-    Pain-free B2B digital sales](https://fastspring.com/digital-invoicing/)
+    **Digital Invoicing** Pain-free B2B digital sales](https://fastspring.com/digital-invoicing/)
 * [![](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/global-tax.svg)
     
-    **Tax Compliance**  
-    We handle all taxes including VAT](https://fastspring.com/tax-management/)
+    **Tax Compliance** We handle all taxes including VAT](https://fastspring.com/tax-management/)
 * [![](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/price-tag-rb-or.svg)
     
-    **Interactive Quotes**  
-    Streamline custom SaaS deals](https://fastspring.com/interactive-quotes/)
+    **Interactive Quotes** Streamline custom SaaS deals](https://fastspring.com/interactive-quotes/)
 * [![](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/reporting.svg)
     
-    **Reporting and Analytics**  
-    Understand Everything about Subscriptions and Revenue](https://fastspring.com/reporting/)
+    **Reporting and Analytics** Understand Everything about Subscriptions and Revenue](https://fastspring.com/reporting/)
 * [![](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/global-location.svg)
     
-    **Merchant of Record**  
-    We handle the complexities of global selling for you](https://fastspring.com/merchant-of-record/)
+    **Merchant of Record** We handle the complexities of global selling for you](https://fastspring.com/merchant-of-record/)
 * [![](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/developer-tools.svg)
     
-    **Developer Tools**  
-    Review the most recent resources for building your store experience](https://fastspring.com/fastspring-developer-tools/)
+    **Developer Tools** Review the most recent resources for building your store experience](https://fastspring.com/fastspring-developer-tools/)
+* [Explore all features](https://fastspring.com/product-overview/)
+    
 
-[Explore all features →](https://fastspring.com/product-overview/)
-
- ![Icon of a Browser Window](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/browser-with-code.svg) Use Cases
+Use Cases
 
 * [**SaaS** Accelerate your SaaS revenue](https://fastspring.com/solutions/selling-saas/)
 * [**Digital Products** Coverage from checkout to fulfillment](https://fastspring.com/solutions/selling-digital-products/)
 * [**Downloadable Software** Save time while increasing conversions](https://fastspring.com/solutions/selling-software-online/)
 * [**eLearning and Courses** Easily sell courses on your own site](https://fastspring.com/solutions/elearning/)
 * [**Video Games** Sell games or in-game purchases](https://fastspring.com/solutions/gaming/)
+* [**B2B** Close PLG and sales-assisted prospects faster](https://fastspring.com/solutions/b2b/)
 * [**Customer Stories** How FastSpring sellers succeed](https://fastspring.com/customers/)
 
- ![Icon for Developers Menu](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/icons/nav/browser-with-code.svg) Developers
+Developers
 
-* [**Documentation** Learn how to use Fastspring](https://fastspring.com/docs/)
+* [**Documentation** Learn how to use Fastspring](https://developer.fastspring.com/)
 * [**Store Builder Library** JavaScript tools for commerce](https://developer.fastspring.com/docs/store-builder-library-overview)
 * [**API Reference** Endpoints, methods, and examples](https://developer.fastspring.com/reference/getting-started-with-your-api)
 * [**Code Samples** Examples of common patterns](https://fastspringexamples.com/)
 * [**Webhooks** Handle important events](https://developer.fastspring.com/docs/webhooks-overview)
 * [**Changelog** See what's new per release](https://developer.fastspring.com/changelog)
-* [**Integrations** Connect your stack to FastSpring](https://fastspring.com/docs/integrations/)
+* [**Integrations** Connect your stack to FastSpring](https://developer.fastspring.com/docs/integrations)
 * [**Status** Check in on the platform](https://status.fastspring.com/)
 
 Resources
 
-* [**Resource Hub** Deep dives into SaaS topics](https://fastspring.com/resources/)
 * [**Customer Stories** They succeeded. We helped!](https://fastspring.com/customers/)
 * [**Blog** SaaS trends and best practices](https://fastspring.com/blog/)
-* [**Documentation** Learn how to use FastSpring](https://fastspring.com/docs/)
+* [**Documentation** Learn how to use FastSpring](https://developer.fastspring.com/)
 * [**Events** Hang out with the FastSpring team](https://fastspring.com/blog/category/news/events/)
 
 [![[Customer Story] Why TestDome Considers FastSpring a Real Partner](https://fastspring.com/wp-content/themes/fastspring-bamboo/images/promotional/2023/FastSpring-TestDome-blog-thumbnail.jpg)
@@ -113,7 +102,9 @@ Sign In](https://app.fastspring.com/)
 
 B2B sales quotes to close deals fast
 
-Sign In](https://iq.fastspring.com/)[Question a Charge](https://fastspring.com/consumer-support/)
+Sign In](https://iq.fastspring.com/)
+
+[Question a Charge](https://fastspring.com/consumer-support/)
 
 [Try Now](#) [Schedule Demo](#)
 
