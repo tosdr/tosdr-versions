@@ -1,6 +1,6 @@
 ![](https://public.ureed.com/wp-content/uploads/2021/04/logo-white.svg)
 
-* [العربية](https://34.247.38.2/ar/)
+* [العربية](https://public.ureed.com/ar/)
 
 [Login](https://beta.ureed.com/login)
 
