@@ -1,4 +1,4 @@
-        [Skip to content](#main-content)
+       [Skip to content](#main-content)
 
 * [Dante Genome Test](https://us.dantelabs.com/products/whole-genome-sequencing "Dante Genome Test")
 * [Genomic Reports](https://us.dantelabs.com/collections/dante-labs-comprehensive-panels "Genomic Reports")
