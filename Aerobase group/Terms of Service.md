@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Lockheed names software specialist as new head of F-35 jet program](https://www.defensenews.com/air/2024/10/09/lockheed-names-software-specialist-as-new-head-of-f-35-jet-program/)  
+    10/09/24 02:36pm  
+    
+    Lockheed Martin has struggled with software components for the F-35's latest upgrades, and has now put a software engineering specialist in charge of the multi-billion dollar program. (U.S. Air Force)
+    
 * [France kicks off development of wingman drone for Rafale fighter jet](https://www.defensenews.com/global/europe/2024/10/09/france-kicks-off-development-of-wingman-drone-for-rafale-fighter-jet/)  
     10/09/24 06:34am  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     10/08/24 05:44am  
     
     Anduril's Roadrunner reusable drone can intercept incoming drones or land back on the ground if none are engaged. (Anduril)
-    
-* [MacDill AFB evacuates planes and people as Hurricane Milton approaches](https://www.defensenews.com/air/2024/10/07/macdill-evacuates-planes-personnel-as-hurricane-milton-approaches/)  
-    10/07/24 01:03pm  
-    
-    Hurricane Helene left MacDill Air Force Base in Florida with some temporary flooding, and the base is now bracing for a hit from Hurricane Milton, now a Category 5 storm. (U.S. Air Force)
     
 
 Recent parts by keyword  
