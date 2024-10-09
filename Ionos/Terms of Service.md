@@ -331,6 +331,8 @@ IONOS shall not be liable for any claim of unfair competition, violation of pub
 
 **8.23.**   You shall not operate a chat room using the IONOS Inc. Services unless expressly permitted by the terms and conditions of Your Services.
 
+**8.24.**   The use of AI Email Assistant is limited to a maximum of 10.000 requests per user per month. Should IONOS determine that the use of resources exceeds the set limit, IONOS reserves the right to apply service throttling, or temporary suspension of the AI Email Assistant. In the event of such cases, the Customer will be notified before any corrective actions are taken.
+
 ### 9\. CONFIDENTIALITY, TRADEMARK, AND COPYRIGHT
 
 **9.1**   During the course of this Agreement you may gain access to certain confidential, proprietary and trade secret business or technical information belonging to IONOS in connection with IONOS’s performance of the IONOS Inc. Services ("Confidential Information"). You agree to preserve the confidentiality of all Confidential Information that is provided in connection with the Agreement, and shall not, without the prior written consent of IONOS, disclose or make available to any person, or use for your own or any other person's benefit, other than as necessary in performance of your obligations under this Agreement, any Confidential Information of IONOS. IONOS retains all right and title to such Confidential Information.
