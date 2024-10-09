@@ -8,11 +8,11 @@
 
 * [For developers](https://lemon.io/for-developers/)
 * [For companies](#)
-    * [About us](https://lemon.io/about-us/)
     * [How we vet developers](https://lemon.io/our-vetting-process)
     * [FAQ for companies](https://lemon.io/support-help-faq/)
     * [Case studies](https://lemon.io/case-studies/)
     * [Testimonials](https://www.trustpilot.com/review/lemon.io)
+    * [About us](https://lemon.io/about-us/)
 * [Services](#)
     * [Hire by role](#)
         * [Hire Full-stack developers](https://lemon.io/hire/full-stack-developers/)
