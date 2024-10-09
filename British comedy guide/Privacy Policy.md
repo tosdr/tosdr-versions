@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Carry On Doctor. Nurse Sandra May (Barbara Windsor). Copyright: Peter Rogers Productions](https://cdn.comedy.co.uk/images/library/comedies/300x200/c/carry_on_doctor_sandra.jpg "Carry On Doctor. Nurse Sandra May (Barbara Windsor). Copyright: Peter Rogers Productions")](https://www.comedy.co.uk/quiz/327/) Quiz
+
+[British Comedy Quiz #327](https://www.comedy.co.uk/quiz/327/)
+
 [![Jokers Wild. Ray Martine. Credit: ITV](https://cdn.comedy.co.uk/images/library/comedies/300x200/j/jokers_wild_ray_martine.jpg "Jokers Wild. Ray Martine. Credit: ITV")](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/) Features
 
 [Comedy Chronicles: A Hackney diamond - The much-misunderstood Ray Martine](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Rising Damp. Rupert Rigsby (Leonard Rossiter). Copyright: Yorkshire Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/r/rising_damp.jpg "Rising Damp. Rupert Rigsby (Leonard Rossiter). Copyright: Yorkshire Television")](https://www.comedy.co.uk/quiz/10002/) Quiz
 
 [Leonard Rossiter quiz](https://www.comedy.co.uk/quiz/10002/)
-
-[![Red Dwarf. Rimmer (Chris Barrie). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200_eps/r/red_dwarf_0504.jpg "Red Dwarf. Rimmer (Chris Barrie). Credit: BBC")](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-series-5-retrospective/) TV
-
-[Red Dwarf V retrospective: Back to reality](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-series-5-retrospective/)
 
 #### Subscribe to our newsletters
 
