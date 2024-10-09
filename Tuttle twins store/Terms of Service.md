@@ -35,7 +35,7 @@ Shipping & taxes calculated at checkout
 
 [Free shipping on orders $70+ (USA Only)](https://tuttletwins.store/collections/all)
 
-[Guild Days Is Live! 20% Off Sitewide.
+[Guild Days Is Live! Up to 50% Off Sitewide.
 
 DAYS
 
