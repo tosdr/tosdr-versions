@@ -321,7 +321,6 @@ Advertise
 
 ### [At these ultra-luxe Maldives resorts, you could be in for a surprise](https://www.afr.com/life-and-luxury/travel/at-these-ultra-luxe-maldives-resorts-you-could-be-in-for-a-surprise-20241002-p5kf8k)
 
-* 57 mins ago
 * Charis Perkins
 
 * ### [What’s behind our obsession with wellness?](https://www.afr.com/life-and-luxury/health-and-wellness/what-s-behind-our-obsession-with-wellness-20240924-p5kd4n)
