@@ -12,16 +12,25 @@
         
     * [Third-Party Management
         
-        Automate third-party management from intake to risk assessment, mitigation, ongoing monitoring, and reporting](https://www.onetrust.com/content/onetrust/us/en/solutions/third-party-management)
+        Automate third-party management from intake and risk assessment to mitigation and reporting](https://www.onetrust.com/content/onetrust/us/en/solutions/third-party-management)
         
     
 * * [Privacy Automation
         
-        Enable responsible use throughout the data lifecycle by operationalizing your privacy program](https://www.onetrust.com/content/onetrust/us/en/solutions/privacy-automation)
+        Enable responsible use throughout the data lifecycle](https://www.onetrust.com/content/onetrust/us/en/solutions/privacy-automation)
         
     * [Tech Risk & Compliance
         
         Scale your resources and optimize your risk and compliance lifecycle](https://www.onetrust.com/content/onetrust/us/en/solutions/tech-risk-and-compliance)
+        
+    
+* * [Data & AI Governance
+        
+        Govern your data and AI while accelerating innovation](https://www.onetrust.com/content/onetrust/us/en/solutions/data-and-ai-governance)
+        
+    * [Ethics & Compliance
+        
+        Build a SpeakUp channel and case management system to develop trust with your employees](https://www.onetrust.com/content/onetrust/us/en/solutions/ethics-and-compliance)
         
     
 * Featured Products
@@ -74,6 +83,8 @@
 
 * Self-Service Resources
     
+    * [Demo Videos](https://www.onetrust.com/content/onetrust/us/en/resources/onetrust-demos)
+        
     * [Resource Library](https://www.onetrust.com/content/onetrust/us/en/resources)
         
     * [Customer Stories](https://www.onetrust.com/content/onetrust/us/en/customers)
@@ -96,7 +107,7 @@
         
     * [Partners](https://www.onetrust.com/content/onetrust/us/en/partners)
         
-    * [MyOneTrust Help Center](https://my.onetrust.com/s/contactsupport)
+    * [MyOneTrust Help Center](https://my.onetrust.com/s/topiccatalog)
         
     
 
@@ -171,9 +182,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [The new data landscape: Navigating the shift to AI-ready data](https://www.onetrust.com/resources/the-new-data-landscape-navigating-the-shift-to-ai-ready-data-webinar/)
-* [Live Demo: Building a more resilient Third-Party Management program](https://www.onetrust.com/resources/live-demo-building-a-more-resilient-third-party-management-program/)
-* [Build resiliency and operationalize compliance with OneTrust: Fall product release recap, 2024](https://www.onetrust.com/resources/build-resiliency-and-operationalize-compliance-with-onetrust-fall-product-release-recap-2024-webinar/)
+* [Meet opt-out and opt-in consent requirements under US state privacy laws](https://www.onetrust.com/resources/meet-opt-out-and-opt-in-consent-requirements-under-us-state-privacy-laws-webinar/)
+* [The Ultimate Guide to Privacy Program Automation eBook](https://www.onetrust.com/resources/ultimate-guide-to-privacy-program-automation-ebook/)
+* [7 steps to CPRA compliance](https://www.onetrust.com/resources/7-steps-to-cpra-compliance-checklist/)
 
 ### Platform
 
