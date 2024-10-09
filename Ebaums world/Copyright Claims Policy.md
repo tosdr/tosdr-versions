@@ -197,13 +197,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![I have some good news and bad news](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/monday-morning-randomness-36-magnificent-randoms-to-kick-off-your-week/87498153/) [Monday Morning Randomness: 36 Magnificent Randoms to Kick Off Your Week](https://trending.ebaumsworld.com/pictures/monday-morning-randomness-36-magnificent-randoms-to-kick-off-your-week/87498153/)
+    [![behind the scene pic pf NPR's tiny desk](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/18-things-seen-from-a-different-perspective/87496175/) [18 Fascinating Photos That Offer a Unique Perspective](https://trending.ebaumsworld.com/pictures/18-things-seen-from-a-different-perspective/87496175/)
     
-    [![The 24 Worst Decisions in the History of Human Kind](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/the-24-worst-decisions-in-the-history-of-human-kind/87506013/) [The 24 Worst Decisions in the History of Human Kind](https://trending.ebaumsworld.com/pictures/the-24-worst-decisions-in-the-history-of-human-kind/87506013/)
+    [![fat dude on waterslide](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/fat-guy-gets-huge-air-on-water-slide/85148225/) [Overweight Guy Wows Everyone With Huge Air On Water Slide](https://www.ebaumsworld.com/videos/fat-guy-gets-huge-air-on-water-slide/85148225/)
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/) [Russian Man With Balls of Steel Doesn't Shoot Mama Bear that Charges Him](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/)
+    [![Screenshot proof of NFL rigging during a Cleveland Browns and Washington Rednecks NFL football game](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/did-this-man-find-proof-the-nfl-is-rigged/85155857/) [Did This Man Find Proof The NFL is Rigged?](https://www.ebaumsworld.com/videos/did-this-man-find-proof-the-nfl-is-rigged/85155857/)
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/) [Guy Rips a Massive Fart After Finding Out He Was Being Charged With Possession of a Firearm](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/)
+    [![pool emptying](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-notices-something-unusual-when-emptying-his-pool/85154367/) [Guy Notices Something Unusual When Emptying His Pool : Laminar Flow Phenomenon](https://www.ebaumsworld.com/videos/guy-notices-something-unusual-when-emptying-his-pool/85154367/)
     
 
 * Advertisement
