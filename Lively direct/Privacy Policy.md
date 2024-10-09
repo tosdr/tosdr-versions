@@ -10,7 +10,7 @@
 * FAQs
     * [Phone FAQs](https://www.livelydirect.com/phones/phone-faqs/)
     * [PERS FAQs](https://www.livelydirect.com/mobile2/pers-faqs/)
-* [Promotions](https://www.livelydirect.com/promos/)
+* [Promotions](https://www.livelydirect.com/promos)
 
 [888-970-3580](tel:8889703580)
 
