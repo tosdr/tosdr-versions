@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Mom, I got the big promotion!! I am now in charge of twenty cages of children!](https://www.somethingawful.com/news/we-are-evil/)
-* [The View From Below](https://www.somethingawful.com/daily-dirt/instruction-for-america/1/)
-* [The Hardy Boys and Nancy Drew: UNLEASHED](https://www.somethingawful.com/comedy-goldmine/hardy-boys-nancy/1/)
-* [I Hate You Page 44](https://www.somethingawful.com/cliff-yablonski/i-hate-you-44/)
-* [Yahoo Personals Part 1](https://www.somethingawful.com/comedy-goldmine/yahoo-personals-part/1/)
+* [The New Hamburglar is Kinda Creepy!](https://www.somethingawful.com/photoshop-phriday/new-creepy-hamburglar/)
+* [Virtual Adventures!](https://www.somethingawful.com/photoshop-phriday/virtual-adventures-oculus/)
+* ['80s/'90s TV Theme Songs!](https://www.somethingawful.com/comedy-goldmine/tv-theme-songs/)
+* [The Green Hornet; The Dilemma; The King's Speech](https://www.somethingawful.com/current-movie-reviews/green-hornet-dilemma/1/)
+* [Post Your Favorite Deep Dreams!](https://www.somethingawful.com/photoshop-phriday/deep-dream-favorites/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Pain For Measure](https://www.somethingawful.com/news/deep-hurting-experiment/)
-* [Sleepy Mountain Town... OF DEATH!](https://www.somethingawful.com/news/sleepy-mountain-town/)
-* [It's It and It's That and That's It!](https://www.somethingawful.com/news/its-its-that/)
-* [Mr. T Ate My Innocence](https://www.somethingawful.com/news/ate-my-balls/)
-* [The Last Days Of Capitalism](https://www.somethingawful.com/comedy-goldmine/capitalism-last-days/1/)
+* [Harry TwoPenny's Discount Religion](https://www.somethingawful.com/news/harry-twopennys-discount/)
+* [SEX NERDS!!](https://www.somethingawful.com/comedy-goldmine/bad-sex-nerd/)
+* [The SummerSled](https://www.somethingawful.com/awful-links/awful-link-1118/)
+* [Leonard Crabs' Carnival of Savings!](https://www.somethingawful.com/feature-articles/leonard-crabs-carnival/1/)
+* [The Mystery and Wonder of the Musical Jamboree](https://www.somethingawful.com/news/mystery-wonder-musical/)
 
 [Random!](https://www.somethingawful.com/random/)
 
