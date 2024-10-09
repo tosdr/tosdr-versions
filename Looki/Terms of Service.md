@@ -29,8 +29,8 @@ Login](https://www.looki.com/auth/register/login)
 * [](https://www.looki.com/game/index)
 * [](https://www.looki.com/)
 
-Terms
------
+General Terms
+-------------
 
 **gamigo group terms of use**
 
