@@ -130,7 +130,7 @@ Items with performance guarantee are guaranteed for the first 3 days. VoIP Suppl
 Condition of Sale
 -----------------
 
-The terms and conditions of sale contained herein supersede all agreements made and purchase orders submitted to and accepted by VoIP Supply. All agreements are contingent upon such unavoidable incidents as strikes, accidents, material shortage, or other delays beyond VoIP Supplys control.
+The terms and conditions of sale contained herein supersede all agreements made and purchase orders submitted to and accepted by VoIP Supply. All agreements are contingent upon such unavoidable incidents as strikes, accidents, material shortage, or other delays beyond VoIP Supply's control.
 
 Warranty
 --------
