@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-fae562a49b4563c5c91f14465b04530d
+a873eeb97c6afc309d54e6cedee15eac
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Gold kyanite earrings](https://sojourner.biz/images/cache/E0035.200.jpg)](https://sojourner.biz/jewelry/earrings/gold-kyanite-earrings.html "Gold kyanite earrings")
+[![11 mm purple heart beads](https://sojourner.biz/images/cache/glass/HRT002.200.jpg)](https://sojourner.biz/beads/glass/11-mm-purple-heart-beads.html "11 mm purple heart beads")
 
-#### [Gold kyanite earrings](https://sojourner.biz/jewelry/earrings/gold-kyanite-earrings.html "Gold kyanite earrings")
+#### [11 mm purple heart beads](https://sojourner.biz/beads/glass/11-mm-purple-heart-beads.html "11 mm purple heart beads")
 
-$30.00
+$3.00
 
 ### Best Sellers
 
