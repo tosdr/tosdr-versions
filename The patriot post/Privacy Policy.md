@@ -110,7 +110,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110900-cartels-for-harris-2024-10-08)
+     [](https://patriotpost.us/memes/110920-quite-a-show-2024-10-09)
 
 * [More Memes >](https://patriotpost.us/memes)
 
