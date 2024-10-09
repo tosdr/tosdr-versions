@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your service is life changing for those of us living behind a firewall. I am much happier with access to unlimited raunchy jokes and pictures of cats. I have just complete a year and signed up for my 2nd.
+I have been quite happy with the service...I have already upgraded to an annual subscription.
 
-Miriam Hodge
+Tom Swift
