@@ -401,35 +401,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Arlington 2-year-old hit by truck after wandering outside](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/4b98e44c-3e9a7c8b-2f7b5b95-police-lights-kmsp-1.jpg?ve=1&tl=1)
+ [![Hurricane Milton update: Storm returns to Category 5 as Florida prepares for life-threatening impacts](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/46d111a0-al14_stats.gif?ve=1&tl=1)
 
- ![Arlington 2-year-old hit by truck after wandering outside](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/592/333/4b98e44c-3e9a7c8b-2f7b5b95-police-lights-kmsp-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-2-year-old-hit-truck-after-wandering-outside)
+ ![Hurricane Milton update: Storm returns to Category 5 as Florida prepares for life-threatening impacts](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/46d111a0-al14_stats.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-update-extremely-serious-threat-florida-october-8-2024)
 
-### [Arlington 2-year-old hit by truck after wandering outside](https://www.fox4news.com/news/arlington-2-year-old-hit-truck-after-wandering-outside)
+Live Now
 
- [![Visitor discovers 2.30-carat diamond at Arkansas’ Crater of Diamonds Park, 2nd-largest find of 2024](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/diamond.jpg?ve=1&tl=1)
+### [Hurricane Milton update: Storm returns to Category 5 as Florida prepares for life-threatening impacts](https://www.fox4news.com/news/hurricane-milton-update-extremely-serious-threat-florida-october-8-2024)
 
- ![Visitor discovers 2.30-carat diamond at Arkansas’ Crater of Diamonds Park, 2nd-largest find of 2024](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/diamond.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/visitor-diamond-arkansas)
+ [![Hurricane Milton: Disney World, Universal, SeaWorld closing as major storm encroaches](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/06/32/18/Theme-parks-.jpg?ve=1&tl=1)
 
-### [Visitor discovers 2.30-carat diamond at Arkansas’ Crater of Diamonds Park, 2nd-largest find of 2024](https://www.fox4news.com/news/visitor-diamond-arkansas)
+ ![Hurricane Milton: Disney World, Universal, SeaWorld closing as major storm encroaches](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/06/32/18/592/333/Theme-parks-.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-disney-universal-seaworld-legoland-busch-gardens-closed-ahead-storm)
 
- [![Plano man gets 40 years for road rage shooting that left Uber driver in the hospital for months](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/06/32/18/062823-RR-PKG-PEYTON-PLANO-UBER-ROAD-RAGE-SHOOTING_00.01.06.40.jpg?ve=1&tl=1)
+### [Hurricane Milton: Disney World, Universal, SeaWorld closing as major storm encroaches](https://www.fox4news.com/news/hurricane-milton-disney-universal-seaworld-legoland-busch-gardens-closed-ahead-storm)
 
- ![Plano man gets 40 years for road rage shooting that left Uber driver in the hospital for months](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/06/32/18/592/333/062823-RR-PKG-PEYTON-PLANO-UBER-ROAD-RAGE-SHOOTING_00.01.06.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plano-uber-driver-road-rage-shooting-robert-crolley-guilty)
+ [![Justin Timberlake postpones North American leg of world tour due to ‘injury’](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/jt.jpg?ve=1&tl=1)
 
-### [Plano man gets 40 years for road rage shooting that left Uber driver in the hospital for months](https://www.fox4news.com/news/plano-uber-driver-road-rage-shooting-robert-crolley-guilty)
+ ![Justin Timberlake postpones North American leg of world tour due to ‘injury’](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/jt.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/justin-timberlake-postpones-north-american-leg-world-tour-due-injury-2024)
 
- [![Lisa Marie Presley had son Benjamin's body in her house for 2 months after he died](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/lisa-marie-ben3.jpg?ve=1&tl=1)
+### [Justin Timberlake postpones North American leg of world tour due to ‘injury’](https://www.fox4news.com/news/justin-timberlake-postpones-north-american-leg-world-tour-due-injury-2024)
 
- ![Lisa Marie Presley had son Benjamin's body in her house for 2 months after he died](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/lisa-marie-ben3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lisa-marie-presley-had-son-benjamins-body-her-house-2-months-after-he-died)
+ [![Crandall High School student arrested after bringing two guns to school](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/b39206d6-0e7cefee-Handcuffs.jpg?ve=1&tl=1)
 
-### [Lisa Marie Presley had son Benjamin's body in her house for 2 months after he died](https://www.fox4news.com/news/lisa-marie-presley-had-son-benjamins-body-her-house-2-months-after-he-died)
+ ![Crandall High School student arrested after bringing two guns to school](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/592/333/b39206d6-0e7cefee-Handcuffs.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/crandall-high-school-student-arrested-after-bringing-two-guns-school)
 
- [![North Carolina mom of 4 swept up by Hurricane Helene flooding in front of husband, 8-year-old son](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/helene-1.jpg?ve=1&tl=1)
+### [Crandall High School student arrested after bringing two guns to school](https://www.fox4news.com/news/crandall-high-school-student-arrested-after-bringing-two-guns-school)
 
- ![North Carolina mom of 4 swept up by Hurricane Helene flooding in front of husband, 8-year-old son](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/helene-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-carolina-mom-swept-up-hurricane-helene-flooding-husband-son)
+ [![Second early voting location to open in Rowlett amid concerns](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-dial-rowlett-early-voting-site-issue-5p_00.01.39.52.jpg?ve=1&tl=1)
 
-### [North Carolina mom of 4 swept up by Hurricane Helene flooding in front of husband, 8-year-old son](https://www.fox4news.com/news/north-carolina-mom-swept-up-hurricane-helene-flooding-husband-son)
+ ![Second early voting location to open in Rowlett amid concerns](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-dial-rowlett-early-voting-site-issue-5p_00.01.39.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/rowlett-now-has-two-early-voting-locations)
+
+### [Second early voting location to open in Rowlett amid concerns](https://www.fox4news.com/election/rowlett-now-has-two-early-voting-locations)
 
 ###### [News](https://www.fox4news.com/news)
 
