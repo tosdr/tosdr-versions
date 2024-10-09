@@ -405,7 +405,7 @@ We may, in our sole discretion, modify or update this Policy from time to time. 
 Contact us
 ----------
 
-If you have questions regarding this Policy or about the privacy practices of Webflow, please contact us by email at [privacy@webflow.com](mailto:privacy@webflow.com), or at:
+If you have questions regarding this Policy or about the privacy practices of Webflow, please contact us by email at [\[email protected\]](https://webflow.com/cdn-cgi/l/email-protection), or at:
 
 Webflow, Inc.  
 398 11th Street, 2nd Floor  
