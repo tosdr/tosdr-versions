@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I always recomend you to my friends! Amazing SUPER FAST service !
+I'm really enjoying the service so far.
 
-Natie Grossnass
+Gareth Wynn
