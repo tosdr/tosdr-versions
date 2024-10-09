@@ -40,7 +40,7 @@ During this outage, your profile and educational data will be migrated to the ne
 Privacy Policy
 ==============
 
-Thank you for visiting Toastmasters International’s (**“Toastmasters,” “we,” “us”**) official website and shopping at our online store. We are committed to respecting and protecting the privacy rights of our members and users. This Policy describes the types of information that Toastmasters may collect from you or that you may provide when you visit [www.toastmasters.org](https://toastmasters.org/), all associated sites, including Toastmasters Shop and Toastmasters Pathways (the **"Site”**), whether as a guest or a member of Toastmasters, and our practices for collecting, using, protecting and disclosing that information. By visiting the Site, you are accepting the practices described in this Policy.
+Thank you for visiting Toastmasters International’s (**“Toastmasters,” “we,” “us”**) official website and shopping at our online store. We are committed to respecting and protecting the privacy rights of our members and users. This Policy describes the types of information that Toastmasters may collect from you or that you may provide when you visit [toastmasters.org](https://toastmasters.org/), all associated sites, including Toastmasters Shop and Toastmasters Pathways (the **"Site”**), whether as a guest or a member of Toastmasters, and our practices for collecting, using, protecting and disclosing that information. By visiting the Site, you are accepting the practices described in this Policy.
 
 In simplified form (greater detail is below), our Policy can be summarized as follows:
 
@@ -67,7 +67,7 @@ Our Site is not intended for children under 18 years of age. No one under the ag
 
 [back to top](#PrivacyPolicyBegin)
 
-### What Information We Collect About You?
+### What Information Do We Collect About You?
 
 We collect several types of information from and about users of our Site.
 
@@ -145,7 +145,7 @@ Toastmasters does not sell its users information. We may share your information 
 
 #### _Toastmasters International:_
 
-This includes the organization’s World Headquarters, which manages [www.toastmasters.org](https://toastmasters.org/), as well as Toastmasters districts, divisions, areas and individual Toastmasters clubs. In keeping with our regular offline business practices, Toastmasters International will provide information about Toastmasters members to these internal associates for communication purposes only.
+This includes the organization’s World Headquarters, which manages [toastmasters.org](https://toastmasters.org/), as well as Toastmasters Districts, Divisions, Areas and individual Toastmasters clubs. In keeping with our regular offline business practices, Toastmasters International will provide information about Toastmasters members to these internal associates for communication purposes only.
 
 #### _Third-Party Service Providers:_
 
@@ -174,7 +174,7 @@ We may disclose your information with your consent. For example, in connection w
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
 * **Cookies.** While we may automatically use some cookies that are strictly necessary to provide the services you request or enable communications, we request your consent for all of our other cookie uses. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-* **Advertising.** You can opt out of receiving marketing and advertising communications by changing your settings through your **“My Profile”** page or by contacting us through our **“Contact Us”** page. Even if you opt out of receiving marketing messages, we will still send you transactional messages such as order confirmations and receipts and communications necessary to further our legitimate business interests
+* **Advertising.** You can opt out of receiving marketing and advertising communications by changing your settings through your **“My Profile”** page or by contacting us through our **“Contact Us”** page. Even if you opt out of receiving marketing messages, we will still send you transactional messages such as order confirmations and receipts and communications necessary to further our legitimate business interests.
 
 We do not control third parties' collection or use of your information. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (**"NAI"**) on the NAI's website.
 
@@ -195,7 +195,7 @@ Toastmasters recognizes several core privacy rights. We provide our users with:
 
 You have access to a broad range of information about your account and your interactions with Toastmasters through your **“My Profile”** page. Examples of information you can access through your **“My Profile”** page include your order history and personal information (including name, email, password, and your club membership history).
 
-You can review and change your personal information by visiting your **“My Profile”** page. You may also contact the Member Services team through your **“My Profile”** page or through the **“Contact Us”** page to correct your information, delete certain information, or delete your user account.
+You can review and change your personal information by visiting your **“My Profile”** page. You may also contact the Club Quality and Member Support team through your **“My Profile”** page or through the **“Contact Us”** page to correct your information, delete certain information, or delete your user account.
 
 In certain cases, we will not be able to delete your information except by also deleting your user account. If we delete your user account, you will no longer have access to your historical activity, even if you decide to create a new user account in the future.
 
@@ -241,7 +241,7 @@ The exact scope of these rights may vary by state. To exercise any of these righ
 
 [back to top](#PrivacyPolicyBegin)
 
-### How Secure is my Information?
+### How Secure is My Information?
 
 Toastmasters is committed to protecting the security of your personal information and maintains physical, electronic, and procedural safeguards that meet industry standards to guard your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. We protect your account information by placing it on the secure portion of our website, using firewalls and other security technology to protect our network and systems from external attacks, and requiring you to enter a unique username and password to access your account information online.
 
@@ -259,13 +259,13 @@ We keep your personal information to enable your continued use of the services, 
 
 [back to top](#PrivacyPolicyBegin)
 
-### How Long Does Toastmasters Retain My Personal Information?
+### Will my Personal Information be Transferred to other Jurisdictions?
 
-Toastmasters and [www.toastmasters.org](https://toastmasters.org/) are located and operated in the United States. If you are located outside of the United States, in certain cases, your personal information will be transferred from your location to the United States. Courts, law enforcement agencies, regulatory agencies or security authorities in the United States may be entitled to access the personal information.
+Toastmasters and [toastmasters.org](https://toastmasters.org/) are located and operated in the United States. If you are located outside of the United States, in certain cases, your personal information will be transferred from your location to the United States. Courts, law enforcement agencies, regulatory agencies or security authorities in the United States may be entitled to access the personal information.
 
 The United States has been recognized as providing an adequate level of data protection according to European Economic Area (EEA) standards.
 
-When we transfer your personal information to the United States from non-EEA territories, we do so in accordance with the terms of this Privacy Policy and applicable data protection law. If you do not agree to this international transfer of data, you should not use [www.toastmasters.org](https://toastmasters.org/) and the Services or otherwise send us your personal information. By providing your personal information to us through [www.toastmasters.org](https://toastmasters.org/) or the Services, you consent to the cross-border transfer, storage, and processing of your personal information.
+When we transfer your personal information to the United States from non-EEA territories, we do so in accordance with the terms of this Privacy Policy and applicable data protection law. If you do not agree to this international transfer of data, you should not use [toastmasters.org](https://toastmasters.org/) and the Services or otherwise send us your personal information. By providing your personal information to us through [toastmasters.org](https://toastmasters.org/) or the Services, you consent to the cross-border transfer, storage, and processing of your personal information.
 
 [back to top](#PrivacyPolicyBegin)
 
@@ -277,9 +277,9 @@ It is our policy to post any changes we make to our Privacy Policy on this page.
 
 ### What Else Should You Know?
 
-Toastmasters strongly supports our users’ right to privacy. For this reason, we urge our visitors to read about privacy issues and laws on [http://www.privacy.ca.gov/](http://www.privacy.ca.gov/). This information is presented by the State of California Office of Privacy Protection (under the California Department of Consumer Affairs), where Toastmasters is incorporated. We recommend that you read the page entitled: “How to Read a Privacy Policy,” which is useful information for viewing any website, including [www.toastmasters.org](https://toastmasters.org/).
+Toastmasters strongly supports our users’ right to privacy. For this reason, we urge our visitors to read about privacy issues and laws on [http://www.privacy.ca.gov/](http://www.privacy.ca.gov/). This information is presented by the State of California Office of Privacy Protection (under the California Department of Consumer Affairs), where Toastmasters is incorporated. We recommend that you read the page entitled: “How to Read a Privacy Policy,” which is useful information for viewing any website, including [toastmasters.org](https://toastmasters.org/).
 
-If you choose to visit our Site, your visit and any dispute over privacy is subject to this Policy and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about this Privacy Policy at [www.toastmasters.org](https://toastmasters.org/), please contact us through our **“Contact Us”** page or regular mail at address listed below with a thorough description, and we will try to resolve it.
+If you choose to visit our Site, your visit and any dispute over privacy is subject to this Policy and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about this Privacy Policy at [toastmasters.org](https://toastmasters.org/), please contact us through our **“Contact Us”** page or regular mail at address listed below with a thorough description, and we will try to resolve it.
 
 [back to top](#PrivacyPolicyBegin)
 
