@@ -2,9 +2,9 @@
 
 Applications Closing: Don't Miss Out
 
-If you want to [join our Sixth Form in September 2025](https://www.epsomcollege.org.uk/applying-to-sixth-form/), we must receive your registration by **midnight 15 October**
+If you want to [join our Sixth Form in September 2025](https://www.epsomcollege.org.uk/applying-to-sixth-form/), we must receive your registration by **midnight, 15 October**
 
-To join [Year 7 in September 2025, or Year 9 in 2027](https://www.epsomcollege.org.uk/applying-to-epsom/), the deadline is **midnight 31 October**
+To join [Year 7 in September 2025, or Year 9 in 2027](https://www.epsomcollege.org.uk/applying-to-epsom/), the deadline is **midday, 31 October**
 
 [Close Notification](#)
 
@@ -149,7 +149,7 @@ Our website address is: https://www.epsomcollege.org.uk.
 
 This policy explains how Epsom College collects and uses information via its website. Please click on the following links for more information on how the College uses information about pupils and parents.
 
-[Privacy Notice for Parents](https://www.epsomcollege.org.uk/download/1871/?tmstv=1728459832) [Privacy Notice for Pupils](https://www.epsomcollege.org.uk/download/1874/?tmstv=1728459832) [Privacy Notice for Customers & Suppliers](https://www.epsomcollege.org.uk/download/1868/?tmstv=1728459832) [Privacy Notice for Alumni](https://www.epsomcollege.org.uk/download/1865/?tmstv=1728459832)
+[Privacy Notice for Parents](https://www.epsomcollege.org.uk/download/1871/?tmstv=1728481552) [Privacy Notice for Pupils](https://www.epsomcollege.org.uk/download/1874/?tmstv=1728481552) [Privacy Notice for Customers & Suppliers](https://www.epsomcollege.org.uk/download/1868/?tmstv=1728481552) [Privacy Notice for Alumni](https://www.epsomcollege.org.uk/download/1865/?tmstv=1728481552)
 
 For further information, to receive support or make a complaint relating to the College’s use of your personal data please contact our Bursar, Mr Paul Ratcliffe at [bursar@epsomcollege.org.uk](mailto:bursar@epsomcollege.org.uk)
 
