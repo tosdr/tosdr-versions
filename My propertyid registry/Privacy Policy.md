@@ -119,11 +119,8 @@ This Privacy Policy applies to all current, former and guest information collect
 
 **WARNING:** This website is monitored by the **_MyPropertyID_** security team. Abuse of this service is a violation of our **[Terms](https://mypropertyidregistry.com/terms/)** and **[Privacy](https://mypropertyidregistry.com/privacy/)** policies. We take the **[Safety](https://mypropertyidregistry.com/safety)** of all of our users seriously and will not hesitate to involve law enforcement if there is evidence of abuse or harassment.
 
-* [Twitter](https://twitter.com/MyPropertyID?lang=en)
-* [YouTube](https://www.youtube.com/@MyPropertyID/videos)
-* [LinkedIn](https://www.linkedin.com/company/my-property-id-registry)
 * [Facebook](https://www.facebook.com/MyPropertyIDRegistry/)
-* [Instagram](https://www.instagram.com/mypropertyidregistry/?hl=en)
+* [X](https://twitter.com/MyPropertyID?lang=en)
 
 [SAFETY](https://mypropertyidregistry.com/safety) • [TERMS](https://mypropertyidregistry.com/terms/) • [PRIVACY](https://mypropertyidregistry.com/privacy/) Copyright © 2016-2024 PaxAux, L.L.C. All rights reserved.
 
@@ -231,6 +228,8 @@ This Privacy Policy applies to all current, former and guest information collect
 * [](# "Yiddish")
 * [](# "Yoruba")
 * [](# "Zulu")
+
+      
 
 ![](https://dc.ads.linkedin.com/collect/?pid=58471&fmt=gif)
 
