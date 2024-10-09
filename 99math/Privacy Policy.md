@@ -1,6 +1,6 @@
 ### [Go to 99math](https://99math.com/)
 
-[![](//v.fastcdn.co/t/35959ce9/10615b0d/1686722385-49473945-125x80-99mathlogo-white.png)](http://www.99math.com/)
+[![](//v.fastcdn.co/u/35959ce9/49473945-0-99mathlogo-white.png)](http://www.99math.com/)
 
 **Privacy Policy**
 ==================
@@ -188,4 +188,4 @@ If you wish to make a formal complaint about the way 99math has processed your p
 
 ### For all questions, comments and requests, please contact us at:  
   
-99math OÜ Suve street 2-51 10149 Tallinn, Estonia Phone: +1 718 618 4260 hello@99math.com
+99math OÜ Filmi 5-1410155 Tallinn, Estonia hello@99math.com
