@@ -150,7 +150,7 @@ If you wish to prevent your data from being used by Google Analytics, Google has
 
 We use Meta Pixel, a web analytics and advertising service provided by Meta, Inc. (“Meta”), in the Company Applications. The data from Meta Pixel is also saved and processed by Meta. Meta can connect this data with your Meta account and use it for its own and others’ advertising purposes, in accordance with Meta’s Privacy Policy found at [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/). Please click [https://www.facebook.com/settings/?tab=ads#\_=\_](https://www.facebook.com/settings/?tab=ads#_=_) if you would like to withdraw your consent for use of your data with Meta Pixel.
 
-We also partner with Microsoft Clarity and Microsoft Advertising to capture how you use and interact with our website through behavioral metrics, heatmaps and session replay to improve and market our Products and Services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of Products and Services and online activity. Additionally, we use this information for site optimization, fraud and security purposes and advertising. For more information about how Microsoft collects and uses your data, visit https://privacy.microsoft.com/en-us/privacystatement.
+We also partner with Microsoft Clarity and Microsoft Advertising to capture how you use and interact with our website through behavioral metrics, heatmaps and session replay to improve and market our Products and Services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of Products and Services and online activity. Additionally, we use this information for site optimization, fraud and security purposes and advertising. For more information about how Microsoft collects and uses your data, visit [https://privacy.microsoft.com/en-us/privacystatement](https://privacy.microsoft.com/en-us/privacystatement).
 
 **ACCESS TO AND DELETION OF YOUR INFORMATION**
 
@@ -206,7 +206,7 @@ Frontdoor
 3400 Players Club Parkway, Suite 300  
 Memphis, TN 38125
 
-_(Last updated_ _September__, 2024)_
+_(Last updated_ _September 24__, 2024)_
 
 * * *
 
