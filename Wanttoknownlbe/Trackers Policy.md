@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/juni-2011-de-eclectische-eclips-triade/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/israel-en-het-zionisme-ontleedt/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
