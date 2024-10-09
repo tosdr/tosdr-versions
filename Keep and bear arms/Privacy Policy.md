@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 531 active visitors** | **Wednesday, October 09, 2024** |
+| **You are 1 of 443 active visitors** | **Wednesday, October 09, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**To preserve liberty, it is essential that the whole body of the people always possess arms, and be taught alike, especially when young, how to use them... � Richard Henry Lee
+ **QUOTES TO REMEMBER**"If someone has a gun and is trying to kill you, it would be reasonable to shoot back with your own gun." � The Dalai Lama, (May 15, 2001, The Seattle Times) speaking at the "Educating Heart Summit" in Portland, Oregon, when asked by a girl how to react when a shooter takes aim at a classmate
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
