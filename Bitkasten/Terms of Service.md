@@ -92,9 +92,9 @@
 
 * [bitkasten](#)
     * [Überblick Plattform](https://www.bitkasten.de/bitkasten/)
+    * [Sichere, rechtskonforme Zustellung  
+        (EU Trust Service)](https://www.bitkasten.de/eidas-rechtssichere-digitale-zustellung/)
     * [Für Empfänger](https://www.bitkasten.de/digitaler-postempfang/)
-    * [Archiv](https://www.bitkasten.de/bitkasten/lebenslanges-archiv/)
-    * [Elektronische Signatur (QES)](https://www.bitkasten.de/bitkasten/bitkasten-signatur/)
     * [Implementierung](https://www.bitkasten.de/bitkasten/implementierung/)
     * [Preise](https://www.bitkasten.de/preismodell/)
     * [Referenzen](https://www.bitkasten.de/kundenreferenzen/)
@@ -117,9 +117,9 @@ Menü
 
 * [bitkasten](#)
     * [Überblick Plattform](https://www.bitkasten.de/bitkasten/)
+    * [Sichere, rechtskonforme Zustellung  
+        (EU Trust Service)](https://www.bitkasten.de/eidas-rechtssichere-digitale-zustellung/)
     * [Für Empfänger](https://www.bitkasten.de/digitaler-postempfang/)
-    * [Archiv](https://www.bitkasten.de/bitkasten/lebenslanges-archiv/)
-    * [Elektronische Signatur (QES)](https://www.bitkasten.de/bitkasten/bitkasten-signatur/)
     * [Implementierung](https://www.bitkasten.de/bitkasten/implementierung/)
     * [Preise](https://www.bitkasten.de/preismodell/)
     * [Referenzen](https://www.bitkasten.de/kundenreferenzen/)
