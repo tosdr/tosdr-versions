@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/god-is-de-naam-en-met-wie-spreek-ik/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/klimaat/censuur-van-de-nu-nl-kerkautoriteiten/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -158,16 +158,6 @@ Inschrijven
 > 
 > George Orwell (1903-1950), journalist-auteur
 
-#### WantToKnow Aanbieding
-
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/samen-9.jpg?fit=696%2C388&ssl=1)
-
-### [Elektrosmog en radio-activiteit-meters: straling in beeld deze herfst..!](https://www.wanttoknow.nl/aanbieding/opnieuw-beschikbaar-met-verbeterde-technologie-elektrosmog-en-radioactiviteit-meters-krijg-straling-in-beeld/)
-
-[– Let op! Geldig t/m donderdag 3 oktober a.s. – Sommige mensen ervaren in huis veel last van elektrosmog, de straling van elektronische apparaten, als de computer, telefoon & huishoudelijke apparaten..! Meten is weten vinden wij en daartoe deze oplossing. ‘Elektro-Smog’/elektromagnetische straling bestaan uit de componenten laag frequente magnetische (veld)stralingen, laag frequente elektrische straling en hoog frequente elektromagnetische straling. Hoog frequente straling, is voor veel mensen een bekend en vaak voelbaar gevaar. De ‘handige’ WiFi waarop computers en allerhande smart-apparaten functioneren, en ook mobiele netwerken, zoals ’t 5G netwerk zijn bekend. Maar ook laag frequente elektro-magneet(veld)stralingen heeft invloed op ieder mens/dier. Daar te vinden waar elektriciteit wordt gebruikt of getransformeerd. (bijv. de intensiteit van ‘zoemen’ van transformatorhuisjes/elektriciteitsmasten) Meten is weten en wij vonden, samen met het Franse E.P.E. Conseil, dat deze eenvoudige en bijzonder degelijke stralingsmeters geschikt zijn om ‘Elektrosmog-bewustzijn’ te stimuleren. We selecteerden 2 meters, waarmee iedereen snel de invloeden in kaart kan brengen! Daarbij een gamma-straling meter, waarmee je gemakkelijk de radio-actieve/nucleaire achtergrondstraling in kaart krijgt. Lees snel verder… …](https://www.wanttoknow.nl/aanbieding/opnieuw-beschikbaar-met-verbeterde-technologie-elektrosmog-en-radioactiviteit-meters-krijg-straling-in-beeld/)
-
-[Order now](https://www.wanttoknow.nl/aanbieding/opnieuw-beschikbaar-met-verbeterde-technologie-elektrosmog-en-radioactiviteit-meters-krijg-straling-in-beeld/#pt-field-text-5)
-
 [![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
 
 #### WantToKnow Aanbieding
@@ -176,7 +166,7 @@ Inschrijven
 
 ### [Stapelkorting van The Health Factory: onze meest voordelige aanbieding, speciaal voor het najaar!](https://www.wanttoknow.nl/aanbieding/stapelkorting-van-the-health-factory-onze-meest-voordelige-aanbieding-speciaal-voor-het-najaar/)
 
-[– Verlengd t/m 10 oktober! – Om het begin van de herfst én van het najaar te vieren, stelden wij met de goede mensen van The Health Factory een héle mooie aanbieding samen. Sla je slag: je voorraadje voor de donkere dagen, met 20% korting..! En.. een herfstcadeau er bovenop! Deze aanbieding is nu al onze scherpste van het jaar! Ontdek snel wat deze mooie deal voor jou betekent, als WantToKnow lezer! Kijk naar de effecten van nano-mineralen in je lichaam; die door het overmatig gebruik van kunstmest en bestrijdingsmiddelen, in combi met intensieve landbouw desastreuze gevolgen heeft, in vorm van tekorten aan micronutriënten (borium, ijzer, koper, mangaan, molybdeen, zink, selenium). Ook in AGF-producten (aardappelen, groenten en fruit) is deze afname bizar. Steeds meer mensen krijgen flinke tekorten aan vitamines en mineralen.; natuurlijk niet zonder gevolgen voor onze gezondheid! Samen met The Health Factory, de makers van bijzondere en zeer zuivere mineraalsupplementen, selecteerden we dus een aantal perfecte supplementsteuntjes in de rug. Lees snel verder over deze aanbieding en superkorting!! …](https://www.wanttoknow.nl/aanbieding/stapelkorting-van-the-health-factory-onze-meest-voordelige-aanbieding-speciaal-voor-het-najaar/)
+[– Verlengd t/m 17 oktober! – Om het begin van de herfst én van het najaar te vieren, stelden wij met de goede mensen van The Health Factory een héle mooie aanbieding samen. Sla je slag: je voorraadje voor de donkere dagen, met 20% korting..! En.. een herfstcadeau er bovenop! Deze aanbieding is nu al onze scherpste van het jaar! Ontdek snel wat deze mooie deal voor jou betekent, als WantToKnow lezer! Kijk naar de effecten van nano-mineralen in je lichaam; die door het overmatig gebruik van kunstmest en bestrijdingsmiddelen, in combi met intensieve landbouw desastreuze gevolgen heeft, in vorm van tekorten aan micronutriënten (borium, ijzer, koper, mangaan, molybdeen, zink, selenium). Ook in AGF-producten (aardappelen, groenten en fruit) is deze afname bizar. Steeds meer mensen krijgen flinke tekorten aan vitamines en mineralen.; natuurlijk niet zonder gevolgen voor onze gezondheid! Samen met The Health Factory, de makers van bijzondere en zeer zuivere mineraalsupplementen, selecteerden we dus een aantal perfecte supplementsteuntjes in de rug. Lees snel verder over deze aanbieding en superkorting!! …](https://www.wanttoknow.nl/aanbieding/stapelkorting-van-the-health-factory-onze-meest-voordelige-aanbieding-speciaal-voor-het-najaar/)
 
 [Order now](https://www.wanttoknow.nl/aanbieding/stapelkorting-van-the-health-factory-onze-meest-voordelige-aanbieding-speciaal-voor-het-najaar/#pt-field-text-5)
 
