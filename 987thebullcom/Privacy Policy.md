@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Craving YouThomas Rhett Ft Maren Morris<br><br>5:39pm |
-| Must Be Doin Somethin RightBilly Currington<br><br>5:35pm |
-| Pour Me A DrinkPost Malone Ft Blake Shelton<br><br>5:32pm |
-| You ProofMorgan Wallen<br><br>5:24pm |
-| Whiskey On YouNate Smith<br><br>5:21pm |
+| HurricaneLuke Combs<br><br>10:42pm |
+| Miles On ItKane Brown Ft Marshmello<br><br>10:39pm |
+| ReligiouslyBailey Zimmerman<br><br>10:36pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>10:33pm |
+| You ProofMorgan Wallen<br><br>10:21pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,17 +495,17 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Top 40 • Pacific NW
+News Talk • Eastern
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Sports • Midwest
+Top 40 • Pacific NW
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
