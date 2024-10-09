@@ -8,7 +8,7 @@
 
 [Nearby Showrooms:](https://www.jacuzzi.com/en-us/find-a-dealer/)
 
-There are 28 Jacuzzi store locations near you.
+There are 25 Jacuzzi store locations near you.
 
 [View Showrooms](https://www.jacuzzi.com/en-us/find-a-dealer/)
 
@@ -126,7 +126,7 @@ Delivery Zip Code
 
 Update
 
-There are 28 Jacuzzi store locations near you.
+There are 25 Jacuzzi store locations near you.
 
 [View Showrooms](https://www.jacuzzi.com/en-us/find-a-dealer/ "Nearby Showrooms:")
 
