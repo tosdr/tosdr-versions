@@ -224,9 +224,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [Federal Trade Commission and Justice Department Participate in Summit with G7 Enforcement Partners on Artificial Intelligence Competition Challenges](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-justice-department-participate-summit-g7-enforcement-partners-artificial)
+    ### [FTC Takes Action Against Marriott and Starwood Over Multiple Data Breaches](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-takes-action-against-marriott-starwood-over-multiple-data-breaches)
     
-    October 4, 2024
+    October 9, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
