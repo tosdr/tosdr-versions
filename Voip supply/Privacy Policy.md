@@ -251,7 +251,7 @@ We will only retain your personal data for the period necessary to fulfil the pu
 
 Should you choose to unsubscribe from our mailing list, please note that your personal data may still be retained on our database to the extent permitted by law
 
-8. For EU, United Kingdom, and Swiss Individuals: PrivacyNotice for Personal Data Transfers to the United States
+8. For EU, United Kingdom, and Swiss Individuals: Privacy Notice for Personal Data Transfers to the United States
     
 
 It is necessary to transfer your personal information (meaning, “any information relating to an identified or identifiable natural person” as defined by applicable data protection legislation) overseas to Sangoma US Inc. and it’s wholly owned United States subsidiaries, Sangoma Technologies US Inc., VoIP Innovations LLC, VOIP Supply LLC, Digium Cloud Services LLC, and Digium Inc., (collectively, the “Sangoma United States Group”)  as most of our centralized data processing is in the United States of America.  Any transfers will be made in full compliance with all aspects of the applicable regulations.
