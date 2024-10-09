@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![При поддержке «Женского движения Единой России» в Белгороде открылась площадка для приграничных женских клубов при центрах занятости](https://cdn.er.ru/media/news/October2024/VTDizAoFxCcp7vvkxzZ6-small.jpg)](https://er.ru/activity/news/pri-podderzhke-zhenskogo-dvizheniya-edinoj-rossii-v-belgorode-otkrylas-ploshadka-dlya-prigranichnyh-zhenskih-klubov-pri-centrah-zanyatosti)
+
+[При поддержке «Женского движения Единой России» в Белгороде открылась площадка для приграничных женских клубов при центрах занятости](https://er.ru/activity/news/pri-podderzhke-zhenskogo-dvizheniya-edinoj-rossii-v-belgorode-otkrylas-ploshadka-dlya-prigranichnyh-zhenskih-klubov-pri-centrah-zanyatosti)
+
+[#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Колесникова](https://er.ru/activity/news?tags%5B0%5D=23186) [#Ивенских](https://er.ru/activity/news?tags%5B0%5D=72329) [#Минтруд](https://er.ru/activity/news?tags%5B0%5D=16744) [#женскийклуб](https://er.ru/activity/news?tags%5B0%5D=1095376) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396)
+
+Сегодня 11:01
+
 [![Более 4,5 тысяч человек стали участниками мероприятий «Единой России», приуроченных ко Дню беременных](https://cdn.er.ru/media/news/October2024/WSMa1IsiESVXnX7NuNVh-small.jpg)](https://er.ru/activity/news/bolee-4-5-tysyach-chelovek-stali-uchastnikami-meropriyatij-edinoj-rossii-priurochennyh-ko-dnyu-beremennyh)
 
 [Более 4,5 тысяч человек стали участниками мероприятий «Единой России», приуроченных ко Дню беременных](https://er.ru/activity/news/bolee-4-5-tysyach-chelovek-stali-uchastnikami-meropriyatij-edinoj-rossii-priurochennyh-ko-dnyu-beremennyh)
@@ -336,14 +344,6 @@
 [«Единая Россия» предлагает изменить подход к подготовке специалистов для биоэкономики](https://er.ru/activity/news/edinaya-rossiya-predlagaet-izmenit-podhod-k-podgotovke-specialistov-dlya-bioekonomiki)
 
 [#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#биоэкономика](https://er.ru/activity/news?tags%5B0%5D=60346) [#круглыйстол](https://er.ru/activity/news?tags%5B0%5D=108586) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#цифровыетехнологии](https://er.ru/activity/news?tags%5B0%5D=114340)
-
-07.10.24
-
-[![Владимир Якушев: Проект федерального бюджета сбалансирован и отвечает поставленным Президентом задачам](https://cdn.er.ru/media/news/October2024/pE5E7sK0nxufpwZ7M78M-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-proekt-federalnogo-byudzheta-sbalansirovan-i-otvechaet-postavlennym-prezidentom-zadacham)
-
-[Владимир Якушев: Проект федерального бюджета сбалансирован и отвечает поставленным Президентом задачам](https://er.ru/activity/news/vladimir-yakushev-proekt-federalnogo-byudzheta-sbalansirovan-i-otvechaet-postavlennym-prezidentom-zadacham)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СоветФедерации](https://er.ru/activity/news?tags%5B0%5D=67479) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#парламентскиеслушания](https://er.ru/activity/news?tags%5B0%5D=113161)
 
 07.10.24
 
