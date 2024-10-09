@@ -239,7 +239,7 @@ Prior to engaging with a Subprocessor, Webflow performs extensive due diligence,
 
 This list is subject to change, as the needs of the business change. Please subscribe below to be notified of any updates in the future!
 
-For more information, please contact [security@webflow.com](mailto:security@webflow.com).
+For more information, please contact [\[email protected\]](https://webflow.com/cdn-cgi/l/email-protection).
 
 Webflow currently uses the following Subprocessors:
 
