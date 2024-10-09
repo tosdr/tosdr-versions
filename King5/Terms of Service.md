@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/WKYC/images/bb7ce1db-2751-41e5-9248-b9a4a48b4d98/20241004T000623/bb7ce1db-2751-41e5-9248-b9a4a48b4d98_16x9.jpg) ![](https://media.king5.com/assets/WKYC/images/bb7ce1db-2751-41e5-9248-b9a4a48b4d98/20241004T000623/bb7ce1db-2751-41e5-9248-b9a4a48b4d98_360x203.jpg)](https://www.king5.com/article/news/politics/tim-walz-october-8-seattle-visit/281-9ef10337-c9f8-464c-b864-307e4431b521)
+    *  [![](https://media.king5.com/assets/KING/images/7edf50f6-fb84-4432-a1c4-a3a396aeaa6f/20241009T060041/7edf50f6-fb84-4432-a1c4-a3a396aeaa6f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7edf50f6-fb84-4432-a1c4-a3a396aeaa6f/20241009T060041/7edf50f6-fb84-4432-a1c4-a3a396aeaa6f_360x203.jpg)](https://www.king5.com/article/news/local/rescue-efforts-underway-100-cats-abandoned-federal-way-apartment/281-5f950c5e-ef43-43b8-897d-8fe97d7e514a)
         
-        #### [VP candidate Tim Walz attends private event in Hunts Point](https://www.king5.com/article/news/politics/tim-walz-october-8-seattle-visit/281-9ef10337-c9f8-464c-b864-307e4431b521)
+        #### [Rescue efforts underway for more than 100 cats abandoned in 'biohazardous apartment' in Federal Way](https://www.king5.com/article/news/local/rescue-efforts-underway-100-cats-abandoned-federal-way-apartment/281-5f950c5e-ef43-43b8-897d-8fe97d7e514a)
         
-    *  [![](https://media.king5.com/assets/KING/images/27d45be8-e84f-4695-a339-3660e4016722/20240926T061013/27d45be8-e84f-4695-a339-3660e4016722_16x9.jpg) ![](https://media.king5.com/assets/KING/images/27d45be8-e84f-4695-a339-3660e4016722/20240926T061013/27d45be8-e84f-4695-a339-3660e4016722_360x203.jpg)](https://www.king5.com/article/news/local/public-safety/seattle-city-council-approves-50k-hiring-bonuses-police-officers/281-36eac36e-acd1-4776-995e-7e993a6d0f31)
+    *  [![](https://media.king5.com/assets/KING/images/3ee38e2c-2b97-47e9-bd10-debdb212bec4/20241009T061323/3ee38e2c-2b97-47e9-bd10-debdb212bec4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3ee38e2c-2b97-47e9-bd10-debdb212bec4/20241009T061323/3ee38e2c-2b97-47e9-bd10-debdb212bec4_360x203.jpg)](https://www.king5.com/article/money/citys-minimum-wage-center-of-heated-debate-olympia/281-c1a05d9b-00ed-4ce2-a90b-04ceeafa83dd)
         
-        #### [Seattle City Council approves new hiring bonuses for SPD officers, use of surveillance cameras](https://www.king5.com/article/news/local/public-safety/seattle-city-council-approves-50k-hiring-bonuses-police-officers/281-36eac36e-acd1-4776-995e-7e993a6d0f31)
+        #### [City's minimum wage at center of heated debate in Olympia](https://www.king5.com/article/money/citys-minimum-wage-center-of-heated-debate-olympia/281-c1a05d9b-00ed-4ce2-a90b-04ceeafa83dd)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/3c248599-1a24-4297-8c51-436a4ead277e/20241008T115900/3c248599-1a24-4297-8c51-436a4ead277e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3c248599-1a24-4297-8c51-436a4ead277e/20241008T115900/3c248599-1a24-4297-8c51-436a4ead277e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/790698af-6491-495c-acfa-34a365a40f2a/20241009T052545/790698af-6491-495c-acfa-34a365a40f2a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/790698af-6491-495c-acfa-34a365a40f2a/20241009T052545/790698af-6491-495c-acfa-34a365a40f2a_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-64°
+60°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
