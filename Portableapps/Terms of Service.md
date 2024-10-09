@@ -26,7 +26,7 @@ Main menu
 * [Donate](https://portableapps.com/donate "Contribute to PortableApps.com")
 * [Login / Create Account](https://portableapps.com/user/login)
 
-New: [streamWriter](https://portableapps.com/news/2024-06-28--streamwriter-portable-6.0.0-released) (Jun 28, 2024), [Platform 29.5.3](https://portableapps.com/news/2024-06-27--portableapps.com-platform-29.5.3-released) (Jun 27, 2024)  
+New: [Kanri](https://portableapps.com/news/2024-10-09--kanri-portable-0.7.1-released) (Oct 09, 2024), [Platform 29.5.3](https://portableapps.com/news/2024-06-27--portableapps.com-platform-29.5.3-released) (Jun 27, 2024)  
 [1,100+ portable packages](https://portableapps.com/apps), 1.1 billion downloads  
 Please [donate today](https://portableapps.com/donate)
 
@@ -52,9 +52,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 8 hours 10 min ago
+Last seen: 6 min 4 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -131,9 +131,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 8 hours 10 min ago
+Last seen: 6 min 4 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -156,9 +156,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 8 hours 10 min ago
+Last seen: 6 min 4 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -180,9 +180,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 8 hours 10 min ago
+Last seen: 6 min 4 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -204,9 +204,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 8 hours 10 min ago
+Last seen: 6 min 4 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -228,9 +228,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 8 hours 10 min ago
+Last seen: 6 min 4 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -252,9 +252,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 8 hours 10 min ago
+Last seen: 6 min 4 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
