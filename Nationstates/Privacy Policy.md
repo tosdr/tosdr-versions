@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Australians protesting in favour of H… (310)](https://forum.nationstates.net/viewtopic.php?t=556236&f=20&view=unread#unread ""Australians protesting in favour of Hezbollah and Hamas" (310 posts)")
-* [Based on AN flag, what do they export… (450)](https://forum.nationstates.net/viewtopic.php?t=551783&f=25&view=unread#unread ""Based on AN flag, what do they export? (REVIVAL)" (450 posts)")
-* [The Weather Thread- The Hurricanes ar… (2,799)](https://forum.nationstates.net/viewtopic.php?t=515489&f=20&view=unread#unread ""The Weather Thread- The Hurricanes are Coming!" (2,799 posts)")
-* [What MBTI do you think is AN (48)](https://forum.nationstates.net/viewtopic.php?t=555595&f=25&view=unread#unread ""What MBTI do you think is AN" (48 posts)")
-* [Flag Makers/Requests II (11,584)](https://forum.nationstates.net/viewtopic.php?t=442202&f=12&view=unread#unread ""Flag Makers/Requests II" (11,584 posts)")
+* [Ukrainian War VII: Everything has a p… (6,405)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (6,405 posts)")
+* [Can BN beat YN's suggested nation? (2)](https://forum.nationstates.net/viewtopic.php?t=556667&f=25&view=unread#unread ""Can BN beat YN's suggested nation?" (2 posts)")
+* [What is unique abt AN? (1,169)](https://forum.nationstates.net/viewtopic.php?t=551158&f=25&view=unread#unread ""What is unique abt AN?" (1,169 posts)")
+* [What is your relationship with AU? II (2,114)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (2,114 posts)")
 
 Advertisement
 
