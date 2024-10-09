@@ -205,7 +205,7 @@ This document was last updated on June 28, 2016
 
 Inkscape is Free and Open Source Software licensed under the [GPL](http://www.gnu.org/licenses/gpl-2.0.html).
 
-With thanks to: [Fastly](http://www.fastly.com/ "Spremanje sadržaja putem usluge Fastly") [OSUOSL](https://osuosl.org/ "Site Hosted by OSUOSL") [Sponsors](https://inkscape.org/support-us/sponsors/ "All of our Sponsors") [The Authors](https://inkscape.org/credits/ "The Authors") [![PY](https://media.inkscape.org/static/images/django.svg "This site is running:
+With thanks to: [Fastly](http://www.fastly.com/ "Data Cached by Fastly") [OSUOSL](https://osuosl.org/ "Site Hosted by OSUOSL") [Sponsors](https://inkscape.org/support-us/sponsors/ "All of our Sponsors") [The Authors](https://inkscape.org/credits/ "The Authors") [![PY](https://media.inkscape.org/static/images/django.svg "This site is running:
 Python 3.6.8
 Django 2.2
 App: CMS [Privacy Policy]
