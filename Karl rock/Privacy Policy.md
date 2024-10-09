@@ -103,7 +103,7 @@ Categories
 
 * Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
 * Post date [April 13, 2021](https://blog.karlrock.com/authentic-pakistani-chai-recipe-from-a-chai-master/)
-* [9 Comments on Authentic Pakistani Chai Recipe from a Chai Master](https://blog.karlrock.com/authentic-pakistani-chai-recipe-from-a-chai-master/#comments)
+* [10 Comments on Authentic Pakistani Chai Recipe from a Chai Master](https://blog.karlrock.com/authentic-pakistani-chai-recipe-from-a-chai-master/#comments)
 * Sticky post
 
 ![Authentic Pakistani Chai Recipe from a Chaiwala](https://blog.karlrock.com/wp-content/uploads/2021/04/BALOCHI-CHAIWALA-Teaches-Me-How-to-Make-REAL-CHAI-Recipe.00_03_20_22.Still001-01_copy_1536x864-1200x675.jpeg)
@@ -177,6 +177,25 @@ The Most Authentic Old Dehli Style Chole Bhature Recipe. Photo by Rishabh Mathur
 If you’ve read the best places in Delhi to eat Chole Bhature then you know I’m crazy about this delicious savoury and spicy quintessential Delhi dish. Some days I’d eat it for breakfast, lunch and dinner. The best Chole Bhature restaurants keep their recipe a guarded secret. Their unique recipe is the reason for their success. I \[…\]
 
 * Tags [Indian Food](https://blog.karlrock.com/tag/indian-food/), [Recipe](https://blog.karlrock.com/tag/recipe/), [Street Food](https://blog.karlrock.com/tag/street-food/), [Vegetarian](https://blog.karlrock.com/tag/vegetarian/)
+
+* * *
+
+Categories
+
+[India](https://blog.karlrock.com/category/india/) [Pakistan Travel](https://blog.karlrock.com/category/pakistan-travel/)
+
+[My Karakoram Highway Travel Super Guide (Safety, Must-Visit Stops, Itinerary, & More)](https://blog.karlrock.com/my-karakoram-highway-travel-super-guide/)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
+* Post date [October 9, 2024](https://blog.karlrock.com/my-karakoram-highway-travel-super-guide/)
+* [No Comments on My Karakoram Highway Travel Super Guide (Safety, Must-Visit Stops, Itinerary, & More)](https://blog.karlrock.com/my-karakoram-highway-travel-super-guide/#respond)
+
+![Karl Rock at Khunjerab Pass at the end of a motorcycle journey from Delhi.](https://blog.karlrock.com/wp-content/uploads/2024/09/IMG_0336-1200x675.jpeg)
+
+If you’re into motorcycle adventures that take you off the beaten path, I’ve got something for you. I hit the Karakoram Highway on a rented Suzuki GS 150, exploring Gilgit-Baltistan (referred to in India as Ladakh). This blog’s about that ride—real, raw, and ready for you to replicate. Let’s dive into where to go, what \[…\]
+
+* Tags [India](https://blog.karlrock.com/tag/india/), [Motorcycle](https://blog.karlrock.com/tag/motorcycle/), [Pakistan](https://blog.karlrock.com/tag/pakistan/)
 
 * * *
 
@@ -357,25 +376,6 @@ I rented a motorcycle for 3 weeks in Pakistan, and in this post, I’ll show you
 
 * * *
 
-Categories
-
-[Motorcycle Travel](https://blog.karlrock.com/category/motorcycle-travel/)
-
-[Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-* Post author By [Karl Rock](https://blog.karlrock.com/author/karlos/)
-* Post date [August 22, 2023](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/)
-* [10 Comments on Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/#comments)
-
-![Karl Rock and his Royal Enfield Himalayan outside the Golden Temple in Amritsar, India.](https://blog.karlrock.com/wp-content/uploads/2023/08/img_9105-1200x900.jpg)
-
-I wanted to take my Indian-bought and registered Royal Enfield Himalayan motorcycle to Pakistan via the Attari-Wagah border. So I rode to the Attari-Wagah border Customs office to find out if it was possible because there was no information online! Here is what I found out… Can you take an Indian-bought vehicle to Pakistan? The \[…\]
-
-* Tags [India](https://blog.karlrock.com/tag/india/), [Motorcycle](https://blog.karlrock.com/tag/motorcycle/), [Pakistan](https://blog.karlrock.com/tag/pakistan/), [Royal Enfield](https://blog.karlrock.com/tag/royal-enfield/)
-
-* * *
-
 Posts navigation
 ----------------
 
@@ -418,9 +418,9 @@ Top
     
     [Nankana Sahib Travel Super Guide](https://blog.karlrock.com/nankana-sahib-travel-super-guide/ "Nankana Sahib Travel Super Guide")
     
-* [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+* [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
-    [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+    [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
