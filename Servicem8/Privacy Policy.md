@@ -160,7 +160,7 @@ ServiceM8 is committed to the confidentiality of your information and account da
     ‍
 * **Successors**: we may disclose Your information in the case of a sale, merger, consolidation, liquidation, reorganisation, or acquisition. In that event, any acquirer will be subject to the obligations of this privacy policy.  
     ‍
-* **People browsing our message boards, chat, profile pages, blogs and other services** to which You are able to post information and materials, including “Testimonials, Ratings and Reviews” and “Public Forum.” If You submit or agree to testimonials, ratings or reviews to the Service, any Personal Information You include will be displayed in the Service. If you want Your testimonial removed, please contact us at privacy@servicem8.com.  
+* **People browsing our message boards, chat, profile pages, blogs and other services** to which You are able to post information and materials, including “Testimonials, Ratings and Reviews” and “Public Forum.” If You submit or agree to testimonials, ratings or reviews to the Service, any Personal Information You include will be displayed in the Service. If you want Your testimonial removed, please contact us at [\[email protected\]](https://www.servicem8.com/cdn-cgi/l/email-protection).  
     ‍
 * Your contacts associated with your social media accounts, ServiceM8’s social media contacts, and browsers of the applicable social media, in connection with any of Your social media activity related to ServiceM8.  
     ‍
@@ -210,10 +210,10 @@ You may access your information via Your ServiceM8 account or through a request 
 You have the ability to access, alter or correct Your personal information within Your ServiceM8 account. It is Your responsibility to ensure the personal information You provide us is complete, accurate and up to date.
 
   
-You can request, at no charge, all personal and other information we hold about you in writing at privacy@servicem8.com. Following an information request, if you believe any of the information we hold about you is unnecessary, inaccurate, out of date or incomplete, please contact us at privacy@servicem8.com.
+You can request, at no charge, all personal and other information we hold about you in writing at [\[email protected\]](https://www.servicem8.com/cdn-cgi/l/email-protection). Following an information request, if you believe any of the information we hold about you is unnecessary, inaccurate, out of date or incomplete, please contact us at [\[email protected\]](https://www.servicem8.com/cdn-cgi/l/email-protection).
 
   
-To request removal of Your personal information from any websites or forums controlled by ServiceM8, please request this in writing through privacy@servicem8.com .
+To request removal of Your personal information from any websites or forums controlled by ServiceM8, please request this in writing through [\[email protected\]](https://www.servicem8.com/cdn-cgi/l/email-protection) .
 
   
 We will process Your requests as soon as reasonably practicable. If it is not reasonable, practical, or appropriate for us to process Your request in the manner you have requested, or we determine it to be frivolous or vexatious, we will advise you accordingly.  
@@ -262,7 +262,7 @@ You agree that electronic disclosures and notices have the same meaning and effe
 
 ### Contact Us
 
-If You have any questions or concerns about this privacy policy or how your personal information is handled, please contact our Privacy Officer at privacy@servicem8.com.
+If You have any questions or concerns about this privacy policy or how your personal information is handled, please contact our Privacy Officer at [\[email protected\]](https://www.servicem8.com/cdn-cgi/l/email-protection).
 
 ‍
 
