@@ -215,4 +215,6 @@ Lastest schools and collages news in Canada
 
 COPYRIGHT © 2024 - Lechool Mag // Designed By - [ZeeTheme](https://zeetheme.com/)
 
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.[Ok](#)[Privacy policy](https://lechool.com/mag/privacy-policy/)[](javascript:void(0);)
+
 ![](https://certify.alexametrics.com/atrk.gif?account=c3kiw1FYxz20cv)
