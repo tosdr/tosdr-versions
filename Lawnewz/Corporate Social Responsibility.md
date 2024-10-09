@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Donald Trump, JD Vance](https://am22.mediaite.com/lc/cnt/uploads/2024/10/AP24234754544836-432x243.jpg)](https://lawandcrime.com/high-profile/haitian-group-accusing-trump-and-vance-of-crimes-with-eating-the-cats-falsehoods-dealt-a-major-setback-after-court-reviews-case/)
+1. [![Former Mayor of New York Rudy Giuliani leaves the federal courthouse in Washington, Monday, Dec. 11, 2023. The trial will determine how much Rudy Giuliani will have to pay two Georgia election workers who he falsely accused of fraud while pushing President Donald Trump's baseless claims after he lost the 2020 election. (AP Photo/Jose Luis Magana)](https://am23.mediaite.com/lc/cnt/uploads/2023/12/rudy-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giuliani-wants-to-stop-defamed-georgia-election-workers-from-mentioning-money-he-is-owed-by-the-trump-campaign-until-after-the-election/)
     
-    ### ['Significant mischaracterization' of evidence: Court just dealt Haitian group accusing Trump and JD Vance of committing crimes with 'eating the cats' falsehoods a major loss](https://lawandcrime.com/high-profile/haitian-group-accusing-trump-and-vance-of-crimes-with-eating-the-cats-falsehoods-dealt-a-major-setback-after-court-reviews-case/)
+    ### [Rudy Giuliani wants to stop defamed Georgia election workers from mentioning money he is owed by the Trump campaign – until after the election](https://lawandcrime.com/high-profile/rudy-giuliani-wants-to-stop-defamed-georgia-election-workers-from-mentioning-money-he-is-owed-by-the-trump-campaign-until-after-the-election/)
     
-2. [![Romi Frentescu](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Romi-Frentescu-432x243.jpg)](https://lawandcrime.com/crime/he-wanted-the-man-to-die-member-of-infamous-motorcycle-club-murders-2-tells-nurse-to-quit-cpr-on-one-of-the-victims-cops-say/)
+2. [![Peggy Sylvania Yarborough (Garner Police Department).](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Peggy-Sylvania-Yarborough-432x243.png)](https://lawandcrime.com/crime/i-cant-tell-you-what-she-was-thinking-woman-admits-to-fatal-halloween-shooting-of-live-in-ex-boyfriend/)
+    
+    ### ['I can't tell you what she was thinking': Woman admits to fatal Halloween shooting of live-in ex-boyfriend](https://lawandcrime.com/crime/i-cant-tell-you-what-she-was-thinking-woman-admits-to-fatal-halloween-shooting-of-live-in-ex-boyfriend/)
+    
+3. [![Background: Oak Grove Church Road, Franklin County, Mo. (Google Maps). Inset: Donald A. Pierce Jr. (Franklin County Sheriff's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Donald-A.-Pierce-Jr-432x243.jpg)](https://lawandcrime.com/crime/man-ran-estranged-wife-off-road-into-creek-because-she-was-going-to-tell-everything-and-testify-against-him-at-rape-trial-family-members-say/)
+    
+    ### [Man ran estranged wife off road, into creek because she was going to 'tell everything' and testify against him at rape trial, family members say](https://lawandcrime.com/crime/man-ran-estranged-wife-off-road-into-creek-because-she-was-going-to-tell-everything-and-testify-against-him-at-rape-trial-family-members-say/)
+    
+4. [![Vince McMahon lawsuit](https://am21.mediaite.com/lc/cnt/uploads/2024/10/AP24281695808087-432x243.jpg)](https://lawandcrime.com/high-profile/prove-it-ex-wwe-employees-latest-demand-could-be-really-bad-news-for-vince-mcmahon-in-trafficking-suit-over-dream-that-quickly-became-a-nightmare/)
+    
+    ### ['Prove it': Ex-WWE employee's latest demand could be really bad news for Vince McMahon in trafficking suit over 'dream' that 'quickly became a nightmare'](https://lawandcrime.com/high-profile/prove-it-ex-wwe-employees-latest-demand-could-be-really-bad-news-for-vince-mcmahon-in-trafficking-suit-over-dream-that-quickly-became-a-nightmare/)
+    
+5. [![Romi Frentescu](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Romi-Frentescu-432x243.jpg)](https://lawandcrime.com/crime/he-wanted-the-man-to-die-member-of-infamous-motorcycle-club-murders-2-tells-nurse-to-quit-cpr-on-one-of-the-victims-cops-say/)
     
     ### ['He wanted the man to die': Member of infamous motorcycle club murders 2, tells nurse to quit CPR on one of the victims, cops say](https://lawandcrime.com/crime/he-wanted-the-man-to-die-member-of-infamous-motorcycle-club-murders-2-tells-nurse-to-quit-cpr-on-one-of-the-victims-cops-say/)
-    
-3. [![Gloria Williams and Kendrick Lee](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Gloria-Williams-and-Kendrick-Lee-432x243.jpg)](https://lawandcrime.com/crime/mother-who-let-boyfriend-beat-8-year-old-son-to-death-before-forcing-the-boys-siblings-to-live-with-his-body-for-a-year-is-going-to-prison/)
-    
-    ### [Mother who let boyfriend beat 8-year-old son to death before forcing the boy's siblings to live with his body for a year is going to prison](https://lawandcrime.com/crime/mother-who-let-boyfriend-beat-8-year-old-son-to-death-before-forcing-the-boys-siblings-to-live-with-his-body-for-a-year-is-going-to-prison/)
-    
-4. [![Allison Schardin](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Allison-Schardin-432x243.jpg)](https://lawandcrime.com/crime/really-creepy-wife-and-mother-met-hockey-players-young-enough-to-be-her-kids-in-hot-tub-while-on-stay%e2%80%90cation-with-family-and-did-the-unthinkable/)
-    
-    ### ['Really creepy' wife and mother met hockey players 'young enough to be her kids' in hot tub while on 'stay‐cation' with family and did the unthinkable](https://lawandcrime.com/crime/really-creepy-wife-and-mother-met-hockey-players-young-enough-to-be-her-kids-in-hot-tub-while-on-stay%e2%80%90cation-with-family-and-did-the-unthinkable/)
-    
-5. [![Left: NEW YORK, NY - AUGUST 04: Martin Shkreli, former chief executive officer of Turing Pharmaceuticals AG, center, pauses while speak to members of the media outside federal court in the Brooklyn borough of New York, U.S., on Friday, Aug. 4, 2017 (People: Martin Shkreli Transmission Ref: MNC1 Hoo-Me.com / MediaPunch/IPX). Right: FILE - New York Attorney General Letitia James speaks during a press briefing, Feb. 16, 2024, in New York. A New York man has been charged with sending death threats to James and the Manhattan judge who presided over former President Donald Trump’s civil suit. (AP Photo/Bebeto Matthews, File)](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Marti-Shkreli-Letitia-James-432x243.jpg)](https://lawandcrime.com/high-profile/his-selfishness-had-consequences-ag-james-takes-victory-lap-as-scotus-rejects-pharma-bro-martin-shkrelis-appeal/)
-    
-    ### ['His selfishness had consequences': AG James takes victory lap as SCOTUS rejects 'Pharma Bro' Martin Shkreli's appeal](https://lawandcrime.com/high-profile/his-selfishness-had-consequences-ag-james-takes-victory-lap-as-scotus-rejects-pharma-bro-martin-shkrelis-appeal/)
     
 
 [](http://eepurl.com/c89Jdb)
