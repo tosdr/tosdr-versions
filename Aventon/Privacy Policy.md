@@ -147,7 +147,7 @@ YOUR OFFERS
     
     Ebike service & test rides
     
-    ![TUV Certified Alternative](//www.aventon.com/cdn/shop/files/key-diff-tuv-alt-icon_1024x1024.png?v=1695248206)
+    ![TUV Certified Alternative](//www.aventon.com/cdn/shop/files/TUV_rheinand2_1024x1024.png?v=1728422923)
     
     TUV Safety Certified
     
@@ -212,7 +212,7 @@ YOUR OFFERS
     
     Ebike service & test rides
     
-    ![TUV Certified Alternative](//www.aventon.com/cdn/shop/files/key-diff-tuv-alt-icon_1024x1024.png?v=1695248206)
+    ![TUV Certified Alternative](//www.aventon.com/cdn/shop/files/TUV_rheinand2_1024x1024.png?v=1728422923)
     
     TUV Safety Certified
     
@@ -349,7 +349,7 @@ Open menu
     
     Ebike service & test rides
     
-    ![TUV Certified Alternative](//www.aventon.com/cdn/shop/files/key-diff-tuv-alt-icon_1024x1024.png?v=1695248206)
+    ![TUV Certified Alternative](//www.aventon.com/cdn/shop/files/TUV_rheinand2_1024x1024.png?v=1728422923)
     
     TUV Safety Certified
     
