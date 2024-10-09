@@ -5,9 +5,9 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Prime Time 2024
 
-Falling leaves, falling prices.
+The sale of the season ends today.
 
-Save up to 50%
+SAVE UP TO 50%
 
 _keyboard\_arrow\_right_](https://drop.com/all-communities/drops/exclusive-deals)
 
