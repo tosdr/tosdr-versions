@@ -253,6 +253,6 @@ Follow us
 
 [](https://www.linkedin.com/company/11067656/)[](https://www.instagram.com/volteuropa)[](https://www.twitter.com/volteuropa)[](https://www.facebook.com/VoltEuropa)[](https://www.youtube.com/c/VoltEuropa)[](https://www.reddit.com/r/VoltEuropa/)[](https://discord.gg/ckWZJMn)
 
-[Legal](https://www.volteuropa.org/legal) • [Privacy](https://www.volteuropa.org/privacy) • [Transparency](https://www.volteuropa.org/transparency) •
+[Legal](https://www.volteuropa.org/legal) • [Privacy](https://www.volteuropa.org/privacy) • [Cookieless](https://www.volteuropa.org/cookies) • [Transparency](https://www.volteuropa.org/transparency) •
 
 Made with 💜 by [Volt EUR Tech Team](https://www.volteuropa.org/tech) for Volt Europa AISBL
