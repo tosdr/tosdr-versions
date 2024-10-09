@@ -421,7 +421,7 @@ close mobile menu
     * [Careers](https://www.gsa.gov/about-us/find-apply-for-and-land-a-job-at-gsa?topnav=about-us "Learn what we have to offer.") Learn what we have to offer.
     
 
-* [Per Diem Lookup](javascript:; "Perdiem Lookup")
+* [Per diem lookup](javascript:; "Per diem lookup")
 
   Search  ![Search](/sites/gsa.gov/themes/custom/gsa/dist/img/usa-icons-bg/search--white.svg)
 
@@ -1107,7 +1107,7 @@ Rates for foreign countries are set by the [State Department](https://aoprals.st
 
 ### 2 Choose a date
 
-Select Fiscal Year \- Select - 2025 (Current Fiscal Year) 2024 2023
+Select fiscal year \- Select - 2025 (current fiscal year) 2024 2023
 
 * * *
 
