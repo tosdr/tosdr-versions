@@ -454,10 +454,6 @@ More Detailed Information
 
  [![GitHub](/svg/brands/github.svg)](https://github.com/gitpod-io)[![LinkedIn](/svg/brands/linkedin.svg)](https://www.linkedin.com/company/gitpod/)[![YouTube](/svg/brands/youtube.svg)](https://www.youtube.com/@Gitpod)[![Discord](/svg/brands/discord.svg)](https://www.gitpod.io/chat)[![Twitter](/svg/brands/twitter.svg)](https://twitter.com/gitpod)
 
-![GDPR Compliant](/images/gdpr.png)
-
-![SOC 2 Compliant](/images/soc-2.png)
-
 [Imprint](https://www.gitpod.io/imprint) [Terms of service](https://www.gitpod.io/terms) [Privacy policy](https://www.gitpod.io/privacy) [Cookie policy](https://www.gitpod.io/cookies) Cookie preferences
 
 Copyright © 2024 Gitpod
