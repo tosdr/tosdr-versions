@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/what-is-dirty-soda-and-is-it-healthy-1440x810.jpg)
+
+Does ‘Dirty Soda’ Have Any Health Benefits?](https://www.everydayhealth.com/diet-nutrition/does-dirty-soda-have-any-health-benefits/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/breast-cancer-rises-women-under-50-1440x810.png)
 
 Breast Cancer Diagnoses Continue to Rise for Women Under 50](https://www.everydayhealth.com/cancer/breast-cancer-diagnoses-continue-to-rise-for-women-under-fifty/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/one-sugary-soda-day-raise-risk-diseases-1440x810.jpg)
-
-Just One Soda a Day May Raise the Risk of Heart Disease, Cancer, and Diabetes](https://www.everydayhealth.com/diet-nutrition/one-soda-a-day-may-raise-risk-of-heart-disease-cancer-diabetes/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/dupixent-approval-treat-copd-pdufa-1440x810.jpg)
 
