@@ -592,8 +592,6 @@ Kopieren
 
 [](#)
 
-[![Blocktrainer Prime Days](/fileadmin/_processed_/2/f/csm_Blocktrainer_Prime_Days_390x615px_ef90eee37d.jpg)](https://www.blocktrainer.de/shop)
-
 **Privatsphäre-Einstellungen**
 
 Mit diesem Tool können Sie Ihre Zustimmung zur Erfassung und Verarbeitung personenbezogener Daten durch Technologien von Drittanbietern verwalten.
