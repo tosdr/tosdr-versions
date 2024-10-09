@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/document/54SCPRIP_SCF_9608F1D1-2216-4292-C788-08DC90C80755/climate-change-response-emissions-trading-scheme-agricultural/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/visit-and-learn/visit/planning-your-visit/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/document/54SCPRIP_SCF_9608F1D1-2216-4292-C788-08DC90C80755/climate-change-response-emissions-trading-scheme-agricultural/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/visit-and-learn/visit/planning-your-visit/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
