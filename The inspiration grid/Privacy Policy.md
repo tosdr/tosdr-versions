@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/photography-relander-24-feature.jpg)
+
+[](https://theinspirationgrid.com/human-x-nature-double-exposure-portraits-by-christoffer-relander/)
+
+### Human x Nature: Double-Exposure Portraits by Christoffer Relander
+
+![](https://inspgr.id/app/uploads/2024/10/illustration-pascal-blanche-24-feature.jpg)
+
+[](https://theinspirationgrid.com/sci-fi-worlds-the-art-of-pascal-blanche/)
+
+### Sci-Fi Worlds: The Art of Pascal Blanché
+
 ![](https://inspgr.id/app/uploads/2024/10/3d-julien-rivoire-feature.jpg)
 
 [](https://theinspirationgrid.com/awesome-retro-gaming-art-by-julien-rivoire/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/multifaceted-typographic-murals-by-pref/)
 
 ### Multifaceted Typographic Murals by Pref
-
-![](https://inspgr.id/app/uploads/2024/10/art-kun-zhao-feature.jpg)
-
-[](https://theinspirationgrid.com/plastic-packaging-artworks-by-kun-zhao/)
-
-### Trash to Treasure: Powerful Artworks by Kun Zhao
-
-![](https://inspgr.id/app/uploads/2024/10/art-alefes-silva-feature.jpg)
-
-[](https://theinspirationgrid.com/surreal-dreams-gorgeous-illustrations-by-alefes-silva/)
-
-### Surreal Dreams: Gorgeous Illustrations by Alefes Silva
 
 Awesome products for creatives
 ------------------------------
