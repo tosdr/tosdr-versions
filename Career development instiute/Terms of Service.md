@@ -61,6 +61,8 @@ Search for anything
 * [CDI Academy](https://www.thecdi.net/cdi-academy)
     * [Academy - Frequently Asked Questions](https://www.thecdi.net/cdi-academy/membership-frequently-asked-questions)
     * [Career Advisor Refresher Training](https://www.thecdi.net/cdi-academy/career-advisor-refresher-training-97779aa199c61aea1f2990aac20a45f3)
+    * [CDI Certificate (Supporting Clients with Additional Needs) Level 4](https://www.thecdi.net/cdi-academy/cdi-certificate-(supporting-clients-with-additional-needs)-level-4)
+    * [Information and Advice Level 4 Diploma](https://www.thecdi.net/cdi-academy/information-and-advice-level-4-diploma)
     * [QCF Level 6 Diploma in Career Guidance and Development](https://www.thecdi.net/cdi-academy/qcf-level-6-diploma)
     * [Certificate in Careers Leadership (L6)](https://www.thecdi.net/cdi-academy/cert-in-careers-leadership)
     * [Supporting Career Related Learning in Schools and Colleges (L4)](https://www.thecdi.net/cdi-academy/supporting-careers-related-learning)
