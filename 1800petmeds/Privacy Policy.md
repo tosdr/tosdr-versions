@@ -234,7 +234,6 @@ Popular Searches
 * [Today's Deals](#)
     * [30% Off Sitewide Use Code DEALDAYS](https://www.1800petmeds.com/)
     * [15% Off Halloween Treats Use Code TREATS15](https://www.1800petmeds.com/get-15-off-treat-on-halloween.html?campaign=TREATS15001)
-    * [20% off Select Hill's products](https://www.1800petmeds.com/save-20-off-hillssale.html)
     
 * [Hurricane Relief](https://www.1800petmeds.com/hurricane-relief.html)
 * [Pet Health Resources](#)
@@ -838,7 +837,6 @@ Navigation [×](javascript:void(0))
     * [BackToday's Deals](#)
     * [30% Off Sitewide Use Code DEALDAYS](https://www.1800petmeds.com/)
     * [15% Off Halloween Treats Use Code TREATS15](https://www.1800petmeds.com/get-15-off-treat-on-halloween.html?campaign=TREATS15001)
-    * [20% off Select Hill's products](https://www.1800petmeds.com/save-20-off-hillssale.html)
     
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwa5ec0711/images/book.svg) [Pet Health Advice](https://www.1800petmeds.com/education)
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw811f0683/images/livestream.svg) [Talk to a vet](https://www.petmeds.com/vetlive)
