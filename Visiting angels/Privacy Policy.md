@@ -260,15 +260,15 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
  related  categories
 
-[6 Tips to Help Your Loved One Keep Track of Medication](https://www.visitingangels.com/knowledge-center/care-options/6-tips-to-help-your-loved-one-keep-track-of-medication/82)
+[Elder Care during Holiday Times](https://www.visitingangels.com/knowledge-center/care-options/elder-care-during-holiday-times/50)
 
-[A Generation in Denial: A Call for Faster Action](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/a-generation-in-denial-a-call-for-faster-action/356)
+[Gentleness Is Important to Personal Care](https://www.visitingangels.com/knowledge-center/care-options/gentleness-is-important-to-personal-care/471)
 
-[Dementia Care: Visiting Angels Provides Insight into Care and Symptoms](https://www.visitingangels.com/knowledge-center/care-options/dementia-care-visiting-angels-provides-insight-into-care-and-symptoms/326)
+[3 Keys to Home Care Provider Compatibility](https://www.visitingangels.com/knowledge-center/selecting-care/3-keys-to-home-care-provider-compatibility/385)
 
-[Help a Senior this Halloween with a Visiting Angels Greeter](https://www.visitingangels.com/knowledge-center/care-options/help-a-senior-this-halloween-with-a-visiting-angels-greeter/21)
+[Part 2: Expert Advice When Caring for a Loved One with Alzheimer’s](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/part-2-expert-advice-when-caring-for-a-loved-one-with-alzheimers/368)
 
-[Making the Most Out of Visits to Elderly Parents](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/making-the-most-out-of-visits-to-elderly-parents/121)
+[Sleep Patterns, Fruit & Vegetable Intake Linked to Dementia Risk](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/sleep-patterns-fruit-vegetable-intake-linked-to-dementia-risk/120)
 
 * [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
 * [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
