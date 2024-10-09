@@ -115,6 +115,24 @@ Atos homepage](https://atos.net/en/)
         
         [**Watch the video >**](https://youtu.be/P7IkQY3DpG8?si=f1F0NfQpe2sBmG-A)
         
+    * Eviden Solutions
+        
+        * Eviden Solutions
+        * [Advanced Computing](https://eviden.com/solutions/advanced-computing/)
+        * [Cloud](https://eviden.com/solutions/cloud/)
+        * [Digital Security](https://eviden.com/solutions/digital-security/)
+        * [Generative AI](https://eviden.com/solutions/generative-ai/)
+        * [Sustainability](https://eviden.com/solutions/sustainability/)
+        * [Smart Platforms](https://eviden.com/solutions/smart-platforms/)
+        * [Transformation Acceleration](https://eviden.com/solutions/transformation-acceleration/)
+        
+        Eviden Digital Magazine
+        -----------------------
+        
+        [![Eviden Possibilities](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://page.eviden.com/possibilities?utm_source=Atos.net&utm_medium=Web&utm_campaign=Possibilities_MARCH24)
+        
+        [**View the magazine >**](https://page.eviden.com/possibilities?utm_source=Atos.net&utm_medium=Web&utm_campaign=Possibilities_MARCH24)
+        
 * Insights
     * <<
     * [Atos Research Community](https://atos.net/en/atos-research-community)
@@ -182,15 +200,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Eviden drives quantum adoption with installation of IQM Spark quantum computer](https://atos.net/en/2024/press-release_2024_10_09/eviden-drives-quantum-adoption-with-installation-of-iqm-spark-quantum-computer)
+        * [Eviden launches PQC HSMaaS, a EU sovereign, Post-Quantum Cryptography Hardware Security Module as a Service](https://atos.net/en/2024/press-release_2024_10_08/eviden-launches-pqc-hsmaas-a-eu-sovereign-post-quantum-cryptography-hardware-security-module-as-a-service)
         * [Update on ongoing discussions with the French state concerning BDS's Advanced Computing, Mission-Critical Systems and Cybersecurity Products businesses](https://atos.net/en/2024/press-release_2024_10_07/update-on-ongoing-discussions-with-the-french-state-concerning-bdss-advanced-computing-mission-critical-systems-and-cybersecurity-products-businesses)
-        * [Very strong support of Atos SE’ shareholders and financial creditors meeting as classes of affected parties vote on the draft accelerated safeguard plan](https://atos.net/en/2024/press-release_2024_09_27/very-strong-support-of-atos-se-shareholders-and-financial-creditors-meeting-as-classes-of-affected-parties-vote-on-the-draft-accelerated-safeguard-plan)
-        * [Atos is awarded a “Platinum” EcoVadis Medal for its commitment to sustainability for 5th year running](https://atos.net/en/2024/press-release_2024_09_26/atos-is-awarded-a-platinum-ecovadis-medal-for-its-commitment-to-sustainability-for-5th-year-running)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Oct 7, 2024
+        Oct 9, 2024
         
-        ### Update on ongoing discussions with the French state concerning BDS's Advanced Computing, Mission-Critical Systems and Cybersecurity Products businesses
+        ### Eviden drives quantum adoption with installation of IQM Spark quantum computer
         
 * ˅[About Us](#)
     * <<
