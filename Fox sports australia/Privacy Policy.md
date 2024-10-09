@@ -50,20 +50,22 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250111)
 * [Women's T20 WC
     
-    10/10 1:00 AEST
+    IND won by 82 runs
     
     |     |     |
     | --- | --- |
-    | IND | –   |
-    | SRI | –   |
+    | IND | 3 /172 |
+    | SRI | 90  |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250112)
 * [Men's T20I
     
+    IND won by 86 runs
+    
     |     |     |
     | --- | --- |
-    | IND | 2 /37 |
-    | BAN |     |
+    | IND | 9 /221 |
+    | BAN | 9 /135 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250102)
 * [Sheffield Shield
@@ -124,26 +126,40 @@ FOX SCORES
     | MEL | 2.4.16 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240702)
+* Basketball
+    
+* [NBL
+    
+    10/10 19:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CAI | –   |
+    | PER | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040001)
+* Football
+    
+* [WCQ
+    
+    10/10 20:10 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUS | –   |
+    | CHN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250301)
 * Baseball
     
 * [MLB
     
-    Final
+    Bottom 3rd Innings
     
     |     |     |
     | --- | --- |
-    | SD  | 6   |
-    | LAD | 5   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400400297268)
-* [MLB
-    
-    10/10 6:08 AEST
-    
-    |     |     |
-    | --- | --- |
-    | DET | –   |
-    | CLE | –   |
+    | DET | 1   |
+    | CLE | 0   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002549B9)
 * [MLB
@@ -837,7 +853,6 @@ FOX SCORES
 * [Baseball](https://www.foxsports.com.au/video/other-sports/baseball)
 * [WWE](https://www.foxsports.com.au/video/other-sports/wwe)
 * [Netball](https://www.foxsports.com.au/video/other-sports/netball)
-* [Cycling](https://www.foxsports.com.au/video/other-sports/cycling)
 * [Horse Racing](https://www.foxsports.com.au/video/other-sports/horse-racing)
 * Olympics
 * [Americas Cup](https://www.foxsports.com.au/video/other-sports/americas-cup)
