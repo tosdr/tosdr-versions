@@ -144,6 +144,12 @@ Global Navigation
 * [About King County](https://www.kingcounty.gov/en/legacy/about)
 * [Departments](https://www.kingcounty.gov/en/legacy/depts)
 
+Indigenous Peoples' Day is Monday, October 14, 2024
+
+Courts will be open, but [most of our offices will be closed, and transit and service schedules may be different](https://kingcounty.gov/en/shared-topics/about-king-county/holiday-closures-impacts/indigenous-peoples-day).
+
+×
+
 Terms of use
 ============
 
