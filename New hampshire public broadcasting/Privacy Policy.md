@@ -184,8 +184,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Great Migrations Extended Trailer** |](https://video.nhpbs.org/video/great-migrations-extended-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Solar System: Icy Worlds Preview** | NOVA](https://video.nhpbs.org/video/solar-system-icy-worlds-preview-p9lkf8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [| VOCES: Latino Vote 2024](https://video.nhpbs.org/video/voces-latino-vote-2024-ikuxpx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Solar System: Strange Worlds** | NOVA](https://video.nhpbs.org/video/solar-system-strange-worlds-pmb9ko?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview of San Diego: America's Wildest City** | Nature](https://video.nhpbs.org/video/about-san-diego-americas-wildest-city?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Backstage with Michael Maliakel** | Christmas With The Tabernacle Choir](https://video.nhpbs.org/video/backstage-with-michael-maliakel-xnmad6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Season 8 Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-season-8-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
