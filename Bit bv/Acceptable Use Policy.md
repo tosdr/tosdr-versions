@@ -160,7 +160,9 @@ BIT behoudt zich het recht voor aan de hand van maatschappelijke en technische o
 
 #### [Incidenten](https://www.bit.nl/incidenten)
 
-\-
+[09-10-24 Verstoring hypervisor](https://www.bit.nl/news/3606/92/Verstoring-hypervisor)
+
+[](https://www.bit.nl/incidenten)
 
 BIT  
 Galileïlaan 19  
