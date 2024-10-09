@@ -252,17 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Retiring former PM Kan calls for another change of government in Japan](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/naoto-kan-retire/ "Retiring former PM Kan calls for another change of government in Japan")
+[China claims Taiwan's Lai is escalating tensions ahead of speech in Taipei](https://www.japantimes.co.jp/news/2024/10/09/asia-pacific/politics/taiwan-president-china-key-speech/ "China claims Taiwan's Lai is escalating tensions ahead of speech in Taipei")
 
-10 hours ago
+2 mins ago
 
-[Ex-boxer Iwao Hakamata finally exonerated over 1966 murder case](https://www.japantimes.co.jp/news/2024/10/08/japan/crime-legal/hakamata-exonerated/ "Ex-boxer Iwao Hakamata finally exonerated over 1966 murder case")
+[Couche-Tard reportedly sent higher price of $47 billion for Seven & I](https://www.japantimes.co.jp/business/2024/10/09/companies/couche-tard-seven-i-new-proposals/ "Couche-Tard reportedly sent higher price of $47 billion for Seven & I")
 
-[Pair win physics Nobel for machine learning breakthroughs](https://www.japantimes.co.jp/news/2024/10/08/world/science-health/2024-physics-nobel-prize/ "Pair win physics Nobel for machine learning breakthroughs")
+6 mins ago
 
-[Sapporo school boy sexually assaulted by junior high student: panel report](https://www.japantimes.co.jp/news/2024/10/08/japan/crime-legal/sexual-assault-sapporo/ "Sapporo school boy sexually assaulted by junior high student: panel report")
+[Election officials backing Trump’s 'Big Lie' stir unease in U.S.](https://www.japantimes.co.jp/news/2024/10/09/world/politics/election-officials-trump-swing-states/ "Election officials backing Trump’s 'Big Lie' stir unease in U.S.")
 
-[MSDF overpaid ¥81 million for submarine battery charging, sources say](https://www.japantimes.co.jp/news/2024/10/08/japan/msdf-overpayment/ "MSDF overpaid ¥81 million for submarine battery charging, sources say")
+33 mins ago
+
+[After Helene devastation, over 1 million people flee path of Hurricane Milton](https://www.japantimes.co.jp/news/2024/10/09/world/flee-hurricane-milton-traffic-fuel/ "After Helene devastation, over 1 million people flee path of Hurricane Milton")
+
+58 mins ago
+
+[Russia's GRU seeking to cause 'mayhem' in Britain, Europe: U.K. spy chief](https://www.japantimes.co.jp/news/2024/10/09/world/politics/russia-gru-europe-uk-spy-chief/ "Russia's GRU seeking to cause 'mayhem' in Britain, Europe: U.K. spy chief")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
