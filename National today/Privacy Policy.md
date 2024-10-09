@@ -216,8 +216,8 @@ Pin
 
 105 Shares
 
-* 6,174 Days celebrated
-* 18,522 Ways to celebrate
+* 6,173 Days celebrated
+* 18,519 Ways to celebrate
 * 1,000,000+ Happy users
 
 ### About us
