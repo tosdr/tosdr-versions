@@ -283,3 +283,5 @@ Turn your device for a better experience.
 ![](https://hh2.hh-content.com/pictures/design/mob_rotation.gif)
 
 ![](https://hh2.hh-content.com/ic_loading_carrot.svg)
+
+![](/images/clubs/ic_xCross.png)
