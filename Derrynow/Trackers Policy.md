@@ -259,26 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![Dublin-bound Aer Lingus flight makes dramatic emergency landing after engine failure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dublin-bound Aer Lingus flight makes dramatic emergency landing after engine failure")](https://www.derrynow.com/news/national-news/1624622/dublin-bound-aer-lingus-flight-makes-dramatic-emergency-landing-after-engine-failure.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Dublin-bound Aer Lingus flight makes dramatic emergency landing after engine failure](https://www.derrynow.com/news/national-news/1624622/dublin-bound-aer-lingus-flight-makes-dramatic-emergency-landing-after-engine-failure.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![County Derry man founded in bed with woman remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man founded in bed with woman remanded")](https://www.derrynow.com/news/local-news/1624685/county-derry-man-found-in-bed-with-woman-remanded.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [County Derry man found in bed with woman remanded](https://www.derrynow.com/news/local-news/1624685/county-derry-man-found-in-bed-with-woman-remanded.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About @ Buzz Bar (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Buzz Bar (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1623666/throwback-tuesday-out-and-about-buzz-bar-2014.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ Buzz Bar (2014)](https://www.derrynow.com/story-telling/pictures---videos/1623666/throwback-tuesday-out-and-about-buzz-bar-2014.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PSNI issue fresh appeal as 'brutal and callous' murder of Burt man condemned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI issue fresh appeal as 'brutal and callous' murder of Burt man condemned")](https://www.derrynow.com/news/local-news/1624916/psni-issue-fresh-appeal-as-brutal-and-callous-murder-of-burt-man-condemned.html)
 
@@ -288,20 +274,6 @@ PSNI officers at the scene where Kyle McDermott (inset, bottom) was murdered and
 
 [Man (24) charged with manslaughter of Kyle McDermott](https://www.derrynow.com/news/local-news/1624916/psni-issue-fresh-appeal-as-brutal-and-callous-murder-of-burt-man-condemned.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man who threatened to burn mother and sister's home and cut their throats jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who threatened to burn mother and sister's home and cut their throats jailed")](https://www.derrynow.com/news/local-news/1624624/derry-man-who-threatened-to-burn-mother-and-sister-s-home-and-cut-their-throats-jailed.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man who threatened to burn mother and sister's home and cut their throats jailed](https://www.derrynow.com/news/local-news/1624624/derry-man-who-threatened-to-burn-mother-and-sister-s-home-and-cut-their-throats-jailed.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![March and rally held in Derry to mark first anniversary of Gaza conflict](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "March and rally held in Derry to mark first anniversary of Gaza conflict")](https://www.derrynow.com/news/pictures---videos/1624606/in-pictures-hundreds-march-through-derry-to-mark-first-anniversary-of-gaza-conflict.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[March and rally held in Derry to mark first anniversary of Gaza conflict](https://www.derrynow.com/news/pictures---videos/1624606/in-pictures-hundreds-march-through-derry-to-mark-first-anniversary-of-gaza-conflict.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![270 new jobs announced for Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "270 new jobs announced for Derry")](https://www.derrynow.com/news/local-news/1624923/270-civil-service-jobs-announced-for-derry.html)
 
@@ -319,29 +291,71 @@ Lisahally Service Centre
 [Over 100 patients waiting for treatment at Derry's Altnagelvin Hospital](https://www.derrynow.com/news/local-news/1624942/over-100-patients-waiting-for-treatment-at-derry-s-altnagelvin-hospital.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry man charged with breaching his bail conditions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man charged with breaching his bail conditions")](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1624797/derry-death-notices-wednesday-october-9-2024.html)
 
-Derry Magistrate's Court
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Death Notices - Wednesday, October 9 2024](https://www.derrynow.com/news/deaths/1624797/derry-death-notices-wednesday-october-9-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
-[County Derry man charged with breaching his bail conditions](https://www.derrynow.com/news/local-news/1624554/county-derry-man-charged-with-breaching-his-bail-conditions.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Call for swift resolution to delays at new housing development on Derry's Buncrana Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Call for swift resolution to delays at new housing development on Derry's Buncrana Road")](https://www.derrynow.com/news/local-news/1624635/call-for-swift-resolution-to-delays-at-new-housing-development-on-derry-s-buncrana-road.html)
-
-Templemore Crescent and Faustina Terrace
+[![Three people sentenced for 'senseless violent assault' at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three people sentenced for 'senseless violent assault' at Derry Crown Court")](https://www.derrynow.com/news/local-news/1625653/three-people-sentenced-for-senseless-violent-assault-atderry-crown-court.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Call for swift resolution to delays at new housing development on Derry's Buncrana Road](https://www.derrynow.com/news/local-news/1624635/call-for-swift-resolution-to-delays-at-new-housing-development-on-derry-s-buncrana-road.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Three people sentenced for 'senseless violent assault' at Derry Crown Court](https://www.derrynow.com/news/local-news/1625653/three-people-sentenced-for-senseless-violent-assault-atderry-crown-court.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry bookshop longlisted for the ‘An Post Bookshop of the Year’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry bookshop longlisted for the ‘An Post Bookshop of the Year’")](https://www.derrynow.com/news/local-news/1624802/derry-bookshop-longlisted-for-the-an-post-bookshop-of-the-year.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry bookshop longlisted for the ‘An Post Bookshop of the Year’](https://www.derrynow.com/news/local-news/1624802/derry-bookshop-longlisted-for-the-an-post-bookshop-of-the-year.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Murder investigation launched after fourth woman murdered in Northern Ireland in past 6 weeks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Murder investigation launched after fourth woman murdered in Northern Ireland in past 6 weeks")](https://www.derrynow.com/news/national-news/1624839/murder-investigation-launched-after-fourth-woman-murdered-in-northern-ireland-in-past-6-weeks.html)
+
+22-year-old Mary Ward was found dead by police at her home in Belfast on Tuesday 1 October.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Murder investigation launched after fourth woman murdered in Northern Ireland in past 6 weeks](https://www.derrynow.com/news/national-news/1624839/murder-investigation-launched-after-fourth-woman-murdered-in-northern-ireland-in-past-6-weeks.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry woman charged with assault and breaching bail conditions has bail revoked](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with assault and breaching bail conditions has bail revoked")](https://www.derrynow.com/news/local-news/1625660/derry-woman-charged-with-assault-and-breaching-bail-conditions-has-bail-revoked.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry woman charged with assault and breaching bail conditions has bail revoked](https://www.derrynow.com/news/local-news/1625660/derry-woman-charged-with-assault-and-breaching-bail-conditions-has-bail-revoked.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![£20,000 seized by PSNI following drugs searches in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£20,000 seized by PSNI following drugs searches in Derry")](https://www.derrynow.com/news/local-news/1625785/20-000-seized-by-psni-following-drugs-searches-in-derry.html)
+
+The cash seized by police
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[£20,000 seized by PSNI following drugs searches in Derry](https://www.derrynow.com/news/local-news/1625785/20-000-seized-by-psni-following-drugs-searches-in-derry.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Derry show jumper Daniel Coyle honoured for his Achievements in the Paris Olympics 2024](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry show jumper Daniel Coyle honoured for his Achievements in the Paris Olympics 2024")](https://www.derrynow.com/story-telling/pictures---videos/1625852/in-pictures-derry-show-jumper-daniel-coyle-honoured-for-his-achievements-in-the-paris-olympics-2024.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry show jumper Daniel Coyle honoured for his Achievements in the Paris Olympics 2024](https://www.derrynow.com/story-telling/pictures---videos/1625852/in-pictures-derry-show-jumper-daniel-coyle-honoured-for-his-achievements-in-the-paris-olympics-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Proud faces all-around at St Conor's prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Proud faces all-around at St Conor's prizegiving")](https://www.derrynow.com/news/pictures---videos/1625475/pictures-proud-faces-all-around-at-st-conor-s-prizegiving.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Proud faces all-around at St Conor's prizegiving](https://www.derrynow.com/news/pictures---videos/1625475/pictures-proud-faces-all-around-at-st-conor-s-prizegiving.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Civic reception for long serving local Paramedic John McMenamin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Civic reception for long serving local Paramedic John McMenamin")](https://www.derrynow.com/news/pictures---videos/1624777/in-pictures-civic-reception-for-long-serving-local-paramedic-john-mcmenamin.html)
 
@@ -398,22 +412,6 @@ Multimedia
 
 [PICTURES: All smiles as St. Joseph's Boys School celebrate annual Formal](https://www.derrynow.com/news/pictures---videos/1623812/pictures-all-smiles-as-st-joseph-s-boys-school-celebrate-annual-formal.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner")](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry Chamber of Commerce’s 66th President’s Annual Dinner](https://www.derrynow.com/story-telling/pictures---videos/1623665/in-pictures-derry-chamber-of-commerces-66thpresidents-annual-dinner.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
-
-Derry City fans celebrate at Dalymount Park. Pics by Stephen McCarthy/ Sportsfile
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[IN PICTURES: Derry City celebrations at Dalymount Park](https://www.derrynow.com/news/derry-sport/1622985/in-pictures-derry-city-celebrations-at-dalymount-park.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,51 +513,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1624797/derry-death-notices-wednesday-october-9-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, October 9 2024](https://www.derrynow.com/news/deaths/1624797/derry-death-notices-wednesday-october-9-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Conor Murphy accepts chief constable correction over McMonagle comments](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Conor Murphy accepts chief constable correction over McMonagle comments")](https://www.derrynow.com/news/local-news/1625051/conor-murphy-accepts-chief-constable-correction-over-mcmonagle-comments.html)
+[![Man facing number of drugs charges returned for trial to Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man facing number of drugs charges returned for trial to Derry Crown Court")](https://www.derrynow.com/news/local-news/1625665/man-facing-number-of-drugs-charges-returned-for-trial-to-derry-crown-court.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Conor Murphy accepts chief constable correction over McMonagle comments](https://www.derrynow.com/news/local-news/1625051/conor-murphy-accepts-chief-constable-correction-over-mcmonagle-comments.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man facing number of drugs charges returned for trial to Derry Crown Court](https://www.derrynow.com/news/local-news/1625665/man-facing-number-of-drugs-charges-returned-for-trial-to-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry bookshop longlisted for the ‘An Post Bookshop of the Year’](https://www.derrynow.com/resizer/165/93/true/2024_10_08/pexels-caio-46274-1728393811980.jpg--.jpg?1728393821242 "Derry bookshop longlisted for the ‘An Post Bookshop of the Year’")](https://www.derrynow.com/news/local-news/1624802/derry-bookshop-longlisted-for-the-an-post-bookshop-of-the-year.html)
+[![Ajay Mulhern](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ajay Mulhern")](https://www.derrynow.com/news/derry-sport/1625661/derry-teenager-wins-bronze-medal-at-sub-junior-and-junior-powerlifting-european-championships.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Ajay Mulhern
 
-[Derry bookshop longlisted for the ‘An Post Bookshop of the Year’](https://www.derrynow.com/news/local-news/1624802/derry-bookshop-longlisted-for-the-an-post-bookshop-of-the-year.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[![PSNI issue fresh appeal as 'brutal and callous' murder of Burt man condemned](https://www.derrynow.com/resizer/165/93/true/2024_10_08/Donegal_Live_image-13-1728397314536.png--.png?1728397314597 "PSNI issue fresh appeal as 'brutal and callous' murder of Burt man condemned")](https://www.derrynow.com/news/local-news/1624916/psni-issue-fresh-appeal-as-brutal-and-callous-murder-of-burt-man-condemned.html)
+[Derry teenager wins bronze medal at sub-junior and junior powerlifting European Championships](https://www.derrynow.com/news/derry-sport/1625661/derry-teenager-wins-bronze-medal-at-sub-junior-and-junior-powerlifting-european-championships.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-PSNI officers at the scene where Kyle McDermott (inset, bottom) was murdered and (inset, top) Councillor Jack Murray
+[![£20,000 seized by PSNI following drugs searches in Derry](https://www.derrynow.com/resizer/165/93/true/2024_10_09/Cash_seized_%281%29-1728476408058.png--.png?1728476408196 "£20,000 seized by PSNI following drugs searches in Derry")](https://www.derrynow.com/news/local-news/1625785/20-000-seized-by-psni-following-drugs-searches-in-derry.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man (24) charged with manslaughter of Kyle McDermott](https://www.derrynow.com/news/local-news/1624916/psni-issue-fresh-appeal-as-brutal-and-callous-murder-of-burt-man-condemned.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![270 new jobs announced for Derry](https://www.derrynow.com/resizer/165/93/true/2024_10_08/Lisahally_Service_Centre-1728398625974.JPG--.JPG?1728398625997 "270 new jobs announced for Derry")](https://www.derrynow.com/news/local-news/1624923/270-civil-service-jobs-announced-for-derry.html)
-
-Lisahally Service Centre
+The cash seized by police
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[270 new jobs announced for Derry](https://www.derrynow.com/news/local-news/1624923/270-civil-service-jobs-announced-for-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------
+[£20,000 seized by PSNI following drugs searches in Derry](https://www.derrynow.com/news/local-news/1625785/20-000-seized-by-psni-following-drugs-searches-in-derry.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![McDonald: Providing references for shamed McMonagle was ‘unforgivable’](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_08/1728389110513_0.jpg--.jpg?1728389110764 "McDonald: Providing references for shamed McMonagle was ‘unforgivable’")](https://www.derrynow.com/news/local-news/1624729/mcdonald-providing-references-for-shamed-mcmonagle-was-unforgivable.html)
+[![Derry woman charged with assault and breaching bail conditions has bail revoked](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry woman charged with assault and breaching bail conditions has bail revoked")](https://www.derrynow.com/news/local-news/1625660/derry-woman-charged-with-assault-and-breaching-bail-conditions-has-bail-revoked.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[McDonald: Providing references for shamed McMonagle was ‘unforgivable’](https://www.derrynow.com/news/local-news/1624729/mcdonald-providing-references-for-shamed-mcmonagle-was-unforgivable.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman charged with assault and breaching bail conditions has bail revoked](https://www.derrynow.com/news/local-news/1625660/derry-woman-charged-with-assault-and-breaching-bail-conditions-has-bail-revoked.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Tesco Fruit & Veg for Schools](https://www.derrynow.com/resizer/165/93/true/2024_10_09/Tesco_FVFS-1728468615180.jpg--.jpg?1728468616966 "Tesco Fruit & Veg for Schools")](https://www.derrynow.com/news/county-derry-post/1625596/six-schools-in-county-derry-to-receive-fruit-and-veg-from-tesco.html)
+
+Tesco Fruit & Veg for Schools
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Six schools in County Derry to receive fruit and veg from Tesco](https://www.derrynow.com/news/county-derry-post/1625596/six-schools-in-county-derry-to-receive-fruit-and-veg-from-tesco.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Three people sentenced for 'senseless violent assault' at Derry Crown Court](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Three people sentenced for 'senseless violent assault' at Derry Crown Court")](https://www.derrynow.com/news/local-news/1625653/three-people-sentenced-for-senseless-violent-assault-atderry-crown-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Three people sentenced for 'senseless violent assault' at Derry Crown Court](https://www.derrynow.com/news/local-news/1625653/three-people-sentenced-for-senseless-violent-assault-atderry-crown-court.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
