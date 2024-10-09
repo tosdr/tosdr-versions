@@ -1,6 +1,6 @@
 5.38.17
 
-1728441661921
+1728462831647
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.1
 
-1728441360461
+1728462855462
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1728441075839
+1728462871079
 
 You need to enable JavaScript to run this app.
 
@@ -608,51 +608,54 @@ Offer available while stocks last.
 
 ### £5 off when you shop our app
 
-1. Upon purchasing through the app you will receive £5 off your first order of £30 or more.
-2. Valid on order after other discounts have been applied.
-3. You must be logged into your customer account and shopping in the app to redeem the offer. The offer can only be used by the account holder.
-4. The offer can only be used once per customer and will be valid until used.
-5. The offer is for app purchases only.
-6. The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
-7. Promotional discount applied will be apportioned across all qualifying items.
-8. If you have more than one unused promotion against your account please note only the one with the best cash saving will apply to your order. Your remaining discount will be applied to subsequent orders.
-9. The offer cannot be exchanged for cash and no refund or change will be given.
-10. Usual delivery times, methods and charges and returns policy apply.
-11. The promoter reserves the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
-12. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
-13. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
+1. Offer available to selected customers, criteria predefined by Next Retail Limited
+2. The offer is available from 00:01 on 11/10/2024 and is valid until used.
+3. The offer will only be valid on orders over £30 after other discounts have been applied.
+4. You must be logged into your customer account and shopping in the app to redeem the offer. The offer can only be used by the account holder.
+5. The offer can only be used once per customer and will be valid until used.
+6. The offer is for app purchases only.
+7. The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
+8. Promotional discount applied will be apportioned across all qualifying items.
+9. If you have more than one unused promotion against your account please note only the one with the best cash saving will apply to your order. Your remaining discount will be applied to subsequent orders.
+10. The offer cannot be exchanged for cash and no refund or change will be given.
+11. Usual delivery times, methods and charges and returns policy apply.
+12. The promoter reserves the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
+13. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
+14. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
 
 ### £10 off when you shop our app
 
-1. Upon purchasing through the app you will receive £10 off your first order of £50 or more.
-2. Valid on order after other discounts have been applied.
-3. You must be logged into your customer account and shopping in the app to redeem the offer. The offer can only be used by the account holder.
-4. The offer can only be used once per customer and will be valid until used.
-5. The offer is for app purchases only.
-6. The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
-7. Promotional discount applied will be apportioned across all qualifying items.
-8. If you have more than one unused promotion against your account please note only the one with the best cash saving will apply to your order. Your remaining discount will be applied to subsequent orders.
-9. The offer cannot be exchanged for cash and no refund or change will be given.
-10. Usual delivery times, methods and charges and returns policy apply.
-11. The promoter reserves the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
-12. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
-13. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
+1. Offer available to selected customers, criteria predefined by Next Retail Limited
+2. The offer is available from 00:01 on 11/10/2024 and is valid until used.
+3. The offer will only be valid on orders over £50 after other discounts have been applied.
+4. You must be logged into your customer account and shopping in the app to redeem the offer. The offer can only be used by the account holder.
+5. The offer can only be used once per customer and will be valid until used.
+6. The offer is for app purchases only.
+7. The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
+8. Promotional discount applied will be apportioned across all qualifying items.
+9. If you have more than one unused promotion against your account please note only the one with the best cash saving will apply to your order. Your remaining discount will be applied to subsequent orders.
+10. The offer cannot be exchanged for cash and no refund or change will be given.
+11. Usual delivery times, methods and charges and returns policy apply.
+12. The promoter reserves the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
+13. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
+14. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
 
 ### £10 off your first 3 app orders
 
-1. Upon purchasing through the app you will receive £10 off each of your first 3 orders of £50 or more.
-2. Valid on order after other discounts have been applied.
-3. You must be logged into your customer account and shopping in the app to redeem the offer. The offer can only be used by the account holder.
-4. The offer can only be used once per customer and will be valid until used.
-5. The offer is for app purchases only.
-6. The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
-7. Promotional discount applied will be apportioned across all qualifying items.
-8. If you have more than one unused promotion against your account please note only the one with the best cash saving will apply to your order. Your remaining discount will be applied to subsequent orders.
-9. The offer cannot be exchanged for cash and no refund or change will be given.
-10. Usual delivery times, methods and charges and returns policy apply.
-11. The promoter reserves the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
-12. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
-13. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
+1. Offer available to selected customers, criteria predefined by Next Retail Limited
+2. The offer is available from 00:01 on 11/10/2024 and is valid until used.
+3. The offer will only be valid on orders over £50 after other discounts have been applied.
+4. You must be logged into your customer account and shopping in the app to redeem the offer. The offer can only be used by the account holder.
+5. The offer can only be used once per customer and will be valid until used.
+6. The offer is for app purchases only.
+7. The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
+8. Promotional discount applied will be apportioned across all qualifying items.
+9. If you have more than one unused promotion against your account please note only the one with the best cash saving will apply to your order. Your remaining discount will be applied to subsequent orders.
+10. The offer cannot be exchanged for cash and no refund or change will be given.
+11. Usual delivery times, methods and charges and returns policy apply.
+12. The promoter reserves the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
+13. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
+14. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
 
 ### Dermalogica Promotion
 
@@ -2613,7 +2616,7 @@ You need to enable JavaScript to run this app.
 
 3.15.1
 
-1728442287473
+1728462794895
 
 ### Our Social Networks
 
