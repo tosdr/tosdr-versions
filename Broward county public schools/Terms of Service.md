@@ -14,6 +14,7 @@ Select a School
 * [Atlantic Technical College](https://www.browardschools.com/Domain/218)
 * [Atlantic West Elementary](https://www.browardschools.com/Domain/14)
 * [Attucks Middle](https://www.browardschools.com/Domain/164)
+* [BCPS Website Resources and Support](https://www.browardschools.com/Domain/239)
 * [Bair Middle](https://www.browardschools.com/Domain/15)
 * [Banyan Elementary](https://www.browardschools.com/Domain/16)
 * [Bayview Elementary](https://www.browardschools.com/Domain/57)
