@@ -71,7 +71,7 @@ We reserve the right to refuse, suspend, or revoke promotional offers at anytime
 
 **Archive Sale:** This is a collection of limited-edition designs down to the final few. These products will not be reproduced and the full inventory offered is available online. Receive up to 50% off these designs until inventory is sold out. These products are not eligible for additional discounts with the exception of the Trade discount. Please refer to individual product details for returns and exchange information. Select styles are final sale. 
 
-**The Labor Day Event:** For a limited time receive 20% off sitewide. The event runs from 8/21/2024 - 9/8/2024 at midnight EST. These products are not eligible for additional discounts. Please refer to individual product details for returns and exchange information. Some exclusions apply. Select styles are final sale. 
+**The Anniversary Sale:** For a limited time receive up to 20% off sitewide. The event runs from 10/9/2024 - 10/21/2024 at midnight EST. These products are not eligible for additional discounts. Please refer to individual product details for returns and exchange information. Some exclusions apply. Select styles are final sale. 
 
 ### SHIPPING & RETURNS
 
