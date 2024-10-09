@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Boy With The Incredible Brain](/wp-content/thumbnails/170-100x70.jpg?x53432)
+* [![The Wonderland Murders](/wp-content/thumbnails/8429-100x70.jpg?x53432)
     
-    The Boy With The Incredible Brain
+    The Wonderland Murders
     
-    Daniel Tammet is a twenty-something with extraordinary mental abilities, Daniel is one of the world’s few savants. He can do calculations to 100 decimal places in his head, and learn a language in a w](https://documentaryheaven.com/the-boy-with-the-incredible-brain/ "The Boy With The Incredible Brain")
-* [![Darwin’s Nightmare](/wp-content/thumbnails/819-100x70.png?x53432)
+    In the late 1970's hardcore porno star John Curtis Holmes was an icon of hollywood success, movies, money, sex and drugs. His cult statues was assured up until his involvement in one of the most horri](https://documentaryheaven.com/wonderland-murders/ "The Wonderland Murders")
+* [![Bullet Proof](/wp-content/thumbnails/6861-100x70.png?x53432)
     
-    Darwin’s Nightmare
+    Bullet Proof
     
-    A harrowing, hard-hitting documentary which shows the devastating effects of the “globalized” economy on the residents of a fishing village in Tanzania. The story starts four decades ago when a specie](https://documentaryheaven.com/darwin%e2%80%99s-nightmare/ "Darwin’s Nightmare")
-* [![Extreme Russia: Gay & Under Attack](/wp-content/thumbnails/16656-100x70.jpg?x53432)
+    How do you stop a speeding bullet? From body armor to armored cars and trucks, we review the history of the race between the bullet and a successful way to stop it. It’s not exactly easy to design mat](https://documentaryheaven.com/bullet-proof/ "Bullet Proof")
+* [![The Privileged Planet](/wp-content/thumbnails/2607-100x70.jpg?x53432)
     
-    Extreme Russia: Gay & Under Attack
+    The Privileged Planet
     
-    Russia is the largest country on Earth and home to nearly 150 million people, now with Vladimir Putin well into his third term as president it's starting to feel like the cold war era all over again.](https://documentaryheaven.com/extreme-russia-gay-under-attack/ "Extreme Russia: Gay & Under Attack")
-* [![The Secret](/wp-content/thumbnails/1598-100x70.jpg?x53432)
+    Although this documentary is promoting “intelligent design” view I decided to post it. For centuries scientists and philosophers have marveled at an eerie coincidence. Mathematics, a creation of human](https://documentaryheaven.com/the-privileged-planet/ "The Privileged Planet")
+* [![WWII in HD EP8/10](/wp-content/thumbnails/4675-100x70.jpg?x53432)
     
-    The Secret
+    WWII in HD EP8/10
     
-    The self-actualization phenomenon known as The Secret pivots on the time-honored new age notion of the Laws of Attraction: That is, think positively, and positive things will come to you. This film, o](https://documentaryheaven.com/the-secret/ "The Secret")
-* [![Cycling’s Greatest Fraud](/wp-content/thumbnails/8023-100x70.jpg?x53432)
+    Episode 8: Glory and Guts The Marine assault on Iwo Jima brings horror and glory. Pilot Bert Stiles engages a German fighter with disastrous consequences. Reinforcements arrive in Europe to push the A](https://documentaryheaven.com/wwii-in-hd-ep8/ "WWII in HD EP8/10")
+* [![Alexander The Great](/wp-content/thumbnails/14140-100x70.jpg?x53432)
     
-    Cycling’s Greatest Fraud
+    Alexander The Great
     
-    This one-hour special dissects the story of the science and scheming behind what's been called "the most sophisticated and successful doping scheme in all of sports".Piece together eyewitness testim](https://documentaryheaven.com/cyclings-greatest-fraud/ "Cycling’s Greatest Fraud")
+    Alexander The Great the shining light of Ancient Greece, the prince from remote Macedonia would become the greatest conquer of all time. No one would have thought that someone would have tried to conq](https://documentaryheaven.com/alexander-the-great/ "Alexander The Great")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
