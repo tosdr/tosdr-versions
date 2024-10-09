@@ -1,5 +1,5 @@
 ![](
-https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  100% PURE Privacy Policy                                                                                               
+https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  100% PURE Privacy Policy                                                                                                   
 
 My Tote
 -------
