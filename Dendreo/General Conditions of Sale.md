@@ -38,7 +38,7 @@ Ressources
 
 [API](https://developers.dendreo.com/#introduction)
 
-[Recrutement](#)
+[Recrutement](https://www.welcometothejungle.com/fr/companies/dendreo)
 
 [À propos](https://www.dendreo.com/a-propos-de-dendreo)
 
