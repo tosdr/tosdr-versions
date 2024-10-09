@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d29f3904-a139-474f-9d93-73ef097dae84/20241009T133134/d29f3904-a139-474f-9d93-73ef097dae84_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d29f3904-a139-474f-9d93-73ef097dae84/20241009T133134/d29f3904-a139-474f-9d93-73ef097dae84_360x203.jpg)](https://www.king5.com/article/news/local/turkish-airlines-flight-seattle-emergency-landing-pilot-dies/281-cdb4a766-736f-4caf-9f81-7e0b034852f1)
+    *  [![](https://media.king5.com/assets/KING/images/c03c0725-d33e-4290-bd1a-7ac126939687/20241009T195101/c03c0725-d33e-4290-bd1a-7ac126939687_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c03c0725-d33e-4290-bd1a-7ac126939687/20241009T195101/c03c0725-d33e-4290-bd1a-7ac126939687_360x203.jpg)](https://www.king5.com/article/news/crime/suspects-used-van-attempt-rip-open-atm-in-magnolia/281-a381bb5d-0a19-4c67-8280-2532a1527c4b)
         
-        #### [Flight from Seattle-Istanbul emergency lands after pilot dies](https://www.king5.com/article/news/local/turkish-airlines-flight-seattle-emergency-landing-pilot-dies/281-cdb4a766-736f-4caf-9f81-7e0b034852f1)
+        #### [Suspects used van in attempt to rip open ATM in Magnolia](https://www.king5.com/article/news/crime/suspects-used-van-attempt-rip-open-atm-in-magnolia/281-a381bb5d-0a19-4c67-8280-2532a1527c4b)
         
-    *  [![](https://media.king5.com/assets/KING/images/7edf50f6-fb84-4432-a1c4-a3a396aeaa6f/20241009T060041/7edf50f6-fb84-4432-a1c4-a3a396aeaa6f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7edf50f6-fb84-4432-a1c4-a3a396aeaa6f/20241009T060041/7edf50f6-fb84-4432-a1c4-a3a396aeaa6f_360x203.jpg)](https://www.king5.com/article/news/local/rescue-efforts-underway-100-cats-abandoned-federal-way-apartment/281-5f950c5e-ef43-43b8-897d-8fe97d7e514a)
+    *  [![](https://media.king5.com/assets/KING/images/f0a54c4d-6aad-4ece-960d-f27abee2e7ac/20240512T000643/f0a54c4d-6aad-4ece-960d-f27abee2e7ac_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f0a54c4d-6aad-4ece-960d-f27abee2e7ac/20240512T000643/f0a54c4d-6aad-4ece-960d-f27abee2e7ac_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-forecast-washington-state/281-c8af2b7e-9fc8-43a4-8bc3-d8158a26ec5f)
         
-        #### [Rescue efforts underway for more than 100 cats abandoned in 'biohazardous apartment' in Federal Way](https://www.king5.com/article/news/local/rescue-efforts-underway-100-cats-abandoned-federal-way-apartment/281-5f950c5e-ef43-43b8-897d-8fe97d7e514a)
+        #### [Best opportunity for northern lights viewing since May arrives Thursday](https://www.king5.com/article/weather/weather-blog/northern-lights-forecast-washington-state/281-c8af2b7e-9fc8-43a4-8bc3-d8158a26ec5f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/f0a54c4d-6aad-4ece-960d-f27abee2e7ac/20240512T000643/f0a54c4d-6aad-4ece-960d-f27abee2e7ac_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f0a54c4d-6aad-4ece-960d-f27abee2e7ac/20240512T000643/f0a54c4d-6aad-4ece-960d-f27abee2e7ac_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-forecast-washington-state/281-c8af2b7e-9fc8-43a4-8bc3-d8158a26ec5f)
+        
+        #### [Best opportunity for northern lights viewing since May arrives Thursday](https://www.king5.com/article/weather/weather-blog/northern-lights-forecast-washington-state/281-c8af2b7e-9fc8-43a4-8bc3-d8158a26ec5f)
+        
     *  [![](https://media.king5.com/assets/KING/images/bca59a78-24a8-4e71-9ea2-24c5d460f1df/20241009T114808/bca59a78-24a8-4e71-9ea2-24c5d460f1df_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bca59a78-24a8-4e71-9ea2-24c5d460f1df/20241009T114808/bca59a78-24a8-4e71-9ea2-24c5d460f1df_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/CCT/images/a9563268-4c0d-46e5-b1bb-c1ecee7d9bbf/20241009T111101/a9563268-4c0d-46e5-b1bb-c1ecee7d9bbf_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/a9563268-4c0d-46e5-b1bb-c1ecee7d9bbf/20241009T111101/a9563268-4c0d-46e5-b1bb-c1ecee7d9bbf_360x203.jpg)](https://www.king5.com/article/news/nation-world/hurricane-milton-florida/507-5693e7fd-50a9-4593-9ca3-d9a3e1be7848)
-        
-        #### [Time to evacuate is running out as Hurricane Milton closes in on Florida](https://www.king5.com/article/news/nation-world/hurricane-milton-florida/507-5693e7fd-50a9-4593-9ca3-d9a3e1be7848)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+61°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
