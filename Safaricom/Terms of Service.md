@@ -162,10 +162,11 @@ DEPOSITS
 
 CANCELLATION TERMS
 
-1. The cancellation policy varies depending on the supplier with whom you have booked. For further details, please clarify with your travel advisor.**‍**
-2. _All cancellations must be sent to Safari.com via email. If the cancellation notice is received outside of South African (SAST) business hours it will be deemed to be received in the first business hour following receipt of the notification._
-3. Safari.com will make every effort to avoid misquotation, however if we have made an obvious error or omission which leads to a material cost implication we reserve the right to cancel a reservation without liability or penalty, or to allow you to make a top up payment to accommodate for such error or omission.
-4. Safari.com reserves the right to levy a 5% admin charge on credit card and bank transfer refunds due to cancellations.
+1. Please view our Cancellation Policy [HERE.](https://www.safari.com/faq)‍
+2. Please note that at certain times of the year and for certain of our suppliers, cancellation policies may be more stringent than our above policy and therefore the Company holds the right to forward such additional charges onto the client should such and instance occur. **‍**_‍_
+3. _All cancellations must be sent to Safari.com via email. If the cancellation notice is received outside of South African (SAST) business hours it will be deemed to be received in the first business hour following receipt of the notification._‍
+4. Safari.com will make every effort to avoid misquotation, however if we have made an obvious error or omission which leads to a material cost implication we reserve the right to cancel a reservation without liability or penalty, or to allow you to make a top up payment to accommodate for such error or omission.
+5. Safari.com reserves the right to levy a 5% admin charge on credit card and bank transfer refunds due to cancellations.
 
 ‍
 
