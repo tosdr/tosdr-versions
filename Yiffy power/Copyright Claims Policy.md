@@ -83,25 +83,25 @@ September 11, 2024
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 53 1
+0 70 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/bowser-mario-bros-and-etc-created-by-junkztown/)
+[](https://yiff-party.com/yiff/cumin-and-shale-mythology-created-by-shayda/)
 
-[bowser (mario bros and etc) created by junkztown](https://yiff-party.com/yiff/bowser-mario-bros-and-etc-created-by-junkztown/)
+[cumin and shale (mythology) created by shayda](https://yiff-party.com/yiff/cumin-and-shale-mythology-created-by-shayda/)
 
-0 113 0
+0 107 0
 
-September 9, 2024
+September 10, 2024
 
-[](https://yiff-party.com/yiff/ren-amamiya-persona-series-and-etc-created-by-tianhua/)
+[](https://yiff-party.com/yiff/rarity-friendship-is-magic-and-etc-created-by-fuwa-artist/)
 
-[ren amamiya (persona (series) and etc) created by tianhua](https://yiff-party.com/yiff/ren-amamiya-persona-series-and-etc-created-by-tianhua/)
+[rarity (friendship is magic and etc) created by fuwa (artist)](https://yiff-party.com/yiff/rarity-friendship-is-magic-and-etc-created-by-fuwa-artist/)
 
 0 2 0
 
-October 9, 2024
+October 10, 2024
 
 [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
