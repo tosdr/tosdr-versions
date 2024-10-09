@@ -105,6 +105,8 @@ Refine
     
 * OrbitNote Revamp
     
+* ExamWritePad
+    
 
 Table of Contents Table of Contents Toggle navigation
 
@@ -209,6 +211,8 @@ Table of Contents Table of Contents Toggle navigation
     * AutoCorrect
         
     * OrbitNote Revamp
+        
+    * ExamWritePad
         
     
 * [****CONTACT US****](https://support.texthelp.com/help/contact-feedback)
@@ -316,6 +320,8 @@ Table of Contents Table of Contents Toggle navigation
     * AutoCorrect
         
     * OrbitNote Revamp
+        
+    * ExamWritePad
         
     
 
@@ -569,22 +575,13 @@ Table of Contents Table of Contents Toggle navigation
             * [Updated Individual Student Reports view for uPAR](https://support.texthelp.com/help/updated-individual-student-reports-view-for-upar)
 * [Deprecation of Equatio Server Email](https://support.texthelp.com/help/deprecation-of-equatio-server-email)
 * [Simplify AI Disclaimer](https://support.texthelp.com/help/simplify-ai-disclaimer)
-* [AutoCorrect](javascript:void(0);)
+* [AutoCorrect](https://support.texthelp.com/help/autocorrect)
     
-    * [AutoCorrect Licensing and Activation Help](https://support.texthelp.com/help/autocorrect-licensing-and-activation)
-    * [System Requirements and Downloads](https://support.texthelp.com/help/autocorrect-system-requirements-and-downloads)
-    * [How To Use AutoCorrect](https://support.texthelp.com/help/autocorrect-how-to-use-autocorrect)
-    * [AutoCorrect Frequently Asked Questions](https://support.texthelp.com/help/autocorrect-frequently-asked-questions)
-    * [Disable Local Auto Correct](https://support.texthelp.com/help/autocorrect-disable-local-auto-correct)
-    * [AutoCorrect Mac Command Line Installation](https://support.texthelp.com/help/autocorrect-mac-command-line-installation)
-    * [AutoCorrect Command Line Install Switches](https://support.texthelp.com/help/autocorrect-command-line-install-switches)
-    * [Backing Up and Restoring AutoCorrect List and Settings](https://support.texthelp.com/help/autocorrect-backing-up-and-restoring-autocorrect-list-and-settings)
-    * [Adding Corrections and App Exclusions to AutoCorrect](https://support.texthelp.com/help/adding-corrections-and-app-exclusions-to-autocorrect)
-    * [Unable to update](https://support.texthelp.com/help/unable-to-update)
-    * [Pre-Configuring Mac for AutoCorrect Use In A Site Environment](https://support.texthelp.com/help/pre-configuring-mac-for-autocorrect-use-in-a-site-environment)
 * [OrbitNote Revamp](javascript:void(0);)
     
 * [Status page](https://support.texthelp.com/help/status-page)
+* [ExamWritePad](https://support.texthelp.com/help/examwritepad)
+    
 
 * [Home](https://support.texthelp.com/help)
 
