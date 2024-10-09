@@ -401,35 +401,43 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Hurricane update: Milton now Category 4 storm ahead of Florida landfall](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/milton.gif?ve=1&tl=1)
+ [![Dallas Spur 408 crash injures 4 people](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100924-sky-4-wed-1413-kdfweme002_14_13_40_mpg_00.13.23.56.jpg?ve=1&tl=1)
 
- ![Hurricane update: Milton now Category 4 storm ahead of Florida landfall](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/milton.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+ ![Dallas Spur 408 crash injures 4 people](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100924-sky-4-wed-1413-kdfweme002_14_13_40_mpg_00.13.23.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-spur-408-crash)
 
-### [Hurricane update: Milton remains powerful Category 4 storm ahead of Florida landfall](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+### [Dallas Spur 408 crash injures 4 people](https://www.fox4news.com/news/dallas-spur-408-crash)
 
- [![Houston crime: Deundrea Ford’s disappearance ends with body discovery in Dallas and murder charge](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/09/32/18/1576fdb9-image000000-2.jpg?ve=1&tl=1)
+ [![Trackdown: Mesquite storage unit burglary suspect captured](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/image001.png?ve=1&tl=1)
 
- ![Houston crime: Deundrea Ford’s disappearance ends with body discovery in Dallas and murder charge](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/09/32/18/592/333/1576fdb9-image000000-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/houston-crime-deundrea-fords-disappearance-ends-body-discovery-murder-charge)
+ ![Trackdown: Mesquite storage unit burglary suspect captured](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/image001.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trackdown-mesquite-storage-unit-burglary-suspect-captured)
 
-### [Houston crime: Deundrea Ford’s disappearance ends with body discovery in Dallas and murder charge](https://www.fox4news.com/news/houston-crime-deundrea-fords-disappearance-ends-body-discovery-murder-charge)
+### [Trackdown: Mesquite storage unit burglary suspect captured](https://www.fox4news.com/news/trackdown-mesquite-storage-unit-burglary-suspect-captured)
 
- [![Watch: Tropicana implosion brings down iconic Vegas hotel](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/nv_tropicana_hotel_demolished.jpg?ve=1&tl=1)
+ [![Hurricane Milton: These cruise lines are redirecting ships](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1862411044-scaled.jpg?ve=1&tl=1)
 
- ![Watch: Tropicana implosion brings down iconic Vegas hotel](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/nv_tropicana_hotel_demolished.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-tropicana-implosion-vegas-hotel-casino-october-9-2024)
+ ![Hurricane Milton: These cruise lines are redirecting ships](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1862411044-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cruise-ships-hurricane-milton)
 
-### [Watch: Tropicana implosion brings down iconic Vegas hotel](https://www.fox4news.com/news/watch-tropicana-implosion-vegas-hotel-casino-october-9-2024)
+### [These cruise lines are redirecting ships due to Hurricane Milton](https://www.fox4news.com/news/cruise-ships-hurricane-milton)
 
- [![Driver flees crash, leaving 9-year-old boy injured in backseat](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/kdfwu20_3452_mxf_02.00.19.28.jpg?ve=1&tl=1)
+ [![Which issue will most influence voters' choice in November? New poll reveals answer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1439028351.jpg?ve=1&tl=1)
 
- ![Driver flees crash, leaving 9-year-old boy injured in backseat](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/kdfwu20_3452_mxf_02.00.19.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/driver-flees-crash-leaving-9-year-old-boy-injured-backseat)
+ ![Which issue will most influence voters' choice in November? New poll reveals answer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1439028351.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-harris-economy-election)
 
-### [Driver flees crash, leaving 9-year-old boy injured in backseat](https://www.fox4news.com/news/driver-flees-crash-leaving-9-year-old-boy-injured-backseat)
+### [Which issue will most influence voters' choice in November? New poll reveals answer](https://www.fox4news.com/news/trump-harris-economy-election)
 
- [![Milton evacuations: Atlanta Motor Speedway, other Georgia locations opening to evacuees](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/09/32/18/Atlanta-Motor-Speedway-Aerials-9_27-WAGAME001_mpg_00.00.45.22.jpg?ve=1&tl=1)
+ [![Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/dog-rescued-main-image-ues.jpg?ve=1&tl=1)
 
- ![Milton evacuations: Atlanta Motor Speedway, other Georgia locations opening to evacuees](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/09/32/18/592/333/Atlanta-Motor-Speedway-Aerials-9_27-WAGAME001_mpg_00.00.45.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/milton-evacuations-atlanta-motor-speedway-opening-camping-evacuees)
+ ![Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/dog-rescued-main-image-ues.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near)
 
-### [Milton evacuations: Atlanta Motor Speedway, other Georgia locations opening to evacuees](https://www.fox4news.com/news/milton-evacuations-atlanta-motor-speedway-opening-camping-evacuees)
+### [Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near)
+
+[![Hurricane update: Milton at Category 4, tornado threats active across Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/f75dd2c5-digital_radar-milton2.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+
+WATCH LIVE COVERAGE
+
+[Hurricane Milton now Category 4 storm ahead of Florida landfall](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+
+[Hurricane Milton continued on its path to the west coast of Florida on Wednesday, likely to remain a major hurricane when it finally makes landfall.](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
 ###### [News](https://www.fox4news.com/news)
 
