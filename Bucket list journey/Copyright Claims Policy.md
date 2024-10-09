@@ -208,6 +208,32 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[If you’re heading to the #NorthernCalifornia coa ![If you’re heading to the #NorthernCalifornia coastal town of Bodega Bay, then you’re probably gonna want to eat some seafood (as well as you should!) 🦀
+⚡️ SAVE FOR YOUR TRIP TO BODEGA⚡️
+Here are my top picks for fishy (in the best way) spots you won’t want to miss: 🐟🍽️
+1️⃣ @Fishetarian Fish Market - Fresh, sustainable, and delish! I’m talking shrimp tacos, fish & chips, and their famous clam chowder, all with gorgeous bay views. Perfect for when you want to keep things chill but leave oh-so-satisfied.  
+2️⃣ Spud Point Crab Company - The clam chowder here has won awards for a reason (soooo good!). Oh, and the crab sandwich? It’s LOADED with 1/4 pound of crab. 🦞 Just be prepared to wait—there’s always a line, but it’s worth it! 
+3️⃣ @rockeroysterfellerslucaswharf - Southern comfort meets seafood heaven. Their oysters Rockefeller are mainly what people come for, but their clam chowder was one of my favs! And if you’re lucky, you might just spot some seals while you dine 🦭  
+4️⃣ The Birds Cafe - Part seafood joint, part coffee shop, and part gift shop (yes, adorable). Their calamari totally won me over, and their fish & chips is an absolute must-try! Casual but perfect for a bite with a view. 🎣 
+5️⃣ Gourmet Au Bay - Seafood and wine with a view? Yes, please! Their wood-fired smoke clam pizza and crab cakes are 🔥. This place has more than seafood, but trust me, the seafood is where it’s at. 🍷 
+6️⃣ Drakes Sonoma Coast - Farm-to-table goodness with serious coastal vibes. It’s at @lodgeatbodegabay (which was just voted #1 hotel in the WORLD by @condenast!) So yeah, this place is fancy by Bodega Bay standards, but the seafood lives up to it🍴 
+7️⃣ Terrapin Creek Café - This place earned a Michelin star in 2015 and still holds a place in their guide ⭐️ Don’t miss their Mediterranean stew that has the best mix of seafood!
+Which one do you want to try? 😋 Let me know in the comments! 👇
+@visitbodegabay @sonomacounty @visitcalifornia #bodegabay #bodegabaycalifornia #california #notherncalifornia #californiacoast #visitcalifornia #travelbucketlist #bucketlist #bucketlistadventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![If you’re heading to the #NorthernCalifornia coastal town of Bodega Bay, then you’re probably gonna want to eat some seafood (as well as you should!) 🦀
+⚡️ SAVE FOR YOUR TRIP TO BODEGA⚡️
+Here are my top picks for fishy (in the best way) spots you won’t want to miss: 🐟🍽️
+1️⃣ @Fishetarian Fish Market - Fresh, sustainable, and delish! I’m talking shrimp tacos, fish & chips, and their famous clam chowder, all with gorgeous bay views. Perfect for when you want to keep things chill but leave oh-so-satisfied.  
+2️⃣ Spud Point Crab Company - The clam chowder here has won awards for a reason (soooo good!). Oh, and the crab sandwich? It’s LOADED with 1/4 pound of crab. 🦞 Just be prepared to wait—there’s always a line, but it’s worth it! 
+3️⃣ @rockeroysterfellerslucaswharf - Southern comfort meets seafood heaven. Their oysters Rockefeller are mainly what people come for, but their clam chowder was one of my favs! And if you’re lucky, you might just spot some seals while you dine 🦭  
+4️⃣ The Birds Cafe - Part seafood joint, part coffee shop, and part gift shop (yes, adorable). Their calamari totally won me over, and their fish & chips is an absolute must-try! Casual but perfect for a bite with a view. 🎣 
+5️⃣ Gourmet Au Bay - Seafood and wine with a view? Yes, please! Their wood-fired smoke clam pizza and crab cakes are 🔥. This place has more than seafood, but trust me, the seafood is where it’s at. 🍷 
+6️⃣ Drakes Sonoma Coast - Farm-to-table goodness with serious coastal vibes. It’s at @lodgeatbodegabay (which was just voted #1 hotel in the WORLD by @condenast!) So yeah, this place is fancy by Bodega Bay standards, but the seafood lives up to it🍴 
+7️⃣ Terrapin Creek Café - This place earned a Michelin star in 2015 and still holds a place in their guide ⭐️ Don’t miss their Mediterranean stew that has the best mix of seafood!
+Which one do you want to try? 😋 Let me know in the comments! 👇
+@visitbodegabay @sonomacounty @visitcalifornia #bodegabay #bodegabaycalifornia #california #notherncalifornia #californiacoast #visitcalifornia #travelbucketlist #bucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DA3ZhVAvMd2/) 
+
 [Share you BUCKET LIST WINS for the month of Septem ![Share you BUCKET LIST WINS for the month of September! What have you added to your #bucketlist, what goals have you made progress towards or checked off? Or what new thing have you tried?
 Here’s my September “bucket list wins” recap 👇
 ✧ Flew a kit at a Bodega Bay, California beach 🪁 
@@ -283,16 +309,6 @@ Here’s some of my favorite shops:
 9️⃣ Have dinner @ramengaijin— a yummy ramen shop and izakaya. The best seats are at the ramen counter! 🍜 
 1️⃣0️⃣ And no day is complete without dessert, so hit up @screaminmimisicecream for some ice cream🍦 I loved the cherry chocolate almond flavor!
 @sonomacounty @visitcalifornia #sebastopol #sebastopolcalifornia #sonomacounty #thebarlow #visitcalifornia #California #northerncalifornia #travelbucketlist #bucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAYyXDyP3js/) 
-
-[Did you know the average person has only been to 5 ![Did you know the average person has only been to 5 of these iconic places? 🌍
-Here are 30 of the most popular places to visit in the world (Eiffel Tower, Machu Picchu, Great Wall of China... you know, the big ones!)—how many have you checked off?! 
-Drop your number in the comments! 👇 I’m sitting at 17, and there’s still SO much more of this beautiful world to see. Where to next? 🌟 
-#bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories  #traveltheworld #worldtraveler #travelmore #travellover](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Did you know the average person has only been to 5 of these iconic places? 🌍
-Here are 30 of the most popular places to visit in the world (Eiffel Tower, Machu Picchu, Great Wall of China... you know, the big ones!)—how many have you checked off?! 
-Drop your number in the comments! 👇 I’m sitting at 17, and there’s still SO much more of this beautiful world to see. Where to next? 🌟 
-#bucketlisttravel #travelbucketlist #BucketListGoals #Wanderlust #bucketlist #bucketlistcheck #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters #travelmore #collectmemories  #traveltheworld #worldtraveler #travelmore #travellover](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DAQ3j4qv_9e/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
