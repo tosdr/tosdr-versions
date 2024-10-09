@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[PAK vs ENG - Lunch](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Lunch")[IND vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/100247/ind-vs-ban-2nd-t20i-bangladesh-tour-of-india-2024 "India v Bangladesh, 2nd T20I - Preview")[INDW vs SLW - Preview](https://www.cricbuzz.com/live-cricket-scores/94631/indw-vs-slw-12th-match-group-a-icc-womens-t20-world-cup-2024 "India Women v Sri Lanka Women, 12th Match, Group A - Preview")[RSAW vs SCOW - Preview](https://www.cricbuzz.com/live-cricket-scores/94622/rsaw-vs-scow-11th-match-group-b-icc-womens-t20-world-cup-2024 "South Africa Women v Scotland Women, 11th Match, Group B - Preview")[AUSW vs NZW - AUSW Won](https://www.cricbuzz.com/live-cricket-scores/94613/ausw-vs-nzw-10th-match-group-a-icc-womens-t20-world-cup-2024 "Australia Women v New Zealand Women, 10th Match, Group A - AUSW Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[IND vs BAN - Toss](https://www.cricbuzz.com/live-cricket-scores/100247/ind-vs-ban-2nd-t20i-bangladesh-tour-of-india-2024 "India v Bangladesh, 2nd T20I - Toss")[INDW vs SLW - Preview](https://www.cricbuzz.com/live-cricket-scores/94631/indw-vs-slw-12th-match-group-a-icc-womens-t20-world-cup-2024 "India Women v Sri Lanka Women, 12th Match, Group A - Preview")[RSAW vs SCOW - Complete](https://www.cricbuzz.com/live-cricket-scores/94622/rsaw-vs-scow-11th-match-group-b-icc-womens-t20-world-cup-2024 "South Africa Women v Scotland Women, 11th Match, Group B - Complete")[PAK vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-england-tour-of-pakistan-2024 "Pakistan v England, 1st Test - Stumps")[SNSS vs TYH - Complete](https://www.cricbuzz.com/live-cricket-scores/107169/snss-vs-tyh-19th-match-legends-league-cricket-2024 "Southern Super Stars v Toyam Hyderabad, 19th Match - Complete")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     Bangladesh v India 2024
     
-    [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100247/ind-vs-ban-2nd-t20i-bangladesh-v-india-2024 "India v Bangladesh, 2nd T20I - Preview")
+    [India vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/100247/ind-vs-ban-2nd-t20i-bangladesh-v-india-2024 "India v Bangladesh, 2nd T20I - Toss")
     
     2nd T20I
     
@@ -68,7 +68,7 @@ AllLive NowToday
     
 * Pakistan v England, 2024
     
-    [Pakistan vs England](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-pakistan-v-england-2024 "Pakistan v England, 1st Test - Lunch")
+    [Pakistan vs England](https://www.cricbuzz.com/live-cricket-scores/101039/pak-vs-eng-1st-test-pakistan-v-england-2024 "Pakistan v England, 1st Test - Stumps")
     
     1st Test
     
@@ -84,13 +84,13 @@ AllLive NowToday
     
 * SA Mens Championships 2024
     
-    [Mexico vs Peru](https://www.cricbuzz.com/live-cricket-scores/108537/mex-vs-per-1st-match-group-a-sa-mens-championships-2024 "Mexico v Peru, 1st Match, Group A - Upcoming")
-    
-    1st Match, Group A
-    
-* [Panama vs Uruguay](https://www.cricbuzz.com/live-cricket-scores/108545/pan-vs-urg-2nd-match-group-b-sa-mens-championships-2024 "Panama v Uruguay, 2nd Match, Group B - Upcoming")
+    [Panama vs Uruguay](https://www.cricbuzz.com/live-cricket-scores/108545/pan-vs-urg-2nd-match-group-b-sa-mens-championships-2024 "Panama v Uruguay, 2nd Match, Group B - Upcoming")
     
     2nd Match, Group B
+    
+* [Mexico vs Peru](https://www.cricbuzz.com/live-cricket-scores/108537/mex-vs-per-1st-match-group-a-sa-mens-championships-2024 "Mexico v Peru, 1st Match, Group A - Upcoming")
+    
+    1st Match, Group A
     
 * [Brazil vs Colombia](https://www.cricbuzz.com/live-cricket-scores/108555/bra-vs-clm-4th-match-group-a-sa-mens-championships-2024 "Brazil v Colombia, 4th Match, Group A - Upcoming")
     
@@ -100,37 +100,45 @@ AllLive NowToday
     
     3rd Match, Group B
     
+* [Chile vs Uruguay](https://www.cricbuzz.com/live-cricket-scores/108569/chl-vs-urg-6th-match-group-b-sa-mens-championships-2024 "Chile v Uruguay, 6th Match, Group B - Upcoming")
+    
+    6th Match, Group B
+    
+* [Brazil vs Peru](https://www.cricbuzz.com/live-cricket-scores/108563/bra-vs-per-5th-match-group-a-sa-mens-championships-2024 "Brazil v Peru, 5th Match, Group A - Upcoming")
+    
+    5th Match, Group A
+    
 * T20 LEAGUE
     
     CSA T20 Challenge
     
-    [Titans vs Boland](https://www.cricbuzz.com/live-cricket-scores/103492/tit-vs-bol-16th-match-csa-t20-challenge "Titans v Boland, 16th Match - Upcoming")
-    
-    16th Match
-    
-* [Knights vs Lions](https://www.cricbuzz.com/live-cricket-scores/103485/kng-vs-lions-15th-match-csa-t20-challenge "Knights v Lions, 15th Match - Upcoming")
+    [Knights vs Lions](https://www.cricbuzz.com/live-cricket-scores/103485/kng-vs-lions-15th-match-csa-t20-challenge "Knights v Lions, 15th Match - Preview")
     
     15th Match
     
-* [Dolphins vs North West](https://www.cricbuzz.com/live-cricket-scores/103476/dol-vs-nwest-14th-match-csa-t20-challenge "Dolphins v North West, 14th Match - Upcoming")
+* [Dolphins vs North West](https://www.cricbuzz.com/live-cricket-scores/103476/dol-vs-nwest-14th-match-csa-t20-challenge "Dolphins v North West, 14th Match - Preview")
     
     14th Match
     
-* [Western Province vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103474/wpr-vs-war-13th-match-csa-t20-challenge "Western Province v Warriors, 13th Match - Upcoming")
+* [Western Province vs Warriors](https://www.cricbuzz.com/live-cricket-scores/103474/wpr-vs-war-13th-match-csa-t20-challenge "Western Province v Warriors, 13th Match - Preview")
     
     13th Match
     
+* [Titans vs Boland](https://www.cricbuzz.com/live-cricket-scores/103492/tit-vs-bol-16th-match-csa-t20-challenge "Titans v Boland, 16th Match - Preview")
+    
+    16th Match
+    
 * CSA T20 Knock Out Competition
     
-    [Tuskers vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/105242/tusks-vs-mpr-18th-match-csa-t20-knock-out-competition "Tuskers v Mpumalanga Rhinos, 18th Match - Preview")
+    [Tuskers vs Mpumalanga Rhinos](https://www.cricbuzz.com/live-cricket-scores/105242/tusks-vs-mpr-18th-match-csa-t20-knock-out-competition "Tuskers v Mpumalanga Rhinos, 18th Match - Toss")
     
     18th Match
     
-* [Eastern Cape vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/105236/ecape-vs-estorm-17th-match-csa-t20-knock-out-competition "Eastern Cape v Eastern Storm, 17th Match - Preview")
+* [Eastern Cape vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/105236/ecape-vs-estorm-17th-match-csa-t20-knock-out-competition "Eastern Cape v Eastern Storm, 17th Match - Toss")
     
     17th Match
     
-* [South Western Districts vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/105234/swd-vs-ncape-16th-match-csa-t20-knock-out-competition "South Western Districts v Northern Cape, 16th Match - Preview")
+* [South Western Districts vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/105234/swd-vs-ncape-16th-match-csa-t20-knock-out-competition "South Western Districts v Northern Cape, 16th Match - Toss")
     
     16th Match
     
@@ -140,7 +148,7 @@ AllLive NowToday
     
     18th Match
     
-* [Toyam Hyderabad vs Southern Super Stars](https://www.cricbuzz.com/live-cricket-scores/107169/tyh-vs-snss-19th-match-llc-2024 "Toyam Hyderabad v Southern Super Stars, 19th Match - Preview")
+* [Southern Super Stars vs Toyam Hyderabad](https://www.cricbuzz.com/live-cricket-scores/107169/snss-vs-tyh-19th-match-llc-2024 "Southern Super Stars v Toyam Hyderabad, 19th Match - Complete")
     
     19th Match
     
@@ -152,15 +160,7 @@ AllLive NowToday
     
     Ranji Trophy
     
-    [Tripura vs Odisha](https://www.cricbuzz.com/live-cricket-scores/97203/tri-vs-odsa-elite-group-a-ranji-trophy "Tripura v Odisha, Elite Group A - Upcoming")
-    
-    Elite Group A
-    
-* [Kerala vs Punjab](https://www.cricbuzz.com/live-cricket-scores/97252/ker-vs-pun-elite-group-c-ranji-trophy "Kerala v Punjab, Elite Group C - Upcoming")
-    
-    Elite Group C
-    
-* [Services vs Meghalaya](https://www.cricbuzz.com/live-cricket-scores/97194/ser-vs-mgly-elite-group-a-ranji-trophy "Services v Meghalaya, Elite Group A - Upcoming")
+    [Services vs Meghalaya](https://www.cricbuzz.com/live-cricket-scores/97194/ser-vs-mgly-elite-group-a-ranji-trophy "Services v Meghalaya, Elite Group A - Upcoming")
     
     Elite Group A
     
@@ -216,6 +216,14 @@ AllLive NowToday
     
     Elite Group D
     
+* [Tripura vs Odisha](https://www.cricbuzz.com/live-cricket-scores/97203/tri-vs-odsa-elite-group-a-ranji-trophy "Tripura v Odisha, Elite Group A - Upcoming")
+    
+    Elite Group A
+    
+* [Kerala vs Punjab](https://www.cricbuzz.com/live-cricket-scores/97252/ker-vs-pun-elite-group-c-ranji-trophy "Kerala v Punjab, Elite Group C - Upcoming")
+    
+    Elite Group C
+    
 * Ranji Trophy Plate
     
     [Sikkim vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98103/skm-vs-miz-plate-ranji-trophy-plate "Sikkim v Mizoram, Plate - Upcoming")
@@ -232,7 +240,7 @@ AllLive NowToday
     
 * Australia Under 19 tour of India
     
-    [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106452/indu19-vs-ausu19-2nd-youth-test-australia-under-19-tour-of-india "India U19 v Australia U19, 2nd Youth Test - Lunch")
+    [India U19 vs Australia U19](https://www.cricbuzz.com/live-cricket-scores/106452/indu19-vs-ausu19-2nd-youth-test-australia-under-19-tour-of-india "India U19 v Australia U19, 2nd Youth Test - INDU19 Won")
     
     2nd Youth Test
     
@@ -246,7 +254,7 @@ AllLive NowToday
     
     1st Match
     
-* [Western Australia vs Queensland  LIVE](https://www.cricbuzz.com/live-cricket-scores/102853/wa-vs-ql-3rd-match-sheffield-shield-2024-25 "Western Australia v Queensland, 3rd Match - Live")
+* [Western Australia vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102853/wa-vs-ql-3rd-match-sheffield-shield-2024-25 "Western Australia v Queensland, 3rd Match - Stumps")
     
     3rd Match
     
@@ -262,7 +270,7 @@ AllLive NowToday
     
     10th Match, Group A
     
-* [South Africa Women vs Scotland Women](https://www.cricbuzz.com/live-cricket-scores/94622/rsaw-vs-scow-11th-match-group-b-icc-womens-t20-world-cup "South Africa Women v Scotland Women, 11th Match, Group B - Preview")
+* [South Africa Women vs Scotland Women](https://www.cricbuzz.com/live-cricket-scores/94622/rsaw-vs-scow-11th-match-group-b-icc-womens-t20-world-cup "South Africa Women v Scotland Women, 11th Match, Group B - Complete")
     
     11th Match, Group B
     
@@ -302,15 +310,15 @@ AllLive NowToday
     
     2nd Match
     
-* [South Korea Women vs Mongolia Women](https://www.cricbuzz.com/live-cricket-scores/108363/skrw-vs-mglw-3rd-match-womens-east-asia-cup-2024 "South Korea Women v Mongolia Women, 3rd Match - Ings Break")
+* [South Korea Women vs Mongolia Women](https://www.cricbuzz.com/live-cricket-scores/108363/skrw-vs-mglw-3rd-match-womens-east-asia-cup-2024 "South Korea Women v Mongolia Women, 3rd Match - SKRW Won")
     
     3rd Match
     
-* [China Women vs Hong Kong Women](https://www.cricbuzz.com/live-cricket-scores/108371/chnw-vs-hkw-4th-match-womens-east-asia-cup-2024 "China Women v Hong Kong Women, 4th Match - Upcoming")
+* [Hong Kong Women vs China Women](https://www.cricbuzz.com/live-cricket-scores/108371/hkw-vs-chnw-4th-match-womens-east-asia-cup-2024 "Hong Kong Women v China Women, 4th Match - HKW Won")
     
     4th Match
     
-* [Hong Kong Women vs Mongolia Women](https://www.cricbuzz.com/live-cricket-scores/108379/hkw-vs-mglw-5th-match-womens-east-asia-cup-2024 "Hong Kong Women v Mongolia Women, 5th Match - Upcoming")
+* [Hong Kong Women vs Mongolia Women](https://www.cricbuzz.com/live-cricket-scores/108379/hkw-vs-mglw-5th-match-womens-east-asia-cup-2024 "Hong Kong Women v Mongolia Women, 5th Match - Preview")
     
     5th Match
     
@@ -633,41 +641,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/131935/batters-power-south-africa-to-a-massive-win-knock-scotland-out "Batters power South Africa to a massive win, knock Scotland out ")
+
+[Batters power South Africa to a massive win, knock Scotland out](https://www.cricbuzz.com/cricket-news/131935/batters-power-south-africa-to-a-massive-win-knock-scotland-out "Batters power South Africa to a massive win, knock Scotland out ")
+
+10m ago
+
+  [](https://www.cricbuzz.com/cricket-news/131934/west-indies-eye-bangladesh-scalp-to-boost-semifinal-hopes "West Indies eye Bangladesh scalp to boost semifinal hopes")
+
+[West Indies eye Bangladesh scalp to boost semifinal hopes](https://www.cricbuzz.com/cricket-news/131934/west-indies-eye-bangladesh-scalp-to-boost-semifinal-hopes "West Indies eye Bangladesh scalp to boost semifinal hopes")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131933/root-ton-headlines-another-dominant-session-for-england "Root ton headlines another dominant session for England")
+
+[Root ton headlines another dominant session for England](https://www.cricbuzz.com/cricket-news/131933/root-ton-headlines-another-dominant-session-for-england "Root ton headlines another dominant session for England")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131932/no-contract-no-problem-for-crickets-new-generation "No contract, no problem for cricket's new generation")
+
+[No contract, no problem for cricket's new generation](https://www.cricbuzz.com/cricket-news/131932/no-contract-no-problem-for-crickets-new-generation "No contract, no problem for cricket's new generation")
+
+5h ago
+
+  [](https://www.cricbuzz.com/cricket-news/131931/milestone-man-root-leads-englands-charge "Milestone man Root leads England's charge")
+
+[Milestone man Root leads England's charge](https://www.cricbuzz.com/cricket-news/131931/milestone-man-root-leads-englands-charge "Milestone man Root leads England's charge")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/131930/living-in-the-now-arshdeeps-formula-for-rising-to-the-top "Living in the now: Arshdeep's formula for rising to the top")
 
 [Living in the now: Arshdeep's formula for rising to the top](https://www.cricbuzz.com/cricket-news/131930/living-in-the-now-arshdeeps-formula-for-rising-to-the-top "Living in the now: Arshdeep's formula for rising to the top")
 
-52m ago
-
-  [](https://www.cricbuzz.com/cricket-news/131929/wbbl-10-hobart-hurricanes-sign-suzie-bates-as-replacement-player "WBBL 10: Hobart Hurricanes sign Suzie Bates as replacement player")
-
-[WBBL 10: Hobart Hurricanes sign Suzie Bates as replacement player](https://www.cricbuzz.com/cricket-news/131929/wbbl-10-hobart-hurricanes-sign-suzie-bates-as-replacement-player "WBBL 10: Hobart Hurricanes sign Suzie Bates as replacement player")
-
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131928/tajinder-singh-dhillon-kingsmens-knight-in-shining-light "Tajinder Singh Dhillon: Kingsmen's Knight in shining light")
-
-[Tajinder Singh Dhillon: Kingsmen's Knight in shining light](https://www.cricbuzz.com/cricket-news/131928/tajinder-singh-dhillon-kingsmens-knight-in-shining-light "Tajinder Singh Dhillon: Kingsmen's Knight in shining light")
-
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131927/williamson-to-miss-start-of-india-test-series-due-to-groin-strain "Williamson to miss start of India Test series due to groin strain")
-
-[Williamson to miss start of India Test series due to groin strain](https://www.cricbuzz.com/cricket-news/131927/williamson-to-miss-start-of-india-test-series-due-to-groin-strain "Williamson to miss start of India Test series due to groin strain")
-
 6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131926/priority-will-always-be-points-over-nrr-smriti-mandhana "Priority will always be points over NRR: Smriti Mandhana")
-
-[Priority will always be points over NRR: Smriti Mandhana](https://www.cricbuzz.com/cricket-news/131926/priority-will-always-be-points-over-nrr-smriti-mandhana "Priority will always be points over NRR: Smriti Mandhana")
-
-12h ago
-
-  [](https://www.cricbuzz.com/cricket-news/131925/india-confront-multifold-challenge-against-slippery-sri-lanka "India confront multifold challenge against slippery Sri Lanka")
-
-[India confront multifold challenge against slippery Sri Lanka](https://www.cricbuzz.com/cricket-news/131925/india-confront-multifold-challenge-against-slippery-sri-lanka "India confront multifold challenge against slippery Sri Lanka")
-
-13h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
