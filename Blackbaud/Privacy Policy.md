@@ -150,11 +150,11 @@ Main Navigation
         
         Best practices and the latest learning for social good professionals](https://blog.blackbaud.com/)
     
-    ![](https://www.blackbaud.com/wp-content/uploads/2024/08/EOY_Toolkit_275X135_MegaMenu.png)
+    ![](https://www.blackbaud.com/wp-content/uploads/2024/10/BBI-Spontaneous-Giving-Report-300X150_MegaMenu.png)
     
-    End-of-year Fundraising | Toolkit​
+    New Report | Trends in Spontaneous Giving
     
-    [Get your roadmap to end-of-year fundraising success!​](https://www.blackbaud.com/industry-insights/resources/end-of-year-fundraising-toolkit?ICID=bbwebsite-mega-menu-tile-cbr-eoytoolkit-tl-24-us)
+    [Learn to attract and harness the generosity of spontaneous givers.](https://institute.blackbaud.com/resources/spontaneous-giving?icid=_p-megamenu_t-homepage_c-spontaneous-giving)
     
     * * *
     
