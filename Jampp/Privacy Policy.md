@@ -58,13 +58,13 @@ Company
 
 From our blog
 
+[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/6706d6be80bbb2c31a2fbb74_julo-grows-the-penetration-of-financial-products-with-app-retargeting.png)
+
+JULO grows the penetration of financial products with App Retargeting](https://jampp.com/blog/julo-grows-the-penetration-of-financial-products-with-app-retargeting)
+
 [![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/66fda0c98d28d26c75eaddb6_what-the-latest-att-metrics-say-about-the-state-of-skan.png)
 
 What the latest ATT metrics say about the state of SKAN](https://jampp.com/blog/what-the-latest-att-metrics-say-about-the-state-of-skan)
-
-[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/66f40d53b4e0f5a4581f0e54_serasa-drives-119-more-events-with-app-retargeting.png)
-
-Serasa drives 119% more events with App Retargeting](https://jampp.com/blog/serasa-drives-119-more-events-with-app-retargeting)
 
 [ Login](https://auth.jampp.com/login?redirect=https%3A%2F%2Fdashboard.jampp.com%2F)[Contact Sales](https://jampp.com/contact)
 
