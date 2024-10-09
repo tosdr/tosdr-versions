@@ -499,9 +499,9 @@ Show options
 
 [Terms of Service](https://1password.com/legal/terms-of-service)
 
-[Cookie Policy](https://1password.com/legal/cookie-policy)
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out Icon
 
-Your Privacy Options
+[Cookie Policy](https://1password.com/legal/cookie-policy)
 
 [Privacy Policy](https://1password.com/legal/privacy)
 
