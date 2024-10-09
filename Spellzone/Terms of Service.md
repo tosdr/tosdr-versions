@@ -435,9 +435,9 @@ Registered office: Club Chambers, Museum Street, York, YO1 7DN United Kingdom
 Information Commissioner's Office (ICO) Reg. No. ZA004886  
 14/06/23
 
-"I love your course..... you explain so much that I didn't know, forgot, or wasn't taught."
+"Fantastic - the most relevant material/resource ever seen for both dyslexia and teaching spelling rules."
 
-**Adult student, USA**
+**College Lecturer**
 
 ### Curriculum...
 
