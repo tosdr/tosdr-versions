@@ -1,4 +1,4 @@
-               Reseller Policy – BulbHead                                                                                      [Skip to content](#MainContent)
+               Reseller Policy – BulbHead                                                                                     [Skip to content](#MainContent)
 
     
 
