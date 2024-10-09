@@ -250,6 +250,8 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Desks & Hutches](https://www.houzz.com/products/desks)
 * [Office Chairs](https://www.houzz.com/products/office-chairs)
 
+* [Holiday](https://www.houzz.com/products/holiday-decorations)
+
 * [Living Room](https://www.houzz.com/products/living-room-furniture)
 * [Sofas & Sectionals](https://www.houzz.com/products/sofas-and-sectionals)
 * [Coffee & Accent Tables](https://www.houzz.com/products/living-room-tables)
@@ -583,7 +585,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28806145/pic/houzz_logo.svg?v=28806145)
+![Houzz Logo Print](//www.houzz.com/res/28807008/pic/houzz_logo.svg?v=28807008)
 
 Houzz Return Policy
 ===================
