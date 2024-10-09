@@ -8,6 +8,7 @@
 
 * [Lesson Plans](https://eslbrains.com/lesson)
     * [Level](#)
+        * [A1 / Elementary](https://eslbrains.com/esl-lesson-plans/a1-elementary/)
         * [A2 / Pre‐Intermediate](https://eslbrains.com/esl-lesson-plans/a2-pre-intermediate/)
         * [B1 / Intermediate](https://eslbrains.com/esl-lesson-plans/b1-intermediate/)
         * [B2 / Upper Intermediate](https://eslbrains.com/esl-lesson-plans/b2-upper-intermediate/)
@@ -305,16 +306,14 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
-* [Gen Z’s penchant for sad music](https://eslbrains.com/gen-zs-penchant-for-sad-music/ "Gen Z’s penchant for sad music")
-* [What do they look like?](https://eslbrains.com/what-do-they-look-like/ "What do they look like?")
-* [Challenging gender stereotypes](https://eslbrains.com/challenging-gender-stereotypes/ "Challenging gender stereotypes")
-* [Uncertain times in business](https://eslbrains.com/uncertain-times-in-business/ "Uncertain times in business")
+* [Work relationships: bridges and boundaries](https://eslbrains.com/work-relationships-bridges-and-boundaries/ "Work relationships: bridges and boundaries")
+* [Can you weigh in on this?](https://eslbrains.com/can-you-weigh-in-on-this/ "Can you weigh in on this?")
+* [Healthy lifestyle (Present Simple negative)](https://eslbrains.com/healthy-lifestyle-present-simple-negative/ "Healthy lifestyle (Present Simple negative)")
+* [Things we use every day](https://eslbrains.com/things-we-use-every-day-adjective-order/ "Things we use every day")
 
-© ESL Brains 2023
+© ESL Brains 2024
 
-[](https://www.instagram.com/esl_brains)[](https://facebook.com/ted4esl)
-
-![](https://www.facebook.com/tr?id=185525776077626&ev=PageView&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=7643&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=eslbrains.com%2Fterms-and-conditions%2F)
+[](https://www.instagram.com/esl_brains)[](https://www.linkedin.com/company/esl-brains/)
 
                           
 
