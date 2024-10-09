@@ -12,7 +12,7 @@ Achieve your campaign goals with enhanced ads that deliver better performance ac
 
 **Overview**
 
-[Advertiser Solutions](https://www.sharethrough.com/advertisers)[Creative Gallery](https://www.sharethrough.com/advertisers/ad-enhancements/ctv-dynamic-qr-code)
+[Advertiser Solutions](https://www.sharethrough.com/advertisers)[Creative Gallery](https://www.sharethrough.com/advertisers/ad-enhancements/ctv-sports-ticker)
 
 **Innovation**
 
