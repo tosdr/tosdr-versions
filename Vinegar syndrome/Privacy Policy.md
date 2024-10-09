@@ -744,21 +744,3 @@ Join our mailing list for updates on new releases, promotions & events.
    
 
 \*By completing this form you're signing up to receive our emails and can unsubscribe at any time.
-
-Your are successfully subscribed for email notifications.
-
-✖
-
-Notify me when available
-
-We will send you a notification as soon as this product is available again.
-
- Do you want to get recurring notifications?
-
-Your email is required
-
-Notify Me
-
-We don't share your email with anybody
-
-x
