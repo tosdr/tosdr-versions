@@ -2,6 +2,7 @@ Wednesday, October 9 2024
 
 Breaking News
 
+* [Media Blitz Not Working For Democrats](https://www.conservativedailynews.com/2024/10/media-blitz-not-working-for-democrats/)
 * [President Joe Biden’s Schedule for Wednesday, October 9, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-9-2024/)
 * [It’s All About Bringing Back The American Dream](https://www.conservativedailynews.com/2024/10/its-all-about-bringing-back-the-american-dream/)
 * [Elon Musk Warns Tucker Carlson Harris Will Try To Shut Down X ‘By Any Means Possible’ If Elected](https://www.conservativedailynews.com/2024/10/elon-musk-warns-tucker-carlson-harris-will-try-to-shut-down-x-by-any-means-possible-if-elected/)
@@ -9,7 +10,6 @@ Breaking News
 * [Wage gouging, jobs numbers, Fed blunders mean more inflation](https://www.conservativedailynews.com/2024/10/wage-gouging-jobs-numbers-fed-blunders-mean-more-inflation/)
 * [Colorado Supreme Court Finally Dismisses Case Against Christian Cake Baker After Over 12 Years Of Legal Battles](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
 * [Cook Political Report Shifts Key Swing- State Senate Race In Republicans’ Favor](https://www.conservativedailynews.com/2024/10/cook-political-report-shifts-key-swing-state-senate-race-in-republicans-favor/)
-* [Trump’s Chances Of Winning Electoral College Continue To Increase As Blue-Wall State Poll Swings In His Favor](https://www.conservativedailynews.com/2024/10/trumps-chances-of-winning-electoral-college-continue-to-increase-as-blue-wall-state-poll-swings-in-his-favor/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -109,11 +109,11 @@ Support CDN!
 
 Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for November. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.73%
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.74%
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trumps-chances-of-winning-electoral-college-continue-to-increase-as-blue-wall-state-poll-swings-in-his-favor/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/06/Jack-Phillips.jpg)](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
     
-    [Trump’s Chances Of Winning Electoral College Continue To Increase As Blue-Wall State Poll Swings In His Favor](https://www.conservativedailynews.com/2024/10/trumps-chances-of-winning-electoral-college-continue-to-increase-as-blue-wall-state-poll-swings-in-his-favor/)
+    [Colorado Supreme Court Finally Dismisses Case Against Christian Cake Baker After Over 12 Years Of Legal Battles](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
     
     October 8, 2024
     
@@ -126,6 +126,36 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![joe Biden Kamala Harris hurricane relief spending](https://www.conservativedailynews.com/wp-content/uploads/2024/10/02-peanuts-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/this-is-nuts/)
+    
+    [This Is Nuts](https://www.conservativedailynews.com/2024/10/this-is-nuts/)
+    
+    October 9, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/one-year-later/)
+    
+    [One Year Later](https://www.conservativedailynews.com/2024/10/one-year-later/)
+    
+    October 9, 2024
+    
+* [![Kamala Harris fake](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg100924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/unreal/)
+    
+    [Unreal](https://www.conservativedailynews.com/2024/10/unreal/)
+    
+    October 9, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/CBS-Gas-Prices-220x150.jpg)](https://www.conservativedailynews.com/2024/10/10-10-10-the-tool-that-saved-me-from-making-a-bad-decision-and-running-out-of-gas/)
+    
+    [10-10-10: The Tool That Saved Me From Making a Bad Decision (And Running Out of Gas)](https://www.conservativedailynews.com/2024/10/10-10-10-the-tool-that-saved-me-from-making-a-bad-decision-and-running-out-of-gas/)
+    
+    October 9, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5638-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/media-blitz-not-working-for-democrats/)
+    
+    [Media Blitz Not Working For Democrats](https://www.conservativedailynews.com/2024/10/media-blitz-not-working-for-democrats/)
+    
+    October 9, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/President_Biden_held_a_telephone_call_with_Ukrainian_President_Zelenskyy-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-9-2024/)
     
     [President Joe Biden’s Schedule for Wednesday, October 9, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-9-2024/)
@@ -144,39 +174,10 @@ Recent Posts
     
     October 8, 2024
     
-* [![Kamala Harris communist socialist](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/a-kamala-harris-presidency-is-the-end-of-america-as-we-have-known-and-loved-it/)
-    
-    [A Kamala Harris Presidency is the End of America as We have Known and Loved It](https://www.conservativedailynews.com/2024/10/a-kamala-harris-presidency-is-the-end-of-america-as-we-have-known-and-loved-it/)
-    
-    October 8, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/inflation-warning-sign-220x150.png)](https://www.conservativedailynews.com/2024/10/wage-gouging-jobs-numbers-fed-blunders-mean-more-inflation/)
-    
-    [Wage gouging, jobs numbers, Fed blunders mean more inflation](https://www.conservativedailynews.com/2024/10/wage-gouging-jobs-numbers-fed-blunders-mean-more-inflation/)
-    
-    October 8, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/06/Jack-Phillips.jpg)](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
-    
-    [Colorado Supreme Court Finally Dismisses Case Against Christian Cake Baker After Over 12 Years Of Legal Battles](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
-    
-    October 8, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/08/2024-election-220x150.webp)](https://www.conservativedailynews.com/2024/10/cook-political-report-shifts-key-swing-state-senate-race-in-republicans-favor/)
-    
-    [Cook Political Report Shifts Key Swing- State Senate Race In Republicans’ Favor](https://www.conservativedailynews.com/2024/10/cook-political-report-shifts-key-swing-state-senate-race-in-republicans-favor/)
-    
-    October 8, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trumps-chances-of-winning-electoral-college-continue-to-increase-as-blue-wall-state-poll-swings-in-his-favor/)
-    
-    [Trump’s Chances Of Winning Electoral College Continue To Increase As Blue-Wall State Poll Swings In His Favor](https://www.conservativedailynews.com/2024/10/trumps-chances-of-winning-electoral-college-continue-to-increase-as-blue-wall-state-poll-swings-in-his-favor/)
-    
-    October 8, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [NRA Special-Edition Digital Publication “What NRA Does For Women” Chronicles The Rise Of Women Gun Owners](https://www.thegunpage.com/nra-special-edition-digital-publication-what-nra-does-for-women-chronicles-the-rise-of-women-gun-owners/10611091)
 * [TFB Interview: Joe Easter – KelTec RDB – IPSC Rifle World Shoot](https://www.thegunpage.com/tfb-interview-joe-easter-keltec-rdb-ipsc-rifle-world-shoot/10611087)
 * [POTD: Detonics BLACK ONE 500 Single-Shot Percussion Pistol](https://www.thegunpage.com/potd-detonics-black-one-500-single-shot-percussion-pistol/10611088)
 * [Q Unveils The BoomBox 8.6BLK](https://www.thegunpage.com/q-unveils-the-boombox-8-6blk/10611089)
@@ -186,7 +187,6 @@ Recent Posts
 * [Browning Citori 825: a Modern Superposed?](https://www.thegunpage.com/browning-citori-825-a-modern-superposed/10611079)
 * [Former Alaska Gun Store Owner Acquitted On Federal Firearms Charge](https://www.thegunpage.com/former-alaska-gun-store-owner-acquitted-on-federal-firearms-charge/10611078)
 * [Century Arms And Sharps Bros. Unveil MB47](https://www.thegunpage.com/century-arms-and-sharps-bros-unveil-mb47/10611080)
-* [Massachusetts Gun Restrictions Facing Another Challenge](https://www.thegunpage.com/massachusetts-gun-restrictions-facing-another-challenge/10611070)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Follow The Money](https://www.conservativedailynews.com/2024/10/follow-the-money-4/#comment-782578)
 * Jake on [America In The Age Of Stupidity: Why Can You Never Win An Argument With A Democrat?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-can-you-never-win-an-argument-with-a-democrat/#comment-782571)
 * Kevin M. Nadzam on [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/#comment-782569)
 * charles wilkins on [The Worst](https://www.conservativedailynews.com/2024/10/the-worst/#comment-782566)
@@ -236,7 +237,6 @@ Recent Comments
 * Stanley Warner on [Kamala’s Tax-Gouging Frightens Me More Than Corporate Price-Gouging](https://www.conservativedailynews.com/2024/10/kamalas-tax-gouging-frightens-me-more-than-corporate-price-gouging/#comment-782543)
 * Stanley Warner on [On The One-Year Anniversary Of October 7 — Let Israel Win](https://www.conservativedailynews.com/2024/10/on-the-one-year-anniversary-of-october-7-let-israel-win/#comment-782542)
 * TennesseeConservative on [Popular Money Advice You Shouldn’t Take](https://www.conservativedailynews.com/2024/10/popular-money-advice-you-shouldnt-take/#comment-782538)
-* Stanley Warner on [Biden Admin To End Parole Program For Hundreds Of Thousands Of Migrants](https://www.conservativedailynews.com/2024/10/biden-admin-to-end-parole-program-for-hundreds-of-thousands-of-migrants/#comment-782524)
 
 [Close](#)
 
