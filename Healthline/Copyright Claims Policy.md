@@ -190,6 +190,13 @@
 
 Subscribe
 
+[#### Bites and Stings](#)
+
+* [How to Identify](https://www.healthline.com/health/bug-bites)
+* [Spider Bite 101](https://www.healthline.com/health/spider-bites)
+* [Mosquito Prevention](https://www.healthline.com/health/outdoor-health/how-to-prevent-mosquito-bites)
+* [Bee Sting Home Remedies](https://www.healthline.com/health/outdoor-health/home-remedies-for-bee-stings)
+
 Ad & Sponsorship Policy
 =======================
 
