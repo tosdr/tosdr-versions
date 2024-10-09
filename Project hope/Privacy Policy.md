@@ -2,7 +2,7 @@
 
 URGENT ALERT
 
-Helene Update - Catastrophic Flooding in North Carolina
+Hurricane Update - Responding in North Carolina and Prepping in Florida
 
 [DONATE](https://secure.projecthope.org/site/SPageNavigator/FY24_10_Hurricane_Helene_Milton_Web_LO_12316.html "DONATE") Close
 
@@ -303,10 +303,10 @@ Proud to be independently verified by:
 
 Close Donation Form
 
-Emergency 3x Match
-------------------
+Your Gift Multiplies 4X
+-----------------------
 
-Rush your emergency gift today and your generosity can go 3X as far, up to $25,000, through 10/9, to help support our mission and save lives in places like North Carolina, Lebanon, Gaza, Ukraine, and beyond.
+Rush your emergency gift today to provide urgent relief and make a lasting impact for people facing hurricanes, conflicts, health crises, and more.
 
 Donation type One Time  Monthly 
 
@@ -318,7 +318,7 @@ Donation amount, other Other donation amount
 
 Donate Now
 
-[Donate](https://secure.projecthope.org/site/SPageNavigator/FY24_10_Year_End_Web_LO_12173.html "Donate")
+[Donate](https://secure.projecthope.org/site/SPageNavigator/FY24_10_Hurricane_Helene_Milton_Web_LO_12316.html "Donate")
 
 We use cookies to ensure that we give you the best experience on our website. By clicking “Accept”, you consent to us using data collected from the cookies on our website. To learn more, check out our [privacy policy](https://www.projecthope.org/privacy-policy).
 
