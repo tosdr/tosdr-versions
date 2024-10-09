@@ -118,6 +118,11 @@ Advertisement
     Britains Broken Families
     
     A recent documentary by the BBC has set about following the work of Newcastle's Family Intervention Project or FIP, the project aims to try and help some of the more disruptive families in the area. ...](https://documentaryheaven.com/britains-broken-families/ "Britains Broken Families")
+* [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
+    
+    Prisoners of Katrina
+    
+    n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
 * [![Amy Winehouse: What Really Happened](/wp-content/thumbnails/6033-100x70.jpg?x53432)
     
     Amy Winehouse: What Really Happened
@@ -128,39 +133,34 @@ Advertisement
     Canada’s woke nightmare: A warning to the West
     
     Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
-* [![Very Young Girls](/wp-content/thumbnails/5947-100x70.png?x53432)
-    
-    Very Young Girls
-    
-    Very Young Girls, whose title reflects the fact that in the United States the average age of entry into prostitution is just thirteen. The film takes us into the work of a former sexually exploited yo...](https://documentaryheaven.com/very-young-girls/ "Very Young Girls")
 
 ###### Throwback Documentaries
 
-* [![The Wonderland Murders](/wp-content/thumbnails/8429-100x70.jpg?x53432)
+* [![Bigger Than Enron](/wp-content/thumbnails/1155-100x70.jpg?x53432)
     
-    The Wonderland Murders
+    Bigger Than Enron
     
-    In the late 1970's hardcore porno star John Curtis Holmes was an icon of hollywood success, movies, money, sex and drugs. His cult statues was assured up until his involvement in one of the most horri](https://documentaryheaven.com/wonderland-murders/ "The Wonderland Murders")
-* [![Bullet Proof](/wp-content/thumbnails/6861-100x70.png?x53432)
+    On June 15, a Houston jury convicted Arthur Andersen -- the 89-year-old accounting firm once known as the gold standard of integrity in auditing -- for obstruction of justice in the government's inves](https://documentaryheaven.com/bigger-than-enron/ "Bigger Than Enron")
+* [![The Blockchain and Us](/wp-content/thumbnails/13767-100x70.jpg?x53432)
     
-    Bullet Proof
+    The Blockchain and Us
     
-    How do you stop a speeding bullet? From body armor to armored cars and trucks, we review the history of the race between the bullet and a successful way to stop it. It’s not exactly easy to design mat](https://documentaryheaven.com/bullet-proof/ "Bullet Proof")
-* [![The Privileged Planet](/wp-content/thumbnails/2607-100x70.jpg?x53432)
+    In 1903 the Wright brothers invented the first airplane, it was hard to imagine back then that today there would be over 500,000 people traveling in the air at any point in time. In 2008, a person or](https://documentaryheaven.com/blockchain-and-us/ "The Blockchain and Us")
+* [![Secrets of the Dead: Lost in the Amazon](/wp-content/thumbnails/6145-100x70.jpg?x53432)
     
-    The Privileged Planet
+    Secrets of the Dead: Lost in the Amazon
     
-    Although this documentary is promoting “intelligent design” view I decided to post it. For centuries scientists and philosophers have marveled at an eerie coincidence. Mathematics, a creation of human](https://documentaryheaven.com/the-privileged-planet/ "The Privileged Planet")
-* [![WWII in HD EP8/10](/wp-content/thumbnails/4675-100x70.jpg?x53432)
+    On April 20, 1925, Colonel Percy Fawcett, his elder son Jack Fawcett and Jack’s lifelong friend, Raleigh Rimmell, departed from Cuiabá, the capital city of the Brazilian state of Mato Grosso, to find](https://documentaryheaven.com/secrets-of-the-dead-lost-in-the-amazon/ "Secrets of the Dead: Lost in the Amazon")
+* [![The Battle of the Bulge](/wp-content/thumbnails/5762-100x70.jpg?x53432)
     
-    WWII in HD EP8/10
+    The Battle of the Bulge
     
-    Episode 8: Glory and Guts The Marine assault on Iwo Jima brings horror and glory. Pilot Bert Stiles engages a German fighter with disastrous consequences. Reinforcements arrive in Europe to push the A](https://documentaryheaven.com/wwii-in-hd-ep8/ "WWII in HD EP8/10")
-* [![Alexander The Great](/wp-content/thumbnails/14140-100x70.jpg?x53432)
+    December 16, 1944-January 28, 1945 In December 1944, in an all-out gamble to compel the Allies to sue for peace, Adolf Hitler ordered the only major German counteroffensive of the war in northwest Eur](https://documentaryheaven.com/the-battle-of-the-bulge/ "The Battle of the Bulge")
+* [![Sun Ra, Brother From Another Planet](/wp-content/thumbnails/6378-100x70.jpg?x53432)
     
-    Alexander The Great
+    Sun Ra, Brother From Another Planet
     
-    Alexander The Great the shining light of Ancient Greece, the prince from remote Macedonia would become the greatest conquer of all time. No one would have thought that someone would have tried to conq](https://documentaryheaven.com/alexander-the-great/ "Alexander The Great")
+    Sun Ra was born on the planet Saturn some time ago. The best accounts agree that he emerged on Earth as Herman Blount, born in Birmingham, Alabama in 1914, although Sun Ra himself always denied that B](https://documentaryheaven.com/sun-ra-brother-from-another-planet/ "Sun Ra, Brother From Another Planet")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
