@@ -390,23 +390,23 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Tell if Someone Likes You Online](https://www.wikihow.com/images/thumb/c/cb/Tell-if-Someone-Likes-You-Online-Step-11.jpg/-crop-126-120-126px-Tell-if-Someone-Likes-You-Online-Step-11.jpg)
+
+Wondering if Someone Likes You Online? 11 Important Signs to Watch Out For](https://www.wikihow.com/Tell-if-Someone-Likes-You-Online)
+
+[![Have a Sense of Humor](https://www.wikihow.com/images/thumb/a/ae/Have-a-Sense-of-Humor-Step-10-Version-3.jpg/-crop-126-120-126px-Have-a-Sense-of-Humor-Step-10-Version-3.jpg)
+
+How to  
+Have a Sense of Humor](https://www.wikihow.com/Have-a-Sense-of-Humor)
+
+[![Do a Push Up](https://www.wikihow.com/images/thumb/e/ea/Do-a-Push-Up-Step-9-Version-3.jpg/-crop-126-120-126px-Do-a-Push-Up-Step-9-Version-3.jpg)
+
+The Correct Way to Do Push-Ups for Beginners](https://www.wikihow.com/Do-a-Push-Up)
+
 [![Express Your Feelings](https://www.wikihow.com/images/thumb/c/c8/Express-Your-Feelings-Step-17-Version-2.jpg/-crop-126-120-126px-Express-Your-Feelings-Step-17-Version-2.jpg)
 
 How to  
 Express Your Feelings](https://www.wikihow.com/Express-Your-Feelings)
-
-[![What Generation Am I Quiz](https://www.wikihow.com/images/thumb/1/17/What_generation_quiz_1.png/-crop-126-120-126px-What_generation_quiz_1.png)
-
-What Generation Do I Really Belong In Quiz](https://www.wikihow.com/What-Generation-Am-I-Quiz)
-
-[![Improve Your Life](https://www.wikihow.com/images/thumb/8/86/Improve-Your-Life-Step-21-Version-3.jpg/-crop-126-120-126px-Improve-Your-Life-Step-21-Version-3.jpg)
-
-21 Ways to Make Your Life Better Starting Today](https://www.wikihow.com/Improve-Your-Life)
-
-[![Save Money as a Kid](https://www.wikihow.com/images/thumb/e/ec/Save-Money-as-a-Kid-Step-17-Version-2.jpg/-crop-126-120-126px-Save-Money-as-a-Kid-Step-17-Version-2.jpg)
-
-How to  
-Save Money as a Kid](https://www.wikihow.com/Save-Money-as-a-Kid)
 
   
 
@@ -449,4 +449,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-177
+180
