@@ -1,15 +1,15 @@
-Tuesday, October 8 2024
+Wednesday, October 9 2024
 
 Breaking News
 
-* [FEMA’s Manpower Stretched To The Absolute Limit As Category 5 Hurricane Comes Rolling In](https://www.conservativedailynews.com/2024/10/femas-manpower-stretched-to-the-absolute-limit-as-category-5-hurricane-comes-rolling-in/)
-* [President Joe Biden’s Schedule for Tuesday, October 8, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-8-2024/)
-* [America In The Age Of Stupidity: Why Can You Never Win An Argument With A Democrat?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-can-you-never-win-an-argument-with-a-democrat/)
-* [Forget FEMA, Samaritan’s Purse Is On It](https://www.conservativedailynews.com/2024/10/forget-fema-samaritans-purse-is-on-it/)
-* [Russian ‘Merchant Of Death’ Back In Arms Game, Selling To Terrorists After Being Freed Under Biden Admin](https://www.conservativedailynews.com/2024/10/russian-merchant-of-death-back-in-arms-game-selling-to-terrorists-after-being-freed-under-biden-admin/)
-* [CNN’s Harry Enten Says Harris Performing ‘Ridiculously Well’ Among ‘White College Grads’](https://www.conservativedailynews.com/2024/10/cnns-harry-enten-says-harris-performing-ridiculously-well-among-white-college-grads/)
-* [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/)
-* [White House Press Briefing with Karine Jean-Pierre – 10/7/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-7-24/)
+* [President Joe Biden’s Schedule for Wednesday, October 9, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-9-2024/)
+* [It’s All About Bringing Back The American Dream](https://www.conservativedailynews.com/2024/10/its-all-about-bringing-back-the-american-dream/)
+* [Elon Musk Warns Tucker Carlson Harris Will Try To Shut Down X ‘By Any Means Possible’ If Elected](https://www.conservativedailynews.com/2024/10/elon-musk-warns-tucker-carlson-harris-will-try-to-shut-down-x-by-any-means-possible-if-elected/)
+* [A Kamala Harris Presidency is the End of America as We have Known and Loved It](https://www.conservativedailynews.com/2024/10/a-kamala-harris-presidency-is-the-end-of-america-as-we-have-known-and-loved-it/)
+* [Wage gouging, jobs numbers, Fed blunders mean more inflation](https://www.conservativedailynews.com/2024/10/wage-gouging-jobs-numbers-fed-blunders-mean-more-inflation/)
+* [Colorado Supreme Court Finally Dismisses Case Against Christian Cake Baker After Over 12 Years Of Legal Battles](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
+* [Cook Political Report Shifts Key Swing- State Senate Race In Republicans’ Favor](https://www.conservativedailynews.com/2024/10/cook-political-report-shifts-key-swing-state-senate-race-in-republicans-favor/)
+* [Trump’s Chances Of Winning Electoral College Continue To Increase As Blue-Wall State Poll Swings In His Favor](https://www.conservativedailynews.com/2024/10/trumps-chances-of-winning-electoral-college-continue-to-increase-as-blue-wall-state-poll-swings-in-his-favor/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,80 +111,82 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.73%
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trumps-chances-of-winning-electoral-college-continue-to-increase-as-blue-wall-state-poll-swings-in-his-favor/)
+    
+    [Trump’s Chances Of Winning Electoral College Continue To Increase As Blue-Wall State Poll Swings In His Favor](https://www.conservativedailynews.com/2024/10/trumps-chances-of-winning-electoral-college-continue-to-increase-as-blue-wall-state-poll-swings-in-his-favor/)
+    
+    October 8, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5636-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/the-butler-did-it/)
     
     [The Butler Did It](https://www.conservativedailynews.com/2024/10/the-butler-did-it/)
     
     October 6, 2024
     
-* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/10/trumps-momentum-is-building-just-look-at-the-polls/)
-    
-    [Trump’s Momentum Is Building — Just Look At The Polls](https://www.conservativedailynews.com/2024/10/trumps-momentum-is-building-just-look-at-the-polls/)
-    
-    October 6, 2024
-    
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/09/fema-600-x-333.jpg)](https://www.conservativedailynews.com/2024/10/femas-manpower-stretched-to-the-absolute-limit-as-category-5-hurricane-comes-rolling-in/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/President_Biden_held_a_telephone_call_with_Ukrainian_President_Zelenskyy-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-9-2024/)
     
-    [FEMA’s Manpower Stretched To The Absolute Limit As Category 5 Hurricane Comes Rolling In](https://www.conservativedailynews.com/2024/10/femas-manpower-stretched-to-the-absolute-limit-as-category-5-hurricane-comes-rolling-in/)
+    [President Joe Biden’s Schedule for Wednesday, October 9, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-9-2024/)
     
-    October 8, 2024
+    October 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/02/Joe-Biden-speech-n-220x150.png)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-8-2024/)
+* [![Home for sale](https://www.conservativedailynews.com/wp-content/uploads/2017/08/Home-for-sale.jpg)](https://www.conservativedailynews.com/2024/10/its-all-about-bringing-back-the-american-dream/)
     
-    [President Joe Biden’s Schedule for Tuesday, October 8, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-tuesday-october-8-2024/)
-    
-    October 8, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/Stupid-Dems-220x150.jpg)](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-can-you-never-win-an-argument-with-a-democrat/)
-    
-    [America In The Age Of Stupidity: Why Can You Never Win An Argument With A Democrat?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-can-you-never-win-an-argument-with-a-democrat/)
+    [It’s All About Bringing Back The American Dream](https://www.conservativedailynews.com/2024/10/its-all-about-bringing-back-the-american-dream/)
     
     October 8, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5637-220x117.jpeg)](https://www.conservativedailynews.com/2024/10/forget-fema-samaritans-purse-is-on-it/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/640px-Elon_Musk_3017880307-220x150.jpg)](https://www.conservativedailynews.com/2024/10/elon-musk-warns-tucker-carlson-harris-will-try-to-shut-down-x-by-any-means-possible-if-elected/)
     
-    [Forget FEMA, Samaritan’s Purse Is On It](https://www.conservativedailynews.com/2024/10/forget-fema-samaritans-purse-is-on-it/)
-    
-    October 8, 2024
-    
-* [Under Water](https://www.conservativedailynews.com/2024/10/under-water/)
+    [Elon Musk Warns Tucker Carlson Harris Will Try To Shut Down X ‘By Any Means Possible’ If Elected](https://www.conservativedailynews.com/2024/10/elon-musk-warns-tucker-carlson-harris-will-try-to-shut-down-x-by-any-means-possible-if-elected/)
     
     October 8, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Clutter-220x150.png)](https://www.conservativedailynews.com/2024/10/organized-chaos-my-intended-journey-to-a-clutter-free-2025/)
+* [![Kamala Harris communist socialist](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg082224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/a-kamala-harris-presidency-is-the-end-of-america-as-we-have-known-and-loved-it/)
     
-    [Organized Chaos: My Intended Journey to a Clutter-Free 2025](https://www.conservativedailynews.com/2024/10/organized-chaos-my-intended-journey-to-a-clutter-free-2025/)
-    
-    October 8, 2024
-    
-* [![Iran terror war murder](https://www.conservativedailynews.com/wp-content/uploads/2024/01/mrz010724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/israel-needs-victory-not-a-ceasefire/)
-    
-    [Israel Needs Victory, Not a Ceasefire](https://www.conservativedailynews.com/2024/10/israel-needs-victory-not-a-ceasefire/)
+    [A Kamala Harris Presidency is the End of America as We have Known and Loved It](https://www.conservativedailynews.com/2024/10/a-kamala-harris-presidency-is-the-end-of-america-as-we-have-known-and-loved-it/)
     
     October 8, 2024
     
-* [![Iran Israel](https://www.conservativedailynews.com/wp-content/uploads/2024/10/mrz100724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/a-clear-message/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/inflation-warning-sign-220x150.png)](https://www.conservativedailynews.com/2024/10/wage-gouging-jobs-numbers-fed-blunders-mean-more-inflation/)
     
-    [A Clear Message](https://www.conservativedailynews.com/2024/10/a-clear-message/)
+    [Wage gouging, jobs numbers, Fed blunders mean more inflation](https://www.conservativedailynews.com/2024/10/wage-gouging-jobs-numbers-fed-blunders-mean-more-inflation/)
+    
+    October 8, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/06/Jack-Phillips.jpg)](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
+    
+    [Colorado Supreme Court Finally Dismisses Case Against Christian Cake Baker After Over 12 Years Of Legal Battles](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
+    
+    October 8, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/08/2024-election-220x150.webp)](https://www.conservativedailynews.com/2024/10/cook-political-report-shifts-key-swing-state-senate-race-in-republicans-favor/)
+    
+    [Cook Political Report Shifts Key Swing- State Senate Race In Republicans’ Favor](https://www.conservativedailynews.com/2024/10/cook-political-report-shifts-key-swing-state-senate-race-in-republicans-favor/)
+    
+    October 8, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/09/Donald-Trump-Kamala-Harris-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trumps-chances-of-winning-electoral-college-continue-to-increase-as-blue-wall-state-poll-swings-in-his-favor/)
+    
+    [Trump’s Chances Of Winning Electoral College Continue To Increase As Blue-Wall State Poll Swings In His Favor](https://www.conservativedailynews.com/2024/10/trumps-chances-of-winning-electoral-college-continue-to-increase-as-blue-wall-state-poll-swings-in-his-favor/)
     
     October 8, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Interview: Joe Easter – KelTec RDB – IPSC Rifle World Shoot](https://www.thegunpage.com/tfb-interview-joe-easter-keltec-rdb-ipsc-rifle-world-shoot/10611087)
+* [POTD: Detonics BLACK ONE 500 Single-Shot Percussion Pistol](https://www.thegunpage.com/potd-detonics-black-one-500-single-shot-percussion-pistol/10611088)
+* [Q Unveils The BoomBox 8.6BLK](https://www.thegunpage.com/q-unveils-the-boombox-8-6blk/10611089)
+* [HOT GAT or FUDD CRAP? Classic LV or I Just Spat Out My Tea?](https://www.thegunpage.com/hot-gat-or-fudd-crap-classic-lv-or-i-just-spat-out-my-tea/10611090)
 * [PA: Senate Dems Try to Force Vote on Universal Registration Checks and Red Flags](https://www.thegunpage.com/pa-senate-dems-try-to-force-vote-on-universal-registration-checks-and-red-flags/10611084)
 * [Is the 10mm a Good Self-Defense Round? Debunking the Myths and Misconceptions](https://www.thegunpage.com/is-the-10mm-a-good-self-defense-round-debunking-the-myths-and-misconceptions/10611081)
 * [Browning Citori 825: a Modern Superposed?](https://www.thegunpage.com/browning-citori-825-a-modern-superposed/10611079)
 * [Former Alaska Gun Store Owner Acquitted On Federal Firearms Charge](https://www.thegunpage.com/former-alaska-gun-store-owner-acquitted-on-federal-firearms-charge/10611078)
 * [Century Arms And Sharps Bros. Unveil MB47](https://www.thegunpage.com/century-arms-and-sharps-bros-unveil-mb47/10611080)
 * [Massachusetts Gun Restrictions Facing Another Challenge](https://www.thegunpage.com/massachusetts-gun-restrictions-facing-another-challenge/10611070)
-* [Aero Precision Announces The Tephra-22 Suppressor](https://www.thegunpage.com/aero-precision-announces-the-tephra-22-suppressor/10611067)
-* [The WSJ Reveals Mexican Cartels’ Favorite Firepower](https://www.thegunpage.com/the-wsj-reveals-mexican-cartels-favorite-firepower/10611065)
-* [Copa Aguila 2024 Attracts More Than 350 Competitors](https://www.thegunpage.com/copa-aguila-2024-attracts-more-than-350-competitors/10611077)
-* [New MDT CRBN Rifle Stock](https://www.thegunpage.com/new-mdt-crbn-rifle-stock/10611068)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
