@@ -109,6 +109,7 @@ Main Menu
         
         * [Base Command](https://www.nvidia.com/en-eu/data-center/base-command/)
         * [BioNeMo](https://www.nvidia.com/en-eu/clara/bionemo/)
+        * [DGX Cloud](https://www.nvidia.com/en-eu/data-center/dgx-cloud/)
         * [NeMo](https://www.nvidia.com/en-eu/gpu-cloud/nemo-llm-service/)
         * [Picasso](https://www.nvidia.com/en-eu/gpu-cloud/picasso/)
         * [Private Registry](https://docs.nvidia.com/ngc/ngc-private-registry-user-guide/index.html)
@@ -559,6 +560,7 @@ NVIDIA NVIDIA logo
             
             * [Base Command](https://www.nvidia.com/en-eu/data-center/base-command/)
             * [BioNeMo](https://www.nvidia.com/en-eu/clara/bionemo/)
+            * [DGX Cloud](https://www.nvidia.com/en-eu/data-center/dgx-cloud/)
             * [NeMo](https://www.nvidia.com/en-eu/gpu-cloud/nemo-llm-service/)
             * [Picasso](https://www.nvidia.com/en-eu/gpu-cloud/picasso/)
             * [Private Registry](https://docs.nvidia.com/ngc/ngc-private-registry-user-guide/index.html)
