@@ -92,7 +92,9 @@ AI WOrkforce
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/3-strategies-to-maximize-pipeline-with-piper-the-ai-sdr)[AI Workforce Summit 2024
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/ai-workforce-summit-2024)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/ai-workforce-summit-2024)[Piperfest
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/piperfest2024)
 
 Learning
 
@@ -110,11 +112,11 @@ Hear from from industry leaders on all things B2B marketing.
 
 [Explore Qualified+](https://www.qualified.com/plus)
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/66bcb4adf8eceb5b96f5a016_logo.png)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/67069a350960ed217812226a_piper%20the%20ai%20sdr.png)![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6706a5d9ce9b5f53eb3d9b9f_Demo%20Day%20Live%20Nav.svg)
 
-Watch the best moments from Piperfest, the AI SDR event of the year
+Wednesday, October 23rd, 10-11AM PDT | Virtual Event
 
-[Watch NOW](https://www.qualified.com/piperfest2024)
+[Register NOW](https://www.qualified.com/piper-demo-day)
 
 Say hello to
 
@@ -424,12 +426,14 @@ Functional Cookies
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/66194770272fededa863d69d_leds.svg)
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/66bca912a6dae684b818ab70_logo_no_img.svg)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/66e1f632badac7a6e86fdfe0_Piper%20the%20AI%20SDR.svg)
 
-### Watch the best moments from  
-the AI SDR event of the year
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/670525a673fe86d1ffb3ee9b_hero.svg)
 
-[Watch NOW](https://www.qualified.com/piperfest2024)
+### Wednesday, October 23rd,  
+10-11AM PDT | Virtual Event
+
+[Register Now](https://www.qualified.com/piper-demo-day)
 
 PRODUCT
 
