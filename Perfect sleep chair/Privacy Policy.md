@@ -404,7 +404,7 @@ Regular price $1,999.00 Sale price$1,699.00 Save $300.00
 
 Rated 4.9 out of 5 stars
 
-336 Reviews
+337 Reviews
 
 * * *
 
@@ -638,7 +638,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 6 people voted yesNo, this review was not helpful 0 people voted no
+    Yes, this review was helpful 7 people voted yesNo, this review was not helpful 0 people voted no
     
 * **Thom H.**
     
