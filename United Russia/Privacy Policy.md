@@ -299,6 +299,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![При поддержке «Единой России» в Сочи прошёл X Международный полумарафон на спортивных колясках «Рецепт-Спорт»](https://cdn.er.ru/media/news/October2024/G34PdXmysAJYtTpmZdQo-small.jpg)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sochi-proshyol-x-mezhdunarodnyj-polumarafon-na-sportivnyh-kolyaskah-recept-sport)
+
+[При поддержке «Единой России» в Сочи прошёл X Международный полумарафон на спортивных колясках «Рецепт-Спорт»](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sochi-proshyol-x-mezhdunarodnyj-polumarafon-na-sportivnyh-kolyaskah-recept-sport)
+
+[#Терентьев](https://er.ru/activity/news?tags%5B0%5D=3447) [#Сочи](https://er.ru/activity/news?tags%5B0%5D=549) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЕдинаяСтранаДоступнаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090017) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#людисовз](https://er.ru/activity/news?tags%5B0%5D=123028)
+
+Сегодня 17:30
+
+[![«Единая Россия»: На Ямале открылась выставка «Сила V правде — гордость и победа»](https://cdn.er.ru/media/news/October2024/SXkcIBf5l3KsRWaYAvSy-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-na-yamale-otkrylas-vystavka-sila-v-pravde-gordost-i-pobeda)
+
+[«Единая Россия»: На Ямале открылась выставка «Сила V правде — гордость и победа»](https://er.ru/activity/news/edinaya-rossiya-na-yamale-otkrylas-vystavka-sila-v-pravde-gordost-i-pobeda)
+
+[#Ямало-Ненецкий автономный округ](https://er.ru/activity/news?tags%5B0%5D=36079) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 16:56
+
+[![«Единая Россия» поддержит предложения цифровых платформ по регламенту регистрации блогеров в Роскомнадзоре](https://cdn.er.ru/media/news/October2024/kzWUOxqOMmNRefTIczd9-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podderzhit-predlozheniya-cifrovyh-platform-po-reglamentu-registracii-blogerov-v-roskomnadzore)
+
+[«Единая Россия» поддержит предложения цифровых платформ по регламенту регистрации блогеров в Роскомнадзоре](https://er.ru/activity/news/edinaya-rossiya-podderzhit-predlozheniya-cifrovyh-platform-po-reglamentu-registracii-blogerov-v-roskomnadzore)
+
+[#Горелкин](https://er.ru/activity/news?tags%5B0%5D=101387) [цифровыеплатформы](https://er.ru/activity/news?tags%5B0%5D=153157) [#Роскомнадзор](https://er.ru/activity/news?tags%5B0%5D=2075) [#блогеры](https://er.ru/activity/news?tags%5B0%5D=2670)
+
+Сегодня 14:15
+
+[![Владимир Якушев предложил Минсельхозу сохранить поддержку малых форм хозяйствования и сектора АПК в регионах с низкой бюджетной обеспеченностью](https://cdn.er.ru/media/news/October2024/pFzs2PyFfYUauPqy125w-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-predlozhil-minselhozu-sohranit-podderzhku-malyh-form-hozyajstvovaniya-i-sektora-apk-v-regionah-s-nizkoj-byudzhetnoj-obespechennostyu)
+
+[Владимир Якушев предложил Минсельхозу сохранить поддержку малых форм хозяйствования и сектора АПК в регионах с низкой бюджетной обеспеченностью](https://er.ru/activity/news/vladimir-yakushev-predlozhil-minselhozu-sohranit-podderzhku-malyh-form-hozyajstvovaniya-i-sektora-apk-v-regionah-s-nizkoj-byudzhetnoj-obespechennostyu)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Лут](https://er.ru/activity/news?tags%5B0%5D=133405) [#Минсельхоз](https://er.ru/activity/news?tags%5B0%5D=873) [#АПК](https://er.ru/activity/news?tags%5B0%5D=72) [#Совфед](https://er.ru/activity/news?tags%5B0%5D=1319) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581) [#сельскоехозяйство](https://er.ru/activity/news?tags%5B0%5D=128668)
+
+Сегодня 13:08
+
 [![При поддержке «Женского движения Единой России» в Белгороде открылась площадка для приграничных женских клубов при центрах занятости](https://cdn.er.ru/media/news/October2024/VTDizAoFxCcp7vvkxzZ6-small.jpg)](https://er.ru/activity/news/pri-podderzhke-zhenskogo-dvizheniya-edinoj-rossii-v-belgorode-otkrylas-ploshadka-dlya-prigranichnyh-zhenskih-klubov-pri-centrah-zanyatosti)
 
 [При поддержке «Женского движения Единой России» в Белгороде открылась площадка для приграничных женских клубов при центрах занятости](https://er.ru/activity/news/pri-podderzhke-zhenskogo-dvizheniya-edinoj-rossii-v-belgorode-otkrylas-ploshadka-dlya-prigranichnyh-zhenskih-klubov-pri-centrah-zanyatosti)
@@ -307,45 +339,13 @@
 
 Сегодня 11:01
 
-[![Более 4,5 тысяч человек стали участниками мероприятий «Единой России», приуроченных ко Дню беременных](https://cdn.er.ru/media/news/October2024/WSMa1IsiESVXnX7NuNVh-small.jpg)](https://er.ru/activity/news/bolee-4-5-tysyach-chelovek-stali-uchastnikami-meropriyatij-edinoj-rossii-priurochennyh-ko-dnyu-beremennyh)
+[![Об особенностях федерального бюджета на 2025-2027 годы. Статья Андрея Исаева](https://cdn.er.ru/media/news/October2024/nJIyfAvT8w62p8GFdyDG-small.jpg)](https://er.ru/activity/news/ob-osobennostyah-federalnogo-byudzheta-na-2025-2027-gody-statya-andreya-isaeva)
 
-[Более 4,5 тысяч человек стали участниками мероприятий «Единой России», приуроченных ко Дню беременных](https://er.ru/activity/news/bolee-4-5-tysyach-chelovek-stali-uchastnikami-meropriyatij-edinoj-rossii-priurochennyh-ko-dnyu-beremennyh)
+[Об особенностях федерального бюджета на 2025-2027 годы. Статья Андрея Исаева](https://er.ru/activity/news/ob-osobennostyah-federalnogo-byudzheta-na-2025-2027-gody-statya-andreya-isaeva)
 
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#беременные](https://er.ru/activity/news?tags%5B0%5D=122919) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101)
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
-08.10.24
-
-[![«Единая Россия» доставила 35 тонн гуманитарной помощи жителям Белгородской области](https://cdn.er.ru/media/news/October2024/TZS3OBfOFK0Hxopr60Mp-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dostavila-35-tonn-gumanitarnoj-pomoshi-zhitelyam-belgorodskoj-oblasti)
-
-[«Единая Россия» доставила 35 тонн гуманитарной помощи жителям Белгородской области](https://er.ru/activity/news/edinaya-rossiya-dostavila-35-tonn-gumanitarnoj-pomoshi-zhitelyam-belgorodskoj-oblasti)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#Владимирская область](https://er.ru/activity/news?tags%5B0%5D=1233) [#Смоленская область](https://er.ru/activity/news?tags%5B0%5D=285) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#гуманитарнаяпомощь](https://er.ru/activity/news?tags%5B0%5D=134793) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-08.10.24
-
-[![«Единая Россия» предложила расширить меры поддержки социальных предпринимателей](https://cdn.er.ru/media/news/October2024/WaLx8NrTuPmhBsMtITev-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predlozhila-rasshirit-mery-podderzhki-socialnyh-predprinimatelej)
-
-[«Единая Россия» предложила расширить меры поддержки социальных предпринимателей](https://er.ru/activity/news/edinaya-rossiya-predlozhila-rasshirit-mery-podderzhki-socialnyh-predprinimatelej)
-
-[#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#социальноепредпринимательство](https://er.ru/activity/news?tags%5B0%5D=124857) [#реклама](https://er.ru/activity/news?tags%5B0%5D=860) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#льготы](https://er.ru/activity/news?tags%5B0%5D=328)
-
-08.10.24
-
-[![«Единая Россия» проводит неделю приёмов граждан по вопросам защиты прав в трудовой сфере](https://cdn.er.ru/media/news/October2024/vsm6kvCVr5ogxD10W7Lo-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zashity-prav-v-trudovoj-sfere)
-
-[«Единая Россия» проводит неделю приёмов граждан по вопросам защиты прав в трудовой сфере](https://er.ru/activity/news/edinaya-rossiya-provodit-nedelyu-priyomov-grazhdan-po-voprosam-zashity-prav-v-trudovoj-sfere)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#неделяприемов](https://er.ru/activity/news?tags%5B0%5D=113281) [#трудовоезаконодательство](https://er.ru/activity/news?tags%5B0%5D=125198) [#защитаправ](https://er.ru/activity/news?tags%5B0%5D=127357) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
-
-08.10.24
-
-[![«Единая Россия» предлагает изменить подход к подготовке специалистов для биоэкономики](https://cdn.er.ru/media/news/October2024/KqvwGgMNxZrM0BDUwgL3-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predlagaet-izmenit-podhod-k-podgotovke-specialistov-dlya-bioekonomiki)
-
-[«Единая Россия» предлагает изменить подход к подготовке специалистов для биоэкономики](https://er.ru/activity/news/edinaya-rossiya-predlagaet-izmenit-podhod-k-podgotovke-specialistov-dlya-bioekonomiki)
-
-[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#биоэкономика](https://er.ru/activity/news?tags%5B0%5D=60346) [#круглыйстол](https://er.ru/activity/news?tags%5B0%5D=108586) [#наука](https://er.ru/activity/news?tags%5B0%5D=354) [#цифровыетехнологии](https://er.ru/activity/news?tags%5B0%5D=114340)
-
-07.10.24
+Сегодня 09:00
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
