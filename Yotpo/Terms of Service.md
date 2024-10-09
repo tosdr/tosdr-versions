@@ -352,7 +352,7 @@ Sign up for weekly email & SMS inspiration by marketers, for marketers.
 
 [](https://www.yotpo.com/)
 
-Interested in **Yotpo**?
+Interested in Yotpo?
 
 Schedule a call with one of our eCommerce experts to learn more.
 
