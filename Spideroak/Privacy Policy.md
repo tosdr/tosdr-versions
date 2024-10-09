@@ -1,50 +1,22 @@
-[![SpiderOak](https://spideroak.com/wp-content/uploads/2022/10/spider-oak-logo-COLOR-VECTOR.png)![SpiderOak](https://spideroak.com/wp-content/uploads/2022/10/spider-oak-logo-COLOR-VECTOR.png)](https://spideroak.com/)
+[WordPress WooCommerce Themes](https://www.8theme.com/woocommerce-themes/)
 
-* [Home](https://spideroak.com/ "Space Cybersecurity")
+[![SpiderOak](https://spideroak.com/wp-content/uploads/2024/09/SpiderOak-Logo-v202409-white.png)![SpiderOak](https://spideroak.com/wp-content/uploads/2024/09/SpiderOak-Logo-v202409-white.png)](https://spideroak.com/)
+
+* [Home](https://spideroak.com/)
 * [About](https://spideroak.com/about/)
-    
-    * [Advisory Board](https://spideroak.com/about#advisoryboard)
-    * [Careers](https://boards.greenhouse.io/spideroak)
-    * [Team](https://spideroak.com/about#team)
-    
-* [Product](https://spideroak.com/orbitsecure/)
-    
-    * [OrbitSecure](https://spideroak.com/orbitsecure/)
-    
-* [Solutions](https://spideroak.com/solutions/)
-    
-    * [Space Cybersecurity](https://spideroak.com/space/)
-    * [Mission Operations](https://spideroak.com/mission-operations/)
-    * [Remote Sensing](https://spideroak.com/remote-sensing/)
-    * [Space-Based Communications](https://spideroak.com/space-based-communications/)
-    * [Terrestrial Communications and Collaboration](https://spideroak.com/terrestrial-communications-and-collaboration/)
-    
-* [In The News](https://spideroak.com/news)
+* [Product](https://spideroak.com/product/)
+* [In the News](https://spideroak.com/news)
+* [Request a Demo](https://spideroak.com/request-a-demo/)
 
-[![SpiderOak](https://spideroak.com/wp-content/uploads/2022/10/spider-oak-logo-COLOR-VECTOR.png)![SpiderOak](https://spideroak.com/wp-content/uploads/2022/10/spider-oak-logo-COLOR-VECTOR.png)](https://spideroak.com/)
+[![SpiderOak](https://spideroak.com/wp-content/uploads/2024/09/SpiderOak-Logo-v202409-white.png)![SpiderOak](https://spideroak.com/wp-content/uploads/2024/09/SpiderOak-Logo-v202409-white.png)](https://spideroak.com/)
 
-[![SpiderOak](https://spideroak.com/wp-content/uploads/2022/10/spider-oak-logo-COLOR-VECTOR.png)](https://spideroak.com/)
+[![SpiderOak](https://spideroak.com/wp-content/uploads/2024/09/SpiderOak-Logo-v202409-white.png)](https://spideroak.com/)
 
-* [Home](https://spideroak.com/ "Space Cybersecurity")
+* [Home](https://spideroak.com/)
 * [About](https://spideroak.com/about/)
-    
-    * [Advisory Board](https://spideroak.com/about#advisoryboard)
-    * [Careers](https://boards.greenhouse.io/spideroak)
-    * [Team](https://spideroak.com/about#team)
-    
-* [Product](https://spideroak.com/orbitsecure/)
-    
-    * [OrbitSecure](https://spideroak.com/orbitsecure/)
-    
-* [Solutions](https://spideroak.com/solutions/)
-    
-    * [Space Cybersecurity](https://spideroak.com/space/)
-    * [Mission Operations](https://spideroak.com/mission-operations/)
-    * [Remote Sensing](https://spideroak.com/remote-sensing/)
-    * [Space-Based Communications](https://spideroak.com/space-based-communications/)
-    * [Terrestrial Communications and Collaboration](https://spideroak.com/terrestrial-communications-and-collaboration/)
-    
-* [In The News](https://spideroak.com/news)
+* [Product](https://spideroak.com/product/)
+* [In the News](https://spideroak.com/news)
+* [Request a Demo](https://spideroak.com/request-a-demo/)
 
 Privacy Policy
 ==============
@@ -127,53 +99,53 @@ We may revise this Privacy Policy from time to time. The most current version of
 
 We would love to hear from you. SpiderOak welcomes questions, concerns, and feedback about this policy. If you have suggestions for us, let us know at [privacy@spideroak.com](mailto:privacy@spideroak.com).
 
-Secure Your Space Operations
-----------------------------
+Secure interactions and data  
+integrity guaranteed.
+----------------------------------------------------
 
-Contact Our Team to Learn How SpiderOak Can Eliminate the Risk from Your Next Mission
--------------------------------------------------------------------------------------
+Zero-trust security at the edge.
+--------------------------------
 
-[Request a Demo](https://spideroak.com/request-a-demo/)
+[Contact SpiderOak](https://spideroak.com/contact-us)
 
-[![SpiderOak](https://spideroak.com/wp-content/uploads/2022/10/spider-oak-logo-COLOR-VECTOR-300x69.png)](https://spideroak.com/)
+[![SpiderOak](https://spideroak.com/wp-content/uploads/elementor/thumbs/xstore-placeholder-qva7hz9cgkce6gd31t4jvonmo08xsjn6js1srvt9d4.png)](https://spideroak.com/)
 
-#### About
+* [Home](https://spideroak.com/)
+* [About](https://spideroak.com/about/)
+* [Product](https://spideroak.com/product/)
+* [In the News](https://spideroak.com/news)
+* [Request a Demo](https://spideroak.com/request-a-demo/)
 
-[Who Are We](https://spideroak.com/about)  
-[Team](https://spideroak.com/about#team)  
-[Advisory Board](https://spideroak.com/about#advisoryboard)  
-[News](https://spideroak.com/news)  
-[Careers](https://boards.greenhouse.io/spideroak)
+About
 
-#### Support
+* [Overview](https://spideroak.com/about/)
+* [Executive Team](https://spideroak.com/about#team)
+* [Advisory Board](https://spideroak.com/about#advisoryboard)
+* [News](https://spideroak.com/news/)
+* [Careers](https://boards.greenhouse.io/spideroak)
+* [Contact Us](https://spideroak.com/contact-us/)
 
-[Product Release Notes](https://spideroak.com/release-notes/)  
-[Help Center](https://spideroak.support/hc/en-us)  
-[Contact](https://spideroak.support/hc/en-us/requests/new)  
-[Security Response](https://spideroak.com/security-response/)  
-[Transparency Report](https://spideroak.com/transparency/)  
-[Download ONE](https://crossclave.com/opendownload/)
+Support
 
-#### Compliance
+* [Product Release Notes](https://spideroak.com/release-notes/)
+* [Help Center](https://spideroak.support/hc/en-us)
+* [Submit Support Request](https://spideroak.support/hc/en-us/requests/new)
+* [Security Response](https://spideroak.com/security-response/)
+* [Transparency Report](https://spideroak.com/transparency/)
+* [Download One](https://crossclave.com/opendownload/)
 
-[HIPAA Compliance](https://spideroak.com/hipaa/)  
-[Service Agreement](https://spideroak.com/service-agreement/)  
-[Privacy Policy](https://spideroak.com/privacy-policy/)  
-[Terms of Service](https://spideroak.com/terms-of-service/)  
-[Law Enforcement](https://spideroak.com/law-enforcement/)  
-[DMCA Notice Submission](https://spideroak.com/dmca-takedown-notice-submission/)
+Compliance
 
-#### SpiderOak Online
+* [HIPAA Compliance](https://spideroak.com/hipaa/)
+* [Service Agreement](https://spideroak.com/service-agreement/)
+* [Privacy Policy](https://spideroak.com/privacy-policy/)
+* [Terms of Service](https://spideroak.com/terms-of-service/)
+* [Law Enforcement](https://spideroak.com/law-enforcement/)
+* [DMCA Notice Submission](https://spideroak.com/dmca-takedown-notice-submission/)
 
-  
-[LinkedIn](https://www.linkedin.com/company/spideroak-mission-systems/)  
-[Twitter](https://twitter.com/spideroak)  
-[Facebook](https://www.facebook.com/SpiderOak/)  
-[Vimeo](https://vimeo.com/spideroak)
+[![](https://spideroak.com/wp-content/uploads/2024/09/linkedin.png)](https://www.linkedin.com/company/spideroak-mission-systems/) [![](https://spideroak.com/wp-content/uploads/2024/09/x.png)](https://twitter.com/spideroak) [![](https://spideroak.com/wp-content/uploads/2024/09/facebook.png)](https://www.facebook.com/SpiderOak/) [![](https://spideroak.com/wp-content/uploads/2024/09/vimeo.png)](https://vimeo.com/spideroak)
 
-Get in Touch to Request a Demo
-------------------------------
+SpiderOak Inc.  
+All rights reserved.
 
-\[wpforms id=”2098″\]
-
-×
+X
