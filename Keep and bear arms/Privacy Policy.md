@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 513 active visitors** | **Tuesday, October 08, 2024** |
+| **You are 1 of 621 active visitors** | **Wednesday, October 09, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**If you will not fight for the right when you can easily win without bloodshed, if you will not fight when your victory will be sure and not too costly, you may come to the moment when you will have to fight with all the odds against you and only a small chance of survival. There may even be a worse case: you may have to fight when there is no hope of victory, because it is better to perish than to live as slaves. � Winston Churchill
+ **QUOTES TO REMEMBER**No man has a natural right to commit aggression on the equal rights of another, and this is all from which the laws ought to restrain him. � Thomas Jefferson
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
