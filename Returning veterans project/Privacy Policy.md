@@ -191,11 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![John Olenski](https://cdn.returningveterans.org/images/honor/JohnOlenski_Navy_WWII.JPG)  
+![Richard (Dick) Palermo](https://cdn.returningveterans.org/images/honor/Dick_s_Promo__2_.jpg)  
 
-**In Honor of John Olenski**  
-United States Navy  
-Submitted by Matt Olenski](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of Richard (Dick) Palermo**  
+United States Army  
+Submitted by Peter Palermo](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/08/24 - 8:33:36  
+Printed 10/09/24 - 2:25:33  
 © 2024 Returning Veterans Project
