@@ -94,9 +94,9 @@ To update our software, you can directly navigate to our official website to dow
 
 * Products
     * [AI Video Editor](https://www.audkit.com/video-editor.html)
-    * [Video Converter](https://www.audkit.com/video-converter.html)
-    * [Audio Recorder](https://www.audkit.com/audio-recorder.html)
-    * [Audio Converter](https://www.audkit.com/audio-converter.html)
+    * [AI Video Converter](https://www.audkit.com/video-converter.html)
+    * [AI Audio Recorder](https://www.audkit.com/audio-recorder.html)
+    * [AI Audio Converter](https://www.audkit.com/audio-converter.html)
 * Store & Support
     * [Store](https://www.audkit.com/store-center.html)
     * [Download Center](https://www.audkit.com/download-center.html)
