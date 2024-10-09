@@ -5,7 +5,7 @@ Bob Barker Company uses cookies and other similar technologies. By using this we
 
 ×
 
-[![Bob Barker](https://www.bobbarker.com/sca-dev-2024-1-0//extensions/SC/Summit/3.0.2/img/BBC_Logo_web_215x44.png)](https://www.bobbarker.com/ "Bob Barker")
+[![Bob Barker](https://www.bobbarker.com/sca-dev-2024-1-0/extensions/SC/Summit/3.5.7/img/BBC_Logo_web_215x44.png)](https://www.bobbarker.com/ "Bob Barker")
 
 * [Quote Request Form:](# "Quote Request Form:")
 * [Quick Order](# "Quick Order")
