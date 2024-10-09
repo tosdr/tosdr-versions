@@ -106,16 +106,17 @@ Public Notices
 * [Subscribe](https://www.thesheridanpress.com/subscribe)
 * [Manage Service](https://www.thesheridanpress.com/users/admin/service/)
 
-[![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/custom/image/95cd45de-f056-11ee-9067-1fb0199d8361.png?resize=200%2C34)](https://www.thesheridanpress.com/)
+[![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/assets/v3/media/e/c6/ec6c737e-8683-11ef-b4ec-3fcb35dcb5c4/6706f2f7aeaaf.image.jpg?resize=200%2C33)](https://www.thesheridanpress.com/)
 
-**Your Community, Your News, Your Way!**
-----------------------------------------
+[Support Elk Fire Relief](https://bit.ly/elkfirerelief2024)
 
-[Contact Us!](https://www.thesheridanpress.com/site/forms/)
+[Contact Us!](https://www.thesheridanpress.com/site/forms)
+
+[Place a Classified Ad!](https://www.thesheridanpress.com/place_an_ad/)
 
 Toggle navigation
 
-[![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/assets/v3/media/f/1d/f1d7b3f8-f053-11ee-83a7-7f01830cde19/660af9f685705.image.png?resize=200%2C131)](https://www.thesheridanpress.com/)
+[![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/assets/v3/media/2/0c/20c5d7e6-8684-11ef-a105-d722a77a8d71/6706f34f84933.image.jpg?resize=200%2C200)](https://www.thesheridanpress.com/)
 
 * *       
         
