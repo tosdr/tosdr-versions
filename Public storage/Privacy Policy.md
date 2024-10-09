@@ -445,9 +445,9 @@ New York NY 10128-6804](https://www.publicstorage.com/self-storage-ny-new-york/5
 
 Self Storage Near
 
-[504 Jane St
+[385 Gerard Ave
 
-Fort Lee NJ 07024-2549](https://www.publicstorage.com/self-storage-nj-fort-lee/6129.html?showUnits=false)
+Bronx NY 10451-5441](https://www.publicstorage.com/self-storage-ny-bronx/2279.html?showUnits=false)
 
 Public Storage is the leading provider of storage units for your personal, business and vehicle needs with thousands of locations nationwide. We offer a wide variety of units and sizes available with no obligation and no long-term commitment. Call today at 800-688-8057 for a free reservation and get your first month's rent for just $1.
 
