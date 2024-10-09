@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-car-covers-to-protect-your-car-from-the-hazards-of-outdoor-parking/)
+    
+    [The Best Car Covers to Protect Your Car from the Hazards of Outdoor Parking](https://www.coolthings.com/the-best-car-covers-to-protect-your-car-from-the-hazards-of-outdoor-parking/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/brio-kitchen-box-standalone-campsite-kitchen-aluminum-storage/)
     
     [Brio Kitchen Box Transforms into a Standalone Campsite Kitchen](https://www.coolthings.com/brio-kitchen-box-standalone-campsite-kitchen-aluminum-storage/)
@@ -52,11 +57,6 @@
     
     [The Kobalt LED Flashlight & Charging Holster Automatically Charges Your Flashlight When It’s Docked](https://www.coolthings.com/kobalt-led-flashlight-charging-holster-2500-lumens/)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/bose-soundlink-home-portable-speaker-bluetooth-stereo-pairing/)
-    
-    [Bose SoundLink Home May Be the Most Stylish Portable Speaker We’ve Seen](https://www.coolthings.com/bose-soundlink-home-portable-speaker-bluetooth-stereo-pairing/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
