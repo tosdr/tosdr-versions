@@ -208,6 +208,7 @@ About us
 * [Success Stories](https://www.holded.com/success-cases)
 * [Work with us](https://holded.recruitee.com/)
 * [Solutions for developers](https://developers.holded.com/reference/api-key)
+* [Whistleblowing Channel](https://www.visma.com/whistleblowing)
 
 Resources
 
@@ -255,6 +256,7 @@ About us* [Get in touch](https://www.holded.com/contact)
 * [Success Stories](https://www.holded.com/success-cases)
 * [Work with us](https://holded.recruitee.com/)
 * [Solutions for developers](https://developers.holded.com/reference/api-key)
+* [Whistleblowing Channel](https://www.visma.com/whistleblowing)
 
 Resources* [Blog](https://www.holded.com/blog)
 * [YouTube](https://www.youtube.com/channel/UCboTKh0w0lkIGnznEVjATPg)
