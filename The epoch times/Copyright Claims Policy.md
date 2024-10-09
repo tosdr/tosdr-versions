@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Hurricane Milton Maintains Strength, Grinds Toward Tampa](https://www.theepochtimes.com/us/hurricane-milton-maintains-strength-grinds-toward-tampa-5738122)
+    
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Hurricane Milton Maintains Strength, Grinds Toward Tampa](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hurricane Milton Maintains Strength, Grinds Toward Tampa](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737822-GettyImages-2177487142KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-milton-maintains-strength-grinds-toward-tampa-5738122)
+* [Hurricane-Ravaged North Carolina Towns Relying on Local Support as They Dig Out From Debris](https://www.theepochtimes.com/us/hurricane-ravaged-north-carolina-towns-relying-on-local-support-as-they-dig-out-from-debris-5737776)
+    
+    NEW By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    
+    [![Hurricane-Ravaged North Carolina Towns Relying on Local Support as They Dig Out From Debris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hurricane-Ravaged North Carolina Towns Relying on Local Support as They Dig Out From Debris](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736507-Helene-Body-Recovery_JF_10062024-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-ravaged-north-carolina-towns-relying-on-local-support-as-they-dig-out-from-debris-5737776)
+* [Iranian Missile Attack Leaves Region on Edge, Wondering What Comes Next](https://www.theepochtimes.com/world/iranian-missile-attack-leaves-region-on-edge-wondering-what-comes-next-5735854)
+    
+    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Iranian Missile Attack Leaves Region on Edge, Wondering What Comes Next](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Iranian Missile Attack Leaves Region on Edge, Wondering What Comes Next](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735024-GettyImages-2175624464-205x123.jpg.webp)](https://www.theepochtimes.com/world/iranian-missile-attack-leaves-region-on-edge-wondering-what-comes-next-5735854)
+* [Harris, Trump Proposals to Add Trillions to National Debt: CRFB Analysis](https://www.theepochtimes.com/business/harris-trump-proposals-to-add-trillions-to-national-debt-crfb-analysis-5737614)
+    
+    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Harris, Trump Proposals to Add Trillions to National Debt: CRFB Analysis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Harris, Trump Proposals to Add Trillions to National Debt: CRFB Analysis](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736344-Trump-Harris-LS-sb_2-205x123.jpg.webp)](https://www.theepochtimes.com/business/harris-trump-proposals-to-add-trillions-to-national-debt-crfb-analysis-5737614)
+* [Judge Denies Deadspin’s Bid to Dismiss Defamation Suit Involving 9-Year-Old Chiefs Fan](https://www.theepochtimes.com/us/judge-denies-deadspins-bid-to-dismiss-defamation-suit-involving-9-year-old-chiefs-fan-5737688)
+    
+    NEW By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    
+    [![Judge Denies Deadspin’s Bid to Dismiss Defamation Suit Involving 9-Year-Old Chiefs Fan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Judge Denies Deadspin’s Bid to Dismiss Defamation Suit Involving 9-Year-Old Chiefs Fan](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737807-Deadspin_Defamation_Lawsuit_24282565150411-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-denies-deadspins-bid-to-dismiss-defamation-suit-involving-9-year-old-chiefs-fan-5737688)
+* [Helicopter Pilot Undertakes Rescue Missions in Hurricane Helene Aftermath](https://www.theepochtimes.com/us/a-helicoper-pilots-philanthropic-efforts-devoted-to-hurricane-helene-rescue-mission-5737642)
+    
+    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    
+    [![Helicopter Pilot Undertakes Rescue Missions in Hurricane Helene Aftermath](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Helicopter Pilot Undertakes Rescue Missions in Hurricane Helene Aftermath](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737646-gary-heavin-205x123.jpg.webp)](https://www.theepochtimes.com/us/a-helicoper-pilots-philanthropic-efforts-devoted-to-hurricane-helene-rescue-mission-5737642)
 * [Missiles Hit Israeli City of Haifa; Netanyahu Calls on Lebanon to Break With Hezbollah](https://www.theepochtimes.com/world/missiles-hit-israeli-city-of-haifa-netanyahu-calls-on-lebanon-to-break-with-hezbollah-5737839)
     
-    NEW By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    6hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
     [![Missiles Hit Israeli City of Haifa; Netanyahu Calls on Lebanon to Break With Hezbollah](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Missiles Hit Israeli City of Haifa; Netanyahu Calls on Lebanon to Break With Hezbollah](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738044-GettyImages-2176657166-205x123.jpg.webp)](https://www.theepochtimes.com/world/missiles-hit-israeli-city-of-haifa-netanyahu-calls-on-lebanon-to-break-with-hezbollah-5737839)
 * [Brazil’s Supreme Court Orders X to Be Reinstated in Brazil](https://www.theepochtimes.com/us/brazils-supreme-court-orders-x-to-be-reinstated-in-brazil-5737871)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Brazil’s Supreme Court Orders X to Be Reinstated in Brazil](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Brazil’s Supreme Court Orders X to Be Reinstated in Brazil](https://img.theepochtimes.com/assets/uploads/2024/09/04/id5718256-GettyImages-2147789842KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/brazils-supreme-court-orders-x-to-be-reinstated-in-brazil-5737871)
 * [Some Mass Shooting Survivors Want More Good Guys With Guns](https://www.theepochtimes.com/us/some-mass-shooting-survivors-want-more-good-guys-with-guns-5736474)
     
-    2hr By [Michael Clements](https://www.theepochtimes.com/author/michael-clements)
+    8hr By [Michael Clements](https://www.theepochtimes.com/author/michael-clements)
     
     [![Some Mass Shooting Survivors Want More Good Guys With Guns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Some Mass Shooting Survivors Want More Good Guys With Guns](https://img.theepochtimes.com/assets/uploads/2020/02/11/GettyImages-872259694-205x123.jpg.webp)](https://www.theepochtimes.com/us/some-mass-shooting-survivors-want-more-good-guys-with-guns-5736474)
 * [Afghan National Arrested in Oklahoma for Alleged ISIS-Linked Election Day Attack Plot](https://www.theepochtimes.com/us/afghan-national-arrested-in-oklahoma-for-alleged-isis-linked-election-day-attack-plot-5737971)
     
-    2hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    8hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
     [![Afghan National Arrested in Oklahoma for Alleged ISIS-Linked Election Day Attack Plot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Afghan National Arrested in Oklahoma for Alleged ISIS-Linked Election Day Attack Plot](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738032-FBI-arrest-AP24283022504847-205x123.jpg.webp)](https://www.theepochtimes.com/us/afghan-national-arrested-in-oklahoma-for-alleged-isis-linked-election-day-attack-plot-5737971)
-* [Netanyahu Says Israel Has Killed Hezbollah’s Newest Leader](https://www.theepochtimes.com/world/netanyahu-says-israel-has-killed-hezbollahs-newest-leader-5737817)
-    
-    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Netanyahu Says Israel Has Killed Hezbollah’s Newest Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Netanyahu Says Israel Has Killed Hezbollah’s Newest Leader](https://img.theepochtimes.com/assets/uploads/2024/08/05/id5699712-Netanyahu-AP24217713864965-205x123.jpg.webp)](https://www.theepochtimes.com/world/netanyahu-says-israel-has-killed-hezbollahs-newest-leader-5737817)
-* [Floridians Scurry to Prepare for Second Hurricane Hit in Two Weeks](https://www.theepochtimes.com/us/floridians-scurry-to-prepare-for-second-hurricane-hit-in-two-weeks-5737661)
-    
-    4hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey), [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro), [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom) and [Nanette Holt](https://www.theepochtimes.com/author/nanette-holt)
-    
-    [![Floridians Scurry to Prepare for Second Hurricane Hit in Two Weeks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Floridians Scurry to Prepare for Second Hurricane Hit in Two Weeks](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738018-Florida-Milton-GettyImages-2176761943-205x123.jpg.webp)](https://www.theepochtimes.com/us/floridians-scurry-to-prepare-for-second-hurricane-hit-in-two-weeks-5737661)
-* [Human Life Expectancy Has Likely Maxed Out](https://www.theepochtimes.com/health/human-life-expectancy-has-likely-maxed-out-5737600)
-    
-    5hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
-    
-    [![Human Life Expectancy Has Likely Maxed Out](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Human Life Expectancy Has Likely Maxed Out](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737966-shutterstock_349142378_aging_society_people_crowd_society-205x123.jpg.webp)](https://www.theepochtimes.com/health/human-life-expectancy-has-likely-maxed-out-5737600)
-* [Day in Photos: Nobel Peace Prize, a 22-Mile Detour, and Aurora Australis](https://www.theepochtimes.com/article/day-in-photos-harriss-new-plan-nobel-peace-prize-and-22-mile-detour-5737576)
-    
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Nobel Peace Prize, a 22-Mile Detour, and Aurora Australis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Nobel Peace Prize, a 22-Mile Detour, and Aurora Australis](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737897-GettyImages-2177433683-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-harriss-new-plan-nobel-peace-prize-and-22-mile-detour-5737576)
-* [From Hawaii to Florida, Tracing Ryan Routh’s Path to Attempted Trump Assassination](https://www.theepochtimes.com/article/tracing-accused-gunmans-path-to-trump-golf-course-5734884)
-    
-    6hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle), [Savannah Hulsey Pointer](https://www.theepochtimes.com/author/savannah-pointer) and [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
-    
-    [![From Hawaii to Florida, Tracing Ryan Routh’s Path to Attempted Trump Assassination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![From Hawaii to Florida, Tracing Ryan Routh’s Path to Attempted Trump Assassination](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737903-Routh-path-12-205x123.jpg.webp)](https://www.theepochtimes.com/article/tracing-accused-gunmans-path-to-trump-golf-course-5734884)
-* [Broccoli May Help Prevent Cancer—Here’s How to Get It Into Your Diet](https://www.theepochtimes.com/health/nutrient-packed-vegetable-may-prevent-cancer-how-to-get-it-into-your-diet-5725004)
-    
-    6hr By [Zena le Roux](https://www.theepochtimes.com/author/zena-le-roux)
-    
-    [![Broccoli May Help Prevent Cancer—Here’s How to Get It Into Your Diet](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Broccoli May Help Prevent Cancer—Here’s How to Get It Into Your Diet](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729439-shutterstock_1973613086-205x123.jpg.webp)](https://www.theepochtimes.com/health/nutrient-packed-vegetable-may-prevent-cancer-how-to-get-it-into-your-diet-5725004)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
