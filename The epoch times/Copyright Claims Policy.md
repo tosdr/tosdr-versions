@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Harris Announces New Plan Requiring Medicare to Cover Home Care for Seniors](https://www.theepochtimes.com/us/harris-announces-new-plan-requiring-medicare-to-cover-home-care-for-seniors-5737710)
+* [Missiles Hit Israeli City of Haifa; Netanyahu Calls on Lebanon to Break With Hezbollah](https://www.theepochtimes.com/world/missiles-hit-israeli-city-of-haifa-netanyahu-calls-on-lebanon-to-break-with-hezbollah-5737839)
     
-    1hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    NEW By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
-    [![Harris Announces New Plan Requiring Medicare to Cover Home Care for Seniors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Missiles Hit Israeli City of Haifa; Netanyahu Calls on Lebanon to Break With Hezbollah](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Announces New Plan Requiring Medicare to Cover Home Care for Seniors](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737913-GettyImages-2176682520-2-205x123.jpg)](https://www.theepochtimes.com/us/harris-announces-new-plan-requiring-medicare-to-cover-home-care-for-seniors-5737710)
-* [Helene-Hit States Making Few Election-Rule Changes in Storm’s Wake](https://www.theepochtimes.com/us/helene-hit-states-making-few-election-rule-changes-in-storms-wake-5737243)
+    ![Missiles Hit Israeli City of Haifa; Netanyahu Calls on Lebanon to Break With Hezbollah](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738044-GettyImages-2176657166-205x123.jpg.webp)](https://www.theepochtimes.com/world/missiles-hit-israeli-city-of-haifa-netanyahu-calls-on-lebanon-to-break-with-hezbollah-5737839)
+* [Brazil’s Supreme Court Orders X to Be Reinstated in Brazil](https://www.theepochtimes.com/us/brazils-supreme-court-orders-x-to-be-reinstated-in-brazil-5737871)
     
-    3hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Helene-Hit States Making Few Election-Rule Changes in Storm’s Wake](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Brazil’s Supreme Court Orders X to Be Reinstated in Brazil](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Helene-Hit States Making Few Election-Rule Changes in Storm’s Wake](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737726-Helene-Damage-11_JF_10052024KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/helene-hit-states-making-few-election-rule-changes-in-storms-wake-5737243)
-* [Dozens of States Sue TikTok, Alleging Addictive Features for Youth](https://www.theepochtimes.com/tech/dozens-of-states-sue-tiktok-5737587)
+    ![Brazil’s Supreme Court Orders X to Be Reinstated in Brazil](https://img.theepochtimes.com/assets/uploads/2024/09/04/id5718256-GettyImages-2147789842KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/brazils-supreme-court-orders-x-to-be-reinstated-in-brazil-5737871)
+* [Some Mass Shooting Survivors Want More Good Guys With Guns](https://www.theepochtimes.com/us/some-mass-shooting-survivors-want-more-good-guys-with-guns-5736474)
     
-    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    2hr By [Michael Clements](https://www.theepochtimes.com/author/michael-clements)
     
-    [![Dozens of States Sue TikTok, Alleging Addictive Features for Youth](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Some Mass Shooting Survivors Want More Good Guys With Guns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Dozens of States Sue TikTok, Alleging Addictive Features for Youth](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721855-EpochImages-8212753885-xl-205x123.jpg.webp)](https://www.theepochtimes.com/tech/dozens-of-states-sue-tiktok-5737587)
-* [FEMA Director: We Have Enough Money for Hurricane Milton, Not Rest of Year](https://www.theepochtimes.com/us/fema-director-we-have-enough-money-for-hurricane-milton-not-rest-of-year-5737629)
+    ![Some Mass Shooting Survivors Want More Good Guys With Guns](https://img.theepochtimes.com/assets/uploads/2020/02/11/GettyImages-872259694-205x123.jpg.webp)](https://www.theepochtimes.com/us/some-mass-shooting-survivors-want-more-good-guys-with-guns-5736474)
+* [Afghan National Arrested in Oklahoma for Alleged ISIS-Linked Election Day Attack Plot](https://www.theepochtimes.com/us/afghan-national-arrested-in-oklahoma-for-alleged-isis-linked-election-day-attack-plot-5737971)
     
-    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    2hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
-    [![FEMA Director: We Have Enough Money for Hurricane Milton, Not Rest of Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Afghan National Arrested in Oklahoma for Alleged ISIS-Linked Election Day Attack Plot](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FEMA Director: We Have Enough Money for Hurricane Milton, Not Rest of Year](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737680-08302023-DSC09931-Deanne-Criswell-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-director-we-have-enough-money-for-hurricane-milton-not-rest-of-year-5737629)
-* [Supreme Court Weighs Case Over Biden Admin’s ‘Ghost Gun’ Regulations](https://www.theepochtimes.com/us/supreme-court-hears-case-over-biden-admins-ghost-gun-regulations-5737537)
+    ![Afghan National Arrested in Oklahoma for Alleged ISIS-Linked Election Day Attack Plot](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738032-FBI-arrest-AP24283022504847-205x123.jpg.webp)](https://www.theepochtimes.com/us/afghan-national-arrested-in-oklahoma-for-alleged-isis-linked-election-day-attack-plot-5737971)
+* [Netanyahu Says Israel Has Killed Hezbollah’s Newest Leader](https://www.theepochtimes.com/world/netanyahu-says-israel-has-killed-hezbollahs-newest-leader-5737817)
     
-    6hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Supreme Court Weighs Case Over Biden Admin’s ‘Ghost Gun’ Regulations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Netanyahu Says Israel Has Killed Hezbollah’s Newest Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Weighs Case Over Biden Admin’s ‘Ghost Gun’ Regulations](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5737042-10072024-DSC03085-SCOTUS-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-hears-case-over-biden-admins-ghost-gun-regulations-5737537)
-* [IRS Reminds Taxpayers of October Filing Deadline](https://www.theepochtimes.com/us/irs-reminds-taxpayers-of-october-filing-deadline-5737596)
+    ![Netanyahu Says Israel Has Killed Hezbollah’s Newest Leader](https://img.theepochtimes.com/assets/uploads/2024/08/05/id5699712-Netanyahu-AP24217713864965-205x123.jpg.webp)](https://www.theepochtimes.com/world/netanyahu-says-israel-has-killed-hezbollahs-newest-leader-5737817)
+* [Floridians Scurry to Prepare for Second Hurricane Hit in Two Weeks](https://www.theepochtimes.com/us/floridians-scurry-to-prepare-for-second-hurricane-hit-in-two-weeks-5737661)
     
-    6hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    4hr By [John Haughey](https://www.theepochtimes.com/author/john-haughey), [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro), [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom) and [Nanette Holt](https://www.theepochtimes.com/author/nanette-holt)
     
-    [![IRS Reminds Taxpayers of October Filing Deadline](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Floridians Scurry to Prepare for Second Hurricane Hit in Two Weeks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![IRS Reminds Taxpayers of October Filing Deadline](https://img.theepochtimes.com/assets/uploads/2024/02/12/id5585904-01042024-DSC06055-IRSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/irs-reminds-taxpayers-of-october-filing-deadline-5737596)
-* [SEC, DOJ Raise Objections to EV Maker Fisker’s Bankruptcy Proceedings](https://www.theepochtimes.com/us/sec-doj-raise-objections-to-ev-maker-fiskers-bankruptcy-proceedings-5737480)
+    ![Floridians Scurry to Prepare for Second Hurricane Hit in Two Weeks](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738018-Florida-Milton-GettyImages-2176761943-205x123.jpg.webp)](https://www.theepochtimes.com/us/floridians-scurry-to-prepare-for-second-hurricane-hit-in-two-weeks-5737661)
+* [Human Life Expectancy Has Likely Maxed Out](https://www.theepochtimes.com/health/human-life-expectancy-has-likely-maxed-out-5737600)
     
-    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    5hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
     
-    [![SEC, DOJ Raise Objections to EV Maker Fisker’s Bankruptcy Proceedings](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Human Life Expectancy Has Likely Maxed Out](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![SEC, DOJ Raise Objections to EV Maker Fisker’s Bankruptcy Proceedings](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737783-2021-11-17T175633Z_1_LYNXMPEHAG121_RTROPTP_4_AUTOSHOW-LOS-ANGELES-LS-205x123.webp)](https://www.theepochtimes.com/us/sec-doj-raise-objections-to-ev-maker-fiskers-bankruptcy-proceedings-5737480)
-* [Costco Gold Bars Are Selling Out Even as Prices Surge, Survey Finds](https://www.theepochtimes.com/business/costco-gold-bars-are-selling-out-even-as-prices-surge-survey-finds-5737574)
+    ![Human Life Expectancy Has Likely Maxed Out](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737966-shutterstock_349142378_aging_society_people_crowd_society-205x123.jpg.webp)](https://www.theepochtimes.com/health/human-life-expectancy-has-likely-maxed-out-5737600)
+* [Day in Photos: Nobel Peace Prize, a 22-Mile Detour, and Aurora Australis](https://www.theepochtimes.com/article/day-in-photos-harriss-new-plan-nobel-peace-prize-and-22-mile-detour-5737576)
     
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Costco Gold Bars Are Selling Out Even as Prices Surge, Survey Finds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Nobel Peace Prize, a 22-Mile Detour, and Aurora Australis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Costco Gold Bars Are Selling Out Even as Prices Surge, Survey Finds](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737777-Costco-Wholesale_220304-e1646426711766-LS-205x123.webp)](https://www.theepochtimes.com/business/costco-gold-bars-are-selling-out-even-as-prices-surge-survey-finds-5737574)
-* [Third-Quarter Earnings Season Is Here—What You Need to Know](https://www.theepochtimes.com/business/third-quarter-earnings-season-is-here-what-you-need-to-know-5737521)
+    ![Day in Photos: Nobel Peace Prize, a 22-Mile Detour, and Aurora Australis](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737897-GettyImages-2177433683-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-harriss-new-plan-nobel-peace-prize-and-22-mile-detour-5737576)
+* [From Hawaii to Florida, Tracing Ryan Routh’s Path to Attempted Trump Assassination](https://www.theepochtimes.com/article/tracing-accused-gunmans-path-to-trump-golf-course-5734884)
     
-    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    6hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle), [Savannah Hulsey Pointer](https://www.theepochtimes.com/author/savannah-pointer) and [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
-    [![Third-Quarter Earnings Season Is Here—What You Need to Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![From Hawaii to Florida, Tracing Ryan Routh’s Path to Attempted Trump Assassination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Third-Quarter Earnings Season Is Here—What You Need to Know](https://img.theepochtimes.com/assets/uploads/2024/08/07/id5701536-Financial_Markets_Wall_Street_24219512545805-SB-205x123.jpg.webp)](https://www.theepochtimes.com/business/third-quarter-earnings-season-is-here-what-you-need-to-know-5737521)
-* [Russian Forces Breach Outskirts of Frontline Town in Donetsk: Ukrainian Military](https://www.theepochtimes.com/world/russian-forces-breach-outskirts-of-frontline-town-in-donetsk-ukrainian-military-5737482)
+    ![From Hawaii to Florida, Tracing Ryan Routh’s Path to Attempted Trump Assassination](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737903-Routh-path-12-205x123.jpg.webp)](https://www.theepochtimes.com/article/tracing-accused-gunmans-path-to-trump-golf-course-5734884)
+* [Broccoli May Help Prevent Cancer—Here’s How to Get It Into Your Diet](https://www.theepochtimes.com/health/nutrient-packed-vegetable-may-prevent-cancer-how-to-get-it-into-your-diet-5725004)
     
-    7hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    6hr By [Zena le Roux](https://www.theepochtimes.com/author/zena-le-roux)
     
-    [![Russian Forces Breach Outskirts of Frontline Town in Donetsk: Ukrainian Military](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Broccoli May Help Prevent Cancer—Here’s How to Get It Into Your Diet](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Russian Forces Breach Outskirts of Frontline Town in Donetsk: Ukrainian Military](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737677-Ukraine-war-GettyImages-1243913126-LS-205x123.webp)](https://www.theepochtimes.com/world/russian-forces-breach-outskirts-of-frontline-town-in-donetsk-ukrainian-military-5737482)
+    ![Broccoli May Help Prevent Cancer—Here’s How to Get It Into Your Diet](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729439-shutterstock_1973613086-205x123.jpg.webp)](https://www.theepochtimes.com/health/nutrient-packed-vegetable-may-prevent-cancer-how-to-get-it-into-your-diet-5725004)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
