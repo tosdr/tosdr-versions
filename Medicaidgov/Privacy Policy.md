@@ -327,12 +327,7 @@ MainMenu
     * [Benefits](https://www.medicaid.gov/chip/benefits/index.html)
     * [CCTAG](https://www.medicaid.gov/chip/cctag/index.html)
     * [Cost Sharing](https://www.medicaid.gov/chip/chip-cost-sharing/index.html)
-    * Eligibility Standards
-        
-        [View all in Eligibility Standards](https://www.medicaid.gov/chip/eligibility/index.html)
-        
-        * [Waiting Periods](https://www.medicaid.gov/chip/eligibility-standards/waiting-periods-chip/index.html)
-        * [Continuous Eligibility (CE)](https://www.medicaid.gov/chip/eligibility/continuous-eligibility/index.html)
+    * [CHIP Eligibility & Enrollment](https://www.medicaid.gov/chip/chip-eligibility-enrollment/index.html)
     * [Financing](https://www.medicaid.gov/chip/financing/index.html)
     * [CHIP Managed Care](https://www.medicaid.gov/chip/chip-managed-care/index.html)
     * [CHIP Quality & Performance](https://www.medicaid.gov/chip/chip-quality-performance/index.html)
@@ -668,12 +663,7 @@ MainMenu Desktop
     * [Benefits](https://www.medicaid.gov/chip/benefits/index.html)
     * [CCTAG](https://www.medicaid.gov/chip/cctag/index.html)
     * [Cost Sharing](https://www.medicaid.gov/chip/chip-cost-sharing/index.html)
-    * Eligibility Standards
-        
-        [View all in Eligibility Standards](https://www.medicaid.gov/chip/eligibility/index.html)
-        
-        * [Waiting Periods](https://www.medicaid.gov/chip/eligibility-standards/waiting-periods-chip/index.html)
-        * [Continuous Eligibility (CE)](https://www.medicaid.gov/chip/eligibility/continuous-eligibility/index.html)
+    * [CHIP Eligibility & Enrollment](https://www.medicaid.gov/chip/chip-eligibility-enrollment/index.html)
     * [Financing](https://www.medicaid.gov/chip/financing/index.html)
     * [CHIP Managed Care](https://www.medicaid.gov/chip/chip-managed-care/index.html)
     * [CHIP Quality & Performance](https://www.medicaid.gov/chip/chip-quality-performance/index.html)
