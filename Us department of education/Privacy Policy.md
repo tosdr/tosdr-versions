@@ -177,7 +177,7 @@ A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connect
     
     [Additional Laws and Policy](https://www2.ed.gov/laws-and-policy/adult-education-laws-and-policy)
     
-    * [Student Records and Privacy](https://www2.ed.gov/laws-and-policy/ferpa/ferpa-overview)
+    * [Student Records and Privacy](https://studentprivacy.ed.gov/)
     * [Education Policy](https://www2.ed.gov/laws-and-policy/education-policy)
     
 
@@ -350,7 +350,7 @@ February 2, 2017
     * [1098 Tax Forms](https://www2.ed.gov/higher-education/manage-your-loans/_098-e-tax-form)
 * [Educational Resources](https://www2.ed.gov/birth-to-grade-12-education/resources-families)
     * [504 Plans](https://www2.ed.gov/laws-and-policy/individuals-disabilities/section-504)
-    * [FERPA](https://www2.ed.gov/laws-and-policy/ferpa/ferpa-overview)
+    * [FERPA](https://studentprivacy.ed.gov/ferpa)
     * [IEPs (Individualized Education Program)](https://sites.ed.gov/idea/topic-areas/#IEP)
 * [Teaching Resources](https://www2.ed.gov/teaching-and-administration/teaching-resources)
     * [Become a Teacher](https://cte.ed.gov/unlocking-career-success/take-action/teachers)
