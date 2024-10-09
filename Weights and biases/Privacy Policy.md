@@ -147,6 +147,9 @@
 
 [Sign up](https://app.wandb.ai/login?signup=true&_gl=1*1njlh40*_ga*MjAzMDY0NTMxOC4xNjg2NzMzODEw*_ga_JH1SJHJQXJ*MTY5MDk5MDgxNS4xMjEuMS4xNjkwOTkxMDExLjYwLjAuMA..)
 
+* [ja](https://wandb.ai/site/ja/privacy/)
+* [en](https://wandb.ai/site/privacy)
+
 ### [Weights & Biases Legal](https://wandb.ai/site/legal-home)
 
 * [Website Terms of Use](https://wandb.ai/site/website-terms-of-use)
