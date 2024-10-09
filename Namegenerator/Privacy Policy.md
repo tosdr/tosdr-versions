@@ -22,6 +22,22 @@ Menu
 
 Popular tools
 
+[Full Names](https://namegenerator.com/people/full)[Ship Names](https://namegenerator.com/people/ship)[First Names](https://namegenerator.com/people/first)[Usernames
+
+AI](https://namegenerator.com/people/username)[City Names
+
+AI](https://namegenerator.com/place/city)[Last Names](https://namegenerator.com/people/last)[God Names
+
+AI](https://namegenerator.com/fiction/god)[Brand Names
+
+AI](https://namegenerator.com/business/brand)[Clan Names
+
+AI](https://namegenerator.com/people/clan)[Generative Names](https://namegenerator.com/people/generative)[Demon Names
+
+AI](https://namegenerator.com/fiction/demon)[Company Names
+
+AI](https://namegenerator.com/business/company)
+
 Terms and Privacy Policy
 ========================
 
