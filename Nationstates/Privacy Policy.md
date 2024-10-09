@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: The Last Month (11,001)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: The Last Month" (11,001 posts)")
-* [How dangerous is AN to world peace? (496)](https://forum.nationstates.net/viewtopic.php?t=554384&f=25&view=unread#unread ""How dangerous is AN to world peace?" (496 posts)")
-* [Internal and International Incidents… (2,652)](https://forum.nationstates.net/viewtopic.php?t=525793&f=5&view=unread#unread ""Internal and International Incidents [IC • OPEN]" (2,652 posts)")
-* [Flirting vs Harassment in courtship (398)](https://forum.nationstates.net/viewtopic.php?t=556589&f=20&view=unread#unread ""Flirting vs Harassment in courtship" (398 posts)")
-* [Ukrainian War VII: Everything has a p… (6,384)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (6,384 posts)")
+* [Australians protesting in favour of H… (310)](https://forum.nationstates.net/viewtopic.php?t=556236&f=20&view=unread#unread ""Australians protesting in favour of Hezbollah and Hamas" (310 posts)")
+* [Based on AN flag, what do they export… (450)](https://forum.nationstates.net/viewtopic.php?t=551783&f=25&view=unread#unread ""Based on AN flag, what do they export? (REVIVAL)" (450 posts)")
+* [The Weather Thread- The Hurricanes ar… (2,799)](https://forum.nationstates.net/viewtopic.php?t=515489&f=20&view=unread#unread ""The Weather Thread- The Hurricanes are Coming!" (2,799 posts)")
+* [What MBTI do you think is AN (48)](https://forum.nationstates.net/viewtopic.php?t=555595&f=25&view=unread#unread ""What MBTI do you think is AN" (48 posts)")
+* [Flag Makers/Requests II (11,584)](https://forum.nationstates.net/viewtopic.php?t=442202&f=12&view=unread#unread ""Flag Makers/Requests II" (11,584 posts)")
 
 Advertisement
 
