@@ -197,61 +197,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
+> Enjoying Invoices Online
 > ------------------------
 > 
-> Thanks Adriaan...
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> I have upgraded to the Gold account in order to support you guys!
 
-Johan Botha - Brand Xplosion
+Shaun Gartshore
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=107440270)  
-Prosper Park
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=113488847)  
+M's Frozen Delights
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=67425442)  
-VIR Electrical (PTY) LTD
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=23132306)  
+Norton Medical & Consult - Namibia
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=44971514)  
-Highlands Auto Engineering
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=42347068)  
+Forgotten Goods (Pty) Ltd
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=76001660)  
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=52463269)  
+Network Grey (Pty) Ltd
+
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=10108034)  
 OXYAIDER (PTY) LTD
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=186554441)  
-Leef in Afrikaans
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=178088249)  
+MONSTER SECURITY SERVICES
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=32147515)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=178216255)  
+MSPCloud (Pty) Ltd
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=24062086)  
-Three Moons Emporium
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=148402719)  
+Goju Ryu Karate Centre
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=48546219)  
-NIMAWELL
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=22120514)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=109758073)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=187139968)  
+Nogana Events and Decor
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=68796211)  
-Fox Alarms & Security CC
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=96579208)  
+#DiGi3 Marketing & Design
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=44463755)  
-West Coast Horse Trails
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=172163009)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client NILBET (PTY) LTD - Once Off's](https://www.invoicesonline.co.za/scripts/image.php?bid=7439&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=90333970)  
-NILBET (PTY) LTD - Once Off's
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=209687524)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=187206223)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=44362518)  
+Depot Diesel (Pty) Ltd
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=149425350)  
-LEO DEVELOPMENT GROUP
-
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=829c0496bd11a739d6e9d37713fa9fa97f156ca0ca722a752b834f043ab2ef93&c=35482139)  
-CGHK Enterprises (PTY) LTD
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=dd108560841b6ccd360b8099ee09428fa974c1c50f8d81db8b45c16f4083880b&c=128969704)  
+Eruca (PTY)Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
