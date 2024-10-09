@@ -1,5 +1,5 @@
 ![](
-https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  100% PURE Privacy Policy                                                                                                   
+https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  100% PURE Privacy Policy                                                                                                  
 
 My Tote
 -------
@@ -478,7 +478,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5288 reviews (5288)
+5289 reviews (5289)
 
 $28.00 $28.00
 
