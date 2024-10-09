@@ -594,8 +594,7 @@ Follow us
 
 ![Deloitte Technology Fast 50 Central Europe 2022](https://cdn.tresorit.com/webv10/dist/gatsby/static/daa0e0c6502fcff4acfb16bcd834eb0f/ba75a/deloitte50.png)
 
-* ![](https://cdn.tresorit.com/webv10/dist/gatsby/static/5d7aba925099f7e42412f1f70b8d19b1/085de/language-icon.png)
-    
+* ![](data:image/svg+xml;charset=utf-8,%3Csvg height='20' width='20' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)
 
 Copyright © 2024 Tresorit. All rights reserved.
 
