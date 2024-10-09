@@ -196,7 +196,7 @@ Menutoggle menu
     * [Careers](https://www.atlantafed.org/about/careers)
         * [Search for Jobs ![offsite link](-/media/CF203F8E38CE4990A9ACF668D2BF25AE.ashx)](https://rb.wd5.myworkdayjobs.com/FRS?hiringCompany=7186c32a743f01bdfedfb3caaf012e0c) 
         * [Well-being](https://www.atlantafed.org/about/careers/benefits)
-        * [Diversity](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion)
+        * [Diversity](https://www.atlantafed.org/banking-and-payments)
         * [Development](https://www.atlantafed.org/about/careers/career-development)
         * [Sustainability](https://www.atlantafed.org/about/atlantafed/sustainability)
         * [Community](https://www.atlantafed.org/about/careers/community-involvement)
