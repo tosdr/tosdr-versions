@@ -72,16 +72,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
+* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
 * [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
+* ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
 * [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
-* [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
-* ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
+* [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
+* ['Look at our suffering!': Gaza's message to the world after a year of genocide](https://therealnews.com/gazas-message-to-the-world-after-a-year-of-genocide)
 
 Close
 
@@ -136,16 +136,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
-* [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
+* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
 * [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
+* ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
 * [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
-* [Dirty Cops, Dirty Data](https://therealnews.com/dirty-cops-dirty-data)
-* ['A land that we own': Palestinian farmers resist Israeli expansion in the West Bank](https://therealnews.com/a-land-that-we-own-palestinian-farmers-resist-israeli-expansion-in-the-west-bank)
+* [With green light from Biden White House, Israel invades Lebanon](https://therealnews.com/with-green-light-from-biden-white-house-israel-invades-lebanon)
+* ['Look at our suffering!': Gaza's message to the world after a year of genocide](https://therealnews.com/gazas-message-to-the-world-after-a-year-of-genocide)
 
 [Skip to content](#main)
 
