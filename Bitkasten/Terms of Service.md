@@ -9,6 +9,11 @@
         
         [Überblick Plattform](https://www.bitkasten.de/bitkasten/)
         
+        [](https://www.bitkasten.de/eidas-rechtssichere-digitale-zustellung/)
+        
+        [Sichere, rechtskonforme Zustellung  
+        (EU Trust Service)](https://www.bitkasten.de/eidas-rechtssichere-digitale-zustellung/)
+        
         [](https://www.bitkasten.de/digitaler-postempfang/)
         
         [Für Empfänger](https://www.bitkasten.de/digitaler-postempfang/)
