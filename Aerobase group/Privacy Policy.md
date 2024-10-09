@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [France kicks off development of wingman drone for Rafale fighter jet](https://www.defensenews.com/global/europe/2024/10/09/france-kicks-off-development-of-wingman-drone-for-rafale-fighter-jet/)  
+    10/09/24 06:34am  
+    
+    A prototype of Dassault's "nEUROn" combat drone flies above the military airport in Istres, in southeastern France, in 2012. (AFP/ Dassault Aviation)
+    
 * [Air Force picks seven new possible homes for KC-46A Pegasus](https://www.defensenews.com/news/your-air-force/2024/10/08/air-force-picks-seven-new-possible-homes-for-kc-46a-pegasus/)  
     10/08/24 11:31am  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     10/07/24 01:03pm  
     
     Hurricane Helene left MacDill Air Force Base in Florida with some temporary flooding, and the base is now bracing for a hit from Hurricane Milton, now a Category 5 storm. (U.S. Air Force)
-    
-* [Can the Air Force make its next-gen fighter jet cheaper than the F-35?](https://www.defensenews.com/air/2024/10/04/can-the-air-force-make-its-next-gen-fighter-jet-cheaper-than-the-f-35/)  
-    10/04/24 08:02am  
-    
-    The Air Forces wants to revamp its next-generation fighter jet plans to get costs below the price tag of an F-35 jet. But outside experts warn a cheapening of the program could lead to its demise. Air Force concept art for the next-gen jet is shown here. (U.S. Air Force Research Laboratory)
     
 
 Recent parts by keyword  
