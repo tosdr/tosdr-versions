@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-New RC Deals Added Daily! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
+October Daily Deals Ending Soon! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/october-daily-deals-9/)
 
  
 
@@ -84,7 +84,7 @@ My store
 
 [](#)
 
-New RC Deals Added Daily! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/)
+October Daily Deals Ending Soon! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/october-daily-deals-9/)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
@@ -281,6 +281,7 @@ My store
         * [RC Battery & Charger Storage](https://www.horizonhobby.com/batteries-and-chargers/battery-storage/)
         * [RC Battery Checkers](https://www.horizonhobby.com/batteries-and-chargers/battery-checkers/)
         * [RC Battery Adapters](https://www.horizonhobby.com/batteries-and-chargers/battery-adapters/)
+        * [How to Charge RC Batteries](https://www.horizonhobby.com/s/horizon-us/blog-article-1009400-how-to-charge-rc-batteries.html)
         
         [![Spektrum Smart Battery and Charger](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwf99a9108/header-images/SPMX-Smart-Logo-175x175.jpg)](https://www.horizonhobby.com/spektrum-smart-technology/)
         
