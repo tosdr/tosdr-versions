@@ -1,5 +1,5 @@
   
-Terms of service – G FUEL                                                                                                
+Terms of service – G FUEL                                                                                                            
 
 [Skip to content](#MainContent)  
 
@@ -107,7 +107,7 @@ Close menu
 
   [![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_150x.png?v=1726160870) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-FearFest-HEADER-logo_130x.png?v=1726160870)](https://gfuel.com/)
 
-  ![Search Icon Black](//gfuel.com/cdn/shop/t/582/assets/fearfest-search-icon-black.png?v=70690630930442313831727986335)  Search  "Close (esc)"
+  ![Search Icon Black](//gfuel.com/cdn/shop/t/584/assets/fearfest-search-icon-black.png?v=70690630930442313831728421442)  Search  "Close (esc)"
 
 [](https://gfuel.com/products/hack-n-slash)
 
@@ -121,15 +121,15 @@ Close menu
 
  [![Dream Demon](//gfuel.com/cdn/shop/products/dream-demon-tub-g-fuel-gamer-drink-784188_medium.png?v=1695418540) Dream Demon](https://gfuel.com/products/dream-demon)
 
- [![Hack 'N' Slash](//gfuel.com/cdn/shop/products/hack-n-slash-tub-g-fuel-gamer-drink-248565_medium.png?v=1695652739) Hack 'N' Slash](https://gfuel.com/products/hack-n-slash)
-
  [![Goth GF](//gfuel.com/cdn/shop/files/goth-gf-tub-g-fuel-gamer-drink-999082_medium.png?v=1714691428) Goth GF](https://gfuel.com/products/goth-girlfriend)
+
+ [![Hack 'N' Slash](//gfuel.com/cdn/shop/products/hack-n-slash-tub-g-fuel-gamer-drink-248565_medium.png?v=1695652739) Hack 'N' Slash](https://gfuel.com/products/hack-n-slash)
 
  [![Candy Corn](//gfuel.com/cdn/shop/products/candy-corn-tub-g-fuel-gamer-drink-518949_medium.png?v=1666020533) Candy Corn](https://gfuel.com/products/candy-corn)
 
- [![Gojo's Domain Expansion](//gfuel.com/cdn/shop/files/domain-expansion-tub-g-fuel-gamer-drink-846562_medium.png?v=1724276197) Gojo's Domain Expansion](https://gfuel.com/products/gojos-domain-expansion)
+ [![Sukuna's Finger Collector's Box](//gfuel.com/cdn/shop/files/sukunas-finger-collectors-box-tub-collectors-box-g-fuel-gamer-drink-865948_medium.png?v=1725646848) Sukuna's Finger Collector's Box](https://gfuel.com/products/sukunas-finger-collectors-box)
 
- [![Yuji Itadori's Black Flash](//gfuel.com/cdn/shop/files/black-flash-tub-g-fuel-gamer-drink-257917_medium.png?v=1724276183) Yuji Itadori's Black Flash](https://gfuel.com/products/yuji-itadoris-black-flash)
+ [![Heaven or Hell Collector's Box](//gfuel.com/cdn/shop/files/strive-collectors-box-tub-collectors-box-g-fuel-gamer-drink-859153_medium.png?v=1726088682) Heaven or Hell Collector's Box](https://gfuel.com/products/heaven-or-hell-collectors-box)
 
 View more
 
@@ -200,7 +200,7 @@ View more
 * [Rewards](https://gfuel.com/pages/rewards)
 * [Flavor Quiz](https://gfuel.com/pages/flavor-quiz)
 
- [![Account Icon](//gfuel.com/cdn/shop/t/582/assets/fearfest-account-icon.png?v=50085873134992036791727986335) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/582/assets/fearfest-search-icon-black.png?v=70690630930442313831727986335) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/582/assets/bloody-hamburger-menu.png?v=86003260733675859121727986335) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/582/assets/fearfest-cart-icon.png?v=54831520779337061261727986335) Cart](https://gfuel.com/cart)
+ [![Account Icon](//gfuel.com/cdn/shop/t/584/assets/fearfest-account-icon.png?v=50085873134992036791728421442) Log in](https://gfuel.com/account)[![Search Icon](//gfuel.com/cdn/shop/t/584/assets/fearfest-search-icon-black.png?v=70690630930442313831728421442) Search](https://gfuel.com/search)![Bloody Hamburger Menu Icon](//gfuel.com/cdn/shop/t/584/assets/bloody-hamburger-menu.png?v=86003260733675859121728421442) Site navigation [![Cart Icon](//gfuel.com/cdn/shop/t/584/assets/fearfest-cart-icon.png?v=54831520779337061261728421442) Cart](https://gfuel.com/cart)
 
   Search 
 
@@ -575,7 +575,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/582/assets/app-store-badge.svg?v=123926581890561309811727986335)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/582/assets/google-play-badge.png?v=132395384020293405351727986335)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/584/assets/app-store-badge.svg?v=123926581890561309811728421442)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/584/assets/google-play-badge.png?v=132395384020293405351728421442)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -601,7 +601,7 @@ Rated 4.9 out of 5 stars
 
 Rated 4.4 out of 5 stars
 
-1,786 Reviews
+1,787 Reviews
 
 4.7
 
@@ -631,7 +631,7 @@ Rated 4.7 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-2,880 Reviews
+2,881 Reviews
 
 4.7
 
@@ -643,7 +643,7 @@ Rated 4.7 out of 5 stars
 
 Rated 4.6 out of 5 stars
 
-22 Reviews
+23 Reviews
 
 4.7
 
