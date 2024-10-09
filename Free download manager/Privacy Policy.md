@@ -205,4 +205,4 @@ How to clean registry](https://en.freedownloadmanager.org/tutorials/how-to-clean
 
 [Twitter](https://twitter.com/FDM82540175) [Facebook](https://www.facebook.com/Free-Download-Manager-1141748292524588/)
 
-© 2004 - 2024 Free Download Manager.ORG. All rights reserved.
+© © 2004 - 2024 Free Download Manager.ORG. All rights reserved.
