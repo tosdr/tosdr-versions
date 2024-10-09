@@ -358,9 +358,9 @@ Popular Stories
 * [![ADT](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ADT discloses second breach in 2 months, hacked via stolen credentials](https://www.bleepingcomputer.com/news/security/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/)
-* [![Moneygram](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    MoneyGram confirms hackers stole customer data in cyberattack](https://www.bleepingcomputer.com/news/security/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
+    Windows 11 KB5044284 and KB5044285 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5044284-and-kb5044285-cumulative-updates-released/)
 
 ##### Follow us:
 
