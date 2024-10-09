@@ -136,17 +136,13 @@ If you have any questions about this Privacy Policy, please contact us: By email
 
 ### holycowfineindianfood](https://www.instagram.com/holycowfineindianfood/ "@holycowfineindianfood")
 
+[Spice up your week with Holy Cow’s curries—bol ![Spice up your week with Holy Cow’s curries—bold, authentic, and perfect for National Curry Week.  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![Spice up your week with Holy Cow’s curries—bold, authentic, and perfect for National Curry Week.  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA5qNGxIKA-/) 
+
 [Celebrate National Curry Week the Holy Cow way—w ![Celebrate National Curry Week the Holy Cow way—with authentic flavours that warm the soul.  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![Celebrate National Curry Week the Holy Cow way—with authentic flavours that warm the soul.  #HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA0gmfzIm2i/) 
-
-[Our Founder and Chairman @kulacharya32 and Hari Ar ![Our Founder and Chairman @kulacharya32 and Hari Aryal ( Director ) had the pleasure of meeting with @Deliveroo CEO and one of Holy Cow’s biggest fan!  Huge thanks to Will Shu for 18 years of loyalty to our Holy Cow family. Here's to many more! 🙌🍛 #HolyCow #Deliveroo
-.
-#HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Our Founder and Chairman @kulacharya32 and Hari Aryal ( Director ) had the pleasure of meeting with @Deliveroo CEO and one of Holy Cow’s biggest fan!  Huge thanks to Will Shu for 18 years of loyalty to our Holy Cow family. Here's to many more! 🙌🍛 #HolyCow #Deliveroo
-.
-#HolyCowFinelndianFood #AuthenticIndianCuisine #IndianFood #FoodieFinds #HolyCow #Food #London #Angel #Archway #Balham #Battersea #CanaryWharf #Hammersmith #Kilburn #putney](https://www.holycowonline.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAtJasJIQ4i/) 
 
 [Load More…](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/holycowfineindianfood/)
 
