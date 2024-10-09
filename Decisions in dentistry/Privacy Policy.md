@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[In a historic partnership, the Vermont State Denta ![In a historic partnership, the Vermont State Dental Society and University of Detroit Mercy are establishing a Dental Oral Health Education Center in Vermont, addressing the state’s dental provider shortage. With federal support, this initiative aims to expand access to care and train a new generation of oral health professionals. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA3g3vhNBxp/) 
+
 [The State of Illinois has launched a public safety ![The State of Illinois has launched a public safety campaign, “Fake Dentist, Real Risk,” following a shocking report on unlicensed dental practitioners. The campaign aims to raise awareness about the serious risks posed by fake oral health professionals and prevent further harm to unsuspecting patients. Link in bio.⁠
 ⁠
 ⁠
@@ -220,13 +227,6 @@ Listen via the link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAoEGebNU5k/) 
-
-[Proper peri-implant maintenance is essential for p ![Proper peri-implant maintenance is essential for preventing and managing common biological and mechanical complications. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAlfUHaNLvF/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
