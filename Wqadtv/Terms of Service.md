@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_360x203.jpg)](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
+        
+        #### [FEMA opens disaster recovery center for victims of Kewanee storms](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1) [![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_360x203.jpg)](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
+        
+        #### [FEMA opens disaster recovery center in Kewanee](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
         
         #### [Electrical workers from Bureau County bring donations to Helene victims in North Carolina](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
-        
-    *  [![](https://media.tegna-media.com/assets/WOI/images/d3a09e96-3714-4e9d-b881-013f9e417272/20241009T021755/d3a09e96-3714-4e9d-b881-013f9e417272_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/d3a09e96-3714-4e9d-b881-013f9e417272/20241009T021755/d3a09e96-3714-4e9d-b881-013f9e417272_360x203.jpg)](https://www.wqad.com/article/news/local/summit-carbon-pipeline-solutions-eminent-domain-iowa-supreme-court-oral-arguments-kasischke-hardin-county/524-df7eec66-d2ed-457c-bc20-85d264c14ffe)
-        
-        #### [Oral arguments presented to Iowa Supreme Court over use of eminent domain for Summit Carbon Pipeline](https://www.wqad.com/article/news/local/summit-carbon-pipeline-solutions-eminent-domain-iowa-supreme-court-oral-arguments-kasischke-hardin-county/524-df7eec66-d2ed-457c-bc20-85d264c14ffe)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +57,14 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_360x203.jpg)](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
+        
+        #### [FEMA opens disaster recovery center for victims of Kewanee storms](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1) [![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c96cdef3-b0d4-4f61-b7b7-523c9819841f/20240716T234405/c96cdef3-b0d4-4f61-b7b7-523c9819841f_360x203.jpg)](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
+        
+        #### [FEMA opens disaster recovery center in Kewanee](https://www.wqad.com/article/news/local/fema-disaster-recovery-center-kewanee-storm-victims/526-ea7184d2-befb-4883-99b5-dab2d411cdc1)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb/20241009T030750/80b9f50c-e65f-4bd7-ae3c-6b79f34abfcb_360x203.jpg)](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
         
         #### [Electrical workers from Bureau County bring donations to Helene victims in North Carolina](https://www.wqad.com/article/weather/hurricane/helene/bureau-county-electricians-helping-helene-victims-in-north-carolina/526-1d74fe3f-3861-4a8d-b6c1-fe3dc945c17b)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/138de0b5-699d-4de4-83c9-d217e48ec630/20241008T225030/138de0b5-699d-4de4-83c9-d217e48ec630_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/138de0b5-699d-4de4-83c9-d217e48ec630/20241008T225030/138de0b5-699d-4de4-83c9-d217e48ec630_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Warming trend to continue for the second half of the week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +88,7 @@ Navigation
 
 Davenport, IA »
 
-54°
+49°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
