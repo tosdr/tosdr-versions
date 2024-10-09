@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| HurricaneLuke Combs<br><br>10:42pm |
-| Miles On ItKane Brown Ft Marshmello<br><br>10:39pm |
-| ReligiouslyBailey Zimmerman<br><br>10:36pm |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>10:33pm |
-| You ProofMorgan Wallen<br><br>10:21pm |
+| Thank GodKane Brown Ft Katelyn Brown<br><br>4:58am |
+| Whatcha See Is Whatcha GetChris Janson<br><br>4:56am |
+| Thinkin 'Bout MeMorgan Wallen<br><br>4:53am |
+| Beatles And EaglesThe Frontman<br><br>4:49am |
+| Not TodayMitchell Tenpenny<br><br>4:40am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-News Talk • Eastern
+Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Eastern
+Sports • Midwest
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
 
 [](https://www.alphamediausa.com/)
 
