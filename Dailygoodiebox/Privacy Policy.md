@@ -1,3 +1,5 @@
+![](https://www.facebook.com/tr?id=1730270931119510&ev=PageView&noscript=1)
+
 [![Daily Goodie Box](https://luxe-assets.com/dgb/images/logo.svg)](https://dailygoodiebox.com/)
 
 * [Home](https://dailygoodiebox.com/)
