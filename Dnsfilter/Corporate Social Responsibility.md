@@ -1,6 +1,6 @@
 [CLASS IS IN SESSION: DON'T MISS UPCOMING DNS 101 WEBINAR
 
-REGISTER NOW](https://explore.dnsfilter.com/dns-101-strategy?utm_source=dnsfilter&utm_medium=banner&utm_campaign=dnsf_wbn_2024_dns-strategy&utm_content=dns-strategy&utm_term=how-does-the-dns-fit-into-strategy)
+REGISTER NOW](https://explore.dnsfilter.com/dns-101-strategy)
 
 [![DNSFilter](https://www.dnsfilter.com/hs-fs/hubfs/Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png?width=500&height=117&name=Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png "DNSFilter")](https://www.dnsfilter.com/)
 
