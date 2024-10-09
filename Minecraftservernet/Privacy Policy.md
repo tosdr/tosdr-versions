@@ -29,15 +29,15 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![StarlightVanilla](plugins/MineCraft/icons/25x25xStarlightVanilla_1709993469.png.pagespeed.ic.z7HQX3Tv5_.jpg)
+[![EcoSMP](plugins/MineCraft/icons/25x25xEcoSMP_1714532090.png.pagespeed.ic._cNYKCUl0B.png)
 
-VPG | Modern Anarchy](https://minecraft-server.net/details/StarlightVanilla/ "VPG | Modern Anarchy")[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
+EcoSMP](https://minecraft-server.net/details/EcoSMP/ "EcoSMP")[![StigmaPixelmon](plugins/MineCraft/icons/25x25xStigmaPixelmon_1728244261.png.pagespeed.ic.2NSTyGMxqP.png)
 
-~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative, SkyBlock, Builders, Minigames]")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+Stigma Pixelmon](https://minecraft-server.net/details/StigmaPixelmon/ "Stigma Pixelmon")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-1.21 Builder Survival+](https://minecraft-server.net/details/MCVerseCity/ "1.21 Builder Survival+") [hy this is lalu beta](https://minecraft-server.net/details/lalubeta/ "hy this is lalu beta")[![classic-capture-the-flag-minigame](plugins/MineCraft/icons/classic-capture-the-flag-minigame_1726854550.png.pagespeed.ce.ySGoCeXxoX.png)
+1.21 Builder Survival+](https://minecraft-server.net/details/MCVerseCity/ "1.21 Builder Survival+") [MineCrafty - UBuild!](https://minecraft-server.net/details/Xerius/ "MineCrafty - UBuild!")[![AuroraWorlds](plugins/MineCraft/icons/25x25xAuroraWorlds_1721605776.png.pagespeed.ic.7T6GmJ9R84.png)
 
-Minecraft Capture the Flag](https://minecraft-server.net/details/classic-capture-the-flag-minigame/ "Minecraft Capture the Flag")
+Aurora Worlds](https://minecraft-server.net/details/AuroraWorlds/ "Aurora Worlds")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -140,4 +140,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06123 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06241 - Created by [Debaucus](https://debauc.us/)
