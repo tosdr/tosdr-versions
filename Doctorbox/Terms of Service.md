@@ -3,7 +3,7 @@
 * Leistungen
 * Gesundheitsportal
 * Über uns
-* [Apo360](https://www.doctorbox.de/apo360)
+* [APO360](https://www.doctorbox.de/apo360)
 * [Partner Angebot](https://www.doctorbox.de/business)
 
 [![Hilfe](https://a.storyblok.com/f/183125/18x18/06c83f484b/help-icon.svg?v15082023)](https://www.doctorbox.de/hilfe/)
