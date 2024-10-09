@@ -28,7 +28,7 @@ Binge-worthy cybersecurity and IT certification training.
 
 Stay on top of the dynamic information technology landscape with Cyber & IT training videos, hands-on virtual Skill Labs and IT certification practice tests.
 
-[Individual Pricing](https://www.itpro.tv/individuals/pricing/)[Team Pricing](https://www.itpro.tv/teams/pricing/)
+[Individual Pricing](https://www.itpro.tv/individuals-pricing/)[Team Pricing](https://www.itpro.tv/business-pricing/)
 
 7,000+
 
