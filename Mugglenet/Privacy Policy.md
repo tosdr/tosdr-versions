@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There are 1,100,086 words in the entire “Harry Potter” series.
+If a wizard is buried with a wand made of yew, the wand sprouts into a tree that guards the dead owner’s grave.
 
 ### Potter History
 
-May 21, 2013 – An annotated first edition of Harry Potter and the Philosopher’s Stone is sold at a Sotheby’s auction for £150,000. The proceeds were donated to English PEN and Lumos.
+August 16, 2004 – A passage from Harry Potter and the Half-Blood Prince describing a character we would come to learn was the new Minister of Magic, Rufus Scrimgeour, was revealed.
 
 ### Potter Quote
 
-“And Potter — do try and win, won’t you? Or we’ll be out of the running for the eighth year in a row, as Professor Snape was kind enough to remind me only last night. . . .”
+“Scars can come in handy. I have one myself above my left knee that is a perfect map of the London Underground.”
 
 [](#)
 
