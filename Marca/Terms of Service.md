@@ -1,4 +1,4 @@
-![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZwWbdwoAAhQAAABiHtU)
+![](https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fcorporativo%2Fterminos%2Dcondiciones%2Duso%2Ehtml&s=marca&d=ZwXuPwoAAhUAAABhMNE)
 
 * Es noticia:
 * [Madrid femenino](https://www.marca.com/futbol/champions-league-femenina/chelsea-r-madrid/2024/10/08/01_0183_20241008_6275_16928-directo.html)
