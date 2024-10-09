@@ -52,40 +52,23 @@ x
     
       
     
-* [Licensed Gifts](https://www.iscream-shop.com/shop/category/licensed-products-296)
+* [Licensed Gifts](#)
+    
+      
+    
+    [All Licensed Gifts](https://www.iscream-shop.com/shop/category/licensed-products-296) [Care Bears®](https://www.iscream-shop.com/shop/category/care-bears-266)[Chips Ahoy®](https://www.iscream-shop.com/shop/category/chips-ahoy-cookies-311)[Kool-Aid®](https://www.iscream-shop.com/shop?search=Kool-Aid&order=name+asc)[Corey Paige Designs®](https://www.iscream-shop.com/shop/category/corey-paige-designs-303) [Dippin' Dots®](https://www.iscream-shop.com/shop/category/dippin-dots-335) [Dum-Dums®](https://www.iscream-shop.com/shop/category/dum-dums-317)
+    
+    ####   
+    
+    [Hershey's®](https://www.iscream-shop.com/shop/category/licensed-products-hersheys-314)[Kraft®](https://www.iscream-shop.com/shop?search=Kraft&order=name+asc)[Lunchables®](https://www.iscream-shop.com/shop?search=Lunchables&order=name+asc)[m&m's®](https://www.iscream-shop.com/shop/category/mm-candy-pillows-gifts-299) [Oreo®](https://www.iscream-shop.com/shop/category/oreo-cookie-298)[Oscar Mayer®](https://www.iscream-shop.com/shop/780-3991-oscar-mayer-wieners-packaging-plush-24256)[Reese's®](https://www.iscream-shop.com/shop?search=reese&order=name+asc) [Skittles®](https://www.iscream-shop.com/shop/category/skittles-candy-312)
+    
+    ####   
+    
+    [Sour Patch Kids®](https://www.iscream-shop.com/shop/category/sour-patch-kids-gifts-251)[Smarties®](https://www.iscream-shop.com/shop/category/smarties-316)[Snickers®](https://www.iscream-shop.com/shop/780-4133-snickers-candy-microbead-plush-24809)[Starburst®](https://www.iscream-shop.com/shop?search=starburst&order=name+asc)[Swedish Fish®](https://www.iscream-shop.com/shop?search=swedish+fish&order=name+asc) [THEME®](https://www.iscream-shop.com/shop/category/theme-x-iscream-304)[Twix®](https://www.iscream-shop.com/shop/780-4043-twix-candy-microbead-plush-24810?search=twix&order=name+asc)[Twizzlers®](https://www.iscream-shop.com/shop/category/licensed-products-twizzlers-315)
+    
 * [Little Scoops](https://www.iscream-shop.com/shop/category/little-scoops-269)
 * [What's New](https://www.iscream-shop.com/shop/category/new-235)
 * [Clearance](https://www.iscream-shop.com/shop/category/clearance-3)
-* [](#)
-    
-    #### Computers & Devices
-    
-    * * *
-    
-    [Laptops](#) [Desktop computers](#) [Components](#) [Tablets](#) [Smartphones](#) [iPhone](#)
-    
-    #### Monitors
-    
-    * * *
-    
-    [Televisions](#) [Office screens](#) [Projectors](#)
-    
-    #### Electronics
-    
-    * * *
-    
-    [Camera](#) [GPS & navigation](#) [Accessories](#) [Home audio](#) [Office audio](#)
-    
-    #### Promotions
-    
-    * * *
-    
-    [Computers](#) [Electronics](#) [Monitors](#) [Networks](#)
-    
-    ##### Follow us
-    
-    [](https://www.iscream-shop.com/website/social/facebook)[](https://www.iscream-shop.com/website/social/twitter)[](https://www.iscream-shop.com/website/social/linkedin)[](https://www.iscream-shop.com/website/social/github)[](https://www.iscream-shop.com/website/social/youtube)[](https://www.iscream-shop.com/website/social/instagram)[](https://www.iscream-shop.com/website/social/tiktok)
-    
 
 * [0](https://www.iscream-shop.com/shop/wishlist)
 
@@ -165,24 +148,24 @@ To install this Web App in your iPhone/iPad press ![](/emipro_theme_base/static/
 
 Account
 
-* ﻿﻿[My Account](https://www.iscream-shop.com/my/home)﻿﻿
-* ﻿﻿[Order Status](https://www.iscream-shop.com/my/orders)﻿﻿
-* ﻿﻿[View Cart](https://www.iscream-shop.com/shop/cart)﻿﻿
+* [My Account](https://www.iscream-shop.com/my/home)
+* [Order Status](https://www.iscream-shop.com/my/orders)
+* [View Cart](https://www.iscream-shop.com/shop/cart)
 *   
     
 
 About
 
-* ﻿﻿[About Us](https://www.iscream-shop.com/aboutus)﻿﻿
-* ﻿﻿[Shipping & Returns](https://www.iscream-shop.com/shipping-returns)﻿﻿
-* ﻿﻿[Privacy Policy](https://www.iscream-shop.com/privacy-notice)﻿﻿
-* ﻿﻿[Contact Us](https://www.iscream-shop.com/contactus)﻿﻿
-* ﻿﻿[Become a Wholesaler](https://www.iscream-shop.com/become-a-wholesaler)﻿﻿
+* [About Us](https://www.iscream-shop.com/aboutus)
+* [Shipping & Returns](https://www.iscream-shop.com/shipping-returns)
+* [Privacy Policy](https://www.iscream-shop.com/privacy-notice)
+* [Contact Us](https://www.iscream-shop.com/contactus)
+* [Become a Wholesaler](https://www.iscream-shop.com/become-a-wholesaler)
 
 Follow us
 
-* _​_ ﻿﻿[Instagram](https://www.iscream-shop.com/website/social/instagram)﻿﻿
-* _​_ ﻿﻿[Facebook](https://www.iscream-shop.com/website/social/facebook)﻿﻿
+* [Instagram](https://www.iscream-shop.com/website/social/instagram)
+* [Facebook](https://www.iscream-shop.com/website/social/facebook)
 *   
     
 *   
