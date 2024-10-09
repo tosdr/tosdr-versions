@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/wordt-maar-minister-als-u-het-er-niet-mee-eens-bent/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-strijd-tegen-het-kwaad/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
