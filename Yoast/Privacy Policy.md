@@ -329,7 +329,6 @@ Subscribe for free SEO tips » [Privacy notice](https://yoast.com/privacy-notic
 * [SEO blog](https://yoast.com/seo-blog/)
     * [SEO basics](https://yoast.com/tag/seo-basics/)
     * [SEO essentials](https://yoast.com/must-reads-for-website-seo/)
-    * [SEO love](https://yoast.com/series/seo-love/)
     * [SEO news](https://yoast.com/series/seo-news-webinar/)
     * [Shopify SEO](https://yoast.com/tag/shopify/)
 * [Yoast SEO academy](https://yoast.com/academy/)
