@@ -110,23 +110,23 @@ All the issues and problems will be resolved pursuant to our Japanese Terms of U
 
 * No article
 
-[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280a.jpg)](https://accesstra.de/0050f1000ymk)
+[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280b.jpg)](https://accesstra.de/0050f1000ymk)
 
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/05/neogeo-mini-samuraispirits-limited-edition-preorder00-150x150.jpg)
+* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
     
-    "NEOGEO mini Samurai Spirits Limited Set" is here!](https://saiganak.com/product/neogeo-mini-samuraispirits-limited-edition-preorder/)
-* [![Chainsaw Man × ZONe！Collaboration New ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/09/chainsaw-man-collabo-zone-blood-release-00-150x150.jpg "Chainsaw Man × ZONe！Collaboration New ")
-    
-    Chainsaw Man × ZONe！Collaboration New "ZONe BLOOD" On Sale!](https://saiganak.com/product/chainsawman-collabo-zone-blood-release/ "Chainsaw Man × ZONe！Collaboration New ")
+    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
 * [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/02/redbull-purple-edition-standard-products-00-150x150.jpg)
     
     "Red Bull Purple Edition" is now a standard product! Now available outside of vending machines!](https://saiganak.com/product/redbull-purple-edition-standard-products/)
-* [![Review! the Feature-Rich ](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/02/neogeo-arcade-stick-pro-unbox-00-1-150x150.jpg "Review! the Feature-Rich ")
+* [![Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/05/ff35th-anniversary-ut-additional-production-00-150x150.jpg "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
     
-    Review! the Feature-Rich "NEOGEO Arcade Stick PRO"!](https://saiganak.com/review/neogeo-arcade-stick-pro-unbox/ "Review! the Feature-Rich ")
+    Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://saiganak.com/product/ff35th-anniversary-ut-additional-production/ "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
 * [![【Showdown Edition】Review ](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/03/neogeo-arcade-stick-pro-use-impression-00-1-150x150.jpg "【Showdown Edition】Review ")
     
     【Showdown Edition】Review "NEOGEO Arcade Stick PRO"!](https://saiganak.com/review/neogeo-arcade-stick-pro-use-impression/ "【Showdown Edition】Review ")
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/05/neogeo-mini-samuraispirits-limited-edition-preorder00-150x150.jpg)
+    
+    "NEOGEO mini Samurai Spirits Limited Set" is here!](https://saiganak.com/product/neogeo-mini-samuraispirits-limited-edition-preorder/)
 
 [](#top)
 
