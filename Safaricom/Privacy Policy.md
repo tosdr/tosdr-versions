@@ -142,6 +142,18 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Oct 9, 2024
+
+> Mel was a wonderful way to book my trip…
+
+> Mel was a wonderful way to book my trip on safari.com.
+
+Diana Gray
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Oct 8, 2024
 
 > Great service
@@ -249,20 +261,6 @@ Vas
 ,
 
 GB
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 3, 2024
-
-> Kim Abraham is Great!
-
-> Kim Abraham worked through all of my questions, always with a pleasant response. This is our trip of a lifetime, and Kim made sure that we are getting it.
-
-Anita
-
-,
-
-US
 
 VIP service
 
