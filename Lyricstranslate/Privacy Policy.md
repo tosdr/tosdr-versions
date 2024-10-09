@@ -107,59 +107,63 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Almatt](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/almatt "Almatt")
-
-New request
-
-[Grupo Libra - Del Signo Libra](https://lyricstranslate.com/en/request/del-signo-libra)
-
-Spanish → English
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
 
 New comment
 
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168954#comment-1168954)
+The source lyrics have been updated. Please review...  [more](https://lyricstranslate.com/en/comment/1169090#comment-1169090)
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168953#comment-1168953)
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
 
 New comment
 
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168952#comment-1168952)
+The source lyrics have been updated. Please review...  [more](https://lyricstranslate.com/en/comment/1169089#comment-1169089)
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+[![Сахнюк Володимир Васильович.](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628020-1725634308.jpg)](https://lyricstranslate.com/en/translator/%D1%81%D0%B0%D1%85%D0%BD%D1%8E%D0%BA-%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%BE%D0%B2%D0%B8%D1%87 "Сахнюк Володимир Васильович.")
+
+New translation
+
+[Anton Makarskiy - Ангел (Angel)](https://lyricstranslate.com/en/anton-makarskiy-angel-ukrainian)
+
+Russian → Ukrainian
+
+[![Burghold](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1338222-1514825045.jpg)](https://lyricstranslate.com/en/translator/burghold "Burghold")
+
+New transcription request
+
+[Keltania - Wächterlied](https://lyricstranslate.com/en/keltania-w%C3%A4chterlied)
+
+German
+
+[![habib05](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632457-1728459805.jpg)](https://lyricstranslate.com/en/translator/habib05 "habib05")
+
+New translation
+
+[Joost - Ome Robert](https://lyricstranslate.com/en/joost-ome-robert-portuguese)
+
+Dutch → Portuguese
+
+[![Balkantürk](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1439077-1706213565.jpg)](https://lyricstranslate.com/en/translator/balkant%C3%BCrk "Balkantürk")
+
+New translation
+
+[Aleksandr Marshal - Вожак (Vozhak)](https://lyricstranslate.com/en/aleksandr-marshal-vozhak-english)
+
+Russian → English
+
+[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
 
 New comment
 
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168951#comment-1168951)
+Please, edit this https://lyricstranslate.com/ru/...  [more](https://lyricstranslate.com/en/comment/1169088#comment-1169088)
 
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1723670492.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+[![habib05](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632457-1728459805.jpg)](https://lyricstranslate.com/en/translator/habib05 "habib05")
 
-New song
+New translation
 
-[Coraline (Musical) - When We Were Young And Trod The Boards](https://lyricstranslate.com/en/coraline-musical-when-we-were-young-and-tr-lyrics)
+[Joost - 2002/2001](https://lyricstranslate.com/en/joost-20022001-portuguese)
 
-English
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1168950#comment-1168950)
-
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1723670492.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
-
-New song
-
-[Coraline (Musical) - The Song Of The Rats](https://lyricstranslate.com/en/coraline-musical-song-rats-lyrics)
-
-English
+Dutch → Portuguese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
