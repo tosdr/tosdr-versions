@@ -333,9 +333,10 @@ partners
 * [Agencies](https://www.appcast.io/partners/solutions-for-agencies/)
 * [Login](https://xcelerate.appcast.io/user_sessions/new)
 
-* [Privacy Policy](https://www.appcast.io/privacy-policy/)
-* [Anti-Slavery Policy](https://www.appcast.io/legal/#anti-slavery-policy)
 * [Legal](https://www.appcast.io/legal/)
+* [Privacy Policy](https://www.appcast.io/privacy-policy/)
+* [Our Commitment to Accessibility & Disability Inclusion](https://www.appcast.io/appcasts-commitment-to-accessibility-and-disability-inclusion/)
+* [Anti-Slavery Policy](https://www.appcast.io/legal/#anti-slavery-policy)
 * [Sitemap](https://www.appcast.io/sitemap/)
 * [Do not sell or share my  
     personal information](https://www.appcast.io/appcast-privacy-webform/)
