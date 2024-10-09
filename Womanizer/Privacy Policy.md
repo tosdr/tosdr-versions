@@ -53,6 +53,7 @@ The store will not work correctly in the case when cookies are disabled.
 * [PRIME DAY](https://www.womanizer.com/eu/sale)
     
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
+    * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
     * [Climax Collection](https://www.womanizer.com/eu/climax-collection)
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
@@ -62,13 +63,13 @@ The store will not work correctly in the case when cookies are disabled.
     * [The ForePlay Collection](https://www.womanizer.com/eu/the-fore-play-collection)
     * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
     * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
-    * [DUO](https://www.womanizer.com/eu/duo)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
     
 * [Katy Perry’s "Woman’s World" ![](/media/wysiwyg/WMZ_Katy_Perry_burger_menu_50x50.png)](https://www.womanizer.com/eu/katyperry) 
 * [HOW IT WORKS](https://www.womanizer.com/eu/how-it-works)
+* [Find your toy](https://www.womanizer.com/eu/toy-finder-quiz)
 * [About](#)
     
     * [Testimonials](https://www.womanizer.com/eu/feeling)
@@ -76,6 +77,7 @@ The store will not work correctly in the case when cookies are disabled.
     * [Katy Perry’s "Woman’s World" ![](/media/wysiwyg/WMZ_Katy_Perry_burger_menu_50x50.png)](https://www.womanizer.com/eu/katyperry) 
     * [100 day Pleasure Guarantee](https://www.womanizer.com/eu/satisfaction-guaranteed)
     * [Lily Allen & Womanizer](https://www.womanizer.com/eu/lilyallen)
+    * [Find your toy](https://www.womanizer.com/eu/toy-finder-quiz)
     * [Blog](https://blog.womanizer.com/)
     * [The Pleasure Fund](https://www.womanizer.com/eu/pleasure-fund)
     * [Our Network of Sexperts](https://www.womanizer.com/eu/sexual-wellness-experts)
