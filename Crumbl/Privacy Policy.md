@@ -6,8 +6,6 @@ My Bag
 
 CheckoutCheckout
 
-Select a time
-
 Continue Shopping
 
 Subtotal
