@@ -18,31 +18,31 @@
 
 [Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
 
-   [![Síndico e zelador de condomínio são indiciados suspeitos de jogar cadela no lixo ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/5/csm_cadela_malu_9c297e688a.jpeg)
+   [![Vídeo: carrinho de churros pega fogo em ciclovia na Jatiúca ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/0/f/csm_incendio-carrinho-churros-reproducao-cortesia-tnh1_5b7cedcbe0.png)
+
+susto grande
+
+Vídeo: carrinho de churros pega fogo em ciclovia na Jatiúca](https://www.tnh1.com.br/noticia/nid/video-carrinho-de-churros-pega-fogo-em-ciclovia-na-jatiuca/ "Vídeo: carrinho de churros pega fogo em ciclovia na Jatiúca ")   [![Jornalista Jairo Queiroz morre aos 71 anos em Maceió](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/4/csm_Jornalista__Jairo_Queiroz_-_foto_Reproducao_7f95f801a9.jpg)
+
+pernambucano
+
+Jornalista Jairo Queiroz morre aos 71 anos em Maceió](https://www.tnh1.com.br/noticia/nid/jornalista-jairo-queiroz-morre-aos-71-anos-em-maceio/ "Jornalista Jairo Queiroz morre aos 71 anos em Maceió")   [![Síndico e zelador de condomínio são indiciados suspeitos de jogar cadela no lixo ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/5/csm_cadela_malu_9c297e688a.jpeg)
 
 maus-tratos
 
-Síndico e zelador de condomínio são indiciados suspeitos de jogar cadela no lixo](https://www.tnh1.com.br/noticia/nid/sindico-e-zelador-de-condominio-sao-indiciados-suspeitos-de-jogar-cadela-no-lixo/ "Síndico e zelador de condomínio são indiciados suspeitos de jogar cadela no lixo ")   [![Dono de joalheria no Farol, alvo de assalto frustrado, se pronuncia; veja vídeo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/7/csm_marinho_ouro_d0bd505b9b.png)
+Síndico e zelador de condomínio são indiciados suspeitos de jogar cadela no lixo](https://www.tnh1.com.br/noticia/nid/sindico-e-zelador-de-condominio-sao-indiciados-suspeitos-de-jogar-cadela-no-lixo/ "Síndico e zelador de condomínio são indiciados suspeitos de jogar cadela no lixo ")   [![Dono de joalheria no Farol, alvo de assalto frustrado, se pronuncia; veja vídeo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/7/csm_marinho_ouro_d0bd505b9b.png)
 
 na praça centenário
 
-Dono de joalheria no Farol, alvo de assalto frustrado, se pronuncia; veja vídeo](https://www.tnh1.com.br/noticia/nid/dono-de-joalheria-no-farol-alvo-de-assalto-frustrado-se-pronuncia-veja-video/ "Dono de joalheria no Farol, alvo de assalto frustrado, se pronuncia; veja vídeo")   [![Rua estará fechada na Ponta Verde também no sábado (12), Dia das Crianças](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/f/csm_rua-fechada-ponta-verde_346d6364f9.jpg)
+Dono de joalheria no Farol, alvo de assalto frustrado, se pronuncia; veja vídeo](https://www.tnh1.com.br/noticia/nid/dono-de-joalheria-no-farol-alvo-de-assalto-frustrado-se-pronuncia-veja-video/ "Dono de joalheria no Farol, alvo de assalto frustrado, se pronuncia; veja vídeo")   [![Rua estará fechada na Ponta Verde também no sábado (12), Dia das Crianças](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/f/csm_rua-fechada-ponta-verde_346d6364f9.jpg)
 
 veja horário
 
-Rua estará fechada na Ponta Verde também no sábado (12), Dia das Crianças](https://www.tnh1.com.br/noticia/nid/rua-estara-fechada-na-ponta-verde-tambem-no-sabado-12-dia-das-criancas/ "Rua estará fechada na Ponta Verde também no sábado (12), Dia das Crianças")   [![Adolescente pega moto do pai escondido, sofre acidente e fratura fêmur, em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/f/csm_adolescente-acidente-vergel_0c76851771.jpg)
+Rua estará fechada na Ponta Verde também no sábado (12), Dia das Crianças](https://www.tnh1.com.br/noticia/nid/rua-estara-fechada-na-ponta-verde-tambem-no-sabado-12-dia-das-criancas/ "Rua estará fechada na Ponta Verde também no sábado (12), Dia das Crianças")   [![Adolescente pega moto do pai escondido, sofre acidente e fratura fêmur, em Maceió](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/4/f/csm_adolescente-acidente-vergel_0c76851771.jpg)
 
 No Vergel
 
-Adolescente pega moto do pai escondido, sofre acidente e fratura fêmur, em Maceió](https://www.tnh1.com.br/noticia/nid/adolescente-pega-moto-do-pai-escondido-sofre-acidente-e-fratura-femur-em-maceio/ "Adolescente pega moto do pai escondido, sofre acidente e fratura fêmur, em Maceió")   [![Mulher leva soco de companheiro e é expulsa de casa com bebê e mais dois filhos; homem é preso](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/4/csm_csm_violencia-mulher-internet_56509a8833_8448882944.jpg)
-
-No Feitosa
-
-Mulher leva soco de companheiro e é expulsa de casa com bebê e mais dois filhos; homem é preso](https://www.tnh1.com.br/noticia/nid/mulher-leva-soco-de-companheiro-e-e-expulsa-de-casa-com-bebe-e-mais-dois-filhos-homem-e-preso/ "Mulher leva soco de companheiro e é expulsa de casa com bebê e mais dois filhos; homem é preso")   [![Emboscada: homem é convidado a usar drogas na beira da Lagoa Mundaú e é baleado por "conhecidos"](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/9/csm_csm_disparo-arma-fogo-reproducao_54ed5bf1d6_8efce0271a.jpg)
-
-atingido por tiros
-
-Emboscada: homem é convidado a usar drogas na beira da Lagoa Mundaú e é baleado por "conhecidos"](https://www.tnh1.com.br/noticia/nid/emboscada-homem-e-convidado-a-usar-drogas-na-beira-da-lagoa-mundau-e-e-baleado-por-conhecidos/ "Emboscada: homem é convidado a usar drogas na beira da Lagoa Mundaú e é baleado por "conhecidos"")
+Adolescente pega moto do pai escondido, sofre acidente e fratura fêmur, em Maceió](https://www.tnh1.com.br/noticia/nid/adolescente-pega-moto-do-pai-escondido-sofre-acidente-e-fratura-femur-em-maceio/ "Adolescente pega moto do pai escondido, sofre acidente e fratura fêmur, em Maceió")
 
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
@@ -82,31 +82,29 @@ Sine Alagoas divulga 778 vagas de emprego para Maceió e mais três municípios;
 
 [Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
 
-   [![Homem tenta furtar carro na orla de Maceió mas acaba ficando preso dentro de veículo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/7/csm_carro-furto-orla_de_maceio_917520df27.jpeg)
+   [![Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/4/csm_mulher-morre-envenenada-interior-alagoas-reproducao_ba21091880.jpeg)
+
+Em São Brás
+
+Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito](https://www.tnh1.com.br/noticia/nid/professora-morre-apos-comer-coxinha-supostamente-envenenada-ex-companheiro-e-suspeito/ "Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito")   [![Nove pessoas são presas em operação da Polícia Civil, em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/4/csm_Nove_pessoas_sao_presas_em_operacao_da_Policia_Civil__em_Alagoas_-_foto_Reproducao_PCAL_b175a9406a.jpg)
+
+Polícia
+
+Nove pessoas são presas em operação da Polícia Civil, em Alagoas](https://www.tnh1.com.br/noticia/nid/nove-pessoas-sao-presas-em-operacao-da-policia-civil-em-alagoas/ "Nove pessoas são presas em operação da Polícia Civil, em Alagoas")   [Polícia
+
+Polícia cumpre mandados de prisão por tentativa de feminicídio no Sertão de Alagoas](https://www.tnh1.com.br/noticia/nid/policia-cumpre-mandados-de-prisao-por-tentativa-de-feminicidio-no-sertao-de-alagoas/ "Polícia cumpre mandados de prisão por tentativa de feminicídio no Sertão de Alagoas")   [![PM-AL registrou 45 casos de crimes eleitorais durante as eleições municipais](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/b/csm_policia-militar-eleicoes-balanco-divulgacao_9713645095.jpg)
+
+Veja Balanço
+
+PM-AL registrou 45 casos de crimes eleitorais durante as eleições municipais](https://www.tnh1.com.br/noticia/nid/pm-al-registrou-45-casos-de-crimes-eleitorais-durante-as-eleicoes-municipais/ "PM-AL registrou 45 casos de crimes eleitorais durante as eleições municipais")   [![Homem condenado por estuprar menino de 8 anos é preso em Coruripe](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/c/csm_acusado_estupro_coruripe_9b6c439096.jpeg)
+
+Polícia
+
+Homem condenado por estuprar menino de 8 anos é preso em Coruripe](https://www.tnh1.com.br/noticia/nid/homem-condenado-por-estuprar-menino-de-8-anos-e-preso-em-coruripe/ "Homem condenado por estuprar menino de 8 anos é preso em Coruripe")   [![Homem tenta furtar carro na orla de Maceió mas acaba ficando preso dentro de veículo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/7/csm_carro-furto-orla_de_maceio_917520df27.jpeg)
 
 na Jatiúca
 
-Homem tenta furtar carro na orla de Maceió mas acaba ficando preso dentro de veículo](https://www.tnh1.com.br/noticia/nid/homem-tenta-furtar-carro-na-orla-de-maceio-mas-acaba-ficando-preso-dentro-de-veiculo/ "Homem tenta furtar carro na orla de Maceió mas acaba ficando preso dentro de veículo")   [![Síndico e zelador de condomínio são indiciados suspeitos de jogar cadela no lixo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_cadela_malu_9c297e688a.jpeg)
-
-maus-tratos
-
-Síndico e zelador de condomínio são indiciados suspeitos de jogar cadela no lixo](https://www.tnh1.com.br/noticia/nid/sindico-e-zelador-de-condominio-sao-indiciados-suspeitos-de-jogar-cadela-no-lixo/ "Síndico e zelador de condomínio são indiciados suspeitos de jogar cadela no lixo ")   [![Vídeo: homens armados são flagrados roubando celulares de crianças que estavam em calçada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/c/0/csm_roubo-celular-criancas-pilar_0cda82a4a6.jpg)
-
-No Pilar
-
-Vídeo: homens armados são flagrados roubando celulares de crianças que estavam em calçada](https://www.tnh1.com.br/noticia/nid/video-homens-armados-sao-flagrados-roubando-celulares-de-criancas-que-estavam-em-calcada/ "Vídeo: homens armados são flagrados roubando celulares de crianças que estavam em calçada")   [![Dono de joalheria no Farol, alvo de assalto frustrado, se pronuncia; veja vídeo](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/7/csm_marinho_ouro_d0bd505b9b.png)
-
-na praça centenário
-
-Dono de joalheria no Farol, alvo de assalto frustrado, se pronuncia; veja vídeo](https://www.tnh1.com.br/noticia/nid/dono-de-joalheria-no-farol-alvo-de-assalto-frustrado-se-pronuncia-veja-video/ "Dono de joalheria no Farol, alvo de assalto frustrado, se pronuncia; veja vídeo")   [!["Armário do PCC" é preso com mais de 33 kg de drogas e três armas em Cruz das Almas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/5/csm_apreensao_cruz_das_almas_-_foto_cortesia_82c75b7f43.jpeg)
-
-Usado por facção
-
-"Armário do PCC" é preso com mais de 33 kg de drogas e três armas em Cruz das Almas](https://www.tnh1.com.br/noticia/nid/armario-do-pcc-e-preso-com-mais-de-33-kg-de-drogas-e-tres-armas-em-cruz-das-almas/ ""Armário do PCC" é preso com mais de 33 kg de drogas e três armas em Cruz das Almas")   [![Mulher leva soco de companheiro e é expulsa de casa com bebê e mais dois filhos; homem é preso](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/4/csm_csm_violencia-mulher-internet_56509a8833_8448882944.jpg)
-
-No Feitosa
-
-Mulher leva soco de companheiro e é expulsa de casa com bebê e mais dois filhos; homem é preso](https://www.tnh1.com.br/noticia/nid/mulher-leva-soco-de-companheiro-e-e-expulsa-de-casa-com-bebe-e-mais-dois-filhos-homem-e-preso/ "Mulher leva soco de companheiro e é expulsa de casa com bebê e mais dois filhos; homem é preso")
+Homem tenta furtar carro na orla de Maceió mas acaba ficando preso dentro de veículo](https://www.tnh1.com.br/noticia/nid/homem-tenta-furtar-carro-na-orla-de-maceio-mas-acaba-ficando-preso-dentro-de-veiculo/ "Homem tenta furtar carro na orla de Maceió mas acaba ficando preso dentro de veículo")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -120,11 +118,11 @@ Mulher leva soco de companheiro e é expulsa de casa com bebê e mais dois filho
 
 [Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
 
-   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
+   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
 
 Pessoas & Negócios
 
-Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")   [![Reitor do Cesmac recebe título de Doutor Honoris Causa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/e/csm_Reitor_Joao_Sampaio_927cea6c2e.png)
+Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")   [![Reitor do Cesmac recebe título de Doutor Honoris Causa](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/e/csm_Reitor_Joao_Sampaio_927cea6c2e.png)
 
 Pessoas & Negócios
 
@@ -202,7 +200,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[!['Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/9/csm_Cid_Moreira_-_foto_Divulgacao_Globo_519bdc74de.jpg)
+[!['Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/9/csm_Cid_Moreira_-_foto_Divulgacao_Globo_519bdc74de.jpg)
 
 Roger Naumtchyk
 
@@ -210,7 +208,7 @@ Roger Naumtchyk
 
 'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento
 
-'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento](https://www.tnh1.com.br/noticia/nid/foi-um-engano-te-adotar-escreveu-cid-moreira-a-filho-deserdado-em-testamento/ "'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento")[![Série B: veja as chances de acesso e risco de queda após a 30ª rodada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/2/csm_CRB_x_Paysandu_-_Serie_B_2024_-_foto_Francisco_Cedrim_-_CRB_e367499057.jpg)
+'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento](https://www.tnh1.com.br/noticia/nid/foi-um-engano-te-adotar-escreveu-cid-moreira-a-filho-deserdado-em-testamento/ "'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento")[![Série B: veja as chances de acesso e risco de queda após a 30ª rodada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/2/csm_CRB_x_Paysandu_-_Serie_B_2024_-_foto_Francisco_Cedrim_-_CRB_e367499057.jpg)
 
 projeções
 
@@ -218,7 +216,7 @@ projeções
 
 Série B: veja as chances de acesso e risco de queda após a 30ª rodada
 
-Série B: veja as chances de acesso e risco de queda após a 30ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-a-30a-rodada/ "Série B: veja as chances de acesso e risco de queda após a 30ª rodada")[![Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/4/csm_corpo_homem_morto_craibas_215590e3f7.jpg)
+Série B: veja as chances de acesso e risco de queda após a 30ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-a-30a-rodada/ "Série B: veja as chances de acesso e risco de queda após a 30ª rodada")[![Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_corpo_homem_morto_craibas_215590e3f7.jpg)
 
 no agreste
 
@@ -226,49 +224,49 @@ no agreste
 
 Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada
 
-Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://www.tnh1.com.br/noticia/nid/homem-e-raptado-por-grupo-encapuzado-morto-a-tiros-e-tem-corpo-abandonado-em-estrada/ "Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada")[![Saiba o motivo que levou Harry a manter distância de Meghan Markle em eventos públicos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/6/csm_filhos-harry-meghan-foto-divulgacao_c8f56bcc27.jpg)
+Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://www.tnh1.com.br/noticia/nid/homem-e-raptado-por-grupo-encapuzado-morto-a-tiros-e-tem-corpo-abandonado-em-estrada/ "Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada")[![Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_foto-francisco-e-diogo-cuoco-2024-reproducao-redes-sociais_2a867fc650.jpg)
 
-Gente Famosa
+dívida trabalhista
 
-Gente Famosa
+dívida trabalhista
 
-Saiba o motivo que levou Harry a manter distância de Meghan Markle em eventos públicos
+Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário
 
-Saiba o motivo que levou Harry a manter distância de Meghan Markle em eventos públicos](https://www.tnh1.com.br/noticia/nid/saiba-o-motivo-que-levou-harry-a-manter-distancia-de-meghan-markle-em-eventos-publicos/ "Saiba o motivo que levou Harry a manter distância de Meghan Markle em eventos públicos")
+Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário](https://www.tnh1.com.br/noticia/nid/francisco-cuoco-e-filho-sao-condenados-a-pagar-r-600-mil-a-ex-funcionario/ "Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ")
 
-[![Vídeo: homem tem casa devastada por incêndio e sofre queimaduras no interior de Alagoas ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/4/csm_casa_fogo_08001e3f42.png)
+[![Série especial do PSCOM é finalista do Prêmio AMRIGS de Jornalismo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_OPERACAO_OCEANO_9e72d4d0bf.jpg)
 
-Interior
+Televisão
 
-Interior
+Televisão
 
-Vídeo: homem tem casa devastada por incêndio e sofre queimaduras no interior de Alagoas
+Série especial do PSCOM é finalista do Prêmio AMRIGS de Jornalismo
 
-Vídeo: homem tem casa devastada por incêndio e sofre queimaduras no interior de Alagoas](https://www.tnh1.com.br/noticia/nid/video-homem-tem-casa-devastada-por-incendio-e-sofre-queimaduras-no-interior-de-alagoas/ "Vídeo: homem tem casa devastada por incêndio e sofre queimaduras no interior de Alagoas ")[![Homem tenta furtar carro na orla de Maceió mas acaba ficando preso dentro de veículo](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/b/7/csm_carro-furto-orla_de_maceio_93a287d0d9.jpeg)
+Série especial do PSCOM é finalista do Prêmio AMRIGS de Jornalismo](https://www.tnh1.com.br/noticia/nid/serie-especial-do-pscom-e-finalista-do-premio-amrigs-de-jornalismo/ "Série especial do PSCOM é finalista do Prêmio AMRIGS de Jornalismo")[![Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/4/csm_mulher-morre-envenenada-interior-alagoas-reproducao_7c70202ac2.jpeg)
 
-na Jatiúca
+Em São Brás
 
-na Jatiúca
+Em São Brás
 
-Homem tenta furtar carro na orla de Maceió mas acaba ficando preso dentro de veículo
+Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito
 
-Homem tenta furtar carro na orla de Maceió mas acaba ficando preso dentro de veículo](https://www.tnh1.com.br/noticia/nid/homem-tenta-furtar-carro-na-orla-de-maceio-mas-acaba-ficando-preso-dentro-de-veiculo/ "Homem tenta furtar carro na orla de Maceió mas acaba ficando preso dentro de veículo")[!["Estou pagando por uma briga", diz eleita que pode perder vaga no interior de AL; veja o que diz ofício](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/6/csm_camara_municipal_anadia_-_foto_reproducao_google_maps_13e66be322.png)
+Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito](https://www.tnh1.com.br/noticia/nid/professora-morre-apos-comer-coxinha-supostamente-envenenada-ex-companheiro-e-suspeito/ "Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito")[![Mais de 600 vírus vivem nas escovas de dentes e no chuveiro; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/9/csm_defocused-woman-with-eye-patches-holding-toothbrush_7f0c9d4395.jpg)
 
-vereadora de anadia
+Saúde
 
-vereadora de anadia
+Saúde
 
-"Estou pagando por uma briga", diz eleita que pode perder vaga no interior de AL; veja o que diz ofício
+Mais de 600 vírus vivem nas escovas de dentes e no chuveiro; entenda
 
-"Estou pagando por uma briga", diz eleita que pode perder vaga no interior de AL; veja o que diz ofício](https://www.tnh1.com.br/noticia/nid/estou-pagando-por-uma-briga-diz-eleita-que-pode-perder-vaga-no-interior-de-al-veja-o-que-diz-oficio/ ""Estou pagando por uma briga", diz eleita que pode perder vaga no interior de AL; veja o que diz ofício")[![Justiça de SP extingue penas de policiais pelo massacre do Carandiru](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/2/csm_carandiru_protesto_arquivo_marcelo_camargo_agencia_brasil_7afd1900c9.jpg)
+Mais de 600 vírus vivem nas escovas de dentes e no chuveiro; entenda](https://www.tnh1.com.br/noticia/nid/mais-de-600-virus-vivem-nas-escovas-de-dentes-e-no-chuveiro-entenda/ "Mais de 600 vírus vivem nas escovas de dentes e no chuveiro; entenda")[![Nove pessoas são presas em operação da Polícia Civil, em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_Nove_pessoas_sao_presas_em_operacao_da_Policia_Civil__em_Alagoas_-_foto_Reproducao_PCAL_76dd507944.jpg)
 
-Justiça
+Polícia
 
-Justiça
+Polícia
 
-Justiça de SP extingue penas de policiais pelo massacre do Carandiru
+Nove pessoas são presas em operação da Polícia Civil, em Alagoas
 
-Justiça de SP extingue penas de policiais pelo massacre do Carandiru](https://www.tnh1.com.br/noticia/nid/justica-de-sp-extingue-penas-de-policiais-pelo-massacre-do-carandiru/ "Justiça de SP extingue penas de policiais pelo massacre do Carandiru")
+Nove pessoas são presas em operação da Polícia Civil, em Alagoas](https://www.tnh1.com.br/noticia/nid/nove-pessoas-sao-presas-em-operacao-da-policia-civil-em-alagoas/ "Nove pessoas são presas em operação da Polícia Civil, em Alagoas")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
