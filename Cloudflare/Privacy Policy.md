@@ -13,7 +13,7 @@ Solutions
     Public interest
     ---------------
     
-* [Register domain](https://www.cloudflare.com/products/registrar/)
+* [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
 Products
 ========
@@ -32,7 +32,7 @@ Products
     -----------------
     
 * [View What's New](https://www.cloudflare.com/whats-new/)
-* [Register domain](https://www.cloudflare.com/products/registrar/)
+* [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
 Pricing
 =======
@@ -50,7 +50,7 @@ Pricing
     ---------------
     
 * [View FAQs](https://www.cloudflare.com/plans/faq/)
-* [Register domain](https://www.cloudflare.com/products/registrar/)
+* [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
 Resources
 =========
@@ -101,7 +101,7 @@ Resources
     Get help
     --------
     
-* [Register domain](https://www.cloudflare.com/products/registrar/)
+* [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
 Partners
 ========
@@ -131,7 +131,7 @@ Why Cloudflare
     Why trust Cloudflare
     --------------------
     
-* [Register domain](https://www.cloudflare.com/products/registrar/)
+* [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
 Sign up
 =======
