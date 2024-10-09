@@ -63,7 +63,7 @@
         -----
         
         * [Vimeo blog](https://vimeo.com/blog)
-        * [Video School](https://vimeo.com/blog/category/video-school)
+        * [Video School](https://vimeo.com/blog/video-school)
         * [Customer stories](https://vimeo.com/blog/category/case-study)
         * [Investor Relations](https://investors.vimeo.com/)
     * Connect
@@ -146,7 +146,7 @@ Menu
     Learn
     
     * [Vimeo blog](https://vimeo.com/blog)
-    * [Video School](https://vimeo.com/blog/category/video-school)
+    * [Video School](https://vimeo.com/blog/video-school)
     * [Customer stories](https://vimeo.com/blog/category/case-study)
     * [Investor Relations](https://investors.vimeo.com/)
     
@@ -227,7 +227,7 @@ TM + © 2024 Vimeo.com, Inc.
 * [Help Center](https://vimeo.com/help/sso?redirect_to=https://help.vimeo.com/)
 * [Blog](https://vimeo.com/blog/)
 * [Our Customers](https://vimeo.com/customers)
-* [Video School](https://vimeo.com/blog/category/video-school/)
+* [Video School](https://vimeo.com/blog/video-school)
 * [OTT Resources](https://vimeo.com/ott/resources)
 * [Developers](https://developer.vimeo.com/)
 * [Become a Partner](https://vimeo.com/partners)
