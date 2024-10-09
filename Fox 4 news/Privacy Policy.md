@@ -401,37 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Florida residents arriving in Georgia ahead of Hurricane Milton](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/snapshot-10-1.jpg?ve=1&tl=1)
+ [![Hurricane update: Milton now Category 4 storm ahead of Florida landfall](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/milton.gif?ve=1&tl=1)
 
- ![Florida residents arriving in Georgia ahead of Hurricane Milton](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/10/32/18/592/333/snapshot-10-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/florida-residents-arriving-georgia-ahead-hurricane-milton)
+ ![Hurricane update: Milton now Category 4 storm ahead of Florida landfall](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/milton.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
-### [Florida residents arriving in Georgia ahead of Hurricane Milton](https://www.fox4news.com/news/florida-residents-arriving-georgia-ahead-hurricane-milton)
+### [Hurricane update: Milton remains powerful Category 4 storm ahead of Florida landfall](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
- [![Fort Worth ISD names interim superintendent](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100824-ds-fwisd-meeting-folo-sot-vo-jb_kdfw9731_18_00.01.03.38.jpg?ve=1&tl=1)
+ [![Houston crime: Deundrea Ford’s disappearance ends with body discovery in Dallas and murder charge](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/09/32/18/1576fdb9-image000000-2.jpg?ve=1&tl=1)
 
- ![Fort Worth ISD names interim superintendent](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100824-ds-fwisd-meeting-folo-sot-vo-jb_kdfw9731_18_00.01.03.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/karen-molinar-new-interim-superintendent-fwisd)
+ ![Houston crime: Deundrea Ford’s disappearance ends with body discovery in Dallas and murder charge](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/09/32/18/592/333/1576fdb9-image000000-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/houston-crime-deundrea-fords-disappearance-ends-body-discovery-murder-charge)
 
-### [Fort Worth ISD names interim superintendent](https://www.fox4news.com/news/karen-molinar-new-interim-superintendent-fwisd)
+### [Houston crime: Deundrea Ford’s disappearance ends with body discovery in Dallas and murder charge](https://www.fox4news.com/news/houston-crime-deundrea-fords-disappearance-ends-body-discovery-murder-charge)
 
- [![American Red Cross blood supply strained by two hurricanes; how North Texans can help](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-amelia-red-cross-donations-milton-9p_00.01.02.24.jpg?ve=1&tl=1)
+ [![Watch: Tropicana implosion brings down iconic Vegas hotel](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/nv_tropicana_hotel_demolished.jpg?ve=1&tl=1)
 
- ![American Red Cross blood supply strained by two hurricanes; how North Texans can help](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-amelia-red-cross-donations-milton-9p_00.01.02.24.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/red-cross-blood-supply-strained-two-hurricanes-how-north-texans-can-help)
+ ![Watch: Tropicana implosion brings down iconic Vegas hotel](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/nv_tropicana_hotel_demolished.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-tropicana-implosion-vegas-hotel-casino-october-9-2024)
 
-### [American Red Cross blood supply strained by two hurricanes; how North Texans can help](https://www.fox4news.com/news/red-cross-blood-supply-strained-two-hurricanes-how-north-texans-can-help)
+### [Watch: Tropicana implosion brings down iconic Vegas hotel](https://www.fox4news.com/news/watch-tropicana-implosion-vegas-hotel-casino-october-9-2024)
 
- [![Hurricane Milton update: Storm returns to Category 5 as Florida prepares for life-threatening impacts](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/46d111a0-al14_stats.gif?ve=1&tl=1)
+ [![Driver flees crash, leaving 9-year-old boy injured in backseat](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/kdfwu20_3452_mxf_02.00.19.28.jpg?ve=1&tl=1)
 
- ![Hurricane Milton update: Storm returns to Category 5 as Florida prepares for life-threatening impacts](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/46d111a0-al14_stats.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-update-extremely-serious-threat-florida-october-8-2024)
+ ![Driver flees crash, leaving 9-year-old boy injured in backseat](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/kdfwu20_3452_mxf_02.00.19.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/driver-flees-crash-leaving-9-year-old-boy-injured-backseat)
 
-Live Now
+### [Driver flees crash, leaving 9-year-old boy injured in backseat](https://www.fox4news.com/news/driver-flees-crash-leaving-9-year-old-boy-injured-backseat)
 
-### [Hurricane Milton update: Storm returns to Category 5 as Florida prepares for life-threatening impacts](https://www.fox4news.com/news/hurricane-milton-update-extremely-serious-threat-florida-october-8-2024)
+ [![Milton evacuations: Atlanta Motor Speedway, other Georgia locations opening to evacuees](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/09/32/18/Atlanta-Motor-Speedway-Aerials-9_27-WAGAME001_mpg_00.00.45.22.jpg?ve=1&tl=1)
 
- [![Hurricane Milton: Disney World, Universal, SeaWorld closing as major storm encroaches](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/06/32/18/Theme-parks-.jpg?ve=1&tl=1)
+ ![Milton evacuations: Atlanta Motor Speedway, other Georgia locations opening to evacuees](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/09/32/18/592/333/Atlanta-Motor-Speedway-Aerials-9_27-WAGAME001_mpg_00.00.45.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/milton-evacuations-atlanta-motor-speedway-opening-camping-evacuees)
 
- ![Hurricane Milton: Disney World, Universal, SeaWorld closing as major storm encroaches](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/06/32/18/592/333/Theme-parks-.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-disney-universal-seaworld-legoland-busch-gardens-closed-ahead-storm)
-
-### [Hurricane Milton: Disney World, Universal, SeaWorld closing as major storm encroaches](https://www.fox4news.com/news/hurricane-milton-disney-universal-seaworld-legoland-busch-gardens-closed-ahead-storm)
+### [Milton evacuations: Atlanta Motor Speedway, other Georgia locations opening to evacuees](https://www.fox4news.com/news/milton-evacuations-atlanta-motor-speedway-opening-camping-evacuees)
 
 ###### [News](https://www.fox4news.com/news)
 
