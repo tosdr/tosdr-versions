@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-5-1200x630.jpg)](https://americanwirenews.com/60-minutes-deceptively-edits-kamala-interview-after-fallout-airs-chopped-version-of-answer/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-brett-kavanaugh-1200x630.jpg)](https://americanwirenews.com/dem-senator-claims-trump-white-house-impeded-fbi-probe-of-brett-kavanaugh/)
 
-[’60 Minutes’ deceptively edits Kamala interview after fallout, airs chopped version of answer](https://americanwirenews.com/60-minutes-deceptively-edits-kamala-interview-after-fallout-airs-chopped-version-of-answer/)
+[Dem senator claims Trump White House impeded FBI probe of Brett Kavanaugh](https://americanwirenews.com/dem-senator-claims-trump-white-house-impeded-fbi-probe-of-brett-kavanaugh/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-joe-biden-barack-obama-1200x630.jpg)](https://americanwirenews.com/biden-slams-obamas-fed-up-handling-of-russia-blames-him-for-ukraine-invasion-in-bombshell-book/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumps-1200x630.jpg)](https://americanwirenews.com/melania-says-barron-trump-denied-a-bank-account-faults-cancel-mob-for-civil-rights-violation/)
 
-[Biden slams Obama’s ‘f\*\*ed up’ handling of Russia, blames him for Ukraine invasion in bombshell book](https://americanwirenews.com/biden-slams-obamas-fed-up-handling-of-russia-blames-him-for-ukraine-invasion-in-bombshell-book/)
+[Melania says Barron Trump denied a bank account, faults ‘cancel mob’ for ‘civil rights violation’](https://americanwirenews.com/melania-says-barron-trump-denied-a-bank-account-faults-cancel-mob-for-civil-rights-violation/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamalacolbert-1200-x-628-1200x630.jpg)](https://americanwirenews.com/kamala-cracks-a-beer-with-colbert-as-monster-hurricane-bears-down-on-florida/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-professor-awful-1200x630.jpg)](https://americanwirenews.com/dont-want-the-dean-hearing-that-clip-of-professors-heinous-political-comments-goes-viral/)
 
-[Kamala cracks a beer with Colbert as monster hurricane bears down on Florida](https://americanwirenews.com/kamala-cracks-a-beer-with-colbert-as-monster-hurricane-bears-down-on-florida/)
+[‘Don’t want the dean hearing that’: Clip of professor’s HEINOUS political comments goes viral](https://americanwirenews.com/dont-want-the-dean-hearing-that-clip-of-professors-heinous-political-comments-goes-viral/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-maccallum-richmond-1200x630.jpg)](https://americanwirenews.com/harris-campaign-co-chair-gets-testy-with-maccallum-when-she-ruined-his-soundbite/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-morales-storm-1200x630.jpg)](https://americanwirenews.com/veteran-meteorologist-who-went-viral-for-emotional-reaction-to-hurricane-milton-explains-why/)
 
-[Harris campaign co-chair gets testy with MacCallum when she ruined his soundbite](https://americanwirenews.com/harris-campaign-co-chair-gets-testy-with-maccallum-when-she-ruined-his-soundbite/)
+[Veteran meteorologist who went viral for emotional reaction to Hurricane Milton explains why](https://americanwirenews.com/veteran-meteorologist-who-went-viral-for-emotional-reaction-to-hurricane-milton-explains-why/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/12/RF-Getty-water-tap-thirsty-refreshing-kitchen-1200x630.jpg)](https://americanwirenews.com/american-water-countrys-biggest-water-and-wastewater-facility-hit-with-cyberattack/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-kamala-harris-donald-trump-split-1200x630.jpg)](https://americanwirenews.com/trump-cries-foul-over-60-minutes-edit-of-kamala-sit-down-must-be-investigated/)
 
-Getty Images
+[Trump cries foul over 60 Minutes edit of Kamala sit down: ‘Must be investigated’](https://americanwirenews.com/trump-cries-foul-over-60-minutes-edit-of-kamala-sit-down-must-be-investigated/)
 
-[American Water, country’s biggest water and wastewater facility, hit with cyberattack](https://americanwirenews.com/american-water-countrys-biggest-water-and-wastewater-facility-hit-with-cyberattack/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-andrea-mitchell-1200x630.jpg)](https://americanwirenews.com/msnbcs-andrea-mitchell-draws-friendly-fire-after-saying-kamala-harris-must-do-more-interviews/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dershowitz-morgan-hijab-1200x630.jpg)](https://americanwirenews.com/he-just-called-me-a-pervert-he-will-be-sued-dershowitz-pushes-back-over-epstein-link/)
+[MSNBC’s Andrea Mitchell draws friendly fire after saying Kamala Harris must do more interviews](https://americanwirenews.com/msnbcs-andrea-mitchell-draws-friendly-fire-after-saying-kamala-harris-must-do-more-interviews/)
 
-[‘He just called me a pervert. He will be sued’: Dershowitz pushes back over Epstein link](https://americanwirenews.com/he-just-called-me-a-pervert-he-will-be-sued-dershowitz-pushes-back-over-epstein-link/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-saleh-1200x630.jpg)](https://americanwirenews.com/nfl-head-coach-fired-after-wearing-lebanese-flag-on-sweatshirt-during-london-game/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-tucker-1200x630.jpg)](https://americanwirenews.com/musk-name-drops-some-dems-he-says-are-terrified-of-epstein-diddy-files-going-public/)
+[NFL head coach fired after wearing Lebanese flag on sweatshirt during London game](https://americanwirenews.com/nfl-head-coach-fired-after-wearing-lebanese-flag-on-sweatshirt-during-london-game/)
 
-[Musk name-drops some Dems he says ‘are terrified’ of Epstein, Diddy files going public](https://americanwirenews.com/musk-name-drops-some-dems-he-says-are-terrified-of-epstein-diddy-files-going-public/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-moody-1200x630.jpg)](https://americanwirenews.com/florida-officials-have-grim-message-for-those-who-refuse-to-evacuate-monster-storm/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-palestinian-journalists-1200x630.png)](https://americanwirenews.com/fox-news-trey-yingst-denounces-israel-for-unacceptable-deaths-of-more-than-a-hundred-palestinian-journalists/)
+[Florida officials have GRIM message for those who refuse to evacuate monster storm](https://americanwirenews.com/florida-officials-have-grim-message-for-those-who-refuse-to-evacuate-monster-storm/)
 
-[Fox News’ Trey Yingst denounces Israel for ‘unacceptable’ deaths of more than a hundred Palestinian ‘journalists’](https://americanwirenews.com/fox-news-trey-yingst-denounces-israel-for-unacceptable-deaths-of-more-than-a-hundred-palestinian-journalists/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-phone-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-vlad-split-1200-x-628-1200x630.jpg)
-
-### Leftists melt down over report that Trump talks to Putin, it used to be called diplomacy](https://americanwirenews.com/leftists-melt-down-over-report-that-trump-talks-to-putin-it-used-to-be-called-diplomacy/)
+### Alleged access to AZ college students draws concern Harris campaign overstepped federal law](https://americanwirenews.com/alleged-access-to-az-college-students-draws-concern-harris-campaign-overstepped-federal-law/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -79,6 +77,32 @@ Getty Images
 ### [Brian Stelter bemoans ‘ugly misogyny’ of Kamala podcast critics](https://americanwirenews.com/brian-stelter-bemoans-ugly-misogyny-of-kamala-podcast-critics/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-biden-harris-220x180.jpg)](https://americanwirenews.com/nancy-mace-biden-harris-admin-taking-advice-from-foreign-governments-on-how-to-control-speech/)
+
+[Nancy Mace: Biden-Harris admin ‘taking advice from foreign governments’ on how to control speech](https://americanwirenews.com/nancy-mace-biden-harris-admin-taking-advice-from-foreign-governments-on-how-to-control-speech/)
+
+(Official White House Photo by Adam Schultz)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/03/RF-Getty-Cyber-Security-2-220x180.jpg)](https://americanwirenews.com/verizon-att-reportedly-hacked-by-china-beijing-may-have-accessed-u-s-wiretap-systems/)
+
+[Verizon, AT&T reportedly hacked by China – Beijing may have accessed U.S. wiretap systems](https://americanwirenews.com/verizon-att-reportedly-hacked-by-china-beijing-may-have-accessed-u-s-wiretap-systems/)
+
+Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-vote-220x180.jpg)](https://americanwirenews.com/asking-for-fraud-storm-ravaged-north-carolina-to-change-voting-rules/)
+
+[‘Asking for fraud’: Storm-ravaged North Carolina to change voting rules](https://americanwirenews.com/asking-for-fraud-storm-ravaged-north-carolina-to-change-voting-rules/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-putin-trump-220x180.jpg)](https://americanwirenews.com/kremlin-denies-trump-putin-phone-calls-confirms-covid-test-machines-report/)
+
+[Kremlin denies Trump-Putin phone calls, confirms COVID test machines: report](https://americanwirenews.com/kremlin-denies-trump-putin-phone-calls-confirms-covid-test-machines-report/)
+
+(Official White House Photo by Shealah Craighead)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-pexels-homeless-220x180.jpg)](https://americanwirenews.com/florida-sheriff-says-homeless-crackdown-a-quality-of-life-issue-warns-jails-will-not-be-homeless-camps/)
+
+[Florida sheriff says homeless crackdown a quality of life issue, warns jails will not be homeless camps](https://americanwirenews.com/florida-sheriff-says-homeless-crackdown-a-quality-of-life-issue-warns-jails-will-not-be-homeless-camps/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-peter-doocy-220x180.png)](https://americanwirenews.com/peter-doocy-brings-receipts-after-kjp-misinformation-meltdown-on-him/)
 
@@ -106,6 +130,44 @@ Getty Images
 
 [Melania Trump does historic interview on ‘The Five,’ Greg asks about president’s pajamas](https://americanwirenews.com/melania-trump-does-historic-interview-on-the-five-greg-asks-about-presidents-pajamas/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-palestinian-journalists-220x180.png)](https://americanwirenews.com/fox-news-trey-yingst-denounces-israel-for-unacceptable-deaths-of-more-than-a-hundred-palestinian-journalists/)
+
+[Fox News’ Trey Yingst denounces Israel for ‘unacceptable’ deaths of more than a hundred Palestinian ‘journalists’](https://americanwirenews.com/fox-news-trey-yingst-denounces-israel-for-unacceptable-deaths-of-more-than-a-hundred-palestinian-journalists/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-musk-tucker-220x180.jpg)](https://americanwirenews.com/musk-name-drops-some-dems-he-says-are-terrified-of-epstein-diddy-files-going-public/)
+
+[Musk name-drops some Dems he says ‘are terrified’ of Epstein, Diddy files going public](https://americanwirenews.com/musk-name-drops-some-dems-he-says-are-terrified-of-epstein-diddy-files-going-public/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dershowitz-morgan-hijab-220x180.jpg)](https://americanwirenews.com/he-just-called-me-a-pervert-he-will-be-sued-dershowitz-pushes-back-over-epstein-link/)
+
+[‘He just called me a pervert. He will be sued’: Dershowitz pushes back over Epstein link](https://americanwirenews.com/he-just-called-me-a-pervert-he-will-be-sued-dershowitz-pushes-back-over-epstein-link/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/12/RF-Getty-water-tap-thirsty-refreshing-kitchen-220x180.jpg)](https://americanwirenews.com/american-water-countrys-biggest-water-and-wastewater-facility-hit-with-cyberattack/)
+
+[American Water, country’s biggest water and wastewater facility, hit with cyberattack](https://americanwirenews.com/american-water-countrys-biggest-water-and-wastewater-facility-hit-with-cyberattack/)
+
+Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-maccallum-richmond-220x180.jpg)](https://americanwirenews.com/harris-campaign-co-chair-gets-testy-with-maccallum-when-she-ruined-his-soundbite/)
+
+[Harris campaign co-chair gets testy with MacCallum when she ruined his soundbite](https://americanwirenews.com/harris-campaign-co-chair-gets-testy-with-maccallum-when-she-ruined-his-soundbite/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamalacolbert-1200-x-628-220x180.jpg)](https://americanwirenews.com/kamala-cracks-a-beer-with-colbert-as-monster-hurricane-bears-down-on-florida/)
+
+[Kamala cracks a beer with Colbert as monster hurricane bears down on Florida](https://americanwirenews.com/kamala-cracks-a-beer-with-colbert-as-monster-hurricane-bears-down-on-florida/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/gw-joe-biden-barack-obama-220x180.jpg)](https://americanwirenews.com/biden-slams-obamas-fed-up-handling-of-russia-blames-him-for-ukraine-invasion-in-bombshell-book/)
+
+[Biden slams Obama’s ‘f\*\*ed up’ handling of Russia, blames him for Ukraine invasion in bombshell book](https://americanwirenews.com/biden-slams-obamas-fed-up-handling-of-russia-blames-him-for-ukraine-invasion-in-bombshell-book/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-5-220x180.jpg)](https://americanwirenews.com/60-minutes-deceptively-edits-kamala-interview-after-fallout-airs-chopped-version-of-answer/)
+
+[’60 Minutes’ deceptively edits Kamala interview after fallout, airs chopped version of answer](https://americanwirenews.com/60-minutes-deceptively-edits-kamala-interview-after-fallout-airs-chopped-version-of-answer/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-djt-vlad-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/leftists-melt-down-over-report-that-trump-talks-to-putin-it-used-to-be-called-diplomacy/)
+
+[Leftists melt down over report that Trump talks to Putin, it used to be called diplomacy](https://americanwirenews.com/leftists-melt-down-over-report-that-trump-talks-to-putin-it-used-to-be-called-diplomacy/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-ramaswamy-220x180.jpg)](https://americanwirenews.com/ramaswamy-floats-common-sense-solution-to-illegal-immigration-leftists-cant-comprehend/)
 
 [Ramaswamy floats common-sense solution to illegal immigration leftists can’t comprehend](https://americanwirenews.com/ramaswamy-floats-common-sense-solution-to-illegal-immigration-leftists-cant-comprehend/)
@@ -123,64 +185,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-biden-hurricane-220x180.jpg)](https://americanwirenews.com/he-hates-her-biden-undermines-harris-praises-desantis-for-great-job-dealing-with-hurricanes/)
 
 [‘He hates her’: Biden undermines Harris, praises DeSantis for ‘great job’ dealing with hurricanes](https://americanwirenews.com/he-hates-her-biden-undermines-harris-praises-desantis-for-great-job-dealing-with-hurricanes/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-moore-220x180.jpg)](https://americanwirenews.com/michael-moore-thinks-kamala-win-is-all-but-cinched-mocks-dems-for-being-panicked/)
-
-[Michael Moore thinks Kamala win is all but cinched, mocks Dems for being panicked](https://americanwirenews.com/michael-moore-thinks-kamala-win-is-all-but-cinched-mocks-dems-for-being-panicked/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-howard-stern2-220x180.png)](https://americanwirenews.com/disgusting-shock-jock-video-resurfaces-amid-kamalas-raunchy-interview-tour-im-sure-cnn-will-be-outraged/)
-
-[Disgusting shock jock video resurfaces amid Kamala’s raunchy interview tour: ‘I’m sure CNN will be outraged’](https://americanwirenews.com/disgusting-shock-jock-video-resurfaces-amid-kamalas-raunchy-interview-tour-im-sure-cnn-will-be-outraged/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-scott-jennings-3-220x180.jpg)](https://americanwirenews.com/is-she-crazy-even-cnn-lefty-agrees-kamala-is-playing-a-poor-political-game-over-alleged-desantis-call/)
-
-[‘Is she crazy?’ Even CNN lefty agrees Kamala is playing a poor political game over alleged DeSantis call](https://americanwirenews.com/is-she-crazy-even-cnn-lefty-agrees-kamala-is-playing-a-poor-political-game-over-alleged-desantis-call/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-desantis2-220x180.jpg)](https://americanwirenews.com/its-not-about-you-desantis-says-kamala-should-look-in-the-mirror-over-sudden-concern-for-hurricane-victims/)
-
-[‘It’s not about you’: DeSantis says Kamala should ‘look in the mirror’ over ‘sudden’ concern for hurricane victims](https://americanwirenews.com/its-not-about-you-desantis-says-kamala-should-look-in-the-mirror-over-sudden-concern-for-hurricane-victims/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-donald-trump-3-220x180.jpg)](https://americanwirenews.com/kamala-is-collapsing-before-our-eyes-trump-sees-incredible-surge-in-betting-market/)
-
-[‘Kamala is collapsing before our eyes’: Trump sees incredible surge in betting market](https://americanwirenews.com/kamala-is-collapsing-before-our-eyes-trump-sees-incredible-surge-in-betting-market/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-johnson-220x180.jpg)](https://americanwirenews.com/unhinged-chicago-mayor-pushes-back-against-fiscal-responsibility-likens-it-to-slavery/)
-
-[‘Unhinged’ Chicago mayor pushes back against fiscal responsibility, likens it to slavery](https://americanwirenews.com/unhinged-chicago-mayor-pushes-back-against-fiscal-responsibility-likens-it-to-slavery/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-kennedy-220x180.jpg)](https://americanwirenews.com/unconscionable-ufc-star-slams-bumbling-fema-for-impeding-rescue-efforts-amid-biblical-aftermath-of-helene/)
-
-[‘Unconscionable’: UFC star slams bumbling FEMA for impeding rescue efforts amid ‘biblical’ aftermath of Helene](https://americanwirenews.com/unconscionable-ufc-star-slams-bumbling-fema-for-impeding-rescue-efforts-amid-biblical-aftermath-of-helene/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-lara-logan-220x180.jpg)](https://americanwirenews.com/lara-logan-goes-scorched-earth-on-morally-bankrupt-media-machine-in-brilliant-censorship-testimony/)
-
-[Lara Logan goes scorched earth on morally bankrupt media machine in brilliant censorship testimony](https://americanwirenews.com/lara-logan-goes-scorched-earth-on-morally-bankrupt-media-machine-in-brilliant-censorship-testimony/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-4-220x180.jpg)](https://americanwirenews.com/shes-so-bad-at-this-kamala-sets-herself-up-for-big-self-own-suggesting-men-have-total-bodily-autonomy/)
-
-[‘She’s so bad at this’: Kamala sets herself up for big self-own suggesting men have total bodily autonomy](https://americanwirenews.com/shes-so-bad-at-this-kamala-sets-herself-up-for-big-self-own-suggesting-men-have-total-bodily-autonomy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-alberta-pavlich-220x180.jpg)](https://americanwirenews.com/this-you-atlantic-writer-torched-with-his-own-words-after-slamming-katie-pavlichs-helene-reporting/)
-
-[‘This you?’ Atlantic writer torched with his own words after slamming Katie Pavlich’s Helene reporting](https://americanwirenews.com/this-you-atlantic-writer-torched-with-his-own-words-after-slamming-katie-pavlichs-helene-reporting/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-donald-trump-sg-scott-jennings-220x180.jpg)](https://americanwirenews.com/cnns-lone-conservative-says-donald-trump-is-right-to-call-out-jewish-voters/)
-
-[CNN’s lone conservative says ‘Donald Trump is RIGHT’ to call out Jewish voters](https://americanwirenews.com/cnns-lone-conservative-says-donald-trump-is-right-to-call-out-jewish-voters/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-walz-60-220x180.jpg)](https://americanwirenews.com/walz-asked-if-he-can-be-trusted-with-the-truth-on-60-minutes-his-answer-is-not-convincing/)
-
-[Walz asked if he can be ‘trusted with the truth’ on ’60 Minutes’ – his answer is not convincing](https://americanwirenews.com/walz-asked-if-he-can-be-trusted-with-the-truth-on-60-minutes-his-answer-is-not-convincing/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/gettyimages-2176495437-1-220x180.jpg)](https://americanwirenews.com/youre-going-to-die-tampa-bay-mayor-has-bone-chilling-warning-as-floridians-scramble-to-evacuate/)
-
-[‘You’re going to die’: Tampa Bay mayor has bone-chilling warning as Floridians scramble to evacuate](https://americanwirenews.com/youre-going-to-die-tampa-bay-mayor-has-bone-chilling-warning-as-floridians-scramble-to-evacuate/)
-
-(Photo by BRYAN R. SMITH/AFP via Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg_tequila-220x180.png)](https://americanwirenews.com/kamala-campaign-tries-to-scare-young-voters-with-talk-of-trump-tequila-tax/)
-
-[Kamala campaign tries to scare young voters with talk of ‘Trump Tequila Tax’](https://americanwirenews.com/kamala-campaign-tries-to-scare-young-voters-with-talk-of-trump-tequila-tax/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
