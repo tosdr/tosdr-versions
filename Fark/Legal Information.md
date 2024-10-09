@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![Fark25 Party](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-If you like these links, you'll love
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-All the submissions, none of the calories.
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [If you're a Walgreens customer, do not fight with employees. It could be deadly](https://www.fark.com/goto/13420228) ( [cbsnews.com](https://www.fark.com/goto/13420228) ) » [(7 comments)](https://www.fark.com/comments/13420228/If-youre-a-Walgreens-customer-do-not-fight-with-employees-It-could-be-deadly) |
-| [Discussion](https://www.fark.com/discussion/) | ["I live in a murder house, though it's become more of a murder home to me. My girlfriend wants to pull out a Ouija Board and practice summoning rituals on Halloween. Isn't this a bad idea?"](https://www.fark.com/goto/13420410) ( [slate.com](https://www.fark.com/goto/13420410) ) » [(7 comments)](https://www.fark.com/comments/13420410/I-live-in-a-murder-house-though-its-become-more-of-a-murder-home-to-me-My-girlfriend-wants-to-pull-out-a-Ouija-Board-practice-summoning-rituals-on-Halloween-Isnt-this-a-bad-idea) |
-| [Sports](https://www.fark.com/sports/) | [Last night, the Chiefs won hands down - with their fashion and style in white-washed jeans and cargo shorts](https://www.fark.com/goto/13420188) ( [chiefswire.usatoday.com](https://www.fark.com/goto/13420188) ) » [(0 comments)](https://www.fark.com/comments/13420188/Last-night-Chiefs-won-hands-down-with-their-fashion-style-in-white-washed-jeans-cargo-shorts) |
-| [Business](https://www.fark.com/business/) | [Most companies would be pleased to make $6.8B in operating profit for the most recent quarter, but then again, Samsung is not most companies and therefore an apology was required and promise to do better in the future](https://www.fark.com/goto/13420302) ( [theverge.com](https://www.fark.com/goto/13420302) ) » [(3 comments)](https://www.fark.com/comments/13420302/Most-companies-would-be-pleased-to-make-$68B-in-operating-profit-for-most-recent-quarter-but-then-again-Samsung-is-not-most-companies-therefore-an-apology-was-required-promise-to-do-better-in-future) |
-| [STEM](https://www.fark.com/stem/) | [Scienticians who have not seen Hollywood science documentaries find microbes in 2-billion-year-old rock](https://www.fark.com/goto/13420196) ( [sciencealert.com](https://www.fark.com/goto/13420196) ) » [(4 comments)](https://www.fark.com/comments/13420196/Scienticians-who-have-not-seen-Hollywood-science-documentaries-find-microbes-in-2-billion-year-old-rock) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Lisa Marie Presley was always a trendsetter, and now she redefines the terms homebody and momma's boy in her own unique way](https://www.fark.com/goto/13420412) ( [pagesix.com](https://www.fark.com/goto/13420412) ) » [(3 comments)](https://www.fark.com/comments/13420412/Lisa-Marie-Presley-was-always-a-trendsetter-now-she-redefines-terms-homebody-mommas-boy-in-her-own-unique-way) |
-| [Fandom](https://www.fark.com/fandom/) | [So what kind of bird is Woodstock anyway?](https://www.fark.com/goto/13420602) ( [usatoday.com](https://www.fark.com/goto/13420602) ) » [(2 comments)](https://www.fark.com/comments/13420602/So-what-kind-of-bird-is-Woodstock-anyway) |
-| [D'awww](https://www.fark.com/dawww/) | [Strap a GoPro to a cat for a day and watch the fun. Warning: contains some butt sniffing](https://www.fark.com/goto/13420094) ( [youtube.com](https://www.fark.com/goto/13420094) ) » [(6 comments)](https://www.fark.com/comments/13420094/Strap-a-GoPro-to-a-cat-for-a-day-watch-fun-Warning-contains-some-butt-sniffing) |
-| [Food](https://www.fark.com/food/) | [What are your favorite Orange Chicken recipes, and why are you making it on Oct 23? Subby is going for the rare Food/Politics cross-over](https://www.fark.com/goto/13420640) ( [seriouseats.com](https://www.fark.com/goto/13420640) ) » [(2 comments)](https://www.fark.com/comments/13420640/What-are-your-favorite-Orange-Chicken-recipes-why-are-you-making-it-on-Oct-23-Subby-is-going-for-rare-FoodPolitics-cross-over) |
-| [Politics](https://www.fark.com/politics/) | [Interesting: Trump gets live fact-checked during an interview on Fox News. Fark: by Laura "sieg heil y'all" Ingraham](https://www.fark.com/goto/13420442) ( [msn.com](https://www.fark.com/goto/13420442) ) » [(9 comments)](https://www.fark.com/comments/13420442/Interesting-Trump-gets-live-fact-checked-during-an-interview-on-Fox-News-Fark-by-Laura-sieg-heil-yall-Ingraham) |
+| [Main](https://www.fark.com/) | [States sue TikTok over app's "digital nicotine" effects on kids' mental health. Drew seen getting ready for lawsuit over Fark's "bath salts" effects](https://www.fark.com/goto/13420856) ( [cnbc.com](https://www.fark.com/goto/13420856) ) » [(6 comments)](https://www.fark.com/comments/13420856/States-sue-TikTok-over-apps-digital-nicotine-effects-on-kids-mental-health-Drew-seen-getting-ready-for-lawsuit-over-Farks-bath-salts-effects) |
+| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13420232) ( [fark.com](https://www.fark.com/goto/13420232) ) » [(24 comments)](https://www.fark.com/comments/13420232/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Sports](https://www.fark.com/sports/) | [Grimace recommends you take mass transit to Citi Field](https://www.fark.com/goto/13420792) ( [ftw.usatoday.com](https://www.fark.com/goto/13420792) ) » [(0 comments)](https://www.fark.com/comments/13420792/Grimace-recommends-you-take-mass-transit-to-Citi-Field) |
+| [Business](https://www.fark.com/business/) | [Did you pay $2,000 for Samsung's folding phone expecting that you would receive security updates for many years to come? Sucker](https://www.fark.com/goto/13420860) ( [arstechnica.com](https://www.fark.com/goto/13420860) ) » [(2 comments)](https://www.fark.com/comments/13420860/Did-you-pay-$2000-for-Samsungs-folding-phone-expecting-that-you-would-receive-security-updates-for-many-years-to-come-Sucker) |
+| [STEM](https://www.fark.com/stem/) | [States sue TikTok over app's "digital nicotine" effects on kids' mental health. Drew seen getting ready for lawsuit over Fark's "bath salts" effects](https://www.fark.com/goto/13420856) ( [cnbc.com](https://www.fark.com/goto/13420856) ) » [(6 comments)](https://www.fark.com/comments/13420856/States-sue-TikTok-over-apps-digital-nicotine-effects-on-kids-mental-health-Drew-seen-getting-ready-for-lawsuit-over-Farks-bath-salts-effects) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Dogma may finally get resurrected](https://www.fark.com/goto/13420956) ( [youtube.com](https://www.fark.com/goto/13420956) ) » [(3 comments)](https://www.fark.com/comments/13420956/Dogma-may-finally-get-resurrected) |
+| [Fandom](https://www.fark.com/fandom/) | [If only they'd played Wake The Dead to include Raul Julia as well](https://www.fark.com/goto/13420906) ( [youtube.com](https://www.fark.com/goto/13420906) ) » [(3 comments)](https://www.fark.com/comments/13420906/If-only-theyd-played-Wake-The-Dead-to-include-Raul-Julia-as-well) |
+| [D'awww](https://www.fark.com/dawww/) | [Fark's favorite soft-spoken Texas bee lady shouts "OH SHIAT" and puts on protective gear](https://www.fark.com/goto/13420972) ( [youtube.com](https://www.fark.com/goto/13420972) ) » [(1 comment)](https://www.fark.com/comments/13420972/Farks-favorite-soft-spoken-Texas-bee-lady-shouts-OH-SHIAT-puts-on-protective-gear) |
+| [Food](https://www.fark.com/food/) | [Smells like fish](https://www.fark.com/goto/13420748) ( [foxnews.com](https://www.fark.com/goto/13420748) ) » [(7 comments)](https://www.fark.com/comments/13420748/Smells-like-fish) |
+| [Politics](https://www.fark.com/politics/) | [A category 5 moron](https://www.fark.com/goto/13420764) ( [mediaite.com](https://www.fark.com/goto/13420764) ) » [(68 comments)](https://www.fark.com/comments/13420764/A-category-5-moron) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 08 2024 15:42:10  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 08 2024 21:42:49  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
