@@ -1,8 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Milton: Florida flight cancellations hit Atlanta, Delta caps some fares](https://www.ajc.com/news/business/hurricane-milton-is-disrupting-flights-as-it-heads-toward-florida/T4FCYJFYUJDRLNM7IDGPWCD3VE/)
-
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1711)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1711)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1713)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1713)](https://www.ajc.com/)
 
 Log In
 
@@ -18,14 +16,13 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-making-way-for-milton/S7OLAVVBERG5PAGRWS7ORV225A/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politics-blog/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1711)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1713)
 
 * Quick Links
     
@@ -149,7 +146,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1711)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1713)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
