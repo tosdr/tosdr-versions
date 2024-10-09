@@ -296,11 +296,11 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![walterslawgroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/walterslawgroup)[Walters Law Group](https://twitter.com/walterslawgroup) [@walterslawgroup](https://twitter.com/walterslawgroup) ·
 
-[3 Oct](https://twitter.com/walterslawgroup/status/1841835648916898256)
+[4 Oct](https://twitter.com/walterslawgroup/status/1842222984599089271)
 
-Comments on 10th Circuit decision re online age verification
+⁦@WoodhullFreedom⁩ supporting the legal fight against online age verification in Mississippi.
 
-[Reply on Twitter 1841835648916898256](https://twitter.com/intent/tweet?in_reply_to=1841835648916898256&related=walterslawgroup) [Retweet on Twitter 1841835648916898256 1](https://twitter.com/intent/retweet?tweet_id=1841835648916898256&related=walterslawgroup) [Like on Twitter 1841835648916898256](https://twitter.com/intent/like?tweet_id=1841835648916898256&related=walterslawgroup) [Twitter 1841835648916898256](https://twitter.com/walterslawgroup/status/1841835648916898256)
+[Reply on Twitter 1842222984599089271](https://twitter.com/intent/tweet?in_reply_to=1842222984599089271&related=walterslawgroup) [Retweet on Twitter 1842222984599089271 1](https://twitter.com/intent/retweet?tweet_id=1842222984599089271&related=walterslawgroup) [Like on Twitter 1842222984599089271 5](https://twitter.com/intent/like?tweet_id=1842222984599089271&related=walterslawgroup) [Twitter 1842222984599089271](https://twitter.com/walterslawgroup/status/1842222984599089271)
 
 [Load More](javascript:void(0);)
 
