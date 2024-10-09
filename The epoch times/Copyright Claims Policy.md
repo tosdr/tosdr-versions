@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [DeSantis, Florida Officials Issue Warnings to Would-Be Looters Ahead of Hurricane Milton](https://www.theepochtimes.com/us/desantis-florida-officials-issue-warnings-to-would-be-looters-ahead-of-hurricane-milton-5738328)
+* [DeSantis Responds to Claims FEMA Can Keep People From Their Homes](https://www.theepochtimes.com/us/desantis-responds-to-claims-fema-can-keep-people-from-their-homes-5738614)
     
     NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![DeSantis, Florida Officials Issue Warnings to Would-Be Looters Ahead of Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![DeSantis Responds to Claims FEMA Can Keep People From Their Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![DeSantis, Florida Officials Issue Warnings to Would-Be Looters Ahead of Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732874-GettyImages-1219423476-205x123.jpg.webp)](https://www.theepochtimes.com/us/desantis-florida-officials-issue-warnings-to-would-be-looters-ahead-of-hurricane-milton-5738328)
-* [Hurricane Milton Could Forever Change Florida’s Gulf Coastline, Says USGS](https://www.theepochtimes.com/us/hurricane-milton-could-forever-change-floridas-gulf-coastline-says-usgs-5738230)
+    ![DeSantis Responds to Claims FEMA Can Keep People From Their Homes](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738502-DeSantis-GettyImages-2173721368KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/desantis-responds-to-claims-fema-can-keep-people-from-their-homes-5738614)
+* [New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://www.theepochtimes.com/us/new-yorks-3rd-congressional-district-candidates-clash-over-crime-migration-taxes-in-debate-5738249)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
-    [![Hurricane Milton Could Forever Change Florida’s Gulf Coastline, Says USGS](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Hurricane Milton Could Forever Change Florida’s Gulf Coastline, Says USGS](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737463-xxx-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-milton-could-forever-change-floridas-gulf-coastline-says-usgs-5738230)
-* [Appeals Court Lets Ohio Enforce Law Banning Foreign Nationals From Spending on Campaigns](https://www.theepochtimes.com/us/appeals-court-lets-ohio-enforce-law-banning-foreign-nationals-from-spending-on-campaigns-5738156)
+    ![New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738498-Tom-Suozzi-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-yorks-3rd-congressional-district-candidates-clash-over-crime-migration-taxes-in-debate-5738249)
+* [Day in Photos: Dissolved Parliament, Shrinking Economy, and Peaceful Revolution Remembrance](https://www.theepochtimes.com/article/day-in-photos-dissolved-parliament-shrinking-economy-and-peaceful-revolution-remembrance-5738226)
     
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Appeals Court Lets Ohio Enforce Law Banning Foreign Nationals From Spending on Campaigns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Dissolved Parliament, Shrinking Economy, and Peaceful Revolution Remembrance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Appeals Court Lets Ohio Enforce Law Banning Foreign Nationals From Spending on Campaigns](https://img.theepochtimes.com/assets/uploads/2024/09/03/id5717269-dave-yost-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-lets-ohio-enforce-law-banning-foreign-nationals-from-spending-on-campaigns-5738156)
-* [Massachusetts Supreme Court Refuses to Loosen Bail Rules in Rape Cases](https://www.theepochtimes.com/us/massachusetts-supreme-court-refuses-to-loosen-bail-rules-in-rape-cases-5737691)
+    ![Day in Photos: Dissolved Parliament, Shrinking Economy, and Peaceful Revolution Remembrance](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738699-GettyImages-2176952528-205x123.jpg)](https://www.theepochtimes.com/article/day-in-photos-dissolved-parliament-shrinking-economy-and-peaceful-revolution-remembrance-5738226)
+* [Florida Officials Warn of Electric Vehicle Fires Sparked by Hurricane Milton](https://www.theepochtimes.com/us/florida-officials-warn-of-electric-vehicle-fires-sparked-by-hurricane-milton-5738579)
     
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Massachusetts Supreme Court Refuses to Loosen Bail Rules in Rape Cases](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Florida Officials Warn of Electric Vehicle Fires Sparked by Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Massachusetts Supreme Court Refuses to Loosen Bail Rules in Rape Cases](https://img.theepochtimes.com/assets/uploads/2024/09/27/id5731629-08122024-DSC00315-DOJ-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/massachusetts-supreme-court-refuses-to-loosen-bail-rules-in-rape-cases-5737691)
-* [As Hurricane Milton Approaches Florida, Time Is Running Out to Evacuate](https://www.theepochtimes.com/us/hurricane-milton-maintains-strength-grinds-toward-tampa-5738122)
+    ![Florida Officials Warn of Electric Vehicle Fires Sparked by Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706406-GettyImages-2026355736-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-officials-warn-of-electric-vehicle-fires-sparked-by-hurricane-milton-5738579)
+* [Biden, Harris Speak With Netanyahu as Middle East Awaits Israeli Response to Missile Attack](https://www.theepochtimes.com/world/biden-harris-speak-with-netanyahu-as-middle-east-awaits-israeli-response-to-missile-attack-5738268)
     
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![As Hurricane Milton Approaches Florida, Time Is Running Out to Evacuate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden, Harris Speak With Netanyahu as Middle East Awaits Israeli Response to Missile Attack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![As Hurricane Milton Approaches Florida, Time Is Running Out to Evacuate](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738329-hurricane-milton-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-milton-maintains-strength-grinds-toward-tampa-5738122)
-* [Kitchen Table Issues, Immigration, and No ID Required—Early Voting Kicks Off in California](https://www.theepochtimes.com/us/kitchen-table-issues-immigration-and-no-id-required-early-voting-kicks-off-in-california-5737857)
+    ![Biden, Harris Speak With Netanyahu as Middle East Awaits Israeli Response to Missile Attack](https://img.theepochtimes.com/assets/uploads/2023/10/18/id5512300-GettyImages-1730516014-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-harris-speak-with-netanyahu-as-middle-east-awaits-israeli-response-to-missile-attack-5738268)
+* [Floridians Use Last Hours Before the Storm to Brace for ‘Historic’ Hurricane Milton](https://www.theepochtimes.com/us/floridians-use-last-hours-before-the-storm-to-brace-for-historic-hurricane-milton-5738234)
     
-    7hr By [Beige Luciano-Adams](https://www.theepochtimes.com/author/beige-luciano-adams)
+    NEW By [John Haughey](https://www.theepochtimes.com/author/john-haughey), [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro), [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom) and [Nanette Holt](https://www.theepochtimes.com/author/nanette-holt)
     
-    [![Kitchen Table Issues, Immigration, and No ID Required—Early Voting Kicks Off in California](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Floridians Use Last Hours Before the Storm to Brace for ‘Historic’ Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Kitchen Table Issues, Immigration, and No ID Required—Early Voting Kicks Off in California](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738002-A7200865-205x123.jpg.webp)](https://www.theepochtimes.com/us/kitchen-table-issues-immigration-and-no-id-required-early-voting-kicks-off-in-california-5737857)
-* [Hurricane-Ravaged North Carolina Towns Relying on Local Support as They Dig Out From Debris](https://www.theepochtimes.com/us/hurricane-ravaged-north-carolina-towns-relying-on-local-support-as-they-dig-out-from-debris-5737776)
+    ![Floridians Use Last Hours Before the Storm to Brace for ‘Historic’ Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738424-GettyImages-2176941043-205x123.jpg.webp)](https://www.theepochtimes.com/us/floridians-use-last-hours-before-the-storm-to-brace-for-historic-hurricane-milton-5738234)
+* [Nearly 3 Million Americans Have Voted So Far: Here’s What We Know](https://www.theepochtimes.com/us/nearly-3-million-americans-have-voted-so-far-heres-what-we-know-5738422)
     
-    7hr By [Jeff Louderback](https://www.theepochtimes.com/author/jeff-louderback)
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Hurricane-Ravaged North Carolina Towns Relying on Local Support as They Dig Out From Debris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Nearly 3 Million Americans Have Voted So Far: Here’s What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Hurricane-Ravaged North Carolina Towns Relying on Local Support as They Dig Out From Debris](https://img.theepochtimes.com/assets/uploads/2024/10/07/id5736507-Helene-Body-Recovery_JF_10062024-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-ravaged-north-carolina-towns-relying-on-local-support-as-they-dig-out-from-debris-5737776)
-* [Iranian Missile Attack Leaves Region on Edge, Wondering What Comes Next](https://www.theepochtimes.com/world/iranian-missile-attack-leaves-region-on-edge-wondering-what-comes-next-5735854)
+    ![Nearly 3 Million Americans Have Voted So Far: Here’s What We Know](https://img.theepochtimes.com/assets/uploads/2024/03/27/id5616670-GettyImages-1227902406-205x123.jpeg.webp)](https://www.theepochtimes.com/us/nearly-3-million-americans-have-voted-so-far-heres-what-we-know-5738422)
+* [Iowa 3rd Congressional District Candidates Talk Inflation, Immigration, Abortion in Debate](https://www.theepochtimes.com/us/iowa-3rd-congressional-district-candidates-talk-inflation-immigration-abortion-in-debate-5738343)
     
-    7hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![Iranian Missile Attack Leaves Region on Edge, Wondering What Comes Next](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Iowa 3rd Congressional District Candidates Talk Inflation, Immigration, Abortion in Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Iranian Missile Attack Leaves Region on Edge, Wondering What Comes Next](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738198-GettyImages-2175624464.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/iranian-missile-attack-leaves-region-on-edge-wondering-what-comes-next-5735854)
-* [Harris, Trump Proposals to Add Trillions to National Debt: Analysis](https://www.theepochtimes.com/business/harris-trump-proposals-to-add-trillions-to-national-debt-crfb-analysis-5737614)
+    ![Iowa 3rd Congressional District Candidates Talk Inflation, Immigration, Abortion in Debate](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720771-09092024-DSC07999-Congress-205x123.jpg.webp)](https://www.theepochtimes.com/us/iowa-3rd-congressional-district-candidates-talk-inflation-immigration-abortion-in-debate-5738343)
+* [Mortgage Demand Drops as Rates Jump to Highest Since August](https://www.theepochtimes.com/us/mortgage-demand-drops-as-rates-jump-to-highest-since-august-5738400)
     
-    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Harris, Trump Proposals to Add Trillions to National Debt: Analysis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Mortgage Demand Drops as Rates Jump to Highest Since August](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris, Trump Proposals to Add Trillions to National Debt: Analysis](https://img.theepochtimes.com/assets/uploads/2024/10/06/id5736344-Trump-Harris-LS-sb_2-205x123.jpg.webp)](https://www.theepochtimes.com/business/harris-trump-proposals-to-add-trillions-to-national-debt-crfb-analysis-5737614)
-* [Judge Denies Deadspin’s Bid to Dismiss Defamation Suit Involving 9-Year-Old Chiefs Fan](https://www.theepochtimes.com/us/judge-denies-deadspins-bid-to-dismiss-defamation-suit-involving-9-year-old-chiefs-fan-5737688)
+    ![Mortgage Demand Drops as Rates Jump to Highest Since August](https://img.theepochtimes.com/assets/uploads/2023/08/31/id5483967-GettyImages-1529791883-205x123.jpg.webp)](https://www.theepochtimes.com/us/mortgage-demand-drops-as-rates-jump-to-highest-since-august-5738400)
+* [South Dakota Removes 273 Noncitizens From Voter Rolls](https://www.theepochtimes.com/us/south-dakota-removes-273-noncitizens-from-voter-rolls-5738310)
     
-    7hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    3hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
-    [![Judge Denies Deadspin’s Bid to Dismiss Defamation Suit Involving 9-Year-Old Chiefs Fan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![South Dakota Removes 273 Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Judge Denies Deadspin’s Bid to Dismiss Defamation Suit Involving 9-Year-Old Chiefs Fan](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737807-Deadspin_Defamation_Lawsuit_24282565150411-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-denies-deadspins-bid-to-dismiss-defamation-suit-involving-9-year-old-chiefs-fan-5737688)
+    ![South Dakota Removes 273 Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/uploads/2024/05/08/id5646547-GettyImages-1404220329-205x123.jpg.webp)](https://www.theepochtimes.com/us/south-dakota-removes-273-noncitizens-from-voter-rolls-5738310)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
