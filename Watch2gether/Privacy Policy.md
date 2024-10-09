@@ -17,5 +17,3 @@
 العربية Български Česky Dansk Deutsch Ελληνικά English Español فارسی Suomi Français עברית Hrvatski Magyar Italiano Nederlands Norsk (bokmål / riksmål) Polski Português Română Русский Svenska Türkçe اردو Việtnam
 
 [Help / Feedback](https://w2g.tv/en/community/)
-
-We are currently working on our systems. You may experience problems accessing Watch2Gether. Please try again later. Thank you!
