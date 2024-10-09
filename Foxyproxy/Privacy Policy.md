@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I'm really enjoying the service so far.
+Dear FoxyProxy team, Very solid no-nonsense service. Have subscribed again! Good to see the price had not gone up, this is the right price point.
 
-Gareth Wynn
+Luite van Zelst
