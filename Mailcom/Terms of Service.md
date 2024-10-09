@@ -41,6 +41,7 @@ Show/hide navigation
     * [First steps Android](https://www.mail.com/support/first-steps-android/)
     * [First steps iOS](https://www.mail.com/support/first-steps-ios/)
     * [Help & Contact Center](https://support.mail.com/index.html)
+    * [Premium upgrade](https://www.mail.com/support/first-steps-premium/upgrade-in-app/)
 * [Blog](https://www.mail.com/blog/)
 
 ![smiling woman reeding mail.com policies on tablet](//img.ui-portal.de/cms/mailint/mailcom/company/hero.jpg)
