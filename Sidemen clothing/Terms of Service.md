@@ -89,7 +89,7 @@ Open navigation menu [Open search](https://www.sidemenclothing.com/search)
     * [Key Rings](https://www.sidemenclothing.com/collections/key-rings)
     * [Car Freshener](https://www.sidemenclothing.com/collections/car-air-freshener)
     
-* [GIFT CARDS](https://www.sidemenclothing.com/products/sidemen-clothing-digital-gift-card)
+* [GIFT CARDS](https://www.sidemenclothing.com/products/sdmn-digital-gift-card)
 * [SALE](https://www.sidemenclothing.com/collections/sale)
 
 [Sidemen Clothing ![](//sidemenclothing.com/cdn/shop/files/NavigationClassicLogoWhite_7816ce09-0cd7-407b-9e6d-ba2a13b53178.webp?v=1704293088&width=2000)](https://www.sidemenclothing.com/) 
@@ -110,7 +110,7 @@ Country
 * COLLECTIONS
 * CLOTHING
 * ACCESSORIES
-* [GIFT CARDS](https://www.sidemenclothing.com/products/sidemen-clothing-digital-gift-card)
+* [GIFT CARDS](https://www.sidemenclothing.com/products/sdmn-digital-gift-card)
 * [SALE](https://www.sidemenclothing.com/collections/sale)
 
 USD $
@@ -178,7 +178,7 @@ NAVIGATION BAR
 * [COLLECTIONS](https://sidemenclothing.com/collections/)
 * [CLOTHING](https://www.sidemenclothing.com/collections/clothing)
 * [ACCESSORIES](https://www.sidemenclothing.com/collections/accessories)
-* [GIFT CARDS](https://www.sidemenclothing.com/products/sidemen-clothing-digital-gift-card)
+* [GIFT CARDS](https://www.sidemenclothing.com/products/sdmn-digital-gift-card)
 * [SALE](https://www.sidemenclothing.com/collections/sale)
 
 Terms & Conditions
@@ -448,7 +448,7 @@ SITEMAP
 * [COLLECTIONS](https://www.sidemenclothing.com/collections/newest)
 * [CLOTHING](https://www.sidemenclothing.com/collections/newest)
 * [ACCESSORIES](https://www.sidemenclothing.com/collections/accessories)
-* [GIFT CARDS](https://www.sidemenclothing.com/products/sidemen-clothing-digital-gift-card)
+* [GIFT CARDS](https://www.sidemenclothing.com/products/sdmn-digital-gift-card)
 
 SUPPORT
 
