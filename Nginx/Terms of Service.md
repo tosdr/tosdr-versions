@@ -68,10 +68,6 @@
         
         Discover how BIG-IP Next’s modern design simplifies operations, strengthens security, and increases visibility.
         
-    * [API Connectivity Stack](https://www.nginx.com/free-trial-api-connectivity-stack/)
-        
-        Scale, observe, secure, and govern your APIs from edge to cloud.
-        
     * [Connectivity Stack for Kubernetes](https://www.nginx.com/free-trial-connectivity-stack-kubernetes/)
         
         Scale, observe, secure, and govern Kubernetes apps—on premises, in the cloud, or at the edge.
@@ -348,7 +344,6 @@
     * [F5 Distributed Cloud Services](https://www.f5.com/trials/distributed-cloud-services-enterprise-trial)
     * [BIG-IP VE and BIG-IQ Centralized Management VE](https://www.f5.com/trials/big-ip-virtual-edition)
     * [BIG-IP Next](https://www.f5.com/trials/big-ip-next)
-    * [API Connectivity Stack](https://www.nginx.com/free-trial-api-connectivity-stack/)
     * [Connectivity Stack for Kubernetes](https://www.nginx.com/free-trial-connectivity-stack-kubernetes/)
     
 *    [![](/etc.clientlibs/f5-com/clientlibs/f5-com-resources/resources/main-nav/icon-globe.svg)   English](#)
