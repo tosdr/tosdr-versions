@@ -170,7 +170,7 @@ Please enable Javascript to see the list of all declared cookies and similar tec
 
 ##### Follow us
 
-[](https://www.instagram.com/hochschulemuenchen/)[](https://www.facebook.com/HochschuleMuenchen)[](https://twitter.com/hmmuenchen)[](https://www.linkedin.com/school/hochschule-muenchen)[](https://www.youtube.com/user/HochschuleMuenchen1)
+[](https://www.instagram.com/hochschulemuenchen/ "Instagram")[](https://www.facebook.com/HochschuleMuenchen "Facebook")[](https://twitter.com/hmmuenchen "X former Twitter")[](https://www.linkedin.com/school/hochschule-muenchen "Linkedin")[](https://www.youtube.com/user/HochschuleMuenchen1 "Youtube")
 
 * * *
 
