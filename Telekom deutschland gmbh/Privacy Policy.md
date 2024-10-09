@@ -740,8 +740,7 @@ Datentransparenz](https://www.telekom.de/ueber-das-unternehmen/datenschutz/daten
      
     
 
-**Datenschutzhinweis**
-----------------------
+#### **Häufige Fragen**
 
 * ### Allgemeines
     
