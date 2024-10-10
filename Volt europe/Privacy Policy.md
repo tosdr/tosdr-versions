@@ -44,7 +44,7 @@ Themes
 
 [View all policies](https://volteuropa.org/policies)
 
-Back [About us](https://www.volteuropa.org/about) [Volt Violet](https://www.volteuropa.org/volt-violet) [We are Europe!](https://www.volteuropa.org/we-are-europe) [Volt Sense - A European Citizen Sensor Network](https://www.volteuropa.org/voltsense)
+Back [About us](https://www.volteuropa.org/about) [Our Pledge](https://www.volteuropa.org/we-are-europe) [Volt Violet](https://www.volteuropa.org/volt-violet) [Volt Sense - A European Citizen Sensor Network](https://www.volteuropa.org/voltsense)
 
 Back[![The newly elected board of Volt Europa gives a speech in front of members in Paris in November 2023.](/img/containers/assets/images/eur_board_members_images/eurboard_grouppic.png/a58c91ce2380b93ade8042eeb530f3d6.png)
 
