@@ -259,8 +259,6 @@ _This policy was last updated 08/31/2023 . Effective Date: 08/31/2023_
 
 [Follow Lightspeed Systems on X (Formerly Twitter)](https://x.com/lightspeedsys) [Follow Lightspeed Systems on LinkedIn](https://www.linkedin.com/company/lightspeed-systems/) [Follow Lightspeed Systems on Facebook](https://www.facebook.com/lightspeedsystems/)
 
-[![Read reviews of Lightspeed Platform (Formerly Relay) on G2](https://www.g2.com/products/lightspeed-platform-formerly-relay/widgets/stars?color=white&type=read)](https://www.g2.com/products/lightspeed-platform-formerly-relay/reviews?utm_source=review-widget)
-
 #### Products
 
 * [Lightspeed Filter™](https://www.lightspeedsystems.com/products/lightspeed-filter/)
