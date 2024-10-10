@@ -167,6 +167,14 @@ The information will be used internally only for web site traffic analysis. If t
 
   [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
 
+ ![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
+
+### [UNRIC Info Point & Library Newsletter: October 2024](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
+
+10/10/2024
+
+  [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
  ![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
 
 ### [UNRIC Info Point & Library Newsletter – September 2024](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
@@ -197,21 +205,13 @@ The information will be used internally only for web site traffic analysis. If t
 
 12/08/2024
 
-  [![Representatives from NGOs Sürya, PAG-ASA, and Payoke, alongside Belgian Justice Minister, Paul Van Tigchelt and UNODC and IOM representatives,](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
-
- ![Representatives from NGOs Sürya, PAG-ASA, and Payoke, alongside Belgian Justice Minister, Paul Van Tigchelt and UNODC and IOM representatives,](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/07/blue-heart-small-100x70.jpg)](https://unric.org/en/child-trafficking-in-belgium-a-challenge-to-tackle/ "Child trafficking in Belgium claims around hundred victims per year")
-
-### [Child trafficking in Belgium claims around hundred victims per year](https://unric.org/en/child-trafficking-in-belgium-a-challenge-to-tackle/ "Child trafficking in Belgium claims around hundred victims per year")
-
-29/07/2024
-
 [Load more](#)
 
 #### Publications
 
-* [October 2024](https://unric.org/en/2024/10/) (12)
+* [October 2024](https://unric.org/en/2024/10/) (15)
 * [September 2024](https://unric.org/en/2024/09/) (34)
-* [August 2024](https://unric.org/en/2024/08/) (13)
+* [August 2024](https://unric.org/en/2024/08/) (12)
 * [July 2024](https://unric.org/en/2024/07/) (24)
 * [June 2024](https://unric.org/en/2024/06/) (34)
 * [May 2024](https://unric.org/en/2024/05/) (25)
