@@ -5,6 +5,7 @@
 * [Donate](https://isrii.org/donate/)
 * [Contact Us](https://isrii.org/contact-us/)
 * [Conflict of Interest Disclosure Form](https://isrii.org/conflict-of-interest-disclosure-form/)
+* [ISRII 13th Scientific Meeting](https://isrii.org/isrii-13th-scientific-meeting/)
 
 [![ISRII](http://isrii.org/content/uploads/2024/09/isrii-logo-sm1.png)](https://isrii.org/)
 
@@ -14,6 +15,7 @@ Menu
 * [Journal](https://isrii.org/journal/)
 * [Conferences & Events](https://isrii.org/events/)
     
+    * [ISRII 13th Scientific Meeting](https://isrii.org/isrii-13th-scientific-meeting/)
     * [Online Events](https://isrii.org/events/)
     * [Scientific Meeting Archives](https://isrii.org/isrii-scientific-meeting-archives/)
 * [About Us](https://isrii.org/)
