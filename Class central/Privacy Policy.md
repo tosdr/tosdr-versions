@@ -414,9 +414,9 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. graphic design
+1. English
     
-2. cyber security
+2. psychology
     
 3. trading
     
