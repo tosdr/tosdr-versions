@@ -73,6 +73,14 @@ Country UK AU & NZ SG MY US IE
     
     Latest News
     
+    ![](/media/i14bvfmg/grads-romania-3-1.jpg?rmode=max&width=230&height=295&v=1db1af5709f7650)
+    
+    Posted 11 October 2024
+    
+    The Access Group Romanian GO Centre doubles in size, creating 654 jobs
+    
+    [Read article on The Access Group Romanian GO Centre doubles in size, creating 654 jobs](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-romanian-go-centre-doubles-in-size-creating-654-jobs/)
+    
     ![](/media/u51ctfdu/adobestock_162465692-1-min.jpeg?rmode=max&width=230&height=295&v=1db14518622dda0)
     
     Posted 2 October 2024
