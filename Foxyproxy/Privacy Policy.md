@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I've always been pleased and impressed with the speed and quality of replies from FoxyProxy, be it on payment issues, or technical/setup queries. I was granted 5 days 'grace' (ie, my subscription was extended for 5 days) to give me a chance to sort out a payment problem - some may say this is 'just good PR'. Well yes, it IS good PR and feels to me like a level of service increasingly lacking in the online world. Happy customer.
+I took out the three months subscription to cover the time we spent in Florida this winter. The Foxyproxy service worked flawlessly and allowed us to watch all our favourite shows on the Canadian international BBC iPlayer. Great service, will do it again next winter.
 
-Joe Crook
+Tony Dobson
