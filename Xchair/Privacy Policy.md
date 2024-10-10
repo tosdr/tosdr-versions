@@ -1,8 +1,6 @@
 [Skip to content](#MainContent)
 
-### Pay as low as $20/month with ![Affirm logo](//www.xchair.com/cdn/shop/files/affirm-logo-2x.png?v=1689888394&width=1024) financing || [Shop Now](https://www.xchair.com/collections/office-chairs "Office Chairs")
-
-### 844-492-4247
+### NEW X-Tech Vegan Leather Colors || [Shop Now](https://www.xchair.com/pages/xtech-limited-edition "The Limited Edition X-Tech Collection")
 
 [](https://www.xchair.com/)
 
@@ -164,7 +162,7 @@ You are ${ shippingDifference | toUSD } away from free shipping Your cart qualif
 
 Subtotal:
 
-[Checkout](https://www.xchair.com/checkout) Continue Shopping
+[Checkout (${ cartItemCount })](https://www.xchair.com/checkout) Continue Shopping
 
 Your cart is currently empty.
 
