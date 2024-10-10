@@ -53,7 +53,6 @@ We Champion Freedom & Self-Reliance
     * [Bug-Out & Go Bags](https://4patriots.com/collections/car-emergency-supplies?page=1&rb_product_type=Emergency%20Car%20Kit%7CEmergency%20Tools%20%26%20Kits)
     * [3-Month Survival Food Kit PlatinumXL](https://4patriots.com/products/3-month-platinum-survival-food-kit)
     * [Patriot Pure Air Purification System](https://4patriots.com/products/patriot-pure-air-advanced-purification-system)
-    * [100% Real Meat Kits](https://4patriots.com/collections/jumbo-meat-kits)
     * [Patriot Pure Nanomesh™ Water Filter](https://4patriots.com/products/patriot-pure-nanomesh-water-filter)
     * [Shop All New Arrivals](https://4patriots.com/collections/newly-added)
     
@@ -67,7 +66,7 @@ We Champion Freedom & Self-Reliance
         
         ###### 3-Month PlatinumXL Emergency Survival Food Kit
         
-        25 reviews](https://4patriots.com/products/3-month-platinum-survival-food-kit)
+        26 reviews](https://4patriots.com/products/3-month-platinum-survival-food-kit)
         
         [![ 4Patriots Ultimate Meat Medley Jumbo Survival Food Kit.](//4patriots.com/cdn/shop/files/MAIN-ARRAY-1-UMM-1024x1024_360x.jpg?v=1684934486)
         
