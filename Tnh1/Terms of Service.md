@@ -216,15 +216,7 @@ projeções
 
 Série B: veja as chances de acesso e risco de queda após a 30ª rodada
 
-Série B: veja as chances de acesso e risco de queda após a 30ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-a-30a-rodada/ "Série B: veja as chances de acesso e risco de queda após a 30ª rodada")[![Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/8/4/csm_corpo_homem_morto_craibas_215590e3f7.jpg)
-
-no agreste
-
-no agreste
-
-Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada
-
-Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada](https://www.tnh1.com.br/noticia/nid/homem-e-raptado-por-grupo-encapuzado-morto-a-tiros-e-tem-corpo-abandonado-em-estrada/ "Homem é raptado por grupo encapuzado, morto a tiros e tem corpo abandonado em estrada")[![Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/3/csm_foto-francisco-e-diogo-cuoco-2024-reproducao-redes-sociais_2a867fc650.jpg)
+Série B: veja as chances de acesso e risco de queda após a 30ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-a-30a-rodada/ "Série B: veja as chances de acesso e risco de queda após a 30ª rodada")[![Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_foto-francisco-e-diogo-cuoco-2024-reproducao-redes-sociais_2a867fc650.jpg)
 
 dívida trabalhista
 
@@ -232,41 +224,49 @@ dívida trabalhista
 
 Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário
 
-Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário](https://www.tnh1.com.br/noticia/nid/francisco-cuoco-e-filho-sao-condenados-a-pagar-r-600-mil-a-ex-funcionario/ "Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ")
+Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário](https://www.tnh1.com.br/noticia/nid/francisco-cuoco-e-filho-sao-condenados-a-pagar-r-600-mil-a-ex-funcionario/ "Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ")[![Senac oferece 79 cursos gratuitos online](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/8/csm_Senac-oferece-201-cursos-online-EAD-de-qualificacao-profissional-com-certificado-860x484-1_7d75eadb79.jpg)
 
-[![Série especial do PSCOM é finalista do Prêmio AMRIGS de Jornalismo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/2/9/csm_OPERACAO_OCEANO_9e72d4d0bf.jpg)
+Mercado de Trabalho
 
-Televisão
+Mercado de Trabalho
 
-Televisão
+Senac oferece 79 cursos gratuitos online
 
-Série especial do PSCOM é finalista do Prêmio AMRIGS de Jornalismo
+Senac oferece 79 cursos gratuitos online](https://www.tnh1.com.br/noticia/nid/senac-oferece-79-cursos-gratuitos-online/ "Senac oferece 79 cursos gratuitos online")
 
-Série especial do PSCOM é finalista do Prêmio AMRIGS de Jornalismo](https://www.tnh1.com.br/noticia/nid/serie-especial-do-pscom-e-finalista-do-premio-amrigs-de-jornalismo/ "Série especial do PSCOM é finalista do Prêmio AMRIGS de Jornalismo")[![Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/4/csm_mulher-morre-envenenada-interior-alagoas-reproducao_7c70202ac2.jpeg)
+[![Operadora deve receber perdão de R$ 7 bi da Anatel para seguir operando na telefonia fixa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/a/csm_oi_orelhao_jfcrz_abr_0302220439_a76651ddb5.jpg)
 
-Em São Brás
+solução consensual
 
-Em São Brás
+solução consensual
 
-Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito
+Operadora deve receber perdão de R$ 7 bi da Anatel para seguir operando na telefonia fixa
 
-Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito](https://www.tnh1.com.br/noticia/nid/professora-morre-apos-comer-coxinha-supostamente-envenenada-ex-companheiro-e-suspeito/ "Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito")[![Mais de 600 vírus vivem nas escovas de dentes e no chuveiro; entenda](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/9/csm_defocused-woman-with-eye-patches-holding-toothbrush_7f0c9d4395.jpg)
+Operadora deve receber perdão de R$ 7 bi da Anatel para seguir operando na telefonia fixa](https://www.tnh1.com.br/noticia/nid/operadora-deve-receber-perdao-de-r-7-bi-da-anatel-para-seguir-operando-na-telefonia-fixa/ "Operadora deve receber perdão de R$ 7 bi da Anatel para seguir operando na telefonia fixa")[![Buenos Aires faz operação contra bets, derruba 1.800 sites e notifica influencers](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/c/csm_bets_-_foto_bruno_peres_ag_br_3463019e73.jpg)
 
-Saúde
+apostas esportivas
 
-Saúde
+apostas esportivas
 
-Mais de 600 vírus vivem nas escovas de dentes e no chuveiro; entenda
+Buenos Aires faz operação contra bets, derruba 1.800 sites e notifica influencers
 
-Mais de 600 vírus vivem nas escovas de dentes e no chuveiro; entenda](https://www.tnh1.com.br/noticia/nid/mais-de-600-virus-vivem-nas-escovas-de-dentes-e-no-chuveiro-entenda/ "Mais de 600 vírus vivem nas escovas de dentes e no chuveiro; entenda")[![Nove pessoas são presas em operação da Polícia Civil, em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_Nove_pessoas_sao_presas_em_operacao_da_Policia_Civil__em_Alagoas_-_foto_Reproducao_PCAL_76dd507944.jpg)
+Buenos Aires faz operação contra bets, derruba 1.800 sites e notifica influencers](https://www.tnh1.com.br/noticia/nid/buenos-aires-faz-operacao-contra-bets-derruba-1800-sites-e-notifica-influencers/ "Buenos Aires faz operação contra bets, derruba 1.800 sites e notifica influencers")[![Lisa Marie Presley sofreu abuso de ator de Hollywood após a morte de Elvis, revela livro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/e/csm_filha-presley-reproducao-redes-sociais_d7c54396c9.png)
 
-Polícia
+tinha 10 anos
 
-Polícia
+tinha 10 anos
 
-Nove pessoas são presas em operação da Polícia Civil, em Alagoas
+Lisa Marie Presley sofreu abuso de ator de Hollywood após a morte de Elvis, revela livro
 
-Nove pessoas são presas em operação da Polícia Civil, em Alagoas](https://www.tnh1.com.br/noticia/nid/nove-pessoas-sao-presas-em-operacao-da-policia-civil-em-alagoas/ "Nove pessoas são presas em operação da Polícia Civil, em Alagoas")
+Lisa Marie Presley sofreu abuso de ator de Hollywood após a morte de Elvis, revela livro](https://www.tnh1.com.br/noticia/nid/lisa-marie-presley-sofreu-abuso-de-ator-de-hollywood-apos-a-morte-de-elvis-revela-livro/ "Lisa Marie Presley sofreu abuso de ator de Hollywood após a morte de Elvis, revela livro")[![Idade avançada do homem também pode afetar a gestação; saiba como](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/c/csm_mulher-gravida-reproducao-freepik_a2d8e4b5bd.png)
+
+envelhecimento
+
+envelhecimento
+
+Idade avançada do homem também pode afetar a gestação; saiba como
+
+Idade avançada do homem também pode afetar a gestação; saiba como](https://www.tnh1.com.br/noticia/nid/idade-avancada-do-homem-tambem-pode-afetar-a-gestacao-saiba-como/ "Idade avançada do homem também pode afetar a gestação; saiba como")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
