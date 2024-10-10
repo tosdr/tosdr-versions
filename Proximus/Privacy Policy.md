@@ -6,37 +6,81 @@ Message important
 
 Fermer la fenêtre
 
-Privé
+Main Navigation Menu
 
-* [Business](https://www.proximus.be/fr/id_self-employed-and-small-companies/independants-et-petites-entreprises.html "Indépendants et entreprises jusqu’à 200 employés")
-* [Grandes entreprises](https://www.proximus.be/fr/id_companies-and-public-sector/entreprises-et-secteur-public.html "Entreprises à partir de 200 employés")
+FR
 
-* [Privé](https://www.proximus.be/fr/id_personal/particuliers.html)
-* [Business](https://www.proximus.be/fr/id_self-employed-and-small-companies/independants-et-petites-entreprises.html "Indépendants et entreprises jusqu’à 200 employés")
-* [Grandes entreprises](https://www.proximus.be/fr/id_companies-and-public-sector/entreprises-et-secteur-public.html "Entreprises à partir de 200 employés")
+* [EN](https://www.proximus.be/en/id_cr_warnland/personal/orphans/legal-information.html "English")
+* [NL](https://www.proximus.be/nl/id_cr_warnland/particulieren/r-orphans/wettelijke-informatie.html "Nederlands")
+* [DE](https://www.proximus.be/de/id_cr_warnland/personlich/r-orphans/rechtliche-informationen.html "Deutsch")
 
-[FR](javascript:void(0))
+Particuliers
 
-* [EN](https://www.proximus.be/en/id_cr_warnland/personal/orphans/legal-information.html)
-* [NL](https://www.proximus.be/nl/id_cr_warnland/particulieren/r-orphans/wettelijke-informatie.html)
-* [DE](https://www.proximus.be/de/id_cr_warnland/personlich/r-orphans/rechtliche-informationen.html)
+* [Business Indépendants et entreprises jusqu’à 200 employés](https://www.proximus.be/fr/id_self-employed-and-small-companies/independants-et-petites-entreprises.html)
+* [Grandes entreprises Entreprises à partir de 200 employés](https://www.proximus.be/fr/id_companies-and-public-sector/entreprises-et-secteur-public.html)
 
-[Retour vers la page d’accueil](https://www.proximus.be/fr/ "Retour vers la page d’accueil")
+[Retour vers la page d’accueil](https://www.proximus.be/fr/id_personal/particuliers.html)
 
 Menu
 
-* [Packs](https://www.proximus.be/fr/id_cr_catr_p/particuliers/packs.html)
-* [Mobile](https://www.proximus.be/fr/id_catr_m/particuliers/mobile.html)
-* [Internet](https://www.proximus.be/fr/id_cr_int/particuliers/abonnements-internet-pour-tous.html)
-* [TV](https://www.proximus.be/fr/id_catr_tv/particuliers/pickx-tv-et-options.html)
-* [Aide](https://www.proximus.be/support/fr/id_zwpr_support/particuliers/support.html)
-* [Apps](https://www.proximus.be/fr/id_cr_mobapp/particuliers/applications.html)
+Packs Mobile Internet TV & Streaming Aide
 
-* [Webmail Mail](https://www.proximus.be/login/fr/webmail/)
+Retour au menu Fermer
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+Il y a un problème technique.
+
+Il y a un problème technique.
+
+[Recharger la page](javascript:void(0))
+
+Retour au menu Fermer
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+Il y a un problème technique.
+
+Il y a un problème technique.
+
+[Recharger la page](javascript:void(0))
+
+Retour au menu Fermer
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+Il y a un problème technique.
+
+Il y a un problème technique.
+
+[Recharger la page](javascript:void(0))
+
+Retour au menu Fermer
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+Il y a un problème technique.
+
+Il y a un problème technique.
+
+[Recharger la page](javascript:void(0))
+
+Retour au menu Fermer
+
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+Il y a un problème technique.
+
+Il y a un problème technique.
+
+[Recharger la page](javascript:void(0))
+
+* [Webmail Mail](https://www.proximus.be/login/fr/webmail.html)
 * [Contact Contact](https://www.proximus.be/support/fr/id_cr_contact/particuliers/support/contactez-notre-service-client.html)
+
 * [Chercher Recherche](#)
 
-[MyProximus](https://www.proximus.be/login)
+[MyProximus](https://www.proximus.be/login/default)
 
 Rechercher
 
@@ -579,7 +623,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 
 * [_​_Privé](https://www.proximus.be/fr/id_catr_m/particuliers/mobile.html)
 * [_​_Business](https://www.proximus.be/fr/id_catb_mobile/independants-et-petites-entreprises/mobile.html)
-* [_​_Grandes entreprises](https://www.proximus.be/fr/id_cl_mobiletelephony/entreprises-et-secteur-public/telephonie/mobile/abonnements-mobiles-pour-entreprises.html)
+* [_​_Grandes entreprises](https://www.proximus.be/fr/id_cl_mobiletelephony/entreprises-et-secteur-public/telephonie-pour-les-grandes-entreprises/mobile/abonnements-mobiles-pour-entreprises.html)
 
 [Tarifs de lignes](#)
 
