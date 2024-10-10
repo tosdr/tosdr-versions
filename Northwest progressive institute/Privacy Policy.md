@@ -21,6 +21,7 @@ Menu
     * [Code of Ethics](https://www.nwprogressive.org/about/code-of-ethics/)
     * [Commenting Guidelines](https://www.nwprogressive.org/about/user-agreement/commenting-guidelines/)
     * [Privacy Practices](https://www.nwprogressive.org/about/privacy-practices/)
+    * [Terms and Conditions of Use](https://www.nwprogressive.org/about/terms-conditions/)
     * [Join Our Staff](https://www.nwprogressive.org/about/join-our-staff/)
     * [Lynn Allen Award Honorees](https://www.nwprogressive.org/about/lynn-allen-award-honorees/)
     * [Partners](https://www.nwprogressive.org/about/partners/)
