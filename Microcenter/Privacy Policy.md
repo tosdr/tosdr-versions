@@ -895,7 +895,7 @@ Product category, brand navigation and general site naviation
         
     * Brands
         
-        Brands options - 2 groups of items - 24 total selections
+        Brands options - 2 groups of items - 25 total selections
         
         * A - M
             
@@ -922,6 +922,7 @@ Product category, brand navigation and general site naviation
             * [Samsung](https://www.microcenter.com/site/brands/samsung.aspx)
             * [Shure](https://www.microcenter.com/site/brands/shure-showcase.aspx)
             * [Snapdragon](https://www.microcenter.com/site/brands/snapdragon.aspx)
+            * [Razer](https://www.microcenter.com/category/4294821029/razer)
             * [Toshiba](https://www.microcenter.com/site/brands/2022toshiba.aspx)
             * [TP-LINK](https://www.microcenter.com/site/brands/tp-link.aspx)
             * [WD](https://www.microcenter.com/site/brands/western-digital.aspx)
