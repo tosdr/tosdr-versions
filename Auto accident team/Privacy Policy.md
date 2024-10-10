@@ -1,79 +1,15 @@
-[![](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/logo-v4-1.svg)](https://www.autoaccidentteam.com/)
+[![](../images/Logo.png)](https://autoaccidentteam.com/)
 
-[877-508-8778](tel:877-508-8778)
-
-Search
-
-Search
-
-* [Car Accident Laws](https://www.autoaccidentteam.com/car-accident-laws/)
-    * [Texas](https://www.autoaccidentteam.com/car-accident-laws/texas/)
-    * [California](https://www.autoaccidentteam.com/car-accident-laws/california/)
-* [Lawsuit](https://www.autoaccidentteam.com/car-accident-lawsuits/)
-    * [Find A Car Accident Lawyer](https://www.autoaccidentteam.com/car-accident-lawsuits/lawyer/)
-    * [Filing a Claim](https://www.autoaccidentteam.com/car-accident-lawsuits/filing-claim/)
-    * [Settlements](https://www.autoaccidentteam.com/car-accident-lawsuits/settlements/)
-    * [Timeline](https://www.autoaccidentteam.com/car-accident-lawsuits/timeline/)
-    * [Determining Fault](https://www.autoaccidentteam.com/car-accident-lawsuits/fault/)
-* [Resources](https://www.autoaccidentteam.com/resources/)
-    * [Bike Accident](https://www.autoaccidentteam.com/resources/bicycle-accidents/)
-    * [Types of Car Accidents](https://www.autoaccidentteam.com/resources/types/)
-    * [Uninsured Motorist Coverage](https://www.autoaccidentteam.com/resources/what-is-uninsured-motorist-coverage/)
-* [Injuries](https://www.autoaccidentteam.com/car-accident-injury/)
-    * [Airbag Injuries](https://www.autoaccidentteam.com/car-accident-injury/airbag-injury/)
-    * [Neck Injuries](https://www.autoaccidentteam.com/car-accident-injury/neck-pain/)
-    * [Traumatic Brain Injury](https://www.autoaccidentteam.com/car-accident-injury/traumatic-brain-injuries/)
-    * [Whiplash](https://www.autoaccidentteam.com/car-accident-injury/whiplash/)
-* [Safety](https://www.autoaccidentteam.com/car-accident-prevention/)
-    * [Defensive Driving](https://www.autoaccidentteam.com/car-accident-prevention/defensive-driving/)
-    * [Distracted Driving](https://www.autoaccidentteam.com/car-accident-prevention/distracted-driving/)
-* [About Us](https://www.autoaccidentteam.com/about-us/)
-    * [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
-    * [Why Choose Us?](https://www.autoaccidentteam.com/how-does-it-work/)
-    * [Video Gallery](https://www.autoaccidentteam.com/video-gallery/)
-    * [FAQs](https://www.autoaccidentteam.com/car-accident-lawsuits/faqs/)
-* [Contact](https://www.autoaccidentteam.com/contact/)
-
-* [Car Accident Laws](https://www.autoaccidentteam.com/car-accident-laws/)
-    * [Texas](https://www.autoaccidentteam.com/car-accident-laws/texas/)
-    * [California](https://www.autoaccidentteam.com/car-accident-laws/california/)
-* [Lawsuit](https://www.autoaccidentteam.com/car-accident-lawsuits/)
-    * [Find A Car Accident Lawyer](https://www.autoaccidentteam.com/car-accident-lawsuits/lawyer/)
-    * [Filing a Claim](https://www.autoaccidentteam.com/car-accident-lawsuits/filing-claim/)
-    * [Settlements](https://www.autoaccidentteam.com/car-accident-lawsuits/settlements/)
-    * [Timeline](https://www.autoaccidentteam.com/car-accident-lawsuits/timeline/)
-    * [Determining Fault](https://www.autoaccidentteam.com/car-accident-lawsuits/fault/)
-* [Resources](https://www.autoaccidentteam.com/resources/)
-    * [Bike Accident](https://www.autoaccidentteam.com/resources/bicycle-accidents/)
-    * [Types of Car Accidents](https://www.autoaccidentteam.com/resources/types/)
-    * [Uninsured Motorist Coverage](https://www.autoaccidentteam.com/resources/what-is-uninsured-motorist-coverage/)
-* [Injuries](https://www.autoaccidentteam.com/car-accident-injury/)
-    * [Airbag Injuries](https://www.autoaccidentteam.com/car-accident-injury/airbag-injury/)
-    * [Neck Injuries](https://www.autoaccidentteam.com/car-accident-injury/neck-pain/)
-    * [Traumatic Brain Injury](https://www.autoaccidentteam.com/car-accident-injury/traumatic-brain-injuries/)
-    * [Whiplash](https://www.autoaccidentteam.com/car-accident-injury/whiplash/)
-* [Safety](https://www.autoaccidentteam.com/car-accident-prevention/)
-    * [Defensive Driving](https://www.autoaccidentteam.com/car-accident-prevention/defensive-driving/)
-    * [Distracted Driving](https://www.autoaccidentteam.com/car-accident-prevention/distracted-driving/)
-* [About Us](https://www.autoaccidentteam.com/about-us/)
-    * [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
-    * [Why Choose Us?](https://www.autoaccidentteam.com/how-does-it-work/)
-    * [Video Gallery](https://www.autoaccidentteam.com/video-gallery/)
-    * [FAQs](https://www.autoaccidentteam.com/car-accident-lawsuits/faqs/)
-* [Contact](https://www.autoaccidentteam.com/contact/)
-
-[](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjY1IiwidG9nZ2xlIjpmYWxzZX0%3D)
-
-[Click to Call | 877-508-8778](tel:877-508-8778)
+[HOME](https://autoaccidentteam.com/)
 
 PRIVACY NOTICE
 ==============
 
-Revised Date: July 11, 2024
+Revised Date: July 10th, 2024
 
-Auto Accident Team and its affiliated companies (“we” or “us”) respect the privacy of all individuals. This Privacy Policy (the “Privacy Policy”) governs our collection, use, and disclosure of your Personal Information (as defined below) in connection with your use of our website(s) on which this Privacy Policy is linked (collectively, “Sites”) and any transactions, interactions, or other engagements you might have with us (collectively, “Services”). For clarity, the term “Sites” does not include any sites owned or operated by third parties.
+Auto Accident Team and its affiliated companies (“we”, “our”, or “us”) respect the privacy of all individuals. This Privacy Policy (the “Privacy Policy”) governs our collection, use, and disclosure of your Personal Information (as defined below) in connection with your use of our website(s) on which this Privacy Policy is linked (collectively, “Sites”) and any transactions, interactions, or other engagements you might have with us (collectively, “Services”). For clarity, the term “Sites” does not include any sites owned or operated by third parties.
 
-Please read this Privacy Policy carefully. By using the Sites or Services, you consent to the collection and use of your information by us as set out in this Privacy Policy. This Privacy Policy forms a part of and is incorporated into our [Terms of Service](https://autoaccidentteam.com/terms-of-use/), and any capitalized terms used but not otherwise defined in this Privacy Policy will have the meanings given to them in the Terms of Service. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, YOU ARE NOT PERMITTED TO USE OR ACCESS THE SITE.
+Please read this Privacy Policy carefully. By using the Sites or Services, you consent to the collection and use of your information by us as set out in this Privacy Policy. This Privacy Policy forms a part of and is incorporated into our [Terms of Service](https://autoaccidentteam.com/terms-of-use), and any capitalized terms used but not otherwise defined in this Privacy Policy will have the meanings given to them in the Terms of Service. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, YOU ARE NOT PERMITTED TO USE OR ACCESS THE SITE.
 
 **ABOUT THIS PRIVACY POLICY**
 
@@ -91,14 +27,21 @@ When federal, state, or local laws and regulations require a higher level of pro
 
 We may collect information that personally identifies, relates to, describes, or is capable of being associated with you (“Personal Information”), including:
 
-* _Identifiers and Contact Information_ such as name, address, email address, phone number;
-* _Personal Identifiers_ such as education, employment status, financial information, and health insurance information;
-* _Protected Classification Characteristics_ such as age, marital status, gender, and veteran or military status;
-* _Health Information_ such as a medical condition or diagnosis related to your request;
-* _Commercial Information_ such as the products that you have used, considered, or purchased;
-* _Internet and Network Information_ such as IP address, device ID, browsing/search history, browser type, device type and settings;
+* _Identifiers and Contact Information_ such as name, address, email address, phone number;
+* _Protected Classification Characteristics_ such as age, marital status, gender, and veteran or military status;
+* _Health Information_ such as a medical condition or diagnosis related to your request;
+* _Commercial Information_ such as the products that you have used, considered, or purchased, financial information, and health insurance information;
+* _Professional/employment Information_ such as employment status;
+* _Education Information_ such as education; and
+* _Internet and Network Information_ such as IP address, device ID, browsing/search history, browser type, device type and settings;
+
+Some of the Personal Information listed above may be considered sensitive under relevant privacy laws. This includes health information. We refer to this type of Personal Information as “Sensitive Personal Information” in this Policy. Each type of Sensitive Personal Information may overlap with a category of Personal Information listed above.
 
 The specific Personal Information we collect about you may vary based on how you use the Sites and/or Services and your relationship with us.
+
+**Business Information**
+
+We also collect information about businesses and their representatives that engage with us such as EIN, TIN, address, phone number, email address, bank account information (collectively, “Business Information”). This information is generally not considered Personal Information because it relates to a business. If such Business Information relates to a business contact person, we will treat it as Personal Information.
 
 **Usage Data and Sites Activity**
 
@@ -116,16 +59,16 @@ We may ask you to provide us with Personal Information when you communicate with
 
 **Cookies and Other Automated Tools**
 
-We and third parties use cookies (small text files placed on your computer to identify your computer and browser) and other automated tools such as pixels to track your interaction with our Sites and to improve the experience of our Sites and Services, such as saving your preferences from visit to visit to present you with a customized version of the Website. Many web browsers are initially set up to accept cookies. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of our Sites may not work if you delete or disable cookies.
+We and third parties use cookies (small text files placed on your computer to identify your computer and browser) and other automated tools such as pixels and clear gifs (collectively, “cookies”) to track your interaction with our Sites and to improve the experience of our Sites and Services, such as saving your preferences from visit to visit to present you with a customized version of the Sites and tracking certain aspects about a user’s visit or engagement with an email or other communications. Many web browsers are initially set up to accept cookies. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of our Sites may not work if you delete or disable cookies.
 
 We use the following types of cookies:
 
-* _Strictly Necessary:_ These cookies are essential to operate the Sites and provide you with services you have requested.
-* _Functional:_ These cookies enable certain features or non-essential functionality on our Sites. For example, we might use these cookies to recognize you and remember your preferences or settings when you return to our Sites so we can provide you with a more personalized experience.
-* _Advertising Cookies:_ These cookies allow us and third parties to learn more about you, including your use of our Sites and other websites, and to advertise products or services that might interest you as further indicated below.
-* _Analytics Cookies:_ These cookies help us and third parties understand how our Sites are working and who is visiting our Sites.
+* _Strictly Necessary:_ These cookies are essential to operate the Sites and provide you with services you have requested.
+* _Functional:_ These cookies enable certain features or non-essential functionality on our Sites. For example, we might use these cookies to recognize you and remember your preferences or settings when you return to our Sites so we can provide you with a more personalized experience.
+* _Advertising Cookies:_ These cookies allow us and third parties to learn more about you, including your use of our Sites and other websites, and to advertise products or services that might interest you as further indicated below.
+* _Analytics Cookies:_ These cookies help us and third parties understand how our Sites are working and who is visiting our Sites.
 
-We and third parties also use tools that enable us to track certain aspects of a user’s visit to our Sites. This technology helps us better manage content on our Sites by informing us what content is effective, how consumers engage with our Sites, and how consumers arrive at and/or depart from our Sites. The software typically uses two methods to track user activity: (1) “tracking pixels” and (2) “clear gifs.” Tracking pixels are pieces of executable code embedded in a web page that track usage activity including which pages are viewed, when they are viewed, and how long the pages are viewed. Clear gifs are tiny graphics with unique identifiers embedded in web pages and email messages that track whether a user views a web page or email message. User activity information may be associated with additional information about a user’s session and Personal Information, if provided by the user.
+User activity information collected by cookies may be associated with additional information about a user’s session and Personal Information, if provided by the user.
 
 You can opt-out of certain types of cookies and other tracking tools by clicking the cookie settings icon at the bottom of applicable Sites.
 
@@ -133,7 +76,7 @@ If you arrive at our Sites by “clicking through” from another website, then 
 
 **Interest-Based Advertising**
 
-We may work with third-party advertisers, search providers, and ad networks (“Ad Networks”) to learn more about you and show you ads or other content that we believe would be relevant to you. Advertisers may collect and use information about your use of our Sites or Services as well as other websites and services. These companies may use cookies and other online tracking technologies to collect and use your information. We and/or Ad Networks may also append other data to the data collected by Ad Networks to create an interest profile of individual users. Our Privacy Policy does not cover any use of information that an Ad Network may collect from you except when the Ad Network acts as our service provider. Advertisements may be shown via our Sites or on third-party websites. If you do not want to receive interest-based advertising, please visit the [Digital Advertising Alliance (DAA) Consumer Choice Page.](https://optout.aboutads.info/?c=2&lang=EN) The DAA website allows you to opt-out of one or more interest-based advertising networks. Opt-outs are device and browser specific; therefore, you must set your opt-out preferences for each device and browser. Deleting browser cookies can remove your opt-out preferences; however, the DAA offers [browser extensions](https://youradchoices.com/) that help preserve the opt-out preferences you set on the DAA’s Consumer Choice Page. Please note that opt-outs only apply to interest-based advertising. You may still receive other types of online advertising.
+We may work with third-party advertisers, search providers, and ad networks (“Ad Networks”) to learn more about you and show you ads or other content that we believe would be relevant to you. Advertisers may collect and use information about your use of our Sites or Services as well as other websites and services. These companies may use cookies and other online tracking technologies to collect and use your information. We and/or Ad Networks may also append other data to the data collected by Ad Networks to create an interest profile of individual users. Our Privacy Policy does not cover any use of information that an Ad Network may collect from you except when the Ad Network acts as our service provider. Advertisements may be shown via our Sites or on third-party websites. If you do not want to receive interest-based advertising, please visit the [Digital Advertising Alliance (DAA) Consumer Choice Page.](https://optout.aboutads.info/?c=2&lang=EN) The DAA website allows you to opt-out of one or more interest-based advertising networks. Opt-outs are device and browser specific; therefore, you must set your opt-out preferences for each device and browser. Deleting browser cookies can remove your opt-out preferences; however, the DAA offers [browser extensions](https://youradchoices.com/) that help preserve the opt-out preferences you set on the DAA's Consumer Choice Page. Please note that opt-outs only apply to interest-based advertising. You may still receive other types of online advertising.
 
 **Partners and Third Parties**
 
@@ -143,12 +86,21 @@ We contract with publishers and other third parties that operate websites that m
 
 We generally use Personal Information to connect you with advertisers that can provide you with information about the goods and services that you have expressed interest about. We may also use your Personal information for internal purposes, including
 
-* _Providing the Sites and Services;_
-* _Marketing and market research:_ such as to send communications and offers and place advertisements, perform analytics for market research, trend analysis, and financial analysis;
-* _Other company communications:_ such as to provide you with information that may be of interest;
-* _Business operations:_ such as to evaluate, develop, and improve business operations, products and services offered, and perform business administration and other normal business activities;
-* _Compliance:_ such as to comply with applicable legal requirements, government requests, industry standards, contractual obligations, our policies, and take actions that we deem necessary to preserve and enforce our rights or the rights of others; and
-* _Information security and fraud prevention:_ such as to operate information security and anti-fraud programs.
+| Processing Purpose | Personal Information Used |
+| --- | --- |
+| Connect you with advertisers that can provide you with information about the goods and services that you have expressed interest about | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Providing the Sites and Services | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Marketing and market research: such as to send communications and offers and place advertisements, perform analytics for market research, trend analysis, and financial analysis | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Other company communications: such as to provide you with information that may be of interest | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Business operations: such as to evaluate, develop, and improve business operations, products and services offered, and perform business administration and other normal business activities | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Compliance: such as to comply with applicable legal requirements, government requests, industry standards, contractual obligations, our policies, and take actions that we deem necessary to preserve and enforce our rights or the rights of others | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Information security and fraud prevention: such as to operate information security and anti-fraud programs | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+
+We also use Sensitive Personal Information for the following purposes:
+
+* Health Information – to provide the Services and to connect you with advertisers that can provide you with information about the goods and services that you have expressed interest about.
+
+We may also use Personal Information and/or Sensitive Personal Information as described to you at the point of collection, with your consent, or as otherwise required or permitted by applicable laws.
 
 **Service Providers**
 
@@ -167,7 +119,27 @@ We may share any of the types of Personal Information collected with one or more
 
 **Third-Party Sharing/Selling**
 
-Our providing information to our advertisers, as described above, may constitute “selling” of Personal Information under certain laws, including the California Consumer Protection Act. We share or sell the following types of Personal Information with one or more advertisers: unique identifiers, personal identifiers; protected classification characteristics; health information; commercial information; Internet and Network Information.
+Our providing information to our advertisers, as described above, may constitute “selling” of Personal Information under certain laws, including the California Consumer Protection Act. In the past twelve months, we have sold or shared Personal Information with third parties who are not our Service Providers (“Third Parties”) as follows:
+
+| Category of Third Party | Sale or Sharing (for targeted or cross-context behavioral advertising) | Purpose of Sale or Sharing | Categories of Personal Information Sold of Shared |
+| --- | --- | --- | --- |
+| Advertisers (providers of consumer goods and services) | Sale | To enable our clients to market and provide their goods and services | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Advertisers (providers of consumer goods and services) | Sharing | To enable our clients to market and provide their goods and services | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+| Ad networks & ad technology providers | Sharing | To facilitate our advertising of goods and services | * _Identifiers and Contact Information_<br>* _Protected Classification Characteristics_<br>* _Health Information_<br>* _Commercial Information_<br>* _Professional/employment Information_<br>* _Education Information_<br>* _Internet and Network Information_ |
+
+**Other Third-Party Disclosures**
+
+We may occasionally disclose your Personal Information to Third Parties, for purposes such as:
+
+* To comply with the law;
+* To respond to legal requests (including court orders, investigative demands and subpoenas) if, in our discretion, we believe it is necessary or appropriate;
+* To prevent or stop any illegal, unethical, or legally actionable activity;
+* To protect the safety, property, or rights of ourselves, consumers, or any other third party;
+* If we are merged, acquired, or sold, or in the event of a divestiture, restructuring, reorganization, or transfer of some or all of our assets and the disclosure is necessary to complete the transaction;
+* To businesses controlling, controlled by, or under common control with us; and
+* For additional purposes with your consent where such consent is required by law.
+
+In the past twelve months, we have disclosed phone number, first name, last name, email address, city, state, zip, postal address, and all 1st party data provided on [Autoaccidentteam.com](https://autoaccidentteam.com/)
 
 **CHILDREN’S PRIVACY**
 
@@ -175,11 +147,13 @@ We do not knowingly collect or solicit Personal Information from anyone under th
 
 **ADDITIONAL STATE LAW CONSUMER RIGHTS**
 
-If you are a resident of California, Colorado, Connecticut, Utah, or Virginia, you have additional rights to access and control your Personal Information. Exemptions may apply.
+If you are a resident of California, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah, or Virginia, you have additional rights to access and control your Personal Information. Exemptions may apply.
 
 **Right to Know**
 
 You have the right to request twice per 12-month period that we provide you (i) the categories or specific pieces of Personal Information we collected about you; (ii) the categories of sources from which we collected your Personal Information; (iii) the business or commercial purpose for which we collected your Personal Information; and (iv) the categories of third Parties with whom we shared or sold your Personal Information. We are not permitted to provide access to specific pieces of Personal Information if the Personal Information is sensitive or creates a high risk of potential harm from disclosure to an unauthorized person. To protect consumers’ Personal Information, you must provide required information and/or documentation to verify your identity. We will process verified requests within 45 days, subject to any applicable exceptions and extensions permitted by law.
+
+If you are an Oregon resident, you have the right to request once per 12-month period that we provide you with a list of specific third parties to whom we disclosed (a) your Personal Information or (b) any Personal Information. We have the discretion to determine which list to provide.
 
 **Right to Deletion**
 
@@ -193,11 +167,11 @@ You have the right to direct us not to sell your Personal Information to third p
 
 **Submitting a Request**
 
-If you are a resident of a state that provides privacy rights and you would like to exercise your rights, you may submit a request by email to [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com) or using this [online form](https://autoaccidentteam.com/do-not-sell-my-information/). After you submit your request, we may contact you to obtain additional information necessary to verify your identity. For example, we may require you to verify certain information in our files or submit a signed declaration under penalty of perjury verifying your identity. We will not be able to process certain requests without verifying your identity, so please respond promptly to our request.
+If you are a resident of a state that provides privacy rights and you would like to exercise your rights, you may submit a request by email to [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com) or using this [online form](https://autoaccidentteam.com/do-not-sell-my-information). After you submit your request, we may contact you to obtain additional information necessary to verify your identity. For example, we may require you to verify certain information in our files or submit a signed declaration under penalty of perjury verifying your identity. We will not be able to process certain requests without verifying your identity, so please respond promptly to our request.
 
 **Authorized Agent**
 
-If you are an authorized agent submitting a request on behalf of a California resident, you must provide a copy of a lawful power of attorney or a written signed authorization from the consumer along with proof your identity. You may provide this documentation via email to [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com) after submitting the request. We may contact you and the consumer on whose behalf you claim to act to verify your identity, the consumer’s identity, and your authorization to act on the consumer’s behalf.
+If you are an authorized agent submitting a request on behalf of a California resident, you must provide a copy of a lawful power of attorney or a written signed authorization from the consumer along with proof your identity. You may provide this documentation via email to [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com) after submitting the request. We may contact you and the consumer on whose behalf you claim to act to verify your identity, the consumer’s identity, and your authorization to act on the consumer’s behalf.
 
 **Non-Discrimination Notice**
 
@@ -234,99 +208,15 @@ Unit #2001
 Brewster, NY 10509  
 [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com)
 
-[![](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/logo-v4-1.svg)](https://www.autoaccidentteam.com/)
+![](../images/Logo.png)
 
-* [888.303.2581](tel:888.303.2581)
-* [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com)
+  
+[info@autoaccidentteam.com](mailto:info@autoaccidentteam.com)
 
-[Facebook-f](https://www.facebook.com/AutoAccidentTeam) [Instagram](https://www.instagram.com/autoaccidentteam/)
+Copyright © 2021 Auto Accident Team | All rights reserved.
 
-Copyright © 2024 Auto Accident Team | All rights reserved.
+Auto Accident Team
 
-* [Sponsors](https://www.autoaccidentteam.com/sponsors/)
-* [Privacy Policy](https://www.autoaccidentteam.com/privacy-policy/)
-* [CA Residents](https://autoaccidentteam.com/do-not-sell-my-information/)
-* [Terms of Use](https://www.autoaccidentteam.com/terms-of-use/)
-* [Do Not Sell my Information](https://www.autoaccidentteam.com/do-not-sell-my-information/)
-* [Attorneys Near You](https://local.autoaccidentteam.com/)
-* [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
-* [Sitemap](https://www.autoaccidentteam.com/sitemap/)
+Auto Accident Team is not a law firm and is not providing legal advice. We are a free service that connects you with third party law firms to discuss your claims. Auto Accident Team does not endorse or recommend the law firms that participate in our network.
 
-* [Sponsors](https://www.autoaccidentteam.com/sponsors/)
-* [Privacy Policy](https://www.autoaccidentteam.com/privacy-policy/)
-* [CA Residents](https://autoaccidentteam.com/do-not-sell-my-information/)
-* [Terms of Use](https://www.autoaccidentteam.com/terms-of-use/)
-* [Do Not Sell my Information](https://www.autoaccidentteam.com/do-not-sell-my-information/)
-* [Attorneys Near You](https://local.autoaccidentteam.com/)
-* [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
-* [Sitemap](https://www.autoaccidentteam.com/sitemap/)
-
-Auto Accident Team is not a law firm nor a lawyer referral service, and it is not providing legal advice. We are a free service that compiles information for individuals seeking legal relief for auto accidents. Auto Accident Team does not endorse or recommend the law firms that participate in our network.
-
-Advertising paid for by participating attorneys in a joint advertising program, including Kevin Danesh, licensed to practice law only in California. A complete list of joint advertising attorneys can be found at [https://www.autoaccidentteam.com/sponsors/](https://autoaccidentteam.com/sponsors/). You can request an attorney by name. 1-800-THE-LAW2 is not a law firm or an attorney referral service. This advertisement is not legal advice and is not a guarantee or prediction of the outcome of your legal matter. Every case is different. The outcome depends on the laws, facts, and circumstances unique to each case. Hiring an attorney is an important decision that should not be based solely on advertising. Request free information about your attorney’s background and experience. This advertising does not imply a higher quality of legal services than that provided by other attorneys. This advertising does not imply that the attorneys are certified specialists or experts in any area of law. No legal services will be provided unless there is a signed agreement between client and attorney.
-
-[FILE Your Claim TOday](https://autoaccidentteam.com/contact/)
-
-[![](https://www.autoaccidentteam.com/wp-content/uploads/2024/06/logo-v4-1.svg)](https://www.autoaccidentteam.com/)
-
-* [Car Accident Laws](https://www.autoaccidentteam.com/car-accident-laws/)
-    * [Texas](https://www.autoaccidentteam.com/car-accident-laws/texas/)
-    * [California](https://www.autoaccidentteam.com/car-accident-laws/california/)
-* [Lawsuit](https://www.autoaccidentteam.com/car-accident-lawsuits/)
-    * [Find A Car Accident Lawyer](https://www.autoaccidentteam.com/car-accident-lawsuits/lawyer/)
-    * [Filing a Claim](https://www.autoaccidentteam.com/car-accident-lawsuits/filing-claim/)
-    * [Settlements](https://www.autoaccidentteam.com/car-accident-lawsuits/settlements/)
-    * [Timeline](https://www.autoaccidentteam.com/car-accident-lawsuits/timeline/)
-    * [Determining Fault](https://www.autoaccidentteam.com/car-accident-lawsuits/fault/)
-* [Resources](https://www.autoaccidentteam.com/resources/)
-    * [Bike Accident](https://www.autoaccidentteam.com/resources/bicycle-accidents/)
-    * [Types of Car Accidents](https://www.autoaccidentteam.com/resources/types/)
-    * [Uninsured Motorist Coverage](https://www.autoaccidentteam.com/resources/what-is-uninsured-motorist-coverage/)
-* [Injuries](https://www.autoaccidentteam.com/car-accident-injury/)
-    * [Airbag Injuries](https://www.autoaccidentteam.com/car-accident-injury/airbag-injury/)
-    * [Neck Injuries](https://www.autoaccidentteam.com/car-accident-injury/neck-pain/)
-    * [Traumatic Brain Injury](https://www.autoaccidentteam.com/car-accident-injury/traumatic-brain-injuries/)
-    * [Whiplash](https://www.autoaccidentteam.com/car-accident-injury/whiplash/)
-* [Safety](https://www.autoaccidentteam.com/car-accident-prevention/)
-    * [Defensive Driving](https://www.autoaccidentteam.com/car-accident-prevention/defensive-driving/)
-    * [Distracted Driving](https://www.autoaccidentteam.com/car-accident-prevention/distracted-driving/)
-* [About Us](https://www.autoaccidentteam.com/about-us/)
-    * [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
-    * [Why Choose Us?](https://www.autoaccidentteam.com/how-does-it-work/)
-    * [Video Gallery](https://www.autoaccidentteam.com/video-gallery/)
-    * [FAQs](https://www.autoaccidentteam.com/car-accident-lawsuits/faqs/)
-* [Contact](https://www.autoaccidentteam.com/contact/)
-
-* [Car Accident Laws](https://www.autoaccidentteam.com/car-accident-laws/)
-    * [Texas](https://www.autoaccidentteam.com/car-accident-laws/texas/)
-    * [California](https://www.autoaccidentteam.com/car-accident-laws/california/)
-* [Lawsuit](https://www.autoaccidentteam.com/car-accident-lawsuits/)
-    * [Find A Car Accident Lawyer](https://www.autoaccidentteam.com/car-accident-lawsuits/lawyer/)
-    * [Filing a Claim](https://www.autoaccidentteam.com/car-accident-lawsuits/filing-claim/)
-    * [Settlements](https://www.autoaccidentteam.com/car-accident-lawsuits/settlements/)
-    * [Timeline](https://www.autoaccidentteam.com/car-accident-lawsuits/timeline/)
-    * [Determining Fault](https://www.autoaccidentteam.com/car-accident-lawsuits/fault/)
-* [Resources](https://www.autoaccidentteam.com/resources/)
-    * [Bike Accident](https://www.autoaccidentteam.com/resources/bicycle-accidents/)
-    * [Types of Car Accidents](https://www.autoaccidentteam.com/resources/types/)
-    * [Uninsured Motorist Coverage](https://www.autoaccidentteam.com/resources/what-is-uninsured-motorist-coverage/)
-* [Injuries](https://www.autoaccidentteam.com/car-accident-injury/)
-    * [Airbag Injuries](https://www.autoaccidentteam.com/car-accident-injury/airbag-injury/)
-    * [Neck Injuries](https://www.autoaccidentteam.com/car-accident-injury/neck-pain/)
-    * [Traumatic Brain Injury](https://www.autoaccidentteam.com/car-accident-injury/traumatic-brain-injuries/)
-    * [Whiplash](https://www.autoaccidentteam.com/car-accident-injury/whiplash/)
-* [Safety](https://www.autoaccidentteam.com/car-accident-prevention/)
-    * [Defensive Driving](https://www.autoaccidentteam.com/car-accident-prevention/defensive-driving/)
-    * [Distracted Driving](https://www.autoaccidentteam.com/car-accident-prevention/distracted-driving/)
-* [About Us](https://www.autoaccidentteam.com/about-us/)
-    * [Areas We Serve](https://www.autoaccidentteam.com/areas-we-serve/)
-    * [Why Choose Us?](https://www.autoaccidentteam.com/how-does-it-work/)
-    * [Video Gallery](https://www.autoaccidentteam.com/video-gallery/)
-    * [FAQs](https://www.autoaccidentteam.com/car-accident-lawsuits/faqs/)
-* [Contact](https://www.autoaccidentteam.com/contact/)
-
-[877-508-8778](tel:877-508-8778)
-
-Search
-
-Search
+[Privacy Policy](https://autoaccidentteam.com/privacy-policy) [CA Residents](https://autoaccidentteam.com/privacy-policy#california-resident "CA Residents") [Terms of Use](https://autoaccidentteam.com/terms-of-use) [Do Not Sell My Information](https://autoaccidentteam.com/do-not-sell-my-information "Do Not Sell My Information")
