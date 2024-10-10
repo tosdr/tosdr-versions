@@ -33,9 +33,9 @@ pymetrics privacy policy 
 
 Last updated: October 6, 2021  
   
-To view the Privacy Policy in **French**, please click [**here**](https://assets.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef781202c5c6b2_pymetrics%20Privacy%20Policy%20-%2010%206%2021%20Final%20Clean_fr.docx.pdf).  
-To view the Privacy Policy in **Chinese (Traditional)**, please click [**here**](https://assets.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef78776dc5c6b7_pymetrics%20Privacy%20Policy%20-%2010%206%2021%20Final%20Clean_zhtw.docx.pdf).  
-To view the Privacy Policy in **Chinese (Simplified)**, please click [**here**](https://assets.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef78c2afc5c6b6_pymetrics%20Privacy%20Policy%20-%2010%206%2021%20Final%20Clean_zhcn.docx.pdf).  
+To view the Privacy Policy in **French**, please click [**here**](https://cdn.prod.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef781202c5c6b2_pymetrics%20Privacy%20Policy%20-%2010%206%2021%20Final%20Clean_fr.docx.pdf).  
+To view the Privacy Policy in **Chinese (Traditional)**, please click [**here**](https://cdn.prod.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef78776dc5c6b7_pymetrics%20Privacy%20Policy%20-%2010%206%2021%20Final%20Clean_zhtw.docx.pdf).  
+To view the Privacy Policy in **Chinese (Simplified)**, please click [**here**](https://cdn.prod.website-files.com/61fd2add68ef78682cc5c453/61fd2add68ef78c2afc5c6b6_pymetrics%20Privacy%20Policy%20-%2010%206%2021%20Final%20Clean_zhcn.docx.pdf).  
 
   
 
