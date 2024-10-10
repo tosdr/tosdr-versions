@@ -154,7 +154,7 @@
 Type your search and hit enter
 
 * Hot Topics
-* [Prime Day Deals](https://www.pcworld.com/prime-day)
+* [Ultimate Holiday Shopping Guide](https://www.pcworld.com/ultimate-holiday-shopping-guide)
 * [Best laptops](https://www.pcworld.com/article/436674/the-best-pc-laptops-of-the-year.html)
 * [Best VPN](https://www.pcworld.com/article/406870/best-vpn-services-apps-reviews-buying-advice.html)
 * [Best antivirus](https://www.pcworld.com/article/407277/best-antivirus-for-windows-pc.html)
