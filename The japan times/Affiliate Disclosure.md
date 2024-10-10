@@ -134,21 +134,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
+[University of Tokyo moves up a spot to 28th in World University Rankings](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
+
+  [![The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426860.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.")](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
+
+[Trio of scientists win chemistry Nobel for work on the structure of proteins](https://www.japantimes.co.jp/news/2024/10/09/world/science-health/nobel-prize-chemistry/ "Trio of scientists win chemistry Nobel for work on the structure of proteins")
+
+  [![A screen shows the 2024 laureates for the Nobel Prize in chemistry David Baker, Demis Hassabis and John M. Jumper during the award's announcement by the Royal Swedish Academy of Sciences in Stockholm on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426911.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A screen shows the 2024 laureates for the Nobel Prize in chemistry David Baker, Demis Hassabis and John M. Jumper during the award's announcement by the Royal Swedish Academy of Sciences in Stockholm on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/09/world/science-health/nobel-prize-chemistry/ "Trio of scientists win chemistry Nobel for work on the structure of proteins")
+
+[Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
+
+  [![Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426811.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ")](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
+
 [Hedge funds warming to yen caught out by biggest drop in 15 years](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
 
   [![Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426578.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.")](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
-
-[Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-pm-ishiba-asian-nato/ "Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut")
-
-  [![Prime Minister Shigeru Ishiba has floated an idea of creating an Asian version of the NATO security framework.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426575.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba has floated an idea of creating an Asian version of the NATO security framework.")](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-pm-ishiba-asian-nato/ "Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut")
-
-[Japan records highest number of bankruptcies in a decade as costs rise](https://www.japantimes.co.jp/business/2024/10/08/economy/japan-bankruptcies-high/ "Japan records highest number of bankruptcies in a decade as costs rise")
-
-  [![Japan saw the highest number of bankruptcies since 2013 in the six months through September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426646.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Japan saw the highest number of bankruptcies since 2013 in the six months through September.")](https://www.japantimes.co.jp/business/2024/10/08/economy/japan-bankruptcies-high/ "Japan records highest number of bankruptcies in a decade as costs rise")
-
-[After Helene devastation, over 1 million people flee path of Hurricane Milton](https://www.japantimes.co.jp/news/2024/10/09/world/flee-hurricane-milton-traffic-fuel/ "After Helene devastation, over 1 million people flee path of Hurricane Milton")
-
-  [![People line up to buy wood to protect their assets before the hurricane Milton, in Orlando, Florida, on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426718.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "People line up to buy wood to protect their assets before the hurricane Milton, in Orlando, Florida, on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/09/world/flee-hurricane-milton-traffic-fuel/ "After Helene devastation, over 1 million people flee path of Hurricane Milton")
 
 Editors' Picks
 --------------
@@ -161,6 +161,30 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[University of Tokyo moves up a spot to 28th in World University Rankings](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
+
+By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
+
+  [![The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426860.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.")](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
+
+[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
+
+[Trio of scientists win chemistry Nobel for work on the structure of proteins](https://www.japantimes.co.jp/news/2024/10/09/world/science-health/nobel-prize-chemistry/ "Trio of scientists win chemistry Nobel for work on the structure of proteins")
+
+By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
+
+  [![A screen shows the 2024 laureates for the Nobel Prize in chemistry David Baker, Demis Hassabis and John M. Jumper during the award's announcement by the Royal Swedish Academy of Sciences in Stockholm on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426911.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A screen shows the 2024 laureates for the Nobel Prize in chemistry David Baker, Demis Hassabis and John M. Jumper during the award's announcement by the Royal Swedish Academy of Sciences in Stockholm on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/09/world/science-health/nobel-prize-chemistry/ "Trio of scientists win chemistry Nobel for work on the structure of proteins")
+
+[SUMO](https://www.japantimes.co.jp/sports/sumo/ "SUMO")
+
+[Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
+
+By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gunning")  
+
+  [![Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426811.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ")](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
+
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
 [Hedge funds warming to yen caught out by biggest drop in 15 years](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
@@ -168,30 +192,6 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 By [Ruth Carson](https://www.japantimes.co.jp/author/1509/ruth-carson/ "Ruth Carson") and [Mia Glass](https://www.japantimes.co.jp/author/3540/mia-glass/ "Mia Glass")  
 
   [![Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426578.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.")](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-pm-ishiba-asian-nato/ "Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut")
-
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza") and [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![Prime Minister Shigeru Ishiba has floated an idea of creating an Asian version of the NATO security framework.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426575.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba has floated an idea of creating an Asian version of the NATO security framework.")](https://www.japantimes.co.jp/news/2024/10/08/japan/politics/japan-pm-ishiba-asian-nato/ "Ishiba's 'Asian NATO' dead on arrival as new PM set for diplomatic debut")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Japan records highest number of bankruptcies in a decade as costs rise](https://www.japantimes.co.jp/business/2024/10/08/economy/japan-bankruptcies-high/ "Japan records highest number of bankruptcies in a decade as costs rise")
-
-By [Erica Yokoyama](https://www.japantimes.co.jp/author/1058/erica-yokoyama/ "Erica Yokoyama")  
-
-  [![Japan saw the highest number of bankruptcies since 2013 in the six months through September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426646.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Japan saw the highest number of bankruptcies since 2013 in the six months through September.")](https://www.japantimes.co.jp/business/2024/10/08/economy/japan-bankruptcies-high/ "Japan records highest number of bankruptcies in a decade as costs rise")
-
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
-
-[After Helene devastation, over 1 million people flee path of Hurricane Milton](https://www.japantimes.co.jp/news/2024/10/09/world/flee-hurricane-milton-traffic-fuel/ "After Helene devastation, over 1 million people flee path of Hurricane Milton")
-
-By [Evan Garcia](https://www.japantimes.co.jp/author/6104/evan-garcia/ "Evan Garcia")  
-
-  [![People line up to buy wood to protect their assets before the hurricane Milton, in Orlando, Florida, on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426718.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "People line up to buy wood to protect their assets before the hurricane Milton, in Orlando, Florida, on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/09/world/flee-hurricane-milton-traffic-fuel/ "After Helene devastation, over 1 million people flee path of Hurricane Milton")
 
 Podcast
 -------
@@ -212,9 +212,9 @@ By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ 
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -254,23 +254,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Women at Japan's top university call out gender imbalance with posters](https://www.japantimes.co.jp/news/2024/10/10/japan/society/japan-university-gender-imbalance/ "Women at Japan's top university call out gender imbalance with posters")
+[Aomori Prefecture rejects proposed high-level nuclear waste delivery](https://www.japantimes.co.jp/news/2024/10/10/japan/aomori-nuclear-waste-refusal/ "Aomori Prefecture rejects proposed high-level nuclear waste delivery")
 
-12 mins ago
+4 mins ago
 
-[Hikone Castle could merit world heritage listing, UNESCO panel says](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-hikone-castle-world-heritage/ "Hikone Castle could merit world heritage listing, UNESCO panel says")
+[Ishiba keeps low profile as he makes diplomatic debut](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
 
-24 mins ago
+40 mins ago
 
-[Japan is aiming for a growth-oriented economy, new minister says](https://www.japantimes.co.jp/business/2024/10/10/economy/akazawa-growth-oriented-economy/ "Japan is aiming for a growth-oriented economy, new minister says")
-
-1 hours ago
-
-[NTT Docomo recalling almost a million defective SIM cards](https://www.japantimes.co.jp/business/2024/10/10/companies/ntt-sim-recall/ "NTT Docomo recalling almost a million defective SIM cards")
+[Ban on dual nationality is constitutional, Fukuoka High Court rules](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
 
 1 hours ago
 
-[Indian business titan Ratan Tata dies at age 86](https://www.japantimes.co.jp/business/2024/10/10/ratan-tata-dies/ "Indian business titan Ratan Tata dies at age 86")
+[Seven & I to embrace 7-Eleven name as it sheds noncore businesses](https://www.japantimes.co.jp/business/2024/10/10/companies/seven-i-earnings/ "Seven & I to embrace 7-Eleven name as it sheds noncore businesses")
+
+2 hours ago
+
+[1 in 8 girls and women raped or sexually assaulted before 18, UNICEF says](https://www.japantimes.co.jp/news/2024/10/10/world/society/un-report-sexual-violence/ "1 in 8 girls and women raped or sexually assaulted before 18, UNICEF says")
 
 2 hours ago
 
