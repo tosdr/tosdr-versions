@@ -232,7 +232,6 @@ Popular Searches
     * [Weight Loss & Management](https://www.1800petmeds.com/weight+loss+++management-cat240009.html)
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
 * [Today's Deals](#)
-    * [30% Off Sitewide Use Code DEALDAYS](https://www.1800petmeds.com/)
     * [15% Off Halloween Treats Use Code TREATS15](https://www.1800petmeds.com/get-15-off-treat-on-halloween.html?campaign=TREATS15001)
     
 * [Hurricane Relief](https://www.1800petmeds.com/hurricane-relief.html)
@@ -835,7 +834,6 @@ Navigation [×](javascript:void(0))
     * [View Conditions A-Z](https://www.1800petmeds.com/all-conditions)
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwdd5dafc3/images/shoppingtag.svg) [Today's Deals](#)
     * [BackToday's Deals](#)
-    * [30% Off Sitewide Use Code DEALDAYS](https://www.1800petmeds.com/)
     * [15% Off Halloween Treats Use Code TREATS15](https://www.1800petmeds.com/get-15-off-treat-on-halloween.html?campaign=TREATS15001)
     
 * ![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw4e0c4a46/images/book.svg) [Pet Health Advice](https://www.1800petmeds.com/education)
