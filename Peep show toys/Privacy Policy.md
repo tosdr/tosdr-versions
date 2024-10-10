@@ -23,7 +23,7 @@ Close menu
         * [Suction Cup](https://www.peepshowtoys.com/collections/suction-cup-dildos)
         * [G-Spot or Prostate](https://www.peepshowtoys.com/collections/g-spot-dildos)
         * [Wearable & Vaginal Plugs](https://www.peepshowtoys.com/collections/wearable-dildos)
-        * [Glass, Wood & Metal](https://www.peepshowtoys.com/collections/glass-wood-metal-dildos)
+        * [Glass & Stainless Steel](https://www.peepshowtoys.com/collections/glass-wood-metal-dildos)
         * [Strapless Dildos](https://www.peepshowtoys.com/collections/strapless-strap-on-dildos-wearable-double-dildos)
         * [Extra Large](https://www.peepshowtoys.com/collections/extra-large-dildos)
         
@@ -46,7 +46,7 @@ Close menu
         * [Anal Lube](https://www.peepshowtoys.com/collections/anal-lubricants)
         * [Anal Beads](https://www.peepshowtoys.com/collections/anal-beads)
         * [Tunnel Plugs](https://www.peepshowtoys.com/collections/body-safe-silicone-anal-tunnel-plugs)
-        * [Glass, Wood & Metal](https://www.peepshowtoys.com/collections/glass-wood-metal-anal-toys)
+        * [Glass & Metal](https://www.peepshowtoys.com/collections/glass-wood-metal-anal-toys)
         * [Anal Douche & Enema](https://www.peepshowtoys.com/collections/anal-douche-enema)
         
     * [Group Play](https://www.peepshowtoys.com/collections/couples)
@@ -55,8 +55,8 @@ Close menu
         * [Massage](https://www.peepshowtoys.com/collections/massage-items)
         * [Couples Vibrators](https://www.peepshowtoys.com/collections/couples-vibrators)
         * [Liberator](https://www.peepshowtoys.com/collections/liberator-sex-furniture)
-        * [Gift Sets](https://www.peepshowtoys.com/collections/gift-sets)
         * [Sex Games](https://www.peepshowtoys.com/collections/adult-games)
+        * [Gift Sets](https://www.peepshowtoys.com/collections/gift-sets)
         
     * [Pumps](https://www.peepshowtoys.com/collections/penis-pumps)
         
@@ -121,13 +121,13 @@ Close menu
     
 * More
     
-    * [Toy Storage](https://www.peepshowtoys.com/collections/toy-storage)
-        
     * [Gift Cards](https://www.peepshowtoys.com/collections/gift-cards)
+        
+    * [Sex Furniture](https://www.peepshowtoys.com/collections/liberator-sex-furniture)
         
     * [Kegel Exercises](https://www.peepshowtoys.com/collections/kegel-beads-exercisers)
         
-    * [Sex Furniture](https://www.peepshowtoys.com/collections/liberator-sex-furniture)
+    * [Toy Storage](https://www.peepshowtoys.com/collections/toy-storage)
         
     * [Books & Games](https://www.peepshowtoys.com/collections/adult-books-sex-games)
         
@@ -135,8 +135,6 @@ Close menu
         
         * [Bras & Padding](https://www.peepshowtoys.com/collections/gender-expression-padding)
         * [Tucking](https://www.peepshowtoys.com/collections/gender-expression-tucking-collection)
-        * [Padding](https://www.peepshowtoys.com/collections/padding-bras-forms-shape-wear)
-        * [Binding](https://www.peepshowtoys.com/collections/gender-expression-binding)
         * [Packing](https://www.peepshowtoys.com/collections/packing-dildos)
         
     * Partners
@@ -242,7 +240,7 @@ Site navigation
     
     [Wearable & Vaginal Plugs](https://www.peepshowtoys.com/collections/wearable-dildos)
     
-    [Glass, Wood & Metal](https://www.peepshowtoys.com/collections/glass-wood-metal-dildos)
+    [Glass & Stainless Steel](https://www.peepshowtoys.com/collections/glass-wood-metal-dildos)
     
     [Strapless Dildos](https://www.peepshowtoys.com/collections/strapless-strap-on-dildos-wearable-double-dildos)
     
@@ -284,7 +282,7 @@ Site navigation
     
     [Tunnel Plugs](https://www.peepshowtoys.com/collections/body-safe-silicone-anal-tunnel-plugs)
     
-    [Glass, Wood & Metal](https://www.peepshowtoys.com/collections/glass-wood-metal-anal-toys)
+    [Glass & Metal](https://www.peepshowtoys.com/collections/glass-wood-metal-anal-toys)
     
     [Anal Douche & Enema](https://www.peepshowtoys.com/collections/anal-douche-enema)
     
@@ -300,9 +298,9 @@ Site navigation
     
     [Liberator](https://www.peepshowtoys.com/collections/liberator-sex-furniture)
     
-    [Gift Sets](https://www.peepshowtoys.com/collections/gift-sets)
-    
     [Sex Games](https://www.peepshowtoys.com/collections/adult-games)
+    
+    [Gift Sets](https://www.peepshowtoys.com/collections/gift-sets)
     
     [](https://www.peepshowtoys.com/collections/penis-pumps)
     
@@ -367,13 +365,13 @@ Site navigation
     
 * [More](#)
     
-    [Toy Storage](https://www.peepshowtoys.com/collections/toy-storage)
-    
     [Gift Cards](https://www.peepshowtoys.com/collections/gift-cards)
+    
+    [Sex Furniture](https://www.peepshowtoys.com/collections/liberator-sex-furniture)
     
     [Kegel Exercises](https://www.peepshowtoys.com/collections/kegel-beads-exercisers)
     
-    [Sex Furniture](https://www.peepshowtoys.com/collections/liberator-sex-furniture)
+    [Toy Storage](https://www.peepshowtoys.com/collections/toy-storage)
     
     [Books & Games](https://www.peepshowtoys.com/collections/adult-books-sex-games)
     
@@ -384,10 +382,6 @@ Site navigation
     [Bras & Padding](https://www.peepshowtoys.com/collections/gender-expression-padding)
     
     [Tucking](https://www.peepshowtoys.com/collections/gender-expression-tucking-collection)
-    
-    [Padding](https://www.peepshowtoys.com/collections/padding-bras-forms-shape-wear)
-    
-    [Binding](https://www.peepshowtoys.com/collections/gender-expression-binding)
     
     [Packing](https://www.peepshowtoys.com/collections/packing-dildos)
     
