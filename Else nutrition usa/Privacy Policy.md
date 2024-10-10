@@ -3,7 +3,7 @@ elsenutrition
 
 [Skip to content](#MainContent)
 
-Get 15% OFF Multipacks with CODE: 15PACKS
+Free Shipping on Orders over $59
 
    [![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935) ![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935)](https://elsenutrition.com/)
 
