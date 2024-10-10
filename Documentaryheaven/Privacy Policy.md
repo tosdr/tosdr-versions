@@ -113,54 +113,54 @@ Advertisement
     WWII From Space
     
     It is December 7th 1941 and WWII is entering its 27th month. Japanese troops storm Shanghai, German armies stand at the gates of Moscow causing 6 and a half million casualties, and Nazi Germany has ma...](https://documentaryheaven.com/wwii-from-space/ "WWII From Space")
-* [![Britains Broken Families](/wp-content/thumbnails/8555-100x70.jpg?x53432)
-    
-    Britains Broken Families
-    
-    A recent documentary by the BBC has set about following the work of Newcastle's Family Intervention Project or FIP, the project aims to try and help some of the more disruptive families in the area. ...](https://documentaryheaven.com/britains-broken-families/ "Britains Broken Families")
 * [![Prisoners of Katrina](/wp-content/thumbnails/2448-100x70.jpg?x53432)
     
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
+* [![Britains Broken Families](/wp-content/thumbnails/8555-100x70.jpg?x53432)
+    
+    Britains Broken Families
+    
+    A recent documentary by the BBC has set about following the work of Newcastle's Family Intervention Project or FIP, the project aims to try and help some of the more disruptive families in the area. ...](https://documentaryheaven.com/britains-broken-families/ "Britains Broken Families")
 * [![Amy Winehouse: What Really Happened](/wp-content/thumbnails/6033-100x70.jpg?x53432)
     
     Amy Winehouse: What Really Happened
     
     Amy Winehouse is a singer and songwriter who is famous for her strong vocals as well as her blend of numerous musical styles such as soul, jazz and R&B.Winehouse has gained huge publicity for her dr...](https://documentaryheaven.com/amy-winehouse-what-really-happened/ "Amy Winehouse: What Really Happened")
-* [![Canada’s woke nightmare: A warning to the West](/wp-content/thumbnails/16701-100x70.jpg?x53432)
+* [![The Boy Who Was Turned Into a Girl](/wp-content/thumbnails/5946-100x70.jpg?x53432)
     
-    Canada’s woke nightmare: A warning to the West
+    The Boy Who Was Turned Into a Girl
     
-    Canada, under the leadership of Justin Trudeau, has positioned itself as a global advocate for progressive policies. In my latest documentary featured in The Telegraph, I embarked on a journey to the...](https://documentaryheaven.com/canadas-woke-nightmare-a-warning-to-the-west/ "Canada’s woke nightmare: A warning to the West")
+    In 1965 in the Canadian town of Winnipeg, Janet Reimer gave birth to twin boys - Bruce and Brian. Six months later a bungled circumcision left Bruce without a penis. Based on a radical new theory of g...](https://documentaryheaven.com/the-boy-who-was-turned-into-a-girl/ "The Boy Who Was Turned Into a Girl")
 
 ###### Throwback Documentaries
 
-* [![Bigger Than Enron](/wp-content/thumbnails/1155-100x70.jpg?x53432)
+* [![Extraordinary People: The Million Dollar Mind Reader](/wp-content/thumbnails/3319-100x70.jpg?x53432)
     
-    Bigger Than Enron
+    Extraordinary People: The Million Dollar Mind Reader
     
-    On June 15, a Houston jury convicted Arthur Andersen -- the 89-year-old accounting firm once known as the gold standard of integrity in auditing -- for obstruction of justice in the government's inves](https://documentaryheaven.com/bigger-than-enron/ "Bigger Than Enron")
-* [![The Blockchain and Us](/wp-content/thumbnails/13767-100x70.jpg?x53432)
+    Derek Ogilvie says he can read the minds of infants who are too young to communicate verbally.Now he agrees to undergo a series of controlled experiments to test the limits of his alleged abili](https://documentaryheaven.com/extraordinary-people-the-million-dollar-mind-reader/ "Extraordinary People: The Million Dollar Mind Reader")
+* [![The Man Who Knew Too Much](/wp-content/thumbnails/16626-100x70.jpg?x53432)
     
-    The Blockchain and Us
+    The Man Who Knew Too Much
     
-    In 1903 the Wright brothers invented the first airplane, it was hard to imagine back then that today there would be over 500,000 people traveling in the air at any point in time. In 2008, a person or](https://documentaryheaven.com/blockchain-and-us/ "The Blockchain and Us")
-* [![Secrets of the Dead: Lost in the Amazon](/wp-content/thumbnails/6145-100x70.jpg?x53432)
+    In 1969 violence erupted in Northern Ireland between Protestants loyal to the British Crown and Catholics. As such an information warfare department is established inside the British Army's Northern](https://documentaryheaven.com/man-who-knew-too-much/ "The Man Who Knew Too Much")
+* [![On The Streets](/wp-content/thumbnails/6078-100x70.jpg?x53432)
     
-    Secrets of the Dead: Lost in the Amazon
+    On The Streets
     
-    On April 20, 1925, Colonel Percy Fawcett, his elder son Jack Fawcett and Jack’s lifelong friend, Raleigh Rimmell, departed from Cuiabá, the capital city of the Brazilian state of Mato Grosso, to find](https://documentaryheaven.com/secrets-of-the-dead-lost-in-the-amazon/ "Secrets of the Dead: Lost in the Amazon")
-* [![The Battle of the Bulge](/wp-content/thumbnails/5762-100x70.jpg?x53432)
+    Filmmaker Penny Woolcock spent eight months in a parallel world, the world of the homeless, befriending people and finding out where they eat, sleep and socialise. While making her film, Woolcock rea](https://documentaryheaven.com/on-the-streets/ "On The Streets")
+* [![Garavito: The World’s Worst Serial Killer](/wp-content/thumbnails/8437-100x70.jpg?x53432)
     
-    The Battle of the Bulge
+    Garavito: The World’s Worst Serial Killer
     
-    December 16, 1944-January 28, 1945 In December 1944, in an all-out gamble to compel the Allies to sue for peace, Adolf Hitler ordered the only major German counteroffensive of the war in northwest Eur](https://documentaryheaven.com/the-battle-of-the-bulge/ "The Battle of the Bulge")
-* [![Sun Ra, Brother From Another Planet](/wp-content/thumbnails/6378-100x70.jpg?x53432)
+    20th centuries most prolific serial killer is largely unknown throughout the world, though he brutally murdered at least 140 children, posing as a priest or teacher he lured poor young boys away from](https://documentaryheaven.com/garavito-worlds-worst-serial-killer/ "Garavito: The World’s Worst Serial Killer")
+* [![The Vice Guide to Travel: North Korea](/wp-content/thumbnails/5626-100x70.jpg?x53432)
     
-    Sun Ra, Brother From Another Planet
+    The Vice Guide to Travel: North Korea
     
-    Sun Ra was born on the planet Saturn some time ago. The best accounts agree that he emerged on Earth as Herman Blount, born in Birmingham, Alabama in 1914, although Sun Ra himself always denied that B](https://documentaryheaven.com/sun-ra-brother-from-another-planet/ "Sun Ra, Brother From Another Planet")
+    Getting into North Korea was one of the hardest and weirdest processes VBS has ever dealt with."After we went back and forth with their representatives for months, they finally said they were goin](https://documentaryheaven.com/the-vice-guide-to-travel-north-korea/ "The Vice Guide to Travel: North Korea")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
