@@ -369,4 +369,4 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
 
                                                   
 
-https://www.arkoselabs.com/arkose-university/sign-up/
+https://www.arkoselabs.com/contact/
