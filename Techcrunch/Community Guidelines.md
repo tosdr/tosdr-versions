@@ -180,11 +180,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [Comcast Data](https://techcrunch.com/2024/10/07/comcast-says-customer-data-stolen-in-ransomware-attack-on-debt-collection-agency/)
-* [General Catalyst](https://techcrunch.com/2024/10/07/general-catalyst-is-working-on-a-continuation-fund-worth-up-to-1b-sources-say/)
+* [Fidelity Breach](http://fidelity/)
+* [Tesla Robotaxi Event](https://techcrunch.com/storyline/tesla-robotaxi-event-follow-elon-musks-big-reveals-here/)
 * [iOS 18](https://techcrunch.com/2024/09/30/18-apps-that-add-useful-actions-to-the-ios-18-control-center/)
-* [Uber AI Assistant](https://techcrunch.com/2024/10/08/uber-to-launch-openai-powered-ai-assistant-to-answer-driver-ev-questions/)
-* [Tesla Robotaxi](https://techcrunch.com/2024/10/07/tesla-robotaxi-event-how-to-watch-the-reveal-thursday/)
+* [Tesla](https://techcrunch.com/2024/10/09/tesla-designer-franz-von-holzhausen-says-hes-been-designing-a-robotaxi-in-his-mind-for-years/)
+* [Geoffrey Hinton](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
 * [Tech Layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/10/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
