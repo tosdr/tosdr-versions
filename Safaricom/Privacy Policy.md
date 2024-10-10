@@ -1,4 +1,4 @@
-Rated 4.9 / 5 based on [699 reviews](https://www.trustpilot.com/review/www.safari.com) on
+Rated 4.9 / 5 based on [713 reviews](https://www.trustpilot.com/review/www.safari.com) on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
 
@@ -138,7 +138,21 @@ Customer Testimonials
 
 out of 5 based on
 
-[699 reviews](https://www.trustpilot.com/review/www.safari.com)
+[713 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 9, 2024
+
+> Seems pointless to book things direct when Safari.com can do it all for you at the same cost
+
+> I wasn’t actually planning on leaving a review until after our trip which has been scheduled for March 2025. I wasn’t even planning to use a travel company to assist as we are experienced travellers who are used to booking our own arrangements. The cost of going direct with suppliers and going through Safari.com was exactly the same - with the latter you also have outstanding service and advice which makes it pointless to do it yourself. But I felt compelled to leave a shout out for Leigh-Ann Croeser who has been extremely helpful in organising our itinerary for South Africa. Her response to queries was always prompt and professional. When we ultimately wish to travel to East Africa, I know who I will be contacting.
+
+Henry
+
+,
+
+AU
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -151,6 +165,8 @@ out of 5 based on
 Diana Gray
 
 ,
+
+US
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -247,20 +263,6 @@ US
 arvin ongjunco I'm handsome
 
 ,
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 3, 2024
-
-> The itenary provided for our trip to…
-
-> The itenary provided for our trip to Victoria Falls by Shann Shaw was clear and concise. Settlement of online deposit payment was seemless. Will provide more reviews when we complete outr trip.
-
-Vas
-
-,
-
-GB
 
 VIP service
 
