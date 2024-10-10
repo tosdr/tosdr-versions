@@ -71,7 +71,7 @@
         * [Gaming](https://www.goal.com/en/category/Gaming/1/1sv3aw5srmki010flis5dpyze1)
         * [Quizzes](https://www.goal.com/en/category/quiz/1/blt91d479fb56463f72)
     * Footballco network
-        * [MUNDIAL](https://mundialmag.com/)
+        * [MUNDIAL](https://www.goal.com/mundial/)
         * [NXGN](https://www.instagram.com/nxgn_football/)
         * [INDIVISA](https://www.indivisa.com/)
         * [Front Three](https://www.youtube.com/@FrontThree)
@@ -81,6 +81,7 @@
         * [Instagram](https://www.instagram.com/goalglobal/)
         * [TikTok](https://www.tiktok.com/@goalglobal)
         * [YouTube](https://www.youtube.com/user/GOAL)
+* [MUNDIAL](https://www.goal.com/mundial/)
 * [GOALSTUDIO](https://en.goalstudio.com/)
 
 FootballCo Group - Privacy Notice
