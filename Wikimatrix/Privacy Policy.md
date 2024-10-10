@@ -14,9 +14,7 @@ Compare Them All](https://www.wikimatrix.org/)
 * [Search](https://www.wikimatrix.org/search)
 * [About](https://www.wikimatrix.org/static/about)
 
-[![](/display/8/468_60/901ba2a41233fb2dfe616b8d55375fb2)](https://www.ickewiki.de/?utm_source=wikimatrix&utm_medium=banner&utm_content=468&utm_campaign=ickewiki)
-
-[![](/display/8/250_250/b2f2b10d81ac53806347bdf07c2c7eb3)](https://www.ickewiki.de/?utm_source=wikimatrix&utm_medium=banner&utm_content=250&utm_campaign=ickewiki)
+[![](/display/7/468_60/81d040177962b6c2a588c1d2cbbb42f8)](https://drupal-wiki.com/de/?wikimatrix=wm2k)
 
 Privacy Policy
 ==============
