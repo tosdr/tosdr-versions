@@ -1,4 +1,6 @@
-[![wyng logo](https://www.wyng.com/wp-content/uploads/2021/02/wyng-logo.svg)](https://www.wyng.com/)
+[![wyng logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20148%2040'%3E%3C/svg%3E)
+
+![wyng logo](https://www.wyng.com/wp-content/uploads/2021/02/wyng-logo.svg)](https://www.wyng.com/)
 
 * Platform
     * * * Platform
@@ -42,7 +44,9 @@
 * [Free Trial](https://www.wyng.com/trial/)
 * [Contact Sales](https://www.wyng.com/how-to-buy/)
 
-[![wyng logo](https://www.wyng.com/wp-content/uploads/2021/02/wyng-logo.svg)](https://www.wyng.com/)
+[![wyng logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20148%2040'%3E%3C/svg%3E)
+
+![wyng logo](https://www.wyng.com/wp-content/uploads/2021/02/wyng-logo.svg)](https://www.wyng.com/)
 
 * Platform
     * Platform
@@ -133,10 +137,10 @@ Menu
 Terms of Service
 ================
 
-This agreement was last updated on November 14, 2023
-----------------------------------------------------
+This agreement was last updated on October 10, 2024
+---------------------------------------------------
 
-These Terms of Service (the “Agreement”) are by and between Wyng, Inc., with offices at 17 West 20th St., 4th Floor, New York, NY 10011 (“Wyng”) and the Campaign Operator (the “Campaign Operator”) referenced below.
+These Terms of Service (the “Agreement”) are by and between Wyng, Inc., with offices at 169 Madison Ave STE 11680, New York, NY 10016 (“Wyng”) and the Campaign Operator (the “Campaign Operator”) referenced below.
 
 By clicking a box indicating acceptance or by executing an Order that references this Agreement, Campaign Operator agrees to be bound by all the terms and conditions in this Agreement.
 
