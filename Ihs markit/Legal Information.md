@@ -377,7 +377,7 @@ Who We Are
     
     * * *
     
-* [Indices](https://www.spglobal.com/spdji)
+* [Indices](https://www.spglobal.com/spdji/)
     
     * * *
     
@@ -447,11 +447,11 @@ Who We Are
 * [Sustainable1](https://www.spglobal.com/esg/)
 
 * Featured Products
-* [Data & Analytics](https://ihsmarkit.com/en/products/data-analytics.html)
-* [Research & Insights](https://ihsmarkit.com/en/products/research-insights.html)
+* [Data & Analytics](https://ihsmarkit.com/en/products/data-analytics)
+* [Research & Insights](https://ihsmarkit.com/en/products/research-insights)
 * Ratings & Benchmarks
-* [Indices](https://www.spglobal.com/spdji.html)
-* [Technology Solutions](https://ihsmarkit.com/en/products/technology-solutions.html)
+* [Indices](https://www.spglobal.com/spdji/)
+* [Technology Solutions](https://ihsmarkit.com/en/products/technology-solutions)
 * By Topic
 * [See all S&P Global Products & Solutions](https://www.marketplace.spglobal.com/)
 
@@ -553,10 +553,10 @@ By Topic
 * [Sustainable1](https://www.spglobal.com/esg/)
 
 * Market Insights
-* [Special Reports](https://ihsmarkit.com/en/research-insights/special-reports.html)
+* [Special Reports](https://ihsmarkit.com/en/research-insights/special-reports)
 * Events
-* [Experts](https://ihsmarkit.com/en/research-insights/experts.html)
-* [Podcasts](https://ihsmarkit.com/en/research-insights/podcasts.html)
+* [Experts](https://ihsmarkit.com/en/research-insights/experts)
+* [Podcasts](https://ihsmarkit.com/en/research-insights/podcasts)
 
 Market Insights
 
@@ -724,7 +724,7 @@ Back S&P Global
     
     * * *
     
-* [Indices](https://www.spglobal.com/spdji)
+* [Indices](https://www.spglobal.com/spdji/)
     
     * * *
     
@@ -794,11 +794,11 @@ Back S&P Global
 * [Sustainable1](https://www.spglobal.com/esg/)
 
 * Featured Products
-* [Data & Analytics](https://ihsmarkit.com/en/products/data-analytics.html)
-* [Research & Insights](https://ihsmarkit.com/en/products/research-insights.html)
+* [Data & Analytics](https://ihsmarkit.com/en/products/data-analytics)
+* [Research & Insights](https://ihsmarkit.com/en/products/research-insights)
 * Ratings & Benchmarks
-* [Indices](https://www.spglobal.com/spdji.html)
-* [Technology Solutions](https://ihsmarkit.com/en/products/technology-solutions.html)
+* [Indices](https://www.spglobal.com/spdji/)
+* [Technology Solutions](https://ihsmarkit.com/en/products/technology-solutions)
 * By Topic
 * [See all S&P Global Products & Solutions](https://www.marketplace.spglobal.com/)
 
@@ -900,10 +900,10 @@ By Topic
 * [Sustainable1](https://www.spglobal.com/esg/)
 
 * Market Insights
-* [Special Reports](https://ihsmarkit.com/en/research-insights/special-reports.html)
+* [Special Reports](https://ihsmarkit.com/en/research-insights/special-reports)
 * Events
-* [Experts](https://ihsmarkit.com/en/research-insights/experts.html)
-* [Podcasts](https://ihsmarkit.com/en/research-insights/podcasts.html)
+* [Experts](https://ihsmarkit.com/en/research-insights/experts)
+* [Podcasts](https://ihsmarkit.com/en/research-insights/podcasts)
 
 Market Insights
 
