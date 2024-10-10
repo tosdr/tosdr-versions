@@ -366,6 +366,7 @@ Kuwait Finance House (KFH) is considered a pioneer in the banking phenomenon kno
 * [IBAN number & Swift code](https://www.kfh.com/en/home/Personal/Tools-services/IBAN-Number---Swift-Code.html)
 * [FAQs](https://www.kfh.com/en/home/Personal/faq.html)
 * [Q&A on Tawarruq](https://www.kfh.com/en/home/Personal/Financing/Tawarouq-Q-A.html)
+* [Real Estate Evaluation](https://www.kfh.com/en/home/Personal/Real-Estate-Evaluation-.html)
 
 COPYRIGHT © 2024 KUWAIT FINANCE HOUSE. ALL RIGHTS RESERVED | [Terms & Conditions](https://www.kfh.com/dam/jcr:a4891669-5c20-4b6e-9195-5f86ba27db9a/Prvate%20Policy%20English.pdf) | [Cookies](https://www.kfh.com/en/home/Personal/Cookies-and-Data-Privacy-Notice.html) | [Privacy Notice](https://www.kfh.com/en/home/Personal/aboutus/Privacy-Notice.html) |
 
