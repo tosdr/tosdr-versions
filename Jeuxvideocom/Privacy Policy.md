@@ -9,7 +9,6 @@ CONNEXION
     * Les + populaires
     * Les + attendus
     * Tous les Jeux
-* Amazon Prime Day
 * RetourActu
     * Culture Geek
     * Astuces
