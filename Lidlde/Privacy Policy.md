@@ -1,4 +1,4 @@
-   
+    
 
 [Schnell zugreifen: Reduzierte Oktober-Angebote! Jetzt entdecken](https://www.lidl.de/c/shop-highlights/a10053491)
 
