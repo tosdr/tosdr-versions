@@ -1,6 +1,8 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-October Daily Deals Ending Soon! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/october-daily-deals-9/)
+**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
+
+**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
  
 
@@ -84,7 +86,9 @@ My store
 
 [](#)
 
-October Daily Deals Ending Soon! [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/october-daily-deals-9/)
+**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
+
+**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
