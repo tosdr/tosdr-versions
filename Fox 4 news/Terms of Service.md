@@ -393,13 +393,13 @@ Nothing contained in this Agreement limits Fox’s right to comply with governme
 
 Please contact the Site Administrator with any questions regarding this Agreement by sending an email to: [**Terms-KDFW@fox.com**](mailto:Terms-KDFW@fox.com)
 
-[![Hurricane Milton update: Category 3 storm makes landfall in Florida with powerful winds, severe storm surge](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/foxwx5pmradar.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+[![Hurricane Milton update: Storm weakens to Category 2, flash flood emergency issued for Tampa Bay](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/foxwx5pmradar.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
 WATCH LIVE COVERAGE
 
-[Hurricane Milton makes landfall in Florda as a Cat. 3 storm](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+[Hurricane Milton updates: 'Multiple fatalities' reported at retirement community](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
-[Hurricane Milton made landfall Wednesday along Florida’s Gulf Coast as a powerful Category 3 storm, unleashing strong winds, a deadly storm surge, and widespread flooding.](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+[About 90 minutes after making landfall Wednesday night, Hurricane Milton weakened to a Category 2 storm, with winds reaching 110 mph.](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
 [![Videos show tornadoes blasting Florida ahead of Hurricane Milton landfall](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/digital_radar-milton2.gif?ve=1&tl=1)](https://www.fox4news.com/weather/florida-tornado-warnings-hurricane-milton)
 
