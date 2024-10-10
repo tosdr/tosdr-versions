@@ -1,6 +1,6 @@
-Unser Community Discord ist aktiv. Schau gerne mal vorbei.
+Wir schenken dir 35 % auf jede Aufladung bis zum 13.10.2024!
 
-[Zu Discord](https://discord.com/invite/gSSUc8R)
+[Anmelden](#)
 
 [](#)
 
@@ -14,28 +14,28 @@ Produkte
 
 [Gameserver](https://mc-host24.de/gameserver)
 
-Wähle aus einer Vielzahl von Spielen und erstelle deinen eigenen Gameserver.
+Dein eigener Server für grenzenlosen Spielspaß.
 
 * — [Minecraft Server](https://mc-host24.de/minecraft-server-mieten)
 * — [Gameserver Cloud](https://mc-host24.de/gameserver/list)
 
 [Rootserver](https://mc-host24.de/rootserver)
 
-Optimierte Rootserver für alle Anwendungsfälle.
+Leistungsstarke Rootserver für alle Anwendungsfälle.
 
-* — [Epyc Rootserver](https://mc-host24.de/epyc-rootserver-mieten)
+* — [Linux Rootserver](https://mc-host24.de/epyc-rootserver-mieten)
 * — [Windows Rootserver](https://mc-host24.de/windows-rootserver-mieten)
 
 Web & Domains
 
-Flexibles Hosting für Webprojekte und maßgeschneiderte Domainlösungen.
+Alles, was du für deine eigene Website brauchst.
 
 * — [Webspace](https://mc-host24.de/webspace-mieten)
 * — [Domains](https://mc-host24.de/domain-mieten)
 
 [Teamspeak](https://mc-host24.de/teamspeak-server-mieten)
 
-Miete deinen eigenen TeamSpeak 3-Server für zuverlässige Sprachkommunikation in Spielen oder bei Online-Meetings.
+Deine eigene Voice-Server-Lösung für klare Kommunikation.
 
 Support
 
@@ -61,7 +61,7 @@ Menü schließen
 * [Produkte](#)
     * [Minecraft Server](https://mc-host24.de/minecraft-server-mieten)
     * [Gameserver Cloud](https://mc-host24.de/gameserver/list)
-    * [Epyc Rootserver](https://mc-host24.de/epyc-rootserver-mieten)
+    * [Linux Rootserver](https://mc-host24.de/epyc-rootserver-mieten)
     * [Windows Rootserver](https://mc-host24.de/windows-rootserver-mieten)
     * [Webspace](https://mc-host24.de/webspace-mieten)
     * [Domains](https://mc-host24.de/domain-mieten)
