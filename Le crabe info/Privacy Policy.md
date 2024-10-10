@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 824 utilisateurs actifs
+##### 797 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Win 11 FiX KiT : créer un ISO de Windows 11 24H2 pour les PC non compatibles](https://lecrabeinfo.net/win-11-fix-kit-creer-un-iso-de-windows-11-24h2-pour-les-pc-non-compatibles.html)
 * [Bug mondial de Microsoft Windows : la Commission européenne vraiment fautive ?](https://lecrabeinfo.net/bug-mondial-de-microsoft-windows-la-commission-europeenne-vraiment-fautive.html)
 * [Firefox 129 est disponible ! Quoi de neuf ?](https://lecrabeinfo.net/firefox-129-est-disponible-quoi-de-neuf.html) 
-* [Comment prendre le contrôle d'un PC à distance ? Le guide ultime](https://lecrabeinfo.net/comment-prendre-le-controle-dun-pc-a-distance-le-guide-ultime.html)
 
 ### Tendance
 
@@ -152,8 +152,8 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 720 membres
-* 916 articles
+* 67 722 membres
+* 917 articles
 * 26 676 commentaires
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
