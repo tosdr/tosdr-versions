@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Extraordinary People: The Million Dollar Mind Reader](/wp-content/thumbnails/3319-100x70.jpg?x53432)
+* [![Natascha: The Girl In The Cellar](/wp-content/thumbnails/3113-100x70.jpg?x53432)
     
-    Extraordinary People: The Million Dollar Mind Reader
+    Natascha: The Girl In The Cellar
     
-    Derek Ogilvie says he can read the minds of infants who are too young to communicate verbally.Now he agrees to undergo a series of controlled experiments to test the limits of his alleged abili](https://documentaryheaven.com/extraordinary-people-the-million-dollar-mind-reader/ "Extraordinary People: The Million Dollar Mind Reader")
-* [![The Man Who Knew Too Much](/wp-content/thumbnails/16626-100x70.jpg?x53432)
+    This extraordinary interview reveals the ordeal of Nat­­ascha Kampusch, imprisoned in a cellar for eight years by Wolfgang Priklopil.Although her story has since been pushed slightly down the leag](https://documentaryheaven.com/natascha-the-girl-in-the-cellar/ "Natascha: The Girl In The Cellar")
+* [![DEFCON: The Documentary](/wp-content/thumbnails/11572-100x70.jpg?x53432)
     
-    The Man Who Knew Too Much
+    DEFCON: The Documentary
     
-    In 1969 violence erupted in Northern Ireland between Protestants loyal to the British Crown and Catholics. As such an information warfare department is established inside the British Army's Northern](https://documentaryheaven.com/man-who-knew-too-much/ "The Man Who Knew Too Much")
-* [![On The Streets](/wp-content/thumbnails/6078-100x70.jpg?x53432)
+    The first DEFCON took place in June 1993 and since then it has been well established as one of the world's largest annual hacker conventions. It takes place annually in Las Vegas, Nevada, seeing many](https://documentaryheaven.com/defcon/ "DEFCON: The Documentary")
+* [![Fusioneer](/wp-content/thumbnails/6122-100x70.jpg?x53432)
     
-    On The Streets
+    Fusioneer
     
-    Filmmaker Penny Woolcock spent eight months in a parallel world, the world of the homeless, befriending people and finding out where they eat, sleep and socialise. While making her film, Woolcock rea](https://documentaryheaven.com/on-the-streets/ "On The Streets")
-* [![Garavito: The World’s Worst Serial Killer](/wp-content/thumbnails/8437-100x70.jpg?x53432)
+    For three years Dr Jonathan Howard has dedicated himself to finding a solution to our energy crisis. In the spare room of his South London flat he's constructed a fusion reactor from bits of recycled](https://documentaryheaven.com/fusioneer/ "Fusioneer")
+* [![In Memoriam Alexander Litvinenko](/wp-content/thumbnails/2292-100x70.jpg?x53432)
     
-    Garavito: The World’s Worst Serial Killer
+    In Memoriam Alexander Litvinenko
     
-    20th centuries most prolific serial killer is largely unknown throughout the world, though he brutally murdered at least 140 children, posing as a priest or teacher he lured poor young boys away from](https://documentaryheaven.com/garavito-worlds-worst-serial-killer/ "Garavito: The World’s Worst Serial Killer")
-* [![The Vice Guide to Travel: North Korea](/wp-content/thumbnails/5626-100x70.jpg?x53432)
+    It started as a possible case of food poisoning but within weeks turned into a grim spectacle of enormous political proportions: Aleksander Litvinenko, former member of the Russian secret service, die](https://documentaryheaven.com/in-memoriam-alexander-litvinenko/ "In Memoriam Alexander Litvinenko")
+* [![Do You Know What Time It Is?](/wp-content/thumbnails/295-100x70.png?x53432)
     
-    The Vice Guide to Travel: North Korea
+    Do You Know What Time It Is?
     
-    Getting into North Korea was one of the hardest and weirdest processes VBS has ever dealt with."After we went back and forth with their representatives for months, they finally said they were goin](https://documentaryheaven.com/the-vice-guide-to-travel-north-korea/ "The Vice Guide to Travel: North Korea")
+    Particle physicist Professor Brian Cox asks, 'What time is it?' It's a simple question and it sounds like it has a simple answer. But do we really know what it is that we're asking?Brian visits th](https://documentaryheaven.com/do-you-know-what-time-it-is/ "Do You Know What Time It Is?")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
