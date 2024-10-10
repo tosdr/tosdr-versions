@@ -230,13 +230,11 @@ It's Not News, It's Fark
 
 [![Fark25 Party](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-If you like these links, you'll love
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Total access  
-Total knowledge  
-Total Fark
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -336,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [If Democrats really controlled the weather, do you think they would allow Anderson Cooper to be hit with flying debris while live on air?](https://www.fark.com/goto/13422924) ( [newsweek.com](https://www.fark.com/goto/13422924) ) » [(14 comments)](https://www.fark.com/comments/13422924/If-Democrats-really-controlled-weather-do-you-think-they-would-allow-Anderson-Cooper-to-be-hit-with-flying-debris-while-live-on-air) |
-| [Discussion](https://www.fark.com/discussion/) | ["I found out my husband's sick and twisted secrets and I no longer want to be around him. Can I get over it?" (possible nsfw content on page)](https://www.fark.com/goto/13422932) ( [thesun.co.uk](https://www.fark.com/goto/13422932) ) » [(5 comments)](https://www.fark.com/comments/13422932/I-found-out-my-husbands-sick-twisted-secrets-I-no-longer-want-to-be-around-him-Can-I-get-over-it-possible-nsfw-content-on-page) |
-| [Sports](https://www.fark.com/sports/) | [Last team to make the post-season becomes the first team to make the final four. OMG](https://www.fark.com/goto/13422832) ( [nypost.com](https://www.fark.com/goto/13422832) ) » [(8 comments)](https://www.fark.com/comments/13422832/Last-team-to-make-post-season-becomes-first-team-to-make-final-four-OMG) |
-| [Business](https://www.fark.com/business/) | [It's just so adorable when someone in 2024 just notices for the first time that Santa isn't real. Did I say "Santa isn't real"? Sorry, I meant to say "privacy is dead"](https://www.fark.com/goto/13422784) ( [theregister.com](https://www.fark.com/goto/13422784) ) » [(2 comments)](https://www.fark.com/comments/13422784/Its-just-so-adorable-when-someone-in-2024-just-notices-for-first-time-that-Santa-isnt-real-Did-I-say-Santa-isnt-real-Sorry-I-meant-to-say-privacy-is-dead) |
-| [STEM](https://www.fark.com/stem/) | [Indiana Jones today would use not shovels, brushes, or magnifying glasses but DNA sequencing, satellite imagery, LiDAR, drones, and robots. And he'd still have no effect on the plot](https://www.fark.com/goto/13422726) ( [msn.com](https://www.fark.com/goto/13422726) ) » [(4 comments)](https://www.fark.com/comments/13422726/Indiana-Jones-today-would-use-not-shovels-brushes-magnifying-glasses-but-DNA-sequencing-satellite-imagery-LiDAR-drones-robots-And-hed-still-have-no-effect-on-plot) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Bianca Censori's parents say they were 'tricked' by Kanye split-just like everyone else who's ever worked with the guy](https://www.fark.com/goto/13422828) ( [metro.co.uk](https://www.fark.com/goto/13422828) ) » [(10 comments)](https://www.fark.com/comments/13422828/Bianca-Censoris-parents-say-they-were-tricked-by-Kanye-split-just-like-everyone-else-whos-ever-worked-with-guy) |
-| [Fandom](https://www.fark.com/fandom/) | [Tom Baker is going to reunite with the best companion from the Fourth Doctor's era](https://www.fark.com/goto/13422716) ( [radiotimes.com](https://www.fark.com/goto/13422716) ) » [(19 comments)](https://www.fark.com/comments/13422716/Tom-Baker-is-going-to-reunite-with-best-companion-from-Fourth-Doctors-era) |
-| [D'awww](https://www.fark.com/dawww/) | [Look at this cute sphinx cat doing.... I don't actually know what's going in here, but it's adorable](https://www.fark.com/goto/13422612) ( [youtube.com](https://www.fark.com/goto/13422612) ) » [(7 comments)](https://www.fark.com/comments/13422612/Look-at-this-cute-sphinx-cat-doing-I-dont-actually-know-whats-going-in-here-but-its-adorable) |
-| [Food](https://www.fark.com/food/) | [Look. All I'm saying is that if, for you, the taste of a Big Mac represents the "taste of home," you have an extremely shiatty home life and should probably try to work on that](https://www.fark.com/goto/13422852) ( [cnn.com](https://www.fark.com/goto/13422852) ) » [(6 comments)](https://www.fark.com/comments/13422852/Look-All-Im-saying-is-that-if-for-you-taste-of-a-Big-Mac-represents-taste-of-home-you-have-an-extremely-shiatty-home-life-should-probably-try-to-work-on-that) |
-| [Politics](https://www.fark.com/politics/) | [Bill O'Reilly admits the truth doesn't matter to Republicans](https://www.fark.com/goto/13422840) ( [mediaite.com](https://www.fark.com/goto/13422840) ) » [(30 comments)](https://www.fark.com/comments/13422840/Bill-OReilly-admits-truth-doesnt-matter-to-Republicans) |
+| [Main](https://www.fark.com/) | ["Area Man Passionate Defender of What He Imagines the Indian Constitution To Be"](https://www.fark.com/goto/13423152) ( [aljazeera.com](https://www.fark.com/goto/13423152) ) » [(2 comments)](https://www.fark.com/comments/13423152/Area-Man-Passionate-Defender-of-What-He-Imagines-Indian-Constitution-To-Be) |
+| [Discussion](https://www.fark.com/discussion/) | [Awesome Terrible Movie: The Fred Savage classic - Little Monsters](https://www.fark.com/goto/13423342) ( [awesometerriblemovie.com](https://www.fark.com/goto/13423342) ) » [(0 comments)](https://www.fark.com/comments/13423342/Awesome-Terrible-Movie-The-Fred-Savage-classic-Little-Monsters) |
+| [Sports](https://www.fark.com/sports/) | [Terrell Davis runs right through defenses, but apparently financial advisors were a blind spot](https://www.fark.com/goto/13422982) ( [finurah.com](https://www.fark.com/goto/13422982) ) » [(1 comment)](https://www.fark.com/comments/13422982/Terrell-Davis-runs-right-through-defenses-but-apparently-financial-advisors-were-a-blind-spot) |
+| [Business](https://www.fark.com/business/) | [Tesla to reveal the Robotaxi at 10pm ET on a Thursday night. A rational person might think that Elmo is trying to avoid news coverage of his next smash hit](https://www.fark.com/goto/13423184) ( [theverge.com](https://www.fark.com/goto/13423184) ) » [(4 comments)](https://www.fark.com/comments/13423184/Tesla-to-reveal-Robotaxi-at-10pm-ET-on-a-Thursday-night-A-rational-person-might-think-that-Elmo-is-trying-to-avoid-news-coverage-of-his-next-smash-hit) |
+| [STEM](https://www.fark.com/stem/) | [Stop it. This is a serious discussion about the potential benefits of breast milk consumption by adults. Fark is not your personal erotica site. Well, maybe not](https://www.fark.com/goto/13423408) ( [theguardian.com](https://www.fark.com/goto/13423408) ) » [(0 comments)](https://www.fark.com/comments/13423408/Stop-it-This-is-a-serious-discussion-about-potential-benefits-of-breast-milk-consumption-by-adults-Fark-is-not-your-personal-erotica-site-Well-maybe-not) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Apparently, somebody wants this](https://www.fark.com/goto/13423478) ( [thewrap.com](https://www.fark.com/goto/13423478) ) » [(0 comments)](https://www.fark.com/comments/13423478/Apparently-somebody-wants-this) |
+| [Fandom](https://www.fark.com/fandom/) | [More of this, please](https://www.fark.com/goto/13423280) ( [threads.net](https://www.fark.com/goto/13423280) ) » [(2 comments)](https://www.fark.com/comments/13423280/More-of-this-please) |
+| [D'awww](https://www.fark.com/dawww/) | [Calvin and Hobbes always has the best answers](https://www.fark.com/goto/13423430) ( [gocomics.com](https://www.fark.com/goto/13423430) ) » [(2 comments)](https://www.fark.com/comments/13423430/Calvin-Hobbes-always-has-best-answers) |
+| [Food](https://www.fark.com/food/) | [They love our cheap sake, so let's make it into ice cream so you can eat it as well](https://www.fark.com/goto/13423412) ( [japantoday.com](https://www.fark.com/goto/13423412) ) » [(0 comments)](https://www.fark.com/comments/13423412/They-love-our-cheap-sake-so-lets-make-it-into-ice-cream-so-you-can-eat-it-as-well) |
+| [Politics](https://www.fark.com/politics/) | [As far as data breaches go, it doesn't get much worse than this](https://www.fark.com/goto/13423180) ( [newschannel5.com](https://www.fark.com/goto/13423180) ) » [(28 comments)](https://www.fark.com/comments/13423180/As-far-as-data-breaches-go-it-doesnt-get-much-worse-than-this) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -355,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 10 2024 09:42:23  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 10 2024 15:42:37  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
