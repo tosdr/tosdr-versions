@@ -1,5 +1,3 @@
-<img alt="" src="https://www.innovative-astute.com/798073.png" style="display:none;">    
-
 ![Close](https://www.crayon.co/hubfs/Header%20Images/close-ic.svg)
 
 **Ignite your Competitive Enablement Program with Sparks, Crayon's New AI-Research Tool [Register for the webinar!](https://www.crayon.co/sparks/ignite-competitive-enablement)**
