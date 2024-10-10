@@ -43,7 +43,7 @@ We only replace items if they are defective or damaged upon arrival. 
 
 We can accommodate garment size change requests, but please note that the shipping cost of the item return is the responsibility of the customer. We will bear the shipping cost of the replacement.  
   
-If you wish to purchase an item of clothing, we highly recommend checking the item sizing guide first. We display both EU and US sizes, so please make sure you have the correct size garment in your basket before proceeding with your order. 
+If you wish to purchase an item of clothing, we highly recommend checking the item sizing guide first. Please make sure you have the correct size garment in your basket before proceeding with your order. 
 
 Depending on where you live, the time it may take for your exchanged product to reach you may vary. 
 
