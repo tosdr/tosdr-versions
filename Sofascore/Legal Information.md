@@ -53,7 +53,7 @@ If you have any questions about this privacy policy and want to more about how w
 
 Our Platforms may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our Platforms, we encourage you to read the privacy policy of every website you visit or third-party mobile application you may use.
 
-By interacting with embedded YouTube content in Sofascore, you agree to be bound by [YouTube's Terms of Service](https://www.youtube.com/t/terms) and [Google Privacy Policy](https://www.google.com/policies/privacy).
+The API client uses YouTube API services for embedding. By interacting with embedded YouTube content in Sofascore, you agree to be bound by [YouTube's Terms of Service](https://www.youtube.com/t/terms) and [Google Privacy Policy](https://www.google.com/policies/privacy).
 
 2\. INFORMATION WE COLLECT ABOUT YOU
 ------------------------------------
