@@ -99,11 +99,11 @@
 * [![Support Independent Tech Journalism, Become A Patron!](/content/images/patreon-btn.svg)](https://www.patreon.com/HotHardware?fan_landing=true)
 
 * TRENDING:
-* [Prime Day](https://hothardware.com/tags/prime-day)
+* [Arrow Lake Core Ultra 200S](https://hothardware.com/reviews/intel-arrow-lake-s-desktop-cpu-announcement)
+* [Prime Day Ryzen 9 9950X Build](https://hothardware.com/reviews/prime-day-ryzen-9-9950x-gaming-rig-build-with-amd-corsair-and-asrock)
+* [AMD EPYC Turin](https://hothardware.com/news/amd-epyc-5th-gen-launch)
 * [Core Ultra 200V](https://hothardware.com/news/lunar-lake-launch-ifa-berlin)
-* [PS5 Pro](https://hothardware.com/tags/ps5%20pro)
 * [AMD Ryzen AI 300](https://hothardware.com/reviews/asus-zenbook-s16-with-amd-ryzen-ai-review)
-* [Google Pixel 9](https://hothardware.com/news/google-unveils-pixel-9-pixel-watch-3-pixel-buds-2-pro)
 * [Ryzen 9000](https://hothardware.com/reviews/amd-ryzen-9-9950x-and-9900x-review)
 * [Lunar Lake](https://hothardware.com/reviews/intel-lunar-lake-deep-dive)
 
