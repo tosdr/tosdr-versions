@@ -1,10 +1,8 @@
-Prev 1/3 Next
+Prev 1/2 Next
 
 Oct 10, 2024 [The Crypto Price Tracker is Now Available for Android Devices with a 25% Discount on Exchange Fees!](https://paybis.com/news/crypto-price-tracker-for-android-devices/)
 
 Oct 3, 2024 [Introducing Paybis Swap: Swap 1,000+ Cryptocurrency Pairs On Paybis!](https://paybis.com/news/swap-1000-cryptocurrency-pairs-on-paybis/)
-
-Sep 26, 2024 [Paybis Launches a New Product for Business Payouts: Paybis Send](https://paybis.com/news/new-product-for-business-payouts-paybis-send/)
 
 [](https://paybis.com/ "Paybis - Digital and Crypto currency exchange!")
 
