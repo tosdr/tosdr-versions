@@ -483,6 +483,10 @@ Revised June 1, 2022
 
   [![People line up to buy wood to protect their assets before the hurricane Milton, in Orlando, Florida, on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426718.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "People line up to buy wood to protect their assets before the hurricane Milton, in Orlando, Florida, on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/09/world/flee-hurricane-milton-traffic-fuel/ "After Helene devastation, over 1 million people flee path of Hurricane Milton")
 
+[Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
+
+  [![Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426811.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ")](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
+
 [Japan pushes fossil fuel tech in Asia carbon neutrality initiative](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
 
   [![Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426839.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Coal-fired power plants in Bataan, the Philippines, in June 2023. A third of the 158 agreements signed under the Japan-led Asia Zero Emission Community are linked to fossil fuel technologies, a recent study by a climate research group has found.")](https://www.japantimes.co.jp/environment/2024/10/09/energy/azec-fossil-fuel-technology/ "Japan pushes fossil fuel tech in Asia carbon neutrality initiative")
@@ -518,9 +522,9 @@ By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ 
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -560,23 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Chinese nationals in Japan testify to harassment by Beijing, report says](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
+[Women at Japan's top university call out gender imbalance with posters](https://www.japantimes.co.jp/news/2024/10/10/japan/society/japan-university-gender-imbalance/ "Women at Japan's top university call out gender imbalance with posters")
 
-6 mins ago
+11 mins ago
 
-[Expert calls for new chip research institute near Tokyo](https://www.japantimes.co.jp/business/2024/10/09/tech/expert-chip-institute/ "Expert calls for new chip research institute near Tokyo")
+[Hikone Castle could merit world heritage listing, UNESCO panel says](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-hikone-castle-world-heritage/ "Hikone Castle could merit world heritage listing, UNESCO panel says")
 
-9 hours ago
+23 mins ago
 
-[Wang tells Iwaya he hopes for 'progress' in China-Japan ties](https://www.japantimes.co.jp/news/2024/10/09/japan/wang-iwaya-talks/ "Wang tells Iwaya he hopes for 'progress' in China-Japan ties")
+[Japan is aiming for a growth-oriented economy, new minister says](https://www.japantimes.co.jp/business/2024/10/10/economy/akazawa-growth-oriented-economy/ "Japan is aiming for a growth-oriented economy, new minister says")
 
-10 hours ago
+1 hours ago
 
-[Trio of scientists win chemistry Nobel for work on the structure of proteins](https://www.japantimes.co.jp/news/2024/10/09/world/science-health/nobel-prize-chemistry/ "Trio of scientists win chemistry Nobel for work on the structure of proteins")
+[NTT Docomo recalling almost a million defective SIM cards](https://www.japantimes.co.jp/business/2024/10/10/companies/ntt-sim-recall/ "NTT Docomo recalling almost a million defective SIM cards")
 
-11 hours ago
+1 hours ago
 
-[LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ldp-not-endorsing-12-politicians/ "LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election")
+[Indian business titan Ratan Tata dies at age 86](https://www.japantimes.co.jp/business/2024/10/10/ratan-tata-dies/ "Indian business titan Ratan Tata dies at age 86")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
