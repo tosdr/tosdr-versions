@@ -17,7 +17,7 @@ Account
 Open Main MenuMenu
 
 National Theatre Main Menu
-==========================
+--------------------------
 
 Account
 
