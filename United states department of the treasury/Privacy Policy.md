@@ -557,32 +557,32 @@ MENU MENU
     
     October 10, 2024
     
+    [U.S. Department of the Treasury Highlights $4.8 Million Award to Help Mississippi Small Businesses Grow and Hire](https://home.treasury.gov/news/press-releases/jy2641)
+    
+    October 10, 2024
+    
     [U.S. Department of the Treasury Releases Fact Sheet Detailing Investments in the Latino Community](https://home.treasury.gov/news/press-releases/jy2638)
     
     October 8, 2024
     
     [Treasury Sanctions Sudanese Rapid Support Forces Procurement Director](https://home.treasury.gov/news/press-releases/jy2635)
     
-    October 8, 2024
-    
-    [U.S. Department of the Treasury Announces Awardees Under Innovative $75 Million Small Business Grant Program](https://home.treasury.gov/news/press-releases/jy2636)
-    
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
+    October 10, 2024
+    
+    [Remarks by Deputy Secretary of the Treasury Wally Adeyemo at Press Conference at the Department of Justice](https://home.treasury.gov/news/press-releases/jy2640)
+    
+    October 10, 2024
+    
+    [Remarks by Under Secretary for Domestic Finance Nellie Liang at the Chicago Payments Symposium, hosted by the Federal Reserve Bank of Chicago](https://home.treasury.gov/news/press-releases/jy2639)
+    
     October 4, 2024
     
     [Remarks by Deputy Secretary of the Treasury Wally Adeyemo at the Wisconsin Building Trades Conference](https://home.treasury.gov/news/press-releases/jy2630)
-    
-    October 1, 2024
-    
-    [Remarks by Aviva Aron-Dine, Performing the Duties of Assistant Secretary for Tax Policy, on Phase Four of Implementation of the Inflation Reduction Act’s Clean Energy Provisions](https://home.treasury.gov/news/press-releases/jy2625)
-    
-    October 1, 2024
-    
-    [Remarks by Assistant Secretary for International Finance Brent Neiman on IMF Governance](https://home.treasury.gov/news/press-releases/jy2624)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
