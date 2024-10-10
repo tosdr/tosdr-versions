@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Keir Starmer](https://southwarknews.co.uk/wp-content/uploads/2020/01/Keir-Starmer-e1579701553700.jpg)](https://southwarknews.co.uk/area/south-london/labour-council-demands-urgent-help-from-starmer-over-34-million-overspend/)
+    
+    ### [Labour council demands ‘urgent’ help from Starmer over £34 million overspend](https://southwarknews.co.uk/area/south-london/labour-council-demands-urgent-help-from-starmer-over-34-million-overspend/)
+    
     [![An illustration of the development. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/gg-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
     
     ### [Seventeen-storey apartment block approved on Rotherhithe roundabout](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
@@ -51,10 +55,6 @@
     [![(credit: Theatre Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sickle-Cell_Supacell_Main-Clean_5x4_01-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
     
     ### [Netflix’s Supacell cast to take part in sickle cell awareness event in Peckham](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
-    
-    [![A CGI look inside the new LCC building (Get Living)](https://southwarknews.co.uk/wp-content/uploads/2024/10/CS_935_ElephantCastle_Challenge_NewLCC-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
-    
-    ### [New UAL building hits construction milestone in £4bn development of ‘The Elephant’](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +100,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Keir Starmer](https://southwarknews.co.uk/wp-content/uploads/2020/01/Keir-Starmer-e1579701553700.jpg)](https://southwarknews.co.uk/area/south-london/labour-council-demands-urgent-help-from-starmer-over-34-million-overspend/)
+    
+    ### [Labour council demands ‘urgent’ help from Starmer over £34 million overspend](https://southwarknews.co.uk/area/south-london/labour-council-demands-urgent-help-from-starmer-over-34-million-overspend/)
+    
     [![An illustration of the development. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/gg-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
     
     ### [Seventeen-storey apartment block approved on Rotherhithe roundabout](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
@@ -132,10 +136,6 @@ View All Result
     [![(credit: Theatre Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sickle-Cell_Supacell_Main-Clean_5x4_01-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
     
     ### [Netflix’s Supacell cast to take part in sickle cell awareness event in Peckham](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
-    
-    [![A CGI look inside the new LCC building (Get Living)](https://southwarknews.co.uk/wp-content/uploads/2024/10/CS_935_ElephantCastle_Challenge_NewLCC-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
-    
-    ### [New UAL building hits construction milestone in £4bn development of ‘The Elephant’](https://southwarknews.co.uk/area/elephant-and-castle/new-ual-building-hits-construction-milestone-in-4bn-development-of-the-elephant/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -203,6 +203,12 @@ Terms of Use
 
 [6th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
 
+[![Tanganga joined Millwall permanently in July. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-6272828-1-350x250-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
+
+### [‘It’s one of the most beautiful atmospheres in England’ – Millwall defender on why he joined the Lions](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
+
+[9th October 2024](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
+
 [![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
 
 ### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
@@ -214,12 +220,6 @@ Terms of Use
 ### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
 
 [8th October 2024](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
-
-[![Tanganga joined Millwall permanently in July. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-6272828-1-350x250-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
-
-### [‘It’s one of the most beautiful atmospheres in England’ – Millwall defender on why he joined the Lions](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
-
-[9th October 2024](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
 
 [![John Tullett said the planned controlled parking zone would put his garage on Rossendale Road, West Dulwich out of business on day one. 
 CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/garage-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
