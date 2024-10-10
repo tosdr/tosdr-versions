@@ -7,6 +7,7 @@
 * [Products](#)
 * [Security Plans](#)
 * [Accessories](https://www.arlo.com/en-us/accessories)
+* [Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html)
 * [Arlo Total Security NEW](https://www.arlo.com/en-us/arlototalsecurity)
 
 * [Support](https://www.arlo.com/en-us/support)
@@ -286,6 +287,8 @@ Security Plans
 
 [### Accessories](https://www.arlo.com/en-us/accessories "Arlo Smart")
 
+[### Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html "Arlo Smart")
+
 [### Arlo Total Security NEW](https://www.arlo.com/en-us/arlototalsecurity "Arlo Smart")
 
 * [### Products](https://www.arlo.com/en-us/products "Arlo Smart")
@@ -445,6 +448,7 @@ Security Plans
      [![personal safety icon](https://www.arlo.com/on/demandware.static/-/Sites-arlo-Library/default/dw848784b8/images/Security%20Plans/Arlo%20Safe.svg)For personal and family safety on the go – your direct connection to help anytime, anywhere. Learn More](https://www.arlo.com/en-us/arlosafe.html "Safe Plans")
     
 * [### Accessories](https://www.arlo.com/en-us/accessories "Arlo Smart")
+* [### Bundle & Save](https://www.arlo.com/en-us/build-your-bundle-main.html "Arlo Smart")
 * [### Arlo Total Security NEW](https://www.arlo.com/en-us/arlototalsecurity "Arlo Smart")
 
 * [Support](https://www.arlo.com/en-us/support "Support")
