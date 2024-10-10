@@ -16,9 +16,7 @@ The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/prod
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-Schedule call[(800) 854-2772](tel:8008542772)
-
-[](tel:8008542772 "Call us")
+[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -164,7 +162,7 @@ Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watc
     
     **Enhance Select 500**Our smallest, most advanced hearing aids. Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,795 - $1,995  
     or as low as $58/mo per pair\*](https://www.listenlively.com/product/enhanceselect500)
-* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle-test-variant.23ae3568.png)
+* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle.e9cd8a33.png)
     
     **Enhance Select 300**Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,495 - $1,695  
     or as low as $49/mo per pair\*](https://www.listenlively.com/product/enhanceselect300)
