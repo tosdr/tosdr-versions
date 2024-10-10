@@ -98,9 +98,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [George Strait Sings “Here For A...](https://classiccountrymusic.com/george-strait-sings-here-for-a-good-time-in-tribute-to-longtime-collaborator-dean-dillon/)
 * [Blackberry Smoke Enlists George Jones &...](https://classiccountrymusic.com/blackberry-smoke-enlists-george-jones-jamey-johnson-for-yesterdays-wine/)
 * [Lisa Marie Presley’s Daughter Would Find...](https://classiccountrymusic.com/lisa-marie-presleys-daughter-would-find-her-crying-on-the-floor-listening-to-elvis-music/)
-* [Blake Shelton Just Tied A Billboard...](https://classiccountrymusic.com/blake-shelton-just-tied-a-billboard-chart-record-held-by-tim-mcgraw/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
