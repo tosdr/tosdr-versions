@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Government Making Hurricanes Conspiracy Theory](https://knowyourmeme.com/memes/government-making-hurricanes-conspiracy-theory "Government Making Hurricanes Conspiracy Theory") [Elon Musk Kubrick Stare](https://knowyourmeme.com/memes/elon-musk-kubrick-stare "Elon Musk Kubrick Stare") [Elon Musk Jumping](https://knowyourmeme.com/memes/elon-musk-jumping "Elon Musk Jumping") [Uzumaki Episode 2 Controversy](https://knowyourmeme.com/memes/events/uzumaki-episode-two-animation-quality-controversy "Uzumaki Episode 2 Controversy") [Hurricane Milton](https://knowyourmeme.com/memes/events/hurricane-milton "Hurricane Milton") [Mojo Jojo Beat Up](https://knowyourmeme.com/memes/mojo-jojo-beat-up-mojo-jojo-jumped "Mojo Jojo Beat Up") [Brazil Twitter Ban Controversy](https://knowyourmeme.com/memes/events/brazil-x-twitter-ban-controversy "Brazil Twitter Ban Controversy") [SnoopyWeekly Twitter / X Drama](https://knowyourmeme.com/memes/events/snoopyweekly-twitter-x-drama "SnoopyWeekly Twitter / X Drama")
+[Government Making Hurricanes Conspiracy Theory](https://knowyourmeme.com/memes/government-making-hurricanes-conspiracy-theory "Government Making Hurricanes Conspiracy Theory") [SnoopyWeekly Twitter Drama](https://knowyourmeme.com/memes/events/snoopyweekly-twitter-x-drama "SnoopyWeekly Twitter Drama") [Discord Water](https://knowyourmeme.com/memes/subcultures/discord-water "Discord Water") [Thing, China](https://knowyourmeme.com/memes/thing-china "Thing, China") [Elon Musk Jumping](https://knowyourmeme.com/memes/elon-musk-jumping "Elon Musk Jumping")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hauu! You must login or signup first!
+### Word Up! You must login or signup first!
 
 |     |     |
 | --- | --- |
