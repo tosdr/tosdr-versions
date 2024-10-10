@@ -173,10 +173,11 @@ NatWest Group
             5. [Child Trust Fund](https://personal.natwest.com/investments/existing-customers/Child_Trust_Fund.html)
         * Financial wellbeing and confidence
             
-            1. [NatWest Thrive with Marcus Rashford](https://personal.natwest.com/learning/thrive.html)
-            2. [MoneySense](https://natwest.mymoneysense.com/home/)
-            3. [CareerSense](https://personal.natwest.com/learning/learning-for-kids-teens-students/careersense.html)
-            4. [Dream Bigger](https://personal.natwest.com/business/insights/business-management/business-strategy/dream-bigger-encouraging-the-next-generation-of-entrepreneurs.html)
+            1. [Children's guides](https://personal.natwest.com/kids-and-teens-banking/childrens-guides.html)
+            2. [NatWest Thrive with Marcus Rashford](https://personal.natwest.com/learning/thrive.html)
+            3. [MoneySense](https://natwest.mymoneysense.com/home/)
+            4. [CareerSense](https://personal.natwest.com/learning/learning-for-kids-teens-students/careersense.html)
+            5. [Dream Bigger](https://personal.natwest.com/business/insights/business-management/business-strategy/dream-bigger-encouraging-the-next-generation-of-entrepreneurs.html)
         
     * [Investments](https://personal.natwest.com/investments.html)
         
