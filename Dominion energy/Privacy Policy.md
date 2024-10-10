@@ -13,41 +13,41 @@ Are you sure you want to leave your current location ?
 
 [Cancel](#)
 
-[![logo](/Assets/Content/images/dom-white-logo.svg)](https://www.dominionenergy.com/)
+[![logo](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/dom-white-logo.svg)](https://www.dominionenergy.com/)
 
- [![close](/Assets/Content/images/close-icon.svg) Close](#)
+ [![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg) Close](#)
 
 ### Choose Your State of Service
 
 In order to serve you better, please select your Dominion Energy location services.
 
-[![Set location to Idaho](/-/media/feature/locations/id.svg?rev=6f88ccd43b354f66a1421af2799f14a2&la=en&hash=C649A7E612287AE2160BFE7459FCF597 "Idaho")
+[![Set location to Idaho](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/feature/locations/id.svg?rev=6f88ccd43b354f66a1421af2799f14a2&la=en&hash=C649A7E612287AE2160BFE7459FCF597 "Idaho")
 
-Idaho](#)[![Set location to North Carolina Gas](/-/media/feature/locations/nc-gas.svg?rev=ce39f3ea98534aecb97a6a7f77d27856&la=en&hash=3995B64FBD84C9F6879B58381CFEECFA "North Carolina")
+Idaho](#)[![Set location to North Carolina Gas](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/feature/locations/nc-gas.svg?rev=ce39f3ea98534aecb97a6a7f77d27856&la=en&hash=3995B64FBD84C9F6879B58381CFEECFA "North Carolina")
 
 Gas
 
-North Carolina](#)[![Set location to North Carolina Electric](/-/media/feature/locations/nc-elec.svg?rev=713aa3db1c8341969766d44b0042b589&la=en&hash=5EA6AB96FAFF673CCE0D1A3F462DACAC "North Carolina")
+North Carolina](#)[![Set location to North Carolina Electric](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/feature/locations/nc-elec.svg?rev=713aa3db1c8341969766d44b0042b589&la=en&hash=5EA6AB96FAFF673CCE0D1A3F462DACAC "North Carolina")
 
 Electric
 
-North Carolina](#)[![Set location to Ohio](/-/media/feature/locations/oh.svg?rev=73350738ec6e4525a35ea6fa81ac2b20&la=en&hash=ED7CE6BBDED560803EB71FCC858A33FB "Ohio")
+North Carolina](#)[![Set location to Ohio](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/feature/locations/oh.svg?rev=73350738ec6e4525a35ea6fa81ac2b20&la=en&hash=ED7CE6BBDED560803EB71FCC858A33FB "Ohio")
 
-Ohio](#)[![Set location to South Carolina](/-/media/feature/locations/sc.svg?rev=5458deee4b6043528ece931edee025a5&la=en&hash=DEEBEB20F60360D164966E19376FCF2D "South Carolina")
+Ohio](#)[![Set location to South Carolina](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/feature/locations/sc.svg?rev=5458deee4b6043528ece931edee025a5&la=en&hash=DEEBEB20F60360D164966E19376FCF2D "South Carolina")
 
-South Carolina](#)[![Set location to Utah](/-/media/feature/locations/ut.svg?rev=61955cd3fdd74ebc827ea994f97eb2d5&la=en&hash=24A6609AE070A1DB3FB5F3F9EC82D7A8 "Utah")
+South Carolina](#)[![Set location to Utah](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/feature/locations/ut.svg?rev=61955cd3fdd74ebc827ea994f97eb2d5&la=en&hash=24A6609AE070A1DB3FB5F3F9EC82D7A8 "Utah")
 
-Utah](#)[![Set location to Virginia](/-/media/feature/locations/va.svg?rev=1a15cac7ae6f46688ad29ec2f7f888f7&la=en&hash=97636A0804728FAF0A8E70E09678D8C9 "Virginia")
+Utah](#)[![Set location to Virginia](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/feature/locations/va.svg?rev=1a15cac7ae6f46688ad29ec2f7f888f7&la=en&hash=97636A0804728FAF0A8E70E09678D8C9 "Virginia")
 
-Virginia](#)[![Set location to Wyoming](/-/media/feature/locations/wy.svg?rev=ed060aee395341ec93fb9ce8c84973de&la=en&hash=FC8B12376647721A1CAB2531E3822A31 "Wyoming")
+Virginia](#)[![Set location to Wyoming](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/feature/locations/wy.svg?rev=ed060aee395341ec93fb9ce8c84973de&la=en&hash=FC8B12376647721A1CAB2531E3822A31 "Wyoming")
 
 Wyoming](#)
 
 By selecting to choose later, you are choosing not to view state specific content.
 
- ![close](/Assets/Content/images/close-icon.svg?v=20241008100438) Choose Later
+ ![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20241008100438) Choose Later
 
- [![close](/Assets/Content/images/close-icon.svg?v=20241008100438) Close](#)
+ [![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20241008100438) Close](#)
 
 Choose Your State of Service
 ----------------------------
@@ -60,13 +60,13 @@ Idaho North Carolina - Gas North Carolina - Electric Ohio South Carolina Utah Vi
 
 By selecting to choose later, you are choosing not to view state specific content.
 
- ![close](/Assets/Content/images/close-icon.svg?v=20241008100438) Choose Later
+ ![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20241008100438) Choose Later
 
-[![Dominion Energy Logo](/-/media/project/dom/identity/dom-white-logo.svg?iar=0&rev=73236dac9f0845e7a6ec95d83730f9a0&hash=42BB56FC44170C76C17DFC97673DFB00)](https://www.dominionenergy.com/)
+[![Dominion Energy Logo](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dom/identity/dom-white-logo.svg?iar=0&rev=73236dac9f0845e7a6ec95d83730f9a0&hash=42BB56FC44170C76C17DFC97673DFB00)](https://www.dominionenergy.com/)
 
 [Close](#)
 
-[![close](/Assets/Content/images/close-icon.svg?v=20241008100438)Close](#)
+[![close](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/close-icon.svg?v=20241008100438)Close](#)
 
 Menu
 
@@ -92,7 +92,7 @@ Alerts
 * [Contact Us](javascript:desktopLocation.locationSelector('{86AFB4AD-0C8A-45B7-9116-921269FCB090}'))
 * [Sign In/Register](javascript:desktopLocation.locationSelector('{27C01A91-253A-404C-87C9-D6565BEDE531}'))
 
-[![Dominion Energy Logo](/-/media/project/dom/identity/dom-white-logo.svg?rev=73236dac9f0845e7a6ec95d83730f9a0)](https://www.dominionenergy.com/)
+[![Dominion Energy Logo](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dom/identity/dom-white-logo.svg?rev=73236dac9f0845e7a6ec95d83730f9a0)](https://www.dominionenergy.com/)
 
 * [Home](javascript:desktopLocation.locationSelector('{85D59560-FC0E-44D7-81F7-FAC64AFEDB5D}'))
 * [Billing](javascript:desktopLocation.locationSelector('{9F623C2A-C87B-4EE7-86D6-8CE873F27FA8}'))
@@ -391,17 +391,17 @@ More Links
 
 [](https://www.facebook.com/dominionenergy/)[](https://www.instagram.com/dominionenergy/)[](https://www.linkedin.com/company/dominionenergy/)[](https://twitter.com/dominionenergy)[](https://www.youtube.com/user/DomCorpComm)
 
-![Dominion Energy Logo](/-/media/project/dom/identity/dom-white-logo.svg?iar=0&rev=73236dac9f0845e7a6ec95d83730f9a0&hash=42BB56FC44170C76C17DFC97673DFB00)
+![Dominion Energy Logo](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dom/identity/dom-white-logo.svg?iar=0&rev=73236dac9f0845e7a6ec95d83730f9a0&hash=42BB56FC44170C76C17DFC97673DFB00)
 
-![caret](/assets/content/images/up.svg?v=20241008100438)
+![caret](https://CDN-Dominionenergy-PRD-001.azureedge.net/assets/content/images/up.svg?v=20241008100438)
 
 Copyright © 2024 Dominion Energy
 
-![caret](/Assets/Content/images/up.svg?v=20241008100438)
+![caret](https://CDN-Dominionenergy-PRD-001.azureedge.net/Assets/Content/images/up.svg?v=20241008100438)
 
 More Links
 
-[![Dominion Energy Logo](/-/media/project/dom/identity/dom-white-logo.svg?iar=0&rev=73236dac9f0845e7a6ec95d83730f9a0&hash=42BB56FC44170C76C17DFC97673DFB00)](https://www.dominionenergy.com/)
+[![Dominion Energy Logo](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dom/identity/dom-white-logo.svg?iar=0&rev=73236dac9f0845e7a6ec95d83730f9a0&hash=42BB56FC44170C76C17DFC97673DFB00)](https://www.dominionenergy.com/)
 
 [](https://www.facebook.com/dominionenergy/)[](https://www.instagram.com/dominionenergy/)[](https://www.linkedin.com/company/dominionenergy/)[](https://twitter.com/dominionenergy)[](https://www.youtube.com/user/DomCorpComm)
 
