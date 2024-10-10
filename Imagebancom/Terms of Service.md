@@ -4,6 +4,7 @@
 * [Video Upload](https://sendvid.com/?src=ib_nav)
 * [Log in](https://www.imagebam.com/auth/login)
 * [Sign up](https://www.imagebam.com/auth/register)
+* Theme  ![](https://www.imagevenue.com/icons/moon.svg) ![](https://www.imagevenue.com/icons/sun.svg)   
 
   ![](https://www.imagevenue.com/icons/moon.svg) ![](https://www.imagevenue.com/icons/sun.svg)
 
