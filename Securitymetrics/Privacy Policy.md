@@ -178,8 +178,8 @@
     
     * [Free Security Courses](https://academy.securitymetrics.com/ "Free Security Courses")
         * [Our Academy can help SMBs address specific cybersecurity risks businesses may face.](https://academy.securitymetrics.com/ "Our Academy can help SMBs address specific cybersecurity risks businesses may face.")
-    * [Summit](https://www.securitymetrics.com/summit "Summit")
-        * [Watch SecurityMetrics Summit and learn how to improve your data security and compliance.](https://www.securitymetrics.com/summit "Watch SecurityMetrics Summit and learn how to improve your data security and compliance.")
+    * [Webinars](https://www.securitymetrics.com/learn/webinar "Webinars")
+        * [Watch SecurityMetrics webinars and learn how to improve your data security and compliance.](https://www.securitymetrics.com/learn/webinar "Watch SecurityMetrics webinars and learn how to improve your data security and compliance.")
     * [Events](https://www.securitymetrics.com/events "Events")
         * [Want to connect in person? Find out where SecurityMetrics will be next.](https://www.securitymetrics.com/events "Want to connect in person? Find out where SecurityMetrics will be next.")
     
