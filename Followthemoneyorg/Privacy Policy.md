@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Names in the News: Alpha Natural Resources](/assets/Images/teasers/full/ANR-Coal-by-Party.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-alpha-natural-resources/)
+[![Corrections Officers Benevolent Association](/assets/Images/teasers/small/COBAbyPartybyOffice.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-police-officers-benevolent-association/)
+
+Corrections Officers' Benevolent Association giving, by party.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
