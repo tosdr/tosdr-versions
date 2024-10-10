@@ -10,7 +10,7 @@ Trigger navigation
         
     * ![Clean your email lists.](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=36,metadata=none/static/validation-icon.webp)[Email Validation](https://www.zerobounce.net/services/email-validation "Clean your email lists.")Clean your email list. Reach your customers
     * ![Find and target your active email subscribers.](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/data-icon.webp)[Email Activity Data](https://www.zerobounce.net/services/activity-data "Find and target your active email subscribers.")Discover your most active subscribers
-    * ![Email scoring validates catch-all emails.](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/email-score-icon.webp)[Email Score](https://www.zerobounce.net/services/zerobounce-ai "Email scoring validates catch-all emails.")AI email list analysis for in-depth insight
+    * ![Email scoring validates catch-all emails.](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/email-score-icon.webp)[Email Score](https://www.zerobounce.net/services/email-scoring "Email scoring validates catch-all emails.")AI email list analysis for in-depth insight
     * ![Email Finder](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=39,metadata=none/static/email-finder-icon.webp)[Email Finder](https://www.zerobounce.net/services/email-finder "Email Finder")Find new valid email addresses
     
     * Email Deliverability
