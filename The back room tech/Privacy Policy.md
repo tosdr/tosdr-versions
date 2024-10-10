@@ -45,7 +45,7 @@ Go
 
 [![The Back Room Tech logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png.webp)](https://thebackroomtech.com/ "The Back Room Tech")
+![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png)](https://thebackroomtech.com/ "The Back Room Tech")
 
 Privacy Policy
 ==============
@@ -103,31 +103,31 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2040'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.webp)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
+    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.webp)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
+    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2078%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.webp)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.optimal.jpeg)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.webp)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
+    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2057%2052'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2050'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/lessmsi-57x52.png.webp)](https://thebackroomtech.com/2009/05/20/the-best-msi-extractor/ "The Best MSI Extractor")[The Best MSI Extractor](https://thebackroomtech.com/2009/05/20/the-best-msi-extractor/ "The Best MSI Extractor")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2033'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/remote-desktop-80x50.png)](https://thebackroomtech.com/2009/01/30/portable-remote-desktop-connection/ "A Portable Remote Desktop Connection (mstsc.exe)")[A Portable Remote Desktop Connection (mstsc.exe)](https://thebackroomtech.com/2009/01/30/portable-remote-desktop-connection/ "A Portable Remote Desktop Connection (mstsc.exe)")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2074%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/fdisableclip-registry-80x33.png.webp)](https://thebackroomtech.com/2009/05/14/fix-rdpclip-exe-wont-run-on-windows-server/ "Fix: rdpclip.exe Won’t Run on Windows Server")[Fix: rdpclip.exe Won’t Run on Windows Server](https://thebackroomtech.com/2009/05/14/fix-rdpclip-exe-wont-run-on-windows-server/ "Fix: rdpclip.exe Won’t Run on Windows Server")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2026'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/event-id-1004-iis-74x52.png)](https://thebackroomtech.com/2009/03/12/fix-the-world-wide-web-publishing-service-www-service-did-not-register-the-url-prefix-httpxxxx80-for-site-1-the-site-has-been-disabled-the-data-field-contains-the-error-number/ "Fix: The World Wide Web Publishing Service (WWW Service) did not register the URL prefix http://x.x.x.x:80/ for site 1")[Fix: The World Wide Web Publishing Service (WWW Service) did not register the URL prefix http://x.x.x.x:80/ for site 1](https://thebackroomtech.com/2009/03/12/fix-the-world-wide-web-publishing-service-www-service-did-not-register-the-url-prefix-httpxxxx80-for-site-1-the-site-has-been-disabled-the-data-field-contains-the-error-number/ "Fix: The World Wide Web Publishing Service (WWW Service) did not register the URL prefix http://x.x.x.x:80/ for site 1")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2047'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/dism-scanhealth-80x26.png.webp)](https://thebackroomtech.com/2018/08/20/advanced-windows-system-cleanup-commands-sfc-and-dism/ "Advanced Windows System Cleanup Commands – SFC and DISM")[Advanced Windows System Cleanup Commands – SFC and DISM](https://thebackroomtech.com/2018/08/20/advanced-windows-system-cleanup-commands-sfc-and-dism/ "Advanced Windows System Cleanup Commands – SFC and DISM")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/powerbuttonaction-80x47.png)](https://thebackroomtech.com/2010/09/01/change-default-log-off-button-in-windows-7-start-menu/ "Change Default Log Off Button in Windows 7 Start Menu")[Change Default Log Off Button in Windows 7 Start Menu](https://thebackroomtech.com/2010/09/01/change-default-log-off-button-in-windows-7-start-menu/ "Change Default Log Off Button in Windows 7 Start Menu")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2024'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/coding-80x45.jpg.webp)](https://thebackroomtech.com/2018/06/13/vmware-script-remove-resource-reservations/ "VMware Script – Remove Resource Reservations")[VMware Script – Remove Resource Reservations](https://thebackroomtech.com/2018/06/13/vmware-script-remove-resource-reservations/ "VMware Script – Remove Resource Reservations")
+    ![](https://s11921.pcdn.co/wp-content/uploads/rwinsta-80x24.jpg.optimal.jpg)](https://thebackroomtech.com/2008/04/09/howto-remotely-disconnect-a-terminal-services-session/ "How to Remotely Disconnect a Terminal Services Session")[How to Remotely Disconnect a Terminal Services Session](https://thebackroomtech.com/2008/04/09/howto-remotely-disconnect-a-terminal-services-session/ "How to Remotely Disconnect a Terminal Services Session")
 
 #### Our Publishing Family
 
