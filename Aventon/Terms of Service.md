@@ -1,8 +1,8 @@
 src="https://www.googletagmanager.com/ns.html?id=GTM-TLZVJ35" height="0" width="0" style="display:none;visibility:hidden">
 
-[SAVE $200 on Aventure, Level & Ramblas](https://www.aventon.com/collections/sale)
+[EXTENDED: SAVE $200 on Aventure, Level & Ramblas](https://www.aventon.com/collections/sale)
 
-— —
+——
 
 View All Offers 5
 
