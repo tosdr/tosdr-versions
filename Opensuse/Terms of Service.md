@@ -159,7 +159,7 @@ Retrieved from "[https://en.opensuse.org/index.php?title=Terms\_of\_site&oldid=1
 
 * [Policies and guidelines](https://en.opensuse.org/Category:Policies_and_guidelines "Category:Policies and guidelines")
 
-This page was last edited on 8 April 2024, at 14:03. Content is available under [GNU Free Documentation License 1.2](https://www.gnu.org/licenses/fdl-1.2.html) unless otherwise noted. This page has been accessed 372,793 times.
+This page was last edited on 8 April 2024, at 14:03. Content is available under [GNU Free Documentation License 1.2](https://www.gnu.org/licenses/fdl-1.2.html) unless otherwise noted. This page has been accessed 372,961 times.
 
 * [Privacy policy](https://en.opensuse.org/openSUSE:Privacy_policy "openSUSE:Privacy policy")
 * [About openSUSE Wiki](https://en.opensuse.org/openSUSE:About "openSUSE:About")
