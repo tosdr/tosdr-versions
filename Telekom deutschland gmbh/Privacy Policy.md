@@ -1113,6 +1113,7 @@ Direkteinstiege
     
     * [Impressum](https://www.telekom.de/impressum)
     *   [![data-privacy_outline-white](https://www.telekom.de/resources/images/1050454/data-privacy-outline-white.svg)![data-privacy_outline-white](https://www.telekom.de/resources/images/1050454/data-privacy-outline-white.svg) Datenschutz](https://www.telekom.de/ueber-das-unternehmen/datenschutz#fragen-und-antworten)
+    * [Utiq verwalten](https://www.telekom.de/ueber-das-unternehmen/datenschutz/utiq-verwalten)
     * [AGB](https://www.telekom.de/agb)
     * [Produktinformationsblatt](https://www.telekom.de/produktinformationsblatt)
     * [Verbraucherinformationen](https://www.telekom.de/ueber-das-unternehmen/verbraucherinformationen)
