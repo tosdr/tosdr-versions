@@ -11,8 +11,9 @@ MENÚ
 * [Entretenimiento](https://www.eluniverso.com/entretenimiento)
 * [La Revista](https://www.eluniverso.com/larevista)
 * [Juegos](https://www.eluniverso.com/juegos/)
+* [Tienda](https://tienda.eluniverso.com/)
 
-9 de octubre de 2024
+10 de octubre de 2024
 
 [](https://www.eluniverso.com/ "Logo del universo")
 
@@ -25,6 +26,7 @@ MENÚ
 * [Entretenimiento](https://www.eluniverso.com/entretenimiento)
 * [La Revista](https://www.eluniverso.com/larevista)
 * [Juegos](https://www.eluniverso.com/juegos/)
+* [Tienda](https://tienda.eluniverso.com/)
 
 MENÚ
 
@@ -89,6 +91,7 @@ Esta declaración de confidencialidad / privacidad, que describe los términos y
 * [Entretenimiento](https://www.eluniverso.com/entretenimiento)
 * [La Revista](https://www.eluniverso.com/larevista)
 * [Juegos](https://www.eluniverso.com/juegos/)
+* [Tienda](https://tienda.eluniverso.com/)
 
 #### Compañía
 
