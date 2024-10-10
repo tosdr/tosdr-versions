@@ -102,15 +102,15 @@ Popular Features
     
     Track and manage all your printing activity](https://www.papercut.com/products/do-more/print-rooms/)
     
-* [Forest Positive Printing
+* [Forest positive printing
     
     Go further than waste reduction](https://www.papercut.com/about/forest-positive/)
     
-* [Print Deploy
+* [Print deploy
     
     Print queues made easy](https://www.papercut.com/products/do-more/print-deploy/)
     
-* [Microsoft Universal Print
+* [Microsoft universal print
     
     Take control of your Universal Print environment](https://www.papercut.com/products/do-more/universal-print/)
     
@@ -185,11 +185,11 @@ By job type
 
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-sys-admin-user.svg)
     
-    Sysadmin](https://www.papercut.com/solutions/sys-admin/)
+    SysAdmin](https://www.papercut.com/solutions/sys-admin/)
     
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-monitor-team.svg)
     
-    IT manager](https://www.papercut.com/solutions/it-manager/)
+    IT Manager](https://www.papercut.com/solutions/it-manager/)
     
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-store-shopfront.svg)
     
@@ -221,7 +221,7 @@ Discover everything we do
     
     WPP printing
     
-    The complete guide to Windows Protected Printing](https://www.papercut.com/discover/the-complete-guide-to-windows-protected-print-wpp-2024-edition/)
+    The complete guide to Windows Protected Printing](https://www.papercut.com/discover/the-complete-guide-to-windows-protected-print-wpp/)
     
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-easy-printing.svg)
     
@@ -373,15 +373,15 @@ Popular Features
     
     Track and manage all your printing activity](https://www.papercut.com/products/do-more/print-rooms/)
     
-* [Forest Positive Printing
+* [Forest positive printing
     
     Go further than waste reduction](https://www.papercut.com/about/forest-positive/)
     
-* [Print Deploy
+* [Print deploy
     
     Print queues made easy](https://www.papercut.com/products/do-more/print-deploy/)
     
-* [Microsoft Universal Print
+* [Microsoft universal print
     
     Take control of your Universal Print environment](https://www.papercut.com/products/do-more/universal-print/)
     
@@ -456,11 +456,11 @@ By job type
 
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-sys-admin-user.svg)
     
-    Sysadmin](https://www.papercut.com/solutions/sys-admin/)
+    SysAdmin](https://www.papercut.com/solutions/sys-admin/)
     
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-monitor-team.svg)
     
-    IT manager](https://www.papercut.com/solutions/it-manager/)
+    IT Manager](https://www.papercut.com/solutions/it-manager/)
     
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-store-shopfront.svg)
     
@@ -492,7 +492,7 @@ Discover everything we do
     
     WPP printing
     
-    The complete guide to Windows Protected Printing](https://www.papercut.com/discover/the-complete-guide-to-windows-protected-print-wpp-2024-edition/)
+    The complete guide to Windows Protected Printing](https://www.papercut.com/discover/the-complete-guide-to-windows-protected-print-wpp/)
     
 * [![label icon](https://cdn.papercut.com/web/cloudcannon/navigation/nav-icon-easy-printing.svg)
     
@@ -809,20 +809,20 @@ Learn more
 Discover
 
 * [Discover overview](https://www.papercut.com/discover/)
-* [WPP printing](https://www.papercut.com/discover/the-complete-guide-to-windows-protected-print-wpp-2024-edition/)
+* [WPP printing](https://www.papercut.com/discover/the-complete-guide-to-windows-protected-print-wpp/)
 * [Cloud and print](https://www.papercut.com/discover/cloud-and-print/)
 * [Easy printing](https://www.papercut.com/discover/easy-printing/)
 * [Scanning](https://www.papercut.com/discover/easy-scanning-and-capture/)
 * [Print security](https://www.papercut.com/discover/print-security/)
 * [Integrations](https://www.papercut.com/discover/integrations-and-customizations/)
 * [Products at a glance](https://www.papercut.com/discover/products-at-a-glance/)
-* [Forest Positive](https://www.papercut.com/about/forest-positive/)
+* [Forest positive](https://www.papercut.com/about/forest-positive/)
 * [Best practices](https://www.papercut.com/discover/best-practices/)
 
 Discover
 
 * [Discover overview](https://www.papercut.com/discover/)
-* [WPP printing](https://www.papercut.com/discover/the-complete-guide-to-windows-protected-print-wpp-2024-edition/)
+* [WPP printing](https://www.papercut.com/discover/the-complete-guide-to-windows-protected-print-wpp/)
 
 Get PaperCut
 
