@@ -240,7 +240,7 @@ Discover the hottest items flying off the shelves.
     
     ### [Neckrelax Neck Massager Magic - Pain-Free Neck](https://www.rangextd.com/products/neckrelax-neck-massager-g2)
     
-    Out of stock
+    Next day delivery
     
     $188.99 $99.98
     
