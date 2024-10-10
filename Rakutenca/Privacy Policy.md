@@ -245,11 +245,11 @@ FR
         
         Recommended Stores
         
-        [Clearly
+        [MAC Cosmetics Canada
         
-        up to 12% Cash Back](https://www.rakuten.ca/clearly)[MAC Cosmetics Canada
+        12% Cash Back](https://www.rakuten.ca/mac-cosmetics-ca)[Clearly
         
-        12% Cash Back](https://www.rakuten.ca/mac-cosmetics-ca)[Estee Lauder Canada
+        up to 12% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
         12% Cash Back](https://www.rakuten.ca/esteelauder)[WeightWatchers
         
@@ -275,11 +275,11 @@ FR
         
         Recommended Stores
         
-        [Simba Sleep Canada
+        [Dyson
         
-        15% Cash Back](https://www.rakuten.ca/simba-sleep-canada)[Dyson
+        12% Cash Back](https://www.rakuten.ca/dyson)[Simba Sleep Canada
         
-        12% Cash Back](https://www.rakuten.ca/dyson)[Wayfair
+        15% Cash Back](https://www.rakuten.ca/simba-sleep-canada)[Wayfair
         
         2% Cash Back](https://www.rakuten.ca/wayfair)[Well.ca
         
@@ -620,13 +620,7 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 12% Cash Back from Rakuten.ca with HP Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/299257/hp-new-en-stickyfooter-1170x60_hp.png "HP Canada Coupons, Promo Codes")
-
-was 2%, now
-
-12% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/hp-canada?sourceName=stickyfooter1)
+[![](//static.rakuten.ca/img/campaign_entity/258100/en_stickyfooter-1170x60_new_stores.png)](https://www.rakuten.ca/new-stores)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
