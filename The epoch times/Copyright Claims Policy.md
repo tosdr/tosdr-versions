@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump to Hold Rare California Rally in Coachella](https://www.theepochtimes.com/us/trump-to-hold-rare-california-rally-in-coachella-5738798)
+    
+    1hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
+    
+    [![Trump to Hold Rare California Rally in Coachella](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump to Hold Rare California Rally in Coachella](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5724029-Donald-Trump-11_JF_09132024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-hold-rare-california-rally-in-coachella-5738798)
+* [In Wake of Roe Reversal, Abortion-Related Legal Battles Increase](https://www.theepochtimes.com/article/in-wake-of-roe-v-wade-abortion-related-legal-battles-increase-5720894)
+    
+    4hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![In Wake of Roe Reversal, Abortion-Related Legal Battles Increase](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![In Wake of Roe Reversal, Abortion-Related Legal Battles Increase](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738516-Abortion-Bubble-Zone-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-wake-of-roe-v-wade-abortion-related-legal-battles-increase-5720894)
+* [Drug Trials Funded by Manufacturers Find 50 Percent Greater Drug Effectiveness](https://www.theepochtimes.com/health/drug-trials-funded-by-manufacturers-find-50-percent-greater-drug-effectiveness-5737731)
+    
+    6hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
+    
+    [![Drug Trials Funded by Manufacturers Find 50 Percent Greater Drug Effectiveness](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Drug Trials Funded by Manufacturers Find 50 Percent Greater Drug Effectiveness](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738718-shutterstock_2128302299_drug_pharmaceuticals_big_pharma_medicine_pharmaceutical-205x123.jpg.webp)](https://www.theepochtimes.com/health/drug-trials-funded-by-manufacturers-find-50-percent-greater-drug-effectiveness-5737731)
 * [DeSantis Responds to Claims FEMA Can Keep People From Their Homes](https://www.theepochtimes.com/us/desantis-responds-to-claims-fema-can-keep-people-from-their-homes-5738614)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![DeSantis Responds to Claims FEMA Can Keep People From Their Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![DeSantis Responds to Claims FEMA Can Keep People From Their Homes](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738502-DeSantis-GettyImages-2173721368KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/desantis-responds-to-claims-fema-can-keep-people-from-their-homes-5738614)
 * [New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://www.theepochtimes.com/us/new-yorks-3rd-congressional-district-candidates-clash-over-crime-migration-taxes-in-debate-5738249)
     
-    NEW By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    6hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
     [![New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738498-Tom-Suozzi-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-yorks-3rd-congressional-district-candidates-clash-over-crime-migration-taxes-in-debate-5738249)
-* [Day in Photos: Dissolved Parliament, Shrinking Economy, and Peaceful Revolution Remembrance](https://www.theepochtimes.com/article/day-in-photos-dissolved-parliament-shrinking-economy-and-peaceful-revolution-remembrance-5738226)
+    ![New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738750-Tom-SuozziKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-yorks-3rd-congressional-district-candidates-clash-over-crime-migration-taxes-in-debate-5738249)
+* [Day in Photos: Hurricane Milton, Dissolved Parliament, and Shrinking Economy](https://www.theepochtimes.com/article/day-in-photos-dissolved-parliament-shrinking-economy-and-peaceful-revolution-remembrance-5738226)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Day in Photos: Dissolved Parliament, Shrinking Economy, and Peaceful Revolution Remembrance](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Hurricane Milton, Dissolved Parliament, and Shrinking Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Day in Photos: Dissolved Parliament, Shrinking Economy, and Peaceful Revolution Remembrance](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738699-GettyImages-2176952528-205x123.jpg)](https://www.theepochtimes.com/article/day-in-photos-dissolved-parliament-shrinking-economy-and-peaceful-revolution-remembrance-5738226)
+    ![Day in Photos: Hurricane Milton, Dissolved Parliament, and Shrinking Economy](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738699-GettyImages-2176952528-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-dissolved-parliament-shrinking-economy-and-peaceful-revolution-remembrance-5738226)
 * [Florida Officials Warn of Electric Vehicle Fires Sparked by Hurricane Milton](https://www.theepochtimes.com/us/florida-officials-warn-of-electric-vehicle-fires-sparked-by-hurricane-milton-5738579)
     
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![Florida Officials Warn of Electric Vehicle Fires Sparked by Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Florida Officials Warn of Electric Vehicle Fires Sparked by Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706406-GettyImages-2026355736-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-officials-warn-of-electric-vehicle-fires-sparked-by-hurricane-milton-5738579)
 * [Biden, Harris Speak With Netanyahu as Middle East Awaits Israeli Response to Missile Attack](https://www.theepochtimes.com/world/biden-harris-speak-with-netanyahu-as-middle-east-awaits-israeli-response-to-missile-attack-5738268)
     
-    NEW By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    6hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Biden, Harris Speak With Netanyahu as Middle East Awaits Israeli Response to Missile Attack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden, Harris Speak With Netanyahu as Middle East Awaits Israeli Response to Missile Attack](https://img.theepochtimes.com/assets/uploads/2023/10/18/id5512300-GettyImages-1730516014-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-harris-speak-with-netanyahu-as-middle-east-awaits-israeli-response-to-missile-attack-5738268)
-* [Floridians Use Last Hours Before the Storm to Brace for ‘Historic’ Hurricane Milton](https://www.theepochtimes.com/us/floridians-use-last-hours-before-the-storm-to-brace-for-historic-hurricane-milton-5738234)
+* [Supreme Court Urged to Order New Trial for Oklahoma Death Row Inmate](https://www.theepochtimes.com/us/supreme-court-urged-to-order-new-trial-for-oklahoma-death-row-inmate-5738250)
     
-    NEW By [John Haughey](https://www.theepochtimes.com/author/john-haughey), [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro), [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom) and [Nanette Holt](https://www.theepochtimes.com/author/nanette-holt)
+    7hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
-    [![Floridians Use Last Hours Before the Storm to Brace for ‘Historic’ Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Supreme Court Urged to Order New Trial for Oklahoma Death Row Inmate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Floridians Use Last Hours Before the Storm to Brace for ‘Historic’ Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738424-GettyImages-2176941043-205x123.jpg.webp)](https://www.theepochtimes.com/us/floridians-use-last-hours-before-the-storm-to-brace-for-historic-hurricane-milton-5738234)
-* [Nearly 3 Million Americans Have Voted So Far: Here’s What We Know](https://www.theepochtimes.com/us/nearly-3-million-americans-have-voted-so-far-heres-what-we-know-5738422)
+    ![Supreme Court Urged to Order New Trial for Oklahoma Death Row Inmate](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737493-1.download-2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-urged-to-order-new-trial-for-oklahoma-death-row-inmate-5738250)
+* [Nearly 3 Million Americans Have Voted So Far. Here’s What We Know.](https://www.theepochtimes.com/us/nearly-3-million-americans-have-voted-so-far-heres-what-we-know-5738422)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Nearly 3 Million Americans Have Voted So Far: Here’s What We Know](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Nearly 3 Million Americans Have Voted So Far. Here’s What We Know.](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Nearly 3 Million Americans Have Voted So Far: Here’s What We Know](https://img.theepochtimes.com/assets/uploads/2024/03/27/id5616670-GettyImages-1227902406-205x123.jpeg.webp)](https://www.theepochtimes.com/us/nearly-3-million-americans-have-voted-so-far-heres-what-we-know-5738422)
-* [Iowa 3rd Congressional District Candidates Talk Inflation, Immigration, Abortion in Debate](https://www.theepochtimes.com/us/iowa-3rd-congressional-district-candidates-talk-inflation-immigration-abortion-in-debate-5738343)
-    
-    2hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
-    
-    [![Iowa 3rd Congressional District Candidates Talk Inflation, Immigration, Abortion in Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Iowa 3rd Congressional District Candidates Talk Inflation, Immigration, Abortion in Debate](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720771-09092024-DSC07999-Congress-205x123.jpg.webp)](https://www.theepochtimes.com/us/iowa-3rd-congressional-district-candidates-talk-inflation-immigration-abortion-in-debate-5738343)
-* [Mortgage Demand Drops as Rates Jump to Highest Since August](https://www.theepochtimes.com/us/mortgage-demand-drops-as-rates-jump-to-highest-since-august-5738400)
-    
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Mortgage Demand Drops as Rates Jump to Highest Since August](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Mortgage Demand Drops as Rates Jump to Highest Since August](https://img.theepochtimes.com/assets/uploads/2023/08/31/id5483967-GettyImages-1529791883-205x123.jpg.webp)](https://www.theepochtimes.com/us/mortgage-demand-drops-as-rates-jump-to-highest-since-august-5738400)
-* [South Dakota Removes 273 Noncitizens From Voter Rolls](https://www.theepochtimes.com/us/south-dakota-removes-273-noncitizens-from-voter-rolls-5738310)
-    
-    3hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
-    
-    [![South Dakota Removes 273 Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![South Dakota Removes 273 Noncitizens From Voter Rolls](https://img.theepochtimes.com/assets/uploads/2024/05/08/id5646547-GettyImages-1404220329-205x123.jpg.webp)](https://www.theepochtimes.com/us/south-dakota-removes-273-noncitizens-from-voter-rolls-5738310)
+    ![Nearly 3 Million Americans Have Voted So Far. Here’s What We Know.](https://img.theepochtimes.com/assets/uploads/2024/03/27/id5616670-GettyImages-1227902406-205x123.jpeg.webp)](https://www.theepochtimes.com/us/nearly-3-million-americans-have-voted-so-far-heres-what-we-know-5738422)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
