@@ -6,7 +6,7 @@ Sections
 
 [73°
 
-![Light Rain](/pf/resources/images/weather/status-icons/11.png?d=859)](https://www.actionnewsjax.com/weather/)
+![Rain / Windy](/pf/resources/images/weather/status-icons/12.png?d=859)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
