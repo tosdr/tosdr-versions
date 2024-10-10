@@ -190,27 +190,14 @@
 
 Subscribe
 
-[#### Sleep](https://www.healthline.com/sleep)
+[#### Sexual Health](https://www.healthline.com/sexual-health)
 
-* Disorders
-    
-    * [Sleep Disorders](https://www.healthline.com/sleep/disorders)
-    * [Insomnia](https://www.healthline.com/sleep/disorders/insomnia)
-    * [Sleep Apnea](https://www.healthline.com/sleep/disorders/sleep-apnea)
-    * [Restless Leg Syndrome](https://www.healthline.com/sleep/disorders/restless-leg-syndrome)
-    * [Narcolepsy](https://www.healthline.com/sleep/disorders/narcolepsy)
-    
-* [Better Sleep](https://www.healthline.com/sleep/better-sleep)
-* [Tools](https://www.healthline.com/sleep/sleep-tools)
-* [Holistic Health](https://www.healthline.com/sleep/holistic-health)
-* [Mental Well-Being](https://www.healthline.com/sleep/mental-well-being)
-* [Snoring Management](https://www.healthline.com/sleep/snoring)
-* [Medication and Treatments](https://www.healthline.com/sleep/treatment)
-* [Dreams](https://www.healthline.com/sleep/dreams)
-* [Types of Sleepers](https://www.healthline.com/sleep/types)
-* [Science](https://www.healthline.com/sleep/science)
-* [Product Reviews](https://www.healthline.com/reviews/sleep-products)
-* [News](https://www.healthline.com/sleep/news)
+* [Birth control](https://www.healthline.com/sexual-health/birth-control)
+* [STIs](https://www.healthline.com/sexual-health/sexually-transmitted-infections)
+* [HIV](https://www.healthline.com/sexual-health/hiv-aids)
+* [HSV](https://www.healthline.com/sexual-health/oral-genital-herpes)
+* [Activity](https://www.healthline.com/sexual-health/sexual-activity)
+* [Relationships](https://www.healthline.com/sexual-health/relationships-intimacy)
 
 Terms of Use
 ============
