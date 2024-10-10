@@ -8,10 +8,10 @@
 
 *  
     
-* [Christian Nationalists](https://www.motherjones.com/politics/2024/10/god-or-deep-state-christian-nationalists-cant-decide-who-to-blame-for-hurricane-helene/)
-* [The Anti-Abortion Movement](https://www.motherjones.com/politics/2024/10/jessica-valenti-abortion-book-profile/)
-* [Ted Cruz](https://www.motherjones.com/politics/2024/10/colin-allred-texas-could-ted-cruz-lose/)
-* [Hurricane Helene](https://www.motherjones.com/politics/2024/10/fema-johnson-congress-hurricane-disaster-funding/)
+* [Private Equity](https://www.motherjones.com/politics/2024/10/newport-stephen-schwarzman-blackstone-private-equity-miramar-construction-trump/)
+* [Palestine](https://www.motherjones.com/politics/2024/10/rashid-khalidi-interview-october-7-gaza-palestine-israel-biden-harris/)
+* [Repro Rights](https://www.motherjones.com/politics/2024/10/dobbs-abortion-disability-activism-roberts-reproductive-freedom/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/10/harris-medicare-disability-home-health-care/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Christian Nationalists](https://www.motherjones.com/politics/2024/10/god-or-deep-state-christian-nationalists-cant-decide-who-to-blame-for-hurricane-helene/)
-* [The Anti-Abortion Movement](https://www.motherjones.com/politics/2024/10/jessica-valenti-abortion-book-profile/)
-* [Ted Cruz](https://www.motherjones.com/politics/2024/10/colin-allred-texas-could-ted-cruz-lose/)
-* [Hurricane Helene](https://www.motherjones.com/politics/2024/10/fema-johnson-congress-hurricane-disaster-funding/)
+* [Private Equity](https://www.motherjones.com/politics/2024/10/newport-stephen-schwarzman-blackstone-private-equity-miramar-construction-trump/)
+* [Palestine](https://www.motherjones.com/politics/2024/10/rashid-khalidi-interview-october-7-gaza-palestine-israel-biden-harris/)
+* [Repro Rights](https://www.motherjones.com/politics/2024/10/dobbs-abortion-disability-activism-roberts-reproductive-freedom/)
+* [Kamala Harris](https://www.motherjones.com/politics/2024/10/harris-medicare-disability-home-health-care/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
