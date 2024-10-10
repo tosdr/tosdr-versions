@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The History of PKM, the Most Common Machine Gun In the World. Part 4](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-4/10611104)
+* [POTD: Cabot Yin & Yang Set](https://www.thegunpage.com/potd-cabot-yin-yang-set/10611105)
+* [Wheelgun Wednesday: Davidson's Exclusives Heritage Barkeep Revolvers](https://www.thegunpage.com/wheelgun-wednesday-davidsons-exclusives-heritage-barkeep-revolvers/10611106)
+* [SCOTUS Appears to be Leaning Toward Support of Biden Admin on Ghost Guns](https://www.thegunpage.com/scotus-appears-to-be-leaning-toward-support-of-biden-admin-on-ghost-guns/10611102)
+* [Going Long-Range with a Canted Scope Base Rail](https://www.thegunpage.com/going-long-range-with-a-canted-scope-base-rail/10611100)
+* [Canada Gun Grab Update: Province Gets Ready To Face Down The Feds](https://www.thegunpage.com/canada-gun-grab-update-province-gets-ready-to-face-down-the-feds/10611101)
 * [DeSantis Warns Looters: “You Don’t Know What’s Behind that Door in a Second Amendment State”](https://www.thegunpage.com/desantis-warns-looters-you-dont-know-whats-behind-that-door-in-a-second-amendment-state/10611099)
 * [Watchtower Demolitia 1911: Ported And Double-Stacked Firepower](https://www.thegunpage.com/watchtower-demolitia-1911-ported-and-double-stacked-firepower/10611098)
 * [Armed Criminal Demands Wallet And Cell Phone But Settles For Forever Nap](https://www.thegunpage.com/armed-criminal-demands-wallet-and-cell-phone-but-settles-for-forever-nap/10611097)
 * [Jacob Grey Firearms Unveils The New TWC Black](https://www.thegunpage.com/jacob-grey-firearms-unveils-the-new-twc-black/10611095)
-* [Kamala’s Big Glock Problem](https://www.thegunpage.com/kamalas-big-glock-problem/10611094)
-* [G9 Defense Adds New "Shape Charge" Safari Ammo](https://www.thegunpage.com/g9-defense-adds-new-shape-charge-safari-ammo/10611096)
-* [The Donald to Speak at NRA Event](https://www.thegunpage.com/the-donald-to-speak-at-nra-event/10611092)
-* [NRA Special-Edition Digital Publication “What NRA Does For Women” Chronicles The Rise Of Women Gun Owners](https://www.thegunpage.com/nra-special-edition-digital-publication-what-nra-does-for-women-chronicles-the-rise-of-women-gun-owners/10611091)
-* [TFB Interview: Joe Easter – KelTec RDB – IPSC Rifle World Shoot](https://www.thegunpage.com/tfb-interview-joe-easter-keltec-rdb-ipsc-rifle-world-shoot/10611087)
-* [POTD: Detonics BLACK ONE 500 Single-Shot Percussion Pistol](https://www.thegunpage.com/potd-detonics-black-one-500-single-shot-percussion-pistol/10611088)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [This Is Nuts](https://www.conservativedailynews.com/2024/10/this-is-nuts/#comment-782583)
 * Stanley Warner on [A Kamala Harris Presidency is the End of America as We have Known and Loved It](https://www.conservativedailynews.com/2024/10/a-kamala-harris-presidency-is-the-end-of-america-as-we-have-known-and-loved-it/#comment-782579)
 * charles wilkins on [Follow The Money](https://www.conservativedailynews.com/2024/10/follow-the-money-4/#comment-782578)
 * Jake on [America In The Age Of Stupidity: Why Can You Never Win An Argument With A Democrat?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-can-you-never-win-an-argument-with-a-democrat/#comment-782571)
@@ -236,7 +237,6 @@ Recent Comments
 * Jeff L on [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/#comment-782546)
 * Stanley Warner on [Biden-Harris Admin Threw Over $40 Billion At An Internet Buildout — Three Years Later Not A Single Project Is Underway](https://www.conservativedailynews.com/2024/10/biden-harris-admin-threw-over-40-billion-at-an-internet-buildout-three-years-later-not-a-single-project-is-underway/#comment-782544)
 * Stanley Warner on [Kamala’s Tax-Gouging Frightens Me More Than Corporate Price-Gouging](https://www.conservativedailynews.com/2024/10/kamalas-tax-gouging-frightens-me-more-than-corporate-price-gouging/#comment-782543)
-* Stanley Warner on [On The One-Year Anniversary Of October 7 — Let Israel Win](https://www.conservativedailynews.com/2024/10/on-the-one-year-anniversary-of-october-7-let-israel-win/#comment-782542)
 
 [Close](#)
 
