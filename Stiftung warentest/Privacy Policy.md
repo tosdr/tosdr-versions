@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Anla­gestrategie im Check: Elf erfolg­reiche Jahre Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-im-Check-Elf-Jahre-Pantoffel-Portfolio-6108125-0/ "Anlagestrategie im Check - Elf erfolgreiche Jahre Pantoffel-Portfolio")
-* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
 
 Service Stiftung Warentest
 
