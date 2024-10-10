@@ -131,6 +131,7 @@ Playtika Group
 
 #### Game Support
 
+* [Contact us](https://playtika.service-now.com/contact)
 * [Bingo Blitz](https://playtikaprod.service-now.com/bingo_blitz_support_pc_main.do)
 * [Slotomania](https://playtikaprod.service-now.com/slotomania_support_pc_main.do)
 * [June's Journey](https://wooga.helpshift.com/a/june-s-journey/?p=all)
@@ -214,6 +215,7 @@ Careers
 Game Support
 ------------
 
+* [Contact us](https://playtika.service-now.com/contact)
 * [Bingo Blitz](https://playtikaprod.service-now.com/bingo_blitz_support_pc_main.do)
 * [Slotomania](https://playtikaprod.service-now.com/slotomania_support_pc_main.do)
 * [June's Journey](https://wooga.helpshift.com/a/june-s-journey/?p=all)
