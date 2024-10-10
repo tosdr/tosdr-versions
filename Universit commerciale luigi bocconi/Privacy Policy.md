@@ -186,6 +186,7 @@ About Us
         * [Undergraduate School](https://www.unibocconi.eu/en/about-us/organization/schools/undergraduate-school)
         * [School of Law](https://www.unibocconi.eu/en/about-us/organization/schools/school-law)
         * [Graduate School](https://www.unibocconi.eu/en/about-us/organization/schools/graduate-school)
+        * [PhD School](https://www.unibocconi.eu/en/programs/phd)
         * [SDA Bocconi School of Management](https://www.unibocconi.eu/en/about-us/organization/schools/sda-bocconi-school-management)
         
     * [Staff](https://www.unibocconi.eu/en/about-us/organization/organizational-unit-directors-and-managers)
@@ -272,6 +273,7 @@ Organization
     * [Undergraduate School](https://www.unibocconi.eu/en/about-us/organization/schools/undergraduate-school)
     * [School of Law](https://www.unibocconi.eu/en/about-us/organization/schools/school-law)
     * [Graduate School](https://www.unibocconi.eu/en/about-us/organization/schools/graduate-school)
+    * [PhD School](https://www.unibocconi.eu/en/programs/phd)
     * [SDA Bocconi School of Management](https://www.unibocconi.eu/en/about-us/organization/schools/sda-bocconi-school-management)
     
 * [Staff](https://www.unibocconi.eu/en/about-us/organization/organizational-unit-directors-and-managers)
