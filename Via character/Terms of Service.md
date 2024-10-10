@@ -1,5 +1,3 @@
-🎒Final Hours to Save — [3 offers on strength-based tools!](https://www.viacharacter.org/topics/articles/back-to-school-2024)
-
 [Sign in](https://www.viacharacter.org/account/login)
 
 [0](https://www.viacharacter.org/combinedstore/shoppingcart)
