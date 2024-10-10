@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Decoding the Herculaneum Scrolls: AI Meets Ancient Texts** | Secrets of the Dead](https://video.nhpbs.org/video/decoding-the-herculaneum-scrolls-ai-meets-ancient-texts-ie6d6z?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [| VOCES: Latino Vote 2024](https://video.nhpbs.org/video/voces-latino-vote-2024-ikuxpx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Wild Robot** | Flicks](https://video.nhpbs.org/video/the-wild-robot-u2jgun?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**October 9, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-9-2024-pbs-news-hour-full-episode-1728446401?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Preview - Director's Edit** | Ivan Doig: Landscapes of a Western Mind](https://video.nhpbs.org/video/extended-preview-8rszhm?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Solar System: Strange Worlds** | NOVA](https://video.nhpbs.org/video/solar-system-strange-worlds-pmb9ko?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview of San Diego: America's Wildest City** | Nature](https://video.nhpbs.org/video/about-san-diego-americas-wildest-city?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Backstage with Michael Maliakel** | Christmas With The Tabernacle Choir](https://video.nhpbs.org/video/backstage-with-michael-maliakel-xnmad6?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Season 8 Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-season-8-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**October 8, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-8-2024-pbs-news-hour-full-episode-1728360001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Meatballs** | Pan Pals](https://video.nhpbs.org/video/meatballs-gnwslk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**The VP Choice: Vance vs. Walz** | FRONTLINE](https://video.nhpbs.org/video/the-vp-choice-vance-vs-walz-sjkaqp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**October 8, 2024** | Amanpour and Company](https://video.nhpbs.org/video/october-8-2024-xeb7hv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
