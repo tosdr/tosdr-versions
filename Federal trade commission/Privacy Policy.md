@@ -18,8 +18,10 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 Secondary Menu
 --------------
@@ -326,8 +328,10 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
+
+* [Español](https://www.ftc.gov/es)
 
 Secondary Menu
 --------------
@@ -402,6 +406,31 @@ Breadcrumb
 2. [Policy and Notices](https://www.ftc.gov/policy-notices)
 
 [Vea esta página en español](https://www.ftc.gov/es/politica-de-privacidad-0)
+
+Policy and Notices Menu
+-----------------------
+
+[Policy and Notices](https://www.ftc.gov/policy-notices)
+--------------------------------------------------------
+
+* [Privacy Policy](https://www.ftc.gov/privacy)
+    * [Internet Cookies](https://www.ftc.gov/policy-notices/privacy-policy/internet-cookies)
+    * [Privacy Act Systems](https://www.ftc.gov/policy-notices/privacy-policy/privacy-act-systems)
+    * [Privacy Impact Assessments](https://www.ftc.gov/policy-notices/privacy-policy/privacy-impact-assessments)
+    * [Privacy Policy FAQs](https://www.ftc.gov/policy-notices/privacy-policy/privacy-policy-faqs)
+    * [Third-Party Services](https://www.ftc.gov/policy-notices/privacy-policy/third-party-services)
+    * [Make a Privacy Act Request](https://www.ftc.gov/policy-notices/privacy-policy/make-privacy-act-request)
+* [Website Policy](https://www.ftc.gov/policy-notices/website-policy)
+* [Accessibility](https://www.ftc.gov/policy-notices/accessibility)
+* [Digital Government Strategy](https://www.ftc.gov/policy-notices/digital-government-strategy)
+* [Notification and Federal Employee Antidiscrimination and Retaliation Act (No FEAR) P.L. 107-174](https://www.ftc.gov/policy-notices/no-fear-act)
+* [Open Government](https://www.ftc.gov/policy-notices/open-government)
+* [Artificial Intelligence Compliance Plan](https://www.ftc.gov/ai)
+* [Controlled Unclassified Information (CUI)](https://www.ftc.gov/policy-notices/controlled-unclassified-information)
+* [Plain Writing](https://www.ftc.gov/policy-notices/plain-writing)
+* [Small Business Non-retaliation Policy](https://www.ftc.gov/system/files?file=attachments/site-information/small_business_non-retaliation_policy_3-12-19.pdf)
+* [Transition to Internet Protocol version 6 (IPV6)](https://www.ftc.gov/system/files?file=attachments/site-information/ipv6_memorandum_signed.pdf)
+* [Vulnerability Disclosure Policy](https://www.ftc.gov/policy-notices/vulnerability-disclosure-policy)
 
 What Does the FTC Do with Your Personal Information?
 ----------------------------------------------------
