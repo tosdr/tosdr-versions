@@ -401,6 +401,32 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Hurricane Milton update: Storm weakens to Category 2, flash flood emergency issued for Tampa Bay](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/digital_radar-milton2.gif?ve=1&tl=1)
+
+ ![Hurricane Milton update: Storm weakens to Category 2, flash flood emergency issued for Tampa Bay](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/digital_radar-milton2.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+
+Live Now
+
+### [Hurricane Milton update: Storm weakens to Category 2, flash flood emergency issued for Tampa Bay](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+
+ [![Trackdown: Arrest made in Dallas 7-Eleven clerk’s murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dallas-7-eleven-store-clerk-murder.png?ve=1&tl=1)
+
+ ![Trackdown: Arrest made in Dallas 7-Eleven clerk’s murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dallas-7-eleven-store-clerk-murder.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trackdown-arrest-made-dallas-7-eleven-clerks-murder)
+
+### [Trackdown: Arrest made in Dallas 7-Eleven clerk’s murder](https://www.fox4news.com/news/trackdown-arrest-made-dallas-7-eleven-clerks-murder)
+
+ [![Dallas convicted killer may be tied to at least 4 more aggravated assault shootings](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-dallas-multiple-shootings-investigation-9p_00.00.05.16.jpg?ve=1&tl=1)
+
+ ![Dallas convicted killer may be tied to at least 4 more aggravated assault shootings](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-dallas-multiple-shootings-investigation-9p_00.00.05.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kevin-sheffield-murder-conviction-person-of-interest-4-additional-cases)
+
+### [Dallas convicted killer may be tied to at least 4 more aggravated assault shootings](https://www.fox4news.com/news/kevin-sheffield-murder-conviction-person-of-interest-4-additional-cases)
+
+ [![Keller ISD to offer 'alternative' school meals for students more than $25 in debt](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-amelia-keller-isd-lunch-debt-alternative-meals-9_00.00.29.38.jpg?ve=1&tl=1)
+
+ ![Keller ISD to offer 'alternative' school meals for students more than $25 in debt](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-amelia-keller-isd-lunch-debt-alternative-meals-9_00.00.29.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/keller-isd-offer-alternative-school-meals-students-more-than-25-debt)
+
+### [Keller ISD to offer 'alternative' school meals for students more than $25 in debt](https://www.fox4news.com/news/keller-isd-offer-alternative-school-meals-students-more-than-25-debt)
+
  [![Hurricane Milton live video: Watch Florida webcams](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/gct-00001.jpg?ve=1&tl=1)
 
  ![Hurricane Milton live video: Watch Florida webcams](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/gct-00001.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
@@ -409,39 +435,13 @@ Live Now
 
 ### [Hurricane Milton live video: Watch Florida webcams](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
 
- [![Hurricane Milton threatens to scatter Florida’s toxic phosphate waste](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-134944300.jpg?ve=1&tl=1)
-
- ![Hurricane Milton threatens to scatter Florida’s toxic phosphate waste](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-134944300.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-florida-toxic-waste)
-
-### [Hurricane Milton threatens to scatter Florida’s toxic phosphate waste](https://www.fox4news.com/news/hurricane-milton-florida-toxic-waste)
-
- [![83% of Gen Z say they have an unhealthy relationship with their phone, data shows](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-152602014.jpg?ve=1&tl=1)
-
- ![83% of Gen Z say they have an unhealthy relationship with their phone, data shows](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-152602014.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gen-z-phone-addiction-bepresent-2024)
-
-### [83% of Gen Z say they have an unhealthy relationship with their phone, data shows](https://www.fox4news.com/news/gen-z-phone-addiction-bepresent-2024)
-
- [![Hurricane Milton update: Category 3 storm makes landfall in Florida with powerful winds, severe storm surge](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/digital_radar-milton2.gif?ve=1&tl=1)
-
- ![Hurricane Milton update: Category 3 storm makes landfall in Florida with powerful winds, severe storm surge](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/digital_radar-milton2.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
-
-Live Now
-
-### [Hurricane Milton update: Category 3 storm makes landfall in Florida with powerful winds, severe storm surge](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
-
- [![Fat Bear Week 2024: Grazer takes the crown after confronting her cub’s killer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/grazer.jpg?ve=1&tl=1)
-
- ![Fat Bear Week 2024: Grazer takes the crown after confronting her cub’s killer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/grazer.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grazer-2024-fat-bear-week-winner)
-
-### [Fat Bear Week 2024: Grazer takes the crown after confronting her cub’s killer](https://www.fox4news.com/news/grazer-2024-fat-bear-week-winner)
-
-[![Hurricane Milton update: Category 3 storm makes landfall in Florida with powerful winds, severe storm surge](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/foxwx5pmradar.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+[![Hurricane Milton update: Storm weakens to Category 2, flash flood emergency issued for Tampa Bay](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/foxwx5pmradar.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
 WATCH LIVE COVERAGE
 
-[Hurricane Milton makes landfall in Florda as a Cat. 3 storm](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+[Hurricane Milton updates: 'Multiple fatalities' reported at retirement community](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
-[Hurricane Milton made landfall Wednesday along Florida’s Gulf Coast as a powerful Category 3 storm, unleashing strong winds, a deadly storm surge, and widespread flooding.](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+[About 90 minutes after making landfall Wednesday night, Hurricane Milton weakened to a Category 2 storm, with winds reaching 110 mph.](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
 [![Videos show tornadoes blasting Florida ahead of Hurricane Milton landfall](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/digital_radar-milton2.gif?ve=1&tl=1)](https://www.fox4news.com/weather/florida-tornado-warnings-hurricane-milton)
 
