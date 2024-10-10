@@ -86,15 +86,15 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 * * *
 
-[Paying a King's ransom](https://independentaustralia.net/article-display/paying-a-kings-ransom,19044)
+[No self-respecting democracy deserves Dutton](https://independentaustralia.net/article-display/no-self-respecting-democracy-deserves-dutton,19060)
 
 [More time to write and win in IA Writing Comp!](https://independentaustralia.net/article-display/ia-writing-competition-more-time-to-win-prizes,18918)
 
-[Despite Murdoch media bashing, Steven Miles got the job done](https://independentaustralia.net/article-display/politics-display/despite-murdoch-media-bashing-steven-miles-got-the-job-done,19050)
-
-['Pursuit of truth will live on': Assange speaks to the world](https://independentaustralia.net/article-display/pursuit-of-truth-will-live-on-assange-speaks-to-the-world,19049)
+[Parliamentary changes to NDIS making life harder for disabled](https://independentaustralia.net/article-display/politics-display/parliamentary-changes-to-ndis-making-life-harder-for-disabled,19056)
 
 [Economic outcomes destroy pro-Coalition media falsehoods — one by one](https://independentaustralia.net/article-display/economic-outcomes-destroy-pro-coalition-media-falsehoods--one-by-one,19048)
+
+[Katy kicks off Grand Final amid 'Roar' of controversy](https://independentaustralia.net/article-display/katy-kicks-off-grand-final-amid-roar-of-controversy,19033)
 
 Privacy Policy
 
@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Economic outcomes destroy pro-Coalition media falsehoods — one by one](https://independentaustralia.net/article-display/economic-outcomes-destroy-pro-coalition-media-falsehoods-one-by-one,19048 "Permanent Link : Economic outcomes destroy pro-Coalition media falsehoods — one by one")
+* [No self-respecting democracy deserves Dutton](https://independentaustralia.net/article-display/no-self-respecting-democracy-deserves-dutton,19060 "Permanent Link : No self-respecting democracy deserves Dutton")
+* [Etiquette tips for awed commoners when meeting King Chukka](https://independentaustralia.net/article-display/etiquette-tips-for-awed-commoners-when-meeting-king-chukka,19059 "Permanent Link : Etiquette tips for awed commoners when meeting King Chukka")
 * [EDITORIAL: No self-respecting democracy deserves Dutton](https://independentaustralia.net/article-display/editorial-no-self-respecting-democracy-deserves-dutton,19058 "Permanent Link : EDITORIAL: No self-respecting democracy deserves Dutton")
 * [Social housing shortages a major national concern](https://independentaustralia.net/article-display/social-housing-shortages-a-major-national-concern,19057 "Permanent Link : Social housing shortages a major national concern")
 * [Parliamentary changes to NDIS making life harder for disabled](https://independentaustralia.net/article-display/parliamentary-changes-to-ndis-making-life-harder-for-disabled,19056 "Permanent Link : Parliamentary changes to NDIS making life harder for disabled")
 * [Labor Government promises NBN to remain in public hands](https://independentaustralia.net/article-display/labor-government-promises-nbn-to-remain-in-public-hands,19055 "Permanent Link : Labor Government promises NBN to remain in public hands")
 * [Right-wing media continues Dan Andrews witch hunt](https://independentaustralia.net/article-display/right-wing-media-continues-dan-andrews-witch-hunt,19052 "Permanent Link : Right-wing media continues Dan Andrews witch hunt")
-* [Queensland health crisis being hidden by government and media](https://independentaustralia.net/article-display/queensland-health-crisis-being-hidden-by-government-and-media,19051 "Permanent Link : Queensland health crisis being hidden by government and media")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
