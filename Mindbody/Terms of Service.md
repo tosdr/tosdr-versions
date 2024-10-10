@@ -327,7 +327,7 @@ Column
 Column
 
 * Community
-* [Diversity & Inclusivity](https://company.mindbodyonline.com/diversity-equity-inclusion-belonging)
+* [Diversity & Inclusivity](https://company.mindbodyonline.com/culture)
 * [Mindbody One](https://www.mindbody.one/)
 * [Developer Tools](https://www.mindbodyonline.com/business/developer-tools)
 * [Participate in Research](https://company.mindbodyonline.com/participate-in-research)
