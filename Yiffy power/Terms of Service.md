@@ -105,25 +105,25 @@ September 11, 2024
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 100 1
+0 114 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/scratte-directed-by-ponsho15/)
+[](https://yiff-party.com/yiff/tasque-manager-undertale-series-and-etc-created-by-welwraith/)
 
-[scratte directed by ponsho15](https://yiff-party.com/yiff/scratte-directed-by-ponsho15/)
+[tasque manager (undertale (series) and etc) created by welwraith](https://yiff-party.com/yiff/tasque-manager-undertale-series-and-etc-created-by-welwraith/)
 
-0 130 0
+0 169 0
 
-September 10, 2024
+September 11, 2024
 
-[](https://yiff-party.com/yiff/lucyfurx-nintendo-switch-and-etc-created-by-janiskisa/)
+[](https://yiff-party.com/yiff/jaki-and-raiden-locktober-created-by-pastelpastel/)
 
-[lucyfurx (nintendo switch and etc) created by janiskisa](https://yiff-party.com/yiff/lucyfurx-nintendo-switch-and-etc-created-by-janiskisa/)
+[jaki and raiden (locktober) created by pastelpastel](https://yiff-party.com/yiff/jaki-and-raiden-locktober-created-by-pastelpastel/)
 
 0 2 0
 
-October 10, 2024
+October 11, 2024
 
 [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
