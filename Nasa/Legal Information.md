@@ -263,73 +263,79 @@ article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-p
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/10/acd24-0156-048.jpg?w=1024)
+[![Astronaut Kathryn D. Sullivan, 41-G mission specialist, uses binoculars for a magnified viewing of earth through the forward cabin windows.](https://www.nasa.gov/wp-content/uploads/2023/09/41g-11-027.jpg?w=1024)
+
+8 min read
+
+### Kathryn Sullivan: The First American Woman to Walk in Space
+
+article 4 hours ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/acd24-0156-048.jpg?w=1024)
 
 2 min read
 
 ### NASA Astronauts, Leadership Visit Children’s Hospital, Cancer Moonshot Event
 
-article 15 hours ago](https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-astronauts-leadership-visit-childrens-hospital-cancer-moonshot-event/)[![Photo of the Orion capsule, a white spacecraft with a solar array deployed, with the moon in the background.](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-i-srag-orion.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-astronauts-leadership-visit-childrens-hospital-cancer-moonshot-event/)[![Photo of the Orion capsule, a white spacecraft with a solar array deployed, with the moon in the background.](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-i-srag-orion.jpg?w=1024)
 
 3 min read
 
 ### Artemis I Radiation Measurements Validate Orion Safety for Astronauts
 
-article 17 hours ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/)[![How Do Astronauts Get in Shape? – New “Ask SME” from NASA eClips](https://science.nasa.gov/wp-content/uploads/2024/10/ask-sme-corey-twine-thumbnail-1280px-shannon-verstynen.jpg)
-
-2 min read
-
-### How Do Astronauts Get in Shape? – New “Ask SME” from NASA eClips
-
-article 18 hours ago](https://science.nasa.gov/learning-resources/science-activation/how-do-astronauts-get-in-shape-new-ask-sme-from-nasa-eclips/)
+article 1 day ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/)
 
 ### Highlights
 
-[![Southern California warehouses](https://www.nasa.gov/wp-content/uploads/2024/10/1-warehouses.jpg?w=1024)
+[![Carbon Mapper Coalition’s Tanager-1 satellite detected this methane plume in Karachi, Pakistan](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26416-ghg-plumes-16.jpg?w=1024)
+
+4 min read
+
+### First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
+
+article 2 hours ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)[![Southern California warehouses](https://www.nasa.gov/wp-content/uploads/2024/10/1-warehouses.jpg?w=1024)
 
 5 min read
 
 ### NASA-Funded Study Assesses Pollution Near Los Angeles-Area Warehouses
 
-article 19 hours ago](https://www.nasa.gov/earth/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/)[![NASA astronaut Matthew Dominick captured this photo of Hurricane Milton from the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/gzyjmonxwaa-3bx.jpeg?w=683)
+article 1 day ago](https://www.nasa.gov/earth/nasa-funded-study-assesses-pollution-near-los-angeles-area-warehouses/)[![NASA astronaut Matthew Dominick captured this photo of Hurricane Milton from the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/10/gzyjmonxwaa-3bx.jpeg?w=683)
 
 1 min read
 
 ### NASA Efforts on Hurricane Milton
 
-article 2 days ago](https://www.nasa.gov/hurricane-milton/)[![Haghani holds an electronic card from MUSTANG](https://www.nasa.gov/wp-content/uploads/2017/02/noosha_and_tech.jpg?w=1024)
-
-9 min read
-
-### Systems Engineer Noosha Haghani Prepped PACE for Space
-
-article 2 days ago](https://www.nasa.gov/people-of-nasa/goddard-people/systems-engineer-noosha-haghani-prepped-pace-for-space/)
+article 2 days ago](https://www.nasa.gov/hurricane-milton/)
 
 ### Highlights
 
-[![NASA’s Hubble, New Horizons Team Up for a Simultaneous Look at Uranus](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-new-horizons-uranus-stsci-01j99dt656es1s81v71v8nd40r.png)
+[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+
+5 min read
+
+### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
+
+article 4 hours ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![NASA’s Hubble, New Horizons Team Up for a Simultaneous Look at Uranus](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-new-horizons-uranus-stsci-01j99dt656es1s81v71v8nd40r.png)
 
 6 min read
 
 ### NASA’s Hubble, New Horizons Team Up for a Simultaneous Look at Uranus
 
-article 17 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-new-horizons-team-up-for-a-simultaneous-look-at-uranus/)[![Photo of the Orion capsule, a white spacecraft with a solar array deployed, with the moon in the background.](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-i-srag-orion.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-new-horizons-team-up-for-a-simultaneous-look-at-uranus/)[![Photo of the Orion capsule, a white spacecraft with a solar array deployed, with the moon in the background.](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-i-srag-orion.jpg?w=1024)
 
 3 min read
 
 ### Artemis I Radiation Measurements Validate Orion Safety for Astronauts
 
-article 17 hours ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/)[![NASA’s Hubble Watches Jupiter’s Great Red Spot Behave Like a Stress Ball](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-jupiter-grs-8panel-2024oct09-stsci-01j9452hkd789drcanamg1jhkv.png)
-
-4 min read
-
-### NASA’s Hubble Watches Jupiter’s Great Red Spot Behave Like a Stress Ball
-
-article 17 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-watches-jupiters-great-red-spot-behave-like-a-stress-ball/)
+article 1 day ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/)
 
 ### Featured
 
-[![Hubble Observes a Peculiar Galaxy Shape](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc4694-potw2440a.jpg)
+[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+
+5 min read
+
+### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
+
+article 4 hours ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![Hubble Observes a Peculiar Galaxy Shape](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc4694-potw2440a.jpg)
 
 2 min read
 
@@ -341,35 +347,29 @@ article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-p
 
 ### NASA’s TESS Spots Record-Breaking Stellar Triplets
 
-article 1 week ago](https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/)[![Hubble Captures Stellar Nurseries in a Majestic Spiral](https://science.nasa.gov/wp-content/uploads/2024/09/hubble-ic1954-potw2439a.jpg)
-
-2 min read
-
-### Hubble Captures Stellar Nurseries in a Majestic Spiral
-
-article 2 weeks ago](https://science.nasa.gov/missions/hubble/hubble-captures-stellar-nurseries-in-a-majestic-spiral/)
+article 1 week ago](https://www.nasa.gov/missions/tess/nasas-tess-spots-record-breaking-stellar-triplets/)
 
 ### Highlights
 
-[![NASA’s Hubble, New Horizons Team Up for a Simultaneous Look at Uranus](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-new-horizons-uranus-stsci-01j99dt656es1s81v71v8nd40r.png)
-
-6 min read
-
-### NASA’s Hubble, New Horizons Team Up for a Simultaneous Look at Uranus
-
-article 17 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-new-horizons-team-up-for-a-simultaneous-look-at-uranus/)[![Photo of the Orion capsule, a white spacecraft with a solar array deployed, with the moon in the background.](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-i-srag-orion.jpg?w=1024)
-
-3 min read
-
-### Artemis I Radiation Measurements Validate Orion Safety for Astronauts
-
-article 17 hours ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/)[![NASA’s Hubble Watches Jupiter’s Great Red Spot Behave Like a Stress Ball](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-jupiter-grs-8panel-2024oct09-stsci-01j9452hkd789drcanamg1jhkv.png)
+[![Carbon Mapper Coalition’s Tanager-1 satellite detected this methane plume in Karachi, Pakistan](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26416-ghg-plumes-16.jpg?w=1024)
 
 4 min read
 
-### NASA’s Hubble Watches Jupiter’s Great Red Spot Behave Like a Stress Ball
+### First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
 
-article 17 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-watches-jupiters-great-red-spot-behave-like-a-stress-ball/)
+article 2 hours ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)[![Ray Wheeler](https://images-assets.nasa.gov/image/KSC-04pd1307/KSC-04pd1307~large.jpg)
+
+5 min read
+
+### Ray Wheeler
+
+article 2 hours ago](https://science.nasa.gov/people/ray-wheeler/)[![B.20 H-TM POC and email Changed](https://science.nasa.gov/wp-content/uploads/2024/09/12-heliophysics-main-sprite-over-chateau-de-beynac.jpg)
+
+1 min read
+
+### B.20 H-TM POC and email Changed
+
+article 3 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/b-20-h-tm-poc-and-email-changed/)
 
 ### Highlights
 
@@ -401,13 +401,13 @@ article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### NASA Terminal Transmits First Laser Communications Uplink to Space 
 
-article 17 hours ago](https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/)[![Amendment 58: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies DRAFT Text released for community comment.](https://science.nasa.gov/wp-content/uploads/2024/09/6-astrophysics-main-cassiopeia-a.jpg)
+article 1 day ago](https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/)[![Amendment 58: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies DRAFT Text released for community comment.](https://science.nasa.gov/wp-content/uploads/2024/09/6-astrophysics-main-cassiopeia-a.jpg)
 
 2 min read
 
 ### Amendment 58: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies DRAFT Text released for community comment.
 
-article 19 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-58-d-19-habitable-worlds-observatory-system-technology-demonstrations-and-mission-architecture-studies-draft-text-released-for-community-comment/)[![Conceptual graphic of the lunar surface with the sun casting light onto a robotic excavator traversing the rocky regolith.](https://www.nasa.gov/wp-content/uploads/2024/10/rassor-ipex-forreview-1.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-58-d-19-habitable-worlds-observatory-system-technology-demonstrations-and-mission-architecture-studies-draft-text-released-for-community-comment/)[![Conceptual graphic of the lunar surface with the sun casting light onto a robotic excavator traversing the rocky regolith.](https://www.nasa.gov/wp-content/uploads/2024/10/rassor-ipex-forreview-1.jpg?w=1024)
 
 3 min read
 
@@ -423,7 +423,7 @@ article 2 days ago](https://www.nasa.gov/directorates/stmd/student-lunar-autonom
 
 ### How Do Astronauts Get in Shape? – New “Ask SME” from NASA eClips
 
-article 18 hours ago](https://science.nasa.gov/learning-resources/science-activation/how-do-astronauts-get-in-shape-new-ask-sme-from-nasa-eclips/)[![Conceptual graphic of the lunar surface with the sun casting light onto a robotic excavator traversing the rocky regolith.](https://www.nasa.gov/wp-content/uploads/2024/10/rassor-ipex-forreview-1.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/learning-resources/science-activation/how-do-astronauts-get-in-shape-new-ask-sme-from-nasa-eclips/)[![Conceptual graphic of the lunar surface with the sun casting light onto a robotic excavator traversing the rocky regolith.](https://www.nasa.gov/wp-content/uploads/2024/10/rassor-ipex-forreview-1.jpg?w=1024)
 
 3 min read
 
@@ -467,7 +467,7 @@ article 3 days ago](https://www.nasa.gov/history/40-years-ago-sts-41g-a-flight-o
 
 ### Una gerente de proyectos de la NASA rinde homenaje a la influencia de su madre
 
-article 2 days ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/)[![A close up image of a set of massive solar arrays measuring about 46.5 feet (14.2 meters) long and about 13.5 feet (4.1 meters) high on NASA’s Europa Clipper spacecraft inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/09/europa-clipper.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/es/una-gerente-de-proyectos-de-la-nasa-rinde-homenaje-a-la-influencia-de-su-madre/)[![A close up image of a set of massive solar arrays measuring about 46.5 feet (14.2 meters) long and about 13.5 feet (4.1 meters) high on NASA’s Europa Clipper spacecraft inside the agency’s Payload Hazardous Servicing Facility at Kennedy Space Center in Florida.](https://www.nasa.gov/wp-content/uploads/2024/09/europa-clipper.jpg?w=1024)
 
 5 min read
 
