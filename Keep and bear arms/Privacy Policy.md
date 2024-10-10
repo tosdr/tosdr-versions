@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 759 active visitors** | **Wednesday, October 09, 2024** |
+| **You are 1 of 558 active visitors** | **Thursday, October 10, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**If we lower our standards, we lower the flag. � President Ronald Reagan
+ **QUOTES TO REMEMBER**No kingdom can be secured otherwise than by arming the people. The possession of arms is the distinction between a freeman and a slave. He, who has nothing, and who himself belongs to another, must be defended by him, whose property he is, and needs no arms. But he, who thinks he is his own master, and has what he can call his own, ought to have arms to defend himself, and what he possesses; else he lives precariously, and at discretion. � James Burgh, Political Disquisitions: Or, an Enquiry into Public Errors, Defects, and Abuses \[London, 1774-1775\].
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
