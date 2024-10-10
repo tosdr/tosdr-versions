@@ -116,33 +116,33 @@
 
 [◁ Nachschlagen](#listview-produkte)
 
-[Nachschlagewerke für Erwachsene](https://www.duden.de/unsere-produkte/nachschlagen/erwachsene)
+[Für Erwachsene](https://www.duden.de/unsere-produkte/nachschlagen/erwachsene)
 
-[Nachschlagewerke für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/nachschlagen/kinder-jugendliche)
+[Für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/nachschlagen/kinder-jugendliche)
 
 [◁ Besser schreiben](#listview-produkte)
 
-[Besser schreiben für Erwachsene](https://www.duden.de/unsere-produkte/besser-schreiben/erwachsene)
+[Für Erwachsene](https://www.duden.de/unsere-produkte/besser-schreiben/erwachsene)
 
-[Schreiben lernen leicht gemacht](https://www.duden.de/unsere-produkte/besser-schreiben/kinder-jugendliche)
+[Für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/besser-schreiben/kinder-jugendliche)
 
 [◁ Sprache entdecken](#listview-produkte)
 
-[Sprachwelten entdecken](https://www.duden.de/unsere-produkte/sprache-entdecken/erwachsene)
+[Für Erwachsene](https://www.duden.de/unsere-produkte/sprache-entdecken/erwachsene)
 
-[Die Welt der Sprache für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/sprache-entdecken/kinder-jugendliche)
+[Für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/sprache-entdecken/kinder-jugendliche)
 
 [◁ Lernen und rätseln](#listview-produkte)
 
-[Rätselspaß für Erwachsene](https://www.duden.de/unsere-produkte/lernen-raetseln/erwachsene)
+[Für Erwachsene](https://www.duden.de/unsere-produkte/lernen-raetseln/erwachsene)
 
-[Lern- und Rätselspaß für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/lernen-raetseln/kinder-jugendliche)
+[Für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/lernen-raetseln/kinder-jugendliche)
 
 [◁ Deutsch lernen](#listview-produkte)
 
-[Deutsch lernen mit Duden](https://www.duden.de/unsere-produkte/deutsch-lernen/erwachsene)
+[Für Erwachsene](https://www.duden.de/unsere-produkte/deutsch-lernen/erwachsene)
 
-[Deutsch lernen für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/deutsch-lernen/kinder-jugendliche)
+[Für Kinder und Jugendliche](https://www.duden.de/unsere-produkte/deutsch-lernen/kinder-jugendliche)
 
 [◁ Sprachwissen](#listview-root)
 
@@ -162,7 +162,7 @@
 
 [Dudenredaktion ▻](#listview-dudenredaktion)
 
-[Verlagsgeschichte ▻](#listview-verlagsgeschichte)
+[Verlagsgeschichte](https://www.duden.de/ueber_duden/verlagsgeschichte)
 
 [Verlagsprogramm](https://www.duden.de/programm)
 
@@ -170,7 +170,7 @@
 
 [Das Dudenkorpus](https://www.duden.de/ueber_duden/Partner)
 
-[Das Wort des Tages ▻](#listview-das-wort-des-tages)
+[Das Wort des Tages](https://www.duden.de/wort-des-tages)
 
 [Konrad-Duden-Preis](https://www.duden.de/ueber_duden/konrad-duden-preis)
 
@@ -179,20 +179,6 @@
 [Wie kommt ein Wort in den Duden?](https://www.duden.de/ueber_duden/wie-kommt-ein-wort-in-den-duden)
 
 [Über die Duden-Sprachberatung](https://www.duden.de/ueber_duden/sprachberatung)
-
-[◁ Das Wort des Tages](#listview-dudenredaktion)
-
-[Wort des Tages - Archiv I](https://www.duden.de/wort-des-tages/archiv-1)
-
-[Wort des Tages - Archiv II](https://www.duden.de/wort-des-tages/archiv-2)
-
-[Wort des Tages - Archiv III](https://www.duden.de/wort-des-tages/archiv-3)
-
-[Wort des Tages - Archiv IV](https://www.duden.de/wort-des-tages/archiv-4)
-
-[◁ Verlagsgeschichte](#listview-ber-uns)
-
-[Konrad Duden](https://www.duden.de/ueber_duden/konrad-duden)
 
 [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024) [Der neue Duden 2024 – ab jetzt erhältlich!](https://shop.duden.de/Duden-Die-deutsche-Rechtschreibung/9783411040193?campaignCode=do-duden-2024)
 
@@ -515,4 +501,4 @@ Folgen sie uns
 
 © Cornelsen Verlag GmbH, 2024
 
-[AGB](https://www.duden.de/service/agb "Allgemeine Geschäftsbedingungen") 　[Datenschutz­erklärung](https://www.duden.de/service/datenschutz "Datenschutzerklärung") 　[Privacy Manager](https://www.duden.de/service/datenschutz#prvcmgr) 　[Widerrufsrecht](https://www.duden.de/service/widerrufsrecht "Widerrufsrecht") 　[Impressum](https://www.duden.de/service/impressum "Impressum") 　[Sitemap](https://www.duden.de/sitemap-lexeme)
+[AGB](https://www.duden.de/service/agb "Allgemeine Geschäftsbedingungen") 　[Datenschutz­erklärung](https://www.duden.de/service/datenschutz "Datenschutzerklärung") 　[Impressum](https://www.duden.de/service/impressum "Impressum") 　[Privacy Manager](https://www.duden.de/service/datenschutz#prvcmgr) 　[Widerrufsrecht](https://www.duden.de/service/widerrufsrecht "Widerrufsrecht") 　[Sitemap](https://www.duden.de/sitemap-ueberblick) 　[Stichwörter](https://www.duden.de/sitemap-lexeme)
