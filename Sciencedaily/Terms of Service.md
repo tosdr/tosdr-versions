@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 9, 2024**
+**October 10, 2024**
 
 * * *
 
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
+[Joint Health](https://www.sciencedaily.com/news/health_medicine/joint_health/)
+
+[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
 [Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
-[Joint Health](https://www.sciencedaily.com/news/health_medicine/joint_health/)
-
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Quantum Computers](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
+[Big Bang](https://www.sciencedaily.com/news/space_time/big_bang/)
 
 [Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
 
-[NASA](https://www.sciencedaily.com/news/space_time/nasa/)
+[Weapons Technology](https://www.sciencedaily.com/news/matter_energy/weapons_technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Mating and Breeding](https://www.sciencedaily.com/news/plants_animals/mating_and_breeding/)
+
+[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
+
 [Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
-
-[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
-
-[Oceanography](https://www.sciencedaily.com/news/earth_climate/oceanography/)
 
   
 
