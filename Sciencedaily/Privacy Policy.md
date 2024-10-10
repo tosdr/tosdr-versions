@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 9, 2024**
+**October 10, 2024**
 
 * * *
 
@@ -228,7 +228,7 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
+[Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
 
 [Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
@@ -236,19 +236,19 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Quantum Computers](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
+[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
+
+[Alternative Fuels](https://www.sciencedaily.com/news/matter_energy/alternative_fuels/)
 
 [Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
 
-[NASA](https://www.sciencedaily.com/news/space_time/nasa/)
-
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
+
+[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
 
 [Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
 
-[Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
-
-[Oceanography](https://www.sciencedaily.com/news/earth_climate/oceanography/)
+[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
   
 
