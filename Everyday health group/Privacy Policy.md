@@ -58,7 +58,7 @@ Featured stories
 
 ![ ](https://images.everydayhealth.com/images/news/americans-estranged-family-member-disagreements-political-views-1440x810.jpg)
 
-1 in 5 Americans Are Estranged From Family Over Political Disagreement](https://www.everydayhealth.com/emotional-health/one-in-five-americans-estranged-over-political-disagreement/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+1 in 5 Americans May Be Estranged From Family Over Political Disagreement](https://www.everydayhealth.com/emotional-health/one-in-five-americans-estranged-over-political-disagreement/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/viruses-teeming-on-toothbrush-showerhead-1440x810.jpg)
 
