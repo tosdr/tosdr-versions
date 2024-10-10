@@ -178,7 +178,7 @@ Which version?
 
 [About Us](https://www.thestardustapp.com/about-us.html) [About Your Data](https://www.thestardustapp.com/about-your-data.html) [Contact](https://www.thestardustapp.com/contact.html)
 
-[Terms of Use](https://www.thestardustapp.com/terms-of-use.html) [Privacy Policy](https://www.thestardustapp.com/privacy-policy.html)
+[Terms of Use](https://www.thestardustapp.com/terms-of-use.html) [Privacy Policy](https://www.thestardustapp.com/privacy-policy.html) [Health Data Privacy Policy](https://www.thestardustapp.com/health-data-privacy-policy.html)
 
 [![](images/Google-Play-Badge.svg)](https://play.google.com/store/apps/details?id=com.stardust.app&hl=en_US&gl=US) [![](images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/us/app/stardust-period-tracker/id1495829322)
 
