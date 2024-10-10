@@ -168,25 +168,25 @@ For stewardship purposes, we will not be able to write, edit, or proofread scien
 
 More Acts & Facts
 
-[![](/i/articles/af/af2309-webcover.jpg)](https://www.icr.org/article/14242)
+[![](/i/articles/af/af2212-webcover.jpg)](https://www.icr.org/article/13795)
 
-[September-October 2023](https://www.icr.org/article/14242/)
-
-...
-
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
-
-[![](/i/articles/af/af2107-webcover.jpg)](https://www.icr.org/article/12843)
-
-[July 2021](https://www.icr.org/article/12843/)
+[Kids Edition 2022](https://www.icr.org/article/13795/)
 
 ...
 
 BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/articles/af/af2105-webcover.jpg)](https://www.icr.org/article/12772)
+[![](/i/articles/af/af2011-webcover.jpg)](https://www.icr.org/article/12463)
 
-[May 2021](https://www.icr.org/article/12772/)
+[November 2020](https://www.icr.org/article/12463/)
+
+...
+
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+
+[![](/i/articles/af/af2005-webcover.jpg)](https://www.icr.org/article/11907)
+
+[May 2020](https://www.icr.org/article/11907/)
 
 ...
 
