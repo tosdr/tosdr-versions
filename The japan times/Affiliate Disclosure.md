@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 10, 2024](https://www.japantimes.co.jp/archive/2024/10/10/ "archive page")
+[October 11, 2024](https://www.japantimes.co.jp/archive/2024/10/11/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -138,17 +138,17 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426860.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.")](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
 
-[Trio of scientists win chemistry Nobel for work on the structure of proteins](https://www.japantimes.co.jp/news/2024/10/09/world/science-health/nobel-prize-chemistry/ "Trio of scientists win chemistry Nobel for work on the structure of proteins")
-
-  [![A screen shows the 2024 laureates for the Nobel Prize in chemistry David Baker, Demis Hassabis and John M. Jumper during the award's announcement by the Royal Swedish Academy of Sciences in Stockholm on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426911.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A screen shows the 2024 laureates for the Nobel Prize in chemistry David Baker, Demis Hassabis and John M. Jumper during the award's announcement by the Royal Swedish Academy of Sciences in Stockholm on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/09/world/science-health/nobel-prize-chemistry/ "Trio of scientists win chemistry Nobel for work on the structure of proteins")
-
 [Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
 
   [![Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426811.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ")](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
 
-[Hedge funds warming to yen caught out by biggest drop in 15 years](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
+[LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ldp-not-endorsing-12-politicians/ "LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election")
 
-  [![Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426578.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.")](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
+  [![Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426713.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ldp-not-endorsing-12-politicians/ "LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election")
+
+[NHK to charge monthly online viewer fee of ¥1,100 starting next year](https://www.japantimes.co.jp/news/2024/10/09/japan/nhk-online-viewer-fee/ "NHK to charge monthly online viewer fee of ¥1,100 starting next year")
+
+  [![NHK plans to start charging online viewers in October of next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426776.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "NHK plans to start charging online viewers in October of next year.")](https://www.japantimes.co.jp/news/2024/10/09/japan/nhk-online-viewer-fee/ "NHK to charge monthly online viewer fee of ¥1,100 starting next year")
 
 Editors' Picks
 --------------
@@ -169,14 +169,6 @@ By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Hima
 
   [![The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426860.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.")](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
 
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
-
-[Trio of scientists win chemistry Nobel for work on the structure of proteins](https://www.japantimes.co.jp/news/2024/10/09/world/science-health/nobel-prize-chemistry/ "Trio of scientists win chemistry Nobel for work on the structure of proteins")
-
-By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
-
-  [![A screen shows the 2024 laureates for the Nobel Prize in chemistry David Baker, Demis Hassabis and John M. Jumper during the award's announcement by the Royal Swedish Academy of Sciences in Stockholm on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426911.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A screen shows the 2024 laureates for the Nobel Prize in chemistry David Baker, Demis Hassabis and John M. Jumper during the award's announcement by the Royal Swedish Academy of Sciences in Stockholm on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/09/world/science-health/nobel-prize-chemistry/ "Trio of scientists win chemistry Nobel for work on the structure of proteins")
-
 [SUMO](https://www.japantimes.co.jp/sports/sumo/ "SUMO")
 
 [Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
@@ -185,13 +177,19 @@ By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gu
 
   [![Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426811.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ")](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Hedge funds warming to yen caught out by biggest drop in 15 years](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
+[LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ldp-not-endorsing-12-politicians/ "LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election")
 
-By [Ruth Carson](https://www.japantimes.co.jp/author/1509/ruth-carson/ "Ruth Carson") and [Mia Glass](https://www.japantimes.co.jp/author/3540/mia-glass/ "Mia Glass")  
+By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston")  
 
-  [![Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/08/426578.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Speculative investors flipped to a net long position on the yen just before Prime Minister Shigeru Ishiba said the nation wasn’t ready for further interest rate hikes, data shows.")](https://www.japantimes.co.jp/business/2024/10/08/markets/hedge-funds-yen-buy/ "Hedge funds warming to yen caught out by biggest drop in 15 years")
+  [![Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426713.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ldp-not-endorsing-12-politicians/ "LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[NHK to charge monthly online viewer fee of ¥1,100 starting next year](https://www.japantimes.co.jp/news/2024/10/09/japan/nhk-online-viewer-fee/ "NHK to charge monthly online viewer fee of ¥1,100 starting next year")
+
+  [![NHK plans to start charging online viewers in October of next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426776.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "NHK plans to start charging online viewers in October of next year.")](https://www.japantimes.co.jp/news/2024/10/09/japan/nhk-online-viewer-fee/ "NHK to charge monthly online viewer fee of ¥1,100 starting next year")
 
 Podcast
 -------
@@ -254,25 +252,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Tottori assembly passes ordinance on election poster board use](https://www.japantimes.co.jp/news/2024/10/10/japan/tottori-assembly-ordinance-election-poster-use/ "Tottori assembly passes ordinance on election poster board use")
+
+4 hours ago
+
+[2025 Expo head expects ticket sales to speed up](https://www.japantimes.co.jp/news/2024/10/10/japan/2025-expo-head-ticket-sales/ "2025 Expo head expects ticket sales to speed up")
+
+5 hours ago
+
+[South Korean author Han Kang wins Nobel Prize in literature](https://www.japantimes.co.jp/news/2024/10/10/world/literature-nobel-han-kang/ "South Korean author Han Kang wins Nobel Prize in literature")
+
+6 hours ago
+
 [Aomori Prefecture rejects proposed high-level nuclear waste delivery](https://www.japantimes.co.jp/news/2024/10/10/japan/aomori-nuclear-waste-refusal/ "Aomori Prefecture rejects proposed high-level nuclear waste delivery")
 
-4 mins ago
+6 hours ago
 
 [Ishiba keeps low profile as he makes diplomatic debut](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
 
-40 mins ago
-
-[Ban on dual nationality is constitutional, Fukuoka High Court rules](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
-
-1 hours ago
-
-[Seven & I to embrace 7-Eleven name as it sheds noncore businesses](https://www.japantimes.co.jp/business/2024/10/10/companies/seven-i-earnings/ "Seven & I to embrace 7-Eleven name as it sheds noncore businesses")
-
-2 hours ago
-
-[1 in 8 girls and women raped or sexually assaulted before 18, UNICEF says](https://www.japantimes.co.jp/news/2024/10/10/world/society/un-report-sexual-violence/ "1 in 8 girls and women raped or sexually assaulted before 18, UNICEF says")
-
-2 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
