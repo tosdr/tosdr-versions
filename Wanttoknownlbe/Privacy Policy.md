@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/dijkhuizen-stuurt-een-bizarre-discussie-aan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/buitenaards-leven-doofpotten-complotten-en-speculaties/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
