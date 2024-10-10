@@ -89,6 +89,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
+            ### [A viral gene drive could offer a new approach to fighting herpes](https://www.sciencenews.org/article/gene-drive-herpes-simplex-virus)
+            
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")4 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
             ### [New electrical stitches use muscle movement to speed up healing](https://www.sciencenews.org/article/electrical-stitches-muscle-healing)
             
             By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 8, 2024
@@ -99,12 +105,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")October 8, 2024
             
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Blood pressure may read falsely high if the arm isn’t positioned properly](https://www.sciencenews.org/article/blood-pressure-reading-arm-position)
-            
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")October 7, 2024
-            
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
         * [Animals](https://www.sciencenews.org/topic/animals)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Paleontology](https://www.sciencenews.org/topic/paleontology)
+    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [Hair pulling prompts one of the fastest known pain signals](https://www.sciencenews.org/article/hair-pull-pain-signal-nerve)
+            
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")44 mins ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [A viral gene drive could offer a new approach to fighting herpes](https://www.sciencenews.org/article/gene-drive-herpes-simplex-virus)
+            
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")4 hours ago
+            
+        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
             
             ### [The largest arthropod to ever live finally has a head](https://www.sciencenews.org/article/largest-arthropod-head) 
             
-            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")21 hours ago
-            
-        * [Chemistry](https://www.sciencenews.org/topic/chemistry)
-            
-            ### [Work on protein structure and design wins the 2024 chemistry Nobel](https://www.sciencenews.org/article/nobel-prize-chemistry-2024-proteins)
-            
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")October 9, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [To tell a right-trunked elephant from a lefty, check the wrinkles](https://www.sciencenews.org/article/elephant-trunk-wrinkles)
-            
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")October 8, 2024
+            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")October 9, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -138,23 +138,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Earth](https://www.sciencenews.org/topic/earth)
+    * * [Science & Society](https://www.sciencenews.org/topic/science-society)
+            
+            ### [There’s a new term for attempting to own the wind: ventography](https://www.sciencenews.org/article/wind-ownership-ventography)
+            
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")6 hours ago
+            
+        * [Earth](https://www.sciencenews.org/topic/earth)
             
             ### [What leads rivers to suddenly change course?](https://www.sciencenews.org/article/why-rivers-suddenly-change-course)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")2 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")8 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [Climate change fueled the fury of hurricanes Helene and Milton](https://www.sciencenews.org/article/climate-change-hurricanes-helene-milton)
             
             By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")October 9, 2024
-            
-        * [Oceans](https://www.sciencenews.org/topic/oceans)
-            
-            ### [A transatlantic flight may turn Saharan dust into a key ocean nutrient](https://www.sciencenews.org/article/saharan-dust-becomes-ocean-nutrient)
-            
-            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")October 4, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
