@@ -234,8 +234,8 @@ Follow us on
 
 Download JustPark App
 
-* [![AppStore](https://static.justpark.com/web/assets/appstore_light_bt.v1.1370ada9.svg)](https://justpark.onelink.me/eUfx/448422cd)
-* [![Google Play](https://static.justpark.com/web/assets/googleplay_light_bt.v1.b6b023d0.svg)](https://justpark.onelink.me/n8HU/464fc314)
+* [![AppStore](https://static.justpark.com/web/assets/appstore_light_bt-BlJ7Gr6j.svg)](https://justpark.onelink.me/eUfx/448422cd)
+* [![Google Play](https://static.justpark.com/web/assets/googleplay_light_bt-BINJiWFl.svg)](https://justpark.onelink.me/n8HU/464fc314)
 
 EnglishCymraegAmerican
 
