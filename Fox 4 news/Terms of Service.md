@@ -393,6 +393,14 @@ Nothing contained in this Agreement limits Fox’s right to comply with governme
 
 Please contact the Site Administrator with any questions regarding this Agreement by sending an email to: [**Terms-KDFW@fox.com**](mailto:Terms-KDFW@fox.com)
 
+[![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/milton-lanfall.jpg?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
+
+WATCH LIVE COVERAGE
+
+[Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
+
+[Milton moved through Florida on Thursday after slamming into the state as a Category 3 hurricane – causing at least four deaths and leaving millions without power.](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
+
 [![Hurricane Milton update: Storm weakens to Category 2, flash flood emergency issued for Tampa Bay](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/foxwx5pmradar.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
 WATCH LIVE COVERAGE
@@ -417,21 +425,13 @@ WATCH LIVE COVERAGE
 
 [Here the view from live cameras up and down the west coast of Florida, from Clearwater to Tampa to Sarasota, as Hurricane Milton comes ashore.](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
 
-[![Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/149/84/dog-rescued-main-image.jpg?ve=1&tl=1)](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near)
+[![Tropicana Field roof ripped off by Hurricane Milton](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/149/84/gettyimages-2177012789.jpg?ve=1&tl=1)](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
 
 WATCH LIVE COVERAGE
 
-[Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near)
+[Tropicana Field roof ripped off by Hurricane Milton](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
 
-[A dog left to fend for himself during Hurricane Milton has been rescued by the Florida Highway Patrol.](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near) 
-
-[![Chilling warnings for Tampa Bay area residents ahead of Hurricane Milton](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/gettyimages-2176914630.jpg?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-tampa-bay-evacuation-warnings)
-
-WATCH LIVE COVERAGE
-
-[Chilling warnings for Tampa Bay area residents ahead of Hurricane Milton](https://www.fox4news.com/news/hurricane-milton-tampa-bay-evacuation-warnings)
-
-[Hurricane Milton is on track to slam into the west coast of Florida as one of the most destructive storms the Tampa Bay area has ever seen. Local officials are not mincing words as they urge storm-weary residents to evacuate.](https://www.fox4news.com/news/hurricane-milton-tampa-bay-evacuation-warnings)
+[Tropicana Field, home to the Tampa Bay Rays, was set to serve as the home base for thousands of emergency responders who set up camp ahead of Hurricane Milton.](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
 
 ###### [News](https://www.fox4news.com/news)
 
