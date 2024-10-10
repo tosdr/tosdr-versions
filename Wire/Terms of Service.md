@@ -106,6 +106,7 @@ Legislation & Compliance 
 
 * [About Us](https://wire.com/about-us)
 * [Career](https://wire-1.jobs.personio.de/?language=en)
+* [Brand Portal](https://wire.com/brand-portal)
 * [Transparency](https://wire.com/en/transparency-report)
 * [Wire Cloud Status](https://status.wire.com/)
 * [Privacy Policy](https://wire.com/en/privacy-policy)
