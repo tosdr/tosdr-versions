@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ It is not enough to have a good mind; the main thing is to use it well”
+“ Premature optimization is the root of all evil”
 
-[Rene Descartes](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+[Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
 
 [](https://www.adafruit.com/about)
 
