@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
-* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
-* [ProReal 9 und 10: Anlegern droht bei zwei Angeboten der One Group ein Total­verlust](https://www.test.de/ProReal-9-und-10-Anlegern-droht-bei-zwei-Angeboten-der-One-Group-ein-Totalverlust-6114639-0/ "ProReal 9 und 10 - Anlegern droht bei zwei Angeboten der One Group ein Totalverlust")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Waystone Investments: Angebote von Post­bank und Qonto nicht echt](https://www.test.de/Waystone-Investments-Angebote-von-Postbank-und-Qonto-nicht-echt-6157734-0/ "Waystone Investments - Angebote von Postbank und Qonto nicht echt")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Geldmarkt-Portfolio und Zins­Invest: Gute Idee, aber zu teuer](https://www.test.de/Geldmarkt-Portfolio-und-ZinsInvest-Die-Idee-ist-gut-aber-zu-teuer-5996542-0/ "Geldmarkt-Portfolio und ZinsInvest - Gute Idee, aber zu teuer")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
-* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
-* [ProReal 9 und 10: Anlegern droht bei zwei Angeboten der One Group ein Total­verlust](https://www.test.de/ProReal-9-und-10-Anlegern-droht-bei-zwei-Angeboten-der-One-Group-ein-Totalverlust-6114639-0/ "ProReal 9 und 10 - Anlegern droht bei zwei Angeboten der One Group ein Totalverlust")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Waystone Investments: Angebote von Post­bank und Qonto nicht echt](https://www.test.de/Waystone-Investments-Angebote-von-Postbank-und-Qonto-nicht-echt-6157734-0/ "Waystone Investments - Angebote von Postbank und Qonto nicht echt")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Geldmarkt-Portfolio und Zins­Invest: Gute Idee, aber zu teuer](https://www.test.de/Geldmarkt-Portfolio-und-ZinsInvest-Die-Idee-ist-gut-aber-zu-teuer-5996542-0/ "Geldmarkt-Portfolio und ZinsInvest - Gute Idee, aber zu teuer")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
-* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
-* [ProReal 9 und 10: Anlegern droht bei zwei Angeboten der One Group ein Total­verlust](https://www.test.de/ProReal-9-und-10-Anlegern-droht-bei-zwei-Angeboten-der-One-Group-ein-Totalverlust-6114639-0/ "ProReal 9 und 10 - Anlegern droht bei zwei Angeboten der One Group ein Totalverlust")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Waystone Investments: Angebote von Post­bank und Qonto nicht echt](https://www.test.de/Waystone-Investments-Angebote-von-Postbank-und-Qonto-nicht-echt-6157734-0/ "Waystone Investments - Angebote von Postbank und Qonto nicht echt")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Geldmarkt-Portfolio und Zins­Invest: Gute Idee, aber zu teuer](https://www.test.de/Geldmarkt-Portfolio-und-ZinsInvest-Die-Idee-ist-gut-aber-zu-teuer-5996542-0/ "Geldmarkt-Portfolio und ZinsInvest - Gute Idee, aber zu teuer")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
-* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
-* [ProReal 9 und 10: Anlegern droht bei zwei Angeboten der One Group ein Total­verlust](https://www.test.de/ProReal-9-und-10-Anlegern-droht-bei-zwei-Angeboten-der-One-Group-ein-Totalverlust-6114639-0/ "ProReal 9 und 10 - Anlegern droht bei zwei Angeboten der One Group ein Totalverlust")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Waystone Investments: Angebote von Post­bank und Qonto nicht echt](https://www.test.de/Waystone-Investments-Angebote-von-Postbank-und-Qonto-nicht-echt-6157734-0/ "Waystone Investments - Angebote von Postbank und Qonto nicht echt")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Geldmarkt-Portfolio und Zins­Invest: Gute Idee, aber zu teuer](https://www.test.de/Geldmarkt-Portfolio-und-ZinsInvest-Die-Idee-ist-gut-aber-zu-teuer-5996542-0/ "Geldmarkt-Portfolio und ZinsInvest - Gute Idee, aber zu teuer")
 
 Service Stiftung Warentest
 
