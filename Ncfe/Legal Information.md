@@ -54,7 +54,6 @@
         * [Functional Skills pass rates](https://www.ncfe.org.uk/qualifications/delivery-support/functional-skills/functional-skills-pass-rates/)
         * [Online sample assessments](https://www.ncfe.org.uk/qualifications/delivery-support/functional-skills/online-sample-assessments-english-maths/)
         * [Functional Skills events](https://www.ncfe.org.uk/qualifications/delivery-support/functional-skills/events/)
-        * [Functional Skills ICT assessment resources and preparation](https://www.ncfe.org.uk/qualifications/delivery-support/functional-skills/ict-resources-prep/)
         * [Assessment delivery, post-results services and feedback](https://www.ncfe.org.uk/qualifications/delivery-support/functional-skills/assessment-delivery/)
         * [Learner Toolkit](https://www.ncfe.org.uk/qualifications/delivery-support/functional-skills/learner-toolkit/)
     * [T Level provider hub](https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/)
