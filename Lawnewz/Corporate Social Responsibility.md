@@ -113,25 +113,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Clejuan Williams](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Clejuan-Williams-432x243.jpg)](https://lawandcrime.com/crime/intoxicated-father-teaching-9-year-old-son-how-to-drive-run-over-by-vehicle-cops/)
-    
-    ### [Intoxicated father teaching 9-year-old son how to drive run over by vehicle: Cops](https://lawandcrime.com/crime/intoxicated-father-teaching-9-year-old-son-how-to-drive-run-over-by-vehicle-cops/)
-    
-2. [![FILE - Colorado lawyer Autumn Scardina poses for a photo outside the Ralph Carr Colorado Judicial Center, Oct. 5, 2022, in Denver. Scardina, who is transgender, sued Colorado baker Jack Phillips after he refused to make her a cake intended to celebrate her gender transition. Colorado’s highest court said Tuesday, Oct. 3, 2023, that it will hear the case of the Christian baker who refused to make a cake celebrating a gender transition. (AP Photo/Colleen Slevin, File). Inset: FILE - Jack Phillips, who's case was heard by the Supreme Court several years ago after he objected to designing a wedding cake for a gay couple, speaks to supporters outside the Supreme Court, Dec. 5, 2022, in Washington. Colorado’s highest court said Tuesday, Oct. 3, 2023, that it will hear the case of Phillips, a Christian baker who refused to make a cake celebrating a gender transition. (AP Photo/Andrew Harnik, File)](https://am24.mediaite.com/lc/cnt/uploads/2023/10/Autumn-Scardina-Jack-Phillips-432x243.jpg)](https://lawandcrime.com/high-profile/masterpiece-cakeshop-owner-of-supreme-court-fame-notches-another-win-this-time-after-refusing-to-bake-cake-celebrating-transition-of-transgender-lawyer/)
-    
-    ### [Masterpiece Cakeshop owner of Supreme Court fame notches another win, this time after refusing to bake cake celebrating transition of transgender lawyer](https://lawandcrime.com/high-profile/masterpiece-cakeshop-owner-of-supreme-court-fame-notches-another-win-this-time-after-refusing-to-bake-cake-celebrating-transition-of-transgender-lawyer/)
-    
-3. [![Wyatt Testerman](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Testerman-432x243.jpg)](https://lawandcrime.com/crime/18-year-old-grandson-appears-emotionless-after-allegedly-beating-grandma-to-death-with-metal-drinking-tumbler-and-his-fists-for-no-apparent-reason/)
+1. [![Wyatt Testerman](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Testerman-432x243.jpg)](https://lawandcrime.com/crime/18-year-old-grandson-appears-emotionless-after-allegedly-beating-grandma-to-death-with-metal-drinking-tumbler-and-his-fists-for-no-apparent-reason/)
     
     ### [18-year-old grandson appears emotionless after allegedly beating grandma to death with 'metal drinking tumbler' and his fists for 'no apparent reason'](https://lawandcrime.com/crime/18-year-old-grandson-appears-emotionless-after-allegedly-beating-grandma-to-death-with-metal-drinking-tumbler-and-his-fists-for-no-apparent-reason/)
     
-4. [![Popular post image](https://am24.mediaite.com/lc/cnt/uploads/2023/07/Gary-Wilcox-1-2-432x243.jpeg)](https://lawandcrime.com/judiciary/whoop-my-a-judge-who-posted-tiktok-videos-from-chambers-courthouse-faces-the-music/)
+2. [![Piper Rockelle, on the left; Tiffany Smith, on the right; former members of the Piper Squad, inset](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Rockelle-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/so-called-pimp-of-youtube-settles-abuse-lawsuit-with-group-of-teenagers-who-once-worked-with-her-superstar-daughter/)
     
-    ### ['Whoop my a--': Judge who posted TikTok videos from chambers, courthouse faces the music](https://lawandcrime.com/judiciary/whoop-my-a-judge-who-posted-tiktok-videos-from-chambers-courthouse-faces-the-music/)
+    ### [So-called 'pimp' of YouTube settles abuse lawsuit with group of teenagers who once worked with her superstar daughter](https://lawandcrime.com/high-profile/so-called-pimp-of-youtube-settles-abuse-lawsuit-with-group-of-teenagers-who-once-worked-with-her-superstar-daughter/)
     
-5. [![Judge Steve Stambaugh](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Steve-Stambaugh-432x243.jpg)](https://lawandcrime.com/crime/harley-davidson-riding-attorney-turned-judge-cooked-up-scheme-to-unjustly-enrich-himself-during-covid-19-pandemic-and-obstructed-justice-after-his-election-feds/)
+3. [![Clejuan Williams](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Clejuan-Williams-432x243.jpg)](https://lawandcrime.com/crime/intoxicated-father-teaching-9-year-old-son-how-to-drive-run-over-by-vehicle-cops/)
     
-    ### [Harley-Davidson riding attorney turned judge cooked up scheme to 'unjustly enrich himself' during COVID-19 pandemic and obstructed justice after his election: Feds](https://lawandcrime.com/crime/harley-davidson-riding-attorney-turned-judge-cooked-up-scheme-to-unjustly-enrich-himself-during-covid-19-pandemic-and-obstructed-justice-after-his-election-feds/)
+    ### [Intoxicated father teaching 9-year-old son how to drive run over by vehicle: Cops](https://lawandcrime.com/crime/intoxicated-father-teaching-9-year-old-son-how-to-drive-run-over-by-vehicle-cops/)
+    
+4. [![FILE - Colorado lawyer Autumn Scardina poses for a photo outside the Ralph Carr Colorado Judicial Center, Oct. 5, 2022, in Denver. Scardina, who is transgender, sued Colorado baker Jack Phillips after he refused to make her a cake intended to celebrate her gender transition. Colorado’s highest court said Tuesday, Oct. 3, 2023, that it will hear the case of the Christian baker who refused to make a cake celebrating a gender transition. (AP Photo/Colleen Slevin, File). Inset: FILE - Jack Phillips, who's case was heard by the Supreme Court several years ago after he objected to designing a wedding cake for a gay couple, speaks to supporters outside the Supreme Court, Dec. 5, 2022, in Washington. Colorado’s highest court said Tuesday, Oct. 3, 2023, that it will hear the case of Phillips, a Christian baker who refused to make a cake celebrating a gender transition. (AP Photo/Andrew Harnik, File)](https://am24.mediaite.com/lc/cnt/uploads/2023/10/Autumn-Scardina-Jack-Phillips-432x243.jpg)](https://lawandcrime.com/high-profile/masterpiece-cakeshop-owner-of-supreme-court-fame-notches-another-win-this-time-after-refusing-to-bake-cake-celebrating-transition-of-transgender-lawyer/)
+    
+    ### [Masterpiece Cakeshop owner of Supreme Court fame notches another win, this time after refusing to bake cake celebrating transition of transgender lawyer](https://lawandcrime.com/high-profile/masterpiece-cakeshop-owner-of-supreme-court-fame-notches-another-win-this-time-after-refusing-to-bake-cake-celebrating-transition-of-transgender-lawyer/)
+    
+5. [![FILE - A young Kansas City Chiefs fan, dressed with a headdress and face paint, looks on during an NFL football game against the Las Vegas Raiders, Sunday, Nov. 26, 2023, in Las Vegas. (AP Photo/David Becker, File)](https://am21.mediaite.com/lc/cnt/uploads/2024/10/chiefsfan-432x243.jpg)](https://lawandcrime.com/lawsuit/deadspins-provable-false-assertions-in-article-about-9-year-old-chiefs-fan-in-face-paint-headdress-just-came-back-to-haunt-website-in-defamation-suit/)
+    
+    ### [Deadspin’s ‘provable false assertions’ in article about 9-year-old Chiefs fan in face paint, headdress just came back to haunt website in defamation suit](https://lawandcrime.com/lawsuit/deadspins-provable-false-assertions-in-article-about-9-year-old-chiefs-fan-in-face-paint-headdress-just-came-back-to-haunt-website-in-defamation-suit/)
     
 
 [](http://eepurl.com/c89Jdb)
