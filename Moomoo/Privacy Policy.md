@@ -1,88 +1,5 @@
 [](https://www.moomoo.com/us)
 
-* What We Offer
-    
-    * Trading Products
-        
-        * [Options](https://www.moomoo.com/us/invest/options)
-        * [Stocks](https://www.moomoo.com/us/invest/stocks)
-        * [ETFs](https://www.moomoo.com/us/invest/etf)
-        * [Fractional Shares](https://www.moomoo.com/us/fractionalshares)
-        * [Cash Sweep](https://www.moomoo.com/us/invest/cashsweep)
-        
-    * Market
-        
-        * [Stocks](https://www.moomoo.com/quote)
-        * [Options](https://www.moomoo.com/quote/options-us/total-volume/stock)
-        * [Futures](https://www.moomoo.com/quote/futures-us/equity-index)
-        * [ETF](https://www.moomoo.com/quote/etf-us/most-active-etfs)
-        * [Forex](https://www.moomoo.com/quote/forex/market-map)
-        
-    * Fundamental Tools
-        
-        * [Paper Trade](https://www.moomoo.com/us/papertrading)
-        * [Level 2 Data](https://www.moomoo.com/us/feature/level2data)
-        * [Charts](https://www.moomoo.com/us/feature/charts)
-        * [Stock Analysis](https://www.moomoo.com/us/feature/stocks-analysis)
-        
-    * Technical Tool
-        
-        * [Stock Screener](https://www.moomoo.com/screener)
-        * [Heat Map](https://www.moomoo.com/heatmap-us)
-        * [Earnings Calendar](https://www.moomoo.com/quote/calendar)
-        * [Institutional Tracker](https://www.moomoo.com/quote/institution-tracking)
-        * [Paper Trade](https://www.moomoo.com/us/paper-trade)
-        
-    
-* Pricing
-    
-    * [Pricing](https://www.moomoo.com/us/pricing)
-    * [Margin Rate](https://www.moomoo.com/us/invest/margin)
-    
-* Promotion
-    
-    * [Welcome Bonus](https://www.moomoo.com/us/activity/welcome?channel=5&subchannel=100)
-    * [Referral Promotion](https://invest.us.moomoo.com/newreferral_invite?channel=47&subchannel=1)
-    * [Transfer in](https://invest.us.moomoo.com/nup_transfer?global_content=%7B%22promote_content%22%3A%223670%22%2C%22promote_id%22%3A13764%2C%22promote_type%22%3A37%2C%22sub_promote_id%22%3A1%7D)
-    * [Nasdaq Market Depth](https://www.moomoo.com/us/events/nasdaqtotalview)
-    * [Learn Premium](https://invest.us.moomoo.com/learnpremium?global_content=%7B%22promote_content%22%3A7%2C%22promote_type%22%3A7%7D&lang=en-us)
-    
-* News & Resources
-    
-    * Resources
-        
-        * [Learn](https://www.moomoo.com/us/learn)
-        * [Strategies & Insights](https://www.moomoo.com/us/learn/list/strategies-and-insights-27605634178351121)
-        * [moomoo Guide](https://www.moomoo.com/us/learn/list/moomoo-27333372527247377)
-        
-    * News
-        
-        * [Headlines](https://www.moomoo.com/news/main)
-        * [Trending Topics](https://www.moomoo.com/news/main/topic)
-        
-    * Moomoo Community
-        
-        * [Feed](https://www.moomoo.com/community/nnq)
-        * [Discussions](https://www.moomoo.com/community/nnq/topic-square/recommended-1)
-        * [Featured Content](https://www.moomoo.com/us/featured)
-        
-    
-* About us
-    
-    * [About us](https://www.moomoo.com/us/about)
-    * [Moomoo Foundation Overview](https://www.moomoo.com/us/moomoofoundation)
-    * [Newsroom](https://www.moomoo.com/us/newsroom)
-    * [Influencer Program](https://influencers.moomoo.com/us)
-    * [Investor Relations](https://ir.futuholdings.com/)
-    
-* [Support](https://www.moomoo.com/us/support/faq)
-
-Log in
-
-* English
-* 中文繁體
-* 中文简体
-
 [Download](https://www.moomoo.com/us/download)
 
 Mobile
@@ -97,88 +14,247 @@ Desktop
 
 [View more versions](https://www.moomoo.com/us/download)
 
+[About us](https://www.moomoo.com/us/about)
+
+* English
+* 中文繁體
+* 中文简体
+
+* Markets
+    
+    * [Stocks
+        
+        Real-time stock quotes](https://www.moomoo.com/quote)
+    * [Options
+        
+        In-depth options trading](https://www.moomoo.com/quote/options-us/total-volume/stock)
+    * [Futures
+        
+        Invest in futures contracts](https://www.moomoo.com/quote/futures-us/equity-index)
+    * [ETF
+        
+        Diversify with exchange-traded funds](https://www.moomoo.com/quote/etf-us/most-active-etfs)
+    * [Forex
+        
+        Trade global currencies](https://www.moomoo.com/quote/forex/market-map)
+    
+* Products
+    
+    * [Screener
+        
+        Top performing stocks](https://www.moomoo.com/screener)
+    * [Heat Map
+        
+        Spot emerging industry trends](https://www.moomoo.com/heatmap-us)
+    * [Institutional Tracker
+        
+        Institutional investment strategies](https://www.moomoo.com/quote/institution-tracking)
+    * [Sparks
+        
+        Disruptive investment opportunities](https://www.moomoo.com/quote/sparks-us)
+    * [Earnings Calendar
+        
+        Follow upcoming earnings reports](https://www.moomoo.com/quote/calendar)
+    
+* News
+    
+    * [Headlines
+        
+        The most important news of the day](https://www.moomoo.com/news/main?lang=en-us)
+    * [24/7
+        
+        Get current, latest, and breaking news 24/7](https://www.moomoo.com/news/main/live?lang=en-us)
+    * [Financial Calendar
+        
+        Find earnings, economics, and IPO calendars](https://www.moomoo.com/news/new-calendar?lang=en-us)
+    * [Topics
+        
+        Explore trending topics in investing and business](https://www.moomoo.com/news/main/topic?lang=en-us)
+    * [Video
+        
+        Watch the market news & analysis](https://www.moomoo.com/news/main/video-list?lang=en-us)
+    
+* Moo Community
+    
+    * [Feed
+        
+        Find inspiration for your next move](https://www.moomoo.com/community/nnq/square)
+    * [Topics
+        
+        Discuss hot topics with like-minded traders](https://www.moomoo.com/community/nnq/topic-square)
+    * [Featured Content
+        
+        Talk the latest earnings reports and trades](https://www.moomoo.com/featured)
+    
+* Learn
+    
+    * [Courses
+        
+        Everything you need to learn about investing](https://www.moomoo.com/us/learn)
+        
+        * [Options](https://www.moomoo.com/us/learn/list/options-27333365111717905)
+        * [Stocks](https://www.moomoo.com/us/learn/list/stocks-27333364574846993)
+        * [Strategies and Insights](https://www.moomoo.com/us/learn/list/strategies-and-insights-27605634178351121)
+        * [Perspectives](https://www.moomoo.com/us/learn/list/perspectives-27333372846014481)
+        * [Funds](https://www.moomoo.com/us/learn/list/funds-27102660188438545)
+        * [Moomoo Tutorials](https://www.moomoo.com/us/learn/list/moomoo-27333372527247377)
+        * [Earnings Report Forecast](https://www.moomoo.com/us/learn/list/moomoo-28114585655443474)
+        
+    * [Library
+        
+        Your complete guide to investing basics](https://www.moomoo.com/us/learn/wiki)
+    * [Learn Premium
+        
+        Expand and apply your investment skills and knowledge](https://www.moomoo.com/us/learn-premium)
+    
+* Investing
+    
+    * Investment Choices
+        
+        Explore investment products
+        
+        * [Cash Sweep](https://www.moomoo.com/us/invest/cashsweep)
+        * [Stocks](https://www.moomoo.com/us/invest/stocks)
+        * [Fractional Shares](https://www.moomoo.com/us/fractionalshares)
+        * [ETFs](https://www.moomoo.com/us/invest/etf)
+        * [Options](https://www.moomoo.com/us/invest/options)
+        * [Margin Trade](https://www.moomoo.com/us/invest/margin)
+        
+    * Features
+        
+        See our powerful trading features in action
+        
+        * [Charts](https://www.moomoo.com/us/feature/charts)
+        * [Stock Analysis](https://www.moomoo.com/us/feature/stocks-analysis)
+        * [Level 2 Data](https://www.moomoo.com/us/feature/level2data)
+        * [Nasdaq Market Depth](https://www.moomoo.com/us/events/nasdaqtotalview)
+        
+    * [Pricing
+        
+        Transparent fees, no account minimums](https://www.moomoo.com/us/pricing)
+    
+    Investing products, features and pricing are provided by Moomoo Financial Inc
+    
+
+Log in
+
+Open Account
+
+Financial services in the moomoo app are provided by Moomoo Financial Inc. You will be redirected to Moomoo Financial Inc's web domain, where the account application pages are hosted.
+
 Sign up/Log in
+
+[Account Info](https://myaccount.us.moomoo.com/user-center/account?lang=en-us)
+
+Log Out
 
 English
 
 Back
 
-* What We Offer
+* Markets
     
-    * Trading Products
+    * [Stocks
         
-        * [Options](https://www.moomoo.com/us/invest/options)
-        * [Stocks](https://www.moomoo.com/us/invest/stocks)
-        * [ETFs](https://www.moomoo.com/us/invest/etf)
-        * [Fractional Shares](https://www.moomoo.com/us/fractionalshares)
+        Real-time stock quotes](https://www.moomoo.com/quote)
+    * [Options
+        
+        In-depth options trading](https://www.moomoo.com/quote/options-us/total-volume/stock)
+    * [Futures
+        
+        Invest in futures contracts](https://www.moomoo.com/quote/futures-us/equity-index)
+    * [ETF
+        
+        Diversify with exchange-traded funds](https://www.moomoo.com/quote/etf-us/most-active-etfs)
+    * [Forex
+        
+        Trade global currencies](https://www.moomoo.com/quote/forex/market-map)
+    
+* Products
+    
+    * [Heat Map
+        
+        Spot emerging industry trends](https://www.moomoo.com/heatmap-us)
+    * [Institutional Tracker
+        
+        Institutional investment strategies](https://www.moomoo.com/quote/institution-tracking)
+    * [Sparks
+        
+        Disruptive investment opportunities](https://www.moomoo.com/quote/sparks-us)
+    * [Earnings Calendar
+        
+        Follow upcoming earnings reports](https://www.moomoo.com/quote/calendar)
+    
+* News
+    
+    * [Headlines
+        
+        The most important news of the day](https://www.moomoo.com/news/main?lang=en-us)
+    * [24/7
+        
+        Get current, latest, and breaking news 24/7](https://www.moomoo.com/news/main/live?lang=en-us)
+    * [Financial Calendar
+        
+        Find earnings, economics, and IPO calendars](https://www.moomoo.com/news/new-calendar?lang=en-us)
+    * [Topics
+        
+        Explore trending topics in investing and business](https://www.moomoo.com/news/main/topic?lang=en-us)
+    * [Video
+        
+        Watch the market news & analysis](https://www.moomoo.com/news/main/video-list?lang=en-us)
+    
+* Moo Community
+    
+    * [Feed
+        
+        Find inspiration for your next move](https://www.moomoo.com/community/nnq/square)
+    * [Featured Content
+        
+        Talk the latest earnings reports and trades](https://www.moomoo.com/featured)
+    
+* Learn
+    
+    * Courses
+        
+        * [Options](https://www.moomoo.com/us/learn/list/options-27333365111717905)
+        * [Stocks](https://www.moomoo.com/us/learn/list/stocks-27333364574846993)
+        * [Strategies and Insights](https://www.moomoo.com/us/learn/list/strategies-and-insights-27605634178351121)
+        * [Perspectives](https://www.moomoo.com/us/learn/list/perspectives-27333372846014481)
+        * [Funds](https://www.moomoo.com/us/learn/list/funds-27102660188438545)
+        * [Moomoo Tutorials](https://www.moomoo.com/us/learn/list/moomoo-27333372527247377)
+        * [Earnings Report Forecast](https://www.moomoo.com/us/learn/list/moomoo-28114585655443474)
+        
+    * [Library
+        
+        Your complete guide to investing basics](https://www.moomoo.com/us/learn/wiki)
+    * [Learn Premium
+        
+        Expand and apply your investment skills and knowledge](https://www.moomoo.com/us/learn-premium)
+    
+* Investing
+    
+    * Investment Choices
+        
         * [Cash Sweep](https://www.moomoo.com/us/invest/cashsweep)
+        * [Stocks](https://www.moomoo.com/us/invest/stocks)
+        * [Fractional Shares](https://www.moomoo.com/us/fractionalshares)
+        * [ETFs](https://www.moomoo.com/us/invest/etf)
+        * [Options](https://www.moomoo.com/us/invest/options)
+        * [Margin Trade](https://www.moomoo.com/us/invest/margin)
         
-    * Market
+    * Features
         
-        * [Stocks](https://www.moomoo.com/quote)
-        * [Options](https://www.moomoo.com/quote/options-us/total-volume/stock)
-        * [Futures](https://www.moomoo.com/quote/futures-us/equity-index)
-        * [ETF](https://www.moomoo.com/quote/etf-us/most-active-etfs)
-        * [Forex](https://www.moomoo.com/quote/forex/market-map)
-        
-    * Fundamental Tools
-        
-        * [Paper Trade](https://www.moomoo.com/us/papertrading)
-        * [Level 2 Data](https://www.moomoo.com/us/feature/level2data)
         * [Charts](https://www.moomoo.com/us/feature/charts)
         * [Stock Analysis](https://www.moomoo.com/us/feature/stocks-analysis)
+        * [Level 2 Data](https://www.moomoo.com/us/feature/level2data)
+        * [Nasdaq Market Depth](https://www.moomoo.com/us/events/nasdaqtotalview)
         
-    * Technical Tool
+    * [Pricing
         
-        * [Stock Screener](https://www.moomoo.com/screener)
-        * [Heat Map](https://www.moomoo.com/heatmap-us)
-        * [Earnings Calendar](https://www.moomoo.com/quote/calendar)
-        * [Institutional Tracker](https://www.moomoo.com/quote/institution-tracking)
-        * [Paper Trade](https://www.moomoo.com/us/paper-trade)
-        
+        Transparent fees, no account minimums](https://www.moomoo.com/us/pricing)
     
-* Pricing
+    Investing products, features and pricing are provided by Moomoo Financial Inc
     
-    * [Pricing](https://www.moomoo.com/us/pricing)
-    * [Margin Rate](https://www.moomoo.com/us/invest/margin)
-    
-* Promotion
-    
-    * [Welcome Bonus](https://www.moomoo.com/us/activity/welcome?channel=5&subchannel=100)
-    * [Referral Promotion](https://invest.us.moomoo.com/newreferral_invite?channel=47&subchannel=1)
-    * [Transfer in](https://invest.us.moomoo.com/nup_transfer?global_content=%7B%22promote_content%22%3A%223670%22%2C%22promote_id%22%3A13764%2C%22promote_type%22%3A37%2C%22sub_promote_id%22%3A1%7D)
-    * [Nasdaq Market Depth](https://www.moomoo.com/us/events/nasdaqtotalview)
-    * [Learn Premium](https://invest.us.moomoo.com/learnpremium?global_content=%7B%22promote_content%22%3A7%2C%22promote_type%22%3A7%7D&lang=en-us)
-    
-* News & Resources
-    
-    * Resources
-        
-        * [Learn](https://www.moomoo.com/us/learn)
-        * [Strategies & Insights](https://www.moomoo.com/us/learn/list/strategies-and-insights-27605634178351121)
-        * [moomoo Guide](https://www.moomoo.com/us/learn/list/moomoo-27333372527247377)
-        
-    * News
-        
-        * [Headlines](https://www.moomoo.com/news/main)
-        * [Trending Topics](https://www.moomoo.com/news/main/topic)
-        
-    * Moomoo Community
-        
-        * [Feed](https://www.moomoo.com/community/nnq)
-        * [Discussions](https://www.moomoo.com/community/nnq/topic-square/recommended-1)
-        * [Featured Content](https://www.moomoo.com/us/featured)
-        
-    
-* About us
-    
-    * [About us](https://www.moomoo.com/us/about)
-    * [Moomoo Foundation Overview](https://www.moomoo.com/us/moomoofoundation)
-    * [Newsroom](https://www.moomoo.com/us/newsroom)
-    * [Influencer Program](https://influencers.moomoo.com/us)
-    * [Investor Relations](https://ir.futuholdings.com/)
-    
-* [Support](https://www.moomoo.com/us/support/faq)
 
 * English
 * 中文繁體
@@ -186,8 +262,6 @@ Back
 
 * Dark
 * Light
-
-Open Account
 
 [Download](https://www.moomoo.com/us/download)
 
