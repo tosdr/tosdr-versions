@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Henry Rowley. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/people/300x200/h/henry_rowley_c.jpg "Henry Rowley. Credit: Matt Crockett")](https://www.comedy.co.uk/live/features/henry-rowley-interview/) Live
+
+[Henry Rowley talks about heading out on tour](https://www.comedy.co.uk/live/features/henry-rowley-interview/)
+
 [![Carry On Doctor. Nurse Sandra May (Barbara Windsor). Copyright: Peter Rogers Productions](https://cdn.comedy.co.uk/images/library/comedies/300x200/c/carry_on_doctor_sandra.jpg "Carry On Doctor. Nurse Sandra May (Barbara Windsor). Copyright: Peter Rogers Productions")](https://www.comedy.co.uk/quiz/327/) Quiz
 
 [British Comedy Quiz #327](https://www.comedy.co.uk/quiz/327/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Alma's Not Normal. Alma Nuthall (Sophie Willan)](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/almas_not_normal_series2.jpg "Alma's Not Normal. Alma Nuthall (Sophie Willan)")](https://www.comedy.co.uk/tv/almas_not_normal/interview/sophie-willan-series2/) TV
 
 [Sophie Willan talks about Alma's Not Normal Series 2](https://www.comedy.co.uk/tv/almas_not_normal/interview/sophie-willan-series2/)
-
-[![Rising Damp. Rupert Rigsby (Leonard Rossiter). Copyright: Yorkshire Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/r/rising_damp.jpg "Rising Damp. Rupert Rigsby (Leonard Rossiter). Copyright: Yorkshire Television")](https://www.comedy.co.uk/quiz/10002/) Quiz
-
-[Leonard Rossiter quiz](https://www.comedy.co.uk/quiz/10002/)
 
 #### Subscribe to our newsletters
 
