@@ -123,44 +123,44 @@ Advertisement
     Britains Broken Families
     
     A recent documentary by the BBC has set about following the work of Newcastle's Family Intervention Project or FIP, the project aims to try and help some of the more disruptive families in the area. ...](https://documentaryheaven.com/britains-broken-families/ "Britains Broken Families")
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+    
+    Louis Theroux: Drinking To Oblivion
+    
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 * [![Amy Winehouse: What Really Happened](/wp-content/thumbnails/6033-100x70.jpg?x53432)
     
     Amy Winehouse: What Really Happened
     
     Amy Winehouse is a singer and songwriter who is famous for her strong vocals as well as her blend of numerous musical styles such as soul, jazz and R&B.Winehouse has gained huge publicity for her dr...](https://documentaryheaven.com/amy-winehouse-what-really-happened/ "Amy Winehouse: What Really Happened")
-* [![The Boy Who Was Turned Into a Girl](/wp-content/thumbnails/5946-100x70.jpg?x53432)
-    
-    The Boy Who Was Turned Into a Girl
-    
-    In 1965 in the Canadian town of Winnipeg, Janet Reimer gave birth to twin boys - Bruce and Brian. Six months later a bungled circumcision left Bruce without a penis. Based on a radical new theory of g...](https://documentaryheaven.com/the-boy-who-was-turned-into-a-girl/ "The Boy Who Was Turned Into a Girl")
 
 ###### Throwback Documentaries
 
-* [![Liquid Bomb Plot](/wp-content/thumbnails/7057-100x70.jpg?x53432)
+* [![Blurred Lines: The New Battle of the Sexes](/wp-content/thumbnails/8737-100x70.jpg?x53432)
     
-    Liquid Bomb Plot
+    Blurred Lines: The New Battle of the Sexes
     
-    Liquid Bomb Plot is the incredible true story of the surveillance operation that stopped a fatal disaster and saved thousands of lives.It's August 2006. A UK terrorist cell plans to launch suicide b](https://documentaryheaven.com/liquid-bomb-plot/ "Liquid Bomb Plot")
-* [![Where Am I Sleeping Tonight?](/wp-content/thumbnails/9972-100x70.jpg?x53432)
+    From campaigners looking to have more female hero's on bank notes to the sexually explicit portrayal of women in music videos and to rape jokes. Is there a new culture abroad evolving in which men see](https://documentaryheaven.com/blurred-lines-new-battle-sexes/ "Blurred Lines: The New Battle of the Sexes")
+* [![From Jail to Jihad?](/wp-content/thumbnails/8794-100x70.jpg?x53432)
     
-    Where Am I Sleeping Tonight?
+    From Jail to Jihad?
     
-    This is Martin Read's first film, becoming a filmmaker hasn't been easy for him because when he was 16 his mother kicked him out of the house and he became homeless. Having spent some time i](https://documentaryheaven.com/where-am-i-sleeping-tonight/ "Where Am I Sleeping Tonight?")
-* [![Tutankhamun: The Truth Uncovered](/wp-content/thumbnails/12057-100x70.jpg?x53432)
+    BBC's Panorama sets about investigating the growing trend of convicted criminals converting to Islam and the potential for these converts to become radical or fundamentalists. Within the last ten year](https://documentaryheaven.com/from-jail-to-jihad/ "From Jail to Jihad?")
+* [![Human Body: Pushing The Limits](/wp-content/thumbnails/2203-100x70.png?x53432)
     
-    Tutankhamun: The Truth Uncovered
+    Human Body: Pushing The Limits
     
-    In 1922 Howard Carter and George Herbert discovered the tomb of Tutankhamun, it was found nearly entirely intact and instantly received worldwide press coverage sparking a new public interest in ancie](https://documentaryheaven.com/tutankhamun-truth-uncovered/ "Tutankhamun: The Truth Uncovered")
-* [![Yung Lean: In My Head](/wp-content/thumbnails/16504-100x70.png?x53432)
+    Human Body: Pushing the Limits takes you across continents and introduces you to people who have pushed their bodies to the max. This groundbreaking documentary uses CGI technology and hi-tech camera](https://documentaryheaven.com/human-body-pushing-the-limits/ "Human Body: Pushing The Limits")
+* [![Josie: The Most Hated Woman in Britain?](/wp-content/thumbnails/16163-100x70.jpg?x53432)
     
-    Yung Lean: In My Head
+    Josie: The Most Hated Woman in Britain?
     
-    Jonatan Håstad aka Yung Lean is a Swedish rapper, singer, songwriter, and record producer. Born in Minsk and raised in Stockholm, Yung Lean spent his earlier years hanging around the Sweedish capital](https://documentaryheaven.com/yung-lean-in-my-head/ "Yung Lean: In My Head")
-* [![I’m A Child Anorexic](/wp-content/thumbnails/6768-100x70.jpg?x53432)
+    Twenty four year old Josie Cunningham became infamous back in 2013, after getting a £4,800 breast enlargement at the British taxpayer's expense. She pleaded with the National Health Service (NHS) doc](https://documentaryheaven.com/josie-most-hated-woman-in-britain/ "Josie: The Most Hated Woman in Britain?")
+* [![For Queen and Country: The Falkland Islands Defence Force](/wp-content/thumbnails/9313-100x70.jpg?x53432)
     
-    I’m A Child Anorexic
+    For Queen and Country: The Falkland Islands Defence Force
     
-    Filmed over four months, I’m a Child Anorexic documents the highs and pitiful lows of their 12-week programme, featuring their own video diaries and conversations with each other.It is a raw and s](https://documentaryheaven.com/im-a-child-anorexic/ "I’m A Child Anorexic")
+    For Queen and Country is an interesting independent documentary produced by Josh Saunders, Caroline Scott and Hannah Smithson that follows two new recruits, Jacob and Marcus, as they complete a 12 wee](https://documentaryheaven.com/queen-country-falkland-islands-defence-force/ "For Queen and Country: The Falkland Islands Defence Force")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
