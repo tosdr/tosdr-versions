@@ -191,10 +191,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![1SG Robert Beresford](https://cdn.returningveterans.org/images/honor/1SG_Robert_Beresford.png)  
+![Mike Breen](https://cdn.returningveterans.org/images/honor/Mike_Breen_Navy.jpg)  
 
-**In Memory of 1SG Robert Beresford**  
-United States Army  
+**In Honor of Mike Breen**  
+United States Navy  
 Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/10/24 - 2:32:08  
+Printed 10/10/24 - 8:41:25  
 © 2024 Returning Veterans Project
