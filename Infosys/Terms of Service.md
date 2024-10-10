@@ -247,7 +247,7 @@ About Us
 1. [Terms of Use](https://www.infosys.com/terms-of-use.html)
 
 1. [![Share](/content/dam/infosys-web/en/global-resource/background-image/share.svg)](javascript:void(0);)
-    * [](javascript:void(0))
+    * [![](/content/dam/infosys-web/en/global-resource/background-image/twitter-x.svg)](javascript:void(0))
     * [](javascript:void(0))
     * [](javascript:void(0))
 2. Like what you see? [Let's talk ![](/content/dam/infosys-web/en/global-resource/background-image/arrow-right.svg)](#rfs) 
