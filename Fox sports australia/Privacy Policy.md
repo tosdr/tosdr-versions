@@ -40,10 +40,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250201)
 * [Women's T20 WC
     
+    WI won by 8 wkts
+    
     |     |     |
     | --- | --- |
-    | BAN | 0 /2 |
-    | WI  |     |
+    | BAN | 8 /103 |
+    | WI  | 2 /104 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250113)
 * [Women's T20
@@ -144,6 +146,18 @@ FOX SCORES
     | COL | 3.7.25 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240703)
+* NFL
+    
+* [NFL
+    
+    11/10 11:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SEA | –   |
+    | SF  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250601)
 * Basketball
     
 * [NBL
@@ -156,6 +170,16 @@ FOX SCORES
     | PER | 90  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040001/play-by-play)
+* [NBL
+    
+    11/10 19:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ADL | –   |
+    | SYD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040002)
 * Football
     
 * [WCQ
@@ -170,36 +194,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250301)
 * Baseball
     
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | NYM | 4   |
-    | PHI | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002A2974)
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | KC  | 2   |
-    | NYY | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400400242F06)
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | SD  | 0   |
-    | LAD | 8   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002D038F)
 * [MLB
     
     11/10 9:08 AEST
