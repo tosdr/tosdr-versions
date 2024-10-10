@@ -276,7 +276,7 @@ Updated June 16, 2020
 
  Your name  Your email address  Message    
 
-[![](/-/media/Images/gallery/people-named/federal-reserve-atlanta/employees/001-tanya-das-career/gallery.png)
+[![](/-/media/Images/gallery/people-named/federal-reserve-atlanta/employees/003-footer-eagle/gallery.jpg)
 
 Careers](https://www.atlantafed.org/about/careers?d=1&s=ad)
 
