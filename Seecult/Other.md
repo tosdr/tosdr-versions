@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Zampa di Leone SOROdick](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-razno/sorodick.gif?itok=qscOFstR "Zampa di Leone SOROdick")](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-razno)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-instalacije/instalations/zoran-popovic-kancum-skc-beograd-1971-zoranova-ruka.jpg?itok=k_ugBRx3)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-instalacijeinstalations)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/vlada-divljan-amp-ljetno-kino-big-band/ljetno-kinojpg-010.?itok=6w4yEBuq)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/vlada-divljan-ljetno-kino-big)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/wild.jpg?itok=nyada2Is)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
