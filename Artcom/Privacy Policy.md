@@ -36,8 +36,6 @@ Cancel
 
 [by Collection](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm "by Collection")
 
-[Vintage Art](https://www.art.com/gallery/id--c1837/vintage-art-prints.htm "Vintage Art")
-
 [Affordable Art](https://www.art.com/gallery/id--b26609/affordable-art-posters.htm "Affordable Art")
 
 [Decorative Art](https://www.art.com/gallery/id--c23945/decorative-art-prints.htm "Decorative Art")
@@ -47,6 +45,8 @@ Cancel
 [Fine Art](https://www.art.com/gallery/id--c23944/fine-art-prints.htm "Fine Art")
 
 [Giclee Prints](https://www.art.com/gallery/id--d207228/giclee-prints.htm "Giclee Prints")
+
+[Vintage Art](https://www.art.com/gallery/id--c1837/vintage-art-prints.htm "Vintage Art")
 
 [by Product](https://www.art.com/lp/art-quality "by Product")
 
@@ -168,11 +168,11 @@ Cancel
 
 [Vintage Artists](https://www.art.com/gallery/id--c1837/vintage-art-prints.htm "Vintage Artists")
 
-[Joseph Christian Leyendecker](https://www.art.com/gallery/id--a28657/joseph-christian-leyendecker-posters.htm "Joseph Christian Leyendecker ")
-
 [Alphonse Mucha](https://www.art.com/gallery/id--a10/alphonse-mucha-posters.htm "Alphonse Mucha")
 
 [Georges Barbier](https://www.art.com/gallery/id--a452/georges-barbier-posters.htm "Georges Barbier")
+
+[Joseph Christian Leyendecker](https://www.art.com/gallery/id--a28657/joseph-christian-leyendecker-posters.htm "Joseph Christian Leyendecker ")
 
 [Leonetto Cappiello](https://www.art.com/gallery/id--a2172/leonetto-cappiello-posters.htm "Leonetto Cappiello")
 
@@ -291,8 +291,6 @@ Cancel
 [Autumn Essence](https://www.art.com/gallery/id--b40375/autumn-essence-posters.htm "Autumn Essence")
 
 [Fall Landscape](https://www.art.com/gallery/id--b275246/fall-landscapes-posters.htm "Fall Landscape")
-
-[Holiday Spirit](https://www.art.com/gallery/id--b1958208/holiday-spirit-posters.htm "Holiday Spirit")
 
 [Spooky Chic](https://www.art.com/gallery/id--b42703/spooky-chic-posters.htm "Spooky Chic")
 
