@@ -308,7 +308,6 @@ Advertise
 
 ### [What men really think about the push for gender balance](https://www.afr.com/work-and-careers/workplace/what-men-really-think-about-the-push-for-gender-balance-20240923-p5kcvb)
 
-* 55 mins ago
 * Sally Patten
 
 * ### [CEO son crowned head of Rich List family’s $18b plumbing empire](https://www.afr.com/work-and-careers/workplace/ceo-son-crowned-head-of-rich-list-family-s-18b-plumbing-empire-20240910-p5k9ct)
@@ -323,7 +322,6 @@ Advertise
 
 ### [Is your water bottle chic enough? Plus, limited-edition ice-cream](https://www.afr.com/life-and-luxury/fashion-and-style/is-your-water-bottle-chic-enough-plus-limited-edition-ice-cream-20240930-p5kemx)
 
-* 55 mins ago
 * Eugenie Kelly
 
 * ### [How to stop slouching and improve your posture](https://www.afr.com/life-and-luxury/health-and-wellness/how-to-stop-slouching-and-improve-your-posture-20240924-p5kd4h)
