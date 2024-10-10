@@ -195,7 +195,7 @@ If you’ve already contacted the Klaviyo Support Team about this issue, **plea
 
 [Powered by Gainsight](https://www.gainsight.com/customer-communities/ "Visit Gainsight.com")
 
-[Terms & Conditions](https://community.klaviyo.com/site/terms)[Cookie settings](#)
+[Terms & Conditions](https://community.klaviyo.com/site/terms)
 
 [](https://community.klaviyo.com/topic/new)
 
