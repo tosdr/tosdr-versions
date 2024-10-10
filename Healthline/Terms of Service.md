@@ -190,14 +190,21 @@
 
 Subscribe
 
-[#### Weight Management](https://www.healthline.com/weight-management)
+[#### Parenthood](https://www.healthline.com/parenthood)
 
-* [Nutrition](https://www.healthline.com/weight-management/nutrition)
-* [Fitness](https://www.healthline.com/weight-management/fitness)
-* [Mental Well-Being](https://www.healthline.com/weight-management/well-being)
-* [Healthy Habits](https://www.healthline.com/weight-management/healthy-habits)
-* [Treatment](https://www.healthline.com/weight-management/treatment-medication)
-* [Apps](https://www.healthline.com/weight-management/apps-products)
+* Stages
+    
+    * [Becoming a Parent](https://www.healthline.com/parenthood/becoming-a-parent)
+    * [Pregnancy](https://www.healthline.com/parenthood/pregnancy)
+    * [Postpartum](https://www.healthline.com/parenthood/postpartum)
+    * [Baby](https://www.healthline.com/parenthood/baby)
+    * [Toddler](https://www.healthline.com/parenthood/toddler)
+    
+* [Fertility](https://www.healthline.com/parenthood/fertility)
+* [Health & Wellness](https://www.healthline.com/parenthood/health-wellness)
+* [Conditions & Concerns](https://www.healthline.com/parenthood/conditions-concerns)
+* [Relationships](https://www.healthline.com/parenthood/relationships)
+* [Products](https://www.healthline.com/parenthood/products-gear)
 
 Terms of Use
 ============
