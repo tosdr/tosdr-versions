@@ -205,6 +205,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Es ist soweit: Hurrikan „Milton“ trifft auf Florida!
+
+Es ist soweit: Hurrikan „Milton“ trifft auf Florida!
+
+Es ist soweit: Hurrikan „Milton“ trifft auf Florida!
+
+Es ist soweit: Hurrikan „Milton“ trifft auf Florida!
+
+Es ist soweit: Hurrikan „Milton“ trifft auf Florida!
+
+Es ist soweit: Hurrikan „Milton“ trifft auf Florida!
+
+Es ist soweit: Hurrikan „Milton“ trifft auf Florida!
+
+Es ist soweit: Hurrikan „Milton“ trifft auf Florida!
+
+Es ist soweit: Hurrikan „Milton“ trifft auf Florida!
+
+Es ist soweit: Hurrikan „Milton“ trifft auf Florida!](https://www.bild.de/news/ausland/es-ist-soweit-hurrikan-milton-trifft-auf-florida-670723fc1c37d9352366fe8f)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
