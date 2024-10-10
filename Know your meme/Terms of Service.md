@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/166/Krista_Sudmalis_Interview_Banner_image_copy.jpg "'GigaChad' Creator And Fitness Photographer Krista Sudmalis On Making One Of The Most Viral Memes Of All Time")
+* [![Squidward Is Furious Patrick Opened His Bag Of Carbon Monoxide In absolutenutcase162 Redraw Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/201/carbon_monoxide.jpg "Squidward Is Furious Patrick Opened His Bag Of Carbon Monoxide In absolutenutcase162 Redraw Meme")
     
-    'GigaChad' Creator And Fitness Photographer Krista Sudmalis On Making One Of The Most Viral Memes Of All Time](https://knowyourmeme.com/editorials/interviews/gigachad-creator-and-fitness-photographer-krista-sudmalis-on-making-one-of-the-most-viral-memes-of-all-time)
+    Squidward Is Furious Patrick Opened His Bag Of Carbon Monoxide In absolutenutcase162 Redraw Meme](https://knowyourmeme.com/memes/patrick-did-you-or-did-you-not-open-my-bag-of-carbon-monoxide-in-the-krusty-krab)
     
-* [![Redraw Trend Finds Cute Characters In Leaf Piles Celebrating 'It's Finally Autism'](https://i.kym-cdn.com/featured_items/icons/wide/000/026/183/it's_finally_autism.jpg "Redraw Trend Finds Cute Characters In Leaf Piles Celebrating 'It's Finally Autism'")
+* [![Punch Drummer 'Speedbag Bard' Covers Popular Songs With His Fists And A Punching Bag](https://i.kym-cdn.com/featured_items/icons/wide/000/026/200/cover4.jpg "Punch Drummer 'Speedbag Bard' Covers Popular Songs With His Fists And A Punching Bag")
     
-    Redraw Trend Finds Cute Characters In Leaf Piles Celebrating 'It's Finally Autism'](https://knowyourmeme.com/memes/its-finally-autism)
+    Punch Drummer 'Speedbag Bard' Covers Popular Songs With His Fists And A Punching Bag](https://knowyourmeme.com/memes/people/speedbag-bard)
     
-* [![You Post A Hot Take On Twitter And See This Guy In Your Replies, WYD?](https://i.kym-cdn.com/featured_items/icons/wide/000/026/182/cover4.jpg "A Celebration Of The 'Avatar' Chud, AKA 'Mansk'")
+* [![Minor Mistake Marvin](https://i.kym-cdn.com/featured_items/icons/wide/000/026/199/51f.jpg "10 Years Ago, A Kid Made A Minor Mistake And The Internet Named Him Marvin")
     
-    A Celebration Of The 'Avatar' Chud, AKA 'Mansk'](https://knowyourmeme.com/memes/avatar-chud-mansk)
+    10 Years Ago, A Kid Made A Minor Mistake And The Internet Named Him Marvin](https://knowyourmeme.com/memes/minor-mistake-marvin)
     
-* [![Halloweenposting also known as Spookyposting refers to a series of crudely made Halloween-themed re-edits of notable memes and GIFs. Such images are turned into exploitable versions of the original meme, now with Halloween symbols like jack-o-lanterns, spiders, cobwebs, witches, and orange and black elements added in. The base memes are also recaptioned with Halloween buzzwords and phrases. The trend started in October 2024, due to a viral Twitter / X thread. The -posting trend was similar to Alienposting and Pirateposting which similarly added low-brow visual symbols to crudely alter the theme of a pre-existing meme.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/181/spookypost.jpg "Halloweenposting Is The Jollyposting Redux That Has Everyone Making Custom Spooky GIFs")
+* [![Please Welcome Cheeseball the Wizard Cat, Brought To Your Screens By AI (Dark Computer Magic)](https://i.kym-cdn.com/featured_items/icons/wide/000/026/198/cover2.jpg "Please Welcome Cheeseball the Wizard Cat, Brought To Your Screens By AI (Dark Computer Magic)")
     
-    Halloweenposting Is The Jollyposting Redux That Has Everyone Making Custom Spooky GIFs](https://knowyourmeme.com/memes/halloweenposting-spookyposting)
+    Please Welcome Cheeseball the Wizard Cat, Brought To Your Screens By AI (Dark Computer Magic)](https://knowyourmeme.com/memes/cheeseball-the-wizard-cat)
     
-* [![WANTED DEAD of ALIVE Flynn Rider THIEF WANTED DEAD OF ALIVAR](https://i.kym-cdn.com/featured_items/icons/wide/000/026/180/tjc.jpg "'Zelda: Echoes Of Wisdom' Briefly Revives The 'Can't Get My Nose Right' Redraw Meme")
+* [![Apple's Newest Emoji meme.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/197/apples_newest_emoji.jpg "Introducing Apple's Newest Emoji (I'm Not Lying)")
     
-    'Zelda: Echoes Of Wisdom' Briefly Revives The 'Can't Get My Nose Right' Redraw Meme](https://knowyourmeme.com/memes/they-just-cant-get-my-nose-right)
+    Introducing Apple's Newest Emoji (I'm Not Lying)](https://knowyourmeme.com/memes/apples-newest-emoji)
     
 
 ##### Also Trending:
 
-[SnoopyWeekly Twitter Drama](https://knowyourmeme.com/memes/events/snoopyweekly-twitter-x-drama "SnoopyWeekly Twitter Drama") [Thing, China](https://knowyourmeme.com/memes/thing-china "Thing, China")
+[The "Saeko" Tweet](https://knowyourmeme.com/memes/saeko-tweet-could-you-please-address-me-as-saeko "The "Saeko" Tweet")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Howdy! You must login or signup first!
 
 |     |     |
 | --- | --- |
