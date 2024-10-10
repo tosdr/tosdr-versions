@@ -165,6 +165,9 @@
     * [![Rhithm](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-rhithm-icon.svg)
         
         Rhithm](https://portal.rhithm.app/)
+    * [![Discern](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-discern-icon.svg)
+        
+        Discern](https://discern.securly.com/)
     * [![Visitor](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-visitor-icon.svg)
         
         Visitor](https://vms.securly.com/)
@@ -196,7 +199,7 @@
 
 * [Request a demo](https://www.securly.com/request-a-demo)
 
-![Website Terms](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/locked-icon.svg)
+![Icon for a document with a lock at its center](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/locked-icon.svg)
 
 Privacy Policy
 ==============
