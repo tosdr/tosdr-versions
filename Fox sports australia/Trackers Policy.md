@@ -30,34 +30,62 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 4 Session 2
+    Day 4
     
     |     |     |
     | --- | --- |
-    | PAK | 556 |
-    | ENG | 3 /684 |
+    | PAK | 556 & 6 /152 |
+    | ENG | 7 /823d |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250201)
 * [Women's T20 WC
     
-    11/10 1:00 AEST
-    
     |     |     |
     | --- | --- |
-    | BAN | –   |
-    | WI  | –   |
+    | BAN | 0 /2 |
+    | WI  |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250113)
-* [Men's T20I
+* [Women's T20
     
-    IND won by 86 runs
+    11/10 10:00 AEST
     
     |     |     |
     | --- | --- |
-    | IND | 9 /221 |
-    | BAN | 9 /135 |
+    | SYDT | –   |
+    | BRI | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250102)
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250101)
+* [Women's T20
+    
+    11/10 10:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MELR | –   |
+    | HOB | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250102)
+* [Women's T20
+    
+    11/10 14:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYD6 | –   |
+    | ACT | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250103)
+* [Women's T20
+    
+    11/10 15:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ADE | –   |
+    | PER | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250104)
 * [Sheffield Shield
     
     |     |     |
@@ -78,7 +106,7 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | WA  | 465 & 1 /20 |
+    | WA  | 465 & 3 /106 |
     | QLD | 367 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250103)
@@ -108,70 +136,40 @@ FOX SCORES
     
 * [AFL Women's
     
-    10/10 19:45 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | POR | –   |
-    | COL | –   |
+    | POR | 4.9.33 |
+    | COL | 3.7.25 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240703)
 * Basketball
     
 * [NBL
     
-    10/10 19:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CAI | –   |
-    | PER | –   |
+    | CAI | 87  |
+    | PER | 90  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040001)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040001/play-by-play)
 * Football
     
 * [WCQ
     
-    10/10 20:10 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | AUS | –   |
-    | CHN | –   |
+    | AUS | 3   |
+    | CHN | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250301)
-* [WCQ
-    
-    11/10 3:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | BHR | –   |
-    | IDN | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250302)
-* [WCQ
-    
-    11/10 5:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | KSA | –   |
-    | JPN | –   |
-    
-    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250303)
 * Baseball
     
-* [MLB
-    
-    Final
-    
-    |     |     |
-    | --- | --- |
-    | DET | 3   |
-    | CLE | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002549B9)
 * [MLB
     
     Final
@@ -212,6 +210,16 @@ FOX SCORES
     | CLE | –   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400400247699)
+* [MLB
+    
+    11/10 11:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | KC  | –   |
+    | NYY | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002FB080)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
