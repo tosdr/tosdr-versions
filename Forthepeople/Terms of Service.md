@@ -307,9 +307,9 @@ Results may vary depending on your particular facts and legal circumstances. ©2
 * ### Resources
     
     [Blog](https://www.forthepeople.com/blog/) [Testimonials](https://www.forthepeople.com/testimonials/) [FAQ](https://www.forthepeople.com/faq/) [In The Media](https://www.forthepeople.com/in-the-media/) [TV commercials](https://www.forthepeople.com/commercials/) [Accessibility](https://www.forthepeople.com/accessibility/) [Complaints](https://www.forthepeople.com/complaints/) [Opt Out](https://www.forthepeople.com/opt-out/) [Sitemap](https://www.forthepeople.com/sitemap/)
-* ### Quick Links
+* ### Latest Cases
     
-    [Car Accident Lawyer](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/) [Slip and Fall Lawyer](https://www.forthepeople.com/practice-areas/slip-and-fall-attorneys/) [Truck Accident Lawyer](https://www.forthepeople.com/practice-areas/auto-accident-attorneys/trucking-accident-attorneys/) [Personal Injury Lawyer](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/) [Labor and Employment Lawyer](https://www.forthepeople.com/practice-areas/labor-and-employment-lawyers/) [Medical Malpractice Lawyer](https://www.forthepeople.com/practice-areas/medical-malpractice-attorney/) [Birth Injury Lawyer](https://www.forthepeople.com/practice-areas/medical-malpractice-attorney/birth-injury-attorneys/) [Brain Injury Lawyer](https://www.forthepeople.com/practice-areas/personal-injury-lawsuits/brain-injury-attorneys/)
+    [Exploding Airbags](https://www.forthepeople.com/practice-areas/defective-product-lawyers/exploding-airbags/) [Depo-Provera](https://www.forthepeople.com/blog/depo-provera-lawsuits-your-rights-after-serious-health-complications/) [Georgia Fire](http://evaluation.forthepeople.com/ga_fire_disaster/getstarted/quiz) [Maui Wildfire](https://www.forthepeople.com/blog/representation-victims-lahaina-wildfires/) [Weight Loss Drugs](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/weight-loss-lawsuit/) [Ticketmaster](https://www.forthepeople.com/blog/live-nation-and-ticketmaster-data-breach-lawsuit-what-know/) [Comcast Xfinity](https://www.forthepeople.com/blog/comcast-xfinity-data-breach-how-it-could-impact-millions-and-what-you-can-do/) [H&R Block](https://www.forthepeople.com/blog/hr-block-lawsuit-what-you-need-know-about-data-sharing-without-consent/)
 
 ### Social
 
