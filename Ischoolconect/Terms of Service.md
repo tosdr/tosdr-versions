@@ -113,7 +113,7 @@
     Get personalized recommendations from 3000+ universities](#ai-recommendations)[SOP Mentor
     ----------
     
-    Analyze and check plagiarism for your easy or statement of purpose](#writing-mentor)
+    Analyze and check plagiarism for your essay or statement of purpose](#writing-mentor)
     
 * [Blog](https://ischoolconnect.com/blog/)
 * [PRICING](https://ischoolconnect.com/pricing/)
