@@ -1,57 +1,37 @@
-[0](https://blendermarket.com/cart)
-
-[#### Blender Market
+[Blender Market
 
 The indie market for Blender creators](https://blendermarket.com/)
 
-* [Become a Creator](https://blendermarket.com/become-a-creator)
-* [Popular](https://blendermarket.com/products?sort_sales=desc)
-* [New](https://blendermarket.com/products?sort_date=desc)
-* [Free](https://blendermarket.com/products?sort_range=0%2C0)
+[Explore Marketplace](#)
 
-[0](https://blendermarket.com/cart)
+Browse by category[* Addons](https://blendermarket.com/categories/addons)[* Models](https://blendermarket.com/categories/models)[* Surfacing](https://blendermarket.com/categories/surfacing)[* Modifier Setups](https://blendermarket.com/categories/modifier-setups)[* Render Setups](https://blendermarket.com/categories/render-setups)[* Training](https://blendermarket.com/categories/training)* [Free](https://blendermarket.com/products?sort_price=asc)
+
+* [View All Products](https://blendermarket.com/products)
+* [Popular Items](https://blendermarket.com/products?sort_sales=desc)
+* [New Arrivals](https://blendermarket.com/products?sort_date=desc)
+
+[Blender Market
+
+The indie market for Blender creators](https://blendermarket.com/)
+
+ All Categories Addons Models Surfacing Modifier Setups Render Setups Training
+
+* [Become a Creator](https://blendermarket.com/become-a-creator)
 
 * [Login](https://blendermarket.com/login)
 * or
-* [Sign Up](https://blendermarket.com/sign_up)
+* [Signup](https://blendermarket.com/sign_up)
 
-* [All Products](https://blendermarket.com/products)
-* [Addons](https://blendermarket.com/categories/addons) Toggle Dropdown - Addons
-    
-    [Animation](https://blendermarket.com/categories/animation-scripts-and-addons) [Asset Management](https://blendermarket.com/categories/asset-management) [Import & Export](https://blendermarket.com/categories/import-export) [Interface](https://blendermarket.com/categories/interface) [Materials and Shading](https://blendermarket.com/categories/materials-and-shading-addons) [Modeling](https://blendermarket.com/categories/modeling) [Presets](https://blendermarket.com/categories/presets) [Rendering](https://blendermarket.com/categories/rendering-scripts-and-addons) [Rigging](https://blendermarket.com/categories/rigging-scripts-and-addons) [Theme Packages](https://blendermarket.com/categories/theme-packages)
-    
-    [VSE](https://blendermarket.com/categories/vse)
-    
-* [Models](https://blendermarket.com/categories/models) Toggle Dropdown - Models
-    
-    [3D Printable](https://blendermarket.com/categories/3d-printable) [Anatomy](https://blendermarket.com/categories/anatomy) [Animals](https://blendermarket.com/categories/animals) [Animation](https://blendermarket.com/categories/animation-models) [Architecture](https://blendermarket.com/categories/architecture) [Asset Libraries](https://blendermarket.com/categories/asset-libraries) [Base Meshes](https://blendermarket.com/categories/base-meshes) [Buildings](https://blendermarket.com/categories/model-buildings) [Characters](https://blendermarket.com/categories/characters) [Clothes & Accessories](https://blendermarket.com/categories/clothes-accessories)
-    
-    [Creatures](https://blendermarket.com/categories/creatures) [Decals](https://blendermarket.com/categories/decals) [Design Elements](https://blendermarket.com/categories/design-elements) [Electronics](https://blendermarket.com/categories/electronics) [Engines & Parts](https://blendermarket.com/categories/engines-parts) [Fantasy & Fiction](https://blendermarket.com/categories/fantasy-fiction) [Food & Drinks](https://blendermarket.com/categories/food-drinks) [Furnishings](https://blendermarket.com/categories/furnishings) [Game Ready](https://blendermarket.com/categories/game-ready) [Humans](https://blendermarket.com/categories/humans)
-    
-    [Miscellaneous](https://blendermarket.com/categories/miscellaneous) [Motion Graphics](https://blendermarket.com/categories/motion-graphics) [Music](https://blendermarket.com/categories/music) [Nature](https://blendermarket.com/categories/nature) [Parametric Models](https://blendermarket.com/categories/parametric-models) [Products](https://blendermarket.com/categories/products) [Science](https://blendermarket.com/categories/science) [Sci-Fi](https://blendermarket.com/categories/sci-fi) [Sports](https://blendermarket.com/categories/sports) [Tools](https://blendermarket.com/categories/tools)
-    
-    [Toys & Games](https://blendermarket.com/categories/toys-games) [Urban](https://blendermarket.com/categories/urban) [Vehicles](https://blendermarket.com/categories/vehicles) [Weapons & Armor](https://blendermarket.com/categories/weapons-armor)
-    
-* [Surfacing](https://blendermarket.com/categories/surfacing) Toggle Dropdown - Surfacing
-    
-    [Animals](https://blendermarket.com/categories/animals-textures) [Buildings](https://blendermarket.com/categories/buildings) [Ceramic](https://blendermarket.com/categories/ceramic) [Concrete](https://blendermarket.com/categories/concrete) [Fabric](https://blendermarket.com/categories/fabric) [Glass](https://blendermarket.com/categories/glass) [Ground](https://blendermarket.com/categories/ground) [HDRI Images](https://blendermarket.com/categories/hdri-images) [Humans](https://blendermarket.com/categories/humans-textures) [Ice](https://blendermarket.com/categories/ice)
-    
-    [Marble](https://blendermarket.com/categories/marble) [Metal](https://blendermarket.com/categories/metal) [Miscellaneous](https://blendermarket.com/categories/miscellaneous-materials-and-shaders) [Organic](https://blendermarket.com/categories/organic) [Ornaments](https://blendermarket.com/categories/ornaments) [Plants](https://blendermarket.com/categories/plants) [Plastic](https://blendermarket.com/categories/plastic) [Sci Fi](https://blendermarket.com/categories/sci-fi-materials-and-shaders) [Stone](https://blendermarket.com/categories/stone) [Water](https://blendermarket.com/categories/water)
-    
-    [Wood](https://blendermarket.com/categories/wood)
-    
-* [Modifier Setups](https://blendermarket.com/categories/modifier-setups) Toggle Dropdown - Modifier Setups
-    
-    [Geometry Node Groups](https://blendermarket.com/categories/geometry-node-groups) [Procedural Generators](https://blendermarket.com/categories/procedural-generators) [Simulations & Effects](https://blendermarket.com/categories/simulations-effects)
-    
-* [Render Setups](https://blendermarket.com/categories/render-setups) Toggle Dropdown - Render Setups
-    
-    [Compositing Presets](https://blendermarket.com/categories/compositing-presets) [Studio Lighting](https://blendermarket.com/categories/studio-lighting)
-    
-* [Training](https://blendermarket.com/categories/training) Toggle Dropdown - Training
-    
-    [e-Books](https://blendermarket.com/categories/ebooks) [Video Tutorials](https://blendermarket.com/categories/video-tutorials)
-    
+ [![](https://assets.superhivemarket.com/site_assets/images/cart-frame.svg) 0](https://blendermarket.com/cart)
+
+ All Categories Addons Models Surfacing Modifier Setups Render Setups Training
+
+Browse by category[* Addons](https://blendermarket.com/categories/addons)[* Models](https://blendermarket.com/categories/models)[* Surfacing](https://blendermarket.com/categories/surfacing)[* Modifier Setups](https://blendermarket.com/categories/modifier-setups)[* Render Setups](https://blendermarket.com/categories/render-setups)[* Training](https://blendermarket.com/categories/training)* [Free](https://blendermarket.com/products?sort_price=asc)
+* [View All Products](https://blendermarket.com/products)
+* [Popular Items](https://blendermarket.com/products?sort_sales=desc)
+* [New Arrivals](https://blendermarket.com/products?sort_date=desc)
+
+X
 
 Privacy Policy
 --------------
@@ -621,4 +601,4 @@ Follow us: [Twitter](https://twitter.com/blendermarket), [Facebook](https://www.
 * [Privacy Policy](https://blendermarket.com/policies/privacy-policy)
 * [\[email protected\]](https://blendermarket.com/cdn-cgi/l/email-protection)
 
-© 2024 Blender Market, LLC. All rights reserved. v**2.9.1**
+© 2024 Blender Market, LLC. All rights reserved. v**2.9.2.1**
