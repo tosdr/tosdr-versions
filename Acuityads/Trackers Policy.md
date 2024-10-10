@@ -27,9 +27,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Marketing measurement: What do MMM and MTA even mean?](https://illumin.com/wp-content/uploads/2024/10/Blog-image-teasers-2024-263x300.jpg)
+    * ![Streaming advertising: then and now](https://illumin.com/wp-content/uploads/2024/10/streaming-then-and-now-263x300.jpg)
         
-        Marketing measurement: What do MMM and MTA even mean?[Read More](https://illumin.com/insights/blog/marketing-measurement-mmm-and-mta/)
+        Streaming advertising: then and now[Read More](https://illumin.com/insights/blog/streaming-advertising-then-and-now/)
         
 * [Company](#)
     * [Company](#)
