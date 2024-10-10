@@ -411,7 +411,6 @@ We do not sell or share (for the purpose of cross-context behavioural advertisin
 * [About us](https://www.fundapps.co/about-us)
 * [What we stand for](https://www.fundapps.co/what-we-stand-for)
 * [How we help our clients](https://www.fundapps.co/case-studies)
-* [Careers](https://www.fundapps.co/careers)
 
 ##### Follow us
 
