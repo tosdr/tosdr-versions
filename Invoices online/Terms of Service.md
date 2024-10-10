@@ -197,58 +197,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
+> Wish I started ages ago!
 > ------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> I have upgraded to the Gold account in order to support you guys!
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Shaun Gartshore
+Terri Winfield
 
-![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=89334923)  
-PHESA TECHNOLOGY(PTY) LTD
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=49940977)  
+Prosper Park
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=31963600)  
-Lion Software Develepment
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=210106627)  
+Tantra Sound and Lightz
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=81331631)  
-Konsortium Operations ( Roamfree Meats )
-
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=47904531)  
-
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=57960511)  
-RADIO TYGERBERG 104FM NPC
-
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=75718134)  
-SA Security Brokerz (Pty) Ltd
-
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=90928162)  
-Calonet
-
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=16444579)  
-Gemini-IT Group
-
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=176433698)  
-Know Informatics
-
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=153820401)  
-CGHK Enterprises (PTY) LTD
-
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=154827687)  
-MONSTER SECURITY GUARDING
-
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=146570075)  
-Konsortium Operations (PTY) LTD
-
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=190883460)  
-Durbanville Classifieds (Pty) Ltd
-
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=68111094)  
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=143598924)  
 Nogana Events and Decor
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=178439413)  
-LEONARD
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=168043678)  
+Lindani Protection Services & Projects
+
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=12302564)  
+Cpower Projects t/a Pro Pure Water
+
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=192682263)  
+Kainos (Pty) Ltd
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=114800849)  
+MSPCloud (Pty) Ltd
+
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=5678733)  
+INVOICES/JOBCARDS ONLINE
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=62314684)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=100171859)  
+VerdanTech Pty Ltd
+
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=205212920)  
+Digifax (Pty) Ltd trading as Digirent
+
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=146063349)  
+Adele Jordaan T/A Joyful Noise Music Room
+
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=161886493)  
+Iurus Inc
+
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=172425029)  
+De light Investments(Pty)Ltd trading as Serene Memorials
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=20276813)  
+Vplay Letsheng Mall
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
