@@ -293,25 +293,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Heather Rodriguez and Jiryiah Johnson](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Heather-Rodriguez-and--432x243.jpg)](https://lawandcrime.com/crime/tug-of-war-for-the-baby-babysitters-vicious-dogs-kill-1-year-old-boy-as-helpless-teen-girl-tries-to-save-him-cops-say/)
+1. [![Donald Trump, JD Vance](https://am22.mediaite.com/lc/cnt/uploads/2024/10/AP24234754544836-432x243.jpg)](https://lawandcrime.com/high-profile/haitian-group-accusing-trump-and-vance-of-crimes-with-eating-the-cats-falsehoods-dealt-a-major-setback-after-court-reviews-case/)
     
-    ### ['Tug-of-war for the baby': Babysitter's vicious dogs kill 1-year-old boy as helpless teen girl tries to save him, cops say](https://lawandcrime.com/crime/tug-of-war-for-the-baby-babysitters-vicious-dogs-kill-1-year-old-boy-as-helpless-teen-girl-tries-to-save-him-cops-say/)
+    ### ['Significant mischaracterization' of evidence: Court just dealt Haitian group accusing Trump and JD Vance of committing crimes with 'eating the cats' falsehoods a major loss](https://lawandcrime.com/high-profile/haitian-group-accusing-trump-and-vance-of-crimes-with-eating-the-cats-falsehoods-dealt-a-major-setback-after-court-reviews-case/)
     
-2. [![Judge Steve Stambaugh](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Steve-Stambaugh-432x243.jpg)](https://lawandcrime.com/crime/harley-davidson-riding-attorney-turned-judge-cooked-up-scheme-to-unjustly-enrich-himself-during-covid-19-pandemic-and-obstructed-justice-after-his-election-feds/)
-    
-    ### [Harley-Davidson riding attorney turned judge cooked up scheme to 'unjustly enrich himself' during COVID-19 pandemic and obstructed justice after his election: Feds](https://lawandcrime.com/crime/harley-davidson-riding-attorney-turned-judge-cooked-up-scheme-to-unjustly-enrich-himself-during-covid-19-pandemic-and-obstructed-justice-after-his-election-feds/)
-    
-3. [![Popular post image](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Template-1-432x243.jpg)](https://lawandcrime.com/crime/i-have-no-choice-but-to-run-him-over-uber-driver-threatened-to-make-passenger-permanently-disabled-for-reporting-him-to-company-over-service-dog-feds-say/)
-    
-    ### ['I have no choice but to run him over': Uber driver threatened to make passenger 'permanently disabled' for reporting him to company over service dog, feds say](https://lawandcrime.com/crime/i-have-no-choice-but-to-run-him-over-uber-driver-threatened-to-make-passenger-permanently-disabled-for-reporting-him-to-company-over-service-dog-feds-say/)
-    
-4. [![Samantha Sebella and Steven Valle](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Steven-Valle-and-Samantha-Sebella-432x243.jpg)](https://lawandcrime.com/crime/guess-what-baby-killer-father-buried-2-murdered-children-only-to-dig-them-up-years-later-and-burn-their-bodies-saving-some-ashes-as-a-memento-cops-say/)
-    
-    ### ['GUESS WHAT BABY KILLER:' Father buried 2 murdered children only to dig them up years later and burn their bodies, saving some ashes as a memento, cops say](https://lawandcrime.com/crime/guess-what-baby-killer-father-buried-2-murdered-children-only-to-dig-them-up-years-later-and-burn-their-bodies-saving-some-ashes-as-a-memento-cops-say/)
-    
-5. [![Rudy Giuliani](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Rudy-Giuliani-Andrew-Giuliani-432x243.jpg)](https://lawandcrime.com/high-profile/i-want-to-give-them-to-you-now-andrew-giuliani-rushes-to-stop-defamed-2020-election-workers-from-collecting-new-york-yankees-superfan-dads-world-series-rings-submits-photo-proof/)
+2. [![Rudy Giuliani](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Rudy-Giuliani-Andrew-Giuliani-432x243.jpg)](https://lawandcrime.com/high-profile/i-want-to-give-them-to-you-now-andrew-giuliani-rushes-to-stop-defamed-2020-election-workers-from-collecting-new-york-yankees-superfan-dads-world-series-rings-submits-photo-proof/)
     
     ### ['I want to give them to you now': Andrew Giuliani rushes to stop defamed 2020 election workers from collecting New York Yankees superfan dad's World Series rings, submits photo proof](https://lawandcrime.com/high-profile/i-want-to-give-them-to-you-now-andrew-giuliani-rushes-to-stop-defamed-2020-election-workers-from-collecting-new-york-yankees-superfan-dads-world-series-rings-submits-photo-proof/)
+    
+3. [![Sean ](https://am23.mediaite.com/lc/cnt/uploads/2024/10/AP24261467731863-432x243.jpg)](https://lawandcrime.com/uncategorized/several-terabytes-diddy-prosecutors-shed-light-on-voluminous-discovery-including-icloud-accounts-and-dozens-of-seized-devices-as-defense-slams-leaks-of-grand-jury-info/)
+    
+    ### ['Several terabytes': Diddy prosecutors shed light on 'voluminous' discovery, including iCloud accounts and dozens of seized devices, as defense slams 'leaks' of grand jury info](https://lawandcrime.com/uncategorized/several-terabytes-diddy-prosecutors-shed-light-on-voluminous-discovery-including-icloud-accounts-and-dozens-of-seized-devices-as-defense-slams-leaks-of-grand-jury-info/)
+    
+4. [![Former Mayor of New York Rudy Giuliani leaves the federal courthouse in Washington, Monday, Dec. 11, 2023. The trial will determine how much Rudy Giuliani will have to pay two Georgia election workers who he falsely accused of fraud while pushing President Donald Trump's baseless claims after he lost the 2020 election. (AP Photo/Jose Luis Magana)](https://am23.mediaite.com/lc/cnt/uploads/2023/12/rudy-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giuliani-wants-to-stop-defamed-georgia-election-workers-from-mentioning-money-he-is-owed-by-the-trump-campaign-until-after-the-election/)
+    
+    ### [Rudy Giuliani wants to stop defamed Georgia election workers from mentioning money he is owed by the Trump campaign – until after the election](https://lawandcrime.com/high-profile/rudy-giuliani-wants-to-stop-defamed-georgia-election-workers-from-mentioning-money-he-is-owed-by-the-trump-campaign-until-after-the-election/)
+    
+5. [![Fani Willis, on the left; Jeffery “Young Thug” Williams, on the right](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Willis-Williams-432x243.jpg)](https://lawandcrime.com/live-trials/that-is-really-a-mouthful-fani-willis-and-top-lieutenant-slammed-for-waste-of-time-motion-in-young-thug-case/)
+    
+    ### ['That is really a mouthful': Fani Willis and top lieutenant slammed for 'waste of time' motion in Young Thug case](https://lawandcrime.com/live-trials/that-is-really-a-mouthful-fani-willis-and-top-lieutenant-slammed-for-waste-of-time-motion-in-young-thug-case/)
     
 
 [](http://eepurl.com/c89Jdb)
