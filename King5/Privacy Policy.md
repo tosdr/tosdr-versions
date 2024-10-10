@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/98d844a8-7455-441f-8587-64201f722e68/20241010T060701/98d844a8-7455-441f-8587-64201f722e68_16x9.jpg) ![](https://media.king5.com/assets/KING/images/98d844a8-7455-441f-8587-64201f722e68/20241010T060701/98d844a8-7455-441f-8587-64201f722e68_360x203.jpg)](https://www.king5.com/article/news/education/former-marysville-superintendent-receives-over-400k-severance/281-16574078-97a1-46a1-bb8f-7b4e269fbea9)
+    *  [![](https://media.king5.com/assets/KING/images/681bbb0f-c95c-42ba-83a2-07e8d72a0b35/20241009T184249/681bbb0f-c95c-42ba-83a2-07e8d72a0b35_16x9.jpg) ![](https://media.king5.com/assets/KING/images/681bbb0f-c95c-42ba-83a2-07e8d72a0b35/20241009T184249/681bbb0f-c95c-42ba-83a2-07e8d72a0b35_360x203.jpg)](https://www.king5.com/article/news/local/seattle/uw-medicine-biochemistry-professor-awarded-nobel-prize/281-c43e2ca5-9c52-4f6d-803c-fb4093e17bac)
         
-        #### [Former Marysville superintendent receives over $400K severance package](https://www.king5.com/article/news/education/former-marysville-superintendent-receives-over-400k-severance/281-16574078-97a1-46a1-bb8f-7b4e269fbea9)
+        #### [UW Medicine professor awarded Nobel Prize in chemistry](https://www.king5.com/article/news/local/seattle/uw-medicine-biochemistry-professor-awarded-nobel-prize/281-c43e2ca5-9c52-4f6d-803c-fb4093e17bac)
         
-    *  [![](https://media.king5.com/assets/KING/images/338ea67a-fbb5-4fd8-864f-c0886433d4b7/20241010T005502/338ea67a-fbb5-4fd8-864f-c0886433d4b7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/338ea67a-fbb5-4fd8-864f-c0886433d4b7/20241010T005502/338ea67a-fbb5-4fd8-864f-c0886433d4b7_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/king-county-metro-temporary-fix-place-at-3-bus-stops-ensure-ada-compliant/281-a2e5f991-e111-448f-9a39-40c8ad1f64b4)
+    *  [![](https://media.king5.com/assets/KING/images/f0a54c4d-6aad-4ece-960d-f27abee2e7ac/20240512T000643/f0a54c4d-6aad-4ece-960d-f27abee2e7ac_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f0a54c4d-6aad-4ece-960d-f27abee2e7ac/20240512T000643/f0a54c4d-6aad-4ece-960d-f27abee2e7ac_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-forecast-washington-state/281-c8af2b7e-9fc8-43a4-8bc3-d8158a26ec5f)
         
-        #### [King County Metro has temporary fix in place to ensure 3 bus stops are ADA compliant](https://www.king5.com/article/traffic/traffic-news/king-county-metro-temporary-fix-place-at-3-bus-stops-ensure-ada-compliant/281-a2e5f991-e111-448f-9a39-40c8ad1f64b4)
+        #### [Best opportunity for northern lights viewing since May arrives Thursday](https://www.king5.com/article/weather/weather-blog/northern-lights-forecast-washington-state/281-c8af2b7e-9fc8-43a4-8bc3-d8158a26ec5f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/2e16afde-8a30-468b-902b-59c196a983ee/20241010T052942/2e16afde-8a30-468b-902b-59c196a983ee_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e16afde-8a30-468b-902b-59c196a983ee/20241010T052942/2e16afde-8a30-468b-902b-59c196a983ee_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/CCT/images/e62e4528-8183-426e-96d9-0120aaab292d/20241010T123321/e62e4528-8183-426e-96d9-0120aaab292d_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e62e4528-8183-426e-96d9-0120aaab292d/20241010T123321/e62e4528-8183-426e-96d9-0120aaab292d_360x203.jpg)](https://www.king5.com/article/news/nation-world/hurricane-milton-strikes-florida/507-9e0d7dc3-1328-491f-8535-6f4cb85375ed)
+        
+        #### [Hurricane Milton plows across Florida, pounding cities and whipping up tornadoes. At least 4 dead](https://www.king5.com/article/news/nation-world/hurricane-milton-strikes-florida/507-9e0d7dc3-1328-491f-8535-6f4cb85375ed)
+        
+    *  [![](https://media.king5.com/assets/KING/images/4ff58e24-e90e-4e92-9146-fec09593a633/20241010T120204/4ff58e24-e90e-4e92-9146-fec09593a633_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4ff58e24-e90e-4e92-9146-fec09593a633/20241010T120204/4ff58e24-e90e-4e92-9146-fec09593a633_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/3e325900-6449-4cab-bd8f-fca2a01fc2b9/20241010T061132/3e325900-6449-4cab-bd8f-fca2a01fc2b9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3e325900-6449-4cab-bd8f-fca2a01fc2b9/20241010T061132/3e325900-6449-4cab-bd8f-fca2a01fc2b9_360x203.jpg)](https://www.king5.com/article/weather/milton-king-5-checks-in-with-washingtonians-in-florida-hurricane/281-9a6ee3d4-4bbf-4a5c-95a8-ffe5f6f74ea4)
-        
-        #### [In the path of Milton: KING 5 checks in with Washingtonians in Florida's hurricane](https://www.king5.com/article/weather/milton-king-5-checks-in-with-washingtonians-in-florida-hurricane/281-9a6ee3d4-4bbf-4a5c-95a8-ffe5f6f74ea4)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-55°
+51°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
