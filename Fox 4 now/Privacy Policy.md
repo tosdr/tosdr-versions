@@ -103,7 +103,7 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[TRACKING MILTON: Hurricane Milton weakens to Category 1 storm](https://www.fox4now.com/weather/hurricane-center/tracking-milton-approaching-hurricane-sparks-tornadoes-in-southwest-florida)
+[AFTER MILTON | Tracking updates on power restoration, road access and infrastructure in your community](https://www.fox4now.com/weather/hurricane-center/tracking-milton-approaching-hurricane-sparks-tornadoes-in-southwest-florida)
 
 Privacy Policy
 ==============
