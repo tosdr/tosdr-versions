@@ -1,8 +1,8 @@
 [Skip to content](#site-main)
 
-PRIME DAY DEALS: SAVE UP TO 20% SITEWIDE!
+FREE Shipping on all orders $35+
 
-PRIME DAY DEALS: SAVE UP TO 20% SITEWIDE!
+FREE Shipping on all orders $35+
 
 Menu icon Menu
 
@@ -237,7 +237,5 @@ Close icon
 Chevron down icon Chevron down icon
 
        
-
-     
 
 {"themeColor":"#574cd5","iconColor":"#574cd5","showLogo":true,"topBottomPosition":10,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"bottom-right"}
