@@ -26,7 +26,7 @@
 
 [Demo](https://thehive.ai/demos)
 
-[Log In / Sign Up](https://portal.thehive.ai/)
+[Log In / Sign Up](https://portal.thehive.ai/login)
 
 [Contact Us](https://thehive.ai/contact-us)
 
@@ -121,7 +121,7 @@ Identify tens of thousands of well-known public figures](https://thehive.ai/apis
 
 [Likeness Detection
 
-Identifies popular characters or artworks in visuals across IP domains.](https://thehive.ai/apis/likeness-detection)
+Identifies popular characters or artworks in visuals across IP domains](https://thehive.ai/apis/likeness-detection)
 
 [Image Generation
 
