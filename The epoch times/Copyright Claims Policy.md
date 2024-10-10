@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [FEMA Director: Florida Dodged ‘Worst-Case Scenario’ With Hurricane Milton](https://www.theepochtimes.com/us/fema-director-florida-dodged-worst-case-scenario-with-hurricane-milton-5739130)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![FEMA Director: Florida Dodged ‘Worst-Case Scenario’ With Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![FEMA Director: Florida Dodged ‘Worst-Case Scenario’ With Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739096-GettyImages-2177761090-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-director-florida-dodged-worst-case-scenario-with-hurricane-milton-5739130)
+* [Tennis Great Rafael Nadal to Retire This Year](https://www.theepochtimes.com/sports/tennis-great-rafael-nadal-to-retire-this-year-5738981)
+    
+    2hr By [Todd Karpovich](https://www.theepochtimes.com/author/todd-karpovich)
+    
+    [![Tennis Great Rafael Nadal to Retire This Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Tennis Great Rafael Nadal to Retire This Year](https://img.theepochtimes.com/assets/uploads/2024/08/08/id5701805-Rafael-Nadal-205x123.jpg.webp)](https://www.theepochtimes.com/sports/tennis-great-rafael-nadal-to-retire-this-year-5738981)
+* [Inflation Tops Market Estimates as Food, Shelter Costs Rise in September](https://www.theepochtimes.com/us/inflation-tops-market-estimates-as-food-shelter-costs-rise-in-september-5738803)
+    
+    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Inflation Tops Market Estimates as Food, Shelter Costs Rise in September](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Inflation Tops Market Estimates as Food, Shelter Costs Rise in September](https://img.theepochtimes.com/assets/uploads/2024/05/06/id5644677-GettyImages-1537694096-205x123.jpg.webp)](https://www.theepochtimes.com/us/inflation-tops-market-estimates-as-food-shelter-costs-rise-in-september-5738803)
+* [Czech Republic and Poland Call on EU to Do More on Illegal Immigration](https://www.theepochtimes.com/world/czech-republic-and-poland-call-on-eu-to-do-more-on-illegal-immigration-5738912)
+    
+    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![Czech Republic and Poland Call on EU to Do More on Illegal Immigration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Czech Republic and Poland Call on EU to Do More on Illegal Immigration](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739046-Czech_Republic_Poland_24283337040522-LS-205x123.webp)](https://www.theepochtimes.com/world/czech-republic-and-poland-call-on-eu-to-do-more-on-illegal-immigration-5738912)
 * [China Has No Right to Represent Taiwan, President Lai Says](https://www.theepochtimes.com/china/china-has-no-right-to-represent-taiwan-president-lai-says-5738906)
     
-    NEW By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    6hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
     [![China Has No Right to Represent Taiwan, President Lai Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![China Has No Right to Represent Taiwan, President Lai Says](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5738907-2410092332252378-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-has-no-right-to-represent-taiwan-president-lai-says-5738906)
-* [Multiple Deaths From Tornadoes Spawned by Hurricane Milton](https://www.theepochtimes.com/us/multiple-deaths-from-tornadoes-spawned-by-hurricane-milton-5738884)
+* [4 Deaths From Tornadoes Spawned by Hurricane Milton](https://www.theepochtimes.com/us/multiple-deaths-from-tornadoes-spawned-by-hurricane-milton-5738884)
     
-    1hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    7hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
-    [![Multiple Deaths From Tornadoes Spawned by Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![4 Deaths From Tornadoes Spawned by Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Multiple Deaths From Tornadoes Spawned by Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5738872-Hurricane-milton-AP24284073648139-205x123.jpg.webp)](https://www.theepochtimes.com/us/multiple-deaths-from-tornadoes-spawned-by-hurricane-milton-5738884)
+    ![4 Deaths From Tornadoes Spawned by Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739045-Hurricane-milton-AP24284073648139-LS-205x123.webp)](https://www.theepochtimes.com/us/multiple-deaths-from-tornadoes-spawned-by-hurricane-milton-5738884)
 * [Automation Could Make or Break New US Port Strike Agreement](https://www.theepochtimes.com/us/automation-could-make-or-break-new-us-port-strike-agreement-5737098)
     
-    1hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Automation Could Make or Break New US Port Strike Agreement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Automation Could Make or Break New US Port Strike Agreement](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733235-GettyImages-2175709221-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/automation-could-make-or-break-new-us-port-strike-agreement-5737098)
-* [Trump Rejects Fox News’ Proposal of 2nd Debate With Harris](https://www.theepochtimes.com/us/trump-rejects-fox-news-proposal-of-2nd-debate-with-harris-5738806)
+* [Trump Rejects Fox News Proposal of 2nd Debate With Harris](https://www.theepochtimes.com/us/trump-rejects-fox-news-proposal-of-2nd-debate-with-harris-5738806)
     
-    1hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    7hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
     
-    [![Trump Rejects Fox News’ Proposal of 2nd Debate With Harris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Rejects Fox News Proposal of 2nd Debate With Harris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Rejects Fox News’ Proposal of 2nd Debate With Harris](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722076-DSC4013-debate-trump-kamala-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-rejects-fox-news-proposal-of-2nd-debate-with-harris-5738806)
+    ![Trump Rejects Fox News Proposal of 2nd Debate With Harris](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722076-DSC4013-debate-trump-kamala-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-rejects-fox-news-proposal-of-2nd-debate-with-harris-5738806)
 * [Trump to Hold Rare California Rally in Coachella](https://www.theepochtimes.com/us/trump-to-hold-rare-california-rally-in-coachella-5738798)
     
-    7hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
+    14hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
     
     [![Trump to Hold Rare California Rally in Coachella](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump to Hold Rare California Rally in Coachella](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5724029-Donald-Trump-11_JF_09132024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-hold-rare-california-rally-in-coachella-5738798)
 * [In Wake of Roe Reversal, Abortion-Related Legal Battles Increase](https://www.theepochtimes.com/article/in-wake-of-roe-v-wade-abortion-related-legal-battles-increase-5720894)
     
-    10hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    16hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![In Wake of Roe Reversal, Abortion-Related Legal Battles Increase](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![In Wake of Roe Reversal, Abortion-Related Legal Battles Increase](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738516-Abortion-Bubble-Zone-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-wake-of-roe-v-wade-abortion-related-legal-battles-increase-5720894)
-* [Drug Trials Funded by Manufacturers Find 50 Percent Greater Drug Effectiveness](https://www.theepochtimes.com/health/drug-trials-funded-by-manufacturers-find-50-percent-greater-drug-effectiveness-5737731)
-    
-    12hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
-    
-    [![Drug Trials Funded by Manufacturers Find 50 Percent Greater Drug Effectiveness](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Drug Trials Funded by Manufacturers Find 50 Percent Greater Drug Effectiveness](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738718-shutterstock_2128302299_drug_pharmaceuticals_big_pharma_medicine_pharmaceutical-205x123.jpg.webp)](https://www.theepochtimes.com/health/drug-trials-funded-by-manufacturers-find-50-percent-greater-drug-effectiveness-5737731)
-* [DeSantis Responds to Claims FEMA Can Keep People From Their Homes](https://www.theepochtimes.com/us/desantis-responds-to-claims-fema-can-keep-people-from-their-homes-5738614)
-    
-    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![DeSantis Responds to Claims FEMA Can Keep People From Their Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DeSantis Responds to Claims FEMA Can Keep People From Their Homes](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738502-DeSantis-GettyImages-2173721368KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/desantis-responds-to-claims-fema-can-keep-people-from-their-homes-5738614)
-* [New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://www.theepochtimes.com/us/new-yorks-3rd-congressional-district-candidates-clash-over-crime-migration-taxes-in-debate-5738249)
-    
-    12hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
-    
-    [![New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738750-Tom-SuozziKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-yorks-3rd-congressional-district-candidates-clash-over-crime-migration-taxes-in-debate-5738249)
-* [Day in Photos: Hurricane Milton, Dissolved Parliament, and Shrinking Economy](https://www.theepochtimes.com/article/day-in-photos-dissolved-parliament-shrinking-economy-and-peaceful-revolution-remembrance-5738226)
-    
-    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Hurricane Milton, Dissolved Parliament, and Shrinking Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Hurricane Milton, Dissolved Parliament, and Shrinking Economy](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738699-GettyImages-2176952528-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-dissolved-parliament-shrinking-economy-and-peaceful-revolution-remembrance-5738226)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
