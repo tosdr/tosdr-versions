@@ -687,4 +687,4 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 
                                                  
 
-https://www.arkoselabs.com/arkose-university/sign-up/
+https://www.arkoselabs.com/contact/
