@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![averses éparses](https://www.watson.ch/fr/_watsui/static/img/weather/w-7.svg)13°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)11°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,22 +55,22 @@
 
 Thèmes du moment
 
+* [En direct](https://www.watson.ch/fr/en-direct/)
 * [Tennis](https://www.watson.ch/fr/tennis/)
 * [Rafael Nadal](https://www.watson.ch/fr/rafael-nadal/)
-* [Immobilier](https://www.watson.ch/fr/immobilier/)
+* [Tempête](https://www.watson.ch/fr/tempete/)
+* [Roger Federer](https://www.watson.ch/fr/roger-federer/)
 * [Vidéo](https://www.watson.ch/fr/video/)
 * [People](https://www.watson.ch/fr/people/)
-* [Banques](https://www.watson.ch/fr/banques/)
-* [Football](https://www.watson.ch/fr/football/)
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [ATP](https://www.watson.ch/fr/atp/)
 * [France](https://www.watson.ch/fr/france/)
+* [Musique](https://www.watson.ch/fr/musique/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Catastrophe naturelle](https://www.watson.ch/fr/catastrophe-naturelle/)
+* [Religions](https://www.watson.ch/fr/religions/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [voiture](https://www.watson.ch/fr/voiture/)
-* [nourriture](https://www.watson.ch/fr/nourriture/)
-* [Médecine](https://www.watson.ch/fr/medecine/)
-* [Vaud](https://www.watson.ch/fr/vaud/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [Russie](https://www.watson.ch/fr/russie/)
+* [Iran](https://www.watson.ch/fr/iran/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Intempéries](https://www.watson.ch/fr/intemperies/)
 * [Floride](https://www.watson.ch/fr/floride/)
