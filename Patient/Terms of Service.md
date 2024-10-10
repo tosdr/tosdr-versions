@@ -2,6 +2,8 @@
 
 [](https://patient.info/)[](https://patient.info/)
 
+Search
+
 * [Home](https://patient.info/)
 * [GP practice services](https://patient.info/gp-practice-services)
 * [Health advice](https://patient.info/health)
@@ -102,7 +104,7 @@
         
         [All medical tools and resources](https://patient.info/medical-calculators)
         
-        [BMI calculator](https://patient.info/doctor/bmi-calculator)[Generalised anxiety disorder assessment](https://patient.info/doctor/generalised-anxiety-disorder-assessment-gad-7)[Patient health questionnaire](https://patient.info/doctor/patient-health-questionnaire-phq-9)[Pregnancy due date calculator](https://patient.info/doctor/pregnancy-due-date-calculator)
+        [Isabel DDx Companion professional symptom checker](https://www.isabelhealthcare.com/)[BMI calculator](https://patient.info/doctor/bmi-calculator)[Generalised anxiety disorder assessment](https://patient.info/doctor/generalised-anxiety-disorder-assessment-gad-7)[Patient health questionnaire](https://patient.info/doctor/patient-health-questionnaire-phq-9)[Pregnancy due date calculator](https://patient.info/doctor/pregnancy-due-date-calculator)
         
     
 
