@@ -313,7 +313,7 @@ Giới thiệu trang phunucodon.me - Saoke(\*\*\*.0.57). Saoke TV - Trang web xe
 
 ![protect](/themes/colatv/assets/image/CN_cola.png)
 
-Trang web saoketvg.world đang chờ đăng ký giấy phép hoạt động.
+Trang web saoketvh.world đang chờ đăng ký giấy phép hoạt động.
 
 Điện thoại: [09789234820](tel:09789234820)
 
@@ -323,7 +323,7 @@ Email: [\[email protected\]](http://www.scamcallfighters.com/cdn-cgi/l/email-pr
 
 [RSS](http://www.scamcallfighters.com/feed/) [Giới thiệu](http://www.scamcallfighters.com/gioi-thieu.html "Giới thiệu") [Liên hệ](http://www.scamcallfighters.com/lien-he.html "Liên hệ") [Điều khoản](http://www.scamcallfighters.com/dieu-khoan-html "Điều khoản")
 
-Copyright 2023 by [saoketvg.world](http://www.scamcallfighters.com/ana-cooljapan.com) . All rights reserved.
+Copyright 2023 by [saoketvh.world](http://www.scamcallfighters.com/ana-cooljapan.com) . All rights reserved.
 
 x
 
