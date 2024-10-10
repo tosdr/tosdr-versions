@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Premature optimization is the root of all evil”
+“ Fashion is what seems beautiful now but looks ugly later; art can be ugly at first but it becomes beautiful later”
 
-[Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
+[Unknown](http://www.nytimes.com/2011/10/30/opinion/mona-simpsons-eulogy-for-steve-jobs.html?_r=1&pagewanted=all)
 
 [](https://www.adafruit.com/about)
 
