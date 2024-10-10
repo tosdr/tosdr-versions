@@ -85,20 +85,20 @@ Top downloads
 
 Latest releases
 
-* [Burning Force](https://www.myabandonware.com/game/burning-force-8ev)
-* [Bonze Adventure](https://www.myabandonware.com/game/bonze-adventure-krg)
-* [Bomberman: Panic Bomber](https://www.myabandonware.com/game/bomberman-panic-bomber-en8)
-* [Bubble Bobble](https://www.myabandonware.com/game/bubble-bobble-m4)
-* [Cadash](https://www.myabandonware.com/game/cadash-8ew)
+* [Scrabble Junior](https://www.myabandonware.com/game/scrabble-junior-sky)
+* [Scrabble Journey](https://www.myabandonware.com/game/scrabble-journey-t0o)
+* [The Spiderwick Chronicles](https://www.myabandonware.com/game/the-spiderwick-chronicles-szm)
+* [Cycle Warriors](https://www.myabandonware.com/game/cycle-warriors-sr1)
+* [Destruction Derby](https://www.myabandonware.com/game/destruction-derby-sr0)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [F1 Circus '92](https://www.myabandonware.com/game/f1-circus-92-ks2)
-* [Wolverine and the X-Men](https://www.myabandonware.com/game/wolverine-and-the-x-men-mtf)
-* [Lost & Found: Volume 3](https://www.myabandonware.com/game/lost-found-volume-3-rf0)
+* [Quiz Bishoujo Senshi Sailor Moon: Chiryoku Tairyoku Toki no Un](https://www.myabandonware.com/game/quiz-bishoujo-senshi-sailor-moon-chiryoku-tairyoku-toki-no-un-rqd)
+* [Elite](https://www.myabandonware.com/game/elite-faa)
+* [Rox](https://www.myabandonware.com/game/rox-n68)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
