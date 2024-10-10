@@ -6,10 +6,6 @@ Map of Australia Map of Canada Map of European Union United States United Kingdo
 
 Close×
 
-![icon](//www.morphe.com/cdn/shop/t/904/assets/checkmark_cart.svg?v=32248314250182966831728322321)
-
-![icon](//www.morphe.com/cdn/shop/t/904/assets/gift_icon.svg?v=3524224353090864161728322350)
-
 ![](//www.morphe.com/cdn/shop/t/904/assets/shipping_icon.svg?v=127807994505907103401728322420)
 
   One or more of the items in your cart is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
@@ -32,10 +28,6 @@ Privacy Policy
 ==============
 
 [Skip to Content](#maincontent)
-
-[#### Free Meredith Duxbury Artistry Palette on US orders $50+
-
-#### Free Meredith Palette order $45+](https://www.morphe.com/products/bake-and-set-setting-powder-translucent)
 
 [#### Free shipping on US orders $35+
 
