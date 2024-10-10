@@ -114,7 +114,7 @@
     * [Address Verification](https://www.melissa.com/address-verification)
     * [Business Verification](https://www.melissa.com/personator-identity#business)
     
-    E-Commerce / CRM Improve customer onboarding, marketing & fulfillment.
+    E-commerce/CRM Apps and APIs for higher conversions, better data and more reliable shipping. [See All Melissa Integrations](https://www.melissa.com/integrations "Learn More about Melissa Integrations")
     
     * * *
     
@@ -130,23 +130,21 @@
     
     Find distance & travel time by lat/long pairs.](https://www.melissa.com/geocoding)
     
-    [Shopware
-    
-    Ensure accurate customer data at checkout.](https://www.melissa.com/data-management#e-commerce)
-    
-    [Salesforce / Dynamics CRM
-    
-    Verify & enrich data for better sales & marketing.](https://www.melissa.com/data-management#e-commerce)
-    
-    Popular Products
-    
     * * *
     
-    * [Express Entry](https://www.melissa.com/address-autocomplete)
-    * [IP Locator](https://www.melissa.com/ip-location)
-    * [Clean Suite for Salesforce](https://www.melissa.com/crm-suite)
-    * [Clean Suite for Dynamics CRM](https://www.melissa.com/crm-suite)
-    * [Product Index](https://www.melissa.com/products)
+    E-commerce AppsMelissa Address Validation for Shopify, Stripe & Shopware
+    
+    [](https://www.melissa.com/integrations/address-validation)
+    
+    [](https://www.melissa.com/integrations/address-validation)
+    
+    [](https://www.melissa.com/data-management#e-commerce)
+    
+    CRM AppsMelissa Address Validation for Dynamics 365 and Salesforce
+    
+    [](https://www.melissa.com/crm-suite)
+    
+    [](https://www.melissa.com/crm-suite)
     
     Enrich Gain insight into who and where your customers are.
     
@@ -433,6 +431,7 @@ E-Commerce / CRM
 * [Address Autocomplete](https://www.melissa.com/address-autocomplete)
 * [IP Location](https://www.melissa.com/ip-location)
 * [Street Route](https://www.melissa.com/geocoding)
+* [Shopify / Stripe](https://www.melissa.com/address-validation)
 * [Shopware](https://www.melissa.com/data-management#e-commerce)
 * [Salesforce / Dynamics CRM](https://www.melissa.com/data-management#e-commerce)
 
