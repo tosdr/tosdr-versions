@@ -1,5 +1,3 @@
-Live demo, 10 October: What’s new in Uploadcare File Uploader 💡 [Claim my seat now](https://uploadcare.com/uploader1/#livedemo)
-
 [](https://uploadcare.com/)
 
 [Uploader](https://uploadcare.com/products/file-uploader/)[Image CDN](https://uploadcare.com/cdn/image-cdn/)[Pricing](https://uploadcare.com/pricing/)
