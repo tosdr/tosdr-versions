@@ -12,14 +12,21 @@
 Ezoic Services
 ==============
 
-This website uses the services of Ezoic Inc. (“Ezoic”). Ezoic’s privacy policy is [here](https://www.ezoic.com/privacy-policy/). Ezoic may employ a variety of technologies on this website, including to display advertisements and enable advertising to visitors of this website. For additional information about Ezoic’s advertising partners, please see Ezoic’s Advertising Partner Page [here](https://www.ezoic.com/privacy-policy/ad-partners/).
+Ezoic Services This website uses the services of Ezoic Inc. (“Ezoic”), including to manage third-party interest-based advertising. Ezoic may employ a variety of technologies on this website, including tools to serve content, display advertisements and enable advertising to visitors of this website, which may utilize first and third-party cookies. A cookie is a small text file sent to your device by a web server that enables the website to remember information about your browsing activity. First-party cookies are created by the site you are visiting, while third-party cookies are set by domains other than the one you're visiting. Ezoic and our partners may place third-party cookies, tags, beacons, pixels, and similar technologies to monitor interactions with advertisements and optimize ad targeting. Please note that disabling cookies may limit access to certain content and features on the website, and rejecting cookies does not eliminate advertisements but will result in non-personalized advertising. You can find more information about cookies and how to manage them [here](https://allaboutcookies.org/). The following information may be collected, used, and stored in a cookie when serving personalized ads:
 
-Privacy Policy
---------------
+* IP address
+* Operating system type and version
+* Device type
+* Language preferences
+* Web browser type
+* Email (in a hashed or encrypted form)
 
-  
-  
-Last Updated: 8th of january, 2020  
+Ezoic and its partners may use this data in combination with information that has been independently collected to deliver targeted advertisements across various platforms and websites. Ezoic’s partners may also gather additional data, such as unique IDs, advertising IDs, geolocation data, usage data, device information, traffic data, referral sources, and interactions between users and websites or advertisements, to create audience segments for targeted advertising across different devices, browsers, and apps. You can find more information about interest-based advertising and how to manage them [here](https://youradchoices.com/). You can view Ezoic’s privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoic’s advertising and other partners, you can view Ezoic’s advertising partners [here.](https://www.ezoic.com/privacy-policy/advertising-partners/)
+
+[Privacy Policy](https://www.ezoic.com/privacy-policy/advertising-partners/)
+----------------------------------------------------------------------------
+
+[Last Updated: 8th of january, 2020  
   
 This privacy policy (the **"Privacy Policy"**) explains how LUXEads Pty Ltd (**“Company,”** **“we,”** or **“us”**) collects, uses, shares, and protects information of the users of Company’s websites and mobile or other software applications where this Privacy Policy is posted (collectively, the **“Website”** or Service). The Website allows you to sign up for free items in the mail simply by providing your contact information and honest opinion on what you thought of each product you receive. We collect and share your information to vendors and partnering brands to fulfill your Goodie Boxes, and we then let these brands and consumers know what you think about the products. By using the Website, you are using or directing Company to intentionally disclose personal information to and using Company to intentionally interact with these third parties. BY USING THE WEBSITE, YOU AGREE TO BE BOUND BY OUR PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE WEBSITE.  
   
@@ -27,12 +34,10 @@ Please note that this Privacy Policy only applies to the Website, and not to web
   
 **1\. Who controls your information?**  
   
-Any information or other data provided to or gathered by Company is controlled by:  
-  
+Any information or other data provided to or gathered by Company is controlled by:](https://www.ezoic.com/privacy-policy/advertising-partners/)
 
-LUXEads Pty Ltd   
-353 West 48th Street, Suite 368   
-[\[email protected\]](https://dailygoodiebox.com/cdn-cgi/l/email-protection)
+[LUXEads Pty Ltd   
+353 West 48th Street, Suite 368](https://www.ezoic.com/privacy-policy/advertising-partners/) [\[email protected\]](https://dailygoodiebox.com/cdn-cgi/l/email-protection)
 
 **2\. What types of information do we collect?**  
   
