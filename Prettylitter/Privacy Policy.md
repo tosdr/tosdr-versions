@@ -308,9 +308,9 @@ Austria
 
 Belgium
 
-[English](https://bel.mars.com/)
+[English](https://www.prettylitter.com/en-be)
 
-[English](https://bel.mars.com/)
+[English](https://www.prettylitter.com/en-be)
 
 Czech Republic
 
