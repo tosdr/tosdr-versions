@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Joy
+
+### With heirloom seed swaps, gardeners grow community – and biodiversity](https://www.csmonitor.com/Environment/2024/1010/heirloom-seed-swaps-gardening-biodiversity "With heirloom seed swaps, gardeners grow community – and biodiversity")
+
 [Equality
 
 ### The Philippines has held out on legalizing divorce. Is it set to call it quits?](https://www.csmonitor.com/World/Asia-Pacific/2024/1009/The-Philippines-has-held-out-on-legalizing-divorce.-Is-it-set-to-call-it-quits "The Philippines has held out on legalizing divorce. Is it set to call it quits?")
@@ -99,10 +103,6 @@ Recent Stories
 [Hope
 
 ### Roots of Mexico’s confidence against crime](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1009/Roots-of-Mexico-s-confidence-against-crime "Roots of Mexico’s confidence against crime")
-
-[Trust
-
-### Biden and Netanyahu – and the diminished US standing in Middle East](https://www.csmonitor.com/World/Middle-East/2024/1008/biden-netanyahu-israeli-restraint-gaza-lebanon "Biden and Netanyahu – and the diminished US standing in Middle East")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
