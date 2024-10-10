@@ -205,23 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Gangster Squad; Zero Dark Thirty; A Haunted House; Any Day Now](https://www.somethingawful.com/current-movie-reviews/gangster-squad/1/)
-* [MS Paint unusual/amusing fears you have!](https://www.somethingawful.com/comedy-goldmine/ms-paint-unusualamusing/1/)
-* [Turn that frown upside down, art!](https://www.somethingawful.com/comedy-goldmine/turn-that-frown/1/)
-* [The 2010 Fashion SWAT Horror-ween Frightober Kid's Kostume Spooktacular](https://www.somethingawful.com/fashion-swat/kids-costume-swat/1/)
-* [Warning Signs That You May Be Trapped in a Tom Waits Song](https://www.somethingawful.com/news/tom-waits-characters/)
+* [Sporting Superheroes! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/sporting-superheroes/1/)
+* [The Devil You Don't Know](https://www.somethingawful.com/garbage-day/stage-fm-unsigned/)
+* [December 31, 2007](https://www.somethingawful.com/forum-fridays/ff12-31-07/1/)
+* [Texas is the Place for the Miracles of the Bill Clinton Wife Type and the Babies](https://www.somethingawful.com/news/elpintogrande-turtle-clinton/1/)
+* [El Pinto Grande Revives His Marriage!](https://www.somethingawful.com/news/el-pinto-grande-4/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-grumpy.gif) [Whats got you PISSED OFF](http://forums.somethingawful.com/showthread.php?threadid=4072277 "Whats got you PISSED OFF")
-
 ### Random Articles
 
-* [62 Intolerable Years of Beetle Bailey](https://www.somethingawful.com/news/beetle-bailey-collection/)
-* [Question Time II: Attack of the Groans](https://www.somethingawful.com/weekend-web/question-time-ii/1/)
-* [ALOD Spotlight: DatingTips.ws](https://www.somethingawful.com/news/alod-spotlight-datingtipsws/)
-* [July 3, 2012](https://www.somethingawful.com/twitter-tuesday/tt07-03-12/1/)
-* [Awful Vision: Goth Public Access, WAR NEWS THE END](https://www.somethingawful.com/awfulvision/goth-public-access/1/)
+* [CHILI DOG TIME YAY-UH!](https://www.somethingawful.com/awfulvision/sonic-autotune-anime/1/)
+* [The Perils Surrounding Your Own Home](https://www.somethingawful.com/news/perils-surrounding-your/)
+* [I Hate You Page 181](https://www.somethingawful.com/cliff-yablonski/i-hate-you-181/)
+* [Are You a Spammer?](https://www.somethingawful.com/awful-links/alod-bad-html/)
+* [Celebrity Buttplugs](https://www.somethingawful.com/awful-links/awful-link-4282/)
 
 [Random!](https://www.somethingawful.com/random/)
 
