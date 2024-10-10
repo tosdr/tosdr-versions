@@ -230,12 +230,11 @@ It's Not News, It's Fark
 
 [![Fark25 Party](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want more stories with less ads? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+$10 a month since 19 aught diddly.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -335,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Homicidal man arrested after being over the legal octane rating](https://www.fark.com/goto/13421610) ( [kiro7.com](https://www.fark.com/goto/13421610) ) » [(1 comment)](https://www.fark.com/comments/13421610/Homicidal-man-arrested-after-being-over-legal-octane-rating) |
-| [Discussion](https://www.fark.com/discussion/) | [Bras. Should they be on, or off?](https://www.fark.com/goto/13421948) ( [theguardian.com](https://www.fark.com/goto/13421948) ) » [(11 comments)](https://www.fark.com/comments/13421948/Bras-Should-they-be-on-off) |
-| [Sports](https://www.fark.com/sports/) | [Is Nathaniel Hackett the real reason Super Bowl winning QBs like Wilson and Rodgers fail?](https://www.fark.com/goto/13421756) ( [nbcsports.com](https://www.fark.com/goto/13421756) ) » [(3 comments)](https://www.fark.com/comments/13421756/Is-Nathaniel-Hackett-real-reason-Super-Bowl-winning-QBs-like-Wilson-Rodgers-fail) |
-| [Business](https://www.fark.com/business/) | [G o o g l e](https://www.fark.com/goto/13421714) ( [apnews.com](https://www.fark.com/goto/13421714) ) » [(4 comments)](https://www.fark.com/comments/13421714/G-o-o-g-l-e) |
-| [STEM](https://www.fark.com/stem/) | [What a bunch of snowflakes](https://www.fark.com/goto/13421786) ( [politico.com](https://www.fark.com/goto/13421786) ) » [(1 comment)](https://www.fark.com/comments/13421786/What-a-bunch-of-snowflakes) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Variety's pick for the top 100 horror movies to the left. "List fails without \_\_\_\_" to the right](https://www.fark.com/goto/13421874) ( [variety.com](https://www.fark.com/goto/13421874) ) » [(7 comments)](https://www.fark.com/comments/13421874/Varietys-pick-for-top-100-horror-movies-to-left-List-fails-without-____-to-right) |
-| [Fandom](https://www.fark.com/fandom/) | [Hotline Miami 2: Wrong Country](https://www.fark.com/goto/13422098) ( [ign.com](https://www.fark.com/goto/13422098) ) » [(0 comments)](https://www.fark.com/comments/13422098/Hotline-Miami-2-Wrong-Country) |
-| [D'awww](https://www.fark.com/dawww/) | [Okay, smart lady from that YouTube shape-sorter video, tell us which hole the puppy's head goes in](https://www.fark.com/goto/13422072) ( [aol.com](https://www.fark.com/goto/13422072) ) » [(0 comments)](https://www.fark.com/comments/13422072/Okay-smart-lady-from-that-YouTube-shape-sorter-video-tell-us-which-hole-puppys-head-goes-in) |
-| [Food](https://www.fark.com/food/) | [Got rice? Here are six quick and simple dishes, including one with Spam to address any 'emergency hunger' issues you might be experiencing](https://www.fark.com/goto/13421858) ( [youtube.com](https://www.fark.com/goto/13421858) ) » [(1 comment)](https://www.fark.com/comments/13421858/Got-rice-Here-are-six-quick-simple-dishes-including-one-with-Spam-to-address-any-emergency-hunger-issues-you-might-be-experiencing) |
-| [Politics](https://www.fark.com/politics/) | [Jill Stein AMA goes about as well as it could](https://www.fark.com/goto/13421856) ( [reddit.com](https://www.fark.com/goto/13421856) ) » [(5 comments)](https://www.fark.com/comments/13421856/Jill-Stein-AMA-goes-about-as-well-as-it-could) |
+| [Main](https://www.fark.com/) | [Boss makes a dollar, I make a dime, therefore I poop on company time. Swiss Court: Not so fast there gnistrande](https://www.fark.com/goto/13421962) ( [huffpost.com](https://www.fark.com/goto/13421962) ) » [(24 comments)](https://www.fark.com/comments/13421962/Boss-makes-a-dollar-I-make-a-dime-therefore-I-poop-on-company-time-Swiss-Court-Not-so-fast-there-gnistrande) |
+| [Discussion](https://www.fark.com/discussion/) | [Commercial airline flight experiences "mid-air rammy"](https://www.fark.com/goto/13421774) ( [dailyrecord.co.uk](https://www.fark.com/goto/13421774) ) » [(0 comments)](https://www.fark.com/comments/13421774/Commercial-airline-flight-experiences-mid-air-rammy) |
+| [Sports](https://www.fark.com/sports/) | ["But it is better at seeing the future than the average guy doing clicker finger reps on League Pass." Uh, any viewer who watches more than their own team and a few nationally hyped games in any sport is in the top 2 percent of "experts," intern](https://www.fark.com/goto/13422258) ( [espn.com](https://www.fark.com/goto/13422258) ) » [(0 comments)](https://www.fark.com/comments/13422258/But-it-is-better-at-seeing-future-than-average-guy-doing-clicker-finger-reps-on-League-Pass-Uh-any-viewer-who-watches-more-than-their-own-team-a-few-nationally-hyped-games-in-any-sport-is-in-top-2-percent-of-experts-intern) |
+| [Business](https://www.fark.com/business/) | [We bought your favorite craft brewery and substituted our industrial lager for IPAs, why aren't you buying any more? The labels haven't changed](https://www.fark.com/goto/13421940) ( [phys.org](https://www.fark.com/goto/13421940) ) » [(7 comments)](https://www.fark.com/comments/13421940/We-bought-your-favorite-craft-brewery-substituted-our-industrial-lager-for-IPAs-why-arent-you-buying-any-more-The-labels-havent-changed) |
+| [STEM](https://www.fark.com/stem/) | [Hurricane Milton, and the ashes of hurricane researcher Peter Dodge](https://www.fark.com/goto/13421996) ( [firstcoastnews.com](https://www.fark.com/goto/13421996) ) » [(3 comments)](https://www.fark.com/comments/13421996/Hurricane-Milton-the-ashes-of-hurricane-researcher-Peter-Dodge) |
+| [Entertainment](https://www.fark.com/entertainment/) | [After unlikely success, internet hot sauce commercial failing to deliver hard hitting content](https://www.fark.com/goto/13421934) ( [independent.co.uk](https://www.fark.com/goto/13421934) ) » [(5 comments)](https://www.fark.com/comments/13421934/After-unlikely-success-internet-hot-sauce-commercial-failing-to-deliver-hard-hitting-content) |
+| [Fandom](https://www.fark.com/fandom/) | [It doesn't list a title, but if you're a Patti LuPone fan, this is her episode, and previews sound fun. "Agatha All Along", Episode 5, drops on Disney+ at 9 PM ET](https://www.fark.com/goto/13421702) ( [imdb.com](https://www.fark.com/goto/13421702) ) » [(6 comments)](https://www.fark.com/comments/13421702/It-doesnt-list-a-title-but-if-youre-a-Patti-LuPone-fan-this-is-her-episode-previews-sound-fun-Agatha-All-Along-Episode-5-drops-on-Disney-at-9-PM-ET) |
+| [D'awww](https://www.fark.com/dawww/) | [Okay, smart lady from that YouTube shape-sorter video, tell us which hole the puppy's head goes in](https://www.fark.com/goto/13422072) ( [aol.com](https://www.fark.com/goto/13422072) ) » [(4 comments)](https://www.fark.com/comments/13422072/Okay-smart-lady-from-that-YouTube-shape-sorter-video-tell-us-which-hole-puppys-head-goes-in) |
+| [Food](https://www.fark.com/food/) | [Like tea. Tired of paying for imported chinese tea? Have a holly bush in your front lawn? You may be in luck my friend](https://www.fark.com/goto/13422238) ( [youtube.com](https://www.fark.com/goto/13422238) ) » [(4 comments)](https://www.fark.com/comments/13422238/Like-tea-Tired-of-paying-for-imported-chinese-tea-Have-a-holly-bush-in-your-front-lawn-You-may-be-in-luck-my-friend) |
+| [Politics](https://www.fark.com/politics/) | [Hahahahahahahaha... \*breathe\* Wait? You're serious? HAHAHAHAHAHAHAHAHA OH WOW](https://www.fark.com/goto/13422248) ( [mediaite.com](https://www.fark.com/goto/13422248) ) » [(32 comments)](https://www.fark.com/comments/13422248/Hahahahahahahaha-breathe-Wait-Youre-serious-HAHAHAHAHAHAHAHAHA-OH-WOW) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -354,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 09 2024 15:42:26  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 09 2024 21:42:50  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
