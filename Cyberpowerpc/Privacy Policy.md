@@ -82,6 +82,8 @@ NVIDIA Gaming PCs
 
 Intel Gaming PCs
 
+[Intel Core Ultra Series 2](https://www.cyberpowerpc.com/page/intel/Intel-Core-Ultra-Series/)
+
 [Intel Core 14th Gen](https://www.cyberpowerpc.com/page/Intel/14th-Gen-Core/)
 
 [Intel Core 13th Gen](https://www.cyberpowerpc.com/page/Intel/13th-Gen-Core/)
@@ -315,6 +317,8 @@ NVIDIA Gaming PCs
 [All NVIDIA Gaming PCs](https://www.cyberpowerpc.com/category/nvidia-gaming-pcs/)
 
 Intel Gaming PCs
+
+[Intel Core Ultra Series 2](https://www.cyberpowerpc.com/page/Intel/Intel-Core-Ultra-Series/)
 
 [Intel Core 14th Gen](https://www.cyberpowerpc.com/page/Intel/14th-Gen-Core/)
 
