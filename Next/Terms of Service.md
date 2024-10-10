@@ -1,6 +1,6 @@
 5.38.17
 
-1728550458679
+1728572819864
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.15.1
 
-1728549691946
+1728571635107
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1728549738882
+1728571513829
 
 You need to enable JavaScript to run this app.
 
@@ -550,6 +550,26 @@ Please note the redemption of the 10% welcome offer to credit applies only to Ne
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
 
+### 15% off on Selected Clinique Promotion
+
+Up to 15% off on selected Clinique products.
+
+Discounted price visible on product listing page and product already includes saving.
+
+Item will be added to basket at discounted price.
+
+Offer available while stocks last.
+
+### 40% Off Selected Bath and Body Works Soaps Promotion
+
+Selected Bath and Body Works soaps with 40% discount.
+
+Discounted price visible on product listing page and product already includes saving.
+
+Item will be added to basket at discounted price.
+
+Offer available while stocks last.
+
 ### Estée Lauder Promotion
 
 Receive the Blockbuster 11-Piece Gift Set for £85 when you purchase 2 products from Estée Lauder. The Estée Lauder gift contains:
@@ -585,6 +605,24 @@ Discounted price visible on product listing page and product already includes sa
 Item will be added to basket at discounted price.
 
 Offer available while stocks last.
+
+### 15% off Barbour Tailoring
+
+1. Offer available to selected customers, criteria predefined by Next Retail Limited
+2. Your offer will be communicated to you and added to your account automatically at our discretion.
+3. Offer valid across selected items which can be found [https://www.next.co.uk/shop/promotion-barbourtailoringpromo2024-0](https://www.next.co.uk/shop/promotion-barbourtailoringpromo2024-0)
+4. This offer will be available between 00:01 on 14/10/2024 until 23:59 on 17/11/2024.
+5. You must be logged into your customer account. The discount can only be used by the account holder.
+6. Where there are multiple offers available on items ordered, the offer with the biggest cash saving will be applied.
+7. Promotion discount applied will be apportioned across all qualifying items.
+8. The offer can only be used once per customer.
+9. The offer is for online purchases only.
+10. The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
+11. The discount cannot be exchanged for cash and no refund or change will be given.
+12. Usual delivery times, methods and charges and returns policy apply.
+13. We reserve the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
+14. The promoter is Next Retail Limited , Desford Road, Enderby, Leicester, LE19 4AT.
+15. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
 
 ### £5 off when you shop our app
 
@@ -758,21 +796,6 @@ Offer applies while stocks last.
 14. The promoter is Next Retail Limited, Desford Road, Enderby, Leicester, LE19 4AT.
 15. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
 
-### Prada Promotion
-
-The Prada Gift will be automatically added to bag when you buy one selected Prada product. The Prada Gift contains: Prada Paradoxe Virtual Flower Eau de Parfum 7ml
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.  
-  
-The Prada Gift will be automatically added once 1 qualifying Prada products have been added to the bag on either the Product or Shopping Bag Pages  
-  
-The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.  
-  
-This offer is not available to staff.  
-  
-Offer applies while stocks last.  
-  
-
 ### Iconic London Promotion
 
 The Iconic London Gift will be automatically added to bag when you buy two selected Iconic London products. The Iconic London Gift contains: Bronze and Smokey Eyeshadow Palette
@@ -780,21 +803,6 @@ The Iconic London Gift will be automatically added to bag when you buy two selec
 To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.  
   
 The Iconic London Gift will be automatically added once 2 qualifying Iconic London products have been added to the bag on either the Product or Shopping Bag Pages.  
-  
-The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.  
-  
-This offer is not available to staff.  
-  
-Offer applies while stocks last.  
-  
-
-### Jean Paul Gaultier Promotion
-
-The Jean Paul Gaultier gift will be automatically added to bag when you buy one selected Jean Paul Gaultier product. Jean Paul Gaultier Gift contains: Divine EDP 10ml & Pouch
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.  
-  
-The Jean Paul Gaultier Gift will be automatically added once 1 qualifying Jean Paul Gaultier product has been added to the bag on either the Product or Shopping Bag Pages.  
   
 The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.  
   
@@ -2581,7 +2589,7 @@ You need to enable JavaScript to run this app.
 
 3.15.1
 
-1728549569454
+1728572263885
 
 ### Our Social Networks
 
