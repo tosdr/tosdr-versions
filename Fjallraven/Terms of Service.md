@@ -78,9 +78,13 @@ Asia
     
     * [Show all](https://www.fjallraven.com/us/en-us/men/)
     * [New Arrivals](https://www.fjallraven.com/us/en-us/men/new-arrivals/)
-    * [Best Sellers](https://www.fjallraven.com/us/en-us/men/best-sellers/)
-    * [Limited Edition](https://www.fjallraven.com/us/en-us/men/limited-edition/)
-    * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/fjallraven-specialized/)
+    * Featured Collections
+        
+        * [Show all](https://www.fjallraven.com/us/en-us/men/featured-collections/)
+        * [Best Sellers](https://www.fjallraven.com/us/en-us/men/featured-collections/best-sellers/)
+        * [Limited Edition](https://www.fjallraven.com/us/en-us/men/featured-collections/limited-edition/)
+        * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/featured-collections/fjallraven-specialized/)
+        
     * Jackets
         
         * [Show all](https://www.fjallraven.com/us/en-us/men/jackets/)
@@ -149,10 +153,10 @@ Asia
     * [New Arrivals](https://www.fjallraven.com/us/en-us/women/new-arrivals/)
     * Featured Collections
         
-        * [Show all](https://www.fjallraven.com/us/en-us/women/featured-collections/)
-        * [Best Sellers](https://www.fjallraven.com/us/en-us/women/featured-collections/best-sellers/)
-        * [Limited Edition](https://www.fjallraven.com/us/en-us/women/featured-collections/limited-edition/)
-        * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/women/featured-collections/fjallraven-specialized/)
+        * [Show all](https://www.fjallraven.com/us/en-us/women/featured-collections-00e49e3f/)
+        * [Best Sellers](https://www.fjallraven.com/us/en-us/women/featured-collections-00e49e3f/best-sellers/)
+        * [Limited Edition](https://www.fjallraven.com/us/en-us/women/featured-collections-00e49e3f/limited-edition/)
+        * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/women/featured-collections-00e49e3f/fjallraven-specialized/)
         
     * Jackets
         
@@ -279,7 +283,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=80cc0889-29bc-49c2-8323-4cd2515d1edd)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=dac4ede8-a675-452c-abf0-954399ca51a8)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -290,9 +294,13 @@ Asia
         
         * [Show all](https://www.fjallraven.com/us/en-us/men/)
         * [New Arrivals](https://www.fjallraven.com/us/en-us/men/new-arrivals/)
-        * [Best Sellers](https://www.fjallraven.com/us/en-us/men/best-sellers/)
-        * [Limited Edition](https://www.fjallraven.com/us/en-us/men/limited-edition/)
-        * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/fjallraven-specialized/)
+        * Featured Collections
+            
+            * [Show all Featured Collections](https://www.fjallraven.com/us/en-us/men/featured-collections/)
+            * [Best Sellers](https://www.fjallraven.com/us/en-us/men/featured-collections/best-sellers/)
+            * [Limited Edition](https://www.fjallraven.com/us/en-us/men/featured-collections/limited-edition/)
+            * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/men/featured-collections/fjallraven-specialized/)
+            
         * Jackets
             
             * [Show all Jackets](https://www.fjallraven.com/us/en-us/men/jackets/)
@@ -343,10 +351,10 @@ Asia
         * [New Arrivals](https://www.fjallraven.com/us/en-us/women/new-arrivals/)
         * Featured Collections
             
-            * [Show all Featured Collections](https://www.fjallraven.com/us/en-us/women/featured-collections/)
-            * [Best Sellers](https://www.fjallraven.com/us/en-us/women/featured-collections/best-sellers/)
-            * [Limited Edition](https://www.fjallraven.com/us/en-us/women/featured-collections/limited-edition/)
-            * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/women/featured-collections/fjallraven-specialized/)
+            * [Show all Featured Collections](https://www.fjallraven.com/us/en-us/women/featured-collections-00e49e3f/)
+            * [Best Sellers](https://www.fjallraven.com/us/en-us/women/featured-collections-00e49e3f/best-sellers/)
+            * [Limited Edition](https://www.fjallraven.com/us/en-us/women/featured-collections-00e49e3f/limited-edition/)
+            * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/women/featured-collections-00e49e3f/fjallraven-specialized/)
             
         * Jackets
             
@@ -446,7 +454,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=80cc0889-29bc-49c2-8323-4cd2515d1edd)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=dac4ede8-a675-452c-abf0-954399ca51a8)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -483,7 +491,7 @@ Asia
             * [Sustainable design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
             * [Sustainable Materials](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-materials/)
             * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
-            * [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
+            * [Product Care](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
             
         * [Careers](https://career.fjallraven.com/?_ga=2.56266475.1301247533.1630331041-1533892604.1626727350&_gac=1.146943685.1627315080.CjwKCAjwuvmHBhAxEiwAWAYj-B_VkGwnQduvVzv-L-YiEIeAA89zsmMGGGE7HjcJqqsqGNcd0fHXvBoCAQsQAvD_BwE)
         * [Our Materials](https://www.fjallraven.com/us/en-us/about/our-materials/)
@@ -542,7 +550,7 @@ Main Content Starts Here
     * [Sustainable design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
     * [Sustainable Materials](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-materials/)
     * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
-    * [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
+    * [Product Care](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
 * [Careers](https://career.fjallraven.com/?_ga=2.56266475.1301247533.1630331041-1533892604.1626727350&_gac=1.146943685.1627315080.CjwKCAjwuvmHBhAxEiwAWAYj-B_VkGwnQduvVzv-L-YiEIeAA89zsmMGGGE7HjcJqqsqGNcd0fHXvBoCAQsQAvD_BwE)
 * [Our Materials](https://www.fjallraven.com/us/en-us/about/our-materials/)
 
@@ -670,7 +678,7 @@ Customer Service
 * [Returns](https://www.fjallraven.com/us/en-us/customer-service/returns/)
 * [Warranty](https://www.fjallraven.com/us/en-us/customer-service/warranty/)
 * [Product Families](https://www.fjallraven.com/us/en-us/customer-service/guides/)
-* [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
+* [Product Care](https://www.fjallraven.com/us/en-us/customer-service/care-repair/)
 * [Repair](https://www.fjallraven.com/us/en-us/customer-service/repair/)
 * [Size Guide](https://www.fjallraven.com/us/en-us/customer-service/size-chart/)
 * [Industry Pro Program](https://www.fjallraven.com/us/en-us/industry-pro-registration/)
@@ -703,7 +711,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=80cc0889-29bc-49c2-8323-4cd2515d1edd)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=dac4ede8-a675-452c-abf0-954399ca51a8)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
