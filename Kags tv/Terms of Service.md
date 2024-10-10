@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/WTOL/images/a7031c63-aabe-4179-b347-0ce822388017/a7031c63-aabe-4179-b347-0ce822388017_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/a7031c63-aabe-4179-b347-0ce822388017/a7031c63-aabe-4179-b347-0ce822388017_360x203.jpg)](https://www.kagstv.com/article/news/crime/juvenile-student-arrested-for-threatening-to-bring-a-gun-to-sam-rayburn-intermediate-school-in-bryan-tx-oct-10-2024/500-c408000e-4b5c-4bb3-8555-211079056bf4)
+        
+        #### [Juvenile arrested for threatening to bring a gun to Bryan ISD school](https://www.kagstv.com/article/news/crime/juvenile-student-arrested-for-threatening-to-bring-a-gun-to-sam-rayburn-intermediate-school-in-bryan-tx-oct-10-2024/500-c408000e-4b5c-4bb3-8555-211079056bf4)
+        
     *  [![](https://media.kagstv.com/assets/KIII/images/94897892-4cc1-46a4-a816-de3a86f9d5ba/20241010T033802/94897892-4cc1-46a4-a816-de3a86f9d5ba_16x9.jpg) ![](https://media.kagstv.com/assets/KIII/images/94897892-4cc1-46a4-a816-de3a86f9d5ba/20241010T033802/94897892-4cc1-46a4-a816-de3a86f9d5ba_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-am-forest-service-raises-wildfire-preparedness-level/503-86a97a04-92b9-4221-9d13-3292cf50162f)
         
         #### [Texas A&M Forest Service raises Wildland Fire Preparedness Level as rural counties see busy days fighting fires](https://www.kagstv.com/article/news/local/texas-am-forest-service-raises-wildfire-preparedness-level/503-86a97a04-92b9-4221-9d13-3292cf50162f)
-        
-    *  [![](https://media.kagstv.com/assets/WFAA/images/4dc20b6a-8e57-4cdf-b11c-ef61e0a2982f/20240709T225712/4dc20b6a-8e57-4cdf-b11c-ef61e0a2982f_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/4dc20b6a-8e57-4cdf-b11c-ef61e0a2982f/20240709T225712/4dc20b6a-8e57-4cdf-b11c-ef61e0a2982f_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-am-university-commerce-considering-potential-new-name/287-9a47a6a5-cf8c-4968-b5cf-fd32cb4fd5f2)
-        
-        #### [Texas A&M University-Commerce considering another potential new name](https://www.kagstv.com/article/news/local/texas-am-university-commerce-considering-potential-new-name/287-9a47a6a5-cf8c-4968-b5cf-fd32cb4fd5f2)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.kagstv.com/assets/CCT/images/aab71019-9b3c-47af-b3c1-ee085ecebdb4/20241010T133508/aab71019-9b3c-47af-b3c1-ee085ecebdb4_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/aab71019-9b3c-47af-b3c1-ee085ecebdb4/20241010T133508/aab71019-9b3c-47af-b3c1-ee085ecebdb4_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/us-jobless-claims-jump-to-highest-in-more-than-a-year/507-49d361e4-4fd9-4bfb-8ffd-f526656449c3)
+    *  [![](https://media.kagstv.com/assets/WTSP/images/aedc088b-1e2d-40c2-a659-b06424810651/20241010T034805/aedc088b-1e2d-40c2-a659-b06424810651_16x9.jpg) ![](https://media.kagstv.com/assets/WTSP/images/aedc088b-1e2d-40c2-a659-b06424810651/20241010T034805/aedc088b-1e2d-40c2-a659-b06424810651_360x203.jpg)](https://www.kagstv.com/article/weather/hurricane/hurricane-milton/video-tropicana-field-roof-torn-off/67-d5100a87-0aaf-4dbd-a0fe-075abb3a9745)
         
-        #### [US jobless claims jump to 258,000, the most in more than a year. Analysts point to Hurricane Helene](https://www.kagstv.com/article/news/nation-world/us-jobless-claims-jump-to-highest-in-more-than-a-year/507-49d361e4-4fd9-4bfb-8ffd-f526656449c3)
+        #### [WATCH: Tropicana Field's roof torn off by winds from Hurricane Milton](https://www.kagstv.com/article/weather/hurricane/hurricane-milton/video-tropicana-field-roof-torn-off/67-d5100a87-0aaf-4dbd-a0fe-075abb3a9745)
         
-    *  [![](https://media.kagstv.com/assets/WTLV/images/bf40e365-8bb4-4b45-910e-59d19288ec79/20241007T164752/bf40e365-8bb4-4b45-910e-59d19288ec79_16x9.jpg) ![](https://media.kagstv.com/assets/WTLV/images/bf40e365-8bb4-4b45-910e-59d19288ec79/20241007T164752/bf40e365-8bb4-4b45-910e-59d19288ec79_360x203.jpg)](https://www.kagstv.com/article/weather/hurricane/category-5-hurricane-milton-hit-texas/500-f6daea50-1e51-4aa5-840d-a7d267ec1c43)
+    *  [![](https://media.kagstv.com/assets/CCT/images/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32/20241010T152654/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32/20241010T152654/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/anderson-cooper-hit-by-object-during-hurricane-milton-live-cnn-coverage/507-6ce49ad1-252c-480c-9edc-39816f6d957f)
         
-        #### [Will Hurricane Milton hit Texas?](https://www.kagstv.com/article/weather/hurricane/category-5-hurricane-milton-hit-texas/500-f6daea50-1e51-4aa5-840d-a7d267ec1c43)
+        #### [CNN's Anderson Cooper hit by flying object during live hurricane coverage](https://www.kagstv.com/article/news/nation-world/anderson-cooper-hit-by-object-during-hurricane-milton-live-cnn-coverage/507-6ce49ad1-252c-480c-9edc-39816f6d957f)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-75°
+94°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
