@@ -44,7 +44,10 @@ I want this website to be clear and accurate, so if you notice something incorre
 
 Email: [frank@cnot.io](mailto:frank@cnot.io)
 
-[Click here for my linkedin](https://www.linkedin.com/in/francis-harkins-382324151/)
+Links:
+
+* [My personal website](https://frankharkins.github.io/)
+* [Linkedin](https://www.linkedin.com/in/francis-harkins-382324151/)
 
 Thanks for reading,
 
