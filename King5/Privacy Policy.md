@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/681bbb0f-c95c-42ba-83a2-07e8d72a0b35/20241009T184249/681bbb0f-c95c-42ba-83a2-07e8d72a0b35_16x9.jpg) ![](https://media.king5.com/assets/KING/images/681bbb0f-c95c-42ba-83a2-07e8d72a0b35/20241009T184249/681bbb0f-c95c-42ba-83a2-07e8d72a0b35_360x203.jpg)](https://www.king5.com/article/news/local/seattle/uw-medicine-biochemistry-professor-awarded-nobel-prize/281-c43e2ca5-9c52-4f6d-803c-fb4093e17bac)
+    *  [![](https://media.king5.com/assets/WWL/images/a3573a72-fbc6-467e-bb7a-688a0429f586/20241010T033409/a3573a72-fbc6-467e-bb7a-688a0429f586_16x9.jpg) ![](https://media.king5.com/assets/WWL/images/a3573a72-fbc6-467e-bb7a-688a0429f586/20241010T033409/a3573a72-fbc6-467e-bb7a-688a0429f586_360x203.jpg)](https://www.king5.com/article/news/local/wa-hospitals-conserving-iv-fluid-hurricane-helene/281-6c1d0f0c-7924-49aa-afd6-55468249fbc8)
         
-        #### [UW Medicine professor awarded Nobel Prize in chemistry](https://www.king5.com/article/news/local/seattle/uw-medicine-biochemistry-professor-awarded-nobel-prize/281-c43e2ca5-9c52-4f6d-803c-fb4093e17bac)
+        #### [WA hospitals conserving IV fluid in Hurricane Helene aftermath](https://www.king5.com/article/news/local/wa-hospitals-conserving-iv-fluid-hurricane-helene/281-6c1d0f0c-7924-49aa-afd6-55468249fbc8)
         
-    *  [![](https://media.king5.com/assets/KING/images/f0a54c4d-6aad-4ece-960d-f27abee2e7ac/20240512T000643/f0a54c4d-6aad-4ece-960d-f27abee2e7ac_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f0a54c4d-6aad-4ece-960d-f27abee2e7ac/20240512T000643/f0a54c4d-6aad-4ece-960d-f27abee2e7ac_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-forecast-washington-state/281-c8af2b7e-9fc8-43a4-8bc3-d8158a26ec5f)
+    *  [![](https://media.king5.com/assets/KING/images/f0706a3c-c2f0-4889-a843-4d7d7ed29254/20240904T140233/f0706a3c-c2f0-4889-a843-4d7d7ed29254_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f0706a3c-c2f0-4889-a843-4d7d7ed29254/20240904T140233/f0706a3c-c2f0-4889-a843-4d7d7ed29254_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/kraken-joey-daccord-contract-extension-value/281-3055cdae-7f8a-4c83-bb7a-1176b0a50034)
         
-        #### [Best opportunity for northern lights viewing since May arrives Thursday](https://www.king5.com/article/weather/weather-blog/northern-lights-forecast-washington-state/281-c8af2b7e-9fc8-43a4-8bc3-d8158a26ec5f)
+        #### [Here's how much money Joey Daccord will earn with Kraken contract extension](https://www.king5.com/article/sports/nhl/kraken/kraken-joey-daccord-contract-extension-value/281-3055cdae-7f8a-4c83-bb7a-1176b0a50034)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/CCT/images/e62e4528-8183-426e-96d9-0120aaab292d/20241010T123321/e62e4528-8183-426e-96d9-0120aaab292d_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e62e4528-8183-426e-96d9-0120aaab292d/20241010T123321/e62e4528-8183-426e-96d9-0120aaab292d_360x203.jpg)](https://www.king5.com/article/news/nation-world/hurricane-milton-strikes-florida/507-9e0d7dc3-1328-491f-8535-6f4cb85375ed)
-        
-        #### [Hurricane Milton plows across Florida, pounding cities and whipping up tornadoes. At least 4 dead](https://www.king5.com/article/news/nation-world/hurricane-milton-strikes-florida/507-9e0d7dc3-1328-491f-8535-6f4cb85375ed)
-        
-    *  [![](https://media.king5.com/assets/KING/images/4ff58e24-e90e-4e92-9146-fec09593a633/20241010T120204/4ff58e24-e90e-4e92-9146-fec09593a633_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4ff58e24-e90e-4e92-9146-fec09593a633/20241010T120204/4ff58e24-e90e-4e92-9146-fec09593a633_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/9c86e8bc-0141-4c86-8ce9-3059b420acb6/20241010T192727/9c86e8bc-0141-4c86-8ce9-3059b420acb6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9c86e8bc-0141-4c86-8ce9-3059b420acb6/20241010T192727/9c86e8bc-0141-4c86-8ce9-3059b420acb6_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/CCT/images/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32/20241010T152654/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32/20241010T152654/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32_360x203.jpg)](https://www.king5.com/article/news/nation-world/anderson-cooper-hit-by-object-during-hurricane-milton-live-cnn-coverage/507-6ce49ad1-252c-480c-9edc-39816f6d957f)
+        
+        #### [CNN's Anderson Cooper hit by flying object during live hurricane coverage](https://www.king5.com/article/news/nation-world/anderson-cooper-hit-by-object-during-hurricane-milton-live-cnn-coverage/507-6ce49ad1-252c-480c-9edc-39816f6d957f)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-51°
+56°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
