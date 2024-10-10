@@ -369,15 +369,6 @@ This will take just a moment…
   
 We're finding the right person on our team to help your brand!
 
-[](https://www.yotpo.com/)
-
-Success!
-
-We sent your information to our team,  
-and they'll reach out in no time!
-
-[See all customer stories](https://www.yotpo.com/case-studies/)
-
 “Yotpo is a fundamental part of our recommended tech stack.”
 
 ![Shopify plus logo](https://www.yotpo.com/wp-content/themes/yotpo/images/rad/v-2/shopifyplus.svg) Laura Doonin, Commercial Director
