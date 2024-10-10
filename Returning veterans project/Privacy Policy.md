@@ -191,10 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![ Eugene Fowler](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![1SG Robert Beresford](https://cdn.returningveterans.org/images/honor/1SG_Robert_Beresford.png)  
 
-**In Memory of Eugene Fowler**  
-Submitted by Lynn Fowler](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of 1SG Robert Beresford**  
+United States Army  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -239,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/09/24 - 8:32:37  
+Printed 10/10/24 - 2:32:08  
 © 2024 Returning Veterans Project
