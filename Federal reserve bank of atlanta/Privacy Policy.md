@@ -196,7 +196,7 @@ Menutoggle menu
     * [Careers](https://www.atlantafed.org/about/careers)
         * [Search for Jobs ![offsite link](-/media/CF203F8E38CE4990A9ACF668D2BF25AE.ashx)](https://rb.wd5.myworkdayjobs.com/FRS?hiringCompany=7186c32a743f01bdfedfb3caaf012e0c) 
         * [Well-being](https://www.atlantafed.org/about/careers/benefits)
-        * [Diversity](https://www.atlantafed.org/banking-and-payments)
+        * [Diversity](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion)
         * [Development](https://www.atlantafed.org/about/careers/career-development)
         * [Sustainability](https://www.atlantafed.org/about/atlantafed/sustainability)
         * [Community](https://www.atlantafed.org/about/careers/community-involvement)
@@ -315,7 +315,7 @@ Questions or comments relating to Board-delegated and fiscal agent functions sho
 
  Your name  Your email address  Message    
 
-[![](/-/media/Images/gallery/people-named/federal-reserve-atlanta/employees/001-tanya-das-career/gallery.png)
+[![](/-/media/Images/gallery/people-named/federal-reserve-atlanta/employees/003-footer-eagle/gallery.jpg)
 
 Careers](https://www.atlantafed.org/about/careers?d=1&s=ad)
 
