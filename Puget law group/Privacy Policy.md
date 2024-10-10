@@ -222,8 +222,8 @@ Areas We Serve
 
 * [Bellevue](https://www.pugetlawgroup.com/bellevue-wa/criminal-defense-lawyer/)
 * [Olympia](https://www.pugetlawgroup.com/olympia-wa/criminal-defense-lawyer/)
+* [Seattle](https://www.pugetlawgroup.com/)
 * [Kent](https://www.pugetlawgroup.com/kent-wa/criminal-defense-lawyer/)
-* [Seattle](https://www.pugetlawgroup.com/seattle-wa/criminal-defense-lawyer/)
 * [King County](https://www.pugetlawgroup.com/washington/king-county-dui-lawyer/)
 * [Pierce](https://www.pugetlawgroup.com/washington/pierce-county-dui-lawyer/)
 * [Shoreline](https://www.pugetlawgroup.com/shoreline-wa/dui-lawyer/)
