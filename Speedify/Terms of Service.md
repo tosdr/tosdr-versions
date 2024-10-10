@@ -122,17 +122,6 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 [Download Speedify](https://speedify.com/download/) 
 
-Upcoming Events
----------------
-
-Oct 9
-
-12:00 pm - 1:00 pm EDT
-
-### [10/09 @ 12pm EDT – Routers that can BOND Wifi, 5G, Starlink | LIVE from NAB | Ask the CEO your tech questions](https://speedify.com/event/10-09-12pm-edt-routers-that-can-bond-wifi-5g-starlink-live-from-nab-ask-the-ceo-your-tech-questions/ "10/09 @ 12pm EDT – Routers that can BOND Wifi, 5G, Starlink | LIVE from NAB | Ask the CEO your tech questions")
-
-[View Calendar](https://speedify.com/calendar/ "View more events.")
-
 #### Popular Posts
 
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
