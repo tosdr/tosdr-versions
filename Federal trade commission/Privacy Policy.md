@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC, DOJ and CFPB Warn Consumers About Potential Scams and Price Gouging in the Wake of Hurricanes and other Natural Disasters](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-doj-cfpb-warn-consumers-about-potential-scams-price-gouging-wake-hurricanes-other-natural)
+    ### [FTC Takes Action Against Marriott and Starwood Over Multiple Data Breaches](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-takes-action-against-marriott-starwood-over-multiple-data-breaches)
     
     October 9, 2024
     
