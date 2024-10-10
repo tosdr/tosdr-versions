@@ -119,8 +119,9 @@ Table of Contents Table of Contents Toggle navigation
                     * [Delete a version](https://www.knowledgeowl.com/help/deleting-a-version)Updated
                 * [Version notes](javascript:void(0);)
                     
-                    * [Article version notes](https://www.knowledgeowl.com/help/article-version-notes)
-                    * [Custom content category version notes](https://www.knowledgeowl.com/help/category-version-notes)
+                    * [What are version notes?](https://www.knowledgeowl.com/help/what-are-version-notes)
+                    * [View version notes](https://www.knowledgeowl.com/help/view-version-notes)
+                    * [Edit version notes](https://www.knowledgeowl.com/help/edit-version-notes)
                 * [Version sharing/review process](javascript:void(0);)
                     
                     * [Article in-app version review process](https://www.knowledgeowl.com/help/in-app-version-review-process)
@@ -167,6 +168,7 @@ Table of Contents Table of Contents Toggle navigation
             * [Add files and images directly in File Library](https://www.knowledgeowl.com/help/add-images-in-bulk)
             * [Edit and update files](https://www.knowledgeowl.com/help/editing-and-swapping-files)
             * [Image upload errors](https://www.knowledgeowl.com/help/file-upload-errors)
+            * [Why are some screenshots blurry?](https://www.knowledgeowl.com/help/why-are-some-images-blurry)
             * [Image best practices](javascript:void(0);)
                 
                 * [Intro](https://www.knowledgeowl.com/help/image-best-practice-intro)
@@ -175,6 +177,7 @@ Table of Contents Table of Contents Toggle navigation
                 * [Resizing images](https://www.knowledgeowl.com/help/resizing-images)
                 * [Accessible images](https://www.knowledgeowl.com/help/accessible-images)
                 * [Gif and animation usage](https://www.knowledgeowl.com/help/gif-usage)
+                * [Create consistent screenshots](https://www.knowledgeowl.com/help/create-consistent-screenshots)New
         * [Add videos to articles](javascript:void(0);)
             
             * [Add videos to your articles](https://www.knowledgeowl.com/help/videos)
