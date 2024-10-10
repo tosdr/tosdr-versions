@@ -1,8 +1,8 @@
 [Skip to main content](#main-content)
 
-[![Home](/themes/custom/policy/assets/logo.svg)](https://www.psu.edu/ "Home")
+[![Penn State](/themes/custom/policy/assets/logo.svg)](https://www.psu.edu/ "Penn State")
 
-[Penn State Policies](https://www.psu.edu/ "Home")
+[Penn State Policies](https://policy.psu.edu/ "Home")
 
 Start Search
 
