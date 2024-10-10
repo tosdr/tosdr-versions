@@ -480,7 +480,7 @@ de Inversión](https://www.brubank.com/fondos-comunes-de-inversion)[Caja de ahor
 
 [Organigrama interno](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/66292b12ddd679e7f26736b4_Organigrama_Interno.pdf)
 
-[Código de prácticas bancarias](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/66292bcef114eecccd000549_codigobancario2010.pdf)
+[Código de prácticas bancarias](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/66292bcef114eecccd000549_codigobancario2010.pdf)[Curriculum Vitae autoridades](https://www.brubank.com/curriculum-vitae-autoridades-brubank)
 
 [#### Información importante](#)
 
