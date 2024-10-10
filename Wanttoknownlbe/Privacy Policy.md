@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/water-levensmysterie-onder-ieders-handbereik/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/dijkhuizen-stuurt-een-bizarre-discussie-aan/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
