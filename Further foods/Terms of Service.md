@@ -205,6 +205,8 @@ RESET [Search](https://www.furtherfood.com/search?type=article)
 [Pumpkin Spice Latte](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-latte)
 ------------------------------------------------------------------------------------
 
+This quick and easy Pumpkin Spice Latte is the perfect cozy drink to satisfy your fall cravings. Made with a shot of espresso and a scoop of Further Food Pumpkin Spice Collagen, it delivers a flavorful boost of protein and seasonal spices.
+
 [![Hazelnut Collagen jar plus ice cubes](//www.furtherfood.com/cdn/shop/articles/20240923133000-img_0492_1200x900.jpg?v=1727098208)
 
 ![Hazelnut Collagen jar plus ice cubes](//www.furtherfood.com/cdn/shop/articles/20240923133000-img_0492_1200x900.jpg?v=1727098208)](https://www.furtherfood.com/blogs/recipes/hazelnut-cold-brew-ice-cubes)
