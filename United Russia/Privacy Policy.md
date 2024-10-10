@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Ольга Казакова: Все направления партпроекта «Единой России» «Культура малой Родины» сохранены в проекте бюджета на 2025-2027 годы](https://cdn.er.ru/media/news/October2024/Acf80sAvmrcEurJ93lNf-small.jpg)](https://er.ru/activity/news/olga-kazakova-vse-napravleniya-partproekta-edinoj-rossii-kultura-maloj-rodiny-sohraneny-v-proekte-byudzheta-na-2025-2027-gody)
+
+[Ольга Казакова: Все направления партпроекта «Единой России» «Культура малой Родины» сохранены в проекте бюджета на 2025-2027 годы](https://er.ru/activity/news/olga-kazakova-vse-napravleniya-partproekta-edinoj-rossii-kultura-maloj-rodiny-sohraneny-v-proekte-byudzheta-na-2025-2027-gody)
+
+[#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Ставропольский край](https://er.ru/activity/news?tags%5B0%5D=1300) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#КультураМалойРодины](https://er.ru/activity/news?tags%5B0%5D=1090059) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
+
+Сегодня 17:27
+
 [![«Единая Россия» запустила Всероссийскую акцию «Финансовая безопасность в цифровом мире»](https://cdn.er.ru/media/news/October2024/Vg272IlLTHxRzHMzaLVc-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zapustila-vserossijskuyu-akciyu-finansovaya-bezopasnost-v-cifrovom-mire)
 
 [«Единая Россия» запустила Всероссийскую акцию «Финансовая безопасность в цифровом мире»](https://er.ru/activity/news/edinaya-rossiya-zapustila-vserossijskuyu-akciyu-finansovaya-bezopasnost-v-cifrovom-mire)
@@ -336,14 +344,6 @@
 [«Единая Россия» поддержит предложения цифровых платформ по регламенту регистрации блогеров в Роскомнадзоре](https://er.ru/activity/news/edinaya-rossiya-podderzhit-predlozheniya-cifrovyh-platform-po-reglamentu-registracii-blogerov-v-roskomnadzore)
 
 [#Горелкин](https://er.ru/activity/news?tags%5B0%5D=101387) [цифровыеплатформы](https://er.ru/activity/news?tags%5B0%5D=153157) [#Роскомнадзор](https://er.ru/activity/news?tags%5B0%5D=2075) [#блогеры](https://er.ru/activity/news?tags%5B0%5D=2670)
-
-09.10.24
-
-[![Владимир Якушев предложил Минсельхозу сохранить поддержку малых форм хозяйствования и сектора АПК в регионах с низкой бюджетной обеспеченностью](https://cdn.er.ru/media/news/October2024/pFzs2PyFfYUauPqy125w-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-predlozhil-minselhozu-sohranit-podderzhku-malyh-form-hozyajstvovaniya-i-sektora-apk-v-regionah-s-nizkoj-byudzhetnoj-obespechennostyu)
-
-[Владимир Якушев предложил Минсельхозу сохранить поддержку малых форм хозяйствования и сектора АПК в регионах с низкой бюджетной обеспеченностью](https://er.ru/activity/news/vladimir-yakushev-predlozhil-minselhozu-sohranit-podderzhku-malyh-form-hozyajstvovaniya-i-sektora-apk-v-regionah-s-nizkoj-byudzhetnoj-obespechennostyu)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Лут](https://er.ru/activity/news?tags%5B0%5D=133405) [#Минсельхоз](https://er.ru/activity/news?tags%5B0%5D=873) [#АПК](https://er.ru/activity/news?tags%5B0%5D=72) [#Совфед](https://er.ru/activity/news?tags%5B0%5D=1319) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581) [#сельскоехозяйство](https://er.ru/activity/news?tags%5B0%5D=128668)
 
 09.10.24
 
