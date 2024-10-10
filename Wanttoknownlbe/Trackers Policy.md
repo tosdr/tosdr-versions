@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/big-pharma/hoe-betrouwbaar-de-gezondheidsraad-is-kijk-zelf/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/economie/de-nieuwe-andere-krant-15-vragen-aan-sander/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
