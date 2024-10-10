@@ -142,11 +142,11 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Stella Blue Coffee Fall Flavors](https://stellabluecoffee.com/)
-* [Miss Peaches x Muck Boot Clogs](https://store.barstoolsports.com/products/miss-peaches-x-muckster-lite-clogs)
-* [Football Collection](https://store.barstoolsports.com/collections/football)
-* [Barstool Sports x Muck Boot Clogs](https://store.barstoolsports.com/products/barstool-sports-x-muckster-lite-clogs)
+* [Baseball Collection](https://store.barstoolsports.com/collections/baseball)
+* [Pick 'Em - Week 7](https://www.barstoolsports.com/video/3527820/dave-portnoy-is-donezo-pick-em-week-7)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
+* [Football Collection](https://store.barstoolsports.com/collections/football)
+* [Stella Blue Coffee Fall Flavors](https://stellabluecoffee.com/)
 
 Privacy Policy
 ==============
