@@ -427,7 +427,7 @@ Please also feel free to contact us if you have any questions about the Terms or
 Seesaw
 
 * [Contact](https://seesaw.com/contact-us/)
-* [Careers](https://boards.greenhouse.io/seesaw)
+* [Join Our Team](https://seesaw.com/join-our-team/)
 * [Partnerships](https://seesaw.com/partnerships/)
 
 Tech Resources
