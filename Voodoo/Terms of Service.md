@@ -165,7 +165,41 @@ In all instances, the liability of Voodoo, in such instance as it is incurred, w
 
 These T&Cs are governed by the laws of France. Any dispute arising under or in connection with these T&Cs shall be subject to the exclusive jurisdiction of the courts located in Paris, France.
 
-[](https://www.voodoo.io/terms/)
+Entertain the world
+
+[](https://www.linkedin.com/company/voodoo.io)
+
+[](https://www.instagram.com/voodoo.io/)
+
+[](https://twitter.com/voodooplatform)
+
+Services
+
+[Publishing](https://www.voodoo.io/terms/publishing)
+
+[Academy](https://www.voodoo.io/terms/academy)
+
+[Ads](https://www.voodoo.io/terms/ads)
+
+About us
+
+[Company](https://www.voodoo.io/terms/company)
+
+[Careers](https://www.voodoo.io/terms/careers)
+
+[News](https://www.voodoo.io/terms/news)
+
+[Terms of service](https://www.voodoo.io/terms/terms)
+
+[Privacy](https://www.voodoo.io/terms/privacy)
+
+[Legal](https://www.voodoo.io/terms/legal)
+
+[Cookie Policy](https://www.voodoo.io/terms/cookie-policy)
+
+Cookie Settings
+
+Copyright © 2024 Voodoo
 
 Entertain the world
 
@@ -203,8 +237,6 @@ Cookie Settings
 
 Copyright © 2024 Voodoo
 
-[](https://www.voodoo.io/terms/)
-
 Entertain the world
 
 [](https://www.linkedin.com/company/voodoo.io)
@@ -240,46 +272,6 @@ About us
 Cookie Settings
 
 Copyright © 2024 Voodoo
-
-[](https://www.voodoo.io/terms/)
-
-Entertain the world
-
-[](https://www.linkedin.com/company/voodoo.io)
-
-[](https://www.instagram.com/voodoo.io/)
-
-[](https://twitter.com/voodooplatform)
-
-Services
-
-[Publishing](https://www.voodoo.io/terms/publishing)
-
-[Academy](https://www.voodoo.io/terms/academy)
-
-[Ads](https://www.voodoo.io/terms/ads)
-
-About us
-
-[Company](https://www.voodoo.io/terms/company)
-
-[Careers](https://www.voodoo.io/terms/careers)
-
-[News](https://www.voodoo.io/terms/news)
-
-[Terms of service](https://www.voodoo.io/terms/terms)
-
-[Privacy](https://www.voodoo.io/terms/privacy)
-
-[Legal](https://www.voodoo.io/terms/legal)
-
-[Cookie Policy](https://www.voodoo.io/terms/cookie-policy)
-
-Cookie Settings
-
-Copyright © 2024 Voodoo
-
-[](https://www.voodoo.io/terms/)
 
 Entertain the world
 
