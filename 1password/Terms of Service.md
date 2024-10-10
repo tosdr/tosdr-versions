@@ -499,9 +499,9 @@ Show options
 
 [Terms of Service](https://1password.com/legal/terms-of-service)
 
-Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out Icon
-
 [Cookie Policy](https://1password.com/legal/cookie-policy)
+
+Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out Icon
 
 [Privacy Policy](https://1password.com/legal/privacy)
 
@@ -511,11 +511,11 @@ Your Privacy ChoicesCalifornia Consumer Privacy Act (CCPA) Opt-Out Icon
 
 4711 Yonge St, 10th Floor, Toronto Ontario, M2N 6K8, Canada
 
-* [![](https://images.ctfassets.net/2h488pz7kgfv/C6fUBrUcr7eBxWiK7MT2W/1bbab527d8be8a253e71abdc4108813a/X.svg)](https://twitter.com/1Password "1Password on X")
-* [![](https://images.ctfassets.net/2h488pz7kgfv/4z8OeadZ4c9MN8U4eyORNA/9bc5efd42bfdbbe71ab8fdd5646b9b8d/Mastodon.svg)](https://1password.social/@1password "1Password on Mastodon")
-* [![](https://images.ctfassets.net/2h488pz7kgfv/57DcRkIufYDzlFJnDSNVPm/5266b33aa3435a652c17842db0c86a20/Reddit.svg)](https://www.reddit.com/r/1Password "1Password on Reddit")
-* [![](https://images.ctfassets.net/2h488pz7kgfv/x3QzpwLPnETgkNE8GpPqY/4d8ffe138d14cf5718185959e00c5de1/YouTube.svg)](https://www.youtube.com/1PasswordVideos "1Password on YouTube")
-* [![](https://images.ctfassets.net/2h488pz7kgfv/7Hhc78OKQ2aldNVWAA6aMg/06f15fc435a2e2f0cf9ad9b74165604f/github.svg)](https://github.com/1Password "1Password on GitHub")
-* [![](https://images.ctfassets.net/2h488pz7kgfv/LoHCMg2uzXcTPACAgv11D/3024c9486929a6c2665dc758969f3c64/linkedin.svg)](https://www.linkedin.com/company/1password/ "1Password on LinkedIn")
-* [![](https://images.ctfassets.net/2h488pz7kgfv/41b21PnyGlEPGx4bbIbtTk/96eadb943171cd6b2d89f72c0bb4b00d/Instagram.svg)](https://www.instagram.com/1password/ "1Password on Instagram")
-* [![](https://images.ctfassets.net/2h488pz7kgfv/52rU6VAgzg7yB3yyjRBD8o/78f260748764fcb07179b6a3ed634a46/rss.svg)](https://blog.1password.com/index.xml "1Password RSS")
+* [![](https://images.ctfassets.net/2h488pz7kgfv/oJlDSiCmOdAQxi4vImlrG/d530d9d5b1742e744fc4ff111369ee84/x.svg)](https://twitter.com/1Password "1Password on X")
+* [![](https://images.ctfassets.net/2h488pz7kgfv/3VYIGSnfYJPuT9gTAgtbWc/1ef11322bc354e52fc0a2b458260a740/mastodon.svg)](https://1password.social/@1password "1Password on Mastodon")
+* [![](https://images.ctfassets.net/2h488pz7kgfv/71W3zHPvevpPeHtCdklxaw/443bb8480c41290bd580bd3fdb3e5954/reddit.svg)](https://www.reddit.com/r/1Password "1Password on Reddit")
+* [![](https://images.ctfassets.net/2h488pz7kgfv/5DZiwpeDshvc5XGWZKp4ar/d85e5eefbe2edf964c455950560845cc/youtube.svg)](https://www.youtube.com/1PasswordVideos "1Password on YouTube")
+* [![](https://images.ctfassets.net/2h488pz7kgfv/7ATY2kmuBXyjv4jo8FQuSd/f32644cfac516ce5208801fe35f73ed8/github.svg)](https://github.com/1Password "1Password on GitHub")
+* [![](https://images.ctfassets.net/2h488pz7kgfv/19IxpZRO1iVuUMxvg35nOu/7e03ded4a4801b812db1cd611300c357/linkedin.svg)](https://www.linkedin.com/company/1password/ "1Password on LinkedIn")
+* [![](https://images.ctfassets.net/2h488pz7kgfv/7xkjXPoIUrFc3sDvs9S4eg/2e5f3d5673202b26ee5c8fc7b9f678bc/instagram.svg)](https://www.instagram.com/1password/ "1Password on Instagram")
+* [![](https://images.ctfassets.net/2h488pz7kgfv/vJtc67AkiWiNnQzpUfZsd/b46a5e61015b9835edf150eb6b3fb30f/rss.svg)](https://blog.1password.com/index.xml "1Password RSS")
