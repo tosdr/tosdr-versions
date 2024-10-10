@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Dear FoxyProxy team, Very solid no-nonsense service. Have subscribed again! Good to see the price had not gone up, this is the right price point.
+We found Foxy proxy essential and excellent for use in France and maintaining contact with UK news.. Very sorry to have to relinquish Foxyproxy for now and hope to come back soon.
 
-Luite van Zelst
+Richard Copeland
