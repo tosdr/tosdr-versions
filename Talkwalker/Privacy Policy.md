@@ -535,7 +535,6 @@ Footer
 * [Resource library](https://www.talkwalker.com/resources)
 * [Webinars](https://www.talkwalker.com/webinars)
 * [App directory](https://apps.hootsuite.com/)
-* [Events](https://www.talkwalker.com/events)
 * [Become an Affiliate](https://www.talkwalker.com/affiliate-program)
 * [Become a Partner](https://www.talkwalker.com/partners)
 
