@@ -349,23 +349,17 @@ Website
 
 [4th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
 
-[![Needleman Street closure, at the junction with Surrey Quays Road (photo by resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/image2-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-
-### [Further delays in Rotherhithe expected as major cut-through road closes until 2025](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-
-[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/further-delays-in-rotherhithe-expected-as-major-cut-through-road-closes-until-2025/)
-
 [![The Walworth Road looking west towards Elephant and Castle. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Walworth-Road-seen-leading-west-towards-Elephant-and-Castle-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
 
 ### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
 
 [8th October 2024](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
 
-[![CGI of how the Printworks building could look after redevelopment. CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/CGI-of-Printworks-building-after-redevelopment-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+[![Tanganga joined Millwall permanently in July. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-6272828-1-350x250-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
 
-### [Printworks nightclub comeback a ‘fantastic boost’ for South London](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+### [‘It’s one of the most beautiful atmospheres in England’ – Millwall defender on why he joined the Lions](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
 
-[2nd October 2024](https://southwarknews.co.uk/area/rotherhithe/printworks-nightclub-comeback-a-fantastic-boost-for-south-london/)
+[9th October 2024](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
 
 [![John Tullett said the planned controlled parking zone would put his garage on Rossendale Road, West Dulwich out of business on day one. 
 CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/garage-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
@@ -373,6 +367,12 @@ CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/gar
 ### [Dulwich business say parking plans will put them out of business](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
 
 [4th October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+
+[![Connal Trueman in training. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/C-Trueman-426272-750x375-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
+
+### [Millwall goalkeeper heads out on emergency loan](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
+
+[7th October 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
 
 ### Featured Articles
 
