@@ -20,16 +20,16 @@ Thursday, October 10 2024
 
 Latest
 
-* [All the news and updates as they happen](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-3/)
-* [Gain Python Skills That Top Companies Value for $40](https://digitpatrox.com/gain-python-skills-that-top-companies-value-for-40/)
-* [Bissell’s viral Little Green Carpet Vacuum is just $99 in this post Prime Day deal](https://digitpatrox.com/bissells-viral-little-green-carpet-vacuum-is-just-99-in-this-post-prime-day-deal/)
-* [Crypto-stealing malware campaign infects 28,000 people](https://digitpatrox.com/crypto-stealing-malware-campaign-infects-28000-people/)
-* [Tesla robotaxi event: how to watch and what to expect](https://digitpatrox.com/tesla-robotaxi-event-how-to-watch-and-what-to-expect/)
-* [All Jujutsu Kaisen Arcs in Order](https://digitpatrox.com/all-jujutsu-kaisen-arcs-in-order/)
-* [The Best Network Monitoring Solutions of 2024](https://digitpatrox.com/the-best-network-monitoring-solutions-of-2024/)
-* [How to change the DNS address in Windows 10 and 11](https://digitpatrox.com/how-to-change-the-dns-address-in-windows-10-and-11/)
-* [Meta expands AI assistant to more countries and languages amid intensifying AI battle – Computerworld](https://digitpatrox.com/meta-expands-ai-assistant-to-more-countries-and-languages-amid-intensifying-ai-battle-computerworld/)
-* [You Can Get Microsoft Visio 2021 Pro on Sale for $18 Right Now](https://digitpatrox.com/you-can-get-microsoft-visio-2021-pro-on-sale-for-18-right-now/)
+* [Target’s ‘Circle Week’ Sale Is Still Going After October Prime Day](https://digitpatrox.com/targets-circle-week-sale-is-still-going-after-october-prime-day/)
+* [Is It Safe to Use ChatGPT?](https://digitpatrox.com/is-it-safe-to-use-chatgpt/)
+* [Windows 11 22H2 reached end of support on October 8, 2024](https://digitpatrox.com/windows-11-22h2-reached-end-of-support-on-october-8-2024/)
+* [Most and Least Reliable Boilers of 2024](https://digitpatrox.com/most-and-least-reliable-boilers-of-2024/)
+* [The Best Google Pixel 8a Cases of 2024](https://digitpatrox.com/the-best-google-pixel-8a-cases-of-2024/)
+* [Shared fate vs shared responsibility: What’s the difference and how can your business benefit?](https://digitpatrox.com/shared-fate-vs-shared-responsibility-whats-the-difference-and-how-can-your-business-benefit/)
+* [Only a Quarter of Cybersecurity Professionals are Women](https://digitpatrox.com/only-a-quarter-of-cybersecurity-professionals-are-women/)
+* [Hurry! These 5 home gadgets are even cheaper than their Prime Day prices](https://digitpatrox.com/hurry-these-5-home-gadgets-are-even-cheaper-than-their-prime-day-prices/)
+* [Fidelity Investments says data breach affects over 77,000 people](https://digitpatrox.com/fidelity-investments-says-data-breach-affects-over-77000-people/)
+* [How to customize your iPhone’s app icons](https://digitpatrox.com/how-to-customize-your-iphones-app-icons/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/TwY5EjRozwmDnbTdihUsjb-1200-80.jpg)](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-3/)
+* [![](https://lifehacker.com/imagery/articles/01J80XWD0Y6E9JF228XBNC0S0M/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/targets-circle-week-sale-is-still-going-after-october-prime-day/)
     
-    [All the news and updates as they happen](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-3/)
+    [Target’s ‘Circle Week’ Sale Is Still Going After October Prime Day](https://digitpatrox.com/targets-circle-week-sale-is-still-going-after-october-prime-day/)
     
-    46 mins ago
+    8 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241010-the-python-all-in-one-course-bundle.jpg)](https://digitpatrox.com/gain-python-skills-that-top-companies-value-for-40/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Is-It-Safe-to-Use-ChatGPT_.jpg)](https://digitpatrox.com/is-it-safe-to-use-chatgpt/)
     
-    [Gain Python Skills That Top Companies Value for $40](https://digitpatrox.com/gain-python-skills-that-top-companies-value-for-40/)
+    [Is It Safe to Use ChatGPT?](https://digitpatrox.com/is-it-safe-to-use-chatgpt/)
     
-    50 mins ago
+    17 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/QwCNz5pnWuj7NPJNwpkmPJ-1200-80.jpg)](https://digitpatrox.com/bissells-viral-little-green-carpet-vacuum-is-just-99-in-this-post-prime-day-deal/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/10/windows-11-22h2-end-support-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-22h2-reached-end-of-support-on-october-8-2024/)
     
-    [Bissell’s viral Little Green Carpet Vacuum is just $99 in this post Prime Day deal](https://digitpatrox.com/bissells-viral-little-green-carpet-vacuum-is-just-99-in-this-post-prime-day-deal/)
+    [Windows 11 22H2 reached end of support on October 8, 2024](https://digitpatrox.com/windows-11-22h2-reached-end-of-support-on-october-8-2024/)
     
-    1 hour ago
+    30 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/12/01/Hackers_crypto.jpg)](https://digitpatrox.com/crypto-stealing-malware-campaign-infects-28000-people/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1700072396/prod/content/dam/CRO-Images-2023/11November/Home/CR-Home-Inlinehero-reliable-boilers-1123)](https://digitpatrox.com/most-and-least-reliable-boilers-of-2024/)
     
-    [Crypto-stealing malware campaign infects 28,000 people](https://digitpatrox.com/crypto-stealing-malware-campaign-infects-28000-people/)
+    [Most and Least Reliable Boilers of 2024](https://digitpatrox.com/most-and-least-reliable-boilers-of-2024/)
     
-    2 hours ago
+    39 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/eQwe11unSDwRU06R4h2mR4S_M3M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25663396/STKE001_STK086_Tesla_Robotaxi_C.jpg)](https://digitpatrox.com/tesla-robotaxi-event-how-to-watch-and-what-to-expect/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53714738791_c0d477c078_o.jpg)](https://digitpatrox.com/the-best-google-pixel-8a-cases-of-2024/)
     
-    [Tesla robotaxi event: how to watch and what to expect](https://digitpatrox.com/tesla-robotaxi-event-how-to-watch-and-what-to-expect/)
+    [The Best Google Pixel 8a Cases of 2024](https://digitpatrox.com/the-best-google-pixel-8a-cases-of-2024/)
     
-    2 hours ago
+    42 mins ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [46 mins ago
+* [8 mins ago
     
-    ### All the news and updates as they happen](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-3/)
-* [50 mins ago
+    ### Target’s ‘Circle Week’ Sale Is Still Going After October Prime Day](https://digitpatrox.com/targets-circle-week-sale-is-still-going-after-october-prime-day/)
+* [17 mins ago
     
-    ### Gain Python Skills That Top Companies Value for $40](https://digitpatrox.com/gain-python-skills-that-top-companies-value-for-40/)
-* [1 hour ago
+    ### Is It Safe to Use ChatGPT?](https://digitpatrox.com/is-it-safe-to-use-chatgpt/)
+* [30 mins ago
     
-    ### Bissell’s viral Little Green Carpet Vacuum is just $99 in this post Prime Day deal](https://digitpatrox.com/bissells-viral-little-green-carpet-vacuum-is-just-99-in-this-post-prime-day-deal/)
+    ### Windows 11 22H2 reached end of support on October 8, 2024](https://digitpatrox.com/windows-11-22h2-reached-end-of-support-on-october-8-2024/)
 
 Most Popular Topics
 
-* [4 days ago
-    
-    ### Trailers of the week: Nosferatu, The Franchise, and Squid Game 2](https://digitpatrox.com/trailers-of-the-week-nosferatu-the-franchise-and-squid-game-2/)
 * [4 weeks ago
     
-    ### You’re Training Your Social Media Algorithm Every Day](https://digitpatrox.com/youre-training-your-social-media-algorithm-every-day/)
-* [3 weeks ago
+    ### iPhone 16, Apple Watch 10, and AirPods 4 Preview](https://digitpatrox.com/iphone-16-apple-watch-10-and-airpods-4-preview/)
+* [September 4, 2024
     
-    ### Modernization: Nothing to fear except failing to future-proof](https://digitpatrox.com/modernization-nothing-to-fear-except-failing-to-future-proof/)
+    ### Microsoft Store Not Opening on Windows 11? 8 Ways to Fix It](https://digitpatrox.com/microsoft-store-not-opening-on-windows-11-8-ways-to-fix-it/)
+* [September 7, 2024
+    
+    ### You Can Get Microsoft Project Pro 2021 on Sale for $20 Right Now](https://digitpatrox.com/you-can-get-microsoft-project-pro-2021-on-sale-for-20-right-now/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [2 hours ago
     
-    ### The Best Network Monitoring Solutions of 2024](https://digitpatrox.com/the-best-network-monitoring-solutions-of-2024/)
-* [3 hours ago
+    ### Only a Quarter of Cybersecurity Professionals are Women](https://digitpatrox.com/only-a-quarter-of-cybersecurity-professionals-are-women/)
+* [2 hours ago
     
-    ### How to change the DNS address in Windows 10 and 11](https://digitpatrox.com/how-to-change-the-dns-address-in-windows-10-and-11/)
-* [4 hours ago
+    ### Hurry! These 5 home gadgets are even cheaper than their Prime Day prices](https://digitpatrox.com/hurry-these-5-home-gadgets-are-even-cheaper-than-their-prime-day-prices/)
+* [2 hours ago
     
-    ### Meta expands AI assistant to more countries and languages amid intensifying AI battle – Computerworld](https://digitpatrox.com/meta-expands-ai-assistant-to-more-countries-and-languages-amid-intensifying-ai-battle-computerworld/)
+    ### Fidelity Investments says data breach affects over 77,000 people](https://digitpatrox.com/fidelity-investments-says-data-breach-affects-over-77000-people/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
