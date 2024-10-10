@@ -4,7 +4,7 @@
 
 WEBINAR: Maximize Your Impact: Tax-Savvy Giving With Donor-Advised Funds
 
-[Register now](https://events.fidelitycharitable.org/thegivingaccount1021/banner)
+[Register now](https://www.fidelitycharitable.org/events/maximize-your-impact.html)
 
 [×](#)
 
