@@ -22,6 +22,7 @@ END USER LICENCE AGREEMENT
 
 ### GENERAL
 
+* Throughout this document, Factorio refers to the Factorio video game as well as the Factorio: Space Age expansion.
 * By downloading, installing, opening or otherwise using Factorio or any other connected services or products you agree to be bound by these Terms of Service which constitute an agreement with Wube Software Ltd, company number 09201188, registered seat 41 Devonshire Street, Ground Floor, London, W1G 7AJ, incorporated at the Companies House.
 * If there is anything you are wondering about in connection with the use of Factorio or with these Terms of Service, do not hesitate to contact us – we will see what we can do but you can be sure we will do our best. Please address your questions, suggestions or requests to support@factorio.com
 
@@ -112,7 +113,7 @@ END USER LICENCE AGREEMENT
 * There are couple of places where you can share ideas and opinions with other players (our Forum, Twitter, Facebook page). Please behave there appropriately and avoid doing anything that would result in sanctions for us.
 * Any legal disputes arising in connection with application of these Terms of Service shall be resolved in accordance with the law of the Czech Republic and will be resolved by the competent courts of the Czech Republic.
 * Each provision of these Terms of Service operates separately. In the case that any provision of these Terms of Service has been invalid or unenforceable for any reason, this fact does not cause invalidity or ineffectiveness of other parts of the Terms of Service.
-* We reserve the right to update these terms at any point in time with immediate effect. Last update was on 31st October 2018.
+* We reserve the right to update these terms at any point in time with immediate effect. Last update was on 10th of October, 2024.
 
 [Terms of Service](https://factorio.com/terms-of-service)|[Privacy](https://factorio.com/privacy-policy)|[Imprint](https://factorio.com/imprint)|[Presskit](https://factorio.com/presskit)|[Contact](https://factorio.com/support/contact)|[RSS](https://factorio.com/blog/rss)|[Jobs](https://factorio.com/jobs)
 
