@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How quickly does mesothelioma spread?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-quickly-does-mesothelioma-spread.jpg "How Quickly Does Mesothelioma Spread?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-quickly-does-mesothelioma-spread/ "How Quickly Does Mesothelioma Spread?")
+[![Are all talcum powders dangerous?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-are-all-talcum-powders-dangerous.jpg "Are All Talcum Powders Dangerous?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-all-talcum-powders-dangerous "Are All Talcum Powders Dangerous?")
 
-[#### How Quickly Does Mesothelioma Spread?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-quickly-does-mesothelioma-spread/)
+[#### Are All Talcum Powders Dangerous?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-all-talcum-powders-dangerous)
 
-[![What is the average compensation for asbestosis?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-the-average-compensation-for-asbestosis.jpg "What Is the Average Compensation for Asbestosis?")](https://www.pintas.com/practice-areas/lung-cancer/average-asbestosis-settlement "What Is the Average Compensation for Asbestosis?")
+[![Who should i call if i suspect abuse at an assisted living facility?](https://www.pintas.com/wp-content/uploads/2021/02/personal-injury-assisted-living-accident-lawyer-who-should-i-call-if-i-suspect-abuse-at-an-assisted-living-facility-300x160.jpg "Who Should I Call if I Suspect Abuse at an Assisted Living Facility?")](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-should-i-call-if-i-suspect-abuse-at-an-assisted-living-facility/ "Who Should I Call if I Suspect Abuse at an Assisted Living Facility?")
 
-[#### What Is the Average Compensation for Asbestosis?](https://www.pintas.com/practice-areas/lung-cancer/average-asbestosis-settlement)
+[#### Who Should I Call if I Suspect Abuse at an Assisted Living Facility?](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-should-i-call-if-i-suspect-abuse-at-an-assisted-living-facility/)
 
-[![How do you know if you have been exposed to asbestos?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-lawyer-how-do-you-know-if-you-have-been-exposed-to-asbestos.jpg "How Do You Know if You Have Been Exposed to Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-you-have-been-exposed-to-asbestos/ "How Do You Know if You Have Been Exposed to Asbestos?")
+[![How do you file a lawsuit against a nursing home for abuse or neglect?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect.jpg "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/ "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")
 
-[#### How Do You Know if You Have Been Exposed to Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-you-have-been-exposed-to-asbestos/)
+[#### How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
