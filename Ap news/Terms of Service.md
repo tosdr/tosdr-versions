@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
+    * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
     * [Israeli defense minister warns an attack on Iran would be 'lethal' and 'surprising'](https://apnews.com/article/israel-palestinians-hamas-lezbollah-war-news-10-09-2024-31a2dff9a2bb49bc3b76f32b1ddee128)
-    * [As Israel plots to strike Iran, its choices range from symbolic to severe](https://apnews.com/article/israel-iran-nuclear-hezbollah-hamas-missile-retaliation-0184e79d4ee5ec012960e0b24ddae102)
-    * [Ukrainian drone strikes another arms depot inside Russia, officials say](https://apnews.com/article/russia-ukraine-war-drone-arms-depot-bryansk-096d0ddf453a9000623a91b29c735e3c)
+    * [Suspected attacks by Yemen's Houthi rebels target ship in Red Sea](https://apnews.com/article/red-sea-attacks-yemen-houthi-rebels-israel-hamas-war-961fbf91e97e071011ad3bea9077511a)
     
     Newsletters
     
@@ -30,7 +30,7 @@ Menu
     
     TOP STORIES
     
-    * [Hurricane Milton makes landfall in Florida as a Category 3 storm](https://apnews.com/article/hurricane-milton-tampa-florida-08bde4b9c29460f471d43c6512821c93)
+    * [More than 2.6 million without power as Hurricane Milton slams Florida, causes deaths and flooding](https://apnews.com/article/hurricane-milton-tampa-florida-5f6a112986eb6e21720f0f17c504afe8)
     * [As Milton takes aim at Florida, why is Tampa Bay so vulnerable to hurricanes?](https://apnews.com/article/hurricane-milton-tampa-bay-ace324900762a0e3c385830f3cf1479b)
     * [Language, lack of money and fear are matters of life and death with Milton approaching Florida](https://apnews.com/article/florida-immigrants-hurricane-milton-latin-america-70c2a91ae2bc3f55eb14c7af4c0d9de2)
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [Trump-Putin ties are back in the spotlight after new book describes calls](https://apnews.com/article/trump-putin-fbi-russia-election-58fd70da281d47bfa3a3a963e21fc067)
     * [The presidential campaigns have made over 200 visits but speak to just a fraction of American voters](https://apnews.com/article/electoral-college-2024-wisconsin-illinois-trump-harris-cdb4141205034c830924cb94457b7be1)
-    * [Trump offers prayers for people in hurricane's path after lashing out at Harris and other women](https://apnews.com/article/trump-harris-election-2024-milton-pennsylvania-nevada-b1f46744537c483e8643a9564d0ebcdb)
-    * [Early in-person voting begins in Arizona, drawing visits from Harris and Trump](https://apnews.com/article/arizona-election-2024-early-voting-maricopa-county-40b4440a27a1a58c6c65f4d71e4792ef)
+    * [Trump lashes out at Harris and 'The View' co-hosts, as Hurricane Milton makes landfall](https://apnews.com/article/trump-harris-election-2024-milton-pennsylvania-nevada-b1f46744537c483e8643a9564d0ebcdb)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Trump offers prayers for people in hurricane's path after lashing out at Harris and other women](https://apnews.com/article/trump-harris-election-2024-milton-pennsylvania-nevada-b1f46744537c483e8643a9564d0ebcdb)
-    * [A federal judge will hear more evidence on whether to reopen voter registration in Georgia](https://apnews.com/article/georgia-voter-registration-election-hurricane-helene-8707fe9c27749f097f4e7318ab06fb1c)
-    * [Biden and Netanyahu hold their first conversation in weeks. Trump recently called the Israeli leader](https://apnews.com/article/biden-netanyahu-hamas-lebanon-hezbollah-gaza-iran-0a8d6d73d17e4b19fa68ec60ed99bc43)
+    * [Trump's small-dollar donor fundraising is beset by confusion and fatigue](https://apnews.com/article/trump-campaign-donations-small-donors-decline-f1a6b238d15edb3f72260e4c86d2c552)
+    * [Social Security cost-of-living benefits increase announcement coming Thursday](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02)
+    * [Trump lashes out at Harris and 'The View' co-hosts, as Hurricane Milton makes landfall](https://apnews.com/article/trump-harris-election-2024-milton-pennsylvania-nevada-b1f46744537c483e8643a9564d0ebcdb)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Lindor's grand slam sends Mets into NLCS with 4-1 win over Phillies in Game 4 of NLDS](https://apnews.com/article/mlb-playoffs-mets-phillies-lindor-a8cfa664e372fee34c1717a983e40ad6)
-    * [Tigers blank Guardians 3-0 in ALDS with clutch hitting and strong pitching, taking 2-1 series lead](https://apnews.com/article/mlb-playoffs-guardians-tigers-44586b1f59994b5201d745bee491d631)
-    * [Rodgers says allegations that he played a role in Saleh's firing as Jets coach are 'patently false'](https://apnews.com/article/jets-aaron-rodgers-robert-saleh-ff31045a37ea86856c490f7e53d8edab)
+    * [Francisco Lindor's grand slam sends Mets into NLCS with 4-1 win over Phillies in Game 4 of NLDS](https://apnews.com/article/mlb-playoffs-mets-phillies-lindor-a8cfa664e372fee34c1717a983e40ad6)
+    * [Betts and Ohtani help the Dodgers stay alive in NLDS with 8-0 win vs the Padres](https://apnews.com/article/mlb-playoffs-dodgers-padres-score-c1ac74d9572804c04af4fdc1f0f4d7fb)
+    * [Milton damages the roof of the Rays' stadium and forces NBA preseason game to be called off](https://apnews.com/article/hurricane-milton-nba-6647165a86aa8ed4acd8c0e16adb29df)
     
     Newsletters
     
@@ -127,8 +127,8 @@ Menu
     TOP STORIES
     
     * [Climate solution: Form Energy secures $405M to speed development of long-awaited 100-hour battery](https://apnews.com/article/climate-battery-energy-storage-iron-822f329c8a4f7518f4db6b24d6fcd15c)
+    * [Social Security cost-of-living benefits increase announcement coming Thursday](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02)
     * [Google was declared a monopoly. The US suggests breaking the company up among other fixes](https://apnews.com/article/google-search-antitrust-case-59114d8bf1dc4c8453c08acaa4051f14)
-    * [Sanewashing? The banality of crazy? A decade into the Trump era, media hasn't figured him out](https://apnews.com/article/trump-media-election-rallies-facts-kamala-harris-e906e990b5dcfe44b5e672336fe82b32)
     
 * [Science](https://apnews.com/science)
     
@@ -247,7 +247,7 @@ Menu
     * [Florida hospitals and health care facilities in Hurricane Milton's path prepare for the worst](https://apnews.com/article/hurricane-milton-hospitals-nursing-homes-evacuations-prepare-c4146bee8f78a4769ba5829b4538f10e)
     * [A peek inside the human brain shows a way it cleans out the kind of waste that leads to Alzheimer’s](https://apnews.com/article/clearing-brain-waste-alzheimers-f73b0e5f66a324e3d0e3f0cea951276b)
     * [Don't expect human life expectancy to grow much more, researcher says](https://apnews.com/article/life-expectancy-edd52c723e478c08ec194bfbd18bf6b9)
-    * [Nobel Prize in chemistry honors 3 scientists who used AI to design proteins — life's building blocks](https://apnews.com/article/nobel-chemistry-prize-56f4d9e90591dfe7d9d840a8c8c9d553)
+    * [Mali's traditional theater gives psychiatric patients the stage](https://apnews.com/article/mali-mental-health-theater-psychiatric-art-0c3af0e203263023027f08105799a340)
     
 * [Tech](https://apnews.com/technology)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Lluvia, tornados y vientos del huracán Milton azotan Florida](https://apnews.com/world-news/general-news-204b3d5230d1bd14b01707400cd34504)
+    * [Más de 1,5 millones de clientes quedan sin electricidad en Florida tras llegada de huracán Milton](https://apnews.com/world-news/general-news-204b3d5230d1bd14b01707400cd34504)
     * [Idioma y miedo a la deportación son cuestiones de vida o muerte ante llegada de Milton a Florida](https://apnews.com/us-news/general-news-2df31b07eef80d0062b9e7365baf11ac)
-    * [Trump tiene mítines en Pensilvania y Harris viaja al oeste mientras huracán trastoca la campaña](https://apnews.com/us-news/general-news-1a82d5a628cbdcf55298edb43abd0991)
+    * [Trump arremete contra Harris y presentadoras de TV durante acto de campaña en Pensilvania](https://apnews.com/us-news/general-news-1a82d5a628cbdcf55298edb43abd0991)
+    * [Inmigrantes traídos a EEUU cuando eran niños pedirán a jueces avalar protección contra deportación](https://apnews.com/us-news/general-news-2138112e7e94fb71f6d9f37f201f8ae3)
     * [Israel advierte de respuesta “letal” y “sorpresiva” a Irán por lanzamiento de misiles](https://apnews.com/world-news/general-news-808c077c8ea2c3ca4389546e069ca5e1)
-    * [Cocina gestionada por mujeres trans es un refugio para la comunidad LGBTQ+ en Ciudad de México](https://apnews.com/world-news/general-news-f48e441356c38fb4ba6b92eacb26de54)
-    * [Cómo funciona AP VoteCast y en qué se diferencia de una encuesta a boca de urna](https://apnews.com/us-news/general-news-7f32b1298d0dbc442dd5430850411b0c)
+    * [Marina de Turquía inicia evacuación de ciudadanos turcos de Beirut en medio de conflicto](https://apnews.com/world-news/general-news-c475f60e13669c73b8ba5f6641d98e16)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -457,9 +457,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
     * [Israeli defense minister warns an attack on Iran would be 'lethal' and 'surprising'](https://apnews.com/article/israel-palestinians-hamas-lezbollah-war-news-10-09-2024-31a2dff9a2bb49bc3b76f32b1ddee128)
-    * [As Israel plots to strike Iran, its choices range from symbolic to severe](https://apnews.com/article/israel-iran-nuclear-hezbollah-hamas-missile-retaliation-0184e79d4ee5ec012960e0b24ddae102)
-    * [Ukrainian drone strikes another arms depot inside Russia, officials say](https://apnews.com/article/russia-ukraine-war-drone-arms-depot-bryansk-096d0ddf453a9000623a91b29c735e3c)
+    * [Suspected attacks by Yemen's Houthi rebels target ship in Red Sea](https://apnews.com/article/red-sea-attacks-yemen-houthi-rebels-israel-hamas-war-961fbf91e97e071011ad3bea9077511a)
     
     Newsletters
     
@@ -475,7 +475,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Hurricane Milton makes landfall in Florida as a Category 3 storm](https://apnews.com/article/hurricane-milton-tampa-florida-08bde4b9c29460f471d43c6512821c93)
+    * [More than 2.6 million without power as Hurricane Milton slams Florida, causes deaths and flooding](https://apnews.com/article/hurricane-milton-tampa-florida-5f6a112986eb6e21720f0f17c504afe8)
     * [As Milton takes aim at Florida, why is Tampa Bay so vulnerable to hurricanes?](https://apnews.com/article/hurricane-milton-tampa-bay-ace324900762a0e3c385830f3cf1479b)
     * [Language, lack of money and fear are matters of life and death with Milton approaching Florida](https://apnews.com/article/florida-immigrants-hurricane-milton-latin-america-70c2a91ae2bc3f55eb14c7af4c0d9de2)
     
@@ -503,9 +503,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Trump-Putin ties are back in the spotlight after new book describes calls](https://apnews.com/article/trump-putin-fbi-russia-election-58fd70da281d47bfa3a3a963e21fc067)
     * [The presidential campaigns have made over 200 visits but speak to just a fraction of American voters](https://apnews.com/article/electoral-college-2024-wisconsin-illinois-trump-harris-cdb4141205034c830924cb94457b7be1)
-    * [Trump offers prayers for people in hurricane's path after lashing out at Harris and other women](https://apnews.com/article/trump-harris-election-2024-milton-pennsylvania-nevada-b1f46744537c483e8643a9564d0ebcdb)
-    * [Early in-person voting begins in Arizona, drawing visits from Harris and Trump](https://apnews.com/article/arizona-election-2024-early-voting-maricopa-county-40b4440a27a1a58c6c65f4d71e4792ef)
+    * [Trump lashes out at Harris and 'The View' co-hosts, as Hurricane Milton makes landfall](https://apnews.com/article/trump-harris-election-2024-milton-pennsylvania-nevada-b1f46744537c483e8643a9564d0ebcdb)
     
     Newsletters
     
@@ -528,9 +528,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Trump offers prayers for people in hurricane's path after lashing out at Harris and other women](https://apnews.com/article/trump-harris-election-2024-milton-pennsylvania-nevada-b1f46744537c483e8643a9564d0ebcdb)
-    * [A federal judge will hear more evidence on whether to reopen voter registration in Georgia](https://apnews.com/article/georgia-voter-registration-election-hurricane-helene-8707fe9c27749f097f4e7318ab06fb1c)
-    * [Biden and Netanyahu hold their first conversation in weeks. Trump recently called the Israeli leader](https://apnews.com/article/biden-netanyahu-hamas-lebanon-hezbollah-gaza-iran-0a8d6d73d17e4b19fa68ec60ed99bc43)
+    * [Trump's small-dollar donor fundraising is beset by confusion and fatigue](https://apnews.com/article/trump-campaign-donations-small-donors-decline-f1a6b238d15edb3f72260e4c86d2c552)
+    * [Social Security cost-of-living benefits increase announcement coming Thursday](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02)
+    * [Trump lashes out at Harris and 'The View' co-hosts, as Hurricane Milton makes landfall](https://apnews.com/article/trump-harris-election-2024-milton-pennsylvania-nevada-b1f46744537c483e8643a9564d0ebcdb)
     
     Newsletters
     
@@ -558,9 +558,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Lindor's grand slam sends Mets into NLCS with 4-1 win over Phillies in Game 4 of NLDS](https://apnews.com/article/mlb-playoffs-mets-phillies-lindor-a8cfa664e372fee34c1717a983e40ad6)
-    * [Tigers blank Guardians 3-0 in ALDS with clutch hitting and strong pitching, taking 2-1 series lead](https://apnews.com/article/mlb-playoffs-guardians-tigers-44586b1f59994b5201d745bee491d631)
-    * [Rodgers says allegations that he played a role in Saleh's firing as Jets coach are 'patently false'](https://apnews.com/article/jets-aaron-rodgers-robert-saleh-ff31045a37ea86856c490f7e53d8edab)
+    * [Francisco Lindor's grand slam sends Mets into NLCS with 4-1 win over Phillies in Game 4 of NLDS](https://apnews.com/article/mlb-playoffs-mets-phillies-lindor-a8cfa664e372fee34c1717a983e40ad6)
+    * [Betts and Ohtani help the Dodgers stay alive in NLDS with 8-0 win vs the Padres](https://apnews.com/article/mlb-playoffs-dodgers-padres-score-c1ac74d9572804c04af4fdc1f0f4d7fb)
+    * [Milton damages the roof of the Rays' stadium and forces NBA preseason game to be called off](https://apnews.com/article/hurricane-milton-nba-6647165a86aa8ed4acd8c0e16adb29df)
     
     Newsletters
     
@@ -604,8 +604,8 @@ Submit Search
     TOP STORIES
     
     * [Climate solution: Form Energy secures $405M to speed development of long-awaited 100-hour battery](https://apnews.com/article/climate-battery-energy-storage-iron-822f329c8a4f7518f4db6b24d6fcd15c)
+    * [Social Security cost-of-living benefits increase announcement coming Thursday](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02)
     * [Google was declared a monopoly. The US suggests breaking the company up among other fixes](https://apnews.com/article/google-search-antitrust-case-59114d8bf1dc4c8453c08acaa4051f14)
-    * [Sanewashing? The banality of crazy? A decade into the Trump era, media hasn't figured him out](https://apnews.com/article/trump-media-election-rallies-facts-kamala-harris-e906e990b5dcfe44b5e672336fe82b32)
     
 * [Science](https://apnews.com/science)
     
@@ -738,7 +738,7 @@ Submit Search
     * [Florida hospitals and health care facilities in Hurricane Milton's path prepare for the worst](https://apnews.com/article/hurricane-milton-hospitals-nursing-homes-evacuations-prepare-c4146bee8f78a4769ba5829b4538f10e)
     * [A peek inside the human brain shows a way it cleans out the kind of waste that leads to Alzheimer’s](https://apnews.com/article/clearing-brain-waste-alzheimers-f73b0e5f66a324e3d0e3f0cea951276b)
     * [Don't expect human life expectancy to grow much more, researcher says](https://apnews.com/article/life-expectancy-edd52c723e478c08ec194bfbd18bf6b9)
-    * [Nobel Prize in chemistry honors 3 scientists who used AI to design proteins — life's building blocks](https://apnews.com/article/nobel-chemistry-prize-56f4d9e90591dfe7d9d840a8c8c9d553)
+    * [Mali's traditional theater gives psychiatric patients the stage](https://apnews.com/article/mali-mental-health-theater-psychiatric-art-0c3af0e203263023027f08105799a340)
     
 * [Tech](https://apnews.com/technology)
     
@@ -795,12 +795,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Lluvia, tornados y vientos del huracán Milton azotan Florida](https://apnews.com/world-news/general-news-204b3d5230d1bd14b01707400cd34504)
+    * [Más de 1,5 millones de clientes quedan sin electricidad en Florida tras llegada de huracán Milton](https://apnews.com/world-news/general-news-204b3d5230d1bd14b01707400cd34504)
     * [Idioma y miedo a la deportación son cuestiones de vida o muerte ante llegada de Milton a Florida](https://apnews.com/us-news/general-news-2df31b07eef80d0062b9e7365baf11ac)
-    * [Trump tiene mítines en Pensilvania y Harris viaja al oeste mientras huracán trastoca la campaña](https://apnews.com/us-news/general-news-1a82d5a628cbdcf55298edb43abd0991)
+    * [Trump arremete contra Harris y presentadoras de TV durante acto de campaña en Pensilvania](https://apnews.com/us-news/general-news-1a82d5a628cbdcf55298edb43abd0991)
+    * [Inmigrantes traídos a EEUU cuando eran niños pedirán a jueces avalar protección contra deportación](https://apnews.com/us-news/general-news-2138112e7e94fb71f6d9f37f201f8ae3)
     * [Israel advierte de respuesta “letal” y “sorpresiva” a Irán por lanzamiento de misiles](https://apnews.com/world-news/general-news-808c077c8ea2c3ca4389546e069ca5e1)
-    * [Cocina gestionada por mujeres trans es un refugio para la comunidad LGBTQ+ en Ciudad de México](https://apnews.com/world-news/general-news-f48e441356c38fb4ba6b92eacb26de54)
-    * [Cómo funciona AP VoteCast y en qué se diferencia de una encuesta a boca de urna](https://apnews.com/us-news/general-news-7f32b1298d0dbc442dd5430850411b0c)
+    * [Marina de Turquía inicia evacuación de ciudadanos turcos de Beirut en medio de conflicto](https://apnews.com/world-news/general-news-c475f60e13669c73b8ba5f6641d98e16)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
