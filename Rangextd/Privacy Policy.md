@@ -387,7 +387,7 @@ Our latest blog posts
 
 * ![Unleash Your Inner Adventurer](//savvysmartdeals.com/cdn/shop/files/STARSCOPE_-_CU_STILL_02.jpg?v=1727430371&width=620)
     
-    [](https://www.rangextd.com/)
+    [](https://www.rangextd.com/products/starscope-ver-3)
     
     Unleash Your Inner Adventurer
     -----------------------------
@@ -395,13 +395,13 @@ Our latest blog posts
     Witness nature's most breathtaking moments in HD with  
     Starscope Monocular.
     
-    [Shop now](https://www.rangextd.com/)
+    [Shop now](https://www.rangextd.com/products/starscope-ver-3)
     
-    [](https://www.rangextd.com/)
+    [](https://www.rangextd.com/products/starscope-ver-3)
     
 * ![Join the KoreHealth Revolution](//savvysmartdeals.com/cdn/shop/files/review-4_56a16220-8d17-4ce1-a2aa-81fa4c572a4a.jpg?v=1723028924&width=620)
     
-    [](https://www.rangextd.com/)
+    [](https://www.rangextd.com/products/korescale)
     
     Join the KoreHealth Revolution
     ------------------------------
@@ -409,9 +409,9 @@ Our latest blog posts
     Track your progress with KoreScale Gen2 and the KoreHealth  
     app for real-time health insights.
     
-    [Shop now](https://www.rangextd.com/)
+    [Shop now](https://www.rangextd.com/products/korescale)
     
-    [](https://www.rangextd.com/)
+    [](https://www.rangextd.com/products/korescale)
     
 
 * **Premium Quality**
