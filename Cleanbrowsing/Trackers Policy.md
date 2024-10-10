@@ -102,7 +102,7 @@ Whether it is a sales, or a support question, the best way to get a hold of us i
 * [Municipalities](https://cleanbrowsing.org/solutions/municipalities/)
 * [\-PARTNERS](https://cleanbrowsing.org/solutions/wifi-serviceproviders/)
 * [\-BUSINESS](https://cleanbrowsing.org/solutions/business/)
-* [\-SECURITY](https://cleanbrowsing.org/for-security/)
+* [\-SECURITY](https://cleanbrowsing.org/dns-security/)
 * [\-RPZ Feed](https://cleanbrowsing.org/rpz-feed)
 * [FREE FILTERS](https://cleanbrowsing.org/filters/)
 * [SUPPORT](https://cleanbrowsing.org/help/)
