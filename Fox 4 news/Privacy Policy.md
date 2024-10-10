@@ -401,43 +401,79 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas Spur 408 crash injures 4 people](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/100924-sky-4-wed-1413-kdfweme002_14_13_40_mpg_00.13.23.56.jpg?ve=1&tl=1)
+ [![Hurricane Milton live video: Watch Florida webcams](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/gct-00001.jpg?ve=1&tl=1)
 
- ![Dallas Spur 408 crash injures 4 people](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/100924-sky-4-wed-1413-kdfweme002_14_13_40_mpg_00.13.23.56.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-spur-408-crash)
+ ![Hurricane Milton live video: Watch Florida webcams](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/gct-00001.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
 
-### [Dallas Spur 408 crash injures 4 people](https://www.fox4news.com/news/dallas-spur-408-crash)
+Live Now
 
- [![Trackdown: Mesquite storage unit burglary suspect captured](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/image001.png?ve=1&tl=1)
+### [Hurricane Milton live video: Watch Florida webcams](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
 
- ![Trackdown: Mesquite storage unit burglary suspect captured](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/image001.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trackdown-mesquite-storage-unit-burglary-suspect-captured)
+ [![Hurricane Milton threatens to scatter Florida’s toxic phosphate waste](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-134944300.jpg?ve=1&tl=1)
 
-### [Trackdown: Mesquite storage unit burglary suspect captured](https://www.fox4news.com/news/trackdown-mesquite-storage-unit-burglary-suspect-captured)
+ ![Hurricane Milton threatens to scatter Florida’s toxic phosphate waste](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-134944300.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-florida-toxic-waste)
 
- [![Hurricane Milton: These cruise lines are redirecting ships](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1862411044-scaled.jpg?ve=1&tl=1)
+### [Hurricane Milton threatens to scatter Florida’s toxic phosphate waste](https://www.fox4news.com/news/hurricane-milton-florida-toxic-waste)
 
- ![Hurricane Milton: These cruise lines are redirecting ships](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1862411044-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cruise-ships-hurricane-milton)
+ [![83% of Gen Z say they have an unhealthy relationship with their phone, data shows](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-152602014.jpg?ve=1&tl=1)
 
-### [These cruise lines are redirecting ships due to Hurricane Milton](https://www.fox4news.com/news/cruise-ships-hurricane-milton)
+ ![83% of Gen Z say they have an unhealthy relationship with their phone, data shows](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-152602014.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gen-z-phone-addiction-bepresent-2024)
 
- [![Which issue will most influence voters' choice in November? New poll reveals answer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1439028351.jpg?ve=1&tl=1)
+### [83% of Gen Z say they have an unhealthy relationship with their phone, data shows](https://www.fox4news.com/news/gen-z-phone-addiction-bepresent-2024)
 
- ![Which issue will most influence voters' choice in November? New poll reveals answer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1439028351.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-harris-economy-election)
+ [![Hurricane Milton update: Category 3 storm makes landfall in Florida with powerful winds, severe storm surge](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/digital_radar-milton2.gif?ve=1&tl=1)
 
-### [Which issue will most influence voters' choice in November? New poll reveals answer](https://www.fox4news.com/news/trump-harris-economy-election)
+ ![Hurricane Milton update: Category 3 storm makes landfall in Florida with powerful winds, severe storm surge](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/digital_radar-milton2.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
- [![Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/dog-rescued-main-image-ues.jpg?ve=1&tl=1)
+Live Now
 
- ![Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/dog-rescued-main-image-ues.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near)
+### [Hurricane Milton update: Category 3 storm makes landfall in Florida with powerful winds, severe storm surge](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
-### [Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near)
+ [![Fat Bear Week 2024: Grazer takes the crown after confronting her cub’s killer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/grazer.jpg?ve=1&tl=1)
 
-[![Hurricane update: Milton at Category 4, tornado threats active across Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/f75dd2c5-digital_radar-milton2.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+ ![Fat Bear Week 2024: Grazer takes the crown after confronting her cub’s killer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/grazer.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grazer-2024-fat-bear-week-winner)
+
+### [Fat Bear Week 2024: Grazer takes the crown after confronting her cub’s killer](https://www.fox4news.com/news/grazer-2024-fat-bear-week-winner)
+
+[![Hurricane Milton update: Category 3 storm makes landfall in Florida with powerful winds, severe storm surge](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/foxwx5pmradar.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
 WATCH LIVE COVERAGE
 
-[Hurricane Milton now Category 4 storm ahead of Florida landfall](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+[Hurricane Milton makes landfall in Florda as a Cat. 3 storm](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
-[Hurricane Milton continued on its path to the west coast of Florida on Wednesday, likely to remain a major hurricane when it finally makes landfall.](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+[Hurricane Milton made landfall Wednesday along Florida’s Gulf Coast as a powerful Category 3 storm, unleashing strong winds, a deadly storm surge, and widespread flooding.](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+
+[![Videos show tornadoes blasting Florida ahead of Hurricane Milton landfall](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/digital_radar-milton2.gif?ve=1&tl=1)](https://www.fox4news.com/weather/florida-tornado-warnings-hurricane-milton)
+
+WATCH LIVE COVERAGE
+
+[Videos show tornadoes blasting Florida ahead of Hurricane Milton landfall](https://www.fox4news.com/weather/florida-tornado-warnings-hurricane-milton)
+
+[A record number of tornado warnings were issued Wednesday across South Florida, with Hurricane Milton still hours away from landfall](https://www.fox4news.com/weather/florida-tornado-warnings-hurricane-milton)
+
+[](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
+
+WATCH LIVE COVERAGE
+
+[Hurricane Milton live video: Watch Florida webcams](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
+
+[Here the view from live cameras up and down the west coast of Florida, from Clearwater to Tampa to Sarasota, as Hurricane Milton comes ashore.](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
+
+[![Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/149/84/dog-rescued-main-image.jpg?ve=1&tl=1)](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near)
+
+WATCH LIVE COVERAGE
+
+[Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near)
+
+[A dog left to fend for himself during Hurricane Milton has been rescued by the Florida Highway Patrol.](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near) 
+
+[![Chilling warnings for Tampa Bay area residents ahead of Hurricane Milton](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/gettyimages-2176914630.jpg?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-tampa-bay-evacuation-warnings)
+
+WATCH LIVE COVERAGE
+
+[Chilling warnings for Tampa Bay area residents ahead of Hurricane Milton](https://www.fox4news.com/news/hurricane-milton-tampa-bay-evacuation-warnings)
+
+[Hurricane Milton is on track to slam into the west coast of Florida as one of the most destructive storms the Tampa Bay area has ever seen. Local officials are not mincing words as they urge storm-weary residents to evacuate.](https://www.fox4news.com/news/hurricane-milton-tampa-bay-evacuation-warnings)
 
 ###### [News](https://www.fox4news.com/news)
 
