@@ -93,11 +93,15 @@ RDC Media collects personal information only by lawful and fair means. Informati
 
 RDC Media may otherwise collect information directly from you, from third parties and/or publicly available sources, including but not limited to the following: 
 
-* your image, where we are photographing your participation or attendance at a race meeting;
+* your image, where we are photographing your participation or attendance at a race meeting or other event;
 * from race results, licensed participant profiles, articles or other resources on other websites;
+* via our own app or website, such as via a contact us form;
+* when you participate in a survey, questionnaire, competition or other marketing campaign;
+* over the phone, such as when placing an order with Racing Photos;
 * when someone provides your personal information to us on your behalf, such as when submitting a letter to the editor in Winning Post or making a complaint;
 * from third parties including Racing Australia and Racing Victoria;
 * through social networking sites such as LinkedIn or Facebook or from your professional reference where you are applying for employment at RDC Media;
+* from third party platform sites such as Google, Facebook and Apple, if you choose to create an account or log in via such platforms;
 * if authorised or required by law;
 * with your consent; or
 * as otherwise required to enable RDC Media to fulfill it functions and activities as outlined in Section 3.
@@ -122,16 +126,18 @@ RDC Media will not collect sensitive information unless the individual has conse
 
 The nature of the business carried on by RDC Media means that, generally, it is not possible for us to provide services to you anonymously. However, in some circumstances, we allow individuals the option of not identifying themselves, or of using a pseudonym, when dealing with us, for example, where you write to a RDC Media publication or where you post on the Website.
 
+If you do not provide us with your personal information, we may not be able to provide you with certain products and/or services, as certain products, services and features are reserved for subscribers of the Racing.com platform (referred to as Racing+ subscribers).
+
   
 **5\. HOW INFORMATION IS HELD BY RDC MEDIA**
 
-RDC Media has commercially reasonable processes in place to ensure the security of an individual’s personal information including encryption of all data when it is transferred to Best Bets' service providers and limitations on access to personal information within RDC Media. There are limitations on access to information within RDC Media.
+RDC Media has commercially reasonable processes in place to ensure the security of an individual’s personal information including encryption of all data when it is transferred to its service providers and limitations on access to personal information within RDC Media.
 
-Only certain RDC Media employees, being those required to have access to personal information so that RDC Media is able to carry out its functions and activities will have access to information held by RDC Media, in order to protect the information from:
+Only certain RDC Media employees, being those required to have access to personal information so that RDC Media is able to carry out its functions and activities will have access to personal information held by RDC Media, in order to protect the information from:
 
-Authorised RDC Media employees will require a password to access RDC Media's database, where the information is held.
+RDC Media employees are authorised to access electronic records containing personal information based on its sensitivity and the individual’s role in requiring such information. Access to any personal information held by RDC Media and stored electronically will require a password.
 
-If RDC Media no longer requires any information for any purpose for which the information may be used or disclosed in accordance with this Privacy Policy, RDC Media will take such steps as are reasonable in the circumstances to securely destroy the information or to ensure that the information is de-identified.
+If RDC Media no longer requires any personal information for any purpose for which the information may be used or disclosed in accordance with this Privacy Policy, RDC Media will take such steps as are reasonable in the circumstances to securely destroy the information or to ensure that the information is de-identified.
 
 (a) misuse, interference and loss; and  
 (b) unauthorised access, modification or disclosure.
@@ -158,23 +164,35 @@ RDC Media may disclose your personal information to third parties for the follow
 * for research purposes relating to the thoroughbred racing industry;
 * to customise and promote services and events related to the thoroughbred racing industry which may be of interest to you;
 * to give effect to functions of our Website you elect to use, such as posting comments which are published on the Website and accessible to the public (such comments may contain your name and be displayed in search results on external world wide web search engines);
-* if authorised or required by law; with your consent; as otherwise required to enable RDC Media to fulfill it functions and activities as outlined in Section 3; or
+* for RDCM’s general business functions, including administrative functions;
+* if authorised or required by law;
+* with your consent;
+* as otherwise required to enable RDC Media to fulfill it functions and activities as outlined in Section 3; or
 
 When personal information is disclosed to third parties, appropriate care is taken to ensure the information is protected from misuse.
 
 **_Who may RDC Media share my personal information with?_**
 
-Personal information collected by RDC Media shall be disclosed to Racing Victoria**.** Please refer to Racing Victoria’s Privacy Policy available at https://www.racingvictoria.com.au/privacy-policy for details regarding how Racing Victoria manages your personal information.
+Personal information collected by RDC Media may be disclosed to third parties for one the purposes outlined above. For example, personal information may be disclosed to:
 
-Personal information collected by RDC Media may also be disclosed to third parties. For example, personal information may be disclosed to:
-
-* RDC Media’s related bodies corporate, including Racing Victoria, Racing.com Pty Ltd and Thoroughbred Racing Productions (Vic) Pty Ltd;
+* RDC Media’s related bodies corporate, including Racing Victoria and Thoroughbred Racing Productions (Vic) Pty Ltd;
 * third party service providers in order to assist with RDC Media’s functions and operations or to fulfill a service you have elected to use (e.g. production house, delivery provider); and
 * government agencies, as required or authorised by law.
 
+RDC Media will disclose your personal information (name and email) to the following third parties, where you consent to same via your Racing+ sign up process, or at a later time via our communications preference centre:
+
+* Racing Victoria Limited ACN 096 917 930: please refer to Racing Victoria’s Privacy Policy available at https://www.racingvictoria.com.au/privacy-policy for details regarding how Racing Victoria manages your personal information;
+*  Country Racing Victoria Limited ACN 112 777 714;
+* Victoria Amateur Turf Club (Incorporating the Melbourne Racing Club) ABN 96 267 203 634;
+* Moonee Valley Racing Club Inc ABN 45 806 588 917;
+* Cranbourne Pakenham Racing Club Inc trading as Southside Racing ABN 71 575 147 211; and
+* Victoria Racing Club Limited ACN 119 214 078.
+
+Each of the above recipients will handle your personal information in accordance with their own privacy policy, including to see if they already hold your personal information, in order for that recipient to send you more relevant and personalised communications.
+
 **_Cross-border Processing and Disclosure of Personal Information_**
 
-RDC Media may process and/or disclose your personal information overseas, including in the United States, the European Union (including the United Kingdom), Singapore and Hong Kong in the following situations:
+RDC Media may process and/or disclose your personal information overseas, including in the United States, the European Union, the United Kingdom, Singapore and Hong Kong in the following situations:
 
 * to third-party providers of business support services, such as IT services, who are based in countries including the United States and Singapore;
 * if authorised or required by law;
@@ -188,7 +206,7 @@ Where applicable, the collection and handling of personal information collected 
 
 **_Direct marketing_**
 
-RDC Media may disclose personal information (not sensitive information) to third parties for the purposes of direct marketing services related to the thoroughbred racing industry. An individual will be able to opt-out of direct marketing at any time if he or she chooses, by following the relevant opt-out or unsubscribe instructions in the relevant communication, the preference centre which can be accessed via the Website or by notifying Customer Support at support@racing.zendesk.com.
+RDC Media may disclose personal information (not sensitive information) to third parties for the purposes of direct marketing services, or otherwise conduct its own direct marketing, where permitted by law. An individual will be able to opt-out of direct marketing at any time if they so choose, by following the relevant opt-out or unsubscribe instructions in the relevant communication, the preference centre which can be accessed via the Website or by notifying Customer Support at support@racing.zendesk.com.
 
 RDC Media will not use or disclose personal information about an individual for the purpose of direct marketing, unless RDC Media collected the information:
 
@@ -203,7 +221,7 @@ RDC Media will not use or disclose personal information about an individual for 
   
 **7\. ACCESS TO PERSONAL INFORMATION AND CORRECTION**
 
-A person can access his or her own personal information by contacting RDC Media's Privacy Officer. RDC Media’s Privacy Officer will respond within a reasonable period after the request is made.
+A person can access their own personal information by contacting RDC Media's Privacy Officer (please see section 11). RDC Media’s Privacy Officer will respond within a reasonable period after the request is made.
 
 In some circumstances, a fee may apply.
 
@@ -246,33 +264,35 @@ RDC Media operates various websites to which this Privacy Policy applies as foll
 
 (each a **Website**).
 
-A Website may also contain links to other websites which have their own privacy policies.
+RDC Media also operates a mobile application (iOS and Android) under the name Racing.com (RDC App).
+
+A Website or RDC App may also contain links to other websites which have their own privacy policies.
 
 Individuals that visit these websites should refer to their separate privacy policies.
 
 _**Collection and Purpose**_ **_(including Cookies)_**
 
-RDC Media may collect personal information from an individual in the course of an individual’s visit to a Website, or where an individual inputs personal information, which includes but is not limited to situations where a person:
+RDC Media may collect personal information from an individual in the course of an individual’s visit to a Website or RDC App, or where an individual inputs personal information, which includes but is not limited to situations where a person:
 
 * signs up for a R+ account;
 * signs up to receive certain communications such as a newsletter, or changes their marketing preferences; or
 * enters a competition or participates in a promotion.
 
-In addition, RDC Media also places, uses and reads first-party and third-party cookies and advertising identifiers for mobile devices when you visit a Website. Cookies are small files that are used to store small pieces of information – these files are stored on your device (not our systems) when you visit a Website from your browser.
+In addition, RDC Media also places, uses and reads first-party and third-party cookies and advertising identifiers for mobile devices when you visit a Website or RDC App. Cookies are small files that are used to store small pieces of information – these files are stored on your device (not our systems) when you visit a Website or RDC App from your browser, whether you are logged in or not.
 
 There are four types of cookies which we use, being:
 
-* _Strictly_ _necessary cookies_: these cookies are necessary for the Websites to function properly and cannot be turned off. For example, a cookie that is used to ensure the Website knows you are logged in.
-* _Performance_ _or functional cookies_: these cookies are used to provide enhanced functionality and make our Websites easier to use (for example, by remembering your login details or location).
-* _Analytics_ _cookies_: these cookies are used to generate user statistics (for example, how many people have visited a Website, or a particular page of a Website, the average session length of a user and how many repeat visitors our Websites receive) and help us to create a Website that best suits the needs of our users. For example, if the “racing calendar” is the most popular page, we can make sure it is easily accessible from the homepage.
+* _Strictly_ _necessary cookies_: these cookies are necessary for the Websites / RDC App to function properly and cannot be turned off. For example, a cookie that is used to ensure the Website knows you are logged in.
+* _Performance_ _or functional cookies_: these cookies are used to provide enhanced functionality and make our Websites / RDC App easier to use (for example, by remembering your login details or location).
+* _Analytics_ _cookies_: these cookies are used to generate user statistics (for example, how many people have visited a Website, or a particular page of a Website, the average session length of a user and how many repeat visitors our Websites receive) and help us to create a Website / RDC App that best suits the needs of our users. For example, if the “racing calendar” is the most popular page, we can make sure it is easily accessible from the homepage.
 * _Marketing_ _or advertising cookies_: these cookies are used to deliver personalised content or advertising to you in line with your interests. For example, if you have shown an interest in race meetings at a particular racecourse, or in a particular trainer, we may deliver content relevant to that racecourse or trainer. This could be delivered to you in various forms, such as personalised home page content, welcome screens or pop ups.
 
 RDC Media also uses a third party service, Google Analytics, which may also provide us with information about you, such as your IP address, location, gender, age bracket, language and interests based on your interaction with Google platforms. If you would like more information regarding how Google uses data, please visit [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/) (this link may be amended by Google from time to time, so if this link isn’t working please contact us (refer below) or search “How Google uses information from sites or apps that use our services").
 
-The purposes for which RDC Media collects personal information from users of its Websites, including via the use of cookies and Google Analytics, include:
+The purposes for which RDC Media collects personal information from users of its Websites and RDC App, including via the use of cookies and Google Analytics, include:
 
-* providing our users with the best service experience possible on our Websites (such as improving functionality);
-* helping us understand and analyse how our Websites are performing, and which content is of most interest to our users;
+* providing our users with the best service experience possible on our Websites / RDC App (such as improving functionality);
+* helping us understand and analyse how our Websites / RDC App are performing, and which content is of most interest to our users;
 * delivering personalised content (including advertising) to our users based on their interests;
 * conducting competitions and promotions; and
 * providing services related to the thoroughbred racing industry such as circulation ofnewsletters and industry related news.
@@ -281,9 +301,9 @@ If a person does not wish to receive cookies (other than strictly necessary cook
 
 _**Microsoft Clarity**_
 
-We partner with Microsoft Clarity to capture website usage data, which monitors how you use and interact with our website. Website usage data is captured using first and third-party cookies and other tracking technologies, including heat maps, session recordings and machine learning, to determine the popularity of products/services and online activity.
+We partner with Microsoft Clarity to capture website usage data, which monitors how you use and interact with our websites. Website usage data is captured using first and third-party cookies and other tracking technologies, including heat maps, session recordings and machine learning, to determine the popularity of products/services and online activity.
 
-The data we collect includes search terms used by you, the pages you visit on our website and the amount of time spent on those pages (or on certain parts of a page), the date and time when you access pages on our website, downloads, your general browsing activity and bounce rates (being whether you enter our site and leave or view multiple pages).
+The data we collect includes search terms used by you, the pages you visit on our websites and the amount of time spent on those pages (or on certain parts of a page), the date and time when you access pages on our websites, downloads, your general browsing activity and bounce rates (being whether you enter our site and leave or view multiple pages).
 
 The main purpose for collecting this data is to improve and market our products/services. Additionally, we use this information for site optimisation, fraud/security detection purposes, and advertising. For more information about how Microsoft collects and uses your data, visit the Microsoft Privacy Statement.
 
@@ -315,7 +335,7 @@ Where we rely on your consent as the legal basis for processing your personal in
 **Telephone:**     1300 139 401  
 **Email:**             privacyofficer@racingvictoria.net.au
 
-If you are concerned about a possible interference with your privacy, please contact RDC Media’s Privacy Officer and RDC Media will investigate the matter. Complaints to RDC Media must be made in writing. If you do not receive a response within 30 days or your concern is not resolved to your satisfaction, you can refer the matter to the Office of the Australian Information Commissioner (**OAIC**). 
+If you are concerned about a possible interference with your privacy, please contact RDC Media’s Privacy Officer and RDC Media will investigate the matter. Complaints to RDC Media must be made in writing. If you do not receive a response within thirty (30) days or your concern is not resolved to your satisfaction, you can refer the matter to the Office of the Australian Information Commissioner (**OAIC**). 
 
 Before you can lodge a complaint with the OAIC, you will generally need to complain directly to RDC Media. Details on how to lodge a complaint with OAIC are set out on the OAIC’s website [here](http://www.oaic.gov.au/privacy/making-a-privacy-complaint).
 
