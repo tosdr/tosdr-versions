@@ -33,7 +33,7 @@ When you use the Service, some information is also automatically collected, such
 
 We also deliver advertisements and provide website analytics tools on non-Arc Games sites and our Services, and we collect information about page views on these third party sites as well.
 
-To the extent the processing of your Personal Information for this purpose is necessary to deliver the Service, and if and insofar as the GDPR applies, we rely on art. 6.1.(b) of the GDPR. To the extent that the processing of your personal data is required for our legitimate interest to better understand your use of the Service, and if and insofar as the GDPR applies, we rely on art. 6.1.(f) of the GDPR. If you are located in the European Union, and as described in our Cookie Policy, we will only use certain cookies when you have given your consent for this. Otherwise, it is used in the aggregate only.
+To the extent the processing of your Personal Information for this purpose is necessary to deliver the Service, and if and insofar as the GDPR applies, we rely on art. 6.1.(b) of the GDPR. To the extent that the processing of your Personal Information is required for our legitimate interest to better understand your use of the Service, and if and insofar as the GDPR applies, we rely on art. 6.1.(f) of the GDPR. If you are located in the European Union, and as described in our Cookie Policy, we will only use certain cookies when you have given your consent for this. Otherwise, it is used in the aggregate only.
 
 **Tracking Technologies**
 
@@ -43,13 +43,13 @@ We may collect certain information through the use of “cookies” or other sim
 
 When you access the Service by or through a mobile device (including but not limited to smart-phones or tablets), we may use, access, collect, monitor and/or remotely store one or more “device identifiers,” such as a universally unique identifier (“UUID”). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by us. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Service. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
 
-To the extent the processing of your Personal Information for this purpose is necessary to deliver the Service, and if and insofar as the GDPR applies, we rely on art. 6.1.(b) of the GDPR. To the extent that the processing of your personal data is required for our legitimate interest to better understand your use of the Service, and if and insofar as the GDPR applies, we rely on art. 6.1.(f) of the GDPR.
+To the extent the processing of your Personal Information for this purpose is necessary to deliver the Service, and if and insofar as the GDPR applies, we rely on art. 6.1.(b) of the GDPR. To the extent that the processing of your Personal Information is required for our legitimate interest to better understand your use of the Service, and if and insofar as the GDPR applies, we rely on art. 6.1.(f) of the GDPR.
 
 **User Identifiers**
 
 When you access the Service, we use, access, collect, monitor and/or remotely store one or more “user identifiers.” User identifiers are small data files or similar data structure assigned to a user that will be used to enable you to continue in-game progress, use games across multiple platforms and help associate your identity across multiple platforms. A user identifier may convey information to us about how you browse and use the Service. A user identifier may remain persistently on your device or computer, to help you log in faster and enhance your navigation through the Service. Some features of the Service may not function properly if use or availability of user identifiers is impaired or disabled.
 
-To the extent the processing of your Personal Information for this purpose is necessary to deliver the Service, and if and insofar as the GDPR applies, we rely on art. 6.1.(b) of the GDPR. To the extent that the processing of your personal data is required for our legitimate interest to better understand your use of the Service, and if and insofar as the GDPR applies, we rely on art. 6.1.(f) of the GDPR.
+To the extent the processing of your Personal Information for this purpose is necessary to deliver the Service, and if and insofar as the GDPR applies, we rely on art. 6.1.(b) of the GDPR. To the extent that the processing of your Personal Information is required for our legitimate interest to better understand your use of the Service, and if and insofar as the GDPR applies, we rely on art. 6.1.(f) of the GDPR.
 
 **Location Data**
 
@@ -120,25 +120,25 @@ If you provide us Personal Information about others, you should make sure you ha
 
 We will share your Personal Information with third parties only in the ways that are described in this Privacy Policy.
 
-**Our** **Service Providers**
+**Our Service Providers**
 
 We may share Personal Information with vendors, consultants and other service providers (“Service Providers”) such as our credit card processor and our Live Chat vendor who are engaged by or working with us in connection with the operation of the Service and who need access to such information to carry out their services for us. We provide access to the information they may need to perform our Services under reasonable confidentiality terms. In some cases, the Service Provider may be directly collecting the information from you on our behalf. We require Service Providers to only use Personal Information they obtain from us to provide the Services for us.
 
-We may share your Personal Information with third party partners or Service Providers or allow such third party partners or Service Providers to collect information from you directly in order to provide services to us, including serving you targeted advertisements on or off the Service, provide offers, surveys or marketing messages or providing analytic services. For example, we may use your contact details (such as email or phone number) in order to use Facebook’s Custom Audiences, which enables Facebook to identify and advertise to you on our behalf on the Facebook platform.
+We may share your Personal Information with third party partners or Service Providers or allow such third party partners or Service Providers to collect information from you directly in order to provide services to us, including serving you targeted advertisements on or off the Service, provide offers, surveys or marketing messages or providing analytic services. Arc Games complies with the Principles for all onward transfers of Personal Information from the EU, Switzerland, and the UK, including the provisions governing onward transfer liability. For example, we may use your contact details (such as email or phone number) in order to use Facebook's Custom Audiences, which enables Facebook to identify and advertise to you on our behalf on the Facebook platform.
 
 We share Personal Information with third parties when you give us your consent to do so if it is required by applicable laws. For example, we may enter into relationships with other parties to make specific services or offers available directly to our users. If a user opts in to these third party services or marketing offers, for example by clicking through to a third party link, we may share the Personal Information you provide at the time of sign-up or other Personal Information about you, such as your name or other contact information, that we deem reasonably necessary or appropriate for our business partner to provide these services or offers or get in contact with you. If you no longer want us to share your personal information with these companies, contact us at [privacy@arcgames.com](mailto:privacy@arcgames.com).
 
-**Our** **Subsidiaries**
+**Our Subsidiaries**
 
 We may share information with companies in the same group of companies as Arc Games, which includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns. These companies will use your Personal Information in the same way as we can under this Privacy Policy.
 
 We see this processing as necessary for the purposes of the legitimate interests pursued by us, in line with art. 6.1.(f) of the GDPR. If and insofar as the GDPR applies, you have the right to object to this type of processing by contacting us as indicated above. In such case, we will carefully assess whether there are compelling legitimate grounds for the processing which override your interests, rights and freedoms or for the establishment, exercise or defense of legal claims.
 
-**Sharing** **In Response To Legal Obligations**
+**Sharing In Response To Legal Obligations**
 
 We may access, disclose or preserve Personal Information, including the content of your communications, in the good faith belief that we are lawfully authorized by public and governmental authorities, regulators or courts, or when required to do so, including to meet national security or law enforcement requirements, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of Arc Games, our users, our employees or the public, including without limitation to protect Arc Games or our users from fraudulent, abusive, inappropriate or unlawful use of our Service. We may also disclose your Personal Information to any other third party with your prior consent if it is required by applicable laws.
 
-**Publicly** **Available Information**
+**Publicly Available Information**
 
 You understand that when you use the community features of our Service, information you post in public or private groups, forums, and other interactive areas of the Service, as well as any information you share with individuals through the Service, will be available to other users and in some cases (such as when you post to a public area of the Service) may be publicly available. We recommend you be cautious in giving out Personal Information to others or sharing such information in public or private online forums. We are not responsible for the actions of any third parties with whom you share Personal Information. To request removal of your Personal Information from our community forums or other public areas, contact us at [privacy@arcgames.com](mailto:privacy@arcgames.com). Even if you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other users have copied or saved that information. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
 
@@ -228,13 +228,13 @@ Arc Games Inc. is a United States based company and our servers and business ope
 
 For EU users: Arc Games Inc. is a United States based company and our servers and business operations are located primarily in the United States. In order to be able to also use your account on our Website and in our Service and to be able to choose a server located in the United States or in Europe for the Games or our Services, the information relating to your account and use of our Games is transferred between Arc Games Inc. located in the United States and Arc Games B.V. located in the Netherlands.
 
-EU-US Data Privacy Framework
+Data Privacy Framework
 
 Arc Games Inc. is certified under the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework, and the Swiss-U.S. Data Privacy Framework (“Data Privacy Framework”), which provide a mechanism for the transfer of personal data from the European Union, United Kingdom and Switzerland, respectively.
 
 If there is any conflict between the terms in this Privacy Policy and the Data Privacy Framework Principles, the Data Privacy Framework Principles shall govern. To learn more about the Data Privacy Framework program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
 
-Arc Games Inc. commits to cooperate with EU Data Protection Authorities (DPAs), the UK Information Commissioner’s Office (ICO), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to covered data under the Data Privacy Framework.
+Arc Games Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Arc Games Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Arc Games Inc. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
 
 In compliance with the Data Privacy Framework, Arc Games Inc. commits to resolve complaints about our collection or use of your Personal Information.  EU, UK, and Swiss individuals with inquiries or complaints regarding our Privacy Policy should first contact Arc Games Inc. by email at [privacy@arcgames.com](mailto:privacy@arcgames.com) or by the address below:
 
@@ -246,9 +246,13 @@ In compliance with the Data Privacy Framework, Arc Games Inc. commits to resolve
 
     Redwood City, CA 94065.
 
-If you have any thoughts or questions about this Privacy Policy, you may contact us at [privacy@arcgames.com](mailto:privacy@arcgames.com).
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Arc Games commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://www.jamsadr.com/DPF-Dispute-Resolution for more information or to file a complaint. The services of JAMS are provided at no cost to you.
 
 Arc Games Inc.’s representative for GDPR purposes in the European Union is Arc Games B.V., with registered address in Herikerbergweg 181 Unit 4.3, 1101CN, Amsterdam, The Netherlands, with corporate identification number 75256827.
+
+The Federal Trade Commission has jurisdiction over Arc Games’ compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+
+If Arc Games does not resolve any claimed violations of the Principles by any other DPF mechanism or by your rights under this section, you have in accordance with the requirements of Annex I to the DPF the possibility to invoke binding arbitration before the Data Privacy Framework Panel.
 
 **15\. Contact Us**
 
@@ -349,7 +353,7 @@ You may designate an authorized agent to make requests on your behalf. You must 
 
 We do not disclose Personal Information to third parties for their direct marketing purposes.
 
-Last updated: April 29, 2024
+Last updated: September 9th, 2024
 
 [](https://www.arcgames.com/en/)
 
