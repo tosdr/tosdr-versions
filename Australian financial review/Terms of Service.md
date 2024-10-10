@@ -304,29 +304,31 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Former sex discrimination commissioner Elizabeth Broderick.](https://static.ffx.io/images/$zoom_0.4068%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_451%2C$y_332/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8694f77e98cb378aff3945f5871d81caf2945b05)](https://www.afr.com/work-and-careers/workplace/what-men-really-think-about-the-push-for-gender-balance-20240923-p5kcvb)
+[![Premier Investments chairman Solomon Lew.](https://static.ffx.io/images/$zoom_0.6051%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_332%2C$y_438/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/5bf0c4f83179538791ed7c38e2eea6f6e2a2a743)](https://www.afr.com/work-and-careers/workplace/solomon-lew-reveals-why-he-is-still-obsessed-with-myer-20240925-p5kdfp)
 
-### [What men really think about the push for gender balance](https://www.afr.com/work-and-careers/workplace/what-men-really-think-about-the-push-for-gender-balance-20240923-p5kcvb)
+### [Solomon Lew reveals why he is still obsessed with Myer](https://www.afr.com/work-and-careers/workplace/solomon-lew-reveals-why-he-is-still-obsessed-with-myer-20240925-p5kdfp)
 
-* Sally Patten
+* 53 mins ago
+* Patrick Durkin
 
-* ### [CEO son crowned head of Rich List family’s $18b plumbing empire](https://www.afr.com/work-and-careers/workplace/ceo-son-crowned-head-of-rich-list-family-s-18b-plumbing-empire-20240910-p5k9ct)
+* ### [What men really think about the push for gender balance](https://www.afr.com/work-and-careers/workplace/what-men-really-think-about-the-push-for-gender-balance-20240923-p5kcvb)
     
-* ### [Why this former Young Rich Lister is running for deputy mayor](https://www.afr.com/work-and-careers/leaders/why-this-former-young-rich-lister-is-running-for-deputy-mayor-20240930-p5kek6)
+* ### [CEO son crowned head of Rich List family’s $18b plumbing empire](https://www.afr.com/work-and-careers/workplace/ceo-son-crowned-head-of-rich-list-family-s-18b-plumbing-empire-20240910-p5k9ct)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.427%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_133/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/38edfe81a123b1e519b0900da90ab3734c73df5d)](https://www.afr.com/life-and-luxury/fashion-and-style/is-your-water-bottle-chic-enough-plus-limited-edition-ice-cream-20240930-p5kemx)
+[![ ](https://static.ffx.io/images/$zoom_0.3175%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_670/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/7f1758b4b35e3fe5174b29a920336a4f32dffaaa)](https://www.afr.com/life-and-luxury/health-and-wellness/kirsten-king-wants-you-to-flex-but-don-t-push-pilates-to-the-limit-20240912-p5k9xt)
 
-### [Is your water bottle chic enough? Plus, limited-edition ice-cream](https://www.afr.com/life-and-luxury/fashion-and-style/is-your-water-bottle-chic-enough-plus-limited-edition-ice-cream-20240930-p5kemx)
+### [Kirsten King wants you to flex; but don’t push Pilates to the limit](https://www.afr.com/life-and-luxury/health-and-wellness/kirsten-king-wants-you-to-flex-but-don-t-push-pilates-to-the-limit-20240912-p5k9xt)
 
-* Eugenie Kelly
+* 53 mins ago
+* Lauren Sams
 
-* ### [How to stop slouching and improve your posture](https://www.afr.com/life-and-luxury/health-and-wellness/how-to-stop-slouching-and-improve-your-posture-20240924-p5kd4h)
+* ### [Is your water bottle chic enough? Plus, limited-edition ice-cream](https://www.afr.com/life-and-luxury/fashion-and-style/is-your-water-bottle-chic-enough-plus-limited-edition-ice-cream-20240930-p5kemx)
     
-* ### [At these ultra-luxe Maldives resorts, you could be in for a surprise](https://www.afr.com/life-and-luxury/travel/at-these-ultra-luxe-maldives-resorts-you-could-be-in-for-a-surprise-20241002-p5kf8k)
+* ### [How to stop slouching and improve your posture](https://www.afr.com/life-and-luxury/health-and-wellness/how-to-stop-slouching-and-improve-your-posture-20240924-p5kd4h)
     
 
 [Rich List](https://www.afr.com/rich-list)
