@@ -1,3 +1,3 @@
-The Weekly Drop: New Arrivals Every Thursday | Free Shipping On Orders Over $99
+APP EARLY ACCESS: Up to 20% Off All Sweaters and Sweatshirts + 15% Off Almost Everything With Code: EARLYAF Today Only | Free Shipping On Orders Over $99
 
-[SHOP MEN'S](https://www.abercrombie.com/shop/us/mens-new-arrivals?icmp=ICT:FALL24:M-A:SB:B:NAS:CAM:X:JunWk5:NAS:X:) [SHOP WOMEN'S](https://www.abercrombie.com/shop/us/womens-new-arrivals?icmp=ICT:FALL24:F-A:SB:B:NAS:CAM:X:JunWk5:NAS:X:)
+[SHOP MEN'S](https://www.abercrombie.com/shop/us/mens?icmp=ICT:HOL24:M-A:SB:B:SPO:PRM:CPO:OctWk1:X:) [SHOP WOMEN'S](https://www.abercrombie.com/shop/us/womens?icmp=ICT:HOL24:F-A:SB:B:SPO:PRM:CPO:OctWk1:X:)
