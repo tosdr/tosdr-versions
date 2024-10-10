@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» запустила Всероссийскую акцию «Финансовая безопасность в цифровом мире»](https://cdn.er.ru/media/news/October2024/Vg272IlLTHxRzHMzaLVc-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zapustila-vserossijskuyu-akciyu-finansovaya-bezopasnost-v-cifrovom-mire)
+
+[«Единая Россия» запустила Всероссийскую акцию «Финансовая безопасность в цифровом мире»](https://er.ru/activity/news/edinaya-rossiya-zapustila-vserossijskuyu-akciyu-finansovaya-bezopasnost-v-cifrovom-mire)
+
+[#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#финансоваябезопасность](https://er.ru/activity/news?tags%5B0%5D=1095793) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834) [#Калужская область](https://er.ru/activity/news?tags%5B0%5D=783) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#Шапша](https://er.ru/activity/news?tags%5B0%5D=23539)
+
+Сегодня 11:30
+
+[![Инфраструктура, кадры, господдержка: как «Единая Россия» обеспечивает развитие села](https://cdn.er.ru/media/news/October2024/jsyilxA66ZpPvzwnnuyF-small.jpg)](https://er.ru/activity/news/infrastruktura-kadry-gospodderzhka-kak-edinaya-rossiya-obespechivaet-razvitie-sela)
+
+[Инфраструктура, кадры, господдержка: как «Единая Россия» обеспечивает развитие села](https://er.ru/activity/news/infrastruktura-kadry-gospodderzhka-kak-edinaya-rossiya-obespechivaet-razvitie-sela)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#развитиесела](https://er.ru/activity/news?tags%5B0%5D=141272) [#развитиесельскихтерриторий](https://er.ru/activity/news?tags%5B0%5D=118666) [#сельскоехозяйство](https://er.ru/activity/news?tags%5B0%5D=128668) [#АПК](https://er.ru/activity/news?tags%5B0%5D=72) [#поддержкасела](https://er.ru/activity/news?tags%5B0%5D=143757) [#сельскиешколы](https://er.ru/activity/news?tags%5B0%5D=130452) [#сельскиедомакультуры](https://er.ru/activity/news?tags%5B0%5D=138764) [#Совфед](https://er.ru/activity/news?tags%5B0%5D=1319) [#Лут](https://er.ru/activity/news?tags%5B0%5D=133405)
+
+Сегодня 11:00
+
 [![При поддержке «Единой России» в Сочи прошёл X Международный полумарафон на спортивных колясках «Рецепт-Спорт»](https://cdn.er.ru/media/news/October2024/G34PdXmysAJYtTpmZdQo-small.jpg)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sochi-proshyol-x-mezhdunarodnyj-polumarafon-na-sportivnyh-kolyaskah-recept-sport)
 
 [При поддержке «Единой России» в Сочи прошёл X Международный полумарафон на спортивных колясках «Рецепт-Спорт»](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sochi-proshyol-x-mezhdunarodnyj-polumarafon-na-sportivnyh-kolyaskah-recept-sport)
@@ -315,7 +331,7 @@
 
 09.10.24
 
-[![«Единая Россия» поддержит предложения цифровых платформ по регламенту регистрации блогеров в Роскомнадзоре](https://cdn.er.ru/media/news/October2024/kzWUOxqOMmNRefTIczd9-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podderzhit-predlozheniya-cifrovyh-platform-po-reglamentu-registracii-blogerov-v-roskomnadzore)
+[![«Единая Россия» поддержит предложения цифровых платформ по регламенту регистрации блогеров в Роскомнадзоре](https://cdn.er.ru/media/news/October2024/0Jc0sVaWlnYFdDvNZ8AH-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podderzhit-predlozheniya-cifrovyh-platform-po-reglamentu-registracii-blogerov-v-roskomnadzore)
 
 [«Единая Россия» поддержит предложения цифровых платформ по регламенту регистрации блогеров в Роскомнадзоре](https://er.ru/activity/news/edinaya-rossiya-podderzhit-predlozheniya-cifrovyh-platform-po-reglamentu-registracii-blogerov-v-roskomnadzore)
 
@@ -328,22 +344,6 @@
 [Владимир Якушев предложил Минсельхозу сохранить поддержку малых форм хозяйствования и сектора АПК в регионах с низкой бюджетной обеспеченностью](https://er.ru/activity/news/vladimir-yakushev-predlozhil-minselhozu-sohranit-podderzhku-malyh-form-hozyajstvovaniya-i-sektora-apk-v-regionah-s-nizkoj-byudzhetnoj-obespechennostyu)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Лут](https://er.ru/activity/news?tags%5B0%5D=133405) [#Минсельхоз](https://er.ru/activity/news?tags%5B0%5D=873) [#АПК](https://er.ru/activity/news?tags%5B0%5D=72) [#Совфед](https://er.ru/activity/news?tags%5B0%5D=1319) [#правчас](https://er.ru/activity/news?tags%5B0%5D=11581) [#сельскоехозяйство](https://er.ru/activity/news?tags%5B0%5D=128668)
-
-09.10.24
-
-[![При поддержке «Женского движения Единой России» в Белгороде открылась площадка для приграничных женских клубов при центрах занятости](https://cdn.er.ru/media/news/October2024/VTDizAoFxCcp7vvkxzZ6-small.jpg)](https://er.ru/activity/news/pri-podderzhke-zhenskogo-dvizheniya-edinoj-rossii-v-belgorode-otkrylas-ploshadka-dlya-prigranichnyh-zhenskih-klubov-pri-centrah-zanyatosti)
-
-[При поддержке «Женского движения Единой России» в Белгороде открылась площадка для приграничных женских клубов при центрах занятости](https://er.ru/activity/news/pri-podderzhke-zhenskogo-dvizheniya-edinoj-rossii-v-belgorode-otkrylas-ploshadka-dlya-prigranichnyh-zhenskih-klubov-pri-centrah-zanyatosti)
-
-[#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Колесникова](https://er.ru/activity/news?tags%5B0%5D=23186) [#Ивенских](https://er.ru/activity/news?tags%5B0%5D=72329) [#Минтруд](https://er.ru/activity/news?tags%5B0%5D=16744) [#женскийклуб](https://er.ru/activity/news?tags%5B0%5D=1095376) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396)
-
-09.10.24
-
-[![Об особенностях федерального бюджета на 2025-2027 годы. Статья Андрея Исаева](https://cdn.er.ru/media/news/October2024/nJIyfAvT8w62p8GFdyDG-small.jpg)](https://er.ru/activity/news/ob-osobennostyah-federalnogo-byudzheta-na-2025-2027-gody-statya-andreya-isaeva)
-
-[Об особенностях федерального бюджета на 2025-2027 годы. Статья Андрея Исаева](https://er.ru/activity/news/ob-osobennostyah-federalnogo-byudzheta-na-2025-2027-gody-statya-andreya-isaeva)
-
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
 09.10.24
 
