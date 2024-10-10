@@ -148,14 +148,14 @@ Atos homepage](https://atos.net/en/)
         
     * [Blog](https://atos.net/en/blog)˅
         
-        ### Blogs
+        ### Latest articles
         
         * [DORA and NIS2: The impact of new EU cybersecurity regulations](https://atos.net/en/blog/understanding-new-eu-cybersecurity-regulations-directives-dora-nis2)
         * [Harnessing data to drive fan engagement](https://atos.net/en/blog/harnessing-data-to-drive-fan-engagement)
         * [How data enables the media to tell the stories of sport](https://atos.net/en/blog/how-sports-data-enables-media-to-tell-the-stories-of-sport)
         * [Cloud-based production: The next step in the evolution of TV sports](https://atos.net/en/blog/cloud-based-production-the-next-step-in-the-evolution-of-tv-sports)
         
-        [All Blogs](https://atos.net/en/blog)
+        [All articles](https://atos.net/en/blog)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
