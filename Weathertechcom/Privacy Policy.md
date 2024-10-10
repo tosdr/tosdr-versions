@@ -79,7 +79,7 @@ Privacy Policy
 WEATHERTECH WEBSITE PRIVACY POLICY
 ----------------------------------
 
-### Last Updated / Effective Date: 8/16/2024
+### Last Updated / Effective Date: 10/10/2024
 
 WeatherTech Direct, LLC and any of its affiliates (together "**WeatherTech**" or "**we**", "**us**" or "**our**") value your privacy. This Privacy Policy ("**Policy**") describes how we collect, use, store and share your Personal Information when you visit our websites, including [http://www.weathertech.com](http://www.weathertech.com/) (the "**Site**").
 
@@ -195,7 +195,13 @@ We use the YouTube application programming interface (API) services to allow you
 
 We are active on social media, including Facebook, Tiktok, YouTube, X (previously known as Twitter), Instagram, and LinkedIn ("Social Media"). We may post (or re-post) on the Site and our Social Media pages any comments or content that you post on our Social Media pages. Your use of Social Media is governed by the privacy policies and terms of the third parties that own and operate those websites and not by this Policy. We encourage you to review those policies and terms.
 
-### XI. YOUR STATE PRIVACY RIGHTS
+### XI. FINANCIAL INCENTIVE OFFERINGS
+
+From time to time, we may offer financial incentives such as special promotions and discounts for customers who sign up to receive our marketing emails or create accounts with us. When you sign up for these special promotions and discounts, we will collect certain Personal Information from you such as Identifiers (your name and email) and Commercial Information (your purchase history). You can opt-in to a financial incentive by following the sign-up instructions provided. You may withdraw from financial incentives at any time by unsubscribing from marketing emails or contacting us using the information provided below.
+
+The financial incentives we offer are reasonably related to the value of your Personal Information. We use good-faith, reasonable efforts to estimate the value of your Personal Information to our business.
+
+### XII. YOUR STATE PRIVACY RIGHTS
 
 **The terms in this section are only applicable to residents of California, Colorado, Connecticut, Texas, Utah and Virginia.**
 
@@ -356,7 +362,7 @@ VIRGINIA RESIDENTS - PRIVACY RIGHTS
 | **Who May Exercise Your Privacy Rights?** | Only you may make a Privacy Rights request concerning your Personal Information. A parent or legal guardian may make a Privacy Rights request on behalf of their child. |
 | **Right to Appeal** | If we deny your request, you have the right to appeal. To do so, submit a request to us using the contact information in the "Exercising Your Privacy Rights" section within 60 days of your receipt of our denial. Once we receive your request, we will acknowledge and start processing your request. Within 60 days of receiving your request, we will inform you in writing whether we have reconsidered your request or declined to do so. We will also provide an explanation of our decision. |
 
-### XII. YOUR CANADIAN PRIVACY RIGHTS
+### XIII. YOUR CANADIAN PRIVACY RIGHTS
 
 If you are a resident of Canada, you have certain rights under Canadian privacy laws including the following:
 
@@ -388,7 +394,7 @@ If you are resident of Quebec, Quebec law provides you with additional rights re
 
 **Translations.**This Policy may be provided in several languages. In the event of conflict or inconsistency, the English language version of this Policy controls, unless otherwise required by applicable law. En cas de conflit ou d'incohérence, la version anglaise de cette politique de confidentialité contrôle, sauf si la loi applicable l'exige.
 
-### XIII. YOUR MEXICAN PRIVACY RIGHTS
+### XIV. YOUR MEXICAN PRIVACY RIGHTS
 
 The terms in this section are only applicable to residents of Mexico. In compliance with the Federal Law on Protection of Personal Data Held by Individuals, we provide the following additional information regarding our privacy practices and your privacy rights.
 
@@ -396,7 +402,7 @@ You have the rights (i) to cancel your Personal Information when you deem it is 
 
 You may exercise rights (i) and (ii) by emailing us at [consumerdatarequest@weathertech.com](mailto:consumerdatarequest@weathertech.com) and providing your email address and telephone number, and if applicable, specific details of the reasons for which a rectification, opposition or revocation of consent is requested. We will respond to your petition within a reasonable amount of time and inform you of its outcome through the phone number and/or email address you provide.
 
-### XIV. EEA, UK & SWISS PRIVACY RIGHTS
+### XV. EEA, UK & SWISS PRIVACY RIGHTS
 
 If you are located in the European Economic Area, Switzerland, or the United Kingdom, you have certain rights with respect to your Personal Information. Following is a summary of those rights and additional information applicable to our collection and use of your Personal Information.
 
@@ -439,7 +445,7 @@ You may exercise your privacy rights by sending an email to [consumerdatarequest
 * if you are located in Switzerland, [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html)
 * if you are located in the United Kingdom, [https://ico.org.uk/global/contact-us/contact-us-public/](https://ico.org.uk/global/contact-us/contact-us-public/)
 
-### XV. CONTACT US
+### XVI. CONTACT US
 
 Please contact us as described below with any questions, comments or complaints:
 
