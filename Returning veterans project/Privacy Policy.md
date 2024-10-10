@@ -191,11 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Mike Breen](https://cdn.returningveterans.org/images/honor/Mike_Breen_Navy.jpg)  
+![Steven Edmondson](https://cdn.returningveterans.org/images/honor/Pamela_Blatter.jpg)  
 
-**In Honor of Mike Breen**  
-United States Navy  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of Steven Edmondson**  
+United States Army  
+Submitted by Pamela Blatter](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/10/24 - 8:41:25  
+Printed 10/10/24 - 2:31:30  
 © 2024 Returning Veterans Project
