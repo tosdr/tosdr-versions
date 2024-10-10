@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I had a 1 month subscription for a US proxy, and it worked wonderfully. I had no downtime at all and amazing speeds, especially on high-bandwidth sites such as Youtube (90 seconds loading time for 8 minutes of 1080p video!). I am subscribing for another month right now, and I plan to take 1 year subscription after that. Amazing service!
+You have one of the best support teams I have ever communicated with!
 
-Alex May
+Petar Yankov
