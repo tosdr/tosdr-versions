@@ -134,7 +134,7 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     Oct 12 2024
     
-    #### [Blueprints to Special Education (How to build effective school services)](https://washingtonautismalliance.org/events/special-education-sep2024/?occurrence=2024-10-12)
+    #### [Blueprints to Special Education (How to build effective school services)](https://washingtonautismalliance.org/events/special-education-sep2024/?occurrence=2024-10-12) Sale has ended
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
