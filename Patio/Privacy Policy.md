@@ -29,7 +29,7 @@ Once you purchase this domain, our team will send you detailed instructions on h
 
 Buy Now
 
-$6,990 USD $12,000 Sale Ends In 4 Days
+$6,990 USD $12,000 Sale Ends In 3 Days
 
 Pay in Installments $641 _x 12 months_
 
@@ -85,7 +85,7 @@ Once you purchase this domain, our team will send you detailed instructions on h
 
 Buy Now
 
-$6,990 USD $12,000 Sale Ends In 4 Days
+$6,990 USD $12,000 Sale Ends In 3 Days
 
 Pay in Installments $641 _x 12 months_
 
@@ -187,16 +187,16 @@ Purchase
 * [Real Estate](https://patio.app/search/categories/Real%20Estate)
 * [Sports](https://patio.app/search/categories/Sports)
 
-* [Music & Audio](https://patio.app/search/categories/Music%20%26%20Audio)
 * [Payment](https://patio.app/search/categories/Payment)
+* [Music & Audio](https://patio.app/search/categories/Music%20%26%20Audio)
 
-* [Marketing & Advertising](https://patio.app/search/categories/Marketing%20%26%20Advertising)
 * [Recruitment & Staffing](https://patio.app/search/categories/Recruitment%20%26%20Staffing)
+* [Marketing & Advertising](https://patio.app/search/categories/Marketing%20%26%20Advertising)
 
+* [Professional Services](https://patio.app/search/categories/Professional%20Services)
 * [Legal, Attorney, Law](https://patio.app/search/categories/Legal%2C%20Attorney%2C%20Law)
-* [Fintech (Finance Technology)](https://patio.app/search/categories/Fintech%20%28Finance%20Technology%29)
 
-* [News & Media](https://patio.app/search/categories/News%20%26%20Media)
+* [Fintech (Finance Technology)](https://patio.app/search/categories/Fintech%20%28Finance%20Technology%29)
 
 Powered by Atom.com
 
