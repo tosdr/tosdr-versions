@@ -36,19 +36,19 @@ Menu
     
     1. [![Shop by age 0–3+ years old](https://icdn.kiwico.com/site/store/icons/0-3.svg)
         
-        0–3+ years](https://www.kiwico.com/us/store/cp/0-3-years-old)
+        0–3+ years](https://www.kiwico.com/0-3)
     2. [![Shop by age 3–6+ years old](https://icdn.kiwico.com/site/store/icons/3-6.svg)
         
-        3–6+ years](https://www.kiwico.com/us/store/cp/3-6-years-old)
+        3–6+ years](https://www.kiwico.com/3-6)
     3. [![Shop by age 6–9+ years old](https://icdn.kiwico.com/site/store/icons/6-9.svg)
         
-        6–9+ years](https://www.kiwico.com/us/store/cp/6-9-years-old)
+        6–9+ years](https://www.kiwico.com/6-9)
     4. [![Shop by age 9–12+ years old](https://icdn.kiwico.com/site/store/icons/9-12.svg)
         
-        9–12+ years](https://www.kiwico.com/us/store/cp/9-12-years-old)
+        9–12+ years](https://www.kiwico.com/9-12)
     5. [![Shop by age 12–18+ years old](https://icdn.kiwico.com/site/store/icons/12%2B.svg)
         
-        12–18+ years](https://www.kiwico.com/us/store/cp/12-plus-years-old)
+        12–18+ years](https://www.kiwico.com/12-plus)
     
 3. Categories
     
