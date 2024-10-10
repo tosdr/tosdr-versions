@@ -284,7 +284,7 @@ Services
 
 Additional resources
 
-* [Works with YubiKey Program](https://www.yubico.com/works-with-yubikey/catalog/?sort=popular/)
+* [Works with YubiKey Program](https://www.yubico.com/works-with-yubikey/catalog/?sort=popular)
 * [Buying and shipping information](https://www.yubico.com/support/shipping-and-buying-information/)
 * [Security advisories](https://www.yubico.com/support/security-advisories/)
 * [Help center](https://support.yubico.com/hc/en-us/)
