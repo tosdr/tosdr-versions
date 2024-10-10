@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
+* [How to back up data files from DDN using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ddn-using-backup4all-kb.html)  
     
-* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
+* [Access denied error when trying to create a s ...](https://www.backup4all.com/access-denied-error-when-trying-to-create-a-scheduled-task-kb.html)  
     
-* [How to test a backup?](https://www.backup4all.com/how-to-test-a-backup-kb.html)  
+* [What is a backup?](https://www.backup4all.com/what-is-a-backup-kb.html)  
     
-* [Packet writing software](https://www.backup4all.com/packet-writing-software-kb.html)  
+* [How to restore a backup from Cloudflare R2 us ...](https://www.backup4all.com/how-to-restore-a-backup-from-cloudflare-r2-using-backup4all-kb.html)  
     
-* [How to back up data files from Box using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-box-using-backup4all-kb.html)  
+* [Differential backup](https://www.backup4all.com/differential-backup-kb.html)  
     
 
 Choose language:
