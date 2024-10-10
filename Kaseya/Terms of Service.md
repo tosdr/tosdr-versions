@@ -355,6 +355,12 @@
     
     Blog
     
+    [Top Compliance Standards and the Differences Between Them: SOC 2, ISO 27001, NIST and PCI DSS
+    
+    October 10
+    
+    11 minute read](https://www.kaseya.com/blog/top-compliance-standards-soc2-pci-iso-nist/)
+    
     [![](https://www.kaseya.com/wp-content/uploads/2024/10/ransomware-as-a-service-raas-600x400.jpeg)
     
     What is Ransomware-as-a-Service (RaaS)?
@@ -362,14 +368,6 @@
     October 3
     
     10 minute read](https://www.kaseya.com/blog/ransomware-as-a-service-raas/)
-    
-    [![Automation](https://www.kaseya.com/wp-content/uploads/2024/09/rmm_automation-AdobeStock_220609182-600x400.jpeg)
-    
-    The RMM advantage: Automate IT processes to boost efficiency, cut costs and reduce burnout
-    
-    September 30
-    
-    8 minute read](https://www.kaseya.com/blog/rmm-solutions-automate-it-operations-efficiency/)
     
     [View the Full Blog](https://www.kaseya.com/blog/)
     
