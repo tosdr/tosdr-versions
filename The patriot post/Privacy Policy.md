@@ -130,10 +130,6 @@ Last Updated: November 15, 2011.
 *      [Byron York When Kamala Harris’s Promises Come to Nothing](https://patriotpost.us/opinion/110934-when-kamala-harriss-promises-come-to-nothing-2024-10-09)
 *      [Ben Shapiro One Year Later](https://patriotpost.us/opinion/110933-one-year-later-2024-10-09)
 *      [Ian Haworth When Will People Listen to Hamas?](https://patriotpost.us/opinion/110940-when-will-people-listen-to-hamas-2024-10-09)
-*      [John Stossel The Cost of Free Money](https://patriotpost.us/opinion/110931-the-cost-of-free-money-2024-10-09)
-*      [Star Parker Black Clergy Speak Out for Israel](https://patriotpost.us/opinion/110937-black-clergy-speak-out-for-israel-2024-10-09)
-*      [The Babylon Bee 10 Clever Ways to Smuggle Humanitarian Supplies Past FEMA](https://patriotpost.us/opinion/110942-10-clever-ways-to-smuggle-humanitarian-supplies-past-fema-2024-10-09)
-*      [Guest Commentary What Is the Priority Here?](https://patriotpost.us/opinion/110898-what-is-the-priority-here-2024-10-09)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,9 +143,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
