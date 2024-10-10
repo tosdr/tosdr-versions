@@ -254,23 +254,17 @@ Latest News
 
 [Tottori assembly passes ordinance on election poster board use](https://www.japantimes.co.jp/news/2024/10/10/japan/tottori-assembly-ordinance-election-poster-use/ "Tottori assembly passes ordinance on election poster board use")
 
-4 hours ago
+10 hours ago
 
 [2025 Expo head expects ticket sales to speed up](https://www.japantimes.co.jp/news/2024/10/10/japan/2025-expo-head-ticket-sales/ "2025 Expo head expects ticket sales to speed up")
 
-5 hours ago
+11 hours ago
 
 [South Korean author Han Kang wins Nobel Prize in literature](https://www.japantimes.co.jp/news/2024/10/10/world/literature-nobel-han-kang/ "South Korean author Han Kang wins Nobel Prize in literature")
 
-6 hours ago
-
 [Aomori Prefecture rejects proposed high-level nuclear waste delivery](https://www.japantimes.co.jp/news/2024/10/10/japan/aomori-nuclear-waste-refusal/ "Aomori Prefecture rejects proposed high-level nuclear waste delivery")
 
-6 hours ago
-
 [Ishiba keeps low profile as he makes diplomatic debut](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
