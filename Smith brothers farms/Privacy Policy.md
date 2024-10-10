@@ -190,13 +190,13 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (48)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (47)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (42)](https://www.smithbrothersfarms.com/on-special)
         
     * [Fall Flavors (43)](https://www.smithbrothersfarms.com/fall-favorites)
         
-    * [Milk & Cream (56)](https://www.smithbrothersfarms.com/milk-cream)
+    * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
         * [Whole Milk (5)](https://www.smithbrothersfarms.com/whole)
@@ -211,7 +211,7 @@ Hi
             
         * [Lactose Free Milk (2)](https://www.smithbrothersfarms.com/lactose-free-3)
             
-        * [Plant-Based Milk (14)](https://www.smithbrothersfarms.com/non-dairy-3)
+        * [Plant-Based Milk (13)](https://www.smithbrothersfarms.com/non-dairy-3)
             
         * [Half & Half, Creamers (17)](https://www.smithbrothersfarms.com/flavored-creamers)
             
@@ -324,12 +324,12 @@ Hi
         * [Peanut Butter (3)](https://www.smithbrothersfarms.com/peanut-butter-2)
             
         
-    * [Snacks (34)](https://www.smithbrothersfarms.com/snacks)
+    * [Snacks (33)](https://www.smithbrothersfarms.com/snacks)
         
         * BACK
         * [Salsa, Dips & Hummus (13)](https://www.smithbrothersfarms.com/salsa)
             
-        * [Chips, Crackers & Nuts (21)](https://www.smithbrothersfarms.com/chips-and-crackers)
+        * [Chips, Crackers & Nuts (20)](https://www.smithbrothersfarms.com/chips-and-crackers)
             
         
     * [Merchandise (9)](https://www.smithbrothersfarms.com/merchandise)
