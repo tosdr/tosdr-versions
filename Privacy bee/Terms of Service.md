@@ -53,8 +53,6 @@ Close Menu
 Terms of Service
 ================
 
-#### Last Modified: **May 5th, 2020**
-
 These Terms of Service and any terms expressly incorporated herein (these **_“Terms”_**) apply to any access to, or use of, any services made available by Privacy Bee, LLC (**_“Privacy Bee”_**, **_“we”_**, **_“us”_**, or **_“our”_**) using the website [https://privacybee.com](https://privacybee.com/) (the **_“Site”_**) and the Product Offerings, as further described in Section 2.1 below, provided by us (collectively, the **_“Services”_**). The terms “you”, “your”, and “yourself” refer to the individual user of the Services. Throughout these Terms, you and Privacy Bee may each be referred to as a **_“Party”_** or collectively, the **_“Parties”_**.
 
 BY CLICKING THE “ACCEPT” BUTTON, BY CHECKING THE APPROPRIATE BOX TO ACCEPT THESE TERMS, OR BY ACCESSING THE SERVICES, YOU: (A) ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THESE TERMS; (B) REPRESENT THAT YOU ARE OF SOUND MIND AND OF LEGAL AGE TO ENTER INTO A BINDING AGREEMENT (18 YEARS OF AGE OR OLDER); AND (C) ACCEPT AND AGREE TO BE LEGALLY BOUND BY THE TERMS AND CONDITIONS OF THESE TERMS.
@@ -158,6 +156,8 @@ All feedback, comments, requests for technical support and other communications 
 **_15.6 Survival._** Termination of these Terms will not affect the provisions that, by their nature, are intended to survive the termination hereof, including without limitation, Section 5,6,7,8,9,10,11,12,13,14, and 15.
 
 **_15.7 Entire Agreement; Order of Precedence._** These Terms contain the entire agreement and supersede all prior and contemporaneous understandings between the parties regarding the Services. In the event of any conflict between these Terms and any other agreement you may have with us, these Terms will control unless the other agreement specifically identifies these Terms and declares that the other agreement supersedes these Terms.
+
+Last Modified: November 5th, 2022
 
 ![](https://privacybee.com/wp-content/themes/twentytwenty-child/assets/images/ghost-1.svg) ![](https://privacybee.com/wp-content/themes/twentytwenty-child/assets/images/ghost-2.svg) ![](https://privacybee.com/wp-content/themes/twentytwenty-child/assets/images/ghost-3.svg) ![](https://privacybee.com/wp-content/themes/twentytwenty-child/assets/images/ghost-4.svg) ![](https://privacybee.com/wp-content/themes/twentytwenty-child/assets/images/ghost-5.svg) ![](https://privacybee.com/wp-content/themes/twentytwenty-child/assets/images/ghost-6.svg)
 
