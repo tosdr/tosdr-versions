@@ -24,7 +24,7 @@ MENUMENU
         * [Power Wheelchairs](https://www.hmebc.com/product-category/products/power-wheelchairs/)
         * [Tilt Wheelchairs](https://www.hmebc.com/product-category/products/tilt-wheelchairs/)
         * [Wheelchairs Accessories](https://www.hmebc.com/product-category/products/wheelchairs-accessories/)
-* [Signature Series](https://www.hmebc.com/product-category/signature-series/)
+* [Signature Series™](https://www.hmebc.com/product-category/signature-series/)
 * Pediatrics
     * [HME Kids](https://www.hmekids.com/)
     * [Alternative Positioning Devices](https://www.hmebc.com/product-category/pediatrics/alternative-positioning-devices/)
