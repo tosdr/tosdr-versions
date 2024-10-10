@@ -43,7 +43,7 @@ Choose your country [Austria](https://www.quadient.com/de-at) [Belgium - NL](htt
 * Mailing and shipping solutions How we help Resources Support Contact us Languages
 * [](https://www.myquadient.com/US/en_US/Shop)
 
-Intelligent mailing [Postage meters & mailing systems](https://www.quadient.com/en/postage-meters-mailing-systems) [Folder inserters](https://www.quadient.com/en/folder-inserters) [Mail openers](https://www.quadient.com/en/mail-openers) [Digital printers & addressing](https://www.quadient.com/en/digital-printers-addressing) [Parcel shipping & tracking solutions](https://www.quadient.com/en/package-shipping-solutions) [Smart mailing software](https://www.quadient.com/en/mailroom-software) [Ink & supplies](https://www.quadient.com/en/postage-meter-ink)
+Intelligent mailing [Postage meters & mailing systems](https://www.quadient.com/en/postage-meters-mailing-systems) [Mail openers](https://www.quadient.com/en/mail-openers) [Digital printers & addressing](https://www.quadient.com/en/digital-printers-addressing) [Parcel shipping & tracking solutions](https://www.quadient.com/en/package-shipping-solutions) [Smart mailing software](https://www.quadient.com/en/mailroom-software) [Ink & supplies](https://www.quadient.com/en/postage-meter-ink)
 
 Solutions for your business [Small business mailing & shipping](https://www.quadient.com/en/small-business-solutions) [Advanced mailing & shipping](https://www.quadient.com/en/innovative-mail-solutions) [Production mail](https://www.quadient.com/en/production-mail)
 
