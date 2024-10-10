@@ -398,7 +398,9 @@ No Reviews Yet
 
 Quick Add
 
-[![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=400&h=400&q=100&fit=clip&auto=format&w=3840)](https://www.blueland.com/products/laundry-starter-set)
+[![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=400&h=400&q=100&fit=clip&auto=format&w=3840)
+
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/847fff37b437c589680f7172ac66be994245d177-1790x1790.jpg?w=400&h=400&q=100&fit=clip&auto=format&w=3840)](https://www.blueland.com/products/laundry-starter-set)
 
 [Laundry Starter Set](https://www.blueland.com/products/laundry-starter-set)$25
 
