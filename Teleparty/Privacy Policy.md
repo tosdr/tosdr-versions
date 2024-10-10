@@ -8,7 +8,7 @@
 
 * [Install
     
-    Install Teleparty](https://chrome.google.com/webstore/detail/netflix-party/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en)
+    Install Teleparty](https://chromewebstore.google.com/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?utm_source=teleparty-next-landing&utm_medium=install-button&utm_campaign=default)
 
 [Features](https://www.netflixparty.com/#show)
 
@@ -98,7 +98,7 @@ Which browsers and devices are compatible with Teleparty?
 
 Teleparty is available as both a browser extension and a mobile app.  
   
-On laptop and desktop computers, you can download Teleparty as a browser extension for the [Google Chrome](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/netflix-party-is-now-tele/igbncjcgfkfnfgbaieiimpfkobabmkce), and [Opera Browsers](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en)  
+On laptop and desktop computers, you can download Teleparty as a browser extension for the [Google Chrome](https://chromewebstore.google.com/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?utm_source=teleparty-next-support&utm_medium=install-link&utm_campaign=default), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/netflix-party-is-now-tele/igbncjcgfkfnfgbaieiimpfkobabmkce), and [Opera Browsers](https://chromewebstore.google.com/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?utm_source=teleparty-next-support&utm_medium=install-link&utm_campaign=default)  
   
 On your Android device, you can download Teleparty from the [Google Play Store](https://play.google.com/store/apps/details?id=com.teleparty.android)  
   
@@ -110,7 +110,7 @@ Yes, each participant needs access to an account for the streaming service being
   
 It is possible to use a shared account to join a party, but the account needs to be on a standard or premium membership plan which allows multiple viewers to watch the streaming service at the same time.  
   
-All participants must also [install the Teleparty extension](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en) or use the Teleparty App.
+All participants must also [install the Teleparty extension](https://chromewebstore.google.com/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?utm_source=teleparty-next-support&utm_medium=install-link&utm_campaign=default) or use the Teleparty App.
 
 What is the limit on the number of people who can join a Teleparty at once?
 
@@ -129,7 +129,7 @@ Installation Guide
 
 Where can I install Teleparty?
 
-Click on the respective link to install Teleparty on[the Chrome Store](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en),[Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/netflix-party-is-now-tele/igbncjcgfkfnfgbaieiimpfkobabmkce), or an[Android Device](https://play.google.com/store/apps/details?id=com.teleparty.android)  
+Click on the respective link to install Teleparty on[the Chrome Store](https://chromewebstore.google.com/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?utm_source=teleparty-next-support&utm_medium=install-link&utm_campaign=default),[Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/netflix-party-is-now-tele/igbncjcgfkfnfgbaieiimpfkobabmkce), or an[Android Device](https://play.google.com/store/apps/details?id=com.teleparty.android)  
   
 Teleparty is **NOT** currently available on Firefox, Internet Explorer, and other web browsers.  
   
@@ -149,7 +149,7 @@ To uninstall, right click on the red "TP" button on the top right corner of your
 
   
   
-Reinstall Teleparty from[the Chrome Store](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en) or[Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/netflix-party-is-now-tele/igbncjcgfkfnfgbaieiimpfkobabmkce)  
+Reinstall Teleparty from[the Chrome Store](https://chromewebstore.google.com/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?utm_source=teleparty-next-support&utm_medium=install-link&utm_campaign=default) or[Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/netflix-party-is-now-tele/igbncjcgfkfnfgbaieiimpfkobabmkce)  
   
 
 Try starting or joining a party again (by clicking the **Tp** icon) and you should be able to use Teleparty.
@@ -167,7 +167,7 @@ You can share the party link you get with friends to invite them to your party.
 
 Why can’t I start a party on the browser extension, even though I have Teleparty installed?
 
-Make sure you are logged into a supported streaming service, are on your main account profile, and have a show currently playing. Your URL should look like “netflix.com/watch/.” When the app detects a video on your webpage, it will turn red, and you can click on it to turn the video into a Teleparty. If it is still not working,[re-install Teleparty](https://chrome.google.com/webstore/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?hl=en) and try again.
+Make sure you are logged into a supported streaming service, are on your main account profile, and have a show currently playing. Your URL should look like “netflix.com/watch/.” When the app detects a video on your webpage, it will turn red, and you can click on it to turn the video into a Teleparty. If it is still not working,[re-install Teleparty](https://chromewebstore.google.com/detail/netflix-party-is-now-tele/oocalimimngaihdkbihfgmpkcpnmlaoa?utm_source=teleparty-next-support&utm_medium=install-link&utm_campaign=default) and try again.
 
 How many people can join a Teleparty, and does everyone need a streaming service account?
 
