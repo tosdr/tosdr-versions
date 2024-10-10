@@ -1,3 +1,7 @@
+Join our 10/17 event on GTM Flywheels
+
+[Register](https://www.copy.ai/webinars/how-to-create-an-ai-powered-gtm-flywheel)
+
 [![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg)](https://copy.ai/)
 
 Platform
@@ -44,7 +48,7 @@ By Team
 
 Learn More
 
-[Blog](https://copy.ai/blog)[For The Enterprise](#)[Trust Center](https://trust.copy.ai/)
+[Blog](https://copy.ai/blog)[For The Enterprise](https://copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)
 
 Get Help
 
@@ -106,7 +110,7 @@ By Team
 
 Learn More
 
-[Blog](https://copy.ai/blog)[For The Enterprise](#)[Trust Center](https://trust.copy.ai/)
+[Blog](https://copy.ai/blog)[For The Enterprise](https://copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)
 
 Get Help
 
@@ -322,7 +326,7 @@ By Team
 
 Learn More
 
-[Blog](https://copy.ai/blog)[For The Enterprise](#)[Trust Center](https://trust.copy.ai/)
+[Blog](https://copy.ai/blog)[For The Enterprise](https://copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)
 
 Get Help
 
@@ -384,7 +388,7 @@ By Team
 
 Learn More
 
-[Blog](https://copy.ai/blog)[For The Enterprise](#)[Trust Center](https://trust.copy.ai/)
+[Blog](https://copy.ai/blog)[For The Enterprise](https://copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)
 
 Get Help
 
