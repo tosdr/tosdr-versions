@@ -16,7 +16,7 @@ Intelligence Layer
 
 Technical Resources
 
-[AI for Email Campaigns: Better Results with Fewer Resources](https://copy.ai/blog/ai-for-email-campaigns)[AI for Lead Scoring: How to Leverage Tech to Qualify Better Leads](https://copy.ai/blog/ai-for-lead-scoring)[AI for Customer Segmentation: Making Sense of Customer Data](https://copy.ai/blog/ai-for-customer-segmentation)
+[The Power of "Actions" for GTM Teams: The Building Blocks of Workflows](https://copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://copy.ai/blog/introducing-tables)[What's the Difference Between LLMs? & How to Choose the Right One](https://copy.ai/blog/difference-between-llms)
 
 Use cases
 
@@ -32,9 +32,9 @@ Operations
 
 [Lead + Account Intelligence](https://copy.ai/use-cases/lead-account-intelligence)[CRM Enrichment](https://copy.ai/use-cases/crm-enrichment)[GTM Systems Integrations](https://copy.ai/use-cases/gtm-systems-integrations)
 
-Technical Resources
+Featured Resources
 
-[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)[Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)[GTM AI: The Key to Future-Proofing Your Business](https://copy.ai/blog/gtm-ai)
+[Cold Email Best Practices Guide: 2024 Edition](https://copy.ai/blog/cold-email-best-practices-guide-2024-edition)[AI for Thought Leadership Content: How to Unlock Real Human Insights](https://copy.ai/blog/ai-for-thought-leadership)[How to Prospect for Sales in an AI-Driven World](https://copy.ai/blog/how-to-prospect-for-sales)
 
 Resources
 
@@ -48,11 +48,11 @@ Learn More
 
 Get Help
 
-[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](#)
+[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
 
 Technical Resources
 
-[Competitive Analysis for Go-to-Market Success](https://copy.ai/blog/competitive-analysis)[How AI Improves Sales Prospecting with Copy.ai Co-founder, Chris Lu](https://copy.ai/blog/how-ai-improves-sales-prospecting)[How to Build a Powerful Brand Strategy Framework](https://copy.ai/blog/brand-strategy-framework)
+[The Power of "Actions" for GTM Teams: The Building Blocks of Workflows](https://copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://copy.ai/blog/introducing-tables)[How Automated Workflows and SOC 2 Compliance Protect Your Data](https://copy.ai/blog/how-automated-workflows-and-soc-2-compliance-protect-your-data)
 
 [Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)
 
@@ -62,7 +62,7 @@ Contact Sales](https://copy.ai/request-a-demo)
 
 [](#)
 
-Product
+Platform
 
 Overview
 
@@ -78,7 +78,7 @@ Intelligence Layer
 
 Technical Resources
 
-[AI for Email Campaigns: Better Results with Fewer Resources](https://copy.ai/blog/ai-for-email-campaigns)[AI for Lead Scoring: How to Leverage Tech to Qualify Better Leads](https://copy.ai/blog/ai-for-lead-scoring)[AI for Customer Segmentation: Making Sense of Customer Data](https://copy.ai/blog/ai-for-customer-segmentation)
+[The Power of "Actions" for GTM Teams: The Building Blocks of Workflows](https://copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://copy.ai/blog/introducing-tables)[What's the Difference Between LLMs? & How to Choose the Right One](https://copy.ai/blog/difference-between-llms)
 
 Use cases
 
@@ -94,9 +94,9 @@ Operations
 
 [Lead + Account Intelligence](https://copy.ai/use-cases/lead-account-intelligence)[CRM Enrichment](https://copy.ai/use-cases/crm-enrichment)[GTM Systems Integrations](https://copy.ai/use-cases/gtm-systems-integrations)
 
-Technical Resources
+Featured Resources
 
-[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)[Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)[GTM AI: The Key to Future-Proofing Your Business](https://copy.ai/blog/gtm-ai)
+[Cold Email Best Practices Guide: 2024 Edition](https://copy.ai/blog/cold-email-best-practices-guide-2024-edition)[AI for Thought Leadership Content: How to Unlock Real Human Insights](https://copy.ai/blog/ai-for-thought-leadership)[How to Prospect for Sales in an AI-Driven World](https://copy.ai/blog/how-to-prospect-for-sales)
 
 Resources
 
@@ -110,11 +110,11 @@ Learn More
 
 Get Help
 
-[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](#)
+[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
 
 Technical Resources
 
-[Competitive Analysis for Go-to-Market Success](https://copy.ai/blog/competitive-analysis)[How AI Improves Sales Prospecting with Copy.ai Co-founder, Chris Lu](https://copy.ai/blog/how-ai-improves-sales-prospecting)[How to Build a Powerful Brand Strategy Framework](https://copy.ai/blog/brand-strategy-framework)
+[The Power of "Actions" for GTM Teams: The Building Blocks of Workflows](https://copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://copy.ai/blog/introducing-tables)[How Automated Workflows and SOC 2 Compliance Protect Your Data](https://copy.ai/blog/how-automated-workflows-and-soc-2-compliance-protect-your-data)
 
 [Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)
 
@@ -294,7 +294,7 @@ Intelligence Layer
 
 Technical Resources
 
-[AI for Email Campaigns: Better Results with Fewer Resources](https://copy.ai/blog/ai-for-email-campaigns)[AI for Lead Scoring: How to Leverage Tech to Qualify Better Leads](https://copy.ai/blog/ai-for-lead-scoring)[AI for Customer Segmentation: Making Sense of Customer Data](https://copy.ai/blog/ai-for-customer-segmentation)
+[The Power of "Actions" for GTM Teams: The Building Blocks of Workflows](https://copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://copy.ai/blog/introducing-tables)[What's the Difference Between LLMs? & How to Choose the Right One](https://copy.ai/blog/difference-between-llms)
 
 Use cases
 
@@ -310,9 +310,9 @@ Operations
 
 [Lead + Account Intelligence](https://copy.ai/use-cases/lead-account-intelligence)[CRM Enrichment](https://copy.ai/use-cases/crm-enrichment)[GTM Systems Integrations](https://copy.ai/use-cases/gtm-systems-integrations)
 
-Technical Resources
+Featured Resources
 
-[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)[Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)[GTM AI: The Key to Future-Proofing Your Business](https://copy.ai/blog/gtm-ai)
+[Cold Email Best Practices Guide: 2024 Edition](https://copy.ai/blog/cold-email-best-practices-guide-2024-edition)[AI for Thought Leadership Content: How to Unlock Real Human Insights](https://copy.ai/blog/ai-for-thought-leadership)[How to Prospect for Sales in an AI-Driven World](https://copy.ai/blog/how-to-prospect-for-sales)
 
 Resources
 
@@ -326,11 +326,11 @@ Learn More
 
 Get Help
 
-[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](#)
+[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
 
 Technical Resources
 
-[Competitive Analysis for Go-to-Market Success](https://copy.ai/blog/competitive-analysis)[How AI Improves Sales Prospecting with Copy.ai Co-founder, Chris Lu](https://copy.ai/blog/how-ai-improves-sales-prospecting)[How to Build a Powerful Brand Strategy Framework](https://copy.ai/blog/brand-strategy-framework)
+[The Power of "Actions" for GTM Teams: The Building Blocks of Workflows](https://copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://copy.ai/blog/introducing-tables)[How Automated Workflows and SOC 2 Compliance Protect Your Data](https://copy.ai/blog/how-automated-workflows-and-soc-2-compliance-protect-your-data)
 
 [Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)
 
@@ -340,7 +340,7 @@ Contact Sales](https://copy.ai/request-a-demo)
 
 [](#)
 
-Product
+Platform
 
 Overview
 
@@ -356,7 +356,7 @@ Intelligence Layer
 
 Technical Resources
 
-[AI for Email Campaigns: Better Results with Fewer Resources](https://copy.ai/blog/ai-for-email-campaigns)[AI for Lead Scoring: How to Leverage Tech to Qualify Better Leads](https://copy.ai/blog/ai-for-lead-scoring)[AI for Customer Segmentation: Making Sense of Customer Data](https://copy.ai/blog/ai-for-customer-segmentation)
+[The Power of "Actions" for GTM Teams: The Building Blocks of Workflows](https://copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://copy.ai/blog/introducing-tables)[What's the Difference Between LLMs? & How to Choose the Right One](https://copy.ai/blog/difference-between-llms)
 
 Use cases
 
@@ -372,9 +372,9 @@ Operations
 
 [Lead + Account Intelligence](https://copy.ai/use-cases/lead-account-intelligence)[CRM Enrichment](https://copy.ai/use-cases/crm-enrichment)[GTM Systems Integrations](https://copy.ai/use-cases/gtm-systems-integrations)
 
-Technical Resources
+Featured Resources
 
-[Invest in Purpose-Built Solution, or DIY?](https://copy.ai/blog/the-worlds-first-gtm-ai-platform)[Workflows 101: How to Build, Modify, and Run at Scale](https://copy.ai/blog/workflows-101)[GTM AI: The Key to Future-Proofing Your Business](https://copy.ai/blog/gtm-ai)
+[Cold Email Best Practices Guide: 2024 Edition](https://copy.ai/blog/cold-email-best-practices-guide-2024-edition)[AI for Thought Leadership Content: How to Unlock Real Human Insights](https://copy.ai/blog/ai-for-thought-leadership)[How to Prospect for Sales in an AI-Driven World](https://copy.ai/blog/how-to-prospect-for-sales)
 
 Resources
 
@@ -388,11 +388,11 @@ Learn More
 
 Get Help
 
-[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](#)
+[Help Center](https://support.copy.ai/en)[Contact Support](https://copy.ai/contact-us)[Changelog](https://copy.ai/changelog)
 
 Technical Resources
 
-[Competitive Analysis for Go-to-Market Success](https://copy.ai/blog/competitive-analysis)[How AI Improves Sales Prospecting with Copy.ai Co-founder, Chris Lu](https://copy.ai/blog/how-ai-improves-sales-prospecting)[How to Build a Powerful Brand Strategy Framework](https://copy.ai/blog/brand-strategy-framework)
+[The Power of "Actions" for GTM Teams: The Building Blocks of Workflows](https://copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://copy.ai/blog/introducing-tables)[How Automated Workflows and SOC 2 Compliance Protect Your Data](https://copy.ai/blog/how-automated-workflows-and-soc-2-compliance-protect-your-data)
 
 [Pricing](https://copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)
 
