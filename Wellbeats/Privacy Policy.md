@@ -351,6 +351,7 @@ We value your opinions and welcome your feedback.  To contact us about this Dis
     * [Podcasts](https://www.lifespeak.com/resources/podcasts/)
     * [Webinars](https://www.lifespeak.com/resources/webinars/)
     * [eBooks](https://www.lifespeak.com/resources/ebooks/)
+    * [Case Studies](https://www.lifespeak.com/resources/case-studies/)
 * [About Us](https://www.lifespeak.com/about-us/)
     * [Who We Are](https://www.lifespeak.com/about-us/who-we-are/)
     * [20 Years of Wellbeing](https://www.lifespeak.com/20-year-anniversary/)
