@@ -558,55 +558,43 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Warhammer 40,000: Space Marine 2 - Ultra Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/h/wh40ksm_1_2.jpg)   No 1. \-28%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-ultra-edition-pc-steam)
+1.    [![Destiny 2 - Legacy Collection PC (2024)](https://cdn.cdkeys.com/245x340/media/catalog/product/d/e/destiny_2_legacy_collection_2024_.jpg)   No 1. \-74%](https://www.cdkeys.com/pc/destiny-2-legacy-collection-pc-2024-steam)
+    
+    **[Destiny 2 - Legacy Collection PC (2024)](https://www.cdkeys.com/pc/destiny-2-legacy-collection-pc-2024-steam "Destiny 2 - Legacy Collection PC (2024)")**
+    
+    Special Price $17.29 RRP $66.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+2.    [![DAVE THE DIVER PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-11-21t160225.237.jpg)   No 2. \-55%](https://www.cdkeys.com/pc/dave-the-diver-pc-steam)
+    
+    **[DAVE THE DIVER PC](https://www.cdkeys.com/pc/dave-the-diver-pc-steam "DAVE THE DIVER PC")**
+    
+    Special Price $10.19 RRP $22.59
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+3.    [![DRAGON BALL: Sparking! ZERO PC (North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/p/sparking_zero_1.jpg)   No 3. \-11%
+    
+    Pre-order](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-pc-steam-na)
+    
+    **[DRAGON BALL: Sparking! ZERO PC (North America)](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-pc-steam-na "DRAGON BALL: Sparking! ZERO PC (North America)")**
+    
+    Special Price $65.19 RRP $73.09
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![Warhammer 40,000: Space Marine 2 - Ultra Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/w/h/wh40ksm_1_2.jpg)   No 4. \-28%](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-ultra-edition-pc-steam)
     
     **[Warhammer 40,000: Space Marine 2 - Ultra Edition PC](https://www.cdkeys.com/pc/warhammer-40-000-space-marine-2-ultra-edition-pc-steam "Warhammer 40,000: Space Marine 2 - Ultra Edition PC")**
     
     Special Price $85.99 RRP $119.69
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Hogwarts Legacy PC](https://cdn.cdkeys.com/245x340/media/catalog/product/c/u/cupheaddeliciouslast-1640043161876_3_.jpg)   No 2. \-78%](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam)
-    
-    **[Hogwarts Legacy PC](https://www.cdkeys.com/pc/hogwarts-legacy-pc-steam "Hogwarts Legacy PC")**
-    
-    Special Price $14.59 RRP $66.49
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-3.    [![The Sims 4 : For Rent Expansion PC/Mac](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-11-05t140150.888.jpg)   No 3. \-62%
-    
-    DLC](https://www.cdkeys.com/pc/the-sims-4-for-rent-expansion-pc-dlc-ea-app)
-    
-    **[The Sims 4 : For Rent Expansion PC/Mac](https://www.cdkeys.com/pc/the-sims-4-for-rent-expansion-pc-dlc-ea-app "The Sims 4 : For Rent Expansion PC/Mac")**
-    
-    Special Price $17.89 RRP $46.49
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/fate_of_iberia_card_16_.jpg)   No 4. \-78%](https://www.cdkeys.com/pc/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key)
-    
-    **[Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://www.cdkeys.com/pc/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key "Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher")**
-    
-    Special Price $26.59 RRP $119.69
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-5.    [![Destiny 2: The Final Shape PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/4/14161265.jpg)   No 5. \-50%
-    
-    DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam)
-    
-    **[Destiny 2: The Final Shape PC - DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam "Destiny 2: The Final Shape PC - DLC")**
-    
-    Special Price $27.89 RRP $55.89
     
     [Add to Wish List](# "Add to Wish List")
     
