@@ -166,31 +166,69 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Acts & Facts
+More Back to Genesis
 
-[![](/i/articles/af/af2212-webcover.jpg)](https://www.icr.org/article/13795)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/BuildingHumBody.jpg)](https://www.icr.org/article/building-a-human-body)
 
-[Kids Edition 2022](https://www.icr.org/article/13795/)
+[Building a Human Body: Jesus Christ's Amazing Engineering](https://www.icr.org/article/building-a-human-body/)
 
-...
+When Charles Darwin formulated his theory of evolution, he appealed to the logic of ancestry, the evident diversity of species, and the magic of time....
+
+BY: [GREGORY J. BREWER, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=113)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/BobtailSquidCloaking.jpg)](https://www.icr.org/article/bobtail-squids-cloaking-device)
+
+[The Bobtail Squid's Living Cloaking Device](https://www.icr.org/article/bobtail-squids-cloaking-device/)
+
+Hawaiian bobtail squid (Euprymna scolopes) live among the sand flats and sea plants of the Hawaiian archipelago. Along with other bobtail squid, these...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/AreWeInAComputerSimulation.jpg)](https://www.icr.org/article/are-we-living-in-a-computer-simulation)
+
+[Are We Living in a Computer Simulation?](https://www.icr.org/article/are-we-living-in-a-computer-simulation/)
+
+Scott Arledge and Brian Thomas, Ph.D. “The odds that we are in base reality is one in billions,” says famed inventor Elon Musk.1...
 
 BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/articles/af/af2011-webcover.jpg)](https://www.icr.org/article/12463)
+Shop Related Products
 
-[November 2020](https://www.icr.org/article/12463/)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285716/file.jpg)
 
-...
+The Mighty, Wonderful Oceans - Download](https://store.icr.org/the-mighty-wonderful-oceans-download.html)
 
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+$4.99
 
-[![](/i/articles/af/af2005-webcover.jpg)](https://www.icr.org/article/11907)
+$9.99
 
-[May 2020](https://www.icr.org/article/11907/)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9373127/file.jpg)
 
-...
+Scientific Evidences for Creation](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-creation.html)
 
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
+
+The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
+
+$7.99
+
+$9.99
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
+
+Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
+
+$4.99
+
+$9.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
