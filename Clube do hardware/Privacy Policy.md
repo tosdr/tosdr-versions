@@ -134,6 +134,96 @@ Política de privacidade
 
 * ### Últimos tópicos
     
+    * [![Jackson Oliveira Cecilio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254282.thumb.png.949a3df40363f827f314afff4674aa43.png)](https://www.clubedohardware.com.br/profile/1254282-jackson-oliveira-cecilio/ "Ir ao perfil de Jackson Oliveira Cecilio")
+        
+        0
+        
+        [Fonte Passando Energia com chave desligada?](https://www.clubedohardware.com.br/forums/topic/1699343-fonte-passando-energia-com-chave-desligada/?do=getNewComment "Fonte Passando Energia com chave desligada?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Jackson Oliveira Cecilio](https://www.clubedohardware.com.br/profile/1254282-jackson-oliveira-cecilio/ "Ir ao perfil de Jackson Oliveira Cecilio")  
+        2 horas atrás
+        
+    * [![Gabe22](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254198.thumb.png.f20ec70fe9754db61f214a27f7089812.png)](https://www.clubedohardware.com.br/profile/1254198-gabe22/ "Ir ao perfil de Gabe22")
+        
+        0
+        
+        [Leds da placa-mãe piscando](https://www.clubedohardware.com.br/forums/topic/1699342-leds-da-placa-m%C3%A3e-piscando/?do=getNewComment "Leds da placa-mãe piscando")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Gabe22](https://www.clubedohardware.com.br/profile/1254198-gabe22/ "Ir ao perfil de Gabe22")  
+        3 horas atrás
+        
+    * [![Jeová J. da Silva Oliveira](https://www.clubedohardware.com.br/uploads/members/monthly_2022_08/eu.thumb.jpg.d53b3473cec075341ddd0ff8fa731ae8.jpg)](https://www.clubedohardware.com.br/profile/1201564-jeov%C3%A1-j-da-silva-oliveira/ "Ir ao perfil de Jeová J. da Silva Oliveira")
+        
+        0
+        
+        [Como ser bom em Hardware?](https://www.clubedohardware.com.br/forums/topic/1699341-como-ser-bom-em-hardware/?do=getNewComment "Como ser bom em Hardware?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Jeová J. da Silva Oliveira](https://www.clubedohardware.com.br/profile/1201564-jeov%C3%A1-j-da-silva-oliveira/ "Ir ao perfil de Jeová J. da Silva Oliveira")  
+        4 horas atrás
+        
+    * [![Gabriel R Oliveira_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251820.thumb.png.84fe6789093823bbc6d24455caddd6c7.png)](https://www.clubedohardware.com.br/profile/1251820-gabriel-r-oliveira_/ "Ir ao perfil de Gabriel R Oliveira_")
+        
+        0
+        
+        [Qual placa de vídeo escolher RX7600 ou RTX4060](https://www.clubedohardware.com.br/forums/topic/1699340-qual-placa-de-v%C3%ADdeo-escolher-rx7600-ou-rtx4060/?do=getNewComment "Qual placa de vídeo escolher RX7600 ou RTX4060")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Gabriel R Oliveira\_](https://www.clubedohardware.com.br/profile/1251820-gabriel-r-oliveira_/ "Ir ao perfil de Gabriel R Oliveira_")  
+        4 horas atrás
+        
+    * [![Carlosmoby62](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/Ukuleleaosol.thumb.jpg.73b679cb9a26dd94108309132bd5e67f.jpg)](https://www.clubedohardware.com.br/profile/1253411-carlosmoby62/ "Ir ao perfil de Carlosmoby62")
+        
+        0
+        
+        [Memória Kingston DDR4 vai funcionar?](https://www.clubedohardware.com.br/forums/topic/1699339-mem%C3%B3ria-kingston-ddr4-vai-funcionar/?do=getNewComment "Memória Kingston DDR4 vai funcionar?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Carlosmoby62](https://www.clubedohardware.com.br/profile/1253411-carlosmoby62/ "Ir ao perfil de Carlosmoby62")  
+        5 horas atrás
+        
+    * [![Mateus bastian](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254278.thumb.jpeg.b7f9c04fbe37fcc551f498f7456dec84.jpeg)](https://www.clubedohardware.com.br/profile/1254278-mateus-bastian/ "Ir ao perfil de Mateus bastian")
+        
+        0
+        
+        [Bomba do water cooler mancer místic g 240mm não aparece os números só o c•](https://www.clubedohardware.com.br/forums/topic/1699338-bomba-do-water-cooler-mancer-m%C3%ADstic-g-240mm-n%C3%A3o-aparece-os-n%C3%BAmeros-s%C3%B3-o-c%E2%80%A2/?do=getNewComment "Bomba do water cooler mancer místic g 240mm não aparece os números só o c•")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Mateus bastian](https://www.clubedohardware.com.br/profile/1254278-mateus-bastian/ "Ir ao perfil de Mateus bastian")  
+        5 horas atrás
+        
+    * [![Dyn_Fer](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254277.thumb.png.6ece9a3afc5d2b720c4ed85d360e7ee4.png)](https://www.clubedohardware.com.br/profile/1254277-dyn_fer/ "Ir ao perfil de Dyn_Fer")
+        
+        0
+        
+        [Rx 580 + Bluecase -500e atx](https://www.clubedohardware.com.br/forums/topic/1699337-rx-580-bluecase-500e-atx/?do=getNewComment "Rx 580 + Bluecase -500e atx")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Dyn\_Fer](https://www.clubedohardware.com.br/profile/1254277-dyn_fer/ "Ir ao perfil de Dyn_Fer")  
+        5 horas atrás
+        
+    * [![galux](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1237418.thumb.jpeg.e46b0c47c8f58b9d0cf9eeeba24a5d6b.jpeg)](https://www.clubedohardware.com.br/profile/1237418-galux/ "Ir ao perfil de galux")
+        
+        1
+        
+        [Posso ligar esp32 numa pilha de 9v?](https://www.clubedohardware.com.br/forums/topic/1699336-posso-ligar-esp32-numa-pilha-de-9v/?do=getNewComment "Posso ligar esp32 numa pilha de 9v?")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [galux](https://www.clubedohardware.com.br/profile/1237418-galux/ "Ir ao perfil de galux")  
+        5 horas atrás
+        
+    * [![TheError](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c49f%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1150977-theerror/ "Ir ao perfil de TheError")
+        
+        0
+        
+        [I7 7700k vale a pena?](https://www.clubedohardware.com.br/forums/topic/1699335-i7-7700k-vale-a-pena/?do=getNewComment "I7 7700k vale a pena?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [TheError](https://www.clubedohardware.com.br/profile/1150977-theerror/ "Ir ao perfil de TheError")  
+        5 horas atrás
+        
     * [![tonibatalha](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239ac462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/660857-tonibatalha/ "Ir ao perfil de tonibatalha")
         
         0
@@ -142,97 +232,7 @@ Política de privacidade
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [tonibatalha](https://www.clubedohardware.com.br/profile/660857-tonibatalha/ "Ir ao perfil de tonibatalha")  
-        20 minutos atrás
-        
-    * [![Cesar Martino](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239a62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ECM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254271-cesar-martino/ "Ir ao perfil de Cesar Martino")
-        
-        0
-        
-        [Compatibilidade de placa de vídeo com a motherboard](https://www.clubedohardware.com.br/forums/topic/1699333-compatibilidade-de-placa-de-v%C3%ADdeo-com-a-motherboard/?do=getNewComment "Compatibilidade de placa de vídeo com a motherboard")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Cesar Martino](https://www.clubedohardware.com.br/profile/1254271-cesar-martino/ "Ir ao perfil de Cesar Martino")  
-        23 minutos atrás
-        
-    * [![LL1W18](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254274.thumb.png.05c4eb649ef6a07956fe1cbe7725da62.png)](https://www.clubedohardware.com.br/profile/1254274-ll1w18/ "Ir ao perfil de LL1W18")
-        
-        0
-        
-        [placa de Vídeo n quer dar Vídeo em monitores mais atuais](https://www.clubedohardware.com.br/forums/topic/1699332-placa-de-v%C3%ADdeo-n-quer-dar-v%C3%ADdeo-em-monitores-mais-atuais/?do=getNewComment "placa de Vídeo n quer dar Vídeo em monitores mais atuais")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [LL1W18](https://www.clubedohardware.com.br/profile/1254274-ll1w18/ "Ir ao perfil de LL1W18")  
-        31 minutos atrás
-        
-    * [![sagaki](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1213601.thumb.jpeg.2a5eb46e0756f01100b187e1c2001546.jpeg)](https://www.clubedohardware.com.br/profile/1213601-sagaki/ "Ir ao perfil de sagaki")
-        
-        0
-        
-        [Eu queria saber se o monitor Acer Nitro KG240Y180hz IPS, vale a pena?](https://www.clubedohardware.com.br/forums/topic/1699331-eu-queria-saber-se-o-monitor-acer-nitro-kg240y180hz-ips-vale-a-pena/?do=getNewComment "Eu queria saber se o monitor Acer Nitro KG240Y180hz IPS, vale a pena?")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [sagaki](https://www.clubedohardware.com.br/profile/1213601-sagaki/ "Ir ao perfil de sagaki")  
-        40 minutos atrás
-        
-    * [![Robson316](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254273.thumb.png.921a7f01e8fbd81a173d952f0bc55d5a.png)](https://www.clubedohardware.com.br/profile/1254273-robson316/ "Ir ao perfil de Robson316")
-        
-        0
-        
-        [Computador montado na kabum no monte seu PC vem como PC ou peças na nota fiscal?](https://www.clubedohardware.com.br/forums/topic/1699330-computador-montado-na-kabum-no-monte-seu-pc-vem-como-pc-ou-pe%C3%A7as-na-nota-fiscal/?do=getNewComment "Computador montado na kabum no monte seu PC vem como PC ou peças na nota fiscal?")
-        
-        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
-        Por [Robson316](https://www.clubedohardware.com.br/profile/1254273-robson316/ "Ir ao perfil de Robson316")  
-        44 minutos atrás
-        
-    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
-        
-        0
-        
-        [Tecnologia parking dos HDDs 2.5" quando foi inserida](https://www.clubedohardware.com.br/forums/topic/1699329-tecnologia-parking-dos-hdds-25-quando-foi-inserida/?do=getNewComment "Tecnologia parking dos HDDs 2.5" quando foi inserida")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
-        45 minutos atrás
-        
-    * [![ViFe](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")
-        
-        0
-        
-        [Qual processador am4 se equipara com o 8700g?](https://www.clubedohardware.com.br/forums/topic/1699328-qual-processador-am4-se-equipara-com-o-8700g/?do=getNewComment "Qual processador am4 se equipara com o 8700g?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [ViFe](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")  
-        58 minutos atrás
-        
-    * [![Paulo Clésier](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-1023195.thumb.jpeg.052bc0f6dcb7ac92cbbc79a0dc11cee1.jpeg)](https://www.clubedohardware.com.br/profile/1023195-paulo-cl%C3%A9sier/ "Ir ao perfil de Paulo Clésier")
-        
-        0
-        
-        [Pc desliga vídeo e continua ligado, depois reinicia com driver gráfico resetado](https://www.clubedohardware.com.br/forums/topic/1699327-pc-desliga-v%C3%ADdeo-e-continua-ligado-depois-reinicia-com-driver-gr%C3%A1fico-resetado/?do=getNewComment "Pc desliga vídeo e continua ligado, depois reinicia com driver gráfico resetado")
-        
-        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
-        Por [Paulo Clésier](https://www.clubedohardware.com.br/profile/1023195-paulo-cl%C3%A9sier/ "Ir ao perfil de Paulo Clésier")  
-        59 minutos atrás
-        
-    * [![Jovics](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254272.thumb.png.ec15a60121c0847486b5d752c7b85f08.png)](https://www.clubedohardware.com.br/profile/1254272-jovics/ "Ir ao perfil de Jovics")
-        
-        0
-        
-        [Monitor ASUS vg258 piscando apos chuva](https://www.clubedohardware.com.br/forums/topic/1699326-monitor-asus-vg258-piscando-apos-chuva/?do=getNewComment "Monitor ASUS vg258 piscando apos chuva")
-        
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [Jovics](https://www.clubedohardware.com.br/profile/1254272-jovics/ "Ir ao perfil de Jovics")  
-        1 hora atrás
-        
-    * [![GhostStealth](https://www.clubedohardware.com.br/uploads/members/monthly_2022_08/Screenshot_1.thumb.png.5f80063e19f52d954177991c2069a8e7.png)](https://www.clubedohardware.com.br/profile/978762-ghoststealth/ "Ir ao perfil de GhostStealth")
-        
-        0
-        
-        [Dá pra montar PC completo com 4.400?](https://www.clubedohardware.com.br/forums/topic/1699325-d%C3%A1-pra-montar-pc-completo-com-4400/?do=getNewComment "Dá pra montar PC completo com 4.400?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [GhostStealth](https://www.clubedohardware.com.br/profile/978762-ghoststealth/ "Ir ao perfil de GhostStealth")  
-        1 hora atrás
+        6 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
