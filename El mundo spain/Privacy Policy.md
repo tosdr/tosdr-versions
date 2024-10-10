@@ -1,13 +1,13 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zwbd4AoAAVEAAABcTXw)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZwcxiQoAAVAAAABbUKc)
 
 Es noticia
 
-* [Carla Simón](https://www.elmundo.es/la-lectura/2024/10/09/66fc434fe4d4d8b6258b45a3.html)
+* [Pena de muerte](https://lab.elmundo.es/pena-de-muerte/index.html)
 * [Guerra Rusia Ucrania](https://www.elmundo.es/internacional/2024/10/08/6704cf5d120162fa6014b056-directo.html)
-* [Israel](https://www.elmundo.es/internacional/2024/10/09/67060f2d6a486e491ff0c8a2-directo.html)
 * [Huracán Milton](https://www.elmundo.es/internacional/2024/10/09/6706c8a6e85ece3f518b4572.html)
-* [Rebaja penas etarras](https://www.elmundo.es/espana/2024/10/09/670674c321efa06e158b45bb.html)
-* [Pedro Sánchez](https://www.elmundo.es/espana/2024/10/09/6706287121efa0b6188b4596.html)
+* [Israel](https://www.elmundo.es/internacional/2024/10/09/67060f2d6a486e491ff0c8a2-directo.html)
+* [Álvaro Morata](https://www.elmundo.es/loc/2024/10/10/6707158e21efa0787e8b4582.html)
+* [Elisa Montes](https://www.elmundo.es/loc/2024/10/10/6706d6b4e4d4d821318b4594.html)
 * [Caso Koldo](https://www.elmundo.es/espana/2024/10/09/67069fdde85ece856f8b4573.html)
 * [Víctor Aldama](https://www.elmundo.es/espana/2024/10/09/670678e5e85ece271e8b45b1.html)
 * [Rocío Monasterio](https://www.elmundo.es/madrid/2024/10/09/6706a63621efa0d80f8b45ba.html)
