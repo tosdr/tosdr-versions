@@ -182,9 +182,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [From request to resolution: Simplifying DSRs with automation](https://www.onetrust.com/resources/from-request-to-resolution-simplifying-dsrs-with-automation-webinar/)
+* [Data privacy and data protection: The basics explained](https://www.onetrust.com/resources/data-protection-and-data-privacy-the-basics-explained-ebook/)
 * [Build resiliency and operationalize compliance with OneTrust: Fall product release recap, 2024](https://www.onetrust.com/resources/build-resiliency-and-operationalize-compliance-with-onetrust-fall-product-release-recap-2024-webinar/)
-* [Operationalizing first-party data in advertising](https://www.onetrust.com/resources/operationalizing-first-party-data-in-advertising-ebook/)
-* [Meet opt-out and opt-in consent requirements under US state privacy laws](https://www.onetrust.com/resources/meet-opt-out-and-opt-in-consent-requirements-under-us-state-privacy-laws-webinar/)
 
 ### Platform
 
