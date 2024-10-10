@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/medicina-del-passato/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/la-capsula-del-tempo-il-nostro-messaggio-in-viaggio-nello-spazio/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
