@@ -142,6 +142,18 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Oct 10, 2024
+
+> Absolutely great service
+
+> Absolutely great service. Leche was so helpful and quick to respond. Great choices and service.
+
+Col
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Oct 9, 2024
 
 > Seems pointless to book things direct when Safari.com can do it all for you at the same cost
@@ -251,18 +263,6 @@ Yaso Nadesakumaran
 ,
 
 US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 3, 2024
-
-> WHAT MADE YOUR EXPERIENCE?ANSER;NOTHING
-
-> WHAT MADE YOUR EXPERIENCE?ANSER; NOTHING COMPANY DOING WEL?ANSER; LOTS LOTS OF MONEY
-
-arvin ongjunco I'm handsome
-
-,
 
 VIP service
 
