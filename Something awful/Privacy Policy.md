@@ -205,21 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Sporting Superheroes! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/sporting-superheroes/1/)
-* [The Devil You Don't Know](https://www.somethingawful.com/garbage-day/stage-fm-unsigned/)
-* [December 31, 2007](https://www.somethingawful.com/forum-fridays/ff12-31-07/1/)
-* [Texas is the Place for the Miracles of the Bill Clinton Wife Type and the Babies](https://www.somethingawful.com/news/elpintogrande-turtle-clinton/1/)
-* [El Pinto Grande Revives His Marriage!](https://www.somethingawful.com/news/el-pinto-grande-4/)
+* [Damn You All](https://www.somethingawful.com/weekend-web/damn-you-all/1/)
+* [The Original Dungeons & Dragons](https://www.somethingawful.com/dungeons-and-dragons/steve-old-gygax/1/)
+* [Plushie Forest](https://www.somethingawful.com/awful-links/awful-link-2061/)
+* [PeeSearch](https://www.somethingawful.com/weekend-web/peesearch/1/)
+* [Inappropriate Holiday Cards](https://www.somethingawful.com/comedy-goldmine/inappropriate-holiday-cards/1/)
 
 ### Popular Threads
 
 ### Random Articles
 
-* [CHILI DOG TIME YAY-UH!](https://www.somethingawful.com/awfulvision/sonic-autotune-anime/1/)
-* [The Perils Surrounding Your Own Home](https://www.somethingawful.com/news/perils-surrounding-your/)
-* [I Hate You Page 181](https://www.somethingawful.com/cliff-yablonski/i-hate-you-181/)
-* [Are You a Spammer?](https://www.somethingawful.com/awful-links/alod-bad-html/)
-* [Celebrity Buttplugs](https://www.somethingawful.com/awful-links/awful-link-4282/)
+* [Catholic Freebies](https://www.somethingawful.com/awful-links/awful-link-1097/)
+* [I Hate You Page 28](https://www.somethingawful.com/cliff-yablonski/i-hate-you-28/)
+* [CRYBABY WIL WHEATON DOT NET](https://www.somethingawful.com/awful-links/awful-link-1078/)
+* [Do Not Be Ashamed of The Pleasure I Bring](https://www.somethingawful.com/news/that-marvelous-ape/)
+* [Guess What? Dino Egg Hatches 10-31-10](https://www.somethingawful.com/news/rand-paul-egg/)
 
 [Random!](https://www.somethingawful.com/random/)
 
