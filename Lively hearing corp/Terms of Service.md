@@ -89,7 +89,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3826 reviews)
+4.6 out of 5(3834 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -139,7 +139,7 @@ Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watc
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3826 reviews)
+4.6 out of 5(3834 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.072d2d18.png)
 
@@ -162,7 +162,7 @@ Visit our [How it Works page](https://www.listenlively.com/how-it-works) to watc
     
     **Enhance Select 500**Our smallest, most advanced hearing aids. Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,795 - $1,995  
     or as low as $58/mo per pair\*](https://www.listenlively.com/product/enhanceselect500)
-* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle.e9cd8a33.png)
+* [![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle-test-variant.23ae3568.png)
     
     **Enhance Select 300**Excellent in the most complex listening situations like hearing multiple people at a loud party.$1,495 - $1,695  
     or as low as $49/mo per pair\*](https://www.listenlively.com/product/enhanceselect300)
