@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Sounds Like The RadioZach Top<br><br>11:36pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>11:33pm |
-| CowgirlsMorgan Wallen Ft Ernest<br><br>11:30pm |
-| I Am Not OkayJelly Roll<br><br>11:27pm |
-| Forever After AllLuke Combs<br><br>11:23pm |
+| Blown AwayCarrie Underwood<br><br>4:59am |
+| I Am Not OkayJelly Roll<br><br>4:56am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:53am |
+| Heavens To BetsyJackson Dean<br><br>4:50am |
+| Tucson Too LateJordan Davis<br><br>4:40am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -495,21 +495,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
