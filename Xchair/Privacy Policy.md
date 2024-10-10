@@ -12,7 +12,8 @@ Menu
     
     Shop by Category
     
-    * [Leather & Leather-Like Office chairs](https://www.xchair.com/collections/leather-leather-like-office-chairs)
+    * [NEW! Brisa® Vegan Leather Colors](https://www.xchair.com/pages/xtech-limited-edition)
+    * [Leather & Leather-Like Office Chairs](https://www.xchair.com/collections/leather-leather-like-office-chairs)
     * [Mesh Office Chairs](https://www.xchair.com/collections/mesh-office-chairs)
     * [Massage & Heat Office Chairs](https://www.xchair.com/collections/massage-heat-office-chairs)
     * [Black Office Chairs](https://www.xchair.com/collections/black-office-chairs)
@@ -75,6 +76,7 @@ Menu
     What Makes Us Different
     
     * [Key Ergonomic Features](https://www.xchair.com/pages/ergonomics)
+    * [Meet Brisa® Vegan Leather](https://www.xchair.com/pages/brisa-overview)
     * [Premium Fabrics](https://www.xchair.com/pages/fabrics)
     * [X-HMT Heat & Massage Technology](https://www.xchair.com/pages/x-hmt-overview)
     * [ELEMAX Cooling, Heat & Massage Technology](https://www.xchair.com/pages/elemax-overview)
@@ -97,7 +99,8 @@ Office Chairs
 
 Shop by Category
 
-* [Leather & Leather-Like Office chairs](https://www.xchair.com/collections/leather-leather-like-office-chairs)
+* [NEW! Brisa® Vegan Leather Colors](https://www.xchair.com/pages/xtech-limited-edition)
+* [Leather & Leather-Like Office Chairs](https://www.xchair.com/collections/leather-leather-like-office-chairs)
 * [Mesh Office Chairs](https://www.xchair.com/collections/mesh-office-chairs)
 * [Massage & Heat Office Chairs](https://www.xchair.com/collections/massage-heat-office-chairs)
 * [Black Office Chairs](https://www.xchair.com/collections/black-office-chairs)
@@ -142,6 +145,7 @@ Why X-Chair
 What Makes Us Different
 
 * [Key Ergonomic Features](https://www.xchair.com/pages/ergonomics)
+* [Meet Brisa® Vegan Leather](https://www.xchair.com/pages/brisa-overview)
 * [Premium Fabrics](https://www.xchair.com/pages/fabrics)
 * [X-HMT Heat & Massage Technology](https://www.xchair.com/pages/x-hmt-overview)
 * [ELEMAX Cooling, Heat & Massage Technology](https://www.xchair.com/pages/elemax-overview)
