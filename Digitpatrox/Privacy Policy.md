@@ -20,16 +20,16 @@ Thursday, October 10 2024
 
 Latest
 
-* [Today’s Wordle Answer and Hints (October 10, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-10-2024/)
-* [The Best RMM Tools With a Free Trial of 2024](https://digitpatrox.com/the-best-rmm-tools-with-a-free-trial-of-2024/)
-* [AMD has put in the groundwork for a major AI push while the tech industry has fawned over Nvidia](https://digitpatrox.com/amd-has-put-in-the-groundwork-for-a-major-ai-push-while-the-tech-industry-has-fawned-over-nvidia/)
-* [Big shift in IT employment shows new skills are needed – Computerworld](https://digitpatrox.com/big-shift-in-it-employment-shows-new-skills-are-needed-computerworld/)
-* [The Peloton Bike Is $216 Off (and More Prime Day Sales on Exercise Bikes)](https://digitpatrox.com/the-peloton-bike-is-216-off-and-more-prime-day-sales-on-exercise-bikes/)
-* [The Best RMM Tools With Remote Support of 2024](https://digitpatrox.com/the-best-rmm-tools-with-remote-support-of-2024/)
-* [How to lock, sign out, or switch users on Windows 11 (2024)](https://digitpatrox.com/how-to-lock-sign-out-or-switch-users-on-windows-11-2024/)
-* [You Should Update Firefox Now](https://digitpatrox.com/you-should-update-firefox-now/)
-* [Sage Intacct review | ITPro](https://digitpatrox.com/sage-intacct-review-itpro/)
-* [Which One Should You Choose?](https://digitpatrox.com/which-one-should-you-choose/)
+* [Runway AI video gets a big upgrade — 5 prompts to try it out](https://digitpatrox.com/runway-ai-video-gets-a-big-upgrade-5-prompts-to-try-it-out/)
+* [CISA says critical Fortinet RCE flaw now exploited in attacks](https://digitpatrox.com/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/)
+* [The 53 best deals under $25 from Amazon’s October Prime Day](https://digitpatrox.com/the-53-best-deals-under-25-from-amazons-october-prime-day/)
+* [Roblox The Haunt Event 2024: Start Date, How to Play, All Participating Games and More](https://digitpatrox.com/roblox-the-haunt-event-2024-start-date-how-to-play-all-participating-games-and-more/)
+* [The Best RMM Tools For MSPs of 2024](https://digitpatrox.com/the-best-rmm-tools-for-msps-of-2024/)
+* [How to use your iPhone to get help by satellite – Computerworld](https://digitpatrox.com/how-to-use-your-iphone-to-get-help-by-satellite-computerworld/)
+* [My Favorite Smart Scale Is 30% Off for October Prime Day](https://digitpatrox.com/my-favorite-smart-scale-is-30-off-for-october-prime-day/)
+* [The Best RMM Solutions of 2024](https://digitpatrox.com/the-best-rmm-solutions-of-2024/)
+* [The iPhone 16 Pro Gets a New Ultra-Premium Leather Case From Nomad](https://digitpatrox.com/the-iphone-16-pro-gets-a-new-ultra-premium-leather-case-from-nomad/)
+* [20% of Generative AI ‘Jailbreak’ Attacks are Successful](https://digitpatrox.com/20-of-generative-ai-jailbreak-attacks-are-successful/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-10-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/GwMkxxU9S4tcRQhnk7yrHJ-1200-80.gif)](https://digitpatrox.com/runway-ai-video-gets-a-big-upgrade-5-prompts-to-try-it-out/)
     
-    [Today’s Wordle Answer and Hints (October 10, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-10-2024/)
+    [Runway AI video gets a big upgrade — 5 prompts to try it out](https://digitpatrox.com/runway-ai-video-gets-a-big-upgrade-5-prompts-to-try-it-out/)
     
     1 min ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/RMM-with-free-trial.jpg)](https://digitpatrox.com/the-best-rmm-tools-with-a-free-trial-of-2024/)
+* [![](https://www.bleepstatic.com/content/hl-images/2022/10/13/Fortinet.jpeg)](https://digitpatrox.com/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/)
     
-    [The Best RMM Tools With a Free Trial of 2024](https://digitpatrox.com/the-best-rmm-tools-with-a-free-trial-of-2024/)
+    [CISA says critical Fortinet RCE flaw now exploited in attacks](https://digitpatrox.com/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/)
+    
+    29 mins ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/ivo75WWeenGf0Gxms8eu_AMn6BA=/0x0:1159x869/1200x628/filters:focal(580x435:581x436)/cdn.vox-cdn.com/uploads/chorus_asset/file/7799687/apple_watch_elago_w3_stand_1.jpg)](https://digitpatrox.com/the-53-best-deals-under-25-from-amazons-october-prime-day/)
+    
+    [The 53 best deals under $25 from Amazon’s October Prime Day](https://digitpatrox.com/the-53-best-deals-under-25-from-amazons-october-prime-day/)
+    
+    46 mins ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/10/Roblox-The-Haunt-Event-2024-cover.jpg)](https://digitpatrox.com/roblox-the-haunt-event-2024-start-date-how-to-play-all-participating-games-and-more/)
+    
+    [Roblox The Haunt Event 2024: Start Date, How to Play, All Participating Games and More](https://digitpatrox.com/roblox-the-haunt-event-2024-start-date-how-to-play-all-participating-games-and-more/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/JGUD7jM6YPmAjGPCkJA3F9-1200-80.jpg)](https://digitpatrox.com/amd-has-put-in-the-groundwork-for-a-major-ai-push-while-the-tech-industry-has-fawned-over-nvidia/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Best-RMM-tools-for-MSPs.jpg)](https://digitpatrox.com/the-best-rmm-tools-for-msps-of-2024/)
     
-    [AMD has put in the groundwork for a major AI push while the tech industry has fawned over Nvidia](https://digitpatrox.com/amd-has-put-in-the-groundwork-for-a-major-ai-push-while-the-tech-industry-has-fawned-over-nvidia/)
-    
-    1 hour ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3554907-0-61333100-1728512044-shutterstock_2465785383.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/big-shift-in-it-employment-shows-new-skills-are-needed-computerworld/)
-    
-    [Big shift in IT employment shows new skills are needed – Computerworld](https://digitpatrox.com/big-shift-in-it-employment-shows-new-skills-are-needed-computerworld/)
-    
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01HF2H071GDDQJ61PFNMSZGF98/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-peloton-bike-is-216-off-and-more-prime-day-sales-on-exercise-bikes/)
-    
-    [The Peloton Bike Is $216 Off (and More Prime Day Sales on Exercise Bikes)](https://digitpatrox.com/the-peloton-bike-is-216-off-and-more-prime-day-sales-on-exercise-bikes/)
+    [The Best RMM Tools For MSPs of 2024](https://digitpatrox.com/the-best-rmm-tools-for-msps-of-2024/)
     
     2 hours ago
     
@@ -210,43 +210,43 @@ Recent Topics
 
 * [1 min ago
     
-    ### Today’s Wordle Answer and Hints (October 10, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-10-2024/)
-* [1 hour ago
+    ### Runway AI video gets a big upgrade — 5 prompts to try it out](https://digitpatrox.com/runway-ai-video-gets-a-big-upgrade-5-prompts-to-try-it-out/)
+* [29 mins ago
     
-    ### The Best RMM Tools With a Free Trial of 2024](https://digitpatrox.com/the-best-rmm-tools-with-a-free-trial-of-2024/)
-* [1 hour ago
+    ### CISA says critical Fortinet RCE flaw now exploited in attacks](https://digitpatrox.com/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/)
+* [46 mins ago
     
-    ### AMD has put in the groundwork for a major AI push while the tech industry has fawned over Nvidia](https://digitpatrox.com/amd-has-put-in-the-groundwork-for-a-major-ai-push-while-the-tech-industry-has-fawned-over-nvidia/)
+    ### The 53 best deals under $25 from Amazon’s October Prime Day](https://digitpatrox.com/the-53-best-deals-under-25-from-amazons-october-prime-day/)
 
 Most Popular Topics
 
-* [6 days ago
+* [August 16, 2024
     
-    ### Dandadan Anime Impressions: Drenched in Craziness](https://digitpatrox.com/dandadan-anime-impressions-drenched-in-craziness/)
-* [August 24, 2024
+    ### 12 Single-Purpose Mac Apps I Couldn’t Live Without](https://digitpatrox.com/12-single-purpose-mac-apps-i-couldnt-live-without/)
+* [2 weeks ago
     
-    ### What’s New on Max in September 2024](https://digitpatrox.com/whats-new-on-max-in-september-2024/)
-* [August 27, 2024
+    ### Sydney vs Brisbane live stream: Watch 2024 AFL Grand Final](https://digitpatrox.com/sydney-vs-brisbane-live-stream-watch-2024-afl-grand-final/)
+* [August 15, 2024
     
-    ### Windows 11 build 22635.4082 adds Lock screen media controls and enhances notifications](https://digitpatrox.com/windows-11-build-22635-4082-adds-lock-screen-media-controls-and-enhances-notifications/)
+    ### Russian who sold 300,000 stolen credentials gets 40 months in prison](https://digitpatrox.com/russian-who-sold-300000-stolen-credentials-gets-40-months-in-prison/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### How to lock, sign out, or switch users on Windows 11 (2024)](https://digitpatrox.com/how-to-lock-sign-out-or-switch-users-on-windows-11-2024/)
+    ### My Favorite Smart Scale Is 30% Off for October Prime Day](https://digitpatrox.com/my-favorite-smart-scale-is-30-off-for-october-prime-day/)
 * [3 hours ago
     
-    ### You Should Update Firefox Now](https://digitpatrox.com/you-should-update-firefox-now/)
+    ### The Best RMM Solutions of 2024](https://digitpatrox.com/the-best-rmm-solutions-of-2024/)
 * [4 hours ago
     
-    ### Sage Intacct review | ITPro](https://digitpatrox.com/sage-intacct-review-itpro/)
+    ### The iPhone 16 Pro Gets a New Ultra-Premium Leather Case From Nomad](https://digitpatrox.com/the-iphone-16-pro-gets-a-new-ultra-premium-leather-case-from-nomad/)
 
 Most Viewed Topics
 
-* [August 11, 2024
+* [August 21, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
