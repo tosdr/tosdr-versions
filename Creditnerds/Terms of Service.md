@@ -291,6 +291,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![Cartoon-style image of a person wearing glasses, holding a checklist titled '7 Tips to Avoid Holiday Scams.' The character looks cautious, standing in front of a holiday-themed background with festive lights, gift boxes, and red warning symbols, representing the importance of staying vigilant against holiday scams.](https://creditnerds.com/wp-content/uploads/2024/10/Avoid-Holiday-Scams-30x30.webp)](https://creditnerds.com/7-tips-to-avoid-holiday-scams/)
+
+[Uncategorized](https://creditnerds.com/category/uncategorized/)
+
+October 9, 2024
+
+#### [7 Tips to Avoid Holiday Scams](https://creditnerds.com/7-tips-to-avoid-holiday-scams/)
+
+The holiday season brings joy, family time, and gift-giving, but it also increases the risk of scams and identity theft. As you juggle your to-do list and manage holiday expenses, fraudsters may see an opportunity to target you. To stay safe, follow these 7 tips to avoid holiday scams and protect your identity in 2024. …
+
+[Read More](https://creditnerds.com/7-tips-to-avoid-holiday-scams/)
+
 [![Cartoon-style image of a person wearing glasses, standing in front of a timeline with highlighted ages such as 18, 21, and 25. The character holds a credit card and looks thoughtful, considering the best age to get one. Symbols like dollar signs, credit scores, and a calendar appear in the background, representing financial growth and responsibility.](https://creditnerds.com/wp-content/uploads/2024/10/What-age-to-get-a-credit-card-30x30.webp)](https://creditnerds.com/what-is-the-best-age-to-get-a-credit-card/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -386,18 +398,6 @@ September 23, 2024
 Insurance fraud occurs when individuals or businesses manipulate or falsify information to obtain financial gain from insurance companies. The FBI estimates that insurance fraud (excluding health insurance) costs around $40 billion annually. As a result, the average U.S. family ends up paying between $400 and $700 more each year in premiums. What Is Insurance Fraud? …
 
 [Read More](https://creditnerds.com/what-is-insurance-fraud/)
-
-[![Cartoon-style image of a person wearing glasses, holding business documents labeled 'Business Credit.' The character stands confidently next to a large credit card, with a tall building and financial icons like graphs and coins in the background, symbolizing the process of building business credit.](https://creditnerds.com/wp-content/uploads/2024/09/business-credit-30x30.webp)](https://creditnerds.com/how-do-i-build-business-credit/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-September 20, 2024
-
-#### [How Do I Build Business Credit?](https://creditnerds.com/how-do-i-build-business-credit/)
-
-Just like individuals, businesses have credit scores that reflect how they handle debt. A strong business credit score can open doors to new financial opportunities, helping your business grow and succeed. But how do I build business credit? Here’s a step-by-step guide to help you get started. What Is Business Credit? Business credit is a …
-
-[Read More](https://creditnerds.com/how-do-i-build-business-credit/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
