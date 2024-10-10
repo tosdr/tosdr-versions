@@ -254,23 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Chinese nationals in Japan testify to harassment by Beijing, report says](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
+[Women at Japan's top university call out gender imbalance with posters](https://www.japantimes.co.jp/news/2024/10/10/japan/society/japan-university-gender-imbalance/ "Women at Japan's top university call out gender imbalance with posters")
 
-6 mins ago
+12 mins ago
 
-[Expert calls for new chip research institute near Tokyo](https://www.japantimes.co.jp/business/2024/10/09/tech/expert-chip-institute/ "Expert calls for new chip research institute near Tokyo")
+[Hikone Castle could merit world heritage listing, UNESCO panel says](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-hikone-castle-world-heritage/ "Hikone Castle could merit world heritage listing, UNESCO panel says")
 
-9 hours ago
+24 mins ago
 
-[Wang tells Iwaya he hopes for 'progress' in China-Japan ties](https://www.japantimes.co.jp/news/2024/10/09/japan/wang-iwaya-talks/ "Wang tells Iwaya he hopes for 'progress' in China-Japan ties")
+[Japan is aiming for a growth-oriented economy, new minister says](https://www.japantimes.co.jp/business/2024/10/10/economy/akazawa-growth-oriented-economy/ "Japan is aiming for a growth-oriented economy, new minister says")
 
-10 hours ago
+1 hours ago
 
-[Trio of scientists win chemistry Nobel for work on the structure of proteins](https://www.japantimes.co.jp/news/2024/10/09/world/science-health/nobel-prize-chemistry/ "Trio of scientists win chemistry Nobel for work on the structure of proteins")
+[NTT Docomo recalling almost a million defective SIM cards](https://www.japantimes.co.jp/business/2024/10/10/companies/ntt-sim-recall/ "NTT Docomo recalling almost a million defective SIM cards")
 
-11 hours ago
+1 hours ago
 
-[LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ldp-not-endorsing-12-politicians/ "LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election")
+[Indian business titan Ratan Tata dies at age 86](https://www.japantimes.co.jp/business/2024/10/10/ratan-tata-dies/ "Indian business titan Ratan Tata dies at age 86")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
