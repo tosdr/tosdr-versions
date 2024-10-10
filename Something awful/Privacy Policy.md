@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Make Horror Wholesome](https://www.somethingawful.com/photoshop-phriday/horror-wholesome/)
-* [The Hottest Tech Deals Made at Burning Man 2013](https://www.somethingawful.com/feature-articles/tech-burning-man/1/)
-* [Please Do Not Kill Anybody Because of Slenderman](https://www.somethingawful.com/news/slenderman-not-real/)
-* [SA Forum Goons vs. The Dating Game](https://www.somethingawful.com/feature-articles/sa-forum-goons/1/)
-* [WHAT TO DO RE: THOSE MISERABLE FUCKS IN TEAM MYSTIC](https://www.somethingawful.com/news/pokemon-go-letter/)
+* [Gangster Squad; Zero Dark Thirty; A Haunted House; Any Day Now](https://www.somethingawful.com/current-movie-reviews/gangster-squad/1/)
+* [MS Paint unusual/amusing fears you have!](https://www.somethingawful.com/comedy-goldmine/ms-paint-unusualamusing/1/)
+* [Turn that frown upside down, art!](https://www.somethingawful.com/comedy-goldmine/turn-that-frown/1/)
+* [The 2010 Fashion SWAT Horror-ween Frightober Kid's Kostume Spooktacular](https://www.somethingawful.com/fashion-swat/kids-costume-swat/1/)
+* [Warning Signs That You May Be Trapped in a Tom Waits Song](https://www.somethingawful.com/news/tom-waits-characters/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Mickey Mousecapades](https://www.somethingawful.com/rom-pit/mickey-mousecapades/)
-* [The Madness of OH! Mikey (Part One)](https://www.somethingawful.com/feature-articles/madness-oh-mikey/1/)
-* [Politician Album Covers! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/politician-album-covers2/1/)
-* [The Eight Games You Will Buy and Never Play from the 2014 Steam Holiday Sale](https://www.somethingawful.com/news/steam-sale-unplayed/1/)
-* [I Have a Slightly Different Dream](https://www.somethingawful.com/news/zombie-dream-speech/)
+* [62 Intolerable Years of Beetle Bailey](https://www.somethingawful.com/news/beetle-bailey-collection/)
+* [Question Time II: Attack of the Groans](https://www.somethingawful.com/weekend-web/question-time-ii/1/)
+* [ALOD Spotlight: DatingTips.ws](https://www.somethingawful.com/news/alod-spotlight-datingtipsws/)
+* [July 3, 2012](https://www.somethingawful.com/twitter-tuesday/tt07-03-12/1/)
+* [Awful Vision: Goth Public Access, WAR NEWS THE END](https://www.somethingawful.com/awfulvision/goth-public-access/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
