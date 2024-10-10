@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20/stevan-vukovic.jpg?itok=-aolzAuj)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nenad-bracic/pi-hole-pandora-agaton.jpeg?itok=HJUwk4uV)](http://seecult.org/galerija/galerija-umetnika/nenad-bracic)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/filmski-festival-srbije-novi-sad-3-8707/lektira-srpskog-filma/rani-radovi.jpg?itok=tb1e5DIq)](http://seecult.org/galerija/foto-galerija/foto-arhiva/filmski-festival-srbije-novi-sad-3-8707/lektira-srpskog-filma)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/zaz/universalna-sala-skoplje.jpg?itok=y1bjtPkc)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/zaz)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -342,6 +342,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Muška suza u JDP-u](http://seecult.org/vest/muska-suza-u-jdp-u)
 * [Han Kang dobitnica Nobela za književnost](http://seecult.org/vest/han-kang-dobitnica-nobela-za-knjizevnost)
 * [60 godina Galerije DOB-a](http://seecult.org/vest/60-godina-galerije-dob)
 * [Sprečiti zatvaranje Remonta](http://seecult.org/vest/spreciti-zatvaranje-remonta)
@@ -351,7 +352,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Almodovarova Susedna soba otvara 30. FAF](http://seecult.org/vest/almodovarova-susedna-soba-otvara-30-faf)
 * [Mehta i Beogradska filharmonija ponovo zajedno](http://seecult.org/vest/mehta-i-beogradska-filharmonija-ponovo-zajedno)
 * [19\. Joakimfest - (O) čemu (priča) pozorište?](http://seecult.org/vest/19-joakimfest-o-cemu-prica-pozoriste)
-* [Era Milivojević – Umetnost jeste život](http://seecult.org/vest/era-milivojevic-umetnost-jeste-zivot)
 
 * [Konkursi](#tab1_1)
 
