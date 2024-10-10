@@ -16,7 +16,9 @@
     
     Omni-channel customer engagement across channels](https://www.alchemer.com/digital/)
     
-    [Pulse ![](https://www.alchemer.com/wp-content/uploads/2024/07/Frame-41.png)
+    [Pulse ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033%2020'%3E%3C/svg%3E)
+    
+    ![](https://www.alchemer.com/wp-content/uploads/2024/07/Frame-41.png)
     
     Turn noisy text feedback into signals you can act on](https://www.alchemer.com/pulse/)
     
@@ -82,7 +84,9 @@
     
     [Resource Library](https://www.alchemer.com/resources/)
     
-    [![](https://www.alchemer.com/wp-content/uploads/2024/04/Alchemer-Research-Solutions-3.webp)](https://www.alchemer.com/resources/blog/introducing-alchemer-research-solutions/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20543'%3E%3C/svg%3E)
+    
+    ![](https://www.alchemer.com/wp-content/uploads/2024/04/Alchemer-Research-Solutions-3.webp)](https://www.alchemer.com/resources/blog/introducing-alchemer-research-solutions/)
     
     From the Blog
     
@@ -230,7 +234,11 @@ This website is operated by Widgix, LLC dba Alchemer, 168 Centennial Parkway Uni
 
 **Last Modified:** October 12, 2020**Effective Date:** April 17, 2017
 
-[![](https://www.alchemer.com/wp-content/uploads/2024/08/alchemer_logo_100-1.webp)](https://www.alchemer.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20624%20100'%3E%3C/svg%3E)
+
+![](https://www.alchemer.com/wp-content/uploads/2024/08/alchemer_logo_100-1.webp)](https://www.alchemer.com/)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201630%20562'%3E%3C/svg%3E)
 
 ![](https://www.alchemer.com/wp-content/uploads/2024/08/G2-Summer-2024-Badges.png)
 
@@ -315,6 +323,8 @@ Request a demo so you can see what’s possible for your organization.
 [×](#)
 
 Close GDPR Cookie Settings
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2048'%3E%3C/svg%3E)
 
 ![](https://www.alchemer.com/wp-content/uploads/2024/08/Alchemer-Logo-300x48.png)
 
