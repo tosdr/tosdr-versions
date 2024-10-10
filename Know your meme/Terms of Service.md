@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[SnoopyWeekly Twitter Drama](https://knowyourmeme.com/memes/events/snoopyweekly-twitter-x-drama "SnoopyWeekly Twitter Drama") [Thing, China](https://knowyourmeme.com/memes/thing-china "Thing, China") [Government Making Hurricanes Conspiracy Theory](https://knowyourmeme.com/memes/government-making-hurricanes-conspiracy-theory "Government Making Hurricanes Conspiracy Theory") [Elon Musk Kubrick Stare](https://knowyourmeme.com/memes/elon-musk-kubrick-stare "Elon Musk Kubrick Stare")
+[SnoopyWeekly Twitter Drama](https://knowyourmeme.com/memes/events/snoopyweekly-twitter-x-drama "SnoopyWeekly Twitter Drama") [Thing, China](https://knowyourmeme.com/memes/thing-china "Thing, China")
 
 Terms of Service and Use
 ========================
