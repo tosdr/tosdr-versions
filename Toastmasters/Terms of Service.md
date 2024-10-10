@@ -288,7 +288,7 @@ For any questions concerning the Conditions of Use, please contact World Headqua
 * [Copyright](https://www.toastmasters.org/footer/copyright) |
 * [Site Map](https://www.toastmasters.org/footer/site-map) |
 * [Media Center](https://mediacenter.toastmasters.org/) |
-* [Careers](https://phf.tbe.taleo.net/phf02/ats/careers/v2/jobSearch?act=redirectCwsV2&cws=38&org=TOASTMASTERS)
+* [Careers](https://boards.greenhouse.io/toastmastersinternational)
 
 © 2024 Toastmasters International.  All rights reserved.
 
