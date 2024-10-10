@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Are all talcum powders dangerous?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-are-all-talcum-powders-dangerous.jpg "Are All Talcum Powders Dangerous?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-all-talcum-powders-dangerous "Are All Talcum Powders Dangerous?")
+[![What is considered a fall in a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-considered-a-fall-in-a-nursing-home-scaled.jpg "What Is Considered a Fall in a Nursing Home?")](https://www.pintas.com/faq/what-is-considered-a-fall-in-a-nursing-home/ "What Is Considered a Fall in a Nursing Home?")
 
-[#### Are All Talcum Powders Dangerous?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-all-talcum-powders-dangerous)
+[#### What Is Considered a Fall in a Nursing Home?](https://www.pintas.com/faq/what-is-considered-a-fall-in-a-nursing-home/)
 
-[![Who should i call if i suspect abuse at an assisted living facility?](https://www.pintas.com/wp-content/uploads/2021/02/personal-injury-assisted-living-accident-lawyer-who-should-i-call-if-i-suspect-abuse-at-an-assisted-living-facility-300x160.jpg "Who Should I Call if I Suspect Abuse at an Assisted Living Facility?")](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-should-i-call-if-i-suspect-abuse-at-an-assisted-living-facility/ "Who Should I Call if I Suspect Abuse at an Assisted Living Facility?")
+[![Is there a recall on johnson & johnson baby products?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-is-there-a-recall-on-johnson-johnson-baby-products.jpg "Is There a Recall on Johnson & Johnson Baby Products?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-johnson-and-johnson-baby-products-recalled "Is There a Recall on Johnson & Johnson Baby Products?")
 
-[#### Who Should I Call if I Suspect Abuse at an Assisted Living Facility?](https://www.pintas.com/practice-areas/personal-injury/assisted-living-accident-lawyer/who-should-i-call-if-i-suspect-abuse-at-an-assisted-living-facility/)
+[#### Is There a Recall on Johnson & Johnson Baby Products?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/are-johnson-and-johnson-baby-products-recalled)
 
-[![How do you file a lawsuit against a nursing home for abuse or neglect?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect.jpg "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/ "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")
+[![Proving cancer from talcum: legal insights](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-how-can-an-ovarian-cancer-lawyer-prove-that-my-cancer-came-from-talcum-powder.jpg "Proving Cancer from Talcum: Legal Insights")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder "Proving Cancer from Talcum: Legal Insights")
 
-[#### How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/)
+[#### Proving Cancer from Talcum: Legal Insights](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
