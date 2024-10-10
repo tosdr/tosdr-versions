@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/klimaat/censuur-van-de-nu-nl-kerkautoriteiten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/water-levensmysterie-onder-ieders-handbereik/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
