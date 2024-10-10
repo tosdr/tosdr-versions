@@ -14,99 +14,9 @@
 
 [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
 
-Últimas de Maceió
-
-[Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
-
-   [![Avenida no bairro do Poço é interditada para obras do Renasce Salgadinho](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/3/csm_31-03-22-Renasce-Salgadinho-Interdicao-Av-Dep-Humberto-Mendes-UGP-Foto-Barbara-Wanderley-16__1__c8763ed6cf.jpg)
-
-Maceió
-
-Avenida no bairro do Poço é interditada para obras do Renasce Salgadinho](https://www.tnh1.com.br/noticia/nid/avenida-no-bairro-do-poco-e-interditada-para-obras-do-renasce-salgadinho/ "Avenida no bairro do Poço é interditada para obras do Renasce Salgadinho")   [![Operação Blefe "Fase 2" combate suspeitos de lavar dinheiro do tráfico de drogas em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_operacao-blefe-segunda-fase_0055154618.jpeg)
-
-Agem no Nordeste
-
-Operação Blefe "Fase 2" combate suspeitos de lavar dinheiro do tráfico de drogas em Alagoas](https://www.tnh1.com.br/noticia/nid/operacao-blefe-fase-2-combate-suspeitos-de-lavar-dinheiro-do-trafico-de-drogas-em-alagoas/ "Operação Blefe "Fase 2" combate suspeitos de lavar dinheiro do tráfico de drogas em Alagoas")   [![Vídeo: carrinho de churros pega fogo em ciclovia na Jatiúca ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/f/csm_incendio-carrinho-churros-reproducao-cortesia-tnh1_5b7cedcbe0.png)
-
-susto grande
-
-Vídeo: carrinho de churros pega fogo em ciclovia na Jatiúca](https://www.tnh1.com.br/noticia/nid/video-carrinho-de-churros-pega-fogo-em-ciclovia-na-jatiuca/ "Vídeo: carrinho de churros pega fogo em ciclovia na Jatiúca ")   [![Jornalista Jairo Queiroz morre aos 71 anos em Maceió](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/4/4/csm_Jornalista__Jairo_Queiroz_-_foto_Reproducao_7f95f801a9.jpg)
-
-pernambucano
-
-Jornalista Jairo Queiroz morre aos 71 anos em Maceió](https://www.tnh1.com.br/noticia/nid/jornalista-jairo-queiroz-morre-aos-71-anos-em-maceio/ "Jornalista Jairo Queiroz morre aos 71 anos em Maceió")   [![Síndico e zelador de condomínio são indiciados suspeitos de jogar cadela no lixo ](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_cadela_malu_9c297e688a.jpeg)
-
-maus-tratos
-
-Síndico e zelador de condomínio são indiciados suspeitos de jogar cadela no lixo](https://www.tnh1.com.br/noticia/nid/sindico-e-zelador-de-condominio-sao-indiciados-suspeitos-de-jogar-cadela-no-lixo/ "Síndico e zelador de condomínio são indiciados suspeitos de jogar cadela no lixo ")   [![Dono de joalheria no Farol, alvo de assalto frustrado, se pronuncia; veja vídeo](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/7/csm_marinho_ouro_d0bd505b9b.png)
-
-na praça centenário
-
-Dono de joalheria no Farol, alvo de assalto frustrado, se pronuncia; veja vídeo](https://www.tnh1.com.br/noticia/nid/dono-de-joalheria-no-farol-alvo-de-assalto-frustrado-se-pronuncia-veja-video/ "Dono de joalheria no Farol, alvo de assalto frustrado, se pronuncia; veja vídeo")
-
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
-Últimas de Alagoas
-
-[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
-
-   [![Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/7/csm_sexo_praia_9091d042b1.png)
-
-após denúncia
-
-Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-filmado-fazendo-sexo-em-praia-de-maceio-e-afastado-do-curso-de-delegados-em-alagoas/ "Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas")   [![ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/7/csm_ONG_Mundau_Dia_da_Crianca_Assessoria_0f58301f4b.jpeg)
-
-Até 15 de outubro
-
-ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças](https://www.tnh1.com.br/noticia/nid/ong-mundau-mundo-inicia-campanha-de-arrecadacao-de-brinquedos-para-o-dia-das-criancas/ "ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças")   [![Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/0/csm_novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-funcionar-em-maceio_65344d912d.jpg)
-
-150 CÂMERAS
-
-Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona](https://www.tnh1.com.br/noticia/nid/novo-sistema-de-videomonitoramento-da-seguranca-publica-comeca-a-operar-em-alagoas-veja-como-funciona/ "Novo sistema de videomonitoramento da Segurança Pública começa a operar em Alagoas; veja como funciona ")   [![Idosa de 95 anos encontra família 'perdida' em Alagoas após apelo na TV Pajuçara](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/1/csm_csm_carmelita_-_foto_arquivo_pessoal_af591deb76_a25550f6fd.jpg)
-
-Veja vídeo
-
-Idosa de 95 anos encontra família 'perdida' em Alagoas após apelo na TV Pajuçara](https://www.tnh1.com.br/noticia/nid/idosa-de-95-anos-encontra-familia-perdida-em-alagoas-apos-apelo-na-tv-pajucara/ "Idosa de 95 anos encontra família 'perdida' em Alagoas após apelo na TV Pajuçara")   [![Novo aviso meteorológico indica para baixa umidade do ar no Sertão alagoano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/8/csm_csm_sertao-nordeste-seco-1024x576_38cd086a96_faaca47586.jpg)
-
-No interior
-
-Novo aviso meteorológico indica para baixa umidade do ar no Sertão alagoano](https://www.tnh1.com.br/noticia/nid/novo-aviso-meteorologico-indica-para-baixa-umidade-do-ar-no-sertao-alagoano/ "Novo aviso meteorológico indica para baixa umidade do ar no Sertão alagoano")   [![Confira os resultados do Alagoas dá Sorte deste domingo (6)](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/6/2/csm_ALAGOAS_DA_SORTE_15ed4607ed.jpg)
-
-Alagoas
-
-Confira os resultados do Alagoas dá Sorte deste domingo (6)](https://www.tnh1.com.br/noticia/nid/confira-os-resultados-do-alagoas-da-sorte-deste-domingo-6-2/ "Confira os resultados do Alagoas dá Sorte deste domingo (6)")
-
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
-
-Últimas de Polícia
-
-[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
-
-   [![Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/7/csm_sexo_praia_9091d042b1.png)
-
-após denúncia
-
-Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-filmado-fazendo-sexo-em-praia-de-maceio-e-afastado-do-curso-de-delegados-em-alagoas/ "Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas")   [![Facadas e marteladas: homem diz que matou mulher em Marechal Deodoro após pai ser ameaçado](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/e/5/csm_mulher-morta-marechal-deodoro_83cc2237df.jpg)
-
-Feminicídio
-
-Facadas e marteladas: homem diz que matou mulher em Marechal Deodoro após pai ser ameaçado](https://www.tnh1.com.br/noticia/nid/facadas-e-marteladas-homem-diz-que-matou-mulher-em-marechal-deodoro-apos-pai-ser-ameacado/ "Facadas e marteladas: homem diz que matou mulher em Marechal Deodoro após pai ser ameaçado")   [![Suspeito de sequestrar e estuprar adolescente é preso na Barra de Santo António ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/c/csm_policia_civil_b137cfee6c.jpeg)
-
-Polícia
-
-Suspeito de sequestrar e estuprar adolescente é preso na Barra de Santo António](https://www.tnh1.com.br/noticia/nid/suspeito-de-sequestrar-e-estuprar-adolescente-e-preso-na-barra-de-santo-antonio/ "Suspeito de sequestrar e estuprar adolescente é preso na Barra de Santo António ")   [![Suspeito de matar idoso em situação de rua é preso em Penedo; veja imagens](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/7/4/csm_crime_penedo_16-9-24_a98ca7bb1a.jpg)
-
-Quase um mês depois
-
-Suspeito de matar idoso em situação de rua é preso em Penedo; veja imagens](https://www.tnh1.com.br/noticia/nid/suspeito-de-matar-idoso-em-situacao-de-rua-e-preso-em-penedo-veja-imagens/ "Suspeito de matar idoso em situação de rua é preso em Penedo; veja imagens")   [![Operação Blefe "Fase 2" combate suspeitos de lavar dinheiro do tráfico de drogas em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/3/csm_operacao-blefe-segunda-fase_0055154618.jpeg)
-
-Agem no Nordeste
-
-Operação Blefe "Fase 2" combate suspeitos de lavar dinheiro do tráfico de drogas em Alagoas](https://www.tnh1.com.br/noticia/nid/operacao-blefe-fase-2-combate-suspeitos-de-lavar-dinheiro-do-trafico-de-drogas-em-alagoas/ "Operação Blefe "Fase 2" combate suspeitos de lavar dinheiro do tráfico de drogas em Alagoas")   [![Pai faz dívida de R$ 2,4 mil e é preso por não pagar pensão alimentícia no Pontal do Peba](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/8/4/csm_viatura_pc-al_3784e5171f.jpeg)
-
-Jovem de 25 anos
-
-Pai faz dívida de R$ 2,4 mil e é preso por não pagar pensão alimentícia no Pontal do Peba](https://www.tnh1.com.br/noticia/nid/pai-faz-divida-de-r-24-mil-e-e-preso-por-nao-pagar-pensao-alimenticia-no-pontal-do-peba/ "Pai faz dívida de R$ 2,4 mil e é preso por não pagar pensão alimentícia no Pontal do Peba")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -115,20 +25,6 @@ Pai faz dívida de R$ 2,4 mil e é preso por não pagar pensão alimentícia no 
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
-
-Últimas de Pessoas&Negócios
-
-[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
-
-   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
-
-Pessoas & Negócios
-
-Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")   [![Reitor do Cesmac recebe título de Doutor Honoris Causa](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/4/e/csm_Reitor_Joao_Sampaio_927cea6c2e.png)
-
-Pessoas & Negócios
-
-Reitor do Cesmac recebe título de Doutor Honoris Causa](https://www.tnh1.com.br/noticia/nid/reitor-do-cesmac-recebe-titulo-de-doutor-honoris-causa/ "Reitor do Cesmac recebe título de Doutor Honoris Causa")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -202,15 +98,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Senac oferece 79 cursos gratuitos online](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/8/csm_Senac-oferece-201-cursos-online-EAD-de-qualificacao-profissional-com-certificado-860x484-1_7d75eadb79.jpg)
-
-Mercado de Trabalho
-
-Mercado de Trabalho
-
-Senac oferece 79 cursos gratuitos online
-
-Senac oferece 79 cursos gratuitos online](https://www.tnh1.com.br/noticia/nid/senac-oferece-79-cursos-gratuitos-online/ "Senac oferece 79 cursos gratuitos online")[![Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_foto-francisco-e-diogo-cuoco-2024-reproducao-redes-sociais_2a867fc650.jpg)
+[![Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_foto-francisco-e-diogo-cuoco-2024-reproducao-redes-sociais_2a867fc650.jpg)
 
 dívida trabalhista
 
@@ -218,7 +106,15 @@ dívida trabalhista
 
 Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário
 
-Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário](https://www.tnh1.com.br/noticia/nid/francisco-cuoco-e-filho-sao-condenados-a-pagar-r-600-mil-a-ex-funcionario/ "Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ")[![Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/4/csm_mulher-morre-envenenada-interior-alagoas-reproducao_7c70202ac2.jpeg)
+Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário](https://www.tnh1.com.br/noticia/nid/francisco-cuoco-e-filho-sao-condenados-a-pagar-r-600-mil-a-ex-funcionario/ "Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ")[![Senac oferece 79 cursos gratuitos online](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/8/csm_Senac-oferece-201-cursos-online-EAD-de-qualificacao-profissional-com-certificado-860x484-1_7d75eadb79.jpg)
+
+Mercado de Trabalho
+
+Mercado de Trabalho
+
+Senac oferece 79 cursos gratuitos online
+
+Senac oferece 79 cursos gratuitos online](https://www.tnh1.com.br/noticia/nid/senac-oferece-79-cursos-gratuitos-online/ "Senac oferece 79 cursos gratuitos online")[![Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_mulher-morre-envenenada-interior-alagoas-reproducao_7c70202ac2.jpeg)
 
 Em São Brás
 
@@ -226,25 +122,7 @@ Em São Brás
 
 Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito
 
-Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito](https://www.tnh1.com.br/noticia/nid/professora-morre-apos-comer-coxinha-supostamente-envenenada-ex-companheiro-e-suspeito/ "Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito")[!["Estou pagando por uma briga", diz eleita que pode perder vaga no interior de AL; veja o que diz ofício](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/6/csm_camara_municipal_anadia_-_foto_reproducao_google_maps_13e66be322.png)
-
-vereadora de anadia
-
-vereadora de anadia
-
-"Estou pagando por uma briga", diz eleita que pode perder vaga no interior de AL; veja o que diz ofício
-
-"Estou pagando por uma briga", diz eleita que pode perder vaga no interior de AL; veja o que diz ofício](https://www.tnh1.com.br/noticia/nid/estou-pagando-por-uma-briga-diz-eleita-que-pode-perder-vaga-no-interior-de-al-veja-o-que-diz-oficio/ ""Estou pagando por uma briga", diz eleita que pode perder vaga no interior de AL; veja o que diz ofício")
-
-[![Após quatro anos, Drauzio diz que sente por família da vítima no caso Suzy](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/a/csm_drauzio_varela_d0bd3b6e5c.png)
-
-Brasil
-
-Brasil
-
-Após quatro anos, Drauzio diz que sente por família da vítima no caso Suzy
-
-Após quatro anos, Drauzio diz que sente por família da vítima no caso Suzy](https://www.tnh1.com.br/noticia/nid/apos-quatro-anos-drauzio-diz-que-sente-por-familia-da-vitima-no-caso-suzy/ "Após quatro anos, Drauzio diz que sente por família da vítima no caso Suzy")[![Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/7/csm_sexo_praia_b113de540d.png)
+Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito](https://www.tnh1.com.br/noticia/nid/professora-morre-apos-comer-coxinha-supostamente-envenenada-ex-companheiro-e-suspeito/ "Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito")[![Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/7/csm_sexo_praia_b113de540d.png)
 
 após denúncia
 
@@ -252,23 +130,41 @@ após denúncia
 
 Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas
 
-Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-filmado-fazendo-sexo-em-praia-de-maceio-e-afastado-do-curso-de-delegados-em-alagoas/ "Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas")[![ 'Se fumo, não é da conta de ninguém', afirma novo goleiro do Barcelona](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_goleiro_barcelona_de36336a58.png)
+Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-filmado-fazendo-sexo-em-praia-de-maceio-e-afastado-do-curso-de-delegados-em-alagoas/ "Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas")
 
-'minha vida pessoal'
+[![Vídeo: ex-funcionário invade loja com picareta e quebra 15 aparelhos de TV em Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_homem-invade-loja-quebra-TVs-reproducao_879ebe3773.png)
 
-'minha vida pessoal'
+No Agreste
 
- 'Se fumo, não é da conta de ninguém', afirma novo goleiro do Barcelona
+No Agreste
 
- 'Se fumo, não é da conta de ninguém', afirma novo goleiro do Barcelona](https://www.tnh1.com.br/noticia/nid/se-fumo-nao-e-da-conta-de-ninguem-afirma-novo-goleiro-do-barcelona/ " 'Se fumo, não é da conta de ninguém', afirma novo goleiro do Barcelona")[![Facadas e marteladas: homem diz que matou mulher em Marechal Deodoro após pai ser ameaçado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/5/csm_mulher-morta-marechal-deodoro_9071f81e4c.jpg)
+Vídeo: ex-funcionário invade loja com picareta e quebra 15 aparelhos de TV em Arapiraca
 
-Feminicídio
+Vídeo: ex-funcionário invade loja com picareta e quebra 15 aparelhos de TV em Arapiraca](https://www.tnh1.com.br/noticia/nid/video-ex-funcionario-invade-loja-com-picareta-e-quebra-15-aparelhos-de-tv-em-arapiraca/ "Vídeo: ex-funcionário invade loja com picareta e quebra 15 aparelhos de TV em Arapiraca")[![HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/4/csm_Sesau_HGE_Acidentes_5e2b9ff2b8.jpg)
 
-Feminicídio
+Alagoas
 
-Facadas e marteladas: homem diz que matou mulher em Marechal Deodoro após pai ser ameaçado
+Alagoas
 
-Facadas e marteladas: homem diz que matou mulher em Marechal Deodoro após pai ser ameaçado](https://www.tnh1.com.br/noticia/nid/facadas-e-marteladas-homem-diz-que-matou-mulher-em-marechal-deodoro-apos-pai-ser-ameacado/ "Facadas e marteladas: homem diz que matou mulher em Marechal Deodoro após pai ser ameaçado")
+HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano
+
+HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://www.tnh1.com.br/noticia/nid/hge-atende-quase-4-mil-vitimas-de-acidentes-de-transito-de-janeiro-a-setembro-deste-ano/ "HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano")[![Família de professora que morreu após comer coxinha supostamente envenenada faz protesto ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/5/3/csm_familiares-fazem-protesto-cisp-cortesia_a4e5eb8441.png)
+
+Em São Brás
+
+Em São Brás
+
+Família de professora que morreu após comer coxinha supostamente envenenada faz protesto
+
+Família de professora que morreu após comer coxinha supostamente envenenada faz protesto](https://www.tnh1.com.br/noticia/nid/familia-de-professora-que-morreu-apos-comer-coxinha-supostamente-envenenada-faz-protesto/ "Família de professora que morreu após comer coxinha supostamente envenenada faz protesto ")[![Flamengo encaminha acordo com a CBF por parte dos salários de Pedro](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/8/csm_Pedro_-_foto_Lucas_Figueiredo_-_CBF_0263869faf.jpg)
+
+veja como fica
+
+veja como fica
+
+Flamengo encaminha acordo com a CBF por parte dos salários de Pedro
+
+Flamengo encaminha acordo com a CBF por parte dos salários de Pedro](https://www.tnh1.com.br/noticia/nid/flamengo-encaminha-acordo-com-a-cbf-por-parte-dos-salarios-de-pedro/ "Flamengo encaminha acordo com a CBF por parte dos salários de Pedro")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
