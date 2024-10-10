@@ -1,6 +1,6 @@
 [Skip to content](#skip-content-target-id)
 
-[Get 15% off £35+ with code FLASH15](https://www.notonthehighstreet.com/offers)
+Get up to 50% off jewellery. [Shop now.](https://www.notonthehighstreet.com/offers)
 
 [![Not on the high street logo](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
