@@ -462,11 +462,10 @@ Start • Stop • Pause Anytime
 * [Help/FAQs](https://www.time4learning.com/support/faq)
 * [About Us](https://www.time4learning.com/aboutus.htm)
 * [Contact Us](https://www.time4learning.com/contact-us/)
-* [Careers](https://www.time4learning.com/careers/)
+* [Careers](https://jobs.cambiumlearning.com/?departments=Time4Learning#/)
 * [In the Media](https://www.time4learning.com/news-and-events/)
 * [Sitemap](https://www.time4learning.com/sitemap.html)
 * [Terms of Use](https://www.time4learning.com/curriculum/terms.html)
-* [Información en español](https://www.time4learning.com/es/curriculo-educacion-casa/nuevo-educador-en-el-hogar/)
 
 ### **Follow Us**
 
