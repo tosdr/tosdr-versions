@@ -48,8 +48,9 @@ Donate
 * [ARI's Latest Accomplishments](https://autism.org/2023-impact)
 * [Annual Reports](https://autism.org/annual-report/)
 * [Financials - Audit Reports/990s](https://autism.org/financial-information/)
-* [Donate Cryptocurrency](https://autism.org/donate-crypto/)
 * [Donate Stock/Mutual Funds](https://autism.org/ways-to-help-donating-stock-and-mutual-funds/)
+* [Gifts from Donor Advised Funds](https://autism.org/donating-daf/)
+* [Donate Cryptocurrency](https://autism.org/donate-crypto/)
 
 [Donate](https://www.autism.org/donation-classic/)
 
@@ -103,8 +104,9 @@ Donate
     * [ARI’s Latest Accomplishments](https://autism.org/2023-impact)
     * [Annual Reports](https://autism.org/annual-report/)
     * [Financials – Audit Reports/990s](https://autism.org/financial-information/)
-    * [Donate Cryptocurrency](https://autism.org/donate-crypto/)
     * [Donate Stock/Mutual Funds](https://autism.org/ways-to-help-donating-stock-and-mutual-funds/)
+    * [Gifts from Donor Advised Funds](https://autism.org/donating-daf/)
+    * [Donate Cryptocurrency](https://autism.org/donate-crypto/)
 * [](# "Search")
     
     Search for: 
