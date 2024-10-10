@@ -20,7 +20,7 @@
     * [Careers](https://www.deeplearning.ai/careers/)
     * [Contact](https://www.deeplearning.ai/contact/)
 
-[Start Learning](https://bit.ly/4cwWNAv)
+[Start Learning](https://bit.ly/3RB9T8a)
 
 **TERMS OF USE**
 
