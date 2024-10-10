@@ -70,7 +70,7 @@
   
 Health programs built just for you. Check your eligibility today!
 
-[Am I elible? ![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_white-arrow.svg)](https://go.omadahealth.com/?check-coverage=)   
+[Am I eligible? ![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_white-arrow.svg)](https://go.omadahealth.com/?check-coverage=)   
 
  [![](https://www.omadahealth.com/hubfs/2024%20Assets/Member%20Login%20Icon-green.svg) Member Login](https://app.omadahealth.com/login)
 
