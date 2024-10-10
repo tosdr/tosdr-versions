@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c03c0725-d33e-4290-bd1a-7ac126939687/20241009T195101/c03c0725-d33e-4290-bd1a-7ac126939687_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c03c0725-d33e-4290-bd1a-7ac126939687/20241009T195101/c03c0725-d33e-4290-bd1a-7ac126939687_360x203.jpg)](https://www.king5.com/article/news/crime/suspects-used-van-attempt-rip-open-atm-in-magnolia/281-a381bb5d-0a19-4c67-8280-2532a1527c4b)
+    *  [![](https://media.king5.com/assets/KING/images/5b521061-c458-4819-a4fc-41d859d72a9e/20241010T020950/5b521061-c458-4819-a4fc-41d859d72a9e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5b521061-c458-4819-a4fc-41d859d72a9e/20241010T020950/5b521061-c458-4819-a4fc-41d859d72a9e_360x203.jpg)](https://www.king5.com/article/news/local/seattle/dicks-a-thon-enters-third-year-seattle/281-0b54d1a9-afee-4efc-a844-667663eef2d5)
         
-        #### [Suspects used van in attempt to rip open ATM in Magnolia](https://www.king5.com/article/news/crime/suspects-used-van-attempt-rip-open-atm-in-magnolia/281-a381bb5d-0a19-4c67-8280-2532a1527c4b)
+        #### [Dick's-A-Thon enters third year in Seattle](https://www.king5.com/article/news/local/seattle/dicks-a-thon-enters-third-year-seattle/281-0b54d1a9-afee-4efc-a844-667663eef2d5)
         
-    *  [![](https://media.king5.com/assets/KING/images/f0a54c4d-6aad-4ece-960d-f27abee2e7ac/20240512T000643/f0a54c4d-6aad-4ece-960d-f27abee2e7ac_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f0a54c4d-6aad-4ece-960d-f27abee2e7ac/20240512T000643/f0a54c4d-6aad-4ece-960d-f27abee2e7ac_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-forecast-washington-state/281-c8af2b7e-9fc8-43a4-8bc3-d8158a26ec5f)
+    *  [![](https://media.king5.com/assets/KING/images/55ee2670-fbac-43fb-b73b-38b8d4dcbc75/20241010T020540/55ee2670-fbac-43fb-b73b-38b8d4dcbc75_16x9.jpg) ![](https://media.king5.com/assets/KING/images/55ee2670-fbac-43fb-b73b-38b8d4dcbc75/20241010T020540/55ee2670-fbac-43fb-b73b-38b8d4dcbc75_360x203.jpg)](https://www.king5.com/article/news/crime/3-injured-downtown-tacoma-shooting/281-d936ea6c-fda6-40fb-a090-4a7af9d3e7f6)
         
-        #### [Best opportunity for northern lights viewing since May arrives Thursday](https://www.king5.com/article/weather/weather-blog/northern-lights-forecast-washington-state/281-c8af2b7e-9fc8-43a4-8bc3-d8158a26ec5f)
+        #### [2 shot, 1 grazed by car in downtown Tacoma](https://www.king5.com/article/news/crime/3-injured-downtown-tacoma-shooting/281-d936ea6c-fda6-40fb-a090-4a7af9d3e7f6)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f0a54c4d-6aad-4ece-960d-f27abee2e7ac/20240512T000643/f0a54c4d-6aad-4ece-960d-f27abee2e7ac_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f0a54c4d-6aad-4ece-960d-f27abee2e7ac/20240512T000643/f0a54c4d-6aad-4ece-960d-f27abee2e7ac_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/northern-lights-forecast-washington-state/281-c8af2b7e-9fc8-43a4-8bc3-d8158a26ec5f)
-        
-        #### [Best opportunity for northern lights viewing since May arrives Thursday](https://www.king5.com/article/weather/weather-blog/northern-lights-forecast-washington-state/281-c8af2b7e-9fc8-43a4-8bc3-d8158a26ec5f)
-        
-    *  [![](https://media.king5.com/assets/KING/images/bca59a78-24a8-4e71-9ea2-24c5d460f1df/20241009T114808/bca59a78-24a8-4e71-9ea2-24c5d460f1df_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bca59a78-24a8-4e71-9ea2-24c5d460f1df/20241009T114808/bca59a78-24a8-4e71-9ea2-24c5d460f1df_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/1a5620cc-2664-4a84-bf1e-9faeb9aa1b13/20241010T015720/1a5620cc-2664-4a84-bf1e-9faeb9aa1b13_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1a5620cc-2664-4a84-bf1e-9faeb9aa1b13/20241010T015720/1a5620cc-2664-4a84-bf1e-9faeb9aa1b13_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KING/images/c605bf6e-c200-4dfb-b99d-f7cec61664b3/20241010T001516/c605bf6e-c200-4dfb-b99d-f7cec61664b3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c605bf6e-c200-4dfb-b99d-f7cec61664b3/20241010T001516/c605bf6e-c200-4dfb-b99d-f7cec61664b3_360x203.jpg)](https://www.king5.com/article/news/local/local-volunteers-mobilize-help-hurricane-milton-florida/281-6c81eaed-8a74-48d6-b735-811f11785106)
+        
+        #### [Local volunteers mobilize to help as Hurricane Milton makes landfall in Florida](https://www.king5.com/article/news/local/local-volunteers-mobilize-help-hurricane-milton-florida/281-6c81eaed-8a74-48d6-b735-811f11785106)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-61°
+58°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
