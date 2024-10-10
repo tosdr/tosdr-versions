@@ -127,11 +127,11 @@ By using this website, you affirm that you are of legal age to enter into these 
 
 ### EULA
 
-[Download PDF for CloudConnexa](https://openvpn.net/wp-content/uploads/CloudConnexa-Service-EULA-rev-5.10.24.pdf) [Download PDF for Access Server](https://openvpn.net/wp-content/uploads/Access-Server-EULA-rev-5.10.24.pdf) [Download PDF for Connect](https://openvpn.net/wp-content/uploads/ovpn-connect-eula-oct23.pdf)
+[Download PDF for CloudConnexa](https://openvpn.net/wp-content/uploads/CloudConnexa-Service-EULA-rev-5.10.24.pdf) [Download PDF for Access Server](https://openvpn.net/wp-content/uploads/Access-Server-EULA-rev.-October-1-2024.pdf) [Download PDF for Connect](https://openvpn.net/wp-content/uploads/ovpn-connect-eula-oct23.pdf)
 
 The legal contract entered between OpenVPN and the user of OpenVPN software. The EULA specifies in detail the rights and restrictions which apply to the use of the software.
 
-[Download PDF for CloudConnexa](https://openvpn.net/wp-content/uploads/CloudConnexa-Service-EULA-rev-5.10.24.pdf) [Download PDF for Access Server](https://openvpn.net/wp-content/uploads/Access-Server-EULA-rev-5.10.24.pdf) [Download PDF for Connect](https://openvpn.net/wp-content/uploads/ovpn-connect-eula-oct23.pdf)
+[Download PDF for CloudConnexa](https://openvpn.net/wp-content/uploads/CloudConnexa-Service-EULA-rev-5.10.24.pdf) [Download PDF for Access Server](https://openvpn.net/wp-content/uploads/Access-Server-EULA-rev.-October-1-2024.pdf) [Download PDF for Connect](https://openvpn.net/wp-content/uploads/ovpn-connect-eula-oct23.pdf)
 
 ### General Data Processing Agreement
 
