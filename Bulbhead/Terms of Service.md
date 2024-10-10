@@ -1,4 +1,4 @@
-               Terms of service – BulbHead                                                                                 [Skip to content](#MainContent)
+               Terms of service – BulbHead                                                                                     [Skip to content](#MainContent)
 
     
 
