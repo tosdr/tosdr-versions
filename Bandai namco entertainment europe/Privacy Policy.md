@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [A New Mystery Series In the World of Little Nightmares Announced](https://en.bandainamcoent.eu/little-nightmares/news/new-mystery-series-the-world-of-little-nightmares-announced)
 * [MY HERO ULTRA RUMBLE - About the Maintenance on October 9, 2024](https://en.bandainamcoent.eu/my-hero-academia/news/my-hero-ultra-rumble-about-the-maintenance-october-9-2024)
-* [Unleash the inner Saiyan and dominate lighting-fast battles in DRAGON BALL: Sparking! ZERO, AVAILABLE NOW!](https://en.bandainamcoent.eu/dragon-ball/news/unleash-the-inner-saiyan-and-dominate-lighting-fast-battles-dragon-ball-sparking)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
