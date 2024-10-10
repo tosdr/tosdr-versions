@@ -99,7 +99,7 @@ Support
 
 Help Center
 
-**Chat** : Online
+**Chat** : Busy
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
@@ -248,7 +248,7 @@ Support
 
 Help Center
 
-Chat: Online
+Chat: Busy
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
