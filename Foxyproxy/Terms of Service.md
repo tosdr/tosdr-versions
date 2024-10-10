@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have been quite happy with the service...I have already upgraded to an annual subscription.
+Many thanks for all your help in getting BBC iPlayer running.
 
-Tom Swift
+Irene Schuster
