@@ -45,6 +45,7 @@
     
     * [Blog](https://viewqwest.com/sg/residential/blog/)
     * [Media](https://viewqwest.com/sg/news/)
+    * [Run with ViewQwest](https://viewqwest.com/sg/residential/scsm2024/)
 * Support
     
     * [WiFi Support](https://viewqwest.com/sg/residential/wifi-self-help/)
