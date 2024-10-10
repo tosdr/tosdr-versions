@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to IDC Frontier](https://www.backup4all.com/how-to-backup-your-data-to-idc-frontier-kb.html)  
+* [Backup strategy: scheduled backup and cleanup ...](https://www.backup4all.com/backup-strategy-scheduled-daily-weekly-monthly-backups-combined-with-cleanup-operations-kb.html)  
     
-* [How to backup your data to Revera](https://www.backup4all.com/how-to-backup-your-data-to-revera-kb.html)  
+* [How to configure email sending](https://www.backup4all.com/how-to-use-email-settings-kb.html)  
     
 * [How to back up data files from Google Drive u ...](https://www.backup4all.com/how-to-back-up-data-files-from-google-drive-using-backup4all-kb.html)  
     
-* [How to back up and restore the Backup4all con ...](https://www.backup4all.com/how-to-back-up-and-restore-the-backup4all-configurations-kb.html)  
+* [How to backup from cloud using Backup4all](https://www.backup4all.com/how-to-backup-from-cloud-using-backup4all-kb.html)  
     
-* [How to restore your data files from MinIO usi ...](https://www.backup4all.com/how-to-restore-your-data-files-from-minio-using-backup4all-kb.html)  
+* [How to backup your data to CenturyLink](https://www.backup4all.com/how-to-backup-your-data-to-centurylink-kb.html)  
     
 
 Choose language:
