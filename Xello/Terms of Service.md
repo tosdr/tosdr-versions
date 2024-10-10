@@ -22,7 +22,7 @@ Which best describes your role?\*
 
 Please selectK-12 District LeaderK-12 School LeaderK-12 CounselingK-12 CTEK-12 Career AdvisorLibrary or Career ServicesHigher EducationTeacherStudentParent / FamilyOther
 
-My organization uses Xello\*
+My school district uses Xello\*
 
  Yes
 
@@ -62,7 +62,7 @@ If you have a specific question, fill in the comments box and our support team w
 
 What can we help you with today?\*
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
