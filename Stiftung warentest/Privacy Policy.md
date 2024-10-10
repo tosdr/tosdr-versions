@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
-* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [ProReal 9 und 10: Anlegern droht bei zwei Angeboten der One Group ein Total­verlust](https://www.test.de/ProReal-9-und-10-Anlegern-droht-bei-zwei-Angeboten-der-One-Group-ein-Totalverlust-6114639-0/ "ProReal 9 und 10 - Anlegern droht bei zwei Angeboten der One Group ein Totalverlust")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
-* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [ProReal 9 und 10: Anlegern droht bei zwei Angeboten der One Group ein Total­verlust](https://www.test.de/ProReal-9-und-10-Anlegern-droht-bei-zwei-Angeboten-der-One-Group-ein-Totalverlust-6114639-0/ "ProReal 9 und 10 - Anlegern droht bei zwei Angeboten der One Group ein Totalverlust")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
-* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [ProReal 9 und 10: Anlegern droht bei zwei Angeboten der One Group ein Total­verlust](https://www.test.de/ProReal-9-und-10-Anlegern-droht-bei-zwei-Angeboten-der-One-Group-ein-Totalverlust-6114639-0/ "ProReal 9 und 10 - Anlegern droht bei zwei Angeboten der One Group ein Totalverlust")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
-* [Fonds: Misch­fonds aus unserem Dauer­test](https://www.test.de/Fonds-Mischfonds-aus-unserem-Dauertest-6149231-0/ "Fonds - Mischfonds aus unserem Dauertest")
-* [Pantoffel-Portfolio: Den Sicher­heits­baustein bestü­cken](https://www.test.de/Pantoffel-Portfolio-Den-Sicherheitsbaustein-bestuecken-6123094-0/ "Pantoffel-Portfolio - Den Sicherheitsbaustein bestücken")
-* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
-* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Für die CO2-Abgabe zahlen künftig Mieter und Vermieter](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Für die CO2-Abgabe zahlen künftig Mieter und Vermieter")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [ProReal 9 und 10: Anlegern droht bei zwei Angeboten der One Group ein Total­verlust](https://www.test.de/ProReal-9-und-10-Anlegern-droht-bei-zwei-Angeboten-der-One-Group-ein-Totalverlust-6114639-0/ "ProReal 9 und 10 - Anlegern droht bei zwei Angeboten der One Group ein Totalverlust")
+* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
 
 Service Stiftung Warentest
 
