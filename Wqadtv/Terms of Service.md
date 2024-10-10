@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_16x9.jpg) ![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_360x203.jpg)](https://www.wqad.com/article/news/crime/east-moline-police-infant-hospitalized-father-charged-aggravated-battery/526-12eae7c9-808c-47a6-9ed9-ab633eca6115)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/7686f87e-56a9-42c8-a510-9611d67d2db5/20241010T140358/7686f87e-56a9-42c8-a510-9611d67d2db5_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7686f87e-56a9-42c8-a510-9611d67d2db5/20241010T140358/7686f87e-56a9-42c8-a510-9611d67d2db5_360x203.jpg)](https://www.wqad.com/article/news/local/moline-carport-fire-destroys-cars/526-869d1927-ffee-4b49-b50e-cea11c3d463a)
         
-        #### [Father arrested for aggravated battery after infant hospitalized](https://www.wqad.com/article/news/crime/east-moline-police-infant-hospitalized-father-charged-aggravated-battery/526-12eae7c9-808c-47a6-9ed9-ab633eca6115)
+        #### [Moline apartment carport fire destroys several cars, displaces resident](https://www.wqad.com/article/news/local/moline-carport-fire-destroys-cars/526-869d1927-ffee-4b49-b50e-cea11c3d463a)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c8f2aa38-6b2b-4ad4-b406-a58b17b46984/20241010T004333/c8f2aa38-6b2b-4ad4-b406-a58b17b46984_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8f2aa38-6b2b-4ad4-b406-a58b17b46984/20241010T004333/c8f2aa38-6b2b-4ad4-b406-a58b17b46984_360x203.jpg)](https://www.wqad.com/article/news/local/meshtastic-devices-text-without-internet-cell-service-satellite/526-80a1a95a-4734-4ba9-8e2d-4b13561fef10)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/94aaecb3-1934-4355-ba56-47cd316efb59/20241009T213439/94aaecb3-1934-4355-ba56-47cd316efb59_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/94aaecb3-1934-4355-ba56-47cd316efb59/20241009T213439/94aaecb3-1934-4355-ba56-47cd316efb59_360x203.jpg)](https://www.wqad.com/article/news/local/fire-at-fyre-lake-sherrard-home-badly-damaged-by-fire/526-44303240-8f5d-4931-989d-8858d418d47d)
         
-        #### [The devices that let you text without internet, cell service or satellite](https://www.wqad.com/article/news/local/meshtastic-devices-text-without-internet-cell-service-satellite/526-80a1a95a-4734-4ba9-8e2d-4b13561fef10)
+        #### [Fire at Fyre Lake: Sherrard home destroyed by fire](https://www.wqad.com/article/news/local/fire-at-fyre-lake-sherrard-home-badly-damaged-by-fire/526-44303240-8f5d-4931-989d-8858d418d47d)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WTOL/images/b4d0a6e7-11eb-4258-b0df-56391e12722c/20241008T144529/b4d0a6e7-11eb-4258-b0df-56391e12722c_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/b4d0a6e7-11eb-4258-b0df-56391e12722c/20241008T144529/b4d0a6e7-11eb-4258-b0df-56391e12722c_360x203.jpg)](https://www.wqad.com/article/news/local/red-cross-quad-cities-volunteers-help-hurricane-milton/526-e33c57a8-44cc-4850-b7c4-bd8751394582)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/aab71019-9b3c-47af-b3c1-ee085ecebdb4/20241010T133508/aab71019-9b3c-47af-b3c1-ee085ecebdb4_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/aab71019-9b3c-47af-b3c1-ee085ecebdb4/20241010T133508/aab71019-9b3c-47af-b3c1-ee085ecebdb4_360x203.jpg)](https://www.wqad.com/article/news/nation-world/us-jobless-claims-jump-to-highest-in-more-than-a-year/507-49d361e4-4fd9-4bfb-8ffd-f526656449c3)
         
-        #### [Red Cross recruits Quad Cities volunteers for Hurricane Milton relief](https://www.wqad.com/article/news/local/red-cross-quad-cities-volunteers-help-hurricane-milton/526-e33c57a8-44cc-4850-b7c4-bd8751394582)
+        #### [US jobless claims hit 258,000, the most in a year. Analysts point to Hurricane Helene, Boeing strike](https://www.wqad.com/article/news/nation-world/us-jobless-claims-jump-to-highest-in-more-than-a-year/507-49d361e4-4fd9-4bfb-8ffd-f526656449c3)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/2fe4ebfd-afd9-4157-b8c3-e9751388f5ab/20241009T224408/2fe4ebfd-afd9-4157-b8c3-e9751388f5ab_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2fe4ebfd-afd9-4157-b8c3-e9751388f5ab/20241009T224408/2fe4ebfd-afd9-4157-b8c3-e9751388f5ab_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/fc49c547-7c1a-4b70-9142-1c6f589eb054/20241010T150308/fc49c547-7c1a-4b70-9142-1c6f589eb054_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/fc49c547-7c1a-4b70-9142-1c6f589eb054/20241010T150308/fc49c547-7c1a-4b70-9142-1c6f589eb054_360x203.jpg)](https://www.wqad.com/article/news/nation-world/hurricane-milton-strikes-florida/507-9e0d7dc3-1328-491f-8535-6f4cb85375ed)
         
-        #### [Warmer temperatures ahead to close the work week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Hurricane Milton: Millions without power, Tropicana Field roof ripped to shreds](https://www.wqad.com/article/news/nation-world/hurricane-milton-strikes-florida/507-9e0d7dc3-1328-491f-8535-6f4cb85375ed)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-49°
+67°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
