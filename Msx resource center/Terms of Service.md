@@ -140,8 +140,8 @@ MSX Music player
 
 Latest reactions
 
-* [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
+* [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [Tiny Magic update, new batch and soundtrack CD](https://www.msx.org/news/software/en/tiny-magic-update "Tiny Magic update, new batch and soundtrack CD")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
+* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
+* [Looking for ROBOPAL (by BANDAI) software](https://www.msx.org/forum/msx-talk/software/looking-for-robopal-by-bandai-software "Looking for ROBOPAL (by BANDAI) software")
+* [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=121 "Please help testing upcoming openMSX release!")
 * [MSX Bluetooth transmitter](https://www.msx.org/forum/msx-talk/hardware/msx-bluetooth-transmitter "MSX Bluetooth transmitter")
 * [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card "MFRSCC+SD FAT12 & FAT16 partition on one card.")
 * [Two different flash cartridges hanging up on boot.](https://www.msx.org/forum/msx-talk/general-discussion/two-different-flash-cartridges-hanging-up-on-boot "Two different flash cartridges hanging up on boot. ")
 * [programming eprom games 8k](https://www.msx.org/forum/msx-talk/hardware/programming-eprom-games-8k "programming eprom games 8k")
 * [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
 * [MSX2 disk menu, oasis?](https://www.msx.org/forum/msx-talk/software/msx2-disk-menu-oasis?page=1 "MSX2 disk menu, oasis?")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=121 "Please help testing upcoming openMSX release!")
-* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
 * [1DD floppy drive questions](https://www.msx.org/forum/msx-talk/hardware/1dd-floppy-drive-questions "1DD floppy drive questions")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
-* [Looking for ROBOPAL (by BANDAI) software](https://www.msx.org/forum/msx-talk/software/looking-for-robopal-by-bandai-software "Looking for ROBOPAL (by BANDAI) software")
 * [Darwin demo by USE Crackings](https://www.msx.org/forum/msx-talk/software/darwin-demo-by-use-crackings "Darwin demo by USE Crackings")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=67 "WonderTANG! Who wants to juice up your MSX?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
