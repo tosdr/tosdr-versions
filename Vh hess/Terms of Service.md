@@ -19,6 +19,8 @@ Shipping, taxes, and discount codes calculated at checkout.
 
 Check out
 
+ One or more of the items in your cart is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
+
 Your cart is currently empty.
 
 * [Twitter](https://x.com/metafurstv "MetaFurs™ on Twitter")
