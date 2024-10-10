@@ -149,45 +149,45 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
-   [![The bronze ships are elaborate and wind-swept](https://img.atlasobscura.com/ehtz-Fmim-Mh1mxeLHkV0SpYH2XsWJt0a5IOHDuK8b0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82ZTlk/MGY0NS01OGMxLTQw/NjAtYmE3Yy1jNTVl/MzM1ZTIzYTBkNzNm/MzJmYTI3ODUxMzUz/NTNfUFhMXzIwMjQw/ODIxXzAwNTc0OTI4/NS5qcGc.jpg)
+   [![Order the dry curry with pork spareribs and green banana.](https://img.atlasobscura.com/nt6pgEgQC-2MxCeQ16d3WNhZRrhb_0qg8tl2NjVnDww/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZmYw/MmQxNy00NjcwLTRm/MTYtOTliYy01YzVl/ZWQwODQ2MjU1Nzhl/ZTM0MmMxZWMyM2E2/MDFfMjAyMSBEcnkg/Q3Vycnkgd2l0aCBQ/b3JrIFNwYXJlcmli/cyAmIEdyZWVuIEJh/bmFuYSBZYXkgUHVh/ZCBDaHVtcGhvbiBU/aGFpbGFuZC0yMTY4/LmpwZw.jpg)
 
-Tasman Fountain](https://www.atlasobscura.com/places/tasman-fountain)
+Yay Puad](https://www.atlasobscura.com/places/yay-puad)
 
-   [![Looking down Lake Como road at sunset](https://img.atlasobscura.com/32CSi_vSX8vqyp6BOe4fgnfHaIjT-fUrCODP4rcyBOw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81NGQw/MTY0OC1mMDJhLTRh/NDktYTY4ZC04NTEy/YTc4ZTI5M2E2ODc2/YTdjMjE3YjM3ZDc0/NTZfTGFrZSBDb21v/IHJvYWQuanBn.jpg)
+   [![](https://img.atlasobscura.com/MV2-jk50NEnnqQyvgdYZqxWR7i1x94vxDglarBj9fZc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85MmYx/MTlhZC1kOWFiLTRm/OWItOGU1MS0xNmNj/NmI4MzEwNzRlODY3/NzIzNjc1MDVlYThi/NDJfMy5KUEc.jpg)
 
-Lake Como Road](https://www.atlasobscura.com/places/lake-como-road)
+Suntrana Canyon](https://www.atlasobscura.com/places/suntrana-canyon-alaska)
 
-   [![](https://img.atlasobscura.com/PYhU4CqYh74Q3ZrBkG0ao8bevC8nVnBqq81Mt_oGEzg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82OGVk/ZGNjMy03ZDg5LTQw/MDQtODQ4My1iYzI2/OTQ3ODMzMDE3YWVm/NGZlOTIwY2EzYTFm/MzVfY29zeSAoNCku/anBn.jpg)
+   [![Trg 1. maja](https://img.atlasobscura.com/WtJbaBWDzEQ3p6GN2xx7NEkg4Q0inAy5UilRNRIyPNs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82ZDRl/OTY2ZS0wMTQxLTQw/NGUtYTBhNi0zZGRj/MzliYjcxNDRiNTEz/NDdkMThkZDU3OGRh/Y2RfSU1HXzg5MTUu/anBn.jpg)
 
-Costkea Way](https://www.atlasobscura.com/places/costkea-way)
+Trg 1 Maja](https://www.atlasobscura.com/places/trg-1-maja)
 
-   [![Cabin made of old railroad ties.](https://img.atlasobscura.com/N2hU3aHnLZF3CT4JmjXXR5yzuRJe7DRa2FB_euwyzyE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yYzAx/NTkxNi0zZjFhLTQ5/YWMtYmU1Ni1hNDZm/NjM0MWNhNTY4ZGE5/OTc4NDVlNTM1ZjVh/NzVfSU1HXzczMzgu/SlBH.jpg)
+   [![Ilulissat Icefjord](https://img.atlasobscura.com/R_kjqgmpPB4d0pHYYNU_oudXdo7M1gE4RVxUqlAZcuA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85ZTIx/ZjllMy05YzYzLTQy/OGUtYWE3Yi03Mzg5/NWE3NDY5NjM0ZmQ4/Y2QwYjg4MTc4ZjYw/NzNfSU1HXzY1NTQu/anBlZw.jpg)
 
-Palisade](https://www.atlasobscura.com/places/palisade-nevada)
+Ilulissat Icefjord Center](https://www.atlasobscura.com/places/ilulissat-icefjord-center)
 
 Latest Places to Eat & Drink
 
 [View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
 
+   [![Order the dry curry with pork spareribs and green banana.](https://img.atlasobscura.com/nt6pgEgQC-2MxCeQ16d3WNhZRrhb_0qg8tl2NjVnDww/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZmYw/MmQxNy00NjcwLTRm/MTYtOTliYy01YzVl/ZWQwODQ2MjU1Nzhl/ZTM0MmMxZWMyM2E2/MDFfMjAyMSBEcnkg/Q3Vycnkgd2l0aCBQ/b3JrIFNwYXJlcmli/cyAmIEdyZWVuIEJh/bmFuYSBZYXkgUHVh/ZCBDaHVtcGhvbiBU/aGFpbGFuZC0yMTY4/LmpwZw.jpg)
+
+Yay Puad](https://www.atlasobscura.com/places/yay-puad)
+
+   [![The name of this dish means "trader's rice" in Malay dialect.](https://img.atlasobscura.com/Yk520Om_vjbcHvDZnOUdMrtwgVmZV_TvPzajVBcza9k/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xYjQy/NTYxNmU2YjM2Nzk4/M2NfMjAyMCBUcmFk/ZXJzIFJpY2UgUGF0/dGFuaSBUaGFpbGFu/ZC0xMTA3LmpwZw.jpg)
+
+Nasi Dagae](https://www.atlasobscura.com/places/nasi-dagae)
+
+   [![Chicken is marinated in an umami-forward brine before being battered and deep-fried.](https://img.atlasobscura.com/37vjMAuubmiyYMHHY1fzIEnA22IVUvYQZKyfGlo3TNk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kYmFj/MmEzYjczNTM5NmVj/ZWNfMjAyMCBLYWkg/VGhhd3QgQmF0IEto/aXcgSGF0IFlhaSBU/aGEtNDk5My5qcGc.jpg)
+
+Kai Thawt Bat Khiw](https://www.atlasobscura.com/places/kai-thawt-bat-khiw)
+
+   [![Roast pork over rice makes, alongside congee, makes for a deeply southern Thai-Chinese breakfast.](https://img.atlasobscura.com/FI2Nwk4pLkKVZraSKpRhmjJCzcH5thnfYNoVKdNW1L4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNGVm/ZmIwMjU1Y2IyZGNl/N2NfMjAyMCBUcmFu/ZyBUaGFpbGFuZC05/OTcwLmpwZw.jpg)
+
+Sin Jiew](https://www.atlasobscura.com/places/sin-jiew)
+
    [![This tart, thin, turmeric-tinted broth packs a real punch.](https://img.atlasobscura.com/sQdXkSDspX0hNBLyGKM3PhmG8d4cb_ACHazy0bG5aT0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80ZTYw/MTk2YzFkZWE0YzY3/NjdfMjAyMCBBIFRh/cnQgU3BpY3kgU291/cCB3aXRoIFZlZ2V0/YWJsZXMgYW5kIEZp/c2ggVHVybWVyaWMg/TmFraG9uIFNpIFRo/YW1tYXJhdCBUaGFp/bGFuZC01OTA5Lmpw/Zw.jpg)
 
 Suwalee](https://www.atlasobscura.com/places/suwalee)
-
-   [![Crab meat and shrimp get pounded in a mortar and pestle with grated coconut, shrimp paste, chili and aromatics, smeared on the inside of a coconut shell and grilled until fragrant,](https://img.atlasobscura.com/fXqCz0EStPCeMJztcsrfyjBzF7XTSAILv5iQ6pNqstA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80ZGMy/YWEzNC1mOWY2LTRm/ZTgtODY4Yy1jYjk3/N2Q1NDAxMjRjZWZm/MGFlODRjMzE5NzE3/YzBfMjAyMCBDcmFi/IGFuZCBTaHJpbXAg/UGFzdGUgR3JpbGxl/ZCBpbiBhIENvY29u/dXQgU2hlbGwgS28g/U2FtdWkgU3VyYXQg/VGhhbmkgVGhhaWxh/bmQtNTQ4Ni5qcGc.jpg)
-
-Bangpor Seafood Takho](https://www.atlasobscura.com/places/bangpor-seafood-takho)
-
-   [![This rich, flavorful broth simmers for hours.](https://img.atlasobscura.com/Z25XepA6t0GMp5GJnMAZkPadfdYTgz3EPXGWAFlbK1M/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hZmFi/NzJmNS03NmIyLTRk/YTUtYTQwNC1iMmQ2/OGU1M2Q0NmIyNDQ0/NzY2NDhkYzQxZjEz/OThfMjAyMCBUaGFp/IE11c2xpbSBTdHls/ZSBPeHRhaWwgU291/cCBhbmQgT21lbGV0/IFBhdHRhbmkgVGhh/aWxhbmQtMTczNi5q/cGc.jpg)
-
-Maksu Soup Chormalee](https://www.atlasobscura.com/places/maksu-soup-chormalee)
-
-   [![Betong is especially famous for its chicken rice and this is one of the most popular places to get it.](https://img.atlasobscura.com/FD5BDRN07sE6wzyFLyd9xLp6dU8k1wLXdZMBaAXn99s/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zMTY0/YzFmZjZhYjg1ZDlk/NmNfMjAyMCBCZXRv/bmdDaGlja2VuUmlj/ZSBCZXRvbmcgWWFs/YSBUaC0wMTcwLmpw/Zw.jpg)
-
-Betong Chicken Rice](https://www.atlasobscura.com/places/betong-chicken-rice)
-
-   [![A plate of bouncy khanom jeen noodles gets topped with a fiery curry.](https://img.atlasobscura.com/RZuMUYWH3VHy4275kP45T__8C9qbW2qrG3qzGlWiZt8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yZTI3/YzkyN2M3ZjBlNjA3/MzZfMjAxOSBLaGFu/b21DaGluUGFNYWkg/UGh1a2V0IFRoYS0w/MDQyLmpwZw.jpg)
-
-Khanom Jeen Pa Mai](https://www.atlasobscura.com/places/khanom-jeen-pa-mai)
 
 Recent Stories
 
@@ -196,6 +196,10 @@ Recent Stories
 Most Recent Stories
 
 [View All Stories »](https://www.atlasobscura.com/articles)
+
+   [![Vanishing hitchhiker legends are just the latest version of a folktale that may go back millennia—and continues to spread and evolve.](https://img.atlasobscura.com/Rkm9Shz2gP4JrmGagTlT1sgWlSNhkW7PU5822KDGWro/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8xZmViMmQwZC05/MmRiLTQ5NzQtYTYx/ZS0wMzQ3ZWQ1N2Uw/ZWVmOWFiMTUxMjM1/ODNjZWQ1NmVfR2V0/dHlJbWFnZXMtMTI3/NzUzNDkwMS5qcGc.jpg)
+
+The Vanishing Hitchhiker Legend Is an Ancient Tale That Keeps Evolving](https://www.atlasobscura.com/articles/vanishing-hitchhiker-urban-legend)
 
    [![The Cù Sith, an otherworldly hound of Scottish folklore, and its Irish counterpart the Cù Sidhe are sometimes described as green, the color associated with magic—and misfortune.](https://img.atlasobscura.com/R1XIEnhy0jdjLtwdkpcsGQzPYi47F8pK11s9Dob3Wbw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jMmNkNTNiYi04/ZDBlLTQyMTAtYWVk/ZS1iODZmMjgwNGY1/M2JkZTY1NGY5ZGIw/Y2U1NmQxNGJfY3Ug/c2l0aCBGSU5BTC5q/cGc.jpg)
 
@@ -208,10 +212,6 @@ As Hurricane Milton Approaches, Communities Repair and Prepare](https://www.atla
    [![Bottles range from bourbon to whiskey to gin.](https://img.atlasobscura.com/EDzcINKLKb1GVwaDAC15qkwF1GD91d_MXnHO31lKxSI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iY2I3Nzk2ZThi/OGU0OWY4MWFfc3F1/YWRyb24gYm90dGxl/LmpwZWc.jpg)
 
 The Return of 'The Squadron Bottle,' a San Francisco Tradition](https://www.atlasobscura.com/articles/fleet-week-san-francisco-tradition)
-
-   [![Archival photo of the staircase inside Loretto Chapel.](https://img.atlasobscura.com/ntdsFHUZUyo3u9yXtBMHCZeQRDGRTAARztBkQ2XKzOs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8wOTFhMmI1OWU1/N2UzYjYzMjlfbGhj/MjFfQV9rX1NhbnRh/IEZlX091ciBMYWR5/IG9mIExpZ2h0IENo/YXBlbF8wMjEgKDMp/IGNvcHkuanBn.jpg)
-
-The Enduring Mystery of the Loretto Chapel Staircase](https://www.atlasobscura.com/articles/the-enduring-mystery-of-the-loretto-chapel-staircase)
 
 No search results found for  
 “”
