@@ -680,7 +680,7 @@ To send us an access and deletion request, or for questions, or further informat
 
 Version: 2023-06-02
 
-[](https://www.pirate101.com/autologin/free_game?jsessionid=CjODqKbrCMK1HdxVfHtLzBM0MltP2r5rQFts2%2Fo9QCqmVIwct%2BxGiWQmnmpFCwjbLf5m00T2kTIWp4XOM2GiNOoC06D5b0Kw6ESS73iPF8RVySeJVWLWY%2BTQGF9W1nYJ)
+[](https://www.pirate101.com/autologin/free_game?jsessionid=bcOPpGVYW%2BeaFIB2Hn0SYxVi%2BX%2Bnq1zC%2BSDEKxfTzl%2B0j3vTWPBIDQg5qGXVJVjp2K7kjN7PCl05SAgtcHF5RYpA%2FJQ7GioJFOhbH4PcAU5ZWH7ZCzDOSCSdw%2Fccr6vM)
 
 * [Free Online Games](https://www.wizard101.com/)
     * [Free to Play Wizard101](https://www.wizard101.com/)
