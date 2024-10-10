@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| LosersPost Malone Ft Jelly Roll<br><br>5:39pm |
-| KinfolksSam Hunt<br><br>5:35pm |
-| Going, Going, GoneLuke Combs<br><br>5:33pm |
-| Gettin You HomeChris Young<br><br>5:23pm |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>5:20pm |
+| Sounds Like The RadioZach Top<br><br>11:36pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>11:33pm |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>11:30pm |
+| I Am Not OkayJelly Roll<br><br>11:27pm |
+| Forever After AllLuke Combs<br><br>11:23pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,17 +499,17 @@ Featured Brands
 
 Top 40 • Pacific NW
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
