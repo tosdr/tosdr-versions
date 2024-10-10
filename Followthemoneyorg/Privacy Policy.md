@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Corrections Officers Benevolent Association](/assets/Images/teasers/small/COBAbyPartybyOffice.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-police-officers-benevolent-association/)
+[![2009-10 Ballot Ms](/assets/logos/2004-2010BallotMeasuresTotal.png)](http://www.followthemoney.org/research/institute-research/an-overview-of-campaign-finances-2009-2010-elections)
 
-Corrections Officers' Benevolent Association giving, by party.
+Ballot measures attract massive amounts of money.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
