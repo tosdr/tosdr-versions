@@ -260,9 +260,7 @@ This ILD Agreement may only be changed in the manner provided for in this sectio
 © FreedomPop. All rights reserved.
 
 * [Terms and Conditions](https://www.freedompop.com/terms_and_conditions)
-* [California Privacy Notice](https://privacy.freedompop.com/privacy-policy#california-privacy-notice)
-*  [![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://polaris.truevaultcdn.com/static/assets/icons/optout-icon-blue.svg) Your Privacy Choices](https://privacy.freedompop.com/opt-out)
-* [Privacy Statement](https://privacy.freedompop.com/privacy-policy)
+[California Privacy Notice](https://privacy.freedompop.com/privacy-policy#california-privacy-notice) [![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://polaris.truevaultcdn.com/static/assets/icons/optout-icon-blue.svg)Your Privacy Choices](https://privacy.freedompop.com/opt-out)* [Privacy Statement](https://privacy.freedompop.com/privacy-policy)
 * [Return Policy](https://www.freedompop.com/return-policy)
 * [HAC](https://www.freedompop.com/hac)
 * [Open Internet Statement](https://www.freedompop.com/openinternet)
