@@ -105,21 +105,21 @@ September 11, 2024
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 70 1
+0 79 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/cumin-and-shale-mythology-created-by-shayda/)
+[](https://yiff-party.com/yiff-gif/mascot-created-by-abigrock/)
 
-[cumin and shale (mythology) created by shayda](https://yiff-party.com/yiff/cumin-and-shale-mythology-created-by-shayda/)
+[mascot created by abigrock](https://yiff-party.com/yiff-gif/mascot-created-by-abigrock/)
 
-0 107 0
+0 104 0
 
 September 10, 2024
 
-[](https://yiff-party.com/yiff/rarity-friendship-is-magic-and-etc-created-by-fuwa-artist/)
+[](https://yiff-party.com/yiff/directed-by-durameno/)
 
-[rarity (friendship is magic and etc) created by fuwa (artist)](https://yiff-party.com/yiff/rarity-friendship-is-magic-and-etc-created-by-fuwa-artist/)
+[directed by durameno](https://yiff-party.com/yiff/directed-by-durameno/)
 
 0 2 0
 
