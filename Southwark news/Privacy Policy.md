@@ -19,6 +19,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Umana Yana owner, Debbie Monfries](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4937-e1728574270295-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
+    
+    ### [Exclusive: Council says it won’t remove huge telecom boxes blocking Caribbean restaurant](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
+    
+    [![Police and paramedics rushed to the scene on Quebec Way last month](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-and-paramedics-rushed-to-the-scene-on-Quebec-Way.--360x180.png)](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
+    
+    ### [Three teens arrested for Surrey Quays stabbing as police appeal for witnesses](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
+    
+    [![Southwark Council leader Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/06/Williams-K-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/a-new-wave-of-genuinely-affordable-homes-will-start-us-on-a-path-to-ending-the-housing-crisis-says-council-leader/)
+    
+    ### [‘A new wave of genuinely affordable homes will start us on a path to ending the housing crisis’ says council leader](https://southwarknews.co.uk/area/southwark/a-new-wave-of-genuinely-affordable-homes-will-start-us-on-a-path-to-ending-the-housing-crisis-says-council-leader/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
+    
+    ### [TfL should not ‘victim-blame’ says Mayor Khan after woman who lost arm and leg on the tube speaks out](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
+    
     [![Keir Starmer](https://southwarknews.co.uk/wp-content/uploads/2020/01/Keir-Starmer-e1579701553700.jpg)](https://southwarknews.co.uk/area/south-london/labour-council-demands-urgent-help-from-starmer-over-34-million-overspend/)
     
     ### [Labour council demands ‘urgent’ help from Starmer over £34 million overspend](https://southwarknews.co.uk/area/south-london/labour-council-demands-urgent-help-from-starmer-over-34-million-overspend/)
@@ -38,23 +54,6 @@
     [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/mayor-urges-londoners-to-donate-pre-loved-coats-shoes-and-blankets-to-their-local-baby-bank/)
     
     ### [Mayor urges Londoners to donate pre-loved coats, shoes and blankets to their local baby bank](https://southwarknews.co.uk/area/london/mayor-urges-londoners-to-donate-pre-loved-coats-shoes-and-blankets-to-their-local-baby-bank/)
-    
-    [![Place Ladywell has been on the site on Lewisham High Street since 2016. 
-    CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/Place-Ladywell-360x180.jpg)](https://southwarknews.co.uk/area/south-london/mum-of-two-says-shell-miss-her-home-in-pop-up-apartment-block-despite-problems/)
-    
-    ### [Mum-of-two says she’ll miss her home in pop-up apartment block despite problems](https://southwarknews.co.uk/area/south-london/mum-of-two-says-shell-miss-her-home-in-pop-up-apartment-block-despite-problems/)
-    
-    [![A row of properties in Bankside, SE1. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/26-Park-Street-left-most-house-Google-Streetview-360x180.jpg)](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
-    
-    ### [Where are the bargain houses and flats in Southwark?](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
-    
-    [![Lauren Akosia.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lauren-A-6-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
-    
-    ### [Peckham graduate lands role in new BBC drama ‘Mr Loverman’](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
-    
-    [![(credit: Theatre Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sickle-Cell_Supacell_Main-Clean_5x4_01-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
-    
-    ### [Netflix’s Supacell cast to take part in sickle cell awareness event in Peckham](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -100,6 +99,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Umana Yana owner, Debbie Monfries](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4937-e1728574270295-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
+    
+    ### [Exclusive: Council says it won’t remove huge telecom boxes blocking Caribbean restaurant](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
+    
+    [![Police and paramedics rushed to the scene on Quebec Way last month](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-and-paramedics-rushed-to-the-scene-on-Quebec-Way.--360x180.png)](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
+    
+    ### [Three teens arrested for Surrey Quays stabbing as police appeal for witnesses](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
+    
+    [![Southwark Council leader Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/06/Williams-K-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/a-new-wave-of-genuinely-affordable-homes-will-start-us-on-a-path-to-ending-the-housing-crisis-says-council-leader/)
+    
+    ### [‘A new wave of genuinely affordable homes will start us on a path to ending the housing crisis’ says council leader](https://southwarknews.co.uk/area/southwark/a-new-wave-of-genuinely-affordable-homes-will-start-us-on-a-path-to-ending-the-housing-crisis-says-council-leader/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
+    
+    ### [TfL should not ‘victim-blame’ says Mayor Khan after woman who lost arm and leg on the tube speaks out](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
+    
     [![Keir Starmer](https://southwarknews.co.uk/wp-content/uploads/2020/01/Keir-Starmer-e1579701553700.jpg)](https://southwarknews.co.uk/area/south-london/labour-council-demands-urgent-help-from-starmer-over-34-million-overspend/)
     
     ### [Labour council demands ‘urgent’ help from Starmer over £34 million overspend](https://southwarknews.co.uk/area/south-london/labour-council-demands-urgent-help-from-starmer-over-34-million-overspend/)
@@ -119,23 +134,6 @@ View All Result
     [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/07/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/mayor-urges-londoners-to-donate-pre-loved-coats-shoes-and-blankets-to-their-local-baby-bank/)
     
     ### [Mayor urges Londoners to donate pre-loved coats, shoes and blankets to their local baby bank](https://southwarknews.co.uk/area/london/mayor-urges-londoners-to-donate-pre-loved-coats-shoes-and-blankets-to-their-local-baby-bank/)
-    
-    [![Place Ladywell has been on the site on Lewisham High Street since 2016. 
-    CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/Place-Ladywell-360x180.jpg)](https://southwarknews.co.uk/area/south-london/mum-of-two-says-shell-miss-her-home-in-pop-up-apartment-block-despite-problems/)
-    
-    ### [Mum-of-two says she’ll miss her home in pop-up apartment block despite problems](https://southwarknews.co.uk/area/south-london/mum-of-two-says-shell-miss-her-home-in-pop-up-apartment-block-despite-problems/)
-    
-    [![A row of properties in Bankside, SE1. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/26-Park-Street-left-most-house-Google-Streetview-360x180.jpg)](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
-    
-    ### [Where are the bargain houses and flats in Southwark?](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
-    
-    [![Lauren Akosia.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lauren-A-6-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
-    
-    ### [Peckham graduate lands role in new BBC drama ‘Mr Loverman’](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
-    
-    [![(credit: Theatre Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sickle-Cell_Supacell_Main-Clean_5x4_01-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
-    
-    ### [Netflix’s Supacell cast to take part in sickle cell awareness event in Peckham](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -337,17 +335,17 @@ Website
 
 ### Popular Articles
 
-[![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
-
-### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
-
-[6th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
-
 [![Tanganga joined Millwall permanently in July. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-6272828-1-350x250-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
 
 ### [‘It’s one of the most beautiful atmospheres in England’ – Millwall defender on why he joined the Lions](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
 
 [9th October 2024](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
+
+[![It will host a variety of independent traders every Saturday and Sunday (photo: Ethan Wilkinson)](https://southwarknews.co.uk/wp-content/uploads/2024/10/pexels-ethanrwilkinson-3753488-120x86.jpeg)](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+
+### [New outdoor food market to start on weekends in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
+
+[6th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/new-outdoor-food-market-to-start-on-weekends-in-elephant-and-castle/)
 
 [![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
 
@@ -361,6 +359,12 @@ Website
 
 [8th October 2024](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
 
+[![An illustration of the development. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/gg-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
+
+### [Seventeen-storey apartment block approved on Rotherhithe roundabout](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
+
+[9th October 2024](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
+
 [![John Tullett said the planned controlled parking zone would put his garage on Rossendale Road, West Dulwich out of business on day one. 
 CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/garage-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
 
@@ -368,13 +372,25 @@ CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/gar
 
 [4th October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
 
-[![Connal Trueman in training. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/C-Trueman-426272-750x375-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
-
-### [Millwall goalkeeper heads out on emergency loan](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
-
-[7th October 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
-
 ### Featured Articles
+
+[![Umana Yana owner, Debbie Monfries](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4937-e1728574270295-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
+
+### [Exclusive: Council says it won’t remove huge telecom boxes blocking Caribbean restaurant](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
+
+[10th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
+
+[![Police and paramedics rushed to the scene on Quebec Way last month](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-and-paramedics-rushed-to-the-scene-on-Quebec-Way.--120x86.png)](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
+
+### [Three teens arrested for Surrey Quays stabbing as police appeal for witnesses](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
+
+[10th October 2024](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan.-Photo-by-Noah-Vickers-120x86.jpg)](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
+
+### [TfL should not ‘victim-blame’ says Mayor Khan after woman who lost arm and leg on the tube speaks out](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
+
+[10th October 2024](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
 
 [![An illustration of the development. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/gg-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
 
@@ -393,24 +409,6 @@ CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/gar
 ### [Peckham MP urged to ‘intervene’ in Southwark district heating crisis](https://southwarknews.co.uk/area/peckham/peckham-mp-urged-to-intervene-in-southwark-district-heating-crisis/)
 
 [9th October 2024](https://southwarknews.co.uk/area/peckham/peckham-mp-urged-to-intervene-in-southwark-district-heating-crisis/)
-
-[![A row of properties in Bankside, SE1. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/10/26-Park-Street-left-most-house-Google-Streetview-120x86.jpg)](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
-
-### [Where are the bargain houses and flats in Southwark?](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
-
-[9th October 2024](https://southwarknews.co.uk/area/southwark/where-are-the-bargain-houses-and-flats-in-southwark/)
-
-[![Lauren Akosia.](https://southwarknews.co.uk/wp-content/uploads/2024/10/Lauren-A-6-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
-
-### [Peckham graduate lands role in new BBC drama ‘Mr Loverman’](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
-
-[8th October 2024](https://southwarknews.co.uk/area/peckham/peckham-graduate-lands-role-in-new-bbc-drama-mr-loverman/)
-
-[![(credit: Theatre Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sickle-Cell_Supacell_Main-Clean_5x4_01-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
-
-### [Netflix’s Supacell cast to take part in sickle cell awareness event in Peckham](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
-
-[8th October 2024](https://southwarknews.co.uk/area/peckham/netflixs-supacell-cast-to-take-part-in-sickle-cell-awareness-event-in-peckham/)
 
 ### USEFUL PAGES
 
