@@ -8,7 +8,7 @@ Language English   Deutsch Français Spanish  Italiano 
 
 [**CLIENTAREA**](https://lowhosting.com/clientarea/?language=english)
 
-[Logo Link ![](assets/img/logo/logo.svg) ![](assets/img/logo/logo.svg)](https://lowhosting.com/index)  
+[Logo Link ![](assets/img/logo/h_logo.svg) ![](assets/img/logo/h_logo.svg)](https://lowhosting.com/index)  
 
 * [Home](https://lowhosting.com/index)
 * [Hosting](#)
@@ -80,7 +80,7 @@ Lowhosting Services of Davide Gennari below will be defined "Lowhosting", or tri
 * We recommend contacting us for assistance if you experience any issues receiving or using our products.
   
 
-![Footer Logo](assets/img/logo/logo.svg)  
+![Footer Logo](assets/img/logo/h_logo.svg)  
   
   
   
