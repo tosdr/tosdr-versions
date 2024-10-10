@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/geschiedenis/reincarnatie/21-juli-bijzondere-workshop-de-tranen-van-de-voorouders/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/big-pharma/hoe-betrouwbaar-de-gezondheidsraad-is-kijk-zelf/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
