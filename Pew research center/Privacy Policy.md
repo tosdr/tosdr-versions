@@ -87,6 +87,7 @@ Search
     * [Tools & Resources](https://www.pewresearch.org/tools-and-resources/)
     * [About Pew Research Center](https://www.pewresearch.org/about/)
     * [Newsletters](https://www.pewresearch.org/newsletters/)
+    * [Press](https://www.pewresearch.org/about/press/)
     * [My Account](https://www.pewresearch.org/profile/)
     * [Contacted By Us?](https://www.pewresearch.org/contactedbyus/)
     
@@ -239,6 +240,7 @@ Email: info@pewresearch.org
 * [Our Funding](https://www.pewresearch.org/about/our-funding/)
 * [Our Partnerships](https://www.pewresearch.org/about/partnerships/)
 * [Support Pew Research Center](https://www.pewresearch.org/about/support-pew-research-center/)
+* [Contact Us](https://www.pewresearch.org/about/contact/)
 * [Terms of Use](https://www.pewresearch.org/about/terms-and-conditions/)
 * [Privacy Policy](https://www.pewresearch.org/about/privacy-policy/)
 * [Cookie Policy](https://www.pewresearch.org/about/cookie-policy/)
@@ -302,3 +304,4 @@ USA
 * [Cookie Settings](https://www.pewresearch.org/)
 * [Feedback](https://www.pewresearch.org/contact-form/)
 * [Careers](https://www.pewresearch.org/about/careers/)
+* [Contact Us](https://www.pewresearch.org/about/contact/)
