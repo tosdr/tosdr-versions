@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-18dba4656bd5ecab0643395140409fdb
+c2f644ff51471d7260bedacda7718e15
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Faux coral clasp](https://www.sojourner.biz/images/cache/SKU0308-1front.200.jpg)](https://www.sojourner.biz/clasps/faux-stone/faux-coral-clasp.html "Faux coral clasp")
+[![9 mm by 8 mm glass chevrons](https://www.sojourner.biz/images/cache/glass/VB0037.200.jpg)](https://www.sojourner.biz/beads/glass/9-mm-by-8-mm-glass-chevrons.html "9 mm by 8 mm glass chevrons")
 
-#### [Faux coral clasp](https://www.sojourner.biz/clasps/faux-stone/faux-coral-clasp.html "Faux coral clasp")
+#### [9 mm by 8 mm glass chevrons](https://www.sojourner.biz/beads/glass/9-mm-by-8-mm-glass-chevrons.html "9 mm by 8 mm glass chevrons")
 
-$45.00
+$6.00
 
 ### Best Sellers
 
