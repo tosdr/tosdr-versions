@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Blackberry Smoke Enlists George Jones &...](https://classiccountrymusic.com/blackberry-smoke-enlists-george-jones-jamey-johnson-for-yesterdays-wine/)
+* [Lisa Marie Presley’s Daughter Would Find...](https://classiccountrymusic.com/lisa-marie-presleys-daughter-would-find-her-crying-on-the-floor-listening-to-elvis-music/)
 * [Blake Shelton Just Tied A Billboard...](https://classiccountrymusic.com/blake-shelton-just-tied-a-billboard-chart-record-held-by-tim-mcgraw/)
-* [Riley Keough Says Her Mom, Lisa...](https://classiccountrymusic.com/riley-keough-says-her-mom-lisa-marie-presley-knew-something-was-wrong-before-elvis-died/)
-* [Flashback: “Forever Country” Released To Honor...](https://classiccountrymusic.com/flashback-forever-country-released-to-honor-50-years-of-cma-history/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
