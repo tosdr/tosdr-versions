@@ -151,7 +151,7 @@ This is a list of the third parties ("sub-processors") that we use:
 Cookies
 -------
 
-For a list of the cookies we use, see our cookie policy. Please note that if you set your browser to disable or reject cookies, parts of the website may not be accessible or function properly.
+For a list of the cookies we use, see the [list](#cookies) at the bottom of this page. Please note that if you set your browser to disable or reject cookies, parts of the website may not be accessible or function properly.
 
 Security
 --------
@@ -219,36 +219,21 @@ Cookies are very small text files that are stored in your browser by the website
 
 Cookies can be used to identify you to a website, to help it remember your preferences or to track your usage of the website so that the people who run it can give you a better service.
 
-If you would like to know how to control or delete cookies, or just to learn more about them, you can visit [http://www.aboutcookies.org](http://www.aboutcookies.org/)
+How widgit.com uses cookies
+---------------------------
 
-How Widgit uses cookies
------------------------
+The Widgit website uses a number of cookies, which are described below.
 
-The Widgit website uses a number of cookies which are described below.
+| Cookie | Owner | Duration | Description |
+| --- | --- | --- | --- |
+| AWSALBTG | widgit.com | 7 days | Load balancing |
+| AWSALBTGCORS | widgit.com | 7 days | Load balancing |
+| currency | widgit.com | 30 days | Currency preferences |
+| customer | widgit.com | Browser session | Customer login session |
+| language | widgit.com | 30 days | Language preferences |
+| OCSESSID | widgit.com | Browser session | Visitor session |
+| point\_enabled | widgit.com | 90 days | Widgit uses '[Point](https://www.widgit.com/products/point/index.htm)' to support the text on our web pages. Point is on by default. If you turn 'Point' on or off then it will use a cookie to remember your choice. |
 
-We use cookies to ensure that the website does the things that you would expect it to do and to help us determine how best to promote our products and services.
+  
 
-**widgit.com** - _PHPSESSID_, _language_, _currency_ and _customer_  
-We use cookies to identify you when you log into our website to use the shop. Without the cookies, our website would still be able to remember what was in your shopping basket, but it wouldn't know that the shopping basket was yours.
-
-**widgit.com** - _point\_enabled_  
-Widgit uses '[Point](https://www.widgit.com/products/point/index.htm)' to support the text on our web pages. If you turn 'Point' on or off then it will use a cookie to remember your choice.
-
-**widgit.com** - _\_cfduid_  
-Cloudflare provides security and performance tools used by widgit.com.
-
-**widgit.com** - 'Flash' cookies  
-The Flash video player on our website uses a cookie to save your volume preferences.
-
-**addsearch.com** - _suid_  
-AddSearch provides the search used on widgit.com and uses a cookie to help remember your previous searches and search preferences.
-
-**facebook.com** - _fr_  
-The Widgit website uses Facebook Pixel to collect anonymised statistics that help us decide how to advertise on social media.
-
-Facebook's usage and sharing of the information they collect is described by their [Cookie Policy](https://www.facebook.com/policies/cookies/) and the [Privacy](https://www.facebook.com/privacy/explanation) section of their website.
-
-**hotjar.com** - _\_hjid_  
-The Widgit website uses HotJar to collect anonymised reports that help us decide how to layout our website.
-
-You can visit the Hotjar website for a [full list of the cookies](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookies) that might be set by Hotjar. You can also [opt out](https://www.hotjar.com/legal/compliance/opt-out/) of all processing by Hotjar.
+The Widgit website also uses the "ZenDesk Web Widgit" to enable visitors to chat to our support team, and YouTube for embedded videos.
