@@ -1,5 +1,3 @@
-[Skip to content](#main-content)
-
 [![OpenZeppelin](https://www.openzeppelin.com/hubfs/oz-nav.svg)](https://openzeppelin.com/) [![OpenZeppelin](https://www.openzeppelin.com/hubfs/oz-logo-white.svg)](https://openzeppelin.com/)
 
 * [Products](#)
