@@ -252,7 +252,7 @@ The report button and the webform are the most efficient means of reporting poss
 * a statement by you that the information in your notice is accurate and that you are authorized to act on behalf of the owner of the exclusive right that is allegedly infringed;
     
 
-If you wish for your notice to be considered as a notice pursuant to the United States Digital Millennium Copyright Act 17 U.S.C. §512(c), your notice should be sent to SoundCloud’s designated copyright agent by email to copyrightagent@soundcloud.com and/or by mail to SoundCloud Operations, Inc. 71 5th Avenue, 3rd Floor New York, NY 10003 Attn: Copyright Agent  and should also include the following:
+If you wish for your notice to be considered as a notice pursuant to the United States Digital Millennium Copyright Act 17 U.S.C. §512(c), your notice should be sent to SoundCloud’s designated copyright agent by email to copyrightagent@soundcloud.com and/or by mail to SoundCloud Inc., 2 Gansevoort St, 6th Floor, New York, New York 10014 Attn: Copyright Agent and should also include the following:
 
 * with respect to your statement that you are authorized to act on behalf of the owner of the exclusive right that is allegedly infringed, confirmation that such statement is made under penalty of perjury; and
     
