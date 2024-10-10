@@ -189,7 +189,7 @@ View →](https://seesaw.com/website-privacy-policy/)
 Seesaw
 
 * [Contact](https://seesaw.com/contact-us/)
-* [Careers](https://boards.greenhouse.io/seesaw)
+* [Join Our Team](https://seesaw.com/join-our-team/)
 * [Partnerships](https://seesaw.com/partnerships/)
 
 Tech Resources
