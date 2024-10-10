@@ -205,28 +205,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Milliarden-Deal — dieser Scheich plant Einstieg bei Sport-TV-Sender DAZN
-
-Milliarden-Deal — dieser Scheich plant Einstieg bei Sport-TV-Sender DAZN
-
-Milliarden-Deal — dieser Scheich plant Einstieg bei Sport-TV-Sender DAZN
-
-Milliarden-Deal — dieser Scheich plant Einstieg bei Sport-TV-Sender DAZN
-
-Milliarden-Deal — dieser Scheich plant Einstieg bei Sport-TV-Sender DAZN
-
-Milliarden-Deal — dieser Scheich plant Einstieg bei Sport-TV-Sender DAZN
-
-Milliarden-Deal — dieser Scheich plant Einstieg bei Sport-TV-Sender DAZN
-
-Milliarden-Deal — dieser Scheich plant Einstieg bei Sport-TV-Sender DAZN
-
-Milliarden-Deal — dieser Scheich plant Einstieg bei Sport-TV-Sender DAZN
-
-Milliarden-Deal — dieser Scheich plant Einstieg bei Sport-TV-Sender DAZN](https://www.bild.de/sport/fussball/milliarden-deal-blut-scheich-plant-einstieg-bei-dazn-670792552a748979b746e091)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
