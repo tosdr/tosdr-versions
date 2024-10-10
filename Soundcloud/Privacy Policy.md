@@ -55,7 +55,7 @@ With regard to data processing within the framework of SoundCloud’s internal a
 
 In the event SoundCloud does not act as a joint controller, the sole controller, as given the meaning by data protection legislation, is either:
 
-* If you are located in the United States, SoundCloud Inc., 71 5th Avenue, 3rd Floor, New York 10003, NY, USA, [dataprotection@soundcloud.com](mailto:dataprotection@soundcloud.com),
+* If you are located in the United States, SoundCloud Inc., 2 Gansevoort St, 6th Floor, New York, New York 10014, [dataprotection@soundcloud.com](mailto:dataprotection@soundcloud.com),
     
 * or if you are located outside of the United States, SoundCloud Global Limited & Co. KG, Rheinsberger Str. 76/77, 10115 Berlin, Germany, [dataprotection@soundcloud.com](mailto:dataprotection@soundcloud.com),
     
