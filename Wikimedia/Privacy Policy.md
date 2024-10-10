@@ -212,7 +212,7 @@ Other languages:
 * [Basa Banyumasan](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/map-bms "Policy:Privacy policy/map-bms (9% translated)")
 * [British English](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/en-gb "Policy:Privacy policy/en-gb (62% translated)")
 * [Canadian English](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/en-ca "Policy:Privacy policy/en-ca (62% translated)")
-* [Cebuano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ceb "Policy:Privacy policy/ceb (7% translated)")
+* [Cebuano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ceb "Policy:Privacy policy/ceb (8% translated)")
 * [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/cy "Policy:Privacy policy/cy (1% translated)")
 * [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de "Policy:Privacy policy/de (100% translated)")
 * [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de-formal "Policy:Privacy policy/de-formal (46% translated)")
