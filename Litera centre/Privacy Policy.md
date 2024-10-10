@@ -238,8 +238,8 @@ We bring you a world-class international (both Indian and expat) team of highly 
 
 ### Have Questions ?
 
-* [011-43632823](tel:011-43632823)
-* [+918505898888](tel:+919871160718)
+* [+919871160718](tel:+919871160718)
+* [+918505898888](tel:+918505898888)
 * [info@literacentre.com](mailto:info@literacentre.com?subject=feedback)
 * [Noida, UP India](https://www.google.com/maps/place/Litera+Centre/@28.5672715,77.2469296,18.75z/data=!4m5!3m4!1s0x390ce3e7e2d2d0d3:0xec391d428c4e8eba!8m2!3d28.5672827!4d77.246982?shorturl=1)
 
