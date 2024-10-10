@@ -79,11 +79,11 @@ We got you covered!
 
 [Brand guidelines](https://algolia.frontify.com/)[Download logo pack](https://www.algolia.com/algolia-logo-pack.zip)
 
-[Algolia DevCon:
+[Now streaming:
 
-Understanding the spectrum of search. Oct 2-3, 2024, virtual.
+Watch the replays from DevCon 2024 🍿
 
-Learn more](https://www.algolia.com/devcon/?utm_source=site)
+Learn more](https://www.algolia.com/devcon/)
 
 * [Company](https://www.algolia.com/about/)
 * [Partners](https://partners.algolia.com/)
