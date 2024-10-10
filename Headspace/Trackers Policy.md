@@ -1,10 +1,10 @@
-[![Headspace logo](/static/images/logo.svg)](https://www.headspace.com/)
+[![Headspace logo](/static/images/logo.svg)](https://www.headspace.com/fr/)
 
-[The Science](https://www.headspace.com/science)[Blog](https://www.headspace.com/articles/all-articles)[For work](https://www.headspace.com/work)[How to meditate](https://www.headspace.com/meditation-101/what-is-meditation)[Help](https://help.headspace.com/hc/en-us)
+[La Science](https://www.headspace.com/fr/science)[Pour le travail](https://www.headspace.com/fr/work)[Comment méditer](https://www.headspace.com/fr/meditation-101/what-is-meditation)[Aide](https://help.headspace.com/hc/fr)
 
-[Log In](https://www.headspace.com/login)[Start free trial](https://www.headspace.com/subscriptions)
+[Se connecter](https://www.headspace.com/login)[Débuter mon essai gratuit](https://www.headspace.com/fr/subscriptions)
 
-[![Headspace logo](/static/images/logo.svg)](https://www.headspace.com/)
+[![Headspace logo](/static/images/logo.svg)](https://www.headspace.com/fr/)
 
 Cookie Policy
 =============
@@ -56,34 +56,30 @@ Cookie Settings
 
 [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=e9311922-540e-4e17-8435-7e47b0e79120)](https://privacy.truste.com/privacy-seal/validation?rid=e9311922-540e-4e17-8435-7e47b0e79120)
 
-GET SOME HEADSPACE
+DÉCOUVREZ HEADSPACE
 
-[SUBSCRIBE](https://www.headspace.com/subscriptions)[REDEEM A CODE](https://www.headspace.com/code)[STUDENT PLAN](https://www.headspace.com/studentplan)[SEND A GIFT](https://www.headspace.com/buy/gift)[GUIDED MEDITATION](https://www.headspace.com/meditation/guided-meditation)[MEDITATION FOR WORK](https://www.headspace.com/work)[MEDITATION FOR KIDS](https://www.headspace.com/meditation/kids)[MEDITATION ON SLEEP](https://www.headspace.com/meditation/sleep)[MEDITATION ON FOCUS](https://www.headspace.com/meditation/focus)[MEDITATION ON STRESS](https://www.headspace.com/meditation/stress)[MEDITATION ON ANXIETY](https://www.headspace.com/meditation/anxiety)
+[ABONNEZ-VOUS](https://www.headspace.com/fr/subscriptions)[UTILISER UN CODE](https://www.headspace.com/fr/code)[PLAN ESTUDIANTIL](https://www.headspace.com/fr/studentplan)[OFFRIR UN CADEAU](https://www.headspace.com/fr/buy/gift)[MÉDITATION GUIDÉE](https://www.headspace.com/fr/meditation/guided-meditation)[MÉDITATION AU TRAVAIL](https://www.headspace.com/fr/work)[MÉDITATION POUR LES ENFANTS](https://www.headspace.com/fr/meditation/kids)[MÉDITATION POUR LE SOMMEIL](https://www.headspace.com/fr/meditation/sleep)[MÉDITATION POUR LA CONCENTRATION](https://www.headspace.com/fr/meditation/focus)[MÉDITATION CONTRE LE STRESS](https://www.headspace.com/fr/meditation/stress)[MÉDITATION CONTRE L’ANXIÉTÉ](https://www.headspace.com/fr/meditation/anxiety)
 
-OUR COMMUNITY
+QUI SOMMES-NOUS
 
-[BLOG](https://www.headspace.com/articles/all-articles)[JOIN OUR FB GROUPS](https://www.facebook.com/pg/Headspace/groups/)
+[À PROPOS DE HEADSPACE](https://www.headspace.com/fr/about-us)[À PROPOS D’ANDY PUDDICOMBE](https://www.headspace.com/fr/andy-puddicombe)[LES LIVRES D’ANDY](https://www.headspace.com/fr/headspace-meditation-books)[PRESSE & MÉDIAS](https://www.headspace.com/fr/press-and-media)[OFFRES D’EMPLOI](https://www.headspace.com/fr/join-us)[PLAN DU SITE](https://www.headspace.com/fr/sitemap.xml)
 
-ABOUT US
+ASSISTANCE
 
-[ABOUT HEADSPACE](https://www.headspace.com/about-us)[ABOUT ANDY PUDDICOMBE](https://www.headspace.com/andy-puddicombe)[ANDY'S BOOKS](https://www.headspace.com/headspace-meditation-books)[PRESS & MEDIA](https://www.headspace.com/press-and-media)[CAREERS](https://www.headspace.com/join-us)[SITE MAP](https://www.headspace.com/sitemap.xml)
+[CENTRE D’AIDE](https://help.headspace.com/hc/fr)[CONTACTEZ-NOUS](https://www.headspace.com/fr/contact-us)
 
-SUPPORT
+PARTENARIATS
 
-[HELP CENTER](https://help.headspace.com/hc/en-us)[CONTACT US](https://www.headspace.com/contact-us)
+[PARTENAIRES DE RECHERCHE](https://www.headspace.com/fr/science/meditation-research)[MARQUES PARTENAIRES](https://www.headspace.com/fr/partners)[PHILANTHROPIE](https://www.headspace.com/fr/philanthropy)
 
-PARTNERSHIPS
+TÉLÉCHARGER L’APPLICATION
 
-[RESEARCH PARTNERS](https://www.headspace.com/science/meditation-research)[BRAND PARTNERS](https://www.headspace.com/partners)[PHILANTHROPY](https://www.headspace.com/philanthropy)[PARTNERSHIP REQUEST](https://get.headspace.com/partnerships)
+[![Headspace app on the App store](data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://headspace.app.link/bylphAMin7)[![Headspace app on the Google Play store](data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://headspace.app.link/bylphAMin7)
 
-GET THE APP
+[](https://www.instagram.com/headspace.fr/)[](https://twitter.com/Headspace)[](https://www.facebook.com/Headspace)[](https://www.youtube.com/user/Getsomeheadspace)[](https://www.linkedin.com/company/headspace-meditation-limited)
 
-[![Headspace app on the App store](data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://headspace.app.link/W6p05DVCe7)[![Headspace app on the Google Play store](data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)](https://headspace.app.link/W6p05DVCe7)
-
-[](https://www.instagram.com/headspace/)[](https://twitter.com/Headspace)[](https://www.facebook.com/Headspace)[](https://www.youtube.com/user/Getsomeheadspace)[](https://www.linkedin.com/company/headspace-meditation-limited)
-
-© 2024 HEADSPACE INC.[TERMS & CONDITIONS](https://www.headspace.com/terms-and-conditions)[PRIVACY POLICY](https://www.headspace.com/privacy-policy)[COOKIE POLICY](https://www.headspace.com/cookie-policy)[SECURITY](https://www.headspace.com/security)[CONSUMER HEALTH DATA](https://www.headspace.com/consumer-health-data)YOUR PRIVACY CHOICES
+© 2024 HEADSPACE INC.[CONDITIONS GÉNÉRALES](https://www.headspace.com/fr/terms-and-conditions)[POLITIQUE DE CONFIDENTIALITÉ](https://www.headspace.com/fr/privacy-policy)[POLITIQUE EN MATIÈRE DE COOKIES](https://www.headspace.com/fr/cookie-policy)VOS CHOIX EN CONFIDENTIALITÉ
 
 ![footer.ccpa](data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=)
 
-[CA CCPA NOTICE](https://www.headspace.com/privacy-policy#10b)
+[AVIS CCPA DE CA](https://www.headspace.com/fr/privacy-policy#10b)
