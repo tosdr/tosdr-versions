@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled shot of half-assembled enclosure with microcontroller.](https://cdn-shop.adafruit.com/230x173/6057-04.jpg)[Snap-on Enclosure for Adafruit Feather RP2040 USB Host
+    
+    $4.50](https://www.adafruit.com/product/6057)
+    
     ![Angled shot of black microSD card.](https://cdn-shop.adafruit.com/230x173/6011-00.jpg)[Official Raspberry Pi A2-Class microSD Card - 64GB Blank
     
     $11.95](https://www.adafruit.com/product/6011)
@@ -86,10 +90,6 @@ Search
     ![Two piece adjustable soldering iron with blobby temperature adjustable body and separate fancy holder](https://cdn-shop.adafruit.com/230x173/1204-03.jpg)[Digital Genuine Hakko FX888DX-010SV (936 upgrade)
     
     $129.95](https://www.adafruit.com/product/1204)
-    
-    ![Angled Shot of the Adafruit I2S Stereo Decoder - UDA1334A Breakout.](https://cdn-shop.adafruit.com/230x173/3678-05.jpg)[Adafruit I2S Stereo Decoder - UDA1334A Breakout
-    
-    $6.95](https://www.adafruit.com/product/3678)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ ... when you see something that is not right, not fair, not just, say something, do something. Get in trouble, good trouble, necessary trouble”
+“ It is not enough to have a good mind; the main thing is to use it well”
 
-[John Lewis](https://en.wikipedia.org/wiki/John_Lewis_(civil_rights_leader))
+[Rene Descartes](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 
 [](https://www.adafruit.com/about)
 
