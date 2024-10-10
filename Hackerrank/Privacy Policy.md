@@ -1,10 +1,8 @@
 [Skip to content](#main)
 
-Attend the AI Skills Tech & Talent Summit at The Plaza, New York City. [Express interest](https://www.hackerrank.com/resources/ai-skills-tech-talent-summit-2024?utm_campaign=nyc-event-2024&utm_source=banner&utm_medium=web)
+69% of tech leaders are preparing their teams for GenAI. Uncover more insights in the AI Skills Report. [Read now](https://www.hackerrank.com/research/ai-skills-report/2024?utm_campaign=ai-skills-2024&utm_source=web-promo-popup&utm_medium=web)
 
-The 2024 Developer Skills Report is here! [Read now](https://www.hackerrank.com/research/developer-skills/2024?utm_campaign=dev-skills-2024&utm_source=web-promo-popup&utm_medium=web)
-
-Discover the universities with top developer talent. Based on 860,000 student technical assessments. [Download Now](https://www.hackerrank.com/lp/university-tech-talent-infographic?utm_campaign=university-hiring-infographic-2024&utm_source=banner&utm_medium=web)
+Discover the universities with top developer talent. Based on 860,000 student technical assessments. [Download now](https://www.hackerrank.com/lp/university-tech-talent-infographic?utm_campaign=university-hiring-infographic-2024&utm_source=banner&utm_medium=web)
 
 [](# "Previous Notification")[](# "Next Notification")
 
@@ -88,9 +86,9 @@ Discover the universities with top developer talent. Based on 860,000 student te
             
             How leading companies use HackerRank.
             
-        * [Developer Skills Report](https://www.hackerrank.com/research/developer-skills/2024)
+        * [2024 AI Skills Report](https://www.hackerrank.com/research/ai-skills-report/2024)
             
-            Key trends and forecasts for 2024.
+            Research and insights on the state of AI skills.
             
         
     * Product Help
