@@ -166,6 +166,58 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Astronomy
+
+[![](/i/Main%20Stage%20-%201400x1050/Supernova_Scripture_1400x1050.jpg)](https://www.icr.org/article/a-supernova-and-the-scripture)
+
+[A Supernova and the Scripture](https://www.icr.org/article/a-supernova-and-the-scripture/)
+
+Well, there goes another star, disappearing into the night as if it had never existed. For an entire year, Hubble scientists used the space telescope to...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/wide/pillars_of_creation_wide.jpg)](https://www.icr.org/article/hubble-pillars-creation-revisited)
+
+[The Hubble 'Pillars of Creation' Revisited](https://www.icr.org/article/hubble-pillars-creation-revisited/)
+
+In 1995 the Hubble Telescope photographed spectacular columns of gas, illuminated by nearby stars, in a section of the Eagle Nebula.1 The...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/First_Stars_Missing_1400x1050.jpg)](https://www.icr.org/article/universe-first-stars-are-missing)
+
+[Universe’s "First" Stars Are Missing?](https://www.icr.org/article/universe-first-stars-are-missing/)
+
+A recent attempt by European astronomers to use the Hubble Space Telescope to find evidence for the first stars expected by secular theory has failed....
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+More Impact
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/traitvariations_1400x1050.jpg)](https://www.icr.org/article/trait-variation-engineered-alleles)
+
+[Trait Variation: Engineered Alleles, Yes! Random Mutati.,.](https://www.icr.org/article/trait-variation-engineered-alleles/)
+
+Our world is dynamic, offering changes and challenges to its living residents. Plant and animal trait variations can help them adapt to certain settings....
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/fossils_still_say_no_pleistocene_1400x1050.jpg)](https://www.icr.org/article/the-fossils-still-say-no-providential-pleistocene)
+
+[The Fossils Still Say No: The Post-Flood Providential P.,.](https://www.icr.org/article/the-fossils-still-say-no-providential-pleistocene/)
+
+In the previous article in this series, I explained how the final rock layers were laid down in the global Flood as the newly separated continents and...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/capping_cretaceous.jpg)](https://www.icr.org/article/the-fossils-still-say-no-cretaceous-conundrum)
+
+[The Fossils Still Say No: Capping a Cretaceous Conundrum](https://www.icr.org/article/the-fossils-still-say-no-cretaceous-conundrum/)
+
+The Cretaceous system of the geologic column, like the other systems below it, is a conundrum to evolutionists because it represents a continuance of...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
