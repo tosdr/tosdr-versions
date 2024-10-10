@@ -263,7 +263,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Have you witnessed elderly abuse?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-have-you-witnessed-elderly-abuse-scaled-1.jpg "Have You Witnessed Elderly Abuse?")](https://www.pintas.com/faq/have-you-witnessed-elderly-abuse/ "Have You Witnessed Elderly Abuse?")
+[![How quickly does mesothelioma spread?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-quickly-does-mesothelioma-spread.jpg "How Quickly Does Mesothelioma Spread?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-quickly-does-mesothelioma-spread/ "How Quickly Does Mesothelioma Spread?")
 
-[#### Have You Witnessed Elderly Abuse?](https://www.pintas.com/faq/have-you-witnessed-elderly-abuse/)
+[#### How Quickly Does Mesothelioma Spread?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-quickly-does-mesothelioma-spread/)
 
-[![What causes scabies in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-scabies-what-causes-scabies-in-nursing-homes.jpg "What Causes Scabies in Nursing Homes?")](https://www.pintas.com/faq/what-causes-scabies-in-nursing-homes/ "What Causes Scabies in Nursing Homes?")
+[![What is the average compensation for asbestosis?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-the-average-compensation-for-asbestosis.jpg "What Is the Average Compensation for Asbestosis?")](https://www.pintas.com/practice-areas/lung-cancer/average-asbestosis-settlement "What Is the Average Compensation for Asbestosis?")
 
-[#### What Causes Scabies in Nursing Homes?](https://www.pintas.com/faq/what-causes-scabies-in-nursing-homes/)
+[#### What Is the Average Compensation for Asbestosis?](https://www.pintas.com/practice-areas/lung-cancer/average-asbestosis-settlement)
 
-[![How to find the best attorney for elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-to-find-the-best-attorney-for-elder-abuse-lawyer-scaled.jpg "How to Find the Best Attorney for Elder Abuse?")](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/ "How to Find the Best Attorney for Elder Abuse?")
+[![How do you know if you have been exposed to asbestos?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-lawyer-how-do-you-know-if-you-have-been-exposed-to-asbestos.jpg "How Do You Know if You Have Been Exposed to Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-you-have-been-exposed-to-asbestos/ "How Do You Know if You Have Been Exposed to Asbestos?")
 
-[#### How to Find the Best Attorney for Elder Abuse?](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/)
+[#### How Do You Know if You Have Been Exposed to Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/how-do-you-know-if-you-have-been-exposed-to-asbestos/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
