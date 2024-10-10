@@ -31,6 +31,284 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Premio Nobel de Literatura 2024 es para la surcoreana Han Kang
+==============================================================
+
+La academia considera que la obra de Han Kang se caracteriza por una doble exposición del sufrimiento y por sus conexiones con el pensamiento oriental.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Fotografía de archivo (08/09/2023), de la escritora surcoreana Han Kang, que es la ganadora del Premio Nobel de Literatura 2024 "por su intensa prosa poética que se enfrenta a traumas históricos y expone la fragilidad de la vida humana", según comunicó este jueves la Academia Sueca.](https://www.elcomercio.com/wp-content/uploads/2024/10/Nobel-de-Literatura.jpg)
+
+La **escritora surcoreana Han Kang** fue distinguida este jueves con el **Premio Nobel de Literatura** 2024\. Esto como reconocimiento “por su intensa prosa poética que se enfrenta a traumas históricos y expone la fragilidad de la vida humana”, comunicó este jueves la Academia Sueca.
+
+### Más noticias
+
+* [Nobel de Física, para Hopfield y Hinton por contribución a la IA](https://www.elcomercio.com/tendencias/ciencia/nobel-de-fisica-para-hopfield-y-hinton-por-contribucion-a-ia.html "Nobel de Física, para Hopfield y Hinton por contribución a la IA")
+* [Nobel de Química por revelar códigos de proteínas mediante inteligencia artificial](https://www.elcomercio.com/actualidad/nobel-de-quimica-por-revelar-codigos-de-proteinas-mediante-inteligencia-artificial-2.html "Nobel de Química por revelar códigos de proteínas mediante inteligencia artificial")
+* [Netflix revela la fecha de estreno de la serie ‘Cien años de soledad’](https://www.elcomercio.com/tendencias/netflix-estreno-cien-anos-de-soledad.html "Netflix revela la fecha de estreno de la serie ‘Cien años de soledad’")
+
+El trabajo de Han Kang
+----------------------
+
+La academia considera que la **obra de Han Kang** se caracteriza por una doble exposición del sufrimiento -como tormento mental y físico- y por sus conexiones con el pensamiento oriental.
+
+Hang Kang nació en 1970 en Gwanju, pero se trasladó **con su familia a Seúl** a los 11 años. Se graduó en literatura coreana y, aunque debutó como poeta, se hizo conocida ante todo como narradora.
+
+En 1994 ganó, **con su narración ‘Vela roja**‘, el premio del diario Seouk Shinmun y a partir de ese momento publicó varios libros con narraciones.
+
+La fama internacional le llegó en 2016 con el **Premio Booker** por la novela **‘La Vegetariana’**. Una historia que entrelaza lo exquisito y lo inquietante y que está **ambientada en el Seúl** actual, donde una mujer decide dejar de comer carne desatando una tormenta en el seno familiar y su entorno.
+
+La novela se publicó originalmente en Corea del Sur en 2007, pero no la vieron con buenos ojos en su país. Luego de su publicación en **Estados Unidos y Reino Unido**, fue recibida con entusiasmo por la crítica local.
+
+A pesar de su popularidad dentro y fuera de su país natal, la autora también ha sufrido bloqueos literarios. Antes de su quinta novela, ‘La clase de griego’, dejó de escribir y de leer ficción durante un año, en una especie de silencio forzoso y experimento que quedó reflejado en dicha obra.
+
+Otra de sus novelas, ‘Blanco’ también estuvo entre las candidatas al mismo galardón y ‘Obra humana’ obtuvo el **Premio Malaparte e**n Italia.
+
+En ‘La Vegetariana’ el personaje central, **un ama de casa coreana,** empieza por convertirse en vegetariana, luego trata de eliminar todos los productos animales de su vida y termina por soñar con una vida como planta.
+
+El premio de Literatura, como el **resto de los galardones Nobel**, se entrega el 10 de diciembre, aniversario de la muerte del fundador de estas distinciones, [Alfred Nobel.](https://es.wikipedia.org/wiki/Premio_Nobel "https://es.wikipedia.org/wiki/Premio_Nobel")
+
+La decisión de Rafael Nadal que impacta a sus seguidores
+========================================================
+
+Rafael Nadal es una de las grandes estrellas del deporte en los últimos años. El tenista español anunció el retiro.
+-------------------------------------------------------------------------------------------------------------------
+
+![Rafael Nadal es una de las grandes estrellas del deporte en este siglo.](https://www.elcomercio.com/wp-content/uploads/2024/10/rafael-nadal.jpg)
+
+El mundo del tenis se ha volcado con **Rafa Nadal** al anunciar este jueves 10 de octubre del 2024 que se retirará tras la final de la **Copa Davis**, que se disputará en Málaga del 19 al 24 de noviembre, y todo el entono le ha agradecido lo que ha hecho por el deporte.
+
+“Sabíamos que un día esto llegaría. Un orgullo haber sido parte de tu vida, al final como entrenador, pero siempre como amigo. Gracias por tanto”, comentó Carlos Moyá.
+
+### Más noticias:
+
+* [¿A qué hora juega la Selección de Ecuador ante Paraguay?](https://www.elcomercio.com/deportes/seleccion-ecuador-paraguay-partido-hora.html "¿A qué hora juega la Selección de Ecuador ante Paraguay?")
+* [Gustavo Alfaro destacó a Álex Arce para enfrentar a la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-paraguay-alex-arce.html "Gustavo Alfaro destacó a Álex Arce para enfrentar a la Selección de Ecuador")
+* [El huracán Milton toca tierra en Florida con categoría 3](https://www.elcomercio.com/actualidad/mundo/el-huracan-milton-toca-tierra-en-florida-con-categoria-3.html "El huracán Milton toca tierra en Florida con categoría 3")
+
+“Eres increíble. Ha sido un placer ser testigo de tu grandeza y de tu trabajo y tener la posibilidad de aprender de ello. Te deseo lo mejor en el futuro”, destacó la estadounidense Coco Gauff, número 4 del ránking WTA.
+
+El australiano Nick Kyrgios también reaccionó al anuncio y reconoció que a pesar de haber tenido sus “diferencias” Nadal ha sido un “guerrero increíble”.
+
+“Tuvimos nuestras diferencias, pero fuiste un guerrero increíble. Te deseo y buena suerte con lo que venga. Rafa no te retires, quiero jugar contigo la última vez”, destacó el jugador en su cuenta de ‘X’.
+
+El italiano Matteo Berretini le definió como ‘leyenda’ y el argentino Francisco Cerúndolo también quiso darle las gracias por todo lo que ha hecho por el deporte, al igual que la tunecina Ons Jabeur.
+
+“Gracias por inspirarme a mí y a todos nosotros. Se te echará de menos”, remarcó.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-53-1-1024x683.jpg)
+
+Rafael Nadal
+------------
+
+El **Real Madrid** agradeció a **Rafa Nadal**, día en el que el tenista anunció su retirada tras la disputa de la Copa Davis, “por extender los valores del club por todos los rincones del mundo” a la vez que destacó el “espíritu de superación, humildad, solidaridad y respeto” que le llevaron a lograr “un total de 103 títulos”.
+
+“Ante el anuncio de Rafa Nadal sobre su retirada del tenis como jugador profesional después de la Copa Davis que disputará con España en noviembre de 2024, e**[l Real Madrid C. F](https://es.wikipedia.org/wiki/Real_Madrid_Club_de_F%C3%BAtbol)**., su presidente y su Junta Directiva quieren mostrar su admiración y su cariño a una de las más grandes leyendas del deporte español y del deporte mundial de todos los tiempos”, arranca el comunicado en la página web del club.
+
+¿A qué hora juega la Selección de Ecuador ante Paraguay?
+========================================================
+
+La Selección de Ecuador se medirá a la Selección de Paraguay en Quito por la fecha nueve de las eliminatorias sudamericanas.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Alan Franco, jugador de la Selección de Ecuador en la fecha previa al enfrentamiento ante Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-09T210138.315.jpg)
+
+La **Selección de Ecuador** tendrá su noveno partido de eliminatorias rumbo al Mundial 2026 ante Paraguay. En este partido, **Sebastián Beccacece** tendrá su tercera aparición como DT de la Tri y buscará mantener al equipo en zona de clasificación.
+
+A un mes del estreno del entrenador argentino con el combinado nacional, este y sus dirigidos vuelve a reunirse para la doble fecha clasificatoria. En ella, además de medirse como local ante Paraguay, el conjunto tricolor también lo hará ante **Uruguay** en Montevideo.
+
+### Más noticias:
+
+* [(Video) Gustavo Alfaro rompe en llanto antes de jugar frente a la Selección de Ecuador](https://www.elcomercio.com/deportes/gustavo-alfaro-seleccion-ecuador-paraguay-llanto.html "(Video) Gustavo Alfaro rompe en llanto antes de jugar frente a la Selección de Ecuador")
+* [La Selección de Ecuador dobla el valor de mercado de Paraguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-valor-mercado-eliminatorias.html "La Selección de Ecuador dobla el valor de mercado de Paraguay")
+* [Cuatro posibles debutantes claves con Beccacece en la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-debutantes-paraguay.html "Cuatro posibles debutantes claves con Beccacece en la Selección de Ecuador")
+
+Para el choque, **Beccacece** llega con un impulso tras haber vencido en su último compromiso ante Perú, el cual ganó 1-0. Antes, en su debut, cayó por la mínima diferencia ante Brasil.
+
+De cara al nuevo cotejo, el estratega podrá hacer uso de **25 convocados**. Asimismo, este llamó a cinco invitados y espárrines para que se sumen a los entrenamientos y, a su vez, tengan la chance de meterse entre los citados a los partidos.
+
+Antes de celebrar el compromiso, el **DT de la Tri** señaló que espera la máxima concentración de los jugadores en la cancha para no llevarse ninguna sorpresa de **Paraguay**. Asimismo, sostuvo que será un duelo peleado y que la ventaja de la altura ya no existe.
+
+El compromiso que enfrentará a ecuatorianos y paraguayos se llevará a cabo durante este jueves 10 de octubre del 2024 en el **Estadio Rodrigo Paz Delgado de Quito**. A partir de las 16:00 rodará la pelota en el escenario.
+
+Detalles del partido entre la Selección de Ecuador y Paraguay
+-------------------------------------------------------------
+
+**Fecha**: jueves 10 de octubre del 2024.
+
+**Hora**: 16:00.
+
+**Estadio**: Rodrigo Paz Delgado.
+
+Gustavo Alfaro se reencontrará con la Selección de Ecuador
+----------------------------------------------------------
+
+En el compromiso que mida a la Tri ante Paraguay, el conjunto nacional también se reencontrará con un viejo conocido. La escuadra de la mitad del mundo tendrá como rival al DT Gustavo Alfaro, antecesor de **Félix Sánchez y Sebastián Beccacece**.
+
+En aquel compromiso, el estratega de la ‘**Albirroja**‘ se medirá ante varios futbolistas a los que ya dirigió y que debutaron con él en la Tri. Asimismo, a pesar de que en cotejos anteriores tuvo una postura defensiva, este sostuvo en la previa del partido que no optará por tal estrategia debido a que el duelo se le dificultaría.
+
+Huracán Milton sigue potente; autoridades piden resguardarse
+============================================================
+
+Milton dejó sin luz a más de 3 000 abonados la noche del miércoles. Al menos dos personas murieron por un tornado en el condado St. Lucie.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![Fotografía satelital cedida este miércoles por la Oficina Nacional de Administración Oceánica y Atmosférica (NOAA) a través del Centro Nacional de Huracanes (NHC) estadounidense donde se muestra la localización del huracán Milton (i) entrando por Florida.](https://www.elcomercio.com/wp-content/uploads/2024/10/Milton-1.jpg)
+
+El destructor **huracán Milton** ha acortado distancia con **Cabo Cañaveral** y se encuentra a 15 kilómetros del principal centro de actividades espaciales. A ese sitio se aproxima con vientos sostenidos de 140 kilómetros por hora, aunque con ráfagas mayores, **mientras abandona la costa e**ste del azotado estado de Florida (EEUU).
+
+### Más noticias
+
+* [El cambio climático impulsa los huracanes Helene y Milton](https://www.elcomercio.com/actualidad/mundo/cambio-climatico-impulsa-huracanes-helene-milton.html "El cambio climático impulsa los huracanes Helene y Milton")
+* [El huracán Milton toca tierra en Florida con categoría 3](https://www.elcomercio.com/actualidad/mundo/el-huracan-milton-toca-tierra-en-florida-con-categoria-3.html "El huracán Milton toca tierra en Florida con categoría 3")
+* [En vivo: El huracán Milton se acerca a Tampa con vientos de 260 km/h](https://www.elcomercio.com/actualidad/mundo/huracan-milton-se-acerca-a-tampa-con-vientos-de-260-km-h.html "En vivo: El huracán Milton se acerca a Tampa con vientos de 260 km/h")
+
+Milton sigue su trayectoria
+---------------------------
+
+En su trayectoria**, Milton** se está moviendo hacia el noreste a un ritmo de 30 km/h, con un movimiento general que está previsto que continúe **este jueves 10 de octubre**. Eso según los últimos datos actualizados por el Centro Nacional de Huracanes (NHC) de EEUU.
+
+Todos los avisos del **huracán y tormenta tropical** para la costa oeste de Florida se han retirado aunque permanecen en otras zonas, ha informado.
+
+El centro del huracán avanza con un **movimiento general** que parece que mantendrá hoy aunque con un giro hacia el este por la noche, de acuerdo con los pronósticos.
+
+Los **vientos máximos sostenidos** están cerca de 140 km/h pero se espera un debilitamiento gradual y parece que Milton podrá convertirse en una poderosa baja extratropical esta noche.
+
+Las precauciones deben continuar
+--------------------------------
+
+Autoridades **advierten a la población** de que los **fuertes vientos** del destructor huracán continuarán durante más horas en la zona oriental del centro de Florida. Se urge a la población a **permanecer en zonas de interior** y **lejos de las ventanas**.
+
+Se **mantiene el peligro con amenaza para la vida** de las personas por tormentas a lo largo de la costa desde la zona oriental del centro de Florida hacia el norte, donde permanecen **los avisos por tormentas.**
+
+El **peligro de inundaciones** en la ciudad de Tampa continuará esta mañana, a pesar de que la ciudad evitó los peores temores de **marejadas ciclónicas**, según dijo el Alcalde hoy.
+
+En el parte anterior del **Centro Nacional de Huracanes** se advertía de que el huracán que azotó anoche con categoría 1 -en la escala Saffir-Simpson (de 5)- la costa oeste del estado de Florida, en Estados Unidos se encontraba a 55 kilómetros de la ciudad de Orlando, conocida por sus parques temáticos.
+
+**Walt Disney World** (DIS.N) dijo que su parque temático en **Florida** permanecerá cerrado el jueves. Al igual que otras importantes atracciones de **Orlando** que se preparan para las interrupciones según el huracán se acerca al estado.
+
+Los daños que dejó Milton en Florida
+------------------------------------
+
+Florida ha pasado la noche con millones de desplazados y **sin luz** tras el azote de Milton, que ha dejado **lluvias torrenciales** y fuertes ráfagas de viento. Esto tras haber **tocado tierra** en la costa oeste de un estado donde hay más de un millón de personas desplazadas de sus hogares.
+
+De acuerdo con los datos disponibles de última hora, **cerca de 3 250 000 abonados** están afectados por cortes de luz, según PowerOutage.
+
+Las autoridades dijeron que al menos **dos personas murieron** por un tornado relacionado con el ciclón en una comunidad de jubilados del condado St. Lucie, en la costa oeste de Florida.
+
+El huracán tocó tierra en **Siesta Key**, en la costa oeste de **Florida,** al sur de la ciudad de Tampa, a las 08:30 de la tarde hora local (00.30 GMT), con vientos de hasta 205 kilómetros por hora (120 millas). Es decir, con **categoría 3 en la escala Saffir-Simpson** (de 5).
+
+Por ahora se desconoce la **magnitud de los daños** causados por el huracán, algo que se empezará a ver cuando amanezca en **Florida**. Pero las imágenes de su llegada muestran **crecidas del mar**, inundaciones, casas con destrozos, árboles y postes caídos, y barcos a la deriva.
+
+En Tampa el mar **creció más de 3 metros** por encima de su [nivel normal](https://es.wikipedia.org/wiki/Hurac%C3%A1n_Milton "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Milton").
+
+¿Por qué es tan importante hablar sobre la salud mental en el trabajo? 
+=======================================================================
+
+El Día de la Salud Mental 2024 destaca la importancia del bienestar en el ámbito laboral.
+-----------------------------------------------------------------------------------------
+
+![La salud mental en el trabajo es esencial, ya que un entorno laboral seguro y saludable mejora la productividad. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/salud-mental-trabajo.jpg)
+
+El **Día Mundial de la Salud Mental**, conmemorado cada 10 de octubre, es una fecha clave para **concienciar sobre los problemas de salud mental a nivel global**.  
+
+### Más noticias
+
+* [14 estados de la Unión Europea demandaron a TikTok por salud mental](https://www.elcomercio.com/tendencias/redes-sociales/union-europea-demanda-tiktok-redes-sociales.html "https://www.elcomercio.com/tendencias/redes-sociales/union-europea-demanda-tiktok-redes-sociales.html") 
+* [Películas de salud mental que puedes ver en Netflix](https://www.elcomercio.com/afull/peliculas-salud-mental-netflix-streaming.html "https://www.elcomercio.com/afull/peliculas-salud-mental-netflix-streaming.html")
+
+Este día, promovido por la **Organización Mundial de la Salud (OMS)**, busca movilizar esfuerzos para **mejorar el bienestar mental de las personas en todo el mundo**.  
+
+En 2024, el tema central es **“La salud mental en el trabajo”**, lo que destaca la **necesidad de crear ambientes laborales saludables** que protejan y promuevan el bienestar mental de los empleados, de acuerdo con la [OMS](https://www.who.int/es/campaigns/world-mental-health-day "https://www.who.int/es/campaigns/world-mental-health-day"). 
+
+**Salud mental en el trabajo: un enfoque necesario** 
+-----------------------------------------------------
+
+La **salud mental en el ámbito laboral** es crucial. Los **lugares de trabajo seguros y saludables** no solo benefician a los empleados, sino que también **mejoran la productividad y el ambiente laboral** en general.  
+
+A decir de la [OMS](https://www.who.int/es/campaigns/world-mental-health-day/2024 "https://www.who.int/es/campaigns/world-mental-health-day/2024"), un **entorno laboral positivo** puede **reducir el estrés y prevenir problemas de salud mental**, como la **ansiedad y la depresión**. Este año, se enfatiza la importancia de **implementar políticas que promuevan el bienestar mental en el trabajo.** 
+
+**Importancia de la salud mental personal y laboral** 
+------------------------------------------------------
+
+**Gabriela de la Cruz**, docente de la escuela de psicología de la UIDE, destaca la relevancia de abordar la salud mental desde dos ámbitos: personal y laboral.  
+
+En el **ámbito personal**, reflexionar sobre el autocuidado es esencial, especialmente en **un mundo lleno de estrés y falta de empatía**. Tomar pausas y **realizar actividades gratificantes**, como disfrutar de la naturaleza o conectar con seres queridos, ayuda a recargar energías y a mantener el autocontrol emocional.  
+
+En el **ámbito laboral**, este año se enfatiza la necesidad de **priorizar la salud mental en el trabajo**, al crear entornos seguros que **protejan a los empleados de estigmas y condiciones adversas**. La búsqueda activa de bienestar comienza con cuestionarnos sobre nuestras necesidades y, si es necesario, acudir a un profesional. 
+
+**Iniciativas globales para mejorar el bienestar mental** 
+----------------------------------------------------------
+
+Diversas organizaciones buscar **tomar medidas para abordar la salud mental en el trabajo**. La OMS, junto con sus asociados, ha lanzado campañas para **sensibilizar a empleadores y empleados sobre la importancia de la salud mental.** Estas iniciativas incluyen la promoción de **prácticas laborales saludables, la capacitación en salud mental y la creación de redes de apoyo dentro de las empresas**, a decir de la [Asociación Española de Enfermería de Salud Mental](https://www.aeesme.org/aeesme/informacion-jornada-dia-mundial-de-la-salud-mental-10-de-octubre/ "https://www.aeesme.org/aeesme/informacion-jornada-dia-mundial-de-la-salud-mental-10-de-octubre/"). 
+
+**El papel de las organizaciones internacionales** 
+---------------------------------------------------
+
+Organizaciones como **[Unicef](https://www.unicef.es/noticia/dia-de-la-salud-mental "https://www.unicef.es/noticia/dia-de-la-salud-mental")** también están involucradas en la promoción del **bienestar mental**, especialmente entre niños y adolescentes.  
+
+En el contexto del **Día Mundial de la Salud Mental**, Unicef destaca la importancia de **apoyar a los jóvenes en su desarrollo emocional y mental**. La organización trabaja para garantizar que **los niños tengan acceso a servicios de salud mental y apoyo emocional**. Esto es fundamental para su crecimiento y bienestar. 
+
+Así funciona el Pico y placa en Quito este jueves 10 de octubre
+===============================================================
+
+Recuerda que en octubre deben matricular autos con placas terminadas en 9. Revisa los horarios del Pico y placa y evita multas
+------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cumplimiento de la medida en. Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/plantillas-manana-GIOVY-19.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+### Más noticias
+
+* [Cortes de luz se mantendrán en 10 horas durante el feriado en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-feriado-se-mantendran-10-horas-ecuador.html "Cortes de luz se mantendrán en 10 horas durante el feriado en Ecuador")
+* [Cortes de luz aumentan a partir del mediodía; revisa el nuevo cronograma](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-aumentan-a-partir-del-mediodia-revisa-el-nuevo-cronograma.html "Cortes de luz aumentan a partir del mediodía; revisa el nuevo cronograma")
+* [Revisión y matriculación vehicular se realizan normalmente pese a ‘hackeo’](https://www.elcomercio.com/actualidad/quito/revision-y-matriculacion-vehicular-se-realizan-normalmente-pese-a-hackeo.html "Revisión y matriculación vehicular se realizan normalmente pese a ‘hackeo’")
+
+El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales,
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación:
+-------------------------
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
+Matriculación vehicular
+-----------------------
+
+Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de octubre los automotores con placa terminada en 9 deben cumplir con el proceso de matriculación.
+
+También pueden adelantar el trámite los que tienen placa terminada en 0. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Recuerda!  
+> Si la placa de tu vehículo termina en el dígito 9️⃣ octubre es tu mes.  
+>   
+> ✅ Realiza la Revisión Técnica Vehicular y matricula tu automotor. ¡Evita multas!  
+>   
+> 💡 El proceso culmina con el permiso de circulación.  
+>   
+> 💪 Con responsabilidad [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Er6f3k56iD](https://t.co/Er6f3k56iD)
+> 
+> — AMTQuito (@AMT\_Quito) [October 1, 2024](https://twitter.com/AMT_Quito/status/1841206736901795987?ref_src=twsrc%5Etfw)
+
 Barrios de Quito con cortes de agua este jueves 10 de octubre
 =============================================================
 
@@ -144,25 +422,39 @@ Además de este cronograma, otras **parroquias** del norte, centro y sur de la c
 
 Para conocer la programación de cortes en los barrios y horarios de estas parroquias puedes visitar la página oficial de la [Epmaps](https://www.aguaquito.gob.ec/cortes-electricos-octubre/ "https://www.aguaquito.gob.ec/cortes-electricos-octubre/").
 
-El aprendizaje del no-ego
-=========================
+Crisis agrícola y ganadera en Ecuador requiere acciones
+=======================================================
 
-Las religiones del mundo buscan respuestas en los fenómenos de la naturaleza, y en los conflictos causados por la condición humana.
------------------------------------------------------------------------------------------------------------------------------------
+Es esencial implementar soluciones sostenibles y adaptativas en los sectores agrícolas y ganaderos.
+---------------------------------------------------------------------------------------------------
 
-![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+![Imagen creada en Adobe Firefly con el prompt: Ilustración de granjeros ecuatorianos pastando con las vacas en suelo seco.](https://www.elcomercio.com/wp-content/uploads/2024/10/Imagen-Editorial-agro.jpg)
 
-La tendencia parece obvia. **El punto de partida es el reconocimiento del egoísmo como panacea del mundo.** Y junto al egoísmo coexisten otros signos del individualismo: la codicia, el interés personal, la competencia, la desigualdad, la injusticia y numerosas pobrezas humanas.
+Los productores agrícolas y ganaderos de Ecuador enfrentan momentos críticos. Acaban de afrontar una [sequía prolongada](http://asis.agricultura.gob.ec/mapas/ "http://asis.agricultura.gob.ec/mapas/"), acompañada de fuertes vientos, heladas en las madrugadas y alta radiación solar.
 
-En esta columna han desfilado, a su turno, referencias a filósofos, científicos, artistas, literatos, profesores y personas del estado llano que, bajo diferentes puntos de vista, **coindicen en el denominado culto al ego** que preside, supuestamente, el progreso humano. **Y también, quienes, en posiciones divergentes**, predican y practican el bien común, la justicia, la defensa de la vida y la promoción de los valores humanos.
+Aunque las lluvias desde fines de septiembre de este 2024 ofrecen cierto alivio, el sector arrastra problemas históricos. Sorprendentemente, solo el 20% de la producción de [pasto](https://www.elcomercio.com/actualidad/negocios/en-ecuador-la-crisis-del-pasto-afecto-la-produccion-de-leche-de-pequenos-ganaderos.html "https://www.elcomercio.com/actualidad/negocios/en-ecuador-la-crisis-del-pasto-afecto-la-produccion-de-leche-de-pequenos-ganaderos.html") cuenta con riego en los valles. En las colinas y montañas se mantiene la dependencia de las lluvias. El pasto es fundamental, ya que es el alimento más rentable para las vacas productoras de leche.
 
-Estos paradigmas -nos guste o no- están vigentes. **La lucha eterna entre el bien y el mal se alimenta, imperceptiblemente, de signos y comportamientos en todos los órdenes de la vida**, y también en los sistemas de pensamiento que se reproducen en las aulas, en las familias y en los ámbitos económicos, políticos, sociales, culturales y ambientales. **¡El reinado del egocentrismo es real!**
+> **Solo por la sequía, el Ministerio de Agricultura contabilizó 45 220 hectáreas afectadas con pérdidas parciales y totales por 2,2 millones de dólares. Esto incluye a los sectores agrícolas, forestal y pecuario.**
 
-Si el modelo de reproducción del modelo de pensar y sentir está inmerso en las mentes y corazones de las personas, **¿dónde se aprende el no-ego? No parece una pregunta atrabiliaria.** Veamos por qué.
+Los pequeños productores sufren aún más debido a los cortes de luz, que desde ayer vuelven a 10 horas diarias en distintas franjas horarias. Para recuperar sus tierras necesitan bombear agua mediante electricidad o con diésel, sobre todo en partes altas, que están más cerca al sol.
 
-**Las religiones del mundo buscan respuestas en los fenómenos de la naturaleza, y en los conflictos causados por la condición humana. Y han nacido doctrinas, mandamientos y rituales.** Pese a ello, el ego se ha instalado en todas las culturas donde la violencia y no la paz; la concentración de poder y no la distribución de la riqueza; el progreso ilimitado y no la aplicación de ideales de justicia, el amor y la solidaridad… han confrontado y confrontan a los pueblos y a los Estados. **¡Una prueba es la existencia del llamado Primer Mundo y el Tercer Mundo, con características denigrantes!**
+La sostenibilidad del agro y la ganadería es esencial. No solo debe [sustentar a los productores](https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html "https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html") y sus familias, sino también garantizar la seguridad alimentaria a nivel local y nacional.
 
-Esta dialéctica es fruto de la civilización centrada en el ego, que parece no tener fin, o que seguirá mientras la humanidad no encuentre otros destinos. **Teilhard de Chardin, filósofo, autor del libro “El fenómeno humano” planteó la necesidad de construir una utopía -la “civilización del amor”-, como la cúspide de la evolución cultural.** ¿Será posible?  **¿Dónde y cuándo aprenderemos el no-ego; es decir, el nosotros?**
+Debido a los constantes cambios de clima, plagas, falta de capital, entre otros factores, hay productores que cambian de cultivos. Pero también abandonan la actividad.
+
+> **Ante las limitadas reservas petroleras del país y tomando en cuenta que los ecuatorianos decidieron mantener el crudo del Yasuní bajo tierra, impulsar la agroindustria y la ganadería debiera priorizarse.**
+
+Para lograr esto se necesitan implementar soluciones comprobadas. Para dar algunos ejemplos están las tecnologías avanzadas de riego que optimizan el uso del agua. Esto se aplica en varios países.
+
+En Brasil se han adoptado sistemas de agroforestería. Este enfoque combina cultivos con árboles. Así se mejora la biodiversidad y se retiene la humedad en el suelo. Además, se mitiga los efectos del cambio climático.
+
+Es fundamental promover la capacitación técnica para los pequeños productores. Pero deben entender la necesidad de adaptarse a los cambios climáticos. Además, la política de financiamiento agrícola debe ser clara y sostenida. Este sector requiere constantes reinversiones, y para ello se requiere capital fresco y tasas de interés más bajas. Las prácticas agrícolas innovadoras deberían contar con incentivos fiscales.
+
+Las experiencias exitosas demuestran que es posible garantizar un futuro más seguro y sostenible para la agricultura y ganadería ecuatoriana.  
+  
+La sequía prolongada ha llevado a muchos a cambiar de cultivos o, lo que es peor, abandonar la actividad. Ante las limitadas reservas petroleras del país, es crucial impulsar la agroindustria y la ganadería. Para lograrlo, necesitamos implementar soluciones comprobadas, como tecnologías avanzadas de riego que optimicen el uso del agua.
+
+Estos ejemplos demuestran que es posible garantizar un futuro más seguro y sostenible para la agricultura y ganadería ecuatoriana. Para que esto sea una realidad se requiere que el sector privado y público tengan una sola visión y desempeñen un trabajo coordinado con asistencia internacional.
 
 Cartas a Quito / 10 de octubre de 2024
 ======================================
@@ -203,39 +495,25 @@ Este es un esfuerzo colectivo. Juntos, podemos lograr una transformación inclus
 
 _**Mario Lubetkin, Subdirector General y Representante Regional de FAO para América Latina y el Caribe.**_
 
-Crisis agrícola y ganadera en Ecuador requiere acciones
-=======================================================
+El aprendizaje del no-ego
+=========================
 
-Es esencial implementar soluciones sostenibles y adaptativas en los sectores agrícolas y ganaderos.
----------------------------------------------------------------------------------------------------
+Las religiones del mundo buscan respuestas en los fenómenos de la naturaleza, y en los conflictos causados por la condición humana.
+-----------------------------------------------------------------------------------------------------------------------------------
 
-![Imagen creada en Adobe Firefly con el prompt: Ilustración de granjeros ecuatorianos pastando con las vacas en suelo seco.](https://www.elcomercio.com/wp-content/uploads/2024/10/Imagen-Editorial-agro.jpg)
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
 
-Los productores agrícolas y ganaderos de Ecuador enfrentan momentos críticos. Acaban de afrontar una [sequía prolongada](http://asis.agricultura.gob.ec/mapas/ "http://asis.agricultura.gob.ec/mapas/"), acompañada de fuertes vientos, heladas en las madrugadas y alta radiación solar.
+La tendencia parece obvia. **El punto de partida es el reconocimiento del egoísmo como panacea del mundo.** Y junto al egoísmo coexisten otros signos del individualismo: la codicia, el interés personal, la competencia, la desigualdad, la injusticia y numerosas pobrezas humanas.
 
-Aunque las lluvias desde fines de septiembre de este 2024 ofrecen cierto alivio, el sector arrastra problemas históricos. Sorprendentemente, solo el 20% de la producción de [pasto](https://www.elcomercio.com/actualidad/negocios/en-ecuador-la-crisis-del-pasto-afecto-la-produccion-de-leche-de-pequenos-ganaderos.html "https://www.elcomercio.com/actualidad/negocios/en-ecuador-la-crisis-del-pasto-afecto-la-produccion-de-leche-de-pequenos-ganaderos.html") cuenta con riego en los valles. En las colinas y montañas se mantiene la dependencia de las lluvias. El pasto es fundamental, ya que es el alimento más rentable para las vacas productoras de leche.
+En esta columna han desfilado, a su turno, referencias a filósofos, científicos, artistas, literatos, profesores y personas del estado llano que, bajo diferentes puntos de vista, **coindicen en el denominado culto al ego** que preside, supuestamente, el progreso humano. **Y también, quienes, en posiciones divergentes**, predican y practican el bien común, la justicia, la defensa de la vida y la promoción de los valores humanos.
 
-> **Solo por la sequía, el Ministerio de Agricultura contabilizó 45 220 hectáreas afectadas con pérdidas parciales y totales por 2,2 millones de dólares. Esto incluye a los sectores agrícolas, forestal y pecuario.**
+Estos paradigmas -nos guste o no- están vigentes. **La lucha eterna entre el bien y el mal se alimenta, imperceptiblemente, de signos y comportamientos en todos los órdenes de la vida**, y también en los sistemas de pensamiento que se reproducen en las aulas, en las familias y en los ámbitos económicos, políticos, sociales, culturales y ambientales. **¡El reinado del egocentrismo es real!**
 
-Los pequeños productores sufren aún más debido a los cortes de luz, que desde ayer vuelven a 10 horas diarias en distintas franjas horarias. Para recuperar sus tierras necesitan bombear agua mediante electricidad o con diésel, sobre todo en partes altas, que están más cerca al sol.
+Si el modelo de reproducción del modelo de pensar y sentir está inmerso en las mentes y corazones de las personas, **¿dónde se aprende el no-ego? No parece una pregunta atrabiliaria.** Veamos por qué.
 
-La sostenibilidad del agro y la ganadería es esencial. No solo debe [sustentar a los productores](https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html "https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html") y sus familias, sino también garantizar la seguridad alimentaria a nivel local y nacional.
+**Las religiones del mundo buscan respuestas en los fenómenos de la naturaleza, y en los conflictos causados por la condición humana. Y han nacido doctrinas, mandamientos y rituales.** Pese a ello, el ego se ha instalado en todas las culturas donde la violencia y no la paz; la concentración de poder y no la distribución de la riqueza; el progreso ilimitado y no la aplicación de ideales de justicia, el amor y la solidaridad… han confrontado y confrontan a los pueblos y a los Estados. **¡Una prueba es la existencia del llamado Primer Mundo y el Tercer Mundo, con características denigrantes!**
 
-Debido a los constantes cambios de clima, plagas, falta de capital, entre otros factores, hay productores que cambian de cultivos. Pero también abandonan la actividad.
-
-> **Ante las limitadas reservas petroleras del país y tomando en cuenta que los ecuatorianos decidieron mantener el crudo del Yasuní bajo tierra, impulsar la agroindustria y la ganadería debiera priorizarse.**
-
-Para lograr esto se necesitan implementar soluciones comprobadas. Para dar algunos ejemplos están las tecnologías avanzadas de riego que optimizan el uso del agua. Esto se aplica en varios países.
-
-En Brasil se han adoptado sistemas de agroforestería. Este enfoque combina cultivos con árboles. Así se mejora la biodiversidad y se retiene la humedad en el suelo. Además, se mitiga los efectos del cambio climático.
-
-Es fundamental promover la capacitación técnica para los pequeños productores. Pero deben entender la necesidad de adaptarse a los cambios climáticos. Además, la política de financiamiento agrícola debe ser clara y sostenida. Este sector requiere constantes reinversiones, y para ello se requiere capital fresco y tasas de interés más bajas. Las prácticas agrícolas innovadoras deberían contar con incentivos fiscales.
-
-Las experiencias exitosas demuestran que es posible garantizar un futuro más seguro y sostenible para la agricultura y ganadería ecuatoriana.  
-  
-La sequía prolongada ha llevado a muchos a cambiar de cultivos o, lo que es peor, abandonar la actividad. Ante las limitadas reservas petroleras del país, es crucial impulsar la agroindustria y la ganadería. Para lograrlo, necesitamos implementar soluciones comprobadas, como tecnologías avanzadas de riego que optimicen el uso del agua.
-
-Estos ejemplos demuestran que es posible garantizar un futuro más seguro y sostenible para la agricultura y ganadería ecuatoriana. Para que esto sea una realidad se requiere que el sector privado y público tengan una sola visión y desempeñen un trabajo coordinado con asistencia internacional.
+Esta dialéctica es fruto de la civilización centrada en el ego, que parece no tener fin, o que seguirá mientras la humanidad no encuentre otros destinos. **Teilhard de Chardin, filósofo, autor del libro “El fenómeno humano” planteó la necesidad de construir una utopía -la “civilización del amor”-, como la cúspide de la evolución cultural.** ¿Será posible?  **¿Dónde y cuándo aprenderemos el no-ego; es decir, el nosotros?**
 
 ¿Habrá cortes de luz durante el partido de la Selección de Ecuador?
 ===================================================================
@@ -910,307 +1188,3 @@ Aviced (Azuay) vs. Everest (Guayas)
 
 No te pierdas – El Confesionario
 --------------------------------
-
-El CJ informó sobre el estado del proceso de pago de pensiones alimenticias
-===========================================================================
-
-El CJ informó de intermitencias en el proceso de pago de las pensiones alimenticias el martes.
-----------------------------------------------------------------------------------------------
-
-![El proceso de pago de las pensiones alimenticias registró intermitencias el martes.](https://www.elcomercio.com/wp-content/uploads/2024/04/Pago-de-pension-alimenticia.jpg)
-
-El **Consejo de la Judicatura (CJ)** informó sobre el estado del proceso de **pago** de las **pensiones alimenticias** en Ecuador, este miércoles 9 de octubre de 2024.
-
-Esto, un día después de que informara a los **usuarios del Sistema Único de Pensiones Alimenticias** **(SUPA)** que existen **intermitencias** en los **enlaces** entre el **Ministerio de Economía** y el **Banco Central del Ecuador**.
-
-Más noticias:
--------------
-
-* [Consejo de la Judicatura decidió sobre el concurso de jueces de la CNJ](https://www.elcomercio.com/actualidad/seguridad/consejo-de-la-judicatura-decidio-sobre-el-concurso-de-jueces-de-la-cnj.html "Consejo de la Judicatura decidió sobre el concurso de jueces de la CNJ")
-* [Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador](https://www.elcomercio.com/actualidad/seguridad/rafael-correa-jorge-glas-procesos-sentencias-ecuador.html "Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador")
-
-Estado del pago de pensiones alimenticias en Ecuador
-----------------------------------------------------
-
-El Consejo de la Judicatura (CJ) emitió un nuevo comunicado este miércoles sobre el pago de pensiones alimenticias.
-
-El CJ señaló que coordinó con tres instituciones para normalizar el pago de las pensiones alimenticias.
-
-Estas instituciones son: el **Ministerio de Economía y Finanzas (MEF)**, el **Banco Central del Ecuador (BCE)** y el **Banco del Pacífico**.
-
-El resultado de la coordinación interinstitucional es que el procesamiento de las órdenes de pago correspondientes a pensiones alimenticias se está normalizando.
-
-El Consejo explicó que, debido al proceso manual que ejecuta el Banco del Pacífico, los pagos pendientes por retenciones empresariales, ascendían a 6.1 millones de dólares, en la mañana del martes 8 de octubre de 2024.
-
-Sin embargo, con corte a las 15:30 de este 9 de octubre, se han pagado más de 4 millones de dólares.
-
-“El Consejo de la Judicatura continúa coordinando con el Banco del Pacífico, el MEF y el BCE para que, en el menor tiempo posible, se llegue al 100% de las acreditaciones pendientes”, señaló la institución en un comunicado.
-
-El SUPA es un sistema informático administrado por el CJ para garantizar el proceso de **recaudación y pago de pensiones alimenticias**.
-
-Fijado el pago y el monto, la autoridad dispone la creación del código de la tarjeta SUPA.
-
-El código sirve para realizar las consultas y los pagos.
-
-51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre
-=========================================================================
-
-La Policía Nacional detalló las acciones que se realizarán para salvaguardar a la ciudadanía en los días de asueto.
--------------------------------------------------------------------------------------------------------------------
-
-![Se espera que al menos 837 000 personas viajen durante el feriado por la independencia de Guayaquil](https://www.elcomercio.com/wp-content/uploads/2024/10/policia-feriado.jpg)
-
-La **Policía Nacional** detalló cómo funcionará el **operativo de seguridad** que se implementará en el feriado por la independencia de **Guayaquil**.
-
-En rueda de prensa, la tarde de este miércoles 9 de octubre de 2024, las autoridades de la institución detallaron el número de servidores policiales y las **acciones** que se destinarán en el asueto.
-
-### Más noticias
-
-* [Guayaquil festeja 204 años de independencia con arte y cultura](https://www.elcomercio.com/actualidad/guayaquil-204-anos-independencia-festejos-arte-cultura.html "Guayaquil festeja 204 años de independencia con arte y cultura")
-* [Asamblea Nacional rindió homenaje por la Independencia de Guayaquil](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-rindio-homenaje-por-la-independencia-de-guayaquil.html "Asamblea Nacional rindió homenaje por la Independencia de Guayaquil")
-* [En este feriado del 9 de octubre, aprende sobre la independencia de Guayaquil](https://www.elcomercio.com/tendencias/cultura/feriado-octubre-independencia-guayaquil-efemeride.html "En este feriado del 9 de octubre, aprende sobre la independencia de Guayaquil")
-
-La independencia de Guayaquil se celebra este miércoles **9 de octubre**, sin embargo, la celebración se cambió al fin de semana como puente vacacional.
-
-Por ello, el feriado tendrá **tres días de descanso obligatorio**: viernes 11, sábado 12 y domingo 13 de octubre.
-
-Operativo de seguridad
-----------------------
-
-**Wilson Pavón**, director de seguridad ciudadana y orden público de la Policía, manifestó que el operativo de seguridad para este feriado está previamente coordinado y planificado con otras entidades, entre ellas:
-
-**ECU 911**, Secretaría de Gestión de Riesgos, Agencia Nacional de Tránsito (ANT), Ministerio de Transporte, y las agencias de tránsito metropolitanas.
-
-Las acciones **preventivas y de control** comenzarán este jueves a las **10:00** y finalizará el lunes 14 de octubre a las **06:00**.
-
-A nivel nacional se destinarán **51 544 servidores policiales**: 42 231 preventivos, 1 781 de Inteligencia y 7 532 para investigación.
-
-De estos uniformados, **3 000** trabajarán en beneficio de la seguridad ciudadana en las ciudades; **8 525** en playas, ferias y eventos públicos y **730** en zonas de montaña, senderos y parques.
-
-Además, se designarán **4 359 patrulleros** y 7 403 motocicletas para los patrullajes; y se habilitarán 79 unidades móviles y 3 aeronaves.
-
-Los operativos incluyen las siguientes acciones:
-
-* Controles antidelincuenciales
-* Operativos enjambres (en cuadrillas)
-* Ejes viales
-* Concentración masiva de personas
-* Noches seguras
-* Controles de armas, municiones y explosivos, junto a las Fuerzas Armadas
-
-Controles viales
-----------------
-
-**Cristian Barreiros**, director de control de tránsito y seguridad vial de la Policía, afirmó que para los operativos viales se asignarán **1 300 efectivos**.
-
-Los controles se realizarán en **buses de transporte** y vehículos particulares, con acciones de test de alcohol, documentos en regla, exceso de pasajeros, neumáticos, luces, entre otros.
-
-Los terminales de transporte estarán custodiados por los gendarmes.
-
-De acuerdo con la Policía, en el feriado por la independencia de Guayaquil de 2023, **478 000 vehículos** salieron de los distintos ejes viales del Ecuador.
-
-Ese año, **837 000 personas viajaron** a otras ciudades durante el asueto. Las autoridades esperan un número similar para este 2024.
-
-> 🔴 [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw)📡  
->   
-> En [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw) informamos sobre el despliegue operativo que ejecuta [#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) en todo el país, por el [#Feriado9DeOctubre](https://twitter.com/hashtag/Feriado9DeOctubre?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Participan, [#GraDWilsonPavón](https://twitter.com/hashtag/GraDWilsonPav%C3%B3n?src=hash&ref_src=twsrc%5Etfw), [#DirDGSCOP](https://twitter.com/hashtag/DirDGSCOP?src=hash&ref_src=twsrc%5Etfw); [#CrnlCristianBarreiros](https://twitter.com/hashtag/CrnlCristianBarreiros?src=hash&ref_src=twsrc%5Etfw), [#DirTránsito](https://twitter.com/hashtag/DirTr%C3%A1nsito?src=hash&ref_src=twsrc%5Etfw) y [#CrnlRichardVaca](https://twitter.com/hashtag/CrnlRichardVaca?src=hash&ref_src=twsrc%5Etfw), subdirector [#DGSCOP](https://twitter.com/hashtag/DGSCOP?src=hash&ref_src=twsrc%5Etfw).… [pic.twitter.com/GOR08aClzC](https://t.co/GOR08aClzC)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 9, 2024](https://twitter.com/PoliciaEcuador/status/1844119017205715294?ref_src=twsrc%5Etfw)
-
-Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO
-==========================================================================================
-
-EL COMERCIO pone a disposición una herramienta, que utiliza inteligencia artificial, para buscar el horario de los cortes de luz en Quito.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![El incremento del tiempo de los cortes de luz se aplica desde este 9 de octubre de 2024. Foto: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-Ambato.jpg)
-
-EL COMERCIO pone a disposición de sus lectores una **herramienta**, que utiliza **inteligencia artificial**, para que busquen con facilidad el horario de los **cortes de luz** en **Quito**[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico")
-
-### Más noticias
-
-* [Cortes de luz se mantendrán en 10 horas durante el feriado en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-feriado-se-mantendran-10-horas-ecuador.html)
-* [Cortes de luz en Quito con nuevos horarios para este miércoles 9 de octubre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-nuevos-horarios-miercoles-9-de-octubre.html "https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-nuevos-horarios-miercoles-9-de-octubre.html")
-
-Cortes de luz, los horarios en Quito
-------------------------------------
-
-Desde la noche de este miércoles 9 de octubre de 2024, utilizamos nuestros **servicios** de **inteligencia artificial** para facilitar la **búsqueda** de los **horarios** de los **cortes de luz**.
-
-Para utilizar esta herramienta se deben seguir los **siguientes pasos**:
-
-\-Escribir la **zona** o **barrio** en la que se desea obtener el resultado.
-
-\-Darle al botón de **Consultar**.
-
-Es importante escribir la zona **sin faltas ortográficas** (con **tildes**, de ser necesario; y sin errores tipográficos).
-
-    En las próximas horas incluiremos otras ciudades del país.
-
-Planifique sus actividades durante los cortes de luz
-----------------------------------------------------
-
-La **planificación** diaria en **Ecuador**, ante los cortes de luz que pueden extenderse hasta **diez horas,** requiere de una organización estratégica para minimizar el impacto en las **actividades cotidianas** y laborales. A continuación, algunos aspectos clave para una mejor **adaptación**:
-
-Identificación de horarios de corte
------------------------------------
-
-Es fundamental conocer de antemano los **horarios de los apagones** en cada zona. Las empresas eléctricas suelen publicar estos cronogramas en sus páginas web o redes sociales. Contar con esta información permite ajustar el **cronograma personal** y laboral.
-
-Priorizar actividades esenciales
---------------------------------
-
-En las horas con electricidad, es recomendable priorizar las tareas que dependan directamente de la **energía eléctrica**, como el uso de electrodomésticos, dispositivos electrónicos o herramientas de trabajo. Las actividades que no requieren energía, como **lecturas o tareas manuales**, pueden trasladarse a los momentos sin electricidad.
-
-Optimización del uso de baterías
---------------------------------
-
-Para quienes dependen de **equipos electrónicos** como computadoras o celulares, es importante contar con baterías adicionales o dispositivos de carga portátil. Además, se deben **optimizar** las configuraciones de ahorro de energía para extender su uso en momentos críticos.
-
-Aprovechar la luz natural
--------------------------
-
-Organizar las actividades durante el día permite aprovechar **al máximo la luz natural**, especialmente en tareas que no pueden posponerse. El ajuste de horarios laborales a la luz del día puede resultar clave en sectores como el comercio o la industria.
-
-Preparación ante emergencias
-----------------------------
-
-Tener a mano linternas, velas y **sistemas alternativos de iluminación** es indispensable. Asimismo, mantener alimentos no perecederos y agua potable almacenados es una medida prudente para enfrentar **cortes de luz** prolongados.
-
-Comunicación constante
-----------------------
-
-Coordinar con familiares, compañeros de trabajo o vecinos permite **optimizar recursos** y mantenerse informados sobre la situación de los cortes en la **zona**.
-
-Una planificación eficiente puede ayudar a enfrentar los **desafíos derivados de los cortes de luz** y reducir el impacto en las rutinas diarias.
-
-Los cortes de luz se programan en cada región
-=============================================
-
-El Ministerio de Energía y Minas ha incrementado los cortes de luz en Ecuador a un promedio de 10 horas diarias debido a la crisis energética. Los nuevos horarios están disponibles.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Las empresas distribuidoras de electricidad publicaron el cronograma con los nuevos horarios de cortes de luz. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-de-luz-9-oct.jpg)
-
-El **Ministerio de Energía y Minas** informó este miércoles 9 de octubre de 2024 la decisión de aumentar las horas de los **cortes de luz** en Ecuador. Los horarios serán actualizados e informados por las respectivas empresas eléctricas de cada localidad.
-
-### Más noticias
-
-* [Nuevos cortes de luz en Imbabura para este 9 de octubre, estos son los horarios](https://www.elcomercio.com/actualidad/nuevos-cortes-luz-imbabura-9-octubre-horarios.html "Nuevos cortes de luz en Imbabura para este 9 de octubre, estos son los horarios")
-* [Cortes de luz se mantendrán en 10 horas durante el feriado en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-feriado-se-mantendran-10-horas-ecuador.html "Cortes de luz se mantendrán en 10 horas durante el feriado en Ecuador")
-* [Conozca los nuevos horarios de cortes de luz para este 9 de octubre de 2024 en Ambato](https://www.elcomercio.com/actualidad/ecuador/nuevos-horarios-cortes-de-luz-9-de-octubre-de-2024-ambato.html "Conozca los nuevos horarios de cortes de luz para este 9 de octubre de 2024 en Ambato")
-
-¿Dónde conocer los nuevos horarios de cortes de luz?
-----------------------------------------------------
-
-Los nuevos **horarios de los cortes de luz** están publicados en la página web del [Ministerio de Energía y Minas](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/). En portal se despliegan los logotipos de las nueve empresas eléctricas distribuidoras, que son: [CNEL](https://www.recursosyenergia.gob.ec/unidadesdenegocio-cnel-epac/ "https://www.recursosyenergia.gob.ec/unidadesdenegocio-cnel-epac/"), Empresa Eléctrica Quito, EmelNorte, Empresa Eléctrica Cotopaxi, Empresa Eléctrica Ambato, Empresa Eléctrica Riobamba, Empresa Eléctrica Azogues, Centro Sur y Empresa Eléctrica Regional del Sur.
-
-La búsqueda puede hacerlo en la plataforma interactiva de cada distribuidora o ver los PDF con los horarios de los apagones por sectores.
-
-Ante cualquier novedad o denuncia concerniente a los horarios de suspensión en su zona puede remitir un correo a: [reporteshorarios@energiayminas.gob.ec](mailto:reporteshorarios@energiayminas.gob.ec) con su inquietud.
-
-Incremento de las horas de cortes de luz
-----------------------------------------
-
-El promedio diario de los **cortes de luz** es de 10 horas desde este 9 de octubre de 2024. En días pasados, el promedio fue de cuatro horas diarias. El **Ministerio de Energía** tomó la decisión de incrementar las horas de apagones debido a la **crisis energética** que atraviesa el Ecuador, por el bajo nivel de agua en el **embalse de Mazar**, uno de los más grandes del país. La escasez hídrica dificulta la operación normal de las tres hidroeléctricas ubicadas en la cuenca del **río Paute**.
-
-Esto obliga al Gobierno a reprogramar cortes de energía que afectarán a todos los ecuatorianos. A partir del mediodía de este 9 de octubre, se implementarán cortes de hasta 10 horas diarias, con horarios diferenciados para ciertos sectores industriales.
-
-Daniel Noboa homenajea a su padre, Álvaro Noboa, con importante condecoración
-=============================================================================
-
-El homenaje se realizó durante la sesión solemne realizada por el Presidente por la independencia de Guayaquil.
----------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa y su padre Álvaro durante la entrega del reconocimiento](https://www.elcomercio.com/wp-content/uploads/2024/10/noboa-alvaro.jpg)
-
-El presidente de Ecuador, **Daniel Noboa**, entregó una condecoración a su padre, **Álvaro Noboa Pontón**.
-
-El homenaje se realizó durante la **sesión solemne** realizada en el Salón Simón Bolívar de la Gobernación del Guayas, la tarde de este miércoles 9 de octubre de 2024.
-
-### Más noticias
-
-* [Guayaquil festeja 204 años de independencia con arte y cultura](https://www.elcomercio.com/actualidad/guayaquil-204-anos-independencia-festejos-arte-cultura.html "Guayaquil festeja 204 años de independencia con arte y cultura")
-* [Asamblea Nacional rindió homenaje por la Independencia de Guayaquil](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-rindio-homenaje-por-la-independencia-de-guayaquil.html "Asamblea Nacional rindió homenaje por la Independencia de Guayaquil")
-* [¿Cuándo es la independencia de Guayaquil?](https://www.elcomercio.com/actualidad/guayaquil/cuando-es-la-independencia-de-guayaquil.html "¿Cuándo es la independencia de Guayaquil?")
-
-Este evento forma parte de las celebraciones por la independencia de **Guayaquil**.
-
-El **millonario empresario** recibió de las manos de su hijo, la **Orden Nacional** al Mérito en el Grado de Gran Cruz.
-
-“Mi padre es un hombre digno, trabajador, que no solo dejó huella como empresario, filántropo y político, sino que también fue un padre entregado”, manifestó Daniel Noboa en su discurso.
-
-“Su legado es un compromiso con el servicio a nuestro país, un legado que siempre llevo conmigo”, añadió.
-
-El jefe de Estado finalizó las palabras para su progenitor manifestando que “lleva con la frente en alto los mismos valores de su padre”.
-
-“Mi padre es el hombre que me enseñó que es posible enfrentar tormenta con el puño en alto”, refirió Daniel Noboa.
-
-En la ceremonia se entregaron otras condecoraciones al mérito deportivo.
-
-* Samia Álaba, patinadora – Pórtico de Oro al mérito deportivo
-* Kiara Rodríguez, atleta en los Juegos Paralímpicos Tokio 2020 y París 2024 – Orden Nacional al Mérito
-
-Álvaro Noboa
-------------
-
-Antes que Daniel Noboa logre la Presidencia de Ecuador en su primer intento, su padre la buscó en **cinco ocasiones**, en: 1998, 2002, 2006, 2009 y 2013.
-
-En 2007, fue elegido como Asambleísta. Noboa es el fundador del Partido Renovador Institucional Acción Nacional (**Prian**).
-
-Como empresario es propietario del grupo Noboa, que incluye más de 100 empresas en diversas industrias, destacándose en la exportación de banano.
-
-Orden Nacional al Mérito en el Grado de Gran Cruz
--------------------------------------------------
-
-La Orden Nacional al Mérito es una condecoración civil otorgada por el Presidente de Ecuador desde **1929**.
-
-Esta distinción se concede a personas que han realizado un servicio destacado o han representado al país en diversos ámbitos.
-
-En el caso del Grado de Gran Cruz, este es un reconocimiento significativo que resalta las contribuciones **excepcionales** al país.
-
-Sebastián Beccacece no quiere sorpresas en Ecuador vs. Paraguay
-===============================================================
-
-Sebastián Beccacece espera la máxima concentración de la Selección de Ecuador para el partido contra Paraguay.
---------------------------------------------------------------------------------------------------------------
-
-![Sebastíán Beccacece, DT de la Selección de Ecuador, en una rueda de prensa previa al partido ante Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/4a23e835e02c99956fcf839b45bfa6b95320a991.jpg)
-
-El seleccionador de Ecuador, el argentino **Sebastián Beccacece**, anticipó este miércoles que el partido contra Paraguay, correspondiente a la novena fecha de las eliminatorias sudamericanas del Mundial de 2026, será de riesgos y de concentración extrema.
-
-“**Será un partido de altísimo riesgo, de concentración extrema, en el que asumiremos el protagonismo, sabiendo que los bloques sólidos históricamente de Paraguay son complejos de romper** y ahí será importante la calidad de nuestros ataques”, dijo.
-
-### Más noticias:
-
-* [Sebastián Beccacece niega ventajas de la altura para Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-altura-paraguay.html "Sebastián Beccacece niega ventajas de la altura para Ecuador")
-* [Sebastián Beccacece invitó cinco jugadores a la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-invitados-seleccion-ecuador.html "Sebastián Beccacece invitó cinco jugadores a la Selección de Ecuador")
-* [La Selección de Ecuador dobla el valor de mercado de Paraguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-valor-mercado-eliminatorias.html "La Selección de Ecuador dobla el valor de mercado de Paraguay")
-
-Añadió que su equipo deberá estar “muy bien organizado, porque en un descuido o una pérdida, **Paraguay tiene jugadores de mucho desequilibrio individual**, de mucha velocidad y que saben sacar provecho en el juego aéreo”.
-
-Respecto al nivel de conocimiento mutuo que tienen los jugadores de Paraguay sobre el seleccionador de Paraguay, el argentino **Gustavo Alfaro**, que llevó a la Tri a jugar el Mundial de Qatar 2022, Beccacece destacó la “linda experiencia” que tuvieron al llegar juntos a disputar la Copa del Mundo.
-
-Beccacece pide máxima concentración a la Selección de Ecuador
--------------------------------------------------------------
-
-“**Lo que sí sé es que tenemos que tomar buenas decisiones** y leer muy bien lo que va a plantear Paraguay”, advirtió el técnico.
-
-Asimismo, indicó que “el nivel de las eliminatorias está cargado de **paridad y exigencias**“. “Quien se llegara a distraer, estará en desventaja, pero si se está atento y concentrado, puede tener un plus”, añadió.
-
-También dijo que las posibilidades en esta clase de competiciones, “**son muy parejas**“, “no existe un dominio total y absoluto”.
-
-“Ojalá en todos los partidos podamos tener un **dominio**, pero es complicado cuando un rival se repliega y tiene oficio para hacerlo”, agregó[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
-
-La Tri, un equipo en crecimiento
---------------------------------
-
-Beccacece remarcó que, al margen de todas las dificultades, quiere que su equipo sea “**protagonista y dominador, para lo cual, tener paciencia, será clave**“.
-
-El argentino aseveró que en el proceso de la maduración de su idea de juego, siente que él y los jugadores están “en el camino correcto”. “**Vamos creciendo día a día**“, apostilló.
-
-De la supuesta ventaja de su equipo por los efectos de la altitud de los **2.850 metros** sobre el nivel mar de Quito, el técnico aseguró que no lo ve tan determinante, “porque hoy la mayoría de nuestros futbolistas (de Ecuador) también están afuera”.
-
-Ecuador afronta este partido en la cuarta posición de las eliminatorias con **11 puntos**, mientras que Paraguay es séptimo con **9 unidades**.
