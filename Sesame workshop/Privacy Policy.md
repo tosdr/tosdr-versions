@@ -473,7 +473,7 @@ To report potential security vulnerabilities, please write to [cyber.security@se
 
 ![Sesame Workshop](https://sesameworkshop.org/wp-content/themes/sesame-workshop/images/logo_black.svg)
 
-Helping Children Everywhere Grow Smarter, Stronger, and Kinder.
+Helping Children Everywhere Grow Smarter, Stronger, and Kinder.
 
 Follow Us[](https://www.instagram.com/sesameworkshop/ "Instagram")[](https://www.tiktok.com/@sesamestreet "TikTok")[](https://www.facebook.com/SesameWorkshop/ "Facebook")[](https://twitter.com/SesameWorkshop "X-Twitter")
 
