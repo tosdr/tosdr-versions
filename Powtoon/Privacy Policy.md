@@ -156,10 +156,15 @@ Data of children is, like all other data Powtoon controls, safeguarded according
 
 As we do not collect personal information from students, the risk of personal student information being extracted from our system is very low. If you want to be informed in the event of a data breach that affects student account data, you can register your institution to our breach notification list by emailing [edu-privacy@powtoon.com](mailto:edu-privacy@powtoon.com) with the subject line "registration to breach notification list". In this email, please include the name of your institution, your name and role, together with your contact information. In the unlikely event that such a breach will occur, we will inform all registered institutions within 72 hours of detecting the breach.
 
+Third party terms and policies
+------------------------------
+
+1. **Youtube**: By using the Publish to Youtube feature to upload videos to your Youtube channel/s, you agree to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms). Powtoon does not store any Youtube data and you can revoke the access authorization granted to Powtoon when connecting your Youtube account in your account via the Google security settings page at [https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions).
+
 Changes to This Privacy Policy
 ------------------------------
 
-This privacy policy was last modified on October 12, 2020. If we update this privacy policy in a manner which changes how we collect or use your personal information, the types of personal information we collect or use, or the purposes for such collection or use of personal information, we will ask for your renewed consent. This will be conducted in two steps:
+This privacy policy was last modified on October 10, 2024. If we update this privacy policy in a manner which changes how we collect or use your personal information, the types of personal information we collect or use, or the purposes for such collection or use of personal information, we will ask for your renewed consent. This will be conducted in two steps:
 
 1. We will send a notification to the email address you provided us with upon registration. In this notification, the new proposed changes will be explained so that you may provide us with your consent;
 2. Following the email notification, we will ask you to provide your consent to the new changes when you next log in to our website.
