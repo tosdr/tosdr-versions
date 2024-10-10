@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110955-mid-day-digest-2024-10-09?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/110988-mid-day-digest-2024-10-10?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -104,32 +104,32 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110955-mid-day-digest-2024-10-09?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/110988-mid-day-digest-2024-10-10?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110920-quite-a-show-2024-10-09)
+     [](https://patriotpost.us/memes/110971-grow-your-vegetables-2024-10-10)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34344)
+     [](https://patriotpost.us/cartoons/34350)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Mark Alexander About Those Trump and Harris National Security Endorsements](https://patriotpost.us/alexander/110957-about-those-trump-and-harris-national-security-endorsements-2024-10-09)
-*      [Rich Lowry The Travesty of the CBP One App](https://patriotpost.us/opinion/110941-the-travesty-of-the-cbp-one-app-2024-10-09)
-*      [Betsy McCaughey Free Speech in the Crosshairs](https://patriotpost.us/opinion/110939-free-speech-in-the-crosshairs-2024-10-09)
-*      [Gary Bauer Free Speech Under Fire](https://patriotpost.us/opinion/110938-free-speech-under-fire-2024-10-09)
-*      [Tim Graham Kamala’s Parade of (Mostly) Pablum Interviews](https://patriotpost.us/opinion/110936-kamalas-parade-of-mostly-pablum-interviews-2024-10-09)
-*      [Byron York When Kamala Harris’s Promises Come to Nothing](https://patriotpost.us/opinion/110934-when-kamala-harriss-promises-come-to-nothing-2024-10-09)
-*      [Ben Shapiro One Year Later](https://patriotpost.us/opinion/110933-one-year-later-2024-10-09)
-*      [Ian Haworth When Will People Listen to Hamas?](https://patriotpost.us/opinion/110940-when-will-people-listen-to-hamas-2024-10-09)
+*      [Larry Elder Hurricane Helene — and the ‘Climate Change’ Experts](https://patriotpost.us/opinion/110967-hurricane-helene-and-the-climate-change-experts-2024-10-10)
+*      [Jeff Jacoby For U.S. Jews, the Postwar Years Were a Golden Age. It Ended on Oct. 7.](https://patriotpost.us/opinion/110966-for-us-jews-the-postwar-years-were-a-golden-age-it-ended-on-oct-7-2024-10-10)
+*      [Cal Thomas Harris on ‘60 Minutes’](https://patriotpost.us/opinion/110965-harris-on-60-minutes-2024-10-10)
+*      [Laura Hollis We the People Can Count on Each Other, but Not the Federal Government](https://patriotpost.us/opinion/110968-we-the-people-can-count-on-each-other-but-not-the-federal-government-2024-10-10)
+*      [Gary Bauer Terror Attack Foiled](https://patriotpost.us/opinion/110962-terror-attack-foiled-2024-10-10)
+*      [Armstrong Williams Echoes of a Day That Shook Israel’s Soul](https://patriotpost.us/opinion/110960-echoes-of-a-day-that-shook-israels-soul-2024-10-10)
+*      [Ann Coulter Democrats’ Third World Reasoning](https://patriotpost.us/opinion/110959-democrats-third-world-reasoning-2024-10-10)
+*      [The Babylon Bee CBS Reveals They Interviewed Kamala for 721 Hours in Order to Compile ‘60 Minutes’ of Usable Footage](https://patriotpost.us/opinion/110958-cbs-reveals-they-interviewed-kamala-for-721-hours-in-order-to-compile-60-minutes-of-usable-footage-2024-10-10)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -143,11 +143,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
-“Guard with jealous attention the public liberty. Suspect every one who approaches that jewel. Unfortunately, nothing will preserve it but downright force. Whenever you give up that force, you are inevitably ruined.” —Patrick Henry (1788)
+“We are, heart and soul, friends to the freedom of the press. It is however, the prostituted companion of liberty.” —Fisher Ames (1807)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
