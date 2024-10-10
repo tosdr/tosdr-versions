@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2022/06/Marcos-Contreras-rec-326x245.jpg)](https://cwbchicago.com/2024/10/4-years-for-man-who-stole-delivery-drivers-car-with-3-kids-inside-but-he-wont-spend-any-time-in-prison.html "4 years for man who stole delivery driver’s car with 3 kids inside (but he won’t spend any time in prison)")
+[![](https://cwbchicago.com/wp-content/uploads/2023/06/Ayca-Sarialioglu-326x245.jpg)](https://cwbchicago.com/2024/10/dui-driver-who-badly-injured-man-near-water-tower-place-gets-probation.html "DUI driver who badly injured man near Water Tower Place gets probation")
 
-River West
+Magnificent Mile
 
-### [4 years for man who stole delivery driver’s car with 3 kids inside (but he won’t spend any time in prison)](https://cwbchicago.com/2024/10/4-years-for-man-who-stole-delivery-drivers-car-with-3-kids-inside-but-he-wont-spend-any-time-in-prison.html "4 years for man who stole delivery driver’s car with 3 kids inside (but he won’t spend any time in prison)")
+### [DUI driver who badly injured man near Water Tower Place gets probation](https://cwbchicago.com/2024/10/dui-driver-who-badly-injured-man-near-water-tower-place-gets-probation.html "DUI driver who badly injured man near Water Tower Place gets probation")
 
-[October 8, 2024 6:00 AM](https://cwbchicago.com/2024/10)
+[October 8, 2024 5:59 PM](https://cwbchicago.com/2024/10)
 
-A man who stole a food delivery driver’s car with the victim’s three children inside has been given a four-year sentence. However, Marcos Contreras will not serve any time in prison after earning various credits, primarily for wearing an ankle monitor at home.[](https://cwbchicago.com/2024/10/4-years-for-man-who-stole-delivery-drivers-car-with-3-kids-inside-but-he-wont-spend-any-time-in-prison.html "4 years for man who stole delivery driver’s car with 3 kids inside (but he won’t spend any time in prison)")
+The hit-and-run driver accused of striking and badly injuring a man while driving drunk near Water Tower Place last year has been sentenced to 30 months of probation.[](https://cwbchicago.com/2024/10/dui-driver-who-badly-injured-man-near-water-tower-place-gets-probation.html "DUI driver who badly injured man near Water Tower Place gets probation")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/burglary-generic-326x245.jpg)](https://cwbchicago.com/2024/10/burglary-crew-is-targeting-bucktown-homes-chicago-police-say.html "Burglary crew is targeting Bucktown homes, Chicago police say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/From-left-Anthony-Jones-Trinity-Peterson-and-Richard-Tolbert.-Chicago-Police-Department-326x245.jpg)](https://cwbchicago.com/2024/10/trio-charged-with-carjacking-pot-dealer-in-logan-square.html "Trio charged with carjacking pot dealer in Logan Square")
 
-Bucktown
+Logan Square
 
-### [Burglary crew is targeting Bucktown homes, Chicago police say](https://cwbchicago.com/2024/10/burglary-crew-is-targeting-bucktown-homes-chicago-police-say.html "Burglary crew is targeting Bucktown homes, Chicago police say")
+### [Trio charged with carjacking pot dealer in Logan Square](https://cwbchicago.com/2024/10/trio-charged-with-carjacking-pot-dealer-in-logan-square.html "Trio charged with carjacking pot dealer in Logan Square")
 
-[October 8, 2024 5:31 AM](https://cwbchicago.com/2024/10)
+[October 8, 2024 8:48 AM](https://cwbchicago.com/2024/10)
 
-A three-man burglary crew has stolen jewelry, cash, and even an entire safe during three residential burglaries in Bucktown this month, according to a new alert from Chicago police. All of the break-ins occurred during the afternoon hours.[](https://cwbchicago.com/2024/10/burglary-crew-is-targeting-bucktown-homes-chicago-police-say.html "Burglary crew is targeting Bucktown homes, Chicago police say")
+Three men carjacked a pot dealer in Logan Square after not having enough money to buy his weed, officials say. Prosecutors asked Judge Shauna Boliker to detain all three men on the charges, but she decided to put them on electronic monitoring instead.[](https://cwbchicago.com/2024/10/trio-charged-with-carjacking-pot-dealer-in-logan-square.html "Trio charged with carjacking pot dealer in Logan Square")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/2024.10.06-1600-block-howard-shots-fired-326x245.jpg)](https://cwbchicago.com/2024/10/camera-records-second-shooting-in-a-week-in-rogers-park-a-man-was-murdered-at-the-same-spot-in-june.html "Camera records second shooting in a week in Rogers Park. A man was murdered at the same spot in June.")
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Lavan-Rousseau-326x245.jpg)](https://cwbchicago.com/2024/10/man-mugged-victim-in-lincoln-park-burglarized-wrigleyville-home-in-under-2-hours-prosecutors-say.html "Man mugged victim in Lincoln Park, burglarized Wrigleyville home in under 2 hours, prosecutors say")
 
-Rogers Park
+Lincoln Park
 
-### [Camera records second shooting in a week in Rogers Park. A man was murdered at the same spot in June.](https://cwbchicago.com/2024/10/camera-records-second-shooting-in-a-week-in-rogers-park-a-man-was-murdered-at-the-same-spot-in-june.html "Camera records second shooting in a week in Rogers Park. A man was murdered at the same spot in June.")
+### [Man mugged victim in Lincoln Park, burglarized Wrigleyville home in under 2 hours, prosecutors say](https://cwbchicago.com/2024/10/man-mugged-victim-in-lincoln-park-burglarized-wrigleyville-home-in-under-2-hours-prosecutors-say.html "Man mugged victim in Lincoln Park, burglarized Wrigleyville home in under 2 hours, prosecutors say")
 
-[October 7, 2024 5:39 PM](https://cwbchicago.com/2024/10)
+[October 8, 2024 8:13 AM](https://cwbchicago.com/2024/10)
 
-What in the world is going on in the 1600 block of West Howard? And why aren’t Chicago police and the local alderman fixing it?[](https://cwbchicago.com/2024/10/camera-records-second-shooting-in-a-week-in-rogers-park-a-man-was-murdered-at-the-same-spot-in-june.html "Camera records second shooting in a week in Rogers Park. A man was murdered at the same spot in June.")
+Prosecutors have charged a North Side man with mugging a victim in Lincoln Park and then burglarizing an occupied home in Wrigleyville less than two hours later.[](https://cwbchicago.com/2024/10/man-mugged-victim-in-lincoln-park-burglarized-wrigleyville-home-in-under-2-hours-prosecutors-say.html "Man mugged victim in Lincoln Park, burglarized Wrigleyville home in under 2 hours, prosecutors say")
 
 Search
 
@@ -337,6 +337,7 @@ Thank you.
 * [Greater Grand Crossing](https://cwbchicago.com/category/greater-grand-crossing)
 * [Hermosa](https://cwbchicago.com/category/hermosa)
 * [Humboldt Park](https://cwbchicago.com/category/humboldt-park)
+* [Hyde Park](https://cwbchicago.com/category/hyde-park)
 * [Irving Park](https://cwbchicago.com/category/irving-park)
 * [Jefferson Park](https://cwbchicago.com/category/jefferson-park)
 * [Kenwood](https://cwbchicago.com/category/kenwood)
