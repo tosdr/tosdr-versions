@@ -54,14 +54,18 @@ Menu
         * [Home Server](https://www.smarthomebeginner.com/home-server/)
         * [Technology](https://www.smarthomebeginner.com/technology/)
 * [Videos](https://www.youtube.com/@anandslab)
-* [Courses](#)
-    * [How to use Auto-Traefik?](https://www.smarthomebeginner.com/course/how-to-use-auto-traefik/)
-* [Shop](#)
-    * [Deployarr](https://www.smarthomebeginner.com/deployarr/)
+    * [Playlist: Ultimate Docker Server](https://www.smarthomebeginner.com/go/ultimate-docker-server-playlist)
+    * [Playlist: Traefik Master Class](https://www.smarthomebeginner.com/go/traefik-master-class-playlist)
+    * [Playlist: Proxmox Tutorials](https://www.smarthomebeginner.com/go/proxmox-tutorials-playlist)
+* [Deployarr](https://www.smarthomebeginner.com/deployarr/)
+    * [Deployarr Product Page](https://www.smarthomebeginner.com/deployarr/)
+    * [Deployarr v5 Release](https://www.smarthomebeginner.com/deployarr-v5/)
+    * [Video: 20-min Intro](https://www.smarthomebeginner.com/go/deployarr-v5-intro)
+    * [Video: Detailed Guide](https://www.smarthomebeginner.com/go/deployarr-v5-detailed-guide)
 * [Members](https://www.smarthomebeginner.com/membership-account/)
     * [Log In](https://www.smarthomebeginner.com/login/)
     * [Membership Account](https://www.smarthomebeginner.com/membership-account/)
-    * [Join the Geek Army](https://www.smarthomebeginner.com/membership-account/memberships-products-services/)
+    * [Join the Geek Army](https://www.smarthomebeginner.com/membership-account/join-the-geek-army/)
     * [Your Profile](https://www.smarthomebeginner.com/membership-account/your-profile/)
 
 [](#)
@@ -116,14 +120,18 @@ Menu
         * [Home Server](https://www.smarthomebeginner.com/home-server/)
         * [Technology](https://www.smarthomebeginner.com/technology/)
 * [Videos](https://www.youtube.com/@anandslab)
-* [Courses](#)
-    * [How to use Auto-Traefik?](https://www.smarthomebeginner.com/course/how-to-use-auto-traefik/)
-* [Shop](#)
-    * [Deployarr](https://www.smarthomebeginner.com/deployarr/)
+    * [Playlist: Ultimate Docker Server](https://www.smarthomebeginner.com/go/ultimate-docker-server-playlist)
+    * [Playlist: Traefik Master Class](https://www.smarthomebeginner.com/go/traefik-master-class-playlist)
+    * [Playlist: Proxmox Tutorials](https://www.smarthomebeginner.com/go/proxmox-tutorials-playlist)
+* [Deployarr](https://www.smarthomebeginner.com/deployarr/)
+    * [Deployarr Product Page](https://www.smarthomebeginner.com/deployarr/)
+    * [Deployarr v5 Release](https://www.smarthomebeginner.com/deployarr-v5/)
+    * [Video: 20-min Intro](https://www.smarthomebeginner.com/go/deployarr-v5-intro)
+    * [Video: Detailed Guide](https://www.smarthomebeginner.com/go/deployarr-v5-detailed-guide)
 * [Members](https://www.smarthomebeginner.com/membership-account/)
     * [Log In](https://www.smarthomebeginner.com/login/)
     * [Membership Account](https://www.smarthomebeginner.com/membership-account/)
-    * [Join the Geek Army](https://www.smarthomebeginner.com/membership-account/memberships-products-services/)
+    * [Join the Geek Army](https://www.smarthomebeginner.com/membership-account/join-the-geek-army/)
     * [Your Profile](https://www.smarthomebeginner.com/membership-account/your-profile/)
 
 [](#)
@@ -161,13 +169,13 @@ If you would like more information about this practice and to know your choices 
 
 For specific information about Mediavine Partners, the data each collects and their data collection and privacy policies, please visit [Mediavine Partners](https://www.mediavine.com/ad-partners/).
 
-[![](https://www.smarthomebeginner.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fimg.youtube.com%2Fvi%2FldytlKJmPX4%2Fhqdefault.jpg)](https://youtu.be/ldytlKJmPX4)
+[![](https://www.smarthomebeginner.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fimg.youtube.com%2Fvi%2FOnoKy73b-w4%2Fhqdefault.jpg)](https://youtu.be/OnoKy73b-w4)
 
-Proxmox WebUI Behind Traefik
+Deployarr 5 Walkthrough: Docker Homelab in Minutes🚀
 
 > **Be the 1 in 200,000. Help us sustain what we do.**
 > 
-> 90 / 150 by Dec 31, 2024
+> 104 / 150 by Dec 31, 2024
 > 
 > [Join Us](https://www.smarthomebeginner.com/membership-account/memberships-products-services/)
 > 
@@ -192,9 +200,9 @@ Recent Posts
     ![Uptime Kuma Docker Compose](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2093%22%3E%3C/svg%3E "Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring 3")](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
     
     [Uptime Kuma Docker Compose 2024: Ultimate Non-Stop Monitoring](https://www.smarthomebeginner.com/uptime-kuma-docker-compose-guide/)
-* [![Deployarr 4 75 Plus Docker Apps | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/06/Deployarr-4-75-plus-Docker-Apps-150x84.jpg "Deployarr: 75+ Docker Apps in Minutes with Traefik, SSL, Authelia 4")
+* [![Deployarr Version 5 Intro | Smarthomebeginner](https://www.smarthomebeginner.com/images/2024/06/Deployarr-Version-5-Intro-150x85.jpg "Deployarr: 75+ Docker Apps in Minutes with Traefik, SSL, Authelia 4")
     
-    ![Deployarr 4 75 Plus Docker Apps | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2084%22%3E%3C/svg%3E "Deployarr: 75+ Docker Apps in Minutes with Traefik, SSL, Authelia 4")](https://www.smarthomebeginner.com/deployarr/)
+    ![Deployarr Version 5 Intro | Smarthomebeginner](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20150%2085%22%3E%3C/svg%3E "Deployarr: 75+ Docker Apps in Minutes with Traefik, SSL, Authelia 4")](https://www.smarthomebeginner.com/deployarr/)
     
     [Deployarr: 75+ Docker Apps in Minutes with Traefik, SSL, Authelia](https://www.smarthomebeginner.com/deployarr/)
 * [![Bash Aliases For Docker](https://www.smarthomebeginner.com/images/2024/05/bash-aliases-for-Docker-150x84.webp "Simplify Docker, Docker Compose, and Linux Commands with Bash Aliases 5")
