@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=830117941892171&ev=PageView&noscript=1)      Xporter DSA - Mega Seating Plan: Classroom seating chart generator                                      
+![](https://www.facebook.com/tr?id=830117941892171&ev=PageView&noscript=1)      Xporter DSA - Mega Seating Plan: Classroom seating chart generator                                         
 
 [Mega Seating Plan ![](/static/img/2023/logo/White.svg)](https://www.seatingplan.com/) 
 
