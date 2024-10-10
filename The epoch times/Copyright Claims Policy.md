@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump Promises Tax Deduction for Car Loan Interest, Incentives for Auto Industry](https://www.theepochtimes.com/us/trump-promises-tax-deduction-for-car-loan-interest-incentives-for-auto-industry-5739189)
+    
+    NEW By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    
+    [![Trump Promises Tax Deduction for Car Loan Interest, Incentives for Auto Industry](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Promises Tax Deduction for Car Loan Interest, Incentives for Auto Industry](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739261-10102024-DSC04059-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-promises-tax-deduction-for-car-loan-interest-incentives-for-auto-industry-5739189)
+* [Milton Was Deadly, But Not ‘Worst-Case Scenario’](https://www.theepochtimes.com/us/milton-was-deadly-but-not-worst-case-scenario-5739160)
+    
+    NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro), [John Haughey](https://www.theepochtimes.com/author/john-haughey), [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Milton Was Deadly, But Not ‘Worst-Case Scenario’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Milton Was Deadly, But Not ‘Worst-Case Scenario’](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739268-GettyImages-2177043178-205x123.jpg.webp)](https://www.theepochtimes.com/us/milton-was-deadly-but-not-worst-case-scenario-5739160)
+* [TD Bank to Pay $3 Billion Penalty After Admitting to Money Laundering](https://www.theepochtimes.com/business/td-bank-to-pay-3-billion-penalty-after-admitting-to-money-laundering-5739324)
+    
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![TD Bank to Pay $3 Billion Penalty After Admitting to Money Laundering](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![TD Bank to Pay $3 Billion Penalty After Admitting to Money Laundering](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722449-Unknown-5-205x123.jpg.webp)](https://www.theepochtimes.com/business/td-bank-to-pay-3-billion-penalty-after-admitting-to-money-laundering-5739324)
+* [Ethel Kennedy, Widow of Sen. Robert F. Kennedy and Human Rights Advocate, Dies at 96](https://www.theepochtimes.com/us/ethel-kennedy-widow-of-sen-robert-f-kennedy-and-human-rights-advocate-dies-at-96-post-5739238)
+    
+    3hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    
+    [![Ethel Kennedy, Widow of Sen. Robert F. Kennedy and Human Rights Advocate, Dies at 96](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Ethel Kennedy, Widow of Sen. Robert F. Kennedy and Human Rights Advocate, Dies at 96](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739363-GettyImages-455242913-Ethel-Kennedy-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/ethel-kennedy-widow-of-sen-robert-f-kennedy-and-human-rights-advocate-dies-at-96-post-5739238)
+* [CDC Issues New Travel Advisory for Rwanda due to Ebola-Like Virus](https://www.theepochtimes.com/health/cdc-issues-new-travel-advisory-for-rwanda-due-to-ebola-like-virus-5739221)
+    
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![CDC Issues New Travel Advisory for Rwanda due to Ebola-Like Virus](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![CDC Issues New Travel Advisory for Rwanda due to Ebola-Like Virus](https://img.theepochtimes.com/assets/uploads/2024/07/12/id5684895-cdc-headquarters-2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/cdc-issues-new-travel-advisory-for-rwanda-due-to-ebola-like-virus-5739221)
+* [Hurricane Milton Destroys Roof of Tropicana Field Stadium Near Tampa](https://www.theepochtimes.com/us/hurricane-milton-destroys-roof-of-tropicana-field-stadium-near-tampa-5739203)
+    
+    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Hurricane Milton Destroys Roof of Tropicana Field Stadium Near Tampa](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Hurricane Milton Destroys Roof of Tropicana Field Stadium Near Tampa](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739365-Tropicana-Field-AP24284533614662-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-milton-destroys-roof-of-tropicana-field-stadium-near-tampa-5739203)
+* [EU Approves 35 Billion Euro Loan to Kyiv Backed by Frozen Russian Assets](https://www.theepochtimes.com/world/eu-approves-35-billion-euro-loan-to-kyiv-backed-by-frozen-russian-assets-5739047)
+    
+    6hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![EU Approves 35 Billion Euro Loan to Kyiv Backed by Frozen Russian Assets](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![EU Approves 35 Billion Euro Loan to Kyiv Backed by Frozen Russian Assets](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739368-2024-05-17T162326Z_1_LYNXMPEK4G0MN_RTROPTP_4_UKRAINE-CRISIS-EU-RUSSIA-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/eu-approves-35-billion-euro-loan-to-kyiv-backed-by-frozen-russian-assets-5739047)
+* [US, Japan to Expand Presence Near China: Pentagon](https://www.theepochtimes.com/world/us-japan-to-expand-presence-near-china-pentagon-5739073)
+    
+    6hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    
+    [![US, Japan to Expand Presence Near China: Pentagon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US, Japan to Expand Presence Near China: Pentagon](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732268-Maritime-Exercises-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-japan-to-expand-presence-near-china-pentagon-5739073)
 * [FEMA Director: Florida Dodged ‘Worst-Case Scenario’ With Hurricane Milton](https://www.theepochtimes.com/us/fema-director-florida-dodged-worst-case-scenario-with-hurricane-milton-5739130)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![FEMA Director: Florida Dodged ‘Worst-Case Scenario’ With Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FEMA Director: Florida Dodged ‘Worst-Case Scenario’ With Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739096-GettyImages-2177761090-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-director-florida-dodged-worst-case-scenario-with-hurricane-milton-5739130)
+    ![FEMA Director: Florida Dodged ‘Worst-Case Scenario’ With Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739184-GettyImages-2177761090KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-director-florida-dodged-worst-case-scenario-with-hurricane-milton-5739130)
 * [Tennis Great Rafael Nadal to Retire This Year](https://www.theepochtimes.com/sports/tennis-great-rafael-nadal-to-retire-this-year-5738981)
     
-    2hr By [Todd Karpovich](https://www.theepochtimes.com/author/todd-karpovich)
+    7hr By [Todd Karpovich](https://www.theepochtimes.com/author/todd-karpovich)
     
     [![Tennis Great Rafael Nadal to Retire This Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Tennis Great Rafael Nadal to Retire This Year](https://img.theepochtimes.com/assets/uploads/2024/08/08/id5701805-Rafael-Nadal-205x123.jpg.webp)](https://www.theepochtimes.com/sports/tennis-great-rafael-nadal-to-retire-this-year-5738981)
-* [Inflation Tops Market Estimates as Food, Shelter Costs Rise in September](https://www.theepochtimes.com/us/inflation-tops-market-estimates-as-food-shelter-costs-rise-in-september-5738803)
-    
-    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Inflation Tops Market Estimates as Food, Shelter Costs Rise in September](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Inflation Tops Market Estimates as Food, Shelter Costs Rise in September](https://img.theepochtimes.com/assets/uploads/2024/05/06/id5644677-GettyImages-1537694096-205x123.jpg.webp)](https://www.theepochtimes.com/us/inflation-tops-market-estimates-as-food-shelter-costs-rise-in-september-5738803)
-* [Czech Republic and Poland Call on EU to Do More on Illegal Immigration](https://www.theepochtimes.com/world/czech-republic-and-poland-call-on-eu-to-do-more-on-illegal-immigration-5738912)
-    
-    5hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
-    
-    [![Czech Republic and Poland Call on EU to Do More on Illegal Immigration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Czech Republic and Poland Call on EU to Do More on Illegal Immigration](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739046-Czech_Republic_Poland_24283337040522-LS-205x123.webp)](https://www.theepochtimes.com/world/czech-republic-and-poland-call-on-eu-to-do-more-on-illegal-immigration-5738912)
-* [China Has No Right to Represent Taiwan, President Lai Says](https://www.theepochtimes.com/china/china-has-no-right-to-represent-taiwan-president-lai-says-5738906)
-    
-    6hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
-    
-    [![China Has No Right to Represent Taiwan, President Lai Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![China Has No Right to Represent Taiwan, President Lai Says](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5738907-2410092332252378-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-has-no-right-to-represent-taiwan-president-lai-says-5738906)
-* [4 Deaths From Tornadoes Spawned by Hurricane Milton](https://www.theepochtimes.com/us/multiple-deaths-from-tornadoes-spawned-by-hurricane-milton-5738884)
-    
-    7hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
-    
-    [![4 Deaths From Tornadoes Spawned by Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![4 Deaths From Tornadoes Spawned by Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739045-Hurricane-milton-AP24284073648139-LS-205x123.webp)](https://www.theepochtimes.com/us/multiple-deaths-from-tornadoes-spawned-by-hurricane-milton-5738884)
-* [Automation Could Make or Break New US Port Strike Agreement](https://www.theepochtimes.com/us/automation-could-make-or-break-new-us-port-strike-agreement-5737098)
-    
-    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Automation Could Make or Break New US Port Strike Agreement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Automation Could Make or Break New US Port Strike Agreement](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733235-GettyImages-2175709221-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/automation-could-make-or-break-new-us-port-strike-agreement-5737098)
-* [Trump Rejects Fox News Proposal of 2nd Debate With Harris](https://www.theepochtimes.com/us/trump-rejects-fox-news-proposal-of-2nd-debate-with-harris-5738806)
-    
-    7hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
-    
-    [![Trump Rejects Fox News Proposal of 2nd Debate With Harris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Rejects Fox News Proposal of 2nd Debate With Harris](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722076-DSC4013-debate-trump-kamala-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-rejects-fox-news-proposal-of-2nd-debate-with-harris-5738806)
-* [Trump to Hold Rare California Rally in Coachella](https://www.theepochtimes.com/us/trump-to-hold-rare-california-rally-in-coachella-5738798)
-    
-    14hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
-    
-    [![Trump to Hold Rare California Rally in Coachella](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump to Hold Rare California Rally in Coachella](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5724029-Donald-Trump-11_JF_09132024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-hold-rare-california-rally-in-coachella-5738798)
-* [In Wake of Roe Reversal, Abortion-Related Legal Battles Increase](https://www.theepochtimes.com/article/in-wake-of-roe-v-wade-abortion-related-legal-battles-increase-5720894)
-    
-    16hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![In Wake of Roe Reversal, Abortion-Related Legal Battles Increase](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![In Wake of Roe Reversal, Abortion-Related Legal Battles Increase](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738516-Abortion-Bubble-Zone-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-wake-of-roe-v-wade-abortion-related-legal-battles-increase-5720894)
+    ![Tennis Great Rafael Nadal to Retire This Year](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739186-Rafael-NadalKO-205x123.jpg.webp)](https://www.theepochtimes.com/sports/tennis-great-rafael-nadal-to-retire-this-year-5738981)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
