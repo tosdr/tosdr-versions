@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
+
 [Joint Health](https://www.sciencedaily.com/news/health_medicine/joint_health/)
 
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
-
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Big Bang](https://www.sciencedaily.com/news/space_time/big_bang/)
-
-[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
 [Weapons Technology](https://www.sciencedaily.com/news/matter_energy/weapons_technology/)
 
+[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
+
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
+
 [Mating and Breeding](https://www.sciencedaily.com/news/plants_animals/mating_and_breeding/)
-
-[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
-
-[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
 
   
 
