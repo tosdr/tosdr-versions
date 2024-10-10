@@ -39,32 +39,25 @@
     * [LOGIN](https://pingperfect.com/clientarea.php)
     * [REGISTER](https://pingperfect.com/register.php)
 
-PingPerfect.com | 404                     
+PingPerfect.com | 404                    
 
 404!
 ====
 
   
 
+Something went wrong...  
   
-![](https://pingperfect.com/img/Logo.webp)  
-  
-
-Oops - The page you are looking for is not available
-----------------------------------------------------
-
-  
-Please contact the support department and let them know something went wrong!
-
-The page you were looking for no longer exists, it may have been an expired promotion or service,  
-use the button below to go back to the page you were on, or use the main menu to find a new page  
-  
-Best Regards,  
-PingPerfect
+Use the menu bar above or the buttons below to navigate elsewhere.
 
   
 
-### Check The Below Links
+[house
+
+Home
+====
+
+##### Click me!](https://gamepanel.pingperfect.com/Interface/Game/GameServers)
 
 [Game Panel
 ==========
