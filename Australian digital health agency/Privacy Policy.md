@@ -105,7 +105,7 @@ Summary
 
 This summary sets out the key points about how the Australian Digital Health Agency (the Agency) handles personal information.
 
-We collect, hold, use, and disclose personal information to carry out our functions or activities under the the _[Public Governance, Performance and Accountability (Establishing the Australian Digital Health Agency) Rule 2016](https://www.legislation.gov.au/Details/F2016L00070)_.
+We collect, hold, use, and disclose personal information to carry out our functions or activities under the the [_Public Governance, Performance and Accountability (Establishing the Australian Digital Health Agency) Rule 2016_](https://www.legislation.gov.au/Details/F2016L00070).
 
 This summary also explains how the Agency, as the System Operator under the _My Health Records Act 2012_ (Cth), collects, uses, and discloses personal information to operate and manage the My Health Record system. This information is handled subject to the My Health Records Act, _Healthcare Identifiers Act 2010_ (Cth), and _Privacy Act 1988_ (Cth).
 
@@ -149,6 +149,23 @@ We collect personal information when a registered healthcare provider organisati
 We collect your personal information from healthcare provider organisation, Services Australia, the National Repository Service (NRS), and other registered repository operators.
 
 We also collect personal information through our websites and social networking services such as Facebook, Twitter, and YouTube. We use this information to improve our website and receive feedback from the community.
+
+### Notice for the Collection of Personal Information (Collection Notice)
+
+The Australian Digital Health Agency (the Agency) may collect your personal information through audio and/or visual recording. When collecting your personal information, the Agency is legislatively required to provide you with a Collection Notice. A Collection Notice informs you of certain matters, these matters include:
+
+* the Agency’s identity and contact details
+* the fact and circumstances of collection
+* whether the collection is required or authorised by law
+* the purposes of collection
+* the consequences if personal information is not collected
+* the Agency’s usual disclosures of personal information of the kind collected by the Agency
+* information about the Agency’s Privacy Policy
+* whether the Agency is likely to disclose personal information to overseas recipients, and if practicable, the countries where they are located.
+
+Before you provide your personal information, you should read the Collection Notice to learn how the Agency will handle your personal information if you choose to provide it. There is no obligation to provide your personal information, however it may affect your ability to access Agency services if you choose not to provide your personal information when it is requested. The Collection Notice below should be consulted if no specific Collection Notice has been provided by the Agency.
+
+View the [Privacy Collection Notice (PDF, 165.63 KB)](https://www.digitalhealth.gov.au/sites/default/files/documents/australian-digital-health-agency-privacy-collection-notice-10-october-2024.pdf "Privacy Collection Notice")
 
 ### Agency information technology security practices
 
