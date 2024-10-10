@@ -401,39 +401,49 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Hurricane Milton update: Storm weakens to Category 2, flash flood emergency issued for Tampa Bay](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/digital_radar-milton2.gif?ve=1&tl=1)
+ [![Dallas Stars kick off new season tonight in Nashville](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/GettyImages-2001187097.jpg?ve=1&tl=1)
 
- ![Hurricane Milton update: Storm weakens to Category 2, flash flood emergency issued for Tampa Bay](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/digital_radar-milton2.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+ ![Dallas Stars kick off new season tonight in Nashville](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/592/333/GettyImages-2001187097.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-stars-2024-season-opener)
+
+### [Dallas Stars kick off new season tonight in Nashville](https://www.fox4news.com/sports/dallas-stars-2024-season-opener)
+
+ [![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2177760613.jpg?ve=1&tl=1)
+
+ ![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177760613.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
 
 Live Now
 
-### [Hurricane Milton update: Storm weakens to Category 2, flash flood emergency issued for Tampa Bay](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+### [Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
 
- [![Trackdown: Arrest made in Dallas 7-Eleven clerk’s murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/dallas-7-eleven-store-clerk-murder.png?ve=1&tl=1)
+ [![Tropicana Field roof ripped off by Hurricane Milton](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/gettyimages-2177012789.jpg?ve=1&tl=1)
 
- ![Trackdown: Arrest made in Dallas 7-Eleven clerk’s murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/dallas-7-eleven-store-clerk-murder.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trackdown-arrest-made-dallas-7-eleven-clerks-murder)
+ ![Tropicana Field roof ripped off by Hurricane Milton](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177012789.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
 
-### [Trackdown: Arrest made in Dallas 7-Eleven clerk’s murder](https://www.fox4news.com/news/trackdown-arrest-made-dallas-7-eleven-clerks-murder)
+### [Tropicana Field roof ripped off by Hurricane Milton](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
 
- [![Dallas convicted killer may be tied to at least 4 more aggravated assault shootings](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-dallas-multiple-shootings-investigation-9p_00.00.05.16.jpg?ve=1&tl=1)
+ [![LIVE: Big Boy, the world's largest steam locomotive, arrives in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/snapshot-96.jpg?ve=1&tl=1)
 
- ![Dallas convicted killer may be tied to at least 4 more aggravated assault shootings](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-dallas-multiple-shootings-investigation-9p_00.00.05.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kevin-sheffield-murder-conviction-person-of-interest-4-additional-cases)
+ ![LIVE: Big Boy, the world's largest steam locomotive, arrives in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/snapshot-96.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/big-boy-train-fort-worth-locomotive)
 
-### [Dallas convicted killer may be tied to at least 4 more aggravated assault shootings](https://www.fox4news.com/news/kevin-sheffield-murder-conviction-person-of-interest-4-additional-cases)
+Live Now
 
- [![Keller ISD to offer 'alternative' school meals for students more than $25 in debt](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-amelia-keller-isd-lunch-debt-alternative-meals-9_00.00.29.38.jpg?ve=1&tl=1)
+### [LIVE: Big Boy, the world's largest steam locomotive, arrives in Fort Worth](https://www.fox4news.com/news/big-boy-train-fort-worth-locomotive)
 
- ![Keller ISD to offer 'alternative' school meals for students more than $25 in debt](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-amelia-keller-isd-lunch-debt-alternative-meals-9_00.00.29.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/keller-isd-offer-alternative-school-meals-students-more-than-25-debt)
+ [![Hurricane Milton live video: Watch Florida webcams](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/videoframe_13106.png?ve=1&tl=1)
 
-### [Keller ISD to offer 'alternative' school meals for students more than $25 in debt](https://www.fox4news.com/news/keller-isd-offer-alternative-school-meals-students-more-than-25-debt)
-
- [![Hurricane Milton live video: Watch Florida webcams](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/gct-00001.jpg?ve=1&tl=1)
-
- ![Hurricane Milton live video: Watch Florida webcams](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/gct-00001.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
+ ![Hurricane Milton live video: Watch Florida webcams](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/videoframe_13106.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
 
 Live Now
 
 ### [Hurricane Milton live video: Watch Florida webcams](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
+
+[![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/milton-lanfall.jpg?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
+
+WATCH LIVE COVERAGE
+
+[Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
+
+[Milton moved through Florida on Thursday after slamming into the state as a Category 3 hurricane – causing at least four deaths and leaving millions without power.](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
 
 [![Hurricane Milton update: Storm weakens to Category 2, flash flood emergency issued for Tampa Bay](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/foxwx5pmradar.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
@@ -459,21 +469,13 @@ WATCH LIVE COVERAGE
 
 [Here the view from live cameras up and down the west coast of Florida, from Clearwater to Tampa to Sarasota, as Hurricane Milton comes ashore.](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
 
-[![Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/149/84/dog-rescued-main-image.jpg?ve=1&tl=1)](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near)
+[![Tropicana Field roof ripped off by Hurricane Milton](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/149/84/gettyimages-2177012789.jpg?ve=1&tl=1)](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
 
 WATCH LIVE COVERAGE
 
-[Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near)
+[Tropicana Field roof ripped off by Hurricane Milton](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
 
-[A dog left to fend for himself during Hurricane Milton has been rescued by the Florida Highway Patrol.](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near) 
-
-[![Chilling warnings for Tampa Bay area residents ahead of Hurricane Milton](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/gettyimages-2176914630.jpg?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-tampa-bay-evacuation-warnings)
-
-WATCH LIVE COVERAGE
-
-[Chilling warnings for Tampa Bay area residents ahead of Hurricane Milton](https://www.fox4news.com/news/hurricane-milton-tampa-bay-evacuation-warnings)
-
-[Hurricane Milton is on track to slam into the west coast of Florida as one of the most destructive storms the Tampa Bay area has ever seen. Local officials are not mincing words as they urge storm-weary residents to evacuate.](https://www.fox4news.com/news/hurricane-milton-tampa-bay-evacuation-warnings)
+[Tropicana Field, home to the Tampa Bay Rays, was set to serve as the home base for thousands of emergency responders who set up camp ahead of Hurricane Milton.](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
 
 ###### [News](https://www.fox4news.com/news)
 
