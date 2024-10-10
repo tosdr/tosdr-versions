@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/radiesthesie-als-spiritueel-geschenk/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/geschiedenis/reincarnatie/21-juli-bijzondere-workshop-de-tranen-van-de-voorouders/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
