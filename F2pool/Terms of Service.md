@@ -20,8 +20,6 @@ English
 
 [Create Account](https://www.f2pool.com/user/signup) [Sign In](https://www.f2pool.com/user/signin)
 
-* [Closing DNX mining pool](https://f2pool.zendesk.com/hc/en-us/articles/38119571528601-Closing-DNX-mining-pool) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
-
 F2Pool Terms of Service
 -----------------------
 
