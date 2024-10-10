@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* [Over 160,000 New Viruses Discovered by AI](https://www.sciencedaily.com/releases/2024/10/241009121318.htm)
+* [Jupiter's Great Red Spot Squiggling](https://www.sciencedaily.com/releases/2024/10/241009183537.htm)
 * [Unique Genes Associated With Disease Risk](https://www.sciencedaily.com/releases/2024/10/241009121544.htm)
 * [How Eating Less Can Extend Lifespan](https://www.sciencedaily.com/releases/2024/10/241009121347.htm)
 * [Special Immune Cells May Stop Metastatic Cancer](https://www.sciencedaily.com/releases/2024/10/241007114918.htm)
@@ -216,8 +218,6 @@ this hour
 * [Electronic Tongue Reveals AI Inner Thoughts](https://www.sciencedaily.com/releases/2024/10/241009121229.htm)
 * [Another Step Towards Decoding Smell](https://www.sciencedaily.com/releases/2024/10/241009121121.htm)
 * [Will AI Tools Revolutionize Public Health?](https://www.sciencedaily.com/releases/2024/10/241008201419.htm)
-* [Toward More Efficient Electronics](https://www.sciencedaily.com/releases/2024/10/241008201417.htm)
-* [Synthetic Genetic Material Produced](https://www.sciencedaily.com/releases/2024/10/241008201414.htm)
 
 Trending Topics
 ---------------
@@ -228,19 +228,19 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
-
 [Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
+
+[Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
 [Joint Health](https://www.sciencedaily.com/news/health_medicine/joint_health/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Weapons Technology](https://www.sciencedaily.com/news/matter_energy/weapons_technology/)
-
 [Quantum Computers](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
 
-[Quantum Computing](https://www.sciencedaily.com/news/matter_energy/quantum_computing/)
+[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+
+[NASA](https://www.sciencedaily.com/news/space_time/nasa/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -248,7 +248,7 @@ this week
 
 [Birds](https://www.sciencedaily.com/news/plants_animals/birds/)
 
-[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
+[Oceanography](https://www.sciencedaily.com/news/earth_climate/oceanography/)
 
   
 
