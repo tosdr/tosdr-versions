@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KIII/images/94897892-4cc1-46a4-a816-de3a86f9d5ba/20241010T033802/94897892-4cc1-46a4-a816-de3a86f9d5ba_16x9.jpg) ![](https://media.kagstv.com/assets/KIII/images/94897892-4cc1-46a4-a816-de3a86f9d5ba/20241010T033802/94897892-4cc1-46a4-a816-de3a86f9d5ba_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-am-forest-service-raises-wildfire-preparedness-level/503-86a97a04-92b9-4221-9d13-3292cf50162f)
+        
+        #### [Texas A&M Forest Service raises Wildland Fire Preparedness Level as rural counties see busy days fighting fires](https://www.kagstv.com/article/news/local/texas-am-forest-service-raises-wildfire-preparedness-level/503-86a97a04-92b9-4221-9d13-3292cf50162f)
+        
     *  [![](https://media.kagstv.com/assets/WFAA/images/4dc20b6a-8e57-4cdf-b11c-ef61e0a2982f/20240709T225712/4dc20b6a-8e57-4cdf-b11c-ef61e0a2982f_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/4dc20b6a-8e57-4cdf-b11c-ef61e0a2982f/20240709T225712/4dc20b6a-8e57-4cdf-b11c-ef61e0a2982f_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-am-university-commerce-considering-potential-new-name/287-9a47a6a5-cf8c-4968-b5cf-fd32cb4fd5f2)
         
         #### [Texas A&M University-Commerce considering another potential new name](https://www.kagstv.com/article/news/local/texas-am-university-commerce-considering-potential-new-name/287-9a47a6a5-cf8c-4968-b5cf-fd32cb4fd5f2)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/d2ec8335-f4fe-4762-8941-8d1ff0a596f9/20241007T154247/d2ec8335-f4fe-4762-8941-8d1ff0a596f9_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/d2ec8335-f4fe-4762-8941-8d1ff0a596f9/20241007T154247/d2ec8335-f4fe-4762-8941-8d1ff0a596f9_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-16-year-old-last-seen-in-navasota-area-on-oct-5-2024/500-f1dc6498-7c6e-4b54-ab14-f03d0da00a3f)
-        
-        #### [Authorities seeking help finding missing 16-year-old last seen in Navasota area](https://www.kagstv.com/article/news/local/missing-16-year-old-last-seen-in-navasota-area-on-oct-5-2024/500-f1dc6498-7c6e-4b54-ab14-f03d0da00a3f)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/CCT/images/aab71019-9b3c-47af-b3c1-ee085ecebdb4/20241010T133508/aab71019-9b3c-47af-b3c1-ee085ecebdb4_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/aab71019-9b3c-47af-b3c1-ee085ecebdb4/20241010T133508/aab71019-9b3c-47af-b3c1-ee085ecebdb4_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/us-jobless-claims-jump-to-highest-in-more-than-a-year/507-49d361e4-4fd9-4bfb-8ffd-f526656449c3)
+        
+        #### [US jobless claims jump to 258,000, the most in more than a year. Analysts point to Hurricane Helene](https://www.kagstv.com/article/news/nation-world/us-jobless-claims-jump-to-highest-in-more-than-a-year/507-49d361e4-4fd9-4bfb-8ffd-f526656449c3)
+        
     *  [![](https://media.kagstv.com/assets/WTLV/images/bf40e365-8bb4-4b45-910e-59d19288ec79/20241007T164752/bf40e365-8bb4-4b45-910e-59d19288ec79_16x9.jpg) ![](https://media.kagstv.com/assets/WTLV/images/bf40e365-8bb4-4b45-910e-59d19288ec79/20241007T164752/bf40e365-8bb4-4b45-910e-59d19288ec79_360x203.jpg)](https://www.kagstv.com/article/weather/hurricane/category-5-hurricane-milton-hit-texas/500-f6daea50-1e51-4aa5-840d-a7d267ec1c43)
         
         #### [Will Hurricane Milton hit Texas?](https://www.kagstv.com/article/weather/hurricane/category-5-hurricane-milton-hit-texas/500-f6daea50-1e51-4aa5-840d-a7d267ec1c43)
-        
-    *  [![](https://media.kagstv.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/e73678de-f29f-40fc-bac8-2596fd9df22e/20241005T154349/e73678de-f29f-40fc-bac8-2596fd9df22e_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
-        
-        #### [Hurricane Helene nearly wiped this North Carolina mountain town off the map](https://www.kagstv.com/article/news/nation-world/north-carolina-mountain-town-that-hurricane-helene-nearly-wiped-off-the-map/507-bf9999a8-8d5c-4663-92e0-1213bb4d233c)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-68°
+75°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
