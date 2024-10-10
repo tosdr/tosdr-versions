@@ -1,4 +1,4 @@
-                         
+                          
 
 [](#)
 
@@ -20,6 +20,7 @@
 * [Design](https://hypebeast.com/design)
 * [Music](https://hypebeast.com/music)
 * [Lifestyle](https://hypebeast.com/lifestyle)
+* [Videos](https://hypebeast.com/videos)
 * [Brands](https://hypebeast.com/directory)
 * [Magazine](https://hypebeast.com/magazine)
 * [Hypebeast100](https://hypebeast.com/hb100)
