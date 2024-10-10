@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 601 utilisateurs actifs
+##### 140 utilisateurs actifs
 
 Chargement en cours
 
@@ -152,7 +152,7 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 719 membres
+* 67 720 membres
 * 915 articles
 * 26 676 commentaires
 
