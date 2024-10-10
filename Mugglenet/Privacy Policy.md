@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-During filming, Ollivander’s wand shop had over 17,000 individually labeled wand boxes inside.
+Ginny Weasley’s middle name is Molly.
 
 ### Potter History
 
-October 8, 2013 – The Anne Rowling Regenerative Neurology Clinic opens at the University of Edinburgh.
+December 24, 2008 – In a first for the Harry Potter fandom, MuggleNet launches MuggleSpace, a social network designed specifically for Harry Potter fans.
 
 ### Potter Quote
 
-“She has eyes just like a salamander.”
+“Now you mention it, d’you know . . . I think I’m feeling a bit . . . rebellious.”
 
 [](#)
 
