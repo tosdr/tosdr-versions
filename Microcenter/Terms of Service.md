@@ -40,7 +40,7 @@ Search for product
     
     Dallas
     
-    Opens at 10AM
+    Open until 9PM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
@@ -88,7 +88,7 @@ Search for product
         
         Questions? Text or call
         
-        Closed
+        Open Now
         
         Mon - Sat 10 to 9, Sun 11 to 6
         
@@ -1029,7 +1029,7 @@ Product category, brand navigation and general site naviation
         
     * [Account Sign in](https://account.microcenter.com/members/account.aspx)
 * [Top Deals](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv)
-    * [Tech Days](https://www.microcenter.com/search/search_results.aspx?Ntt=5126&Ntk=Adv)
+    * [Fall Savings](https://www.microcenter.com/search/search_results.aspx?Ntt=5126&Ntk=Adv)
     * [PC Parts](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966998)
     * [Processors](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966995)
     * [SSDs](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294945779)
