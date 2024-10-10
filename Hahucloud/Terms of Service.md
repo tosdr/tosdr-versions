@@ -45,10 +45,17 @@ If a customer cancels or fails to renew their hosting package, they are responsi
 
 Audio/Video Streaming is not hosting friendly. As such, we do not allow any streaming of audio or video content where the core files are hosted on our platform. Offending accounts will be suspended without noticed or terminated.
 
-#### Websites That We Don't Allow
+#### Prohibited Website Types
 
-Our servers can handle any type of website you can imagine , But we had to impose some limits for legal reasons and help our customers get the best of or service.  
-**So we don't allow the following sites on our servers:** Adult sites, Sites that distribute illegal materials and violate copyright laws, File Storage Sites, Tube Sites, Political And Religious Sites.
+While our servers are capable of hosting a wide range of websites, we enforce certain restrictions to comply with legal requirements and ensure an optimal experience for all customers. The following types of websites are not permitted on our servers:
+
+* **Adult Content:** Websites that feature or promote explicit adult material.
+* **Illegal Content:** Websites that distribute or promote illegal materials, including content that violates copyright or intellectual property laws.
+* **File Storage/Sharing Sites:** Websites primarily used for file storage or sharing large files.
+* **Video Streaming/Torrenting Sites:** "Tube" sites or similar platforms used for unauthorized streaming or torrenting.
+* **Political or Religious Websites:** Websites that promote political campaigns, religious agendas, or related activities.
+
+These restrictions are in place to maintain a secure and compliant hosting environment for everyone.
 
 #### Copyright
 
