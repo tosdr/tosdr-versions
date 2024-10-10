@@ -404,5 +404,3 @@ PO BOX 10480
 Canoga Park, CA 91309
 
 [Privacy Policy](https://www.freespeechcoalition.com/privacy-policy)   [Terms of Use](https://www.freespeechcoalition.com/terms-of-use)   [Press Kit](https://www.freespeechcoalition.com/press-kit)   [Contact Us](https://www.freespeechcoalition.com/contact-us) [Jobs](https://www.freespeechcoalition.com/jobs)
-
-[](https://cybervillains.com/@alison)
