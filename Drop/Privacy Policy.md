@@ -3,16 +3,6 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Prime Time 2024
-
-The sale of the season ends today.
-
-SAVE UP TO 50%
-
-_keyboard\_arrow\_right_](https://drop.com/all-communities/drops/exclusive-deals)
-
-Free Standard Shipping in the US on orders over $99
-
 Free Standard Shipping in the US on orders over $99
 
 [Drop](https://drop.com/)
