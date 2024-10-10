@@ -1,15 +1,15 @@
-Wednesday, October 9 2024
+Thursday, October 10 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Thursday, October 10, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-10-2024/)
+* [How Is It Misinformation To Ask A Question](https://www.conservativedailynews.com/2024/10/how-is-it-misinformation-to-ask-a-question/)
 * [Media Blitz Not Working For Democrats](https://www.conservativedailynews.com/2024/10/media-blitz-not-working-for-democrats/)
 * [President Joe Biden’s Schedule for Wednesday, October 9, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-9-2024/)
 * [It’s All About Bringing Back The American Dream](https://www.conservativedailynews.com/2024/10/its-all-about-bringing-back-the-american-dream/)
 * [Elon Musk Warns Tucker Carlson Harris Will Try To Shut Down X ‘By Any Means Possible’ If Elected](https://www.conservativedailynews.com/2024/10/elon-musk-warns-tucker-carlson-harris-will-try-to-shut-down-x-by-any-means-possible-if-elected/)
 * [A Kamala Harris Presidency is the End of America as We have Known and Loved It](https://www.conservativedailynews.com/2024/10/a-kamala-harris-presidency-is-the-end-of-america-as-we-have-known-and-loved-it/)
 * [Wage gouging, jobs numbers, Fed blunders mean more inflation](https://www.conservativedailynews.com/2024/10/wage-gouging-jobs-numbers-fed-blunders-mean-more-inflation/)
-* [Colorado Supreme Court Finally Dismisses Case Against Christian Cake Baker After Over 12 Years Of Legal Battles](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
-* [Cook Political Report Shifts Key Swing- State Senate Race In Republicans’ Favor](https://www.conservativedailynews.com/2024/10/cook-political-report-shifts-key-swing-state-senate-race-in-republicans-favor/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,6 +126,24 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
+* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-10-2024/)
+    
+    [President Joe Biden’s Schedule for Thursday, October 10, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-10-2024/)
+    
+    October 10, 2024
+    
+* [![Joe Biden Kamala Harris Policy administration](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv100924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/those-were-the-days/)
+    
+    [Those Were the Days…](https://www.conservativedailynews.com/2024/10/those-were-the-days/)
+    
+    October 9, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/07/1657581402_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/10/how-is-it-misinformation-to-ask-a-question/)
+    
+    [How Is It Misinformation To Ask A Question](https://www.conservativedailynews.com/2024/10/how-is-it-misinformation-to-ask-a-question/)
+    
+    October 9, 2024
+    
 * [![joe Biden Kamala Harris hurricane relief spending](https://www.conservativedailynews.com/wp-content/uploads/2024/10/02-peanuts-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/this-is-nuts/)
     
     [This Is Nuts](https://www.conservativedailynews.com/2024/10/this-is-nuts/)
@@ -155,24 +173,6 @@ Recent Posts
     [Media Blitz Not Working For Democrats](https://www.conservativedailynews.com/2024/10/media-blitz-not-working-for-democrats/)
     
     October 9, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/President_Biden_held_a_telephone_call_with_Ukrainian_President_Zelenskyy-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-9-2024/)
-    
-    [President Joe Biden’s Schedule for Wednesday, October 9, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-9-2024/)
-    
-    October 9, 2024
-    
-* [![Home for sale](https://www.conservativedailynews.com/wp-content/uploads/2017/08/Home-for-sale.jpg)](https://www.conservativedailynews.com/2024/10/its-all-about-bringing-back-the-american-dream/)
-    
-    [It’s All About Bringing Back The American Dream](https://www.conservativedailynews.com/2024/10/its-all-about-bringing-back-the-american-dream/)
-    
-    October 8, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/640px-Elon_Musk_3017880307-220x150.jpg)](https://www.conservativedailynews.com/2024/10/elon-musk-warns-tucker-carlson-harris-will-try-to-shut-down-x-by-any-means-possible-if-elected/)
-    
-    [Elon Musk Warns Tucker Carlson Harris Will Try To Shut Down X ‘By Any Means Possible’ If Elected](https://www.conservativedailynews.com/2024/10/elon-musk-warns-tucker-carlson-harris-will-try-to-shut-down-x-by-any-means-possible-if-elected/)
-    
-    October 8, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
