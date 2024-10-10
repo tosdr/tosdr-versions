@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [China Has No Right to Represent Taiwan, President Lai Says](https://www.theepochtimes.com/china/china-has-no-right-to-represent-taiwan-president-lai-says-5738906)
+    
+    NEW By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    
+    [![China Has No Right to Represent Taiwan, President Lai Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![China Has No Right to Represent Taiwan, President Lai Says](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5738907-2410092332252378-205x123.jpg.webp)](https://www.theepochtimes.com/china/china-has-no-right-to-represent-taiwan-president-lai-says-5738906)
+* [Multiple Deaths From Tornadoes Spawned by Hurricane Milton](https://www.theepochtimes.com/us/multiple-deaths-from-tornadoes-spawned-by-hurricane-milton-5738884)
+    
+    1hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![Multiple Deaths From Tornadoes Spawned by Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Multiple Deaths From Tornadoes Spawned by Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5738872-Hurricane-milton-AP24284073648139-205x123.jpg.webp)](https://www.theepochtimes.com/us/multiple-deaths-from-tornadoes-spawned-by-hurricane-milton-5738884)
+* [Automation Could Make or Break New US Port Strike Agreement](https://www.theepochtimes.com/us/automation-could-make-or-break-new-us-port-strike-agreement-5737098)
+    
+    1hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Automation Could Make or Break New US Port Strike Agreement](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Automation Could Make or Break New US Port Strike Agreement](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733235-GettyImages-2175709221-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/automation-could-make-or-break-new-us-port-strike-agreement-5737098)
+* [Trump Rejects Fox News’ Proposal of 2nd Debate With Harris](https://www.theepochtimes.com/us/trump-rejects-fox-news-proposal-of-2nd-debate-with-harris-5738806)
+    
+    1hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle)
+    
+    [![Trump Rejects Fox News’ Proposal of 2nd Debate With Harris](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Rejects Fox News’ Proposal of 2nd Debate With Harris](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722076-DSC4013-debate-trump-kamala-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-rejects-fox-news-proposal-of-2nd-debate-with-harris-5738806)
 * [Trump to Hold Rare California Rally in Coachella](https://www.theepochtimes.com/us/trump-to-hold-rare-california-rally-in-coachella-5738798)
     
-    1hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
+    7hr By [Janice Hisle](https://www.theepochtimes.com/reporter/janice-hisle) and [Brad Jones](https://www.theepochtimes.com/author/brad-jones)
     
     [![Trump to Hold Rare California Rally in Coachella](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump to Hold Rare California Rally in Coachella](https://img.theepochtimes.com/assets/uploads/2024/09/13/id5724029-Donald-Trump-11_JF_09132024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-hold-rare-california-rally-in-coachella-5738798)
 * [In Wake of Roe Reversal, Abortion-Related Legal Battles Increase](https://www.theepochtimes.com/article/in-wake-of-roe-v-wade-abortion-related-legal-battles-increase-5720894)
     
-    4hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    10hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![In Wake of Roe Reversal, Abortion-Related Legal Battles Increase](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![In Wake of Roe Reversal, Abortion-Related Legal Battles Increase](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738516-Abortion-Bubble-Zone-2-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-wake-of-roe-v-wade-abortion-related-legal-battles-increase-5720894)
 * [Drug Trials Funded by Manufacturers Find 50 Percent Greater Drug Effectiveness](https://www.theepochtimes.com/health/drug-trials-funded-by-manufacturers-find-50-percent-greater-drug-effectiveness-5737731)
     
-    6hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
+    12hr By [Huey Freeman](https://www.theepochtimes.com/author/huey-freeman)
     
     [![Drug Trials Funded by Manufacturers Find 50 Percent Greater Drug Effectiveness](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Drug Trials Funded by Manufacturers Find 50 Percent Greater Drug Effectiveness](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738718-shutterstock_2128302299_drug_pharmaceuticals_big_pharma_medicine_pharmaceutical-205x123.jpg.webp)](https://www.theepochtimes.com/health/drug-trials-funded-by-manufacturers-find-50-percent-greater-drug-effectiveness-5737731)
 * [DeSantis Responds to Claims FEMA Can Keep People From Their Homes](https://www.theepochtimes.com/us/desantis-responds-to-claims-fema-can-keep-people-from-their-homes-5738614)
     
-    6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![DeSantis Responds to Claims FEMA Can Keep People From Their Homes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![DeSantis Responds to Claims FEMA Can Keep People From Their Homes](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738502-DeSantis-GettyImages-2173721368KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/desantis-responds-to-claims-fema-can-keep-people-from-their-homes-5738614)
 * [New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://www.theepochtimes.com/us/new-yorks-3rd-congressional-district-candidates-clash-over-crime-migration-taxes-in-debate-5738249)
     
-    6hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    12hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
     [![New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![New York’s 3rd Congressional District Candidates Clash Over Crime, Migration, Taxes in Debate](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738750-Tom-SuozziKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-yorks-3rd-congressional-district-candidates-clash-over-crime-migration-taxes-in-debate-5738249)
 * [Day in Photos: Hurricane Milton, Dissolved Parliament, and Shrinking Economy](https://www.theepochtimes.com/article/day-in-photos-dissolved-parliament-shrinking-economy-and-peaceful-revolution-remembrance-5738226)
     
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Hurricane Milton, Dissolved Parliament, and Shrinking Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Hurricane Milton, Dissolved Parliament, and Shrinking Economy](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738699-GettyImages-2176952528-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-dissolved-parliament-shrinking-economy-and-peaceful-revolution-remembrance-5738226)
-* [Florida Officials Warn of Electric Vehicle Fires Sparked by Hurricane Milton](https://www.theepochtimes.com/us/florida-officials-warn-of-electric-vehicle-fires-sparked-by-hurricane-milton-5738579)
-    
-    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Florida Officials Warn of Electric Vehicle Fires Sparked by Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Florida Officials Warn of Electric Vehicle Fires Sparked by Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/08/15/id5706406-GettyImages-2026355736-205x123.jpg.webp)](https://www.theepochtimes.com/us/florida-officials-warn-of-electric-vehicle-fires-sparked-by-hurricane-milton-5738579)
-* [Biden, Harris Speak With Netanyahu as Middle East Awaits Israeli Response to Missile Attack](https://www.theepochtimes.com/world/biden-harris-speak-with-netanyahu-as-middle-east-awaits-israeli-response-to-missile-attack-5738268)
-    
-    6hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Biden, Harris Speak With Netanyahu as Middle East Awaits Israeli Response to Missile Attack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden, Harris Speak With Netanyahu as Middle East Awaits Israeli Response to Missile Attack](https://img.theepochtimes.com/assets/uploads/2023/10/18/id5512300-GettyImages-1730516014-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-harris-speak-with-netanyahu-as-middle-east-awaits-israeli-response-to-missile-attack-5738268)
-* [Supreme Court Urged to Order New Trial for Oklahoma Death Row Inmate](https://www.theepochtimes.com/us/supreme-court-urged-to-order-new-trial-for-oklahoma-death-row-inmate-5738250)
-    
-    7hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Supreme Court Urged to Order New Trial for Oklahoma Death Row Inmate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court Urged to Order New Trial for Oklahoma Death Row Inmate](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737493-1.download-2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-urged-to-order-new-trial-for-oklahoma-death-row-inmate-5738250)
-* [Nearly 3 Million Americans Have Voted So Far. Here’s What We Know.](https://www.theepochtimes.com/us/nearly-3-million-americans-have-voted-so-far-heres-what-we-know-5738422)
-    
-    7hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![Nearly 3 Million Americans Have Voted So Far. Here’s What We Know.](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Nearly 3 Million Americans Have Voted So Far. Here’s What We Know.](https://img.theepochtimes.com/assets/uploads/2024/03/27/id5616670-GettyImages-1227902406-205x123.jpeg.webp)](https://www.theepochtimes.com/us/nearly-3-million-americans-have-voted-so-far-heres-what-we-know-5738422)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
