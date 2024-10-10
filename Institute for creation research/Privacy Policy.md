@@ -96,6 +96,32 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Research
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/darwinianplasticity_1400x1050.jpg)](https://www.icr.org/article/myth-darwinian-plasticity)
+
+[The Myth of Darwinian Plasticity](https://www.icr.org/article/myth-darwinian-plasticity/)
+
+Staff Writer Among the mechanisms promoted to account for the process of evolution, plasticity is one of the most prominent. This term broadly refers...
+
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/rogue_moths.jpg)](https://www.icr.org/article/rogue-moths-didnt-start-out-that-way)
+
+[Rogue Moths Didn't Start Out That Way](https://www.icr.org/article/rogue-moths-didnt-start-out-that-way/)
+
+Butterflies and moths fluttering around a flower are a beautiful sight. They innocently lap up nectar and float on the wind. Countless plants depend...
+
+BY: [SCOTT ARLEDGE](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=246)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/subduction_essential.jpg)](https://www.icr.org/article/subduction-was-essential-for-the-ice-age)
+
+[Subduction Was Essential for the Ice Age](https://www.icr.org/article/subduction-was-essential-for-the-ice-age/)
+
+Creation meteorologist Michael Oard has written extensively about what it takes to make an ice age. The first requirement is much warmer oceans than...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
