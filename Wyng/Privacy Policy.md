@@ -1,4 +1,6 @@
-[![wyng logo](https://www.wyng.com/wp-content/uploads/2021/02/wyng-logo.svg)](https://www.wyng.com/)
+[![wyng logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20148%2040'%3E%3C/svg%3E)
+
+![wyng logo](https://www.wyng.com/wp-content/uploads/2021/02/wyng-logo.svg)](https://www.wyng.com/)
 
 * Platform
     * * * Platform
@@ -42,7 +44,9 @@
 * [Free Trial](https://www.wyng.com/trial/)
 * [Contact Sales](https://www.wyng.com/how-to-buy/)
 
-[![wyng logo](https://www.wyng.com/wp-content/uploads/2021/02/wyng-logo.svg)](https://www.wyng.com/)
+[![wyng logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20148%2040'%3E%3C/svg%3E)
+
+![wyng logo](https://www.wyng.com/wp-content/uploads/2021/02/wyng-logo.svg)](https://www.wyng.com/)
 
 * Platform
     * Platform
@@ -277,11 +281,11 @@ Wyng may revise this Information and Privacy Policy from time to time at its sol
 
 CONTACTING US
 
-If you have any questions about this Information and Privacy Policy, please contact Us at [privacy@wyng.com](mailto:privacy@wyng.com), or by mail to:
+If you have any questions about this Information and Privacy Policy, please contact us at [privacy@wyng.com](mailto:privacy@wyng.com), or by mail to:
 
 Wyng, Inc.  
-17th W 20th St. 4th Floor  
-New York, NY 10011
+169 Madison Ave STE 11680  
+New York, NY 10016
 
 [![Wyng](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20230%2064'%3E%3C/svg%3E)
 
