@@ -349,8 +349,7 @@ Learn at your own pace and get your IT certification training.
 
 Business Solutions
 
-* [Corporate Training](https://www.itpro.tv/enterprises/)
-* [Learning & Workforce Management](https://www.itpro.tv/myaci-learn/)
+* [Learning Experience Platform](https://www.itpro.tv/myaci-learn/)
 * [Internal Audit Training](https://www.itpro.tv/auditpro/)
 * [Private IT Training Programs](https://www.itpro.tv/live-online-training/)
 * [Channel, Reseller & Academic](https://www.itpro.tv/channel-reseller/)
