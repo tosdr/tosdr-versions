@@ -119,7 +119,7 @@
 
 ![](//static.opensubtitles.org/gfx/logo_64x64.gif)[![Subtitles - download movie and TV Series subtitles](//static.opensubtitles.org/gfx/logo.gif)](https://www.opensubtitles.org/en "Subtitles - download movie and TV Series subtitles")
 
-* search in 9909729 subtitles
+* search in 9911175 subtitles
 * [Search](https://www.opensubtitles.org/en/search "subtitles Search")
 * [Upload](https://www.opensubtitles.org/en/upload "subtitles Upload")
 * [Request](https://www.opensubtitles.org/en/request "subtitles Request")
