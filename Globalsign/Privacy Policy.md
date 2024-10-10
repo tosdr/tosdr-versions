@@ -337,8 +337,8 @@ Repository
 
 ### Validation Resources
 
-* [GlobalSign State List v2.0](https://www.globalsign.com/en/repository/GlobalSign%20State%20List%202.0.pdf)
-* [Incorporating Agency and Registration Agency List v1.8](https://www.globalsign.com/en/repository/Incorporating_Agency_and_Registration_Agency_List_v1.8.xlsx)
+* [GlobalSign State List v2.1](https://www.globalsign.com/en/repository/GlobalSign-State-List-v2.1.pdf)
+* [Incorporating Agency and Registration Agency List v1.9](https://www.globalsign.com/en/repository/Incorporating-Agency-and-Registration-Agency-List-v1.9.xlsx)
 
 ### Timestamping
 
