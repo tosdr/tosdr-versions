@@ -41,42 +41,42 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Jane Fonda](https://www.women.com/img/gallery/5-older-women-in-hollywood-who-are-still-embracing-celebrating-their-sexuality/intro-1728400367.jpg)](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
+*  [![Olivia Dunn on the red carpet](https://www.women.com/img/gallery/5-times-livvy-dunnes-outfits-totally-missed-the-mark/intro-1728408572.jpg)](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
     
-    [Sex](https://www.women.com/category/sex-life/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
     
-    [5 Older Women In Hollywood Who Are Still Embracing & Celebrating Their Sexuality](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
-    ========================================================================================================================================================================
+    [5 Times Livvy Dunne's Outfits Totally Missed The Mark](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
+    =====================================================================================================================================
     
-    It's important to embrace aging and the sensuality that comes with it. If you confront aging with confidence, you'll be hotter than ever.
+    Livvy Dunne is undoubtedly an influencer, but her outfits haven't always been on-trend. Occasionally, Dunne's ensembles have looked outdated or out of place.
     
-    By Amanda Chatel [Read More](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
+    By Emily Hutchinson [Read More](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
     
-* *  [![Ariana Grande at event](https://www.women.com/img/gallery/the-red-flags-in-ariana-grande-ethan-slaters-relationship-we-just-cant-ignore/intro-1728315693.jpg)](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
+* *  [![Carrie Fisher on the red carpet](https://www.women.com/img/gallery/5-inspiring-celebrity-memoirs-about-mental-health/intro-1727812011.jpg)](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
         
-        [Exclusives](https://www.women.com/category/exclusives/)
+        [Wellness](https://www.women.com/category/wellness/)
         
-        [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+        [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
         
-        ### [The Red Flags In Ariana Grande & Ethan Slater's Relationship We Just Can't Ignore](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
+        ### [5 Inspiring Celebrity Memoirs About Mental Health](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
         
-        While the couple insists that things weren't shady, it's hard not to focus on the abrupt beginning of Ariana Grande and Ethan Slater's relationship
+        These memoirs understand that the key to breaking mental health stigma is to talk about it openly and honestly.
         
-        By Bernadette Roe [Read More](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
+        By Emily Hutchinson [Read More](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
         
-    *  [![Katie Holmes smiling](https://www.women.com/img/gallery/5-katie-holmes-outfits-that-could-have-come-straight-from-joey-potters-closet/intro-1728058628.jpg)](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
+    *  [![Jane Fonda](https://www.women.com/img/gallery/5-older-women-in-hollywood-who-are-still-embracing-celebrating-their-sexuality/intro-1728400367.jpg)](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
         
-        [Fashion](https://www.women.com/category/fashion/)
+        [Sex](https://www.women.com/category/sex-life/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+        [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
         
-        ### [5 Katie Holmes Outfits That Could Have Come Straight From Joey Potter's Closet](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
+        ### [5 Older Women In Hollywood Who Are Still Embracing & Celebrating Their Sexuality](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
         
-        Katie Holmes' street style is relaxed, minimal, and classic, just some of our favorite outfits worn by her "Dawson's Creek" character Joey Potter.
+        It's important to embrace aging and the sensuality that comes with it. If you confront aging with confidence, you'll be hotter than ever.
         
-        By Bernadette Roe [Read More](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
+        By Amanda Chatel [Read More](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
         
 
 More Stories
@@ -93,6 +93,30 @@ More Stories
     What sets Reese Witherspoon apart from contemporaries is her book club, which is well endowed with sway and feminist influence.
     
     By Bernadette Roe [Read More](https://www.women.com/1681964/best-reese-witherspoon-book-club-picks-2020s/)
+    
+*  [![Ariana Grande at event](https://www.women.com/img/gallery/the-red-flags-in-ariana-grande-ethan-slaters-relationship-we-just-cant-ignore/intro-1728315693.jpg)](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+    
+    ### [The Red Flags In Ariana Grande & Ethan Slater's Relationship We Just Can't Ignore](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
+    
+    While the couple insists that things weren't shady, it's hard not to focus on the abrupt beginning of Ariana Grande and Ethan Slater's relationship
+    
+    By Bernadette Roe [Read More](https://www.women.com/1681855/red-flags-ariana-grande-ethan-slater-relationship-cant-ignore/)
+    
+*  [![Katie Holmes smiling](https://www.women.com/img/gallery/5-katie-holmes-outfits-that-could-have-come-straight-from-joey-potters-closet/intro-1728058628.jpg)](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [5 Katie Holmes Outfits That Could Have Come Straight From Joey Potter's Closet](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
+    
+    Katie Holmes' street style is relaxed, minimal, and classic, just some of our favorite outfits worn by her "Dawson's Creek" character Joey Potter.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1680450/katie-holmes-outfits-joey-potter/)
     
 *  [![Christina Funke Tegbe on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-54-thrones-african-skincare-beauty-products-after-shark-tank/intro-1728063581.jpg)](https://www.women.com/1680603/what-went-down-54-thrones-african-skincare-beauty-products-after-shark-tank/)
     
@@ -381,30 +405,6 @@ More Stories
     Amal Clooney never misses the mark regarding fashion and style, often making her husband George play second fiddle to her radiance.
     
     By Amanda Chatel [Read More](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
-    
-*  [![Katie Holmes smiling](https://www.women.com/img/gallery/how-katie-holmes-really-feels-about-being-a-style-icon-her-fashion-philosophy/intro-1727104386.jpg)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [How Katie Holmes Really Feels About Being A Style Icon (& Her Fashion Philosophy)](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
-    
-    Katie Holmes' style enforces her penchant for polished looks. However, its her distinct approach to dressing that makes her stand out among her famous peers.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1670932/how-katie-holmes-feels-being-style-icon-fashion-philosophy/)
-    
-*  [![The Secret Lives of Mormon wives cast](https://www.women.com/img/gallery/the-secret-lives-of-mormon-wives-is-teaching-us-how-to-spot-friendship-red-flags/intro-1727292658.jpg)](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
-    
-    ### [The Secret Lives Of Mormon Wives Is Teaching Us How To Spot Friendship Red Flags](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
-    
-    The Hulu reality series reminds us there's no such thing as a perfect friendship. However, it also serves as a cautionary tale for how toxic things can become.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1671583/secret-lives-mormon-wives-teaching-us-spot-friendship-red-flags/)
     
 
 Back
