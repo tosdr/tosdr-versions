@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Fashion is what seems beautiful now but looks ugly later; art can be ugly at first but it becomes beautiful later”
+“ Achieving a goal provides immediate satisfaction; the process of achieving a goal is a lasting pleasure”
 
-[Unknown](http://www.nytimes.com/2011/10/30/opinion/mona-simpsons-eulogy-for-steve-jobs.html?_r=1&pagewanted=all)
+[Evelyn Berezin](https://computerhistory.org/profile/evelyn-berezin/)
 
 [](https://www.adafruit.com/about)
 
