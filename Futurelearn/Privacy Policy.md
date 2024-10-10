@@ -720,6 +720,15 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![Cop29 Blog 1500x750](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/COP29-Blog-1500x750-1-150x150.png "Cop29 Blog 1500x750")](https://www.futurelearn.com/info/blog/what-is-cop-a-comprehensive-guide)
+    
+    [What is COP29?: A comprehensive guide](https://www.futurelearn.com/info/blog/what-is-cop-a-comprehensive-guide)
+    ----------------------------------------------------------------------------------------------------------------
+    
+    Curious about COP29? Explore all there is to know about the 29th annual Conference of …
+    
+    Category: [Current Issues](https://www.futurelearn.com/info/blog/current-issues), [Environment](https://www.futurelearn.com/info/what-is/environment-what-is), [General](https://www.futurelearn.com/info/blog/general)
+    
 * [![public health student](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Untitled-design-94-1-150x150.png)](https://www.futurelearn.com/info/blog/what-can-you-do-with-a-public-health-masters-degree)
     
     [What can you do with a Public Health Master’s Degree?](https://www.futurelearn.com/info/blog/what-can-you-do-with-a-public-health-masters-degree)
@@ -746,13 +755,6 @@ Powered By
     Wondering which master’s degrees will lead to the highest paid careers? Keep reading to discover …
     
     Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [FutureLearn Partners With Pion To Offer Exclusive Learner Discounts](https://www.futurelearn.com/info/press/futurelearn-partners-with-pion-to-offer-exclusive-learner-discounts)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    FutureLearn, the online learning platform, has partnered with Pion (formerly Student Beans), to offer exclusive …
-    
-    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
