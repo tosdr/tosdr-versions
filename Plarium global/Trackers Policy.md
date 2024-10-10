@@ -209,7 +209,7 @@ Subject to applicable law, you also may have rights to request that we provide s
 
 The rights that you have are subject to conditions and may not always be applicable.
 
-If you or an authorized agent wants to exercise any of these rights, please contact us at: [\[email protected\]](https://company.plarium.com/cdn-cgi/l/email-protection) or via [https://dsr-support.plarium.com/hc/requests/new](https://dsr-support.plarium.com/hc/requests/new). Subject to applicable law, you can freely exercise these rights and choices. We will not charge you different prices or provide different quality of services unless those differences are related to your information or otherwise permitted by law. Once we receive your request from you, we may verify it through your account or by requesting information sufficient to confirm your identity.
+If you or an authorized agent wants to exercise any of these rights, please contact us at: [\[email protected\]](https://company.plarium.com/cdn-cgi/l/email-protection) or via [https://dsr-support.plarium.com/hc/requests/new](https://plariumplay-support.plarium.com/hc/en-us/requests/new?ticket_form_id=360000510320). Subject to applicable law, you can freely exercise these rights and choices. We will not charge you different prices or provide different quality of services unless those differences are related to your information or otherwise permitted by law. Once we receive your request from you, we may verify it through your account or by requesting information sufficient to confirm your identity.
 
 _Marketing communications_
 
@@ -238,7 +238,7 @@ To opt out of allowing our advertising partners to use information about your ap
 | Android Phone/Tablet: | Navigate to 'Settings' > “Privacy” > “Ads” and enable “Opt out of Ads Personalization” |
 | Apple Phone/Tablet: | On iOS 13 and earlier, navigate to “Settings” > “Privacy” > “Advertising” and enable “Limit Ad Tracking.”<br><br>On iOS 14 and later, navigate to Settings” > “Privacy” > “Tracking” > and disable “Allow Apps to Request to Track” or withdraw tracking permission for the applicable app. |
 
-If you need further assistance regarding your rights, please contact us at [\[email protected\]](https://company.plarium.com/cdn-cgi/l/email-protection) or via [https://plariumplay-support.plarium.com/hc/en-us/requests/new](https://plariumplay-support.plarium.com/hc/en-us/requests/new).
+If you need further assistance regarding your rights, please contact us at [\[email protected\]](https://company.plarium.com/cdn-cgi/l/email-protection) or via [https://plariumplay-support.plarium.com/hc/en-us/requests/new](https://plariumplay-support.plarium.com/hc/en-us/requests/new?ticket_form_id=360000510320).
 
 **Links to other websites or applications**
 -------------------------------------------
