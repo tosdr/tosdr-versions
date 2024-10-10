@@ -327,7 +327,7 @@ Location
 * [Healthcare professionals Healthcare professionals](https://www.gskpro.com/ "Opens in a new window")
 * [Contact us Contact us](https://www.gsk.com/en-gb/contact-us/)
 
-1. [Home](https://www.gsk.com/) 
+1. [Home](https://www.gsk.com/en-gb/) 
 2. Cookie policy 
 
 Cookie policy
