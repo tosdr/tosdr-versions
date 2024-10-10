@@ -200,31 +200,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[!['Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/6/9/csm_Cid_Moreira_-_foto_Divulgacao_Globo_519bdc74de.jpg)
-
-Roger Naumtchyk
-
-Roger Naumtchyk
-
-'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento
-
-'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento](https://www.tnh1.com.br/noticia/nid/foi-um-engano-te-adotar-escreveu-cid-moreira-a-filho-deserdado-em-testamento/ "'Foi um engano te adotar', escreveu Cid Moreira a filho, deserdado em testamento")[![Série B: veja as chances de acesso e risco de queda após a 30ª rodada](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/2/csm_CRB_x_Paysandu_-_Serie_B_2024_-_foto_Francisco_Cedrim_-_CRB_e367499057.jpg)
-
-projeções
-
-projeções
-
-Série B: veja as chances de acesso e risco de queda após a 30ª rodada
-
-Série B: veja as chances de acesso e risco de queda após a 30ª rodada](https://www.tnh1.com.br/noticia/nid/serie-b-veja-as-chances-de-acesso-e-risco-de-queda-apos-a-30a-rodada/ "Série B: veja as chances de acesso e risco de queda após a 30ª rodada")[![Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/3/csm_foto-francisco-e-diogo-cuoco-2024-reproducao-redes-sociais_2a867fc650.jpg)
-
-dívida trabalhista
-
-dívida trabalhista
-
-Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário
-
-Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário](https://www.tnh1.com.br/noticia/nid/francisco-cuoco-e-filho-sao-condenados-a-pagar-r-600-mil-a-ex-funcionario/ "Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ")[![Senac oferece 79 cursos gratuitos online](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/8/csm_Senac-oferece-201-cursos-online-EAD-de-qualificacao-profissional-com-certificado-860x484-1_7d75eadb79.jpg)
+[![Senac oferece 79 cursos gratuitos online](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/8/csm_Senac-oferece-201-cursos-online-EAD-de-qualificacao-profissional-com-certificado-860x484-1_7d75eadb79.jpg)
 
 Mercado de Trabalho
 
@@ -232,7 +208,31 @@ Mercado de Trabalho
 
 Senac oferece 79 cursos gratuitos online
 
-Senac oferece 79 cursos gratuitos online](https://www.tnh1.com.br/noticia/nid/senac-oferece-79-cursos-gratuitos-online/ "Senac oferece 79 cursos gratuitos online")
+Senac oferece 79 cursos gratuitos online](https://www.tnh1.com.br/noticia/nid/senac-oferece-79-cursos-gratuitos-online/ "Senac oferece 79 cursos gratuitos online")[![Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/3/csm_foto-francisco-e-diogo-cuoco-2024-reproducao-redes-sociais_2a867fc650.jpg)
+
+dívida trabalhista
+
+dívida trabalhista
+
+Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário
+
+Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário](https://www.tnh1.com.br/noticia/nid/francisco-cuoco-e-filho-sao-condenados-a-pagar-r-600-mil-a-ex-funcionario/ "Francisco Cuoco e filho são condenados a pagar R$ 600 mil a ex-funcionário ")[!["Estou pagando por uma briga", diz eleita que pode perder vaga no interior de AL; veja o que diz ofício](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/6/csm_camara_municipal_anadia_-_foto_reproducao_google_maps_13e66be322.png)
+
+vereadora de anadia
+
+vereadora de anadia
+
+"Estou pagando por uma briga", diz eleita que pode perder vaga no interior de AL; veja o que diz ofício
+
+"Estou pagando por uma briga", diz eleita que pode perder vaga no interior de AL; veja o que diz ofício](https://www.tnh1.com.br/noticia/nid/estou-pagando-por-uma-briga-diz-eleita-que-pode-perder-vaga-no-interior-de-al-veja-o-que-diz-oficio/ ""Estou pagando por uma briga", diz eleita que pode perder vaga no interior de AL; veja o que diz ofício")[![Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/4/csm_mulher-morre-envenenada-interior-alagoas-reproducao_7c70202ac2.jpeg)
+
+Em São Brás
+
+Em São Brás
+
+Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito
+
+Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito](https://www.tnh1.com.br/noticia/nid/professora-morre-apos-comer-coxinha-supostamente-envenenada-ex-companheiro-e-suspeito/ "Professora morre após comer coxinha supostamente envenenada; ex-companheiro é suspeito")
 
 [![Operadora deve receber perdão de R$ 7 bi da Anatel para seguir operando na telefonia fixa](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/5/a/csm_oi_orelhao_jfcrz_abr_0302220439_a76651ddb5.jpg)
 
