@@ -118,13 +118,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The largest arthropod to ever live finally has a head](https://www.sciencenews.org/article/largest-arthropod-head) 
             
-            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")15 hours ago
+            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")21 hours ago
             
         * [Chemistry](https://www.sciencenews.org/topic/chemistry)
             
             ### [Work on protein structure and design wins the 2024 chemistry Nobel](https://www.sciencenews.org/article/nobel-prize-chemistry-2024-proteins)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")23 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")October 9, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -138,7 +138,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Climate](https://www.sciencenews.org/topic/climate)
+    * * [Earth](https://www.sciencenews.org/topic/earth)
+            
+            ### [What leads rivers to suddenly change course?](https://www.sciencenews.org/article/why-rivers-suddenly-change-course)
+            
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")2 hours ago
+            
+        * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [Climate change fueled the fury of hurricanes Helene and Milton](https://www.sciencenews.org/article/climate-change-hurricanes-helene-milton)
             
@@ -149,12 +155,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [A transatlantic flight may turn Saharan dust into a key ocean nutrient](https://www.sciencenews.org/article/saharan-dust-becomes-ocean-nutrient)
             
             By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")October 4, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [Some tadpoles don’t poop for weeks. That keeps their pools clean](https://www.sciencenews.org/article/tree-frogs-tadpoles-poop)
-            
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 4, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Runaway stars could influence the cosmos far past their home galaxies](https://www.sciencenews.org/article/runaway-stars-cosmos-galaxies)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")18 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")24 hours ago
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
