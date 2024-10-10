@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-09 Oct 2024
+10 Oct 2024
 
 * [Home
     
@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Three people sentenced for 'senseless violent assault' at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three people sentenced for 'senseless violent assault' at Derry Crown Court")](https://www.derrynow.com/news/local-news/1625653/three-people-sentenced-for-senseless-violent-assault-atderry-crown-court.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Three people sentenced for 'senseless violent assault' at Derry Crown Court](https://www.derrynow.com/news/local-news/1625653/three-people-sentenced-for-senseless-violent-assault-atderry-crown-court.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![£20,000 seized by PSNI following drugs searches in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£20,000 seized by PSNI following drugs searches in Derry")](https://www.derrynow.com/news/local-news/1625785/20-000-seized-by-psni-following-drugs-searches-in-derry.html)
 
 The cash seized by police
@@ -275,12 +268,12 @@ The cash seized by police
 [£20,000 seized by PSNI following drugs searches in Derry](https://www.derrynow.com/news/local-news/1625785/20-000-seized-by-psni-following-drugs-searches-in-derry.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1624797/derry-death-notices-wednesday-october-9-2024.html)
+[![Three people sentenced for 'senseless violent assault' at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three people sentenced for 'senseless violent assault' at Derry Crown Court")](https://www.derrynow.com/news/local-news/1625653/three-people-sentenced-for-senseless-violent-assault-atderry-crown-court.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Death Notices - Wednesday, October 9 2024](https://www.derrynow.com/news/deaths/1624797/derry-death-notices-wednesday-october-9-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
+[Three people sentenced for 'senseless violent assault' at Derry Crown Court](https://www.derrynow.com/news/local-news/1625653/three-people-sentenced-for-senseless-violent-assault-atderry-crown-court.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man facing number of drugs charges returned for trial to Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man facing number of drugs charges returned for trial to Derry Crown Court")](https://www.derrynow.com/news/local-news/1625665/man-facing-number-of-drugs-charges-returned-for-trial-to-derry-crown-court.html)
 
@@ -288,6 +281,29 @@ The cash seized by police
 
 [Man facing number of drugs charges returned for trial to Derry Crown Court](https://www.derrynow.com/news/local-news/1625665/man-facing-number-of-drugs-charges-returned-for-trial-to-derry-crown-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1624797/derry-death-notices-wednesday-october-9-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, October 9 2024](https://www.derrynow.com/news/deaths/1624797/derry-death-notices-wednesday-october-9-2024.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Eagerly awaited Kneecap Derry gig rescheduled](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Eagerly awaited Kneecap Derry gig rescheduled")](https://www.derrynow.com/news/local-news/1626409/eagerly-awaited-kneecap-derry-gig-rescheduled.html)
+
+Kneecap. Peadar Ó Goill
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Eagerly awaited Kneecap Derry gig rescheduled](https://www.derrynow.com/news/local-news/1626409/eagerly-awaited-kneecap-derry-gig-rescheduled.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['Do it for Danny' - Fundraiser launched for one-year-old Donegal infant with inoperable brain tumour](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Do it for Danny' - Fundraiser launched for one-year-old Donegal infant with inoperable brain tumour")](https://www.derrynow.com/news/national-news/1625552/do-it-for-danny-fundraiser-launched-for-family-of-one-year-old-with-inoperable-brain-tumour.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+['Do it for Danny' - Fundraiser launched for one-year-old Donegal infant with inoperable brain tumour](https://www.derrynow.com/news/national-news/1625552/do-it-for-danny-fundraiser-launched-for-family-of-one-year-old-with-inoperable-brain-tumour.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry woman charged with assault and breaching bail conditions has bail revoked](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with assault and breaching bail conditions has bail revoked")](https://www.derrynow.com/news/local-news/1625660/derry-woman-charged-with-assault-and-breaching-bail-conditions-has-bail-revoked.html)
 
@@ -313,22 +329,6 @@ Derry Crown Court
 
 [Judge tells burglar 'when you steal other people's photographs you are stealing their memories'](https://www.derrynow.com/news/local-news/1625704/judge-tells-burglar-when-you-steal-other-people-s-photographs-you-are-stealing-their-memories.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Proud faces all-around at St Conor's prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Proud faces all-around at St Conor's prizegiving")](https://www.derrynow.com/news/pictures---videos/1625475/pictures-proud-faces-all-around-at-st-conor-s-prizegiving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Proud faces all-around at St Conor's prizegiving](https://www.derrynow.com/news/pictures---videos/1625475/pictures-proud-faces-all-around-at-st-conor-s-prizegiving.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Tesco Fruit & Veg for Schools](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tesco Fruit & Veg for Schools")](https://www.derrynow.com/news/county-derry-post/1625596/six-schools-in-county-derry-to-receive-fruit-and-veg-from-tesco.html)
-
-Tesco Fruit & Veg for Schools
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Six schools in County Derry to receive fruit and veg from Tesco](https://www.derrynow.com/news/county-derry-post/1625596/six-schools-in-county-derry-to-receive-fruit-and-veg-from-tesco.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry councillors disagree over recent city centre vandalism attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry councillors disagree over recent city centre vandalism attack")](https://www.derrynow.com/news/local-news/1626090/derry-councillors-disagree-over-recent-city-centre-vandalism-attack.html)
 
@@ -517,7 +517,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Appletree Childcare in Glenullin to mark milestone 20th anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Appletree Childcare in Glenullin to mark milestone 20th anniversary")](https://www.derrynow.com/news/home/1626291/appletree-childcare-in-glenullin-to-mark-milestone-20th-anniversary.html)
+[![Eagerly awaited Kneecap Derry gig rescheduled](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Eagerly awaited Kneecap Derry gig rescheduled")](https://www.derrynow.com/news/local-news/1626409/eagerly-awaited-kneecap-derry-gig-rescheduled.html)
+
+Kneecap. Peadar Ó Goill
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Eagerly awaited Kneecap Derry gig rescheduled](https://www.derrynow.com/news/local-news/1626409/eagerly-awaited-kneecap-derry-gig-rescheduled.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ministers pledge to work together to deliver baby loss certificate scheme](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ministers pledge to work together to deliver baby loss certificate scheme")](https://www.derrynow.com/news/local-news/1626163/ministers-pledge-to-work-together-to-deliver-baby-loss-certificate-scheme.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Ministers pledge to work together to deliver baby loss certificate scheme](https://www.derrynow.com/news/local-news/1626163/ministers-pledge-to-work-together-to-deliver-baby-loss-certificate-scheme.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Appletree Childcare in Glenullin to mark milestone 20th anniversary](https://www.derrynow.com/resizer/165/93/true/2024_10_09/CDP_-_08-10-24_-_Pages_10_and_11_pic_%287%29-1728496591397_1728496759.png--.png?1728496759351 "Appletree Childcare in Glenullin to mark milestone 20th anniversary")](https://www.derrynow.com/news/home/1626291/appletree-childcare-in-glenullin-to-mark-milestone-20th-anniversary.html)
 
 The childcare facility will celebrate its 20th anniversary this weekend.
 
@@ -526,7 +542,7 @@ The childcare facility will celebrate its 20th anniversary this weekend.
 [Appletree Childcare in Glenullin to mark milestone 20th anniversary](https://www.derrynow.com/news/home/1626291/appletree-childcare-in-glenullin-to-mark-milestone-20th-anniversary.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry councillors disagree over recent city centre vandalism attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry councillors disagree over recent city centre vandalism attack")](https://www.derrynow.com/news/local-news/1626090/derry-councillors-disagree-over-recent-city-centre-vandalism-attack.html)
+[![Derry councillors disagree over recent city centre vandalism attack](https://www.derrynow.com/resizer/165/93/true/2024_10_09/461188243_524209156896479_2399959903294797423_n-1728122014085.jpg--police_investigating_after_red_paint_daubed_on_derry_business-1728485881194.jpg--.jpg?1728485881227 "Derry councillors disagree over recent city centre vandalism attack")](https://www.derrynow.com/news/local-news/1626090/derry-councillors-disagree-over-recent-city-centre-vandalism-attack.html)
 
 Red paint covering the front of the Oasis premises. PHOTO: Shannon Moore
 
@@ -550,22 +566,6 @@ Glenn Miller and Causeway Coast Dog Rescue
 
 [Claudy Man and UUP member says there is a “Hidden Crisis Facing Dogs”](https://www.derrynow.com/news/county-derry-post/1626048/claudy-man-and-uup-member-says-there-is-a-hidden-crisis-facing-dogs.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Action Mental Health’s “I AM SOMEONE” campaign features stories from former clients (L-R) Deirdre, Kapeela, Anthony, Ross and Vicky. ](https://www.derrynow.com/resizer/165/93/true/2024_10_09/Photo_one_Action_Mental_Healths_I_AM_SOMEONE_campaign_features_stories_from_former_clients_%28L-R%29_Deirdre%2C_Kapeela%2C_Anthony%2C_Ross_and_Vicky.-1728480310428.jpg--.jpg?1728480310478 "Action Mental Health’s “I AM SOMEONE” campaign features stories from former clients (L-R) Deirdre, Kapeela, Anthony, Ross and Vicky. ")](https://www.derrynow.com/news/derry-news/1625906/nesbitt-and-mcclenaghan-back-action-mental-healths-i-am-someone-campaign.html)
-
-Action Mental Health’s “I AM SOMEONE” campaign features stories from former clients (L-R) Deirdre, Kapeela, Anthony, Ross and Vicky.
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Nesbitt and McClenaghan back Action Mental Health’s “I AM SOMEONE” campaign](https://www.derrynow.com/news/derry-news/1625906/nesbitt-and-mcclenaghan-back-action-mental-healths-i-am-someone-campaign.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Benn: Certainty as quickly as possible needed for paused NI city deals](https://www.derrynow.com/resizer/165/93/true/pa/2024_10_09/1728482716570_0.jpg--.jpg?1728482716636 "Benn: Certainty as quickly as possible needed for paused NI city deals")](https://www.derrynow.com/news/local-news/1626020/benn-certainty-as-quickly-as-possible-needed-for-paused-ni-city-deals.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Benn: Certainty as quickly as possible needed for paused NI city deals](https://www.derrynow.com/news/local-news/1626020/benn-certainty-as-quickly-as-possible-needed-for-paused-ni-city-deals.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
