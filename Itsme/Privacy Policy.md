@@ -119,3 +119,22 @@ Legal info
 
 * [![eu trust certificate](/img/certificates/eu-trust.jpg)](https://webgate.ec.europa.eu/tl-browser/#/trustmark/BE/VATBE-0541659084)
 * ![iso certificate](/img/certificates/iso.jpg)
+
+### Choose your region
+
+* [![](/flags/be.svg)Belgium](https://www.itsme.be/en-BE/legal/app-privacy-policy)
+* [![](/flags/dk.svg)Denmark](https://www.itsme.be/en-DK/legal/app-privacy-policy)
+* [![](/flags/ee.svg)Estonia](https://www.itsme.be/en-EE/legal/app-privacy-policy)
+* [![](/flags/fi.svg)Finland](https://www.itsme.be/en-FI/legal/app-privacy-policy)
+* [![](/flags/fr.svg)France](https://www.itsme.be/en-FR/legal/app-privacy-policy)
+* [![](/flags/de.svg)Germany](https://www.itsme.be/en-DE/legal/app-privacy-policy)
+* [![](/flags/is.svg)Iceland](https://www.itsme.be/en-IS/legal/app-privacy-policy)
+* [![](/flags/ie.svg)Ireland](https://www.itsme.be/en-IE/legal/app-privacy-policy)
+* [![](/flags/it.svg)Italy](https://www.itsme.be/en-IT/legal/app-privacy-policy)
+* [![](/flags/lu.svg)Luxembourg](https://www.itsme.be/en-LU/legal/app-privacy-policy)
+* [![](/flags/no.svg)Norway](https://www.itsme.be/en-NO/legal/app-privacy-policy)
+* [![](/flags/pt.svg)Portugal](https://www.itsme.be/en-PT/legal/app-privacy-policy)
+* [![](/flags/es.svg)Spain](https://www.itsme.be/en-ES/legal/app-privacy-policy)
+* [![](/flags/se.svg)Sweden](https://www.itsme.be/en-SE/legal/app-privacy-policy)
+* [![](/flags/nl.svg)The Netherlands](https://www.itsme.be/en-NL/legal/app-privacy-policy)
+* [![](/flags/gb.svg)United Kingdom](https://www.itsme.be/en-GB/legal/app-privacy-policy)
