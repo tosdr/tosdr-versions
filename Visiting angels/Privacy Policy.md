@@ -1,137 +1,104 @@
-   
+[Need Assistance?](javascript:void(0);)
 
-[![Visiting Angels Home Page](https://cdn.visitingangels.com/images/VA_Logo.svg)](https://www.visitingangels.com/)
+##### Welcome to Visiting Angels
 
- ![Click to set to Normal Font](https://cdn.visitingangels.com/images/a_small.png)![Click here for a Larger Font](https://cdn.visitingangels.com/images/a_large.png)
+[Locate Care](#) [Employment Opportunities](#) [Contact Us](#)
 
-![Search Visiting Angels](https://cdn.visitingangels.com/images/Assets/mglass_svg.svg)
+* [800-365-4189](tel:8003654189)
 
-[Give Us a Review!](https://www.visitingangels.com/website-inquiry)
-
-[800-365-4189](tel:+18003654189)
-
-Where is care needed?
-
- 
+* [](https://www.facebook.com/VisitingAngelsCorporate)
+* [](https://www.instagram.com/visitingangelshomecare/)
+* [](https://x.com/_VisitingAngels)
+* [](https://www.youtube.com/user/VisitingAngels1)
+* [](https://www.linkedin.com/company/visitingangels/)
 
 SEARCH  Submit
 
-* [Find Home Care](https://www.visitingangels.com/office-locator)
-* Home Care Info [ ] 
-    
-    * [What is Home Care](https://www.visitingangels.com/what-is-home-care)
-    * [How Do I Get Started](https://www.visitingangels.com/how-do-i-get-started)
-    * [Long Distance Care Giving](https://www.visitingangels.com/long-distance-services)
-    * [FAQs](https://www.visitingangels.com/faq)
-    * [How We Assist](https://www.visitingangels.com/how-we-assist)
-    * [Costs](https://www.visitingangels.com/costs)
-    * [Veterans Benefits](https://www.visitingangels.com/veterans-benefits)
-    * [Caregivers](https://www.visitingangels.com/caregivers)
-    * [Our Experience](https://www.visitingangels.com/our-experience)
-    * [Our Character](https://www.visitingangels.com/our-character)
-    * [Home Care Providers](https://www.visitingangels.com/homecare-providers)
-    * [Our Reviews](https://www.visitingangels.com/our-reviews)
-    * [Give Us a Review!](https://www.visitingangels.com/website-inquiry)
-    
-* Types of Care [ ] 
-    
+* [Find Care](https://www.visitingangels.com/office-locator)
+* [About Us](https://www.visitingangels.com/about-us)
+* Types Of Care
     * [Home Care Services](https://www.visitingangels.com/homecare-services)
+    * [Alzheimer’s Care](https://www.visitingangels.com/alzheimers-care)
     * [Companion Care](https://www.visitingangels.com/elderly-companion-care)
-    * [Personal Care](https://www.visitingangels.com/private-duty-care)
-    * [Respite Care](https://www.visitingangels.com/respite-care)
-    * [Fall Prevention](https://www.visitingangels.com/fall-prevention-program)
-    * [Life Care Navigation Overview](https://www.visitingangels.com/senior-life-care-navigation)
-    * [Palliative Care](https://www.visitingangels.com/palliative-care)
-    * [Ready – Set – Go Home](https://www.visitingangels.com/ready-set-go-home)
     * [Dementia Care](https://www.visitingangels.com/dementia-care)
-    * [Alzheimer's Care](https://www.visitingangels.com/alzheimers-services)
-    * [End of Life Care](https://www.visitingangels.com/end-of-life-care)
-    
-* [Knowledge Center](https://www.visitingangels.com/knowledge-center/)
+    * [End-of-Life Care](https://www.visitingangels.com/end-of-life-care)
+    * [Fall Prevention](https://www.visitingangels.com/fall-prevention-program)
+    * [Palliative Care](https://www.visitingangels.com/palliative-care)
+    * [Personal Care](https://www.visitingangels.com/personal-care)
+    * [Respite Care](https://www.visitingangels.com/respite-care)
+    * [Transitional Care](https://www.visitingangels.com/transitional-care)
+* Home Care Info
+    * [How To Get Started](https://www.visitingangels.com/how-do-i-get-started)
+    * [How We Assist](https://www.visitingangels.com/how-we-assist)
+    * [Long Distance Care Giving](https://www.visitingangels.com/long-distance-services)
+    * [Home Care Costs](https://www.visitingangels.com/costs)
+    * [Veterans Benefits](https://www.visitingangels.com/veterans-benefits)
+    * [Home Care FAQs](https://www.visitingangels.com/faq)
+    * [Give Us A Review](https://www.visitingangels.com/website-inquiry)
+    * [Caregivers](https://www.visitingangels.com/caregivers)
+    * [Our Reviews](https://www.visitingangels.com/our-reviews)
+* [Articles](https://www.visitingangels.com/articles)
 * [Caregiver Jobs](https://www.visitingangels.com/employment)
-* [Media Center](https://www.visitingangels.com/media)
-* [Franchising](https://www.visitingangels.com/home-care-franchise-opportunities)
-* Our Story [ ] 
-    
-    * [Who We Are](https://www.visitingangels.com/about-us)
-    * [Why Choose Visiting Angels](https://www.visitingangels.com/why-visiting-angels)
-    
-* Contact [ ] 
-    
-    * [Contact Us](https://www.visitingangels.com/contact-us)
-    * [Client Feedback](https://www.visitingangels.com/website-inquiry)
-    * [Privacy Policy](https://www.visitingangels.com/privacy-policy)
-    
+* [Contact Us](https://www.visitingangels.com/contact-us)
+* [](#desktopSearch)
 
-[![Visiting Angels Home Page](https://cdn.visitingangels.com/images/VA_Logo.svg)](https://www.visitingangels.com/)
-
-* [Our Story](https://www.visitingangels.com/about-us)
-* [Media Center](https://www.visitingangels.com/media)
-* [Contact](https://www.visitingangels.com/contact-us)
-* [Give Us a Review!](https://www.visitingangels.com/website-inquiry)
-
-[800-365-4189](tel:+18003654189)
-
- ![Search Visiting Angels](https://cdn.visitingangels.com/images/Assets/mglass_svg.svg)![Click to set to Normal Font](https://cdn.visitingangels.com/images/a_small.png) ![Click here for a Larger Font](https://cdn.visitingangels.com/images/a_large.png)
+[![Visiting Angels brand icon](img/VA_Logo.svg)](https://www.visitingangels.com/)
 
 SEARCH  Submit
 
-*  [![Find Home Care](https://cdn.visitingangels.com/images/map-marker.png) Find Home Care](https://www.visitingangels.com/office-locator)
-* [Home Care Info](https://www.visitingangels.com/what-is-home-care)
-    
-    How Home Care Works
-    -------------------
-    
-    Learn how "in-home care" can help your loved one and why families across the country have relied on Visiting Angels since 1998 to provide the best senior home care.
-    
-    * [What is Home Care?](https://www.visitingangels.com/what-is-home-care)
-    * [How Do I Get Started?](https://www.visitingangels.com/how-do-i-get-started)
-    * [Long Distance Care Giving](https://www.visitingangels.com/long-distance-services)
-    * [FAQs](https://www.visitingangels.com/faq)
-    * [How We Assist](https://www.visitingangels.com/how-we-assist)
-    * [Costs](https://www.visitingangels.com/costs)
-    * [Veterans Benefits](https://www.visitingangels.com/veterans-benefits)
-    
-    * [Caregivers](https://www.visitingangels.com/caregivers)
-    * [Our Experience](https://www.visitingangels.com/our-experience)
-    * [Our Character](https://www.visitingangels.com/our-character)
-    * [Home Care Providers](https://www.visitingangels.com/homecare-providers)
-    * [Our Reviews](https://www.visitingangels.com/our-reviews)
-    
-* [Types of Care](https://www.visitingangels.com/homecare-services)
-    
-    Types of Care
-    -------------
-    
-    Our comprehensive services, including companionship, personal care, and specialized services, are designed to keep seniors safe and happy in the comforts of home.
-    
+* [Find Care](https://www.visitingangels.com/office-locator)
+* [About Us](https://www.visitingangels.com/about-us)
+* Types Of Care
     * [Home Care Services](https://www.visitingangels.com/homecare-services)
+    * [Alzheimer’s Care](https://www.visitingangels.com/alzheimers-care)
     * [Companion Care](https://www.visitingangels.com/elderly-companion-care)
-    * [Personal Care](https://www.visitingangels.com/private-duty-care)
-    * [Respite Care](https://www.visitingangels.com/respite-care)
-    
-    Life Care Navigation
-    
-    * [Overview](https://www.visitingangels.com/senior-life-care-navigation)
-    * [Palliative Care](https://www.visitingangels.com/palliative-care)
-    * [Ready, Set, Go Home](https://www.visitingangels.com/ready-set-go-home)
     * [Dementia Care](https://www.visitingangels.com/dementia-care)
-    * [Alzheimer's Care](https://www.visitingangels.com/alzheimers-services)
-    * [End of Life Care](https://www.visitingangels.com/end-of-life-care)
+    * [End-of-Life Care](https://www.visitingangels.com/end-of-life-care)
     * [Fall Prevention](https://www.visitingangels.com/fall-prevention-program)
-    
-* [Knowledge Center](https://www.visitingangels.com/knowledge-center)
+    * [Palliative Care](https://www.visitingangels.com/palliative-care)
+    * [Personal Care](https://www.visitingangels.com/personal-care)
+    * [Respite Care](https://www.visitingangels.com/respite-care)
+    * [Transitional Care](https://www.visitingangels.com/transitional-care)
+* Home Care Info
+    * [How To Get Started](https://www.visitingangels.com/how-do-i-get-started)
+    * [How We Assist](https://www.visitingangels.com/how-we-assist)
+    * [Long Distance Care Giving](https://www.visitingangels.com/long-distance-services)
+    * [Home Care Costs](https://www.visitingangels.com/costs)
+    * [Veterans Benefits](https://www.visitingangels.com/veterans-benefits)
+    * [Home Care FAQs](https://www.visitingangels.com/faq)
+    * [Give Us A Review](https://www.visitingangels.com/website-inquiry)
+    * [Caregivers](https://www.visitingangels.com/caregivers)
+    * [Our Reviews](https://www.visitingangels.com/our-reviews)
+* [Articles](https://www.visitingangels.com/articles)
 * [Caregiver Jobs](https://www.visitingangels.com/employment)
+* [Contact Us](https://www.visitingangels.com/contact-us)
+* [](#desktopSearch)
 
-Where is In-Home Senior Care Needed? Find care for your loved one Where is care needed for your loved one?
+SEARCH  SubmitUse the up and down arrows to select a result. Press enter to go to the selected search result. Touch device users can use touch and swipe gestures.
 
-Enter zip code where care is needed:
+SEARCH  SubmitUse the up and down arrows to select a result. Press enter to go to the selected search result. Touch device users can use touch and swipe gestures.
 
-or
+[What Are Home Care Services?](https://www.visitingangels.com/homecare-services)
 
-Select the state where care is needed:
+[What Are The Costs?](https://www.visitingangels.com/costs)
 
-State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming
+[![](/img/search_image_1.png)](https://www.visitingangels.com/articles/creative-ways-to-pay-for-senior-home-care/378)
+
+[Creative Ways to Pay For Senior Home Care](https://www.visitingangels.com/articles/creative-ways-to-pay-for-senior-home-care/378)
+
+If your aging loved one needs home care, you may wonder if your family can afford it. Luckily, there are various payment options, but financial situations vary.
+
+[![](/img/search_image_2.png)](https://www.visitingangels.com/articles/providing-comforting-support-during-hospice-care/24970)
+
+[Providing Comforting Support During Hospice Care](https://www.visitingangels.com/articles/providing-comforting-support-during-hospice-care/24970)
+
+When a loved one is approaching the ending stages of life and enters hospice, it's crucial to focus on cherishing your final moments together without any distractions.
+
+[![](/img/search_image_3.png)](https://www.visitingangels.com/articles/protect-your-elderly-loved-one-from-phone-scams/25002)
+
+[Protect Your Elderly Loved One From Phone Scams](https://www.visitingangels.com/articles/protect-your-elderly-loved-one-from-phone-scams/25002)
+
+Protecting seniors from phone scams is critical. Scammers increasingly exploit their generosity and limited internet knowledge.
 
 Data Protection Policy
 ======================
@@ -252,148 +219,46 @@ Call us:1-800-365-4189
 
 Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
-###   
-
 \*Each Visiting Angels agency is a franchise that is independently owned and operated. The Franchisor, Living Assistance Services Inc., does not control or manage the day to day business operations of any Visiting Angels franchised agency.
 
-#### Knowledge Center
+We use cookies to personalize your experience on our site. To find out more, please read our [privacy policy](https://www.visitingangels.com/privacy-policy).
 
- related  categories
+Accept
 
-[6 Early Signs of Dementia](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/6-early-signs-of-dementia/281)
+#### Personalized Care Delivered to Your Inbox
 
-[Elder Care during Holiday Times](https://www.visitingangels.com/knowledge-center/care-options/elder-care-during-holiday-times/50)
+Receive tips and advice on caregiving for your loved one.
 
-[Understanding Mental Illness in Our Elderly](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/understanding-mental-illness-in-our-elderly/7)
+ 
 
-[How to Communicate with a Senior Who Can’t Speak](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being/how-to-communicate-with-a-senior-who-cant-speak/487)
+* [](https://www.visitingangels.com/)
 
-[Preparing for Mid-Stage & Late-Stage Alzheimer’s Care](https://www.visitingangels.com/knowledge-center/preparing-loved-ones/preparing-for-mid-stage-late-stage-alzheimers-care/454)
+##### Visiting Angels
 
-* [Care Options](https://www.visitingangels.com/knowledge-center/care-options)
-* [Selecting Care](https://www.visitingangels.com/knowledge-center/selecting-care)
-* [Why In-Home Care](https://www.visitingangels.com/knowledge-center/why-in-home-care)
-* [Preparing Loved Ones](https://www.visitingangels.com/knowledge-center/preparing-loved-ones)
-* [Senior Health & Well-Being](https://www.visitingangels.com/knowledge-center/senior-health-and-well-being)
-* [Family Caregiver Support](https://www.visitingangels.com/knowledge-center/family-caregiver-support)
+937 Haverford Road, Suite 200,  
+Bryn Mawr, PA 19010
 
-[![Contact us for homecare services](https://cdn.visitingangels.com/images/LCKC-CTA-images/LCKC-CTA-homecare-services-contact.png)
+[800-365-4189](tel:8003654189)
 
-![Contact us for homecare services](https://cdn.visitingangels.com/images/LCKC-CTA-images/LCKC-CTA-homecare-services-contact.png)](https://www.visitingangels.com/contact-us)
+* [Visiting Angels UK](https://www.visiting-angels.co.uk/)
+* [Visiting Angels Korea](http://visitingangels.co.kr/)
+* [Visiting Angels Mexico](https://visitingangels.com.mx/)
+* [Senior Home Care By Angels Canada](https://www.seniorhomecarebyangels.com/)
 
-##### Subscribe to get the resources designed to help your loved one live at home.
+* [](https://www.facebook.com/VisitingAngelsCorporate)
+* [](https://www.instagram.com/visitingangelshomecare/)
+* [](https://x.com/_VisitingAngels)
+* [](https://www.youtube.com/user/VisitingAngels1)
+* [](https://www.linkedin.com/company/visitingangels/)
 
-  
+[Our Foundation](https://visitingangelsfoundation.org/)
 
-Get Started Today
+[Start A Franchise](https://www.livingassistance.com/request-information)
 
-Contact a franchised Visiting Angels office in your area for information on elderly home care services.
+* [Visiting Angels UK](https://www.visiting-angels.co.uk/)
+* [Visiting Angels Korea](http://visitingangels.co.kr/)
+* [Visiting Angels Mexico](https://visitingangels.com.mx/)
+* [Senior Home Care By Angels Canada](https://www.seniorhomecarebyangels.com/)
 
-[Find our office near you.](https://www.visitingangels.com/office-locator)
-
-[![Our Affiliate](https://cdn.visitingangels.com/images/footer-memory-screen.png)](https://alzfdn.org/memory-screening/)
-
-[![Our Affiliate](https://cdn.visitingangels.com/images/alz-walk.png)](https://act.alz.org/site/TR?company_id=1266&pg=national_company&pw_id=14568)
-
-[![Our Affiliate](https://cdn.visitingangels.com/images/canton-trusted-provider.png)](https://www.bestofhomecare.com/awards.aspx)
-
-[![Our Affiliate](https://cdn.visitingangels.com/images/YouTube-logo-small1.png)](https://www.youtube.com/user/VisitingAngels1)
-
-[![Our Affiliate](https://cdn.visitingangels.com/images/belleville-fb-logo.png)](https://www.facebook.com/VisitingAngelsCorporate)
-
-* [![Visiting Angels Facebook Link](https://cdn.visitingangels.com/images/social_icon_facebook.png)](https://www.facebook.com/VisitingAngelsCorporate)
-* [![Visiting Angels YouTube Link](https://cdn.visitingangels.com/images/social_icon_youtube.png)](https://www.youtube.com/user/VisitingAngels1)
-* [![Visiting Angels X Link](https://cdn.visitingangels.com/images/icon-x_blue.svg)](https://x.com/_VisitingAngels)
-* [![Visiting Angels LinkedIn Link](https://cdn.visitingangels.com/images/social_icon_linkedin.png)](https://www.linkedin.com/company/visitingangels/)
-* [![Visiting Angels Instagram Link](https://cdn.visitingangels.com/images/social_icon_instagram.png)](https://www.instagram.com/visitingangelshomecare/)
-
-Home Care Info
-
-* [What is Home Care](https://www.visitingangels.com/what-is-home-care)
-* [How Do I Get Started](https://www.visitingangels.com/how-do-i-get-started)
-* [Long Distance Care Giving](https://www.visitingangels.com/long-distance-services)
-* [Employment Page](https://www.visitingangels.com/employment)
-* [FAQs](https://www.visitingangels.com/faq)
-* [How We Assist](https://www.visitingangels.com/how-we-assist)
-* [Costs](https://www.visitingangels.com/costs)
-* [Veterans Benefits](https://www.visitingangels.com/veterans-benefits)
-* [Caregivers](https://www.visitingangels.com/caregivers)
-* [Our Experience](https://www.visitingangels.com/our-experience)
-* [Our Character](https://www.visitingangels.com/our-character)
-* [Home Care Providers](https://www.visitingangels.com/homecare-providers)
-
-Types of Care
-
-* [Home Care Services](https://www.visitingangels.com/homecare-services)
-* [Companion Care](https://www.visitingangels.com/elderly-companion-care)
-* [Personal Care](https://www.visitingangels.com/private-duty-care)
-* [Respite Care](https://www.visitingangels.com/respite-care)
-* [Fall Prevention](https://www.visitingangels.com/fall-prevention-program)
-* [Life Care Navigation Overview](https://www.visitingangels.com/senior-life-care-navigation)
-* [Palliative Care](https://www.visitingangels.com/palliative-care)
-* [Ready – Set – Go Home](https://www.visitingangels.com/ready-set-go-home)
-* [Dementia Care](https://www.visitingangels.com/dementia-care)
-* [Alzheimer's Care](https://www.visitingangels.com/alzheimers-services)
-* [End of Life Care](https://www.visitingangels.com/end-of-life-care)
-
-Resources
-
-* [Knowledge Center](https://www.visitingangels.com/knowledge-center)
-
-Our Story
-
-* [Who We Are](https://www.visitingangels.com/about-us)
-* [Why Choose Visiting Angels](https://www.visitingangels.com/why-visiting-angels)
-* [Our Reviews](https://www.visitingangels.com/our-reviews)
-
-Contact
-
-* [Contact Us](https://www.visitingangels.com/contact-us)
-* [Client Feedback](https://www.visitingangels.com/website-inquiry)
-* [Privacy Policy](https://www.visitingangels.com/privacy-policy)
-* [Cal. Civ. Code §1798.135](https://www.visitingangels.com/privacy-policy#ccpa)
-
-* [Franchising](https://www.livingassistance.com/request-information)
-* [Caregiver Jobs](https://www.visitingangels.com/employment)
-
-Not all services are available at all locations. Please check with your [local agency](https://www.visitingangels.com/office-locator).
-
-[Living Assistance Services, Inc. Copyright® 2024](https://www.livingassistance.com/ "senior home care franchise opportunities") 937 Haverford Road Suite 200 Bryn Mawr PA 19010 [1-800-365-4189](tel: 1-800-365-4189 "1 800 number")
-
-Each Visiting Angels agency is a franchise that is independently owned and operated. Release v.7146  
-The Franchisor, Living Assistance Services Inc., does not control or manage the day to day business operations of any Visiting Angels franchised agency.
-
-[PORTAL](https://arc.franconnect.net/fc/)
-
-[![Start a Franchise](https://cdn.visitingangels.com/images/startafranchise.svg)](https://www.livingassistance.com/request-information)
-
-»
-
-Top 2024 Franchise Leader on  
-[Franchise Business Review](https://vimeo.com/932936413).
-
-* [![Visiting Angels Facebook Link](https://cdn.visitingangels.com/images/social_icon_facebook.png)](https://www.facebook.com/VisitingAngelsCorporate)
-* [![Visiting Angels YouTube Link](https://cdn.visitingangels.com/images/social_icon_youtube.png)](https://www.youtube.com/user/VisitingAngels1)
-* [![Visiting Angels Twitter Link](https://cdn.visitingangels.com/images/icon-x_blue.svg)](https://x.com/_VisitingAngels)
-* [![Visiting Angels LinkedIn Link](https://cdn.visitingangels.com/images/social_icon_linkedin.png)](https://www.linkedin.com/company/visitingangels/)
-* [![Visiting Angels Instagram Link](https://cdn.visitingangels.com/images/social_icon_instagram.png)](https://www.instagram.com/visitingangelshomecare/)
-
-[![Find care in the UK](https://cdn.visitingangels.com/images/VA-UK-Logo.svg)
-
-Visiting Angels UK](https://www.visiting-angels.co.uk/)
-
-[![Find care in South Korea](https://cdn.visitingangels.com/images/VA-Korea-Logo.svg)
-
-Visiting Angels Korea](http://www.visitingangels.co.kr/)
-
-[![Find care in Mexico](https://cdn.visitingangels.com/images/VA-MX-Logo.svg)
-
-Visiting Angels Mexico](http://www.visitingangels.com.mx/)
-
-[![Find senior home care in Canada](https://cdn.visitingangels.com/images/VA-SHCBA-Logo.svg)
-
-Senior Home Care By Angels Canada](http://www.seniorhomecarebyangels.com/)
-
-![Visiting Angels Home Page](https://cdn.visitingangels.com/images/VA_Logo.svg)
-
-Yes, please take me there. No, I am looking for services in a different state.
+_Not all services are available at all locations. Please check with your [local agency](https://www.visitingangels.com/office-locator)._ Each Visiting Angels agency is a franchise that is independently owned and operated.  
+The Franchisor, Living Assistance Services Inc., does not control or manage the day to day business operations of any Visiting Angels franchised agency. © Visiting Angels is a registered trademark of Living Assistance Services, Inc. [Privacy Policy](https://www.visitingangels.com/privacy-policy) | [CAL. CIV. CODE 1798.135](https://www.visitingangels.com/privacy-policy#ccpa) | [Portal](https://arc.franconnect.net/fc/) dev (79f92a1) - prod
