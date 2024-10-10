@@ -287,6 +287,7 @@ Get started
 * [Blog](https://blog.ting.com/)
 * [Jobs](https://careers.ting.com/)
 * [Ting Press Room](https://ting.com/press-room)
+* [Ting Nutritional Labels](https://ting.com/nutrition-label)
 
 ### Support
 
