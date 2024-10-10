@@ -163,7 +163,7 @@ Electric Parts](https://www.weber.com/US/en/parts--et--support/replacement-parts
 
 [Shop All Electric Grills](https://www.weber.com/US/en/electric/ "Shop All Electric Grills")
 
-  [![](https://dw-images.weber.com/navigation/default/electric-grills/Lumin_Nav_Feature_207x165.jpg?auto=compress,format)New Lumin Electric Grill](https://www.weber.com/US/en/lumin-electric-grill-lp.html)[![](https://dw-images.weber.com/navigation/default/accessories/Griddle_LP_207x165.jpg?auto=compress,format)A Griddle for Every Grill](https://www.weber.com/US/en/griddles-lp.html)
+  [![](https://dw-images.weber.com/navigation/default/electric-grills/Lumin_Nav_Feature_207x165.jpg?auto=compress,format)New Lumin Electric Grill](https://www.weber.com/US/en/lumin-electric-grill-lp.html)
 
 [Griddle](https://www.weber.com/US/en/griddle/ "Griddle")
 
