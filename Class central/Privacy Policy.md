@@ -416,36 +416,36 @@ Most common
 
 1. English
     
-2. psychology
+2. hacking
     
-3. trading
+3. web development
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Artificial Intelligence
     
-    3,922 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Data Analysis
+    10,726 courses](https://www.classcentral.com/subject/ai)
+2. [Web Development
     
-    7,884 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Computer Networking
+    13,005 courses](https://www.classcentral.com/subject/web-development)
+3. [Web Design
     
-    1,449 courses](https://www.classcentral.com/subject/computer-networking)
+    2,340 courses](https://www.classcentral.com/subject/web-design)
 
 Popular courses
 ---------------
 
-1. [Advanced Precalculus: Geometry, Trigonometry and Exponentials
+1. [Learn Like a Pro: Science-Based Tools to Become Better at Anything
     
-    University of Padova](https://www.classcentral.com/course/advanced-precalculus-9602)
-2. [AP® Microeconomics
+    edX](https://www.classcentral.com/course/how-to-learn-barbara-oakley-olav-schewe-learn-lik-40292)
+2. [Paleontology: Theropod Dinosaurs and the Origin of Birds
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/edx-ap-microeconomics-8630)
-3. [Critical Thinking at University: An Introduction
+    University of Alberta](https://www.classcentral.com/course/theropods-birds-5236)
+3. [Introduction to Complexity
     
-    University of Leeds](https://www.classcentral.com/course/critical-thinking-at-university-12273)
+    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-introduction-to-complexity-557)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
