@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/what-is-dirty-soda-and-is-it-healthy-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/americans-estranged-family-member-disagreements-political-views-1440x810.jpg)
 
-Does ‘Dirty Soda’ Have Any Health Benefits?](https://www.everydayhealth.com/diet-nutrition/does-dirty-soda-have-any-health-benefits/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+1 in 5 Americans Are Estranged From Family Over Political Disagreement](https://www.everydayhealth.com/emotional-health/one-in-five-americans-estranged-over-political-disagreement/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/breast-cancer-rises-women-under-50-1440x810.png)
+![ ](https://images.everydayhealth.com/images/news/viruses-teeming-on-toothbrush-showerhead-1440x810.jpg)
 
-Breast Cancer Diagnoses Continue to Rise for Women Under 50](https://www.everydayhealth.com/cancer/breast-cancer-diagnoses-continue-to-rise-for-women-under-fifty/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Hundreds of Different Viruses Are on Your Toothbrush and Shower Head](https://www.everydayhealth.com/healthy-living/hundreds-of-viruses-on-toothbrush-and-shower-head/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/dupixent-approval-treat-copd-pdufa-1440x810.jpg)
 
