@@ -2575,7 +2575,6 @@ Werde jetzt Lidl Insider & sichere dir dein Willkommensgeschenk⁷!
 * [![Download Lidl App Store](/static/assets/82efc8cf-bb50-4670-ae68-0eb963de2326.png)](https://app.adjust.com/8cub0z?campaign=website&adgroup=footerbadges&fallback=https://itunes.apple.com/de/app/lidl-prospekte-angebote/id398474140?mt=8 "Download Lidl App Store")
 * [![Download Lidl Playstore](/static/assets/b3c6c459-6da4-4dd7-87bd-2b979c8ab561.png)](https://app.adjust.com/8cub0z?campaign=website&adgroup=footerbadges&fallback=https://play.google.com/store/apps/details?id=de.sec.mobile "Download Lidl Playstore")
 
-* [![Die Besten für Familien](/static/assets/Besten_f_Familien_Siegel-676100.png)](https://www.lidl.de/c/awards/s10007372#10131166 "Die Besten für Familien")
 * [![Offizieller Premium-Partner des DHB](/static/assets/c2c0806f-87d2-49fe-a638-1ff839af83a3.png)](https://www.lidl.de/c/lebensmittelpartner-des-dhb/s10007398 "Lidl ist Offizieller Premium-Partner des DHB")
 * [![Bester Online-Shop | Händler des Jahres](/static/assets/Siegel_Bester_OS_HdJ_2023_lidlde_192px-646340.png)](https://www.lidl.de/c/awards/s10007372#10036522 "Bester Online-Shop | Händler des Jahres")
 * [![Retail Award in der Kategorie 'Discount' für Lidl!](/static/assets/retail-award2023-561840.jpg)](https://www.lidl.de/c/retail-award/s10005219 "Lidl bekommt den Retail Award in der Kategorie 'Discount'!")
