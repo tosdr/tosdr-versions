@@ -3,11 +3,13 @@
 Free standard shipping on any $35 purchase
 
 * Join / Sign in
-* [Find a Store](https://www.ulta.com/stores)
+* [Community](https://www.ulta.com/community/groups)
     
 * [Track an Order](https://www.ulta.com/account/order-status)
     
 * Ulta Beauty Rewards™
+* [Find a Store](https://www.ulta.com/stores)
+    
 * [Gift Cards](https://www.ulta.com/guestservices/gift-cards)
     
 * Need Help?
