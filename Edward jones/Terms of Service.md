@@ -95,7 +95,7 @@ Follow us to stay up to date
 * [Revenue Sharing (pdf)](https://www.edwardjones.com/us-en/media/2526)
 * [Accessibility](https://www.edwardjones.com/us-en/accessibility)
 * [Terms of Use](https://www.edwardjones.com/us-en/terms)
-* Cookie Preference Management
+* [Cookie Preference Management](https://www.edwardjones.com/cookie-management)
 
 * [![BrokerCheck by FINRA](/sites/default/files/acquiadam/2020-09/brokercheck-by-finra-vector-logo%202%402x.png)](https://brokercheck.finra.org/)
 
