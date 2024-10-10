@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Smartwatch-Gesund­heits­funk­tionen im Test: Nicht auf alle Werte ist Verlass](https://www.test.de/smartwatch-gesundheitsfunktionen-im-test-6072292-0/ "Smartwatch-Gesundheitsfunktionen im Test - Nicht auf alle Werte ist Verlass")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Smartwatch-Gesund­heits­funk­tionen im Test: Nicht auf alle Werte ist Verlass](https://www.test.de/smartwatch-gesundheitsfunktionen-im-test-6072292-0/ "Smartwatch-Gesundheitsfunktionen im Test - Nicht auf alle Werte ist Verlass")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Smartwatch-Gesund­heits­funk­tionen im Test: Nicht auf alle Werte ist Verlass](https://www.test.de/smartwatch-gesundheitsfunktionen-im-test-6072292-0/ "Smartwatch-Gesundheitsfunktionen im Test - Nicht auf alle Werte ist Verlass")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
-* [110 Kinder-Cerealien im Nähr­wert-Check: Zucker­alarm zum Frühstück](https://www.test.de/110-Kinder-Cerealien-im-Naehrwert-Check-Zuckeralarm-zum-Fruehstueck-6001101-0/ "110 Kinder-Cerealien im Nährwert-Check - Zuckeralarm zum Frühstück")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Neue Betrugs­masche: Angeblich Geld vom Anwalt](https://www.test.de/Neue-Betrugsmasche-Angeblich-Geld-vom-Anwalt-6045004-0/ "Neue Betrugsmasche - Angeblich Geld vom Anwalt")
+* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
+* [Riester-Rente: Urteil lässt hoffen – Zurich darf Rente nicht kürzen](https://www.test.de/Riester-Rente-Zurich-darf-Rente-nicht-kuerzen-5981307-0/ "Riester-Rente - Urteil lässt hoffen – Zurich darf Rente nicht kürzen")
+* [Smartwatch-Gesund­heits­funk­tionen im Test: Nicht auf alle Werte ist Verlass](https://www.test.de/smartwatch-gesundheitsfunktionen-im-test-6072292-0/ "Smartwatch-Gesundheitsfunktionen im Test - Nicht auf alle Werte ist Verlass")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
 
 Service Stiftung Warentest
 
