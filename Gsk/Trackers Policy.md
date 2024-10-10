@@ -268,11 +268,6 @@ Location
         * [A career in Data](https://www.gsk.com/en-gb/careers/featured-careers/a-career-in-data/)
         
     * [Life at GSK](https://www.gsk.com/en-gb/careers/life-at-gsk/)
-        
-        Careers [Life at GSK](https://www.gsk.com/en-gb/careers/life-at-gsk/)
-        
-        * [What’s your angle?](https://www.gsk.com/en-gb/careers/life-at-gsk/whats-your-angle/)
-        
     * [Experienced professionals](https://www.gsk.com/en-gb/careers/experienced-professionals/)
         
         Careers [Experienced professionals](https://www.gsk.com/en-gb/careers/experienced-professionals/)
