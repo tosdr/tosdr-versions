@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Your favorite part of AN’s forum sig XI (1,987)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (1,987 posts)")
-* [\[Abortion Thread\] To rules? To conseq… (1,069)](https://forum.nationstates.net/viewtopic.php?t=549913&f=20&view=unread#unread ""[Abortion Thread] To rules? To consequences!" (1,069 posts)")
-* [The country game(a roleplay) (7,732)](https://forum.nationstates.net/viewtopic.php?t=546117&f=31&view=unread#unread ""The country game(a roleplay)" (7,732 posts)")
-* [Geography Game II (10,469)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,469 posts)")
-* [What Languages are Taught in YN's Sch… (160)](https://forum.nationstates.net/viewtopic.php?t=547177&f=23&view=unread#unread ""What Languages are Taught in YN's Schools?" (160 posts)")
+* [AL and YL get stuck in a elevator YL… (44)](https://forum.nationstates.net/viewtopic.php?t=556465&f=25&view=unread#unread ""AL and YL get stuck in a elevator YL reaction?" (44 posts)")
+* [YN people's thoughts on AL? (14)](https://forum.nationstates.net/viewtopic.php?t=555047&f=25&view=unread#unread ""YN people's thoughts on AL?" (14 posts)")
+* [Create conspiracy theory about AN (15)](https://forum.nationstates.net/viewtopic.php?t=556711&f=25&view=unread#unread ""Create conspiracy theory about AN" (15 posts)")
+* [The Seal and Logo Request Thread (8,567)](https://forum.nationstates.net/viewtopic.php?t=418198&f=23&view=unread#unread ""The Seal and Logo Request Thread" (8,567 posts)")
+* [NS Military Worldbuilding Thread No. 12 (8,869)](https://forum.nationstates.net/viewtopic.php?t=489819&f=23&view=unread#unread ""NS Military Worldbuilding Thread No. 12" (8,869 posts)")
 
 Advertisement
 
