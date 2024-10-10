@@ -182,6 +182,10 @@ Please contact FunKidsJokes.com’s Designated Agent to Receive Notification of 
 
 #### Recent Jokes
 
+[![Koala Jokes - Koala Bear Jokes](https://funkidsjokes.com/wp-content/uploads/2024/10/koala-jokes-100x70.png "Koala Jokes")](https://funkidsjokes.com/koala-jokes/ "Koala Jokes")
+
+### [Koala Jokes](https://funkidsjokes.com/koala-jokes/ "Koala Jokes")
+
 [![apple riddles](https://funkidsjokes.com/wp-content/uploads/2024/09/apple-riddles-100x70.png "Apple Riddles")](https://funkidsjokes.com/apple-riddles/ "Apple Riddles")
 
 ### [Apple Riddles](https://funkidsjokes.com/apple-riddles/ "Apple Riddles")
@@ -190,10 +194,6 @@ Please contact FunKidsJokes.com’s Designated Agent to Receive Notification of 
 
 ### [Apple Pie Jokes](https://funkidsjokes.com/apple-pie-jokes/ "Apple Pie Jokes")
 
-[![apple cider puns](https://funkidsjokes.com/wp-content/uploads/2024/09/apple-cider-puns-1-100x70.png "Apple Cider Puns")](https://funkidsjokes.com/apple-cider-puns/ "Apple Cider Puns")
-
-### [Apple Cider Puns](https://funkidsjokes.com/apple-cider-puns/ "Apple Cider Puns")
-
   
   
 
@@ -201,7 +201,7 @@ Please contact FunKidsJokes.com’s Designated Agent to Receive Notification of 
 
 ABOUT US
 
-[Fun Kids Jokes](https://funkidsjokes.com/) was created by parents as a safe place for other parents and their children to find something funny to giggle at. You’ll find funny, family-friendly jokes, riddles, one-liners, knock-knock jokes, puns, videos, and things we think are worth sharing with other parents. We hope you enjoy our website and find something to make you and the children in your life smile.
+[Fun Kids Jokes](https://funkidsjokes.com/) was created by parents as a safe place for other parents and their children to find something funny to giggle at. Funny kids jokes, silly jokes, family-friendly jokes for parents, jokes for teachers, riddles, one-liner jokes, knock-knock jokes, puns, videos, and things we think are worth sharing with other parents. We hope you enjoy our website and find something to make you and the children in your life smile at here at **Fun Kids Jokes**.
 
 FOLLOW US
 
