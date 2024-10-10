@@ -152,6 +152,7 @@ Quick links
 * [Subscription Portal Login](https://blackwolfnation.com/apps/retextion#/login "Subscription Portal Login")
 * [Accessibility Statement](https://blackwolfnation.com/pages/accessibility-statement "Accessibility Statement")
 * [Cookie Policy](https://blackwolfnation.com/pages/cookie-policy "Cookie Policy")
+* [FSA/HSA Eligible](https://blackwolfnation.com/pages/fsa-hsa-eligible-black-wolf-products "FSA/HSA Eligible")
 * [Refund policy](https://blackwolfnation.com/policies/refund-policy "Refund policy")
 * [Privacy policy](https://blackwolfnation.com/policies/privacy-policy "Privacy policy")
 * [Terms of service](https://blackwolfnation.com/policies/terms-of-service "Terms of service")
@@ -178,7 +179,7 @@ Popular products
 
 Haircare Bundle
 
-$54.00](https://blackwolfnation.com/products/haircare-bundle)
+$40.00](https://blackwolfnation.com/products/haircare-bundle)
 
 21% Off
 
@@ -202,8 +203,8 @@ WUSH™ PRO Ear Cleaner
 
 Color
 
-$59.00
+$59.99
 
 Color](https://blackwolfnation.com/products/wush)
 
-{"themeColor":"#574CD5","iconColor":"#574CD5","showLogo":true,"topBottomPosition":10,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"bottom-right"}
+{"themeColor":"#574cd5","iconColor":"#574cd5","showLogo":true,"topBottomPosition":100,"rightLeftPosition":10,"iconSize":"extra-small","iconCustomSize":64,"position":"middle-right"}
