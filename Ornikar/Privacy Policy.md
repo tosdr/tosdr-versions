@@ -16,6 +16,12 @@ Heures
 
 MIN
 
+1
+
+5
+
+sec
+
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/67077f8383d107b4942cfa2d_Badge%20DERNIERES%20HEURES.svg)
 
 Jusqu’à -100€\* sur les packs permis ! Jusqu'à ce soir 23h59 seulement. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
@@ -115,6 +121,12 @@ Heures
 5
 
 MIN
+
+1
+
+5
+
+sec
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/67077f8383d107b4942cfa2d_Badge%20DERNIERES%20HEURES.svg)
 
