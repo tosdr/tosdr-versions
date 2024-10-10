@@ -375,11 +375,11 @@
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/09/Webinar-MSP-Enablement-Series-Mastering-Your-MSPs-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/09/KAS_Webinar-VSA-Q4-Pro-300x200.jpg)
     
-    MSP Panel: Lessons Learned as a TruMethods Peer Member
+    VSA Quarterly Product Innovation Update
     
-    October 9
+    October 22 - 23
     
     [View All Events](https://www.kaseya.com/events/)
     
