@@ -202,7 +202,7 @@ De non-performance penalty is beperkt tot 100% van het maandbedrag van de betref
 
 #### [Onderhoud](https://www.bit.nl/onderhoud)
 
-[09-10-24 Onderhoud statistieken in de BIT-portal](https://www.bit.nl/news/3596/92/Onderhoud-statistieken-in-de-BIT-portal) [09-10-24 Netwerkonderhoud BIT-1 & BIT-2D](https://www.bit.nl/news/3592/92/Netwerkonderhoud-BIT-1-BIT-2D) [10-10-24 Netwerkonderhoud BIT-2A](https://www.bit.nl/news/3594/92/Netwerkonderhoud-BIT-2A) [14-10-24 Onderhoud UPS BIT-2D B-Feed](https://www.bit.nl/news/3604/92/Onderhoud-UPS-BIT-2D-B-Feed) [14-10-24 Periodiek onderhoud koeling BIT-2BCD](https://www.bit.nl/news/3599/92/Periodiek-onderhoud-koeling-BIT-2BCD) [14-10-24 Periodiek onderhoud koeling BIT-2A](https://www.bit.nl/news/3598/92/Periodiek-onderhoud-koeling-BIT-2A) [28-10-24 Periodiek onderhoud koeling BIT-1](https://www.bit.nl/news/3603/92/Periodiek-onderhoud-koeling-BIT-1)
+[09-10-24 Netwerkonderhoud BIT-1 & BIT-2D](https://www.bit.nl/news/3592/92/Netwerkonderhoud-BIT-1-BIT-2D) [10-10-24 Netwerkonderhoud BIT-2A](https://www.bit.nl/news/3594/92/Netwerkonderhoud-BIT-2A) [14-10-24 Onderhoud UPS BIT-2D B-Feed](https://www.bit.nl/news/3604/92/Onderhoud-UPS-BIT-2D-B-Feed) [14-10-24 Periodiek onderhoud koeling BIT-2BCD](https://www.bit.nl/news/3599/92/Periodiek-onderhoud-koeling-BIT-2BCD) [14-10-24 Periodiek onderhoud koeling BIT-2A](https://www.bit.nl/news/3598/92/Periodiek-onderhoud-koeling-BIT-2A) [28-10-24 Periodiek onderhoud koeling BIT-1](https://www.bit.nl/news/3603/92/Periodiek-onderhoud-koeling-BIT-1)
 
 [](https://www.bit.nl/onderhoud)
 
