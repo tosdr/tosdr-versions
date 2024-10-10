@@ -18,13 +18,8 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
-
-Secondary Menu
---------------
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
@@ -226,9 +221,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Takes Action Against Marriott and Starwood Over Multiple Data Breaches](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-takes-action-against-marriott-starwood-over-multiple-data-breaches)
+    ### [FTC Sends More Than $449,000 to Consumers Harmed by ‘Extended Vehicle Warranty’ Scam](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-sends-more-449000-consumers-harmed-extended-vehicle-warranty-scam)
     
-    October 9, 2024
+    October 10, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
@@ -328,13 +323,8 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
-
-Secondary Menu
---------------
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
