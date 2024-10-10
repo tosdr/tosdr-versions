@@ -5,7 +5,7 @@
 * [Call](tel:988)
 * [Text](sms:988)
 * [Chat](https://chat.988lifeline.org/)
-* [ASL Now](https://988.aslnow.io/phones/100030001/)
+* [Deaf/HoH](https://988.aslnow.io/phones/100030001/)
 
 [988 Lifeline](https://988lifeline.org/)
 
@@ -16,7 +16,7 @@
 * [Call](tel:988)
 * [Text](sms:988)
 * [Chat](https://chat.988lifeline.org/)
-* [ASL Now](https://988.aslnow.io/phones/100030001/)
+* [Deaf/HoH](https://988.aslnow.io/phones/100030001/)
 
 * [Home](https://988lifeline.org/)
 * [Get Help](https://988lifeline.org/get-help/)
@@ -26,6 +26,7 @@
         * [Black Mental Health](https://988lifeline.org/help-yourself/black-mental-health/)
         * [Deaf, Hard of Hearing, Hearing Loss](https://988lifeline.org/deaf-hard-of-hearing-hearing-loss/)
         * [Disaster Survivors](https://988lifeline.org/help-yourself/disaster-survivors/)
+        * [Hispanic/Latino Mental Health](https://988lifeline.org/help-yourself/hispanic-latino-mental-health/)
         * [People with Neurodivergence](https://988lifeline.org/help-yourself/individuals-with-neurodivergence/)
         * [LGBTQI+](https://988lifeline.org/help-yourself/lgbtqi/)
         * [Loss Survivors](https://988lifeline.org/help-yourself/loss-survivors/)
@@ -210,7 +211,7 @@ Ways to Connect
 * [Call](tel:988)
 * [Text](sms:988)
 * [Chat](https://chat.988lifeline.org/)
-* [ASL Now](https://988.aslnow.io/phones/100030001/)
+* [Deaf/HoH](https://988.aslnow.io/phones/100030001/)
 
 Share
 
