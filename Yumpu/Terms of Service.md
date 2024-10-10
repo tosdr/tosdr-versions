@@ -1,4 +1,4 @@
-[![logo](https://assets.yumpu.com/release/mQHtlv8HDPIaF3S/v5/img/logo/Yumpu_Logo_RGB.png)](https://www.yumpu.com/en "Yumpu")
+[![logo](https://assets.yumpu.com/release/v7gI1kFIkEIPNUk/v5/img/logo/Yumpu_Logo_RGB.png)](https://www.yumpu.com/en "Yumpu")
 
 [EN](#)
 
@@ -19,7 +19,6 @@ CLOSE
     [News](https://www.yumpu.com/en/news-service "News") [Publishing](https://www.yumpu.com/en/publishing-software "Publishing")
     
 * [Magazines](https://www.yumpu.com/en/magazines)
-* [Pricing](https://www.yumpu.com/en/account/profile/subscription_plans)
 * [Create ePaper](https://flipbook-creator.yumpu.com/en/how-to-create-a-page-turning-pdf "Create ePaper")
 * [](#)
     
@@ -131,7 +130,7 @@ Terms of Service
 
 This document was last updated on March 21, 2022
 
-![logo](https://assets.yumpu.com/release/mQHtlv8HDPIaF3S/v5/img/logo/yumpu-footer2x.png)
+![logo](https://assets.yumpu.com/release/v7gI1kFIkEIPNUk/v5/img/logo/yumpu-footer2x.png)
 
 [](https://www.facebook.com/yumpunews "Facebook")[](https://twitter.com/yumpu_com "Twitter")[](https://www.pinterest.com/yumpucom "Pinterest")[](https://www.youtube.com/user/yumpucom "Youtube")[](https://vimeo.com/yumpucom "Vimeo")
 
