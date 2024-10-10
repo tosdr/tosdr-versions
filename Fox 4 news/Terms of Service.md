@@ -393,13 +393,45 @@ Nothing contained in this Agreement limits Fox’s right to comply with governme
 
 Please contact the Site Administrator with any questions regarding this Agreement by sending an email to: [**Terms-KDFW@fox.com**](mailto:Terms-KDFW@fox.com)
 
-[![Hurricane update: Milton at Category 4, tornado threats active across Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/f75dd2c5-digital_radar-milton2.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+[![Hurricane Milton update: Category 3 storm makes landfall in Florida with powerful winds, severe storm surge](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/foxwx5pmradar.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
 WATCH LIVE COVERAGE
 
-[Hurricane Milton now Category 4 storm ahead of Florida landfall](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+[Hurricane Milton makes landfall in Florda as a Cat. 3 storm](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
 
-[Hurricane Milton continued on its path to the west coast of Florida on Wednesday, likely to remain a major hurricane when it finally makes landfall.](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+[Hurricane Milton made landfall Wednesday along Florida’s Gulf Coast as a powerful Category 3 storm, unleashing strong winds, a deadly storm surge, and widespread flooding.](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
+
+[![Videos show tornadoes blasting Florida ahead of Hurricane Milton landfall](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/digital_radar-milton2.gif?ve=1&tl=1)](https://www.fox4news.com/weather/florida-tornado-warnings-hurricane-milton)
+
+WATCH LIVE COVERAGE
+
+[Videos show tornadoes blasting Florida ahead of Hurricane Milton landfall](https://www.fox4news.com/weather/florida-tornado-warnings-hurricane-milton)
+
+[A record number of tornado warnings were issued Wednesday across South Florida, with Hurricane Milton still hours away from landfall](https://www.fox4news.com/weather/florida-tornado-warnings-hurricane-milton)
+
+[](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
+
+WATCH LIVE COVERAGE
+
+[Hurricane Milton live video: Watch Florida webcams](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
+
+[Here the view from live cameras up and down the west coast of Florida, from Clearwater to Tampa to Sarasota, as Hurricane Milton comes ashore.](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
+
+[![Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/149/84/dog-rescued-main-image.jpg?ve=1&tl=1)](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near)
+
+WATCH LIVE COVERAGE
+
+[Video: Dog tied to pole on Tampa interstate rescued as Hurricane Milton draws near](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near)
+
+[A dog left to fend for himself during Hurricane Milton has been rescued by the Florida Highway Patrol.](https://www.fox4news.com/news/dog-tied-pole-tampa-interstate-rescued-hurricane-milton-draws-near) 
+
+[![Chilling warnings for Tampa Bay area residents ahead of Hurricane Milton](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/gettyimages-2176914630.jpg?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-tampa-bay-evacuation-warnings)
+
+WATCH LIVE COVERAGE
+
+[Chilling warnings for Tampa Bay area residents ahead of Hurricane Milton](https://www.fox4news.com/news/hurricane-milton-tampa-bay-evacuation-warnings)
+
+[Hurricane Milton is on track to slam into the west coast of Florida as one of the most destructive storms the Tampa Bay area has ever seen. Local officials are not mincing words as they urge storm-weary residents to evacuate.](https://www.fox4news.com/news/hurricane-milton-tampa-bay-evacuation-warnings)
 
 ###### [News](https://www.fox4news.com/news)
 
