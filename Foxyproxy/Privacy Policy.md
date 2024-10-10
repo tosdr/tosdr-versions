@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I took out the three months subscription to cover the time we spent in Florida this winter. The Foxyproxy service worked flawlessly and allowed us to watch all our favourite shows on the Canadian international BBC iPlayer. Great service, will do it again next winter.
+I have only one word to say. I LOVE YOU GUYS seriously you just made my life so easy. Thank You Thank You Thank You Thank You Thank You So much.
 
-Tony Dobson
+Nab Ahmed
