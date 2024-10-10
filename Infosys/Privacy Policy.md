@@ -249,7 +249,7 @@ About Us
         * [Data Processing Clauses](https://www.infosys.com/privacy-statement/data-processing-clauses.html "Data Processing Clauses")
 
 1. [![Share](/content/dam/infosys-web/en/global-resource/background-image/share.svg)](javascript:void(0);)
-    * [](javascript:void(0))
+    * [![](/content/dam/infosys-web/en/global-resource/background-image/twitter-x.svg)](javascript:void(0))
     * [](javascript:void(0))
     * [](javascript:void(0))
 2. Like what you see? [Let's talk ![](/content/dam/infosys-web/en/global-resource/background-image/arrow-right.svg)](#rfs) 
