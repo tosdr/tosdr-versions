@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/visit-and-learn/visit/planning-your-visit/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/committees-press-releases/environment-committee-begins-hearings-on-the-fast-track-approvals-bill/)
 
 Search [Advanced Search](https://www.parliament.nz/en/search)
 
@@ -14,7 +14,7 @@ Search
 
 [Advanced Search](https://www.parliament.nz/en/search)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/visit-and-learn/visit/planning-your-visit/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/committees-press-releases/environment-committee-begins-hearings-on-the-fast-track-approvals-bill/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
