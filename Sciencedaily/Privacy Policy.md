@@ -230,15 +230,15 @@ this week
 
 [Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
 
-[Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
-
 [Joint Health](https://www.sciencedaily.com/news/health_medicine/joint_health/)
+
+[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
-[Alternative Fuels](https://www.sciencedaily.com/news/matter_energy/alternative_fuels/)
+[Weapons Technology](https://www.sciencedaily.com/news/matter_energy/weapons_technology/)
 
 [Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
 
@@ -246,9 +246,9 @@ this week
 
 [Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
 
-[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
-[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
+[Mating and Breeding](https://www.sciencedaily.com/news/plants_animals/mating_and_breeding/)
 
   
 
