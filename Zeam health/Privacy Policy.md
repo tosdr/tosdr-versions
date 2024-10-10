@@ -15,6 +15,7 @@ Request an Appointment
     * [Spravato (Esketamine)](https://www.zeamhealth.com/mental-health/spravato-esketamine/)
     * [Ketamine](https://www.zeamhealth.com/mental-health/ketamine-services/)
     * [Therapy](https://www.zeamhealth.com/mental-health/therapy-services/)
+    * [Transcranial Magnetic Stimulation](https://www.zeamhealth.com/mental-health/transcranial-magnetic-stimulation/)
     * [Psychiatry](https://www.zeamhealth.com/mental-health/psychiatry/)
     * [Psychotherapy](https://www.zeamhealth.com/mental-health/psychotherapy-and-cbt/)
         * [Online Therapy](https://www.zeamhealth.com/mental-health/online-therapy-services/)
