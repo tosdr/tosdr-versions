@@ -401,41 +401,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas Stars kick off new season tonight in Nashville](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/GettyImages-2001187097.jpg?ve=1&tl=1)
+ [![How North Texas has voted in recent presidential elections](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-97334359.jpg?ve=1&tl=1)
 
- ![Dallas Stars kick off new season tonight in Nashville](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/02/32/18/592/333/GettyImages-2001187097.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-stars-2024-season-opener)
+ ![How North Texas has voted in recent presidential elections](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-97334359.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/presidential-election-history-north-texas-dallas-tarrant-denton-collin)
 
-### [Dallas Stars kick off new season tonight in Nashville](https://www.fox4news.com/sports/dallas-stars-2024-season-opener)
+### [How North Texas has voted in recent presidential elections](https://www.fox4news.com/news/presidential-election-history-north-texas-dallas-tarrant-denton-collin)
 
- [![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2177760613.jpg?ve=1&tl=1)
+ [![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2177035540.jpg?ve=1&tl=1)
 
- ![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177760613.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
+ ![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177035540.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
 
 Live Now
 
 ### [Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
 
- [![Tropicana Field roof ripped off by Hurricane Milton](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/gettyimages-2177012789.jpg?ve=1&tl=1)
+ [![Fort Worth theology professor charged with possession of child pornography](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/charles-bellinger-tarrant-co-jail-mug.png?ve=1&tl=1)
 
- ![Tropicana Field roof ripped off by Hurricane Milton](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177012789.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
+ ![Fort Worth theology professor charged with possession of child pornography](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/charles-bellinger-tarrant-co-jail-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-theology-professor-charged-possession-pornographic-images-toddlers)
 
-### [Tropicana Field roof ripped off by Hurricane Milton](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
+### [Fort Worth theology professor charged with possession of child pornography](https://www.fox4news.com/news/fort-worth-theology-professor-charged-possession-pornographic-images-toddlers)
 
- [![LIVE: Big Boy, the world's largest steam locomotive, arrives in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/snapshot-96.jpg?ve=1&tl=1)
+ [![Shots fired near Dallas school prompt lockdown](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101024-sky-4-thursday-1250pm-kdfweme003_12_52_59_m_00.08.43.34.jpg?ve=1&tl=1)
 
- ![LIVE: Big Boy, the world's largest steam locomotive, arrives in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/snapshot-96.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/big-boy-train-fort-worth-locomotive)
+ ![Shots fired near Dallas school prompt lockdown](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101024-sky-4-thursday-1250pm-kdfweme003_12_52_59_m_00.08.43.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shots-fired-near-dallas-school-prompt-lockdown)
 
-Live Now
+### [Shots fired near Dallas school prompt lockdown](https://www.fox4news.com/news/shots-fired-near-dallas-school-prompt-lockdown)
 
-### [LIVE: Big Boy, the world's largest steam locomotive, arrives in Fort Worth](https://www.fox4news.com/news/big-boy-train-fort-worth-locomotive)
+ [![Watch: Pilot safely lands in Dallas with landing gear problems](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dallas-executive-emergency-landing_00.00.31.10.jpg?ve=1&tl=1)
 
- [![Hurricane Milton live video: Watch Florida webcams](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/videoframe_13106.png?ve=1&tl=1)
+ ![Watch: Pilot safely lands in Dallas with landing gear problems](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dallas-executive-emergency-landing_00.00.31.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-executive-airport-emergency-landing)
 
- ![Hurricane Milton live video: Watch Florida webcams](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/videoframe_13106.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
-
-Live Now
-
-### [Hurricane Milton live video: Watch Florida webcams](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
+### [Watch: Pilot safely lands in Dallas with landing gear problems](https://www.fox4news.com/news/dallas-executive-airport-emergency-landing)
 
 [![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/milton-lanfall.jpg?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
 
