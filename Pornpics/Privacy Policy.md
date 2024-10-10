@@ -63,7 +63,7 @@ Please, verify your email.
 * [Live Cams](https://www.pornpics.com/goto/cams)
 * [Meet&Fuck](https://www.pornpics.com/goto/dating)
 * [Sex Games](https://www.pornpics.com/goto/sexgames)
-* [AI Girls](https://www.pornpics.com/goto/aiporn)
+* [AI Jerk Off](https://www.pornpics.com/goto/aiporn)
 
 * [](https://www.pornpics.com/rnd/random "Random Gallery")
 
