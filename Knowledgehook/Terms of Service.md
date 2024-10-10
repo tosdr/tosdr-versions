@@ -356,7 +356,7 @@ Resources
 
 Company
 
-[Contact us](https://www.knowledgehook.com/contact-us.html) [Careers](https://www.knowledgehook.com/careers.html) [Privacy Center](https://www.knowledgehook.com/privacy-center.html) [Press](https://www.knowledgehook.com/press/home.html)
+[Contact us](https://www.knowledgehook.com/contact-us.html) [Careers](https://www.knowledgehook.com/careers.html) [Privacy Center](https://www.knowledgehook.com/privacy-center.html) [Press](https://www.knowledgehook.com/press/home.html) [Our Team](https://www.knowledgehook.com/our-team.html)
 
 Get Started
 
