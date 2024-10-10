@@ -140,8 +140,6 @@ Select your preferred language
 
 [Español](https://www.intuit.com/privacy/statement/es/)
 
-[Português](https://www.intuit.com/privacy/statement/pt-br/)
-
 Intuit Global Privacy Statement
 -------------------------------
 
