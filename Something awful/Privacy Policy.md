@@ -205,21 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Damn You All](https://www.somethingawful.com/weekend-web/damn-you-all/1/)
-* [The Original Dungeons & Dragons](https://www.somethingawful.com/dungeons-and-dragons/steve-old-gygax/1/)
-* [Plushie Forest](https://www.somethingawful.com/awful-links/awful-link-2061/)
-* [PeeSearch](https://www.somethingawful.com/weekend-web/peesearch/1/)
-* [Inappropriate Holiday Cards](https://www.somethingawful.com/comedy-goldmine/inappropriate-holiday-cards/1/)
+* [Slogans That Shouldn't Be](https://www.somethingawful.com/comedy-goldmine/slogans-shouldnt-be/1/)
+* [Movie 43; Hansel & Gretel: Witch Hunters; Parker; John Dies at the End](https://www.somethingawful.com/current-movie-reviews/movie43-hansel-gretel/1/)
+* [September 22, 2008](https://www.somethingawful.com/forum-fridays/ff09-22-08/1/)
+* [Megaman Gets Equipped](https://www.somethingawful.com/photoshop-phriday/megaman-gets-equipped/1/)
+* [The Solarspawn Saga](https://www.somethingawful.com/comedy-goldmine/solarspawn-arts-playpin/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Thread for fooling AI](http://forums.somethingawful.com/showthread.php?threadid=4072390 "Thread for fooling AI")
+* ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [things people think are specific to where they live but arent](http://forums.somethingawful.com/showthread.php?threadid=4072393 "things people think are specific to where they live but arent")
+
 ### Random Articles
 
-* [Catholic Freebies](https://www.somethingawful.com/awful-links/awful-link-1097/)
-* [I Hate You Page 28](https://www.somethingawful.com/cliff-yablonski/i-hate-you-28/)
-* [CRYBABY WIL WHEATON DOT NET](https://www.somethingawful.com/awful-links/awful-link-1078/)
-* [Do Not Be Ashamed of The Pleasure I Bring](https://www.somethingawful.com/news/that-marvelous-ape/)
-* [Guess What? Dino Egg Hatches 10-31-10](https://www.somethingawful.com/news/rand-paul-egg/)
+* [HELP!! dick stuck in vcr](https://www.somethingawful.com/comedy-goldmine/not-explaining-vcr/)
+* [Variety Pack #9: New Shirts from Abercrombie & Fitch; Vanilla History!](https://www.somethingawful.com/photoshop-phriday/variety-pack-9/1/)
+* [Signs of the Apocalypse for April, 2006](https://www.somethingawful.com/news/signs-apocalypse-for/)
+* [Build Your Own Standing Desk](https://www.somethingawful.com/news/diy-standing-desk/1/)
+* [Hope's Mom's Page](https://www.somethingawful.com/awful-links/awful-link-1138/)
 
 [Random!](https://www.somethingawful.com/random/)
 
