@@ -21,8 +21,6 @@
                 
         * * [AI Adoption and Perspectives in Education, 2024
                 
-                ![polygon-blue](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-                
                 ![polygon-blue](https://copyleaks.com/wp-content/uploads/2024/04/polygon-blue.svg)
                 
                 This analysis explores the opinions of 1,000 students & 250 teachers on adopting artificial intelligence within education.](https://copyleaks.com/blog/bridging-the-gap-ai-adoption-and-perspectives-in-education-2024)
@@ -55,17 +53,17 @@
         * * [News & MediaYour hub for the latest Copyleaks announcements, updates, news, and media features.](https://copyleaks.com/about-us/media)
         * * [AI Testing MethodologiesExplore the various testing methodologies used to assess the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
         * * [Help CenterGet the support you need for integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![Chat GPT and AI Detector](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%201463'%3E%3C/svg%3E)
+        * * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201300%20743'%3E%3C/svg%3E)
+                
+                ![](https://copyleaks.com/wp-content/uploads/2024/07/Firefly-technology-aesthetic-with-magnifying-glass-44618-2.webp)](https://copyleaks.com/blog/how-does-ai-detection-work)
+                
+                [How Does AI Detection Work?](https://copyleaks.com/blog/how-does-ai-detection-work)
+                
+                [![Chat GPT and AI Detector](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%201463'%3E%3C/svg%3E)
                 
                 ![Chat GPT and AI Detector](https://copyleaks.com/wp-content/uploads/2023/02/ChatGPT-AI-Detector_FeaturedImage-1-scaled.webp)](https://copyleaks.com/blog/chatgpt-and-ai-detection)
                 
                 [ChatGPT and AI Detection: What You Need to Know](https://copyleaks.com/blog/chatgpt-and-ai-detection)
-                
-                [![Lines of code](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20419'%3E%3C/svg%3E)
-                
-                ![Lines of code](https://copyleaks.com/wp-content/uploads/2024/08/CodeleaksHeader.webp)](https://copyleaks.com/blog/why-we-need-governance-and-compliance-in-source-code)
-                
-                [Why We Need Governance and Compliance in Source Code](https://copyleaks.com/blog/why-we-need-governance-and-compliance-in-source-code)
                 
     * * * #### Learn
                 
