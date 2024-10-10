@@ -299,16 +299,6 @@ Company
 * ![](/assets/flags/eur.svg)eur
     
 
-Mochahost is a WHG Company
-
-![](/assets/animation/g.webp)![](/assets/animation/f.webp)![](/assets/animation/e.webp)![](/assets/animation/d.webp)![](/assets/animation/c.webp)![](/assets/animation/b.webp)![](/assets/animation/a.webp)
-
-[World Host Group US Inc](https://worldhost.group/)  
-200 Continental Drive, Suite 401  
-Newark, Delaware, 19713
-
-World Host Group is the world's best hosting group. With clients in over 180 countries, every brand we run is dedicated to offering excellent reliable hosting backed by friendly expert technical support.
-
 Privacy Manager | [Terms & Conditions](https://javapipe.com/terms-of-service) | [Privacy Policy](https://javapipe.com/privacy-policy) | [Company Details](https://javapipe.com/company-details) | [Accessibility Statement](https://javapipe.com/accessibility-statement) | [Registrants Rights & Responsibilities](https://www.icann.org/en/registrars/registrant-rights-responsibilities-en.htm) | [Acceptable Usage Policy](https://javapipe.com/acceptable-usage-policy) | [Referral Program Agreement](https://javapipe.com/referral-program-agreement)
 
 © 2024 Mochahost. All rights reserved.
