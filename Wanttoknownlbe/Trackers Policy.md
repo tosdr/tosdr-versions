@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/economie/de-nieuwe-andere-krant-15-vragen-aan-sander/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/open-brief-aan-koning-willem-alexander/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
