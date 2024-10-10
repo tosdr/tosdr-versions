@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Rupal and Tanmay](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Rupal and Tanmay](https://image.wedmegood.com/resized/250X/uploads/images/0db5161bac23447f9f6b3a04dbee4611realwedding/CopyofCineLoveFINAL_0065.jpg?crop=35,189,789,443)
+
+Rupal and Tanmay (Jaipur)](https://www.wedmegood.com/real_wedding/detail/rupal-and-tanmay-jaipur-marwari-wedding-4403)
+
 [![Neha and Raheel](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Neha and Raheel](https://image.wedmegood.com/resized/250X/uploads/images/ef682fcea9ec417288c1758afd2ba38arealwedding/JLV08628Large.jpeg?crop=157,120,1013,569)
 
 Neha and Raheel (Goa)](https://www.wedmegood.com/real_wedding/detail/neha-and-raheel-goa-cross-culture-wedding-4402)
-
-[![Kunj and Ashish](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Kunj and Ashish](https://image.wedmegood.com/resized/250X/uploads/images/e8db96210b48473ab73a0456fc77aebcrealwedding/WN_KA_03_Wedding&Reception_467_1.jpg?crop=293,212,1617,909)
-
-Kunj and Ashish (Mumbai)](https://www.wedmegood.com/real_wedding/detail/kunj-and-ashish-mumbai-punjabi-sikh-wedding-4399)
 
 Browse by Category
 
