@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5b521061-c458-4819-a4fc-41d859d72a9e/20241010T020950/5b521061-c458-4819-a4fc-41d859d72a9e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5b521061-c458-4819-a4fc-41d859d72a9e/20241010T020950/5b521061-c458-4819-a4fc-41d859d72a9e_360x203.jpg)](https://www.king5.com/article/news/local/seattle/dicks-a-thon-enters-third-year-seattle/281-0b54d1a9-afee-4efc-a844-667663eef2d5)
+    *  [![](https://media.king5.com/assets/KING/images/98d844a8-7455-441f-8587-64201f722e68/20241010T060701/98d844a8-7455-441f-8587-64201f722e68_16x9.jpg) ![](https://media.king5.com/assets/KING/images/98d844a8-7455-441f-8587-64201f722e68/20241010T060701/98d844a8-7455-441f-8587-64201f722e68_360x203.jpg)](https://www.king5.com/article/news/education/former-marysville-superintendent-receives-over-400k-severance/281-16574078-97a1-46a1-bb8f-7b4e269fbea9)
         
-        #### [Dick's-A-Thon enters third year in Seattle](https://www.king5.com/article/news/local/seattle/dicks-a-thon-enters-third-year-seattle/281-0b54d1a9-afee-4efc-a844-667663eef2d5)
+        #### [Former Marysville superintendent receives over $400K severance package](https://www.king5.com/article/news/education/former-marysville-superintendent-receives-over-400k-severance/281-16574078-97a1-46a1-bb8f-7b4e269fbea9)
         
-    *  [![](https://media.king5.com/assets/KING/images/55ee2670-fbac-43fb-b73b-38b8d4dcbc75/20241010T020540/55ee2670-fbac-43fb-b73b-38b8d4dcbc75_16x9.jpg) ![](https://media.king5.com/assets/KING/images/55ee2670-fbac-43fb-b73b-38b8d4dcbc75/20241010T020540/55ee2670-fbac-43fb-b73b-38b8d4dcbc75_360x203.jpg)](https://www.king5.com/article/news/crime/3-injured-downtown-tacoma-shooting/281-d936ea6c-fda6-40fb-a090-4a7af9d3e7f6)
+    *  [![](https://media.king5.com/assets/KING/images/338ea67a-fbb5-4fd8-864f-c0886433d4b7/20241010T005502/338ea67a-fbb5-4fd8-864f-c0886433d4b7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/338ea67a-fbb5-4fd8-864f-c0886433d4b7/20241010T005502/338ea67a-fbb5-4fd8-864f-c0886433d4b7_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/king-county-metro-temporary-fix-place-at-3-bus-stops-ensure-ada-compliant/281-a2e5f991-e111-448f-9a39-40c8ad1f64b4)
         
-        #### [2 shot, 1 grazed by car in downtown Tacoma](https://www.king5.com/article/news/crime/3-injured-downtown-tacoma-shooting/281-d936ea6c-fda6-40fb-a090-4a7af9d3e7f6)
+        #### [King County Metro has temporary fix in place to ensure 3 bus stops are ADA compliant](https://www.king5.com/article/traffic/traffic-news/king-county-metro-temporary-fix-place-at-3-bus-stops-ensure-ada-compliant/281-a2e5f991-e111-448f-9a39-40c8ad1f64b4)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/1a5620cc-2664-4a84-bf1e-9faeb9aa1b13/20241010T015720/1a5620cc-2664-4a84-bf1e-9faeb9aa1b13_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1a5620cc-2664-4a84-bf1e-9faeb9aa1b13/20241010T015720/1a5620cc-2664-4a84-bf1e-9faeb9aa1b13_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/2e16afde-8a30-468b-902b-59c196a983ee/20241010T052942/2e16afde-8a30-468b-902b-59c196a983ee_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2e16afde-8a30-468b-902b-59c196a983ee/20241010T052942/2e16afde-8a30-468b-902b-59c196a983ee_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/c605bf6e-c200-4dfb-b99d-f7cec61664b3/20241010T001516/c605bf6e-c200-4dfb-b99d-f7cec61664b3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c605bf6e-c200-4dfb-b99d-f7cec61664b3/20241010T001516/c605bf6e-c200-4dfb-b99d-f7cec61664b3_360x203.jpg)](https://www.king5.com/article/news/local/local-volunteers-mobilize-help-hurricane-milton-florida/281-6c81eaed-8a74-48d6-b735-811f11785106)
+    *  [![](https://media.king5.com/assets/KING/images/3e325900-6449-4cab-bd8f-fca2a01fc2b9/20241010T061132/3e325900-6449-4cab-bd8f-fca2a01fc2b9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3e325900-6449-4cab-bd8f-fca2a01fc2b9/20241010T061132/3e325900-6449-4cab-bd8f-fca2a01fc2b9_360x203.jpg)](https://www.king5.com/article/weather/milton-king-5-checks-in-with-washingtonians-in-florida-hurricane/281-9a6ee3d4-4bbf-4a5c-95a8-ffe5f6f74ea4)
         
-        #### [Local volunteers mobilize to help as Hurricane Milton makes landfall in Florida](https://www.king5.com/article/news/local/local-volunteers-mobilize-help-hurricane-milton-florida/281-6c81eaed-8a74-48d6-b735-811f11785106)
+        #### [In the path of Milton: KING 5 checks in with Washingtonians in Florida's hurricane](https://www.king5.com/article/weather/milton-king-5-checks-in-with-washingtonians-in-florida-hurricane/281-9a6ee3d4-4bbf-4a5c-95a8-ffe5f6f74ea4)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-58°
+55°
 
 ![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
