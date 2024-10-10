@@ -117,10 +117,8 @@ Gestión de las solicitudes de los derechos de los interesados ejercidas sobre s
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
-  
 Plaza Manuel Gómez Moreno, s/n  
-  
-28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+28020 Madrid, email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 **\- Encargado:**
 
@@ -128,7 +126,7 @@ En las tareas de gestión de las solicitudes de los derechos de los interesados 
 
 **\- Delegado de Protección de Datos:**
 
-Email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+Email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 **\- Tipo:**
 
@@ -183,7 +181,7 @@ No se han detectado.
 
 #### Ejercicio de derechos
 
-Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/) o _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/) o [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 * * *
 
@@ -3261,92 +3259,107 @@ Dentro del Espacio Económico Europeo con nivel de protección adecuado:  
 
 #### **35.- Invitación general para participar en los programas de atracción, y retención de talento**
 
-#### Tratamiento:
+#### Tratamiento
 
 **\- Fines:**
 
 Gestionar los datos de carácter personal de la “Invitación General para participar en los Programas de Atracción y Retención de Talento dentro de la Inversión 4 del Componente 19 en el marco del Plan de Recuperación, Transformación y Resiliencia (C005/24-ED)”.  
-  
 Se utilizarán algunos datos recopilados de las Entidades beneficiarias, Personal Investigador o Técnico contratado/becado, contratistas o subcontratistas, en el marco de las actividades inherentes al desarrollo de la Invitación.
 
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
-  
 Plaza Manuel Gómez Moreno, s/n  
-  
-28020 Madrid, teléfono: 901100167, email: [protecciondedatos@red.es](mailto:%20protecciondedatos@red.es)
+28020 Madrid, teléfono: [901100167](tel:901100167), email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
+
+**\- Encargado:**
+
+En las tareas de gestión de las solicitudes de los derechos de los interesados se han detectado [encargados de tratamiento](https://red.es/es/area-prensa/multimedia/anexo-1-derechos-del-interesado).
 
 **\- Delegado de Protección de Datos:**
 
-Email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+Email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
+
+* * *
 
 #### Categoría de datos
 
 En el marco de la Invitación, Red.es tratará la siguiente tipología de datos de carácter personal:
 
-1\. Entidades Beneficiarias:
+1.     Entidades Beneficiarias:  
+       • NIF  
+       • Datos Representante Legal:  Nombre y apellidos, DNI/NIE, teléfono o móvil, correo electrónico  
+       • Datos bancarios  
+       • Trabajadores: rol profesional y funciones desempeñadas, nº de teléfono o móvil, correo electrónico  
+       • Actividad económica: Contratos con contratistas o subcontratistas, facturas
+2. Personal Investigador o Técnico contratado o becado:  
+       • Contrato de trabajo/Beca: Nombre y apellidos, DNI/NIE, nacionalidad, fecha de nacimiento, Nº de Seguridad Social, teléfono o móvil, correo electrónico, domicilio, títulos académicos, género
+3. Contratistas o Subcontratistas:  
+       • NIF  
+       • Datos Representante Legal: Nombre y apellidos, DNI/NIE, teléfono o móvil, correo electrónico  
+       • Contratos y facturas.  
+       • Autónomo/a: Nombre y apellidos, DNI/NIE, domicilio, teléfono o móvil, correo electrónico, datos económicos (contratos y facturas).
 
-* NIF
-* Datos Representante Legal:  Nombre y apellidos, DNI/NIE, teléfono o móvil, correo electrónico
-* Datos bancarios
-* Trabajadores: rol profesional y funciones desempeñadas, nº de teléfono o móvil, correo electrónico
-* Actividad económica: Contratos con contratistas o subcontratistas, facturas
-
-2\. Personal Investigador o Técnico contratado o becado:
-
-* Contrato de trabajo/Beca: Nombre y apellidos, DNI/NIE, nacionalidad, fecha de nacimiento, Nº de Seguridad Social, teléfono o móvil, correo electrónico, domicilio, títulos académicos.
-
-3\. Contratistas o Subcontratistas:
-
-* NIF
-* Datos Representante Legal: Nombre y apellidos, DNI/NIE, teléfono o móvil, correo electrónico
-* Contratos y facturas.
-* Autónomo/a: Nombre y apellidos, DNI/NIE, domicilio, teléfono o móvil, correo electrónico, datos económicos (contratos y facturas).
+* * *
 
 #### Colectivo
 
 Personal Investigador o Técnico contratado/ becado en los diferentes programas.
 
-**\- Departamento implicado:**
+* * *
+
+#### Departamento implicado
 
 Economía Digital
 
+* * *
+
 #### Legitimación
 
-* RGPD: 6.1 a): Consentimiento del interesado.
-* RGPD: 6.1. b): Mantenimiento de una relación contractual o precontractual.
-* RGPD: 6.1. c): Obligación legal para el Responsable de Tratamiento. 
+   • RGPD: 6.1 a): Consentimiento del interesado.  
+   • RGPD: 6.1. b): Mantenimiento de una relación contractual o precontractual.  
+   • RGPD: 6.1. c): Obligación legal para el Responsable de Tratamiento.
 
-**\- Plazo de supresión:**
+* * *
+
+#### Plazo de supresión
 
 Se conservarán durante el tiempo necesario para cumplir con la finalidad para la que se recabaron y para determinar las posibles responsabilidades que se pudieran derivar de dicha finalidad y del tratamiento de los datos. Siendo de aplicación la normativa interna que regula la conservación de datos
 
-#### Medidas de seguridad:
+* * *
 
-Las medidas de seguridad implantadas se corresponden con las previstas en el Anexo II (Medidas de seguridad) del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad, y de forma adicional se han implementado los controles de seguridad del Sistema de Gestión de la Seguridad de la Información basado en la Norma UNE-EN ISO/IEC 27001. 
+#### Medidas de seguridad
+
+Las medidas de seguridad implantadas se corresponden con las previstas en el Anexo II (Medidas de seguridad) del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad, y de forma adicional se han implementado los controles de seguridad del Sistema de Gestión de la Seguridad de la Información basado en la Norma UNE-EN ISO/IEC 27001.
 
 #### Cesión de datos
 
 Podrán cederse a los diferentes organismos (Comisión Europea, Oficina de Lucha Antifraude, Tribunal de Cuentas Europeo y la Fiscalía Europea) en el ejercicio de sus funciones de fiscalización y control del destino de la aportación, a los efectos del seguimiento y control de las actividades financiadas.
 
+* * *
+
 #### Transferencias Internacionales
 
-No se han detectado
+No se han detectado.
 
-#### Ejercicio de derechos:
+* * *
 
-Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/)
+#### Ejercicio de derechos
 
-**\- Tipo de tratamiento:**
+Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/) o [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
+
+* * *
+
+#### Tipo de tratamiento
 
 Automatizado
 
-**\- Categoría destinatarios:**
+#### Categoría destinatarios
 
-* Entidades Beneficiarias
-* Personal Investigador o Técnico contratado/ becado
-* Contratistas o Subcontratistas
+   • Entidades Beneficiarias  
+   • Personal Investigador o Técnico contratado/ becado  
+   • Contratistas o Subcontratistas  
+ 
 
 Nuestros Portales
 
