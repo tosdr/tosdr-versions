@@ -90,13 +90,13 @@ Noticia
 
 Transformación Digital PYMES
 
-La ayuda del programa Kit Consulting ya se puede solicitar para acceder a bonos de asesoramiento digital especializado
+Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting
 
-El plazo de presentación de las solicitudes se realiza a través de la sede electrónica de Red.es ([https://sede.red.gob.es](https://sede.red.gob.es/)) y estará abierto hasta el 31 de diciembre de 2024 a las 11:00 horas. 
+El programa, que estará abierto hasta el 31 de diciembre de 2024, ya ha superado las 10.000 solicitudes de ayudas 
 
-[La ayuda del programa Kit Consulting ya se puede solicitar para acceder a bonos de asesoramiento digital especializado](http://red.es/es/actualidad/noticias/la-ayuda-del-programa-kit-consulting-ya-se-puede-solicitar-para-acceder-bonos "Ir al contenido de: La ayuda del programa Kit Consulting ya se puede solicitar para acceder a bonos de asesoramiento digital especializado")
+[Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting](http://red.es/es/actualidad/noticias/accede-los-bonos-de-asesoramiento-digital-especializado-para-pymes-de-kit "Ir al contenido de: Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting")
 
-![](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20Digital%20notiweb%20sin%20copy2.png?h=7355a072&itok=g0ml6tBB)   
+![Kit Digital. Genérica](/sites/redes/files/styles/ratio_1_1/public/media/images/Kit%20digital%202.png?h=e25c4709&itok=F7Yh6zdv)   
 
 Noticia
 
