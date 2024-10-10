@@ -2,14 +2,14 @@ Thursday, October 10 2024
 
 Breaking News
 
+* [Maryland Attorney General Tries To Delay Potential Supreme Court Hearing On ‘Assault Weapons’ Ban](https://www.conservativedailynews.com/2024/10/maryland-attorney-general-tries-to-delay-potential-supreme-court-hearing-on-assault-weapons-ban/)
+* [Trump Confirms Campaign Booked One Of World’s Most Famous Arenas For Rally In ‘Play’ For Blue State](https://www.conservativedailynews.com/2024/10/trump-confirms-campaign-booked-one-of-worlds-most-famous-arenas-for-rally-in-play-for-blue-state/)
+* [Dems’ Worst Nightmare Is Coming True In Battleground States](https://www.conservativedailynews.com/2024/10/dems-worst-nightmare-is-coming-true-in-battleground-states/)
+* [Trying to Understand the Way Leftist’s Think](https://www.conservativedailynews.com/2024/10/trying-to-understand-the-way-leftists-think/)
+* [White House Press Briefing with Karine Jean-Pierre – 10/10/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-10-24/)
 * [Florida Needs Prayers – and Hands](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/)
 * [President Joe Biden’s Schedule for Thursday, October 10, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-10-2024/)
 * [How Is It Misinformation To Ask A Question](https://www.conservativedailynews.com/2024/10/how-is-it-misinformation-to-ask-a-question/)
-* [Media Blitz Not Working For Democrats](https://www.conservativedailynews.com/2024/10/media-blitz-not-working-for-democrats/)
-* [President Joe Biden’s Schedule for Wednesday, October 9, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-wednesday-october-9-2024/)
-* [It’s All About Bringing Back The American Dream](https://www.conservativedailynews.com/2024/10/its-all-about-bringing-back-the-american-dream/)
-* [Elon Musk Warns Tucker Carlson Harris Will Try To Shut Down X ‘By Any Means Possible’ If Elected](https://www.conservativedailynews.com/2024/10/elon-musk-warns-tucker-carlson-harris-will-try-to-shut-down-x-by-any-means-possible-if-elected/)
-* [A Kamala Harris Presidency is the End of America as We have Known and Loved It](https://www.conservativedailynews.com/2024/10/a-kamala-harris-presidency-is-the-end-of-america-as-we-have-known-and-loved-it/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -126,67 +126,67 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/we-the-people-can-count-on-each-other-but-not-the-federal-government/)
+* [![Bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2023/08/stg082123dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/inflation-ticks-down-less-than-expected-as-fears-of-hot-economy-grow/)
     
-    [We the People Can Count on Each Other, But Not the Federal Government](https://www.conservativedailynews.com/2024/10/we-the-people-can-count-on-each-other-but-not-the-federal-government/)
-    
-    October 10, 2024
-    
-* [![Milton how to help](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/)
-    
-    [Florida Needs Prayers – and Hands](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/)
+    [Inflation Ticks Down Less Than Expected As Fears Of Hot Economy Grow](https://www.conservativedailynews.com/2024/10/inflation-ticks-down-less-than-expected-as-fears-of-hot-economy-grow/)
     
     October 10, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/08/Coins-money-220x150.png)](https://www.conservativedailynews.com/2024/10/purr-spective-needed-help-me-find-the-best-budget-friendly-cat-food-and-litter/)
+* [![second amendment](https://www.conservativedailynews.com/wp-content/uploads/2017/06/second-amendment.jpg)](https://www.conservativedailynews.com/2024/10/maryland-attorney-general-tries-to-delay-potential-supreme-court-hearing-on-assault-weapons-ban/)
     
-    [Purr-spective Needed: Help Me Find the Best Budget-Friendly Cat Food and Litter](https://www.conservativedailynews.com/2024/10/purr-spective-needed-help-me-find-the-best-budget-friendly-cat-food-and-litter/)
-    
-    October 10, 2024
-    
-* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-10-2024/)
-    
-    [President Joe Biden’s Schedule for Thursday, October 10, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-10-2024/)
+    [Maryland Attorney General Tries To Delay Potential Supreme Court Hearing On ‘Assault Weapons’ Ban](https://www.conservativedailynews.com/2024/10/maryland-attorney-general-tries-to-delay-potential-supreme-court-hearing-on-assault-weapons-ban/)
     
     October 10, 2024
     
-* [![Joe Biden Kamala Harris Policy administration](https://www.conservativedailynews.com/wp-content/uploads/2024/10/gv100924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/those-were-the-days/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/trump-pointingfiger-220x150.jpg)](https://www.conservativedailynews.com/2024/10/trump-confirms-campaign-booked-one-of-worlds-most-famous-arenas-for-rally-in-play-for-blue-state/)
     
-    [Those Were the Days…](https://www.conservativedailynews.com/2024/10/those-were-the-days/)
+    [Trump Confirms Campaign Booked One Of World’s Most Famous Arenas For Rally In ‘Play’ For Blue State](https://www.conservativedailynews.com/2024/10/trump-confirms-campaign-booked-one-of-worlds-most-famous-arenas-for-rally-in-play-for-blue-state/)
     
-    October 9, 2024
+    October 10, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/07/1657581402_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/10/how-is-it-misinformation-to-ask-a-question/)
+* [![Kamalanomics Kamala Harris bidenomics](https://www.conservativedailynews.com/wp-content/uploads/2024/08/gv080624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/biden-harris-administration-grossly-underestimated-inflation-since-2019-new-study-shows/)
     
-    [How Is It Misinformation To Ask A Question](https://www.conservativedailynews.com/2024/10/how-is-it-misinformation-to-ask-a-question/)
+    [Biden-Harris Administration ‘Grossly’ Underestimated Inflation Since 2019, New Study Shows](https://www.conservativedailynews.com/2024/10/biden-harris-administration-grossly-underestimated-inflation-since-2019-new-study-shows/)
     
-    October 9, 2024
+    October 10, 2024
     
-* [![joe Biden Kamala Harris hurricane relief spending](https://www.conservativedailynews.com/wp-content/uploads/2024/10/02-peanuts-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/this-is-nuts/)
+* [![Kamala Harris sad](https://www.conservativedailynews.com/wp-content/uploads/2020/08/Kamala-Harris-5.jpg)](https://www.conservativedailynews.com/2024/10/dems-worst-nightmare-is-coming-true-in-battleground-states/)
     
-    [This Is Nuts](https://www.conservativedailynews.com/2024/10/this-is-nuts/)
+    [Dems’ Worst Nightmare Is Coming True In Battleground States](https://www.conservativedailynews.com/2024/10/dems-worst-nightmare-is-coming-true-in-battleground-states/)
     
-    October 9, 2024
+    October 10, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/one-year-later/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2016/08/the-trouble-with-our-liberal-friends-is-not-that-theyre-ignorant-its-just-that-they-know-so-much-that-isnt-so.jpg)](https://www.conservativedailynews.com/2024/10/trying-to-understand-the-way-leftists-think/)
     
-    [One Year Later](https://www.conservativedailynews.com/2024/10/one-year-later/)
+    [Trying to Understand the Way Leftist’s Think](https://www.conservativedailynews.com/2024/10/trying-to-understand-the-way-leftists-think/)
     
-    October 9, 2024
+    October 10, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/03-antisem-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/chutzpah/)
+    
+    [Chutzpah](https://www.conservativedailynews.com/2024/10/chutzpah/)
+    
+    October 10, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/1667428661_maxresdefault-220x150.jpg)](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-10-24/)
+    
+    [White House Press Briefing with Karine Jean-Pierre – 10/10/24](https://www.conservativedailynews.com/2024/10/white-house-press-briefing-with-karine-jean-pierre-10-10-24/)
+    
+    October 10, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Maryland Attorney General Tries To Delay Potential Supreme Court Hearing On ‘Assault Weapons’ Ban](https://www.thegunpage.com/maryland-attorney-general-tries-to-delay-potential-supreme-court-hearing-on-assault-weapons-ban/10611122)
+* [FPC Targets New Jersey One-Gun-A-Month Law](https://www.thegunpage.com/fpc-targets-new-jersey-one-gun-a-month-law/10611121)
+* [Riton Announces the 3 Tactix 3X Magnifier](https://www.thegunpage.com/riton-announces-the-3-tactix-3x-magnifier/10611116)
+* [Weed Store Owner Claims Self-Defense in Fatal Shooting Amid Post-Hurricane Chaos](https://www.thegunpage.com/weed-store-owner-claims-self-defense-in-fatal-shooting-amid-post-hurricane-chaos/10611114)
+* [TFB Behind The Gun #136: Handy Disaster Guns w/ Cameron & Sam](https://www.thegunpage.com/tfb-behind-the-gun-136-handy-disaster-guns-w-cameron-sam/10611117)
+* [Off-Duty Atlanta Police Investigator Fatally Shot During Attempted Break-In](https://www.thegunpage.com/off-duty-atlanta-police-investigator-fatally-shot-during-attempted-break-in/10611112) 
 * [Florida officials who banned guns prior to hurricane may soon pay for their ‘error’](https://www.thegunpage.com/florida-officials-who-banned-guns-prior-to-hurricane-may-soon-pay-for-their-error/10611110)
 * [USA Shooting Athletes Earn 10 Medals At 2024 ISSF Junior World Championships](https://www.thegunpage.com/usa-shooting-athletes-earn-10-medals-at-2024-issf-junior-world-championships/10611108)
 * [The History of PKM, the Most Common Machine Gun In the World. Part 4](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-4/10611104)
 * [POTD: Cabot Yin & Yang Set](https://www.thegunpage.com/potd-cabot-yin-yang-set/10611105)
-* [Wheelgun Wednesday: Davidson's Exclusives Heritage Barkeep Revolvers](https://www.thegunpage.com/wheelgun-wednesday-davidsons-exclusives-heritage-barkeep-revolvers/10611106)
-* [SCOTUS Appears to be Leaning Toward Support of Biden Admin on Ghost Guns](https://www.thegunpage.com/scotus-appears-to-be-leaning-toward-support-of-biden-admin-on-ghost-guns/10611102)
-* [Going Long-Range with a Canted Scope Base Rail](https://www.thegunpage.com/going-long-range-with-a-canted-scope-base-rail/10611100)
-* [Canada Gun Grab Update: Province Gets Ready To Face Down The Feds](https://www.thegunpage.com/canada-gun-grab-update-province-gets-ready-to-face-down-the-feds/10611101)
-* [DeSantis Warns Looters: “You Don’t Know What’s Behind that Door in a Second Amendment State”](https://www.thegunpage.com/desantis-warns-looters-you-dont-know-whats-behind-that-door-in-a-second-amendment-state/10611099)
-* [Watchtower Demolitia 1911: Ported And Double-Stacked Firepower](https://www.thegunpage.com/watchtower-demolitia-1911-ported-and-double-stacked-firepower/10611098)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
