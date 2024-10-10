@@ -28,7 +28,7 @@ Go to previous offer
 *  [![offer icon](https://images.fandango.com/cms/assets/64a40e40-5e81-11ef-a07e-5b03d6159fe4--rt-icon.svg) **New Audience Score Badge Unveiled: Verified Hot** Check out the first Verified Hot movies!](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_GlobalNav)
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Get Deadpool's Premium Package** Including the Official Best Friends Necklaces!
 *  [![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rediscover the magic of Hogwarts!** Get tickets at a theater near you](https://www.fandango.com/movie-news/return-to-the-magic-of-hogwarts-in-theaters-755159?cmp=TARS~FANDANGO~Back_To_Hogwarts_GlobalNav)
-* **Special Offer from Bouqs** Get $40 Off Flowers
+* **Flowers + Movies** Get $40 off spooky flowers with ticket purchase.
 
 Go to next offer
 
@@ -297,7 +297,7 @@ Close
 
 SPECIAL OFFER
 
-Close ![Special Offer from Bouqs](https://images.fandango.com/images/offers/502/1/hallFAN_MOPLightboxUnit_Desktop_BouqsHalloween_620x350-v2_lg.jpg)
+Close ![Flowers + Movies](https://images.fandango.com/images/offers/502/1/FAN_MOPLightboxUnit_Desktop_BouqsHalloween_620x350-v2B_lg.jpg)
 
 #### Make a purchase on Fandango or Fandango at Home and enjoy $40 off Bouqs flowers, plus $7 off weekday shipping.
 
