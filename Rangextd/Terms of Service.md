@@ -96,7 +96,7 @@ Discover the hottest items flying off the shelves.
     
     ### [Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](https://www.rangextd.com/products/starscope-ver-3)
     
-    Out of stock
+    Next day delivery
     
     $159.99 $79.99
     
@@ -264,7 +264,7 @@ Discover the hottest items flying off the shelves.
     
     ### [RangeXTD WiFi Extender - Seamless Coverage](https://www.rangextd.com/products/rangextd)
     
-    Out of stock
+    Next day delivery
     
     $110.99 $59.99
     
@@ -316,7 +316,7 @@ Top Savvy Techs
     
 * [![Experience the New MacBook Air M3 13-inch](//savvysmartdeals.com/cdn/shop/files/macbook_air_m3_xanh_den_-3_1db46a37c9ab4b8f84009499a17f613b_grande_603f055f-cd84-4d41-b07b-9f2a9063605e.webp?v=1727852448&width=645)](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
     
-    [View options](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
+    Quantity  Add to cart
     
     ### [Experience the New MacBook Air M3 13-inch](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
     
@@ -324,19 +324,19 @@ Top Savvy Techs
     
     $1,099.00
     
-    [View options](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
+    Quantity  Add to cart
     
 * [![Experience the New PlayStation 5 Pro](//savvysmartdeals.com/cdn/shop/files/playstation-pro-reveal.jpg?v=1727868252&width=645)](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
     
-    [View options](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
+    Quantity  Add to cart
     
     ### [Experience the New PlayStation 5 Pro](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
     
-    Out of stock
+    10 in stock Next day delivery
     
     $1,099.99
     
-    [View options](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
+    Quantity  Add to cart
     
 * [![Galaxy Tab S10 Ultra - Monochrome](//savvysmartdeals.com/cdn/shop/files/1.jpg?v=1727675267&width=645)](https://www.rangextd.com/products/galaxy-tab-s10-ultra-monochrome)
     
