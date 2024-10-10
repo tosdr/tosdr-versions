@@ -152,21 +152,23 @@ PAYMENT METHODS
 
 DEPOSITS
 
-1. Any cancellation of a booking and/or service by a client must be sent in writing and be acknowledged by Safari.com in writing. Clients should refer to their quotation and confirmation documentation for details regarding the payment schedule and cancellation terms.
-2. Payment is made either of the minimum 50% deposit required or the full amount. In certain circumstances the minimum deposit is equal to the full amount of the quotation.
-3. As soon as payment has cleared into the Safari.com / Afritrip Group bank account, delivery has taken place on the part of the guest and the establishment is required to confirm the reservation and a reservation confirmation reference number is issued. Delivery on the part of the establishment takes place when the guest has physically taken up the accommodation reserved.
-4. Establishments may apply cancellation policies and these are clearly displayed on every quotation. Cancellation policies will have implications for refunds and these are dealt with in **clause 5**.
-5. Value added tax at 14% is charged by VAT registered establishments on bookings by South African residents.
+1. Payment is made either of the minimum 50% deposit required or the full amount. In certain circumstances the minimum deposit is equal to the full amount of the quotation.
+2. As soon as payment has cleared into the Safari.com / Afritrip Group bank account, delivery has taken place on the part of the guest and the establishment is required to confirm the reservation and a reservation confirmation reference number is issued. Delivery on the part of the establishment takes place when the guest has physically taken up the accommodation reserved.
+3. Establishments may apply cancellation policies and these are clearly displayed on every quotation. Cancellation policies will have implications for refunds and these are dealt with in **clause 5**.
+4. Value added tax at 14% is charged by VAT registered establishments on bookings by South African residents.
 
 ‍
 
 CANCELLATION TERMS
 
-1. Please view our Cancellation Policy [HERE.](https://www.safari.com/faq)‍
-2. Please note that at certain times of the year and for certain of our suppliers, cancellation policies may be more stringent than our above policy and therefore the Company holds the right to forward such additional charges onto the client should such and instance occur. **‍**_‍_
-3. _All cancellations must be sent to Safari.com via email. If the cancellation notice is received outside of South African (SAST) business hours it will be deemed to be received in the first business hour following receipt of the notification._‍
-4. Safari.com will make every effort to avoid misquotation, however if we have made an obvious error or omission which leads to a material cost implication we reserve the right to cancel a reservation without liability or penalty, or to allow you to make a top up payment to accommodate for such error or omission.
-5. Safari.com reserves the right to levy a 5% admin charge on credit card and bank transfer refunds due to cancellations.
+1. **Our Cancellation Policy is as follows:**
+    * Flights are non-refundable.
+    * Cancellation prior to 61+ days of travel – 25% deposit is forfeited.
+    * Cancellation prior to 60 - 31 days of travel – 50% of total cost is forfeited.
+    * Cancellation less than 30 days prior to travel – 100% of total cost is forfeited.
+2. Please note that at certain times of the year and for certain of our suppliers, cancellation policies may be more stringent than our above policy and therefore the company holds the right to forward such additional charges onto the client should such an instance occur.
+3. Safari.com will make every effort to avoid misquotation, however if we have made an obvious error or omission which leads to a material cost implication we reserve the right to cancel a reservation without liability or penalty, or to allow you to make a top up payment to accommodate for such error or omission.
+4. Safari.com reserves the right to levy a 5% admin charge on credit card and bank transfer refunds due to cancellations.
 
 ‍
 
@@ -220,6 +222,18 @@ Customer Testimonials
 out of 5 based on
 
 [713 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Oct 10, 2024
+
+> Absolutely great service
+
+> Absolutely great service. Leche was so helpful and quick to respond. Great choices and service.
+
+Col
+
+,
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -332,18 +346,6 @@ Yaso Nadesakumaran
 ,
 
 US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Oct 3, 2024
-
-> WHAT MADE YOUR EXPERIENCE?ANSER;NOTHING
-
-> WHAT MADE YOUR EXPERIENCE?ANSER; NOTHING COMPANY DOING WEL?ANSER; LOTS LOTS OF MONEY
-
-arvin ongjunco I'm handsome
-
-,
 
 VIP service
 
