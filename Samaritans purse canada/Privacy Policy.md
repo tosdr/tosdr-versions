@@ -40,9 +40,9 @@
         
         Where Most Needed - 012000
         
-        [DONATE](https://secure.samaritanspurse.ca/Donation/?pc=012000)
+        [DONATE](https://secure.samaritanspurse.ca/donation?pc=012000)
         
-        [VIEW MORE DONATION OPTIONS ►](https://secure.samaritanspurse.ca/Donation/)
+        [VIEW MORE DONATION OPTIONS ►](https://secure.samaritanspurse.ca/donation)
         
     * * [Shoebox Donation](https://secure.samaritanspurse.ca/Donationclassic/brochure/)
         * * * *
