@@ -185,6 +185,12 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/lisa-marie-presley-son-ice.webp)](https://www.sickchirpse.com/lisa-marie-presley-kept-her-sons-body-on-dry-ice-at-her-home-for-two-months-after-his-death/)
+
+### [Lisa Marie Presley Kept Her Son’s Body On Dry Ice At Her Home For Two Months After His Death](https://www.sickchirpse.com/lisa-marie-presley-kept-her-sons-body-on-dry-ice-at-her-home-for-two-months-after-his-death/)
+
+[Read More »](https://www.sickchirpse.com/lisa-marie-presley-kept-her-sons-body-on-dry-ice-at-her-home-for-two-months-after-his-death/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/10/michael-jackson-virgin.webp)](https://www.sickchirpse.com/michael-jackson-was-a-virgin-until-the-age-of-35-according-to-his-ex-lisa-marie-presley/)
 
 ### [Michael Jackson Was A ‘Virgin Until The Age Of 35’ According To His Ex Lisa Marie Presley](https://www.sickchirpse.com/michael-jackson-was-a-virgin-until-the-age-of-35-according-to-his-ex-lisa-marie-presley/)
@@ -209,13 +215,13 @@ SEND
 
 [Read More »](https://www.sickchirpse.com/arsenal-launches-internal-inquiry-over-conor-mcgregor-incident-with-bukayo-saka/)
 
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/dua-lipa-diet-coke-mix.webp)](https://www.sickchirpse.com/people-are-disgusted-with-dua-lipa-after-she-revealed-what-she-mixes-her-diet-coke-with/)
-
-### [People Are Disgusted With Dua Lipa After She Revealed What She Mixes Her Diet Coke With](https://www.sickchirpse.com/people-are-disgusted-with-dua-lipa-after-she-revealed-what-she-mixes-her-diet-coke-with/)
-
-[Read More »](https://www.sickchirpse.com/people-are-disgusted-with-dua-lipa-after-she-revealed-what-she-mixes-her-diet-coke-with/)
-
 #### trending post
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/lisa-marie-presley-son-ice.webp)](https://www.sickchirpse.com/lisa-marie-presley-kept-her-sons-body-on-dry-ice-at-her-home-for-two-months-after-his-death/)
+
+### [Lisa Marie Presley Kept Her Son’s Body On Dry Ice At Her Home For Two Months After His Death](https://www.sickchirpse.com/lisa-marie-presley-kept-her-sons-body-on-dry-ice-at-her-home-for-two-months-after-his-death/)
+
+[Read More »](https://www.sickchirpse.com/lisa-marie-presley-kept-her-sons-body-on-dry-ice-at-her-home-for-two-months-after-his-death/)
 
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/10/michael-jackson-virgin.webp)](https://www.sickchirpse.com/michael-jackson-was-a-virgin-until-the-age-of-35-according-to-his-ex-lisa-marie-presley/)
 
@@ -240,12 +246,6 @@ SEND
 ### [Daniel Kaluuya’s ‘Get Out’ Character Will Be Memorialised As A Statue In London](https://www.sickchirpse.com/daniel-kaluuya-get-out-character-will-be-memorialised-as-a-statue-in-london/)
 
 [Read More »](https://www.sickchirpse.com/daniel-kaluuya-get-out-character-will-be-memorialised-as-a-statue-in-london/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/10/eddie-hearn-jake-paul.jpg)](https://www.sickchirpse.com/eddie-hearn-is-suing-jake-paul-for-100-million-in-defamation-lawsuit-court-date-set/)
-
-### [Eddie Hearn Is Suing Jake Paul For $100 Million In Defamation Lawsuit, Court Date Set](https://www.sickchirpse.com/eddie-hearn-is-suing-jake-paul-for-100-million-in-defamation-lawsuit-court-date-set/)
-
-[Read More »](https://www.sickchirpse.com/eddie-hearn-is-suing-jake-paul-for-100-million-in-defamation-lawsuit-court-date-set/)
 
 Copyright 2023 © All rights Reserved.
 
