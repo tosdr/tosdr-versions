@@ -1,6 +1,6 @@
 [Skip navigation](#content)
 
- [![Max-Planck-Gesellschaft](/mpi/mpi/_assets/a80cce02b4614e217ba8fd3d838dc67b/Images/logo_mpi.svg "Max-Planck-Gesellschaft")](https://www.mpg.de/)[![](/mpi/mpi/_assets/a80cce02b4614e217ba8fd3d838dc67b/Images/logo_mpi_kernphysik.svg)](https://www.mpi-hd.mpg.de/mpi/en/)
+ [![Max-Planck-Gesellschaft](/mpi/_assets/a80cce02b4614e217ba8fd3d838dc67b/Images/logo_mpi.svg "Max-Planck-Gesellschaft")](https://www.mpg.de/)[![](/mpi/_assets/a80cce02b4614e217ba8fd3d838dc67b/Images/logo_mpi_kernphysik.svg)](https://www.mpi-hd.mpg.de/mpi/en/)
 
 [](https://www.mpi-hd.mpg.de/mpi/en/search)
 
@@ -567,4 +567,4 @@ Als betroffene Person, deren personenbezogene Daten im Rahmen der oben genannten
     * [Equal Opportunities / Work and Family](https://www.mpi-hd.mpg.de/mpi/en/career/equal-opportunities-/-family-and-work "Equal Opportunities / Work and Family")
 * [Search](https://www.mpi-hd.mpg.de/mpi/en/search "Search")
 
-*  [![](/mpi/mpi/_assets/a80cce02b4614e217ba8fd3d838dc67b/Icons/Flags/de.gif) Deutsch](https://www.mpi-hd.mpg.de/mpi/de/datenschutzhinweis)
+*  [![](/mpi/_assets/a80cce02b4614e217ba8fd3d838dc67b/Icons/Flags/de.gif) Deutsch](https://www.mpi-hd.mpg.de/mpi/de/datenschutzhinweis)
