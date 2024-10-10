@@ -30,9 +30,7 @@ Information collected through the Website may be used for additional purposes, i
 
 **How Do We Share the Information We Collect?**
 
-We may sell or disclose information about you to our affiliates and to nonaffiliated brokers, providers or other third parties in the course of evaluating and qualifying the respective life insurance policies.
-
-Additionally, we may disclose personal information when required by subpoena, search warrant, or other legal processes; in response to activities that are unlawful or a violation of our rules for use of the Website; or to protect and defend our rights or property.
+We may sell or disclose information about you to our affiliates and to nonaffiliated brokers, providers or other third parties in the course of evaluating and qualifying for a life settlement, life insurance policy or other financial product or service.
 
 **Who Has Access To Your Information In Our Records?**
 
