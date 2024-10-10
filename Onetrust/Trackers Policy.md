@@ -182,9 +182,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Build resiliency and operationalize compliance with OneTrust: Fall product release recap, 2024](https://www.onetrust.com/resources/build-resiliency-and-operationalize-compliance-with-onetrust-fall-product-release-recap-2024-webinar/)
+* [Operationalizing first-party data in advertising](https://www.onetrust.com/resources/operationalizing-first-party-data-in-advertising-ebook/)
 * [Meet opt-out and opt-in consent requirements under US state privacy laws](https://www.onetrust.com/resources/meet-opt-out-and-opt-in-consent-requirements-under-us-state-privacy-laws-webinar/)
-* [The Ultimate Guide to Privacy Program Automation eBook](https://www.onetrust.com/resources/ultimate-guide-to-privacy-program-automation-ebook/)
-* [7 steps to CPRA compliance](https://www.onetrust.com/resources/7-steps-to-cpra-compliance-checklist/)
 
 ### Platform
 
