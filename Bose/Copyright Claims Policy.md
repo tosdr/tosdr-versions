@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-48-hour Flash Sale ends tonight: Save up to 40%. [Shop](https://www.bose.com/c/fall-sale).
+Last chance to save $50 on Ultra Open Earbuds. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html).
 
 Sound for the season: Check out our newest fall arrivals. [Shop](https://www.bose.com/c/new-arrivals)
 
@@ -74,22 +74,22 @@ Back
     * [All Aviation Headsets](https://www.bose.com/c/aviation-headsets)
     * [Aviation Headset Accessories](https://www.bose.com/c/aviation-headsets/accessories)
     
-    [![](https://assets.bosecreative.com/m/1f3fa59ff48ec7c/webimage-SF_MultiProduct_NavFlyout_PANEL_Fall_Mobile_343x180_x2.png)
+    [![](https://assets.bosecreative.com/m/38c575022ee21471/webimage-SF_UOEB_NavFlyout_PANEL_Fall_Mobile_image_343x180_x2.png)
     
-    48-hour flash sale
+    Ultra Open Earbuds
     
-    ### Save up to 40%](https://www.bose.com/c/fall-sale "SHOP")
+    ### Last chance to save $50](https://www.bose.com/ULT-HEADPHONEOPN.html "BUY NOW")
     
      
     
-    Fall Sale
+    Ultra Open Earbuds
     
-    48-HOUR FLASH SALE
-    ------------------
+    Last chance to save $50
+    -----------------------
     
-    Hurry and save up to 40%, plus first-time-ever-deals.
+    Don’t add regret to your playlist and miss this deal!
     
-    [SHOP](https://www.bose.com/c/fall-sale "SHOP")
+    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html "BUY NOW")
     
 
 * [Explore](#)
@@ -179,11 +179,11 @@ Back
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/1f3fa59ff48ec7c/webimage-SF_MultiProduct_NavFlyout_PANEL_Fall_Mobile_343x180_x2.png)
+[![](https://assets.bosecreative.com/m/38c575022ee21471/webimage-SF_UOEB_NavFlyout_PANEL_Fall_Mobile_image_343x180_x2.png)
 
-48-hour flash sale
+Ultra Open Earbuds
 
-### Save up to 40%](https://www.bose.com/c/fall-sale "SHOP")
+### Last chance to save $50](https://www.bose.com/ULT-HEADPHONEOPN.html "BUY NOW")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwd7003f58/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
