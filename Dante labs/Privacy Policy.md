@@ -1,5 +1,9 @@
         [Skip to content](#main-content)
 
+* [](https://www.facebook.com/DanteLabs/ "Facebook")
+* [](https://twitter.com/dantelabs?lang=en "X")
+* [](https://www.instagram.com/dantelabs_official/ "Instagram")
+
 * [Dante Genome Test](https://us.dantelabs.com/products/whole-genome-sequencing "Dante Genome Test")
 * [Genomic Reports](https://us.dantelabs.com/collections/dante-labs-comprehensive-panels "Genomic Reports")
 * [About us](https://us.dantelabs.com/pages/about-us "About us")
