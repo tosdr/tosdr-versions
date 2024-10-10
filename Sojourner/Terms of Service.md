@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-527749b2ff3f7ea7a3d3c16e7138c072
+c1b3a67d5f6382ab614099c46ce9e457
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![6 mm turquoise diamond beads](https://sojourner.biz/images/cache/stone/TU0007.200.jpg)](https://sojourner.biz/beads/stone-m-z/turquoise/6-mm-turquoise-diamond-beads.html "6 mm turquoise diamond beads")
+[![Veined-wing butterfly clasp](https://sojourner.biz/images/cache/SKU0204front.200.jpg)](https://sojourner.biz/clasps/sterling-only/veined-wing-butterfly-clasp.html "Veined-wing butterfly clasp")
 
-#### [6 mm turquoise diamond beads](https://sojourner.biz/beads/stone-m-z/turquoise/6-mm-turquoise-diamond-beads.html "6 mm turquoise diamond beads")
+#### [Veined-wing butterfly clasp](https://sojourner.biz/clasps/sterling-only/veined-wing-butterfly-clasp.html "Veined-wing butterfly clasp")
 
-$19.00
+$28.00
 
 ### Best Sellers
 
