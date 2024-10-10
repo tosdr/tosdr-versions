@@ -118,59 +118,58 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I have upgraded to the Gold account in order to support you guys!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Shaun Gartshore
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=6719650)  
-Camp 4 Africa (Pty) Ltd
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=31482119)  
+Dr V Naik Consult
 
-![valued client Glass and Allied Industries](https://www.invoicesonline.co.za/scripts/image.php?bid=1634&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=76403490)  
-Glass and Allied Industries
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=99443435)  
-Entidee Enterprise PTY (ltd)
-
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=85994535)  
-Kara Medical (Pty) Ltd
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=147878105)  
-Vplay Letsheng Mall
-
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=73792499)  
-AMS Ambu Medical Supplies
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=34790628)  
-Baby Toddles Infant Care
-
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=5124839)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
-
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=113096015)  
-Lemba Truck Stop
-
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=188695612)  
-McKaynine Mobility
-
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=26163373)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=93618447)  
+![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=34954316)  
 VA AND M DEBT-AID (PTY) LTD
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=164789015)  
-Website Café (PTY) LTD
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=124027421)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=88979637)  
-Mtunzini Group
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=196254828)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=a959379b1c7c35a79ae2cd517745c8591f10e83ac593039638bc7fbceb69ca04&c=44161455)  
-Printo
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=60945476)  
+VIV'S TRUCKS (Pty) Ltd. (651)
+
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=124692578)  
+Konsortium Operations ( Roamfree Meats )
+
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=202768338)  
+Qothiphango Mining
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=4004150)  
+Baby Toddles Infant Care
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=209458001)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=75554203)  
+Frequency Fanatics (Pty) Ltd
+
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=121326111)  
+McKaynine Mobility
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=127510348)  
+MSPCloud (Pty) Ltd
+
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=179014013)  
+National Elite Security Services (PTY) LTD
+
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=202338043)  
+SAUL ATHOL ACRES RENTAL
+
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=68707749)  
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
