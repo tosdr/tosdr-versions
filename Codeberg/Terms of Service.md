@@ -22,7 +22,7 @@ You've already forked org
 
 [29](https://codeberg.org/Codeberg/org/forks)
 
-[Code](https://codeberg.org/Codeberg/org) [Issues 10](https://codeberg.org/Codeberg/org/issues) [Pull requests 14](https://codeberg.org/Codeberg/org/pulls) [Activity](https://codeberg.org/Codeberg/org/activity)
+[Code](https://codeberg.org/Codeberg/org) [Issues 11](https://codeberg.org/Codeberg/org/issues) [Pull requests 14](https://codeberg.org/Codeberg/org/pulls) [Activity](https://codeberg.org/Codeberg/org/activity)
 
 **main**
 
@@ -135,6 +135,14 @@ The rules (§ 2) were inspired by the [chaos.social Terms](https://chaos.social/
 This text is free to be adapted and remixed under the [CC-BY-SA (Attribution-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 Thank you for being an awesome member of the Codeberg Community!
+
+**Make software projects available in your native language!**
+
+**Join the Codeberg Translathon on October 12 + 13!**
+
+Localized free/libre software becomes accessible to a wide range of users, who would otherwise not be able to work with it due to reduced proficiency in written English. If you speak a language other than English, consider helping out. We count on you!
+
+[Participate and translate software](https://codeberg.org/Codeberg/translathon-2024#for-translators) [Register your project](https://codeberg.org/Codeberg/translathon-2024#for-project-maintainers-and-developers) [Explore projects](https://codeberg.org/explore/repos?only_show_relevant=0&q=translathon&topic=1)
 
 ![](https://design.codeberg.org/logo-kit/icon_inverted.svg)
 
