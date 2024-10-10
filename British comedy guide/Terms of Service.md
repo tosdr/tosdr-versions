@@ -176,6 +176,14 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Henry Rowley. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/people/300x200/h/henry_rowley_c.jpg "Henry Rowley. Credit: Matt Crockett")](https://www.comedy.co.uk/live/features/henry-rowley-interview/) Live
+
+[Henry Rowley talks about heading out on tour](https://www.comedy.co.uk/live/features/henry-rowley-interview/)
+
+[![Carry On Doctor. Nurse Sandra May (Barbara Windsor). Copyright: Peter Rogers Productions](https://cdn.comedy.co.uk/images/library/comedies/300x200/c/carry_on_doctor_sandra.jpg "Carry On Doctor. Nurse Sandra May (Barbara Windsor). Copyright: Peter Rogers Productions")](https://www.comedy.co.uk/quiz/327/) Quiz
+
+[British Comedy Quiz #327](https://www.comedy.co.uk/quiz/327/)
+
 [![Jokers Wild. Ray Martine. Credit: ITV](https://cdn.comedy.co.uk/images/library/comedies/300x200/j/jokers_wild_ray_martine.jpg "Jokers Wild. Ray Martine. Credit: ITV")](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/) Features
 
 [Comedy Chronicles: A Hackney diamond - The much-misunderstood Ray Martine](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/)
@@ -183,14 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Alma's Not Normal. Alma Nuthall (Sophie Willan)](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/almas_not_normal_series2.jpg "Alma's Not Normal. Alma Nuthall (Sophie Willan)")](https://www.comedy.co.uk/tv/almas_not_normal/interview/sophie-willan-series2/) TV
 
 [Sophie Willan talks about Alma's Not Normal Series 2](https://www.comedy.co.uk/tv/almas_not_normal/interview/sophie-willan-series2/)
-
-[![Rising Damp. Rupert Rigsby (Leonard Rossiter). Copyright: Yorkshire Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/r/rising_damp.jpg "Rising Damp. Rupert Rigsby (Leonard Rossiter). Copyright: Yorkshire Television")](https://www.comedy.co.uk/quiz/10002/) Quiz
-
-[Leonard Rossiter quiz](https://www.comedy.co.uk/quiz/10002/)
-
-[![Red Dwarf. Rimmer (Chris Barrie). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200_eps/r/red_dwarf_0504.jpg "Red Dwarf. Rimmer (Chris Barrie). Credit: BBC")](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-series-5-retrospective/) TV
-
-[Red Dwarf V retrospective: Back to reality](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-series-5-retrospective/)
 
 #### Subscribe to our newsletters
 
