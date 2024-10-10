@@ -396,6 +396,8 @@ Menu
 General Terms and Conditions
 ----------------------------
 
+[![TermScout Certified Contract UserTesting](/sites/default/files/usertestingv3/styles/lazy_loading/public/2024-10/Long%20Banner_Dark.jpg.webp)](https://app.termscout.com/certify/usertesting-certified-contract)
+
 **Please read these Terms carefully.**
 
 BY: (1) CLICKING A BOX INDICATING ACCEPTANCE; (2) EXECUTING AN ORDER THAT REFERENCES THESE TERMS;  OR (3) PROCEEDING TO USE THE PRODUCTS OR SERVICES, CUSTOMER AGREES TO THE TERMS AND CONDITIONS CONTAINED HEREIN. IF CUSTOMER DOES NOT AGREE TO BE BOUND BY THESE TERMS, CUSTOMER MUST NOT USE THE PRODUCTS OR SERVICES.
