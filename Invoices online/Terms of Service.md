@@ -197,59 +197,58 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I have upgraded to the Gold account in order to support you guys!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Shaun Gartshore
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=108151347)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client PHESA TECHNOLOGY(PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2461&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=89334923)  
+PHESA TECHNOLOGY(PTY) LTD
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=214386245)  
-ARCHITEK PTY LTD
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=31963600)  
+Lion Software Develepment
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=80944411)  
-Oak Tree Immigration
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=81331631)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=200418048)  
-Electro-Heat
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=47904531)  
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=207871721)  
-Eruca (PTY)Ltd
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=57960511)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=21643510)  
-McKaynine Mobility
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=75718134)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=213196814)  
-IYD
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=90928162)  
+Calonet
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=94895193)  
-APTV Telecoms CC
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=16444579)  
+Gemini-IT Group
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=18172274)  
-Bchange Online CC
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=176433698)  
+Know Informatics
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=90679615)  
-Tagline Brands
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=153820401)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=183146832)  
-Little Nutty Professors
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=154827687)  
+MONSTER SECURITY GUARDING
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=27204050)  
-Goju-Ryu Pretoria East
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=146570075)  
+Konsortium Operations (PTY) LTD
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=184240910)  
-Kainos (Pty) Ltd
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=190883460)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=114476568)  
-NIMAWELL
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=68111094)  
+Nogana Events and Decor
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=75730545)  
-National Elite Security Services (PTY) LTD
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=9d2a8da1c611e452fd87f6d963453c78970c5d7d3dd491e4e8a90865cc2513ee&c=178439413)  
+LEONARD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
