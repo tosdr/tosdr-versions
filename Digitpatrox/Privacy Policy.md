@@ -20,16 +20,16 @@ Thursday, October 10 2024
 
 Latest
 
-* [Runway AI video gets a big upgrade — 5 prompts to try it out](https://digitpatrox.com/runway-ai-video-gets-a-big-upgrade-5-prompts-to-try-it-out/)
-* [CISA says critical Fortinet RCE flaw now exploited in attacks](https://digitpatrox.com/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/)
-* [The 53 best deals under $25 from Amazon’s October Prime Day](https://digitpatrox.com/the-53-best-deals-under-25-from-amazons-october-prime-day/)
-* [Roblox The Haunt Event 2024: Start Date, How to Play, All Participating Games and More](https://digitpatrox.com/roblox-the-haunt-event-2024-start-date-how-to-play-all-participating-games-and-more/)
-* [The Best RMM Tools For MSPs of 2024](https://digitpatrox.com/the-best-rmm-tools-for-msps-of-2024/)
-* [How to use your iPhone to get help by satellite – Computerworld](https://digitpatrox.com/how-to-use-your-iphone-to-get-help-by-satellite-computerworld/)
-* [My Favorite Smart Scale Is 30% Off for October Prime Day](https://digitpatrox.com/my-favorite-smart-scale-is-30-off-for-october-prime-day/)
-* [The Best RMM Solutions of 2024](https://digitpatrox.com/the-best-rmm-solutions-of-2024/)
-* [The iPhone 16 Pro Gets a New Ultra-Premium Leather Case From Nomad](https://digitpatrox.com/the-iphone-16-pro-gets-a-new-ultra-premium-leather-case-from-nomad/)
-* [20% of Generative AI ‘Jailbreak’ Attacks are Successful](https://digitpatrox.com/20-of-generative-ai-jailbreak-attacks-are-successful/)
+* [All the news and updates as they happen](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-3/)
+* [Gain Python Skills That Top Companies Value for $40](https://digitpatrox.com/gain-python-skills-that-top-companies-value-for-40/)
+* [Bissell’s viral Little Green Carpet Vacuum is just $99 in this post Prime Day deal](https://digitpatrox.com/bissells-viral-little-green-carpet-vacuum-is-just-99-in-this-post-prime-day-deal/)
+* [Crypto-stealing malware campaign infects 28,000 people](https://digitpatrox.com/crypto-stealing-malware-campaign-infects-28000-people/)
+* [Tesla robotaxi event: how to watch and what to expect](https://digitpatrox.com/tesla-robotaxi-event-how-to-watch-and-what-to-expect/)
+* [All Jujutsu Kaisen Arcs in Order](https://digitpatrox.com/all-jujutsu-kaisen-arcs-in-order/)
+* [The Best Network Monitoring Solutions of 2024](https://digitpatrox.com/the-best-network-monitoring-solutions-of-2024/)
+* [How to change the DNS address in Windows 10 and 11](https://digitpatrox.com/how-to-change-the-dns-address-in-windows-10-and-11/)
+* [Meta expands AI assistant to more countries and languages amid intensifying AI battle – Computerworld](https://digitpatrox.com/meta-expands-ai-assistant-to-more-countries-and-languages-amid-intensifying-ai-battle-computerworld/)
+* [You Can Get Microsoft Visio 2021 Pro on Sale for $18 Right Now](https://digitpatrox.com/you-can-get-microsoft-visio-2021-pro-on-sale-for-18-right-now/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/GwMkxxU9S4tcRQhnk7yrHJ-1200-80.gif)](https://digitpatrox.com/runway-ai-video-gets-a-big-upgrade-5-prompts-to-try-it-out/)
+* [![](https://cdn.mos.cms.futurecdn.net/TwY5EjRozwmDnbTdihUsjb-1200-80.jpg)](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-3/)
     
-    [Runway AI video gets a big upgrade — 5 prompts to try it out](https://digitpatrox.com/runway-ai-video-gets-a-big-upgrade-5-prompts-to-try-it-out/)
-    
-    1 min ago
-    
-* [![](https://www.bleepstatic.com/content/hl-images/2022/10/13/Fortinet.jpeg)](https://digitpatrox.com/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/)
-    
-    [CISA says critical Fortinet RCE flaw now exploited in attacks](https://digitpatrox.com/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/)
-    
-    29 mins ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/ivo75WWeenGf0Gxms8eu_AMn6BA=/0x0:1159x869/1200x628/filters:focal(580x435:581x436)/cdn.vox-cdn.com/uploads/chorus_asset/file/7799687/apple_watch_elago_w3_stand_1.jpg)](https://digitpatrox.com/the-53-best-deals-under-25-from-amazons-october-prime-day/)
-    
-    [The 53 best deals under $25 from Amazon’s October Prime Day](https://digitpatrox.com/the-53-best-deals-under-25-from-amazons-october-prime-day/)
+    [All the news and updates as they happen](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-3/)
     
     46 mins ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/Roblox-The-Haunt-Event-2024-cover.jpg)](https://digitpatrox.com/roblox-the-haunt-event-2024-start-date-how-to-play-all-participating-games-and-more/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241010-the-python-all-in-one-course-bundle.jpg)](https://digitpatrox.com/gain-python-skills-that-top-companies-value-for-40/)
     
-    [Roblox The Haunt Event 2024: Start Date, How to Play, All Participating Games and More](https://digitpatrox.com/roblox-the-haunt-event-2024-start-date-how-to-play-all-participating-games-and-more/)
+    [Gain Python Skills That Top Companies Value for $40](https://digitpatrox.com/gain-python-skills-that-top-companies-value-for-40/)
+    
+    50 mins ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/QwCNz5pnWuj7NPJNwpkmPJ-1200-80.jpg)](https://digitpatrox.com/bissells-viral-little-green-carpet-vacuum-is-just-99-in-this-post-prime-day-deal/)
+    
+    [Bissell’s viral Little Green Carpet Vacuum is just $99 in this post Prime Day deal](https://digitpatrox.com/bissells-viral-little-green-carpet-vacuum-is-just-99-in-this-post-prime-day-deal/)
     
     1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/09/Best-RMM-tools-for-MSPs.jpg)](https://digitpatrox.com/the-best-rmm-tools-for-msps-of-2024/)
+* [![](https://www.bleepstatic.com/content/hl-images/2023/12/01/Hackers_crypto.jpg)](https://digitpatrox.com/crypto-stealing-malware-campaign-infects-28000-people/)
     
-    [The Best RMM Tools For MSPs of 2024](https://digitpatrox.com/the-best-rmm-tools-for-msps-of-2024/)
+    [Crypto-stealing malware campaign infects 28,000 people](https://digitpatrox.com/crypto-stealing-malware-campaign-infects-28000-people/)
+    
+    2 hours ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/eQwe11unSDwRU06R4h2mR4S_M3M=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25663396/STKE001_STK086_Tesla_Robotaxi_C.jpg)](https://digitpatrox.com/tesla-robotaxi-event-how-to-watch-and-what-to-expect/)
+    
+    [Tesla robotaxi event: how to watch and what to expect](https://digitpatrox.com/tesla-robotaxi-event-how-to-watch-and-what-to-expect/)
     
     2 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [1 min ago
-    
-    ### Runway AI video gets a big upgrade — 5 prompts to try it out](https://digitpatrox.com/runway-ai-video-gets-a-big-upgrade-5-prompts-to-try-it-out/)
-* [29 mins ago
-    
-    ### CISA says critical Fortinet RCE flaw now exploited in attacks](https://digitpatrox.com/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/)
 * [46 mins ago
     
-    ### The 53 best deals under $25 from Amazon’s October Prime Day](https://digitpatrox.com/the-53-best-deals-under-25-from-amazons-october-prime-day/)
+    ### All the news and updates as they happen](https://digitpatrox.com/all-the-news-and-updates-as-they-happen-3/)
+* [50 mins ago
+    
+    ### Gain Python Skills That Top Companies Value for $40](https://digitpatrox.com/gain-python-skills-that-top-companies-value-for-40/)
+* [1 hour ago
+    
+    ### Bissell’s viral Little Green Carpet Vacuum is just $99 in this post Prime Day deal](https://digitpatrox.com/bissells-viral-little-green-carpet-vacuum-is-just-99-in-this-post-prime-day-deal/)
 
 Most Popular Topics
 
-* [August 16, 2024
+* [4 days ago
     
-    ### 12 Single-Purpose Mac Apps I Couldn’t Live Without](https://digitpatrox.com/12-single-purpose-mac-apps-i-couldnt-live-without/)
-* [2 weeks ago
+    ### Trailers of the week: Nosferatu, The Franchise, and Squid Game 2](https://digitpatrox.com/trailers-of-the-week-nosferatu-the-franchise-and-squid-game-2/)
+* [4 weeks ago
     
-    ### Sydney vs Brisbane live stream: Watch 2024 AFL Grand Final](https://digitpatrox.com/sydney-vs-brisbane-live-stream-watch-2024-afl-grand-final/)
-* [August 15, 2024
+    ### You’re Training Your Social Media Algorithm Every Day](https://digitpatrox.com/youre-training-your-social-media-algorithm-every-day/)
+* [3 weeks ago
     
-    ### Russian who sold 300,000 stolen credentials gets 40 months in prison](https://digitpatrox.com/russian-who-sold-300000-stolen-credentials-gets-40-months-in-prison/)
+    ### Modernization: Nothing to fear except failing to future-proof](https://digitpatrox.com/modernization-nothing-to-fear-except-failing-to-future-proof/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### My Favorite Smart Scale Is 30% Off for October Prime Day](https://digitpatrox.com/my-favorite-smart-scale-is-30-off-for-october-prime-day/)
+    ### The Best Network Monitoring Solutions of 2024](https://digitpatrox.com/the-best-network-monitoring-solutions-of-2024/)
 * [3 hours ago
     
-    ### The Best RMM Solutions of 2024](https://digitpatrox.com/the-best-rmm-solutions-of-2024/)
+    ### How to change the DNS address in Windows 10 and 11](https://digitpatrox.com/how-to-change-the-dns-address-in-windows-10-and-11/)
 * [4 hours ago
     
-    ### The iPhone 16 Pro Gets a New Ultra-Premium Leather Case From Nomad](https://digitpatrox.com/the-iphone-16-pro-gets-a-new-ultra-premium-leather-case-from-nomad/)
+    ### Meta expands AI assistant to more countries and languages amid intensifying AI battle – Computerworld](https://digitpatrox.com/meta-expands-ai-assistant-to-more-countries-and-languages-amid-intensifying-ai-battle-computerworld/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
-* [August 13, 2024
+* [August 11, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 28, 2024
-    
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
