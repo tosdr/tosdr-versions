@@ -1,4 +1,4 @@
-[PRIME SALE: Save $30 on KardiaMobile 6L | Shop Now](https://store.kardia.com/products/kardiamobile6l)
+[Find the Kardia personal EKG that's right for you | Compare Devices](https://store.kardia.com/pages/device-comparison)
 
 [](https://kardia.com/)
 
