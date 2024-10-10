@@ -1,3 +1,7 @@
+**New:** Flexible Plans for Render PostgreSQL
+
+[Learn more](https://docs.render.com/postgresql-refresh)
+
 [](https://render.com/)
 
 [Product](https://render.com/privacy#)
