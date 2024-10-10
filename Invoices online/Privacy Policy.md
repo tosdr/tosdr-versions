@@ -118,61 +118,60 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
+> Support even on Sundays!
 > ------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> Thanks Adriaan...
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> You guys even work on Sundays?
 > 
-> I just wish I started using Invoices Online ages ago.
+> I’m impressed!!
 
-Terri Winfield
+Johan Botha - Brand Xplosion
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=55607717)  
-Lion Software Develepment
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=87596014)  
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=179971095)  
-Qothiphango Mining
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=149106953)  
+Waterfinatics Swim School
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=201058751)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=187165752)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=190408464)  
-Xpress Designs
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=14576497)  
+Mountain Lion Properties
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=213161071)  
-Nilbet T/A Waterman
+![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=195369115)  
+Sportspro Group (Pty) Ltd
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=46555552)  
-Kaylas Creations
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=126143014)  
+Forgotten Goods (Pty) Ltd
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=176046941)  
-United Paintball Federation
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=62067374)  
+Secunda Signs T/A Local Print and Signs
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=205520548)  
-Echo Recording Studio cc
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=14327769)  
+M's Frozen Delights
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=36435474)  
-AFS Electrical
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=3885565)  
+McKaynine Mobility
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=173468150)  
-Meyer Towing & Recovery
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=147322736)  
+All Trucking Solutions
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=24313669)  
-VIR Electrical (PTY) LTD
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=171203037)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=40386636)  
-Goju-Ryu Pretoria East
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=118379549)  
+Karino Merinos ( PTY ) LTD
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=91025614)  
-CHARLIEX CONSTRUCTIONS
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=103668509)  
+Vplay Grafix
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=136639274)  
-Imvubu General Trading
+![valued client Turnkey Innovations](https://www.invoicesonline.co.za/scripts/image.php?bid=8603&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=69383103)  
+Turnkey Innovations
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=119030615)  
-MONSTER SECURITY SERVICES
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=db2267c5b16cbafd9c318c648b1bc81541458b9f38ed4b5b7c589dc545647159&c=56311604)  
+Alliance Energy
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
