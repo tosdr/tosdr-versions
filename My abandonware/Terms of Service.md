@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Burning Force](https://www.myabandonware.com/game/burning-force-8ev)
+* [Bonze Adventure](https://www.myabandonware.com/game/bonze-adventure-krg)
+* [Bomberman: Panic Bomber](https://www.myabandonware.com/game/bomberman-panic-bomber-en8)
 * [Bubble Bobble](https://www.myabandonware.com/game/bubble-bobble-m4)
 * [Cadash](https://www.myabandonware.com/game/cadash-8ew)
-* [Cabal](https://www.myabandonware.com/game/cabal-ez)
-* [Fighting Vipers 2](https://www.myabandonware.com/game/fighting-vipers-2-sqt)
-* [Fighting Mania](https://www.myabandonware.com/game/fighting-mania-sqs)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
