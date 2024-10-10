@@ -4,7 +4,7 @@
 Cookies Policy
 ==============
 
-last update: 05.01.2024
+last update: 10.10.2024
 
 ### Table of content
 
@@ -18,7 +18,7 @@ last update: 05.01.2024
     * [Third-party cookies and other technologies](#third-party-cookies-and-other-technologies)
 * [How to control, disable, and delete cookies?](#how-to-control-disable-and-delete-cookies)
 
-At **text|**, we believe in being transparent about how and when we use cookies for the purposes of giving you the best possible personalized browsing experience of our website.
+At **Text**, we believe in being transparent about how and when we use cookies for the purposes of giving you the best possible personalized browsing experience of our website.
 
 What that means for you?
 
