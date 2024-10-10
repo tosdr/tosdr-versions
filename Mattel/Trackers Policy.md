@@ -40,7 +40,7 @@ United States
 * Sign in
     
     **Hello,**  
-    Sign in for a more personalized experience
+    Sign in or create an account for a more personalized experience
     
     [Sign in](https://platform.mattel/shopify/login?shop_url=https://shop.mattel.com&return_to=https://shop.mattel.com/account&client_id=cKWsQKwG630yTOXOp6uwprYFulwny766&action=login&ui_locales=en-us)
     
@@ -53,6 +53,8 @@ Navigation
 
 [](https://shop.mattel.com/)
 
+* Fisher Price Gift Shop
+    
 * Shop
     
     [Shop All](https://shop.mattel.com/collections/shop-all)
@@ -187,7 +189,7 @@ Navigation
     * Sign in
         
         **Hello,**  
-        Sign in for a more personalized experience
+        Sign in or create an account for a more personalized experience
         
         [Sign in](https://platform.mattel/shopify/login?shop_url=https://shop.mattel.com&return_to=https://shop.mattel.com/account&client_id=cKWsQKwG630yTOXOp6uwprYFulwny766&action=login&ui_locales=en-us)
         
@@ -335,10 +337,10 @@ Shop & Learn
 
 Customer Service
 
-* [Customer Service](https://service.mattel.com/us/home.aspx)
 * [Contact Us](https://shop.mattel.com/pages/contact-us)
 * [Shipping Rates & Policy](https://shop.mattel.com/pages/shipping-rates-policy)
 * [Return Policy](https://shop.mattel.com/pages/return-policy)
+* [FAQs](https://shop.mattel.com/pages/faq)
 
 Helpful Links
 
