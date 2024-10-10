@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4a57fae77e947a36bcbe699e6502df51
+21c4b3ba5091bbbc4b8529249ed9358f
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![14 mm by 8 mm vintage Czech glass oval beads](https://sojourner.biz/images/cache/glass/GL0068.200.jpg)](https://sojourner.biz/beads/glass/14-mm-by-8-mm-vintage-czech-glass-oval-beads.html "14 mm by 8 mm vintage Czech glass oval beads")
+[![Vintage blue square two-hole beads](https://sojourner.biz/images/cache/glass/VB0008.200.jpg)](https://sojourner.biz/beads/glass/vintage-blue-square-two-hole-beads.html "Vintage blue square two-hole beads")
 
-#### [14 mm by 8 mm vintage Czech glass oval beads](https://sojourner.biz/beads/glass/14-mm-by-8-mm-vintage-czech-glass-oval-beads.html "14 mm by 8 mm vintage Czech glass oval beads")
+#### [Vintage blue square two-hole beads](https://sojourner.biz/beads/glass/vintage-blue-square-two-hole-beads.html "Vintage blue square two-hole beads")
 
-$6.00
+$5.00
 
 ### Best Sellers
 
