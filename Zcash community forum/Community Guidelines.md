@@ -42,7 +42,8 @@ Examples of unacceptable behavior include:
 * Doxxing: Publishing another person’s private information, such as physical or electronic addresses, without explicit permission.
 * Soliciting web domain sales (even if related to Zcash).
 * Posting links to phishing sites
-* Posting spam or advertisementsCreating multiple accounts as sockpuppets
+* Posting spam or advertisements
+* Creating multiple accounts as sockpuppets
 * Posting solicitations for or about services considered illegal in the United States.
 * Posting links to internet gambling operations. (It is a crime for internet gambling operations to accept bets from United States persons, and the Justice Department takes the position that people who post advertisements or promotions for online gambling may be aiding and abetting those activities.)
 * Posting political content that would be viewed as endorsing or campaigning for any political candidate. The Zcash Foundation is a 501(c)3 non-profit organization and as such are “absolutely prohibited from directly or indirectly participating in, or intervening in, any political campaign on behalf of (or in opposition to) any candidate for elective public office”
@@ -51,7 +52,7 @@ Examples of unacceptable behavior include:
 [](#p-6-etiquettehttpsforumzcashcommunitycomfaqetiquette-3)[Etiquette](https://forum.zcashcommunity.com/faq#etiquette)
 ======================================================================================================================
 
-We strive to keep this forum organized be respectful of users’ discussions and time. Please do not:
+We strive to keep this forum organized we want everyone to be respectful of others discussions and time. Please do not:
 
 * Start threads that have no or minimal content
 * Bump your own threads without something new to add
