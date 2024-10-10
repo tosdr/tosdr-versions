@@ -401,6 +401,7 @@ DUDE PERFECT
 ------------
 
 * [Your Account](https://dudeperfect.store/account)
+* [Military - First Responder - Educator Discounts](https://dudeperfect.store/pages/military-first-responder-educator-discount)
 * [Do not sell or share my personal information](https://dudeperfect.store/pages/ccpa-opt-out)
 
 SUPPORT
