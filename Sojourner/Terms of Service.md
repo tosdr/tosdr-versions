@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-a0c79b678aef9a7285e1e20f84aa7aa9
+527749b2ff3f7ea7a3d3c16e7138c072
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Square Swarovski sapphire clasp](https://sojourner.biz/images/cache/SKU0540front.200.jpg)](https://sojourner.biz/clasps/swarovski/square-swarovski-sapphire-clasp.html "Square Swarovski sapphire clasp")
+[![6 mm turquoise diamond beads](https://sojourner.biz/images/cache/stone/TU0007.200.jpg)](https://sojourner.biz/beads/stone-m-z/turquoise/6-mm-turquoise-diamond-beads.html "6 mm turquoise diamond beads")
 
-#### [Square Swarovski sapphire clasp](https://sojourner.biz/clasps/swarovski/square-swarovski-sapphire-clasp.html "Square Swarovski sapphire clasp")
+#### [6 mm turquoise diamond beads](https://sojourner.biz/beads/stone-m-z/turquoise/6-mm-turquoise-diamond-beads.html "6 mm turquoise diamond beads")
 
-$21.00
+$19.00
 
 ### Best Sellers
 
