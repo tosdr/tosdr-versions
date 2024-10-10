@@ -18,8 +18,6 @@
 * [my bookmarks](https://www.darebee.com/bookmarks.html)
 * [support](https://www.darebee.com/support.html)
 
-[![](/images/promo/alerts/help.gif)](https://www.darebee.com/support.html)
-
 Privacy Policy
 ==============
 
@@ -48,13 +46,15 @@ You can do the following at any time by contacting us via the email address or p
 
 **Cookies:** This website uses cookies to track your fitness progress (for saving Challenge and Pandora fitness quest progress). You can disable cookies any time but keep in mind that then the "save" button on some pages will not work.
 
+[![](/images/promo/alerts/help.gif)](https://www.darebee.com/support.html)
+
 [![How Does DAREBEE Work](/images/promo/verylow.gif "How Does DAREBEE Work")](https://www.darebee.com/support.html "How Does DAREBEE Work")
 
 * * *
 
 Funding Level
 
-19%
+20%
 
 [What Does This Mean?](https://www.darebee.com/funding.html)
 
