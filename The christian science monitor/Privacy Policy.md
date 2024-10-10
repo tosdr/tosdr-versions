@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Forgiveness
+
+### Historic grievances, new friends](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1010/Historic-grievances-new-friends "Historic grievances, new friends")
+
 [Joy
 
 ### With heirloom seed swaps, gardeners grow community – and biodiversity](https://www.csmonitor.com/Environment/2024/1010/heirloom-seed-swaps-gardening-biodiversity "With heirloom seed swaps, gardeners grow community – and biodiversity")
@@ -99,10 +103,6 @@ Recent Stories
 [Equality
 
 ### The Philippines has held out on legalizing divorce. Is it set to call it quits?](https://www.csmonitor.com/World/Asia-Pacific/2024/1009/The-Philippines-has-held-out-on-legalizing-divorce.-Is-it-set-to-call-it-quits "The Philippines has held out on legalizing divorce. Is it set to call it quits?")
-
-[Hope
-
-### Roots of Mexico’s confidence against crime](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1009/Roots-of-Mexico-s-confidence-against-crime "Roots of Mexico’s confidence against crime")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Will the West really back Ukraine ‘for as long as it takes’?](https://www.csmonitor.com/World/Europe/2024/1010/Ukraine-Zelenskyy-allies-weapons "Will the West really back Ukraine ‘for as long as it takes’?")
+
 [### The Philippines has held out on legalizing divorce. Is it set to call it quits?](https://www.csmonitor.com/World/Asia-Pacific/2024/1009/The-Philippines-has-held-out-on-legalizing-divorce.-Is-it-set-to-call-it-quits "The Philippines has held out on legalizing divorce. Is it set to call it quits?")
 
 [### Reframing a dictatorship: Argentine human rights museum under fire](https://www.csmonitor.com/World/Americas/2024/1009/Argentina-Milei-dictatorship-populist-human-rights "Reframing a dictatorship: Argentine human rights museum under fire")
-
-[### Afghan man arrested by FBI for allegedly planning to attack crowds on Election Day](https://www.csmonitor.com/USA/2024/1009/Election-Day-Terrorism-Afghan-Man-Arrested-FBI "Afghan man arrested by FBI for allegedly planning to attack crowds on Election Day")
 
 * * *
 
