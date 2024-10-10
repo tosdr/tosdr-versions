@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Natascha: The Girl In The Cellar](/wp-content/thumbnails/3113-100x70.jpg?x53432)
+* [![Liquid Bomb Plot](/wp-content/thumbnails/7057-100x70.jpg?x53432)
     
-    Natascha: The Girl In The Cellar
+    Liquid Bomb Plot
     
-    This extraordinary interview reveals the ordeal of Nat­­ascha Kampusch, imprisoned in a cellar for eight years by Wolfgang Priklopil.Although her story has since been pushed slightly down the leag](https://documentaryheaven.com/natascha-the-girl-in-the-cellar/ "Natascha: The Girl In The Cellar")
-* [![DEFCON: The Documentary](/wp-content/thumbnails/11572-100x70.jpg?x53432)
+    Liquid Bomb Plot is the incredible true story of the surveillance operation that stopped a fatal disaster and saved thousands of lives.It's August 2006. A UK terrorist cell plans to launch suicide b](https://documentaryheaven.com/liquid-bomb-plot/ "Liquid Bomb Plot")
+* [![Where Am I Sleeping Tonight?](/wp-content/thumbnails/9972-100x70.jpg?x53432)
     
-    DEFCON: The Documentary
+    Where Am I Sleeping Tonight?
     
-    The first DEFCON took place in June 1993 and since then it has been well established as one of the world's largest annual hacker conventions. It takes place annually in Las Vegas, Nevada, seeing many](https://documentaryheaven.com/defcon/ "DEFCON: The Documentary")
-* [![Fusioneer](/wp-content/thumbnails/6122-100x70.jpg?x53432)
+    This is Martin Read's first film, becoming a filmmaker hasn't been easy for him because when he was 16 his mother kicked him out of the house and he became homeless. Having spent some time i](https://documentaryheaven.com/where-am-i-sleeping-tonight/ "Where Am I Sleeping Tonight?")
+* [![Tutankhamun: The Truth Uncovered](/wp-content/thumbnails/12057-100x70.jpg?x53432)
     
-    Fusioneer
+    Tutankhamun: The Truth Uncovered
     
-    For three years Dr Jonathan Howard has dedicated himself to finding a solution to our energy crisis. In the spare room of his South London flat he's constructed a fusion reactor from bits of recycled](https://documentaryheaven.com/fusioneer/ "Fusioneer")
-* [![In Memoriam Alexander Litvinenko](/wp-content/thumbnails/2292-100x70.jpg?x53432)
+    In 1922 Howard Carter and George Herbert discovered the tomb of Tutankhamun, it was found nearly entirely intact and instantly received worldwide press coverage sparking a new public interest in ancie](https://documentaryheaven.com/tutankhamun-truth-uncovered/ "Tutankhamun: The Truth Uncovered")
+* [![Yung Lean: In My Head](/wp-content/thumbnails/16504-100x70.png?x53432)
     
-    In Memoriam Alexander Litvinenko
+    Yung Lean: In My Head
     
-    It started as a possible case of food poisoning but within weeks turned into a grim spectacle of enormous political proportions: Aleksander Litvinenko, former member of the Russian secret service, die](https://documentaryheaven.com/in-memoriam-alexander-litvinenko/ "In Memoriam Alexander Litvinenko")
-* [![Do You Know What Time It Is?](/wp-content/thumbnails/295-100x70.png?x53432)
+    Jonatan Håstad aka Yung Lean is a Swedish rapper, singer, songwriter, and record producer. Born in Minsk and raised in Stockholm, Yung Lean spent his earlier years hanging around the Sweedish capital](https://documentaryheaven.com/yung-lean-in-my-head/ "Yung Lean: In My Head")
+* [![I’m A Child Anorexic](/wp-content/thumbnails/6768-100x70.jpg?x53432)
     
-    Do You Know What Time It Is?
+    I’m A Child Anorexic
     
-    Particle physicist Professor Brian Cox asks, 'What time is it?' It's a simple question and it sounds like it has a simple answer. But do we really know what it is that we're asking?Brian visits th](https://documentaryheaven.com/do-you-know-what-time-it-is/ "Do You Know What Time It Is?")
+    Filmed over four months, I’m a Child Anorexic documents the highs and pitiful lows of their 12-week programme, featuring their own video diaries and conversations with each other.It is a raw and s](https://documentaryheaven.com/im-a-child-anorexic/ "I’m A Child Anorexic")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
