@@ -1,7 +1,3 @@
-[](https://controld.com/)
-
-Log inGet Started
-
 Privacy Policy
 ==============
 
