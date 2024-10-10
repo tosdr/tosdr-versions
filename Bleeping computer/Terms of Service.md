@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/)
-    * [![Discord blocked in Russia and Turkey for spreading illegal content](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Discord blocked in Russia and Turkey for spreading illegal content](https://www.bleepingcomputer.com/news/government/discord-blocked-in-russia-and-turkey-for-spreading-illegal-content/)
-    * [![Ivanti warns of three more CSA zero-days exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Ivanti warns of three more CSA zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-three-more-csa-zero-days-exploited-in-attacks/)
-    * [![European govt air-gapped systems breached using custom malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        European govt air-gapped systems breached using custom malware](https://www.bleepingcomputer.com/news/security/european-govt-air-gapped-systems-breached-using-custom-malware/)
-    
-    * [![Charge your phone, laptop, and tablet with this pocket-sized hub deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Charge your phone, laptop, and tablet with this pocket-sized hub deal](https://www.bleepingcomputer.com/offer/deals/charge-your-phone-laptop-and-tablet-with-this-pocket-sized-hub-deal/)
-    * [![Internet Archive hacked, data breach impacts 31 million users](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Internet Archive hacked, data breach impacts 31 million users](https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/)
     * [![CISA says critical Fortinet RCE flaw now exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         CISA says critical Fortinet RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/)
-    * [![Crypto-stealing malware campaign infects 28,000 people](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft fixes Word bug that deleted documents when saving](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Crypto-stealing malware campaign infects 28,000 people](https://www.bleepingcomputer.com/news/cryptocurrency/crypto-stealing-malware-campaign-infects-28-000-people/)
+        Microsoft fixes Word bug that deleted documents when saving](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-word-bug-that-deleted-documents-when-saving/)
+    * [![Internet Archive hacked, data breach impacts 31 million users](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Internet Archive hacked, data breach impacts 31 million users](https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/)
+    * [![Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/)
+    
+    * [![Marriott settles with FTC, to pay $52 million over data breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Marriott settles with FTC, to pay $52 million over data breaches](https://www.bleepingcomputer.com/news/legal/marriott-settles-with-ftc-to-pay-52-million-over-data-breaches/)
+    * [![US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](https://www.bleepingcomputer.com/news/security/us-uk-warn-of-russian-apt29-hackers-targeting-zimbra-teamcity-servers/)
+    * [![The affordable course deal helps you study for CompTIA exams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        The affordable course deal helps you study for CompTIA exams](https://www.bleepingcomputer.com/offer/deals/the-affordable-course-deal-helps-you-study-for-comptia-exams/)
+    * [![Fidelity Investments says data breach affects over 77,000 people](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Fidelity Investments says data breach affects over 77,000 people](https://www.bleepingcomputer.com/news/security/fidelity-investments-says-data-breach-affects-over-77-000-people/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,9 +352,9 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Internet Archive](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Airgapped](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Internet Archive hacked, data breach impacts 31 million users](https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/)
+    European govt air-gapped systems breached using custom malware](https://www.bleepingcomputer.com/news/security/european-govt-air-gapped-systems-breached-using-custom-malware/)
 * [![Mamba Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New Mamba 2FA bypass service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-mamba-2fa-bypass-service-targets-microsoft-365-accounts/)
