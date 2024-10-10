@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Scrabble Junior](https://www.myabandonware.com/game/scrabble-junior-sky)
-* [Scrabble Journey](https://www.myabandonware.com/game/scrabble-journey-t0o)
-* [The Spiderwick Chronicles](https://www.myabandonware.com/game/the-spiderwick-chronicles-szm)
-* [Cycle Warriors](https://www.myabandonware.com/game/cycle-warriors-sr1)
-* [Destruction Derby](https://www.myabandonware.com/game/destruction-derby-sr0)
+* [WRC FIA World Rally Championship](https://www.myabandonware.com/game/wrc-fia-world-rally-championship-t59)
+* [Bomb Jack](https://www.myabandonware.com/game/bomb-jack-5h4)
+* [Cruis'n Exotica](https://www.myabandonware.com/game/cruis-n-exotica-srb)
+* [Caveman](https://www.myabandonware.com/game/caveman-sra)
+* [Dancing Stage: featuring Dreams Come True](https://www.myabandonware.com/game/dancing-stage-featuring-dreams-come-true-sr9)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
