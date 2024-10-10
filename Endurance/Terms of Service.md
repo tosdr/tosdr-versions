@@ -45,6 +45,8 @@ Online Terms
 
 Vehicle Service Contract (VSC) coverage, deductibles, and claims payment(s) may vary depending on vehicle age, mileage, pre-existing conditions, and plan purchased. VIN and exact mileage required for contract activation to start 30-day waiting period. Pre-authorization is required. OEM parts and/or parts of like kind and quality may be used. Availability varies by state, coverage not available in Massachusetts. In California Endurance sells Mechanical Breakdown Insurance (MBI) underwritten by Security National Insurance Company and administered through Endurance Warranty Insurance Services, CA License #6009544. MBI is not a manufacturer’s warranty; it provides repair coverage after your manufacturer’s warranty expires. Terms and conditions may apply. You also agree to arbitrate any disputes.
 
+\*Choose your own certified mechanic: Most certified mechanics work with Endurance, however some may choose not to.
+
 Endurance Warranty Services, LLC (EWS or Endurance) is an independent nationwide company marketing on behalf of leading third-party administrators and is not affiliated with any auto dealer or manufacturer. EWS is located at 400 Skokie Blvd, Northbrook, IL 60062. See contract for complete coverage details.
 
 Florida Residents: Administrator is Wesco Insurance Company, 800 Superior Avenue East, 21st Floor, Cleveland, OH 44114 Florida License 01913.
@@ -120,7 +122,7 @@ Get Help
 * [Accessibility](https://www.endurancewarranty.com/terms-and-conditions/#accessibility)
 * [Contact Us](https://www.endurancewarranty.com/contact/)
 
-Copyright 2024 Endurance Warranty Services, LLC. All Rights Reserved. Disclosure: A Vehicle Service Contract (VSC) is often referred to as an “auto warranty” or an “extended car warranty,” but it is not a warranty. A VSC does, however, provide repair coverage for your vehicle after the manufacturer’s car warranty expires. A VSC is a contract between you and a VSC provider or administrator that states what is a covered repair and what is not. Not all vehicles qualify for coverage. In California Endurance sells Mechanical Breakdown Insurance (MBI) underwritten by Security National Insurance Company and administered through Endurance Warranty Insurance Services, CA License #6009544. MBI is not a manufacturer's warranty; it provides repair coverage after your manufacturer's warranty expires.
+Copyright 2024 Endurance Warranty Services, LLC. All Rights Reserved. Disclosure: A Vehicle Service Contract (VSC) is often referred to as an “auto warranty” or an “extended car warranty,” but it is not a warranty. A VSC does, however, provide repair coverage for your vehicle after the manufacturer’s car warranty expires. A VSC is a contract between you and a VSC provider or administrator that states what is a covered repair and what is not. Not all vehicles qualify for coverage, and not all repairs may be covered by the VSC you purchase. See contract for details. Not available in MA. In California Endurance sells Mechanical Breakdown Insurance (MBI) underwritten by Security National Insurance Company and administered through Endurance Warranty Insurance Services, CA License #6009544. MBI is not a manufacturer's warranty; it provides repair coverage after your manufacturer's warranty expires.
 
 * [](https://www.facebook.com/EnduranceWarranty)
 * [](https://www.linkedin.com/company/endurance-vehicle-protection/)
@@ -288,6 +290,23 @@ Send Message
 
 Δ
 
+Get this deal! Call now.
+------------------------
+
+Speak with a vehicle protection plan specialist and get **$300 off** any new contract instantly.
+
+Call **866-678-4172**
+
+**or scan the code below**
+
+![](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/QR8666784172.png)
+
+[Call 866-678-4172](tel:866-678-4172)
+
+No thanks, I'll continue unprotected
+
+![](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/wired_phone.webp)
+
 [![logo](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/logo-md.svg)](#)
 
 Request your FREE quote now
@@ -330,6 +349,14 @@ Get a FREE Quote
 [For faster service, call us now at (877) 375-5994](tel:8773755994)
 
 By clicking the button, you consent to Endurance using automated technology to call, email, and text you using the contact info above, including your wireless number, if provided, regarding auto protection or, in California, mechanical breakdown insurance. You also agree to the Endurance [Privacy Policy](https://www.endurancewarranty.com/privacy/) and [Terms and Conditions](https://www.endurancewarranty.com/terms-and-conditions/). Consent is not a condition of purchase, and you can withdraw consent at any time. Message and data rates may apply.
+
+![Endurance Warranty](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/logo.svg)
+
+To speak to a vehicle protection plan specialist and **save $300**
+
+**Scan the code below**
+
+![8666784172](https://www.endurancewarranty.com/wp-content/uploads/2024/09/QR8666784172.png) ![8005064640](https://www.endurancewarranty.com/wp-content/uploads/2024/09/QR8005064640.png) ![8002538203](https://www.endurancewarranty.com/wp-content/uploads/2024/09/QR8002538203.png)
 
 ![](https://api.trustedform.com/ns.gif)
 
