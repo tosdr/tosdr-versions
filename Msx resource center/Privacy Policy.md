@@ -137,6 +137,7 @@ MSX Music player
 
 Latest reactions
 
+* [Godzilla Balls by Paxanga Soft](https://www.msx.org/news/en/godzilla-balls "Godzilla Balls by Paxanga Soft")
 * [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [Tiny Magic update, new batch and soundtrack CD](https://www.msx.org/news/software/en/tiny-magic-update "Tiny Magic update, new batch and soundtrack CD")
@@ -146,23 +147,22 @@ Latest reactions
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
 * [Tiny Magic](https://www.msx.org/news/software/en/tiny-magic "Tiny Magic")
-* [MSX and Networking book crowdfunding](https://www.msx.org/news/en/new-book-about-msx-and-networking-crowdfunding-campaign "MSX and Networking book crowdfunding")
 
 Latest forum posts
 
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=121 "Please help testing upcoming openMSX release!")
 * [MSX Bluetooth transmitter](https://www.msx.org/forum/msx-talk/hardware/msx-bluetooth-transmitter "MSX Bluetooth transmitter")
 * [Looking for ROBOPAL (by BANDAI) software](https://www.msx.org/forum/msx-talk/software/looking-for-robopal-by-bandai-software "Looking for ROBOPAL (by BANDAI) software")
+* [DSKPRO Full 17.0](https://www.msx.org/forum/msx-talk/software/dskpro-full-170 "DSKPRO Full 17.0")
+* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 * [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
 * [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=121 "Please help testing upcoming openMSX release!")
 * [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card "MFRSCC+SD FAT12 & FAT16 partition on one card.")
 * [Two different flash cartridges hanging up on boot.](https://www.msx.org/forum/msx-talk/general-discussion/two-different-flash-cartridges-hanging-up-on-boot "Two different flash cartridges hanging up on boot. ")
 * [programming eprom games 8k](https://www.msx.org/forum/msx-talk/hardware/programming-eprom-games-8k "programming eprom games 8k")
 * [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
 * [MSX2 disk menu, oasis?](https://www.msx.org/forum/msx-talk/software/msx2-disk-menu-oasis?page=1 "MSX2 disk menu, oasis?")
 * [1DD floppy drive questions](https://www.msx.org/forum/msx-talk/hardware/1dd-floppy-drive-questions "1DD floppy drive questions")
-* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
-* [Darwin demo by USE Crackings](https://www.msx.org/forum/msx-talk/software/darwin-demo-by-use-crackings "Darwin demo by USE Crackings")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
