@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How long will a mormon church sex abuse case take to settle?](https://www.pintas.com/wp-content/uploads/2023/04/injury-law-firm-300x200.jpg "How Long Will a Mormon Church Sex Abuse Case Take to Settle?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-long-will-a-mormon-church-sexual-abuse-case-take-to-settle/ "How Long Will a Mormon Church Sex Abuse Case Take to Settle?")
+[![Have you witnessed elderly abuse?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-have-you-witnessed-elderly-abuse-scaled-1.jpg "Have You Witnessed Elderly Abuse?")](https://www.pintas.com/faq/have-you-witnessed-elderly-abuse/ "Have You Witnessed Elderly Abuse?")
 
-[#### How Long Will a Mormon Church Sex Abuse Case Take to Settle?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-long-will-a-mormon-church-sexual-abuse-case-take-to-settle/)
+[#### Have You Witnessed Elderly Abuse?](https://www.pintas.com/faq/have-you-witnessed-elderly-abuse/)
 
-[![Can chemo cure ovarian cancer?](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-chemo-cure-ovarian-cancer.jpg "Can Chemo Cure Ovarian Cancer?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-chemo-cure-ovarian-cancer/ "Can Chemo Cure Ovarian Cancer?")
+[![What causes scabies in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-scabies-what-causes-scabies-in-nursing-homes.jpg "What Causes Scabies in Nursing Homes?")](https://www.pintas.com/faq/what-causes-scabies-in-nursing-homes/ "What Causes Scabies in Nursing Homes?")
 
-[#### Can Chemo Cure Ovarian Cancer?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-chemo-cure-ovarian-cancer/)
+[#### What Causes Scabies in Nursing Homes?](https://www.pintas.com/faq/what-causes-scabies-in-nursing-homes/)
 
-[![How can i report nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-can-i-report-nursing-home-abuse.jpg "How Can I Report Nursing Home Abuse?")](https://www.pintas.com/faq/how-can-i-report-nursing-home-abuse/ "How Can I Report Nursing Home Abuse?")
+[![How to find the best attorney for elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-to-find-the-best-attorney-for-elder-abuse-lawyer-scaled.jpg "How to Find the Best Attorney for Elder Abuse?")](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/ "How to Find the Best Attorney for Elder Abuse?")
 
-[#### How Can I Report Nursing Home Abuse?](https://www.pintas.com/faq/how-can-i-report-nursing-home-abuse/)
+[#### How to Find the Best Attorney for Elder Abuse?](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -352,7 +352,7 @@ Chicago, IL 60654
 * [San Jose](https://www.pintas.com/near-me/california/san-jose/clergy-abuse-lawyer)
 * [San Diego](https://www.pintas.com/near-me/california/san-diego/nursing-home-abuse-lawyer)
 
-© 2024 Pintas & Mullins Law Firm - All Rights Reserved | [Privacy Policy](https://www.pintas.com/privacy-policy/) | [Site Map](https://www.pintas.com/sitemap/) | [Terms](https://www.pintas.com/website-terms-of-use/) | [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) | [Data Request](https://www.pintas.com/data-request/) | [Limit the Use of Sensitive Personal Information](https://www.pintas.com/limit-the-use-of-sensitive-personal-information/)
+© 2024 Pintas & Mullins Law Firm - All Rights Reserved | [Privacy Policy](https://www.pintas.com/privacy-policy/) | [Site Map](https://www.pintas.com/sitemap/) | [Terms](https://www.pintas.com/website-terms-of-use/) | [Limit the Use of Sensitive Personal Information](https://www.pintas.com/limit-the-use-of-sensitive-personal-information/) [Anti Fraud Policy](https://www.pintas.com/anti-fraud-policy/) | [Data Request](https://www.pintas.com/data-request/)
 
 The information on this website is for general information purposes only. Nothing on this site should be taken as legal advice for  
 any individual case or situation. This information is not intended to create, and receipt or viewing does not constitute, an  
