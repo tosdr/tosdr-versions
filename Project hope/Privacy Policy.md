@@ -2,7 +2,7 @@
 
 URGENT ALERT
 
-Hurricane Update - Responding in North Carolina and Prepping in Florida
+Hurricane Update - Responding in North Carolina and Florida
 
 [DONATE](https://secure.projecthope.org/site/SPageNavigator/FY24_10_Hurricane_Helene_Milton_Web_LO_12316.html "DONATE") Close
 
