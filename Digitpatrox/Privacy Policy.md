@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Wednesday, October 9 2024
+Thursday, October 10 2024
 
 Latest
 
-* [The Best Real Time Network Monitoring Tools of 2024](https://digitpatrox.com/the-best-real-time-network-monitoring-tools-of-2024/)
-* [UK IT leaders prioritize cloud investment – but AI skills shortages continue to cause worries](https://digitpatrox.com/uk-it-leaders-prioritize-cloud-investment-but-ai-skills-shortages-continue-to-cause-worries/)
-* [Planned Adobe app to put an end to AI training on images and clips – Computerworld](https://digitpatrox.com/planned-adobe-app-to-put-an-end-to-ai-training-on-images-and-clips-computerworld/)
-* [The Best Storage Mirror Deals During October Prime Day](https://digitpatrox.com/the-best-storage-mirror-deals-during-october-prime-day/)
-* [The Best Network Monitoring With A Free Trial of 2024](https://digitpatrox.com/the-best-network-monitoring-with-a-free-trial-of-2024/)
-* [How to make Taskbar icons smaller on Windows 11](https://digitpatrox.com/how-to-make-taskbar-icons-smaller-on-windows-11/)
-* [60 FPS Is No Longer Enough, so I’m Turning to Frame Generation](https://digitpatrox.com/60-fps-is-no-longer-enough-so-im-turning-to-frame-generation/)
-* [Google Cloud announces data residency for machine learning in the UK](https://digitpatrox.com/google-cloud-announces-data-residency-for-machine-learning-in-the-uk/)
-* [What Is A Cashless Society? From Speculation to Near-Reality](https://digitpatrox.com/what-is-a-cashless-society-from-speculation-to-near-reality/)
-* [I’m a deals writer and these are the 29 Prime Day deals I’d shop ahead of the holidays](https://digitpatrox.com/im-a-deals-writer-and-these-are-the-29-prime-day-deals-id-shop-ahead-of-the-holidays/)
+* [Today’s Wordle Answer and Hints (October 10, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-10-2024/)
+* [The Best RMM Tools With a Free Trial of 2024](https://digitpatrox.com/the-best-rmm-tools-with-a-free-trial-of-2024/)
+* [AMD has put in the groundwork for a major AI push while the tech industry has fawned over Nvidia](https://digitpatrox.com/amd-has-put-in-the-groundwork-for-a-major-ai-push-while-the-tech-industry-has-fawned-over-nvidia/)
+* [Big shift in IT employment shows new skills are needed – Computerworld](https://digitpatrox.com/big-shift-in-it-employment-shows-new-skills-are-needed-computerworld/)
+* [The Peloton Bike Is $216 Off (and More Prime Day Sales on Exercise Bikes)](https://digitpatrox.com/the-peloton-bike-is-216-off-and-more-prime-day-sales-on-exercise-bikes/)
+* [The Best RMM Tools With Remote Support of 2024](https://digitpatrox.com/the-best-rmm-tools-with-remote-support-of-2024/)
+* [How to lock, sign out, or switch users on Windows 11 (2024)](https://digitpatrox.com/how-to-lock-sign-out-or-switch-users-on-windows-11-2024/)
+* [You Should Update Firefox Now](https://digitpatrox.com/you-should-update-firefox-now/)
+* [Sage Intacct review | ITPro](https://digitpatrox.com/sage-intacct-review-itpro/)
+* [Which One Should You Choose?](https://digitpatrox.com/which-one-should-you-choose/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/best-network-monitoring-tools.jpg)](https://digitpatrox.com/the-best-real-time-network-monitoring-tools-of-2024/)
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-10-2024/)
     
-    [The Best Real Time Network Monitoring Tools of 2024](https://digitpatrox.com/the-best-real-time-network-monitoring-tools-of-2024/)
+    [Today’s Wordle Answer and Hints (October 10, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-10-2024/)
     
-    10 mins ago
+    1 min ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/sffQdfqLjSzZR2p5AfSNPG-1200-80.jpg)](https://digitpatrox.com/uk-it-leaders-prioritize-cloud-investment-but-ai-skills-shortages-continue-to-cause-worries/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/RMM-with-free-trial.jpg)](https://digitpatrox.com/the-best-rmm-tools-with-a-free-trial-of-2024/)
     
-    [UK IT leaders prioritize cloud investment – but AI skills shortages continue to cause worries](https://digitpatrox.com/uk-it-leaders-prioritize-cloud-investment-but-ai-skills-shortages-continue-to-cause-worries/)
-    
-    29 mins ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3555016-0-73741300-1728499317-Adsobe-Content-Credentials.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/planned-adobe-app-to-put-an-end-to-ai-training-on-images-and-clips-computerworld/)
-    
-    [Planned Adobe app to put an end to AI training on images and clips – Computerworld](https://digitpatrox.com/planned-adobe-app-to-put-an-end-to-ai-training-on-images-and-clips-computerworld/)
-    
-    49 mins ago
-    
-* [![](https://lifehacker.com/imagery/articles/01J30MQMZ4TD01PRSK8HMDQNHV/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-storage-mirror-deals-during-october-prime-day/)
-    
-    [The Best Storage Mirror Deals During October Prime Day](https://digitpatrox.com/the-best-storage-mirror-deals-during-october-prime-day/)
+    [The Best RMM Tools With a Free Trial of 2024](https://digitpatrox.com/the-best-rmm-tools-with-a-free-trial-of-2024/)
     
     1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/best-network-monitoring-tools.jpg)](https://digitpatrox.com/the-best-network-monitoring-with-a-free-trial-of-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/JGUD7jM6YPmAjGPCkJA3F9-1200-80.jpg)](https://digitpatrox.com/amd-has-put-in-the-groundwork-for-a-major-ai-push-while-the-tech-industry-has-fawned-over-nvidia/)
     
-    [The Best Network Monitoring With A Free Trial of 2024](https://digitpatrox.com/the-best-network-monitoring-with-a-free-trial-of-2024/)
+    [AMD has put in the groundwork for a major AI push while the tech industry has fawned over Nvidia](https://digitpatrox.com/amd-has-put-in-the-groundwork-for-a-major-ai-push-while-the-tech-industry-has-fawned-over-nvidia/)
     
     1 hour ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3554907-0-61333100-1728512044-shutterstock_2465785383.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/big-shift-in-it-employment-shows-new-skills-are-needed-computerworld/)
+    
+    [Big shift in IT employment shows new skills are needed – Computerworld](https://digitpatrox.com/big-shift-in-it-employment-shows-new-skills-are-needed-computerworld/)
+    
+    2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01HF2H071GDDQJ61PFNMSZGF98/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-peloton-bike-is-216-off-and-more-prime-day-sales-on-exercise-bikes/)
+    
+    [The Peloton Bike Is $216 Off (and More Prime Day Sales on Exercise Bikes)](https://digitpatrox.com/the-peloton-bike-is-216-off-and-more-prime-day-sales-on-exercise-bikes/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [10 mins ago
+* [1 min ago
     
-    ### The Best Real Time Network Monitoring Tools of 2024](https://digitpatrox.com/the-best-real-time-network-monitoring-tools-of-2024/)
-* [29 mins ago
+    ### Today’s Wordle Answer and Hints (October 10, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-10-2024/)
+* [1 hour ago
     
-    ### UK IT leaders prioritize cloud investment – but AI skills shortages continue to cause worries](https://digitpatrox.com/uk-it-leaders-prioritize-cloud-investment-but-ai-skills-shortages-continue-to-cause-worries/)
-* [49 mins ago
+    ### The Best RMM Tools With a Free Trial of 2024](https://digitpatrox.com/the-best-rmm-tools-with-a-free-trial-of-2024/)
+* [1 hour ago
     
-    ### Planned Adobe app to put an end to AI training on images and clips – Computerworld](https://digitpatrox.com/planned-adobe-app-to-put-an-end-to-ai-training-on-images-and-clips-computerworld/)
+    ### AMD has put in the groundwork for a major AI push while the tech industry has fawned over Nvidia](https://digitpatrox.com/amd-has-put-in-the-groundwork-for-a-major-ai-push-while-the-tech-industry-has-fawned-over-nvidia/)
 
 Most Popular Topics
 
-* [5 days ago
-    
-    ### Zapperbox A1 Indoor/Outdoor HDTV Antenna](https://digitpatrox.com/zapperbox-a1-indoor-outdoor-hdtv-antenna/)
 * [6 days ago
     
-    ### The PS5 Pro’s AI Upscaler Is the Only Feature That Really Matters](https://digitpatrox.com/the-ps5-pros-ai-upscaler-is-the-only-feature-that-really-matters/)
-* [August 30, 2024
+    ### Dandadan Anime Impressions: Drenched in Craziness](https://digitpatrox.com/dandadan-anime-impressions-drenched-in-craziness/)
+* [August 24, 2024
     
-    ### How I Finally Organized My Closet With a Digital Inventory System](https://digitpatrox.com/how-i-finally-organized-my-closet-with-a-digital-inventory-system/)
+    ### What’s New on Max in September 2024](https://digitpatrox.com/whats-new-on-max-in-september-2024/)
+* [August 27, 2024
+    
+    ### Windows 11 build 22635.4082 adds Lock screen media controls and enhances notifications](https://digitpatrox.com/windows-11-build-22635-4082-adds-lock-screen-media-controls-and-enhances-notifications/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### 60 FPS Is No Longer Enough, so I’m Turning to Frame Generation](https://digitpatrox.com/60-fps-is-no-longer-enough-so-im-turning-to-frame-generation/)
 * [3 hours ago
     
-    ### Google Cloud announces data residency for machine learning in the UK](https://digitpatrox.com/google-cloud-announces-data-residency-for-machine-learning-in-the-uk/)
+    ### How to lock, sign out, or switch users on Windows 11 (2024)](https://digitpatrox.com/how-to-lock-sign-out-or-switch-users-on-windows-11-2024/)
 * [3 hours ago
     
-    ### What Is A Cashless Society? From Speculation to Near-Reality](https://digitpatrox.com/what-is-a-cashless-society-from-speculation-to-near-reality/)
+    ### You Should Update Firefox Now](https://digitpatrox.com/you-should-update-firefox-now/)
+* [4 hours ago
+    
+    ### Sage Intacct review | ITPro](https://digitpatrox.com/sage-intacct-review-itpro/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
