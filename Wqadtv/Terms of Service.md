@@ -30,15 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/b48c7992-d39e-426f-9bd4-bd1b5d212620/b48c7992-d39e-426f-9bd4-bd1b5d212620_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/b48c7992-d39e-426f-9bd4-bd1b5d212620/b48c7992-d39e-426f-9bd4-bd1b5d212620_360x203.jpg)](https://www.wqad.com/article/news/local/moline-metronet-fiber-optic-network-gigabit-city-illinois/526-7f793431-a854-42bb-8eda-f2d9e0143038)
+    *  [![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_16x9.jpg) ![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_360x203.jpg)](https://www.wqad.com/article/news/crime/east-moline-police-infant-hospitalized-father-charged-aggravated-battery/526-12eae7c9-808c-47a6-9ed9-ab633eca6115)
         
-        #### [Moline becomes 'gigabit city' with Metronet fiber optic network](https://www.wqad.com/article/news/local/moline-metronet-fiber-optic-network-gigabit-city-illinois/526-7f793431-a854-42bb-8eda-f2d9e0143038)
+        #### [Father arrested for aggravated battery after infant hospitalized](https://www.wqad.com/article/news/crime/east-moline-police-infant-hospitalized-father-charged-aggravated-battery/526-12eae7c9-808c-47a6-9ed9-ab633eca6115)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/3b4608d4-6167-4ee9-9fd0-8aa5e4553346/20241009T204506/3b4608d4-6167-4ee9-9fd0-8aa5e4553346_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3b4608d4-6167-4ee9-9fd0-8aa5e4553346/20241009T204506/3b4608d4-6167-4ee9-9fd0-8aa5e4553346_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/bessies-prayer-rock-island-judge-walter-braud-trailblazing-black-history/526-e1f47dc9-2428-44bb-b37a-9c2567622280)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c8f2aa38-6b2b-4ad4-b406-a58b17b46984/20241010T004333/c8f2aa38-6b2b-4ad4-b406-a58b17b46984_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8f2aa38-6b2b-4ad4-b406-a58b17b46984/20241010T004333/c8f2aa38-6b2b-4ad4-b406-a58b17b46984_360x203.jpg)](https://www.wqad.com/article/news/local/meshtastic-devices-text-without-internet-cell-service-satellite/526-80a1a95a-4734-4ba9-8e2d-4b13561fef10)
         
-        #### ['Bessie's Prayer' | The new memoir from a trailblazing Quad City judge](https://www.wqad.com/article/news/local/the-current/bessies-prayer-rock-island-judge-walter-braud-trailblazing-black-history/526-e1f47dc9-2428-44bb-b37a-9c2567622280) [![](https://media.tegna-media.com/assets/WQAD/images/3b4608d4-6167-4ee9-9fd0-8aa5e4553346/20241009T204506/3b4608d4-6167-4ee9-9fd0-8aa5e4553346_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3b4608d4-6167-4ee9-9fd0-8aa5e4553346/20241009T204506/3b4608d4-6167-4ee9-9fd0-8aa5e4553346_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/bessies-prayer-rock-island-judge-walter-braud-trailblazing-black-history/526-e1f47dc9-2428-44bb-b37a-9c2567622280)
+        #### [The devices that let you text without internet, cell service or satellite](https://www.wqad.com/article/news/local/meshtastic-devices-text-without-internet-cell-service-satellite/526-80a1a95a-4734-4ba9-8e2d-4b13561fef10)
         
-        #### ['Bessie's Prayer' | The new memoir from a trailblazing Quad City judge, prosecutor](https://www.wqad.com/article/news/local/the-current/bessies-prayer-rock-island-judge-walter-braud-trailblazing-black-history/526-e1f47dc9-2428-44bb-b37a-9c2567622280)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -61,9 +60,9 @@ Navigation
         
         #### [Red Cross recruits Quad Cities volunteers for Hurricane Milton relief](https://www.wqad.com/article/news/local/red-cross-quad-cities-volunteers-help-hurricane-milton/526-e33c57a8-44cc-4850-b7c4-bd8751394582)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/aef807d2-76b4-4b18-aa1a-b7fd1ef24add/20241009T145824/aef807d2-76b4-4b18-aa1a-b7fd1ef24add_360x203.jpg)](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/2fe4ebfd-afd9-4157-b8c3-e9751388f5ab/20241009T224408/2fe4ebfd-afd9-4157-b8c3-e9751388f5ab_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2fe4ebfd-afd9-4157-b8c3-e9751388f5ab/20241009T224408/2fe4ebfd-afd9-4157-b8c3-e9751388f5ab_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [NASA video shows Hurricane Milton from space as it nears Florida](https://www.wqad.com/article/news/nation-world/hurricane-milton-from-space-nearing-florida/507-2357a8c2-8213-42b0-8f29-b42edf5534a1)
+        #### [Warmer temperatures ahead to close the work week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -87,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-76°
+57°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
