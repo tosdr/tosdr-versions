@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2022/06/Marcos-Contreras-rec-326x245.jpg)](https://cwbchicago.com/2024/10/4-years-for-man-who-stole-delivery-drivers-car-with-3-kids-inside-but-he-wont-spend-any-time-in-prison.html "4 years for man who stole delivery driver’s car with 3 kids inside (but he won’t spend any time in prison)")
+
+River West
+
+### [4 years for man who stole delivery driver’s car with 3 kids inside (but he won’t spend any time in prison)](https://cwbchicago.com/2024/10/4-years-for-man-who-stole-delivery-drivers-car-with-3-kids-inside-but-he-wont-spend-any-time-in-prison.html "4 years for man who stole delivery driver’s car with 3 kids inside (but he won’t spend any time in prison)")
+
+[October 8, 2024 6:00 AM](https://cwbchicago.com/2024/10)
+
+A man who stole a food delivery driver’s car with the victim’s three children inside has been given a four-year sentence. However, Marcos Contreras will not serve any time in prison after earning various credits, primarily for wearing an ankle monitor at home.[](https://cwbchicago.com/2024/10/4-years-for-man-who-stole-delivery-drivers-car-with-3-kids-inside-but-he-wont-spend-any-time-in-prison.html "4 years for man who stole delivery driver’s car with 3 kids inside (but he won’t spend any time in prison)")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/burglary-generic-326x245.jpg)](https://cwbchicago.com/2024/10/burglary-crew-is-targeting-bucktown-homes-chicago-police-say.html "Burglary crew is targeting Bucktown homes, Chicago police say")
+
+Bucktown
+
+### [Burglary crew is targeting Bucktown homes, Chicago police say](https://cwbchicago.com/2024/10/burglary-crew-is-targeting-bucktown-homes-chicago-police-say.html "Burglary crew is targeting Bucktown homes, Chicago police say")
+
+[October 8, 2024 5:31 AM](https://cwbchicago.com/2024/10)
+
+A three-man burglary crew has stolen jewelry, cash, and even an entire safe during three residential burglaries in Bucktown this month, according to a new alert from Chicago police. All of the break-ins occurred during the afternoon hours.[](https://cwbchicago.com/2024/10/burglary-crew-is-targeting-bucktown-homes-chicago-police-say.html "Burglary crew is targeting Bucktown homes, Chicago police say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/10/2024.10.06-1600-block-howard-shots-fired-326x245.jpg)](https://cwbchicago.com/2024/10/camera-records-second-shooting-in-a-week-in-rogers-park-a-man-was-murdered-at-the-same-spot-in-june.html "Camera records second shooting in a week in Rogers Park. A man was murdered at the same spot in June.")
 
 Rogers Park
@@ -252,26 +272,6 @@ Rogers Park
 [October 7, 2024 5:39 PM](https://cwbchicago.com/2024/10)
 
 What in the world is going on in the 1600 block of West Howard? And why aren’t Chicago police and the local alderman fixing it?[](https://cwbchicago.com/2024/10/camera-records-second-shooting-in-a-week-in-rogers-park-a-man-was-murdered-at-the-same-spot-in-june.html "Camera records second shooting in a week in Rogers Park. A man was murdered at the same spot in June.")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/dating-map-326x245.jpg)](https://cwbchicago.com/2024/10/armed-robbers-are-using-dating-apps-to-lure-women-into-traps-chicago-police-say.html "Armed robbers are using dating apps to lure women into traps, Chicago police say")
-
-Auburn Gresham
-
-### [Armed robbers are using dating apps to lure women into traps, Chicago police say](https://cwbchicago.com/2024/10/armed-robbers-are-using-dating-apps-to-lure-women-into-traps-chicago-police-say.html "Armed robbers are using dating apps to lure women into traps, Chicago police say")
-
-[October 7, 2024 5:35 PM](https://cwbchicago.com/2024/10)
-
-Armed men are luring women into robbery traps after meeting them on dating apps, Chicago police say. Three women have been targeted so far when they arrived at rendezvous locations in Auburn Gresham and Chatham.[](https://cwbchicago.com/2024/10/armed-robbers-are-using-dating-apps-to-lure-women-into-traps-chicago-police-say.html "Armed robbers are using dating apps to lure women into traps, Chicago police say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Jeffery-Campos-326x245.jpg)](https://cwbchicago.com/2024/10/man-murdered-victim-in-cold-blood-during-brawl-among-river-north-bargoers-prosecutors-say.html "Man murdered victim in cold blood during brawl among River North bargoers, prosecutors say")
-
-River North
-
-### [Man murdered victim in cold blood during brawl among River North bargoers, prosecutors say](https://cwbchicago.com/2024/10/man-murdered-victim-in-cold-blood-during-brawl-among-river-north-bargoers-prosecutors-say.html "Man murdered victim in cold blood during brawl among River North bargoers, prosecutors say")
-
-[October 7, 2024 2:42 PM](https://cwbchicago.com/2024/10)
-
-A man on probation for a felony gun case shot and killed another man in cold blood as bargoers brawled on a River North street over the weekend, prosecutors said Monday.[](https://cwbchicago.com/2024/10/man-murdered-victim-in-cold-blood-during-brawl-among-river-north-bargoers-prosecutors-say.html "Man murdered victim in cold blood during brawl among River North bargoers, prosecutors say")
 
 Search
 
