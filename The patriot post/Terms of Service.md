@@ -211,6 +211,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Armstrong Williams Echoes of a Day That Shook Israel’s Soul](https://patriotpost.us/opinion/110960-echoes-of-a-day-that-shook-israels-soul-2024-10-10)
 *      [Ann Coulter Democrats’ Third World Reasoning](https://patriotpost.us/opinion/110959-democrats-third-world-reasoning-2024-10-10)
 *      [The Babylon Bee CBS Reveals They Interviewed Kamala for 721 Hours in Order to Compile ‘60 Minutes’ of Usable Footage](https://patriotpost.us/opinion/110958-cbs-reveals-they-interviewed-kamala-for-721-hours-in-order-to-compile-60-minutes-of-usable-footage-2024-10-10)
+*      [Guest Commentary Hezbollah — ‘Party of God’](https://patriotpost.us/opinion/110989-hezbollah-party-of-god-2024-10-10)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -224,7 +225,9 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
