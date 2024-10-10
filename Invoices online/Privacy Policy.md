@@ -118,57 +118,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Anri van der Linde
+Terri Winfield
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=189439472)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=55607717)  
+Lion Software Develepment
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=111766518)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=179971095)  
+Qothiphango Mining
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=29068024)  
-SA Security Brokerz (Pty) Ltd
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=201058751)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=139532432)  
-Lemba Truck Stop
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=190408464)  
+Xpress Designs
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=5087698)  
-National Elite Security Services (PTY) LTD
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=213161071)  
+Nilbet T/A Waterman
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=105536041)  
-Itroniq (Pty) Ltd
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=46555552)  
+Kaylas Creations
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=100599948)  
-Peter Salvage Pty Ltd
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=176046941)  
+United Paintball Federation
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=96671171)  
-Vplay Letsheng Mall
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=205520548)  
+Echo Recording Studio cc
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=77964789)  
-Little Nutty Professors
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=36435474)  
+AFS Electrical
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=64119375)  
-MOSELA GROUP Pty(ltd)
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=173468150)  
+Meyer Towing & Recovery
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=207484549)  
-Nogana Events and Decor
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=24313669)  
+VIR Electrical (PTY) LTD
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=20431641)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=40386636)  
+Goju-Ryu Pretoria East
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=82780608)  
-NWET Pty LTD
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=91025614)  
+CHARLIEX CONSTRUCTIONS
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=191388817)  
-MONSTER CONNECT (PTY) LTD
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=136639274)  
+Imvubu General Trading
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=56134957)  
-Sarabi
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=22b7e8d6022cc5a5f1c6920c09a2b229027d29a0ae15769ed378fb1d26aa0a70&c=119030615)  
+MONSTER SECURITY SERVICES
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
