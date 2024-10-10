@@ -36,18 +36,18 @@
         
         European govt air-gapped systems breached using custom malware](https://www.bleepingcomputer.com/news/security/european-govt-air-gapped-systems-breached-using-custom-malware/)
     
+    * [![Internet Archive hacked, data breach impacts 31 million users](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Internet Archive hacked, data breach impacts 31 million users](https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/)
+    * [![CISA says critical Fortinet RCE flaw now exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        CISA says critical Fortinet RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/)
+    * [![Crypto-stealing malware campaign infects 28,000 people](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Crypto-stealing malware campaign infects 28,000 people](https://www.bleepingcomputer.com/news/cryptocurrency/crypto-stealing-malware-campaign-infects-28-000-people/)
     * [![Palo Alto Networks warns of firewall hijack bugs with public exploit](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Palo Alto Networks warns of firewall hijack bugs with public exploit](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-firewall-hijack-bugs-with-public-exploit/)
-    * [![Dive into a new skill by by learning SQL and NoSQL with this course bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Dive into a new skill by by learning SQL and NoSQL with this course bundle](https://www.bleepingcomputer.com/offer/deals/dive-into-a-new-skill-by-by-learning-sql-and-nosql-with-this-course-bundle/)
-    * [![Mozilla fixes Firefox zero-day actively exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
-    * [![Microsoft fixes Word bug that deleted documents when saving](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft fixes Word bug that deleted documents when saving](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-word-bug-that-deleted-documents-when-saving/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -445,9 +445,9 @@ Popular Stories
 * [![Mamba Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New Mamba 2FA bypass service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-mamba-2fa-bypass-service-targets-microsoft-365-accounts/)
-* [![Word](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Internet Archive](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Microsoft: Word deletes some documents instead of saving them](https://www.bleepingcomputer.com/news/microsoft/microsoft-word-for-microsoft-365-deletes-some-documents-instead-of-saving-them/)
+    Internet Archive hacked, data breach impacts 31 million users](https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/)
 
 ##### Follow us:
 
