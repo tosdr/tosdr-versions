@@ -4,7 +4,7 @@ The store will not work correctly in the case when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-[PRIME DAY - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
+[SALE - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
 
 [Choose a free Womanizer toy with every order above 199€!](https://www.womanizer.com/eu/sex-toys)
 
@@ -28,41 +28,40 @@ The store will not work correctly in the case when cookies are disabled.
     
 * [Bestsellers](https://www.womanizer.com/eu/bestseller)
     
+    * [OG](https://www.womanizer.com/eu/womanizer-og)
+    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
+    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
+    * [Classic 2 Marilyn Monroe™ Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
+    * [NEW
+        
+        Blend](https://www.womanizer.com/eu/blend)
     * [NEW
         
         Vibe](https://www.womanizer.com/eu/vibe)
-    * [NEW
-        
-        Next](https://www.womanizer.com/eu/next)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
+    * [DUO 2](https://www.womanizer.com/eu/duo2)
     * [NEW
         
-        Blend](https://www.womanizer.com/eu/blend)
-    * [DUO 2](https://www.womanizer.com/eu/duo2)
-    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
-    * [OG](https://www.womanizer.com/eu/womanizer-og)
-    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
-    * [Classic 2 Marilyn Monroe™ Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
+        Next](https://www.womanizer.com/eu/next)
     * [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
-* [PRIME DAY](https://www.womanizer.com/eu/sale)
+* [Sale](https://www.womanizer.com/eu/sale)
     
-    * [Premium 2](https://www.womanizer.com/eu/premium-2)
-    * [Climax Collection](https://www.womanizer.com/eu/climax-collection)
-    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
+    * [Starlet Snow](https://www.womanizer.com/eu/starlet)
+    * [STARLET 2](https://www.womanizer.com/eu/starlet-2)
+    * [LIBERTY](https://www.womanizer.com/eu/liberty)
+    * [Pro40](https://www.womanizer.com/eu/pro-40)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [PREMIUM eco](https://www.womanizer.com/eu/eco)
-    * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
-    * [InsideOut](https://www.womanizer.com/eu/insideout)
-    * [The ForePlay Collection](https://www.womanizer.com/eu/the-fore-play-collection)
-    * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
-    * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
-    * [DUO](https://www.womanizer.com/eu/duo)
+    * [We-Vibe Wand](https://www.womanizer.com/eu/we-vibe-wand)
+    * [Desire Blooms Gift Set](https://www.womanizer.com/eu/desire-blooms-gift-set-4-piece)
+    * [Booster Bundle](https://www.womanizer.com/eu/booster-bundle)
+    * [Dream Team Set](https://www.womanizer.com/eu/dream-team-set)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
