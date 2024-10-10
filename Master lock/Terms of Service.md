@@ -1,7 +1,7 @@
 [Skip Navigation](#content)
 
 * [Where to Buy](https://www.masterlock.com/where-to-buy)
-* [Insights](http://insights.masterlock.com/)
+* [Insights](http://www.masterlock.com/insights)
 * [Store Your Combo](https://register.masterlock.com/)
 * [Contact Us](https://masterlock.custhelp.com/app/contactus/ask)
 
@@ -36,7 +36,7 @@ Search
     * [U-locks](https://www.masterlock.com/products/u-locks?personal)
     * [Accessories for Locks & Keys](https://www.masterlock.com/products/accessories-for-locks-keys?personal)
     
-    Find a lock [Product Videos](https://www.masterlock.com/support/videos) [Lost Combinations](https://www.masterlock.com/support/category/lost-combinations) [Insights](https://insights.masterlock.com/)
+    Find a lock [Product Videos](https://www.masterlock.com/support/videos) [Lost Combinations](https://www.masterlock.com/support/category/lost-combinations) [Insights](https://www.masterlock.com/insights)
     
 * [Business](https://www.masterlock.com/business?business) Toggle Dropdown
     
@@ -60,7 +60,7 @@ Search
     * [Door Hardware](https://www.masterlock.com/products/door-hardware?business)
     * [Accessories for Locks & Keys](https://www.masterlock.com/products/accessories-for-locks-keys?business)
     
-    Find a lock [Vault Support](https://www.masterlock.com/support/category/vault-support) [Support For Business](https://www.masterlock.com/support-links) [Insights](https://insights.masterlock.com/)
+    Find a lock [Vault Support](https://www.masterlock.com/support/category/vault-support) [Support For Business](https://www.masterlock.com/support-links) [Insights](https://www.masterlock.com/insights)
     
 * [Support](https://www.masterlock.com/support?support) Toggle Dropdown
     
@@ -84,7 +84,7 @@ Search
     * [Vault Support](https://www.masterlock.com/support/category/vault-support)
     * [Order Tracking](https://www.masterlock.net/MasterLockApps/faces/jsf/home.jsf)
     
-    [Product Videos](https://www.masterlock.com/support/videos) [Insights](https://insights.masterlock.com/) [Store Your Combo](https://register.masterlock.com/)
+    [Product Videos](https://www.masterlock.com/support/videos) [Insights](https://www.masterlock.com/insights) [Store Your Combo](https://register.masterlock.com/)
     
 
 [Find a lock](#void) [Master lock Vault](https://www.masterlockvault.com/) [Support for Business](https://www.masterlock.com/support-links)
@@ -279,7 +279,7 @@ _\*Only customers in the U.S. will receive these emails from Master Lock._
 [About Us](https://www.masterlock.com/about-us)
 -----------------------------------------------
 
-* [Security and Safety Insights](https://insights.masterlock.com/)
+* [Security and Safety Insights](https://www.masterlock.com/insights)
 * [Careers](https://www.fbin.com/careers/search-careers)
 * [Share Your Story](https://www.masterlock.com/testimonial)
 
