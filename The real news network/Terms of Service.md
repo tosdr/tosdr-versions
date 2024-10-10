@@ -1,3 +1,13 @@
+**Rubble, Rage, Resistance: A Year of Covering the 'Most Documented Genocide in History'**
+
+Since October 2023, TRNN has produced over 25 on-the-ground, documentary reports from Gaza, the West Bank, and protest movements around the world. We also published [**over 100 original podcasts**, **articles, and livestreams**](https://therealnews.com/israels-war-on-palestine) providing analysis, context, and firsthand stories from the front lines of struggle.
+
+We can't continue this vital work without your support. Your donation helps us expose injustice, amplify the stories of the oppressed, and hold those in power accountable.
+
+Join us in standing with those fighting for survival—because their stories need to be told.
+
+[**I STAND WITH TRNN!**](https://support.therealnews.com/-/XEYCPXGN)
+
 You're missing out.
 ===================
 
@@ -98,8 +108,8 @@ Trending Posts
 * ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
-* [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
 * [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
+* [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
 
 Close
 
@@ -162,8 +172,8 @@ Trending Posts
 * ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
-* [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
 * [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
+* [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
 
 [Skip to content](#main)
 
@@ -361,8 +371,8 @@ Trending Posts
 * ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
 * [AI data centers are draining water from this drought-stricken Mexican town](https://therealnews.com/ai-data-centers-are-draining-water-from-this-drought-stricken-mexican-town)
-* [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
 * [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
+* [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
