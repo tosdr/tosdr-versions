@@ -282,41 +282,12 @@ Kneecap. Peadar Ó Goill
 [Derry Death Notices - Thursday, October 10 2024](https://www.derrynow.com/news/deaths/1625959/derry-death-notices-thursday-october-10-2024.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man (25) appears before court accused of stealing elderly man's wallet while he was getting hair cut](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (25) appears before court accused of stealing elderly man's wallet while he was getting hair cut")](https://www.derrynow.com/news/home/1625763/man-25-appears-before-court-accused-of-stealing-elderly-man-s-wallet-while-he-was-getting-hair-cut.html)
+[![WATCH: Florida residents battle torrential conditions in shocking footage of Hurricane Milton ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Florida residents battle torrential conditions in shocking footage of Hurricane Milton ")](https://www.derrynow.com/video/national-news/1626863/watch-florida-residents-battle-torrential-conditions-in-shocking-footage-of-hurricane-milton.html)
 
-The case was heard in Coleraine Court earlier today.
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Home](https://www.derrynow.com/)
-
-[Man (25) appears before court accused of stealing elderly man's wallet while he was getting hair cut](https://www.derrynow.com/news/home/1625763/man-25-appears-before-court-accused-of-stealing-elderly-man-s-wallet-while-he-was-getting-hair-cut.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Judge tells burglar 'when you steal other people's photographs you are stealing their memories'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Judge tells burglar 'when you steal other people's photographs you are stealing their memories'")](https://www.derrynow.com/news/local-news/1625704/judge-tells-burglar-when-you-steal-other-people-s-photographs-you-are-stealing-their-memories.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Judge tells burglar 'when you steal other people's photographs you are stealing their memories'](https://www.derrynow.com/news/local-news/1625704/judge-tells-burglar-when-you-steal-other-people-s-photographs-you-are-stealing-their-memories.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry councillors disagree over recent city centre vandalism attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry councillors disagree over recent city centre vandalism attack")](https://www.derrynow.com/news/local-news/1626090/derry-councillors-disagree-over-recent-city-centre-vandalism-attack.html)
-
-Red paint covering the front of the Oasis premises. PHOTO: Shannon Moore
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry councillors disagree over recent city centre vandalism attack](https://www.derrynow.com/news/local-news/1626090/derry-councillors-disagree-over-recent-city-centre-vandalism-attack.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Inside stunning Dublin home on the market for over €1.9 million](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Inside stunning Dublin home on the market for over €1.9 million")](https://www.derrynow.com/story-telling/property/1626330/pictures-inside-stunning-dublin-home-on-the-market-for-over-1-9-million.html)
-
-PICTURES: Inside stunning Dublin home on the market for over €1.9 million
-
-[Property](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: Inside stunning Dublin home on the market for over €1.9 million](https://www.derrynow.com/story-telling/property/1626330/pictures-inside-stunning-dublin-home-on-the-market-for-over-1-9-million.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[WATCH: Florida residents battle torrential conditions in shocking footage of Hurricane Milton](https://www.derrynow.com/video/national-news/1626863/watch-florida-residents-battle-torrential-conditions-in-shocking-footage-of-hurricane-milton.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Suspended sentence for Derry child sex offender](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry child sex offender")](https://www.derrynow.com/news/local-news/1626920/suspended-sentence-for-derry-child-sex-offender.html)
 
@@ -327,25 +298,69 @@ Derry Crown Court
 [Suspended sentence for Derry child sex offender](https://www.derrynow.com/news/local-news/1626920/suspended-sentence-for-derry-child-sex-offender.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Committee to seek legal advice on recalling O’Neill over McMonagle controversy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Committee to seek legal advice on recalling O’Neill over McMonagle controversy")](https://www.derrynow.com/news/local-news/1626207/committee-to-seek-legal-advice-on-recalling-oneill-over-mcmonagle-controversy.html)
+[![Derry woman charged with breaching bail, assaulting police and attempted criminal damage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with breaching bail, assaulting police and attempted criminal damage")](https://www.derrynow.com/news/local-news/1626705/derry-woman-charged-with-breaching-bail-assaulting-police-and-attempted-criminal-damage.html)
+
+Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Committee to seek legal advice on recalling O’Neill over McMonagle controversy](https://www.derrynow.com/news/local-news/1626207/committee-to-seek-legal-advice-on-recalling-oneill-over-mcmonagle-controversy.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman charged with breaching bail, assaulting police and attempted criminal damage](https://www.derrynow.com/news/local-news/1626705/derry-woman-charged-with-breaching-bail-assaulting-police-and-attempted-criminal-damage.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested in Dublin on suspicion of Mary Ward murder in Belfast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in Dublin on suspicion of Mary Ward murder in Belfast")](https://www.derrynow.com/news/national-news/1626194/man-arrested-in-dublin-on-suspicion-of-mary-ward-murder-in-belfast.html)
+[![Derry man charged with a series of offences returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with a series of offences returned for trial")](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Man arrested in Dublin on suspicion of Mary Ward murder in Belfast](https://www.derrynow.com/news/national-news/1626194/man-arrested-in-dublin-on-suspicion-of-mary-ward-murder-in-belfast.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man charged with a series of offences returned for trial](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Planning application lodged for new Derry energy storage substation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Planning application lodged for new Derry energy storage substation")](https://www.derrynow.com/news/local-news/1626670/planning-application-lodged-for-new-derry-energy-storage-substation.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Planning application lodged for new Derry energy storage substation](https://www.derrynow.com/news/local-news/1626670/planning-application-lodged-for-new-derry-energy-storage-substation.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Steelstown Primary School P1 Colour Feature](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Steelstown Primary School P1 Colour Feature")](https://www.derrynow.com/news/pictures---videos/1626630/pictures-steelstown-primary-school-p1-colour-feature.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Steelstown Primary School P1 Colour Feature](https://www.derrynow.com/news/pictures---videos/1626630/pictures-steelstown-primary-school-p1-colour-feature.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Senior Football Championship preview: Slaughtneil clash with Glen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Senior Football Championship preview: Slaughtneil clash with Glen")](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Derry Senior Football Championship preview: Slaughtneil clash with Glen](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![PICTURES: Alchemy Technology Services achieve King's Award for Enterprise in International Trade](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Alchemy Technology Services achieve King's Award for Enterprise in International Trade")](https://www.derrynow.com/news/pictures---videos/1627027/pictures-alchemy-technology-services-achieve-king-s-award-for-enterprise-in-international-trade.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Alchemy Technology Services achieve King's Award for Enterprise in International Trade](https://www.derrynow.com/news/pictures---videos/1627027/pictures-alchemy-technology-services-achieve-king-s-award-for-enterprise-in-international-trade.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall")](https://www.derrynow.com/news/pictures---videos/1626974/pictures-mayor-s-afro-caribbean-themed-tea-dance-at-guildhall.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall](https://www.derrynow.com/news/pictures---videos/1626974/pictures-mayor-s-afro-caribbean-themed-tea-dance-at-guildhall.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Steelstown Primary School P1 Colour Feature](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Steelstown Primary School P1 Colour Feature")](https://www.derrynow.com/news/pictures---videos/1626630/pictures-steelstown-primary-school-p1-colour-feature.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Steelstown Primary School P1 Colour Feature](https://www.derrynow.com/news/pictures---videos/1626630/pictures-steelstown-primary-school-p1-colour-feature.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: GeoEnergy NI gets Chair Cllr Seal of Approval in Magherafelt Schools Visit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: GeoEnergy NI gets Chair Cllr Seal of Approval in Magherafelt Schools Visit")](https://www.derrynow.com/news/local-news/1626580/pictures-geoenergy-ni-gets-chair-cllr-seal-of-approval-in-magherafelt-schools-visit.html)
 
@@ -397,27 +412,6 @@ Thornhill College students take to the skies
 
 [March and rally held in Derry to mark first anniversary of Gaza conflict](https://www.derrynow.com/news/pictures---videos/1624606/in-pictures-hundreds-march-through-derry-to-mark-first-anniversary-of-gaza-conflict.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About @ Buzz Bar (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Buzz Bar (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1623666/throwback-tuesday-out-and-about-buzz-bar-2014.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ Buzz Bar (2014)](https://www.derrynow.com/story-telling/pictures---videos/1623666/throwback-tuesday-out-and-about-buzz-bar-2014.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Official launch of Derry Youth and Community Workshop Youth (SKY) Project](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Official launch of Derry Youth and Community Workshop Youth (SKY) Project")](https://www.derrynow.com/story-telling/pictures---videos/1624100/in-pictures-official-launch-of-derry-youth-and-community-workshop-youth-sky-project.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Official launch of Derry Youth and Community Workshop Youth (SKY) Project](https://www.derrynow.com/story-telling/pictures---videos/1624100/in-pictures-official-launch-of-derry-youth-and-community-workshop-youth-sky-project.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Local students stunned by sea life at Derry's 'Marine Machine'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Local students stunned by sea life at Derry's 'Marine Machine'")](https://www.derrynow.com/news/pictures---videos/1624061/pictures-local-students-stunned-by-sea-life-at-derry-s-marine-machine.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Local students stunned by sea life at Derry's 'Marine Machine'](https://www.derrynow.com/news/pictures---videos/1624061/pictures-local-students-stunned-by-sea-life-at-derry-s-marine-machine.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,53 +513,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry woman charged with breaching bail, assaulting police and attempted criminal damage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with breaching bail, assaulting police and attempted criminal damage")](https://www.derrynow.com/news/local-news/1626705/derry-woman-charged-with-breaching-bail-assaulting-police-and-attempted-criminal-damage.html)
+[![Hunter calls for compassion and action at Stormont White Butterfly Foundation event](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Hunter calls for compassion and action at Stormont White Butterfly Foundation event")](https://www.derrynow.com/news/county-derry-post/1627313/hunter-calls-for-compassion-and-action-at-stormont-white-butterfly-foundation-event.html)
 
-Derry Magistrate's Court
+Ms Hunter pictured with Selina Casey at the event.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Derry woman charged with breaching bail, assaulting police and attempted criminal damage](https://www.derrynow.com/news/local-news/1626705/derry-woman-charged-with-breaching-bail-assaulting-police-and-attempted-criminal-damage.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Hunter calls for compassion and action at Stormont White Butterfly Foundation event](https://www.derrynow.com/news/county-derry-post/1627313/hunter-calls-for-compassion-and-action-at-stormont-white-butterfly-foundation-event.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bring your old costume back to life at Derry Halloween Swap Shop](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bring your old costume back to life at Derry Halloween Swap Shop")](https://www.derrynow.com/news/local-news/1626683/bring-your-old-costume-back-to-life-at-derry-halloween-swap-shop.html)
+[![Marty's Run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Marty's Run")](https://www.derrynow.com/news/derry-sport/1627065/popular-marty-s-run-event-back-this-weekend.html)
 
-Jillian Collins with her son Arthur trying on a pirate outfit ahead of the Halloween Costume Swap Shops to be held in the Alley Theatre and the Guildhall, included is Julie Hannaway, DCSDC.
+Marty's Run is a popular event for local families. Pic by Tom Heaney, nwpresspics
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Bring your old costume back to life at Derry Halloween Swap Shop](https://www.derrynow.com/news/local-news/1626683/bring-your-old-costume-back-to-life-at-derry-halloween-swap-shop.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Popular 'Marty's Run' event back this weekend](https://www.derrynow.com/news/derry-sport/1627065/popular-marty-s-run-event-back-this-weekend.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for Derry child sex offender](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Suspended sentence for Derry child sex offender")](https://www.derrynow.com/news/local-news/1626920/suspended-sentence-for-derry-child-sex-offender.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for Derry child sex offender](https://www.derrynow.com/news/local-news/1626920/suspended-sentence-for-derry-child-sex-offender.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Planning application lodged for new Derry energy storage substation](https://www.derrynow.com/resizer/165/93/true/2024_10_10/image001_%2821%29-1728553793465.jpg--.jpg?1728553793493 "Planning application lodged for new Derry energy storage substation")](https://www.derrynow.com/news/local-news/1626670/planning-application-lodged-for-new-derry-energy-storage-substation.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Planning application lodged for new Derry energy storage substation](https://www.derrynow.com/news/local-news/1626670/planning-application-lodged-for-new-derry-energy-storage-substation.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ballymaguigan to defend their Derry Junior Championship against favourites Craigbane](https://www.derrynow.com/resizer/165/93/true/2023_10_21/SWE_3324-01-1697921453464.jpeg--.jpeg?1697921454193 "Ballymaguigan to defend their Derry Junior Championship against favourites Craigbane")](https://www.derrynow.com/news/gaa/1626665/ballymaguigan-to-defend-their-derry-junior-championship-against-favourites-craigbane.html)
+[![Derry Senior Football Championship preview: Slaughtneil clash with Glen](https://www.derrynow.com/resizer/165/93/true/2024_08_04/Smcg-1722791270718.jpg--.jpg?1722791271244 "Derry Senior Football Championship preview: Slaughtneil clash with Glen")](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
 
 [GAA](https://www.derrynow.com/section/1060/gaa)
 
-[Ballymaguigan to defend their Derry Junior Championship against favourites Craigbane](https://www.derrynow.com/news/gaa/1626665/ballymaguigan-to-defend-their-derry-junior-championship-against-favourites-craigbane.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Senior Football Championship preview: Slaughtneil clash with Glen](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City and Strabane District Council receives an update on road infrastructure projects for 2024](https://www.derrynow.com/resizer/165/93/true/2024_08_07/images-1723044085784.jpg--.jpg?1723044085796 "Derry City and Strabane District Council receives an update on road infrastructure projects for 2024")](https://www.derrynow.com/news/local-news/1626573/derry-city-and-strabane-district-council-receives-an-update-on-road-infrastructure-projects-for-2024.html)
+[![Island Voices lecture series explores the theme of ‘Home’ in Derry's Tower Museum](https://www.derrynow.com/resizer/165/93/true/2024_10_10/19-09-24_DCSDC_island_voices_01-1728571533809.jpg--.jpg?1728571535515 "Island Voices lecture series explores the theme of ‘Home’ in Derry's Tower Museum")](https://www.derrynow.com/news/local-news/1627100/island-voices-lecture-series-explores-the-theme-of-home-in-derry-s-tower-museum.html)
+
+Mayor of Derry City and Strabane District Council, Lilian Seenoi Barr, Pól Ó Frighil, Policy Officer, Erin Hamilton, Irish Language Officer, and Amanda Biega, Good Relations Officer, DCSDC.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry City and Strabane District Council receives an update on road infrastructure projects for 2024](https://www.derrynow.com/news/local-news/1626573/derry-city-and-strabane-district-council-receives-an-update-on-road-infrastructure-projects-for-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Island Voices lecture series explores the theme of ‘Home’ in Derry's Tower Museum](https://www.derrynow.com/news/local-news/1627100/island-voices-lecture-series-explores-the-theme-of-home-in-derry-s-tower-museum.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with a series of offences returned for trial](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Derry man charged with a series of offences returned for trial")](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with a series of offences returned for trial](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ulster University Coleraine launches innovative new Masters in Golf Management ahead of The Open 2025 Championship](https://www.derrynow.com/resizer/165/93/true/2024_10_10/Dr_Peter_Bolan_%28Ulster_University%29_with_Mark_Skinner_%28Head_of_Education_PGA%29_%281%29-1728563137185.png--.png?1728563137411 "Ulster University Coleraine launches innovative new Masters in Golf Management ahead of The Open 2025 Championship")](https://www.derrynow.com/news/home/1626890/ulster-university-coleraine-launches-innovative-new-masters-in-golf-management-ahead-of-the-open-2025-championship.html)
+
+Dr Peter Bolan, Course Director MSc Golf Management at Ulster University pictured alongside Mark Skinner, Head of Business and Management Department at PGA.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Ulster University Coleraine launches innovative new Masters in Golf Management ahead of The Open 2025 Championship](https://www.derrynow.com/news/home/1626890/ulster-university-coleraine-launches-innovative-new-masters-in-golf-management-ahead-of-the-open-2025-championship.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
