@@ -192,6 +192,7 @@ Learn how to find products to sell and setup your online store.
 
 Related Content
 
+* [559: The Brutal Truth About Playing It Safe And Why It’s Holding You Back With Chase Jarvis](https://mywifequitherjob.com/episode559/)
 * [558: How To Be More Productive Than 99% Of The Population](https://mywifequitherjob.com/episode558/)
 * [557: Why You’ll Never Get Anywhere In Business If You Don’t Stop THIS Habit!](https://mywifequitherjob.com/episode557/)
 * [556: What’s Really Going On? A Behind the Scenes Look At How We’re Changing Our Business](https://mywifequitherjob.com/episode556/)
@@ -211,7 +212,6 @@ Related Content
 * [546: Google Pisses Off Sellers And The Latest Updates From TikTok](https://mywifequitherjob.com/episode546/)
 * [545: Expert Advice on Building a Massive Online Following With Nathan Barry](https://mywifequitherjob.com/episode545/)
 * [544: It’s Game Over For Etsy Sellers In The US. Here’s What’s Happening…](https://mywifequitherjob.com/episode544/)
-* [Brutally Honest Advice From Failed Entrepreneurs (Who Lost Everything)](https://mywifequitherjob.com/failed-entrepreneurs/)
 
 Where Should I Begin?
 
@@ -259,7 +259,7 @@ Please Read Our [Privacy Policy](https://mywifequitherjob.com/privacy-policy/) A
 
 ![css.php](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=90010705)
+![css.php](https://mywifequitherjob.com/blog/wp-content/plugins/cookies-for-comments/css.php?k=2071a9e39879b6a958b06162384d3c06&o=i&t=791327081)
 
 Everything you need to know on how to build a profitable ecommerce store from scratch!
 
