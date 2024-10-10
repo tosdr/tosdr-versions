@@ -105,23 +105,23 @@ September 11, 2024
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 89 1
+0 100 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/scp-1471-and-scp-1471-a-directed-by-director-elkkue/)
+[](https://yiff-party.com/yiff/scratte-directed-by-ponsho15/)
 
-[scp-1471 and scp-1471-a directed by director elkkue](https://yiff-party.com/yiff-ai-premium/scp-1471-and-scp-1471-a-directed-by-director-elkkue/)
+[scratte directed by ponsho15](https://yiff-party.com/yiff/scratte-directed-by-ponsho15/)
 
-0 74 0
+0 130 0
 
 September 10, 2024
 
-[](https://yiff-party.com/yiff/griff-and-toast-mythology-created-by-gryph000-and-r3drunner/)
+[](https://yiff-party.com/yiff/lucyfurx-nintendo-switch-and-etc-created-by-janiskisa/)
 
-[griff and toast (mythology) created by gryph000 and r3drunner](https://yiff-party.com/yiff/griff-and-toast-mythology-created-by-gryph000-and-r3drunner/)
+[lucyfurx (nintendo switch and etc) created by janiskisa](https://yiff-party.com/yiff/lucyfurx-nintendo-switch-and-etc-created-by-janiskisa/)
 
-0 3 0
+0 2 0
 
 October 10, 2024
 
