@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/anti-depressiva-verslavend-dus-afkicken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/god-in-een-doos/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
