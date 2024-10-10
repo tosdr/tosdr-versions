@@ -144,8 +144,6 @@ About Us
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/newsroom)
 
-[Contact Us](#)[Schedule a Demo](#)
-
 Qualified Mobile
 
 Never miss a chance to meet with VIP buyers
