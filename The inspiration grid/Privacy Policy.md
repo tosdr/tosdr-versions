@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/branding-wwwind-feature.jpg)
+
+[](https://theinspirationgrid.com/wwwind-studio-branding-by-slowfire-design/)
+
+### Wwwind Studio Branding by Slowfire Design
+
+![](https://inspgr.id/app/uploads/2024/10/illustration-leandro-lassmar-feature.jpg)
+
+[](https://theinspirationgrid.com/dynamic-illustrations-by-leandro-lassmar/)
+
+### Dynamic Illustrations by Leandro Lassmar
+
 ![](https://inspgr.id/app/uploads/2024/10/photography-relander-24-feature.jpg)
 
 [](https://theinspirationgrid.com/human-x-nature-double-exposure-portraits-by-christoffer-relander/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/mclaren-f1-reimagined-concept-by-kevin-andersson/)
 
 ### McLaren F1 Reimagined: Concept by Kevin Andersson
-
-![](https://inspgr.id/app/uploads/2024/10/branding-dutchscot-sucre-feature.jpg)
-
-[](https://theinspirationgrid.com/sucre-restaurant-branding-by-dutchscot/)
-
-### Sucre Restaurant Branding by DutchScot
-
-![](https://inspgr.id/app/uploads/2024/10/murals-pref-feature.jpg)
-
-[](https://theinspirationgrid.com/multifaceted-typographic-murals-by-pref/)
-
-### Multifaceted Typographic Murals by Pref
 
 Awesome products for creatives
 ------------------------------
