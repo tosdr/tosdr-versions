@@ -52,7 +52,7 @@ DATA PRIVACY POLICY
     
     * When you set up an account on our website Factorio.com and you use its functions
         
-    * When you buy Factorio or install updates of the game
+    * When you buy Factorio or Factorio: Space Age or install updates of the game
         
     * When you order merchandise from our shop
         
@@ -67,7 +67,7 @@ DATA PRIVACY POLICY
 
 * As a part of the process of registration on our website, forum and wiki, we process your e-mail address, your username and your IP address, in order to ensure a smooth functioning of your account.
     
-* When you download Factorio or make use of any automatic update of the game, we process the time and the type of download and your username for the purposes of monitoring the demand for the game and also for the purposes of tackling the cases of illegal downloading.
+* When you download Factorio or Factorio: Space Age or make use of any automatic update of the game, we process the time and the type of download and your username for the purposes of monitoring the demand for the game and also for the purposes of tackling the cases of illegal downloading.
     
 * In connection with emailing we intend to process only your email address. In case you are not a Factorio player or a registered user, you will be required to give consent to the processing of your address in order to receive the newsletter. You can always unsubscribe easily by clicking the appropriate link included in each e-mail or by sending an e-mail to support@factorio.com.
     
@@ -215,7 +215,7 @@ DATA PRIVACY POLICY
 
 * We reserve the right to change or amend this policy in the future. Any future changes or amendments will be posted on this page and, if necessary, communicated to you by e-mail. Please check back regularly to see any updates or changes to our privacy policy.
     
-* This policy was last updated on the 31st October 2018.
+* This policy was last updated on the 9th of October, 2024.
     
 
 [Terms of Service](https://factorio.com/terms-of-service)|[Privacy](https://factorio.com/privacy-policy)|[Imprint](https://factorio.com/imprint)|[Presskit](https://factorio.com/presskit)|[Contact](https://factorio.com/support/contact)|[RSS](https://factorio.com/blog/rss)|[Jobs](https://factorio.com/jobs)
