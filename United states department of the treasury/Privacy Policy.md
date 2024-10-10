@@ -555,6 +555,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    October 10, 2024
+    
+    [U.S. Department of the Treasury Releases Fact Sheet Detailing Investments in the Latino Community](https://home.treasury.gov/news/press-releases/jy2638)
+    
     October 8, 2024
     
     [Treasury Sanctions Sudanese Rapid Support Forces Procurement Director](https://home.treasury.gov/news/press-releases/jy2635)
@@ -562,10 +566,6 @@ MENU MENU
     October 8, 2024
     
     [U.S. Department of the Treasury Announces Awardees Under Innovative $75 Million Small Business Grant Program](https://home.treasury.gov/news/press-releases/jy2636)
-    
-    October 7, 2024
-    
-    [U.S. Department of the Treasury Awards $10 Million to California to Help Small Businesses Grow and Hire](https://home.treasury.gov/news/press-releases/jy2634)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
