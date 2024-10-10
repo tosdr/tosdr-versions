@@ -279,7 +279,7 @@ Explore Cal Lutheran
 * [A-Z Directory](https://www.callutheran.edu/directory/)
 * [Faculty Directory](https://www.callutheran.edu/faculty/)
 * [Calendar of Events](https://www.callutheran.edu/calendar/)
-* [News & Stories](https://www.callutheran.edu/news/)
+* [News & Features](https://www.callutheran.edu/news/)
 * [CLU Magazine](https://www.callutheran.edu/magazine)
 * [Careers & Employment](https://careers.callutheran.edu/?utm_source=callutheran.edu&utm_medium=referral&utm_campaign=callutheran.edu)
 
