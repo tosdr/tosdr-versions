@@ -10,11 +10,11 @@
     
 * [Enterprise](https://www.smartcat.com/enterprise/)
 * [Pricing](https://www.smartcat.com/pricing/)
-* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_4869456&lang=en)
-* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_4869456&lang=en)
+* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_4877941&lang=en)
+* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_4877941&lang=en)
 * [en](#)
 
-[en](#)[Sign in](https://smartcat.com/sign-in?land=us_4869456&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_4869456&lang=en)
+[en](#)[Sign in](https://smartcat.com/sign-in?land=us_4877941&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_4877941&lang=en)
 
 Smartcat legal
 
@@ -90,7 +90,6 @@ Plus there is supplementary information you may wish to give us to expand your p
     
 * certificate of registration as self-employed, plus a copy of your relevant work documents, certificates, diplomas, or any other proof of experience, training or special expertise; CV.
     
-      
     Sometimes we collect Personal Data automatically through Cookies when you interact with our Services and sometimes we collect Personal Data directly from you. We may also collect your data from other sources and third parties, even before our first direct interaction.
     
 
@@ -278,13 +277,13 @@ If you have more questions, suggestions, or concerns about this privacy policy, 
 
 [**Back to top**](#terms-block)
 
-This section deals with your personal data consent. It is essential to read Privacy Policy Section in order to understand what type of personal data is collected from you. Under GDPR and certain other applicable laws, we are required to get specific consent from you in relation to the personal data we get from you.
+This section deals with your personal data consent. It is essential to read Privacy Policy Section in order to understand what type of personal data is collected about you. Under GDPR and certain other applicable laws, we are required to get specific consent from you in relation to the personal data we get about you.
 
-The consent you are giving hereby relates to the personal data that was entered on your profile page at Smartcat Platform. The consent you are giving is a free, willful, clear and explicit consent to:
+The consent you are giving hereby relates to the personal data collected about you by Smartcat. The consent you are giving is a free, willful, clear and explicit consent to:
 
 * process personal data for the purpose of providing, supporting and improving Smartcat’s services and features, using appropriate technical, administrative and organizational security measures as well as for the purposes set forth in the Terms;
     
-* inform you about our services, we may contact you at the phone numbers collected directly from you or from third parties and open sources. You agree to receive text messages and calls using automated dialing technology, prerecorded messages, and/or artificial intelligence voice messaging.
+* inform you about our services, we may contact you at the phone numbers collected directly from you or from third parties and open sources. You agree to receive text messages and calls using automated dialing technology, prerecorded messages, and/or artificial intelligence voice messaging. 
     
 * cross-border transfers of your personal data to those countries where Smartcat operates or may operate in future with the understanding that whilst the EU countries and a number of other countries have similar and appropriate rules and level of personal data safeguard and protection there may be transfers of your personal data to those countries that lack the appropriate level and legislative regulation of personal data safeguard and protection.
     
