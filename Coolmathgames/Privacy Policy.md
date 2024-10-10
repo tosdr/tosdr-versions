@@ -85,7 +85,7 @@
     
     #### Top Suggestions
     
-* [EN](#)
+* [EN](# "Select a Language")
     
     ### Select Your Language
     
@@ -390,53 +390,67 @@ See how you rank!](https://www.coolmathgames.com/profile/leaderboard)
     
     If you believe that your own copyrighted content is on our Site without your permission, please follow this [Copyright Infringement Notice procedure](http://coolmath.com/copyright-infringement-notice-procedure).
     
-4. * COOLMATHGAMES.COM
-        * [Games for Kids](https://www.coolmath4kids.com/)
-        * [About Us](https://www.coolmathgames.com/about-us)
-        * [Parents](https://www.coolmathgames.com/parents)
-        * [Terms of Use](https://www.coolmathgames.com/terms-use)
-        * [About Our Ads](https://www.coolmathgames.com/aboutourads)
-        * [Subscription FAQ](https://www.coolmathgames.com/subscription-faq)
-        * [Adblock FAQ](https://www.coolmathgames.com/adblock-faq)
-        * [Subscription Support](https://www.coolmathgames.com/contact-us-about-subscriptions)
-        * [Blog](https://www.coolmathgames.com/blog)
-        * [Developers](http://developers.coolmathgames.com/)
-        * [Contact Us](https://www.coolmathgames.com/contact-us)
-    * BROWSE GAMES
-        * [Strategy Games](https://www.coolmathgames.com/1-strategy-games "Strategy Games")
-        * [Skill Games](https://www.coolmathgames.com/1-skill-games "Skill Games")
-        * [Number Games](https://www.coolmathgames.com/1-number-games "Number Games")
-        * [Logic Games](https://www.coolmathgames.com/1-logic-games "Logic Games")
-        * [Memory Games](https://www.coolmathgames.com/1-memory-games "Memory Games")
-        * [Classic Games](https://www.coolmathgames.com/1-classic-games "Classic Games")
-        * [Jigsaw Puzzles](https://www.coolmathgames.com/0-jigsaw-puzzles "Jigsaw Puzzles")
-        * [Science Games](https://www.coolmathgames.com/1-science-games "Science Games")
-        * [Geography Games](https://www.coolmathgames.com/1-geography-games "Geography Games")
-        * [Download Our Apps](https://www.coolmathgames.com/apps)
-    * COOLMATH.COM
-        * [Pre-Algebra Lessons](https://www.coolmath.com/prealgebra "Pre-Algebra Lessons")
-        * [Algebra Lessons](https://www.coolmath.com/algebra "Algebra Lessons")
-        * [Pre-Calculus Lessons](https://www.coolmath.com/precalculus-review-calculus-intro "Pre-Calculus Lessons")
-        * [Math Dictionary](https://coolmath.com/reference/online-math-dictionary "Math Dictionary")
-        * [Lines](https://www.coolmath.com/algebra/08-lines "Lines")
-        * [Factors and Primes](https://www.coolmath.com/prealgebra/00-factors-primes "Factors and Primes")
-        * [Decimals](https://www.coolmath.com/prealgebra/02-decimals "Decimals")
-        * [Properties](https://www.coolmath.com/prealgebra/06-properties "Properties")
-    * MORE FROM COOLMATH
-        * [Coolmath4Kids](https://www.coolmath4kids.com/ "Coolmath4Kids")
-        * [Ten Frame Manipulative](https://www.coolmath4kids.com/manipulatives/ten-frame "Ten Frame Manipulative")
-        * [Base Ten Blocks Manipulative](https://www.coolmath4kids.com/manipulatives/base-ten-blocks "Base Ten Blocks Manipulative")
-        * [Number Line Manipulative](https://www.coolmath4kids.com/manipulatives/number-line "Number Line Manipulative")
-        * [Pattern Blocks Manipulative](https://www.coolmath4kids.com/manipulatives/pattern-blocks "Pattern Blocks Manipulative")
-        * [Math Quizzes](https://www.coolmath4kids.com/quizzes "Math Quizzes")
-        * [Coolmath4Teachers](https://www.coolmath4teachers.com/ "Coolmath4Teachers")
-        * [Coolmath4Parents](https://www.coolmath4parents.com/ "Coolmath4Parents")
-    * Follow us
-        * [TikTok](https://www.tiktok.com/@coolmathofficial)
-        * [Twitter](https://twitter.com/TheRealCoolmath)
-        * [Instagram](https://www.instagram.com/coolmathgames/)
-        * [Facebook](https://www.facebook.com/CoolMathGamesLLC)
-        * [YouTube](https://www.youtube.com/@coolmathofficial)
+4. COOLMATHGAMES.COM
+    -----------------
+    
+    * [Games for Kids](https://www.coolmath4kids.com/)
+    * [About Us](https://www.coolmathgames.com/about-us)
+    * [Parents](https://www.coolmathgames.com/parents)
+    * [Terms of Use](https://www.coolmathgames.com/terms-use)
+    * [About Our Ads](https://www.coolmathgames.com/aboutourads)
+    * [Subscription FAQ](https://www.coolmathgames.com/subscription-faq)
+    * [Adblock FAQ](https://www.coolmathgames.com/adblock-faq)
+    * [Subscription Support](https://www.coolmathgames.com/contact-us-about-subscriptions)
+    * [Blog](https://www.coolmathgames.com/blog)
+    * [Developers](http://developers.coolmathgames.com/)
+    * [Contact Us](https://www.coolmathgames.com/contact-us)
+    
+    BROWSE GAMES
+    ------------
+    
+    * [Strategy Games](https://www.coolmathgames.com/1-strategy-games "Strategy Games")
+    * [Skill Games](https://www.coolmathgames.com/1-skill-games "Skill Games")
+    * [Number Games](https://www.coolmathgames.com/1-number-games "Number Games")
+    * [Logic Games](https://www.coolmathgames.com/1-logic-games "Logic Games")
+    * [Memory Games](https://www.coolmathgames.com/1-memory-games "Memory Games")
+    * [Classic Games](https://www.coolmathgames.com/1-classic-games "Classic Games")
+    * [Jigsaw Puzzles](https://www.coolmathgames.com/0-jigsaw-puzzles "Jigsaw Puzzles")
+    * [Science Games](https://www.coolmathgames.com/1-science-games "Science Games")
+    * [Geography Games](https://www.coolmathgames.com/1-geography-games "Geography Games")
+    * [Download Our Apps](https://www.coolmathgames.com/apps)
+    
+    COOLMATH.COM
+    ------------
+    
+    * [Pre-Algebra Lessons](https://www.coolmath.com/prealgebra "Pre-Algebra Lessons")
+    * [Algebra Lessons](https://www.coolmath.com/algebra "Algebra Lessons")
+    * [Pre-Calculus Lessons](https://www.coolmath.com/precalculus-review-calculus-intro "Pre-Calculus Lessons")
+    * [Math Dictionary](https://coolmath.com/reference/online-math-dictionary "Math Dictionary")
+    * [Lines](https://www.coolmath.com/algebra/08-lines "Lines")
+    * [Factors and Primes](https://www.coolmath.com/prealgebra/00-factors-primes "Factors and Primes")
+    * [Decimals](https://www.coolmath.com/prealgebra/02-decimals "Decimals")
+    * [Properties](https://www.coolmath.com/prealgebra/06-properties "Properties")
+    
+    MORE FROM COOLMATH
+    ------------------
+    
+    * [Coolmath4Kids](https://www.coolmath4kids.com/ "Coolmath4Kids")
+    * [Ten Frame Manipulative](https://www.coolmath4kids.com/manipulatives/ten-frame "Ten Frame Manipulative")
+    * [Base Ten Blocks Manipulative](https://www.coolmath4kids.com/manipulatives/base-ten-blocks "Base Ten Blocks Manipulative")
+    * [Number Line Manipulative](https://www.coolmath4kids.com/manipulatives/number-line "Number Line Manipulative")
+    * [Pattern Blocks Manipulative](https://www.coolmath4kids.com/manipulatives/pattern-blocks "Pattern Blocks Manipulative")
+    * [Math Quizzes](https://www.coolmath4kids.com/quizzes "Math Quizzes")
+    * [Coolmath4Teachers](https://www.coolmath4teachers.com/ "Coolmath4Teachers")
+    * [Coolmath4Parents](https://www.coolmath4parents.com/ "Coolmath4Parents")
+    
+    Follow us
+    ---------
+    
+    * [TikTok](https://www.tiktok.com/@coolmathofficial)
+    * [Twitter](https://twitter.com/TheRealCoolmath)
+    * [Instagram](https://www.instagram.com/coolmathgames/)
+    * [Facebook](https://www.facebook.com/CoolMathGamesLLC)
+    * [YouTube](https://www.youtube.com/@coolmathofficial)
     
     English
     
