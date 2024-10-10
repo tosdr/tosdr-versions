@@ -1,4 +1,6 @@
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1713)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1713)](https://www.ajc.com/)
+[Breaking: Hurricane Milton makes landfall in Florida, Georgia coast braces for rain, winds](https://www.ajc.com/news/crime/as-hurricane-milton-aims-for-florida-georgia-coast-prepares-for-rain-winds/T7Z2BQGQIJD6XM6GXH57MUTQLY/)
+
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1722)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1722)](https://www.ajc.com/)
 
 Log In
 
@@ -20,7 +22,7 @@ Log In
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1713)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1722)
 
 * Quick Links
     
@@ -144,7 +146,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1713)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1722)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
