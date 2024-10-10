@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-exploit the possibilities
+what you don't know can hurt you
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -28,21 +28,37 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 278 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 288 files
 * [indoushka](https://packetstormsecurity.com/files/authors/7697) 170 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 100 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 104 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 32 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 20 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 21 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 11 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 10 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 11 files
 * [malvuln](https://packetstormsecurity.com/files/authors/15382) 8 files
-* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 6 files
+* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 7 files
 * [Rubén López Herrera](https://packetstormsecurity.com/files/authors/17526) 5 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[US Charges 3 Companies, 15 People With Cryptocurrency Fraud](https://packetstormsecurity.com/news/view/36459/US-Charges-3-Companies-15-People-With-Cryptocurrency-Fraud.html)
+
+Posted [Oct 10, 2024](https://packetstormsecurity.com/news/date/2024-10-10/ "13:56:49 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [fraud](https://packetstormsecurity.com/news/tags/fraud), [fbi](https://packetstormsecurity.com/news/tags/fbi), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36459/) | [View](https://www.reuters.com/legal/us-charges-18-people-companies-cryptocurrency-fraud-2024-10-09/)
+
+[Firefox 131 Update Patches Exploited Zero-Day Vulnerability](https://packetstormsecurity.com/news/view/36458/Firefox-131-Update-Patches-Exploited-Zero-Day-Vulnerability.html)
+
+Posted [Oct 10, 2024](https://packetstormsecurity.com/news/date/2024-10-10/ "13:56:46 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [mozilla](https://packetstormsecurity.com/news/tags/mozilla), [firefox](https://packetstormsecurity.com/news/tags/firefox), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36458/) | [View](https://www.securityweek.com/firefox-131-update-patches-exploited-zero-day-vulnerability/)
 
 [The Disappearance Of An Internet Domain](https://packetstormsecurity.com/news/view/36453/The-Disappearance-Of-An-Internet-Domain.html)
 
@@ -60,6 +76,22 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [governme
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36452/) | [View](https://www.scworld.com/news/goldenjackal-threat-group-targets-air-gapped-government-systems)
 
+[Casio Hit By Cyberattack](https://packetstormsecurity.com/news/view/36451/Casio-Hit-By-Cyberattack.html)
+
+Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:56:08 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [japan](https://packetstormsecurity.com/news/tags/japan)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36451/) | [View](https://www.securityweek.com/casio-hit-by-cyberattack/)
+
+[Microsoft Confirms Exploited Zero-Day In Windows Management Console](https://packetstormsecurity.com/news/view/36450/Microsoft-Confirms-Exploited-Zero-Day-In-Windows-Management-Console.html)
+
+Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:55:46 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36450/) | [View](https://www.securityweek.com/patch-tuesday-microsoft-confirms-exploited-zero-day-in-windows-management-console/)
+
 [Ransomware Double-Extortion Group Listings Peaked In 2024](https://packetstormsecurity.com/news/view/36449/Ransomware-Double-Extortion-Group-Listings-Peaked-In-2024.html)
 
 Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:55:16 UTC")
@@ -76,53 +108,21 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [space](h
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36448/) | [View](https://arstechnica.com/space/2024/10/were-finally-going-to-the-solar-systems-most-intriguing-but-unexplored-frontier/)
 
-[Ukrainian Malware Operator Pleads Guilty In US Court](https://packetstormsecurity.com/news/view/36445/Ukrainian-Malware-Operator-Pleads-Guilty-In-US-Court.html)
+[Qualcomm Urges Patching After Targeted Exploitation](https://packetstormsecurity.com/news/view/36447/Qualcomm-Urges-Patching-After-Targeted-Exploitation.html)
 
-Posted [Oct 8, 2024](https://packetstormsecurity.com/news/date/2024-10-08/ "12:41:49 UTC")
+Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:54:54 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [usa](https://packetstormsecurity.com/news/tags/usa), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cryptography](https://packetstormsecurity.com/news/tags/cryptography), [ukraine](https://packetstormsecurity.com/news/tags/ukraine)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [phone](https://packetstormsecurity.com/news/tags/phone), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36445/) | [View](https://www.securityweek.com/ukrainian-malware-operator-pleads-guilty-in-us-court/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36447/) | [View](https://www.theregister.com/2024/10/08/qualcomm_patch_spyware/)
 
-[Okta Classic Customers Told To Check Logs For Sign-On Bypass](https://packetstormsecurity.com/news/view/36444/Okta-Classic-Customers-Told-To-Check-Logs-For-Sign-On-Bypass.html)
+[Microsoft Issues 117 Patches — Some For Flaws Already Under Attack](https://packetstormsecurity.com/news/view/36446/Microsoft-Issues-117-Patches-Some-For-Flaws-Already-Under-Attack.html)
 
-Posted [Oct 8, 2024](https://packetstormsecurity.com/news/date/2024-10-08/ "12:41:45 UTC")
+Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:54:44 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [password](https://packetstormsecurity.com/news/tags/password)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36444/) | [View](https://www.scworld.com/news/okta-classic-customers-told-to-check-logs-for-sign-on-bypass)
-
-[American Water Shuts Down Customer Portal Amid Cybersecurty Incident](https://packetstormsecurity.com/news/view/36443/American-Water-Shuts-Down-Customer-Portal-Amid-Cybersecurty-Incident.html)
-
-Posted [Oct 8, 2024](https://packetstormsecurity.com/news/date/2024-10-08/ "12:41:39 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36443/) | [View](https://www.scworld.com/news/american-water-shuts-down-customer-portal-amid-cybersecurity-incident)
-
-[You Might Have The Skills That Cyber-Security Wants](https://packetstormsecurity.com/news/view/36442/You-Might-Have-The-Skills-That-Cyber-Security-Wants.html)
-
-Posted [Oct 8, 2024](https://packetstormsecurity.com/news/date/2024-10-08/ "12:41:31 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36442/) | [View](https://www.bbc.com/news/articles/c1m0ylerjevo)
-
-[Healthcare Orgs Warned Of Trinity Ransomware Attacks](https://packetstormsecurity.com/news/view/36441/Healthcare-Orgs-Warned-Of-Trinity-Ransomware-Attacks.html)
-
-Posted [Oct 8, 2024](https://packetstormsecurity.com/news/date/2024-10-08/ "12:41:25 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36441/) | [View](https://www.securityweek.com/healthcare-organizations-warned-of-trinity-ransomware-attacks/)
-
-[About A Quarter Million Comcast Subscribers Had Their Data Stolen From Debt Collector](https://packetstormsecurity.com/news/view/36440/About-A-Quarter-Million-Comcast-Subscribers-Had-Their-Data-Stolen-From-Debt-Collector.html)
-
-Posted [Oct 7, 2024](https://packetstormsecurity.com/news/date/2024-10-07/ "13:32:31 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36440/) | [View](https://www.theregister.com/2024/10/04/comcast_fcbs_ransomware_theft/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36446/) | [View](https://www.theregister.com/2024/10/08/patch_tuesday_october_2024/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2236521530&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2236521530.1728551571.1728551571.1728551571.1%3B%2B__utmz%3D32867617.1728551571.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2459122125&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2459122125.1728573867.1728573867.1728573867.1%3B%2B__utmz%3D32867617.1728573867.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
