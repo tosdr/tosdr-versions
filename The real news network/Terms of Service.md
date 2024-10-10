@@ -106,10 +106,10 @@ Trending Posts
 * ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
 * ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
+* ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 * [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
 * [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
-* ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 
 Close
 
@@ -170,10 +170,10 @@ Trending Posts
 * ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
 * ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
+* ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 * [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
 * [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
-* ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 
 [Skip to content](#main)
 
@@ -369,10 +369,10 @@ Trending Posts
 * ['Israel is in its last days': A survivor of Israeli torture speaks out](https://therealnews.com/a-survivor-of-israeli-torture-speaks-out)
 * ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
+* ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 * [Behind enemy lines: 'Blacks for Trump' and Pennsylvania progressives play for undecided voters](https://therealnews.com/behind-enemy-lines-blacks-for-trump-and-pennsylvania-progressives-play-for-undecided-voters)
 * [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
 * [The Walz-Vance VP debate was a civil display of our appalling politics](https://therealnews.com/the-walz-vance-vp-debate-was-a-civil-display-of-our-appalling-politics)
-* ['It's terrifying': How Israelis justify genocide to themselves](https://therealnews.com/its-terrifying-how-israelis-justify-genocide-to-themselves)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
