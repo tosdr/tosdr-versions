@@ -299,13 +299,29 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» и МГЕР организовали в регионах памятную акцию «Уничтоженное детство»](https://cdn.er.ru/media/news/October2024/YrOa7ZFyv4HBx80MqPVP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-organizovali-v-regionah-pamyatnuyu-akciyu-unichtozhennoe-detstvo)
+
+[«Единая Россия» и МГЕР организовали в регионах памятную акцию «Уничтоженное детство»](https://er.ru/activity/news/edinaya-rossiya-i-mger-organizovali-v-regionah-pamyatnuyu-akciyu-unichtozhennoe-detstvo)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#уничтоженноедетство](https://er.ru/activity/news?tags%5B0%5D=1095798) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ВеликаяОтечественнаявойна](https://er.ru/activity/news?tags%5B0%5D=1093130) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#геноцид](https://er.ru/activity/news?tags%5B0%5D=58283)
+
+10.10.24
+
+[![Антон Горелкин: «Единая Россия» ведёт работу над обеспечением цифровой безопасности государства](https://cdn.er.ru/media/news/October2024/azimfzIlPmsG3hZ0u7uI-small.jpg)](https://er.ru/activity/news/anton-gorelkin-edinaya-rossiya-vedyot-rabotu-nad-obespecheniem-cifrovoj-bezopasnosti-gosudarstva)
+
+[Антон Горелкин: «Единая Россия» ведёт работу над обеспечением цифровой безопасности государства](https://er.ru/activity/news/anton-gorelkin-edinaya-rossiya-vedyot-rabotu-nad-obespecheniem-cifrovoj-bezopasnosti-gosudarstva)
+
+[#Горелкин](https://er.ru/activity/news?tags%5B0%5D=101387) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Кемеровская область-Кузбасс](https://er.ru/activity/news?tags%5B0%5D=137879) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#цифроваяграмотность](https://er.ru/activity/news?tags%5B0%5D=105659) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#цифровойдиктант](https://er.ru/activity/news?tags%5B0%5D=1095797)
+
+10.10.24
+
 [![Ольга Казакова: Все направления партпроекта «Единой России» «Культура малой Родины» сохранены в проекте бюджета на 2025-2027 годы](https://cdn.er.ru/media/news/October2024/Acf80sAvmrcEurJ93lNf-small.jpg)](https://er.ru/activity/news/olga-kazakova-vse-napravleniya-partproekta-edinoj-rossii-kultura-maloj-rodiny-sohraneny-v-proekte-byudzheta-na-2025-2027-gody)
 
 [Ольга Казакова: Все направления партпроекта «Единой России» «Культура малой Родины» сохранены в проекте бюджета на 2025-2027 годы](https://er.ru/activity/news/olga-kazakova-vse-napravleniya-partproekta-edinoj-rossii-kultura-maloj-rodiny-sohraneny-v-proekte-byudzheta-na-2025-2027-gody)
 
 [#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Ставропольский край](https://er.ru/activity/news?tags%5B0%5D=1300) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#КультураМалойРодины](https://er.ru/activity/news?tags%5B0%5D=1090059) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
-Сегодня 17:27
+10.10.24
 
 [![«Единая Россия» запустила Всероссийскую акцию «Финансовая безопасность в цифровом мире»](https://cdn.er.ru/media/news/October2024/Vg272IlLTHxRzHMzaLVc-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zapustila-vserossijskuyu-akciyu-finansovaya-bezopasnost-v-cifrovom-mire)
 
@@ -313,7 +329,7 @@
 
 [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#финансоваябезопасность](https://er.ru/activity/news?tags%5B0%5D=1095793) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834) [#Калужская область](https://er.ru/activity/news?tags%5B0%5D=783) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#Шапша](https://er.ru/activity/news?tags%5B0%5D=23539)
 
-Сегодня 11:30
+10.10.24
 
 [![Инфраструктура, кадры, господдержка: как «Единая Россия» обеспечивает развитие села](https://cdn.er.ru/media/news/October2024/jsyilxA66ZpPvzwnnuyF-small.jpg)](https://er.ru/activity/news/infrastruktura-kadry-gospodderzhka-kak-edinaya-rossiya-obespechivaet-razvitie-sela)
 
@@ -321,29 +337,13 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#развитиесела](https://er.ru/activity/news?tags%5B0%5D=141272) [#развитиесельскихтерриторий](https://er.ru/activity/news?tags%5B0%5D=118666) [#сельскоехозяйство](https://er.ru/activity/news?tags%5B0%5D=128668) [#АПК](https://er.ru/activity/news?tags%5B0%5D=72) [#поддержкасела](https://er.ru/activity/news?tags%5B0%5D=143757) [#сельскиешколы](https://er.ru/activity/news?tags%5B0%5D=130452) [#сельскиедомакультуры](https://er.ru/activity/news?tags%5B0%5D=138764) [#Совфед](https://er.ru/activity/news?tags%5B0%5D=1319) [#Лут](https://er.ru/activity/news?tags%5B0%5D=133405)
 
-Сегодня 11:00
+10.10.24
 
 [![При поддержке «Единой России» в Сочи прошёл X Международный полумарафон на спортивных колясках «Рецепт-Спорт»](https://cdn.er.ru/media/news/October2024/G34PdXmysAJYtTpmZdQo-small.jpg)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sochi-proshyol-x-mezhdunarodnyj-polumarafon-na-sportivnyh-kolyaskah-recept-sport)
 
 [При поддержке «Единой России» в Сочи прошёл X Международный полумарафон на спортивных колясках «Рецепт-Спорт»](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sochi-proshyol-x-mezhdunarodnyj-polumarafon-na-sportivnyh-kolyaskah-recept-sport)
 
 [#Терентьев](https://er.ru/activity/news?tags%5B0%5D=3447) [#Сочи](https://er.ru/activity/news?tags%5B0%5D=549) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЕдинаяСтранаДоступнаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090017) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#людисовз](https://er.ru/activity/news?tags%5B0%5D=123028)
-
-09.10.24
-
-[![«Единая Россия»: На Ямале открылась выставка «Сила V правде — гордость и победа»](https://cdn.er.ru/media/news/October2024/SXkcIBf5l3KsRWaYAvSy-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-na-yamale-otkrylas-vystavka-sila-v-pravde-gordost-i-pobeda)
-
-[«Единая Россия»: На Ямале открылась выставка «Сила V правде — гордость и победа»](https://er.ru/activity/news/edinaya-rossiya-na-yamale-otkrylas-vystavka-sila-v-pravde-gordost-i-pobeda)
-
-[#Ямало-Ненецкий автономный округ](https://er.ru/activity/news?tags%5B0%5D=36079) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-09.10.24
-
-[![«Единая Россия» поддержит предложения цифровых платформ по регламенту регистрации блогеров в Роскомнадзоре](https://cdn.er.ru/media/news/October2024/0Jc0sVaWlnYFdDvNZ8AH-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podderzhit-predlozheniya-cifrovyh-platform-po-reglamentu-registracii-blogerov-v-roskomnadzore)
-
-[«Единая Россия» поддержит предложения цифровых платформ по регламенту регистрации блогеров в Роскомнадзоре](https://er.ru/activity/news/edinaya-rossiya-podderzhit-predlozheniya-cifrovyh-platform-po-reglamentu-registracii-blogerov-v-roskomnadzore)
-
-[#Горелкин](https://er.ru/activity/news?tags%5B0%5D=101387) [цифровыеплатформы](https://er.ru/activity/news?tags%5B0%5D=153157) [#Роскомнадзор](https://er.ru/activity/news?tags%5B0%5D=2075) [#блогеры](https://er.ru/activity/news?tags%5B0%5D=2670)
 
 09.10.24
 
