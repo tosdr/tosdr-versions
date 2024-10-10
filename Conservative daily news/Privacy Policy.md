@@ -2,6 +2,7 @@ Thursday, October 10 2024
 
 Breaking News
 
+* [Florida Needs Prayers – and Hands](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/)
 * [President Joe Biden’s Schedule for Thursday, October 10, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-10-2024/)
 * [How Is It Misinformation To Ask A Question](https://www.conservativedailynews.com/2024/10/how-is-it-misinformation-to-ask-a-question/)
 * [Media Blitz Not Working For Democrats](https://www.conservativedailynews.com/2024/10/media-blitz-not-working-for-democrats/)
@@ -9,7 +10,6 @@ Breaking News
 * [It’s All About Bringing Back The American Dream](https://www.conservativedailynews.com/2024/10/its-all-about-bringing-back-the-american-dream/)
 * [Elon Musk Warns Tucker Carlson Harris Will Try To Shut Down X ‘By Any Means Possible’ If Elected](https://www.conservativedailynews.com/2024/10/elon-musk-warns-tucker-carlson-harris-will-try-to-shut-down-x-by-any-means-possible-if-elected/)
 * [A Kamala Harris Presidency is the End of America as We have Known and Loved It](https://www.conservativedailynews.com/2024/10/a-kamala-harris-presidency-is-the-end-of-america-as-we-have-known-and-loved-it/)
-* [Wage gouging, jobs numbers, Fed blunders mean more inflation](https://www.conservativedailynews.com/2024/10/wage-gouging-jobs-numbers-fed-blunders-mean-more-inflation/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -111,21 +111,39 @@ Your donations help us purchase content, pay for servers, and reduce advertising
 
 Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.74%
 
+* [![Milton how to help](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/)
+    
+    [Florida Needs Prayers – and Hands](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/)
+    
+    October 10, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2018/06/Jack-Phillips.jpg)](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
     
     [Colorado Supreme Court Finally Dismisses Case Against Christian Cake Baker After Over 12 Years Of Legal Battles](https://www.conservativedailynews.com/2024/10/colorado-supreme-court-finally-dismisses-case-against-christian-cake-baker-after-over-12-years-of-legal-battles/)
     
     October 8, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5636-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/the-butler-did-it/)
-    
-    [The Butler Did It](https://www.conservativedailynews.com/2024/10/the-butler-did-it/)
-    
-    October 6, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/10/we-the-people-can-count-on-each-other-but-not-the-federal-government/)
+    
+    [We the People Can Count on Each Other, But Not the Federal Government](https://www.conservativedailynews.com/2024/10/we-the-people-can-count-on-each-other-but-not-the-federal-government/)
+    
+    October 10, 2024
+    
+* [![Milton how to help](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg101024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/)
+    
+    [Florida Needs Prayers – and Hands](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/)
+    
+    October 10, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/08/Coins-money-220x150.png)](https://www.conservativedailynews.com/2024/10/purr-spective-needed-help-me-find-the-best-budget-friendly-cat-food-and-litter/)
+    
+    [Purr-spective Needed: Help Me Find the Best Budget-Friendly Cat Food and Litter](https://www.conservativedailynews.com/2024/10/purr-spective-needed-help-me-find-the-best-budget-friendly-cat-food-and-litter/)
+    
+    October 10, 2024
+    
 * [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-10-2024/)
     
     [President Joe Biden’s Schedule for Thursday, October 10, 2024](https://www.conservativedailynews.com/2024/10/president-joe-bidens-schedule-for-thursday-october-10-2024/)
@@ -156,27 +174,11 @@ Recent Posts
     
     October 9, 2024
     
-* [![Kamala Harris fake](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg100924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/10/unreal/)
-    
-    [Unreal](https://www.conservativedailynews.com/2024/10/unreal/)
-    
-    October 9, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/CBS-Gas-Prices-220x150.jpg)](https://www.conservativedailynews.com/2024/10/10-10-10-the-tool-that-saved-me-from-making-a-bad-decision-and-running-out-of-gas/)
-    
-    [10-10-10: The Tool That Saved Me From Making a Bad Decision (And Running Out of Gas)](https://www.conservativedailynews.com/2024/10/10-10-10-the-tool-that-saved-me-from-making-a-bad-decision-and-running-out-of-gas/)
-    
-    October 9, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/10/IMG_5638-220x150.jpeg)](https://www.conservativedailynews.com/2024/10/media-blitz-not-working-for-democrats/)
-    
-    [Media Blitz Not Working For Democrats](https://www.conservativedailynews.com/2024/10/media-blitz-not-working-for-democrats/)
-    
-    October 9, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Florida officials who banned guns prior to hurricane may soon pay for their ‘error’](https://www.thegunpage.com/florida-officials-who-banned-guns-prior-to-hurricane-may-soon-pay-for-their-error/10611110)
+* [USA Shooting Athletes Earn 10 Medals At 2024 ISSF Junior World Championships](https://www.thegunpage.com/usa-shooting-athletes-earn-10-medals-at-2024-issf-junior-world-championships/10611108)
 * [The History of PKM, the Most Common Machine Gun In the World. Part 4](https://www.thegunpage.com/the-history-of-pkm-the-most-common-machine-gun-in-the-world-part-4/10611104)
 * [POTD: Cabot Yin & Yang Set](https://www.thegunpage.com/potd-cabot-yin-yang-set/10611105)
 * [Wheelgun Wednesday: Davidson's Exclusives Heritage Barkeep Revolvers](https://www.thegunpage.com/wheelgun-wednesday-davidsons-exclusives-heritage-barkeep-revolvers/10611106)
@@ -185,8 +187,6 @@ Recent Posts
 * [Canada Gun Grab Update: Province Gets Ready To Face Down The Feds](https://www.thegunpage.com/canada-gun-grab-update-province-gets-ready-to-face-down-the-feds/10611101)
 * [DeSantis Warns Looters: “You Don’t Know What’s Behind that Door in a Second Amendment State”](https://www.thegunpage.com/desantis-warns-looters-you-dont-know-whats-behind-that-door-in-a-second-amendment-state/10611099)
 * [Watchtower Demolitia 1911: Ported And Double-Stacked Firepower](https://www.thegunpage.com/watchtower-demolitia-1911-ported-and-double-stacked-firepower/10611098)
-* [Armed Criminal Demands Wallet And Cell Phone But Settles For Forever Nap](https://www.thegunpage.com/armed-criminal-demands-wallet-and-cell-phone-but-settles-for-forever-nap/10611097)
-* [Jacob Grey Firearms Unveils The New TWC Black](https://www.thegunpage.com/jacob-grey-firearms-unveils-the-new-twc-black/10611095)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,8 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Unreal](https://www.conservativedailynews.com/2024/10/unreal/#comment-782598)
+* charles wilkins on [Unreal](https://www.conservativedailynews.com/2024/10/unreal/#comment-782597)
 * charles wilkins on [This Is Nuts](https://www.conservativedailynews.com/2024/10/this-is-nuts/#comment-782583)
 * Stanley Warner on [A Kamala Harris Presidency is the End of America as We have Known and Loved It](https://www.conservativedailynews.com/2024/10/a-kamala-harris-presidency-is-the-end-of-america-as-we-have-known-and-loved-it/#comment-782579)
 * charles wilkins on [Follow The Money](https://www.conservativedailynews.com/2024/10/follow-the-money-4/#comment-782578)
@@ -235,8 +237,6 @@ Recent Comments
 * Kevin M. Nadzam on [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/#comment-782569)
 * charles wilkins on [The Worst](https://www.conservativedailynews.com/2024/10/the-worst/#comment-782566)
 * Jeff L on [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/#comment-782546)
-* Stanley Warner on [Biden-Harris Admin Threw Over $40 Billion At An Internet Buildout — Three Years Later Not A Single Project Is Underway](https://www.conservativedailynews.com/2024/10/biden-harris-admin-threw-over-40-billion-at-an-internet-buildout-three-years-later-not-a-single-project-is-underway/#comment-782544)
-* Stanley Warner on [Kamala’s Tax-Gouging Frightens Me More Than Corporate Price-Gouging](https://www.conservativedailynews.com/2024/10/kamalas-tax-gouging-frightens-me-more-than-corporate-price-gouging/#comment-782543)
 
 [Close](#)
 
