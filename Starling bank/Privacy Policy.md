@@ -49,6 +49,7 @@ Online Banking](https://app.starlingbank.com/)
         * [Currency converter](https://www.starlingbank.com/resources/tools/currency-calculator/)
         * [In-app help centre](https://www.starlingbank.com/contact/in-app-help-centre/)
         * [Customer support hub](https://www.starlingbank.com/help/)
+        * [Interest rate calculator](https://www.starlingbank.com/current-account/tools/interest-rate-calculator/)
     
     * [Log in to Online Banking](https://app.starlingbank.com/)
     * [Apply now](https://www.starlingbank.com/apply/)
