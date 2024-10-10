@@ -78,13 +78,13 @@ Offers
     
     [BUY TICKETS](https://www.fandangomovietickets.com/fandangoswickedworldpremieresweepstakes?cmp=TARS~FANDANGO~WickedPremiereSweeps_Footer)
     
-* [APPLE PAY WEDNESDAY image link ![APPLE PAY WEDNESDAY](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/1b374770-82af-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-applepay-week14-tickets-292x118.png)](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce) 
+* [Save 50% off on Terrifier 2 image link ![Save 50% off on Terrifier 2](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b90e0070-77a0-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-terrifier3-292x118.png)](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_Footer) 
     
-    ### APPLE PAY WEDNESDAY
+    ### Save 50% off on Terrifier 2
     
-    Get $5 off ticket orders made on Wednesday, 10/9 using Apple Pay, for any movie playing on any day! Limited quantity. Terms Apply.
+    Buy a Ticket, Save 50% off on Terrifier 2 to watch at home.
     
-    [LEARN MORE](https://www.fandangomovietickets.com/applepaywednesday?cmp=TARS~FANDANGO~Fandango_footer~applepaywednesday~unbounce)
+    [BUY TICKETS](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_Footer)
     
 * [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
     
