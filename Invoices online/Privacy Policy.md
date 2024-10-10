@@ -118,58 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Shaun Gartshore
+Anri van der Linde
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=31482119)  
-Dr V Naik Consult
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=189439472)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client VA AND M DEBT-AID (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8114&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=34954316)  
-VA AND M DEBT-AID (PTY) LTD
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=111766518)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=124027421)  
-Durbanville Classifieds (Pty) Ltd
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=29068024)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=196254828)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=139532432)  
+Lemba Truck Stop
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=60945476)  
-VIV'S TRUCKS (Pty) Ltd. (651)
-
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=124692578)  
-Konsortium Operations ( Roamfree Meats )
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=202768338)  
-Qothiphango Mining
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=4004150)  
-Baby Toddles Infant Care
-
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=209458001)  
-Camp 4 Africa (Pty) Ltd
-
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=75554203)  
-Frequency Fanatics (Pty) Ltd
-
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=121326111)  
-McKaynine Mobility
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=127510348)  
-MSPCloud (Pty) Ltd
-
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=179014013)  
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=5087698)  
 National Elite Security Services (PTY) LTD
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=202338043)  
-SAUL ATHOL ACRES RENTAL
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=105536041)  
+Itroniq (Pty) Ltd
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=9fa1734f5c185a56792f3347a2ced55cd22e326ffc8bdf48635ca20e4db14531&c=68707749)  
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=100599948)  
+Peter Salvage Pty Ltd
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=96671171)  
+Vplay Letsheng Mall
+
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=77964789)  
+Little Nutty Professors
+
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=64119375)  
+MOSELA GROUP Pty(ltd)
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=207484549)  
+Nogana Events and Decor
+
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=20431641)  
+Digifax (Pty) Ltd trading as Digirent
+
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=82780608)  
+NWET Pty LTD
+
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=191388817)  
+MONSTER CONNECT (PTY) LTD
+
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=ff78fc17eb7051023dd06febcd5d5bd5ed80468028a74820a1354e1baa5ee0d4&c=56134957)  
+Sarabi
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
