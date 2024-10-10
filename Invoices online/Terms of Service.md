@@ -197,57 +197,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Hugo van Sittert
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=181916793)  
-SA Security Brokerz (Pty) Ltd
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=108151347)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=59700962)  
-Entidee Enterprise PTY (ltd)
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=214386245)  
+ARCHITEK PTY LTD
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=203304291)  
-NGB HOLDINGS PTY LTD
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=80944411)  
+Oak Tree Immigration
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=184126859)  
-Abandoned Vehicle and Truck Solutions
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=200418048)  
+Electro-Heat
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=162346856)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=207871721)  
+Eruca (PTY)Ltd
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=203445923)  
-OptaServ
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=21643510)  
+McKaynine Mobility
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=170603055)  
-Blue Bulls Rugby Coaches Association
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=213196814)  
+IYD
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=107462185)  
-Cooper Power South Africa (Pty) LTD
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=94895193)  
+APTV Telecoms CC
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=102390270)  
-TechnoDezi PTY(LTD)
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=18172274)  
+Bchange Online CC
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=82915898)  
-AMS Ambu Medical Supplies
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=90679615)  
+Tagline Brands
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=21778387)  
-All Trucking Solutions
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=183146832)  
+Little Nutty Professors
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=110530428)  
-Moving Made Easy (PTY) Ltd
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=27204050)  
+Goju-Ryu Pretoria East
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=50830207)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=184240910)  
+Kainos (Pty) Ltd
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=127479065)  
-Highlands Auto Engineering
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=114476568)  
+NIMAWELL
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=5e98c713709f182305f2e600f2ccd7204c9a633b3011608de0e794edaa0ca7e6&c=136818894)  
-Redlum Group (Pty) Ltd
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=c49c8e32907ec5be932d1f8f5e0d386122df0fe46a6d0d3aca1fff54cfdd0ace&c=75730545)  
+National Elite Security Services (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
