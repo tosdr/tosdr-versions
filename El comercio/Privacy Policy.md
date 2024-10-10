@@ -31,6 +31,688 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Barrios de Quito con cortes de agua este jueves 10 de octubre
+=============================================================
+
+La Epmaps detalló los sectores y los horarios en los que se suspenderá el servicio de agua potable.
+---------------------------------------------------------------------------------------------------
+
+![Los cortes de agua en Quito se deben a la crisis hídrica que enfrenta el país](https://www.elcomercio.com/wp-content/uploads/2024/10/agua-q.jpg)
+
+La Empresa Metropolitana de Agua Potable y Saneamiento de Quito (**Epmaps**) socializó el cronograma de cortes de agua para este **jueves 10 de octubre** de 2024.
+
+Los cortes se realizan con el objetivo de distribuir de una forma más equitativa el agua en la capital, en medio de la **crisis hídrica** que enfrenta Quito y el país.
+
+### Más noticias
+
+* [¿Habrá cortes de luz durante el partido de la Selección de Ecuador?](https://www.elcomercio.com/actualidad/ecuador/cronograma-cortes-luz-partido-seleccion.html "¿Habrá cortes de luz durante el partido de la Selección de Ecuador?")
+* [Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-consulte-aqui-los-horarios-con-la-herramienta-de-ia-de-el-comercio.html "Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO")
+* [¿Cómo sigue Marco Angulo, jugador de Liga de Quito, tras siniestro de tránsito?](https://www.elcomercio.com/deportes/futbol/como-sigue-marco-angulo-jugador-liga-de-quito-siniestro-transito.html "¿Cómo sigue Marco Angulo, jugador de Liga de Quito, tras siniestro de tránsito?")
+
+La suspensión afectará a los barrios que son abastecidos por la Planta de Tratamiento de Agua Potable de **Puengasí**, en el centro y sur de Quito.
+
+Barrios con cortes de agua programados
+--------------------------------------
+
+### Grupo 1
+
+Estos barrios no tendrán servicio de agua potable desde las **19:00** del jueves a las **07:00** del viernes:
+
+* Germán Ávila
+* San Agustín
+* Los Andes
+* Chimbacalle
+* México
+* Pío XII
+* El Camal
+* Doscientas Casas
+* San Bartolo
+* Eplicachima
+* Argelia Intermedia
+* El Recreo
+* Clemencia
+* Ferroviaria Baja
+* Clemente Ballén
+* Teniente Hugo Ortíz
+* El Calzado
+* 1 de Mayo
+* Barrionuevo
+* Los Arrayanes
+* Atahualpa
+* La Magdalena
+* El Corazón
+
+### Grupo 2
+
+Los siguientes barrios tendrán la interrupción del servicio de agua potable de **07:00** a **19:00**:
+
+* Miravalle
+* Edén del Valle
+* San Francisco
+* Puengasí Bajo
+* Las Mallas
+* Lupero
+* Monjas Medio
+* Monjas a Donoso
+* San José de Monjas
+* San Francisco
+* Forestal Alto
+* San Patricio
+* Santa Faz de Conocoto
+* Puertas al Sol
+* Valle del Sur
+* Autopista General Rumiñahui (hasta puente 3)
+* 28 de Noviembre
+* Lomas de Puengasí
+* 1 de Mayo
+* Monjas
+* Simón Bolívar
+* Madrigal
+* Mariano Hinojosa
+* Los Álamos
+* Los Laureles
+* Vista Hermosa
+* Poder Judicial
+* Santo Domingo de Conocoto
+* San José de Oleas
+
+> 📅 [#CalendarioDeRacionamiento](https://twitter.com/hashtag/CalendarioDeRacionamiento?src=hash&ref_src=twsrc%5Etfw) | Debido a los días consecutivos de falta de lluvias y las altas temperaturas, se implementará el calendario temporal de racionamiento para las zonas centro y sur abastecido por la Planta de Tratamiento de Agua Potable Puengasí, que rige desde las… [pic.twitter.com/mRqpGsiDvc](https://t.co/mRqpGsiDvc)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [October 1, 2024](https://twitter.com/aguadequito/status/1841112843158003742?ref_src=twsrc%5Etfw)
+
+Otros cortes de agua en Quito
+-----------------------------
+
+Además de este cronograma, otras **parroquias** del norte, centro y sur de la ciudad tendrán cortes con horarios esporádicos este jueves. Los sectores son:
+
+* Cochapamba
+* Nayón
+* Conocoto
+* Chilibulo
+* Itchimbía
+* La Mena
+* Puengasí
+* La Argelia
+* La Ferroviaria
+* Alangasí
+* Chillogallo
+* La Ecuatoriana
+* San Juan
+* Belisario Quevedo
+* Turubamba
+* Rumipamba
+
+Para conocer la programación de cortes en los barrios y horarios de estas parroquias puedes visitar la página oficial de la [Epmaps](https://www.aguaquito.gob.ec/cortes-electricos-octubre/ "https://www.aguaquito.gob.ec/cortes-electricos-octubre/").
+
+El aprendizaje del no-ego
+=========================
+
+Las religiones del mundo buscan respuestas en los fenómenos de la naturaleza, y en los conflictos causados por la condición humana.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+
+La tendencia parece obvia. **El punto de partida es el reconocimiento del egoísmo como panacea del mundo.** Y junto al egoísmo coexisten otros signos del individualismo: la codicia, el interés personal, la competencia, la desigualdad, la injusticia y numerosas pobrezas humanas.
+
+En esta columna han desfilado, a su turno, referencias a filósofos, científicos, artistas, literatos, profesores y personas del estado llano que, bajo diferentes puntos de vista, **coindicen en el denominado culto al ego** que preside, supuestamente, el progreso humano. **Y también, quienes, en posiciones divergentes**, predican y practican el bien común, la justicia, la defensa de la vida y la promoción de los valores humanos.
+
+Estos paradigmas -nos guste o no- están vigentes. **La lucha eterna entre el bien y el mal se alimenta, imperceptiblemente, de signos y comportamientos en todos los órdenes de la vida**, y también en los sistemas de pensamiento que se reproducen en las aulas, en las familias y en los ámbitos económicos, políticos, sociales, culturales y ambientales. **¡El reinado del egocentrismo es real!**
+
+Si el modelo de reproducción del modelo de pensar y sentir está inmerso en las mentes y corazones de las personas, **¿dónde se aprende el no-ego? No parece una pregunta atrabiliaria.** Veamos por qué.
+
+**Las religiones del mundo buscan respuestas en los fenómenos de la naturaleza, y en los conflictos causados por la condición humana. Y han nacido doctrinas, mandamientos y rituales.** Pese a ello, el ego se ha instalado en todas las culturas donde la violencia y no la paz; la concentración de poder y no la distribución de la riqueza; el progreso ilimitado y no la aplicación de ideales de justicia, el amor y la solidaridad… han confrontado y confrontan a los pueblos y a los Estados. **¡Una prueba es la existencia del llamado Primer Mundo y el Tercer Mundo, con características denigrantes!**
+
+Esta dialéctica es fruto de la civilización centrada en el ego, que parece no tener fin, o que seguirá mientras la humanidad no encuentre otros destinos. **Teilhard de Chardin, filósofo, autor del libro “El fenómeno humano” planteó la necesidad de construir una utopía -la “civilización del amor”-, como la cúspide de la evolución cultural.** ¿Será posible?  **¿Dónde y cuándo aprenderemos el no-ego; es decir, el nosotros?**
+
+Cartas a Quito / 10 de octubre de 2024
+======================================
+
+Estas son las cartas a Quito de este jueves 10 de octubre de 2024
+-----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Bioeconomía Amazónica: un camino imprescindible para el desarrollo sostenible
+-----------------------------------------------------------------------------
+
+La Amazonía se encuentra en un momento crítico. A pesar de su abundante biodiversidad, su riqueza cultural y su incalculable valor ambiental, enfrenta serias amenazas que ponen en riesgo su futuro y el de las comunidades que dependen de ella. Los altos índices de pobreza, la desigualdad y los desafíos ambientales comprometen el progreso de sus habitantes y su capacidad para acceder a alimentos seguros y nutritivos.
+
+Este vasto territorio, que abarca Bolivia, Brasil, Colombia, Ecuador, Guyana, Perú, Surinam y Venezuela, no es solo una fuente de recursos naturales, sino también el hogar de 50 millones de personas y más de 400 pueblos indígenas y diversas comunidades tradicionales.
+
+Las soluciones para los retos de la Amazonía no solo deben llegar desde el exterior, sino que, fundamentalmente, deben nacer del corazón mismo de las comunidades. Son ellas quienes poseen el conocimiento local y la fuerza para proponer acciones hacia un futuro sostenible.
+
+Aquí es donde cobra relevancia el concepto de la bioeconomía amazónica, que plantea aprovechar de forma sostenible e inclusiva los recursos naturales de la región, beneficiando a las poblaciones locales. Aunque es una propuesta prometedora, el camino incluye diversos desafíos. Los riesgos climáticos, la deforestación y las desigualdades agravan las dificultades para establecer un modelo económico que funcione tanto para las personas como para la naturaleza.
+
+No podemos permitir la continuidad de modelos de negocio que sacrifiquen la biodiversidad y los recursos naturales, pues, inevitablemente, estaremos frente a un colapso irreversible. Por ello, es crucial promover mecanismos que permitan generar un desarrollo económico sostenible, mejorando el acceso a alimentos, incrementando ingresos, creando empleo y elevando las condiciones de vida.
+
+El evento de los “Diálogos Amazónicos”, organizado por la FAO y el Gobierno de Brasil hace un año en Belém, abrió la puerta para que múltiples sectores – academia, sociedad civil, sector público, sector privado, pueblos indígenas – discutieran cómo abordar este desafío.
+
+Como resultado, ocho países firmaron la Declaración de Belém, con 113 objetivos para avanzar hacia el desarrollo sostenible de la región. La conclusión fue clara: la bioeconomía puede ser un pilar fundamental, pero requiere un enfoque integral y multisectorial.
+
+La FAO, junto con la Organización del Tratado de Cooperación Amazónica (OTCA), continúa trabajando para garantizar la seguridad alimentaria y nutricional, reducir la pobreza y fortalecer cadenas de valor sostenibles en la región, a través de acciones orientadas a mejorar la productividad, generar bienes públicos e impulsar la bioeconomía, brindando perspectivas de un futuro mejor.
+
+Por medio de la iniciativa **Mano de la Mano**, la FAO impulsa un programa de inversiones con tres componentes: fortalecer los bienes públicos y la formulación de políticas; garantizar el acceso a servicios digitales y la conectividad; y desarrollar cadenas de valor sostenibles, especialmente en la gestión de las cuencas hídricas y los recursos pesqueros.
+
+La bioeconomía amazónica no es solo un modelo económico; es una oportunidad para reforzar nuestra relación con la naturaleza, reconociendo a la Amazonía como un patrimonio que debemos proteger y valorar.
+
+Avanzar en este camino requiere un enfoque intersectorial con la participación de comunidades, gobiernos, sector privado y financiero, y la academia.
+
+Debemos mantenernos activos en los foros y espacios de diálogo, como el **Foro Mundial de Inversiones 2024**, que se celebrará del 15 al 17 de octubre en Roma, Italia, donde los países presentarán sus programas de inversión ante entidades financieras, públicas y privadas, interesadas en apoyar el desarrollo de diferentes cadenas de valor.
+
+Este es un esfuerzo colectivo. Juntos, podemos lograr una transformación inclusiva en el bioma amazónico, protegiendo su biodiversidad y creando sistemas agroalimentarios más eficientes, inclusivos, resilientes y sostenibles, sin dejar a nadie atrás.
+
+_**Mario Lubetkin, Subdirector General y Representante Regional de FAO para América Latina y el Caribe.**_
+
+Crisis agrícola y ganadera en Ecuador requiere acciones
+=======================================================
+
+Es esencial implementar soluciones sostenibles y adaptativas en los sectores agrícolas y ganaderos.
+---------------------------------------------------------------------------------------------------
+
+![Imagen creada en Adobe Firefly con el prompt: Ilustración de granjeros ecuatorianos pastando con las vacas en suelo seco.](https://www.elcomercio.com/wp-content/uploads/2024/10/Imagen-Editorial-agro.jpg)
+
+Los productores agrícolas y ganaderos de Ecuador enfrentan momentos críticos. Acaban de afrontar una [sequía prolongada](http://asis.agricultura.gob.ec/mapas/ "http://asis.agricultura.gob.ec/mapas/"), acompañada de fuertes vientos, heladas en las madrugadas y alta radiación solar.
+
+Aunque las lluvias desde fines de septiembre de este 2024 ofrecen cierto alivio, el sector arrastra problemas históricos. Sorprendentemente, solo el 20% de la producción de [pasto](https://www.elcomercio.com/actualidad/negocios/en-ecuador-la-crisis-del-pasto-afecto-la-produccion-de-leche-de-pequenos-ganaderos.html "https://www.elcomercio.com/actualidad/negocios/en-ecuador-la-crisis-del-pasto-afecto-la-produccion-de-leche-de-pequenos-ganaderos.html") cuenta con riego en los valles. En las colinas y montañas se mantiene la dependencia de las lluvias. El pasto es fundamental, ya que es el alimento más rentable para las vacas productoras de leche.
+
+> **Solo por la sequía, el Ministerio de Agricultura contabilizó 45 220 hectáreas afectadas con pérdidas parciales y totales por 2,2 millones de dólares. Esto incluye a los sectores agrícolas, forestal y pecuario.**
+
+Los pequeños productores sufren aún más debido a los cortes de luz, que desde ayer vuelven a 10 horas diarias en distintas franjas horarias. Para recuperar sus tierras necesitan bombear agua mediante electricidad o con diésel, sobre todo en partes altas, que están más cerca al sol.
+
+La sostenibilidad del agro y la ganadería es esencial. No solo debe [sustentar a los productores](https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html "https://www.elcomercio.com/actualidad/ecuador/sequia-e-incendios-en-ecuador-impactan-al-sector-agropecuario-cuanto-suman-las-perdidas.html") y sus familias, sino también garantizar la seguridad alimentaria a nivel local y nacional.
+
+Debido a los constantes cambios de clima, plagas, falta de capital, entre otros factores, hay productores que cambian de cultivos. Pero también abandonan la actividad.
+
+> **Ante las limitadas reservas petroleras del país y tomando en cuenta que los ecuatorianos decidieron mantener el crudo del Yasuní bajo tierra, impulsar la agroindustria y la ganadería debiera priorizarse.**
+
+Para lograr esto se necesitan implementar soluciones comprobadas. Para dar algunos ejemplos están las tecnologías avanzadas de riego que optimizan el uso del agua. Esto se aplica en varios países.
+
+En Brasil se han adoptado sistemas de agroforestería. Este enfoque combina cultivos con árboles. Así se mejora la biodiversidad y se retiene la humedad en el suelo. Además, se mitiga los efectos del cambio climático.
+
+Es fundamental promover la capacitación técnica para los pequeños productores. Pero deben entender la necesidad de adaptarse a los cambios climáticos. Además, la política de financiamiento agrícola debe ser clara y sostenida. Este sector requiere constantes reinversiones, y para ello se requiere capital fresco y tasas de interés más bajas. Las prácticas agrícolas innovadoras deberían contar con incentivos fiscales.
+
+Las experiencias exitosas demuestran que es posible garantizar un futuro más seguro y sostenible para la agricultura y ganadería ecuatoriana.  
+  
+La sequía prolongada ha llevado a muchos a cambiar de cultivos o, lo que es peor, abandonar la actividad. Ante las limitadas reservas petroleras del país, es crucial impulsar la agroindustria y la ganadería. Para lograrlo, necesitamos implementar soluciones comprobadas, como tecnologías avanzadas de riego que optimicen el uso del agua.
+
+Estos ejemplos demuestran que es posible garantizar un futuro más seguro y sostenible para la agricultura y ganadería ecuatoriana. Para que esto sea una realidad se requiere que el sector privado y público tengan una sola visión y desempeñen un trabajo coordinado con asistencia internacional.
+
+¿Habrá cortes de luz durante el partido de la Selección de Ecuador?
+===================================================================
+
+El partido por eliminatorias entre Ecuador y Paraguay se disputará a las 16:00 de este jueves 10 de octubre.
+------------------------------------------------------------------------------------------------------------
+
+![Los cortes programados en Ecuador se extienden hasta 10 horas diarias](https://www.elcomercio.com/wp-content/uploads/2024/10/cortes-luz-seleccion.jpg)
+
+El Ministerio de Energía y Minas informó que parte del cronograma de **cortes de luz** de este jueves 10 de octubre de 2024 se suspende.
+
+La cartera de Estado detalló que los racionamientos de la franja de **16:00 a 19:00** no se ejecutarán, para que los aficionados al fútbol tengan la posibilidad de ver el partido de la **Selección de Ecuador**.
+
+### Más noticias
+
+* [Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-consulte-aqui-los-horarios-con-la-herramienta-de-ia-de-el-comercio.html "Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO")
+* [Los cortes de luz se programan en cada región](https://www.elcomercio.com/actualidad/ecuador/donde-ver-los-horarios-de-cortes-de-luz-en-ecuador.html "Los cortes de luz se programan en cada región")
+* [Cortes de luz se mantendrán en 10 horas durante el feriado en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-feriado-se-mantendran-10-horas-ecuador.html "Cortes de luz se mantendrán en 10 horas durante el feriado en Ecuador")
+
+El cotejo entre Ecuador y Paraguay está programado para realizarse de **16:00** a **18:00**; sin embargo, el Gobierno añadió una **hora adicional** por cualquier eventualidad.
+
+Los demás bloques de **apagones programados** se mantendrán según lo previsto por las nueve empresas eléctricas que operan en el país.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/image-11.png)
+
+Comunicado fue borrado
+----------------------
+
+Esta información fue compartida por las redes sociales oficiales del Ministerio de Energía, la noche de este miércoles 9 de octubre, sin embargo, fue borrada una hora después.
+
+El error comunicacional por parte de la entidad causó **confusión en la ciudadanía**, quienes a través de redes sociales se mostraron con dudas sobre si existirán o no apagones durante el cotejo.
+
+Hasta el cierre de esta nota, 00:00, el Gobierno **no se ha vuelto a pronunciar**.
+
+Ecuador vs. Paraguay
+--------------------
+
+El partido por las eliminatorias al Mundial 2026 se disputará en el Estadio Rodrigo Paz Delgado, en el norte de Quito.
+
+Este cotejo es parte de la novena fecha. La Tri se ubica de momento en el **cuarto casillero** de la clasificación con 11 puntos.
+
+La Selección de Ecuador, dirigida por **Sebastián Beccacecce**, busca un resultado positivo para fortalecer su posición en la tabla.
+
+A la próxima Copa del Mundo, que se celebrará en México, Estados Unidos y Canadá, clasifican **48 equipos**, 46 con plazas directos y 6 en repesca
+
+Conmebol tiene asignado espacio directo para **seis selecciones** y un séptimo para un combinado que irá al repechaje.
+
+Esta es la primera vez que se aplicará este formato, remplazando al último que daba cupos para 32 selecciones.  
+
+Daniel Noboa y Verónica Abad, una cronología de sus inconvenientes
+==================================================================
+
+Daniel Noboa y Verónica Abad han tenido varios problemas desde el inicio de sus periodos como Presidente y Vicepresidenta.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Verónica Abad y Daniel Noboa en su posesión en la Asamblea Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/10/noboa-abad-asamblea.jpg)
+
+El presidente de Ecuador, **Daniel Noboa**, y su vicepresidenta, **Verónica Abad**, muestran un distanciamiento evidente desde que **asumieron sus cargos**.
+
+Esto se agravó luego de que **voceros de la Presidencia** mencionaran que no quiere que Verónica Abad asuma el cargo cuando Noboa entre a campaña por las **elecciones en 2025**.
+
+### Más noticias
+
+* [Daniel Noboa se refirió al caso Yuliano Salazar](https://www.elcomercio.com/actualidad/politica/daniel-noboa-se-refirio-caso-yuliano-salazar.html "Daniel Noboa se refirió al caso Yuliano Salazar")
+* [El motivo por el que Verónica Abad sigue en Tel Aviv, según Vicepresidencia](https://www.elcomercio.com/actualidad/politica/veronica-abad-sigue-tel-aviv.html "El motivo por el que Verónica Abad sigue en Tel Aviv, según Vicepresidencia")
+* [TCE responde a Verónica Abad sobre su denuncia contra Daniel Noboa y otros](https://www.elcomercio.com/actualidad/politica/tce-responde-veronica-abad-denuncia-contra-daniel-noboa.html "TCE responde a Verónica Abad sobre su denuncia contra Daniel Noboa y otros")
+
+Las tensiones entre ambos escalaron a tal punto que Noboa envió a Abad como **embajadora a Israel**, lo que muchos interpretan como una **medida para mantenerla alejada de la política nacional**.​
+
+Estas discrepancias se han intensificado con el tiempo, especialmente con la **proximidad de las elecciones de 2025**, en las que Noboa buscará la reelección​.
+
+La situación se complicó aún más cuando Abad acusó al presidente de **hostigamiento y maltrato**. Declaró que es víctima de **decretos inconstitucionales y una campaña de persecución política**.
+
+Estas acusaciones se hicieron públicas en varias entrevistas donde Abad expresó su descontento con la manera en que fue tratada y la **presión para que renuncie a su cargo**​.
+
+Además, Abad mencionó que la detención de su hijo, **Francisco Barreiro**, bajo sospecha de tráfico de influencias, es parte del hostigamiento que denuncia.
+
+El futuro político de Ecuador se encuentra en un **momento de incertidumbre**. Según la ley, cuando Daniel Noboa decida entrar en campaña electoral, deberá **ceder el poder temporalmente a Abad**.
+
+Sin embargo, la actual crisis entre ambos plantea serias dudas sobre la **estabilidad y la gobernabilidad** del país durante este periodo de transición.
+
+Primeros pasos para evitar que Abad llegue a la Presidencia
+-----------------------------------------------------------
+
+### TCE archivó la causa para impulsar el juicio contra Verónica Abad
+
+Un vocal del Cpccs de Ecuador anunció el 15 de mayo de 2024 que impulsará un juicio en el **Tribunal Contencioso Electoral contra Verónica Abad**.
+
+**Juan Esteban Guarderas**, integrante del Cpccs, indicó que el jueves 16 de mayo presentó la denuncia ante el TCE.
+
+> 🔴 COMUNICADO OFICIAL [pic.twitter.com/lvrKz4e2i0](https://t.co/lvrKz4e2i0)
+> 
+> — Juan E. Guarderas (@JuanEGuarderas) [June 19, 2024](https://twitter.com/JuanEGuarderas/status/1803226532204220846?ref_src=twsrc%5Etfw)
+
+El 17 de junio, el **Tribunal Contencioso Electoral (TCE)** archivó la denuncia presentada en contra de la vicepresidenta Verónica Abad, por presunta **infracción electoral grave**. En un escrito firmado por el juez del TCE, Fernando Muñoz, se dispone el archivo de esta causa, en primera instancia.
+
+Asamblea Nacional se opuso al inicio del juicio penal contra Verónica Abad
+--------------------------------------------------------------------------
+
+A través de un video en la cuenta oficial de la Fiscalía anunció el 10 de junio de 2024 que Verónica Abad fue vinculada al caso Nene.
+
+La Fiscalía informó que el caso va a la **Unidad de Fuero** de esa entidad. Esta entidad realiza instrucciones fiscales para funcionarios con fuero de corte, tales como Presidente y Vicepresidente de la República.
+
+**Daniella Camacho**, jueza de la CNJ, remitió el pedido el pasado 12 de junio de 2024. En el documento señaló que, a fin de garantizar el debido proceso, “solicítese a la **Asamblea Nacional** la autorización para el enjuiciamiento penal de la ciudadana **María Verónica Abad Rojas**“. Ella está presuntamente relacionada con el caso Nene.
+
+En el documento firmado por la jueza Daniella Camacho se especificó que, tomando en cuenta el pedido realizado por la fiscal general del Estado, **Diana Salazar**, y mientras la Asamblea Nacional resuelve la situación jurídica de Verónica Abad, se darán otros pasos en el caso.
+
+> [#Urgente](https://twitter.com/hashtag/Urgente?src=hash&ref_src=twsrc%5Etfw) 🔊  
+> La solicitud de enjuiciamiento penal a la ciudadana María Verónica Abad Rojas [@veroniabad](https://twitter.com/veroniabad?ref_src=twsrc%5Etfw) , vicepresidenta de la República del Ecuador, fue negada por el Pleno de la Asamblea Nacional. [#AsambleaInforma](https://twitter.com/hashtag/AsambleaInforma?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/BjPvA1hjyb](https://t.co/BjPvA1hjyb)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [June 14, 2024](https://twitter.com/AsambleaEcuador/status/1801721083604963616?ref_src=twsrc%5Etfw)
+
+El Pleno de la Asamblea decidió sobre la **autorización de juicio penal** por el delito de concusión contra la vicepresidenta de la República, Verónica Abad, el 14 de junio, en modalidad virtual.
+
+La moción **no fue aprobada en el Pleno de la Asamblea**. La votación se distribuyó así: 41 votos fueron afirmativos de ADN, 74 negativos de RC, PSC Y Pk; y 18 abstenciones. Construye votó dividido.
+
+La Asamblea necesitaba de una mayoría calificada, es decir, **92 votos a favor**, para aprobar la autorización de juicio político contra la vicepresidenta, Verónica Abad.
+
+Procuraduría se abstuvo de decidir sobre la licencia de Daniel Noboa para las elecciones de 2025
+------------------------------------------------------------------------------------------------
+
+El jueves 20 de junio, la **Procuraduría General del Estado**, dirigida por Juan Carlos Larrea. En esta decidió no emitir una respuesta a la consulta sobre si el presidente **Daniel Noboa**. Con relación a si puede tomar licencia para participar en la **campaña electoral de 2025**.
+
+La Procuraduría mencionó que carece de **competencia para interpreta**r sentencias de la **CC** y no puede intervenir en las competencias del **CNE**.
+
+“En definitiva, la Procuraduría General del Estado no puede pronunciarse sobre la consulta planteada. Esto se debe a la falta de competencia según las **disposiciones constitucionales, legales y sentencias de la CC**, así como a la necesidad de evitar una **posible intromisión** en las competencias de los órganos de la Función Electoral”, se lee en el documento firmado por Larrea.
+
+Denuncia de Verónica Abad por violencia de género a Daniel Noboa
+----------------------------------------------------------------
+
+El 8 de agosto de 2024, **María Verónica Abad Rojas**, vicepresidenta de la República del Ecuador, presentó una denuncia ante el **Tribunal Contencioso Electoral (TCE)**.
+
+La denuncia se realizó mediante un escrito firmado electrónicamente y fue acompañada de sus abogados, **Oswaldo Trujillo Santillán y Jessica Jaramillo Yaguachi**.
+
+Abad acusa al presidente **Daniel Noboa**, al viceministro de Gobierno, **Esteban Torres**, a la canciller Gabriela Somerfield y a la asesora presidencial, **Diana Jácome**, de cometer una infracción electoral grave. La infracción mencionada está tipificada en el **artículo 219 del Código de la Democracia**.
+
+Asignación, análisis y competencia
+----------------------------------
+
+El 13 de agosto de 2024, la causa fue sorteada y asignada al juez **Fernando Muñoz Benítez**, recibiendo el número 152-2024-TCE. El **juez Muñoz** asumió la competencia para conocer y resolver este caso, considerando que se trata de una infracción electoral muy grave.
+
+La causa fue recibida en el despacho el **14 de agosto de 2024**, según la razón asentada por la secretaria relatora del Tribunal.
+
+El Tribunal Contencioso Electoral tiene la competencia para sancionar infracciones electorales como la denunciada, de acuerdo con el **artículo 221 de la Constitución y el artículo 70 del Código de la Democracia**.
+
+La denuncia de Abad fue considerada oportuna, ya que los hechos se habrían producido en noviembre de 2023, dentro del **plazo legal de dos años**. El Tribunal también concluyó que Abad tiene legitimidad activa para presentar la denuncia, dado su cargo de Vicepresidenta y su **condición de electora**.
+
+Requerimientos, sustanciación y notificación
+--------------------------------------------
+
+El juez **Muñoz** solicitó que, en un plazo de dos días, la denunciante aclare los fundamentos de su denuncia y proporcione la dirección exacta para citar a los denunciados. Se recordó la importancia de la precisión en la citación, conforme a los principios de publicidad y contradicción.
+
+La notificación **se realizó tanto a la vicepresidenta Abad** como a sus abogados mediante correos electrónicos proporcionados.
+
+La causa se sustanciará en términos de días hábiles, dado que no está relacionada con un período electoral. Es decir, tendrá que presentar sus fundamentos de la denuncia hasta el día lunes 19 de agosto.
+
+TCE responde a Verónica Abad sobre su denuncia contra Daniel Noboa
+------------------------------------------------------------------
+
+El **Tribunal Contencioso Electoral (TCE)** respondió a la vicepresidenta Verónica Abad sobre su denuncia contra el presidente Daniel Noboa y otros funcionarios.
+
+El 08 de agosto de 2024, la vicepresidenta presentó una denuncia contra Noboa; el viceministro de Gobierno, Esteban Torres; la canciller **Gabriela Sommerfeld**; y la asesora presidencial, Diana Jácome.
+
+El 13 de agosto de 2024, se realizó el sorteo correspondiente y se asignó a la causa el número 152-2024-TCE, radicándose la competencia en e**l doctor Fernando Muñoz Benítez**. La causa se recibió en el despacho el día 14 de agosto de 2024.
+
+Respuesta del TCE a la Vicepresidenta sobre la denuncia contra Daniel Noboa y otros
+-----------------------------------------------------------------------------------
+
+El juez Fernando Muñoz, en su parte resolutiva, dio a Verónica Abad dos días para que cumpla con dos requisitos.
+
+El primero, sobre los fundamentos de la denuncia, Abad deberá, de forma obligatoria, aclarar los **fundamentos de derecho**, como también ampliar la expresión clara y precisa de los agravios que causa los hechos anunciados.
+
+El segundo **requerimiento es que Abad** señale el lugar exacto donde deberá citarse a todos los denunciados, según el caso, señalando en forma precisa los siguientes datos: provincia; ciudad; cantón; calle principal; calle secundaria; número de casa; y, referencia del domicilio.
+
+Daniel Noboa se refirió a la denuncia de Verónica Abad
+------------------------------------------------------
+
+El presidente Daniel Noboa emitió un comunicado oficial este jueves 15 de agosto sobre la denuncia de Verónica Abad. Noboa afirmó que esta acción representa un **intento de apartarlo del poder**. Aseguró que los intereses detrás de la denuncia buscan **impedir su participación en las elecciones presidenciales**.
+
+“Quieren al Presidente de la República fuera del poder, para que ella asuma ese cargo”, dijo Noboa.
+
+Tribunal Contencioso Electoral suspende plazos en causa contra el presidente Noboa
+----------------------------------------------------------------------------------
+
+El **Tribunal Contencioso Electoral (TCE)** suspendió los plazos en la causa número 152-2024-TCE, que involucra al presidente de Ecuador, Daniel Noboa, junto a otros altos funcionarios. Esta suspensión surge a raíz de un incidente de recusación presentado por la abogada **Diana Jácome Silva**, lo que detiene el proceso hasta que se resuelva la validez de dicho recurso.
+
+El caso fue iniciado por una denuncia de la vicepresidenta **Verónica Abad** el 8 de agosto de 2024. En su acusación, señala a Noboa, al exviceministro **Esteban Torres**, la ministra de Relaciones Exteriores Gabriela Sommerfeld, y la asesora presidencial Diana Jácome por presunta **infracción electoral grave**, conforme al artículo 279 del Código de la Democracia, lo que podría conllevar severas sanciones.
+
+El juez F. Muñoz Benítez **admitió el caso el 23 de agosto**, pero la recusación ha detenido el avance del proceso. Además, el Tribunal **negó la participación de terceros interesados** como amicus curiae y rechazó solicitudes de copias del expediente hasta que el caso esté concluido.
+
+Shakira anuncia fecha de estreno del video oficial de Soltera y sus fans ‘enloquecen’
+=====================================================================================
+
+Shakira confirmó el día y la hora del lanzamiento del video oficial de su nuevo sencillo Soltera.
+-------------------------------------------------------------------------------------------------
+
+![Shakira compartió la noticia con sus fans en redes sociales. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo179.jpg)
+
+**Shakira** confirmó el día y la hora del lanzamiento del video oficial de su nuevo sencillo **Soltera**, generando gran expectativa entre sus fans.
+
+### **Más noticias:**
+
+* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
+* [P. Diddy y su controversial vínculo con Justin Bieber se debate en las redes](https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html?source=Internal&ref=Single+Content+Link")
+* [Jennifer Aniston se inspiró en su Clydeo para escribir un libro a favor de los animales](https://www.elcomercio.com/narices-frias/jennifer-aniston-animales-adopciones-bienestar-literatura.html "https://www.elcomercio.com/narices-frias/jennifer-aniston-animales-adopciones-bienestar-literatura.html")
+
+El anuncio lo realizó a través de sus redes sociales, donde compartió un adelanto del video.
+
+**Soltera** es una canción que celebra la independencia y la fuerza de las mujeres, un tema recurrente en la discografía de **Shakira**.
+
+**Expectativa por el anuncio del lanzamiento del video de Soltera**
+-------------------------------------------------------------------
+
+El video, que promete ser un festín visual lleno de energía, fue producido en colaboración con un equipo creativo de renombre.
+
+La producción se realizó en diversas locaciones, capturando la esencia vibrante y multicultural que **Shakira** siempre busca transmitir en su música.
+
+**Fans de Shakira reaccionan al anuncio del lanzamiento**
+---------------------------------------------------------
+
+Los fanáticos de la cantante expresaron su entusiasmo en las redes sociales, compartiendo mensajes de apoyo por el estreno.
+
+> [View this post on Instagram](https://www.instagram.com/reel/DAt7m0-P0u_/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Shakira (@shakira)](https://www.instagram.com/reel/DAt7m0-P0u_/?utm_source=ig_embed&utm_campaign=loading)
+
+Soltera se perfila como otro éxito en la carrera de **Shakira**, quien continúa reinventándose y sorprendiendo a su audiencia con cada nuevo proyecto.
+
+**Shakira anuncia fecha de estreno del video oficial de Soltera**
+-----------------------------------------------------------------
+
+El estreno del **video** está programado para el viernes 11 de octubre a las 13:00, hora de Ecuador.
+
+**Soltera** fue recibida con entusiasmo tanto por el público como por la crítica. La canción, descrita como un himno femenino contagioso, incorpora influencias de afrobeats.
+
+También cuenta con cameos de figuras reconocidas como Winnie Harlow, Anitta, Danna Paola y Lele Pons.
+
+Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo
+===============================================================================================
+
+El informe de Unicef sobre violencia sexual contra niñas y adolescentes se hace público previo al Día Internacional de la Niña.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Unicef difundió un alarmante informe sobre violencia sexual contra niñas y adolescentes.](https://www.elcomercio.com/wp-content/uploads/2021/11/secretos-familiares.jpg)
+
+El Fondo de las Naciones Unidas para la Infancia (**Unicef**) difundió un alarmante informe sobre **violencia sexual** contra **niñas y adolescentes** en el mundo, este miércoles 9 de octubre de 2024.
+
+Estas primeras estimaciones de la violencia sexual contra la infancia a escala mundial y regional se publican con anterioridad al **Día Internacional de la Niña**.
+
+### Más noticias:
+
+* [La deserción escolar en Ecuador es una problemática rodeada de riesgos](https://www.elcomercio.com/actualidad/ecuador/desercion-escolar-ecuador-problematica-rodeada-riesgos.html "La deserción escolar en Ecuador es una problemática rodeada de riesgos")
+* [Suben a 120 las acusaciones de abuso sexual contra P. Diddy](https://www.elcomercio.com/tendencias/trending/sean-combs-p-diddy-trafico-sexual.html "Suben a 120 las acusaciones de abuso sexual contra P. Diddy")
+
+Informe de Unicef sobre violencia sexual contra niñas y adolescentes
+--------------------------------------------------------------------
+
+Según Unicef, más de **370 millones de niñas y mujeres vivas en la actualidad**, es decir, una de cada ocho, han sufrido **violaciones o abusos sexuales antes de los 18 años**.
+
+Cuando en estos cálculos se incluyen, además, formas de violencia sexual sin contacto físico, como el abuso verbal o en línea, la cifra de niñas y mujeres afectadas en todo el mundo se eleva hasta los 650 millones, es decir, una de cada cinco.
+
+Este hecho subraya la urgente necesidad de adoptar estrategias integrales de prevención y apoyo para hacer frente de forma eficaz a toda forma de violencia y abuso, indicó la organización.
+
+“La violencia sexual contra la infancia es una mancha en nuestra conciencia moral”, informó la directora ejecutiva de Unicef, **Catherine Russell**.
+
+“Esta violencia inflige traumas profundos y duraderos, a menudo causados por personas que los niños y las niñas conocen y en quienes confían, y en lugares donde deberían sentirse seguros”, agregó.
+
+Según muestran los datos, la violencia sexual contra la infancia está muy extendida y traspasa las fronteras geográficas, culturales y económicas.
+
+El mayor número de víctimas se registra en **África Subsahariana**, con 79 millones de niñas y mujeres afectadas (22%).
+
+Le siguen **Asia Oriental y Sudoriental** con 75 millones (8%), **Asia Central y Meridional con 73 millones (9%).**
+
+**Europa y América del Norte** con 68 millones (14%), **América Latina y el Caribe** con 45 millones (18%).
+
+**Norte de África y Asia Occidental** con 29 millones (15%) y **Oceanía** con 6 millones de víctimas (34%).
+
+El informe de Unicef sobre violencia sexual contra niñas y adolescentes señala los parámetros de mayor vulnerabilidad
+---------------------------------------------------------------------------------------------------------------------
+
+En los **entornos frágiles** y con instituciones débiles, como situaciones de refugio o desplazamiento, las niñas corren un riesgo aún mayor.
+
+En estos casos, la incidencia de las violaciones y los abusos sexuales durante la infancia se sitúa ligeramente por encima de 1 de cada 4 casos.
+
+“Estamos asistiendo a horribles actos de violencia sexual en zonas de conflicto, donde la violación y la violencia de género se utilizan a menudo como armas de guerra”, afirmó Russell.
+
+Según los datos, la mayoría de los casos de violencia sexual en la infancia se producen durante la adolescencia, con un repunte significativo entre **los 14 y los 17 años**.
+
+Los estudios muestran que los niños y niñas que sufren violencia sexual son más proclives a padecer abusos repetidos.
+
+En este sentido, la implementación de intervenciones específicas durante la adolescencia es crucial para romper este círculo y mitigar las consecuencias a largo plazo de esos traumas, señala Unicef.
+
+Las supervivientes suelen arrastrar el trauma del abuso sexual hasta la edad adulta y corren mayores riesgos.
+
+Los datos muestran también que las consecuencias se agravan aún más cuando los niños y las niñas retrasan el momento de revelar sus experiencias de abuso sexual.
+
+Aunque las niñas y las mujeres son las más afectadas y sus experiencias están mejor documentadas, los datos muestran que los niños varones y los hombres también son víctimas de abusos.
+
+Se calcula que entre **240 y 310 millones de niños y hombres** –aproximadamente 1 de cada 11– han sufrido violaciones o abusos sexuales durante la infancia.
+
+Esta estimación se eleva a entre 410 y 530 millones si se incluyen formas de abuso sin contacto físico.
+
+Gustavo Alfaro destacó a Álex Arce para enfrentar a la Selección de Ecuador
+===========================================================================
+
+Paraguay enfrentará a la Selección de Ecuador con Álex Arce, máximo goleador de la Liga Pro y jugador de Liga de Quito.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Álex Arce, delantero de Liga de Quito, durante un partido de la Selección de Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/Snapinsta.app_459052613_18336213196132762_7812796985319960998_n_1080.jpg)
+
+**Gustavo Alfaro**, DT de Paraguay, aseguró que en el partido contra Ecuador, correspondiente a la novena fecha de las eliminatorias sudamericanas de clasificación para el Mundial de 2026, su equipo saldrá a proponer. Para ello, el estratega contará con **Álex Arce**, delantero de Liga de Quito, como opción.
+
+“**Si nosotros no tenemos la capacidad de la tenencia de la pelota, nos va a costar, porque si venimos a la altura de Quito, y lo que hacemos es defendernos, nos va a costar el partido, y vamos a terminar aguantando y lo más probable es que se pierda (el encuentro)**“, dijo Alfaro en la rueda de prensa previa al partido.
+
+### Más noticias:
+
+* [(Video) Gustavo Alfaro rompe en llanto antes de jugar frente a la Selección de Ecuador](https://www.elcomercio.com/deportes/gustavo-alfaro-seleccion-ecuador-paraguay-llanto.html "(Video) Gustavo Alfaro rompe en llanto antes de jugar frente a la Selección de Ecuador")
+* [La Selección de Ecuador dobla el valor de mercado de Paraguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-valor-mercado-eliminatorias.html "La Selección de Ecuador dobla el valor de mercado de Paraguay")
+* [Sebastián Beccacece niega ventajas de la altura para Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-altura-paraguay.html "Sebastián Beccacece niega ventajas de la altura para Ecuador")
+
+El exseleccionador de Ecuador, que llevó a la Tri a jugar el **Mundial de Qatar 2022**, insistió en que Paraguay no puede salir a aguantar el partido. “Debemos tener la pelota, movernos, tener y encontrar la línea de pases, encontrar jugadores y tratar de saber cómo **romper esas presiones** que las hace muy bien Ecuador”, comentó.
+
+Sin embargo, el técnico argentino aseguró que “E**cuador ya no es un equipo de altura, pero Ecuador tiene experiencia de jugar en Quito**, aunque le cuesta porque la mayoría de sus jugadores llegan de afuera, donde no hay los efectos de la altura”.
+
+Gustavo Alfaro es consciente de la valía de la Selección de Ecuador
+-------------------------------------------------------------------
+
+Alfaro advirtió a sus jugadores de la complejidad de los dos próximos partidos, “una complejidad diferente a los que disputó contra Uruguay y Brasil”. “**Si nos quedamos con lo hecho en esos dos partidos, no nos alcanza, nos equivocaremos**“, indicó.
+
+El seleccionador del combinado guaraní reiteró que si, tras haber empatado con Uruguay y haber ganado a Brasil, se mira a **Ecuador y Venezuela** como rivales menores a los enfrentados, los llevará a chocarse con una mentira.
+
+Alfaro también remarcó que “l**a eliminatoria (para el Mundial) más compleja en la faz de la tierra es la de la Conmebol** (Confederación Sudamericana de Fútbol), porque se enfrentan a buenos equipos, se enfrenta a complejidades de jugar en la altura, en el calor, contra campeones del mundo… por lo que cada historia, es una complejidad distinta”[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
+
+Para el entrenador, lo que necesita Paraguay en esta fecha FIFA es “agregarle más capacidad de tenencia de pelota, porque sino, **el partido es de Ecuador y lo vamos a sufrir**, y el partido contra Venezuela, nos va a costar quebrar”.
+
+Álex Arce de Liga de Quito, el as bajo la manga ante la Tri
+-----------------------------------------------------------
+
+El técnico valoró que el ariete **Álex Arce** esté en las filas de Liga Deportiva Universitaria de Quito, “**porque sabe perfectamente las cosas que se tienen que hacer, está pasando un buen momento**“.
+
+“Hoy le digo a los jugadores de Paraguay que yo no puedo cambiar la idiosincrasia de un país, pero sí **recuperar el ADN del fútbol paraguay**o, que lo identificó a lo largo de su historia y la hizo una de las selecciones más difíciles de Sudamérica”, dijo Alfaro sobre el buen momento del combinado guaraní.
+
+Asimismo, Alfaro aseguró que ha tomado un sinnúmero de cosas buenas que dejaron en el equipo los anteriores seleccionadores. “**Las he tomado para darle mi empujoncito para que el equipo tenga la respuesta que tuvo en las dos recientes fechas**“, añadió.
+
+“Esta Selección de Paraguay, de la misma manera que tiene un montón de cosas buenas de los anteriores entrenadores, ahora tiene algunas cosas de las mías. Igual pasa con la **Selección de Ecuador**, que ahora tiene cosas de los nuevos entrenadores”, concluyó Alfaro.
+
+Sector turístico espera reactivación durante el feriado
+=======================================================
+
+Las Cámaras de Turismo prevén que el sector se beneficie con 80 millones de dólares durante los tres días de asueto.
+--------------------------------------------------------------------------------------------------------------------
+
+![Guayaquil celebra sus fiestas por los 204 años de independencia](https://www.elcomercio.com/wp-content/uploads/2024/10/viajeros.jpg)
+
+**Guayaquil** se prepara para recibir a los turistas que visitarán la ciudad en sus fechas de independencia.
+
+La capital de Guayas cumplió **204 años** de su liberación del imperio español, este miércoles 9 de octubre de 2024, sin embargo, los días de **descanso obligatorio** por esta festividad se trasladaron al viernes 11, sábado 12 y domingo 13.
+
+### Más noticias
+
+* [Guayaquil festeja 204 años de independencia con arte y cultura](https://www.elcomercio.com/actualidad/guayaquil-204-anos-independencia-festejos-arte-cultura.html "Guayaquil festeja 204 años de independencia con arte y cultura")
+* [51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/seguridad/policia-seguridad-operativo-feriado-9-octubre.html "51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre")
+* [Cortes de luz se mantendrán en 10 horas durante el feriado en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-feriado-se-mantendran-10-horas-ecuador.html "Cortes de luz se mantendrán en 10 horas durante el feriado en Ecuador")
+
+El próximo feriado será aprovechado por los ecuatorianos para viajar por las cuatro regiones del país; quienes opten por visitar Guayaquil disfrutarán de **243 eventos especiales** que tendrá la ciudad.
+
+Turismo para este feriado
+-------------------------
+
+**Holbach Muñetón**, presidente de la Federación Nacional de Cámaras Provinciales de Turismo del Ecuador (**Fenacaptur**), dio las previsiones que tiene el sector flujo para este feriado.
+
+En entrevista con Radio Sonorama, Muñetón señaló que se esperan **cifras favorables** para el próximo asueto al compararlas con años anteriores.
+
+Según datos del Ministerio de Turismo, el sector se benefició con **64 millones de dólares** en 2023, gasto que hicieron alrededor de 837 000 viajeros en el feriado del 9 de octubre pasado.
+
+Para este año, la Federación estima que el gasto turístico se incrementará a 80 millones de dólares y que los viajeros superen el **millón**.
+
+### Cortes de luz podrían afectar al turismo local
+
+Aunque estas cifras no podrían lograrse debido a los problemas que provocan los cortes de luz programados en Ecuador, que alcanzarán las **10 horas** de suspensión en algunos sectores estos días.
+
+Sobre esta problemática, Muñetón afirmó que el sector turístico pierde por hora entre 250 000 a **300 000 dólares**.
+
+“El sector hotelero en Quito antes registraba una ocupación del **62 %**, ahora registra un 40 %; Guayaquil, en cambio, tenía un 62 al 70 % en condiciones normales, ahora tenemos a penas un 30 %”, detalló quien preside la Federación de Cámaras de Turismo.
+
+Terminales de Guayaquil recibirán más de 229 000 viajeros
+---------------------------------------------------------
+
+De acuerdo con la **Alcaldía de Guayaquil**, las terminales terrestre de Guayaquil y Pascuales recibirán más de **229 000 viajeros** desde la tarde del jueves 10 de octubre.
+
+Desde la terminal principal, los guayaquileños viajarán a otras ciudades, las más concurridas son: **Manta**, Milagro, Pedro Carbo, Playas y Babahoyo.
+
+Mientras que desde la terminal satélite, los destinos más comunes son Pedro Carbo y Daule.
+
+Para estos cuatro días, los viajeros podrán utilizar **2 700 unidades** de autobuses para movilizarse hacia sus destinos.
+
+Por su arte, Pascuales ofrecerá **790 frecuencias** adicionales.
+
+Seguridad y horarios
+--------------------
+
+La Alcaldía aseguró que para salvaguardar la seguridad de los turistas se implementará un **plan de contingencia** que incluye policías, guardias privados y miembros de Segura EP.
+
+Las terminales contarán con la vigilancia del Grupo de Inteligencia de la Terminal (GIT) y el apoyo logístico de más de **50 guardias privados**, además del monitoreo con cámaras de seguridad.
+
+En los exteriores de las estaciones de autobuses, la **Policía Nacional** custodiará los lugares.
+
+Sobre los horarios, la Terminal Terrestre Guayaquil operará las **24 horas**, mientras que la Terminal Terrestre Pascuales lo hará en su horario habitual, 05:00 a 21:00.
+
+La Terminal de Cargas y Encomiendas trabajará de 06:00 a 22:00, sin embargo, es probable que algunas cooperativas no brinden atención al público debido al feriado.
+
+El cambio climático impulsa los huracanes Helene y Milton
+=========================================================
+
+El huracán Milton ya está afectando severamente la costa oeste de Florida. Hay tres huracanes activos en esa zona del planeta, algo inusual en octubre.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Así se protegían algunas casas en la zona oeste de Florida ante la llegada del huracán Milton.](https://www.elcomercio.com/wp-content/uploads/2024/10/milton-web.jpg)
+
+El **huracán Milton** y su predecesor, **Helene**, tienen sus causas en el **cambio climático**. Para la la **Organización Meteorológica Mundial (OMM)** ambos se potencian por el **calor incrementado** por el cambio climático.
+
+Según el **New York Times**, hay inundaciones en la costa de **Fort Myers** y **Naples Bay**, en Florida. En ambas poblaciones hubo un aumento de niveles de agua, a las 20:00 (hora de Ecuador) de este 9 de octubre del 2024. Alcanzaron niveles de 1,2 metros por encima de una marea alta promedio.
+
+### Más noticias
+
+* [Joe Biden afirma que Milton podría ser el peor huracán en golpear Florida](https://www.elcomercio.com/actualidad/mundo/biden-afirma-milton-podria-ser-peor-huracan-golpear-florida.html "Joe Biden afirma que Milton podría ser el peor huracán en golpear Florida")
+* [En vivo: El huracán Milton se acerca a Tampa con vientos de 260 km/h](https://www.elcomercio.com/actualidad/mundo/huracan-milton-se-acerca-a-tampa-con-vientos-de-260-km-h.html "En vivo: El huracán Milton se acerca a Tampa con vientos de 260 km/h")
+* [El avión caza-huracanes WP-3D Orion voló directo al huracán Milton](https://www.elcomercio.com/actualidad/mundo/avion-caza-huracanes-wp-3d-orion-volo-directo-huracan-milton.html "El avión caza-huracanes WP-3D Orion voló directo al huracán Milton")
+
+Cambio climático incrementa la fuerza de los huracanes
+------------------------------------------------------
+
+Un boletín de la OMM destacó que “e**l calor del océano en el golfo de México** juega un papel importante, ya que las temperaturas cálidas de la superficie del mar proporcionan la energía necesaria para que los **huracanes se intensifiquen**”.
+
+“Cuanto más profundas sean las aguas más cálidas, más energía puede absorber una tormenta”, recordó la entidad.
+
+Milton alcanzó velozmente la categoría 5, la mayor en la escala Saffir-Simpson. Ayer, martes 8 de octubre del 2024, se degradó al nivel 4. A pesar de ello, avanzaba con vientos de 250 kilómetros por hora hacia las costas del centro de Florida, sobre el golfo de México.
+
+El ojo del huracán no tocará la península de Yucatán en el sureste de México. Las fuertes lluvias y olas de varios metros sí se sentirán en esas áreas. Todas ellas están en estado de alerta por las autoridades.
+
+En Tampa y otras ciudades del centro-oeste de Florida hubo una congestión en las autopistas. Las autoridades instruyeron a la población para que dejaran sus hogares y comercios. Debían ir a los extremos nortes o sur de la península.
+
+Alerta máxima
+-------------
+
+El **Centro Nacional de Huracanes de Estados Unidos** mantiene la alerta máxima. Indicó que Milton “seguirá siendo un huracán extremadamente peligroso cuando llegue a **Florida** este miércoles 9 de de octubre del 2024 por la noche”. No se descarta que para entonces **recupere fuerza** y regrese a la categoría 5.
+
+Se pronostica una gran zona de hasta **130 kilómetros** con **marejadas** destructivas en partes de la costa oeste de Florida.
+
+**Ron DeSantis**, gobernador del estado de Florida, advirtió a los residentes de la costa oeste que se preparen para “una tormenta feroz”.
+
+Se esperan precipitaciones de entre **12,7 a 25,4 centímetros por metro cuadrado**. Esas lluvias conllevan el riesgo de inundaciones repentinas, urbanas y superficiales considerables. Son posibles inundaciones fluviales de moderadas a importantes.
+
+El recuerdo de Helene
+---------------------
+
+El **sureste de Estados Unidos** aún no se recupera del huracán Helene, que hace menos de dos semanas azotó la región, provocó **la muerte de al menos 230 personas** y causó inundaciones y cuantiosos daños materiales.
+
+Helene “fue extremadamente anómalo, ya que provocó sus impactos más graves mucho después de tocar tierra, produciendo inundaciones sin precedentes”, dijo **Flavio Pons, del instituto francés Pierre-Simon Laplace.**
+
+“Es probable que las precipitaciones se vieran incrementadas por el **calentamiento global**. En particular, el excepcionalmente cálido **golfo de México** probablemente impulsó tanto la rápida intensificación de Helene como el río atmosférico que finalmente provocó las precipitaciones históricas”, dijo Pons.
+
+Citando fuentes de la estadounidense A**dministración Nacional Oceánica y Atmosférica** (Noaa), la OMM dijo que en el caso de Milton “si bien se esperan fluctuaciones en la intensidad, se pronostica que seguirá siendo un huracán extremadamente peligroso hasta que toque tierra en Florida”[.](https://es.wikipedia.org/wiki/Oficina_Nacional_de_Administraci%C3%B3n_Oce%C3%A1nica_y_Atmosf%C3%A9rica "https://es.wikipedia.org/wiki/Oficina_Nacional_de_Administraci%C3%B3n_Oce%C3%A1nica_y_Atmosf%C3%A9rica")
+
+**Milton** se intensificó a un ritmo explosivo, algo cada vez más habitual, como se vio con el huracán Beryl en julio. Fue la tercera intensificación más rápida en la cuenca del Atlántico.
+
+Luego, se espera que Milton cruce la península de la Florida y salga al océano Atlántico.
+
+Un mes excepcional
+------------------
+
+Actualmente hay **tres huracanes** en el Atlántico: **Milton, Leslie y Kirk,** lo que se considera excepcional para un mes de octubre.
+
+Kirk es actualmente un huracán de **categoría 1,** pero se debilitará y se convertirá en un ex ciclón tropical cuando **llegue a Europa** el miércoles 9.
+
+Los principales impactos se producirán en Francia. Météo-France prevé que Kirk será una tormenta peligrosa, con ráfagas de viento de hasta 110 kilómetros por hora en la costa y hasta 90 kph en el interior, y fuertes lluvias, desde la región del Loira hasta la región de Lorena, incluida la zona de París.
+
 El huracán Milton toca tierra en Florida con categoría 3
 ========================================================
 
@@ -531,559 +1213,4 @@ El argentino aseveró que en el proceso de la maduración de su idea de juego, s
 
 De la supuesta ventaja de su equipo por los efectos de la altitud de los **2.850 metros** sobre el nivel mar de Quito, el técnico aseguró que no lo ve tan determinante, “porque hoy la mayoría de nuestros futbolistas (de Ecuador) también están afuera”.
 
-Ecuador afronta este partido en la cuarta posición de las eliminatorias con **11 puntos**, mientras que Paraguay es séptimo con **9 unidades**. 
-
-Rafael Correa y Jorge Glas tienen procesos abiertos y sentencias en firme, en Ecuador
-=====================================================================================
-
-Rafael Correa está 'prófugo' ante la justicia de Ecuador y Jorge Glas, encarcelado, por procesos y sentencias judiciales en firme.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Rafael Correa y Jorge Glas con procesos y sentencias en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-19.jpg)
-
-El historial delictivo del expresidente Rafael Correa y el exvicepresidente Jorge Glas, líderes del correísmo, incluye procesos aún abiertos y sentencias en firme, en Ecuador
-
-Este miércoles 9 de octubre de 2024, Estados Unidos informó que ha prohibido el ingreso a Correa y Glas por estar implicados en actos de corrupción.
-
-### Más noticias:
-
-* [Rafael Correa y Jorge Glas, con prohibición de ingreso a Estados Unidos](https://www.elcomercio.com/actualidad/politica/rafael-correa-jorge-glas-con-prohibicion-de-ingreso-eeuu-corrupcion.html "Rafael Correa y Jorge Glas, con prohibición de ingreso a Estados Unidos")
-* [Fernando Alvarado es declarado culpable de peculado](https://www.elcomercio.com/actualidad/politica/fernado-alvarado-es-declarado-culpable-de-peculado.html "Fernando Alvarado es declarado culpable de peculado")
-
-Los procesos abiertos y las sentencias contra Rafael Correa y Jorge Glas en Ecuador
------------------------------------------------------------------------------------
-
-Rafael Correa gobernó Ecuador entre 2007 y 2017; mientras que, Jorge Glas fue su Vicepresidente y Ministro de Sectores Estratégicos.
-
-### Las sentencias contra Rafael Correa y Jorge Glas en Ecuador
-
-Tres años después de terminado el mandato de Correa, en 2020, la justicia ecuatoriana les sentenció a los dos a **ocho años de cárcel**, por el delito de cohecho agravado, en el **caso Sobornos**.
-
-La Fiscalía demostró la existencia de una estructura que recibía sobornos de contratistas del Estado a cambio de la adjudicación de obras.
-
-La institución investigó los presuntos aportes irregulares que habrían efectuado contratistas del Estado, a través de dinero en efectivo o cruce de facturas, a favor movimiento político correísta, Alianza PAIS.
-
-Según la investigación, este dinero fue recibido por altos funcionarios del gobierno correísta.
-
-En cuanto al **caso Odrebrecht**, el 21 de diciembre de 2016, el Departamento de Justicia de Los Estados Unidos de Norteamérica hizo revelaciones.
-
-Señaló que, entre el 2001 y 2016, la constructora brasileña Odebrecht pagó millonarios sobornos con dinero en efectivo y a través de transferencias a empresas offshore, utilizando como intermediarios a funcionarios públicos.
-
-Al inicio de la investigación, se determinó que, en Ecuador, los sobornos habrían alcanzado los 33,5 millones de dólares para contratos de obras con el Estado.
-
-En 2019, el Tribunal de la Corte Nacional de Justicia, conformado por los jueces Daniella Camacho, Wilman Terán e Iván Saquicela, tomó una decisión.
-
-Declaró improcedentes los recursos de casación interpuestos por el exvicepresidente de la República, Jorge Glas y otros.
-
-En consecuencia, quedó ratificada la sentencia de **seis años de prisión** por el delito de **asociación ilícita**.
-
-Al momento, Rafael Correa está prófugo de la justicia ecuatoriana y vive en **Bélgica**; mientras que, Glas está recluido en la cárcel de máxima seguridad **La Roca**.
-
-### Los procesos abiertos contra Rafael Correa y Jorge Glas en Ecuador
-
-Aparte de las sentencias en firme, existen procesos judiciales aún abiertos en contra de Rafael Correa y Jorge Glas, en Ecuador.
-
-En julio de este año, Fiscalía vinculó a Correa a la investigación por presunto delito de **peculado**, que se habría cometido en la delegación y concesión de la administración del **puerto de Manta** a la compañía Desarrollo de Negocios Agencias Universales S. A. (Agunsa).
-
-En tanto, Glas está procesado en otros casos.
-
-El exvicepresidente enfrentar acusaciones por **peculado**, relacionadas con el **caso Reconstrucción de Manabí**, a consecuencia del terremoto de 2016.
-
-Por este caso, se ordenó su recaptura en enero de este año y se justificó su detención en abril, tras la incursión policial en la Embajada de México en Quito.
-
-En esta causa, Fiscalía determinó un posible beneficio a terceras personas, contratistas y fiscalizadores de contratos suscritos con el Estado.
-
-Jorge Glas también afronta una denuncia por **supuesta intimidación**, planteada por su exasistente Soledad Padilla, en octubre de 2023.
-
-Fiscalía también procesó a Glas en el **caso Singue** por el delito de **peculado** en la adjudicación del contrato de prestación de servicios para la exploración y explotación de hidrocarburos en el Bloque Singue (Sucumbíos).
-
-En 2022, un Tribunal declaró la nulidad del proceso. Sin embargo, en 2023, Glas fue informado de que la investigación fue reabierta.
-
-Hasta el momento no se ha solicitado fecha para una nueva audiencia.
-
-Finalmente, Correa tiene más de 40 acciones legales presentadas en su contra, entre denuncias y demandas.
-
-Hallan muerto en Grecia al futbolista George Baldock
-====================================================
-
-Otra vez el fútbol esta de luto, con la pérdida de un jugador inglés, que militaba en Gracia.
----------------------------------------------------------------------------------------------
-
-![George Baldock en un partido con la Selección de Grecia.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-09T173028.150.jpg)
-
-El futbolista inglés, nacionalizado griego, **George Baldock**, jugador del Panathinaikos, fue encontrado **muerto** este miércoles 9 de octubre, en su residencia en Atenas, según reportó la emisora griega SKAI.
-
-El cuerpo sin vida del defensa de 31 años fue encontrado en la piscina de su casa, situada en el barrio de Glifada de la capital helena, según la misma fuente.
-
-### Más noticias:
-
-* [Jugadores de la Selección de Ecuador rindieron homenaje a Roberto Cabezas](https://www.elcomercio.com/deportes/seleccion-ecuador-roberto-cabezas-fallecimiento.html "Jugadores de la Selección de Ecuador rindieron homenaje a Roberto Cabezas")
-* [Independiente del Valle despide con dolor a Roberto Cabezas](https://www.elcomercio.com/deportes/futbol/independiente-del-valle-despide-con-dolor-a-roberto-cabezas.html "Independiente del Valle despide con dolor a Roberto Cabezas")
-* [¿Cómo sigue Marco Angulo, jugador de Liga de Quito, tras siniestro de tránsito?](https://www.elcomercio.com/deportes/futbol/como-sigue-marco-angulo-jugador-liga-de-quito-siniestro-transito.html "¿Cómo sigue Marco Angulo, jugador de Liga de Quito, tras siniestro de tránsito?")
-
-Hasta el momento **se desconoce la causa de su muerte** y por ahora no hay ninguna declaración oficial por parte del club griego o de su familia.
-
-Nacido en Buckingham, Inglaterra, **Baldock** era internacional con la selección de Grecia, ya que uno de sus abuelos era griego, por lo que tenía derecho a lucir la camiseta de este país.
-
-Comenzó su carrera en las categorías inferiores del Milton Keyne Dons y fue futbolista del Sheffield United **inglés** desde 2017 hasta el pasado mayo, cuando fue fichado por el Panathinaikos. 
-
-Ecuador también perdió un futbolista
-------------------------------------
-
-En la madrugada de este lunes 7 de octubre de 2024, aproximadamente a las 04:20, se registró un **siniestro de tránsito** en la Autopista General Rumiñahui, a la altura del puente 8.
-
-El fuerte choque dejó un saldo de tres heridos, entre ellos **Marco Angulo,** jugador de Liga de Quito, y hasta el momento se han confirmado al menos dos fallecidos.
-
-Los fallecidos son Víctor Charcopa y **Roberto Cabezas**, quien era el conductor del vehículo y **jugador de Independiente Juniors,** equipo filial de Independiente del Valle. El lateral falleció a sus 22 años, justo en el día de su cumpleaños.
-
-Tras el impacto con las estructuras, el vehículo se incendió, y los bomberos tuvieron que intervenir para extinguir el fuego. No se ha confirmado aún la velocidad a la que viajaba el automóvil; sin embargo, las estructuras del puente, que pesan 50 toneladas, fueron desplazadas cinco metros debido al choque.
-
-Aprende a usar Copilot, la IA de Microsoft, en WhatsApp con unos sencillos pasos 
-=================================================================================
-
-Integra Copilot en WhatsApp y aprovecha sus funciones de inteligencia artificial.
----------------------------------------------------------------------------------
-
-![Copilot simplifica tareas cotidianas con algoritmos avanzados. Foto: playmarketing.net.](https://www.elcomercio.com/wp-content/uploads/2024/10/copilot-whatsapp.jpg)
-
-La tecnología avanza a pasos agigantados, y con ella, las **herramientas que facilitan la vida diaria**. Una de las últimas innovaciones es **Copilot**, una **inteligencia artificial desarrollada por Microsoft** que ahora **se puede integrar en WhatsApp**. ¿Cómo utilizar Copilot en [WhatsApp](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a "https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a") y cuáles son sus beneficios? 
-
-### Más noticias
-
-* [Te explicamos cómo Geoffrey Hinton y John Hopfield revolucionaron la IA](https://www.elcomercio.com/tecnologia/geoffrey-hinton-john-hopfield-inteligencia-artificial.html "https://www.elcomercio.com/tecnologia/geoffrey-hinton-john-hopfield-inteligencia-artificial.html") 
-* [Meta anunció inteligencia artificial en Instagram para traducir Reels en tiempo real](https://www.elcomercio.com/tecnologia/meta-inteligencia-artificial-instagram.html "https://www.elcomercio.com/tecnologia/meta-inteligencia-artificial-instagram.html") 
-
-**¿Qué es Copilot?** 
----------------------
-
-**Copilot es un asistente virtual basado en inteligencia artificial creado por Microsoft**. Su propósito consiste en **simplificar tareas cotidianas mediante algoritmos avanzados** que comprenden y responden a las necesidades del usuario. Originalmente diseñado para aplicaciones de productividad, ahora se ha expandido a **plataformas de mensajería como WhatsApp**, según informa la [página oficial de Microsoft](https://www.microsoft.com/es-xl/windows/copilot-ai-features?r=1#:~:text=Copilot%20es%20un%20asistente%20de,y%20lista%20de%20tareas%20pendientes. "https://www.microsoft.com/es-xl/windows/copilot-ai-features?r=1#:~:text=Copilot%20es%20un%20asistente%20de,y%20lista%20de%20tareas%20pendientes."). 
-
-**Cómo instalar Copilot en WhatsApp** 
---------------------------------------
-
-![Foto: Captura de pantalla.  ](https://www.elcomercio.com/wp-content/uploads/2024/10/copilot-whatsapp-1-1024x683.jpg)
-
-Foto: Captura de pantalla.
-
-Para comenzar a usar **Copilot en WhatsApp**, estos son los pasos a seguir: 
-
-* **Acceso a la página de chat:** Dar clic en el [siguiente enlace](https://api.whatsapp.com/message/TJ5MI22N6WUVD1?autoload=1&app_absent=0 "https://api.whatsapp.com/message/TJ5MI22N6WUVD1?autoload=1&app_absent=0") para ingresar al **chat con Copilot**, el cual quedará guardado junto con los otros chats de WhatsApp. 
-
-* **Aceptar las condiciones de uso:** Como en todo programa**, existen condiciones que deben ser aceptadas** para utilizar la función, como las **opciones de privacidad y las preguntas frecuentes** de la ‘app’. 
-
-* **Iniciar la conversación:** Una vez aceptadas las condiciones, se puede empezar a **chatear con la inteligencia artificial**. 
-
-**Beneficios de usar Copilot en WhatsApp** 
--------------------------------------------
-
-Integrar Copilot en WhatsApp ofrece múltiples ventajas, como: 
-
-* **Asistencia personalizada:** Copilot responde preguntas y ofrece sugerencias según los intereses y necesidades del usuario. 
-
-* **Ahorro de tiempo:** Automatiza tareas, lo que permite dedicar más tiempo a otras actividades. 
-
-* **Mejora de la productividad:** Facilita la gestión de mensajes y ofrece información relevante sin necesidad de salir de WhatsApp 
-
-La **integración de Copilot en WhatsApp** representa un avance significativo en la interacción con la tecnología. Mejora la eficiencia de las comunicaciones y ofrece un nivel de personalización y asistencia sin precedentes. Probar Copilot es una oportunidad para descubrir todo lo que esta herramienta puede ofrecer. 
-
-Trump, Musk y Swift, las víctimas más populares de ‘deepfakes’ 2024
-===================================================================
-
-Otros actores y hasta deportistas han sido vícimas de la IA. Te contamos
-------------------------------------------------------------------------
-
-![Estos famosos encabezan el ranking de las personalidades con más deepfakes. Fotos: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/deepfakes-El-comercio.jpg)
-
-**Donald Trump**, **Elon Musk** y **Taylor Swift** son las personalidades públicas que más ‘deepfakes’ han protagonizado en 2024, una práctica que manipula la imagen y la voz con herramientas de inteligencia artificial y que han proliferado en internet y redes sociales pese a los riesgos que conllevan para la democracia.
-
-Los ‘**deepfake**‘ son un tipo de contenido audiovisual manipulado que muestra imágenes falsas, habitualmente simulando la voz y la apariencia de otras personas. Sin embargo, tienen la peculiaridad de que dichas imágenes parecen ser reales, ya que se generan utilizando técnicas avanzadas de aprendizaje profundo e **Inteligencia Artificial (IA)**.
-
-### Más noticias
-
-* **[En TikTok se viraliza el reto “Winter Arc”. Te contamos de qué trata](https://www.elcomercio.com/tendencias/redes-sociales/tiktok-winter-arc-reto-viral.html "https://www.elcomercio.com/tendencias/redes-sociales/tiktok-winter-arc-reto-viral.html")** 
-* **[14 estados de la Unión Europea demandaron a TikTok por salud mental](https://www.elcomercio.com/tendencias/redes-sociales/union-europea-demanda-tiktok-redes-sociales.html "https://www.elcomercio.com/tendencias/redes-sociales/union-europea-demanda-tiktok-redes-sociales.html")** 
-
-Aunque inicialmente eran un formato solo apto para desarrolladores, ahora son un tipo de vídeo que está al alcance de cualquier persona gracias a los avances en tecnologías de clonación de voz y sincronización de labios de código abierto.
-
-¿Cómo se hacen estas deepfakes?
--------------------------------
-
-Según han explicado desde Kapwing, plataforma de creación de vídeos, la clonación de voz toma de ejemplo la voz de una persona a partir de una muestra de audio breve, de entre 10 y 15 segundos. Con ello, analiza y aplica las características vocales a un modelo subyacente capaz de generar voz a partir de texto.
-
-Por su parte, la IA para la sincronización de datos hace coincidir los labios de las imágenes de la persona que se esté imitando con los sonidos que se producen en el archivo audio. En este sentido, según ha detallado la plataforma, con tecnologías como las mencionadas anteriormente, se puede crear un gemelo de IA solo con diez segundos de metraje inicial.
-
-Estas tecnologías permiten manipular un vídeo de forma realista y en un periodo corto de tiempo. Según han detallado desde Kapwing, con tecnologías como las mencionadas, se puede crear un gemelo de IA solo con diez segundos de metraje inicial, como se desprende de una investigación que han realizado sobre las posibilidades que ofrece el ‘deepfake’ y los reisgos que supone esta tecnología para la suplantación de identidad o la difusión de noticias falsas.
-
-Los personajes famosos más _deepfakeados_
------------------------------------------
-
-Debido a la proliferación de estas tecnologías, los vídeos ‘deepfake’ son actualmente un contenido que se encuentra de manera frecuente en Internet y en las redes sociales, llegando incluso a viralizarse.
-
-Las personalidades públicas suelen protagonizar estos ‘deepfakes’ cuando el objetivo es “influir en la opinión pública, permitir la estafa o actividades fraudulentas, o para generar ganancias”. Pero no vale cualquier pesona.
-
-En este sentido, según los datos recabados desde Kapwing, tras analizar los mensajes de texto a vídeo en un popular canal de Discord para generar vídeos con IA, el expresidente de Estados Unidos **Donald Trump**, el propietario de X (antigua Twitter), **Elon Musk**, y la cantante y compositora **Taylor Swift**, son las figuras públicas estadounidenses más ‘deepfakeadas’ en lo que va de 2024.
-
-Concretamente, la plataforma ha contabilizado 12.384 solicitudes de vídeos ‘deepfake’ relacionadas con Trump en 2024, otras 9.544 solicitudes estaban vinculadas con Musk y 8.202 con Taylor Swift. Como apuntan desde Kapwing, estas tres personalidades han sido suplantadas con más frecuencia que cualquier otro famoso, en relación al uso de ‘deepfake’.
-
-De cerca les sigue el actual presidente de Estados Unidos, Joe Biden, quien también ha sido una de las personalidades más ‘deepfakeadas’, con 7.956 solicitudes. En esta lista también se encuentran actores, como **Tom Cruise**, **Dwayne Johnson** y **Will Smith**.
-
-![Tom Cruise, Leo Messi y Will Smith también han sido víctimas de las 'deepfakes'. Fotos: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/deepfakes-El-comercio-1-1024x683.jpg)
-
-Tom Cruise, Leo Messi y Will Smith también han sido víctimas de las ‘deepfakes’. Fotos: Facebook
-
-Igualmente, se han solicitado vídeos ‘deepfake’ relacionados con deportistas, como los futbolistas **Cristiano Ronaldo** y **Leo Messi** y el jugador de baloncesto Michael Jordan. Lo mismo ha ocurrido con cantantes de la talla de Beyoncé y personalidades del mundo de la tecnología como el CEO de Meta, **Mark Zuckerberg**.
-
-Peligros de la suplantación con _deepfakes_
--------------------------------------------
-
-Aunque gran parte de este contenido se crea y se publica en Internet para entretenimiento, como una forma de hacer comedia, por ejemplo, suplantando a personalidades famosas para hacer que cuenten un chiste, también puede suponer un riesgo o crear confusión entre los usuarios ante el realismo de algunos ‘deepfakes’.
-
-Un ejemplo de ello es un vídeo falso de un **discurso de Joe Biden** tras cesar su candidatura a las próximas elecciones a la presidencia de Estados Unidos. En las redes sociales, algunos usuarios pueden creer que se trata de un vídeo real y confiar en que la información que han escuchado de la boca del presidente de Estados Unidos, aunque sea a través de un vídeo, es real.
-
-Además de fomentar el consumo de ‘fake news’ o noticias falsas, estos ‘deepfakes’ también son una herramienta para los ciberdelincuentes, que pueden utilizarlos como método para estafar a los usuarios aprovechándose de la confianza que se deposita en las personalidades públicas.
-
-Guayaquil festeja 204 años de independencia con arte y cultura
-==============================================================
-
-El Municipio de Guayaquil tiene una agenda hasta fin de mes para celebarar la independencia del Puerto Principal
-----------------------------------------------------------------------------------------------------------------
-
-![Los guayaquileños bailaron a la madrugada por la Aurora Gloriosa.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-1-5.jpg)
-
-Por los **204 años de Independencia de Guayaquil**, la ciudad se halla enfervorizada con múltiples **festejos** por este 9 de octubre del 2024. El Cabildo porteño tiene toda una agenda para que sus habitantes tengan momentos **de arte y cultura**.
-
-### Más noticias
-
-* [En este feriado del 9 de octubre, aprende sobre la independencia de Guayaquil](https://www.elcomercio.com/tendencias/cultura/feriado-octubre-independencia-guayaquil-efemeride.html "En este feriado del 9 de octubre, aprende sobre la independencia de Guayaquil")
-* [¿Cuándo es la independencia de Guayaquil?](https://www.elcomercio.com/actualidad/guayaquil/cuando-es-la-independencia-de-guayaquil.html "¿Cuándo es la independencia de Guayaquil?")
-* [Guayaquil tendrá tres sesiones solemnes por su independencia](https://www.elcomercio.com/actualidad/politica/guayaquil-tres-sesiones-solemnes-independencia-9-octubre.html "Guayaquil tendrá tres sesiones solemnes por su independencia")
-
-Las actividades por los 204 años de Independencia de Guayaquil
---------------------------------------------------------------
-
-Aunque el **feriado nacional** pasó al **viernes 11 de octubre**, **Guayaquil** está desde el comienzo del mes con una serie de actividades por las fiestas octubrinas. Pero en este 9 de Octubre, cuando se recuerda la gesta cívica de la independencia, comenzó a las 04:00 con el “**Saludo a la Aurora Gloriosa**“, en el monumento Fragua de Vulcano. En la tradición guayaquileña, esa es **la hora en que se emancipó la ciudad** del yugo español.
-
-Siempre el Malecón para recordar la independencia
--------------------------------------------------
-
-Desde las 10:00 y hasta las 17:00, se rendirá un reconocimiento al **Reloj Público,** uno de los sitios emblemáticos de la ciudad. Cumple 182 años y su construcción fue obra de Vicente Rocafuerte. Es en el Malecón 2000.
-
-Algo de educación y cultura por feriado del 9 de octubre de 1822
-----------------------------------------------------------------
-
-En el **Museo Municipal**, entre las 14:00 y las 16:00, continuará la Jornada Educativa por las fiestas octubrinas[.](https://es.wikipedia.org/wiki/Municipalidad_de_Guayaquil "https://es.wikipedia.org/wiki/Municipalidad_de_Guayaquil")
-
-Por otra parte, de las 17:30, se llevará a cabo la Exposición colectiva **Proyecto Idea**, en la Sala de Arte Sacro, en las calles Sucre y Pedro Carbo.
-
-Para esta exposición, los artistas son 16 personas con discapacidad psicosocial, que son parte del Instituto de Neurociencias de la Junta de Beneficencia de Guayaquil.
-
-Multas electorales pueden generar procesos coactivos, ¿hay opciones?
-====================================================================
-
-Las multas electorales pueden generar consecuencias. Hay opciones.
-------------------------------------------------------------------
-
-![Las personas que no votaron en procesos anteriores deben pagar multas.](https://www.elcomercio.com/wp-content/uploads/2024/10/multas-elecciones-2.jpg)
-
-Las multas electorales pueden generar consecuencias. El **Consejo Nacional Electoral (CNE)** mantiene habilitadas vías de pago.
-
-Los rubros corresponden a incumplimientos definidos en el **Código de la Democracia** durante procesos electorales, como no sufragar y no haber justificado la causa.
-
-### Más noticias
-
-* [Seis binomios en firme para las elecciones 2025, ¿cuál es el proceso?](https://www.elcomercio.com/elecciones/seis-binomios-en-firme-para-las-elecciones-2025-cual-es-el-proceso.html "Seis binomios en firme para las elecciones 2025, ¿cuál es el proceso?")
-* [CNE abre nueva etapa para ser observador en las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-abre-nueva-etapa-para-observador-elecciones-2025.html "CNE abre nueva etapa para ser observador en las elecciones 2025")
-* [Aumentan binomios calificados para las elecciones 2025](https://www.elcomercio.com/actualidad/aumentan-binomios-calificados-cne-elecciones-2025.html "Aumentan binomios calificados para las elecciones 2025")
-* [¿Cómo saber dónde votar en las elecciones 2025?](https://www.elcomercio.com/actualidad/politica/donde-votar-elecciones-2025.html "¿Cómo saber dónde votar en las elecciones 2025?")
-
-> ¡Gracias por acompañarnos! 🤝  
->   
-> Se suspende la Sesión Ordinaria No. 8⃣3⃣ del [#PlenoCNE](https://twitter.com/hashtag/PlenoCNE?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Infórmate de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw) en nuestros canales oficiales. 💻⤵️  
->   
-> 📲 [https://t.co/7jydYZpjVD](https://t.co/7jydYZpjVD) [pic.twitter.com/vEjOCjOT7Z](https://t.co/vEjOCjOT7Z)
-> 
-> — cnegobec (@cnegobec) [October 8, 2024](https://twitter.com/cnegobec/status/1843753486527410300?ref_src=twsrc%5Etfw)
-
-Multas electorales y coactivos
-------------------------------
-
-Los pagos se realizan en línea, a través del sistema del **[CNE](https://www.cne.gob.ec/)**. Ya no se aceptan pagos en las ventanillas del organismo electoral.
-
-No haber cumplido con la obligación como **miembro de las juntas receptoras del voto** están entre las acciones que generan multas.
-
-En caso de no haber sufragado por un viaje, se puede presentar el pasaporte con la **fecha de salida** y retorno.
-
-¿Cuánto se debe pagar?
-----------------------
-
-* **Por no votar:** 10% del salario básico unificado (46 dólares)
-* **Por no capacitarse para ser integrante de junta:** 10% del salario básico (46 dólares)
-* **Por no integrar una junta receptora del voto:** 15% del salario básico (69 dólares)
-* **Abandono de mesa:** de 11 a 20 salarios básicos (de 5 060 a 9 200)
-
-¿Y los pagos en efectivo?
--------------------------
-
-Los pagos en línea, con **tarjeta de débito** y otras formas de pago que implemente la red de servicios Facilito, no son la única vía.
-
-También se puede cumplir con las obligaciones en efectivo, con un depósito en bancos y cooperativas a escala nacional, comercios minoristas, puntos propios y entidades aliadas a la red Facilito.
-
-Son 92 instituciones financieras y **2 635 puntos de pago autorizados**.
-
-En caso de no saber si se cuenta con una multa, se puede ingresar a la página del [CNE](https://www.cne.gob.ec/). Otra alternativa es acudir a una de las 24 delegaciones provinciales.
-
-Las consecuencias por no pagar
-------------------------------
-
-En caso de no realizar los pagos, el ente rector en materia **electoral** puede dar paso a un proceso coactivo. Eso sí, tener multas no impedirá la votación en las elecciones 2025.
-
-Con el proceso de coactiva, **se puede congelar cuentas bancarias o prohibir la salida al país.** Otra desventaja es que quienes están en mora con el Estado pueden estar inhabilitados para ejercer cargos públicos, o celebrar contratos con entidades gubernamentales.
-
-En la lista de **deudores** pueden estar aquellas personas que expendieron o consumieron bebidas alcohólicas en los días en que exista prohibición.
-
-El reglamento sobre procesos coactivos
---------------------------------------
-
-Según el reglamento de coactivas, el **CNE** aplicará el proceso a las personas naturales, jurídicas y sujetos políticos, sancionados mediante sentencia ejecutoriada adoptada por el **Tribunal Contencioso Electoral (TCE).** Se incluye la directa aplicación de las disposiciones establecidas en el Código de la Democracia.  
-  
-No obstante, tras una solicitud al **CNE**, las personas podrán conceder facilidades de pago. Primero, deben pagar el 20% de la deuda, más los intereses generados hasta el momento de la suscripción del convenio de pago. Eso sí, debe haber una garantía suficiente por el **80% restante**.  
-  
-El pago del **80% restante** se puede efectuar en cuotas periódicas que cubran el capital, intereses y multas, según corresponda. Esto en plazos que no excedan **los 24 meses** contados desde la fecha de notificación de la resolución con la que se concede las facilidades de pago.  
-  
-Las **facilidades de pago** pueden solicitarse hasta antes de la fecha de inicio de la etapa de remate de bienes embargados.
-
-No obstante, una vez iniciado el **cobro**, la determinación de la obligación incluirá los gastos en los que haya incurrido el órgano electoral, hasta la fecha de la petición.
-
-Sebastián Beccacece niega ventajas de la altura para Ecuador
-============================================================
-
-Sebastián Beccacce se refirió al próximo partido de la Selección de Ecuador en eliminatorias y renegó de la altura de Quito.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece durante un entrenamiento de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/5f1cc6cbda0756edb87274a3ecc7f2fee652839c.jpg)
-
-**Sebastián Beccacece**, DT de la Selección de Ecuador, brindó sus últimas impresiones antes de enfrentar a Paraguay en el estadio Rodrigo Paz Delgado. Pese a que la Tri hace de local en Quito, a 2 850 metros sobre el nivel del mar, el estratega restó importancia a la altura y negó que tenga ventajas.
-
-Este jueves 10 de octubre del 2024, el combinado ecuatoriano se medirá a la ‘Albirroja’ por la novena fecha de las eliminatorias. A las 16:00, el balón rodará en el reducto de **Liga de Quito** y el combinado nacional tendrá su tercer partido al mando del entrenador argentino.
-
-### Más noticias:
-
-* [La Selección de Ecuador dobla el valor de mercado de Paraguay](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-valor-mercado-eliminatorias.html "La Selección de Ecuador dobla el valor de mercado de Paraguay")
-* [Cuatro posibles debutantes claves con Beccacece en la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-debutantes-paraguay.html "Cuatro posibles debutantes claves con Beccacece en la Selección de Ecuador")
-* [La Selección de Ecuador vuelve a subir su valor de mercado](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-valor-mercado-paraguay.html "La Selección de Ecuador vuelve a subir su valor de mercado")
-
-Con respecto al próximo partido a disputarse, **Beccacece** brindó un análisis del rival, de los entrenamientos de su equipo y la **localía**. Entre los puntos a destacar, el estratega sostuvo que el factor de la altura no puede ser diferencial debido al contexto en el que se encuentran sus dirigidos.
-
-“**No creo que la altura saque la ventaja que sacó en algún momento porque nuestros futbolistas militan afuera**“, manifestó el entrenador gaucho en una rueda de prensa desde la Casa de la Selección. A su vez, este prefirió centrarse en el estado del terreno de juego y su valía de cara al partido[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
-
-La Selección de Ecuador espera una cancha en óptimas condiciones
-----------------------------------------------------------------
-
-Con respecto al escenario deportivo que albergará el partido de la **Selección de Ecuador**, Beccacece sostuvo que su estado será determinante. Este señaló que es necesario que este se encuentre en buenas condiciones.
-
-“**Cualquier futbolista, entrenador o espectador desea el campo en su mejor versión (…) Si uno ve el campo de diferentes colores, que hay una parte que no está poblada, que está disparejo, como espectador no es atractivo, imagínate para los protagonistas**“, agregó.
-
-Para las vigentes eliminatorias, la Selección de Ecuador ratificó al Estadio Rodrigo Paz Delgado después de utilizarlo rumbo al **Mundial de Catar 2022**. Antes, el Estadio Olímpico Atahualpa había sido el reducto de la Tri.
-
-La Selección de Ecuador en Quito ante Paraguay
-----------------------------------------------
-
-Desde que tiene su sede fija en Quito, a partir de las eliminatorias hacia el Mundial de Francia 1998, la **Selección de Ecuador** ha jugado siete partidos ante Paraguay. El combinado tricolor se encuentra invicto dentro de ellos.
-
-Del total de compromisos, el conjunto de la mitad del mundo venció en cinco oportunidades y venció en cinco. Asimismo, en la capital, **la Tri** ha conseguido todas sus clasificaciones a mundiales.  
-
-Luego de ver ‘La Sustancia’, estas cinco cosas se quedarán en tu cabeza
-=======================================================================
-
-Más allá de las escenas sangrientas y el elenco, 'La Sustancia' no saldrá de tu mente por estas razones
--------------------------------------------------------------------------------------------------------
-
-![Sarah Margaret Qualley en 'La Sustancia'. Foto: Instagram @trythesubstance](https://www.elcomercio.com/wp-content/uploads/2024/10/la-sustancia-El-comercio.jpg)
-
-‘La Sustancia’ es una película del género _horror body_ que se estrenó el 19 de septiembre de 2024. La trama sigue a **Elisabeth Sparkle** (**[Demi Moore](https://www.instagram.com/demimoore/ "https://www.instagram.com/demimoore/")**), una actriz que enfrenta el declive de su carrera.
-
-Desesperada tras ser despedida de su jefe sexista, **Harvey** (**[Dennis Quaid](https://www.instagram.com/dennisquaid/ "https://www.instagram.com/dennisquaid/")**), se encuentra en una espiral de autodestrucción. Un accidente la lleva a una misteriosa empresa que le ofrece juventud y belleza temporal.
-
-### Más noticias
-
-* **[¿Por qué fracasó el ‘Joker: Folie à Deux’?](https://www.elcomercio.com/tendencias/fracaso-joker-folie-a-deux.html "https://www.elcomercio.com/tendencias/fracaso-joker-folie-a-deux.html")**
-* **[‘Beetlejuice 2’ revive el cine de fantasía oscura](https://www.elcomercio.com/afull/beetlejuice2-cine-fantasia-oscura.html "https://www.elcomercio.com/afull/beetlejuice2-cine-fantasia-oscura.html")**
-
-Las reglas son estrictas: alternar entre su “yo mejorado” (**[Margaret Qualley](https://www.instagram.com/sarahmargaretqualley/?hl=es "https://www.instagram.com/sarahmargaretqualley/?hl=es")**) y su cuerpo real cada semana. Si eres de los que logró ver la película completa (hubo quienes no pudieron y salieron de la sala por lo visceral de la cinta) tendrás estas cosas rondando en tu cabeza.
-
-¿Cómo serás cuando envejezcas?
-------------------------------
-
-![Escena de 'La Sustancia'. Foto: Instagram @trythesubstance](https://www.elcomercio.com/wp-content/uploads/2024/10/la-sustancia-El-comercio-2-1024x683.jpg)
-
-Escena de ‘La Sustancia’. Foto: Instagram @trythesubstance
-
-La película refleja de manera brutal cómo la sociedad y la industria del cine valoran más la apariencia joven que el talento o la experiencia. Esto te hace cuestionar cómo lidiamos con el envejecimiento y la presión de siempre lucir mejor, sin importar el costo.
-
-Lo que serías capaz de hacer por conservar tu juventud
-------------------------------------------------------
-
-![Escena de 'La Sustancia'. Foto: Instagram @trythesubstance](https://www.elcomercio.com/wp-content/uploads/2024/10/la-sustancia-El-comercio-6-1024x683.jpg)
-
-Escena de ‘La Sustancia’. Foto: Instagram @trythesubstance
-
-La idea de alternar entre una versión “mejorada” de ti mismo y tu cuerpo real plantea preguntas éticas. ¿Hasta qué punto estamos dispuestos a alterar nuestra esencia para encajar o ser aceptados? Este ciclo sin fin de transformación tiene consecuencias aterradoras.
-
-El peligro de las soluciones rápidas
-------------------------------------
-
-![Escena de 'La Sustancia'. Foto: Instagram @trythesubstance](https://www.elcomercio.com/wp-content/uploads/2024/10/la-sustancia-El-comercio-1-1024x683.jpg)
-
-Escena de ‘La Sustancia’. Foto: Instagram @trythesubstance
-
-La película muestra cómo la promesa de una solución instantánea a los problemas (en este caso, la sustancia milagrosa) puede ser seductora, pero termina siendo destructiva. Te hace reflexionar sobre cómo a menudo buscamos escapatorias fáciles en lugar de enfrentar los desafíos.
-
-La fragilidad del cuerpo humano
--------------------------------
-
-![Escena de 'La Sustancia'. Foto: Instagram @trythesubstance](https://www.elcomercio.com/wp-content/uploads/2024/10/la-sustancia-El-comercio-4-1024x683.jpg)
-
-Escena de ‘La Sustancia’. Foto: Instagram @trythesubstance
-
-Las escenas viscerales en las que el cuerpo de Elisabeth se transforma son un recordatorio gráfico de lo vulnerable y frágil que es el cuerpo humano. Te deja pensando en cómo percibimos el control sobre nuestro propio cuerpo y qué significa realmente tenerlo.
-
-El valor de la paz mental
--------------------------
-
-![Escena de 'La Sustancia'. Foto: Instagram @trythesubstance](https://www.elcomercio.com/wp-content/uploads/2024/10/la-sustancia-El-comercio-7-1024x683.jpg)
-
-Escena de ‘La Sustancia’. Foto: Instagram @trythesubstance
-
-No solo es el cuerpo el que sufre, sino también la mente. Las constantes transiciones de un estado físico a otro inevitablemente deterioran la psique de la protagonista, lo que te lleva a reflexionar sobre el impacto emocional que tiene el no aceptarse tal como uno es.
-
-![Escena de 'La Sustancia'. Foto: Instagram @trythesubstance](https://www.elcomercio.com/wp-content/uploads/2024/10/la-sustancia-El-comercio-8-1024x683.jpg)
-
-Escena de ‘La Sustancia’. Foto: Instagram @trythesubstance
-
-Jennifer Aniston se inspiró en su Clydeo para escribir un libro a favor de los animales
-=======================================================================================
-
-Con su texto, Jennifer Aniston busca promover las adopciones.
--------------------------------------------------------------
-
-![Jennifer Aniston debutó en el mundo de la literatura infantil. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo178.jpg)
-
-**Jennifer Aniston**, reconocida actriz y amante de los animales, incursiona en la literatura infantil con el lanzamiento de su primer libro titulado **‘Clydeo Takes a Bite Out of Life’.**
-
-Este libro tiene como objetivo principal **promover** la adopción de **mascotas**, especialmente perros. El texto está inspirado en **Clyde**, uno de los canes rescatados por la actriz.
-
-### **Más noticias:**
-
-* [Feliz cumpleaños, ‘Friends’, Recordamos sus 30 años con un repaso por los romances del elenco.](https://www.elcomercio.com/afull/friends-romances-elenco-aniversario-septiembre.html "https://www.elcomercio.com/afull/friends-romances-elenco-aniversario-septiembre.html")
-* [El equipo de ‘Friends’ negocia una ‘reunión especial’ por su 25 aniversario](https://www.elcomercio.com/tendencias/entretenimiento/equipo-friends-negociacion-reunion-aniversario.html "https://www.elcomercio.com/tendencias/entretenimiento/equipo-friends-negociacion-reunion-aniversario.html")
-* [‘Shogun’ ¿Es tan buena como dicen?](https://www.elcomercio.com/afull/shogun-serie-vestuario-violencia-idioma-elenco-trama.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/afull/shogun-serie-vestuario-violencia-idioma-elenco-trama.html?source=Internal&ref=Single+Content+Link")
-
-**Jennifer Aniston se inspiró en su Clydeo para su libro**
-----------------------------------------------------------
-
-Aniston, quien siempre ha manifestado un profundo amor por los animales, busca a través de esta obra enseñar a los niños la importancia del cariño y el cuidado hacia los perritos.
-
-El libro narra las aventuras de **Clydeo**, un perro que explora el mundo con curiosidad y entusiasmo. Fue ilustrado por **Bruno Jacob**,
-
-> [View this post on Instagram](https://www.instagram.com/reel/DAleKepxTEG/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Jennifer Aniston (@jenniferaniston)](https://www.instagram.com/reel/DAleKepxTEG/?utm_source=ig_embed&utm_campaign=loading)
-
-La historia busca entretener a los más pequeños, pero también inculcar valores de responsabilidad y amor hacia los animales.
-
-**Jennifer Aniston es una defensora de los animales**
------------------------------------------------------
-
-Aniston dijo que este proyecto fue emocionalmente desafiante, pero a la vez gratificante. Le permite compartir su pasión por el **bienestar animal** con una audiencia más joven.
-
-> [View this post on Instagram](https://www.instagram.com/p/DArHxglP5Db/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Jennifer Aniston (@jenniferaniston)](https://www.instagram.com/p/DArHxglP5Db/?utm_source=ig_embed&utm_campaign=loading)
-
-La actriz, conocida por su papel en la serie ‘Friends’, utilizasu plataforma para abogar por la adopción de perros callejeros, destacando la importancia de brindarles un hogar lleno de amor.
-
-Con ‘Clydeo Takes a Bite Out of Life’, Aniston espera inspirar a las familias a considerar la adopción de mascotas como una opción viable y enriquecedora.
-
-Deportivo Quito espera rival en los 16avos de final del Ascenso Nacional
-========================================================================
-
-Los hinchas del Deportivo Quito esperan por el sorteo para determinar al próximo rival de los chullas en el camino al ascenso
------------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores del Deportivo Quito festejan un gol en el Nacional de Ascenso del fútbol ecuatoriano.](https://www.elcomercio.com/wp-content/uploads/2024/10/DeportivoQuito-4.jpg)
-
-El **Deportivo Quito** conocerá a su rival en los **16avos** de final del Torneo de **Ascenso Nacional** la noche de este 9 de octubre de 2024.
-
-Este sorteo, originalmente programado para el 7 de octubre, se suspendió debido a apelaciones relacionadas con sanciones y resultados de algunos equipos, lo que obligó a la **Federación Ecuatoriana de Fútbol** (**FEF**) a revisar la documentación habilitante.
-
-### Más noticias:
-
-* [Deportivo Quito y sus posibles rivales en el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-rival-ascenso-ecuador.html "Deportivo Quito y sus posibles rivales en el Ascenso Nacional")
-* [Deportivo Quito clasificó a una nueva fase del Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-visita-santa-elena-playoffs-ascenso-nacional.html "Deportivo Quito clasificó a una nueva fase del Ascenso Nacional")
-* [Iker Morante, la nueva estrella del Deportivo Quito](https://www.elcomercio.com/deportes/deportivo-quito-segunda-categoria-iker-moran.html "Iker Morante, la nueva estrella del Deportivo Quito")
-
-El club chulla, que eliminó a **Santa Elena Sporting Club** con un contundente marcador global de 5-1, se ha consolidado como uno de los favoritos para avanzar en esta competición.
-
-Deportivo Quito y el sorteo de rivales en el Ascenso Nacional
--------------------------------------------------------------
-
-La **FEF** anunció que el sorteo se llevará a cabo a las 18:00 y, tras ello, se definirán las llaves para los 16avos de final, donde el **Deportivo Quito** se alista para enfrentar a uno de los 32 clasificados en la competición.
-
-Los partidos de esta ronda están previstos para el 12 de octubre (ida) y el 19 de octubre (vuelta). Sin embargo, solo tras el sorteo se determinará las fechas.
-
-Este torneo otorga dos cupos para la **Liga Pro** Serie B 2025, lo que añade presión y emoción a cada encuentro.
-
-**Deportivo Quito**, que ha enfrentado desafíos en los últimos años debido a problemas económicos y administrativos, busca un regreso triunfante a los primeros planos del [fútbol ecuatoriano.](https://es.wikipedia.org/wiki/Serie_A_de_Ecuador)
-
-Con una rica historia en el balompié nacional, y cinco títulos de campeón ecuatoriano, el club tiene el apoyo incondicional de sus seguidores. La afición espera con ansias el sorteo y el inicio de esta etapa decisiva en el camino hacia el ascenso.
-
-Balacera por asalto a convoy del Banco Central en la Cuenca-Molleturo
-=====================================================================
-
-El hecho se registró en la vía Cuenca-Guayaquil, la tarde de este miércoles 9 de octubre de 2024.
--------------------------------------------------------------------------------------------------
-
-![Un camión y un vehículo liviano se incendiaron durante el asalto](https://www.elcomercio.com/wp-content/uploads/2024/10/vehiculos.jpg)
-
-Un convoy del **Banco Central del Ecuador** que transportaba valores fue asaltado por desconocidos armados, en el km 90 de la vía **Cuenca-Guayaquil**.
-
-Según detalló el Consejo de Seguridad Ciudadana de Cuenca, el ataque armado de la tarde de este miércoles 9 de octubre de 2024 dejó **personas heridas**.
-
-El número de afectados no es oficial, sin embargo, medios locales informan que siete ciudadanos recibieron atención prehospitalaria.
-
-### Más noticias
-
-* [Policía detiene a exasambleísta por presunta concusión](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-exasambleista-por-presunta-concusion.html "Policía detiene a exasambleísta por presunta concusión")
-* [Policía desarticuló una organización que operaba al estilo de ‘piratas’](https://www.elcomercio.com/actualidad/seguridad/policia-desarticulo-organizacion-operaba-estilo-piratas.html "Policía desarticuló una organización que operaba al estilo de ‘piratas’")
-* [Las principales empresas de neumáticos, cerámica y muebles no operan en Cuenca](https://www.elcomercio.com/actualidad/negocios/principales-empresas-neumaticos-ceramica-muebles-cuenca.html "Las principales empresas de neumáticos, cerámica y muebles no operan en Cuenca")
-
-Dos vehículos quedaron **incinerados** producto del asalto, una volqueta y un automotor liviano.
-
-De acuerdo con testigos, los delincuentes cerraron el paso del convoy y amenazaron a los ocupantes.
-
-Tras disparar sus neumáticos, **prendieron** fuego contra los vehículos.
-
-La Policía se trasladó al lugar tras recibir la alerta. Los uniformados se desplegaron de inmediato en los sectores aledaños en **búsqueda** de los atacantes.
-
-**Siete hombres** fueron retenidos por los gendarmes a unos kilómetros del lugar del hecho, en el sector de la Y de Sayausi.
-
-Las autoridades investigan si los sospechosos tienen alguna relación con el asalto.
-
-Mientras, la Policía estableció un punto de mando en el sitio.
-
-Vía cerrada hasta las 18:00
----------------------------
-
-La movilidad en el tramo de la vía Cuenca-Molleturo-El Empalme se mantendrá suspendida hasta las **18:00**, debido a los incidentes.
-
-El Ministerio de Transporte confirmó que la vía **Cuenca-Girón-Pasaje**, en la misma provincia, también se encuentra cerrada a la circulación vehicular por un socavamiento de la calzada en el km 114, en el sector Vivar.
-
-Por lo que se recomienda utilizar la **vía alterna** Zhud – Cochancay – El Triunfo.
-
-> [#ATENCION](https://twitter.com/hashtag/ATENCION?src=hash&ref_src=twsrc%5Etfw)  
->   
-> 👉🏻 El Consejo de Seguridad Ciudadana Cuenca, emite el siguiente comunicado. [pic.twitter.com/osw1kD5Igd](https://t.co/osw1kD5Igd)
-> 
-> — Consejo de Seguridad Ciudadana de Cuenca (@CSC\_CUENCA) [October 9, 2024](https://twitter.com/CSC_CUENCA/status/1844089654968246594?ref_src=twsrc%5Etfw)
+Ecuador afronta este partido en la cuarta posición de las eliminatorias con **11 puntos**, mientras que Paraguay es séptimo con **9 unidades**.
