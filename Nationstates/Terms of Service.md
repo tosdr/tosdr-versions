@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [AL and YL get stuck in a elevator YL… (44)](https://forum.nationstates.net/viewtopic.php?t=556465&f=25&view=unread#unread ""AL and YL get stuck in a elevator YL reaction?" (44 posts)")
-* [YN people's thoughts on AL? (14)](https://forum.nationstates.net/viewtopic.php?t=555047&f=25&view=unread#unread ""YN people's thoughts on AL?" (14 posts)")
-* [Create conspiracy theory about AN (15)](https://forum.nationstates.net/viewtopic.php?t=556711&f=25&view=unread#unread ""Create conspiracy theory about AN" (15 posts)")
-* [The Seal and Logo Request Thread (8,567)](https://forum.nationstates.net/viewtopic.php?t=418198&f=23&view=unread#unread ""The Seal and Logo Request Thread" (8,567 posts)")
-* [NS Military Worldbuilding Thread No. 12 (8,869)](https://forum.nationstates.net/viewtopic.php?t=489819&f=23&view=unread#unread ""NS Military Worldbuilding Thread No. 12" (8,869 posts)")
+* [Say a random sentence (8,637)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (8,637 posts)")
+* [Geography Game II (10,473)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (10,473 posts)")
+* [What would the AN get if trading card… (218)](https://forum.nationstates.net/viewtopic.php?t=555137&f=25&view=unread#unread ""What would the AN get if trading cards came now?" (218 posts)")
+* [Ask BN a question (1,829)](https://forum.nationstates.net/viewtopic.php?t=550451&f=25&view=unread#unread ""Ask BN a question" (1,829 posts)")
+* [Best NS Flag Of October 2024 (26)](https://forum.nationstates.net/viewtopic.php?t=556609&f=25&view=unread#unread ""Best NS Flag Of October 2024" (26 posts)")
 
 Advertisement
 
