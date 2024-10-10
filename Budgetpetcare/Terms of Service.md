@@ -78,7 +78,7 @@ Use Code : OCTSALE
 * [New Arrivals](https://www.budgetpetcare.com/new-arrivals.aspx)
 * Special Offer
     * [**Latest Offers**](https://www.budgetpetcare.com/sale.aspx)
-    * [**Cat Month Sale**](https://www.budgetpetcare.com/seasonal-offers.aspx)
+    * [**Pet Wellness Sale**](https://www.budgetpetcare.com/seasonal-offers.aspx)
     * [**Flash Sale**](https://www.budgetpetcare.com/flash-offers.aspx)
 
 * [Homes](https://www.budgetpetcare.com/)
