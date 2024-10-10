@@ -109,7 +109,7 @@ Dark mode i
 
 [You are in our Global Site ![Global links dropdown](/themes/custom/da_vinci_code/images/icon-downarrow.png)](#) 
 
-* [Contact us](https://www.nestle.com/info/contactus/contactus)
+* [Contact us](https://www.nestle.com/index.php/info/contactus/contactus)
 
 Contribute to a more sustainable experience by switching to dark mode. [Find out more](https://www.nestle.com/info/website-carbon-footprint).
 
@@ -1900,13 +1900,13 @@ Header persistent submenu
 
 * [Contact us
     
-    ![Contact us](/sites/default/files/styles/webp_image/public/2019-05/icon-contact-yellow_0.png.webp?itok=4a42IXxD)](https://www.nestle.com/info/contactus/contactus)
+    ![Contact us](/sites/default/files/styles/webp_image/public/2019-05/icon-contact-yellow_0.png.webp?itok=4a42IXxD)](https://www.nestle.com/index.php/info/contactus/contactus)
 * [Sign up
     
-    ![Sign up](/sites/default/files/styles/webp_image/public/2019-05/icon-signup-green_0.png.webp?itok=1qI1N5bs)](https://www.nestle.com/info/sign-me-up)
+    ![Sign up](/sites/default/files/styles/webp_image/public/2019-05/icon-signup-green_0.png.webp?itok=1qI1N5bs)](https://www.nestle.com/index.php/info/sign-me-up)
 * [Speak Up
     
-    ![Speak Up](/sites/default/files/styles/webp_image/public/2019-05/icon-tellus-teal_0.png.webp?itok=vMHcV9VN)](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
+    ![Speak Up](/sites/default/files/styles/webp_image/public/2019-05/icon-tellus-teal_0.png.webp?itok=vMHcV9VN)](https://www.nestle.com/index.php/about/how-we-do-business/report-compliance-concerns)
 
 1. [Home](https://www.nestle.com/)
 2. How Nestlé uses cookies and other tracking technology
@@ -2029,28 +2029,28 @@ Useful Links
 Useful Links
 ------------
 
-* [Ask Nestlé (FAQs)](https://www.nestle.com/ask-nestle)
-* [Contact us](https://www.nestle.com/info/contactus/contactus)
-* [Search for jobs](https://www.nestle.com/search-jobs/career-areas)
-* [Sign up for news](https://www.nestle.com/info/sign-me-up)
-* [Speak Up](https://www.nestle.com/about/how-we-do-business/report-compliance-concerns)
+* [Ask Nestlé (FAQs)](https://www.nestle.com/index.php/ask-nestle)
+* [Contact us](https://www.nestle.com/index.php/info/contactus/contactus)
+* [Search for jobs](https://www.nestle.com/index.php/search-jobs/career-areas)
+* [Sign up for news](https://www.nestle.com/index.php/info/sign-me-up)
+* [Speak Up](https://www.nestle.com/index.php/about/how-we-do-business/report-compliance-concerns)
 
 Company
 -------
 
-* [Global addresses](https://www.nestle.com/about/overview/global-addresses)
-* [Strategy](https://www.nestle.com/about/strategy)
-* [Our leadership](https://www.nestle.com/about/management)
-* [Brands A - Z](https://www.nestle.com/brands/brandssearchlist)
-* [Our history](https://www.nestle.com/about/history)
-* [Sustainability](https://www.nestle.com/sustainability)
+* [Global addresses](https://www.nestle.com/index.php/about/overview/global-addresses)
+* [Strategy](https://www.nestle.com/index.php/about/strategy)
+* [Our leadership](https://www.nestle.com/index.php/about/management)
+* [Brands A - Z](https://www.nestle.com/index.php/brands/brandssearchlist)
+* [Our history](https://www.nestle.com/index.php/about/history)
+* [Sustainability](https://www.nestle.com/index.php/sustainability)
 
 Downloads
 ---------
 
-* [Annual Review (pdf, 11Mb)](https://www.nestle.com/sites/default/files/2024-02/2023-annual-review-en.pdf)
-* [CSV and Sustainability Report (pdf, 19Mb)](https://www.nestle.com/sites/default/files/2024-02/creating-shared-value-sustainability-report-2023-en.pdf)
-* [Responsible Sourcing Core Requirements (pdf, 2Mb)](https://www.nestle.com/sites/default/files/asset-library/documents/library/documents/suppliers/nestle-responsible-sourcing-standard-english.pdf)
+* [Annual Review (pdf, 11Mb)](https://www.nestle.com/index.php/sites/default/files/2024-02/2023-annual-review-en.pdf)
+* [CSV and Sustainability Report (pdf, 19Mb)](https://www.nestle.com/index.php/sites/default/files/2024-02/creating-shared-value-sustainability-report-2023-en.pdf)
+* [Responsible Sourcing Core Requirements (pdf, 2Mb)](https://www.nestle.com/index.php/sites/default/files/asset-library/documents/library/documents/suppliers/nestle-responsible-sourcing-standard-english.pdf)
 
 Other Nestlé Businesses
 -----------------------
@@ -2062,16 +2062,16 @@ Other Nestlé Businesses
 Media
 -----
 
-* [News](https://www.nestle.com/media/news "News")
-* [Media contacts](https://www.nestle.com/media/media-contacts "Media contacts")
-* [Images](https://www.nestle.com/media/images-video "Images")
+* [News](https://www.nestle.com/index.php/media/news "News")
+* [Media contacts](https://www.nestle.com/index.php/media/media-contacts "Media contacts")
+* [Images](https://www.nestle.com/index.php/media/images-video "Images")
 
 Investors
 ---------
 
-* [Corporate governance](https://www.nestle.com/investors/corporate-governance)
-* [Shares, ADRs, & Bonds](https://www.nestle.com/investors/sharesadrsbonds)
-* [Publications](https://www.nestle.com/investors/publications)
+* [Corporate governance](https://www.nestle.com/index.php/investors/corporate-governance)
+* [Shares, ADRs, & Bonds](https://www.nestle.com/index.php/investors/sharesadrsbonds)
+* [Publications](https://www.nestle.com/index.php/investors/publications)
 
 SHARE INFORMATION
 -----------------
