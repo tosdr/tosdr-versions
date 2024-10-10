@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Lord Voldemort’s boggart took the form of his dead body.
+In early notes, two school subjects were originally called Herbalism and Beasts. Divination and Alchemy were also listed as compulsory subjects.
 
 ### Potter History
 
-March 23, 2007 – Warner Bros. announces that Daniel Radcliffe, Rupert Grint, and Emma Watson are all signed on for the final two Harry Potter films.
+July 15, 2001 – Harry Potter and the Deathly Hallows – Part 2 is released in theaters, breaking records to have the highest-grossing midnight release, first 24 hours, and opening weekend of all time. It is also currently the third highest-grossing film of all time.
 
 ### Potter Quote
 
-“What are Fred and I, next-door neighbors?”
+“It only put me in Gryffindor because I asked not to go in Slytherin. . . .”
 
 [](#)
 
