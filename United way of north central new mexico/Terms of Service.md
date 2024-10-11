@@ -149,9 +149,9 @@ Sign up for our emails and stay informed about how we work with partners and sup
 * [Blogs](https://uwncnm.org/uwncnm-blogs)
 * [Media Press Kit](https://uwncnm.org/press-kit)
 
-![featured-images2-min](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "featured-images2-min")
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "featured-images2-min")
 
-![featured-images2-min](https://uwncnm.org/wp-content/uploads/elementor/thumbs/UWNCNM_logo_vertical_counties-400-pyp4v7a2l9m0s5ofn7gt7irjsj6lz6idei3fthmnqe.jpg "featured-images2-min")
+![](https://uwncnm.org/wp-content/uploads/elementor/thumbs/UWNCNM_logo_vertical_counties-400-pyp4v7a2l9m0s5ofn7gt7irjsj6lz6idei3fthmnqe.jpg "featured-images2-min")
 
 [Give Now](https://uwncnm.org/terms-of-use/?campaign=518585)
 
