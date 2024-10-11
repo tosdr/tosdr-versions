@@ -20,16 +20,16 @@ Friday, October 11 2024
 
 Latest
 
-* [The Legend of Zelda: Echoes of Wisdom is a unique, imperfect adventure through Hyrule](https://digitpatrox.com/the-legend-of-zelda-echoes-of-wisdom-is-a-unique-imperfect-adventure-through-hyrule/)
-* [US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](https://digitpatrox.com/us-uk-warn-of-russian-apt29-hackers-targeting-zimbra-teamcity-servers/)
-* [Lynk & Co’s first EV is meant to be shared to lower its price](https://digitpatrox.com/lynk-cos-first-ev-is-meant-to-be-shared-to-lower-its-price/)
-* [Deadlock Patch Notes (October 10): Ranked Mode, Buffs, Nerfs & Other Changes](https://digitpatrox.com/deadlock-patch-notes-october-10-ranked-mode-buffs-nerfs-other-changes/)
-* [What Is Hosted Virtual Desktop? A complete 2024 Guide](https://digitpatrox.com/what-is-hosted-virtual-desktop-a-complete-2024-guide/)
-* [Industry unprepared for AI agent security challenges, experts warn](https://digitpatrox.com/industry-unprepared-for-ai-agent-security-challenges-experts-warn/)
-* [Why you should want face-recognition glasses – Computerworld](https://digitpatrox.com/why-you-should-want-face-recognition-glasses-computerworld/)
-* [Amazon Prime Members Can Get Two of These E-books Free in October](https://digitpatrox.com/amazon-prime-members-can-get-two-of-these-e-books-free-in-october/)
-* [Axis Health System breach claimed by Rhysida ransomware gang – $1.5M demanded](https://digitpatrox.com/axis-health-system-breach-claimed-by-rhysida-ransomware-gang-1-5m-demanded/)
-* [1.7 Million Honda and Acura Cars Recato Fix Steering Problem](https://digitpatrox.com/1-7-million-honda-and-acura-cars-recato-fix-steering-problem/)
+* [AMD eyes networking efficiency gains in bid to streamline AI data center operations](https://digitpatrox.com/amd-eyes-networking-efficiency-gains-in-bid-to-streamline-ai-data-center-operations/)
+* [Over 31 Million User Accounts Exposed](https://digitpatrox.com/over-31-million-user-accounts-exposed/)
+* [Elon Musk unveils Tesla self-driving Cybercab for under $30,000 — what the heck is it?](https://digitpatrox.com/elon-musk-unveils-tesla-self-driving-cybercab-for-under-30000-what-the-heck-is-it/)
+* [Hackers abuse F5 BIG-IP cookies to map internal servers](https://digitpatrox.com/hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
+* [How to lock any app with Face ID on an iPhone using iOS 18](https://digitpatrox.com/how-to-lock-any-app-with-face-id-on-an-iphone-using-ios-18/)
+* [Imgur is going to be less strict about memes with adult humor](https://digitpatrox.com/imgur-is-going-to-be-less-strict-about-memes-with-adult-humor/)
+* [Pets Go Codes (October 2024) – Are There Any?](https://digitpatrox.com/pets-go-codes-october-2024-are-there-any/)
+* [Best Free Antivirus for Gamers in 2024](https://digitpatrox.com/best-free-antivirus-for-gamers-in-2024/)
+* [Zoom launches new AI companion features for workplace platform](https://digitpatrox.com/zoom-launches-new-ai-companion-features-for-workplace-platform/)
+* [Download our Google Spaces Cheat Sheet](https://digitpatrox.com/download-our-google-spaces-cheat-sheet/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/NfZwpDEiEtaxYGryBaFrQ5-1200-80.jpg)](https://digitpatrox.com/the-legend-of-zelda-echoes-of-wisdom-is-a-unique-imperfect-adventure-through-hyrule/)
+* [![](https://cdn.mos.cms.futurecdn.net/SV8qnrvC5vLbQsYsyZxd37-1200-80.jpg)](https://digitpatrox.com/amd-eyes-networking-efficiency-gains-in-bid-to-streamline-ai-data-center-operations/)
     
-    [The Legend of Zelda: Echoes of Wisdom is a unique, imperfect adventure through Hyrule](https://digitpatrox.com/the-legend-of-zelda-echoes-of-wisdom-is-a-unique-imperfect-adventure-through-hyrule/)
+    [AMD eyes networking efficiency gains in bid to streamline AI data center operations](https://digitpatrox.com/amd-eyes-networking-efficiency-gains-in-bid-to-streamline-ai-data-center-operations/)
     
-    16 seconds ago
+    43 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/09/Russian-hackers.jpg)](https://digitpatrox.com/us-uk-warn-of-russian-apt29-hackers-targeting-zimbra-teamcity-servers/)
+* [![](https://assets.techrepublic.com/uploads/2024/10/tr_20241011-internet-archive-accounts-exposed.jpg)](https://digitpatrox.com/over-31-million-user-accounts-exposed/)
     
-    [US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](https://digitpatrox.com/us-uk-warn-of-russian-apt29-hackers-targeting-zimbra-teamcity-servers/)
+    [Over 31 Million User Accounts Exposed](https://digitpatrox.com/over-31-million-user-accounts-exposed/)
     
-    29 mins ago
+    47 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/YwH_11PNG1io1yIP9EkLxGHQK9o=/0x0:5000x3750/1200x628/filters:focal(2500x1875:2501x1876)/cdn.vox-cdn.com/uploads/chorus_asset/file/25670725/LYNKCO_02_Exterior_04_Hires_D8d8a9.jpg)](https://digitpatrox.com/lynk-cos-first-ev-is-meant-to-be-shared-to-lower-its-price/)
+* [![](https://cdn.mos.cms.futurecdn.net/bhdv9bdcd75TyCrPMCjjPU-1200-80.jpg)](https://digitpatrox.com/elon-musk-unveils-tesla-self-driving-cybercab-for-under-30000-what-the-heck-is-it/)
     
-    [Lynk & Co’s first EV is meant to be shared to lower its price](https://digitpatrox.com/lynk-cos-first-ev-is-meant-to-be-shared-to-lower-its-price/)
-    
-    46 mins ago
-    
-* [![](https://beebom.com/wp-content/uploads/2024/10/Deadlock-Patch-Notes-October-10-cover.jpg)](https://digitpatrox.com/deadlock-patch-notes-october-10-ranked-mode-buffs-nerfs-other-changes/)
-    
-    [Deadlock Patch Notes (October 10): Ranked Mode, Buffs, Nerfs & Other Changes](https://digitpatrox.com/deadlock-patch-notes-october-10-ranked-mode-buffs-nerfs-other-changes/)
+    [Elon Musk unveils Tesla self-driving Cybercab for under $30,000 — what the heck is it?](https://digitpatrox.com/elon-musk-unveils-tesla-self-driving-cybercab-for-under-30000-what-the-heck-is-it/)
     
     1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/What-Is-Hosted-Virtual-Desktop.jpeg)](https://digitpatrox.com/what-is-hosted-virtual-desktop-a-complete-2024-guide/)
+* [![](https://www.bleepstatic.com/content/hl-images/2022/05/09/F5_loogo.jpg)](https://digitpatrox.com/hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
     
-    [What Is Hosted Virtual Desktop? A complete 2024 Guide](https://digitpatrox.com/what-is-hosted-virtual-desktop-a-complete-2024-guide/)
+    [Hackers abuse F5 BIG-IP cookies to map internal servers](https://digitpatrox.com/hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
+    
+    1 hour ago
+    
+* [![](https://cdn.vox-cdn.com/thumbor/A55zAsvOduPsZkHtdSp6PdPaixY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986267/HT015_S_Haddad_ios_iphone_apps.jpg)](https://digitpatrox.com/how-to-lock-any-app-with-face-id-on-an-iphone-using-ios-18/)
+    
+    [How to lock any app with Face ID on an iPhone using iOS 18](https://digitpatrox.com/how-to-lock-any-app-with-face-id-on-an-iphone-using-ios-18/)
     
     2 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [16 seconds ago
+* [43 mins ago
     
-    ### The Legend of Zelda: Echoes of Wisdom is a unique, imperfect adventure through Hyrule](https://digitpatrox.com/the-legend-of-zelda-echoes-of-wisdom-is-a-unique-imperfect-adventure-through-hyrule/)
-* [29 mins ago
+    ### AMD eyes networking efficiency gains in bid to streamline AI data center operations](https://digitpatrox.com/amd-eyes-networking-efficiency-gains-in-bid-to-streamline-ai-data-center-operations/)
+* [47 mins ago
     
-    ### US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](https://digitpatrox.com/us-uk-warn-of-russian-apt29-hackers-targeting-zimbra-teamcity-servers/)
-* [46 mins ago
+    ### Over 31 Million User Accounts Exposed](https://digitpatrox.com/over-31-million-user-accounts-exposed/)
+* [1 hour ago
     
-    ### Lynk & Co’s first EV is meant to be shared to lower its price](https://digitpatrox.com/lynk-cos-first-ev-is-meant-to-be-shared-to-lower-its-price/)
+    ### Elon Musk unveils Tesla self-driving Cybercab for under $30,000 — what the heck is it?](https://digitpatrox.com/elon-musk-unveils-tesla-self-driving-cybercab-for-under-30000-what-the-heck-is-it/)
 
 Most Popular Topics
 
-* [September 2, 2024
+* [3 weeks ago
     
-    ### Gemini AI integration could be coming to Android Auto](https://digitpatrox.com/gemini-ai-integration-could-be-coming-to-android-auto/)
-* [August 15, 2024
+    ### With genAI models, size matters (and smaller may be better) – Computerworld](https://digitpatrox.com/with-genai-models-size-matters-and-smaller-may-be-better-computerworld/)
+* [August 16, 2024
     
-    ### The Fitbit Inspire 3 Is on Sale for $80 Right Now](https://digitpatrox.com/the-fitbit-inspire-3-is-on-sale-for-80-right-now/)
-* [1 week ago
+    ### How to use Android Quick Share to transfer files on Windows 11](https://digitpatrox.com/how-to-use-android-quick-share-to-transfer-files-on-windows-11/)
+* [4 weeks ago
     
-    ### 7 Best BYOPC Security Solution for Remote Work 2024](https://digitpatrox.com/7-best-byopc-security-solution-for-remote-work-2024/)
+    ### ChatGPT’s New o1 Model Shows You How It Solved Your Problem](https://digitpatrox.com/chatgpts-new-o1-model-shows-you-how-it-solved-your-problem/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### Pets Go Codes (October 2024) – Are There Any?](https://digitpatrox.com/pets-go-codes-october-2024-are-there-any/)
 * [3 hours ago
     
-    ### Why you should want face-recognition glasses – Computerworld](https://digitpatrox.com/why-you-should-want-face-recognition-glasses-computerworld/)
+    ### Best Free Antivirus for Gamers in 2024](https://digitpatrox.com/best-free-antivirus-for-gamers-in-2024/)
 * [3 hours ago
     
-    ### Amazon Prime Members Can Get Two of These E-books Free in October](https://digitpatrox.com/amazon-prime-members-can-get-two-of-these-e-books-free-in-october/)
-* [3 hours ago
-    
-    ### Axis Health System breach claimed by Rhysida ransomware gang – $1.5M demanded](https://digitpatrox.com/axis-health-system-breach-claimed-by-rhysida-ransomware-gang-1-5m-demanded/)
+    ### Zoom launches new AI companion features for workplace platform](https://digitpatrox.com/zoom-launches-new-ai-companion-features-for-workplace-platform/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
