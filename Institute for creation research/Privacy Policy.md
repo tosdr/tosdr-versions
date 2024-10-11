@@ -96,31 +96,65 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Research
+More Days of Praise
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/darwinianplasticity_1400x1050.jpg)](https://www.icr.org/article/myth-darwinian-plasticity)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/all-the-people)
 
-[The Myth of Darwinian Plasticity](https://www.icr.org/article/myth-darwinian-plasticity/)
+[All the People](https://www.icr.org/article/all-the-people/)
 
-Staff Writer Among the mechanisms promoted to account for the process of evolution, plasticity is one of the most prominent. This term broadly refers...
+“And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe...
 
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/rogue_moths.jpg)](https://www.icr.org/article/rogue-moths-didnt-start-out-that-way)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/triune-comforter)
 
-[Rogue Moths Didn't Start Out That Way](https://www.icr.org/article/rogue-moths-didnt-start-out-that-way/)
+[The Triune Comforter](https://www.icr.org/article/triune-comforter/)
 
-Butterflies and moths fluttering around a flower are a beautiful sight. They innocently lap up nectar and float on the wind. Countless plants depend...
+“Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; Who comforteth us in all our...
 
-BY: [SCOTT ARLEDGE](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=246)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/subduction_essential.jpg)](https://www.icr.org/article/subduction-was-essential-for-the-ice-age)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/brightness-glory)
 
-[Subduction Was Essential for the Ice Age](https://www.icr.org/article/subduction-was-essential-for-the-ice-age/)
+[The Brightness of the Glory](https://www.icr.org/article/brightness-glory/)
 
-Creation meteorologist Michael Oard has written extensively about what it takes to make an ice age. The first requirement is much warmer oceans than...
+“Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
+
+Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
+
+$14.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
+
+Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
+
+$12.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10472152/file.jpg)
+
+Biblical Creationism](https://store.icr.org/dr-henry-morris-biblical-creationism.html)
+
+$14.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475517/file.jpg)
+
+The Modern Creation Trilogy](https://store.icr.org/dr-henry-morris-the-modern-creation-trilogy.html)
+
+$29.99
+
+$34.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
+
+The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
+
+$13.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
