@@ -55,12 +55,18 @@
         
     * [Atari »](https://www.pricecharting.com/brand/video-games/atari) [Atari »](#)
         
+        * NTSC (USA)
         * [Atari 2600](https://www.pricecharting.com/console/atari-2600)
         * [Atari 5200](https://www.pricecharting.com/console/atari-5200)
         * [Atari 7800](https://www.pricecharting.com/console/atari-7800)
         * [Atari 400/800](https://www.pricecharting.com/console/atari-400)
         * [Atari Lynx](https://www.pricecharting.com/console/atari-lynx)
         * [Atari Jaguar](https://www.pricecharting.com/console/jaguar)
+        
+        * PAL (Europe)
+        * [PAL Atari 2600](https://www.pricecharting.com/console/pal-atari-2600)
+        *  [](#)
+        * [PAL Atari 7800](https://www.pricecharting.com/console/pal-atari-7800)
         
     * [Neo Geo »](https://www.pricecharting.com/brand/video-games/neo-geo) [Neo Geo »](#)
         
@@ -148,6 +154,7 @@
         * [JP Original Xbox](https://www.pricecharting.com/console/jp-xbox)
         * [JP Xbox 360](https://www.pricecharting.com/console/jp-xbox-360)
         * [JP Xbox One](https://www.pricecharting.com/console/jp-xbox-one)
+        * [JP Xbox Series X](https://www.pricecharting.com/console/jp-xbox-series-x)
         
     * [Other Platforms](https://www.pricecharting.com/brand/video-games/other)
     * [Toys to Life »](https://www.pricecharting.com/brand/video-games/toys-to-life) [Toys to Life »](#)
