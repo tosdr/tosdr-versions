@@ -61,15 +61,11 @@
 **Privacy Policy**
 ==================
 
-[![TRUSTe Policy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![TRUSTe Policy](https://privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)
+[![TRUSTe Policy](https://privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)
 
 Opens a new window](http://privacy.truste.com/privacy-seal/validation?rid=01b0263e-277d-4e52-9ddd-86550128ec1a "Opens a new window")
 
-[![TRUSTe Feebback](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![TRUSTe Feebback](http://privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
+[![TRUSTe Feebback](http://privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
 
 Opens a new window](http://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c "Opens a new window")
 
