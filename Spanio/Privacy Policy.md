@@ -178,7 +178,7 @@ We have no control over and assume no responsibility for the content, privacy po
 
 **‍**If you have any questions about this Privacy Policy, would like to correct or amend personal information, or would like to opt-out from certain services please contact us:
 
-* By email: [privacy@span.io](mailto:privacy@span.io)
+* By email: [\[email protected\]](https://www.span.io/cdn-cgi/l/email-protection)
 * By mail: Span.IO, Inc., Attn: Privacy, 679 Bryant Street, San Francisco, CA 94107
 
 Previous versions
