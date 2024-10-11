@@ -186,7 +186,7 @@ TIS has appointed two Data Protection Managers who will deal with all your reque
 
 ‍
 
-Requests and enquiries should be sent to the Data Protection Managers at gdpr@thisisschool.com
+Requests and enquiries should be sent to the Data Protection Managers at [\[email protected\]](https://www.thisisschool.com/cdn-cgi/l/email-protection)
 
 ‍
 
