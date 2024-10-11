@@ -25,7 +25,7 @@ Who we are
 
 Springpod is a trading name of The Education Hub Group Limited, registered in England and Wales under company number 10150500. Our address is Arch 6, Maltings Place, 169 Tower Bridge Road, London. SE1 3LJ and our website is [www.springpod.com](http://www.springpod.com/).
 
-To ensure the best possible consideration is given to protecting your data, we subscribe to expert support from a specialist consultancy called Business Risk and Compliance Experts Ltd who supply us with our dedicated Data Protection Officer, Kieran Morgan-McGeehan. If you have any queries or concerns, you can contact him by telephone at 0203 637 8665 or by email at [dpo@springpod.com](mailto:dpo@springpod.com).
+To ensure the best possible consideration is given to protecting your data, we subscribe to expert support from a specialist consultancy called Business Risk and Compliance Experts Ltd who supply us with our dedicated Data Protection Officer, Kieran Morgan-McGeehan. If you have any queries or concerns, you can contact him by telephone at 0203 637 8665 or by email at [\[email protected\]](https://www.springpod.co.uk/cdn-cgi/l/email-protection).
 
 ##### 1\. How we follow data protection regulations
 
@@ -212,7 +212,7 @@ Data protection regulations mean you have rights in respect of the information w
 
 You do not have to pay any charge for exercising your rights. If you make a request, we will respond to you within one month. If you wish to action any of the above, please contact us by:
 
-* Emailing [dpo@springpod.com](mailto:dpo@springpod.com)  
+* Emailing [\[email protected\]](https://www.springpod.co.uk/cdn-cgi/l/email-protection)  
     
 * Writing to Springpod, Unit 5 Lloyd’s Wharf, Mill Street, London, SE1 2BD.
 * Telephoning us on 0203 637 8665
@@ -235,7 +235,7 @@ We regularly review this policy. Any changes that we may make in the future will
 
 This Privacy notice is the February 2021 version.
 
-[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/633d6296accedca308f4e7be_Springpod%20logo%20-%20no%20R%20mark%20-%20white.svg)](http://www.springpod.co.uk/)[hello@springpod.com](mailto:hello@springpod.com?subject=Hello%20Springpod!)
+[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/633d6296accedca308f4e7be_Springpod%20logo%20-%20no%20R%20mark%20-%20white.svg)](http://www.springpod.co.uk/)[\[email protected\]](https://www.springpod.co.uk/cdn-cgi/l/email-protection)
 
 #### Legal
 
