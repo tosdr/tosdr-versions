@@ -185,8 +185,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [**Going for Broke at the NCAA** | Playing Like a Girl: The House That Rob Built](https://video.nhpbs.org/video/going-for-broke-at-the-ncaa-sa3iul?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**October 10, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-10-2024-pbs-news-hour-full-episode-1728532801?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Last Of The Sea Women** | Flicks](https://video.nhpbs.org/video/last-of-the-seawomen-i5hc09?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**October 10, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-10-2024-pbs-news-hour-full-episode-1728532801?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**5 Creepy Creatures Out to Suck Your Blood** | Deep Look](https://video.nhpbs.org/video/5-creepy-creatures-out-to-suck-your-blood-0ohtbs?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Kamala Media Blitz; Melania Trump's Memoir** | To The Contrary](https://video.nhpbs.org/video/kamala-media-blitz-melania-trumps-memoir-n2gulb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Decoding the Herculaneum Scrolls: AI Meets Ancient Texts** | Secrets of the Dead](https://video.nhpbs.org/video/decoding-the-herculaneum-scrolls-ai-meets-ancient-texts-ie6d6z?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
