@@ -154,7 +154,6 @@ Asia
     * [New Arrivals](https://www.fjallraven.com/us/en-us/women/new-arrivals/)
     * [Best Sellers](https://www.fjallraven.com/us/en-us/women/best-sellers/)
     * [Limited Edition](https://www.fjallraven.com/us/en-us/women/limited-edition/)
-    * [Featured Collections](https://www.fjallraven.com/us/en-us/women/featured-collections/)
     * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/women/fjallraven-specialized/)
     * Jackets
         
@@ -225,7 +224,6 @@ Asia
     * [Show all](https://www.fjallraven.com/us/en-us/bags-gear/)
     * [New Arrivals](https://www.fjallraven.com/us/en-us/bags-gear/new-arrivals/)
     * [Best Sellers](https://www.fjallraven.com/us/en-us/bags-gear/best-sellers/)
-    * [Featured Collections](https://www.fjallraven.com/us/en-us/bags-gear/featured-collections/)
     * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/bags-gear/fjallraven-specialized/)
     * Kånken
         
@@ -278,7 +276,7 @@ Asia
     
 * EXPERIENCES
     
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=d5063ef2-f836-4818-a183-a2ce60f42bd7)
+    * [Show all](https://experience.fjallraven.com/us/en-us?id=b7bba8c9-9592-42bd-a550-27b5078bc8c4)
     * [Foxtrail](https://foxtrail.fjallraven.com/)
     * [Classic](https://classic.fjallraven.com/)
     * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -347,7 +345,6 @@ Asia
         * [New Arrivals](https://www.fjallraven.com/us/en-us/women/new-arrivals/)
         * [Best Sellers](https://www.fjallraven.com/us/en-us/women/best-sellers/)
         * [Limited Edition](https://www.fjallraven.com/us/en-us/women/limited-edition/)
-        * [Featured Collections](https://www.fjallraven.com/us/en-us/women/featured-collections/)
         * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/women/fjallraven-specialized/)
         * Jackets
             
@@ -400,7 +397,6 @@ Asia
         * [Show all](https://www.fjallraven.com/us/en-us/bags-gear/)
         * [New Arrivals](https://www.fjallraven.com/us/en-us/bags-gear/new-arrivals/)
         * [Best Sellers](https://www.fjallraven.com/us/en-us/bags-gear/best-sellers/)
-        * [Featured Collections](https://www.fjallraven.com/us/en-us/bags-gear/featured-collections/)
         * [Fjällräven/Specialized](https://www.fjallraven.com/us/en-us/bags-gear/fjallraven-specialized/)
         * Kånken
             
@@ -444,7 +440,7 @@ Asia
         
     * EXPERIENCES
         
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=d5063ef2-f836-4818-a183-a2ce60f42bd7)
+        * [Show all](https://experience.fjallraven.com/us/en-us?id=b7bba8c9-9592-42bd-a550-27b5078bc8c4)
         * [Foxtrail](https://foxtrail.fjallraven.com/)
         * [Classic](https://classic.fjallraven.com/)
         * [Polar](https://experience.fjallraven.com/polar/2024)
@@ -701,7 +697,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=d5063ef2-f836-4818-a183-a2ce60f42bd7)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2024?id=b7bba8c9-9592-42bd-a550-27b5078bc8c4)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
