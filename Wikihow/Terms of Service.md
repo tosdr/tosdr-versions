@@ -390,23 +390,23 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Guess the Lyrics Quiz](https://www.wikihow.com/images/thumb/a/ac/Guess_the_lyrics_quiz.png/-crop-126-120-126px-Guess_the_lyrics_quiz.png)
+
+Guess the Lyrics Quiz](https://www.wikihow.com/Guess-the-Lyrics-Quiz)
+
+[![Make Activity Books for Children](https://www.wikihow.com/images/thumb/e/e9/Make-Activity-Books-for-Children-Step-13-Version-3.jpg/-crop-126-120-126px-Make-Activity-Books-for-Children-Step-13-Version-3.jpg)
+
+How to  
+Make Activity Books for Children](https://www.wikihow.com/Make-Activity-Books-for-Children)
+
+[![Write a Light Novel](https://www.wikihow.com/images/thumb/9/9c/Write-a-Light-Novel-Step-10-Version-2.jpg/-crop-126-120-126px-Write-a-Light-Novel-Step-10-Version-2.jpg)
+
+How to  
+Write a Light Novel](https://www.wikihow.com/Write-a-Light-Novel)
+
 [![Savage Comebacks in an Argument](https://www.wikihow.com/images/thumb/b/b8/Savage-Comebacks-in-an-Argument-Step-7.jpg/-crop-126-120-126px-Savage-Comebacks-in-an-Argument-Step-7.jpg)
 
 105 Savage, Clever, & Creative Comebacks to Win Any Argument](https://www.wikihow.com/Savage-Comebacks-in-an-Argument)
-
-[![Become a Pilot](https://www.wikihow.com/images/thumb/3/3f/Become-a-Pilot-Step-5-Version-2.jpg/-crop-126-120-126px-Become-a-Pilot-Step-5-Version-2.jpg)
-
-How to  
-Become a Pilot](https://www.wikihow.com/Become-a-Pilot)
-
-[![Feel Calm and Relaxed](https://www.wikihow.com/images/thumb/b/b0/Feel-Calm-and-Relaxed-Step-18-Version-2.jpg/-crop-126-120-126px-Feel-Calm-and-Relaxed-Step-18-Version-2.jpg)
-
-How to  
-Feel Calm and Relaxed](https://www.wikihow.com/Feel-Calm-and-Relaxed)
-
-[![Tell if Someone Likes You Online](https://www.wikihow.com/images/thumb/c/cb/Tell-if-Someone-Likes-You-Online-Step-11.jpg/-crop-126-120-126px-Tell-if-Someone-Likes-You-Online-Step-11.jpg)
-
-Wondering if Someone Likes You Online? 11 Important Signs to Watch Out For](https://www.wikihow.com/Tell-if-Someone-Likes-You-Online)
 
   
 
@@ -449,4 +449,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-187
+181
