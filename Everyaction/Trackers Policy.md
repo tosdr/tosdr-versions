@@ -573,6 +573,26 @@ Previous Next
 Social impact insights & information
 ------------------------------------
 
+* ![A group of young colleagues gathers around a desk in an office and reviews information on a laptop screen.](/sites/default/files/styles/card_image_short/public/2024-05/1663298209.jpeg?h=f7d9296c&itok=_DyJhsie)
+    
+    ### [Top 10 questions to evaluate and choose CSR software](https://www.everyaction.com/blog/top-10-questions-evaluate-and-choose-csr-software)
+    
+    * Corporate social responsibility
+    * Employee giving
+    * Grant management & grant making
+    * Corporations
+    * Corporate Social Responsibility
+    
+* ![A team wraps up a meeting standing in front of a laptop](/sites/default/files/styles/card_image_short/public/2024-08/1457878227.jpeg?h=9983af2c&itok=HC0csy8f)
+    
+    ### [3 strategies to unlock your CSR participation potential](https://www.everyaction.com/blog/3-strategies-unlock-your-csr-participation-potential)
+    
+    * Corporate social responsibility
+    * Employee giving
+    * Employee volunteering
+    * Corporations
+    * Corporate Social Responsibility
+    
 * ![Coworkers reviewing data on a tablet.](/sites/default/files/styles/card_image_short/public/2024-08/1178155113.jpeg?h=ada05aa9&itok=tLdSxVLr)
     
     ### [Impact measurement 101: defining and collecting data](https://www.everyaction.com/blog/impact-measurement-101-defining-and-collecting-data)
@@ -581,25 +601,6 @@ Social impact insights & information
     * Nonprofits
     * Case Management
     * Human services
-    
-* ![Case study](/sites/default/files/styles/card_image_short/public/2023-01/case-study-hero.jpg?h=b939d4c7&itok=ZeK9xxSu)
-    
-    ### [Bonterra acquires DonorDrive](https://www.everyaction.com/blog/bonterra-acquires-donordrive)
-    
-    * Capacity building
-    * Coordinating social services
-    * Corporate social responsibility
-    * Corporations
-    * Donor Engagement
-    
-* ![An employee working at a business with a matching gift program smiles while working on her computer.](/sites/default/files/styles/card_image_short/public/2023-06/istock-1180171302.jpg?h=119335f7&itok=l4kA8b6s)
-    
-    ### [Win-win-win workplace giving programs: How to tap in](https://www.everyaction.com/blog/best-workplace-giving-programs)
-    
-    * Corporate social responsibility
-    * Employee giving
-    * Corporations
-    * Corporate Social Responsibility
     
 
 ![Bonterra](/sites/default/files/2022-08/bonterra_footer.svg)
