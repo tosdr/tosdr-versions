@@ -77,7 +77,7 @@ Our procedures prevent unauthorized access to your data by anyone, including our
 
 #### You Have Choices:
 
-* Personal Data: You can change or correct data about yourself through your [Privacy.com](http://privacy.com/) account at any time or by emailing us at support@privacy.com.
+* Personal Data: You can change or correct data about yourself through your [Privacy.com](http://privacy.com/) account at any time or by emailing us at [\[email protected\]](https://privacy.com/cdn-cgi/l/email-protection).
 * Email and Text Communications: You can opt-out of email or text messages by following unsubscribe instructions in these messages. If you opt-out, we may still send you messages regarding transactions and services related to our ongoing business relationship.
 * Notifications: Our Services may ask you for permission to send notifications to your device. Our services will still work if you do not grant us permission to send you notifications.
 * Do Not Track: Some browsers support a “Do Not Track” feature, which is intended to be a signal to websites that you do not wish to be tracked across different websites you visit. Our Services do not currently change the way they operate based upon detection of a Do Not Track or similar signal.
@@ -129,7 +129,7 @@ PMB 57488
 New York, NY 10003-1502  
 United States
 
-If you have questions, please email us at [support@privacy.com](mailto:support@privacy.com) , or give us a call at [1-844-771-8229](tel:+18447718229).
+If you have questions, please email us at [\[email protected\]](https://privacy.com/cdn-cgi/l/email-protection) , or give us a call at [1-844-771-8229](tel:+18447718229).
 
 Product
 
@@ -161,7 +161,7 @@ Company
 
 Contact Us
 
-[Email](mailto:support@privacy.com)[Twitter](https://twitter.com/privacyhq)
+[\[email protected\]](https://privacy.com/cdn-cgi/l/email-protection)[Twitter](https://twitter.com/privacyhq)
 
 \* For users on the Privacy Personal plan, there are no fees on domestic transactions and foreign transactions incur a 3% fee ($0.50 minimum). Users on our [Pro and Premium plans](https://privacy.com/pricing) do not incur foreign transaction fees. Refer to your cardholder agreement for details.
 
