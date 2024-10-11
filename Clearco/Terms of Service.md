@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6708449d631129331e3f31e5_How%20to%20Prepare_Header_1080x600.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/66fab29e3c22d7d50b55e8bc_clearco-inaugural-ecommerce-awards.png)
 
-###### Amazon Inventory Deadline Approaching: How to Prepare and What Are the Costs
+###### Calling All Top Ecommerce Merchants and Stores: Apply for Clearco’s Inaugural Ecommerce Awards
 
-[Read now >](https://clear.co/blog/amazon-inventory-deadline-prepare-what-are-costs)
+[Read now >](https://clear.co/blog/clearco-inaugural-ecommerce-awards)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
