@@ -679,11 +679,11 @@ Moloco Inc.
 601 Marshall St, 5th Floor  
 Redwood City, CA 94063
 
-[privacy@moloco.com](mailto:privacy@molocoads.com)
+[\[email protected\]](https://www.molocoads.com/cdn-cgi/l/email-protection)
 
 UK GDPR Representative: Moloco UK Limited, with registered address No.1 London Bridge, London, SE1 9BG  
 ‍  
-EU GDPR Representative: Moloco Germany GmbH, with registered address Am Zirkus 2, 10117 Berlin[‍](mailto:privacy@molocoads.com)**‍**
+EU GDPR Representative: Moloco Germany GmbH, with registered address Am Zirkus 2, 10117 Berlin[\[email protected\]](https://www.molocoads.com/cdn-cgi/l/email-protection)**‍**
 
 ![IAB Europe Approved status](https://cdn.prod.website-files.com/6237fca0466ffd9274a1dbdd/6276e97ed6475668695253cc_IAB%20transparency%26consent%20framework.webp)
 
