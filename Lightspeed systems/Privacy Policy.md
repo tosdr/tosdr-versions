@@ -35,7 +35,10 @@ Toggle Site Navigation
 
 * [Solutions](https://www.lightspeedsystems.com/solutions/) Open Solutions submenu
     * [Security & Compliance](https://www.lightspeedsystems.com/solutions/security-compliance/) Open Security & Compliance submenu
-        * [Support AI Edtech Success](https://www.lightspeedsystems.com/solutions/security-compliance/support-ai-edtech-success-school-districts/)
+        * [Compliance](https://www.lightspeedsystems.com/challenges/compliance/)
+        * [OH SB 29](https://www.lightspeedsystems.com/challenges/compliance-ohio-sb29/)
+        * [TX Scope](https://www.lightspeedsystems.com/challenges/compliance-scope-act/)
+        * [AI](https://www.lightspeedsystems.com/solutions/security-compliance/support-ai-edtech-success-school-districts/)
     * [Safety & Wellness](https://www.lightspeedsystems.com/solutions/safety-wellness/)
     * [Engagement & Impact](https://www.lightspeedsystems.com/solutions/engagement-impact/)
 * [Products](https://www.lightspeedsystems.com/products/) Open Products submenu
