@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/blazo-kovacevic/sa-izlozbe-u-sad/fallen-angel.jpg?itok=SxP45Eap)](http://seecult.org/galerija/galerija-umetnika/blazo-kovacevic/sa-izlozbe-u-sad)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/marica-radojcic-presic/branching/drvece/batajnica-1.jpg?itok=ciOBbr2k)](http://seecult.org/galerija/galerija-umetnika/marica-radojcic-presic/branching/drvece)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pankrti/pankrti8.jpg?itok=rD-83dZc)](http://seecult.org/galerija/foto-galerija/foto-arhiva/pankrti)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kuca-petra-lubarde.jpg?itok=Zd6bpszK)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -355,6 +355,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 * [Konkursi](#tab1_1)
 
+* [Konkurs za mlade umetnike - Nismo umetnici](http://seecult.org/konkurs/konkurs-za-mlade-umetnike-nismo-umetnici)
 * [Konkurs Galerije Meander za 2025.](http://seecult.org/konkurs/konkurs-galerije-meander-za-2025)
 * [Konkurs za 4. Međunarodno bijenale litografije](http://seecult.org/konkurs/konkurs-za-4-medunarodno-bijenale-litografije)
 * [Konkurs za volontere jubilarnog, 20. Filmskog festivala Slobodna zona](http://seecult.org/konkurs/konkurs-za-volontere-jubilarnog-20-filmskog-festivala-slobodna-zona)
@@ -362,7 +363,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Konkurs za 31. Jesenji likovni salon u Velikoj Plani](http://seecult.org/konkurs/konkurs-za-31-jesenji-likovni-salon-u-velikoj-plani)
 * [Sekundarna arhiva – otvoren konkurs za umetnice mlađe generacije](http://seecult.org/konkurs/sekundarna-arhiva-otvoren-konkurs-za-umetnice-mlade-generacije)
 * [Konkurs za prijavu filmova za 15. MikroFAF – Fresh Frames](http://seecult.org/konkurs/konkurs-za-prijavu-filmova-za-15-mikrofaf-fresh-frames)
-* [Kulturpunktova novinarska školica u Zagrebu i onlajn](http://seecult.org/konkurs/kulturpunktova-novinarska-skolica-u-zagrebu-i-onlajn)
 
 * [Kritika](#tab2_1)
 
