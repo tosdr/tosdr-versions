@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-8b656e0f2b9e40a497bf306a409fb64b
+827102295dad441d661307779ac8f434
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Pink Serenity earrings](https://sojourner.biz/images/cache/E0016.200.jpg)](https://sojourner.biz/jewelry/earrings/pink-serenity-earrings.html "Pink Serenity earrings")
+[![8 mm yellow decorated beads](https://sojourner.biz/images/cache/glass/GL0051.200.jpg)](https://sojourner.biz/beads/glass/8-mm-yellow-decorated-beads.html "8 mm yellow decorated beads")
 
-#### [Pink Serenity earrings](https://sojourner.biz/jewelry/earrings/pink-serenity-earrings.html "Pink Serenity earrings")
+#### [8 mm yellow decorated beads](https://sojourner.biz/beads/glass/8-mm-yellow-decorated-beads.html "8 mm yellow decorated beads")
 
-$25.00
+$15.00
 
 ### Best Sellers
 
