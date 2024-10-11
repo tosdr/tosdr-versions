@@ -144,9 +144,9 @@ a--h-150-100
 
 contact us
 
-[press@isomorphiclabs](mailto:press@isomorphiclabs)
+[\[email protected\]](https://www.isomorphiclabs.com/cdn-cgi/l/email-protection)
 
-[connecting@isomorphiclabs](mailto:connecting@isomorphiclabs)
+[\[email protected\]](https://www.isomorphiclabs.com/cdn-cgi/l/email-protection)
 
 info
 
