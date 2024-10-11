@@ -152,7 +152,7 @@ If you believe that your content has been infringed and is being cached on one o
 
 Imgix's designated agent for notice of alleged copyright infringement may be contacted at:
 
-Chris Zacharias 423 Tehama St., San Francisco, CA 94103 [dmca@imgix.com](mailto:dmca@imgix.com)
+Chris Zacharias 423 Tehama St., San Francisco, CA 94103 [\[email protected\]](https://www.imgix.com/cdn-cgi/l/email-protection)
 
 ‍
 
