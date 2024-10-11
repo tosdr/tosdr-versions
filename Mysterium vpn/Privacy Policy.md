@@ -236,7 +236,7 @@ We recommend that you review this Privacy Policy periodically for any changes. C
 11\. Contact Us
 ---------------
 
-If you have any questions about this Privacy Policy please contact us by emailing: [help@mysteriumvpn.com](http://help@mysteriumvpn.com/)  
+If you have any questions about this Privacy Policy please contact us by emailing: [\[email protected\]](http://help@mysteriumvpn.com/)  
 
 12\. Definitions
 ----------------
@@ -280,10 +280,10 @@ Resources
 
 Contact us
 
-[help@mysteriumvpn.com](mailto:help@mysteriumvpn.com)
+[\[email protected\]](https://www.mysteriumvpn.com/cdn-cgi/l/email-protection)
 
 © Copyright 2022 UAB "MN Technologijos"
 
-[![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b09534644f7330d591a501_mysterium-twitter-x.svg)](https://twitter.com/Mysteriumvpn)[![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b09534a478bf4894b5607e_mysterium-instagram.svg)](https://www.instagram.com/mysteriumvpn/)[![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b09534b56cddfddfbc3634_mysterium-facebook.svg)](https://www.facebook.com/vpnmysterium)[![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b0953479e4b7fd0bb9bc69_mysterium-mail.svg)](mailto:help@mysteriumvpn.com)
+[![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b09534644f7330d591a501_mysterium-twitter-x.svg)](https://twitter.com/Mysteriumvpn)[![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b09534a478bf4894b5607e_mysterium-instagram.svg)](https://www.instagram.com/mysteriumvpn/)[![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b09534b56cddfddfbc3634_mysterium-facebook.svg)](https://www.facebook.com/vpnmysterium)[\[email protected\]](https://www.mysteriumvpn.com/cdn-cgi/l/email-protection)
 
 ![](https://queue.simpleanalyticscdn.com/noscript.gif)
