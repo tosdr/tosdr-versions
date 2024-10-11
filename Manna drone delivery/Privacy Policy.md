@@ -40,7 +40,7 @@ Your privacy is important to us. This Privacy Notice ("**Notice**") describes ho
 
 ‍
 
-For the purposes of this Privacy Notice, the controller of your personal data is Manna Drone Delivery. The contact details of our Data Protection Officer ("**DPO**") are: [dpo@manna.aero](mailto:dpo@manna.aero).
+For the purposes of this Privacy Notice, the controller of your personal data is Manna Drone Delivery. The contact details of our Data Protection Officer ("**DPO**") are: [\[email protected\]](https://www.manna.aero/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -228,7 +228,7 @@ d)   that your personal data are kept secure by way of technical, organizatio
 
 ‍
 
-If you would like to find out more about any such transfers, please contact us by e-mailing [dpo@manna.aero](mailto:dpo@manna.aero).
+If you would like to find out more about any such transfers, please contact us by e-mailing [\[email protected\]](https://www.manna.aero/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -237,7 +237,7 @@ If you would like to find out more about any such transfers, please contact us b
 5\. Your Rights in Relation to Your Personal Data  
 ---------------------------------------------------
 
-You have a number of rights in relation to your personal data – these rights are set out below. In particular, these rights include the **right to withdraw your consent to our processing of your personal data** (where we rely on your consent to do so). Note that in certain circumstances these rights might not be absolute. You can exercise these rights by contacting us at [dpo@manna.aero](mailto:dpo@manna.aero).
+You have a number of rights in relation to your personal data – these rights are set out below. In particular, these rights include the **right to withdraw your consent to our processing of your personal data** (where we rely on your consent to do so). Note that in certain circumstances these rights might not be absolute. You can exercise these rights by contacting us at [\[email protected\]](https://www.manna.aero/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -324,11 +324,11 @@ If you object to any of the changes to this Notice, you should stop using the Ap
 8\. How to Contact Us
 ---------------------
 
-If you have any technical or support questions, please contact us via email at [dpo@manna.aero](mailto:dpo@manna.aero).
+If you have any technical or support questions, please contact us via email at [\[email protected\]](https://www.manna.aero/cdn-cgi/l/email-protection).
 
 ‍
 
-If you have any privacy concerns, complaints or inquiries for the DPO of Manna, please contact us via email at [dpo@manna.aero](mailto:dpo@manna.aero).
+If you have any privacy concerns, complaints or inquiries for the DPO of Manna, please contact us via email at [\[email protected\]](https://www.manna.aero/cdn-cgi/l/email-protection).
 
 ‍
 
