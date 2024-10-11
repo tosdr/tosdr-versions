@@ -12,7 +12,7 @@ WOMBO
 
 [![](https://cdn.prod.website-files.com/5fcec8fbaa06953c4f3ddbfc/5fcecb678cc42bfa2337dc6e_WOMBO.png)](https://www.wombo.ai/archive-pages/home-2)
 
-[](https://discord.gg/SXF2MJ8T6t)[](http://instagram.com/WOMBO.ai)[](http://twitter.com/WOMBO)[](mailto:hello@wombo.ai?subject=Website%20Inquiry)[](https://my.community.com/wombo)
+[](https://discord.gg/SXF2MJ8T6t)[](http://instagram.com/WOMBO.ai)[](http://twitter.com/WOMBO)[\[email protected\]](https://www.wombo.ai/cdn-cgi/l/email-protection)[](https://my.community.com/wombo)
 
 [Use Wombo](https://www.wombo.ai/archive-pages/home-2)[Main](http://w.ai/)[Blog](https://www.wombo.ai/archive-pages/blog)
 
@@ -22,7 +22,7 @@ WOMBO
 
 [Main](https://www.wombo.ai/archive-pages/home-2)[Career](https://www.wombo.ai/careers)[Blog](https://www.wombo.ai/archive-pages/blog)
 
-[](https://discord.com/invite/SXF2MJ8T6t)[](https://www.instagram.com/WOMBO.ai/)[](https://twitter.com/WOMBO)[](mailto:hello@wombo.ai?subject=Website%20Inquiry)[](https://my.community.com/wombo)
+[](https://discord.com/invite/SXF2MJ8T6t)[](https://www.instagram.com/WOMBO.ai/)[](https://twitter.com/WOMBO)[\[email protected\]](https://www.wombo.ai/cdn-cgi/l/email-protection)[](https://my.community.com/wombo)
 
 Privacy Policy
 --------------
@@ -50,7 +50,7 @@ We collect information from you when you use our services, including but not lim
 
 **Use**
 
-Our use of this data is limited to the exclusive purpose of improving our services for our users. For example, the facial feature data we collect is vital for the generation of the final WOMBO animation. App usage data is used for the exclusive purpose of better understanding the manner in which users spend time in the WOMBO app, so that we may improve our app experience. We may also use your contact information to send you information and updates about us and the Services, including without limitation confirmations, technical notices, updates, security alerts, support and administrative messages, and marketing communications. If you do not want to receive marketing communications or to opt out of use of your information for these purposes, please follow the opt-out instructions, (such as clicking "Unsubscribe" or similar opt-out language) in those communications. You can also contact us at hello@wombo.ai to opt out.
+Our use of this data is limited to the exclusive purpose of improving our services for our users. For example, the facial feature data we collect is vital for the generation of the final WOMBO animation. App usage data is used for the exclusive purpose of better understanding the manner in which users spend time in the WOMBO app, so that we may improve our app experience. We may also use your contact information to send you information and updates about us and the Services, including without limitation confirmations, technical notices, updates, security alerts, support and administrative messages, and marketing communications. If you do not want to receive marketing communications or to opt out of use of your information for these purposes, please follow the opt-out instructions, (such as clicking "Unsubscribe" or similar opt-out language) in those communications. You can also contact us at [\[email protected\]](https://www.wombo.ai/cdn-cgi/l/email-protection) to opt out.
 
 ‍
 
@@ -125,7 +125,7 @@ This policy is effective as of 2023-08-28
 
 #### Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@wombo.ai.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [\[email protected\]](https://www.wombo.ai/cdn-cgi/l/email-protection).
 
 [Privacy Policy](https://www.wombo.ai/privacy) • [Terms of Service](https://www.wombo.ai/terms)  
-Media inquiries [hello@wombo.ai](mailto:hello@wombo.ai?subject=Website%20Media%20Inquiry)[](mailto:hello@wombo.ai?subject=Website%20Media%20Inquiry)Web development by [Infinidiv](http://www.infinidiv.com/?utm_source=wombo-ai&utm_content=footer-badge)
+Media inquiries [\[email protected\]](https://www.wombo.ai/cdn-cgi/l/email-protection)[\[email protected\]](https://www.wombo.ai/cdn-cgi/l/email-protection)Web development by [Infinidiv](http://www.infinidiv.com/?utm_source=wombo-ai&utm_content=footer-badge)
