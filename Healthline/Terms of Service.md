@@ -190,12 +190,21 @@
 
 Subscribe
 
-[#### CBD](https://www.healthline.com/cbd)
+[#### Parenthood](https://www.healthline.com/parenthood)
 
-* [CBD 101](https://www.healthline.com/cbd/cbd-basics)
-* [Chronic Conditions](https://www.healthline.com/cbd/cbd-chronic-conditions)
-* [Product Reviews](https://www.healthline.com/reviews/cbd-products)
-* [Types of CBD](https://www.healthline.com/cbd/cbd-types)
+* Stages
+    
+    * [Becoming a Parent](https://www.healthline.com/parenthood/becoming-a-parent)
+    * [Pregnancy](https://www.healthline.com/parenthood/pregnancy)
+    * [Postpartum](https://www.healthline.com/parenthood/postpartum)
+    * [Baby](https://www.healthline.com/parenthood/baby)
+    * [Toddler](https://www.healthline.com/parenthood/toddler)
+    
+* [Fertility](https://www.healthline.com/parenthood/fertility)
+* [Health & Wellness](https://www.healthline.com/parenthood/health-wellness)
+* [Conditions & Concerns](https://www.healthline.com/parenthood/conditions-concerns)
+* [Relationships](https://www.healthline.com/parenthood/relationships)
+* [Products](https://www.healthline.com/parenthood/products-gear)
 
 Terms of Use
 ============
