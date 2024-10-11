@@ -168,7 +168,7 @@ While we encourage you to read the full policy, here is a summary of how we hand
 * We do not knowingly collect any data from or market to children under 18 years of age.
 * You may review, change, or delete your personal information at any time.
 
-If you have any questions or concerns about this Privacy Policy, please do not hesitate to contact us at privacy@safebase.io.
+If you have any questions or concerns about this Privacy Policy, please do not hesitate to contact us at [\[email protected\]](https://safebase.io/cdn-cgi/l/email-protection).
 
 The capitalized terms are defined in this Privacy Policy or in our Terms of Services.
 
@@ -317,7 +317,7 @@ We do not knowingly solicit data from or market to children under 18 years of ag
 
 If we learn that personal information from someone less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records.
 
-If you become aware of any data we have collected from children under age 18, please contact us at privacy@safebase.io.
+If you become aware of any data we have collected from children under age 18, please contact us at [\[email protected\]](https://safebase.io/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -351,7 +351,7 @@ To the extent provided for by law and subject to applicable exceptions, includin
 
 Exercising Your Rights
 
-California residents can exercise the above privacy rights by emailing us at privacy@safebase.io.
+California residents can exercise the above privacy rights by emailing us at [\[email protected\]](https://safebase.io/cdn-cgi/l/email-protection).
 
 Verification: in order to protect your personal information from unauthorized access or deletion, we may ask you to provide additional personal information for verification. If we cannot verify your identity, we will not provide or delete your personal information.
 
@@ -361,7 +361,7 @@ Authorized Agents: you may submit a request to know or a request to delete your 
 
 California “Shine the Light” Disclosures
 
-Pursuant to California Civil Code Section 1798.83(c)(2), California law requires us to inform California residents who have provided us with personal information that they may request information from us about our disclosures to third parties for their direct marketing purposes. To request this information, please contact us at privacy@safebase.io.
+Pursuant to California Civil Code Section 1798.83(c)(2), California law requires us to inform California residents who have provided us with personal information that they may request information from us about our disclosures to third parties for their direct marketing purposes. To request this information, please contact us at [\[email protected\]](https://safebase.io/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -417,9 +417,9 @@ Company
 
 [Careers](https://safebase.io/careers)
 
-[Contact sales](mailto:hello@safebase.io?subject=Contact%20SafeBase)
+[\[email protected\]](https://safebase.io/cdn-cgi/l/email-protection)
 
-[Contact support](mailto:support@safebase.io?subject=Contact%20SafeBase)
+[\[email protected\]](https://safebase.io/cdn-cgi/l/email-protection)
 
 Follow us
 
@@ -447,4 +447,4 @@ Follow us
 
 Schedule 30 minutes with our team to learn more about the SafeBase platform and how it can benefit your organization.
 
-Are you a current customer in need of support? [Contact our CS team](mailto:support@safebase.io).
+Are you a current customer in need of support? [\[email protected\]](https://safebase.io/cdn-cgi/l/email-protection).
