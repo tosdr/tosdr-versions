@@ -129,6 +129,23 @@ By downloading and installing this app from the APK you accept the term that if 
 [Download  
 APK file](https://pub.teleguard.com/teleguard-latest.apk) [![](/icons/close.svg)](javascript:void();)
 
+ATTENTION!
+==========
+
+**Starting in 2024, developers will have to pay even more to bypass the Microsoft Defender warning window on Windows. If you know why you need TeleGuard, just make a few extra clicks when you first install it from the official website.**
+
+Hardly anyone thinks about the fact that the lack of a Microsoft Defender warning window via an unknown source means the developer has to pay a tidy sum to third-party certification companies whose prices and requirements are regularly increased.
+
+Both Linux and Apple macOS provide similar tools for free and directly.
+
+An alternative to buying a CodeSign certificate would be to host the application on the Microsoft Store platform, which is inextricably linked to telemetry and the collection of Windows user data.
+
+As an independent company developing software focused on privacy and online security, we consider this to be merely an artificially created system that serves the purposes of Microsoft and NOT the end user.
+
+Based on the above, we decided to refuse to purchase “empty air” and provide TeleGuard “as is”, leaving the choice to the user.
+
+[_MS Windows (8.0+)_](https://pub.teleguard.com/teleguard-desktop-latest.exe) [![](/icons/close.svg)](javascript:void();)
+
 Two options are available for installation. An installation from the Snap Store (recommended) with the benefit of an automatic update, or from a deb package with external dependencies downloaded from public locations (in this case the application can only be updated manually).
 
 * To install the application via SNAP, run the command  
@@ -137,6 +154,6 @@ Two options are available for installation. An installation from the Snap Store 
 * To install the application from a deb package, download the file using the button below and then open it using either "Install Applications" or "Install Software" (right-click on the .deb file, select "Open with...", then "All Applications" and select "Install Applications"/"Install Software" from the list). In the window that appears, click "Install ". All necessary dependencies will be automatically downloaded from the public locations.
 
 [DOWNLOAD  
-.DEB](https://pub.teleguard.com/teleguard-desktop-latest.deb) [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/teleguard-desktop)
+.DEB](https://pub.teleguard.com/teleguard-desktop-latest.deb) [![Get it from the Snap Store](/images/snap-store-white-en.svg)](https://snapcraft.io/teleguard-desktop)
 
 [![](/icons/close.svg)](javascript:void();)
