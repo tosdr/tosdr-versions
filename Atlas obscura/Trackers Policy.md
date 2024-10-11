@@ -18,7 +18,29 @@ Loading...
 
 Loading...
 
-Loading...
+Upcoming Courses
+
+[View All Courses »](https://www.atlasobscura.com/online-courses)
+
+   [![](https://img.atlasobscura.com/zDVZQG8l3TPgxxxU1HykxpTYS64XJ57JFnQOIwF0EJ8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8xNWUw/Y2U3Zi0zZDVlLTQ2/MWMtODZmNS0yYzQz/Y2QxMDdkNmMyMTlh/OWIwMjdkYzdlYzk3/ZTRfNTEyODQzNzE4/ODRfN2UwNDVmYzM4/OF9oLmpwZw.jpg)
+
+Spirits, Saints, and Souls: The Secret History of Halloween With Lisa Morton](https://www.atlasobscura.com/experiences/history-halloween-course)
+
+   [![](https://img.atlasobscura.com/OwIn0KnazjTJtGnYMAnBrTLm0NBj64M9cqc-B3GU8n4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy84MDc4/MDk2NC1hMTFiLTRl/MDUtYWJhYS00ZThh/OTliMDQ5ODczY2U4/YWUwNTFkNDQ5OWU4/ZWVfbWljaGFsLWIt/YnZTd0Z4eXJmd2ct/dW5zcGxhc2guanBn.jpg)
+
+Seas The Day: Life Lessons from Cephalopods With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/cephalopods-online-course)
+
+   [![](https://img.atlasobscura.com/Gl1jaOr-Woxnan5jPvCu8YzPs-W8beVKxg-SEihHjpc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81MDQx/ZmQ2YS00OGUwLTQ3/YWUtOTMwOS1jOTdh/ZDg1YjdmYTg2NzY4/YWU1ZjVkZTg1MzEz/YWJfSW5zaWRlIGEg/cGhhcmFvaOKAmXMg/dG9tYi5qcGc.jpg)
+
+Decoding the Afterlife: Ancient Egyptian Tombstones With Dr. Nicky Nielsen](https://www.atlasobscura.com/experiences/ancient-egyptian-tombstones-course)
+
+   [![John Dee Performing an Experiment before Elizabeth I](https://img.atlasobscura.com/sO0W457JMI6a0XrGwH2wbbC4Y5m1vIrbkmgGMqQqKc8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zZjk1/ZTdlZS03NTFkLTQ2/MDYtOTJkNi1kNGI3/OWJkMTQ0YjYyZmM1/YjA1MTU3YzE5Zjdh/M2NfSm9obiBEZWUg/UGVyZm9ybWluZyBh/biBFeHBlcmltZW50/IGJlZm9yZSBFbGl6/YWJldGggSSBIZW5y/eSBHaWxsYXJkIEds/aW5kb25pICgxODUy/LTE5MTMpLCBQdWJs/aWMgRG9tYWluIHZp/YSBXaWtpbWVkaWEg/Q29tbW9ucy5qcGc.jpg)
+
+Poems from the Deep: An Introduction to Scrying With Eliza Swann](https://www.atlasobscura.com/experiences/intro-to-scrying-online-course)
+
+   [![](https://img.atlasobscura.com/fMrizr-qmDotlSOZrdpW5EGe3irLBbUpDzZRKQdsc6Q/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81YzY4/MWMwZC0wOWVjLTQ0/YWMtYWEwZC1iMzlh/ZDZhYWI5MWU0Njhm/MWYxODVmZWRmYjc1/M2Nfam9oYW5uZXMt/YW5kZXJzc29uLVVD/ZDc4dmZDOHZVLXVu/c3BsYXNoLmpwZw.jpg)
+
+How to Read a Landscape: Botany & Ecology With Annie Novak](https://www.atlasobscura.com/experiences/landscape-ecology-online-course)
 
 Loading...
 
