@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6706aa7da6444264b8bef164_goatfoods-giveaway-clearco-contest.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6708449d631129331e3f31e5_How%20to%20Prepare_Header_1080x600.png)
 
-###### G.O.A.T. Foods Giveaway: Join Clearco's Sweet Instagram Contest
+###### Amazon Inventory Deadline Approaching: How to Prepare and What Are the Costs
 
-[Read now >](https://clear.co/blog/goatfoods-giveaway-clearco-contest)
+[Read now >](https://clear.co/blog/amazon-inventory-deadline-prepare-what-are-costs)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
