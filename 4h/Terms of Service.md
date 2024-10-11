@@ -512,7 +512,7 @@ National 4-H Newsletter
 
  Receive news about 4-h
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -550,7 +550,7 @@ Federal Tax ID: 36-2862206 | Combined Federal Campaign 11119 | 4-H is a 501(c)(3
 
 [![cooperative extension](https://www.4-h.org/wp-content/uploads/2022/09/26145238/cooperative-extension.png "cooperative extension")](https://nifa.usda.gov/extension)
 
-        
+       
 
 Newsletter Sign-Up
 ------------------
@@ -573,7 +573,7 @@ Terms and Conditions\*
 
  I have read and agree to National 4-H Council's [terms and conditions](https://4-h.org/terms-and-conditions) and [privacy policy](https://4-h.org/privacy-policy)\*
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
