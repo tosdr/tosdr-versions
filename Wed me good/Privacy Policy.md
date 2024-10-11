@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Prathima and Smaran](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Prathima and Smaran](https://image.wedmegood.com/resized/250X/uploads/images/d9e362cb939b4a309c6e2b9517b74985realwedding/IMG_1596.jpg?crop=274,999,1629,916)
+
+Prathima and Smaran (Bangalore)](https://www.wedmegood.com/real_wedding/detail/prathima-and-smaran-bangalore-wedding-4404)
+
 [![Rupal and Tanmay](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Rupal and Tanmay](https://image.wedmegood.com/resized/250X/uploads/images/0db5161bac23447f9f6b3a04dbee4611realwedding/CopyofCineLoveFINAL_0065.jpg?crop=35,189,789,443)
 
 Rupal and Tanmay (Jaipur)](https://www.wedmegood.com/real_wedding/detail/rupal-and-tanmay-jaipur-marwari-wedding-4403)
-
-[![Neha and Raheel](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Neha and Raheel](https://image.wedmegood.com/resized/250X/uploads/images/ef682fcea9ec417288c1758afd2ba38arealwedding/JLV08628Large.jpeg?crop=157,120,1013,569)
-
-Neha and Raheel (Goa)](https://www.wedmegood.com/real_wedding/detail/neha-and-raheel-goa-cross-culture-wedding-4402)
 
 Browse by Category
 
