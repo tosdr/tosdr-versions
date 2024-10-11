@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/6ffb1ece-86f5-4531-b7c9-d59d92855912/20241010T230635/6ffb1ece-86f5-4531-b7c9-d59d92855912_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6ffb1ece-86f5-4531-b7c9-d59d92855912/20241010T230635/6ffb1ece-86f5-4531-b7c9-d59d92855912_360x203.jpg)](https://www.king5.com/article/news/local/equipment-malfunction-gold-mine-attraction-cripple-creek/73-fb8dcc8d-4e97-4745-bd93-538501133f3c)
+    *  [![](https://media.king5.com/assets/KING/images/29c022fd-3b8a-44e6-afd3-79fad9415910/20241011T062814/29c022fd-3b8a-44e6-afd3-79fad9415910_16x9.jpg) ![](https://media.king5.com/assets/KING/images/29c022fd-3b8a-44e6-afd3-79fad9415910/20241011T062814/29c022fd-3b8a-44e6-afd3-79fad9415910_360x203.jpg)](https://www.king5.com/article/news/crime/shooting-nova-high-school-garfield-high-school-seattle/281-fb3d12ac-19a4-468f-8cea-a5ab7c74c62f)
         
-        #### [WATCH LIVE: Officials give update after elevator malfunction at Colorado gold mine attraction](https://www.king5.com/article/news/local/equipment-malfunction-gold-mine-attraction-cripple-creek/73-fb8dcc8d-4e97-4745-bd93-538501133f3c)
+        #### [Police say bullet from drive-by shooting hit window of Seattle high school](https://www.king5.com/article/news/crime/shooting-nova-high-school-garfield-high-school-seattle/281-fb3d12ac-19a4-468f-8cea-a5ab7c74c62f)
         
-    *  [![](https://media.king5.com/assets/KING/images/24fc6399-b31d-4d2b-832d-8f0ed9d82f64/20241010T230421/24fc6399-b31d-4d2b-832d-8f0ed9d82f64_16x9.jpg) ![](https://media.king5.com/assets/KING/images/24fc6399-b31d-4d2b-832d-8f0ed9d82f64/20241010T230421/24fc6399-b31d-4d2b-832d-8f0ed9d82f64_360x203.jpg)](https://www.king5.com/article/news/crime/shooting-nova-high-school-garfield-high-school-seattle/281-fb3d12ac-19a4-468f-8cea-a5ab7c74c62f)
+    *  [![](https://media.king5.com/assets/KING/images/3cefbc30-7965-44ee-8c7f-e1f11714488c/20240918T011344/3cefbc30-7965-44ee-8c7f-e1f11714488c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3cefbc30-7965-44ee-8c7f-e1f11714488c/20240918T011344/3cefbc30-7965-44ee-8c7f-e1f11714488c_360x203.jpg)](https://www.king5.com/article/news/local/historic-cabins-cama-beach-state-park-permanently-close-commission-decides/281-b5883944-e59b-46f7-89ee-7f658daf9bd4)
         
-        #### [Lockdown, shelter-in-place orders lifted at two Seattle schools after nearby shooting](https://www.king5.com/article/news/crime/shooting-nova-high-school-garfield-high-school-seattle/281-fb3d12ac-19a4-468f-8cea-a5ab7c74c62f)
+        #### [Historic cabins at Cama Beach State Park will permanently close, commission decides](https://www.king5.com/article/news/local/historic-cabins-cama-beach-state-park-permanently-close-commission-decides/281-b5883944-e59b-46f7-89ee-7f658daf9bd4)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/9c86e8bc-0141-4c86-8ce9-3059b420acb6/20241010T192727/9c86e8bc-0141-4c86-8ce9-3059b420acb6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9c86e8bc-0141-4c86-8ce9-3059b420acb6/20241010T192727/9c86e8bc-0141-4c86-8ce9-3059b420acb6_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/ad7a8b9a-4aff-411d-aea8-9a22c9ad25d9/20241011T034139/ad7a8b9a-4aff-411d-aea8-9a22c9ad25d9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ad7a8b9a-4aff-411d-aea8-9a22c9ad25d9/20241011T034139/ad7a8b9a-4aff-411d-aea8-9a22c9ad25d9_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-54°
+50°
 
 ![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
