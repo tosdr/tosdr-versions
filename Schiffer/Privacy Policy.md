@@ -35,7 +35,7 @@
 
 * #### Management
     
-* [Clipboard to QR code](https://schiffer.tech/clipboardtoqrcode.html) Update
+* [Clipboard to QR code](https://schiffer.tech/clipboardtoqrcode.html)
 
 ### Software for Android
 
