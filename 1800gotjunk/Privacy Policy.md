@@ -134,6 +134,8 @@ Sub Menu
 
 search
 
+Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
+
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
@@ -634,14 +636,6 @@ Aidan Vrolyk Calgary 30/09/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Super kind and fast at removing everything. Best service!
-
-Nevada Rai Calgary 28/09/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 The team was fast and efficient getting everything done
 
 Kyle Jackson Calgary 28/09/2024
@@ -661,6 +655,14 @@ Meg Gillies Calgary 28/09/2024
 Excellent service from Carlos and Kayla!
 
 Alexandra Calgary 28/09/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Super kind and fast at removing everything. Best service!
+
+Nevada Rai Calgary 28/09/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -866,54 +868,6 @@ Lonimi Meseko Monteregie Metro 03/01/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Noe and Jose were on time, professional, friendly and the pickup process was quick. Awesome service.
-
-Harley Maye Austin 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Paris and Luke were awesome. Came in gave a reasonable price, and took all that I needed to get rid of in a timely manner.
-
-Josh Moore Cincinnati 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Both Gentleman that arrived were professional, kind and efficient!
-
-Alexa Daily Austin 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Easton and Patrick were so personable and great to work with! They even offered me breakfast.
-
-Jessica Bell Naples 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Mikey and junior were very nice and never complained about a concrete table
-
-Jeanne Rende Naples 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Very precise and timely pick up for an old mattress. Staff on phone and pickup were friendly !
-
-Julie Allen Columbus 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Harrison and Sam were kind, courteous they worked fast and did a very good job.
 
 Sarah Harenke Wisconsin 05/10/2024
@@ -922,25 +876,9 @@ Sarah Harenke Wisconsin 05/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-They were very fast, respectful and honest
-
-Jessica Dyer Columbus 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Sam and Harrison did a good job
 
 Indu Nayak Wisconsin 05/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Awesome same day service. Professional and respectful employees. Will definitely use them again!!!
-
-Ryan McElwee Columbus 05/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -994,6 +932,14 @@ suz r Madison 05/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Very precise and timely pick up for an old mattress. Staff on phone and pickup were friendly !
+
+Julie Allen Columbus 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 I didn’t know what Got Junk was about, but now that I know more about the company yes I will consider using them in the future.
 
 Ronald Dale Cincinnati 05/10/2024
@@ -1002,9 +948,65 @@ Ronald Dale Cincinnati 05/10/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Nathan and Ian were very helpful and professional. Recommend them and the company highly.
+They were very fast, respectful and honest
 
-Debbie Peter Cincinnati 04/10/2024
+Jessica Dyer Columbus 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Noe and Jose were on time, professional, friendly and the pickup process was quick. Awesome service.
+
+Harley Maye Austin 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Paris and Luke were awesome. Came in gave a reasonable price, and took all that I needed to get rid of in a timely manner.
+
+Josh Moore Cincinnati 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Awesome same day service. Professional and respectful employees. Will definitely use them again!!!
+
+Ryan McElwee Columbus 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Both Gentleman that arrived were professional, kind and efficient!
+
+Alexa Daily Austin 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Easton and Patrick were so personable and great to work with! They even offered me breakfast.
+
+Jessica Bell Naples 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Mikey and junior were very nice and never complained about a concrete table
+
+Jeanne Rende Naples 05/10/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Bobby and AJ were great. They were earlier than expected, friendly, and prompted.
+
+April Choi Austin 04/10/2024
 
 ### 
 
