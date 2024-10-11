@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![33 Facts About Empires Of Africa  Factsnet ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2298%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/33-facts-about-empires-of-africa-facts-net/)
+[![40 Facts About Descloizite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-descloizite/)
 
-History
+Earth Sciences
 
-10 Oct 2024
+11 Oct 2024
 
-[33 Facts About Empires Of Africa Factsnet](https://facts.net/history/33-facts-about-empires-of-africa-facts-net/)
+[40 Facts About Descloizite](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-descloizite/)
 
-[![33 Facts About Ayurvedic Medicine ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/33-facts-about-ayurvedic-medicine/)
+[![28 Facts About Party Cocktails ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/food/28-facts-about-party-cocktails/)
 
-Fitness & Wellbeing
+Food
 
-10 Oct 2024
+11 Oct 2024
 
-[33 Facts About Ayurvedic Medicine](https://facts.net/fitness-and-wellbeing/33-facts-about-ayurvedic-medicine/)
+[28 Facts About Party Cocktails](https://facts.net/lifestyle/food/28-facts-about-party-cocktails/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
