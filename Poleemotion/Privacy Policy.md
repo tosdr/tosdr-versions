@@ -84,7 +84,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[![image Danse en talons / Heels Dance](/storage/highlights/61014/highlight.webp?v=132273)
+[![image Danse en talons / Heels Dance](/storage/highlights/61014/highlight.webp?v=443303)
 
 ##### Danse en talons / Heels Dance
 
@@ -92,7 +92,7 @@ ven. 11 octobre 2024 - **18:30** à Crissier salle 2
 
 Ce cours te permet de mettre en avant ton côté féminin ainsi que ta sensualité! Cours ouvert à...
 
-**c'est aujourd'hui!**](https://app.pole-emotion.ch/cours/61014)[![image Yoga Trapèze](/storage/highlights/61343/highlight.webp?v=135671)
+**c'est aujourd'hui!**](https://app.pole-emotion.ch/cours/61014)[![image Yoga Trapèze](/storage/highlights/61343/highlight.webp?v=445841)
 
 ##### Yoga Trapèze
 
@@ -100,7 +100,7 @@ lun. 27 janvier 2025 - **12:00** à Crissier salle 2
 
 Le Yoga Trapez est l'outil d'inversion de yoga le plus puissant jamais créé.  Les avantages du yoga d'inversion...](https://app.pole-emotion.ch/cours/61343)[](https://app.pole-emotion.ch/evjf)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=137451)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=447048)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
