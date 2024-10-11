@@ -19,6 +19,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Cllr Ian Wingfield was first elected to a Southwark seat in 1989](https://southwarknews.co.uk/wp-content/uploads/2024/10/Cllr-Ian-Wingfield-was-first-elected-to-a-Southwark-seat-in-1989-360x180.png)](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
+    
+    ### [‘Hindsight is a wonderful thing’: Southwark’s longest-serving councillor discusses the biggest regrets and successes of his 35-year career](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
+    
     [![Leo Gregory, Green Street actor (left), and Roy Larner (right). Image: Dougie Brimson](https://southwarknews.co.uk/wp-content/uploads/2024/10/Leo-Gregory-Green-Street-actor-left-and-Roy-Larner-right.-Image-Dougie-Brimson-360x180.png)](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
     
     ### [Exclusive: ‘Green Street’ creator to make movie about man who shouted ‘F\*ck you I’m Millwall’ while fighting off Jihadi terrorists](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
@@ -50,10 +54,6 @@
     [![Deborah Onyeukwu (left) and Harry Kite (right). Credit: Jack Petchey Foundation](https://southwarknews.co.uk/wp-content/uploads/2024/10/JP-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
     
     ### [Peckham schoolgirl who overcame speech impediment to sing on stage among students receiving Jack Petchey Awards](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
-    
-    [![Miatta Fahnbulleh has been urged to step in and ensure district heating network inefficiencies are investigated 'at the highest level'](https://southwarknews.co.uk/wp-content/uploads/2024/10/Miatta-Fahnbulleh-has-been-urged-to-step-in-and-ensure-district-heating-network-inefficencies-are-investigated-at-the-highest-level-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-mp-urged-to-intervene-in-southwark-district-heating-crisis/)
-    
-    ### [Peckham MP urged to ‘intervene’ in Southwark district heating crisis](https://southwarknews.co.uk/area/peckham/peckham-mp-urged-to-intervene-in-southwark-district-heating-crisis/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +99,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Cllr Ian Wingfield was first elected to a Southwark seat in 1989](https://southwarknews.co.uk/wp-content/uploads/2024/10/Cllr-Ian-Wingfield-was-first-elected-to-a-Southwark-seat-in-1989-360x180.png)](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
+    
+    ### [‘Hindsight is a wonderful thing’: Southwark’s longest-serving councillor discusses the biggest regrets and successes of his 35-year career](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
+    
     [![Leo Gregory, Green Street actor (left), and Roy Larner (right). Image: Dougie Brimson](https://southwarknews.co.uk/wp-content/uploads/2024/10/Leo-Gregory-Green-Street-actor-left-and-Roy-Larner-right.-Image-Dougie-Brimson-360x180.png)](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
     
     ### [Exclusive: ‘Green Street’ creator to make movie about man who shouted ‘F\*ck you I’m Millwall’ while fighting off Jihadi terrorists](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
@@ -130,10 +134,6 @@ View All Result
     [![Deborah Onyeukwu (left) and Harry Kite (right). Credit: Jack Petchey Foundation](https://southwarknews.co.uk/wp-content/uploads/2024/10/JP-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
     
     ### [Peckham schoolgirl who overcame speech impediment to sing on stage among students receiving Jack Petchey Awards](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
-    
-    [![Miatta Fahnbulleh has been urged to step in and ensure district heating network inefficiencies are investigated 'at the highest level'](https://southwarknews.co.uk/wp-content/uploads/2024/10/Miatta-Fahnbulleh-has-been-urged-to-step-in-and-ensure-district-heating-network-inefficencies-are-investigated-at-the-highest-level-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-mp-urged-to-intervene-in-southwark-district-heating-crisis/)
-    
-    ### [Peckham MP urged to ‘intervene’ in Southwark district heating crisis](https://southwarknews.co.uk/area/peckham/peckham-mp-urged-to-intervene-in-southwark-district-heating-crisis/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -191,6 +191,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Popular Articles
 
+[![Umana Yana owner, Debbie Monfries](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_4937-e1728574270295-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
+
+### [Exclusive: Council says it won’t remove huge telecom boxes blocking Caribbean restaurant](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
+
+[10th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
+
 [![Tanganga joined Millwall permanently in July. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Tanganga-6272828-1-350x250-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
 
 ### [‘It’s one of the most beautiful atmospheres in England’ – Millwall defender on why he joined the Lions](https://southwarknews.co.uk/sport/football/millwall/its-one-of-the-most-beautiful-atmospheres-in-england-millwall-defender-on-why-he-joined-the-lions/)
@@ -220,12 +226,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Millwall goalkeeper heads out on emergency loan](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
 
 [7th October 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
-
-[![Romain Esse takes on West Brom. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Esse-West-Brom-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-19-year-olds-game-understanding/)
-
-### [Millwall boss on Romain Esse: ‘He’ll fly the nest at some stage – I’m sure to the Premier League’](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-19-year-olds-game-understanding/)
-
-[5th October 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-19-year-olds-game-understanding/)
 
 ### Featured Articles
 
