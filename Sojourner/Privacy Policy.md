@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-0cc15fd2bbd8723b7aafd63fc13fd22c
+6928993b17f9766f34bd5340d354cb15
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Mini Swarovski silver Sahara rivoli clasp](https://www.sojourner.biz/images/cache/SKU0566front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/mini-swarovski-silver-sahara-rivoli-clasp.html "Mini Swarovski silver Sahara rivoli clasp")
+[![Matte mostly blue chevrons](https://www.sojourner.biz/images/cache/glass/VB0044.200.jpg)](https://www.sojourner.biz/beads/glass/matte-mostly-blue-chevrons.html "Matte mostly blue chevrons")
 
-#### [Mini Swarovski silver Sahara rivoli clasp](https://www.sojourner.biz/clasps/swarovski/mini-swarovski-silver-sahara-rivoli-clasp.html "Mini Swarovski silver Sahara rivoli clasp")
+#### [Matte mostly blue chevrons](https://www.sojourner.biz/beads/glass/matte-mostly-blue-chevrons.html "Matte mostly blue chevrons")
 
-$20.00
+$2.00
 
 ### Best Sellers
 
