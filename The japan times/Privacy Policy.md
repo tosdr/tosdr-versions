@@ -471,17 +471,17 @@ Revised June 1, 2022
 
   [![The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426860.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.")](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
 
+[Chinese nationals in Japan testify to harassment by Beijing, report says](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
+
+  [![Chinese residents living in Japan take part in a “white paper” protest in solidarity against China's COVID-19 lockdowns, in Tokyo in November 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426864.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese residents living in Japan take part in a “white paper” protest in solidarity against China's COVID-19 lockdowns, in Tokyo in November 2022.")](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
+
 [Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
 
   [![Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426811.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ")](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
 
-[LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ldp-not-endorsing-12-politicians/ "LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election")
+[Japan still pushing China for explanation over killing of schoolboy](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/wang-iwaya-talks/ "Japan still pushing China for explanation over killing of schoolboy")
 
-  [![Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426713.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba speaks to reporters at the Prime Minister's Office in Tokyo on Tuesday.")](https://www.japantimes.co.jp/news/2024/10/09/japan/politics/ldp-not-endorsing-12-politicians/ "LDP pulls endorsements of 12 'slush fund' lawmakers for Oct. 27 election")
-
-[NHK to charge monthly online viewer fee of ¥1,100 starting next year](https://www.japantimes.co.jp/news/2024/10/09/japan/nhk-online-viewer-fee/ "NHK to charge monthly online viewer fee of ¥1,100 starting next year")
-
-  [![NHK plans to start charging online viewers in October of next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426776.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "NHK plans to start charging online viewers in October of next year.")](https://www.japantimes.co.jp/news/2024/10/09/japan/nhk-online-viewer-fee/ "NHK to charge monthly online viewer fee of ¥1,100 starting next year")
+  [![Foreign Minister Takeshi Iwaya asked his Chinese counterpart Wang Yi to provide a proper accounting of the facts in the stabbing death of a schoolboy in China last month during their telephone talks on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/426941.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Foreign Minister Takeshi Iwaya asked his Chinese counterpart Wang Yi to provide a proper accounting of the facts in the stabbing death of a schoolboy in China last month during their telephone talks on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/wang-iwaya-talks/ "Japan still pushing China for explanation over killing of schoolboy")
 
 [Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
 
@@ -522,9 +522,9 @@ By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ 
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,19 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Tottori assembly passes ordinance on election poster board use](https://www.japantimes.co.jp/news/2024/10/10/japan/tottori-assembly-ordinance-election-poster-use/ "Tottori assembly passes ordinance on election poster board use")
+[Seven & I to split in two to fend off Couche-Tard takeover bid](https://www.japantimes.co.jp/business/2024/10/11/companies/seven-i-split/ "Seven & I to split in two to fend off Couche-Tard takeover bid")
 
-10 hours ago
+30 mins ago
 
-[2025 Expo head expects ticket sales to speed up](https://www.japantimes.co.jp/news/2024/10/10/japan/2025-expo-head-ticket-sales/ "2025 Expo head expects ticket sales to speed up")
+[Danish-style 'schools for life' gaining popularity in Japan](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
 
-11 hours ago
+1 hours ago
 
-[South Korean author Han Kang wins Nobel Prize in literature](https://www.japantimes.co.jp/news/2024/10/10/world/literature-nobel-han-kang/ "South Korean author Han Kang wins Nobel Prize in literature")
+[Yakuza member arrested over insurance fraud after cutting off own finger](https://www.japantimes.co.jp/news/2024/10/11/japan/crime-legal/yakuza-cutting-finger-insurance/ "Yakuza member arrested over insurance fraud after cutting off own finger")
 
-[Aomori Prefecture rejects proposed high-level nuclear waste delivery](https://www.japantimes.co.jp/news/2024/10/10/japan/aomori-nuclear-waste-refusal/ "Aomori Prefecture rejects proposed high-level nuclear waste delivery")
+1 hours ago
 
-[Ishiba keeps low profile as he makes diplomatic debut](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
+[World Bank board approves new Ukraine fund, sources say](https://www.japantimes.co.jp/business/2024/10/11/world-bank-approves-ukraine-fund/ "World Bank board approves new Ukraine fund, sources say")
+
+1 hours ago
+
+[Zelenskyy outlines 'victory plan' to allies, discusses long-range weapons](https://www.japantimes.co.jp/news/2024/10/11/world/politics/zelenskyy-outlines-victory-plan/ "Zelenskyy outlines 'victory plan' to allies, discusses long-range weapons")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
