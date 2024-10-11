@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
-* [Cobra Gunship](https://www.myabandonware.com/game/cobra-gunship-srl)
-* [Desert Tank](https://www.myabandonware.com/game/desert-tank-srk)
-* [Desert Patrol](https://www.myabandonware.com/game/desert-patrol-srj)
-* [DemolishFist](https://www.myabandonware.com/game/demolishfist-sri)
-* [Clean Sweep](https://www.myabandonware.com/game/clean-sweep-srh)
+* [B-Wings: Battle Wings](https://www.myabandonware.com/game/b-wings-battle-wings-9wb)
+* [Bega's Battle](https://www.myabandonware.com/game/bega-s-battle-srv)
+* [Beast Busters: Second Nightmare](https://www.myabandonware.com/game/beast-busters-second-nightmare-sru)
+* [Bazooka](https://www.myabandonware.com/game/bazooka-srt)
+* [Code One Dispatch](https://www.myabandonware.com/game/code-one-dispatch-srs)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
