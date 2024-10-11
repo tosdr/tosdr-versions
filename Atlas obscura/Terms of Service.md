@@ -14,17 +14,204 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
 
-Loading...
+Take your next trip with Atlas Obscura!
+---------------------------------------
 
-Loading...
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
 
-Loading...
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
 
-Loading...
+Trips Highlight
 
-Loading...
+   [![Oaxaca Mexico tamales](https://img.atlasobscura.com/BaDERNykwdpWGsX04_iG0FTckM-RiYp8I4MeL2Z-xW0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zNzM2/MmEwZC04NTcyLTRk/NzEtOTA0YS1jZDVl/YjgyYmI5YWY1MDE5/MjZkZDQ5ZTVhOGVi/ZDBfT2F4YWNhIE1l/eGljbyB0YW1hbGVz/IC0gQWRvYmVTdG9j/a180Nzk1MzAwODgu/anBlZw.jpg)](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
+
+Mexico • 7 days, 6 nights
+
+[Flavors of Oaxaca: Markets, Mezcal & Home-Cooked Meals](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
+
+from
+
+   [![New Zealand, South Island, Wanaka](https://img.atlasobscura.com/knTC-fD-tJhZigIK456j_esuV2jEb8sBH855Yw3DJmA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8yYThk/NTNkOS0wZTQyLTQ1/MjAtOWFkNC02Yzlj/NGFjNDUwMWUxYWJm/ZThmZTc2OGViYzNh/Y2RfR2V0dHlJbWFn/ZXMtMTA5MDcwNTUx/Ni5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/new-zealand)
+
+New Zealand • 12 days, 11 nights
+
+[Wild New Zealand: Exploring the North & South Islands](https://www.atlasobscura.com/adventures/trips/new-zealand)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
+
+Upcoming Experiences
+
+[View All Experiences »](https://www.atlasobscura.com/events)
+
+   [![](https://img.atlasobscura.com/4lnSORRHftHNFSJnX2vgq7vz1D7DNAxzjzZx6pwH6rI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy84NDE4/NmExYi1hZjc1LTQ5/ODUtYWNkNy0xNWRi/NmVkYjUyZmVkMzEw/YzZmODMzMjg5YmYx/ZGRfeXJxWlM4VkEu/anBn.jpg)
+
+Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-san-francisco)
+
+   [![](https://img.atlasobscura.com/XI6KeU7ZYS2Ec45uq9gM7aA-D7uMh3GbDxv0u4lDl8c/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yM2Qy/YjBiYy0yN2E2LTQ4/YTctYTNmOC0wYzgx/Yzk5NWE5NzdjNzY2/YzAxNmJhZDE0OWZj/YzFfdWMzeGtqa1Eu/anBn.jpg)
+
+Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-santa-cruz)
+
+   [![](https://img.atlasobscura.com/Skm1kp1XabJ8vccjW9P-knd3Cb7t_HaSr1_k6WnelWs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8wNThk/MTljMy1iOTZhLTRh/MWUtOTk3ZS0xNTU4/MjgzZmY3YmM0Mjc4/MTM2NDc3MmYxOWQ0/Y2NfOGM5YmNmYjct/MmUzYy00MjlmLThm/ZGUtZDJiYzlkOGY1/NWVlYmE3MzkxYzQy/NWVlNDVmYmZkX25h/dGhhbi13cmlnaHQt/aWdwd3V4Wm9mZ28t/dW5zcGxhc2guanBn.jpg)
+
+Members Only
+
+Monster of the Month w/ Colin Dickey: Halloween Monster Mashup](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-halloween-monster-mashup)
+
+   [![](https://img.atlasobscura.com/47GmlwimpzPiGelKZ8NPUfhFPGMn4DXU85l8m12kxFo/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hNjg3/MmE5NS05ZmZjLTRm/YzQtYTg3NS03M2Q3/ZjJjZTIxOTA4MTEx/N2MxZTk1MWE0NmQy/OTBfYXJuZS12ZXJi/aXN0LTB3dTVXYWlL/NnBVLXVuc3BsYXNo/LmpwZw.jpg)
+
+Members Only
+
+Monster of the Month w/ Colin Dickey: The Albatwitch](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-the-albatwitch)
+
+   [![](https://img.atlasobscura.com/rHgWDyNgbn2PLJ4fPnve5r--YDSMfBkSbNDqnDrd6NE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8xODAz/Mjk3OS0xYThiLTQ1/YjQtYjFkMC1hNDhk/MTcxZmUxNTBhZjcx/MWI1MGE0MjY5NTAy/ZjZfanVuaW9yLWZl/cnJlaXJhLTdlc1JQ/VHQzOG5JLXVuc3Bs/YXNoLmpwZw.jpg)
+
+Members Only
+
+Accidental Discoveries](https://www.atlasobscura.com/experiences/accidental-discoveries-6)
+
+Upcoming Courses
+
+[View All Courses »](https://www.atlasobscura.com/online-courses)
+
+   [![](https://img.atlasobscura.com/zDVZQG8l3TPgxxxU1HykxpTYS64XJ57JFnQOIwF0EJ8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8xNWUw/Y2U3Zi0zZDVlLTQ2/MWMtODZmNS0yYzQz/Y2QxMDdkNmMyMTlh/OWIwMjdkYzdlYzk3/ZTRfNTEyODQzNzE4/ODRfN2UwNDVmYzM4/OF9oLmpwZw.jpg)
+
+Spirits, Saints, and Souls: The Secret History of Halloween With Lisa Morton](https://www.atlasobscura.com/experiences/history-halloween-course)
+
+   [![](https://img.atlasobscura.com/OwIn0KnazjTJtGnYMAnBrTLm0NBj64M9cqc-B3GU8n4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy84MDc4/MDk2NC1hMTFiLTRl/MDUtYWJhYS00ZThh/OTliMDQ5ODczY2U4/YWUwNTFkNDQ5OWU4/ZWVfbWljaGFsLWIt/YnZTd0Z4eXJmd2ct/dW5zcGxhc2guanBn.jpg)
+
+Seas The Day: Life Lessons from Cephalopods With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/cephalopods-online-course)
+
+   [![](https://img.atlasobscura.com/Gl1jaOr-Woxnan5jPvCu8YzPs-W8beVKxg-SEihHjpc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81MDQx/ZmQ2YS00OGUwLTQ3/YWUtOTMwOS1jOTdh/ZDg1YjdmYTg2NzY4/YWU1ZjVkZTg1MzEz/YWJfSW5zaWRlIGEg/cGhhcmFvaOKAmXMg/dG9tYi5qcGc.jpg)
+
+Decoding the Afterlife: Ancient Egyptian Tombstones With Dr. Nicky Nielsen](https://www.atlasobscura.com/experiences/ancient-egyptian-tombstones-course)
+
+   [![John Dee Performing an Experiment before Elizabeth I](https://img.atlasobscura.com/sO0W457JMI6a0XrGwH2wbbC4Y5m1vIrbkmgGMqQqKc8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zZjk1/ZTdlZS03NTFkLTQ2/MDYtOTJkNi1kNGI3/OWJkMTQ0YjYyZmM1/YjA1MTU3YzE5Zjdh/M2NfSm9obiBEZWUg/UGVyZm9ybWluZyBh/biBFeHBlcmltZW50/IGJlZm9yZSBFbGl6/YWJldGggSSBIZW5y/eSBHaWxsYXJkIEds/aW5kb25pICgxODUy/LTE5MTMpLCBQdWJs/aWMgRG9tYWluIHZp/YSBXaWtpbWVkaWEg/Q29tbW9ucy5qcGc.jpg)
+
+Poems from the Deep: An Introduction to Scrying With Eliza Swann](https://www.atlasobscura.com/experiences/intro-to-scrying-online-course)
+
+   [![](https://img.atlasobscura.com/fMrizr-qmDotlSOZrdpW5EGe3irLBbUpDzZRKQdsc6Q/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81YzY4/MWMwZC0wOWVjLTQ0/YWMtYWEwZC1iMzlh/ZDZhYWI5MWU0Njhm/MWYxODVmZWRmYjc1/M2Nfam9oYW5uZXMt/YW5kZXJzc29uLVVD/ZDc4dmZDOHZVLXVu/c3BsYXNoLmpwZw.jpg)
+
+How to Read a Landscape: Botany & Ecology With Annie Novak](https://www.atlasobscura.com/experiences/landscape-ecology-online-course)
+
+Top Destinations
+
+Latest Places
+
+[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
+
+Top Destinations
+
+[View All Destinations »](https://www.atlasobscura.com/destinations)
+
+### Countries
+
+* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
+* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
+* [China](https://www.atlasobscura.com/things-to-do/china "China")
+* [France](https://www.atlasobscura.com/things-to-do/france "France")
+* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
+* [India](https://www.atlasobscura.com/things-to-do/india "India")
+* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
+* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
+
+### Cities
+
+* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
+* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
+* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
+* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
+* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
+* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
+* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
+* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
+* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
+* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
+* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
+* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
+* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
+* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
+* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
+* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
+* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
+* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
+* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
+* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
+* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
+* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
+* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
+* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
+
+Latest Places
+
+[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
+
+   [![Path through the forest.](https://img.atlasobscura.com/NtbV6kjPjEBCteyBBJR8QXK3AoM4tczs6L178WwxGtE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mNzAy/NzJhMS05NmFiLTRi/ZTktYjJiZi00ZjQ4/N2U2NWNiNjlmYTRl/MGVkZWE0NTlkOWU2/MDRfSU1HXzAyNjFf/YWRqLmpwZw.jpg)
+
+St. Edward State Park](https://www.atlasobscura.com/places/st-edward-state-park)
+
+   [![Apothecary of over 500 herbs and oils](https://img.atlasobscura.com/tvNE945xHPLaUmfM6ZJtRjAtwaPy_tSal61P4vKxMPw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hMGM2/MWNkMC1iM2JjLTQ0/ZGYtOGQyMy05MWUy/ZTczN2QyYWU4OTBm/NDYwODhkNGIxNmMz/MDRfaW1hZ2UuanBn.jpg)
+
+Magick Candle](https://www.atlasobscura.com/places/magick-candle-indianapolis)
+
+   [![Stalactites in King Solomon's Cave](https://img.atlasobscura.com/cp6qdPRLfKffJ1usvJHc-nYTDyLEQz5X2vjTgAAfh64/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85Yzky/NDY0NS02MzJkLTQ4/ODAtODI5Yi0xYjM3/ZTJmNzA5MDhkMDdi/M2NlZDRmOWNhZmVi/ZjJfQ3VldmFfZGVs/X1JleV9TYWxvbW9u/LVRhc21hbmlhLUF1/c3RyYWxpYTAzLkpQ/Rw.jpg)
+
+King Solomons Cave](https://www.atlasobscura.com/places/king-solomons-cave)
+
+   [![](https://img.atlasobscura.com/VXlItAxmVEW0fPIPsqIZlrtRCU6WuoGtl9TtgS_pRw4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80MzI3/NTkwZi0xMmY0LTQy/NjMtOTgyOC05NDE4/YTMyZjIxY2MzMDc0/NzYxMjM1MTAzYmZj/N2FfU2lsdmVyX0lz/bGVfKDIxNDI0OTcy/NykuanBlZw.jpg)
+
+Silver Islet Mine](https://www.atlasobscura.com/places/silver-islet-mine)
+
+Latest Places to Eat & Drink
+
+[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
+
+   [![Order the dry curry with pork spareribs and green banana.](https://img.atlasobscura.com/nt6pgEgQC-2MxCeQ16d3WNhZRrhb_0qg8tl2NjVnDww/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZmYw/MmQxNy00NjcwLTRm/MTYtOTliYy01YzVl/ZWQwODQ2MjU1Nzhl/ZTM0MmMxZWMyM2E2/MDFfMjAyMSBEcnkg/Q3Vycnkgd2l0aCBQ/b3JrIFNwYXJlcmli/cyAmIEdyZWVuIEJh/bmFuYSBZYXkgUHVh/ZCBDaHVtcGhvbiBU/aGFpbGFuZC0yMTY4/LmpwZw.jpg)
+
+Yay Puad](https://www.atlasobscura.com/places/yay-puad)
+
+   [![The name of this dish means "trader's rice" in Malay dialect.](https://img.atlasobscura.com/Yk520Om_vjbcHvDZnOUdMrtwgVmZV_TvPzajVBcza9k/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xYjQy/NTYxNmU2YjM2Nzk4/M2NfMjAyMCBUcmFk/ZXJzIFJpY2UgUGF0/dGFuaSBUaGFpbGFu/ZC0xMTA3LmpwZw.jpg)
+
+Nasi Dagae](https://www.atlasobscura.com/places/nasi-dagae)
+
+   [![Chicken is marinated in an umami-forward brine before being battered and deep-fried.](https://img.atlasobscura.com/37vjMAuubmiyYMHHY1fzIEnA22IVUvYQZKyfGlo3TNk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kYmFj/MmEzYjczNTM5NmVj/ZWNfMjAyMCBLYWkg/VGhhd3QgQmF0IEto/aXcgSGF0IFlhaSBU/aGEtNDk5My5qcGc.jpg)
+
+Kai Thawt Bat Khiw](https://www.atlasobscura.com/places/kai-thawt-bat-khiw)
+
+   [![Roast pork over rice makes, alongside congee, makes for a deeply southern Thai-Chinese breakfast.](https://img.atlasobscura.com/FI2Nwk4pLkKVZraSKpRhmjJCzcH5thnfYNoVKdNW1L4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNGVm/ZmIwMjU1Y2IyZGNl/N2NfMjAyMCBUcmFu/ZyBUaGFpbGFuZC05/OTcwLmpwZw.jpg)
+
+Sin Jiew](https://www.atlasobscura.com/places/sin-jiew)
+
+   [![This tart, thin, turmeric-tinted broth packs a real punch.](https://img.atlasobscura.com/sQdXkSDspX0hNBLyGKM3PhmG8d4cb_ACHazy0bG5aT0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80ZTYw/MTk2YzFkZWE0YzY3/NjdfMjAyMCBBIFRh/cnQgU3BpY3kgU291/cCB3aXRoIFZlZ2V0/YWJsZXMgYW5kIEZp/c2ggVHVybWVyaWMg/TmFraG9uIFNpIFRo/YW1tYXJhdCBUaGFp/bGFuZC01OTA5Lmpw/Zw.jpg)
+
+Suwalee](https://www.atlasobscura.com/places/suwalee)
+
+Recent Stories
+
+[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
+
+Most Recent Stories
+
+[View All Stories »](https://www.atlasobscura.com/articles)
+
+   [![Vanishing hitchhiker legends are just the latest version of a folktale that may go back millennia—and continues to spread and evolve.](https://img.atlasobscura.com/Rkm9Shz2gP4JrmGagTlT1sgWlSNhkW7PU5822KDGWro/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8xZmViMmQwZC05/MmRiLTQ5NzQtYTYx/ZS0wMzQ3ZWQ1N2Uw/ZWVmOWFiMTUxMjM1/ODNjZWQ1NmVfR2V0/dHlJbWFnZXMtMTI3/NzUzNDkwMS5qcGc.jpg)
+
+The Vanishing Hitchhiker Legend Is an Ancient Tale That Keeps Evolving](https://www.atlasobscura.com/articles/vanishing-hitchhiker-urban-legend)
+
+   [![The Cù Sith, an otherworldly hound of Scottish folklore, and its Irish counterpart the Cù Sidhe are sometimes described as green, the color associated with magic—and misfortune.](https://img.atlasobscura.com/R1XIEnhy0jdjLtwdkpcsGQzPYi47F8pK11s9Dob3Wbw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jMmNkNTNiYi04/ZDBlLTQyMTAtYWVk/ZS1iODZmMjgwNGY1/M2JkZTY1NGY5ZGIw/Y2U1NmQxNGJfY3Ug/c2l0aCBGSU5BTC5q/cGc.jpg)
+
+Death as a Dog: The Cù Sith of Scotland](https://www.atlasobscura.com/articles/cu-sith-scottish-folklore-black-dog)
+
+   [![People visit the beach in in Fort Myers, Florida, as storm clouds gather ahead of Hurricane Milton's arrival.](https://img.atlasobscura.com/F5tqq2pYz5YvgQd5SE-6wFLEEhP4BuP_gzNpNj27kK8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iMDQyOThjYS1h/NTIyLTQ4ZWItOTRh/Ny0zYjllNTViNjIx/NTg3ODMzZTMyMWFk/Yjg5NDQzMzNfR2V0/dHlJbWFnZXMtMjE3/NzUwMDQ1Ni5qcGc.jpg)
+
+As Hurricane Milton Approaches, Communities Repair and Prepare](https://www.atlasobscura.com/articles/hurricane-milton-helene-disaster-response)
+
+   [![Bottles range from bourbon to whiskey to gin.](https://img.atlasobscura.com/EDzcINKLKb1GVwaDAC15qkwF1GD91d_MXnHO31lKxSI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iY2I3Nzk2ZThi/OGU0OWY4MWFfc3F1/YWRyb24gYm90dGxl/LmpwZWc.jpg)
+
+The Return of 'The Squadron Bottle,' a San Francisco Tradition](https://www.atlasobscura.com/articles/fleet-week-san-francisco-tradition)
 
 No search results found for  
 “”
