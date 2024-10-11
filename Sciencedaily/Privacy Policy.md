@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Late Cretaceous Birds: Raptor-Like Feet](https://www.sciencedaily.com/releases/2024/10/241009144842.htm)
+* [Clothes That Help Combat Rising Temps](https://www.sciencedaily.com/releases/2024/10/241009215428.htm)
+* [Slinging a Web Like Spider-Man](https://www.sciencedaily.com/releases/2024/10/241009215417.htm)
+* [Early Homo Sapiens and Underwater Caves](https://www.sciencedaily.com/releases/2024/10/241009144855.htm)
+* [Vagus Nerve Stimulation May Boost Hearing](https://www.sciencedaily.com/releases/2024/10/241009122310.htm)
+* [Robotic 'Finger' Takes Pulses, Checks Lumps](https://www.sciencedaily.com/releases/2024/10/241009121335.htm)
 * [Over 160,000 New Viruses Discovered by AI](https://www.sciencedaily.com/releases/2024/10/241009121318.htm)
 * [Jupiter's Great Red Spot Squiggling](https://www.sciencedaily.com/releases/2024/10/241009183537.htm)
 * [Unique Genes Associated With Disease Risk](https://www.sciencedaily.com/releases/2024/10/241009121544.htm)
 * [How Eating Less Can Extend Lifespan](https://www.sciencedaily.com/releases/2024/10/241009121347.htm)
-* [Special Immune Cells May Stop Metastatic Cancer](https://www.sciencedaily.com/releases/2024/10/241007114918.htm)
-* [Viruses Are Teeming On Your Showerhead](https://www.sciencedaily.com/releases/2024/10/241009122630.htm)
-* [Biodegradable Nano-Ribbons for Energy, IT, Meds](https://www.sciencedaily.com/releases/2024/10/241009121344.htm)
-* [Electronic Tongue Reveals AI Inner Thoughts](https://www.sciencedaily.com/releases/2024/10/241009121229.htm)
-* [Another Step Towards Decoding Smell](https://www.sciencedaily.com/releases/2024/10/241009121121.htm)
-* [Will AI Tools Revolutionize Public Health?](https://www.sciencedaily.com/releases/2024/10/241008201419.htm)
 
 Trending Topics
 ---------------
@@ -240,15 +240,15 @@ this week
 
 [Weapons Technology](https://www.sciencedaily.com/news/matter_energy/weapons_technology/)
 
-[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+[Alternative Fuels](https://www.sciencedaily.com/news/matter_energy/alternative_fuels/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
 
-[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
+[Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
 
-[Mating and Breeding](https://www.sciencedaily.com/news/plants_animals/mating_and_breeding/)
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
   
 
