@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
+Only four spell incantations appear in Harry Potter and the Sorcerer’s Stone: Wingardium Leviosa, Petrificus Totalus, Alohomora, and Locomotor Mortis.
 
 ### Potter History
 
-February 25, 2005 – Bad weather plagued the filming of Goblet of Fire and delayed production.
+November 22, 2011 – Harry Potter and the Deathly Hallows – Part 2 is released on Blu-ray and DVD in the United States.
 
 ### Potter Quote
 
-“Sir, I wondered what you know about . . . about Horcruxes?”
+“My brothers, my sisters. The clock is ticking faster. We who live for freedom, for truth, and for love. The moment has come to share my vision of the future that awaits if we do not rise up and take our rightful place in the world. Where we wizards are free. Aurors, join me in this circle, pledge to me your eternal allegiance, or die.”
 
 [](#)
 
