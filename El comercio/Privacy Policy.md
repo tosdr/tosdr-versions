@@ -31,6 +31,852 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Baltazar Ushca es velado en el Municipio de Guano
+=================================================
+
+En el auditorio de la Municipalidad se levantó una capilla ardiente. Luego sus restos serán llevados a su comunidad.
+--------------------------------------------------------------------------------------------------------------------
+
+![Fotografía del 20 de mayo de 2021 del indígena ecuatoriano Baltazar Ushca en Cuatro esquinas (Ecuador). EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Baltazar-Ushca-2.jpg)
+
+Los restos del último **hielero del Chimborazo**, **Baltazar Ushca**, son velados en el **Municipio de Guano**.
+
+Familiares, amigos y autoridades locales llegaron al auditorio para homenajear a este **ícono** de la cultura y tradiciones del **Ecuador**. En ese lugar se levantó una capilla ardiente.
+
+**Ushca** falleció este viernes 11 de octubre de 2024 a la edad de 80 años. Su muerte se produjo tras un accidente doméstico ocurrido el 10 de octubre de 2024, cuando un toro lo derribó en su hogar, causándole lesiones graves.
+
+Inicialmente fue atendido en un centro médico local y luego trasladado de urgencia al **Hospital Solca de Riobamba**, donde lamentablemente murió.
+
+A más de su trabajo como hielero, **Baltazar Ushca** también laboraba en el Museo de Guano, donde compartía su rica historia y conocimientos sobre esta actividad.
+
+### Más noticias
+
+* [Baltazar Ushca, el último hielero del Chimborazo, deja un legado inmortal en el Ecuador](https://www.elcomercio.com/tendencias/cultura/baltazar-ushca-ultimo-hielero-chimborazo-biografia.html "Baltazar Ushca, el último hielero del Chimborazo, deja un legado inmortal en el Ecuador ")
+* [Falleció Baltazar Ushca, el último hielero del Ecuador](https://www.elcomercio.com/actualidad/ecuador/ecuador-perdio-ultimo-hielero-fallecio-baltazar-ushca.html "Falleció Baltazar Ushca, el último hielero del Ecuador")
+* [Baltazar Ushca, el último hielero del Chimborazo, trasladado de urgencia al hospital](https://www.elcomercio.com/actualidad/ecuador/baltazar-ushca-ultimo-hielero-chimborazo-urgencia-hospital.html "Baltazar Ushca, el último hielero del Chimborazo, trasladado de urgencia al hospital")
+
+El sepelio de Baltazar Ushca
+----------------------------
+
+Los representantes del **Municipio de Guano** informaron que los restos de Ushca serán trasladados pasadas las 18:00 a la comunidad de **Pulinguí Santa Elena**, de donde era oriundo.
+
+En ese lugar se realizará su sepelio. La comunidad ha expresado su dolor por su pérdida y ha recordado su legado como un representante viviente de las tradiciones ecuatorianas. 
+
+Ushca era un símbolo del turismo en la provincia de Chimborazo y un ícono cultural en Ecuador.
+
+A lo largo de su vida, se dedicó a extraer hielo del **nevado Chimborazo** para venderlo en el mercado de Riobamba, preservando así una tradición que ha ido desapareciendo con el tiempo.
+
+Ecuador va a su propio ritmo en la apuesta de energías renovables
+=================================================================
+
+Ecuador aprovecha las energías renovables. Estas fuentes buscan reducir la dependencia del país de la energía hidroeléctrica.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![La central hidroeléctrica Coca Codo Sinclair tiene una capacidad instalada de 1500 MW y es la más grande del país. Foto: Cortesía Coca Codo](https://www.elcomercio.com/wp-content/uploads/2024/06/Coca-Codo-Sinclair-2.jpg)
+
+Las energías renovables, como la **solar, eólica, hidroeléctrica, geotérmica y la biomasa**, lidera la transformación energética en todo el mundo. El objetivo principal es reducir la dependencia de los **combustibles fósiles** y mitigar el impacto ambiental. La **diversificación es clave**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+Según datos del Operador Nacional de Electricidad (Cenace), el 72% de la energía el Ecuador depende del agua. Esta dependencia ha llevado a la **grave crisis** **energética** por la que atraviesa actualmente el país, debido, en parte, a la sequía que afronta el país y la región. Por esta razón, las autoridades buscan cambiar la **matriz energética**. Estas son algunas de las opciones.
+
+### Más noticias
+
+* [Paneles solares están en auge en Ecuador](https://www.elcomercio.com/actualidad/negocios/paneles-solares-auge-ecuador-cortes-de-luz.html "Paneles solares están en auge en Ecuador")
+* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
+* [La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?](https://www.elcomercio.com/actualidad/negocios/la-solucion-para-los-cortes-de-luz-del-ecuador-es-la-geotermia-de-que-se-trata.html "La solución para los cortes de luz del Ecuador es la geotermia, ¿de qué se trata?")
+
+Energía solar
+-------------
+
+La energía solar aprovecha la radiación del sol para generar electricidad o calor. Existen dos tipos principales: la **fotovoltaica**, que convierte la luz solar directamente en electricidad mediante paneles solares, y la s**olar térmica**, que utiliza la **energía del sol** para calentar fluidos que generan vapor y mueven turbinas eléctricas.
+
+En **Ecuador** hay **31 pequeñas plantas fotovoltaicas** **públicas**, principalmente en **Galápagos**. El Estudio del **Potencial Solar Fotovoltaico del Ecuador** determinó que el país tiene más de 14 millones de hectáreas con buenas condiciones de radiación solar.
+
+Energía eólica
+--------------
+
+La **energía eólica** se obtiene del aprovechamiento de la fuerza del viento mediante aerogeneradores, que convierten el movimiento de las palas en energía eléctrica. Esta tecnología es ampliamente utilizada en regiones con fuertes corrientes de viento, tanto en tierra (onshore) como en el mar (offshore). La **energía eólica** es una de las fuentes más consolidadas.
+
+En **Ecuador**, hay cuatro centrales eólicas en operación, dos de ellas están en Galápagos y dos Loja. Además, hay otros dos proyectos eólicos en Loja y Manabí, que deberían empezar su construcción.
+
+Energía hidráulica
+------------------
+
+La energía hidráulica utiliza el movimiento del agua, ya sea de ríos o grandes presas, para mover turbinas y generar electricidad. Es una de las formas más antiguas de energía renovable y sigue siendo una de las más utilizadas en todo el mundo.
+
+En Ecuador, el 72% de la matriz energética es hidráulica. Según datos oficiales, hay 47 hidroeléctricas públicas en el país. La más grande es Coca Codo Sinclair, entre Napo y Sucumbíos, con 1 500 megavatios (MW) de potencia instalada. Solo esta central aporta con cerca del 30% de la energía que necesita el Ecuador cada día. Actualmente, hay varias centrales hídricas en construcción, por ejemplo, Toachi-Pilatón, Santiago y cardenillo.
+
+Energía geotérmica
+------------------
+
+La energía geotérmica aprovecha el calor natural del interior de la Tierra, ya que captura vapor o agua caliente almacenada bajo la superficie para generar electricidad o calefacción. Es una fuente confiable de energía renovable y constante, especialmente en regiones volcánicas o con actividad geotérmica. Sin embargo, su explotación está limitada geográficamente y puede causar emisiones de gases no deseados si no se controla adecuadamente.
+
+Ecuador tiene un Plan de Desarrollo Geotérmico desde 2010. Este documento señala que el país tiene un potencial bruto de alrededor de 1 000 MW. Hay 22 prospectos, de los cuales 11 son de alta entalpía (generación de electricidad). A inicios de octubre de 2024, se firmó un acuerdo para financiar el proyecto **geotérmico Chachimbiro**, en Imbabura.
+
+Biomasa y biogás
+----------------
+
+El biogás y la biomasa se consolidan como fuentes clave de energía renovable, pues se destaca por su capacidad de aprovechar residuos orgánicos y vegetales. El biogás, producido a través de la descomposición de materiales como estiércol o desechos agrícolas, se transforma en electricidad y calor. La biomasa, en cambio, incluye el uso de recursos como madera, cáscaras de arroz y otros restos vegetales para la generación de energía.
+
+En Ecuador hay varias iniciativas privadas, por ejemplo, la Empresa Pública Metropolitana de Gestión Integral de Residuos Sólidos (Emgirs) con la española Gasgreen aprovechan el biogás generado en el relleno sanitario de El Inga, en Quito, para que se convierta en energía limpia.
+
+Energía mareomotriz
+-------------------
+
+La energía mareomotriz se basa en el movimiento de las mareas para generar electricidad. Funciona mediante el uso de turbinas instaladas en áreas donde las mareas suben y bajan de manera significativa. Es una fuente predecible y confiable, pero su instalación y mantenimiento son costosos. No se conocen iniciativas que se estén desarrollando en la Ecuador-
+
+Energía undimotriz (de las olas)
+--------------------------------
+
+La energía undimotriz aprovecha el movimiento de las olas en la superficie del mar para generar electricidad. Existen varios diseños para capturar este tipo de energía, pero aún está en una fase experimental en muchos lugares. Ecuador aún no tiene proyectos de este tipo de energía.
+
+Hidrógeno verde
+---------------
+
+El hidrógeno verde se produce mediante **electrólisis del agua**, usando electricidad generada a partir de fuentes renovables (hídrica, solar, eólica, etc). Este proceso separa las moléculas de agua en oxígeno e hidrógeno, que luego puede ser utilizado como combustible. Es considerado una de las claves para la descarbonización de sectores difíciles de electrificar, como la industria pesada y el transporte.
+
+Se conocen, varios proyectos piloto de hidrógeno verde que se están desarrollando en varias provincias de Ecuador.
+
+Energía nuclear
+---------------
+
+Se obtiene mediante la **fisión nuclear**, un proceso que divide átomos (generalmente de uranio o plutonio) para liberar energía. Aunque es eficiente en su producción, la energía nuclear enfrenta desafíos importantes como la gestión de **residuos radiactivos** y los riesgos asociados con accidentes en las plantas nucleares.
+
+Según expertos, el Ecuador cuenta con los minerales necesarios para desarrollar energía nuclear en el futuro. Sin embargo, la implementación de esta tecnología es costosa. Actualmente, no hay proyectos de energía nuclear en el país.
+
+Supervivientes japoneses de las bombas atómicas reciben el Nobel de la Paz
+==========================================================================
+
+El Comité Nobel noruego otorgó el Premio de la Paz a la agrupación japonesa Nihon Hidankyo.
+-------------------------------------------------------------------------------------------
+
+![Toshiyuki Mimaki, representante de Nihon Hidankyo (Confederación Japonesa de Organizaciones de víctimas de bombas A y H), habló en Hiroshima, Japón. EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Nobel-de-la-paz.jpg)
+
+##### Agencia EFE
+
+La organización japonesa **Nihon Hidankyo**, que agrupa a supervivientes de las bombas atómicas, fue galardonada con el **Premio Nobel de la Paz 2024**. **Toshiyuki Mimaki**, representante de la organización, confió en que este galardón “dé más peso” al mensaje antinuclear que promueven.
+
+**Nihon Hidankyo** es una agrupación fundada 1956 por ‘**hibakusha**‘ o supervivientes a las bombas atómicas lanzadas por **Estados Unidos** sobre **Hiroshima y Nagasaki**. Desde entonces ha trabajado por difundir los testimonios de los afectados por todo el mundo y por promover un mundo libre de armas nucleares.
+
+“Creo que al recibir este premio tan grande, nuestras palabras podrán tener más peso”, dijo en una comparecencia ante los medios locales Mimaki, quien tenía tres años cuando la primera bomba nuclear de la historia fue lanzada sobre la cuidad donde residía con su familia.
+
+### Más noticias
+
+* [Conoce a Han Kang, premio Nobel de Literatura 2024, su estilo e impacto literario](https://www.elcomercio.com/tendencias/cultura/han-kang-premio-nobel-literatura.html "Conoce a Han Kang, premio Nobel de Literatura 2024, su estilo e impacto literario ")
+* [Nobel de Química por revelar códigos de proteínas mediante inteligencia artificial](https://www.elcomercio.com/actualidad/nobel-de-quimica-por-revelar-codigos-de-proteinas-mediante-inteligencia-artificial-2.html "Nobel de Química por revelar códigos de proteínas mediante inteligencia artificial")
+* [Nobel de Medicina es para Ambros y Ruvkun, descubridores del micro-ARN](https://www.elcomercio.com/actualidad/mundo/nobel-de-medicina-es-para-ambros-y-ruvkun-descubridores-del-micro-arn.html "Nobel de Medicina es para Ambros y Ruvkun, descubridores del micro-ARN")
+
+El trabajo de Nihon Hidan
+-------------------------
+
+  
+“Nosotros ya nos estamos haciendo viejos, el promedio de nuestra edad es unos 85 años. Pero contamos con la siguiente generación”, señaló sobre la edad media entre los supervivientes a los bombardeos atómicos restantes en **Japón**.
+
+“Quiero que se **acaben** las **armas nucleares** mientras estemos vivos, es un deseo de todos los 114 000 ‘hibakusha’ que quedamos. Yo estoy en contra de la guerra”, añadió Mimaki, miembro del comité representativo de la organización.
+
+**Mimaki** admitió que el galardón ha causado una **gran sorpresa tanto a la propia asociación como en la ciudad de Hiroshima** y en todo **Japón** -“no me lo puedo creer, parece como un sueño”, dijo- y bromeó al afirmar que “no es tan fácil ganar un Nobel” y mencionar al escritor nipón Haruki Murakami, eterno candidato al galardón en la categoría literaria.
+
+Las reacciones sobre el Nobel de la Paz
+---------------------------------------
+
+Otro miembro de **Nihon Hidankyo**, el superviviente al bombardeo de **Nagasaki** Sueichi Kido, afirmó que el premio **Nobel** “reconoce los resultados de mucho tiempo luchando” por parte de la organización, y confesó que el galardón le trae a la memoria los rostros de otros compañeros ‘hibakusha’ ya fallecidos.
+
+El **primer ministro de Japón, Shigeru Ishiba**, también quiso valorar el galardón, un premio “muy importante” para una organización “que lleva mucho tiempo trabajando”, según dijo en una rueda de prensa al término de su participación en la cumbre de la **Asociación de Naciones del Sudeste Asiático en Laos.**
+
+El **Comité Nobel noruego otorgó el Premio de la Paz** a la agrupación japonesa “por sus esfuerzos para lograr un mundo libre de armas nucleares y demostrar a través de testimonios de testigos que las armas nucleares nunca deben volver a utilizarse”.
+
+WhatsApp presenta una función que permite organizar eventos
+===========================================================
+
+Aprende a crear y personalizar eventos en grupos de WhatsApp.
+-------------------------------------------------------------
+
+![WhatsApp permite crear eventos en grupos comunitarios para organizar reuniones. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/WhatsApp-eventos-1.jpg)
+
+**[WhatsApp](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a "https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a")** ha incorporado una **nueva función** que permite **crear eventos dentro de los grupos**, ideal para planificar reuniones con amigos, compañeros de trabajo, familiares u otras ocasiones.  
+
+### Más noticias
+
+* [Aprende a usar Copilot, la IA de Microsoft, en WhatsApp con unos sencillos pasos](https://www.elcomercio.com/tecnologia/copilot-whatsapp-microsoft-inteligencia-artificial.html "https://www.elcomercio.com/tecnologia/copilot-whatsapp-microsoft-inteligencia-artificial.html") 
+* [WhatsApp planea modificar la función de “escribiendo” en los chats](https://www.elcomercio.com/tecnologia/whatsapp-funcion-escribiendo-actualizacion.html "https://www.elcomercio.com/tecnologia/whatsapp-funcion-escribiendo-actualizacion.html") 
+
+Para utilizar esta opción, según [Infobae](https://www.infobae.com/tecno/2024/08/06/organiza-eventos-en-whatsapp-esta-es-la-nueva-funcion-para-grupos/ "https://www.infobae.com/tecno/2024/08/06/organiza-eventos-en-whatsapp-esta-es-la-nueva-funcion-para-grupos/"), **los usuarios solo necesitan acceder al grupo y comenzar a organizar el evento**. Esta funcionalidad **está disponible tanto para dispositivos Android como iPhone**, lo que facilita que los participantes de un grupo, sin importar la marca de su teléfono, puedan unirse o rechazar la invitación al evento. 
+
+**¿Para qué sirve la función de eventos en WhatsApp?** 
+-------------------------------------------------------
+
+Según la [página de WhatsApp](https://faq.whatsapp.com/2127363544304650/?cms_platform=android&locale=es_LA "https://faq.whatsapp.com/2127363544304650/?cms_platform=android&locale=es_LA"), es posible crear eventos en grupos de una comunidad para **facilitar la organización de reuniones y mantener la conexión entre los contactos**. Cabe destacar que **solo un miembro del grupo puede crear un evento**, y por el momento no es posible designar un coorganizador. 
+
+**Proceso para crear un evento** 
+---------------------------------
+
+* Desde el chat grupal de la comunidad, tocar el ícono **Evento**. 
+
+* Ingresar el nombre, la hora y la fecha del evento. 
+
+* Opcionalmente, agregar una descripción, ubicación o enlace de llamada de WhatsApp. 
+
+* Las descripciones pueden tener hasta 2048 caracteres. 
+
+* Los **enlaces de llamada** de WhatsApp pueden añadirse con hasta un año de anticipación. 
+
+* También **se pueden incluir enlaces de otras plataformas**, como Zoom. 
+
+* Tocar la flecha en la parte inferior derecha para finalizar. 
+
+* El evento se compartirá en el chat grupal, donde los miembros podrán responder y ver la información del evento. 
+
+Una vez finalizado, se debe tocar la flecha en la parte inferior derecha. **El evento se compartirá en el chat grupal**, donde los miembros podrán responder y consultar la información. 
+
+**No es posible invitar a personas que no pertenezcan al grupo** ni reenviar el evento. Además, los eventos también se pueden crear en grupos de avisos, pero solo si se es administrador de la comunidad. 
+
+**Personalización de eventos** 
+-------------------------------
+
+**La personalización es clave para que un evento sea memorable**. WhatsApp permite **añadir descripciones de hasta 2048 caracteres**, lo que da espacio suficiente para incluir todos los detalles necesarios. Además, se puede **adjuntar enlaces de llamada de WhatsApp**, lo que facilita la participación de los miembros que no pueden asistir físicamente. 
+
+**Beneficios de usar WhatsApp para eventos** 
+---------------------------------------------
+
+Utilizar **WhatsApp para organizar eventos** tiene múltiples beneficios. Primero, es una plataforma que la mayoría de las personas ya utilizan, lo que **elimina la necesidad de descargar aplicaciones adicionales**. Segundo, la función de eventos en grupos permite una comunicación directa y rápida entre los participantes. Finalmente, la posibilidad de personalizar y actualizar la información del evento en tiempo real asegura que todos estén al tanto de cualquier cambio. 
+
+**Consejos para maximizar el uso de eventos en WhatsApp** 
+----------------------------------------------------------
+
+Para sacar el máximo provecho de esta funcionalidad, considera los siguientes consejos: 
+
+* **Mantén la información actualizada**: Asegúrate de actualizar cualquier cambio en la fecha, hora o ubicación del evento. 
+
+* **Utiliza descripciones claras**: Una descripción detallada ayuda a los participantes a entender el propósito y los detalles del evento. 
+
+* **Fomenta la participación**: Usa el chat del grupo para animar a los miembros a confirmar su asistencia y participar activamente en la planificación. 
+
+¿Cómo fue el regreso de Leonardo Campana a la Selección de Ecuador?
+===================================================================
+
+El retorno de Leonardo Campana a la ‘Tri’ fue uno de los más esperados por la afición, que lo recibió con una cálida ovación.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Leonardo Campana lamentándose una acción de gol en el partido de Ecuador y Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-11T124125.417.jpg)
+
+**Leonardo** **Campana** volvió a sumar minutos con la **Selección** **de** **Ecuador** luego de casi un año de ausencia del combinado nacional. El delantero del Inter Miami participó en el empate contra Paraguay, generando gran expectativa entre los aficionados.
+
+Corría el minuto 65 en el Estadio Rodrigo Paz Delgado cuando **Sebastián Beccacece** encendió las gradas. El técnico argentino llamó a ‘Leo’, quien estaba realizando ejercicios de calentamiento, y le dio las instrucciones previas a su ingreso.
+
+### Más noticias:
+
+* [La Selección de Ecuador descendió al quinto puesto en la tabla](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador descendió al quinto puesto en la tabla")
+* [Leonardo Campana alborotó a los aficionados de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-alboroto-a-los-aficionados-de-la-seleccion-de-ecuador.html "Leonardo Campana alborotó a los aficionados de la Selección de Ecuador")
+* [Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay](https://www.elcomercio.com/deportes/futbol/kendry-paez-bajo-criticas-tras-empate-ecuador-paraguay.html "Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay")
+
+Finalmente, **Campana reemplazó a Gonzalo Plata**, quien también regresaba a la ‘Tri’, y disputó poco más de media hora en las eliminatorias sudamericanas.
+
+El partido de Leonardo Campana
+------------------------------
+
+El ingreso de Campana respondió a la necesidad de Beccacece de darle mayor presencia ofensiva al equipo, en un partido en el que **Paraguay optó por una defensa muy cerrada** y retrasada con múltiples hombres protegiendo su área.
+
+Campana no logró asentarse del todo en el campo debido a la férrea defensa guaraní, lo que lo obligó a moverse por varios sectores del terreno, especialmente por la banda derecha. Como nueve de referencia, el delantero del Inter Miami intentó situarse en el área, pero **recibió pocos balones y tuvo dificultades** para conectarse con sus compañeros.
+
+En total, **tocó el balón solo nueve veces,** completó cinco de ocho pases y perdió la posesión en tres ocasiones. Su i**mpacto en el juego fue limitado**.
+
+El estadio explotó con la entrada de Campana
+--------------------------------------------
+
+El llamado de **Beccacece a Campana** hizo que los aficionados presentes en el estadio se emocionaran, con gritos y ovaciones que resonaron por todo el Rodrigo Paz Delgado. El delantero, que atraviesa un gran momento en la MLS, fue recibido como uno de los héroes más esperados de la noche.
+
+> ¡EL CAMBIO MÁS ESPERADO! 🤩  
+>   
+> Ingresa Leonardo Campana por Gonzalo Plata  
+>   
+> ⚽️ 🇪🇨 [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw) 0⃣🆚 0⃣ [#Paraguay](https://twitter.com/hashtag/Paraguay?src=hash&ref_src=twsrc%5Etfw) 🇵🇾[#LaTrixECDF](https://twitter.com/hashtag/LaTrixECDF?src=hash&ref_src=twsrc%5Etfw) 📲 [https://t.co/cOXVlVw69p](https://t.co/cOXVlVw69p) [pic.twitter.com/VfWaQPmgF2](https://t.co/VfWaQPmgF2)
+> 
+> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [October 10, 2024](https://twitter.com/ElCanalDFutbol/status/1844505235978616995?ref_src=twsrc%5Etfw)
+
+Cuando finalmente pisó el césped, las **gradas estallaron de nuevo en aplausos y vítore**s, dándole una bienvenida llena de entusiasmo y cariño.
+
+En medio de la euforia por el ingreso de Campana, los hinchas también comenzaron a pedir la entrada de **John** **Yeboah**, lo que finalmente ocurrió pocos minutos después.
+
+Sentenciado por tenencia de mono catalogado en peligro crítico
+==============================================================
+
+El condenado fue encontrado en posesión de un mono aullador. Está en la lista roja de mamíferos de Ecuador.
+-----------------------------------------------------------------------------------------------------------
+
+![Foto referencial publicada por el Ministerio del Ambiente. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/10/MONO.jpg)
+
+El ecuatoriano José fue condenado a tres años de prisión por el **delito de tenencia y transporte ilegal** de un **mono aullador** (Alouatta palliata).
+
+Esta sentencia, emitida por un juez de **garantías penales**, también incluye una multa equivalente a 10 salarios básicos unificados.
+
+La condena se produce tras ser sorprendido en **delito flagrante** durante un operativo de control de vida silvestre, lo que subraya la creciente preocupación sobre la protección de la **fauna** en **Ecuador**.
+
+### Más noticias
+
+* [Esta es la situación de la fauna afectada por los incendios en Quito del 24 de septiembre](https://www.elcomercio.com/tendencias/ambiente/incendios-forestales-quito-fauna-rescate.html "Esta es la situación de la fauna afectada por los incendios en Quito del 24 de septiembre")
+* [Incendios forestales amenazan a la fauna ‘invisible’ clave de los bosques de Quito](https://www.elcomercio.com/tendencias/ambiente/incendios-forestales-fauna-quito-invisible.html "Incendios forestales amenazan a la fauna ‘invisible’ clave de los bosques de Quito")
+* [13 perros en condición de maltrato, rescatados en Quito](https://www.elcomercio.com/actualidad/13-perros-en-condicion-de-maltrato-rescatados-en-quito-puengasi.html "13 perros en condición de maltrato, rescatados en Quito")
+
+El operativo y la detención en Ecuador
+--------------------------------------
+
+El 9 de julio de 2024, la **Unidad de Protección Ambiental (UPMA)** de la **Policía** Nacional del Ecuador realizó un operativo que resultó en la detención del ciudadano en posesión del mono aullador.
+
+En la audiencia de juzgamiento, se presentó información clave proporcionada por el **Ministerio del Ambiente**, Agua y Transición Ecológica (Maate).
+
+Esta colaboración interinstitucional fue fundamental para establecer la responsabilidad del acusado en el delito contra la flora y fauna, conforme al artículo 247 del **Código Orgánico Integral Penal (COIP).**
+
+El mono aullador es un especie en peligro crítico
+-------------------------------------------------
+
+El mono aullador se encuentra catalogado como **Peligro Crítico**, según la lista roja de **mamíferos** de **Ecuador** y en el Apéndice II de **CITES**.
+
+Esto resalta la urgencia con que se deben abordar estos delitos, ya que cada acción cuenta para preservar las especies en riesgo.
+
+La situación actual exige una mayor conciencia pública sobre la importancia de proteger nuestra biodiversidad.
+
+El Ministerio del Ambiente pidió a los ciudadanos para que denuncien este tipo de delitos al **ECU 911** o a través de las redes sociales oficiales de ese ministerio.
+
+¿Qué jugadores de Ecuador se reencontraron con Alfaro?
+======================================================
+
+17 de los 25 jugadores que fueron convocados en la Selección de Ecuador para enfrentar a Paraguay se reencontraron con Gustavo Alfaro.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Gustavo Alfaro (izq.), DT de la Selección de Ecuador, junto a Gonzalo Plata, uno de sus exdirigidos.](https://www.elcomercio.com/wp-content/uploads/2024/10/PALL4924-scaled.jpg)
+
+La Selección de Ecuador se enfrentó a la de Paraguay del DT Gustavo Alfaro, quien dirigió al equipo entre 2020 y 2022. En la convocatoria de **25 jugadores** para enfrentar a la ‘Albirroja’, 17 de los citados habían sido dirigidos por el entrenador argentino.
+
+El combinado tricolor y los guaranís dividieron honores en su compromiso por la novena fecha de las eliminatorias sudamericanas rumbo al **Mundial de 2026**. El partido estuvo marcado por el reencuentro de la escuadra con el entrenador paraguayo.
+
+### Más noticias:
+
+* [Beccacece, satisfecho tras empate de la Selección de Ecuador con Paraguay](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-paraguay.html "Beccacece, satisfecho tras empate de la Selección de Ecuador con Paraguay")
+* [‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador](https://www.elcomercio.com/deportes/chito-vera-moises-caicedo-seleccion-ecuador.html "‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador")
+* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial-2026.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
+
+Para el choque, Alfaro arribó con un empate ante Uruguay y un triunfo ante Brasil en la doble fecha clasificatoria en la que debutó. El estratega gaucho, sin embargo, ya conocía al equipo tricolor al que ahora dirige **Sebastián Beccacece**.
+
+Después de la salida del entrenador en 2022, el técnico que estuvo en medio de él y del vigente en la Tri fue **Félix Sánchez Bas**, quien abandonó el cargo tras la **Copa América**. Tras la despedida de Alfaro, los cambios realizados tanto por Beccacece como por su antecesor no fueron de mayor profundidad.
+
+La Selección de Ecuador, con un once casi 100% de Alfaro
+--------------------------------------------------------
+
+Dentro de la alineación que plantó **Sebastián Beccacece** en la Selección de Ecuador, 10 de los 11 jugadores titulares estuvieron con Gustavo Alfaro. Asimismo, al menos ocho debutaron durante su gestión.
+
+Al igual que los **futbolistas** que estuvieron en la oncena inicial, un **nutrido grupo** ocupó el banco de suplentes. Estos también se mezclaron entre nombres que formaron parte de su paso por el equipo y otros a los que él les dio su primera oportunidad.
+
+Las caras que se reencontraron con el **entrenador** fueron: Hernán Galíndez, Gonzalo Valle, Félix Torres, Willian Pacho, Piero Hincapié, Angelo Preciado, Jhoanner Chávez, Jeremy Sarmiento, Gonzalo Plata, Kevin Rodríguez, Leonardo Campana, Alan Franco, Moisés Caicedo, Pervis Estupiñán, Gonzalo Plata, Enner Valencia.
+
+¿Quiénes fueron las excepciones de la Selección de Ecuador?
+-----------------------------------------------------------
+
+Entre aquellos que no tuvieron un pasado con **Gustavo Alfaro** en la Tri se encontraron jugadores jóvenes y otros cuyo nivel repunto de manera posterior. Estos formaron parte de la etapa de Félix Sánchez y de la nueva con Beccacece[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
+
+Los futbolistas que no llegaron a coincidir con el argentino fueron **Joel Ordóñez, Cristian Ramírez, Alan Minda, Óscar Zambrano, Kendry Páez, Jhon Yeboah, Pedro Vite y John Mercado.**
+
+La quinua, considerada un superalimento, ayuda a retrasar el envejecimiento 
+============================================================================
+
+También ayuda a aumentar la masa muscular.
+------------------------------------------
+
+![Este grano puede aportar más proteína que, incluso, el arroz integral. Foto: iStock](https://www.elcomercio.com/wp-content/uploads/2024/10/quinoa-envejecimiento.jpg)
+
+A la **quinua** ya le dicen que es **el cereal para retrasar el envejecimiento** y para **aumentar la masa muscular**. Se hizo famosa por ser el **alimento de los astronautas**, pero sus beneficios se amplían a otros grupos de personas. 
+
+### Más noticias
+
+* [Expertos descifran genoma de la quinua](https://www.elcomercio.com/tendencias/ciencia/genoma-quinua-genes-alimentacion-humanidad.html "https://www.elcomercio.com/tendencias/ciencia/genoma-quinua-genes-alimentacion-humanidad.html")
+* [La quinua es un versátil suplemento](https://www.elcomercio.com/tendencias/quinua-suplemento-alimento-gastronomia-cocina.html "https://www.elcomercio.com/tendencias/quinua-suplemento-alimento-gastronomia-cocina.html")
+
+**Un alimento poderoso para muchos grupos** 
+--------------------------------------------
+
+Se le reconoce como **un alimento poderoso que ofrece muchos nutrientes**, pero en muchos hogares pasa inadvertido. Es **fuente de proteínas, antioxidantes y grasas saludables**, convirtiéndose en una alternativa también para los deportistas. 
+
+**Fuente de proteínas y antioxidantes** 
+----------------------------------------
+
+“La **cantidad de proteínas en la quinua** depende de la variedad, con un rango comprendido entre un 10,4 por ciento y un 17,0 por ciento de su parte comestible”, detalla la **Organización de las Naciones Unidas para la Alimentación y la Agricultura** (FAO), cuya asamblea declaró oficialmente a 2013 como **el Año Internacional de la Quinua** (como también se le conoce). 
+
+**Los aminoácidos esenciales en la quinua** 
+--------------------------------------------
+
+Contiene los **nueve aminoácidos esenciales** -los componentes básicos de las proteínas- que el cuerpo del ser humano necesita, pero que no puede producir por sí mismo. **Es un alimento que pueden consumir las personas con diabetes**. 
+
+**Protección contra el daño celular y el envejecimiento** 
+----------------------------------------------------------
+
+Igualmente, se le endilga que **puede retrasar el envejecimiento y evitar el daño celular**. Posee **vitamina E**, una molécula orgánica que **protege el tejido corporal** del daño causado por los radicales libres, los cuales juegan un papel importante en el **proceso de envejecimiento**. 
+
+**Beneficios de la vitamina C en la piel** 
+-------------------------------------------
+
+**Tiene vitamina C**, considerada un **potente antioxidante** que neutraliza los radicales libres que causan **estrés oxidativo en la piel** y provocan su **envejecimiento prematuro**. Además, **contribuye para la producción de colágeno** en las células cutáneas; es decir, **ayuda a mantener la estructura de la piel**. 
+
+**Flavonoides que retrasan el envejecimiento** 
+-----------------------------------------------
+
+Y se le suman **dos flavonoides**: la quercetina y el kaemferol. Ambos **pueden ayudar a retrasar el envejecimiento**. 
+
+**Grasas saludables: omega 3 y omega 6** 
+-----------------------------------------
+
+El **omega 3 y el omega 6** que hace parte de su composición son de tipo poliinsaturado. De acuerdo con la revista MedlinePlus, es un tipo de **grasa dietaria** que se encuentra en alimentos vegetales y animales, tales como el salmón, los aceites vegetales, y algunas nueces y semillas. 
+
+**Contribución de la quinua en el control del peso** 
+-----------------------------------------------------
+
+“La cantidad de proteínas y fibra que aporta, así como nivel de **grasas saludables** y de carbohidratos, **ayudan a reducir péptidos que despiertan el hambre y los antojos**, como la grelina, mientras contribuye a saciarnos y a evitar la sensación de apetito durante mucho más tiempo”, detalla la revista Elle con respecto a los beneficios relacionados con el peso. 
+
+Caso Metástasis, 30 vinculados podrían enfrentar estas sentencias
+=================================================================
+
+En el caso Metástasis 30 personas fueron llamadas a juicio por presenta participación de delincuencia organizada.
+-----------------------------------------------------------------------------------------------------------------
+
+![Audiencia del caso Metástasis el pasado 12 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/caso-mestastasis.png)
+
+El pasado 7 de octubre de 2023, el **juez Manuel Cabrera** acogió la solicitud de la **Fiscalía General del Estado** y llamó a juicio a **30 de los 37 procesados** por su presunta participación en el delito de **delincuencia organizada**, según lo establecido en la audiencia preparatoria de juicio.
+
+### Más noticias
+
+* [Caso Metástasis iniciará una nueva etapa, ¿quiénes fueron llamados a juicio?](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-iniciara-una-nueva-etapa-quienes-fueron-llamados-juicios.html "Caso Metástasis iniciará una nueva etapa, ¿quiénes fueron llamados a juicio?")
+* [Caso Metástasis, juez Manuel Cabrera toma una resolución contra 37 procesados](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-juez-manuel-cabrera-tomo-una-decision-contra-37-procesados.html "Caso Metástasis, juez Manuel Cabrera toma una resolución contra 37 procesados")
+* [Caso Metástasis, acusaciones y defensas chocan en audiencias](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-acusaciones-defensas-chocan-audiencias.html "Caso Metástasis, acusaciones y defensas chocan en audiencias")
+
+De acuerdo con la Fiscalía, existen **suficientes indicios que vinculan a los procesados** con las actividades ilícitas investigadas, lo que les obliga a enfrentar el juicio para e**sclarecer su situación jurídica**.
+
+> [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw)[#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw)[#LlamadosAJuicio](https://twitter.com/hashtag/LlamadosAJuicio?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/DXBoiG5mxG](https://t.co/DXBoiG5mxG)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [October 7, 2024](https://twitter.com/FiscaliaEcuador/status/1843433282614231340?ref_src=twsrc%5Etfw)
+
+Entre los acusados se encuentran cuatro personas a quienes la Fiscalía señala como los **presuntos líderes de una organización criminal**. Además, se han identificado colaboradores que habrían contribuido a la operación de esta **red delictiva**.
+
+Investigación iniciada tras el asesinato de Norero
+--------------------------------------------------
+
+La investigación que destapó la red criminal del **caso Metástasis** comenzó a raíz del asesinato de **Leandro Norero** en el Centro de Privación de Libertad de Cotopaxi.
+
+Según la Fiscalía, Norero lideraba una organización desde prisión, cuyo objetivo principal era asegurar privilegios para él y su familia, además de **evadir la justicia** en un proceso por lavado de activos. Entre los colaboradores mencionados durante la audiencia se incluyen jueces, fiscales, policías, guías penitenciarios y abogados.
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): con la presencia –vía telemática– de la fiscal general del Estado, Diana Salazar, se reinstala la audiencia preparatoria de juicio. El juez Manuel Cabrera informará si llama o no a juicio a los 37 procesados por presunta [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/87xHBhwVan](https://t.co/87xHBhwVan)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [October 7, 2024](https://twitter.com/FiscaliaEcuador/status/1843374211655709024?ref_src=twsrc%5Etfw)
+
+El juez Cabrera, además de [llamar a juicio a **30 personas**](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-iniciara-una-nueva-etapa-quienes-fueron-llamados-juicios.html "https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-iniciara-una-nueva-etapa-quienes-fueron-llamados-juicios.html"), dictó auto de **sobreseimiento para otros siete procesados**. Estas personas quedaron exentos de continuar con el **proceso judicial** al no encontrarse pruebas suficientes en su contra.
+
+Algunos **procesados se encuentran actualmente prófugos**, lo que ha provocado la suspensión de la etapa de juicio para ellos.
+
+Vinculados en el caso Metástasis
+--------------------------------
+
+Posibles sentencias para los implicados en el caso Metástasis
+-------------------------------------------------------------
+
+El **artículo 369 del Código Orgánico Integral Penal (COIP)** tipifica el delito de delincuencia organizada, estableciendo penas de **siete a 10 años de prisión** para aquellos que ocupen roles de liderazgo dentro de **organizaciones criminales**. Esta sanción aplica a quienes financien, ejerzan mando o planifiquen actividades delictivas.
+
+Por otro lado, los colaboradores que **no desempeñen un papel jerárquic**o podrían enfrentar penas privativas de libertad de **cinco a siete años**. Esto incluye a quienes contribuyen al funcionamiento de estas estructuras delictivas sin asumir un **rol directivo**.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): 30 procesados son llamados a juicio. [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) los procesa por su presunta participación en el delito de [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> Detalles ⬇️[https://t.co/K9hBVKTZSM](https://t.co/K9hBVKTZSM) [pic.twitter.com/Tt7U2orq4j](https://t.co/Tt7U2orq4j)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [October 8, 2024](https://twitter.com/FiscaliaEcuador/status/1843451035467296949?ref_src=twsrc%5Etfw)
+
+Lula defiende una Brasil sin futbolistas que jueguen fuera del país
+===================================================================
+
+En los últimos años, Brasil ha perdido su esencia, y por eso el mandatario de la nación defiende una idea descabellada.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Vinícius Júnior, figura del Real Madrid, con la camiseta de la Selección de Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-11T114840.434.jpg)
+
+**Luiz Inácio Lula da Silva**, presidente de Brasil, propuso este viernes que se excluya de la selección nacional a los futbolistas que juegan en el extranjero, argumentando que, en su opinión, “no hay ningún jugador estrella” fuera del país.
+
+“**Los que están fuera no son mejores que los que están aquí”**, afirmó durante una entrevista radiofónica, un día después de que la Canarinha ganase 1-2 a Chile en las eliminatorias del Mundial, con goles de Luiz Henrique e Igor Jesus, dos jugadores del Botafogo de Río de Janeiro.
+
+### Más noticias:
+
+* [Chile perdió con Brasil en los minutos finales](https://www.elcomercio.com/deportes/futbol/chile-brasil-resultado-eliminatorias-2026.html "Chile perdió con Brasil en los minutos finales")
+* [X vuelve a Brasil, pero con varias condiciones](https://www.elcomercio.com/actualidad/mundo/x-red-social-vuelve-brasil.html "X vuelve a Brasil, pero con varias condiciones")
+* [Venezuela no se rindió ante Argentina en las eliminatorias sudamericanas](https://www.elcomercio.com/deportes/eliminatorias/venezuela-argentina-eliminatorias-sudamericanas-resultado-empate.html "Venezuela no se rindió ante Argentina en las eliminatorias sudamericanas")
+
+Ya no hay buenos jugadores fuera de Brasil
+------------------------------------------
+
+El mandatario dijo que recientemente se reunió con el presidente de la Confederación Brasileña de Fútbol (CBF) y que le planteó la posibilidad de convocar solo a quienes juegan en el país, lo que excluiría a futbolistas como **Vinícius** **Junior**, Rodrigo, Militão y Endrick, del Real Madrid, o Raphinha, del Barça.
+
+Según Lula, en este momento no hay **“ningún Garrincha ni Romário”** en equipos extranjeros; solo “un montón de jóvenes que aún no son cracks”.
+
+“En Brasil hay jugadores buenos y de la misma calidad (que los que están fuera), entonces den oportunidades a los que están aquí”, propuso.
+
+El presidente, que es **seguidor del Corinthians** de São Paulo, gusta de comentar la actualidad deportiva durante las entrevistas y últimamente se ha mostrado crítico con la situación tanto de su equipo, que está en la zona de descenso, como de la selección.
+
+Brasil recupera terreno en eliminatorias
+----------------------------------------
+
+La ‘**Canarinha’ se impuso a Chile por 1-2**, en condición de visitante, y respiró aliviada, después de una serie de derrotas en las eliminatorias del Mundial frente a rivales teóricamente más débiles, como Paraguay.
+
+Con este resultado, los **pentacampeones del mundo ocupan el cuarto lugar** de la tabla con 13 puntos, mientras que la selección chilena se mantiene novena con cinco unidades, fuera de los puestos de clasificación.
+
+Por otra parte, gracias a la victoria de Brasil y al empate de **Ecuador, la ‘Tri’ descendió** a la quinta casilla con 12 unidades.
+
+Juicio de Sean ‘Diddy’ Combs iniciará en 2025 
+==============================================
+
+El juicio de Sean 'Diddy' Combs por tráfico sexual se realizará en Nueva York.
+------------------------------------------------------------------------------
+
+![Sean 'Diddy' Combs, ícono de la música, enfrenta graves acusaciones. Foto: IMDb.](https://www.elcomercio.com/wp-content/uploads/2024/10/Sean-Diddy-Combs-juicio.jpg)
+
+El **juicio** contra el famoso rapero y magnate de la música **Sean ‘Diddy’ Combs** ha sido programado para el **5 de mayo de 2025**.  
+
+### Más noticias
+
+* [Familia de Tupac investiga conexión con Sean ‘Diddy’ Combs y su asesinato](https://www.elcomercio.com/tendencias/trending/tupac-shakur-sean-diddy-combs-asesinato.html "https://www.elcomercio.com/tendencias/trending/tupac-shakur-sean-diddy-combs-asesinato.html") 
+* [Suben a 120 las acusaciones de abuso sexual contra P. Diddy](https://www.elcomercio.com/tendencias/trending/sean-combs-p-diddy-trafico-sexual.html "https://www.elcomercio.com/tendencias/trending/sean-combs-p-diddy-trafico-sexual.html")
+
+Este **proceso legal**, que se llevará a cabo en **Nueva York**, ha captado la atención mundial debido a la gravedad de las acusaciones: **tráfico sexual y extorsión**. Según el juez **Arun Subramanian**, quien preside el caso, se espera que el juicio se extienda por varias semanas debido a la complejidad de las pruebas y testimonios involucrados, de acuerdo con [El Espectador](https://www.elespectador.com/entretenimiento/gente/el-juicio-por-trafico-sexual-contra-el-rapero-sean-diddy-combs-comenzara-en-mayo/ "https://www.elespectador.com/entretenimiento/gente/el-juicio-por-trafico-sexual-contra-el-rapero-sean-diddy-combs-comenzara-en-mayo/"). 
+
+**Un juicio esperado para Sean ‘Diddy’ Combs** 
+-----------------------------------------------
+
+**Sean ‘Diddy’ Combs**, conocido por su **influencia en la industria musical,** enfrenta cargos que podrían cambiar el curso de su carrera. Las acusaciones incluyen la **dirección de una red de tráfico sexual** que operó durante años, y que afectó a numerosas víctimas. Este caso ha generado un debate intenso sobre el poder y la responsabilidad en el mundo del entretenimiento, a decir de [El Universal](https://www.eluniversal.com/internacional/192800/juicio-de-sean-diddy-combs-esta-previsto-para-mayo-de-2025 "https://www.eluniversal.com/internacional/192800/juicio-de-sean-diddy-combs-esta-previsto-para-mayo-de-2025"). 
+
+**Impacto en la industria musical** 
+------------------------------------
+
+El **juicio de ‘Diddy’** no solo afecta su reputación personal, sino que también pone en el centro de atención a la **industria musical**. Muchos se preguntan cómo estas acusaciones impactarán a otros artistas y ejecutivos del sector. **La industria ha sido criticada por su falta de acción** ante comportamientos inapropiados, y este caso podría ser un punto de inflexión para implementar cambios significativos, según recoge [Infobae](https://www.infobae.com/entretenimiento/2024/10/10/el-juicio-de-sean-diddy-combs-ya-tiene-fecha-su-destino-se-decidira-en-2025/ "https://www.infobae.com/entretenimiento/2024/10/10/el-juicio-de-sean-diddy-combs-ya-tiene-fecha-su-destino-se-decidira-en-2025/"). 
+
+**El futuro de Sean ‘Diddy’ Combs** 
+------------------------------------
+
+El resultado del juicio determinará el futuro de **Sean ‘Diddy’ Combs**. Si es declarado culpable, **podría enfrentar una larga condena en prisión**, lo que pondría **fin a su carrera musical y empresarial.** Sin embargo, si es absuelto, podría intentar **reconstruir su imagen pública y continuar con sus proyectos en la industria**. Este caso es un recordatorio de que nadie está por encima de la ley, independientemente de su fama o fortuna, a decir de [El Economista](https://www.eleconomista.com.mx/arteseideas/juicio-diddy-trafico-sexual-iniciara-mayo-20241010-729526.html "https://www.eleconomista.com.mx/arteseideas/juicio-diddy-trafico-sexual-iniciara-mayo-20241010-729526.html"). 
+
+El juicio de **Sean ‘Diddy’ Combs** es un evento que marcará un antes y un después en la **industria musical** y en la lucha contra el **tráfico sexual**. La atención mundial está puesta en este caso, y su desenlace podría tener repercusiones significativas en cómo se manejan las acusaciones de este tipo en el futuro. 
+
+Kendry Páez, bajo críticas tras el empate de Ecuador con Paraguay
+=================================================================
+
+La 'Tri' dejó escapar dos puntos valiosos ante un rival directo, y uno los más señalados es el joven talento de IDV.
+--------------------------------------------------------------------------------------------------------------------
+
+![Kendry Páez en el partido entre la Selección de Ecuador ante Paraguay en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-11T111600.753.jpg)
+
+La **Selección de Ecuador** empató sin goles contra Paraguay en el Estadio Rodrigo Paz Delgado, en un partido donde el equipo ecuatoriano no logró generar peligro real, y donde se destacó el discreto desempeño de **Kendry Páez**.
+
+Enfrente, la ‘Albirroja’ dirigida por **Gustavo Alfaro,** un técnico que conoce muy bien a la ‘Tri’, se plantó en Quito con una defensa sólida de cinco hombres, que se reforzaba aún más cuando Ecuador tenía el balón.
+
+### Más noticias:
+
+* [Kendry Páez mantiene la ’10’ en la Selección de Ecuador](https://www.elcomercio.com/deportes/gonzalo-plata-seleccion-ecuador-kendry-paez-numero.html "Kendry Páez mantiene la ’10’ en la Selección de Ecuador")
+* [Álex Aguinaga habla con dureza sobre Kendry Páez](https://www.elcomercio.com/deportes/futbol/alex-aguinaga-habla-con-dureza-sobre-kendry-paez.html "Álex Aguinaga habla con dureza sobre Kendry Páez")
+* [Beccacece, satisfecho tras empate de la Selección de Ecuador con Paraguay](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-paraguay.html "Beccacece, satisfecho tras empate de la Selección de Ecuador con Paraguay")
+
+El equipo ecuatoriano, que en varios tramos del encuentro solo movía la pelota de manera lateral sin profundidad, **expuso las dificultades de Kendry Páez**, quien fue sustituido en el entretiempo. El mediocampista está lejos de la versión que alguna vez mostró tanto en su club como en la selección.
+
+Kendry Páez, en el centro de las críticas tras el empate
+--------------------------------------------------------
+
+Desde que se anunció la convocatoria de **Sebastián Beccacece,** hubo mucho escepticismo respecto al llamado de Kendry Páez. En el último mes, el joven ha perdido la titularidad en Independiente del Valle, sumando solo algunos minutos como suplente.
+
+Este bajón, sumado a su **declive post Copa América,** generó malestar entre los aficionados, quienes cuestionaron su presencia en la selección.
+
+En el duelo contra Paraguay, donde Páez fue titular, todas las miradas estaban sobre él, tanto en las transmisiones televisivas como en las gradas del estadio. Sin embargo, e**l jugador de 17 años no tuvo un buen desempeño**, y fue duramente criticado en redes sociales, donde muchos afirmaban que, dado su momento actual, no debería haber sido convocado ni alineado como titular.
+
+En las tribunas del estadio, **varios aficionados también expresaron su descontent**o, señalando que Páez debía ser el primer cambio debido a su bajo rendimiento.
+
+Números de Páez con Ecuador
+---------------------------
+
+A sus 17 años, Kendry Páez **ya acumula 15 partidos con la Selección de Ecuador**, 12 de ellos como titular y tres como suplente.
+
+Con casi 1,100 minutos de juego, el volante ha marcado **dos goles** y repartido tres asistencias.
+
+Uno de sus goles fue en las Eliminatorias Sudamericanas, frente a Bolivia, en un partido como visitante. Su segunda anotación fue en la victoria de Ecuador sobre Jamaica (3-1) durante la **Copa América** 2024, disputada en Estados Unidos.
+
+Páez comenzó su recorrido en la selección con el número 16, pero en los últimos 10 partidos se ha consolidado como el **portador de la camiseta número 10.**
+
+¿Qué pasó con Mazar con las lluvias registradas en Cuenca?
+==========================================================
+
+Las lluvias en Cuenca mejoraron los caudales en los ríos Tomebamba, Yanuncay y Paute.
+-------------------------------------------------------------------------------------
+
+![La Central Hidroeléctrica de Mazar genera energía durante las noches para cubrir la demanda nacional. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/04/Mazar-Ecuador-cortes-de-luz.jpg)
+
+Las condiciones en el embalse de **Mazar** no mejoran, pese a las lluvias registradas en **Cuenca**. La cota se mantiene en los 2 112,6 metros sobre el nivel del mar.
+
+Está tres metros por debajo del nivel que temían los técnicos y **autoridades eléctricas**. Es decir, los 2 115.
+
+La razón es que cuando baja desde este último nivel, aumentan las posibilidades que ingresen sedimentos acumulados en el embalse de 410 millones de metros cúbicos. 
+
+Los sedimentos son rocas, palos o lodo. Esos materiales pueden afectar a las dos turbinas de la central Mazar, ubicado en los límites de **Azuay y Cañar.**
+
+### Más noticias
+
+* [Mazar tuvo una drástica disminución de su embalse, hay implicaciones](https://www.elcomercio.com/actualidad/negocios/embalse-mazar-sin-agua-las-implicaciones-cortes-luz-ecuador.html "Mazar tuvo una drástica disminución de su embalse, hay implicaciones")
+* [Mazar está por debajo del nivel para operar sin riesgo de sedimentos](https://www.elcomercio.com/actualidad/negocios/mazar-debajo-nivel-operar-riesgo-sedimentos.html "Mazar está por debajo del nivel para operar sin riesgo de sedimentos")
+* [Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz](https://www.elcomercio.com/actualidad/quito/lugares-carga-vehicular-obras-cortes-luz-quito.html "Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz")
+
+La generación de Mazar y Paute
+------------------------------
+
+Pese a que el ingreso de caudal a los embalses de **Mazar** y **Paute** siguen bajos por la sequía que afecta a Cuenca desde hace 91 días, Ecuador requiere de la producción de ambas centrales.
+
+**Mazar** operó entre las 19:00 del jueves 10 y las 01:00 de este viernes 11. Aportó con 600 megavatios/hora.
+
+La **Central Paute,** que es la segunda más grande de Ecuador, labora hasta con tres turbinas casi sin interrupciones.
+
+El **Operador Nacional de Electricidad (Cenace)** programó que la Central Paute aporte con el 5% de la producción hidroeléctrica de este viernes 11. **Sopladora** lo hará con el 3% y **Coca Codo Sinclair** entregará el 42%.
+
+Las lluvias registradas en Cuenca
+---------------------------------
+
+Las lluvias registradas la tarde y noche del jueves 10 de octubre de 2024 mejoraron las condiciones en tres de los cuatro ríos de Cuenca.
+
+El **Yanuncay, Tomebamba y Machángara** están en condiciones normales, según la información publicada por la **Red Hidrometereológica** de **Cuenca**.
+
+Tienen caudales que supera los cuatro metros cúbicos por segundo. En los días previos tenía menos de 1,50.
+
+Esta red de la **empresa municipal Etapa** pronosticó que este viernes 11 de octubre se registren lluvias en **Cuenca**. Las probabilidades bordean el 78% para la tarde y bajan al 48% para la noche.
+
+Batalla campal en el Camp Nou, del FC Barcelona, deja seis heridos
+==================================================================
+
+El conjunto culé está remodelando su estadio para convertirlo en uno de los más grandes y modernos del mundo.
+-------------------------------------------------------------------------------------------------------------
+
+![Obras del Camp Nou del FC Barcelona deja seis heridos por altercado.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-11T103629.250.jpg)
+
+El **FC Barcelona** comenzó la remodelación de su icónico estadio, el Camp Nou, a inicios de 2023. Por esta razón, durante la temporada 2024/25, el equipo culé juega fuera de su tradicional hogar. Sin embargo, los problemas en la construcción, **incluidos altercados violentos**, podrían extender el plazo de las obras.
+
+Este viernes 11 de octubre, varios medios españoles informaron s**obre un violento enfrentamiento en las inmediaciones del estadio** entre un grupo numeroso de obreros. El altercado dejó como resultado seis personas heridas, además de provocar varios despidos y nuevos retrasos en la obra.
+
+### Más noticias:
+
+* [La Selección de Ecuador descendió al quinto puesto en la tabla](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador descendió al quinto puesto en la tabla")
+* [Lionel Messi y un emotivo mensaje para Andrés Iniesta, tras su retirada](https://www.elcomercio.com/deportes/futbol/lionel-messi-emotivo-mensaje-para-andres-iniesta-tras-su-retirada.html "Lionel Messi y un emotivo mensaje para Andrés Iniesta, tras su retirada")
+* [FC Barcelona muestra su supremacía en Champions](https://www.elcomercio.com/deportes/fc-barcelona-young-boys-uefa-champions-league.html "FC Barcelona muestra su supremacía en Champions")
+
+Batalla campal en el Camp Nou
+-----------------------------
+
+El enfrentamiento, que tuvo lugar al mediodía de este viernes y en el que se **utilizaron palos**, dejó un saldo de seis personas con **heridas leves.** 
+
+Los involucrados en la pelea pertenecían a dos grupos de obreros, **uno compuesto por rumanos y el otro por albaneses**. Aún no se conocen las razones exactas que provocaron la trifulca.
+
+El encargado de la obra habría decidido despedir a todos los implicados en el incide**nte**. Cabe destacar que, hace algunos meses, ocurrió un altercado similar.
+
+No es la primera vez que sucede
+-------------------------------
+
+El pasado 23 de mayo, se **registró otra pelea en las obras del Camp Nou** del FC Barcelona, que resultó en dos heridos y cuatro detenidos. En esa ocasión, también se utilizaron palos y material de construcción durante el altercado.
+
+Un testigo presencial informó a EFE que el enfrentamiento, que **involucró a una decena de trabajadores**, comenzó alrededor de las 11 de la mañana en la calle Arístides Maillol, justo frente a la entrada del Camp Nou, cuando dos grupos de obreros se enfrentaron.
+
+En el club están tranquilos, ya que el incidente no ocurrió dentro del estadio, sino en la vía pública. Durante la pelea, los obreros se enfrentaron utilizando herramientas.
+
+Baltazar Ushca, el último hielero del Chimborazo, deja un legado inmortal en el Ecuador 
+========================================================================================
+
+Baltazar Ushca, símbolo de resistencia cultural y de una vida dedicada a una tradición ancestral
+------------------------------------------------------------------------------------------------
+
+![Baltazar Ushca se erigió como un símbolo de una tradición ancestral en peligro de extinción. Foto: Cuenta X Ministerio de Turismo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Baltazar-Ushca.jpg)
+
+Los ecuatorianos se despertaron este 11 de octubre con **la lamentable noticia del fallecimiento de Baltazar Ushca**, una figura icónica del país y conocido como **el último hielero del Chimborazo**. Según informó el **GAD Municipal de Guano**, ciudad donde Ushca vivía, su muerte se confirmó tras un grave accidente. 
+
+### Más noticias
+
+* [Baltazar Ushca, el último hielero del Chimborazo, trasladado de urgencia al hospital](https://www.elcomercio.com/actualidad/ecuador/baltazar-ushca-ultimo-hielero-chimborazo-urgencia-hospital.html "https://www.elcomercio.com/actualidad/ecuador/baltazar-ushca-ultimo-hielero-chimborazo-urgencia-hospital.html")
+* [Falleció Baltazar Ushca, el último hielero del Ecuador](https://www.elcomercio.com/actualidad/ecuador-perdio-ultimo-hielero-fallecio-baltazar-ushca.html "https://www.elcomercio.com/actualidad/ecuador-perdio-ultimo-hielero-fallecio-baltazar-ushca.html")
+
+El incidente ocurrió el 10 de octubre, cuando **un toro lo derribó mientras realizaba labores domésticas en su hogar**. A pesar de sus 80 años y su empleo en el **Museo de Guano**, donde relataba su historia a los visitantes, Ushca seguía con sus actividades cotidianas. Tras el accidente, **fue atendido en Guano y luego trasladado al Hospital Solca de Riobamba**, donde se confirmó su deceso. 
+
+**Baltazar Ushca: Un legado de hielo y tradición** 
+---------------------------------------------------
+
+**Baltazar Ushca Tenesaca**, conocido como **el último hielero del Chimborazo**, se convirtió en un **símbolo viviente de una tradición ancestral** que ha perdurado a lo largo de los siglos. A sus 80 años, **Ushca se mantuvo como baluarte de la ardua tarea de extraer hielo del majestuoso volcán Chimborazo**, una actividad que fue parte de su vida desde que tenía 15 años. Esta práctica, que alguna vez fue común en la región, ha desaparecido casi por completo, lo que dejó a Ushca como **el último de su clase**. 
+
+Archivo: EL COMERCIO
+
+**Un oficio en extinción** 
+---------------------------
+
+La **extracción de hielo del Chimborazo** es una tradición que se remonta a tiempos precolombinos. Los hieleros, como Ushca, **suben al volcán para cortar bloques de hielo** que luego son transportados a los mercados locales. **Este hielo, conocido por su pureza**, es muy apreciado en la región. Sin embargo, con la llegada de la refrigeración moderna, la **demanda de hielo natural** ha disminuido drásticamente, lo que ha puesto en peligro esta tradición única. 
+
+**Baltazar Ushca realizaba su labor a más de 5000 metros sobre el nivel del mar**. Dos veces por semana, asciendía las laderas del Chimborazo para **extraer bloques de hielo** que luego transportaba a Riobamba, donde los vendía en el **mercado de La Merced**. Esta actividad, que la realizó durante más de 50 años, no solo se convirtió en su medio de vida, sino también en un acto de resistencia cultural   
+
+**Reconocimiento internacional** 
+---------------------------------
+
+El **trabajo de Baltazar** **no pasó desapercibido**. En 2012, el documental ‘El Último Hielero’ dirigido por **Sandy Patch**, capturó su historia y la llevó a una audiencia global. Este documental ha sido presentado en varios festivales de cine y ha recibido elogios por su **conmovedor retrato de la vida de Ushca**, a decir de la página [Glaciares Chilenos](https://www.glaciareschilenos.org/peliculas-y-documentales/documental-el-ultimo-hielero-del-chimborazo-en-ecuador/ "https://www.glaciareschilenos.org/peliculas-y-documentales/documental-el-ultimo-hielero-del-chimborazo-en-ecuador/"). Además, el diario **The New York Times** reprodujo el documental, lo que amplió aún más su alcance. 
+
+**Desafíos modernos** 
+----------------------
+
+A pesar de los desafíos, **Baltazar Ushca** encontró formas de adaptarse. Incluso se convirtió en **empresario de agua**. Gracias al apoyo de un presentador ucraniano, **Dmytro Komarov**, pudo lanzar **su propia marca de agua embotellada**, según recoge el medio local [Radio K1](https://www.radiok1.com/post/el-%C3%BAltimo-hielero-del-chimborazo-ahora-es-empresario-de-agua "https://www.radiok1.com/post/el-%C3%BAltimo-hielero-del-chimborazo-ahora-es-empresario-de-agua"). Este emprendimiento no solo le proporcionaba un ingreso adicional, sino que también **ayudaba a preservar su legado**. 
+
+> [@jeffersonmerchant](https://www.tiktok.com/@jeffersonmerchant?refer=embed "@jeffersonmerchant") Baltazar Ushca conocido popularmente como “El Hielero del Chimborazo”, ahora es empresario. 🌋🇪🇨Comercializa agua embotellada extraida del hielo del [#volcán](https://www.tiktok.com/tag/volc%C3%A1n?refer=embed "volcán") [#Chimborazo](https://www.tiktok.com/tag/chimborazo?refer=embed "chimborazo"). [#testimonio](https://www.tiktok.com/tag/testimonio?refer=embed "testimonio") [#Ecuador](https://www.tiktok.com/tag/ecuador?refer=embed "ecuador") [#turismo](https://www.tiktok.com/tag/turismo?refer=embed "turismo") [#emprendimiento](https://www.tiktok.com/tag/emprendimiento?refer=embed "emprendimiento") [♬ A Sky Full of Stars – Coldplay](https://www.tiktok.com/music/A-Sky-Full-of-Stars-6705040738570225666?refer=embed "♬ A Sky Full of Stars - Coldplay")
+
+**Doctorado honoris causa**
+---------------------------
+
+En reconocimiento a su dedicación y a su papel como **guardián de una tradición ancestral**, Baltazar Ushca fue honrado con un **doctorado honoris causa por el Instituto Mexicano de Líderes de Excelencia**. Durante la ceremonia, **Ushca pronunció un emotivo discurso en kichwa**, su lengua materna, para agradecer el reconocimiento y destacar la importancia de preservar las tradiciones
+
+**Un ícono cultural** 
+----------------------
+
+Baltazar Ushca no solo fue un trabajador incansable, sino también un **ícono cultural**. Su historia ha sido documentada en varios medios y **ha sido objeto de documentales** que destacan su vida y su trabajo. En agosto de 2024, **Ushca fue invitado a Guayaquil para inaugurar el Mes de las Artes y Cultura**. Esto significó uno de los últimos reconocimientos a su contribución a la cultura ecuatoriana. 
+
+En su comunidad y en el Ecuador, Ushca siempre fue visto como un héroe. Su trabajo no solo significó una **fuente de orgullo**, sino también **una conexión con el pasado**. 
+
+La caída en las ventas de vehículos en Ecuador no tiene freno
+=============================================================
+
+Las comercialización de automotores disminuyen drásticamente. En septiembre, se reporta una caída del 23,3%.
+------------------------------------------------------------------------------------------------------------
+
+![Las ventas de vehículos en Ecuador caen un 19,1% hasta septiembre de 2024 Cortesía Freepik](https://www.elcomercio.com/wp-content/uploads/2024/05/Ventas-vehiculos-Ecuador.jpg)
+
+Las cifras del sector automotriz en **Ecuador** durante 2024 han revelado un panorama complejo.
+
+Según el **Servicio de Rentas Internas (SRI)**, entre enero y septiembre de este 2024 se vendieron 83 098 vehículos.
+
+Esa cantidad representa una caída del 19,1% en comparación con el mismo periodo del 2023, cuando se comercializaron 102 761 unidades.
+
+Este descenso es el más significativo desde 2020, cuando las ventas alcanzaron solo 54 922 unidades.
+
+### Más noticias
+
+* [Las ventas del Ecuador tienen un preocupante desempeño en la economía, vea las cifras](https://www.elcomercio.com/actualidad/negocios/las-ventas-del-ecuador-tienen-un-preocupante-desempeno-en-la-economia-vea-las-cifras.html "Las ventas del Ecuador tienen un preocupante desempeño en la economía, vea las cifras")
+* [Cortes de luz a la industria afectan la economía del país si no se toman medidas](https://www.elcomercio.com/opinion/editorial/cortes-industria-empujan-ecuador-recesion-economica-editorial.html "Cortes de luz a la industria afectan la economía del país si no se toman medidas")
+
+Ventas de vehículos nuevos en septiembre
+----------------------------------------
+
+En septiembre de 2024, el mercado automotriz ecuatoriano experimentó un decrecimiento notable. Se registraron 8 098 unidades vendidas, lo que equivale a una disminución del 23,3% en comparación con el mismo mes de 2023, según un informe de la **Asociación de Empresas Automotrices del Ecuador (Aeade).**
+
+Este comportamiento se ha visto reflejado principalmente en el segmento de vehículos livianos, que sufrió una caída interanual del 26,3%.
+
+Los datos sugieren que los consumidores están cada vez más reacios a realizar nuevas compras debido a factores económicos y sociales adversos.
+
+Segmentación de ventas: vehículos livianos y comerciales
+--------------------------------------------------------
+
+Entre enero y septiembre de 2024 se colocaron 71 827 vehículos livianos, desglosados de la siguiente manera: 16 727 automóviles, 39 294 SUVs y 15 806 camionetas.
+
+En contraste, las ventas de vehículos comerciales alcanzaron solo 11 271 unidades, lo que representa una contracción del 7% respecto al año anterior.
+
+Crecimiento en el segmento eléctrico
+------------------------------------
+
+A pesar del panorama desalentador para la mayoría de los segmentos, los vehículos eléctricos han mostrado un crecimiento notable.
+
+Durante este 2024 se comercializaron 1 316 vehículos eléctricos, lo que representa un aumento interanual del 14,7%.
+
+Motocicletas tienen más demanda
+-------------------------------
+
+Mientras que las ventas de automóviles han caído drásticamente, las motocicletas han mantenido una tendencia positiva.
+
+Entre enero y septiembre de 2024, se vendieron 161 747 motocicletas, lo que marca un crecimiento del 10% comparado con el mismo periodo del año anterior.
+
+Este aumento puede atribuirse a la creciente preferencia por opciones de transporte más económicas y eficientes.
+
+Desafíos para el sector automotriz
+----------------------------------
+
+Los desafíos que enfrenta el sector automotriz son múltiples y complejos, según de la Aeade.
+
+La alta carga tributaria es uno de los factores más significativos que impactan negativamente las decisiones de compra, agrega este gremio. Los consumidores deben afrontar hasta 23 impuestos al adquirir un vehículo nuevo, lo que encarece el precio final.
+
+Falleció Baltazar Ushca, el último hielero del Ecuador
+======================================================
+
+Este personaje emblemático de Ecuador murió a los 80 años. Tuvo un accidente en su hogar ubicado en Guano.
+----------------------------------------------------------------------------------------------------------
+
+![Baltazar Ushca, el último hielero del Chimborazo, falleció en Riobamba.](https://www.elcomercio.com/wp-content/uploads/2024/10/Baltazar-Ushca-1.jpg)
+
+**Baltazar Ushca** murió este viernes 11 de octubre de 2024. La información fue confirmada por el **Municipio de Guano** mediante su cuenta en Facebook.
+
+El 10 de octubre, **Ushca** sufrió un accidente en su hogar cuando un toro lo derribó en su propiedad, mientras realizaba tareas domésticas.
+
+**Ushca**, de 80 años, sufrió una lesión fuerte que requirió de atención médica de urgencia.
+
+Él fue llevado al hospital de **Guano** y por la gravedad fue trasladado al **Hospital de Solca, en Riobamba.** Allí, se confirmó fallecimiento.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/PHOTO-2024-10-11-09-27-40-1024x1024.jpg)
+
+El **Municipio de Guano** indicó la labor y el legado de **Ushca** perdurarán en la memoria colectiva de nuestra tierra y más allá.
+
+“Su dedicación y su historia han inspirado a generaciones, convirtiéndolo en un símbolo de resistencia, resilencia, cultura y amor por nuestras tradiciones”.
+
+El **Municipio de Guano** dio sus condolencias y un abrazo solidario a su familia. “Que Dios les brinde consuelo y fortaleza en estos momentos de inmenso dolor, y que encuentren paz en los recuerdos de un ser tan admirable”.
+
+### Más noticias
+
+* [Baltazar Ushca, el último hielero del Chimborazo, trasladado de urgencia al hospital](https://www.elcomercio.com/actualidad/ecuador/baltazar-ushca-ultimo-hielero-chimborazo-urgencia-hospital.html "Baltazar Ushca, el último hielero del Chimborazo, trasladado de urgencia al hospital")
+
+El sepelio del último hielero de Ecuador
+----------------------------------------
+
+El cuerpo de Ushca será velado este viernes 11 de octubre de 2024, en el **Salón de la Municipalidad** de Guano. Se tiene previsto que el velorio empiece pasadas las 12:00 y finalice pasadas las 18:00.
+
+Posteriormente, sus restos serán trasladados a la comunidad de **Pulinguí Santa Elena**.
+
+¿Quién fue Baltazar Ushca?
+--------------------------
+
+Baltazar Ushca Tenesaca, nació en 1944. Era conocido como el **último hielero del Chimborazo.**
+
+Desde los 15 años, ha cosechado hielo de los glaciares del volcán **Chimborazo**, una tradición que ha seguido a pesar de la disminución de su práctica debido a la modernización y el cambio climático.
+
+**Baltazar** caminaba hasta siete horas para recolectar hielo, que luego vendía en el Mercado de **La Merced en Riobamba.**
+
+Su labor ha sido reconocida con un doctorado honoris causa. Además, ha inspirado documentales sobre su vida y la **cultura indígena.**  
+
+Esto ocurre con las fallas en la web del Servicio de Rentas Internas
+====================================================================
+
+Los representantes del SRI publicaron un informe sobre las razones por las que no funciona su sitio web.
+--------------------------------------------------------------------------------------------------------
+
+![El sitio web del SRI no funciona este viernes 11 de octubre de 2024. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/07/adultos-mayores.jpg)
+
+El **Servicio de Rentas** Internas informó sobre la situación que se registra en su **sitio web**. Este viernes 11 de octubre de 2024, los usuarios reportaron que existen fallas en la conexión con el web de esta entidad **tributaria ecuatoriana**.
+
+El **SRI** emitió un **comunicado** sobre esta situación. “Les informamos que nuestros servicios se encuentran temporalmente indisponibles debido a un inconveniente técnico”.
+
+### Más noticias
+
+* [Así puede actualizar su formulario de gastos personales para el SRI](https://www.elcomercio.com/actualidad/negocios/asi-puede-actualizar-su-formulario-de-gastos-personales-para-el-sri.html "Así puede actualizar su formulario de gastos personales para el SRI")
+* [SRI incrementa controles a los equipos de fútbol](https://www.elcomercio.com/actualidad/servicio-rentas-internas-incrementa-controles-equipos-futbol.html "SRI incrementa controles a los equipos de fútbol")
+* [499 celulares, consolas de videojuegos y tabletas fueron incautados por el SRI](https://www.elcomercio.com/actualidad/negocios/sri-incauto-celulares-consoladas-videojuegos-tabletas.html "499 celulares, consolas de videojuegos y tabletas fueron incautados por el SRI")
+
+Los trabajos en la web del SRI
+------------------------------
+
+Los representantes del **Servicio de Rentas Internas** indicaron que están trabajando para restablecerlos lo más pronto posible.
+
+Aunque no informaron sobre el tiempo que demorará en restablecer el funcionamiento del sitio web, señalaron que espera que en el transcurso de la mañana de este **viernes 11 de octubre,** “los servicios se normalicen de manera paulatina”.
+
+¿Qué trámites se pueden realizar en la web del SRI?
+---------------------------------------------------
+
+En la página web del **Servicio de Rentas Internas (SRI)** de **Ecuador**, se pueden realizar diversos trámites en línea, facilitando el acceso a servicios tributarios.
+
+Los usuarios pueden inscribirse en el **Registro Único de Contribuyentes (RUC)** y actualizar datos personales y de contacto.
+
+Además, presentar anexos relacionados con retenciones y operaciones con partes relacionadas.
+
+También, es posible gestionar la generación de claves para acceder a servicios transaccionales y realizar consultas sobre el estado de trámites. 
+
+Para ciertos trámites se requiere un certificado digital de **firma electrónica.**
+
 Las muertes por el huracán Milton subieron en la Florida
 ========================================================
 
@@ -98,817 +944,4 @@ Las niñas enfrentan **desafíos únicos** **debido a su género y edad**. En mu
 
 A nivel global, se han implementado diversas **iniciativas para apoyar a las niñas**. La [Unesco](https://www.unesco.org/es/international-day-girl-child "https://www.unesco.org/es/international-day-girl-child"), por ejemplo, trabaja en **programas que promueven la educación inclusiva y equitativa**. A nivel local, muchas organizaciones promueven **eventos y campañas para sensibilizar sobre los derechos de las niñas** y fomentar su participación activa en la sociedad. Estas acciones son fundamentales para crear **un mundo más justo e igualitario para todas las niñas.** 
 
-No solo vale estar informados, sino también **inspirar a la acción para mejorar las condiciones de vida de las niñas en todo el mundo**. La educación y el empoderamiento son claves para un futuro mejor, y cada uno de nosotros puede contribuir a este cambio positivo. 
-
-Así funciona el Pico y placa en Quito este viernes 11 de octubre, en feriado
-============================================================================
-
-Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
-------------------------------------------------------------------------------------------------------------------
-
-![Los agentes metropolitanos vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-placa-Quito.jpg)
-
-El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
-
-Esta **medida excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
-
-### Más noticias
-
-* [¿Cuándo comienzan los trabajos de la Ecovía en la Plaza Argentina?](https://www.elcomercio.com/actualidad/quito/trabajos-ecovia-plaza-argentina-transito.html "¿Cuándo comienzan los trabajos de la Ecovía en la Plaza Argentina?")
-* [El teniente Dan desafió al huracán Milton y esto pasó](https://www.elcomercio.com/actualidad/mundo/teniente-dan-desafio-a-huracan-milton-y-esto-paso.html "El teniente Dan desafió al huracán Milton y esto pasó")
-* [Piloto muere en pleno vuelo y avión aterriza de emergencia](https://www.elcomercio.com/actualidad/mundo/piloto-muere-en-pleno-vuelo-y-avion-aterriza-de-emergencia.html "Piloto muere en pleno vuelo y avión aterriza de emergencia")
-
-Horarios de Pico y placa
-------------------------
-
-Esta medida se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
-
-Estos son los horarios de aplicación:
-
-* En la **mañana**: de 06:00 a 09:30
-* En la **tarde**: de 16:00 a 20:00
-
-El **Pico y placa** es una medida que ha sido implementada en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
-
-Multas por infringir el Pico y placa
-------------------------------------
-
-La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
-
-Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
-
-Recuerda retirar tu auto de las plazas de parqueo
--------------------------------------------------
-
-Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
-
-Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
-
-Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
-
-Este **viernes 11 de octubre de 2024 es feriado** y, por lo tanto, no se aplica la medida d**e Pico y placa** en la ciudad de Quito.
-
-> 🚙 [#PicoYPlacaUIO](https://twitter.com/hashtag/PicoYPlacaUIO?src=hash&ref_src=twsrc%5Etfw) | ¡Recuerda!  
->   
-> La restricción vehicular “Pico y Placa” no rige los fines de semana, ni feriados en Quito.  
->   
-> 🚘 Al conducir responsablemente [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/FwRwdjlcf2](https://t.co/FwRwdjlcf2)
-> 
-> — AMTQuito (@AMT\_Quito) [October 6, 2024](https://twitter.com/AMT_Quito/status/1842873027727413744?ref_src=twsrc%5Etfw)
-
-Inteligencia artificial (IA) y la industria 5.0
-===============================================
-
-Las organizaciones, tanto públicas y privadas, están en la procura de talento, de tecnología e innovación para impulsar su progreso.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
-
-La IA tiene que ver con **seres humanos, pu**es sin ellos no habría IA, lo que nos lleva a concluir que esto debe servirnos, pues de lo contrario no tiene **justificación**. De esta **transformación** nace lo que es la **industria** 5.0, también conocida como la **quinta revolución industrial** (5RI) que representa una era **colaborativa** entre los humanos, la tecnología avanzada y la **inteligencia artificial,** trabajando juntos para impulsar la **innovación y productividad**.
-
-Para entender su significado debemos comprender que cuando se da la 1.ª **revolución industrial**, este vino acompañado por **mecanización**, donde se necesitaba **habilidades artesanales**, h**abilidades agrícolas y una educación básica** para entender el **funcionamiento** de la **máquina** de vapor. La 2.ª **revolución industrial** ocurre cuando aparece la **electrificación**, donde ya se requieren **habilidades mecánicas**, **educación tecnológica** y comprensión básica de matemáticas.
-
-El siguiente paso, o sea la industria 3.0 nos conduce a la **automatización**, que implica **habilidades** de tipeo, (uso de máquina de escribir), ingeniería **manufacturera** para la **construcción** de las nuevas plantas **industriales**, su **automatización** que implica resolución de problemas. Más recientemente, en la última parte del siglo XX aparece la **industria** 4.0 que es la era de la **digitalización**, cuyos requerimientos son: capacidad de codificación y programación, **habilidades analíticas** que se dan con el **alfabetismo digital**.
-
-Esto nos conduce a lo que hoy estamos reconociendo como una **transformación** en la industria 5.0 que requiere la **colaboración** e interrelación **humana**– IA. Qué demanda adaptabilidad y capacidad de **resolución de problemas complejos**, acompañados de **innovación creativa.** Aquí aparece un nuevo factor que se llama la **capacidad disléxica.** Dónde es necesario la **alfabetización** en IA, mantenerse actualizado sobre los **múltiples ángulos** y avances de la IA, comprender su potencial impacto sobre nuestra **actividad productiva** y un seguimiento de evaluación crítica tanto sobre los beneficios como los riesgos que trae este **avance tecnológico** que nos permita entender cómo utilizar la IA en una **forma ética y eficaz** aumentando nuestras capacidades en lugar de reemplazarlas. Se menciona esto porque la gran mayoría rehúye entender el efecto que tiene la IA y solo le acusan de que va a eliminar millones de **puestos de trabajo**.
-
-Ciertamente, tiene ese **potencial** de aquellos que aún no entienden que hoy la **educación** es permanente y continua en la **vida humana** por su acelerada y vertiginosa **transformación** en cualquiera de las áreas de trabajo. Las **habilidades** necesarias van más allá de solo la **experiencia técnica**, incluyen un criterio analítico, la **adaptabilidad**, un **pensamiento creativo** y el **manejo apropiado** de la **inteligencia emocional** para aprovechar maximizando los beneficios de la IA y al mismo tiempo usar nuestra **inteligencia humana**. Debemos desarrollar nuevas **habilidades** permanentemente y adaptarnos a las demandas cambiantes y conocidos como las que vendrán de la industria 5.0
-
-En todas las regiones del mundo, las **organizaciones**, tanto **públicas** y **privadas,** están en la procura de talento, de **tecnología** e **innovación** para impulsar su progreso. Nunca ha sido más importante tener las personas adecuadas con las **habilidades** necesarias para los **trabajos** a ejecutarse y todo ellos requiere de la **inteligencia humana**; que son aquellas identificadas también como **habilidades** de **poder**, **habilidades interpersonales** o denominadas también **habilidades blandas**, que son las que se separan la **inteligencia humana** de la **inteligencia artificial** y son aquellas requeridas en este mundo aceleradamente cambiante.
-
-**Pascal Bornet,** **consultor** y **conferencista** sobre IA, señala que se debe redoblar los **esfuerzos** en las **habilidades** que realmente nos distinguen identificada como “**húmicos**” que son una creatividad genuina, **autenticidad social y pensamiento crítico**; también estar preparados mediante el desarrollo de **resiliencia** y adaptabilidad necesarias para prosperar en un mundo que evoluciona a un ritmo exponencial. Esto requiere un nuevo nivel de **agilidad mental** y apertura al **aprendizaje continuo.** A esto es lo que se refiere el desarrollo de las **capacidades disléxicas** dónde 1 en 5 los seres humanos la padecen en algún grado; pero para esta **industria** 5.0 parece que tendría una ventaja sobre el 80% de la **población** que tiene que aprender a pensar fuera del cajón.
-
-Cartas a Quito / 11 de octubre de 2024
-======================================
-
-Estas son las cartas a Quito de este viernes 11 de octubre de 2024
-------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Última oportunidad para la diplomacia: Apliquen ahora la Resolución 1701
-------------------------------------------------------------------------
-
-Israel se halla nuevamente bajo ataque. La organización terrorista Hezbolá intensificó su agresión contra Israel el 21 de septiembre, lanzando una serie de ataques dirigidos a centros poblacionales civiles en el interior de Israel, dejando a su paso la devastación. En los últimos días, Hezbolá amplió significativamente el alcance de sus ataques con cohetes, agregando otro medio millón de israelíes, a aquellos que ya estaban en peligro por ataques previos.
-
-El conflicto actual, iniciado por Hezbolá, comenzó el 8 de octubre, sin provocación alguna por parte de Israel, con frecuentes ataques lanzados desde el sur del Líbano, territorio del cual Israel se retiró totalmente en el 2000. El ataque del domingo se dio tras 11 meses de lanzamiento de cohetes, que se han cobrado la vida de decenas de israelíes, entre ellos, 12 niños inocentes asesinados durante un partido de fútbol. Estos ataques han convertido a las regiones de la frontera norte de Israel en una zona de muerte, desplazando a unos 70.000 israelíes de sus hogares, y creando una crisis humanitaria y de seguridad que no puede ser ignorada.
-
-El 20 de septiembre, las Fuerzas de Defensa de Israel atacaron a los altos mandos de Hezbolá que se hallaban en un encuentro de alto nivel, en el cual estaban planeando un atentado a gran escala contra comunidades israelíes, que sería un reflejo de la horrenda masacre del 7 de octubre. Israel actuó a fin de impedir este ataque y proteger a sus ciudadanos de una amenaza inminente.
-
-Ante la embestida de Hezbolá, Israel está haciendo lo que haría cualquier nación soberana: defender la seguridad de todos sus ciudadanos, judíos y árabes por igual. Todo Estado tiene el deber de proteger a su pueblo de ataques originados por enemigos, más allá de las fronteras. Israel está cumpliendo su obligación en el marco del derecho internacional y continuará haciendo todo lo necesario, a fin de garantizar que sus ciudadanos puedan retornar con seguridad a sus hogares.
-
-La comunidad internacional es cada vez más consciente, del papel desestabilizador de Hezbolá en la región. Calificada como organización terrorista por numerosos países, entre ellos, Estados Unidos, Estados miembro de la Liga Árabe, Alemania, Australia y el Reino Unido. Hezbolá tomó parte activa en las masacres cometidas por el régimen sirio y es un factor central del caos en la región. A fin de restablecer efectivamente la estabilidad en el Oriente Medio, resulta fundamental que la comunidad global se una para reconocer oficialmente a Hezbolá como una organización terrorista.    
-
-Pero no se detiene ahí. La implacable ofensiva de Hezbolá es impulsada por Irán, el mayor Estado patrocinador del terrorismo. Las huellas de Irán pueden ser encontradas no solo en Hezbolá, sino en Hamás, los Hutíes, y en una red de milicias chiítas en todo el Oriente Medio, particularmente, en Siria e Irak. Los proxys de Irán están trabajando activamente a fin de expandir la violencia y el caos. El régimen iraní lleva mucho tiempo tratando de desestabilizar la región, imponiendo su ideología radical a través de la violencia para remodelar el Oriente Medio.
-
-No obstante, las ambiciones de Irán van más allá. Su influencia se extiende a Europa, África y América. Amenaza la seguridad mundial, incluida la provisión de drones y misiles para atacar a Ucrania, ya que apoya los esfuerzos que socavan la paz y la estabilidad en todo el mundo.
-
-Si el mundo realmente quiere poner fin a la violencia y restablecer la estabilidad, habrá de actuar con decisión. En primer lugar, la comunidad mundial debe aumentar las sanciones a Irán, atacar las redes financieras, militares y terroristas del régimen de los Ayatolás. Específicamente, el mundo debe designar oficialmente al Cuerpo de la Guardia Revolucionaria Iraní como una organización terrorista. La Guardia Revolucionaria iraní es el centro neurálgico de las operaciones terroristas mundiales de Irán. Sancionando y aislando a esta entidad, la comunidad internacional puede paralizar su capacidad para financiar y dirigir grupos como Hezbolá. Sin este paso vital, Irán continuará eludiendo la rendición de cuentas, lo que le permitirá perseguir sus objetivos desestabilizadores sin control.
-
-La comunidad internacional debe actuar con rapidez y decisión, a fin de evitar la proliferación del terrorismo iraní, antes de que las consecuencias lleguen más allá del Oriente Medio. Los hechos son claros-el único interrogante es si el mundo responderá antes de que sea demasiado tarde.
-
-Además, el Consejo de Seguridad de la ONU debería aplicar finalmente la Resolución 1701, que ordena la retirada de las fuerzas de Hezbolá en Líbano hasta el norte el río Litani. Esta resolución se aprobó para poner coto al dominio de Hezbolá en el sur libanés e impedir sus ataques contra Israel, pero Hezbolá sigue operando libremente en esa área, con pleno apoyo de Irán.
-
-Hay que afrontar el dominio de Hezbolá en el Líbano, su ocupación del sur del país, su reinado de terrorismo contra civiles israelíes y el apoyo implacable de Irán a esta organización terrorista y a sus malévolas actividades. Israel se encuentra a la vanguardia de esta batalla, defendiendo no solamente a sus ciudadanos, sino también la seguridad y los valores del mundo libre.
-
-La amenaza que reflejan Irán y Hezbolá es innegable. El momento de actuar es ahora. Aquellos que están realmente comprometidos con la paz y estabilidad de la región, deben presionar a fin de que se aplique de inmediato la Resolución 1701 del Consejo de Seguridad. Esta es la única manera de detener una guerra total.
-
-**_Tzach Sarid, Embajador de Israel_**
-
-Existen iniciativas en Quito que se pueden emular
-=================================================
-
-El fondo de Quito para incendios forestales es un modelo de solidaridad y apoyo a las comunidades afectadas por desastres naturales.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![El fondo metropolitano ayuda a familias afectadas por incendios forestales con kits humanitarios esenciales para su recuperación.](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendios-forestales-en-Quito.jpg)
-
-La creación de un fondo específico para los afectados por incendios forestales en Quito representa un avance significativo en la gestión de emergencias en Ecuador. Hasta septiembre de este año, s**e han destinado 100 000 dólares** a ayudar a las familias que sufrieron pérdidas debido a estos desastres. Este fondo no solo es un mecanismo de respuesta inmediata, sino que también establece un precedente en la forma en que las ciudades pueden abordar situaciones críticas. En un país donde los desastres naturales son una realidad constante, la existencia de este fondo es una herramienta vital para la recuperación y el bienestar de las comunidades.
-
-El **Fondo Metropolitano para la Gestión de Riesgos y Atención de Emergencias**, administrado por la Empresa Pública Metropolitana de Logística para la Seguridad y la Convivencia Ciudadana (EP Emseguridad), ha permitido la entrega de kits humanitarios que incluyen alimentos no perecibles, ropa, frazadas y artículos de limpieza. 
-
-> Esta ayuda es crucial para las familias que han perdido sus hogares o que se encuentran en situaciones vulnerables tras los incendios. La capacidad del fondo para movilizar recursos rápidamente demuestra una respuesta efectiva ante emergencias, algo que debería ser modelo para otras ciudades del país.
-
-Los kits humanitarios entregados son solo el primer paso en el proceso de recuperación. En una segunda fase, se llevará a cabo una evaluación socioeconómica para entender mejor las necesidades de las familias afectadas. Esto no solo permitirá una distribución más efectiva de los recursos, sino que también ayudará a diseñar programas a largo plazo que aborden las causas subyacentes de la vulnerabilidad. La evaluación socioeconómica es esencial para asegurar que el apoyo sea sostenible y adaptado a las realidades específicas de cada comunidad.
-
-**Quito se ha posicionado como la única ciudad en Ecuador** con un fondo específico para emergencias, lo que resalta su compromiso con la gestión responsable del riesgo. Este modelo debe ser replicado en otras ciudades del país, donde las comunidades también enfrentan riesgos significativos debido a incendios forestales y otros desastres naturales. La implementación de fondos similares podría mejorar significativamente la capacidad de respuesta ante emergencias en todo Ecuador.
-
-El f**ondo a favor de los afectados por incendios forestales en Quito** no solo representa un modelo efectivo de respuesta ante emergencias, sino que también subraya la importancia de la solidaridad comunitaria y la prevención. A medida que avanzamos hacia un futuro incierto marcado por el cambio climático, es vital que Quito continúe fortaleciendo este tipo de iniciativas y se extiendan en todo el país. Solo así podremos asegurar un entorno más seguro y resiliente para todos sus habitantes.
-
-Descalabro y desconcierto
-=========================
-
-Los problemas sociales no han sido atacados de una manera responsable, planificada, con asignación de los recursos necesarios.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Rodrigo Albuja Chaves, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/05/Rodrigo-Albuja-Chaves.jpg)
-
-Muchos **acontecimientos** ocurridos en el presente año han desgastado las **condiciones de bienestar**, de las que disfrutaba una **élite privilegiada**, y han profundizado el malestar de una gran mayoría de **ecuatorianos**. El inicio de un **gobierno** que daría paso a un nuevo período, luego de la **muerte cruzada**, apareció con muchas ínfulas de ser la **solución** inmediata a los **problemas** acuciantes. En poco tiempo el país descubrió su falta de **compromiso social**, la **improvisación**, la **incompetencia**. Aparecieron señales de la utilización del  **aparato estatal** \-el poder- para beneficiar a grupos que no son parte de quienes carecen de condiciones adecuadas de vida.
-
-Los **problemas sociales** no han sido atacados de una manera responsable, planificada, con asignación de los **recursos necesarios**. El acto de **gobernar** se ha convertido en una telaraña de **medidas** sin coherencia, sin norte, o cautelosamente ensombrecidas por **objetivos deleznables**. Como resultado, la c**risis económica** se ha agravado, la **inseguridad** y el **crimen** se han intensificado, la **corrupción** campea por todas partes, hay más **desempleo**, no hay **protección social**. Lo más grave es que frente a este escenario doloroso se impone la **impunidad**, el **irrespeto** a la ley, el impudor para presentar **falsedades** en la **rendición de cuentas**.
-
-Las consecuencias de la **crisis energética** son el más vivo ejemplo de la **degradación** de la **calidad de vida** en el país. No es solo la falta de energía y los perjuicios para el **sector productivo** y para todas las actividades de la **vida familiar** y laboral. Es la carencia de la necesaria capacidad para planificar soluciones con equidad, para informar a la **población** con anticipación y claridad, y para preparar la forma de enfrentar los cambios e imprevistos en la capacidad de **generación de energía.** El sector productivo -y todas las **actividades económicas**– requieren prever sus necesidades y sus **actividades** a ejecutar en los períodos de **disponibilidad de energía**. Pero eso no perturba la **impavidez** de quienes tienen a su cargo remediar la situación. Al contrario, con oídos sordos infringen un serio **irrespeto** a la **ciudadanía** al **modificar** sin **anticipación** los **horarios de interrupción del fluido eléctrico**.
-
-La situación del país es un  verdadero descalabro y estamos viviendo un desconcierto social y una resignación ante la avalancha de tragedias, escándalos políticos, conflictos entre los poderes del Estado, persecuciones, sicariatos, narcotráfico, degradación de la actividad política.
-
-El descalabro aparece peligrosamente en la sociedad como resultado del mal manejo de la crisis económica y social, de la insatisfacción con las políticas gubernamentales, el desempleo, las injusticias sociales, la brecha económica cada vez mayor entre diferentes sectores de la población. La división extrema en opiniones políticas dificulta el diálogo y la cooperación entre grupos;  la falta de transparencia y la percepción de que las instituciones no representan al pueblo  erosionan la cohesión social.
-
-El desconcierto de la sociedad ecuatoriana es el fruto del descalabro imperante, que puede derivar en problemas que afecten su estabilidad y bienestar: las  tensiones y divisiones entre grupos, que aumentan los conflictos sociales debido a la  falta  de consenso sobre valores y objetivos para el bien común; la incertidumbre y la falta de propósito, que pueden contribuir al agravamiento de  los problemas de salud mental, como la ansiedad y la depresión; la falta de adecuada conducción del país, que ha  desembocado en  la apatía general, ha producido  ciudadanos desmotivados para participar en actividades comunitarias o políticas, y para desempeñar un papel activo en la definición de sus intereses, aspiraciones y estilos de vida.
-
-Para que estos descalabros no tengan  efectos duraderos en la sociedad ecuatoriana se requiere un esfuerzo concertado para abordarlos y restaurar la cohesión social.
-
-Fiscalía de Bolivia emitirá orden de detención para Evo Morales
-===============================================================
-
-Evo Morales y otros acusados de una presunta trata de personas no declararon cuando debían.
--------------------------------------------------------------------------------------------
-
-![Evo Morales gobernó Bolivia entre 2006 y 2019](https://www.elcomercio.com/wp-content/uploads/2024/10/evo-morales.jpg)
-
-La fiscal boliviana Sandra Gutiérrez anunció que se emitirá una orden de detención contra el expresidente **Evo Morales** para que declare ante Fiscalía dentro de la investigación que se le sigue por una presunta trata de personas y estupro.
-
-Esta **notificación** se difundió este jueves 10 de octubre de 2024.
-
-### Más noticias
-
-* [El huracán Milton deja 10 fallecidos y destrucción a su paso por Florida](https://www.elcomercio.com/actualidad/mundo/huracan-milton-deja-12-fallecidos-destruccion-paso-florida.html "El huracán Milton deja 10 fallecidos y destrucción a su paso por Florida")
-* [Milton mantiene la amenaza de marejada ciclónica en la costa sureste de EE.UU.](https://www.elcomercio.com/actualidad/mundo/milton-mantiene-amenaza-marejada-ciclonica-costa-sureste-ee-uu.html "Milton mantiene la amenaza de marejada ciclónica en la costa sureste de EE.UU.")
-* [Disney World en Orlando y las secuelas del huracán Milton](https://www.elcomercio.com/actualidad/mundo/walt-disney-world-resort-en-orlando-secuelas-huracan-milton.html "Disney World en Orlando y las secuelas del huracán Milton")
-
-“Lo que corresponde es sacar el mandamiento de aprehensión, ya que **Morales** y los otros investigados fueron notificados debidamente sin ninguna vulneración de ninguno de sus derechos”, señaló Gutiérrez.
-
-Según la denuncia que tiene en su poder la Fiscalía boliviana, Morales habría cometido los delitos de **trata de personas y estupro** con una menor de edad con la que supuestamente tuvo un hijo.
-
-La víctima presuntamente pertenecía a un grupo juvenil creado por el exmandatario durante su Presidencia, llamado ‘Generación Evo’.
-
-Evo Morales no se presentó a declarar
--------------------------------------
-
-Morales estaba citado a declarar este jueves en Tarija, pero su defensa presentó una escusa para no asistir, alegando que existe una sentencia constitucional que ordena que el caso se trate en la región central de Cochabamba, donde vive el exmandatario.
-
-Gutiérrez señaló que, además del expresidente, fueron llamadas a declarar otras dos personas que también están investigadas en este caso y que tampoco se presentaron.
-
-“Para los tres va a ser la misma situación legal, ya que ellos no han justificado su incomparecencia”, indicó.
-
-Gutiérrez sostuvo que “**no se está vulnerando ningún derecho**“, como han asegurado Morales y sus abogados defensores, y afirmó que “todo se está haciendo de manera transparente y apegados a la norma legal”.
-
-El exmandatario boliviano, que está distanciado del Gobierno del presidente **Luis Arce**, manifestó que se defenderá de esa “batalla jurídica”, que para él es una “persecución política”.
-
-Xavier Jordán tomó acciones por impedimento para renovar su pasaporte
-=====================================================================
-
-Xavier Jordán está prófugo de la justicia y su juicio está suspendido, en el caso Metástasis. Ecuador le impidió renovar su pasaporte.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Xavier Jordán tomó acciones legales por impedimento para renovar su pasaporte.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-22-1.jpg)
-
-**Xavier Jordán**, prófugo de la justicia y procesado en el **caso Metástasis** por el delito de delincuencia organizada, tomó acciones legales por impedimento para renovar su pasaporte.
-
-Su **pasaporte** caduca en **dos meses** y el consulado de **Ecuador** en **Miami** se negó a **renovarle** el documento.
-
-### Más noticias:
-
-* [Caso Metástasis, juez Manuel Cabrera toma una resolución contra 37 procesados](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-juez-manuel-cabrera-tomo-una-decision-contra-37-procesados.html "Caso Metástasis, juez Manuel Cabrera toma una resolución contra 37 procesados")
-* [Fiscalía ratifica a sus acusados en el caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-juez-manuel-cabrera-tomo-resolucion.html "Fiscalía ratifica a sus acusados en el caso Metástasis")
-
-Xavier Jordán consultó a la **Cancillería** la razón del impedimento y la respuesta fue que la Ley de Movilidad Humana prohíbe entregar pasaporte a los **prófugos** de la **justicia**.
-
-Jordán tiene orden de prisión preventiva en Ecuador.
-
-Acciones de Xavier Jordán por el impedimento para renovar su pasaporte
-----------------------------------------------------------------------
-
-Los abogados de Xavier Jordan presentaron una acción de protección en **Samborondón**, Guayas.
-
-El argumento de la defensa de Jordán fue que, sin pasaporte, estará impedido de viajar y eso viola **su derecho a tener una vida digna en el extranjero**.
-
-Jordán, buscado por la **Interpol** con alerta roja, señala que no es prófugo, pues viajó a **Estados Unidos** por **razones familiares**.
-
-Agregó que tiene cita marzo de 2027 para resolver su situación migratoria ante el **Departamento de Justicia de Estados Unidos**.
-
-El **juez Juan Purgarín**, a cargo de la acción de protección, ordenó que se justifique por qué presenta el recurso en Samborondón, cuando la ley dispone que sea donde existe la supuesta afectación a los derechos.
-
-Xavier Jordán en el caso Metástasis
------------------------------------
-
-Según Fiscalía, Jordán es uno de los cuatro autores del delito de delincuencia organizada, en el caso Metástasis.
-
-Este caso investiga una red de corrupción al servicio de **Leandro Norero (+)**.
-
- **Jordán fue llamado a juicio por delincuencia organizada, en el caso Metástasis,** el 7 de octubre de 2024.
-
-Al estar prófugo, el juez Manuel Cabrera decidió suspender la fase de juicio.
-
-Esto, porque el delito de delincuencia organizada no se puede juzgar en **ausencia**.
-
-La pinta de Guayaquil se ‘tripea’ en Quito
-==========================================
-
-Guayaquil, que celebró 204 años de independencia, tiene su huella en Quito.
----------------------------------------------------------------------------
-
-![En Quito tiene una huella de Guayaquil en sus calles.](https://www.elcomercio.com/wp-content/uploads/2024/10/Huela-de-Guayaquil-en-Quito.jpg)
-
-Ecuador atraviesa un feriado por la independencia de **Guayaquil**, y **Quito** cuenta con varias calles que muestran la importancia del puerto principal en Ecuador[.](https://es.wikipedia.org/wiki/Independencia_de_Guayaquil#:~:text=La%20independencia%20de%20Guayaquil%20fue,de%20Guayaquil%20como%20estado%20independiente. "https://es.wikipedia.org/wiki/Independencia_de_Guayaquil#:~:text=La%20independencia%20de%20Guayaquil%20fue,de%20Guayaquil%20como%20estado%20independiente.")
-
-Más noticias
-------------
-
-* [Conoce el estado de las vías en Ecuador para el feriado](https://www.elcomercio.com/actualidad/ecuador/conoce-el-estado-de-las-vias-en-ecuador-para-el-feriado.html "Conoce el estado de las vías en Ecuador para el feriado")
-* [Una guía para disfrutar de la compañía de tu animal de compañía en este feriado](https://www.elcomercio.com/narices-frias/animales-compania-feriado-guia-viajes.html "Una guía para disfrutar de la compañía de tu animal de compañía en este feriado")
-* [Sector turístico espera reactivación durante el feriado](https://www.elcomercio.com/actualidad/ecuador/viajeros-turismo-guayaquil-feriado-ecuador.html "Sector turístico espera reactivación durante el feriado")
-
-Esta fecha es especial, ya que el 9 de octubre de 1820, **Guayaquil** se levantó en armas, liderado por **Olmedo** y otros patriotas que lograron liberar a la ciudad de la **presencia española.**
-
-Este hecho marcó el inicio de la independencia de **Guayaquil** e inspiró a otras regiones a seguir su ejemplo.
-
-Huellas de Guayaquil en Quito
------------------------------
-
-El historiador quiteño Héctor López señala que Quito tiene calles como **Guayaquil**, **Olmedo** y **Rocafuerte**, en pleno **Centro** **Histórico** de la capital.
-
-Destaca el hecho de que una de las principales calles que permiten el ingreso al **Centro** **Histórico** se llame **Guayaquil**. Es el ejemplo de la importancia histórica de esta ciudad en el **Ecuador**.
-
-Aunque en **Quito** no hay un monumento plenamente emblemático de **Guayaquil**, sí existe una estatua del expresidente del Ecuador **Vicente** **Rocafuerte**, uno de los propulsores de la **independencia** **hispanoamericana**, quien nació el 1 de mayo de 1783 en **Guayaquil**.
-
-Su monumento está ubicado en la Plaza de los **Presidentes**, en la avenida **Mariscal** **Sucre**, en el norte de **Quito**.
-
-Los sabores de Guayaquil en Quito
----------------------------------
-
-La comida de **Guayaquil** también forma parte de la gastronomía presente en **Quito**, con platos como el **cangrejo**, los **ceviches** y los **encebollados**.
-
-Estos sabores de **Guayaquil** permiten disfrutar de una experiencia costeña sin salir de la capital.
-
-Ya sea para un desayuno con **bolón** o un encebollado **reparador**, **Quito** ofrece varias opciones para satisfacer el antojo de comida **guayaquileña**, brindando una experiencia culinaria completa sin salir de la Sierra.
-
-Para quienes extrañan los sabores de **Guayaquil** o desean explorar la rica gastronomía de esta ciudad, **Quito** ofrece diversas alternativas que traen la sazón costeña a la capital.
-
-Desde el tradicional **encebollado** hasta platos icónicos como la **guatita** y el **ceviche**, estos restaurantes se han ganado un lugar entre los quiteños y visitantes.
-
-A continuación, te presentamos seis lugares imperdibles para degustar comida guayaquileña en la capital, que según varios portales de gastronomía y redes sociales, tienen la verdadera sazón Guayaquileña.
-
-Esta es la huella gastronómica de Guayaquil en Quito
-----------------------------------------------------
-
-1. **La Guatita Guayaca**
-
-En la Av. Gaspar de Villarroel y Av. Shyris, en el norte de **Quito**, este restaurante se destaca por su especialidad: la **guatita**.
-
-Este plato emblemático combina estómago de res en salsa de maní con arroz, plátano y huevo. También ofrecen **encebollado** y seco de **chivo**, transportando a sus comensales directamente a **Guayaquil** con cada bocado. Es una parada obligatoria para quienes buscan autenticidad.
-
-2. **Encebollado Don Willy**
-
-Ubicado en la Av. América y Colón, en el sector La Mariscal, este lugar ha ganado fama por su **encebollado**, considerado uno de los mejores de la ciudad.
-
-Además de este popular plato, el menú incluye arroz con menestra, carne asada y ceviches al estilo guayaquileño. La frescura y el sabor son los protagonistas de esta propuesta costeña.
-
-3. **La Canoa**
-
-Originalmente, un referente en **Guayaquil**, La Canoa ha conquistado también paladares en **Quito**. En su sucursal en la Av. República de El Salvador y Av. Portugal, cerca del parque **La Carolina**, ofrece un ambiente acogedor y un menú con seco de pato, encebollado y ceviche mixto.
-
-Es ideal para quienes buscan un toque de **tradición** **costeña** con un servicio de primera.
-
-4. **Café de Tere**
-
-En la Av. de los Shyris y Av. Naciones Unidas, este local es perfecto para disfrutar de un **desayuno** **guayaquileño** con **bolones**, **bollos** y **muchines**. Su ambiente es sencillo y familiar, pero el sabor es inigualable. Ya sea para una opción rápida o un almuerzo ligero, Café de Tere ofrece un rincón de **Guayaquil** en pleno centro de la ciudad.
-
-5. **Costa Sierra**
-
-Situado en la Av. Amazonas y Gaspar de Villarroel, este restaurante fusiona sabores costeños y serranos. Entre sus platos destacados están la **cazuela de mariscos**, el arroz marinero y el encebollado. Su menú es perfecto para quienes buscan una experiencia gastronómica que combine lo mejor de ambas regiones del Ecuador.
-
-6. **El Encebollado de Alex**
-
-Localizado en la Av. 10 de Agosto y Mariana de Jesús, este sitio ha captado la atención de los fanáticos del **encebollado**.
-
-Además de su especialidad, ofrece **ceviche** y arroz con **camarones**, siempre preparados con los mejores ingredientes.
-
-El local es sencillo, pero su comida recibe elogios constantes de quienes buscan autenticidad y sabor costeño en la capital.
-
-La huella de Guayaquil en Quito
--------------------------------
-
-Con toda esta oferta y la huella guayaca, la pinta de Guayaquil se ‘tripea’ en Quito. En la jerga guayaca, ‘tripea’ describe la acción de disfrutar, pasarlo bien o experimentar algo de manera intensa o emocionante. Es una palabra muy común entre los jóvenes y es usada en contextos informales.
-
-Baltazar Ushca, el último hielero del Chimborazo, trasladado de urgencia al hospital
-====================================================================================
-
-Baltazar Uscha, el último hielero del Chimborazo, es un ícono del turismo y la cultura de los Andes ecuatorianos.
------------------------------------------------------------------------------------------------------------------
-
-![Baltazar Ushca, el último hielero del Chimborazo, fue hospitalizado de urgencia.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-25.jpg)
-
-Baltazar Ushca, el último hielero del Chimborazo, fue trasladado de urgencia al hospital este jueves 10 de octubre de 2024.
-
-El Municipio de Guano informó sobre el estado de salud de Ushca, de 80 años.
-
-### Más noticias:
-
-* [(Video) Carrera de coches de madera deja heridos en Chimborazo](https://www.elcomercio.com/actualidad/ecuador/carrera-coches-de-madera-heridos-pallatanga-chimborazo.html "(Video) Carrera de coches de madera deja heridos en Chimborazo")
-* [Mujer irá a juicio por muerte de un ciclista, en Riobamba](https://www.elcomercio.com/actualidad/mujer-juicio-ciclista-riobamba.html "Mujer irá a juicio por muerte de un ciclista, en Riobamba")
-
-Hospitalización de Baltazar Ushca, el último hielero del Chimborazo
--------------------------------------------------------------------
-
-Con un posteo en redes sociales que titula “Unidos en oración por la salud de Baltazar”, el Municpio de Guano informó sobre el estado de salud del último hielero del Chimborazo.
-
-El Municipio informó que, a pesar de trabajar en el Museo de la Ciudad de Guaya, Ushca cumplía actividades o responsabilidades familiares en casa.
-
-Esto, “sin sentir jamás el cansancio a pesar de sus 80 años de edad”.
-
-“Lastimosamente, en ese trajín uno de sus animalitos (toro) superó en fuerzas y lo tiró al piso”, relató el Municipio.
-
-La caída causó una fuerte lesión en Baltazar Ushca y fue atendido por médicos a nivel local.
-
-Sin embargo, este jueves fue **trasladado de urgencia** al Hospital Solca, en la ciudad de Riobamba.
-
-“Oremos por su pronta recuperación para que siga siendo el ícono viviente del turismo de Guano, la provincia de Chimborazo y el Ecuador”, finalizó el comunicado.
-
-> [#EcuadorUnidoEnOracion](https://twitter.com/hashtag/EcuadorUnidoEnOracion?src=hash&ref_src=twsrc%5Etfw)  
-> POR LA SALUD DE BALTAZAR “último hielero del Chimborazo” a pesar de trabajar en el GAD Municipal Guano (Museo de la ciudad) cumplía actividades familiares en casa, sin sentir jamás el cansancio a pesar de sus 80 años de edad.  
-> ¡Estamos contigo Baltazar! [pic.twitter.com/DkWVRbeLIX](https://t.co/DkWVRbeLIX)
-> 
-> — GADM-C GUANO (@gadguano) [October 10, 2024](https://twitter.com/gadguano/status/1844398916156207180?ref_src=twsrc%5Etfw)
-
-La Selección de Ecuador descendió al quinto puesto en la tabla
-==============================================================
-
-La Selección de Ecuador cerró la primera etapa de las eliminatorias al Mundial 2026 en zona de clasificación directa.
----------------------------------------------------------------------------------------------------------------------
-
-![Hernán Galíndez toma el balón en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/ec_pa_2.jpg)
-
-La **Selección de Ecuador** se mantiene en zona de clasificación directa al Mundial 2026. En las nueve primeras fechas alcanzó 12 puntos y conserva intactas sus opciones de clasificación.
-
-La tarde de este jueves 10 de octubre de 2024, la Selección de **Ecuador empató 0-0 con la de Paraguay** en el estadio Rodrigo Paz Delgado, que soportó una ligera lluvia en los primeros minutos del primer tiempo.
-
-### Más noticias:
-
-* [La decisión de Rafael Nadal que impacta a sus seguidores](https://www.elcomercio.com/deportes/futbol/rafael-nadal-retiro-tenis-leyenda.html "La decisión de Rafael Nadal que impacta a sus seguidores")
-* [La Selección de Ecuador domina a Paraguay en Quito](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-domina-a-paraguay-en-quito.html "La Selección de Ecuador domina a Paraguay en Quito")
-* [EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp](https://www.elcomercio.com/deportes/ecuador-paraguay-en-vivo-whatsapp-comercio.html "EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp")
-
-Con este resultado **Ecuador descendió al quinto puesto.** La victoria de Brasil 1-2 contra Chile en Santiago, desplazó a los ecuatorianos al quinto lugar, y su lugar lo tomaron los brasileños que llegaron a 13 unidades.
-
-La Tri aún se mantiene en zona de clasificación directa, **puesto que los seis primeros obtendrán su boleto sin escalas**, mientras que el séptimo tiene que jugar un repechaje.
-
-Los 12 puntos de Ecuador se lograron con cuatro triunfos: Uruguay, Bolivia, Chile y Perú; dos empates: Colombia y Venezuela; y dos derrotas: **Argentina y Brasil cuando los visitó en Buenos Aires y Curitiba**, respectivamente.
-
-Paraguay sumó su tercer **encuentro como entrenador de Paraguay**. Con el empate en Quito alcanzó los 10 puntos y bajó a la octava posición.
-
-Bolivia se confirmó como sorpresa
----------------------------------
-
-La Selección de Bolivia, **dirigida técnicamente por Óscar Villegas**, sigue viviendo un idilio con los buenos resultados al ganar su tercer partido en forma consecutiva.
-
-Este jueves derrotó **1-0 a Colombia en los 4 800 metros sobre el nivel del mar** en los que está ubicado el estadio Municipal de El Alto, la nueva casa de los bolivianos que le están sacando el máximo de la ventaja geográfica.
-
-El tanto de la ‘Verde’ fue obra de Miguel Terceros a los 58 minutos de juego. Con ese tanto escaló al sexto puesto con 12 puntos
-
-Los locales jugaron con un jugador menos desde los **20 minutos por la expulsión de Héctor Cuéllar**, que cometió una fuerte falta cerca de la mitad de la cancha en contra de Roger Martínez, jugador del Racing Club de Argentina.
-
-En la octava jornada, **Bolivia logró un histórico triunfo de 1-2 en su visita a Chile** con goles del propio Terceros y Carmelo Algarañaz.
-
-En la séptima se estrenó en **El Alto y lo hizo con una goleada de 4-0 contra Venezuela**: Ramiro Vaca, Algarañaz, Terceros y Enzo Monteiro fueron los goleadores en esa histórica tarde para el fútbol boliviano.
-
-Tabla de posiciones:
---------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/ELIMINATORIAS-TABLA-POSICIONES-4-819x1024.jpg)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Gustavo Alfaro acoge como ‘triunfo’ el cariño recibido en Ecuador
-=================================================================
-
-Gustavo Alfaro dirigió a la Selección de Ecuador en el Mundial Catar 2022. Quedó eliminado en la fase de grupos.
-----------------------------------------------------------------------------------------------------------------
-
-![Gustavo Alfaro como entrenador de Paraguay en el Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/10/alfaro_resultado_1.jpg)
-
-El seleccionador de Paraguay, el argentino Gustavo Alfaro, afirmó que, pese a haber empatado 0-0 ante Ecuador, **se va con la sensación de uno de los triunfos más hermosos** de su carrera por el cariño recibido en Quito, donde condujo a la selección ecuatoriana a jugar el Mundial de Catar 2022.
-
-“Lo que viví en ese banco de visitante **debe de ser de los triunfos más lindos que me llevo de mi carrera**“, dijo Gustavo Alfaro en la rueda de prensa posterior al partido de la novena fecha de las eliminatorias sudamericanas del Mundial de 2026, celebrado este jueves 10 de octubre de 2024.
-
-### Más noticias:
-
-* [Selección de Ecuador mostró su afecto y cariño a Gustavo Alfaro](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-mostro-su-afecto-y-carino-a-gustavo-alfaro.html "Selección de Ecuador mostró su afecto y cariño a Gustavo Alfaro")
-* [La Selección de Ecuador empató 0-0 con Paraguay por eliminatorias](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-paraguay-resultado-eliminatorias.html "La Selección de Ecuador empató 0-0 con Paraguay por eliminatorias")
-* [La Selección de Ecuador conserva el cuarto puesto de eliminatorias](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador conserva el cuarto puesto de eliminatorias")
-
-“Para mí los triunfos están en esas cosas, muchas veces nos desesperamos por ganar un partido, **pero hay cosas que quedan mucho más allá** y que van mucho más allá. Otra de las cosas que también me llevo para mi vida entera”, añadió.
-
-Alfaro reconoció que los sentimientos que ha vivido en este regreso a Ecuador como rival de la Tri fueron “muy fuertes”.
-
-“Fue muy emocionante cuando **vinieron todos los muchachos (de Ecuador) a abrazarme**“, añadió el argentino, quien sostuvo que con esos jugadores se sentía que cualquiera cosa era posible.
-
-“Podíamos lograr lo que nos propusiéramos porque teníamos una relación tan cercana… nos involucramos en la vida de ellos y estábamos en un montón de cosas”, agregó.
-
-El valor del empate se verá a futuro
-------------------------------------
-
-Sobre el partido, Alfaro señaló que el punto **toca hacerlo bueno en el siguiente encuentro ante Venezuela**, del que advirtió su dificultad tras haber empatado 1-1 este jueves frente a Argentina.
-
-El técnico de la Albirroja consideró que la **selección ‘guaraní’ está obligada a puntuar de visitante** para compensar los puntos que perdió de local en las primeras fechas de las eliminatorias.
-
-Confió en lograr los tres puntos ante Venezuela de local igual que en septiembre consiguieron hacer con Brasil después de haber empatado ante Uruguay de visitante.
-
-“Los puntos que se **pierden en condición de local hay que ir a sacarlos afuera**. Hay que ir a conseguirlos afuera”, insistió.
-
-![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/alfaro_resultado_2-1024x683.jpg)
-
-Foto: Diego Pallero / EL COMERCIO.
-
-Prevaleció conocimiento de Alfaro de Ecuador
---------------------------------------------
-
-El arquero de la selección de Paraguay Roberto ‘Gatito’ Fernández reconoció que el empate 0-0 contra Ecuador fue gracias al conocimiento del seleccionador, el argentino Gustavo Alfaro, sobre la selección ecuatoriana.
-
-Al término del encuentro, correspondiente a la segunda fecha de las eliminatorias sudamericanas de clasificación para el Mundial de 2026, **Fernández reconoció que Alfaro les anticipó la forma en la que juega Ecuador,** equipo al que dirigió entre 2020 y 2022, con el que logró clasificar para el Mundial de Qatar 2022.
-
-“Nos facilitó muchísimo lo que el ‘profe’ nos dijo por conocer cómo juega Ecuador y las **dificultades de la altura y la velocidad de la pelota**“, dijo el portero.
-
-Fernández reconoció que la ‘Albirroja’ se va de Quito contenta “**por hacer un punto en Ecuador, y ahora a descansar para pensar en Venezuela**“, pues destacó la dificultad de jugar sobre los 2 850 metros sobre el nivel del mar de Quito.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Inés Manzano habló de su hoja de ruta para afrontar la crisis de energía
-========================================================================
-
-La Miinistra de Ambiente y Energía también se refirió al apagado de la turbina de Mazar, este jueves.
------------------------------------------------------------------------------------------------------
-
-![La Ministra durante su intervención en la cadena nacional de esta noche](https://www.elcomercio.com/wp-content/uploads/2024/10/ines-manzao.jpg)
-
-La Ministra de Ambiente, **Inés Manzano**, brindó una cadena nacional de radio y televisión la noche de este jueves 10 de octubre de 2024.
-
-En su intervención, la funcionaria ratificó que estará a cargo también del **Ministerio de Energía** de forma temporal y dio detalles de las **medidas** que implementará el Gobierno para enfrentar las **emergencias** energética e hídrica que tiene Ecuador.
-
-### Más noticias
-
-* [Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz](https://www.elcomercio.com/actualidad/quito/lugares-carga-vehicular-obras-cortes-luz-quito.html "Quito tiene lugares y horarios conflictivos de carga vehicular por obras y cortes de luz")
-* [Mazar tuvo una drástica disminución de su embalse, hay implicaciones](https://www.elcomercio.com/actualidad/negocios/embalse-mazar-sin-agua-las-implicaciones-cortes-luz-ecuador.html "Mazar tuvo una drástica disminución de su embalse, hay implicaciones")
-* [El Ministro de Energía se va y ya tiene reemplazo](https://www.elcomercio.com/actualidad/negocios/quien-asumira-el-ministerio-de-energia.html "El Ministro de Energía se va y ya tiene reemplazo")
-
-Manzano asumió esta cartera de Estado el miércoles 9 de octubre, tras la renuncia por “motivos personales” de **Antonio Goncalves**.
-
-Goncalves estuvo al frente del **Ministerio** por tres meses, desde el 2 de julio.
-
-Inés Manzano: ‘No podemos controlar las lluvias’
-------------------------------------------------
-
-La Ministra de Energía (e) habló sobre la problemática que enfrenta el país, ocasionada en gran parte, por la **falta de lluvias** considerables.
-
-“Como Gobierno **no podemos controlar las lluvias**, ni hacer que las centrales de repente generen energía con fuentes alternativas (…) mi objetivo es transformar la matriz energética del Ecuador, abriendo las puertas a nuevas energías renovales no convencionales”, prometió Manzano.
-
-“Lo que sí podemos hacer es cambiar nuestra matriz energética antigua, que tiene **sobreprecios** en sus infraestructuras, que nos ha llevado a depender de las lluvias”, enfatizó.
-
-Ante ello, la Ministra detalló las acciones que, a decir por la funcionaria, contribuirán a afrontar la **emergencia nacional**.
-
-Medidas para enfrentar la crisis energética
--------------------------------------------
-
-Manzano destacó como primer punto, la decisión del Comité de Comercio Exterior de reducir **a 0 %** el arancel para la importación de **generadores de luz**.
-
-Esta medida estará vigente durante 12 meses, a partir del 11 de octubre.
-
-La segunda acción corresponderá a **créditos de línea directa** que realizará BanEcuador, para personas y empresas que quieran adquirir generadores y paneles solares.
-
-“Los créditos tendrán tasas reducidas y permitirán financiar hasta el **100 %** de las compras”, dijo Manzano.
-
-### Seis proyectos y mesas de trabajo
-
-El tercer punto al que se refirió la Ministra fue al “impulso de megavatios con energía renovable” que buscará el Gobierno.
-
-“Esta contribución de megavatios se lo hará mediante **seis proyectos**, cuatro solares y dos hidroeléctricas”, detalló.
-
-Finalmente, la encargada del Ministerio del Ambiente aseguró que se mantendrán activas las **mesas de trabajo** provinciales, para articular las ideas entre la industria y las empresas eléctricas que operan en el país.
-
-“Comunicaremos de forma transparente las condiciones del sector, y además se realizará una **rueda de prensa semanal** para detallados los cortes de luz programados”, comentó Manzano.
-
-Mazar apagó su turbina este jueves
-----------------------------------
-
-A través de redes sociales, la Ministra Inés Manzano se refirió a los motivos por los que se apagó la turbina en la hidroeléctrica de **Mazar**, este jueves 10 de octubre.
-
-Según detalló, las buenas condiciones en otra de las centrales más importantes del Ecuador, **Coca Codo Sinclair**, permitieron “darle un descanso a Mazar”.
-
-“Las lluvias en Coca Codo Sinclair favorecieron a que llegue a los **1 000 megavatios**, esto nos permitió darle un descanso a la turbina de Mazar, esto nos ayudará a preservar el embalse”, explicó la Ministra.
-
-La turbina de la hidroeléctrica retomó su funcionamiento a partir de las **18:00**.
-
-Chile perdió con Brasil en los minutos finales
-==============================================
-
-Chile completó un nuevo partido sin ganar en casa y no escapa de los últimos puestos en la tabla de posiciones.
----------------------------------------------------------------------------------------------------------------
-
-![Igor Jesus Maciel da Cruz de Brasil celebra su gol este jueves, en un partido de las eliminatorias sudamericanas para el Mundial de 2026 entre Chile y Brasil en Santiago.](https://www.elcomercio.com/wp-content/uploads/2024/10/chile_brasil_2.jpg)
-
-La **Selección de Chile perdió 1-2 con la de Brasil** en el cuarto y último partido de la novena jornada de las eliminatorias al Mundial 2026, que se llevó a cabo este jueves 10 de octubre de 2024.
-
-En encuentro entre **Chile y Brasil se jugó en un repleto estadio Nacional de Santiago**. Con el juego entre Perú y Uruguay, programado para el viernes 11, se cerrará este nueva fecha de eliminatorias.
-
-### Más noticias:
-
-* [Ambiente de fiesta para el Ecuador vs. Paraguay por eliminatorias](https://www.elcomercio.com/deportes/futbol/ambiente-de-fiesta-para-el-ecuador-vs-paraguay-por-eliminatorias.html "Ambiente de fiesta para el Ecuador vs. Paraguay por eliminatorias")
-* [Pervis Estupiñán, un nuevo capitán para la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/pervis-estupinan-un-nuevo-capitan-para-la-seleccion-de-ecuador.html "Pervis Estupiñán, un nuevo capitán para la Selección de Ecuador")
-* [La Selección de Ecuador conserva el cuarto puesto de eliminatorias](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador conserva el cuarto puesto de eliminatorias")
-
-Los chilenos, dirigidos técnicamente por el argentino Ricardo Gareca, **salió con todo en el juego y se puso en ventaja en el marcador a los 2 minutos** por intermedio de Eduardo Vargas, delantero del Atlético Mineiro y compañero del ecuatoriano Alan Franco.
-
-Para Vargas es el gol 44 en 114 partidos, con lo que se afianza como el **segundo goleador histórico con 34 años, por detrás de Alexis Sánchez** que tiene 50 en 166 presencias; y por delante de Marcelo Salas (37/70); Iván Zamorano (34/69); y Arturo Vidal (34/142).
-
-A los 45+1′ del primer tiempo Brasil concretó el **1-1 con un tanto del joven de 21 años Igor Jesus**, delantero del Botafogo con el que lleva marcados cinco tantos en 13 partidos del Brasileirao.
-
-Para Jesus fue el debut con su Selección y lo hizo con un tanto que quedará marcado en su hoja de vida personal y lo **afianza para seguir en el equipo titular del experimentado DT Dorival Júnior**, excampeón de la Copa Libertadores con Flamengo en 2022 en el estadio Monumental de Guayaquil.
-
-Cuando parecía que el 1-1 sería el marcador final, apareció la figura de Luiz Henrique, también jugador del Botafogo, que puso el 1-2 con un remate cruzado desde fuera del área para vencer al portero Brayan Cortés.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/chile_brasil_1-1024x683.jpg)
-
-Foto: EFE.
-
-Brasil sube en la tabla
------------------------
-
-Brasil cierra la primera fase de las **eliminatorias en cuarto puesto con 13 puntos**, fruto de cuatro victorias, un empates y cuatro derrotas. Su gol diferencia positivo es de +2.
-
-Chile por su parte sigue en la **novena casilla con apenas 5 unidades**. Su pobre campaña se resumen en una victoria, dos empates y cinco derrotas. Su gol diferencia negativo es de -9.
-
-En la jornada 10, Chile viajará a Barranquilla para visitar a Colombia en el Metropolitano, desde las 15:30; por su parte **Brasil recibirá a Perú, desde las 19:45**, en la Arena BRB Mané Garrincha de Brasilia.
-
-Los dos compromisos, al igual que los tres restantes que completarán la fecha, se jugarán íntegramente el martes 15.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Cierre de la Panamericana Norte por desbordamiento del río Pisque ¿Vías alternas?
-=================================================================================
-
-El desbordamiento del río Pisque por las fuertes lluvias provocó el cierre de la Panamericana Norte.
-----------------------------------------------------------------------------------------------------
-
-![El desbordamiento del río Pisque provocó el cierre de la Panamericana Norte.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-21-1.jpg)
-
-El **ECU – 911** reportó el **cierre** de la **Panamericana Norte** por el desbordamiento del **río Pisque**, en el sector de **Guayllabamba**, en el **Distrito Metropolitano de Quito**, la noche de este jueves 10 de octubre de 2024[.](https://es.wikipedia.org/wiki/Quito)
-
-La alerta ingresó a las 18:58 a la central de emergencias.
-
-### Más noticias:
-
-* [Conoce el estado de las vías en Ecuador para el feriado](https://www.elcomercio.com/actualidad/ecuador/conoce-el-estado-de-las-vias-en-ecuador-para-el-feriado.html "Conoce el estado de las vías en Ecuador para el feriado")
-* [Susto en Caupicho por nuevas lluvias este jueves 10 de octubre](https://www.elcomercio.com/actualidad/quito/susto-caupicho-lluvias-nuevas-octubre.html "Susto en Caupicho por nuevas lluvias este jueves 10 de octubre")
-
-El desbordamiento del **río Pisque** se da por las fuertes lluvias registradas la tarde y noche de este jueves en varios sectores del **Distrito Metropolitano de Quito**.
-
-Cierre de la Panamericana Norte por desbordamiento del río Pisque ¿Vías alternas?
----------------------------------------------------------------------------------
-
-Desde el ECU 911 se coordinó con la **Policía Nacional** para que acudan al lugar.
-
-La Policía informó que hubo **tres vehículos atrapados**, que han sido puestos a “buen recaudo”.
-
-La vía está cerrada hasta que finalicen las tareas de limpieza.
-
-La **Secretaría General de Riesgos (SGR)** informó que personal y maquinaria de **Panavial** avanzan al lugar para limpiar la vía.
-
-El **Cuerpo de Bomberos de Pedro Moncayo** también se traslada al lugar para colaborar con la emergencia.
-
-La alternativa de circulación, mientras se limpia la vía, es el desvío por **Cayambe**.
-
-Beccacece, satisfecho tras empate de la Selección de Ecuador con Paraguay
-=========================================================================
-
-Sebastián Beccacece analizó el partido de la Selección de Ecuador ante Paraguay y se mostró satisfecho con el empate y desempeño.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece, DT de la Selección de Ecuador, en eliminatorias ante Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000142646.jpg)
-
-El argentino **Sebastián Beccacece**, DT de la Selección de Ecuador, quedó satisfecho con el juego de su equipo pese a haber empatado contra Paraguay sin goles. El partido se llevó a cabo en la novena fecha de las eliminatorias sudamericanas de clasificación para el Mundial de 2026 durante este jueves 10 de octubre.
-
-Beccacece consideró que la Tri “**mostró carácter y una actitud notable**, además de paciencia para buscar espacios y situaciones de peligro”.
-
-### Más noticias:
-
-* [‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador](https://www.elcomercio.com/deportes/chito-vera-moises-caicedo-seleccion-ecuador.html "‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador")
-* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial-2026.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
-* [La Selección de Ecuador conserva el cuarto puesto de eliminatorias](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador conserva el cuarto puesto de eliminatorias")
-
-“**Si hubiésemos convertido alguna de esas cuatro o cinco ocasiones claras que tuvimos**, hoy estaríamos seguramente más alegres”, dijo el técnico.
-
-“Hicimos todo lo que está al alcance de las **posibilidades** del desarrollo de un juego, y luego hay que generar la concreción”, agregó[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
-
-Sebastián Beccacece destacó el dominio de la Selección de Ecuador
------------------------------------------------------------------
-
-El argentino valoró que su equipo haya jugado prácticamente durante todo el encuentro lejos de su área, al punto de que el arquero **Hernán Galíndez** apenas tocó el balón.
-
-Beccacece señaló que Ecuador fue “**absolutamente superior al rival en todo momento, sentido y aspecto**” y único que faltó fue el gol, pues hicieron catorce disparos y seis sobre el arco.
-
-No obstante, admitió que “**siempre hay cosas para mejorar y corregir, obviamente**“, pero lamentó que en los minutos finales el árbitro no concediese un penalti a favor de Ecuador y que Paraguay interrumpiese el juego repetidamente. 
-
-¿Cuándo se juega la siguiente fecha de la Selección de Ecuador?
----------------------------------------------------------------
-
-La **Selección de Ecuador** jugará su próximo partido de eliminatorias ante Uruguay como visitante en el Estadio Centenario de Montevideo. Este cotejo se llevará a cabo el martes 15 de octubre del 2024.
-
-Después del choque ante **Paraguay**, la Tri se mantuvo en la cuarta posición de la tabla de posiciones. **Uruguay**, aún con un partido menos, ocupa la tercera casilla.
-
-Dragonas a cuartos de final de la Libertadores Femenina
-=======================================================
-
-Dragonas Independiente espera por Deportivo Cali, Santiago Morning o Alianza Lima en la siguiente fase.
--------------------------------------------------------------------------------------------------------
-
-![Analiz Zambrano festeja un gol con Dragonas Independiente en la Libertadores Femenina 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_cuartos_1.jpg)
-
-Los equipos femeninos de **Independiente Santa Fe y Dragonas Independiente** se clasificaron este jueves 10 de octubre de 2024, desde el Grupo C a los cuartos de final de la Copa Libertadores Femenina que se disputa en Paraguay.
-
-El Santa Fe de Colombia igualó 1-1 con el Ferroviária de Brasil y **Dragonas Independiente de Ecuador vencieron por 2-0** a Peñarol de Uruguay.
-
-### Más noticias:
-
-* [Horarios para la fecha nueve de eliminatorias al Mundial 2026](https://www.elcomercio.com/deportes/horarios-eliminatorias-mundia-2026-sudamericanas.html "Horarios para la fecha nueve de eliminatorias al Mundial 2026")
-* [EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp](https://www.elcomercio.com/deportes/ecuador-paraguay-en-vivo-whatsapp-comercio.html "EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp")
-* [Ambiente de fiesta para el Ecuador vs. Paraguay por eliminatorias](https://www.elcomercio.com/deportes/futbol/ambiente-de-fiesta-para-el-ecuador-vs-paraguay-por-eliminatorias.html "Ambiente de fiesta para el Ecuador vs. Paraguay por eliminatorias")
-
-El equipo albirrojo de Bogotá cerró la fase de grupos con 5 puntos, **el club ecuatoriano le escoltó con 4**, Ferroviaria cayó al tercer puesto con 3 y las uruguayas de Peñarol cerraron el Grupo C con 2.
-
-Un penalti ejecutado por la **colombiana Camila Reyes dejó todo igual con Ferroviária**, equipo con pasado de campeón en la Libertadores.
-
-En un duelo que empezó con una hora de retraso en el estadio **Arsenio Erico de Asunción, Ferroviaria anunció en el minuto 13** que tomaba el control del partido con el primer intento de gol desde fuera del área de Micaelly Brazil dos Santos.
-
-Las brasileñas presionaron para ganar profundidad y la defensa de las Leonas´’ **resistió hasta que llegó el remate de Rafaela Soares** (33′) que envió el balón al centro del arco de Yessica Velásquez, tras recibir una asistencia hacia atrás de la atacante Lele.
-
-Con la dificultad de un campo de juego anegado por la lluvia en la segunda parte, Ferroviára quiso asegurar la ventaja, pero las bogotanas se cerraron en defensa.
-
-Una falta cometida por **Luana Menegardo terminó en un penalti a favor de Santa Fe** que Reyes cambió por gol con un derechazo en el minuto 73.
-
-![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_cuartos_2-1024x683.jpg)
-
-Foto: Instagram del club.
-
-Dragonas siguen firmes
-----------------------
-
-En simultáneo, Dragonas Independiente **celebró su pase a la fase de los ocho mejores al vencer a Peñarol** en la localidad de Ypané, a unos 20 kilómetros de Asunción.
-
-Tras un primer tiempo que transcurrió igualado, las **Dragonas demostraron superioridad con el gol** de Karen Litardo (51′) y dos minutos después, Nayely Bolaños sentenció. 
-
-En los cuartos de final están confirmadas las llaves entre **Corinthians vs. Olimpia; y Santos contra Boca Juniors**, en lo que se puede catalogar como finales adelantadas por la calidad de estas escuadras.
-
-El rival de Dragonas será el ganador del grupo D al que enfrentará el domingo 13 en el Centro de Alto Rendimiento de Fútbol Femenino, ubicado en la localidad de Ypané, cerca a Asunción.
-
-**Al momento le corresponde a Deportivo Cali** que comanda la zona con 6 puntos y un gol diferencia positivo de +2.
-
-En la última jornada un empate las confirma como las ganadoras del grupo D. Su rival será **Santiago Morning que ocupa la segunda casilla con 3 puntos** y un gol diferencia positivo de +2. A las chilenas les sirve únicamente la victoria para ser las primeras.
-
-Alianza Lima también tiene opciones de ganar el grupo. **Sus 3 puntos, un gol diferencia positivo de +1** y enfrentarse contra el eliminado Guaraní, les abre a las peruanas las chaces de clasificarse.
-
-La final de la Libertadores Femenina está programada para el sábado 19 de octubre en el estadio Defensores del Chaco de Asunción.
-
-> 💥⚽ ¡Los goles de la clasificación! Karen Litardo y Nayely Bolaños para la victoria de 🇪🇨[@dragonasidv](https://twitter.com/DragonasIDV?ref_src=twsrc%5Etfw).  
->   
-> CONMEBOL [#LibertadoresFEM](https://twitter.com/hashtag/LibertadoresFEM?src=hash&ref_src=twsrc%5Etfw) | [#LaGloriaEsDeEllas](https://twitter.com/hashtag/LaGloriaEsDeEllas?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/0rntjvU719](https://t.co/0rntjvU719)
-> 
-> — CONMEBOL Libertadores Femenina (@LibertadoresFEM) [October 10, 2024](https://twitter.com/LibertadoresFEM/status/1844525394801852624?ref_src=twsrc%5Etfw)
-
-No te pierdas – El Confesionario
---------------------------------
-
-Policía decomisó millonario cargamento de droga en alta mar
-===========================================================
-
-Ocho personas fueron detenidas por transportar la droga cerca a la Isla San Cristóbal, en Galápagos
----------------------------------------------------------------------------------------------------
-
-![El destino final de la droga era México y Estados Unidos](https://www.elcomercio.com/wp-content/uploads/2024/10/galap-1.jpg)
-
-La **Policía Nacional** detuvo a ocho personas que transportaban droga en **alta mar**, cerca a la Isla San Cristóbal, en el sur de **Galápagos**.
-
-El operativo Armagedón realizado este miércoles 9 de octubre de 2024 permitió el decomiso de **cuatro toneladas y media de droga**.
-
-### Más noticias
-
-* [55 capturados deja la Operación Cero Impunidad de la Policía](https://www.elcomercio.com/actualidad/seguridad/55-capturados-deja-operacion-cero-impunidad-policia.html "55 capturados deja la Operación Cero Impunidad de la Policía")
-* [51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/seguridad/policia-seguridad-operativo-feriado-9-octubre.html "51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre")
-* [Policía detiene a exasambleísta por presunta concusión](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-exasambleista-por-presunta-concusion.html "Policía detiene a exasambleísta por presunta concusión")
-
-Miembros de la Dirección Nacional de Investigación Antidrogas, en coordinación con el Centro de Análisis Marítimo de las Fuerzas Armadas, interceptaron **tres embarcaciones** a 62 y 213 millas de la Isla San Cristóbal.
-
-Las lanchas llevaban consigo **3 930 paquetes de cocaína**. El objetivo era movilizar la mercancía hasta otro punto, donde la recibirían embarcaciones para continuar con el recorrido hasta llegar a **México** y **Estados Unidos**.
-
-Ocho detenidos, uno fue hospitalizado
--------------------------------------
-
-La droga estaba oculta en **96 sacos de yute**, que estaban repartidos entre las tres embarcaciones, tripuladas por los ecuatorianos.
-
-Los **detenidos** fueron:
-
-* José Luis E.E.
-* Manuel Antonio C.L.
-* Jaime Iván M.M.
-* Carlos Enrique M.M.
-* Bryan Stalin M.M.
-* Ángel Johan L.M.
-* Edison José F.O
-* Edilson Cristopher M. L.,
-
-Los sospechosos fueron puestos a órdenes de las autoridades, con excepción de este último, quien fue **hospitalizado** por presentar un cuadro grave de apendicitis.
-
-El hombre mantiene custodia policial en la casa de salud. Su situación legal entrará en proceso una vez se recupere.
-
-> Aprehendimos más de 4 toneladas de droga y 8 presuntos implicados en este delito en [#Galápagos](https://twitter.com/hashtag/Gal%C3%A1pagos?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Conoce más detalles en el siguiente [#Boletín](https://twitter.com/hashtag/Bolet%C3%ADn?src=hash&ref_src=twsrc%5Etfw)🗞️: [https://t.co/MFqyA4CyMu](https://t.co/MFqyA4CyMu)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [October 10, 2024](https://twitter.com/PoliciaEcuador/status/1844471738677276687?ref_src=twsrc%5Etfw)
-
-Los uniformados tomaron como indicios del delito varios artefactos, entre ellos: cinco teléfonos satelitales, cuatro celulares, un GPS y una **sonoboya** (detector de submarinos).
-
-Las autoridades estiman que la droga incautada equivale a **45,705 millones de dosis**, con un valor en el mercado nacional de **9,1 millones de dólares**.
-
-La mercancía ilegal hubiera superado los **91 millones de dólares** de alcanzar su destino en Norteamérica.
-
-‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador
-==================================================================
-
-Moisés Caicedo y Marlon 'Chito' Vera tuvieron un encuentro después del partido entre la Selección de Ecuador y Paraguay.
-------------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo en el partido de la Selección de Ecuador ante Paraguay en eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-10T190027.396.jpg)
-
-La **Selección de Ecuador** cosechó un empate sin goles ante Paraguay en la novena fecha de las eliminatorias sudamericanas. Tras el plano compromiso, quien puso la alegría en las gradas fue Marlon ‘**Chito’ Vera** al entregar el premio al mejor jugador del partido y compartir con los aficionados.
-
-Apenas finalizó el cotejo, los futbolistas tricolores se juntaron en el centro del terreno de juego y conversaron entre sí. Tras aquel momento, **Moisés Caicedo** se dirigió para recibir su reconocimiento y brindar sus impresiones en la transmisión del cotejo.
-
-### Más noticias:
-
-* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial-2026.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
-* [La Selección de Ecuador conserva el cuarto puesto de eliminatorias](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador conserva el cuarto puesto de eliminatorias")
-* [Leonardo Campana alborotó a los aficionados de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-alboroto-a-los-aficionados-de-la-seleccion-de-ecuador.html "Leonardo Campana alborotó a los aficionados de la Selección de Ecuador")
-
-Al momento en el cual retiró su galardón, este se encontró con otro de los **destacados deportistas** de Ecuador. **Marlon ‘Chito’ Verá**, quien se encuentra en el país, estuvo presente en el cotejo y bajó hacia la cancha para entregar el reconocimiento[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
-
-Ambos atletas se juntaron entre sí y, con un abrazo, **Vera recibió a Caicedo**. Tras un intercambio de palabras, estos retrataron el momento y el volante de Santo Domingo se retiró hacia los camerinos con la presea.
-
-Marlon ‘Chito’ Vera también compartió con los aficionados
----------------------------------------------------------
-
-Una vez que finalizó el acto entre los deportistas, **‘Chito’ Vera** se acercó a los aficionados ecuatorianos presentes en los graderíos. Allí, este fue ovacionado, desató la euforia en los presentes y compartió un momento con ellos.
-
-El peleador saludó con los presentes y sacó su teléfono móvil para tomarse **fotos**. Las multitudes se agolparon y este firmó **autógrafos**, también brindó postales a los presentes y tuvo paciencia con los aficionados.
-
-Antes de su encuentro, el atleta de la **UFC** estuvo presente en una de las suites del Estadio Rodrigo Paz Delgado. Desde allí brindó su apoyo y compartió en sus redes sociales la experiencia.
-
-El partido de Moisés Caicedo con la Selección de Ecuador
---------------------------------------------------------
-
-**Moisés Caicedo** estuvo presente como titular con la Selección de Ecuador y se mantuvo presente durante los 90 minutos. El futbolista del Chelsea, además, fue uno de los capitanes, pues Pervis Estupiñán le otorgó el brazalete tras ser sustituido.
-
-En su partido realizó **96 toques de balón** y acertó con el 89% de sus pases (65 de 73) de acuerdo a Sofascore. Brindó dos pases claves, cinco centros en los que acertó uno y envió 13 balones largos. Asimismo, ‘Moi’ sumó un remate al arco.
-
-A nivel defensivo **ganó seis de 10 duelos** en tierra y tres de cuatro en el aire. Interceptó dos veces la pelota y realizó dos entradas.
+No solo vale estar informados, sino también **inspirar a la acción para mejorar las condiciones de vida de las niñas en todo el mundo**. La educación y el empoderamiento son claves para un futuro mejor, y cada uno de nosotros puede contribuir a este cambio positivo.
