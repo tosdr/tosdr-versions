@@ -3272,10 +3272,6 @@ Red.es: Edificio Bronce
 Plaza Manuel Gómez Moreno, s/n  
 28020 Madrid, teléfono: [901100167](tel:901100167), email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
-**\- Encargado:**
-
-En las tareas de gestión de las solicitudes de los derechos de los interesados se han detectado [encargados de tratamiento](https://red.es/es/area-prensa/multimedia/anexo-1-derechos-del-interesado).
-
 **\- Delegado de Protección de Datos:**
 
 Email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
@@ -3330,7 +3326,7 @@ Se conservarán durante el tiempo necesario para cumplir con la finalidad para l
 
 #### Medidas de seguridad
 
-Las medidas de seguridad implantadas se corresponden con las previstas en el Anexo II (Medidas de seguridad) del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad, y de forma adicional se han implementado los controles de seguridad del Sistema de Gestión de la Seguridad de la Información basado en la Norma UNE-EN ISO/IEC 27001.
+Las medidas de seguridad implantadas se corresponden con las previstas en el Anexo II (Medidas de seguridad) del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad, y de forma adicional se han implementado los controles de seguridad del Sistema de Gestión de la Seguridad de la Información basado en la Norma UNE-EN ISO/IEC 27001. 
 
 #### Cesión de datos
 
@@ -3346,7 +3342,7 @@ No se han detectado.
 
 #### Ejercicio de derechos
 
-Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/) o [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
+Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad
 
 * * *
 
