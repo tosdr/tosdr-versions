@@ -21,7 +21,7 @@ Language
     
     * [Ending poverty](https://www.oxfam.org/en/what-we-do/issues)
         * [Water and sanitation](https://www.oxfam.org/en/what-we-do/issues/water-and-sanitation)
-        * [Food, climate and natural resources](https://www.oxfam.org/en/what-we-do/issues/food-climate-and-natural-resources)
+        * [Food, climate, and natural resources](https://www.oxfam.org/en/what-we-do/issues/food-climate-and-natural-resources)
         * [Conflicts and disasters](https://www.oxfam.org/en/what-we-do/issues/conflicts-and-disasters)
         * [Extreme inequality and essential services](https://www.oxfam.org/en/what-we-do/issues/extreme-inequality-and-essential-services)
         * [Gender justice and women’s rights](https://www.oxfam.org/en/what-we-do/issues/gender-justice-and-womens-rights)
