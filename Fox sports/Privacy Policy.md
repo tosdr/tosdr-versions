@@ -29,7 +29,13 @@ DISMISS
 
 SPORTS
 
-SPORTS & TEAMS PLAYERS [SHOWS](https://www.foxsports.com/shows "SHOWS") [PERSONALITIES](https://www.foxsports.com/personalities "PERSONALITIES")
+SPORTS & TEAMS
+
+PLAYERS
+
+[SHOWS](https://www.foxsports.com/shows "SHOWS")
+
+[PERSONALITIES](https://www.foxsports.com/personalities "PERSONALITIES")
 
 SPORTS
 
