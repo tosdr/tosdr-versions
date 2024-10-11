@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,733
+* 8,743
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,995
+* 7,996
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 17,065
+* 17,069
 * 10
 
 Announcing the end of life of Waterfall​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 24,219
+* 24,255
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,395
+* 8,398
 * 1
 
 ### The 1.20.4 Update​
@@ -641,7 +641,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,886
+* 14,887
 * 1
 
 ### The 1.20.2 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,510
+* 13,514
 * 9
 
 ### The 1.20(.1) Update​
@@ -882,7 +882,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,180
+* 8,182
 * 3
 
 ### The 1.19.4 Update​
@@ -954,7 +954,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,627
+* 13,629
 * 1
 
 ### The 1.19.3 Update​
@@ -1002,7 +1002,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 35,015
+* 35,017
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1166,7 +1166,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,551
+* 23,552
 * 12
 
 ### The 1.18.2 Update​
@@ -1217,7 +1217,7 @@ Jan **04**
 * [Jan 4, 2022](https://papermc.io/threads/paper-1-18-and-more.6/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,976
+* 23,977
 * 17
 
 ### The 1.18 update​
@@ -1295,7 +1295,7 @@ Dec **14**
 * [Dec 14, 2021](https://papermc.io/threads/welcome-to-papermc.1/)
 * [kashike](https://papermc.io/home/authors/kashike.1/)
 
-* 8,709
+* 8,710
 * 2
 
 [![kashike](https://secure.gravatar.com/avatar/c50766d24721f3cdd0ff9e8ead43134b?s=48)](https://papermc.io/members/kashike.1/)
@@ -1318,9 +1318,33 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 34 (members: 0, guests: 34)
+Total: 40 (members: 0, guests: 40)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
+
+[![jeongjo1](https://secure.gravatar.com/avatar/6cb2ea8ee359e8d23ff32ff56f6c78c4?s=48)](https://papermc.io/members/jeongjo1.11639/)
+
+* Question
+
+Question [Continuous lag, warnings, and errors on paper server](https://papermc.io/threads/continuous-lag-warnings-and-errors-on-paper-server.1410/)
+
+* [jeongjo1](https://papermc.io/members/jeongjo1.11639/)
+* [Today at 8:59 AM](https://papermc.io/threads/continuous-lag-warnings-and-errors-on-paper-server.1410/)
+* [Help](https://papermc.io/forums/paper-help/)
+
+Replies
+
+0
+
+Views
+
+29
+
+[Help](https://papermc.io/forums/paper-help/) [Today at 8:59 AM](https://papermc.io/threads/continuous-lag-warnings-and-errors-on-paper-server.1410/latest)
+
+[jeongjo1](https://papermc.io/members/jeongjo1.11639/)
+
+[![jeongjo1](https://secure.gravatar.com/avatar/6cb2ea8ee359e8d23ff32ff56f6c78c4?s=48)](https://papermc.io/members/jeongjo1.11639/)
 
 [Y](https://papermc.io/members/yeetdabmcfapdab.11627/)
 
@@ -1339,7 +1363,7 @@ Replies
 
 Views
 
-25
+31
 
 [Help](https://papermc.io/forums/paper-help/) [Yesterday at 11:34 PM](https://papermc.io/threads/tried-running-a-1-16-5-paper-server-got-unsupported-java-detected-61-0-only-up-to-java-16-is-supported-while-having-java-8-and-java-17-installed.1409/latest)
 
@@ -1361,7 +1385,7 @@ Replies
 
 Views
 
-52
+58
 
 [Discussion](https://papermc.io/forums/paper-discussion/) [Yesterday at 9:56 AM](https://papermc.io/threads/how-will-the-removal-of-io-websites-impact-papermc.1408/latest)
 
@@ -1385,7 +1409,7 @@ Replies
 
 Views
 
-65
+66
 
 [Help](https://papermc.io/forums/paper-help/) [Tuesday at 12:00 AM](https://papermc.io/threads/error-that-i-cant-figure-out.1401/latest)
 
@@ -1529,37 +1553,13 @@ Replies
 
 Views
 
-123
+124
 
 [Help](https://papermc.io/forums/paper-help/) [Oct 3, 2024](https://papermc.io/threads/server-crashes-every-day.1396/latest)
 
 [nineteengames](https://papermc.io/members/nineteengames.11526/)
 
 [N](https://papermc.io/members/nineteengames.11526/)
-
-[A](https://papermc.io/members/adzel_firestar.10868/)
-
-* Article
-
-Plugin Release [VelocityBroadcast Version 0.8](https://papermc.io/threads/velocitybroadcast-version-0-8.1370/)
-
-* [Adzel\_Firestar](https://papermc.io/members/adzel_firestar.10868/)
-* [Sep 27, 2024](https://papermc.io/threads/velocitybroadcast-version-0-8.1370/)
-* [Plugin Releases](https://papermc.io/forums/velocity-plugin-releases/)
-
-Replies
-
-2
-
-Views
-
-224
-
-[Plugin Releases](https://papermc.io/forums/velocity-plugin-releases/) [Oct 1, 2024](https://papermc.io/threads/velocitybroadcast-version-0-8.1370/latest)
-
-[Adzel\_Firestar](https://papermc.io/members/adzel_firestar.10868/)
-
-[A](https://papermc.io/members/adzel_firestar.10868/)
 
 [View more…](https://papermc.io/whats-new/posts/?skip=1)
 
