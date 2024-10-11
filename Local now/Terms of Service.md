@@ -173,7 +173,7 @@ The Services incorporate links to other Web sites. AMG does not in any way endor
 19\. Video Viewing
 ------------------
 
-You agree that AMG can share your video viewing activities with any service provider acting on our behalf and with advertising partners. Your consent to such sharing is valid for two years or until you withdraw your consent by emailing datarequest@weathergroup.com or submitting the form located [here](https://docs.google.com/forms/d/e/1FAIpQLScgamt6jlhcpHYYixtzJxkWHVPh6iZZOAV1oUjY2J1biIFYXw/viewform). If you do not consent or withdraw your consent in the future, your information will be used only as set forth in our [Privacy Policy](https://www.weathergroup.com/privacy-policy), and shared with third parties only in the ordinary course of business.
+You agree that AMG can share your video viewing activities with any service provider acting on our behalf and with advertising partners. Your consent to such sharing is valid for two years or until you withdraw your consent by emailing [\[email protected\]](https://localnow.com/cdn-cgi/l/email-protection) or submitting the form located [here](https://docs.google.com/forms/d/e/1FAIpQLScgamt6jlhcpHYYixtzJxkWHVPh6iZZOAV1oUjY2J1biIFYXw/viewform). If you do not consent or withdraw your consent in the future, your information will be used only as set forth in our [Privacy Policy](https://www.weathergroup.com/privacy-policy), and shared with third parties only in the ordinary course of business.
 
 20\. Changed Terms
 ------------------
