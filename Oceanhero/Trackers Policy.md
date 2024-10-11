@@ -252,7 +252,7 @@ The date at the top of this Cookie Policy indicates when it was last updated.
 
 **Where can I get further information?**
 
-If you have any questions about our use of cookies or other technologies, pleaseemail us at marvin.burman@oceanhero.today or by post to:
+If you have any questions about our use of cookies or other technologies, pleaseemail us at [\[email protected\]](https://about.oceanhero.today/cdn-cgi/l/email-protection) or by post to:
 
 OceanHero GmbH  
 Chausseestraße 108,  Berlin,  10115, Germany  
