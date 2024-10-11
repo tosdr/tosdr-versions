@@ -178,7 +178,7 @@ TAS’s website is not directed to, and does not knowingly collect personal iden
 
 **Unsubscribe or Opt-Out**
 
-All users and visitors to our website have the option to discontinue receiving communications from us by way of email or newsletters. To discontinue or unsubscribe from our website please send an email that you wish to unsubscribe to [Unsubscribe@atlassociety.org.](mailto:Unsubscribe@atlassociety.org) If you wish to unsubscribe or opt-out from any third-party websites, you must go to that specific website to unsubscribe or opt-out. TAS will continue to adhere to this Policy with respect to any personal information previously collected.
+All users and visitors to our website have the option to discontinue receiving communications from us by way of email or newsletters. To discontinue or unsubscribe from our website please send an email that you wish to unsubscribe to [\[email protected\]](https://www.atlassociety.org/cdn-cgi/l/email-protection)If you wish to unsubscribe or opt-out from any third-party websites, you must go to that specific website to unsubscribe or opt-out. TAS will continue to adhere to this Policy with respect to any personal information previously collected.
 
 **‍**
 
@@ -202,7 +202,7 @@ Under the regulations of the General Data Protection Regulation ("GDPR") of the 
 
 **‍**
 
-* **The right of access:** this means you have the right to request access to the data we hold about you and we must respond to those requests within one month. You can do this by sending an email to [tas@atlassociety.org.](mailto:tas@atlassociety.org)
+* **The right of access:** this means you have the right to request access to the data we hold about you and we must respond to those requests within one month. You can do this by sending an email to [\[email protected\]](https://www.atlassociety.org/cdn-cgi/l/email-protection)
 
 **‍**
 
@@ -210,19 +210,19 @@ Under the regulations of the General Data Protection Regulation ("GDPR") of the 
 
 **‍**
 
-* **The right to erasure:** this means you can request that the information we hold be deleted, and we will comply unless we have a compelling reason not to, in which case you will be informed of same. You can do this by sending an email to [tas@atlassociety.org.](mailto:tas@atlassociety.org)
+* **The right to erasure:** this means you can request that the information we hold be deleted, and we will comply unless we have a compelling reason not to, in which case you will be informed of same. You can do this by sending an email to [\[email protected\]](https://www.atlassociety.org/cdn-cgi/l/email-protection)
 
 **‍**
 
-* **The right to restrict processing:** this means you can change your communication preferences or opt-out of certain communications. You can do this by sending an email to [Unsubscribe@atlassociety.org.](mailto:Unsubscribe@atlassociety.org)
+* **The right to restrict processing:** this means you can change your communication preferences or opt-out of certain communications. You can do this by sending an email to[\[email protected\]](https://www.atlassociety.org/cdn-cgi/l/email-protection)
 
 **‍**
 
-* **The right of data portability:** this means you can obtain and use the data we hold for your own purposes without explanation. If you wish to request a copy of your information, contact us at [tas@atlassociety.org.](mailto:tas@atlassociety.org)
+* **The right of data portability:** this means you can obtain and use the data we hold for your own purposes without explanation. If you wish to request a copy of your information, contact us at [\[email protected\]](https://www.atlassociety.org/cdn-cgi/l/email-protection)
 
 **‍**
 
-* **The right to object:** this means you can file a formal objection with us regarding our use of your information with regard to third parties, or its processing where our legal basis is our legitimate interest in it. To do this, please send an email to [tas@atlassociety.org.](mailto:tas@atlassociety.org)
+* **The right to object:** this means you can file a formal objection with us regarding our use of your information with regard to third parties, or its processing where our legal basis is our legitimate interest in it. To do this, please send an email to [\[email protected\]](https://www.atlassociety.org/cdn-cgi/l/email-protection)
 
 **‍**
 
@@ -254,7 +254,7 @@ If you have any questions or concerns regarding the Privacy Policy Agreement rel
 
 **‍**
 
-**Email:** [tas@atlassociety.org](mailto:tas@atlassociety.org)
+**Email:** [\[email protected\]](https://www.atlassociety.org/cdn-cgi/l/email-protection)
 
 ‍**Telephone Number:** 8332967263
 
@@ -272,7 +272,7 @@ Kingwood Texas 77339
 
 Carly Gino
 
-[cgino@atlassociety.org](mailto:cgino@atlassociety.org) 833.296.7263
+[\[email protected\]](https://www.atlassociety.org/cdn-cgi/l/email-protection) 833.296.7263
 
 22001 Northpark Drive Ste 250, Kingwood TX 77339
 
@@ -281,7 +281,7 @@ Carly Gino
 22001 Northpark Drive - Ste 250  
 Kingwood, TX 77339
 
-[editor@atlassociety.org](#)
+[\[email protected\]](#)
 
 [Donate](https://www.atlassociety.org/donate)
 
