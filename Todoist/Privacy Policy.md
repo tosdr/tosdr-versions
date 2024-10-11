@@ -43,7 +43,7 @@ Table of Contents
 Doist Privacy Policy
 ====================
 
-Last Update: July 3rd, 2024
+Last Update: October 11th, 2024
 
 This privacy policy ("**Policy**") informs you of our practices when handling your Information through the Services (both as defined below). In this Policy, "**Doist**," "**we**," "**our**" or "**us**" refers to Doist Inc., a company registered in Delaware with its registered address located at 251 Little Falls Drive, Wilmington, DE 19808. When you are using Doist Services in your personal capacity, we are the data controller under the applicable privacy laws, and this Policy applies.
 
@@ -151,7 +151,7 @@ We share your Information with selected third parties, including:
     
 * **Cloud service providers** who we rely on for data storage, including Microsoft Azure and Amazon Web Services who are based in the U.S.; OpenAI, and Google Cloud.
     
-* **Customer support solution providers**, who help us manage and respond to our customer questions and complaints and triage issues. This includes Zendesk Inc., which is based in the U.S. and which hosts our customer support function, and Dosu Inc., also based in the U.S. and triages our support issues; and
+* **Customer support solution providers**, who help us manage and respond to our customer questions and complaints and triage issues. This includes Zendesk Inc., which is based in the U.S. and which hosts our customer support function; and
     
 * **Analytics providers**. We work with a number of analytics, segmentation and mobile measurement service providers who help us understand our userbase. This includes Google LLC, which is based in the U.S. You can learn about Google's practices by going to [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/), and opt-out of them by downloading the Google Analytics opt-out browser add-on, available at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
     
