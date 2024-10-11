@@ -15,7 +15,7 @@ Got itHow to Whitelist
 
 English
 
-* [English](https://trust.zone/privacy)
+* [English](https://trust.zone/en/privacy)
 * [Français](https://trust.zone/fr/privacy)
 * [Deutsche](https://trust.zone/de/privacy)
 * [Español](https://trust.zone/es/privacy)
