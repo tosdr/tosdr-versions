@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZwgucQoAAVAAAABbzYg)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZwiCKQoAAVAAAABbLC0)
 
 Es noticia
 
@@ -15,6 +15,7 @@ Es noticia
 * [Entradas Copa Davis Nadal](https://www.elmundo.es/como/2024/10/10/6707a3abe4d4d8245f8b459f.html)
 * [Supermercado ilegal Madrid](https://www.elmundo.es/madrid/2024/10/10/6707d17621efa04d068b45a3.html)
 * [Casa Campo menas](https://www.elmundo.es/madrid/2024/10/10/6706b0a2e9cf4ab4218b4586.html)
+* [Toro de Osborne Navarra](https://www.elmundo.es/loterias/2024/10/10/67082ff6e85ece8e308b45a9.html)
 * [Pueblo Málaga](https://www.elmundo.es/andalucia/2024/10/10/67077a58e4d4d872528b457f.html)
 * [Israel](https://www.elmundo.es/internacional/2024/10/10/670761fd120162fa60240145-directo.html)
 * [Huelga estudiantes 11 octubre](https://www.elmundo.es/como/2024/10/10/670790e121efa0787e8b4591.html)
@@ -29,6 +30,8 @@ Es noticia
 * [Lotería Navidad 2024](https://www.elmundo.es/loterias/loteria-navidad.html)
 * [Comprobar Lotería Navidad 2024](https://www.elmundo.es/loterias/loteria-navidad/comprobar-loteria.html)
 * [Últimas noticias](https://www.elmundo.es/ultimas-noticias.html)
+* [Lotería Nacional](https://www.elmundo.es/loterias/2024/10/10/670834a4e4d4d8ea148b4576.html)
+* [Primitiva](https://www.elmundo.es/loterias/2024/10/10/6708337721efa014368b4594.html)
 
 [Portada](https://www.elmundo.es/) [Portada](https://www.elmundo.es/?intcmp=MENUMIGA01&s_kw=portada) [Portada](https://www.elmundo.es/)
 
