@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,728
+* 8,733
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 7,993
+* 7,995
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 17,063
+* 17,065
 * 10
 
 Announcing the end of life of Waterfall​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,215
+* 14,221
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 24,205
+* 24,219
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,392
+* 8,395
 * 1
 
 ### The 1.20.4 Update​
@@ -641,7 +641,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,883
+* 14,886
 * 1
 
 ### The 1.20.2 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,506
+* 13,510
 * 9
 
 ### The 1.20(.1) Update​
@@ -834,7 +834,7 @@ Apr **20**
 * [Apr 20, 2023](https://papermc.io/threads/hangar-papermcs-plugin-repository.691/)
 * [MiniDigger](https://papermc.io/home/authors/minidigger.15/)
 
-* 6,440
+* 6,442
 * 1
 
 Once again, we have another exciting announcement for you, this time about PaperMC's own site for uploading and downloading Paper, Velocity, and Waterfall plugins, called [**Hangar**](https://hangar.papermc.io/)! The main reason we started working on this is to finally provide a centralized place for Paper and Velocity plugins. Compared to the Spigot forums, Hangar allows you much more control over your resource in terms of:  
@@ -882,7 +882,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,178
+* 8,180
 * 3
 
 ### The 1.19.4 Update​
@@ -954,7 +954,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,624
+* 13,627
 * 1
 
 ### The 1.19.3 Update​
@@ -1002,7 +1002,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 35,013
+* 35,015
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1051,7 +1051,7 @@ Jul **30**
 * [Jul 30, 2022](https://papermc.io/threads/paper-1-19-1.394/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,932
+* 14,935
 * 1
 
 ### The 1.19.1 Update​
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,246
+* 37,251
 * 18
 
 ### The 1.19 Update​
@@ -1166,7 +1166,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,548
+* 23,551
 * 12
 
 ### The 1.18.2 Update​
@@ -1217,7 +1217,7 @@ Jan **04**
 * [Jan 4, 2022](https://papermc.io/threads/paper-1-18-and-more.6/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,973
+* 23,976
 * 17
 
 ### The 1.18 update​
@@ -1295,7 +1295,7 @@ Dec **14**
 * [Dec 14, 2021](https://papermc.io/threads/welcome-to-papermc.1/)
 * [kashike](https://papermc.io/home/authors/kashike.1/)
 
-* 8,708
+* 8,709
 * 2
 
 [![kashike](https://secure.gravatar.com/avatar/c50766d24721f3cdd0ff9e8ead43134b?s=48)](https://papermc.io/members/kashike.1/)
@@ -1318,40 +1318,41 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 39 (members: 0, guests: 39)
+Total: 34 (members: 0, guests: 34)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
 [Y](https://papermc.io/members/yeetdabmcfapdab.11627/)
 
-* Question
+* Locked
+* Solved
 
 Question [tried running a 1.16.5 paper server got "Unsupported Java detected (61.0). Only up to Java 16 is supported." while having java 8 and java 17 installed](https://papermc.io/threads/tried-running-a-1-16-5-paper-server-got-unsupported-java-detected-61-0-only-up-to-java-16-is-supported-while-having-java-8-and-java-17-installed.1409/)
 
 * [YeetDabMcFapDab](https://papermc.io/members/yeetdabmcfapdab.11627/)
-* [Today at 5:36 PM](https://papermc.io/threads/tried-running-a-1-16-5-paper-server-got-unsupported-java-detected-61-0-only-up-to-java-16-is-supported-while-having-java-8-and-java-17-installed.1409/)
+* [Yesterday at 5:36 PM](https://papermc.io/threads/tried-running-a-1-16-5-paper-server-got-unsupported-java-detected-61-0-only-up-to-java-16-is-supported-while-having-java-8-and-java-17-installed.1409/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
 
-0
+1
 
 Views
 
-18
+25
 
-[Help](https://papermc.io/forums/paper-help/) [Today at 5:36 PM](https://papermc.io/threads/tried-running-a-1-16-5-paper-server-got-unsupported-java-detected-61-0-only-up-to-java-16-is-supported-while-having-java-8-and-java-17-installed.1409/latest)
+[Help](https://papermc.io/forums/paper-help/) [Yesterday at 11:34 PM](https://papermc.io/threads/tried-running-a-1-16-5-paper-server-got-unsupported-java-detected-61-0-only-up-to-java-16-is-supported-while-having-java-8-and-java-17-installed.1409/latest)
 
-[YeetDabMcFapDab](https://papermc.io/members/yeetdabmcfapdab.11627/)
+[mbaxter](https://papermc.io/members/mbaxter.18/)
 
-[Y](https://papermc.io/members/yeetdabmcfapdab.11627/)
+[![mbaxter](/data/avatars/s/0/18.jpg?1641064117)](https://papermc.io/members/mbaxter.18/)
 
 [![Abelpro678](https://secure.gravatar.com/avatar/011dcec5cc63e56a91634e14d582f4e4?s=48)](https://papermc.io/members/abelpro678.10757/)
 
 [How will the removal of .io websites impact PaperMC?](https://papermc.io/threads/how-will-the-removal-of-io-websites-impact-papermc.1408/)
 
 * [Abelpro678](https://papermc.io/members/abelpro678.10757/)
-* [Today at 9:05 AM](https://papermc.io/threads/how-will-the-removal-of-io-websites-impact-papermc.1408/)
+* [Yesterday at 9:05 AM](https://papermc.io/threads/how-will-the-removal-of-io-websites-impact-papermc.1408/)
 * [Discussion](https://papermc.io/forums/paper-discussion/)
 
 Replies
@@ -1360,9 +1361,9 @@ Replies
 
 Views
 
-49
+52
 
-[Discussion](https://papermc.io/forums/paper-discussion/) [Today at 9:56 AM](https://papermc.io/threads/how-will-the-removal-of-io-websites-impact-papermc.1408/latest)
+[Discussion](https://papermc.io/forums/paper-discussion/) [Yesterday at 9:56 AM](https://papermc.io/threads/how-will-the-removal-of-io-websites-impact-papermc.1408/latest)
 
 [MiniDigger](https://papermc.io/members/minidigger.15/)
 
@@ -1384,7 +1385,7 @@ Replies
 
 Views
 
-55
+65
 
 [Help](https://papermc.io/forums/paper-help/) [Tuesday at 12:00 AM](https://papermc.io/threads/error-that-i-cant-figure-out.1401/latest)
 
@@ -1408,7 +1409,7 @@ Replies
 
 Views
 
-84
+90
 
 [Help](https://papermc.io/forums/paper-help/) [Sunday at 8:36 AM](https://papermc.io/threads/server-problem.1400/latest)
 
@@ -1432,7 +1433,7 @@ Replies
 
 Views
 
-66
+69
 
 [Help](https://papermc.io/forums/paper-help/) [Saturday at 6:46 PM](https://papermc.io/threads/paper-doesnt-seem-to-be-following-generator-settings.1399/latest)
 
@@ -1456,7 +1457,7 @@ Replies
 
 Views
 
-67
+70
 
 [Help](https://papermc.io/forums/paper-help/) [Saturday at 3:52 PM](https://papermc.io/threads/error-while-setting-up-server.1398/latest)
 
@@ -1495,7 +1496,7 @@ Views
 Question [Where did this error come from and how to fix it?](https://papermc.io/threads/where-did-this-error-come-from-and-how-to-fix-it.1397/)
 
 * [Reizi](https://papermc.io/members/reizi.9279/)
-* [Friday at 3:44 PM](https://papermc.io/threads/where-did-this-error-come-from-and-how-to-fix-it.1397/)
+* [Oct 4, 2024](https://papermc.io/threads/where-did-this-error-come-from-and-how-to-fix-it.1397/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
@@ -1504,9 +1505,9 @@ Replies
 
 Views
 
-83
+88
 
-[Help](https://papermc.io/forums/paper-help/) [Friday at 3:44 PM](https://papermc.io/threads/where-did-this-error-come-from-and-how-to-fix-it.1397/latest)
+[Help](https://papermc.io/forums/paper-help/) [Oct 4, 2024](https://papermc.io/threads/where-did-this-error-come-from-and-how-to-fix-it.1397/latest)
 
 [Reizi](https://papermc.io/members/reizi.9279/)
 
@@ -1528,7 +1529,7 @@ Replies
 
 Views
 
-119
+123
 
 [Help](https://papermc.io/forums/paper-help/) [Oct 3, 2024](https://papermc.io/threads/server-crashes-every-day.1396/latest)
 
@@ -1552,7 +1553,7 @@ Replies
 
 Views
 
-221
+224
 
 [Plugin Releases](https://papermc.io/forums/velocity-plugin-releases/) [Oct 1, 2024](https://papermc.io/threads/velocitybroadcast-version-0-8.1370/latest)
 
