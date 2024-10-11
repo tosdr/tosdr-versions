@@ -231,7 +231,7 @@ We may choose to bill through an invoice. If we so choose, all amounts due must 
 
 ### Publicity
 
-Each Subscriber is permitted to identify itself as a Subscriber of the Services for promotional and marketing purposes. Subscriber grants Shortcut a non-exclusive, non-transferrable, non-sublicensable, and royalty-free license to use and reproduce Subscriber’s name, logos, and trademarks for promotional and marketing purposes including on Shortcut's customer lists, advertising, and website. Subscriber may opt out of the provisions in this Section by emailing a request to [support@shortcut.com.](mailto:support@shortcut.com)
+Each Subscriber is permitted to identify itself as a Subscriber of the Services for promotional and marketing purposes. Subscriber grants Shortcut a non-exclusive, non-transferrable, non-sublicensable, and royalty-free license to use and reproduce Subscriber’s name, logos, and trademarks for promotional and marketing purposes including on Shortcut's customer lists, advertising, and website. Subscriber may opt out of the provisions in this Section by emailing a request to [\[email protected\]](https://shortcut.com/cdn-cgi/l/email-protection)
 
 In other words, we’re proud to have the quality of customers that we do. If it comes up, we may mention you!
 
