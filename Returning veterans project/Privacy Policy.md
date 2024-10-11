@@ -191,11 +191,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Steven Edmondson](https://cdn.returningveterans.org/images/honor/Pamela_Blatter.jpg)  
+![Randy Rider](https://cdn.returningveterans.org/images/honor/Randy_Rider.jpg)  
 
-**In Memory of Steven Edmondson**  
+**In Honor of Randy Rider**  
 United States Army  
-Submitted by Pamela Blatter](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Buffy Rider](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -240,5 +240,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 10/10/24 - 2:31:30  
+Printed 10/10/24 - 8:23:25  
 © 2024 Returning Veterans Project
