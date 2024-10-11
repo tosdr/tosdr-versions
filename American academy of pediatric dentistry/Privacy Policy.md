@@ -17,6 +17,7 @@
     * [Get Involved](https://www.aapd.org/about/get-involved/)
     * [States and Districts](https://www.aapd.org/about/state-and-district-chapters/)
     * [Membership Directory](https://littleteethchat.aapd.org/network/members)
+    * [Join Our Team](https://www.aapd.org/about/join-our-team/)
     
     * ###### Latest News
         
@@ -26,7 +27,7 @@
         [The Latest from HQ](https://www.aapd.org/link/40d8c9bbe1d84ae893138470f9496fb1.aspx)
     * ###### Get Involved
         
-        [AAPD Foundation](https://aapdfoundation.org/?dt=638641648894767816)
+        [AAPD Foundation](https://aapdfoundation.org/?dt=638641864813212267)
     
 * [Resources](https://www.aapd.org/resources/resources/) [Toggle expand sub-navigation items](#)
     
@@ -137,6 +138,7 @@ Close Searchbar
     * [Get Involved](https://www.aapd.org/about/get-involved/)
     * [States and Districts](https://www.aapd.org/about/state-and-district-chapters/)
     * [Membership Directory](https://littleteethchat.aapd.org/network/members)
+    * [Join Our Team](https://www.aapd.org/about/join-our-team/)
 * [Resources](https://www.aapd.org/resources/resources/) [Toggle expand sub-navigation items](#)
     * [Member](https://www.aapd.org/resources/member/)
     * [Parent](https://www.aapd.org/resources/parent/)
@@ -240,6 +242,8 @@ Chicago, IL 60611
 (312) 337-2169
 
 [Contact Us](https://www.aapd.org/contact-us/)
+
+[Join Our Team](https://www.aapd.org/about/join-our-team/)
 
 [Advertising](https://www.aapd.org/publications/advertising/)
 
