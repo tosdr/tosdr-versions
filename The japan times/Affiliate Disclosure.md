@@ -254,23 +254,13 @@ Latest News
 
 [Justice minister says he has severed all ties with Unification Church](https://www.japantimes.co.jp/news/2024/10/11/japan/politics/justice-minister-unification-church/ "Justice minister says he has severed all ties with Unification Church")
 
-7 hours ago
-
 [Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/11/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
-
-7 hours ago
 
 [Ishiba clears low bar in diplomatic debut](https://www.japantimes.co.jp/news/2024/10/11/japan/politics/japan-asean-ishiba-analysis/ "Ishiba clears low bar in diplomatic debut")
 
-8 hours ago
-
 [Opposition party shakes up Japan’s rate debate with new inflation target](https://www.japantimes.co.jp/business/2024/10/11/economy/cdp-monetary-policy/ "Opposition party shakes up Japan’s rate debate with new inflation target")
 
-8 hours ago
-
 [Tokyo go-kart rental manager sent to prosecutors over traffic law violation](https://www.japantimes.co.jp/news/2024/10/11/japan/crime-legal/rental-kart-violation/ "Tokyo go-kart rental manager sent to prosecutors over traffic law violation")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
