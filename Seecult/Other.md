@@ -322,11 +322,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20/stevan-vukovic-marina-markovic.jpg?itok=U0BB0qJ6)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/blazo-kovacevic/sa-izlozbe-u-sad/fallen-angel.jpg?itok=SxP45Eap)](http://seecult.org/galerija/galerija-umetnika/blazo-kovacevic/sa-izlozbe-u-sad)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/mracni-vitez-001.jpg?itok=1YxmoNVL)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pankrti/pankrti8.jpg?itok=rD-83dZc)](http://seecult.org/galerija/foto-galerija/foto-arhiva/pankrti)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
