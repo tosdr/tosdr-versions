@@ -164,6 +164,10 @@
 3. [Our website](https://www.ofcom.org.uk/about-ofcom/our-website/)
 4. Terms of use
 
+**HELP US MAKE OFCOM’S WEBSITE BETTER!** 
+
+Share your experience in our [2\-minute survey](https://online1.snapsurveys.com/op0tfg "User Survey 2024") (opens in a new window) 
+
 **Terms of use**
 ================
 
@@ -248,7 +252,7 @@ About this website
 ------------------
 
 * [Accessibility](https://www.ofcom.org.uk/about-ofcom/accessibility/accessibility/ "Accessibility of Ofcom's website")
-* [Cookies policy](https://www.ofcom.org.uk/about-ofcom/our-website/cookies-policy/ "Cookies policy")
+* [Cookies policy](https://www.ofcom.org.uk/about-ofcom/our-website/cookies-policy/?language=en "Cookies policy")
 * [Terms of use](https://www.ofcom.org.uk/about-ofcom/our-website/terms-of-use/ "Terms of use")
 * [Copyright and information re-use](https://www.ofcom.org.uk/about-ofcom/our-website/copyright/ "Copyright and information re-use")
 
