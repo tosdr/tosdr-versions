@@ -34,9 +34,7 @@ YOU SHALL INDEMNIFY AND HOLD US AND OUR SUBSIDIARIES, AFFILIATES, OFFICERS, AGEN
 
 ### **General**
 
-The KRITIK Terms of Service also govern your use of the KRITIK Services.Nothing in this Policy is intended to grant any rights in the Services beyond the rights granted to you in the KRITIK Terms of Service. If We fail, at any time, to insist upon strict performance of any of Your obligations under this Policy, or if We fail to exercise any of the rights or remedies to which We are entitled under this Policy, this shall not constitute a waiver of such rights or remedies and shall not relieve you from compliance with such obligations. A waiver by Us of any default shall not constitute a waiver of any subsequent default. No waiver by Us of any of the provisions of this Policy shall be effective unless it is expressly stated to be a waiver and is communicated to you in writing. Please contact Us with questions about this Policy or to report violations of this Policy: [info@kritik.io  
-  
-We will endeavour to answer your questions and advise you of any steps taken to address the issues raised by you.](mailto:info@kritik.io)  
+The KRITIK Terms of Service also govern your use of the KRITIK Services.Nothing in this Policy is intended to grant any rights in the Services beyond the rights granted to you in the KRITIK Terms of Service. If We fail, at any time, to insist upon strict performance of any of Your obligations under this Policy, or if We fail to exercise any of the rights or remedies to which We are entitled under this Policy, this shall not constitute a waiver of such rights or remedies and shall not relieve you from compliance with such obligations. A waiver by Us of any default shall not constitute a waiver of any subsequent default. No waiver by Us of any of the provisions of this Policy shall be effective unless it is expressly stated to be a waiver and is communicated to you in writing. Please contact Us with questions about this Policy or to report violations of this Policy: [\[email protected\]](https://www.kritik.io/cdn-cgi/l/email-protection)  
 
 ### **Suspension And Termination**
 
