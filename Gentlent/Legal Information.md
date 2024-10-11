@@ -1,6 +1,8 @@
 [![Gentlent](https://s1.gentcdn.com/images/branding/gentlentlogo/logo_white_anim_g.svg)](https://www.gentlent.com/)
 
-[Blog](https://www.gentlent.com/blog)[Products](https://www.gentlent.com/_sites/g-website/policies/legal-notice#) 
+[Blog](https://www.gentlent.com/blog)[Case Studies](https://www.gentlent.com/case-studies)[Knowledge Base](https://support.gentlent.com/)
+
+  [Products](https://www.gentlent.com/_sites/g-website/policies/legal-notice#) 
 
 Products[Domains  
 Domains are like the phone book of the internet. Each website, email server, and digital service has an IP (Internet Protocol) address assigned to it. Because it's difficult for visitors to remember these numerical IP addresses, domain names like "yourname.xyz" were created and can since be registered.](https://www.gentlent.com/domains)[Dynamic DNS  
@@ -12,15 +14,9 @@ Coming soon](https://www.gentlent.com/)
 [Contact  
 Gentlent's global support is free of charge for all our customers.](https://www.gentlent.com/contact)
 
-[Case Studies](https://www.gentlent.com/case-studies)[Knowledge Base](https://support.gentlent.com/)
-
-[Community](https://www.gentlent.com/community)[Login](https://app.gentlent.com/)
+[Login](https://app.gentlent.com/)
 
 [Skip to content](#main)
-
-[Policies](https://www.gentlent.com/policies)
-
-[Privacy Policy](https://www.gentlent.com/policies/privacy)[Terms of Service](https://www.gentlent.com/policies/terms)[Code of Conduct](https://www.gentlent.com/policies/code-of-conduct)[Right of Withdrawal](https://www.gentlent.com/policies/right-of-withdrawal)[Legal Notice](https://www.gentlent.com/policies/legal-notice)
 
 Legal Notice
 ============
@@ -28,15 +24,16 @@ Legal Notice
 Disclosures per § 5 TMG
 
 **Gentlent UG (haftungsbeschränkt)**  
+A corporation under german law.  
+  
 Am Trippelsberg 92  
 40589 Düsseldorf  
-Germany  
-A corporation under german law.
+Germany
 
-Phone: [+49 (0) 211 86843 - 0](tel:+490211868430)  
-Fax: [+49 (0) 211 86843 - 999](fax:+49021186843999)  
-Email: [support@gentlent.com](mailto:support@gentlent.com)  
-Website: [www.gentlent.com](https://www.gentlent.com/)  
+[+49 (0) 211 86843 - 0](tel:+490211868430)  
+[+49 (0) 211 86843 - 999](fax:+49021186843999)  
+[support@gentlent.com](mailto:support@gentlent.com)  
+[www.gentlent.com](https://www.gentlent.com/)  
 [Contact Form →](https://www.gentlent.com/contact)
 
 Registry Court: Amtsgericht Düsseldorf  
@@ -65,8 +62,6 @@ We are a member of the FairCommerce initiative. For more information, please vis
 
 For contacting businesses and/or companies directly affiliated with Gentlent, please use our email address.
 
-* * *
-
 The European Commission provides an online dispute resolution platform at [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). We are neither obliged nor willing to participate in dispute resolution proceedings with a consumer arbitration board.  
   
 **Disclaimer**  
@@ -87,7 +82,7 @@ Get in touch today.
 
 [Contact us →](https://www.gentlent.com/contact)
 
-[![Gentlent](https://s1.gentcdn.com/images/branding/gentlentg/g_white.svg)](https://www.gentlent.com/)
+[](https://www.gentlent.com/)
 
 #### Products
 
@@ -125,7 +120,7 @@ Gentlent™ is a software company aiming to make complex web technologies easy a
 
 Gentlent
 
-[Privacy Policy](https://www.gentlent.com/policies/privacy) | [Terms of Service](https://www.gentlent.com/policies/terms) | [Code of Conduct](https://www.gentlent.com/policies/code-of-conduct) | [Right of Withdrawal](https://www.gentlent.com/policies/right-of-withdrawal) | [Legal Notice](https://www.gentlent.com/policies/legal-notice)
+[Privacy Policy](https://www.gentlent.com/policies/privacy)[Terms of Service](https://www.gentlent.com/policies/terms)[Code of Conduct](https://www.gentlent.com/policies/code-of-conduct)[Right of Withdrawal](https://www.gentlent.com/policies/right-of-withdrawal)[Legal Notice](https://www.gentlent.com/policies/legal-notice)
 
 Copyright © 2019 - 2024 by Gentlent and/or its subsidiaries. All rights reserved. Gentlent® is a registered trademark of Gentlent UG (haftungsbeschränkt) in Germany or other countries. All trademarks, service marks, and company names are the property of their respective owners. Made with ❤ remotely.  
   
@@ -141,3 +136,5 @@ Copyright © 2019 - 2024 by Gentlent and/or its subsidiaries. All rights reserve
  [Verify Employee](https://www.gentlent.com/verify-employee) 
 
 ![Gentlent](https://s1.gentcdn.com/images/branding/gentlentlogo/logo_white.svg)An official Gentlent website. Official Gentlent websites are always linked from our website [gentlent.com](https://www.gentlent.com/), or contain an extended validated certificate.
+
+![Skyline Dusseldorf](https://s1.gentcdn.com/cmscontent/eb617de37e6a944b6d298b5554109aee534d6d078dbe620d65e2c3073716fda1)
