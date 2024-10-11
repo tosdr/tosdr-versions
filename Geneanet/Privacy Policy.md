@@ -343,9 +343,3 @@ DeutschEnglishEspañolSuomiFrançaisItalianoNederlandsNorskPortuguêsSvenska
 * [Search by country](https://en.geneanet.org/country/)
 * [Library Catalog by country](https://en.geneanet.org/library/geo)
 * [Library Catalog by topic](https://en.geneanet.org/library/topics)
-
-#### German ancestry? Celebrate Ahnenfest - Geneanet's Ancestor Festival - with free Premium access to our German collections October 3-10! ([Learn more](https://en.geneanet.org/genealogyblog/post/2024/09/ahnenfest-2024-free-access-to-german-records-october-3-10?utm_campaign=jpo-allemand&utm_content=autopromo&utm_medium=site&utm_source=geneanet))
-
-Celebrate German-American Day and Germany Unity Day!
-
-[Log in to Geneanet](https://en.geneanet.org/connexion/?url=https://en.geneanet.org/legal/privacy/)
