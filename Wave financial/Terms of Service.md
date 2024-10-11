@@ -10,7 +10,9 @@ Look like a pro](https://www.waveapps.com/invoicing)[Payments
 
 Get paid faster](https://www.waveapps.com/payments)[Accounting
 
-Always be organized](https://www.waveapps.com/accounting)
+Always be organized](https://www.waveapps.com/accounting)[Estimates
+
+Land that dream customer](https://www.waveapps.com/estimates-software)
 
 [Banking
 
@@ -36,7 +38,7 @@ Sign up](https://www.waveapps.com/register)[Your account](https://my.waveapps.co
 
 Features
 
-[Invoicing](https://www.waveapps.com/invoicing)[Payments](https://www.waveapps.com/payments)[Mobile receipts](https://www.waveapps.com/receipts)[Accounting](https://www.waveapps.com/accounting)[Banking](https://www.waveapps.com/banking)[Payroll](https://www.waveapps.com/payroll)[Advisors](https://www.waveapps.com/wave-advisors)
+[Invoicing](https://www.waveapps.com/invoicing)[Payments](https://www.waveapps.com/payments)[Mobile receipts](https://www.waveapps.com/receipts)[Accounting](https://www.waveapps.com/accounting)[Estimates](https://www.waveapps.com/estimates-software)[Payroll](https://www.waveapps.com/payroll)[Advisors](https://www.waveapps.com/wave-advisors)
 
 [Pricing](https://www.waveapps.com/pricing)[Blog](https://www.waveapps.com/blog)
 
@@ -113,6 +115,7 @@ For Canadian Businesses
 
 * [Accounting software](https://www.waveapps.com/accounting)
 * [Invoicing software](https://www.waveapps.com/invoicing)
+* [Estimates software](https://www.waveapps.com/estimates-software)
 * [Wave app](https://www.waveapps.com/wave-app)
 * [Mobile receipts](https://www.waveapps.com/receipts)
 * [Payments](https://www.waveapps.com/payments)
