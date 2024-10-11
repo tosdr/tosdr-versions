@@ -102,7 +102,7 @@ This Privacy Policy (the “**Policy**”) describes the data protection practic
 
 We may change this Policy from time to time. We will make the revised Policy accessible through the Services, so you should review the Policy periodically. You can know if the Policy has changed since the last time you reviewed it by checking the “Last Modified” date at the top of this Policy. If we make a material change to this Policy, we will provide you with notice in accordance with legal requirements. By continuing to use the Services, you are confirming that you have read and understood the latest version of this Policy.
 
-If you have any questions or concerns about this Policy, please contact us at [privacy@ynab.com](mailto:privacy@ynab.com).
+If you have any questions or concerns about this Policy, please contact us at [\[email protected\]](https://www.youneedabudget.com/cdn-cgi/l/email-protection).
 
 ### Table of Contents
 
@@ -231,7 +231,7 @@ When you choose to use third-party apps (such as the YNAB Toolkit or other OAuth
 4\. Children's Privacy
 ----------------------
 
-The Services are not intended for children under 13 years of age or 16 years of age for those who habitually reside in the European Economic Area or United Kingdom. No one under these ages may provide any personal data to the Services. We do not knowingly collect Personal Information from children under 13. If you are under 13 or 16, do not use or provide any information on the Services or through any of its features, register for the Services, make any purchases through the Services, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal data from a child under 13 or 16, we will delete that information. If you believe we might have any information from or about a child under 13 or 16, please contact us at [privacy@ynab.com](mailto:privacy@ynab.com).
+The Services are not intended for children under 13 years of age or 16 years of age for those who habitually reside in the European Economic Area or United Kingdom. No one under these ages may provide any personal data to the Services. We do not knowingly collect Personal Information from children under 13. If you are under 13 or 16, do not use or provide any information on the Services or through any of its features, register for the Services, make any purchases through the Services, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal data from a child under 13 or 16, we will delete that information. If you believe we might have any information from or about a child under 13 or 16, please contact us at [\[email protected\]](https://www.youneedabudget.com/cdn-cgi/l/email-protection).
 
 5\. Your Rights and Choices
 ---------------------------
@@ -252,11 +252,11 @@ As provided in applicable law, you also have the right to not be discriminated a
 
 You may also have the right to opt out of “sales” of your information and “sharing/processing of your information for targeted advertising” as described below.  If you are a California resident, please see our [California Privacy Policy](https://www.youneedabudget.com/privacy-policy/california-privacy-disclosure) for more information about our privacy practices and your rights.
 
-Please note that certain information may be exempt from such requests under applicable law. For example, we need to retain certain information in order to provide our services to you. We also need to take reasonable steps to verify your identity before responding to a request, which may include, at a minimum, depending on the sensitivity of the information you are requesting and the type of request you are making, verifying your name and email address. Depending on your jurisdiction, you may be permitted to designate an authorized agent to submit certain requests on your behalf. In order for an authorized agent to be verified, you must provide the authorized agent with signed, written permission to make such requests or a power of attorney. We may also follow up with you to verify your identity before processing the authorized agent’s request. If you would like further information regarding your legal rights or would like to exercise any of them, please visit [this link](https://www.youneedabudget.com/privacy-policy/data-subject-rights-request) or email us at: [privacy@ynab.com](mailto:privacy@ynab.com).
+Please note that certain information may be exempt from such requests under applicable law. For example, we need to retain certain information in order to provide our services to you. We also need to take reasonable steps to verify your identity before responding to a request, which may include, at a minimum, depending on the sensitivity of the information you are requesting and the type of request you are making, verifying your name and email address. Depending on your jurisdiction, you may be permitted to designate an authorized agent to submit certain requests on your behalf. In order for an authorized agent to be verified, you must provide the authorized agent with signed, written permission to make such requests or a power of attorney. We may also follow up with you to verify your identity before processing the authorized agent’s request. If you would like further information regarding your legal rights or would like to exercise any of them, please visit [this link](https://www.youneedabudget.com/privacy-policy/data-subject-rights-request) or email us at: [\[email protected\]](https://www.youneedabudget.com/cdn-cgi/l/email-protection).
 
 You may also authorize an agent (an “Authorized Agent”) to exercise your rights on your behalf. To do this, you must provide your Authorized Agent with written permission to exercise your rights on your behalf, and we may request a copy of this written permission from your Authorized Agent when they make a request on your behalf.
 
-Depending on applicable law, you may have the right to appeal our decision to deny your request, if applicable. If we deny your request, we will provide you with information on how to appeal the decision, if applicable, in our communications with you. To exercise such an appeal right, email us at [privacy@ynab.com](mailto:privacy@ynab.com).
+Depending on applicable law, you may have the right to appeal our decision to deny your request, if applicable. If we deny your request, we will provide you with information on how to appeal the decision, if applicable, in our communications with you. To exercise such an appeal right, email us at [\[email protected\]](https://www.youneedabudget.com/cdn-cgi/l/email-protection).
 
 ### Marketing Communications. 
 
@@ -301,7 +301,7 @@ The Services offered by YNAB are operated from the United States. If you are loc
 8\. Contact Us
 --------------
 
-If you have any questions, comments and requests regarding this Privacy Policy, you can contact us by email at: [privacy@ynab.com](mailto:privacy@ynab.com). 
+If you have any questions, comments and requests regarding this Privacy Policy, you can contact us by email at: [\[email protected\]](https://www.youneedabudget.com/cdn-cgi/l/email-protection). 
 
 If you are located in the UK, you can also contact our UK representative regarding our processing of your information using the details below:
 
@@ -314,7 +314,7 @@ England GL50 3PR
 9\. Further Reading
 -------------------
 
-We take security quite seriously around here, and go into detail about the steps we take to protect users’ data in our [Security Policy](https://www.youneedabudget.com/security). For more legal reading, see our [Terms of Service](https://www.youneedabudget.com/terms). If you need further assistance, email [privacy@ynab.com](mailto:privacy@ynab.com).
+We take security quite seriously around here, and go into detail about the steps we take to protect users’ data in our [Security Policy](https://www.youneedabudget.com/security). For more legal reading, see our [Terms of Service](https://www.youneedabudget.com/terms). If you need further assistance, email [\[email protected\]](https://www.youneedabudget.com/cdn-cgi/l/email-protection).
 
 ![YNAB Tree Logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/645d2ae6d9658d2cd3608470_Tree%20Logo%20Buttermilk.svg)
 
