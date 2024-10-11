@@ -123,17 +123,7 @@ Menu
     
     **Explore and understand the world with Harvard** In Focus is a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. Nobels at Harvard
-        
-        In Focus
-        
-        **Nobels at Harvard** Explore Harvard's history with the Nobel Prize and learn about winners past and present. [View the feature](https://www.harvard.edu/in-focus/nobels-at-harvard/)
-        
-        1. **What's inside**
-            1. [**Meet Professor Gary Ruvkun, a 2024 winner**](https://news.harvard.edu/gazette/story/2024/10/harvard-scientist-awarded-nobel/)
-            2. [**Meet Harvard's Nobel Laureates**](https://www.harvard.edu/about/history/nobel-laureates/)
-        
-    2. Harvard in the World
+    1. Harvard in the World
         
         In Focus
         
@@ -142,6 +132,16 @@ Menu
         1. **What's inside**
             1. [**Journey to the Amazon**](https://news.harvard.edu/gazette/story/2024/10/journey-to-a-key-front-in-climate-change-fight/)
             2. [**Learn about Worldwide Week at Harvard**](https://worldwide.harvard.edu/worldwide-week-harvard-2024)
+        
+    2. Nobels at Harvard
+        
+        In Focus
+        
+        **Nobels at Harvard** Explore Harvard's history with the Nobel Prize and learn about winners past and present. [View the feature](https://www.harvard.edu/in-focus/nobels-at-harvard/)
+        
+        1. **What's inside**
+            1. [**Meet Professor Gary Ruvkun, a 2024 winner**](https://news.harvard.edu/gazette/story/2024/10/harvard-scientist-awarded-nobel/)
+            2. [**Meet Harvard's Nobel Laureates**](https://www.harvard.edu/about/history/nobel-laureates/)
         
     3. Water
         
@@ -221,9 +221,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Consumers to see benefits of Fed rate cut, but how much and when are less clear** Jason Furman looks at decision, considers what it means to economy, both Wall Street and Main Street](https://news.harvard.edu/gazette/story/2024/09/consumers-to-see-benefits-of-fed-rate-cut-but-how-much-and-when-is-less-clear/)
-        2. [**So why does Mr. Whiskers meow?** It may not be for the reasons you think, says evolutionary biologist, whose new book explores how our feline friends came to be](https://news.harvard.edu/gazette/story/2024/09/so-why-does-mr-whiskers-meow/)
-        3. [**How well do you know your dog?** Take our quiz based on new Netflix documentary featuring Harvard researcher](https://news.harvard.edu/gazette/story/2024/09/how-well-do-you-know-your-dog/)
+        1. [**Drug-free nasal spray blocks, neutralizes viruses, bacteria** In preclinical studies, spray offered nearly 100% protection from respiratory infections by COVID-19, influenza, viruses, and pneumonia-causing bacteria](https://news.harvard.edu/gazette/story/2024/09/drug-free-nasal-spray-blocks-neutralizes-viruses-bacteria/)
+        2. [**Falls put older adults at increased risk of Alzheimer’s** Researchers found dementia more frequently diagnosed within one year of a fall, compared to other types of injuries](https://news.harvard.edu/gazette/story/2024/10/falls-put-older-adults-at-increased-risk-of-alzheimers/)
+        3. [**A blueprint for better conversations** After months of listening and learning, open inquiry co-chairs detail working group’s recommendations](https://news.harvard.edu/gazette/story/2024/10/a-blueprint-for-better-conversations/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
