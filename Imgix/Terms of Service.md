@@ -231,7 +231,7 @@ imgix's name, imgix's trademarks, imgix's logos, and any other imgix product, se
 * Address of Designated Agent: 423 Tehama St., San Francisco CA 94103
 * Telephone Number of Designated Agent: (415) 484-5964
 * Fax Number of Designated Agent: (415) 484-7735
-* Email Address of Designated Agent: [dmca@imgix.com](mailto:dmca@imgix.com)
+* Email Address of Designated Agent: [\[email protected\]](https://www.imgix.com/cdn-cgi/l/email-protection)
 
 Please see 17 U.S.C. § 512(c)(3) for the requirements of a proper notification. If you knowingly misrepresent in your notification that the material or activity is infringing, you may be liable for any damages, including costs and attorneys' fees, incurred by imgix or the alleged infringer as the result of imgix relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing. imgix does not guarantee that it will have the capability to remove infringing content in its entirety, including infringing content that has been stored in a viewer's cache, but may block the display of any infringing content.
 
@@ -284,7 +284,7 @@ These Terms contain the entire agreement, and supersede all prior and contempora
 20\. QUESTIONS
 --------------
 
-If you have any questions regarding the use of the Services, please email imgix at [support@imgix.com](mailto:support@imgix.com).
+If you have any questions regarding the use of the Services, please email imgix at [\[email protected\]](https://www.imgix.com/cdn-cgi/l/email-protection).
 
 ‍
 
