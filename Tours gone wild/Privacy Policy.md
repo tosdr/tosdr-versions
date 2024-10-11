@@ -494,7 +494,7 @@ Get a Price Quote
 * More Details: (customization, desired experience, etc)
     
 * 
-* Comments
+* Email
     
     This field is for validation purposes and should be left unchanged.
     
