@@ -2,244 +2,107 @@ PRIVACY POLICY
 ==============
 
   
-Busuu takes your privacy very seriously. Busuu is committed to safeguarding your privacy, and this privacy policy explains our data collection, use, and disclosure practices.  
-  
-This policy covers:
+We're updating our Privacy Policy to make it easier to read, be more transparent, and to reflect improvements we are making at Busuu. **These changes will come into effect on November 17, 2024, and your continued use of the Busuu service after this date will be subject to our updated Privacy Policy.**
 
-* important information and who we are
-* the personal data we collect
-* how and why we collect and use your personal data
-* why we process your personal data
-* when and why we will disclose your personal data to the Busuu Group or other organisations
-* international transfers
-* the rights and choices you have when it comes to your personal data
-* why we use cookies
-* the steps we take to ensure your information is kept secure and confidential
-* how long we will hold your information for
-* your legal rights  
-      
-      
+These changes include:  
+
+* The data controller for the Busuu service will change to our parent company, Chegg, Inc. This means that Chegg will process your personal data in accordance with the updated Privacy Policy.  
+    
+* We have consolidated two separate policies into one. You will now see a Supplemental Privacy Policy for Busuu along with a single Privacy Policy for all Chegg services.  
+    
+* The Supplemental Privacy Policy for Busuu provides information about some of the features that Busuu offers to help improve your pronunciation and conversation skills, including our use of artificial intelligence (AI) and machine learning (ML).  
     
 
-### **1\. IMPORTANT INFORMATION AND WHO WE ARE**
+**Supplemental Privacy Policy for Busuu**
+-----------------------------------------
 
-Busuu provides its service (the "Service") to you subject to the Terms of Service, and the following Privacy Policy. We may update this Privacy Policy from time to time. All changes will be posted on our website (the “Site”). You can review the most current version of the Privacy Policy at any time here [www.busuu.com/en/privacy](https://www.busuu.com/en/privacy). Your continued use of the Service or the Site after any such changes have been made constitutes your acceptance of the new Privacy Policy. This website is not intended for children and we do not knowingly collect data relating to children. Words beginning with capital letters in this Privacy Policy which are not defined in this Privacy Policy are defined in the Terms of Service.
+The purpose of this Supplemental Privacy Policy for Busuu ("Supplemental Privacy Policy") is to describe how we at Busuu Limited, including our parent company Chegg, Inc., together with other affiliates and subsidiary companies (collectively, "Chegg") use the personal information that we collect when you use Busuu.
 
-Busuu Limited is the controller and responsible for your personal data (collectively referred to as "Busuu", "we", "us" or "our" in this Privacy Policy). You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the [UK supervisory authority](https://www.ico.org.uk/) for data protection issues. We would, however, appreciate the chance to deal with your concerns before you approach the ICO, so please contact us in the first instance.
+The main Chegg Privacy Policy provides information on how and why your personal information is processed or used to support Chegg services (including Busuu), the legal grounds for the processing, the privacy choices you may exercise under applicable data protection laws, and the contact details for the exercise of such choices. This Supplemental Privacy Policy supplements (but does not replace) the Chegg Privacy Policy by providing additional details on the personal information that we collect, use, and share when you use Busuu.
 
-This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.  
-  
-  
+Where there is an inconsistency or contradiction between this Supplemental Privacy Notice and the Chegg Privacy Notice, this Supplemental Privacy Notice shall prevail in relation to your use of Busuu. Capitalized terms used but not defined in this Supplemental Privacy Policy shall have the meanings given to them in the Chegg Privacy Policy.
 
-### **2\. INFORMATION WE COLLECT AND RECEIVE**
+This Supplemental Privacy Policy consists of two parts:
 
-When you register for a Busuu account, Busuu collects personal data that you submit such as your username, email address, spoken and studied languages and any other personal or preference information that you optionally enter into the Service, as well as your profile picture.
-
-Busuu also collects and generates a number of other areas of usage information automatically which includes; services metadata, log data, device information, IP addresses, third-party data and cookie information.
-
-We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice. We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.
-
-We may contact you to ask you to participate in research. By participating in research with us, you confirm that you have read and agreed to the research conditions. Some of our research will use information from your Busuu account in order to give us accurate results. Results will be aggregated and may be used for marketing purposes. No personal details will be shared with third parties. All your personal information will be stored securely for the duration of the research and deleted after the publication of the results. We store your personal information only on secure servers that are held in secure facilities in the European Economic Area (“EEA”) and have up-to-date firewall protection.
-
-If you decide to participate in any research, your participation is voluntary and you can withdraw at any time. If you’d like to withdraw, please send an email to [research-team@busuu.com](mailto:research-team@busuu.com) and your request will be processed on the following working day in the UK. All your data will then be deleted from our database and excluded from the research.
-
-When you use the Service, you may set up your personal profile, form relationships, send and receive messages, perform searches and queries, enrol in events and courses, and transmit information through various channels.
-
-There is no statutory or contractual obligation to provide this data, however, where the data is not provided, we will be unable to provide the service.  
-  
-  
-
-### **3\. INFORMATION USE**
-
-Busuu will use your personal data in furtherance of our legitimate interests for the following general purposes:
-
-(i) to provide, update, maintain and protect our services, websites, apps and business  
-(ii) as required by applicable law, legal process or regulation  
-(iii) to respond to your questions and comments  
-(iv) to send marketing and transactional communications, including but not limited to email, push notifications, SMS and in-app messages, about the Service  
-(v) statistical purposes  
-(vi) for billing, account management and other administrative matters  
-(vii) to investigate and help prevent security issues and abuse  
-(viii) other purposes as described to you at the point of collection  
-
-Busuu uses such information to customise the marketing and Content you see, fulfil your requests for products and services, improve our Service to you, contact you, conduct research, and provide anonymised reporting for internal purposes and for external clients such as advertisers. If you choose share a Busuu invite link with a friend and they click the link they will see your profile image (if you have created one) and name on a landing page within Busuu. You can delete and change this data at any time within your profile settings. No other information is visible.
-
-Please note that if you enter payment details into the Service when purchasing a Paid Service (including any Premium membership), Busuu itself does not receive or store such payment information, and as such information is received, it is stored and used by our payment service providers for the purpose of completing the purchase.
-
-You can opt out of promotional communication initiated by Busuu when registering for the Service.You can also opt out of all communications, email, push notifications and SMS, from the communication itself or from your preference settings.
-
-For users registered through an organisation using an organisation email address, your email data would have been provided to us by that data controller. In this case you will have received a communication showing how to sign up. You can unsubscribe from these communications at any time.  
-  
-  
-
-### **4\. STORAGE AND TRANSFER OF YOUR PERSONAL DATA**
-
-We store your personal information only on secure servers that are held in secure facilities in the European Economic Area (“EEA”) and have up-to-date firewall protection. Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
-
-* We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries.
-* Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see European Commission: Model contracts for the transfer of personal data to third countries.  
-      
-      
+* Part One sets out the privacy practices that apply across our Services.<  
+    
+* Part Two sets out the privacy practices specific to Busuu.  
     
 
-### **5\. RETENTION**
+### **PART ONE: OUR PRIVACY PRACTICES ACROSS OUR SERVICES**
 
-Busuu will retain your personal data for as long as we need to in order to fulfil legitimate business interests, conduct audits, comply with (and demonstrate compliance with) legal obligations, resolve disputes and enforce our agreements. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. You have the right to delete your personal data by sending an email requesting so to [privacy@busuu.com](mailto:privacy@busuu.com). Please note in this case any financial information will be kept in accordance with local laws.  
-  
-  
+The main Chegg Privacy Policy is available [here](https://www.chegg.com/en-GB/privacypolicy).
 
-### **6\. COOKIES**
+### **PART TWO: SUPPLEMENTAL INFORMATION SPECIFIC TO BUSUU**
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive. You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. If you want to delete any cookies that are already on your computer, please refer to the instructions for your browser to locate the file or directory that stores cookies. If you reject all cookies, you may not be able to use some features of the Service.
+#### **1\. Who We Are**
 
-You can find out more about how we use cookies on Busuu here: [www.busuu.com/en/cookies](https://www.busuu.com/en/cookies)
+Chegg, Inc. is the data controller (i.e., the entity that determines the means and purposes of collecting, using, and disclosing personal information) of the personal information that we collect about you when you use Busuu.
 
-Busuu lets other entities that show advertisements or provide services on some of our web pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, and not this policy. Advertisers or other entities do not have access to Busuu's cookies.  
-  
-  
+#### **2\. Personal, Sensitive, and Non-Personal Information We Collect and How We Use and Disclose It**
 
-### **7\. DISCLOSURE OF PERSONAL INFORMATION**
+In addition to the information described in the Chegg Privacy Policy under section 1 _"Personal, Sensitive, and Non-Personal Information We Collect and How We Use and Disclose It"_ (available [here](https://www.chegg.com/en-US/privacypolicy)), we collect the additional following categories of information when you use Busuu:
 
-We display your Profile information (except for your email address and password) to people browsing for friends, and to support other Site functions. Busuu does not rent, sell, or share personal information about you with third parties except to provide products or services you've requested, when we have your permission, or in the following circumstances:
+A. **Online usage information**, which includes content consumed and, where applicable, your answers, course progression, proficiency, and other usage information, such as lesson consumption (e.g., lessons, checkpoints, and certificates), Smart Review consumption, fluency score, Smart Review percentage and strength, number of words learned, and certificates achieved.
 
-* where Busuu is responding to a subpoena, court order, or legal process, or to establish or exercise our legal rights or to defend ourselves against legal claims;
-* where Busuu believes it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Busuu's Terms of Service, or as otherwise required by law;
-* where you are using a Paid Service (including a Premium membership) in your capacity as a student or an employee or other third party using the Paid Service, we may in such circumstances share your personal information with your educational establishment, your employer or any third party paying for the Service on your behalf (as the case may be) to allow them to monitor your use of the Paid Service;
-* where Busuu transfers information about you if Busuu is acquired by or merged with another company. If this happens, Busuu will notify you before information about you is transferred and becomes subject to a different privacy policy.
+**a. Purposes for Collection: (1) Provide You with Services** (provide you with content or other services and allow you to participate in features we offer; send you transactional messages regarding your use of our Services, purchases, and other account-related communications; respond to your inquiries; provide customer support; provide you with your performance evaluations or other results); (2) **Advertising Activities and Marketing Messages** (to send you offers, promotions, invitations, and similar information from us, our advertisers, or third parties); (3) **Personalization** (to identify your preferences; tailor content, including advertising and recommendations, to you on the Services and on other websites and services); (4) **Internal Business Purposes** (to operate and improve our products and services; detect and troubleshoot problems; market research); (5) **Security** (to investigate, prevent, detect, and protect against misuse of our systems, fraud or other crime, or activities that violate our policies); (6) **Legal** (to comply with the law; resolve disputes; enforce our agreements and policies; comply with our contractual obligations; cooperate in governmental or other legal inquiries; fulfill regulatory reporting obligations; protect our or others’ rights or assets); (7) **Business Transitions** (in connection with a merger, acquisition, consolidation, bankruptcy, or other corporate transition, including during due diligence); (8) **Other Purposes as Disclosed** at the time of collection/with your consent
 
-We may share your data including email addresses with other data processors such as Facebook, Google, Braze and Snapchat to provide targeted advertising. For users with a Premium membership sponsored through an organisation we will not share your data for advertising purposes. We also use analytical tools such as Intercom, Braze and Amplitude which in some cases may see your personal data such as IP addresses. In some of these cases the data is transferred out of the EEA.
+**b. Categories of Third Parties the Data May Be Disclosed To: (1) Other Users** (including instructors and students, depending on the Services you interact with); **(2) Affiliated Companies**; **(3) Technology Systems Service Providers** (including webhosts, database hosts, software-as-a-service or other cloud computing providers, and technology maintenance and repair vendors); **(4) Security Vendors; (5) Customer Service Providers** (including call centers and live chat vendors); **(6) Financial Assistance Partners; (7) Third-Party Business Partners** (unaffiliated parties that are joint marketing partners or whose products or services are bundled with our Services); **(8) Government Agencies and Law Enforcement or Where Required By Law; (9) Third Parties in connection with court or other legal actions; (10) Third Parties who acquire the information in connection with a business transition; (11) Third Parties to whom you agree or direct us to share your information; (12) Other service providers who use your data solely to provide services to us or to you**
 
-We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+**c. Third Parties to whom the Data May Be Sold/Shared for Targeted Advertising:** This category of data is not sold or shared for targeted advertising.
 
-Please remember that whenever you disclose personal information online, that information can be collected and used by others. By posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties as a result.
+#### **3\. Non-Personal Information**
 
-We may also disclose your personal information to companies within our group Busuu Online S.L. and Busuu Servicos Online LTDA.  
-  
-  
+We collect, use, and share aggregated data, such as statistical or demographic data, for our lawful business purposes, including to analyze, build, and improve the Services and promote our business, provided that we will not share such data in a manner that could identify you for any purpose. Aggregated data may be derived from personal information, but is not considered personal information as this data does not directly or indirectly reveal your identity. For example, research and survey results will be aggregated and may be used for marketing purposes. We also aggregate usage data to calculate the percentage of users accessing a specific website feature.
 
-### **8\. THIRD-PARTY ADVERTISING**
+However, if we combine or connect aggregated data with your personal information such that it can directly or indirectly identify you, we will treat the combined data as personal information which will be used in accordance with this Supplemental Privacy Policy.
 
-Busuu sometimes displays targeted advertisements based on personal information. Advertisers may assume that people who interact with, view, or click targeted ads meet the relevant targeting criteria (for example, men ages 18-24 from a particular geographic area). Busuu does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.  
-  
-  
+#### **4\. Disclosure of Personal Information**
 
-### **9\. CONFIDENTIALITY AND SECURITY**
+When you use the Busuu service, you may set up your personal profile, connect with other learners, send and receive messages, perform searches and queries, enroll in events and courses, and transmit information through various channels. We display your profile information (except for your email address and password) to other users browsing for friends and to support other site functions.
 
-We shall take measures to protect personal data using reasonable and industry standard security safeguards against loss or theft, as well as unauthorised access, disclosure, copying, improper use or modification.
+Per the Chegg Privacy Policy, we do not allow service providers to use your personal data for their own purposes, and only permit them to process your personal data for specified purposes and in accordance with our instructions.
 
-Your personal data is password protected and, other as set out in this Privacy Policy, can only be seen by you and us. You agree to keep your password(s) confidential and not to disclose them to anyone else, or allow them to be disclosed.
+Further details on our disclosure of data to third parties are provided in the Chegg Privacy Policy under section 2 _"Additional Information Regarding Certain Information and Uses"_ (in particular under sub-section D _"Data We Disclose to Third Parties"_) and section 3 _"Third-Party Advertising and Analytics/Privacy Controls/Do-Not-Track"_ (available [here](https://www.chegg.com/en-GB/privacypolicy)).
 
-Busuu limits access to personal information about you to employees who Busuu reasonably believes need to come into contact with that information, to provide products or the Service to you, or in order to do their jobs.
+We also engage in online advertising practices (and certain analytics or similar activities) that may be considered "targeted advertising" under certain laws. Details on how to opt out of the processing of your personal information for the purposes of targeted advertising and how to exercise your privacy choices are available in the Chegg Privacy Policy under section 4 _"Your Choices and Opt-Out Rights"_ (available [here](https://www.chegg.com/en-GB/privacypolicy))
 
-Busuu has physical, electronic, and procedural safeguards that comply with regulations to protect personal information about you. However, data transmissions over the internet cannot be guaranteed to be 100% secure. Consequently, Busuu cannot ensure or warrant the security of information you transmit to Busuu. In particular, by accessing and using the Service, you do so at your sole risk and you are responsible for restricting access to your computer and ensuring that your computer is free from all types of malicious code, spyware, viruses, Trojans, etc. that may track any data you enter into the Service, including email address and payment related information. We are not responsible for any loss or damage arising from the user’s failure to comply with this paragraph.
+We may also disclose your personal information to companies within our family of companies, including but not limited to Busuu Online S.L.
 
-However, when you pay for a Paid Service, Busuu uses secure payment service providers to make sure that your payments are secure.
+#### **5\. Information Regarding Certain Information and Uses**
 
-Busuu is protected by reCAPTCHA and is subject to the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms).  
-  
-  
+In addition to the uses of information described in the Chegg Privacy Policy under section 2 _"Additional Information Regarding Certain Information and Uses"_ (available [here](https://www.chegg.com/en-GB/privacypolicy)), we use information we collect when you use Busuu in the following ways:
 
-### **10\. THIRD-PARTY WEBSITES**
-
-Where the Site, or any other part of the Service, links to other websites, such other websites do not operate under this Privacy Policy. Busuu recommends that you examine the privacy statements posted on such other websites to understand their procedures for collecting, using, and disclosing personal data.  
-  
-  
-
-### **11\. LESSON RECORDING**
-
-**A. Video Recording.** You acknowledge and agree that Busuu may record videos of your lessons. This recording is intended solely for the purpose of ensuring the quality of lessons and tutoring. Recordings will not be shared externally, used for individual targeting, or used for any sales, marketing, or other promotional purposes. By using Busuu services, you agree and give consent for such recordings that is gratuitous, unsolicited, and without restriction. You agree that Busuu may use these recordings without fiduciary, or other obligation, and without any additional compensation. You may request to remove any existing recordings by writing to [privacy@busuu.com](mailto:privacy@busuu.com).
-
-**B. Audio-Only AI Pronunciation Assistance Recordings (“Speaking Practice”)**
+**A. Audio-Only AI Pronunciation Assistance Recordings ("Speaking Practice")**
 
 _The Speaking Practice feature allows you to practice speaking and receive AI-generated feedback on how to improve your pronunciation._
 
-If you choose to use this feature (which is an AI-powered service), your voice will be recorded, retained, and used to provide you with the service you requested (to provide you with feedback on your pronunciation) and to improve our services. Some portions of this feature are powered by Azure AI Speech services and other service providers. We may also process such audio information to troubleshoot and improve the service by training our machine learning models with support from expert human reviewers. Such audio information will not be used to uniquely identify you.
+If you choose to use this feature (which is an AI-powered service), your voice will be recorded, retained, and used to provide you with the service you requested (to provide you with feedback on your pronunciation) and to improve our services. Some portions of this feature are powered by service providers, such as Azure AI Speech services. We may also process such audio information to troubleshoot and improve the service by training our machine-learning models with support from expert human reviewers. Such audio information will not be used to uniquely identify you.
 
-**C. Audio-Only AI Conversation Recordings (“Busuu Conversations”)**
+**B. Audio-Only Community Recordings ("Community Corrections")**
 
-_The Busuu Conversations feature allow you to have a conversational, spoken interaction with an AI-powered language partner specific to topics you are learning._
+_The Community Corrections feature allows you to either write or record your voice to submit to other Busuu users for feedback. A proficient speaker of the language you are learning will provide feedback, and in turn, you will also have the opportunity to provide feedback to learners of your own language._
 
-If you choose to use this feature (which is an AI-powered service), your voice will be recorded, retained, and used to provide you with the service you requested (to facilitate interactive roleplay scenarios for your language learning) and to improve our services. Some portions of this feature are powered by OpenAI and other service providers. We may also process such audio information to troubleshoot and improve the service by training our machine learning models with support from expert human reviewers. Such audio information will not be used to uniquely identify you.  
-  
-  
+If you choose to participate in the audio component of the Community Corrections feature, your voice will be recorded, retained, and used to provide you with the service you requested and to keep our services safe for all language learners. Such audio information will not be used to uniquely identify you. Additionally, some portions of this feature are supported by service providers for their content moderation services.
 
-### **12\. YOUR LEGAL RIGHTS**
+**C. Audio-Only AI Conversations Recordings ("Conversations")**
 
-You have the right to:
+_The Conversations feature allows you to have a conversational, spoken interaction with an AI-powered language partner specific to topics you are learning._
 
-**Request access** to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.  
-**Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.  
-**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.  
-**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.  
-**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data's accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.  
-**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to form a contract with you.  
-**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.  
+If you choose to use this feature (which is an AI-powered service), your voice will be recorded, retained, and used to provide you with the service you requested (to facilitate interactive conversational scenarios for your language learning) and to improve our services. Some portions of this feature are powered by OpenAI and other service providers. We may also process such audio information to troubleshoot and improve the service by training our machine-learning models with support from expert human reviewers. Such audio information will not be used to uniquely identify you.
 
-If you wish to exercise any of the rights set out above, please contact us as detailed below. You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances. We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.  
-  
-  
+#### **6\. Information for European Union/European Economic Area and United Kingdom Residents**
 
-### **13\. CALIFORNIA PRIVACY RIGHTS**
+You can find out about the legal bases we rely upon and how they relate to the ways in which we process your information in the Chegg Privacy Policy under section 11 _"Information for European Union/European Economic Area and United Kingdom Residents"_ (available [here](https://www.chegg.com/en-GB/privacypolicy)).
 
-#### Personal Data We Collect about California Consumers
+In relation to video or audio recording when using certain community or AI-powered features, we rely on our legitimate interests to improve our services in accordance with your choices.
 
-Additional Notice for California Consumers - This part of our Privacy Policy applies to consumers who reside in California. We have included this additional notice to give California consumers the disclosures that are required by California laws.
+#### **7\. Data Privacy Choices**
 
-The California Consumer Privacy Act of 2018 (“CCPA”) and other California laws use the term “personal information” to describe the personal data of California consumers. In this portion of our Privacy Policy, we use “personal information” for the sake of consistency with California laws, but personal information includes “personal data” as used elsewhere throughout the Privacy Policy.  
-We describe the personal information we have collected from consumers in the twelve (12) months preceding the effective date of this Privacy Policy in Article 2 (Information We Collect and Receive) of our Privacy Policy. For more information, please see Article 2.
+You can learn more about the consumer privacy choices that may be available to you by reviewing section 4 of the Chegg Privacy Policy available [here](https://www.chegg.com/en-GB/privacypolicy).
 
-#### Disclosures of Personal Information for Monetary or Other Valuable Consideration or for Business Purposes
+In particular, you may, for example, request a copy of the personal information held about you, or request changes or the deletion of your personal information, by sending an email to privacy@busuu.com.
 
-We do not sell consumers’ personal information in the sense that most people think of selling, but we do provide it to other companies that you should expect to interact with, such as your employer and those companies we have contracted with to help provide some part of our services, like marketing services providers and sponsors of events. The term, “sale,” is broadly defined in CCPA and includes any sharing of your personal information to a third party for consideration if the third party might use the information for their own purpose (such as in advertising or analytics). As is common practice among businesses that operate websites, we may have disclosed certain online identifiers, information about the use of our Site and inferences drawn about you to our social media, advertising and analytics partners for our marketing and related purposes. While we do not view these data sharing activities as “sales” under CCPA, if you wish to opt-out of our uses of personal information for these purposes, see your options under Article 12 (Your Legal Rights) and Article 13 (Contacting Busuu) in this Privacy Policy. We don't intend for our Site or Services to be used by anyone under 16 and therefore do not knowingly collect or disclose personal information of individuals under age 16. We have disclosed personal information in all or substantially all of the categories of personal information identified in this Privacy Policy for various business purposes. For more information about (A) the categories of personal information we have disclosed, see Article 2; (B) the categories of entities with which we have disclosed this information, see Article 7; and (C) the purposes for which we have disclosed and use the information, see Articles 2 and 3. Other articles in this Privacy Policy have relevant information about these categories, disclosures and uses as well.
+#### **8\. Contact Us**
 
-#### Your California Privacy Rights
-
-If you are a California resident, you have the following rights. We will honor requests received to the extent required by applicable law and within the time provided by law.
-
-#### Right to Access and Information Regarding Personal Information:
-
-You have the right to request that we disclose to you the categories and specific pieces of personal information we have collected about you. Specifically, you have the right to request that we disclose the following to you, in each case in the twelve-month period preceding your request:
-
-* The categories of personal information we have collected about you;
-* The categories of sources from which the personal information is collected;
-* Our business or commercial purpose for collecting or selling personal information;
-* The categories of third parties with whom we share personal information;
-* The specific pieces of information we have collected about you;
-* The categories of personal information about you, if any, that we have disclosed for monetary or other valuable consideration and the categories of third parties to which we have disclosed the information, by category or categories of personal information for each third party to which we disclosed the personal information; and
-* The categories of personal information about you that we disclosed for a business purpose.
-
-If not already disclosed or provided by the disclosures in this Privacy Policy, we will deliver the personal information and information categories that we are required by law to disclose to you in the manner required by law within 45 days after receipt of a verifiable request, unless we notify you that we require additional time to respond, in which case we will respond within such additional period of time required by law. We may deliver such information to you through your account, if you maintain an account with us.
-
-#### Right to Deletion of Personal Information:
-
-See your right to request erasure of your personal information in Article 12.
-
-#### Right to Opt Out:
-
-You have the right to opt out of the disclosure of personal information about you for monetary or other valuable consideration. To Opt-Out, see the “Requests to Exercise Your Rights” section below.
-
-#### Right to No Discrimination:
-
-We may not discriminate against you because of your exercise of any of the foregoing rights under the CCPA. We may however, charge different prices or rates, or provide a different level or quality of goods or services, if that difference is reasonably related to the value provided to us by your personal information.
-
-#### Requests to Exercise Your Rights:
-
-If you are a California resident, you or your agent acting on your behalf may request to exercise the foregoing rights by:
-
-* Submitting a request to us as directed in Article 14 (Contacting Busuu)
-
-Please note that we may take steps to verify your or identity and, if applicable, your agent’s identity and authorization to act on your behalf, before granting you or your agent access to information or acting on your request to exercise your rights, as required or permitted by law. We may limit our response to your exercise of the above rights as permitted by law.
-
-#### Data Sharing for Direct Marketing Purposes
-
-If you are a California resident, you may ask us for a notice describing what categories of personal information we share with third parties or affiliates for those third parties or affiliates’ direct marketing purposes and identify the name and address of the third parties that received such personal information. We do not share this information with others for their direct marketing purposes.  
-  
-  
-
-### **14\. CONTACTING BUSUU**
-
-Busuu is the trading name of Busuu Limited with registered address at Broadwalk House, 5 Appold Street, London, EC2A 2AG.
-
-You may obtain a copy of the personal data held about you that you provide through the Site or otherwise request that Busuu updates, makes changes or deletes personal information by sending an email to [privacy@busuu.com](mailto:privacy@busuu.com). If you have any questions or suggestions regarding our Privacy Policy, you can contact Busuu by email at [privacy@busuu.com](mailto:privacy@busuu.com).  
-  
-Last updated: August 2024
+If you would like to exercise a privacy choice, or if you have any questions or suggestions regarding our privacy practices, you can contact us by email at privacy@busuu.com, or by writing to us at Broadwalk House, 5 Appold Street, London, EC2A 2AG, United Kingdom.
