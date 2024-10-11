@@ -171,7 +171,7 @@ By submitting this form, you agree to receive updates and marketing material fro
 
 ![Certified logos](https://cdn.prod.website-files.com/63e25be3f4b49456411df88b/64e0a88c0d4d27bf8e59f58a_64bf723657d39ac56607a688_ee7e6df2-screen-shot-2023-07-19-at-7-14-47-pm_10lm05m000000000000028.png)
 
-[1-833-5ACTION (1-833-5228466)](tel:1-833-5228466)[info@rezolve.ai](mailto:info@rezolve.ai?subject=You've%20got%20email%20from%20website)
+[1-833-5ACTION (1-833-5228466)](tel:1-833-5228466)[\[email protected\]](https://www.rezolve.ai/cdn-cgi/l/email-protection)
 
 Solutions
 
