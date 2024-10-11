@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KYTX/images/604fe8d9-c17a-4139-b410-5b520486b4df/20241011T014825/604fe8d9-c17a-4139-b410-5b520486b4df_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/604fe8d9-c17a-4139-b410-5b520486b4df/20241011T014825/604fe8d9-c17a-4139-b410-5b520486b4df_360x203.jpg)](https://www.kagstv.com/article/news/local/east-texas-golf-course-lets-you-hit-golf-balls-at-donald-trump-kamala-harris/501-37f8cc74-4c5d-4f6b-a781-e39f947197d3)
+    *  [![](https://media.kagstv.com/assets/KUSA/images/bc0afd67-7492-447a-a107-c45677099179/20241011T191120/bc0afd67-7492-447a-a107-c45677099179_16x9.jpg) ![](https://media.kagstv.com/assets/KUSA/images/bc0afd67-7492-447a-a107-c45677099179/20241011T191120/bc0afd67-7492-447a-a107-c45677099179_360x203.jpg)](https://www.kagstv.com/article/news/local/equipment-malfunction-gold-mine-attraction-cripple-creek/73-fb8dcc8d-4e97-4745-bd93-538501133f3c)
         
-        #### [FORE! East Texas golf course lets people hit golf balls at Donald Trump, Kamala Harris](https://www.kagstv.com/article/news/local/east-texas-golf-course-lets-you-hit-golf-balls-at-donald-trump-kamala-harris/501-37f8cc74-4c5d-4f6b-a781-e39f947197d3)
+        #### [Mine tour guide identified as victim of accident Mollie Kathleen Gold Mine](https://www.kagstv.com/article/news/local/equipment-malfunction-gold-mine-attraction-cripple-creek/73-fb8dcc8d-4e97-4745-bd93-538501133f3c)
         
-    *  [![](https://media.kagstv.com/assets/KYTX/images/a77f2dd4-58d2-4379-86a1-921ebaf93bee/a77f2dd4-58d2-4379-86a1-921ebaf93bee_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/a77f2dd4-58d2-4379-86a1-921ebaf93bee/a77f2dd4-58d2-4379-86a1-921ebaf93bee_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-one-pill-kills-campaign-generates-over-billion-impressions/501-b879fd79-3c11-49ea-aac8-0499954e57bf)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/feebce07-09eb-4cee-b9e7-ae386f12fa88/20241011T175717/feebce07-09eb-4cee-b9e7-ae386f12fa88_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/feebce07-09eb-4cee-b9e7-ae386f12fa88/20241011T175717/feebce07-09eb-4cee-b9e7-ae386f12fa88_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-bryan-tx-on-oct-10-2024/500-cd6ec1e3-4049-4020-9a6f-dd1b0836e5de)
         
-        #### [Texas' "One Pill Kills" campaign generates over 1.5 billion impressions](https://www.kagstv.com/article/news/local/texas-one-pill-kills-campaign-generates-over-billion-impressions/501-b879fd79-3c11-49ea-aac8-0499954e57bf)
+        #### [Have you seen this person? Bryan authorities seeking help finding missing 14-year-old](https://www.kagstv.com/article/news/local/missing-14-year-old-last-seen-in-bryan-tx-on-oct-10-2024/500-cd6ec1e3-4049-4020-9a6f-dd1b0836e5de)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-72°
+92°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
