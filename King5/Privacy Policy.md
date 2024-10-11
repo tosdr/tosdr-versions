@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/29c022fd-3b8a-44e6-afd3-79fad9415910/20241011T062814/29c022fd-3b8a-44e6-afd3-79fad9415910_16x9.jpg) ![](https://media.king5.com/assets/KING/images/29c022fd-3b8a-44e6-afd3-79fad9415910/20241011T062814/29c022fd-3b8a-44e6-afd3-79fad9415910_360x203.jpg)](https://www.king5.com/article/news/crime/shooting-nova-high-school-garfield-high-school-seattle/281-fb3d12ac-19a4-468f-8cea-a5ab7c74c62f)
+    *  [![](https://media.king5.com/assets/KING/images/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff/20241011T141409/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff/20241011T141409/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff_360x203.jpg)](https://www.king5.com/article/news/local/northern-lights-photos-washington-state/281-1600d11f-840c-4bf5-87b5-0cc7184762f9)
         
-        #### [Police say bullet from drive-by shooting hit window of Seattle high school](https://www.king5.com/article/news/crime/shooting-nova-high-school-garfield-high-school-seattle/281-fb3d12ac-19a4-468f-8cea-a5ab7c74c62f)
+        #### [Northern lights spotted all over Washington state after powerful geomagnetic storm](https://www.king5.com/article/news/local/northern-lights-photos-washington-state/281-1600d11f-840c-4bf5-87b5-0cc7184762f9) [![](https://media.king5.com/assets/KING/images/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff/20241011T141409/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff/20241011T141409/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff_360x203.jpg)](https://www.king5.com/article/news/local/northern-lights-photos-washington-state/281-1600d11f-840c-4bf5-87b5-0cc7184762f9)
         
-    *  [![](https://media.king5.com/assets/KING/images/3cefbc30-7965-44ee-8c7f-e1f11714488c/20240918T011344/3cefbc30-7965-44ee-8c7f-e1f11714488c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3cefbc30-7965-44ee-8c7f-e1f11714488c/20240918T011344/3cefbc30-7965-44ee-8c7f-e1f11714488c_360x203.jpg)](https://www.king5.com/article/news/local/historic-cabins-cama-beach-state-park-permanently-close-commission-decides/281-b5883944-e59b-46f7-89ee-7f658daf9bd4)
+        #### [PHOTOS: Northern lights spotted all over Washington state Thursday night](https://www.king5.com/article/news/local/northern-lights-photos-washington-state/281-1600d11f-840c-4bf5-87b5-0cc7184762f9)
+    *  [![](https://media.king5.com/assets/KING/images/a3e97238-7cc0-41ff-8489-ad702391cb3b/20240919T175316/a3e97238-7cc0-41ff-8489-ad702391cb3b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3e97238-7cc0-41ff-8489-ad702391cb3b/20240919T175316/a3e97238-7cc0-41ff-8489-ad702391cb3b_360x203.jpg)](https://www.king5.com/article/news/crime/i-5-shooting-spree-suspect-not-competent-stand-trial/281-82934dc8-add8-45fb-b932-c64638f2fc37)
         
-        #### [Historic cabins at Cama Beach State Park will permanently close, commission decides](https://www.king5.com/article/news/local/historic-cabins-cama-beach-state-park-permanently-close-commission-decides/281-b5883944-e59b-46f7-89ee-7f658daf9bd4)
+        #### [Judge rules I-5 shooting spree suspect incompetent to stand trial](https://www.king5.com/article/news/crime/i-5-shooting-spree-suspect-not-competent-stand-trial/281-82934dc8-add8-45fb-b932-c64638f2fc37)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ad7a8b9a-4aff-411d-aea8-9a22c9ad25d9/20241011T034139/ad7a8b9a-4aff-411d-aea8-9a22c9ad25d9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ad7a8b9a-4aff-411d-aea8-9a22c9ad25d9/20241011T034139/ad7a8b9a-4aff-411d-aea8-9a22c9ad25d9_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/5f31c9ff-8a40-4363-b3d3-2e5d3511460b/20241011T123244/5f31c9ff-8a40-4363-b3d3-2e5d3511460b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5f31c9ff-8a40-4363-b3d3-2e5d3511460b/20241011T123244/5f31c9ff-8a40-4363-b3d3-2e5d3511460b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+49°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
