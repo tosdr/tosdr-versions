@@ -81,7 +81,7 @@ Learn more about the benefits of Juniper’s Client-to-Cloud Architecture.
 * [Enterprise WAN](https://www.juniper.net/us/en/solutions/enterprise-wan.html)
 * [Enterprise at Home](https://www.juniper.net/us/en/solutions/enterprise-at-home.html)
 * [Indoor Location](https://www.juniper.net/us/en/solutions/indoor-location.html)
-* [SASE](https://www.juniper.net/us/en/solutions/sase.html)
+* [SASE](https://www.juniper.net/us/en/solutions/secure-ai-native-edge/sase.html)
 * [IoT](https://www.juniper.net/us/en/solutions/iot.html)
 
 [Service Provider](https://www.juniper.net/us/en/service-provider.html)
@@ -109,12 +109,12 @@ Enabling innovation for cloud operators.
 
 Make your network threat aware with Juniper Connected Security.
 
-* [SASE](https://www.juniper.net/us/en/solutions/sase.html)
+* [SASE](https://www.juniper.net/us/en/solutions/secure-ai-native-edge/sase.html)
 * [Next-Generation Firewalls](https://www.juniper.net/us/en/solutions/next-gen-firewall.html)
 * [Public Cloud Security](https://www.juniper.net/us/en/solutions/public-cloud-security.html)
 * [Threat Detection & Mitigation](https://www.juniper.net/us/en/solutions/threat-detection-and-mitigation.html)
 * [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
-* [Secure Data Center](https://www.juniper.net/us/en/solutions/data-center/secure-data-center.html)
+* [Secure Data Center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
 * [Service Provider Security](https://www.juniper.net/us/en/solutions/service-provider-security.html)
 
 [Software & SaaS](https://www.juniper.net/us/en/products/software.html)
@@ -128,7 +128,7 @@ Discover cloud delivered or on-premise offerings.
 * [Security](https://www.juniper.net/us/en/security.html)
 * [Telco Cloud](https://www.juniper.net/us/en/solutions/telco-cloud.html)
 * [Juniper Flex Licensing](https://www.juniper.net/us/en/products/software/flex.html)
-* [SASE](https://www.juniper.net/us/en/solutions/sase.html)
+* [SASE](https://www.juniper.net/us/en/solutions/secure-ai-native-edge/sase.html)
 
 Featured Products
 
@@ -157,7 +157,7 @@ Featured Solutions
 * [Data Center](https://www.juniper.net/us/en/solutions/data-center.html)
 * [Indoor Location](https://www.juniper.net/us/en/solutions/indoor-location.html)
 * [IP Transport](https://www.juniper.net/us/en/solutions/ip-transport-solution.html)
-* [SASE](https://www.juniper.net/us/en/solutions/sase.html)
+* [SASE](https://www.juniper.net/us/en/solutions/secure-ai-native-edge/sase.html)
 * [SD-WAN](https://www.juniper.net/us/en/solutions/sd-wan.html)
 * [Wired Access](https://www.juniper.net/us/en/solutions/wired-access.html)
 * [Wireless Access](https://www.juniper.net/us/en/solutions/wireless-access.html)
@@ -225,9 +225,9 @@ The Juniper Mist Cloud delivers a modern microservices cloud architecture to mee
 
 Recommended for you
 
-[![Zero Trust Security](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Zero Trust Security")](https://www.juniper.net/us/en/solutions/data-center/secure-data-center.html)
+[![Zero Trust Security](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Zero Trust Security")](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
 
-[Zero Trust Data Center](https://www.juniper.net/us/en/solutions/data-center/secure-data-center.html)
+[Zero Trust Data Center](https://www.juniper.net/us/en/solutions/data-center/zero-trust-data-center.html)
 
 Apply a Zero Trust framework to your data center network security architecture to protect data and applications.
 
