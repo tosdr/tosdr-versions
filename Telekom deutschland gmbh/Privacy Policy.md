@@ -1018,7 +1018,7 @@ Datentransparenz](https://www.telekom.de/ueber-das-unternehmen/datenschutz/daten
     **Über den Utiq Service**
     
     Die Utiq SA/NV („Utiq“) ist ein europäisches AdTech-Unternehmen. Gestützt von mehreren Telekommunikations-Netzbetreibern, betreibt Utiq einen so genannten Authentic Consent Service („Utiq Service“) für verantwortungsvolles digitales Marketing.   
-    Der Utiq Service bietet Ihnen mehr Kontrolle und Transparenz über die Verwendung Ihrer Daten, wenn Sie auf Utiqs Partnerwebseiten personalisierten Erlebnissen oder Analysen zustimmen. Als Teil des Utiq Services erhalten Sie Zugang zu einem zentralen Datenschutz-Selbstverwaltungsportal, dem so genannten Utiq [consenthub](https://consenthub.utiq.com/ "Zu Utiq"). Dort können Sie Ihre Präferenzen für den Utiq Service und Ihre Utiq Einwilligungen verwalten und Ihre Datenschutzrechte ausüben. Alles an einem Ort und zu jeder Zeit.
+    Der Utiq Service bietet Ihnen mehr Kontrolle und Transparenz über die Verwendung Ihrer Daten, wenn Sie auf Utiqs Partnerwebseiten personalisierten Erlebnissen oder Analysen zustimmen. Als Teil des Utiq Services erhalten Sie Zugang zu einem zentralen Datenschutz-Selbstverwaltungsportal, dem so genannten Utiq [consenthub](https://consenthub.utiq.com/ "Zu Utiq's consenthub"). Dort können Sie Ihre Präferenzen für den Utiq Service und Ihre Utiq Einwilligungen verwalten und Ihre Datenschutzrechte ausüben. Alles an einem Ort und zu jeder Zeit.
     
     **Über unsere Partnerschaft mit Utiq**
     
@@ -1027,8 +1027,8 @@ Datentransparenz](https://www.telekom.de/ueber-das-unternehmen/datenschutz/daten
     
     **Wie Sie Ihren Utiq-Dienst verwalten können**
     
-    Über den Utiq [consenthub](https://consenthub.utiq.com/ "Zu Utiq") können Sie jederzeit Ihre Utiq Einwilligungen einsehen und verwalten, alle von Ihnen erteilten Einwilligungen widerrufen, den Service deaktivieren oder seine Aktivierung unterbinden. Wenn Sie dort Ihre Einwilligung widerrufen, bedeutet das auch, dass Sie die Einwilligung zur Datenverarbeitung durch die Telekom Deutschland GmbH widerrufen.   
-    Weitere Informationen über den Utiq Service finden Sie im Utiq [consenthub](https://consenthub.utiq.com/ "Zu Utiq") oder in der [Datenschutzerklärung von Utiq](https://consenthub.utiq.com/pages/privacy-statement "Zum Utiq consenthub Privacy Statement").
+    Über den Utiq [consenthub](https://consenthub.utiq.com/ "Zu Utiq's consenthub") können Sie jederzeit Ihre Utiq Einwilligungen einsehen und verwalten, alle von Ihnen erteilten Einwilligungen widerrufen, den Service deaktivieren oder seine Aktivierung unterbinden. Wenn Sie dort Ihre Einwilligung widerrufen, bedeutet das auch, dass Sie die Einwilligung zur Datenverarbeitung durch die Telekom Deutschland GmbH widerrufen.   
+    Weitere Informationen über den Utiq Service finden Sie im Utiq [consenthub](https://consenthub.utiq.com/ "Zu Utiq's consenthub") oder in der [Datenschutzerklärung von Utiq](https://consenthub.utiq.com/pages/privacy-statement#telecom-operators "Zum Utiq consenthub Privacy Statement").
     
       
     
