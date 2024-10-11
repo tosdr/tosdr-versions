@@ -372,6 +372,7 @@ ADT’s entities and affiliates listed to the left are covered by this policy.
   
 
 Sign up for email to hear about new offers, products and more
+-------------------------------------------------------------
 
 Email\* 
 
