@@ -150,6 +150,7 @@ Latest reactions
 
 Latest forum posts
 
+* [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card "MFRSCC+SD FAT12 & FAT16 partition on one card.")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=122 "Please help testing upcoming openMSX release!")
 * [MSX Bluetooth transmitter](https://www.msx.org/forum/msx-talk/hardware/msx-bluetooth-transmitter "MSX Bluetooth transmitter")
 * [Looking for ROBOPAL (by BANDAI) software](https://www.msx.org/forum/msx-talk/software/looking-for-robopal-by-bandai-software "Looking for ROBOPAL (by BANDAI) software")
@@ -157,7 +158,6 @@ Latest forum posts
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 * [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
 * [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
-* [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card "MFRSCC+SD FAT12 & FAT16 partition on one card.")
 * [Two different flash cartridges hanging up on boot.](https://www.msx.org/forum/msx-talk/general-discussion/two-different-flash-cartridges-hanging-up-on-boot "Two different flash cartridges hanging up on boot. ")
 * [programming eprom games 8k](https://www.msx.org/forum/msx-talk/hardware/programming-eprom-games-8k "programming eprom games 8k")
 * [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
