@@ -4,11 +4,11 @@
     * [0th](#)
         * [![](https://media.bazaarvoice.com/Platform-Rocket-tiny.png)
             
-            Build a vibe that’s unmistakably yours.
+            Supercharge your commerce engine.
             
-            Bazaarvoice Vibe helps marketing and commerce teams source, amplify, and optimize creator and user-generated content across all channels from one place.
+            Let us show you how to leverage user-generated content (UGC) across the entire consumer journey and win the omnichannel experience.
             
-            Learn more
+            Platform overview
             
             Our HarmonyAI engine
             
