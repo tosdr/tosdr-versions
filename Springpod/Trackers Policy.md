@@ -51,7 +51,7 @@ Allow you to share pages with social networks such as Facebook, Twitter and Goog
 ‍  
 The Site will not share any personal information with third parties that are not members of the Site without your express permission.
 
-[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/633d6296accedca308f4e7be_Springpod%20logo%20-%20no%20R%20mark%20-%20white.svg)](http://www.springpod.co.uk/)[hello@springpod.com](mailto:hello@springpod.com?subject=Hello%20Springpod!)
+[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/633d6296accedca308f4e7be_Springpod%20logo%20-%20no%20R%20mark%20-%20white.svg)](http://www.springpod.co.uk/)[\[email protected\]](https://springpod.co.uk/cdn-cgi/l/email-protection)
 
 #### Legal
 
