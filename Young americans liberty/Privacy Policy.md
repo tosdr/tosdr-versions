@@ -1,4 +1,4 @@
-[![](https://yaliberty.org/wp-content/uploads/2023/02/YAL-logo-horz-eagle-tm-navy.png "YAL-logo-horz-eagle-tm-navy")](https://yaliberty.org/)
+[![](https://yaliberty.org/wp-content/uploads/2024/10/YAL-Logo.png "YAL-Logo")](https://yaliberty.org/)
 
 0
 
@@ -14,7 +14,7 @@ Go To Shopping
     * [Start a Chapter](https://yaliberty.org/start-a-chapter/)
     * [YALCON](https://yaliberty.org/?page_id=13766)
     * [Grassroots Action Trainings](https://yaliberty.org/gat/)
-    * [Student Rights Campaign](https://yaliberty.org/?page_id=4760)
+    * [Student Rights Campaign](https://yaliberty.org/src/)
     * [Discussion Workshops](https://yaliberty.org/workshops/)
     * [Operation Win at the Door](https://yaliberty.org/door/)
         * [Legislative Coordinator Application](https://yaliberty.org/knock/)
@@ -31,7 +31,7 @@ Go To Shopping
     * [Jobs](https://yaliberty.isolvedhire.com/jobs/)
     * [Planned Giving](https://yaliberty.org/planned-giving/)
 
-[![](https://yaliberty.org/wp-content/uploads/2023/02/YAL-logo-horz-eagle-tm-navy.png "YAL-logo-horz-eagle-tm-navy")](https://yaliberty.org/)
+[![](https://yaliberty.org/wp-content/uploads/2024/10/YAL-Logo.png "YAL-Logo")](https://yaliberty.org/)
 
 [](https://www.facebook.com/yaliberty/) [](https://twitter.com/yaliberty/) [](https://www.youtube.com/user/YALiberty/) [](https://www.instagram.com/yaliberty/)  
 [Donate](https://secure.anedot.com/yalc4/general)
@@ -42,7 +42,7 @@ Go To Shopping
     * [Start a Chapter](https://yaliberty.org/start-a-chapter/)
     * [YALCON](https://yaliberty.org/?page_id=13766)
     * [Grassroots Action Trainings](https://yaliberty.org/gat/)
-    * [Student Rights Campaign](https://yaliberty.org/?page_id=4760)
+    * [Student Rights Campaign](https://yaliberty.org/src/)
     * [Discussion Workshops](https://yaliberty.org/workshops/)
     * [Operation Win at the Door](https://yaliberty.org/door/)
         * [Legislative Coordinator Application](https://yaliberty.org/knock/)
