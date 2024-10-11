@@ -205,25 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Animal Anomalies](https://www.somethingawful.com/photoshop-phriday/animal-anomalies/1/)
-* [Making Anime](https://www.somethingawful.com/guides/guide-making-anime/1/)
-* [Goon on Girl Action](https://www.somethingawful.com/great-goon-database/great-goon-girls/1/)
-* [Wool Fetish SWAT](https://www.somethingawful.com/fashion-swat/wool-swat-german/1/)
-* [Choose Your Own Adventure: Quest for Mtn Dew](https://www.somethingawful.com/news/choose-dew/1/)
+* [Fall TV Preview](https://www.somethingawful.com/news/fall-television-preview/1/)
+* [The Simcity Board of Advisors](https://www.somethingawful.com/news/simcity-advisors/1/)
+* [\[Slide Show\] The Sexiest Photos From the Victoria's Secret Fashion Show 2013](https://www.somethingawful.com/news/victorias-secret-stone/1/)
+* [GSElevator's How to Trap, Kill, and Eat a Goldman Sachs Banker](https://www.somethingawful.com/news/gselevator-goldman-sachs/1/)
+* [Yankee Candles](https://www.somethingawful.com/photoshop-phriday/yankee-candles/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [things people think are specific to where they live but arent](http://forums.somethingawful.com/showthread.php?threadid=4072393 "things people think are specific to where they live but arent")
-* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Thread for fooling AI](http://forums.somethingawful.com/showthread.php?threadid=4072390 "Thread for fooling AI")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Thread for going down a mineshaft in Cripple Creek and dying](http://forums.somethingawful.com/showthread.php?threadid=4072421 "Thread for going down a mineshaft in Cripple Creek and dying")
+* ![](https://fi.somethingawful.com/forums/posticons/dd-9-11.gif) [ITT it is the 1990s and we are watching TV at 2AM](http://forums.somethingawful.com/showthread.php?threadid=4072465 "ITT it is the 1990s and we are watching TV at 2AM")
 
 ### Random Articles
 
-* [Study: Participation Awards to Blame for Most Things](https://www.somethingawful.com/news/participation-award-crisis/)
-* [Haunted House Ride](https://www.somethingawful.com/news/haunted-house-ride/)
-* [Internet Guide Presents Tonight's Programming Schedule](https://www.somethingawful.com/news/site-guide-google/)
-* [Library of Moria](https://www.somethingawful.com/awful-links/awful-link-2514/)
-* [Let's Carve Virtual Pumpkins!](https://www.somethingawful.com/photoshop-phriday/carve-virtual-pumpkins/1/)
+* [A Religious Experience](https://www.somethingawful.com/news/a-religious-experience/)
+* [State Og Monthly Report](https://www.somethingawful.com/state-og/state-og-monthly/)
+* [Oblivion; 42; The Place Beyond the Pines; Scary Movie 5](https://www.somethingawful.com/current-movie-reviews/oblivion-42/1/)
+* [Gothic Chicago](https://www.somethingawful.com/awful-links/awful-link-1030/)
+* [Mystery date...](https://www.somethingawful.com/news/mystery-date/)
 
 [Random!](https://www.somethingawful.com/random/)
 
