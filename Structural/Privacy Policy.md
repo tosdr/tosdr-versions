@@ -98,7 +98,7 @@ Let's talk
 
 Let's talk](https://www.structural.com/company/contact-us)
 
-[651.917.9143](tel:+16519179143)[info@augeomarketing.com](mailto:info@augeomarketing.com?subject=Augeo)
+[651.917.9143](tel:+16519179143)[\[email protected\]](https://www.structural.com/cdn-cgi/l/email-protection)
 
 [![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63e152ce0b194662b56c30a2_LinkedIn.svg)](https://www.linkedin.com/company/augeo./mycompany/)[![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63e152ce0b19466c3a6c30a3_Instagram.svg)](https://www.instagram.com/augeomarketing/)
 
@@ -391,7 +391,7 @@ In the unfortunate event that your “personally identifiable information” (as
 ### 8\. Your Choices & Obligations
 
 8.1. Rights to Access, Correct, or Delete Your Information, and Closing Your Account  
-You have a right to (1) access, modify, correct, or delete your personal information controlled by Structural regarding your profile and (2) change or remove your content. Your organization provides your first name, last name, and company email address as a requirement of our services agreement; other information that either you or your company provides can be modified, corrected or deleted. You can request for your information be deleted by contacting us at [support@structural.com](mailto:support@structural.com). However, we recommend you contact the person at your organization responsible for your Structural account prior to requesting the deletion of any data, as it may remove your ability to access our services, and will reduce the information available to your organization via our platform. You can request your personal information that is not viewable on your profile or readily accessible to you (if any) by contacting [support@structural.com](mailto:support@structural.com). If you or your employer terminate your employment, your information will generally be removed from the Service within 24 hours.
+You have a right to (1) access, modify, correct, or delete your personal information controlled by Structural regarding your profile and (2) change or remove your content. Your organization provides your first name, last name, and company email address as a requirement of our services agreement; other information that either you or your company provides can be modified, corrected or deleted. You can request for your information be deleted by contacting us at [\[email protected\]](https://www.structural.com/cdn-cgi/l/email-protection). However, we recommend you contact the person at your organization responsible for your Structural account prior to requesting the deletion of any data, as it may remove your ability to access our services, and will reduce the information available to your organization via our platform. You can request your personal information that is not viewable on your profile or readily accessible to you (if any) by contacting [\[email protected\]](https://www.structural.com/cdn-cgi/l/email-protection). If you or your employer terminate your employment, your information will generally be removed from the Service within 24 hours.
 
 Please note: If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers. Despite such removal, portions of your data may remain on our production and back-up servers indefinitely. Information you have shared with others (for example, through profile updates, announcements, or polls) or that others have copied may also remain visible after you have closed your account or deleted the information from your own profile. In addition, you may not be able to access, correct, or eliminate any information about you that other Users copied or exported out of our Services, because this information may not be in our control.
 
@@ -422,7 +422,7 @@ We have implemented security safeguards designed to protect the personal informa
 If you are accessing the Site while in the European Economic Area, please review our GDPR notice available [here](https://www.structural.com/structural/gdpr-notice).
 
 How To Contact Us  
-If you have questions or comments about this Privacy Policy, please contact us online at [support@structural.com](mailto:support@structural.com) or by physical mail at:
+If you have questions or comments about this Privacy Policy, please contact us online at [\[email protected\]](https://www.structural.com/cdn-cgi/l/email-protection) or by physical mail at:
 
 Structural, an Augeo company  
 Attn: Privacy Policy Issues  
@@ -457,7 +457,7 @@ Media
 
 [All media](https://www.structural.com/media-all)[Blog posts](https://www.structural.com/blog-posts)[Guides](https://www.structural.com/guides)[Webinars](https://www.structural.com/webinars)[Podcasts](https://www.structural.com/podcasts)[Press releases](https://www.structural.com/press-releases)[Case studies](https://www.structural.com/case-studies)[Industry awards](https://www.structural.com/industry-awards)[eBooks](#)![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/64d15beda45fa1435f3ab5c0_Carrot-down.svg)
 
-[651.917.9143](tel:+16519179143)[info@augeomarketing.com](mailto:info@augeomarketing.com?subject=I'm%20ready%20to%20elevate%20my%20strategy%20with%20Augeo)
+[651.917.9143](tel:+16519179143)[\[email protected\]](https://www.structural.com/cdn-cgi/l/email-protection)
 
 [![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63e152ce0b194662b56c30a2_LinkedIn.svg)](https://www.linkedin.com/company/augeo./mycompany/)[![](https://cdn.prod.website-files.com/63a9e1371ec7d68018db1c47/63e152ce0b19466c3a6c30a3_Instagram.svg)](https://www.instagram.com/augeomarketing/)
 
