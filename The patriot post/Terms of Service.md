@@ -191,7 +191,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/110971-grow-your-vegetables-2024-10-10)
+     [](https://patriotpost.us/memes/110995-what-it-means-2024-10-11)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -203,6 +203,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Mark Alexander Profiles of Valor: He Saved Our Lives](https://patriotpost.us/alexander/110987-profiles-of-valor-he-saved-our-lives-2024-10-11)
 *      [Larry Elder Hurricane Helene — and the ‘Climate Change’ Experts](https://patriotpost.us/opinion/110967-hurricane-helene-and-the-climate-change-experts-2024-10-10)
 *      [Jeff Jacoby For U.S. Jews, the Postwar Years Were a Golden Age. It Ended on Oct. 7.](https://patriotpost.us/opinion/110966-for-us-jews-the-postwar-years-were-a-golden-age-it-ended-on-oct-7-2024-10-10)
 *      [Cal Thomas Harris on ‘60 Minutes’](https://patriotpost.us/opinion/110965-harris-on-60-minutes-2024-10-10)
@@ -210,8 +211,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Gary Bauer Terror Attack Foiled](https://patriotpost.us/opinion/110962-terror-attack-foiled-2024-10-10)
 *      [Armstrong Williams Echoes of a Day That Shook Israel’s Soul](https://patriotpost.us/opinion/110960-echoes-of-a-day-that-shook-israels-soul-2024-10-10)
 *      [Ann Coulter Democrats’ Third World Reasoning](https://patriotpost.us/opinion/110959-democrats-third-world-reasoning-2024-10-10)
-*      [The Babylon Bee CBS Reveals They Interviewed Kamala for 721 Hours in Order to Compile ‘60 Minutes’ of Usable Footage](https://patriotpost.us/opinion/110958-cbs-reveals-they-interviewed-kamala-for-721-hours-in-order-to-compile-60-minutes-of-usable-footage-2024-10-10)
-*      [Guest Commentary Hezbollah — ‘Party of God’](https://patriotpost.us/opinion/110989-hezbollah-party-of-god-2024-10-10)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -225,7 +224,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
