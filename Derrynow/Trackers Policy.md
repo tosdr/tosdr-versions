@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-10 Oct 2024
+11 Oct 2024
 
 * [Home
     
@@ -266,15 +266,6 @@ Most Popular
 [Throwback Thursday: Partytime out and about with the Derry News (2009)](https://www.derrynow.com/story-telling/pictures---videos/1625960/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Eagerly awaited Kneecap Derry gig rescheduled](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Eagerly awaited Kneecap Derry gig rescheduled")](https://www.derrynow.com/news/local-news/1626409/eagerly-awaited-kneecap-derry-gig-rescheduled.html)
-
-Kneecap. Peadar Ó Goill
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Eagerly awaited Kneecap Derry gig rescheduled](https://www.derrynow.com/news/local-news/1626409/eagerly-awaited-kneecap-derry-gig-rescheduled.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1625959/derry-death-notices-thursday-october-10-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -314,13 +305,6 @@ Derry Magistrate's Court
 [Derry man charged with a series of offences returned for trial](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Planning application lodged for new Derry energy storage substation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Planning application lodged for new Derry energy storage substation")](https://www.derrynow.com/news/local-news/1626670/planning-application-lodged-for-new-derry-energy-storage-substation.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Planning application lodged for new Derry energy storage substation](https://www.derrynow.com/news/local-news/1626670/planning-application-lodged-for-new-derry-energy-storage-substation.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: Steelstown Primary School P1 Colour Feature](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Steelstown Primary School P1 Colour Feature")](https://www.derrynow.com/news/pictures---videos/1626630/pictures-steelstown-primary-school-p1-colour-feature.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -334,6 +318,22 @@ Derry Magistrate's Court
 
 [Derry Senior Football Championship preview: Slaughtneil clash with Glen](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Planning application lodged for new Derry energy storage substation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Planning application lodged for new Derry energy storage substation")](https://www.derrynow.com/news/local-news/1626670/planning-application-lodged-for-new-derry-energy-storage-substation.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Planning application lodged for new Derry energy storage substation](https://www.derrynow.com/news/local-news/1626670/planning-application-lodged-for-new-derry-energy-storage-substation.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Intermediate Championship semi final preview](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Intermediate Championship semi final preview")](https://www.derrynow.com/news/gaa/1626778/derry-intermediate-championship-semi-final-preview.html)
+
+Drumsurn's, Tiarnán Woods. Photo by Mary K Burke
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Derry Intermediate Championship semi final preview](https://www.derrynow.com/news/gaa/1626778/derry-intermediate-championship-semi-final-preview.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,7 +513,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Hunter calls for compassion and action at Stormont White Butterfly Foundation event](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Hunter calls for compassion and action at Stormont White Butterfly Foundation event")](https://www.derrynow.com/news/county-derry-post/1627313/hunter-calls-for-compassion-and-action-at-stormont-white-butterfly-foundation-event.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1627091/ruaidhri-higgins-this-is-an-unbelievably-powerful-football-club-when-everyone-is-sailing-in-the-one-direction.html)
+
+Derry City fae Bohemians again tomorrow night.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ruaidhri Higgins - "This is an unbelievably powerful football club when everyone is sailing in the one direction.'](https://www.derrynow.com/news/derry-sport/1627091/ruaidhri-higgins-this-is-an-unbelievably-powerful-football-club-when-everyone-is-sailing-in-the-one-direction.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry public urged not to miss their eye test on World Sight Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry public urged not to miss their eye test on World Sight Day")](https://www.derrynow.com/news/local-news/1627277/derry-public-urged-not-to-miss-their-eye-test-on-world-sight-day.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry public urged not to miss their eye test on World Sight Day](https://www.derrynow.com/news/local-news/1627277/derry-public-urged-not-to-miss-their-eye-test-on-world-sight-day.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Hunter calls for compassion and action at Stormont White Butterfly Foundation event](https://www.derrynow.com/resizer/165/93/true/2024_10_10/chbla-1728582029190_1728582374.png--.png?1728582374976 "Hunter calls for compassion and action at Stormont White Butterfly Foundation event")](https://www.derrynow.com/news/county-derry-post/1627313/hunter-calls-for-compassion-and-action-at-stormont-white-butterfly-foundation-event.html)
 
 Ms Hunter pictured with Selina Casey at the event.
 
@@ -522,7 +538,7 @@ Ms Hunter pictured with Selina Casey at the event.
 [Hunter calls for compassion and action at Stormont White Butterfly Foundation event](https://www.derrynow.com/news/county-derry-post/1627313/hunter-calls-for-compassion-and-action-at-stormont-white-butterfly-foundation-event.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Marty's Run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Marty's Run")](https://www.derrynow.com/news/derry-sport/1627065/popular-marty-s-run-event-back-this-weekend.html)
+[![Marty's Run](https://www.derrynow.com/resizer/165/93/true/2024_10_10/IDNT_10-10-24_Martys_Run_1-1728570544521.jpg--.jpg?1728570547127 "Marty's Run")](https://www.derrynow.com/news/derry-sport/1627065/popular-marty-s-run-event-back-this-weekend.html)
 
 Marty's Run is a popular event for local families. Pic by Tom Heaney, nwpresspics
 
@@ -546,22 +562,6 @@ Mayor of Derry City and Strabane District Council, Lilian Seenoi Barr, Pól Ó F
 
 [Island Voices lecture series explores the theme of ‘Home’ in Derry's Tower Museum](https://www.derrynow.com/news/local-news/1627100/island-voices-lecture-series-explores-the-theme-of-home-in-derry-s-tower-museum.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with a series of offences returned for trial](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Derry man charged with a series of offences returned for trial")](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with a series of offences returned for trial](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ulster University Coleraine launches innovative new Masters in Golf Management ahead of The Open 2025 Championship](https://www.derrynow.com/resizer/165/93/true/2024_10_10/Dr_Peter_Bolan_%28Ulster_University%29_with_Mark_Skinner_%28Head_of_Education_PGA%29_%281%29-1728563137185.png--.png?1728563137411 "Ulster University Coleraine launches innovative new Masters in Golf Management ahead of The Open 2025 Championship")](https://www.derrynow.com/news/home/1626890/ulster-university-coleraine-launches-innovative-new-masters-in-golf-management-ahead-of-the-open-2025-championship.html)
-
-Dr Peter Bolan, Course Director MSc Golf Management at Ulster University pictured alongside Mark Skinner, Head of Business and Management Department at PGA.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Ulster University Coleraine launches innovative new Masters in Golf Management ahead of The Open 2025 Championship](https://www.derrynow.com/news/home/1626890/ulster-university-coleraine-launches-innovative-new-masters-in-golf-management-ahead-of-the-open-2025-championship.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
