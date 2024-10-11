@@ -308,7 +308,7 @@ The Reserve Banks may occasionally amend this Privacy Notice to reflect changes 
 Questions or comments relating to Board-delegated and fiscal agent functions should be directed to the Board of Governors and the U.S. Treasury, respectively.
 
 * **RELATED LINKS:**  
-* [Online Privacy Policy](https://www.atlantafed.org/online-privacy-policy)
+* [Online Privacy Policy](https://www.atlantafed.org/cenfis)
 * [Disclaimer and Terms of Use](https://www.atlantafed.org/disclaimers-and-terms-of-use)
 
 ##### Send a message
