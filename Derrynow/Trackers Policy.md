@@ -266,20 +266,6 @@ Most Popular
 [Throwback Thursday: Partytime out and about with the Derry News (2009)](https://www.derrynow.com/story-telling/pictures---videos/1625960/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1625959/derry-death-notices-thursday-october-10-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, October 10 2024](https://www.derrynow.com/news/deaths/1625959/derry-death-notices-thursday-october-10-2024.html)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![WATCH: Florida residents battle torrential conditions in shocking footage of Hurricane Milton ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Florida residents battle torrential conditions in shocking footage of Hurricane Milton ")](https://www.derrynow.com/video/national-news/1626863/watch-florida-residents-battle-torrential-conditions-in-shocking-footage-of-hurricane-milton.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[WATCH: Florida residents battle torrential conditions in shocking footage of Hurricane Milton](https://www.derrynow.com/video/national-news/1626863/watch-florida-residents-battle-torrential-conditions-in-shocking-footage-of-hurricane-milton.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Suspended sentence for Derry child sex offender](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry child sex offender")](https://www.derrynow.com/news/local-news/1626920/suspended-sentence-for-derry-child-sex-offender.html)
 
 Derry Crown Court
@@ -289,6 +275,20 @@ Derry Crown Court
 [Suspended sentence for Derry child sex offender](https://www.derrynow.com/news/local-news/1626920/suspended-sentence-for-derry-child-sex-offender.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![WATCH: Florida residents battle torrential conditions in shocking footage of Hurricane Milton ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Florida residents battle torrential conditions in shocking footage of Hurricane Milton ")](https://www.derrynow.com/video/national-news/1626863/watch-florida-residents-battle-torrential-conditions-in-shocking-footage-of-hurricane-milton.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[WATCH: Florida residents battle torrential conditions in shocking footage of Hurricane Milton](https://www.derrynow.com/video/national-news/1626863/watch-florida-residents-battle-torrential-conditions-in-shocking-footage-of-hurricane-milton.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with a series of offences returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with a series of offences returned for trial")](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with a series of offences returned for trial](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry woman charged with breaching bail, assaulting police and attempted criminal damage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with breaching bail, assaulting police and attempted criminal damage")](https://www.derrynow.com/news/local-news/1626705/derry-woman-charged-with-breaching-bail-assaulting-police-and-attempted-criminal-damage.html)
 
 Derry Magistrate's Court
@@ -297,13 +297,6 @@ Derry Magistrate's Court
 
 [Derry woman charged with breaching bail, assaulting police and attempted criminal damage](https://www.derrynow.com/news/local-news/1626705/derry-woman-charged-with-breaching-bail-assaulting-police-and-attempted-criminal-damage.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with a series of offences returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with a series of offences returned for trial")](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with a series of offences returned for trial](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Steelstown Primary School P1 Colour Feature](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Steelstown Primary School P1 Colour Feature")](https://www.derrynow.com/news/pictures---videos/1626630/pictures-steelstown-primary-school-p1-colour-feature.html)
 
@@ -319,12 +312,12 @@ Derry Magistrate's Court
 [Derry Senior Football Championship preview: Slaughtneil clash with Glen](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Planning application lodged for new Derry energy storage substation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Planning application lodged for new Derry energy storage substation")](https://www.derrynow.com/news/local-news/1626670/planning-application-lodged-for-new-derry-energy-storage-substation.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Planning application lodged for new Derry energy storage substation](https://www.derrynow.com/news/local-news/1626670/planning-application-lodged-for-new-derry-energy-storage-substation.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Friday, October 11 2024](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Intermediate Championship semi final preview](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Intermediate Championship semi final preview")](https://www.derrynow.com/news/gaa/1626778/derry-intermediate-championship-semi-final-preview.html)
 
@@ -334,6 +327,13 @@ Drumsurn's, Tiarnán Woods. Photo by Mary K Burke
 
 [Derry Intermediate Championship semi final preview](https://www.derrynow.com/news/gaa/1626778/derry-intermediate-championship-semi-final-preview.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall")](https://www.derrynow.com/news/pictures---videos/1626974/pictures-mayor-s-afro-caribbean-themed-tea-dance-at-guildhall.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall](https://www.derrynow.com/news/pictures---videos/1626974/pictures-mayor-s-afro-caribbean-themed-tea-dance-at-guildhall.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, October 11 2024](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1627091/ruaidhri-higgins-this-is-an-unbelievably-powerful-football-club-when-everyone-is-sailing-in-the-one-direction.html)
 
 Derry City fae Bohemians again tomorrow night.
@@ -522,7 +529,7 @@ Derry City fae Bohemians again tomorrow night.
 [Ruaidhri Higgins - "This is an unbelievably powerful football club when everyone is sailing in the one direction.'](https://www.derrynow.com/news/derry-sport/1627091/ruaidhri-higgins-this-is-an-unbelievably-powerful-football-club-when-everyone-is-sailing-in-the-one-direction.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry public urged not to miss their eye test on World Sight Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry public urged not to miss their eye test on World Sight Day")](https://www.derrynow.com/news/local-news/1627277/derry-public-urged-not-to-miss-their-eye-test-on-world-sight-day.html)
+[![Derry public urged not to miss their eye test on World Sight Day](https://www.derrynow.com/resizer/165/93/true/2024_10_10/10-10-24_DCSDC_world_sight_day_01-1728579159850.jpg--.jpg?1728579160813 "Derry public urged not to miss their eye test on World Sight Day")](https://www.derrynow.com/news/local-news/1627277/derry-public-urged-not-to-miss-their-eye-test-on-world-sight-day.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -553,15 +560,6 @@ Marty's Run is a popular event for local families. Pic by Tom Heaney, nwpresspic
 
 [Derry Senior Football Championship preview: Slaughtneil clash with Glen](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Island Voices lecture series explores the theme of ‘Home’ in Derry's Tower Museum](https://www.derrynow.com/resizer/165/93/true/2024_10_10/19-09-24_DCSDC_island_voices_01-1728571533809.jpg--.jpg?1728571535515 "Island Voices lecture series explores the theme of ‘Home’ in Derry's Tower Museum")](https://www.derrynow.com/news/local-news/1627100/island-voices-lecture-series-explores-the-theme-of-home-in-derry-s-tower-museum.html)
-
-Mayor of Derry City and Strabane District Council, Lilian Seenoi Barr, Pól Ó Frighil, Policy Officer, Erin Hamilton, Irish Language Officer, and Amanda Biega, Good Relations Officer, DCSDC.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Island Voices lecture series explores the theme of ‘Home’ in Derry's Tower Museum](https://www.derrynow.com/news/local-news/1627100/island-voices-lecture-series-explores-the-theme-of-home-in-derry-s-tower-museum.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
