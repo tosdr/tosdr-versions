@@ -179,7 +179,6 @@ More in [Our policies](https://www.nhs.uk/our-policies/)
 * [Cookies on the NHS website](https://www.nhs.uk/our-policies/cookies-policy/)
 * Reviews policy
 * [Requests for research support](https://www.nhs.uk/our-policies/requests-for-research-support/)
-* [Governance of the NHS website](https://www.nhs.uk/our-policies/governance-of-the-nhs-website/)
 
 Page last reviewed: 14 April 2021  
 Next review due: 14 April 2024
