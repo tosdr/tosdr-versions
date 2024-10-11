@@ -353,24 +353,23 @@ Website
 
 [9th October 2024](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
 
-[![Left: One of the many pictures of the flooded footpaths; Right: new bronze statue (sent by disgruntled resident)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-04-10-2024-at-17.17-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
-
-### [Elephant Park residents frustrated over water-logged footpaths, whilst landlord installs bizarre bronze statues](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
-
-[4th October 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-park-residents-frustrated-over-water-logged-footpaths-whilst-landlord-installs-bizarre-bronze-statues/)
-
 [![The Walworth Road looking west towards Elephant and Castle. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Walworth-Road-seen-leading-west-towards-Elephant-and-Castle-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
 
 ### [Woman stabbed on Walworth Road](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
 
 [8th October 2024](https://southwarknews.co.uk/area/walworth/woman-stabbed-on-walworth-road/)
 
-[![John Tullett said the planned controlled parking zone would put his garage on Rossendale Road, West Dulwich out of business on day one. 
-CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/10/garage-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+[![Connal Trueman in training. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/C-Trueman-426272-750x375-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
 
-### [Dulwich business say parking plans will put them out of business](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+### [Millwall goalkeeper heads out on emergency loan](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
 
-[4th October 2024](https://southwarknews.co.uk/area/dulwich/dulwich-business-say-parking-plans-will-put-them-out-of-business/)
+[7th October 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-goalkeeper-heads-out-on-emergency-loan/)
+
+[![Romain Esse takes on West Brom. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/Esse-West-Brom-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-19-year-olds-game-understanding/)
+
+### [Millwall boss on Romain Esse: ‘He’ll fly the nest at some stage – I’m sure to the Premier League’](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-19-year-olds-game-understanding/)
+
+[5th October 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-pleased-with-19-year-olds-game-understanding/)
 
 ### Featured Articles
 
