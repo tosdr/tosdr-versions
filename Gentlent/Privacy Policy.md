@@ -1,6 +1,8 @@
 [![Gentlent](https://s1.gentcdn.com/images/branding/gentlentlogo/logo_white_anim_g.svg)](https://gentlent.com/)
 
-[Blog](https://gentlent.com/blog)[Products](https://gentlent.com/_sites/g-website/policies/privacy#) 
+[Blog](https://gentlent.com/blog)[Case Studies](https://gentlent.com/case-studies)[Knowledge Base](https://support.gentlent.com/)
+
+  [Products](https://gentlent.com/_sites/g-website/policies/privacy#) 
 
 Products[Domains  
 Domains are like the phone book of the internet. Each website, email server, and digital service has an IP (Internet Protocol) address assigned to it. Because it's difficult for visitors to remember these numerical IP addresses, domain names like "yourname.xyz" were created and can since be registered.](https://gentlent.com/domains)[Dynamic DNS  
@@ -12,15 +14,9 @@ Coming soon](https://gentlent.com/)
 [Contact  
 Gentlent's global support is free of charge for all our customers.](https://gentlent.com/contact)
 
-[Case Studies](https://gentlent.com/case-studies)[Knowledge Base](https://support.gentlent.com/)
-
-[Community](https://gentlent.com/community)[Login](https://app.gentlent.com/)
+[Login](https://app.gentlent.com/)
 
 [Skip to content](#main)
-
-[Policies](https://gentlent.com/policies)
-
-[Privacy Policy](https://gentlent.com/policies/privacy)[Terms of Service](https://gentlent.com/policies/terms)[Code of Conduct](https://gentlent.com/policies/code-of-conduct)[Right of Withdrawal](https://gentlent.com/policies/right-of-withdrawal)[Legal Notice](https://gentlent.com/policies/legal-notice)
 
 Data protection declaration
 ===========================
@@ -332,7 +328,7 @@ Get in touch today.
 
 [Contact us →](https://gentlent.com/contact)
 
-[![Gentlent](https://s1.gentcdn.com/images/branding/gentlentg/g_white.svg)](https://gentlent.com/)
+[](https://gentlent.com/)
 
 #### Products
 
@@ -370,7 +366,7 @@ Gentlent™ is a software company aiming to make complex web technologies easy a
 
 Gentlent
 
-[Privacy Policy](https://gentlent.com/policies/privacy) | [Terms of Service](https://gentlent.com/policies/terms) | [Code of Conduct](https://gentlent.com/policies/code-of-conduct) | [Right of Withdrawal](https://gentlent.com/policies/right-of-withdrawal) | [Legal Notice](https://gentlent.com/policies/legal-notice)
+[Privacy Policy](https://gentlent.com/policies/privacy)[Terms of Service](https://gentlent.com/policies/terms)[Code of Conduct](https://gentlent.com/policies/code-of-conduct)[Right of Withdrawal](https://gentlent.com/policies/right-of-withdrawal)[Legal Notice](https://gentlent.com/policies/legal-notice)
 
 Copyright © 2019 - 2024 by Gentlent and/or its subsidiaries. All rights reserved. Gentlent® is a registered trademark of Gentlent UG (haftungsbeschränkt) in Germany or other countries. All trademarks, service marks, and company names are the property of their respective owners. Made with ❤ remotely.  
   
@@ -386,3 +382,5 @@ Copyright © 2019 - 2024 by Gentlent and/or its subsidiaries. All rights reserve
  [Verify Employee](https://gentlent.com/verify-employee) 
 
 ![Gentlent](https://s1.gentcdn.com/images/branding/gentlentlogo/logo_white.svg)An official Gentlent website. Official Gentlent websites are always linked from our website [gentlent.com](https://www.gentlent.com/), or contain an extended validated certificate.
+
+![Skyline Dusseldorf](https://s1.gentcdn.com/cmscontent/eb617de37e6a944b6d298b5554109aee534d6d078dbe620d65e2c3073716fda1)
