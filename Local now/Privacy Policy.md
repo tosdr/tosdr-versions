@@ -229,7 +229,7 @@ If you have linked your account with certain other services, such as Steam or Tw
 
 We are committed to protecting the safety and privacy of young people using the Internet. You must be 18 years or older to use or subscribe to the Service. Anyone under the age of 18 may only use the Service with his or her parent’s or guardian’s permission and supervision. We do not knowingly collect PII from children under the age of 18. The Service may contain links to third-party websites and other services geared to children. The linked sites and services are not under our control. We are not responsible for the content of any linked site or service or any link contained in a linked site or service, nor are we responsible for the privacy practices of the operators of those sites or services with respect to children. We strongly encourage parents and guardians to review the privacy policies of all linked sites and services.
 
-If you are a parent or guardian and you believe we have collected information from your child in a manner not permitted by law, contact us at [datarequest@weathergroup.com](mailto:datarequest@weathergroup.com). We will remove the data to the extent required by applicable laws.
+If you are a parent or guardian and you believe we have collected information from your child in a manner not permitted by law, contact us at [\[email protected\]](https://localnow.com/cdn-cgi/l/email-protection). We will remove the data to the extent required by applicable laws.
 
 9\. Security and Account Access
 -------------------------------
@@ -248,7 +248,7 @@ We reserve the right to alter our Privacy Policy as business needs require. If w
 11\. Additional Disclosures for Nevada Residents
 ------------------------------------------------
 
-Nevada law (NRS 603A.340) requires each business to establish a designated request address where Nevada consumers may submit requests directing the business not to sell certain kinds of personal information that the business has collected or will collect about the consumer. A sale under Nevada law is the exchange of personal information for monetary consideration by the business to a third party for the third party to license or sell the personal information to other third parties. If you are a Nevada consumer and wish to submit a request relating to our compliance with Nevada law, please contact us as at [datarequest@weathergroup.com](#) or submit the following [form](https://privacyportal.onetrust.com/webform/93ed5414-73f9-49b4-8f14-02da87353945/a2e6b35a-ee3c-4779-885e-0443e600519f).
+Nevada law (NRS 603A.340) requires each business to establish a designated request address where Nevada consumers may submit requests directing the business not to sell certain kinds of personal information that the business has collected or will collect about the consumer. A sale under Nevada law is the exchange of personal information for monetary consideration by the business to a third party for the third party to license or sell the personal information to other third parties. If you are a Nevada consumer and wish to submit a request relating to our compliance with Nevada law, please contact us as at [\[email protected\]](#) or submit the following [form](https://privacyportal.onetrust.com/webform/93ed5414-73f9-49b4-8f14-02da87353945/a2e6b35a-ee3c-4779-885e-0443e600519f).
 
 12\. Notice at Collection & Additional Disclosures for Residents of Certain U.S. States
 ---------------------------------------------------------------------------------------
@@ -373,7 +373,7 @@ Under Applicable State Laws, you may have the right to limit our use and disclos
 
 ### H. Exercising Your Rights
 
-To exercise any of these rights, call our toll-free number at [(877) 747-6045](tel:(877) 747-6045), or email us at [datarequest@weathergroup.com](mailto:datarequest@weathergroup.com) or submit the form located [here](https://docs.google.com/forms/d/e/1FAIpQLScgamt6jlhcpHYYixtzJxkWHVPh6iZZOAV1oUjY2J1biIFYXw/viewform). In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. In order to verify your identity and process your request, we may ask you to provide certain information so that we match that data to you in our systems. If we are unable to verify your identity, we may deny your request to know or delete.
+To exercise any of these rights, call our toll-free number at [(877) 747-6045](tel:(877) 747-6045), or email us at [\[email protected\]](https://localnow.com/cdn-cgi/l/email-protection) or submit the form located [here](https://docs.google.com/forms/d/e/1FAIpQLScgamt6jlhcpHYYixtzJxkWHVPh6iZZOAV1oUjY2J1biIFYXw/viewform). In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. In order to verify your identity and process your request, we may ask you to provide certain information so that we match that data to you in our systems. If we are unable to verify your identity, we may deny your request to know or delete.
 
 ### I. Authorized Agent
 
@@ -396,7 +396,7 @@ If you have any questions or comments about this Privacy Policy, our data practi
 
 By email:
 
-        [datarequest@weathergroup.com](mailto:datarequest@weathergroup.com)
+        [\[email protected\]](https://localnow.com/cdn-cgi/l/email-protection)
 
 By mail:
 
@@ -405,7 +405,7 @@ By mail:
         Atlanta, GA 30339  
         ATTN: Legal Dept
 
-If you have a disability and would like to access this Privacy Policy in an alternative format, please contact us at [datarequest@weathergroup.com](mailto:datarequest@weathergroup.com). 
+If you have a disability and would like to access this Privacy Policy in an alternative format, please contact us at [\[email protected\]](https://localnow.com/cdn-cgi/l/email-protection). 
 
 The Weather Group Brands
 ------------------------
