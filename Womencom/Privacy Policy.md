@@ -90,7 +90,7 @@ More Stories
     
     ### [5 Inspiring Celebrity Memoirs About Mental Health](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
     
-    These memoirs understand that the key to breaking mental health stigma is to talk about it openly and honestly.
+    For World Mental Health Day, we've put together a list of celebrity memoirs that are helping to raise awareness and challenge stigma.
     
     By Emily Hutchinson [Read More](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
     
