@@ -1,20 +1,20 @@
-Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions of Hurricane Milton and the latest updates.
+Storm Updates and Recovery Solutions |Stay informed about branch operating hours and learn more about recovery solutions available after Hurricane Milton.
 
 [](https://www.fairwinds.org/storm)
 
-Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions of Hurricane Milton and the latest updates.
+Storm Updates and Recovery Solutions |Stay informed about branch operating hours and learn more about recovery solutions available after Hurricane Milton.
 
 [](https://www.fairwinds.org/storm)
 
-Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions of Hurricane Milton and the latest updates.
+Storm Updates and Recovery Solutions |Stay informed about branch operating hours and learn more about recovery solutions available after Hurricane Milton.
 
 [](https://www.fairwinds.org/storm)
 
-Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions of Hurricane Milton and the latest updates.
+Storm Updates and Recovery Solutions |Stay informed about branch operating hours and learn more about recovery solutions available after Hurricane Milton.
 
 [](https://www.fairwinds.org/storm)
 
-Severe Weather Update |Stay informed and safe. Visit our Severe Weather Updates page for more information on current conditions of Hurricane Milton and the latest updates.
+Storm Updates and Recovery Solutions |Stay informed about branch operating hours and learn more about recovery solutions available after Hurricane Milton.
 
 [](https://www.fairwinds.org/storm)
 
