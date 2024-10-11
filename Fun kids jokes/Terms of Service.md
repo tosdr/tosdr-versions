@@ -204,17 +204,17 @@ We are committed to conducting our business in accordance with principles that e
 
 #### Recent Jokes
 
+[![Funny Armadillo jokes](https://funkidsjokes.com/wp-content/uploads/2024/10/armadillo-jokes-100x70.png "Armadillo Jokes")](https://funkidsjokes.com/armadillo-jokes/ "Armadillo Jokes")
+
+### [Armadillo Jokes](https://funkidsjokes.com/armadillo-jokes/ "Armadillo Jokes")
+
+[![Zebra Jokes - Silly Jokes About Zebra](https://funkidsjokes.com/wp-content/uploads/2024/10/zebra-jokes-100x70.png "Zebra Jokes")](https://funkidsjokes.com/zebra-jokes/ "Zebra Jokes")
+
+### [Zebra Jokes](https://funkidsjokes.com/zebra-jokes/ "Zebra Jokes")
+
 [![Koala Jokes - Koala Bear Jokes](https://funkidsjokes.com/wp-content/uploads/2024/10/koala-jokes-100x70.png "Koala Jokes")](https://funkidsjokes.com/koala-jokes/ "Koala Jokes")
 
 ### [Koala Jokes](https://funkidsjokes.com/koala-jokes/ "Koala Jokes")
-
-[![apple riddles](https://funkidsjokes.com/wp-content/uploads/2024/09/apple-riddles-100x70.png "Apple Riddles")](https://funkidsjokes.com/apple-riddles/ "Apple Riddles")
-
-### [Apple Riddles](https://funkidsjokes.com/apple-riddles/ "Apple Riddles")
-
-[![apple pie jokes](https://funkidsjokes.com/wp-content/uploads/2024/09/apple-cider-puns-3-100x70.png "Apple Pie Jokes")](https://funkidsjokes.com/apple-pie-jokes/ "Apple Pie Jokes")
-
-### [Apple Pie Jokes](https://funkidsjokes.com/apple-pie-jokes/ "Apple Pie Jokes")
 
   
   
