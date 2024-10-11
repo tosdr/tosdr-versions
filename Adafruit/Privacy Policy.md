@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ ...the idea is to try to give all of the information to help others to judge the value of your contribution; not just the information that leads to judgment in one particular direction or another.”
+“ The most valuable thing you can make is a mistake - you can't learn anything from being perfect”
 
-[Richard Feynman](http://www.lhup.edu/~DSIMANEK/cargocul.htm)
+[Adam Osborne](https://en.wikipedia.org/wiki/Adam_Osborne)
 
 [](https://www.adafruit.com/about)
 
