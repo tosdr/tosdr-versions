@@ -273,17 +273,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What damages can i collect in a mormon (lds) church sex abuse settlement?](https://www.pintas.com/wp-content/uploads/2019/12/blog-img.jpg "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/ "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")
+[![Can you request a second opinion for an autopsy?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-request-a-second-opinion-for-an-autopsy.jpg "Can You Request a Second Opinion For an Autopsy?")](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/ "Can You Request a Second Opinion For an Autopsy?")
 
-[#### What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/)
+[#### Can You Request a Second Opinion For an Autopsy?](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/)
 
-[![What happens if a hip fracture goes untreated?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-happens-if-a-hip-fracture-goes-untreated-scaled.jpg "What Happens If a Hip Fracture Goes Untreated?")](https://www.pintas.com/faq/what-happens-if-a-hip-fracture-goes-untreated/ "What Happens If a Hip Fracture Goes Untreated?")
+[![Where is johnson & johnson baby powder manufactured?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-where-is-j-and-j-baby-powder-manufactured.jpg "Where Is Johnson & Johnson Baby Powder Manufactured?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-is-johnson-and-johnson-baby-powder-manufactured "Where Is Johnson & Johnson Baby Powder Manufactured?")
 
-[#### What Happens If a Hip Fracture Goes Untreated?](https://www.pintas.com/faq/what-happens-if-a-hip-fracture-goes-untreated/)
+[#### Where Is Johnson & Johnson Baby Powder Manufactured?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-is-johnson-and-johnson-baby-powder-manufactured)
 
-[![What are the early signs of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-what-are-the-early-signs-of-lung-cancer.jpg "What Are the Early Signs of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/signs-of-lung-cancer "What Are the Early Signs of Lung Cancer?")
+[![How do mesothelioma patients die?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-do-mesothelioma-patients-die.jpg "How Do Mesothelioma Patients Die?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-do-mesothelioma-patients-die/ "How Do Mesothelioma Patients Die?")
 
-[#### What Are the Early Signs of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/signs-of-lung-cancer)
+[#### How Do Mesothelioma Patients Die?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-do-mesothelioma-patients-die/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -306,7 +306,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence). I approve all calls with the law firm being monitored and recorded. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [online Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/),including its mandatory arbitration provision and allowance of tracking and sharing with third parties information concerning my interacting with this site, but no details of my case. I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
