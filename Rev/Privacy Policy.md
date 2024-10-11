@@ -84,10 +84,7 @@ Available Monday - Friday
 
 Learn about our AI and human-led Speech-to-Text solutions](https://www.rev.com/online-transcription-services/contact-sales)
 
-[Send Support a Message
-
-Have a question?  
-We can help!](mailto:support@rev.com)
+[\[email protected\]](https://www.rev.com/cdn-cgi/l/email-protection)
 
 [Help Center
 
@@ -147,9 +144,7 @@ back to menu
 
 (888) 369-0701  
 Available Monday - Friday  
-9am - 4pm CT](tel:+18883690701)[Send Support a Message
-
-Have a question? We can help!](mailto:support@rev.com)[Help Center
+9am - 4pm CT](tel:+18883690701)[\[email protected\]](https://www.rev.com/cdn-cgi/l/email-protection)[Help Center
 
 Visit Rev’s Knowledge Base for Answers to Common Questions](https://support.rev.com/hc/en-us)[Talk to Sales
 
@@ -362,7 +357,7 @@ You may have the right to receive information about the financial incentives tha
 
 Rev does not sell your personal information as we understand that term to be defined by the California Consumer Privacy Act ("CCPA") and its implementing regulations. However, some people have taken the position that when a website uses third parties' cookies or similar technology for its own analytics or advertising purposes, the website is engaged in a "sale" under the CCPA if the third parties have some ability to use, disclose or retain the data to improve their service or to take steps beyond the most narrowly drawn bounds of merely providing their service to the website/app. Some take this position even when the website pays the third party (not vice versa), and in most cases merely provides the third party with an opportunity to collect data directly, instead of providing personal information to the third party. If you take the position that any of those relationships involve a "sale" within the meaning of the CCPA, then you may consider Rev to have "sold" what the CCPA calls "identifiers" (like IP addresses), "internet or other electronic network activity information" (like information regarding an individual's browsing interactions on the Rev site), and "commercial information" (like the fact that a browser visited a page directed to people who are considering obtaining services from us) to those sorts of companies. While Rev does not believe these are "sales" as that term is defined under the CCPA, you can opt out of this activity by following the directions in the Tailored Online Advertising section above.
 
-If you would like to exercise any of these rights, please submit a request through this form or at support@rev.com. You will be required to verify your identity before we fulfill your request. You can also designate an authorized agent to make a request on your behalf. To do so, you must provide us with written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
+If you would like to exercise any of these rights, please submit a request through this form or at [\[email protected\]](https://www.rev.com/cdn-cgi/l/email-protection). You will be required to verify your identity before we fulfill your request. You can also designate an authorized agent to make a request on your behalf. To do so, you must provide us with written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
 
 **California Privacy Rights Act Sensitive Personal Information Disclosure**. The categories of data that we collect and disclose for a business purpose include “sensitive personal information” as defined under the California Privacy Rights Act. We do not use or disclose sensitive personal information for any purpose not expressly permitted by the California Privacy Rights Act.
 
@@ -372,7 +367,7 @@ If you would like to exercise any of these rights, please submit a request throu
 
 ### For Nevada Residents
 
-Under Nevada law, certain Nevada consumers may opt out of the sale of "personally identifiable information" for monetary consideration to a person for that person to license or sell such information to additional persons. "Personally identifiable information" includes first and last name, address, email address, phone number, Social Security Number, or an identifier that allows a specific person to be contacted either physically or online. We do not engage in such activity; however, if you are a Nevada resident who has purchased or leased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by support@rev.com. Please note we will take reasonable steps to verify your identity and the authenticity of the request. Once verified, we will maintain your request in the event our practices change.
+Under Nevada law, certain Nevada consumers may opt out of the sale of "personally identifiable information" for monetary consideration to a person for that person to license or sell such information to additional persons. "Personally identifiable information" includes first and last name, address, email address, phone number, Social Security Number, or an identifier that allows a specific person to be contacted either physically or online. We do not engage in such activity; however, if you are a Nevada resident who has purchased or leased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by [\[email protected\]](https://www.rev.com/cdn-cgi/l/email-protection). Please note we will take reasonable steps to verify your identity and the authenticity of the request. Once verified, we will maintain your request in the event our practices change.
 
 ### Contacting Us
 
@@ -380,7 +375,7 @@ If you have any questions about this Privacy Policy or our Services, you may con
 
 * By mail: 1717 W 6th St, Ste 310, Austin, TX, 78703
 * By phone: 888-369-0701
-* By email: [support@rev.com](mailto:support@rev.com)
+* By email: [\[email protected\]](https://www.rev.com/cdn-cgi/l/email-protection)
 
 ‍
 
