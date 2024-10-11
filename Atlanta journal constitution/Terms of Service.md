@@ -1,6 +1,8 @@
 error: no ad slot id exists: undefined
 
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1733)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1733)](https://www.ajc.com/)
+[Breaking: Charges to be dropped against some Emory protesters](https://www.ajc.com/news/atlanta-news/charges-to-be-dropped-against-some-emory-protesters/IGVNHMXAVBEQ7EVATBHZAYDRVQ/)
+
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1736)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1736)](https://www.ajc.com/)
 
 Log In
 
@@ -16,7 +18,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-a-closer-look-at-atlantas-water-woes/CPFAALZUJ5HTFHYNBRBNOSIM6M/)
 * [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-oct-11-13/P5QGRKLJNFGKFC6MEGFLOLPRDQ/)
 * [Georgia Decides: Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
@@ -24,7 +25,7 @@ Log In
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1733)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1736)
 
 * Quick Links
     
@@ -148,7 +149,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1733)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1736)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
