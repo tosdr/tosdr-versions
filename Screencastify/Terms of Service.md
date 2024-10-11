@@ -100,7 +100,7 @@ In connection with your access to the Services, you are responsible for complian
 
 Please refer to Screencastify’s Community Guidelines for more information on prohibited User Generated Content. 
 
-**Copyright Policy**. Screencastify respects the intellectual property rights of others. If you believe that Screencastify is hosting or making available User Generated Content that infringes on your intellectual property rights, you may request its takedown by reporting the violation to our designated intellectual property agent by sending written notice by U.S. mail to Screencastify, LLC, 333 N. Green St, Suite 810, Chicago, IL 60607 or by email to legal@Screencastify.com.
+**Copyright Policy**. Screencastify respects the intellectual property rights of others. If you believe that Screencastify is hosting or making available User Generated Content that infringes on your intellectual property rights, you may request its takedown by reporting the violation to our designated intellectual property agent by sending written notice by U.S. mail to Screencastify, LLC, 333 N. Green St, Suite 810, Chicago, IL 60607 or by email to [\[email protected\]](https://www.screencastify.com/cdn-cgi/l/email-protection).
 
 The following information must be included in any written notice regarding Intellectual Property Infringement:
 
@@ -171,7 +171,7 @@ _Courts_. In any circumstances where the foregoing Agreement permits the parties
 
 Except as expressly provided otherwise herein, these Terms are governed by the laws of the State of Illinois without regard to its choice of law principles. If any provision of this Agreement is or becomes invalid or non-binding, the parties remain bound by all other provisions. In that event, the invalid or non- binding provision will be replaced with provisions that are valid and binding and that have, to the greatest extent possible, a similar effect as the invalid or non-binding provision, given the contents and purpose of this Agreement. Screencastify may assign this Agreement and all incorporated agreements in its sole discretion by providing notice to you. Except as explicitly stated otherwise, any notices to Screencastify shall be given by certified mail, postage prepaid and return receipt requested to Screencastify, LLC, 333 N. Green St., Suite 810, Chicago IL 60607. Any notices to you will be provided to you through the Services or given to you via the email address provided at registration. Headings are for reference purposes only and in no way define, limit, construe or describe the scope or extent of such section. A party’s failure to act with respect to a breach by the other party does not constitute a waiver of the party’s right to act with respect to subsequent or similar breaches. Unless you are an Organization and have a separate subscription agreement that supersedes these Terms, these Terms set forth the entire understanding and agreement between you and Screencastify with respect to the subject matter hereof and supersede all previous understandings and agreements between the parties, whether oral or written.
 
-If You have any questions regarding Screencastify, please contact our customer support team at support@screencastify.com.
+If You have any questions regarding Screencastify, please contact our customer support team at [\[email protected\]](https://www.screencastify.com/cdn-cgi/l/email-protection).
 
 ‍
 
