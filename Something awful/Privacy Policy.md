@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Slogans That Shouldn't Be](https://www.somethingawful.com/comedy-goldmine/slogans-shouldnt-be/1/)
-* [Movie 43; Hansel & Gretel: Witch Hunters; Parker; John Dies at the End](https://www.somethingawful.com/current-movie-reviews/movie43-hansel-gretel/1/)
-* [September 22, 2008](https://www.somethingawful.com/forum-fridays/ff09-22-08/1/)
-* [Megaman Gets Equipped](https://www.somethingawful.com/photoshop-phriday/megaman-gets-equipped/1/)
-* [The Solarspawn Saga](https://www.somethingawful.com/comedy-goldmine/solarspawn-arts-playpin/1/)
+* [Blue Stripe: The Life and Times of a Holodeck Janitor](https://www.somethingawful.com/news/blue-stripe-life-4/)
+* [SA Forum Goons vs. The Dating Game](https://www.somethingawful.com/feature-articles/sa-forum-goons/1/)
+* [Variety Pack #9: New Shirts from Abercrombie & Fitch; Vanilla History!](https://www.somethingawful.com/photoshop-phriday/variety-pack-9/1/)
+* [DEATH OF A CLOWN \[...\] JERRY LEWIS](https://www.somethingawful.com/photoshop-phriday/dry-bones-obituary/)
+* [Children's Books All Grown Up](https://www.somethingawful.com/photoshop-phriday/childrens-books-all/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Thread for fooling AI](http://forums.somethingawful.com/showthread.php?threadid=4072390 "Thread for fooling AI")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Thread for going down a mineshaft in Cripple Creek and dying](http://forums.somethingawful.com/showthread.php?threadid=4072421 "Thread for going down a mineshaft in Cripple Creek and dying")
 * ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [things people think are specific to where they live but arent](http://forums.somethingawful.com/showthread.php?threadid=4072393 "things people think are specific to where they live but arent")
 
 ### Random Articles
 
-* [HELP!! dick stuck in vcr](https://www.somethingawful.com/comedy-goldmine/not-explaining-vcr/)
-* [Variety Pack #9: New Shirts from Abercrombie & Fitch; Vanilla History!](https://www.somethingawful.com/photoshop-phriday/variety-pack-9/1/)
-* [Signs of the Apocalypse for April, 2006](https://www.somethingawful.com/news/signs-apocalypse-for/)
-* [Build Your Own Standing Desk](https://www.somethingawful.com/news/diy-standing-desk/1/)
-* [Hope's Mom's Page](https://www.somethingawful.com/awful-links/awful-link-1138/)
+* [Word Up Freestyle](https://www.somethingawful.com/news/word-up-freestyle/)
+* [Brunyi Kurputaya Akan Akan](https://www.somethingawful.com/awful-movie-database/brunyi-kurputaya-akan/)
+* [Bad Magic](https://www.somethingawful.com/movie-reviews/bad-magic/1/)
+* [Fuck up a Movie's Climactic Moment](https://www.somethingawful.com/comedy-goldmine/fuck-up-movies/1/)
+* [Conan O'Brien Fan Club](https://www.somethingawful.com/flash-tub/conan-obrien-fan/)
 
 [Random!](https://www.somethingawful.com/random/)
 
