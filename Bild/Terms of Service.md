@@ -148,9 +148,9 @@ Menü
 * [Horoskop](https://www.bild.de/lifestyle/horoskop/horoskope/thema-horoskop-alle-infos-80687724.bild.html)
 * [IQ-Test](https://iqtest.bild.de/)
 
-* [GetYourGuide Gutschein](https://gutscheine.bild.de/gutscheine/getyourguide)
-* [Autodoc Gutschein](https://gutscheine.bild.de/gutscheine/autodoc)
-* [Fressnapf Gutschein](https://gutscheine.bild.de/gutscheine/fressnapf)
+* [OTTO Gutschein](https://gutscheine.bild.de/gutscheine/otto)
+* [SATURN Gutschein](https://gutscheine.bild.de/gutscheine/saturn)
+* [Samsung Gutschein](https://gutscheine.bild.de/gutscheine/samsung)
 * [Dating & Singlebörsen](https://www.bild.de/dating/)
 
 * [Verbraucherportal](https://www.bild.de/ratgeber/leben-und-wissen-verbraucherportal/leben-und-wissen/das-bild-verbraucherportal-41002524.bild.html)
