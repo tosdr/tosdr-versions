@@ -692,9 +692,13 @@ If you have any questions or concerns about our use of your information, please 
 
 [PreviousTerms of Service](https://info.sonorancad.com/other/policy/terms-of-service)[NextRefund and Purchase Policy](https://info.sonorancad.com/other/policy/refund-and-purchase-policy)
 
-Last updated 4 months ago
+Last updated 5 months ago
 
 On this page
+
+Was this helpful?
+
+[Edit on GitHub](https://github.com/Sonoran-Software/SonoranCAD-Documentation/blob/master/other/policy/privacy-policy.md)
 
 * [Privacy Policy for Sonoran Software Systems](#privacy-policy-for-sonoran-software-systems)
 * [1\. Introduction](#id-1.-introduction)
@@ -705,7 +709,3 @@ On this page
 * [6\. Children's Privacy](#id-6.-childrens-privacy)
 * [7\. Changes to This Privacy Policy](#id-7.-changes-to-this-privacy-policy)
 * [8\. Contact Us](#id-8.-contact-us)
-
-Was this helpful?
-
-[Edit on GitHub](https://github.com/Sonoran-Software/SonoranCAD-Documentation/blob/master/other/policy/privacy-policy.md)
