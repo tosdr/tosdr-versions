@@ -304,6 +304,7 @@ Sign up for Kardia news, updates, and other exclusive content—straight to your
     * [KardiaMobile Card](https://shop.alivecor.com/kardiamobile-card)
     * [KardiaMobile 6L](https://shop.alivecor.com/kardiamobile6l)
     * [KardiaMobile](https://shop.alivecor.com/kardiamobile)
+    * [Compare Kardia Devices](https://store.kardia.com/pages/device-comparison)
     * [KardiaCare](https://shop.alivecor.com/kardiacare)
     * [International](https://kardia.com/international)
 * Support
