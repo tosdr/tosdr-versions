@@ -247,7 +247,7 @@ Seller Name
 
 [Save](#)
 
-Midnight Moonlight Madness starts in Limited time deals start in Folies de minuit au clair de lune débute à Aubaines d’une durée limitée commençant dans – 
+Midnight Moonlight Madness ends in Limited time deals end in Folies de minuit au clair de lune se terminent dans Aubaines d’une durée limitée se terminent dans – 
 
 Terms and Conditions
 ====================
