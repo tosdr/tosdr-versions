@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-21c4b3ba5091bbbc4b8529249ed9358f
+8b656e0f2b9e40a497bf306a409fb64b
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Vintage blue square two-hole beads](https://sojourner.biz/images/cache/glass/VB0008.200.jpg)](https://sojourner.biz/beads/glass/vintage-blue-square-two-hole-beads.html "Vintage blue square two-hole beads")
+[![Pink Serenity earrings](https://sojourner.biz/images/cache/E0016.200.jpg)](https://sojourner.biz/jewelry/earrings/pink-serenity-earrings.html "Pink Serenity earrings")
 
-#### [Vintage blue square two-hole beads](https://sojourner.biz/beads/glass/vintage-blue-square-two-hole-beads.html "Vintage blue square two-hole beads")
+#### [Pink Serenity earrings](https://sojourner.biz/jewelry/earrings/pink-serenity-earrings.html "Pink Serenity earrings")
 
-$5.00
+$25.00
 
 ### Best Sellers
 
