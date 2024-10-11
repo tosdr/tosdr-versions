@@ -1,4 +1,4 @@
-Due to Hurricane Milton, all Community First branches will close at 1:00 PM on Wednesday, October 9th, and will remain closed through Thursday, October 10th.  **[Click here](https://www.communityfirstfl.org/resources/hurricane-preparedness "Hurricane Preparedness")** for more information and helpful resources.
+Due to scheduled routine system maintenance, Info24, Online and Mobile Banking will have limited functionality from 8:00pm – midnight on Saturday, October 12th.
 
 ![Close Notification](/images/icon-close-white.svg)
 
