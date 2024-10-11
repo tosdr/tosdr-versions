@@ -445,4 +445,4 @@ Documentation
 
 Company
 
-[Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)[Legal agreement](https://www.vana.com/legal/terms-conditions)[Privacy](https://www.vana.com/legal/privacy-policy)[Contact](mailto:admin@vana.com)
+[Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)[Legal agreement](https://www.vana.com/legal/terms-conditions)[Privacy](https://www.vana.com/legal/privacy-policy)[\[email protected\]](https://www.vana.com/cdn-cgi/l/email-protection)
