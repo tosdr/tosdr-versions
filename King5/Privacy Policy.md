@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/WWL/images/a3573a72-fbc6-467e-bb7a-688a0429f586/20241010T033409/a3573a72-fbc6-467e-bb7a-688a0429f586_16x9.jpg) ![](https://media.king5.com/assets/WWL/images/a3573a72-fbc6-467e-bb7a-688a0429f586/20241010T033409/a3573a72-fbc6-467e-bb7a-688a0429f586_360x203.jpg)](https://www.king5.com/article/news/local/wa-hospitals-conserving-iv-fluid-hurricane-helene/281-6c1d0f0c-7924-49aa-afd6-55468249fbc8)
+    *  [![](https://media.king5.com/assets/KING/images/6ffb1ece-86f5-4531-b7c9-d59d92855912/20241010T230635/6ffb1ece-86f5-4531-b7c9-d59d92855912_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6ffb1ece-86f5-4531-b7c9-d59d92855912/20241010T230635/6ffb1ece-86f5-4531-b7c9-d59d92855912_360x203.jpg)](https://www.king5.com/article/news/local/equipment-malfunction-gold-mine-attraction-cripple-creek/73-fb8dcc8d-4e97-4745-bd93-538501133f3c)
         
-        #### [WA hospitals conserving IV fluid in Hurricane Helene aftermath](https://www.king5.com/article/news/local/wa-hospitals-conserving-iv-fluid-hurricane-helene/281-6c1d0f0c-7924-49aa-afd6-55468249fbc8)
+        #### [WATCH LIVE: Officials give update after elevator malfunction at Colorado gold mine attraction](https://www.king5.com/article/news/local/equipment-malfunction-gold-mine-attraction-cripple-creek/73-fb8dcc8d-4e97-4745-bd93-538501133f3c)
         
-    *  [![](https://media.king5.com/assets/KING/images/f0706a3c-c2f0-4889-a843-4d7d7ed29254/20240904T140233/f0706a3c-c2f0-4889-a843-4d7d7ed29254_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f0706a3c-c2f0-4889-a843-4d7d7ed29254/20240904T140233/f0706a3c-c2f0-4889-a843-4d7d7ed29254_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/kraken-joey-daccord-contract-extension-value/281-3055cdae-7f8a-4c83-bb7a-1176b0a50034)
+    *  [![](https://media.king5.com/assets/KING/images/24fc6399-b31d-4d2b-832d-8f0ed9d82f64/20241010T230421/24fc6399-b31d-4d2b-832d-8f0ed9d82f64_16x9.jpg) ![](https://media.king5.com/assets/KING/images/24fc6399-b31d-4d2b-832d-8f0ed9d82f64/20241010T230421/24fc6399-b31d-4d2b-832d-8f0ed9d82f64_360x203.jpg)](https://www.king5.com/article/news/crime/shooting-nova-high-school-garfield-high-school-seattle/281-fb3d12ac-19a4-468f-8cea-a5ab7c74c62f)
         
-        #### [Here's how much money Joey Daccord will earn with Kraken contract extension](https://www.king5.com/article/sports/nhl/kraken/kraken-joey-daccord-contract-extension-value/281-3055cdae-7f8a-4c83-bb7a-1176b0a50034)
+        #### [Lockdown, shelter-in-place orders lifted at two Seattle schools after nearby shooting](https://www.king5.com/article/news/crime/shooting-nova-high-school-garfield-high-school-seattle/281-fb3d12ac-19a4-468f-8cea-a5ab7c74c62f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/CCT/images/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32/20241010T152654/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32/20241010T152654/e70ac7ef-ce13-4084-ba8b-71dd9bd5df32_360x203.jpg)](https://www.king5.com/article/news/nation-world/anderson-cooper-hit-by-object-during-hurricane-milton-live-cnn-coverage/507-6ce49ad1-252c-480c-9edc-39816f6d957f)
+    *  [![](https://media.king5.com/assets/KING/images/c9b5a36a-188a-4bdf-9482-00d5973af683/20241010T224047/c9b5a36a-188a-4bdf-9482-00d5973af683_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c9b5a36a-188a-4bdf-9482-00d5973af683/20241010T224047/c9b5a36a-188a-4bdf-9482-00d5973af683_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/how-to-take-pictures-northern-lights/281-14e05427-9e10-4263-9742-b7633fb5f0e4)
         
-        #### [CNN's Anderson Cooper hit by flying object during live hurricane coverage](https://www.king5.com/article/news/nation-world/anderson-cooper-hit-by-object-during-hurricane-milton-live-cnn-coverage/507-6ce49ad1-252c-480c-9edc-39816f6d957f)
+        #### [How to take pictures of the northern lights](https://www.king5.com/article/weather/weather-blog/how-to-take-pictures-northern-lights/281-14e05427-9e10-4263-9742-b7633fb5f0e4)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-56°
+54°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
