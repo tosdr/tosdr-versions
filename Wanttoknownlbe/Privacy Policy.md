@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/de-legende-van-de-13-kristallen-schedels/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/de-joodse-zelensky-en-neo-nazis-niet-te-rijmen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -198,7 +198,7 @@ by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [6 oktober 2024]
 
 [Een nieuwe bijdrage van Philo Hippus, de wijze schapenfokker, waarvan we al eerder ingezonden stukken gepubliceerd hebben. Een belezen man, die met zijn eenvoudige status en in eenvoudige bewoordingen, de wijsheid van een gedegen analist vertegenwoordigt. Vaak geleid door een frustrerende irritatie, komt Philo tot het schrijven van een column, die recht uit het hart komt. Zo ook weer deze keer. Met dank aan onze wijze schapenfokker uit Noord-Nederland. …](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/)
 
-Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/), [Overige](https://www.wanttoknow.nl/dossiers/overige/) Tagged [Corona](https://www.wanttoknow.nl/trefwoorden/corona/), [Energie](https://www.wanttoknow.nl/trefwoorden/energie/), [Gezondheid](https://www.wanttoknow.nl/trefwoorden/gezondheid/), [Machtselite](https://www.wanttoknow.nl/trefwoorden/machtselite/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Mensen](https://www.wanttoknow.nl/trefwoorden/mensen/), [scheppingskracht](https://www.wanttoknow.nl/trefwoorden/scheppingskracht/), [Vaccinaties](https://www.wanttoknow.nl/trefwoorden/vaccinaties/) [Laat een reactie achter](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/#respond)
+Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/), [Overige](https://www.wanttoknow.nl/dossiers/overige/) Tagged [Corona](https://www.wanttoknow.nl/trefwoorden/corona/), [Energie](https://www.wanttoknow.nl/trefwoorden/energie/), [Gezondheid](https://www.wanttoknow.nl/trefwoorden/gezondheid/), [Machtselite](https://www.wanttoknow.nl/trefwoorden/machtselite/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Mensen](https://www.wanttoknow.nl/trefwoorden/mensen/), [scheppingskracht](https://www.wanttoknow.nl/trefwoorden/scheppingskracht/), [Vaccinaties](https://www.wanttoknow.nl/trefwoorden/vaccinaties/) [1 reactie](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/#comments)
 
 [![Banner Bookshop WantToKnow](https://www.wanttoknow.nl/wp-content/uploads/banner-bookshop-WantToKnow.png)](https://bookshop.wanttoknow.nl/)
 
@@ -207,6 +207,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![kluut127](https://secure.gravatar.com/avatar/50b61c4097564ca71cf156762f721f76?s=50&d=identicon&r=g)
+
+##### **kluut127** reacts on:
+
+##### Verwar nooit een opleiding met intelligentie..!
+
+[Tja, hélaas moet ik het met het bovenstaande eens zijn! Ik h…](https://www.wanttoknow.nl/overige/verwar-nooit-een-opleiding-met-intelligentie/comment-page-1/#comment-626336)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -455,14 +463,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Wie weet wie de VS bestuurt..??
 
 [Ik ben het met Léon de Winter eens : Obama is degene die nog…](https://www.wanttoknow.nl/inspiratie/meelezen/wie-weet-wie-de-vs-bestuurt/comment-page-1/#comment-626303)
-
-![Senjutsu](https://secure.gravatar.com/avatar/744ec16c6541fe3eb3d9745c3bf7eff8?s=50&d=identicon&r=g)
-
-##### **Senjutsu** reacts on:
-
-##### Donald Trump’s argwaan over beveiliging..!!
-
-[Het is toch net een script uit een B-film niet? Maar dan één…](https://www.wanttoknow.nl/overige/donald-trumps-argwaan-over-beveiliging/comment-page-1/#comment-626302)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
