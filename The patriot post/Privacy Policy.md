@@ -1,6 +1,6 @@
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/110988-mid-day-digest-2024-10-10?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111026-mid-day-digest-2024-10-11?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -104,7 +104,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/110988-mid-day-digest-2024-10-10?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111026-mid-day-digest-2024-10-11?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -116,20 +116,22 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34350)
+     [](https://patriotpost.us/cartoons/34358)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Michael Reagan Kamala Has Nothing in Mind](https://patriotpost.us/opinion/111016-kamala-has-nothing-in-mind-2024-10-11)
+*      [David Harsanyi America’s Bipartisan Spending Suicide Pact](https://patriotpost.us/opinion/111014-americas-bipartisan-spending-suicide-pact-2024-10-11)
+*      [Michael Barone What the Census Can Tell Us About Swing States](https://patriotpost.us/opinion/111013-what-the-census-can-tell-us-about-swing-states-2024-10-11)
+*      [Josh Hammer One Year After Oct. 7, American Voters Face Stark Foreign Policy Choice](https://patriotpost.us/opinion/111012-one-year-after-oct-7-american-voters-face-stark-foreign-policy-choice-2024-10-11)
+*      [Erick Erickson Where Are the Big Names?](https://patriotpost.us/opinion/111011-where-are-the-big-names-2024-10-11)
+*      [Tim Graham What if Bob Woodward Wrote a Book on Doug Emhoff?](https://patriotpost.us/opinion/111010-what-if-bob-woodward-wrote-a-book-on-doug-emhoff-2024-10-11) 
+*      [Victor Davis Hanson Try a Little Honesty About Israel](https://patriotpost.us/opinion/111009-try-a-little-honesty-about-israel-2024-10-11)
+*      [Gary Bauer Exploiting Emergencies](https://patriotpost.us/opinion/111015-exploiting-emergencies-2024-10-11)
 *      [Mark Alexander Profiles of Valor: He Saved Our Lives](https://patriotpost.us/alexander/110987-profiles-of-valor-he-saved-our-lives-2024-10-11)
-*      [Larry Elder Hurricane Helene — and the ‘Climate Change’ Experts](https://patriotpost.us/opinion/110967-hurricane-helene-and-the-climate-change-experts-2024-10-10)
-*      [Jeff Jacoby For U.S. Jews, the Postwar Years Were a Golden Age. It Ended on Oct. 7.](https://patriotpost.us/opinion/110966-for-us-jews-the-postwar-years-were-a-golden-age-it-ended-on-oct-7-2024-10-10)
-*      [Cal Thomas Harris on ‘60 Minutes’](https://patriotpost.us/opinion/110965-harris-on-60-minutes-2024-10-10)
-*      [Laura Hollis We the People Can Count on Each Other, but Not the Federal Government](https://patriotpost.us/opinion/110968-we-the-people-can-count-on-each-other-but-not-the-federal-government-2024-10-10)
-*      [Gary Bauer Terror Attack Foiled](https://patriotpost.us/opinion/110962-terror-attack-foiled-2024-10-10)
-*      [Armstrong Williams Echoes of a Day That Shook Israel’s Soul](https://patriotpost.us/opinion/110960-echoes-of-a-day-that-shook-israels-soul-2024-10-10)
-*      [Ann Coulter Democrats’ Third World Reasoning](https://patriotpost.us/opinion/110959-democrats-third-world-reasoning-2024-10-10)
+*      [The Babylon Bee 10 Differences Between Kamala Harris and Joe Biden](https://patriotpost.us/opinion/111020-10-differences-between-kamala-harris-and-joe-biden-2024-10-11)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -143,11 +145,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
-“We are, heart and soul, friends to the freedom of the press. It is however, the prostituted companion of liberty.” —Fisher Ames (1807)
+“Labor to keep alive in your breast that little spark of celestial fire called conscience.” —George Washington (1748)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
