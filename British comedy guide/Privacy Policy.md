@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Red Dwarf. Image shows left to right: Kryten (Robert Llewellyn), Cat (Danny John-Jules), Lister (Craig Charles), Rimmer (Chris Barrie)](https://cdn.comedy.co.uk/images/library/comedies/300x200/r/red_dwarf_iconic.jpg "Red Dwarf. Image shows left to right: Kryten (Robert Llewellyn), Cat (Danny John-Jules), Lister (Craig Charles), Rimmer (Chris Barrie)")](https://www.comedy.co.uk/shop/features/tom-salinsky-red-dwarf-books/) Shop
+
+[Rogue Pun: Ultimate Lister - Tom Salinsky takes a deep-dive into Red Dwarf](https://www.comedy.co.uk/shop/features/tom-salinsky-red-dwarf-books/)
+
 [![Henry Rowley. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/people/300x200/h/henry_rowley_c.jpg "Henry Rowley. Credit: Matt Crockett")](https://www.comedy.co.uk/live/features/henry-rowley-interview/) Live
 
 [Henry Rowley talks about heading out on tour](https://www.comedy.co.uk/live/features/henry-rowley-interview/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Jokers Wild. Ray Martine. Credit: ITV](https://cdn.comedy.co.uk/images/library/comedies/300x200/j/jokers_wild_ray_martine.jpg "Jokers Wild. Ray Martine. Credit: ITV")](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/) Features
 
 [Comedy Chronicles: A Hackney diamond - The much-misunderstood Ray Martine](https://www.comedy.co.uk/features/comedy_chronicles/hackney-diamond-ray-martine/)
-
-[![Alma's Not Normal. Alma Nuthall (Sophie Willan)](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/almas_not_normal_series2.jpg "Alma's Not Normal. Alma Nuthall (Sophie Willan)")](https://www.comedy.co.uk/tv/almas_not_normal/interview/sophie-willan-series2/) TV
-
-[Sophie Willan talks about Alma's Not Normal Series 2](https://www.comedy.co.uk/tv/almas_not_normal/interview/sophie-willan-series2/)
 
 #### Subscribe to our newsletters
 
