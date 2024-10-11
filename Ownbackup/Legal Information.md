@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Disaster Recovery
+[Backup and Recovery
 
 How Can Businesses Design and Test Disaster Recovery?](https://www.ownbackup.com/blog/how-can-businesses-design-and-test-disaster-recovery)
+
+[Data Security
+
+The Access Balancing Act: Minimizing Risk Without Impeding Growth](https://www.ownbackup.com/blog/the-access-balancing-act-minimizing-risk-without-impeding-growth)
 
 [Backup and Recovery
 
 5 Steps For Creating a Backup Strategy](https://www.ownbackup.com/blog/5-steps-in-creating-a-backup-strategy)
-
-[Data Management
-
-4 Salesforce Data Governance Best Practices for Life Sciences](https://www.ownbackup.com/blog/4-data-governance-best-practices-for-life-sciences)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Disaster Recovery
+[Backup and Recovery
 
 How Can Businesses Design and Test Disaster Recovery?](https://www.ownbackup.com/blog/how-can-businesses-design-and-test-disaster-recovery)
+
+[Data Security
+
+The Access Balancing Act: Minimizing Risk Without Impeding Growth](https://www.ownbackup.com/blog/the-access-balancing-act-minimizing-risk-without-impeding-growth)
 
 [Backup and Recovery
 
 5 Steps For Creating a Backup Strategy](https://www.ownbackup.com/blog/5-steps-in-creating-a-backup-strategy)
-
-[Data Management
-
-4 Salesforce Data Governance Best Practices for Life Sciences](https://www.ownbackup.com/blog/4-data-governance-best-practices-for-life-sciences)
 
 Company
 
