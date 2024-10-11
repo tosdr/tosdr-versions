@@ -151,7 +151,7 @@ We have also taken a page from companies like Google and Amazon, and have a publ
 
 ### Further reading
 
-If you need to get our attention about anything else security related, please do so at [security@ynab.com](mailto:security@ynab.com). To learn more about how we protect your data from a legal standpoint, we spell all of that out in our [Privacy Policy.](https://www.youneedabudget.com/privacy-policy) For even lighter reading, take a look at our [Terms of Service](https://www.youneedabudget.com/terms).
+If you need to get our attention about anything else security related, please do so at [\[email protected\]](https://www.youneedabudget.com/cdn-cgi/l/email-protection). To learn more about how we protect your data from a legal standpoint, we spell all of that out in our [Privacy Policy.](https://www.youneedabudget.com/privacy-policy) For even lighter reading, take a look at our [Terms of Service](https://www.youneedabudget.com/terms).
 
 ![YNAB Tree Logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/645d2ae6d9658d2cd3608470_Tree%20Logo%20Buttermilk.svg)
 
