@@ -1,8 +1,8 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
+**RC Fall Frenzy Sale!** Save up to $130 [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
 
-**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
+**Spektrum Smart Sale!** Save 20% [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/spektrum-smart-sale/)
 
  
 
@@ -86,9 +86,9 @@ My store
 
 [](#)
 
-**Earn More Points** with the Horizon Hobby Visa® Credit Card [Learn More](https://www.horizonhobby.com/credit-card.html)
+**RC Fall Frenzy Sale!** Save up to $130 [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/fall-frenzy-sale/)
 
-**Elite Club Members** enjoy FREE 2-Day Shipping and more! [Learn More](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
+**Spektrum Smart Sale!** Save 20% [Shop Now](https://www.horizonhobby.com/horizon-hobby-rc-sale/spektrum-smart-sale/)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
