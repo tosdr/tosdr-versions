@@ -184,7 +184,7 @@ We use this information to:
 Choice / Opt-out
 ----------------
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [help@ting.com](mailto:help@ting.com).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [\[email protected\]](https://ting.com/cdn-cgi/l/email-protection).
 
 Information Obtained From Third Parties
 ---------------------------------------
@@ -243,22 +243,22 @@ Security
 
 The security of your personal information is important to us. When you provide sensitive information (such as a credit card number) to us, we encrypt the transmission of that information using secure socket layer technology (SSL). We also follow generally-accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. Each of us gets regular training about how to handle sensitive data and how important it is.
 
-If you have any questions about security, you can contact us at [help@ting.com](mailto:help@ting.com).
+If you have any questions about security, you can contact us at [\[email protected\]](https://ting.com/cdn-cgi/l/email-protection).
 
 Data retention
 --------------
 
-We will retain your information for as long as your account is active or as needed to provide you services, fulfill our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us at [help@ting.com](mailto:help@ting.com).
+We will retain your information for as long as your account is active or as needed to provide you services, fulfill our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us at [\[email protected\]](https://ting.com/cdn-cgi/l/email-protection).
 
 Other information
 -----------------
 
-Our Web site includes publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [help@ting.com](mailto:help@ting.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so.
+Our Web site includes publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [\[email protected\]](https://ting.com/cdn-cgi/l/email-protection). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so.
 
 Correcting and updating your personal information
 -------------------------------------------------
 
-We will retain your information for as long as your account is active or as needed to provide you services, fulfill our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us at [help@ting.com](mailto:help@ting.com).
+We will retain your information for as long as your account is active or as needed to provide you services, fulfill our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us at [\[email protected\]](https://ting.com/cdn-cgi/l/email-protection).
 
 Notification of changes
 -----------------------
