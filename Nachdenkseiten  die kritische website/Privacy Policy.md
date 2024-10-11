@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![](https://www.nachdenkseiten.de/wp-content/uploads/2021/06/maxresdefault.jpg)](https://www.nachdenkseiten.de/?p=73825)
+[![Michael Hartmann im Gespräch mit Albrecht Müller (Teil 1/3)](https://www.nachdenkseiten.de/wp-content/uploads/2022/09/2022-09-13-Hartmann-Gespraech-Teil1-Cover-YTButton.jpg "Michael Hartmann im Gespräch mit Albrecht Müller (Teil 1/3)")](https://www.nachdenkseiten.de/?p=88058)
 
-* ["Schwarzbuch Corona" - Jens Berger im Gespräch mit Markus J. Karsten](https://www.nachdenkseiten.de/?p=73825)
+* [Michael Hartmann im Gespräch mit Albrecht Müller (Teil 1/3)](https://www.nachdenkseiten.de/?p=88058)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +542,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [Baerbock – Das Sicherheitsrisiko](https://www.nachdenkseiten.de/?p=122403)
-* [Ausblenden, was nicht passt: Journalistische Bankrotterklärung bei „Maischberger“](https://www.nachdenkseiten.de/?p=122495)
-* [Gescheitert, aber noch lebendig? Bericht von einer Konferenz in Moskau anlässlich des 75. Jahrestages der Gründung der DDR](https://www.nachdenkseiten.de/?p=122426)
-* [Noch ein Jubiläum: Was erinnert zum Tag der Deutschen Einheit an die DDR?](https://www.nachdenkseiten.de/?p=122421)
-* [Julian Assange vor dem Europarat: Ungebrochen und nicht verbittert](https://www.nachdenkseiten.de/?p=122414)
-* [Arnulf Rating: Warum ich weiter Kabarett mache. – Plus Termine](https://www.nachdenkseiten.de/?p=122312)
+* [Von Herzen, Rheinmetall!](https://www.nachdenkseiten.de/?p=122927)
+* [Emmanuel Todd: „Russlands Rolle im Weltgeschehen hat mich immer erstaunt“](https://www.nachdenkseiten.de/?p=122641)
+* [Sigmar Gabriel und die gekauften Mäuler der USA](https://www.nachdenkseiten.de/?p=122718)
+* [Europarat stuft Julian Assange als „politischen Gefangenen“ ein – Was sagt die Bundesregierung?](https://www.nachdenkseiten.de/?p=122620)
+* [Noch mehr Zensur: Vorsicht vor den „vertrauenswürdigen Hinweisgebern“](https://www.nachdenkseiten.de/?p=122750)
+* [Keine Corona-Aufarbeitung im Bundestag – Regierung stiehlt sich (erwartungsgemäß) davon](https://www.nachdenkseiten.de/?p=122831)
 
 ### Audioangebot
 
