@@ -1,5 +1,5 @@
 * [Blog](https://www.recordedfuture.com/blog)
-* [Careers](https://www.recordedfuture.com/careers)
+* [Careers](https://www.recordedfuture.com/)
 * [Contact Us](https://www.recordedfuture.com/contact)
 * [Login](https://app.recordedfuture.com/live/login/)
 
@@ -263,7 +263,7 @@ About us
 
 Helpful links
 
-* [Careers](https://www.recordedfuture.com/careers)
+* [Careers](https://www.recordedfuture.com/)
 * [Contact Us](https://www.recordedfuture.com/contact)
 * [Get a Demo](https://go.recordedfuture.com/demo)
 * [The Intelligence Graph](https://www.recordedfuture.com/platform/intelligence-graph)
