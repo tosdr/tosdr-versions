@@ -1,59 +1,63 @@
 [](#)
 
-* [Products](https://www.owayo.com/)
+* + [Clothing](https://www.owayo.com/productservice/products/apparel-us.htm)
     
-    * [Soccer](https://www.owayo.com/soccer-us.htm)
-    * [Handball](https://www.owayo.com/design-customized-handball-jerseys.htm)
-    * [Basketball](https://www.owayo.com/basketball-us.htm)
-    * [Hockey](https://www.owayo.com/hockey-us.htm)
-    * [Cycling](https://www.owayo.com/custom-cycling-clothing.htm)
-    * [Running](https://www.owayo.com/running-us.htm)
-    * [Esports](https://www.owayo.com/custom-esports-jerseys.htm)
-    * [Yoga](https://www.owayo.com/custom-yoga-pants.htm)
-    * [Motocross](https://www.owayo.com/design-custom-motocross-jerseys.htm)
-    * [Darts](https://www.owayo.com/darts-us.htm)
-    * [Volleyball](https://www.owayo.com/custom-volleyball-jerseys.htm)
-    * [Table Tennis](https://www.owayo.com/custom-table-tennis-jerseys.htm)
-    * [Floorball](https://www.owayo.com/custom-floorball-jerseys.htm)
-    * [Bowling](https://www.owayo.com/custom-bowling-jerseys.htm)
-    * [Field hockey](https://www.owayo.com/fieldhockey-us.htm)
-    * [Product Service](https://www.owayo.com/productservice-us.htm)
+    * [T-Shirts](https://www.owayo.com/custom-t-shirts.htm)
+    * [Polo Shirts](https://www.owayo.com/productservice/products/polo-shirts-us.htm)
+    * [Hoodies/Sweatshirts](https://www.owayo.com/custom-hoodie-us.htm)
+    
+* + [Head and neck](https://www.owayo.com/productservice/products/head-and-neck-us.htm)
+    
+    * [Hats and Headbands](https://www.owayo.com/productservice/products/caps-and-headbands-us.htm)
+    * [Neck Warmer](https://www.owayo.com/custom-neck-warmers.htm)
+    * [Face Masks](https://www.owayo.com/buy-face-masks.htm)
+    * [Hair Accessories](https://www.owayo.com/productservice/products/hair-accessories-us.htm)
+    
+* + [Merchandise](https://www.owayo.com/productservice/products/merchandise-us.htm)
+    
+    * [Mugs](https://www.owayo.com/productservice/products/mugs-us.htm)
+    * [Mouse Pads](https://www.owayo.com/productservice/products/mouse-pads-us.htm)
+    * [Bags](https://www.owayo.com/productservice/products/bags-us.htm)
+    * [Gym Bags](https://www.owayo.com/custom-gym-bag-drawstring.htm)
+    * [Banner](https://www.owayo.com/productservice/products/banner-us.htm)
     
 * [Other Worlds ...](#)
     
-    * [owayo product service](https://www.owayo.com/productservice-us.htm)
+    * [owayo custom sports](https://www.owayo.com/)
     
 
 [](#)
 
-* + [Strengths](https://www.owayo.com/cycling/mydesign-us.htm)
+* + [Strengths](https://www.owayo.com/productservice/mydesign-us.htm)
     
-    * [My Design](https://www.owayo.com/cycling/mydesign-us.htm)
-    * [Precise Logistics](https://www.owayo.com/cycling/exact_logistics-us.htm)
-    * [One or ten thousand](https://www.owayo.com/cycling/one_or_one_thousand-us.htm)
-    * [Guaranteed Reorders](https://www.owayo.com/cycling/reorder_guaranteed-us.htm)
-    * [Research & Development](https://www.owayo.com/cycling/research_development-us.htm)
-    * [All-in-One Producer](https://www.owayo.com/cycling/real_manufacturer-us.htm)
-    * [Print, no pressing](https://www.owayo.com/cycling/printing_technique-us.htm)
-    * [Individual Team Design](https://www.owayo.com/cycling/unique_teamdesign-us.htm)
-    * [Corporate Identity](https://www.owayo.com/cycling/corporate_design-us.htm)
+    * [My Design](https://www.owayo.com/productservice/mydesign-us.htm)
+    * [Precise Logistics](https://www.owayo.com/productservice/exact_logistics-us.htm)
+    * [One or ten thousand](https://www.owayo.com/productservice/one_or_one_thousand-us.htm)
+    * [Great for teams](https://www.owayo.com/productservice/unique_teamdesign-us.htm)
+    * [Corporate Identity](https://www.owayo.com/productservice/corporate_design-us.htm)
     
-* + [About owayo](https://www.owayo.com/cycling/news-us.htm)
+* + [Support](https://www.owayo.com/productservice/price_estimates-us.htm)
     
-    * [News](https://www.owayo.com/cycling/news-us.htm)
-    * [Tried and tested reviews](https://www.owayo.com/cycling/feedback-us.htm)
-    * [References](https://www.owayo.com/cycling/references-us.htm)
-    * [Design of the Day](https://www.owayo.com/cycling/designoftheday-us.htm)
-    * [Athletes and Teams](https://www.owayo.com/cycling/athletes-us.htm)
-    * [Made in Germany](https://www.owayo.com/cycling/made_in_germany-us.htm)
-    * [Environmental Responsibility](https://www.owayo.com/cycling/environmental_responsibility-us.htm)
-    * [Inside](https://www.owayo.com/cycling/inside-us.htm)
+    * [Receive a quote](https://www.owayo.com/productservice/price_estimates-us.htm)
+    * [owayo Design Service](https://www.owayo.com/productservice/design_service-us.htm)
+    * [Size Chart](https://www.owayo.com/productservice/sizechart-us.htm)
+    * [Production Time](https://www.owayo.com/productservice/delivery-us.htm)
+    * [Price List](https://www.owayo.com/productservice/pricelist_all-us.htm)
     
-* + [Contact](https://www.owayo.com/cycling/contact-us.htm)
+* + [About owayo](https://www.owayo.com/productservice/news-us.htm)
     
-    * [Contact](https://www.owayo.com/cycling/contact-us.htm)
-    * [Contact Form](https://www.owayo.com/cycling/formular-us.htm)
-    * [owayo Newsletter](https://www.owayo.com/cycling/newsletter-us.htm)
+    * [News](https://www.owayo.com/productservice/news-us.htm)
+    * [Tried and tested reviews](https://www.owayo.com/productservice/feedback-us.htm)
+    * [References](https://www.owayo.com/productservice/references-us.htm)
+    * [Based in Germany](https://www.owayo.com/productservice/made_in_germany-us.htm)
+    * [Environmental Responsibility](https://www.owayo.com/productservice/environmental_responsibility-us.htm)
+    * [Inside](https://www.owayo.com/productservice/inside-us.htm)
+    
+* + [Contact](https://www.owayo.com/productservice/contact-us.htm)
+    
+    * [Contact](https://www.owayo.com/productservice/contact-us.htm)
+    * [Contact Form](https://www.owayo.com/productservice/formular-us.htm)
+    * [owayo Newsletter](https://www.owayo.com/productservice/newsletter-us.htm)
     
 * [Magazine](https://www.owayo.com/magazine-us.htm)
 
@@ -72,59 +76,79 @@ Your shopping cart is empty.
 [My Account](#) [Log out of](#)   Log in
 
 * [![owayo](https://static.owayo-cdn.com/newhp/img/owayo-logo.svg)](https://www.owayo.com/)
-* more [Sports](https://www.owayo.com/)
+* more [Product Service](https://www.owayo.com/productservice-us.htm)
     
-    * [Soccer](https://www.owayo.com/soccer-us.htm)
-    * [Handball](https://www.owayo.com/design-customized-handball-jerseys.htm)
-    * [Basketball](https://www.owayo.com/basketball-us.htm)
-    * [Hockey](https://www.owayo.com/hockey-us.htm)
-    * [Cycling](https://www.owayo.com/custom-cycling-clothing.htm)
-    * [Running](https://www.owayo.com/running-us.htm)
-    * [Esports](https://www.owayo.com/custom-esports-jerseys.htm)
-    * [Yoga](https://www.owayo.com/custom-yoga-pants.htm)
-    * [Motocross](https://www.owayo.com/design-custom-motocross-jerseys.htm)
-    * [Darts](https://www.owayo.com/darts-us.htm)
-    
-    * [Volleyball](https://www.owayo.com/custom-volleyball-jerseys.htm)
-    * [Table Tennis](https://www.owayo.com/custom-table-tennis-jerseys.htm)
-    * [Floorball](https://www.owayo.com/custom-floorball-jerseys.htm)
-    * [Bowling](https://www.owayo.com/custom-bowling-jerseys.htm)
-    * [Field hockey](https://www.owayo.com/fieldhockey-us.htm)
-    
-    * Continue to
     * [Product Service](https://www.owayo.com/productservice-us.htm)
     
-* more [Strengths](https://www.owayo.com/cycling/mydesign-us.htm)
+    * Continue to
+    * [custom sports](https://www.owayo.com/)
     
-    * [My Design Create your own design](https://www.owayo.com/cycling/mydesign-us.htm)
-    * [Precise Logistics Short and precise delivery times](https://www.owayo.com/cycling/exact_logistics-us.htm)
-    * [One or ten thousand Order any Quantity](https://www.owayo.com/cycling/one_or_one_thousand-us.htm)
-    * [Guaranteed Reorders Reorder anytime, in any amount](https://www.owayo.com/cycling/reorder_guaranteed-us.htm)
-    * [Research & Development Our innovation, your drive](https://www.owayo.com/cycling/research_development-us.htm)
+* more [Products](https://www.owayo.com/productservice/products-us.htm)
     
-    * [All-in-One Producer Made Under One Roof](https://www.owayo.com/cycling/real_manufacturer-us.htm)
-    * [Print, no pressing Printing Process for high quality textiles](https://www.owayo.com/cycling/printing_technique-us.htm)
-    * [Individual Team Design Create a Custom Design for your Team](https://www.owayo.com/cycling/unique_teamdesign-us.htm)
-    * [Corporate Identity Your CI and matching Sportswear](https://www.owayo.com/cycling/corporate_design-us.htm)
+    more [Clothing](https://www.owayo.com/productservice/products/apparel-us.htm)
     
-* more [About owayo](https://www.owayo.com/cycling/news-us.htm)
+    * [T-Shirts](https://www.owayo.com/custom-t-shirts.htm)
     
-    * [News What's happening at owayo](https://www.owayo.com/cycling/news-us.htm)
-    * [Tried and tested reviews Here's what our customers say](https://www.owayo.com/cycling/feedback-us.htm)
-    * [References A glimpse of our customer base](https://www.owayo.com/cycling/references-us.htm)
-    * [Design of the Day Design Examples and Inspiration](https://www.owayo.com/cycling/designoftheday-us.htm)
+    * [Polo Shirts](https://www.owayo.com/productservice/products/polo-shirts-us.htm)
     
-    * [Athletes and Teams The owayo family](https://www.owayo.com/cycling/athletes-us.htm)
-    * [Made in Germany German Expertise](https://www.owayo.com/cycling/made_in_germany-us.htm)
-    * [Environmental Responsibility We don't just preach environmentalism...](https://www.owayo.com/cycling/environmental_responsibility-us.htm)
-    * [Inside The owayo Story](https://www.owayo.com/cycling/inside-us.htm)
+    * [Hoodies/Sweatshirts](https://www.owayo.com/custom-hoodie-us.htm)
     
-* more [Contact](https://www.owayo.com/cycling/contact-us.htm)
+    more [Head and neck](https://www.owayo.com/productservice/products/head-and-neck-us.htm)
     
-    * [Contact Contact Us - Address - Office Hours](https://www.owayo.com/cycling/contact-us.htm)
-    * [Contact Form Have a question? We're here to help.](https://www.owayo.com/cycling/formular-us.htm)
+    * [Hats and Headbands](https://www.owayo.com/productservice/products/caps-and-headbands-us.htm)
     
-    * [owayo Newsletter The owayo newsletter](https://www.owayo.com/cycling/newsletter-us.htm)
+    * [Neck Warmer](https://www.owayo.com/custom-neck-warmers.htm)
+    
+    * [Face Masks](https://www.owayo.com/buy-face-masks.htm)
+    
+    * [Hair Accessories](https://www.owayo.com/productservice/products/hair-accessories-us.htm)
+    
+    more [Merchandise](https://www.owayo.com/productservice/products/merchandise-us.htm)
+    
+    * [Mugs](https://www.owayo.com/productservice/products/mugs-us.htm)
+    
+    * [Mouse Pads](https://www.owayo.com/productservice/products/mouse-pads-us.htm)
+    
+    * [Bags](https://www.owayo.com/productservice/products/bags-us.htm)
+    
+    * [Gym Bags](https://www.owayo.com/custom-gym-bag-drawstring.htm)
+    
+    * [Banner](https://www.owayo.com/productservice/products/banner-us.htm)
+    
+* more [Strengths](https://www.owayo.com/productservice/mydesign-us.htm)
+    
+    * [My Design Create your own products in 3D](https://www.owayo.com/productservice/mydesign-us.htm)
+    * [Precise Logistics Short and precise delivery times](https://www.owayo.com/productservice/exact_logistics-us.htm)
+    * [One or ten thousand Order any Quantity](https://www.owayo.com/productservice/one_or_one_thousand-us.htm)
+    
+    * [Great for teams Individual names and numbers](https://www.owayo.com/productservice/unique_teamdesign-us.htm)
+    * [Corporate Identity Your CI and matching Sportswear](https://www.owayo.com/productservice/corporate_design-us.htm)
+    
+* more [Support](https://www.owayo.com/productservice/price_estimates-us.htm)
+    
+    * [Receive a quote Individually calculated](https://www.owayo.com/productservice/price_estimates-us.htm)
+    * [owayo Design Service We make your ideas into design](https://www.owayo.com/productservice/design_service-us.htm)
+    * [Size Chart Find the right size](https://www.owayo.com/productservice/sizechart-us.htm)
+    
+    * [Production Time Fast and precise delivery times](https://www.owayo.com/productservice/delivery-us.htm)
+    * [Price List Unit prices for all products](https://www.owayo.com/productservice/pricelist_all-us.htm)
+    
+* more [About owayo](https://www.owayo.com/productservice/news-us.htm)
+    
+    * [News What's happening at owayo](https://www.owayo.com/productservice/news-us.htm)
+    * [Tried and tested reviews Here's what our customers say](https://www.owayo.com/productservice/feedback-us.htm)
+    * [References Our customer's handiwork](https://www.owayo.com/productservice/references-us.htm)
+    
+    * [Based in Germany German expertise](https://www.owayo.com/productservice/made_in_germany-us.htm)
+    * [Environmental Responsibility We don't just preach environmentalism...](https://www.owayo.com/productservice/environmental_responsibility-us.htm)
+    * [Inside The owayo Story](https://www.owayo.com/productservice/inside-us.htm)
+    
+* more [Contact](https://www.owayo.com/productservice/contact-us.htm)
+    
+    * [Contact Contact Us - Address - Office Hours](https://www.owayo.com/productservice/contact-us.htm)
+    * [Contact Form Have a question? We're here to help.](https://www.owayo.com/productservice/formular-us.htm)
+    
+    * [owayo Newsletter The owayo newsletter](https://www.owayo.com/productservice/newsletter-us.htm)
     
 * [Shopping Cart](#)
     
