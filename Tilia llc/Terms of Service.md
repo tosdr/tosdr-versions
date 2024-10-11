@@ -153,7 +153,7 @@ You therefore must keep your security details safe at all times.
 
 You are fully responsible for all activity that occurs on your Tilia Account. Tilia is not responsible for transactions that are effected using your Tilia Account if someone accesses your Tilia Account, IDs, passwords, or other codes necessary to access your Tilia Account, or any losses that you may suffer therefrom.
 
-If you suspect that your Tilia Account or any of your security details have been compromised or if you become aware of any fraud or attempted fraud or any other security incident (including a cyber-security attack) affecting you and/or Tilia (together a "**Security Breach**"), you must notify us as soon as possible by email at: [paymentsupport@tilia.io](mailto:paymentsupport@tilia.io), or by calling us at: [(855) 983-4646](tel:+1-855-983-4646) (international charges may apply).
+If you suspect that your Tilia Account or any of your security details have been compromised or if you become aware of any fraud or attempted fraud or any other security incident (including a cyber-security attack) affecting you and/or Tilia (together a "**Security Breach**"), you must notify us as soon as possible by email at: [\[email protected\]](https://www.tilia.io/cdn-cgi/l/email-protection), or by calling us at: [(855) 983-4646](tel:+1-855-983-4646) (international charges may apply).
 
 We are not liable for any damage or interruptions caused by any computer viruses or other malicious code that may affect your computer or other equipment you use to access the Tilia Service, or any phishing, spoofing or other attack related to your use of the Tilia Service. We advise the regular use of a reputable and readily available virus screening and prevention software. You should also be aware that SMS and email services are vulnerable to spoofing and phishing attacks and should use care in reviewing messages purporting to originate from us.
 
@@ -324,7 +324,7 @@ If you believe the intellectual property rights in our Content are being infring
 
 ### **8.1. Communications from and to You**
 
-All notices given by you to Tilia or required under these Terms shall be mailed to the address found on this [page](https://www.tilia.io/customer-support) or emailed to [tilia-support@tilia.io](mailto:tilia-support@tilia.io).
+All notices given by you to Tilia or required under these Terms shall be mailed to the address found on this [page](https://www.tilia.io/customer-support) or emailed to [\[email protected\]](https://www.tilia.io/cdn-cgi/l/email-protection).
 
 You acknowledge that to fully use the Tilia Service, we must be able to send to you electronically all communications, agreements, documents, notices and disclosures (collectively, "Communications") that we provide in connection with the use of the Services. Communications include:
 
@@ -342,7 +342,7 @@ It is your responsibility to provide us with a true, accurate and complete email
 
 In addition to electronic communication, Tilia may communicate with you, including giving notice to or obtaining consent from you, through the Tilia Service or Website or by written mail communication to the address on record for your Tilia Account.
 
-For questions or complaints regarding payments made to Tilia or any other aspect of the Tilia Service, please contact Tilia Customer Service at tilia-support@tilia.io. When contacting us by telephone, you will not be bound to pay more than the basic rate (i.e., the simple cost of connection).
+For questions or complaints regarding payments made to Tilia or any other aspect of the Tilia Service, please contact Tilia Customer Service at [\[email protected\]](https://www.tilia.io/cdn-cgi/l/email-protection). When contacting us by telephone, you will not be bound to pay more than the basic rate (i.e., the simple cost of connection).
 
 **9\. Term and Termination**
 ----------------------------
@@ -427,11 +427,11 @@ Submit formal complaint form with supporting documents:
 
 Division of Banking & Securities PO Box 110807 Juneau, AK  99811-0807
 
-If you are an Alaska resident with questions regarding formal complaints, please email us at dbs.licensing@alaska.gov or call Nine Zero Seven Four Six Five Two Five Two One.
+If you are an Alaska resident with questions regarding formal complaints, please email us at [\[email protected\]](https://www.tilia.io/cdn-cgi/l/email-protection) or call Nine Zero Seven Four Six Five Two Five Two One.
 
 ### **11.2. California Users**
 
-If you have complaints with respect to any aspect of the money transmission activities conducted at this location, you may contact the California Department of Financial Protection and Innovation at its toll-free telephone number, 1-866-275-2677, by e-mail at consumer.services@dbo.ca.gov, or by mail at the Department of Financial Protection and Innovation, Consumer Services, 2101 Arena Boulevard, Sacramento, CA 95834.
+If you have complaints with respect to any aspect of the money transmission activities conducted at this location, you may contact the California Department of Financial Protection and Innovation at its toll-free telephone number, 1-866-275-2677, by e-mail at [\[email protected\]](https://www.tilia.io/cdn-cgi/l/email-protection), or by mail at the Department of Financial Protection and Innovation, Consumer Services, 2101 Arena Boulevard, Sacramento, CA 95834.
 
 ### **11.3. Florida Users**
 
@@ -443,7 +443,7 @@ The Commissioner of Financial Regulation for the State of Maryland will accept a
 
 ### **11.5. Texas Users**
 
-If you have a complaint, first contact Tilia’s customer support by email at [tilia-support@tilia.io](mailto:tilia-support@tilia.io) or by phone at 1-855-983-4646. If you still have an unresolved complaint regarding Tilia’s money transmission activity, please direct your complaint to the attention of: Texas Department of Banking, 2601 North Lamar Boulevard, Austin, Texas 78705; 1-877-276-5554 (toll-free in the U.S.). Please visit [www.dob.texas.gov](http://www.dob.texas.gov/) for more information.
+If you have a complaint, first contact Tilia’s customer support by email at [\[email protected\]](https://www.tilia.io/cdn-cgi/l/email-protection) or by phone at 1-855-983-4646. If you still have an unresolved complaint regarding Tilia’s money transmission activity, please direct your complaint to the attention of: Texas Department of Banking, 2601 North Lamar Boulevard, Austin, Texas 78705; 1-877-276-5554 (toll-free in the U.S.). Please visit [www.dob.texas.gov](http://www.dob.texas.gov/) for more information.
 
 **12\. Releases, Disclaimers, Liability Limits and Identification**
 -------------------------------------------------------------------
@@ -528,7 +528,7 @@ When we change these Terms, the then-current version of these Terms supersedes a
 
 If any part of these Terms are inconsistent with any legal requirements then we will not rely on that part but treat it as if it did actually reflect the relevant legal requirement. If we need to make operational changes before we can fully comply with the new regulatory requirement, we will make those changes as soon as reasonably practical.
 
-You can obtain a copy of the current Terms [here](https://www.tilia.io/legal/terms-of-service/branch_terms-of-service) or by e-mailing a request to us at tilia-support@tilia.io.
+You can obtain a copy of the current Terms [here](https://www.tilia.io/legal/terms-of-service/branch_terms-of-service) or by e-mailing a request to us at [\[email protected\]](https://www.tilia.io/cdn-cgi/l/email-protection).
 
 ### **14.2. Entire Understanding and Agreement**
 
