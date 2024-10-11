@@ -300,7 +300,7 @@ You will be responsible for obtaining and maintaining any equipment or ancillary
 
 ### What this is saying
 
-We are serious about safety. If you don't follow our Guidelines or these Terms of Use, we may need to remove any inappropriate content, deactivate your account, and, in extreme circumstances, report your content to law enforcement. For example, we will report all images including nudity of minors or suspected minors unless they are clearly related to academic study of subjects such as art, biology or medicine. Remind Tutors are instructed to use their best professional judgment to report concerns regarding potential self harm, child endangerment, or other serious criminal law violations. If you see someone violating our Guidelines or Terms of Use, please contact us immediately at [privacy@remindhq.com](mailto:report@remindhq.com). We need your help to keep the Remind community safe!  
+We are serious about safety. If you don't follow our Guidelines or these Terms of Use, we may need to remove any inappropriate content, deactivate your account, and, in extreme circumstances, report your content to law enforcement. For example, we will report all images including nudity of minors or suspected minors unless they are clearly related to academic study of subjects such as art, biology or medicine. Remind Tutors are instructed to use their best professional judgment to report concerns regarding potential self harm, child endangerment, or other serious criminal law violations. If you see someone violating our Guidelines or Terms of Use, please contact us immediately at [\[email protected\]](https://www.remind.com/cdn-cgi/l/email-protection). We need your help to keep the Remind community safe!  
 
 Copyright dispute policy  
 
