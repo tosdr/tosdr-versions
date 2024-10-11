@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Physics](https://www.sciencenews.org/topic/physics)
+            
+            ### [Radioactive beams give a real-time view of cancer treatment in mice](https://www.sciencenews.org/article/radioactive-ion-cancer-treatment)
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")3 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [A viral gene drive could offer a new approach to fighting herpes](https://www.sciencenews.org/article/gene-drive-herpes-simplex-virus)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")17 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")23 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [New electrical stitches use muscle movement to speed up healing](https://www.sciencenews.org/article/electrical-stitches-muscle-healing)
             
             By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")October 8, 2024
-            
-        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
-            
-            ### [Ancient Scythians had cultural roots in Siberia](https://www.sciencenews.org/article/scythians-cultural-roots-siberia)
-            
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")October 8, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,23 +114,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+    * * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [DNA from old hair helps confirm the macabre diet of two 19th century lions](https://www.sciencenews.org/article/dna-hair-teeth-diet-lions)
+            
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")46 mins ago
+            
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Hair pulling prompts one of the fastest known pain signals](https://www.sciencenews.org/article/hair-pull-pain-signal-nerve)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")14 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")20 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [A viral gene drive could offer a new approach to fighting herpes](https://www.sciencenews.org/article/gene-drive-herpes-simplex-virus)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")17 hours ago
-            
-        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
-            
-            ### [The largest arthropod to ever live finally has a head](https://www.sciencenews.org/article/largest-arthropod-head) 
-            
-            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")October 9, 2024
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")23 hours ago
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -142,13 +142,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [There’s a new term for attempting to own the wind: ventography](https://www.sciencenews.org/article/wind-ownership-ventography)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")19 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")October 10, 2024
             
         * [Earth](https://www.sciencenews.org/topic/earth)
             
             ### [What leads rivers to suddenly change course?](https://www.sciencenews.org/article/why-rivers-suddenly-change-course)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")21 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")October 10, 2024
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -161,7 +161,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Physics](https://www.sciencenews.org/topic/physics)
+            
+            ### [Radioactive beams give a real-time view of cancer treatment in mice](https://www.sciencenews.org/article/radioactive-ion-cancer-treatment)
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")3 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [New electrical stitches use muscle movement to speed up healing](https://www.sciencenews.org/article/electrical-stitches-muscle-healing)
             
@@ -172,12 +178,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [The discovery of tools key to machine learning wins the 2024 physics Nobel](https://www.sciencenews.org/article/nobel-physics-2024-machine-learning)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 8, 2024
-            
-        * [Physics](https://www.sciencenews.org/topic/physics)
-            
-            ### [Thunderstorms churn up a ‘boiling pot’ of gamma rays](https://www.sciencenews.org/article/thunderstorms-radiation-gamma-rays) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")October 2, 2024
             
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
