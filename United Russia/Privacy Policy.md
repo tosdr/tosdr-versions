@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» и ЦК Компартии Китая обсудили форматы российско-китайского сотрудничества](https://cdn.er.ru/media/news/October2024/clPmv7SCVZBycNnp43Ai-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-i-ck-kompartii-kitaya-obsudili-formaty-rossijsko-kitajskogo-sotrudnichestva)
+
+[«Единая Россия» и ЦК Компартии Китая обсудили форматы российско-китайского сотрудничества](https://er.ru/activity/news/edinaya-rossiya-i-ck-kompartii-kitaya-obsudili-formaty-rossijsko-kitajskogo-sotrudnichestva)
+
+[#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133) [#Китай](https://er.ru/activity/news?tags%5B0%5D=263) [#межпартийное взаимодействие](https://er.ru/activity/news?tags%5B0%5D=139731) [#КНДР](https://er.ru/activity/news?tags%5B0%5D=80779)
+
+Сегодня 19:27
+
+[![При содействии «Единой России» в Луганске состоялся второй фестиваль «Сердце Донбасса»](https://cdn.er.ru/media/news/October2024/jnnelXFXDH8D6HKzvLNw-small.jpg)](https://er.ru/activity/news/pri-sodejstvii-edinoj-rossii-v-luganske-sostoyalsya-vtoroj-festival-serdce-donbassa)
+
+[При содействии «Единой России» в Луганске состоялся второй фестиваль «Сердце Донбасса»](https://er.ru/activity/news/pri-sodejstvii-edinoj-rossii-v-luganske-sostoyalsya-vtoroj-festival-serdce-donbassa)
+
+[#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#сторонникиЕР](https://er.ru/activity/news?tags%5B0%5D=1093192) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#гражданскиеинициативы](https://er.ru/activity/news?tags%5B0%5D=121730) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 17:49
+
+[![Александр Двойных: «Единая Россия» выступает за сохранение востребованных мер поддержки сельхозпроизводителей в бюджете на 2025 год](https://cdn.er.ru/media/news/October2024/4EsAOsjf8g2jleXSrQVT-small.jpg)](https://er.ru/activity/news/aleksandr-dvojnyh-edinaya-rossiya-vystupaet-za-sohranenie-vostrebovannyh-mer-podderzhki-selhozproizvoditelej-v-byudzhete-na-2025-god)
+
+[Александр Двойных: «Единая Россия» выступает за сохранение востребованных мер поддержки сельхозпроизводителей в бюджете на 2025 год](https://er.ru/activity/news/aleksandr-dvojnyh-edinaya-rossiya-vystupaet-za-sohranenie-vostrebovannyh-mer-podderzhki-selhozproizvoditelej-v-byudzhete-na-2025-god)
+
+[#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#РоссийскоеСело](https://er.ru/activity/news?tags%5B0%5D=101051) [#совещание](https://er.ru/activity/news?tags%5B0%5D=190) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#комплексноеразвитиесельскихтерриторий](https://er.ru/activity/news?tags%5B0%5D=136045) [#РССМ](https://er.ru/activity/news?tags%5B0%5D=12700)
+
+Сегодня 15:15
+
 [![«Единая Россия» и МГЕР организовали в регионах памятную акцию «Уничтоженное детство»](https://cdn.er.ru/media/news/October2024/YrOa7ZFyv4HBx80MqPVP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-organizovali-v-regionah-pamyatnuyu-akciyu-unichtozhennoe-detstvo)
 
 [«Единая Россия» и МГЕР организовали в регионах памятную акцию «Уничтоженное детство»](https://er.ru/activity/news/edinaya-rossiya-i-mger-organizovali-v-regionah-pamyatnuyu-akciyu-unichtozhennoe-detstvo)
@@ -322,30 +346,6 @@
 [#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Ставропольский край](https://er.ru/activity/news?tags%5B0%5D=1300) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#КультураМалойРодины](https://er.ru/activity/news?tags%5B0%5D=1090059) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
 10.10.24
-
-[![«Единая Россия» запустила Всероссийскую акцию «Финансовая безопасность в цифровом мире»](https://cdn.er.ru/media/news/October2024/Vg272IlLTHxRzHMzaLVc-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-zapustila-vserossijskuyu-akciyu-finansovaya-bezopasnost-v-cifrovom-mire)
-
-[«Единая Россия» запустила Всероссийскую акцию «Финансовая безопасность в цифровом мире»](https://er.ru/activity/news/edinaya-rossiya-zapustila-vserossijskuyu-akciyu-finansovaya-bezopasnost-v-cifrovom-mire)
-
-[#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#акция](https://er.ru/activity/news?tags%5B0%5D=238) [#финансоваябезопасность](https://er.ru/activity/news?tags%5B0%5D=1095793) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834) [#Калужская область](https://er.ru/activity/news?tags%5B0%5D=783) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#Шапша](https://er.ru/activity/news?tags%5B0%5D=23539)
-
-10.10.24
-
-[![Инфраструктура, кадры, господдержка: как «Единая Россия» обеспечивает развитие села](https://cdn.er.ru/media/news/October2024/jsyilxA66ZpPvzwnnuyF-small.jpg)](https://er.ru/activity/news/infrastruktura-kadry-gospodderzhka-kak-edinaya-rossiya-obespechivaet-razvitie-sela)
-
-[Инфраструктура, кадры, господдержка: как «Единая Россия» обеспечивает развитие села](https://er.ru/activity/news/infrastruktura-kadry-gospodderzhka-kak-edinaya-rossiya-obespechivaet-razvitie-sela)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#развитиесела](https://er.ru/activity/news?tags%5B0%5D=141272) [#развитиесельскихтерриторий](https://er.ru/activity/news?tags%5B0%5D=118666) [#сельскоехозяйство](https://er.ru/activity/news?tags%5B0%5D=128668) [#АПК](https://er.ru/activity/news?tags%5B0%5D=72) [#поддержкасела](https://er.ru/activity/news?tags%5B0%5D=143757) [#сельскиешколы](https://er.ru/activity/news?tags%5B0%5D=130452) [#сельскиедомакультуры](https://er.ru/activity/news?tags%5B0%5D=138764) [#Совфед](https://er.ru/activity/news?tags%5B0%5D=1319) [#Лут](https://er.ru/activity/news?tags%5B0%5D=133405)
-
-10.10.24
-
-[![При поддержке «Единой России» в Сочи прошёл X Международный полумарафон на спортивных колясках «Рецепт-Спорт»](https://cdn.er.ru/media/news/October2024/G34PdXmysAJYtTpmZdQo-small.jpg)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sochi-proshyol-x-mezhdunarodnyj-polumarafon-na-sportivnyh-kolyaskah-recept-sport)
-
-[При поддержке «Единой России» в Сочи прошёл X Международный полумарафон на спортивных колясках «Рецепт-Спорт»](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-sochi-proshyol-x-mezhdunarodnyj-polumarafon-na-sportivnyh-kolyaskah-recept-sport)
-
-[#Терентьев](https://er.ru/activity/news?tags%5B0%5D=3447) [#Сочи](https://er.ru/activity/news?tags%5B0%5D=549) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЕдинаяСтранаДоступнаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090017) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#людисовз](https://er.ru/activity/news?tags%5B0%5D=123028)
-
-09.10.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
