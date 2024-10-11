@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![Squidward Is Furious Patrick Opened His Bag Of Carbon Monoxide In absolutenutcase162 Redraw Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/201/carbon_monoxide.jpg "Squidward Is Furious Patrick Opened His Bag Of Carbon Monoxide In absolutenutcase162 Redraw Meme")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/206/pauld_vaz.jpg "Where Are They Now? The Heartwarming Tale Of The Wholesome 'Double Rainbow' Guy And Why Paul 'Bear' Vasquez's YouTube Channel Remains Active")
     
-    Squidward Is Furious Patrick Opened His Bag Of Carbon Monoxide In absolutenutcase162 Redraw Meme](https://knowyourmeme.com/memes/patrick-did-you-or-did-you-not-open-my-bag-of-carbon-monoxide-in-the-krusty-krab)
+    Where Are They Now? The Heartwarming Tale Of The Wholesome 'Double Rainbow' Guy And Why Paul 'Bear' Vasquez's YouTube Channel Remains Active](https://knowyourmeme.com/editorials/guides/where-are-they-now-the-heartwarming-tale-of-the-wholesome-double-rainbow-guy-and-why-paul-bear-vasquezs-youtube-channel-remains-posthumously-active)
     
-* [![Punch Drummer 'Speedbag Bard' Covers Popular Songs With His Fists And A Punching Bag](https://i.kym-cdn.com/featured_items/icons/wide/000/026/200/cover4.jpg "Punch Drummer 'Speedbag Bard' Covers Popular Songs With His Fists And A Punching Bag")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/205/adin-ross-urges-streamers-to-evacuate-hurricane-milton-70K-offer.jpeg "Adin Ross Didn't Put Out An Open $70K Prize For Any Streamer To Broadcast Hurricane Milton, Ticking Off Streamer Expecting $70K")
     
-    Punch Drummer 'Speedbag Bard' Covers Popular Songs With His Fists And A Punching Bag](https://knowyourmeme.com/memes/people/speedbag-bard)
+    Adin Ross Didn't Put Out An Open $70K Prize For Any Streamer To Broadcast Hurricane Milton, Ticking Off Streamer Expecting $70K](https://knowyourmeme.com/news/adin-ross-didnt-put-out-an-open-70000-prize-for-any-streamer-to-broadcast-through-hurricane-milton-ticking-off-streamer-expecting-70000-for-broadcasting-through-hurricane-milton)
     
-* [![Minor Mistake Marvin](https://i.kym-cdn.com/featured_items/icons/wide/000/026/199/51f.jpg "10 Years Ago, A Kid Made A Minor Mistake And The Internet Named Him Marvin")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/204/cover2.jpg "Did Soldier From 'TF2' Appear In A Canadian Textbook? A Familiar Face In A History Book Goes Viral")
     
-    10 Years Ago, A Kid Made A Minor Mistake And The Internet Named Him Marvin](https://knowyourmeme.com/memes/minor-mistake-marvin)
+    Did Soldier From 'TF2' Appear In A Canadian Textbook? A Familiar Face In A History Book Goes Viral](https://knowyourmeme.com/news/did-soldier-from-tf2-appear-in-a-canadian-textbook)
     
-* [![Please Welcome Cheeseball the Wizard Cat, Brought To Your Screens By AI (Dark Computer Magic)](https://i.kym-cdn.com/featured_items/icons/wide/000/026/198/cover2.jpg "Please Welcome Cheeseball the Wizard Cat, Brought To Your Screens By AI (Dark Computer Magic)")
+* [![The Nintendo Alarmo refers to an alarm clock created by Nintendo and announced in 2024. The Alarmo was designed with Nintendo graphics, sounds and songs from popular games that the user could choose from to customize their alarm clock experience. In October 2024, Nintendo announced the Alarmo's release on social media platforms like Twitter / X and YouTube. It inspired viral memes and reactions upon its release. Many internet users and Nintendo fans joked about the price, which was roughly $100 USD, and the fact that Nintendo announced an alarm clock instead of something more coveted like the rumored Nintendo Switch 2.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/203/nintendo-alarmo.jpg "Nintendo Baited Everyone When It Made A 'Big Announcement' That Turned Out To Be An Alarm Clock")
     
-    Please Welcome Cheeseball the Wizard Cat, Brought To Your Screens By AI (Dark Computer Magic)](https://knowyourmeme.com/memes/cheeseball-the-wizard-cat)
+    Nintendo Baited Everyone When It Made A 'Big Announcement' That Turned Out To Be An Alarm Clock](https://knowyourmeme.com/memes/subcultures/nintendo-alarmo)
     
-* [![Apple's Newest Emoji meme.](https://i.kym-cdn.com/featured_items/icons/wide/000/026/197/apples_newest_emoji.jpg "Introducing Apple's Newest Emoji (I'm Not Lying)")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/202/fp7.jpg "What Is The 'Sup Jew' Meme? The Viral 'South Park' Redraw Trend Explained")
     
-    Introducing Apple's Newest Emoji (I'm Not Lying)](https://knowyourmeme.com/memes/apples-newest-emoji)
+    What Is The 'Sup Jew' Meme? The Viral 'South Park' Redraw Trend Explained](https://knowyourmeme.com/editorials/guides/what-is-the-sup-jew-meme-the-viral-south-park-redraw-trend-explained)
     
 
 ##### Also Trending:
 
-[The "Saeko" Tweet](https://knowyourmeme.com/memes/saeko-tweet-could-you-please-address-me-as-saeko "The "Saeko" Tweet")
+[The "Saeko" Tweet](https://knowyourmeme.com/memes/saeko-tweet-could-you-please-address-me-as-saeko "The "Saeko" Tweet") [Nintendo Alarmo](https://knowyourmeme.com/memes/subcultures/nintendo-alarmo "Nintendo Alarmo") [Government Making Hurricanes Conspiracy Theory](https://knowyourmeme.com/memes/government-making-hurricanes-conspiracy-theory "Government Making Hurricanes Conspiracy Theory") [SnoopyWeekly Twitter Drama](https://knowyourmeme.com/memes/events/snoopyweekly-twitter-x-drama "SnoopyWeekly Twitter Drama")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Howdy! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
