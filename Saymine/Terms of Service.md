@@ -86,7 +86,7 @@ We will send you notices and updates via your email or we will display them in o
 
 In case of a dispute these Terms of use will be governed by the laws of the State of Israel and the competent court will be the courts of Tel-Aviv, Israel.  
   
-For any questions about these Terms or any other issue regarding Mine or the Services please contact us at - [support@saymine.com](mailto:support@saymine.com).
+For any questions about these Terms or any other issue regarding Mine or the Services please contact us at - [\[email protected\]](https://www.saymine.com/cdn-cgi/l/email-protection).
 
   
 
@@ -150,7 +150,7 @@ Mine may refuse access to the Services or may terminate your Account(s) without 
   
 In addition to the foregoing, Mine may selectively remove, revoke or garnishee Benefits associated with your Account(s). "Benefits" mean licensed rights granted, awarded, gifted, provided to and/or purchased by you to access and/or use online or offline elements or features of the Service, and include but are not limited to customer content, digital and/or virtual assets. If your Account(s), or a particular subscription for a Service associated with your Account(s), is terminated, suspended and/or if any Benefits are selectively removed, revoked or garnished from your Account(s), no refund will be granted, no Benefits will be credited to you or converted to cash or other forms of reimbursement, and you will have no further access to your Account(s) or Benefits associated with your Account(s) or the Service (or any part thereof).  
   
-In the event that Mine terminates your Account(s), you may not participate nor make use of the Service again without Mine's express consent. Mine reserves the right to refuse to keep accounts for, and provide access to the Service or any future service or any part thereof to, any individual. If you believe that any action has been taken against your Account(s) in error, please contact us at: [support@saymine.com](mailto:support@saymine.com).
+In the event that Mine terminates your Account(s), you may not participate nor make use of the Service again without Mine's express consent. Mine reserves the right to refuse to keep accounts for, and provide access to the Service or any future service or any part thereof to, any individual. If you believe that any action has been taken against your Account(s) in error, please contact us at: [\[email protected\]](https://www.saymine.com/cdn-cgi/l/email-protection).
 
   
 
