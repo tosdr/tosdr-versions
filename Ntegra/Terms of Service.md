@@ -15,7 +15,7 @@ PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS SITE
 
 These terms tell you the rules for using our website [www.ntegra.com](http://www.ntegra.com/) (our site). Who we are and how to contact us: [www.ntegra.com](http://www.ntegra.com/) is a site operated by Ntegra Limited ("We"). We are registered in England and Wales under company number 04758534 and have our registered office at 4 Stirling Road, Stirling House, Guildford, England, GU2 7RF. Our main trading address is Ntegra Ltd, Suites 41-42, Rombourne Kingston House, Lydiard Fields Business Park, Great Western Way, Swindon, Wiltshire, United Kingdom, SN5 8UB. Our VAT number is 811 468539.
 
-We are a limited company. To contact us, please email [hello@ntegra.com](mailto:hello@ntegra.com)
+We are a limited company. To contact us, please email [\[email protected\]](https://www.ntegra.com/cdn-cgi/l/email-protection)
 
 ‍
 
@@ -68,7 +68,7 @@ If we develop functionality on our site which allows you to create an account an
 
 If we develop functionality on our site which allows you to create an account, we have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use.
 
-If we develop functionality on our site which allows you to create an account, and if you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at [hello@ntegra.com](mailto:hello@ntegra.com).
+If we develop functionality on our site which allows you to create an account, and if you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at [\[email protected\]](https://www.ntegra.com/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -142,7 +142,7 @@ Our site must not be framed on any other site, nor may you create a link to any 
 
 We reserve the right to withdraw linking permission without prior notice. You must remove such links immediately when we inform you that the linking permission has been withdrawn.
 
-**If you wish to link to or make any use of content on our site other than that set out above, please contact** [**hello@ntegra.com**](mailto:hello@ntegra.com)**.**
+**If you wish to link to or make any use of content on our site other than that set out above, please contact** [\[email protected\]](https://www.ntegra.com/cdn-cgi/l/email-protection)**.**
 
 ‍
 
