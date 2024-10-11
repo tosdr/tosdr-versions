@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Black Tiger](https://www.myabandonware.com/game/black-tiger-4kn)
+* [Bionic Commando](https://www.myabandonware.com/game/bionic-commando-ew)
+* [Beast Busters](https://www.myabandonware.com/game/beast-busters-71m)
 * [Bio-Ship Paladin](https://www.myabandonware.com/game/bio-ship-paladin-8gg)
 * [Big Run](https://www.myabandonware.com/game/big-run-71u)
-* [WRC FIA World Rally Championship](https://www.myabandonware.com/game/wrc-fia-world-rally-championship-t59)
-* [Bomb Jack](https://www.myabandonware.com/game/bomb-jack-5h4)
-* [Cruis'n Exotica](https://www.myabandonware.com/game/cruis-n-exotica-srb)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
