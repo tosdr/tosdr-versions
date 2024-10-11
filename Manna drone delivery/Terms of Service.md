@@ -59,7 +59,7 @@ Your agreement with us includes these Terms and our Privacy Policy (“Agreement
 
 ‍
 
-If you do not agree with (or cannot comply with) Agreements, then you may not use the Service, but please let us know by emailing at [tandc@manna.aero](mailto:tandc@manna.aero) so we can try to find a solution. These Terms apply to all visitors, users and others who wish to access or use Service.
+If you do not agree with (or cannot comply with) Agreements, then you may not use the Service, but please let us know by emailing at [\[email protected\]](https://www.manna.aero/cdn-cgi/l/email-protection) so we can try to find a solution. These Terms apply to all visitors, users and others who wish to access or use Service.
 
 ‍
 
@@ -244,7 +244,7 @@ We respect the intellectual property rights of others. It is our policy to respo
 
 ‍
 
-If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement, please submit your claim via email to [tandc@manna.aero](mailto:tandc@manna.aero), with the subject line: “Copyright Infringement” and include in your claim a detailed description of the alleged Infringement as detailed below.
+If you are a copyright owner, or authorized on behalf of one, and you believe that the copyrighted work has been copied in a way that constitutes copyright infringement, please submit your claim via email to [\[email protected\]](https://www.manna.aero/cdn-cgi/l/email-protection), with the subject line: “Copyright Infringement” and include in your claim a detailed description of the alleged Infringement as detailed below.
 
 ‍
 
@@ -292,7 +292,7 @@ You may submit a notification by providing our Copyright Agent with the followin
 
 ‍
 
-You can contact our Copyright Agent via email at [tandc@manna.aero](mailto:tandc@manna.aero).
+You can contact our Copyright Agent via email at [\[email protected\]](https://www.manna.aero/cdn-cgi/l/email-protection).
 
   
   
@@ -307,7 +307,7 @@ You can contact our Copyright Agent via email at [tandc@manna.aero](mailto:tandc
 
 ‍
 
-You may provide us either directly at [tandc@manna.aero](mailto:tandc@manna.aero) or via third party sites and tools with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service (“Feedback”). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose.
+You may provide us either directly at [\[email protected\]](https://www.manna.aero/cdn-cgi/l/email-protection) or via third party sites and tools with information and feedback concerning errors, suggestions for improvements, ideas, problems, complaints, and other matters related to our Service (“Feedback”). You acknowledge and agree that: (i) you shall not retain, acquire or assert any intellectual property right or other right, title or interest in or to the Feedback; (ii) Company may have development ideas similar to the Feedback; (iii) Feedback does not contain confidential information or proprietary information from you or any third party; and (iv) Company is not under any obligation of confidentiality with respect to the Feedback. In the event the transfer of the ownership to the Feedback is not possible due to applicable mandatory laws, you grant Company and its affiliates an exclusive, transferable, irrevocable, free-of-charge, sub-licensable, unlimited and perpetual right to use (including copy, modify, create derivative works, publish, distribute and commercialize) Feedback in any manner and for any purpose.
 
 ‍
 
@@ -502,7 +502,7 @@ BY USING SERVICE OR OTHER SERVICES PROVIDED BY US, YOU ACKNOWLEDGE THAT YOU HAVE
 
 ‍
 
-Please send your feedback, comments, requests for technical support by email: [tandc@manna.aero](mailto:tandc@manna.aero).  
+Please send your feedback, comments, requests for technical support by email: [\[email protected\]](https://www.manna.aero/cdn-cgi/l/email-protection).  
   
 
 ‍
