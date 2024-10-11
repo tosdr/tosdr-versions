@@ -202,7 +202,7 @@ Sök Meny
         
     * [Jul](https://www.svenskakyrkan.se/jul)
         
-        * [Inspelade konserter i juletid](https://www.svenskakyrkan.se/jul/digitala-advents--och-julkonserter)
+        * [Inspelade konserter i juletid](https://www.svenskakyrkan.se/jul/jul/digitala-advents--och-julkonserter)
             
         * [Julevangeliet](https://www.svenskakyrkan.se/jul/jul/julevangeliet)
             
