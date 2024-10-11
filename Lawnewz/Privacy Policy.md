@@ -258,25 +258,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Left: Robin Niceta appears in court (KUSA). Right: Niceta (Colorado Department of Corrections).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Robin-Niceta-432x243.jpg)](https://lawandcrime.com/crime/social-worker-faked-rare-brain-cancer-to-delay-trial-over-vindictive-spiteful-false-child-abuse-claims-against-official-who-criticized-her-police-chief-girlfriend/)
+1. [![Joel Castillo appears inset against an image of the apartment complex where he was fatally shot.](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Joel-Castillo-432x243.jpg)](https://lawandcrime.com/crime/14-year-old-killer-taunted-16-year-old-neighbor-about-his-mother-recently-dying-in-a-car-crash-before-shooting-him-police/)
     
-    ### [Social worker faked 'rare' brain cancer to delay trial over 'vindictive, spiteful' false child abuse claims against official who criticized her police chief girlfriend](https://lawandcrime.com/crime/social-worker-faked-rare-brain-cancer-to-delay-trial-over-vindictive-spiteful-false-child-abuse-claims-against-official-who-criticized-her-police-chief-girlfriend/)
+    ### [14-year-old killer taunted 16-year-old neighbor about his mother recently dying in a car crash before shooting him: Police](https://lawandcrime.com/crime/14-year-old-killer-taunted-16-year-old-neighbor-about-his-mother-recently-dying-in-a-car-crash-before-shooting-him-police/)
     
-2. [![Background: A home in Kentucky where cooked body parts were allegedly found in a steel pot (YouTube/WDKY). Inset: Torilena Fields (Bourbon County (Ky.) Regional Jail](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Torilena-Fields-cooked-body-parts-432x243.jpg)](https://lawandcrime.com/crime/casting-spells-on-them-woman-arrested-after-body-parts-cooked-in-a-steel-pot-and-dismembered-human-remains-allegedly-found-spread-throughout-home/)
+2. [![The Conway (S.C.) Police Department (Google Maps)](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Conway-S.C.-Police-Department-432x243.jpg)](https://lawandcrime.com/lawsuit/woman-who-got-bad-vibes-during-botched-facebook-marketplace-deal-forced-to-endure-jail-cell-with-trash-everywhere-blood-on-walls-after-wrongful-arrest-lawsuit/)
     
-    ### ['Casting spells on them': Woman arrested after body parts 'cooked' in a steel pot and dismembered human remains allegedly found spread throughout home](https://lawandcrime.com/crime/casting-spells-on-them-woman-arrested-after-body-parts-cooked-in-a-steel-pot-and-dismembered-human-remains-allegedly-found-spread-throughout-home/)
+    ### [Woman who got 'bad vibes' during botched Facebook Marketplace deal forced to endure jail cell with 'trash everywhere, blood on walls' after wrongful arrest: Lawsuit](https://lawandcrime.com/lawsuit/woman-who-got-bad-vibes-during-botched-facebook-marketplace-deal-forced-to-endure-jail-cell-with-trash-everywhere-blood-on-walls-after-wrongful-arrest-lawsuit/)
     
-3. [![Left: Former Mayor of New York Rudy Giuliani speaks to reporters as he leaves his apartment building in New York, Wednesday, Aug. 23, 2023. (AP Photo/Seth Wenig) Right: Wandrea ](https://am23.mediaite.com/lc/cnt/uploads/2023/09/ruby-shaye-1-432x243.jpg)](https://lawandcrime.com/high-profile/rudy-giuliani-attempt-to-exempt-alter-ego-company-from-restraining-notice-falls-flat/)
+3. [![Alice ](https://am21.mediaite.com/lc/cnt/uploads/2024/01/Alice-Alyx-Kamakaokalani-Herrmann-Theobald-22Theo22-Brooks-Lengyel-432x243.jpg)](https://lawandcrime.com/crime/former-mr-bungle-rocker-found-guilty-of-murdering-girlfriend-who-recorded-her-last-moments-alive/)
     
-    ### ['Frivolous and must be quashed': Judge refuses to immediately shield Rudy Giuliani 'alter ego' company's bank account from defamed 2020 election workers](https://lawandcrime.com/high-profile/rudy-giuliani-attempt-to-exempt-alter-ego-company-from-restraining-notice-falls-flat/)
+    ### ['You're gonna f—ing die right now. Are you ready?': Ex-rocker convicted of murdering girlfriend who chillingly recorded her last moments alive](https://lawandcrime.com/crime/former-mr-bungle-rocker-found-guilty-of-murdering-girlfriend-who-recorded-her-last-moments-alive/)
     
-4. [![Jessica Hager appears inset against an image of the house she was killed in.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Jessica-Hager-432x243.jpg)](https://lawandcrime.com/crime/an-unfair-chance-in-life-recently-married-mother-of-4-killed-in-murder-suicide-by-family-friend-husband-narrowly-escapes/)
+4. [![Shirl Lee Sweeney (Charleston County (S.C.) Sheriff's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Shirl-Lee-Sweeney-432x243.jpg)](https://lawandcrime.com/crime/woman-let-diabetic-teen-die-from-milkshake-after-months-of-failing-to-give-her-insulin-police/)
     
-    ### ['An unfair chance in life': Recently-married mother of 4 killed in murder-suicide by family friend, husband narrowly escapes](https://lawandcrime.com/crime/an-unfair-chance-in-life-recently-married-mother-of-4-killed-in-murder-suicide-by-family-friend-husband-narrowly-escapes/)
+    ### [Woman let diabetic teen die from milkshake after months of failing to give her insulin: Police](https://lawandcrime.com/crime/woman-let-diabetic-teen-die-from-milkshake-after-months-of-failing-to-give-her-insulin-police/)
     
-5. [![Sticker Mule Trump sign](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Sticker-Mule-Trump-sign-432x243.jpg)](https://lawandcrime.com/lawsuit/trump-loving-business-owner-victorious-after-judge-drops-restraining-order-against-massive-vote-for-trump-sign-atop-factory-just-in-time-for-lighting-ceremony/)
+5. [![Inset: Stephanie Phillips-Siwiec (Fulton County Sheriff). Background: Wellstar North Fulton Medical Center (WAGA).](https://am21.mediaite.com/lc/cnt/uploads/2024/10/hospital-432x243.jpg)](https://lawandcrime.com/crime/hospital-nurse-used-hand-sanitizer-to-steal-wedding-rings-from-dementia-patient-dislocating-a-finger-cops/)
     
-    ### [Trump-loving business owner victorious after judge drops restraining order against massive 'Vote for Trump' sign atop factory just in time for lighting ceremony](https://lawandcrime.com/lawsuit/trump-loving-business-owner-victorious-after-judge-drops-restraining-order-against-massive-vote-for-trump-sign-atop-factory-just-in-time-for-lighting-ceremony/)
+    ### [Hospital nurse used hand sanitizer to steal wedding rings from dementia patient, dislocating a finger: Cops](https://lawandcrime.com/crime/hospital-nurse-used-hand-sanitizer-to-steal-wedding-rings-from-dementia-patient-dislocating-a-finger-cops/)
     
 
 [](http://eepurl.com/c89Jdb)
