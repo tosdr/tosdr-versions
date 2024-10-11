@@ -192,7 +192,7 @@ Hi
         
     * [New! (49)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (42)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (50)](https://www.smithbrothersfarms.com/on-special)
         
     * [Fall Flavors (43)](https://www.smithbrothersfarms.com/fall-favorites)
         
@@ -324,10 +324,10 @@ Hi
         * [Peanut Butter (3)](https://www.smithbrothersfarms.com/peanut-butter-2)
             
         
-    * [Snacks (33)](https://www.smithbrothersfarms.com/snacks)
+    * [Snacks (32)](https://www.smithbrothersfarms.com/snacks)
         
         * BACK
-        * [Salsa, Dips & Hummus (13)](https://www.smithbrothersfarms.com/salsa)
+        * [Salsa, Dips & Hummus (12)](https://www.smithbrothersfarms.com/salsa)
             
         * [Chips, Crackers & Nuts (20)](https://www.smithbrothersfarms.com/chips-and-crackers)
             
