@@ -217,7 +217,7 @@ Company
 
 * [Changelog](https://render.com/changelog)
 * [Terms](https://render.com/terms)
-* [Privacy](https://render.com/privacy)
+* [Privacy](https://render.com/test/privacy)
 * [Security and Trust](https://render.com/trust)
 * © Render 2024
 
