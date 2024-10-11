@@ -13,7 +13,7 @@ Menu
     TOP STORIES
     
     * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
-    * [An Israeli strike on a school-turned-shelter in Gaza kills at least 27 people](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-10-10-2024-a5e53cdd4fca30be1909506b5c777922)
+    * [At least 18 people killed in Israeli airstrikes in central Beirut. A strike on Gaza school kills 27](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-10-10-2024-a5e53cdd4fca30be1909506b5c777922)
     * [UN-backed experts say Israel is destroying Gaza's health sector and both sides have tortured people](https://apnews.com/article/israel-palestinians-hamas-war-human-rights-un-c75b4db37aa5ade8466e0daa446ad596)
     
     Newsletters
@@ -32,7 +32,7 @@ Menu
     
     * [Milton knocks out power to millions and spawns tornadoes across Florida. At least 5 dead](https://apnews.com/article/hurricane-milton-tampa-florida-5f6a112986eb6e21720f0f17c504afe8)
     * [What to know about Hurricane Milton after it slammed Florida's Gulf Coast](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
-    * [Ethel Kennedy, social activist and wife of Robert F. Kennedy, has died](https://apnews.com/article/ethel-kennedy-dies-00eb88951db24e0cada9bd48b66ad8ea)
+    * [Chicago man charged with assaulting two officers during protests of Netanyahu address to Congress](https://apnews.com/article/netanyahu-israel-protests-washington-arrests-9bda8120a908203f3a017cf62f4c111b)
     
     Newsletters
     
@@ -53,8 +53,8 @@ Menu
     TOP STORIES
     
     * [Harris faces new urgency to explain how her potential presidency would be different from Biden's](https://apnews.com/article/kamala-harris-biden-legacy-question-83f3d9128ff9e916ff5832e269da1f1e)
-    * [The presidential campaigns have made over 200 visits but speak to just a fraction of American voters](https://apnews.com/article/electoral-college-2024-wisconsin-illinois-trump-harris-cdb4141205034c830924cb94457b7be1)
-    * [Trump lashes out at Harris and 'The View' co-hosts, as Hurricane Milton makes landfall](https://apnews.com/article/trump-harris-election-2024-milton-pennsylvania-nevada-b1f46744537c483e8643a9564d0ebcdb)
+    * [Trump's small-dollar donor fundraising is beset by confusion and fatigue](https://apnews.com/article/trump-campaign-donations-small-donors-decline-f1a6b238d15edb3f72260e4c86d2c552)
+    * [Biden tells Trump to 'get a life, man' and stop storm misinformation](https://apnews.com/article/hurricane-milton-biden-trump-helene-florida-fema-cb814f209e71481f078f20e569bc63d0)
     
     Newsletters
     
@@ -73,8 +73,8 @@ Menu
     TOP STORIES
     
     * [Social Security recipients will get a 2.5% cost-of-living boost in 2025, smaller than in recent past](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02)
-    * [Trump and Harris keep campaigning after Milton hits Florida](https://apnews.com/article/trump-harris-nevada-michigan-hispanic-voters-milton-2a9db630d1318e78de91efd2df5a16f0)
-    * [Donald Trump offers tax breaks to US citizens overseas but no specifics](https://apnews.com/article/donald-trump-overseas-tax-plan-kamala-harris-92a2997896921889074bb993a2895cf8)
+    * [Biden tells Trump to 'get a life, man' and stop storm misinformation](https://apnews.com/article/hurricane-milton-biden-trump-helene-florida-fema-cb814f209e71481f078f20e569bc63d0)
+    * [Trump seizes on one block of a Colorado city to warn of migrant crime threat, even as crime dips](https://apnews.com/article/election-2024-trump-aurora-colorado-crime-immigration-c76df9f1dcda7e06a983105e5e970aeb)
     
     Newsletters
     
@@ -93,7 +93,7 @@ Menu
     TOP STORIES
     
     * [22-time Grand Slam champion Rafael Nadal is retiring from tennis](https://apnews.com/article/rafael-nadal-retirement-tennis-e8d5c3ea277d4bb9e060a350319c66c7)
-    * [Milton destroys the roof of the Rays' stadium, littering the field below with debris](https://apnews.com/article/hurricane-milton-nba-6647165a86aa8ed4acd8c0e16adb29df)
+    * [Rays say it may take 'weeks' to fully assess damage at Tropicana Field, after Milton struck region](https://apnews.com/article/hurricane-milton-nba-6647165a86aa8ed4acd8c0e16adb29df)
     * [The Jacksonville Jaguars say their flight to London will be delayed because of Hurricane Milton](https://apnews.com/article/jaguars-london-hurricane-f93809e92f4677d1866e4aabb245deec)
     
     Newsletters
@@ -115,8 +115,8 @@ Menu
     TOP STORIES
     
     * [Jeremy Strong and Sebastian Stan know the risks with 'The Apprentice'](https://apnews.com/article/sebastian-stan-jeremy-strong-apprentice-trump-movie-a934657204f52a3c5a372d20c06fa0db)
-    * [Han Kang wins the Nobel Prize for literature. She's the first South Korean to do so](https://apnews.com/article/nobel-literature-prize-e52fdabe9379d351d744e121218bddc5)
     * ['The View' co-hosts come out swinging at Donald Trump a day after he insulted them](https://apnews.com/article/abc-view-trump-hostin-whoopi-goldberg-9d739646662f8e59e1002f0aa419975a)
+    * [Han Kang wins the Nobel Prize for literature. She's the first South Korean to do so](https://apnews.com/article/nobel-literature-prize-e52fdabe9379d351d744e121218bddc5)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [TD Bank to pay $3 billion in historic money-laundering settlement with the Justice Department](https://apnews.com/article/td-bank-money-laundering-justice-department-75426a569d40174fd61fa7bc83026176)
     * [US inflation reaches lowest point in 3 years, though some price pressures remain](https://apnews.com/article/inflation-prices-interest-rates-economy-federal-reserve-cd6d9712bfd484d6e1bc4ccb958dcf23)
     * [Social Security recipients will get a 2.5% cost-of-living boost in 2025, smaller than in recent past](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02)
-    * [Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
     
 * [Science](https://apnews.com/science)
     
@@ -235,8 +235,8 @@ Menu
     TOP STORIES
     
     * [Colombia’s river guardians battle to protect the Atrato amid threats and abandonment](https://apnews.com/article/atrato-guardians-illegal-mining-contamination-threats-choco-977ad1e171715b8f7fb20a8ac6b9e149)
+    * [Powerful Hurricane Milton destroys homes, shreds stadium roofs apart](https://apnews.com/article/hurricane-milton-climate-photos-f518b0d58817dcca0bf202dc54706d6f)
     * [Here's what has made Hurricane Milton so fierce and unusual](https://apnews.com/article/hurricane-milton-florida-unusual-strong-warm-water-helene-0dd01c0e79d888dbda2a96b68fb62a29)
-    * [Head of international shipping regulator says industry must do more to cut carbon pollution](https://apnews.com/article/international-shipping-greenhouse-gas-emissionsinternational-maritime-organization-933147f1bba7f4851134f128b07e6917)
     
 * [Health](https://apnews.com/health)
     
@@ -269,17 +269,17 @@ Menu
     
     TOP STORIES
     
+    * [Disney World and other Orlando parks to reopen Friday after Hurricane Milton shutdown](https://apnews.com/article/disney-world-milton-universal-seaworld-reopening-c6393375c33b89e9041faa203784985f)
     * [Hurricane Milton has caused thousands of flight cancellations. What to do if one of them was yours](https://apnews.com/article/hurricane-milton-flight-canceled-what-to-do-a23264e3e504ff55d7ebdf2576626a81)
     * [How to help people affected by Hurricane Milton](https://apnews.com/article/hurricane-milton-how-to-help-disaster-donations-84fafa916b4e473d29a82cfadb1b6d60)
-    * [Hurricane Milton disrupts Yom Kippur plans for Jews in Florida](https://apnews.com/article/hurricane-milton-jewish-florida-yom-kippur-high-holy-days-f2ba6696fce6be8490e9eec8c49dcd62)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Ethel Kennedy, social activist and wife of Robert F. Kennedy, has died](https://apnews.com/article/ethel-kennedy-dies-00eb88951db24e0cada9bd48b66ad8ea)
     * [Hurricane Milton disrupts Yom Kippur plans for Jews in Florida](https://apnews.com/article/hurricane-milton-jewish-florida-yom-kippur-high-holy-days-f2ba6696fce6be8490e9eec8c49dcd62)
     * [Artisans in India’s Assam state make colorful mud idols of Hindu gods for Durga Puja](https://apnews.com/article/india-durga-puja-festival-goddess-idol-2f109d2894a5b3d795fd5d521369d69a)
-    * [Nazi-looted Monet artwork returned to family generations later](https://apnews.com/article/nazi-looted-art-returned-23cdc4651c6a63ec260c4f1144f83597)
     
     Newsletters
     
@@ -294,11 +294,11 @@ Menu
     TOP STORIES
     
     * [Huracán Milton deja 3 millones de personas sin electricidad y engendra tornados en Florida](https://apnews.com/world-news/general-news-a26c95a43ffce30218217f485fe35192)
-    * [Ataque israelí a refugio en Gaza causa al menos 27 muertos, dicen funcionarios palestinos](https://apnews.com/world-news/general-news-69889bc92e3fa34560ca0852e0bc8b9d)
-    * [Hombres armados atacan otro poblado en Haití](https://apnews.com/world-news/general-news-0e9a3aedb895b20bac7b004a63e08cef)
-    * [Inmigrantes traídos a EEUU cuando eran niños piden a jueces mantener protecciones contra deportación](https://apnews.com/us-news/general-news-76093b3e47d5acd9f05e732094c01717)
-    * [Inflación en EEUU alcanza su mínimo en 3 años](https://apnews.com/business/inflacion-en-eeuu-alcanza-su-minimo-en-3-anos-7b4b478bf9eabb57346b7066fa498300)
-    * [El nuevo gobierno laborista británico presenta una revisión de los derechos de los trabajadores](https://apnews.com/world-news/general-news-7bec8731baae13825ff721e66d8d10c1)
+    * [Al menos 11 personas mueren en ataques israelíes contra dos áreas distintas del centro de Beirut](https://apnews.com/world-news/general-news-69889bc92e3fa34560ca0852e0bc8b9d)
+    * [Huracán Milton interrumpe planes de Yom Kipur para judíos en Florida](https://apnews.com/religion/noticias-552c33c6a970354c31ca11218ff4f07f)
+    * [Zelenskyy emprende gira por las capitales europeas para promover su "plan de victoria"](https://apnews.com/world-news/general-news-246721b19c48818b21f0f8e9da750b75)
+    * [TD Bank pagará cerca de 3.000 millones de dólares en histórico acuerdo con EEUU por lavado de dinero](https://apnews.com/business/td-bank-pagara-cerca-de-3-000-millones-de-dolares-en-historico-acuerdo-con-eeuu-por-lavado-de-dinero-cf0ebd5ad6472c924b51a8a8c53da006)
+    * [Exagente de la DEA es declarado culpable de proteger a narcotraficantes](https://apnews.com/us-news/general-news-07f97245fa97b8fe85ecaa3df5c58184)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -458,7 +458,7 @@ Submit Search
     TOP STORIES
     
     * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
-    * [An Israeli strike on a school-turned-shelter in Gaza kills at least 27 people](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-10-10-2024-a5e53cdd4fca30be1909506b5c777922)
+    * [At least 18 people killed in Israeli airstrikes in central Beirut. A strike on Gaza school kills 27](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-10-10-2024-a5e53cdd4fca30be1909506b5c777922)
     * [UN-backed experts say Israel is destroying Gaza's health sector and both sides have tortured people](https://apnews.com/article/israel-palestinians-hamas-war-human-rights-un-c75b4db37aa5ade8466e0daa446ad596)
     
     Newsletters
@@ -477,7 +477,7 @@ Submit Search
     
     * [Milton knocks out power to millions and spawns tornadoes across Florida. At least 5 dead](https://apnews.com/article/hurricane-milton-tampa-florida-5f6a112986eb6e21720f0f17c504afe8)
     * [What to know about Hurricane Milton after it slammed Florida's Gulf Coast](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
-    * [Ethel Kennedy, social activist and wife of Robert F. Kennedy, has died](https://apnews.com/article/ethel-kennedy-dies-00eb88951db24e0cada9bd48b66ad8ea)
+    * [Chicago man charged with assaulting two officers during protests of Netanyahu address to Congress](https://apnews.com/article/netanyahu-israel-protests-washington-arrests-9bda8120a908203f3a017cf62f4c111b)
     
     Newsletters
     
@@ -504,8 +504,8 @@ Submit Search
     TOP STORIES
     
     * [Harris faces new urgency to explain how her potential presidency would be different from Biden's](https://apnews.com/article/kamala-harris-biden-legacy-question-83f3d9128ff9e916ff5832e269da1f1e)
-    * [The presidential campaigns have made over 200 visits but speak to just a fraction of American voters](https://apnews.com/article/electoral-college-2024-wisconsin-illinois-trump-harris-cdb4141205034c830924cb94457b7be1)
-    * [Trump lashes out at Harris and 'The View' co-hosts, as Hurricane Milton makes landfall](https://apnews.com/article/trump-harris-election-2024-milton-pennsylvania-nevada-b1f46744537c483e8643a9564d0ebcdb)
+    * [Trump's small-dollar donor fundraising is beset by confusion and fatigue](https://apnews.com/article/trump-campaign-donations-small-donors-decline-f1a6b238d15edb3f72260e4c86d2c552)
+    * [Biden tells Trump to 'get a life, man' and stop storm misinformation](https://apnews.com/article/hurricane-milton-biden-trump-helene-florida-fema-cb814f209e71481f078f20e569bc63d0)
     
     Newsletters
     
@@ -529,8 +529,8 @@ Submit Search
     TOP STORIES
     
     * [Social Security recipients will get a 2.5% cost-of-living boost in 2025, smaller than in recent past](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02)
-    * [Trump and Harris keep campaigning after Milton hits Florida](https://apnews.com/article/trump-harris-nevada-michigan-hispanic-voters-milton-2a9db630d1318e78de91efd2df5a16f0)
-    * [Donald Trump offers tax breaks to US citizens overseas but no specifics](https://apnews.com/article/donald-trump-overseas-tax-plan-kamala-harris-92a2997896921889074bb993a2895cf8)
+    * [Biden tells Trump to 'get a life, man' and stop storm misinformation](https://apnews.com/article/hurricane-milton-biden-trump-helene-florida-fema-cb814f209e71481f078f20e569bc63d0)
+    * [Trump seizes on one block of a Colorado city to warn of migrant crime threat, even as crime dips](https://apnews.com/article/election-2024-trump-aurora-colorado-crime-immigration-c76df9f1dcda7e06a983105e5e970aeb)
     
     Newsletters
     
@@ -559,7 +559,7 @@ Submit Search
     TOP STORIES
     
     * [22-time Grand Slam champion Rafael Nadal is retiring from tennis](https://apnews.com/article/rafael-nadal-retirement-tennis-e8d5c3ea277d4bb9e060a350319c66c7)
-    * [Milton destroys the roof of the Rays' stadium, littering the field below with debris](https://apnews.com/article/hurricane-milton-nba-6647165a86aa8ed4acd8c0e16adb29df)
+    * [Rays say it may take 'weeks' to fully assess damage at Tropicana Field, after Milton struck region](https://apnews.com/article/hurricane-milton-nba-6647165a86aa8ed4acd8c0e16adb29df)
     * [The Jacksonville Jaguars say their flight to London will be delayed because of Hurricane Milton](https://apnews.com/article/jaguars-london-hurricane-f93809e92f4677d1866e4aabb245deec)
     
     Newsletters
@@ -588,8 +588,8 @@ Submit Search
     TOP STORIES
     
     * [Jeremy Strong and Sebastian Stan know the risks with 'The Apprentice'](https://apnews.com/article/sebastian-stan-jeremy-strong-apprentice-trump-movie-a934657204f52a3c5a372d20c06fa0db)
-    * [Han Kang wins the Nobel Prize for literature. She's the first South Korean to do so](https://apnews.com/article/nobel-literature-prize-e52fdabe9379d351d744e121218bddc5)
     * ['The View' co-hosts come out swinging at Donald Trump a day after he insulted them](https://apnews.com/article/abc-view-trump-hostin-whoopi-goldberg-9d739646662f8e59e1002f0aa419975a)
+    * [Han Kang wins the Nobel Prize for literature. She's the first South Korean to do so](https://apnews.com/article/nobel-literature-prize-e52fdabe9379d351d744e121218bddc5)
     
 * [Business](https://apnews.com/business)
     
@@ -603,9 +603,9 @@ Submit Search
     
     TOP STORIES
     
+    * [TD Bank to pay $3 billion in historic money-laundering settlement with the Justice Department](https://apnews.com/article/td-bank-money-laundering-justice-department-75426a569d40174fd61fa7bc83026176)
     * [US inflation reaches lowest point in 3 years, though some price pressures remain](https://apnews.com/article/inflation-prices-interest-rates-economy-federal-reserve-cd6d9712bfd484d6e1bc4ccb958dcf23)
     * [Social Security recipients will get a 2.5% cost-of-living boost in 2025, smaller than in recent past](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02)
-    * [Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
     
 * [Science](https://apnews.com/science)
     
@@ -726,8 +726,8 @@ Submit Search
     TOP STORIES
     
     * [Colombia’s river guardians battle to protect the Atrato amid threats and abandonment](https://apnews.com/article/atrato-guardians-illegal-mining-contamination-threats-choco-977ad1e171715b8f7fb20a8ac6b9e149)
+    * [Powerful Hurricane Milton destroys homes, shreds stadium roofs apart](https://apnews.com/article/hurricane-milton-climate-photos-f518b0d58817dcca0bf202dc54706d6f)
     * [Here's what has made Hurricane Milton so fierce and unusual](https://apnews.com/article/hurricane-milton-florida-unusual-strong-warm-water-helene-0dd01c0e79d888dbda2a96b68fb62a29)
-    * [Head of international shipping regulator says industry must do more to cut carbon pollution](https://apnews.com/article/international-shipping-greenhouse-gas-emissionsinternational-maritime-organization-933147f1bba7f4851134f128b07e6917)
     
 * [Health](https://apnews.com/health)
     
@@ -771,17 +771,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Disney World and other Orlando parks to reopen Friday after Hurricane Milton shutdown](https://apnews.com/article/disney-world-milton-universal-seaworld-reopening-c6393375c33b89e9041faa203784985f)
     * [Hurricane Milton has caused thousands of flight cancellations. What to do if one of them was yours](https://apnews.com/article/hurricane-milton-flight-canceled-what-to-do-a23264e3e504ff55d7ebdf2576626a81)
     * [How to help people affected by Hurricane Milton](https://apnews.com/article/hurricane-milton-how-to-help-disaster-donations-84fafa916b4e473d29a82cfadb1b6d60)
-    * [Hurricane Milton disrupts Yom Kippur plans for Jews in Florida](https://apnews.com/article/hurricane-milton-jewish-florida-yom-kippur-high-holy-days-f2ba6696fce6be8490e9eec8c49dcd62)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Ethel Kennedy, social activist and wife of Robert F. Kennedy, has died](https://apnews.com/article/ethel-kennedy-dies-00eb88951db24e0cada9bd48b66ad8ea)
     * [Hurricane Milton disrupts Yom Kippur plans for Jews in Florida](https://apnews.com/article/hurricane-milton-jewish-florida-yom-kippur-high-holy-days-f2ba6696fce6be8490e9eec8c49dcd62)
     * [Artisans in India’s Assam state make colorful mud idols of Hindu gods for Durga Puja](https://apnews.com/article/india-durga-puja-festival-goddess-idol-2f109d2894a5b3d795fd5d521369d69a)
-    * [Nazi-looted Monet artwork returned to family generations later](https://apnews.com/article/nazi-looted-art-returned-23cdc4651c6a63ec260c4f1144f83597)
     
     Newsletters
     
@@ -796,11 +796,11 @@ Submit Search
     TOP STORIES
     
     * [Huracán Milton deja 3 millones de personas sin electricidad y engendra tornados en Florida](https://apnews.com/world-news/general-news-a26c95a43ffce30218217f485fe35192)
-    * [Ataque israelí a refugio en Gaza causa al menos 27 muertos, dicen funcionarios palestinos](https://apnews.com/world-news/general-news-69889bc92e3fa34560ca0852e0bc8b9d)
-    * [Hombres armados atacan otro poblado en Haití](https://apnews.com/world-news/general-news-0e9a3aedb895b20bac7b004a63e08cef)
-    * [Inmigrantes traídos a EEUU cuando eran niños piden a jueces mantener protecciones contra deportación](https://apnews.com/us-news/general-news-76093b3e47d5acd9f05e732094c01717)
-    * [Inflación en EEUU alcanza su mínimo en 3 años](https://apnews.com/business/inflacion-en-eeuu-alcanza-su-minimo-en-3-anos-7b4b478bf9eabb57346b7066fa498300)
-    * [El nuevo gobierno laborista británico presenta una revisión de los derechos de los trabajadores](https://apnews.com/world-news/general-news-7bec8731baae13825ff721e66d8d10c1)
+    * [Al menos 11 personas mueren en ataques israelíes contra dos áreas distintas del centro de Beirut](https://apnews.com/world-news/general-news-69889bc92e3fa34560ca0852e0bc8b9d)
+    * [Huracán Milton interrumpe planes de Yom Kipur para judíos en Florida](https://apnews.com/religion/noticias-552c33c6a970354c31ca11218ff4f07f)
+    * [Zelenskyy emprende gira por las capitales europeas para promover su "plan de victoria"](https://apnews.com/world-news/general-news-246721b19c48818b21f0f8e9da750b75)
+    * [TD Bank pagará cerca de 3.000 millones de dólares en histórico acuerdo con EEUU por lavado de dinero](https://apnews.com/business/td-bank-pagara-cerca-de-3-000-millones-de-dolares-en-historico-acuerdo-con-eeuu-por-lavado-de-dinero-cf0ebd5ad6472c924b51a8a8c53da006)
+    * [Exagente de la DEA es declarado culpable de proteger a narcotraficantes](https://apnews.com/us-news/general-news-07f97245fa97b8fe85ecaa3df5c58184)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
