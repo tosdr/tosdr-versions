@@ -620,7 +620,7 @@ External
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flare-management)
             
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flowmeters/flare-flow-meters)
                 
             * [Flare Solutions](https://www.bakerhughes.com/panametrics/flare-management/flare-solutions)
                 
@@ -635,13 +635,13 @@ External
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flow-meters)
             
-            * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-flow-meters)
+            * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-flowmeters)
                 
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flowmeters/flare-flow-meters)
                 
-            * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flow-meters)
+            * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flowmeters)
                 
-            * [Process Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/process-flow-meters)
+            * [Process Flow Meters](https://www.bakerhughes.com/panametrics/flowmeters/process-flowmeters)
                 
             
         * [Industrial Asset Inspection](https://www.bakerhughes.com/industrial-asset-inspection)
@@ -1583,7 +1583,7 @@ Search
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flare-management)
             
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flowmeters/flare-flow-meters)
                 
             * [Flare Solutions](https://www.bakerhughes.com/panametrics/flare-management/flare-solutions)
                 
@@ -1598,13 +1598,13 @@ Search
             
             [EXPLORE](https://www.bakerhughes.com/panametrics/flow-meters)
             
-            * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-flow-meters)
+            * [Custody Transfer, Allocation, Leak Detection](https://www.bakerhughes.com/panametrics/flow-meters/custody-transfer-flowmeters)
                 
-            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/flare-flow-meters)
+            * [Flare Flow Meters](https://www.bakerhughes.com/panametrics/flowmeters/flare-flow-meters)
                 
-            * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flow-meters)
+            * [Portable Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/portable-flowmeters)
                 
-            * [Process Flow Meters](https://www.bakerhughes.com/panametrics/flow-meters/process-flow-meters)
+            * [Process Flow Meters](https://www.bakerhughes.com/panametrics/flowmeters/process-flowmeters)
                 
             
         * [Industrial Asset Inspection](https://www.bakerhughes.com/industrial-asset-inspection)
