@@ -86,7 +86,7 @@ IF YOU ARE USING THE SURF EXTENSION ON BEHALF OF ANOTHER PERSON OR A CORPORATE E
 
 * **App Updates and Upgrades**
     
-* You acknowledge that Surf may from time to time issue updated or upgraded versions of the Surf Extension, and may (subject to your device settings) automatically electronically update or upgrade the version of the Surf Extension that you are then currently using on your browser. You consent to receive updates or upgrades to the Surf Extension automatically without providing further consent each time. The Surf Extension (including any updates or upgrades) may: (i) cause your device to automatically communicate with our servers to deliver the functionality described in the Surf Extension description or through new features as they are introduced, and to record usage metrics; (ii) affect preferences or data stored on your device; and (iii) collect personal information as set out in our Privacy Policy. We are not responsible if an update or upgrade affects how the Surf Extension works if this is caused by your own equipment or device not supporting the update or upgrade. You can withdraw consent at any time under certain conditions by contacting us at [support@joinsurf.com](mailto:support@joinsurf.com)
+* You acknowledge that Surf may from time to time issue updated or upgraded versions of the Surf Extension, and may (subject to your device settings) automatically electronically update or upgrade the version of the Surf Extension that you are then currently using on your browser. You consent to receive updates or upgrades to the Surf Extension automatically without providing further consent each time. The Surf Extension (including any updates or upgrades) may: (i) cause your device to automatically communicate with our servers to deliver the functionality described in the Surf Extension description or through new features as they are introduced, and to record usage metrics; (ii) affect preferences or data stored on your device; and (iii) collect personal information as set out in our Privacy Policy. We are not responsible if an update or upgrade affects how the Surf Extension works if this is caused by your own equipment or device not supporting the update or upgrade. You can withdraw consent at any time under certain conditions by contacting us at [\[email protected\]](https://www.joinsurf.com/cdn-cgi/l/email-protection)
     
 
 * **Ownership of and License to the Surf Extension**
@@ -202,7 +202,7 @@ IF YOU ARE USING THE SURF EXTENSION ON BEHALF OF ANOTHER PERSON OR A CORPORATE E
     ‍  
     [1 (604) 218–3379](tel:1(604)218%E2%80%933379),  
     ‍  
-    [support@joinsurf.com](mailto:support@joinsurf.com).  
+    [\[email protected\]](https://www.joinsurf.com/cdn-cgi/l/email-protection).  
     
 
 [Earn $5 in Less Than 5 Minutes!](https://app.joinsurf.com/signup/)
@@ -211,4 +211,4 @@ IF YOU ARE USING THE SURF EXTENSION ON BEHALF OF ANOTHER PERSON OR A CORPORATE E
 
 [FAQ](https://www.joinsurf.com/extension/#faq_section)[FAQ](https://www.joinsurf.com/extension#faq_section)[Blog](https://www.joinsurf.com/archived/surf-blog)[For Brands](https://www.joinsurf.com/)
 
-[Install Surf, It's Free!](mailto:swish@joinsurf.com)
+[\[email protected\]](https://www.joinsurf.com/cdn-cgi/l/email-protection)
