@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [MacDill dodges major storm damage as people, planes remain evacuated](https://www.defensenews.com/air/2024/10/10/macdill-dodges-major-storm-damage-as-people-planes-remain-evacuated/)  
+    10/10/24 05:30pm  
+    
+    MacDill Air Force Base avoided the worst of what Hurricane Milton had in store as the once-Category 5 storm weakened. But the base still must contend with flooding, road debris and other limited damage, such as the damaged airplane figure shown here. (MacDill Air Force Base)
+    
 * [Lockheed names software specialist as new head of F-35 jet program](https://www.defensenews.com/air/2024/10/09/lockheed-names-software-specialist-as-new-head-of-f-35-jet-program/)  
     10/09/24 02:36pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     10/08/24 11:31am  
     
     A KC-46A Pegasus refuels a Navy F/A-18F Super Hornet off the coast of Maryland on July 1, 2020. (Lt. Zach Fisher/Navy)
-    
-* [Anduril lands $250 million Pentagon contract for drone defense system](https://www.defensenews.com/unmanned/2024/10/08/anduril-lands-250-million-pentagon-contract-for-drone-defense-system/)  
-    10/08/24 05:44am  
-    
-    Anduril's Roadrunner reusable drone can intercept incoming drones or land back on the ground if none are engaged. (Anduril)
     
 
 Recent parts by keyword  
