@@ -15,7 +15,7 @@ Toggle
 Utility
 -------
 
-* [![Icon illustration representing a telephone](https://usertesting.widen.net/content/1eacda94-11c6-44bd-a28c-92adefa5944d/webp/ICON-top-nav-contact-64x64.webp?w=65&q=1)
+* [![Icon illustration representing a telephone](https://usertesting.widen.net/content/1eacda94-11c6-44bd-a28c-92adefa5944d/webp/ICON-top-nav-contact-64x64.webp?w=65&itok=hi2M6TVZ&q=1)
     
     Contact Us](https://www.usertesting.com/contact-us)
     
@@ -33,20 +33,20 @@ Utility
 Sign in
 -------
 
-* ![Icon illustration representing a person](https://usertesting.widen.net/content/88578199-535b-4e4c-9e53-f75fb7658368/webp/ICON-top-nav-login-64x64.webp?crop=yes&k=c&w=88&h=88&q=1)
+* ![Icon illustration representing a person](https://usertesting.widen.net/content/88578199-535b-4e4c-9e53-f75fb7658368/webp/ICON-top-nav-login-64x64.webp?crop=yes&k=c&w=88&h=88&itok=fWjiji6c&q=1)
     
     * [Sign in to
         
-        ![UserTesting-Outside North America logo](https://usertesting.widen.net/content/a9f2c27e-cc9a-4e25-84c2-bf9220bcaba4/webp/LOGO-2022-UserTesting-Outside%20North%20America-1479x380.webp?w=180&q=1)](https://app.usertesting.com/users/sign_in)
+        ![UserTesting-Outside North America logo](https://usertesting.widen.net/content/a9f2c27e-cc9a-4e25-84c2-bf9220bcaba4/webp/LOGO-2022-UserTesting-Outside%20North%20America-1479x380.webp?w=180&itok=VWV4uT1R&q=1)](https://app.usertesting.com/users/sign_in)
     * [Sign in to
         
-        ![UserZoom logo](/sites/default/files/usertestingv3/styles/logo_slide/public/2023-09/UserZoom%20Logo.png.webp)](https://manager.userzoom.com/)
+        ![UserZoom logo](/sites/default/files/usertestingv3/styles/logo_slide/public/2023-09/UserZoom%20Logo.png.webp?itok=XxsRdW2T)](https://manager.userzoom.com/)
     * [Sign in to
         
-        ![Logo Userzoom Go](https://usertesting.widen.net/content/74a9f7d2-80ad-4f2b-9db7-2be1590971c5/webp/Logo-userzoom-go-107x29.webp?w=107&q=1)](https://go.userzoom.com/login)
+        ![Logo Userzoom Go](https://usertesting.widen.net/content/74a9f7d2-80ad-4f2b-9db7-2be1590971c5/webp/Logo-userzoom-go-107x29.webp?w=107&itok=JxW_8Avs&q=1)](https://go.userzoom.com/login)
     * [Sign in to
         
-        ![EnjoyHQ logo](/sites/default/files/usertestingv3/styles/logo_slide/public/2023-09/EnjoyHQ_logo.png.webp)](https://app.enjoyhq.com/users/sign_in)
+        ![EnjoyHQ logo](/sites/default/files/usertestingv3/styles/logo_slide/public/2023-09/EnjoyHQ_logo.png.webp?itok=bwiVlIkm)](https://app.enjoyhq.com/users/sign_in)
     
     * [Sign in as a Participant](https://app.usertesting.com/participants/sign_in)
     
@@ -66,7 +66,7 @@ Main navigation
             
             [Get insights now](https://www.usertesting.com/free-test)
             
-              ![Laptop 3 - User](https://usertesting.widen.net/content/4gt1tysitx/webp/ICON-light-Laptop%203%20-%20User-256x256.png?w=120)
+              ![Laptop 3 - User](https://usertesting.widen.net/content/4gt1tysitx/webp/ICON-light-Laptop%203%20-%20User-256x256.png?w=120&itok=gwXmGVkq)
             
         * Q4 2024 Retail Pulse Report
             
@@ -74,7 +74,7 @@ Main navigation
             
             [Get the report](https://www.usertesting.com/retail-pulse-2024-q4-form)
             
-              ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120)
+              ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120&itok=GzOi8Jxu)
             
         
     * Divider
@@ -149,7 +149,7 @@ Main navigation
             
             [Get the report](https://www.usertesting.com/retail-pulse-2024-q4-form)
             
-              ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120)
+              ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120&itok=GzOi8Jxu)
             
         * Top rated by TrustRadius Best of 2024 Award
             
@@ -157,7 +157,7 @@ Main navigation
             
             [Get started](https://www.usertesting.com/start-here-form)
             
-              ![TrustRadius - Top Rated 2024](https://usertesting.widen.net/content/eletjsirab/webp/LOGO-award-2024-TrustRadius-Top-Rated.png)
+              ![TrustRadius - Top Rated 2024](https://usertesting.widen.net/content/eletjsirab/webp/LOGO-award-2024-TrustRadius-Top-Rated.png?itok=0olCR_kF)
             
         
     * Divider
@@ -225,7 +225,7 @@ Main navigation
             
             [Learn More](https://www.usertesting.com/resources/customers/canva)
             
-              ![UserTesting customer logos in white](https://usertesting.widen.net/content/pxj0wj143k/webp/LOGO-2023-customer-Canva-white-224x72.png?w=120)
+              ![UserTesting customer logos in white](https://usertesting.widen.net/content/pxj0wj143k/webp/LOGO-2023-customer-Canva-white-224x72.png?w=120&itok=8lqEFQeZ)
             
         * Adobe Photoshop
             
@@ -233,7 +233,7 @@ Main navigation
             
             [Learn more](https://www.usertesting.com/resources/customers/adobe-photoshop)
             
-              ![UserTesting customer logos in white](https://usertesting.widen.net/content/yinjgc45cy/webp/LOGO-2023-customer-Adobe-white-224x58.png?w=120)
+              ![UserTesting customer logos in white](https://usertesting.widen.net/content/yinjgc45cy/webp/LOGO-2023-customer-Adobe-white-224x58.png?w=120&itok=Aya4KvW3)
             
         
     * Divider
@@ -279,7 +279,7 @@ Main navigation
             
             [Get started](https://www.usertesting.com/start-here-form)
             
-              ![TrustRadius - Top Rated 2024](https://usertesting.widen.net/content/eletjsirab/webp/LOGO-award-2024-TrustRadius-Top-Rated.png)
+              ![TrustRadius - Top Rated 2024](https://usertesting.widen.net/content/eletjsirab/webp/LOGO-award-2024-TrustRadius-Top-Rated.png?itok=0olCR_kF)
             
         
     * Divider
@@ -326,7 +326,7 @@ Main navigation
             
             [Get the report](https://www.usertesting.com/retail-pulse-2024-q4-form)
             
-              ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120)
+              ![Images for Pulse Reports for use in the mega menu tiles only](https://usertesting.widen.net/content/ypq8xbcxus/webp/IMAGE-mega-menu-pulse-retail-120x120.png?w=120&itok=GzOi8Jxu)
             
         * The Human Insight Summit
             
@@ -334,7 +334,7 @@ Main navigation
             
             [Learn more](https://www.usertesting.com/resources/this)
             
-              ![THiS Vertical Logo Lockup](https://usertesting.widen.net/content/jz5zfwke4e/webp/LOGO-2022-THiS-Vertical-Lockup-446x284.png?w=120)
+              ![THiS Vertical Logo Lockup](https://usertesting.widen.net/content/jz5zfwke4e/webp/LOGO-2022-THiS-Vertical-Lockup-446x284.png?w=120&itok=FrxlfNFu)
             
         
     * Divider
