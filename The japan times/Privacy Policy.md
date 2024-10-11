@@ -467,21 +467,25 @@ Revised June 1, 2022
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
+[Ban on dual nationality is constitutional, Fukuoka High Court rules](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
+
+  [![Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427084.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.")](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
+
 [University of Tokyo moves up a spot to 28th in World University Rankings](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
 
   [![The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426860.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.")](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
+
+[Ishiba keeps low profile as he makes diplomatic debut](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
+
+  [![Ishiba addresses the ASEAN-Japan Summit meeting in Laos on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427091.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Ishiba addresses the ASEAN-Japan Summit meeting in Laos on Thursday.")](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
 
 [Chinese nationals in Japan testify to harassment by Beijing, report says](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
 
   [![Chinese residents living in Japan take part in a “white paper” protest in solidarity against China's COVID-19 lockdowns, in Tokyo in November 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426864.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese residents living in Japan take part in a “white paper” protest in solidarity against China's COVID-19 lockdowns, in Tokyo in November 2022.")](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
 
-[Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
+[South Korean author Han Kang wins Nobel Prize in literature](https://www.japantimes.co.jp/culture/2024/10/10/books/literature-nobel-han-kang/ "South Korean author Han Kang wins Nobel Prize in literature")
 
-  [![Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426811.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ")](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
-
-[Japan still pushing China for explanation over killing of schoolboy](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/wang-iwaya-talks/ "Japan still pushing China for explanation over killing of schoolboy")
-
-  [![Foreign Minister Takeshi Iwaya asked his Chinese counterpart Wang Yi to provide a proper accounting of the facts in the stabbing death of a schoolboy in China last month during their telephone talks on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/426941.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Foreign Minister Takeshi Iwaya asked his Chinese counterpart Wang Yi to provide a proper accounting of the facts in the stabbing death of a schoolboy in China last month during their telephone talks on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/wang-iwaya-talks/ "Japan still pushing China for explanation over killing of schoolboy")
+  [![Han Kang is the first South Korean author to win the Nobel Prize in Literature.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427139.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Han Kang is the first South Korean author to win the Nobel Prize in Literature.")](https://www.japantimes.co.jp/culture/2024/10/10/books/literature-nobel-han-kang/ "South Korean author Han Kang wins Nobel Prize in literature")
 
 [Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
 
@@ -498,10 +502,6 @@ Revised June 1, 2022
 [Experts move to allay replicon COVID shot fears in Japan amid backlash](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
 
   [![A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/07/426378.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A man receives a COVID-19 vaccine in Tokyo on Oct. 1. Experts say fears over the newly approved replicon vaccine are unwarranted.")](https://www.japantimes.co.jp/news/2024/10/07/japan/science-health/replicon-vaccine-fears/ "Experts move to allay replicon COVID shot fears in Japan amid backlash")
-
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
 Podcast
 -------
@@ -522,9 +522,9 @@ By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ 
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -564,25 +564,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Seven & I to split in two to fend off Couche-Tard takeover bid](https://www.japantimes.co.jp/business/2024/10/11/companies/seven-i-split/ "Seven & I to split in two to fend off Couche-Tard takeover bid")
-
-30 mins ago
-
-[Danish-style 'schools for life' gaining popularity in Japan](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
+[Justice minister says he has severed all ties with Unification Church](https://www.japantimes.co.jp/news/2024/10/11/japan/politics/justice-minister-unification-church/ "Justice minister says he has severed all ties with Unification Church")
 
 1 hours ago
 
-[Yakuza member arrested over insurance fraud after cutting off own finger](https://www.japantimes.co.jp/news/2024/10/11/japan/crime-legal/yakuza-cutting-finger-insurance/ "Yakuza member arrested over insurance fraud after cutting off own finger")
+[Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/11/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
 
 1 hours ago
 
-[World Bank board approves new Ukraine fund, sources say](https://www.japantimes.co.jp/business/2024/10/11/world-bank-approves-ukraine-fund/ "World Bank board approves new Ukraine fund, sources say")
+[Ishiba clears low bar in diplomatic debut](https://www.japantimes.co.jp/news/2024/10/11/japan/politics/japan-asean-ishiba-analysis/ "Ishiba clears low bar in diplomatic debut")
 
 1 hours ago
 
-[Zelenskyy outlines 'victory plan' to allies, discusses long-range weapons](https://www.japantimes.co.jp/news/2024/10/11/world/politics/zelenskyy-outlines-victory-plan/ "Zelenskyy outlines 'victory plan' to allies, discusses long-range weapons")
+[Opposition party shakes up Japan’s rate debate with new inflation target](https://www.japantimes.co.jp/business/2024/10/11/economy/cdp-monetary-policy/ "Opposition party shakes up Japan’s rate debate with new inflation target")
 
-2 hours ago
+1 hours ago
+
+[Tokyo go-kart rental manager sent to prosecutors over traffic law violation](https://www.japantimes.co.jp/news/2024/10/11/japan/crime-legal/rental-kart-violation/ "Tokyo go-kart rental manager sent to prosecutors over traffic law violation")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
