@@ -295,8 +295,8 @@ Close sidebar [Notifications](https://www.fakku.net/notifications) Dark mode
 
 [Create Account](https://www.fakku.net/users/create) [Login](https://www.fakku.net/login)
 
-[New Releases](https://www.fakku.net/) [FAKKU Unlimited](https://www.fakku.net/unlimited)
+[FAKKU Unlimited](https://www.fakku.net/unlimited)
 
-[Doujin](https://www.fakku.net/doujin) [Games](https://www.fakku.net/games) [Manga](https://www.fakku.net/manga) [Unlimited](https://www.fakku.net/unlimited)
+[New Releases](https://www.fakku.net/) [Doujin](https://www.fakku.net/doujin) [Games](https://www.fakku.net/games) [Manga](https://www.fakku.net/manga) [Unlimited](https://www.fakku.net/unlimited)
 
 [Tags](https://www.fakku.net/tags) [Forums](https://www.fakku.net/forums) [Merch](https://merch.fakku.net/)
