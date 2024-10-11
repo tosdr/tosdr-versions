@@ -1,6 +1,4 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-187711541985)                                                   
-
-Win a $85 World Teachers' Day Gift Box | [ENTER](https://www.carsondellosa.com/sweepstakes/)
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-187725118358)                                                   
 
 FREE SHIPPING on Online Orders $40+
 
