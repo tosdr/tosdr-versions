@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/open-brief-aan-koning-willem-alexander/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-fbi-en-cia-vijanden-van-t-amerikaanse-volk/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
