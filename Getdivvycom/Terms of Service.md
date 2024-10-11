@@ -338,7 +338,7 @@ Solutions
 
 Resources
 
-[Resource Center](https://getdivvy.com/resources)[Accountant Resource Center](https://getdivvy.com/accountant-resource-center)[Learning Center](https://getdivvy.com/learning)[Blog](https://getdivvy.com/blog)[Webinars](https://getdivvy.com/webinars)[Guides](https://getdivvy.com/guides)[Business Templates](https://getdivvy.com/business-templates)[Customer Stories](https://getdivvy.com/case-study)[FAQs](https://getdivvy.com/faq)[Compare](https://getdivvy.com/compare)[Developers](https://developer.bill.com/docs/home)[BILL Product Updates](https://getdivvy.com/product-updates)
+[Resource Center](https://getdivvy.com/resources)[Accountant Resource Center](https://getdivvy.com/accountant-resource-center)[Learning Center](https://getdivvy.com/learning)[Blog](https://getdivvy.com/blog)[Webinars](https://getdivvy.com/webinars)[Guides](https://getdivvy.com/guides)[Business Templates](https://getdivvy.com/business-templates)[Customer Stories](https://getdivvy.com/case-study)[Compare](https://getdivvy.com/compare)[Developers](https://developer.bill.com/docs/home)[BILL Product Updates](https://getdivvy.com/product-updates)
 
 Company
 
