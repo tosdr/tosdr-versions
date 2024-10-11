@@ -1,4 +1,4 @@
-[](https://forum.minetest.net/index.php?sid=bbbbe20db8bf506f5debc113a032d466 "Board index")
+[](https://forum.minetest.net/index.php?sid=1b67087d764db54f6820f6332e5b0e4e "Board index")
 
 Minetest Forums
 ===============
@@ -7,23 +7,23 @@ The official [Minetest](http://www.minetest.net/) discussion board
 
 [Skip to content](#start_here)
 
-  Search [Advanced search](https://forum.minetest.net/search.php?sid=bbbbe20db8bf506f5debc113a032d466 "Advanced search") 
+  Search [Advanced search](https://forum.minetest.net/search.php?sid=1b67087d764db54f6820f6332e5b0e4e "Advanced search") 
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://forum.minetest.net/search.php?search_id=unanswered&sid=bbbbe20db8bf506f5debc113a032d466)
-    * [Active topics](https://forum.minetest.net/search.php?search_id=active_topics&sid=bbbbe20db8bf506f5debc113a032d466)
+    * [Unanswered topics](https://forum.minetest.net/search.php?search_id=unanswered&sid=1b67087d764db54f6820f6332e5b0e4e)
+    * [Active topics](https://forum.minetest.net/search.php?search_id=active_topics&sid=1b67087d764db54f6820f6332e5b0e4e)
     
-    * [Search](https://forum.minetest.net/search.php?sid=bbbbe20db8bf506f5debc113a032d466)
+    * [Search](https://forum.minetest.net/search.php?sid=1b67087d764db54f6820f6332e5b0e4e)
     
-    * [Members](https://forum.minetest.net/memberlist.php?sid=bbbbe20db8bf506f5debc113a032d466)
-    * [The team](https://forum.minetest.net/memberlist.php?mode=team&sid=bbbbe20db8bf506f5debc113a032d466)
+    * [Members](https://forum.minetest.net/memberlist.php?sid=1b67087d764db54f6820f6332e5b0e4e)
+    * [The team](https://forum.minetest.net/memberlist.php?mode=team&sid=1b67087d764db54f6820f6332e5b0e4e)
     
-* [Login](https://forum.minetest.net/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dterms&sid=bbbbe20db8bf506f5debc113a032d466 "Login")
-* [Register](https://forum.minetest.net/ucp.php?mode=register&sid=bbbbe20db8bf506f5debc113a032d466)
+* [Login](https://forum.minetest.net/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dterms&sid=1b67087d764db54f6820f6332e5b0e4e "Login")
+* [Register](https://forum.minetest.net/ucp.php?mode=register&sid=1b67087d764db54f6820f6332e5b0e4e)
 
-* [Board index](https://forum.minetest.net/index.php?sid=bbbbe20db8bf506f5debc113a032d466)
-* [Search](https://forum.minetest.net/search.php?sid=bbbbe20db8bf506f5debc113a032d466 "View the advanced search options")
+* [Board index](https://forum.minetest.net/index.php?sid=1b67087d764db54f6820f6332e5b0e4e)
+* [Search](https://forum.minetest.net/search.php?sid=1b67087d764db54f6820f6332e5b0e4e "View the advanced search options")
 
 Minetest Forums - Terms of use
 ------------------------------
@@ -34,18 +34,18 @@ Our forums are powered by phpBB (hereinafter “they”, “them”, “their”
   
 You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-orientated or any other material that may violate any laws be it of your country, the country where “Minetest Forums” is hosted or International Law. Doing so may lead to you being immediately and permanently banned, with notification of your Internet Service Provider if deemed required by us. The IP address of all posts are recorded to aid in enforcing these conditions. You agree that “Minetest Forums” have the right to remove, edit, move or close any topic at any time should we see fit. As a user you agree to any information you have entered to being stored in a database. While this information will not be disclosed to any third party without your consent, neither “Minetest Forums” nor phpBB shall be held responsible for any hacking attempt that may lead to the data being compromised.
 
-* [Board index](https://forum.minetest.net/index.php?sid=bbbbe20db8bf506f5debc113a032d466)
+* [Board index](https://forum.minetest.net/index.php?sid=1b67087d764db54f6820f6332e5b0e4e)
 * All times are UTC
-* [Delete cookies](https://forum.minetest.net/ucp.php?mode=delete_cookies&sid=bbbbe20db8bf506f5debc113a032d466)
-* [Members](https://forum.minetest.net/memberlist.php?sid=bbbbe20db8bf506f5debc113a032d466 "View complete list of members")
-* [The team](https://forum.minetest.net/memberlist.php?mode=team&sid=bbbbe20db8bf506f5debc113a032d466)
+* [Delete cookies](https://forum.minetest.net/ucp.php?mode=delete_cookies&sid=1b67087d764db54f6820f6332e5b0e4e)
+* [Members](https://forum.minetest.net/memberlist.php?sid=1b67087d764db54f6820f6332e5b0e4e "View complete list of members")
+* [The team](https://forum.minetest.net/memberlist.php?mode=team&sid=1b67087d764db54f6820f6332e5b0e4e)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://forum.minetest.net/ucp.php?mode=privacy&sid=bbbbe20db8bf506f5debc113a032d466 "Privacy") | [Terms](https://forum.minetest.net/ucp.php?mode=terms&sid=bbbbe20db8bf506f5debc113a032d466 "Terms")
+[Privacy](https://forum.minetest.net/ucp.php?mode=privacy&sid=1b67087d764db54f6820f6332e5b0e4e "Privacy") | [Terms](https://forum.minetest.net/ucp.php?mode=terms&sid=1b67087d764db54f6820f6332e5b0e4e "Terms")
 
 [](#)
 
 [](#)
 
-![](/app.php/cron/cron.task.core.prune_notifications?sid=bbbbe20db8bf506f5debc113a032d466)
+![](/app.php/cron/cron.task.core.prune_notifications?sid=1b67087d764db54f6820f6332e5b0e4e)
