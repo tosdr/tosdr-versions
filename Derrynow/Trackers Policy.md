@@ -259,29 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Thursday: Partytime out and about with the Derry News (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about with the Derry News (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1625960/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about with the Derry News (2009)](https://www.derrynow.com/story-telling/pictures---videos/1625960/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for Derry child sex offender](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry child sex offender")](https://www.derrynow.com/news/local-news/1626920/suspended-sentence-for-derry-child-sex-offender.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for Derry child sex offender](https://www.derrynow.com/news/local-news/1626920/suspended-sentence-for-derry-child-sex-offender.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![WATCH: Florida residents battle torrential conditions in shocking footage of Hurricane Milton ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Florida residents battle torrential conditions in shocking footage of Hurricane Milton ")](https://www.derrynow.com/video/national-news/1626863/watch-florida-residents-battle-torrential-conditions-in-shocking-footage-of-hurricane-milton.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[WATCH: Florida residents battle torrential conditions in shocking footage of Hurricane Milton](https://www.derrynow.com/video/national-news/1626863/watch-florida-residents-battle-torrential-conditions-in-shocking-footage-of-hurricane-milton.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man charged with a series of offences returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with a series of offences returned for trial")](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -289,14 +266,12 @@ Derry Crown Court
 [Derry man charged with a series of offences returned for trial](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry woman charged with breaching bail, assaulting police and attempted criminal damage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with breaching bail, assaulting police and attempted criminal damage")](https://www.derrynow.com/news/local-news/1626705/derry-woman-charged-with-breaching-bail-assaulting-police-and-attempted-criminal-damage.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
 
-Derry Magistrate's Court
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman charged with breaching bail, assaulting police and attempted criminal damage](https://www.derrynow.com/news/local-news/1626705/derry-woman-charged-with-breaching-bail-assaulting-police-and-attempted-criminal-damage.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Friday, October 11 2024](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Steelstown Primary School P1 Colour Feature](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Steelstown Primary School P1 Colour Feature")](https://www.derrynow.com/news/pictures---videos/1626630/pictures-steelstown-primary-school-p1-colour-feature.html)
 
@@ -305,19 +280,21 @@ Derry Magistrate's Court
 [PICTURES: Steelstown Primary School P1 Colour Feature](https://www.derrynow.com/news/pictures---videos/1626630/pictures-steelstown-primary-school-p1-colour-feature.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![County Derry man jailed after making up to £475,000 from illegal streaming services](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man jailed after making up to £475,000 from illegal streaming services")](https://www.derrynow.com/news/local-news/1627799/county-derry-man-jailed-after-making-up-to-475-000-from-illegal-streaming-services.html)
+
+Omagh Crown Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry man jailed after making up to £475,000 from illegal streaming services](https://www.derrynow.com/news/local-news/1627799/county-derry-man-jailed-after-making-up-to-475-000-from-illegal-streaming-services.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Senior Football Championship preview: Slaughtneil clash with Glen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Senior Football Championship preview: Slaughtneil clash with Glen")](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
 
 [GAA](https://www.derrynow.com/section/1060/gaa)
 
 [Derry Senior Football Championship preview: Slaughtneil clash with Glen](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, October 11 2024](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Intermediate Championship semi final preview](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Intermediate Championship semi final preview")](https://www.derrynow.com/news/gaa/1626778/derry-intermediate-championship-semi-final-preview.html)
 
@@ -335,11 +312,43 @@ Drumsurn's, Tiarnán Woods. Photo by Mary K Burke
 [PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall](https://www.derrynow.com/news/pictures---videos/1626974/pictures-mayor-s-afro-caribbean-themed-tea-dance-at-guildhall.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Northern Lights in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Northern Lights in Derry")](https://www.derrynow.com/gallery/home/1627395/northern-lights-in-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[The skies of Derry are lit up by the Northern Lights](https://www.derrynow.com/gallery/home/1627395/northern-lights-in-derry.html)
+-----------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for Derry man following 'stupid, boorish behavior'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man following 'stupid, boorish behavior'")](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for Derry man following 'stupid, boorish behavior'](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1627049/charlie-from-the-stands-there-s-nothing-quite-like-the-fai-cup.html)
+
+Gareth McGlynn certainly enjoyed Derry City's win at Bohemians.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[CHARLIE FROM THE STANDS: There's nothing quite like the FAI Cup!](https://www.derrynow.com/news/derry-sport/1627049/charlie-from-the-stands-there-s-nothing-quite-like-the-fai-cup.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Mayor hosts reception for Derry journalist Garrett Hargan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor hosts reception for Derry journalist Garrett Hargan")](https://www.derrynow.com/story-telling/pictures---videos/1627963/in-pictures-mayor-hosts-reception-for-derry-journalist-garrett-hargan.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Mayor hosts reception for Derry journalist Garrett Hargan](https://www.derrynow.com/story-telling/pictures---videos/1627963/in-pictures-mayor-hosts-reception-for-derry-journalist-garrett-hargan.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Alchemy Technology Services achieve King's Award for Enterprise in International Trade](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Alchemy Technology Services achieve King's Award for Enterprise in International Trade")](https://www.derrynow.com/news/pictures---videos/1627027/pictures-alchemy-technology-services-achieve-king-s-award-for-enterprise-in-international-trade.html)
 
@@ -405,13 +414,6 @@ Thornhill College students take to the skies
 
 [IN PICTURES: Civic reception for long serving local Paramedic John McMenamin](https://www.derrynow.com/news/pictures---videos/1624777/in-pictures-civic-reception-for-long-serving-local-paramedic-john-mcmenamin.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![March and rally held in Derry to mark first anniversary of Gaza conflict](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "March and rally held in Derry to mark first anniversary of Gaza conflict")](https://www.derrynow.com/news/pictures---videos/1624606/in-pictures-hundreds-march-through-derry-to-mark-first-anniversary-of-gaza-conflict.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[March and rally held in Derry to mark first anniversary of Gaza conflict](https://www.derrynow.com/news/pictures---videos/1624606/in-pictures-hundreds-march-through-derry-to-mark-first-anniversary-of-gaza-conflict.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,53 +515,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, October 11 2024](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1627091/ruaidhri-higgins-this-is-an-unbelievably-powerful-football-club-when-everyone-is-sailing-in-the-one-direction.html)
-
-Derry City fae Bohemians again tomorrow night.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ruaidhri Higgins - "This is an unbelievably powerful football club when everyone is sailing in the one direction.'](https://www.derrynow.com/news/derry-sport/1627091/ruaidhri-higgins-this-is-an-unbelievably-powerful-football-club-when-everyone-is-sailing-in-the-one-direction.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry public urged not to miss their eye test on World Sight Day](https://www.derrynow.com/resizer/165/93/true/2024_10_10/10-10-24_DCSDC_world_sight_day_01-1728579159850.jpg--.jpg?1728579160813 "Derry public urged not to miss their eye test on World Sight Day")](https://www.derrynow.com/news/local-news/1627277/derry-public-urged-not-to-miss-their-eye-test-on-world-sight-day.html)
+[![PSNI application for footage linked to disorder ‘should never have been made’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI application for footage linked to disorder ‘should never have been made’")](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry public urged not to miss their eye test on World Sight Day](https://www.derrynow.com/news/local-news/1627277/derry-public-urged-not-to-miss-their-eye-test-on-world-sight-day.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PSNI application for footage linked to disorder ‘should never have been made’](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Hunter calls for compassion and action at Stormont White Butterfly Foundation event](https://www.derrynow.com/resizer/165/93/true/2024_10_10/chbla-1728582029190_1728582374.png--.png?1728582374976 "Hunter calls for compassion and action at Stormont White Butterfly Foundation event")](https://www.derrynow.com/news/county-derry-post/1627313/hunter-calls-for-compassion-and-action-at-stormont-white-butterfly-foundation-event.html)
+[![Derry judge says there will be 'zero tolerance' of assaults on public servants](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge says there will be 'zero tolerance' of assaults on public servants")](https://www.derrynow.com/news/local-news/1627705/derry-judge-says-there-will-be-zero-tolerance-of-assaults-on-public-servants.html)
 
-Ms Hunter pictured with Selina Casey at the event.
+[Local News](https://www.derrynow.com/section/975/news)
 
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+[Derry judge says there will be 'zero tolerance' of assaults on public servants](https://www.derrynow.com/news/local-news/1627705/derry-judge-says-there-will-be-zero-tolerance-of-assaults-on-public-servants.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Hunter calls for compassion and action at Stormont White Butterfly Foundation event](https://www.derrynow.com/news/county-derry-post/1627313/hunter-calls-for-compassion-and-action-at-stormont-white-butterfly-foundation-event.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![County Derry man jailed after making up to £475,000 from illegal streaming services](https://www.derrynow.com/resizer/165/93/true/2024_10_11/images-1728646660983.jpg--.jpg?1728646661006 "County Derry man jailed after making up to £475,000 from illegal streaming services")](https://www.derrynow.com/news/local-news/1627799/county-derry-man-jailed-after-making-up-to-475-000-from-illegal-streaming-services.html)
 
-[![Marty's Run](https://www.derrynow.com/resizer/165/93/true/2024_10_10/IDNT_10-10-24_Martys_Run_1-1728570544521.jpg--.jpg?1728570547127 "Marty's Run")](https://www.derrynow.com/news/derry-sport/1627065/popular-marty-s-run-event-back-this-weekend.html)
+Omagh Crown Court
 
-Marty's Run is a popular event for local families. Pic by Tom Heaney, nwpresspics
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry man jailed after making up to £475,000 from illegal streaming services](https://www.derrynow.com/news/local-news/1627799/county-derry-man-jailed-after-making-up-to-475-000-from-illegal-streaming-services.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for Derry man following 'stupid, boorish behavior'](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Suspended sentence for Derry man following 'stupid, boorish behavior'")](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for Derry man following 'stupid, boorish behavior'](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![New community ‘Read and Feed’ project for Derry's Ballymagroarty area](https://www.derrynow.com/resizer/165/93/true/2024_10_11/ballymagroarty-hazelbank-1728637552503.jpg--.jpg?1728637552520 "New community ‘Read and Feed’ project for Derry's Ballymagroarty area")](https://www.derrynow.com/news/local-news/1627584/new-community-read-and-feed-project-for-derry-s-ballymagroarty-area.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[New community ‘Read and Feed’ project for Derry's Ballymagroarty area](https://www.derrynow.com/news/local-news/1627584/new-community-read-and-feed-project-for-derry-s-ballymagroarty-area.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_10/2954848-1728572153465.jpg--.jpg?1728572156580 "Derry City")](https://www.derrynow.com/news/derry-sport/1627122/derry-city-s-down-syndrome-team-impresses-republic-of-ireland-manager-hallgrimsson.html)
+
+The Derry City team with Republic of Ireland head coach Heimir Hallgrimsson, goal-keeping coach Gudmundur Hreidarsson and assistant coach John O'Shea.
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Popular 'Marty's Run' event back this weekend](https://www.derrynow.com/news/derry-sport/1627065/popular-marty-s-run-event-back-this-weekend.html)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Senior Football Championship preview: Slaughtneil clash with Glen](https://www.derrynow.com/resizer/165/93/true/2024_08_04/Smcg-1722791270718.jpg--.jpg?1722791271244 "Derry Senior Football Championship preview: Slaughtneil clash with Glen")](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Derry Senior Football Championship preview: Slaughtneil clash with Glen](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry City's Down Syndrome team impresses Republic of Ireland manager Hallgrimsson](https://www.derrynow.com/news/derry-sport/1627122/derry-city-s-down-syndrome-team-impresses-republic-of-ireland-manager-hallgrimsson.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
