@@ -1,3 +1,5 @@
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66aa3a4f12c391602bbf34db_Badge%20alerte.svg)
+
 0
 
 3
@@ -10,21 +12,7 @@ Jours
 
 Heures
 
-1
-
-5
-
-MIN
-
-1
-
-5
-
-sec
-
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/67077f8383d107b4942cfa2d_Badge%20DERNIERES%20HEURES.svg)
-
-Jusqu’à -100€\* sur les packs permis ! Jusqu'à ce soir 23h59 seulement. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+Votre permis dès 559,99 € ! Nouveau : paiement en 4x sans frais [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
