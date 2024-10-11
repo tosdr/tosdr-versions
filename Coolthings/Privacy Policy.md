@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-ups-battery-backups-to-protect-your-essential-devices/)
+    
+    [The Best UPS Battery Backups to Protect Your Essential Devices](https://www.coolthings.com/the-best-ups-battery-backups-to-protect-your-essential-devices/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/jmgo-picoflix-portable-projector-never-tips-over-gimbal-image-correction/)
     
     [JMGO Picoflix Projector Combines Portable Size with Design that Never Tips Over](https://www.coolthings.com/jmgo-picoflix-portable-projector-never-tips-over-gimbal-image-correction/)
@@ -24,11 +29,6 @@
     
     [Govee Christmas String Lights 2 Offers Unique Customizations, AI Light Effects, and More](https://www.coolthings.com/govee-christmas-string-lights-2-preset-light-effects-customizable-programmable/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/garmin-inreach-messenger-plus-satellite-communicator-picture-voice-messaging/)
-    
-    [Garmin InReach Messenger Plus Adds Picture and Voice Messaging to the Satellite Communicator](https://www.coolthings.com/garmin-inreach-messenger-plus-satellite-communicator-picture-voice-messaging/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
