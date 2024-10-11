@@ -596,12 +596,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
-* [Kryptoplatt­form Bison: Noch kein voll­wertiges Depot­angebot](https://www.test.de/Kryptoplattform-Bison-Noch-kein-vollwertiges-Depotangebot-6018367-0/ "Kryptoplattform Bison - Noch kein vollwertiges Depotangebot")
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
+* [Black­rock Emerging Europe: Black­rock teilt Fonds mit russischen Aktien auf](https://www.test.de/Fonds-mit-russischen-Aktien-Fonds-mit-Russlandbezug-wird-aufgeteilt-6112397-0/ "Blackrock Emerging Europe - Blackrock teilt Fonds mit russischen Aktien auf")
 
 Fußbereich
 
@@ -2733,12 +2733,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
-* [Kryptoplatt­form Bison: Noch kein voll­wertiges Depot­angebot](https://www.test.de/Kryptoplattform-Bison-Noch-kein-vollwertiges-Depotangebot-6018367-0/ "Kryptoplattform Bison - Noch kein vollwertiges Depotangebot")
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
+* [Black­rock Emerging Europe: Black­rock teilt Fonds mit russischen Aktien auf](https://www.test.de/Fonds-mit-russischen-Aktien-Fonds-mit-Russlandbezug-wird-aufgeteilt-6112397-0/ "Blackrock Emerging Europe - Blackrock teilt Fonds mit russischen Aktien auf")
 
 Jetzt anmelden und 10% Rabatt auf die test.de-Flatrate im ersten Jahr erhalten!
 
@@ -2791,12 +2791,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
-* [Kryptoplatt­form Bison: Noch kein voll­wertiges Depot­angebot](https://www.test.de/Kryptoplattform-Bison-Noch-kein-vollwertiges-Depotangebot-6018367-0/ "Kryptoplattform Bison - Noch kein vollwertiges Depotangebot")
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
+* [Black­rock Emerging Europe: Black­rock teilt Fonds mit russischen Aktien auf](https://www.test.de/Fonds-mit-russischen-Aktien-Fonds-mit-Russlandbezug-wird-aufgeteilt-6112397-0/ "Blackrock Emerging Europe - Blackrock teilt Fonds mit russischen Aktien auf")
 
 Neueste Tests
 
@@ -2809,12 +2809,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
-* [Kryptoplatt­form Bison: Noch kein voll­wertiges Depot­angebot](https://www.test.de/Kryptoplattform-Bison-Noch-kein-vollwertiges-Depotangebot-6018367-0/ "Kryptoplattform Bison - Noch kein vollwertiges Depotangebot")
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Fahr­rad-Fake-Shops: Vorsicht, diese Räder gibt es gar nicht!](https://www.test.de/Fahrrad-Fake-Shops-Vorsicht-diese-Raeder-gibt-es-gar-nicht-6115252-0/ "Fahrrad-Fake-Shops - Vorsicht, diese Räder gibt es gar nicht!")
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
+* [Black­rock Emerging Europe: Black­rock teilt Fonds mit russischen Aktien auf](https://www.test.de/Fonds-mit-russischen-Aktien-Fonds-mit-Russlandbezug-wird-aufgeteilt-6112397-0/ "Blackrock Emerging Europe - Blackrock teilt Fonds mit russischen Aktien auf")
 
 Service Stiftung Warentest
 
