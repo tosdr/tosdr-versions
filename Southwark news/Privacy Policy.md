@@ -19,6 +19,27 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The Blue Market. Credit: The Blue BID](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-11-15-20-12-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
+    
+    ### [‘Greening the Blue’: Eco event series coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
+    
+    [![L: Resident shares her opinion; R: Brixton Village (credit: Isabel Ramírez)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-12.46-360x180.jpg)](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+    
+    ### [Exclusive: Brixton Market traders say they ‘were not told’ about the market going up for sale](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+    
+    [![The office scheme approved in 2021](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-office-scheme-approved-in-2021-e1728638709751-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
+    
+    ### [Southwark Station to close for nine weekends from October](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2022/07/WEB-Night-Tube-360x180.jpg)](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
+    
+    ### [Proposals for the Night Tube to run on Thursday nights are being kept ‘under review’](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
+    
+    [![Kaya Comer Schwartz
+    Credit: Islington Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Kaya-Comer-Schwartz-360x180.jpg)](https://southwarknews.co.uk/area/london/leader-of-islington-council-kaya-comer-schwartz-to-be-new-deputy-mayor-for-policing/)
+    
+    ### [Leader of Islington Council, Kaya Comer-Schwartz, to be new deputy mayor for policing](https://southwarknews.co.uk/area/london/leader-of-islington-council-kaya-comer-schwartz-to-be-new-deputy-mayor-for-policing/) 
+    
     [![Cllr Ian Wingfield was first elected to a Southwark seat in 1989](https://southwarknews.co.uk/wp-content/uploads/2024/10/Cllr-Ian-Wingfield-was-first-elected-to-a-Southwark-seat-in-1989-360x180.png)](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
     
     ### [‘Hindsight is a wonderful thing’: Southwark’s longest-serving councillor discusses the biggest regrets and successes of his 35-year career](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
@@ -34,26 +55,6 @@
     [![Police and paramedics rushed to the scene on Quebec Way last month](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-and-paramedics-rushed-to-the-scene-on-Quebec-Way.--360x180.png)](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
     
     ### [Three teens arrested for Surrey Quays stabbing as police appeal for witnesses](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
-    
-    [![Southwark Council leader Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/06/Williams-K-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/a-new-wave-of-genuinely-affordable-homes-will-start-us-on-a-path-to-ending-the-housing-crisis-says-council-leader/)
-    
-    ### [‘A new wave of genuinely affordable homes will start us on a path to ending the housing crisis’ says council leader](https://southwarknews.co.uk/area/southwark/a-new-wave-of-genuinely-affordable-homes-will-start-us-on-a-path-to-ending-the-housing-crisis-says-council-leader/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
-    
-    ### [TfL should not ‘victim-blame’ says Mayor Khan after woman who lost arm and leg on the tube speaks out](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
-    
-    [![Keir Starmer](https://southwarknews.co.uk/wp-content/uploads/2020/01/Keir-Starmer-e1579701553700.jpg)](https://southwarknews.co.uk/area/south-london/labour-council-demands-urgent-help-from-starmer-over-34-million-overspend/)
-    
-    ### [Labour council demands ‘urgent’ help from Starmer over £34 million overspend](https://southwarknews.co.uk/area/south-london/labour-council-demands-urgent-help-from-starmer-over-34-million-overspend/)
-    
-    [![An illustration of the development. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/gg-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
-    
-    ### [Seventeen-storey apartment block approved on Rotherhithe roundabout](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
-    
-    [![Deborah Onyeukwu (left) and Harry Kite (right). Credit: Jack Petchey Foundation](https://southwarknews.co.uk/wp-content/uploads/2024/10/JP-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
-    
-    ### [Peckham schoolgirl who overcame speech impediment to sing on stage among students receiving Jack Petchey Awards](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -99,6 +100,27 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The Blue Market. Credit: The Blue BID](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-11-15-20-12-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
+    
+    ### [‘Greening the Blue’: Eco event series coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
+    
+    [![L: Resident shares her opinion; R: Brixton Village (credit: Isabel Ramírez)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-12.46-360x180.jpg)](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+    
+    ### [Exclusive: Brixton Market traders say they ‘were not told’ about the market going up for sale](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+    
+    [![The office scheme approved in 2021](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-office-scheme-approved-in-2021-e1728638709751-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
+    
+    ### [Southwark Station to close for nine weekends from October](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2022/07/WEB-Night-Tube-360x180.jpg)](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
+    
+    ### [Proposals for the Night Tube to run on Thursday nights are being kept ‘under review’](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
+    
+    [![Kaya Comer Schwartz
+    Credit: Islington Council](https://southwarknews.co.uk/wp-content/uploads/2024/10/Kaya-Comer-Schwartz-360x180.jpg)](https://southwarknews.co.uk/area/london/leader-of-islington-council-kaya-comer-schwartz-to-be-new-deputy-mayor-for-policing/)
+    
+    ### [Leader of Islington Council, Kaya Comer-Schwartz, to be new deputy mayor for policing](https://southwarknews.co.uk/area/london/leader-of-islington-council-kaya-comer-schwartz-to-be-new-deputy-mayor-for-policing/) 
+    
     [![Cllr Ian Wingfield was first elected to a Southwark seat in 1989](https://southwarknews.co.uk/wp-content/uploads/2024/10/Cllr-Ian-Wingfield-was-first-elected-to-a-Southwark-seat-in-1989-360x180.png)](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
     
     ### [‘Hindsight is a wonderful thing’: Southwark’s longest-serving councillor discusses the biggest regrets and successes of his 35-year career](https://southwarknews.co.uk/area/camberwell/hindsight-is-a-wonderful-thing-southwarks-longest-serving-councillor-discusses-the-biggest-regrets-and-successes-of-his-35-year-career/)
@@ -114,26 +136,6 @@ View All Result
     [![Police and paramedics rushed to the scene on Quebec Way last month](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-and-paramedics-rushed-to-the-scene-on-Quebec-Way.--360x180.png)](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
     
     ### [Three teens arrested for Surrey Quays stabbing as police appeal for witnesses](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
-    
-    [![Southwark Council leader Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2022/06/Williams-K-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/a-new-wave-of-genuinely-affordable-homes-will-start-us-on-a-path-to-ending-the-housing-crisis-says-council-leader/)
-    
-    ### [‘A new wave of genuinely affordable homes will start us on a path to ending the housing crisis’ says council leader](https://southwarknews.co.uk/area/southwark/a-new-wave-of-genuinely-affordable-homes-will-start-us-on-a-path-to-ending-the-housing-crisis-says-council-leader/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
-    
-    ### [TfL should not ‘victim-blame’ says Mayor Khan after woman who lost arm and leg on the tube speaks out](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
-    
-    [![Keir Starmer](https://southwarknews.co.uk/wp-content/uploads/2020/01/Keir-Starmer-e1579701553700.jpg)](https://southwarknews.co.uk/area/south-london/labour-council-demands-urgent-help-from-starmer-over-34-million-overspend/)
-    
-    ### [Labour council demands ‘urgent’ help from Starmer over £34 million overspend](https://southwarknews.co.uk/area/south-london/labour-council-demands-urgent-help-from-starmer-over-34-million-overspend/)
-    
-    [![An illustration of the development. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/gg-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
-    
-    ### [Seventeen-storey apartment block approved on Rotherhithe roundabout](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
-    
-    [![Deborah Onyeukwu (left) and Harry Kite (right). Credit: Jack Petchey Foundation](https://southwarknews.co.uk/wp-content/uploads/2024/10/JP-360x180.png)](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
-    
-    ### [Peckham schoolgirl who overcame speech impediment to sing on stage among students receiving Jack Petchey Awards](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [In depth history](https://southwarknews.co.uk/category/history/in-depth-history/)
@@ -373,6 +375,30 @@ Website
 
 ### Featured Articles
 
+[![The Blue Market. Credit: The Blue BID](https://southwarknews.co.uk/wp-content/uploads/2024/10/PHOTO-2024-10-11-15-20-12-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
+
+### [‘Greening the Blue’: Eco event series coming to Bermondsey](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
+
+[11th October 2024](https://southwarknews.co.uk/area/bermondsey/greening-the-blue-eco-event-series-coming-to-bermondsey/)
+
+[![L: Resident shares her opinion; R: Brixton Village (credit: Isabel Ramírez)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-11-10-2024-at-12.46-120x86.jpg)](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+
+### [Exclusive: Brixton Market traders say they ‘were not told’ about the market going up for sale](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+
+[11th October 2024](https://southwarknews.co.uk/news/community/exclusive-brixton-market-traders-say-they-were-not-told-about-the-market-going-up-for-sale/)
+
+[![The office scheme approved in 2021](https://southwarknews.co.uk/wp-content/uploads/2024/10/The-office-scheme-approved-in-2021-e1728638709751-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
+
+### [Southwark Station to close for nine weekends from October](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
+
+[11th October 2024](https://southwarknews.co.uk/area/southwark/southwark-station-to-close-for-nine-weekends-from-october/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2022/07/WEB-Night-Tube-120x86.jpg)](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
+
+### [Proposals for the Night Tube to run on Thursday nights are being kept ‘under review’](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
+
+[11th October 2024](https://southwarknews.co.uk/area/london/proposals-for-the-night-tube-to-run-on-thursday-nights-are-being-kept-under-review/)
+
 [![Leo Gregory, Green Street actor (left), and Roy Larner (right). Image: Dougie Brimson](https://southwarknews.co.uk/wp-content/uploads/2024/10/Leo-Gregory-Green-Street-actor-left-and-Roy-Larner-right.-Image-Dougie-Brimson-120x86.png)](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
 
 ### [Exclusive: ‘Green Street’ creator to make movie about man who shouted ‘F\*ck you I’m Millwall’ while fighting off Jihadi terrorists](https://southwarknews.co.uk/area/peckham/exclusive-green-street-creator-to-make-movie-about-man-who-shouted-fck-you-im-millwall-while-fighting-off-jihadi-terrorists/)
@@ -384,30 +410,6 @@ Website
 ### [Exclusive: Council says it won’t remove huge telecom boxes blocking Caribbean restaurant](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
 
 [10th October 2024](https://southwarknews.co.uk/area/herne-hill/exclusive-council-says-it-wont-remove-huge-telecom-boxes-blocking-caribbean-restaurant/)
-
-[![Police and paramedics rushed to the scene on Quebec Way last month](https://southwarknews.co.uk/wp-content/uploads/2024/10/Police-and-paramedics-rushed-to-the-scene-on-Quebec-Way.--120x86.png)](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
-
-### [Three teens arrested for Surrey Quays stabbing as police appeal for witnesses](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
-
-[10th October 2024](https://southwarknews.co.uk/area/rotherhithe/three-teens-arrested-for-surrey-quays-stabbing-as-police-appeal-for-witnesses/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/10/Sadiq-Khan.-Photo-by-Noah-Vickers-120x86.jpg)](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
-
-### [TfL should not ‘victim-blame’ says Mayor Khan after woman who lost arm and leg on the tube speaks out](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
-
-[10th October 2024](https://southwarknews.co.uk/area/london/tfl-should-not-victim-blame-says-mayor-khan-after-woman-who-lost-arm-and-leg-on-the-tube-speaks-out/)
-
-[![An illustration of the development. Image: Southwark Council Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/10/gg-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
-
-### [Seventeen-storey apartment block approved on Rotherhithe roundabout](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
-
-[9th October 2024](https://southwarknews.co.uk/area/rotherhithe/seventeen-storey-apartment-block-approved-on-rotherhithe-roundabout/)
-
-[![Deborah Onyeukwu (left) and Harry Kite (right). Credit: Jack Petchey Foundation](https://southwarknews.co.uk/wp-content/uploads/2024/10/JP-120x86.png)](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
-
-### [Peckham schoolgirl who overcame speech impediment to sing on stage among students receiving Jack Petchey Awards](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
-
-[9th October 2024](https://southwarknews.co.uk/area/peckham/peckham-schoolgirl-who-overcame-speech-impediment-to-sing-on-stage-among-students-receiving-jack-petchey-awards/)
 
 ### USEFUL PAGES
 
