@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Man accused of killing Dallas 7-Eleven clerk was IDed by 5 witnesses before arrest made](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-peyton-hampton-rd-7-eleven-clerk-demarcus-miller.png?ve=1&tl=1)
+ [![Hurricane Milton: Death toll rises as Florida recovers from damage](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2176957818.jpg?ve=1&tl=1)
 
- ![Man accused of killing Dallas 7-Eleven clerk was IDed by 5 witnesses before arrest made](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-peyton-hampton-rd-7-eleven-clerk-demarcus-miller.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/demarcus-miller-arrest-report-dallas-7-eleven-store-clerk-murder-nathaniel-ogbulu)
+ ![Hurricane Milton: Death toll rises as Florida recovers from damage](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2176957818.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-florida-damage-death-toll-rises-october-11-2024)
 
-### [Man accused of killing Dallas 7-Eleven clerk was IDed by 5 witnesses before arrest made](https://www.fox4news.com/news/demarcus-miller-arrest-report-dallas-7-eleven-store-clerk-murder-nathaniel-ogbulu)
+### [Hurricane Milton: Death toll rises as Florida recovers from damage](https://www.fox4news.com/news/hurricane-milton-florida-damage-death-toll-rises-october-11-2024)
 
- [![Northern Lights forecast: Viewers catch rare glimpse of aurora borealis across North Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/462688698_10225990553889954_6782531388014840452_n.jpg?ve=1&tl=1)
+ [![Fisher-Price recalls 2 million Snuga Swings after infant deaths](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/fisher-price.jpg?ve=1&tl=1)
 
- ![Northern Lights forecast: Viewers catch rare glimpse of aurora borealis across North Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/462688698_10225990553889954_6782531388014840452_n.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/northern-lights-forecast-north-texas-october-10)
+ ![Fisher-Price recalls 2 million Snuga Swings after infant deaths](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/fisher-price.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fisher-price-snuga-swings-recall-infant-deaths-october-2024)
 
-### [North Texans catch rare glimpse of Northern Lights](https://www.fox4news.com/news/northern-lights-forecast-north-texas-october-10)
+### [Fisher-Price recalls 2 million Snuga Swings after infant deaths](https://www.fox4news.com/news/fisher-price-snuga-swings-recall-infant-deaths-october-2024)
 
- [![Colorado gold mine rescue: 12 saved, 1 dead after elevator malfunction at tourist site](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/mollie-kathleen-gold-mine.jpg?ve=1&tl=1)
+ [![Tesla unveils self-driving CyberCab, shows off Optimus robot at event](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/01/32/18/Tesla-logo.jpg?ve=1&tl=1)
 
- ![Colorado gold mine rescue: 12 saved, 1 dead after elevator malfunction at tourist site](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/mollie-kathleen-gold-mine.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/more-than-10-people-trapped-inside-colorado-gold-mine-after-equipment-malfunction)
+ ![Tesla unveils self-driving CyberCab, shows off Optimus robot at event](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/01/32/18/592/333/Tesla-logo.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tesla-cybercab-optimus-robot)
 
-### [Colorado gold mine rescue: 12 saved, 1 dead after elevator malfunction at tourist site](https://www.fox4news.com/news/more-than-10-people-trapped-inside-colorado-gold-mine-after-equipment-malfunction)
+### [Tesla unveils self-driving CyberCab, shows off Optimus robot at event](https://www.fox4news.com/news/tesla-cybercab-optimus-robot)
 
- [![Dallas teen knocked out by police horse at State Fair of Texas, family says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-dpd-mounted-ofc-state-fair-incident-9p_00.01.58.40.jpg?ve=1&tl=1)
+ [![9.9 million pounds of ready-to-eat meat, poultry recalled over listeria concerns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-151042750.jpg?ve=1&tl=1)
 
- ![Dallas teen knocked out by police horse at State Fair of Texas, family says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-dpd-mounted-ofc-state-fair-incident-9p_00.01.58.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-of-texas-police-horse-injury-ian-macharia-family)
+ ![9.9 million pounds of ready-to-eat meat, poultry recalled over listeria concerns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-151042750.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ready-to-eat-meat-poultry-recalled-listeria-concerns)
 
-### [Dallas teen knocked out by police horse at State Fair of Texas, family says](https://www.fox4news.com/news/state-fair-of-texas-police-horse-injury-ian-macharia-family)
+### [9.9 million pounds of ready-to-eat meat, poultry recalled over listeria concerns](https://www.fox4news.com/news/ready-to-eat-meat-poultry-recalled-listeria-concerns)
 
- [![Video: Boat captain found clinging to cooler 30 miles off Longboat Key after surviving Hurricane Milton at sea](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-10-20h03m25s150.jpg?ve=1&tl=1)
+ [![All lanes of Dallas North Tollway closed at Northwest Highway after fatal motorcycle crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/traffic-dnt.png?ve=1&tl=1)
 
- ![Video: Boat captain found clinging to cooler 30 miles off Longboat Key after surviving Hurricane Milton at sea](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-10-20h03m25s150.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/boat-captain-found-clinging-cooler-30-miles-off-longboat-key-after-surviving-hurricane-milton-sea)
+ ![All lanes of Dallas North Tollway closed at Northwest Highway after fatal motorcycle crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/traffic-dnt.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-north-tollway-closed-northwest-highway-motorcycle-crash)
 
-### [Video: Boat captain found clinging to cooler 30 miles off Longboat Key after surviving Hurricane Milton at sea](https://www.fox4news.com/news/boat-captain-found-clinging-cooler-30-miles-off-longboat-key-after-surviving-hurricane-milton-sea)
+### [All lanes of Dallas North Tollway closed at Northwest Highway after fatal motorcycle crash](https://www.fox4news.com/news/dallas-north-tollway-closed-northwest-highway-motorcycle-crash)
 
 [![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/milton-lanfall.jpg?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
 
