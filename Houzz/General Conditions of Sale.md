@@ -515,7 +515,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 * [Pet Supplies](https://www.houzz.com/products/pet-supplies)
 
-* [All Sales](https://www.houzz.com/sale)
+* [All Sales](https://www.houzz.com/products/on-sale)
 
 * [Buying Guides](https://www.houzz.com/products/houzz-buying-guides)
 
