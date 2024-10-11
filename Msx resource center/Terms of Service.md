@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [Nextor 2.1.2 released](https://www.msx.org/news/en/nextor-212-released "Nextor 2.1.2 released")
 * [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
 * [Godzilla Balls by Paxanga Soft](https://www.msx.org/news/en/godzilla-balls "Godzilla Balls by Paxanga Soft")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
@@ -149,23 +150,22 @@ Latest reactions
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [BrewOtaku magazine](https://www.msx.org/news/media/en/brewotaku-magazine "BrewOtaku magazine")
 * [MSX2 GOTO 40](https://www.msx.org/news/events/en/msx2-goto40 "MSX2 GOTO 40")
-* [Tiny Magic](https://www.msx.org/news/software/en/tiny-magic "Tiny Magic")
 
 Latest forum posts
 
+* [Looking for ROBOPAL (by BANDAI) software](https://www.msx.org/forum/msx-talk/software/looking-for-robopal-by-bandai-software?page=1 "Looking for ROBOPAL (by BANDAI) software")
+* [A1 MK2 two EPROM system - need help removing app firmware (Cockpit?)](https://www.msx.org/forum/msx-talk/hardware/a1-mk2-two-eprom-system-need-help-removing-app-firmware-cockpit "A1 MK2 two EPROM system - need help removing app firmware (Cockpit?)")
+* [Cheap and durable joystick](https://www.msx.org/forum/msx-talk/hardware/cheap-and-durable-joystick "Cheap and durable joystick")
 * [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card "MFRSCC+SD FAT12 & FAT16 partition on one card.")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=122 "Please help testing upcoming openMSX release!")
 * [MSX Bluetooth transmitter](https://www.msx.org/forum/msx-talk/hardware/msx-bluetooth-transmitter "MSX Bluetooth transmitter")
-* [Looking for ROBOPAL (by BANDAI) software](https://www.msx.org/forum/msx-talk/software/looking-for-robopal-by-bandai-software "Looking for ROBOPAL (by BANDAI) software")
+* [Bluemsx Gunfright cheat trainer help](https://www.msx.org/forum/msx-talk/emulation/bluemsx-gunfright-cheat-trainer-help "Bluemsx Gunfright cheat trainer help")
+* [MSX2 - RBG Video output not working](https://www.msx.org/forum/msx-talk/hardware/msx2-rbg-video-output-not-working?page=1 "MSX2 - RBG Video output not working")
+* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=122 "Please help testing upcoming openMSX release!")
 * [DSKPRO Full 17.0](https://www.msx.org/forum/msx-talk/software/dskpro-full-170 "DSKPRO Full 17.0")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 * [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
 * [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
 * [Two different flash cartridges hanging up on boot.](https://www.msx.org/forum/msx-talk/general-discussion/two-different-flash-cartridges-hanging-up-on-boot "Two different flash cartridges hanging up on boot. ")
-* [programming eprom games 8k](https://www.msx.org/forum/msx-talk/hardware/programming-eprom-games-8k "programming eprom games 8k")
-* [BEER-MSX RUN](https://www.msx.org/forum/msx-talk/hardware/beer-msx-run?page=3 "BEER-MSX RUN")
-* [MSX2 disk menu, oasis?](https://www.msx.org/forum/msx-talk/software/msx2-disk-menu-oasis?page=1 "MSX2 disk menu, oasis?")
-* [1DD floppy drive questions](https://www.msx.org/forum/msx-talk/hardware/1dd-floppy-drive-questions "1DD floppy drive questions")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
