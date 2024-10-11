@@ -17,7 +17,7 @@ Competition Terms
 
 Please read these terms of use carefully before entering the competition.
 
-To contact us, please email [admin@springpod.co.uk](mailto:admin@springpod.co.uk)
+To contact us, please email [\[email protected\]](https://legal.springpod.com/cdn-cgi/l/email-protection)
 
 We’re giving away 5 sets of Apple AirPods. To enter, all you have to do is update your Springpod profile. Open to UK residents aged 13 and over. The winner will be selected at random from those who have updated their profile. Closing date 11pm on 31st January 2023.[](https://legal.springpod.com/competition-terms)
 
@@ -37,7 +37,7 @@ For full T&Cs and information about how we use your data, go to [legal.springpod
   
 For more information about how we use your data and the rights you have over it, see our [privacy notice](https://legal.springpod.com/privacy-policy). Promoted by The Education Hub Group Limited, trading as Springpod. Unit 5 Lloyds Wharf, Mill Street, London.  SE1 2BD
 
-[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/633d6296accedca308f4e7be_Springpod%20logo%20-%20no%20R%20mark%20-%20white.svg)](http://www.springpod.co.uk/)[hello@springpod.com](mailto:hello@springpod.com?subject=Hello%20Springpod!)
+[![](https://cdn.prod.website-files.com/60d30332e9ed9ce8608e9007/633d6296accedca308f4e7be_Springpod%20logo%20-%20no%20R%20mark%20-%20white.svg)](http://www.springpod.co.uk/)[\[email protected\]](https://legal.springpod.com/cdn-cgi/l/email-protection)
 
 #### Legal
 
