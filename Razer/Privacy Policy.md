@@ -6,7 +6,7 @@ Select a location to view location-specific content and shop online.
 
 Switch to
 
-[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcustomer-privacy-policy)
+[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcustomer-privacy-policy%3Futm_source%3Demail&utm_medium=edm&utm_campaign=241011_RAZER_RS_STORE_ALL_ALL_WW_TR_SILENTHILL2_24Q4&utm_content=&cid=241011_RAZER_RS_STORE_ALL_ALL_WW_TR_SILENTHILL2_24Q4&sfid=182202115)
 
 ![](../assets/images/mega-menu/menu-open.png)
 
