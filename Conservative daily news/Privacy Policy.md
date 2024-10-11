@@ -1,4 +1,4 @@
-Thursday, October 10 2024
+Friday, October 11 2024
 
 Breaking News
 
@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: XS Sights R3D 2.0 Desert Eagle Night Sights](https://www.thegunpage.com/tfb-review-xs-sights-r3d-2-0-desert-eagle-night-sights/10611134)
+* [POTD: Stogie Mag – Magazine-Shaped Humidor](https://www.thegunpage.com/potd-stogie-mag-magazine-shaped-humidor/10611135)
+* [Concealed Carry Corner: Speed Versus Accuracy](https://www.thegunpage.com/concealed-carry-corner-speed-versus-accuracy/10611136)
 * [Stay Comfortable at the Range with ALPS Outdoors’ Sierra Hooded Full Zip-Jacket](https://www.thegunpage.com/stay-comfortable-at-the-range-with-alps-outdoors-sierra-hooded-full-zip-jacket/10611130)
 * [Florida Officials Who “Inadvertently” Banned Guns Prior to Hurricane May Pay](https://www.thegunpage.com/florida-officials-who-inadvertently-banned-guns-prior-to-hurricane-may-pay/10611127)
 * [Springfield Armory XD Mod.3 9mm: New Grip Zones & Optics Ready](https://www.thegunpage.com/springfield-armory-xd-mod-3-9mm-new-grip-zones-optics-ready/10611129)
 * [Suppressor Registrations are Setting New Records](https://www.thegunpage.com/suppressor-registrations-are-setting-new-records/10611123)
 * [Remington Ammunition Releases Ranch Hand .22 LR Ammo](https://www.thegunpage.com/remington-ammunition-releases-ranch-hand-22-lr-ammo/10611125)
 * [Maryland Attorney General Tries To Delay Potential Supreme Court Hearing On ‘Assault Weapons’ Ban](https://www.thegunpage.com/maryland-attorney-general-tries-to-delay-potential-supreme-court-hearing-on-assault-weapons-ban/10611122)
-* [Hi-Point YC-380 Review: The Yeet Cannon TESTED](https://www.thegunpage.com/hi-point-yc-380-review-the-yeet-cannon-tested/10611126)
 * [FPC Targets New Jersey One-Gun-A-Month Law](https://www.thegunpage.com/fpc-targets-new-jersey-one-gun-a-month-law/10611121)
-* [Riton Announces the 3 Tactix 3X Magnifier](https://www.thegunpage.com/riton-announces-the-3-tactix-3x-magnifier/10611116)
-* [Weed Store Owner Claims Self-Defense in Fatal Shooting Amid Post-Hurricane Chaos](https://www.thegunpage.com/weed-store-owner-claims-self-defense-in-fatal-shooting-amid-post-hurricane-chaos/10611114)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,6 +228,7 @@ Contact Us
 
 Recent Comments
 
+* Jeff L. on [Trying to Understand the Way Leftist’s Think](https://www.conservativedailynews.com/2024/10/trying-to-understand-the-way-leftists-think/#comment-782608)
 * charles wilkins on [Unreal](https://www.conservativedailynews.com/2024/10/unreal/#comment-782598)
 * charles wilkins on [Unreal](https://www.conservativedailynews.com/2024/10/unreal/#comment-782597)
 * charles wilkins on [This Is Nuts](https://www.conservativedailynews.com/2024/10/this-is-nuts/#comment-782583)
@@ -236,7 +237,6 @@ Recent Comments
 * Jake on [America In The Age Of Stupidity: Why Can You Never Win An Argument With A Democrat?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-can-you-never-win-an-argument-with-a-democrat/#comment-782571)
 * Kevin M. Nadzam on [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/#comment-782569)
 * charles wilkins on [The Worst](https://www.conservativedailynews.com/2024/10/the-worst/#comment-782566)
-* Jeff L on [The Totalitarian Left’s Opposition to American Freedom](https://www.conservativedailynews.com/2024/10/the-totalitarian-lefts-opposition-to-american-freedom/#comment-782546)
 
 [Close](#)
 
