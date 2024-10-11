@@ -168,7 +168,7 @@ Definitions
 1. “Adaptation” means any work that modifies, adds to, deletes from, edits, affects the function of or is based on a Product or any previous Adaptation thereof, including all derivative works of a Product as such term is defined by the Copyright Act. Examples of Adaptations may include SDK Applications, JW Showcase Implementations, OEM implementations (to the extent applicable) and plug-ins. Websites on which Products are used solely to facilitate Content playback and streaming (but not Software as a Service) are not Adaptations hereunder.
 2. “Application Package” means a Publisher product that incorporates Products in an OEM use case, as authorized on an applicable Order Form. Publisher agrees to notify Company in writing within ten (10) business days in the event such product’s name changes.
 3. “Claims” means claims, suits, demands and actions by third parties.
-4. “Company” means LongTail Ad Solutions, Inc. d/b/a JW Player.
+4. “Company” means JWP, Inc.
 5. “Content” means media including videos, images, graphics, animations, sounds, text and music and any related submissions (e.g., viewer comments) hosted, streamed or Played through the Products. “Content” includes “Recommended Content” (described further below).
 6. “Dashboard” means an on-line control panel that provides certain functionality including account monitoring, player configuration, video management and statistics reporting.
 7. “Developer Edition” means an Edition of the Product for which Fees are not required but that allows for Ad Plays, as set forth in the License Scope, below. “Free Edition” means an Edition of the Product for which Fees are not required and that does not allow for Ad Plays.
@@ -509,7 +509,7 @@ Waiver of Breach
 
 No term or provision of these Terms of Service shall be deemed waived and no breach excused, unless such waiver or consent shall be in writing and signed by the Company. Any consent by the Company to, or waiver of, a breach by Publisher whether expressed or implied, shall not constitute consent to, waiver of, or excuse for, any other breach or any subsequent breach, except as may be expressly provided by the Company.
 
-_Last Revised: September 23, 2024_ 
+_Last Revised: October 11, 2024_
 
 ![](https://jwplayer.com/wp-content/uploads/2022/11/JWP-logo.svg)
 
