@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![CISA says critical Fortinet RCE flaw now exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        CISA says critical Fortinet RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/)
-    * [![Microsoft fixes Word bug that deleted documents when saving](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft fixes Word bug that deleted documents when saving](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-word-bug-that-deleted-documents-when-saving/)
     * [![Internet Archive hacked, data breach impacts 31 million users](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Internet Archive hacked, data breach impacts 31 million users](https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/)
+    * [![Fidelity Investments says data breach affects over 77,000 people](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Fidelity Investments says data breach affects over 77,000 people](https://www.bleepingcomputer.com/news/security/fidelity-investments-says-data-breach-affects-over-77-000-people/)
+    * [![Discord blocked in Russia and Turkey for spreading illegal content](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Discord blocked in Russia and Turkey for spreading illegal content](https://www.bleepingcomputer.com/news/government/discord-blocked-in-russia-and-turkey-for-spreading-illegal-content/)
     * [![Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/)
     
+    * [![Ukraine arrests rogue VPN operator providing access to Runet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Ukraine arrests rogue VPN operator providing access to Runet](https://www.bleepingcomputer.com/news/legal/ukraine-arrests-rogue-vpn-operator-providing-access-to-runet/)
+    * [![Akira and Fog ransomware now exploit critical Veeam RCE flaw](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Akira and Fog ransomware now exploit critical Veeam RCE flaw](https://www.bleepingcomputer.com/news/security/akira-and-fog-ransomware-now-exploiting-critical-veeam-rce-flaw/)
     * [![Marriott settles with FTC, to pay $52 million over data breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Marriott settles with FTC, to pay $52 million over data breaches](https://www.bleepingcomputer.com/news/legal/marriott-settles-with-ftc-to-pay-52-million-over-data-breaches/)
     * [![US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](https://www.bleepingcomputer.com/news/security/us-uk-warn-of-russian-apt29-hackers-targeting-zimbra-teamcity-servers/)
-    * [![The affordable course deal helps you study for CompTIA exams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        The affordable course deal helps you study for CompTIA exams](https://www.bleepingcomputer.com/offer/deals/the-affordable-course-deal-helps-you-study-for-comptia-exams/)
-    * [![Fidelity Investments says data breach affects over 77,000 people](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Fidelity Investments says data breach affects over 77,000 people](https://www.bleepingcomputer.com/news/security/fidelity-investments-says-data-breach-affects-over-77-000-people/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
