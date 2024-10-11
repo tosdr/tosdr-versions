@@ -158,7 +158,7 @@ Last Updated: May 10, 2022
 
 Welcome to Span’s online store (the "Store") provided by Span.IO, Inc. ("Span"). Your purchase of products (“Products”) from this website constitutes your agreement to be bound by the following terms and conditions (the “Terms & Conditions”) and any additional terms we provide. Additional terms include, but are not limited to, the (1) Span Panel Limited Warranty (the “Span Limited Warranty”), which is available [here](https://www.span.io/warranty) and (2) Span Privacy Policy, which is available [here](https://www.span.io/privacy). The terms of the Span Privacy Policy apply to information collected from you unless different terms are specified as part of a special offer or in another form or contract we provide you.  Please read these Terms & Conditions carefully prior to purchasing or using the Products. They require the use of binding arbitration to resolve disputes rather than jury trials or class actions. If you do not agree with these Terms & Conditions, please do not purchase or use the Products.
 
-We reserve the right to change these Terms & Conditions at any time, so please review the Terms & Conditions each time prior to making a purchase from Span. Every time you order Products from Span, the Terms & Conditions in force at that time will apply between you and Span.  If you have any questions regarding these Terms & Conditions, you can contact Span at [hello@span.io](mailto:hello@span.io).
+We reserve the right to change these Terms & Conditions at any time, so please review the Terms & Conditions each time prior to making a purchase from Span. Every time you order Products from Span, the Terms & Conditions in force at that time will apply between you and Span.  If you have any questions regarding these Terms & Conditions, you can contact Span at [\[email protected\]](https://www.span.io/cdn-cgi/l/email-protection).
 
 1\. Acceptance
 --------------
@@ -295,7 +295,7 @@ All disputes of any nature arising out of or in connection with this Agreement s
 
 (a) Informal Resolution
 
-If you have any dispute with Span or any related third party, arising out of, relating to, or connected with the Products, you agree to contact Span at support@span.io; provide a brief, written description of the dispute and your contact information (including your username, if your dispute relates to an account); and give Span thirty (30) days within which to resolve the dispute to your satisfaction.  If the parties do not reach an agreed upon solution within thirty (30), then either party may initiate binding arbitration as the sole means to resolve claims, in accordance with the provisions set forth below.
+If you have any dispute with Span or any related third party, arising out of, relating to, or connected with the Products, you agree to contact Span at [\[email protected\]](https://www.span.io/cdn-cgi/l/email-protection); provide a brief, written description of the dispute and your contact information (including your username, if your dispute relates to an account); and give Span thirty (30) days within which to resolve the dispute to your satisfaction.  If the parties do not reach an agreed upon solution within thirty (30), then either party may initiate binding arbitration as the sole means to resolve claims, in accordance with the provisions set forth below.
 
 (b) Binding Arbitration.
 
@@ -317,7 +317,7 @@ Span may provide notifications to you as required by law or for marketing or oth
 Contact Us
 ----------
 
-**‍**If you have any questions about these Terms & Conditions or otherwise need to contact Span for any reason, you can reach us at [support@span.io](mailto:support@span.io).
+**‍**If you have any questions about these Terms & Conditions or otherwise need to contact Span for any reason, you can reach us at [\[email protected\]](https://www.span.io/cdn-cgi/l/email-protection).
 
 [![SPAN Logo white](https://cdn.prod.website-files.com/628f26de26f0252b4094378b/639616396204a014699cb399_resources-logo-white.png)](https://www.span.io/)
 
