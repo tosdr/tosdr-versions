@@ -123,7 +123,7 @@ Michael Zhao
 
 415-816-3363
 
-legal@vimcal.com
+[\[email protected\]](https://www.vimcal.com/cdn-cgi/l/email-protection)
 
 Pursuant to 17 U.S.C. §512(f), the complaining party is subject to liability for any costs, attorney’s fees, and damages incurred by us in connection with the notification if the notification contains any misrepresentation of material fact.
 
@@ -183,7 +183,7 @@ _No Judge or Jury._ There is no judge or jury in arbitration, and court review o
 
 _Arbitrator and Rules._ The arbitration will be conducted before a neutral single arbitrator, whose decision will be final andbinding, and the arbitral proceedings shall be governed by the AAA CommercialArbitration Rules. If you are a consumer visitor that is not a User, the AAAConsumer Arbitration Rules shall apply instead. These rules can be found on the AAA website at www.adr.org.
 
-_Starting an Arbitration_. To begin an arbitration proceeding, you must send us a notice of dispute, in writing, setting forth your name, address and contact information, the facts of the dispute and relief requested. You must send your notice of legal dispute to us at the following address: legal@vimcal.com. Company will send any notice of dispute to you at the contact information we have for you.
+_Starting an Arbitration_. To begin an arbitration proceeding, you must send us a notice of dispute, in writing, setting forth your name, address and contact information, the facts of the dispute and relief requested. You must send your notice of legal dispute to us at the following address: [\[email protected\]](https://www.vimcal.com/cdn-cgi/l/email-protection). Company will send any notice of dispute to you at the contact information we have for you.
 
 _Format ofProceedings_. The arbitration shall be conducted, at the option of the party seeking relief, by telephone, online, or based solely on written submissions.
 
@@ -195,7 +195,7 @@ _Enforcement_. Any judgment on the award rendered by the arbitrator maybe entere
 
 _Invalidity_. If a court of competent jurisdiction finds the foregoing arbitration provisions invalid or inapplicable, or otherwise in the case of a dispute not subject to arbitration, you and Company each agree to the exclusive jurisdiction of the Federal and State courts located in New York City, State of New York, and you and Company each agree to submit to the exercise of personal jurisdiction of such courts for the purposes of litigating any applicable dispute or claim.
 
-_Opting Out._ If you do not want to arbitrate disputes with Company and you are an individual, you may opt out of this arbitration agreement by sending an email to legal@vimcal.com within thirty (30) days of the first of the date you access or use Vimcal.
+_Opting Out._ If you do not want to arbitrate disputes with Company and you are an individual, you may opt out of this arbitration agreement by sending an email to [\[email protected\]](https://www.vimcal.com/cdn-cgi/l/email-protection) within thirty (30) days of the first of the date you access or use Vimcal.
 
 _Costs andAttorneys’ Fees_. In any action or proceeding to enforce rights under these Terms, the prevailing party will been titled to recover costs and attorneys’ fees.
 
@@ -219,7 +219,7 @@ You agree that a breach of these Terms will cause irreparable injury to Company 
 
 #### **29\. Notices**
 
-We may give notice to you by means of a general notice on Vimcal, electronic mail, or by written communication sent by first class mail or pre-paid post. Such notice shall be deemed to have been given upon the expiration of 48 hours after mailing or posting (if sent by first class mail or pre-paid post) or 12 hours after sending (if sent by electronic mail). You may give notice to us (such notice shall be deemed given when received by us) at any time by sending an email to aloha@vimcal.com. Please specify the reason for the email in the subject line so it can be forwarded to the proper department.
+We may give notice to you by means of a general notice on Vimcal, electronic mail, or by written communication sent by first class mail or pre-paid post. Such notice shall be deemed to have been given upon the expiration of 48 hours after mailing or posting (if sent by first class mail or pre-paid post) or 12 hours after sending (if sent by electronic mail). You may give notice to us (such notice shall be deemed given when received by us) at any time by sending an email to [\[email protected\]](https://www.vimcal.com/cdn-cgi/l/email-protection). Please specify the reason for the email in the subject line so it can be forwarded to the proper department.
 
 #### **30\. Miscellaneous**
 
@@ -231,7 +231,7 @@ The headings and captions contained herein will not be considered to be part of 
 
 #### **31\. Your Comments and Concerns**
 
-Vimcal is operated by Vimcal Inc., a Delaware corporation with an address at 6798 Lopez Canyon Way, San Diego, CA 92126. All notices of copyright infringement claims should be sent to the copyright agent designated in our Copyright Policy in the manner and by the means set forth therein.  All other feedback, comments, requests for technical support and other communications relating to Vimcal should be directed to: aloha@vimcal.com.
+Vimcal is operated by Vimcal Inc., a Delaware corporation with an address at 6798 Lopez Canyon Way, San Diego, CA 92126. All notices of copyright infringement claims should be sent to the copyright agent designated in our Copyright Policy in the manner and by the means set forth therein.  All other feedback, comments, requests for technical support and other communications relating to Vimcal should be directed to: [\[email protected\]](https://www.vimcal.com/cdn-cgi/l/email-protection).
 
 ‍
 
