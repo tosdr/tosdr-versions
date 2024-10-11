@@ -263,25 +263,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-p
 
 ### Highlights
 
-[![Astronaut Kathryn D. Sullivan, 41-G mission specialist, uses binoculars for a magnified viewing of earth through the forward cabin windows.](https://www.nasa.gov/wp-content/uploads/2023/09/41g-11-027.jpg?w=1024)
+[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
+
+3 min read
+
+### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
+
+article 3 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Astronaut Kathryn D. Sullivan, 41-G mission specialist, uses binoculars for a magnified viewing of earth through the forward cabin windows.](https://www.nasa.gov/wp-content/uploads/2023/09/41g-11-027.jpg?w=1024)
 
 8 min read
 
 ### Kathryn Sullivan: The First American Woman to Walk in Space
 
-article 22 hours ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/acd24-0156-048.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/)[![](https://www.nasa.gov/wp-content/uploads/2024/10/acd24-0156-048.jpg?w=1024)
 
 2 min read
 
 ### NASA Astronauts, Leadership Visit Children’s Hospital, Cancer Moonshot Event
 
-article 2 days ago](https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-astronauts-leadership-visit-childrens-hospital-cancer-moonshot-event/)[![Photo of the Orion capsule, a white spacecraft with a solar array deployed, with the moon in the background.](https://www.nasa.gov/wp-content/uploads/2024/10/artemis-i-srag-orion.jpg?w=1024)
-
-3 min read
-
-### Artemis I Radiation Measurements Validate Orion Safety for Astronauts
-
-article 2 days ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-radiation-measurements-validate-orion-safety-for-astronauts/)
+article 2 days ago](https://www.nasa.gov/directorates/smd/space-life-physical-sciences-research-applications-division/human-research-program/nasa-astronauts-leadership-visit-childrens-hospital-cancer-moonshot-event/)
 
 ### Highlights
 
@@ -291,7 +291,7 @@ article 2 days ago](https://www.nasa.gov/missions/artemis/artemis-1/artemis-i-ra
 
 ### First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
 
-article 20 hours ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)[![Southern California warehouses](https://www.nasa.gov/wp-content/uploads/2024/10/1-warehouses.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)[![Southern California warehouses](https://www.nasa.gov/wp-content/uploads/2024/10/1-warehouses.jpg?w=1024)
 
 5 min read
 
@@ -307,25 +307,25 @@ article 3 days ago](https://www.nasa.gov/hurricane-milton/)
 
 ### Highlights
 
-[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
+[![ESA/NASA’s SOHO Spies Bright Comet Making Debut in Evening Sky](https://science.nasa.gov/wp-content/uploads/2024/10/soho-lasco-cometa3-10-10-24.jpg)
+
+2 min read
+
+### ESA/NASA’s SOHO Spies Bright Comet Making Debut in Evening Sky
+
+article 1 hour ago](https://science.nasa.gov/centers-and-facilities/goddard/esa-nasas-soho-spies-bright-comet-in-evening-sky/)[![Pluto and Dwarf Planet Resources](https://science.nasa.gov/wp-content/uploads/2023/07/dwarf-planets.jpg)
 
 1 min read
 
 ### Pluto and Dwarf Planet Resources
 
-article 14 hours ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+article 20 hours ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
 
 5 min read
 
 ### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
 
-article 22 hours ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![NASA’s Hubble, New Horizons Team Up for a Simultaneous Look at Uranus](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-new-horizons-uranus-stsci-01j99dt656es1s81v71v8nd40r.png)
-
-6 min read
-
-### NASA’s Hubble, New Horizons Team Up for a Simultaneous Look at Uranus
-
-article 2 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-new-horizons-team-up-for-a-simultaneous-look-at-uranus/)
+article 1 day ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)
 
 ### Featured
 
@@ -335,13 +335,13 @@ article 2 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-new-ho
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article 3 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
+article 9 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![This artist’s concept depicts a potential volcanic moon on an exoplanet](https://www.nasa.gov/wp-content/uploads/2024/10/1-exomoon-wide-view-artists-concept.jpg?w=1024)
 
 5 min read
 
 ### Does Distant Planet Host Volcanic Moon Like Jupiter’s Io?
 
-article 22 hours ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![Hubble Observes a Peculiar Galaxy Shape](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc4694-potw2440a.jpg)
+article 1 day ago](https://www.nasa.gov/universe/exoplanets/does-distant-planet-host-volcanic-moon-like-jupiters-io/)[![Hubble Observes a Peculiar Galaxy Shape](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc4694-potw2440a.jpg)
 
 2 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-observes-a-p
 
 ### Highlights
 
-[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
+[![ESA/NASA’s SOHO Spies Bright Comet Making Debut in Evening Sky](https://science.nasa.gov/wp-content/uploads/2024/10/soho-lasco-cometa3-10-10-24.jpg)
+
+2 min read
+
+### ESA/NASA’s SOHO Spies Bright Comet Making Debut in Evening Sky
+
+article 1 hour ago](https://science.nasa.gov/centers-and-facilities/goddard/esa-nasas-soho-spies-bright-comet-in-evening-sky/)[![Hubble Spots a Grand Spiral of Starbursts](https://science.nasa.gov/wp-content/uploads/2024/10/hubble-ngc5248-potw2441a.jpg)
 
 2 min read
 
 ### Hubble Spots a Grand Spiral of Starbursts
 
-article 3 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![Sail Along with NASA’s Solar Sail Tech Demo in Real-Time Simulation](https://science.nasa.gov/wp-content/uploads/2024/10/acs3-eyes-4.png)
+article 9 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-grand-spiral-of-starbursts/)[![Sail Along with NASA’s Solar Sail Tech Demo in Real-Time Simulation](https://science.nasa.gov/wp-content/uploads/2024/10/acs3-eyes-4.png)
 
 2 min read
 
 ### Sail Along with NASA’s Solar Sail Tech Demo in Real-Time Simulation
 
-article 17 hours ago](https://science.nasa.gov/science-research/sail-along-with-nasas-solar-sail-tech-demo-in-real-time-simulation/)[![Carbon Mapper Coalition’s Tanager-1 satellite detected this methane plume in Karachi, Pakistan](https://www.nasa.gov/wp-content/uploads/2024/10/1-pia26416-ghg-plumes-16.jpg?w=1024)
-
-4 min read
-
-### First Greenhouse Gas Plumes Detected With NASA-Designed Instrument
-
-article 20 hours ago](https://www.nasa.gov/earth/first-greenhouse-gas-plumes-detected-with-nasa-designed-instrument/)
+article 23 hours ago](https://science.nasa.gov/science-research/sail-along-with-nasas-solar-sail-tech-demo-in-real-time-simulation/)
 
 ### Highlights
 
@@ -395,25 +395,25 @@ article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/glenn/students-
 
 ### Highlights
 
-[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
+[![Image of two engineers wearing white lab coats facing left. The engineer on the right is working on a computer, and the engineer on the left is looking through a microscope.](https://www.nasa.gov/wp-content/uploads/2024/10/simons-miranda-lab-e1728668426482.jpeg?w=1024)
+
+3 min read
+
+### Pioneering NASA Astronaut Health Tech Thwarts Heart Failure
+
+article 3 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/pioneering-nasa-astronaut-health-tech-thwarts-heart-failure/)[![Illustration of NASA’s Perseverance rover begins its descent through the Martian atmosphere](https://www.nasa.gov/wp-content/uploads/2023/03/pia24318_08_powereddescent_2000.jpg?w=1024)
+
+2 min read
+
+### Controlled Propulsion for Gentle Landings 
+
+article 3 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/)[![The Low-Cost Optical Terminal (LCOT), a white and black object resembling a telescope sits within a white shell with multiple sealable layers folded down to the sides. white buildings and dark trees line the background in this night scene.](https://www.nasa.gov/wp-content/uploads/2024/01/lcot-terminal-1.jpg?w=1024)
 
 4 min read
 
 ### NASA Terminal Transmits First Laser Communications Uplink to Space 
 
-article 2 days ago](https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/)[![Amendment 58: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies DRAFT Text released for community comment.](https://science.nasa.gov/wp-content/uploads/2024/09/6-astrophysics-main-cassiopeia-a.jpg)
-
-2 min read
-
-### Amendment 58: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies DRAFT Text released for community comment.
-
-article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-58-d-19-habitable-worlds-observatory-system-technology-demonstrations-and-mission-architecture-studies-draft-text-released-for-community-comment/)[![Conceptual graphic of the lunar surface with the sun casting light onto a robotic excavator traversing the rocky regolith.](https://www.nasa.gov/wp-content/uploads/2024/10/rassor-ipex-forreview-1.jpg?w=1024)
-
-3 min read
-
-### NASA, Collaborators Announce a New Student Lunar Autonomy Challenge! 
-
-article 3 days ago](https://www.nasa.gov/directorates/stmd/student-lunar-autonomy-challenge/)
+article 2 days ago](https://www.nasa.gov/technology/space-comms/space-communications/nasa-terminal-transmits-first-laser-communications-uplink-to-space/)
 
 ### Featured
 
@@ -423,13 +423,13 @@ article 3 days ago](https://www.nasa.gov/directorates/stmd/student-lunar-autonom
 
 ### Pluto and Dwarf Planet Resources
 
-article 14 hours ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)[![A woman stands and smiles in the Teague lobby at NASA Johnson. She is wearing a red blouse and black pants. Behind her is a mural of astronauts and space exploration, as well as a NASA logo on the wall.](https://www.nasa.gov/wp-content/uploads/2024/10/image-7-e1728592422646.jpg?w=720)
+article 20 hours ago](https://science.nasa.gov/solar-system/resources/resource-packages/pluto-dwarf-planet-resources/)[![A woman stands and smiles in the Teague lobby at NASA Johnson. She is wearing a red blouse and black pants. Behind her is a mural of astronauts and space exploration, as well as a NASA logo on the wall.](https://www.nasa.gov/wp-content/uploads/2024/10/image-7-e1728592422646.jpg?w=720)
 
 3 min read
 
 ### Igniting Inspiration: Jennifer Becerra’s STEM Legacy at Johnson 
 
-article 18 hours ago](https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/)[![How Do Astronauts Get in Shape? – New “Ask SME” from NASA eClips](https://science.nasa.gov/wp-content/uploads/2024/10/ask-sme-corey-twine-thumbnail-1280px-shannon-verstynen.jpg)
+article 24 hours ago](https://www.nasa.gov/centers-and-facilities/igniting-inspiration-jennifer-becerras-stem-legacy-at-johnson/)[![How Do Astronauts Get in Shape? – New “Ask SME” from NASA eClips](https://science.nasa.gov/wp-content/uploads/2024/10/ask-sme-corey-twine-thumbnail-1280px-shannon-verstynen.jpg)
 
 2 min read
 
