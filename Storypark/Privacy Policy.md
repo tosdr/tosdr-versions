@@ -351,7 +351,7 @@ If your Storypark Account terminates (for whatever reason), the Personal Data as
 
 ### 15\. How to Contact Us
 
-If you wish to exercise your rights under this Privacy Policy or any applicable Data Protection Laws or otherwise raise any privacy issue with us, you can do this by emailing our Privacy Officer at hello@storypark.com.  Your email should provide evidence of who you are and set out the details of your request (e.g., the Personal Data, or the correction, that you are requesting).  
+If you wish to exercise your rights under this Privacy Policy or any applicable Data Protection Laws or otherwise raise any privacy issue with us, you can do this by emailing our Privacy Officer at [\[email protected\]](https://www.storypark.com/cdn-cgi/l/email-protection).  Your email should provide evidence of who you are and set out the details of your request (e.g., the Personal Data, or the correction, that you are requesting).  
   
 If you are located in New Zealand and believe we are unlawfully processing your Personal Data, you can lodge a complaint with us directly using the above contact details, or you can lodge a complaint with the New Zealand Privacy Commissioner. Information about how to lodge a complaint is available at [Privacy Commissioner’s website](http://www.privacy.org.nz/).  
   
@@ -390,12 +390,12 @@ By clicking “Accept”, you agree to the storing of cookies on your device to 
 
 #### Want to start using Storypark? Contact:
 
-* [sales@storypark.com](mailto:sales@storypark.com?subject=I'm%20interested%20in%20Storypark)[**US/Canada** 1 888 330 9658](tel:8883309658)
+* [\[email protected\]](https://www.storypark.com/cdn-cgi/l/email-protection)[**US/Canada** 1 888 330 9658](tel:8883309658)
 * [**  
     Already use Storypark? Contact:**](#)[**US/CAN** 1 888 330 9658  
       
     Already use Storypark? Contact:](tel:1800225147)
-* [**hello@storypark.com**](mailto:hello@storypark.com?subject=Support%20request)
+* [\[email protected\]](https://www.storypark.com/cdn-cgi/l/email-protection)
 * [](tel:8883309658)
 
 [![App Store button](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b95b62b911824_icon-app-store.svg)](https://apps.apple.com/nz/developer/storypark/id867828320)[![Google Play button](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b952ce291181b_icon-play-store.svg)](https://play.google.com/store/apps/developer?id=Storypark&hl=en)
