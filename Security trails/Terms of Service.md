@@ -1,5 +1,5 @@
 * [Blog](https://securitytrails.com/blog)
-* [Careers](https://securitytrails.com/careers)
+* [Careers](https://securitytrails.com/)
 * [Contact Us](https://securitytrails.com/contact)
 * [Login](https://app.recordedfuture.com/live/login/)
 
@@ -263,7 +263,7 @@ About us
 
 Helpful links
 
-* [Careers](https://securitytrails.com/careers)
+* [Careers](https://securitytrails.com/)
 * [Contact Us](https://securitytrails.com/contact)
 * [Get a Demo](https://go.recordedfuture.com/demo)
 * [The Intelligence Graph](https://securitytrails.com/platform/intelligence-graph)
