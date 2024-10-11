@@ -186,7 +186,7 @@ Please contact us with any data related questions or requests to have your perso
 
 #### **9\. HOW TO CONTACT US**
 
-If you have any questions about this Privacy Policy or the Service, please contact us at admin@xesto.co.
+If you have any questions about this Privacy Policy or the Service, please contact us at [\[email protected\]](https://www.xesto.io/cdn-cgi/l/email-protection).
 
 #### **10\. CHANGES TO OUR PRIVACY POLICY**
 
