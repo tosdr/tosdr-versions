@@ -244,7 +244,7 @@ We are required to disclose personal information in response to lawful requests 
 
 ### Opt Out for Direct Marketing
 
-You may opt out at any time from the use of your personal information for direct marketing purposes, and/or transfer of your personal information to third parties for direct marketing purposes by sending us an email at [privacy@shortcut.com](mailto:privacy@shortcut.com). Please allow us a reasonable time to process your request. You cannot opt out of receiving transactional or administrative e-mails related to our services or your requests for information or materials.
+You may opt out at any time from the use of your personal information for direct marketing purposes, and/or transfer of your personal information to third parties for direct marketing purposes by sending us an email at [\[email protected\]](https://shortcut.com/cdn-cgi/l/email-protection). Please allow us a reasonable time to process your request. You cannot opt out of receiving transactional or administrative e-mails related to our services or your requests for information or materials.
 
 ### Retention of Personal Information
 
@@ -252,7 +252,7 @@ We will retain your personal information in a form that identifies you only for 
 
 ### Delete Your Information
 
-You may request access to and deletion of your personal data by contacting us at [support@shortcut.com](mailto:support@shortcut.com).
+You may request access to and deletion of your personal data by contacting us at [\[email protected\]](https://shortcut.com/cdn-cgi/l/email-protection).
 
 ### How We Protect Your Information
 
@@ -272,7 +272,7 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 ### How to Contact Us
 
-If you have questions about this Privacy Policy, please e-mail us at [privacy@shortcut.com](mailto:privacy@shortcut.com).
+If you have questions about this Privacy Policy, please e-mail us at [\[email protected\]](https://shortcut.com/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -323,7 +323,7 @@ We are required to disclose personal information in response to lawful requests 
 
 ### Opt Out for Direct Marketing
 
-You may opt out at any time from the use of your personal information for direct marketing purposes, and/or transfer of your personal information to third parties for direct marketing purposes by sending us an email at [privacy@shortcut.com](mailto:privacy@shortcut.com). Please allow us a reasonable time to process your request. You cannot opt out of receiving transactional or administrative e-mails related to our services or your requests for information or materials.
+You may opt out at any time from the use of your personal information for direct marketing purposes, and/or transfer of your personal information to third parties for direct marketing purposes by sending us an email at [\[email protected\]](https://shortcut.com/cdn-cgi/l/email-protection). Please allow us a reasonable time to process your request. You cannot opt out of receiving transactional or administrative e-mails related to our services or your requests for information or materials.
 
 ### Retention of Personal Information
 
@@ -331,7 +331,7 @@ We will retain your personal information in a form that identifies you only for 
 
 ### Delete Your Information
 
-You may request access to and deletion of your personal data by contacting us at [support@shortcut.com](mailto:support@shortcut.com).
+You may request access to and deletion of your personal data by contacting us at [\[email protected\]](https://shortcut.com/cdn-cgi/l/email-protection).
 
 ### How We Protect Your Information
 
@@ -351,7 +351,7 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 ### How to Contact Us
 
-If you have questions about this Privacy Policy, please e-mail us at [privacy@shortcut.com](mailto:privacy@shortcut.com).
+If you have questions about this Privacy Policy, please e-mail us at [\[email protected\]](https://shortcut.com/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -402,7 +402,7 @@ We are required to disclose personal information in response to lawful requests 
 
 ### Opt Out for Direct Marketing
 
-You may opt out at any time from the use of your personal information for direct marketing purposes, and/or transfer of your personal information to third parties for direct marketing purposes by sending us an email at [privacy@shortcut.com](mailto:privacy@shortcut.com). Please allow us a reasonable time to process your request. You cannot opt out of receiving transactional or administrative e-mails related to our services or your requests for information or materials.
+You may opt out at any time from the use of your personal information for direct marketing purposes, and/or transfer of your personal information to third parties for direct marketing purposes by sending us an email at [\[email protected\]](https://shortcut.com/cdn-cgi/l/email-protection). Please allow us a reasonable time to process your request. You cannot opt out of receiving transactional or administrative e-mails related to our services or your requests for information or materials.
 
 ### Retention of Personal Information
 
@@ -410,7 +410,7 @@ We will retain your personal information in a form that identifies you only for 
 
 ### Delete Your Information
 
-You may request access to and deletion of your personal data by contacting us at [support@shortcut.com](mailto:support@shortcut.com).
+You may request access to and deletion of your personal data by contacting us at [\[email protected\]](https://shortcut.com/cdn-cgi/l/email-protection).
 
 ### How We Protect Your Information
 
@@ -430,7 +430,7 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 ### How to Contact Us
 
-If you have questions about this Privacy Policy, please e-mail us at [privacy@shortcut.com](mailto:privacy@shortcut.com).
+If you have questions about this Privacy Policy, please e-mail us at [\[email protected\]](https://shortcut.com/cdn-cgi/l/email-protection).
 
 ‍
 
