@@ -321,7 +321,7 @@ You agree to hold harmless and indemnify Trevor, and its affiliates, officers, a
 
 ‍
 
-If you have any questions, please contact Trevor on team@trevor.io.
+If you have any questions, please contact Trevor on [\[email protected\]](https://trevor.io/cdn-cgi/l/email-protection).
 
 ‍
 =
