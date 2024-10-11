@@ -414,30 +414,6 @@ Follow us
 
 ![Reckitt | MeadJohnson Nutrition](https://d28v1qz47twks.cloudfront.net/media/cache/2/9/f/5/1/6/29f5167c7237dc1e2742465d8eab5395dc904ba8.webp)
 
-* [For Healthcare professionals](https://www.hcp.meadjohnson.com/)
-
-* [Modern Slavery Act Statement](https://www.reckitt.com/media/8987/modern-slavery-act-statement.pdf)
-
-* [Privacy Rights](https://www.enfamil.com/privacy-policy/)
-
-* [Consumer Health Data Privacy Policies](https://www.enfamil.com/privacy-policy/#consumer-health-data-privacy-policies)
-
-Your Privacy Choices
-
-* [Notice at Collection](https://www.enfamil.com/privacy-policy/#information-collected-legal-bases-disclosures)
-
-* [Terms of Use](https://www.enfamil.com/terms-of-use/)
-
-* [Terms of Sale](https://www.enfamil.com/terms-of-sale/)
-
-* [Shipping Options](https://www.enfamil.com/terms-of-sale/#shipping)
-
-* [Return Policy](https://www.enfamil.com/terms-of-sale/#returns)
-
-Intended for U.S. Residents Only. 1998, 2024 Mead Johnson & Company, LLC. All Rights Reserved
-
-![Reckitt | MeadJohnson Nutrition](https://d28v1qz47twks.cloudfront.net/media/cache/2/9/f/5/1/6/29f5167c7237dc1e2742465d8eab5395dc904ba8.webp)
-
 Intended for U.S. Residents Only. 1998, 2024 Mead Johnson & Company, LLC. All Rights Reserved
 
 * [For Healthcare professionals](https://www.hcp.meadjohnson.com/)
@@ -461,5 +437,7 @@ Your Privacy Choices
 * [Return Policy](https://www.enfamil.com/terms-of-sale/#returns)
 
 Do Not Sell or Share My Personal Information / Opt-Out of Targeted Ad
+
+**NOTICE:** We may sell your personal sensitive data.
 
 ![Open Chat](/static/images/icons/sfec-chat-open.png) ![Close Chat](/static/images/icons/sfec-chat-close.svg)
