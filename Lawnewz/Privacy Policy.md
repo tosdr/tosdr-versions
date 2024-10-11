@@ -258,11 +258,11 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Dr. Dre, Dr. Charles Sophy](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Dr-Dre-Charles-Sophy-432x243.jpg)](https://lawandcrime.com/lawsuit/you-f-ed-with-the-wrong-one-high-profile-psychiatrist-and-marriage-counselor-files-bombshell-lawsuit-against-dr-dre-claiming-bizarre-fake-fbi-agent-intimidation/)
+1. [![Left: Robin Niceta appears in court (KUSA). Right: Niceta (Colorado Department of Corrections).](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Robin-Niceta-432x243.jpg)](https://lawandcrime.com/crime/social-worker-faked-rare-brain-cancer-to-delay-trial-over-vindictive-spiteful-false-child-abuse-claims-against-official-who-criticized-her-police-chief-girlfriend/)
     
-    ### ['You f—ed with the wrong one': High-profile psychiatrist and marriage counselor files bombshell lawsuit against Dr. Dre claiming bizarre fake FBI agent intimidation](https://lawandcrime.com/lawsuit/you-f-ed-with-the-wrong-one-high-profile-psychiatrist-and-marriage-counselor-files-bombshell-lawsuit-against-dr-dre-claiming-bizarre-fake-fbi-agent-intimidation/)
+    ### [Social worker faked 'rare' brain cancer to delay trial over 'vindictive, spiteful' false child abuse claims against official who criticized her police chief girlfriend](https://lawandcrime.com/crime/social-worker-faked-rare-brain-cancer-to-delay-trial-over-vindictive-spiteful-false-child-abuse-claims-against-official-who-criticized-her-police-chief-girlfriend/)
     
-2. [![A home in Kentucky where cooked body parts were allegedly found in a steel pot.](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Cooked-Body-Parts-432x243.jpg)](https://lawandcrime.com/crime/casting-spells-on-them-woman-arrested-after-body-parts-cooked-in-a-steel-pot-and-dismembered-human-remains-allegedly-found-spread-throughout-home/)
+2. [![Background: A home in Kentucky where cooked body parts were allegedly found in a steel pot (YouTube/WDKY). Inset: Torilena Fields (Bourbon County (Ky.) Regional Jail](https://am22.mediaite.com/lc/cnt/uploads/2024/10/Torilena-Fields-cooked-body-parts-432x243.jpg)](https://lawandcrime.com/crime/casting-spells-on-them-woman-arrested-after-body-parts-cooked-in-a-steel-pot-and-dismembered-human-remains-allegedly-found-spread-throughout-home/)
     
     ### ['Casting spells on them': Woman arrested after body parts 'cooked' in a steel pot and dismembered human remains allegedly found spread throughout home](https://lawandcrime.com/crime/casting-spells-on-them-woman-arrested-after-body-parts-cooked-in-a-steel-pot-and-dismembered-human-remains-allegedly-found-spread-throughout-home/)
     
@@ -270,13 +270,13 @@ Top of Today
     
     ### ['Frivolous and must be quashed': Judge refuses to immediately shield Rudy Giuliani 'alter ego' company's bank account from defamed 2020 election workers](https://lawandcrime.com/high-profile/rudy-giuliani-attempt-to-exempt-alter-ego-company-from-restraining-notice-falls-flat/)
     
-4. [![Jack Smith, on the left; Donald Trump, on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/05/Smith-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/not-a-cognizable-legal-prejudice-jan-6-judge-scoffs-at-trumps-arguments-to-delay-unsealing-smith-docs-but-gives-him-7-day-stay-to-evaluate-litigation-options/)
-    
-    ### ['Not a cognizable legal prejudice': Jan. 6 judge scoffs at Trump's arguments to delay unsealing Smith docs but gives him 7-day stay to 'evaluate litigation options'](https://lawandcrime.com/high-profile/not-a-cognizable-legal-prejudice-jan-6-judge-scoffs-at-trumps-arguments-to-delay-unsealing-smith-docs-but-gives-him-7-day-stay-to-evaluate-litigation-options/)
-    
-5. [![Jessica Hager appears inset against an image of the house she was killed in.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Jessica-Hager-432x243.jpg)](https://lawandcrime.com/crime/an-unfair-chance-in-life-recently-married-mother-of-4-killed-in-murder-suicide-by-family-friend-husband-narrowly-escapes/)
+4. [![Jessica Hager appears inset against an image of the house she was killed in.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Jessica-Hager-432x243.jpg)](https://lawandcrime.com/crime/an-unfair-chance-in-life-recently-married-mother-of-4-killed-in-murder-suicide-by-family-friend-husband-narrowly-escapes/)
     
     ### ['An unfair chance in life': Recently-married mother of 4 killed in murder-suicide by family friend, husband narrowly escapes](https://lawandcrime.com/crime/an-unfair-chance-in-life-recently-married-mother-of-4-killed-in-murder-suicide-by-family-friend-husband-narrowly-escapes/)
+    
+5. [![Sticker Mule Trump sign](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Sticker-Mule-Trump-sign-432x243.jpg)](https://lawandcrime.com/lawsuit/trump-loving-business-owner-victorious-after-judge-drops-restraining-order-against-massive-vote-for-trump-sign-atop-factory-just-in-time-for-lighting-ceremony/)
+    
+    ### [Trump-loving business owner victorious after judge drops restraining order against massive 'Vote for Trump' sign atop factory just in time for lighting ceremony](https://lawandcrime.com/lawsuit/trump-loving-business-owner-victorious-after-judge-drops-restraining-order-against-massive-vote-for-trump-sign-atop-factory-just-in-time-for-lighting-ceremony/)
     
 
 [](http://eepurl.com/c89Jdb)
