@@ -207,7 +207,7 @@ The comprehensive mental health care platform for enterprises around the world
 
 |
 
-[Privacy](https://www.modernhealth.com/privacy-policy-2019)
+[Privacy](https://www.modernhealth.com/privacy)
 
 |
 
