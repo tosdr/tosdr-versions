@@ -601,6 +601,10 @@ Also please note that by using our services, we assume that you are happy for us
         
         Google’s privacy policy applies to videos once they are uploaded to YouTube using the YouTube render and upload feature. Google’s Privacy Policy can be accessed at [https://www.google.com/policies/privacy.](https://www.google.com/policies/privacy)
         
+    4. 15.4
+        
+        Users may revoke the access of the YouTube API Services granted to DaVinci Resolve and DaVinci Resolve Studio products at any time. To do so, users can manage their app permissions through their Google security settings page at [https://security.google.com/settings/security/permissions.](https://security.google.com/settings/security/permissions)
+        
 16. 16.
     
     Definitions
@@ -647,7 +651,7 @@ Also please note that by using our services, we assume that you are happy for us
         
     2. 17.2
         
-        This Privacy Policy was last updated on 30 March 2022.
+        This Privacy Policy was last updated on 9 October 2024.
         
 
 Blackmagic Design Pty Ltd
