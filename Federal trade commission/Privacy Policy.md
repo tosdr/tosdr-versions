@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends More Than $449,000 to Consumers Harmed by ‘Extended Vehicle Warranty’ Scam](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-sends-more-449000-consumers-harmed-extended-vehicle-warranty-scam)
+    ### [FTC Extends Comment Period on RFI Related to Franchise Agreements and Business Practices to Oct. 24](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-extends-comment-period-rfi-related-franchise-agreements-business-practices-oct-24)
     
     October 10, 2024
     
