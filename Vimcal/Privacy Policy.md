@@ -18,7 +18,7 @@ If you have questions about data protection, or if you have any requests for res
 _Name of the controller_: Michael Zhao, COO  
 _Address_: 6798 Lopez Canyon Way, San Diego, CA 92126
 
-_Email_: privacy@vimcal.com
+_Email_: [\[email protected\]](https://www.vimcal.com/cdn-cgi/l/email-protection)
 
 ‍
 
