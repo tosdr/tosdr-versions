@@ -6,7 +6,7 @@ The store will not work correctly when cookies are disabled.
 
 FREE SHIPPING\* | [See Details](https://www.adaptivemall.com/freeshipping)
 
-**Adaptivemall.com will be closed May 25th- 27th in observance of the Memorial Day Holiday. Customer Service will return on Tuesday, May 28th at 8:30am EST to resume regularly scheduled hours.** 
+Adaptivemall.com will be closed for company training today from 12 -5pm. We will respond to any emails or calls when business resumes on Monday, October 14th, 2024  from 8:30am-5pm. 
 
  **Please note that we are switching our email server today to provide better service to you. There may be a slight interruption in email service but know that we are diligently working on it! Thank you for your patience!**
 
@@ -362,7 +362,7 @@ CLOSE
 
 FREE SHIPPING\* | [See Details](https://www.adaptivemall.com/freeshipping)
 
-**Adaptivemall.com will be closed May 25th- 27th in observance of the Memorial Day Holiday. Customer Service will return on Tuesday, May 28th at 8:30am EST to resume regularly scheduled hours.** 
+Adaptivemall.com will be closed for company training today from 12 -5pm. We will respond to any emails or calls when business resumes on Monday, October 14th, 2024  from 8:30am-5pm. 
 
  **Please note that we are switching our email server today to provide better service to you. There may be a slight interruption in email service but know that we are diligently working on it! Thank you for your patience!**
 
