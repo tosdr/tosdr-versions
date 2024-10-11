@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I just wanna say thank you to make FoxyProxy, it's best way to manage proxies & it made my weak internet powerful & great.
+ALWAYS excellent service from foxy proxy. No complaints, No worries. Again, thank you for your good service.
 
-Zandi
+Warren Schoenly
