@@ -229,7 +229,7 @@ Learn More
 ----------
 
 * [Meet The Team](https://fitjoyfoods.com/pages/our-people)
-* [Store Locator](https://fitjoyfoods.com/pages/find-pretzels)
+* [Store Locator](https://fitjoyfoods.com/pages/store-locator)
 * [FitJoy Affiliate Program](https://fitjoy.refersion.com/)
 
 Shop Our Products
@@ -256,7 +256,7 @@ Follow us
 * [Facebook](https://www.facebook.com/FitJoy "FitJoy Foods on Facebook")
 * [LinkedIn](https://www.linkedin.com/company/fitjoyfoods/about/?viewAsMember=true "FitJoy Foods on LinkedIn")
 
-© 2024 FitJoy Foods [Meet The Team](https://fitjoyfoods.com/pages/our-people)[Store Locator](https://fitjoyfoods.com/pages/find-pretzels)[FitJoy Affiliate Program](https://fitjoy.refersion.com/) Built with Help from [Launch Supply](https://launchsupply.com/)
+© 2024 FitJoy Foods [Meet The Team](https://fitjoyfoods.com/pages/our-people)[Store Locator](https://fitjoyfoods.com/pages/store-locator)[FitJoy Affiliate Program](https://fitjoy.refersion.com/) Built with Help from [Launch Supply](https://launchsupply.com/)
 
 "Close (esc)"
 
