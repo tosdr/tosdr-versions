@@ -73,7 +73,7 @@ IDI Qualified Administrators must agree to the terms of the IDI License Agreemen
 
 * [Main (240) 389-1482](tel:+12403891482)
 * [Fax (443) 926-0146](tel:+14439260146)
-* [support@idiinventory.com](mailto:support@idiinventory.com)
+* [\[email protected\]](https://www.idiinventory.com/cdn-cgi/l/email-protection)
 
 [](https://www.facebook.com/profile.php?id=100064183356881)[](https://www.linkedin.com/company/idillc/)
 
