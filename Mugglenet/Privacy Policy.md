@@ -292,15 +292,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-In early notes, two school subjects were originally called Herbalism and Beasts. Divination and Alchemy were also listed as compulsory subjects.
+There is a rumor that when the House points counter was built for the “Harry Potter” film series, it caused a nationwide shortage of Indian glass beads.
 
 ### Potter History
 
-July 15, 2001 – Harry Potter and the Deathly Hallows – Part 2 is released in theaters, breaking records to have the highest-grossing midnight release, first 24 hours, and opening weekend of all time. It is also currently the third highest-grossing film of all time.
+April 24, 2013 – It is officially announced that the Wizarding World of Harry Potter is opening at Universal Studios Hollywood in 2016 or later.
 
 ### Potter Quote
 
-“It only put me in Gryffindor because I asked not to go in Slytherin. . . .”
+“This little beauty’s taught us more than all the teachers in this school.”
 
 [](#)
 
