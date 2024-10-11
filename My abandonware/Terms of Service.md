@@ -85,11 +85,11 @@ Top downloads
 
 Latest releases
 
+* [Battle Chopper](https://www.myabandonware.com/game/battle-chopper-5ab)
+* [Blandia](https://www.myabandonware.com/game/blandia-hgz)
 * [B-Wings: Battle Wings](https://www.myabandonware.com/game/b-wings-battle-wings-9wb)
 * [Bega's Battle](https://www.myabandonware.com/game/bega-s-battle-srv)
 * [Beast Busters: Second Nightmare](https://www.myabandonware.com/game/beast-busters-second-nightmare-sru)
-* [Bazooka](https://www.myabandonware.com/game/bazooka-srt)
-* [Code One Dispatch](https://www.myabandonware.com/game/code-one-dispatch-srs)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
