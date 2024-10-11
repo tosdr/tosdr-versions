@@ -1,8 +1,8 @@
-Webinar
+Event
 
-Selling your mobile app on the web: Proven tactics to earn more revenue
+Happy Hour: Operationalizing your next product launch
 
-[Join us live](https://paddle.com/events/webinars/selling-your-mobile-app-on-the-web-proven-tactics-to-earn-more-revenue)
+[Join us live](https://www.paddle.com/events/happy-hour-2024?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2024_q4_core_paddle_happy_hour_webinar_series&utm_content=homepage-banner)
 
 [![Paddle logo](/_next/static/media/logo-primary.1520b460.svg)](https://www.paddle.com/)
 
