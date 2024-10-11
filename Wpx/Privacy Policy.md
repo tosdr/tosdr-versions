@@ -1,4 +1,6 @@
-[Ga naar de inhoud](#content "Ga naar de inhoud")
+Deze website gebruikt cookies om je ervaring te verbeteren. Door verder te gaan, stem je in met het gebruik van cookies. Accepteer
+
+ [Ga naar de inhoud](#content "Ga naar de inhoud")
 
 [![WPX dé WordPress Expert](https://www.wpx.nl/wp-content/uploads/2023/05/logo.svg "WPX dé WordPress Expert")](https://www.wpx.nl/ "WPX dé WordPress Expert")
 
