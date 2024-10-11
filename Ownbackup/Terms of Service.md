@@ -491,7 +491,7 @@ Share your details and we’ll contact you shortly to schedule a custom 25-minut
 
 [![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/6515bbf6ac76562dab935caf_4c%20White.svg)](https://www.ownbackup.com/)
 
-[Office: 646.503.5100](tel:6465035100)[info@owndata.com](mailto:info@owndata.com)[Contact Us](https://www.ownbackup.com/contact-us)
+[Office: 646.503.5100](tel:6465035100)[\[email protected\]](https://www.ownbackup.com/cdn-cgi/l/email-protection)[Contact Us](https://www.ownbackup.com/contact-us)
 
 [![linkedin](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d39d804ec083617d226fbe_linken.svg)](https://www.linkedin.com/company/owndata/)[![YouTube](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651654964df69a09d4296c75_youtube.svg)](https://youtube.com/@Own.Company)
 
@@ -580,7 +580,7 @@ Legal
 
 [![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/6515bbf6ac76562dab935caf_4c%20White.svg)](https://www.ownbackup.com/)
 
-[Office: 646.503.5100](tel:6465035100)[info@owndata.com](mailto:info@owndata.com)[Contact Us](https://www.ownbackup.com/contact-us)
+[Office: 646.503.5100](tel:6465035100)[\[email protected\]](https://www.ownbackup.com/cdn-cgi/l/email-protection)[Contact Us](https://www.ownbackup.com/contact-us)
 
 © 2024 Own Company. All rights reserved.
 
