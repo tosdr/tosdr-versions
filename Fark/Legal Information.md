@@ -230,11 +230,12 @@ It's Not News, It's Fark
 
 [![Fark25 Party](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-If you like these links, you'll love
+Want more stories with less ads? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-The next best thing to UltraFark
+It's what the cool kids are doing.  
+It also helps us pay the bills.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +335,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Getting out of the way of a hurricane can be very expensive, what if you can't afford to flee one?](https://www.fark.com/goto/13424096) ( [vox.com](https://www.fark.com/goto/13424096) ) » [(4 comments)](https://www.fark.com/comments/13424096/Getting-out-of-way-of-a-hurricane-can-be-very-expensive-what-if-you-cant-afford-to-flee-one) |
-| [Discussion](https://www.fark.com/discussion/) | [More fun than having chalk thrown at you in Persona 5 it's the Friday Fark Gaming Thread. LGT a list of the best RTS games. What have you been playing this week? CK III? Helldivers II? Tell us. Side note: Favourite indie games others should play?](https://www.fark.com/goto/13423138) ( [culturedvultures.com](https://www.fark.com/goto/13423138) ) » [(58 comments)](https://www.fark.com/comments/13423138/More-fun-than-having-chalk-thrown-at-you-in-Persona-5-its-Friday-Fark-Gaming-Thread-LGT-a-list-of-best-RTS-games-What-have-you-been-playing-this-week-CK-III-Helldivers-II-Tell-us-Side-note-Favourite-indie-games-others-should-play) |
-| [Sports](https://www.fark.com/sports/) | [Fark Ready: Gurriel's postseason experience rubbing off on young Royals squad](https://www.fark.com/goto/13423876) ( [mlb.com](https://www.fark.com/goto/13423876) ) » [(0 comments)](https://www.fark.com/comments/13423876/Fark-Ready-Gurriels-postseason-experience-rubbing-off-on-young-Royals-squad) |
-| [Business](https://www.fark.com/business/) | [In order to combat accusations of child labour & inhumane working conditions in their supply chain, Shein are now giving away free scorpions with every purchase](https://www.fark.com/goto/13423974) ( [bbc.co.uk](https://www.fark.com/goto/13423974) ) » [(2 comments)](https://www.fark.com/comments/13423974/In-order-to-combat-accusations-of-child-labour-inhumane-working-conditions-in-their-supply-chain-Shein-are-now-giving-away-free-scorpions-with-every-purchase) |
-| [STEM](https://www.fark.com/stem/) | [Archaeologists label stone-paved root cellar "advanced technology". Wait until they see subby's basement](https://www.fark.com/goto/13424142) ( [phys.org](https://www.fark.com/goto/13424142) ) » [(1 comment)](https://www.fark.com/comments/13424142/Archaeologists-label-stone-paved-root-cellar-advanced-technology-Wait-until-they-see-subbys-basement) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Netflix fires 10 from Publicity Department, probably after one season. In other news, Netflix apparently has a Publicity Department](https://www.fark.com/goto/13424072) ( [deadline.com](https://www.fark.com/goto/13424072) ) » [(4 comments)](https://www.fark.com/comments/13424072/Netflix-fires-10-from-Publicity-Department-probably-after-one-season-In-other-news-Netflix-apparently-has-a-Publicity-Department) |
-| [Fandom](https://www.fark.com/fandom/) | [The best classic rock bands you've never heard of unless you don't listen to classic rock radio](https://www.fark.com/goto/13424164) ( [audioinkradio.com](https://www.fark.com/goto/13424164) ) » [(11 comments)](https://www.fark.com/comments/13424164/The-best-classic-rock-bands-youve-never-heard-of-unless-you-dont-listen-to-classic-rock-radio) |
-| [D'awww](https://www.fark.com/dawww/) | [Cthulhu's brethren the argonaut octopus seems to have mastered the free ride](https://www.fark.com/goto/13423524) ( [defector.com](https://www.fark.com/goto/13423524) ) » [(4 comments)](https://www.fark.com/comments/13423524/Cthulhus-brethren-argonaut-octopus-seems-to-have-mastered-free-ride) |
-| [Food](https://www.fark.com/food/) | [California bans sell-by dates on most food. Your dog finally wants that can of Alpo from 2011](https://www.fark.com/goto/13424086) ( [foodandwine.com](https://www.fark.com/goto/13424086) ) » [(0 comments)](https://www.fark.com/comments/13424086/California-bans-sell-by-dates-on-most-food-Your-dog-finally-wants-that-can-of-Alpo-from-2011) |
-| [Politics](https://www.fark.com/politics/) | [But seriously, if you were Lauren Boebert's son, wouldn't YOU try to steal someone else's identity?](https://www.fark.com/goto/13424090) ( [courthousenews.com](https://www.fark.com/goto/13424090) ) » [(14 comments)](https://www.fark.com/comments/13424090/But-seriously-if-you-were-Lauren-Boeberts-son-wouldnt-YOU-try-to-steal-someone-elses-identity) |
+| [Main](https://www.fark.com/) | [Trump will speak to an audience of Cumming women next week](https://www.fark.com/goto/13424608) ( [press.foxnews.com](https://www.fark.com/goto/13424608) ) » [(14 comments)](https://www.fark.com/comments/13424608/Trump-will-speak-to-an-audience-of-Cumming-women-next-week) |
+| [Discussion](https://www.fark.com/discussion/) | ["I gave my partner a threesome and he won't stop asking for another one. What do?" (possible nsfw content on page)](https://www.fark.com/goto/13424464) ( [thesun.co.uk](https://www.fark.com/goto/13424464) ) » [(15 comments)](https://www.fark.com/comments/13424464/I-gave-my-partner-a-threesome-he-wont-stop-asking-for-another-one-What-do-possible-nsfw-content-on-page) |
+| [Sports](https://www.fark.com/sports/) | [Let Russ rock](https://www.fark.com/goto/13424288) ( [nfl.com](https://www.fark.com/goto/13424288) ) » [(1 comment)](https://www.fark.com/comments/13424288/Let-Russ-rock) |
+| [Business](https://www.fark.com/business/) | [Just to be clear, when you're delivering for Uber Eats, your job is to take stuff TO apartments, not take stuff FROM them](https://www.fark.com/goto/13424528) ( [nydailynews.com](https://www.fark.com/goto/13424528) ) » [(4 comments)](https://www.fark.com/comments/13424528/Just-to-be-clear-when-youre-delivering-for-Uber-Eats-your-job-is-to-take-stuff-TO-apartments-not-take-stuff-FROM-them) |
+| [STEM](https://www.fark.com/stem/) | [Scientists finally put a face on the biggest bug to ever crawl the earth. Next up, googly eyes on a T-Rex](https://www.fark.com/goto/13424494) ( [independent.co.uk](https://www.fark.com/goto/13424494) ) » [(2 comments)](https://www.fark.com/comments/13424494/Scientists-finally-put-a-face-on-biggest-bug-to-ever-crawl-earth-Next-up-googly-eyes-on-a-T-Rex) |
+| [Entertainment](https://www.fark.com/entertainment/) | [How they make Da Bomb hot sauce](https://www.fark.com/goto/13424426) ( [youtube.com](https://www.fark.com/goto/13424426) ) » [(9 comments)](https://www.fark.com/comments/13424426/How-they-make-Da-Bomb-hot-sauce) |
+| [Fandom](https://www.fark.com/fandom/) | [Report: Roblox is a pedophile hellscape for kids](https://www.fark.com/goto/13424232) ( [kotaku.com](https://www.fark.com/goto/13424232) ) » [(18 comments)](https://www.fark.com/comments/13424232/Report-Roblox-is-a-pedophile-hellscape-for-kids) |
+| [D'awww](https://www.fark.com/dawww/) | [Man goes to the Champagne region of France not to sip the bubbly, he went to catch the world's biggest goldfish](https://www.fark.com/goto/13424376) ( [theguardian.com](https://www.fark.com/goto/13424376) ) » [(3 comments)](https://www.fark.com/comments/13424376/Man-goes-to-Champagne-region-of-France-not-to-sip-bubbly-he-went-to-catch-worlds-biggest-goldfish) |
+| [Food](https://www.fark.com/food/) | [Why is bacon getting so expensive?](https://www.fark.com/goto/13424682) ( [apnews.com](https://www.fark.com/goto/13424682) ) » [(7 comments)](https://www.fark.com/comments/13424682/Why-is-bacon-getting-so-expensive) |
+| [Politics](https://www.fark.com/politics/) | [Maybe this would be the time to talk about gun violence](https://www.fark.com/goto/13424082) ( [cbsnews.com](https://www.fark.com/goto/13424082) ) » [(8 comments)](https://www.fark.com/comments/13424082/Maybe-this-would-be-time-to-talk-about-gun-violence) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +354,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 11 2024 09:43:45  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 11 2024 15:43:06  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
