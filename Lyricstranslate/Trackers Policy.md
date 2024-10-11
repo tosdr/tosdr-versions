@@ -137,67 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
-
-New song
-
-[Gary Wright - If you treat someone right](https://lyricstranslate.com/en/gary-wright-if-you-treat-someone-righ-lyrics)
-
-English
-
 [![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
 
-New song
+New translation
 
-[Dog Knows Everything (OST) - 개소리](https://lyricstranslate.com/en/dog-knows-everything-ost-gaesori-lyrics)
+[Jin (BTS) - 슈퍼 참치 (Super Tuna) - Extended Version](https://lyricstranslate.com/en/jin-bts-syupeo-camci-super-tuna-english)
 
-Korean
+English → English
 
-[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
+[![Optimus_ Crepper](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632651-1728646028.jpg)](https://lyricstranslate.com/en/translator/optimus-crepper "Optimus_ Crepper")
 
-New collection
+New comment
 
-[NOMAD | Call Me Back](https://lyricstranslate.com/en/collection/nomad-call-me-back)
+Obs! When clicking a sentence a orange background ...  [more](https://lyricstranslate.com/en/comment/1169451#comment-1169451)
 
-[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
+[![pingodapenguin](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/pingodapenguin "pingodapenguin")
 
-New song
+New translation
 
-[NOMAD (Group) - Compare](https://lyricstranslate.com/en/nomad-group-compare-lyrics)
+[Rammstein - Der Meister](https://lyricstranslate.com/en/rammstein-der-meister-danish)
 
-English
-
-[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
-
-New song
-
-[NOMAD (Group) - Call Me Back](https://lyricstranslate.com/en/nomad-group-call-me-back-lyrics)
-
-English
+German → Danish
 
 [![BeckoningCat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601382-1702141765.jpg)](https://lyricstranslate.com/en/translator/beckoningcat "BeckoningCat")
 
-Transcription request fulfilled
+New translation
 
-[She's tough](https://lyricstranslate.com/en/jerry-mccain-shes-tough-lyrics)
+[Terrian - Honestly, We Just Need Jesus](https://lyricstranslate.com/en/terrian-honestly-we-just-need-je-french)
 
-English
+English → French
 
-[![BeckoningCat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601382-1702141765.jpg)](https://lyricstranslate.com/en/translator/beckoningcat "BeckoningCat")
+[![itscami](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1405229-1544380442.jpg)](https://lyricstranslate.com/en/translator/dance-moms "itscami")
+
+New translation
+
+[Patrick Watson - Lost With You](https://lyricstranslate.com/en/patrick-watson-lost-you-italian)
+
+English → Italian
+
+[![Optimus_ Crepper](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632651-1728646028.jpg)](https://lyricstranslate.com/en/translator/optimus-crepper "Optimus_ Crepper")
+
+New translation
+
+[Chris Abolade - titanic](https://lyricstranslate.com/en/chris-abolade-titanic-english)
+
+Norwegian → English
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Quartetto Cetra - Triana morena](https://lyricstranslate.com/en/quartetto-cetra-triana-morena-english)
+
+Spanish → English
+
+[![Natalia Arlovskaya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1392475-1706287626.jpg)](https://lyricstranslate.com/en/translator/natalia-arlovskaya "Natalia Arlovskaya")
 
 New song
 
-[Jerry McCain - She's tough](https://lyricstranslate.com/en/jerry-mccain-shes-tough-lyrics)
+[Bubblegum Crisis (OST) - 傷だらけのWild](https://lyricstranslate.com/en/bubblegum-crisis-ost-kizu-darake-no-wild-lyrics)
 
-English
-
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
-
-New song
-
-[Francis and the Lights - See Her Out (Thats Just Life)](https://lyricstranslate.com/en/francis-and-lights-see-her-out-thats-just-l-lyrics)
-
-English
+Japanese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
