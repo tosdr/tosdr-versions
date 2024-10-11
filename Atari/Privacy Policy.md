@@ -542,7 +542,7 @@ Unit price /  per](https://www.atari.com/products/atari-vcs-onyx-all-in)    �
 
 [![Oversized Retro Tee](files/TeeTemplate-1_695b79bd-5f11-4215-8e0f-219415ecbad3.jpg)
 
-![Oversized Retro Tee](files/TeeTemplate_82fa57ad-93d5-4d84-b198-092bd6b93083.jpg)
+![Oversized Retro Tee](files/oversized-faded-t-shirt-faded-bone-front-670932c108482copy.jpg)
 
 Add to cart
 
