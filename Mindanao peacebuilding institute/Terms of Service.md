@@ -28,7 +28,7 @@
         
         * [Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training.html)
             
-            * [2025 Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training.html)
+            * [2025 Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training.html)
             * [Inside the Annual Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/inside-the-annual-training.html)
             * [Annual Peacebuilding Training Reports](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/annual-peacebuilding-training-reports.html)
             
@@ -263,7 +263,7 @@ These Terms shall be governed by, and construed in accordance with, the laws of 
 * [Programs](https://www.mpiasia.net/programs.html)
     * [Education and Training](https://www.mpiasia.net/programs/training.html)
         * [Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training.html)
-            * [2025 Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2024-annual-peacebuilding-training.html)
+            * [2025 Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training.html)
             * [Inside the Annual Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/inside-the-annual-training.html)
             * [Annual Peacebuilding Training Reports](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/annual-peacebuilding-training-reports.html)
         * [Virtual Peacebuilding Training](https://www.mpiasia.net/programs/training/online-courses.html)
