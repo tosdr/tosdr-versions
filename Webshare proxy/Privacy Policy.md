@@ -390,7 +390,7 @@ Our Service may contain links to other sites that are not operated by us. If you
 
 ###### Nevada Residents
 
-Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident.  Note we do not sell your personal information within the meaning of Chapter 603A. However, if you would still like to submit such a request, please contact us at legal@webshare.io.
+Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident.  Note we do not sell your personal information within the meaning of Chapter 603A. However, if you would still like to submit such a request, please contact us at [\[email protected\]](https://www.webshare.io/cdn-cgi/l/email-protection).
 
 ###### Children's Privacy
 
@@ -408,7 +408,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ###### Contact Us
 
-Please contact us at legal@webshare.io or 340 S Lemon Ave #6464, Walnut, CA 91789 if you have any questions about Webshare’s privacy practices.
+Please contact us at [\[email protected\]](https://www.webshare.io/cdn-cgi/l/email-protection) or 340 S Lemon Ave #6464, Walnut, CA 91789 if you have any questions about Webshare’s privacy practices.
 
 ###### Annex – Cookies
 
