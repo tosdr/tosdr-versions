@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-827102295dad441d661307779ac8f434
+c1aa505eb1c1b608e8cec05404d0c36a
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm yellow decorated beads](https://sojourner.biz/images/cache/glass/GL0051.200.jpg)](https://sojourner.biz/beads/glass/8-mm-yellow-decorated-beads.html "8 mm yellow decorated beads")
+[![7 mm transparent purple heart beads](https://sojourner.biz/images/cache/glass/HRT029.200.jpg)](https://sojourner.biz/beads/glass/7-mm-transparent-purple-heart-beads.html "7 mm transparent purple heart beads")
 
-#### [8 mm yellow decorated beads](https://sojourner.biz/beads/glass/8-mm-yellow-decorated-beads.html "8 mm yellow decorated beads")
+#### [7 mm transparent purple heart beads](https://sojourner.biz/beads/glass/7-mm-transparent-purple-heart-beads.html "7 mm transparent purple heart beads")
 
-$15.00
+$2.00
 
 ### Best Sellers
 
@@ -158,10 +158,10 @@ $15.00
     $16.00
 4. [Swarovski crystal AB clasp](https://sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
-5. [Square pearl clasp](https://sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
-    $16.00
-6. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
+5. [White pearl toggle clasp](https://sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
+6. [Square pearl clasp](https://sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
+    $16.00
 7. [Neon blue Swarovski polka dot clasp](https://sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
 8. [Red bar clasp](https://sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
