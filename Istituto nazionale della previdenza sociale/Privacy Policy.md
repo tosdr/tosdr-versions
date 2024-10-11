@@ -810,10 +810,10 @@ it
             * [Procedura Fascicolo previdenziale del cittadino](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-fascicolo-previdenziale-del-cittadino.html)
             * [Procedura Estratto Conto Contributivo](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-estratto-conto-contributivo.html)
             * [Dipendenti pubblici e privati: domanda prestazioni previdenziali](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/dipendenti-pubblici-e-privati-domanda-prestazioni-previdenziali.html)
-            * [Procedura Maternità](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-maternit.html)
             * [Procedura Cassetto previdenziale aziende](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-cassetto-previdenziale-aziende.html)
             * [Procedura Iscrizione e Variazione azienda](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-iscrizione-e-variazione-azienda.html)
             * [Procedura Portale delle Agevolazioni](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/procedura-portale-delle-agevolazioni.html)
+            * [Congedi di maternità e paternità](https://www.inps.it/it/it/inps-comunica/diritti-e-obblighi-in-materia-di-sicurezza-sociale-nell-unione-e/procedure/congedi-di-maternit-e-paternit.html)
             
         * [Per le imprese](#)
             
@@ -951,6 +951,14 @@ it
         Rendiconto e Bilancio sociale
         
         * [Esplora Rendiconto e Bilancio sociale](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale.html)
+        * [Rendiconto sociale 2023](#)
+            
+            Rendiconto sociale 2023
+            
+            * [Esplora Rendiconto sociale 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2023.html)
+            * [Rendiconti regionali 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2023/rendiconti-regionali-2023.html)
+            * [Rendiconti provinciali 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2023/rendiconti-provinciali-2023.html)
+            
         * [Rendiconto sociale 2022](#)
             
             Rendiconto sociale 2022
@@ -989,12 +997,6 @@ it
             * [L'INPS nel territorio](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2007/l-inps-nel-territorio.html)
             * [L'INPS verso i portatori di interesse esterni](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2007/l-inps-verso-i-portatori-di-interesse-esterni.html)
             * [L'INPS verso i portatori di interesse interni](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/bilancio-sociale-2007/l-inps-verso-i-portatori-di-interesse-interni.html)
-            
-        * [](#)
-            
-            * [Esplora](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2023.html)
-            * [Rendiconti regionali 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2023/rendiconti-regionali-2023.html)
-            * [Rendiconti provinciali 2023](https://www.inps.it/it/it/dati-e-bilanci/rendiconto-e-bilancio-sociale/rendiconto-sociale-2023/rendiconti-provinciali-2023.html)
             
         
     * [SIUSS (ex Casellario dell’assistenza)](#)
