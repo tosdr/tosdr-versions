@@ -17,6 +17,7 @@ Javascript must be enabled for the correct page display
     * [Consumer Preference Management](https://trustarc.com/solutions/consumer-preference-management/)
     * [Data Subject Request Automation](https://trustarc.com/solutions/data-subject-request-automation/)
     * [Data Mapping and Vendor Risk Management](https://trustarc.com/solutions/data-mapping-vendor-risk-management/)
+    * [Migrate](https://trustarc.com/solutions/migrate/)
     * [Privacy, Vendor, and Risk Assessments](https://trustarc.com/solutions/privacy-vendor-risk-assessments/)
     * [Privacy Program Management](https://trustarc.com/solutions/privacy-program-management/)
     * [Regulatory Guidance](https://trustarc.com/solutions/regulatory-guidance/)
@@ -124,7 +125,7 @@ Javascript must be enabled for the correct page display
     
     * [![](https://trustarc.com/wp-content/uploads/2024/02/res-square-rect-blue.png)
         
-        eBOOK The Trust Center Advantage: For Privacy, Security & Legal Leaders](https://trustarc.com/resource/trust-center-advantage-for-privacy-security-and-legal-leaders/)
+        eBOOK Sick of Your Current Privacy Vendor? Why and How Companies Switch](https://trustarc.com/resource/sick-of-your-current-privacy-vendor-why-and-how-companies-switch/)
     * [![](https://trustarc.com/wp-content/uploads/2024/02/res-square-plus-pink.png)
         
         GUIDE Step-by-Step Guide to AI Compliance](https://trustarc.com/resource/step-by-step-guide-to-ai-compliance/)
