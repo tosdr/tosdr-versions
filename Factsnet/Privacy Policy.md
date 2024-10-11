@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![The Ultimate Guide to Instagram Story Viewer Understanding Insights and Engagement ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/facts-about-instagram-story-viewer/)
-
-Lifestyle
-
-10 Oct 2024
-
-[The Ultimate Guide to Instagram Story Viewer Understanding Insights and Engagement](https://facts.net/lifestyle/facts-about-instagram-story-viewer/)
-
-[![48 Facts About Ancient Roman Surgery  Factsnet ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2285%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/48-facts-about-ancient-roman-surgery-facts-net/)
+[![35 Facts About Virgil Earp ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/35-facts-about-virgil-earp/)
 
 History
 
-10 Oct 2024
+11 Oct 2024
 
-[48 Facts About Ancient Roman Surgery Factsnet](https://facts.net/history/48-facts-about-ancient-roman-surgery-facts-net/)
+[35 Facts About Virgil Earp](https://facts.net/history/35-facts-about-virgil-earp/)
+
+[![25 Facts About German Architecture ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/25-facts-about-german-architecture/)
+
+Culture & The Arts
+
+11 Oct 2024
+
+[25 Facts About German Architecture](https://facts.net/culture-and-the-arts/25-facts-about-german-architecture/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
