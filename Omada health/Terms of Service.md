@@ -1219,7 +1219,7 @@ Effective Date: April 1, 2024
     * [Member Blog](https://resourcecenter.omadahealth.com/for-individuals)
     * [Contact Us](https://www.omadahealth.com/contact)
     * [FAQs](https://www.omadahealth.com/frequently-asked-questions)
-    * [Get Started](https://go.omadahealth.com/?check-coverage=)
+    * [Get Started](https://go.omadahealth.com/?mt_gcc=b2b_www&check-coverage)
     * [Login](https://app.omadahealth.com/login)
 
 * [FOR ORGANIZATION](https://www.omadahealth.com/for-organizations)
