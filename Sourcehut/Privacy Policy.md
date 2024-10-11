@@ -86,11 +86,11 @@ We may make changes to this document with no less than 2 weeks notice. Notice of
 
 ### About this wiki
 
-commit [836cfe8c1a80808532ad26b20065861b53e030f8](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/836cfe8c1a80808532ad26b20065861b53e030f8)
-Author: Drew DeVault <sir@cmpwn.com>
-Date:   2024-09-23T11:13:42+02:00
+commit [93f98ec8f78010de4f1ef9edc6b89c11afce9216](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/93f98ec8f78010de4f1ef9edc6b89c11afce9216)
+Author: Conrad Hoffmann <ch@bitfehler.net>
+Date:   2024-09-24T17:03:25+02:00
 
-builds.sr.ht/compat: update Guix maintainer
+ops: remove stale links to topology page
 
 **Clone this wiki**
 
