@@ -157,7 +157,7 @@ If and when necessary or required, personal data processed for any of the purpos
 
 **Your rights**
 
-Under data protection law, you have the right to request access to, update, remove, and restrict the processing of your personal data.  You also have the right to object to the processing of your personal data or export your personal data to another service. Any requests should be addressed in writing to the IsoLabs Legal Team at our registered office or at the following e-mail address: legal@isomorphiclabs.com.   
+Under data protection law, you have the right to request access to, update, remove, and restrict the processing of your personal data.  You also have the right to object to the processing of your personal data or export your personal data to another service. Any requests should be addressed in writing to the IsoLabs Legal Team at our registered office or at the following e-mail address: [\[email protected\]](https://www.isomorphiclabs.com/cdn-cgi/l/email-protection).   
 ‍  
 ‍
 
@@ -169,7 +169,7 @@ We may update this Privacy Policy from time to time. We will inform you of any c
 
 **Contact us**
 
-If you have any questions about this Privacy Policy, please contact us in writing at our registered address or via the e-mail address legal@isomorphiclabs.com  
+If you have any questions about this Privacy Policy, please contact us in writing at our registered address or via the e-mail address [\[email protected\]](https://www.isomorphiclabs.com/cdn-cgi/l/email-protection)  
   
 ‍
 
@@ -191,9 +191,9 @@ a--h-150-100
 
 contact us
 
-[press@isomorphiclabs](mailto:press@isomorphiclabs)
+[\[email protected\]](https://www.isomorphiclabs.com/cdn-cgi/l/email-protection)
 
-[connecting@isomorphiclabs](mailto:connecting@isomorphiclabs)
+[\[email protected\]](https://www.isomorphiclabs.com/cdn-cgi/l/email-protection)
 
 info
 
