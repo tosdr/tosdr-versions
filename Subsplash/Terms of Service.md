@@ -23,7 +23,7 @@ These terms of use (the “Terms of Use” or “Agreement”) govern your acces
 
 Subsplash reserves the right to change or modify any of the terms and conditions contained in these Terms of Use, the Terms of Service, or any policy or guideline, at any time and in its sole discretion.  Any changes or modification will be effective immediately upon posting of the revisions on the Subsplash’s websites or Services. Your continued use of the Services following the posting of its changes or modifications will constitute your acceptance of such changes or modifications. Therefore, you should frequently review these Terms of Use and applicable policies from time-to-time to understand the terms and conditions that apply to your use of the Services.  If you do not agree to the amended terms, you must stop using the Services.  You warrant and attest that you are at least thirteen (13) years of age, and, if you are below the legal age to form a binding contract within your jurisdiction, have permission from your parent or guardian to use our Services.
 
-All other questions or comments about the Services should be directed to legal@subsplash.com.
+All other questions or comments about the Services should be directed to [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection).
 
 ### 1\. PRIVACY POLICY AND FEEDBACK
 
@@ -115,7 +115,7 @@ If you schedule a recurring payment, the recurring payment amount you specified 
 
 ### 6\. CONSENT TO RECEIVE EMAILS AND NOTICE; ELECTRONIC SIGNATURES
 
-By using the Services, you consent to receive emails from Subsplash, which may include commercial emails. We may use your information to send you news or product updates. You may “opt out” of receiving marketing or promotional email from Subsplash by following “unsubscribe” instructions or using “unsubscribe” links within communications we send. As long as you maintain an account, you may not "opt out" of receiving account-related emails from Subsplash.  The parties hereto may give legal notice by means of electronic mail, which electronic mail shall be considered delivered when sent.  The notice address of Subsplash shall be support@subsplash.com (or such other address as is provided by Subsplash to you) via email at your Notice address and your address for the receipt of notices pursuant to this Agreement shall be the current email address listed by you in your account profile.
+By using the Services, you consent to receive emails from Subsplash, which may include commercial emails. We may use your information to send you news or product updates. You may “opt out” of receiving marketing or promotional email from Subsplash by following “unsubscribe” instructions or using “unsubscribe” links within communications we send. As long as you maintain an account, you may not "opt out" of receiving account-related emails from Subsplash.  The parties hereto may give legal notice by means of electronic mail, which electronic mail shall be considered delivered when sent.  The notice address of Subsplash shall be [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection) (or such other address as is provided by Subsplash to you) via email at your Notice address and your address for the receipt of notices pursuant to this Agreement shall be the current email address listed by you in your account profile.
 
 The Services may permit you to execute certain documents whether presented by us or other users, by electronic signature. You hereby consent to the use of electronic signatures, and agree that your electronic signature, whether digital or encrypted, on such documents shall have the same force and effect as original manual signatures.
 
@@ -141,7 +141,7 @@ Copyright Agent
 
 Address: 5473 Blair Rd Ste 100, PMB 41141, Dallas, Texas 75231
 
-Email: legal@subsplash.com
+Email: [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection)
 
 ### 10\. TRADEMARKS
 
@@ -249,7 +249,7 @@ Estas condiciones de uso (las "Condiciones de Uso" o el "Contrato") rigen su acc
 
 Subsplash se reserva el derecho de cambiar o modificar cualquier término o condición en estas Condiciones de Uso, las Condiciones de Servicio o en cualquier política o pauta, en cualquier momento y a su único juicio. Cualquier cambio o modificación entrará en vigor inmediatamente después de la publicación de las revisiones en los sitios web o Servicios de Subsplash. El uso continuo de los Servicios por usted después de la publicación de sus cambios o modificaciones constituirá su aceptación de dichos cambios o modificaciones. Por lo tanto, usted debe repasar estas Condiciones de Uso con frecuencia y las políticas correspondientes de vez en cuando para entender los términos y condiciones que se aplican a su uso de los Servicios. Si no está de acuerdo con las condiciones enmendadas, debe dejar de usar los Servicios. Usted garantiza y atestigua que tiene por lo menos trece (13) años y, si tiene menos de la edad legal para formar un contrato vinculante dentro de su jurisdicción, tiene permiso de su padre o tutor para usar nuestros Servicios.
 
-Todas las otras preguntas o comentarios sobre los Servicios se deben dirigir a legal@Subsplash.com.
+Todas las otras preguntas o comentarios sobre los Servicios se deben dirigir a [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection).
 
 **1\. Política de privacidad y comentarios**
 
@@ -341,7 +341,7 @@ Si crea un plan de pago recurrente, la cantidad del pago recurrente que especifi
 
 **6\. Consentimiento para recibir correos electrónicos y avisos**
 
-Al usar los Servicios, usted permite recibir correos electrónicos de Subsplash, los que pueden incluir correos electrónicos comerciales. Podemos usar su información para mandarle noticias o actualizaciones del producto. Usted puede darse de baja ("opt-out") de recibir correos electrónicos de márketing o promocionales de Subsplash siguiendo las instrucciones para darse de baja ("unsubscribe") o usando los enlaces para darse de baja que se encuentran en las comunicaciones que mandamos. Mientras mantenga una cuenta no se puede dar de baja ("opt-out") de recibir de Subsplash mensajes de servicio o relacionados con la cuenta Las partes del presente pueden hacer notificaciones legales por medio del correo electrónico, cuyo correo electrónico se considerará entregado cuando se envíe. La dirección de notificación de Subsplash será support@subsplash.com  (u otra dirección que Subsplash le proporcione por correo electrónico a la dirección para Notificaciones de usted) y su dirección para recibir notificaciones según este Contrato será la dirección actual de correo electrónico que usted indicó en el perfil de su cuenta.  
+Al usar los Servicios, usted permite recibir correos electrónicos de Subsplash, los que pueden incluir correos electrónicos comerciales. Podemos usar su información para mandarle noticias o actualizaciones del producto. Usted puede darse de baja ("opt-out") de recibir correos electrónicos de márketing o promocionales de Subsplash siguiendo las instrucciones para darse de baja ("unsubscribe") o usando los enlaces para darse de baja que se encuentran en las comunicaciones que mandamos. Mientras mantenga una cuenta no se puede dar de baja ("opt-out") de recibir de Subsplash mensajes de servicio o relacionados con la cuenta Las partes del presente pueden hacer notificaciones legales por medio del correo electrónico, cuyo correo electrónico se considerará entregado cuando se envíe. La dirección de notificación de Subsplash será [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection)  (u otra dirección que Subsplash le proporcione por correo electrónico a la dirección para Notificaciones de usted) y su dirección para recibir notificaciones según este Contrato será la dirección actual de correo electrónico que usted indicó en el perfil de su cuenta.  
 
 **7\. Derechos de autor (copyright) y licencia limitada**
 
@@ -363,7 +363,7 @@ Subsplash, Inc
 
 Dirección: 750 N Saint Paul St Ste 250, PMB 41141, Dallas, Texas 75201-3206
 
-Email: legal@subsplash.com
+Email: [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection)
 
 **10\. Marcas registradas**
 
@@ -469,7 +469,7 @@ Les présentes conditions d’utilisation (ci-après les « Conditions d’utili
 
 Subsplash se réserve le droit de changer ou de modifier toute condition et modalité contenues dans les présentes Conditions d’utilisation, les Conditions de service ou toute politique ou ligne directrice, à tout moment et à sa seule discrétion. Tout changement ou modification entrera en vigueur immédiatement dès la publication des révisions sur les sites Web ou les services de Subsplash. Votre utilisation continue des services après la publication de ces changements ou modifications constituera votre acceptation de ces changements ou modifications. Par conséquent, il vous appartient de relire fréquemment les présentes Conditions d’utilisation et les politiques applicables de temps à autre afin de comprendre les conditions qui s’appliquent à votre utilisation des services. Si vous n’acceptez pas les conditions modifiées, vous devez cesser d’utiliser les services. Vous garantissez et attestez que vous êtes âgé d’au moins treize (13) ans et que, si vous n’avez pas l’âge légal pour conclure un accord dans votre ressort territorial, vous avez la permission d’un parent ou d’un tuteur pour utiliser nos services.
 
-Toutes autres questions ou commentaires au sujet des services doivent être adressés à legal@subsplash.com.
+Toutes autres questions ou commentaires au sujet des services doivent être adressés à [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection).
 
 ### 1\. Politique de confidentialité et commentaires
 
@@ -561,7 +561,7 @@ Si vous programmez un paiement récurrent, le montant du paiement récurrent que
 
 ### 6\. Consentement à recevoir des courriers électroniques et des notifications
 
-En utilisant les services, vous consentez à recevoir des courriers électroniques de Subsplash, ce qui peut comprendre des messages commerciaux. Nous pouvons utiliser vos informations pour vous envoyer des nouvelles ou des mises à jour de produits. Vous pouvez choisir de vous « désinscrire » de la réception de courriers électroniques promotionnels ou de marketing de Subsplash en suivant les directives pour « se désabonner » ou en utilisant les liens « se désabonner » dans les communications que nous envoyons. Tant que vous maintenez un compte, vous ne pouvez pas refuser de recevoir de la part de Subsplash des courriers électroniques relatifs au compte. Les parties aux présentes peuvent envoyer une notification légale par courrier électronique lequel est considéré comme remis au moment de son envoi. L’adresse de notification de Subsplash est support@subsplash.com (ou toute autre adresse qui vous est fournie par Subsplash) par courrier électronique à votre adresse de notification, et votre adresse pour la réception de notifications conformément au présent accord est l’adresse électronique actuelle que vous avez indiquée dans le profil de votre compte.
+En utilisant les services, vous consentez à recevoir des courriers électroniques de Subsplash, ce qui peut comprendre des messages commerciaux. Nous pouvons utiliser vos informations pour vous envoyer des nouvelles ou des mises à jour de produits. Vous pouvez choisir de vous « désinscrire » de la réception de courriers électroniques promotionnels ou de marketing de Subsplash en suivant les directives pour « se désabonner » ou en utilisant les liens « se désabonner » dans les communications que nous envoyons. Tant que vous maintenez un compte, vous ne pouvez pas refuser de recevoir de la part de Subsplash des courriers électroniques relatifs au compte. Les parties aux présentes peuvent envoyer une notification légale par courrier électronique lequel est considéré comme remis au moment de son envoi. L’adresse de notification de Subsplash est [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection) (ou toute autre adresse qui vous est fournie par Subsplash) par courrier électronique à votre adresse de notification, et votre adresse pour la réception de notifications conformément au présent accord est l’adresse électronique actuelle que vous avez indiquée dans le profil de votre compte.
 
 ### 7\. Droits d’auteur et licence limitée
 
@@ -583,7 +583,7 @@ Subsplash, Inc
 
 Adresse: 750 N Saint Paul St Ste 250, PMB 41141, Dallas, Texas 75201-3206
 
-Courrier électronique: legal@subsplash.com
+Courrier électronique: [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection)
 
 ### 10\. Marques de commerce
 
