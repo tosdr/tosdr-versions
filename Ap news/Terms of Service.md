@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [At least 22 killed in airstrikes in central Beirut, with Israel also firing on UN peacekeepers](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-10-10-2024-a5e53cdd4fca30be1909506b5c777922)
-    * [Ukraine's Zelenskyy city-hops across Europe, promoting 'victory plan' to allies](https://apnews.com/article/ukraine-zelenskyy-europe-allies-c626fb13b60feacfbecf50280bed589b)
-    * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
+    * [Israel's deadliest strike in central Beirut leaves Lebanese stunned as they dig through the rubble](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
+    * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
+    * [North Korea accuses South Korea of flying drones to its capital and threatens to attack next time](https://apnews.com/article/north-korea-south-drones-attack-threat-border-d1b2e42665fba63dbf4cf2f36a96f5f5)
     
     Newsletters
     
@@ -30,8 +30,8 @@ Menu
     
     TOP STORIES
     
+    * [Residents repair their homes and clean up after Hurricane Milton tore through Florida](https://apnews.com/article/hurricane-milton-florida-7f60bbe9c6295f2ebef077eca2c1b4e1)
     * [Hurricane Milton spawned high number of destructive, deadly tornadoes](https://apnews.com/article/hurricane-tornadoes-florida-deaths-climate-change-oceans-f197c258022c189c6ce8bc59dc88223e)
-    * [Although Milton has moved on, at least 6 are dead and millions remain in the dark](https://apnews.com/article/hurricane-milton-tampa-florida-5f6a112986eb6e21720f0f17c504afe8)
     * [What to know about Hurricane Milton after it slammed Florida's Gulf Coast](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
     
     Newsletters
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Harris rips Trump for his criticism of federal storm response and calls for 'dignity'](https://apnews.com/article/trump-harris-nevada-michigan-hispanic-voters-milton-2a9db630d1318e78de91efd2df5a16f0)
-    * [Social Security recipients will get a 2.5% cost-of-living boost in 2025, smaller than in recent past](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02)
-    * [Obama gives blistering critique of Trump as he campaigns for Harris in critical Pennsylvania](https://apnews.com/article/obama-harris-trump-2024-election-d9874edf5ae646bf632dc463bcee3625)
+    * [Harris viewed more positively by Hispanic women than by Hispanic men: AP-NORC poll](https://apnews.com/article/hispanic-latino-voters-harris-trump-toughness-economy-d42696a973e0988aed41bab2a46bb4cc)
+    * [The drownings of 2 Navy SEALs were preventable, military investigation finds](https://apnews.com/article/navy-seal-deaths-investigation-training-failures-78e138486050c9748fc3724347ed230f)
+    * [Back-to-back hurricanes reshape 2024 campaign’s final stretch](https://apnews.com/article/harris-trump-biden-helene-milton-hurricane-fema-f1bf69434656bd693daf316db3842fac)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Rays say it may take 'weeks' to fully assess damage at Tropicana Field, after Milton struck region](https://apnews.com/article/hurricane-milton-nba-6647165a86aa8ed4acd8c0e16adb29df)
-    * [OMG, Grimace and a playoff pumpkin: Close-knit Mets ride camaraderie and good-luck charms into NLCS](https://apnews.com/article/mlb-playoffs-mets-grimace-omg-pumpkin-623118a5171db8e34ec589bcef0b1858)
-    * [Rafael Nadal gave his all until he simply couldn’t anymore and had to retire: Analysis](https://apnews.com/article/rafael-nadal-retires-appreciation-0039ddaebd5413d9ab1340871501eddb)
+    * [Gerrit Cole tosses playoff gem, shutting down Royals and sending Yankees back to ALCS with 3-1 win](https://apnews.com/article/mlb-playoffs-yankees-royals-238cb93d771ddb975e59f58dfee11839)
+    * [Dodgers will start Yamamoto against San Diego's Darvish in winner-take-all Game 5 of NLDS](https://apnews.com/article/mlb-playoffs-padres-dodgers-445b67be07a46a61051ab1627582f575)
+    * [Brock Purdy throws for 3 TDs and the 49ers beat the Seahawks 36-24 to move atop division](https://apnews.com/article/49ers-seahawks-score-ab474b05d9b999b75bb44f1bc91d4275)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * [Jeremy Strong and Sebastian Stan know the risks with 'The Apprentice'](https://apnews.com/article/sebastian-stan-jeremy-strong-apprentice-trump-movie-a934657204f52a3c5a372d20c06fa0db)
     * ['The View' co-hosts come out swinging at Donald Trump a day after he insulted them](https://apnews.com/article/abc-view-trump-hostin-whoopi-goldberg-9d739646662f8e59e1002f0aa419975a)
-    * [Taylor Swift donates $5 million toward hurricane relief efforts](https://apnews.com/article/taylor-swift-donation-hurricane-milton-helene-2705781bef74b54fe7adf3468bfb8053)
+    * [Jeremy Strong and Sebastian Stan know the risks with 'The Apprentice'](https://apnews.com/article/sebastian-stan-jeremy-strong-apprentice-trump-movie-a934657204f52a3c5a372d20c06fa0db)
+    * [Nobuyo Oyama, voice actor for beloved Japanese cartoon robotic cat Doraemon, dies at age 90](https://apnews.com/article/japan-doraemon-voice-actor-manga-obit-bc30a07500453c78a854339ba1d49667)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
-    * [TD Bank to pay $3 billion in historic money-laundering settlement with the Justice Department](https://apnews.com/article/td-bank-money-laundering-justice-department-75426a569d40174fd61fa7bc83026176)
-    * [US inflation reaches lowest point in 3 years, though some price pressures remain](https://apnews.com/article/inflation-prices-interest-rates-economy-federal-reserve-cd6d9712bfd484d6e1bc4ccb958dcf23)
-    * [Social Security recipients will get a 2.5% cost-of-living boost in 2025, smaller than in recent past](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02)
+    * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
+    * [JPMorgan net income falls as bank sets aside more money to cover potential bad loans](https://apnews.com/article/jpmorgan-earnings-bank-interest-loans-faec1fdd73f911ac70e9e659f852c603)
+    * [AI is having its Nobel moment. Do scientists need the tech industry to sustain it?](https://apnews.com/article/ai-nobel-prizes-physics-chemistry-google-deepmind-hinton-cb963de3b4235f28f8c95ca9080830f6)
     
 * [Science](https://apnews.com/science)
     
@@ -157,7 +157,7 @@ Menu
     
     TOP STORIES
     
-    * [An 'appalled' New Zealand official says a navy ship didn't sink because its captain was a woman](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
+    * [New Zealand ship didn’t sink because its captain was a woman, the ‘appalled’ defense minister says](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
     * [Washington state woman calls 911 after being hounded by up to 100 raccoons](https://apnews.com/article/washington-state-raccoon-invasion-cadf885cc7a4f2bd05e7755d448e7d8c)
     * [How Waffle House helps Southerners — and FEMA — judge a storm's severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
     * [Former owner of water buffalo that roamed Iowa suburb for days pleads guilty](https://apnews.com/article/water-buffalo-iowa-96fea4fff4a4a11dc5024a8d16667499)
@@ -257,9 +257,9 @@ Menu
     
     TOP STORIES
     
-    * [Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
-    * [Google was declared a monopoly. The US suggests breaking the company up among other fixes](https://apnews.com/article/google-search-antitrust-case-59114d8bf1dc4c8453c08acaa4051f14)
-    * [Elon Musk's X is back in Brazil after its suspension, having complied with all judicial demands](https://apnews.com/article/brazil-x-platform-musk-suspension-return-44be5cc35225e352b33c8b8c6fa20af2)
+    * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
+    * [AI is having its Nobel moment. Do scientists need the tech industry to sustain it?](https://apnews.com/article/ai-nobel-prizes-physics-chemistry-google-deepmind-hinton-cb963de3b4235f28f8c95ca9080830f6)
+    * [One Tech Tip: Here's what you need to do before and after your phone is stolen or lost](https://apnews.com/article/iphone-android-stolen-phone-theft-c4d0ab7ee40fca01bc46d7db03d590dd)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -277,9 +277,9 @@ Menu
     
     TOP STORIES
     
+    * [Ukraine's Zelenskyy meets Pope Francis as he continues his European tour to push his 'victory plan'](https://apnews.com/article/pope-zelenskyy-russia-ukraine-scholz-a8d440a7c78a32a22d449743338dd0c2)
+    * [AP PHOTOS: Performers bring Hindu gods to life in the Ramleela](https://apnews.com/article/india-festival-ramleela-dussehra-hindu-gods-1571d00214a0bb7c6027f674ec646c92)
     * [Ethel Kennedy, social activist and wife of Robert F. Kennedy, has died](https://apnews.com/article/ethel-kennedy-dies-00eb88951db24e0cada9bd48b66ad8ea)
-    * [Hurricane Milton disrupts Yom Kippur plans for Jews in Florida](https://apnews.com/article/hurricane-milton-jewish-florida-yom-kippur-high-holy-days-f2ba6696fce6be8490e9eec8c49dcd62)
-    * [Artisans in India’s Assam state make colorful mud idols of Hindu gods for Durga Puja](https://apnews.com/article/india-durga-puja-festival-goddess-idol-2f109d2894a5b3d795fd5d521369d69a)
     
     Newsletters
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [Huracán Milton deja 3 millones de personas sin electricidad y engendra tornados en Florida](https://apnews.com/world-news/general-news-a26c95a43ffce30218217f485fe35192)
-    * [Baja la criminalidad en Aurora, pero Trump la cita como ejemplo de delincuencia inmigrante](https://apnews.com/us-news/general-news-c5d7a9b9e1d65ecb520e9bc914e26e09)
-    * [Al menos 5 muertos, 12 tornados y 3,4 millones de clientes sin luz tras paso de Milton en Florida](https://apnews.com/climate-and-environment/general-news-72cdab781f49fc956a0c1f888abe40ff)
-    * [22 muertos y decenas de heridos por ataques israelíes en centro de Beirut](https://apnews.com/world-news/general-news-69889bc92e3fa34560ca0852e0bc8b9d)
-    * [Inmigrantes traídos a EEUU cuando eran niños piden a jueces mantener protecciones contra deportación](https://apnews.com/us-news/general-news-76093b3e47d5acd9f05e732094c01717)
-    * [Certificación de las elecciones es algo tradicionalmente rutinario que se politizó en la era Trump](https://apnews.com/world-news/general-news-d0d3d0aecc654adb3c486a1a339dc196)
+    * [El ataque israelí más letal en Beirut deja a libaneses atónitos mientras buscan entre los escombros](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
+    * [Migración por el Darién vuelve a crecer en septiembre apuntalada por venezolanos tras elecciones](https://apnews.com/world-news/general-news-8e6a12a73c4179908d301feb65972c19)
+    * [El hacinamiento agobia al sistema penitenciario de Paraguay: así viven los presos de cinco cárceles](https://apnews.com/world-news/general-news-3e27caa14f734f0d5a0b727d6ed90e00)
+    * [Nobel de la Paz reconoce a asociación japonesa de sobrevivientes de bombas atómicas Nihon Hidankyo](https://apnews.com/world-news/general-news-ee302667bd71e111e4c86f1a6e5f8d47)
+    * [Rusia lanza su cuarto ataque aéreo en una semana contra Odesa, región exportadora clave de Ucrania](https://apnews.com/world-news/general-news-14245b6fe48fafbc914dfe3a4d628c62)
+    * [Un buque cargado de petróleo se incendia ante la costa de Alemania](https://apnews.com/world-news/general-news-77ffacef10ccd3af094633f1af401842)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -457,9 +457,9 @@ Submit Search
     
     TOP STORIES
     
-    * [At least 22 killed in airstrikes in central Beirut, with Israel also firing on UN peacekeepers](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-10-10-2024-a5e53cdd4fca30be1909506b5c777922)
-    * [Ukraine's Zelenskyy city-hops across Europe, promoting 'victory plan' to allies](https://apnews.com/article/ukraine-zelenskyy-europe-allies-c626fb13b60feacfbecf50280bed589b)
-    * [Africans recruited to work in Russia say they were duped into building drones for use in Ukraine](https://apnews.com/article/russia-ukraine-war-drones-shahed-africans-11602ab837f0ff4635926d884b422185)
+    * [Israel's deadliest strike in central Beirut leaves Lebanese stunned as they dig through the rubble](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
+    * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
+    * [North Korea accuses South Korea of flying drones to its capital and threatens to attack next time](https://apnews.com/article/north-korea-south-drones-attack-threat-border-d1b2e42665fba63dbf4cf2f36a96f5f5)
     
     Newsletters
     
@@ -475,8 +475,8 @@ Submit Search
     
     TOP STORIES
     
+    * [Residents repair their homes and clean up after Hurricane Milton tore through Florida](https://apnews.com/article/hurricane-milton-florida-7f60bbe9c6295f2ebef077eca2c1b4e1)
     * [Hurricane Milton spawned high number of destructive, deadly tornadoes](https://apnews.com/article/hurricane-tornadoes-florida-deaths-climate-change-oceans-f197c258022c189c6ce8bc59dc88223e)
-    * [Although Milton has moved on, at least 6 are dead and millions remain in the dark](https://apnews.com/article/hurricane-milton-tampa-florida-5f6a112986eb6e21720f0f17c504afe8)
     * [What to know about Hurricane Milton after it slammed Florida's Gulf Coast](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
     
     Newsletters
@@ -528,9 +528,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Harris rips Trump for his criticism of federal storm response and calls for 'dignity'](https://apnews.com/article/trump-harris-nevada-michigan-hispanic-voters-milton-2a9db630d1318e78de91efd2df5a16f0)
-    * [Social Security recipients will get a 2.5% cost-of-living boost in 2025, smaller than in recent past](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02)
-    * [Obama gives blistering critique of Trump as he campaigns for Harris in critical Pennsylvania](https://apnews.com/article/obama-harris-trump-2024-election-d9874edf5ae646bf632dc463bcee3625)
+    * [Harris viewed more positively by Hispanic women than by Hispanic men: AP-NORC poll](https://apnews.com/article/hispanic-latino-voters-harris-trump-toughness-economy-d42696a973e0988aed41bab2a46bb4cc)
+    * [The drownings of 2 Navy SEALs were preventable, military investigation finds](https://apnews.com/article/navy-seal-deaths-investigation-training-failures-78e138486050c9748fc3724347ed230f)
+    * [Back-to-back hurricanes reshape 2024 campaign’s final stretch](https://apnews.com/article/harris-trump-biden-helene-milton-hurricane-fema-f1bf69434656bd693daf316db3842fac)
     
     Newsletters
     
@@ -558,9 +558,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Rays say it may take 'weeks' to fully assess damage at Tropicana Field, after Milton struck region](https://apnews.com/article/hurricane-milton-nba-6647165a86aa8ed4acd8c0e16adb29df)
-    * [OMG, Grimace and a playoff pumpkin: Close-knit Mets ride camaraderie and good-luck charms into NLCS](https://apnews.com/article/mlb-playoffs-mets-grimace-omg-pumpkin-623118a5171db8e34ec589bcef0b1858)
-    * [Rafael Nadal gave his all until he simply couldn’t anymore and had to retire: Analysis](https://apnews.com/article/rafael-nadal-retires-appreciation-0039ddaebd5413d9ab1340871501eddb)
+    * [Gerrit Cole tosses playoff gem, shutting down Royals and sending Yankees back to ALCS with 3-1 win](https://apnews.com/article/mlb-playoffs-yankees-royals-238cb93d771ddb975e59f58dfee11839)
+    * [Dodgers will start Yamamoto against San Diego's Darvish in winner-take-all Game 5 of NLDS](https://apnews.com/article/mlb-playoffs-padres-dodgers-445b67be07a46a61051ab1627582f575)
+    * [Brock Purdy throws for 3 TDs and the 49ers beat the Seahawks 36-24 to move atop division](https://apnews.com/article/49ers-seahawks-score-ab474b05d9b999b75bb44f1bc91d4275)
     
     Newsletters
     
@@ -587,9 +587,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Jeremy Strong and Sebastian Stan know the risks with 'The Apprentice'](https://apnews.com/article/sebastian-stan-jeremy-strong-apprentice-trump-movie-a934657204f52a3c5a372d20c06fa0db)
     * ['The View' co-hosts come out swinging at Donald Trump a day after he insulted them](https://apnews.com/article/abc-view-trump-hostin-whoopi-goldberg-9d739646662f8e59e1002f0aa419975a)
-    * [Taylor Swift donates $5 million toward hurricane relief efforts](https://apnews.com/article/taylor-swift-donation-hurricane-milton-helene-2705781bef74b54fe7adf3468bfb8053)
+    * [Jeremy Strong and Sebastian Stan know the risks with 'The Apprentice'](https://apnews.com/article/sebastian-stan-jeremy-strong-apprentice-trump-movie-a934657204f52a3c5a372d20c06fa0db)
+    * [Nobuyo Oyama, voice actor for beloved Japanese cartoon robotic cat Doraemon, dies at age 90](https://apnews.com/article/japan-doraemon-voice-actor-manga-obit-bc30a07500453c78a854339ba1d49667)
     
 * [Business](https://apnews.com/business)
     
@@ -603,9 +603,9 @@ Submit Search
     
     TOP STORIES
     
-    * [TD Bank to pay $3 billion in historic money-laundering settlement with the Justice Department](https://apnews.com/article/td-bank-money-laundering-justice-department-75426a569d40174fd61fa7bc83026176)
-    * [US inflation reaches lowest point in 3 years, though some price pressures remain](https://apnews.com/article/inflation-prices-interest-rates-economy-federal-reserve-cd6d9712bfd484d6e1bc4ccb958dcf23)
-    * [Social Security recipients will get a 2.5% cost-of-living boost in 2025, smaller than in recent past](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02)
+    * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
+    * [JPMorgan net income falls as bank sets aside more money to cover potential bad loans](https://apnews.com/article/jpmorgan-earnings-bank-interest-loans-faec1fdd73f911ac70e9e659f852c603)
+    * [AI is having its Nobel moment. Do scientists need the tech industry to sustain it?](https://apnews.com/article/ai-nobel-prizes-physics-chemistry-google-deepmind-hinton-cb963de3b4235f28f8c95ca9080830f6)
     
 * [Science](https://apnews.com/science)
     
@@ -640,7 +640,7 @@ Submit Search
     
     TOP STORIES
     
-    * [An 'appalled' New Zealand official says a navy ship didn't sink because its captain was a woman](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
+    * [New Zealand ship didn’t sink because its captain was a woman, the ‘appalled’ defense minister says](https://apnews.com/article/zealand-navy-ship-sexism-woman-commander-samoa-778b42dcefe5adc252673fd16cf41372)
     * [Washington state woman calls 911 after being hounded by up to 100 raccoons](https://apnews.com/article/washington-state-raccoon-invasion-cadf885cc7a4f2bd05e7755d448e7d8c)
     * [How Waffle House helps Southerners — and FEMA — judge a storm's severity](https://apnews.com/article/waffle-house-index-hurricane-milton-e0547ca1fb11ddcadab50035a0da7819)
     * [Former owner of water buffalo that roamed Iowa suburb for days pleads guilty](https://apnews.com/article/water-buffalo-iowa-96fea4fff4a4a11dc5024a8d16667499)
@@ -751,9 +751,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Tesla is unveiling its long-awaited robotaxi amid doubts about the technology it runs on](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
-    * [Google was declared a monopoly. The US suggests breaking the company up among other fixes](https://apnews.com/article/google-search-antitrust-case-59114d8bf1dc4c8453c08acaa4051f14)
-    * [Elon Musk's X is back in Brazil after its suspension, having complied with all judicial demands](https://apnews.com/article/brazil-x-platform-musk-suspension-return-44be5cc35225e352b33c8b8c6fa20af2)
+    * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
+    * [AI is having its Nobel moment. Do scientists need the tech industry to sustain it?](https://apnews.com/article/ai-nobel-prizes-physics-chemistry-google-deepmind-hinton-cb963de3b4235f28f8c95ca9080830f6)
+    * [One Tech Tip: Here's what you need to do before and after your phone is stolen or lost](https://apnews.com/article/iphone-android-stolen-phone-theft-c4d0ab7ee40fca01bc46d7db03d590dd)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -779,9 +779,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Ukraine's Zelenskyy meets Pope Francis as he continues his European tour to push his 'victory plan'](https://apnews.com/article/pope-zelenskyy-russia-ukraine-scholz-a8d440a7c78a32a22d449743338dd0c2)
+    * [AP PHOTOS: Performers bring Hindu gods to life in the Ramleela](https://apnews.com/article/india-festival-ramleela-dussehra-hindu-gods-1571d00214a0bb7c6027f674ec646c92)
     * [Ethel Kennedy, social activist and wife of Robert F. Kennedy, has died](https://apnews.com/article/ethel-kennedy-dies-00eb88951db24e0cada9bd48b66ad8ea)
-    * [Hurricane Milton disrupts Yom Kippur plans for Jews in Florida](https://apnews.com/article/hurricane-milton-jewish-florida-yom-kippur-high-holy-days-f2ba6696fce6be8490e9eec8c49dcd62)
-    * [Artisans in India’s Assam state make colorful mud idols of Hindu gods for Durga Puja](https://apnews.com/article/india-durga-puja-festival-goddess-idol-2f109d2894a5b3d795fd5d521369d69a)
     
     Newsletters
     
@@ -795,12 +795,12 @@ Submit Search
     
     TOP STORIES
     
-    * [Huracán Milton deja 3 millones de personas sin electricidad y engendra tornados en Florida](https://apnews.com/world-news/general-news-a26c95a43ffce30218217f485fe35192)
-    * [Baja la criminalidad en Aurora, pero Trump la cita como ejemplo de delincuencia inmigrante](https://apnews.com/us-news/general-news-c5d7a9b9e1d65ecb520e9bc914e26e09)
-    * [Al menos 5 muertos, 12 tornados y 3,4 millones de clientes sin luz tras paso de Milton en Florida](https://apnews.com/climate-and-environment/general-news-72cdab781f49fc956a0c1f888abe40ff)
-    * [22 muertos y decenas de heridos por ataques israelíes en centro de Beirut](https://apnews.com/world-news/general-news-69889bc92e3fa34560ca0852e0bc8b9d)
-    * [Inmigrantes traídos a EEUU cuando eran niños piden a jueces mantener protecciones contra deportación](https://apnews.com/us-news/general-news-76093b3e47d5acd9f05e732094c01717)
-    * [Certificación de las elecciones es algo tradicionalmente rutinario que se politizó en la era Trump](https://apnews.com/world-news/general-news-d0d3d0aecc654adb3c486a1a339dc196)
+    * [El ataque israelí más letal en Beirut deja a libaneses atónitos mientras buscan entre los escombros](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
+    * [Migración por el Darién vuelve a crecer en septiembre apuntalada por venezolanos tras elecciones](https://apnews.com/world-news/general-news-8e6a12a73c4179908d301feb65972c19)
+    * [El hacinamiento agobia al sistema penitenciario de Paraguay: así viven los presos de cinco cárceles](https://apnews.com/world-news/general-news-3e27caa14f734f0d5a0b727d6ed90e00)
+    * [Nobel de la Paz reconoce a asociación japonesa de sobrevivientes de bombas atómicas Nihon Hidankyo](https://apnews.com/world-news/general-news-ee302667bd71e111e4c86f1a6e5f8d47)
+    * [Rusia lanza su cuarto ataque aéreo en una semana contra Odesa, región exportadora clave de Ucrania](https://apnews.com/world-news/general-news-14245b6fe48fafbc914dfe3a4d628c62)
+    * [Un buque cargado de petróleo se incendia ante la costa de Alemania](https://apnews.com/world-news/general-news-77ffacef10ccd3af094633f1af401842)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
