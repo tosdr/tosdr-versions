@@ -204,7 +204,7 @@ ADD TO TOTE
 
 ### [Does It All Sheet Mask](https://www.100percentpure.com/products/sheet-mask-does-it-all-masks)
 
-366 reviews (366)
+353 reviews (353)
 
 $5.60 $32.00
 
