@@ -122,7 +122,7 @@ Top smartphones
 
 * [Apple iPhone 16](https://www.proximus.be/fr/id_cr_apple-iphone-16-128gb-black/particuliers/equipement/boutique/apple-iphone-16-128gb-black.html?rid=tb_p_jo_iPhone16_preorder&ot=JO)
 
-[View all smartphones](https://www.proximus.be/fr/id_cr_device_finder/particuliers/equipement/boutique.html#/?offerType=jointoffer)
+[Voir tous les smartphones](https://www.proximus.be/fr/id_cr_device_finder/particuliers/equipement/boutique.html#/?offerType=jointoffer)
 
 Informations légales et contractuelles
 ======================================
