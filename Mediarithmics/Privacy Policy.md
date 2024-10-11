@@ -162,7 +162,7 @@ Lors de la connexion au Site, MEDIARITHMICS, agissant en tant que responsable de
   
 Si l'Utilisateur candidate pour un emploi par le biais du Site (rubrique “A propos, Carrières”), il est informé que dans le cadre du recrutement, MEDIARITHMICS utilise le site "Welcome To The Jungle" : [www.welcometothejungle.co](http://www.welcometothejungle.co/) qui est édité par la société Coruscant. L'Utlisateur peut postuler aux offres que MEDIARITHMICS propose, directement sur le site de Welcome To the Jungle via le lien suivant : [https://www.welcometothejungle.com/fr/companies/mediarithmics  
 ‍  
-‍](https://www.welcometothejungle.com/fr/companies/easyence)La société Coruscant peut être contactée à l'adresse électronique suivante : [privacy@wttj.co](mailto:privacy@wttj.co) et à l'adresse postale suivante : 24 rue du Mail, 75002 Paris, France.  
+‍](https://www.welcometothejungle.com/fr/companies/easyence)La société Coruscant peut être contactée à l'adresse électronique suivante : [\[email protected\]](https://www.mediarithmics.com/cdn-cgi/l/email-protection) et à l'adresse postale suivante : 24 rue du Mail, 75002 Paris, France.  
   
 2.2. Destinataires des données personnelles  
   
@@ -273,7 +273,7 @@ Si les Utilisateurs ont des préoccupations ou des réclamations en ce qui conce
 L’Utilisateur est invité à informer le Délégué à la Protection des Données d’MEDIARITHMICS au préalable afin que celui-ci puisse traiter la demande et tenter de trouver une solution amiable.  
   
 
-L’Utilisateur peut exercer ses droits précités et/ou poser toute question relative au traitement de ses données personnelles par MEDIARITHMICS par courriel à l’adresse email suivante : [privacy@mediarithmics.com](mailto:privacy@mediarithmics.com) ou par courrier à l’adresse postale suivante : Délégué à la Protection des Données Personnelles, Société MEDIARITHMICS, 3, rue d’Edimbourg, 75008, Paris.  
+L’Utilisateur peut exercer ses droits précités et/ou poser toute question relative au traitement de ses données personnelles par MEDIARITHMICS par courriel à l’adresse email suivante : [\[email protected\]](https://www.mediarithmics.com/cdn-cgi/l/email-protection) ou par courrier à l’adresse postale suivante : Délégué à la Protection des Données Personnelles, Société MEDIARITHMICS, 3, rue d’Edimbourg, 75008, Paris.  
   
 Afin qu’MEDIARITHMICS traite le plus rapidement possible la demande, l’Utilisateur peut indiquer dans sa demande l’objet de cette dernière et le contexte dans lequel ses données personnelles ont été́ collectées par MEDIARITHMICS et MEDIARITHMICS pourra demander à l’Utilisateur de lui fournir la copie recto verso d’une pièce d'identité ​ valable, en cas de doute raisonnable sur son identité.  
   
@@ -305,7 +305,7 @@ En cas de modification importante de la Politique de Confidentialité́, MEDIARI
 
 3 rue d'Edimbourg, 75008 Paris
 
-[contact@mediarithmics.com](mailto:contact@mediarithmics.com)
+[\[email protected\]](https://www.mediarithmics.com/cdn-cgi/l/email-protection)
 
 #### Navigate
 
