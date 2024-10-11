@@ -166,57 +166,65 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Astronomy
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/Supernova_Scripture_1400x1050.jpg)](https://www.icr.org/article/a-supernova-and-the-scripture)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/all-the-people)
 
-[A Supernova and the Scripture](https://www.icr.org/article/a-supernova-and-the-scripture/)
+[All the People](https://www.icr.org/article/all-the-people/)
 
-Well, there goes another star, disappearing into the night as if it had never existed. For an entire year, Hubble scientists used the space telescope to...
+“And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/wide/pillars_of_creation_wide.jpg)](https://www.icr.org/article/hubble-pillars-creation-revisited)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/triune-comforter)
 
-[The Hubble 'Pillars of Creation' Revisited](https://www.icr.org/article/hubble-pillars-creation-revisited/)
+[The Triune Comforter](https://www.icr.org/article/triune-comforter/)
 
-In 1995 the Hubble Telescope photographed spectacular columns of gas, illuminated by nearby stars, in a section of the Eagle Nebula.1 The...
+“Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; Who comforteth us in all our...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/First_Stars_Missing_1400x1050.jpg)](https://www.icr.org/article/universe-first-stars-are-missing)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/brightness-glory)
 
-[Universe’s "First" Stars Are Missing?](https://www.icr.org/article/universe-first-stars-are-missing/)
+[The Brightness of the Glory](https://www.icr.org/article/brightness-glory/)
 
-A recent attempt by European astronomers to use the Hubble Space Telescope to find evidence for the first stars expected by secular theory has failed....
+“Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-More Impact
+Shop Related Products
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/traitvariations_1400x1050.jpg)](https://www.icr.org/article/trait-variation-engineered-alleles)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
 
-[Trait Variation: Engineered Alleles, Yes! Random Mutati.,.](https://www.icr.org/article/trait-variation-engineered-alleles/)
+Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
 
-Our world is dynamic, offering changes and challenges to its living residents. Plant and animal trait variations can help them adapt to certain settings....
+$14.99
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/fossils_still_say_no_pleistocene_1400x1050.jpg)](https://www.icr.org/article/the-fossils-still-say-no-providential-pleistocene)
+Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
 
-[The Fossils Still Say No: The Post-Flood Providential P.,.](https://www.icr.org/article/the-fossils-still-say-no-providential-pleistocene/)
+$12.99
 
-In the previous article in this series, I explained how the final rock layers were laid down in the global Flood as the newly separated continents and...
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10472152/file.jpg)
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+Biblical Creationism](https://store.icr.org/dr-henry-morris-biblical-creationism.html)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/capping_cretaceous.jpg)](https://www.icr.org/article/the-fossils-still-say-no-cretaceous-conundrum)
+$14.99
 
-[The Fossils Still Say No: Capping a Cretaceous Conundrum](https://www.icr.org/article/the-fossils-still-say-no-cretaceous-conundrum/)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475517/file.jpg)
 
-The Cretaceous system of the geologic column, like the other systems below it, is a conundrum to evolutionists because it represents a continuance of...
+The Modern Creation Trilogy](https://store.icr.org/dr-henry-morris-the-modern-creation-trilogy.html)
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+$29.99
+
+$34.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
+
+The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
+
+$13.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
