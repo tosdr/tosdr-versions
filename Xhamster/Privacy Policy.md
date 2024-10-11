@@ -26,7 +26,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%221802%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A13%7D%2C%222200%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A2%7D%2C%228006%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=670856634fbe51.57762440dda&xhSessionToken=87f77ff6481eaa4382bd2dbd2d903ddb8c0630a0&xhSessionStartedAt=1728599651)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%221802%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A13%7D%2C%222200%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22k%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A2%7D%2C%228006%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=6708a8acaf1383.61710174ef9&xhSessionToken=48c73304a0913c9fd77315970903f7fa481435dc&xhSessionStartedAt=1728620716)
 
 [Categories](https://xhamster.com/categories)
 
@@ -52,14 +52,14 @@ Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=screaming-2024&utm_medium=desktop-headline)
+[](https://flirtify.com/?utm_source=xhamster-headline)
 
-[📢 SCREAMING SAVINGS 🎉 Limited-Time Faphouse Sale!](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=screaming-2024&utm_medium=desktop-headline) [Grab 50% OFF Now](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=screaming-2024&utm_medium=desktop-headline)
+[Looking for REAL GIRLS? ❤️‍🔥 1-on-1 sex chat on Flirtify video roulette](https://flirtify.com/?utm_source=xhamster-headline) [JOIN FOR FREE](https://flirtify.com/?utm_source=xhamster-headline)
 
 Privacy Policy
 ==============
 
-Effective Date: October 10, 2024
+Effective Date: October 11, 2024
 
 Last Modified: January 04, 2024
 
