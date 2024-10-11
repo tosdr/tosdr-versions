@@ -28,7 +28,7 @@ Main navigation
     * [People](https://www.tbn.org/people "Check out our list of TBN People...")
         * [Kirk Cameron](https://www.tbn.org/people/kirk-cameron "View TBN's People page for Kirk Cameron")
         * [Christine Caine](https://www.tbn.org/people/christine-caine "View TBN's People page for Christine Caine...")
-        * [T. D. Jakes](https://www.tbn.org/people/td-jakes "View TBN's People page for T. D. Jakes...")
+        * [Dr. Robert Jeffress](https://www.tbn.org/people/robert-jeffress "View TBN's People page for Dr. Robert Jeffress")
         * [Joel Osteen](https://www.tbn.org/people/joel-osteen "View TBN's People page for Joel Osteen...")
         * [Priscilla Shirer](https://www.tbn.org/people/priscilla-shirer "Best-selling author and inspirational speaker Priscilla Shirer")
         * [Show All People](https://www.tbn.org/people "Check out our complete list of active TBN People...")
