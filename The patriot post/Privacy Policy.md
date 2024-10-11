@@ -131,6 +131,7 @@ Last Updated: November 15, 2011.
 *      [Victor Davis Hanson Try a Little Honesty About Israel](https://patriotpost.us/opinion/111009-try-a-little-honesty-about-israel-2024-10-11)
 *      [Gary Bauer Exploiting Emergencies](https://patriotpost.us/opinion/111015-exploiting-emergencies-2024-10-11)
 *      [Mark Alexander Profiles of Valor: He Saved Our Lives](https://patriotpost.us/alexander/110987-profiles-of-valor-he-saved-our-lives-2024-10-11)
+*      [The Washington Stand Karine Jean-Pierre Just Proved Kamala’s Miscarriage Rhetoric Is ‘Dangerous’](https://patriotpost.us/opinion/111029-karine-jean-pierre-just-proved-kamalas-miscarriage-rhetoric-is-dangerous-2024-10-11)
 *      [The Babylon Bee 10 Differences Between Kamala Harris and Joe Biden](https://patriotpost.us/opinion/111020-10-differences-between-kamala-harris-and-joe-biden-2024-10-11)
 
 * [More Opinion >](https://patriotpost.us/opinion)
@@ -145,7 +146,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[![](https://img.patriotpost.us/01J7K6RDZ8X6NRRKWH4N6BV0AY.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
