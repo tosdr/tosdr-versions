@@ -144,7 +144,7 @@ Washington, DC 20036
 
 Att’n: Legal Department
 
-legal@upside.com
+[\[email protected\]](https://www.upside.com/cdn-cgi/l/email-protection)
 
 Pursuant to the DMCA, your notice must include the following information:
 
@@ -247,7 +247,7 @@ This Dispute Resolution by Binding Arbitration section is referred to in this Te
 
 ##### **Pre-Arbitration Dispute Resolution**
 
-Upside is always interested in resolving disputes amicably and efficiently, and most customer concerns can be resolved quickly and to the customer’s satisfaction by emailing customer support support@upside.com. If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“Notice”). The Notice to Upside should be sent to Upside Services, Inc., 1701 Rhode Island Avenue NW, Washington, DC 20036 (“Notice Address”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Upside and you do not resolve the claim within sixty (60) calendar days after the Notice is received, you or Upside may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by Upside or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Upside is entitled.
+Upside is always interested in resolving disputes amicably and efficiently, and most customer concerns can be resolved quickly and to the customer’s satisfaction by emailing customer support [\[email protected\]](https://www.upside.com/cdn-cgi/l/email-protection). If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“Notice”). The Notice to Upside should be sent to Upside Services, Inc., 1701 Rhode Island Avenue NW, Washington, DC 20036 (“Notice Address”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Upside and you do not resolve the claim within sixty (60) calendar days after the Notice is received, you or Upside may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by Upside or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Upside is entitled.
 
 ##### **Arbitration Procedures**
 
@@ -405,7 +405,7 @@ Upside offers Software applications that are intended to be operated in connecti
 * You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
     
 * If you have any questions, complaints or claims with respect to the Apple-Enabled Software, they should be directed to Upside as follows:  
-    support@upside.com  
+    [\[email protected\]](https://www.upside.com/cdn-cgi/l/email-protection)  
     Upside Services, Inc.  
     1701 Rhode Island Avenue NW  
     Washington, DC 20036
@@ -426,7 +426,7 @@ Upside Services, Inc.
 1701 Rhode Island Avenue NW  
 Washington, DC 20036  
 Att’n: Legal Department  
-legal@upside.com  
+[\[email protected\]](https://www.upside.com/cdn-cgi/l/email-protection)  
 ‍  
 Pursuant to the DMCA, your notice must include the following information:  
    i. Identification of the copyrighted work you are claiming has been infringed.  
@@ -542,7 +542,7 @@ Prohibition of Class and Representative Actions and Non-Individualized Relief
 Pre-Arbitration Dispute Resolution
 ----------------------------------
 
-Upside is always interested in resolving disputes amicably and efficiently, and most customer concerns can be resolved quickly and to the customer’s satisfaction by emailing customer support support@upside.com. If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“Notice”). The Notice to Upside should be sent to Upside Services, Inc., 1701 Rhode Island Avenue NW, Washington, DC 20036 (“Notice Address”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Upside and you do not resolve the claim within sixty (60) calendar days after the Notice is received, you or Upside may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by Upside or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Upside is entitled.
+Upside is always interested in resolving disputes amicably and efficiently, and most customer concerns can be resolved quickly and to the customer’s satisfaction by emailing customer support [\[email protected\]](https://www.upside.com/cdn-cgi/l/email-protection). If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“Notice”). The Notice to Upside should be sent to Upside Services, Inc., 1701 Rhode Island Avenue NW, Washington, DC 20036 (“Notice Address”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Upside and you do not resolve the claim within sixty (60) calendar days after the Notice is received, you or Upside may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by Upside or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Upside is entitled.
 
 Arbitration Procedures
 ----------------------
