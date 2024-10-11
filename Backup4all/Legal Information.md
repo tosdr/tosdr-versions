@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from DDN using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ddn-using-backup4all-kb.html)  
+* [How to back up data files from Mandic using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-mandic-using-backup4all-kb.html)  
     
-* [Access denied error when trying to create a s ...](https://www.backup4all.com/access-denied-error-when-trying-to-create-a-scheduled-task-kb.html)  
+* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
     
-* [What is a backup?](https://www.backup4all.com/what-is-a-backup-kb.html)  
+* [How to configure and use One Touch Backup?](https://www.backup4all.com/how-to-configure-and-use-one-touch-backup-kb.html)  
     
-* [How to restore a backup from Cloudflare R2 us ...](https://www.backup4all.com/how-to-restore-a-backup-from-cloudflare-r2-using-backup4all-kb.html)  
+* [FTP backup using passive mode](https://www.backup4all.com/ftp-backup-using-passive-mode-kb.html)  
     
-* [Differential backup](https://www.backup4all.com/differential-backup-kb.html)  
+* [How to force Backup4all to copy again some mi ...](https://www.backup4all.com/how-to-force-backup4all-to-copy-again-some-missing-files-in-destination-kb.html)  
     
 
 Choose language:
