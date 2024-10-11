@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 11, 2024](https://www.japantimes.co.jp/archive/2024/10/11/ "archive page")
+[October 12, 2024](https://www.japantimes.co.jp/archive/2024/10/12/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -463,29 +463,29 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
 [Ban on dual nationality is constitutional, Fukuoka High Court rules](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
 
   [![Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427084.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.")](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
 
-[University of Tokyo moves up a spot to 28th in World University Rankings](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
+[17-year-old girl found dead in Osaka hotel room was strangled](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
 
-  [![The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426860.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.")](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
+  [![A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/425274.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A security camera footage shows a 17-year-old girl and a man entering a hotel in the city of Osaka on Saturday. She was found dead in the hotel room several hours later.")](https://www.japantimes.co.jp/news/2024/10/02/japan/crime-legal/osaka-girl-death/ "17-year-old girl found dead in Osaka hotel room was strangled")
+
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+[Long-time 'Doraemon' voice actor Nobuyo Oyama dies at 90](https://www.japantimes.co.jp/culture/2024/10/11/entertainment-news/nobuyo-oyama-obituary/ "Long-time 'Doraemon' voice actor Nobuyo Oyama dies at 90")
+
+  [![Nobuyo Oyama](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Nobuyo Oyama")](https://www.japantimes.co.jp/culture/2024/10/11/entertainment-news/nobuyo-oyama-obituary/ "Long-time 'Doraemon' voice actor Nobuyo Oyama dies at 90")
 
 [Ishiba keeps low profile as he makes diplomatic debut](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
 
   [![Ishiba addresses the ASEAN-Japan Summit meeting in Laos on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427091.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Ishiba addresses the ASEAN-Japan Summit meeting in Laos on Thursday.")](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
 
-[Chinese nationals in Japan testify to harassment by Beijing, report says](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
+[Peter Barakan’s Live Magic! takes its final bow](https://www.japantimes.co.jp/culture/2024/10/11/music/peter-barakan-live-magic-finale/ "Peter Barakan’s Live Magic! takes its final bow")
 
-  [![Chinese residents living in Japan take part in a “white paper” protest in solidarity against China's COVID-19 lockdowns, in Tokyo in November 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426864.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese residents living in Japan take part in a “white paper” protest in solidarity against China's COVID-19 lockdowns, in Tokyo in November 2022.")](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
-
-[South Korean author Han Kang wins Nobel Prize in literature](https://www.japantimes.co.jp/culture/2024/10/10/books/literature-nobel-han-kang/ "South Korean author Han Kang wins Nobel Prize in literature")
-
-  [![Han Kang is the first South Korean author to win the Nobel Prize in Literature.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427139.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Han Kang is the first South Korean author to win the Nobel Prize in Literature.")](https://www.japantimes.co.jp/culture/2024/10/10/books/literature-nobel-han-kang/ "South Korean author Han Kang wins Nobel Prize in literature")
+  [![Annual festival Peter Barakan’s Live Magic! was born a decade ago when Barakan (left) decided to create a platform to share his love of roots music, which he attributes to growing up in 1960s England.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/425944.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Annual festival Peter Barakan’s Live Magic! was born a decade ago when Barakan (left) decided to create a platform to share his love of roots music, which he attributes to growing up in 1960s England.")](https://www.japantimes.co.jp/culture/2024/10/11/music/peter-barakan-live-magic-finale/ "Peter Barakan’s Live Magic! takes its final bow")
 
 [Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
 
@@ -522,9 +522,9 @@ By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ 
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -566,23 +566,23 @@ Latest News
 
 [Justice minister says he has severed all ties with Unification Church](https://www.japantimes.co.jp/news/2024/10/11/japan/politics/justice-minister-unification-church/ "Justice minister says he has severed all ties with Unification Church")
 
-1 hours ago
+7 hours ago
 
 [Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/11/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
 
-1 hours ago
+7 hours ago
 
 [Ishiba clears low bar in diplomatic debut](https://www.japantimes.co.jp/news/2024/10/11/japan/politics/japan-asean-ishiba-analysis/ "Ishiba clears low bar in diplomatic debut")
 
-1 hours ago
+8 hours ago
 
 [Opposition party shakes up Japan’s rate debate with new inflation target](https://www.japantimes.co.jp/business/2024/10/11/economy/cdp-monetary-policy/ "Opposition party shakes up Japan’s rate debate with new inflation target")
 
-1 hours ago
+8 hours ago
 
 [Tokyo go-kart rental manager sent to prosecutors over traffic law violation](https://www.japantimes.co.jp/news/2024/10/11/japan/crime-legal/rental-kart-violation/ "Tokyo go-kart rental manager sent to prosecutors over traffic law violation")
 
-1 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
