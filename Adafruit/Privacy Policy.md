@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Achieving a goal provides immediate satisfaction; the process of achieving a goal is a lasting pleasure”
+“ ...the idea is to try to give all of the information to help others to judge the value of your contribution; not just the information that leads to judgment in one particular direction or another.”
 
-[Evelyn Berezin](https://computerhistory.org/profile/evelyn-berezin/)
+[Richard Feynman](http://www.lhup.edu/~DSIMANEK/cargocul.htm)
 
 [](https://www.adafruit.com/about)
 
