@@ -49,13 +49,13 @@
 
 Latest Press Release
 
-![](https://zubie.com/wp-content/uploads/2024/04/Platform-Update-Announcement-Presentation-43-348x265.jpg)
+![](https://zubie.com/wp-content/uploads/2024/09/toyota-direct-connect-3-348x265.jpg)
 
-April 12, 2024
+September 18, 2024
 
-#### [Zubie’s New, Unified Look: Coming Soon](https://zubie.com/press_release/zubie-platform-visual-update-2024/)
+#### [Zubie Announces Agreement with Toyota to Revolutionize Fleet Management](https://zubie.com/press_release/zubie-toyota-fleet-management/)
 
-[Read More](https://zubie.com/press_release/zubie-platform-visual-update-2024/)
+[Read More](https://zubie.com/press_release/zubie-toyota-fleet-management/)
 
 * [Help](https://help.zubiecar.com/)
 * [Login](https://app.zubie.com/)
@@ -63,11 +63,11 @@ April 12, 2024
 
 Latest Press Release
 
-![](https://zubie.com/wp-content/uploads/2024/04/Platform-Update-Announcement-Presentation-43-348x265.jpg)
+![](https://zubie.com/wp-content/uploads/2024/09/toyota-direct-connect-3-348x265.jpg)
 
-#### [Zubie’s New, Unified Look: Coming Soon](https://zubie.com/press_release/zubie-platform-visual-update-2024/)
+#### [Zubie Announces Agreement with Toyota to Revolutionize Fleet Management](https://zubie.com/press_release/zubie-toyota-fleet-management/)
 
-[Read More](https://zubie.com/press_release/zubie-platform-visual-update-2024/)
+[Read More](https://zubie.com/press_release/zubie-toyota-fleet-management/)
 
 [Contact Us](https://zubie.com/contact/)
 
@@ -263,11 +263,11 @@ For Support
 
 Latest Press Release
 
-![](https://zubie.com/wp-content/uploads/2024/04/Platform-Update-Announcement-Presentation-43-348x265.jpg)
+![](https://zubie.com/wp-content/uploads/2024/09/toyota-direct-connect-3-348x265.jpg)
 
-#### [Zubie’s New, Unified Look: Coming Soon](https://zubie.com/press_release/zubie-platform-visual-update-2024/)
+#### [Zubie Announces Agreement with Toyota to Revolutionize Fleet Management](https://zubie.com/press_release/zubie-toyota-fleet-management/)
 
-[Read More](https://zubie.com/press_release/zubie-platform-visual-update-2024/)
+[Read More](https://zubie.com/press_release/zubie-toyota-fleet-management/)
 
 * [Privacy Policy](https://zubie.com/privacy-policy/)
 * [Cookie Policy](https://zubie.com/cookie-policy/)
@@ -277,11 +277,11 @@ Latest Press Release
 
 Latest Press Release
 
-![](https://zubie.com/wp-content/uploads/2024/04/Platform-Update-Announcement-Presentation-43-348x265.jpg)
+![](https://zubie.com/wp-content/uploads/2024/09/toyota-direct-connect-3-348x265.jpg)
 
-#### [Zubie’s New, Unified Look: Coming Soon](https://zubie.com/press_release/zubie-platform-visual-update-2024/)
+#### [Zubie Announces Agreement with Toyota to Revolutionize Fleet Management](https://zubie.com/press_release/zubie-toyota-fleet-management/)
 
-[Read More](https://zubie.com/press_release/zubie-platform-visual-update-2024/)
+[Read More](https://zubie.com/press_release/zubie-toyota-fleet-management/)
 
 © Copyright 2024 - Zubie, Inc. | Zubie is a trademark of Zubie, Inc.
 
