@@ -91,7 +91,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A viral gene drive could offer a new approach to fighting herpes](https://www.sciencenews.org/article/gene-drive-herpes-simplex-virus)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")10 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")17 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -118,13 +118,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Hair pulling prompts one of the fastest known pain signals](https://www.sciencenews.org/article/hair-pull-pain-signal-nerve)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")7 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")14 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [A viral gene drive could offer a new approach to fighting herpes](https://www.sciencenews.org/article/gene-drive-herpes-simplex-virus)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")10 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")17 hours ago
             
         * [Paleontology](https://www.sciencenews.org/topic/paleontology)
             
@@ -142,13 +142,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [There’s a new term for attempting to own the wind: ventography](https://www.sciencenews.org/article/wind-ownership-ventography)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")12 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")19 hours ago
             
         * [Earth](https://www.sciencenews.org/topic/earth)
             
             ### [What leads rivers to suddenly change course?](https://www.sciencenews.org/article/why-rivers-suddenly-change-course)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")14 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")21 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
