@@ -351,7 +351,7 @@ Company
 
 Get In Touch
 
-[support@seamlesschex.com](mailto:support@seamlesschex.com)[888-998-2439](tel:8889982439)
+[\[email protected\]](https://www.seamlesschex.com/cdn-cgi/l/email-protection)[888-998-2439](tel:8889982439)
 
 18305 Biscayne Blvd.  
 Aventura, FL 33160
