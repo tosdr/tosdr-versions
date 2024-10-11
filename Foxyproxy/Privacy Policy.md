@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you again for all the past years of great service and personal help.
+The service I received via Foxy Proxy was very good.
 
-Russ Hall
+Alex Hornsby
