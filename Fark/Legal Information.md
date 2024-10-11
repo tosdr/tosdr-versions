@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [![Fark25 Party](https://img.fark.net/images/2024/site/Fark25.png)](https://www.eventbrite.com/e/fark25-the-25th-anniversary-fark-party-tickets-1001498367577?aff=oddtdtcreator)
 
-Want to see behind the curtain? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+More funny for your money.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | ["Area Man Passionate Defender of What He Imagines the Indian Constitution To Be"](https://www.fark.com/goto/13423152) ( [aljazeera.com](https://www.fark.com/goto/13423152) ) » [(2 comments)](https://www.fark.com/comments/13423152/Area-Man-Passionate-Defender-of-What-He-Imagines-Indian-Constitution-To-Be) |
-| [Discussion](https://www.fark.com/discussion/) | [Awesome Terrible Movie: The Fred Savage classic - Little Monsters](https://www.fark.com/goto/13423342) ( [awesometerriblemovie.com](https://www.fark.com/goto/13423342) ) » [(0 comments)](https://www.fark.com/comments/13423342/Awesome-Terrible-Movie-The-Fred-Savage-classic-Little-Monsters) |
-| [Sports](https://www.fark.com/sports/) | [Terrell Davis runs right through defenses, but apparently financial advisors were a blind spot](https://www.fark.com/goto/13422982) ( [finurah.com](https://www.fark.com/goto/13422982) ) » [(1 comment)](https://www.fark.com/comments/13422982/Terrell-Davis-runs-right-through-defenses-but-apparently-financial-advisors-were-a-blind-spot) |
-| [Business](https://www.fark.com/business/) | [Tesla to reveal the Robotaxi at 10pm ET on a Thursday night. A rational person might think that Elmo is trying to avoid news coverage of his next smash hit](https://www.fark.com/goto/13423184) ( [theverge.com](https://www.fark.com/goto/13423184) ) » [(4 comments)](https://www.fark.com/comments/13423184/Tesla-to-reveal-Robotaxi-at-10pm-ET-on-a-Thursday-night-A-rational-person-might-think-that-Elmo-is-trying-to-avoid-news-coverage-of-his-next-smash-hit) |
-| [STEM](https://www.fark.com/stem/) | [Stop it. This is a serious discussion about the potential benefits of breast milk consumption by adults. Fark is not your personal erotica site. Well, maybe not](https://www.fark.com/goto/13423408) ( [theguardian.com](https://www.fark.com/goto/13423408) ) » [(0 comments)](https://www.fark.com/comments/13423408/Stop-it-This-is-a-serious-discussion-about-potential-benefits-of-breast-milk-consumption-by-adults-Fark-is-not-your-personal-erotica-site-Well-maybe-not) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Apparently, somebody wants this](https://www.fark.com/goto/13423478) ( [thewrap.com](https://www.fark.com/goto/13423478) ) » [(0 comments)](https://www.fark.com/comments/13423478/Apparently-somebody-wants-this) |
-| [Fandom](https://www.fark.com/fandom/) | [More of this, please](https://www.fark.com/goto/13423280) ( [threads.net](https://www.fark.com/goto/13423280) ) » [(2 comments)](https://www.fark.com/comments/13423280/More-of-this-please) |
-| [D'awww](https://www.fark.com/dawww/) | [Calvin and Hobbes always has the best answers](https://www.fark.com/goto/13423430) ( [gocomics.com](https://www.fark.com/goto/13423430) ) » [(2 comments)](https://www.fark.com/comments/13423430/Calvin-Hobbes-always-has-best-answers) |
-| [Food](https://www.fark.com/food/) | [They love our cheap sake, so let's make it into ice cream so you can eat it as well](https://www.fark.com/goto/13423412) ( [japantoday.com](https://www.fark.com/goto/13423412) ) » [(0 comments)](https://www.fark.com/comments/13423412/They-love-our-cheap-sake-so-lets-make-it-into-ice-cream-so-you-can-eat-it-as-well) |
-| [Politics](https://www.fark.com/politics/) | [As far as data breaches go, it doesn't get much worse than this](https://www.fark.com/goto/13423180) ( [newschannel5.com](https://www.fark.com/goto/13423180) ) » [(28 comments)](https://www.fark.com/comments/13423180/As-far-as-data-breaches-go-it-doesnt-get-much-worse-than-this) |
+| [Main](https://www.fark.com/) | [Look up - Northern Lights picture thread - let's see em](https://www.fark.com/goto/13423790) ( [usatoday.com](https://www.fark.com/goto/13423790) ) » [(21 comments)](https://www.fark.com/comments/13423790/Look-up-Northern-Lights-picture-thread-lets-see-em) |
+| [Discussion](https://www.fark.com/discussion/) | [Veteran magazine editor complains that no one reads books any more. Evidence says that, however unlikely, people do read articles on the Internet](https://www.fark.com/goto/13423208) ( [japantoday.com](https://www.fark.com/goto/13423208) ) » [(1 comment)](https://www.fark.com/comments/13423208/Veteran-magazine-editor-complains-that-no-one-reads-books-any-more-Evidence-says-that-however-unlikely-people-do-read-articles-on-Internet) |
+| [Sports](https://www.fark.com/sports/) | [Just a reminder that there is another NYC team in the post-season finals this fall other than the Stankees and the Mutts](https://www.fark.com/goto/13423696) ( [espn.com](https://www.fark.com/goto/13423696) ) » [(4 comments)](https://www.fark.com/comments/13423696/Just-a-reminder-that-there-is-another-NYC-team-in-post-season-finals-this-fall-other-than-Stankees-the-Mutts) |
+| [Business](https://www.fark.com/business/) | [Subby's question is why does the hotel I'm staying at for a night need all that information in the first place](https://www.fark.com/goto/13423614) ( [apnews.com](https://www.fark.com/goto/13423614) ) » [(2 comments)](https://www.fark.com/comments/13423614/Subbys-question-is-why-does-hotel-Im-staying-at-for-a-night-need-all-that-information-in-first-place) |
+| [STEM](https://www.fark.com/stem/) | [Look up - Northern Lights picture thread - let's see em](https://www.fark.com/goto/13423790) ( [usatoday.com](https://www.fark.com/goto/13423790) ) » [(21 comments)](https://www.fark.com/comments/13423790/Look-up-Northern-Lights-picture-thread-lets-see-em) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Cheech and Chong open their first Dispensoria in Portland, Maine. Bonus: They'll be here to officially open the store this Sunday](https://www.fark.com/goto/13423786) ( [wgme.com](https://www.fark.com/goto/13423786) ) » [(0 comments)](https://www.fark.com/comments/13423786/Cheech-Chong-open-their-first-Dispensoria-in-Portland-Maine-Bonus-Theyll-be-here-to-officially-open-store-this-Sunday) |
+| [Fandom](https://www.fark.com/fandom/) | [Doesn't matter, had elf sex](https://www.fark.com/goto/13423324) ( [pcgamer.com](https://www.fark.com/goto/13423324) ) » [(3 comments)](https://www.fark.com/comments/13423324/Doesnt-matter-had-elf-sex) |
+| [D'awww](https://www.fark.com/dawww/) | [Cthulhu's brethren the argonaut octopus seems to have mastered the free ride](https://www.fark.com/goto/13423524) ( [defector.com](https://www.fark.com/goto/13423524) ) » [(1 comment)](https://www.fark.com/comments/13423524/Cthulhus-brethren-argonaut-octopus-seems-to-have-mastered-free-ride) |
+| [Food](https://www.fark.com/food/) | [75-year-old head chef at renowned tteokgalbi restaurant doesn't cut corners. Positioned over long pit with four fiery briquettes beneath, she remains focused on her grills, expertly flipping minced beef for 15 minutes to achieve maximum flavor](https://www.fark.com/goto/13423224) ( [koreatimes.co.kr](https://www.fark.com/goto/13423224) ) » [(1 comment)](https://www.fark.com/comments/13423224/-75-year-old-head-chef-at-renowned-tteokgalbi-restaurant-doesnt-cut-corners-Positioned-over-long-pit-with-four-fiery-briquettes-beneath-she-remains-focused-on-her-grills-expertly-flipping-minced-beef-for-15-minutes-to-achieve-maximum-flavor) |
+| [Politics](https://www.fark.com/politics/) | [Yesterday, Evangelicals tried to win you over with cupcakes to their pro-life ways. Who politicizes cupcakes?](https://www.fark.com/goto/13423748) ( [nationaltoday.com](https://www.fark.com/goto/13423748) ) » [(16 comments)](https://www.fark.com/comments/13423748/Yesterday-Evangelicals-tried-to-win-you-over-with-cupcakes-to-their-pro-life-ways-Who-politicizes-cupcakes) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 10 2024 15:42:37  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Oct 10 2024 21:43:39  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
