@@ -616,12 +616,10 @@ _zalando\_logo\_outlined_ZalandoZalando
 
 ----------------------------------------------------------------------------------
 
-* [Corporate Website](https://corporate.zalando.com/en?market=nl)
+* [Corporate Website](https://partner.zalando.com/)
 * [Vacatures](https://jobs.zalando.com/en/)
-* [Zalando Marketing Services](https://zms.zalando.com/)
 * [Pers](https://corporate.zalando.com/en/newsroom?market=nl)
 * [Blog](https://jobs.zalando.com/en/blog)
-* [Connected Retail](https://www.connectedretail.nl/)
 
 _truck_Onze partnersOnze partners
 
