@@ -228,25 +228,25 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Disability](https://www.sciencedaily.com/news/health_medicine/disability/)
-
-[Joint Health](https://www.sciencedaily.com/news/health_medicine/joint_health/)
-
 [Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
+[Disability](https://www.sciencedaily.com/news/health_medicine/disability/)
 
-[Weapons Technology](https://www.sciencedaily.com/news/matter_energy/weapons_technology/)
+[Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
+
+[PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
 [Alternative Fuels](https://www.sciencedaily.com/news/matter_energy/alternative_fuels/)
 
+[Wearable Technology](https://www.sciencedaily.com/news/matter_energy/wearable_technology/)
+
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
-
 [Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
+
+[Extreme Survival](https://www.sciencedaily.com/news/plants_animals/extreme_survival/)
 
 [Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
