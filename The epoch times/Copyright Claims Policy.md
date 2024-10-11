@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Nation’s Largest Generic Drug Maker to Pay $450 Million to Resolve Kickback, Price-Fixing Claims](https://www.theepochtimes.com/us/nations-largest-generic-drug-maker-to-pay-450-million-to-resolve-kickback-price-fixing-claims-5739769)
+* [In Photos: Northern and Southern Lights Decorate Night Sky](https://www.theepochtimes.com/article/in-photos-northern-and-southern-lights-decorate-night-sky-5740120)
     
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Nation’s Largest Generic Drug Maker to Pay $450 Million to Resolve Kickback, Price-Fixing Claims](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![In Photos: Northern and Southern Lights Decorate Night Sky](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Nation’s Largest Generic Drug Maker to Pay $450 Million to Resolve Kickback, Price-Fixing Claims](https://img.theepochtimes.com/assets/uploads/2022/11/04/teva-copy-205x123.jpg.webp)](https://www.theepochtimes.com/us/nations-largest-generic-drug-maker-to-pay-450-million-to-resolve-kickback-price-fixing-claims-5739769)
-* [America’s Tax Gap Projected to Hit Nearly $700 Billion: IRS](https://www.theepochtimes.com/us/americas-tax-gap-projected-to-hit-nearly-700-billion-irs-5739773)
+    ![In Photos: Northern and Southern Lights Decorate Night Sky](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739619-Northern-Lights-GettyImages-2177106807-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-photos-northern-and-southern-lights-decorate-night-sky-5740120)
+* [Boeing to Slash 17,000 Jobs, End 767 Cargo Plane Production](https://www.theepochtimes.com/business/boeing-to-slash-17000-jobs-end-767-cargo-plane-production-5740135)
     
-    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![America’s Tax Gap Projected to Hit Nearly $700 Billion: IRS](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Boeing to Slash 17,000 Jobs, End 767 Cargo Plane Production](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![America’s Tax Gap Projected to Hit Nearly $700 Billion: IRS](https://img.theepochtimes.com/assets/uploads/2024/09/08/id5720224-GettyImages-56043781-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/americas-tax-gap-projected-to-hit-nearly-700-billion-irs-5739773)
-* [German Economy Set to Shrink for 2nd Year Running](https://www.theepochtimes.com/world/german-economy-set-to-shrink-for-2nd-year-running-5738984)
+    ![Boeing to Slash 17,000 Jobs, End 767 Cargo Plane Production](https://img.theepochtimes.com/assets/uploads/2024/10/01/id5733234-1.tagreuters.com2024binary_LYNXMPEK8T0RA-FILEDIMAGE.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/boeing-to-slash-17000-jobs-end-767-cargo-plane-production-5740135)
+* [Congress Asks Telecom Executives to Testify on CCP Hack](https://www.theepochtimes.com/us/congress-asks-telecom-executives-to-testify-on-ccp-hack-5740029)
     
-    1hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    1hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
     
-    [![German Economy Set to Shrink for 2nd Year Running](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Congress Asks Telecom Executives to Testify on CCP Hack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![German Economy Set to Shrink for 2nd Year Running](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738624-AP24283453793201-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/german-economy-set-to-shrink-for-2nd-year-running-5738984)
-* [Chutkan to Release More of Smith’s Evidence Over Objections From Trump](https://www.theepochtimes.com/us/chutkan-to-release-more-of-smiths-evidence-over-objections-from-trump-5739358)
+    ![Congress Asks Telecom Executives to Testify on CCP Hack](https://img.theepochtimes.com/assets/uploads/2024/05/24/id5656632-Rep.-John-Moolenaar-speaks-at-event-on-May-23-2024-205x123.jpg.webp)](https://www.theepochtimes.com/us/congress-asks-telecom-executives-to-testify-on-ccp-hack-5740029)
+* [Blinken: US Concerned Over Beijing’s ‘Dangerous and Unlawful Actions’ in South China Sea](https://www.theepochtimes.com/china/blinken-us-concerned-over-beijings-dangerous-and-unlawful-actions-in-south-china-sea-5739738)
     
-    1hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    2hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
-    [![Chutkan to Release More of Smith’s Evidence Over Objections From Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Blinken: US Concerned Over Beijing’s ‘Dangerous and Unlawful Actions’ in South China Sea](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Chutkan to Release More of Smith’s Evidence Over Objections From Trump](https://img.theepochtimes.com/assets/uploads/2024/08/27/id5713646-Trump-Jack-Smith-205x123.jpg.webp)](https://www.theepochtimes.com/us/chutkan-to-release-more-of-smiths-evidence-over-objections-from-trump-5739358)
-* [Israel Says School Targeted as Hamas Command Center](https://www.theepochtimes.com/world/israel-says-school-targeted-as-hamas-command-center-5739373)
+    ![Blinken: US Concerned Over Beijing’s ‘Dangerous and Unlawful Actions’ in South China Sea](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739942-Laos_ASEAN_Antony-Blinken-205x123.jpg.webp)](https://www.theepochtimes.com/china/blinken-us-concerned-over-beijings-dangerous-and-unlawful-actions-in-south-china-sea-5739738)
+* [Consumer Confidence Tumbles Amid Frustration Over High Prices](https://www.theepochtimes.com/us/consumer-confidence-tumbles-amid-frustration-over-high-prices-5740034)
     
-    3hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Israel Says School Targeted as Hamas Command Center](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Consumer Confidence Tumbles Amid Frustration Over High Prices](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Israel Says School Targeted as Hamas Command Center](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739853-gaza-hospital-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-says-school-targeted-as-hamas-command-center-5739373)
-* [French Government Announces 60 Billion Euro Spending Cuts and Tax Hikes to Tackle Deficit](https://www.theepochtimes.com/world/french-government-announces-60-billion-euro-spending-cuts-and-tax-hikes-to-tackle-deficit-5739679)
+    ![Consumer Confidence Tumbles Amid Frustration Over High Prices](https://img.theepochtimes.com/assets/uploads/2024/08/19/id5708290-GettyImages-1241224919-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/consumer-confidence-tumbles-amid-frustration-over-high-prices-5740034)
+* [Where Harris and Trump Stand on Ukraine](https://www.theepochtimes.com/article/where-harris-and-trump-stand-on-ukraine-5734642)
     
-    3hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    2hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
-    [![French Government Announces 60 Billion Euro Spending Cuts and Tax Hikes to Tackle Deficit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Where Harris and Trump Stand on Ukraine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![French Government Announces 60 Billion Euro Spending Cuts and Tax Hikes to Tackle Deficit](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737889-GettyImages-2176682244-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/french-government-announces-60-billion-euro-spending-cuts-and-tax-hikes-to-tackle-deficit-5739679)
-* [Elon Musk Unveils Tesla’s New Robotaxi, Robovan](https://www.theepochtimes.com/business/elon-musk-unveils-teslas-new-robotaxi-robovan-5739754)
+    ![Where Harris and Trump Stand on Ukraine](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740116-GettyImages-1248904663-205x123.jpg.webp)](https://www.theepochtimes.com/article/where-harris-and-trump-stand-on-ukraine-5734642)
+* [Australian Court Sides with X in Free Speech Battle](https://www.theepochtimes.com/world/australian-court-sides-with-x-in-free-speech-battle-5740043)
     
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Elon Musk Unveils Tesla’s New Robotaxi, Robovan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Australian Court Sides with X in Free Speech Battle](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Elon Musk Unveils Tesla’s New Robotaxi, Robovan](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739756-2024-10-11T094513Z_2_LYNXMPEK9A09J_RTROPTP_4_TESLA-ROBOTAXI-205x123.jpg.webp)](https://www.theepochtimes.com/business/elon-musk-unveils-teslas-new-robotaxi-robovan-5739754)
-* [Iran Hints at Changing Nuclear Doctrine If Israel Attacks](https://www.theepochtimes.com/world/iran-hints-at-changing-nuclear-doctrine-if-israel-attacks-5739694)
+    ![Australian Court Sides with X in Free Speech Battle](https://img.theepochtimes.com/assets/uploads/2024/02/22/id5592914-GettyImages-1782225491-205x123.jpg.webp)](https://www.theepochtimes.com/world/australian-court-sides-with-x-in-free-speech-battle-5740043)
+* [Michigan’s US Senate Race Tightens as Rogers, Slotkin Woo Undecideds](https://www.theepochtimes.com/us/michigans-us-senate-race-tightens-as-rogers-slotkin-woo-undecideds-5732837)
     
-    3hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    2hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
     
-    [![Iran Hints at Changing Nuclear Doctrine If Israel Attacks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Michigan’s US Senate Race Tightens as Rogers, Slotkin Woo Undecideds](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Iran Hints at Changing Nuclear Doctrine If Israel Attacks](https://img.theepochtimes.com/assets/uploads/2021/04/16/nuclear-facility-205x123.jpg.webp)](https://www.theepochtimes.com/world/iran-hints-at-changing-nuclear-doctrine-if-israel-attacks-5739694)
-* [Judge Approves Release of Redacted Evidence in Trump Election Case](https://www.theepochtimes.com/us/judge-approves-release-of-redacted-evidence-in-trump-election-case-5739611)
+    ![Michigan’s US Senate Race Tightens as Rogers, Slotkin Woo Undecideds](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739985-10092024-L1160170-Detroit-Michigan-205x123.jpg.webp)](https://www.theepochtimes.com/us/michigans-us-senate-race-tightens-as-rogers-slotkin-woo-undecideds-5732837)
+* [DeSantis Issues Warning to Residents to Avoid Preventable Post-Hurricane Fatalities](https://www.theepochtimes.com/us/desantis-issues-warning-to-residents-to-avoid-preventable-post-hurricane-fatalities-5739920)
     
-    5hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Judge Approves Release of Redacted Evidence in Trump Election Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![DeSantis Issues Warning to Residents to Avoid Preventable Post-Hurricane Fatalities](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Judge Approves Release of Redacted Evidence in Trump Election Case](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739084-GettyImages-2177684581-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-approves-release-of-redacted-evidence-in-trump-election-case-5739611)
-* [Judge Rejects Georgia Voting Registration Extension After Hurricane Helene](https://www.theepochtimes.com/us/judge-rejects-georgia-voting-registration-extension-after-hurricane-helene-5739609)
+    ![DeSantis Issues Warning to Residents to Avoid Preventable Post-Hurricane Fatalities](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5740123-DeSantis-GettyImages-2173721368KO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/desantis-issues-warning-to-residents-to-avoid-preventable-post-hurricane-fatalities-5739920)
+* [Wholesale Inflation Rises Above Expectations, Suggesting Price Pressures Persist](https://www.theepochtimes.com/business/wholesale-inflation-rises-above-expectations-suggesting-price-pressures-persist-5739959)
     
-    6hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Judge Rejects Georgia Voting Registration Extension After Hurricane Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Wholesale Inflation Rises Above Expectations, Suggesting Price Pressures Persist](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Judge Rejects Georgia Voting Registration Extension After Hurricane Helene](https://img.theepochtimes.com/assets/uploads/2024/04/12/id5628153-GettyImages-1230123473-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-rejects-georgia-voting-registration-extension-after-hurricane-helene-5739609)
+    ![Wholesale Inflation Rises Above Expectations, Suggesting Price Pressures Persist](https://img.theepochtimes.com/assets/uploads/2024/09/06/id5719102-GettyImages-2166779968-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/wholesale-inflation-rises-above-expectations-suggesting-price-pressures-persist-5739959)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
