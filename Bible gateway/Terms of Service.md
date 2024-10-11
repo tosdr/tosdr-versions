@@ -43,7 +43,7 @@ account
 
 close
 
-[THE BEST VALUE for LESS THAN $5/month. Start your Bible study with a Bible Gateway Plus FREE trial today.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_bestvaluelessthan5_092324)
+[THE BEST VALUE for AS LOW AS $4.17/month. Start your Bible study with a Bible Gateway Plus FREE trial today.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_bestvaluelowas717_092324)
 
 close
 
