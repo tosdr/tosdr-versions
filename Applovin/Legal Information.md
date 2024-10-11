@@ -128,7 +128,7 @@ Palo Alto, CA 94304
 
 Email: [\[email protected\]](https://www.applovin.com/cdn-cgi/l/email-protection)
 
-![AppLovin icon](/wp-content/themes/applovin/images/applovin-icon-color.svg)
+![AppLovin icon](/wp-content/themes/applovin/images/icon_white_v2.svg)
 
 ###### PRODUCTS
 
