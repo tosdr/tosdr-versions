@@ -20,6 +20,7 @@ Artificial Intelligence
 * [AI Image to song](https://melobytes.com/en/app/ai_image2song)
 * [AI Image to sound](https://melobytes.com/en/app/ai_image2sound)
 * [ΑΙ image variation](https://melobytes.com/en/app/ai_image_variation)
+* [AI music generator from text New](https://melobytes.com/en/app/ai_text2music)
 * [AI place generator from text](https://melobytes.com/en/app/ai_3d_place)
 * [AI song from a text description](https://melobytes.com/en/app/chat_melobytes)
 * [AI Text detection in image](https://melobytes.com/en/app/ai_image2text)
