@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/10/Mehdi-Medellel-326x245.jpg)](https://cwbchicago.com/2024/10/worker-charged-with-murdering-two-men-inside-fast-food-restaurant-chicago-police-say.html "Worker charged with murdering two men inside fast food restaurant, Chicago police say")
+
+Ashburn
+
+### [Worker charged with murdering two men inside fast food restaurant, Chicago police say](https://cwbchicago.com/2024/10/worker-charged-with-murdering-two-men-inside-fast-food-restaurant-chicago-police-say.html "Worker charged with murdering two men inside fast food restaurant, Chicago police say")
+
+[October 8, 2024 7:11 PM](https://cwbchicago.com/2024/10)
+
+Surveillance video provided to CWBChicago appears to show that neither victim was threatening the shooter at the moment when they were killed.[](https://cwbchicago.com/2024/10/worker-charged-with-murdering-two-men-inside-fast-food-restaurant-chicago-police-say.html "Worker charged with murdering two men inside fast food restaurant, Chicago police say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2023/06/Ayca-Sarialioglu-326x245.jpg)](https://cwbchicago.com/2024/10/dui-driver-who-badly-injured-man-near-water-tower-place-gets-probation.html "DUI driver who badly injured man near Water Tower Place gets probation")
 
 Magnificent Mile
@@ -262,16 +272,6 @@ Logan Square
 [October 8, 2024 8:48 AM](https://cwbchicago.com/2024/10)
 
 Three men carjacked a pot dealer in Logan Square after not having enough money to buy his weed, officials say. Prosecutors asked Judge Shauna Boliker to detain all three men on the charges, but she decided to put them on electronic monitoring instead.[](https://cwbchicago.com/2024/10/trio-charged-with-carjacking-pot-dealer-in-logan-square.html "Trio charged with carjacking pot dealer in Logan Square")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/10/Lavan-Rousseau-326x245.jpg)](https://cwbchicago.com/2024/10/man-mugged-victim-in-lincoln-park-burglarized-wrigleyville-home-in-under-2-hours-prosecutors-say.html "Man mugged victim in Lincoln Park, burglarized Wrigleyville home in under 2 hours, prosecutors say")
-
-Lincoln Park
-
-### [Man mugged victim in Lincoln Park, burglarized Wrigleyville home in under 2 hours, prosecutors say](https://cwbchicago.com/2024/10/man-mugged-victim-in-lincoln-park-burglarized-wrigleyville-home-in-under-2-hours-prosecutors-say.html "Man mugged victim in Lincoln Park, burglarized Wrigleyville home in under 2 hours, prosecutors say")
-
-[October 8, 2024 8:13 AM](https://cwbchicago.com/2024/10)
-
-Prosecutors have charged a North Side man with mugging a victim in Lincoln Park and then burglarizing an occupied home in Wrigleyville less than two hours later.[](https://cwbchicago.com/2024/10/man-mugged-victim-in-lincoln-park-burglarized-wrigleyville-home-in-under-2-hours-prosecutors-say.html "Man mugged victim in Lincoln Park, burglarized Wrigleyville home in under 2 hours, prosecutors say")
 
 Search
 
