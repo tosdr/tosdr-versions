@@ -108,7 +108,7 @@ For security and fraud protection and depending on the Privacy product or servic
 
 ###### Privacy
 
-By using any of our Services, you agree to Privacy’s [Privacy Policy,](https://privacy.com/privacy-policy) which explains how we collect, use and protect the personal information you provide to us. Depending on your use of Privacy, additional bank partner policies will apply and be agreed to when signing up for the applicable product. Copies of such policies can be obtained by contacting [support@privacy.com](mailto:support@privacy.com)
+By using any of our Services, you agree to Privacy’s [Privacy Policy,](https://privacy.com/privacy-policy) which explains how we collect, use and protect the personal information you provide to us. Depending on your use of Privacy, additional bank partner policies will apply and be agreed to when signing up for the applicable product. Copies of such policies can be obtained by contacting [\[email protected\]](https://privacy.com/cdn-cgi/l/email-protection)
 
 ###### Security
 
@@ -158,7 +158,7 @@ Although we have no obligation to monitor any Content, we have absolute discreti
 9\. Termination
 ---------------
 
-We may terminate these General Terms or any Additional Terms, or suspend or terminate your Privacy Account or your access to any Service, at any time for any reason. You may also terminate the General Terms and Additional Terms applicable to your Privacy Account by deactivating your Privacy Account by contacting us at [support@privacy.com](mailto:support@privacy.com). 
+We may terminate these General Terms or any Additional Terms, or suspend or terminate your Privacy Account or your access to any Service, at any time for any reason. You may also terminate the General Terms and Additional Terms applicable to your Privacy Account by deactivating your Privacy Account by contacting us at [\[email protected\]](https://privacy.com/cdn-cgi/l/email-protection). 
 
 Any termination of these General Terms does not relieve you of obligations, including to pay fees or costs accrued prior to the termination, with respect to any chargebacks, and to pay any other amounts owed to us as provided in these General Terms or any applicable Additional Terms. In the event your Privacy account has a negative balance, Privacy reserves the right to withhold refunds or credits, or debit your funding source to settle the negative balance.
 
@@ -299,7 +299,7 @@ PMB 57488
 New York, NY 10003-1502  
 United States
 
-If you have questions, please email us at [support@privacy.com](mailto:support@privacy.com) , or give us a call at [1-844-771-8229](tel:+18447718229).
+If you have questions, please email us at [\[email protected\]](https://privacy.com/cdn-cgi/l/email-protection) , or give us a call at [1-844-771-8229](tel:+18447718229).
 
 Product
 
@@ -331,7 +331,7 @@ Company
 
 Contact Us
 
-[Email](mailto:support@privacy.com)[Twitter](https://twitter.com/privacyhq)
+[\[email protected\]](https://privacy.com/cdn-cgi/l/email-protection)[Twitter](https://twitter.com/privacyhq)
 
 \* For users on the Privacy Personal plan, there are no fees on domestic transactions and foreign transactions incur a 3% fee ($0.50 minimum). Users on our [Pro and Premium plans](https://privacy.com/pricing) do not incur foreign transaction fees. Refer to your cardholder agreement for details.
 
