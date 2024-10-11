@@ -34,15 +34,13 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [School Talk (13)](https://forum.nationstates.net/viewtopic.php?t=556706&f=20&view=unread#unread ""School Talk" (13 posts)")
-* [American Politics: The Last Month (11,604)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: The Last Month" (11,604 posts)")
-* [1914: Mud and Steel \[AltHis|OOC|Open\] (149)](https://forum.nationstates.net/viewtopic.php?t=556737&f=31&view=unread#unread ""1914: Mud and Steel [AltHis|OOC|Open]" (149 posts)")
-* [The country game(a roleplay) (7,753)](https://forum.nationstates.net/viewtopic.php?t=546117&f=31&view=unread#unread ""The country game(a roleplay)" (7,753 posts)")
-* [NSPolandball 4: The Most Countryballs… (3,526)](https://forum.nationstates.net/viewtopic.php?t=504866&f=19&view=unread#unread ""NSPolandball 4: The Most Countryballs You'll Ever See on NS" (3,526 posts)")
+* [2023-24 Israel-Hamas-Hezbollah-Iran-H… (9,483)](https://forum.nationstates.net/viewtopic.php?t=549839&f=20&view=unread#unread ""2023-24 Israel-Hamas-Hezbollah-Iran-Houthi Conflict" (9,483 posts)")
+* [guess the above nation's flag's symbo… (52)](https://forum.nationstates.net/viewtopic.php?t=556754&f=25&view=unread#unread ""guess the above nation's flag's symbolism" (52 posts)")
+* [STRANGE NEW WORLD (2024 ALT-HISTORY R… (1,283)](https://forum.nationstates.net/viewtopic.php?t=554877&f=31&view=unread#unread ""STRANGE NEW WORLD (2024 ALT-HISTORY RP) - OOC" (1,283 posts)")
+* [What do you think of Communism? (1,528)](https://forum.nationstates.net/viewtopic.php?t=551073&f=20&view=unread#unread ""What do you think of Communism?" (1,528 posts)")
+* [What would YL say upon meeting AL? (74)](https://forum.nationstates.net/viewtopic.php?t=555437&f=25&view=unread#unread ""What would YL say upon meeting AL?" (74 posts)")
 
-Ad From Max
-
-[![Providence: The new novel by Max Barry, creator of NationStates](/images/ns-inhouse-skyscraper_1.png)](https://maxbarry.com/providence/)
+Advertisement
 
 Terms & Conditions of Use
 =========================
