@@ -242,6 +242,8 @@ Join us and share the message of reuse
 * [Instagram](https://instagram.com/jococups)
 * [Facebook](https://facebook.com/jococups)
 
+[Adding a little flair to your daily brew is our be ![Adding a little flair to your daily brew is our beautiful Artist Series - Jen Lobo 🦉 Back in stock #art #series #owl #gift](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA9-_q7yRJi/) 
+
 [DESERT SAGE - Jocos first ever insulated vessel. P ![DESERT SAGE - Jocos first ever insulated vessel. Providing optimal drinking during any occasion, keeping your beverage at the temperature you like them, all wrapped up in the proven Joco DNA #coffee #tea #icelongblack #hotchocolate #cappuccino](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA2StWYyOxB/) 
 
 [Poolside Hydration 🏊‍♀️ #hydrate #active ![Poolside Hydration 🏊‍♀️ #hydrate #active #plasticfree #swim](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAkX5rMynWo/) 
@@ -251,8 +253,6 @@ Join us and share the message of reuse
 [Designed from leading knowledge, the Lux delivers ![Designed from leading knowledge, the Lux delivers the optimal drinking experience for lovers of a good brew #stackable #lux #6pack #coldbrew #filteredcoffee](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAHp2T-SWm9/) 
 
 [Architecture for the perfect pour #luxglass #boros ![Architecture for the perfect pour #luxglass #borosilicateglass #6oz #whisky #Latte #tea](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DACoeweyFvP/) 
-
-[Coffee: the ultimate wingman ☕️ #vibe #coffee ![Coffee: the ultimate wingman ☕️ #vibe #coffee #friends #wingman](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAASd1hSI7E/) 
 
 Keep informed on new releases and subscriber exclusives
 
