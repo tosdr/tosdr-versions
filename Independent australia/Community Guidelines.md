@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [No self-respecting democracy deserves Dutton](https://independentaustralia.net/article-display/no-self-respecting-democracy-deserves-dutton,19060 "Permanent Link : No self-respecting democracy deserves Dutton")
+* [Housing wars: Strata owners vs owners corporations](https://independentaustralia.net/article-display/housing-wars-strata-owners-vs-owners-corporations,19063 "Permanent Link : Housing wars: Strata owners vs owners corporations")
+* [CARTOONS: Hurricane Milton challenges climate change denial](https://independentaustralia.net/article-display/cartoons-hurricane-milton-challenges-climate-change-denial,19046 "Permanent Link : CARTOONS: Hurricane Milton challenges climate change denial")
+* [Skilled temporary entrant stocks rising with no place to go](https://independentaustralia.net/article-display/skilled-temporary-entrant-stocks-rising-with-no-place-to-go,19062 "Permanent Link : Skilled temporary entrant stocks rising with no place to go")
 * [Queensland Greens accused of using homeless as political pawns](https://independentaustralia.net/article-display/queensland-greens-accused-of-using-homeless-as-political-pawns,19061 "Permanent Link : Queensland Greens accused of using homeless as political pawns")
 * [Etiquette tips for awed commoners when meeting King Chukka](https://independentaustralia.net/article-display/etiquette-tips-for-awed-commoners-when-meeting-king-chukka,19059 "Permanent Link : Etiquette tips for awed commoners when meeting King Chukka")
 * [EDITORIAL: No self-respecting democracy deserves Dutton](https://independentaustralia.net/article-display/editorial-no-self-respecting-democracy-deserves-dutton,19058 "Permanent Link : EDITORIAL: No self-respecting democracy deserves Dutton")
-* [Social housing shortages a major national concern](https://independentaustralia.net/article-display/social-housing-shortages-a-major-national-concern,19057 "Permanent Link : Social housing shortages a major national concern")
-* [Parliamentary changes to NDIS making life harder for disabled](https://independentaustralia.net/article-display/parliamentary-changes-to-ndis-making-life-harder-for-disabled,19056 "Permanent Link : Parliamentary changes to NDIS making life harder for disabled")
-* [Labor Government promises NBN to remain in public hands](https://independentaustralia.net/article-display/labor-government-promises-nbn-to-remain-in-public-hands,19055 "Permanent Link : Labor Government promises NBN to remain in public hands")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
