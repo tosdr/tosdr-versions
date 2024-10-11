@@ -7,7 +7,7 @@
 Sitemap1
 
 * [Logout](#)
-* [**Our Story**](https://new.shopandship.com/ourstory)
+* [**Our Story**](https://new.shopandship.com/perfume/our-story)
 * [**Membership Plan**](https://new.shopandship.com/membership)
 * [**Shipping Fees**](https://new.shopandship.com/rateandfees)
 * [**S&S Protect**](https://new.shopandship.com/protect)
