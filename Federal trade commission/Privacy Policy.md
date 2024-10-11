@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC, DOJ Issue Fiscal Year 2023 Hart-Scott-Rodino Notification Report and Announce Corrected Fiscal Year 2022 Report](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-doj-issue-fiscal-year-2023-hsr-report-and-announce-corrected-2022-report)
+    ### [FTC Sends More Than $449,000 to Consumers Harmed by ‘Extended Vehicle Warranty’ Scam](https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-sends-more-449000-consumers-harmed-extended-vehicle-warranty-scam)
     
     October 10, 2024
     
