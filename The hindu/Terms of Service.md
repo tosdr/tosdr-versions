@@ -469,10 +469,6 @@ Email: [web.thehindu@thehindu.co.in](mailto:web.thehindu@thehindu.co.in)
 
 Effective Date - 18th January 2023
 
-✖
-
-[](https://www.thehindu.com/elections/jammu-and-kashmir-assembly/)[](https://www.thehindu.com/elections/haryana-assembly/)[](#_)
-
 Read in App
 
 [![Return to frontpage](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/)
@@ -525,7 +521,7 @@ Read in App
 
 ##### Trending on The Hindu
 
-[India News](https://www.thehindu.com/news/national/) [News](https://www.thehindu.com/news/) [Haryana election results LIVE](https://www.thehindu.com/elections/haryana-assembly/haryana-assembly-election-results-saini-hooda-selja-live-updates-october-8-2024/article68728591.ece) [J & K Election results LIVE](https://www.thehindu.com/elections/jammu-and-kashmir-assembly/jammu-and-kashmir-assembly-election-results-omar-abdullah-nc-pdp-live-updates-october-8/article68729051.ece) [Indian men’s team wins rapid fire pistol gold](https://www.thehindu.com/sport/indian-mens-team-wins-rapid-fire-pistol-gold/article68718416.ece) [Himachal CM says no toilet tax in State](https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-says-no-toilet-tax-in-state-bjp-making-false-claim-for-political-gains/article68718012.ece) [Google says it will stop linking to New Zealand news if a law passes forcing it to pay for content](https://www.thehindu.com/sci-tech/technology/google-says-it-will-stop-linking-to-new-zealand-news-if-a-law-passes-forcing-it-to-pay-for-content/article68720604.ece) [West Bengal junior doctors continue sit-in](https://www.thehindu.com/news/cities/kolkata/west-bengal-junior-doctors-continue-sit-in-wait-for-state-to-fulfill-their-demands/article68720629.ece) [Google tests verified check marks in search results](https://www.thehindu.com/sci-tech/technology/google-tests-verified-check-marks-in-search-results/article68720607.ece) [Jugaad vs sustainable education](https://www.thehindu.com/education/time-to-unlearn-jugaad-and-embrace-sustainable-innovation/article68716821.ece)
+[India News](https://www.thehindu.com/news/national/) [Ratan Tata passes away LIVE](https://www.thehindu.com/news/national/ratan-tata-death-live-updates-on-october-10/article68738101.ece) [News](https://www.thehindu.com/news/) [J & K Election results LIVE](https://www.thehindu.com/elections/jammu-and-kashmir-assembly/jammu-and-kashmir-assembly-election-results-omar-abdullah-nc-pdp-live-updates-october-8/article68729051.ece) [Indian men’s team wins rapid fire pistol gold](https://www.thehindu.com/sport/indian-mens-team-wins-rapid-fire-pistol-gold/article68718416.ece) [Himachal CM says no toilet tax in State](https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-says-no-toilet-tax-in-state-bjp-making-false-claim-for-political-gains/article68718012.ece) [Google says it will stop linking to New Zealand news if a law passes forcing it to pay for content](https://www.thehindu.com/sci-tech/technology/google-says-it-will-stop-linking-to-new-zealand-news-if-a-law-passes-forcing-it-to-pay-for-content/article68720604.ece) [West Bengal junior doctors continue sit-in](https://www.thehindu.com/news/cities/kolkata/west-bengal-junior-doctors-continue-sit-in-wait-for-state-to-fulfill-their-demands/article68720629.ece) [Google tests verified check marks in search results](https://www.thehindu.com/sci-tech/technology/google-tests-verified-check-marks-in-search-results/article68720607.ece) [Jugaad vs sustainable education](https://www.thehindu.com/education/time-to-unlearn-jugaad-and-embrace-sustainable-innovation/article68716821.ece)
 
 ##### Trending on Group sites
 
