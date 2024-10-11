@@ -2,7 +2,7 @@ Due to scheduled routine system maintenance, Info24, Online and Mobile Banking w
 
 ![Close Notification](/images/icon-close-white.svg)
 
-All branches and headquarters will be closed in observance of Columbus Day/Indigenous People's Day,  **Monday, Oct. 14.**  [Info24](https://www.communityfirstfl.org/connect/contact-us "INFO24"), [Mobile](https://www.communityfirstfl.org/personal-banking/online-banking "Learn more about Mobile Banking") and [Online Banking](https://ebanking.communityfirstfl.org/cfcufonline/Uux.aspx?&_ga=2.251178950.1341183297.1604520138-1814686001.1604520138#/login "Click here to go to the Online Banking login page") will be available.
+All branches and headquarters will be closed in observance of Columbus Day/Indigenous Peoples' Day,  **Monday, Oct. 14.**  [Info24](https://www.communityfirstfl.org/connect/contact-us "INFO24"), [Mobile](https://www.communityfirstfl.org/personal-banking/online-banking "Learn more about Mobile Banking") and [Online Banking](https://ebanking.communityfirstfl.org/cfcufonline/Uux.aspx?&_ga=2.251178950.1341183297.1604520138-1814686001.1604520138#/login "Click here to go to the Online Banking login page") will be available.
 
 ![Close Notification](/images/icon-close-white.svg)
 
