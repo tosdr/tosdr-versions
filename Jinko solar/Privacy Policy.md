@@ -55,7 +55,6 @@ Menu
     * [Our Team](https://jinkosolar.us/about-jinko/#team)
     * [Careers](https://jinkosolar.us/careers/)
     * [Contact](https://jinkosolar.us/about-jinko/#contact-sales)
-* [Testing About Jinko](https://jinkosolar.us/about-jinko-2/)
 
 Privacy Policy
 ==============
