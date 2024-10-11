@@ -34,13 +34,15 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Neutral Ground - an Open Discussion T… (7,860)](https://forum.nationstates.net/viewtopic.php?t=147218&f=12&view=unread#unread ""Neutral Ground - an Open Discussion Thread" (7,860 posts)")
-* [Your favorite part of AN’s forum sig XI (2,045)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (2,045 posts)")
-* [Which of the 2 ANs is most likely to… (5,251)](https://forum.nationstates.net/viewtopic.php?t=532491&f=25&view=unread#unread ""Which of the 2 ANs is most likely to be YN's enemy?" (5,251 posts)")
-* [Create a word based on last two letters (320)](https://forum.nationstates.net/viewtopic.php?t=555696&f=25&view=unread#unread ""Create a word based on last two letters" (320 posts)")
-* [What is unique abt AN? (1,234)](https://forum.nationstates.net/viewtopic.php?t=551158&f=25&view=unread#unread ""What is unique abt AN?" (1,234 posts)")
+* [School Talk (13)](https://forum.nationstates.net/viewtopic.php?t=556706&f=20&view=unread#unread ""School Talk" (13 posts)")
+* [American Politics: The Last Month (11,604)](https://forum.nationstates.net/viewtopic.php?t=553897&f=20&view=unread#unread ""American Politics: The Last Month" (11,604 posts)")
+* [1914: Mud and Steel \[AltHis|OOC|Open\] (149)](https://forum.nationstates.net/viewtopic.php?t=556737&f=31&view=unread#unread ""1914: Mud and Steel [AltHis|OOC|Open]" (149 posts)")
+* [The country game(a roleplay) (7,753)](https://forum.nationstates.net/viewtopic.php?t=546117&f=31&view=unread#unread ""The country game(a roleplay)" (7,753 posts)")
+* [NSPolandball 4: The Most Countryballs… (3,526)](https://forum.nationstates.net/viewtopic.php?t=504866&f=19&view=unread#unread ""NSPolandball 4: The Most Countryballs You'll Ever See on NS" (3,526 posts)")
 
-Advertisement
+Ad From Max
+
+[![Providence: The new novel by Max Barry, creator of NationStates](/images/ns-inhouse-skyscraper_1.png)](https://maxbarry.com/providence/)
 
 Terms & Conditions of Use
 =========================
