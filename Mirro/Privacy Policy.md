@@ -20,9 +20,13 @@
 
 [Our Commitment](https://www.mirro.com/commitment)
 
+[Cookware Chemical Disclosure](https://www.mirro.com/commitment-1)
+
 [Where to Buy](https://www.mirro.com/where-to-buy)
 
 [Contact us](https://www.mirro.com/contact)
+
+English
 
 Open Menu Close Menu
 
@@ -46,9 +50,13 @@ Open Menu Close Menu
 
 [Our Commitment](https://www.mirro.com/commitment)
 
+[Cookware Chemical Disclosure](https://www.mirro.com/commitment-1)
+
 [Where to Buy](https://www.mirro.com/where-to-buy)
 
 [Contact us](https://www.mirro.com/contact)
+
+English
 
 [Home](https://www.mirro.com/)
 
@@ -66,9 +74,15 @@ Open Menu Close Menu
 
 [Our Commitment](https://www.mirro.com/commitment)
 
+[Cookware Chemical Disclosure](https://www.mirro.com/commitment-1)
+
 [Where to Buy](https://www.mirro.com/where-to-buy)
 
 [Contact us](https://www.mirro.com/contact)
+
+[English](#)
+
+[Back](https://www.mirro.com/)
 
 **MIRRO Privacy Policy**
 
@@ -688,5 +702,9 @@ _Fax:_ 305-640-4555
 [Terms of Use](https://www.mirro.com/term-of-use)
 
 [Accessibility Statement](https://www.mirro.com/appointments-1)
+
+[Our Commitment](https://www.mirro.com/commitment)
+
+[Cookware Chemicals Disclosure](https://www.mirro.com/commitment-1)
 
 Please ensure Javascript is enabled for purposes of [website accessibility](https://userway.org/)
