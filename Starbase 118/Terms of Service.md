@@ -354,6 +354,14 @@ Read More
 Community News
 --------------
 
+### [Role In Focus – Diplomacy](https://www.starbase118.net/2024/role-in-focus-diplomacy/) 
+
+Lhandon Nilsen October 11, 2024
+
+One of the most rewarding aspects of simming in the SB118 fleet is the diversity of roles available, ranging from helm and medical to diplomacy
+
+[Read More »](https://www.starbase118.net/2024/role-in-focus-diplomacy/)
+
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-talia-ohnari-uss-khitomer-prestigious-service-medallion-medical/)
@@ -377,18 +385,6 @@ Alora DeVeau October 8, 2024
 We’d like to congratulate all who saw their hard work and dedication pay off the last couple of months with a promotion to a higher
 
 [Read More »](https://www.starbase118.net/2024/promotions-for-august-september-2024/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/10/ILI2.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/species-spotlight-the-mizarian/)
-
-### [Species Spotlight – The Mizarian](https://www.starbase118.net/2024/species-spotlight-the-mizarian/)
-
-skhuss October 7, 2024
-
-Focusing on the IDIC and basic Vulcan philosophy, which celebrates the vast array of variables within the Star Trek universe, join us for a brand
-
-[Read More »](https://www.starbase118.net/2024/species-spotlight-the-mizarian/)
 
 Ready to get started?
 ---------------------
