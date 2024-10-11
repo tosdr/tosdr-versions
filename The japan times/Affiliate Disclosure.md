@@ -134,21 +134,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
+[Ban on dual nationality is constitutional, Fukuoka High Court rules](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
+
+  [![Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427084.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.")](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
+
 [University of Tokyo moves up a spot to 28th in World University Rankings](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
 
   [![The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426860.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The University of Tokyo is ranked 28th in the latest World University Rankings, advancing one place from the previous rankings.")](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
 
+[Ishiba keeps low profile as he makes diplomatic debut](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
+
+  [![Ishiba addresses the ASEAN-Japan Summit meeting in Laos on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427091.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Ishiba addresses the ASEAN-Japan Summit meeting in Laos on Thursday.")](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
+
 [Chinese nationals in Japan testify to harassment by Beijing, report says](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
 
   [![Chinese residents living in Japan take part in a “white paper” protest in solidarity against China's COVID-19 lockdowns, in Tokyo in November 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426864.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese residents living in Japan take part in a “white paper” protest in solidarity against China's COVID-19 lockdowns, in Tokyo in November 2022.")](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
-
-[Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
-
-  [![Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426811.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ")](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
-
-[Japan still pushing China for explanation over killing of schoolboy](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/wang-iwaya-talks/ "Japan still pushing China for explanation over killing of schoolboy")
-
-  [![Foreign Minister Takeshi Iwaya asked his Chinese counterpart Wang Yi to provide a proper accounting of the facts in the stabbing death of a schoolboy in China last month during their telephone talks on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/426941.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Foreign Minister Takeshi Iwaya asked his Chinese counterpart Wang Yi to provide a proper accounting of the facts in the stabbing death of a schoolboy in China last month during their telephone talks on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/wang-iwaya-talks/ "Japan still pushing China for explanation over killing of schoolboy")
 
 Editors' Picks
 --------------
@@ -163,6 +163,14 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Ban on dual nationality is constitutional, Fukuoka High Court rules](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
+
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+
+  [![Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427084.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Yuri Kondo (center), who filed a lawsuit challenging the constitutionality of Japan's ban on dual nationality, speaks at a news conference in the city of Fukuoka in December 2023.")](https://www.japantimes.co.jp/news/2024/10/10/japan/crime-legal/dual-nationality-ruling/ "Ban on dual nationality is constitutional, Fukuoka High Court rules")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [University of Tokyo moves up a spot to 28th in World University Rankings](https://www.japantimes.co.jp/news/2024/10/09/japan/society/universities-rankings/ "University of Tokyo moves up a spot to 28th in World University Rankings")
 
 By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
@@ -171,25 +179,19 @@ By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Hima
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Ishiba keeps low profile as he makes diplomatic debut](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
+
+By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez") and [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+
+  [![Ishiba addresses the ASEAN-Japan Summit meeting in Laos on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/427091.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Ishiba addresses the ASEAN-Japan Summit meeting in Laos on Thursday.")](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/japan-ishiba-diplomatic-debut-asean/ "Ishiba keeps low profile as he makes diplomatic debut")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Chinese nationals in Japan testify to harassment by Beijing, report says](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
 
 By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
 
   [![Chinese residents living in Japan take part in a “white paper” protest in solidarity against China's COVID-19 lockdowns, in Tokyo in November 2022.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426864.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Chinese residents living in Japan take part in a “white paper” protest in solidarity against China's COVID-19 lockdowns, in Tokyo in November 2022.")](https://www.japantimes.co.jp/news/2024/10/10/japan/japan-chinese-harassment-report/ "Chinese nationals in Japan testify to harassment by Beijing, report says")
-
-[SUMO](https://www.japantimes.co.jp/sports/sumo/ "SUMO")
-
-[Spate of sumo tour dropouts highlights need to rethink wrestlers' health](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
-
-By [John Gunning](https://www.japantimes.co.jp/author/286/john-gunning/ "John Gunning")  
-
-  [![Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/09/426811.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Shonannoumi hits the dirt at the hands of Kotozakura during a bout in Tokyo in May. Shonannoumi is among the many top wrestlers who have dropped out of this month's regional tour due to injury. ")](https://www.japantimes.co.jp/sports/2024/10/09/sumo/sumo-wrestler-health-conditions/ "Spate of sumo tour dropouts highlights need to rethink wrestlers' health")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japan still pushing China for explanation over killing of schoolboy](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/wang-iwaya-talks/ "Japan still pushing China for explanation over killing of schoolboy")
-
-  [![Foreign Minister Takeshi Iwaya asked his Chinese counterpart Wang Yi to provide a proper accounting of the facts in the stabbing death of a schoolboy in China last month during their telephone talks on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/10/426941.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "Foreign Minister Takeshi Iwaya asked his Chinese counterpart Wang Yi to provide a proper accounting of the facts in the stabbing death of a schoolboy in China last month during their telephone talks on Wednesday.")](https://www.japantimes.co.jp/news/2024/10/10/japan/politics/wang-iwaya-talks/ "Japan still pushing China for explanation over killing of schoolboy")
 
 Podcast
 -------
@@ -210,9 +212,9 @@ By [Anton L. Delgado](https://www.japantimes.co.jp/author/5049/anton-l-delgado/ 
 SUSTAINABLE JAPAN
 -----------------
 
-[Sasakawa works for a sustainable blue economy](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Sasakawa works for a sustainable blue economy](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_01_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-01?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "Sasakawa works for a sustainable blue economy")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -252,25 +254,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Seven & I to split in two to fend off Couche-Tard takeover bid](https://www.japantimes.co.jp/business/2024/10/11/companies/seven-i-split/ "Seven & I to split in two to fend off Couche-Tard takeover bid")
-
-30 mins ago
-
-[Danish-style 'schools for life' gaining popularity in Japan](https://www.japantimes.co.jp/news/2024/10/11/japan/society/danish-style-schools-hokkaido/ "Danish-style 'schools for life' gaining popularity in Japan")
+[Justice minister says he has severed all ties with Unification Church](https://www.japantimes.co.jp/news/2024/10/11/japan/politics/justice-minister-unification-church/ "Justice minister says he has severed all ties with Unification Church")
 
 1 hours ago
 
-[Yakuza member arrested over insurance fraud after cutting off own finger](https://www.japantimes.co.jp/news/2024/10/11/japan/crime-legal/yakuza-cutting-finger-insurance/ "Yakuza member arrested over insurance fraud after cutting off own finger")
+[Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world](https://www.japantimes.co.jp/news/2024/10/11/japan/nobel-peace-prize/ "Nihon Hidankyo awarded Nobel Peace Prize for efforts to achieve nuclear-free world")
 
 1 hours ago
 
-[World Bank board approves new Ukraine fund, sources say](https://www.japantimes.co.jp/business/2024/10/11/world-bank-approves-ukraine-fund/ "World Bank board approves new Ukraine fund, sources say")
+[Ishiba clears low bar in diplomatic debut](https://www.japantimes.co.jp/news/2024/10/11/japan/politics/japan-asean-ishiba-analysis/ "Ishiba clears low bar in diplomatic debut")
 
 1 hours ago
 
-[Zelenskyy outlines 'victory plan' to allies, discusses long-range weapons](https://www.japantimes.co.jp/news/2024/10/11/world/politics/zelenskyy-outlines-victory-plan/ "Zelenskyy outlines 'victory plan' to allies, discusses long-range weapons")
+[Opposition party shakes up Japan’s rate debate with new inflation target](https://www.japantimes.co.jp/business/2024/10/11/economy/cdp-monetary-policy/ "Opposition party shakes up Japan’s rate debate with new inflation target")
 
-2 hours ago
+1 hours ago
+
+[Tokyo go-kart rental manager sent to prosecutors over traffic law violation](https://www.japantimes.co.jp/news/2024/10/11/japan/crime-legal/rental-kart-violation/ "Tokyo go-kart rental manager sent to prosecutors over traffic law violation")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
