@@ -27,11 +27,11 @@ Please read this Policy carefully to understand our policies and practices regar
 
 ### Personal Information of Children  
 
-Our Website and Apps are not intended for children under 13 years of age (or up to 16 years of age in certain EU jurisdictions as set out in our [Terms of Service](#)). No one under such approved age may provide any information to the Website or through use of an App. We do not knowingly collect Personal Information from children under the approved age. If you are under the approved age, do not use this Website, any App or the Services or provide any information on or through them, including through on or through any of the features on the Website or App. No one under the approved age may register on the Website or through any App, use any of the interactive or public comment features of this Website or any App or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn that we have collected or received Personal Information from a child under the approved age without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under the approved age, please contact us at [support@kastapp.co](#)  
+Our Website and Apps are not intended for children under 13 years of age (or up to 16 years of age in certain EU jurisdictions as set out in our [Terms of Service](#)). No one under such approved age may provide any information to the Website or through use of an App. We do not knowingly collect Personal Information from children under the approved age. If you are under the approved age, do not use this Website, any App or the Services or provide any information on or through them, including through on or through any of the features on the Website or App. No one under the approved age may register on the Website or through any App, use any of the interactive or public comment features of this Website or any App or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn that we have collected or received Personal Information from a child under the approved age without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under the approved age, please contact us at [\[email protected\]](#)  
 
 ### Data Controller Information  
 
-Evasyst, Inc. d/b/a Kast makes decisions about how your information will be used. Our contact information is: Evasyst, Inc., Attn: Evasyst Privacy , 340 S Lemon Ave #9980 Walnut, CA 91789. You can also contact us by email at [support@kastapp.co](#).  
+Evasyst, Inc. d/b/a Kast makes decisions about how your information will be used. Our contact information is: Evasyst, Inc., Attn: Evasyst Privacy , 340 S Lemon Ave #9980 Walnut, CA 91789. You can also contact us by email at [\[email protected\]](#).  
 
 ### Information We Collect About You and How We Collect It  
 
@@ -201,23 +201,23 @@ We do not control third parties’ collection or use of your information to serv
 
 ### Accessing and Correcting Your Information  
 
-You have rights to your data, and you can request to delete or transfer your data in accordance with this Policy. You can review and change your Personal Information by emailing [support@kastapp.co](#) .  
+You have rights to your data, and you can request to delete or transfer your data in accordance with this Policy. You can review and change your Personal Information by emailing [\[email protected\]](#) .  
 
-You may also send us an email at [support@kastapp.co](#) to request access to, correct or delete any Personal Information that you have provided to us. Please note that we cannot delete certain Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.  
+You may also send us an email at [\[email protected\]](#) to request access to, correct or delete any Personal Information that you have provided to us. Please note that we cannot delete certain Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.  
 
 ### Withdrawing Consent  
 
-You may also send us an email at [support@kastapp.co](#) to withdraw any consents that you have provided us. Withdrawing a consent may lead to fewer possibilities to use our services. The withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal.  
+You may also send us an email at [\[email protected\]](#) to withdraw any consents that you have provided us. Withdrawing a consent may lead to fewer possibilities to use our services. The withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal.  
 
 ### Data Retention  
 
-We will retain your Personal Information as long as your account with us for receiving Services is considered to be active. Unless you request to delete your Personal Information, we will retain your information for as long as your account is active, as needed to provide you Services and to communicate with you about Services and products. If you wish to cancel your account or request that we no longer use your information to provide you Services, please contact us at [support@kastapp.co](#) . Deactivation of your account does not mean your Personal Information has been deleted from our database entirely. To request removal of your data, please send an email to support@kastapp.co . While your account is active and even after it has been closed or you have requested deletion of your Personal Information, we will retain your Personal Information as long as we deem it reasonably necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
+We will retain your Personal Information as long as your account with us for receiving Services is considered to be active. Unless you request to delete your Personal Information, we will retain your information for as long as your account is active, as needed to provide you Services and to communicate with you about Services and products. If you wish to cancel your account or request that we no longer use your information to provide you Services, please contact us at [\[email protected\]](#) . Deactivation of your account does not mean your Personal Information has been deleted from our database entirely. To request removal of your data, please send an email to [\[email protected\]](https://kast.gg/cdn-cgi/l/email-protection) . While your account is active and even after it has been closed or you have requested deletion of your Personal Information, we will retain your Personal Information as long as we deem it reasonably necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
 
-Upon request, we will provide details on how to delete your data upon cancellation of your account with us. For detailed information on this process, please reach out to our support team at [support@kastapp.co](#).  
+Upon request, we will provide details on how to delete your data upon cancellation of your account with us. For detailed information on this process, please reach out to our support team at [\[email protected\]](#).  
 
 ### Data Portability  
 
-To request a copy of the personal Personal data Information that we retain about you, please send an email to [support@kastapp.co](#) or write us by U.S. mail at: Evasyst, Inc., Attn: Evasyst Privacy, 340 S Lemon Ave #9980 Walnut, CA 91789.  
+To request a copy of the personal Personal data Information that we retain about you, please send an email to [\[email protected\]](#) or write us by U.S. mail at: Evasyst, Inc., Attn: Evasyst Privacy, 340 S Lemon Ave #9980 Walnut, CA 91789.  
 
 ### Third Party Services  
 
@@ -254,11 +254,11 @@ We do not sell any contact or analytics data to any third party.
 
 Notwithstanding any consent granted beforehand for the purposes of direct marketing, you have the right to prohibit us from using your personal data for direct marketing purposes, market research and profiling made for direct marketing purposes by contacting us on the addresses indicated above or by using the unsubscribe possibility offered in connection with any direct marketing messages.  
 
-You can opt out of promotional emails at any time by emailing contact@kastapp.co , but you will still receive communications such as receipts, confirmation emails and customer service updates that are considered necessary to provide Services to you.  
+You can opt out of promotional emails at any time by emailing [\[email protected\]](https://kast.gg/cdn-cgi/l/email-protection) , but you will still receive communications such as receipts, confirmation emails and customer service updates that are considered necessary to provide Services to you.  
 
 ### Your California Privacy Rights  
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [contact@kastapp.co](#) or write us at: 340 S Lemon Ave #9980 Walnut, CA 91789.  
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [\[email protected\]](#) or write us at: 340 S Lemon Ave #9980 Walnut, CA 91789.  
 
 ### Data Security  
 
@@ -290,13 +290,13 @@ In certain cases you may be requested to grant your consent for the processing o
 
 If you live or reside in the European Union, you have the right under the EU General Data Protection Regulation (Regulation (EU) 2016/679) (GDPR), to request from us access to and rectification or erasure of your personal data, the right to data portability, the right to restriction of processing of your personal data, the right to object to processing of your personal data, and the right to lodge a complaint with a supervisory authority. If you live or reside outside of the European Union, you may have similar rights under your local laws.  
 
-To request access to or rectification, portability or erasure of your personal data, or to delete your account with us, please send an email to support@kastapp.co or write us at: Evasyst, Inc., Attn: Evasyst Privacy, 340 S Lemon Ave #9980 Walnut, CA 91789.  
+To request access to or rectification, portability or erasure of your personal data, or to delete your account with us, please send an email to [\[email protected\]](https://kast.gg/cdn-cgi/l/email-protection) or write us at: Evasyst, Inc., Attn: Evasyst Privacy, 340 S Lemon Ave #9980 Walnut, CA 91789.  
 
 Please note that we may request the provision of additional information necessary to confirm your identity.  
 
 We reserve the right to reject requests that are unreasonably repetitive, excessive or manifestly unfounded.  
 
-Whether you live or reside in the European Union and you wish to exercise your right to restriction of processing or your right to object to processing or do not live in the European Union but you believe you have a right to restriction of processing or a right to object to processing under your local laws, please send an email to [contact@kastapp.co](#) or write us at: Evasyst, Inc., Attn: Evasyst Privacy, 340 S Lemon Ave #9980 Walnut, CA 91789.  
+Whether you live or reside in the European Union and you wish to exercise your right to restriction of processing or your right to object to processing or do not live in the European Union but you believe you have a right to restriction of processing or a right to object to processing under your local laws, please send an email to [\[email protected\]](#) or write us at: Evasyst, Inc., Attn: Evasyst Privacy, 340 S Lemon Ave #9980 Walnut, CA 91789.  
 
 ### International Data Transfers  
 
@@ -314,11 +314,11 @@ It is our policy to post any changes we make to our Policy on this page with a n
 
 ### Methods of Contact  
 
-From time to time, we may email or contact you regarding important updates or feature announcements. You may opt out of receiving emails or contacts from us by emailing our support team at [support@kastapp.co](#).  
+From time to time, we may email or contact you regarding important updates or feature announcements. You may opt out of receiving emails or contacts from us by emailing our support team at [\[email protected\]](#).  
 
 ### Contact Information  
 
 To ask questions or comment about this Policy and our privacy practices, please contact us:  
-**By Mail:** Evasyst, Inc., Attn: Evasyst Privacy, 340 S Lemon Ave #9980 Walnut, CA 91789 . **By Electronic Mail:** [support@kastapp.co](#).  
+**By Mail:** Evasyst, Inc., Attn: Evasyst Privacy, 340 S Lemon Ave #9980 Walnut, CA 91789 . **By Electronic Mail:** [\[email protected\]](#).  
 
 When you contact us, we collect information that helps us categorize your question, respond to it, and, if applicable, investigate any breach of our Terms of Service or this Policy. We also use this information to track potential problems and trends and customize our support responses to better serve you.
