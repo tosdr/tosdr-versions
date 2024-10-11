@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have only one word to say. I LOVE YOU GUYS seriously you just made my life so easy. Thank You Thank You Thank You Thank You Thank You So much.
+Thank you again for all the past years of great service and personal help.
 
-Nab Ahmed
+Russ Hall
