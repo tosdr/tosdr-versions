@@ -29,7 +29,7 @@ December 5, 2023
 
 At **Growthbook, LLC** (“we”, “us”, or “Growthbook”) we take your privacy very seriously. Please read this privacy notice carefully as it contains important information on how and why we collect, store, use, and share your personal information. It also explains your rights in relation to your personal information.
 
-By using the www.growthbook.io website (“Site”) and any related services and/or features (together with the Site, the "Service") you acknowledge that you accept the practices and policies outlined in this Privacy Notice. If you have any questions or comments about this Privacy Notice or our use of your data, please contact us at privacy@growthbook.io. 
+By using the www.growthbook.io website (“Site”) and any related services and/or features (together with the Site, the "Service") you acknowledge that you accept the practices and policies outlined in this Privacy Notice. If you have any questions or comments about this Privacy Notice or our use of your data, please contact us at [\[email protected\]](https://www.growthbook.io/cdn-cgi/l/email-protection). 
 
 When our customers use the GrowthBook Services on their own websites and products, they remain responsible for their own privacy and security practices, which may differ from ours.
 
@@ -59,7 +59,7 @@ When our customers use the GrowthBook Services on their own websites and product
       
     You have the right to opt out of receiving promotional communications at any time by:
 
-* Contacting us at support@growthbook.io;
+* Contacting us at [\[email protected\]](https://www.growthbook.io/cdn-cgi/l/email-protection);
 * Updating your preferences in the account settings page; or,
 * Using the “unsubscribe” link in emails or “STOP” number in texts, if applicable.  
       
@@ -123,7 +123,7 @@ When our customers use the GrowthBook Services on their own websites and product
     • User Authentication  
     • Legal compliance  
       
-    To make a request under the California Consumer Privacy Act, or for any questions or concerns about our Privacy Policy or practices, please contact us at privacy@growthbook.io. We may verify the request by asking you to provide information that matches the information we have on file about you. If you designate an authorized agent to exercise these rights on your behalf, we will additionally require verification that the person is authorized to act on your behalf.   
+    To make a request under the California Consumer Privacy Act, or for any questions or concerns about our Privacy Policy or practices, please contact us at [\[email protected\]](https://www.growthbook.io/cdn-cgi/l/email-protection). We may verify the request by asking you to provide information that matches the information we have on file about you. If you designate an authorized agent to exercise these rights on your behalf, we will additionally require verification that the person is authorized to act on your behalf.   
     ‍
 
 10. **Keeping Your Personal Information Secure.** We have appropriate security measures in place to prevent personal information from being accidentally lost or used or accessed in an unauthorized way. We limit access to your personal information to those who have a genuine business need to access it. Those processing your information will do so only in an authorized manner and are subject to a duty of confidentiality. We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so.  
@@ -131,7 +131,7 @@ When our customers use the GrowthBook Services on their own websites and product
     ‍
 11. **More Information and How to Exercise Your Rights**. If you would like more information on our privacy policies or wish to exercise any of your rights as described in this Privacy Notice, please:
 
-* Email us at privacy@growthbook.io.  
+* Email us at [\[email protected\]](https://www.growthbook.io/cdn-cgi/l/email-protection).  
       
     Please note that you may only make a CCPA-related data access or data portability disclosure request twice within a 12-month period.  
     ‍
@@ -142,7 +142,7 @@ When our customers use the GrowthBook Services on their own websites and product
 13. **“Do Not Track.”** Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers at this time.  
     ‍  
     ‍
-14. **Contacting Us.** If you have any questions about this Privacy Policy or our privacy practices, please contact us at privacy@growthbook.io, or send mail to: GrowthBook, Inc., 1950 W Corporate Way # 34560, Anaheim, CA 92801  
+14. **Contacting Us.** If you have any questions about this Privacy Policy or our privacy practices, please contact us at [\[email protected\]](https://www.growthbook.io/cdn-cgi/l/email-protection), or send mail to: GrowthBook, Inc., 1950 W Corporate Way # 34560, Anaheim, CA 92801  
     ‍
 
 ‍
