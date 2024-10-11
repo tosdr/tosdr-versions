@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Rather than being suffocated by the terrible things that are happening... wonder might stimulate the curiosity we need to work through those problems”
+“ Every person is born with a creative mind. Everyone has the ability”
 
-[Anna L. Tsing](https://artreview.com/anna-l-tsing-on-creating-wonder-in-the-midst-of-dread/)
+[Mary Beatrice Davidson Kenner](https://en.wikipedia.org/wiki/Mary_Kenner)
 
 [](https://www.adafruit.com/about)
 
