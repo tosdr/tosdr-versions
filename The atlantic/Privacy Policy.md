@@ -76,8 +76,6 @@
 * [Sign In](https://accounts.theatlantic.com/login/) [My Account](https://accounts.theatlantic.com/accounts/details/)
 * [Subscribe](https://www.theatlantic.com/subscribe/navbar/)
 
-[_The Atlantic_, for the fifth time in its 167-year history, is endorsing a candidate for president: Kamala Harris.](https://www.theatlantic.com/magazine/archive/2024/11/kamala-harris-atlantic-endorsement/679944/)
-
 Privacy Policy
 ==============
 
