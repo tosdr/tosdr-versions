@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The most valuable thing you can make is a mistake - you can't learn anything from being perfect”
+“ Rather than being suffocated by the terrible things that are happening... wonder might stimulate the curiosity we need to work through those problems”
 
-[Adam Osborne](https://en.wikipedia.org/wiki/Adam_Osborne)
+[Anna L. Tsing](https://artreview.com/anna-l-tsing-on-creating-wonder-in-the-midst-of-dread/)
 
 [](https://www.adafruit.com/about)
 
