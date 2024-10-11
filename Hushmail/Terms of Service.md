@@ -74,11 +74,11 @@ Any rights not expressly granted herein are reserved.
 
 ### From the Blog
 
-#### [How to Use Email Templates in Hushmail](https://blog.hushmail.com/blog/email-templates-how-to/)
+#### [HIPAA Questions and Answers: A Guide for Small Healthcare Practices](https://blog.hushmail.com/blog/hipaa-faqs/)
 
-Published on September 19, 2024
+Published on October 11, 2024
 
-Everything you need to get started with Hushmail’s email templates, designed to save you valuable time and effort. [Read more.](https://blog.hushmail.com/blog/email-templates-how-to/)
+Get clear answers to your top HIPAA questions about email, web forms, telehealth, and more. No jargon, just easy-to-understand guidance. [Read more.](https://blog.hushmail.com/blog/hipaa-faqs/)
 
 [Hushmail](https://www.hushmail.com/)[](https://apps.apple.com/app/hushmail/id1008495364)
 
@@ -133,7 +133,7 @@ Copyright © 1999-2024 Hush Communications Canada Inc.
 
 [](#)[](#)[Hide](# "Hide this notice")
 
-![](https://hushforms.com/visitorid?visitorid=C913D99293BCFA8DDE52935FB8A39648)
+![](https://hushforms.com/visitorid?visitorid=55FAE9C7D8DB807190B8C86E5DF39758)
 
 We use cookies to deliver the best possible experience on our website. To learn more, visit our [Privacy Policy](https://www.hushmail.com/privacy/). By continuing to use this site, or closing this box, you consent to our use of cookies.
 
