@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kjphoax-1200-x-628-1200x630.jpg)](https://americanwirenews.com/jean-pierre-adds-more-fuel-to-latest-trump-putin-hoax/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-biden-hurricane-1-1200x630.jpg)](https://americanwirenews.com/biden-tells-president-trump-to-help-hurricane-victims-during-presser-then-snaps-at-reporter/)
 
-[Jean-Pierre adds more fuel to latest Trump-Putin hoax](https://americanwirenews.com/jean-pierre-adds-more-fuel-to-latest-trump-putin-hoax/)
+[Biden tells ‘President Trump’ to help hurricane victims during presser, then SNAPS at reporter](https://americanwirenews.com/biden-tells-president-trump-to-help-hurricane-victims-during-presser-then-snaps-at-reporter/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-barack-obama-1200x630.jpg)](https://americanwirenews.com/obama-lectures-black-males-takes-credit-for-trumps-economy-it-was-my-economy/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/08/SGBarackObamaSGDonaldTrump-1200x630.jpeg)](https://americanwirenews.com/trump-responds-to-obamas-call-to-black-voters-with-a-wild-prediction/)
 
-[Obama lectures black males, takes credit for Trump’s economy: ‘It was my economy!’](https://americanwirenews.com/obama-lectures-black-males-takes-credit-for-trumps-economy-it-was-my-economy/)
+[Trump responds to Obama’s call to Black voters with a WILD prediction](https://americanwirenews.com/trump-responds-to-obamas-call-to-black-voters-with-a-wild-prediction/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-raheem-mostert-1200x630.jpg)](https://americanwirenews.com/nfl-wife-of-dolphins-star-blasts-harris-as-textbook-trash-no-one-has-time-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-sg-gov.-david-paterson-stepson-beating-split-1200x630.jpg)](https://americanwirenews.com/ny-officials-accused-of-violent-attack-against-fmr-governor-and-stepson-claim-innocence-now-theres-video/)
 
-[NFL wife of Dolphins star blasts Harris as ‘textbook trash’: ‘No one has time, Kamala …’](https://americanwirenews.com/nfl-wife-of-dolphins-star-blasts-harris-as-textbook-trash-no-one-has-time-kamala/)
+[NY officials accused of violent attack against fmr. Governor and stepson claim innocence. Now, there’s video…](https://americanwirenews.com/ny-officials-accused-of-violent-attack-against-fmr-governor-and-stepson-claim-innocence-now-theres-video/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump_rumble1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fmr-cbs-staffers-call-for-outside-probe-over-doctored-kamala-interview-scandal-trump-wants-outlet-to-lose-broadcasting-license/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cheney-vance-1200x630.jpg)](https://americanwirenews.com/vote-trump-for-peace-jd-vance-reacts-to-terrifying-role-for-liz-cheney-in-potential-harris-regime/)
 
-[Fmr CBS staffers call for outside probe over doctored Kamala interview scandal, Trump wants outlet to lose broadcasting license](https://americanwirenews.com/fmr-cbs-staffers-call-for-outside-probe-over-doctored-kamala-interview-scandal-trump-wants-outlet-to-lose-broadcasting-license/)
+[‘Vote Trump for peace!’ JD Vance reacts to ‘terrifying’ role for Liz Cheney in potential Harris regime](https://americanwirenews.com/vote-trump-for-peace-jd-vance-reacts-to-terrifying-role-for-liz-cheney-in-potential-harris-regime/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/cutting-wood-2146507_1280-1-1200x630.jpg)](https://americanwirenews.com/we-are-not-the-same-cajun-navy-responds-to-govt-reportedly-sending-pallets-of-electric-chainsaws-to-community-with-no-power/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-whitmerdorito11200-x-628-1200x630.jpg)](https://americanwirenews.com/gov-whitmer-feeds-doritos-to-woman-on-her-knees-in-bizarre-video-catholics-demand-immediate-apology/)
 
-[‘We are not the same’: Cajun Navy responds to govt reportedly sending pallets of electric chainsaws to community with no power](https://americanwirenews.com/we-are-not-the-same-cajun-navy-responds-to-govt-reportedly-sending-pallets-of-electric-chainsaws-to-community-with-no-power/)
+[Gov. Whitmer feeds Doritos to woman on her knees in BIZARRE video, Catholics demand immediate apology](https://americanwirenews.com/gov-whitmer-feeds-doritos-to-woman-on-her-knees-in-bizarre-video-catholics-demand-immediate-apology/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-shaq-anti-hate-timeout-1200x630.jpg)](https://americanwirenews.com/sports-leagues-get-political-again-with-time-out-against-hate-ad-campaign/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/rf-harris-1200x630.jpg)](https://americanwirenews.com/kamala-harris-received-poor-job-performance-reviews-as-san-francisco-attorney-city-docs-show/)
 
-[Sports leagues get political AGAIN with “Time Out Against Hate” ad campaign](https://americanwirenews.com/sports-leagues-get-political-again-with-time-out-against-hate-ad-campaign/)
+(Official White House Photo by Lawrence Jackson)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-optimus-1200x630.jpg)](https://americanwirenews.com/the-optimus-will-walk-amongst-you-musk-debuts-personal-robots-that-can-essentially-do-anything/)
+[Kamala Harris received poor job performance reviews as San Francisco attorney, city docs show](https://americanwirenews.com/kamala-harris-received-poor-job-performance-reviews-as-san-francisco-attorney-city-docs-show/)
 
-[‘The Optimus will walk amongst you’: Musk debuts personal robots that can ‘essentially do anything’](https://americanwirenews.com/the-optimus-will-walk-amongst-you-musk-debuts-personal-robots-that-can-essentially-do-anything/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-kamala-harris-jonathan-howard-split-1200x630.jpg)](https://americanwirenews.com/harris-accused-of-shameless-photo-op-of-the-worst-kind-amid-hurricane-helene-aftermath/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gwen-walz-1200x630.jpg)](https://americanwirenews.com/forget-secondhand-embarrassment-tim-walzs-singing-wife-campaigns-for-him-in-bizarre-scene/)
+[Harris accused of shameless photo-op of the worst kind amid Hurricane Helene aftermath](https://americanwirenews.com/harris-accused-of-shameless-photo-op-of-the-worst-kind-amid-hurricane-helene-aftermath/)
 
-[‘Forget secondhand embarrassment…’ Tim Walz’s singing wife campaigns for him in bizarre scene](https://americanwirenews.com/forget-secondhand-embarrassment-tim-walzs-singing-wife-campaigns-for-him-in-bizarre-scene/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-dangerous2-1200x630.jpg)](https://americanwirenews.com/trump-responds-to-kamala-immigration-rhetoric-with-epic-takedown-by-border-patrol-council-vp/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-thecackler-1200-x-628-1200x630.jpg)
+[Trump responds to Kamala immigration rhetoric with EPIC takedown by Border Patrol Council VP](https://americanwirenews.com/trump-responds-to-kamala-immigration-rhetoric-with-epic-takedown-by-border-patrol-council-vp/)
 
-### CNN throws Kamala a town hall lifeline after Trump nixes debate](https://americanwirenews.com/cnn-throws-kamala-a-town-hall-lifeline-after-trump-nixes-debate/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-dana-white-1200x630.jpg)
+
+### UFC chief Dana White sounds the alarm on Kamala: ‘This clip should scare EVERYONE’](https://americanwirenews.com/ufc-chief-dana-white-sounds-the-alarm-on-kamala-this-clip-should-scare-everyone/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +79,14 @@ Search for:
 ### [CNN’s Chris Wallace huffs at Tucker Carlson: ‘I’m employed’](https://americanwirenews.com/cnns-chris-wallace-jealously-huffs-at-tucker-im-employed/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-univsion-220x180.jpg)](https://americanwirenews.com/from-bad-optics-to-word-salads-harris-univision-town-hall-likely-did-little-to-sway-hispanic-voters/)
+
+[From bad optics to word salads, Harris’ Univision town hall likely did little to sway Hispanic voters](https://americanwirenews.com/from-bad-optics-to-word-salads-harris-univision-town-hall-likely-did-little-to-sway-hispanic-voters/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-tim-walz-4-220x180.jpg)](https://americanwirenews.com/harris-walz-slammed-for-mixed-messaging-on-electoral-college-they-lie-with-such-ease/)
+
+[Harris, Walz slammed for mixed messaging on Electoral College: ‘They lie with such ease’](https://americanwirenews.com/harris-walz-slammed-for-mixed-messaging-on-electoral-college-they-lie-with-such-ease/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obama-diaper-220x180.jpg)](https://americanwirenews.com/obamas-unhinged-accusation-about-trump-wearing-diapers-backfires/)
 
@@ -97,6 +107,42 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/gi-j6judgesgdjt-1200-x-628-220x180.jpg)](https://americanwirenews.com/obama-appointed-j6-judge-to-unseal-more-trump-case-filings-just-before-election/)
 
 [Obama-appointed J6 judge to unseal more Trump case filings just before election](https://americanwirenews.com/obama-appointed-j6-judge-to-unseal-more-trump-case-filings-just-before-election/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gwen-walz-220x180.jpg)](https://americanwirenews.com/forget-secondhand-embarrassment-tim-walzs-singing-wife-campaigns-for-him-in-bizarre-scene/)
+
+[‘Forget secondhand embarrassment…’ Tim Walz’s singing wife campaigns for him in bizarre scene](https://americanwirenews.com/forget-secondhand-embarrassment-tim-walzs-singing-wife-campaigns-for-him-in-bizarre-scene/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-optimus-220x180.jpg)](https://americanwirenews.com/the-optimus-will-walk-amongst-you-musk-debuts-personal-robots-that-can-essentially-do-anything/)
+
+[‘The Optimus will walk amongst you’: Musk debuts personal robots that can ‘essentially do anything’](https://americanwirenews.com/the-optimus-will-walk-amongst-you-musk-debuts-personal-robots-that-can-essentially-do-anything/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/cutting-wood-2146507_1280-1-220x180.jpg)](https://americanwirenews.com/we-are-not-the-same-cajun-navy-responds-to-govt-reportedly-sending-pallets-of-electric-chainsaws-to-community-with-no-power/)
+
+[‘We are not the same’: Cajun Navy responds to govt reportedly sending pallets of electric chainsaws to community with no power](https://americanwirenews.com/we-are-not-the-same-cajun-navy-responds-to-govt-reportedly-sending-pallets-of-electric-chainsaws-to-community-with-no-power/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-shaq-anti-hate-timeout-220x180.jpg)](https://americanwirenews.com/sports-leagues-get-political-again-with-time-out-against-hate-ad-campaign/)
+
+[Sports leagues get political AGAIN with “Time Out Against Hate” ad campaign](https://americanwirenews.com/sports-leagues-get-political-again-with-time-out-against-hate-ad-campaign/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump_rumble1-1200-x-628-220x180.jpg)](https://americanwirenews.com/fmr-cbs-staffers-call-for-outside-probe-over-doctored-kamala-interview-scandal-trump-wants-outlet-to-lose-broadcasting-license/)
+
+[Fmr CBS staffers call for outside probe over doctored Kamala interview scandal, Trump wants outlet to lose broadcasting license](https://americanwirenews.com/fmr-cbs-staffers-call-for-outside-probe-over-doctored-kamala-interview-scandal-trump-wants-outlet-to-lose-broadcasting-license/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-raheem-mostert-220x180.jpg)](https://americanwirenews.com/nfl-wife-of-dolphins-star-blasts-harris-as-textbook-trash-no-one-has-time-kamala/)
+
+[NFL wife of Dolphins star blasts Harris as ‘textbook trash’: ‘No one has time, Kamala …’](https://americanwirenews.com/nfl-wife-of-dolphins-star-blasts-harris-as-textbook-trash-no-one-has-time-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-barack-obama-220x180.jpg)](https://americanwirenews.com/obama-lectures-black-males-takes-credit-for-trumps-economy-it-was-my-economy/)
+
+[Obama lectures black males, takes credit for Trump’s economy: ‘It was my economy!’](https://americanwirenews.com/obama-lectures-black-males-takes-credit-for-trumps-economy-it-was-my-economy/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kjphoax-1200-x-628-220x180.jpg)](https://americanwirenews.com/jean-pierre-adds-more-fuel-to-latest-trump-putin-hoax/)
+
+[Jean-Pierre adds more fuel to latest Trump-Putin hoax](https://americanwirenews.com/jean-pierre-adds-more-fuel-to-latest-trump-putin-hoax/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-thecackler-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnn-throws-kamala-a-town-hall-lifeline-after-trump-nixes-debate/)
+
+[CNN throws Kamala a town hall lifeline after Trump nixes debate](https://americanwirenews.com/cnn-throws-kamala-a-town-hall-lifeline-after-trump-nixes-debate/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/06/gettyimages-1592110723-1-220x180.jpg)](https://americanwirenews.com/shocking-twist-in-case-of-afghan-refugee-charged-with-planning-election-day-massacre/)
 
@@ -131,52 +177,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2023/12/SG-Good-Dog-220x180.jpeg)](https://americanwirenews.com/young-boy-buried-under-rubble-until-family-dog-comes-to-the-rescue-i-thought-i-was-all-alone/)
 
 [Young boy buried under rubble until family dog comes to the rescue: ‘I thought I was all alone’](https://americanwirenews.com/young-boy-buried-under-rubble-until-family-dog-comes-to-the-rescue-i-thought-i-was-all-alone/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-sg-minneapolis-car-crash-minneapolis-police-chief-brian-ohara-split-220x180.jpg)](https://americanwirenews.com/six-children-arrested-after-three-armed-robberies-two-crashes-on-highway-in-minneapolis/)
-
-[Six CHILDREN arrested after three armed robberies, two crashes on highway in Minneapolis](https://americanwirenews.com/six-children-arrested-after-three-armed-robberies-two-crashes-on-highway-in-minneapolis/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-cnn-panel-220x180.jpg)](https://americanwirenews.com/cnn-panel-laments-how-democrat-party-lost-elon-musk-we-should-have/)
-
-[CNN panel laments how Democrat Party lost Elon Musk: ‘We should have…’](https://americanwirenews.com/cnn-panel-laments-how-democrat-party-lost-elon-musk-we-should-have/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-mark-halperin-220x180.jpg)](https://americanwirenews.com/hes-making-it-up-veteran-political-analyst-shares-inside-scoop-on-private-polling-and-leftists-cant-deal/)
-
-[‘He’s making it up!’ Veteran political analyst shares inside scoop on private polling, and leftists CAN’T DEAL](https://americanwirenews.com/hes-making-it-up-veteran-political-analyst-shares-inside-scoop-on-private-polling-and-leftists-cant-deal/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-upset-mother-220x180.jpg)](https://americanwirenews.com/harris-supporter-worried-about-inflation-outraged-when-she-finds-herself-featured-in-anti-kamala-ad/)
-
-[Harris supporter worried about inflation outraged when she finds herself featured in anti-Kamala ad](https://americanwirenews.com/harris-supporter-worried-about-inflation-outraged-when-she-finds-herself-featured-in-anti-kamala-ad/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-new-york-rally-220x180.jpg)](https://americanwirenews.com/ny-state-senator-compares-upcoming-trump-event-to-infamous-nazi-rally-demands-it-be-canceled/)
-
-[NY state senator compares upcoming Trump event to ‘infamous Nazi rally,’ demands it be canceled](https://americanwirenews.com/ny-state-senator-compares-upcoming-trump-event-to-infamous-nazi-rally-demands-it-be-canceled/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-kamala-harris-13-220x180.jpg)](https://americanwirenews.com/these-polls-are-not-really-moving-harris-campaign-reportedly-having-flashbacks-to-2016/)
-
-[‘These polls are not really moving’: Harris campaign reportedly having ‘flashbacks to 2016’](https://americanwirenews.com/these-polls-are-not-really-moving-harris-campaign-reportedly-having-flashbacks-to-2016/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-jake-bojo-1200-x-628-220x180.jpg)](https://americanwirenews.com/boris-johnson-rips-the-rug-out-from-under-cnns-tapper-over-trump-putin-gossip/)
-
-[Boris Johnson rips the rug out from under CNN’s Tapper over Trump-Putin gossip](https://americanwirenews.com/boris-johnson-rips-the-rug-out-from-under-cnns-tapper-over-trump-putin-gossip/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-gayle-king-220x180.jpg)](https://americanwirenews.com/gayle-king-faces-new-allegations-after-cbs-mornings-controversy-blows-up/)
-
-[Gayle King faces new allegations after CBS Mornings controversy blows up](https://americanwirenews.com/gayle-king-faces-new-allegations-after-cbs-mornings-controversy-blows-up/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-doral-fpl-220x180.jpg)](https://americanwirenews.com/trump-family-steps-up-to-help-floridians-hosts-275-linemen-at-miami-hotel/)
-
-[Trump family steps up to help Floridians, hosts 275 linemen at Miami hotel](https://americanwirenews.com/trump-family-steps-up-to-help-floridians-hosts-275-linemen-at-miami-hotel/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg_kasparian-220x180.jpg)](https://americanwirenews.com/progressive-journalist-leaves-dem-party-with-scathing-rant-and-its-powerful-stuff/)
-
-[Progressive journalist leaves Dem Party with SCATHING rant and its POWERFUL STUFF!](https://americanwirenews.com/progressive-journalist-leaves-dem-party-with-scathing-rant-and-its-powerful-stuff/)
-
-Screenshot
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-milton-tropicana-220x180.jpg)](https://americanwirenews.com/insane-video-shows-how-hurricane-milton-shredded-the-roof-of-tropicana-field-stadium/)
-
-[‘Insane’ video shows how Hurricane Milton SHREDDED the roof of Tropicana Field stadium](https://americanwirenews.com/insane-video-shows-how-hurricane-milton-shredded-the-roof-of-tropicana-field-stadium/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
