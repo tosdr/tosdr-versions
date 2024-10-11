@@ -94,15 +94,15 @@ Recent Stories
 
 [Resilience
 
+### Where Hezbollah stands, and what’s at stake, after battering by Israel](https://www.csmonitor.com/World/Middle-East/2024/1011/israel-hezbollah-resilience-lebanon-war "Where Hezbollah stands, and what’s at stake, after battering by Israel")
+
+[Generosity
+
+### The sound of silent giving](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1011/The-sound-of-silent-giving "The sound of silent giving")
+
+[Resilience
+
 ### ‘The Last of the Sea Women’: How one director is documenting a South Korean tradition](https://www.csmonitor.com/The-Culture/TV/2024/1011/the-last-of-the-sea-women-sue-kim-south-korea "‘The Last of the Sea Women’: How one director is documenting a South Korean tradition")
-
-[Respect
-
-### ‘Sharing the human stories’: What keeps our Gazan reporter going](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2435 "‘Sharing the human stories’: What keeps our Gazan reporter going")
-
-[Trust
-
-### ‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders](https://www.csmonitor.com/World/Middle-East/2024/1010/israel-hezbollah-war-lebanon-iran "‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 10, 2024
+October 11, 2024
 
-Keeping the world in view
+A talk with Ghada and Taylor
 
-There are times when the news cycle delivers more than most readers can mentally accommodate. We’re in one of those now. A pair of preelection hurricanes has many Americans focused on loss of life, property, and perhaps easy access to voting. A widening war in the Middle East has caring people everywhere concerned about those in its crossfire. In his Patterns column today, Ned Temko performs his usual role as master of the step-back. (He joined our podcast in 2022 to talk about making sense of the world.) Today, Ned explains why an almost “forgotten war” in Ukraine merits a slice of the world’s attention again now. He’s worth making room for.
+On Tuesday, I talked with Ghada Abdulfattah, the Monitor’s correspondent in Gaza, and Jordan-based correspondent, Taylor Luck, for our “Why We Wrote This” podcast. The show, which recently surpassed its 100th episode, takes you behind the scenes of the finished stories that you see.This week on the show, which you’ll find below, Ghada gives us the gift of her time and heart, even as daily challenges of profound insecurity, the destruction of her family’s home, and shortages of every kind swirl around her in Gaza. The power of hearing her voice is immeasurable; I hope you’ll take the time to listen. She brings us face-to-face with the humanity at the core of the larger story.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Where Hezbollah stands, and what’s at stake, after battering by Israel](https://www.csmonitor.com/World/Middle-East/2024/1011/israel-hezbollah-resilience-lebanon-war "Where Hezbollah stands, and what’s at stake, after battering by Israel")
+
 [### ‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders](https://www.csmonitor.com/World/Middle-East/2024/1010/israel-hezbollah-war-lebanon-iran "‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders")
 
 [### Will the West really back Ukraine ‘for as long as it takes’?](https://www.csmonitor.com/World/Europe/2024/1010/Ukraine-Zelenskyy-allies-weapons "Will the West really back Ukraine ‘for as long as it takes’?")
-
-[### The Philippines has held out on legalizing divorce. Is it set to call it quits?](https://www.csmonitor.com/World/Asia-Pacific/2024/1009/The-Philippines-has-held-out-on-legalizing-divorce.-Is-it-set-to-call-it-quits "The Philippines has held out on legalizing divorce. Is it set to call it quits?")
 
 * * *
 
