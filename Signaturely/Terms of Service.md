@@ -4,7 +4,9 @@ End of the Year Sale: Get up to 35% Off on all our Plans.
 
 [Save now](https://signaturely.com/pricing/)
 
-[![](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo.svg)](https://signaturely.com/)
+[![Signaturely Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20161%2026'%3E%3C/svg%3E)
+
+![Signaturely Logo](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo.svg)](https://signaturely.com/)
 
 * [How it works](https://signaturely.com/how-electronic-signatures-work/)
 * [Pricing](https://signaturely.com/pricing/)
@@ -22,7 +24,9 @@ Menu
 
 [Try for Free](https://app.signaturely.com/signup)
 
-[![](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo.svg)](https://signaturely.com/)
+[![Signaturely Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20161%2026'%3E%3C/svg%3E)
+
+![Signaturely Logo](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo.svg)](https://signaturely.com/)
 
 Menu
 
@@ -297,7 +301,9 @@ This Agreement, including properly incorporated Order Form(s), constitutes the e
 
 Those provisions of this Agreement that by their terms or sense are intended to survive termination or expiration of this Agreement will survive and remain in full force and effect, including, without limitation, Sections 1, 2, 3.3, 4.3 and 5-13.
 
-![](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo-2x.svg)
+![Signaturely Logo 2x](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20235%2038'%3E%3C/svg%3E)
+
+![Signaturely Logo 2x](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo-2x.svg)
 
 Super simple signatures
 
@@ -305,7 +311,9 @@ Super simple signatures
 * [](https://twitter.com/SignaturelyHQ)
 * [](https://www.linkedin.com/company/signaturely/)
 
-[![](https://signaturely.com/wp-content/uploads/2021/01/eden-partnership-subscription.svg)](https://signaturely.com/giving-back/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20273%2067'%3E%3C/svg%3E)
+
+![](https://signaturely.com/wp-content/uploads/2021/01/eden-partnership-subscription.svg)](https://signaturely.com/giving-back/)
 
 Company
 
