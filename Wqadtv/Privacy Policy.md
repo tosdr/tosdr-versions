@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/de244aa1-a34e-4eed-9efb-1658b667d34f/20241010T200917/de244aa1-a34e-4eed-9efb-1658b667d34f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/de244aa1-a34e-4eed-9efb-1658b667d34f/20241010T200917/de244aa1-a34e-4eed-9efb-1658b667d34f_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/qc-woman-ironman-world-championship-morgan-meseke/526-493a1693-755e-4449-a600-0085ac531389)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c992a443-813e-4b77-86cb-76c87314b04b/20241011T012834/c992a443-813e-4b77-86cb-76c87314b04b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c992a443-813e-4b77-86cb-76c87314b04b/20241011T012834/c992a443-813e-4b77-86cb-76c87314b04b_360x203.jpg)](https://www.wqad.com/article/news/community/rock-island-families-celebrate-halloween-holey-stumpkins-event/526-8927311e-3c57-4cf4-8e79-35f04b471306)
         
-        #### [Forged in iron | This QC woman qualified for, competed in the 2024 Ironman World Championship](https://www.wqad.com/article/news/local/the-current/qc-woman-ironman-world-championship-morgan-meseke/526-493a1693-755e-4449-a600-0085ac531389)
+        #### [Rock Island families celebrate Halloween with annual ‘Holey Stumpkins’ event](https://www.wqad.com/article/news/community/rock-island-families-celebrate-halloween-holey-stumpkins-event/526-8927311e-3c57-4cf4-8e79-35f04b471306)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf2d34d5-753e-4554-922a-94cc9c42aa14/20241009T221428/bf2d34d5-753e-4554-922a-94cc9c42aa14_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf2d34d5-753e-4554-922a-94cc9c42aa14/20241009T221428/bf2d34d5-753e-4554-922a-94cc9c42aa14_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-outlook-on-new-biden-deadline-to-phase-out-lead-pipes-within-10-years/526-f0550d4b-fbc7-494e-b303-3cd277952fae)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c0103aea-8a27-4fc7-ad17-f04514db7de1/20241011T021435/c0103aea-8a27-4fc7-ad17-f04514db7de1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c0103aea-8a27-4fc7-ad17-f04514db7de1/20241011T021435/c0103aea-8a27-4fc7-ad17-f04514db7de1_360x203.jpg)](https://www.wqad.com/article/traffic/muscatine-appeal-iowa-dot-ruling-speed-cameras/526-efaf0a74-f15f-4c31-829e-3acae2ee75fc)
         
-        #### [Rock Island looking to replace lead pipes following new deadline from Biden administration](https://www.wqad.com/article/news/local/rock-island-outlook-on-new-biden-deadline-to-phase-out-lead-pipes-within-10-years/526-f0550d4b-fbc7-494e-b303-3cd277952fae)
+        #### [Muscatine to appeal Iowa DOT ruling on speed cameras](https://www.wqad.com/article/traffic/muscatine-appeal-iowa-dot-ruling-speed-cameras/526-efaf0a74-f15f-4c31-829e-3acae2ee75fc)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/8a710c20-f9f0-4043-bf5a-5bd480cfb1ba/20241010T214609/8a710c20-f9f0-4043-bf5a-5bd480cfb1ba_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8a710c20-f9f0-4043-bf5a-5bd480cfb1ba/20241010T214609/8a710c20-f9f0-4043-bf5a-5bd480cfb1ba_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/422f9c45-2e1a-4b15-988b-b5bd44edd9a7/20241011T033417/422f9c45-2e1a-4b15-988b-b5bd44edd9a7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/422f9c45-2e1a-4b15-988b-b5bd44edd9a7/20241011T033417/422f9c45-2e1a-4b15-988b-b5bd44edd9a7_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Summer warmth approaching to end the work week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-74°
+57°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
