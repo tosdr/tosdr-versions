@@ -90,19 +90,19 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/empty-prison-cell.jpg)[](https://admin.mi52siterestore.com/article/mental-health-courts-in-era-of-criminal-justice-reform/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/cognitive-behavioral-therapy-for-criminal-offending.jpg)[](https://admin.mi52siterestore.com/article/cognitive-behavioral-therapy-for-criminal-offending/ "Read More")
 
-Issue Brief Health Serious Mental Illness
+Issue Brief Public Safety, Health
 
-Oct 03 2024
+Oct 10 2024
 
-Issue Brief Health Serious Mental Illness
+Issue Brief Public Safety, Health
 
-Oct 03 2024
+Oct 10 2024
 
-### [Mental Health Courts in an Era of Criminal Justice Reform](https://admin.mi52siterestore.com/article/mental-health-courts-in-era-of-criminal-justice-reform/)
+### [Cognitive Behavioral Therapy for Criminal Offending](https://admin.mi52siterestore.com/article/cognitive-behavioral-therapy-for-criminal-offending/) Examining the Efficacy and Potential Impact
 
-By **[Stephen Eide](https://admin.mi52siterestore.com/person/stephen-eide/)** Read time **20 mins** [Read More](https://admin.mi52siterestore.com/article/mental-health-courts-in-era-of-criminal-justice-reform/)
+By **[Carolyn D. Gorman](https://admin.mi52siterestore.com/person/carolyn-d-gorman/), [Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/cognitive-behavioral-therapy-for-criminal-offending/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/a_threat_to_fair_play_.jpg)[](https://admin.mi52siterestore.com/article/a-threat-to-fair-play/ "Read More")
 
