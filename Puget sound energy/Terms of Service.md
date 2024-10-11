@@ -166,7 +166,7 @@
             * [Events](https://www.pse.com/en/pages/pse-events)
         * * [Clean energy efforts](#)
             * [Clean energy transformation](https://www.pse.com/en/pages/together)
-            * [Clean Energy Implementation Plan](https://www.cleanenergyplan.pse.com/)
+            * [Integrated System Plan](https://www.cleanenergyplan.pse.com/)
             * [Lower carbon fuels](https://www.pse.com/en/pages/Lower-Carbon-Fuels)
             * [Hydro power](https://www.pse.com/en/pages/energy-supply/hydro-power)
             * [Wind power](https://www.pse.com/en/pages/energy-supply/wind-power)
@@ -180,7 +180,6 @@
             * [Our history](https://www.pse.com/en/about-us/our-history)
             * [Newsroom](https://www.pse.com/en/press-release)
             * [Sustainability](https://www.pse.com/en/about-us/Sustainability)
-            * [Integrated Resource Plan](https://www.pse.com/en/IRP)
 * [BUSINESS](https://www.pse.com/en/business)
     * Account & Billing
         * * [My bill](#)
