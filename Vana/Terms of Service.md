@@ -173,7 +173,7 @@ Looking for a dataset? Fill out this form to let the community know](https://use
 Terms & Conditions
 ==================
 
-**If you have any questions or suggestions about our Terms of Service, do not hesitate to contact us at: support@vana.com. Corsali, Inc. and its affiliates respect your privacy and are committed to protecting it. We provide these Terms of Service to inform you of our policy and practices and of the choices you can make about the way your information is collected and used.**
+**If you have any questions or suggestions about our Terms of Service, do not hesitate to contact us at: [\[email protected\]](https://www.vana.com/cdn-cgi/l/email-protection). Corsali, Inc. and its affiliates respect your privacy and are committed to protecting it. We provide these Terms of Service to inform you of our policy and practices and of the choices you can make about the way your information is collected and used.**
 
 ‍**Acceptance of These Terms of Service**
 
@@ -247,7 +247,7 @@ In addition, in connection with establishing your Account, you may be asked to s
 **Third-Party Distribution Channels:** Vana offers Software that may be made available through the Apple App Store, the Google Play Store, or other distribution channels (“**Distribution Channels**”). If you obtain such Software through a Distribution Channel, you may be subject to additional terms of the Distribution Channel. These Terms of Service are between you and us only, and not with the Distribution Channel. To the extent that you utilize any other third-party products and services in connection with your use of the Service, you agree to comply with all applicable terms of any agreement for such third-party products and services.  
 ‍
 
-**Open Source Software and Libraries**: The Software may contain or be provided together with open source software or libraries. Each item of open source software or from an open source library is subject to its own license terms.  For instance, the terms for ReactJS can be found at [https://opensource.fb.com/legal/terms/](https://opensource.fb.com/legal/terms/). If required by any license for a particular open source software or library, Vana makes such open source software or library, and Vana’s modifications to that open source software or library (if any), available by written request to [support@vana.com](mailto:support@vana.com). Copyrights to the open source software are held by the respective copyright holders indicated therein.
+**Open Source Software and Libraries**: The Software may contain or be provided together with open source software or libraries. Each item of open source software or from an open source library is subject to its own license terms.  For instance, the terms for ReactJS can be found at [https://opensource.fb.com/legal/terms/](https://opensource.fb.com/legal/terms/). If required by any license for a particular open source software or library, Vana makes such open source software or library, and Vana’s modifications to that open source software or library (if any), available by written request to [\[email protected\]](https://www.vana.com/cdn-cgi/l/email-protection). Copyrights to the open source software are held by the respective copyright holders indicated therein.
 
 **Intellectual Property Rights**
 
@@ -267,7 +267,7 @@ You acknowledge and agree that Vana may preserve User Content and may also discl
 
 **Copyright Complaints:** Vana respects the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, you should notify Vana of your infringement claim in accordance with the procedure set forth below.
 
-Vana will process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act (“**DMCA**”) and other applicable intellectual property laws with respect to any alleged or actual infringement. A notification of claimed copyright infringement should be emailed to Vana’s Copyright Agent at [legal@vana.com](mailto:legal@vana.com) (Subject line: “**DMCA Takedown Request**”). You may also contact the Copyright Agent by mail or facsimile at:
+Vana will process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act (“**DMCA**”) and other applicable intellectual property laws with respect to any alleged or actual infringement. A notification of claimed copyright infringement should be emailed to Vana’s Copyright Agent at [\[email protected\]](https://www.vana.com/cdn-cgi/l/email-protection) (Subject line: “**DMCA Takedown Request**”). You may also contact the Copyright Agent by mail or facsimile at:
 
 Attn: Legal Department
 
@@ -343,7 +343,7 @@ This Dispute Resolution by Binding Arbitration section is referred to in these T
 
 1. **Pre-Arbitration Dispute Resolution**
 
-Vana is always interested in resolving disputes amicably and efficiently, and most customer concerns can be resolved quickly and to the customer’s satisfaction by emailing customer support at [support@vana.com](mailto:support@vana.com). If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“**Notice**”). The Notice to Vana should be sent to Attn: Legal, Corsali, Inc. dba Vana, 548 Market St, PMB 77861, San Francisco, CA 94104 (“**Notice Address**”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Vana and you do not resolve the claim within sixty (60) calendar days after the Notice is received, you or Vana may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by Vana or you will not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Vana is entitled.
+Vana is always interested in resolving disputes amicably and efficiently, and most customer concerns can be resolved quickly and to the customer’s satisfaction by emailing customer support at [\[email protected\]](https://www.vana.com/cdn-cgi/l/email-protection). If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“**Notice**”). The Notice to Vana should be sent to Attn: Legal, Corsali, Inc. dba Vana, 548 Market St, PMB 77861, San Francisco, CA 94104 (“**Notice Address**”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If Vana and you do not resolve the claim within sixty (60) calendar days after the Notice is received, you or Vana may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by Vana or you will not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or Vana is entitled.
 
 1. **Arbitration Procedures**
 
@@ -381,7 +381,7 @@ These Terms of Service (together with the terms incorporated by reference herein
 
 **Notice for California Users**
 
-Under California Civil Code Section 1789.3, users of the Service from California are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted (a) via email at [dca@dca.ca.gov](mailto:dca@dca.ca.gov); (b) in writing at: Department of Consumer Affairs, Consumer Information Division, 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834; or (c) by telephone at (800) 952-5210 or (800) 326-2297 (TDD). Sacramento-area consumers may call (916) 445-1254 or (916) 928-1227 (TDD). You may contact us at Attn: Legal, Corsali, Inc. dba Vana, 548 Market St, PMB 77861, San Francisco, CA 94104.
+Under California Civil Code Section 1789.3, users of the Service from California are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted (a) via email at [\[email protected\]](https://www.vana.com/cdn-cgi/l/email-protection); (b) in writing at: Department of Consumer Affairs, Consumer Information Division, 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834; or (c) by telephone at (800) 952-5210 or (800) 326-2297 (TDD). Sacramento-area consumers may call (916) 445-1254 or (916) 928-1227 (TDD). You may contact us at Attn: Legal, Corsali, Inc. dba Vana, 548 Market St, PMB 77861, San Francisco, CA 94104.
 
 **U.S. Government Restricted Rights**
 
@@ -390,7 +390,7 @@ The Service is made available to the U.S. government with “RESTRICTED RIGHTS.�
 **Questions? Concerns? Suggestions?**
 
   
-Please contact us at [support@vana.com](mailto:support@vana.com) or Attn: Legal, Corsali, Inc. dba Vana, 548 Market St, PMB 77861, San Francisco, CA 94104 to report any violations of these Terms of Service or to pose any questions regarding these Terms of Service or the Service.
+Please contact us at [\[email protected\]](https://www.vana.com/cdn-cgi/l/email-protection) or Attn: Legal, Corsali, Inc. dba Vana, 548 Market St, PMB 77861, San Francisco, CA 94104 to report any violations of these Terms of Service or to pose any questions regarding these Terms of Service or the Service.
 
 ‍
 
@@ -422,11 +422,11 @@ You can cancel any time by texting "STOP". After you send the SMS message "STOP"
 
 #### **Info**
 
-Text "HELP" at any time and we will respond with instructions on how to unsubscribe. For support regarding our services, email us at services@vana.com.
+Text "HELP" at any time and we will respond with instructions on how to unsubscribe. For support regarding our services, email us at [\[email protected\]](https://www.vana.com/cdn-cgi/l/email-protection).
 
 #### **Transfer of Number**
 
-You agree that before changing your mobile number or transferring your mobile number to another individual, you will either reply “STOP” from the original number or notify us of your old number at services@vana.com. The duty to inform us based on the above events is a condition of using this service to receive messages.
+You agree that before changing your mobile number or transferring your mobile number to another individual, you will either reply “STOP” from the original number or notify us of your old number at [\[email protected\]](https://www.vana.com/cdn-cgi/l/email-protection). The duty to inform us based on the above events is a condition of using this service to receive messages.
 
 #### **Privacy**
 
@@ -461,4 +461,4 @@ Documentation
 
 Company
 
-[Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)[Legal agreement](https://www.vana.com/legal/terms-conditions)[Privacy](https://www.vana.com/legal/privacy-policy)[Contact](mailto:admin@vana.com)
+[Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)[Legal agreement](https://www.vana.com/legal/terms-conditions)[Privacy](https://www.vana.com/legal/privacy-policy)[\[email protected\]](https://www.vana.com/cdn-cgi/l/email-protection)
