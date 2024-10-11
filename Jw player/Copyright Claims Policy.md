@@ -158,7 +158,7 @@
 DMCA Copyright Policy
 =====================
 
-LongTail Ad Solutions, Inc. (“JW Player”, “Company”) has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act (“DMCA”). We reserve the right to (1) block access to or remove material that we believe in good faith to be copyrighted material that has been illegally copied and distributed by any of our advertisers, affiliates, content providers, members or users and (2) remove and discontinue service to repeat offenders immediately upon subsequent violation. The address of the Designated Agent to Receive Notification of Claimed Infringement (“Designated Agent”) is listed at the bottom of this page. Please note that if you fail to comply with all of the requirements below, your DMCA notice or counter-notification may not be processed. 
+JWP, Inc. (“JW Player”, “Company”) has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act (“DMCA”). We reserve the right to (1) block access to or remove material that we believe in good faith to be copyrighted material that has been illegally copied and distributed by any of our advertisers, affiliates, content providers, members or users and (2) remove and discontinue service to repeat offenders immediately upon subsequent violation. The address of the Designated Agent to Receive Notification of Claimed Infringement (“Designated Agent”) is listed at the bottom of this page. Please note that if you fail to comply with all of the requirements below, your DMCA notice or counter-notification may not be processed. 
 
 Remember that your use of JW Player’s Services is at all times subject to the [Terms of Service](https://www.jwplayer.com/legal/tos/?hsLang=en) located at [https://www.jwplayer.com/tos/](https://www.jwplayer.com/legal/tos/?hsLang=en) which incorporates this DMCA Copyright Policy. Any terms we use in this DMCA Copyright Policy without defining them have the definitions given to them in the [Terms of Service](https://www.jwplayer.com/legal/tos/?hsLang=en) located at [https://www.jwplayer.com/tos/](https://www.jwplayer.com/legal/tos/?hsLang=en)
 
@@ -207,14 +207,14 @@ Please contact the Designated Agent to Receive Notification of Claimed Infringem
 
 Attn: Copyright Compliance Department
 
-LongTail Ad Solutions, Inc. d/b/a JW Player
+JWP, Inc.
 
 530 7th Avenue, 19th Floor  
 New York, NY 10018
 
 212-244-0140
 
-_Updated: June 30, 2020_
+_Updated: October 11, 2024_
 
 ![](https://jwplayer.com/wp-content/uploads/2022/11/JWP-logo.svg)
 
