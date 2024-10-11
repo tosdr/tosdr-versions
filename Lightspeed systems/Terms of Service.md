@@ -35,7 +35,10 @@ Toggle Site Navigation
 
 * [Solutions](https://www.lightspeedsystems.com/solutions/) Open Solutions submenu
     * [Security & Compliance](https://www.lightspeedsystems.com/solutions/security-compliance/) Open Security & Compliance submenu
-        * [Support AI Edtech Success](https://www.lightspeedsystems.com/solutions/security-compliance/support-ai-edtech-success-school-districts/)
+        * [Compliance](https://www.lightspeedsystems.com/challenges/compliance/)
+        * [OH SB 29](https://www.lightspeedsystems.com/challenges/compliance-ohio-sb29/)
+        * [TX Scope](https://www.lightspeedsystems.com/challenges/compliance-scope-act/)
+        * [AI](https://www.lightspeedsystems.com/solutions/security-compliance/support-ai-edtech-success-school-districts/)
     * [Safety & Wellness](https://www.lightspeedsystems.com/solutions/safety-wellness/)
     * [Engagement & Impact](https://www.lightspeedsystems.com/solutions/engagement-impact/)
 * [Products](https://www.lightspeedsystems.com/products/) Open Products submenu
@@ -300,8 +303,6 @@ Lightspeed may terminate access to and use of Lightspeed API by you and any one 
 [![](/wp-content/uploads/2024/02/logo-with-tagline.svg)](https://www.lightspeedsystems.com/)
 
 [Follow Lightspeed Systems on X (Formerly Twitter)](https://x.com/lightspeedsys) [Follow Lightspeed Systems on LinkedIn](https://www.linkedin.com/company/lightspeed-systems/) [Follow Lightspeed Systems on Facebook](https://www.facebook.com/lightspeedsystems/)
-
-[![Read reviews of Lightspeed Platform (Formerly Relay) on G2](https://www.g2.com/products/lightspeed-platform-formerly-relay/widgets/stars?color=white&type=read)](https://www.g2.com/products/lightspeed-platform-formerly-relay/reviews?utm_source=review-widget)
 
 #### Products
 
