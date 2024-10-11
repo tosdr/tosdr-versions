@@ -20,16 +20,16 @@ Friday, October 11 2024
 
 Latest
 
-* [Gemini Code Assist Enterprise – Google wants to simplify code for all](https://digitpatrox.com/gemini-code-assist-enterprise-google-wants-to-simplify-code-for-all/)
-* [Download our Digital Whiteboard Software Buyer’s Guide](https://digitpatrox.com/download-our-digital-whiteboard-software-buyers-guide/)
-* [My Cookbook of the Week: ‘Masa’ Will Teach You Everything You Can Do With Tortillas](https://digitpatrox.com/my-cookbook-of-the-week-masa-will-teach-you-everything-you-can-do-with-tortillas/)
-* [How to change execution policy to run scripts on PowerShell](https://digitpatrox.com/how-to-change-execution-policy-to-run-scripts-on-powershell/)
-* [Most Popular Used Cars, SUVs, and Trucks](https://digitpatrox.com/most-popular-used-cars-suvs-and-trucks/)
-* [Which MVNOs Use Verizon’s Network?](https://digitpatrox.com/which-mvnos-use-verizons-network/)
-* [AWS cloud success: your route to results through a trusted partner](https://digitpatrox.com/aws-cloud-success-your-route-to-results-through-a-trusted-partner/)
-* [AI innovation Should Be Balanced With Sensible Regulation](https://digitpatrox.com/ai-innovation-should-be-balanced-with-sensible-regulation/)
-* [How to watch Il Lombardia 2024 live streams FREE online](https://digitpatrox.com/how-to-watch-il-lombardia-2024-live-streams-free-online/)
-* [Ukraine arrests rogue VPN operator providing access to Runet](https://digitpatrox.com/ukraine-arrests-rogue-vpn-operator-providing-access-to-runet/)
+* [The Legend of Zelda: Echoes of Wisdom is a unique, imperfect adventure through Hyrule](https://digitpatrox.com/the-legend-of-zelda-echoes-of-wisdom-is-a-unique-imperfect-adventure-through-hyrule/)
+* [US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](https://digitpatrox.com/us-uk-warn-of-russian-apt29-hackers-targeting-zimbra-teamcity-servers/)
+* [Lynk & Co’s first EV is meant to be shared to lower its price](https://digitpatrox.com/lynk-cos-first-ev-is-meant-to-be-shared-to-lower-its-price/)
+* [Deadlock Patch Notes (October 10): Ranked Mode, Buffs, Nerfs & Other Changes](https://digitpatrox.com/deadlock-patch-notes-october-10-ranked-mode-buffs-nerfs-other-changes/)
+* [What Is Hosted Virtual Desktop? A complete 2024 Guide](https://digitpatrox.com/what-is-hosted-virtual-desktop-a-complete-2024-guide/)
+* [Industry unprepared for AI agent security challenges, experts warn](https://digitpatrox.com/industry-unprepared-for-ai-agent-security-challenges-experts-warn/)
+* [Why you should want face-recognition glasses – Computerworld](https://digitpatrox.com/why-you-should-want-face-recognition-glasses-computerworld/)
+* [Amazon Prime Members Can Get Two of These E-books Free in October](https://digitpatrox.com/amazon-prime-members-can-get-two-of-these-e-books-free-in-october/)
+* [Axis Health System breach claimed by Rhysida ransomware gang – $1.5M demanded](https://digitpatrox.com/axis-health-system-breach-claimed-by-rhysida-ransomware-gang-1-5m-demanded/)
+* [1.7 Million Honda and Acura Cars Recato Fix Steering Problem](https://digitpatrox.com/1-7-million-honda-and-acura-cars-recato-fix-steering-problem/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/CLcrZfFWca5tnSjCbNuQ7C-1200-80.jpg)](https://digitpatrox.com/gemini-code-assist-enterprise-google-wants-to-simplify-code-for-all/)
+* [![](https://cdn.mos.cms.futurecdn.net/NfZwpDEiEtaxYGryBaFrQ5-1200-80.jpg)](https://digitpatrox.com/the-legend-of-zelda-echoes-of-wisdom-is-a-unique-imperfect-adventure-through-hyrule/)
     
-    [Gemini Code Assist Enterprise – Google wants to simplify code for all](https://digitpatrox.com/gemini-code-assist-enterprise-google-wants-to-simplify-code-for-all/)
+    [The Legend of Zelda: Echoes of Wisdom is a unique, imperfect adventure through Hyrule](https://digitpatrox.com/the-legend-of-zelda-echoes-of-wisdom-is-a-unique-imperfect-adventure-through-hyrule/)
     
-    14 seconds ago
+    16 seconds ago
     
-* [![](https://us.resources.computerworld.com/wp-content/uploads/2024/10/default_image1728399027.1478.png)](https://digitpatrox.com/download-our-digital-whiteboard-software-buyers-guide/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/09/Russian-hackers.jpg)](https://digitpatrox.com/us-uk-warn-of-russian-apt29-hackers-targeting-zimbra-teamcity-servers/)
     
-    [Download our Digital Whiteboard Software Buyer’s Guide](https://digitpatrox.com/download-our-digital-whiteboard-software-buyers-guide/)
+    [US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](https://digitpatrox.com/us-uk-warn-of-russian-apt29-hackers-targeting-zimbra-teamcity-servers/)
     
-    22 mins ago
+    29 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J9VZ591EF3Y82C9RMW8284FT/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/my-cookbook-of-the-week-masa-will-teach-you-everything-you-can-do-with-tortillas/)
+* [![](https://cdn.vox-cdn.com/thumbor/YwH_11PNG1io1yIP9EkLxGHQK9o=/0x0:5000x3750/1200x628/filters:focal(2500x1875:2501x1876)/cdn.vox-cdn.com/uploads/chorus_asset/file/25670725/LYNKCO_02_Exterior_04_Hires_D8d8a9.jpg)](https://digitpatrox.com/lynk-cos-first-ev-is-meant-to-be-shared-to-lower-its-price/)
     
-    [My Cookbook of the Week: ‘Masa’ Will Teach You Everything You Can Do With Tortillas](https://digitpatrox.com/my-cookbook-of-the-week-masa-will-teach-you-everything-you-can-do-with-tortillas/)
+    [Lynk & Co’s first EV is meant to be shared to lower its price](https://digitpatrox.com/lynk-cos-first-ev-is-meant-to-be-shared-to-lower-its-price/)
     
-    49 mins ago
+    46 mins ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2023/01/windows-11-change-powershell-execution-policy-here.webp)](https://digitpatrox.com/how-to-change-execution-policy-to-run-scripts-on-powershell/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/Deadlock-Patch-Notes-October-10-cover.jpg)](https://digitpatrox.com/deadlock-patch-notes-october-10-ranked-mode-buffs-nerfs-other-changes/)
     
-    [How to change execution policy to run scripts on PowerShell](https://digitpatrox.com/how-to-change-execution-policy-to-run-scripts-on-powershell/)
-    
-    1 hour ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1678404331/prod/content/dam/CRO-Images-2023/03March/Cars/CR-Cars-InlineHero-Most-Popular-Used-Cars-SUVs-Trucks-on-Consumer-Reports-v2-0323)](https://digitpatrox.com/most-popular-used-cars-suvs-and-trucks/)
-    
-    [Most Popular Used Cars, SUVs, and Trucks](https://digitpatrox.com/most-popular-used-cars-suvs-and-trucks/)
+    [Deadlock Patch Notes (October 10): Ranked Mode, Buffs, Nerfs & Other Changes](https://digitpatrox.com/deadlock-patch-notes-october-10-ranked-mode-buffs-nerfs-other-changes/)
     
     1 hour ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/What-Is-Hosted-Virtual-Desktop.jpeg)](https://digitpatrox.com/what-is-hosted-virtual-desktop-a-complete-2024-guide/)
+    
+    [What Is Hosted Virtual Desktop? A complete 2024 Guide](https://digitpatrox.com/what-is-hosted-virtual-desktop-a-complete-2024-guide/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [14 seconds ago
+* [16 seconds ago
     
-    ### Gemini Code Assist Enterprise – Google wants to simplify code for all](https://digitpatrox.com/gemini-code-assist-enterprise-google-wants-to-simplify-code-for-all/)
-* [22 mins ago
+    ### The Legend of Zelda: Echoes of Wisdom is a unique, imperfect adventure through Hyrule](https://digitpatrox.com/the-legend-of-zelda-echoes-of-wisdom-is-a-unique-imperfect-adventure-through-hyrule/)
+* [29 mins ago
     
-    ### Download our Digital Whiteboard Software Buyer’s Guide](https://digitpatrox.com/download-our-digital-whiteboard-software-buyers-guide/)
-* [49 mins ago
+    ### US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](https://digitpatrox.com/us-uk-warn-of-russian-apt29-hackers-targeting-zimbra-teamcity-servers/)
+* [46 mins ago
     
-    ### My Cookbook of the Week: ‘Masa’ Will Teach You Everything You Can Do With Tortillas](https://digitpatrox.com/my-cookbook-of-the-week-masa-will-teach-you-everything-you-can-do-with-tortillas/)
+    ### Lynk & Co’s first EV is meant to be shared to lower its price](https://digitpatrox.com/lynk-cos-first-ev-is-meant-to-be-shared-to-lower-its-price/)
 
 Most Popular Topics
 
-* [September 5, 2024
+* [September 2, 2024
     
-    ### Eight Lazy Repairs to Watch Out for When Buying a Former Rental Property](https://digitpatrox.com/eight-lazy-repairs-to-watch-out-for-when-buying-a-former-rental-property/)
+    ### Gemini AI integration could be coming to Android Auto](https://digitpatrox.com/gemini-ai-integration-could-be-coming-to-android-auto/)
+* [August 15, 2024
+    
+    ### The Fitbit Inspire 3 Is on Sale for $80 Right Now](https://digitpatrox.com/the-fitbit-inspire-3-is-on-sale-for-80-right-now/)
 * [1 week ago
     
-    ### Parents can now set Fortnite time limits](https://digitpatrox.com/parents-can-now-set-fortnite-time-limits/)
-* [August 22, 2024
-    
-    ### No one’s ready for this](https://digitpatrox.com/no-ones-ready-for-this/)
+    ### 7 Best BYOPC Security Solution for Remote Work 2024](https://digitpatrox.com/7-best-byopc-security-solution-for-remote-work-2024/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### AWS cloud success: your route to results through a trusted partner](https://digitpatrox.com/aws-cloud-success-your-route-to-results-through-a-trusted-partner/)
-* [2 hours ago
-    
-    ### AI innovation Should Be Balanced With Sensible Regulation](https://digitpatrox.com/ai-innovation-should-be-balanced-with-sensible-regulation/)
 * [3 hours ago
     
-    ### How to watch Il Lombardia 2024 live streams FREE online](https://digitpatrox.com/how-to-watch-il-lombardia-2024-live-streams-free-online/)
+    ### Why you should want face-recognition glasses – Computerworld](https://digitpatrox.com/why-you-should-want-face-recognition-glasses-computerworld/)
+* [3 hours ago
+    
+    ### Amazon Prime Members Can Get Two of These E-books Free in October](https://digitpatrox.com/amazon-prime-members-can-get-two-of-these-e-books-free-in-october/)
+* [3 hours ago
+    
+    ### Axis Health System breach claimed by Rhysida ransomware gang – $1.5M demanded](https://digitpatrox.com/axis-health-system-breach-claimed-by-rhysida-ransomware-gang-1-5m-demanded/)
 
 Most Viewed Topics
 
 * [August 12, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 28, 2024
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 21, 2024
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
