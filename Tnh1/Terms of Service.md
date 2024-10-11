@@ -14,9 +14,99 @@
 
 [Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Maceió")
 
+Últimas de Maceió
+
+[Leia tudo sobre Maceió](https://www.tnh1.com.br/noticias/editoria/maceio/ "Ir para Maceió")
+
+   [![Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/b/csm_menina_meningite_cf6b12e34a.png)
+
+Maceió
+
+Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato](https://www.tnh1.com.br/noticia/nid/maceio-tem-30-casos-confirmados-de-meningite-mae-de-crianca-internada-faz-relato/ "Maceió tem 30 casos confirmados de meningite; mãe de criança internada faz relato")   [![Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/4/csm_area-interditada-demolicao-pinheiro_016919e00c.jpg)
+
+Veja desvios
+
+Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis](https://www.tnh1.com.br/noticia/nid/avenida-no-pinheiro-e-interditada-pela-defesa-civil-para-demolicoes-de-imoveis/ "Avenida no Pinheiro é interditada pela Defesa Civil para demolições de imóveis")   [![Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
+
+Na Serraria
+
+Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://www.tnh1.com.br/noticia/nid/motorista-invade-contramao-bate-em-viatura-da-pm-e-e-preso-por-embriaguez-ao-volante/ "Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante")   [![Carros de luxo batem na orla de Jatiúca e motoristas saem ilesos; veja vídeos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/b/f/csm_acidente_orla_jatiuca_reproducao_tv_pajucara_8f68f0ac16.png)
+
+Av. Álvaro Otacílio
+
+Carros de luxo batem na orla de Jatiúca e motoristas saem ilesos; veja vídeos](https://www.tnh1.com.br/noticia/nid/carros-de-luxo-batem-na-orla-de-jatiuca-e-motoristas-saem-ilesos-veja-videos/ "Carros de luxo batem na orla de Jatiúca e motoristas saem ilesos; veja vídeos")   [![Sine Maceió oferece 415 oportunidades de emprego; veja vagas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/d/csm_Sine-SEMTES-foto-Jonathan-Lins-1_c850e22a38.jpg)
+
+Mercado de Trabalho
+
+Sine Maceió oferece 415 oportunidades de emprego; veja vagas](https://www.tnh1.com.br/noticia/nid/sine-maceio-oferece-415-oportunidades-de-emprego-veja-vagas/ "Sine Maceió oferece 415 oportunidades de emprego; veja vagas")   [![Papeleira instalada no Corredor Vera Arruda é incendiada por vândalos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/c/csm_Papeleira_instalada_no_Corredor_Vera_Arruda_e_incendiada_por_vandalos_-_foto_Alexandre_Vieira_-_Ascom_Alurb_053bf9e6c7.jpeg)
+
+é crime
+
+Papeleira instalada no Corredor Vera Arruda é incendiada por vândalos](https://www.tnh1.com.br/noticia/nid/papeleira-instalada-no-corredor-vera-arruda-e-incendiada-por-vandalos/ "Papeleira instalada no Corredor Vera Arruda é incendiada por vândalos")
+
 [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Alagoas")
 
+Últimas de Alagoas
+
+[Leia tudo sobre Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas/ "Ir para Alagoas")
+
+   [![Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/e/5/csm_Onda_calor_-_Freepik_c60e743d3d.jpg)
+
+até domingo
+
+Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais](https://www.tnh1.com.br/noticia/nid/inmet-emite-alerta-de-onda-de-calor-para-38-cidades-de-alagoas-veja-quais/ "Inmet emite alerta de onda de calor para 38 cidades de Alagoas; veja quais")   [![HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/d/4/csm_Sesau_HGE_Acidentes_a175c35292.jpg)
+
+Alagoas
+
+HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano](https://www.tnh1.com.br/noticia/nid/hge-atende-quase-4-mil-vitimas-de-acidentes-de-transito-de-janeiro-a-setembro-deste-ano/ "HGE atende quase 4 mil vítimas de acidentes de trânsito de janeiro a setembro deste ano")   [![Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/1/csm_Sol__calor_-_foto_Marcello_Casal_Jr_-_Agencia_Brasil_86076956ed.jpg)
+
+Meteorologia
+
+Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira](https://www.tnh1.com.br/noticia/nid/oito-cidades-de-alagoas-tem-alerta-de-baixa-umidade-nesta-quinta-feira/ "Oito cidades de Alagoas têm alerta de baixa umidade nesta quinta-feira")   [![Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/d/b/csm_Sexo_na_praia_de_Ponta_Verde_-_foto_Reproducao_6835180147.jpg)
+
+Polícia
+
+Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado](https://www.tnh1.com.br/noticia/nid/sexo-na-praia-veja-o-que-diz-o-mp-al-sobre-afastamento-de-aluno-no-curso-de-delegado/ "Sexo na praia: veja o que diz o MP-AL sobre afastamento de aluno no curso de delegado")   [![Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/7/csm_sexo_praia_9091d042b1.png)
+
+após denúncia
+
+Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-filmado-fazendo-sexo-em-praia-de-maceio-e-afastado-do-curso-de-delegados-em-alagoas/ "Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas")   [![ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/d/7/csm_ONG_Mundau_Dia_da_Crianca_Assessoria_0f58301f4b.jpeg)
+
+Até 15 de outubro
+
+ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças](https://www.tnh1.com.br/noticia/nid/ong-mundau-mundo-inicia-campanha-de-arrecadacao-de-brinquedos-para-o-dia-das-criancas/ "ONG Mundaú Mundo inicia campanha de arrecadação de brinquedos para o Dia das Crianças")
+
 [Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Polícia")
+
+Últimas de Polícia
+
+[Leia tudo sobre Polícia](https://www.tnh1.com.br/noticias/editoria/policia/ "Ir para Polícia")
+
+   [![Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferências bancárias](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/d/csm_operacao_vergel_ascom_pf_61d9abc69c.jpeg)
+
+Movimentações
+
+Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferências bancárias](https://www.tnh1.com.br/noticia/nid/fraude-pf-cumpre-mandado-contra-maceioense-que-recebeu-r-30-mil-em-transferencias-bancarias/ "Fraude: PF cumpre mandado contra maceioense que recebeu R$ 30 mil em transferências bancárias")   [![Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/1/b/csm_apreensao_arma_adolescente_roubo_posto_-_arapiraca_856c5c458c.jpeg)
+
+Parado por populares
+
+Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca](https://www.tnh1.com.br/noticia/nid/adolescente-tenta-roubar-posto-de-combustivel-mas-e-imobilizado-e-apreendido-em-arapiraca/ "Adolescente tenta roubar posto de combustível, mas é imobilizado e apreendido em Arapiraca")   [![Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/0/csm_atentado_feitosa_reproducao_foto_1_88d837da6c.png)
+
+Em investigação
+
+Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos](https://www.tnh1.com.br/noticia/nid/cenas-fortes-imagens-mostram-atentado-no-feitosa-autores-do-crime-tambem-foram-mortos/ "Cenas fortes: imagens mostram atentado no Feitosa; autores do crime também foram mortos")   [![Suspeito de tentar matar jovem após acidente de trânsito é preso em Penedo ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/a/9/csm_prisao_penedo_69aece615e.jpeg)
+
+Polícia
+
+Suspeito de tentar matar jovem após acidente de trânsito é preso em Penedo](https://www.tnh1.com.br/noticia/nid/suspeito-de-tentar-matar-jovem-apos-acidente-de-transito-e-preso-em-penedo/ "Suspeito de tentar matar jovem após acidente de trânsito é preso em Penedo ")   [![Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/a/6/csm_nova_central_de_flagrantes_ascom_pc-al_d686586caa.jpeg)
+
+Na Serraria
+
+Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante](https://www.tnh1.com.br/noticia/nid/motorista-invade-contramao-bate-em-viatura-da-pm-e-e-preso-por-embriaguez-ao-volante/ "Motorista invade contramão, bate em viatura da PM e é preso por embriaguez ao volante")   [![Dupla mata homem, deixa mulher grávida ferida e é assassinada por outros atiradores na hora da fuga](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/f/3/csm_atentado-homem-gravida-feitosa_c132f3093b.jpg)
+
+No Feitosa
+
+Dupla mata homem, deixa mulher grávida ferida e é assassinada por outros atiradores na hora da fuga](https://www.tnh1.com.br/noticia/nid/dupla-mata-homem-deixa-mulher-gravida-ferida-e-e-assassinada-por-outros-atiradores-na-hora-da-fuga/ "Dupla mata homem, deixa mulher grávida ferida e é assassinada por outros atiradores na hora da fuga")
 
 [Blogs](https://www.tnh1.com.br/blogs/ "Blogs")
 
@@ -25,6 +115,16 @@
 [TV](https://www.tnh1.com.br/videos/ "TV ")
 
 [Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Pessoas&Negócios")
+
+Últimas de Pessoas&Negócios
+
+[Leia tudo sobre Pessoas&Negócios](https://www.tnh1.com.br/a-lideranca-que-voce-escolheu/noticias/editoria/pessoas-negocios/ "Ir para Pessoas&Negócios")
+
+   [![Duck Comunicação celebra 26 anos ](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/9/csm_duck_c1f5136071.jpg)
+
+Pessoas & Negócios
+
+Duck Comunicação celebra 26 anos](https://www.tnh1.com.br/noticia/nid/duck-comunicacao-celebra-26-anos/ "Duck Comunicação celebra 26 anos ")
 
 [Pajuçara.com](https://pajucara.tnh1.com.br/ "Pajuçara.com")
 
@@ -98,15 +198,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 * [ÚLTIMAS](#ultimas "Ultimas")
 * [VÍDEOS](#videos "Videos")
 
-[![Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/1/7/csm_sexo_praia_b113de540d.png)
-
-após denúncia
-
-após denúncia
-
-Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas
-
-Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-filmado-fazendo-sexo-em-praia-de-maceio-e-afastado-do-curso-de-delegados-em-alagoas/ "Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas")[![Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/c/csm_mulher-engana-justica-reproducao_6677dd306c.png)
+[![Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/f/c/csm_mulher-engana-justica-reproducao_6677dd306c.png)
 
 plano quase perfeito
 
@@ -114,7 +206,15 @@ plano quase perfeito
 
 Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada
 
-Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada](https://www.tnh1.com.br/noticia/nid/mulher-engana-exercito-por-33-anos-recebe-mais-de-r-3-milhoes-e-acaba-condenada/ "Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada")[![Vídeo de sexo faz árbitra e inspetor dos juízes serem suspensos; advogado levanta a tese de IA](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/3/e/csm_arbitra_Elif_Karaarslan_rep_instagram_5662388eef.jpg)
+Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada](https://www.tnh1.com.br/noticia/nid/mulher-engana-exercito-por-33-anos-recebe-mais-de-r-3-milhoes-e-acaba-condenada/ "Mulher engana Exército por 33 anos, recebe mais de R$ 3 milhões e acaba condenada")[![Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/1/7/csm_sexo_praia_b113de540d.png)
+
+após denúncia
+
+após denúncia
+
+Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas
+
+Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas](https://www.tnh1.com.br/noticia/nid/homem-filmado-fazendo-sexo-em-praia-de-maceio-e-afastado-do-curso-de-delegados-em-alagoas/ "Homem filmado fazendo sexo em praia de Maceió é afastado do curso de delegados em Alagoas")[![Vídeo de sexo faz árbitra e inspetor dos juízes serem suspensos; advogado levanta a tese de IA](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/3/e/csm_arbitra_Elif_Karaarslan_rep_instagram_5662388eef.jpg)
 
 Na Turquia
 
@@ -122,49 +222,49 @@ Na Turquia
 
 Vídeo de sexo faz árbitra e inspetor dos juízes serem suspensos; advogado levanta a tese de IA
 
-Vídeo de sexo faz árbitra e inspetor dos juízes serem suspensos; advogado levanta a tese de IA](https://www.tnh1.com.br/noticia/nid/video-de-sexo-faz-arbitra-e-inspetor-dos-juizes-serem-suspensos-advogado-levanta-a-tese-de-ia/ "Vídeo de sexo faz árbitra e inspetor dos juízes serem suspensos; advogado levanta a tese de IA")[![Garçonete admite ter abusado sexualmente de dois menores em hotel após briga com marido](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/9/a/csm_garconete-abuso-sexual-dois-adolescentes-reproducao-redes-sociais_4401917239.jpg)
+Vídeo de sexo faz árbitra e inspetor dos juízes serem suspensos; advogado levanta a tese de IA](https://www.tnh1.com.br/noticia/nid/video-de-sexo-faz-arbitra-e-inspetor-dos-juizes-serem-suspensos-advogado-levanta-a-tese-de-ia/ "Vídeo de sexo faz árbitra e inspetor dos juízes serem suspensos; advogado levanta a tese de IA")[![Vídeo: ex-funcionário invade loja com picareta e quebra 15 aparelhos de TV em Arapiraca](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/5/a/csm_homem-invade-loja-quebra-TVs-reproducao_879ebe3773.png)
 
-39 anos
+No Agreste
 
-39 anos
+No Agreste
 
-Garçonete admite ter abusado sexualmente de dois menores em hotel após briga com marido
+Vídeo: ex-funcionário invade loja com picareta e quebra 15 aparelhos de TV em Arapiraca
 
-Garçonete admite ter abusado sexualmente de dois menores em hotel após briga com marido](https://www.tnh1.com.br/noticia/nid/garconete-admite-ter-abusado-sexualmente-de-dois-menores-em-hotel-apos-briga-com-marido/ "Garçonete admite ter abusado sexualmente de dois menores em hotel após briga com marido")
+Vídeo: ex-funcionário invade loja com picareta e quebra 15 aparelhos de TV em Arapiraca](https://www.tnh1.com.br/noticia/nid/video-ex-funcionario-invade-loja-com-picareta-e-quebra-15-aparelhos-de-tv-em-arapiraca/ "Vídeo: ex-funcionário invade loja com picareta e quebra 15 aparelhos de TV em Arapiraca")
 
-[![Jogador de futebol americano é preso sob suspeita de agredir ex-namorada grávida e tentar 'espremer' feto](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/2/8/csm_colbie-young-reproducao-redes-sociais_40d3285e92.jpg)
+[![Repórter da Globo chora ao vivo após fazer cobertura do furacão Milton](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/e/4/csm_Reporter_da_Globo_chora_ao_vivo_apos_fazer_cobertura_do_furacao_Milton_-_foto_Reproducao_GloboNews_8876869d5d.jpg)
 
-foi atacada
+Raquel Krähenbühl
 
-foi atacada
+Raquel Krähenbühl
 
-Jogador de futebol americano é preso sob suspeita de agredir ex-namorada grávida e tentar 'espremer' feto
+Repórter da Globo chora ao vivo após fazer cobertura do furacão Milton
 
-Jogador de futebol americano é preso sob suspeita de agredir ex-namorada grávida e tentar 'espremer' feto](https://www.tnh1.com.br/noticia/nid/jogador-de-futebol-americano-e-preso-sob-suspeita-de-agredir-ex-namorada-gravida-e-tentar-espremer-feto/ "Jogador de futebol americano é preso sob suspeita de agredir ex-namorada grávida e tentar 'espremer' feto")[![Mulher descobre que é parente do marido após dez anos juntos e 3 filhos](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/7/7/csm_casal-descobre-parentesco-reproducao-mirror__1__2335b460b2.jpg)
+Repórter da Globo chora ao vivo após fazer cobertura do furacão Milton](https://www.tnh1.com.br/noticia/nid/reporter-da-globo-chora-ao-vivo-apos-fazer-cobertura-do-furacao-milton/ "Repórter da Globo chora ao vivo após fazer cobertura do furacão Milton")[![Com taxação de ricos, faixa de isenção do IR pode passar de R$ 5 mil](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/c/8/csm_Imposto_de_Renda_-_foto_Joedson_Alves_-_Agencia_Brasil_aba8ac316d.jpg)
 
-descoberta chocante
+Economia
 
-descoberta chocante
+Economia
 
-Mulher descobre que é parente do marido após dez anos juntos e 3 filhos
+Com taxação de ricos, faixa de isenção do IR pode passar de R$ 5 mil
 
-Mulher descobre que é parente do marido após dez anos juntos e 3 filhos](https://www.tnh1.com.br/noticia/nid/mulher-descobre-que-e-parente-do-marido-apos-dez-anos-juntos-e-3-filhos/ "Mulher descobre que é parente do marido após dez anos juntos e 3 filhos")[![Alzheimer precoce: veja sinais de alerta que podem surgir já aos 50 anos](https://tnh1-cdn1.cworks.cloud/fileadmin/_processed_/f/0/csm_elderly-man-confronting-alzheimer-disease__1__9b190b95bf.jpg)
+Com taxação de ricos, faixa de isenção do IR pode passar de R$ 5 mil](https://www.tnh1.com.br/noticia/nid/com-taxacao-de-ricos-faixa-de-isencao-do-ir-pode-passar-de-r-5-mil/ "Com taxação de ricos, faixa de isenção do IR pode passar de R$ 5 mil")[![STJD nega pedido do São Paulo para anular jogo contra o Fluminense](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/8/d/csm_Fluminense_x_Sao_Paulo_-_Brasileirao_2024_-_foto_LUCAS_MERCON__FLUMINENSE_F.C_25d6174a47.jpg)
 
-casos raros
+brasileirão
 
-casos raros
+brasileirão
 
-Alzheimer precoce: veja sinais de alerta que podem surgir já aos 50 anos
+STJD nega pedido do São Paulo para anular jogo contra o Fluminense
 
-Alzheimer precoce: veja sinais de alerta que podem surgir já aos 50 anos](https://www.tnh1.com.br/noticia/nid/alzheimer-precoce-veja-sinais-de-alerta-que-podem-surgir-ja-aos-50-anos/ "Alzheimer precoce: veja sinais de alerta que podem surgir já aos 50 anos")[![Alagoas registra aumento de quase 50% no número de transplantes de órgãos realizados este ano](https://tnh1-cdn2.cworks.cloud/fileadmin/_processed_/3/b/csm_alagoas-registra-aumento-de-quase-50-no-numero-de-transplantes-de-orgaos-realizados-este-ano_5d9d0b128f.jpg)
+STJD nega pedido do São Paulo para anular jogo contra o Fluminense](https://www.tnh1.com.br/noticia/nid/stjd-nega-pedido-do-sao-paulo-para-anular-jogo-contra-o-fluminense/ "STJD nega pedido do São Paulo para anular jogo contra o Fluminense")[![Anvisa divulga propostas de advertência para derivados do tabaco; entenda](https://tnh1-cdn3.cworks.cloud/fileadmin/_processed_/0/5/csm_cigarro_ONU_e28ee448f8.png)
 
-Saúde
+audiência pública
 
-Saúde
+audiência pública
 
-Alagoas registra aumento de quase 50% no número de transplantes de órgãos realizados este ano
+Anvisa divulga propostas de advertência para derivados do tabaco; entenda
 
-Alagoas registra aumento de quase 50% no número de transplantes de órgãos realizados este ano](https://www.tnh1.com.br/noticia/nid/alagoas-registra-aumento-de-quase-50-no-numero-de-transplantes-de-orgaos-realizados-este-ano/ "Alagoas registra aumento de quase 50% no número de transplantes de órgãos realizados este ano")
+Anvisa divulga propostas de advertência para derivados do tabaco; entenda](https://www.tnh1.com.br/noticia/nid/anvisa-divulga-propostas-de-advertencia-para-derivados-do-tabaco-entenda/ "Anvisa divulga propostas de advertência para derivados do tabaco; entenda")
 
 [](https://www.tnh1.com.br/ "TNH1 logo")
 
