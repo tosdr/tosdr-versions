@@ -162,11 +162,11 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"I ran the trial with a small group of students over three weeks before the summer holidays," she says. "I quickly saw the benefits, and signed up."
+"Spellzone really is an incredibly simple, engaging and cost effective resource - it makes a big difference to literacy levels."
 
-**King's Leadership Academy, Warrington**
+**Millthorpe School, York**
 
-[read more...](https://www.spellzone.com/pages/case-studies/kings-leadership-academy.cfm)
+[read more...](https://www.spellzone.com/pages/case-studies/millthorpe.cfm)
 
 ### Curriculum...
 
