@@ -36,6 +36,9 @@
         
         Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/)
     
+    * [![Get help studying for Microsoft tech certifications in this course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get help studying for Microsoft tech certifications in this course deal](https://www.bleepingcomputer.com/offer/deals/get-help-studying-for-microsoft-tech-certifications-in-this-course-deal/)
     * [![Ukraine arrests rogue VPN operator providing access to Runet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Ukraine arrests rogue VPN operator providing access to Runet](https://www.bleepingcomputer.com/news/legal/ukraine-arrests-rogue-vpn-operator-providing-access-to-runet/)
@@ -45,9 +48,6 @@
     * [![Marriott settles with FTC, to pay $52 million over data breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Marriott settles with FTC, to pay $52 million over data breaches](https://www.bleepingcomputer.com/news/legal/marriott-settles-with-ftc-to-pay-52-million-over-data-breaches/)
-    * [![US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](https://www.bleepingcomputer.com/news/security/us-uk-warn-of-russian-apt29-hackers-targeting-zimbra-teamcity-servers/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
