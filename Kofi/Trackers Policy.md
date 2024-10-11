@@ -44,7 +44,7 @@ We will use your personal data to assess your suitability for our available role
 
 **Note to Supporters:** Both Ko-fi and the Creators using Ko-fi process the personal information provided on Ko-fi separately and are therefore considered independent data controllers. For example, Creators using Ko-fi will have access to their Supporter email addresses and buyer shipping addresses and transaction information. If you do not wish for your information to be available to Creators on Ko-fi, please do not enter that information when using Ko-fi and do not use this service.
 
-In addition, if you don’t want us to use your personal data for any of the other reasons set out in this section, you can let us know at any time by contacting us at [data@ko-fi.com](mailto:data@ko-fi.com), and we will delete your data from our systems. However, you acknowledge this will remove our ability to provide the service to you and will not automatically remove that contact or transaction data previously made available to Creators.**‍**
+In addition, if you don’t want us to use your personal data for any of the other reasons set out in this section, you can let us know at any time by contacting us at [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection), and we will delete your data from our systems. However, you acknowledge this will remove our ability to provide the service to you and will not automatically remove that contact or transaction data previously made available to Creators.**‍**
 
 ### **3\. Disclosure of personal data to third parties**
 
@@ -109,7 +109,7 @@ If we make a sale or transfer of assets or are otherwise involved in a merger or
 
 ### **4\. International transfers of your personal data**
 
-Where personal data is shared and disclosed as set out above, these parties may be established outside the European Economic Area (“EEA”) and the United Kingdom. Whenever we transfer your personal data outside the EEA and the United Kingdom, we ensure that a similar degree of protection is afforded to it by ensuring appropriate safeguards are implemented. This may include, where appropriate, signing up to EU Standard Contractual Clauses. To keep this policy as short and easy to understand as possible, we haven’t set out the specific circumstances when each of these protection measures are used. To find out more information regarding the specific mechanism used by us when transferring your personal data outside the EEA and the United Kingdom, please contact us at data@ko-fi.com.
+Where personal data is shared and disclosed as set out above, these parties may be established outside the European Economic Area (“EEA”) and the United Kingdom. Whenever we transfer your personal data outside the EEA and the United Kingdom, we ensure that a similar degree of protection is afforded to it by ensuring appropriate safeguards are implemented. This may include, where appropriate, signing up to EU Standard Contractual Clauses. To keep this policy as short and easy to understand as possible, we haven’t set out the specific circumstances when each of these protection measures are used. To find out more information regarding the specific mechanism used by us when transferring your personal data outside the EEA and the United Kingdom, please contact us at [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection).
 
 ### **5\. How long do you keep my data for?**
 
@@ -123,7 +123,7 @@ Other information related to your account will be deleted 2 years after your acc
 
 ### **6\. Marketing**
 
-We may send you marketing messages from time to time in accordance with your marketing preferences. You can ask us to stop sending you marketing messages at any time by following the opt-out links in any message sent to you or by contacting us at [data@ko-fi.com](mailto:data@ko-fi.com). 
+We may send you marketing messages from time to time in accordance with your marketing preferences. You can ask us to stop sending you marketing messages at any time by following the opt-out links in any message sent to you or by contacting us at [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection). 
 
 Please note that opting out of marketing does not opt you out of receiving important business communications, such as service announcements or security information. If you opted-in to our marketing messages, we rely on our consent to contact you. Otherwise, we rely on our legitimate interests to promote our business when reaching out to our Creators and Supporters who are likely to be interested in hearing from us.**‍**
 
@@ -139,7 +139,7 @@ You may exercise certain rights regarding your data, such as the following:
 * **The right to data portability.** You have the right under certain circumstances to be provided with a copy of the personal data we have on you in a structured, machine-readable and commonly used format and for us to transfer it to a third party.
 * **The right to withdraw consent.** You have the right to withdraw consent to our processing of your personal data where we have collected and processed it with your consent. 
 
-Any requests to exercise these rights can be done by emailing [data@ko-fi.com](mailto:data@ko-fi.com). These requests can be exercised free of charge and will be addressed as early as possible and always within one month.
+Any requests to exercise these rights can be done by emailing [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection). These requests can be exercised free of charge and will be addressed as early as possible and always within one month.
 
 You also have the right to make a complaint to your supervisory authority. In the UK, this is the Information Commissioner’s Office (www.ico.org.uk).**‍**
 
@@ -193,7 +193,7 @@ If we change our Privacy Policy, we will post the changes on this page. If we de
 
 ### **1.Introduction**
 
-This is our privacy policy. It tells you how we collect and process data received from you on our site [www.ko-fi.com](http://www.ko-fi.com/) - Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. If you have any comments on this privacy policy, please email them to [**data@ko-fi.com**](mailto:data@ko-fi.com)**.**
+This is our privacy policy. It tells you how we collect and process data received from you on our site [www.ko-fi.com](http://www.ko-fi.com/) - Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. If you have any comments on this privacy policy, please email them to [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection)**.**
 
 Ko-fi is not a payment processor, Ko-fi facilitates payments directly between users of the platform via third party payment providers such as PayPal and Stripe. Before creating an account or making a payment please take a moment to read the privacy policies of these payment providers:
 
@@ -226,7 +226,7 @@ Ko-fi facilitates a direct relationship between Creators and Supporters (Support
 * Our company name is **Ko-fi Labs Limited**
 * Our company number is **11087704**
 * Our registered address is **PO Box 501, The Nexus Building, Broadway, Letchworth Garden City, Hertfordshire, SG6 3TA**
-* Our nominated representative can be contacted at [**data@ko-fi.com**](mailto:data@ko-fi.com)
+* Our nominated representative can be contacted at [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection)
 
   
 
@@ -309,7 +309,7 @@ If you don't want to be contacted for marketing purposes, please adjust your [no
 
 **Please also note:** We don't identify individuals to our advertisers, but we may give them aggregate information to help them reach their target audience, and we may use information we have collected to display advertisements to that audience.
 
-In addition, if you don’t want us to use your personal data for any of the other reasons set out in this section in 5, you can let us know at any time by contacting us at [data@ko-fi.com](mailto:data@ko-fi.com), and we will delete your data from our systems. However, you acknowledge this will remove our ability to provide the service to you and will not automatically remove that contact or transaction data previously made available to Creators.
+In addition, if you don’t want us to use your personal data for any of the other reasons set out in this section in 5, you can let us know at any time by contacting us at [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection), and we will delete your data from our systems. However, you acknowledge this will remove our ability to provide the service to you and will not automatically remove that contact or transaction data previously made available to Creators.
 
 > **In a Nutshell**  
 > We use the data we collect to provide the service to you and occasionally we may show relevant advertising
@@ -366,7 +366,7 @@ You should only add a Supporter to your email or physical mailing list or otherw
 
 ### **8.Your rights**
 
-You can ask us not to use your data for marketing. You can do this by updating your [notification settings](https://ko-fi.com/Manage/notifications) or by contacting us at any time at [data@ko-fi.com](mailto:data@ko-fi.com)
+You can ask us not to use your data for marketing. You can do this by updating your [notification settings](https://ko-fi.com/Manage/notifications) or by contacting us at any time at [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection)
 
 Under the GDPR, you have the right to:
 
@@ -376,7 +376,7 @@ Under the GDPR, you have the right to:
 * to object to the processing of your personal data; and
 * complain to a supervisory authority.
 
-To enforce any of the foregoing rights or if you have any other questions about our site or this Privacy Policy, please contact us at [data@ko-fi.com](mailto:data@ko-fi.com).
+To enforce any of the foregoing rights or if you have any other questions about our site or this Privacy Policy, please contact us at [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection).
 
 > **In a Nutshell**  
 > You can opt-out of receiving marketing in your notification preferences or ask us anything about the data we hold about you.
