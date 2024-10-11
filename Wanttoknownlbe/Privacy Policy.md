@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/de-pax-judeica-in-overdrive/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/spread-the-word/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
