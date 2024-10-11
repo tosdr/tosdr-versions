@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Trust
+
+### ‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders](https://www.csmonitor.com/World/Middle-East/2024/1010/israel-hezbollah-war-lebanon-iran "‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders")
+
 [Forgiveness
 
 ### Historic grievances, new friends](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1010/Historic-grievances-new-friends "Historic grievances, new friends")
@@ -99,10 +103,6 @@ Recent Stories
 [Joy
 
 ### With heirloom seed swaps, gardeners grow community – and biodiversity](https://www.csmonitor.com/Environment/2024/1010/heirloom-seed-swaps-gardening-biodiversity "With heirloom seed swaps, gardeners grow community – and biodiversity")
-
-[Equality
-
-### The Philippines has held out on legalizing divorce. Is it set to call it quits?](https://www.csmonitor.com/World/Asia-Pacific/2024/1009/The-Philippines-has-held-out-on-legalizing-divorce.-Is-it-set-to-call-it-quits "The Philippines has held out on legalizing divorce. Is it set to call it quits?")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -140,11 +140,11 @@ More
 
 Monitor Daily
 
-October 09, 2024
+October 10, 2024
 
-Picking the ‘true’ past
+Keeping the world in view
 
-History gets recorded in layers. Good journalism provides an unadorned capture of events in real time. New facts bring reflection and reconsideration.What about revision that’s aimed at changing modern-day perceptions? That question is central in Howard LaFranchi’s story today from Buenos Aires, Argentina, where debate around a detention center turned museum stirs something deep.Argentina was practically defined by brutal state-led terror from the mid-1970s to early 1980s. Think dissidents being thrown from airplanes. The country also modeled the healing work of delivering accountability. Is Argentina’s narrative now being given added nuance, or is it facing an assault on truth?
+There are times when the news cycle delivers more than most readers can mentally accommodate. We’re in one of those now. A pair of preelection hurricanes has many Americans focused on loss of life, property, and perhaps easy access to voting. A widening war in the Middle East has caring people everywhere concerned about those in its crossfire. In his Patterns column today, Ned Temko performs his usual role as master of the step-back. (He joined our podcast in 2022 to talk about making sense of the world.) Today, Ned explains why an almost “forgotten war” in Ukraine merits a slice of the world’s attention again now. He’s worth making room for.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### ‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders](https://www.csmonitor.com/World/Middle-East/2024/1010/israel-hezbollah-war-lebanon-iran "‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders")
+
 [### Will the West really back Ukraine ‘for as long as it takes’?](https://www.csmonitor.com/World/Europe/2024/1010/Ukraine-Zelenskyy-allies-weapons "Will the West really back Ukraine ‘for as long as it takes’?")
 
 [### The Philippines has held out on legalizing divorce. Is it set to call it quits?](https://www.csmonitor.com/World/Asia-Pacific/2024/1009/The-Philippines-has-held-out-on-legalizing-divorce.-Is-it-set-to-call-it-quits "The Philippines has held out on legalizing divorce. Is it set to call it quits?")
-
-[### Reframing a dictatorship: Argentine human rights museum under fire](https://www.csmonitor.com/World/Americas/2024/1009/Argentina-Milei-dictatorship-populist-human-rights "Reframing a dictatorship: Argentine human rights museum under fire")
 
 * * *
 
