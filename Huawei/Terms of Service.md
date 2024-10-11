@@ -269,7 +269,6 @@ SUPPORT
 ABOUT HUAWEI
 
 * [About Us](https://consumer.huawei.com/en/about-us/ "About Us")
-* [News](https://consumer.huawei.com/en/press/news/ "News")
 * [Events](https://consumer.huawei.com/en/press/events/ "Events")
 * [Sustainability](https://consumer.huawei.com/en/sustainability/ "Sustainability")
 * [Privacy](https://consumer.huawei.com/en/privacy/ "Privacy")
