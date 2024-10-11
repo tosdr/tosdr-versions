@@ -190,13 +190,26 @@
 
 Subscribe
 
-[#### Eye Health](https://www.healthline.com/eye-health)
+[#### Nutrition](https://www.healthline.com/nutrition)
 
-* [Eye Care](https://www.healthline.com/eye-health/eye-care)
-* [Macular Degeneration](https://www.healthline.com/eye-health/treating-macular-degeneration)
-* [Dry Eye Syndrome](https://www.healthline.com/eye-health/treating-dry-eye-syndrome)
-* [What to Eat](https://www.healthline.com/eye-health/nutrition-supplements)
-* [Blindness](https://www.healthline.com/eye-health/navigating-blindness)
+* Meal Kits
+    
+    * [Overview](https://www.healthline.com/nutrition/meal-kits)
+    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
+    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
+    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
+    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
+    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
+    
+* [Special Diets](https://www.healthline.com/nutrition/diets)
+* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
+* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
+* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
+* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
+* [Products](https://www.healthline.com/reviews/nutrition-products)
+* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
+* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
+* [Weight Management](https://www.healthline.com/nutrition/weight-management)
 
 Ad & Sponsorship Policy
 =======================
