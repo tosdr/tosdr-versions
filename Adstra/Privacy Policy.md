@@ -2,7 +2,9 @@
 
 [Skip to content](#content)
 
-[![](https://adstradata.com/wp-content/uploads/2023/10/adstra-logo-watermark-horizontal-4.webp)](https://adstradata.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20124'%3E%3C/svg%3E)
+
+![](https://adstradata.com/wp-content/uploads/2023/10/adstra-logo-watermark-horizontal-4.gif)](https://adstradata.com/)
 
 * [Home](https://adstradata.com/)
 * [Segments](#)
@@ -281,7 +283,7 @@ YOU AGREE THAT OUR LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMI
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20754'%3E%3C/svg%3E)
 
-![](https://adstradata.com/wp-content/uploads/2020/05/adstra-logo-watermark-square-purple.webp)
+![](https://adstradata.com/wp-content/uploads/2020/05/adstra-logo-watermark-square-purple.gif)
 
 Adstra Headquarters
 
@@ -309,7 +311,7 @@ Copyright © year Adstra all rights reserved
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20682'%3E%3C/svg%3E)
 
-![](https://adstradata.com/wp-content/uploads/2020/05/English_Adstra_LLC_US_English_2024_Certification_Badge.webp)
+![](https://adstradata.com/wp-content/uploads/2020/05/English_Adstra_LLC_US_English_2024_Certification_Badge.gif)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20382%20382'%3E%3C/svg%3E)
 
