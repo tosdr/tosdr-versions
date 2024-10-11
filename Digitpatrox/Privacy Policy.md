@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Thursday, October 10 2024
+Friday, October 11 2024
 
 Latest
 
-* [Target’s ‘Circle Week’ Sale Is Still Going After October Prime Day](https://digitpatrox.com/targets-circle-week-sale-is-still-going-after-october-prime-day/)
-* [Is It Safe to Use ChatGPT?](https://digitpatrox.com/is-it-safe-to-use-chatgpt/)
-* [Windows 11 22H2 reached end of support on October 8, 2024](https://digitpatrox.com/windows-11-22h2-reached-end-of-support-on-october-8-2024/)
-* [Most and Least Reliable Boilers of 2024](https://digitpatrox.com/most-and-least-reliable-boilers-of-2024/)
-* [The Best Google Pixel 8a Cases of 2024](https://digitpatrox.com/the-best-google-pixel-8a-cases-of-2024/)
-* [Shared fate vs shared responsibility: What’s the difference and how can your business benefit?](https://digitpatrox.com/shared-fate-vs-shared-responsibility-whats-the-difference-and-how-can-your-business-benefit/)
-* [Only a Quarter of Cybersecurity Professionals are Women](https://digitpatrox.com/only-a-quarter-of-cybersecurity-professionals-are-women/)
-* [Hurry! These 5 home gadgets are even cheaper than their Prime Day prices](https://digitpatrox.com/hurry-these-5-home-gadgets-are-even-cheaper-than-their-prime-day-prices/)
-* [Fidelity Investments says data breach affects over 77,000 people](https://digitpatrox.com/fidelity-investments-says-data-breach-affects-over-77000-people/)
-* [How to customize your iPhone’s app icons](https://digitpatrox.com/how-to-customize-your-iphones-app-icons/)
+* [AMD just made a big statement in the AI PC race with its Ryzen AI Pro 300 series processors](https://digitpatrox.com/amd-just-made-a-big-statement-in-the-ai-pc-race-with-its-ryzen-ai-pro-300-series-processors/)
+* [This privacy and compliance threat throws shade at iPhone Mirroring – Computerworld](https://digitpatrox.com/this-privacy-and-compliance-threat-throws-shade-at-iphone-mirroring-computerworld/)
+* [Don’t Miss This Tax Deadline If You Filed for an Extension](https://digitpatrox.com/dont-miss-this-tax-deadline-if-you-filed-for-an-extension/)
+* [How to create bootable Windows 11 24H2 USB install media](https://digitpatrox.com/how-to-create-bootable-windows-11-24h2-usb-install-media/)
+* [Why Baby Walkers Are Unsafe](https://digitpatrox.com/why-baby-walkers-are-unsafe/)
+* [Why Is My 5G Connection So Slow?](https://digitpatrox.com/why-is-my-5g-connection-so-slow/)
+* [DoJ mulls potential Google services breakup in monopoly lawsuit – what happens next?](https://digitpatrox.com/doj-mulls-potential-google-services-breakup-in-monopoly-lawsuit-what-happens-next/)
+* [11 Marketing Budget Templates That Cost Nothing](https://digitpatrox.com/11-marketing-budget-templates-that-cost-nothing/)
+* [I’ve been tracking Prime Day deals for 10 years — here’s the sales you can still get that I’d buy with my own money](https://digitpatrox.com/ive-been-tracking-prime-day-deals-for-10-years-heres-the-sales-you-can-still-get-that-id-buy-with-my-own-money/)
+* [Akira and Fog ransomware now exploit critical Veeam RCE flaw](https://digitpatrox.com/akira-and-fog-ransomware-now-exploit-critical-veeam-rce-flaw/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01J80XWD0Y6E9JF228XBNC0S0M/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/targets-circle-week-sale-is-still-going-after-october-prime-day/)
+* [![](https://cdn.mos.cms.futurecdn.net/GuACKTjScnqAJf6ecpKjAK-1200-80.jpg)](https://digitpatrox.com/amd-just-made-a-big-statement-in-the-ai-pc-race-with-its-ryzen-ai-pro-300-series-processors/)
     
-    [Target’s ‘Circle Week’ Sale Is Still Going After October Prime Day](https://digitpatrox.com/targets-circle-week-sale-is-still-going-after-october-prime-day/)
+    [AMD just made a big statement in the AI PC race with its Ryzen AI Pro 300 series processors](https://digitpatrox.com/amd-just-made-a-big-statement-in-the-ai-pc-race-with-its-ryzen-ai-pro-300-series-processors/)
     
-    8 mins ago
+    3 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Is-It-Safe-to-Use-ChatGPT_.jpg)](https://digitpatrox.com/is-it-safe-to-use-chatgpt/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3557477-0-60993900-1728574785-Apple-macOS-Sequoia-iPhone-Mirroring.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/this-privacy-and-compliance-threat-throws-shade-at-iphone-mirroring-computerworld/)
     
-    [Is It Safe to Use ChatGPT?](https://digitpatrox.com/is-it-safe-to-use-chatgpt/)
+    [This privacy and compliance threat throws shade at iPhone Mirroring – Computerworld](https://digitpatrox.com/this-privacy-and-compliance-threat-throws-shade-at-iphone-mirroring-computerworld/)
     
-    17 mins ago
+    25 mins ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/10/windows-11-22h2-end-support-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-22h2-reached-end-of-support-on-october-8-2024/)
+* [![](https://lifehacker.com/imagery/articles/01J9W18RWB0DNG7C5F2YKFE8MJ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/dont-miss-this-tax-deadline-if-you-filed-for-an-extension/)
     
-    [Windows 11 22H2 reached end of support on October 8, 2024](https://digitpatrox.com/windows-11-22h2-reached-end-of-support-on-october-8-2024/)
+    [Don’t Miss This Tax Deadline If You Filed for an Extension](https://digitpatrox.com/dont-miss-this-tax-deadline-if-you-filed-for-an-extension/)
     
-    30 mins ago
+    52 mins ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1700072396/prod/content/dam/CRO-Images-2023/11November/Home/CR-Home-Inlinehero-reliable-boilers-1123)](https://digitpatrox.com/most-and-least-reliable-boilers-of-2024/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/06/windows-11-24h2-create-usb-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-create-bootable-windows-11-24h2-usb-install-media/)
     
-    [Most and Least Reliable Boilers of 2024](https://digitpatrox.com/most-and-least-reliable-boilers-of-2024/)
+    [How to create bootable Windows 11 24H2 USB install media](https://digitpatrox.com/how-to-create-bootable-windows-11-24h2-usb-install-media/)
     
-    39 mins ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53714738791_c0d477c078_o.jpg)](https://digitpatrox.com/the-best-google-pixel-8a-cases-of-2024/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727462833/prod/content/dam/CRO-Images-2024/Babies/CR-Babies-InlineHero-Baby-Walkers-Have-Caused-Injuries-and-Deaths-0924)](https://digitpatrox.com/why-baby-walkers-are-unsafe/)
     
-    [The Best Google Pixel 8a Cases of 2024](https://digitpatrox.com/the-best-google-pixel-8a-cases-of-2024/)
+    [Why Baby Walkers Are Unsafe](https://digitpatrox.com/why-baby-walkers-are-unsafe/)
     
-    42 mins ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [8 mins ago
+* [3 mins ago
     
-    ### Target’s ‘Circle Week’ Sale Is Still Going After October Prime Day](https://digitpatrox.com/targets-circle-week-sale-is-still-going-after-october-prime-day/)
-* [17 mins ago
+    ### AMD just made a big statement in the AI PC race with its Ryzen AI Pro 300 series processors](https://digitpatrox.com/amd-just-made-a-big-statement-in-the-ai-pc-race-with-its-ryzen-ai-pro-300-series-processors/)
+* [25 mins ago
     
-    ### Is It Safe to Use ChatGPT?](https://digitpatrox.com/is-it-safe-to-use-chatgpt/)
-* [30 mins ago
+    ### This privacy and compliance threat throws shade at iPhone Mirroring – Computerworld](https://digitpatrox.com/this-privacy-and-compliance-threat-throws-shade-at-iphone-mirroring-computerworld/)
+* [52 mins ago
     
-    ### Windows 11 22H2 reached end of support on October 8, 2024](https://digitpatrox.com/windows-11-22h2-reached-end-of-support-on-october-8-2024/)
+    ### Don’t Miss This Tax Deadline If You Filed for an Extension](https://digitpatrox.com/dont-miss-this-tax-deadline-if-you-filed-for-an-extension/)
 
 Most Popular Topics
 
-* [4 weeks ago
+* [3 weeks ago
     
-    ### iPhone 16, Apple Watch 10, and AirPods 4 Preview](https://digitpatrox.com/iphone-16-apple-watch-10-and-airpods-4-preview/)
-* [September 4, 2024
+    ### 3 Reasons I’m Waiting for the Galaxy S25 Ultra](https://digitpatrox.com/3-reasons-im-waiting-for-the-galaxy-s25-ultra/)
+* [2 days ago
     
-    ### Microsoft Store Not Opening on Windows 11? 8 Ways to Fix It](https://digitpatrox.com/microsoft-store-not-opening-on-windows-11-8-ways-to-fix-it/)
-* [September 7, 2024
+    ### Best Tech Deals for Work](https://digitpatrox.com/best-tech-deals-for-work/)
+* [August 29, 2024
     
-    ### You Can Get Microsoft Project Pro 2021 on Sale for $20 Right Now](https://digitpatrox.com/you-can-get-microsoft-project-pro-2021-on-sale-for-20-right-now/)
+    ### How to enable Preload Page to speed up web browsing in Google Chrome](https://digitpatrox.com/how-to-enable-preload-page-to-speed-up-web-browsing-in-google-chrome/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Only a Quarter of Cybersecurity Professionals are Women](https://digitpatrox.com/only-a-quarter-of-cybersecurity-professionals-are-women/)
+    ### DoJ mulls potential Google services breakup in monopoly lawsuit – what happens next?](https://digitpatrox.com/doj-mulls-potential-google-services-breakup-in-monopoly-lawsuit-what-happens-next/)
 * [2 hours ago
     
-    ### Hurry! These 5 home gadgets are even cheaper than their Prime Day prices](https://digitpatrox.com/hurry-these-5-home-gadgets-are-even-cheaper-than-their-prime-day-prices/)
-* [2 hours ago
+    ### 11 Marketing Budget Templates That Cost Nothing](https://digitpatrox.com/11-marketing-budget-templates-that-cost-nothing/)
+* [3 hours ago
     
-    ### Fidelity Investments says data breach affects over 77,000 people](https://digitpatrox.com/fidelity-investments-says-data-breach-affects-over-77000-people/)
+    ### I’ve been tracking Prime Day deals for 10 years — here’s the sales you can still get that I’d buy with my own money](https://digitpatrox.com/ive-been-tracking-prime-day-deals-for-10-years-heres-the-sales-you-can-still-get-that-id-buy-with-my-own-money/)
 
 Most Viewed Topics
 
-* [August 21, 2024
-    
-    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
