@@ -29,9 +29,9 @@
 
 "100% GDPR Compliant"
 
-"Top-Tier Support"
-
 "Privacy-Compliant Captcha"
+
+"Top-Tier Support"
 
 "Great reCaptcha Alternative"
 
@@ -92,14 +92,14 @@ Service support email information (contact detail for individuals initiating the
 **MTCaptcha may use Personal Data for providing, managing, supporting, deploying, enhancing, or improving our services, as otherwise instructed by the MTCaptcha customer or other data controller who transmitted, received, or stored the data, or in accordance with contractual requirements. MTCaptcha may also use Personal Data for other purposes for which the customer or other data controller has obtained the relevant Covered Individual’s consent.
 
 **Inquiries and complaints:  
-**If you are a Covered Individual and believe that MTCaptcha maintains your Personal Data within the scope of our EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, or Swiss-U.S. DPF certifications, you may submit any privacy or data use concerns concerning such data by emailing support@mtcaptcha.com or by mail to: Sun Spray Technologies LLC **‍**2254 Mora Pl #202 Mountain View, CA 94040, USA Attention: Privacy  
+**If you are a Covered Individual and believe that MTCaptcha maintains your Personal Data within the scope of our EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, or Swiss-U.S. DPF certifications, you may submit any privacy or data use concerns concerning such data by emailing [\[email protected\]](https://www.mtcaptcha.com/cdn-cgi/l/email-protection) or by mail to: Sun Spray Technologies LLC **‍**2254 Mora Pl #202 Mountain View, CA 94040, USA Attention: Privacy  
 MTCaptcha will respond within 45 days of receiving the communication. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution)If neither MTCaptcha nor our U.S.-based third party dispute resolution provider resolves your complaint, you may have the possibility to engage in binding arbitration as provided under the Data Privacy Framework Program (See Data Privacy Framework website).
 
 **Third parties who may receive Personal Data:  
 **MTCaptcha may disclose Personal Data to its affiliates, as well as to a limited number of third-party business partners, service providers, vendors, suppliers and other contractors (collectively, "Service Providers") for the purpose of assisting us in providing, managing, deploying, enhancing, or improving our services. MTCaptcha maintains contracts with these MTCaptcha affiliates and Service Providers restricting their access, use and disclosure of Personal Data in compliance with our Data Privacy Framework obligations, and MTCaptcha may be liable if such parties fail to meet those obligations and we are responsible for the event giving rise to the damage. We also may share or disclose Personal Data to the extent that the customer or other data controller has obtained the relevant Covered Individual's consent.
 
 **Your rights to access, to limit use, and to limit disclosure:  
-**Covered Individuals have rights to access their stored Personal Data and to limit its use and disclosure. With our Data Privacy Framework certification, MTCaptcha has committed to respect those rights. If you are an Covered Individual and you wish to request access to or to limit use or disclosure of your Personal Data, please contact us by email to [support@mtcaptcha.com](mailto:support@mtcaptcha.com) or by mail to: Sun Spray Technologies LLC **‍**2254 Mora Pl #202 Mountain View, CA 94040, USA Attention: Privacy
+**Covered Individuals have rights to access their stored Personal Data and to limit its use and disclosure. With our Data Privacy Framework certification, MTCaptcha has committed to respect those rights. If you are an Covered Individual and you wish to request access to or to limit use or disclosure of your Personal Data, please contact us by email to [\[email protected\]](https://www.mtcaptcha.com/cdn-cgi/l/email-protection) or by mail to: Sun Spray Technologies LLC **‍**2254 Mora Pl #202 Mountain View, CA 94040, USA Attention: Privacy
 
 ‍**U.S. Federal Trade Commission enforcement:  
 **MTCaptcha’s commitments under the Data Privacy Framework are subject to the investigatory and enforcement powers of the United States Federal Trade Commission or the applicable United States authorized statutory body.
@@ -262,7 +262,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-* By email: [info@mtcaptcha.com](mailto:info@mtcaptcha.com)
+* By email: [\[email protected\]](https://www.mtcaptcha.com/cdn-cgi/l/email-protection)
 * By visiting this page on our website: [https://www.mtcaptcha.com/contact](https://www.mtcaptcha.com/contact)
 
 GDPR Compliant Captcha for the Enterprise  
