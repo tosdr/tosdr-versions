@@ -74,7 +74,7 @@ Vous êtes des milliers d’abonnés à apporter vos commentaires sur le Figaro.
 
 ‍
 
-* Les internautes qui **estiment avoir été modérés à tort à plusieurs reprises** écrivent à [moderation@lefigaro.fr](mailto:moderation@lefigaro.fr?subject=moderation%40lefigaro.fr) en envoyant un corpus de commentaires - ils évitent d’en parler dans les commentaires pour ne pas faire dériver la conversation.
+* Les internautes qui **estiment avoir été modérés à tort à plusieurs reprises** écrivent à [\[email protected\]](https://mentions-legales.lefigaro.fr/cdn-cgi/l/email-protection) en envoyant un corpus de commentaires - ils évitent d’en parler dans les commentaires pour ne pas faire dériver la conversation.
 
 ‍
 
