@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/WTOL/images/a7031c63-aabe-4179-b347-0ce822388017/a7031c63-aabe-4179-b347-0ce822388017_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/a7031c63-aabe-4179-b347-0ce822388017/a7031c63-aabe-4179-b347-0ce822388017_360x203.jpg)](https://www.kagstv.com/article/news/crime/juvenile-student-arrested-for-threatening-to-bring-a-gun-to-sam-rayburn-intermediate-school-in-bryan-tx-oct-10-2024/500-c408000e-4b5c-4bb3-8555-211079056bf4)
+    *  [![](https://media.kagstv.com/assets/KYTX/images/604fe8d9-c17a-4139-b410-5b520486b4df/20241011T014825/604fe8d9-c17a-4139-b410-5b520486b4df_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/604fe8d9-c17a-4139-b410-5b520486b4df/20241011T014825/604fe8d9-c17a-4139-b410-5b520486b4df_360x203.jpg)](https://www.kagstv.com/article/news/local/east-texas-golf-course-lets-you-hit-golf-balls-at-donald-trump-kamala-harris/501-37f8cc74-4c5d-4f6b-a781-e39f947197d3)
         
-        #### [Student arrested for threatening to bring a gun to Bryan ISD school](https://www.kagstv.com/article/news/crime/juvenile-student-arrested-for-threatening-to-bring-a-gun-to-sam-rayburn-intermediate-school-in-bryan-tx-oct-10-2024/500-c408000e-4b5c-4bb3-8555-211079056bf4)
+        #### [FORE! East Texas golf course lets people hit golf balls at Donald Trump, Kamala Harris](https://www.kagstv.com/article/news/local/east-texas-golf-course-lets-you-hit-golf-balls-at-donald-trump-kamala-harris/501-37f8cc74-4c5d-4f6b-a781-e39f947197d3)
         
-    *  [![](https://media.kagstv.com/assets/KIII/images/94897892-4cc1-46a4-a816-de3a86f9d5ba/20241010T033802/94897892-4cc1-46a4-a816-de3a86f9d5ba_16x9.jpg) ![](https://media.kagstv.com/assets/KIII/images/94897892-4cc1-46a4-a816-de3a86f9d5ba/20241010T033802/94897892-4cc1-46a4-a816-de3a86f9d5ba_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-am-forest-service-raises-wildfire-preparedness-level/503-86a97a04-92b9-4221-9d13-3292cf50162f)
+    *  [![](https://media.kagstv.com/assets/KYTX/images/a77f2dd4-58d2-4379-86a1-921ebaf93bee/a77f2dd4-58d2-4379-86a1-921ebaf93bee_16x9.jpg) ![](https://media.kagstv.com/assets/KYTX/images/a77f2dd4-58d2-4379-86a1-921ebaf93bee/a77f2dd4-58d2-4379-86a1-921ebaf93bee_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-one-pill-kills-campaign-generates-over-billion-impressions/501-b879fd79-3c11-49ea-aac8-0499954e57bf)
         
-        #### [Texas A&M Forest Service raises Wildland Fire Preparedness Level as rural counties see busy days fighting fires](https://www.kagstv.com/article/news/local/texas-am-forest-service-raises-wildfire-preparedness-level/503-86a97a04-92b9-4221-9d13-3292cf50162f)
+        #### [Texas' "One Pill Kills" campaign generates over 1.5 billion impressions](https://www.kagstv.com/article/news/local/texas-one-pill-kills-campaign-generates-over-billion-impressions/501-b879fd79-3c11-49ea-aac8-0499954e57bf)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-77°
+65°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
