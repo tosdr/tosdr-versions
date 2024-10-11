@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f0702a4b-d08f-48de-8266-72b4a5ea13ac/20241010T155955/f0702a4b-d08f-48de-8266-72b4a5ea13ac_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f0702a4b-d08f-48de-8266-72b4a5ea13ac/20241010T155955/f0702a4b-d08f-48de-8266-72b4a5ea13ac_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/kraft-heinz-davenport-evacuation-thursday-morning-chemical-leak/526-1509eeed-43b1-47c5-be5b-6393def679b5)
+        
+        #### [Kraft Heinz in Davenport evacuated Thursday morning due to chemical leak](https://www.wqad.com/article/news/local/public-safety/kraft-heinz-davenport-evacuation-thursday-morning-chemical-leak/526-1509eeed-43b1-47c5-be5b-6393def679b5)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/c992a443-813e-4b77-86cb-76c87314b04b/20241011T012834/c992a443-813e-4b77-86cb-76c87314b04b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c992a443-813e-4b77-86cb-76c87314b04b/20241011T012834/c992a443-813e-4b77-86cb-76c87314b04b_360x203.jpg)](https://www.wqad.com/article/news/community/rock-island-families-celebrate-halloween-holey-stumpkins-event/526-8927311e-3c57-4cf4-8e79-35f04b471306)
         
         #### [Rock Island families celebrate Halloween with annual ‘Holey Stumpkins’ event](https://www.wqad.com/article/news/community/rock-island-families-celebrate-halloween-holey-stumpkins-event/526-8927311e-3c57-4cf4-8e79-35f04b471306)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c0103aea-8a27-4fc7-ad17-f04514db7de1/20241011T021435/c0103aea-8a27-4fc7-ad17-f04514db7de1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c0103aea-8a27-4fc7-ad17-f04514db7de1/20241011T021435/c0103aea-8a27-4fc7-ad17-f04514db7de1_360x203.jpg)](https://www.wqad.com/article/traffic/muscatine-appeal-iowa-dot-ruling-speed-cameras/526-efaf0a74-f15f-4c31-829e-3acae2ee75fc)
-        
-        #### [Muscatine to appeal Iowa DOT ruling on speed cameras](https://www.wqad.com/article/traffic/muscatine-appeal-iowa-dot-ruling-speed-cameras/526-efaf0a74-f15f-4c31-829e-3acae2ee75fc)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/422f9c45-2e1a-4b15-988b-b5bd44edd9a7/20241011T033417/422f9c45-2e1a-4b15-988b-b5bd44edd9a7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/422f9c45-2e1a-4b15-988b-b5bd44edd9a7/20241011T033417/422f9c45-2e1a-4b15-988b-b5bd44edd9a7_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/eb27a329-d1af-45fd-abda-d3140c1ee7de/20241011T112017/eb27a329-d1af-45fd-abda-d3140c1ee7de_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/eb27a329-d1af-45fd-abda-d3140c1ee7de/20241011T112017/eb27a329-d1af-45fd-abda-d3140c1ee7de_360x203.jpg)](https://www.wqad.com/article/news/nation-world/milton-cleanup-continues/507-5bf79a13-a948-449e-a899-6dfdb3fd3edd)
         
-        #### [Summer warmth approaching to end the work week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [What's next for Florida after Hurricane Milton? Many residents still don't know.](https://www.wqad.com/article/news/nation-world/milton-cleanup-continues/507-5bf79a13-a948-449e-a899-6dfdb3fd3edd)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/64ea4cf6-1850-4629-b532-0822b2daf59c/20241010T190000/64ea4cf6-1850-4629-b532-0822b2daf59c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/64ea4cf6-1850-4629-b532-0822b2daf59c/20241010T190000/64ea4cf6-1850-4629-b532-0822b2daf59c_360x203.jpg)](https://www.wqad.com/article/weather/northern-lights-visible-iowa-illinois-thursday/526-e171a5a3-43da-4e48-8784-0cc9bbe288fc)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/5952efc0-9eca-4b65-b408-8e75fec5cac9/20241011T123611/5952efc0-9eca-4b65-b408-8e75fec5cac9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5952efc0-9eca-4b65-b408-8e75fec5cac9/20241011T123611/5952efc0-9eca-4b65-b408-8e75fec5cac9_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Geomagnetic storm could bring aurora displays to Iowa, Illinois Thursday night](https://www.wqad.com/article/weather/northern-lights-visible-iowa-illinois-thursday/526-e171a5a3-43da-4e48-8784-0cc9bbe288fc)
+        #### [Near-record warm temperatures are expected Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-53°
+78°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
