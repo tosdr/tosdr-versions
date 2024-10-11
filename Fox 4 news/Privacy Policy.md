@@ -70,6 +70,7 @@ Search site
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
 * [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
+* [DZTV](https://www.fox4news.com/tag/series/dumb-zone)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
@@ -401,37 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![How North Texas has voted in recent presidential elections](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/gettyimages-97334359.jpg?ve=1&tl=1)
+ [![Video: Boat captain found clinging to cooler 30 miles off Longboat Key after surviving Hurricane Milton at sea](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-10-20h03m25s150.jpg?ve=1&tl=1)
 
- ![How North Texas has voted in recent presidential elections](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/gettyimages-97334359.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/presidential-election-history-north-texas-dallas-tarrant-denton-collin)
+ ![Video: Boat captain found clinging to cooler 30 miles off Longboat Key after surviving Hurricane Milton at sea](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-10-20h03m25s150.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/boat-captain-found-clinging-cooler-30-miles-off-longboat-key-after-surviving-hurricane-milton-sea)
 
-### [How North Texas has voted in recent presidential elections](https://www.fox4news.com/news/presidential-election-history-north-texas-dallas-tarrant-denton-collin)
+### [Video: Boat captain found clinging to cooler 30 miles off Longboat Key after surviving Hurricane Milton at sea](https://www.fox4news.com/news/boat-captain-found-clinging-cooler-30-miles-off-longboat-key-after-surviving-hurricane-milton-sea)
 
- [![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2177035540.jpg?ve=1&tl=1)
+ [![NOAA honors radar specialist by releasing his ashes into the eye of Hurricane Milton](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2176954319.jpg?ve=1&tl=1)
 
- ![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2177035540.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
+ ![NOAA honors radar specialist by releasing his ashes into the eye of Hurricane Milton](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2176954319.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/noaa-peter-dodge-hurricane-milton-final-flight)
 
-Live Now
+### [NOAA honors radar specialist by releasing his ashes into the eye of Hurricane Milton](https://www.fox4news.com/news/noaa-peter-dodge-hurricane-milton-final-flight)
 
-### [Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
+ [![Northern Lights forecast: There's a chance North Texas could see the aurora borealis tonight](https://images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/dc41c1c05817b2dc856551db2f7d325f8f430e5f8dfb46ac7fa15fc09b7147b0/iupl/237/52F/32/18/23752F87E34ECE96BE6A5E71F2C996B2.jpg?ve=1&tl=1)
 
- [![Fort Worth theology professor charged with possession of child pornography](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/charles-bellinger-tarrant-co-jail-mug.png?ve=1&tl=1)
+ ![Northern Lights forecast: There's a chance North Texas could see the aurora borealis tonight](https://images.foxtv.com/images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/dc41c1c05817b2dc856551db2f7d325f8f430e5f8dfb46ac7fa15fc09b7147b0/iupl/237/52F/32/18/592/333/23752F87E34ECE96BE6A5E71F2C996B2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/northern-lights-forecast-north-texas-october-10)
 
- ![Fort Worth theology professor charged with possession of child pornography](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/charles-bellinger-tarrant-co-jail-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-theology-professor-charged-possession-pornographic-images-toddlers)
+### [There's a chance North Texas could see the Northern Lights tonight](https://www.fox4news.com/news/northern-lights-forecast-north-texas-october-10)
 
-### [Fort Worth theology professor charged with possession of child pornography](https://www.fox4news.com/news/fort-worth-theology-professor-charged-possession-pornographic-images-toddlers)
+ [![1 killed, 12 people trapped inside Colorado gold mine after elevator malfunction](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/mollie-kathleen-gold-mine.jpg?ve=1&tl=1)
 
- [![Shots fired near Dallas school prompt lockdown](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/101024-sky-4-thursday-1250pm-kdfweme003_12_52_59_m_00.08.43.34.jpg?ve=1&tl=1)
+ ![1 killed, 12 people trapped inside Colorado gold mine after elevator malfunction](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/mollie-kathleen-gold-mine.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/more-than-10-people-trapped-inside-colorado-gold-mine-after-equipment-malfunction)
 
- ![Shots fired near Dallas school prompt lockdown](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/101024-sky-4-thursday-1250pm-kdfweme003_12_52_59_m_00.08.43.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shots-fired-near-dallas-school-prompt-lockdown)
+### [1 killed, 12 people trapped inside Colorado gold mine after elevator malfunction](https://www.fox4news.com/news/more-than-10-people-trapped-inside-colorado-gold-mine-after-equipment-malfunction)
 
-### [Shots fired near Dallas school prompt lockdown](https://www.fox4news.com/news/shots-fired-near-dallas-school-prompt-lockdown)
+ [![Sen. John Cornyn pushes for laws to protect kids online](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/s-steven-cornyn-kids-online-5p_00.00.47.34.jpg?ve=1&tl=1)
 
- [![Watch: Pilot safely lands in Dallas with landing gear problems](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/v-dallas-executive-emergency-landing_00.00.31.10.jpg?ve=1&tl=1)
+ ![Sen. John Cornyn pushes for laws to protect kids online](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/s-steven-cornyn-kids-online-5p_00.00.47.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sen-john-cornyn-kids-online-safety-bills)
 
- ![Watch: Pilot safely lands in Dallas with landing gear problems](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/v-dallas-executive-emergency-landing_00.00.31.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-executive-airport-emergency-landing)
-
-### [Watch: Pilot safely lands in Dallas with landing gear problems](https://www.fox4news.com/news/dallas-executive-airport-emergency-landing)
+### [Sen. John Cornyn pushes for laws to protect kids online](https://www.fox4news.com/news/sen-john-cornyn-kids-online-safety-bills)
 
 [![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/milton-lanfall.jpg?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
 
@@ -526,6 +525,7 @@ WATCH LIVE COVERAGE
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
 * [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
+* [DZTV](https://www.fox4news.com/tag/series/dumb-zone)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
