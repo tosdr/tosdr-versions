@@ -277,7 +277,7 @@ We use industry standard technical, administrative, and physical controls to pro
 
 ### 9\. De-Activating Your Account
 
-You can choose to deactivate your account so that you are no longer viewable on the Services. You can request deactivation through the Services or by sending a message to [privacy@ketch.com](mailto:privacy@ketch.com).  
+You can choose to deactivate your account so that you are no longer viewable on the Services. You can request deactivation through the Services or by sending a message to [\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection).  
 
 ### 10\. Third-Party Links
 
@@ -445,7 +445,7 @@ To exercise any of the above rights, please contact us using the following infor
 
 * Manage your [privacy preferences here](https://www.ketch.com/privacy-policy). (Note: we tailor your privacy preferences based on applicable law in the place where our systems believe your computer or device is currently located).  
     
-* By email at [privacy@ketch.com](mailto:privacy@ketch.com).  
+* By email at [\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection).  
     
 * By phone at [(888) 265-6736](tel:8882656736)  
     
@@ -469,7 +469,7 @@ Under Nevada law, Nevada residents may submit a request directing us not to make
   
 To exercise this right, please contact us:
 
-* By email at [privacy@ketch.com](mailto:privacy@ketch.com).  
+* By email at [\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection).  
     
 
 ### 13\. **International Data Transfers for EU, UK Swiss and Brazil Individuals**
@@ -478,15 +478,15 @@ Personal data collected through our Services will be transferred to and stored b
   
 Ketch complies with the EU-U.S. Data Privacy Framework program (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework program (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Ketch has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from theEuropean Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.  Ketch has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework program Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).   
   
-Pursuant to the Data Privacy Frameworks, EU, UK, and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under the Data Privacy Frameworks, should direct their query to [privacy@ketch.com](mailto:privacy@ketch.com). If requested to remove data, we will respond within a reasonable timeframe.   
+Pursuant to the Data Privacy Frameworks, EU, UK, and Swiss individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under the Data Privacy Frameworks, should direct their query to [\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection). If requested to remove data, we will respond within a reasonable timeframe.   
   
-We will provide an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to [privacy@ketch.com](mailto:privacy@ketch.com).    
+We will provide an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to [\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection).    
   
 In the context of an onward transfer, Ketch is responsible for the processing of personal data it receives under the DPF Principles and subsequently transfers to a third party acting as an agent on its behalf. Ketch shall remain liable under the DPF Principles if its agent processes such personal data in a manner inconsistent with the DPF Principles, unless the Ketch proves that it is not responsible for the event giving rise to the damage.   
   
 In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.   
   
-In compliance with the Data Privacy Framework Principles, Ketch commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to the DataPrivacy Frameworks. European Union, United Kingdom, and Swiss individuals with DPF inquiries or complaints should first contact Ketch by email at [privacy@ketch.com](mailto:privacy@ketch.com).    
+In compliance with the Data Privacy Framework Principles, Ketch commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to the DataPrivacy Frameworks. European Union, United Kingdom, and Swiss individuals with DPF inquiries or complaints should first contact Ketch by email at [\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection).    
   
 Ketch has further committed to refer unresolved privacy complaints under the DPF Principles to an independent dispute resolution mechanism, Data Privacy Framework Services, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://bbbprograms.org/programs/all-programs/dpf-consumers/ProcessForConsumers](https://bbbprograms.org/programs/all-programs/dpf-consumers/ProcessForConsumers) for more information and to file a complaint. This service is provided free of charge to you.  
   
@@ -541,7 +541,7 @@ As a Ketch user:
   
 In some cases, Ketch may process personal data pursuant to a legal obligation or to protect your vital interests or those of another person.  
   
-Ketch will offer EEA, UK, Brazil and Swiss individuals whose personal data has been transferred to us the opportunity to choose whether the personal data we have received may be used or disclosed for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. An individual may opt-out of such uses or disclosures of their personal data by contacting us at [privacy@ketch.com](mailto:privacy@ketch.com).  
+Ketch will offer EEA, UK, Brazil and Swiss individuals whose personal data has been transferred to us the opportunity to choose whether the personal data we have received may be used or disclosed for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. An individual may opt-out of such uses or disclosures of their personal data by contacting us at [\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection).  
 
 ### **15\. Exercising Rights, Contacting Us and Accessing Your Information**
 
@@ -549,16 +549,16 @@ Ketch users may exercise their rights regarding their personal information as fo
 
 * Manage your [privacy preferences here](https://www.ketch.com/privacy-policy). (Note: we tailor your privacy preferences based on applicable law in the place where our systems believe your computer or device is currently located).  
     
-* By email at [privacy@ketch.com](mailto:privacy@ketch.com)  
+* By email at [\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection)  
     
 * You may withdraw your consent to receive marketing or promotional communications at any time by clicking the “unsubscribe” link found within Ketch email updates and changing your contact preferences. Please note, you will continue to receive essential account-related information, even if you unsubscribe from promotional emails.  
     
 
   
-Alan Chapell is Ketch’s worldwide data protection officer; and he may be contacted at [dpo@ketch.com](mailto:dpo@ketch.com).  
+Alan Chapell is Ketch’s worldwide data protection officer; and he may be contacted at [\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection).  
 
   
-VeraSafe has been appointed as Ketch's representative in the European Union and in the United Kingdom for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. If you are unable to reach Ketch as otherwise described in this section, VeraSafe can be contacted on matters related to the processing of personal data under GDPR. To make such an inquiry, please contact VeraSafe using this contact [form](https://www.verasafe.com/privacy-services/contact-article-27-representative/) or via telephone at [+420 228 881 031](tel:+420228881031) (Netherlands) or [+44 (20) 4532 2003](mailto:+44%20(20)%204532%202003) (UK).  
+VeraSafe has been appointed as Ketch's representative in the European Union and in the United Kingdom for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. If you are unable to reach Ketch as otherwise described in this section, VeraSafe can be contacted on matters related to the processing of personal data under GDPR. To make such an inquiry, please contact VeraSafe using this contact [form](https://www.verasafe.com/privacy-services/contact-article-27-representative/) or via telephone at [+420 228 881 031](tel:+420228881031) (Netherlands) or [\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection) (UK).  
   
 Alternatively, VeraSafe can be contacted at:  
 VeraSafe Netherlands BV,  
@@ -579,11 +579,11 @@ Attn: Privacy
 23 Geary Street, Suite 600  
 San Francisco, CA 94108  
 or  
-[privacy@ketch.com](mailto:privacy@ketch.com)[‍](mailto:privacy@ketch.com)  
+[\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection)[\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection)  
 
 ### 16\. Children's Privacy
 
-We do not knowingly collect personal data about children. Our websites and systems are not designed for use by individuals under the age of 16, and in particular are not designed for children under the age of 13. If we learn we have collected or obtained personal data of someone under 13, we will delete that information from our database. If you believe that this has occurred, please contact us at [privacy@ketch.com](mailto:privacy@ketch.com).  
+We do not knowingly collect personal data about children. Our websites and systems are not designed for use by individuals under the age of 16, and in particular are not designed for children under the age of 13. If we learn we have collected or obtained personal data of someone under 13, we will delete that information from our database. If you believe that this has occurred, please contact us at [\[email protected\]](https://www.ketch.com/cdn-cgi/l/email-protection).  
 
 ![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/633a0e25a1f06f9f4368a50f_Ketch_Logo_Sign_B.svg)
 
