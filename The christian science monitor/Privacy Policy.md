@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Resilience
+
+### ‘The Last of the Sea Women’: How one director is documenting a South Korean tradition](https://www.csmonitor.com/The-Culture/TV/2024/1011/the-last-of-the-sea-women-sue-kim-south-korea "‘The Last of the Sea Women’: How one director is documenting a South Korean tradition")
+
+[Respect
+
+### ‘Sharing the human stories’: What keeps our Gazan reporter going](https://www.csmonitor.com/Podcasts/Why-We-Wrote-This/wwwt_2435 "‘Sharing the human stories’: What keeps our Gazan reporter going")
+
 [Trust
 
 ### ‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders](https://www.csmonitor.com/World/Middle-East/2024/1010/israel-hezbollah-war-lebanon-iran "‘Enough is enough’: In Israel, rationale for war trumps distrust of leaders")
-
-[Forgiveness
-
-### Historic grievances, new friends](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1010/Historic-grievances-new-friends "Historic grievances, new friends")
-
-[Joy
-
-### With heirloom seed swaps, gardeners grow community – and biodiversity](https://www.csmonitor.com/Environment/2024/1010/heirloom-seed-swaps-gardening-biodiversity "With heirloom seed swaps, gardeners grow community – and biodiversity")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
