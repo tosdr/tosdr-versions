@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
+* [Reinigungs­trend Oil Cleansing: Mit Öl gegen Make-up und Sonnen­creme](https://www.test.de/Reinigungstrend-Oil-Cleansing-Mit-Oel-gegen-Make-up-und-Sonnencreme-6133947-0/ "Reinigungstrend Oil Cleansing - Mit Öl gegen Make-up und Sonnencreme")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
+* [Reinigungs­trend Oil Cleansing: Mit Öl gegen Make-up und Sonnen­creme](https://www.test.de/Reinigungstrend-Oil-Cleansing-Mit-Oel-gegen-Make-up-und-Sonnencreme-6133947-0/ "Reinigungstrend Oil Cleansing - Mit Öl gegen Make-up und Sonnencreme")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
+* [Reinigungs­trend Oil Cleansing: Mit Öl gegen Make-up und Sonnen­creme](https://www.test.de/Reinigungstrend-Oil-Cleansing-Mit-Oel-gegen-Make-up-und-Sonnencreme-6133947-0/ "Reinigungstrend Oil Cleansing - Mit Öl gegen Make-up und Sonnencreme")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Back­ofen- und Grill­reiniger im Test: Nur Chemie reicht nicht](https://www.test.de/backofenreiniger-grillreiniger-test-6009513-0/ "Backofen- und Grillreiniger im Test - Nur Chemie reicht nicht")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
+* [Kurz­sichtig­keit bei Kindern behandeln: Teure Therapien genau abwägen](https://www.test.de/Kurzsichtigkeit-bei-Kindern-behandeln-Teure-Therapien-genau-abwaegen-6139358-0/ "Kurzsichtigkeit bei Kindern behandeln - Teure Therapien genau abwägen")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
+* [Reinigungs­trend Oil Cleansing: Mit Öl gegen Make-up und Sonnen­creme](https://www.test.de/Reinigungstrend-Oil-Cleansing-Mit-Oel-gegen-Make-up-und-Sonnencreme-6133947-0/ "Reinigungstrend Oil Cleansing - Mit Öl gegen Make-up und Sonnencreme")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
 
 Service Stiftung Warentest
 
