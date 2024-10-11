@@ -53,7 +53,7 @@ Navigation
 
 [](https://shop.mattel.com/)
 
-*   [![Holiday Pop Up Shop](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt2b42be26b55cb240/66eb29f85fcc6a11c6cd5771/holiday-logo_Mobile@2x.jpg) ![Holiday Pop Up Shop](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt03e253b9410d4765/66eb5003790a3d2a1add6873/holiday-logo@2xdesktop.png) Shop Now](https://shop.mattel.com/pages/fisher-price-gift-shop "main nav test title")
+*   [![Fisher Price Gift Shop](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt2b42be26b55cb240/66eb29f85fcc6a11c6cd5771/holiday-logo_Mobile@2x.jpg) ![Fisher Price Gift Shop](https://images.mattel.net/image/upload/w_360,c_scale/shop-contentstack/blt03e253b9410d4765/66eb5003790a3d2a1add6873/holiday-logo@2xdesktop.png) Shop Now](https://shop.mattel.com/pages/fisher-price-gift-shop "Fisher Price Gift Shop")
 * Shop
     
     [Shop All](https://shop.mattel.com/collections/shop-all)
