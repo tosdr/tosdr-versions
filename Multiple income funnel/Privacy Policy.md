@@ -83,6 +83,8 @@ Additionally, third parties who perform services for us as it relates to securit
 
 Finally, we may disclose anonymous information about user habits to third party advertisers on our Site. Should we buy or sell assets of our company, another company may need to review our company's assets, which might include your information, to make business decisions as to whether to acquire such assets.
 
+We appreciate your trust in us. Your privacy is our top priority. Rest assured that we will never share, sell, or trade your personal information, including phone numbers and SMS consent, with any third parties under any circumstances. Your data remains secure with us.
+
 **Sharing Information with the Government or As Otherwise Required by Law**
 
 We may be required by subpoena, law or government agency to disclose both Active and Passive Information you have provided to us.
