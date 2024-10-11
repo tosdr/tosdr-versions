@@ -134,7 +134,7 @@ Personal data is stored on secure data servers. Jampp will retain personal data 
 
 **7.1. You may withdraw your consent at any time. California residents: Do not Sell or Share my Personal Information.**
 
-If you are a **resident of California**, your right to opt out at any time is protected under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA). You can opt out by contacting us here [dataprivacy@jampp.com.](mailto:dataprivacy@jampp.com)
+If you are a **resident of California**, your right to opt out at any time is protected under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA). You can opt out by contacting us here [\[email protected\]](https://jampp.com/cdn-cgi/l/email-protection)
 
 If you are a resident or **citizen of the European Economic Area, the United Kingdom and Switzerland**, if you provide your consent, we will collect, use, share, and otherwise process all of the personal data described above for the purpose of serving you personalized advertising that Jampp and our partners believe are most relevant to you.
 
@@ -142,7 +142,7 @@ If you decide that you do not want a personalized advertising experience, we wil
 
 In the cases where we are acting as “Data Processor", Publisher Partners may provide a way for you to withdraw your consent directly from within a mobile platform or website. If you withdraw your consent from within a mobile platform, the Publisher will give us notice and we will no longer collect, use, share, or otherwise process personal information from that app to personalize your advertising experience.
 
-Where we act as a “Data Controller" you may opt out at any time from the use of your personal information for direct marketing purposes [**by clicking here**](https://jampp.com/contact) or by contacting us [here.](mailto:dataprivacy@jampp.com)
+Where we act as a “Data Controller" you may opt out at any time from the use of your personal information for direct marketing purposes [**by clicking here**](https://jampp.com/contact) or by contacting us [\[email protected\]](https://jampp.com/cdn-cgi/l/email-protection)
 
 Once your request is received we will process it within a reasonable time and we will also inform our Partners so that they, as independent controllers of your personal data, can also respect your choice to withdraw consent.
 
@@ -169,7 +169,7 @@ Even if you do not consent to a personalized advertising experience, or you with
 
 **7.2. You may review, correct or delete your personal information at any time**
 
-You have the right to review, correct, and delete your personal data, subject to applicable law. You may contact us [here](mailto:dataprivacy@jampp.com) with such a request at any time.
+You have the right to review, correct, and delete your personal data, subject to applicable law. You may contact us [\[email protected\]](https://jampp.com/cdn-cgi/l/email-protection) with such a request at any time.
 
 ‍
 
@@ -208,7 +208,7 @@ We also work with a number of parties (referred to in this Policy as subcontract
 
 * Jampp complies with the EU-U.S. Privacy Shield Framework and the Swiss–U.S. Privacy Shield Framework guidelines as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the EU and Switzerland to the United States, respectively.
 * For all personal data Jampp receives from the EU and Switzerland, it will adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity & Purpose Limitation, Access, and Recourse, Enforcement and Liability.
-* If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Under the Privacy Shield, Jampp may remain liable if our subcontrators process your personal data in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage. Residents of the EU or Switzerland who believe that their personal data has not been processed in compliance with the Privacy Shield Principles may raise their complaint by contacting Jampp directly at dataprivacy@jampp.com. We will respond to your complaint within 45 days of receipt.
+* If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Under the Privacy Shield, Jampp may remain liable if our subcontrators process your personal data in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage. Residents of the EU or Switzerland who believe that their personal data has not been processed in compliance with the Privacy Shield Principles may raise their complaint by contacting Jampp directly at [\[email protected\]](https://jampp.com/cdn-cgi/l/email-protection). We will respond to your complaint within 45 days of receipt.
 * We commit to refer unresolved privacy complaints under the Privacy Shield via the Better Business Bureau (“BBB”), an alternative dispute resolution provider located in the United States. If you do not receive a timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please https://www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint directly with the BBB. Further, your complaint can be made or referred to the U.S. Department of Commerce or the Federal Trade Commission for further investigation.
 * For residual disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions. To find out more about the Privacy Shield’s binding arbitration scheme, please see: [https://www.privacyshield.gov/article?id=ANNEX-I-introduction](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 * The Federal Trade Commission has investigation and enforcement authority over our compliance with the Privacy Shield.
