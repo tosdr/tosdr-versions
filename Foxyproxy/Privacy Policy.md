@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I think your service is wonderful. I used it for 2 months. The speed is unreal. Keep up the good work.
+You provide a great service.
 
-Saeed A Pandor
+James Reckhouse
