@@ -31,7 +31,7 @@ Navigation
     
     *  [![](https://media.kagstv.com/assets/WTOL/images/a7031c63-aabe-4179-b347-0ce822388017/a7031c63-aabe-4179-b347-0ce822388017_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/a7031c63-aabe-4179-b347-0ce822388017/a7031c63-aabe-4179-b347-0ce822388017_360x203.jpg)](https://www.kagstv.com/article/news/crime/juvenile-student-arrested-for-threatening-to-bring-a-gun-to-sam-rayburn-intermediate-school-in-bryan-tx-oct-10-2024/500-c408000e-4b5c-4bb3-8555-211079056bf4)
         
-        #### [Juvenile arrested for threatening to bring a gun to Bryan ISD school](https://www.kagstv.com/article/news/crime/juvenile-student-arrested-for-threatening-to-bring-a-gun-to-sam-rayburn-intermediate-school-in-bryan-tx-oct-10-2024/500-c408000e-4b5c-4bb3-8555-211079056bf4)
+        #### [Student arrested for threatening to bring a gun to Bryan ISD school](https://www.kagstv.com/article/news/crime/juvenile-student-arrested-for-threatening-to-bring-a-gun-to-sam-rayburn-intermediate-school-in-bryan-tx-oct-10-2024/500-c408000e-4b5c-4bb3-8555-211079056bf4)
         
     *  [![](https://media.kagstv.com/assets/KIII/images/94897892-4cc1-46a4-a816-de3a86f9d5ba/20241010T033802/94897892-4cc1-46a4-a816-de3a86f9d5ba_16x9.jpg) ![](https://media.kagstv.com/assets/KIII/images/94897892-4cc1-46a4-a816-de3a86f9d5ba/20241010T033802/94897892-4cc1-46a4-a816-de3a86f9d5ba_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-am-forest-service-raises-wildfire-preparedness-level/503-86a97a04-92b9-4221-9d13-3292cf50162f)
         
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-94°
+77°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
