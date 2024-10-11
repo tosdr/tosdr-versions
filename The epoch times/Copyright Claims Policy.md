@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [47 US Elections Ended in Ties or Were Decided by a Single Vote in 2024](https://www.theepochtimes.com/us/47-us-elections-ended-in-ties-or-were-decided-by-a-single-vote-in-2024-post-5738334)
+* [Nation’s Largest Generic Drug Maker to Pay $450 Million to Resolve Kickback, Price-Fixing Claims](https://www.theepochtimes.com/us/nations-largest-generic-drug-maker-to-pay-450-million-to-resolve-kickback-price-fixing-claims-5739769)
     
-    1hr By [Steven Kovac](https://www.theepochtimes.com/author/steven-kovac)
+    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![47 US Elections Ended in Ties or Were Decided by a Single Vote in 2024](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Nation’s Largest Generic Drug Maker to Pay $450 Million to Resolve Kickback, Price-Fixing Claims](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![47 US Elections Ended in Ties or Were Decided by a Single Vote in 2024](https://img.theepochtimes.com/assets/uploads/2020/11/15/recount-205x123.jpg.webp)](https://www.theepochtimes.com/us/47-us-elections-ended-in-ties-or-were-decided-by-a-single-vote-in-2024-post-5738334)
-* [Pentagon Puts Russian Casualties in Ukraine War at 600,000](https://www.theepochtimes.com/world/pentagon-puts-russian-casualties-in-ukraine-war-at-600000-post-5738794)
+    ![Nation’s Largest Generic Drug Maker to Pay $450 Million to Resolve Kickback, Price-Fixing Claims](https://img.theepochtimes.com/assets/uploads/2022/11/04/teva-copy-205x123.jpg.webp)](https://www.theepochtimes.com/us/nations-largest-generic-drug-maker-to-pay-450-million-to-resolve-kickback-price-fixing-claims-5739769)
+* [America’s Tax Gap Projected to Hit Nearly $700 Billion: IRS](https://www.theepochtimes.com/us/americas-tax-gap-projected-to-hit-nearly-700-billion-irs-5739773)
     
-    2hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Pentagon Puts Russian Casualties in Ukraine War at 600,000](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![America’s Tax Gap Projected to Hit Nearly $700 Billion: IRS](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pentagon Puts Russian Casualties in Ukraine War at 600,000](https://img.theepochtimes.com/assets/uploads/2022/08/25/russian-army-soldiers-205x123.jpg.webp)](https://www.theepochtimes.com/world/pentagon-puts-russian-casualties-in-ukraine-war-at-600000-post-5738794)
-* [Harris Holds Las Vegas Town Hall as Poll Shows Her Lead Slipping Among Latino Voters](https://www.theepochtimes.com/us/harris-holds-las-vegas-town-hall-as-poll-shows-her-lead-slipping-among-latino-voters-5739564)
+    ![America’s Tax Gap Projected to Hit Nearly $700 Billion: IRS](https://img.theepochtimes.com/assets/uploads/2024/09/08/id5720224-GettyImages-56043781-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/americas-tax-gap-projected-to-hit-nearly-700-billion-irs-5739773)
+* [German Economy Set to Shrink for 2nd Year Running](https://www.theepochtimes.com/world/german-economy-set-to-shrink-for-2nd-year-running-5738984)
     
-    7hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    1hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
     
-    [![Harris Holds Las Vegas Town Hall as Poll Shows Her Lead Slipping Among Latino Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![German Economy Set to Shrink for 2nd Year Running](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Harris Holds Las Vegas Town Hall as Poll Shows Her Lead Slipping Among Latino Voters](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739568-Harris_town-hall_Nevada-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-holds-las-vegas-town-hall-as-poll-shows-her-lead-slipping-among-latino-voters-5739564)
-* [Day in Photos: Historic Settlement, Milton Aftermath, and a Royal Visit](https://www.theepochtimes.com/article/day-in-photos-historic-settlement-milton-aftermath-and-a-royal-visit-5739071)
+    ![German Economy Set to Shrink for 2nd Year Running](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738624-AP24283453793201-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/german-economy-set-to-shrink-for-2nd-year-running-5738984)
+* [Chutkan to Release More of Smith’s Evidence Over Objections From Trump](https://www.theepochtimes.com/us/chutkan-to-release-more-of-smiths-evidence-over-objections-from-trump-5739358)
     
-    9hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    1hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![Day in Photos: Historic Settlement, Milton Aftermath, and a Royal Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Chutkan to Release More of Smith’s Evidence Over Objections From Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Day in Photos: Historic Settlement, Milton Aftermath, and a Royal Visit](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739459-GettyImages-2177043444-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-historic-settlement-milton-aftermath-and-a-royal-visit-5739071)
-* [One Killed, 23 Rescued From Former Colorado Gold Mine](https://www.theepochtimes.com/us/one-dead-12-trapped-at-bottom-of-colorado-gold-mine-5739536)
+    ![Chutkan to Release More of Smith’s Evidence Over Objections From Trump](https://img.theepochtimes.com/assets/uploads/2024/08/27/id5713646-Trump-Jack-Smith-205x123.jpg.webp)](https://www.theepochtimes.com/us/chutkan-to-release-more-of-smiths-evidence-over-objections-from-trump-5739358)
+* [Israel Says School Targeted as Hamas Command Center](https://www.theepochtimes.com/world/israel-says-school-targeted-as-hamas-command-center-5739373)
     
-    10hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    3hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
-    [![One Killed, 23 Rescued From Former Colorado Gold Mine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Israel Says School Targeted as Hamas Command Center](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![One Killed, 23 Rescued From Former Colorado Gold Mine](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739540-Colorado_Gold_Mine_People_Trapped_24284819469415-205x123.jpg.webp)](https://www.theepochtimes.com/us/one-dead-12-trapped-at-bottom-of-colorado-gold-mine-5739536)
-* [Oregon Congressional Candidates in Swing District Clash Over Abortion, Immigration in Debate](https://www.theepochtimes.com/us/oregon-congressional-candidates-in-swing-district-clash-over-abortion-immigration-in-debate-5738476)
+    ![Israel Says School Targeted as Hamas Command Center](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739853-gaza-hospital-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-says-school-targeted-as-hamas-command-center-5739373)
+* [French Government Announces 60 Billion Euro Spending Cuts and Tax Hikes to Tackle Deficit](https://www.theepochtimes.com/world/french-government-announces-60-billion-euro-spending-cuts-and-tax-hikes-to-tackle-deficit-5739679)
     
-    10hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
+    3hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
     
-    [![Oregon Congressional Candidates in Swing District Clash Over Abortion, Immigration in Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![French Government Announces 60 Billion Euro Spending Cuts and Tax Hikes to Tackle Deficit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Oregon Congressional Candidates in Swing District Clash Over Abortion, Immigration in Debate](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739541-splitJet_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/oregon-congressional-candidates-in-swing-district-clash-over-abortion-immigration-in-debate-5738476)
-* [How a GOP-Led Effort to Change Nebraska’s Electoral College Voting Failed](https://www.theepochtimes.com/article/how-a-gop-led-effort-to-change-nebraskas-electoral-college-voting-failed-5731492)
+    ![French Government Announces 60 Billion Euro Spending Cuts and Tax Hikes to Tackle Deficit](https://img.theepochtimes.com/assets/uploads/2024/10/08/id5737889-GettyImages-2176682244-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/french-government-announces-60-billion-euro-spending-cuts-and-tax-hikes-to-tackle-deficit-5739679)
+* [Elon Musk Unveils Tesla’s New Robotaxi, Robovan](https://www.theepochtimes.com/business/elon-musk-unveils-teslas-new-robotaxi-robovan-5739754)
     
-    10hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![How a GOP-Led Effort to Change Nebraska’s Electoral College Voting Failed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Elon Musk Unveils Tesla’s New Robotaxi, Robovan](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![How a GOP-Led Effort to Change Nebraska’s Electoral College Voting Failed](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739542-Nebraska-voting-6-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-a-gop-led-effort-to-change-nebraskas-electoral-college-voting-failed-5731492)
-* [Federal Judge Denies Hurricane-Related Request to Extend Florida’s Voter Registration Deadline](https://www.theepochtimes.com/us/federal-judge-denies-hurricane-related-request-to-extend-floridas-voter-registration-deadline-5739192)
+    ![Elon Musk Unveils Tesla’s New Robotaxi, Robovan](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739756-2024-10-11T094513Z_2_LYNXMPEK9A09J_RTROPTP_4_TESLA-ROBOTAXI-205x123.jpg.webp)](https://www.theepochtimes.com/business/elon-musk-unveils-teslas-new-robotaxi-robovan-5739754)
+* [Iran Hints at Changing Nuclear Doctrine If Israel Attacks](https://www.theepochtimes.com/world/iran-hints-at-changing-nuclear-doctrine-if-israel-attacks-5739694)
     
-    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
     
-    [![Federal Judge Denies Hurricane-Related Request to Extend Florida’s Voter Registration Deadline](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Iran Hints at Changing Nuclear Doctrine If Israel Attacks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Judge Denies Hurricane-Related Request to Extend Florida’s Voter Registration Deadline](https://img.theepochtimes.com/assets/uploads/2023/09/11/id5489897-GettyImages-1364096506-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-denies-hurricane-related-request-to-extend-floridas-voter-registration-deadline-5739192)
-* [After 2 Hurricanes, FEMA Will Urgently Need Funding From Congress, Mayorkas Says](https://www.theepochtimes.com/us/after-2-hurricanes-fema-will-urgently-need-funding-from-congress-mayorkas-says-5739330)
+    ![Iran Hints at Changing Nuclear Doctrine If Israel Attacks](https://img.theepochtimes.com/assets/uploads/2021/04/16/nuclear-facility-205x123.jpg.webp)](https://www.theepochtimes.com/world/iran-hints-at-changing-nuclear-doctrine-if-israel-attacks-5739694)
+* [Judge Approves Release of Redacted Evidence in Trump Election Case](https://www.theepochtimes.com/us/judge-approves-release-of-redacted-evidence-in-trump-election-case-5739611)
     
-    12hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    5hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
-    [![After 2 Hurricanes, FEMA Will Urgently Need Funding From Congress, Mayorkas Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Judge Approves Release of Redacted Evidence in Trump Election Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![After 2 Hurricanes, FEMA Will Urgently Need Funding From Congress, Mayorkas Says](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5673054-Alejandro-Mayorkas-GettyImages-2152314956-205x123.jpg.webp)](https://www.theepochtimes.com/us/after-2-hurricanes-fema-will-urgently-need-funding-from-congress-mayorkas-says-5739330)
-* [Trump Promises Tax Deduction for Car Loan Interest, Incentives for Auto Industry](https://www.theepochtimes.com/us/trump-promises-tax-deduction-for-car-loan-interest-incentives-for-auto-industry-5739189)
+    ![Judge Approves Release of Redacted Evidence in Trump Election Case](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739084-GettyImages-2177684581-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-approves-release-of-redacted-evidence-in-trump-election-case-5739611)
+* [Judge Rejects Georgia Voting Registration Extension After Hurricane Helene](https://www.theepochtimes.com/us/judge-rejects-georgia-voting-registration-extension-after-hurricane-helene-5739609)
     
-    12hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    6hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
-    [![Trump Promises Tax Deduction for Car Loan Interest, Incentives for Auto Industry](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Judge Rejects Georgia Voting Registration Extension After Hurricane Helene](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Promises Tax Deduction for Car Loan Interest, Incentives for Auto Industry](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739550-10102024-DSC04021-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-promises-tax-deduction-for-car-loan-interest-incentives-for-auto-industry-5739189)
+    ![Judge Rejects Georgia Voting Registration Extension After Hurricane Helene](https://img.theepochtimes.com/assets/uploads/2024/04/12/id5628153-GettyImages-1230123473-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-rejects-georgia-voting-registration-extension-after-hurricane-helene-5739609)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
