@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-The service I received via Foxy Proxy was very good.
+I think your service is wonderful. I used it for 2 months. The speed is unreal. Keep up the good work.
 
-Alex Hornsby
+Saeed A Pandor
