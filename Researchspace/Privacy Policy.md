@@ -72,7 +72,7 @@ Research Space
 Edinburgh EH2 4DF
 
 Scotland  
-[info@researchspace.com](mailto:info@researchspace.com)
+[\[email protected\]](https://www.researchspace.com/cdn-cgi/l/email-protection)
 
 RSpace Team & Enterprise
 ------------------------
@@ -97,7 +97,7 @@ TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL RESEARCH SPACE BE LIABL
 Resolving Disputes
 ------------------
 
-_Let’s Try To Sort Things Out First_. We want to address your concerns without needing a formal legal case. Before filing a claim against Research Space, you agree to try to resolve the dispute informally by contacting info@researchspace.com. We’ll try to resolve the dispute informally by contacting you via email. If a dispute is not resolved within 15 days of submission, you or Research Space may bring a formal proceeding.
+_Let’s Try To Sort Things Out First_. We want to address your concerns without needing a formal legal case. Before filing a claim against Research Space, you agree to try to resolve the dispute informally by contacting [\[email protected\]](https://www.researchspace.com/cdn-cgi/l/email-protection). We’ll try to resolve the dispute informally by contacting you via email. If a dispute is not resolved within 15 days of submission, you or Research Space may bring a formal proceeding.
 
 _We Both Agree To Arbitrate_. You and Research Space agree to resolve any claims relating to these Terms or the Services through final and binding arbitration, except as set forth under Exceptions to Agreement to Arbitrate below.
 
@@ -158,7 +158,7 @@ In exchange, you agree not to misuse the RSpace services (“Services”) or hel
 Contact
 -------
 
-Have questions or concerns about RSpace, our Services and privacy? Contact us at [info@researchspace.com](mailto:info@researchspace.com).
+Have questions or concerns about RSpace, our Services and privacy? Contact us at [\[email protected\]](https://www.researchspace.com/cdn-cgi/l/email-protection).
 
 [![](https://cdn.prod.website-files.com/5ffc384cb3a51a7b1c2d57ad/6239f62a33bc35909f6f9a87_rspace_logo_white.svg)](https://www.researchspace.com/)
 
