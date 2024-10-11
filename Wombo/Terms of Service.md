@@ -12,7 +12,7 @@ WOMBO
 
 [![](https://cdn.prod.website-files.com/5fcec8fbaa06953c4f3ddbfc/5fcecb678cc42bfa2337dc6e_WOMBO.png)](https://www.wombo.ai/archive-pages/home-2)
 
-[](https://discord.gg/SXF2MJ8T6t)[](http://instagram.com/WOMBO.ai)[](http://twitter.com/WOMBO)[](mailto:hello@wombo.ai?subject=Website%20Inquiry)[](https://my.community.com/wombo)
+[](https://discord.gg/SXF2MJ8T6t)[](http://instagram.com/WOMBO.ai)[](http://twitter.com/WOMBO)[\[email protected\]](https://www.wombo.ai/cdn-cgi/l/email-protection)[](https://my.community.com/wombo)
 
 [Use Wombo](https://www.wombo.ai/archive-pages/home-2)[Main](http://w.ai/)[Blog](https://www.wombo.ai/archive-pages/blog)
 
@@ -22,7 +22,7 @@ WOMBO
 
 [Main](https://www.wombo.ai/archive-pages/home-2)[Career](https://www.wombo.ai/careers)[Blog](https://www.wombo.ai/archive-pages/blog)
 
-[](https://discord.com/invite/SXF2MJ8T6t)[](https://www.instagram.com/WOMBO.ai/)[](https://twitter.com/WOMBO)[](mailto:hello@wombo.ai?subject=Website%20Inquiry)[](https://my.community.com/wombo)
+[](https://discord.com/invite/SXF2MJ8T6t)[](https://www.instagram.com/WOMBO.ai/)[](https://twitter.com/WOMBO)[\[email protected\]](https://www.wombo.ai/cdn-cgi/l/email-protection)[](https://my.community.com/wombo)
 
 Overview
 --------
@@ -71,7 +71,7 @@ We do not allow any content that infringes copyright. The use of copyrighted con
 
 At the same time, not all uses of copyrighted content constitute an infringement. In many countries, exceptions to copyright infringement allow the use of these works under certain circumstances without authorization. These include the fair use doctrine in the United States, and permitted acts of fair dealing in the European Union (and other equivalent exceptions under applicable local laws in other countries).
 
-If you believe your content is being infringed upon, please submit a claim to **copyright@wombo.ai** and we will respond within 24 hours.
+If you believe your content is being infringed upon, please submit a claim to **[\[email protected\]](https://www.wombo.ai/cdn-cgi/l/email-protection)** and we will respond within 24 hours.
 
 #### Links To Other Web Sites
 
@@ -119,7 +119,7 @@ By continuing to access or use our Service after any revisions become effective,
 -
 
 [Privacy Policy](https://www.wombo.ai/privacy) • [Terms of Service](https://www.wombo.ai/terms)  
-Media inquiries [hello@wombo.ai](mailto:hello@wombo.ai?subject=Website%20Media%20Inquiry)[](mailto:hello@wombo.ai?subject=Website%20Media%20Inquiry)Web development by [Infinidiv](http://www.infinidiv.com/?utm_source=wombo-ai&utm_content=footer-badge)
+Media inquiries [\[email protected\]](https://www.wombo.ai/cdn-cgi/l/email-protection)[\[email protected\]](https://www.wombo.ai/cdn-cgi/l/email-protection)Web development by [Infinidiv](http://www.infinidiv.com/?utm_source=wombo-ai&utm_content=footer-badge)
 
 Why WOMBO
 ---------
