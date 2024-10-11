@@ -182,9 +182,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Building a strong security posture: Managing compliance, risk, and business engagement in a dynamic landscape](https://www.onetrust.com/resources/building-a-strong-security-posture-managing-compliance-risk-and-business-engagement-in-a-dynamic-landscape-webinar/)
 * [From request to resolution: Simplifying DSRs with automation](https://www.onetrust.com/resources/from-request-to-resolution-simplifying-dsrs-with-automation-webinar/)
 * [Data privacy and data protection: The basics explained](https://www.onetrust.com/resources/data-protection-and-data-privacy-the-basics-explained-ebook/)
-* [Build resiliency and operationalize compliance with OneTrust: Fall product release recap, 2024](https://www.onetrust.com/resources/build-resiliency-and-operationalize-compliance-with-onetrust-fall-product-release-recap-2024-webinar/)
 
 ### Platform
 
