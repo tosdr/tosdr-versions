@@ -28,7 +28,7 @@
         
         [#BIOTRUST](https://www.instagram.com/biotrustnutrition/)
         
-    * [OUR COACHES](https://www.biotrust.com/pages/meet-the-team)
+    * [OUR COACHES](https://www.biotrust.com/pages/coaches)
     * [INSTAGRAM](https://www.instagram.com/biotrustnutrition/)
     * [FACEBOOK](https://www.facebook.com/biotrust/)
     * [PODCASTS](https://www.biotrust.com/blog/category/podcasts/)
@@ -121,7 +121,7 @@
 * [Anti-Aging](https://www.biotrust.com/collections/anti-aging)
 * [Gear](https://www.biotrust.com/collections/gear)
 
-* [Our Coaches](https://www.biotrust.com/pages/meet-the-team)
+* [Our Coaches](https://www.biotrust.com/pages/coaches)
 * [Instagram](https://www.instagram.com/biotrustnutrition/)
 * [Facebook](https://www.facebook.com/biotrust/)
 * [Podcasts](https://www.biotrust.com/blog/category/podcasts/)
