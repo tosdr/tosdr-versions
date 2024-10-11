@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Ain'T No Love In OklahomaLuke Combs<br><br>5:40pm |
-| The Good OnesGabby Barrett<br><br>5:37pm |
-| White HorseChris Stapleton<br><br>5:33pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>5:30pm |
-| Gunpowder And LeadMiranda Lambert<br><br>5:21pm |
+| Son Of A SinnerJelly Roll<br><br>11:38pm |
+| AustinDasha<br><br>11:35pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>11:32pm |
+| Where It EndsBailey Zimmerman<br><br>11:29pm |
+| Whiskey DrinkJason Aldean<br><br>11:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
