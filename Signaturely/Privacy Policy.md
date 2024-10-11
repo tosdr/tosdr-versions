@@ -4,7 +4,7 @@ End of the Year Sale: Get up to 35% Off on all our Plans.
 
 [Save now](https://signaturely.com/pricing/)
 
-[![](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo.svg)](https://signaturely.com/)
+[![Signaturely Logo](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo.svg)](https://signaturely.com/)
 
 * [How it works](https://signaturely.com/how-electronic-signatures-work/)
 * [Pricing](https://signaturely.com/pricing/)
@@ -22,7 +22,7 @@ Menu
 
 [Try for Free](https://app.signaturely.com/signup)
 
-[![](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo.svg)](https://signaturely.com/)
+[![Signaturely Logo](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo.svg)](https://signaturely.com/)
 
 Menu
 
@@ -452,9 +452,9 @@ Pursuant to Article 27 of the UK GDPR, Signaturely has appointed EDPO UK Ltd as 
 * Using EDPO’s online request form: [https://edpo.com/uk-gdpr-data-request/](https://edpo.com/uk-gdpr-data-request/)
 * Writing to EDPO UK at 8 Northumberland Avenue, London WC2N 5BY, United Kingdom.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20235%2038'%3E%3C/svg%3E)
+![Signaturely Logo 2x](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20235%2038'%3E%3C/svg%3E)
 
-![](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo-2x.svg)
+![Signaturely Logo 2x](https://signaturely.com/wp-content/uploads/2020/04/signaturely-logo-2x.svg)
 
 Super simple signatures
 
