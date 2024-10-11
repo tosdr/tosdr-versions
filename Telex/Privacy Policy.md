@@ -4,7 +4,7 @@ Brigitta
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "gyengén felhős")
 
-10°16°
+10°15°
 
 Menü
 
