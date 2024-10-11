@@ -240,11 +240,11 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### New to domain names and dynamic DNS?
+#### Would cloud based computing and networking resources help your business? Check out more details about cloud computing!
 
-We can walk you through purchasing and managing your domain names in real-time on the page!  
   
-[View Available Guides](https://www.dynu.com/Resources/Tutorials)  
+[What is cloud computing?](https://www.dynu.com/What-Is-Cloud-Computing)  
+  
 
 ### News
 
