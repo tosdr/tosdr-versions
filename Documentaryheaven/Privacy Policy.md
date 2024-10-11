@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Somme: From Defeat to Victory](/wp-content/thumbnails/12077-100x70.jpg?x53432)
+* [![The Shankill Butchers: Loyalists or Serial Killers?](/wp-content/thumbnails/6962-100x70.jpg?x53432)
     
-    The Somme: From Defeat to Victory
+    The Shankill Butchers: Loyalists or Serial Killers?
     
-    This day 100 years ago (1st of July 1916) marked what was to become the bloodiest day in British military history; however, that been said there was much more to the Somme than mere senseless sla](https://documentaryheaven.com/somme-from-defeat-to-victory/ "The Somme: From Defeat to Victory")
-* [![Wired: South Korea](/wp-content/thumbnails/6733-100x70.jpg?x53432)
+    With 19 murders between them, the Shankill Butchers were the most prolific gang of serial killers in UK history. During the dark days of the Troubles their savagery stood apart, paralysing both commun](https://documentaryheaven.com/the-shankill-butchers-loyalists-or-serial-killers/ "The Shankill Butchers: Loyalists or Serial Killers?")
+* [![Meet the Night Runners](/wp-content/thumbnails/14543-100x70.jpg?x53432)
     
-    Wired: South Korea
+    Meet the Night Runners
     
-    In South Korea addiction to gaming has become an epidemic, with murders attributed to it and psychiatric units struggling to cope. And whilst the South binges, North Korean cyber warriors have been st](https://documentaryheaven.com/wired-south-korea/ "Wired: South Korea")
-* [![Hitler of The Andes](/wp-content/thumbnails/9203-100x70.jpg?x53432)
+    There seems to be a mysterious trend gripping rural Kenya, it is something which has been spoken about through the generations, a form of witchcraft for want of a better description. The people carryi](https://documentaryheaven.com/meet-night-runners/ "Meet the Night Runners")
+* [![The Story of Science: Power, Proof and Passion](/wp-content/thumbnails/6535-100x70.jpg?x53432)
     
-    Hitler of The Andes
+    The Story of Science: Power, Proof and Passion
     
-    In April of 1945 Hitler was now beyond doubt, the most wanted man in Europe, dead or alive the victorious Allies needed to see his body, in the dock or in the grave but in the chaos of war proof that](https://documentaryheaven.com/hitler-andes/ "Hitler of The Andes")
-* [![Is Anybody Out There?](/wp-content/thumbnails/14613-100x70.jpg?x53432)
+    For thousands of years we have wrestled with the great questions of existence. Who are we? What is the world made of? How did we get here? The quest to answer these is the story of science. Each week,](https://documentaryheaven.com/the-story-of-science-power-proof-and-passion/ "The Story of Science: Power, Proof and Passion")
+* [![Six Day War](/wp-content/thumbnails/6489-100x70.jpg?x53432)
     
-    Is Anybody Out There?
+    Six Day War
     
-    On August 15th 1977 a strange signal from the constellation Sagittarius was received by the Big Ear radio telescope. The signal known as the 'Wow!' signal reached an intensity up to 30 times higher th](https://documentaryheaven.com/is-anybody-out-there/ "Is Anybody Out There?")
-* [![The Coconut Revolution](/wp-content/thumbnails/3345-100x70.jpg?x53432)
+    The story of the Arab-Israeli War of 1967, the echoes of which are still heard today in the middle east.In May of that year, Egypt, under President Nasser, blocked the Tiran Straits to Israeli shipp](https://documentaryheaven.com/six-day-war/ "Six Day War")
+* [![Fluoride: The Hard to Swallow Truth](/wp-content/thumbnails/5742-100x70.jpg?x53432)
     
-    The Coconut Revolution
+    Fluoride: The Hard to Swallow Truth
     
-    Bougainville, with a populations of only 160,000 has managed to close and keep closed one of the biggest mines in the world. They have held their ground for a decade with antique weapons and homemade](https://documentaryheaven.com/the-coconut-revolution/ "The Coconut Revolution")
+    This short documentary looks at the initial theories behind the effectiveness of fluoride and where it originated. It goes on to show the lack of science behind the use of Fluoride and reveals Fluor](https://documentaryheaven.com/fluoride-the-hard-to-swallow-truth/ "Fluoride: The Hard to Swallow Truth")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
