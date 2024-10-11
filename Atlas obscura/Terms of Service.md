@@ -83,7 +83,7 @@ Spirits, Saints, and Souls: The Secret History of Halloween With Lisa Morton](ht
 
    [![](https://img.atlasobscura.com/OwIn0KnazjTJtGnYMAnBrTLm0NBj64M9cqc-B3GU8n4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy84MDc4/MDk2NC1hMTFiLTRl/MDUtYWJhYS00ZThh/OTliMDQ5ODczY2U4/YWUwNTFkNDQ5OWU4/ZWVfbWljaGFsLWIt/YnZTd0Z4eXJmd2ct/dW5zcGxhc2guanBn.jpg)
 
-Seas The Day: Life Lessons from Cephalopods With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/cephalopods-online-course)
+Seas The Day: Life Lessons From Cephalopods With Dr. Sarah McAnulty](https://www.atlasobscura.com/experiences/cephalopods-online-course)
 
    [![](https://img.atlasobscura.com/Gl1jaOr-Woxnan5jPvCu8YzPs-W8beVKxg-SEihHjpc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81MDQx/ZmQ2YS00OGUwLTQ3/YWUtOTMwOS1jOTdh/ZDg1YjdmYTg2NzY4/YWU1ZjVkZTg1MzEz/YWJfSW5zaWRlIGEg/cGhhcmFvaOKAmXMg/dG9tYi5qcGc.jpg)
 
@@ -149,45 +149,45 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
-   [![Path through the forest.](https://img.atlasobscura.com/NtbV6kjPjEBCteyBBJR8QXK3AoM4tczs6L178WwxGtE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mNzAy/NzJhMS05NmFiLTRi/ZTktYjJiZi00ZjQ4/N2U2NWNiNjlmYTRl/MGVkZWE0NTlkOWU2/MDRfSU1HXzAyNjFf/YWRqLmpwZw.jpg)
+   [![Burial mounds in Birka](https://img.atlasobscura.com/AxfWzmunyY_wRqHzj9Vw9qAJfzpo05HZM4g9JdHc4Hg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wZjFk/NmIzYi1lYzI1LTRl/ZDYtOTA3Mi0zNjA2/NmM0MTdiNWJhYWRm/Nzc3OWMzNzhmMzVh/MGZfSU1HXzM5MTQu/anBlZw.jpg)
 
-St. Edward State Park](https://www.atlasobscura.com/places/st-edward-state-park)
+Birka Viking Burial Mounds](https://www.atlasobscura.com/places/birka-viking-burial-mounds)
 
-   [![Apothecary of over 500 herbs and oils](https://img.atlasobscura.com/tvNE945xHPLaUmfM6ZJtRjAtwaPy_tSal61P4vKxMPw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hMGM2/MWNkMC1iM2JjLTQ0/ZGYtOGQyMy05MWUy/ZTczN2QyYWU4OTBm/NDYwODhkNGIxNmMz/MDRfaW1hZ2UuanBn.jpg)
+   [![](https://img.atlasobscura.com/goDWQiEN9oU6zbtKg8P4VmzV8bFfcz1scIckyivJjQA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNTNl/YTk0ZS0yYzE3LTQ5/NGUtYjUyOS03MGJj/YmJhOGFmZTA1MDZk/YmJlMGRmMGEwODJm/Y2JfSU1HXzE1NzQu/anBlZw.jpg)
 
-Magick Candle](https://www.atlasobscura.com/places/magick-candle-indianapolis)
+'A New Broom'](https://www.atlasobscura.com/places/a-new-broom)
 
-   [![Stalactites in King Solomon's Cave](https://img.atlasobscura.com/cp6qdPRLfKffJ1usvJHc-nYTDyLEQz5X2vjTgAAfh64/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85Yzky/NDY0NS02MzJkLTQ4/ODAtODI5Yi0xYjM3/ZTJmNzA5MDhkMDdi/M2NlZDRmOWNhZmVi/ZjJfQ3VldmFfZGVs/X1JleV9TYWxvbW9u/LVRhc21hbmlhLUF1/c3RyYWxpYTAzLkpQ/Rw.jpg)
+   [![Cevapčići at Sarajevo ‘84](https://img.atlasobscura.com/LE8qSSozBNYlyyHbL6Tz8u29d7LsFp_hglJAupgVfA8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wZTZj/NmVhYi1jMGEwLTQx/NTUtYjQ0Zi1kY2Mz/ZmFhMGFkYmYyOGVj/YzgwMjY5NDI4ZGMz/YmNfYjA2NWM2Zjkt/ZGJlMi00MmNiLTgy/N2YtMmZmZTJkOTAx/Nzc4LkpQRw.jpg)
 
-King Solomons Cave](https://www.atlasobscura.com/places/king-solomons-cave)
+Sarajevo ‘84](https://www.atlasobscura.com/places/sarajevo-84)
 
-   [![](https://img.atlasobscura.com/VXlItAxmVEW0fPIPsqIZlrtRCU6WuoGtl9TtgS_pRw4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80MzI3/NTkwZi0xMmY0LTQy/NjMtOTgyOC05NDE4/YTMyZjIxY2MzMDc0/NzYxMjM1MTAzYmZj/N2FfU2lsdmVyX0lz/bGVfKDIxNDI0OTcy/NykuanBlZw.jpg)
+   [![In this salad, rice gets topped with pinches of toasted coconut, dried fish, finely-sliced herbs and vegetables, bean sprouts, a tiny knot of noodles, crushed black pepper and dried chili. ](https://img.atlasobscura.com/gQIl5_2prwKwbxcG4VdRWmHZ42_9k05Hvhma2Mu-5EE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yYmFm/YmI4MTVkODdkNWYy/YTNfMjAyMCBSaWNl/IFNhbGFkIHdpdGgg/TmFtIEJ1ZHUgRHJl/c3NpbmcgWWFsYSBU/aGFpbGFuZC0yNzI1/LmpwZw.jpg)
 
-Silver Islet Mine](https://www.atlasobscura.com/places/silver-islet-mine)
+Thai-Islam Phochana](https://www.atlasobscura.com/places/thai-islam-phochana)
 
 Latest Places to Eat & Drink
 
 [View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
 
+   [![Cevapčići at Sarajevo ‘84](https://img.atlasobscura.com/LE8qSSozBNYlyyHbL6Tz8u29d7LsFp_hglJAupgVfA8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wZTZj/NmVhYi1jMGEwLTQx/NTUtYjQ0Zi1kY2Mz/ZmFhMGFkYmYyOGVj/YzgwMjY5NDI4ZGMz/YmNfYjA2NWM2Zjkt/ZGJlMi00MmNiLTgy/N2YtMmZmZTJkOTAx/Nzc4LkpQRw.jpg)
+
+Sarajevo ‘84](https://www.atlasobscura.com/places/sarajevo-84)
+
+   [![In this salad, rice gets topped with pinches of toasted coconut, dried fish, finely-sliced herbs and vegetables, bean sprouts, a tiny knot of noodles, crushed black pepper and dried chili. ](https://img.atlasobscura.com/gQIl5_2prwKwbxcG4VdRWmHZ42_9k05Hvhma2Mu-5EE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yYmFm/YmI4MTVkODdkNWYy/YTNfMjAyMCBSaWNl/IFNhbGFkIHdpdGgg/TmFtIEJ1ZHUgRHJl/c3NpbmcgWWFsYSBU/aGFpbGFuZC0yNzI1/LmpwZw.jpg)
+
+Thai-Islam Phochana](https://www.atlasobscura.com/places/thai-islam-phochana)
+
+   [![With fat chunks of crab meat swimming in a lush coconut milk curry, it's no wonder this dish is so popular.](https://img.atlasobscura.com/l8puxatAy37DyemvB5yemqnL0De5nEIeo6ztO19a5C8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zZTA2/M2Y2MS1hYzUzLTRi/ZDYtYjIzMC04Y2U0/ODk0MjE5NjAyYmFk/MDVmNDE2MjgwNTNj/NzZfMjAyMSBDcmFi/IEN1cnJ5IFNlcnZl/ZCBvdmVyIFRoaW4g/UmljZSBOb29kbGVz/IFBodWtldCBUaGFp/bGFuZC03NzQ4Lmpw/Zw.jpg)
+
+Raya](https://www.atlasobscura.com/places/raya)
+
+   [![Meet boba tea's ancestral cousin.](https://img.atlasobscura.com/CwjPub0FbmraLphLV-Is6aMl2Zw2H7rlTjMxM0pvDMs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zZDZi/NGEzNDNhNWFiNzZh/ZGRfMjAyMCBSZWFs/IFNhZ28gUGVhcmxz/IERyZXNzZWQgd2l0/aCBDb2NvbnV0IE1p/bGsgS2h1YW4gS2hh/bnVuIFBoYXR0aGFs/dW5nIFRoYWlsYW5k/LTU2MjcuanBn.jpg)
+
+Kanomwaan Pakee](https://www.atlasobscura.com/places/kanomwaan-pakee)
+
    [![Order the dry curry with pork spareribs and green banana.](https://img.atlasobscura.com/nt6pgEgQC-2MxCeQ16d3WNhZRrhb_0qg8tl2NjVnDww/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZmYw/MmQxNy00NjcwLTRm/MTYtOTliYy01YzVl/ZWQwODQ2MjU1Nzhl/ZTM0MmMxZWMyM2E2/MDFfMjAyMSBEcnkg/Q3Vycnkgd2l0aCBQ/b3JrIFNwYXJlcmli/cyAmIEdyZWVuIEJh/bmFuYSBZYXkgUHVh/ZCBDaHVtcGhvbiBU/aGFpbGFuZC0yMTY4/LmpwZw.jpg)
 
 Yay Puad](https://www.atlasobscura.com/places/yay-puad)
-
-   [![The name of this dish means "trader's rice" in Malay dialect.](https://img.atlasobscura.com/Yk520Om_vjbcHvDZnOUdMrtwgVmZV_TvPzajVBcza9k/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xYjQy/NTYxNmU2YjM2Nzk4/M2NfMjAyMCBUcmFk/ZXJzIFJpY2UgUGF0/dGFuaSBUaGFpbGFu/ZC0xMTA3LmpwZw.jpg)
-
-Nasi Dagae](https://www.atlasobscura.com/places/nasi-dagae)
-
-   [![Chicken is marinated in an umami-forward brine before being battered and deep-fried.](https://img.atlasobscura.com/37vjMAuubmiyYMHHY1fzIEnA22IVUvYQZKyfGlo3TNk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kYmFj/MmEzYjczNTM5NmVj/ZWNfMjAyMCBLYWkg/VGhhd3QgQmF0IEto/aXcgSGF0IFlhaSBU/aGEtNDk5My5qcGc.jpg)
-
-Kai Thawt Bat Khiw](https://www.atlasobscura.com/places/kai-thawt-bat-khiw)
-
-   [![Roast pork over rice makes, alongside congee, makes for a deeply southern Thai-Chinese breakfast.](https://img.atlasobscura.com/FI2Nwk4pLkKVZraSKpRhmjJCzcH5thnfYNoVKdNW1L4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNGVm/ZmIwMjU1Y2IyZGNl/N2NfMjAyMCBUcmFu/ZyBUaGFpbGFuZC05/OTcwLmpwZw.jpg)
-
-Sin Jiew](https://www.atlasobscura.com/places/sin-jiew)
-
-   [![This tart, thin, turmeric-tinted broth packs a real punch.](https://img.atlasobscura.com/sQdXkSDspX0hNBLyGKM3PhmG8d4cb_ACHazy0bG5aT0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80ZTYw/MTk2YzFkZWE0YzY3/NjdfMjAyMCBBIFRh/cnQgU3BpY3kgU291/cCB3aXRoIFZlZ2V0/YWJsZXMgYW5kIEZp/c2ggVHVybWVyaWMg/TmFraG9uIFNpIFRo/YW1tYXJhdCBUaGFp/bGFuZC01OTA5Lmpw/Zw.jpg)
-
-Suwalee](https://www.atlasobscura.com/places/suwalee)
 
 Recent Stories
 
@@ -197,6 +197,14 @@ Most Recent Stories
 
 [View All Stories »](https://www.atlasobscura.com/articles)
 
+   [![This depiction of a skull-faced candymaker was a direct response to the Bradford poisonings.](https://img.atlasobscura.com/zXGm1IH7ZajzZrhiz2GILzFcvrHniI8GxJs7RzZ4Xt0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy85YTA0MGUyNC1h/OTc4LTRlNTItOWVh/NC1hZmUzNzlkZGI5/NTdlNzBkZmMzZTk0/ZTM1OTI0NmJfVGhl/X0dyZWF0X0xvemVu/Z2UtTWFrZXJfQV9I/aW50X3RvX1BhdGVy/ZmFtaWxpYXMuanBn.jpg)
+
+5 Macabre and Mysterious Stories About Candy](https://www.atlasobscura.com/articles/scary-candy-halloween-stories)
+
+   [![The food of southern Thailand is immensely diverse and delicious. ](https://img.atlasobscura.com/B1qfeDbtjp00uE30O3kC8_52ql75pAeHVggsU_UrjZY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9mZWRiMjlmZi0w/YjdjLTRiMDktYjlm/OS00ZDY3NWU2MDk3/M2RjNjJlODMwYzgz/NmY5Njg0MzZfMjAy/MCBTYXR1biBUaGFp/bGFuZC04ODY4Lmpw/Zw.jpg)
+
+Gastro Obscura’s 12 Essential Places to Eat in Southern Thailand](https://www.atlasobscura.com/articles/best-restaurants-southern-thailand)
+
    [![Vanishing hitchhiker legends are just the latest version of a folktale that may go back millennia—and continues to spread and evolve.](https://img.atlasobscura.com/Rkm9Shz2gP4JrmGagTlT1sgWlSNhkW7PU5822KDGWro/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8xZmViMmQwZC05/MmRiLTQ5NzQtYTYx/ZS0wMzQ3ZWQ1N2Uw/ZWVmOWFiMTUxMjM1/ODNjZWQ1NmVfR2V0/dHlJbWFnZXMtMTI3/NzUzNDkwMS5qcGc.jpg)
 
 The Vanishing Hitchhiker Legend Is an Ancient Tale That Keeps Evolving](https://www.atlasobscura.com/articles/vanishing-hitchhiker-urban-legend)
@@ -204,14 +212,6 @@ The Vanishing Hitchhiker Legend Is an Ancient Tale That Keeps Evolving](https://
    [![The Cù Sith, an otherworldly hound of Scottish folklore, and its Irish counterpart the Cù Sidhe are sometimes described as green, the color associated with magic—and misfortune.](https://img.atlasobscura.com/R1XIEnhy0jdjLtwdkpcsGQzPYi47F8pK11s9Dob3Wbw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jMmNkNTNiYi04/ZDBlLTQyMTAtYWVk/ZS1iODZmMjgwNGY1/M2JkZTY1NGY5ZGIw/Y2U1NmQxNGJfY3Ug/c2l0aCBGSU5BTC5q/cGc.jpg)
 
 Death as a Dog: The Cù Sith of Scotland](https://www.atlasobscura.com/articles/cu-sith-scottish-folklore-black-dog)
-
-   [![People visit the beach in in Fort Myers, Florida, as storm clouds gather ahead of Hurricane Milton's arrival.](https://img.atlasobscura.com/F5tqq2pYz5YvgQd5SE-6wFLEEhP4BuP_gzNpNj27kK8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iMDQyOThjYS1h/NTIyLTQ4ZWItOTRh/Ny0zYjllNTViNjIx/NTg3ODMzZTMyMWFk/Yjg5NDQzMzNfR2V0/dHlJbWFnZXMtMjE3/NzUwMDQ1Ni5qcGc.jpg)
-
-As Hurricane Milton Approaches, Communities Repair and Prepare](https://www.atlasobscura.com/articles/hurricane-milton-helene-disaster-response)
-
-   [![Bottles range from bourbon to whiskey to gin.](https://img.atlasobscura.com/EDzcINKLKb1GVwaDAC15qkwF1GD91d_MXnHO31lKxSI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9iY2I3Nzk2ZThi/OGU0OWY4MWFfc3F1/YWRyb24gYm90dGxl/LmpwZWc.jpg)
-
-The Return of 'The Squadron Bottle,' a San Francisco Tradition](https://www.atlasobscura.com/articles/fleet-week-san-francisco-tradition)
 
 No search results found for  
 “”
