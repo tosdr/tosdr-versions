@@ -1,6 +1,6 @@
-[Build, Play, Win! 🏒 Bring home Playmobil NHL action this season.](https://www.playmobil.com/en-us/web-shop/nhl/)
+[Zippity-SAVE! 🎉 Use code EXTRA10 for an extra 10% OFF all orders over $100 this weekend only! ⏳](https://www.playmobil.com/en-us/web-shop/)
 
-[Build, Play, Win! 🏒 Bring home Playmobil NHL action this season.](https://www.playmobil.com/en-us/web-shop/nhl/)
+[Zippity-SAVE! 🎉 Use code EXTRA10 for an extra 10% OFF all orders over $100 this weekend only! ⏳](https://www.playmobil.com/en-us/web-shop/)
 
 [](https://www.playmobil.us/en-us/)
 
