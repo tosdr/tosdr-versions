@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-ondergraven-de-immuniteit/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/hoe-spiritualiteit-een-consumptieartikel-werd/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
