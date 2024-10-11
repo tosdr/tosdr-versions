@@ -402,35 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Man accused of killing Dallas 7-Eleven clerk was IDed by 5 witnesses before arrest made](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-peyton-hampton-rd-7-eleven-clerk-demarcus-miller.png?ve=1&tl=1)
+
+ ![Man accused of killing Dallas 7-Eleven clerk was IDed by 5 witnesses before arrest made](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-peyton-hampton-rd-7-eleven-clerk-demarcus-miller.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/demarcus-miller-arrest-report-dallas-7-eleven-store-clerk-murder-nathaniel-ogbulu)
+
+### [Man accused of killing Dallas 7-Eleven clerk was IDed by 5 witnesses before arrest made](https://www.fox4news.com/news/demarcus-miller-arrest-report-dallas-7-eleven-store-clerk-murder-nathaniel-ogbulu)
+
+ [![Northern Lights forecast: Viewers catch rare glimpse of aurora borealis across North Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/462688698_10225990553889954_6782531388014840452_n.jpg?ve=1&tl=1)
+
+ ![Northern Lights forecast: Viewers catch rare glimpse of aurora borealis across North Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/462688698_10225990553889954_6782531388014840452_n.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/northern-lights-forecast-north-texas-october-10)
+
+### [North Texans catch rare glimpse of Northern Lights](https://www.fox4news.com/news/northern-lights-forecast-north-texas-october-10)
+
+ [![Colorado gold mine rescue: 12 saved, 1 dead after elevator malfunction at tourist site](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/mollie-kathleen-gold-mine.jpg?ve=1&tl=1)
+
+ ![Colorado gold mine rescue: 12 saved, 1 dead after elevator malfunction at tourist site](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/mollie-kathleen-gold-mine.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/more-than-10-people-trapped-inside-colorado-gold-mine-after-equipment-malfunction)
+
+### [Colorado gold mine rescue: 12 saved, 1 dead after elevator malfunction at tourist site](https://www.fox4news.com/news/more-than-10-people-trapped-inside-colorado-gold-mine-after-equipment-malfunction)
+
+ [![Dallas teen knocked out by police horse at State Fair of Texas, family says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/p-david-dpd-mounted-ofc-state-fair-incident-9p_00.01.58.40.jpg?ve=1&tl=1)
+
+ ![Dallas teen knocked out by police horse at State Fair of Texas, family says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/p-david-dpd-mounted-ofc-state-fair-incident-9p_00.01.58.40.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-of-texas-police-horse-injury-ian-macharia-family)
+
+### [Dallas teen knocked out by police horse at State Fair of Texas, family says](https://www.fox4news.com/news/state-fair-of-texas-police-horse-injury-ian-macharia-family)
+
  [![Video: Boat captain found clinging to cooler 30 miles off Longboat Key after surviving Hurricane Milton at sea](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/vlcsnap-2024-10-10-20h03m25s150.jpg?ve=1&tl=1)
 
  ![Video: Boat captain found clinging to cooler 30 miles off Longboat Key after surviving Hurricane Milton at sea](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/32/18/592/333/vlcsnap-2024-10-10-20h03m25s150.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/boat-captain-found-clinging-cooler-30-miles-off-longboat-key-after-surviving-hurricane-milton-sea)
 
 ### [Video: Boat captain found clinging to cooler 30 miles off Longboat Key after surviving Hurricane Milton at sea](https://www.fox4news.com/news/boat-captain-found-clinging-cooler-30-miles-off-longboat-key-after-surviving-hurricane-milton-sea)
-
- [![NOAA honors radar specialist by releasing his ashes into the eye of Hurricane Milton](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2176954319.jpg?ve=1&tl=1)
-
- ![NOAA honors radar specialist by releasing his ashes into the eye of Hurricane Milton](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2176954319.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/noaa-peter-dodge-hurricane-milton-final-flight)
-
-### [NOAA honors radar specialist by releasing his ashes into the eye of Hurricane Milton](https://www.fox4news.com/news/noaa-peter-dodge-hurricane-milton-final-flight)
-
- [![Northern Lights forecast: There's a chance North Texas could see the aurora borealis tonight](https://images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/dc41c1c05817b2dc856551db2f7d325f8f430e5f8dfb46ac7fa15fc09b7147b0/iupl/237/52F/32/18/23752F87E34ECE96BE6A5E71F2C996B2.jpg?ve=1&tl=1)
-
- ![Northern Lights forecast: There's a chance North Texas could see the aurora borealis tonight](https://images.foxtv.com/images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/dc41c1c05817b2dc856551db2f7d325f8f430e5f8dfb46ac7fa15fc09b7147b0/iupl/237/52F/32/18/592/333/23752F87E34ECE96BE6A5E71F2C996B2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/northern-lights-forecast-north-texas-october-10)
-
-### [There's a chance North Texas could see the Northern Lights tonight](https://www.fox4news.com/news/northern-lights-forecast-north-texas-october-10)
-
- [![1 killed, 12 people trapped inside Colorado gold mine after elevator malfunction](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/mollie-kathleen-gold-mine.jpg?ve=1&tl=1)
-
- ![1 killed, 12 people trapped inside Colorado gold mine after elevator malfunction](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/mollie-kathleen-gold-mine.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/more-than-10-people-trapped-inside-colorado-gold-mine-after-equipment-malfunction)
-
-### [1 killed, 12 people trapped inside Colorado gold mine after elevator malfunction](https://www.fox4news.com/news/more-than-10-people-trapped-inside-colorado-gold-mine-after-equipment-malfunction)
-
- [![Sen. John Cornyn pushes for laws to protect kids online](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/s-steven-cornyn-kids-online-5p_00.00.47.34.jpg?ve=1&tl=1)
-
- ![Sen. John Cornyn pushes for laws to protect kids online](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/s-steven-cornyn-kids-online-5p_00.00.47.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sen-john-cornyn-kids-online-safety-bills)
-
-### [Sen. John Cornyn pushes for laws to protect kids online](https://www.fox4news.com/news/sen-john-cornyn-kids-online-safety-bills)
 
 [![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/milton-lanfall.jpg?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
 
