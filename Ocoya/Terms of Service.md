@@ -76,7 +76,7 @@ Any legal suit, action or proceeding arising out of, or related to, these Terms 
   
 **More Information**  
   
-However if you are still looking for more information then you can contact us through one of our preferred contact methods. Email us at [support@ocoya.com](mailto:support@ocoya.net?subject=Customer%20Inquiry) or call us on [+1 (617) 505-1123](tel:+16175051123).  
+However if you are still looking for more information then you can contact us through one of our preferred contact methods. Email us at [\[email protected\]](https://www.ocoya.com/cdn-cgi/l/email-protection) or call us on [+1 (617) 505-1123](tel:+16175051123).  
 
 ![](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/64387d7b5a4c5e08e2d14cd9_logo_white%20(1).svg)
 
