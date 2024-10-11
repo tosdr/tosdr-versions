@@ -166,32 +166,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Impact
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/xiphactinus_dig.jpg)](https://www.icr.org/article/xiphactinus-dig-excavating-clues-to-noahs-flood)
-
-[A Xiphactinus Dig: Excavating Clues to Noah's Flood](https://www.icr.org/article/xiphactinus-dig-excavating-clues-to-noahs-flood/)
-
-A fossil dig team was just finishing its last day of excavating a two-meter-long extinct fish on a private ranch in Kansas. As dusk began to settle...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/fossilsSayno_permianPerp.jpg)](https://www.icr.org/article/the-fossils-still-say-no-global-flood-permian)
-
-[The Fossils Still Say No: Global Flood Solves Permian P.,.](https://www.icr.org/article/the-fossils-still-say-no-global-flood-permian/)
-
-Permian rock layers contain several of the fossil record’s greatest evolutionary enigmas. These rocks are found directly above Carboniferous strata,...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/deep_sea_dino_fossil.jpg)](https://www.icr.org/article/deep-sea-dinosaur-fossil-buries-evolution)
-
-[Deep-Sea Dinosaur Fossil Buries Evolution](https://www.icr.org/article/deep-sea-dinosaur-fossil-buries-evolution/)
-
-Tim Clarey, Ph.D., and James J. S. Johnson, J.D., Th.D. Oil and gas explorations have found sedimentary deposits so massive and so far offshore...
-
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
