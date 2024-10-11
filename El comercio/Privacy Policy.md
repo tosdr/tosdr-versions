@@ -31,25 +31,152 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Existen iniciativas en Quito que se pueden emular
-=================================================
+Las muertes por el huracán Milton subieron en la Florida
+========================================================
 
-El fondo de Quito para incendios forestales es un modelo de solidaridad y apoyo a las comunidades afectadas por desastres naturales.
+Gran parte de las víctimas fueron por tornados provocados por Milton. Las autoridades temen que la cifra pueda aumentar.
+------------------------------------------------------------------------------------------------------------------------
+
+![Fotografía de daños causados por el paso del huracán Milton en Sarasota, Florida (EE.UU.). Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Milton-2.jpg)
+
+Las muertes por **Milton** en **Florida** aumentan al menos a 16, varias de ellas debido a tornados ocurridos antes de la llegada del huracán, que ya se ha disipado en el **Atlántico**.
+
+La cifra, según las cuentas que lleva CNN, se suman a al menos 1 000 rescates hechos por los cuerpos de socorro hasta la noche de este pasado jueves.
+
+Sin embargo, el **gobernador del estado, Ron DeSantis**, dijo que el número de víctimas mortales puede aumentar a medida que prosiguen las operaciones de rescate.
+
+Hasta el momento se han confirmado al menos seis muertes en el condado de **St. Lucie**, en la costa este de **Florida**, donde tocaron tierra “tornados de giro rápido” antes de la llegada de Milton.
+
+### Más noticias
+
+* [Milton mantiene la amenaza de marejada ciclónica en la costa sureste de EE.UU.](https://www.elcomercio.com/actualidad/mundo/milton-mantiene-amenaza-marejada-ciclonica-costa-sureste-ee-uu.html "Milton mantiene la amenaza de marejada ciclónica en la costa sureste de EE.UU.")
+* [El huracán Milton deja 10 fallecidos y destrucción a su paso por Florida](https://www.elcomercio.com/actualidad/mundo/huracan-milton-deja-12-fallecidos-destruccion-paso-florida.html "El huracán Milton deja 10 fallecidos y destrucción a su paso por Florida")
+* [Disney World en Orlando y las secuelas del huracán Milton](https://www.elcomercio.com/actualidad/mundo/walt-disney-world-resort-en-orlando-secuelas-huracan-milton.html "Disney World en Orlando y las secuelas del huracán Milton")
+
+Los tornados provocados por Milton
+----------------------------------
+
+Según las autoridades, varias de estas víctimas **fallecieron** después de que tornados provocados por **Milton** azotaran la zona el miércoles en la tarde y tocaran tierra en la comunidad de personas mayores **Spanish Lakes Country Village, ubicada en el norte de Fort Pierce.**
+
+El alguacil del **condado de Volusia, Michael J. Chitwood,** confirmó la muerte de otras tres personas en esa región del este del estado.
+
+Otras dos muertes se presentaron en St. Petersburg, en la costa oeste de **Florida**, donde arribó Milton la noche del miércoles.
+
+El huracán tocó tierra la noche del miércoles en Siesta Key, cerca de la ciudad de **Sarasota**, con vientos máximos sostenidos de 205 kilómetros por hora, es decir con categoría 3.
+
+**Milton** es el segundo huracán que alcanza Florida en casi dos semanas, tras recibir el pasado 26 de septiembre el impacto del poderoso huracán **Helene**, que entró por el noroeste de este estado con categoría 4 y dejó una estela de devastación y muerte por seis estados del sureste de **EE.UU.**
+
+En el Día de la Niña destaquemos la importancia de la educación
+===============================================================
+
+El Día de la Niña resalta la relevancia de la educación y los derechos de millones de niñas a nivel global.
+-----------------------------------------------------------------------------------------------------------
+
+![La educación empodera a las niñas, pero millones aún enfrentan barreras. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/10/Dia-de-la-Nina.jpg)
+
+El **Día Internacional de la Niña** se celebra cada 11 de octubre desde que la **Asamblea General de las Naciones Unidas** lo proclamó en 2011.  
+
+### Más noticias
+
+* [Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo](https://www.elcomercio.com/actualidad/mundo/unicef-informe-violencia-sexual-ninas-adolescentes.html "https://www.elcomercio.com/actualidad/mundo/unicef-informe-violencia-sexual-ninas-adolescentes.html")
+* [¿Qué se celebra el 11 de octubre? El Día de la Niña se conmemora en Ecuador](https://www.elcomercio.com/actualidad/11-de-octubre-dia-de-la-nina.html "https://www.elcomercio.com/actualidad/11-de-octubre-dia-de-la-nina.html")
+
+Esta fecha busca **reconocer los derechos de las niñas** y los desafíos únicos que enfrentan en todo el mundo. La **ONU** estableció este día para **concienciar** sobre la necesidad de abordar problemas como la educación, la igualdad de género, el matrimonio infantil y la violencia de género, de acuerdo con [Unicef](https://www.unicef.es/causas/derechos-ninos/dia-internacional-nina "https://www.unicef.es/causas/derechos-ninos/dia-internacional-nina").  
+
+**Importancia de la educación en el Día de la Niña** 
+-----------------------------------------------------
+
+**La educación es un derecho fundamental** y una herramienta poderosa para el **empoderamiento de las niñas**. Siguiendo con [Unicef](https://www.unicef.es/noticia/11-de-octubre-dia-internacional-de-la-nina "https://www.unicef.es/noticia/11-de-octubre-dia-internacional-de-la-nina"), aproximadamente **600 millones de niñas adolescentes se incorporarán al mercado laboral** en la próxima década. Sin embargo, muchas enfrentan barreras significativas para **acceder a una educación de calidad**. La falta de recursos, la discriminación de género y las normas culturales restrictivas son algunos de los obstáculos que deben superar. 
+
+**Desafíos actuales y soluciones** 
+-----------------------------------
+
+Las niñas enfrentan **desafíos únicos** **debido a su género y edad**. En muchas partes del mundo, **las niñas son más propensas a ser víctimas de violencia, explotación y discriminación**. Organizaciones como [**Plan International**](https://apoya.plan-international.es/dia-nina "https://apoya.plan-international.es/dia-nina") trabajan para visibilizar estos problemas y **promover acciones que garanticen sus derechos** y representación. La **educación, la salud y la protección** son áreas clave donde se centran los esfuerzos para **mejorar la vida de las niñas.** 
+
+**Acciones globales**  
+-----------------------
+
+A nivel global, se han implementado diversas **iniciativas para apoyar a las niñas**. La [Unesco](https://www.unesco.org/es/international-day-girl-child "https://www.unesco.org/es/international-day-girl-child"), por ejemplo, trabaja en **programas que promueven la educación inclusiva y equitativa**. A nivel local, muchas organizaciones promueven **eventos y campañas para sensibilizar sobre los derechos de las niñas** y fomentar su participación activa en la sociedad. Estas acciones son fundamentales para crear **un mundo más justo e igualitario para todas las niñas.** 
+
+No solo vale estar informados, sino también **inspirar a la acción para mejorar las condiciones de vida de las niñas en todo el mundo**. La educación y el empoderamiento son claves para un futuro mejor, y cada uno de nosotros puede contribuir a este cambio positivo. 
+
+Así funciona el Pico y placa en Quito este viernes 11 de octubre, en feriado
+============================================================================
+
+Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
+------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/10/Pico-placa-Quito.jpg)
+
+El **Pico y placa** es una restricción vehicular que rige en **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
+
+Esta **medida excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
+
+### Más noticias
+
+* [¿Cuándo comienzan los trabajos de la Ecovía en la Plaza Argentina?](https://www.elcomercio.com/actualidad/quito/trabajos-ecovia-plaza-argentina-transito.html "¿Cuándo comienzan los trabajos de la Ecovía en la Plaza Argentina?")
+* [El teniente Dan desafió al huracán Milton y esto pasó](https://www.elcomercio.com/actualidad/mundo/teniente-dan-desafio-a-huracan-milton-y-esto-paso.html "El teniente Dan desafió al huracán Milton y esto pasó")
+* [Piloto muere en pleno vuelo y avión aterriza de emergencia](https://www.elcomercio.com/actualidad/mundo/piloto-muere-en-pleno-vuelo-y-avion-aterriza-de-emergencia.html "Piloto muere en pleno vuelo y avión aterriza de emergencia")
+
+Horarios de Pico y placa
+------------------------
+
+Esta medida se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
+
+Estos son los horarios de aplicación:
+
+* En la **mañana**: de 06:00 a 09:30
+* En la **tarde**: de 16:00 a 20:00
+
+El **Pico y placa** es una medida que ha sido implementada en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
+
+Multas por infringir el Pico y placa
+------------------------------------
+
+La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
+
+Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
+
+Recuerda retirar tu auto de las plazas de parqueo
+-------------------------------------------------
+
+Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
+
+Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
+
+Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
+
+Este **viernes 11 de octubre de 2024 es feriado** y, por lo tanto, no se aplica la medida d**e Pico y placa** en la ciudad de Quito.
+
+> 🚙 [#PicoYPlacaUIO](https://twitter.com/hashtag/PicoYPlacaUIO?src=hash&ref_src=twsrc%5Etfw) | ¡Recuerda!  
+>   
+> La restricción vehicular “Pico y Placa” no rige los fines de semana, ni feriados en Quito.  
+>   
+> 🚘 Al conducir responsablemente [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/FwRwdjlcf2](https://t.co/FwRwdjlcf2)
+> 
+> — AMTQuito (@AMT\_Quito) [October 6, 2024](https://twitter.com/AMT_Quito/status/1842873027727413744?ref_src=twsrc%5Etfw)
+
+Inteligencia artificial (IA) y la industria 5.0
+===============================================
+
+Las organizaciones, tanto públicas y privadas, están en la procura de talento, de tecnología e innovación para impulsar su progreso.
 ------------------------------------------------------------------------------------------------------------------------------------
 
-![El fondo metropolitano ayuda a familias afectadas por incendios forestales con kits humanitarios esenciales para su recuperación.](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendios-forestales-en-Quito.jpg)
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
 
-La creación de un fondo específico para los afectados por incendios forestales en Quito representa un avance significativo en la gestión de emergencias en Ecuador. Hasta septiembre de este año, s**e han destinado 100 000 dólares** a ayudar a las familias que sufrieron pérdidas debido a estos desastres. Este fondo no solo es un mecanismo de respuesta inmediata, sino que también establece un precedente en la forma en que las ciudades pueden abordar situaciones críticas. En un país donde los desastres naturales son una realidad constante, la existencia de este fondo es una herramienta vital para la recuperación y el bienestar de las comunidades.
+La IA tiene que ver con **seres humanos, pu**es sin ellos no habría IA, lo que nos lleva a concluir que esto debe servirnos, pues de lo contrario no tiene **justificación**. De esta **transformación** nace lo que es la **industria** 5.0, también conocida como la **quinta revolución industrial** (5RI) que representa una era **colaborativa** entre los humanos, la tecnología avanzada y la **inteligencia artificial,** trabajando juntos para impulsar la **innovación y productividad**.
 
-El **Fondo Metropolitano para la Gestión de Riesgos y Atención de Emergencias**, administrado por la Empresa Pública Metropolitana de Logística para la Seguridad y la Convivencia Ciudadana (EP Emseguridad), ha permitido la entrega de kits humanitarios que incluyen alimentos no perecibles, ropa, frazadas y artículos de limpieza. 
+Para entender su significado debemos comprender que cuando se da la 1.ª **revolución industrial**, este vino acompañado por **mecanización**, donde se necesitaba **habilidades artesanales**, h**abilidades agrícolas y una educación básica** para entender el **funcionamiento** de la **máquina** de vapor. La 2.ª **revolución industrial** ocurre cuando aparece la **electrificación**, donde ya se requieren **habilidades mecánicas**, **educación tecnológica** y comprensión básica de matemáticas.
 
-> Esta ayuda es crucial para las familias que han perdido sus hogares o que se encuentran en situaciones vulnerables tras los incendios. La capacidad del fondo para movilizar recursos rápidamente demuestra una respuesta efectiva ante emergencias, algo que debería ser modelo para otras ciudades del país.
+El siguiente paso, o sea la industria 3.0 nos conduce a la **automatización**, que implica **habilidades** de tipeo, (uso de máquina de escribir), ingeniería **manufacturera** para la **construcción** de las nuevas plantas **industriales**, su **automatización** que implica resolución de problemas. Más recientemente, en la última parte del siglo XX aparece la **industria** 4.0 que es la era de la **digitalización**, cuyos requerimientos son: capacidad de codificación y programación, **habilidades analíticas** que se dan con el **alfabetismo digital**.
 
-Los kits humanitarios entregados son solo el primer paso en el proceso de recuperación. En una segunda fase, se llevará a cabo una evaluación socioeconómica para entender mejor las necesidades de las familias afectadas. Esto no solo permitirá una distribución más efectiva de los recursos, sino que también ayudará a diseñar programas a largo plazo que aborden las causas subyacentes de la vulnerabilidad. La evaluación socioeconómica es esencial para asegurar que el apoyo sea sostenible y adaptado a las realidades específicas de cada comunidad.
+Esto nos conduce a lo que hoy estamos reconociendo como una **transformación** en la industria 5.0 que requiere la **colaboración** e interrelación **humana**– IA. Qué demanda adaptabilidad y capacidad de **resolución de problemas complejos**, acompañados de **innovación creativa.** Aquí aparece un nuevo factor que se llama la **capacidad disléxica.** Dónde es necesario la **alfabetización** en IA, mantenerse actualizado sobre los **múltiples ángulos** y avances de la IA, comprender su potencial impacto sobre nuestra **actividad productiva** y un seguimiento de evaluación crítica tanto sobre los beneficios como los riesgos que trae este **avance tecnológico** que nos permita entender cómo utilizar la IA en una **forma ética y eficaz** aumentando nuestras capacidades en lugar de reemplazarlas. Se menciona esto porque la gran mayoría rehúye entender el efecto que tiene la IA y solo le acusan de que va a eliminar millones de **puestos de trabajo**.
 
-**Quito se ha posicionado como la única ciudad en Ecuador** con un fondo específico para emergencias, lo que resalta su compromiso con la gestión responsable del riesgo. Este modelo debe ser replicado en otras ciudades del país, donde las comunidades también enfrentan riesgos significativos debido a incendios forestales y otros desastres naturales. La implementación de fondos similares podría mejorar significativamente la capacidad de respuesta ante emergencias en todo Ecuador.
+Ciertamente, tiene ese **potencial** de aquellos que aún no entienden que hoy la **educación** es permanente y continua en la **vida humana** por su acelerada y vertiginosa **transformación** en cualquiera de las áreas de trabajo. Las **habilidades** necesarias van más allá de solo la **experiencia técnica**, incluyen un criterio analítico, la **adaptabilidad**, un **pensamiento creativo** y el **manejo apropiado** de la **inteligencia emocional** para aprovechar maximizando los beneficios de la IA y al mismo tiempo usar nuestra **inteligencia humana**. Debemos desarrollar nuevas **habilidades** permanentemente y adaptarnos a las demandas cambiantes y conocidos como las que vendrán de la industria 5.0
 
-El f**ondo a favor de los afectados por incendios forestales en Quito** no solo representa un modelo efectivo de respuesta ante emergencias, sino que también subraya la importancia de la solidaridad comunitaria y la prevención. A medida que avanzamos hacia un futuro incierto marcado por el cambio climático, es vital que Quito continúe fortaleciendo este tipo de iniciativas y se extiendan en todo el país. Solo así podremos asegurar un entorno más seguro y resiliente para todos sus habitantes.
+En todas las regiones del mundo, las **organizaciones**, tanto **públicas** y **privadas,** están en la procura de talento, de **tecnología** e **innovación** para impulsar su progreso. Nunca ha sido más importante tener las personas adecuadas con las **habilidades** necesarias para los **trabajos** a ejecutarse y todo ellos requiere de la **inteligencia humana**; que son aquellas identificadas también como **habilidades** de **poder**, **habilidades interpersonales** o denominadas también **habilidades blandas**, que son las que se separan la **inteligencia humana** de la **inteligencia artificial** y son aquellas requeridas en este mundo aceleradamente cambiante.
+
+**Pascal Bornet,** **consultor** y **conferencista** sobre IA, señala que se debe redoblar los **esfuerzos** en las **habilidades** que realmente nos distinguen identificada como “**húmicos**” que son una creatividad genuina, **autenticidad social y pensamiento crítico**; también estar preparados mediante el desarrollo de **resiliencia** y adaptabilidad necesarias para prosperar en un mundo que evoluciona a un ritmo exponencial. Esto requiere un nuevo nivel de **agilidad mental** y apertura al **aprendizaje continuo.** A esto es lo que se refiere el desarrollo de las **capacidades disléxicas** dónde 1 en 5 los seres humanos la padecen en algún grado; pero para esta **industria** 5.0 parece que tendría una ventaja sobre el 80% de la **población** que tiene que aprender a pensar fuera del cajón.
 
 Cartas a Quito / 11 de octubre de 2024
 ======================================
@@ -88,6 +215,26 @@ La amenaza que reflejan Irán y Hezbolá es innegable. El momento de actuar es a
 
 **_Tzach Sarid, Embajador de Israel_**
 
+Existen iniciativas en Quito que se pueden emular
+=================================================
+
+El fondo de Quito para incendios forestales es un modelo de solidaridad y apoyo a las comunidades afectadas por desastres naturales.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![El fondo metropolitano ayuda a familias afectadas por incendios forestales con kits humanitarios esenciales para su recuperación.](https://www.elcomercio.com/wp-content/uploads/2024/10/Incendios-forestales-en-Quito.jpg)
+
+La creación de un fondo específico para los afectados por incendios forestales en Quito representa un avance significativo en la gestión de emergencias en Ecuador. Hasta septiembre de este año, s**e han destinado 100 000 dólares** a ayudar a las familias que sufrieron pérdidas debido a estos desastres. Este fondo no solo es un mecanismo de respuesta inmediata, sino que también establece un precedente en la forma en que las ciudades pueden abordar situaciones críticas. En un país donde los desastres naturales son una realidad constante, la existencia de este fondo es una herramienta vital para la recuperación y el bienestar de las comunidades.
+
+El **Fondo Metropolitano para la Gestión de Riesgos y Atención de Emergencias**, administrado por la Empresa Pública Metropolitana de Logística para la Seguridad y la Convivencia Ciudadana (EP Emseguridad), ha permitido la entrega de kits humanitarios que incluyen alimentos no perecibles, ropa, frazadas y artículos de limpieza. 
+
+> Esta ayuda es crucial para las familias que han perdido sus hogares o que se encuentran en situaciones vulnerables tras los incendios. La capacidad del fondo para movilizar recursos rápidamente demuestra una respuesta efectiva ante emergencias, algo que debería ser modelo para otras ciudades del país.
+
+Los kits humanitarios entregados son solo el primer paso en el proceso de recuperación. En una segunda fase, se llevará a cabo una evaluación socioeconómica para entender mejor las necesidades de las familias afectadas. Esto no solo permitirá una distribución más efectiva de los recursos, sino que también ayudará a diseñar programas a largo plazo que aborden las causas subyacentes de la vulnerabilidad. La evaluación socioeconómica es esencial para asegurar que el apoyo sea sostenible y adaptado a las realidades específicas de cada comunidad.
+
+**Quito se ha posicionado como la única ciudad en Ecuador** con un fondo específico para emergencias, lo que resalta su compromiso con la gestión responsable del riesgo. Este modelo debe ser replicado en otras ciudades del país, donde las comunidades también enfrentan riesgos significativos debido a incendios forestales y otros desastres naturales. La implementación de fondos similares podría mejorar significativamente la capacidad de respuesta ante emergencias en todo Ecuador.
+
+El f**ondo a favor de los afectados por incendios forestales en Quito** no solo representa un modelo efectivo de respuesta ante emergencias, sino que también subraya la importancia de la solidaridad comunitaria y la prevención. A medida que avanzamos hacia un futuro incierto marcado por el cambio climático, es vital que Quito continúe fortaleciendo este tipo de iniciativas y se extiendan en todo el país. Solo así podremos asegurar un entorno más seguro y resiliente para todos sus habitantes.
+
 Descalabro y desconcierto
 =========================
 
@@ -109,28 +256,6 @@ El descalabro aparece peligrosamente en la sociedad como resultado del mal manej
 El desconcierto de la sociedad ecuatoriana es el fruto del descalabro imperante, que puede derivar en problemas que afecten su estabilidad y bienestar: las  tensiones y divisiones entre grupos, que aumentan los conflictos sociales debido a la  falta  de consenso sobre valores y objetivos para el bien común; la incertidumbre y la falta de propósito, que pueden contribuir al agravamiento de  los problemas de salud mental, como la ansiedad y la depresión; la falta de adecuada conducción del país, que ha  desembocado en  la apatía general, ha producido  ciudadanos desmotivados para participar en actividades comunitarias o políticas, y para desempeñar un papel activo en la definición de sus intereses, aspiraciones y estilos de vida.
 
 Para que estos descalabros no tengan  efectos duraderos en la sociedad ecuatoriana se requiere un esfuerzo concertado para abordarlos y restaurar la cohesión social.
-
-Inteligencia artificial (IA) y la industria 5.0
-===============================================
-
-Las organizaciones, tanto públicas y privadas, están en la procura de talento, de tecnología e innovación para impulsar su progreso.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
-
-La IA tiene que ver con **seres humanos, pu**es sin ellos no habría IA, lo que nos lleva a concluir que esto debe servirnos, pues de lo contrario no tiene **justificación**. De esta **transformación** nace lo que es la **industria** 5.0, también conocida como la **quinta revolución industrial** (5RI) que representa una era **colaborativa** entre los humanos, la tecnología avanzada y la **inteligencia artificial,** trabajando juntos para impulsar la **innovación y productividad**.
-
-Para entender su significado debemos comprender que cuando se da la 1.ª **revolución industrial**, este vino acompañado por **mecanización**, donde se necesitaba **habilidades artesanales**, h**abilidades agrícolas y una educación básica** para entender el **funcionamiento** de la **máquina** de vapor. La 2.ª **revolución industrial** ocurre cuando aparece la **electrificación**, donde ya se requieren **habilidades mecánicas**, **educación tecnológica** y comprensión básica de matemáticas.
-
-El siguiente paso, o sea la industria 3.0 nos conduce a la **automatización**, que implica **habilidades** de tipeo, (uso de máquina de escribir), ingeniería **manufacturera** para la **construcción** de las nuevas plantas **industriales**, su **automatización** que implica resolución de problemas. Más recientemente, en la última parte del siglo XX aparece la **industria** 4.0 que es la era de la **digitalización**, cuyos requerimientos son: capacidad de codificación y programación, **habilidades analíticas** que se dan con el **alfabetismo digital**.
-
-Esto nos conduce a lo que hoy estamos reconociendo como una **transformación** en la industria 5.0 que requiere la **colaboración** e interrelación **humana**– IA. Qué demanda adaptabilidad y capacidad de **resolución de problemas complejos**, acompañados de **innovación creativa.** Aquí aparece un nuevo factor que se llama la **capacidad disléxica.** Dónde es necesario la **alfabetización** en IA, mantenerse actualizado sobre los **múltiples ángulos** y avances de la IA, comprender su potencial impacto sobre nuestra **actividad productiva** y un seguimiento de evaluación crítica tanto sobre los beneficios como los riesgos que trae este **avance tecnológico** que nos permita entender cómo utilizar la IA en una **forma ética y eficaz** aumentando nuestras capacidades en lugar de reemplazarlas. Se menciona esto porque la gran mayoría rehúye entender el efecto que tiene la IA y solo le acusan de que va a eliminar millones de **puestos de trabajo**.
-
-Ciertamente, tiene ese **potencial** de aquellos que aún no entienden que hoy la **educación** es permanente y continua en la **vida humana** por su acelerada y vertiginosa **transformación** en cualquiera de las áreas de trabajo. Las **habilidades** necesarias van más allá de solo la **experiencia técnica**, incluyen un criterio analítico, la **adaptabilidad**, un **pensamiento creativo** y el **manejo apropiado** de la **inteligencia emocional** para aprovechar maximizando los beneficios de la IA y al mismo tiempo usar nuestra **inteligencia humana**. Debemos desarrollar nuevas **habilidades** permanentemente y adaptarnos a las demandas cambiantes y conocidos como las que vendrán de la industria 5.0
-
-En todas las regiones del mundo, las **organizaciones**, tanto **públicas** y **privadas,** están en la procura de talento, de **tecnología** e **innovación** para impulsar su progreso. Nunca ha sido más importante tener las personas adecuadas con las **habilidades** necesarias para los **trabajos** a ejecutarse y todo ellos requiere de la **inteligencia humana**; que son aquellas identificadas también como **habilidades** de **poder**, **habilidades interpersonales** o denominadas también **habilidades blandas**, que son las que se separan la **inteligencia humana** de la **inteligencia artificial** y son aquellas requeridas en este mundo aceleradamente cambiante.
-
-**Pascal Bornet,** **consultor** y **conferencista** sobre IA, señala que se debe redoblar los **esfuerzos** en las **habilidades** que realmente nos distinguen identificada como “**húmicos**” que son una creatividad genuina, **autenticidad social y pensamiento crítico**; también estar preparados mediante el desarrollo de **resiliencia** y adaptabilidad necesarias para prosperar en un mundo que evoluciona a un ritmo exponencial. Esto requiere un nuevo nivel de **agilidad mental** y apertura al **aprendizaje continuo.** A esto es lo que se refiere el desarrollo de las **capacidades disléxicas** dónde 1 en 5 los seres humanos la padecen en algún grado; pero para esta **industria** 5.0 parece que tendría una ventaja sobre el 80% de la **población** que tiene que aprender a pensar fuera del cajón.
 
 Fiscalía de Bolivia emitirá orden de detención para Evo Morales
 ===============================================================
@@ -787,173 +912,3 @@ El partido de Moisés Caicedo con la Selección de Ecuador
 En su partido realizó **96 toques de balón** y acertó con el 89% de sus pases (65 de 73) de acuerdo a Sofascore. Brindó dos pases claves, cinco centros en los que acertó uno y envió 13 balones largos. Asimismo, ‘Moi’ sumó un remate al arco.
 
 A nivel defensivo **ganó seis de 10 duelos** en tierra y tres de cuatro en el aire. Interceptó dos veces la pelota y realizó dos entradas.
-
-Juicio político contra Andrea Arrobo es el siguiente en la lista de Fiscalización
-=================================================================================
-
-El juicio político contra la exministra de Energía, Andrea Arrobo, tiene como causal el incumplimiento de funciones, en el marco de los cortes de luz.
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El juicio político contra Andrea Arrobo, exministra de Energía y Minas, es el siguiente en la lista de la Comisión de Fiscalización.](https://www.elcomercio.com/wp-content/uploads/2024/04/Andrea-Arrobo-2.jpg)
-
-**Andrea Arrobo**, exministra de **Energía y Minas** en el Gobierno de **Daniel Noboa**, es la siguiente en la lista de la **Comisión de Fiscalización** para juicio político.
-
-La Comisión de Fiscalización de la **Asamblea Nacional** está a punto de evacuar el juicio político en contra de la ministra del Interior, **Mónica Palencia**.
-
-### Más noticias:
-
-* [Juicio político contra Mónica Palencia depende del Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/juicio-politico-contra-monica-palencia-depende-pleno-asamblea.html "Juicio político contra Mónica Palencia depende del Pleno de la Asamblea")
-* [Daniel Noboa ordena reforzar seguridad de las hidroeléctricas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-ordena-reforzar-seguridad-hidroelectricas.html "Daniel Noboa ordena reforzar seguridad de las hidroeléctricas")
-
-La exministra, Andrea Arrobo, estuvo casi cinco meses cumpliendo las funciones de Ministra de Energía, hasta el 16 de abril de 2024.
-
-Debido a la crisis energética, el 17 de abril, Daniel Noboa pidió su renuncia y la acusó de supuesto **sabotaje** por haber afectado al sector energético.
-
-Junto a la exministra, otros 20 funcionarios también fueron señalados como posibles cómplices en la crisis energética.
-
-Posteriormente, a través de su cuenta de X, Arrobo señaló que, desde el 16 de abril, enfrentaba una investigación fiscal por el delito de **paralización de servicio público**.
-
-En su defensa, en una carta difundida por redes sociales, Arrobo señaló que recibió un “sector en crisis”.
-
-Esto, producto de más de seis años de “abandono” y de una falta de inversión, con problemas estructurales y una dependencia de la importación de energía.
-
-Así como, de condiciones climáticas “que no pueden solucionarse en cinco meses”.
-
-Solicitantes y causales del juicio político contra Andrea Arrobo que tramitará Fiscalización  
-
------------------------------------------------------------------------------------------------
-
-El 8 de mayo de 2024, el Consejo de Administración Legislativa (CAL) calificó la solicitud de juicio político en contra de Andrea Arrobo.
-
-La iniciativa surgió de las bancadas de **Construye y el Partido Social Cristiano (PSC)** que le acusan de incumplimiento de funciones.
-
-El 24 de abril, Ana Galarza y Jaime Moreno de Construye ingresaron oficialmente la solicitud de juicio político contra Arrobo.
-
-Vicente Taiano (PSC) se unió al pedido, que contó con 40 firmas de respaldo.
-
-Según los solicitantes, la prueba “madre” del incumplimiento de funciones de Arrobo fue que los “apagones” seguían y no se hizo nada.
-
-Esto, pese a que hubo alertas desde noviembre del año pasado.
-
-¿Cuándo juega la Selección de Ecuador ante Uruguay?
-===================================================
-
-La Selección de Ecuador terminó la primera rueda de las eliminatorias al Mundial 2026 en cuarto lugar.
-------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié enfrentando a Paraguay con Ecuador en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_paraguay_3.jpg)
-
-Este jueves 10 de octubre de 2024 la **Selección de Ecuador empató Paraguay 0-0** en la novena fecha de las eliminatorias al Mundial 2026 en el estadio Rodrigo Paz Delgado. 
-
-Bajo el mando del entrenador argentino Sebastián Beccacece, **Ecuador alcanzó su segunda primer empate** en el Rodrigo Paz Delgado, con lo que se mantiene invicto de local en este proceso que comanda desde agosto en sustitución del español Félix Sánchez.
-
-### Más noticias:
-
-* [Gustavo Alfaro está invicto con Paraguay en eliminatorias sudamericanas](https://www.elcomercio.com/deportes/futbol/gustavo-alfaro-esta-invicto-con-paraguay-eliminatorias-sudamericanas.html "Gustavo Alfaro está invicto con Paraguay en eliminatorias sudamericanas")
-* [¿Cómo seguir el partido Ecuador vs. Paraguay si tienes cortes de luz?](https://www.elcomercio.com/deportes/seleccion-ecuador-paraguay-cortes-luz-canal-whatsapp.html "¿Cómo seguir el partido Ecuador vs. Paraguay si tienes cortes de luz?")
-* [Luis Chango reconoce que no tuvo ‘permisos’ para construir estadio](https://www.elcomercio.com/deportes/futbol/luis-chango-estadio-echaleche-ligapro.html "Luis Chango reconoce que no tuvo ‘permisos’ para construir estadio")
-
-La primera victoria de ‘Becca’ como DT de la Tri fue ante Perú por 1-0 en un disputado encuentro que se puso en escena en el **propio Rodrigo Paz Delgado**, el martes 15 de septiembre en la octava jornada con un gol de ‘Superman’ Valencia. 
-
-Tras la división de puntos con la escuadra **paraguaya dirigida por Gustavo Alfaro**, la mirada se centra en lo que será visitar a Uruguay en el siempre complicado estadio Centenario. 
-
-El próximo martes 15 de octubre la Selección de Ecuador se enfrentará a la de Uruguay. El juego arranca a las 18:30. 
-
-La última visita de Ecuador fue con derrota 
---------------------------------------------
-
-El 9 de septiembre de 2021 la Selección de Ecuador, con Alfaro como su entrenador, fue derrotada 1-0 por Uruguay en la décima jornada de las eliminatorias al Mundial Catar 2022. 
-
-Por primera vez este encuentro se **disputó en el estadio Campeón del Siglo**, escenario que pertenece a Peñarol, equipo en el que brilló el delantero ecuatoriano Alberto Spencer en la década de los 60. 
-
-La ‘Tri’ le planteó una dura resistencia a los ‘charrúas’ que recién en el minuto 90+2’ marcó el único tanto por intermedio de Gastón Pereiro. 
-
-Ecuador mantuvo un eficiente planteamiento defensivo, **bloqueando la salida del cuadro local**. Fue así que la ‘Celeste’ tuvo pocas opciones, pero al final alcanzó el gol con el remate de cabeza de Pereiro.
-
-Minutos previos al gol, Matías Vecino marcó un golazo a los 87′ para abrir el marcador, pero el árbitro Anderson Daronco lo anuló por un claro fuera de juego a instancias del VAR.
-
-En este compromiso **Carlos Gruezo, por esos días jugador del Augsburgo de Alemania** y que no fue citado por Beccacece, fue el capitán y completó los 90 minutos. Le cedió la cinta a Enner Valencia cuando entró en lugar de Michael Estrada. 
-
-Alineación de Ecuador:
-----------------------
-
-Pedro Ortiz; Pervis Estupiñán, Piero Hincapié, Félix Torres, Luis Fernando Leon (Bryan Ángulo) y Byron Castillo; **Moisés Caicedo (Ángel Mena), Carlos Gruezo** y Fernando Gaibor (Alan Franco); Michael Estrada y Gonzalo Plata. 
-
-Alineación de Uruguay:
-----------------------
-
-Fernando Muslera; Matías Viña (Joaquín Puiquerez), José María Giménez, Ronald Araujo y Nahitan Nández; Matías Vecino, **Rodrigo Betancur, Federico Valverde y Giorgian de Arrascaeta** (Gastón Pereiro); Bian Rodríguez (Federico Martínez) y Agustín Álvarez.
-
-![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_paraguay_4-1024x683.jpg)
-
-Foto: Diego Pallero / EL COMERCIO.
-
-No te pierdas – El Confesionario
---------------------------------
-
-Susto en Caupicho por nuevas lluvias este jueves 10 de octubre
-==============================================================
-
-Varios barrios del centro y sur de Quito registraron agua acumulada en las calles.
-----------------------------------------------------------------------------------
-
-![La quebrada de Caupicho se desbordó el miércoles 2 de octubre](https://www.elcomercio.com/wp-content/uploads/2024/10/caupicho.jpg)
-
-Las **fuertes lluvias** que se registraron en Quito, la tarde de este jueves 10 de octubre de 2024, provocaron **preocupación** en los moradores de **La Lucha de los Pobres**, en el sur.
-
-Los ciudadanos de este sector temían que ocurra una **inundación** de grandes proporciones, similar a la del miércoles 2 de octubre.
-
-### Más noticias
-
-* [Lluvias en Ecuador deberían caer por un mes sin parar para ayudar a embalses](https://www.elcomercio.com/actualidad/ecuador/lluvias-en-ecuador-deberian-caer-por-un-mes-sin-parar-para-ayudar-a-embalses.html "Lluvias en Ecuador deberían caer por un mes sin parar para ayudar a embalses")
-* [Sectores con lluvias y acumulaciones de agua en Quito este jueves](https://www.elcomercio.com/actualidad/quito/sectores-con-lluvias-y-acumulaciones-de-agua-en-quito-este-jueves.html "Sectores con lluvias y acumulaciones de agua en Quito este jueves")
-* [Tres quebradas desbordadas, 17 inundaciones y 22 personas afectadas por las lluvias en Quito](https://www.elcomercio.com/actualidad/quito/tres-quebradas-desbordadas-17-inundaciones-y-22-personas-afectadas-por-lluvias-quito.html "Tres quebradas desbordadas, 17 inundaciones y 22 personas afectadas por las lluvias en Quito")
-
-Aquel día, viviendas y calles se vieron afectadas por la **torrencial precipitación** que cayó en la ciudad.
-
-Como consecuencia, la **quebrada de Caupicho** y el **río Machángara** se desbordaron en el barrio.
-
-Acumulación de agua en Caupicho
--------------------------------
-
-Ante las alertas de un nuevo desbordamiento en la quebrada de Caupicho, personal del Comité de Operaciones de Emergencia (**COE**) informó que en el lugar se evidenció **acumulación de agua**, este jueves.
-
-“La lluvia no afectó de forma considerable a las viviendas del barrio, ni a la escuela cercana Francisco Javier Salazaren”, detallaron las autoridades.
-
-Sin embargo, al lugar acudieron miembros del Cuerpo de **Bomberos** de Quito para realizar la limpieza de los **sumideros**.
-
-Además, se registró presencia de agua en otros barrios del **centro** y del **sur**, como en La Mena 2, La Cocha, Centro Histórico, La Vicentina, Villaflora, Solanda y en la av. Maldonado.
-
-Plan Lluvias tendrá una inversión millonaria
---------------------------------------------
-
-Según el alcalde de Quito, **Pabel Muñoz**, el Plan Lluvias que se implementa en el Distrito Metropolitano para enfrentar el invierno tiene una inversión que supera los **23 millones de dólares**.
-
-“La **Epmaps** (Empresa de Agua Potable y Alcantarillado de Quito) destinó 23,3 millones para reparaciones de colectores y redes de alcantarillado, mejoramiento y mantenimiento de estructuras de captación en quebradas, así como la adquisición de hidrosuccionadores para la desobstrucción de sumideros y pozos”, afirmó.
-
-Muñoz mencionó que hasta ahora se han limpiado 210 quebradas, como: El Tejado, Pulida, Conejo, Payaso, Guamaní, Huasipungo, Grande; entre otras.
-
-El burgomaestre también se refirió a cómo se trató la emergencia del miércoles 2 de octubre en **La Lucha de los Pobres**.
-
-“Desplegamos todo nuestro contingente humano, tecnológico y maquinaria para la atención oportuna de las emergencias suscitadas por las fuertes lluvias”.
-
-El Municipio, al igual que el Ministerio de Inclusión Social, entregó **kits** de alimentos e higiene a los afectados.
-
-> 📺 [#FrecuenciaQuiteña](https://twitter.com/hashtag/FrecuenciaQuite%C3%B1a?src=hash&ref_src=twsrc%5Etfw) | Respecto al trabajo preventivo realizado en las quebradas de la ciudad: “Se han realizado 210 limpiezas en quebradas como El Tejado, Pulida, Conejo, Payaso, Guamaní, Huasipungo, Grande, entre otras. Necesitamos de la colaboración de los vecinos para… [pic.twitter.com/pJHlpgzlUs](https://t.co/pJHlpgzlUs)
-> 
-> — Municipio de Quito (@MunicipioQuito) [October 7, 2024](https://twitter.com/MunicipioQuito/status/1843309886358077927?ref_src=twsrc%5Etfw)
-
-22 personas afectadas por las inundaciones
-------------------------------------------
-
-Producto de los incidentes del 2 de octubre, **22 personas resultaron afectadas**. De estas, nueve en el sector El Paraíso y 13 en la Lucha de los Pobres, quienes recibieron ayuda humanitaria.
-
-Se registraron cinco familias afectadas en El Paraíso y **256 estudiantes** fueron evacuados de las instituciones Francisco Javier Salazar y Celiano Monge.
-
-También hubo daños en:
-
-* Nueve viviendas
-* 19 locales afectados
-* Tres vehículos
-
-Para esta emergencia, se desplegaron **141 funcionarios** de las entidades municipales; además, dos patrulleros, seis motos, dos minicargadoras, seis volquetas y 34 camionetas. Cuatro hidrosuccionadoras, dos retroexcavadoras; en total 63 recursos logísticos desplegados.
