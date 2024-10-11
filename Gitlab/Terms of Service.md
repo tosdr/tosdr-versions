@@ -2457,6 +2457,7 @@
         * [ ]  [Field Manager Development Program](https://handbook.gitlab.com/handbook/sales/field-manager-development/)
         * [ ]  [Field Operations](https://handbook.gitlab.com/handbook/sales/field-operations/)
             * [ ]  [Business Operations - Salesforce Reference](https://handbook.gitlab.com/handbook/sales/field-operations/sfdc/)
+            * [ ]  [Career Development at GitLab & RSOE](https://handbook.gitlab.com/handbook/sales/field-operations/rsoe-gd/)
             * [ ]  [Customer Success Operations](https://handbook.gitlab.com/handbook/sales/field-operations/customer-success-operations/)
                 * [ ]  [CS Rep Account and Oppty Assignment Processes](https://handbook.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-rep-assignment-process/)
                 * [ ]  [Customer Programs](https://handbook.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/)
