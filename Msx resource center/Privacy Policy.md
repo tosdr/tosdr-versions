@@ -150,10 +150,12 @@ Latest reactions
 
 Latest forum posts
 
+* [Emulating Zemmix Neo on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/emulating-zemmix-neo-on-openmsx "Emulating Zemmix Neo on OpenMSX")
+* [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card?page=1 "MFRSCC+SD FAT12 & FAT16 partition on one card.")
+* [Sony HB-75AS not displaying](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75as-not-displaying?page=2 "Sony HB-75AS not displaying")
 * [Looking for ROBOPAL (by BANDAI) software](https://www.msx.org/forum/msx-talk/software/looking-for-robopal-by-bandai-software?page=1 "Looking for ROBOPAL (by BANDAI) software")
 * [A1 MK2 two EPROM system - need help removing app firmware (Cockpit?)](https://www.msx.org/forum/msx-talk/hardware/a1-mk2-two-eprom-system-need-help-removing-app-firmware-cockpit "A1 MK2 two EPROM system - need help removing app firmware (Cockpit?)")
 * [Cheap and durable joystick](https://www.msx.org/forum/msx-talk/hardware/cheap-and-durable-joystick "Cheap and durable joystick")
-* [MFRSCC+SD FAT12 & FAT16 partition on one card.](https://www.msx.org/forum/msx-talk/general-discussion/mfrsccsd-fat12-fat16-partition-on-one-card "MFRSCC+SD FAT12 & FAT16 partition on one card.")
 * [MSX Bluetooth transmitter](https://www.msx.org/forum/msx-talk/hardware/msx-bluetooth-transmitter "MSX Bluetooth transmitter")
 * [Bluemsx Gunfright cheat trainer help](https://www.msx.org/forum/msx-talk/emulation/bluemsx-gunfright-cheat-trainer-help "Bluemsx Gunfright cheat trainer help")
 * [MSX2 - RBG Video output not working](https://www.msx.org/forum/msx-talk/hardware/msx2-rbg-video-output-not-working?page=1 "MSX2 - RBG Video output not working")
@@ -161,8 +163,6 @@ Latest forum posts
 * [DSKPRO Full 17.0](https://www.msx.org/forum/msx-talk/software/dskpro-full-170 "DSKPRO Full 17.0")
 * [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 * [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=222 "Wiki editing discussion")
-* [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
-* [Two different flash cartridges hanging up on boot.](https://www.msx.org/forum/msx-talk/general-discussion/two-different-flash-cartridges-hanging-up-on-boot "Two different flash cartridges hanging up on boot. ")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
