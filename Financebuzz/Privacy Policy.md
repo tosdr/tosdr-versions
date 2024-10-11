@@ -94,7 +94,7 @@ We offer Standard Contractual Clauses to meet the adequacy and security requirem
 
 ### State Privacy Laws
 
-State law provides residents in Calfornia, Colorado, Connecticut, Utah, and Virginia with the additional rights described below:
+State law provides residents in Calfornia, Colorado, Connecticut, Montana, Oregon, Texas, Utah, and Virginia with the additional rights described below:
 
 * The right to know what Personal Information we have collected, used, disclosed, and sold about you. To submit a request to know, click on this [link](https://financebuzz.com/ccpa) to visit our web form.
 * The right to request that we delete any Personal Information we have collected about you, subject to certain exceptions. To submit a request for deletion, click on this [link](https://financebuzz.com/ccpa) to visit our web form.
@@ -122,4 +122,4 @@ Buzzery LLC
 Delray Beach, FL 33444  
 help@financebuzz.com  
   
-Last updated: February 8, 2024.
+Last updated: October 11, 2024.
