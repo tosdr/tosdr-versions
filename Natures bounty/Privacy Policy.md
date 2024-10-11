@@ -1,4 +1,4 @@
-[SAVE BIG ON AMAZON FROM OCTOBER 8-9 — Shop Nature's Bounty on Amazon →](https://www.amazon.com/stores/page/6A960ABC-8339-4EF1-92DB-5CA59FC8A4E8?ingress=0&visitId=d8eaf645-49ed-46cd-aba0-7af4af0fa22e)
+[Explore our Women’s Wellness Hub](https://naturesbounty.com/pages/womens-wellness) [Shop Our Favorite Products](https://naturesbounty.com/collections/favorites) [Grow Thicker, Fuller Hair in 3 Months\*](https://naturesbounty.com/pages/hair-growth)
 
 [![Nature's Bounty](//naturesbounty.com/cdn/shop/files/NB-logo-dark-green.svg?v=1713987522)](https://www.naturesbounty.com/)
 
@@ -52,11 +52,11 @@ Specialty
 
 [Best Sellers](https://www.naturesbounty.com/collections/favorites) [View All Products](https://www.naturesbounty.com/pages/our-products)
 
-UNLOCK BIG SAVINGS ON OUR AMAZON STORE
+Discover Our NEW Women’s Wellness Hub
 
-DON'T MISS THESE BIG SAVINGS! Supplement yourself with exclusive deals on Amazon from October 8-9 only. LIMITED STOCK ONLY.
+Check out our collection of women’s wellness products that are designed to elevate your journey from your hair to your heels.
 
-[Shop Nature's Bounty on Amazon](https://www.amazon.com/stores/page/6A960ABC-8339-4EF1-92DB-5CA59FC8A4E8?ingress=0&visitId=d8eaf645-49ed-46cd-aba0-7af4af0fa22e)
+[Explore Women's Wellness](https://www.naturesbounty.com/pages/womens-wellness)
 
 Health Benefits
 
@@ -170,11 +170,11 @@ Specialty
 
 [View all Specialty](https://www.naturesbounty.com/collections/specialty)
 
-UNLOCK BIG SAVINGS ON OUR AMAZON STORE
+Discover Our NEW Women’s Wellness Hub
 
-DON'T MISS THESE BIG SAVINGS! Supplement yourself with exclusive deals on Amazon from October 8-9 only. LIMITED STOCK ONLY.
+Check out our collection of women’s wellness products that are designed to elevate your journey from your hair to your heels.
 
-[Shop Nature's Bounty on Amazon](https://www.amazon.com/stores/page/6A960ABC-8339-4EF1-92DB-5CA59FC8A4E8?ingress=0&visitId=d8eaf645-49ed-46cd-aba0-7af4af0fa22e)
+[Explore Women's Wellness](https://www.naturesbounty.com/pages/womens-wellness)
 
 Health Benefits
 
