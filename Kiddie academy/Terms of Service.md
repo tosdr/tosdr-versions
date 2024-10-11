@@ -13,8 +13,8 @@
     * [Preschool 3-Year-Olds](https://kiddieacademy.com/academies/programs/preschool/)
     * [Pre-Kindergarten 4-5 Years-Old](https://kiddieacademy.com/academies/programs/pre-kindergarten/)
     * [Kindergarten 5-Year-Olds](https://kiddieacademy.com/academies/programs/kindergarten/)
-    * [School Age Ages 5 to 12](https://kiddieacademy.com/academies/programs/school-age-programs/)
-    * [Summer Camp 2-5 Years-Old](https://kiddieacademy.com/academies/programs/summer-camp/)
+    * [School Age Ages 5 to 10](https://kiddieacademy.com/academies/programs/school-age-programs/)
+    * [Summer Camp 3-10 Years-Old](https://kiddieacademy.com/academies/programs/summer-camp/)
 * [Tuition & Enrollment](https://kiddieacademy.com/academies/enrollment-and-tuition)
 * [About Us](https://kiddieacademy.com/company/)
     
