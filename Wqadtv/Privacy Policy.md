@@ -30,14 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f0702a4b-d08f-48de-8266-72b4a5ea13ac/20241010T155955/f0702a4b-d08f-48de-8266-72b4a5ea13ac_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f0702a4b-d08f-48de-8266-72b4a5ea13ac/20241010T155955/f0702a4b-d08f-48de-8266-72b4a5ea13ac_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/kraft-heinz-davenport-evacuation-thursday-morning-chemical-leak/526-1509eeed-43b1-47c5-be5b-6393def679b5)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ad555d55-5a24-47e3-a316-cc651ca40ea7/20241011T215335/ad555d55-5a24-47e3-a316-cc651ca40ea7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ad555d55-5a24-47e3-a316-cc651ca40ea7/20241011T215335/ad555d55-5a24-47e3-a316-cc651ca40ea7_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/great-river-quilt-show-mississippi-valley-quilters-guild-500-quilts/526-db65970a-f756-4dd0-abfd-cf926896e4ac)
         
-        #### [Kraft Heinz in Davenport evacuated Thursday morning due to chemical leak](https://www.wqad.com/article/news/local/public-safety/kraft-heinz-davenport-evacuation-thursday-morning-chemical-leak/526-1509eeed-43b1-47c5-be5b-6393def679b5)
+        #### [Ab-sew-lutely! The Great River Quilt Show returns to the Quad Cities](https://www.wqad.com/article/news/local/the-current/great-river-quilt-show-mississippi-valley-quilters-guild-500-quilts/526-db65970a-f756-4dd0-abfd-cf926896e4ac) [![](https://media.tegna-media.com/assets/WQAD/images/ad555d55-5a24-47e3-a316-cc651ca40ea7/20241011T215335/ad555d55-5a24-47e3-a316-cc651ca40ea7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ad555d55-5a24-47e3-a316-cc651ca40ea7/20241011T215335/ad555d55-5a24-47e3-a316-cc651ca40ea7_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/great-river-quilt-show-mississippi-valley-quilters-guild-500-quilts/526-db65970a-f756-4dd0-abfd-cf926896e4ac)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c992a443-813e-4b77-86cb-76c87314b04b/20241011T012834/c992a443-813e-4b77-86cb-76c87314b04b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c992a443-813e-4b77-86cb-76c87314b04b/20241011T012834/c992a443-813e-4b77-86cb-76c87314b04b_360x203.jpg)](https://www.wqad.com/article/news/community/rock-island-families-celebrate-halloween-holey-stumpkins-event/526-8927311e-3c57-4cf4-8e79-35f04b471306)
+        #### [A sea of quilts: The Great River Quilt Show returns to the Quad Cities](https://www.wqad.com/article/news/local/the-current/great-river-quilt-show-mississippi-valley-quilters-guild-500-quilts/526-db65970a-f756-4dd0-abfd-cf926896e4ac)
+    *  [![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_360x203.jpg)](https://www.wqad.com/article/news/crime/sterling-man-arrested-shooting-damage-vehicle/526-76bf038c-58b7-4510-b5c0-5281e7f12a1c)
         
-        #### [Rock Island families celebrate Halloween with annual ‘Holey Stumpkins’ event](https://www.wqad.com/article/news/community/rock-island-families-celebrate-halloween-holey-stumpkins-event/526-8927311e-3c57-4cf4-8e79-35f04b471306)
+        #### [Sterling man arrested following shooting that damaged residence, vehicle](https://www.wqad.com/article/news/crime/sterling-man-arrested-shooting-damage-vehicle/526-76bf038c-58b7-4510-b5c0-5281e7f12a1c) [![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/b46f2a44-299d-4cf7-8ede-eaa84d11e239/b46f2a44-299d-4cf7-8ede-eaa84d11e239_360x203.jpg)](https://www.wqad.com/article/news/crime/sterling-man-arrested-shooting-damage-vehicle/526-76bf038c-58b7-4510-b5c0-5281e7f12a1c)
         
+        #### [Sterling man arrested after shooting that damaged residence, vehicle](https://www.wqad.com/article/news/crime/sterling-man-arrested-shooting-damage-vehicle/526-76bf038c-58b7-4510-b5c0-5281e7f12a1c)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,13 +58,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/CCT/images/eb27a329-d1af-45fd-abda-d3140c1ee7de/20241011T112017/eb27a329-d1af-45fd-abda-d3140c1ee7de_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/eb27a329-d1af-45fd-abda-d3140c1ee7de/20241011T112017/eb27a329-d1af-45fd-abda-d3140c1ee7de_360x203.jpg)](https://www.wqad.com/article/news/nation-world/milton-cleanup-continues/507-5bf79a13-a948-449e-a899-6dfdb3fd3edd)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/42371c50-ae54-4938-8742-d396e20451a0/20241011T220656/42371c50-ae54-4938-8742-d396e20451a0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/42371c50-ae54-4938-8742-d396e20451a0/20241011T220656/42371c50-ae54-4938-8742-d396e20451a0_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [What's next for Florida after Hurricane Milton? Many residents still don't know.](https://www.wqad.com/article/news/nation-world/milton-cleanup-continues/507-5bf79a13-a948-449e-a899-6dfdb3fd3edd)
+        #### [Slow cooldown in temperatures in the days ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/5952efc0-9eca-4b65-b408-8e75fec5cac9/20241011T123611/5952efc0-9eca-4b65-b408-8e75fec5cac9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5952efc0-9eca-4b65-b408-8e75fec5cac9/20241011T123611/5952efc0-9eca-4b65-b408-8e75fec5cac9_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/afeba818-18ce-40d7-bf83-fb4754b2d2a9/20241011T190527/afeba818-18ce-40d7-bf83-fb4754b2d2a9_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/afeba818-18ce-40d7-bf83-fb4754b2d2a9/20241011T190527/afeba818-18ce-40d7-bf83-fb4754b2d2a9_360x203.jpg)](https://www.wqad.com/article/news/nation-world/northern-lights-dazzling-farther-south-than-normal-cause/507-7a651b98-87fa-410e-9833-34235a635500)
         
-        #### [Near-record warm temperatures are expected Friday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [What's behind the northern lights that dazzled the sky farther south than normal](https://www.wqad.com/article/news/nation-world/northern-lights-dazzling-farther-south-than-normal-cause/507-7a651b98-87fa-410e-9833-34235a635500)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,7 +88,7 @@ Navigation
 
 Davenport, IA »
 
-78°
+79°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
