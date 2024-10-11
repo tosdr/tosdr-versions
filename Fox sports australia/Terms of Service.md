@@ -40,12 +40,10 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250201)
 * [Women's T20 WC
     
-    12/10 1:00 AEST
-    
     |     |     |
     | --- | --- |
-    | AUS | –   |
-    | PAK | –   |
+    | AUS |     |
+    | PAK | 0 /9 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250114)
 * [Women's T20
@@ -88,14 +86,26 @@ FOX SCORES
     | PER | 9 /135 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250104)
-* [Sheffield Shield
+* [Women's T20
+    
+    12/10 14:30 AEST
     
     |     |     |
     | --- | --- |
-    | WA  | 465 & 6 /263d |
-    | QLD | 367 & 1 /82 |
+    | ACT | –   |
+    | MELS | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250103)
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250105)
+* [Women's T20
+    
+    12/10 15:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MELR | –   |
+    | PER | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250106)
 * [Sheffield Shield
     
     Match Drawn
@@ -116,6 +126,16 @@ FOX SCORES
     | SA  | 260 & 5 /309 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250101)
+* [Sheffield Shield
+    
+    Match Drawn
+    
+    |     |     |
+    | --- | --- |
+    | WA  | 465 & 6 /263d |
+    | QLD | 367 & 1 /120 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250103)
 * NRL
     
 * [Women's PM XIII
@@ -142,14 +162,24 @@ FOX SCORES
     
 * [AFL Women's
     
-    11/10 19:15 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | WBD | –   |
-    | ESS | –   |
+    | WBD | 0.3.3 |
+    | ESS | 3.8.26 |
     
     Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240704)
+* [AFL Women's
+    
+    12/10 13:05 AEST
+    
+    |     |     |
+    | --- | --- |
+    | HAW | –   |
+    | WCE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20240705)
 * NFL
     
 * [NFL
@@ -166,26 +196,14 @@ FOX SCORES
     
 * [NBL
     
-    11/10 19:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | ADL | –   |
-    | SYD | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040002)
-* Football
-    
-* [WCQ
-    
     Full Time
     
     |     |     |
     | --- | --- |
-    | KSA | 0   |
-    | JPN | 2   |
+    | ADL | 89  |
+    | SYD | 79  |
     
-    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250303)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25040002/play-by-play)
 * Baseball
     
 * [MLB
@@ -208,6 +226,16 @@ FOX SCORES
     | NYY | 3   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002FB080)
+* [MLB
+    
+    12/10 11:08 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LAD | –   |
+    | SD  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB20240040029307E)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -954,7 +982,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
