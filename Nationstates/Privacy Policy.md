@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [An Almost Endless Song (9)](https://forum.nationstates.net/viewtopic.php?t=556729&f=25&view=unread#unread ""An Almost Endless Song" (9 posts)")
-* [LGBT Rights summary table in YN (87)](https://forum.nationstates.net/viewtopic.php?t=552313&f=23&view=unread#unread ""LGBT Rights summary table in YN" (87 posts)")
-* [The Solitary Throne \[OOC | Closed\] (753)](https://forum.nationstates.net/viewtopic.php?t=555477&f=31&view=unread#unread ""The Solitary Throne [OOC | Closed]" (753 posts)")
-* [\[Submitted\] Liberate Roses Without Th… (15)](https://forum.nationstates.net/viewtopic.php?t=556740&f=24&view=unread#unread ""[Submitted] Liberate Roses Without Thorns" (15 posts)")
-* [The King’s Engagement Party (OOC/Sign… (49)](https://forum.nationstates.net/viewtopic.php?t=555483&f=4&view=unread#unread ""The King’s Engagement Party (OOC/Sign-Up)" (49 posts)")
+* [Internal and International Incidents… (4,441)](https://forum.nationstates.net/viewtopic.php?t=525784&f=5&view=unread#unread ""Internal and International Incidents [OOC • OPEN]" (4,441 posts)")
+* [NS Military Worldbuilding Thread No. 12 (8,891)](https://forum.nationstates.net/viewtopic.php?t=489819&f=23&view=unread#unread ""NS Military Worldbuilding Thread No. 12" (8,891 posts)")
+* [AL hugs YL (102)](https://forum.nationstates.net/viewtopic.php?t=556020&f=25&view=unread#unread ""AL hugs YL" (102 posts)")
+* [Major League Baseball Thread (2,254)](https://forum.nationstates.net/viewtopic.php?t=463073&f=20&view=unread#unread ""Major League Baseball Thread" (2,254 posts)")
+* [What is your relationship with AU? II (2,196)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (2,196 posts)")
 
 Advertisement
 
