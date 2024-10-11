@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ebd7ca9ed8a17830edd8e200a4844b4a
+70ddb916e5526eb16b6f0869243305c9
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![8 mm round vintage Japanese spun glass beads](https://www.sojourner.biz/images/cache/glass/GL0057.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-round-vintage-japanese-spun-glass-beads.html "8 mm round vintage Japanese spun glass beads")
+[![Carnelian Roman warrior intaglio clasp](https://www.sojourner.biz/images/cache/SKU0367-1front.200.jpg)](https://www.sojourner.biz/clasps/cameo/intaglio/carnelian-roman-warrior-intaglio-clasp.html "Carnelian Roman warrior intaglio clasp")
 
-#### [8 mm round vintage Japanese spun glass beads](https://www.sojourner.biz/beads/glass/8-mm-round-vintage-japanese-spun-glass-beads.html "8 mm round vintage Japanese spun glass beads")
+#### [Carnelian Roman warrior intaglio clasp](https://www.sojourner.biz/clasps/cameo/intaglio/carnelian-roman-warrior-intaglio-clasp.html "Carnelian Roman warrior intaglio clasp")
 
-$16.00
+$25.00
 
 ### Best Sellers
 
@@ -187,10 +187,10 @@ $16.00
     $16.00
 4. [Swarovski crystal AB clasp](https://www.sojourner.biz/clasps/swarovski/swarovski-crystal-ab-clasp.html "Swarovski crystal AB clasp")  
     $28.00
-5. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
-    $16.00
-6. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
+5. [White pearl toggle clasp](https://www.sojourner.biz/clasps/toggles/white-pearl-toggle-clasp.html "White pearl toggle clasp")  
     $28.00
+6. [Square pearl clasp](https://www.sojourner.biz/clasps/pearl/square-pearl-clasp.html "Square pearl clasp")  
+    $16.00
 7. [Neon blue Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/neon-blue-swarovski-polka-dot-clasp.html "Neon blue Swarovski polka dot clasp")  
     $15.00
 8. [Red bar clasp](https://www.sojourner.biz/clasps/glass/red-bar-clasp.html "Red bar clasp")  
