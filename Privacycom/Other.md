@@ -30,7 +30,7 @@ By agreeing to these Terms, you authorize Privacy to electronically debit and cr
 
 You also acknowledge that the amount and frequency of the foregoing debits and credits may vary and that you waive your right to receive prior notice of the amount and date of each debit and credit.
 
-You acknowledge that the electronic authorization contained in this Section represents your written authorization for ACH transactions as provided herein and will remain in full force and effect until you notify Privacy that you wish to revoke this authorization by emailing support@privacy.com. You must notify Privacy at least 14 Business Days before the scheduled debit date of any ACH transaction from your Bank Account in order to cancel this authorization. If we do not receive notice at least 14 Business Days before the scheduled debit date, we may attempt, in our sole discretion, to cancel the debit transaction. However, we assume no responsibility for our failure to do so.
+You acknowledge that the electronic authorization contained in this Section represents your written authorization for ACH transactions as provided herein and will remain in full force and effect until you notify Privacy that you wish to revoke this authorization by emailing [\[email protected\]](https://privacy.com/cdn-cgi/l/email-protection). You must notify Privacy at least 14 Business Days before the scheduled debit date of any ACH transaction from your Bank Account in order to cancel this authorization. If we do not receive notice at least 14 Business Days before the scheduled debit date, we may attempt, in our sole discretion, to cancel the debit transaction. However, we assume no responsibility for our failure to do so.
 
 If you withdraw your electronic authorization contained in this Section, we will suspend or close your Privacy Account, and you will no longer be able to use your Privacy Account or the Services, except as expressly provided in these Terms. Please note that withdrawal of your electronic authorization contained in this Section will not apply to transactions performed before the withdrawal of your authorization becomes effective.
 
@@ -49,7 +49,7 @@ PMB 57488
 New York, NY 10003-1502  
 United States
 
-If you have questions, please email us at [support@privacy.com](mailto:support@privacy.com) , or give us a call at [1-844-771-8229](tel:+18447718229).
+If you have questions, please email us at [\[email protected\]](https://privacy.com/cdn-cgi/l/email-protection) , or give us a call at [1-844-771-8229](tel:+18447718229).
 
 Product
 
@@ -81,7 +81,7 @@ Company
 
 Contact Us
 
-[Email](mailto:support@privacy.com)[Twitter](https://twitter.com/privacyhq)
+[\[email protected\]](https://privacy.com/cdn-cgi/l/email-protection)[Twitter](https://twitter.com/privacyhq)
 
 \* For users on the Privacy Personal plan, there are no fees on domestic transactions and foreign transactions incur a 3% fee ($0.50 minimum). Users on our [Pro and Premium plans](https://privacy.com/pricing) do not incur foreign transaction fees. Refer to your cardholder agreement for details.
 
