@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-12.323 Tb/s
+5.748 Tb/s
 
 Peak
 
