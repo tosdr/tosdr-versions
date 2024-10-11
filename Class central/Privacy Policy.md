@@ -414,38 +414,38 @@ Class Central experiments with cataloging online courses from California Communi
 Most common
 -----------
 
-1. python
+1. excel
     
-2. graphic design
+2. harvard
     
-3. French
+3. flutter
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Communication Skills
     
-    10,726 courses](https://www.classcentral.com/subject/ai)
-2. [Web Development
+    3,998 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Project Management
     
-    13,005 courses](https://www.classcentral.com/subject/web-development)
+    3,921 courses](https://www.classcentral.com/subject/project-management)
 3. [Web Design
     
-    2,340 courses](https://www.classcentral.com/subject/web-design)
+    2,349 courses](https://www.classcentral.com/subject/web-design)
 
 Popular courses
 ---------------
 
-1. [Learn Like a Pro: Science-Based Tools to Become Better at Anything
+1. [Philosophy, Science and Religion: Religion and Science
     
-    edX](https://www.classcentral.com/course/how-to-learn-barbara-oakley-olav-schewe-learn-lik-40292)
-2. [Paleontology: Theropod Dinosaurs and the Origin of Birds
+    University of Edinburgh](https://www.classcentral.com/course/philosophy-science-religion-3-10623)
+2. [Improving Communication Skills
     
-    University of Alberta](https://www.classcentral.com/course/theropods-birds-5236)
-3. [Introduction to Complexity
+    University of Pennsylvania](https://www.classcentral.com/course/wharton-communication-skills-8235)
+3. [Unlocking Information Security I: From Cryptography to Buffer Overflows
     
-    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-introduction-to-complexity-557)
+    Tel Aviv University](https://www.classcentral.com/course/information-security-tel-aviv-university-unlockin-16964)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
