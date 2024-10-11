@@ -107,63 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
-
-New comment
-
-The source lyrics have been updated. Please review...  [more](https://lyricstranslate.com/en/comment/1169090#comment-1169090)
-
-[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
-
-New comment
-
-The source lyrics have been updated. Please review...  [more](https://lyricstranslate.com/en/comment/1169089#comment-1169089)
-
-[![Сахнюк Володимир Васильович.](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628020-1725634308.jpg)](https://lyricstranslate.com/en/translator/%D1%81%D0%B0%D1%85%D0%BD%D1%8E%D0%BA-%D0%B2%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%BE%D0%B2%D0%B8%D1%87 "Сахнюк Володимир Васильович.")
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
 
 New translation
 
-[Anton Makarskiy - Ангел (Angel)](https://lyricstranslate.com/en/anton-makarskiy-angel-ukrainian)
+[Karolina Czarnecka - Biały Kucyk](https://lyricstranslate.com/en/karolina-czarnecka-bialy-kucyk-english)
 
-Russian → Ukrainian
+Polish → English
 
-[![Burghold](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1338222-1514825045.jpg)](https://lyricstranslate.com/en/translator/burghold "Burghold")
+[![losko_prime](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/loskoprime "losko_prime")
 
-New transcription request
+New song
 
-[Keltania - Wächterlied](https://lyricstranslate.com/en/keltania-w%C3%A4chterlied)
+[RK (France) - Bae](https://lyricstranslate.com/en/rk-france-bae-lyrics)
 
-German
+French
 
-[![habib05](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632457-1728459805.jpg)](https://lyricstranslate.com/en/translator/habib05 "habib05")
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+
+New song
+
+[Klaudia Kowalik - Za daleko](https://lyricstranslate.com/en/klaudia-kowalik-za-daleko-lyrics)
+
+Polish
+
+[![cristiana](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1115952-1682087978.jpg)](https://lyricstranslate.com/en/translator/cristiana "cristiana")
+
+New vote
+
+[Să ne imaginăm](https://lyricstranslate.com/en/imagine-s%C4%83-ne-imagin%C4%83m.html)
+
+5
+
+[![marta90](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1261967-1567282100.jpg)](https://lyricstranslate.com/en/translator/marta90 "marta90")
+
+New request
+
+[Rosenstolz - Die Zigarette danach](https://lyricstranslate.com/en/request/die-zigarette-danach-0)
+
+German → Polish
+
+[![losko_prime](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/loskoprime "losko_prime")
+
+New song
+
+[RK (France) - Qui je suis](https://lyricstranslate.com/en/rk-france-qui-je-suis-lyrics)
+
+French
+
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+
+New song
+
+[Klaudia Kowalik - Niemiłość](https://lyricstranslate.com/en/klaudia-kowalik-niemilosc-lyrics)
+
+Polish
+
+[![losko_prime](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/loskoprime "losko_prime")
 
 New translation
 
-[Joost - Ome Robert](https://lyricstranslate.com/en/joost-ome-robert-portuguese)
+[Gims - Belle](https://lyricstranslate.com/en/gims-belle-italian)
 
-Dutch → Portuguese
-
-[![Balkantürk](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1439077-1706213565.jpg)](https://lyricstranslate.com/en/translator/balkant%C3%BCrk "Balkantürk")
-
-New translation
-
-[Aleksandr Marshal - Вожак (Vozhak)](https://lyricstranslate.com/en/aleksandr-marshal-vozhak-english)
-
-Russian → English
-
-[![darywzc](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1558809-1725792559.jpg)](https://lyricstranslate.com/en/translator/darywzc "darywzc")
-
-New comment
-
-Please, edit this https://lyricstranslate.com/ru/...  [more](https://lyricstranslate.com/en/comment/1169088#comment-1169088)
-
-[![habib05](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1632457-1728459805.jpg)](https://lyricstranslate.com/en/translator/habib05 "habib05")
-
-New translation
-
-[Joost - 2002/2001](https://lyricstranslate.com/en/joost-20022001-portuguese)
-
-Dutch → Portuguese
+French → Italian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
