@@ -151,7 +151,3 @@ Free standard shipping on all U.S. orders.
 All trademarks are the property of their respective owners. © SanMedica (2012-2024) All Rights Reserved.
 
 "Close (esc)"
-
-[0](#)
-
-![smNoImage](https://cdn.shopify.com/extensions/1409daf0-cd8b-4fd0-ab28-c5700f729d4f/sales-motivator-free-gifts-10/assets/noimage.png) ![smChangeIcon](https://cdn.shopify.com/extensions/1409daf0-cd8b-4fd0-ab28-c5700f729d4f/sales-motivator-free-gifts-10/assets/change.svg)
