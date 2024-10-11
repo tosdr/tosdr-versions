@@ -128,39 +128,39 @@ Advertisement
     Amy Winehouse: What Really Happened
     
     Amy Winehouse is a singer and songwriter who is famous for her strong vocals as well as her blend of numerous musical styles such as soul, jazz and R&B.Winehouse has gained huge publicity for her dr...](https://documentaryheaven.com/amy-winehouse-what-really-happened/ "Amy Winehouse: What Really Happened")
-* [![The Boy Who Was Turned Into a Girl](/wp-content/thumbnails/5946-100x70.jpg?x53432)
+* [![The Trials of J. Robert Oppenheimer](/wp-content/thumbnails/16705-100x70.jpg?x53432)
     
-    The Boy Who Was Turned Into a Girl
+    The Trials of J. Robert Oppenheimer
     
-    In 1965 in the Canadian town of Winnipeg, Janet Reimer gave birth to twin boys - Bruce and Brian. Six months later a bungled circumcision left Bruce without a penis. Based on a radical new theory of g...](https://documentaryheaven.com/the-boy-who-was-turned-into-a-girl/ "The Boy Who Was Turned Into a Girl")
+    J. Robert Oppenheimer, a man of brilliant intellect, unwavering pride, and undeniable charisma, once stood as a national hero. Guiding the United States through the crucible of World War II, he playe...](https://documentaryheaven.com/the-trials-of-j-robert-oppenheimer/ "The Trials of J. Robert Oppenheimer")
 
 ###### Throwback Documentaries
 
-* [![Declassified: The Cuban Missile Crisis](/wp-content/thumbnails/9616-100x70.jpg?x53432)
+* [![10 Things You Dont Know About: Adolf Hitler](/wp-content/thumbnails/7477-100x70.jpg?x53432)
     
-    Declassified: The Cuban Missile Crisis
+    10 Things You Dont Know About: Adolf Hitler
     
-    One man wanted to win it all, the other had everything to loose, together their nuclear missiles brought the world to the edge of annihilation. In October of 1962 the island of Cuba became the centre](https://documentaryheaven.com/cuban-missile-crisis-declassified/ "Declassified: The Cuban Missile Crisis")
-* [![End Day](/wp-content/thumbnails/270-100x70.png?x53432)
+    Adolf Hitler was an Austrian-born German politician and the leader of the Nazi Party (German: Nationalsozialistische Deutsche Arbeiterpartei (NSDAP); National Socialist German Workers Party). He was c](https://documentaryheaven.com/10-things-you-dont-know-about-adolf-hitler/ "10 Things You Dont Know About: Adolf Hitler")
+* [![Pedigree Dogs Exposed: Three Years On](/wp-content/thumbnails/15067-100x70.jpg?x53432)
     
-    End Day
+    Pedigree Dogs Exposed: Three Years On
     
-    Imagine waking up to the last day on Earth...Inspired by the predictions of scientists, End Day creates apocalyptic scenarios that go beyond reality. In a single hour, explore five different fiction](https://documentaryheaven.com/end-day-a-documentary/ "End Day")
-* [![Champs](/wp-content/thumbnails/9774-100x70.jpg?x53432)
+    In August 2008, the BBC One investigative documentary Pedigree Dogs Exposed explored the true extent of the health and welfare problems witnessed in pedigree dogs and called it "the greatest animal w](https://documentaryheaven.com/pedigree-dogs-exposed-three-years-on/ "Pedigree Dogs Exposed: Three Years On")
+* [![Monster Black Holes](/wp-content/thumbnails/9342-100x70.png?x53432)
     
-    Champs
+    Monster Black Holes
     
-    This is the epic story of three of the most successful boxers of our time, Mike Tyson, Evander Holyfield, and Bernard Hopkins. This film documents their rise from nothing, how they chose the path](https://documentaryheaven.com/champs/ "Champs")
-* [![Between the Folds: The Art of Origami](/wp-content/thumbnails/7274-100x70.jpg?x53432)
+    Black holes haunt our universe, dark centres of gravity that swallow everything in their path. This National Geographic film asks questions such as what would you see if you got close enough](https://documentaryheaven.com/monster-black-holes/ "Monster Black Holes")
+* [![In Loving Memory](/wp-content/thumbnails/5951-100x70.jpg?x53432)
     
-    Between the Folds: The Art of Origami
+    In Loving Memory
     
-    Origami may seem an unlikely medium for understanding and explaining the world. But around the world fine artists and theoretical scientists are abandoning more conventional career paths to forge live](https://documentaryheaven.com/between-folds-art-of-origami/ "Between the Folds: The Art of Origami")
-* [![Deep Water](/wp-content/thumbnails/5568-100x70.jpg?x53432)
+    Road users pass them every day - sudden flashes of flowers tied to lampposts or lying by the side of the road. Across the UK roadside memorials have become the expected response when someone dies sudd](https://documentaryheaven.com/in-loving-memory/ "In Loving Memory")
+* [![Cutting Edge: The Child Sex Trade](/wp-content/thumbnails/879-100x70.jpg?x53432)
     
-    Deep Water
+    Cutting Edge: The Child Sex Trade
     
-    Deep Water is the stunning true story of the first solo, non-stop, round-the-world boat race, and the psychological toll it took on its competitors.Sponsored by the Sunday Times of London, the much-](https://documentaryheaven.com/deep-water/ "Deep Water")
+    Liviu Tipurita returns to his homeland of Romania to investigate stories he has heard that there has been a sudden rise in the trafficking of children into the sex trade. He meets an old friend, fifte](https://documentaryheaven.com/cutting-edge-the-child-sex-trade/ "Cutting Edge: The Child Sex Trade")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
