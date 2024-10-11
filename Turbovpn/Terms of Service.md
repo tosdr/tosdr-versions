@@ -211,6 +211,10 @@ Download VPN
 * [Switch VPN](https://turbovpn.com/download/switch)
 * [All Apps](https://turbovpn.com/download)
 
+Popular Uses
+
+* [VPN for Streaming](https://turbovpn.com/popular-uses/vpn-for-streaming)
+
 111 Countries
 
 * [US VPN](https://turbovpn.com/vpn-server/us-vpn)
