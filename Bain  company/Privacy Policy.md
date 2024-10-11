@@ -1016,7 +1016,7 @@ SUBSCRIBE
 ![Bain & Company](/contentassets/0b88e3e10a7b4592809517c28b75847e/logo_white.svg)
 
 * [](https://www.linkedin.com/company/bain-and-company)
-* [](https://twitter.com/bainandcompany)
+* [](https://x.com/bainandcompany)
 * [](https://www.facebook.com/bainandcompany)
 * [](https://www.youtube.com/@bainandcompany)
 * [](https://www.instagram.com/bainandcompany/)
