@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,443 members - 452,047,612 ads shown  
+131,443 members - 452,052,594 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -57,11 +57,11 @@ paid member banners
 
 [![](https://boomerangblaster.com/ban99.gif)](https://boomerangblaster.com/romanjeff)
 
-[![](https://geniecoop.com/ban33.gif)](https://geniecoop.com/nightmagic)
+[![](https://e-links.pro/smban1.gif)](https://e-links.pro/romanjeff)
 
-[![](https://boomerangblaster.com/ban44.gif)](https://boomerangblaster.com/sabdev)
+[![](https://boomerangblaster.com/banner23.gif)](https://boomerangblaster.com/purplegerbil)
 
-[![](https://boomerangblaster.com/banner2.gif)](https://boomerangblaster.com/nightmagic)
+[![](https://e-links.pro/smban1.gif)](https://e-links.pro/romanjeff)
 
 ![](26yrs0.gif)
 
