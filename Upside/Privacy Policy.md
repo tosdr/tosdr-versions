@@ -116,7 +116,7 @@ To exercise your rights regarding your Personal Data, the following methods are 
 
 * From a mobile device with the Upside application installed, click this [link](http://about:blank);
 * Access the Help Center in the Upside application and select “Submit a Privacy Request,” under the “Consumer Privacy” heading; or
-* Email [privacy@upside.com](mailto:privacy@upside.com) with the subject line PRIVACY REQUEST. Please indicate in the text of the email whether you are requesting the disclosure and/or deletion of Personal Data and your state of residence.
+* Email [\[email protected\]](https://www.upside.com/cdn-cgi/l/email-protection) with the subject line PRIVACY REQUEST. Please indicate in the text of the email whether you are requesting the disclosure and/or deletion of Personal Data and your state of residence.
 
 In addition, to process or request the correction of your Personal Data, the following method is available:
 
@@ -276,7 +276,7 @@ To exercise your rights regarding your Personal Data, the following methods are 
     
 * Access the Help Center in the Upside application and select “Submit a Privacy Request,” under the “Consumer Privacy” heading; or
     
-* Email privacy@upside.com with the subject line PRIVACY REQUEST. Please indicate in the text of the email whether you are requesting the disclosure and/or deletion of Personal Data and your state of residence.
+* Email [\[email protected\]](https://www.upside.com/cdn-cgi/l/email-protection) with the subject line PRIVACY REQUEST. Please indicate in the text of the email whether you are requesting the disclosure and/or deletion of Personal Data and your state of residence.
     
 
 In addition, to process or request the correction of your Personal Data, the following method is available:
@@ -322,7 +322,7 @@ Please also feel free to contact us if you have any questions about Upside’s P
   
 You may contact us as follows:
 
-* Email support@upside.com; or
+* Email [\[email protected\]](https://www.upside.com/cdn-cgi/l/email-protection); or
     
 * Access the Help Center in the Upside application and click the blue pen icon in the upper right hand corner to initiate a conversation.
     
