@@ -69,6 +69,14 @@ Recent News
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
+[Recent Veeam Vulnerability Exploited In Ransomware Attacks](https://packetstormsecurity.com/news/view/36464/Recent-Veeam-Vulnerability-Exploited-In-Ransomware-Attacks.html)
+
+Posted [Oct 11, 2024](https://packetstormsecurity.com/news/date/2024-10-11/ "14:40:25 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36464/) | [View](https://www.securityweek.com/recent-veeam-vulnerability-exploited-in-ransomware-attacks/)
+
 [US Charges 3 Companies, 15 People With Cryptocurrency Fraud](https://packetstormsecurity.com/news/view/36459/US-Charges-3-Companies-15-People-With-Cryptocurrency-Fraud.html)
 
 Posted [Oct 10, 2024](https://packetstormsecurity.com/news/date/2024-10-10/ "13:56:49 UTC")
@@ -84,6 +92,38 @@ Posted [Oct 10, 2024](https://packetstormsecurity.com/news/date/2024-10-10/ "13:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [mozilla](https://packetstormsecurity.com/news/tags/mozilla), [firefox](https://packetstormsecurity.com/news/tags/firefox), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36458/) | [View](https://www.securityweek.com/firefox-131-update-patches-exploited-zero-day-vulnerability/)
+
+[Doctor Web Refutes Hackers' Claim Of User Data Theft](https://packetstormsecurity.com/news/view/36457/Doctor-Web-Refutes-Hackers-Claim-Of-User-Data-Theft.html)
+
+Posted [Oct 10, 2024](https://packetstormsecurity.com/news/date/2024-10-10/ "13:56:43 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36457/) | [View](https://www.securityweek.com/doctor-web-refutes-hackers-claims-of-user-data-theft/)
+
+[Siemens Device PIN Susceptible To Remote Brute Force In Older Model](https://packetstormsecurity.com/news/view/36456/Siemens-Device-PIN-Susceptible-To-Remote-Brute-Force-In-Older-Model.html)
+
+Posted [Oct 10, 2024](https://packetstormsecurity.com/news/date/2024-10-10/ "13:56:37 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36456/) | [View](https://www.scworld.com/news/siemens-device-pin-susceptible-to-remote-brute-force-in-older-model)
+
+[Internet Archive Leaks User Info And Succumbs To DDoS](https://packetstormsecurity.com/news/view/36455/Internet-Archive-Leaks-User-Info-And-Succumbs-To-DDoS.html)
+
+Posted [Oct 10, 2024](https://packetstormsecurity.com/news/date/2024-10-10/ "13:56:32 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [password](https://packetstormsecurity.com/news/tags/password)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36455/) | [View](https://www.theregister.com/2024/10/10/internet_archive_ddos_data_leak/)
+
+[CISA Adds Fresh Ivanti Vuln, Critical Fortinet Bug To Hall Of Shame](https://packetstormsecurity.com/news/view/36454/CISA-Adds-Fresh-Ivanti-Vuln-Critical-Fortinet-Bug-To-Hall-Of-Shame.html)
+
+Posted [Oct 10, 2024](https://packetstormsecurity.com/news/date/2024-10-10/ "13:56:19 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36454/) | [View](https://www.theregister.com/2024/10/10/cisa_ivanti_fortinet_vulns/)
 
 [The Disappearance Of An Internet Domain](https://packetstormsecurity.com/news/view/36453/The-Disappearance-Of-An-Internet-Domain.html)
 
@@ -108,46 +148,6 @@ Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:5
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [japan](https://packetstormsecurity.com/news/tags/japan)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36451/) | [View](https://www.securityweek.com/casio-hit-by-cyberattack/)
-
-[Microsoft Confirms Exploited Zero-Day In Windows Management Console](https://packetstormsecurity.com/news/view/36450/Microsoft-Confirms-Exploited-Zero-Day-In-Windows-Management-Console.html)
-
-Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:55:46 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36450/) | [View](https://www.securityweek.com/patch-tuesday-microsoft-confirms-exploited-zero-day-in-windows-management-console/)
-
-[Ransomware Double-Extortion Group Listings Peaked In 2024](https://packetstormsecurity.com/news/view/36449/Ransomware-Double-Extortion-Group-Listings-Peaked-In-2024.html)
-
-Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:55:16 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36449/) | [View](https://www.scworld.com/news/ransomware-double-extortion-group-listings-peaked-in-2024-report-finds)
-
-[We're Finally Going To The Solar System's Most Intriguing But Unexplored Frontier](https://packetstormsecurity.com/news/view/36448/Were-Finally-Going-To-The-Solar-Systems-Most-Intriguing-But-Unexplored-Frontier.html)
-
-Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:55:02 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [space](https://packetstormsecurity.com/news/tags/space)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36448/) | [View](https://arstechnica.com/space/2024/10/were-finally-going-to-the-solar-systems-most-intriguing-but-unexplored-frontier/)
-
-[Qualcomm Urges Patching After Targeted Exploitation](https://packetstormsecurity.com/news/view/36447/Qualcomm-Urges-Patching-After-Targeted-Exploitation.html)
-
-Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:54:54 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [phone](https://packetstormsecurity.com/news/tags/phone), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36447/) | [View](https://www.theregister.com/2024/10/08/qualcomm_patch_spyware/)
-
-[Microsoft Issues 117 Patches — Some For Flaws Already Under Attack](https://packetstormsecurity.com/news/view/36446/Microsoft-Issues-117-Patches-Some-For-Flaws-Already-Under-Attack.html)
-
-Posted [Oct 9, 2024](https://packetstormsecurity.com/news/date/2024-10-09/ "13:54:44 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36446/) | [View](https://www.theregister.com/2024/10/08/patch_tuesday_october_2024/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2436629303&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2436629303.1728661209.1728661209.1728661209.1%3B%2B__utmz%3D32867617.1728661209.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2523935634&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2523935634.1728682466.1728682466.1728682466.1%3B%2B__utmz%3D32867617.1728682466.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
