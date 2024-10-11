@@ -103,7 +103,7 @@ Search
         * [News and Updates](https://pacificsource.com/resources/articles)
     * [Education](https://pacificsource.com/providers/training-and-education)
     * [Partner with Us](https://pacificsource.com/providers/partner-with-us)
-    * [Contact Provider Relations](https://pacificsource.com/providers/service-representatives-directory)
+    * [Contact Provider Relations](https://pacificsource.com/providers/relations-representatives-directory)
     * [Medicare](https://medicare.pacificsource.com/Providers)
 * Resources
     * [Resources Overview](https://pacificsource.com/resources)
@@ -412,7 +412,7 @@ Search
     * [Resources and Guides](#id-88c0c8b0-4904-468a-85e2-e02115f048b5)
     * [Education](https://pacificsource.com/providers/training-and-education)
     * [Partner with Us](https://pacificsource.com/providers/partner-with-us)
-    * [Contact Provider Relations](https://pacificsource.com/providers/service-representatives-directory)
+    * [Contact Provider Relations](https://pacificsource.com/providers/relations-representatives-directory)
     * [Medicare](https://medicare.pacificsource.com/Providers)
     
     * [Provider Portal](https://pacificsource.com/providers/about-intouch-providers)
