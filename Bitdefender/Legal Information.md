@@ -6,7 +6,7 @@
 
  
 
-[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?quality=85&preferwebp=true)](https://www.bitdefender.com/en-us/)
+[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?preferwebp=true&quality=85)](https://www.bitdefender.com/en-us/)
 
 * [For Consumer](https://www.bitdefender.com/en-us/consumer/)
     
@@ -99,7 +99,7 @@
         GravityZone Add-ons
         
         * [Security for Mobile](https://www.bitdefender.com/en-us/business/gravityzone-addons/security-for-mobile)
-        * [Security for Email](https://www.bitdefender.com/en-us/business/gravityzone-addons/email-security)
+        * [Security for Email](https://www.bitdefender.com/en-us/business/products/security-for-email)
         * [Security for Storage](https://www.bitdefender.com/en-us/business/products/security-for-storage)
         * [Integrity Monitoring](https://www.bitdefender.com/en-us/business/products/gravityzone-integrity-monitoring)
         * [Patch Management](https://www.bitdefender.com/en-us/business/gravityzone-addons/patch-management)
@@ -344,7 +344,7 @@
     * [MDR Portal](https://auth.mdr.bitdefender.com/login)
     
 
-![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?quality=85&preferwebp=true)
+![](/adobe/dynamicmedia/deliver/dm-aid--c122b0d3-1983-4210-8bd9-b60086fa3f2e/level-4-pattern.jpg?preferwebp=true&quality=85)
 
   [Home](https://www.bitdefender.com/en-us/) [Site](https://www.bitdefender.com/en-us/site) [View](https://www.bitdefender.com/en-us/site/view) [Legal Intellectual Property](https://www.bitdefender.com/en-us/site/view/legal-intellectual-property)
 
