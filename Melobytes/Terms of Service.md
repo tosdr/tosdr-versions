@@ -14,7 +14,7 @@ Artificial Intelligence
 * [AI generative zoom and pan video New](https://melobytes.com/en/app/ai_generative_zoom_video)
 * [ΑΙ image edit](https://melobytes.com/en/app/ai_image_edit)
 * [AI Image generator from text](https://melobytes.com/en/app/ai_text2image)
-* [ΑΙ image musicalization New](https://melobytes.com/en/app/ai_image_musicalization)
+* [ΑΙ image musicalization](https://melobytes.com/en/app/ai_image_musicalization)
 * [ΑΙ image narration](https://melobytes.com/en/app/ai_image_narration)
 * [AI Image recognition](https://melobytes.com/en/app/ai_image_recognize)
 * [AI Image to song](https://melobytes.com/en/app/ai_image2song)
@@ -76,7 +76,7 @@ Voice Composition
 Algorithmic music
 
 * [AI chord progression from text](https://melobytes.com/en/app/ai_text_to_chords)
-* [Ambient Melobytes music New](https://melobytes.com/en/app/melobytes-ambient-music)
+* [Ambient Melobytes music](https://melobytes.com/en/app/melobytes-ambient-music)
 * [Chord Progression Generator](https://melobytes.com/en/app/chord-generator)
 * [Chord Progression Generator (pro)](https://melobytes.com/en/app/chord-generator-pro)
 * [Happy birthday song](https://melobytes.com/en/app/happy_birthday)
@@ -104,8 +104,8 @@ Conversions
 
 Image - Video
 
-* [AI Album Cover New](https://melobytes.com/en/app/ai_album_cover)
-* [AI Comic New](https://melobytes.com/en/app/ai_comic)
+* [AI Album Cover](https://melobytes.com/en/app/ai_album_cover)
+* [AI Comic](https://melobytes.com/en/app/ai_comic)
 * [Cartoonizer](https://melobytes.com/en/app/cartoonizer)
 * [Convert image into painting](https://melobytes.com/en/app/image2painting)
 * [Convert RGB color to image](https://melobytes.com/en/app/rgb2image)
@@ -117,14 +117,14 @@ Image - Video
 * [Image moderator New](https://melobytes.com/en/app/ai_image_moderation)
 * [Image to ASCII Art](https://melobytes.com/en/app/image2ascii)
 * [Kaleidoscope](https://melobytes.com/en/app/kaleidoscope)
-* [Photo collage New](https://melobytes.com/en/app/collage)
+* [Photo collage](https://melobytes.com/en/app/collage)
 * [Random video files mix](https://melobytes.com/en/app/videomix)
 * [Red eyes fix](https://melobytes.com/en/app/red_eyes_fix)
 * [Text to ASCII Art (ΑΙ)](https://melobytes.com/en/app/ai_text2ascii)
 * [Text to emojis (ΑΙ)](https://melobytes.com/en/app/ai_text2emojis)
 * [Video to ASCII Art](https://melobytes.com/en/app/video2ascii)
 * [Video to cartoon](https://melobytes.com/en/app/video2cartoon)
-* [Word cloud New](https://melobytes.com/en/app/word_cloud)
+* [Word cloud](https://melobytes.com/en/app/word_cloud)
 
 Melogames
 
