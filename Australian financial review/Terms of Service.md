@@ -308,7 +308,6 @@ Advertise
 
 ### [Solomon Lew reveals why he is still obsessed with Myer](https://www.afr.com/work-and-careers/workplace/solomon-lew-reveals-why-he-is-still-obsessed-with-myer-20240925-p5kdfp)
 
-* 53 mins ago
 * Patrick Durkin
 
 * ### [What men really think about the push for gender balance](https://www.afr.com/work-and-careers/workplace/what-men-really-think-about-the-push-for-gender-balance-20240923-p5kcvb)
@@ -323,7 +322,6 @@ Advertise
 
 ### [Kirsten King wants you to flex; but don’t push Pilates to the limit](https://www.afr.com/life-and-luxury/health-and-wellness/kirsten-king-wants-you-to-flex-but-don-t-push-pilates-to-the-limit-20240912-p5k9xt)
 
-* 53 mins ago
 * Lauren Sams
 
 * ### [Is your water bottle chic enough? Plus, limited-edition ice-cream](https://www.afr.com/life-and-luxury/fashion-and-style/is-your-water-bottle-chic-enough-plus-limited-edition-ice-cream-20240930-p5kemx)
