@@ -77,7 +77,7 @@ Mobile Security
   
 Passwords are encrypted when they’re collected and when they’re sent to our servers. We don't store them without encrypting them first. In fact, all communications between our apps and our servers are encrypted using security protocols.
 
-Do you have additional questions about the security of Wave? Please [contact us](mailto:security@waveapps.com). We’d be happy to tell you more about the many steps we take to ensure the security of your sensitive information.
+Do you have additional questions about the security of Wave? Please [\[email protected\]](https://www.waveapps.com/cdn-cgi/l/email-protection). We’d be happy to tell you more about the many steps we take to ensure the security of your sensitive information.
 
 For US Businesses
 -----------------
