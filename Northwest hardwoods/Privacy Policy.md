@@ -65,6 +65,7 @@ Menu
         * [Specialty Panels](https://nwh.com/products-services/panels/specialty/)
     * [Pallet Stock](https://nwh.com/products-services/pallet-stock/)
     * [Value-Added Services](https://nwh.com/products-services/service-centers/)
+    * [Sell Your Timber](https://nwh.com/sell-your-timber/)
 * [Company](https://nwh.com/company/)
     * [History](https://nwh.com/company/history/)
     * [Leadership](https://nwh.com/company/leadership/)
@@ -77,13 +78,15 @@ Menu
     * [Our Blog: The Grain](https://nwh.com/blogs/)
 * [Contact](https://nwh.com/contact/)
     * [Find a Sales Rep](https://nwh.com/find-a-sales-rep/)
-    * [Sell Your Timber](https://nwh.com/purchasing/)
+    * [Sell Your Timber](https://nwh.com/sell-your-timber/)
+    * [Procurement](https://nwh.com/purchasing/)
 * [Careers](https://nwh.com/company/careers/)
 * [Search](https://nwh.com/search/)
 
 * [Contact](https://nwh.com/contact/)
     * [Find a Sales Rep](https://nwh.com/find-a-sales-rep/)
-    * [Sell Your Timber](https://nwh.com/purchasing/)
+    * [Sell Your Timber](https://nwh.com/sell-your-timber/)
+    * [Procurement](https://nwh.com/purchasing/)
 * [Careers](https://nwh.com/company/careers/)
 * [Search](https://nwh.com/search/)
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -99,7 +102,8 @@ Menu
 
 * [Contact](https://nwh.com/contact/)
     * [Find a Sales Rep](https://nwh.com/find-a-sales-rep/)
-    * [Sell Your Timber](https://nwh.com/purchasing/)
+    * [Sell Your Timber](https://nwh.com/sell-your-timber/)
+    * [Procurement](https://nwh.com/purchasing/)
 * [Careers](https://nwh.com/company/careers/)
 * [Search](https://nwh.com/search/)
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -188,7 +192,7 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 * [Supplier Code of Ethics](https://nwh.com/supplier-code-of-ethics/)
 * [Terms of Sales](https://nwh.com/terms-of-sales/)
 * [Terms of Purchase](https://nwh.com/terms-of-purchase/)
-* [Timber and Lumber Suppliers](https://nwh.com/purchasing/)
+* [Procurement](https://nwh.com/purchasing/)
 
 * [History](https://nwh.com/company/history/)
 * [Company](https://nwh.com/company/)
@@ -198,7 +202,7 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 * [Supplier Code of Ethics](https://nwh.com/supplier-code-of-ethics/)
 * [Terms of Sales](https://nwh.com/terms-of-sales/)
 * [Terms of Purchase](https://nwh.com/terms-of-purchase/)
-* [Timber and Lumber Suppliers](https://nwh.com/purchasing/)
+* [Procurement](https://nwh.com/purchasing/)
 
 [Contact Us](https://nwh.com/contact/)
 
