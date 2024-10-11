@@ -177,16 +177,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Court Blocks Enforcement Of NY Carry Ban On Private Property Open To The Public](https://www.thegunpage.com/court-blocks-enforcement-of-ny-carry-ban-on-private-property-open-to-the-public/10611148)
+* [FN Introduces the FN SCAR 15P In .300 BLACKOUT](https://www.thegunpage.com/fn-introduces-the-fn-scar-15p-in-300-blackout/10611146)
+* [Hunter Attacked And Severely Bitten By Grizzly In Wyoming](https://www.thegunpage.com/hunter-attacked-and-severely-bitten-by-grizzly-in-wyoming/10611144)
+* [The Masterkey Is Back! Tyr 1 KTMS 12-gauge](https://www.thegunpage.com/the-masterkey-is-back-tyr-1-ktms-12-gauge/10611142)
+* [Rust Armorer In More Gun Trouble](https://www.thegunpage.com/rust-armorer-in-more-gun-trouble/10611140)
+* [Pulsar Unveils The Thermion 2 LRF XL50 1.75-14x 1024 HD Thermal Optic](https://www.thegunpage.com/pulsar-unveils-the-thermion-2-lrf-xl50-1-75-14x-1024-hd-thermal-optic/10611143)
 * [Hypocrite in Chief: As a Wannabe President, Harris Has a Glock Problem](https://www.thegunpage.com/hypocrite-in-chief-as-a-wannabe-president-harris-has-a-glock-problem/10611138)
 * [What’s In Your Range Bag, Katie Zaun?](https://www.thegunpage.com/whats-in-your-range-bag-katie-zaun/10611137)
 * [TFB Review: XS Sights R3D 2.0 Desert Eagle Night Sights](https://www.thegunpage.com/tfb-review-xs-sights-r3d-2-0-desert-eagle-night-sights/10611134)
 * [POTD: Stogie Mag – Magazine-Shaped Humidor](https://www.thegunpage.com/potd-stogie-mag-magazine-shaped-humidor/10611135)
-* [Concealed Carry Corner: Speed Versus Accuracy](https://www.thegunpage.com/concealed-carry-corner-speed-versus-accuracy/10611136)
-* [Stay Comfortable at the Range with ALPS Outdoors’ Sierra Hooded Full Zip-Jacket](https://www.thegunpage.com/stay-comfortable-at-the-range-with-alps-outdoors-sierra-hooded-full-zip-jacket/10611130)
-* [Florida Officials Who “Inadvertently” Banned Guns Prior to Hurricane May Pay](https://www.thegunpage.com/florida-officials-who-inadvertently-banned-guns-prior-to-hurricane-may-pay/10611127)
-* [Springfield Armory XD Mod.3 9mm: New Grip Zones & Optics Ready](https://www.thegunpage.com/springfield-armory-xd-mod-3-9mm-new-grip-zones-optics-ready/10611129)
-* [Suppressor Registrations are Setting New Records](https://www.thegunpage.com/suppressor-registrations-are-setting-new-records/10611123)
-* [Remington Ammunition Releases Ranch Hand .22 LR Ammo](https://www.thegunpage.com/remington-ammunition-releases-ranch-hand-22-lr-ammo/10611125)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -228,15 +228,15 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [One Year Later](https://www.conservativedailynews.com/2024/10/one-year-later/#comment-782630)
+* KayCee on [How Is It Misinformation To Ask A Question](https://www.conservativedailynews.com/2024/10/how-is-it-misinformation-to-ask-a-question/#comment-782629)
+* Stanley Warner on [Chutzpah](https://www.conservativedailynews.com/2024/10/chutzpah/#comment-782628)
+* Stanley Warner on [Biden-Harris Administration ‘Grossly’ Underestimated Inflation Since 2019, New Study Shows](https://www.conservativedailynews.com/2024/10/biden-harris-administration-grossly-underestimated-inflation-since-2019-new-study-shows/#comment-782627)
 * charles wilkins on [Florida Needs Prayers – and Hands](https://www.conservativedailynews.com/2024/10/florida-needs-prayers-and-hands/#comment-782621)
 * KayCee on [Media Blitz Not Working For Democrats](https://www.conservativedailynews.com/2024/10/media-blitz-not-working-for-democrats/#comment-782613)
 * Jeff L. on [Trying to Understand the Way Leftist’s Think](https://www.conservativedailynews.com/2024/10/trying-to-understand-the-way-leftists-think/#comment-782608)
 * charles wilkins on [Unreal](https://www.conservativedailynews.com/2024/10/unreal/#comment-782598)
 * charles wilkins on [Unreal](https://www.conservativedailynews.com/2024/10/unreal/#comment-782597)
-* charles wilkins on [This Is Nuts](https://www.conservativedailynews.com/2024/10/this-is-nuts/#comment-782583)
-* Stanley Warner on [A Kamala Harris Presidency is the End of America as We have Known and Loved It](https://www.conservativedailynews.com/2024/10/a-kamala-harris-presidency-is-the-end-of-america-as-we-have-known-and-loved-it/#comment-782579)
-* charles wilkins on [Follow The Money](https://www.conservativedailynews.com/2024/10/follow-the-money-4/#comment-782578)
-* Jake on [America In The Age Of Stupidity: Why Can You Never Win An Argument With A Democrat?](https://www.conservativedailynews.com/2024/10/america-in-the-age-of-stupidity-why-can-you-never-win-an-argument-with-a-democrat/#comment-782571)
 
 [Close](#)
 
