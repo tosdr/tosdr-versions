@@ -60,7 +60,7 @@ Zero-trust security at the edge.
 
 [Contact SpiderOak](https://spideroak.com/contact-us)
 
-[![SpiderOak](https://spideroak.com/wp-content/uploads/elementor/thumbs/xstore-placeholder-qva7hz9cgkce6gd31t4jvonmo08xsjn6js1srvt9d4.png)](https://spideroak.com/)
+[![SpiderOak](https://spideroak.com/wp-content/uploads/elementor/thumbs/xstore-placeholder-qvdfdmr7yj0swkszj11fwzdt2epbdctdfjjkp6gmg8.png)](https://spideroak.com/)
 
 * [Home](https://spideroak.com/)
 * [About](https://spideroak.com/about/)
