@@ -1,8 +1,8 @@
 [Skip to content](#MainContent)
 
-[Try a New Service at 50% Off!](https://locations.waxcenter.com/?ajs_aid=06f3dd8d-3f34-470d-8b10-17196704fa75)
+[Save 25%, Buy 9 waxes, get 3 FREE](https://waxcenter.com/pages/wax-passes)
 
-[Buy More, Save More Event!](https://waxcenter.com/collections/all)
+[Try a New Service at 50% Off!](https://locations.waxcenter.com/)
 
  [![icon](https://cdn.shopify.com/s/files/1/0366/6670/4007/files/DiscountIcon.svg?v=1667333405) Refer a friend, Get $10 off\*](https://waxcenter.com/pages/refer-a-friend)
 
@@ -61,7 +61,7 @@
     
       Wax Pass
     
-    * [Save 18%, Buy 9 Waxes, Get 2 Free](https://waxcenter.com/pages/wax-passes)
+    * [Save 25%, Buy 9 Waxes, Get 3 Free](https://waxcenter.com/pages/wax-passes)
     
 * [Locations](https://locations.waxcenter.com/)
 * First Visit
@@ -96,7 +96,7 @@
 * [Gift Cards](https://waxcenter.com/pages/gift-cards)
 * [Get $10](https://waxcenter.com/pages/refer-a-friend?traffic_source=mobile_menu)
 * [Book Appointment](https://reservations.waxcenter.com/webstoreNew/user/signIn)
-* ![](//waxcenter.com/cdn/shop/t/372/assets/Black.png?v=9767089384246187071728042409) First Wax Free
+* ![](//waxcenter.com/cdn/shop/t/257/assets/Black.png?v=9767089384246187071723041323) First Wax Free
 
 [Log in](https://waxcenter.com/account/login)
 
@@ -148,7 +148,7 @@
     
 * [Wax Pass](https://waxcenter.com/pages/wax-passes)
     
-    * [Save 18%, Buy 9 Waxes, Get 2 Free](https://waxcenter.com/pages/wax-passes)
+    * [Save 25%, Buy 9 Waxes, Get 3 Free](https://waxcenter.com/pages/wax-passes)
     
 * [Locations](https://locations.waxcenter.com/)
 * [First Visit](https://waxcenter.com/pages/first-wax-free-2024)
