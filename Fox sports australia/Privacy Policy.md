@@ -30,32 +30,24 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 4
+    ENG won by inns & 47 runs
     
     |     |     |
     | --- | --- |
-    | PAK | 556 & 6 /152 |
+    | PAK | 556 & 220 |
     | ENG | 7 /823d |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250201)
 * [Women's T20 WC
     
-    WI won by 8 wkts
+    12/10 1:00 AEST
     
     |     |     |
     | --- | --- |
-    | BAN | 8 /103 |
-    | WI  | 2 /104 |
+    | AUS | –   |
+    | PAK | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250113)
-* [Women's T20
-    
-    |     |     |
-    | --- | --- |
-    | MELR | 1 /64 |
-    | HOB | 5 /169 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250102)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20WC2024-250114)
 * [Women's T20
     
     BRI won by 9 wkts
@@ -68,48 +60,62 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250101)
 * [Women's T20
     
-    11/10 14:30 AEST
+    MELR won by 5 wkts
     
     |     |     |
     | --- | --- |
-    | SYD6 | –   |
-    | ACT | –   |
+    | MELR | 5 /170 |
+    | HOB | 5 /169 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250102)
+* [Women's T20
+    
+    ACT won by 13 runs
+    
+    |     |     |
+    | --- | --- |
+    | SYD6 | 5 /159 |
+    | ACT | 6 /172 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250103)
 * [Women's T20
     
-    11/10 15:00 AEST
+    ADE won by 15 runs
     
     |     |     |
     | --- | --- |
-    | ADE | –   |
-    | PER | –   |
+    | ADE | 5 /150 |
+    | PER | 9 /135 |
     
     Match Centre](https://www.foxsports.com.au/cricket/domestic-cricket/big-bash/match?matchid=WSC2024-250104)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | VIC | 9 /428d & 1 /81 |
+    | WA  | 465 & 6 /263d |
+    | QLD | 367 & 1 /82 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250103)
+* [Sheffield Shield
+    
+    Match Drawn
+    
+    |     |     |
+    | --- | --- |
+    | VIC | 9 /428d & 2 /120d |
     | TAS | 9 /527d |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250102)
 * [Sheffield Shield
     
+    Match Drawn
+    
     |     |     |
     | --- | --- |
     | NSW | 366 & 6 /282d |
-    | SA  | 260 & 4 /134 |
+    | SA  | 260 & 5 /309 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250101)
-* [Sheffield Shield
-    
-    |     |     |
-    | --- | --- |
-    | WA  | 465 & 3 /106 |
-    | QLD | 367 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250103)
 * NRL
     
 * [Women's PM XIII
@@ -148,12 +154,12 @@ FOX SCORES
     
 * [NFL
     
-    3rd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | SEA | 3   |
-    | SF  | 16  |
+    | SEA | 24  |
+    | SF  | 36  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-250601)
 * Basketball
@@ -176,42 +182,12 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | AUS | 3   |
-    | CHN | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250301)
-* [WCQ
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BHR | 2   |
-    | IDN | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250302)
-* [WCQ
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
     | KSA | 0   |
     | JPN | 2   |
     
     Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250303)
 * Baseball
     
-* [MLB
-    
-    Bottom 6th Innings
-    
-    |     |     |
-    | --- | --- |
-    | KC  | 1   |
-    | NYY | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002FB080)
 * [MLB
     
     Final
@@ -222,6 +198,16 @@ FOX SCORES
     | CLE | 5   |
     
     Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB202400400247699)
+* [MLB
+    
+    Final
+    
+    |     |     |
+    | --- | --- |
+    | KC  | 1   |
+    | NYY | 3   |
+    
+    Match Centre](https://www.foxsports.com.au/baseball/match?matchid=MLB2024004002FB080)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
