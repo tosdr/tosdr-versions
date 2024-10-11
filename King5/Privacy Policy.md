@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff/20241011T141409/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff/20241011T141409/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff_360x203.jpg)](https://www.king5.com/article/news/local/northern-lights-photos-washington-state/281-1600d11f-840c-4bf5-87b5-0cc7184762f9)
+    *  [![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6b27d34-7bf5-4344-9167-ebdc3674c228/20240914T005453/f6b27d34-7bf5-4344-9167-ebdc3674c228_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-files-complaint-national-labor-relations-board-machinists-union/281-2176f793-c7e4-463c-bb4d-4183ac75a500)
         
-        #### [Northern lights spotted all over Washington state after powerful geomagnetic storm](https://www.king5.com/article/news/local/northern-lights-photos-washington-state/281-1600d11f-840c-4bf5-87b5-0cc7184762f9) [![](https://media.king5.com/assets/KING/images/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff/20241011T141409/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff/20241011T141409/4b7ef39c-ac0d-4e79-9c8d-d66f103d5aff_360x203.jpg)](https://www.king5.com/article/news/local/northern-lights-photos-washington-state/281-1600d11f-840c-4bf5-87b5-0cc7184762f9)
+        #### [Boeing, machinists' union accuse each other of bad faith bargaining to the feds](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-files-complaint-national-labor-relations-board-machinists-union/281-2176f793-c7e4-463c-bb4d-4183ac75a500)
         
-        #### [PHOTOS: Northern lights spotted all over Washington state Thursday night](https://www.king5.com/article/news/local/northern-lights-photos-washington-state/281-1600d11f-840c-4bf5-87b5-0cc7184762f9)
-    *  [![](https://media.king5.com/assets/KING/images/a3e97238-7cc0-41ff-8489-ad702391cb3b/20240919T175316/a3e97238-7cc0-41ff-8489-ad702391cb3b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3e97238-7cc0-41ff-8489-ad702391cb3b/20240919T175316/a3e97238-7cc0-41ff-8489-ad702391cb3b_360x203.jpg)](https://www.king5.com/article/news/crime/i-5-shooting-spree-suspect-not-competent-stand-trial/281-82934dc8-add8-45fb-b932-c64638f2fc37)
+    *  [![](https://media.king5.com/assets/KING/images/bef12994-4c2f-45b2-928a-82c3280c5867/20241011T180256/bef12994-4c2f-45b2-928a-82c3280c5867_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bef12994-4c2f-45b2-928a-82c3280c5867/20241011T180256/bef12994-4c2f-45b2-928a-82c3280c5867_360x203.jpg)](https://www.king5.com/article/sports/nba-returns-seattle-one-night-rain-city-showcase/281-115187c5-5ce3-4081-ace3-4a66a7249f44)
         
-        #### [Judge rules I-5 shooting spree suspect incompetent to stand trial](https://www.king5.com/article/news/crime/i-5-shooting-spree-suspect-not-competent-stand-trial/281-82934dc8-add8-45fb-b932-c64638f2fc37)
+        #### [NBA returns to Seattle for one night with Rain City Showcase](https://www.king5.com/article/sports/nba-returns-seattle-one-night-rain-city-showcase/281-115187c5-5ce3-4081-ace3-4a66a7249f44)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5f31c9ff-8a40-4363-b3d3-2e5d3511460b/20241011T123244/5f31c9ff-8a40-4363-b3d3-2e5d3511460b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5f31c9ff-8a40-4363-b3d3-2e5d3511460b/20241011T123244/5f31c9ff-8a40-4363-b3d3-2e5d3511460b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/CCT/images/eb27a329-d1af-45fd-abda-d3140c1ee7de/20241011T112017/eb27a329-d1af-45fd-abda-d3140c1ee7de_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/eb27a329-d1af-45fd-abda-d3140c1ee7de/20241011T112017/eb27a329-d1af-45fd-abda-d3140c1ee7de_360x203.jpg)](https://www.king5.com/article/news/nation-world/milton-cleanup-continues/507-5bf79a13-a948-449e-a899-6dfdb3fd3edd)
+        
+        #### [What's next for Florida after Hurricane Milton? Many residents still don't know.](https://www.king5.com/article/news/nation-world/milton-cleanup-continues/507-5bf79a13-a948-449e-a899-6dfdb3fd3edd)
+        
+    *  [![](https://media.king5.com/assets/KING/images/ce7a3c96-ce6e-4b89-8bfa-954fc3eefe14/20241011T193511/ce7a3c96-ce6e-4b89-8bfa-954fc3eefe14_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ce7a3c96-ce6e-4b89-8bfa-954fc3eefe14/20241011T193511/ce7a3c96-ce6e-4b89-8bfa-954fc3eefe14_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/c9b5a36a-188a-4bdf-9482-00d5973af683/20241010T224047/c9b5a36a-188a-4bdf-9482-00d5973af683_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c9b5a36a-188a-4bdf-9482-00d5973af683/20241010T224047/c9b5a36a-188a-4bdf-9482-00d5973af683_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/how-to-take-pictures-northern-lights/281-14e05427-9e10-4263-9742-b7633fb5f0e4)
-        
-        #### [How to take pictures of the northern lights](https://www.king5.com/article/weather/weather-blog/how-to-take-pictures-northern-lights/281-14e05427-9e10-4263-9742-b7633fb5f0e4)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+58°
 
-![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
