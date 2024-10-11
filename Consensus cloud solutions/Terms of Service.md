@@ -91,15 +91,6 @@
     Featured Post Container
     
     * Featured
-        
-        [![featured event](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20980%20220'%3E%3C/svg%3E)
-        
-        ![featured event](https://www.consensus.com/wp-content/uploads/2024/07/HIMSS-NC.svg)](https://nchimss.org/conference/)
-        
-        [HIMSS North Carolina Conference
-        
-        Learn More](https://nchimss.org/conference/)
-        
     
 * Learn
     
