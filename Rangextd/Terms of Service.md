@@ -427,9 +427,9 @@ We're here to help anytime.
 
 ### Support
 
-* [Returns & Refund](https://www.rangextd.com/policies/refund-policy "Refund Policy")
-* [Terms of Service](https://www.rangextd.com/policies/terms-of-service "Terms of Service")
-* [Privacy Policy](https://www.rangextd.com/policies/privacy-policy "Privacy Policy")
+* [Returns & Refund](https://www.rangextd.com/pages/refunds-returns "Refunds & returns")
+* [Terms of Service](https://www.rangextd.com/pages/terms-of-service "Terms of Service")
+* [Privacy Policy](https://www.rangextd.com/pages/privacy-policy "Privacy Policy")
 * [Contact Us](https://www.rangextd.com/pages/about-us "About Us")
 
 Sign up for our newsletter
