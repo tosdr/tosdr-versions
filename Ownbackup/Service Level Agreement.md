@@ -482,7 +482,7 @@ Own shall make the Customer Data available in the SaaS Services for at least the
 
 **b.** Backup Frequency - General Backup and Restore. For each day that Own fails to meet the general backup frequency commitment in Section 2.a, Customer will be eligible to receive a service credit in the form of a three-day extension of its subscription for the applicable Own Recover product, as provided below.  
 
-**c.** Process and Limitations. To claim a service credit, Customer must notify Own at [support@owndata.com](mailto:support@ownbackup.com) within 30 days after the end of the month in which Own's applicable failure to meet the SLA occurred. If Own disputes the claim, it will provide to Customer a report documenting applicable service levels for the month. In no event will the total aggregate service credits for a calendar month exceed 45 days’ extension of Customer’s subscription for the applicable Own product. The remedies described in this SLA constitute Own’s sole liability and Customer’s exclusive remedy for any failure by Own to meet the commitments in this SLA.  
+**c.** Process and Limitations. To claim a service credit, Customer must notify Own at [\[email protected\]](https://www.ownbackup.com/cdn-cgi/l/email-protection) within 30 days after the end of the month in which Own's applicable failure to meet the SLA occurred. If Own disputes the claim, it will provide to Customer a report documenting applicable service levels for the month. In no event will the total aggregate service credits for a calendar month exceed 45 days’ extension of Customer’s subscription for the applicable Own product. The remedies described in this SLA constitute Own’s sole liability and Customer’s exclusive remedy for any failure by Own to meet the commitments in this SLA.  
 
 4\. DEFINITIONS
 ---------------
@@ -618,7 +618,7 @@ Share your details and we’ll contact you shortly to schedule a custom 25-minut
 
 [![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/6515bbf6ac76562dab935caf_4c%20White.svg)](https://www.ownbackup.com/)
 
-[Office: 646.503.5100](tel:6465035100)[info@owndata.com](mailto:info@owndata.com)[Contact Us](https://www.ownbackup.com/contact-us)
+[Office: 646.503.5100](tel:6465035100)[\[email protected\]](https://www.ownbackup.com/cdn-cgi/l/email-protection)[Contact Us](https://www.ownbackup.com/contact-us)
 
 [![linkedin](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d39d804ec083617d226fbe_linken.svg)](https://www.linkedin.com/company/owndata/)[![YouTube](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651654964df69a09d4296c75_youtube.svg)](https://youtube.com/@Own.Company)
 
@@ -707,7 +707,7 @@ Legal
 
 [![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/6515bbf6ac76562dab935caf_4c%20White.svg)](https://www.ownbackup.com/)
 
-[Office: 646.503.5100](tel:6465035100)[info@owndata.com](mailto:info@owndata.com)[Contact Us](https://www.ownbackup.com/contact-us)
+[Office: 646.503.5100](tel:6465035100)[\[email protected\]](https://www.ownbackup.com/cdn-cgi/l/email-protection)[Contact Us](https://www.ownbackup.com/contact-us)
 
 © 2024 Own Company. All rights reserved.
 
