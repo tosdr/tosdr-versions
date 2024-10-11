@@ -27,7 +27,7 @@ Update
 
 Check Out
 
-[C11, D12 & E12 Engine Service Bulletin](https://estesrockets.com/pages/engine-service-bulletin)
+[FREE SHIPPING ON ORDERS OVER $100!](https://estesrockets.com/collections/rockets)
 
           
 
