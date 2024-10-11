@@ -294,7 +294,7 @@ Pour exercer votre droit à la portabilité, contactez-nous selon les modalités
 
 Pour toute question relative à la présente politique de protection des données ou pour toute demande relative à vos données personnelles, vous pouvez nous contacter :
 
-* **En ligne** en envoyant un courrier électronique à l’adresse suivante : [dpo@lefigaro.fr](mailto:dpo@lefigaro.fr?subject=Vos%20donn%C3%A9es%20personnelles)
+* **En ligne** en envoyant un courrier électronique à l’adresse suivante : [\[email protected\]](https://mentions-legales.lefigaro.fr/cdn-cgi/l/email-protection)
 * **Par courrier** à l’adresse suivante : Société du Figaro, Service DPO, 14, bd Haussmann, 75009 PARIS    
 
 Vous disposez du droit de saisir la CNIL de toute réclamation concernant le traitement des données vous concernant.
