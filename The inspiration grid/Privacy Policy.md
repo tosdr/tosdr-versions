@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/10/lettering-halfstudio-feature.jpg)
+
+[](https://theinspirationgrid.com/amazing-lettering-creations-by-halfstudio/)
+
+### Amazing Lettering Creations by Halfstudio
+
+![](https://inspgr.id/app/uploads/2024/10/street-art-epsilon-feature.jpg)
+
+[](https://theinspirationgrid.com/bold-large-scale-murals-by-epsilon/)
+
+### Bold Large-Scale Murals by Epsilon
+
 ![](https://inspgr.id/app/uploads/2024/10/branding-wwwind-feature.jpg)
 
 [](https://theinspirationgrid.com/wwwind-studio-branding-by-slowfire-design/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/continuous-lines-illustrations-by-jonathan-calugi/)
 
 ### One Line Wonders: Expressive Illustrations by Jonathan Calugi
-
-![](https://inspgr.id/app/uploads/2024/10/illustration-cabin-studio-feature.jpg)
-
-[](https://theinspirationgrid.com/sometimes-silence-is-love-illustrations-by-cabin-studio/)
-
-### Sometimes Silence is Love: Illustrations by Cabin Studio
-
-![](https://inspgr.id/app/uploads/2024/10/car-mclaren-kevin-andersson-feature.jpg)
-
-[](https://theinspirationgrid.com/mclaren-f1-reimagined-concept-by-kevin-andersson/)
-
-### McLaren F1 Reimagined: Concept by Kevin Andersson
 
 Awesome products for creatives
 ------------------------------
