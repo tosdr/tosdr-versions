@@ -4,7 +4,7 @@
 
 Industry Solutions
 
-[Automotive](https://www.vdx.tv/industry-solutions/automotive)[Consumer Goods](https://www.vdx.tv/industry-solutions/consumer-goods)[Education](https://www.vdx.tv/industry-solutions/education)[Financial Services](https://www.vdx.tv/industry-solutions/finance)[Lottery & Gambling](https://www.vdx.tv/industry-solutions/lottery-gambling)[Media & Entertainment](https://www.vdx.tv/industry-solutions/media-entertainment)[Pharma](https://www.vdx.tv/industry-solutions/pharma)[Politics & Advocacy](https://www.vdx.tv/industry-solutions/political-advocacy)[Restaurants](https://www.vdx.tv/industry-solutions/restaurants)[Retail](https://www.vdx.tv/industry-solutions/retail)[Travel](https://www.vdx.tv/industry-solutions/travel)
+[Automotive](https://www.vdx.tv/industry-solutions/automotive)[Consumer Goods](https://www.vdx.tv/industry-solutions/consumer-goods)[Education](https://www.vdx.tv/industry-solutions/education)[Financial Services](https://www.vdx.tv/industry-solutions/finance)[Lottery & Gambling](https://www.vdx.tv/industry-solutions/lottery-gambling)[Media & Entertainment](https://www.vdx.tv/industry-solutions/media-entertainment)[Pharma](https://www.vdx.tv/industry-solutions/pharma)[Political Advertising](https://www.vdx.tv/industry-solutions/political-advocacy)[Restaurants](https://www.vdx.tv/industry-solutions/restaurants)[Retail](https://www.vdx.tv/industry-solutions/retail)[Travel](https://www.vdx.tv/industry-solutions/travel)
 
 Products
 
@@ -26,7 +26,7 @@ Company
 
 Industry Solutions
 
-[Automotive](https://www.vdx.tv/industry-solutions/automotive)[Consumer Goods](https://www.vdx.tv/industry-solutions/consumer-goods)[Education](https://www.vdx.tv/industry-solutions/education)[Financial Services](https://www.vdx.tv/industry-solutions/finance)[Lottery & Gambling](https://www.vdx.tv/industry-solutions/lottery-gambling)[Media & Entertainment](https://www.vdx.tv/industry-solutions/media-entertainment)[Pharma](https://www.vdx.tv/industry-solutions/pharma)[Politics & Advocacy](https://www.vdx.tv/industry-solutions/political-advocacy)[Restaurants](https://www.vdx.tv/industry-solutions/restaurants)[Retail](https://www.vdx.tv/industry-solutions/retail)[Travel](https://www.vdx.tv/industry-solutions/travel)
+[Automotive](https://www.vdx.tv/industry-solutions/automotive)[Consumer Goods](https://www.vdx.tv/industry-solutions/consumer-goods)[Education](https://www.vdx.tv/industry-solutions/education)[Financial Services](https://www.vdx.tv/industry-solutions/finance)[Lottery & Gambling](https://www.vdx.tv/industry-solutions/lottery-gambling)[Media & Entertainment](https://www.vdx.tv/industry-solutions/media-entertainment)[Pharma](https://www.vdx.tv/industry-solutions/pharma)[Political Advertising](https://www.vdx.tv/industry-solutions/political-advocacy)[Restaurants](https://www.vdx.tv/industry-solutions/restaurants)[Retail](https://www.vdx.tv/industry-solutions/retail)[Travel](https://www.vdx.tv/industry-solutions/travel)
 
 Products
 
@@ -442,6 +442,11 @@ We encourage you to review this Policy from time to time to stay informed about 
 
 [![](https://cdn.prod.website-files.com/62346762d4aa3516c44b3da1/62c6e0fa47a635d8a60544ce_Logo%20%2B%20mark.svg)](https://www.vdx.tv/)
 
+Products
+
+1. [TV Magnify](https://www.vdx.tv/products/tv-magnify)
+2. [Video Magnify](https://www.vdx.tv/products/video-magnify)
+
 Industry Solutions
 
 1. [Automotive](https://www.vdx.tv/industry-solutions/automotive)
@@ -451,15 +456,10 @@ Industry Solutions
 5. [Lottery & Gambling](https://www.vdx.tv/industry-solutions/lottery-gambling)
 6. [Media & Entertainment](https://www.vdx.tv/industry-solutions/media-entertainment)
 7. [Pharma](https://www.vdx.tv/industry-solutions/pharma)
-8. [Politics & Advocacy](https://www.vdx.tv/industry-solutions/political-advocacy)
+8. [Political Advertising](https://www.vdx.tv/industry-solutions/political-advocacy)
 9. [Restaurants](https://www.vdx.tv/industry-solutions/restaurants)
 10. [Retail](https://www.vdx.tv/industry-solutions/retail)
 11. [Travel](https://www.vdx.tv/industry-solutions/travel)
-
-Products
-
-1. [TV Magnify](https://www.vdx.tv/products/tv-magnify)
-2. [Video Magnify](https://www.vdx.tv/products/video-magnify)
 
 Customers
 
