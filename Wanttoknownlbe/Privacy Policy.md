@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/de-joodse-zelensky-en-neo-nazis-niet-te-rijmen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/geschiedenis/geheime-genootschappen/de-kwaadaardige-khazarische-maffia-deepstate/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
