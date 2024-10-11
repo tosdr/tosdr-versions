@@ -83,21 +83,21 @@ September 11, 2024
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 114 1
+0 124 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/tasque-manager-undertale-series-and-etc-created-by-welwraith/)
+[](https://yiff-party.com/yiff/mythology-created-by-wolfanine/)
 
-[tasque manager (undertale (series) and etc) created by welwraith](https://yiff-party.com/yiff/tasque-manager-undertale-series-and-etc-created-by-welwraith/)
+[mythology created by wolfanine](https://yiff-party.com/yiff/mythology-created-by-wolfanine/)
 
-0 169 0
+0 177 0
 
 September 11, 2024
 
-[](https://yiff-party.com/yiff/jaki-and-raiden-locktober-created-by-pastelpastel/)
+[](https://yiff-party.com/yiff/kronos-mythology-created-by-codyblue-731/)
 
-[jaki and raiden (locktober) created by pastelpastel](https://yiff-party.com/yiff/jaki-and-raiden-locktober-created-by-pastelpastel/)
+[kronos (mythology) created by codyblue-731](https://yiff-party.com/yiff/kronos-mythology-created-by-codyblue-731/)
 
 0 2 0
 
