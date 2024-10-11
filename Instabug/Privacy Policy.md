@@ -145,7 +145,7 @@ Instabug, Inc. ("Instabug", “we”, “us”, and/or “our”) knows that you
 
 ### Introduction
 
-By using the www.instabug.com website (“**Site**”) and any related services and/or features (together with the Site, the "**Service**") you acknowledge that you accept the practices and policies outlined in this Privacy Policy. If you have any questions or comments about this Privacy Policy or our use of your data, please contact us at privacy@instabug.com
+By using the www.instabug.com website (“**Site**”) and any related services and/or features (together with the Site, the "**Service**") you acknowledge that you accept the practices and policies outlined in this Privacy Policy. If you have any questions or comments about this Privacy Policy or our use of your data, please contact us at [\[email protected\]](https://instabug.com/cdn-cgi/l/email-protection)
 
 ### Scope
 
@@ -436,13 +436,13 @@ You have the following choices with respect to your Personal Data:
 * **Mobile Settings.** You can use your mobile device settings to limit use of the identifier(s) associated with your device for interest-based advertising purposes and for location tracking. 
 * **Declining to provide information.** We need to collect personal information to provide certain services. If you do not provide the information we identify as required or mandatory, we may not be able to provide those services.
 
-**Delete your content or close your account.** You can choose to delete certain content through your account. If you wish to request to close your account, please contact us at privacy@Instabug.com
+**Delete your content or close your account.** You can choose to delete certain content through your account. If you wish to request to close your account, please contact us at [\[email protected\]](https://instabug.com/cdn-cgi/l/email-protection)
 
 ### 11\. Contact Us
 
 If you have any questions or concerns regarding this Privacy Policy, please contact us as described below. We will make every effort to resolve your concerns.
 
-You can contact us by email at [privacy@Instabug.com](mailto:privacy@Instabug.com), or our mailing address below:
+You can contact us by email at [\[email protected\]](https://instabug.com/cdn-cgi/l/email-protection), or our mailing address below:
 
 Instabug, Inc.  
 230 California Street  
@@ -479,6 +479,6 @@ and Reviews](https://instabug.com/product/app-ratings-reviews)[Flows](https://in
 
 [![Instabug Logo](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627d2a253b5874d74cc35bf1_LogoOnWhite.svg)](https://instabug.com/)
 
-[![Facebook icon](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/628278eb3da21fe2a7749f4f_facevook%20logo%20new.svg)](https://www.facebook.com/Instabug/)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/6568b85f7b3ddff20b549194_x-logo.svg)](https://twitter.com/instabug)[![Instagram icon](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627288df5d1e3bd2c91bee6d_instagram.svg)](https://www.instagram.com/lifeatinstabug/)[![Email icon](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627288de1392925b046ae58d_email.svg)](mailto:contactus@instabug.com)[![Github icon](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627288de172a4a591a8b1fcd_github.svg)](https://github.com/instabug)[![Stack Overflow icon](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627288dfb896b630d7e11747_stackOverflow.svg)](https://stackoverflow.com/questions/tagged/instabug)[![Linkedin icon](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627288df393e4e4284e24831_linkedIn.svg)](https://www.linkedin.com/company/instabug/)
+[![Facebook icon](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/628278eb3da21fe2a7749f4f_facevook%20logo%20new.svg)](https://www.facebook.com/Instabug/)[![](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/6568b85f7b3ddff20b549194_x-logo.svg)](https://twitter.com/instabug)[![Instagram icon](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627288df5d1e3bd2c91bee6d_instagram.svg)](https://www.instagram.com/lifeatinstabug/)[\[email protected\]](https://instabug.com/cdn-cgi/l/email-protection)[![Github icon](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627288de172a4a591a8b1fcd_github.svg)](https://github.com/instabug)[![Stack Overflow icon](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627288dfb896b630d7e11747_stackOverflow.svg)](https://stackoverflow.com/questions/tagged/instabug)[![Linkedin icon](https://cdn.prod.website-files.com/62706e0299180d3045eb2cab/627288df393e4e4284e24831_linkedIn.svg)](https://www.linkedin.com/company/instabug/)
 
 [Terms and Conditions](https://instabug.com/terms) / [Website Terms of Use](https://instabug.com/website-terms-of-use) / [Privacy Policy](https://instabug.com/privacy) © 2024 Instabug, Inc.
