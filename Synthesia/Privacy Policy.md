@@ -106,7 +106,7 @@ Effective: June 26, 2024
 
 This Privacy Policy governs and explains how we collect and process your personal information when you (“**you**” or “**User**”) use our website, located at synthesia.io (“**Site**”), services and products accessible through the Site (“**Services**”), and the associated web-based software provided by Synthesia (“**Software**”). The Site, the Services, and the Software are jointly referred to as the “**Platform**”. If you are a purchaser of our Services, you are a "**Customer**". If you are authorized by a Customer to use our Services, or you are a Site visitor you are an "**Authorized User**".
 
-We are **Synthesia Limited**, a company located at Kent House, 14/17 Market Place, London W1W 8AJ, United Kingdom, and we are the controller of your personal data processed in connection with this Privacy Policy. If you have any questions or concerns regarding your privacy, you can contact us at [support@synthesia.io](mailto:support@synthesia.io). Our Data Protection Officer can be contacted at [dpo@synthesia.io](mailto:dpo@synthesia.io). We have designated **Synthesia ApS**, Vesterbrogade 149, bygning 4, 1.tv, 1620 København V. Denmark as our EU GDPR representative to act on our behalf and serve as a direct contact for supervisory authorities and individuals in the European Union, and they can be contacted at [gdpr.representative@synthesia.io](mailto:gdpr.representative@synthesia.io). 
+We are **Synthesia Limited**, a company located at Kent House, 14/17 Market Place, London W1W 8AJ, United Kingdom, and we are the controller of your personal data processed in connection with this Privacy Policy. If you have any questions or concerns regarding your privacy, you can contact us at [\[email protected\]](https://www.synthesia.io/cdn-cgi/l/email-protection). Our Data Protection Officer can be contacted at [\[email protected\]](https://www.synthesia.io/cdn-cgi/l/email-protection). We have designated **Synthesia ApS**, Vesterbrogade 149, bygning 4, 1.tv, 1620 København V. Denmark as our EU GDPR representative to act on our behalf and serve as a direct contact for supervisory authorities and individuals in the European Union, and they can be contacted at [\[email protected\]](https://www.synthesia.io/cdn-cgi/l/email-protection). 
 
 A separate agreement may govern the provision, access and use of the Services ("**Agreement**"), including the processing of (a) any content or information that an Authorized User submits to the Services, such as text and scripts used to prompt Avatars to speak and perform, and image and audio files uploaded to the Services; and (b) any videos created by Authorized Users using the Services (collectively, "**Customer Data**"). Customer Data excludes the Services, any content that Synthesia makes generally available to Customers through the Services (“**Synthesia Content**”) and Non-Synthesia Products. The Customer (e.g., your employer or another entity or person) that entered into the Agreement with Synthesia for the purchase of Services controls its instance of the Services and any associated Customer Data. If you have any questions about specific settings and privacy practices, please contact the Customer whose Service you use.   
 
@@ -229,7 +229,7 @@ When we transfer your personal data outside of the UK or EEA, we ensure it benef
 
 In certain situations, we rely on exceptions provided for under applicable law to transfer personal data to a third country.
 
-You may obtain a copy of these adequacy decisions or standard contractual clauses by contacting us at [support@synthesia.io](mailto:support@synthesia.io).
+You may obtain a copy of these adequacy decisions or standard contractual clauses by contacting us at [\[email protected\]](https://www.synthesia.io/cdn-cgi/l/email-protection).
 
 **Retention of personal data** 
 -------------------------------
@@ -250,7 +250,7 @@ We process all personal data in accordance with the principles of GDPR and espec
 * Ask to have inaccurate personal data rectified, or completed if it is incomplete.
 * Request the erasure of your personal data where data is no longer required for the original purpose or where you have withdrawn your consent, and no other lawful processing grounds apply.
 * Object to the processing of your personal data in certain circumstances.
-* Not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you. You may exercise these rights by contacting us at [support@synthesia.io](http://about:blank).
+* Not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly significantly affects you. You may exercise these rights by contacting us at [\[email protected\]](http://about:blank).
 
 Where we are required to provide a copy of your personal data, this will be free of charge; however, any further copies requested may be subject to a reasonable fee based on administration costs.
 
@@ -300,7 +300,7 @@ Need more help?
 
 If you need assistance with Synthesia or have a question about our products or services, please contact our customer support team.
 
-[Get in touch](mailto:support@synthesia.io?subject=Need%20more%20help?&body=If%20you%20need%20assistance%20with%20Synthesia%20or%20have%20a%20question%20about%20our%20products%20or%20services,%20please%20contact%20our%20customer%20support%20team.)
+[\[email protected\]](https://www.synthesia.io/cdn-cgi/l/email-protection)
 
 Ready to try our AI video platform?
 -----------------------------------
