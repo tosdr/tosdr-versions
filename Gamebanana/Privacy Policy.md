@@ -1,4 +1,4 @@
- [![Logo](https://images.gamebanana.com/static/img/banana.png) ![Logo](https://images.gamebanana.com/static/img/logo.png)](https://gamebanana.com/)
+ [![Logo](https://images.gamebanana.com/static/img/pumpkin.png) ![Logo](https://images.gamebanana.com/static/img/logo_hw23.gif)](https://gamebanana.com/)
 
 **Ads keep us online.** Without them, we wouldn't exist. We don't have paywalls or sell mods - **we never will.** But every month we have large bills and running ads is our only way to cover them. Please consider unblocking us. Thank you from GameBanana **<3**
 
