@@ -11,7 +11,7 @@ BluPeak Credit Union ![BluPeak Credit Union App stars rating](https://www.blupea
 
 Notice
 
-As a reminder, please remain vigilant for any suspicious communications. Our BluPeak team will never reach out to you directly via phone or text to ask you to reset your password or share your credentials. Never share your one-time passcode under any circumstances.
+In observance of the Fall Holiday Day our branches will be closed Monday, October 14th.
 
 [](#)
 
