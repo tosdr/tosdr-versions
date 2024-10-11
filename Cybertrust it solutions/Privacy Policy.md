@@ -210,7 +210,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
     
 * CAPTCHA
     
-* Email
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
@@ -297,7 +297,7 @@ All Rights Reserved.
     
 * CAPTCHA
     
-* Email
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
