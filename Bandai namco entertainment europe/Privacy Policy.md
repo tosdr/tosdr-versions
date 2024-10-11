@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [Dive into a whirlwind of puzzle-solving fun as OUTRIGHT GAMES today releases “NICK JR. PARTY ADVENTURE”](https://en.bandainamcoent.eu/nickelodeon/news/dive-whirlwind-of-puzzle-solving-fun-outright-games-today-releases-nick-jr-party)
 * [A New Mystery Series In the World of Little Nightmares Announced](https://en.bandainamcoent.eu/little-nightmares/news/new-mystery-series-the-world-of-little-nightmares-announced)
-* [MY HERO ULTRA RUMBLE - About the Maintenance on October 9, 2024](https://en.bandainamcoent.eu/my-hero-academia/news/my-hero-ultra-rumble-about-the-maintenance-october-9-2024)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
