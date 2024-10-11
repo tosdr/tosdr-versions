@@ -59,7 +59,7 @@ You can prevent the setting of cookies by adjusting the settings on your browser
   
 If there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site.  
 ‍  
-However if you are still looking for more information then you can contact us through one of our preferred contact methods. Email us at [support@ocoya.com](#) or call us on [+1 (617) 505-1123](#).  
+However if you are still looking for more information then you can contact us through one of our preferred contact methods. Email us at [\[email protected\]](#) or call us on [+1 (617) 505-1123](#).  
 
 ![](https://cdn.prod.website-files.com/605dd4e52b25d325bdc4370e/64387d7b5a4c5e08e2d14cd9_logo_white%20(1).svg)
 
