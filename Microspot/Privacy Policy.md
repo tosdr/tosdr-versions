@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/6053.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/1221.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -72,13 +72,13 @@ Visitez l'une de nos quelques environ
 
 [Filiales](https://www.microspot.ch/fr/storefinder)
 
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-ID-Weekend-Deals-KW41-.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNTY0MXxpbWFnZS9qcGVnfGFHVTNMMmhpTUM4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhOREZmTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhOREZmTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8YTMwMDFlYTI4M2Y3MjZkMjdhYzIxM2E2MDM5NjI2MWFiYmYwMWE4ZDdlYWMzN2EzZDkxMGZkNTU5Njc0ZjNhNA&w=2360&q=75)
+
+20%de rabais sur soins & santé + 1 highlight de DYSON](https://www.microspot.ch/fr/cms/id-weekend-deal)
+
 [![hp](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0006-CM2-HP.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1NDQ3NXxpbWFnZS9qcGVnfGFEVTJMMmcxWlM4NE5qQjRORGcwWDBreU5GOHdNREEyWDBOTk1sOUlVR1JrTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOHdNREEyWDBOTk1sOUlVR1JrTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8YzBiN2JiYzY1M2UxMWZhMGFlMTViOTRmYzM2YzgxYjNiNWFlNTU5ZTAwZjc1NzUwZjFhZWE2YTVlNzUzMTZjNA&w=2360&q=75)
 
 20%de rabais sur les produits de HP & HYPER X](https://www.microspot.ch/fr/brand/hp)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0697-Promos-Wochenknaller-KW41-423.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NzI3NXxpbWFnZS9qcGVnfGFHSTBMMmhtT0M4NE5qQjRORGcwWDBreU5GOHdOamszWDFCeWIyMXZjMTlYYjJOb1pXNXJibUZzYkdWeUlFdFhOREV0TkRJekxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODROakI0TkRnMFgwa3lORjh3TmprM1gxQnliMjF2YzE5WGIyTm9aVzVyYm1Gc2JHVnlJRXRYTkRFdE5ESXpMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXwwNzdkZDBjOTQ1NjFmOTlmN2NlZGQ4NGRkMjMwYTAxZTM4ZTBmMDg1NjlkMWJmYmEyN2NhYWI0NGZiMzVhY2U3&w=2360&q=75)
-
-779.–au lieu de 849.–SAMSUNG Galaxy S24+ 256 GB](https://www.microspot.ch/fr/product/samsung-galaxy-s24-256-gb-marble-gray-6-7-50-mp-5g-0014070429)
 
 [![Apple](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0679-CM2-Promos-KW397.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NzA2MnxpbWFnZS9qcGVnfGFHTmpMMmcwTnk4NE5qQjRORGcwWDBreU5GOHdOamM1WDBOTk1sOVFjbTl0YjNOZlMxY3pPVGN1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTJOemxmUTAweVgxQnliMjF2YzE5TFZ6TTVOeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8Zjg0NWQ0NGRmYjlhMDkwM2MwZWJlYjE1N2NjMmY0MTdiODg2N2JkMmJkN2E2MTc0ODg1YTgzYWY2MWQzNjQxMA&w=2360&q=75)
 
@@ -130,8 +130,6 @@ Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-10-P10-Glu-cksrad-Herbst2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4OTQ3NnxpbWFnZS9qcGVnfGFEQTNMMmhrWXk4eE1UZ3dlRE0xTUY5Sk1qUmZNVEJmVURFd1gwZHNkY3lJWTJ0emNtRmtYMGhsY21KemRESXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMGt5TkY4eE1GOVFNVEJmUjJ4MXpJaGphM055WVdSZlNHVnlZbk4wTWk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfDZjY2U2YWFlNTc4ZWExNjJjYTZhMjNkNDEzMTcwZjBlMDRhYjhkNzVlYzA3MmNlMzVlMmU0YjU0ZTdlM2ZjMjc&w=2360&q=75)](https://gagner.interdiscount.ch/?ref=online_homepage)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0688-CM2-PS5-Pro-DE-CTA.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNTQ0Njh8aW1hZ2UvanBlZ3xhR1E1TDJnelpDODVOekUxTmprek1qSXpPVFkyTHpFeE9EQjRNelV3WDBreU5GOHdOamc0WDBOTk1sOVFVelZmVUhKdlgwUkZYME5VUVM1cWNHY3w1MjA0YzgwMzA5MGYwZDU2NDRlMjk1Nzk5OWIzMGMzNmQwZWM5NWJhOWIyZTE4YzcyZGFkMGNkMDJiZTVhMzJl&w=2360&q=75)](https://www.microspot.ch/fr/product/sony-playstation-5-pro-2000-gb-0014196596)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0629-Herofest2.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4NjY5OXxpbWFnZS9qcGVnfGFHWTJMMmc1Tmk4eE1UZ3dlRE0xTUY5Sk1qUmZNRFl5T1Y5SVpYSnZabVZ6ZERJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6RXhPREI0TXpVd1gwa3lORjh3TmpJNVgwaGxjbTltWlhOME1pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxmN2IzNWM4MWRkOTEwNjEzODZiZTQwMTI0MjIxNTZhYThiZmMwMzE3NjU5NDA5ZDkyN2M2MTcyYjZhM2IxZjc5&w=2360&q=75)](https://www.microspot.ch/fr/cms/gaming)
 
 Testé pour vous
 ---------------
@@ -211,17 +209,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Retrait gratuit
+[Frais de port gratuits pour livraison
 
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Garantie Plus
+
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
-[Frais de port gratuits pour livraison
-
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
