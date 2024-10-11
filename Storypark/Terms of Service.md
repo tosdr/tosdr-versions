@@ -93,7 +93,7 @@ We make the Content available to Authorised Users who have the necessary login d
 
 2.4
 
-If you experience any technical difficulties when accessing or using the Storypark Service you can contact Storypark directly at hello@storypark.com.
+If you experience any technical difficulties when accessing or using the Storypark Service you can contact Storypark directly at [\[email protected\]](https://www.storypark.com/cdn-cgi/l/email-protection).
 
 3\. **conditions of use**
 -------------------------
@@ -108,7 +108,7 @@ In your access to and use of the Storypark Service and any Content, you must:
     
 3. ensure that all information supplied by you to Storypark (or otherwise inputted into the Storypark Service) is true, correct and up to date and promptly notify the Customer or Storypark of any change to such information;
     
-4. keep all of your access information, including email addresses and log-on credentials, secret and secure. If you have any concerns that your login details are being used by someone else, please contact us at hello@storypark.com;
+4. keep all of your access information, including email addresses and log-on credentials, secret and secure. If you have any concerns that your login details are being used by someone else, please contact us at [\[email protected\]](https://www.storypark.com/cdn-cgi/l/email-protection);
     
 5. comply with all applicable security guidelines and procedures required and made known to you by Storypark or the Customer. Storypark may issue revisions to security and guidelines procedures from time to time as Storypark deems reasonably necessary; and
     
@@ -151,7 +151,7 @@ If you are a Primary Account Holder, without limiting the application of the oth
     
 2. you agree that where you have granted a Customer Organisation rights to access a Family Child Record, various members of that organisation’s staff and Educators may be able to access, view and edit that Family Child Record and access may not be limited to any particular person within that organisation;
     
-3. if you believe or suspect someone is accessing or managing your Child’s Content without your consent, you should immediately contact Storypark at [hello@storypark.com](mailto:hello@storypark.com). If you have previously granted someone access to your Child’s Content and you wish to revoke that access, you can remove their ability to access your Child’s Content at any time by following the prompts within the Storypark Service; 
+3. if you believe or suspect someone is accessing or managing your Child’s Content without your consent, you should immediately contact Storypark at [\[email protected\]](https://www.storypark.com/cdn-cgi/l/email-protection). If you have previously granted someone access to your Child’s Content and you wish to revoke that access, you can remove their ability to access your Child’s Content at any time by following the prompts within the Storypark Service; 
     
 4. you acknowledge and agree that:
     
@@ -364,7 +364,7 @@ Neither party shall be liable for any delay or failure to fulfil its obligations
 
 14.1
 
-Any problems that occur whilst accessing the Storypark Service (or any other correspondence with us) should be notified in writing to [hello@storypark.com](mailto:hello@storypark.com) at your earliest convenience.
+Any problems that occur whilst accessing the Storypark Service (or any other correspondence with us) should be notified in writing to [\[email protected\]](https://www.storypark.com/cdn-cgi/l/email-protection) at your earliest convenience.
 
 14.2
 
@@ -1011,12 +1011,12 @@ By clicking “Accept”, you agree to the storing of cookies on your device to 
 
 #### Want to start using Storypark? Contact:
 
-* [sales@storypark.com](mailto:sales@storypark.com?subject=I'm%20interested%20in%20Storypark)[**US/Canada** 1 888 330 9658](tel:8883309658)
+* [\[email protected\]](https://www.storypark.com/cdn-cgi/l/email-protection)[**US/Canada** 1 888 330 9658](tel:8883309658)
 * [**  
     Already use Storypark? Contact:**](#)[**US/CAN** 1 888 330 9658  
       
     Already use Storypark? Contact:](tel:1800225147)
-* [**hello@storypark.com**](mailto:hello@storypark.com?subject=Support%20request)
+* [\[email protected\]](https://www.storypark.com/cdn-cgi/l/email-protection)
 * [](tel:8883309658)
 
 [![App Store button](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b95b62b911824_icon-app-store.svg)](https://apps.apple.com/nz/developer/storypark/id867828320)[![Google Play button](https://cdn.prod.website-files.com/5fc718ea6b8b956a4a9117f3/5fc718ea6b8b952ce291181b_icon-play-store.svg)](https://play.google.com/store/apps/developer?id=Storypark&hl=en)
