@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**October 10, 2024**
+**October 11, 2024**
 
 * * *
 
@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Do Fungi Recognize Shapes?](https://www.sciencedaily.com/releases/2024/10/241009122809.htm)
+* [How Your Skin Tone Could Affect Your Meds](https://www.sciencedaily.com/releases/2024/10/241010205906.htm)
+* [Special 'Skinny Genes' Double Weight Loss](https://www.sciencedaily.com/releases/2024/10/241009122307.htm)
+* [Catastrophically Warm Predictions More Plausible](https://www.sciencedaily.com/releases/2024/10/241010124852.htm)
 * [Late Cretaceous Birds: Raptor-Like Feet](https://www.sciencedaily.com/releases/2024/10/241009144842.htm)
-* [Clothes That Help Combat Rising Temps](https://www.sciencedaily.com/releases/2024/10/241009215428.htm)
-* [Slinging a Web Like Spider-Man](https://www.sciencedaily.com/releases/2024/10/241009215417.htm)
-* [Early Homo Sapiens and Underwater Caves](https://www.sciencedaily.com/releases/2024/10/241009144855.htm)
-* [Vagus Nerve Stimulation May Boost Hearing](https://www.sciencedaily.com/releases/2024/10/241009122310.htm)
-* [Robotic 'Finger' Takes Pulses, Checks Lumps](https://www.sciencedaily.com/releases/2024/10/241009121335.htm)
-* [Over 160,000 New Viruses Discovered by AI](https://www.sciencedaily.com/releases/2024/10/241009121318.htm)
-* [Jupiter's Great Red Spot Squiggling](https://www.sciencedaily.com/releases/2024/10/241009183537.htm)
-* [Unique Genes Associated With Disease Risk](https://www.sciencedaily.com/releases/2024/10/241009121544.htm)
-* [How Eating Less Can Extend Lifespan](https://www.sciencedaily.com/releases/2024/10/241009121347.htm)
+* [Sweet Tooth: Depression, Diabetes, Stroke](https://www.sciencedaily.com/releases/2024/10/241009122507.htm)
+* [Active Robot Playmate for Toddlers?](https://www.sciencedaily.com/releases/2024/10/241009121555.htm)
+* [Ice Cream-Inspired Physics and Quantum Systems](https://www.sciencedaily.com/releases/2024/10/241008122544.htm)
+* [Tick-Borne Parasitic Disease On the Rise](https://www.sciencedaily.com/releases/2024/10/241008103800.htm)
+* [Sustaining Fish Populations](https://www.sciencedaily.com/releases/2024/10/241007160248.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Lymphoma](https://www.sciencedaily.com/news/health_medicine/lymphoma/)
+[Disability](https://www.sciencedaily.com/news/health_medicine/disability/)
 
 [Joint Health](https://www.sciencedaily.com/news/health_medicine/joint_health/)
 
-[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
+[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
-
 [Weapons Technology](https://www.sciencedaily.com/news/matter_energy/weapons_technology/)
+
+[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
 [Alternative Fuels](https://www.sciencedaily.com/news/matter_energy/alternative_fuels/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
 [Insects (including Butterflies)](https://www.sciencedaily.com/news/plants_animals/insects_and_butterflies/)
 
-[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
+[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
   
 
