@@ -770,7 +770,7 @@ If you are a California resident, the CCPA may permit you to request that we:
 
 Certain Personal Information is exempt from such requests under applicable law. You also may have the right to receive information about the financial incentives that we offer to you (if any). You also have certain rights under the CCPA not to be discriminated against (within the meaning of the CCPA) for exercising your CCPA privacy rights.  
 
-To request to exercise these CCPA rights, you may email us at [privacy@owndata.com](mailto:privacy@owndata.com). We may take certain steps to verify your identity before processing your request, including, where applicable, by requesting additional information. For security and legal reasons, we may not accept requests that require us to access third-party websites or services.  
+To request to exercise these CCPA rights, you may email us at [\[email protected\]](https://www.ownbackup.com/cdn-cgi/l/email-protection). We may take certain steps to verify your identity before processing your request, including, where applicable, by requesting additional information. For security and legal reasons, we may not accept requests that require us to access third-party websites or services.  
 
 You may also designate an authorized agent to submit certain requests on your behalf. For an authorized agent to be verified, you must provide the authorized agent with signed, written permission to make such requests or a power of attorney. We have no obligation to honor requests from purported agents if we lack sufficient confidence that this has occurred and that they are authorized to submit the request on your behalf. We may require you to verify your identity directly with us before processing an agent's request.  
 
@@ -790,7 +790,7 @@ How to Contact Us
 
 --------------------
 
-You can e-mail us at [privacy@owndata.com](mailto:privacy@owndata.com) with any questions, comments, or concerns around our privacy practices and policies and to submit a request to exercise your rights regarding your Personal Data or you can contact us at:  
+You can e-mail us at [\[email protected\]](https://www.ownbackup.com/cdn-cgi/l/email-protection) with any questions, comments, or concerns around our privacy practices and policies and to submit a request to exercise your rights regarding your Personal Data or you can contact us at:  
 
 OwnCompany Inc.  
 Attention: Privacy  
@@ -810,7 +810,7 @@ Share your details and we’ll contact you shortly to schedule a custom 25-minut
 
 [![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/6515bbf6ac76562dab935caf_4c%20White.svg)](https://www.ownbackup.com/)
 
-[Office: 646.503.5100](tel:6465035100)[info@owndata.com](mailto:info@owndata.com)[Contact Us](https://www.ownbackup.com/contact-us)
+[Office: 646.503.5100](tel:6465035100)[\[email protected\]](https://www.ownbackup.com/cdn-cgi/l/email-protection)[Contact Us](https://www.ownbackup.com/contact-us)
 
 [![linkedin](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d39d804ec083617d226fbe_linken.svg)](https://www.linkedin.com/company/owndata/)[![YouTube](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651654964df69a09d4296c75_youtube.svg)](https://youtube.com/@Own.Company)
 
@@ -899,7 +899,7 @@ Legal
 
 [![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/6515bbf6ac76562dab935caf_4c%20White.svg)](https://www.ownbackup.com/)
 
-[Office: 646.503.5100](tel:6465035100)[info@owndata.com](mailto:info@owndata.com)[Contact Us](https://www.ownbackup.com/contact-us)
+[Office: 646.503.5100](tel:6465035100)[\[email protected\]](https://www.ownbackup.com/cdn-cgi/l/email-protection)[Contact Us](https://www.ownbackup.com/contact-us)
 
 © 2024 Own Company. All rights reserved.
 
