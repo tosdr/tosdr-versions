@@ -12,7 +12,7 @@ What you can do[](http://oceanhero.today/try-now)
 
 Last updated May 14, 2024  
 
-Thank you for choosing to be part of our community at OceanHero GmbH **("Company", "we", "us", "our")**. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at [support@oceanhero.zendesk.com](mailto:support@oceanhero.zendesk.com).  
+Thank you for choosing to be part of our community at OceanHero GmbH **("Company", "we", "us", "our")**. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at [\[email protected\]](https://about.oceanhero.today/cdn-cgi/l/email-protection).  
   
 When you visit our website [http://oceanhero.today](http://oceanhero.today/) (the "**Website**"), use our mobile application, as the case may be (the "**App**") and more generally, use any of our services (the "**Services**", which include the Website, mobile Apps, and our browser extensions), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.  
   
@@ -76,7 +76,7 @@ We use personal information collected via our Services for a variety of business
   
 We use the information we collect or receive:  
 **To facilitate account creation and logon process.** If you choose to link your account with us to a third-party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract.  
-**To post testimonials.** We post testimonials on our Services that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at support@oceanhero.zendesk.com and be sure to include your name, testimonial location, and contact information.  
+**To post testimonials.** We post testimonials on our Services that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at [\[email protected\]](https://about.oceanhero.today/cdn-cgi/l/email-protection) and be sure to include your name, testimonial location, and contact information.  
 **Request feedback.** We may use your information to request feedback and to contact you about your use of our Services.  
 **To enable user-to-user communications.** We may use your information in order to enable user-to-user communications with each user's consent.  
 **To manage user accounts.** We may use your information for the purposes of managing our account and keeping it in working order.  
@@ -181,7 +181,7 @@ If you are a resident in the EEA or UK and you believe we are unlawfully process
   
 If you are a resident in Switzerland, the contact details for the data protection authorities are available here:_ [_https://www.edoeb.admin.ch/e...._](https://www.edoeb.admin.ch/edoeb/en/home.html)_.  
   
-If you have questions or comments about your privacy rights, you may email us at_ [_support@oceanhero.zendesk.com_](mailto:support@oceanhero.zendesk.com)_._
+If you have questions or comments about your privacy rights, you may email us at_ [\[email protected\]](https://about.oceanhero.today/cdn-cgi/l/email-protection)_._
 
 #### Account Information  
 
@@ -304,7 +304,7 @@ Beacons/Pixels/Tags
 Click redirects: Affiliate links via our partner Yieldkit and adMarketplace.  
 More information about our data collection and sharing practices can be found in this privacy notice.  
   
-You may contact us by email at [support@oceanhero.zendesk.com](mailto:support@oceanhero.zendesk.com), or by referring to the contact details at the bottom of this document.  
+You may contact us by email at [\[email protected\]](https://about.oceanhero.today/cdn-cgi/l/email-protection), or by referring to the contact details at the bottom of this document.  
   
 If you are using an authorized agent to exercise your right to opt-out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.  
   
@@ -356,7 +356,7 @@ you may request correction of your personal data if it is incorrect or no longer
 you can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.  
 you may request to opt-out from future selling of your personal information to third parties. Upon receiving a request to opt-out, we will act upon the request as soon as feasibly possible, but no later than 15 days from the date of the request submission.​  
   
-To exercise these rights, you can contact us by email at [support@oceanhero.zendesk.com](mailto:support@oceanhero.zendesk.com), **or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.**
+To exercise these rights, you can contact us by email at [\[email protected\]](https://about.oceanhero.today/cdn-cgi/l/email-protection), **or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.**
 
 ### 13\. DO WE MAKE UPDATES TO THIS NOTICE?  
 
@@ -367,7 +367,7 @@ We may update this privacy notice from time to time. The updated version will be
 ### 14\. HOW CAN YOU CONTACT US  
 ABOUT THIS NOTICE?  
 
-If you have questions or comments about this notice, you may email us at [support@oceanhero.zendesk.com](mailto:support@oceanhero.zendesk.com) or by post to:  
+If you have questions or comments about this notice, you may email us at [\[email protected\]](https://about.oceanhero.today/cdn-cgi/l/email-protection) or by post to:  
   
 OceanHero GmbH  
 Chausseestraße 108, 10115 Berlin, Germany  
