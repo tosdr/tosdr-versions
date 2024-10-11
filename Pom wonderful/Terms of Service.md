@@ -184,7 +184,7 @@ POM Wonderful LLC
 11444 West Olympic Boulevard  
 Los Angeles, CA 90064  
 Attn: General Counsel  
-Email: [legalnotices@wonderful.com](mailto:legalnotices@wonderful.com)
+Email: [\[email protected\]](https://www.pomwonderful.com/cdn-cgi/l/email-protection)
 
 [17\. Dispute Resolution
 -----------------------
@@ -211,7 +211,7 @@ These TOU constitute the entire agreement between you and us and govern your use
 
 ![](https://cdn.prod.website-files.com/61340fb865a9298195fadb65/6245b5ebd08b186b249c442c_icon--chevron__red.svg)](#)
 
-If you have any questions or comments about these terms, please contact us at the address listed above. Please report any violations of these TOU to [legalinfo.pom@wonderful.com](mailto:legalinfo.pom@wonderful.com).
+If you have any questions or comments about these terms, please contact us at the address listed above. Please report any violations of these TOU to [\[email protected\]](https://www.pomwonderful.com/cdn-cgi/l/email-protection).
 
 Have additional Questions?
 --------------------------
