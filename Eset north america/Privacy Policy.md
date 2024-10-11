@@ -650,7 +650,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/business/solutions/vulnerability-patch-management/)
+[United States (EN)](https://www.eset.com/us/about/contact/)
 
 * * *
 
