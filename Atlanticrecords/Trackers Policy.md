@@ -80,4 +80,4 @@ To opt out of being tracked by Google Analytics across all websites, visit [http
 
 * * *
 
-\[Error loading cookie list\]
+\[Error loading the cookie list\]
