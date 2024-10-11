@@ -59,13 +59,13 @@ Dernière mise à jour: 
 
 October 3, 2024
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65ae9b3c2f932577d43e4144_globe.svg)[English](http://www.aura.com/legal/privacy-policy)
+![Globe icon](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65ae9b3c2f932577d43e4144_globe.svg)[English](http://www.aura.com/legal/privacy-policy)
 
 —
 
 [Français](http://www.aura.com/legal/privacy-policy-fr)
 
-![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65ae9b3c2f932577d43e4144_globe.svg)[English](http://www.aura.com/legal/privacy-policy)
+![Globe icon](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/65ae9b3c2f932577d43e4144_globe.svg)[English](http://www.aura.com/legal/privacy-policy)
 
 —
 
@@ -229,7 +229,7 @@ Securing personal data is an important aspect of protecting privacy. Aura employ
 
 We implement physical, technical and organizational safeguards to protect your personal data under our control, both at rest and in transit, and should these measures fail to prevent a data breach, we will promptly take the necessary remedial measures, and we will provide notices as required by applicable law.
 
-If you have any questions about the security of your personal data or the security of our products, or wish to report a potential security issue, please contact [security@aura.com](http://security@aura.com/). When reporting a potential security issue, please describe the matter in as much detail as possible and include any information that might be helpful.
+If you have any questions about the security of your personal data or the security of our products, or wish to report a potential security issue, please contact [\[email protected\]](http://security@aura.com/). When reporting a potential security issue, please describe the matter in as much detail as possible and include any information that might be helpful.
 
 6\. Cross-Border Data Transfers
 -------------------------------
@@ -290,7 +290,7 @@ You may be able to exercise some of these rights by submitting your request at [
 
 Specifically, the GDPR gives users residing in the EU the rights to access, correct, delete or object to the processing of your personal data. If you are a resident of any EU member country, you may also exercise these rights by submitting your request at [https://preferences.aura.com/privacy](https://preferences.aura.com/privacy). For other inquiries, including access and rectification requests, you can contact our Data Protection Officer (DPO). Aura has appointed Bird & Bird DPO Services SRL as a DPO. You can reach Bird & Bird by:
 
-1\. emailing DPO.Aura@twobirds.com; or
+1\. emailing [\[email protected\]](https://www.identityguard.com/cdn-cgi/l/email-protection); or
 
 2\. mail at the following address: Bird & Bird DPO Services SRL, Avenue Louise 235 b 1, 1050 Brussels, Belgium.
 
@@ -349,7 +349,7 @@ The administration, configuration and management of Aura accounts are not intend
 
 In the case of Parental Controls (“Parental Control Services”) offered as part of the Aura subscription, our Parental Control Services are expressly designed for parents to monitor the Internet and mobile activity of their children. As a result, certain personal data related to a minor child may be accessible by the parent-administrators of the Parental Control Services, as well as Aura in our administration of the Services. For more information please see the [Supplemental Parental Controls Privacy Notice](https://www.aura.com/privacy/aura-parental-controls-privacy-notice).
 
-If we discover that we have collected personal data from a minor without appropriate consents, we may delete such data without notice. For certain regions, parental consent may be required for processing the personal data of children under the age of 16. In such cases, those under the age of 16 may not use the services without the consent or authorization of their parent or legal guardian. If you believe your minor child has provided personal data without parental or guardian consent, you, as the parent or guardian may contact us by emailing us at privacy@aura.com.
+If we discover that we have collected personal data from a minor without appropriate consents, we may delete such data without notice. For certain regions, parental consent may be required for processing the personal data of children under the age of 16. In such cases, those under the age of 16 may not use the services without the consent or authorization of their parent or legal guardian. If you believe your minor child has provided personal data without parental or guardian consent, you, as the parent or guardian may contact us by emailing us at [\[email protected\]](https://www.identityguard.com/cdn-cgi/l/email-protection).
 
 13\. Privacy Policy Updates
 ---------------------------
@@ -359,7 +359,7 @@ We may revise this policy from time to time and we will notify you of any change
 14\. Contact Us
 ---------------
 
-We expect this Privacy Policy to evolve over time and welcome feedback from our users about our privacy practices. If you have any questions or complaints about our privacy practices, you can contact our privacy officer at privacy@aura.com or at the following addresses, based on the product that you use:
+We expect this Privacy Policy to evolve over time and welcome feedback from our users about our privacy practices. If you have any questions or complaints about our privacy practices, you can contact our privacy officer at [\[email protected\]](https://www.identityguard.com/cdn-cgi/l/email-protection) or at the following addresses, based on the product that you use:
 
 Aura Sub LLC dba Aura  
 250 Northern Ave.  
@@ -413,7 +413,7 @@ Corporate Responsibility
 
 ![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/aura-cares?tab=id3#anchor)
 
-[support@aura.com](mailto:support@aura.com)[833.552.2123](tel:+18335522123)
+[\[email protected\]](https://www.identityguard.com/cdn-cgi/l/email-protection)[833.552.2123](tel:+18335522123)
 
 About
 
@@ -439,7 +439,7 @@ Partner With Us
 
 ![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e8085c64bf7f5e7ad14ad_Union.svg)![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/630e808571b88b5ecf16dd90_shape.svg)](https://www.identityguard.com/influencer-program)
 
-[support@aura.com](mailto:support@aura.com)[855.443.7748](tel:+18554437748)
+[\[email protected\]](https://www.identityguard.com/cdn-cgi/l/email-protection)[855.443.7748](tel:+18554437748)
 
 © Aura 2022. 
 
