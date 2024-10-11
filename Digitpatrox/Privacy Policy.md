@@ -20,16 +20,16 @@ Friday, October 11 2024
 
 Latest
 
-* [AMD just made a big statement in the AI PC race with its Ryzen AI Pro 300 series processors](https://digitpatrox.com/amd-just-made-a-big-statement-in-the-ai-pc-race-with-its-ryzen-ai-pro-300-series-processors/)
-* [This privacy and compliance threat throws shade at iPhone Mirroring – Computerworld](https://digitpatrox.com/this-privacy-and-compliance-threat-throws-shade-at-iphone-mirroring-computerworld/)
-* [Don’t Miss This Tax Deadline If You Filed for an Extension](https://digitpatrox.com/dont-miss-this-tax-deadline-if-you-filed-for-an-extension/)
-* [How to create bootable Windows 11 24H2 USB install media](https://digitpatrox.com/how-to-create-bootable-windows-11-24h2-usb-install-media/)
-* [Why Baby Walkers Are Unsafe](https://digitpatrox.com/why-baby-walkers-are-unsafe/)
-* [Why Is My 5G Connection So Slow?](https://digitpatrox.com/why-is-my-5g-connection-so-slow/)
-* [DoJ mulls potential Google services breakup in monopoly lawsuit – what happens next?](https://digitpatrox.com/doj-mulls-potential-google-services-breakup-in-monopoly-lawsuit-what-happens-next/)
-* [11 Marketing Budget Templates That Cost Nothing](https://digitpatrox.com/11-marketing-budget-templates-that-cost-nothing/)
-* [I’ve been tracking Prime Day deals for 10 years — here’s the sales you can still get that I’d buy with my own money](https://digitpatrox.com/ive-been-tracking-prime-day-deals-for-10-years-heres-the-sales-you-can-still-get-that-id-buy-with-my-own-money/)
-* [Akira and Fog ransomware now exploit critical Veeam RCE flaw](https://digitpatrox.com/akira-and-fog-ransomware-now-exploit-critical-veeam-rce-flaw/)
+* [Gemini Code Assist Enterprise – Google wants to simplify code for all](https://digitpatrox.com/gemini-code-assist-enterprise-google-wants-to-simplify-code-for-all/)
+* [Download our Digital Whiteboard Software Buyer’s Guide](https://digitpatrox.com/download-our-digital-whiteboard-software-buyers-guide/)
+* [My Cookbook of the Week: ‘Masa’ Will Teach You Everything You Can Do With Tortillas](https://digitpatrox.com/my-cookbook-of-the-week-masa-will-teach-you-everything-you-can-do-with-tortillas/)
+* [How to change execution policy to run scripts on PowerShell](https://digitpatrox.com/how-to-change-execution-policy-to-run-scripts-on-powershell/)
+* [Most Popular Used Cars, SUVs, and Trucks](https://digitpatrox.com/most-popular-used-cars-suvs-and-trucks/)
+* [Which MVNOs Use Verizon’s Network?](https://digitpatrox.com/which-mvnos-use-verizons-network/)
+* [AWS cloud success: your route to results through a trusted partner](https://digitpatrox.com/aws-cloud-success-your-route-to-results-through-a-trusted-partner/)
+* [AI innovation Should Be Balanced With Sensible Regulation](https://digitpatrox.com/ai-innovation-should-be-balanced-with-sensible-regulation/)
+* [How to watch Il Lombardia 2024 live streams FREE online](https://digitpatrox.com/how-to-watch-il-lombardia-2024-live-streams-free-online/)
+* [Ukraine arrests rogue VPN operator providing access to Runet](https://digitpatrox.com/ukraine-arrests-rogue-vpn-operator-providing-access-to-runet/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 21, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/GuACKTjScnqAJf6ecpKjAK-1200-80.jpg)](https://digitpatrox.com/amd-just-made-a-big-statement-in-the-ai-pc-race-with-its-ryzen-ai-pro-300-series-processors/)
+* [![](https://cdn.mos.cms.futurecdn.net/CLcrZfFWca5tnSjCbNuQ7C-1200-80.jpg)](https://digitpatrox.com/gemini-code-assist-enterprise-google-wants-to-simplify-code-for-all/)
     
-    [AMD just made a big statement in the AI PC race with its Ryzen AI Pro 300 series processors](https://digitpatrox.com/amd-just-made-a-big-statement-in-the-ai-pc-race-with-its-ryzen-ai-pro-300-series-processors/)
+    [Gemini Code Assist Enterprise – Google wants to simplify code for all](https://digitpatrox.com/gemini-code-assist-enterprise-google-wants-to-simplify-code-for-all/)
     
-    3 mins ago
+    14 seconds ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/10/3557477-0-60993900-1728574785-Apple-macOS-Sequoia-iPhone-Mirroring.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/this-privacy-and-compliance-threat-throws-shade-at-iphone-mirroring-computerworld/)
+* [![](https://us.resources.computerworld.com/wp-content/uploads/2024/10/default_image1728399027.1478.png)](https://digitpatrox.com/download-our-digital-whiteboard-software-buyers-guide/)
     
-    [This privacy and compliance threat throws shade at iPhone Mirroring – Computerworld](https://digitpatrox.com/this-privacy-and-compliance-threat-throws-shade-at-iphone-mirroring-computerworld/)
+    [Download our Digital Whiteboard Software Buyer’s Guide](https://digitpatrox.com/download-our-digital-whiteboard-software-buyers-guide/)
     
-    25 mins ago
+    22 mins ago
     
-* [![](https://lifehacker.com/imagery/articles/01J9W18RWB0DNG7C5F2YKFE8MJ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/dont-miss-this-tax-deadline-if-you-filed-for-an-extension/)
+* [![](https://lifehacker.com/imagery/articles/01J9VZ591EF3Y82C9RMW8284FT/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/my-cookbook-of-the-week-masa-will-teach-you-everything-you-can-do-with-tortillas/)
     
-    [Don’t Miss This Tax Deadline If You Filed for an Extension](https://digitpatrox.com/dont-miss-this-tax-deadline-if-you-filed-for-an-extension/)
+    [My Cookbook of the Week: ‘Masa’ Will Teach You Everything You Can Do With Tortillas](https://digitpatrox.com/my-cookbook-of-the-week-masa-will-teach-you-everything-you-can-do-with-tortillas/)
     
-    52 mins ago
+    49 mins ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/06/windows-11-24h2-create-usb-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-create-bootable-windows-11-24h2-usb-install-media/)
+* [![](https://pureinfotech.com/wp-content/uploads/2023/01/windows-11-change-powershell-execution-policy-here.webp)](https://digitpatrox.com/how-to-change-execution-policy-to-run-scripts-on-powershell/)
     
-    [How to create bootable Windows 11 24H2 USB install media](https://digitpatrox.com/how-to-create-bootable-windows-11-24h2-usb-install-media/)
+    [How to change execution policy to run scripts on PowerShell](https://digitpatrox.com/how-to-change-execution-policy-to-run-scripts-on-powershell/)
     
     1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1727462833/prod/content/dam/CRO-Images-2024/Babies/CR-Babies-InlineHero-Baby-Walkers-Have-Caused-Injuries-and-Deaths-0924)](https://digitpatrox.com/why-baby-walkers-are-unsafe/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1678404331/prod/content/dam/CRO-Images-2023/03March/Cars/CR-Cars-InlineHero-Most-Popular-Used-Cars-SUVs-Trucks-on-Consumer-Reports-v2-0323)](https://digitpatrox.com/most-popular-used-cars-suvs-and-trucks/)
     
-    [Why Baby Walkers Are Unsafe](https://digitpatrox.com/why-baby-walkers-are-unsafe/)
+    [Most Popular Used Cars, SUVs, and Trucks](https://digitpatrox.com/most-popular-used-cars-suvs-and-trucks/)
     
     1 hour ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 mins ago
+* [14 seconds ago
     
-    ### AMD just made a big statement in the AI PC race with its Ryzen AI Pro 300 series processors](https://digitpatrox.com/amd-just-made-a-big-statement-in-the-ai-pc-race-with-its-ryzen-ai-pro-300-series-processors/)
-* [25 mins ago
+    ### Gemini Code Assist Enterprise – Google wants to simplify code for all](https://digitpatrox.com/gemini-code-assist-enterprise-google-wants-to-simplify-code-for-all/)
+* [22 mins ago
     
-    ### This privacy and compliance threat throws shade at iPhone Mirroring – Computerworld](https://digitpatrox.com/this-privacy-and-compliance-threat-throws-shade-at-iphone-mirroring-computerworld/)
-* [52 mins ago
+    ### Download our Digital Whiteboard Software Buyer’s Guide](https://digitpatrox.com/download-our-digital-whiteboard-software-buyers-guide/)
+* [49 mins ago
     
-    ### Don’t Miss This Tax Deadline If You Filed for an Extension](https://digitpatrox.com/dont-miss-this-tax-deadline-if-you-filed-for-an-extension/)
+    ### My Cookbook of the Week: ‘Masa’ Will Teach You Everything You Can Do With Tortillas](https://digitpatrox.com/my-cookbook-of-the-week-masa-will-teach-you-everything-you-can-do-with-tortillas/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [September 5, 2024
     
-    ### 3 Reasons I’m Waiting for the Galaxy S25 Ultra](https://digitpatrox.com/3-reasons-im-waiting-for-the-galaxy-s25-ultra/)
-* [2 days ago
+    ### Eight Lazy Repairs to Watch Out for When Buying a Former Rental Property](https://digitpatrox.com/eight-lazy-repairs-to-watch-out-for-when-buying-a-former-rental-property/)
+* [1 week ago
     
-    ### Best Tech Deals for Work](https://digitpatrox.com/best-tech-deals-for-work/)
-* [August 29, 2024
+    ### Parents can now set Fortnite time limits](https://digitpatrox.com/parents-can-now-set-fortnite-time-limits/)
+* [August 22, 2024
     
-    ### How to enable Preload Page to speed up web browsing in Google Chrome](https://digitpatrox.com/how-to-enable-preload-page-to-speed-up-web-browsing-in-google-chrome/)
+    ### No one’s ready for this](https://digitpatrox.com/no-ones-ready-for-this/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### DoJ mulls potential Google services breakup in monopoly lawsuit – what happens next?](https://digitpatrox.com/doj-mulls-potential-google-services-breakup-in-monopoly-lawsuit-what-happens-next/)
+    ### AWS cloud success: your route to results through a trusted partner](https://digitpatrox.com/aws-cloud-success-your-route-to-results-through-a-trusted-partner/)
 * [2 hours ago
     
-    ### 11 Marketing Budget Templates That Cost Nothing](https://digitpatrox.com/11-marketing-budget-templates-that-cost-nothing/)
+    ### AI innovation Should Be Balanced With Sensible Regulation](https://digitpatrox.com/ai-innovation-should-be-balanced-with-sensible-regulation/)
 * [3 hours ago
     
-    ### I’ve been tracking Prime Day deals for 10 years — here’s the sales you can still get that I’d buy with my own money](https://digitpatrox.com/ive-been-tracking-prime-day-deals-for-10-years-heres-the-sales-you-can-still-get-that-id-buy-with-my-own-money/)
+    ### How to watch Il Lombardia 2024 live streams FREE online](https://digitpatrox.com/how-to-watch-il-lombardia-2024-live-streams-free-online/)
 
 Most Viewed Topics
 
-* [August 11, 2024
+* [August 12, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
+* [August 21, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### Wordle Answer for Today, August 21, 2024](https://digitpatrox.com/wordle-answer-for-today-august-21-2024/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
