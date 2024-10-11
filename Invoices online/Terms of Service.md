@@ -197,61 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Johan Botha - Brand Xplosion
+Anri van der Linde
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=162192249)  
-Wiselink Broadband Dundee
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=128051503)  
+Tiny Cuddles Photography
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=205279186)  
-Tracknetics
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=50303908)  
+Kainos (Pty) Ltd
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=129237619)  
-Cooper Logistics (Pty) Ltd
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=4220305)  
+Baby Toddles Infant Care
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=163374042)  
-West Coast Horse Trails
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=77496688)  
+Entidee Enterprise PTY (ltd)
 
-![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=53269470)  
-MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
-
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=27157961)  
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=191275598)  
 Lemba Truck Stop
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=156501577)  
-Cape Adventure Zone
+![valued client Secunda Signs T/A Local Print and Signs](https://www.invoicesonline.co.za/scripts/image.php?bid=8292&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=130336232)  
+Secunda Signs T/A Local Print and Signs
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=189678460)  
-webb it services
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=198660458)  
+Peter Salvage Pty Ltd
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=193594934)  
-One2b
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=136100216)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=188795345)  
-Salvage Genie
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=47608849)  
+Firstweb Hosting & Design
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=89332207)  
-SLOANE STAR MEAT MARKET
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=129921750)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=97639434)  
-AFS Electrical
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=97943211)  
+Bchange Online CC
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=163804935)  
-Waterfinatics Swim School
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=47279949)  
+MSPCloud (Pty) Ltd
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=79611913)  
-TIGERDSL
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=7491572)  
+LEO DEVELOPMENT GROUP
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=88f294dacc203bd71bb20d75835148bb7cdef1e6d84bfb47afe48590db4e8185&c=48995363)  
-Tagline Brands
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=200387498)  
+FJW Security Cc
+
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=c21908a43b39718051a3aba3b48f4cf418ad358c5b29f0a83f71bfbb1917db1c&c=61336663)  
+Digifax Pty) Ltd t/a Findfish
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
