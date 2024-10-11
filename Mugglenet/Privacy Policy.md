@@ -282,6 +282,12 @@ Recurs yearly
 
 1993
 
+#### Thu, Oct 17
+
+Filius Flitwick's birthday
+
+Recurs yearly
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -292,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There is a rumor that when the House points counter was built for the “Harry Potter” film series, it caused a nationwide shortage of Indian glass beads.
+Minerva McGonagall had been briefly engaged to a Muggle at the age of 18 but broke off the engagement when she realized it would mean having to sacrifice her other ambitions.
 
 ### Potter History
 
-April 24, 2013 – It is officially announced that the Wizarding World of Harry Potter is opening at Universal Studios Hollywood in 2016 or later.
+July 29, 2008 – The first Harry Potter and the Half-Blood Prince teaser trailer makes its way online and plays in front of The Mummy in theaters.
 
 ### Potter Quote
 
-“This little beauty’s taught us more than all the teachers in this school.”
+“Go on, Harry, take it! You saved Dad’s life, if anyone’s got the right to eavesdrop on him it’s you. . . .”
 
 [](#)
 
