@@ -205,25 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Blue Stripe: The Life and Times of a Holodeck Janitor](https://www.somethingawful.com/news/blue-stripe-life-4/)
-* [SA Forum Goons vs. The Dating Game](https://www.somethingawful.com/feature-articles/sa-forum-goons/1/)
-* [Variety Pack #9: New Shirts from Abercrombie & Fitch; Vanilla History!](https://www.somethingawful.com/photoshop-phriday/variety-pack-9/1/)
-* [DEATH OF A CLOWN \[...\] JERRY LEWIS](https://www.somethingawful.com/photoshop-phriday/dry-bones-obituary/)
-* [Children's Books All Grown Up](https://www.somethingawful.com/photoshop-phriday/childrens-books-all/1/)
+* [Cheerleader Autopsy](https://www.somethingawful.com/movie-reviews/cheerleader-autopsy/1/)
+* [Choose Your Own Adventure Books That Never Quite Made It](https://www.somethingawful.com/comedy-goldmine/choose-your-own/1/)
+* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
+* [Watchmen Funnies](https://www.somethingawful.com/photoshop-phriday/watchmen-funnies/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Thread for fooling AI](http://forums.somethingawful.com/showthread.php?threadid=4072390 "Thread for fooling AI")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Thread for going down a mineshaft in Cripple Creek and dying](http://forums.somethingawful.com/showthread.php?threadid=4072421 "Thread for going down a mineshaft in Cripple Creek and dying")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Thread for fooling AI](http://forums.somethingawful.com/showthread.php?threadid=4072390 "Thread for fooling AI")
 * ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [things people think are specific to where they live but arent](http://forums.somethingawful.com/showthread.php?threadid=4072393 "things people think are specific to where they live but arent")
 
 ### Random Articles
 
-* [Word Up Freestyle](https://www.somethingawful.com/news/word-up-freestyle/)
-* [Brunyi Kurputaya Akan Akan](https://www.somethingawful.com/awful-movie-database/brunyi-kurputaya-akan/)
-* [Bad Magic](https://www.somethingawful.com/movie-reviews/bad-magic/1/)
-* [Fuck up a Movie's Climactic Moment](https://www.somethingawful.com/comedy-goldmine/fuck-up-movies/1/)
-* [Conan O'Brien Fan Club](https://www.somethingawful.com/flash-tub/conan-obrien-fan/)
+* [Bring Your Own Bear! (And Pig!)](https://www.somethingawful.com/comedy-goldmine/byob-bears-pigs/1/)
+* [An Unofficial Victory Video: "Barack Obama: The Triumph of the Hope"](https://www.somethingawful.com/news/obama-triumph-hope/)
+* [I Hate You Page 145](https://www.somethingawful.com/cliff-yablonski/i-hate-you-145/)
+* [Fifty More Hours Of Star Wars](https://www.somethingawful.com/news/star-wars-television/)
+* [NORAD Tracks Santa 2005](https://www.somethingawful.com/awful-links/awful-link-3455/)
 
 [Random!](https://www.somethingawful.com/random/)
 
