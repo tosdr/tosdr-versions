@@ -60,7 +60,7 @@ x
     
     ####   
     
-    [Hershey's®](https://www.iscream-shop.com/shop/category/licensed-products-hersheys-314)[Kraft®](https://www.iscream-shop.com/shop?search=Kraft&order=name+asc)[Lunchables®](https://www.iscream-shop.com/shop?search=Lunchables&order=name+asc)[m&m's®](https://www.iscream-shop.com/shop/category/mm-candy-pillows-gifts-299) [Oreo®](https://www.iscream-shop.com/shop/category/oreo-cookie-298)[Oscar Mayer®](https://www.iscream-shop.com/shop/780-3991-oscar-mayer-wieners-packaging-plush-24256)[Reese's®](https://www.iscream-shop.com/shop?search=reese&order=name+asc) [Skittles®](https://www.iscream-shop.com/shop/category/skittles-candy-312)
+    [Hershey's®](https://www.iscream-shop.com/shop/category/licensed-products-hersheys-314)[Kraft®](https://www.iscream-shop.com/shop/category/licensed-products-kraft-313)[Lunchables®](https://www.iscream-shop.com/shop?search=Lunchables&order=name+asc)[m&m's®](https://www.iscream-shop.com/shop/category/mm-candy-pillows-gifts-299) [Oreo®](https://www.iscream-shop.com/shop/category/oreo-cookie-298)[Oscar Mayer®](https://www.iscream-shop.com/shop/780-3991-oscar-mayer-wieners-packaging-plush-24256)[Reese's®](https://www.iscream-shop.com/shop?search=reese&order=name+asc) [Skittles®](https://www.iscream-shop.com/shop/category/skittles-candy-312)
     
     ####   
     
@@ -177,8 +177,8 @@ About
 
 Follow us
 
-* [Instagram](https://www.iscream-shop.com/website/social/instagram)
-* [Facebook](https://www.iscream-shop.com/website/social/facebook)
+* _​_ [Instagram](https://www.iscream-shop.com/website/social/instagram)
+* _​_ [Facebook](https://www.iscream-shop.com/website/social/facebook)
 *   
     
 *   
