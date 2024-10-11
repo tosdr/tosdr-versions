@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/americans-estranged-family-member-disagreements-political-views-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/some-arm-positions-inaccurate-blood-pressure-results-1440x810.jpg)
 
-1 in 5 Americans May Be Estranged From Family Over Political Disagreement](https://www.everydayhealth.com/emotional-health/one-in-five-americans-estranged-over-political-disagreement/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+Blood Pressure Readings Can Be Overestimated if Arm Is Not Positioned Correctly](https://www.everydayhealth.com/heart-health/blood-pressure-overestimated-if-arm-not-positioned-correctly/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/viruses-teeming-on-toothbrush-showerhead-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/jenna-fischer-reveals-breast-cancer-diagnosis-1440x810.jpg)
 
-Hundreds of Different Viruses Are on Your Toothbrush and Shower Head](https://www.everydayhealth.com/healthy-living/hundreds-of-viruses-on-toothbrush-and-shower-head/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+5 Takeaways From Actress Jenna Fischer’s Breast Cancer Reveal](https://www.everydayhealth.com/cancer/takeaways-from-jenna-fischers-breast-cancer-reveal/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/dupixent-approval-treat-copd-pdufa-1440x810.jpg)
 
