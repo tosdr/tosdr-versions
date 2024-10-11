@@ -166,66 +166,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/all-the-people)
-
-[All the People](https://www.icr.org/article/all-the-people/)
-
-“And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/triune-comforter)
-
-[The Triune Comforter](https://www.icr.org/article/triune-comforter/)
-
-“Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; Who comforteth us in all our...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/brightness-glory)
-
-[The Brightness of the Glory](https://www.icr.org/article/brightness-glory/)
-
-“Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
-
-Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
-
-$14.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
-
-Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
-
-$12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472152/file.jpg)
-
-Biblical Creationism](https://store.icr.org/dr-henry-morris-biblical-creationism.html)
-
-$14.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475517/file.jpg)
-
-The Modern Creation Trilogy](https://store.icr.org/dr-henry-morris-the-modern-creation-trilogy.html)
-
-$29.99
-
-$34.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
-
-The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
-
-$13.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
