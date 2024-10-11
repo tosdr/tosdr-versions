@@ -83,7 +83,7 @@ Close
 AWS Service Terms
 =================
 
-#### Last Updated: October 4, 2024
+#### Last Updated: October 10, 2024
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -632,6 +632,8 @@ d. Are not replacements for traditional telephone or mobile phone services, incl
 * financial transactions or payment services (e.g., mobile banking, bill presentment, bill payment, money transfer, peer-to-peer payment or lending credit, debit or stored value payment services);
 * sweepstakes or contests; or
 * advertisements or promotions for commercial products, goods, or services.
+
+**29.11.** To enable WhatsApp messaging integration with AWS End User Messaging, you must create a WhatsApp Business Account (“WABA”) and are responsible for reviewing and accepting any applicable Meta and WhatsApp terms related to the WhatsApp Business Solution. You understand that any content, information, and data you upload to, and any messages you send or receive using, the WhatsApp Business Solution are processed by Meta in order to provide the Service. You agree that you are solely responsible for your or your End User’s use of the WhatsApp Business Solution, the content you or your End Users send through the WhatsApp Business Solution, and compliance with applicable Meta or WhatsApp terms.
 
 #### 30\. AWS Lambda
 
