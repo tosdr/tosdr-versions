@@ -212,7 +212,7 @@ We suggest contacting the site owner or author directly. To find more informatio
 * [https://lookup.icann.org](https://href.li/?https://lookup.icann.org)
 * [https://www.whoishostingthis.com/](https://href.li/?https://www.whoishostingthis.com/)
 
-Please contact us if you have any questions about our privacy policy or information we hold about you by emailing dpo@wordpress.org.
+Please contact us if you have any questions about our privacy policy or information we hold about you by emailing [dpo@wordpress.org](mailto:dpo@wordpress.org?subject=Privacy%20Policy).
 
 [![Creative Commons License](https://s.w.org/images/home/ccbysa40.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
