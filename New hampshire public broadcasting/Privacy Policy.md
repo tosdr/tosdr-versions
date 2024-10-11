@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Reckoning and Repair Preview** | Stories from the Stage](https://video.nhpbs.org/video/stories-from-the-stage-reckoning-and-repair-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Going for Broke at the NCAA** | Playing Like a Girl: The House That Rob Built](https://video.nhpbs.org/video/going-for-broke-at-the-ncaa-sa3iul?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Tom Nichols: Donald Trump Would Be "George Washington's Nightmare"** | Amanpour and Company](https://video.nhpbs.org/video/tom-nichols-donald-trump-would-be-george-washingtons-nightmare-q2yhgg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Last Of The Sea Women** | Flicks](https://video.nhpbs.org/video/last-of-the-seawomen-i5hc09?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**October 10, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/october-10-2024-pbs-news-hour-full-episode-1728532801?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**5 Creepy Creatures Out to Suck Your Blood** | Deep Look](https://video.nhpbs.org/video/5-creepy-creatures-out-to-suck-your-blood-0ohtbs?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Kamala Media Blitz; Melania Trump's Memoir** | To The Contrary](https://video.nhpbs.org/video/kamala-media-blitz-melania-trumps-memoir-n2gulb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Decoding the Herculaneum Scrolls: AI Meets Ancient Texts** | Secrets of the Dead](https://video.nhpbs.org/video/decoding-the-herculaneum-scrolls-ai-meets-ancient-texts-ie6d6z?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [| VOCES: Latino Vote 2024](https://video.nhpbs.org/video/voces-latino-vote-2024-ikuxpx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Preview - Director's Edit** | Ivan Doig: Landscapes of a Western Mind](https://video.nhpbs.org/video/extended-preview-8rszhm?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**IDF Ignored Female Soldiers' Warnings Pre-Oct. 7. Then They Were Massacred** | Amanpour and Company](https://video.nhpbs.org/video/idf-ignored-female-soldiers-warnings-pre-oct-7-then-they-were-massacred-cilcxu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
