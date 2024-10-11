@@ -184,10 +184,13 @@ Search
     * [Facebook Reviews Grid](https://embedsocial.com/p/templates/classic-facebook-reviews-feed-widget "Facebook Reviews Grid")
     * [Facebook Reviews Table](https://embedsocial.com/p/templates/facebook-testimonial-table-widget "Facebook Reviews Table")
     * [Facebook Reviews Slider](https://embedsocial.com/p/templates/classic-facebook-reviews-slider-widget "Facebook Reviews Slider")
-    * [Facebook Reviews Widgets](https://embedsocial.com/p/templates/reviews/ "Facebook Reviews Widgets")
+    * [Facebook Wall of Love](https://embedsocial.com/p/templates/rainbow-wall-of-love "Facebook Wall of Love")
+    * [Social Media Recommendations](https://embedsocial.com/p/templates/social-media-recommendations-widget "Social Media Recommendations")
+    * [Facebook Reviews Widgets ↗](https://embedsocial.com/p/templates/reviews/category/facebook "Facebook Reviews Widgets ↗")
     
     Reviews Widgets Templates
     
+    * [Shoppable Google Reviews](http://Shoppable%20Google%20Reviews%20Widget "Shoppable Google Reviews")
     * [Google Reviews Grid](https://embedsocial.com/p/templates/classic-google-reviews-feed-widget "Google Reviews Grid")
     * [Google Reviews Slider](https://embedsocial.com/p/templates/modern-google-reviews-slider-widget "Google Reviews Slider")
     * [Google Reviews Carousel](https://embedsocial.com/p/templates/classic-google-reviews-slider-widget "Google Reviews Carousel")
@@ -195,7 +198,7 @@ Search
     * [Google Reviews Drawer](https://embedsocial.com/p/templates/google-reviews-slider-with-drawer-popover "Google Reviews Drawer")
     * [Google Reviews Wall of Love](https://embedsocial.com/p/templates/wall-of-love "Google Reviews Wall of Love")
     * [Google Reviews Avatars Badge](https://embedsocial.com/p/templates/collect-google-reviews-badge "Google Reviews Avatars Badge")
-    * [Social Media Recommendations](https://embedsocial.com/p/templates/social-media-recommendations-widget "Social Media Recommendations")
+    * [Google Reviews for Shops](https://embedsocial.com/p/templates/google-reviews-widget-for-shopify-shops "Google Reviews for Shops")
     * [Leave a Review Button](https://embedsocial.com/p/templates/reviews-form "Leave a Review Button")
     * [Dark Floating Reviews Badge](https://embedsocial.com/p/templates/floating-dark-social-media-reviews-badge "Dark Floating Reviews Badge")
     * [All 50+ Google Reviews Widgets ↗](https://embedsocial.com/p/templates/reviews/category/google "All 50+ Google Reviews Widgets ↗")
@@ -216,6 +219,7 @@ Search
     
     UGC Widgets Templates
     
+    * [Shop The Look Instagram Widget](https://embedsocial.com/p/templates/shop-the-look-instagram-slider "Shop The Look Instagram Widget")
     * [‘Shop My Feed’ Instagram Widget](https://embedsocial.com/p/templates/shop-my-feed-instagram-widget "'Shop My Feed' Instagram Widget")
     * [Instagram Stories Shop Widget](https://embedsocial.com/p/templates/instagram-stories-shop-widget "Instagram Stories Shop Widget")
     * [Instagram + Google UGC Widget](https://embedsocial.com/p/templates/premium-ugc-widget-instagram-google-reviews "Instagram + Google UGC Widget")
