@@ -1,30 +1,32 @@
 [Skip to main content](#main-content)
 
-Up To 50% Savings! DETAILS
+Save 50% Sitewide! DETAILS
 
-UP TO 50% SAVINGS!
+\+ Free Gift With Purchase! DETAILS
+
+ONE DAY ONLY!
 
 Close the Modal
 
-#### Get Ahead of the Holidays!
+#### Save 50% Sitewide!
 
-[SHOP NOW](https://www.tommiecopper.com/special/holiday-shopping/)
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 10/8/2024 8AM ET - 10/11/2024 6AM ET.
+Offer valid 10/11/2024 8AM ET - 10/12/2024 6AM ET.
 
-Holiday Shopping discounts priced as marked. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 FREE GIFT WITH PURCHASE
 
 Close the Modal
 
-#### Free Baseball Hat on Orders $150+
+#### Free Tommie Copper Baseball Hat on Orders $125+
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 5/6/2024 8AM EST - 5/7/2024 6AM ET.
+Offer valid 10/11/2024 8AM ET - 10/12/2024 6AM ET.
 
-Free Baseball Hat automatically applied on orders $100+. Order subtotal must reach $150 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Free Baseball Hat automatically applied on orders $125+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
