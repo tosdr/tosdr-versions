@@ -21,7 +21,7 @@ ABOUT
 
 CONTACT
 
-[Contact](https://www.tidyhq.com/contact-us)[Email](mailto:info@tidyhq.com?subject=New%20Mail%20from%20TidyHQ)[Help Center](https://support.tidyhq.com/)[Status](https://status.tidyhq.com/)
+[Contact](https://www.tidyhq.com/contact-us)[\[email protected\]](https://www.tidyhq.com/cdn-cgi/l/email-protection)[Help Center](https://support.tidyhq.com/)[Status](https://status.tidyhq.com/)
 
 [](https://www.facebook.com/TidyHQ)[](https://twitter.com/tidyhqapp)[](https://www.linkedin.com/company/tidyhq/)
 
