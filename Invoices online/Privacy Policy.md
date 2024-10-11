@@ -118,57 +118,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Hugo van Sittert
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=77934293)  
-VIR Electrical (PTY) LTD
-
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=160134937)  
-Stories (Pty) Ltd t/a Storietyd
-
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=57815400)  
-Hydroworld T/A Milliqua
-
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=46990991)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=107798424)  
-#DiGi3 Marketing & Design
-
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=163373027)  
-Xpress Designs
-
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=3585570)  
-Skinz Printing & Branding
-
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=166216543)  
-Druce Digital
-
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=117850671)  
-CLEVER STUDENTS
-
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=66740975)  
-J.M. HUMAN RESOURCES
-
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=72055822)  
-Tagline Brands
-
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=193012787)  
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=91505465)  
 Henry's Home Renovations
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=186324425)  
-AquariumSmiths
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=52603081)  
+CLEVER STUDENTS
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=142795954)  
-United Paintball Federation
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=160321003)  
+Druce Digital
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=acccd134b6d7a49c36ed97d6540efb37b4d28601407073a9b3168079e19e24db&c=28559554)  
-IEMS (PTY) ltd
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=160057578)  
+Sarabi
+
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=133143015)  
+FRAMED BY ANTON (Pty) Ltd.
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=117093980)  
+NIMAWELL
+
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=135342705)  
+Depot Diesel (Pty) Ltd
+
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=183653995)  
+BEE SURE CONSULTING (PTY) LTD
+
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=99910988)  
+Forgotten Goods (Pty) Ltd
+
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=214223626)  
+McKaynine Mobility
+
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=183408521)  
+FJW Security Cc
+
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=20992713)  
+Imvubu General Trading
+
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=14595663)  
+#DiGi3 Marketing & Design
+
+![valued client MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=127752582)  
+MONSTER SECURITY SERVICES (THABAZIMBI/NORTHAM)
+
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=34671fcc51f522794b36bc5a9e25941acde199218ae535f03deb138b26262142&c=208057268)  
+Karino Merinos ( PTY ) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
