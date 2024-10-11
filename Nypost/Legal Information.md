@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Feds raid NYPD’s school safety HQ as part of probe into city contracts: sources](https://nypost.com/2024/10/10/us-news/feds-raid-nypds-school-safety-hq-as-part-of-probe-into-city-contracts-sources/)
+
 Privacy Notice Highlights
 =========================
 
