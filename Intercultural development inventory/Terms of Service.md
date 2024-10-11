@@ -246,7 +246,7 @@ Our IP Agent for transmitting the IP Notice for claims of copyright or other int
 ‍**2915 Olney Sandy Spring Road Unit D  
 Olney, MD 20832  
 Att: IP Agent  
-E-mail Address: ipagent@idiinventory.com
+E-mail Address: [\[email protected\]](https://www.idiinventory.com/cdn-cgi/l/email-protection)
 
 Additional Fees
 ---------------
@@ -299,7 +299,7 @@ Our failure to insist upon or enforce strict performance of any provision of the
 Information or Complaints
 -------------------------
 
-If you have a question or complaint regarding the Company Services, please contact us immediately at support@idiinventory.com or via our contact us form located at https://idiinventory.com/contact-us/. Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
+If you have a question or complaint regarding the Company Services, please contact us immediately at [\[email protected\]](https://www.idiinventory.com/cdn-cgi/l/email-protection) or via our contact us form located at https://idiinventory.com/contact-us/. Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us. California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
 
 Print this Agreement
 --------------------
@@ -343,7 +343,7 @@ IDI Qualified Administrators must agree to the terms of the IDI License Agreemen
 
 * [Main (240) 389-1482](tel:+12403891482)
 * [Fax (443) 926-0146](tel:+14439260146)
-* [support@idiinventory.com](mailto:support@idiinventory.com)
+* [\[email protected\]](https://www.idiinventory.com/cdn-cgi/l/email-protection)
 
 [](https://www.facebook.com/profile.php?id=100064183356881)[](https://www.linkedin.com/company/idillc/)
 
