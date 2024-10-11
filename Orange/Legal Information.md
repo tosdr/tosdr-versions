@@ -119,7 +119,6 @@
     
 * [Careers](https://www.orange.com/en/your-career-at-orange)
 * [Newsroom](https://newsroom.orange.com/?lang=en)
-* [Bruno Zerbib](https://www.orange.com/en/group/governance/executive-committee/bruno-zerbib)
 * [Magazines](https://www.orange.com/en/magazines)
 
 * Algolia Search bar
