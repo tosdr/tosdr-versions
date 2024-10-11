@@ -1,8 +1,8 @@
- [![Princess Dental Staffing](/assets/logo-2cfc78007ec646d1513d3c1143d5038509f7853a5f32773af3b73d790ac1d9c2.png) ![Princess Dental Staffing](/assets/logo-white-5d860744f8fc4338fd19e202d701abf845bd1a7eb8c7367887c9846062f81c26.png)](https://www.princessdentalstaffing.com/)
+ [![Princess Dental Staffing](https://pdstaffing.s3.amazonaws.com/images/logo.png) ![Princess Dental Staffing](https://pdstaffing.s3.amazonaws.com/images/logo-white.png)](https://www.princessdentalstaffing.com/)
 
- [![Princess Dental Staffing](/assets/logo-2cfc78007ec646d1513d3c1143d5038509f7853a5f32773af3b73d790ac1d9c2.png) ![Princess Dental Staffing](/assets/logo-white-5d860744f8fc4338fd19e202d701abf845bd1a7eb8c7367887c9846062f81c26.png)](https://www.princessdentalstaffing.com/)
+ [![Princess Dental Staffing](https://pdstaffing.s3.amazonaws.com/images/logo.png) ![Princess Dental Staffing](https://pdstaffing.s3.amazonaws.com/images/logo-white.png)](https://www.princessdentalstaffing.com/)
 
- [![Princess Dental Staffing](/assets/logo-2cfc78007ec646d1513d3c1143d5038509f7853a5f32773af3b73d790ac1d9c2.png) ![Princess Dental Staffing](/assets/logo-white-5d860744f8fc4338fd19e202d701abf845bd1a7eb8c7367887c9846062f81c26.png)](https://www.princessdentalstaffing.com/)
+ [![Princess Dental Staffing](https://pdstaffing.s3.amazonaws.com/images/logo.png) ![Princess Dental Staffing](https://pdstaffing.s3.amazonaws.com/images/logo-white.png)](https://www.princessdentalstaffing.com/)
 
 [Sign In](#sign-in-modal)
 
@@ -29,7 +29,7 @@ Terms of Use
 
 * * *
 
-_Last updated: October 03, 2024_
+_Last updated: October 11, 2024_
 
 **IMPORTANT NOTICE: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION AGREEMENT AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 13.**
 
@@ -534,7 +534,7 @@ Princess Dental Staffing
 * [Partners & Deals](https://www.princessdentalstaffing.com/resources)
 * [Contact Us](https://www.princessdentalstaffing.com/contact_us)
 
-![AZDA Logo](/assets/azda-perks-transparent-9122781a3eabfba14063a392b3c2e4b9cb43405a49baf406cf8c54283d575578.png) ![Inc 5000 Logo](/assets/inc-5000-logo-c5d0d79d5d452a2204d2cb0d2bb2bc1f5f392c378eab6f8a0f111cdaa35dcd24.png)
+![AZDA Logo](https://pdstaffing.s3.amazonaws.com/images/azda-perks-transparent.png) ![Inc 5000 Logo](https://pdstaffing.s3.amazonaws.com/images/inc-5000-logo.png)
 
 * * *
 
@@ -597,7 +597,7 @@ Remember sign in for 60 days
 
 * * *
 
-Don’t have an account? [Sign up](#sign-up-321328)
+Don’t have an account? [Sign up](#sign-up-215279)
 
 Sign up for an account
 
@@ -615,7 +615,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 * * *
 
-Already have an account? [Sign in](#sign-in-321328)
+Already have an account? [Sign in](#sign-in-215279)
 
 Log in to your account
 
@@ -635,7 +635,7 @@ Remember sign in for 60 days
 
 * * *
 
-Don’t have an account? [Sign up](#sign-up-816258)
+Don’t have an account? [Sign up](#sign-up-846401)
 
 Sign up for an account
 
@@ -653,7 +653,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 * * *
 
-Already have an account? [Sign in](#sign-in-816258)
+Already have an account? [Sign in](#sign-in-846401)
 
 Success
 
