@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Penn’s School of Dental Medicine just received a ![Penn’s School of Dental Medicine just received a $620,900 grant to improve oral health education for caregivers of people with disabilities. Over 3 years, this initiative aims to boost caregiver knowledge through engaging training and resources, benefiting thousands in the community. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA8qdCqNW-n/) 
+
 [In a historic partnership, the Vermont State Denta ![In a historic partnership, the Vermont State Dental Society and University of Detroit Mercy are establishing a Dental Oral Health Education Center in Vermont, addressing the state’s dental provider shortage. With federal support, this initiative aims to expand access to care and train a new generation of oral health professionals. Link in bio.⁠
 ⁠
 ⁠
@@ -176,13 +183,6 @@ Listen via the link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAqo5OStKDN/) 
-
-[Study reveals that tackling periodontal diseases i ![Study reveals that tackling periodontal diseases in patients with diabetes demands a dual approach: effective dental treatment coupled with proactive diabetes management. By fostering collaboration between medical and dental professionals from the outset, the onset and progression of periodontal diseases can be mitigated in those living with diabetes. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAoEGebNU5k/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
