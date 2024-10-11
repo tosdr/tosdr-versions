@@ -36,18 +36,18 @@
         
         Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/)
     
+    * [![CISA: Hackers abuse F5 BIG-IP cookies to map internal servers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        CISA: Hackers abuse F5 BIG-IP cookies to map internal servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
+    * [![Casio confirms customer data stolen in a ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Casio confirms customer data stolen in a ransomware attack](https://www.bleepingcomputer.com/news/security/casio-confirms-customer-data-stolen-in-a-ransomware-attack/)
     * [![Get help studying for Microsoft tech certifications in this course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get help studying for Microsoft tech certifications in this course deal](https://www.bleepingcomputer.com/offer/deals/get-help-studying-for-microsoft-tech-certifications-in-this-course-deal/)
     * [![Ukraine arrests rogue VPN operator providing access to Runet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Ukraine arrests rogue VPN operator providing access to Runet](https://www.bleepingcomputer.com/news/legal/ukraine-arrests-rogue-vpn-operator-providing-access-to-runet/)
-    * [![Akira and Fog ransomware now exploit critical Veeam RCE flaw](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Akira and Fog ransomware now exploit critical Veeam RCE flaw](https://www.bleepingcomputer.com/news/security/akira-and-fog-ransomware-now-exploiting-critical-veeam-rce-flaw/)
-    * [![Marriott settles with FTC, to pay $52 million over data breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Marriott settles with FTC, to pay $52 million over data breaches](https://www.bleepingcomputer.com/news/legal/marriott-settles-with-ftc-to-pay-52-million-over-data-breaches/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
