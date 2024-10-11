@@ -25,7 +25,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 ##### **Children Under the Minimum Age**
 
-The Minimum Age may vary from country to country. Our Website is not intended for children under the Minimum Age. We do not knowingly collect personal information from children under the Minimum Age. If you are under the Minimum Age, you are prohibited from providing any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under the Minimum Age we will delete that information. If you believe we might have any information from or about a child under the Minimum Age, please contact us at support@hiya.com.
+The Minimum Age may vary from country to country. Our Website is not intended for children under the Minimum Age. We do not knowingly collect personal information from children under the Minimum Age. If you are under the Minimum Age, you are prohibited from providing any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under the Minimum Age we will delete that information. If you believe we might have any information from or about a child under the Minimum Age, please contact us at [\[email protected\]](https://www.hiya.com/cdn-cgi/l/email-protection).
 
 If you are a resident of California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia, you may be entitled to exercise additional rights relating to your personal information. Please see “Your State Law Privacy Rights” below for more information. 
 
@@ -187,7 +187,7 @@ In certain cases, you have the right not to be subject to automated decision-mak
 
 If you have given us your consent, you may withdraw it at any time.
 
-If you are from the EEA and wish to exercise any of your above rights, please [complete a request here](https://hiyahelp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000113547) or contact our data protection officer at dpo@hiya.com.
+If you are from the EEA and wish to exercise any of your above rights, please [complete a request here](https://hiyahelp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000113547) or contact our data protection officer at [\[email protected\]](https://www.hiya.com/cdn-cgi/l/email-protection).
 
 ##### **Your State Law Privacy Rights**
 
@@ -221,11 +221,11 @@ To ask questions or provide comments about this privacy policy and our privacy p
 
 \- US Office:  701 5th Ave, Suite 1200, Seattle, WA 98104
 
-\- Email: support@hiya.com
+\- Email: [\[email protected\]](https://www.hiya.com/cdn-cgi/l/email-protection)
 
 [\- Follow this link to contact Hiya Customer Service](https://hiyahelp.zendesk.com/hc/en-us/requests/new)
 
-\- Data Protection Officer: e-mail: dpo@hiya.com
+\- Data Protection Officer: e-mail: [\[email protected\]](https://www.hiya.com/cdn-cgi/l/email-protection)
 
 \- UK Office: The Brew Eagle House (1st Floor ), 163 City Road, London, EC1V 1NR, Contact: Kelly Schmitt
 
