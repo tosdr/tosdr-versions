@@ -53,8 +53,6 @@ Menu
 
 [Crypto Wallets](https://paybis.com/crypto-wallet/)
 
-[Widget](https://paybis.com/crypto-widget/)
-
 [Sign In](https://paybis.com/user/login/)
 
 English
@@ -115,8 +113,6 @@ Live Chat
 [Swap Crypto](https://paybis.com/swap-btc-to-eth/)
 
 [Crypto Wallets](https://paybis.com/crypto-wallet/)
-
-[Crypto Widget](https://paybis.com/crypto-widget/)
 
 Tools
 
@@ -288,7 +284,6 @@ If you have any questions, comments, or concerns regarding our Privacy Policy an
 
 #### For Individuals
 
-* [Crypto Widget](https://paybis.com/crypto-widget/ "Crypto Widget")
 * [Buy Crypto](https://paybis.com/ "Buy Crypto")
 * [Sell Crypto](https://paybis.com/sell-bitcoin/ "Sell Crypto")
 * [Swap Crypto](https://paybis.com/swap-btc-to-eth/ "Swap Crypto")
