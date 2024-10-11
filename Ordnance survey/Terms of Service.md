@@ -47,7 +47,7 @@
     
     News & Insights
     
-    [What’s new at OS](https://www.ordnancesurvey.co.uk/whats-new)[News](https://www.ordnancesurvey.co.uk/news)[Insights](https://www.ordnancesurvey.co.uk/insights)[Blog](https://www.ordnancesurvey.co.uk/blog)[Case studies](https://www.ordnancesurvey.co.uk/customers/case-studies)
+    [What’s new at OS](https://www.ordnancesurvey.co.uk/whats-new)[News](https://www.ordnancesurvey.co.uk/news)[Insights](https://www.ordnancesurvey.co.uk/insights)[Blog](https://www.ordnancesurvey.co.uk/blog)[Case studies](https://www.ordnancesurvey.co.uk/customers/case-studies)[What is GIS?](https://www.ordnancesurvey.co.uk/gis)
     
     Go to
     
