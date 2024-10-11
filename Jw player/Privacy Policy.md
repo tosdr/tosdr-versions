@@ -158,7 +158,7 @@
 Privacy Policy
 ==============
 
-_Effective: January 4, 2024_
+_Effective: October 11, 2024_
 
 Our Privacy Policy describes the information collection practices of JW Player’s corporate website, our other owned websites, and the proprietary technology that we use to perform services for our customers.
 
@@ -197,7 +197,7 @@ Our Privacy Policy describes the information collection practices of JW Player�
 
 ### Introduction
 
-JW Player (legally known as LongTail Ad Solutions, Inc.) is a leading video player software and video management platform (collectively, the “**JW Player Technology**”). Our customers are businesses that use the JW Player Technology to host, embed and stream, and deliver advertising to, digital video over the web (collectively, the “**JW Player Services**”).
+JW Player (legally known as JWP, Inc.) is a leading video player software and video management platform (collectively, the “**JW Player Technology**”). Our customers are businesses that use the JW Player Technology to host, embed and stream, and deliver advertising to, digital video over the web (collectively, the “**JW Player Services**”).
 
 JW Player has prepared this Privacy Policy to describe our practices regarding the information we collect from:
 
@@ -345,7 +345,7 @@ If you do not have a login to the Corporate Website (_e.g._, a prospective custo
 
 You may opt out from receiving marketing-related messages from us either by using the unsubscribe mechanism provided in the message or by emailing us at [privacy@jwplayer.com](mailto:privacy@jwplayer.com). If you opt out from receiving marketing-related messages from us, we may still send administrative messages to you. You cannot opt out from receiving administrative messages.
 
-You have the right to lodge a complaint with a supervisory authority as to our processing of data. However, we hope that you will first consult with us, by emailing us at privacy@jwplayer.com or writing us at LongTail Ad Solutions, Inc., d/b/a JW Player, 530 7th Avenue, Suite 1906, New York, NY 10018 so that we may work with you to resolve any complaint or concern you might have.
+You have the right to lodge a complaint with a supervisory authority as to our processing of data. However, we hope that you will first consult with us, by emailing us at privacy@jwplayer.com or writing us at JWP, Inc., 530 7th Avenue, Suite 1906, New York, NY 10018 so that we may work with you to resolve any complaint or concern you might have.
 
 The Corporate Website does not support the Do Not Track browser setting.
 
@@ -464,13 +464,13 @@ The Corporate Website, JW Player Websites, and JW Player Technology are not targ
 ### E. How to Contact JW Player
 
 If you have any questions about this Privacy Policy, please contact us at:  
-LongTail Ad Solutions, Inc., d/b/a JW Player  
+JWP, Inc.  
 530 7th Avenue, Suite 1906 New York, NY 10018  
 [privacy@jwplayer.com](mailto:privacy@jwplayer.com)
 
 ### STATEMENT OF TCF COMPLIANCE
 
-LongTail Ad Solutions, Inc., d/b/a JW Player, adheres to the IAB Europe Transparency & Consent Framework and is compliant with the Policies and Specifications therein. Our IAB Europe ID is 1046.
+JWP, Inc., adheres to the IAB Europe Transparency & Consent Framework and is compliant with the Policies and Specifications therein. Our IAB Europe ID is 1046.
 
 ![](https://jwplayer.com/wp-content/uploads/2022/11/JWP-logo.svg)
 
