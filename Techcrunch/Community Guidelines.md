@@ -180,12 +180,12 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
+* [Tesla Robovan](https://techcrunch.com/2024/10/10/robovan-was-the-biggest-surprise-at-tesla-we-robot-event/)
 * [Fidelity Breach](http://fidelity/)
-* [Tesla Robotaxi Event](https://techcrunch.com/storyline/tesla-robotaxi-event-follow-elon-musks-big-reveals-here/)
 * [Cybercab](https://techcrunch.com/2024/10/10/tesla-reveals-20-cybercabs-at-we-robot-event/)
-* [Tesla](https://techcrunch.com/2024/10/09/tesla-designer-franz-von-holzhausen-says-hes-been-designing-a-robotaxi-in-his-mind-for-years/)
-* [Geoffrey Hinton](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
-* [Tech Layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/)
+* [Tesla Cybercab](https://techcrunch.com/2024/10/10/tesla-reveals-20-cybercabs-at-we-robot-event/)
+* [Fearless Fund](https://techcrunch.com/2024/10/11/fearless-fund-has-made-its-first-big-deal-since-settling-its-controversial-lawsuit/)
+* [Tech Layoffs](https://techcrunch.com/2024/10/11/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/10/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 © 2024 Yahoo.
