@@ -67,7 +67,7 @@ Non-Private or Non-Personal Information.   We may disclose your non-private, ag
 
 ###### 4\. Changing or Deleting Your Information
 
-You can access and modify the Personal Information associated with your Account by contacting us at support@sunsama.com. Please note that if you signed up using Third Party Account, you may have to access and modify the Personal Information associated with your Third Party Account in order to modify certain of the Personal Information associated with your Account. If you want us to delete your Personal Information and your Account, please delete your Account via sunsama.com/settings or contact us at support@sunsama.com with your request. We will take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+You can access and modify the Personal Information associated with your Account by contacting us at [\[email protected\]](https://sunsama.com/cdn-cgi/l/email-protection). Please note that if you signed up using Third Party Account, you may have to access and modify the Personal Information associated with your Third Party Account in order to modify certain of the Personal Information associated with your Account. If you want us to delete your Personal Information and your Account, please delete your Account via sunsama.com/settings or contact us at [\[email protected\]](https://sunsama.com/cdn-cgi/l/email-protection) with your request. We will take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
 ###### 5\. Data Retention
 
@@ -75,15 +75,15 @@ We will retain your information for as long as your Account is active or as need
 
 ###### 6\. Security
 
-The security of your information is important to us. We follow generally accepted standards to protect the information submitted to us, both during transmission and once we receive it. No method of electronic transmission or storage is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at support@sunsama.com.
+The security of your information is important to us. We follow generally accepted standards to protect the information submitted to us, both during transmission and once we receive it. No method of electronic transmission or storage is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [\[email protected\]](https://sunsama.com/cdn-cgi/l/email-protection).
 
 ###### 7\. Our Policy Toward Children
 
-Our Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at support@sunsama.com. If we become aware that a child under 13 has provided us with Personal Information, we will take steps to delete such information from our files.
+Our Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [\[email protected\]](https://sunsama.com/cdn-cgi/l/email-protection). If we become aware that a child under 13 has provided us with Personal Information, we will take steps to delete such information from our files.
 
 ###### 8\. Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at support@sunsama.com.
+If you have any questions about this Privacy Policy, please contact us at [\[email protected\]](https://sunsama.com/cdn-cgi/l/email-protection).
 
 ###### 9\. Changes to our Privacy Policy
 
