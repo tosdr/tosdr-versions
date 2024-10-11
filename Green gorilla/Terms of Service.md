@@ -10,7 +10,7 @@
 
 ![Traffic Roots Audience Pixel](https://service.trafficroots.com/audience/85b2d05e3b)
 
-Buy One 7500mg CBD Oil , Get One 7500mg CBD Oil 60% Off With Code  **PLATINUM**
+BOGO 60% Off 7500MG CBD OIL With Code  **PLATINUMOIL**
 
 _Regulations For Hemp CBD Access In California_  I  **[Learn More](https://www.cdph.ca.gov/Programs/OLS/Pages/DPH-24-005E-Emergency-Regulations-for-Industrial-Hemp.aspx)**
 
