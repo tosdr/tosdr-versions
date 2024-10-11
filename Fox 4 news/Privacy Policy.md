@@ -402,75 +402,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Hurricane Milton: Death toll rises as Florida recovers from damage](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-2176957818.jpg?ve=1&tl=1)
+ [![Mom left critically injured 9-year-old son behind after crash, report says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/monica-tutt-mug-dallas-co-2023.jpg?ve=1&tl=1)
 
- ![Hurricane Milton: Death toll rises as Florida recovers from damage](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-2176957818.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-florida-damage-death-toll-rises-october-11-2024)
+ ![Mom left critically injured 9-year-old son behind after crash, report says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/monica-tutt-mug-dallas-co-2023.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/monica-tutt-arden-road-crash-affidavit)
 
-### [Hurricane Milton: Death toll rises as Florida recovers from damage](https://www.fox4news.com/news/hurricane-milton-florida-damage-death-toll-rises-october-11-2024)
+### [Mom left critically injured 9-year-old son behind after crash, report says](https://www.fox4news.com/news/monica-tutt-arden-road-crash-affidavit)
 
- [![Fisher-Price recalls 2 million Snuga Swings after infant deaths](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/fisher-price.jpg?ve=1&tl=1)
+ [![Kevin O'Leary argues recent hurricanes won't stop people from moving to Florida](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1146139361.jpg?ve=1&tl=1)
 
- ![Fisher-Price recalls 2 million Snuga Swings after infant deaths](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/fisher-price.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fisher-price-snuga-swings-recall-infant-deaths-october-2024)
+ ![Kevin O'Leary argues recent hurricanes won't stop people from moving to Florida](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1146139361.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/florida-housing-market-hurricanes-insurance-costs)
 
-### [Fisher-Price recalls 2 million Snuga Swings after infant deaths](https://www.fox4news.com/news/fisher-price-snuga-swings-recall-infant-deaths-october-2024)
+### [Kevin O'Leary argues recent hurricanes won't stop people from moving to Florida](https://www.fox4news.com/news/florida-housing-market-hurricanes-insurance-costs)
 
- [![Tesla unveils self-driving CyberCab, shows off Optimus robot at event](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/01/32/18/Tesla-logo.jpg?ve=1&tl=1)
+ [![Taco Bell brings back '90s fan-favorite, but not for long](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1973669685-1.jpg?ve=1&tl=1)
 
- ![Tesla unveils self-driving CyberCab, shows off Optimus robot at event](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/01/32/18/592/333/Tesla-logo.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tesla-cybercab-optimus-robot)
+ ![Taco Bell brings back '90s fan-favorite, but not for long](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1973669685-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/taco-bell-double-decker-taco-returns)
 
-### [Tesla unveils self-driving CyberCab, shows off Optimus robot at event](https://www.fox4news.com/news/tesla-cybercab-optimus-robot)
+### [Taco Bell brings back '90s fan-favorite, but not for long](https://www.fox4news.com/news/taco-bell-double-decker-taco-returns)
 
- [![9.9 million pounds of ready-to-eat meat, poultry recalled over listeria concerns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-151042750.jpg?ve=1&tl=1)
+ [![Man fatally stabbed in South Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/DPD-Dallas-Police-car.jpg?ve=1&tl=1)
 
- ![9.9 million pounds of ready-to-eat meat, poultry recalled over listeria concerns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-151042750.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ready-to-eat-meat-poultry-recalled-listeria-concerns)
+ ![Man fatally stabbed in South Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/592/333/DPD-Dallas-Police-car.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-fatally-stabbed-south-dallas)
 
-### [9.9 million pounds of ready-to-eat meat, poultry recalled over listeria concerns](https://www.fox4news.com/news/ready-to-eat-meat-poultry-recalled-listeria-concerns)
+### [Man fatally stabbed in South Dallas](https://www.fox4news.com/news/man-fatally-stabbed-south-dallas)
 
- [![All lanes of Dallas North Tollway closed at Northwest Highway after fatal motorcycle crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/traffic-dnt.png?ve=1&tl=1)
+ [![74 birds seized from cockfight in Van Zandt County, SPCA of Texas awarded custody](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/photo-sep-28-2024-11-28-10-pm-scaled.jpg?ve=1&tl=1)
 
- ![All lanes of Dallas North Tollway closed at Northwest Highway after fatal motorcycle crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/traffic-dnt.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-north-tollway-closed-northwest-highway-motorcycle-crash)
+ ![74 birds seized from cockfight in Van Zandt County, SPCA of Texas awarded custody](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/10/32/18/592/333/photo-sep-28-2024-11-28-10-pm-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/74-birds-seized-from-cockfight-van-zandt-county-spca-texas-awarded-custody)
 
-### [All lanes of Dallas North Tollway closed at Northwest Highway after fatal motorcycle crash](https://www.fox4news.com/news/dallas-north-tollway-closed-northwest-highway-motorcycle-crash)
-
-[![Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/milton-lanfall.jpg?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
-
-WATCH LIVE COVERAGE
-
-[Hurricane Milton aftermath: Millions without power as deaths, flooding reported](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
-
-[Milton moved through Florida on Thursday after slamming into the state as a Category 3 hurricane – causing at least four deaths and leaving millions without power.](https://www.fox4news.com/news/hurricane-milton-aftermath-deaths-flooding-power-outages-oct-10-2024)
-
-[![Hurricane Milton update: Storm weakens to Category 2, flash flood emergency issued for Tampa Bay](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/foxwx5pmradar.gif?ve=1&tl=1)](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
-
-WATCH LIVE COVERAGE
-
-[Hurricane Milton updates: 'Multiple fatalities' reported at retirement community](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
-
-[About 90 minutes after making landfall Wednesday night, Hurricane Milton weakened to a Category 2 storm, with winds reaching 110 mph.](https://www.fox4news.com/news/hurricane-update-milton-oath-florida-october-9-2024)
-
-[![Videos show tornadoes blasting Florida ahead of Hurricane Milton landfall](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/149/84/digital_radar-milton2.gif?ve=1&tl=1)](https://www.fox4news.com/weather/florida-tornado-warnings-hurricane-milton)
-
-WATCH LIVE COVERAGE
-
-[Videos show tornadoes blasting Florida ahead of Hurricane Milton landfall](https://www.fox4news.com/weather/florida-tornado-warnings-hurricane-milton)
-
-[A record number of tornado warnings were issued Wednesday across South Florida, with Hurricane Milton still hours away from landfall](https://www.fox4news.com/weather/florida-tornado-warnings-hurricane-milton)
-
-[](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
-
-WATCH LIVE COVERAGE
-
-[Hurricane Milton live video: Watch Florida webcams](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
-
-[Here the view from live cameras up and down the west coast of Florida, from Clearwater to Tampa to Sarasota, as Hurricane Milton comes ashore.](https://www.fox4news.com/news/hurricane-milton-live-video-tampa-sarasota-webcams)
-
-[![Tropicana Field roof ripped off by Hurricane Milton](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/10/149/84/gettyimages-2177012789.jpg?ve=1&tl=1)](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
-
-WATCH LIVE COVERAGE
-
-[Tropicana Field roof ripped off by Hurricane Milton](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
-
-[Tropicana Field, home to the Tampa Bay Rays, was set to serve as the home base for thousands of emergency responders who set up camp ahead of Hurricane Milton.](https://www.fox4news.com/news/video-hurricane-miltons-high-winds-tear-portion-roof-off-tropicana-stadium-st-petersburg)
+### [74 birds seized from cockfight in Van Zandt County, SPCA of Texas awarded custody](https://www.fox4news.com/news/74-birds-seized-from-cockfight-van-zandt-county-spca-texas-awarded-custody)
 
 ###### [News](https://www.fox4news.com/news)
 
