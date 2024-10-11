@@ -287,7 +287,7 @@ Sustain.Life is operated from the U.S.A.  As such, your personal information is
 
 You have certain choices concerning our use of your personal information, described here.
 
-a.      Opt-out of marketing communications: You may opt out of marketing communications from us at any time by following the opt-out or unsubscribe instructions provided within our marketing communications, or by emailing us at info@sustain.life or calling us at 866-798-2597. Please note that if you opt out of marketing communications, we may continue to send you necessary information about our business relationship or other transactions that you may have with us.
+a.      Opt-out of marketing communications: You may opt out of marketing communications from us at any time by following the opt-out or unsubscribe instructions provided within our marketing communications, or by emailing us at [\[email protected\]](https://www.sustain.life/cdn-cgi/l/email-protection) or calling us at 866-798-2597. Please note that if you opt out of marketing communications, we may continue to send you necessary information about our business relationship or other transactions that you may have with us.
 
 b.      Cookies. Your internet browser may be configured to reject or disable cookies, as described in documentation for your browser. Please understand, however, that rejecting or disabling cookies may affect or interfere with your experience of our products and services, or your ability to access areas or functions of our website.  For further information about our use of cookies or other tracking technologies, described at (c) and (d) below, please see our Cookies Policy, available here.
 
@@ -308,7 +308,7 @@ Depending on your place of residence and applicable laws, you may have certain r
 
 Please note that these rights are not absolute, and are subject to certain restrictions and exemptions.  For example, the right to erasure of personal information will not apply where we have a legitimate reason to continue to hold such data.
 
-If you wish to exercise rights that you may have under applicable law or make similar inquiries, please email us at info@sustain.life or callus at 866-798-2597 and make clear your place of residence. Please understand that we may take reasonable steps to confirm your identity and to confirm that you hold any rights that you wish to exercise. If you do not provide information sufficient to verify your identity, we may, in some circumstances, be unable to carry out your request.
+If you wish to exercise rights that you may have under applicable law or make similar inquiries, please email us at [\[email protected\]](https://www.sustain.life/cdn-cgi/l/email-protection) or callus at 866-798-2597 and make clear your place of residence. Please understand that we may take reasonable steps to confirm your identity and to confirm that you hold any rights that you wish to exercise. If you do not provide information sufficient to verify your identity, we may, in some circumstances, be unable to carry out your request.
 
 Please also understand that we may hold information about you on behalf of one of our clients. In those cases, we may not be able to accommodate your request to exercise rights, and we will direct you or your request to the business that controls the personal information.  In those circumstances, we are not the controller of your personal data and queries should be directed to the client organization.
 
@@ -338,11 +338,11 @@ Our products and services may contain links to other websites, applications or o
 
 Sustain.Life is located at 2500 Plaza 5 The Waterfront, 25th Floor, Jersey City, NJ 07311, and it is the company responsible for the collection, use, and disclosure of your personal information under this Privacy Policy.
 
-If you have any comments or questions about this Privacy Policy or our privacy practices, please contact us at the address above or by email at [info@sustain.life](mailto:info@sustain.life).
+If you have any comments or questions about this Privacy Policy or our privacy practices, please contact us at the address above or by email at [\[email protected\]](https://www.sustain.life/cdn-cgi/l/email-protection).
 
 For individuals based in the European Union:
 
-Since we do not have an establishment in the European Union, we have appointed an EU based representative to serve as a direct contact for data protection authorities and individuals on our behalf, who can be contacted at [sustain.life@mcf.ie](mailto:sustain.life@mcf.ie) or MCF Legal Technology Solutions Limited, Riverside One, Sir John Rogerson’s Quay, Dublin 2, Ireland.
+Since we do not have an establishment in the European Union, we have appointed an EU based representative to serve as a direct contact for data protection authorities and individuals on our behalf, who can be contacted at [\[email protected\]](https://www.sustain.life/cdn-cgi/l/email-protection) or MCF Legal Technology Solutions Limited, Riverside One, Sir John Rogerson’s Quay, Dublin 2, Ireland.
 
 ‍
 
