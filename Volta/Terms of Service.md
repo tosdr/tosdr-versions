@@ -48,7 +48,7 @@ Open navigation menu [Open search](https://voltacharger.com/search)
 * Products
     
     * [Magnetic Cables](https://voltacharger.com/collections/magnetic-cables)
-        * [Volta Max Cable 240W](https://voltacharger.com/products/volta-max-240w-cable)
+        * [Volta Max 240W Cable Set](https://voltacharger.com/products/volta-max-240w-cable)
         * [Volta Max Cable (Only)](https://voltacharger.com/products/volta-max-cable-only)
         * [Volta Max Tips (Only)](https://voltacharger.com/products/volta-max-tips-only)
     * [Chargers](https://voltacharger.com/collections/chargers)
@@ -131,7 +131,7 @@ Previous Next
 * [Influencer Program](https://voltacharger.com/pages/influencerprogram)
 
 * Magnetic Cables
-* [![Volta MAX 240W Cable Set](//www.voltacharger.com/cdn/shop/files/BlackMaxCMA.webp?v=1727690381&width=104)Volta Max Cable 240W](https://voltacharger.com/products/volta-max-240w-cable)
+* [![Volta MAX 240W Cable Set](//www.voltacharger.com/cdn/shop/files/BlackMaxCMA.webp?v=1727690381&width=104)Volta Max 240W Cable Set](https://voltacharger.com/products/volta-max-240w-cable)
 * [![Volta Max Cable (Only)](//www.voltacharger.com/cdn/shop/files/ExtraMax.webp?v=1727690723&width=104)Volta Max Cable (Only)](https://voltacharger.com/products/volta-max-cable-only)
 * [![Volta Max Tips (Only)](//www.voltacharger.com/cdn/shop/files/3Tipsmax.webp?v=1727565731&width=104)Volta Max Tips (Only)](https://voltacharger.com/products/volta-max-tips-only)
 
