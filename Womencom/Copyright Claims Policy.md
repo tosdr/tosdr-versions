@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Olivia Dunn on the red carpet](https://www.women.com/img/gallery/5-times-livvy-dunnes-outfits-totally-missed-the-mark/intro-1728408572.jpg)](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
+*  [![Julia Roberts](https://www.women.com/img/gallery/julia-robertss-most-iconic-hair-looks-of-all-time/intro-1728426066.jpg)](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
     
-    [5 Times Livvy Dunne's Outfits Totally Missed The Mark](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
-    =====================================================================================================================================
+    [Julia Roberts's Most Iconic Hair Looks Of All Time](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
+    =========================================================================================================================
     
-    Livvy Dunne is undoubtedly an influencer, but her outfits haven't always been on-trend. Occasionally, Dunne's ensembles have looked outdated or out of place.
+    While the thought of Julia Roberts is likely to conjure thoughts of big, curly hair, the actress has experimented with far more looks than just that.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
+    By Amanda Chatel [Read More](https://www.women.com/1683509/julia-roberts-most-iconic-hair-looks/)
     
-* *  [![Carrie Fisher on the red carpet](https://www.women.com/img/gallery/5-inspiring-celebrity-memoirs-about-mental-health/intro-1727812011.jpg)](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
+* *  [![Angelina Jolie red lipstick](https://www.women.com/img/gallery/angelina-jolies-best-old-hollywood-looks-that-prove-shes-the-ultimate-movie-star/intro-1728415128.jpg)](https://www.women.com/1683257/angelina-jolie-best-old-hollywood-looks-prove-ultimate-move-star/)
         
-        [Wellness](https://www.women.com/category/wellness/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
         
-        ### [5 Inspiring Celebrity Memoirs About Mental Health](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
+        ### [Angelina Jolie's Best Old Hollywood Looks That Prove She's The Ultimate Movie Star](https://www.women.com/1683257/angelina-jolie-best-old-hollywood-looks-prove-ultimate-move-star/)
         
-        These memoirs understand that the key to breaking mental health stigma is to talk about it openly and honestly.
+        Angelina Jolie's not dressing for us, she's dressing for herself, and paying homage the old Hollywood icons that came before her.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
+        By Amanda Chatel [Read More](https://www.women.com/1683257/angelina-jolie-best-old-hollywood-looks-prove-ultimate-move-star/)
         
-    *  [![Jane Fonda](https://www.women.com/img/gallery/5-older-women-in-hollywood-who-are-still-embracing-celebrating-their-sexuality/intro-1728400367.jpg)](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
+    *  [![Olivia Dunn on the red carpet](https://www.women.com/img/gallery/5-times-livvy-dunnes-outfits-totally-missed-the-mark/intro-1728408572.jpg)](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
         
-        [Sex](https://www.women.com/category/sex-life/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [5 Older Women In Hollywood Who Are Still Embracing & Celebrating Their Sexuality](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
+        ### [5 Times Livvy Dunne's Outfits Totally Missed The Mark](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
         
-        It's important to embrace aging and the sensuality that comes with it. If you confront aging with confidence, you'll be hotter than ever.
+        Livvy Dunne is undoubtedly an influencer, but her outfits haven't always been on-trend. Occasionally, Dunne's ensembles have looked outdated or out of place.
         
-        By Amanda Chatel [Read More](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
+        By Emily Hutchinson [Read More](https://www.women.com/1683034/times-livvy-dunne-outfits-totally-missed-mark/)
         
 
 More Stories
 ------------
 
+*  [![Carrie Fisher on the red carpet](https://www.women.com/img/gallery/5-inspiring-celebrity-memoirs-about-mental-health/intro-1727812011.jpg)](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
+    
+    ### [5 Inspiring Celebrity Memoirs About Mental Health](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
+    
+    These memoirs understand that the key to breaking mental health stigma is to talk about it openly and honestly.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1677874/inspiring-celebrity-memoirs-about-mental-health/)
+    
+*  [![Jane Fonda](https://www.women.com/img/gallery/5-older-women-in-hollywood-who-are-still-embracing-celebrating-their-sexuality/intro-1728400367.jpg)](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
+    
+    [Sex](https://www.women.com/category/sex-life/)
+    
+    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+    
+    ### [5 Older Women In Hollywood Who Are Still Embracing & Celebrating Their Sexuality](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
+    
+    It's important to embrace aging and the sensuality that comes with it. If you confront aging with confidence, you'll be hotter than ever.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1682792/older-women-hollywood-embracing-celebrating-sexuality/)
+    
 *  [![Reese Witherspoon holding books](https://www.women.com/img/gallery/the-best-reese-witherspoon-book-club-picks-of-the-2020s/intro-1728486633.jpg)](https://www.women.com/1681964/best-reese-witherspoon-book-club-picks-2020s/)
     
     [Living](https://www.women.com/category/living/)
@@ -381,30 +405,6 @@ More Stories
     Spooky season is all about snuggling up under a blanket and binging your fave autumnal movies. But it doesn't feel quite right without spooky nails.
     
     By Emily Hutchinson [Read More](https://www.women.com/1672475/practical-magic-nail-ideas-autumn-vibes/)
-    
-*  [![Woman straddling man](https://www.women.com/img/gallery/sex-tips-to-make-being-on-top-more-enjoyable/intro-1727193690.jpg)](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [Sex Tips To Make Being On Top More Enjoyable](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
-    
-    When it comes to sex, positions run the gamut. But finding a position that works for you is a whole other ball game.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1672066/sex-tips-being-on-top-more-enjoyable/)
-    
-*  [![Amal Clooney](https://www.women.com/img/gallery/amal-clooneys-hair-transformation-has-been-absolutely-stunning/intro-1727292734.jpg)](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Amal Clooney's Hair Transformation Has Been Absolutely Stunning](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
-    
-    Amal Clooney never misses the mark regarding fashion and style, often making her husband George play second fiddle to her radiance.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1671964/amal-clooney-hair-transformation-stunning/)
     
 
 Back
