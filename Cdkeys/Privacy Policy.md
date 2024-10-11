@@ -8,8 +8,6 @@ Safe & Secure 100% secure and 24h support
 
 Super Fast instant digital download
 
-[Marvel vs. DC Sale! 🔥 Use ASSEMBLE for Marvel or JUSTICE for DC games to get 10% off Shop Now](https://www.cdkeys.com/flash-sale)
-
 Toggle Nav[](https://www.cdkeys.com/)
 
 ![Super Fast](https://cdn.omn-it.net/media/icons/fast_2x.png)
@@ -558,11 +556,11 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Destiny 2 - Legacy Collection PC (2024)](https://cdn.cdkeys.com/245x340/media/catalog/product/d/e/destiny_2_legacy_collection_2024_.jpg)   No 1. \-74%](https://www.cdkeys.com/pc/destiny-2-legacy-collection-pc-2024-steam)
+1.    [![Destiny 2 - Legacy Collection PC (2024)](https://cdn.cdkeys.com/245x340/media/catalog/product/d/e/destiny_2_legacy_collection_2024_.jpg)   No 1. \-78%](https://www.cdkeys.com/pc/destiny-2-legacy-collection-pc-2024-steam)
     
     **[Destiny 2 - Legacy Collection PC (2024)](https://www.cdkeys.com/pc/destiny-2-legacy-collection-pc-2024-steam "Destiny 2 - Legacy Collection PC (2024)")**
     
-    Special Price $17.29 RRP $66.49
+    Special Price $14.59 RRP $66.49
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -578,9 +576,7 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-3.    [![DRAGON BALL: Sparking! ZERO PC (North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/p/sparking_zero_1.jpg)   No 3. \-11%
-    
-    Pre-order](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-pc-steam-na)
+3.    [![DRAGON BALL: Sparking! ZERO PC (North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/p/sparking_zero_1.jpg)   No 3. \-11%](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-pc-steam-na)
     
     **[DRAGON BALL: Sparking! ZERO PC (North America)](https://www.cdkeys.com/pc/dragon-ball-sparking-zero-pc-steam-na "DRAGON BALL: Sparking! ZERO PC (North America)")**
     
