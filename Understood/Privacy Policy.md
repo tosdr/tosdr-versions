@@ -1,8 +1,56 @@
-[](https://www.understood.org/en "Understood")
+[](https://www.understood.org/en "Understood Homepage")
 
 * Explore resources
     
+    Differences
+    
+    * [ADHD](https://www.understood.org/en/adhd)
+    * [Dyslexia](https://www.understood.org/en/dyslexia)
+    * [Dyscalculia](https://www.understood.org/en/dyscalculia)
+    * [Language disorders](https://www.understood.org/en/topics/language-disorder)
+    * [Written expression disorder](https://www.understood.org/en/written-expression-disorder)
+    
+    Popular topics
+    
+    * [Signs and symptoms](https://www.understood.org/en/topics/signs-and-symptoms)
+    * [School supports](https://www.understood.org/en/topics/school-supports)
+    * [IEPs](https://www.understood.org/en/ieps)
+    * [504 plans](https://www.understood.org/en/504-plans)
+    * [Workplace supports](https://www.understood.org/en/audiences/workplace-supports-and-accommodations)
+    * [Assistive technology](https://www.understood.org/en/assistive-technology)
+    * [Managing emotions](https://www.understood.org/en/topics/managing-emotions)
+    * [Staying organized](https://www.understood.org/en/topics/staying-organized)
+    * [See all](https://www.understood.org/en/topics)
+    
+    Audiences
+    
+    * [Parents](https://www.understood.org/en/topics/parenting)
+    * [Women with ADHD](https://www.understood.org/en/adhd-women)
+    * [Educators](https://www.understood.org/en/audiences/educators)
+    
+    More support
+    
+    * [Newsletters](https://www.understood.org/en/newsletters)
+    * [Podcasts](https://www.understood.org/en/podcast)
+    * [Take N.O.T.E. (tool for parents)](https://www.understood.org/en/take-note)
+    
 * About us
+    
+    About Understood
+    ----------------
+    
+    We are the leading nonprofit empowering the 70 million people with learning and thinking differences in the United States. We provide free, expert-vetted resources and support so people who learn and think differently can thrive — in school, at work, and throughout life.
+    
+    * [Our mission](https://www.understood.org/en/mission)
+    * [Our story](https://www.understood.org/en/our-story)
+    * [Our team](https://www.understood.org/en/our-team)
+    * [Our experts](https://www.understood.org/en/our-experts)
+    * [Editorial standards](https://www.understood.org/en/editorial-standards)
+    * [Contact us](https://www.understood.org/en/contact-us)
+    * [Annual report](https://annualreport.understood.org/)
+    * [Media center](https://www.understood.org/en/newsroom)
+    * [Blog](https://www.understood.org/blog/)
+    * [Join our team](https://www.understood.org/en/join-our-team)
     
 * [Partner with us](https://www.understood.org/en/our-partners)
 
