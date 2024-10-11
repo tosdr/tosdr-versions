@@ -33,7 +33,7 @@ Please note the arbitration provision set forth below, which may require you to 
 
 ### 1\. Intellectual Property Ownership
 
-The Sites contain copyrighted material, trademarks and other proprietary information, including comments, articles, information, catalogs, brochures, data, text, software, photos, video and graphics (“Content”). This Content is subject to copyrights owned by Aura and other individuals or entities and is protected by United States and international copyright laws. To make a complaint about a copyright violation on the Sites, email our [Copyright Agent](mailto:copyrightagent@intersections.com).
+The Sites contain copyrighted material, trademarks and other proprietary information, including comments, articles, information, catalogs, brochures, data, text, software, photos, video and graphics (“Content”). This Content is subject to copyrights owned by Aura and other individuals or entities and is protected by United States and international copyright laws. To make a complaint about a copyright violation on the Sites, email our [\[email protected\]](https://www.identityguard.com/cdn-cgi/l/email-protection).
 
 Additionally, the names, trademarks, service marks, and logos of Aura belong exclusively to Aura and are protected from reproduction, imitation, dilution or confusing or misleading uses under national and international trademark and copyright laws. All other trademarks, service marks, and logos (including third-party product names) are the property of their respective owners. The use or misuse of these trademarks is expressly prohibited, and nothing stated or implied on these Sites confers on you any license or right under any patent or trademark of Aura or any third party.
 
@@ -159,7 +159,7 @@ The Sites may contain links to third party websites. We are not responsible for 
 
 We respect the intellectual property of others. If you believe that your work has been copied and is accessible on the Sites in a way that constitutes copyright infringement, please follow the instructions below on how to contact us to report possible copyright infringement.
 
-Please provide the following information to our [Copyright Agent](mailto:copyrightagent@intersections.com):
+Please provide the following information to our [\[email protected\]](https://www.identityguard.com/cdn-cgi/l/email-protection):
 
 * an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
 * a description of the copyrighted work that you claim has been infringed;
@@ -186,7 +186,7 @@ We shall have the right to immediately terminate these Terms of Use with respect
 
 If you have any questions about these Terms of Use, please contact us at:
 
-Customer Service P.O. Box 222455 Chantilly, VA 20153-2455 Or Email: [Customer Service](mailto:customerservice@intersections.com)
+Customer Service P.O. Box 222455 Chantilly, VA 20153-2455 Or Email: [\[email protected\]](https://www.identityguard.com/cdn-cgi/l/email-protection)
 
 [![](https://cdn.prod.website-files.com/627bf795f0d42b1508d544b1/627c49ddb91f5949627d2e5a_IDGLogo.svg)](https://www.identityguard.com/)
 
