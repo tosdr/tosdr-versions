@@ -63,9 +63,10 @@ Login to your account, make a payment, see benefits and more.
 
 ### Wellcare By Fidelis Care
 
+* [Wellcare Medicare](https://www.fideliscare.org/WellcareMedicare)
 * [Medicare Resources](https://www.fideliscare.org/WellcareMedicare/Medicare-Resources)
 * [Prescription Drug Information](https://www.fideliscare.org/WellcareMedicare/Prescription-Drug-Information)
-* [Fidelis Medicare Joins Wellcare](https://www.fideliscare.org/WellcareMedicare)
+* [My Wellcare Rewards](https://www.fideliscare.org/WellcareMedicare/Medicare-Resources/My-Wellcare-Rewards)
 * [Rights, Appeals, and Disputes](https://www.fideliscare.org/WellcareMedicare/Rights-Appeals-Disputes)
 
 * * *
