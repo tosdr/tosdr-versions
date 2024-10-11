@@ -31,975 +31,997 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Fondo Mundial para la Naturaleza se refiere al impacto de perder la Amazonía
-============================================================================
-
-Cuando se talan los bosques en la Amazonía, los suelos ya no generan humedad.
------------------------------------------------------------------------------
-
-![Fotografía aérea de un bote navegando por un río en una zona de la floresta Amazónica.](https://www.elcomercio.com/wp-content/uploads/2024/10/Amazonia-efe-10-octubre.jpg)
-
- El **Fondo Mundial para la Naturaleza** (WWF por sus siglas en inglés) alertó este jueves 10 de octubre de 2024, de que si se pierde la Amazonía “**se pierde la lucha contra el cambio climático”**, por lo que instó a adoptar acciones conjuntas para proteger el también llamado pulmón del mundo.
-
-### Más noticias
-
-* [Investigadores describen nueva especie de rana de la Amazonía](https://www.elcomercio.com/tendencias/ciencia/investigadores-describen-nueva-especie-rana-descubierta-amazonia.html "Investigadores describen nueva especie de rana de la Amazonía")
-* [Ecuador es un pequeño refugio de los delfines de la Amazonía](https://www.elcomercio.com/actualidad/ecuador/ecuador-pequeno-refugio-delfines-amazonicos-rosados-grises-amazonia.html "Ecuador es un pequeño refugio de los delfines de la Amazonía")
-
-Durante la presentación del nuevo informe ‘Planeta Vivo’, de WWF, en el que se alertó de una “catastrófica caída” del 73 % de la **población de vertebrados en el mundo entre 1970 y 202**0, Analiz Vergara, técnica de la Unidad Amazónica ACU WWF, hizo énfasis en la importancia de la Amazonía para el planeta.
-
-El informe menciona **“puntos de inflexión o de no retorno”** relacionados con el debilitamiento de ecosistemas que se **vuelven más vulnerables ante amenazas como el cambio climático** y la deforestación, “que es lo que estamos viendo en la Amazonía”, dijo.
-
-“La Amazonía está dando señales de acercarse a este punto de no retorno como consecuencia de los altos niveles de deforestación y del cambio climático”, avisó.
-
-En un encuentro con la prensa, en Quito, Vergara recordó que la Amazonía alberga al menos el 10 % de la biodiversidad “conocida” del planeta, pero en la Amazonía “se descubren especies nuevas cada dos o tres días”, aseguró.
-
-Toneladas de carbono en la Amazonía
------------------------------------
-
-“Además, la **Amazonía alberga entre 250 y 300 mil millones** de toneladas de carbono. Si es que perdemos la Amazonía, esto significa que sería imposible alcanzar la meta global de limitar el incremento de temperatura global a 1,5 grados, que es lo que busca el Acuerdo de París”, dijo.
-
-Por ello, sentenció: “Si perdemos la Amazonía, perdemos la lucha contra el cambio climático”.
-
-Amazonía ecuatoriana
---------------------
-
-Si bien Ecuador representa un porcentaje pequeño de la Amazonía a nivel regional, es muy importante en términos de biodiversidad, pues allí confluyen “los **mayores índices de número de especies** de diferentes grupos: mamíferos, anfibios, aves, etcétera”. Agregó que la zona “es importante para mantener la resiliencia de todo el sistema”.
-
-Destacó el papel fundamental del agua pues “los **bosques sanos en la Amazonía** producen su propia humedad a través de la transpiración, que es cuando los árboles expulsan humedad a través de sus hojas. Esto conforma ríos voladores gigantescos que recorren todo el continente”.
-
-Razonó que cuando se talan los bosques en la Amazonía, los suelos ya no generan humedad. “Eso hace que se reduzca la lluvia en otras **partes de la Amazonía** y que los árboles no puedan prosperar en esos otros lugares, lo cual hace que estos mismos árboles no puedan producir, a su vez, los ríos voladores”.
-
-Además, de la pérdida de biodiversidad que implica la **degradación de la Amazonía,** Vergara refirió la posible afectación a la riqueza cultural, que no es reemplazable.
-
-Basada en datos científicos, vergara señaló: “Si se pierde un 20 a un 25 % de los bosques amazónicos, podríamos estar desencadenando la llegada al punto de no retorno y, al momento, se han perdido alrededor de 17 %”.
-
-“Si continuamos con las tendencias actuales de deforestación dentro de la próxima década, podríamos estar llegando a este punto de no retorno de la Amazonía”, subrayó.
-
-Escenario “bastante pesimista”
-------------------------------
-
-La Amazonía experimenta un **proceso de deforestación y degradación** “bastante grande”, debido, principalmente, a la ganadería y la agricultura, pero también al comercio legal de especies, minería ilegal o cultivos ilícitos.
-
-Además, **pobreza, desigualdad, falta de estructuras de ordenanzas fuertes**, la existencia de infraestructura que está mal situada o que no es sostenible, la extracción de recursos naturales no renovables, como el petróleo y los minerales.
-
-“Esto, junto con el cambio climático, nos da un escenario bastante pesimista para la Amazonía”, indicó al informar de que en Ecuador “se han perdido alrededor de 250.000 hectáreas de bosque en la Amazonía en los últimos 20 años”.
-
-“La gran parte de esta deforestación ocurrió en el **norte y centro de la Amazonía**, y alrededor del 85 % se debe a la producción de palma aceitera, cacao y otros productos, así como a la ganadería, manifestó.
-
-Además, en los últimos dos años “las áreas afectadas por minería se cuadruplicaron y el 90 % de la minería que se está dando en Ecuador en el momento es **ilegal” afectando, en especial**, a las provincias de Napo, Zamora Chinchipe y Sucumbíos, dijo. 
-
-¿Cómo llega la Selección de Ecuador en la tabla ante Paraguay?
-==============================================================
-
-La Selección de Ecuador arriba en zona de clasificación para enfrentar a Paraguay en las eliminatorias rumbo al Mundial de 2026.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Hernán Galíndez y Willian Pacho celebran un triunfo con la Selección de Ecuador en las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-10T133748.048.jpg)
-
-La **Selección de Ecuador** tiene un partido de vital importancia ante Paraguay en la novena fecha de las eliminatorias sudamericanas rumbo al Mundial de 2026. El combinado nacional llega en una zona de privilegio, mientras que **Paraguay** aún no se consolida.
-
-La Tri tendrá su tercer partido al mando de **Sebastián Beccacece** después de la desvinculación de Félix Sánchez Bas al ser eliminado en los cuartos de final de la **Copa América**. El exentrenador ya había ubicado al combinado ecuatoriano en zona de posición y su reemplazo ha conseguido mantener tales posiciones.
-
-### Más noticias:
-
-* [Así estará el clima en Quito para el partido de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/asi-estara-clima-en-quito-para-el-partido-seleccion-de-ecuador.html "Así estará el clima en Quito para el partido de la Selección de Ecuador")
-* [Leonardo Campana busca reivindicarse con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-seleccion-ecuador-beccacece.html "Leonardo Campana busca reivindicarse con la Selección de Ecuador")
-* [La Selección de Ecuador domina a Paraguay en Quito](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-domina-a-paraguay-en-quito.html "La Selección de Ecuador domina a Paraguay en Quito")
-
-En su debut, **Beccacece** cayó ante **Brasil** como visitante y, tras ello, venció a **Perú** en casa. Aquellos resultados situaron a la Selección de Ecuador en la cuarta posición de las eliminatorias y le llevaron a sumar once puntos.
-
-La posición de la Tri se da a raíz de ocho partidos, en los cuales se han cosechado **cuatro triunfos, dos empates y dos derrotas**. Aunque la escuadra debería tener 14 unidades, esta posee once debido a una sanción previa de tres puntos menos.
-
-¿Cómo llega Paraguay en la tabla?
----------------------------------
-
-Después de cesar tres técnicos desde el inicio de las eliminatorias, Paraguay pareció encontrar estabilidad con **Gustavo Alfaro**. El estratega argentino, que ya dirigió a la Selección de Ecuador con anterioridad, se unió a los guaranís después de la **Copa América.**
-
-Alfaro debutó en la misma fecha que **Beccacece** con la ‘Albirroja’ y logró un triunfo y un empate en sus dos primeros partidos. Ante Uruguay, el estratega logró un empate como visitante y, tras ello, venció a Brasil de local[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
-
-El plantel paraguayo se encuentra en el **séptimo lugar** de la tabla, zona de repechaje, con nueve unidades. Ha ganado en dos oportunidades y empatado y caído en tres.
-
-Tabla de las eliminatorias sudamericanas
-----------------------------------------
-
-1.- **Argentina**: 18 puntos y +8 de gol diferencia.
-
-2.- **Colombia**: 16 puntos y +4 de gol diferencia.
-
-3.- **Uruguay**: 15 puntos y +8 de gol diferencia.
-
-4.- **Ecuador**: 11 puntos y +2 de gol diferencia.
-
-5.- **Brasil**: 10 puntos y +1 de gol diferencia.
-
-6.- **Venezuela**: 10 puntos y -1 de gol diferencia.
-
-7.- **Paraguay**: 9 puntos y -1 de gol diferencia.
-
-8.- **Bolivia**: 9 puntos y -5 de gol diferencia.
-
-9.- **Chile**: 5 puntos y -8 de gol diferencia.
-
-10.- **Perú**: 3 puntos y -8 de gol diferencia.
-
-Generadores eléctricos pagan menos impuestos y aranceles en Ecuador
-===================================================================
-
-El Comex eliminó aranceles e implementó IVA 0% para la importación y venta de generadores eléctricos, para mejorar el suministro energético.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Las velas y los generadores de energía son utilizados por hogares y negocios. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/10/generadores.jpg)
-
-El **Comité de Comercio Exterior** (Comex) eliminó aranceles para la importación de generadores eléctricos en Ecuador. Estos equipos son necesarios en medio de la crisis energética por la que atraviesa el país, que ha obligado a las autoridades a programar cortes de luz de hasta 10 horas el día[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [El Gobierno de Daniel Noboa pidió al sector privado encender sus generadores de electricidad](https://www.elcomercio.com/actualidad/ecuador/gobierno-invito-sector-privado-prender-generadores-electricidad.html "El Gobierno de Daniel Noboa pidió al sector privado encender sus generadores de electricidad")
-* [Ecuador ofrece incentivos a pequeños generadores de energía](https://www.elcomercio.com/actualidad/negocios/ecuador-ofrece-incentivos-pequenos-generadores-energia.html "Ecuador ofrece incentivos a pequeños generadores de energía")
-* [Daniel Noboa dio una disposición para la comercialización de generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-dio-una-disposicion-para-la-importacion-y-venta-de-generadores-electricos.html "Daniel Noboa dio una disposición para la comercialización de generadores eléctricos")
-
-Este 11 de octubre de 2024 informó que el **Comex** adoptó la Resolución 009-2024, que establece una reducción del **arancel al 0%** para las importaciones de generadores eléctricos destinados al uso comercial, industrial y residencial.
-
-Esta medida estará vigente desde el 11 de octubre de 2024, por un año, y busca facilitar el acceso a estos equipos esenciales. Además, permitirá que los ciudadanos y las empresas puedan hacer frente a las interrupciones en el suministro eléctrico, señaló el Comex.
-
-La reducción de aranceles permitirá **mejorar la disponibilidad** de generadores en el mercado e incentivar la inversión en soluciones energéticas alternativas. La resolución contribuye a la estabilización de las operaciones comerciales de estos equipos, beneficiando a las industrias y hogares del país.
-
-> A la ciudadanía: [pic.twitter.com/DLdXrmnodA](https://t.co/DLdXrmnodA)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 10, 2024](https://twitter.com/Presidencia_Ec/status/1844430315131109632?ref_src=twsrc%5Etfw)
-
-Reducción de IVA para generadores
----------------------------------
-
-Asimismo, desde el 4 de octubre pasado está vigente la tarifa del 0% del Impuesto al Valor Agregado (IVA) para la importación y venta local de generadores eléctricos en todas sus formas y gamas, así como de sus partes y piezas.
-
-Esta medida estará vigente hasta el 31 de diciembre de 2024 y se estableció para incentivar el acceso a soluciones energéticas alternativas.
-
-Para ello se modificó el artículo 194 del Reglamento para la Aplicación de la Ley de Régimen Tributario Interno. Con esto se amplió el alcance de la tarifa 0% de IVA, que ahora incluye tanto la generación como la comercialización e importación de generadores eléctricos.
-
-Estas decisiones buscan asegurar el suministro de energía en momentos de crisis o alta demanda. Además, servirían para beneficiar a las industrias y hogares del país, fomentando la inversión en soluciones energéticas.
-
-Mitos y verdades sobre la vasectomía
-====================================
-
-Este método es seguro y eficaz, pero siempre es importante tomar decisiones informadas y guiadas por profesionales médicos.
----------------------------------------------------------------------------------------------------------------------------
-
-![La vasectomía es un procedimiento seguro y eficaz para el control de la natalidad en hombres.](https://www.elcomercio.com/wp-content/uploads/2024/10/Vasectomia.jpg)
-
-La **vasectomía** es un tema rodeado de mitos y miedos infundados que han disuadido a muchos hombres de considerarla como una opción anticonceptiva viable. A menudo, las personas tienen dudas sobre su impacto en la vida sexual, su reversibilidad o posibles efectos secundarios. Sin embargo, la realidad es que este procedimiento es una de las formas más seguras y efectivas de planificación familiar para los hombres. A continuación, desglosamos los puntos más importantes que debes conocer sobre la vasectomía para tomar una decisión informada.
-
-1. **Consulta con un especialista antes de decidir**: Es esencial que antes de optar por la vasectomía, lo consultes con un urólogo especializado. Este profesional evaluará tu situación personal y familiar para asegurarse de que esta sea la mejor opción para ti​.
-2. **No afecta la vida sexual**: Uno de los mitos más extendidos es que la vasectomía disminuye el deseo sexual o afecta la erección. Esto es completamente falso; la vasectomía no afecta ni las hormonas ni la capacidad de disfrutar del sexo​.
-3. **El procedimiento es sencillo y rápido**: La vasectomía es un procedimiento ambulatorio que dura entre 15 y 20 minutos, generalmente con anestesia local. No es doloroso y la recuperación es rápida​.
-4. **Requiere cuidados postoperatorios mínimos**: Después de la intervención, se recomienda descansar durante unos días, aplicar hielo en la zona y evitar actividades físicas intensas para reducir el riesgo de hematomas​.
-5. **La reversibilidad no está garantizada**: Aunque la reversión de la vasectomía es posible, no siempre garantiza la fertilidad. Cuanto más tiempo pase entre la vasectomía y su reversión, menor será la probabilidad de éxito​.
-6. **Los espermatozoides aún pueden estar presentes**: Durante los primeros meses después de la operación, los espermatozoides pueden seguir presentes en el semen, por lo que es necesario continuar utilizando protección hasta que el médico lo indique​.
-7. **Es altamente eficaz como método anticonceptivo**: La vasectomía es uno de los métodos anticonceptivos más efectivos. Tiene una tasa de éxito cercana al 100% una vez que los espermatozoides ya no están presentes en el semen​.
-8. **No tiene efectos en otras funciones del cuerpo**: La vasectomía no afecta las funciones urinarias ni provoca infecciones u otras complicaciones en el sistema reproductivo​.
-9. **Consulta con tu pareja antes de tomar la decisión**: Es importante discutir con tu pareja sobre la vasectomía, ya que se trata de una decisión conjunta que afecta la planificación familiar a largo plazo​.
-
-Escucha nuestro podcast para conocer más del tema
--------------------------------------------------
-
-El urólogo José Gaibor aclara dudas y desmiente mitos sobre la vasectomía.
-
-Este artículo forma parte de ‘[El Cuaderno de la Salud](https://www.elcomercio.com/podcasts/cuaderno-de-la-salud.html)’ de EL COMERCIO. Si tienes consultas o sugerencias, llena el formulario a continuación. Mantente informado y cuida tu salud.
-
-Hugh Jackman emociona a sus fans con una noticia inesperada
-===========================================================
-
-La noticia la compartió en sus redes sociales con un toque de humor.
---------------------------------------------------------------------
-
-![Hugh Jackman compartió la noticia junto con Ryan Reynolds. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-10T130736.323.jpg)
-
-Hugh Jackman emociona a sus **fans** con una noticia inesperada. A continuación, te contamos todos los detalles.
-
-### **Más noticias:**
-
-* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
-* [Karol G es la cuarta colombiana con una estatua de cera en el Madame Tussauds](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estatua-cera-museo-madame-tussauds.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estatua-cera-museo-madame-tussauds.html")
-* [Karol G y el beso apasionado que agitó las redes sociales](https://www.elcomercio.com/afull/karol-g-feid-colombia-copa-america.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/afull/karol-g-feid-colombia-copa-america.html?source=Internal&ref=Single+Content+Link")
-
-**Hugh Jackman emociona a sus fans con una noticia inesperada**
----------------------------------------------------------------
-
-El aclamado actor y **cantante** australiano anunció su esperado regreso a los escenarios musicales con una serie de conciertos titulada **‘From New York with Love’.**
-
-Este evento se realizará en el emblemático **Radio City Music Hall,** donde **Jackman** se presentará el 24 y 25 de enero de 2024.
-
-A lo largo del año, ofrecerá un total de 12 **conciertos**, que se extenderán durante los fines de semana de abril a agosto, finalizando el 16 de agosto.
-
-En este **espectáculo**, el artista interpretará temas icónicos de sus **películas** y **musicales**, incluyendo **The Boy from Oz**, que le otorgó su primer premio **Tony** en 2004, así como éxitos de The Greatest Showman y The Music Man.
-
-La combinación de su talento **actoral** y **vocal** promete una experiencia única para los asistentes.
-
-**Hugh Jackman compartió la noticia con humor**
------------------------------------------------
-
-**Jackman**, de 55 años, utilizó un enfoque **humorístico** para hacer el anuncio. Publicó un **video** en su cuenta de **Instagram**.
-
-En ese clip, comparte un momento divertido con su amigo, el actor Ryan Reynolds, conocido por su papel en ‘Deadpool’.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DA53ys0xFOy/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Hugh Jackman (@thehughjackman)](https://www.instagram.com/reel/DA53ys0xFOy/?utm_source=ig_embed&utm_campaign=loading)
-
-Durante la grabación, **Jackman** recuerda el momento en que Reynolds anunció su propio regreso como Wolverine en el universo Marvel.
-
-La emoción de Jackman por este nuevo proyecto es palpable. En un mensaje adicional en sus redes sociales, expresó: “Oh, qué hermoso día”, acompañado de un afiche promocional que destaca las fechas de sus presentaciones en el Radio City.
-
-Los boletos para los conciertos ya están a la venta y la respuesta del público es abrumadora.
-
-Milton mantiene la amenaza de marejada ciclónica en la costa sureste de EE.UU.
-==============================================================================
-
-En la trayectoria prevista, el centro de Milton continuará alejándose de la costa este de Florida y pasará hoy por el norte de Bahamas.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Una mujer camina por una calle inundada tras el huracán Milton en Bradenton, Florida, EE.UU., el 10 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/c5b7023860c9691f77a975d391bc121586eb56f7.jpg)
-
-El [huracán Milton](https://www.elcomercio.com/actualidad/mundo/aumentan-cuatro-muertos-milton-sale-peninsula-florida.html "https://www.elcomercio.com/actualidad/mundo/aumentan-cuatro-muertos-milton-sale-peninsula-florida.html") deja hasta ahora en su paso por la **península de Florida** \-la que atravesó de oeste a este entre miércoles y jueves- **graves inundaciones por lluvias y** marejada ciclónica, destrozos, centenares de miles de personas evacuadas y al menos **cuatro muertos** debido a tornados ocurridos antes de la llegada del ciclón.
-
-### Más noticias
-
-* [El teniente Dan desafió al huracán Milton y esto pasó](https://www.elcomercio.com/actualidad/mundo/teniente-dan-desafio-a-huracan-milton-y-esto-paso.html "El teniente Dan desafió al huracán Milton y esto pasó")
-* [Florida se prepara para gran evacuación por huracán Milton](https://www.elcomercio.com/actualidad/mundo/florida-prepara-gran-evacuacion-huracan-milton.html "Florida se prepara para gran evacuación por huracán Milton")
-* [Aumentan a cuatro los muertos por Milton, que sale ya de la península de Florida](https://www.elcomercio.com/actualidad/mundo/aumentan-cuatro-muertos-milton-sale-peninsula-florida.html "Aumentan a cuatro los muertos por Milton, que sale ya de la península de Florida")
-
-El huracán, que ya está en mar abierto y se mantiene en la **categoría 1,** presenta vientos máximos sostenidos de **130 kilómetros por hora**, según el más reciente boletín del Centro Nacional de Huracanes (NHC, en inglés) de Estados Unidos.
-
-“Las condiciones de tormenta tropical y marejada ciclónica continúan a lo largo de partes de la costa sureste de Estados Unidos y el extremo noroeste de las Bahamas”, detalla el NHC en el boletín.
-
-En la trayectoria prevista, el **centro de Milton continuará alejándose** de la costa este de Florida y pasará hoy por el norte de Bahamas.
-
- Tanto el presidente de EE.UU., Joe Biden, como el gobernador de Florida, Ron DeSantis, han subrayado este jueves por separado que apenas están en el recuento de los daños tras el impacto de Milton.
-
-Biden señaló que se había comunicado con el republicano, quien le “agradeció” por el amplio apoyo federal para prepararse y responder a la tormenta.
-
-Pérdidas por 60 000 millones de dólares
----------------------------------------
-
-Se estima que el ciclón dejará **posibles pérdidas de seguros** de hasta de 60 000 millones de dólares en Florida, un estado que apenas se recupera del huracán Helene, que entró hace trece días por la costa oeste del estado y causó al menos 230 muertes en el sureste de Estados Unidos.
-
-Según los analistas de RBC Capital, se espera que las pérdidas sean comparables a las del huracán Ian, que azotó Florida en 2022, como publicaron medios especializados.
-
-Cuatro fallecidos
------------------
-
-Hasta el momento se confirmaron **cuatro muertes debido a tornados asociados** con el sistema del huracán pero que ocurrieron antes de la llegada de Milton a la costa oeste de Florida la noche del miércoles.
-
- Las autoridades informaron de que al menos **cuatro personas murieron** por un tornado en una comunidad de jubilados del condado St. Lucie, en la costa este de Florida.
-
-“Desafortunadamente, habrá muertes. No creo que haya forma de evitarlo”, ha comentado DeSantis durante la conferencia de prensa este jueves.
-
-La **tormenta dejó sin electricidad a más de 3,4 millones de hogares** y empresas, según la web Poweroutage.
-
-El gobernador DeSantis detalló que se desplegaron **9 000 miembros de la Guardia Nacional de Florida** y otros estados, y más de 50.000 trabajadores de servicios públicos, algunos venidos de California.
-
-Patrullas en las carreteras
----------------------------
-
-También hay patrullas de carreteras con sirenas para escoltar a los camiones cisterna de gasolina para garantizar el suministro de combustible.
-
-Milton se encuentra a unos **220 kilómetros a este-noreste de Cabo Cañaveral**, en el centro de Florida, y a unos 330 kilómetros a norte-noroeste de la isla Gran Abaco.
-
-Milton se mueve hacia el este-noreste a cerca **31 kilómetros por hora** y se espera que gire hacia el este más tarde hoy. Se pronostica que ese movimiento continuará sobre el Atlántico occidental durante los próximos días.
-
- El huracán tocó tierra la noche del miércoles en Siesta Key, cerca de la ciudad de Sarasota, con vientos máximos sostenidos de 205 kilómetros por hora, es decir con categoría 3.
-
-Milton es el **segundo huracán que alcanza Florida** en casi dos semanas, tras recibir el pasado 26 de septiembre el impacto del poderoso huracán Helene, que entró por el noroeste de este estado con categoría 4 y dejó una estela de devastación por seis estados del sureste de EE.UU. y más de 250 muertos.
-
-Según la **Administración Nacional de Océanos y Atmósfera de Estados Unidos (NOAA)**, la temporada de huracanes en el Atlántico, que comenzó oficialmente el 1 de junio, podría tener una actividad “por encima” del promedio, con entre **8 y 13 huracanes**, de los cuales entre 4 y 7 serían de categoría mayor.
-
-Desde que comenzó la temporada de huracanes se formaron nueve huracanes: **Beryl, Debby, Ernesto, Francine, Helene, Isaac, Kirk, Lesley y ahora Milton**, de los cuales Beryl y Milton alcanzaron la categoría 5, la máxima en la escala de intensidad Saffir-Simpson. 
-
-Horarios para la fecha nueve de eliminatorias al Mundial 2026
-=============================================================
-
-La novena jornada de las eliminatorias sudamericanas, perteneciente a una doble fecha, contará con cinco partidos.
-------------------------------------------------------------------------------------------------------------------
-
-![Enner Valencia, jugador de la Selección de Ecuador, celebra un gol en eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-10T124703.946.jpg)
-
-La novena jornada de eliminatorias sudamericanas rumbo al **Mundial 2026**, que forma parte de una doble fecha, se llevará a cabo este 10 de octubre de 2024. Se celebrarán un total de **cuatro compromisos** entre los que está el de la Selección de Ecuador ante Paraguay.
-
-Después de un mes de la fecha pasada, los combinados de Conmebol se verán las caras de nuevo. Salvo por **Perú y Chile** que tienen escasas posibilidades de clasificación, los restantes ocho elencos cuentan con firmes chances de ir a la Copa del Mundo.
-
-### Más noticias:
-
-* [Un análisis del historial entre Ecuador y Paraguay en eliminatorias](https://www.elcomercio.com/deportes/futbol/historial-entre-la-seleccion-de-ecuador-y-paraguay.html "Un análisis del historial entre Ecuador y Paraguay en eliminatorias")
-* [Así estará el clima en Quito para el partido de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/asi-estara-clima-en-quito-para-el-partido-seleccion-de-ecuador.html "Así estará el clima en Quito para el partido de la Selección de Ecuador")
-* [¿A qué hora juega la Selección de Ecuador ante Paraguay?](https://www.elcomercio.com/deportes/seleccion-ecuador-paraguay-partido-hora.html "¿A qué hora juega la Selección de Ecuador ante Paraguay?")
-
-Los cuatro cotejos se darán en seguidilla y más de uno coincidirá con otro de manera simultánea. Los duelos empezarán desde las 15:00 y finalizarán alrededor desde las 23:00. Asimismo, el último choque correspondiente a la **novena fecha de eliminatorias** será un día después, el 11 de octubre, a las 20:30.
-
-El duelo que inaugurará la fecha nueve será entre Colombia y Bolivia y le sucederán los de la **Selección de Ecuador vs. Paraguay** y Argentina vs. Venezuela. Chile y Brasil cerrarán y, finalmente, el duelo del día siguiente será entre Uruguay y Perú.
-
-Agenda para la novena fecha de eliminatorias al Mundial 2026
-------------------------------------------------------------
-
-**Jueves 10 de septiembre del 2024**
-
-**Partido**: Bolivia vs. Colombia
-
-**Hora**: 15:00
-
-**Estadio**: Municipal del Alto.
-
-**Partido**: Ecuador vs. Paraguay.
-
-**Hora**: 16:00
-
-**Estadio**: Rodrigo Paz Delgado de Quito.
-
-**Partido**: Venezuela vs. Argentina.
-
-**Hora**: 16:00.
-
-**Estadio**: Monumental de Maturín.
-
-**Partido**: Chile vs. Brasil.
-
-**Hora**: 19:00.
-
-**Viernes 11 de octubre del 2024**
-
-**Estadio**: Nacional de Chile.
-
-**Partido**: Perú vs. Uruguay.
-
-**Hora**: 20:30.
-
-La Selección de Ecuador busca imponerse ante Paraguay
------------------------------------------------------
-
-La Selección de Ecuador se enfrenta a **Paraguay y Sebastián Beccacece** dirigirá su tercer partido con la Tri en busca de mantener al equipo en zona de clasificación. Su siguiente partido será, además, contra Uruguay en Montevideo[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
-
-**Beccacece** viene de ganar 1-0 en su último duelo ante Perú y, previamente, caer por el mismo resultado ante Brasil. El entrenador convocó **25 jugadores** y llamó **cinco invitados** para los entrenamientos. Antes del choque, el estratega argentino señaló que espera la máxima concentración de sus jugadores y busca evitar sorpresas.
-
-El partido también será un reencuentro con **Gustavo Alfaro**, ex DT de la Tri y ahora con la ‘Albirroja’. Alfaro se enfrentará a varios jugadores que ya dirigió. Asegura que no optará por una postura defensiva debido a la dificultad del duelo.
-
-Disney World en Orlando y las secuelas del huracán Milton
-=========================================================
-
-De acuerdo con videos que circulan en redes sociales, se puede apreciar a personas salir del parque con dificultad por las fuertes lluvias.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![El huracán Milton se acerca como tormenta de categoría 3 en Sarasota, Florida, EE. UU., 9 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/huracan-milton-efe-10-octubre.jpg)
-
-​Este martes, 8 de octubre de 2024, los populares **parques temáticos** de **Disney** en **Orlando**, en el centro de Florida (EE. UU.), **anunciaron** el **cierre** de sus puertas el 9 de octubre de 2024, en horas de la tarde, ante la **amenaza** del **huracán** **Milton**[.](https://es.wikipedia.org/wiki/Hurac%C3%A1n_Milton "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Milton")
-
-### Más noticias
-
-* [Un perro abandonado fue rescatado antes de la llegada del huracán Milton](https://www.elcomercio.com/narices-frias/policia-rescata-perro-huracan-milton.html "Un perro abandonado fue rescatado antes de la llegada del huracán Milton")
-* [Huracán Milton sigue potente; autoridades piden resguardarse](https://www.elcomercio.com/actualidad/mundo/huracan-milton-sigue-potente-autoridades-piden-resguardarse.html "Huracán Milton sigue potente; autoridades piden resguardarse")
-* [Aumentan a cuatro los muertos por Milton, que sale ya de la península de Florida](https://www.elcomercio.com/actualidad/mundo/aumentan-cuatro-muertos-milton-sale-peninsula-florida.html "Aumentan a cuatro los muertos por Milton, que sale ya de la península de Florida")
-
-De acuerdo con videos que circulan en **redes sociales**, se puede apreciar a personas salir del parque, antes de su **cierre temporal**, con capas para **lluvia** y con **dificultad** para caminar tras el **fuerte aguacero** y los **vientos**.
-
-Horas más tarde, los **internautas** comenzaron a **difundir imágenes** en las que el **parque** temático se ve **desolado e inundado**.
-
-El **fenómeno impactó** en el **estado** en horas de la noche del miércoles 9 de octubre de 2024, cerca a Siesta Key, **generando** **afectaciones** en algunas **infraestructuras** y dejando a su paso grandes **inundaciones**, además de afectar a cientos de familias y algunas víctimas mortales.
-
-> 🌪🎢Disneyland tras el paso del huracán Milton [pic.twitter.com/SunpO7I5gh](https://t.co/SunpO7I5gh)
-> 
-> — Sepa Más (@Sepa\_mass) [October 10, 2024](https://twitter.com/Sepa_mass/status/1844344918598352990?ref_src=twsrc%5Etfw)
-
-Huracán Milton destrozó parte del techo Tropicana Field
--------------------------------------------------------
-
-Una de las **ciudades más golpeadas** es San Petesburgo, en el condado de Pinellas, donde la **fuerza** de **Milton destrozó** parte del techo del estadio Tropicana Field, sede del equipo de las Grandes Ligas de Béisbol Tampa Bay Rays, donde se encontraba **personal** de **emergencia**.
-
-Varios videos puestos en las **redes sociales** mostraban como el viento había arrancado el **tejado,** dejando solo la **estructura** que lo sostenía. Los **bomberos** informaron que las personas que se encontraban dentro del **estadio** se encontraban bien.
-
-> Huracán Milton arrancó el techo del estadio Tropicana Field, de los Tampa Bay Rays 😱😢[pic.twitter.com/SLWzkht6Wa](https://t.co/SLWzkht6Wa)
-> 
-> — Daniel de Malas (@daniel\_malas) [October 10, 2024](https://twitter.com/daniel_malas/status/1844329079459414164?ref_src=twsrc%5Etfw)
-
-¿Qué dijo el gobernador DeSantis?
----------------------------------
-
-Afortunadamente, no fue el peor escenario posible. El **gobernador** de Florida, DeSantis, emitió una **conferencia** de **prensa** en la que habló sobre el paso del **huracán**. En un primer momento, explicó que “más de 80.000” personas fueron **alojadas** en refugios mientras que este **fenómeno** pasaba por el estado.  
-Adicionalmente, dio un alivio a los **ciudadanos**, explicando que “**afortunadamente** no fue el peor **escenario** posible”; sin embargo, hasta el momento, las **entidades** se encuentran realizando un barrido por Florida para entender la **gravedad** de los daños ocasionados.
-
-En cuanto a la **electricidad**, **DeSantis** explicó que aún hay más de 3,1 millones de personas que no cuentan con **energía**.
-
-Al menos 19 cruces estarán cerrados por partido de la Tri, en Quito
-===================================================================
-
-La Agencia Metropolitana de Tránsito dispuso un contingente para la gestión del flujo vehicular en los alrededores del estadio Rodrigo Paz
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![La AMT controlará el tránsito vehicular en los alrededores del estadio Rodrigo Paz.](https://www.elcomercio.com/wp-content/uploads/2024/10/transito-partido.jpg)
-
-Este jueves 10 de octubre de 2024, **la Selección** jugará un partido por las **eliminatorias Sudamericanas** contra el equipo de Paraguay; para ello, la AMT realizará el cierre de algunas calles.
-
-### Más noticias
-
-* [¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia](https://www.elcomercio.com/actualidad/quito/razones-trafico-en-quito-amt-se-pronuncia.html "¿Por qué hay tanto tráfico en Quito? La AMT se pronuncia")
-* [¿Cuándo comienzan los trabajos de la Ecovía en la Plaza Argentina?](https://www.elcomercio.com/actualidad/quito/trabajos-ecovia-plaza-argentina-transito.html "¿Cuándo comienzan los trabajos de la Ecovía en la Plaza Argentina?")
-* [Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO](https://www.elcomercio.com/actualidad/cortes-de-luz-en-quito-consulte-aqui-los-horarios-con-la-herramienta-de-ia-de-el-comercio.html "Cortes de luz en Quito; consulte aquí los horarios con la herramienta de IA de EL COMERCIO")
-
-Operativo vial en vías cerradas
--------------------------------
-
-El encuentro deportivo se realizará en e**l estadio Rodrigo Paz Delgado**, ubicado en el **norte de Quito**, a las 16:00 horas.
-
-Por ello, todo el sector se verá afectado en cuestión de **tráfico vehicular**. La AMT dispuso a su contingente para asistir y gestionar el flujo vehicular.
-
-Este operativo se iniciará con un **cierre primario** desde las 06:00 hasta las 18:00. También se realizará un cierre secundario desde las 10:00 hasta las 18:00.
-
-En el sector, los agentes de la AMT realizarán **el control y el retiro** de vehículos **mal estacionados, sobre todo** en los alrededores del estadio. Hay cinco estacionamientos habilitados cerca del escenario deportivo.
-
-Calles cerradas
----------------
-
-Las calles que estarán cerradas al tránsito vehicular son:
-
-* Av. Diego de Vásquez de Cepeda y Cacica Quilango
-* Ramón Chiriboga y Jhon F. Kennedy
-* Ramón Chiriboga y Pablo Palacio
-* Ramón Chiriboga y Miguel Moreno
-* Ramón Chiriboga y Jacinto Morlán
-* Av. De la prensa y David Ledesma
-* Av. De la Prensa y Gustavo Lemus
-* Av. De la Prensa y Pablo Picasso
-* Jhon F. Kennedy y Leonardo Da Vinci
-* Jhon F. Kennedy y Pablo Picasso
-* Jhon F. Kennedy y La Esperanza
-* Jhon F. Kennedy y Cacica Quilango
-* Gustavo Lemus y David Ledesma
-* La Esperanza y Camilo Guachamín
-* La Esperanza y Hermenszs Van Risn Rembrandt
-* La Esperanza y Jhon F. Kennedy
-* Hermenszs Van Risn Rembrandt y Vincent Van Gogh
-* Juana Terrazas y Tomasa Mideros
-* Juana Terrazas y Vincent Van Gogh
-
-Rutas alternas
---------------
-
-Si necesitas circular por [el sector,](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") puedes tomar las siguientes **vías alternas:**
-
-* Av. De la Prensa
-* Av. Diego de Vásquez de Cepeda
-* Calle Ramón Chiriboga
-* Av. Mariscal Sucre
-
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> ⚽️ El jueves 10 de octubre, por las eliminatorias [#Sudamericanas](https://twitter.com/hashtag/Sudamericanas?src=hash&ref_src=twsrc%5Etfw) se enfrentarán las selecciones de [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw)🇪🇨 y [#Paraguay](https://twitter.com/hashtag/Paraguay?src=hash&ref_src=twsrc%5Etfw)🇵🇾 en el estadio 🏟 Rodrigo Paz Delgado.  
->   
-> Revisa los cierres viales ⬇️ aquí.  
->   
-> ✅ Al circular informado  
-> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/5cRnjfZJ3V](https://t.co/5cRnjfZJ3V)
-> 
-> — AMTQuito (@AMT\_Quito) [October 10, 2024](https://twitter.com/AMT_Quito/status/1844209321112109149?ref_src=twsrc%5Etfw)
-
-Ouali Benmeziane explica en Garabot sobre avances en inteligencia artificial
-============================================================================
-
-Escucha los comentarios que realiza el empresario francés, quien es fundador del WebCongress. El segundo capítulo de Garabot ya está las plataformas de podcast.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Ouali Benmeziane, fundador de WebCongress, tiene más de 10 años de experiencia en el mundo Internet. Trabaja con empresas de renombre como Facebook, Google, Microsoft, IBM, entre otras.](https://www.elcomercio.com/wp-content/uploads/2024/10/1200X800-GARABOT.jpg)
-
-**Ouali Benmeziane, fundador del WebCongres**s, es el segundo invitado de esta nueva temporada del podcast Garabot. Este experto tecnológico francés nos cuenta todos los detalles sobre el Web Congress 2024, que se realiza este 22 y 23 de octubre en **Quito**.
-
-Este evento internacional, que ha recorrido más de 17 países en 15 años, se ha consolidado como uno de los más importantes a nivel global, reuniendo a expertos y profesionales de la industria tecnológica, empresarial y digital.
-
-Ouali es un empresario francés con más de una década de experiencia en el mundo digital. Ha trabajado con gigantes tecnológicos como **Facebook, Microsoft, y Google.**
-
-Además, es mentor de diversas empresas en **Estados Unidos y Latinoamérica**. Su misión es ayudar a las empresas a aprovechar al máximo las estrategias de marketing digital para generar crecimiento y éxito en la era digital.
-
-Networking integral: un evento de conexiones relevantes
--------------------------------------------------------
-
-Según **Benmeziane**, el **Web Congres**s no es solo una conferencia educativa, sino también una experiencia de networking integral.
-
-Profesionales, empresas, y proveedores se reúnen para intercambiar conocimientos y establecer alianzas estratégicas. 
-
-“La idea es poner a las empresas de Ecuador al día con las tendencias globales”, explica.
-
-Con temas como **marketing digital, inteligencia artificial, y contenido inmersivo,** el evento ofrecerá a los asistentes la oportunidad de actualizarse sobre las últimas innovaciones en la industria.
-
-El futuro del Contenido: cómo la IA transformará el marketing
--------------------------------------------------------------
-
-Uno de los temas más importantes que explica Benmeziane es el impacto de la inteligencia artificial en la creación de contenido digital. 
-
-Según él, la IA no solo está revolucionando la manera en que se crean los anuncios, sino también cómo las marcas interactúan con sus audiencias. La capacidad de personalizar el contenido y ofrecer experiencias inmersivas es ahora una realidad que las marcas no pueden ignorar.
-
-Desafíos éticos y de accesibilidad en el uso de nuevas tecnologías
-------------------------------------------------------------------
-
-Aunque la tecnología ha abierto nuevas puertas para el marketing digital, también ha traído consigo desafíos éticos y de accesibilidad, dice Benmeziane. 
-
-El uso de contenidos inmersivos plantea preguntas sobre la privacidad del usuario y el respeto a sus derechos.
-
-Un espacio para aprender y crecer: Web Congress Ecuador
--------------------------------------------------------
-
-El **Web Congress 2024** en **Quito**, dice Benmeziane, se presenta como la oportunidad ideal para que profesionales de todas las industrias mejoren sus habilidades y expandan sus redes de contacto. 
-
-Las estrategias de marketing digital, las nuevas tecnologías y el contenido inmersivo son solo algunos de los temas que se explorarán a lo largo de este evento de dos días. 
-
-Además de la agenda de conferencias, el evento contará con talleres interactivos y paneles donde los asistentes podrán discutir casos reales y aplicar lo aprendido a sus propios proyectos.
-
-Para empresas y emprendedores, esta es una oportunidad para identificar nuevas oportunidades de negocio y alianzas estratégicas que pueden marcar la diferencia en un mercado cada vez más competitivo.
-
-La comunicación de Michael Schumacher y su vínculo a través de los ojos
-=======================================================================
-
-Dudas y Esperanzas se generan en torneo al estado de salud de Michael Schumacher tras más de una década de su accidente.
-------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-54.jpg)
-
-Once años después del trágico accidente de esquí que cambió su vida, **Michael Schumacher** sigue siendo un enigma para el **mundo.**
-
-Aunque la familia ha mantenido un estricto control sobre su estado de salud, recientes eventos familiares han reavivado el interés por su vida actual.
-
-La boda de su hija **Gina** en Mallorca generó especulaciones sobre su posible asistencia, pero las declaraciones del neurólogo **Jussi Posti** han sembrado dudas sobre su capacidad para participar en eventos sociales.
-
-### Más noticias:
-
-* [Michael Schumacher regresa y asiste a la boda de su hija](https://www.elcomercio.com/deportes/formula-1/michael-schumacher-boda-hija-accidente.html "Michael Schumacher regresa y asiste a la boda de su hija")
-* [Leonardo Campana busca reivindicarse con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-seleccion-ecuador-beccacece.html "Leonardo Campana busca reivindicarse con la Selección de Ecuador")
-* [Segundo Alejandro Castillo, nuevamente al rescate de Barcelona SC](https://www.elcomercio.com/deportes/futbol/segundo-alejandro-castillo-nuevamente-al-rescate-de-barcelona-sc.html "Segundo Alejandro Castillo, nuevamente al rescate de Barcelona SC")
-
-Posti, jefe del departamento de neurocirugía en el **Hospital Central de la Universidad de [Turku](https://es.wikipedia.org/wiki/Turku) (Finlandia)**, destaca que los pacientes que han sufrido lesiones cerebrales severas, como Schumacher, a menudo se vuelven frágiles y rígidos tras largos períodos de inmovilidad. Así lo publicó el periódico ‘Iltalehti’.
-
-Esto limita su capacidad para moverse y, en consecuencia, para participar en actividades que requieren desplazamiento. A pesar de que algunos medios especularon sobre su asistencia a la boda, el neurólogo enfatiza que es poco probable que **Schumacher** haya estado presente en un evento de tal magnitud.
-
-Michael Schumacher y su comunicación
-------------------------------------
-
-La forma en que **Michael** se comunica también ha sido objeto de **interés.**
-
-Se ha informado que su única manera de interactuar es a través de sus ojos, un método que limita considerablemente la comunicación a un círculo muy cerrado, principalmente su familia.
-
-Elisabetta Gregoraci, exesposa de **Flavio Briatore**, corroboró que solo unos pocos pueden interactuar con él en este nivel. Mick Schumacher, su hijo, también ha hablado sobre la relación emocional que aún mantienen, sugiriendo que, aunque no pueden comunicarse verbalmente, el vínculo familiar sigue siendo fuerte.
-
-A medida que los fans esperan cualquier indicio sobre su bienestar, la **familia Schumache**r continúa protegiendo su privacidad, lo que hace que cada pequeño destello de su vida sea motivo de esperanza y reflexión.
-
-Así estará el clima en Quito para el partido de la Selección de Ecuador
-=======================================================================
-
-Hoy, la Selección de Ecuador vuelve a la acción, pero ¿cómo estará el clima en Quito para su partido?
------------------------------------------------------------------------------------------------------
-
-![Jugadores de la Selección de Ecuador en el Estadio Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-10T114851.958.jpg)
-
-Este jueves 10 de octubre, la **Selección de Ecuador** se enfrentará a Paraguay en el Estadio Rodrigo Paz Delgado. El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) ha compartido las previsiones climáticas para la capital.
-
-En general, se espera una mañana con **cielo nublado y algunos claros**; sin embargo, para la tarde y noche, se anticipan lluvias con tormentas aisladas. La temperatura oscilará entre 16 y 21 grados Celsius.
-
-### Más noticias:
-
-* [Leonardo Campana busca reivindicarse con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-seleccion-ecuador-beccacece.html "Leonardo Campana busca reivindicarse con la Selección de Ecuador")
-* [La Selección de Ecuador domina a Paraguay en Quito](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-domina-a-paraguay-en-quito.html "La Selección de Ecuador domina a Paraguay en Quito")
-* [Mundialista de Ecuador analiza las claves del duelo ante Paraguay](https://www.elcomercio.com/deportes/futbol/mundialista-ecuador-analiza-claves-duelo-paraguay-eliminatorias-sudamericanas.html "Mundialista de Ecuador analiza las claves del duelo ante Paraguay")
-
-Aunque se prevén lluvias en la tarde, las imágenes del Inamhi indican que en el norte de la capital, donde se ubica el estadio, **habrá pocas precipitaciones, aunque el ambiente seguirá nublado.**
-
-Asimismo, se recomienda a los aficionados que asistan al estadio llevar **chompas para el frío** de la tarde, así como **paraguas y abrigos en caso de lluvia.**
-
-> [#PronosticoPichinchaEc](https://twitter.com/hashtag/PronosticoPichinchaEc?src=hash&ref_src=twsrc%5Etfw) l Jueves, 10 de octubre: Cielo nublado con claros, en la tarde y noche lluvia con tormentas aisladas.  
->   
-> Estas condiciones aumentan la saturación del suelo y la probabilidad de acumulación de agua en ciertos sectores de [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 🟠Previsto en Advertencia 52 [pic.twitter.com/WbxIm4rQjM](https://t.co/WbxIm4rQjM)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 10, 2024](https://twitter.com/inamhi_ec/status/1844392289776566629?ref_src=twsrc%5Etfw)
-
-Detalles del partido de Ecuador
--------------------------------
-
-La Selección de Ecuador tendrá su noveno partido de eliminatorias rumbo al Mundial 2026 ante Paraguay. En este partido, **Sebastián Beccacece** tendrá su tercera aparición como DT de la Tri y buscará mantener al equipo en zona de clasificación.
-
-Para el choque, Beccacece **llega con un impulso** tras haber vencido en su último compromiso ante Perú, el cual ganó 1-0. Antes, en su debut, cayó por la mínima diferencia ante Brasil.
-
-El compromiso que enfrentará a ecuatorianos y paraguayos se llevará a cabo durante este jueves 10 de octubre del 2024 en el **Estadio Rodrigo Paz Delgado** de Quito. A partir de las 16:00 rodará la pelota en el escenario.
-
-Gustavo Alfaro se reencontrará con la Selección de Ecuador
-----------------------------------------------------------
-
-En el compromiso que mida a la Tri ante Paraguay, el conjunto nacional también se reencontrará con un viejo conocido. La escuadra de la mitad del mundo tendrá como rival al **DT Gustavo Alfaro,** antecesor de Félix Sánchez y Sebastián Beccacece.
-
-En aquel compromiso, el estratega de la ‘**Albirroja**‘ se medirá ante varios futbolistas a los que ya dirigió y que debutaron con él en la Tri. Asimismo, a pesar de que en cotejos anteriores tuvo una postura defensiva, este sostuvo en la previa del partido que no optará por tal estrategia debido a que el duelo se le dificultaría.
-
-Mundialista de Ecuador analiza las claves del duelo ante Paraguay
-=================================================================
-
-La Selección de Ecuador regresa a la acción este jueves 10 de octubre en las eliminatorias sudamericanas.
----------------------------------------------------------------------------------------------------------
-
-![John Yeboah con la Selección de Ecuador en un partido en el Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-10T112736.254.jpg)
-
-**Luis Fernando Saritama,** exjugador y seleccionado ecuatoriano, analizó el rendimiento de la Selección de Ecuador, dirigida por **Sebastián Beccacece**, y ha señalado las claves para el crucial enfrentamiento contra Paraguay.
-
-La ‘Tri’ recibirá a la ‘Albirroja’ en el **Estadio Rodrigo Paz Delgado**, en un duelo especial por la novena jornada de las eliminatorias sudamericanas, marcado por el **regreso de Gustavo Alfaro** al país. Este factor le añade un toque especial al encuentro, ya que Alfaro conoce muy bien la base del equipo ecuatoriano. Por ello, Sebastián Beccacece deberá ser más astuto para superar el reto táctico.
-
-### Más noticias:
-
-* [Luis Saritama confía en el legado que dejará la nueva generación de Ecuador](https://www.elcomercio.com/deportes/futbol/luis-saritama-confia-legado-que-dejara-la-nueva-generacion-de-ecuador.html "Luis Saritama confía en el legado que dejará la nueva generación de Ecuador")
-* [La Selección de Ecuador domina a Paraguay en Quito](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-domina-a-paraguay-en-quito.html "La Selección de Ecuador domina a Paraguay en Quito")
-* [¿A qué hora juega la Selección de Ecuador ante Paraguay?](https://www.elcomercio.com/deportes/seleccion-ecuador-paraguay-partido-hora.html "¿A qué hora juega la Selección de Ecuador ante Paraguay?")
-
-Las claves para vencer a Paraguay
----------------------------------
-
-Saritama, quien **vistió la camiseta de Ecuador en dos Mundiales** (2006 y 2014), habló con EL COMERCIO sobre los puntos clave que la ‘Tri’ deberá tener en cuenta para derrotar a Paraguay.
-
-El exídolo del Deportivo Quito recalcó que **Ecuador debe recuperar la intensidad** que lo caracterizaba, especialmente cuando juega en la altura de Quito, un factor que ha perdido protagonismo debido a la gran cantidad de jugadores que militan en el extranjero.
-
-“Los partidos de local serán más complicados (…). **Tenemos mucha posesión debido a la calidad de nuestros jugadores, pero la intensidad no ha sido la misma**“, subrayó Saritama.
-
-Respecto al eterno debate sobre si se debe jugar con línea de tres o de cuatro, el exvolante dejó clara su postura.
-
-“Si la l**ínea de tres funciona, se debe mantener**, pero si es necesario ajustar durante el partido, se debe hacer sin problemas”. Además, insistió en la importancia de que el cuerpo técnico consolide un sistema y una metodología clara. “Yo apoyo a los entrenadores que leen los partidos y toman decisiones en el momento”, puntualizó.
-
-![Luis Fernando Saritama en un partido con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-09T140831.897-1024x683.jpg)
-
-Luis Fernando Saritama en un partido con la Selección de Ecuador.
-
-Paraguay es un rival duro
--------------------------
-
-En cuanto al rival, **Saritama destacó que tener a Gustavo Alfaro como DT de Paraguay es un desafío extra**, ya que conoce bien a Ecuador y sabe cómo defender. Sin embargo, el exjugador confía en que con una buena posesión y un juego directo, Ecuador podrá controlar el ritmo del partido y eventualmente hacer daño al equipo visitante.
-
-“El **profe Beccacece tendrá que implementar una gran estrategia** para asegurarse los tres puntos”, concluyó Saritama.
-
-Las cinco mejores películas de la semana de Netflix en Ecuador
-==============================================================
-
-Si te quedas el feriado en casa, apúntate a una maratón de películas en streaming. Te proponemos esta lista.
-------------------------------------------------------------------------------------------------------------
-
-!['El hoyo 2' es un thriller psicológico de Netflix. Foto: Imdb](https://www.elcomercio.com/wp-content/uploads/2024/10/netflix-El-comercio-6.jpg)
-
-Esta semana, un grupo de películas del catálogo de **Netflix** ha logrado cautivar al público de **Ecuador**. Te contamos cuáles son y si aún no las has visto, puedes añadirlas a tu lista.
-
-Hay para todos los gustos y si no tienes planes para el feriado por las **[Fiestas de Guayaquil](https://www.elcomercio.com/actualidad/ecuador/por-que-feriado-9-octubre-1820.html "https://www.elcomercio.com/actualidad/ecuador/por-que-feriado-9-octubre-1820.html")**, puedes preparar tu canguil y verlas.
-
-1\. ‘El hoyo 2’
----------------
-
-‘**El Hoyo 2**‘ lidera la lista, sumergiendo a los espectadores en un _thriller_ psicológico que ha mantenido a todos al borde de sus asientos. Sus giros inesperados y su atmósfera tensa han convertido a esta película en todo un fenómeno. Puedes verla **[aquí](https://www.netflix.com/ec/title/81284730 "https://www.netflix.com/ec/title/81284730")**.
-
-2\. ‘Problemas…’
-----------------
-
-Le sigue de cerca ‘**Problemas…**‘, una comedia que ha logrado arrancar más de una carcajada gracias a sus situaciones cómicas y su elenco carismático. Cuenta la historia de un vendedor un poco torpe, acusado de un asesinato que no cometió, se enfrenta a policías corruptos y conspiraciones criminales mientras intenta demostrar su inocencia. Mírala [aquí](https://www.netflix.com/ec/title/81727408 "https://www.netflix.com/ec/title/81727408").
-
-3\. ‘Asesino: Misión venganza’
-------------------------------
-
-En el tercer lugar encontramos ‘**Asesino: Misión venganza**‘, un filme de acción que ha saciado las ansias de adrenalina de los amantes del género. Con escenas de combate trepidantes y una trama llena de giros, esta película ha demostrado por qué el cine de acción sigue siendo uno de los favoritos del público. Disponible [aquí](https://www.netflix.com/ec/title/80182951 "https://www.netflix.com/ec/title/80182951").
-
-4\. ‘Llamas de venganza’
-------------------------
-
-‘**Llamas de venganza**‘ ocupa el cuarto puesto, transportando a los espectadores a un mundo de intriga y pasión. Su historia de amor y venganza, ambientada en un entorno exótico, ha cautivado a los románticos y a los amantes de los dramas.
-
-5\. ‘Un auténtico caballero’
-----------------------------
-
-Cierra el top 5 ‘**Un auténtico caballero**‘, una comedia romántica que ha conquistado los corazones de los espectadores con su humor ligero y su historia de amor clásica. Está disponible [aquí](https://www.netflix.com/ec/title/81610282 "https://www.netflix.com/ec/title/81610282").
-
-Estos resultados reflejan la diversidad de gustos del público ecuatoriano, que busca en Netflix una amplia variedad de opciones para disfrutar de su tiempo libre. Desde _thrillers_ psicológicos hasta comedias románticas, pasando por películas de acción, la plataforma de _streaming_ tiene contenido para todos los gustos.
-
-Conoce a Han Kang, premio Nobel de Literatura 2024, su estilo e impacto literario 
-==================================================================================
-
-Han Kang, ganadora del Nobel 2024, explora traumas históricos y la fragilidad humana con prosa poética.
--------------------------------------------------------------------------------------------------------
-
-![Han Kang destaca por la exploración de la fragilidad humana, el trauma y la violencia con una sensibilidad única. Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/10/han-kang-premio-nobel-de-literatura.jpg)
-
-**Han Kang**, nació el 27 de noviembre de 1970 en Gwangju, **Corea del Sur**. Es una escritora **conocida por su prosa poética y su habilidad para abordar temas complejos** como el trauma histórico y la fragilidad de la vida humana. Estos motivos y otros han sido destacados para hacerla merecedora del **Premio Nobel de Literatura 2024**.  
-
-### Más noticias
-
-* [Premio Nobel de Literatura 2024 es para la surcoreana Han Kang](https://www.elcomercio.com/actualidad/mundo/premio-nobel-de-literatura-2024-es-para-surcoreana-han-kang.html "https://www.elcomercio.com/actualidad/mundo/premio-nobel-de-literatura-2024-es-para-surcoreana-han-kang.html")
-* [Te explicamos cómo Geoffrey Hinton y John Hopfield revolucionaron la IA](https://www.elcomercio.com/tecnologia/geoffrey-hinton-john-hopfield-inteligencia-artificial.html "https://www.elcomercio.com/tecnologia/geoffrey-hinton-john-hopfield-inteligencia-artificial.html") 
-
-Desde temprana edad, Han mostró interés por la literatura, lo que la llevó a estudiar **literatura coreana en la Universidad de Yonsei**. Su carrera literaria comenzó con la publicación de poemas. La narrativa es lo que la catapultó a la fama internacional, a decir de Lecturalia.  
-
-**Obras destacadas de Han Kang** 
----------------------------------
-
-Entre sus **obras más reconocidas** se encuentra **‘The Vegetarian’**, una novela que le valió el **Premio Man Booker Internacional** en 2016.  
-
-**Esta obra explora la transformación de una mujer** que decide dejar de comer carne. Este hecho desencadena una serie de eventos que revelan la **complejidad de las relaciones familiares** y la lucha interna de la protagonista. La novela es un ejemplo perfecto de cómo **Han utiliza la narrativa para explorar la psicología humana y los conflictos internos**, de acuerdo con [Revista Noticias](https://noticias.perfil.com/noticias/cultura/de-que-se-trata-la-vegetariana-la-novela-de-la-ganadora-del-nobel.phtml "https://noticias.perfil.com/noticias/cultura/de-que-se-trata-la-vegetariana-la-novela-de-la-ganadora-del-nobel.phtml"). 
-
-**Obra sobre la masacre de Gwangju** 
--------------------------------------
-
-Otra obra significativa es **‘Human Acts’**, que **aborda la masacre de Gwangju** de 1980, un evento traumático en la historia de Corea del Sur. A través de múltiples perspectivas, **Han Kang ofrece una mirada profunda a las consecuencias del trauma colectivo** y la resistencia humana. Su estilo narrativo en esta obra es crudo y evocador, lo que permite al lector experimentar el dolor y la esperanza de los personajes, a decir de [The Times of India](https://www.msn.com/en-in/news/world/nobel-laureate-han-kang-tracing-her-educational-background-achievements-and-more/ar-AA1s1HIp "https://www.msn.com/en-in/news/world/nobel-laureate-han-kang-tracing-her-educational-background-achievements-and-more/ar-AA1s1HIp"). 
-
-**Análisis de estilo literario** 
----------------------------------
-
-El **estilo literario de Han Kang** se caracteriza por su **prosa poétic**a y su capacidad para confrontar temas difíciles con sensibilidad y profundidad. **Su escritura es a menudo introspectiva**, explora la **fragilidad de la condición humana** y los efectos del trauma en el individuo y la sociedad. Han utiliza un lenguaje evocador y simbólico, lo que permite a los lectores **conectar emocionalmente con sus personajes** y las situaciones que enfrentan. 
-
-En sus obras, **Han Kang no teme abordar la violencia y el sufrimiento**, pero lo hace de una manera que i**nvita a la reflexión y al entendimiento**. Su enfoque en la psicología de los personajes y su habilidad para tejer narrativas complejas han sido fundamentales para su **reconocimiento internacional** y su reciente galardón con el Premio Nobel de Literatura 2024. 
-
-**Impacto en el ámbito literario**  
-------------------------------------
-
-El **impacto de Han Kang** en la **literatura contemporánea** es innegable. Su habilidad para abordar **temas universales a través de una lente cultural específica** ha resonado con lectores de todo el mundo.  
-
-Su obra no solo ofrece **una ventana a la cultura y la historia de Corea del Sur**, sino que también invita a una reflexión más amplia sobre la **condición humana** y la capacidad de la literatura para sanar y transformar, a decir de [WorldCrunch](https://worldcrunch.com/culture-society/lonely-artists-posers "https://worldcrunch.com/culture-society/lonely-artists-posers"). 
-
-Sheinbaum analiza impulsar la tipificación del crimen de transfeminicidio
-=========================================================================
-
-Las investigaciones de los asesinatos corresponden a las fiscalías locales, que suelen catalogar los hechos como "homicidios" de mujeres.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Claudia Sheinbaum en uno de sus discursos.](https://www.elcomercio.com/wp-content/uploads/2024/10/Claudia-Shienbaum-10-octubre.jpg)
-
-[Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html") expresó este jueves, 10 de octubre de 2024, que analiza impulsar desde el Gobierno la tipificación del **delito de transfeminicidio,** es decir, los asesinatos de mujeres trans por motivos de odio.
-
-### Más noticias
-
-* [Claudia Sheinbaum propone las reglas para la elección popular del Poder Judicial](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-propone-reglaseleccion-popular-poder-judicial.html "Claudia Sheinbaum propone las reglas para la elección popular del Poder Judicial")
-* [Claudia Sheinbaum conversa por primera vez con Joe Biden](https://www.elcomercio.com/actualidad/mundo/sheinbaum-conversa-primera-joe-biden.html "Claudia Sheinbaum conversa por primera vez con Joe Biden ")
-* [Claudia Sheinbaum tendrá el reto de reducir el déficit fiscal](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-tendra-reto-reducir-deficit-fiscal.html "Claudia Sheinbaum tendrá el reto de reducir el déficit fiscal")
-
-Cuestionada por el tema en su conferencia matutina, la mandataria indicó que estudiará si hacer algo similar a las **propuestas de reforma que presentó el 3 de octubre** que incluyen la obligación de indagar con perspectiva de género todos los asesinatos de mujeres. Sin embargo, esto es algo que corresponde a los códigos penales de los estados.
-
-“En general, **también es estatal** (el transfeminicidio) porque es un **delito del fuero común** y se legisla en los códigos locales, pero vamos a ver de qué manera puede también orientarse desde la federación”, expuso en el Palacio Nacional.
-
-Crímenes de odio
-----------------
-
-México afronta este año una **ola de crímenes de odio con al menos 50 asesinatos de mujeres trans,** según la Asamblea Nacional Trans No Binarie y el colectivo Transcontingenta, mientras que el año pasado la organización Letra S reportó 43.
-
-Hasta ahora, solo **Nayarit y Ciudad de México** incluyeron este delito en sus códigos penales locales desde este año.
-
-Violencia machista
-------------------
-
-Además, el país vive una **crisis de violencia machista,** con 10 mujeres asesinadas al día, según las cifras oficiales.
-
-Por ello, Sheinbaum, la primera mujer presidenta de México, dedicó su primer paquete de reformas, enviadas al Congreso el 3 de octubre, a establecer en la **Constitución el derecho a una “vida libre de violencias”** y a obligar a que las fiscalías estatales indaguen los asesinatos de mujeres con perspectiva de género.
-
-“Lo que queremos es que la muerte violenta de una mujer siempre sea catalogada como **feminicidio** y se investigue como tal, si en la investigación se ve que fue otro motivo, entonces se desecha el femenicidio, pero el objetivo es que se catalogue (de inicio) como feminicidio para que se investigue como tal”, reiteró ahora.
-
-Las investigaciones de los asesinatos corresponden a las **fiscalías locales,** que suelen catalogar los hechos como “homicidios” de mujeres.
-
-La mandataria prometió que, si es necesario enviar más reformas para corregir la situación en los estados, lo hará.
-
-Erradicar discriminación
-------------------------
-
-“Vamos a enviar más porque el objetivo es **erradicar la discriminación** de cualquier forma en nuestro país, pero evidentemente cuando hay crímenes de odio asociados a discriminación todavía queremos más erradicación de ello”, subrayó.
-
-El teniente Dan desafió al huracán Milton y esto pasó
-=====================================================
-
-El teniente Dan aseguró que Dios le pidió que consiguiera un bote y permaneciera en el agua. Siguió el ejemplo de Noé, aseguró.
--------------------------------------------------------------------------------------------------------------------------------
-
-![El teniente Dan se negó a acudir a un refugio.](https://www.elcomercio.com/wp-content/uploads/2024/10/Teniente-Dan.jpg)
-
-El **huracán Milton** tocó tierra el miércoles 9 de octubre en categoría 3, pero dejó graves daños en el estado de Florida a su paso. Como la muerte de al menos cuatro personas en el condado de St. Lucie por un tornado previo.
-
-### Más noticias
-
-* [Huracán Milton sigue potente; autoridades piden resguardarse](https://www.elcomercio.com/actualidad/mundo/huracan-milton-sigue-potente-autoridades-piden-resguardarse.html "Huracán Milton sigue potente; autoridades piden resguardarse")
-* [Aumentan a cuatro los muertos por Milton, que sale ya de la península de Florida](https://www.elcomercio.com/actualidad/mundo/aumentan-cuatro-muertos-milton-sale-peninsula-florida.html "Aumentan a cuatro los muertos por Milton, que sale ya de la península de Florida")
-* [El cambio climático impulsa los huracanes Helene y Milton](https://www.elcomercio.com/actualidad/mundo/cambio-climatico-impulsa-huracanes-helene-milton.html "El cambio climático impulsa los huracanes Helene y Milton")
-
-En redes sociales se compartieron fotos y videos de**l paso del huracán**. Así como la historia del teniente Dan que se volvió viral.
-
-¿Quién es el teniente Dan?
---------------------------
-
-Su nombre real es **Joseph Malinowski** y se hizo conocido debido a su negativa de abandonar su bote y resguardarse del paso del huracán.
-
-Esto a pesar de la orden de las **autoridades de alejarse del mar** y resguardarse en refugios para no poner el peligro su vida ni la de los rescatistas.
-
-El teniente Dan aseguró que **Dios le pidió que consiguiera un bote** y permaneciera en el agua y eso hizo siguiendo su llamado. Habló de que el lugar más seguro era un bote en el agua y que eso lo aprendió la humanidad cuando **Noé construyó su barco**.
-
-Según el teniente Dan, **Noé mostró que durante una inundación** el sitio más seguro es un barco, pues todos en tierra se ahogaron y solo Noé y los animales sobrevivieron.
-
-También comentó que no tenía miedo ni le **asustaba el huracán**, pues Dios lo respaldaba. Su buen estado físico, aseguró, era una de sus garantías para pasar la tormenta.
-
-Luego del paso del huracán, un reportero se acercó al bote a verificar si se encontraba bien y así fue. El **teniente San sobrevivió** a uno de los huracanes más peligrosos.
-
-> 🇺🇸 [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) Joseph Malinowski, más conocido como el 'Teniente Dan', se encuentra perfectamente. El Huracán Milton ha azotado con fuerza Tampa y el resto de la costa de Florida, pero Dan ha ganado la partida.  
->   
-> TENIENTE DAN 1 MILTON 0[pic.twitter.com/aEUztNKGLk](https://t.co/aEUztNKGLk) [https://t.co/oBE8iqt3Zv](https://t.co/oBE8iqt3Zv)
-> 
-> — antiprogre.com (@antiprogrecom) [October 10, 2024](https://twitter.com/antiprogrecom/status/1844232379776286750?ref_src=twsrc%5Etfw)
-
-  
-
-Un perro abandonado fue rescatado antes de la llegada del huracán Milton
-========================================================================
-
-El perro, tipo bull terrier, estaba atado a un poste y lleno de miedo.
-----------------------------------------------------------------------
-
-![El perro tipo bull terrier fue abandonado y atado a un poste. Foto: Captura de video](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-10T104751.126.jpg)
-
-En medio de la devastación causada por el huracán **Milton** en Tampa, **Florida**, un conmovedor rescate **capturó** la atención de la comunidad y las redes sociales.
-
-Un **perrito**, abandonado y atado a un poste, fue salvado por la [**Patrulla de Carreteras de Florida**](https://edition.cnn.com/2024/10/09/us/video/florida-dog-rescue-hurricane-milton-digvid "https://edition.cnn.com/2024/10/09/us/video/florida-dog-rescue-hurricane-milton-digvid") (FHP). Ocurrió justo antes de que el **huracán** azotara la **región**.
-
-### **Más noticias:**
-
-* [Empresa japonesa ‘contrató’ a nueve gatos para una misión superimportante](https://www.elcomercio.com/narices-frias/gatos-empresa-japones-ambiente-laboral.html "https://www.elcomercio.com/narices-frias/gatos-empresa-japones-ambiente-laboral.html")
-* [Los gatos más famosos de Instagram](https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html "https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html") 
-* [¿Tu gato te quiere? La ciencia revela el lenguaje de los felinos](https://www.elcomercio.com/narices-frias/gatos-lenguaje-ciencia-mascotas.html "https://www.elcomercio.com/narices-frias/gatos-lenguaje-ciencia-mascotas.html")
-
-**Un perro abandonado y atado a un poste fue rescatado antes del huracán Milton**
----------------------------------------------------------------------------------
-
-El incidente ocurrió en la Interestatal 75, donde el pequeño can se encontraba atrapado en un charco de agua, con el nivel subiendo rápidamente debido a las intensas lluvias.
-
-Las imágenes del rescate, que se volvieron virales, muestran a los oficiales de la **FHP** acercándose al animal. El can temblaba de miedo mientras el agua le llegaba hasta el vientre.
-
-Los agentes, demostrando gran valentía y compasión, lograron liberar al perrito y lo llevaron a un lugar seguro. Este acto heroico fue ampliamente elogiado.
-
-**Policía envió un mensaje luego del rescate del perro abandonado**
--------------------------------------------------------------------
-
-“No le hagan esto a sus mascotas”, fue el mensaje contundente de las autoridades, quienes instaron a la población a incluir a sus animales en los planes de evacuación.
-
-El huracán **Milton**, que obliga a miles de personas a evacuar, dejó una estela de destrucción a su paso. Sin embargo, historias como la de este rescate ofrecen un poco de esperanza.
-
-**El huracán Milton deja muchos destrozos a su paso**
------------------------------------------------------
-
-El huracán Milton, que se formó en el océano Atlántico, se convirtió en una poderosa tormenta que amenazó la costa con vientos destructivos y lluvias torrenciales.
-
-Con una categoría elevada, Milton deja un rastro de devastación a su paso, provocando evacuaciones masivas y la activación de protocolos de emergencia en varias comunidades.
-
-Los meteorólogos advirtieron sobre posibles inundaciones y deslizamientos de tierra, instando a los residentes a tomar precauciones.
-
-Militares encontraron gran cantidad de armamento en Portoviejo
-==============================================================
-
-La evidencia fue entregada a la autoridad competente para que se lleve a cabo el debido procedimiento judicial.
----------------------------------------------------------------------------------------------------------------
-
-![Los militares no detallaron sobre personas detenidas en el operativo.](https://www.elcomercio.com/wp-content/uploads/2024/10/Armamento-operativo-militar.jpg)
-
-**Militares** del Grupo de Caballería Mecanizada N.º 12 Teniente Hugo Ortiz llevaron a cabo un operativo en el sector de **Progreso**, en el cantón **Portoviejo**, provincia de **Manabí**[.](https://es.wikipedia.org/wiki/Operaci%C3%B3n_militar "https://es.wikipedia.org/wiki/Operaci%C3%B3n_militar")
-
-Más noticias
-------------
-
-* [Operativo decomisó 500 kilos de material explosivo](https://www.elcomercio.com/actualidad/seguridad/operativo-decomiso-500-kilos-de-material-explosivo.html "Operativo decomisó 500 kilos de material explosivo")
-* [Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos](https://www.elcomercio.com/actualidad/seguridad/operativos-de-seguridad-durante-los-cortes-de-luz.html "Policía y FF.AA. realizaron operativos durante los cortes de luz; hubo detenidos")
-* [Operativos de seguridad y cierres viales en Quito, por evento masivo](https://www.elcomercio.com/actualidad/quito/operativos-seguridad-vias-quito-evento.html "Operativos de seguridad y cierres viales en Quito, por evento masivo")
-
-Durante la operación, se descubrió una gran cantidad de **armamento** en una **vivienda**, que presuntamente funcionaba como un taller clandestino para la fábrica.
-
-¿Qué tipo de armamento encontraron en Portoviejo?
--------------------------------------------------
-
-* Alimentadoras de fusiles 5.56 mm.
-* Alimentadoras de 9 mm.
-* Alimentadoras largas 9 mm con capacidad de 30 municiones.
-* Una subametralladora.
-* Pistolas.
-* Revólveres de diferentes marcas y calibres.
-* Silenciadores de fusil.
-* Una mira telescópica.
-* Más de una decena de cajas pequeñas de accesorios y repuestos para armas.
-* Más de un centenar de municiones de diferente calibre.
-* Varios cuerpos de molde de pistola.
-* Porta cierres ametralladoras para fusil y pistola.
-* Seguros de armas.
-* Circuito de cámaras de vigilancia.
-* Hornos de empavonamiento.
-* Taladros tipo torno.
-
-Las **evidencias** encontradas fueron entregadas a las autoridades competentes para su respectiva **judicialización**.
-
-La **Fiscalía** General del Estado informó este miércoles 2 de octubre de 2024 sobre la ejecución de un operativo en la ciudad de Macará, provincia de Loja.
-
-Decomiso de material para minería ilegal
-----------------------------------------
-
-Este operativo liderado por **Fiscalía** y apoyado por las **Fuerzas Armadas** permitió el allanamiento de un inmueble en esta ciudad del sur del **Ecuador**.
-
-En ese lugar se pudo decomisar 20 000 metros de cable de mecha lenta y 6 200 tacos (500 kilos) de material explosivo.
-
-Las autoridades presumen que este material sería destinado a actividades ilícitas de **recursos** **mineros** en **Macará**.
-
-La **Fiscalía** informó que en estas labores investigativas no detuvieron a ninguna persona en el inmueble allanado. Sin embargo, también pudieron decomisar indicios como:
-
-* Cuatro motocicletas sin placas.
-* Una pistola.
-* Ocho fusiles.
-* Cuatro escopetas.
-* Municiones.
-* Chalecos.
-* Cascos y otros artículos de protección personal.
-
-Milton acorta distancia con Cabo Cañaveral y avanza con vientos de 140 kilómetros
+Cierre de la Panamericana Norte por desbordamiento del río Pisque ¿Vías alternas?
 =================================================================================
 
-Todos los avisos del huracán y tormenta tropical para la costa oeste de Florida se retiraron aunque permanecen en otras zonas.
-------------------------------------------------------------------------------------------------------------------------------
+El desbordamiento del río Pisque por las fuertes lluvias provocó el cierre de la Panamericana Norte.
+----------------------------------------------------------------------------------------------------
 
-![Agentes de policía custodian la entrada de Bradenton Beach después de que el huracán Milton tocara tierra en Bradenton, Florida, EE.UU., el 10 de octubre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/Milton-efe-octubre.jpg)
+![El desbordamiento del río Pisque provocó el cierre de la Panamericana Norte.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-21-1.jpg)
 
-El destructor [huracán Milton](https://www.elcomercio.com/actualidad/mundo/huracan-milton-sigue-potente-autoridades-piden-resguardarse.html "https://www.elcomercio.com/actualidad/mundo/huracan-milton-sigue-potente-autoridades-piden-resguardarse.html") acortó distancia con **Cabo Cañaveral** y se encuentra a 15 kilómetros del principal centro de actividades espaciales. Se aproxima con **vientos sostenidos de 140 kilómetros** por hora aunque con ráfagas mayores, mientras **abandona la costa este** del azotado estado de Florida (EEUU).
+El **ECU – 911** reportó el **cierre** de la **Panamericana Norte** por el desbordamiento del **río Pisque**, en el sector de **Guayllabamba**, en el **Distrito Metropolitano de Quito**, la noche de este jueves 10 de octubre de 2024[.](https://es.wikipedia.org/wiki/Quito)
+
+La alerta ingresó a las 18:58 a la central de emergencias.
+
+### Más noticias:
+
+* [Conoce el estado de las vías en Ecuador para el feriado](https://www.elcomercio.com/actualidad/ecuador/conoce-el-estado-de-las-vias-en-ecuador-para-el-feriado.html "Conoce el estado de las vías en Ecuador para el feriado")
+* [Susto en Caupicho por nuevas lluvias este jueves 10 de octubre](https://www.elcomercio.com/actualidad/quito/susto-caupicho-lluvias-nuevas-octubre.html "Susto en Caupicho por nuevas lluvias este jueves 10 de octubre")
+
+El desbordamiento del **río Pisque** se da por las fuertes lluvias registradas la tarde y noche de este jueves en varios sectores del **Distrito Metropolitano de Quito**.
+
+Cierre de la Panamericana Norte por desbordamiento del río Pisque ¿Vías alternas?
+---------------------------------------------------------------------------------
+
+Desde el ECU 911 se coordinó con la **Policía Nacional** para que acudan al lugar.
+
+La Policía informó que hubo **tres vehículos atrapados**, que han sido puestos a “buen recaudo”.
+
+La vía está cerrada hasta que finalicen las tareas de limpieza.
+
+La **Secretaría General de Riesgos (SGR)** informó que personal y maquinaria de **Panavial** avanzan al lugar para limpiar la vía.
+
+El **Cuerpo de Bomberos de Pedro Moncayo** también se traslada al lugar para colaborar con la emergencia.
+
+La alternativa de circulación, mientras se limpia la vía, es el desvío por **Cayambe**.
+
+Beccacece, satisfecho tras empate de la Selección de Ecuador con Paraguay
+=========================================================================
+
+Sebastián Beccacece analizó el partido de la Selección de Ecuador ante Paraguay y se mostró satisfecho con el empate y desempeño.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Sebastián Beccacece, DT de la Selección de Ecuador, en eliminatorias ante Paraguay.](https://www.elcomercio.com/wp-content/uploads/2024/10/1000142646.jpg)
+
+El argentino **Sebastián Beccacece**, DT de la Selección de Ecuador, quedó satisfecho con el juego de su equipo pese a haber empatado contra Paraguay sin goles. El partido se llevó a cabo en la novena fecha de las eliminatorias sudamericanas de clasificación para el Mundial de 2026 durante este jueves 10 de octubre.
+
+Beccacece consideró que la Tri “**mostró carácter y una actitud notable**, además de paciencia para buscar espacios y situaciones de peligro”.
+
+### Más noticias:
+
+* [‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador](https://www.elcomercio.com/deportes/chito-vera-moises-caicedo-seleccion-ecuador.html "‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador")
+* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial-2026.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
+* [La Selección de Ecuador conserva el cuarto puesto de eliminatorias](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador conserva el cuarto puesto de eliminatorias")
+
+“**Si hubiésemos convertido alguna de esas cuatro o cinco ocasiones claras que tuvimos**, hoy estaríamos seguramente más alegres”, dijo el técnico.
+
+“Hicimos todo lo que está al alcance de las **posibilidades** del desarrollo de un juego, y luego hay que generar la concreción”, agregó[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
+
+Sebastián Beccacece destacó el dominio de la Selección de Ecuador
+-----------------------------------------------------------------
+
+El argentino valoró que su equipo haya jugado prácticamente durante todo el encuentro lejos de su área, al punto de que el arquero **Hernán Galíndez** apenas tocó el balón.
+
+Beccacece señaló que Ecuador fue “**absolutamente superior al rival en todo momento, sentido y aspecto**” y único que faltó fue el gol, pues hicieron catorce disparos y seis sobre el arco.
+
+No obstante, admitió que “**siempre hay cosas para mejorar y corregir, obviamente**“, pero lamentó que en los minutos finales el árbitro no concediese un penalti a favor de Ecuador y que Paraguay interrumpiese el juego repetidamente. 
+
+¿Cuándo se juega la siguiente fecha de la Selección de Ecuador?
+---------------------------------------------------------------
+
+La **Selección de Ecuador** jugará su próximo partido de eliminatorias ante Uruguay como visitante en el Estadio Centenario de Montevideo. Este cotejo se llevará a cabo el martes 15 de octubre del 2024.
+
+Después del choque ante **Paraguay**, la Tri se mantuvo en la cuarta posición de la tabla de posiciones. **Uruguay**, aún con un partido menos, ocupa la tercera casilla.
+
+Dragonas a cuartos de final de la Libertadores Femenina
+=======================================================
+
+Dragonas Independiente espera por Deportivo Cali, Santiago Morning o Alianza Lima en la siguiente fase.
+-------------------------------------------------------------------------------------------------------
+
+![Analiz Zambrano festeja un gol con Dragonas Independiente en la Libertadores Femenina 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_cuartos_1.jpg)
+
+Los equipos femeninos de **Independiente Santa Fe y Dragonas Independiente** se clasificaron este jueves 10 de octubre de 2024, desde el Grupo C a los cuartos de final de la Copa Libertadores Femenina que se disputa en Paraguay.
+
+El Santa Fe de Colombia igualó 1-1 con el Ferroviária de Brasil y **Dragonas Independiente de Ecuador vencieron por 2-0** a Peñarol de Uruguay.
+
+### Más noticias:
+
+* [Horarios para la fecha nueve de eliminatorias al Mundial 2026](https://www.elcomercio.com/deportes/horarios-eliminatorias-mundia-2026-sudamericanas.html "Horarios para la fecha nueve de eliminatorias al Mundial 2026")
+* [EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp](https://www.elcomercio.com/deportes/ecuador-paraguay-en-vivo-whatsapp-comercio.html "EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp")
+* [Ambiente de fiesta para el Ecuador vs. Paraguay por eliminatorias](https://www.elcomercio.com/deportes/futbol/ambiente-de-fiesta-para-el-ecuador-vs-paraguay-por-eliminatorias.html "Ambiente de fiesta para el Ecuador vs. Paraguay por eliminatorias")
+
+El equipo albirrojo de Bogotá cerró la fase de grupos con 5 puntos, **el club ecuatoriano le escoltó con 4**, Ferroviaria cayó al tercer puesto con 3 y las uruguayas de Peñarol cerraron el Grupo C con 2.
+
+Un penalti ejecutado por la **colombiana Camila Reyes dejó todo igual con Ferroviária**, equipo con pasado de campeón en la Libertadores.
+
+En un duelo que empezó con una hora de retraso en el estadio **Arsenio Erico de Asunción, Ferroviaria anunció en el minuto 13** que tomaba el control del partido con el primer intento de gol desde fuera del área de Micaelly Brazil dos Santos.
+
+Las brasileñas presionaron para ganar profundidad y la defensa de las Leonas´’ **resistió hasta que llegó el remate de Rafaela Soares** (33′) que envió el balón al centro del arco de Yessica Velásquez, tras recibir una asistencia hacia atrás de la atacante Lele.
+
+Con la dificultad de un campo de juego anegado por la lluvia en la segunda parte, Ferroviára quiso asegurar la ventaja, pero las bogotanas se cerraron en defensa.
+
+Una falta cometida por **Luana Menegardo terminó en un penalti a favor de Santa Fe** que Reyes cambió por gol con un derechazo en el minuto 73.
+
+![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/10/dragonas_cuartos_2-1024x683.jpg)
+
+Foto: Instagram del club.
+
+Dragonas siguen firmes
+----------------------
+
+En simultáneo, Dragonas Independiente **celebró su pase a la fase de los ocho mejores al vencer a Peñarol** en la localidad de Ypané, a unos 20 kilómetros de Asunción.
+
+Tras un primer tiempo que transcurrió igualado, las **Dragonas demostraron superioridad con el gol** de Karen Litardo (51′) y dos minutos después, Nayely Bolaños sentenció. 
+
+En los cuartos de final están confirmadas las llaves entre **Corinthians vs. Olimpia; y Santos contra Boca Juniors**, en lo que se puede catalogar como finales adelantadas por la calidad de estas escuadras.
+
+El rival de Dragonas será el ganador del grupo D al que enfrentará el domingo 13 en el Centro de Alto Rendimiento de Fútbol Femenino, ubicado en la localidad de Ypané, cerca a Asunción.
+
+**Al momento le corresponde a Deportivo Cali** que comanda la zona con 6 puntos y un gol diferencia positivo de +2.
+
+En la última jornada un empate las confirma como las ganadoras del grupo D. Su rival será **Santiago Morning que ocupa la segunda casilla con 3 puntos** y un gol diferencia positivo de +2. A las chilenas les sirve únicamente la victoria para ser las primeras.
+
+Alianza Lima también tiene opciones de ganar el grupo. **Sus 3 puntos, un gol diferencia positivo de +1** y enfrentarse contra el eliminado Guaraní, les abre a las peruanas las chaces de clasificarse.
+
+La final de la Libertadores Femenina está programada para el sábado 19 de octubre en el estadio Defensores del Chaco de Asunción.
+
+> 💥⚽ ¡Los goles de la clasificación! Karen Litardo y Nayely Bolaños para la victoria de 🇪🇨[@dragonasidv](https://twitter.com/DragonasIDV?ref_src=twsrc%5Etfw).  
+>   
+> CONMEBOL [#LibertadoresFEM](https://twitter.com/hashtag/LibertadoresFEM?src=hash&ref_src=twsrc%5Etfw) | [#LaGloriaEsDeEllas](https://twitter.com/hashtag/LaGloriaEsDeEllas?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/0rntjvU719](https://t.co/0rntjvU719)
+> 
+> — CONMEBOL Libertadores Femenina (@LibertadoresFEM) [October 10, 2024](https://twitter.com/LibertadoresFEM/status/1844525394801852624?ref_src=twsrc%5Etfw)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Policía decomisó millonario cargamento de droga en alta mar
+===========================================================
+
+Ocho personas fueron detenidas por transportar la droga cerca a la Isla San Cristóbal, en Galápagos
+---------------------------------------------------------------------------------------------------
+
+![El destino final de la droga era México y Estados Unidos](https://www.elcomercio.com/wp-content/uploads/2024/10/galap-1.jpg)
+
+La **Policía Nacional** detuvo a ocho personas que transportaban droga en **alta mar**, cerca a la Isla San Cristóbal, en el sur de **Galápagos**.
+
+El operativo Armagedón realizado este miércoles 9 de octubre de 2024 permitió el decomiso de **cuatro toneladas y media de droga**.
 
 ### Más noticias
 
-* [Aumentan a cuatro los muertos por Milton, que sale ya de la península de Florida](https://www.elcomercio.com/actualidad/mundo/aumentan-cuatro-muertos-milton-sale-peninsula-florida.html "Aumentan a cuatro los muertos por Milton, que sale ya de la península de Florida")
-* [El cambio climático impulsa los huracanes Helene y Milton](https://www.elcomercio.com/actualidad/mundo/cambio-climatico-impulsa-huracanes-helene-milton.html "El cambio climático impulsa los huracanes Helene y Milton")
-* [El huracán Milton toca tierra en Florida con categoría 3](https://www.elcomercio.com/actualidad/mundo/el-huracan-milton-toca-tierra-en-florida-con-categoria-3.html "El huracán Milton toca tierra en Florida con categoría 3")
+* [55 capturados deja la Operación Cero Impunidad de la Policía](https://www.elcomercio.com/actualidad/seguridad/55-capturados-deja-operacion-cero-impunidad-policia.html "55 capturados deja la Operación Cero Impunidad de la Policía")
+* [51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/seguridad/policia-seguridad-operativo-feriado-9-octubre.html "51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre")
+* [Policía detiene a exasambleísta por presunta concusión](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-exasambleista-por-presunta-concusion.html "Policía detiene a exasambleísta por presunta concusión")
 
-En su trayectoria, Milton se está moviendo hacia el **noreste a un ritmo de 30 km/h**, con un movimiento general que está previsto que **continúe este jueves,** según los últimos datos actualizados por el Centro Nacional de Huracanes (NHC) de EEUU.
+Miembros de la Dirección Nacional de Investigación Antidrogas, en coordinación con el Centro de Análisis Marítimo de las Fuerzas Armadas, interceptaron **tres embarcaciones** a 62 y 213 millas de la Isla San Cristóbal.
 
-Todos los avisos del huracán y tormenta tropical para la costa oeste de Florida se retiraron aunque permanecen en otras zonas, informó.
+Las lanchas llevaban consigo **3 930 paquetes de cocaína**. El objetivo era movilizar la mercancía hasta otro punto, donde la recibirían embarcaciones para continuar con el recorrido hasta llegar a **México** y **Estados Unidos**.
 
-El centro del huracán avanza con un **movimiento general que parece que mantendrá** hoy aunque con un giro hacia el este por la noche, de acuerdo a los pronósticos.
+Ocho detenidos, uno fue hospitalizado
+-------------------------------------
 
-Los vientos máximos sostenidos están cerca de 140 km/h pero se espera un debilitamiento gradual y parece que Milton podrá convertirse en una poderosa baja extratropical esta noche.
+La droga estaba oculta en **96 sacos de yute**, que estaban repartidos entre las tres embarcaciones, tripuladas por los ecuatorianos.
 
-Población debe permanecer lejos de ventanas
--------------------------------------------
+Los **detenidos** fueron:
 
-Se advierte a la población de que los fuertes vientos del destructor huracán continuarán durante mas horas en la **zona oriental del centro de Florida** y se urge a la población a permanecer en zonas de interior y lejos de las ventanas.
+* José Luis E.E.
+* Manuel Antonio C.L.
+* Jaime Iván M.M.
+* Carlos Enrique M.M.
+* Bryan Stalin M.M.
+* Ángel Johan L.M.
+* Edison José F.O
+* Edilson Cristopher M. L.,
 
-Amenaza para las personas
+Los sospechosos fueron puestos a órdenes de las autoridades, con excepción de este último, quien fue **hospitalizado** por presentar un cuadro grave de apendicitis.
+
+El hombre mantiene custodia policial en la casa de salud. Su situación legal entrará en proceso una vez se recupere.
+
+> Aprehendimos más de 4 toneladas de droga y 8 presuntos implicados en este delito en [#Galápagos](https://twitter.com/hashtag/Gal%C3%A1pagos?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> Conoce más detalles en el siguiente [#Boletín](https://twitter.com/hashtag/Bolet%C3%ADn?src=hash&ref_src=twsrc%5Etfw)🗞️: [https://t.co/MFqyA4CyMu](https://t.co/MFqyA4CyMu)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [October 10, 2024](https://twitter.com/PoliciaEcuador/status/1844471738677276687?ref_src=twsrc%5Etfw)
+
+Los uniformados tomaron como indicios del delito varios artefactos, entre ellos: cinco teléfonos satelitales, cuatro celulares, un GPS y una **sonoboya** (detector de submarinos).
+
+Las autoridades estiman que la droga incautada equivale a **45,705 millones de dosis**, con un valor en el mercado nacional de **9,1 millones de dólares**.
+
+La mercancía ilegal hubiera superado los **91 millones de dólares** de alcanzar su destino en Norteamérica.
+
+‘Chito’ Verá condecoró a Moisés Caicedo de la Selección de Ecuador
+==================================================================
+
+Moisés Caicedo y Marlon 'Chito' Vera tuvieron un encuentro después del partido entre la Selección de Ecuador y Paraguay.
+------------------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo en el partido de la Selección de Ecuador ante Paraguay en eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-10T190027.396.jpg)
+
+La **Selección de Ecuador** cosechó un empate sin goles ante Paraguay en la novena fecha de las eliminatorias sudamericanas. Tras el plano compromiso, quien puso la alegría en las gradas fue Marlon ‘**Chito’ Vera** al entregar el premio al mejor jugador del partido y compartir con los aficionados.
+
+Apenas finalizó el cotejo, los futbolistas tricolores se juntaron en el centro del terreno de juego y conversaron entre sí. Tras aquel momento, **Moisés Caicedo** se dirigió para recibir su reconocimiento y brindar sus impresiones en la transmisión del cotejo.
+
+### Más noticias:
+
+* [¿Cuándo juega la Selección de Ecuador ante Uruguay?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-uruguay-eliminatorias-mundial-2026.html "¿Cuándo juega la Selección de Ecuador ante Uruguay?")
+* [La Selección de Ecuador conserva el cuarto puesto de eliminatorias](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador conserva el cuarto puesto de eliminatorias")
+* [Leonardo Campana alborotó a los aficionados de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-alboroto-a-los-aficionados-de-la-seleccion-de-ecuador.html "Leonardo Campana alborotó a los aficionados de la Selección de Ecuador")
+
+Al momento en el cual retiró su galardón, este se encontró con otro de los **destacados deportistas** de Ecuador. **Marlon ‘Chito’ Verá**, quien se encuentra en el país, estuvo presente en el cotejo y bajó hacia la cancha para entregar el reconocimiento[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
+
+Ambos atletas se juntaron entre sí y, con un abrazo, **Vera recibió a Caicedo**. Tras un intercambio de palabras, estos retrataron el momento y el volante de Santo Domingo se retiró hacia los camerinos con la presea.
+
+Marlon ‘Chito’ Vera también compartió con los aficionados
+---------------------------------------------------------
+
+Una vez que finalizó el acto entre los deportistas, **‘Chito’ Vera** se acercó a los aficionados ecuatorianos presentes en los graderíos. Allí, este fue ovacionado, desató la euforia en los presentes y compartió un momento con ellos.
+
+El peleador saludó con los presentes y sacó su teléfono móvil para tomarse **fotos**. Las multitudes se agolparon y este firmó **autógrafos**, también brindó postales a los presentes y tuvo paciencia con los aficionados.
+
+Antes de su encuentro, el atleta de la **UFC** estuvo presente en una de las suites del Estadio Rodrigo Paz Delgado. Desde allí brindó su apoyo y compartió en sus redes sociales la experiencia.
+
+El partido de Moisés Caicedo con la Selección de Ecuador
+--------------------------------------------------------
+
+**Moisés Caicedo** estuvo presente como titular con la Selección de Ecuador y se mantuvo presente durante los 90 minutos. El futbolista del Chelsea, además, fue uno de los capitanes, pues Pervis Estupiñán le otorgó el brazalete tras ser sustituido.
+
+En su partido realizó **96 toques de balón** y acertó con el 89% de sus pases (65 de 73) de acuerdo a Sofascore. Brindó dos pases claves, cinco centros en los que acertó uno y envió 13 balones largos. Asimismo, ‘Moi’ sumó un remate al arco.
+
+A nivel defensivo **ganó seis de 10 duelos** en tierra y tres de cuatro en el aire. Interceptó dos veces la pelota y realizó dos entradas.
+
+Juicio político contra Andrea Arrobo es el siguiente en la lista de Fiscalización
+=================================================================================
+
+El juicio político contra la exministra de Energía, Andrea Arrobo, tiene como causal el incumplimiento de funciones, en el marco de los cortes de luz.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El juicio político contra Andrea Arrobo, exministra de Energía y Minas, es el siguiente en la lista de la Comisión de Fiscalización.](https://www.elcomercio.com/wp-content/uploads/2024/04/Andrea-Arrobo-2.jpg)
+
+**Andrea Arrobo**, exministra de **Energía y Minas** en el Gobierno de **Daniel Noboa**, es la siguiente en la lista de la **Comisión de Fiscalización** para juicio político.
+
+La Comisión de Fiscalización de la **Asamblea Nacional** está a punto de evacuar el juicio político en contra de la ministra del Interior, **Mónica Palencia**.
+
+### Más noticias:
+
+* [Juicio político contra Mónica Palencia depende del Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/juicio-politico-contra-monica-palencia-depende-pleno-asamblea.html "Juicio político contra Mónica Palencia depende del Pleno de la Asamblea")
+* [Daniel Noboa ordena reforzar seguridad de las hidroeléctricas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-ordena-reforzar-seguridad-hidroelectricas.html "Daniel Noboa ordena reforzar seguridad de las hidroeléctricas")
+
+La exministra, Andrea Arrobo, estuvo casi cinco meses cumpliendo las funciones de Ministra de Energía, hasta el 16 de abril de 2024.
+
+Debido a la crisis energética, el 17 de abril, Daniel Noboa pidió su renuncia y la acusó de supuesto **sabotaje** por haber afectado al sector energético.
+
+Junto a la exministra, otros 20 funcionarios también fueron señalados como posibles cómplices en la crisis energética.
+
+Posteriormente, a través de su cuenta de X, Arrobo señaló que, desde el 16 de abril, enfrentaba una investigación fiscal por el delito de **paralización de servicio público**.
+
+En su defensa, en una carta difundida por redes sociales, Arrobo señaló que recibió un “sector en crisis”.
+
+Esto, producto de más de seis años de “abandono” y de una falta de inversión, con problemas estructurales y una dependencia de la importación de energía.
+
+Así como, de condiciones climáticas “que no pueden solucionarse en cinco meses”.
+
+Solicitantes y causales del juicio político contra Andrea Arrobo que tramitará Fiscalización  
+
+-----------------------------------------------------------------------------------------------
+
+El 8 de mayo de 2024, el Consejo de Administración Legislativa (CAL) calificó la solicitud de juicio político en contra de Andrea Arrobo.
+
+La iniciativa surgió de las bancadas de **Construye y el Partido Social Cristiano (PSC)** que le acusan de incumplimiento de funciones.
+
+El 24 de abril, Ana Galarza y Jaime Moreno de Construye ingresaron oficialmente la solicitud de juicio político contra Arrobo.
+
+Vicente Taiano (PSC) se unió al pedido, que contó con 40 firmas de respaldo.
+
+Según los solicitantes, la prueba “madre” del incumplimiento de funciones de Arrobo fue que los “apagones” seguían y no se hizo nada.
+
+Esto, pese a que hubo alertas desde noviembre del año pasado.
+
+¿Cuándo juega la Selección de Ecuador ante Uruguay?
+===================================================
+
+La Selección de Ecuador terminó la primera rueda de las eliminatorias al Mundial 2026 en cuarto lugar.
+------------------------------------------------------------------------------------------------------
+
+![Piero Hincapié enfrentando a Paraguay con Ecuador en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_paraguay_3.jpg)
+
+Este jueves 10 de octubre de 2024 la **Selección de Ecuador empató Paraguay 0-0** en la novena fecha de las eliminatorias al Mundial 2026 en el estadio Rodrigo Paz Delgado. 
+
+Bajo el mando del entrenador argentino Sebastián Beccacece, **Ecuador alcanzó su segunda primer empate** en el Rodrigo Paz Delgado, con lo que se mantiene invicto de local en este proceso que comanda desde agosto en sustitución del español Félix Sánchez.
+
+### Más noticias:
+
+* [Gustavo Alfaro está invicto con Paraguay en eliminatorias sudamericanas](https://www.elcomercio.com/deportes/futbol/gustavo-alfaro-esta-invicto-con-paraguay-eliminatorias-sudamericanas.html "Gustavo Alfaro está invicto con Paraguay en eliminatorias sudamericanas")
+* [¿Cómo seguir el partido Ecuador vs. Paraguay si tienes cortes de luz?](https://www.elcomercio.com/deportes/seleccion-ecuador-paraguay-cortes-luz-canal-whatsapp.html "¿Cómo seguir el partido Ecuador vs. Paraguay si tienes cortes de luz?")
+* [Luis Chango reconoce que no tuvo ‘permisos’ para construir estadio](https://www.elcomercio.com/deportes/futbol/luis-chango-estadio-echaleche-ligapro.html "Luis Chango reconoce que no tuvo ‘permisos’ para construir estadio")
+
+La primera victoria de ‘Becca’ como DT de la Tri fue ante Perú por 1-0 en un disputado encuentro que se puso en escena en el **propio Rodrigo Paz Delgado**, el martes 15 de septiembre en la octava jornada con un gol de ‘Superman’ Valencia. 
+
+Tras la división de puntos con la escuadra **paraguaya dirigida por Gustavo Alfaro**, la mirada se centra en lo que será visitar a Uruguay en el siempre complicado estadio Centenario. 
+
+El próximo martes 15 de octubre la Selección de Ecuador se enfrentará a la de Uruguay. El juego arranca a las 18:30. 
+
+La última visita de Ecuador fue con derrota 
+--------------------------------------------
+
+El 9 de septiembre de 2021 la Selección de Ecuador, con Alfaro como su entrenador, fue derrotada 1-0 por Uruguay en la décima jornada de las eliminatorias al Mundial Catar 2022. 
+
+Por primera vez este encuentro se **disputó en el estadio Campeón del Siglo**, escenario que pertenece a Peñarol, equipo en el que brilló el delantero ecuatoriano Alberto Spencer en la década de los 60. 
+
+La ‘Tri’ le planteó una dura resistencia a los ‘charrúas’ que recién en el minuto 90+2’ marcó el único tanto por intermedio de Gastón Pereiro. 
+
+Ecuador mantuvo un eficiente planteamiento defensivo, **bloqueando la salida del cuadro local**. Fue así que la ‘Celeste’ tuvo pocas opciones, pero al final alcanzó el gol con el remate de cabeza de Pereiro.
+
+Minutos previos al gol, Matías Vecino marcó un golazo a los 87′ para abrir el marcador, pero el árbitro Anderson Daronco lo anuló por un claro fuera de juego a instancias del VAR.
+
+En este compromiso **Carlos Gruezo, por esos días jugador del Augsburgo de Alemania** y que no fue citado por Beccacece, fue el capitán y completó los 90 minutos. Le cedió la cinta a Enner Valencia cuando entró en lugar de Michael Estrada. 
+
+Alineación de Ecuador:
+----------------------
+
+Pedro Ortiz; Pervis Estupiñán, Piero Hincapié, Félix Torres, Luis Fernando Leon (Bryan Ángulo) y Byron Castillo; **Moisés Caicedo (Ángel Mena), Carlos Gruezo** y Fernando Gaibor (Alan Franco); Michael Estrada y Gonzalo Plata. 
+
+Alineación de Uruguay:
+----------------------
+
+Fernando Muslera; Matías Viña (Joaquín Puiquerez), José María Giménez, Ronald Araujo y Nahitan Nández; Matías Vecino, **Rodrigo Betancur, Federico Valverde y Giorgian de Arrascaeta** (Gastón Pereiro); Bian Rodríguez (Federico Martínez) y Agustín Álvarez.
+
+![Foto: Diego Pallero / EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/ecuador_paraguay_4-1024x683.jpg)
+
+Foto: Diego Pallero / EL COMERCIO.
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Susto en Caupicho por nuevas lluvias este jueves 10 de octubre
+==============================================================
+
+Varios barrios del centro y sur de Quito registraron agua acumulada en las calles.
+----------------------------------------------------------------------------------
+
+![La quebrada de Caupicho se desbordó el miércoles 2 de octubre](https://www.elcomercio.com/wp-content/uploads/2024/10/caupicho.jpg)
+
+Las **fuertes lluvias** que se registraron en Quito, la tarde de este jueves 10 de octubre de 2024, provocaron **preocupación** en los moradores de **La Lucha de los Pobres**, en el sur.
+
+Los ciudadanos de este sector temían que ocurra una **inundación** de grandes proporciones, similar a la del miércoles 2 de octubre.
+
+### Más noticias
+
+* [Lluvias en Ecuador deberían caer por un mes sin parar para ayudar a embalses](https://www.elcomercio.com/actualidad/ecuador/lluvias-en-ecuador-deberian-caer-por-un-mes-sin-parar-para-ayudar-a-embalses.html "Lluvias en Ecuador deberían caer por un mes sin parar para ayudar a embalses")
+* [Sectores con lluvias y acumulaciones de agua en Quito este jueves](https://www.elcomercio.com/actualidad/quito/sectores-con-lluvias-y-acumulaciones-de-agua-en-quito-este-jueves.html "Sectores con lluvias y acumulaciones de agua en Quito este jueves")
+* [Tres quebradas desbordadas, 17 inundaciones y 22 personas afectadas por las lluvias en Quito](https://www.elcomercio.com/actualidad/quito/tres-quebradas-desbordadas-17-inundaciones-y-22-personas-afectadas-por-lluvias-quito.html "Tres quebradas desbordadas, 17 inundaciones y 22 personas afectadas por las lluvias en Quito")
+
+Aquel día, viviendas y calles se vieron afectadas por la **torrencial precipitación** que cayó en la ciudad.
+
+Como consecuencia, la **quebrada de Caupicho** y el **río Machángara** se desbordaron en el barrio.
+
+Acumulación de agua en Caupicho
+-------------------------------
+
+Ante las alertas de un nuevo desbordamiento en la quebrada de Caupicho, personal del Comité de Operaciones de Emergencia (**COE**) informó que en el lugar se evidenció **acumulación de agua**, este jueves.
+
+“La lluvia no afectó de forma considerable a las viviendas del barrio, ni a la escuela cercana Francisco Javier Salazaren”, detallaron las autoridades.
+
+Sin embargo, al lugar acudieron miembros del Cuerpo de **Bomberos** de Quito para realizar la limpieza de los **sumideros**.
+
+Además, se registró presencia de agua en otros barrios del **centro** y del **sur**, como en La Mena 2, La Cocha, Centro Histórico, La Vicentina, Villaflora, Solanda y en la av. Maldonado.
+
+Plan Lluvias tendrá una inversión millonaria
+--------------------------------------------
+
+Según el alcalde de Quito, **Pabel Muñoz**, el Plan Lluvias que se implementa en el Distrito Metropolitano para enfrentar el invierno tiene una inversión que supera los **23 millones de dólares**.
+
+“La **Epmaps** (Empresa de Agua Potable y Alcantarillado de Quito) destinó 23,3 millones para reparaciones de colectores y redes de alcantarillado, mejoramiento y mantenimiento de estructuras de captación en quebradas, así como la adquisición de hidrosuccionadores para la desobstrucción de sumideros y pozos”, afirmó.
+
+Muñoz mencionó que hasta ahora se han limpiado 210 quebradas, como: El Tejado, Pulida, Conejo, Payaso, Guamaní, Huasipungo, Grande; entre otras.
+
+El burgomaestre también se refirió a cómo se trató la emergencia del miércoles 2 de octubre en **La Lucha de los Pobres**.
+
+“Desplegamos todo nuestro contingente humano, tecnológico y maquinaria para la atención oportuna de las emergencias suscitadas por las fuertes lluvias”.
+
+El Municipio, al igual que el Ministerio de Inclusión Social, entregó **kits** de alimentos e higiene a los afectados.
+
+> 📺 [#FrecuenciaQuiteña](https://twitter.com/hashtag/FrecuenciaQuite%C3%B1a?src=hash&ref_src=twsrc%5Etfw) | Respecto al trabajo preventivo realizado en las quebradas de la ciudad: “Se han realizado 210 limpiezas en quebradas como El Tejado, Pulida, Conejo, Payaso, Guamaní, Huasipungo, Grande, entre otras. Necesitamos de la colaboración de los vecinos para… [pic.twitter.com/pJHlpgzlUs](https://t.co/pJHlpgzlUs)
+> 
+> — Municipio de Quito (@MunicipioQuito) [October 7, 2024](https://twitter.com/MunicipioQuito/status/1843309886358077927?ref_src=twsrc%5Etfw)
+
+22 personas afectadas por las inundaciones
+------------------------------------------
+
+Producto de los incidentes del 2 de octubre, **22 personas resultaron afectadas**. De estas, nueve en el sector El Paraíso y 13 en la Lucha de los Pobres, quienes recibieron ayuda humanitaria.
+
+Se registraron cinco familias afectadas en El Paraíso y **256 estudiantes** fueron evacuados de las instituciones Francisco Javier Salazar y Celiano Monge.
+
+También hubo daños en:
+
+* Nueve viviendas
+* 19 locales afectados
+* Tres vehículos
+
+Para esta emergencia, se desplegaron **141 funcionarios** de las entidades municipales; además, dos patrulleros, seis motos, dos minicargadoras, seis volquetas y 34 camionetas. Cuatro hidrosuccionadoras, dos retroexcavadoras; en total 63 recursos logísticos desplegados.
+
+Venezuela no se rindió ante Argentina en las eliminatorias sudamericanas
+========================================================================
+
+Venezuela y Argentina jugaron por la fecha 9 de las eliminatorias sudamericanas para el próximo mundial de fútbol.
+------------------------------------------------------------------------------------------------------------------
+
+![Lionel Messi de Argentina en el partido ante Venezuela en las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/10/messi-2.jpg)
+
+La selección de **Venezuela** logró un empate 1-1 contra **Argentina** en el Estadio Monumental de Maturín, este 10 de octubre de 2024, durante la novena jornada de las eliminatorias sudamericanas para el Mundial 2026.
+
+Desde el inicio, el partido mostró una intensidad notable. **Nicolás Otamendi** abrió el marcador para Argentina a los 13 minutos.
+
+Sin embargo, la selección local no se desanimó y continuó buscando el empate. Su esfuerzo dio frutos en el minuto 65, cuando **Salomón Rondón** igualó el marcador.
+
+### Más noticias:
+
+* [La Selección de Ecuador conserva el cuarto puesto de eliminatorias](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html "La Selección de Ecuador conserva el cuarto puesto de eliminatorias")
+* [La Selección de Ecuador empató 0-0 con Paraguay por eliminatorias](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-paraguay-resultado-eliminatorias.html "La Selección de Ecuador empató 0-0 con Paraguay por eliminatorias")
+* [Bolivia, con uno menos, se encamina al Mundial 2026 ante Colombia](https://www.elcomercio.com/deportes/bolivia-partido-colombia-eliminatorias-mundial-2026.html "Bolivia, con uno menos, se encamina al Mundial 2026 ante Colombia")
+
+Venezuela y Argentina
+---------------------
+
+Con este empate, Argentina se mantiene en la cima de la clasificación, acumulando 19 puntos tras 9 partidos.
+
+Por su parte, Venezuela se aferra al sexto lugar con 11 unidades, una posición que le permite seguir soñando con la posibilidad de alcanzar un cupo en el próximo Mundial.
+
+Ecuador se ubica en el cuarto casillero con 12 unidades. Esto, [tras el empate 0-0 ante Paraguay en Quito.](https://www.elcomercio.com/deportes/futbol/tabla-posciones-eliminatorias-mundial-2026.html)
+
+Lionel Messi
+------------
+
+**Lionel Messi,** aunque no logró marcar, fue una constante amenaza para la defensa venezolana y mostró destellos de su genialidad a lo largo del encuentro entre Venezuela y Argentina.
+
+A pesar de no llevarse los tres puntos, Argentina mostró su solidez, mientras que Venezuela demostró que puede competir con los grandes del continente.
+
+Este resultado deja a la selección venezolana con un impulso positivo mientras se preparan para sus próximos compromisos.
+
+En la próxima fecha, la ‘Vinotinto’ visitará a [Paraguay](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Paraguay).
+
+En tanto, la Argentina de Lionel Messi recibirá a Bolivia.
+
+Gobierno de Venezuela se pone a disposición de Colombia para coadyuvar a su ‘estabilidad’
+=========================================================================================
+
+Esto tras los recientes "eventos políticos de marcada importancia" en el país andino, expresó el canciller venezolano, Yván Gil.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/Nicolas-maduro-efe.jpg)
+
+[Venezuela](https://www.elcomercio.com/actualidad/mundo/madrid-flexibiliza-contratacion-medicos-cuba-venezuela.html "https://www.elcomercio.com/actualidad/mundo/madrid-flexibiliza-contratacion-medicos-cuba-venezuela.html") se puso este jueves 10 de octubre de 2024, a disposición de Colombia para coadyuvar a su **“estabilidad”,** en pro de la relación bilateral. Esto tras los **recientes “eventos políticos de marcada importancia”** en el país andino, expresó el canciller venezolano, Yván Gil, en referencia a la investigación electoral contra la **campaña del mandatario Gustavo Petro** en 2022.
+
+### Más noticias
+
+* [Nicolás Maduro extiende la Navidad por más de tres meses en Venezuela](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-extiende-navidad-mas-tres-meses.html "Nicolás Maduro extiende la Navidad por más de tres meses en Venezuela")
+* [Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello](https://www.elcomercio.com/actualidad/mundo/justicia-argentina-ordena-captura-nicolas-maduro-diosdado-cabello.html "Justicia argentina ordena captura de Nicolás Maduro y Diosdado Cabello")
+* [La Navidad comienza en Venezuela tras el ‘adelanto’ decretado por Nicolás Maduro](https://www.elcomercio.com/actualidad/mundo/navidad-comienza-venezuela-adelanto-decretado-nicolas-maduro.html "La Navidad comienza en Venezuela tras el ‘adelanto’ decretado por Nicolás Maduro")
+
+“Los últimos acontecimientos que se desarrollaron en Colombia los vimos con mucha atención desde Venezuela, y desde Venezuela queremos, ponernos a disposición de Colombia, de su estabilidad, de su Gobierno. Esto para lograr mantener una **estabilidad** que nos ayude a seguir avanzando en la senda que ya hemos transitado en los últimos dos años”, dijo Gil respecto a las relaciones con Bogotá.
+
+Aseguró que el intercambio comercial va a superar este año los **1 000 millones de dólares**, y prevé que siga “creciendo a medida que la estabilidad en Colombia se consiga, se consolide”.
+
+Por tanto, cualquier **“amenaza” a la estabilidad** “debe ser analizada”, por lo que este jueves se celebra en Caracas el ‘Foro Político y Académico sobre la situación en Colombia’, donde el Consejo Nacional Electoral (CNE) investiga a la campaña de Petro por presuntas irregularidades en su financiación, lo que el mandatario colombiano considera como el comienzo de un “golpe de Estado”.
+
+En ese sentido, Gil insistió en que el objetivo “principal” de este foro, en el que participa el excanciller colombiano Álvaro Leyva, será elaborar ideas que se puedan “discutir” con **“el Gobierno de Colombia”**, con miras a “intensificar” el proceso de relanzamiento de las relaciones, reanudadas con la llegada de Petro al poder, en 2022.
+
+Cargos contra Petro
+-------------------
+
+El CNE de Colombia explicó el martes que decidió **abrir una investigación y formular cargos contra Petro** y miembros de su equipo por violar supuestamente los topes de gasto establecidos en su campaña presidencial y recurrir a fuentes prohibidas que no declararon.
+
+Petro respondió con fuertes críticas al órgano electoral, al asegurar que está “infiltrado por los mismos politiqueros que han gobernado durante décadas” el país andino. 
+
+La Selección de Ecuador conserva el cuarto puesto de eliminatorias
+==================================================================
+
+La Selección de Ecuador cerró la primera etapa de las eliminatorias al Mundial 2026 en zona de clasificación directa.
+---------------------------------------------------------------------------------------------------------------------
+
+![Hernán Galíndez toma el balón en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/10/ec_pa_2.jpg)
+
+La **Selección de Ecuador** se mantiene en zona de clasificación directa al Mundial 2026. En las nueve primeras fechas alcanzó 12 puntos y conserva intactas sus opciones de clasificación.
+
+La tarde de este jueves 10 de octubre de 2024, la Selección de **Ecuador empató 0-0 con la de Paraguay** en el estadio Rodrigo Paz Delgado, que soportó una ligera lluvia en los primeros minutos del primer tiempo.
+
+### Más noticias:
+
+* [La decisión de Rafael Nadal que impacta a sus seguidores](https://www.elcomercio.com/deportes/futbol/rafael-nadal-retiro-tenis-leyenda.html "La decisión de Rafael Nadal que impacta a sus seguidores")
+* [La Selección de Ecuador domina a Paraguay en Quito](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-domina-a-paraguay-en-quito.html "La Selección de Ecuador domina a Paraguay en Quito")
+* [EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp](https://www.elcomercio.com/deportes/ecuador-paraguay-en-vivo-whatsapp-comercio.html "EL COMERCIO te lleva en vivo el partido de la Selección de Ecuador por WhatsApp")
+
+Con este resultado Ecuador conserva el cuarto puesto. Su posición final en esta jornada se puede modificar si Brasil, sexto con 10 puntos y aún **pendiente de jugar contra Chile en Santiago**, puede superar a la tricolor.
+
+El descenso de la Tri puede ser únicamente al quinto puesto, por lo que aún se mantendrá en zona de clasificación directa, **puesto que los seis primeros obtendrán su boleto sin escalas**, mientras que el séptimo tiene que jugar un repechaje.
+
+Los 12 puntos de Ecuador se lograron con cuatro triunfos: Uruguay, Bolivia, Chile y Perú; dos empates: Colombia y Venezuela; y dos derrotas: **Argentina y Brasil cuando los visitó en Buenos Aires y Curitiba**, respectivamente.
+
+Paraguay sumó su tercer **encuentro como entrenador de Paraguay**. Con el empate en Quito alcanzó los 10 puntos y se mantiene en la octava posición.
+
+Bolivia se confirmó como sorpresa
+---------------------------------
+
+La Selección de Bolivia, **dirigida técnicamente por Óscar Villegas**, sigue viviendo un idilio con los buenos resultados al ganar su tercer partido en forma consecutiva.
+
+Este jueves derrotó **1-0 a Colombia en los 4 800 metros sobre el nivel del mar** en los que está ubicado el estadio Municipal de El Alto, la nueva casa de los bolivianos que le están sacando el máximo de la ventaja geográfica.
+
+El tanto de la ‘Verde’ fue obra de Miguel Terceros a los 58 minutos de juego. Con ese tanto escaló al quinto puesto con 12 puntos
+
+Los locales jugaron con un jugador menos desde los **20 minutos por la expulsión de Héctor Cuéllar**, que cometió una fuerte falta cerca de la mitad de la cancha en contra de Roger Martínez, jugador del Racing Club de Argentina.
+
+En la octava jornada, **Bolivia logró un histórico triunfo de 1-2 en su visita a Chile** con goles del propio Terceros y Carmelo Algarañaz.
+
+En la séptima se estrenó en **El Alto y lo hizo con una goleada de 4-0 contra Venezuela**: Ramiro Vaca, Algarañaz, Terceros y Enzo Monteiro fueron los goleadores en esa histórica tarde para el fútbol boliviano.
+
+Tabla de posiciones:
+--------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/10/ELIMINATORIAS-TABLA-POSICIONES-3-819x1024.jpg)
+
+No te pierdas – El Confesionario
+--------------------------------
+
+Bolivia, con uno menos, se encamina al Mundial 2026 ante Colombia
+=================================================================
+
+La Selección de Bolivia se impuso en la altura y con un jugador expulsado ante Colombia en las eliminatorias sudamericanas.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Miguel Terceros celebra su gol con Bolivia ante la Selección de Bolivia.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-10T175144.146.jpg)
+
+El mediocampista **Miguel Terceros** fue el autor del gol de **Bolivia** que, con un hombre menos, venció a Colombia y le quitó su condición de invicto en los más de 4.000 metros de altitud del estadio Municipal de El Alto.
+
+Este resultado supone la tercera victoria al hilo de la Verde y hace que provisionalmente escale a la quinta posición de las eliminatorias suramericanas al **Mundial 2026**.
+
+### Más noticias:
+
+* [Leonardo Campana alborotó a los aficionados de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-alboroto-a-los-aficionados-de-la-seleccion-de-ecuador.html "Leonardo Campana alborotó a los aficionados de la Selección de Ecuador")
+* [(En vivo) La Selección de Ecuador empata 0-0 con Paraguay por eliminatorias](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-paraguay-resultado-eliminatorias.html "(En vivo) La Selección de Ecuador empata 0-0 con Paraguay por eliminatorias")
+* [Horarios para la fecha nueve de eliminatorias al Mundial 2026](https://www.elcomercio.com/deportes/horarios-eliminatorias-mundia-2026-sudamericanas.html "Horarios para la fecha nueve de eliminatorias al Mundial 2026")
+
+El gol de **Terceros** llegó en el minuto 58, después de una contra rápida en la que superó a dos jugadores rivales. Los primeros minutos fueron completamente de **Bolivia**, que adelantó sus líneas y encajonó a Colombia en su campo.
+
+El arma principal de la Verde fueron los remates de media distancia de **Robson Matheus, Ramiro Vaca y Terceros**, quienes además fueron el eje del equipo dirigido por Óscar Villegas. Esa estrategia se topó con un Vargas inspirado que ahogó remates de los bolivianos que tenían destino de red.
+
+Bolivia sufrió una expulsión tempranera, pero no desmayó
+--------------------------------------------------------
+
+El guión de Bolivia se cayó en el minuto 19 cuando el juez brasileño **Wilton Sampaio** le mostró la roja directa al boliviano Héctor Cuéllar por una falta contra **Róger Martínez**, quien iba de cara al gol.
+
+El ariete colombiano tuvo que abandonar el campo por lesión y fue sustituido por **Jhon Córdova**.
+
+Colombia adelantó sus filas y jugó por los laterales a espaldas de los defensores bolivianos, pero **Córdova** no estuvo fino para sentenciar[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Bolivia "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Bolivia")
+
+Bolivia no se resignó a atacar pese a la expulsión y a la salida de **Jeyson Chura** por lesión. En el tramo final del primer tiempo **Robson** volvió a rematar de lejos, pero Vargas, quien ya era figura, evitó la conquista boliviana.
+
+La ‘Verde’ encontró el gol con ‘altura’
+---------------------------------------
+
+En el segundo tiempo, **Colombia** tomó las riendas y los tiempos del partido para ganar en volumen de juego al equipo boliviano que le costaba reaccionar.
+
+Sin embargo, **Terceros** sorprendió con una jugada en solitario después de un lateral y tras un regate que dejó a dos jugadores colombianos en el camino encajó la pelota en el ángulo de Vargas.
+
+Después del gol, el entrenador **Villegas** ajustó su esquema ya que mandó a Luis Paz al campo en reemplazo del autor del gol para plantear una línea de **cinco jugadores** en el fondo y jugar al contragolpe[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Bolivia "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Bolivia")
+
+Colombia puso contra las cuerdas a la Verde con **James Rodríguez** como líder del juego cafetero, pero esos ataques se encontraron con una aplicada defensa y con el arquero boliviano **Guillermo Viscarra**.
+
+En la próxima fecha el 15 de octubre, Bolivia visitará a **Argentina y Colombia** recibirá a Chile.
+
+Alineaciones de Bolivia y Colombia
+----------------------------------
+
+1\. **Bolivia**: Guillermo Viscarra; Diego Medina, Luis Haquín, Marcelo Suárez, José Sagredo; Miguel Terceros (m.67, Luis Paz), Robson Matheus (m.79, Adalid Terrazas), Héctor Cuéllar, Ramiro Vaca, Jeyson Chura (m.30, Gabriel Villamil); Carmelo Algarañaz (m.79, Bruno Miranda).
+
+**Seleccionador**: Óscar Villegas.
+
+0\. **Colombia**: Camilo Vargas; Santiago Arias, Wilter Ditta, Jhon Lucumí, Cristian Borja; Kevin Castaño (m. 62, Jefferson Lerma), Matheus Uribe (m.77, Richard Ríos), Jhon Arias (m.62, Yaer Asprilla), James Rodríguez; Luis Díaz (m.77, Juan Camilo Hernández) y Róger Martínez (m.23, Jhon Córdova).
+
+**Seleccionador**: Néstor Lorenzo.
+
+Lluvias en Ecuador deberían caer por un mes sin parar para ayudar a embalses
+============================================================================
+
+En las provincias donde se encuentran las hidroeléctricas las lluvias son ligeras, por lo que no hay una recuperación del caudal
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El caudal de Mazar tiene 100 metros cúbicos menos de lo que debería.](https://www.elcomercio.com/wp-content/uploads/2024/10/Mazar.jpg)
+
+El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) mantiene un monitoreo constante de las **condiciones climáticas** que se presentan en Ecuador.
+
+### Más noticias
+
+* [Así estará el clima en Quito para el partido de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/asi-estara-clima-en-quito-para-el-partido-seleccion-de-ecuador.html "Así estará el clima en Quito para el partido de la Selección de Ecuador")
+* [Al menos 19 cruces estarán cerrados por partido de la Tri, en Quito](https://www.elcomercio.com/actualidad/quito/al-menos-19-cruces-cerrados-por-partido-seleccion-quito.html "Al menos 19 cruces estarán cerrados por partido de la Tri, en Quito")
+* [El teniente Dan desafió al huracán Milton y esto pasó](https://www.elcomercio.com/actualidad/mundo/teniente-dan-desafio-a-huracan-milton-y-esto-paso.html "El teniente Dan desafió al huracán Milton y esto pasó")
+
+Advertencia meteorológica
 -------------------------
 
-Se mantiene el peligro con **amenaza para la vida de las personas por tormentas** a lo largo de la costa desde la zona oriental del centro de Florida hacia el norte donde permanecen los avisos por tormentas.
+El Inamhi emitió la **advertencia meteorológica número 52,** la cual se aplica hasta este 10 de octubre de 2024 y que alerta sobre las condiciones climáticas presentes.
 
-El peligro de inundaciones en la ciudad de Tampa continuará esta mañana, a pesar de que la ciudad evitó los peores **temores de marejadas ciclónicas**, según dijo el alcalde en una sesión informativa el jueves por la mañana.
+Esta advertencia señala que se prevé la **presencia de lluvias** de variable intensidad con tormentas eléctricas y ráfagas de viento en la Amazonía, Sierra y norte del Litoral.
 
-En el parte anterior del **Centro Nacional de Huracanes** se advertía de que el huracán que azotó anoche con categoría 1 -en la escala Saffir-Simpson (de 5)- la costa oeste del estado de Florida, en Estados Unidos se encontraba a 55 kilómetros de la ciudad de Orlando, conocida por sus parques temáticos.
+Ante estas previsiones es importante que tomes **las siguientes precauciones**:
 
-Walt Disney World (DIS.N) dijo que su **parque temático en Florida permanecerá cerrado el jueves**, uniéndose a otras importantes atracciones de Orlando que se preparan para las interrupciones según el huracán se acerca al estado.
+* Si las autoridades lo indican, evacúa lo más pronto posible.
+* Aléjate de los cables de electricidad y desconecta los aparatos electrónicos.
+* No camines cerca del agua ni intentes cruzar ríos.
+* No te refugies bajo los árboles ni manipules herramientas u objetos metálicos durante las tormentas.
 
-Florida sin luz
----------------
+> Advertencia Meteorológica #52⚠⛈🌧☔  
+> Del 06 al 10 de octubre: Se prevé lluvias de variable intensidad con tormentas eléctricas y ráfagas de viento en la región Amazónica, Sierra y norte del Litoral.  
+>   
+> Tome precauciones y manténgase informado en nuestros canales. [pic.twitter.com/nQVAWVC27O](https://t.co/nQVAWVC27O)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [October 5, 2024](https://twitter.com/inamhi_ec/status/1842659992249237662?ref_src=twsrc%5Etfw)
 
-Florida pasó la noche con **millones de desplazados** y sin luz tras el azote de Milton, que dejó lluvias torrenciales y fuertes ráfagas de viento tras haber tocado tierra en la costa oeste de un estado donde hay más de un millón de personas desplazadas de sus hogares.
+¿Cómo están las lluvias en Ecuador?
+-----------------------------------
 
-De acuerdo a los datos disponibles de última hora, cerca de **3 250 000 abonados** están afectados por cortes de luz, según PowerOutage.
+Según los **pronósticos del Inamhi**, durante este jueves 10 y la madrugada del 11 de octubre solamente se esperan algunas lloviznas en las provincias de la parte sur del país.
 
-Las autoridades dijeron que al menos **dos personas murieron** por un tornado relacionado con el ciclón en una comunidad de jubilados del condado St. Lucie, en la costa oeste de Florida.
+En Cañar, **Azuay,** El Oro, Loja, por ejemplo, la temperatura máxima podría ser de hasta 24 grados y habrá presencia de lluvias **ligeras en la tarde**.
 
-El huracán tocó tierra en Siesta Key, en la costa oeste de Florida, al sur de la ciudad de Tampa, a las 20:30, con vientos de hasta 205 kilómetros por hora (120 millas), es decir con categoría 3 en la escala Saffir-Simpson (de 5).
+Esto **no favorece el incremento de los caudales** de los principales afluentes que alimentan las hidroeléctricas de la cuenca del río Paute como son Mazar, Paute – Molino y Sopladora, ubicadas en la zona austral.
 
-En Tampa el mar creció más de tres metros
------------------------------------------
+Según **Ricardo Buitrón,** consultor energético, el caudal para llenar en un mes el embalse de Mazar debe tener un promedio de 115 metros cúbicos por segundo y este momento está en 14,8 metros cúbicos por segundo.
 
-Por ahora se desconoce la magnitud de los **daños causados por el huracán**, algo que se empezará a ver cuando amanezca en Florida, pero las **imágenes de su llegada muestran crecidas del mar**, inundaciones, casas con destrozos, árboles y postes caídos, y barcos a la deriva. En Tampa el mar creció más de 3 metros por encima de su nivel normal.
+Es decir, **100 metros cúbicos menos** del mínimo requerido. Por ello, en un estimado, se necesita de lluvias muy fuertes durante un mes para llenar esta presa de agua, que alimenta las tres hidroeléctricas, que juntas tienen una potencia instalada de 1700 MW.
+
+En **Chimborazo**, Cotopaxi y el **centro sur de la Amazonía** también se presentan cielos nublados y chubascos esporádicos.
+
+**Pichincha tiene un clima más lluvioso:** durante la tarde podrían presentarse **lluvias con tormentas,** sobre todo en el sur de Quito y Mejía.
+
+En la región Litoral, los **cielos se encuentran nublados** y no hay lluvias previstas para esta tarde ni para la madrugada del 11 de octubre.
+
+Leonardo Campana alborotó a los aficionados de la Selección de Ecuador
+======================================================================
+
+Sebastián Beccacece le dio a Leonardo Campana sus primeros minutos en la 'Tri' bajo su mandato.
+-----------------------------------------------------------------------------------------------
+
+![Leonardo Campana en un entrenamiento con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-10T173717.361.jpg)
+
+Uno de los jugadores más solicitados por la afición ecuatoriana para esta fecha FIFA fue **Leonardo** **Campana**, y su regreso al combinado tricolor no pasó desapercibido cuando ingresó al partido contra Paraguay.
+
+Corría el minuto 65 en el Estadio Rodrigo Paz Delgado cuando **Sebastián Beccacece** hizo que las gradas estallaran de emoción. Llamó a ‘Leo’, quien estaba calentando, para darle las indicaciones previas a su ingreso al campo.
+
+### Más noticias:
+
+* [Kendry Páez mantiene la ’10’ en la Selección de Ecuador](https://www.elcomercio.com/deportes/gonzalo-plata-seleccion-ecuador-kendry-paez-numero.html "Kendry Páez mantiene la ’10’ en la Selección de Ecuador")
+* [Pervis Estupiñán, un nuevo capitán para la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/pervis-estupinan-un-nuevo-capitan-para-la-seleccion-de-ecuador.html "Pervis Estupiñán, un nuevo capitán para la Selección de Ecuador")
+* [Selección de Ecuador mostró su afecto y cariño a Gustavo Alfaro](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-mostro-su-afecto-y-carino-a-gustavo-alfaro.html "Selección de Ecuador mostró su afecto y cariño a Gustavo Alfaro")
+
+Después de casi un año de ausencia en la selección, el delantero, f**ormado en Barcelona SC**, ingresó en lugar de Gonzalo Plata, sumando sus primeros minutos bajo el mando de Beccacece.
+
+El estadio explotó con la entrada de Leonardo Campana
+-----------------------------------------------------
+
+Las indicaciones de **Beccacece para Campana** hicieron que los aficionados se alborotaran en las gradas, entre gritos y ovaciones. El jugador del Inter Miami atraviesa un gran momento en la MLS, y su regreso era uno de los más esperados por la hinchada.
+
+Cuando ingresó al campo, el e**stadio volvió a estallar en aplausos y gritos de aliento**, dándole una calurosa bienvenida a Campana.
+
+En medio de la euforia por los cambios, los hinchas en ‘Casa Blanca’ también empezaron a pedir la entrada de **John Yeboah**.
+
+Los gritos hicieron efecto porque pocos minutos después John Yeboah ingresó al terreno de juego.
+
+Sus números con Ecuador
+-----------------------
+
+Campana, de 24 años y delantero centro, tiene una relación intermitente con la Selección y su presencia ha sido esporádica. En 1**5 partidos no pudo anotar goles.**
+
+El debut fue con Hernán Darío Gómez con 18 años, 7 meses y 26 días en una derrota 1-0 con Estados Unidos con 45 minutos. En esa misma gira sumó otros 45 minutos contra Honduras con un empate 0-0.
+
+El primer partido oficial en eliminatorias fue el 12 de octubre de 2020 en la victoria 4-2 ante Uruguay en el Rodrigo Paz Delgado. **Gustavo Alfaro** lo mandó a la cancha para jugar los cinco minutos finales.
+
+En la Copa América Brasil 2021 debutó en el empate 2-2 contra Venezuela. Fue titular y completó los 90 minutos.
+
+Guayaquil tiene su propio playlist bailable para octubre
+========================================================
+
+Los temas celebran la belleza y cultura de Guayaquil. Te compartimos el playlist octubrino.
+-------------------------------------------------------------------------------------------
+
+![Artistas locales e internacionales se inspiraron en Guayaquil para crear sus canciones. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-10T172805.889.jpg)
+
+**Guayaquil** \-la vibrante ciudad ecuatoriana- desde siempre ha sido fuente de **inspiración** para numerosos **artistas. Cada uno de ellos** ha plasmado su esencia en **canciones**.
+
+Las melodías celebran su **belleza** y **cultura**, y también reflejan el orgullo de sus **habitantes**. Entre las canciones más emblemáticas que mencionan a **Guayaquil** están Guayaquileño, madera de guerrero, Guayaquil de mis amores, Guajira a **Guayaquil, entre otros**.
+
+Esas creaciones son especialmente populares durante las festividades de oc**t**ubre, cuando la ciudad conmemora su **independencia**.
+
+### **Más noticias:**
+
+* [Karol G y los superpoderes que la posicionaron como la ‘reina’ de la música latina](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-superpoderes-reina-musica-latina.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-superpoderes-reina-musica-latina.html")
+* [Una canción de Justin Bieber ‘revive’ tras la polémica de ‘Diddy’](https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html "https://www.elcomercio.com/tendencias/entretenimiento/justin-bieber-diddy-lonely-controversia-fans.html")
+* [Madonna y su última lección de rebeldía](https://www.elcomercio.com/tendencias/entretenimiento/madonna-leccion-rebeldia-concierto-reina-pop.html "https://www.elcomercio.com/tendencias/entretenimiento/madonna-leccion-rebeldia-concierto-reina-pop.html")
+
+**Guayaquil tiene su propio playlist bailable** **para octubre**
+----------------------------------------------------------------
+
+**Guayaquileño**, madera de guerrero, una canción que resalta el **espíritu combativo** y alegre de los guayaquileños, es un himno no oficial de la ciudad.
+
+Guayaquil de mis amores, interpretada por el legendario Julio Jaramillo, es una balada que evoca nostalgia y amor por la ciudad. Esta canción es un clásico que ha trascendido generaciones, consolidándose como un símbolo de identidad para los guayaquileños.
+
+Otra canción destacada es Guajira a Guayaquil de Héctor Napolitano, también conocido como el ‘Viejo Napo’.
+
+En esta canción, **Napolitano** expresa su amor y admiración por su ciudad natal, combinando ritmos tradicionales con una letra emotiva.
+
+Guayaquil Puerto Abrigada es otra canción que suena en estas fechas. La letra es de Chabuca Granda, mientras que la música le corresponde a Carlos Rubida.
+
+Recientemente, el tema fue interpretado por Patricia González y Daniel Betancourth.
+
+**Guayaquil en voces extranjeras**
+----------------------------------
+
+La banda francesa Mano Negra, liderada por Manu Chao, incluyó Guayaquil City en su álbum ‘Puta’s Fever’ de 1989.
+
+Esta canción captura la esencia de la ciudad desde una perspectiva internacional.
+
+Kendry Páez mantiene la ’10’ en la Selección de Ecuador
+=======================================================
+
+Kendry Páez utilizó el número 10 con la Selección de Ecuador pese al regreso del extremo Gonzalo Plata, quien utilizó la 16.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo (izq.) junto a Kendry Páez (der.) en la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2024-10-03T175358.885.jpg)
+
+**Kendry Páez** partió como titular con la **Selección de Ecuador** y mantuvo el dorsal número 10 en la alineación a pesar del regreso de otros nombres al combinado. Gonzalo Plata, a quien había pertenecido tal número, utilizó el 16.
+
+Para el cotejo entre el combinado ecuatoriano y el de los paraguayos, la Tri anunció los **dorsales** que utilizarían sus jugadores en la previa del compromiso. Allí, **Páez** repitió el que había utilizado en anteriores oportunidades.
+
+### Más noticias:
+
+* [Selección de Ecuador mostró su afecto y cariño a Gustavo Alfaro](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-mostro-su-afecto-y-carino-a-gustavo-alfaro.html "Selección de Ecuador mostró su afecto y cariño a Gustavo Alfaro")
+* [Pervis Estupiñán, un nuevo capitán para la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/pervis-estupinan-un-nuevo-capitan-para-la-seleccion-de-ecuador.html "Pervis Estupiñán, un nuevo capitán para la Selección de Ecuador")
+* [(En vivo) La Selección de Ecuador empata 0-0 con Paraguay por eliminatorias](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-paraguay-resultado-eliminatorias.html "(En vivo) La Selección de Ecuador empata 0-0 con Paraguay por eliminatorias")
+
+Antes del choque entre los guaranís y los tricolores, el futbolista de Independiente del Valle utilizó el 10 ante **Perú y Brasil**, donde el entrenador **Sebastián Beccacece** tuvo sus dos primeros cotejos. Aquello también se dio durante la Copa América.
+
+Al igual que Páez, **Gonzalo Plata** también arrancó desde el pitazo inicial en el compromiso y lució el dorsal 16. Este se ubicó como extremo por la banda derecha en el esquema del entrenador argentino.
+
+Gonzalo Plata no recuperó su número con la Selección de Ecuador
+---------------------------------------------------------------
+
+Una de las sorpresas en la convocatoria de **Beccacece** fue el arribo de Gonzalo Plata, quien no estuvo presente en la **Copa América**. A raíz de un escándalo extradeportivo en la época de Félix Sánchez, predecesor del gaucho como DT, este no volvió a ser llamado.
+
+Con el arribo del estratega argentino y la salida del español, la puerta para el puntero que milita en el **Flamengo** se abrió de nuevo. Este no formó parte del primer listado de Beccacece en sus cotejos de estreno.
+
+Antes de haber dejado la **Selección de Ecuador**, el ecuatoriano había sido regular en las convocatorias de Sánchez. Allí este utilizó el 10, número que también portó en el Mundial de Catar 2022, donde el DT fue **Gustavo Alfaro**.
+
+Juicio político contra Mónica Palencia depende del Pleno de la Asamblea
+=======================================================================
+
+El Pleno de la Asamblea requiere de 92 votos para censurar y destituir a Mónica Palencia, dentro del juicio político en su contra.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Mónica Palencia tiene el respaldo del Gobierno de Daniel Noboa ante el juicio político que debe resolver el Pleno de la Asamblea.](https://www.elcomercio.com/wp-content/uploads/2024/09/palencia.png)
+
+El **juicio político** contra la ministra del Interior, **Mónica Palencia**, depende del **Pleno de la Asamblea** Nacional.
+
+Este es el único paso que falta en el proceso que se desarrolla en el Legislativo contra Palencia.
+
+### Más noticias:
+
+* [Fiscalización votó sobre juicio político contra Mónica Palencia](https://www.elcomercio.com/actualidad/politica/monica-palencia-juicio-politico-fiscalizacion-votacion.html "Fiscalización votó sobre juicio político contra Mónica Palencia")
+* [Asamblea Nacional aprobó la creación de un nuevo cantón](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-aprobo-creacion-nuevo-canton.html "Asamblea Nacional aprobó la creación de un nuevo cantón")
+
+El pasado miércoles, la **Comisión de Fiscalización** no alcanzó los votos para aprobar un informe de mayoría en el que se haga una recomendación al Pleno.
+
+La propuesta de recomendación de juicio político impulsada por el correísmo, a través de la asambleísta Sofía Espín, se quedó con cuatro votos a favor y cinco en contra.
+
+Esto, sobre la base de las solicitudes acumuladas de juicio político de los correístas **Paola Cabezas y Leonardo Berrezueta.**
+
+Ellos acusaron a Palencia de incumplimiento de funciones por varias razones.
+
+Entre estas, se cuenta la incursión policial a la Embajada de México en Quito, que derivó en la captura de Jorge Glas.
+
+Además, los supuestos incremento de las cifras de violencia en el país y la inexistencia del plan de seguridad denominado Fénix.
+
+Pleno de la Asamblea tiene la última palabra en el juicio político contra Mónica Palencia
+-----------------------------------------------------------------------------------------
+
+La Ley Orgánica de la Función Legislativa determina el procedimiento a seguir cuando no existe un informe de mayoría en la Comisión de Fiscalización sobre un juicio político.
+
+La Presidencia de la Comisión debe remitir a la Presidencia de la Asamblea un informe con las votaciones y las posturas de cada integrante de la mesa.
+
+Con el expediente completo, la presidenta de la Asamblea y legisladora correísta, Viviana Veloz, debe convocar al Pleno para tomar una resolución.
+
+El Pleno de la Asamblea requiere de 92 votos para censurar y destituir a la ministra Mónica Palencia.
+
+Los integrantes de Fiscalización tienen hasta mañana viernes 11 de octubre para enviar a la presidenta Pamela Aguirre sus informes.
+
+El tema puede constar en el orden del día del Pleno desde la próxima semana.
+
+Ecuador autoriza construcción de terminal de gas natural
+========================================================
+
+Ecuador contará con infraestructura para producir gas natural en la costa del país.
+-----------------------------------------------------------------------------------
+
+![El gas natural es una de las principales y más relevantes fuentes de energía. Foto: MTOP](https://www.elcomercio.com/wp-content/uploads/2024/10/gas-natural.jpg)
+
+La **Agencia de Regulación y Control de Hidrocarburos** (ARCH) autorizó la construcción de una terminal marítima para **gas natural licuado** (GNL) en **Ecuador**. La resolución tiene como objetivo fortalecer la infraestructura energética del país.
+
+### Más noticias
+
+* [Gobierno ofrece enfrentar la crisis energética con la inclusión de 1 430 megavatios](https://www.elcomercio.com/actualidad/negocios/gobierno-crisis-energia-megavatios.html "Gobierno ofrece enfrentar la crisis energética con la inclusión de 1 430 megavatios")
+* [Petr](https://www.elcomercio.com/actualidad/negocios/petroecuador-decision-campo-amistad.html "Petroecuador tomó una decisión sobre el Campo Amistad")[oecuador tomó una decis](https://www.elcomercio.com/actualidad/negocios/petroecuador-decision-campo-amistad.html "Petroecuador tomó una decisión sobre el Campo Amistad")[ión sobre el Campo Amistad](https://www.elcomercio.com/actualidad/negocios/petroecuador-decision-campo-amistad.html "Petroecuador tomó una decisión sobre el Campo Amistad")
+* [¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?](https://www.elcomercio.com/actualidad/negocios/nueva-propuesta-ley-energia-puede-poner-fin-crisis-energetica.html "¿Nueva propuesta de ley de energía puede poner fin a la crisis energética?")
+
+La ARCH autorizó a la empresa **Pacific Terminal S.A**. la construcción de una terminal marítima para gas natural licuado (GNL). Esta se ubicará en la comuna de **Monteverde**, parroquia **Colonche**, provincia de **Santa Elena**. Esta resolución fue emitida el 8 de octubre de 2024.
+
+La empresa presentó la solicitud de construcción el 5 de septiembre de 2024. Tras un análisis técnico y jurídico, la ARCH concluyó que empresa cumple con todos los requisitos legales y técnicos para realizar el proyecto.
+
+La obra contempla la construcción de un **muelle para la descarga de GNL**. Este incluirá una pasarela de acceso de **630 metros de largo**, una plataforma de maniobras y duques de atraque. Además, se contará con un sistema de almacenamiento flotante para el gas natural.
+
+El proyecto debe ejecutarse en un plazo **máximo de cinco año**s. Pacific Terminal S.A. es responsable de garantizar el cumplimiento de las normativas internacionales de seguridad.
+
+Además, la resolución establece que la empresa deberá contratar compañías especializadas de **trayectoria internacional** para asegurar que el diseño, la construcción y la operación de la terminal cumplan con la norma NFPA 59 A, esta norma regula el manejo, almacenamiento y producción de GNL.
+
+Asimismo, la fiscalización de las distintas etapas del proyecto también la realizan empresas internacionales de reconocido prestigio.
+
+Con esta autorización, Ecuador busca fortalecer su capacidad de **importación y manejo de gas natural**, un recurso clave para la **diversificación energética** del país.
+
+El conflicto universitario se agudiza en Argentina
+==================================================
+
+Cerca de 2 millones de estudiantes acuden a universidades financiadas por el Estado.
+------------------------------------------------------------------------------------
+
+![Fotografía de la entrada de una universidad cerrada durante una huelga este jueves en Buenos Aires (Argentina).](https://www.elcomercio.com/wp-content/uploads/2024/10/buenos-aires-huelga.jpg)
+
+El **conflicto universitario** se agudizó este jueves, 10 de octubre de 2024, en [Argentina](https://www.elcomercio.com/actualidad/mundo/javier-milei-nobel-economia.html "https://www.elcomercio.com/actualidad/mundo/javier-milei-nobel-economia.html") con una huelga de profesores y la **toma de varias facultades** por parte de los estudiantes en repudio al veto presidencial a una ley que buscaba garantizar mayor financiación a la **educación pública superior**.
+
+### Más noticias
+
+* [Argentina no puede salir de Miami por el Huracán Milton](https://www.elcomercio.com/deportes/futbol/seleccion-argentina-huracan-milton-eliminatorias.html "Argentina no puede salir de Miami por el Huracán Milton")
+* [Gobierno de Ecuador firmará contratos con petrolera argentina](https://www.elcomercio.com/actualidad/negocios/ecuador-contratos-petroleo-argentina.html "Gobierno de Ecuador firmará contratos con petrolera  argentina")
+* [Marcha de profesores y alumnos de universidades públicas de Argentina](https://www.elcomercio.com/actualidad/mundo/marcha-profesores-alumnos-universidades-publicas-argentina.html "Marcha de profesores y alumnos de universidades públicas de Argentina")
+
+Este jueves no hubo clases en el medio **centenar de universidades públicas** que hay en Argentina. Esto luego de que en la **víspera el veto del presidente del país**, Javier Milei, quedara en firme tras una votación en la Cámara de Diputados en la que la oposición no logró los votos necesarios para rechazar la decisión del jefe de Estado.
+
+A pesar de que **160 diputados votaron en contra del veto y 85** a favor, se necesitaban dos tercios de las sillas de la **Cámara Baja** para rechazar la medida de Milei y **dejar en firme la ley de financiación** universitaria, hecho al que los sindicatos de profesores reaccionaron con la convocatoria a una huelga este jueves.
+
+“La voluntad popular fue defraudada y la democracia **cedió al manejo antirepublicano** de gobernar por decreto del Gobierno nacional”, expresó en un comunicado el Frente Sindical de Universidades Nacionales, que en las próximas horas decidirá cómo continuar su plan de lucha.
+
+Estudiantes financiados por el Estado
+-------------------------------------
+
+Cerca de 2 millones de estudiantes acuden a universidades financiadas por el Estado, muchos de los cuales han tomado esta semana los edificios de diversas casas de **altos estudios** en distintos puntos del país para reclamar el Gobierno, que ha cuestionado la protesta.
+
+“Es un **delito tomar una universidad** como lo es tomar cualquier edificio. Entendemos que el espacio para discutir los fondos de las universidades es el Presupuesto 2025″, señaló este jueves el portavoz presidencial, Manuel Adorni, quien volvió a defender el veto presidencial.
+
+Ley de financiación universitaria
+---------------------------------
+
+La **ley de financiación universitaria**, aprobada por el **Parlamento el pasado 13 de septiembre**, establecía actualizar los fondos para **gastos de funcionamiento** de las universidades por la variación del índice de inflación, que en agosto se ubicó en el 236,7 % interanual.
+
+Asimismo, ordenaba una **recomposición de los salarios universitarios**, también teniendo en cuenta la inflación.
+
+El pasado 3 de octubre, Milei vetó la norma con el argumento de que su aplicación comprometería el objetivo del equilibrio fiscal buscado por el Gobierno.
+
+“El **equilibrio fiscal** es política de Estado y es inamovible. La rotura de eso implicaría que los argentinos seamos más pobres”, insistió este jueves Adorni.
+
+De acuerdo a cálculos de la Oficina de Presupuesto del Congreso, la ley tendría un impacto presupuestario equivalente al 0,14 del PIB, por lo que la **comunidad universitaria** considera que no afectaba sustancialmente a las cuentas públicas.
+
+El **Consejo Interuniversitario Nacional (CIN)**, que reúne a los rectores de las universidades nacionales argentinas, aseveró en un **comunicado que el 70 % de los salarios de profesores** y personal no docente universitario está por debajo de la **línea de la pobreza** y que los fondos asignados por el Estado no son suficientes para el mantenimiento mínimo de la infraestructura universitaria.
+
+También advirtieron que está en peligro la continuidad de **becas universitarias** y que hay insuficiente inversión en investigación, ciencia y tecnología.
+
+Conoce el estado de las vías en Ecuador para el feriado
+=======================================================
+
+Según datos del Ministerio de Transporte, el 57,58 % de las vías en Ecuador está en condiciones regulares o con precaución.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Menos de la mitad de las vías se encuentran en buen estado para este feriado](https://www.elcomercio.com/wp-content/uploads/2024/10/vias.jpg)
+
+Los ecuatorianos están próximos a disfrutar un **nuevo feriado** entre el viernes 11 y domingo 13 de octubre.
+
+Estos días de **descanso obligatorio** por la independencia de **Guayaquil** forman parte de los 10 asuetos nacionales que tiene el país según la Ley de Feriados.
+
+### Más noticias
+
+* [Sector turístico espera reactivación durante el feriado](https://www.elcomercio.com/actualidad/ecuador/viajeros-turismo-guayaquil-feriado-ecuador.html "Sector turístico espera reactivación durante el feriado")
+* [51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre](https://www.elcomercio.com/actualidad/seguridad/policia-seguridad-operativo-feriado-9-octubre.html "51 544 policías cuidarán la seguridad durante el feriado del 9 de octubre")
+* [En este feriado del 9 de octubre, aprende sobre la independencia de Guayaquil](https://www.elcomercio.com/tendencias/cultura/feriado-octubre-independencia-guayaquil-efemeride.html "En este feriado del 9 de octubre, aprende sobre la independencia de Guayaquil")
+
+Para este feriado, de acuerdo con **Holbach Muñetón**, presidente de la Federación Nacional de Cámaras Provinciales de Turismo del Ecuador (**Fenacaptur**), el sector turístico espera **un millón de viajeros**.
+
+Esta previsión tomó como comparativa las 837 000 personas que viajaron localmente en 2023.
+
+Estado de las vías
+------------------
+
+De acuerdo con el Ministerio de Transporte y Obras Públicas, a penas el **10,50 %** de las vías en el país se encuentran en condiciones ‘**muy buenas**‘.
+
+Mientras que el **31,92 %** de las carreteras tienen un estado ‘bueno’.
+
+Más de la mitad de los 9 858 kilómetros de vías en Ecuador están en situación ‘regular’ (36,66 %) o con ‘circulación bajo precaución’ (20.92 %).
+
+Carreteras con cierres totales y parciales
+------------------------------------------
+
+**Azuay**
+
+* Cuenca – Guarumaeles – Méndez – Macas: parcialmente habilitada en los kilómetros 22, 61, 76
+* Cuenca – Girón – Pasaje – Machala: cerrada en el km 114, sector Vivar
+* Cuenca – Molleturo – Naranjal: parcialmente habilitada en el km 90 El Triunfo
+
+**Bolívar**
+
+* Bolívar – Balzapamba: vía cerrada de 06:00 a 14h00 en el km 50
+
+**Chimborazo**
+
+* Chimborazo – Riobamba – Cuenca: parcialmente habilitada en el sector El Causal
+
+**Manabí**
+
+* Manabí – Jipijapa – Límite: parcialmente habilitada en el km 75
+* Manabí – San José de Chamanga – Pedernales: parcialmente habilitada
+* Manabí – Canuto – Calceta: parcialmente habilitada
+
+**Morona Santiago**
+
+* Morona Santiago – Macas – Puyo: parcialmente habilitada
+* Morona Santiago – Limón – San Juan Bosco: parcialmente habilitada en el km 6
+* Morona Santiago – Bella Unión – Limón: parcialmente habilitada
+* Morona Santiago – Tiwintza – San José de Morona: parcialmente habilitada en el sector Shaime
+* Morona Santiago y de Patuca – Tiwintza: parcialmente habilitada en los kilómetros 53, 68 y 79
+* Morona Santiago – San juan Bosco – Gualaquiza: parcialmente habilitada en el sector de Chone Alto
+* Morona santiago – Gualaquiza – Chiguinda – Sigsig – cuenca: parcialmente habilitada en el sector El Rosario
+* Morona Santiago – Macas – Riobamba: parcialmente habilitada en el sector Tinguichaca
+* Morona Santiago – Puyo – Macas: parcialmente habilitada en el sector de Río Upano
+* Morona Santiago – M{endez – Guarumaeles – Cuenca: parcialmente habilitada en el sector Loma de la Virgen
+
+**Napo**
+
+* Napo – El Chaco – Lago Agrio: parcialmente habilitada
+* Napo – Tena – Baeza: parcialmente habilitada en el sector de la quebrada de Huscahuaico
+
+**Pastaza**
+
+* Pastaza – Tungurahua: parcialmente habilitada en el sector de Río Verde
+
+**Santo Domingo de los Tsáchilas**
+
+* Santo Domingo – vía Valle Hermoso – Cristóbal Colón – Los Bancos: restricción vehicular para vehículos extrapesados
+
+**Tungurahua**
+
+* Tungurahua – Baños – Puyo: parcialmente habilitada
+
+**Zamora Chinchipe**
+
+* Zamora Chinchipe – Zumbi – Dorado – Guayzimi: parcialmente habilitada
+
+> ¡Atendemos tus inquietudes durante el feriado! 📞📲  
+> Si quieres conocer el estado de la Red Vial Estatal, tenemos a tu disposición operadores que atenderán y solventarán tus dudas.  
+> Planifica tu viaje con anticipación. 🚗🚌🛻[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/L12Z9hTlvn](https://t.co/L12Z9hTlvn)
+> 
+> — Ministerio de Transporte y Obras Públicas 🇪🇨 (@ObrasPublicasEc) [October 10, 2024](https://twitter.com/ObrasPublicasEc/status/1844485398384562390?ref_src=twsrc%5Etfw)
+
+Vías habilitadas
+----------------
+
+* Quito – Machachi
+* Quito – Guayllabamba
+* Alóag – Sto. Domingo
+* Pintag – Pifo
+* Pifo – Papallacta
+* Papallacta – Y de Baeza
+* Quito – Calacalí
+* Quito – Cayambe
+* Calacalí – Nanegalito
+* Nanegalito – San Miguel de los Bancos
+* San Miguel de los Bancos – Pedro Vicente Maldonado
+* Puerto Quito – Río Blanco:
+* San Miguel de los Bancos – Las Mercedes
+* Vía Coca – Tena – Y de Narupa
+* San Luis – Túneles de la Hidroeléctrica Coca Codo Sinclair
+* Y de Narupa – Loreto
+* Y de Narupa – y de Y de Baeza
+* Vía Ahuano – Chontapunta
+* Vía Chontapunta – Coca 
+* Tena – Loreto
+* Y de Narupa – Archidona – Tena
+* Tena – Puyo
+* Vía Puerto Napo – Ahuano
+* Joya de los Sachas – Lago Agrio
+* Coca – Joya de los Sachas
+* Coca – Loreto
+* Coca – Dayuma
+
+El reporte de las vías tuvo un corte a las **15:30** de este jueves 10 de octubre.
