@@ -124,7 +124,7 @@ This privacy & cookie policy is not applicable on websites of third parties that
 
 #### **Rights of the data subjects**
 
-In case you have provided us with your personal data, you can send us a request to see, adjust, transfer or delete this personal data. This request can be filed by sending an e-mail to service@objectiveplatform.com.
+In case you have provided us with your personal data, you can send us a request to see, adjust, transfer or delete this personal data. This request can be filed by sending an e-mail to [\[email protected\]](https://www.objectiveplatform.com/cdn-cgi/l/email-protection).
 
 #### **Adjustments of the Privacy & Cookie Policy**
 
@@ -141,7 +141,7 @@ Hopefully our privacy & cookie policy has clarified things for you. In case you 
 Website:  www.objectiveplatform.com  
 Address:  Amsterdam (head office), Kabelweg 57, 1014 BA Amsterdam  
 Telephone: +31(0) 20-22 001 20  
-E-mail: service@objectiveplatform.com
+E-mail: [\[email protected\]](https://www.objectiveplatform.com/cdn-cgi/l/email-protection)
 
 Dutch Chamber of Commerce  
 (_Kamer van Koophandel_) nr.: 61551147
