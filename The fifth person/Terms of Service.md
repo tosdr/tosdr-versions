@@ -210,6 +210,14 @@ Quick Guides
     February 18, 2020
     
 
+* [![Photo of Ahmad Shafi](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of Ahmad Shafi](https://secure.gravatar.com/avatar/2ed4b6108ff100fa0c5ebdc4014802ac?s=70&d=mm&r=g)](https://fifthperson.com/how-to-buy-us-shares-in-malaysia/#comment-676629)
+    
+    [Ahmad Shafi](https://fifthperson.com/how-to-buy-us-shares-in-malaysia/#comment-676629)
+    
+    I am on learning state to know how that I can make money by...
+    
 * [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -289,14 +297,6 @@ Quick Guides
     [DANIEL](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676080)
     
     Darren, thanks for the article. Q1: Can you advise if it's t...
-    
-* [![Photo of Edmund Ng](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Edmund Ng](https://secure.gravatar.com/avatar/6c87c4d2b391399d5eb121b2d3ab7759?s=70&d=mm&r=g)](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/#comment-675833)
-    
-    [Edmund Ng](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/#comment-675833)
-    
-    Like your article " Trusts: A powerful financial planning to...
     
 
 Advertisement
