@@ -384,10 +384,10 @@ If you have any questions about this US State Supplement, you may contact us at:
 
 © 2024 ROOT SPORTS Powered by [OneCMS™ |](https://www.intertechmedia.com/features/one-cms/?utm_source=footer_link&utm_medium=website "OneCMS™.") Served by [InterTech Media LLC](https://www.intertechmedia.com/?utm_source=footer_link&utm_medium=website "Link to InterTech Media Homepage")
 
-1249761668
+2178844858
 
-Mozilla/5.0 (X11; Linux x86\_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6668.70 Safari/537.36 PlayStore-Google
+Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.1925.1096 Mobile Safari/537.36
 
-f9cb307e01c2c4d6968b3e0a1f1c3fedaadb2dad
+b6184186fe5c0c4940f7a85862e2f104e73be90d
 
 1
