@@ -287,7 +287,7 @@ In certain circumstances, you may have the right to:
 * **Right to Access Your Information**: You may request access to the personal information we hold about you; access includes details about your personal information and how it is being processed and a copy of such personal information (commonly known as a “data subject access request”);
 * **Right to Move Your Personal Information**: You may request a copy of your personal information in machine-readable form, and you may have the right to transmit such data to another controller, without hindrance from us.
 
-To exercise one of the above rights, please contact us at the postal address below or by emailing [privacy@tilia.io](mailto:privacy@lindenlab.com).
+To exercise one of the above rights, please contact us at the postal address below or by emailing [\[email protected\]](https://www.tilia.io/cdn-cgi/l/email-protection).
 
 Tilia LLC      
 Attention: Privacy  
@@ -302,7 +302,7 @@ We try to respond to all legitimate requests within the timeframe required by ap
 
 **Account Closure**
 
-You may close your account by contacting us at privacy@tilia.io.  If you choose to close your Tilia account, we may retain information for a limited period for the purposes set out in this Privacy Policy, at all times to the extent permitted at law.
+You may close your account by contacting us at [\[email protected\]](https://www.tilia.io/cdn-cgi/l/email-protection).  If you choose to close your Tilia account, we may retain information for a limited period for the purposes set out in this Privacy Policy, at all times to the extent permitted at law.
 
 **Advertising Choices**
 
@@ -350,7 +350,7 @@ We keep our Privacy Policy and practices under review, and this Policy was last 
 **13\. COMMENTS AND QUESTIONS**
 -------------------------------
 
-If you have a comment or question about this Privacy Policy or our privacy practices, please send an e-mail to privacy@tilia.io or write to us at:
+If you have a comment or question about this Privacy Policy or our privacy practices, please send an e-mail to [\[email protected\]](https://www.tilia.io/cdn-cgi/l/email-protection) or write to us at:
 
 Tilia LLC  
 Attention: Privacy  
