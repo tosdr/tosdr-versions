@@ -45,7 +45,7 @@ We do not collect or maintain information from users we actually know are under 
 ‍  
 **Contact Us  
 ‍  
-**You can always contact us at [via Email](mailto:support@dailybudget.de?subject=Daily%20Budget%20Original%2C%20Privacy).  
+**You can always contact us at [\[email protected\]](https://www.todays-budget.com/cdn-cgi/l/email-protection).  
   
 **Revision History  
 **‍  
@@ -57,7 +57,7 @@ We do not collect or maintain information from users we actually know are under 
 Ruttinger & Kurosawa GbR  
 Fehrbelliner Straße 47  
 10119 Berlin  
-[Email](mailto:support@dailybudget.de)  
+[\[email protected\]](https://www.todays-budget.com/cdn-cgi/l/email-protection)  
 ‍  
   
 
@@ -107,7 +107,7 @@ Wir sammeln oder verwalten keine Informationen von Nutzern, von denen wir wissen
   
 **Kontakt  
 **  
-Sie können uns jederzeit  [per Email kontaktieren.](mailto:support@dailybudget.de?subject=Daily%20Budget%20Original%2C%20Privacy)  
+Sie können uns jederzeit  [\[email protected\]](https://www.todays-budget.com/cdn-cgi/l/email-protection)  
   
 **Versionshistorie  
 **  
@@ -119,7 +119,7 @@ Sie können uns jederzeit  [per Email kontaktieren.](mailto:support@dailybudget
 Ruttinger, Kurosawa GbR  
 Fehrbelliner Str. 47  
 10119 Berlin  
-Email: support@dailybudget.de  
+Email: [\[email protected\]](https://www.todays-budget.com/cdn-cgi/l/email-protection)  
 Tel.: 030 35526274  
   
 **Haftungshinweis:  
