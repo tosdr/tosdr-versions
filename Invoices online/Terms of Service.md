@@ -197,61 +197,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Terri Winfield
+Anri van der Linde
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=49940977)  
-Prosper Park
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=22496415)  
+Know Informatics
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=210106627)  
-Tantra Sound and Lightz
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=63618780)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=143598924)  
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=48931370)  
+NJR ICT Services (Pty) Ltd
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=8768671)  
 Nogana Events and Decor
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=168043678)  
-Lindani Protection Services & Projects
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=1230241)  
+Wiselink Broadband Vryheid
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=12302564)  
-Cpower Projects t/a Pro Pure Water
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=149554556)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=192682263)  
-Kainos (Pty) Ltd
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=149192597)  
+SMART GUY PCS (PTY) LTD
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=114800849)  
-MSPCloud (Pty) Ltd
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=70718821)  
+Lizzy Pop PTY(Ltd)
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=5678733)  
-INVOICES/JOBCARDS ONLINE
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=120796656)  
+APTV Telecoms CC
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=62314684)  
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=153655971)  
+VIR Electrical (PTY) LTD
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=65358670)  
 UMVIKELI PRIVATE SECURITY
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=100171859)  
-VerdanTech Pty Ltd
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=136160043)  
+Calonet
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=205212920)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=102129505)  
+Depot Diesel (Pty) Ltd
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=146063349)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=59882850)  
+PROGRAPHIX PTY LTD
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=161886493)  
-Iurus Inc
-
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=172425029)  
-De light Investments(Pty)Ltd trading as Serene Memorials
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=953f859568609ab7b35b59602e384cd50a4a06caa134245820dd7a5a25758511&c=20276813)  
-Vplay Letsheng Mall
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=94d61c0e406641cd890fe8665092f7ea24d3795c7850d0aa9aa7e97162ceae0a&c=49461315)  
+Multi CNC Solutions CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
