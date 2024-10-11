@@ -164,6 +164,10 @@
 3. [Corporate policies](https://www.ofcom.org.uk/about-ofcom/corporate-policies/)
 4. General Privacy Statement
 
+**HELP US MAKE OFCOM’S WEBSITE BETTER!** 
+
+Share your experience in our [2\-minute survey](https://online1.snapsurveys.com/op0tfg "User Survey 2024") (opens in a new window) 
+
 **General Privacy Statement – How we handle your personal data**
 ================================================================
 
