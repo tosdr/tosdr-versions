@@ -228,7 +228,7 @@ CHOOSE Size
 
 ### [Acai Pulp Facial Scrub](https://www.100percentpure.com/products/acai-pulp-facial-scrub)
 
-842 reviews (842)
+844 reviews (844)
 
 $30.40 $38.00
 
