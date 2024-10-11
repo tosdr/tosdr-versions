@@ -104,7 +104,7 @@ A. TLDR respects the intellectual property of others. Accordingly, TLDR abides b
 ‍  
 B. The following notice requirements are intended to comply with TLDR’s rights and obligations under the DMCA and do not constitute legal advice. To file a notice of infringing material on the Sites, please provide a written notification containing the following details: 1. Reasonably sufficient details to enable us to identify the work claimed to be infringed or, if multiple works are claimed to be infringed, a representative list of such works (for example: title, author, any registration or tracking number, URL); 2. Reasonably sufficient detail to enable us to identify and locate the material that is claimed to be infringing (for example a link to the page that contains the material); 3. Your contact information so that we can contact you (for example, your address, telephone number, email address); 4. A statement that you have a good faith belief that the use of the material identified in 2. (above) is not authorized by the copyright owner, its agent, or the law; 5. A statement, under penalty of perjury, that the information in the notification is accurate and that you are authorized to act on behalf of the owner of the exclusive right that is alleged to be infringed, and 6. Your physical or electronic signature.  
 ‍  
-Please send the above notice to TLDR by e-Mail To:Jim@tldrlegal.com  
+Please send the above notice to TLDR by e-Mail To:[\[email protected\]](https://www.tldrlegal.com/cdn-cgi/l/email-protection)  
 ‍  
 **X. General Terms.**  
   
