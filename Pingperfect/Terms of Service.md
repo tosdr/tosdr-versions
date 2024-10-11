@@ -75,36 +75,3 @@ Home
 =============
 
 ##### Click me!](https://pingperfect.com/index.php/knowledgebase)
-
-#### PINGPERFECT
-
-* [Blog](https://blog.pingperfect.com/)
-* [About us](https://pingperfect.com/aboutus)
-* [Contact us](https://pingperfect.com/contact-us)
-* [Careers](https://pingperfect.com/careers)
-* [Terms & Conditions](https://pingperfect.com/terms_conditions)
-* [Privacy policy](https://pingperfect.com/privacy)
-
-#### partners
-
-* [Game Developers](https://pingperfect.com/game_developers)
-* [Content Creators](https://pingperfect.com/content_creators)
-* [Affiliate Program](https://pingperfect.com/affil)
-
-#### Gameservers
-
-* [Gameservers](https://pingperfect.com/game)
-* [Dedicated Servers](https://pingperfect.com/dedicated-servers)
-* [VPS - Windows](https://pingperfect.com/index.php/store/windows-vps)
-* [VPS - Linux](https://pingperfect.com/index.php/store/linux-vps)
-* [Web Hosting](https://pingperfect.com/web_hosting)
-* [Voice Servers](https://pingperfect.com/voice)
-
-#### support
-
-* [Submit a Ticket](https://pingperfect.com/submitticket.php?step=2&deptid=2)
-* [email us](mailto: support@pingperfect.com)
-* [Knowledgebase](https://pingperfect.com/index.php/knowledgebase)
-* [FAQ](https://pingperfect.com/faqs)
-
-© Copyright 2013 - 2024 |[PINGPERFECT](https://pingperfect.com/)| All Rights Reserved
