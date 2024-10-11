@@ -121,7 +121,7 @@ We use personal data as necessary for the facilitation and performance of our Se
 
 ‍
 
-If you reside or are using the Services in a territory governed by privacy laws under which "consent" is the only or most appropriate legal basis for the processing of personal data (in general, or specifically with respect to the types of personal data you expect or elect to process or have processed by or via the Services, e.g. ‘special categories’ under the GDPR), your acceptance of our Privacy Notice and this Privacy Policy will be deemed as your consent to the processing of your personal data for all purposes detailed in this Policy. If you wish to revoke your consent, please contact us at [privacy@pymetrics.com](mailto:privacy@pymetrics.com)
+If you reside or are using the Services in a territory governed by privacy laws under which "consent" is the only or most appropriate legal basis for the processing of personal data (in general, or specifically with respect to the types of personal data you expect or elect to process or have processed by or via the Services, e.g. ‘special categories’ under the GDPR), your acceptance of our Privacy Notice and this Privacy Policy will be deemed as your consent to the processing of your personal data for all purposes detailed in this Policy. If you wish to revoke your consent, please contact us at [\[email protected\]](https://www.pymetrics.ai/cdn-cgi/l/email-protection)
 
 ‍
 
@@ -154,7 +154,7 @@ Specifically, we use personal data for the following purposes:
 
 ‍
 
-Please note that except as required by applicable law or our specific agreements with you, we will not be obligated to retain your personal data for any particular period, and we are free to securely delete it or restrict access to it for any reason and at any time, with or without notice to you. If you have any questions about our data retention policy, please contact us by e-mail at [privacy@pymetrics.com](mailto:privacy@pymetrics.com)
+Please note that except as required by applicable law or our specific agreements with you, we will not be obligated to retain your personal data for any particular period, and we are free to securely delete it or restrict access to it for any reason and at any time, with or without notice to you. If you have any questions about our data retention policy, please contact us by e-mail at [\[email protected\]](https://www.pymetrics.ai/cdn-cgi/l/email-protection)
 
 ‍
 
@@ -224,7 +224,7 @@ Please note that if you get a new computer or device, install a new browser, era
 
 ‍
 
-**If you do not wish to receive such promotional communications, you can notify us at any time by writing to** [**privacy@pymetrics.com**](mailto:privacy@pymetrics.com)**, or by following the “unsubscribe”, “stop”, “opt-out” or “change e-mail preferences” instructions contained in the promotional communications you receive.**
+**If you do not wish to receive such promotional communications, you can notify us at any time by writing to** [\[email protected\]](https://www.pymetrics.ai/cdn-cgi/l/email-protection)**, or by following the “unsubscribe”, “stop”, “opt-out” or “change e-mail preferences” instructions contained in the promotional communications you receive.**
 
 ‍
 
@@ -240,7 +240,7 @@ We and our hosting services implement systems, applications and procedures to se
 
 ‍
 
-Individuals have rights concerning their Personal Data. If you wish to exercise your privacy rights under any applicable law, including the EU General Data Protection Regulation (“GDPR”) or the California Consumer Privacy Act (“CCPA)”, such as the right to request access to, and rectification or erasure of your Personal Data held by pymetrics, or to restrict or object to your Personal Data’s processing, or to exercise your rights to portability with respect to your Personal Data or your right to equal services and prices (each to the extent available to you under the laws which apply to you) – please contact us at: [privacy@pymetrics.com](mailto:privacy@pymetrics.com).  
+Individuals have rights concerning their Personal Data. If you wish to exercise your privacy rights under any applicable law, including the EU General Data Protection Regulation (“GDPR”) or the California Consumer Privacy Act (“CCPA)”, such as the right to request access to, and rectification or erasure of your Personal Data held by pymetrics, or to restrict or object to your Personal Data’s processing, or to exercise your rights to portability with respect to your Personal Data or your right to equal services and prices (each to the extent available to you under the laws which apply to you) – please contact us at: [\[email protected\]](https://www.pymetrics.ai/cdn-cgi/l/email-protection).  
 
 ‍
 
@@ -284,23 +284,23 @@ Certain data protection laws and regulations, such as the GDPR or the CCPA, typi
 
 ‍
 
-**Our Services are not designed to be used by children under the age of 18:** We do not knowingly collect personal data from children and do not wish to do so. If we learn that a person under the age of 18 is using the Services, we will attempt to prohibit and block such use and will make our best efforts to promptly delete any personal data stored with us with regard to such child. If you believe that we might have any such data, please contact us by e-mail at [privacy@pymetrics.com](mailto:privacy@pymetrics.com)
+**Our Services are not designed to be used by children under the age of 18:** We do not knowingly collect personal data from children and do not wish to do so. If we learn that a person under the age of 18 is using the Services, we will attempt to prohibit and block such use and will make our best efforts to promptly delete any personal data stored with us with regard to such child. If you believe that we might have any such data, please contact us by e-mail at [\[email protected\]](https://www.pymetrics.ai/cdn-cgi/l/email-protection)
 
 ‍
 
-**Data Protection Officer:** pymetrics has appointed [PrivacyTeam](https://www.privacyteam.com/) as our Data Protection Officer (“DPO”), for monitoring and advising on pymetrics's ongoing privacy compliance and serving as a point of contact on privacy matters for data subjects and supervisory authorities. If you have any comments or questions regarding our Privacy Policy, if you have any concerns regarding your privacy, or if you wish to make a complaint about how your personal data is being processed by pymetrics, please contact our DPO at [dpo@pymetrics.com](mailto:dpo@pymetrics.com)
+**Data Protection Officer:** pymetrics has appointed [PrivacyTeam](https://www.privacyteam.com/) as our Data Protection Officer (“DPO”), for monitoring and advising on pymetrics's ongoing privacy compliance and serving as a point of contact on privacy matters for data subjects and supervisory authorities. If you have any comments or questions regarding our Privacy Policy, if you have any concerns regarding your privacy, or if you wish to make a complaint about how your personal data is being processed by pymetrics, please contact our DPO at [\[email protected\]](https://www.pymetrics.ai/cdn-cgi/l/email-protection)
 
 ‍
 
-**EU Representative:** Dr. Andreas Mätzler of Prighter has been designated as pymetrics’s representative in the European Union for data protection matters pursuant to Article 27 of the GDPR. Prighter may be contacted only on matters related to the processing of personal data of individuals in the EU. To make such an inquiry, please send an email to [privacy@pymetrics.com](mailto:privacy@pymetrics.com) or contact Prighter by post at: Prighter (Atten:pymetrics), Schellinggasse 3/10, Vienna 1010, Austria. If you are a GDPR-protected individual, you also have the right to lodge a complaint with an EU supervisory authority.
+**EU Representative:** Dr. Andreas Mätzler of Prighter has been designated as pymetrics’s representative in the European Union for data protection matters pursuant to Article 27 of the GDPR. Prighter may be contacted only on matters related to the processing of personal data of individuals in the EU. To make such an inquiry, please send an email to [\[email protected\]](https://www.pymetrics.ai/cdn-cgi/l/email-protection) or contact Prighter by post at: Prighter (Atten:pymetrics), Schellinggasse 3/10, Vienna 1010, Austria. If you are a GDPR-protected individual, you also have the right to lodge a complaint with an EU supervisory authority.
 
 ‍
 
-**UK Representative:** pymetrics UK Ltd. has been designated as pymetrics’s representative in the United Kingdom for data protection matters pursuant to Article 27 of the UK GDPR. pymetrics UK may be contacted only on matters related to the processing of personal data of individuals in the UK. To make such an inquiry, please send an email to [privacy@pymetrics.com](mailto:privacy@pymetrics.com) or contact pymetrics UK by post at: Whitefriars (Floor 11), Lewins Mead, BS1 2NT, Bristol, United Kingdom. If you are situated in the UK, you also have the right to lodge a complaint with the Information Commissioner’s Office.
+**UK Representative:** pymetrics UK Ltd. has been designated as pymetrics’s representative in the United Kingdom for data protection matters pursuant to Article 27 of the UK GDPR. pymetrics UK may be contacted only on matters related to the processing of personal data of individuals in the UK. To make such an inquiry, please send an email to [\[email protected\]](https://www.pymetrics.ai/cdn-cgi/l/email-protection) or contact pymetrics UK by post at: Whitefriars (Floor 11), Lewins Mead, BS1 2NT, Bristol, United Kingdom. If you are situated in the UK, you also have the right to lodge a complaint with the Information Commissioner’s Office.
 
 ‍
 
-**Questions, concerns or complaints**: If you have any comments or questions regarding our Privacy Policy, or if you have any concerns regarding your personal data held with us, please contact us at: [privacy@pymetrics.com](mailto:privacy@pymetrics.com?subject=privacy%40pymetrics.com)
+**Questions, concerns or complaints**: If you have any comments or questions regarding our Privacy Policy, or if you have any concerns regarding your personal data held with us, please contact us at: [\[email protected\]](https://www.pymetrics.ai/cdn-cgi/l/email-protection)
 
   
 
