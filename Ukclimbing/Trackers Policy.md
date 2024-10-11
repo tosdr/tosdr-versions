@@ -5,7 +5,7 @@
 UKC
 ===](https://www.ukclimbing.com/ "Go to homepage")Toggle navigation[](https://www.ukclimbing.com/user/)
 
-[![Advert](https://img.ukclimbing.com/ads/i/12102.jpg?fm=jpg&time=1726839936&w=728&s=9c7e3e9208706280e0742abacb45e51f)](https://advertising.ukclimbing.com/click.php?id=12102&uri=4)
+[![Advert](https://img.ukclimbing.com/ads/i/11922.jpg?fm=jpg&time=1710423635&w=728&s=b565dec6f5a34fb875312c8d813f67ee)](https://advertising.ukclimbing.com/click.php?id=11922&uri=4)
 
 Menu Toggle navigation Toggle navigation Toggle navigation Toggle navigation
 
