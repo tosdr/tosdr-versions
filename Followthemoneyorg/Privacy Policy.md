@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Who gave to Jeb Bush's gubernatorial campaigns?](/assets/Images/teasers/small/JebBushIndNonInd98-02.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-jeb-bush/)
+[![Successful challengers vs. losing incumbents in the US House](/assets/Uploads/cfi1.png)](https://www.followthemoney.org/research/blog/massive-amounts-were-spent-by-the-candidates-and-independent-spenders-in-the-races-that-decided-the-2018-midterms)
 
-Jeb Bush: 55 percent of his gubernatorial contributions came from individuals.
+Successful challengers vs. losing incumbents in the US House of Representatives, 2006-2018.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
