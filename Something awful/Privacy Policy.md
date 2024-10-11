@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Cheerleader Autopsy](https://www.somethingawful.com/movie-reviews/cheerleader-autopsy/1/)
-* [Choose Your Own Adventure Books That Never Quite Made It](https://www.somethingawful.com/comedy-goldmine/choose-your-own/1/)
-* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [Watchmen Funnies](https://www.somethingawful.com/photoshop-phriday/watchmen-funnies/1/)
+* [Animal Anomalies](https://www.somethingawful.com/photoshop-phriday/animal-anomalies/1/)
+* [Making Anime](https://www.somethingawful.com/guides/guide-making-anime/1/)
+* [Goon on Girl Action](https://www.somethingawful.com/great-goon-database/great-goon-girls/1/)
+* [Wool Fetish SWAT](https://www.somethingawful.com/fashion-swat/wool-swat-german/1/)
+* [Choose Your Own Adventure: Quest for Mtn Dew](https://www.somethingawful.com/news/choose-dew/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Thread for going down a mineshaft in Cripple Creek and dying](http://forums.somethingawful.com/showthread.php?threadid=4072421 "Thread for going down a mineshaft in Cripple Creek and dying")
-* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Thread for fooling AI](http://forums.somethingawful.com/showthread.php?threadid=4072390 "Thread for fooling AI")
 * ![](https://fi.somethingawful.com/forums/posticons/lan-europe.gif) [things people think are specific to where they live but arent](http://forums.somethingawful.com/showthread.php?threadid=4072393 "things people think are specific to where they live but arent")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Thread for fooling AI](http://forums.somethingawful.com/showthread.php?threadid=4072390 "Thread for fooling AI")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Thread for going down a mineshaft in Cripple Creek and dying](http://forums.somethingawful.com/showthread.php?threadid=4072421 "Thread for going down a mineshaft in Cripple Creek and dying")
 
 ### Random Articles
 
-* [Bring Your Own Bear! (And Pig!)](https://www.somethingawful.com/comedy-goldmine/byob-bears-pigs/1/)
-* [An Unofficial Victory Video: "Barack Obama: The Triumph of the Hope"](https://www.somethingawful.com/news/obama-triumph-hope/)
-* [I Hate You Page 145](https://www.somethingawful.com/cliff-yablonski/i-hate-you-145/)
-* [Fifty More Hours Of Star Wars](https://www.somethingawful.com/news/star-wars-television/)
-* [NORAD Tracks Santa 2005](https://www.somethingawful.com/awful-links/awful-link-3455/)
+* [Study: Participation Awards to Blame for Most Things](https://www.somethingawful.com/news/participation-award-crisis/)
+* [Haunted House Ride](https://www.somethingawful.com/news/haunted-house-ride/)
+* [Internet Guide Presents Tonight's Programming Schedule](https://www.somethingawful.com/news/site-guide-google/)
+* [Library of Moria](https://www.somethingawful.com/awful-links/awful-link-2514/)
+* [Let's Carve Virtual Pumpkins!](https://www.somethingawful.com/photoshop-phriday/carve-virtual-pumpkins/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
