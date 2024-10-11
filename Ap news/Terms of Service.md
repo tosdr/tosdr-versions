@@ -12,7 +12,7 @@ Menu
     
     TOP STORIES
     
-    * [Israel's deadliest strike in central Beirut leaves Lebanese stunned as they dig through the rubble](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
+    * [In separate strikes, Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
     * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
     * [North Korea accuses South Korea of flying drones to its capital and threatens to attack next time](https://apnews.com/article/north-korea-south-drones-attack-threat-border-d1b2e42665fba63dbf4cf2f36a96f5f5)
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Residents repair their homes and clean up after Hurricane Milton tore through Florida](https://apnews.com/article/hurricane-milton-florida-7f60bbe9c6295f2ebef077eca2c1b4e1)
-    * [Hurricane Milton spawned high number of destructive, deadly tornadoes](https://apnews.com/article/hurricane-tornadoes-florida-deaths-climate-change-oceans-f197c258022c189c6ce8bc59dc88223e)
-    * [What to know about Hurricane Milton after it slammed Florida's Gulf Coast](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
+    * [Residents slog through flooded streets, pick up debris after Hurricane Milton tore through Florida](https://apnews.com/article/hurricane-milton-florida-7f60bbe9c6295f2ebef077eca2c1b4e1)
+    * [What's behind the northern lights that dazzled the sky farther south than normal](https://apnews.com/article/aurora-northern-lights-solar-storm-geomagnetic-19418e36587141b83fbba7a4f0d7b474)
+    * [Abortion has passed inflation as the top election issue for women under 30, survey finds](https://apnews.com/article/younger-women-abortion-survey-c8c504a7b9b5a92b4c101a57a3e3a4dc)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [Back-to-back hurricanes reshape 2024 campaign’s final stretch](https://apnews.com/article/harris-trump-biden-helene-milton-hurricane-fema-f1bf69434656bd693daf316db3842fac)
     * [Harris was asked to name a few of Trump's virtues. Here's her response](https://apnews.com/article/harris-trump-virtues-univision-aa072d5a209d022583fc4702ae9ca93c)
-    * [Harris rips Trump for his criticism of federal storm response and calls for 'dignity'](https://apnews.com/article/trump-harris-nevada-michigan-hispanic-voters-milton-2a9db630d1318e78de91efd2df5a16f0)
-    * ['The View' co-hosts come out swinging at Donald Trump a day after he insulted them](https://apnews.com/article/abc-view-trump-hostin-whoopi-goldberg-9d739646662f8e59e1002f0aa419975a)
+    * [Obama urges Black men to show up for Harris as he campaigns in critical Pennsylvania](https://apnews.com/article/obama-harris-trump-2024-election-d9874edf5ae646bf632dc463bcee3625)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Trump heads to Colorado to drive his anti-immigration message](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70)
     * [Harris viewed more positively by Hispanic women than by Hispanic men: AP-NORC poll](https://apnews.com/article/hispanic-latino-voters-harris-trump-toughness-economy-d42696a973e0988aed41bab2a46bb4cc)
     * [The drownings of 2 Navy SEALs were preventable, military investigation finds](https://apnews.com/article/navy-seal-deaths-investigation-training-failures-78e138486050c9748fc3724347ed230f)
-    * [Back-to-back hurricanes reshape 2024 campaign’s final stretch](https://apnews.com/article/harris-trump-biden-helene-milton-hurricane-fema-f1bf69434656bd693daf316db3842fac)
     
     Newsletters
     
@@ -92,9 +92,9 @@ Menu
     
     TOP STORIES
     
-    * [Gerrit Cole tosses playoff gem, shutting down Royals and sending Yankees back to ALCS with 3-1 win](https://apnews.com/article/mlb-playoffs-yankees-royals-238cb93d771ddb975e59f58dfee11839)
     * [Dodgers will start Yamamoto against San Diego's Darvish in winner-take-all Game 5 of NLDS](https://apnews.com/article/mlb-playoffs-padres-dodgers-445b67be07a46a61051ab1627582f575)
-    * [Brock Purdy throws for 3 TDs and the 49ers beat the Seahawks 36-24 to move atop division](https://apnews.com/article/49ers-seahawks-score-ab474b05d9b999b75bb44f1bc91d4275)
+    * [Sons of Duke standout Carlos Boozer following father's footsteps to the Blue Devils](https://apnews.com/article/duke-cameron-cayden-boozer-c05e446831fe80b02e28946991a91cfc)
+    * [Analysis: Some quarterbacks just need a second chance, or third or fourth](https://apnews.com/article/sam-darnold-vikings-mayfield-2529ce97334c62ec07cfbf38d99eef00)
     
     Newsletters
     
@@ -114,9 +114,9 @@ Menu
     
     TOP STORIES
     
-    * ['The View' co-hosts come out swinging at Donald Trump a day after he insulted them](https://apnews.com/article/abc-view-trump-hostin-whoopi-goldberg-9d739646662f8e59e1002f0aa419975a)
-    * [Jeremy Strong and Sebastian Stan know the risks with 'The Apprentice'](https://apnews.com/article/sebastian-stan-jeremy-strong-apprentice-trump-movie-a934657204f52a3c5a372d20c06fa0db)
-    * [Nobuyo Oyama, voice actor for beloved Japanese cartoon robotic cat Doraemon, dies at age 90](https://apnews.com/article/japan-doraemon-voice-actor-manga-obit-bc30a07500453c78a854339ba1d49667)
+    * [Austin Stowell is emotional about playing stoic Jethro Gibbs in 'NCIS: Origins'](https://apnews.com/article/ncis-austin-stowell-gibbs-interview-2273dad6a6589ff82096536ca2e11f98)
+    * [Music Review: Charli XCX’s 'Brat and it’s completely different but also still brat' remixes, ranked](https://apnews.com/article/charli-xcx-billie-eilish-lorde-troye-sivan-bon-iver-music-review-ranking-1470dd5f05aa8a412a08e5565611f941)
+    * [The making of 'The Apprentice,' in their words](https://apnews.com/article/sebastian-stan-donald-trump-apprentice-jeremy-strong-faf59cdd1c4e80bb8e97f7bea0b940fc)
     
 * [Business](https://apnews.com/business)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [Wholesale inflation remained cool last month in latest sign that price pressures are slowing](https://apnews.com/article/inflation-wholesale-prices-consumer-federal-reserve-rates-a551afcffbb495e5a302d5c847562df6)
     * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
-    * [JPMorgan net income falls as bank sets aside more money to cover potential bad loans](https://apnews.com/article/jpmorgan-earnings-bank-interest-loans-faec1fdd73f911ac70e9e659f852c603)
-    * [AI is having its Nobel moment. Do scientists need the tech industry to sustain it?](https://apnews.com/article/ai-nobel-prizes-physics-chemistry-google-deepmind-hinton-cb963de3b4235f28f8c95ca9080830f6)
+    * [JPMorgan sets aside more money for potential bad loans but says consumers are on 'solid footing'](https://apnews.com/article/jpmorgan-earnings-bank-interest-loans-faec1fdd73f911ac70e9e659f852c603)
     
 * [Science](https://apnews.com/science)
     
@@ -230,13 +230,13 @@ Menu
     
     SECTIONS
     
-    [Climate Questions](https://apnews.com/hub/climate-questions) [Climate Migration](https://apnews.com/hub/climate-migration) [India Focus](https://apnews.com/hub/india-climate)
+    [**Indigenous peoples and climate**](https://apnews.com/climate-and-environment/indigenous-peoples-adapting-to-and-combatting-climate-change) [Climate Questions](https://apnews.com/hub/climate-questions) [Climate Migration](https://apnews.com/hub/climate-migration) [India Focus](https://apnews.com/hub/india-climate)
     
     TOP STORIES
     
+    * [Climate change gave significant boost to Milton's destructive rain, winds, scientists say](https://apnews.com/article/hurricane-milton-climate-change-greenhouse-gases-fossil-fuels-aa1c971c228feb9da6f36fb9cc46ee81)
     * [Colombia’s river guardians battle to protect the Atrato amid threats and abandonment](https://apnews.com/article/atrato-guardians-illegal-mining-contamination-threats-choco-977ad1e171715b8f7fb20a8ac6b9e149)
     * [Milton by the numbers: At least 5 dead, at least 12 tornadoes, 3.4M without power](https://apnews.com/article/hurricane-milton-florida-rainfall-numbers-tornadoes-fe7789ee03c910dd1ea25772eff4be8b)
-    * [Powerful Hurricane Milton destroys homes, shreds stadium roofs apart](https://apnews.com/article/hurricane-milton-climate-photos-f518b0d58817dcca0bf202dc54706d6f)
     
 * [Health](https://apnews.com/health)
     
@@ -269,15 +269,15 @@ Menu
     
     TOP STORIES
     
+    * [United Airlines adding 8 new international destinations to itinerary for next summer](https://apnews.com/article/united-italy-spain-tokyo-portugal-mongolia-7d03ed93152cee47f58944f26f7dc0af)
     * [Disney World and other Orlando parks to reopen Friday after Hurricane Milton shutdown](https://apnews.com/article/disney-world-milton-universal-seaworld-reopening-c6393375c33b89e9041faa203784985f)
     * [Hurricane Milton has caused thousands of flight cancellations, is yours one of them? What to know](https://apnews.com/article/hurricane-milton-flight-canceled-what-to-do-a23264e3e504ff55d7ebdf2576626a81)
-    * [How to help people affected by Hurricane Milton](https://apnews.com/article/hurricane-milton-how-to-help-disaster-donations-84fafa916b4e473d29a82cfadb1b6d60)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Ukraine's Zelenskyy meets Pope Francis as he continues his European tour to push his 'victory plan'](https://apnews.com/article/pope-zelenskyy-russia-ukraine-scholz-a8d440a7c78a32a22d449743338dd0c2)
+    * [Zelenskyy appeals to allies to keep up aid as Germany pledges new weapons package](https://apnews.com/article/pope-zelenskyy-russia-ukraine-scholz-a8d440a7c78a32a22d449743338dd0c2)
     * [AP PHOTOS: Performers bring Hindu gods to life in the Ramleela](https://apnews.com/article/india-festival-ramleela-dussehra-hindu-gods-1571d00214a0bb7c6027f674ec646c92)
     * [Ethel Kennedy, social activist and wife of Robert F. Kennedy, has died](https://apnews.com/article/ethel-kennedy-dies-00eb88951db24e0cada9bd48b66ad8ea)
     
@@ -293,12 +293,12 @@ Menu
     
     TOP STORIES
     
-    * [El ataque israelí más letal en Beirut deja a libaneses atónitos mientras buscan entre los escombros](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
+    * [Misión de ONU en Líbano afirma que nuevas explosiones en su base hieren a 2 dos cascos azules](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
     * [Migración por el Darién vuelve a crecer en septiembre apuntalada por venezolanos tras elecciones](https://apnews.com/world-news/general-news-8e6a12a73c4179908d301feb65972c19)
     * [El hacinamiento agobia al sistema penitenciario de Paraguay: así viven los presos de cinco cárceles](https://apnews.com/world-news/general-news-3e27caa14f734f0d5a0b727d6ed90e00)
     * [Nobel de la Paz reconoce a asociación japonesa de sobrevivientes de bombas atómicas Nihon Hidankyo](https://apnews.com/world-news/general-news-ee302667bd71e111e4c86f1a6e5f8d47)
     * [Rusia lanza su cuarto ataque aéreo en una semana contra Odesa, región exportadora clave de Ucrania](https://apnews.com/world-news/general-news-14245b6fe48fafbc914dfe3a4d628c62)
-    * [Un buque cargado de petróleo se incendia ante la costa de Alemania](https://apnews.com/world-news/general-news-77ffacef10ccd3af094633f1af401842)
+    * [Kenia y Haití instan a socios internacionales a cumplir compromisos con misión de paz](https://apnews.com/world-news/general-news-6e0767b00c63b1a493fb77a2156218a7)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
@@ -395,6 +395,7 @@ Menu
         
     * [Climate](https://apnews.com/climate-and-environment)
         
+        * [**Indigenous peoples and climate**](https://apnews.com/climate-and-environment/indigenous-peoples-adapting-to-and-combatting-climate-change)
         * [Climate Questions](https://apnews.com/hub/climate-questions)
         * [Climate Migration](https://apnews.com/hub/climate-migration)
         * [India Focus](https://apnews.com/hub/india-climate)
@@ -457,7 +458,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Israel's deadliest strike in central Beirut leaves Lebanese stunned as they dig through the rubble](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
+    * [In separate strikes, Israeli forces kill 2 Lebanese soldiers and injure 2 UN peacekeepers](https://apnews.com/article/srael-palestinians-hamas-war-lebanon-hezbollah-11-10-2024-9dd58a9fea9c2de963edbc31ba90bb1a)
     * [Israel's airstrike warnings terrify and confuse Lebanese civilians](https://apnews.com/article/israel-lebanon-hezbollah-evacuation-warnings-war-d131e6f7043623bc109eab768decc2a1)
     * [North Korea accuses South Korea of flying drones to its capital and threatens to attack next time](https://apnews.com/article/north-korea-south-drones-attack-threat-border-d1b2e42665fba63dbf4cf2f36a96f5f5)
     
@@ -475,9 +476,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Residents repair their homes and clean up after Hurricane Milton tore through Florida](https://apnews.com/article/hurricane-milton-florida-7f60bbe9c6295f2ebef077eca2c1b4e1)
-    * [Hurricane Milton spawned high number of destructive, deadly tornadoes](https://apnews.com/article/hurricane-tornadoes-florida-deaths-climate-change-oceans-f197c258022c189c6ce8bc59dc88223e)
-    * [What to know about Hurricane Milton after it slammed Florida's Gulf Coast](https://apnews.com/article/milton-florida-hurricane-d40b1e47fd78844bf1ed528bab5099f1)
+    * [Residents slog through flooded streets, pick up debris after Hurricane Milton tore through Florida](https://apnews.com/article/hurricane-milton-florida-7f60bbe9c6295f2ebef077eca2c1b4e1)
+    * [What's behind the northern lights that dazzled the sky farther south than normal](https://apnews.com/article/aurora-northern-lights-solar-storm-geomagnetic-19418e36587141b83fbba7a4f0d7b474)
+    * [Abortion has passed inflation as the top election issue for women under 30, survey finds](https://apnews.com/article/younger-women-abortion-survey-c8c504a7b9b5a92b4c101a57a3e3a4dc)
     
     Newsletters
     
@@ -503,9 +504,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Back-to-back hurricanes reshape 2024 campaign’s final stretch](https://apnews.com/article/harris-trump-biden-helene-milton-hurricane-fema-f1bf69434656bd693daf316db3842fac)
     * [Harris was asked to name a few of Trump's virtues. Here's her response](https://apnews.com/article/harris-trump-virtues-univision-aa072d5a209d022583fc4702ae9ca93c)
-    * [Harris rips Trump for his criticism of federal storm response and calls for 'dignity'](https://apnews.com/article/trump-harris-nevada-michigan-hispanic-voters-milton-2a9db630d1318e78de91efd2df5a16f0)
-    * ['The View' co-hosts come out swinging at Donald Trump a day after he insulted them](https://apnews.com/article/abc-view-trump-hostin-whoopi-goldberg-9d739646662f8e59e1002f0aa419975a)
+    * [Obama urges Black men to show up for Harris as he campaigns in critical Pennsylvania](https://apnews.com/article/obama-harris-trump-2024-election-d9874edf5ae646bf632dc463bcee3625)
     
     Newsletters
     
@@ -528,9 +529,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Trump heads to Colorado to drive his anti-immigration message](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70)
     * [Harris viewed more positively by Hispanic women than by Hispanic men: AP-NORC poll](https://apnews.com/article/hispanic-latino-voters-harris-trump-toughness-economy-d42696a973e0988aed41bab2a46bb4cc)
     * [The drownings of 2 Navy SEALs were preventable, military investigation finds](https://apnews.com/article/navy-seal-deaths-investigation-training-failures-78e138486050c9748fc3724347ed230f)
-    * [Back-to-back hurricanes reshape 2024 campaign’s final stretch](https://apnews.com/article/harris-trump-biden-helene-milton-hurricane-fema-f1bf69434656bd693daf316db3842fac)
     
     Newsletters
     
@@ -558,9 +559,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Gerrit Cole tosses playoff gem, shutting down Royals and sending Yankees back to ALCS with 3-1 win](https://apnews.com/article/mlb-playoffs-yankees-royals-238cb93d771ddb975e59f58dfee11839)
     * [Dodgers will start Yamamoto against San Diego's Darvish in winner-take-all Game 5 of NLDS](https://apnews.com/article/mlb-playoffs-padres-dodgers-445b67be07a46a61051ab1627582f575)
-    * [Brock Purdy throws for 3 TDs and the 49ers beat the Seahawks 36-24 to move atop division](https://apnews.com/article/49ers-seahawks-score-ab474b05d9b999b75bb44f1bc91d4275)
+    * [Sons of Duke standout Carlos Boozer following father's footsteps to the Blue Devils](https://apnews.com/article/duke-cameron-cayden-boozer-c05e446831fe80b02e28946991a91cfc)
+    * [Analysis: Some quarterbacks just need a second chance, or third or fourth](https://apnews.com/article/sam-darnold-vikings-mayfield-2529ce97334c62ec07cfbf38d99eef00)
     
     Newsletters
     
@@ -587,9 +588,9 @@ Submit Search
     
     TOP STORIES
     
-    * ['The View' co-hosts come out swinging at Donald Trump a day after he insulted them](https://apnews.com/article/abc-view-trump-hostin-whoopi-goldberg-9d739646662f8e59e1002f0aa419975a)
-    * [Jeremy Strong and Sebastian Stan know the risks with 'The Apprentice'](https://apnews.com/article/sebastian-stan-jeremy-strong-apprentice-trump-movie-a934657204f52a3c5a372d20c06fa0db)
-    * [Nobuyo Oyama, voice actor for beloved Japanese cartoon robotic cat Doraemon, dies at age 90](https://apnews.com/article/japan-doraemon-voice-actor-manga-obit-bc30a07500453c78a854339ba1d49667)
+    * [Austin Stowell is emotional about playing stoic Jethro Gibbs in 'NCIS: Origins'](https://apnews.com/article/ncis-austin-stowell-gibbs-interview-2273dad6a6589ff82096536ca2e11f98)
+    * [Music Review: Charli XCX’s 'Brat and it’s completely different but also still brat' remixes, ranked](https://apnews.com/article/charli-xcx-billie-eilish-lorde-troye-sivan-bon-iver-music-review-ranking-1470dd5f05aa8a412a08e5565611f941)
+    * [The making of 'The Apprentice,' in their words](https://apnews.com/article/sebastian-stan-donald-trump-apprentice-jeremy-strong-faf59cdd1c4e80bb8e97f7bea0b940fc)
     
 * [Business](https://apnews.com/business)
     
@@ -603,9 +604,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Wholesale inflation remained cool last month in latest sign that price pressures are slowing](https://apnews.com/article/inflation-wholesale-prices-consumer-federal-reserve-rates-a551afcffbb495e5a302d5c847562df6)
     * [Elon Musk unveils Tesla's 'Cybercab,' plans to bring autonomous driving tech to other models in 2025](https://apnews.com/article/elon-musk-tesla-robotaxi-unveiling-a00d063f2ffc67125889a6635a0a607e)
-    * [JPMorgan net income falls as bank sets aside more money to cover potential bad loans](https://apnews.com/article/jpmorgan-earnings-bank-interest-loans-faec1fdd73f911ac70e9e659f852c603)
-    * [AI is having its Nobel moment. Do scientists need the tech industry to sustain it?](https://apnews.com/article/ai-nobel-prizes-physics-chemistry-google-deepmind-hinton-cb963de3b4235f28f8c95ca9080830f6)
+    * [JPMorgan sets aside more money for potential bad loans but says consumers are on 'solid footing'](https://apnews.com/article/jpmorgan-earnings-bank-interest-loans-faec1fdd73f911ac70e9e659f852c603)
     
 * [Science](https://apnews.com/science)
     
@@ -715,19 +716,20 @@ Submit Search
     
 * [Climate](https://apnews.com/climate-and-environment)
     
+    * [**Indigenous peoples and climate**](https://apnews.com/climate-and-environment/indigenous-peoples-adapting-to-and-combatting-climate-change)
     * [Climate Questions](https://apnews.com/hub/climate-questions)
     * [Climate Migration](https://apnews.com/hub/climate-migration)
     * [India Focus](https://apnews.com/hub/india-climate)
     
     SECTIONS
     
-    [Climate Questions](https://apnews.com/hub/climate-questions) [Climate Migration](https://apnews.com/hub/climate-migration) [India Focus](https://apnews.com/hub/india-climate)
+    [**Indigenous peoples and climate**](https://apnews.com/climate-and-environment/indigenous-peoples-adapting-to-and-combatting-climate-change) [Climate Questions](https://apnews.com/hub/climate-questions) [Climate Migration](https://apnews.com/hub/climate-migration) [India Focus](https://apnews.com/hub/india-climate)
     
     TOP STORIES
     
+    * [Climate change gave significant boost to Milton's destructive rain, winds, scientists say](https://apnews.com/article/hurricane-milton-climate-change-greenhouse-gases-fossil-fuels-aa1c971c228feb9da6f36fb9cc46ee81)
     * [Colombia’s river guardians battle to protect the Atrato amid threats and abandonment](https://apnews.com/article/atrato-guardians-illegal-mining-contamination-threats-choco-977ad1e171715b8f7fb20a8ac6b9e149)
     * [Milton by the numbers: At least 5 dead, at least 12 tornadoes, 3.4M without power](https://apnews.com/article/hurricane-milton-florida-rainfall-numbers-tornadoes-fe7789ee03c910dd1ea25772eff4be8b)
-    * [Powerful Hurricane Milton destroys homes, shreds stadium roofs apart](https://apnews.com/article/hurricane-milton-climate-photos-f518b0d58817dcca0bf202dc54706d6f)
     
 * [Health](https://apnews.com/health)
     
@@ -771,15 +773,15 @@ Submit Search
     
     TOP STORIES
     
+    * [United Airlines adding 8 new international destinations to itinerary for next summer](https://apnews.com/article/united-italy-spain-tokyo-portugal-mongolia-7d03ed93152cee47f58944f26f7dc0af)
     * [Disney World and other Orlando parks to reopen Friday after Hurricane Milton shutdown](https://apnews.com/article/disney-world-milton-universal-seaworld-reopening-c6393375c33b89e9041faa203784985f)
     * [Hurricane Milton has caused thousands of flight cancellations, is yours one of them? What to know](https://apnews.com/article/hurricane-milton-flight-canceled-what-to-do-a23264e3e504ff55d7ebdf2576626a81)
-    * [How to help people affected by Hurricane Milton](https://apnews.com/article/hurricane-milton-how-to-help-disaster-donations-84fafa916b4e473d29a82cfadb1b6d60)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Ukraine's Zelenskyy meets Pope Francis as he continues his European tour to push his 'victory plan'](https://apnews.com/article/pope-zelenskyy-russia-ukraine-scholz-a8d440a7c78a32a22d449743338dd0c2)
+    * [Zelenskyy appeals to allies to keep up aid as Germany pledges new weapons package](https://apnews.com/article/pope-zelenskyy-russia-ukraine-scholz-a8d440a7c78a32a22d449743338dd0c2)
     * [AP PHOTOS: Performers bring Hindu gods to life in the Ramleela](https://apnews.com/article/india-festival-ramleela-dussehra-hindu-gods-1571d00214a0bb7c6027f674ec646c92)
     * [Ethel Kennedy, social activist and wife of Robert F. Kennedy, has died](https://apnews.com/article/ethel-kennedy-dies-00eb88951db24e0cada9bd48b66ad8ea)
     
@@ -795,12 +797,12 @@ Submit Search
     
     TOP STORIES
     
-    * [El ataque israelí más letal en Beirut deja a libaneses atónitos mientras buscan entre los escombros](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
+    * [Misión de ONU en Líbano afirma que nuevas explosiones en su base hieren a 2 dos cascos azules](https://apnews.com/world-news/general-news-c0eab0b84282784a26bcd8b8bd393db4)
     * [Migración por el Darién vuelve a crecer en septiembre apuntalada por venezolanos tras elecciones](https://apnews.com/world-news/general-news-8e6a12a73c4179908d301feb65972c19)
     * [El hacinamiento agobia al sistema penitenciario de Paraguay: así viven los presos de cinco cárceles](https://apnews.com/world-news/general-news-3e27caa14f734f0d5a0b727d6ed90e00)
     * [Nobel de la Paz reconoce a asociación japonesa de sobrevivientes de bombas atómicas Nihon Hidankyo](https://apnews.com/world-news/general-news-ee302667bd71e111e4c86f1a6e5f8d47)
     * [Rusia lanza su cuarto ataque aéreo en una semana contra Odesa, región exportadora clave de Ucrania](https://apnews.com/world-news/general-news-14245b6fe48fafbc914dfe3a4d628c62)
-    * [Un buque cargado de petróleo se incendia ante la costa de Alemania](https://apnews.com/world-news/general-news-77ffacef10ccd3af094633f1af401842)
+    * [Kenia y Haití instan a socios internacionales a cumplir compromisos con misión de paz](https://apnews.com/world-news/general-news-6e0767b00c63b1a493fb77a2156218a7)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
