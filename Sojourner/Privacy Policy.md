@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-70ddb916e5526eb16b6f0869243305c9
+4a54131aad27e4cbf0c0e8610f913ad9
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Carnelian Roman warrior intaglio clasp](https://www.sojourner.biz/images/cache/SKU0367-1front.200.jpg)](https://www.sojourner.biz/clasps/cameo/intaglio/carnelian-roman-warrior-intaglio-clasp.html "Carnelian Roman warrior intaglio clasp")
+[![Dark orange Swarovski polka dot clasp](https://www.sojourner.biz/images/cache/SKU0149front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/dark-orange-swarovski-polka-dot-clasp.html "Dark orange Swarovski polka dot clasp")
 
-#### [Carnelian Roman warrior intaglio clasp](https://www.sojourner.biz/clasps/cameo/intaglio/carnelian-roman-warrior-intaglio-clasp.html "Carnelian Roman warrior intaglio clasp")
+#### [Dark orange Swarovski polka dot clasp](https://www.sojourner.biz/clasps/swarovski/dark-orange-swarovski-polka-dot-clasp.html "Dark orange Swarovski polka dot clasp")
 
-$25.00
+$15.00
 
 ### Best Sellers
 
