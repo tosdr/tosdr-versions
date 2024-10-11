@@ -182,7 +182,7 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 
 * [Fidelity Breach](http://fidelity/)
 * [Tesla Robotaxi Event](https://techcrunch.com/storyline/tesla-robotaxi-event-follow-elon-musks-big-reveals-here/)
-* [iOS 18](https://techcrunch.com/2024/09/30/18-apps-that-add-useful-actions-to-the-ios-18-control-center/)
+* [Cybercab](https://techcrunch.com/2024/10/10/tesla-reveals-20-cybercabs-at-we-robot-event/)
 * [Tesla](https://techcrunch.com/2024/10/09/tesla-designer-franz-von-holzhausen-says-hes-been-designing-a-robotaxi-in-his-mind-for-years/)
 * [Geoffrey Hinton](https://techcrunch.com/2024/10/09/after-winning-nobel-for-foundational-ai-work-geoffrey-hinton-says-hes-proud-ilya-sutskever-fired-sam-altman/)
 * [Tech Layoffs](https://techcrunch.com/2024/10/01/tech-layoffs-2024-list/)
