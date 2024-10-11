@@ -340,7 +340,7 @@ GENERAL PROVISIONS
 
 ### Publicity
 
-Customer grants us the right to use Customer’s company name and logo as a reference for marketing or promotional purposes on our website and in other public or private communications with our existing or potential customers, subject to Customer’s standard trademark usage guidelines as provided to us from time-to-time. We don’t want to list customers who don’t want to be listed, so Customer may send us an email to support@synthesia.io stating that it does not wish to be used as a reference.
+Customer grants us the right to use Customer’s company name and logo as a reference for marketing or promotional purposes on our website and in other public or private communications with our existing or potential customers, subject to Customer’s standard trademark usage guidelines as provided to us from time-to-time. We don’t want to list customers who don’t want to be listed, so Customer may send us an email to [\[email protected\]](https://www.synthesia.io/cdn-cgi/l/email-protection) stating that it does not wish to be used as a reference.
 
 ### Force Majeure
 
@@ -352,7 +352,7 @@ The parties are independent contractors. The Contract does not create a partners
 
 ### Email Notices
 
-Except as otherwise set forth herein, all notices under the Contract will be by email, although we may instead choose to provide notice to Customer through the Services (e.g., a Synthesia Platform notification). Notices to Synthesia will be sent to support@synthesia.io, except for legal notices, such as notices of termination or an indemnifiable claim, which must be sent to legal@synthesia.io. Notices will be deemed to have been duly given (a) the day after it is sent, in the case of notices through email; and (b) the same day, in the case of notices through the Services.
+Except as otherwise set forth herein, all notices under the Contract will be by email, although we may instead choose to provide notice to Customer through the Services (e.g., a Synthesia Platform notification). Notices to Synthesia will be sent to [\[email protected\]](https://www.synthesia.io/cdn-cgi/l/email-protection), except for legal notices, such as notices of termination or an indemnifiable claim, which must be sent to [\[email protected\]](https://www.synthesia.io/cdn-cgi/l/email-protection). Notices will be deemed to have been duly given (a) the day after it is sent, in the case of notices through email; and (b) the same day, in the case of notices through the Services.
 
 ### Modifications
 
@@ -400,7 +400,7 @@ Need more help?
 
 If you need assistance with Synthesia or have a question about our products or services, please contact our customer support team.
 
-[Get in touch](mailto:support@synthesia.io?subject=Need%20more%20help?&body=If%20you%20need%20assistance%20with%20Synthesia%20or%20have%20a%20question%20about%20our%20products%20or%20services,%20please%20contact%20our%20customer%20support%20team.)
+[\[email protected\]](https://www.synthesia.io/cdn-cgi/l/email-protection)
 
 Ready to try our AI video platform?
 -----------------------------------
