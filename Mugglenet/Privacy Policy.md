@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Minerva McGonagall had been briefly engaged to a Muggle at the age of 18 but broke off the engagement when she realized it would mean having to sacrifice her other ambitions.
+Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
 
 ### Potter History
 
-July 29, 2008 – The first Harry Potter and the Half-Blood Prince teaser trailer makes its way online and plays in front of The Mummy in theaters.
+February 25, 2005 – Bad weather plagued the filming of Goblet of Fire and delayed production.
 
 ### Potter Quote
 
-“Go on, Harry, take it! You saved Dad’s life, if anyone’s got the right to eavesdrop on him it’s you. . . .”
+“Sir, I wondered what you know about . . . about Horcruxes?”
 
 [](#)
 
