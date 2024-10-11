@@ -118,11 +118,6 @@ Advertisement
     Prisoners of Katrina
     
     n the aftermath of Hurricane Katrina, while thousands fled New Orleans, the city’s prisoners were trapped. Fresh eye-witness accounts reveal what really happened to those left behind, and how crucial ...](https://documentaryheaven.com/prisoners-of-katrina/ "Prisoners of Katrina")
-* [![Britains Broken Families](/wp-content/thumbnails/8555-100x70.jpg?x53432)
-    
-    Britains Broken Families
-    
-    A recent documentary by the BBC has set about following the work of Newcastle's Family Intervention Project or FIP, the project aims to try and help some of the more disruptive families in the area. ...](https://documentaryheaven.com/britains-broken-families/ "Britains Broken Families")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
@@ -133,34 +128,39 @@ Advertisement
     Amy Winehouse: What Really Happened
     
     Amy Winehouse is a singer and songwriter who is famous for her strong vocals as well as her blend of numerous musical styles such as soul, jazz and R&B.Winehouse has gained huge publicity for her dr...](https://documentaryheaven.com/amy-winehouse-what-really-happened/ "Amy Winehouse: What Really Happened")
+* [![The Boy Who Was Turned Into a Girl](/wp-content/thumbnails/5946-100x70.jpg?x53432)
+    
+    The Boy Who Was Turned Into a Girl
+    
+    In 1965 in the Canadian town of Winnipeg, Janet Reimer gave birth to twin boys - Bruce and Brian. Six months later a bungled circumcision left Bruce without a penis. Based on a radical new theory of g...](https://documentaryheaven.com/the-boy-who-was-turned-into-a-girl/ "The Boy Who Was Turned Into a Girl")
 
 ###### Throwback Documentaries
 
-* [![Blurred Lines: The New Battle of the Sexes](/wp-content/thumbnails/8737-100x70.jpg?x53432)
+* [![Declassified: The Cuban Missile Crisis](/wp-content/thumbnails/9616-100x70.jpg?x53432)
     
-    Blurred Lines: The New Battle of the Sexes
+    Declassified: The Cuban Missile Crisis
     
-    From campaigners looking to have more female hero's on bank notes to the sexually explicit portrayal of women in music videos and to rape jokes. Is there a new culture abroad evolving in which men see](https://documentaryheaven.com/blurred-lines-new-battle-sexes/ "Blurred Lines: The New Battle of the Sexes")
-* [![From Jail to Jihad?](/wp-content/thumbnails/8794-100x70.jpg?x53432)
+    One man wanted to win it all, the other had everything to loose, together their nuclear missiles brought the world to the edge of annihilation. In October of 1962 the island of Cuba became the centre](https://documentaryheaven.com/cuban-missile-crisis-declassified/ "Declassified: The Cuban Missile Crisis")
+* [![End Day](/wp-content/thumbnails/270-100x70.png?x53432)
     
-    From Jail to Jihad?
+    End Day
     
-    BBC's Panorama sets about investigating the growing trend of convicted criminals converting to Islam and the potential for these converts to become radical or fundamentalists. Within the last ten year](https://documentaryheaven.com/from-jail-to-jihad/ "From Jail to Jihad?")
-* [![Human Body: Pushing The Limits](/wp-content/thumbnails/2203-100x70.png?x53432)
+    Imagine waking up to the last day on Earth...Inspired by the predictions of scientists, End Day creates apocalyptic scenarios that go beyond reality. In a single hour, explore five different fiction](https://documentaryheaven.com/end-day-a-documentary/ "End Day")
+* [![Champs](/wp-content/thumbnails/9774-100x70.jpg?x53432)
     
-    Human Body: Pushing The Limits
+    Champs
     
-    Human Body: Pushing the Limits takes you across continents and introduces you to people who have pushed their bodies to the max. This groundbreaking documentary uses CGI technology and hi-tech camera](https://documentaryheaven.com/human-body-pushing-the-limits/ "Human Body: Pushing The Limits")
-* [![Josie: The Most Hated Woman in Britain?](/wp-content/thumbnails/16163-100x70.jpg?x53432)
+    This is the epic story of three of the most successful boxers of our time, Mike Tyson, Evander Holyfield, and Bernard Hopkins. This film documents their rise from nothing, how they chose the path](https://documentaryheaven.com/champs/ "Champs")
+* [![Between the Folds: The Art of Origami](/wp-content/thumbnails/7274-100x70.jpg?x53432)
     
-    Josie: The Most Hated Woman in Britain?
+    Between the Folds: The Art of Origami
     
-    Twenty four year old Josie Cunningham became infamous back in 2013, after getting a £4,800 breast enlargement at the British taxpayer's expense. She pleaded with the National Health Service (NHS) doc](https://documentaryheaven.com/josie-most-hated-woman-in-britain/ "Josie: The Most Hated Woman in Britain?")
-* [![For Queen and Country: The Falkland Islands Defence Force](/wp-content/thumbnails/9313-100x70.jpg?x53432)
+    Origami may seem an unlikely medium for understanding and explaining the world. But around the world fine artists and theoretical scientists are abandoning more conventional career paths to forge live](https://documentaryheaven.com/between-folds-art-of-origami/ "Between the Folds: The Art of Origami")
+* [![Deep Water](/wp-content/thumbnails/5568-100x70.jpg?x53432)
     
-    For Queen and Country: The Falkland Islands Defence Force
+    Deep Water
     
-    For Queen and Country is an interesting independent documentary produced by Josh Saunders, Caroline Scott and Hannah Smithson that follows two new recruits, Jacob and Marcus, as they complete a 12 wee](https://documentaryheaven.com/queen-country-falkland-islands-defence-force/ "For Queen and Country: The Falkland Islands Defence Force")
+    Deep Water is the stunning true story of the first solo, non-stop, round-the-world boat race, and the psychological toll it took on its competitors.Sponsored by the Sunday Times of London, the much-](https://documentaryheaven.com/deep-water/ "Deep Water")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
