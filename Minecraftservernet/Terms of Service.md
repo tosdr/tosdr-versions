@@ -29,17 +29,17 @@ Version All 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 1.20 1.19.4 1.
 
 Active Servers
 
-[![RoyaleMC-Community](plugins/MineCraft/icons/25x25xRoyaleMC-Community_1722369794.png.pagespeed.ic.cQomDBgmrH.png)
+[![IllusiveMC](plugins/MineCraft/icons/IllusiveMC_1681214308.png)
 
-RoyaleMC \[#1 Slimefun\] (Java+Bedrock)](https://minecraft-server.net/details/RoyaleMC-Community/ "RoyaleMC [#1 Slimefun] (Java+Bedrock)")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+IllusiveMC Survival](https://minecraft-server.net/details/IllusiveMC/ "IllusiveMC Survival")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+BEST SURVIVAL • CrackexNet](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexNet ")[![Star_MC](plugins/MineCraft/icons/25x25xStar_MC_1728634246.png.pagespeed.ic.tkRJhWSRmD.png)
 
-1.21 Vanilla+ No Grief](https://minecraft-server.net/details/MCVerseCity/ "1.21 Vanilla+ No Grief")[![Lifelink](plugins/MineCraft/icons/25x25xLifelink_1727918573.png.pagespeed.ic.nPXTezXtbz.jpg)
+StarMC](https://minecraft-server.net/details/Star_MC/ "StarMC")[![Tilted_Tavern](plugins/MineCraft/icons/25x25xTilted_Tavern_1726404034.png.pagespeed.ic.TYT4nh9NT_.png)
 
-Lifelink](https://minecraft-server.net/details/Lifelink/ "Lifelink")[![TotemMC](plugins/MineCraft/icons/25x25xTotemMC_1727336201.png.pagespeed.ic.JsPeSfpeX-.jpg)
+Tilted Tavern](https://minecraft-server.net/details/Tilted_Tavern/ "Tilted Tavern")[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
 
-TotemMC \[1.21 Survival\]](https://minecraft-server.net/details/TotemMC/ "TotemMC [1.21 Survival]")
+Crafted Survival](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.11734 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.08516 - Created by [Debaucus](https://debauc.us/)
