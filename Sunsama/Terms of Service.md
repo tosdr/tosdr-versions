@@ -105,7 +105,7 @@ Summay, Inc.
 
 Oakland, CA 94607
 
-copyrights@sunsama.com
+[\[email protected\]](https://www.sunsama.com/cdn-cgi/l/email-protection)
 
 ###### 10\. Other Content
 
@@ -157,11 +157,11 @@ You may not assign any of your rights in these Terms, and any such attempt is vo
 
 Customer service is a priority, but if there’s an issue that needs to be resolved, this section outlines what is expected of both of us.
 
-A. Initial Informal Dispute Resolution. Before filing a claim against Summay, you agree to try to resolve the dispute informally by contacting us via email at support@sunsama.com. We will try to resolve the dispute by contacting you via email. If a dispute is not resolved within thirty (30) days of submission, you or Summay may bring a formal proceeding.
+A. Initial Informal Dispute Resolution. Before filing a claim against Summay, you agree to try to resolve the dispute informally by contacting us via email at [\[email protected\]](https://www.sunsama.com/cdn-cgi/l/email-protection). We will try to resolve the dispute by contacting you via email. If a dispute is not resolved within thirty (30) days of submission, you or Summay may bring a formal proceeding.
 
 B. Arbitration Agreement. You and Summay agree to resolve any claims relating to these Terms or the Services, whether or not such claims involve a third party, through final and binding arbitration, except as set forth under Exceptions to Agreement to Arbitrate below. Arbitration is more informal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, allows for more limited discovery than in court, and is subject to very limited review by courts. Arbitrators can award the same damages and relief that a court can award. This arbitration agreement will survive the termination of your relationship with Summay.
 
-C. Arbitration Notification. If either of us intends to seek arbitration under this agreement, the party seeking arbitration must first notify the other party of the dispute in writing at least thirty (30) days in advance of initiating the arbitration. Notice to Summay should be sent to us via email to support@sunsama.com, with a duplicate copy sent via registered mail, return receipt requested, to the mailing address specified on our Site. The notice must describe the nature and basis of the claim and the relief being sought.
+C. Arbitration Notification. If either of us intends to seek arbitration under this agreement, the party seeking arbitration must first notify the other party of the dispute in writing at least thirty (30) days in advance of initiating the arbitration. Notice to Summay should be sent to us via email to [\[email protected\]](https://www.sunsama.com/cdn-cgi/l/email-protection), with a duplicate copy sent via registered mail, return receipt requested, to the mailing address specified on our Site. The notice must describe the nature and basis of the claim and the relief being sought.
 
 D. Arbitration Procedures. You may bring claims only on your own behalf. The American Arbitration Association (AAA) will administer the arbitration under its Commercial Arbitration Rules and the Supplementary Procedures for Consumer Related Disputes. The arbitration will be held in San Francisco California, or any other location we agree to.
 
@@ -173,7 +173,7 @@ E. Arbitration Fees. The AAA rules will govern payment of all arbitration fees.
 
 F. Exceptions to Agreement to Arbitrate. Either party may bring a lawsuit solely for injunctive relief to stop unauthorized use or abuse of the Services, or intellectual property infringement (for example, trademark, trade secret, copyright, or patent rights) without first engaging in arbitration or the informal dispute-resolution process described above.
 
-You may opt out of this agreement to arbitrate, but to opt out, you must notify Summay in writing within thirty (30) days of the date that you first became subject to this arbitration provision. You must provide notice to us via email to support@sunsama.com, with a duplicate copy sent via registered mail, return receipt requested, to the mailing address specified on our Site. You must include your name and address, the primary contact and account administrator’s name and address, and a clear statement that you want to opt out of this arbitration agreement.
+You may opt out of this agreement to arbitrate, but to opt out, you must notify Summay in writing within thirty (30) days of the date that you first became subject to this arbitration provision. You must provide notice to us via email to [\[email protected\]](https://www.sunsama.com/cdn-cgi/l/email-protection), with a duplicate copy sent via registered mail, return receipt requested, to the mailing address specified on our Site. You must include your name and address, the primary contact and account administrator’s name and address, and a clear statement that you want to opt out of this arbitration agreement.
 
 IF FOR ANY REASON A CLAIM PROCEEDS IN COURT RATHER THAN THROUGH ARBITRATION, YOU AND SUMMAY AGREE THAT THERE WILL NOT BE A JURY TRIAL. You and Summay unconditionally waive any right to trial by jury in any action, proceeding or counterclaim arising out of or relating to this agreement in any way.
 
@@ -193,7 +193,7 @@ These Terms constitute the entire and exclusive agreement between you and Summay
 
 ###### 22\. Notice
 
-We may send you, in electronic form, information about our Services, additional information, and information the law requires us to provide. We may provide required information to you by email at the address you specified when you signed up for our Services or by access to a website that we identify. Notices emailed to you will be deemed given and received when the email is sent. If you don’t consent to receive notices electronically, you must stop using our Services. You must provide legal notice to us via email to support@sunsama.com, with a duplicate copy sent via registered mail, return receipt requested, to the mailing address specified on our Site. Any such notice, in either case, must specifically reference that it is a notice given under these Terms.
+We may send you, in electronic form, information about our Services, additional information, and information the law requires us to provide. We may provide required information to you by email at the address you specified when you signed up for our Services or by access to a website that we identify. Notices emailed to you will be deemed given and received when the email is sent. If you don’t consent to receive notices electronically, you must stop using our Services. You must provide legal notice to us via email to [\[email protected\]](https://www.sunsama.com/cdn-cgi/l/email-protection), with a duplicate copy sent via registered mail, return receipt requested, to the mailing address specified on our Site. Any such notice, in either case, must specifically reference that it is a notice given under these Terms.
 
 ###### 23\. Severability
 
