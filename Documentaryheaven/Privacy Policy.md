@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![10 Things You Dont Know About: Adolf Hitler](/wp-content/thumbnails/7477-100x70.jpg?x53432)
+* [![The Somme: From Defeat to Victory](/wp-content/thumbnails/12077-100x70.jpg?x53432)
     
-    10 Things You Dont Know About: Adolf Hitler
+    The Somme: From Defeat to Victory
     
-    Adolf Hitler was an Austrian-born German politician and the leader of the Nazi Party (German: Nationalsozialistische Deutsche Arbeiterpartei (NSDAP); National Socialist German Workers Party). He was c](https://documentaryheaven.com/10-things-you-dont-know-about-adolf-hitler/ "10 Things You Dont Know About: Adolf Hitler")
-* [![Pedigree Dogs Exposed: Three Years On](/wp-content/thumbnails/15067-100x70.jpg?x53432)
+    This day 100 years ago (1st of July 1916) marked what was to become the bloodiest day in British military history; however, that been said there was much more to the Somme than mere senseless sla](https://documentaryheaven.com/somme-from-defeat-to-victory/ "The Somme: From Defeat to Victory")
+* [![Wired: South Korea](/wp-content/thumbnails/6733-100x70.jpg?x53432)
     
-    Pedigree Dogs Exposed: Three Years On
+    Wired: South Korea
     
-    In August 2008, the BBC One investigative documentary Pedigree Dogs Exposed explored the true extent of the health and welfare problems witnessed in pedigree dogs and called it "the greatest animal w](https://documentaryheaven.com/pedigree-dogs-exposed-three-years-on/ "Pedigree Dogs Exposed: Three Years On")
-* [![Monster Black Holes](/wp-content/thumbnails/9342-100x70.png?x53432)
+    In South Korea addiction to gaming has become an epidemic, with murders attributed to it and psychiatric units struggling to cope. And whilst the South binges, North Korean cyber warriors have been st](https://documentaryheaven.com/wired-south-korea/ "Wired: South Korea")
+* [![Hitler of The Andes](/wp-content/thumbnails/9203-100x70.jpg?x53432)
     
-    Monster Black Holes
+    Hitler of The Andes
     
-    Black holes haunt our universe, dark centres of gravity that swallow everything in their path. This National Geographic film asks questions such as what would you see if you got close enough](https://documentaryheaven.com/monster-black-holes/ "Monster Black Holes")
-* [![In Loving Memory](/wp-content/thumbnails/5951-100x70.jpg?x53432)
+    In April of 1945 Hitler was now beyond doubt, the most wanted man in Europe, dead or alive the victorious Allies needed to see his body, in the dock or in the grave but in the chaos of war proof that](https://documentaryheaven.com/hitler-andes/ "Hitler of The Andes")
+* [![Is Anybody Out There?](/wp-content/thumbnails/14613-100x70.jpg?x53432)
     
-    In Loving Memory
+    Is Anybody Out There?
     
-    Road users pass them every day - sudden flashes of flowers tied to lampposts or lying by the side of the road. Across the UK roadside memorials have become the expected response when someone dies sudd](https://documentaryheaven.com/in-loving-memory/ "In Loving Memory")
-* [![Cutting Edge: The Child Sex Trade](/wp-content/thumbnails/879-100x70.jpg?x53432)
+    On August 15th 1977 a strange signal from the constellation Sagittarius was received by the Big Ear radio telescope. The signal known as the 'Wow!' signal reached an intensity up to 30 times higher th](https://documentaryheaven.com/is-anybody-out-there/ "Is Anybody Out There?")
+* [![The Coconut Revolution](/wp-content/thumbnails/3345-100x70.jpg?x53432)
     
-    Cutting Edge: The Child Sex Trade
+    The Coconut Revolution
     
-    Liviu Tipurita returns to his homeland of Romania to investigate stories he has heard that there has been a sudden rise in the trafficking of children into the sex trade. He meets an old friend, fifte](https://documentaryheaven.com/cutting-edge-the-child-sex-trade/ "Cutting Edge: The Child Sex Trade")
+    Bougainville, with a populations of only 160,000 has managed to close and keep closed one of the biggest mines in the world. They have held their ground for a decade with antique weapons and homemade](https://documentaryheaven.com/the-coconut-revolution/ "The Coconut Revolution")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
