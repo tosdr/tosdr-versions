@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry man charged with a series of offences returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with a series of offences returned for trial")](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with a series of offences returned for trial](https://www.derrynow.com/news/local-news/1626931/derry-man-charged-with-a-series-of-offences-returned-for-trial.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -273,12 +266,14 @@ Most Popular
 [Derry Death Notices - Friday, October 11 2024](https://www.derrynow.com/news/deaths/1627152/derry-death-notices-friday-october-11-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PICTURES: Steelstown Primary School P1 Colour Feature](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Steelstown Primary School P1 Colour Feature")](https://www.derrynow.com/news/pictures---videos/1626630/pictures-steelstown-primary-school-p1-colour-feature.html)
+[![Man who attacked police with baseball bat, assaulted partner and rammed police car jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who attacked police with baseball bat, assaulted partner and rammed police car jailed")](https://www.derrynow.com/news/local-news/1627914/man-who-attacked-police-with-baseball-bat-assaulted-partner-and-rammed-police-car-jailed.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+Derry Magistrate's Court
 
-[PICTURES: Steelstown Primary School P1 Colour Feature](https://www.derrynow.com/news/pictures---videos/1626630/pictures-steelstown-primary-school-p1-colour-feature.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man who attacked police with baseball bat, assaulted partner and rammed police car jailed](https://www.derrynow.com/news/local-news/1627914/man-who-attacked-police-with-baseball-bat-assaulted-partner-and-rammed-police-car-jailed.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![County Derry man jailed after making up to £475,000 from illegal streaming services](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man jailed after making up to £475,000 from illegal streaming services")](https://www.derrynow.com/news/local-news/1627799/county-derry-man-jailed-after-making-up-to-475-000-from-illegal-streaming-services.html)
 
@@ -288,29 +283,6 @@ Omagh Crown Court
 
 [County Derry man jailed after making up to £475,000 from illegal streaming services](https://www.derrynow.com/news/local-news/1627799/county-derry-man-jailed-after-making-up-to-475-000-from-illegal-streaming-services.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Senior Football Championship preview: Slaughtneil clash with Glen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Senior Football Championship preview: Slaughtneil clash with Glen")](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Derry Senior Football Championship preview: Slaughtneil clash with Glen](https://www.derrynow.com/news/gaa/1626922/derry-senior-football-championship-preview-slaughtneil-clash-with-glen.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Intermediate Championship semi final preview](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Intermediate Championship semi final preview")](https://www.derrynow.com/news/gaa/1626778/derry-intermediate-championship-semi-final-preview.html)
-
-Drumsurn's, Tiarnán Woods. Photo by Mary K Burke
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Derry Intermediate Championship semi final preview](https://www.derrynow.com/news/gaa/1626778/derry-intermediate-championship-semi-final-preview.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall")](https://www.derrynow.com/news/pictures---videos/1626974/pictures-mayor-s-afro-caribbean-themed-tea-dance-at-guildhall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Mayor's Afro Caribbean themed Tea Dance at Guildhall](https://www.derrynow.com/news/pictures---videos/1626974/pictures-mayor-s-afro-caribbean-themed-tea-dance-at-guildhall.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Northern Lights in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Northern Lights in Derry")](https://www.derrynow.com/gallery/home/1627395/northern-lights-in-derry.html)
 
@@ -328,20 +300,59 @@ Derry Magistrate's Court
 [Suspended sentence for Derry man following 'stupid, boorish behavior'](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1627049/charlie-from-the-stands-there-s-nothing-quite-like-the-fai-cup.html)
+[![Man arrested for possession of a knife and drugs handed suspended sentence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested for possession of a knife and drugs handed suspended sentence")](https://www.derrynow.com/news/local-news/1627794/man-arrested-for-possession-of-a-knife-and-drugs-handed-suspended-sentence.html)
 
-Gareth McGlynn certainly enjoyed Derry City's win at Bohemians.
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man arrested for possession of a knife and drugs handed suspended sentence](https://www.derrynow.com/news/local-news/1627794/man-arrested-for-possession-of-a-knife-and-drugs-handed-suspended-sentence.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry judge says there will be 'zero tolerance' of assaults on public servants](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge says there will be 'zero tolerance' of assaults on public servants")](https://www.derrynow.com/news/local-news/1627705/derry-judge-says-there-will-be-zero-tolerance-of-assaults-on-public-servants.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry judge says there will be 'zero tolerance' of assaults on public servants](https://www.derrynow.com/news/local-news/1627705/derry-judge-says-there-will-be-zero-tolerance-of-assaults-on-public-servants.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PSNI application for footage linked to disorder ‘should never have been made’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI application for footage linked to disorder ‘should never have been made’")](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[PSNI application for footage linked to disorder ‘should never have been made’](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Paddy Tyre tribute concert planned for Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Paddy Tyre tribute concert planned for Derry's Guildhall")](https://www.derrynow.com/news/local-news/1627720/paddy-tyre-tribute-concert-planned-for-derry-s-guildhall.html)
+
+Mayor of Derry Cllr Lilian Seenoi-Barr pictured with members of the late Paddy Tyre’s family and local musicians at the launch of a tribute night in the Guildhall.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Paddy Tyre tribute concert planned for Derry's Guildhall](https://www.derrynow.com/news/local-news/1627720/paddy-tyre-tribute-concert-planned-for-derry-s-guildhall.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1627091/ruaidhri-higgins-this-is-an-unbelievably-powerful-football-club-when-everyone-is-sailing-in-the-one-direction.html)
+
+Derry City fae Bohemians again tomorrow night.
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[CHARLIE FROM THE STANDS: There's nothing quite like the FAI Cup!](https://www.derrynow.com/news/derry-sport/1627049/charlie-from-the-stands-there-s-nothing-quite-like-the-fai-cup.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Ruaidhri Higgins - "This is an unbelievably powerful football club when everyone is sailing in the one direction.'](https://www.derrynow.com/news/derry-sport/1627091/ruaidhri-higgins-this-is-an-unbelievably-powerful-football-club-when-everyone-is-sailing-in-the-one-direction.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: New community ‘Read and Feed’ Hub opens at Synge Court, Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: New community ‘Read and Feed’ Hub opens at Synge Court, Derry")](https://www.derrynow.com/story-telling/pictures---videos/1628093/in-pictures-new-community-read-and-feed-hub-opens-at-synge-court-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: New community ‘Read and Feed’ Hub opens at Synge Court, Derry](https://www.derrynow.com/story-telling/pictures---videos/1628093/in-pictures-new-community-read-and-feed-hub-opens-at-synge-court-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Mayor hosts reception for Derry journalist Garrett Hargan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor hosts reception for Derry journalist Garrett Hargan")](https://www.derrynow.com/story-telling/pictures---videos/1627963/in-pictures-mayor-hosts-reception-for-derry-journalist-garrett-hargan.html)
 
@@ -407,13 +418,6 @@ Thornhill College students take to the skies
 
 [PICTURES: Proud faces all-around at St Conor's prizegiving](https://www.derrynow.com/news/pictures---videos/1625475/pictures-proud-faces-all-around-at-st-conor-s-prizegiving.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Civic reception for long serving local Paramedic John McMenamin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Civic reception for long serving local Paramedic John McMenamin")](https://www.derrynow.com/news/pictures---videos/1624777/in-pictures-civic-reception-for-long-serving-local-paramedic-john-mcmenamin.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Civic reception for long serving local Paramedic John McMenamin](https://www.derrynow.com/news/pictures---videos/1624777/in-pictures-civic-reception-for-long-serving-local-paramedic-john-mcmenamin.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,53 +519,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![PSNI application for footage linked to disorder ‘should never have been made’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI application for footage linked to disorder ‘should never have been made’")](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
+[![Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore")](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
+
+Colm Scullion (right) pictured during recording with John Creedon (left) and Christy Moore (centre).
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[Bellaghy man to feature on RTÉ documentary alongside Irish singer Christy Moore](https://www.derrynow.com/news/what-s-on/1628362/bellaghy-man-to-feature-on-rte-documentary-alongside-irish-singer-christy-moore.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry college lecturer won I.T Educator of the Year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry college lecturer won I.T Educator of the Year")](https://www.derrynow.com/news/local-news/1627947/derry-college-lecturer-wins-it-educator-of-the-year.html)
+
+Lecturer Kevin McLaughlin with his award for IT Educator of the Year
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[PSNI application for footage linked to disorder ‘should never have been made’](https://www.derrynow.com/news/local-news/1627699/psni-application-for-footage-linked-to-disorder-should-never-have-been-made.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry college lecturer won I.T Educator of the Year](https://www.derrynow.com/news/local-news/1627947/derry-college-lecturer-wins-it-educator-of-the-year.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry judge says there will be 'zero tolerance' of assaults on public servants](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge says there will be 'zero tolerance' of assaults on public servants")](https://www.derrynow.com/news/local-news/1627705/derry-judge-says-there-will-be-zero-tolerance-of-assaults-on-public-servants.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry judge says there will be 'zero tolerance' of assaults on public servants](https://www.derrynow.com/news/local-news/1627705/derry-judge-says-there-will-be-zero-tolerance-of-assaults-on-public-servants.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man jailed after making up to £475,000 from illegal streaming services](https://www.derrynow.com/resizer/165/93/true/2024_10_11/images-1728646660983.jpg--.jpg?1728646661006 "County Derry man jailed after making up to £475,000 from illegal streaming services")](https://www.derrynow.com/news/local-news/1627799/county-derry-man-jailed-after-making-up-to-475-000-from-illegal-streaming-services.html)
-
-Omagh Crown Court
+[![Suspended sentence for Derry man charged with disorderly behavior and assaulting police](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Suspended sentence for Derry man charged with disorderly behavior and assaulting police")](https://www.derrynow.com/news/local-news/1627916/suspended-sentence-for-derry-man-charged-with-disorderly-behavior-and-assaulting-police.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[County Derry man jailed after making up to £475,000 from illegal streaming services](https://www.derrynow.com/news/local-news/1627799/county-derry-man-jailed-after-making-up-to-475-000-from-illegal-streaming-services.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Suspended sentence for Derry man charged with disorderly behavior and assaulting police](https://www.derrynow.com/news/local-news/1627916/suspended-sentence-for-derry-man-charged-with-disorderly-behavior-and-assaulting-police.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspended sentence for Derry man following 'stupid, boorish behavior'](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Suspended sentence for Derry man following 'stupid, boorish behavior'")](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
+[![Man who attacked police with baseball bat, assaulted partner and rammed police car jailed](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Man who attacked police with baseball bat, assaulted partner and rammed police car jailed")](https://www.derrynow.com/news/local-news/1627914/man-who-attacked-police-with-baseball-bat-assaulted-partner-and-rammed-police-car-jailed.html)
 
 Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Suspended sentence for Derry man following 'stupid, boorish behavior'](https://www.derrynow.com/news/local-news/1627674/suspended-sentence-for-derry-man-following-stupid-boorish-behavior.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man who attacked police with baseball bat, assaulted partner and rammed police car jailed](https://www.derrynow.com/news/local-news/1627914/man-who-attacked-police-with-baseball-bat-assaulted-partner-and-rammed-police-car-jailed.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New community ‘Read and Feed’ project for Derry's Ballymagroarty area](https://www.derrynow.com/resizer/165/93/true/2024_10_11/ballymagroarty-hazelbank-1728637552503.jpg--.jpg?1728637552520 "New community ‘Read and Feed’ project for Derry's Ballymagroarty area")](https://www.derrynow.com/news/local-news/1627584/new-community-read-and-feed-project-for-derry-s-ballymagroarty-area.html)
+[![Man arrested for possession of a knife and drugs handed suspended sentence](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Man arrested for possession of a knife and drugs handed suspended sentence")](https://www.derrynow.com/news/local-news/1627794/man-arrested-for-possession-of-a-knife-and-drugs-handed-suspended-sentence.html)
+
+Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[New community ‘Read and Feed’ project for Derry's Ballymagroarty area](https://www.derrynow.com/news/local-news/1627584/new-community-read-and-feed-project-for-derry-s-ballymagroarty-area.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man arrested for possession of a knife and drugs handed suspended sentence](https://www.derrynow.com/news/local-news/1627794/man-arrested-for-possession-of-a-knife-and-drugs-handed-suspended-sentence.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_10_10/2954848-1728572153465.jpg--.jpg?1728572156580 "Derry City")](https://www.derrynow.com/news/derry-sport/1627122/derry-city-s-down-syndrome-team-impresses-republic-of-ireland-manager-hallgrimsson.html)
+[![Paddy Tyre tribute concert planned for Derry's Guildhall](https://www.derrynow.com/resizer/165/93/true/2024_10_11/PaddyTyre0410241-1728643915111.jpg--.jpg?1728643915817 "Paddy Tyre tribute concert planned for Derry's Guildhall")](https://www.derrynow.com/news/local-news/1627720/paddy-tyre-tribute-concert-planned-for-derry-s-guildhall.html)
 
-The Derry City team with Republic of Ireland head coach Heimir Hallgrimsson, goal-keeping coach Gudmundur Hreidarsson and assistant coach John O'Shea.
+Mayor of Derry Cllr Lilian Seenoi-Barr pictured with members of the late Paddy Tyre’s family and local musicians at the launch of a tribute night in the Guildhall.
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry City's Down Syndrome team impresses Republic of Ireland manager Hallgrimsson](https://www.derrynow.com/news/derry-sport/1627122/derry-city-s-down-syndrome-team-impresses-republic-of-ireland-manager-hallgrimsson.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Paddy Tyre tribute concert planned for Derry's Guildhall](https://www.derrynow.com/news/local-news/1627720/paddy-tyre-tribute-concert-planned-for-derry-s-guildhall.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
