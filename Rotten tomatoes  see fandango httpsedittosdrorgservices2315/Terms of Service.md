@@ -86,13 +86,13 @@ Offers
     
     [BUY TICKETS](https://www.fandangomovietickets.com/Terrifier3GWPOffer?cmp=TARS~FANDANGO~_Footer)
     
-* [Seize the We Are Venom Bundle image link ![Seize the We Are Venom Bundle](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/767aefa0-7d3d-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-venom-292x118.png)](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer) 
+* [Save 25% off on all Andrea Bocelli products image link ![Save 25% off on all Andrea Bocelli products](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b5147840-82af-11ef-a07e-5b03d6159fe4--homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_Footer) 
     
-    ### Seize the We Are Venom Bundle
+    ### Save 25% off on all Andrea Bocelli products
     
-    Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more!
+    Buy a Ticket, Save 25% off on Andrea Bocelli products at Verve Records Store.
     
-    [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/AndreaBocelliGWPOffer?cmp=TARS~FANDANGO~BocelliTicketingOffer_Footer)
     
 
 New & Coming soon
