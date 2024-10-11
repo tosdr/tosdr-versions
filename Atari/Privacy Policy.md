@@ -436,9 +436,9 @@ Regular price $129.99
 
 Unit price /  per](https://www.atari.com/products/atari-7800) 
 
-[![Distressed Fuji Tee](files/unisex-garment-dyed-heavyweight-t-shirt-red-front-66fab44f48ccacopy.jpg)
+[![Distressed Fuji Hoodie](files/unisex-heavy-blend-hoodie-red-front-66fab6ce118b1copy.jpg)
 
-![Distressed Fuji Tee](files/unisex-garment-dyed-heavyweight-t-shirt-black-front-66fab44f45c0ccopy.jpg)
+![Distressed Fuji Hoodie](files/unisex-heavy-blend-hoodie-red-front-66fbff14e8df4copy.jpg)
 
 Add to cart
 
@@ -456,13 +456,15 @@ Add to cart
 
  4XL
 
-##### Distressed Fuji Tee
+ 5XL
 
-Regular price Sale price $30.00
+##### Distressed Fuji Hoodie
 
-Regular price $30
+Regular price Sale price $48.00
 
-Unit price /  per](https://www.atari.com/products/distressed-fuji-tee)     
+Regular price $48
+
+Unit price /  per](https://www.atari.com/products/distressed-fuji-hoodie)     
 
 [![Atari 2600+ Controller Mega Bundle](files/2600__Bundle.webp)
 
