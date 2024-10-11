@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Google Drive](https://www.backup4all.com/how-to-backup-your-data-to-google-drive-kb.html)  
+* [How to use the Scheduler](https://www.backup4all.com/how-to-use-the-scheduler-kb.html)  
     
-* [How to back up data files from NetApp using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-netapp-using-backup4all-kb.html)  
+* [How to backup your data to dinCloud](https://www.backup4all.com/how-to-backup-your-data-to-dincloud-kb.html)  
     
-* [How to backup your data to Numergy](https://www.backup4all.com/how-to-backup-your-data-to-numergy-kb.html)  
+* [How to back up Outlook.com (former Hotmail) e ...](https://www.backup4all.com/how-to-back-up-hotmail-emails-kb.html)  
     
-* [How to backup to Amazon S3](https://www.backup4all.com/backup-your-data-to-amazon-s3-kb.html)  
+* [FTP backup using proxy server](https://www.backup4all.com/ftp-backup-using-proxy-server-kb.html)  
     
-* [How to backup your data to NetApp](https://www.backup4all.com/how-to-backup-your-data-to-netapp-kb.html)  
+* [How to backup Yahoo! emails](https://www.backup4all.com/how-to-backup-yahoo-emails-kb.html)  
     
 
 Choose language:
