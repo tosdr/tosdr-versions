@@ -2,7 +2,7 @@
 
 ![](https://ct.pinterest.com/v3/?tid=2614292873239&event=pagevisit&noscript=1)
 
-[![Hunt and Jump Logo](/images/layout/huntJumpLogo.png)![Hunt and Jump Logo](/images/layout/huntJumpLogo.png)](https://hj2.huntandjump.com/)
+[![Hunt and Jump Logo](/images/layout/hggLogo.png)![Hunt and Jump Logo](/images/layout/hggLogo.png)](https://hj2.huntandjump.com/)
 
 Welcome! | [Log In](https://hj2.huntandjump.com/)
 
