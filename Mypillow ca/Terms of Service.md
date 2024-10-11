@@ -33,7 +33,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Pillowcases](https://www.mypillow.com/bedding/pillowcases)
     * [Accessory Pillows](https://www.mypillow.com/accessory-pillows)
     * [Multi-Use MyPillows](https://www.mypillow.com/multi-use-mypillow)
-    * [Body Pillow](https://www.mypillow.com/mybody-pillow)
+    * [Body Pillow](https://www.mypillow.com/the-classic-collection/mybody-pillow)
     * [Bolster Pillow](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
     * [Bible Story MyPillows](https://www.mypillow.com/catalog/product/view/id/14439/s/2-pack-childrens-bible-pillows-extravaganza/)
     * [Couch and Recliner Pillows](https://www.mypillow.com/couch-and-recliner-pillows)
@@ -84,7 +84,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Dog Beds](https://www.mypillow.ca/mypillow-for-pets)
 * [Clearance](https://www.mypillow.com/clearance-page)
 * [MyCoffee](https://www.mypillow.com/mycoffee-options)
-* [MyGummies](https://www.mypillow.com/mystore-gummies)
+* [MyGummies](https://www.mypillow.com/the-classic-collection/mystore-gummies)
 
 Get Even Lower Prices!
 
