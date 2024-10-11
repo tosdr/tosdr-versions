@@ -382,7 +382,7 @@ We may revise these terms of use at any time by amending this page. You are expe
 
 ‍
 
-If you have any concerns about material which appears on our Website, please contact schools@thisisschool.com.
+If you have any concerns about material which appears on our Website, please contact [\[email protected\]](https://www.thisisschool.com/cdn-cgi/l/email-protection).
 
 Thank you for visiting our site.
 
