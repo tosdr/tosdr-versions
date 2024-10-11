@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Trump Promises Tax Deduction for Car Loan Interest, Incentives for Auto Industry](https://www.theepochtimes.com/us/trump-promises-tax-deduction-for-car-loan-interest-incentives-for-auto-industry-5739189)
+* [Harris Holds Las Vegas Town Hall as Poll Shows Her Lead Slipping Among Latino Voters](https://www.theepochtimes.com/us/harris-holds-las-vegas-town-hall-as-poll-shows-her-lead-slipping-among-latino-voters-5739564)
     
-    NEW By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![Trump Promises Tax Deduction for Car Loan Interest, Incentives for Auto Industry](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Harris Holds Las Vegas Town Hall as Poll Shows Her Lead Slipping Among Latino Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Promises Tax Deduction for Car Loan Interest, Incentives for Auto Industry](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739261-10102024-DSC04059-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-promises-tax-deduction-for-car-loan-interest-incentives-for-auto-industry-5739189)
-* [Milton Was Deadly, But Not ‘Worst-Case Scenario’](https://www.theepochtimes.com/us/milton-was-deadly-but-not-worst-case-scenario-5739160)
+    ![Harris Holds Las Vegas Town Hall as Poll Shows Her Lead Slipping Among Latino Voters](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739568-Harris_town-hall_Nevada-205x123.jpg.webp)](https://www.theepochtimes.com/us/harris-holds-las-vegas-town-hall-as-poll-shows-her-lead-slipping-among-latino-voters-5739564)
+* [Day in Photos: Historic Settlement, Milton Aftermath, and a Royal Visit](https://www.theepochtimes.com/article/day-in-photos-historic-settlement-milton-aftermath-and-a-royal-visit-5739071)
     
-    NEW By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro), [John Haughey](https://www.theepochtimes.com/author/john-haughey), [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    3hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Milton Was Deadly, But Not ‘Worst-Case Scenario’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Historic Settlement, Milton Aftermath, and a Royal Visit](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Milton Was Deadly, But Not ‘Worst-Case Scenario’](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739268-GettyImages-2177043178-205x123.jpg.webp)](https://www.theepochtimes.com/us/milton-was-deadly-but-not-worst-case-scenario-5739160)
-* [TD Bank to Pay $3 Billion Penalty After Admitting to Money Laundering](https://www.theepochtimes.com/business/td-bank-to-pay-3-billion-penalty-after-admitting-to-money-laundering-5739324)
+    ![Day in Photos: Historic Settlement, Milton Aftermath, and a Royal Visit](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739459-GettyImages-2177043444-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-historic-settlement-milton-aftermath-and-a-royal-visit-5739071)
+* [12 Rescued From Bottom of Former Colorado Gold Mine, 1 Dead](https://www.theepochtimes.com/us/one-dead-12-trapped-at-bottom-of-colorado-gold-mine-5739536)
     
-    NEW By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    4hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
-    [![TD Bank to Pay $3 Billion Penalty After Admitting to Money Laundering](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![12 Rescued From Bottom of Former Colorado Gold Mine, 1 Dead](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![TD Bank to Pay $3 Billion Penalty After Admitting to Money Laundering](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722449-Unknown-5-205x123.jpg.webp)](https://www.theepochtimes.com/business/td-bank-to-pay-3-billion-penalty-after-admitting-to-money-laundering-5739324)
-* [Ethel Kennedy, Widow of Sen. Robert F. Kennedy and Human Rights Advocate, Dies at 96](https://www.theepochtimes.com/us/ethel-kennedy-widow-of-sen-robert-f-kennedy-and-human-rights-advocate-dies-at-96-post-5739238)
+    ![12 Rescued From Bottom of Former Colorado Gold Mine, 1 Dead](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739540-Colorado_Gold_Mine_People_Trapped_24284819469415-205x123.jpg.webp)](https://www.theepochtimes.com/us/one-dead-12-trapped-at-bottom-of-colorado-gold-mine-5739536)
+* [Oregon Congressional Candidates in Swing District Clash Over Abortion, Immigration in Debate](https://www.theepochtimes.com/us/oregon-congressional-candidates-in-swing-district-clash-over-abortion-immigration-in-debate-5738476)
     
-    3hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    4hr By [Scottie Barnes](https://www.theepochtimes.com/author/scottie-barnes)
     
-    [![Ethel Kennedy, Widow of Sen. Robert F. Kennedy and Human Rights Advocate, Dies at 96](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Oregon Congressional Candidates in Swing District Clash Over Abortion, Immigration in Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Ethel Kennedy, Widow of Sen. Robert F. Kennedy and Human Rights Advocate, Dies at 96](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739363-GettyImages-455242913-Ethel-Kennedy-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/ethel-kennedy-widow-of-sen-robert-f-kennedy-and-human-rights-advocate-dies-at-96-post-5739238)
-* [CDC Issues New Travel Advisory for Rwanda due to Ebola-Like Virus](https://www.theepochtimes.com/health/cdc-issues-new-travel-advisory-for-rwanda-due-to-ebola-like-virus-5739221)
+    ![Oregon Congressional Candidates in Swing District Clash Over Abortion, Immigration in Debate](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739541-splitJet_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/oregon-congressional-candidates-in-swing-district-clash-over-abortion-immigration-in-debate-5738476)
+* [How a GOP-Led Effort to Change Nebraska’s Electoral College Voting Failed](https://www.theepochtimes.com/article/how-a-gop-led-effort-to-change-nebraskas-electoral-college-voting-failed-5731492)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    4hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![CDC Issues New Travel Advisory for Rwanda due to Ebola-Like Virus](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![How a GOP-Led Effort to Change Nebraska’s Electoral College Voting Failed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![CDC Issues New Travel Advisory for Rwanda due to Ebola-Like Virus](https://img.theepochtimes.com/assets/uploads/2024/07/12/id5684895-cdc-headquarters-2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/cdc-issues-new-travel-advisory-for-rwanda-due-to-ebola-like-virus-5739221)
-* [Hurricane Milton Destroys Roof of Tropicana Field Stadium Near Tampa](https://www.theepochtimes.com/us/hurricane-milton-destroys-roof-of-tropicana-field-stadium-near-tampa-5739203)
+    ![How a GOP-Led Effort to Change Nebraska’s Electoral College Voting Failed](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739542-Nebraska-voting-6-205x123.jpg.webp)](https://www.theepochtimes.com/article/how-a-gop-led-effort-to-change-nebraskas-electoral-college-voting-failed-5731492)
+* [Federal Judge Denies Hurricane-Related Request to Extend Florida’s Voter Registration Deadline](https://www.theepochtimes.com/us/federal-judge-denies-hurricane-related-request-to-extend-floridas-voter-registration-deadline-5739192)
     
-    4hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Hurricane Milton Destroys Roof of Tropicana Field Stadium Near Tampa](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Judge Denies Hurricane-Related Request to Extend Florida’s Voter Registration Deadline](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Hurricane Milton Destroys Roof of Tropicana Field Stadium Near Tampa](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739365-Tropicana-Field-AP24284533614662-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/hurricane-milton-destroys-roof-of-tropicana-field-stadium-near-tampa-5739203)
-* [EU Approves 35 Billion Euro Loan to Kyiv Backed by Frozen Russian Assets](https://www.theepochtimes.com/world/eu-approves-35-billion-euro-loan-to-kyiv-backed-by-frozen-russian-assets-5739047)
-    
-    6hr By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
-    
-    [![EU Approves 35 Billion Euro Loan to Kyiv Backed by Frozen Russian Assets](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![EU Approves 35 Billion Euro Loan to Kyiv Backed by Frozen Russian Assets](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739368-2024-05-17T162326Z_1_LYNXMPEK4G0MN_RTROPTP_4_UKRAINE-CRISIS-EU-RUSSIA-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/eu-approves-35-billion-euro-loan-to-kyiv-backed-by-frozen-russian-assets-5739047)
-* [US, Japan to Expand Presence Near China: Pentagon](https://www.theepochtimes.com/world/us-japan-to-expand-presence-near-china-pentagon-5739073)
-    
-    6hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![US, Japan to Expand Presence Near China: Pentagon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US, Japan to Expand Presence Near China: Pentagon](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732268-Maritime-Exercises-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-japan-to-expand-presence-near-china-pentagon-5739073)
-* [FEMA Director: Florida Dodged ‘Worst-Case Scenario’ With Hurricane Milton](https://www.theepochtimes.com/us/fema-director-florida-dodged-worst-case-scenario-with-hurricane-milton-5739130)
+    ![Federal Judge Denies Hurricane-Related Request to Extend Florida’s Voter Registration Deadline](https://img.theepochtimes.com/assets/uploads/2023/09/11/id5489897-GettyImages-1364096506-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-denies-hurricane-related-request-to-extend-floridas-voter-registration-deadline-5739192)
+* [After 2 Hurricanes, FEMA Will Urgently Need Funding From Congress, Mayorkas Says](https://www.theepochtimes.com/us/after-2-hurricanes-fema-will-urgently-need-funding-from-congress-mayorkas-says-5739330)
     
     6hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![FEMA Director: Florida Dodged ‘Worst-Case Scenario’ With Hurricane Milton](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![After 2 Hurricanes, FEMA Will Urgently Need Funding From Congress, Mayorkas Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FEMA Director: Florida Dodged ‘Worst-Case Scenario’ With Hurricane Milton](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739184-GettyImages-2177761090KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-director-florida-dodged-worst-case-scenario-with-hurricane-milton-5739130)
-* [Tennis Great Rafael Nadal to Retire This Year](https://www.theepochtimes.com/sports/tennis-great-rafael-nadal-to-retire-this-year-5738981)
+    ![After 2 Hurricanes, FEMA Will Urgently Need Funding From Congress, Mayorkas Says](https://img.theepochtimes.com/assets/uploads/2024/06/21/id5673054-Alejandro-Mayorkas-GettyImages-2152314956-205x123.jpg.webp)](https://www.theepochtimes.com/us/after-2-hurricanes-fema-will-urgently-need-funding-from-congress-mayorkas-says-5739330)
+* [Trump Promises Tax Deduction for Car Loan Interest, Incentives for Auto Industry](https://www.theepochtimes.com/us/trump-promises-tax-deduction-for-car-loan-interest-incentives-for-auto-industry-5739189)
     
-    7hr By [Todd Karpovich](https://www.theepochtimes.com/author/todd-karpovich)
+    6hr By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
     
-    [![Tennis Great Rafael Nadal to Retire This Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Promises Tax Deduction for Car Loan Interest, Incentives for Auto Industry](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Tennis Great Rafael Nadal to Retire This Year](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739186-Rafael-NadalKO-205x123.jpg.webp)](https://www.theepochtimes.com/sports/tennis-great-rafael-nadal-to-retire-this-year-5738981)
+    ![Trump Promises Tax Deduction for Car Loan Interest, Incentives for Auto Industry](https://img.theepochtimes.com/assets/uploads/2024/10/11/id5739550-10102024-DSC04021-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-promises-tax-deduction-for-car-loan-interest-incentives-for-auto-industry-5739189)
+* [Milton Was Deadly, but Not ‘Worst-Case Scenario’](https://www.theepochtimes.com/us/milton-was-deadly-but-not-worst-case-scenario-5739160)
+    
+    6hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro), [John Haughey](https://www.theepochtimes.com/author/john-haughey), [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    
+    [![Milton Was Deadly, but Not ‘Worst-Case Scenario’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Milton Was Deadly, but Not ‘Worst-Case Scenario’](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739500-GettyImages-2177043178KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/milton-was-deadly-but-not-worst-case-scenario-5739160)
+* [TD Bank to Pay $3 Billion Penalty After Admitting to Money-Laundering](https://www.theepochtimes.com/business/td-bank-to-pay-3-billion-penalty-after-admitting-to-money-laundering-5739324)
+    
+    6hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![TD Bank to Pay $3 Billion Penalty After Admitting to Money-Laundering](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![TD Bank to Pay $3 Billion Penalty After Admitting to Money-Laundering](https://img.theepochtimes.com/assets/uploads/2024/09/11/id5722449-Unknown-5-205x123.jpg.webp)](https://www.theepochtimes.com/business/td-bank-to-pay-3-billion-penalty-after-admitting-to-money-laundering-5739324)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
