@@ -11,7 +11,7 @@
     * [Col 3](#)
         * Customer Stories
         * [Buffalo Trail Public Schools](https://hapara.com/blog/sharing-is-caring-in-buffalo-trail-public-schools/)
-        * [Prince George’s County Public Schools](https://hapara.com/blog/how-prince-georges-county-public-schools-successfully-created-and-implemented-a-k-12-tech-rollout-roadmap-across-their-school-district/)
+        * [Prince George’s County Public Schools](https://hapara.com/blog/prince-georges-county-public-schools-k-12-tech-rollout-roadmap/)
         * [Wolf Creek Public Schools](https://hapara.com/blog/creating-success-for-all-learners-at-wolf-creek-public-schools/)
         * [Alberta Collaboration for Learning](https://hapara.com/blog/driving-equity-in-alberta-canada-through-collaboration/)
         * [More customer stories >](https://hapara.com/blog/customer-stories/)
