@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-6928993b17f9766f34bd5340d354cb15
+ebd7ca9ed8a17830edd8e200a4844b4a
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Matte mostly blue chevrons](https://www.sojourner.biz/images/cache/glass/VB0044.200.jpg)](https://www.sojourner.biz/beads/glass/matte-mostly-blue-chevrons.html "Matte mostly blue chevrons")
+[![8 mm round vintage Japanese spun glass beads](https://www.sojourner.biz/images/cache/glass/GL0057.200.jpg)](https://www.sojourner.biz/beads/glass/8-mm-round-vintage-japanese-spun-glass-beads.html "8 mm round vintage Japanese spun glass beads")
 
-#### [Matte mostly blue chevrons](https://www.sojourner.biz/beads/glass/matte-mostly-blue-chevrons.html "Matte mostly blue chevrons")
+#### [8 mm round vintage Japanese spun glass beads](https://www.sojourner.biz/beads/glass/8-mm-round-vintage-japanese-spun-glass-beads.html "8 mm round vintage Japanese spun glass beads")
 
-$2.00
+$16.00
 
 ### Best Sellers
 
