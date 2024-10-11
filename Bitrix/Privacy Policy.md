@@ -230,43 +230,43 @@ Business size
 
 Import & Export
 
- [![jira-migration](/upload/optimizer/converted/images/content_en/icons/menu/jira-migration.png.webp?1728570333111)Jira migration](https://www.bitrix24.com/apps/app/integrations24.jira_migration/)
+ [![jira-migration](/upload/optimizer/converted/images/content_en/icons/menu/jira-migration.png.webp?1728634855483)Jira migration](https://www.bitrix24.com/apps/app/integrations24.jira_migration/)
 
- [![trello-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/trello-data-migration.png.webp?1728570333111)Trello data migration](https://www.bitrix24.com/apps/app/integrations24.trello/)
+ [![trello-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/trello-data-migration.png.webp?1728634855483)Trello data migration](https://www.bitrix24.com/apps/app/integrations24.trello/)
 
- [![asana-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/asana-data-migration.png.webp?1728570333111)Asana data migration](https://www.bitrix24.com/apps/app/integrations24.asana/)
+ [![asana-data-migration](/upload/optimizer/converted/images/content_en/icons/menu/asana-data-migration.png.webp?1728634855483)Asana data migration](https://www.bitrix24.com/apps/app/integrations24.asana/)
 
- [![import-from-excel](/upload/optimizer/converted/images/content_en/icons/menu/import-from-excel.png.webp?1728570333111)Import from Excel](https://www.bitrix24.com/apps/app/informunity.excel_west/)
+ [![import-from-excel](/upload/optimizer/converted/images/content_en/icons/menu/import-from-excel.png.webp?1728634855483)Import from Excel](https://www.bitrix24.com/apps/app/informunity.excel_west/)
 
 Sales & CRM
 
- [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1728570333111)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
+ [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1728634855483)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
 
- [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1728570333111)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
+ [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1728634855483)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
 
- [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1728570333111)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
+ [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1728634855483)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
 
- [![chat-booster](/upload/optimizer/converted/images/content_en/icons/menu/chat-booster.png.webp?1728570333111)Chat Booster](https://www.bitrix24.com/apps/app/brs4.lead_booster/)
+ [![chat-booster](/upload/optimizer/converted/images/content_en/icons/menu/chat-booster.png.webp?1728634855483)Chat Booster](https://www.bitrix24.com/apps/app/brs4.lead_booster/)
 
 Marketing
 
- [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1728570333111)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
+ [![wazzup](/upload/optimizer/converted/images/content_en/icons/menu/wazzup.png.webp?1728634855483)Wazzup](https://www.bitrix24.com/apps/app/wazzup.app/)
 
- [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1728570333111)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
+ [![whatsapp-business-api](/upload/optimizer/converted/images/content_en/icons/menu/whatsapp-business-api.png.webp?1728634855483)WhatsApp Business API](https://www.bitrix24.com/apps/app/polyakov.ofitsialnoe_whatsapp_business_api/)
 
- [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1728570333111)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
+ [![plivo-sms](/upload/optimizer/converted/images/content_en/icons/menu/plivo-sms.png.webp?1728634855483)Plivo SMS](https://www.bitrix24.com/apps/app/integrations24.plivosms/)
 
- [![mailchimp-exporter](/upload/optimizer/converted/images/content_en/icons/menu/mailchimp-exporter.png.webp?1728570333111)MailChimp Exporter](https://www.bitrix24.com/apps/app/webbee.bx24tomailchimp/)
+ [![mailchimp-exporter](/upload/optimizer/converted/images/content_en/icons/menu/mailchimp-exporter.png.webp?1728634855483)MailChimp Exporter](https://www.bitrix24.com/apps/app/webbee.bx24tomailchimp/)
 
 Tasks & Projects
 
- [![mind-map](/upload/optimizer/converted/images/content_en/icons/menu/mind-map.png.webp?1728570333111)Mind Map](https://www.bitrix24.com/apps/app/integrations24.mindmap/)
+ [![mind-map](/upload/optimizer/converted/images/content_en/icons/menu/mind-map.png.webp?1728634855483)Mind Map](https://www.bitrix24.com/apps/app/integrations24.mindmap/)
 
- [![miro-boards](/upload/optimizer/converted/images/content_en/icons/menu/miro-boards.png.webp?1728570333111)Miro Boards](https://www.bitrix24.com/apps/app/integrations24.miro/)
+ [![miro-boards](/upload/optimizer/converted/images/content_en/icons/menu/miro-boards.png.webp?1728634855483)Miro Boards](https://www.bitrix24.com/apps/app/integrations24.miro/)
 
- [![billable-hours-for-tasks](/upload/optimizer/converted/images/content_en/icons/menu/billable-hours-for-tasks.png.webp?1728570333111)Billable Hours For Tasks](https://www.bitrix24.com/apps/app/integrations24.billing/)
+ [![billable-hours-for-tasks](/upload/optimizer/converted/images/content_en/icons/menu/billable-hours-for-tasks.png.webp?1728634855483)Billable Hours For Tasks](https://www.bitrix24.com/apps/app/integrations24.billing/)
 
- [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1728570333111)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
+ [![kpi-company-efficiency](/upload/optimizer/converted/images/content_en/icons/menu/kpi-company-efficiency.png.webp?1728634855483)KPI – Company Efficiency](https://www.bitrix24.com/apps/app/apikit.ikpi/)
 
 [See 400+ apps & integrations](https://www.bitrix24.com/apps/)
 
@@ -535,7 +535,7 @@ In the event that all or substantially all of Bitrix24's stock and/or all or sub
 
 Data storage geography depending on Bitrix24 domain zone is described in the [Bitrix24 Infrastructure, Sub-processors and joint controllers section](https://www.bitrix24.com/upload/DPA/Bitrix24_Infrastructure_and_Sub.pdf).
 
-Personal Data obtained via Bitrix24.eu, Bitrix24.de, Bitrix.it, Bitrix24.pl, Bitrix24.uk and Bitrix24.fr domain zones is processed by BITRIX24 LIMITED registered on Republic of Cyprus inside the European Union Economic Area and stored inside the European Union in Frankfurt, Germany by Amazon Web Services data centers, which are fully GDPR compliant.
+Personal Data obtained via Bitrix24.eu, Bitrix24.de, Bitrix.it, Bitrix24.pl, Bitrix24.uk and Bitrix24.fr domain zones is processed by Alaio Cloud Limited registered on Republic of Cyprus inside the European Union Economic Area and stored inside the European Union in Frankfurt, Germany by Amazon Web Services data centers, which are fully GDPR compliant.
 
 For more information about data processing activities related to Users registered through the domain names Bitrix24.com, Bitrix24.in, Bitrix24.tr, Bitrix24.cn, Bitrix24.mx, Bitrix24.co please consult [Bitrix24 Infrastructure, Sub-processors and joint controllers section](https://www.bitrix24.com/upload/DPA/Bitrix24_Infrastructure_and_Sub.pdf).
 
@@ -595,7 +595,7 @@ You may set your browser to block cookies (consult the instructions for your par
 **Introduction**. This Privacy Statement describes how the Personal Data is processed under Bitrix24 Third Party integrations, Third Party links and Non-Bitrix Applications.  
 **Definitions**
 
-“Bitrix24,” “we,” “us” “our” means Bitrix Inc and its affiliates;  
+“Bitrix24,” “we,” “us” “our” means Alaio Inc. and its affiliates;  
 “Customer”, “You” means the organization that subscribes to the Services and through whom you, the end user of such Services, are provided access to the Bitrix24 Services;  
 “Customer Data” means electronic data and information submitted by or for Customer to the Services;  
 “Personal data” means any information relating to an identified or identifiable natural person;  
