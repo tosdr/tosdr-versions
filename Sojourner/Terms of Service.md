@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-c1aa505eb1c1b608e8cec05404d0c36a
+866927a5c0c6be14527df37a7d5cb85d
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![7 mm transparent purple heart beads](https://sojourner.biz/images/cache/glass/HRT029.200.jpg)](https://sojourner.biz/beads/glass/7-mm-transparent-purple-heart-beads.html "7 mm transparent purple heart beads")
+[![15 mm by 22 mm rhodonite irregular rectangles](https://sojourner.biz/images/cache/rhodonite/RHO0001.200.jpg)](https://sojourner.biz/beads/stone-m-z/rhodonite/15-mm-by-22-mm-rhodonite-irregular-rectangles.html "15 mm by 22 mm rhodonite irregular rectangles")
 
-#### [7 mm transparent purple heart beads](https://sojourner.biz/beads/glass/7-mm-transparent-purple-heart-beads.html "7 mm transparent purple heart beads")
+#### [15 mm by 22 mm rhodonite irregular rectangles](https://sojourner.biz/beads/stone-m-z/rhodonite/15-mm-by-22-mm-rhodonite-irregular-rectangles.html "15 mm by 22 mm rhodonite irregular rectangles")
 
-$2.00
+$46.00
 
 ### Best Sellers
 
