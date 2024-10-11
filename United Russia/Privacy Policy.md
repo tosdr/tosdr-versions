@@ -305,7 +305,7 @@
 
 [#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133) [#Китай](https://er.ru/activity/news?tags%5B0%5D=263) [#межпартийное взаимодействие](https://er.ru/activity/news?tags%5B0%5D=139731) [#КНДР](https://er.ru/activity/news?tags%5B0%5D=80779)
 
-Сегодня 19:27
+11.10.24
 
 [![При содействии «Единой России» в Луганске состоялся второй фестиваль «Сердце Донбасса»](https://cdn.er.ru/media/news/October2024/jnnelXFXDH8D6HKzvLNw-small.jpg)](https://er.ru/activity/news/pri-sodejstvii-edinoj-rossii-v-luganske-sostoyalsya-vtoroj-festival-serdce-donbassa)
 
@@ -313,7 +313,7 @@
 
 [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#сторонникиЕР](https://er.ru/activity/news?tags%5B0%5D=1093192) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#гражданскиеинициативы](https://er.ru/activity/news?tags%5B0%5D=121730) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 17:49
+11.10.24
 
 [![Александр Двойных: «Единая Россия» выступает за сохранение востребованных мер поддержки сельхозпроизводителей в бюджете на 2025 год](https://cdn.er.ru/media/news/October2024/4EsAOsjf8g2jleXSrQVT-small.jpg)](https://er.ru/activity/news/aleksandr-dvojnyh-edinaya-rossiya-vystupaet-za-sohranenie-vostrebovannyh-mer-podderzhki-selhozproizvoditelej-v-byudzhete-na-2025-god)
 
@@ -321,7 +321,7 @@
 
 [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#РоссийскоеСело](https://er.ru/activity/news?tags%5B0%5D=101051) [#совещание](https://er.ru/activity/news?tags%5B0%5D=190) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#комплексноеразвитиесельскихтерриторий](https://er.ru/activity/news?tags%5B0%5D=136045) [#РССМ](https://er.ru/activity/news?tags%5B0%5D=12700)
 
-Сегодня 15:15
+11.10.24
 
 [![«Единая Россия» и МГЕР организовали в регионах памятную акцию «Уничтоженное детство»](https://cdn.er.ru/media/news/October2024/YrOa7ZFyv4HBx80MqPVP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mger-organizovali-v-regionah-pamyatnuyu-akciyu-unichtozhennoe-detstvo)
 
