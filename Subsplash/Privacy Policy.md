@@ -257,7 +257,7 @@ We collect your personal information because:
 * It helps Subsplash deliver and administrate your Subsplash Account Services;
 * It helps Subsplash deliver a superior level of customer service;
 * It enables Subsplash to give you convenient access to our products and services and focus on categories of greatest interest to you;
-* It helps Subsplash keep you posted on the latest product announcements, software updates, special offers, and events that you might like to hear about. If you do not want Subsplash to keep you up to date with Subsplash news, software updates and the latest information on products and services please submit your request [here](https://www.subsplash.com/legal/data-request) or send an email request to privacy@subsplash.com.
+* It helps Subsplash keep you posted on the latest product announcements, software updates, special offers, and events that you might like to hear about. If you do not want Subsplash to keep you up to date with Subsplash news, software updates and the latest information on products and services please submit your request [here](https://www.subsplash.com/legal/data-request) or send an email request to [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection).
 
 ### WHAT INFORMATION WE COLLECT, WHEN WE COLLECT IT, AND HOW WE MAY USE IT
 
@@ -366,7 +366,7 @@ At any time, you may review your child’s personal information maintained by us
 You can review, change or delete your child’s personal information by:
 
 * Logging on to your account; or
-* Submitting a request [here](https://subsplash.com/legal/data-request), or by sending us an email at privacy@subsplash.com.
+* Submitting a request [here](https://subsplash.com/legal/data-request), or by sending us an email at [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection).
 
 To protect your privacy and security, we may require you to take certain steps or provide additional information to verify your identity before we provide any information or make corrections.
 
@@ -411,7 +411,7 @@ Subject to certain exemptions, and in some cases dependent upon the processing a
 
 We retain your personal data for as long as necessary to provide you with our services, or for other important purposes such as complying with legal obligations, resolving disputes, and enforcing our agreements.
 
-We ask that you please attempt to resolve any issues regarding your data protection or requests with us first before contacting the relevant supervisory authority.  If you would like to exercise any of the rights described above, please send a request to privacy@subsplash.com. In your message, please indicate the right you would like to exercise and the information that you would like to access, review, correct, or delete.
+We ask that you please attempt to resolve any issues regarding your data protection or requests with us first before contacting the relevant supervisory authority.  If you would like to exercise any of the rights described above, please send a request to [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection). In your message, please indicate the right you would like to exercise and the information that you would like to access, review, correct, or delete.
 
 We may ask you for additional information to confirm your identity and for security purposes, before disclosing the requested personal data.
 
@@ -425,7 +425,7 @@ Subsplash’s “privacy by design” approach requires that our default user da
 
 ### EU-US, UK EXTENSION TO THE EU-US, SWISS-US DATA PRIVACY FRAMEWORK
 
-Subsplash, Inc. and its subsidiaries comply with the EU-US Data Privacy Framework (EU-US DPF) and the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework (Swiss-US DPF) set forth by the US Department of Commerce. Subsplash as certified to the US Department of Commerce that it adheres to the EU-US Data Privacy Framework Principles (EU-US DPF Principles) with regard to the process of personal information received from the European Union and the United Kingdom in reliance on the EU-US DPF and the UK Extension to the EU-US DPF. Subsplash has certified to the US Department of Commerce that it adheres to the Swiss-US Data Privacy Framework Principles (Swiss-US DPF Principles) with regard to the processing of personal information received from Switzerland in reliance on the Swiss-US DPF. If there is any conflict between the terms in the privacy policy and the EU-US DPF Principles and/or the Swiss-US DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/). Individuals from whom Subsplash collects personal information under the Data Privacy Framework have the right to access their personal data by contacting Subsplash [here](https://www.subsplash.com/legal/data-request) or at privacy@subsplash.com.
+Subsplash, Inc. and its subsidiaries comply with the EU-US Data Privacy Framework (EU-US DPF) and the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework (Swiss-US DPF) set forth by the US Department of Commerce. Subsplash as certified to the US Department of Commerce that it adheres to the EU-US Data Privacy Framework Principles (EU-US DPF Principles) with regard to the process of personal information received from the European Union and the United Kingdom in reliance on the EU-US DPF and the UK Extension to the EU-US DPF. Subsplash has certified to the US Department of Commerce that it adheres to the Swiss-US Data Privacy Framework Principles (Swiss-US DPF Principles) with regard to the processing of personal information received from Switzerland in reliance on the Swiss-US DPF. If there is any conflict between the terms in the privacy policy and the EU-US DPF Principles and/or the Swiss-US DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) Program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/). Individuals from whom Subsplash collects personal information under the Data Privacy Framework have the right to access their personal data by contacting Subsplash [here](https://www.subsplash.com/legal/data-request) or at [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection).
 
 Subsplash’s compliance with the DPF Principles is subject to the regulatory and enforcement powers of the U.S. Federal Trade Commission.
 
@@ -467,7 +467,7 @@ C)  GDPR (General Data Protection Regulation)
 
 The GDPR replaces Directive 95/46/EC and becomes enforceable on May 25, 2018. The following statement is intended to supplement the preceding discussion of the EU-U.S. Data Privacy Framework. As to personal data collected and controlled by Subsplash, subject to the qualifications and limitations stated in the preceding discussion, EU data subjects retain their full rights to be informed of the purposes of our processing activities at collection; to withdraw consent; to access, rectify, transport, and erase their personal data; to object to processing for direct marketing efforts; and to object when subjected to automated processing decisions. As to personal data collected by third parties, and as to which Subsplash is a mere processor, EU data subjects should contact the controller (e.g., church or ministry) with regard to their rights to be informed of the purposes of our processing activities at collection; to withdraw consent; to access, rectify, transport, and erase their personal data; to object to processing for direct marketing efforts; and to object when subjected to automated processing decisions.  Such rights may be subject to certain qualifications and limitations as stated in the discussion of EU-US and the UK Extension to the EU-US, and Swiss-US Data Privacy Framework.
 
-Our Data Protection Officers will assist EU residents with these requests free of charge and may be contacted at privacy@subsplash.com.
+Our Data Protection Officers will assist EU residents with these requests free of charge and may be contacted at [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection).
 
 Subsplash understands that the adoption of global data security practices is not a one-time activity.  Subsplash’s “privacy by design” approach requires that our default user data protection levels be at the highest setting by default. In the unlikely event of breach, Subsplash will notify data subjects and Supervisory Authorities (SAs) in the EU according to procedures provided in GDPR Articles 33 and 34.
 
@@ -664,7 +664,7 @@ H)  Comply with a legal obligation; and
 
 I)  Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
 
-To exercise the access, data portability, and deletion rights described above, please submit a verifiable California Data Subject request to us by submitting a request [here](https://www.subsplash.com/legal/data-request) or by sending us an email at privacy@subsplash.com or calling us at (206) 965-8090.
+To exercise the access, data portability, and deletion rights described above, please submit a verifiable California Data Subject request to us by submitting a request [here](https://www.subsplash.com/legal/data-request) or by sending us an email at [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection) or calling us at (206) 965-8090.
 
 Only you or a person registered with the California Secretary of State, that you authorize to act on your behalf, may make a verifiable California Data Subject request related to your personal information. You may also make a verifiable California Data Subject request on behalf of your minor child.
 
@@ -698,7 +698,7 @@ Subsplash does not track its customers over time and across third party websites
 
 **Special Information for Nevada Residents**
 
-Residents of the State of Nevada have the right to opt out of the sale of certain pieces of their information to other companies who will sell or license their information to others. Subsplash does not sell or rent your contact information to other marketers or any other third party. If you are a Nevada resident and have additional questions please contact us [here](https://www.subsplash.com/legal/data-request) or by email at privacy@subsplash.com.
+Residents of the State of Nevada have the right to opt out of the sale of certain pieces of their information to other companies who will sell or license their information to others. Subsplash does not sell or rent your contact information to other marketers or any other third party. If you are a Nevada resident and have additional questions please contact us [here](https://www.subsplash.com/legal/data-request) or by email at [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -718,7 +718,7 @@ If you are communicating with or making a donation to any organization or instit
 
 ### INQUIRIES, COMPLAINTS, AND DISPUTE RESOLUTION
 
-If you wish to verify, correct or delete any personal information we have collected, or if you have any questions or concerns, or if you have any complaints, please contact us [here](https://www.subsplash.com/legal/data-request) or by email at privacy@subsplash.com. If there is a dispute between you and Subsplash regarding your personal information or this policy, you agree to use reasonable efforts to resolve such dispute with Subsplash informally and to consult and negotiate with Subsplash in good faith to reach a fair and equitable solution.
+If you wish to verify, correct or delete any personal information we have collected, or if you have any questions or concerns, or if you have any complaints, please contact us [here](https://www.subsplash.com/legal/data-request) or by email at [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection). If there is a dispute between you and Subsplash regarding your personal information or this policy, you agree to use reasonable efforts to resolve such dispute with Subsplash informally and to consult and negotiate with Subsplash in good faith to reach a fair and equitable solution.
 
 ###   
 PRIVACY QUESTIONS
@@ -729,7 +729,7 @@ Subsplash, Inc.
 
 5473 Blair Rd. Ste 100, PMB 41141, Dallas, TX 75231-4227
 
-Email: privacy@subsplash.com
+Email: [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection)
 
 Última actualización: 27 de Septiembre de 2022 - Versión 4.6 
 
@@ -748,7 +748,7 @@ Recopilamos su información personal porque: 
 * Ayuda a Subsplash a entregar y administra sus Servicios de a cuenta de Subsplash
 * Ayuda a que Subsplash proporcione un nivel superior de servicio al cliente. 
 * Permite que Subsplash le brinde un acceso conveniente a nuestros 'productos y servicios y que se centre en categorías que tengan el mayor interés para usted.
-* Ayuda a que Subsplash lo mantenga informado de las más recientes notificaciones de productos, actualizaciones del software, ofertas especiales y acontedimientos sobre los que le interesaría saber. Si no desea que Subsplash lo mantenga actualizado con noticias de Subsplash, actualizaciones de software y la información más reciente sobre productos y servicios, envié su solicitud [aquí](https://www.subsplash.com/legal/data-request) o envíe una solicitud por correo electrónico a [privacy@subsplash.com](mailto:privacy@subsplash.com).
+* Ayuda a que Subsplash lo mantenga informado de las más recientes notificaciones de productos, actualizaciones del software, ofertas especiales y acontedimientos sobre los que le interesaría saber. Si no desea que Subsplash lo mantenga actualizado con noticias de Subsplash, actualizaciones de software y la información más reciente sobre productos y servicios, envié su solicitud [aquí](https://www.subsplash.com/legal/data-request) o envíe una solicitud por correo electrónico a [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection).
 
 ### QUÉ INFORMACIÓN RECOPILAMOS, CUÁNDO LA RECOPILAMOS Y CÓMO PODEMOS USARLA
 
@@ -847,7 +847,7 @@ En cualquier momento, puede revisar la información personal de su hijo guardada
 Puede revisar, cambiar o borrar la información personal de su hijo al: 
 
 * Iniciar la sesión en su cuenta; o 
-* Enviando una solicitud [aquí](https://subsplash.com/legal/data-request), o enviándonos un correo electrónico a privacy@subsplash.com. Para proteger su privacidad y seguridad, es posible que le solicitemos que tome ciertas medidas o proporcione información adicional para verificar su identidad antes de darle cualquier información o corregirla.
+* Enviando una solicitud [aquí](https://subsplash.com/legal/data-request), o enviándonos un correo electrónico a [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection). Para proteger su privacidad y seguridad, es posible que le solicitemos que tome ciertas medidas o proporcione información adicional para verificar su identidad antes de darle cualquier información o corregirla.
 
 ### CLIENTES DEL CANADÁ
 
@@ -890,7 +890,7 @@ Sujetos a ciertas exenciones, y en algunos casos dependiendo de la actividad de 
 
 Guardamos sus datos personales todo el tiempo que sea necesario para proporcionarle nuestros servicios, o para otros propósitos importantes, tales como cumplir con las obligaciones legales, resolver disputas y hacer que se cumplan nuestros acuerdos. 
 
-Le pedimos que primero trate de resolver con nosotros cualquier problema con la protección de sus datos o solicitudes antes de ponerse en contacto con la autoridad supervisora pertinente. Si quisiera ejercer los derechos descritos anteriormente, sírvase enviar su solicitud a privacy@subsplash.com En su mensaje, indique el derecho que desea ejercer y la información a la que quisiera acceder, repasar, corregir o borrar. 
+Le pedimos que primero trate de resolver con nosotros cualquier problema con la protección de sus datos o solicitudes antes de ponerse en contacto con la autoridad supervisora pertinente. Si quisiera ejercer los derechos descritos anteriormente, sírvase enviar su solicitud a [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection) En su mensaje, indique el derecho que desea ejercer y la información a la que quisiera acceder, repasar, corregir o borrar. 
 
 Le podemos pedir información adicional para confirmar su identidad, así como para la seguridad antes de divulgar los datos personales solicitados. 
 
@@ -904,7 +904,7 @@ El enfoque "privacidad por diseño" de Subsplash exije que nuestros niveles por 
 
 ### ESTRUCTURA DEL ESCUDO DE LA PRIVACIDAD UE-EE. UU
 
-Las siguientes disposiciones rigen la información recopilada basada en los Principios de la Estructura del Escudo de la Privacidad UE-EE. UU para las transferencias de datos personales de la UE a los Estados Unidos. Subsplash se adhiere a los Principios del Escudo de la Privacidad (los "Principios") y está comprometida a someter todos los datos personales recibidos de la UE a los Principios basados en el Escudo de la Privacidad. Las personas de las que Subsplash recopila información personal según el Escudo de la Privacidad tienen el derecho a tener acceso a sus datos personales poniéndose en contacto con Subsplash [aquí](https://www.subsplash.com/legal/data-request) o en privacy@subsplash.com. Como resultado de la certificación al Escudo de la Privacidad, Subsplash está sujeta a los poderes de investigación y cumplimiento de la Federal Trade Commission (Comisión de Comercio de Federal) o cualquier otro organismo legal autorizado por los Estados Unidos. 
+Las siguientes disposiciones rigen la información recopilada basada en los Principios de la Estructura del Escudo de la Privacidad UE-EE. UU para las transferencias de datos personales de la UE a los Estados Unidos. Subsplash se adhiere a los Principios del Escudo de la Privacidad (los "Principios") y está comprometida a someter todos los datos personales recibidos de la UE a los Principios basados en el Escudo de la Privacidad. Las personas de las que Subsplash recopila información personal según el Escudo de la Privacidad tienen el derecho a tener acceso a sus datos personales poniéndose en contacto con Subsplash [aquí](https://www.subsplash.com/legal/data-request) o en [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection). Como resultado de la certificación al Escudo de la Privacidad, Subsplash está sujeta a los poderes de investigación y cumplimiento de la Federal Trade Commission (Comisión de Comercio de Federal) o cualquier otro organismo legal autorizado por los Estados Unidos. 
 
 Usted puede acceder la Lista del Escudo de la Privacidad [aquí](https://www.privacyshield.gov/list).
 
@@ -950,7 +950,7 @@ Si sus demandas sobre la información cubierta por el Escudo de Privacidad UE-EE
 
 El GDPR reemplaza a la Directiva 95/46/EC y tiene vigencia desde el 25 de mayo de 2018 La intención de la siguiente declaración es complementar la lo que se ha tratado anteriormente sobre el Escudo de Privacidad de la UE-EE. UU En cuanto a los datos personales recopilados y controlados por Subsplash sujetos a las calificaciones y limitaciones manifestadas en lo tratado anteriormente, los interesados de la UE conservan sus plenos derechos a ser informados de los objetivos de nuestras actividades de procesamiento al recolectar la información; de retirar el consentimiento; de acceder, rectificar, transportar y borrar sus datos personales; de oponerse al procesamiento para esfuerzos del marketing directo; y a tener objeciones cuando estén sujetos a decisiones de procesamiento automatizado. En lo que se refiere a la información personal recopilada por terceros y que Subsplash solo procesa, los interesados de la UE deben ponerse en contacto con el responsable (por ejemplo, la iglesia o ministerio) con respecto a sus derechos a ser informados de los objetivos de nuestras actividades de procesamiento en el momento de la recopilación;retirar el consentimiento; acceder, rectificar, transportar y borrar sus datos personales; oponerse al procesamiento para esfuerzos de marketing directo; y objetar cuando estén sujetos a decisiones de procesamiento automatizado. Dichos derechos pueden estar sujetos a ciertas calificaciones y limitaciones según se ha manifestado al tratar sobre el Escudo de Privacidad de la UE-EE. UU. 
 
-Nuestros Oficiales de Procesamiento de Datos ayudarán gratis a los residentes de la UE con estas solicitudes y pueden ser contactados en privacy@subsplash.com 
+Nuestros Oficiales de Procesamiento de Datos ayudarán gratis a los residentes de la UE con estas solicitudes y pueden ser contactados en [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection) 
 
 Subsplash comprende que adoptar prácticas globales de seguridad no es una actividad que ocurra una sola vez. El enfoque "privacidad por diseño" de Subsplash exije que nuestros niveles por defecto de la protección de datos del usuario tengan por defecto la configuración más alta. En el caso improbable de incumplimiento, Subsplash notificará a los interesados y a las Autoridades de Supervisión (SA) en la UE de acuerdo con los procedimientos dispuestos en los artículos 33 y 34 del GDPR. 
 
@@ -1143,7 +1143,7 @@ G. Cumplir con una obligación legal; y 
 
 H. Llevar a cabo otros usos internos de esa información compatibles con el contexto en el que usted le proporcionó.
 
-Para ejercer los derechos de acceso portabilidad de datos y supresión descritos arriba, sírvase enviarnos una solicitud del Interesado de California por correo electrónico a privacy@subsplash.com o llamándonos al (206) 965-8090.
+Para ejercer los derechos de acceso portabilidad de datos y supresión descritos arriba, sírvase enviarnos una solicitud del Interesado de California por correo electrónico a [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection) o llamándonos al (206) 965-8090.
 
 Solo usted o una persona inscrita con el Secretario de Estado de California que usted autorice para actuar en su nombre puede hacer una solicitud verificable del Interesado de California relacionada con su información personal. Usted también puede hacer una solicitud del Interesado de California a nombre de su hijo(a) menor de edad. 
 
@@ -1175,7 +1175,7 @@ Subsplash no le hace seguimiento a sus clientes a través del tiempo y con sitio
 
 ### INFORMACIÓN ESPECIAL PARA LOS RESIDENTES DE NEVADA 
 
-Los residentes del Estado de Nevada tienen el derecho de rechazar la venta de ciertas partes de su información a otras empresas que venderán o licenciarán su información a otros. Subsplash no vende ni alquila su información de contacto a otros comerciantes o a ningún otro tercero. Si usted es residente de Nevada y tiene preguntas adicionales contáctenos [aquí](https://www.subsplash.com/legal/data-request) o por correo electrónico a [privacy@subsplash.com](mailto:privacy@subsplash.com).
+Los residentes del Estado de Nevada tienen el derecho de rechazar la venta de ciertas partes de su información a otras empresas que venderán o licenciarán su información a otros. Subsplash no vende ni alquila su información de contacto a otros comerciantes o a ningún otro tercero. Si usted es residente de Nevada y tiene preguntas adicionales contáctenos [aquí](https://www.subsplash.com/legal/data-request) o por correo electrónico a [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection).
 
 ### CAMPAÑAS ESPECIALIZADAS DE SOCIOS 
 
@@ -1191,7 +1191,7 @@ Si se está comunicando o haciendo un donativo a cualquier organización o insti
 
 ### CONSULTAS, QUEJAS Y RESOLUCIÓN DE DISPUTAS 
 
-Si quiere verificar, corregir o borrar cualquier información personal que hayamos recopilado, o si tiene alguna pregunta o inquietud, o si tiene alguna queja, contáctenos [aquí](https://www.subsplash.com/legal/data-request) o por correo electrónico en privacy@subsplash.com. Si hay una disputa entre usted y Subsplash en lo que refiere a su información personal o a esta política, usted acepta hacer todo esfuerzo razonable para resolver dicha disputa con Subsplash de manera informal y consultar y negociar con Subsplash de buena fe para llegar a una solución justa y equitativa.
+Si quiere verificar, corregir o borrar cualquier información personal que hayamos recopilado, o si tiene alguna pregunta o inquietud, o si tiene alguna queja, contáctenos [aquí](https://www.subsplash.com/legal/data-request) o por correo electrónico en [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection). Si hay una disputa entre usted y Subsplash en lo que refiere a su información personal o a esta política, usted acepta hacer todo esfuerzo razonable para resolver dicha disputa con Subsplash de manera informal y consultar y negociar con Subsplash de buena fe para llegar a una solución justa y equitativa.
 
 ### PREGUNTAS SOBRE LA PRIVACIDAD 
 
@@ -1201,7 +1201,7 @@ Subsplash, Inc.
 
 750 N Saint Paul St Ste 250, PMB 41141, Dallas, Texas 75201-3206
 
-Email: [privacy@subsplash.com](mailto:privacy@subsplash.com)
+Email: [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection)
 
 ### ‍
 
@@ -1220,7 +1220,7 @@ Nous recueillons des Informations à caractère personnel pour les raisons suiva
 * Elles aident Subsplash à fournir et à gérer vos Services de compte Subsplash
 * Elles aident Subsplash à fournir à la clientèle un service de qualité supérieure
 * Elles permettent à Subsplash de vous donner un accès pratique à nos produits et services et de mettre l’accent sur les catégories les plus intéressantes pour vous
-* Elles aident Subsplash à vous tenir informé des dernières annonces de produits, des mises à jour logicielles, des offres spéciales et des événements susceptibles de vous intéresser. Si vous ne souhaitez pas que Subsplash vous informe des actualités, des mises à jour logicielles et des plus récentes informations sur les produits et services de Subsplash, veuillez soumettre votre demande [ici](https://www.subsplash.com/legal/data-request) ou nous envoyer un courrier électronique à l’adresse privacy@subsplash.com.
+* Elles aident Subsplash à vous tenir informé des dernières annonces de produits, des mises à jour logicielles, des offres spéciales et des événements susceptibles de vous intéresser. Si vous ne souhaitez pas que Subsplash vous informe des actualités, des mises à jour logicielles et des plus récentes informations sur les produits et services de Subsplash, veuillez soumettre votre demande [ici](https://www.subsplash.com/legal/data-request) ou nous envoyer un courrier électronique à l’adresse [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection).
 
 ### QUELLES INFORMATIONS RECUEILLONS-NOUS, À QUEL MOMENT ET COMMENT POUVONS-NOUS LES UTILISER
 
@@ -1324,7 +1324,7 @@ Vous pouvez à tout moment examiner les Informations à caractère personnel de 
 Vous pouvez examiner, modifier ou supprimer les Informations à caractère personnel de votre enfant en:
 
 * Vous connectant à votre compte ou en
-* Soumettant une demande [ici](https://subsplash.com/legal/data-request) ou en nous envoyant un courrier électronique à l’adresse privacy@subsplash.com. Pour protéger votre vie privée et votre sécurité, nous pouvons vous demander d’effectuer certaines démarches ou de fournir des informations supplémentaires pour vérifier votre identité avant de vous donner une quelconque information ou d’apporter des corrections.
+* Soumettant une demande [ici](https://subsplash.com/legal/data-request) ou en nous envoyant un courrier électronique à l’adresse [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection). Pour protéger votre vie privée et votre sécurité, nous pouvons vous demander d’effectuer certaines démarches ou de fournir des informations supplémentaires pour vérifier votre identité avant de vous donner une quelconque information ou d’apporter des corrections.
 
 ### CLIENTS CANADIENS
 
@@ -1367,7 +1367,7 @@ Sous réserve de certaines exceptions et dans certains cas, selon l'activité de
 
 Nous conservons vos données à caractère personnel aussi longtemps que nécessaire pour vous fournir nos services, ou à d’autres fins importantes, comme celles de nous conformer à des obligations légales, de régler des différends et d’imposer le respect de nos accords. 
 
-Nous vous demandons de bien vouloir tenter de résoudre tout problème concernant la protection de vos données ou nous demander de le faire avant de contacter l’autorité de contrôle pertinente. Si vous souhaitez exercer l’un des droits décrits ci-dessus, veuillez en envoyer la demande à l’adresse privacy@subsplash.com. Veuillez indiquer dans votre message le droit que vous souhaitez exercer et les informations que vous souhaitez consulter, réviser, corriger ou supprimer.
+Nous vous demandons de bien vouloir tenter de résoudre tout problème concernant la protection de vos données ou nous demander de le faire avant de contacter l’autorité de contrôle pertinente. Si vous souhaitez exercer l’un des droits décrits ci-dessus, veuillez en envoyer la demande à l’adresse [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection). Veuillez indiquer dans votre message le droit que vous souhaitez exercer et les informations que vous souhaitez consulter, réviser, corriger ou supprimer.
 
 Nous pouvons vous demander des informations supplémentaires pour confirmer votre identité et à des fins de sécurité avant de divulguer les données à caractère personnel demandées.
 
@@ -1381,7 +1381,7 @@ L’approche de Subsplash basée sur la protection de la vie privée dès la con
 
 ### CADRE DU BOUCLIER DE PROTECTION DES DONNÉES  (« PRIVACY SHIELD ») UE–USA
 
-Les dispositions suivantes régissent les informations recueillies en s’appuyant sur les principes du Privacy Shield UE–USA pour les transferts de données à caractère personnel de l’UE vers les États-Unis. Subsplash adhère aux principes du Privacy Shield (ci-après les « Principes ») et s’engage à soumettre aux Principes toutes les données à caractère personnel en provenance de l’UE en s’appuyant sur le cadre du Privacy Shield. Les personnes auprès desquelles Subsplash recueille des données à caractère personnel dans le cadre du Privacy Shield ont le droit d’accéder à leurs données à caractère personnel en contactant Subsplash [ici](https://www.subsplash.com/legal/data-request) ou à l’adresse privacy@subsplash.com. En tant qu’entreprise certifiée du Privacy Shield, Subsplash est assujettie aux pouvoirs d’enquête et d’application de la loi de la Federal Trade Commission ou de toute autre entité réglementaire autorisée aux États-Unis.
+Les dispositions suivantes régissent les informations recueillies en s’appuyant sur les principes du Privacy Shield UE–USA pour les transferts de données à caractère personnel de l’UE vers les États-Unis. Subsplash adhère aux principes du Privacy Shield (ci-après les « Principes ») et s’engage à soumettre aux Principes toutes les données à caractère personnel en provenance de l’UE en s’appuyant sur le cadre du Privacy Shield. Les personnes auprès desquelles Subsplash recueille des données à caractère personnel dans le cadre du Privacy Shield ont le droit d’accéder à leurs données à caractère personnel en contactant Subsplash [ici](https://www.subsplash.com/legal/data-request) ou à l’adresse [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection). En tant qu’entreprise certifiée du Privacy Shield, Subsplash est assujettie aux pouvoirs d’enquête et d’application de la loi de la Federal Trade Commission ou de toute autre entité réglementaire autorisée aux États-Unis.
 
   
 Vous pouvez accéder à la Liste du Privacy Shield [ici](https://www.privacyshield.gov/list).
@@ -1426,7 +1426,7 @@ Si vos réclamations concernant les données couvertes par le Privacy Shield UE�
 
 Le GDPR remplace la Directive 95/46/EC et est en vigueur depuis le 25 mai 2018. La déclaration suivante est prévue comme complément à la discussion qui précède sur le Privacy Shield UE–États-Unis. En ce qui concerne les données à caractère personnel recueillies et contrôlées par Subsplash, sous réserve des limitations et restrictions énoncées dans le débat qui précède, les personnes concernées de l’UE conservent leurs droits entiers d’être informées des fins de nos activités de traitement au moment de la collecte, de retirer leur consentement, de consulter, rectifier, transporter et effacer leurs données à caractère personnel, de s’opposer au traitement pour des efforts de marketing direct et de s’opposer lorsqu’elles font l’objet de décisions fondées sur le traitement automatisé. En ce qui concerne les données à caractère personnel recueillies par des tiers et pour lesquelles Subsplash n’est que le prestataire des services de traitement, les personnes concernées de l’UE doivent contacter le responsable (par exemple une église ou un ministère) en ce qui concerne leurs droits d’être informées des fins de nos activités de traitement au moment de la collecte, de retirer leur consentement, de consulter, rectifier, transporter et effacer leurs données à caractère personnel de s’opposer au traitement pour des efforts de marketing direct et de s’opposer lorsqu’elles font l’objet de décisions fondées sur le traitement automatisé. Ces droits peuvent être assujettis à certaines restrictions et limitations comme indiqué dans le débat sur le Privacy Shield UE–États-Unis. 
 
-Nos agents de traitement des données qui aideront gratuitement les résidents de l’UE avec ces demandes peuvent être joints à l’adresse privacy@subsplash.com.
+Nos agents de traitement des données qui aideront gratuitement les résidents de l’UE avec ces demandes peuvent être joints à l’adresse [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection).
 
 Subsplash comprend que l’adoption de pratiques de sécurité pour les données au niveau mondial n’est pas une activité ponctuelle. L’approche de protection de la vie privée dès la conception (« privacy bt design ») de Subsplash exige que nos niveaux par défaut de protection des données de l’utilisateur soient automatiquement réglés au niveau le plus élevé. Dans le cas peu probable d’une violation des données, Subsplash en avise les personnes concernées et les autorités de contrôle de l’UE selon les procédures indiquées aux Articles 33 et 34 du GDPR.
 
@@ -1625,7 +1625,7 @@ H. Nous conformer à une obligation légale et
 
 I. Faire d’autres utilisations internes et légales de ces informations qui sont compatibles avec le contexte dans lequel vous les avez fournies.
 
-Pour exercer vos droits d’accès, de portabilité des données et de suppression décrits ci-dessus, veuillez soumettre une demande vérifiable de personne concernée de Californie en nous soumettant votre demande [ici](https://www.subsplash.com/legal/data-request), en nous envoyant un courrier électronique à l’adresse privacy@subsplash.com, ou en téléphonant au (206) 965-8090.
+Pour exercer vos droits d’accès, de portabilité des données et de suppression décrits ci-dessus, veuillez soumettre une demande vérifiable de personne concernée de Californie en nous soumettant votre demande [ici](https://www.subsplash.com/legal/data-request), en nous envoyant un courrier électronique à l’adresse [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection), ou en téléphonant au (206) 965-8090.
 
 Vous seul ou une personne inscrite auprès du secrétaire d’État de Californie, que vous autorisez à agir en votre nom, pouvez faire une demande vérifiable de personne concernée de Californie concernant vos Informations à caractère personnel. Vous pouvez également faire une demande vérifiable de personne concernée de Californie au nom de votre enfant mineur.
 
@@ -1659,7 +1659,7 @@ Subsplash ne suit pas ses clients au fil du temps ni sur les sites Web de tiers 
 
 ### INFORMATIONS SPÉCIALES POUR LES RÉSIDENTS DU NEVADA
 
-Les résidents de l’État du Nevada ont le droit de ne pas accepter la vente de certains éléments de leurs informations à d’autres sociétés qui vendront ou cèderont sous licence leurs informations à d’autres personnes. Subsplash ne vend ni ne loue pas vos coordonnées à d’autres spécialistes du marketing ou à toute autre tiers. Si vous êtes un résident du Nevada et que vous avez d’autres questions, veuillez nous contacter [ici](https://www.subsplash.com/legal/data-request) ou par courrier électronique à l’adresse privacy@subsplash.com. 
+Les résidents de l’État du Nevada ont le droit de ne pas accepter la vente de certains éléments de leurs informations à d’autres sociétés qui vendront ou cèderont sous licence leurs informations à d’autres personnes. Subsplash ne vend ni ne loue pas vos coordonnées à d’autres spécialistes du marketing ou à toute autre tiers. Si vous êtes un résident du Nevada et que vous avez d’autres questions, veuillez nous contacter [ici](https://www.subsplash.com/legal/data-request) ou par courrier électronique à l’adresse [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection). 
 
 ### CAMPAGNES SPÉCIALISÉES PARTENAIRES
 
@@ -1675,13 +1675,13 @@ Si vous communiquez ou faites un don à une organisation ou institution qui est 
 
 ### DEMANDES, RÉCLAMATIONS ET RÈGLEMENT DE DIFFÉRENDS
 
-Si vous souhaitez vérifier, corriger ou supprimer toute information personnelle que nous avons recueillie, ou si vous avez des questions ou des préoccupations, ou si vous avez des réclamations, veuillez nous contacter [ici](https://www.subsplash.com/legal/data-request) ou par courrier électronique à l’adresse privacy@subsplash.com. S’il y a un différend entre vous et Subsplash concernant vos Informations à caractère personnel ou la présente politique, vous acceptez de déployer des efforts raisonnables pour résoudre ce différend avec Subsplash de façon informelle, et de consulter et négocier avec Subsplash en toute bonne foi pour parvenir à une solution juste et équitable.  
+Si vous souhaitez vérifier, corriger ou supprimer toute information personnelle que nous avons recueillie, ou si vous avez des questions ou des préoccupations, ou si vous avez des réclamations, veuillez nous contacter [ici](https://www.subsplash.com/legal/data-request) ou par courrier électronique à l’adresse [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection). S’il y a un différend entre vous et Subsplash concernant vos Informations à caractère personnel ou la présente politique, vous acceptez de déployer des efforts raisonnables pour résoudre ce différend avec Subsplash de façon informelle, et de consulter et négocier avec Subsplash en toute bonne foi pour parvenir à une solution juste et équitable.  
 
 ### QUESTIONS SUR LA PROTECTION DE LA VIE PRIVÉE
 
 Si vous avez des questions ou des préoccupations concernant la politique de protection de la vie privée de Subsplash, veuillez contacter notre responsable de la protection de la vie privée. Ce responsable peut être contacté à l’adresse suivante:
 
-Subsplash, Inc. 750 N Saint Paul St Ste 250, PMB 41141, Dallas, Texas 75201-3206 or [privacy@subsplash.com](mailto:privacy@subsplash.com)
+Subsplash, Inc. 750 N Saint Paul St Ste 250, PMB 41141, Dallas, Texas 75201-3206 or [\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection)
 
 ‍
 
@@ -1689,7 +1689,7 @@ Subsplash, Inc. 750 N Saint Paul St Ste 250, PMB 41141, Dallas, Texas 75201-3206
 
 Connect
 
-[Support](https://www.subsplash.com/support)[System status](https://status.subsplash.com/)[hello@subsplash.com](mailto:hello@subsplash.com)[Talk to sales: 469-564-3922](tel:+14695643922)
+[Support](https://www.subsplash.com/support)[System status](https://status.subsplash.com/)[\[email protected\]](https://www.subsplash.com/cdn-cgi/l/email-protection)[Talk to sales: 469-564-3922](tel:+14695643922)
 
 [![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/66abe605eb679856d7162ba5_instagram.svg)](https://www.instagram.com/subsplash/)[![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/66abe608ae3cfb42b829c9b6_facebook.svg)](https://www.facebook.com/subsplashseattle)[![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/66abe60cb37a83e95e0f74bf_linkedin.svg)](https://www.linkedin.com/company/subsplash)[![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/66abe60fb835b0b8922ef30d_x.svg)](https://www.twitter.com/subsplash)
 
