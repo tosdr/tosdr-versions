@@ -451,7 +451,7 @@ Sales Support
 Your Privacy Is Our Priority
 
 Learn more about our longstanding privacy promises and compliance with FERPA, GDPR, and other regulations.  
-[Privacy & Security](https://web.seesaw.me/privacy-security)  |  [Your Privacy Choices](#)  |  [Accessibility](https://seesaw.com/accessibility/)
+[Privacy & Security](https://web.seesaw.me/privacy-security)  |  [Your Privacy Choices](#)  |  [Accessibility](https://seesaw.com/accessibility/)  |  [COPPA Direct Notice](https://seesaw.com/coppa-direct-notice-to-schools/)
 
 © 2024 Copyright
 
