@@ -15,7 +15,7 @@ Welcome to Ko-fi.com. This page tells you the terms on which you may use our web
 
 Ko-fi.com is a site operated by Ko-fi Labs Limited (“**We**”, “**Us**”, “**Our**”, “**Ko-fi**”). We are a UK Limited company registered in England and Wales under company number 11087704.
 
-To contact us, please email [hello@ko-fi.com](mailto:hello@ko-fi.com) or reach out to us via the Help Portal on our site.
+To contact us, please email [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection) or reach out to us via the Help Portal on our site.
 
 ‍
 
@@ -270,7 +270,7 @@ It is your responsibility to determine what, if any, taxes apply to the Donation
 
 ### **Linking to the Site and Scraping**
 
-You may not scrape content from this site and repost such content, either manually or automatically, without Ko-fi’s prior written consent. This site must not be framed on any other site without our prior written permission. We reserve the right to withdraw linking, scraping and framing permission without notice. If you wish to make any use of material on this website other than that set out above, please address your request to [info@ko-fi.com](mailto:info@ko-fi.com). Linking to this site should only be for the purpose of promoting a specific page as a Creator and should follow the Creator Specific Terms outlined above. Bots or other automatic means must not be used to interact with our website.
+You may not scrape content from this site and repost such content, either manually or automatically, without Ko-fi’s prior written consent. This site must not be framed on any other site without our prior written permission. We reserve the right to withdraw linking, scraping and framing permission without notice. If you wish to make any use of material on this website other than that set out above, please address your request to [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection). Linking to this site should only be for the purpose of promoting a specific page as a Creator and should follow the Creator Specific Terms outlined above. Bots or other automatic means must not be used to interact with our website.
 
 > **In a Nutshell**  
 > Don’t steal or scrape our data. Not cool!
@@ -309,7 +309,7 @@ If you choose, or you are provided with, a user identification code, password or
 
 We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use.
 
-If you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at [data@ko-fi.com](http://about:blank/).
+If you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at [\[email protected\]](http://about:blank/).
 
 > **In a Nutshell**  
 > Keep your Ko-fi account details safe.
@@ -442,7 +442,7 @@ Welcome to Ko-fi.com. This page tells you the terms on which you may use our web
 
 Ko-fi.com is a site operated by Ko-Fi Labs Limited (“**We**”, “**Us**”, “**Our**”, “**Ko-fi**”). We are a UK Limited company registered in England and Wales under company number 11087704.
 
-To contact us, please email [hello@ko-fi.com](mailto:hello@ko-fi.com) or reach out to us via the Help Portal on our site.
+To contact us, please email [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection) or reach out to us via the Help Portal on our site.
 
 ‍
 
@@ -623,7 +623,7 @@ It is your responsibility to determine what, if any, taxes apply to the Donation
 
 ### **Linking to the Site and Scraping**
 
-You may not scrape content from this site and repost such content, either manually or automatically, without Ko-fi’s prior written consent. This site must not be framed on any other site without our prior written permission. We reserve the right to withdraw linking, scraping and framing permission without notice. If you wish to make any use of material on this website other than that set out above, please address your request to [info@ko-fi.com](mailto:info@ko-fi.com). Linking to this site should only be for the purpose of promoting a specific page as a Creator and should follow the Creator Specific Terms outlined above. Bots or other automatic means must not be used to interact with our website.
+You may not scrape content from this site and repost such content, either manually or automatically, without Ko-fi’s prior written consent. This site must not be framed on any other site without our prior written permission. We reserve the right to withdraw linking, scraping and framing permission without notice. If you wish to make any use of material on this website other than that set out above, please address your request to [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection). Linking to this site should only be for the purpose of promoting a specific page as a Creator and should follow the Creator Specific Terms outlined above. Bots or other automatic means must not be used to interact with our website.
 
 > **In a Nutshell**  
 > Don’t steal or scrape our data. Not cool!
@@ -645,7 +645,7 @@ If you choose, or you are provided with, a user identification code, password or
 
 We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use.
 
-If you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at data@ko-fi.com.
+If you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at [\[email protected\]](https://more.ko-fi.com/cdn-cgi/l/email-protection).
 
 > **In a Nutshell**  
 > Keep your Ko-fi account details safe.
