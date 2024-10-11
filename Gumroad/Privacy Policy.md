@@ -167,7 +167,7 @@ You may change any of your Personal Data in your account by editing your profile
 
 ### Marketing communications
 
-You may opt out of marketing-related emails by clicking on a link at the bottom of our marketing emails, or by contacting us at [support@gumroad.com](mailto:support@gumroad.com). You may continue to receive service-related and other non-marketing emails.
+You may opt out of marketing-related emails by clicking on a link at the bottom of our marketing emails, or by contacting us at [\[email protected\]](https://gumroad.com/cdn-cgi/l/email-protection). You may continue to receive service-related and other non-marketing emails.
 
 ### Targeted online advertising
 
@@ -242,7 +242,7 @@ By using our application and granting access to your Google data, you consent to
 13\. Contact Us
 ---------------
 
-If you have any questions or concerns at all about our Privacy Policy, please feel free to email us at [support@gumroad.com](mailto:support@gumroad.com).
+If you have any questions or concerns at all about our Privacy Policy, please feel free to email us at [\[email protected\]](https://gumroad.com/cdn-cgi/l/email-protection).
 
 14\. Additional Information for European Union Users
 ----------------------------------------------------
@@ -259,12 +259,12 @@ Gumroad acts as a processor to sellers through the Services, as described throug
 
 ### Legal bases for processing
 
-We use your personal information only as permitted by law. We are required to inform you of the legal bases of our processing of your personal information, which are described in the table below. If you have questions about the legal basis of how we process your personal information, contact us at support@gumroad.com.
+We use your personal information only as permitted by law. We are required to inform you of the legal bases of our processing of your personal information, which are described in the table below. If you have questions about the legal basis of how we process your personal information, contact us at [\[email protected\]](https://gumroad.com/cdn-cgi/l/email-protection).
 
 * **To provide our Sites and Services** - Processing is necessary to perform the contract governing our provision of the Services or to take steps that you request prior to signing up for the Services.
 * **To communicate with you,  To create anonymous data , For compliance, fraud prevention and safety** - These processing activities constitute our legitimate interests. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal information for our legitimate interests. We do not use your personal information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
 * **To comply with law** - Processing is necessary to comply with our legal obligations
-* **With your consent** - Processing is based on your consent. Where we rely on your consent you have the right to withdraw it anytime in the manner indicated in the Service or by contacting us at [support@gumroad.com](mailto:support@gumroad.com).
+* **With your consent** - Processing is based on your consent. Where we rely on your consent you have the right to withdraw it anytime in the manner indicated in the Service or by contacting us at [\[email protected\]](https://gumroad.com/cdn-cgi/l/email-protection).
 * **Use of Personal Data on Behalf of Our Sellers** - We use personal data to comply with the instructions of the data controller, our sellers and, to the extent necessary, to perform the contract governing our provision of the Services or to take steps that you request prior to signing up for the Services.
 
 ### Use for new purposes
@@ -291,7 +291,7 @@ European data protection laws give European Union users certain rights regarding
 * **Restrict.** Restrict the processing of your personal information.
 * **Object.** Object to our reliance on our legitimate interests as the basis of our processing of your personal information.
 
-You can submit these requests by email to [support@gumroad.com](mailto:support@gumroad.com) or our postal address provided above. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us as described above or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator here.
+You can submit these requests by email to [\[email protected\]](https://gumroad.com/cdn-cgi/l/email-protection) or our postal address provided above. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us as described above or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator here.
 
 To the extent we act as a processor on behalf of a seller, individuals should contact the relevant seller to exercise the rights and choices described in this section.
 
