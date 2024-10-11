@@ -114,7 +114,7 @@ Did you know ?
 
   
 
-© **AllDebrid.com** 2009 2042 - High quality premium link downloader. All rights reserved, reproduction prohibited without authorization. (1.16ms - 0)
+© **AllDebrid.com** 2009 2042 - High quality premium link downloader. All rights reserved, reproduction prohibited without authorization. (1.19ms - 0)
 
 [Mobile](https://m.alldebrid.com/)    |    [Downloader](https://alldebrid.com/service/)    |    [Pricing](https://alldebrid.com/offer/)    |    [Legal](https://alldebrid.com/legal/)    |    [Privacy](https://alldebrid.com/privacy/)    |    [Terms of Service](https://alldebrid.com/tos/)    |    [Bounty Program](https://alldebrid.com/bounty/)    |    [API (developer)](https://docs.alldebrid.com/)    |    [Japon](https://dondon.media/)    |    [Support](https://alldebrid.com/contact/)  
   
