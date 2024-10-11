@@ -358,7 +358,7 @@ The Privacy and Cookie statements below are specifically in relation to your use
 
 ### Privacy statement
 
-**Last updated: 18 March 2024**
+**Last updated: 11 October 2024**
 
 In the following privacy policy "we/us" means Vodafone Group Plc; "third party" means someone who is not you or us; and "Vodafone Group" means Vodafone Group Plc and any company or other organisation in which Vodafone Group Plc owns more than 15% of the share capital.
 
