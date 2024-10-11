@@ -70,6 +70,7 @@ Search site
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
 * [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
+* [DZTV](https://www.fox4news.com/tag/series/dumb-zone)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
@@ -486,6 +487,7 @@ WATCH LIVE COVERAGE
 * [The Tex Factor](https://www.fox4news.com/shows/the-tex-factor)
 * [Texas To-Do List](https://www.fox4news.com/tag/series/texas-to-do-list)
 * [Here's To You](https://www.fox4news.com/herestoyou)
+* [DZTV](https://www.fox4news.com/tag/series/dumb-zone)
 
 ###### [About Us](https://www.fox4news.com/about-us)
 
