@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/LHR5TTK-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/HypeHero-250x141.jpg)
     
-    Lee H. Roberts aims to keep pace with an evolving future](https://www.unc.edu/posts/2024/10/09/lee-h-roberts-aims-to-keep-pace-with-an-evolving-future/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/10/StudentStoresHERO-250x141.jpg)
+    Numbers tell Carolina’s story](https://www.unc.edu/posts/2024/10/11/numbers-tell-carolinas-story/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/10/InstallationHERO-250x141.jpg)
     
-    Campus Health launches mini clinic](https://www.unc.edu/posts/2024/10/09/campus-health-launches-mini-clinic/)
+    Carolina celebrates installation of Lee H. Roberts](https://www.unc.edu/posts/2024/10/11/carolina-celebrates-installation-of-lee-h-roberts/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=ce7ce29f14&text=%prefix%%text%%suffix%&post_id=248736&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=7b4fb43b57&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
