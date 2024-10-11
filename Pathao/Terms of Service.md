@@ -2,19 +2,19 @@
 
 ### The Biggest Fest is Almost Here!
 
-04
+03
 
 Days
 
-02
+20
 
 Hours
 
-52
+48
 
 Minutes
 
-32
+59
 
 Seconds
 
