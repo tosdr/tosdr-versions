@@ -29,9 +29,9 @@
 
 "100% GDPR Compliant"
 
-"Top-Tier Support"
-
 "Privacy-Compliant Captcha"
+
+"Top-Tier Support"
 
 "Great reCaptcha Alternative"
 
@@ -162,7 +162,7 @@ By continuing to access or use our Service after any revisions become effective,
 
 If you have any questions about these Terms, please contact us:
 
-* By email: [info@mtcaptcha.com](mailto:info@mtcaptcha.com)
+* By email: [\[email protected\]](https://www.mtcaptcha.com/cdn-cgi/l/email-protection)
 * By visiting this page on our website: [https://www.mtcaptcha.com/contact](https://www.mtcaptcha.com/contact)
 
 GDPR Compliant Captcha for the Enterprise  
