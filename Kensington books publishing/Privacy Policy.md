@@ -14,19 +14,11 @@ Recommendations
 
 Audio
 
-* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
+* [![A Guide to Truman Capote Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/31122907/PRH_Site_1200x628_TrumanCapot.jpg)
     
-    Audiobooks for Kids
+    A Guide to Truman Capote Books
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
-
-* * *
-
-* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
-    
-    Browse All Our Lists, Essays, and Interviews
-    
-    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/truman-capote-books/)
 
 * * *
 
@@ -35,6 +27,14 @@ Audio
     Join Our Authors for Upcoming Events
     
     Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+
+* * *
+
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/10181536/PRH_Site_1200x628_OCT2024.jpg)
+    
+    New Releases
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-october/)
 
 * <
     
