@@ -72,6 +72,7 @@ Follow Us
 Trending Posts
 --------------
 
+* [Michigan State Troopers caught attempting to plant drugs in bogus DUI arrest- alleges lawsuit.](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest) 
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
@@ -80,8 +81,7 @@ Trending Posts
 * ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
 * [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
-* ['Look at our suffering!': Gaza's message to the world after a year of genocide](https://therealnews.com/gazas-message-to-the-world-after-a-year-of-genocide)
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
 
 Close
 
@@ -136,6 +136,7 @@ Follow Us
 Trending Posts
 --------------
 
+* [Michigan State Troopers caught attempting to plant drugs in bogus DUI arrest- alleges lawsuit.](https://therealnews.com/michigan-state-troopers-caught-attempting-to-plant-drugs-in-bogus-dui-arrest) 
 * [How Florida's Native Americans Predicted and Survived Hurricanes](https://therealnews.com/msainato0911)
 * ['They cannot defeat us': Lebanon stands defiant against Israel's assault](https://therealnews.com/lebanon-stands-defiant-against-israels-assault)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
@@ -144,8 +145,7 @@ Trending Posts
 * ['Allah is sufficient for us': Worshipping in the ruins of Gaza's mosques](https://therealnews.com/worshipping-in-the-ruins-of-gazas-mosques)
 * [Israel's War on Palestine](https://therealnews.com/israels-war-on-palestine)
 * [Cornell is about to deport a student over Palestine activism](https://therealnews.com/cornell-is-about-to-deport-a-student-over-palestine-activism)
-* ['Look at our suffering!': Gaza's message to the world after a year of genocide](https://therealnews.com/gazas-message-to-the-world-after-a-year-of-genocide)
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
+* [Spain's unions wage nationwide general strike for Palestine](https://therealnews.com/spains-unions-wage-nationwide-general-strike-for-palestine)
 
 [Skip to content](#main)
 
