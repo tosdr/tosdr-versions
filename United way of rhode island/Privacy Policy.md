@@ -204,21 +204,9 @@ UPCOMING EVENTS
 
 [See all events](https://www.unitedwayri.org/get-involved/join-an-event/)
 
-[![Rhode Island KIDS COUNT's Paige Clausius-Parks and the Economic Progress Institute's Weayonnoh Nelson-Davies clapping.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/DAP_United_FarmF-113_web-landscape-beefc4873dc6a4fdbf9e9c414b900306-.jpg "DAP_United_FarmF-113_web")](https://www.unitedwayri.org/event/98th-annual-celebration/)
+Sorry, we couldn't find any posts. Please try a different search.
 
-10 Oct
-
-#### [98th Annual Celebration](https://www.unitedwayri.org/event/98th-annual-celebration/ "98th Annual Celebration")
-
-Join [United Way of Rhode Island](https://www.unitedwayri.org/) for our 98th Annual Celebration! We are celebrating our collective impact in the community by recognizing our donors, partners, and volunteers for their contributions. Together we are "United in Action" as we build racial equity and opportunities for all Rhode Islanders.
-
-Thursday, Oct. 10, 2024  
-5:30 - 8 p.m.
-
-[WaterFire Arts Center](https://www.google.com/maps/place/The+WaterFire+Arts+Center/@41.8288341,-71.4357382,16z/data=!3m1!4b1!4m6!3m5!1s0x89e445a6db2dc74f:0xdad3a7ba66f93bb8!8m2!3d41.8288301!4d-71.4331633!16s%2Fg%2F11crzftvy6?entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D)  
-475 Valley St., Providence
-
-[REGISTER](https://uwriweb.org/comm/SinglePageRegEvent.jsp?EventKeyHex=3134363035)
+### Search
 
 ### Subscribe to add impact to your inbox
 
