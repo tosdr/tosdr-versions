@@ -75,31 +75,31 @@ Latest commented posts
 
 [kinktober created by alna fratcher](https://yiff-party.com/yiff/kinktober-created-by-alna-fratcher/)
 
-0 166 1
+0 181 1
 
 October 8, 2024
 
-[](https://yiff-party.com/yiff/directed-by-l649000/)
+[](https://yiff-party.com/yiff/mal0-scp-1471-and-scp-1471-a-scp-foundation-created-by-voider-artist/)
 
-[directed by l649000](https://yiff-party.com/yiff/directed-by-l649000/)
+[mal0, scp-1471, and scp-1471-a (scp foundation) created by voider (artist)](https://yiff-party.com/yiff/mal0-scp-1471-and-scp-1471-a-scp-foundation-created-by-voider-artist/)
 
 0 2 0
 
 October 12, 2024
 
-[](https://yiff-party.com/yiff/andy-and-goon-created-by-goonie-san/)
+[](https://yiff-party.com/yiff-ai-premium/zira-directed-by-anonymous-director/)
 
-[andy and goon created by goonie-san](https://yiff-party.com/yiff/andy-and-goon-created-by-goonie-san/)
+[zira directed by anonymous director](https://yiff-party.com/yiff-ai-premium/zira-directed-by-anonymous-director/)
 
-0 65 0
+0 59 0
 
 September 12, 2024
 
-[](https://yiff-party.com/yiff-gif/alphi-and-pops-created-by-foxylilshrink/)
+[](https://yiff-party.com/yiff/mizu-nintendo-and-etc-created-by-vilf/)
 
-[alphi and pops created by foxylilshrink](https://yiff-party.com/yiff-gif/alphi-and-pops-created-by-foxylilshrink/)
+[mizu (nintendo and etc) created by vilf](https://yiff-party.com/yiff/mizu-nintendo-and-etc-created-by-vilf/)
 
-0 170 0
+0 198 0
 
 September 12, 2024
 
