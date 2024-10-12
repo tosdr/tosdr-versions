@@ -87,7 +87,7 @@ _\* For new updates / iterations on our server we use an incremental number, lik
 
 ### Consent
 
-By registering an account or playing Beyond All Reason you consent to the terms stated in this Privacy Policy. If you have any concerns about how BAR is handling your User Personal Information, please let us know immediately at [privacy@beyondallreason.info](mailto:privacy@beyondallreason.info).
+By registering an account or playing Beyond All Reason you consent to the terms stated in this Privacy Policy. If you have any concerns about how BAR is handling your User Personal Information, please let us know immediately at [\[email protected\]](https://www.beyondallreason.info/cdn-cgi/l/email-protection).
 
 ‍
 
@@ -135,7 +135,7 @@ The collected information is also used for moderation and analytical purposes, s
 
 ### Deleting your information
 
-You can request the deletion of your Personal Information by contacting us at [privacy@beyondallreason.info](mailto:privacy@beyondallreason.info).
+You can request the deletion of your Personal Information by contacting us at [\[email protected\]](https://www.beyondallreason.info/cdn-cgi/l/email-protection).
 
 ‍
 
