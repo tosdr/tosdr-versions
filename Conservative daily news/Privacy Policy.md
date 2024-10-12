@@ -1,4 +1,4 @@
-Friday, October 11 2024
+Saturday, October 12 2024
 
 Breaking News
 
@@ -177,6 +177,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: Magpul SL MP5 Stock](https://www.thegunpage.com/tfb-review-magpul-sl-mp5-stock/10611160)
+* [POTD: Revolver That Fires Rubber Balls Using Blank Cartridges](https://www.thegunpage.com/potd-revolver-that-fires-rubber-balls-using-blank-cartridges/10611161)
+* [TFB Podcast Roundup 150: The October 11th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-150-the-october-11th-roundup/10611162)
 * [Quality Thermal Made Easy: The Armasight Jockey 640 Compact Thermal Clip-On](https://www.thegunpage.com/quality-thermal-made-easy-the-armasight-jockey-640-compact-thermal-clip-on/10611156)
 * [First Look: SIG Sauer MCX-SPEAR 6.8X51](https://www.thegunpage.com/first-look-sig-sauer-mcx-spear-6-8x51/10611153)
 * [New CZ 600+ ERGO DRIVEN HUNT Rifle](https://www.thegunpage.com/new-cz-600-ergo-driven-hunt-rifle/10611155)
@@ -184,9 +187,6 @@ Recent Posts
 * [FN Introduces the FN SCAR 15P In .300 BLACKOUT](https://www.thegunpage.com/fn-introduces-the-fn-scar-15p-in-300-blackout/10611146)
 * [Gov. Sarah Sanders, Sen. John Boozman Headline SIG Sauer Jacksonville Arkansas Ammunition Center Grand Opening](https://www.thegunpage.com/gov-sarah-sanders-sen-john-boozman-headline-sig-sauer-jacksonville-arkansas-ammunition-center-grand-opening/10611151)
 * [Hunter Attacked And Severely Bitten By Grizzly In Wyoming](https://www.thegunpage.com/hunter-attacked-and-severely-bitten-by-grizzly-in-wyoming/10611144)
-* [Third Annual Remington Shoot To Cure Sporting Clays Fundraiser](https://www.thegunpage.com/third-annual-remington-shoot-to-cure-sporting-clays-fundraiser/10611152)
-* [The Masterkey Is Back! Tyr 1 KTMS 12-gauge](https://www.thegunpage.com/the-masterkey-is-back-tyr-1-ktms-12-gauge/10611142)
-* [Rust Armorer In More Gun Trouble](https://www.thegunpage.com/rust-armorer-in-more-gun-trouble/10611140)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
