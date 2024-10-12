@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/beleid-grieppandemie-ruikt-verdacht/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/de-griepprik-de-weerstand-ertegen-groeit/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
